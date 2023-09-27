@@ -41,6 +41,7 @@ public class Practica1 {
     case "-d":
 
       UniversalEncodingDetector encDet = new UniversalEncodingDetector();
+      LanguageDetector detector = new OptimaizeLangDetector().loadModels();
 
       for(File f: files){
         InputStream is = new FileInputStream(f);
@@ -52,12 +53,26 @@ public class Practica1 {
 
         try {
           parser.parse(is, ch, meta, parseContext);
+          detector.addText(ch.toString());
 
         } finally {
           is.close();
         }
 
-        System.out.println(f.getName() + "\t" + tika.detect(f) + "\t" + meta.get(Metadata.CONTENT_ENCODING));
+        String encoding = meta.get(Metadata.CONTENT_ENCODING);
+
+        if(encoding == null){
+          encoding = "Unknown";
+        }
+
+        String lang = detector.detect().getLanguage();
+
+        if(lang == ""){
+          lang = "Unknown";
+        }
+
+        System.out.println(f.getName() + "\t" + tika.detect(f) + "\t" + encoding + "\t" + lang);
+        detector.reset();
 
       }
 
