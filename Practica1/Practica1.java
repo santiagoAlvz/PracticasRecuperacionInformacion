@@ -5,8 +5,10 @@
  */
 package ejemplosimple;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.InputStream;
 import java.io.FileInputStream;
+import java.util.HashMap
 
 import org.apache.tika.Tika;
 import org.apache.tika.metadata.Metadata;
@@ -44,8 +46,9 @@ public class Practica1 {
       case "-l":
         System.out.println("L option");
         break;
+
       case "-t":
-        System.out.println("T option");
+        frequencyCount(files, args[0]);
         break;
 
       default:
@@ -90,6 +93,42 @@ public class Practica1 {
         }
         System.out.println(String.format(tableFormat, f.getName(), tika.detect(f), encoding, lang));
         detector.reset();
+
+      } catch (Exception e){
+
+      }
+    }
+  }
+
+  private static void frequencyCount(File[] files, String folder){
+    Tika tika = new Tika();
+    String filename;
+    HashMap<String, unsigned> frequencyCount;
+    
+    for(File f: files){
+      frequencyCount.clear();
+
+      try {
+        InputStream is = new FileInputStream(f);
+        Metadata meta = new Metadata();
+        BodyContentHandler ch = new BodyContentHandler(-1);
+        ParseContext parseContext = new ParseContext();
+        AutoDetectParser parser = new AutoDetectParser();
+
+        parser.parse(is, ch, meta, parseContext);
+
+        filename = f.getName();
+        filename = "word_count_" + filename.substring(0, filename.lastIndexOf('.')) + ".csv";
+
+        FileWriter output = new FileWriter(folder + "/" +filename);
+
+        String[] words = ch.toString().split(' ');
+
+        for(String word: words) {
+
+        }
+
+        output.close();
 
       } catch (Exception e){
 
