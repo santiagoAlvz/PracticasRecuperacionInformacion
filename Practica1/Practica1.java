@@ -5,10 +5,17 @@
  */
 package ejemplosimple;
 import java.io.File;
+import java.io.InputStream;
+import java.io.FileInputStream;
+
 import org.apache.tika.Tika;
 import org.apache.tika.metadata.Metadata;
 import org.apache.tika.langdetect.optimaize.OptimaizeLangDetector;
 import org.apache.tika.language.detect.LanguageDetector;
+import org.apache.tika.parser.AutoDetectParser;
+import org.apache.tika.parser.ParseContext;
+import org.apache.tika.sax.BodyContentHandler;
+import org.apache.tika.parser.txt.UniversalEncodingDetector;
 
 /**
  *
@@ -32,7 +39,28 @@ public class Practica1 {
 
   switch(args[1]){
     case "-d":
-      System.out.println("D option");
+
+      UniversalEncodingDetector encDet = new UniversalEncodingDetector();
+
+      for(File f: files){
+        InputStream is = new FileInputStream(f);
+        Metadata meta = new Metadata();
+        BodyContentHandler ch = new BodyContentHandler(-1);
+        ParseContext parseContext = new ParseContext();
+
+        AutoDetectParser parser = new AutoDetectParser();
+
+        try {
+          parser.parse(is, ch, meta, parseContext);
+
+        } finally {
+          is.close();
+        }
+
+        System.out.println(f.getName() + "\t" + tika.detect(f) + "\t" + encDet.detect(is, meta));
+
+      }
+
       break;
     case "-l":
       System.out.println("L option");
