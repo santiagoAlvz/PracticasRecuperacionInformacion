@@ -17,11 +17,28 @@ import org.apache.tika.language.detect.LanguageDetector;
 
 public class Practica1 {
 
-    public static void main(String[] args) throws Exception {
+  public static void main(String[] args) throws Exception {
 
   // Creamos una instancia de Tika con la configuracion por defecto
   Tika tika = new Tika();
-  
+
+  String folderName = args[0];
+
+  switch(args[1]){
+    case "-d":
+      System.out.println("D option");
+      break;
+    case "-l":
+      System.out.println("L option");
+      break;
+    case "-t":
+      System.out.println("T option");
+      break;
+    default:
+      System.out.println("Error. Unrecognized option");
+      break;
+  }
+  /*
   // Se parsean todos los ficheros pasados como argumento y se extrae el contenido
   for (String file : args) {
       File f = new File(file);
@@ -47,6 +64,6 @@ public class Practica1 {
   }
 
   //System.out.println("Escrito en :"+detector.detect().getLanguage());
+  */
   }
-    
 }
