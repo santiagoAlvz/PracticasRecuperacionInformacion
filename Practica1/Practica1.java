@@ -14,12 +14,14 @@ import org.apache.tika.language.detect.LanguageDetector;
  *
  * @author jhg
  */
-public class EjemploSimple {
+
+public class Practica1 {
 
     public static void main(String[] args) throws Exception {
 
-  // Creaamos una instancia de Tika con la configuracion por defecto
+  // Creamos una instancia de Tika con la configuracion por defecto
   Tika tika = new Tika();
+  
   // Se parsean todos los ficheros pasados como argumento y se extrae el contenido
   for (String file : args) {
       File f = new File(file);
