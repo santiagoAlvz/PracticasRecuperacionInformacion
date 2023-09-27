@@ -22,7 +22,13 @@ public class Practica1 {
   // Creamos una instancia de Tika con la configuracion por defecto
   Tika tika = new Tika();
 
-  String folderName = args[0];
+  File directory = new File(args[0]);
+  File[] files = directory.listFiles();
+
+  if(files == null){
+    System.out.println("Error. Specified directory wasn't found");
+    return;
+  }
 
   switch(args[1]){
     case "-d":
@@ -34,10 +40,13 @@ public class Practica1 {
     case "-t":
       System.out.println("T option");
       break;
+
     default:
       System.out.println("Error. Unrecognized option");
       break;
   }
+
+  System.out.println(files.length);
   /*
   // Se parsean todos los ficheros pasados como argumento y se extrae el contenido
   for (String file : args) {
