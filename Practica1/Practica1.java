@@ -42,7 +42,7 @@ public class Practica1 {
 
       UniversalEncodingDetector encDet = new UniversalEncodingDetector();
       LanguageDetector detector = new OptimaizeLangDetector().loadModels();
-
+      
       for(File f: files){
         InputStream is = new FileInputStream(f);
         Metadata meta = new Metadata();
@@ -70,8 +70,7 @@ public class Practica1 {
         if(lang == ""){
           lang = "Unknown";
         }
-
-        System.out.println(f.getName() + "\t" + tika.detect(f) + "\t" + encoding + "\t" + lang);
+        System.out.println("\n"+String.format("%-30s %-55s %-20s %-20s", f.getName(), tika.detect(f), encoding, lang));
         detector.reset();
 
       }
