@@ -26,38 +26,56 @@ public class Practica1 {
 
   public static void main(String[] args) throws Exception {
 
-  // Creamos una instancia de Tika con la configuracion por defecto
-  Tika tika = new Tika();
+    // Creamos una instancia de Tika con la configuracion por defecto
 
-  File directory = new File(args[0]);
-  File[] files = directory.listFiles();
+    File directory = new File(args[0]);
+    File[] files = directory.listFiles();
 
-  if(files == null){
-    System.out.println("Error. Specified directory wasn't found");
-    return;
+    if(files == null){
+      System.out.println("Error. Specified directory wasn't found");
+      return;
+    }
+
+    switch(args[1]){
+      case "-d":
+        fileSummary(files);
+        break;
+
+      case "-l":
+        System.out.println("L option");
+        break;
+      case "-t":
+        System.out.println("T option");
+        break;
+
+      default:
+        System.out.println("Error. Unrecognized option");
+        break;
+    }
   }
 
-  switch(args[1]){
-    case "-d":
+  private static void fileSummary(File[] files){
+    Tika tika = new Tika();
+    String tableFormat = "%-30s %-55s %-20s %-20s";
 
-      UniversalEncodingDetector encDet = new UniversalEncodingDetector();
-      LanguageDetector detector = new OptimaizeLangDetector().loadModels();
-      
-      for(File f: files){
+    System.out.println("File Summary:");
+    System.out.println("-".repeat(125));
+    System.out.println(String.format(tableFormat, "Filename", "Content-Type", "Encoding", "Language"));
+    System.out.println("-".repeat(125));
+
+    UniversalEncodingDetector encDet = new UniversalEncodingDetector();
+    LanguageDetector detector = new OptimaizeLangDetector().loadModels();
+    
+    for(File f: files){
+      try {
         InputStream is = new FileInputStream(f);
         Metadata meta = new Metadata();
         BodyContentHandler ch = new BodyContentHandler(-1);
         ParseContext parseContext = new ParseContext();
-
         AutoDetectParser parser = new AutoDetectParser();
 
-        try {
-          parser.parse(is, ch, meta, parseContext);
-          detector.addText(ch.toString());
-
-        } finally {
-          is.close();
-        }
+        parser.parse(is, ch, meta, parseContext);
+        detector.addText(ch.toString());
 
         String encoding = meta.get(Metadata.CONTENT_ENCODING);
 
@@ -70,51 +88,12 @@ public class Practica1 {
         if(lang == ""){
           lang = "Unknown";
         }
-        System.out.println("\n"+String.format("%-30s %-55s %-20s %-20s", f.getName(), tika.detect(f), encoding, lang));
+        System.out.println(String.format(tableFormat, f.getName(), tika.detect(f), encoding, lang));
         detector.reset();
 
+      } catch (Exception e){
+
       }
-
-      break;
-    case "-l":
-      System.out.println("L option");
-      break;
-    case "-t":
-      System.out.println("T option");
-      break;
-
-    default:
-      System.out.println("Error. Unrecognized option");
-      break;
-  }
-
-  System.out.println(files.length);
-  /*
-  // Se parsean todos los ficheros pasados como argumento y se extrae el contenido
-  for (String file : args) {
-      File f = new File(file);
-      
-      String type = tika.detect(f);
-      System.out.println(file +":"+type);
-      
-     
-      String text = tika.parseToString(f);
-      System.out.print(text);
-      
-     
-  }
-
-  String[] textos={"Esto es un ejemplo de uso del detector de lenguaje",
-  "this is an example of language detector", 
-  "bon jour, mademoiselle"};
-  LanguageDetector detector = new OptimaizeLangDetector().loadModels();
-  for (int i =0;i<3;i++){  
-      detector.addText(textos[i]);
-      System.out.println(detector.detect().getLanguage());
-      detector.reset();
-  }
-
-  //System.out.println("Escrito en :"+detector.detect().getLanguage());
-  */
+    }
   }
 }
