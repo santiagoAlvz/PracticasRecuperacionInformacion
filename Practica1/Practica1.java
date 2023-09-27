@@ -57,7 +57,7 @@ public class Practica1 {
           is.close();
         }
 
-        System.out.println(f.getName() + "\t" + tika.detect(f) + "\t" + encDet.detect(is, meta));
+        System.out.println(f.getName() + "\t" + tika.detect(f) + "\t" + meta.get(Metadata.CONTENT_ENCODING));
 
       }
 
