@@ -46,7 +46,6 @@ public class Practica1 {
         break;
 
       case "-l":
-        System.out.println("L option");
         findLinks(files);
         break;
 
@@ -168,7 +167,7 @@ public class Practica1 {
           AutoDetectParser parser = new AutoDetectParser();
           parser.parse(is, linkHandler, meta, parseContext);
           // print the links
-          System.out.println("Links: " + f.getName());
+          System.out.println("File: " + f.getName());
           System.out.println("-".repeat(125));
           if (linkHandler.getLinks().size() == 0){
             System.out.println("No links found");
