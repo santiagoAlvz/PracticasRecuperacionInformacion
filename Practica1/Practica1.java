@@ -32,7 +32,6 @@ public class Practica1 {
   public static void main(String[] args) throws Exception {
 
     // Creamos una instancia de Tika con la configuracion por defecto
-
     File directory = new File(args[0]);
     File[] files = directory.listFiles();
 
@@ -65,13 +64,13 @@ public class Practica1 {
     Tika tika = new Tika();
     String tableFormat = "%-30s %-55s %-20s %-20s";
 
+    UniversalEncodingDetector encDet = new UniversalEncodingDetector();
+    LanguageDetector detector = new OptimaizeLangDetector().loadModels();
+
     System.out.println("File Summary:");
     System.out.println("-".repeat(125));
     System.out.println(String.format(tableFormat, "Filename", "Content-Type", "Encoding", "Language"));
     System.out.println("-".repeat(125));
-
-    UniversalEncodingDetector encDet = new UniversalEncodingDetector();
-    LanguageDetector detector = new OptimaizeLangDetector().loadModels();
     
     for(File f: files){
       try {
@@ -107,9 +106,10 @@ public class Practica1 {
   private static void frequencyCount(File[] files, String folder){
     Tika tika = new Tika();
     String filename;
+    HashMap<String, Integer> frequencyCount = new HashMap<String, Integer>();
     
     for(File f: files){
-      //HashMap<String, Integer> frequencyCount;
+      frequencyCount.clear();
 
       try {
         InputStream is = new FileInputStream(f);
@@ -125,15 +125,21 @@ public class Practica1 {
 
         FileWriter output = new FileWriter(folder + "/" +filename);
 
-        String[] words = ch.toString().split(" ");
+        String[] words = ch.toString().toLowerCase().replaceAll("\\r\\n|\\r|\\t|\\n", " ").replaceAll("[^\\s\\p{L}\\p{N}]", "").split(" ");
 
         for(String word: words) {
-          /*if( frequencyCount.containsKey(word) ){
+          if(word.length() > 0) {
+            frequencyCount.put(word, frequencyCount.getOrDefault(word, 0) + 1);
+          }
+        }
 
-          }*/
+        for( String s: frequencyCount.keySet()){
+          output.write(s + ";" + frequencyCount.get(s) + "\n");
         }
 
         output.close();
+
+        System.out.println("Counted words for file " + f.getName() + ". Output in " + filename);
 
       } catch (Exception e){
 
