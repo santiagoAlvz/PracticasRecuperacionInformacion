@@ -29,7 +29,6 @@ public class Practica1 {
   public static void main(String[] args) throws Exception {
 
     // Creamos una instancia de Tika con la configuracion por defecto
-
     File directory = new File(args[0]);
     File[] files = directory.listFiles();
 
@@ -61,13 +60,13 @@ public class Practica1 {
     Tika tika = new Tika();
     String tableFormat = "%-30s %-55s %-20s %-20s";
 
+    UniversalEncodingDetector encDet = new UniversalEncodingDetector();
+    LanguageDetector detector = new OptimaizeLangDetector().loadModels();
+
     System.out.println("File Summary:");
     System.out.println("-".repeat(125));
     System.out.println(String.format(tableFormat, "Filename", "Content-Type", "Encoding", "Language"));
     System.out.println("-".repeat(125));
-
-    UniversalEncodingDetector encDet = new UniversalEncodingDetector();
-    LanguageDetector detector = new OptimaizeLangDetector().loadModels();
     
     for(File f: files){
       try {
