@@ -8,7 +8,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.InputStream;
 import java.io.FileInputStream;
-import java.util.HashMap
+import java.util.HashMap;
 
 import org.apache.tika.Tika;
 import org.apache.tika.metadata.Metadata;
@@ -103,10 +103,9 @@ public class Practica1 {
   private static void frequencyCount(File[] files, String folder){
     Tika tika = new Tika();
     String filename;
-    HashMap<String, unsigned> frequencyCount;
     
     for(File f: files){
-      frequencyCount.clear();
+      //HashMap<String, Integer> frequencyCount;
 
       try {
         InputStream is = new FileInputStream(f);
@@ -122,10 +121,12 @@ public class Practica1 {
 
         FileWriter output = new FileWriter(folder + "/" +filename);
 
-        String[] words = ch.toString().split(' ');
+        String[] words = ch.toString().split(" ");
 
         for(String word: words) {
+          /*if( frequencyCount.containsKey(word) ){
 
+          }*/
         }
 
         output.close();
