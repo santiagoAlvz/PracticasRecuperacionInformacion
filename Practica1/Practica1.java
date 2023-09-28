@@ -103,9 +103,10 @@ public class Practica1 {
   private static void frequencyCount(File[] files, String folder){
     Tika tika = new Tika();
     String filename;
+    HashMap<String, Integer> frequencyCount = new HashMap<String, Integer>();
     
     for(File f: files){
-      //HashMap<String, Integer> frequencyCount;
+      frequencyCount.clear();
 
       try {
         InputStream is = new FileInputStream(f);
@@ -121,15 +122,21 @@ public class Practica1 {
 
         FileWriter output = new FileWriter(folder + "/" +filename);
 
-        String[] words = ch.toString().split(" ");
+        String[] words = ch.toString().toLowerCase().replaceAll("\\r\\n|\\r|\\t|\\n", " ").replaceAll("[^\\s\\p{L}\\p{N}]", "").split(" ");
 
         for(String word: words) {
-          /*if( frequencyCount.containsKey(word) ){
+          if(word.length() > 0) {
+            frequencyCount.put(word, frequencyCount.getOrDefault(word, 0) + 1);
+          }
+        }
 
-          }*/
+        for( String s: frequencyCount.keySet()){
+          output.write(s + ";" + frequencyCount.get(s) + "\n");
         }
 
         output.close();
+
+        System.out.println("Counted words for file " + f.getName() + ". Output in " + filename);
 
       } catch (Exception e){
 
