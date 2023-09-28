@@ -15,9 +15,12 @@ import org.apache.tika.metadata.Metadata;
 import org.apache.tika.langdetect.optimaize.OptimaizeLangDetector;
 import org.apache.tika.language.detect.LanguageDetector;
 import org.apache.tika.parser.AutoDetectParser;
+import org.apache.tika.parser.txt.TXTParser;
 import org.apache.tika.parser.ParseContext;
 import org.apache.tika.sax.BodyContentHandler;
 import org.apache.tika.parser.txt.UniversalEncodingDetector;
+import org.apache.tika.sax.LinkContentHandler;
+
 
 /**
  *
@@ -45,6 +48,7 @@ public class Practica1 {
 
       case "-l":
         System.out.println("L option");
+        findLinks(files);
         break;
 
       case "-t":
@@ -134,6 +138,46 @@ public class Practica1 {
       } catch (Exception e){
 
       }
+    }
+  }
+
+  private static void findLinks(File[] files){
+    // find the links of each file
+    Tika tika = new Tika();
+    try {
+      for (File f : files){
+        // if file is txt use another parse
+        if (tika.detect(f).equals("text/plain")){
+          // TXTParser can not find links
+          continue;
+        }
+        else{
+          // find the links
+          InputStream is = new FileInputStream(f);
+          BodyContentHandler textHandler = new BodyContentHandler(-1);
+          LinkContentHandler linkHandler = new LinkContentHandler();
+          Metadata meta = new Metadata();
+          ParseContext parseContext = new ParseContext();
+
+          AutoDetectParser parser = new AutoDetectParser();
+          parser.parse(is, linkHandler, meta, parseContext);
+          // print the links
+          System.out.println("Links: " + f.getName());
+          System.out.println("-".repeat(125));
+          if (linkHandler.getLinks().size() == 0){
+            System.out.println("No links found");
+          }
+          else{
+            for (int i = 0; i < linkHandler.getLinks().size(); i++){
+              System.out.println(linkHandler.getLinks().get(i).getUri());
+            }
+          }
+          System.out.println("-".repeat(125));
+        }
+      }
+    }
+    catch (Exception e){
+      System.out.println("Error: " + e);
     }
   }
 }
