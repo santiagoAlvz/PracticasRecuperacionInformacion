@@ -287,11 +287,11 @@ public class Analizador1 {
         
         switch(args[0]){
             case "-1":
-                testAnalizador(args[1]);
+                analyzerComparison(args[1]);
                 break;
 
             case "-2":
-                analyzerComparison(args[1]);
+                testAnalizador(args[1]);
                 break;
 
             case "-3":
