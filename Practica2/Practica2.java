@@ -149,37 +149,14 @@ public class Analizador1 {
         sf.close();
     }
 
-    public static Analyzer crearAnalyzer() throws IOException {
-        Analyzer lineaAnalyzer = CustomAnalyzer.builder()
-                .addCharFilter(PatternReplaceCharFilterFactory.NAME, "pattern", "[/(/)/{/};]", "replacement", "X")
+    //This analyzer splits an URL into its components, as in domain, folders and files
+    public static Analyzer createURLAnalyzer() throws IOException {
+        Analyzer analyzer = CustomAnalyzer.builder()
+                .addCharFilter(PatternReplaceCharFilterFactory.NAME, "pattern", "/", "replacement", " ")
                 .withTokenizer(ClassicTokenizerFactory.NAME)
                 .addTokenFilter(LowerCaseFilterFactory.NAME)
                 .build();
-        System.out.println(lineaAnalyzer.getClass());
-        return lineaAnalyzer;
-
-    }
-
-    public static Analyzer crearAnalyzer2() {
-        Analyzer mi_analizador = new Analyzer() {
-            @Override
-            protected Analyzer.TokenStreamComponents createComponents(String todo) {
-                Tokenizer source = new WhitespaceTokenizer();
-
-                TokenStream filter = source; // new ClassicFilter(source);
-
-                filter = new EdgeNGramTokenFilter(filter, 3, 3, true);
-                //   TokenStream  filter = new LowerCaseFilter(source);
-                filter = normalizar(filter);
-                return new Analyzer.TokenStreamComponents(source, filter);
-            }
-
-            protected TokenStream normalizar(TokenStream in) {
-
-                return new LowerCaseFilter(in);
-            }
-        };
-        return mi_analizador;
+        return analyzer;
     }
 
     public static Analyzer myAnalyzer(
@@ -279,6 +256,12 @@ public class Analizador1 {
         muestraTexto(customAnalyzer, text);
     }
 
+    private static void makeCustomAnalyzer(String text) throws IOException{
+        Analyzer custom = createURLAnalyzer();
+
+        muestraTexto(custom, text);
+    }
+
     /**
      * @param args the command line arguments
      */
@@ -295,35 +278,11 @@ public class Analizador1 {
                 break;
 
             case "-3":
-                System.out.println("3rd exercise");
+                makeCustomAnalyzer(args[1]);
                 break;
             default:
                 System.out.println("Error. Unrecognized option");
                 break;
         }
-
-        /*String cadena = "Ejemplo,  whiteSpace (3+2) \n de analizador + WhiteSpace, \n lucene-7.1.0 \n"
-                + "Analyzer mi_analizador = new Analyzer() {\n"
-                + "            @Override\n"
-                + "            protected Analyzer.TokenStreamComponents createComponents(String todo) {\n"
-                + "                Tokenizer source = new WhitespaceTokenizer(); \n";
-        String cadena = "hola hola hola";
-
-        // Analyzer an = new WhitespaceAnalyzer();
-        Analyzer an = new SimpleAnalyzer();
-
-        System.out.println("Ejemplo SimpleAnalyzer");
-        muestraTexto(an, cadena);
-
-        System.out.println("Ejemplo nuevo");
-        Analyzer nuevo = crearAnalyzer();
-        muestraTexto(nuevo, cadena);
-        
-        System.out.println("Ejemplo otro");
-
-        Analyzer otro = crearAnalyzer2();
-        muestraTexto(otro, cadena);*/
-
     }
-
 }
