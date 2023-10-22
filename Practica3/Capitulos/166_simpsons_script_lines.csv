@@ -1,0 +1,249 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+37020,166,4,105000,Krusty the Clown,Simpson Home,"Now I'd like to introduce a new feature never before seen on TV... ""Dumb Pet Tricks."" Oh boy. Here's a dog that's been trained to catch this red rubber ball."
+37021,166,5,118000,Krusty the Clown,Simpson Home,Auggh! Oww! Somebody shoot it! Somebody shoot it!
+37023,166,7,120000,Bart Simpson,Simpson Home,These specials get worse every year.
+37024,166,8,122000,Lisa Simpson,Simpson Home,"I'll see what else is on. Hey, where's the remote?"
+37026,166,10,127000,Grampa Simpson,Simpson Home,Hello? Hello? Stupid cordless phone. I'll try the old-fashioned model.
+37027,166,11,133000,Grampa Simpson,Simpson Home,"Ah, that's better. How ya doin', Gertie?"
+37028,166,12,138000,Krusty the Clown,Simpson Home,"And now, our parody of ""Mad About You"" entitled ""Mad About Shoe."""
+37029,166,13,144000,Krusty the Clown,Simpson Home,"Gimme a kiss, baby. No tongue."
+37030,166,14,149000,Krusty the Clown,Simpson Home,"You're not gonna like our ""NYPD Shoe"" sketch. It's pretty much the same thing."
+37031,166,15,156000,Bart Simpson,Simpson Home,"Ma, could you get me some milk?"
+37032,166,16,157000,Marge Simpson,Simpson Home,Can't you get it yourself?
+37033,166,17,159000,Bart Simpson,Simpson Home,"Oh, that's okay. I'll just go without liquid."
+37034,166,18,165000,Marge Simpson,Simpson Home,"Oh, all right, all right, I'll get your milk!"
+37035,166,19,168000,Bart Simpson,Simpson Home,Thank you.
+37036,166,20,169000,Marge Simpson,Simpson Home,Does anyone else want anything while I'm up?
+37037,166,21,171000,Lisa Simpson,Simpson Home,No.
+37038,166,22,174000,Homer Simpson,Simpson Home,"Marge, get me a beer."
+37040,166,24,177000,Lisa Simpson,Simpson Home,"Uh, mom?"
+37041,166,25,178000,Marge Simpson,Simpson Home,What?!
+37042,166,26,179000,Lisa Simpson,Simpson Home,"Um, there's a hair in my soup. But I'll just eat around it."
+37043,166,27,183000,Marge Simpson,Simpson Home,What kind of hair?
+37044,166,28,185000,Lisa Simpson,Simpson Home,"Well, it's blue... six feet long..."
+37045,166,29,187000,Bart Simpson,Simpson Home,Ewwwwww!
+37046,166,30,189000,Marge Simpson,Simpson Home,It's my hair. Excuse me.
+37047,166,31,195000,Homer Simpson,Simpson Home,Your mother seems really upset about something. I better go have a talk with her... during the commercial.
+37048,166,32,202000,Krusty the Clown,Simpson Home,Now let's hear it for a great American... former president Gerald Ford.
+37049,166,33,207000,Gerald Ford,Simpson Home,"Thank you, Krusty for inviting me."
+37050,166,34,209000,Krusty the Clown,Simpson Home,"Well, all the good Presidents turned us down."
+37051,166,35,212000,Gerald Ford,Simpson Home,"Oh, well... I'd like to talk about a subject that is very important to me."
+37052,166,36,217000,Gerald Ford,Simpson Home,The Boy Scouts of America have molded men for over 100 years a-what are you...?
+37053,166,37,225000,Krusty the Clown,Simpson Home,"Uh, um... How's your wife Nancy?"
+37054,166,38,227000,FORD,Simpson Home,Betty.
+37055,166,39,228000,Krusty the Clown,Simpson Home,Who cares?
+37057,166,41,230000,Homer Simpson,House,"Oh, Marge I just had a couple of beers."
+37058,166,42,236000,Homer Simpson,House,Eww.
+37060,166,44,258000,Homer Simpson,Simpson Home,"Marge, I was just watching Women's Volleyball on ESPN..."
+37062,166,46,265000,Homer Simpson,Simpson Home,Come on. There's no need for that baba-ma-bushka.
+37063,166,47,269000,Marge Simpson,Simpson Home,All right... but don't be shocked.
+37064,166,48,271000,Homer Simpson,Simpson Home,"Oh, There's no way I could --"
+37065,166,49,275000,Marge Simpson,Simpson Home,"Homie, I'm losing my hair."
+37066,166,50,278000,Homer Simpson,Simpson Home,"Now sweetie, don't worry about a thing. I'll teach you to comb it over so no one can tell. Just like my hair!"
+37069,166,53,291000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Mrs. Simpson, there's no physical reason why your hair should be falling out. This thing has me buffaloed."
+37070,166,54,299000,Nurse,Dr. Hibbert's Office,"Phone call, Mrs. Simpson. Lines one and two."
+37071,166,55,302000,Bart Simpson,Dr. Hibbert's Office,"Ma, I need a glass of milk."
+37072,166,56,304000,Lisa Simpson,Dr. Hibbert's Office,Me too.
+37074,166,58,307000,Dr. Julius Hibbert,Dr. Hibbert's Office,I think the problem may be stress.
+37076,166,60,312000,Marge Simpson,Simpson Home,I was just with Dr. Hibbert. He said I was under a lot of stress and should get some help.
+37077,166,61,317000,Homer Simpson,Simpson Home,"Marge, whatever it takes to make you well, we'll do it."
+37078,166,62,321000,Marge Simpson,Simpson Home,Well... I was thinking we could hire a nanny to help me out.
+37079,166,63,325000,Bart Simpson,Simpson Home,A nanny?!
+37080,166,64,326000,Homer Simpson,Simpson Home,But how am I supposed to pay for that?
+37081,166,65,328000,Lisa Simpson,Simpson Home,We'll find a way. Mom has made so many sacrifices for us -- it's time we gave up something for her. I'll stop buying Malibu Stacey clothing.
+37082,166,66,336000,Bart Simpson,Simpson Home,And I'll take up smoking and give that up.
+37083,166,67,338000,Homer Simpson,Simpson Home,"Good for you, son. Giving up smoking is one of the hardest things you'll ever have to do. Have a dollar."
+37084,166,68,345000,Lisa Simpson,Simpson Home,But he didn't do anything!
+37085,166,69,347000,Homer Simpson,Simpson Home,"Didn't he Lisa? Didn't he? Hey, wait a minute, he didn't!"
+37086,166,70,352000,Marge Simpson,Simpson Home,"Homie, please, I never ask for much, but this is something I really need."
+37087,166,71,357000,Homer Simpson,Simpson Home,"All right, Marge. I'll get you your nanny, and to pay for it... I'll give up the Civil War Re-creation Society I love so much."
+37089,166,73,366000,Moe Szyslak,Moe's Tavern,"Well, Homer's out. We gotta find a new General Ambrose Burnside."
+37090,166,74,369000,Barney Gumble,Moe's Tavern,And I'm not too crazy about our Stonewall Jackson.
+37091,166,75,372000,Apu Nahasapeemapetilon,Moe's Tavern,"The South shall ""come again!"""
+37093,166,77,377000,Older Woman,Simpson Home,"Hello, I'm Mrs. Pennyfeather. I understand you're looking for a nanny."
+37094,166,78,382000,Marge Simpson,Simpson Home,Pleased to meet you.
+37095,166,79,383000,Homer Simpson,Simpson Home,"Wait a minute, Marge. I saw Mrs. Doubtfire. This is a man in drag!"
+37096,166,80,389000,Homer Simpson,Simpson Home,You're phony! Fakey phony broad!
+37098,166,82,392000,Homer Simpson,Simpson Home,Gimme those.
+37099,166,83,393000,Marge Simpson,Simpson Home,"Homer, if you're going to do this to every applicant, we're never going to find one."
+37100,166,84,397000,Homer Simpson,Simpson Home,Sorry.
+37101,166,85,398000,Elderly Woman,Simpson Home,Hello. I'm Mrs. Periwinkle.
+37103,166,87,402000,Kearney Zzyzwicz,Simpson Home,"I'm here about the nanny job. I'll keep a watchful eye on your kids, and if they get out of line-Pow!"
+37104,166,88,408000,Homer Simpson,Simpson Home,I like him!
+37105,166,89,409000,Kearney Zzyzwicz,Simpson Home,"Thanks. Hey, where do you keep the liquor?"
+37106,166,90,411000,Homer Simpson,Simpson Home,I hide a bottle of Schnapps in the baby's crib.
+37107,166,91,413000,Marge Simpson,Simpson Home,"I'm sorry, young man, you're not what we're looking for."
+37108,166,92,415000,Kearney Zzyzwicz,Simpson Home,"You're telling me, you blue haired witch."
+37109,166,93,418000,Marge Simpson,Simpson Home,I heard that!
+37111,166,95,419000,Marge Simpson,Simpson Kitchen,I guess we're not going to find anyone.
+37112,166,96,423000,Lisa Simpson,Simpson Kitchen,We have our own suggestions for the new nanny. Would you like to hear them?
+37114,166,97,426000,Homer Simpson,Simpson Kitchen,You have my undivided attention.
+37115,166,98,438000,Marge Simpson,Simpson Kitchen,"Well, I'd like to hear your suggestions."
+37116,166,99,441000,Lisa Simpson,Simpson Kitchen,"Maestro, if you please."
+37117,166,100,448000,Lisa Simpson,Simpson Kitchen,IF YOU WISH TO BE OUR SITTER / PLEASE BE SWEET AND NEVER BITTER / HELP US WITH MATH AND BOOK REPORTS /
+37118,166,101,460000,Bart Simpson,Simpson Kitchen,"MIGHT I ADD, EAT MY SHORTS."
+37119,166,102,464000,Lisa Simpson,Simpson Kitchen,Bart!
+37120,166,103,465000,Bart Simpson,Simpson Kitchen,Just cuttin' through the treacle.
+37121,166,104,466000,Lisa Simpson,Simpson Kitchen,"IF MAGGIE'S FUSSY, DON'T AVOID HER."
+37122,166,105,471000,Bart Simpson,Simpson Kitchen,LET ME GET AWAY WITH MOIDER.
+37123,166,106,475000,Lisa Simpson,Simpson Kitchen,TEACH US SONGS AND MAGIC TRICKS.
+37124,166,107,478000,Homer Simpson,Simpson Kitchen,MIGHT I ADD -- NO FAT CHICKS.
+37125,166,108,482000,Marge Simpson,Simpson Kitchen,Homer!
+37126,166,109,484000,Lisa Simpson,Simpson Kitchen,THE NANNY WE WANT IS KINDLY AND SAGE.
+37127,166,110,489000,Homer Simpson,Simpson Kitchen,AND ONE WHO WILL WORK FOR MINIMUM WAGE--
+37128,166,111,494000,Lisa Simpson,Simpson Kitchen,"HURRY NANNY, THINGS ARE"
+37129,166,112,494000,Lisa Simpson,Simpson Kitchen,GRIM--
+37130,166,113,499000,Grampa Simpson,Simpson Kitchen,I'll do it!
+37131,166,114,500000,Lisa Simpson,Simpson Kitchen,ANY-ONE BUT HIM.
+37132,166,115,506000,Marge Simpson,Simpson Kitchen,"Well that's nice, kids, but I don't know where we're going to find anyone like that."
+37134,166,117,521000,Nanny,Simpson Kitchen,Whoo!
+37135,166,118,532000,Nanny,Simpson Kitchen,Hello. I'm Shary Bobbins.
+37136,166,119,534000,Homer Simpson,Simpson Kitchen,Did you say Mary Pop--
+37137,166,120,536000,Nanny,Simpson Kitchen,"No. I definitely did not. I'm an original creation, like Rickey Rouse and Monald Muck. Now, as your nanny, I'll do everything from telling stories to changing diapers."
+37138,166,121,546000,Grampa Simpson,Simpson Kitchen,Put me down for one of each.
+37140,166,123,551000,Homer Simpson,Simpson Home,"Now Ms. Bobbins, if you want this job you're going to have to answer a few questions. First, do you have any bad habits?"
+37141,166,124,558000,SHARY,Simpson Home,"No, I'm practically perfect in every way."
+37142,166,125,561000,Homer Simpson,Simpson Home,"Well, so am I."
+37143,166,126,569000,Homer Simpson,Simpson Home,Okay. Question two -- who was your last employer?
+37144,166,127,572000,SHARY,Simpson Home,Lord and Lady Huffington of Sussex.
+37145,166,128,574000,Homer Simpson,Simpson Home,"Marge, do we know them?"
+37146,166,129,576000,Marge Simpson,Simpson Home,No.
+37147,166,130,577000,Homer Simpson,Simpson Home,Come on -- isn't he the guy I bowl with? The black guy?
+37113,166,131,580000,Marge Simpson,Simpson Home,That's Carl.
+37148,166,132,581000,Homer Simpson,Simpson Home,"Oh yeah. So, you worked for Carl, eh?"
+37149,166,133,584000,Bart Simpson,Simpson Home,I have a question.
+37150,166,134,585000,Bart Simpson,Simpson Home,"Pop quiz, hotshot. I'm s'posed to be doing my homework, but you find me upstairs reading a Playdude. What do you do? What do you do?"
+37151,166,135,595000,SHARY,Simpson Home,"I make you read every article in that magazine, including Norman Mailer's latest claptrap about his waning libido."
+37152,166,136,602000,Homer Simpson,Simpson Home,"Ooh, she is tough."
+37153,166,137,604000,Marge Simpson,Simpson Home,"Shary Bobbins, you're just what we're looking for."
+37154,166,138,607000,SHARY,Simpson Home,"Very well. Come along, children."
+37155,166,139,618000,Marge Simpson,Simpson Home,"My, she seems too good to be true."
+37156,166,140,621000,Homer Simpson,Simpson Home,I'll say. Her butt waxed the banister.
+37157,166,141,623000,Marge Simpson,Simpson Home,"Oh, I can see myself!"
+37159,166,143,626000,SHARY,Bart's Bedroom,"All right children, let's clean up this room."
+37160,166,144,629000,Bart Simpson,Bart's Bedroom,"Oh, man."
+37161,166,145,630000,Lisa Simpson,Bart's Bedroom,Do we have to?
+37162,166,146,631000,SHARY,Bart's Bedroom,"Now, now, I know a little secret that will make the job go twice as fast."
+37163,166,147,636000,SHARY,Bart's Bedroom,"IF THERE'S A TASK THAT MUST BE DONE / DON'T TURN YOUR TAIL AND RUN / DON'T POUT, DON'T SOB / JUST DO A HALF-ASSED JOB --"
+37164,166,148,649000,SHARY,Bart's Bedroom,"IF YOU CUT EVERY CORNER IT IS REALLY NOT SO BAD / EVERYBODY DOES IT, EVEN MOM AND DAD /"
+37165,166,149,663000,SHARY,Bart's Bedroom,"IF NOBODY SEES IT, THEN NOBODY GETS MAD."
+37166,166,150,667000,Bart Simpson,Bart's Bedroom,IT'S THE AMERICAN WAY!
+37168,166,152,689000,SHARY,Park,THE POLICEMAN ON THE BEAT / NEEDS SOME TIME TO REST HIS FEET.
+37169,166,153,694000,Chief Wiggum,Park,FIGHTING CRIME IS NOT MY CUP OF TEA...
+37171,166,155,698000,SHARY,Kwik-E-Mart,AND THE CLERK WHO RUNS THE STORE / CAN CHARGE A LITTLE MORE / FOR MEAT.
+37172,166,156,704000,Apu Nahasapeemapetilon,Kwik-E-Mart,FOR MEAT --
+37173,166,157,705000,SHARY,Kwik-E-Mart,AND MILK --
+37174,166,158,707000,Apu Nahasapeemapetilon,Kwik-E-Mart,AND MILK --
+37175,166,159,709000,Apu Nahasapeemapetilon,Kwik-E-Mart,FROM 1984...
+37177,166,161,716000,SHARY,BART'S,IF YOU CUT EVERY CORNER YOU'LL HAVE MORE TIME FOR PLAY --
+37178,166,162,724000,Lisa Simpson,BART'S,IT'S THE AMERICAN WAYYY!
+37181,166,165,738000,Ned Flanders,Park,Hi-dilly-ho Shary Bobbins!
+37182,166,166,741000,Snake Jailbird,Park,"Yo, Shary Bobbins."
+37183,166,167,743000,Nelson Muntz,Park,"I picked you some posies, Shary Bobbins."
+37184,166,168,746000,SHARY,Park,"Oh, thank you, Nelson."
+37185,166,169,748000,Nelson Muntz,Park,Aw geez.
+37186,166,170,754000,Groundskeeper Willie,Park,"I'M A MANIAC, MANIAC, -- THAT'S FOR SURE / AND I'M DANCING LIKE I'VE NEVER DANCED BEFORE..."
+37187,166,171,763000,Groundskeeper Willie,Park,Aye - that's the stuff!
+37188,166,172,768000,Groundskeeper Willie,Park,"Yeah, thank ya, ya ungrateful bast--Shary Bobbins, is that you?"
+37189,166,173,773000,SHARY,Park,"Hello, Willie."
+37190,166,174,774000,Lisa Simpson,Park,You know her?
+37191,166,175,775000,Groundskeeper Willie,Park,"Aye, Shary Bobbins and I were engaged to be wed back in the old country. Then she got her eyesight back. Suddenly the Ugliest Man in Glasgow wasn't good enough for her."
+37192,166,176,785000,SHARY,Park,"It's good to see you, Willie."
+37193,166,177,787000,Groundskeeper Willie,Park,That's not what you said the first time you saw me!
+37194,166,178,793000,Kearney Zzyzwicz,Park,Extra! Extra! Ripper strikes in White Chapel!
+37195,166,179,797000,Seymour Skinner,Park,Boy for sale! Boy for sale!
+37196,166,180,803000,Jimbo Jones,Park,"Is this legal, man?"
+37197,166,181,805000,Seymour Skinner,Park,Only here and in Mississippi.
+37198,166,182,809000,Lisa Simpson,Park,"Oh Shary Bobbins, this is ever so much fun!"
+37199,166,183,812000,Bart Simpson,Park,"With you, every day is Guy Fawkes Day!"
+37200,166,184,817000,C. Montgomery Burns,Park,Bah humbug.
+37201,166,185,818000,SHARY,Park,"Oh, Mr. Burns, I think you'll find all life's problems just float away when you're flying a kite."
+37202,166,186,824000,C. Montgomery Burns,Park,"Balderdash. This is the silliest load of... Ooh, look at it fly. Whee! Look at me, Smithers, I feel practically superduperfragicaliexpiala-dohhhh!"
+37203,166,187,836000,C. Montgomery Burns,Park,Hm. What's this strange sensation in my chest?
+37204,166,188,839000,Waylon Smithers,Park,I think your heart's beating again.
+37205,166,189,842000,C. Montgomery Burns,Park,Ooh. That takes me back. God bless you Shary Bobbins.
+37208,166,192,846000,Marge Simpson,LIVING ROOM,"That Shary Bobbins is a miracle worker. The kids love her, the house is spotless -- and my hair's grown back. It's so full and thick it can support a beach umbrella!"
+37209,166,193,858000,Homer Simpson,LIVING ROOM,"Come to bed, Marge."
+37210,166,194,861000,Marge Simpson,LIVING ROOM,Ooooh.
+37211,166,195,863000,Homer Simpson,LIVING ROOM,"No, no. Leave it in."
+37214,166,198,868000,SHARY,Lisa's Bedroom,"It's eight o'clock, children. Time for bed."
+37215,166,199,871000,Lisa Simpson,Lisa's Bedroom,But we're not sleepy.
+37216,166,200,872000,Bart Simpson,Lisa's Bedroom,"Sing us a song, Shary Bobbins."
+37217,166,201,874000,Lisa Simpson,Lisa's Bedroom,"Yes, sing us a song!"
+37218,166,202,876000,SHARY,Lisa's Bedroom,"I've been singing you songs all day. I'm not a bloody jukebox! Oh, all right."
+37219,166,203,889000,SHARY,Lisa's Bedroom,"IN FRONT OF A TAVERN, FLAT ON HIS FACE / A BOOZEHOUND NAMED BARNEY IS PLEADING HIS CASE --"
+37220,166,204,907000,Barney Gumble,Lisa's Bedroom,"BUY ME A BEER, TWO BUCKS A GLASS / COME ON, HELP ME -- I'M FREEZING MY ASS / BUY ME BRANDY / A SNIFTER OF WINE / WHO AM I KIDDING? / I'LL DRINK TURPENTINE."
+37221,166,205,939000,Moe Szyslak,Lisa's Bedroom,MOVE IT YA DRUNK OR I'LL BLAST YOUR REAR END!
+37222,166,206,946000,Barney Gumble,Lisa's Bedroom,I FOUND TWO BUCKS.
+37223,166,207,950000,Moe Szyslak,Lisa's Bedroom,"THEN COME IN, MY FRIEND."
+37224,166,208,956000,SHARY,Lisa's Bedroom,AND SO LET US LEAVE ON THIS HEARTWARMING SCENE --
+37225,166,209,965000,Bart Simpson,Lisa's Bedroom,CAN I BE A BOOZEHOUND?
+37226,166,210,971000,Homer Simpson,Lisa's Bedroom,NOT TILL YOU'RE FIFTEEN.
+37228,166,212,982000,Lisa Simpson,Simpson Dining Room,"More kippers, mum?"
+37229,166,213,984000,Marge Simpson,Simpson Dining Room,"Oh, thank you."
+37230,166,214,985000,Homer Simpson,Simpson Dining Room,"Ooh, I can't get enough of this blood pudding."
+37231,166,215,988000,Bart Simpson,Simpson Dining Room,The secret ingredient is blood.
+37232,166,216,990000,Homer Simpson,Simpson Dining Room,"Blood, uch! I'll just stick to the brain and kidney pie, thank you."
+37233,166,217,995000,SHARY,Simpson Dining Room,I believe my work here is done.
+37234,166,218,997000,Marge Simpson,Simpson Dining Room,Thank you for everything.
+37235,166,219,999000,Lisa Simpson,Simpson Dining Room,"We'll miss you, Shary Bobbins."
+37236,166,220,1001000,Homer Simpson,Simpson Dining Room,You've changed me as well. I'm no longer the money-driven workaholic I once was.
+37237,166,221,1007000,SHARY,Simpson Dining Room,I love you all.
+37239,166,223,1012000,SHARY,Simpson Home,To think I'll never hear their sweet voices again.
+37241,166,225,1020000,Homer Simpson,Simpson Home,You little...
+37244,166,228,1032000,SHARY,Simpson Home,I'll just unpack my things.
+37245,166,229,1035000,Grampa Simpson,Simpson Home,I think we got our umbrellas switched!
+37246,166,230,1040000,Grampa Simpson,Simpson Home,Wheeee! I've never felt so alive!
+37248,166,232,1051000,Bart Simpson,Simpson Living Room,Little more -- little more... Little more -- too much. Take it back.
+37250,166,234,1061000,Host,Simpson Living Room,"Welcome back to ""Before They Were Famous."" We all know Rainier Wolfcastle as the star of the blockbuster ""McBain"" movies. But here's his first appearance -- in a commercial in his native Austria."
+148002,166,235,1071000,McBain,Simpson Living Room,"MEIN BRATWURST HAS A FIRST NAME, IT'S F-R-I-T-Z / MEIN BRATWURST HAS A SECOND NAME, IT'S S-C-H-N-A-C-K-E-N-P-F-E-F-F-E-R-H-A-U-S-E-N..."
+37251,166,236,1084000,Homer Simpson,Simpson Living Room,Shary Bobbins! I want another beer!
+37252,166,237,1087000,SHARY,Simpson Living Room,"Well you know, Homer -- IF THERE'S A JOB THAT MUST BE DONE / YOU'LL FIND IT'S MUCH MORE FUN."
+37253,166,238,1094000,Homer Simpson,Simpson Living Room,You'll find it's even more fun if you get it for me.
+37254,166,239,1099000,SHARY,Simpson Living Room,BUT THE BEER WILL TASTE MORE SWEET / IF YOU GET UP OFF YOUR SEAT --
+37255,166,240,1103000,Bart Simpson,Simpson Living Room,"Lady, the man asked for a beer, not a song."
+37256,166,241,1106000,SHARY,Simpson Living Room,Doh-re-mi-fa-so...
+37257,166,242,1107000,Host,Simpson Living Room,"Now let's take a look at a young Charles Bronson's brief stint replacing Andy Griffith in ""The Andy Griffith Show."""
+37258,166,243,1114000,Fidgety Lieutenant,Simpson Living Room,Where's Otis? He's not in his cell.
+37259,166,244,1116000,Charles Bronson,Simpson Living Room,I shot him.
+37260,166,245,1117000,Fidgety Lieutenant,Simpson Living Room,"Well, that's... What?"
+37261,166,246,1118000,Charles Bronson,Simpson Living Room,Now I'm going down to Emmett's Fix-It Shop. To fix Emmett.
+37263,166,248,1131000,SHARY,Bart's Bedroom,"Bart Simpson, this room is a frightful mess."
+37264,166,249,1135000,Bart Simpson,Bart's Bedroom,I'll get right on it.
+37265,166,250,1136000,SHARY,Bart's Bedroom,"Bart, don't you remember? Cleaning up can be a game."
+37266,166,251,1139000,Bart Simpson,Bart's Bedroom,"I've got a better game. It's called ""Whippin' Cupcakes."""
+37268,166,253,1141000,Announcer #2,LIVING ROOM,Special guest director: Quentin Tarantino.
+37269,166,254,1166000,Quentin Tarantino,LIVING ROOM,"What I'm trying to say in this cartoon is that violence is everywhere in our society, you know, it's like even in breakfast cereals, man..."
+37271,166,256,1181000,SHARY,LIVING ROOM,"Lisa, don't sit in front of that telly like a fly stuck on a toffee. It's a great big world out there."
+37272,166,257,1187000,Lisa Simpson,LIVING ROOM,Been there. Done it.
+37273,166,258,1189000,SHARY,LIVING ROOM,I know -- we could have a tea party on the ceiling!
+37274,166,259,1192000,Lisa Simpson,LIVING ROOM,Shh. TV.
+37275,166,260,1193000,SHARY,LIVING ROOM,"Oh, you people will be the death of me."
+37278,166,262,1200000,SHARY,Simpson Home,WASTED AWAY AGAIN IN MARGARITAVILLE...
+37279,166,263,1204000,Barney Gumble,Simpson Home,"SEARCHING FOR MY LOST SHAKER OF SALT... OH, HERE IT IS."
+37280,166,264,1212000,Homer Simpson,Simpson Home,"Oh, that poor woman."
+37281,166,265,1213000,Lisa Simpson,Simpson Home,We've crushed her gentle spirit.
+37282,166,266,1216000,Bart Simpson,Simpson Home,You people should be ashamed of yourselves.
+37283,166,267,1222000,Marge Simpson,Simpson Home,"Shary, you did the best you could. But you can't change this family. Neither can I. From now on I'm just gonna sit back and enjoy the ride."
+37284,166,268,1232000,SHARY,Simpson Home,But haven't I taught you people anything?
+37285,166,269,1234000,Homer Simpson,Simpson Home,Nope.
+37286,166,270,1234000,Lisa Simpson,Simpson Home,Nope.
+37287,166,271,1235000,Bart Simpson,Simpson Home,Nope.
+37288,166,272,1235000,Marge Simpson,Simpson Home,Nope.
+37289,166,273,1237000,SHARY,Simpson Home,So you like it this way?
+37290,166,274,1239000,Homer Simpson,Simpson Home,Indubitably!
+37291,166,275,1240000,Homer Simpson,Simpson Home,"AROUND THE HOUSE, I NEVER LIFT A FINGER / AS A HUSBAND AND FATHER I'M SUB-PAR / I'D RATHER DRINK A BEER THAN WIN FATHER OF THE YEAR / I'M HAPPY WITH THINGS THE WAY THEY ARE."
+37292,166,276,1256000,Lisa Simpson,Simpson Home,I'M GETTING USED TO NEVER GETTING NOTICED.
+37293,166,277,1261000,Bart Simpson,Simpson Home,I'M STUCK HERE TILL I CAN STEAL A CAR.
+37294,166,278,1265000,Marge Simpson,Simpson Home,THE HOUSE IS STILL A MESS AND I'M GOING BALD FROM STRESS --
+37295,166,279,1269000,Marge Simpson,Simpson Home,BUT WE'RE HAPPY JUST THE WAY WE ARE!
+37296,166,280,1277000,Ned Flanders,Simpson Home,"THEY'RE NOT PERFECT, BUT THE LORD SAYS LOVE THY NEIGHBOR --"
+37297,166,281,1280000,Homer Simpson,Simpson Home,"SHUT UP, FLANDERS."
+37298,166,282,1281000,Ned Flanders,Simpson Home,OKELY-DOKELY-DO.
+37299,166,283,1284000,SHARY,Simpson Home,DON'T THINK IT'S SOUR GRAPES BUT YOU'RE ALL A BUNCH OF APES / AND SO I MUST BE LEAVING YOU!
+37300,166,284,1300000,Lisa Simpson,Simpson Home,Good-bye Shary Bobbins!
+37301,166,285,1302000,Marge Simpson,Simpson Home,Thanks for everything!
+37302,166,286,1304000,Barney Gumble,Simpson Home,"So long, Superman!"
+37303,166,287,1306000,Lisa Simpson,Simpson Home,Do you think we'll ever see her again?
+37304,166,288,1308000,Homer Simpson,Simpson Home,"I'm sure we will, honey."
+37305,166,289,1311000,Homer Simpson,Simpson Home,I'm sure we will.

@@ -1,0 +1,251 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+27871,131,1,46000,Marge Simpson,Simpson Home,"Here's your toast, Maggie. I Melba-fied it myself."
+27872,131,2,52000,Marge Simpson,Simpson Home,"Oh, Lisa, honey, I tracked down those old newspapers for your history project."
+27873,131,3,57000,Lisa Simpson,Simpson Home,"Wow, Mom. You didn't have to go to this much trouble."
+27874,131,4,60000,Marge Simpson,Simpson Home,"Oh, it was no trouble. The hobos at the dump were very helpful. Except one man who seemed to have mental problems."
+27875,131,5,66000,Bart Simpson,Simpson Home,G'mornin'.
+27876,131,6,67000,Marge Simpson,Simpson Home,"Bart, it's class photo day. No dracula fangs."
+27877,131,7,70000,Bart Simpson,Simpson Home,But they told us to wear 'em.
+27878,131,8,71000,Marge Simpson,Simpson Home,No they didn't.
+27879,131,9,76000,Marge Simpson,Simpson Home,And don't put signs on your sister.
+27880,131,10,80000,Marge Simpson,Simpson Home,"Now, keep the lettuce separate until 11:30. That way, the lettuce stays moist and the bread stays dry! Eh? Eh?"
+27881,131,11,89000,Lisa Simpson,Simpson Home,"Mom, you fuss over us way too much."
+27882,131,12,92000,Marge Simpson,Simpson Home,"Enjoy it now, because when you're a grown up, you'll have to take care of yourself."
+27883,131,13,96000,Homer Simpson,Simpson Home,"Marge, there's a spider near my car keys."
+27884,131,14,100000,Marge Simpson,Simpson Home,You did the right thing by telling me.
+27885,131,15,103000,Marge Simpson,Simpson Home,Shoo! Get outta here!
+27886,131,16,105000,Homer Simpson,Simpson Home,"Ahhh, that's better. Now that we're alone, Papa Bear has a li'l honey for his Mama Bear."
+27887,131,17,119000,Marge Simpson,Simpson Home,"""Good for a three hour getaway at the Mingled Waters Health Spa."" Mineral bath, facial, massage... How did you afford these?"
+27888,131,18,123000,Homer Simpson,Simpson Home,"Oh, never you mind..."
+27890,131,20,130000,Homer Simpson,SPRINGFIELD BENTLEY DEALER,"What advantages does this motorcar have over, say, a train? Which I could also afford."
+27891,131,21,137000,Bentley Salesman,SPRINGFIELD BENTLEY DEALER,"Well, you'll notice how the heated gas pedal warms your feet while --"
+27892,131,22,143000,Bentley Salesman,SPRINGFIELD BENTLEY DEALER,"...gently massages your buttocks. Well, Count Homer, shall we discuss the--"
+27893,131,23,147000,Homer Simpson,SPRINGFIELD BENTLEY DEALER,No we shan't. Yoink!
+27894,131,24,151000,Marge Simpson,SPRINGFIELD BENTLEY DEALER,"Homie, this is so sweet. But I can't possibly go now... the sink is full of dirty dishes, the trash needs to be taken out, the living room is a mess..."
+27895,131,25,160000,Homer Simpson,SPRINGFIELD BENTLEY DEALER,"Oh, we'll clean up this afternoon."
+27896,131,26,162000,Marge Simpson,SPRINGFIELD BENTLEY DEALER,What about Maggie?
+27897,131,27,163000,Homer Simpson,SPRINGFIELD BENTLEY DEALER,I got my dad to look after her.
+27898,131,28,165000,Grampa Simpson,SPRINGFIELD BENTLEY DEALER,BEHIND YOU!!
+27899,131,29,166000,Marge Simpson,SPRINGFIELD BENTLEY DEALER,Don't do that!
+27900,131,30,168000,Grampa Simpson,SPRINGFIELD BENTLEY DEALER,Don't do that!
+27901,131,31,170000,Homer Simpson,SPRINGFIELD BENTLEY DEALER,"C'mon, Honey, you work yourself stupid for this family. If anyone deserves to be wrapped up in seaweed and buried in mud, it's you."
+27902,131,32,178000,Marge Simpson,SPRINGFIELD BENTLEY DEALER,"Well, all right, but I'm taking some of the ironing with me in the car."
+27905,131,35,188000,Edna Krabappel-Flanders,Springfield Elementary School,"Tighten those braids, missie. Hoist your flag, Dooley."
+27906,131,36,189000,Edna Krabappel-Flanders,Springfield Elementary School,"Nelson, you look adorable."
+27907,131,37,194000,Nelson Muntz,Springfield Elementary School,I feel like punchin' myself.
+27908,131,38,196000,Edna Krabappel-Flanders,Springfield Elementary School,"Bart, stop scratching. You're messing up your hair."
+27909,131,39,199000,Edna Krabappel-Flanders,Springfield Elementary School,Lice?! How on earth does a boy get head lice in this day and age?
+27910,131,40,204000,Milhouse Van Houten,Springfield Elementary School,We bought a wicker basket from Pier One and he was passed out inside.
+27911,131,41,213000,Bart Simpson,Springfield Elementary School,"Hey, how come I get lice and nothing happens to Milhouse?"
+27912,131,42,217000,Milhouse Van Houten,Springfield Elementary School,S-So cold. So very very cold.
+27913,131,43,223000,Groundskeeper Willie,Springfield Elementary School,"See ya in hell, ye wingless blood-suckers!"
+27915,131,45,230000,Seymour Skinner,Springfield Elementary School,What kind of parents would permit such a lapse in scalpel hygiene?
+27916,131,46,234000,Groundskeeper Willie,Springfield Elementary School,"Well, ya better check out his sister. She could be rrrife with them boogs, too!"
+27715,131,47,239000,Bully Girls,Springfield Elementary School,Keep away! etc.
+27917,131,48,241000,Lisa Simpson,Springfield Elementary School,"Hey, c'mon! Those are prescription shoes! I need them!"
+27918,131,49,247000,Bully Girls,Springfield Elementary School,You have cooties! You have cooties!
+27919,131,50,250000,Lisa Simpson,Springfield Elementary School,No I don't!
+27920,131,51,252000,Seymour Skinner,Springfield Elementary School,"Lisa Simpson, report to the principal's office for head lice inspection."
+27921,131,52,258000,Bully Girls,Springfield Elementary School,/ Cooties! / Lisa's cooties have lice!
+27922,131,53,258000,Lisa Simpson,Springfield Elementary School,Ow! Mah tug!
+27923,131,54,261000,Voice,Springfield Elementary School,Heads up!
+27924,131,55,266000,Lisa Simpson,Springfield Elementary School,"Printhipal Thkinner, I need thum shoes."
+27925,131,56,269000,Seymour Skinner,Springfield Elementary School,Sweet Georgia Brown! Something is rotten at the Simpson house.
+27928,131,59,283000,Marge Simpson,Mingled Waters Health Spa,"This is so relaxing. Homie, this was a wonderful idea."
+27929,131,60,290000,Homer Simpson,Mingled Waters Health Spa,"Yeah. If that mafia guy weren't staring at us, I'd take off my towel."
+27930,131,61,297000,Old Mafia Guy,Mingled Waters Health Spa,"Don't mind-a me. Look, I do it-a first."
+27932,131,63,304000,Officer Goodman,Simpson Home,"Whoa, would you look at this place."
+27933,131,64,306000,Officer Noble,Simpson Home,"Sink full of dirty dishes, trash not taken out, living room a mess. Stacks of old newspapers... From twenty years ago!"
+27935,131,66,314000,TV Announcer,LIVING ROOM,"Get ready, gamblers, for the World Series of Dog Racing!"
+27937,131,68,323000,Officer Goodman,LIVING ROOM,A disheveled and malnourished man found sleeping in his own filth. Seems confused and dehydrated.
+27938,131,69,329000,Officer Noble,LIVING ROOM,Where is the baby?
+27939,131,70,330000,Grampa Simpson,LIVING ROOM,"That's her, ain't it?"
+27940,131,71,333000,Grampa Simpson,LIVING ROOM,Kids love that water.
+27941,131,72,335000,Officer Noble,LIVING ROOM,Oh my Lord!
+27942,131,73,337000,Officer Goodman,LIVING ROOM,Stupid babies need the most attention.
+27944,131,75,340000,FROM SPEAKER,Mingled Waters Health Spa,All is well... all is well... You are floating away on a soft cloud of --
+27945,131,76,344000,FROM SPEAKER,Mingled Waters Health Spa,Turn tape over!..
+27946,131,77,350000,FROM SPEAKER,Mingled Waters Health Spa,All is well... all is well...
+27949,131,80,360000,Officer Noble,Simpson Home,"Children, where are your parents?"
+27950,131,81,362000,Lisa Simpson,Simpson Home,I don't know. They should be here.
+27951,131,82,366000,Officer Goodman,Simpson Home,Yes. They should be here.
+27952,131,83,368000,Officer Goodman,Simpson Home,Those parents better have a good excuse.
+27953,131,84,372000,Homer Simpson,Simpson Home,I love gettin' away from this dump.
+27954,131,85,375000,Marge Simpson,Simpson Home,It's like I'm on some wonderful drug!
+27956,131,87,380000,Marge Simpson,Simpson Home,What's going on here?
+27957,131,88,381000,Officer Goodman,Simpson Home,"Child Welfare, Ma'am."
+27958,131,89,383000,Officer Noble,Simpson Home,Here's a little bedtime reading.
+27959,131,90,386000,Marge Simpson,Simpson Home,Squalid hell hole... toilet paper hung in improper overhand fashion... Dogs mating on dining room table?
+27960,131,91,393000,Marge Simpson,Simpson Home,What are you doing with my children?!
+27961,131,92,398000,Officer Noble,Simpson Home,We're taking them where you can't get them.
+27962,131,93,400000,Marge Simpson,Simpson Home,What?! No! You can't! I won't let you!
+27963,131,94,404000,Officer Noble,Simpson Home,Mrs. Simpson. Restrain yourself or you'll be arrested.
+27964,131,95,415000,Officer Goodman,Simpson Home,"Now just relax, kids. All we're doing is taking you to a foster home!"
+27966,131,97,428000,Todd Flanders,Simpson Home,Yay!
+27967,131,98,428000,Ned Flanders,Simpson Home,"Heydilly-ho! Welcome to your new home, neglect-areenos!"
+27969,131,100,435000,Officer Goodman,Flanders Home,"Kids, meet your new foster family."
+27970,131,101,438000,Rod Flanders,Flanders Home,We love you!
+27971,131,102,439000,Bart Simpson,Flanders Home,"Uh, please don't hug me. It sickens me."
+27972,131,103,442000,Maude Flanders,Flanders Home,"I don't judge Homer and Marge, that's for a vengeful God to do."
+27973,131,104,446000,Ned Flanders,Flanders Home,Mmm-hmm. All we want to do is give you kids a good home until they get their act together.
+27974,131,105,450000,Lisa Simpson,Flanders Home,You don't understand. Mom and Dad take good care of us.
+27975,131,106,453000,Lisa Simpson,Flanders Home,That was a baby tooth... it was loose...
+27976,131,107,459000,Officer Noble,Flanders Home,"Don't you worry, little girl. We'll get you some nice county dentures."
+27978,131,109,469000,Marge Simpson,Simpson Home,Parents are not to communicate with children and must stay at least 100 feet away at all times...
+27979,131,110,469000,Homer Simpson,Simpson Home,We leave you the kids for three hours and the county takes them away?!
+27980,131,111,479000,Grampa Simpson,Simpson Home,"Oh, bitch, bitch, bitch."
+27982,131,112,482000,Marge Simpson,Simpson Home,I can't believe I put my own pleasure ahead of my home and family. That is so like me.
+27983,131,113,488000,Homer Simpson,Simpson Home,"Oh, Marge, don't blame yourself. I'm the terrible parent. The boy bugs the hell outta me, I can't help Lisa with her homework. The only thing I'm fit to take care of is a houseplant."
+27984,131,114,500000,Homer Simpson,Simpson Home,Lousy houseplant!
+27986,131,116,515000,Todd Flanders,Flanders Home,Go with it!
+27987,131,117,517000,Bart Simpson,Flanders Home,"Here you go, Todd. The city edition."
+27988,131,118,522000,Rod Flanders,Flanders Home,"Bart, I don't know if this should be an extra."
+27989,131,119,524000,Todd Flanders,Flanders Home,Is your source on this reliable?
+27990,131,120,527000,Bart Simpson,Flanders Home,I hate this place.
+27991,131,121,529000,Lisa Simpson,Flanders Home,"Yeah. It seems like our house, but everything's got a creepy Pat Boone-ish quality to it."
+27992,131,122,534000,Ned Flanders,Flanders Home,"Hey, kids! Nachos, Flanders-style! That's cucumbers with cottage cheese."
+27993,131,123,543000,Ned Flanders,Flanders Home,"Oh, Bart. I know you're still getting adjusted here. Tell you what. We'll do whatever you want to do."
+27994,131,124,549000,Bart Simpson,Flanders Home,Watch Itchy and Scratchy!
+27995,131,125,551000,Ned Flanders,Flanders Home,"Well, I guess a little television won't hurt. I used to let the boys watch ""My Three Sons,"" but it got 'em all worked up before bedtime."
+27996,131,126,589000,Scratchy,Flanders Home,Why? Why? My only son.
+27997,131,127,604000,Rod Flanders,Flanders Home,"Daddy, what's the red stuff coming out of Kitty's ears?"
+27998,131,128,608000,Ned Flanders,Flanders Home,"Uh, er, that's just raspberry jam."
+27999,131,129,611000,Todd Flanders,Flanders Home,"Dad, should I poke Rod with a sharp thing like the mouse did?"
+28000,131,130,614000,Ned Flanders,Flanders Home,"No, son. No sirree, Bob."
+28002,131,132,621000,Marge Simpson,Simpson Home,Can you see them?
+28003,131,133,622000,Homer Simpson,Simpson Home,I can see Lisa... but it might be a starfish. I've gotta call 'em!
+28004,131,134,629000,Automated Voice,Simpson Home,The number you have dialed can no longer be reached from this phone... you negligent monster.
+28005,131,135,635000,Marge Simpson,Simpson Home,That's it. We're going downtown to get our kids back. Right now!
+28008,131,138,643000,Marge Simpson,Courthouse,"We've always tried to be good parents. Please, I'm begging you, one mother to another -- you must have a family."
+28009,131,139,650000,Judge Snyder,Courthouse,"No, I don't care for children."
+28010,131,140,652000,Homer Simpson,Courthouse,"Now wait a minute! Okay, I'm not gonna win Father of the Year. In fact, I'm probably the last guy in the world who should have kids. Wait, can I start again? Fathering children is the best part of my day... I'd do anything for Bart and Lisa!"
+28011,131,141,668000,Judge Snyder,Courthouse,And Margaret?
+28012,131,142,670000,Homer Simpson,Courthouse,"Who? Lady, you got the wrong file."
+28013,131,143,672000,Marge Simpson,Courthouse,It's Maggie!
+28014,131,144,673000,Homer Simpson,Courthouse,"Oh, Maggie. I got nothing against Maggie."
+28015,131,145,675000,Judge Snyder,Courthouse,"I can see you sincerely want your children back. But you have a lot to learn about being parents. Before I can return your children, you'll have to complete a course called Family Skills. It teaches parents to listen to their..."
+28016,131,146,687000,Homer Simpson,Courthouse,Communication. Gotcha.
+28017,131,147,687000,Judge Snyder,Courthouse,But it's important to...
+28018,131,148,687000,Homer Simpson,Courthouse,"Listen. Yes, I know."
+28019,131,149,687000,Judge Snyder,Courthouse,But there's more to it than...
+28020,131,150,692000,Homer Simpson,Courthouse,I have listening skills!
+28021,131,151,693000,Judge Snyder,Courthouse,"Mr. Simpson, would you please --"
+28022,131,152,694000,Homer Simpson,Courthouse,"Shut up, Judge!"
+28024,131,154,696000,Ned Flanders,Flanders Home,Peek-a-boo! I see you!
+28026,131,156,699000,Ned Flanders,Flanders Home,Peek-a-boo! I see you!
+28028,131,158,701000,Bart Simpson,Flanders Home,I never heard Maggie laugh like that before.
+28029,131,159,704000,Lisa Simpson,Flanders Home,"Well, when was the last time Dad gave her that kind of attention?"
+28030,131,160,708000,Bart Simpson,Flanders Home,"When she swallowed that quarter, he spent all day with her."
+28031,131,161,711000,Lisa Simpson,Flanders Home,"I thought I could ride this thing out, but everything's just too weird here."
+28032,131,162,714000,Bart Simpson,Flanders Home,I know. They put honey on their pancakes instead of maple syrup.
+28033,131,163,718000,Lisa Simpson,Flanders Home,And they read Newsweek instead of nothing.
+28034,131,164,720000,Ned Flanders,Flanders Home,"C'mon, you Gloomy Gusses. Who's up for a big bowl of non-fat ice milk?"
+28035,131,165,724000,Todd Flanders,Flanders Home,I want wintergreen!
+28036,131,166,725000,Maude Flanders,Flanders Home,Unflavored for me!
+28039,131,169,728000,Marge Simpson,CLASSROOM,...and then I saw my boy in a burlap sack and they told me he had lice!
+28040,131,170,735000,Father In Burlap Sack,CLASSROOM,Is this story goin' somewhere?
+28041,131,171,736000,Officer Goodman,CLASSROOM,"All right. Easy there, Flub. We're all gonna get a chance. Mrs. Skinner, why are you here?"
+28042,131,172,741000,Agnes Skinner,CLASSROOM,The county is threatening to take my Seymour away. We had another fight over the inflatable bath pillow. I kept screeching and screeching at him but--
+28043,131,173,752000,Officer Goodman,CLASSROOM,"All right... Very good. Now, who knows how the Skinners could have resolved this problem...without resorting to violence...or childish name-calling?"
+28044,131,174,761000,Officer Goodman,CLASSROOM,"Anybody? Okay, that's okay, because making a happy home isn't like flipping on a light switch."
+28045,131,175,768000,Cletus Spuckler,CLASSROOM,Light switch?
+28046,131,176,770000,Officer Goodman,CLASSROOM,"There are a lot of little tricks to it, things you should have learned a long time ago. Such as: If you leave milk out, it can go sour. Put it in the refrigerator, or failing that, a cool, wet sack..."
+28047,131,177,783000,Officer Goodman,CLASSROOM,"And put your garbage in a garbage can, people. I can't stress that enough. Don't just throw it out the window."
+28048,131,178,789000,Marge Simpson,CLASSROOM,This is so humiliating.
+28049,131,179,791000,Homer Simpson,CLASSROOM,Garbage in garbage can. Makes sense.
+28051,131,181,795000,Ned Flanders,Flanders Home,"Nighty night, my sweet li'l foundling-a-dings."
+28052,131,182,798000,Bart Simpson,Flanders Home,But it's only 7 o'clock.
+28053,131,183,800000,Lisa Simpson,Flanders Home,Yeah. The sun is still out.
+28055,131,185,810000,Maude Flanders,Flanders Home,THEY SAY YOUR FOLKS CAN'T PAY THE RENT/ SO WE'RE WATCHING YOU BY ACT OF GOVERNMENT.
+28056,131,186,816000,Ned Flanders,Flanders Home,"WELL, I DON'T KNOW IF THE ALLEGATIONS ARE TRUE / BUT YOU GOT US, AND BABY, WE GOT YOU."
+28057,131,187,824000,Ned Flanders,Flanders Home,"BABE. WE GOT YOU, BABE."
+28058,131,188,828000,Lisa Simpson,Flanders Home,"You know, Maggie hasn't been a Simpson as long as us. I think she's beginning to forget Mom and Dad."
+28059,131,189,834000,Bart Simpson,Flanders Home,Remember how Mom used to microwave our underwear on cold days?
+28060,131,190,838000,Lisa Simpson,Flanders Home,Or the way Dad used to call the radio station with fake traffic tips?
+28062,131,192,845000,Lisa Simpson,Flanders Home,They're ten feet away and we can't even talk to them. I wish I could tell them how much I miss them.
+28064,131,194,860000,Marge Simpson,Simpson Home,It's so quiet here without the kids.
+28065,131,195,863000,Homer Simpson,Simpson Home,What I wouldn't give to hear Lisa play another one of her jazzy tunes.
+27981,131,196,868000,Homer Simpson,Simpson Home,Saxa-ma-phone. Saxa-ma-phone.
+28066,131,197,873000,Marge Simpson,Simpson Home,"I miss the way Bart would say something and then say ""dude."""
+28067,131,198,873000,Homer Simpson,Simpson Home,I wish I knew something about the baby I could miss now.
+28068,131,199,882000,Marge Simpson,Simpson Home,You mean Maggie?
+28069,131,200,882000,Homer Simpson,Simpson Home,That's it.
+28070,131,201,884000,Marge Simpson,Simpson Home,We've never been separated from the kids for so long. I don't know how much more I can take.
+28071,131,202,890000,Marge Simpson,Simpson Home,There's Bart's ring!
+28072,131,203,904000,Homer Simpson,Simpson Home,"Todd Smells. Aw, I already knew that."
+28073,131,204,907000,Marge Simpson,Simpson Home,"Well, look at the other side."
+28076,131,207,920000,Officer Goodman,Family Skills Class,"Okay, let's see if we've learned anything. I want you two to simulate a typical household problem... Go!"
+28077,131,208,925000,Cletus Spuckler,Family Skills Class,"Paw, I cut myself on the screen door again."
+28078,131,209,928000,Homer Simpson,Family Skills Class,Why you cotton pickin' --
+28080,131,211,938000,Homer Simpson,Family Skills Class,"No! I've gotta pass this class for my kids. Son, let's stop the fussin' and a-feudin'."
+28081,131,212,945000,Cletus Spuckler,Family Skills Class,"I love you, Paw!"
+28082,131,213,947000,Homer Simpson,Family Skills Class,"I love you, Cletus!"
+28084,131,215,956000,Ned Flanders,Flanders Home,"Well, children, it's Saturday night, so what say we let our hair down and play Bombardment..."
+28085,131,216,960000,Lisa Simpson,Flanders Home,Yay!
+28086,131,217,962000,Ned Flanders,Flanders Home,...of Bible questions.
+28087,131,218,964000,Todd Flanders,Flanders Home,Yay!
+28088,131,219,965000,Ned Flanders,Flanders Home,Which version shall it be?
+28089,131,220,966000,Todd Flanders,Flanders Home,St. James!
+28090,131,221,967000,Rod Flanders,Flanders Home,The Vulgate of St. Jerome!
+28091,131,222,970000,Ned Flanders,Flanders Home,Vulgate it is.
+28093,131,224,971000,Ned Flanders,Flanders Home,Okay. For one gold star: What Persian king exempted the Levites from taxation?
+28094,131,225,977000,Rod Flanders,Flanders Home,Ataxerxes!
+28095,131,226,977000,Ned Flanders,Flanders Home,Righty-o!
+28096,131,227,988000,Ned Flanders,Flanders Home,Well...
+28097,131,228,989000,Rod Flanders,Flanders Home,I know!
+28098,131,229,990000,Ned Flanders,Flanders Home,"No, Son, we've got to let Bart and Lisa get one. C'mon, this one's easy."
+28099,131,230,996000,Lisa Simpson,Flanders Home,We give up.
+28100,131,231,997000,Ned Flanders,Flanders Home,"Well, guess! Book of Revelations... Fire-breathing lion's head... tail made out of snakes... Who else is it gonna be?!"
+28101,131,232,1003000,Bart Simpson,Flanders Home,Jesus?
+28102,131,233,1005000,Ned Flanders,Flanders Home,Jes... ? Jes... ? Don't you kids know anything? The serpent of Rehaboam? The well of Zohassadar? The bridal feast of Beth Chadruharazzeb?
+28103,131,234,1017000,Maude Flanders,Flanders Home,"Why, that's the kind of thing you should start learning at baptism."
+28104,131,235,1019000,Lisa Simpson,Flanders Home,"Uh, actually, the... We were never baptized."
+28106,131,237,1027000,Maude Flanders,Flanders Home,"Oh, Neddie! Neddie! Neddie!"
+28107,131,238,1034000,Ned Flanders,Flanders Home,"No, that ain't gonna do it."
+28109,131,240,1037000,Officer Goodman,Family Skills Class,"I'm very proud of you people. You've learned how to care for your children, how to maintain your homes, and you've all passed the drug test -- except for Marge. Marge, you tested positive for crack and PCP."
+28110,131,241,1047000,Marge Simpson,Family Skills Class,"Oh, my."
+28111,131,242,1049000,Officer Goodman,Family Skills Class,"Okay, the re-test says you're clean. Sorry about the mistake."
+28112,131,243,1052000,Marge Simpson,Family Skills Class,"The only thing I'm high on is love. Love for my son and daughters. Yes, a little ""L.S.D."" is all I need."
+28113,131,244,1061000,Officer Goodman,Family Skills Class,"All right, sounds very good."
+28115,131,246,1068000,Ned Flanders,Flanders Home,Jeepers H. Crackers! I'd better call the Reverend!
+28117,131,248,1074000,Helen Lovejoy,Lovejoy Home,Ned Flanders is on the phone.
+28118,131,249,1077000,Rev. Timothy Lovejoy,Lovejoy Home,"Hello, Ned..."
+28119,131,250,1079000,Ned Flanders,Lovejoy Home,Reverend... Emergency... I... You... Simpson kids... Eedily... Baptism... Oodily... Doodily-doodily...
+28120,131,251,1086000,Rev. Timothy Lovejoy,Lovejoy Home,"Ned, have you thought about one of the other major religions? They're all pretty much the same."
+28121,131,252,1093000,Rev. Timothy Lovejoy,Lovejoy Home,Damn Flanders.
+28122,131,253,1096000,Ned Flanders,Lovejoy Home,Looks like I'm gonna have to baptize you myself.
+28124,131,255,1106000,Homer Simpson,Simpson Home,"Kids, we're good parents now! Get your asses out here!"
+28125,131,256,1111000,Marge Simpson,Simpson Home,We missed you so much!
+28126,131,257,1115000,Marge Simpson,Simpson Home,He's going to baptize our children?
+28127,131,258,1118000,Homer Simpson,Simpson Home,Oh no! In the eyes of God they'll be Flanderseseseses!
+28129,131,260,1123000,Ned Flanders,Flanders's Car,"Until this, I never thought Homer and Marge were bad parents. But now I know you kids need a less hellbound family."
+28131,131,261,1129000,Maude Flanders,Flanders's Car,"Just sit back, and before you know it, you'll be part of the Flanders flock."
+28132,131,262,1135000,Bart Simpson,Flanders's Car,Ha ha. You're gonna be Lisa Flanders.
+28133,131,263,1137000,Lisa Simpson,Flanders's Car,You're gonna be Bart Flanders.
+28135,131,265,1140000,Maude Flanders,Flanders's Car,"Oh, relax, Bart. Your sister Maggie isn't scared."
+28136,131,266,1143000,Bart Simpson,Flanders's Car,That's because she can't talk.
+28137,131,267,1147000,Maggie Simpson,Flanders's Car,Daddilly-doodily.
+28139,131,269,1153000,Marge Simpson,Simpson Car,Where we going? Where we going?
+28140,131,270,1154000,Homer Simpson,Simpson Car,"Okay, okay, don't panic. To find Flanders, I just have to think like Flanders!"
+148566,131,271,1159000,Homer's Brain,Simpson Car,"I'm a big four-eyed lame-o and I wear the same stupid sweater every day, and..."
+28141,131,272,1164000,Homer Simpson,Simpson Car,The Springfield River!
+28143,131,274,1166000,Todd Flanders,SPRINGFIELD RIVER,"I ONCE WAS LOST, BUT NOW AM FOUND / WAS BLIND BUT NOW I SEE!"
+28144,131,275,1179000,Ned Flanders,SPRINGFIELD RIVER,Today we write a new page in the Flanders family bible.
+28146,131,277,1187000,Ned Flanders,Street,Who wants to be the first to enter God's good graces?
+28147,131,278,1191000,Rev. Timothy Lovejoy,Street,"Easy, easy."
+28148,131,279,1196000,Rev. Timothy Lovejoy,Street,"Oh, why do you hate my trains?"
+28150,131,281,1215000,Homer Simpson,Road Near Riverbank,Son of a bitch...
+28151,131,282,1220000,Ned Flanders,Road Near Riverbank,"Do you reject Satan, and all his empty promises?"
+28152,131,283,1223000,Homer Simpson,Road Near Riverbank,Noooooooo!
+28154,131,285,1246000,Bart Simpson,Road Near Riverbank,"Wow, Dad, you took a baptismal for me. How do you feel?"
+28155,131,286,1249000,Homer Simpson,Road Near Riverbank,"Oh, Bartholemew, I feel like St. Augustine of Hippo after his conversion by Ambrose of Milan."
+28156,131,287,1255000,Ned Flanders,Road Near Riverbank,"Wait, Homer. What did you just say?"
+28157,131,288,1257000,Homer Simpson,Road Near Riverbank,"I said shut your ugly face, Flanders."
+28158,131,289,1259000,Ned Flanders,Road Near Riverbank,"Oh, fair enough."
+28159,131,290,1261000,Homer Simpson,Road Near Riverbank,"Oh, there's my sweet little Maggie."
+28160,131,291,1286000,Marge Simpson,Road Near Riverbank,"Oh, Maggie, you're a Simpson again!"
+28162,131,293,1298000,Marge Simpson,Road Near Riverbank,"So, what was it like at the Flanders' house?"
+28163,131,294,1301000,Homer Simpson,Road Near Riverbank,Yeah! Gimme all the dirt!
+28165,131,295,1302000,Lisa Simpson,Road Near Riverbank,"Let's see. Dirt... dirt... Well, there wasn't really much dirt."
+28166,131,296,1306000,Bart Simpson,Road Near Riverbank,"There was a bunch of old paint cans in their garage, though."
+28167,131,297,1311000,Homer Simpson,Road Near Riverbank,Old painty-can Ned!

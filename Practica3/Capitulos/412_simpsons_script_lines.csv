@@ -1,0 +1,204 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+106858,412,3,50000,Marge Simpson,Springfield Street,I can't wait to see my Valentine's Day surprise!
+106861,412,6,54000,Homer Simpson,Simpson Car,"Good, 'cause I'm parking at it right now."
+106863,412,8,58000,Marge Simpson,Parking Lot,A carnival? What's so romantic about this?
+106864,412,9,62000,Lisa Simpson,Parking Lot,Goodbye! / See ya later!
+106868,412,10,63000,Homer Simpson,Parking Lot,"For the next two hours, we'll be kid free. It'll be just like the time we lost them at the mall."
+106870,412,12,70000,Homer Simpson,Parking Lot,That was the best Christmas ever.
+106873,412,15,75000,Homer Simpson,TUNNEL OF LOVE,"Ah, the Tunnel of Love -- nothing gets a woman in your arms faster than scary robots and simulated privacy."
+106882,412,24,97000,Homer Simpson,TUNNEL OF LOVE,Marge! Look over there!
+106888,412,30,103000,Bart Simpson,Carnival,Mom and Dad are in there. Wanna ruin their fun?
+106889,412,31,106000,Lisa Simpson,Carnival,"Bart, no, it's Valentine's Day."
+106890,412,32,108000,Bart Simpson,Carnival,"Okay... but if Dad kisses Mom too much, a stork will lay an angel egg in her tummy, and the next thing you know we find a baby brother in the cabbage patch! Here's a thumbnail sketch:"
+106891,412,33,115000,Lisa Simpson,Carnival,In the first place... do whatever you want. I'm getting' a candy apple.
+106895,412,37,143000,Tunnel Of Love Carny,TUNNEL OF LOVE,"Due to a classic Jell-O prank, this ride has been disabled."
+106897,412,39,148000,Tunnel Of Love Carny,TUNNEL OF LOVE,Please remain in your boats -- you will be charged for the extra time.
+106899,412,41,154000,Marge Simpson,TUNNEL OF LOVE,This is a terrible Valentine's Day.
+106900,412,42,157000,Homer Simpson,TUNNEL OF LOVE,What if I told you some of the greatest love stories of all time?
+106902,412,44,163000,Marge Simpson,TUNNEL OF LOVE,Romeo and Juliet? Arthur and Guinevere? Brangelina?
+106904,412,46,168000,Homer Simpson,TUNNEL OF LOVE,Even better -- a tale of ... One moment.
+106812,412,48,170000,Homer Simpson,TUNNEL OF LOVE,A tale of two young outlaws in love...
+106907,412,50,177000,Homer Simpson,Rural Texas,They were the Bonnie and Clyde of their day. Their names were... Bonnie and Clyde.
+106908,412,51,183000,Cletus Spuckler,Rural Texas,"Miss Bonnie, might I escort you to the picture show? I swear I won't misbehave."
+106909,412,52,189000,Bonnie,Rural Texas,Then no thank you. This is Texas! Future home of Akeem Olajuwon! And I've got dreams as big as he will be. I want action!
+106910,412,53,199000,Clyde,Rural Texas,"Action, eh?"
+106911,412,54,202000,Clyde,Rural Texas,"Clyde Barrow, local bad boy."
+106912,412,55,205000,Bonnie,Rural Texas,"Bonnie Parker. Say, if you're so bad, you could go stick up that feed store over yonder."
+106913,412,56,213000,Bonnie,Rural Texas,Unless you're... chicken.
+106914,412,57,217000,Clyde,Rural Texas,"No one calls me ""chicken"" without goading me into doing something stupid!"
+106915,412,58,227000,Grampa Simpson,Rural Texas,Ya idjit! You coulda had anything you want for free! You're a co-owner!
+106916,412,59,233000,Clyde,Rural Texas,I'll see you at Thanksgiving!
+106918,412,61,239000,Bonnie,Car,Oats! Texas caviar!
+106920,412,63,240000,Clyde,Car,Good times.
+106921,412,64,248000,Bonnie,Car,Finally. Some excitement.
+106922,412,65,251000,Clyde's Thoughts,Car,"I guess violence is her only turn-on. Well, there might be others, but I'm too lazy to figure out what they are. So violence it is!"
+106923,412,66,259000,Bonnie,Car,There's somethin' this kissin' is missin'.
+106924,412,67,268000,Bonnie,Car,"Oh Clyde, you know just what a girl likes."
+106927,412,70,275000,Bank Employee,Small Town Bank,Why are you shooting at us? We cooperated fully!
+106928,412,71,278000,Clyde,Small Town Bank,It's a sex thing!
+106929,412,72,279000,Bank Employee,Small Town Bank,Say no more!
+106930,412,73,281000,Ned Flanders,Small Town Bank,"Hey, can I give you folks a lift?"
+106931,412,74,283000,Bonnie,Small Town Bank,"Yes, to a series of banks, up and down the state."
+106932,412,75,286000,Ned Flanders,Small Town Bank,Banks? Well deposit yourselves in a seat 'cause you've earned my interest!
+106933,412,76,295000,Newsreel Narrator,Small Town Bank,"Dateline, Texas..."
+106934,412,77,297000,Newsreel Narrator,Small Town Bank,"A nation crippled by unemployment and bored by Seabiscuit, embraces two unlikely folk heroes."
+106935,412,78,304000,Newsreel Narrator,Small Town Bank,Bonnie and Clyde souvenirs are flying off the shelves...and the dust bowl duo has inspired their own radio show.
+106936,412,79,312000,Actor,Small Town Bank,"Uh Bonnie, where'd you put the money we stole?"
+106937,412,80,314000,Actress,Small Town Bank,"I filed it under ""G""."
+106865,412,81,314000,Actor,Small Town Bank,"Under ""G""? Why would you file it under ""G""?"
+106939,412,82,318000,Actress,Small Town Bank,Because gee it's swell to have all that money.
+106940,412,83,321000,Actor,Small Town Bank,I see.
+106941,412,84,322000,Newsreel Narrator,Small Town Bank,Their notoriety has reached the highest levels of government...
+106942,412,85,326000,Franklin Roosevelt,Small Town Bank,"To deal with the menace of Bonnie and Clyde, I am recalling all our air defense forces from Pearl Harbor."
+106944,412,87,335000,Franklin Roosevelt,Small Town Bank,Somebody please remind me to move them back.
+106945,412,88,338000,Japanese Ambassador,Small Town Bank,I would be honored to perform that duty.
+106947,412,90,341000,Ned Flanders,Movie Theater,"They're outlaws?! I've been played like a pair of spoons! Well, who am I to judge -- it's the Depression, money's tight..."
+106948,412,91,348000,Newsreel Narrator,Movie Theater,Anyone who sees this unmarried couple should --
+106949,412,92,351000,Ned Flanders,Movie Theater,"Unmarried?! That's it, I'm turning 'em in."
+106950,412,93,354000,Sheriff Wiggum,Movie Theater,"Hey keep it down, will ya? The part where all my men get killed is comin' up."
+106951,412,94,357000,Ned Flanders,Movie Theater,"Listen Sheriff, I can help you take down Bonnie and Clyde."
+106952,412,95,360000,Sheriff Wiggum,Movie Theater,After the racially-insensitive cartoon.
+106953,412,96,367000,Mexican Mouse,Movie Theater,"One taco, coming up."
+106955,412,98,382000,Sheriff Wiggum,Movie Theater,"Even I'm offended by this, and I'm a fat Southern sheriff."
+106957,412,100,389000,Ned Flanders,Rural Road,Um... the battery seems to be dead. I'll get some help by hidin' in that bush.
+106958,412,101,395000,Ned Flanders,Rural Road,"C'mon, shoot! Shoot!"
+106959,412,102,396000,Ned Flanders,Rural Road,Not me!
+106960,412,103,401000,Clyde,Rural Road,"Bonnie, I love you. Will you marry me?"
+106961,412,104,403000,Bonnie,Rural Road,I don't know -- I guess I'm just looking for a little more excitement.
+106962,412,105,407000,Clyde,Rural Road,"Okay, but if you change your mind, you know where I'm at."
+106963,412,106,410000,Bonnie,Rural Road,"I think we should see other people. Say Officer, I like how you handle that gun."
+106964,412,107,417000,Sheriff Wiggum,Rural Road,Thanks. I like the way you take a bullet.
+106965,412,108,420000,Clyde,Rural Road,"Hey, back off -- she's my girl!"
+106966,412,109,422000,Sheriff Wiggum,Rural Road,"Darn, just my luck."
+106967,412,110,427000,Sheriff Wiggum,Rural Road,Cool. Now we're shooting the birds that are peckin' at the bodies!
+106970,412,113,438000,Marge Simpson,TUNNEL OF LOVE,"So that's the end of the story, huh?"
+106906,412,114,439000,Homer Simpson,TUNNEL OF LOVE,"You'd think so, but..."
+106938,412,115,445000,Bart Simpson,TUNNEL OF LOVE,We wanna hear a story!
+106971,412,116,447000,Lisa Simpson,TUNNEL OF LOVE,A story suitable for children!
+106972,412,117,449000,Marge Simpson,TUNNEL OF LOVE,"All right! This is a story of two dogs with a love so strong, no hose could separate them. I call it Shady and the Vamp..."
+106976,412,121,466000,Shady,THE VAMP'S MANSION,She's so beautiful... Imagine what she looks like with her collar off...
+106977,412,122,473000,Moe Dog,THE VAMP'S MANSION,A mutt like you could never get a fancy dame like that. Even her fleas have more class than you.
+106978,412,123,480000,Snooty Male Flea,THE VAMP'S MANSION,"Lady Bitington, will you be summering in the hindquarters again this year?"
+106979,412,124,485000,Lady Bitington,THE VAMP'S MANSION,Oh no. Chompy and I have taken a cottage in West Leg. It's where all the fleas are fleeing.
+106981,412,126,494000,Shady,THE VAMP'S MANSION,Watch and learn.
+106982,412,127,502000,Shady,THE VAMP'S MANSION,"You know, Heaven must have left its doggie door open, because you are one--"
+106984,412,129,513000,The Vamp,THE VAMP'S MANSION,"Oh, you poor thing!"
+106985,412,130,519000,The Vamp,THE VAMP'S MANSION,Is there anything I can do?
+106986,412,131,521000,Shady,THE VAMP'S MANSION,You can have dinner with me.
+106987,412,132,523000,The Vamp,THE VAMP'S MANSION,All right -- but keep your nose where I can see it.
+106988,412,133,527000,Moe Dog,THE VAMP'S MANSION,Can you bring a friend for me? I like those chicks with them head cones -- when they start talkin' you can drop below the horizon.
+106991,412,136,543000,Luigi,Sidewalk,"Oh, Shady, you on a date, huh? How's it goin'?"
+106992,412,137,547000,Shady,Sidewalk,Ruff! Ruff!
+106993,412,138,548000,Luigi,Sidewalk,"Oh, you say it's goin' kinda rough?"
+106994,412,139,550000,Shady,Sidewalk,That is precisely what I'm saying.
+106995,412,140,553000,Luigi,Sidewalk,"Sit down, sit down, I bring-a you a nice bowl of Chianti."
+106996,412,141,571000,The Vamp,Sidewalk,Let go! Let go!
+106997,412,142,573000,Shady,Sidewalk,No. You let go of the spaghetti!
+106999,412,144,580000,Shady,Sidewalk,You're pretty feisty for an upper class bitch.
+107000,412,145,583000,The Vamp,Sidewalk,"Ooh, I like that you use the technical term for a female dog."
+107001,412,146,588000,Luigi,Sidewalk,"Run, run -- the health inspector man, she's-a here!"
+107002,412,147,594000,Luigi,Sidewalk,"Why didn't I listen to mama? ""Serve food to humans!"""
+107004,412,149,596000,The Vamp,CREST OF HILL,"I have to admit, that was exciting. And... I am in heat. That's the safe time, right?"
+107005,412,150,609000,Shady,CREST OF HILL,"Oh, the safest."
+107007,412,152,621000,The Vamp,Hillside,That was the most wonderful night of my life.
+107008,412,153,626000,The Vamp,Hillside,That's odd. I'm never sick in the morning. What could it be?
+107009,412,154,630000,Shady,Hillside,Uh... is that a fox hunt I hear?
+107010,412,155,638000,The Vamp,Hillside,Shady?
+107012,412,157,643000,The Vamp,Mansion,I haven't seen Shady in weeks!
+107013,412,158,649000,The Vamp,Mansion,ANY MINUTE NOW / HE'LL SCAMPER THROUGH THAT DOGGIE DOOR...
+107015,412,160,654000,Shady,Dog Moe's Watering Hole,ANY MINUTE NOW / I'LL BE THE DOG SHE'S LOOKIN' FOR...
+107016,412,161,660000,Barflies,Dog Moe's Watering Hole,ANY MINUTE NOW / YOU'LL BE STUCK WITH HER BROOD...
+107018,412,163,666000,Siamese Cats,Mansion,ANY MINUTE NOW / THIS POOCH WILL KNOW SHE'S SCREWED...
+107019,412,164,673000,The Vamp,Mansion,MY HEART TELLS ME TO TRUST HIM...
+107020,412,165,677000,Siamese Cats,Mansion,BUT YOUR HEAD KNOWS HE'S A HOUND.
+107022,412,167,681000,Shady,Dog Moe's Watering Hole,I WANT TO DO THE RIGHT THING...
+107023,412,168,685000,Moe Dog,Dog Moe's Watering Hole,"Come on, with all this high-class tail around?!"
+107025,412,170,690000,Upper-class Fleas,THE VAMP'S YARD,ANY MINUTE NOW / OUR GIRL WILL MAKE A BRAND NEW START...
+107026,412,171,695000,Siamese Cats,THE VAMP'S YARD,YESSSSSS!
+107027,412,172,697000,The Vamp,THE VAMP'S YARD,ANY MINUTE NOW / I WON'T CARE THAT HE BROKE MY HEART...
+107029,412,174,703000,Shady,Alley,ANY MINUTE NOW!
+107032,412,177,714000,Lisa Puppy,Mansion,Where's our Dad? / We need a Daddy! / I wanna go find Daddy! / Where's Daddy?!
+107033,412,178,718000,The Vamp,Mansion,I don't want to hear another word about your father.
+107035,412,180,733000,Lisa Puppy,Mansion,We've gotta find our Daddy!
+107036,412,181,735000,Bart Puppy,Mansion,"Yeah, he's gotta teach me how to lick my... Oh, I figured it out. You go ahead."
+107037,412,182,740000,Lisa Puppy,Mansion,C'mon!
+107039,412,184,741000,Lisa Puppy,Street,"Oh, Shady! / Shady! / Shady!"
+107040,412,185,745000,Lisa Puppy,Street,"Daddy! / Daddy! / We need you, Daddy! / Daddy!"
+107043,412,186,751000,Dog Catcher Willie,Street,"Ah! Got ya! You strays are goin' straight to the pound, where you'll be put to sleep... by my boring stories. And then you'll be killed!"
+107045,412,188,766000,Moe Dog,Street,Looks like that problem solved itself. Now how 'bout you and me sniff each other's butts? I'm just kiddin'. Unless you want to.
+107046,412,189,781000,Moe Dog,Street,"Well, looks like it's just you and me again tonight."
+107048,412,191,796000,Wacky Dog,Dog Pound,"Gorsh, you can't kill me -- I'm half-human! Look, I wear clothes, I speak English! I'm speaking it right now!"
+107049,412,192,805000,DOGCATCHER WILLIE,Dog Pound,Sure you are...
+107051,412,194,816000,DOGCATCHER WILLIE,Dog Pound,You two are next. Here's your last meal...
+107052,412,195,818000,DOGCATCHER WILLIE,Dog Pound,"It's ""Cycle Five"" -- specially formulated for dogs with five minutes to live."
+107053,412,196,827000,DOGCATCHER WILLIE,Dog Pound,Don't bite the hand what kills ye!
+107055,412,198,832000,Lisa Puppy,Dog Pound,"Yay, Dad! / I knew you'd come save us!"
+107056,412,199,835000,Shady,Dog Pound,You two are going home. And I'm comin' with ya!
+107057,412,200,843000,Wacky Dog,Dog Pound,"This place is no picnic, but it sure beats workin' for Disney."
+107060,412,203,857000,Lisa Puppy,THE VAMP'S MANSION,Look who we found!
+107061,412,204,858000,Bart Puppy,THE VAMP'S MANSION,Can we keep him? Can we keep him?
+107062,412,205,860000,The Vamp,THE VAMP'S MANSION,That depends. Does he want to stay?
+107063,412,206,863000,Shady,THE VAMP'S MANSION,"I want to stay, sit, roll over and beg!"
+107064,412,207,867000,Shady,THE VAMP'S MANSION,"Please, please, please, please, please, please, pleeaase!"
+107065,412,208,870000,The Vamp,THE VAMP'S MANSION,"All right, we can be a family."
+107066,412,209,874000,Shady,THE VAMP'S MANSION,All four of us.
+107067,412,210,876000,The Vamp,THE VAMP'S MANSION,Uh... You know there are nine other puppies.
+107068,412,211,880000,Shady,THE VAMP'S MANSION,Ruh-roh.
+107070,412,213,894000,Homer Simpson,TUNNEL OF LOVE,Even love is boring when you're stuck in a tunnel of it. Why can't this be the Tunnel of Hockey Fights?
+107071,412,214,896000,Bart Simpson,TUNNEL OF LOVE,"Well I've got a Valentine's Day story! It's about musicians from a simpler time. The era of The Brady Bunch, Donny and Marie, and..."
+107073,412,216,905000,Johnny Rotten,PUNK CLUB,SMASH THE FLAG / BURN THE QUEEN / KICK THE SKY / ANTICHRIST!
+107074,412,218,917000,Milhouse Van Houten,LONDON STREET OUTSIDE CLUB,"Nancy, what are the odds? You sign up for a semester at U. of London, then I immediately do the same."
+107075,412,219,924000,Nancy,LONDON STREET OUTSIDE CLUB,"Yeah, I'm really lucky you saved me from meeting other people and having new experiences."
+107076,412,220,931000,Nancy,LONDON STREET OUTSIDE CLUB,"What is that raw, primal sound?"
+107077,412,221,934000,Milhouse Van Houten,LONDON STREET OUTSIDE CLUB,You can't go in there -- our guidebook says not to!
+107079,412,223,939000,Sid,Club,Hitler and her majesty / sittin' in a tree / b-o-r-r-i-n-g!
+107080,412,224,946000,Male Punk Rock Fan,Club,"You rule, Sid Vicious!"
+107081,412,225,947000,Sid,Club,You sicken me!
+107082,412,226,952000,Sid,Club,Why am I hittin' myself? Why am I hittin' myself?
+107083,412,227,955000,Nancy,Club,"He's so uncompromising -- he'd never go for an uncool spelling-bee champion like me. I've spelled ""unrequited"" -- now I know what it means."
+107084,412,228,965000,Otto Mann,Club,"Yo. I got Duds, Chunks, Twix, Cadbury's -- any way you want to go."
+107085,412,229,970000,Milhouse Van Houten,Club,Chocolate?
+107086,412,230,972000,Milhouse Van Houten,Club,"Nancy's too smart to put that in her body. It's only for losers, like musicians and..."
+107087,412,231,977000,Nancy,Club,Musicians?!
+107088,412,232,980000,Milhouse Van Houten,Club,That's my girlfriend.
+107089,412,233,981000,Otto Mann,Club,Then I guess you'll be paying for her chocolate.
+107090,412,234,984000,Milhouse Van Houten,Club,"Uh, okay."
+107091,412,235,986000,Constable Wiggum,Club,"Gotcha! That's nice work, Officer Otto."
+107092,412,236,988000,Otto Mann,Club,"Happy to be of service, old bean."
+107094,412,238,994000,Martin Prince,Pub,S-A-T-U-R-D-A-Y NIGHT! / S-A-T-U-R-D-A-Y NIGHT!
+107095,412,239,1016000,Sid,Pub,"Look, an American nerd bird."
+107096,412,240,1018000,Nancy,Pub,"Nerd bird? Would a nerd bird have chocolate, huh? Would a nerd bird?"
+107097,412,241,1023000,JOHNNY,Pub,"Stop saying ""nerd bird""! Chocolate is boring."
+107098,412,242,1026000,Sid,Pub,"Maybe I'll have a piece. You know, just to see how boring it is."
+107099,412,243,1035000,Nancy,Pub,"Oh, you're offering me some? Um... I guess I could. I mean, I do it all the time!"
+107101,412,245,1048000,Sid,Pub,"Yep, it's boring, all right. How much more you got?"
+107102,412,246,1051000,Nancy,Pub,Lots.
+107105,412,249,1100000,Johnny Rotten,Arena,We're gonna go out and play our songs like we've never played 'em before: competently! Where's Sid?
+107106,412,250,1109000,Steve,Arena,"Sidney Sheldon Vicious! Where you been, chompin' Wonka?"
+107108,412,252,1116000,Johnny Rotten,Arena,"When I hired a guy named Sid Vicious, I assumed it would be a thirty-year business relationship."
+107109,412,253,1123000,Paul Cook,Arena,I told you to hire Tom Responsible.
+107110,412,254,1126000,Johnny Rotten,Arena,Slag off.
+107112,412,256,1128000,Texan Announcer,INDOOR ARENA,"Here they are, all the way from outside of Texas -- the Sex Pistols."
+107114,412,258,1136000,JOHNNY,INDOOR ARENA,EDUCATION'S BOLLOCKS! BOLLOCKS! / AMERICA IS BOLLOCKS! BOLLOCKS! / POLITENESS IS BOLLOCKS! BOLLOCKS! / BOLLOCKS!
+107115,412,259,1148000,Sid,INDOOR ARENA,Can't reach me bass. Me back is frontward!
+107116,412,260,1158000,The Rich Texan,INDOOR ARENA,"Dang it, I wanted to hear what else was bollocks!"
+107118,412,262,1165000,JOHNNY,Backstage,"You gobbed up our gig, you git!"
+107119,412,263,1170000,Nancy,Backstage,You leave Sid alone! He doesn't need you! He's quitting the band!
+107120,412,264,1175000,Sid,Backstage,I'm doin' what now?
+107121,412,265,1176000,Nancy,Backstage,You're quittin' the band. He's going solo -- and I'm gonna write his songs!
+107122,412,266,1180000,Sid,Backstage,"Yeah! Hey, you guys wanna be in my new band?"
+107123,412,267,1183000,Nancy,Backstage,Just stop talking and bang your head against the wall.
+107124,412,268,1188000,Sid,Backstage,"I'm doing this 'cause I want to, not 'cause she told me to."
+107125,412,269,1192000,Nancy,Backstage,Bang harder!
+107126,412,270,1193000,Sid,Backstage,"Yes, pet."
+107128,412,272,1198000,Sid,Cbgb,'CAUSE LOVE IS THE ELIXIR
+107129,412,273,1200000,Nancy,Cbgb,THE POTION OF EMOTION
+107130,412,274,1203000,Sid,Cbgb,THE WORLD-SAVING FIXER
+107131,412,275,1205000,Nancy,Cbgb,THE LOTION OF DEVOTION...
+107132,412,276,1209000,Punk #1,Cbgb,This song doesn't make me feel angry at all.
+107133,412,277,1211000,Punk #2,Cbgb,"If anything, it's making my anger ebb!"
+107135,412,279,1216000,Comic Book Guy,CBGB'S,"Your music violates everything punk stands for, which is nothing! You are no longer welcome at CBGB's -- ""Comic Book Guy's Bar."""
+107136,412,280,1223000,Sid,CBGB'S,Aw forget those jerks -- let's go back to the hotel and get Snicker-faced.
+107137,412,281,1228000,Nancy,CBGB'S,"Oh I love you, my Hershey Hero."
+107138,412,282,1231000,Sid,CBGB'S,"And I love you, Tootsie Roll..."
+107139,412,283,1243000,Homer Simpson,CBGB'S,"Happy Valentine's Day, and shut your gob."

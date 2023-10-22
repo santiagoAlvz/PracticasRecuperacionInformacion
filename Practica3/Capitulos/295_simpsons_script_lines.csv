@@ -1,0 +1,279 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+75207,295,2,37000,Homer Simpson,Simpson Home,Dew-ey! Dew-ey! Dew-ey!
+75208,295,3,40000,Lisa Simpson,Simpson Home,"Dad, I'm telling you, Truman wins."
+75209,295,4,42000,TV Announcer,Simpson Home,"The headlines proclaim ""Dewey Defeats Truman."""
+75210,295,5,42000,Homer Simpson,Simpson Home,Woo hoo! I win the bet! Who's your Daddy?
+75211,295,6,48000,TV Announcer,Simpson Home,...but the headlines are dead wrong.
+75213,295,8,51000,Announcer,Simpson Home,Harry Truman triumphs by two million votes.
+75214,295,9,54000,Homer Simpson,Simpson Home,Not if I can stop that inauguration!
+75215,295,10,57000,Lisa Simpson,Simpson Home,"I win, Dad. That means I get to choose today's father-daughter activity!"
+75216,295,11,61000,Homer Simpson,Simpson Home,Let's hear it.
+75217,295,12,62000,Lisa Simpson,Simpson Home,We're building homes for the homeless.
+75218,295,13,65000,Homer Simpson,Simpson Home,"You know it's gonna be bad, but you just can't prepare yourself."
+75220,295,15,69000,Homer Simpson,Construction Site,Domiciles for the Destitute? Is this that thing that Jimmy Carter does?
+75221,295,16,73000,Lisa Simpson,Construction Site,"Yes, but now that it's hip, all the ex-presidents are doing it."
+75222,295,17,76000,Lisa Simpson,Construction Site,"There's Clinton, Bush Senior, and the nice guy who finished last, Jimmy himself."
+75223,295,18,85000,President Bush,Construction Site,Hey! Why you...
+75224,295,19,87000,Jimmy Carter,Construction Site,"Sorry George, I didn't see you there."
+75225,295,20,89000,President Bush,Construction Site,No hard feelings.
+75226,295,21,90000,President Bush,Construction Site,"I'll slaughter you, you lame-brain."
+75228,295,23,93000,Bill Clinton,Construction Site,Nyuk-nyuk-nyuk.
+75229,295,24,94000,President Bush,Construction Site,"What are you laughing at, Clinton?"
+75230,295,25,106000,Lisa Simpson,Construction Site,"Dad, what is that?"
+75231,295,26,108000,Homer Simpson,Construction Site,"Well, if Bart can be ""El Barto""..."
+75232,295,27,113000,Spanish Man,Construction Site,"Oh. If only I had your courage, Señor."
+75233,295,28,116000,Homer Simpson,Construction Site,"Oh, thanks..."
+75234,295,29,120000,Lisa Simpson,Construction Site,"Dad, you're getting paint on your wedding ring."
+75235,295,30,122000,Homer Simpson,Construction Site,"Huh? Oh, right. Can you hold it?"
+75236,295,31,126000,Lisa Simpson,Construction Site,This is a Band-Aid wrapped in tin foil.
+75237,295,32,129000,Homer Simpson,Construction Site,My real ring's inside a turtle.
+75238,295,33,134000,Cookie Kwan,Construction Site,Are you sure we'll find husbands here?
+75239,295,34,136000,Lindsay Naegle,Construction Site,Absolutely. These volunteer events are crawling with the successful single men we deserve.
+75240,295,35,142000,Cookie Kwan,Construction Site,And how. Let's see what we've got.
+75241,295,36,144000,Lindsay Naegle,Construction Site,"Well, he's not much to look at...but he is a good father...Hel-lo, ring tan line! He's new on the market!"
+75242,295,37,155000,Homer Simpson,Construction Site,Can I help you?
+75243,295,38,156000,Lindsay Naegle,Construction Site,"Maybe. I'm Lindsay Naegle, and I don't want to spend another fiscal year alone--"
+75244,295,39,161000,Cookie Kwan,Construction Site,"Cookie Kwan, realtor. Number one on the west side. I could move you into a beautiful new home... mine."
+75245,295,40,167000,Cookie Kwan,Construction Site,Sign here... sign here... kiss me here... initial there.
+75248,295,43,171000,Kid Announcer,Marge's Car,"You're listening to Radio Diznee -- the songs you love, rewritten for babies!"
+75249,295,44,177000,BAJA MEN,Marge's Car,WHO LEFT THE MILK OUT? / YUCK YUCK YUCK YUCK YUCK...
+75250,295,45,180000,Marge Simpson,Marge's Car,DAD LEFT THE MILK OUT / YUCK YUCK YUCK YUCK YUCK...
+75251,295,46,184000,Marge Simpson,Marge's Car,"That's good satire -- it doesn't hurt anyone. What do you think, Maggie?"
+75252,295,47,190000,BAJA MEN,Marge's Car,YUCK YUCK YUCK YUCK YUCK...
+75253,295,48,191000,Marge Simpson,Marge's Car,"Ooo, look. There's your father."
+75255,295,50,200000,Marge Simpson,Construction Site,"Well, I've read enough articles about flirting to know it when I see it."
+75256,295,51,212000,Homer Simpson,Construction Site,... And that's how my beautiful wife brought our son Bart into the world.
+75257,295,52,216000,LINDSAY/COOKIE,Construction Site,Awww. / Touching.
+75258,295,53,218000,President Bush,Construction Site,Knucklehead.
+75259,295,54,219000,Bill Clinton,Construction Site,A little help!
+75260,295,55,220000,President Bush,Construction Site,I'll give you a little help.
+75261,295,56,222000,Bill Clinton,Construction Site,Owowowowowowow!
+75263,295,58,229000,Marge Simpson,Simpson Home,"Ah, Homie, are you as attracted to me as you were when we met?"
+75264,295,59,233000,Homer Simpson,Simpson Home,"Sure, why not?"
+75265,295,60,235000,Marge Simpson,Simpson Home,Sometimes I worry you might think about other women.
+75266,295,61,238000,Homer Simpson,Simpson Home,"Hey, why would I want Purina when I've got Fancy Feast right here?"
+75267,295,62,243000,Marge Simpson,Simpson Home,That doesn't sound very convincing.
+75268,295,63,245000,Homer Simpson,Simpson Home,"Aw, it sounds like all you're looking for is a little reassurance. Well..."
+75269,295,64,250000,Milhouse Van Houten,Simpson Home,"Bart, remember when I was crying at recess? Well, I think I'm finally ready to tell you why."
+75270,295,65,265000,Bart Simpson,Simpson Home,Let's see what's on TV.
+75271,295,66,268000,Television,Simpson Home,"I stick my neck out for no one, Frankenstein, no one."
+75272,295,67,275000,Bart Simpson,Simpson Home,"Oh cool, the old ""Batman"" show."
+75273,295,68,279000,Batman,Simpson Home,"Struggling... in vain. Gather your wits, old chum. We seem to have fallen prey to that painted Pagliacci of perfidy."
+75274,295,69,288000,Robin,Simpson Home,You mean... Clownface?
+75275,295,70,290000,Batman,Simpson Home,None other.
+75276,295,71,294000,Clownface,Simpson Home,"Well, if it isn't Bat-mensch and the Goy Wonder."
+75277,295,72,300000,Milhouse Van Houten,Simpson Home,Sweet Valley High! Krusty played a Batman villain?
+75278,295,73,304000,Bart Simpson,Simpson Home,"Well, sure. He was also Uncle Velderschmoink on ""Bewitched."""
+75279,295,74,308000,Batman,Simpson Home,"Clownface, what in the name of Huntley and Brinkley do you plan to do to us?"
+75280,295,75,313000,Clownface,Simpson Home,I'm just gonna take you for a spin!
+75281,295,76,317000,Clownface,Simpson Home,Hoo! Hah! Hee! Show our guests to the twirly gates.
+75282,295,77,330000,Robin,Simpson Home,"Holy g-force, Batman! The blood's rushing to my head!"
+75283,295,78,333000,Batman,Simpson Home,"That's right, my panicky chum. In a few moments, you and I will literally blush ourselves to death."
+75284,295,79,341000,Clownface,Simpson Home,"My, this is taking a long time."
+75285,295,80,343000,Bart Simpson,Simpson Home,Cool! We should try that at school!
+75286,295,81,346000,Milhouse Van Houten,Simpson Home,"Hey yeah, you can try it on me. Batman got out of it okay."
+75287,295,82,350000,Chief O'Hara,Simpson Home,"Faith and begorra, Batman. How did you ever escape?"
+75288,295,83,354000,Batman,Simpson Home,Fortunately I always carry my carousel reversal spray.
+75289,295,84,359000,Clownface,Simpson Home,What don't you have in that belt?
+75290,295,85,361000,Batman,Simpson Home,Patience -- for harlequinned hoodlums like yourself.
+75291,295,86,365000,Chief O'Hara,Simpson Home,"Truer words were never spoken, Crusader."
+75293,295,88,370000,Marge Simpson,Park,"Manjula, remember when Apu cheated on you?"
+75294,295,89,373000,Manjula Nahasapeemapetilon,Park,"Yes, thank you."
+75295,295,90,374000,Marge Simpson,Park,I'm worried Homer might do the same thing. What would make a husband lose interest like that?
+75296,295,91,380000,Manjula Nahasapeemapetilon,Park,What I do now I do as your dearest friend.
+75297,295,92,383000,Manjula Nahasapeemapetilon,Park,Look at this flab! Look at it!
+75298,295,93,385000,Marge Simpson,Park,"Oh my God, is that me?!"
+75299,295,94,387000,Manjula Nahasapeemapetilon,Park,"Most assuredly, yes."
+75300,295,95,389000,Marge Simpson,Park,"Faced with a problem like this, I wonder, what would Oprah do?"
+75303,295,98,396000,Comic Book Guy,PLASTIC SURGERY WAITING ROOM,"Yes, I need to fit into this in time for a funeral. Thank you."
+75304,295,99,399000,Marge Simpson,PLASTIC SURGERY WAITING ROOM,"Now, I need some liposuction -- just enough to make me attractive to this man."
+75305,295,100,405000,Receptionist,PLASTIC SURGERY WAITING ROOM,One ten-minute suck 'n' tuck.
+75307,295,102,411000,Marge Simpson,Operating Room,"Doctor, before we begin, I have a couple questions."
+75308,295,103,415000,Dr. Velimirovic,Operating Room,Time is money. Ask the mask.
+75309,295,104,417000,Marge Simpson,Operating Room,What if I just do aerobics and ...
+75311,295,106,417000,Marge Simpson,PLASTIC SURGERY CENTER,"That's funny. Hm, I don't feel sucked out."
+75312,295,107,429000,Mayor Joe Quimby,PLASTIC SURGERY CENTER,"Doctor, my assistant is as flat as ever. Where are the new knockers the taxpayers paid for?"
+75313,295,108,434000,Dr. Velimirovic,PLASTIC SURGERY CENTER,Hm... You're right. That's like Flatsville. Then where did I put those implants?
+75315,295,110,441000,Marge Simpson,PLASTIC SURGERY CENTER,What on earth have you done? My McGuppies became bazongas!
+75316,295,111,445000,Dr. Velimirovic,PLASTIC SURGERY CENTER,"Great Ceaucescu's ghost! Are those real?! Oh, oh, right."
+75319,295,114,452000,Marge Simpson,Dr. Velimirovic's Office,"Accidentally giving me breast implants is not a ""simple misunderstanding."" My surgery was botched!"
+75320,295,115,459000,Dr. Velimirovic,Dr. Velimirovic's Office,"""Botched,"" what is that, the word of the day?"
+75321,295,116,462000,Marge Simpson,Dr. Velimirovic's Office,You had no right to make my bosom this ample!
+75322,295,117,466000,Dr. Velimirovic,Dr. Velimirovic's Office,"Look, just come back in forty-eight hours, I can remove the implants."
+75323,295,118,469000,Marge Simpson,Dr. Velimirovic's Office,Oh I'll come back all right. And I'll bring my husband to do a little malpractice on you.
+75324,295,119,474000,Dr. Velimirovic,Dr. Velimirovic's Office,"Yes, your husband. I'm sure he's going to be furious."
+75327,295,122,481000,Milhouse Van Houten,Springfield Elementary School,"I'm a little worried about this spinning, Bart."
+75329,295,123,484000,Bart Simpson,Springfield Elementary School,"Milhouse, if you're uncomfortable with this in any way... Do it, Otto! Do it! Do it! Do it!"
+75331,295,125,488000,Otto Mann,School Bus,"You're the boss, kid."
+75332,295,126,496000,Milhouse Van Houten,School Bus,My change purse!
+75333,295,127,502000,Ralph Wiggum,School Bus,"Hi, Milhouse."
+75335,295,129,506000,Gary Chalmers,Springfield Elementary School,"Skinner, I was a little wary of bringing these veterans of Iwo Jima to tour your school, but I see my fears were unfounded."
+75336,295,130,515000,Seymour Skinner,Springfield Elementary School,"Thank you, sir. And what more fitting finale than to gaze reverently at Old Glory."
+75338,295,132,524000,Head Veteran,Springfield Elementary School,"Come on boys, you know the drill!"
+75339,295,133,539000,Head Veteran,Springfield Elementary School,My God! This youngster befouled the flag!
+75340,295,134,542000,Seymour Skinner,Springfield Elementary School,"Wait, this just doesn't add up. Milhouse has never been anything but a comic foil."
+75341,295,135,547000,Bart Simpson,Springfield Elementary School,"Hey, what's going on here, something crazy?"
+75342,295,136,549000,Seymour Skinner,Springfield Elementary School,"There's your queen bee! Explain yourself, Simpson."
+75343,295,137,552000,Bart Simpson,Springfield Elementary School,"Uh, I saw Krusty do it on TV!"
+75344,295,138,554000,Seymour Skinner,Springfield Elementary School,Then Krusty will feel my wrath! The spritz has hit the fan.
+75345,295,139,558000,Milhouse Van Houten,Springfield Elementary School,"You won't hurt Krusty, will you? He's all we got."
+75346,295,140,561000,Head Veteran,Springfield Elementary School,"Shut your puke-hole, punk."
+75347,295,141,563000,Milhouse Van Houten,Springfield Elementary School,"Sir, yes sir!"
+75352,295,146,578000,Marge Simpson,Simpson Home,"Oh, sweetie."
+75353,295,147,588000,Marge Simpson,Simpson Home,/ Oh.
+75354,295,148,588000,Marge Simpson,Simpson Home,"Don't worry, Maggie, I'll have these silly things out in just two days. Till then I'll just try to hide them from the family."
+75355,295,149,597000,Kent Brockman,Simpson Home,...making it the latest Segway Scooter accident to claim over one thousand lives.
+75356,295,150,602000,Marge Simpson,Simpson Home,Not feeling well. Going to bed. Dinner and breakfast are on the table.
+75357,295,151,608000,Homer Simpson,Simpson Home,Did you label the meals so I can tell which is which?
+75358,295,152,610000,Marge Simpson,Simpson Home,Yes!
+75359,295,153,612000,Kent Brockman,Simpson Home,"Locally, two schoolchildren offended veterans, educators and flag hags, while imitating a stunt they learned watching TV's Krusty the Clown."
+75360,295,155,620000,Kent Brockman,Simpson Home,"Besieged by angry protestors, Krusty responded as follows:"
+75362,295,157,620000,Krusty the Clown,Krustylu Studios,Would you people get a life?
+75363,295,158,627000,Seymour Skinner,Krustylu Studios,Not an option!
+75364,295,159,628000,Helen Lovejoy,Krustylu Studios,Stop corrupting our children!
+75365,295,160,630000,Krusty the Clown,Krustylu Studios,No.
+75367,295,162,631000,Lisa Simpson,Simpson Living Room,"Bart, this is all your fault."
+75368,295,163,633000,Bart Simpson,Simpson Living Room,Don't worry. Krusty always lands on his feet.
+75369,295,164,637000,Krusty the Clown,Simpson Living Room,"Help, I can't get out!"
+75371,295,166,644000,Homer Simpson,Simpson Home,"Well, someone's tucked in to an insane degree. Goodnight!"
+75372,295,167,648000,Homer Simpson,Simpson Home,"Hey, gimme some of those blankets."
+75374,295,169,651000,Homer Simpson,Simpson Home,"What's this? It's enormous! Oh my God, there's another one!"
+75375,295,170,657000,Marge Simpson,Simpson Home,"Homer, let me explain something--"
+75376,295,171,658000,Homer Simpson,Simpson Home,Explain later!
+75377,295,172,659000,Marge Simpson,Simpson Home,"Homie! Oooo, Homie... Hey, what happened?"
+75378,295,173,665000,Homer Simpson,Simpson Home,I fell off. Hee hee hee.
+75380,295,175,671000,Marge Simpson,Simpson Home,"Now, don't get too used to these. That awful doctor said he'd take them out in a couple of days."
+75381,295,176,676000,Homer Simpson,Simpson Home,"Yeah, he truly is a monster. Hey, let's go out to dinner tomorrow. Just you, me, the kids and the twins. Whadaya say?"
+75382,295,177,686000,Marge Simpson,Simpson Home,"They do make my neck look thinner... Oh, all right, let's do it."
+75383,295,178,692000,Bart Simpson,Simpson Home,"Mom, Lisa pushed me in the laundry basket."
+75384,295,179,695000,Lisa Simpson,Simpson Home,Whatever Bart is saying is a lie. Mom! What happened? Your endowment's bigger than Harvard's.
+75385,295,180,702000,Homer Simpson,Simpson Home,"Well, that cinches it. Lisa gets the prize for the best off-the-cuff response."
+75386,295,181,706000,Lisa Simpson,Simpson Home,"Actually, I saw them earlier and I was working on it in the hall."
+75388,295,183,711000,Luigi,Luigi's Trattoria,"I'm-a sorry, we are totally full."
+75389,295,184,715000,Luigi,Luigi's Trattoria,Boy-oh-boy-ar-dee! I bazoom you want a table. Right-a this way.
+75391,295,186,725000,Bart Simpson,Luigi's,"Wow Mom, your guns got us a great table -- right by the lobster tank."
+75393,295,187,731000,Luigi,Luigi's,"For you, pretty lady, I make-a the fresh pasta. Instead of the crap from a can I give-a to everybody else."
+75394,295,188,738000,Agnes Skinner,Luigi's,It's as cold as my love for you.
+75395,295,189,740000,Luigi,Luigi's,"And Marge, if-a you mouth get tired, Angelo here will chew for you."
+75396,295,190,745000,Angelo,Luigi's,I like-a to chew.
+75397,295,191,748000,Marge Simpson,Luigi's,"Thank you, fellas."
+75398,295,192,749000,Lisa Simpson,Luigi's,"Mom, doesn't it bother you that they're giving you all this attention just because of those?"
+75399,295,193,754000,Homer Simpson,Luigi's,"That's not true, Lisa, there are a lot of complicated issues here, that can only be explained through song."
+75400,295,194,764000,Homer Simpson,Luigi's,"YOU TOOK A TWENTY-KARAT DIAMOND, AND MADE IT GLEAM / LIKE A BIG SPAGHETTI DINNER, SMOTHERED IN WHIPPED CREAM."
+75401,295,195,778000,Comic Book Guy,Luigi's,YOU'RE LIKE X-MEN NUMBER THREE / IN A MYLAR BAG.
+75402,295,196,783000,Snake Jailbird,Luigi's,YOU'RE A BRAND NEW MUSCLE CAR / AND ALL THE WHEELS ARE MAG.
+75403,295,197,787000,C. Montgomery Burns,Luigi's,YOU MAKE ME FEEL AS YOUNG / AS THE BLOOD I GET FROM SHEEP.
+75404,295,198,790000,Captain Horatio McCallister,Luigi's,"YOU'RE LIKE JACQUELINE BISSET / IN ME FAVORITE FILM, THE DEEP!"
+75405,295,199,796000,Moe Szyslak,Luigi's,YOU'RE SEXY AND EXOTIC / LIKE A HOOKER FROM BELIZE.
+75406,295,200,800000,Dr. Julius Hibbert,Luigi's,OR A PATIENT WITH INSURANCE / WHO'S CRAWLING WITH DISEASE.
+75407,295,201,804000,All Men,Luigi's,YOU'RE A SUNDAE UNDERNEATH TWO GREAT BIG CHERRIES...
+75408,295,202,808000,Marge Simpson,Luigi's,"KEEP IN MIND, THEY'RE ONLY TEMPORARIES."
+75409,295,203,811000,All Men,Luigi's,"STILL WE'D LIKE TO SAY THAT WE ARE VERY, VERY / GLAD TO SEE YOU..."
+75410,295,204,817000,Mayor Joe Quimby,Luigi's,AND I DECREE YOU...
+75411,295,205,818000,Mayor Joe Quimby,Luigi's,THE HOTTEST THING TO HIT THIS CITY SINCE THE FIRE THAT KILLED ELEVEN...
+75413,295,207,824000,Mayor Joe Quimby,Luigi's,...DANGEROUS CRIMINALS.
+75414,295,208,825000,All,Luigi's,HOORAY!
+75415,295,209,829000,Homer Simpson,Luigi's,AND THEY'RE ALL MINE...
+75416,295,210,837000,Marge Simpson,Luigi's,"Homer, how come you never sang a song like that to me before?"
+75417,295,211,841000,Homer Simpson,Luigi's,Uh... I was gettin' around to it.
+75418,295,212,845000,Kiki,Luigi's,"Kiki Highsmith, Highsmith Modeling. Honey, I like your look."
+75419,295,213,849000,Homer Simpson,Luigi's,Forget it Kiki. You're not putting your brain into her body.
+75420,295,214,854000,Kiki,Luigi's,"That's not why I'm here. I can offer your wife a lot of modeling work. Trade shows to start, then who knows?"
+75421,295,215,860000,Homer Simpson,Luigi's,No dice. Take your fun and adventure outside.
+75392,295,216,863000,Marge Simpson,Luigi's,"Now wait, Homer."
+75422,295,217,864000,Homer Simpson,Luigi's,Wait for what? Confirmation of my attitude?
+75423,295,218,866000,Marge Simpson,Luigi's,"Homie, I could use a little more excitement in my life."
+75425,295,220,869000,Marge Simpson,Luigi's,Maybe I'll just keep these.
+75426,295,221,872000,Bart Simpson,Luigi's,"That's great, Mom. But don't forget..."
+75427,295,222,874000,Bart Simpson,Luigi's,I GOT KRUSTY IN HOT WATER / NOW I'VE GOT TO HELP HIM OUT / DA DA DA...
+75428,295,223,880000,Homer Simpson,Luigi's,"Shut up, boy."
+75429,295,224,881000,Bart Simpson,Luigi's,"Oh, I don't get a song? Mom got a song."
+75430,295,225,884000,Homer Simpson,Luigi's,"With the economy the way it is, you're lucky you get soup."
+75434,295,229,894000,Kiki,CIVIC CENTER,"And now, one of OvMittCon's Faces to Watch 2003, rookie spokesmodel Marge Simpson!"
+148661,295,230,912000,Marge's Thoughts,CIVIC CENTER,This sure beats slaving over a hot stove!
+75436,295,232,920000,Homer Simpson,Moe's Tavern,"Gentlemen, say hello to Springfield's newest supermodel!"
+75437,295,233,924000,Lenny Leonard,Moe's Tavern,"You're a lucky man, Homer."
+75438,295,234,925000,Carl Carlson,Moe's Tavern,"Yeah, this is the longest I've ever gone without lookin' at Lenny."
+75439,295,235,929000,Marge Simpson,Moe's Tavern,"Don't make a fuss over me, boys. Just pour me a beer in a clean glass."
+75440,295,236,934000,Moe Szyslak,Moe's Tavern,"Whoa, whoa, whoa. You said no fuss."
+75441,295,237,934000,Moe Szyslak,Moe's Tavern,"Uh, I wouldn't eat them peanuts. They're uh, they're spit-backs."
+75443,295,239,942000,Sideshow Mel,Simpson Home,"So, Krusty. Are you ready to shoot this apple off my head?"
+75444,295,240,945000,Krusty the Clown,Simpson Home,"Well, if by ""shoot"" you mean ""teach"" and by ""my head"" you mean ""safety."" Then, yes."
+75445,295,241,951000,Bart Simpson,Simpson Home,"Oh man, now they won't let Krusty do anything fun."
+75446,295,242,954000,Milhouse Van Houten,Simpson Home,Teletubbies get away with more than this.
+75447,295,243,957000,Sideshow Mel,Simpson Home,"I've learned my lesson, Krusty. Never again shall I look directly at an eclipse."
+75448,295,244,962000,Nelson Muntz,Simpson Home,This sucks! Bring out Mr. Teeny!
+75449,295,245,966000,Krusty the Clown,Simpson Home,I can't. They made me release him into the wild.
+75453,295,249,976000,Bart Simpson,Simpson Home,"Hey, we got Krusty into this and we'll get him out. We just have to make him a hero again."
+75455,295,250,981000,Milhouse Van Houten,Simpson Home,"Maybe if we cut his foot off, people will feel sorry for him."
+75456,295,251,984000,Bart Simpson,Simpson Home,"Hey, it didn't help your dad get your mom back."
+75457,295,252,988000,Milhouse Van Houten,Simpson Home,Hi Mrs. Simpson. My mom said I'm not to look at you.
+75458,295,253,992000,Bart Simpson,Simpson Home,"What's with the belt, Mom?"
+75459,295,254,994000,Marge Simpson,Simpson Home,"It's for my back spasms. If guys didn't keep pinching my tush, I'd never stand up straight."
+75460,295,255,999000,Bart Simpson,Simpson Home,I thought you liked all the attention you were getting.
+75461,295,256,1002000,Marge Simpson,Simpson Home,I'm afraid all that attention is from the wrong kind of people.
+75466,295,261,1016000,Bart Simpson,FRIARS CLUB,"Hey, Krusty."
+75467,295,262,1017000,Krusty the Clown,FRIARS CLUB,How'd you get in here?
+75468,295,263,1018000,Bart Simpson,FRIARS CLUB,The doorman died.
+75469,295,264,1020000,Krusty the Clown,FRIARS CLUB,"Oh no, he was my agent!"
+75470,295,265,1022000,Bart Simpson,FRIARS CLUB,"Listen, I have a plan that will make the world fall in love with Krusty the Clown again."
+75471,295,266,1026000,Krusty the Clown,FRIARS CLUB,It's too late. I've given up.
+75472,295,267,1028000,Bart Simpson,FRIARS CLUB,The Krusty I know didn't get where he is by givin' up.
+75473,295,268,1031000,Krusty the Clown,FRIARS CLUB,"No, I got where I am by naming names in the fifties. Okay, what's your plan?"
+75474,295,269,1035000,Bart Simpson,FRIARS CLUB,It's simple. We just have to cause a riot at the Springfield Shoe Expo.
+75475,295,270,1039000,Krusty the Clown,FRIARS CLUB,"I like, I like."
+75477,295,272,1043000,Moe Szyslak,Springfield Civic Center,This is my Woodstock.
+75479,295,274,1057000,Drederick Tatum,Springfield Civic Center,My forthrightness is my undoing.
+75480,295,275,1061000,Marge Simpson,Springfield Civic Center,"Kiki, I'm tired of trade show modeling. My back really hurts."
+75481,295,276,1066000,Kiki,Springfield Civic Center,"You seem unhappy, so I'm going to inject this smile solution into your jaw."
+75482,295,277,1072000,Marge Simpson,Springfield Civic Center,Did you just drug me?
+75483,295,278,1075000,Kiki,Springfield Civic Center,Technically it's a toxin.
+75485,295,280,1079000,Bart Simpson,Springfield Civic Center,"Okay, here's the drill. A rogue elephant -- played by my old friend Stampy -- is about to crush sweet young Milhouse. Then you run up and save the day, by saying Stampy's safety word, ""MOGUMBO""."
+75487,295,281,1085000,Krusty the Clown,Springfield Civic Center,"He's as big as Brando, but he takes direction."
+75489,295,283,1098000,Marge Simpson,CIVIC CENTER,Eighty-nine percent of Americans would rather have a shoehorn than a computer.
+75490,295,284,1102000,Shoe Buyer #1,CIVIC CENTER,I'd like to eighty-nine you!
+75491,295,285,1105000,Marge Simpson,CIVIC CENTER,I've heard about you vendors!
+75492,295,286,1107000,Shoe Buyer #2,CIVIC CENTER,"Hey lady, I like the way your body looks."
+75493,295,287,1110000,Lisa Simpson,CIVIC CENTER,Stop objectifying my mom!
+75494,295,288,1112000,Shoe Buyer #2,CIVIC CENTER,"I will in a second. Woo! Hey baby, you're an object! Ah-ha-ha!"
+75495,295,289,1117000,Milhouse Van Houten,CIVIC CENTER,Help! Help!
+75496,295,290,1120000,Bart Simpson,CIVIC CENTER,Who will save this promising young honor student?
+75497,295,291,1123000,Krusty the Clown,CIVIC CENTER,"Hey, hey, hey, I'll save the day!"
+75498,295,292,1127000,Carl Carlson,CIVIC CENTER,"Hey, it's that clown who hates children!"
+75499,295,293,1129000,Lenny Leonard,CIVIC CENTER,And flags!
+75500,295,294,1130000,The Rich Texan,CIVIC CENTER,I say we judge him by what he does next! Yee haw!
+75501,295,295,1134000,Krusty the Clown,CIVIC CENTER,"Hey elephant, I got one word for you: Columbo! No, that's not it. Modesto! Daktari?! Nintendo??!"
+75503,295,297,1154000,Krusty the Clown,CIVIC CENTER,"If he bites, I'm sunk. If he swallows, I'm good."
+75504,295,298,1159000,Lisa Simpson,CIVIC CENTER,"Dad, look!"
+75505,295,299,1161000,Homer Simpson,CIVIC CENTER,I'm on it.
+75506,295,300,1162000,Lisa Simpson,CIVIC CENTER,Be careful a-- Uh-oh.
+75507,295,301,1166000,Chief Wiggum,CIVIC CENTER,"All right, aim for the big hose coming out of his face."
+75508,295,302,1170000,Lou,CIVIC CENTER,"Yeah, you mean the trunk?"
+75509,295,303,1171000,Chief Wiggum,CIVIC CENTER,"Easy there, college boy."
+75510,295,304,1173000,Marge Simpson,CIVIC CENTER,"Wait, wait! My son, my husband and the Van Houten boy are in there!"
+75511,295,305,1178000,Chief Wiggum,CIVIC CENTER,"Sorry, ma'am. We don't negotiate with elephants. Ready..."
+75512,295,306,1183000,Lisa Simpson,CIVIC CENTER,"Mom, do something!"
+75513,295,307,1183000,Chief Wiggum,CIVIC CENTER,...aim...
+75514,295,308,1185000,Marge Simpson,CIVIC CENTER,"I've gotta stop them from shooting... I, I, don't... Lisa, don't hate me for this..."
+75515,295,309,1190000,Chief Wiggum,CIVIC CENTER,Continue aiming... Still aiming...
+75516,295,310,1194000,Marge Simpson,CIVIC CENTER,Hey cops! Check out this all-points bulletin!
+75518,295,312,1203000,Krusty the Clown,CIVIC CENTER,"Whoa, look at those mogumbos!"
+75520,295,314,1207000,Krusty the Clown,CIVIC CENTER,"Hey, that's it. Mogumbo!"
+75522,295,315,1213000,Homer Simpson,CIVIC CENTER,"I came out the elephant's mouth, right? 'Cause I already showered once today."
+75524,295,317,1217000,Lisa Simpson,PLASTIC SURGERY CLINIC,"Well, you saved Krusty's reputation."
+75525,295,318,1228000,Bart Simpson,PLASTIC SURGERY CLINIC,And you learned that a woman doesn't need a forty-eight inch chest to be beautiful.
+75526,295,319,1231000,Lisa Simpson,PLASTIC SURGERY CLINIC,That's how I felt all along.
+75527,295,320,1233000,Bart Simpson,PLASTIC SURGERY CLINIC,Lisa learned a lesson! Lisa learned a lesson!
+75528,295,321,1236000,Homer Simpson,PLASTIC SURGERY CLINIC,"Kids, I'd like to reintroduce you to classic Marge."
+75529,295,322,1241000,Marge Simpson,PLASTIC SURGERY CLINIC,"I finally feel like me again. You're not disappointed, are you?"
+75530,295,323,1246000,Homer Simpson,PLASTIC SURGERY CLINIC,"Not at all, sweetie. At least one of us should be able to put their arms around the other one."
+75532,295,325,1252000,Marge Simpson,PLASTIC SURGERY CLINIC,"Anyway, you're the only man I want ogling me."
+75533,295,326,1256000,Homer Simpson,PLASTIC SURGERY CLINIC,"Oh, we're gonna do a little more than just ogling."
+75534,295,327,1259000,Marge Simpson,PLASTIC SURGERY CLINIC,"Oh, Homie."
+75535,295,328,1261000,Homer Simpson,PLASTIC SURGERY CLINIC,Let's go get fried chicken!
+75536,295,329,1266000,BAJA MEN,PLASTIC SURGERY CLINIC,WHO LET HER JUGS OUT...?
+75537,295,330,1268000,Homer Simpson,PLASTIC SURGERY CLINIC,D'OH D'OH D'OH D'OH D'OH...
+75538,295,331,1277000,Baha Men,PLASTIC SURGERY CLINIC,MARGE LET HER JUGS OUT...
+75539,295,332,1279000,Homer Simpson,PLASTIC SURGERY CLINIC,D'OH D'OH D'OH D'OH D'OH...
+75540,295,333,1300000,BAJA MEN,PLASTIC SURGERY CLINIC,WHO LET HER JUGS OUT...?
+75541,295,334,1301000,Homer Simpson,PLASTIC SURGERY CLINIC,D'OH D'OH D'OH D'OH D'OH...

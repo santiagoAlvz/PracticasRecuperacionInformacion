@@ -1,0 +1,178 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+13130,77,1,86000,Bart Simpson,Simpson Home,"Oh no, I can't see! I'm blind! Blind!"
+13131,77,2,89000,Homer Simpson,Simpson Home,Haw haw. April Fool's.
+13133,77,4,99000,Homer Simpson,Simpson Home,"Haw, haw. April Fool's! I've been keepin' that carton of milk next to the furnace for six weeks! Sucker!"
+13134,77,5,106000,Bart Simpson,Simpson Home,"You're goin' down, Homer! I'm gonna fool you!"
+13135,77,6,109000,Homer Simpson,Simpson Home,You talk better than you fool.
+13136,77,7,111000,Bart Simpson,Simpson Home,I'll fool you up real nice!
+13137,77,8,113000,Homer Simpson,Simpson Home,You couldn't fool your mother on the foolingest day of your life if you had an electrified fooling machine.
+13138,77,9,119000,Marge Simpson,Simpson Home,P.U.
+13139,77,10,123000,Homer Simpson,Simpson Home,"Ahhh, what noble visionary thought up April Fool's Day?"
+13140,77,11,128000,Lisa Simpson,Simpson Home,"Like Halloween and Christmas, April Fool's Day traces its origins to pagan ritual."
+13141,77,12,132000,Homer Simpson,Simpson Home,God bless those pagans.
+13142,77,13,134000,Lisa Simpson,Simpson Home,April first used to be the Pagan New Year.
+13144,77,15,138000,Pagan Simpsons,Simpson Hut,Blood for Baal! Blood for Baal!
+13145,77,16,144000,Lisa Simpson,Simpson Hut,The Christians changed their calendar and ridiculed those who didn't.
+13146,77,17,149000,Homer Simpson,Simpson Hut,Happy New Year!
+13147,77,18,150000,Ned Flanders,Simpson Hut,"Hi-ho pagans! New Years was three months ago, but here's a present anyhoo!"
+13148,77,19,155000,Todd Flanders,Simpson Hut,It's ram's blood for your Godless ceremony!
+13149,77,20,161000,Ned Flanders,Simpson Hut,April Fool's!
+13152,77,23,166000,Lisa Simpson,Simpson Hut,Now who's laughing? Now who's laughing?
+13154,77,25,170000,Homer Simpson,Simpson Home,And that's the story of April Fool's Day.
+13155,77,26,173000,Lisa Simpson,Simpson Home,Dad! I was telling the story.
+13156,77,27,176000,Homer Simpson,Simpson Home,"Oh, right."
+13158,77,29,181000,Captain Horatio McCallister,The Frying Dutchman,Thar she blows! The catch of the day!
+13159,77,30,186000,Waiters/cooks,The Frying Dutchman,"Arrrr, harrrr, harrrrrr!"
+13160,77,31,189000,Captain Horatio McCallister,The Frying Dutchman,"Why, ye mutinous dogs. From this day, I be requirin' hair nets!"
+13161,77,32,194000,Waiters/cooks,The Frying Dutchman,Arrrr... arrrrrr.... arrrrrr....
+13163,77,34,198000,Bart Simpson,Simpson Home,I've got to fool him before the day is out -- but how? He must have a weakness.
+13164,77,35,205000,Homer Simpson,Simpson Home,"Ah, beer. My one weakness. My Achilles heel, if you will."
+13165,77,36,210000,Bart Simpson,Simpson Home,Beer! Beer is the cheese. But how to use it...
+13166,77,37,215000,Homer Simpson,Simpson Home,"Whew! It's a good thing that beer wasn't shaken up any more, or I'd have looked quite the fool. An April Fool, as it were."
+13169,77,40,229000,Teenage Clerk,Hardware Store,Hey kid. That's for customers only.
+13170,77,41,232000,Bart Simpson,Hardware Store,"Uh, did you know there's a guy outside handing out free Stridex pads?"
+13171,77,42,236000,Teenage Clerk,Hardware Store,"Wow, I'm in pizza-face paradise."
+13172,77,43,238000,Bart Simpson,Hardware Store,Moron.
+13174,77,45,254000,Bumblebee Man,Simpson Home,"Ay, no es bueno."
+13175,77,46,259000,Homer Simpson,Simpson Home,So thirsty... Eh. What're you gonna do?
+13176,77,47,276000,Announcer,Simpson Home,"The following is a public service announcement. Excess of alcohol consumption can cause liver damage, and cancer of the rectum."
+13177,77,48,284000,Homer Simpson,Simpson Home,Mmmm... beer.
+13178,77,49,298000,Bart Simpson,Simpson Home,April F...
+13180,77,51,303000,Lou,Street,That sounded like an explosion at the old Simpson place.
+13181,77,52,306000,Chief Wiggum,Street,Forget it. That's two blocks away.
+13182,77,53,308000,Lou,Street,It looks like there's beer coming out of the chimney.
+13183,77,54,311000,Chief Wiggum,Street,I'm proceeding on foot. Call in a Code eight.
+13184,77,55,313000,Lou,Street,We need pretzels! Repeat! Pretzels!
+13186,77,57,327000,Dr. Julius Hibbert,Springfield General Hospital,"Mrs. Simpson, I'm afraid your husband is dead."
+13188,77,59,333000,Dr. Julius Hibbert,Springfield General Hospital,April Fool's! He's very much alive... although I'm afraid he may never walk again.
+13191,77,62,339000,Homer Simpson,Hospital,"ROW, ROW, ROW YOUR BOAT, GENTLY DOWN THE STREAM..."
+13192,77,63,342000,Marge Simpson,Hospital,Homie!
+13193,77,64,343000,Homer Simpson,Hospital,Marge!
+13195,77,65,346000,Specialist,Hospital,"Homer has many, many horrible problems. These shadows are brain lesions resulting from numerous blows to the head... And his brain waves are disturbingly erratic."
+13197,77,67,396000,Dr. Marvin Monroe,DR. MONROE'S LABORATORY,"...You are wired in to the rest of your family. You have the ability to shock them, and they have the ability to shock--"
+13198,77,68,399000,Homer Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+13199,77,69,404000,Bart Simpson,DR. MONROE'S LABORATORY,Just testing.
+13200,77,70,405000,Lisa Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+13201,77,71,408000,Marge Simpson,DR. MONROE'S LABORATORY,"Bart, how could you shock your little sister?"
+13202,77,72,410000,Bart Simpson,DR. MONROE'S LABORATORY,My finger slipped.
+13203,77,73,411000,Bart Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+13204,77,74,412000,Lisa Simpson,DR. MONROE'S LABORATORY,So did mine.
+13205,77,75,415000,Marge Simpson,DR. MONROE'S LABORATORY,Bart! Lisa! Stop that.
+13206,77,76,417000,Lisa Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+13207,77,77,417000,Homer Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+13208,77,78,419000,Lisa Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+13209,77,79,420000,Marge Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+13210,77,80,420000,Bart Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+13211,77,81,420000,Dr. Marvin Monroe,DR. MONROE'S LABORATORY,"No, no. No! No, wait a minute! Wait! Wait! Folks! Folks, if I could... Not yet! This is not the way to get healthy!"
+13214,77,84,435000,Specialist,Street,"Mrs. Simpson, can you think of anything to account for all this?"
+13215,77,85,440000,Marge Simpson,Street,I have no idea. Unless it was that time he kept falling down the cliff.
+13217,77,87,445000,Bart Simpson,Springfield Gorge,"I won't jump anymore, I promise."
+13218,77,88,447000,Homer Simpson,Springfield Gorge,"Ohhh, thank God. Thank God. Thank God."
+13219,77,89,450000,Bart Simpson,Springfield Gorge,"I love you, Dad."
+13220,77,90,451000,Homer Simpson,Springfield Gorge,"I love you too, son. You know, boy, I don't think I've ever felt as close to you as I do right --"
+13221,77,91,467000,Homer Simpson,Springfield Gorge,I'm going to make it! I'm going to make it! This is the greatest thrill of my life! I'm king of the world! Woo hoo! Woo hoo!! I--
+13222,77,92,516000,Specialist,Springfield Gorge,Hmm. That still wouldn't explain what I'm seeing here.
+13223,77,93,520000,Marge Simpson,Springfield Gorge,You look familiar. Have we met before?
+13226,77,96,528000,Vet,Animal Hospital,Clear! Ugh... Clear!
+13227,77,97,532000,Nurse,Animal Hospital,Doctor... he's gone.
+13228,77,98,534000,Vet,Animal Hospital,This is the part of the job I hate.
+13229,77,99,541000,Dr. Julius Hibbert,Animal Hospital,You're a veterinarian?
+13230,77,100,543000,Specialist,Animal Hospital,That's right. And for an extra twenty dollars I'll give Homer a tick bath and then spay him.
+13231,77,101,547000,Bart Simpson,Animal Hospital,"Here ya go, Doc."
+13232,77,102,548000,Marge Simpson,Animal Hospital,Bart!
+13233,77,103,549000,Bart Simpson,Animal Hospital,Shop around. You can't beat that price.
+13235,77,105,551000,Homer Simpson,Hospital,You guys must have been pretty worried about me.
+13236,77,106,554000,Lisa Simpson,Hospital,"Hey, we know you're tough, Dad. Remember that time you got lost in the forest?"
+13238,77,108,562000,Homer Simpson,SOMEWHERE IN WOODS,"This is a trap. It's going to catch us our dinner. Come on, boy."
+13239,77,109,565000,Homer Simpson,SOMEWHERE IN WOODS,Shhhh! Just watch.
+13240,77,110,570000,Homer Simpson,SOMEWHERE IN WOODS,"Oooh, ahh. Ha! Got him!"
+13242,77,112,581000,Homer Simpson,Forest,"Okay, okay. This time I'll just go into the bushes over there, make a lot of noise and flush out a rabbit. When he comes out, you step on him."
+13243,77,113,591000,Bart Simpson,Forest,"Right, Dad."
+13244,77,114,594000,Homer Simpson,Forest,Get 'em off me! Get 'em off me! Get 'em off me!
+13245,77,115,605000,Marge Simpson,Forest,It's true. You have good coping skills.
+13247,77,117,619000,Homer Simpson,Simpson Backyard,"The burgers are getting cold, guys. Holy moly."
+13248,77,118,628000,Bart Simpson,Simpson Backyard,And there's one Itchy and Scratchy cartoon I don't think we'll ever forget.
+13249,77,119,666000,Marge Simpson,Simpson Backyard,Why'd you bring that up?
+13250,77,120,668000,Bart Simpson,Simpson Backyard,It was an amusing episode... of our lives.
+13251,77,121,672000,Homer Simpson,Simpson Backyard,"Thanks for coming to visit me, Moe."
+13252,77,122,674000,Moe Szyslak,Simpson Backyard,I brought you a little present.
+13253,77,123,676000,Homer Simpson,Simpson Backyard,No! No! Beer bring pain!
+13254,77,124,679000,Barney Gumble,Simpson Backyard,I can't stand to see him like this!
+13255,77,125,700000,Moe Szyslak,Simpson Backyard,He really needs a girlfriend.
+13257,77,127,703000,Homer Simpson,Springfield General Hospital,"Oh, Marge, what if I wind up as some vegetable, watching TV on the couch? My important work will never be completed."
+13258,77,128,712000,Marge Simpson,Springfield General Hospital,"Society's loss, I suppose. But our marriage has been through hard times and we always pull through."
+13260,77,130,745000,Homer Simpson,Springfield Nuclear Power Plant,Marge!
+13262,77,131,746000,Homer Simpson,Springfield Nuclear Power Plant,"What a lovely surprise! You're here to see me, right?"
+13263,77,132,750000,Marge Simpson,Springfield Nuclear Power Plant,Of course.
+13264,77,133,760000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey! Way to go, Homer. Way to go."
+13265,77,134,764000,Another Worker,Springfield Nuclear Power Plant,"Hey, what'll I tell the boss?"
+13266,77,135,766000,Homer Simpson,Springfield Nuclear Power Plant,Tell him I'm going to the back seat of my car with the woman I love. And I won't be back for ten minutes.
+13268,77,137,783000,Intern,Springfield General Hospital,"You can do it, Homer. Stand up."
+13269,77,138,785000,Homer Simpson,Springfield General Hospital,I can't.
+13270,77,139,786000,Intern,Springfield General Hospital,He just won't budge. I've tried everything. Nothing can reach him.
+13271,77,140,796000,Homer Simpson,Springfield General Hospital,Mmm... chocolate.
+13273,77,142,838000,Homer Simpson,The Land of Chocolate,Wow. Chocolate -- half price!
+13274,77,143,858000,Homer Simpson,The Land of Chocolate,"Mmmm, chocolate."
+13277,77,146,863000,Homer Simpson,The Land of Chocolate,"Can't breathe... sweet chocolate... cutting off air... ...Mmm, nuts."
+13278,77,147,878000,Homer Simpson,The Land of Chocolate,"Oh, yeah."
+13280,77,149,885000,Grampa Simpson,Springfield General Hospital,Poor Homer. This world was never meant for one as beautiful as you.
+13281,77,150,893000,Grampa Simpson,Springfield General Hospital,Ahhh! Kill it! Kill it!
+13282,77,151,896000,Marge Simpson,Springfield General Hospital,"Grampa, please. He's in a coma."
+13283,77,152,898000,Grampa Simpson,Springfield General Hospital,"Coma? Why, I go in and out of comas all the... French toast, please."
+13284,77,153,906000,Lisa Simpson,Springfield General Hospital,Is a coma painful?
+13285,77,154,908000,Grampa Simpson,Springfield General Hospital,"Oh, heck, no! You relive long lost-summers, kiss girls from high school -- it's like one of those TV shows where they show a buncha clips from old episodes."
+13286,77,155,918000,Bart Simpson,Springfield General Hospital,"Yeah, well, anyway, I wonder what he's thinking now."
+13288,77,157,966000,C. Montgomery Burns,Homer's Car,This man is costing my health plan five thousand dollars a day. I demand that he die with dignity.
+13289,77,158,973000,Dr. Julius Hibbert,Homer's Car,"Now look, I'm the doctor here!"
+13290,77,159,975000,C. Montgomery Burns,Homer's Car,"Well, I demand a second opinion."
+13291,77,160,978000,Dr. Nick Riviera,Homer's Car,"Hi, everybody!"
+13292,77,161,979000,C. Montgomery Burns,Homer's Car,"Hi, Dr. Nick!"
+13293,77,162,979000,Homer Simpson,Homer's Car,Oof.
+13295,77,163,983000,Dr. Nick Riviera,Homer's Car,"Oh, dear. I see no signs of life. Just to be safe, we better pull the plug."
+13296,77,164,989000,C. Montgomery Burns,Homer's Car,Yoink.
+13297,77,165,990000,Marge Simpson,Homer's Car,"Mr. Burns, how can you be so cold- hearted?"
+13298,77,166,994000,C. Montgomery Burns,Homer's Car,"You have no idea, woman, what that man's put me through."
+13300,77,168,998000,Homer Simpson,Burns's Office,Uh... Mr. Burns... I need to borrow some money.
+13301,77,169,1002000,C. Montgomery Burns,Burns's Office,"Please, do go on..."
+13302,77,170,1004000,Homer Simpson,Burns's Office,I know you're a good man... and I have a dog that's very sick...
+13303,77,171,1009000,C. Montgomery Burns,Burns's Office,"Oh, please, continue..."
+13304,77,172,1011000,Homer Simpson,Burns's Office,I thought maybe you...
+13305,77,173,1013000,Homer Simpson,Burns's Office,"Oh. Well, thanks for your time."
+13306,77,174,1018000,Professor Jonathan Frink,Burns's Office,"I have an unorthodox solution: a ""fantastic voyage"", if you will. Three scientists... One a beautiful woman... will be shrunk to microscopic size. They will then rendezvous in Mr. Simpson's lower colon --"
+13307,77,175,1034000,Lisa Simpson,Burns's Office,Eww.
+13308,77,176,1035000,Professor Jonathan Frink,Burns's Office,"Well, we have had a little trouble finding volunteers..."
+13310,77,178,1040000,Lisa Simpson,Springfield General Hospital,"I wish I'd gotten to know you better, Dad. But there were times when we really connected."
+13312,77,180,1049000,Lisa Simpson,Lisa's Bedroom,"Hi, Dad. Want me to cut out this infernal racket?"
+13313,77,181,1052000,Homer Simpson,Lisa's Bedroom,No. Let me hear you play.
+13314,77,182,1053000,Lisa Simpson,Lisa's Bedroom,Why?
+13315,77,183,1054000,Homer Simpson,Lisa's Bedroom,"Does a father have to explain? Let's just share your gift, okay?"
+13316,77,184,1071000,Homer Simpson,Lisa's Bedroom,"Yeah, that's more like it! ""OH, I WANT TO BE IN THAT RUMBA / WHEN THE SAINTS GO OVER THERE.... OVER THERE..."
+13317,77,185,1088000,Homer Simpson,Lisa's Bedroom,"OVER THERE."""
+13318,77,186,1091000,Lisa Simpson,Lisa's Bedroom,"I wrote this for you, Dad."
+13321,77,189,1109000,Bart Simpson,Hospital,"Dad, I'm so sorry. I know I haven't been a perfect kid..."
+13323,77,191,1134000,Homer Simpson,Simpson Home,Why you little...
+13324,77,192,1148000,Homer Simpson,Simpson Home,What the...
+13327,77,195,1174000,Bart Simpson,Street,I know that I got you mad once in a while...
+13294,77,196,1193000,Bart Simpson,Street,And sometimes I got into trouble...
+13329,77,198,1201000,Lisa Simpson,Simpson Home,"Bart, you can't go on like this."
+13330,77,199,1203000,Bart Simpson,Simpson Home,I know.
+13331,77,200,1205000,Bart Simpson,Simpson Home,...but you always looked out for me.
+13332,77,201,1209000,Marge Simpson,Simpson Home,"Homer, it's really coming down. Could you check on the boys?"
+13333,77,202,1216000,Homer Simpson,Simpson Home,They're fine.
+13334,77,203,1218000,Bart Simpson,Simpson Home,"And no matter what happens, I'll never forget the advice you gave me."
+13336,77,205,1223000,Homer Simpson,Bart's Bedroom,"Now, come on. You're gonna learn how to shave."
+13338,77,207,1225000,Homer Simpson,Bathroom,"...and, finally, the little spot under your nose. Next, we take some toilet paper, tear off some teensy little squares, and stick one there, and there, and any place you're bleeding. There and there. Don't worry, the blood will hold it right on your face. Now, some aftershave."
+13339,77,208,1247000,Homer Simpson,Bathroom,Ah! Ooh! Arg! Son of a -- ! Ah! And that's how we shave.
+13340,77,209,1257000,Bart Simpson,Bathroom,"Dad, it's all my fault! I shook up that can of beer!"
+13341,77,210,1262000,Bart Simpson,Bathroom,It was just an April Fool's joke.
+13342,77,211,1278000,Homer Simpson,Bathroom,"Why, you little --"
+13343,77,212,1280000,Marge Simpson,Bathroom,Homie! You're all right!
+13344,77,213,1282000,Lisa Simpson,Bathroom,We're a family again!
+13346,77,215,1290000,Homer Simpson,Hospital,This calls for a celebration. We're all going to Hawaii!
+13348,77,217,1296000,Homer Simpson,Hospital,Gotcha! It's April Fool's for two more minutes!
+13349,77,218,1300000,Bart Simpson,Hospital,"Dad, it's May 16th."
+13350,77,219,1302000,Lisa Simpson,Hospital,You were in that coma for seven weeks.
+13351,77,220,1306000,Marge Simpson,Hospital,Uh-huh.
+13353,77,222,1314000,Marge Simpson,Hospital,You lost five percent of your brain.
+13354,77,223,1317000,Homer Simpson,Hospital,Me lose brain? Uh-oh.
+13355,77,224,1326000,Homer Simpson,Hospital,Why'd I laugh?

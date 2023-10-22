@@ -1,0 +1,242 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+27586,130,1,41000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Aw, all these new superheroes suck. None of them can hold a candle to Radioactive Man."
+27587,130,2,47000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,The only decent new one is Radiation Dude.
+27588,130,3,49000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Nah, he's just a cheap imitation of Radioactive Man."
+27589,130,4,52000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,Explain.
+27590,130,5,53000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"The similarities are subtle, but many. For example, Radioactive Man has his famous catchphrase ""Up and Atom"" - with atom spelled a-t-o-m in a delicious pun..."
+27591,130,6,63000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,Go on.
+27592,130,7,64000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"... while Radiation Dude has a similar, but lamer catchphrase: ""Up and Let's Go."""
+27593,130,8,64000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"So, you kids fancy yourselves experts, eh?"
+27594,130,9,72000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Well, between us we've read all 814 issues of Radioactive Man."
+27596,130,10,76000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Yeah, and we both have the special limited edition issue where he and Fallout Boy get killed on every page."
+27597,130,11,82000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Well, I suppose you know then that Hollywood is planning a feature film about ""Radioactive Man."""
+27598,130,12,87000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,I have got to do something about that air conditioner suction.
+27599,130,13,90000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Who's gonna play Radioactive Man?
+27600,130,14,92000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,I will tell you in exactly seven minutes.
+27602,130,16,100000,Comic Book Guy,BACK OF COMIC BOOK STORE,"Okay, here we are..."
+27603,130,17,101000,Comic Book Guy,BACK OF COMIC BOOK STORE,"""Alt-dot-nerd-dot-obsessive."" ""Need know star RM pic."""
+27606,130,20,104000,Old Board Member,Hollywood Studio,I don't see why Rainier Wolfcastle should be the star. I think we should bring back Dirk Richter. Kids will wanna see the original Radioactive Man.
+27607,130,21,133000,Producer,Hollywood Studio,I keep telling you. He's 73 years old and he's DEAD.
+27608,130,22,138000,Old Board Member,Hollywood Studio,"Granted, but..."
+27609,130,23,139000,Director,Hollywood Studio,"Besides, we want to stay as far away from the campy 70s version as possible."
+27610,130,24,144000,Fallout Boy,Hollywood Studio,"Billowing backpacks, Radioactive Man! It's the worst villain of them all: The Scoutmaster!"
+27611,130,25,150000,Radioactive Man,Hollywood Studio,"I see him, Fallout Boy."
+27612,130,26,152000,Scoutmaster,Hollywood Studio,"Go get 'em, scouts!"
+27613,130,27,162000,Scoutmaster,Hollywood Studio,"Don't be afraid to use your nails, boys!"
+27614,130,28,190000,Producer,Hollywood Studio,"So, where could we shoot this picture? We need a city that has a nuclear reactor and a gorge, and can guarantee us the full cooperation of city officials."
+27615,130,29,199000,Assistant,Hollywood Studio,"I'll check ""Variety."""
+27616,130,30,203000,Producer,Hollywood Studio,Wow! Look at that ad!
+27617,130,31,208000,Producer,Hollywood Studio,All right. This place must be hot. They don't need a big ad or even correct spelling.
+27618,130,32,212000,Old Board Member,Hollywood Studio,I agree with that logic.
+27619,130,33,214000,Producer,Hollywood Studio,Get me two plane tickets to the state that Springfield is in.
+27621,130,35,219000,Producer,Springfield Town Hall,All right. We have 30 million dollars to spend.
+27622,130,36,221000,Mayor Joe Quimby,Springfield Town Hall,"We'll blow up our dams, destroy forests, anything. If there's a species of animal that's causing problems - nosing around your camera-- we'll have it wiped out."
+27571,130,37,229000,Director,Springfield Town Hall,"Look, we just want to make movies. Not kill things."
+27623,130,38,233000,Chief Wiggum,Springfield Town Hall,Right. We understand.
+27625,130,40,236000,Seymour Skinner,Springfield Elementary School,"Students, I have an announcement. One of your favorite comic book heroes, Radio Man..."
+27626,130,41,241000,Nelson Muntz,Springfield Elementary School,"Radioactive Man, stupid."
+27627,130,42,243000,Seymour Skinner,Springfield Elementary School,"Strange. I shouldn't have been able to hear that. Anyway, a Hollywood studio has decided to film the Radioactive Man movie here in Springfield."
+27628,130,43,253000,Kids,Springfield Elementary School,Yayyyyyy!
+27629,130,44,253000,Seymour Skinner,Springfield Elementary School,And they will be holding auditions to find a local youngster to play Fallout Boy.
+27631,130,46,259000,Seymour Skinner,Springfield Elementary School,"Oh, and the air conditioner will be fixed this afternoon."
+27634,130,49,267000,Bart Simpson,Simpson Home,"Look behind you, Radioactive Man! The sun is exploding again!"
+27635,130,50,272000,Marge Simpson,Simpson Home,"Bart, why are you talking like that?"
+27636,130,51,274000,Homer Simpson,Simpson Home,"Yeah. And who the hell are you talkin' to? Marge, do you have other men in this house? Radioactive men?"
+27637,130,52,281000,Bart Simpson,Simpson Home,"I'm practicing my Fallout Boy dialogue. If I get this role, I could finally come to terms with this funny little muddle called Bart."
+27638,130,53,299000,Different Announcers,Simpson Home,Eve - er - y - one - is - talk - king - a - bout - Ra - di - o - ac - tive - Ma - an - y'all.
+27640,130,55,306000,Barney Gumble,Moe's Tavern,Wow! You mean you were one of the original Little Rascals?
+27641,130,56,310000,Moe Szyslak,Moe's Tavern,Yeah.
+27642,130,57,311000,Homer Simpson,Moe's Tavern,Which one were you? The ugly one?
+27643,130,58,315000,Homer Simpson,Moe's Tavern,Were you the ugly one?
+27644,130,59,316000,Moe Szyslak,Moe's Tavern,"No. I was the tough kid. Smelly. My shtick was looking into an exhaust pipe and gettin' a faceful of soot. Heh, nobody could do that better than me. Of course, it was kinda hard to think of reasons for me to look in that exhaust pipe every time, but you know, we had good writers. William Faulkner could write an exhaust pipe gag that would really make you think."
+27645,130,60,334000,Barney Gumble,Moe's Tavern,"If you were such a big shot, why aren't you still making movies?"
+27646,130,61,339000,Barney Gumble,Moe's Tavern,Moe?... Moe?
+27647,130,62,345000,Moe Szyslak,Moe's Tavern,Oh no! My favorite aggie!
+27648,130,63,352000,Moe Szyslak,Moe's Tavern,"You stole my bit! You... That's my bit ya... Ya... ooh, ooh, you stole my bit!"
+27649,130,64,357000,Director,Moe's Tavern,Cut!
+27650,130,65,358000,Stagehand,Moe's Tavern,Oh my God! He's killed the original Alfalfa!
+27651,130,66,362000,Moe Szyslak,Moe's Tavern,"Yeah. Luckily, Alfalfa was an orphan owned by the studio."
+27652,130,67,365000,All,Moe's Tavern,"Oh, I see / Yeah / That makes sense."
+27653,130,68,367000,Kent Brockman,Moe's Tavern,"With wealthy Hollywood people on the way, local merchants can be forgiven for raising their prices a little."
+27655,130,70,381000,All Kids,Springfield Elementary School,"Watch out, Radioactive Man."
+27656,130,71,385000,Bart Simpson,Springfield Elementary School,Watch out!
+27657,130,72,385000,Bart Simpson,Springfield Elementary School,...Radioactive Man!!!
+27658,130,73,386000,Kids,Springfield Elementary School,Whoa... Aah...
+27659,130,74,391000,Nelson Muntz,Springfield Elementary School,Totally awesome.
+27660,130,75,392000,Bart Simpson,Springfield Elementary School,"Thank you, thank you, thank you. It's all in the delivery. ...Now is the winter of our discontent..."
+27661,130,76,398000,Ralph Wiggum,Springfield Elementary School,Oh no! Run!
+27662,130,77,403000,Milhouse Van Houten,Springfield Elementary School,"Mom, don't make me do this. I don't wanna be an actor."
+27663,130,78,408000,Luann Van Houten,Springfield Elementary School,Nonsense. You're going to be great. Now take off those glasses so they can see your beautiful eyes.
+27665,130,80,417000,Lunchlady Doris,Skinner's Office,"At last the world is safe, eh, Fallout Boy?"
+27666,130,81,417000,Nelson Muntz,Skinner's Office,Watch ou...
+27667,130,82,417000,Director,Skinner's Office,Next.
+27668,130,83,426000,Nelson Muntz,Skinner's Office,"Haw, haw. Hey, that hurts. No wonder no one came to my birthday party. If I didn't laugh, I'd cry."
+27669,130,84,433000,Lunchlady Doris,Skinner's Office,"At last the world is safe, eh, Fallout Boy?"
+27670,130,85,433000,Ralph Wiggum,Skinner's Office,What's for lunch tomorrow?
+27671,130,86,438000,Director,Skinner's Office,Next.
+27672,130,87,439000,Ralph Wiggum,Skinner's Office,Chicken necks?
+27673,130,88,441000,Director,Skinner's Office,We're never going to find... wait a minute.
+27674,130,89,443000,Director,Skinner's Office,That child has the exact qualities we're looking for. He's perfect. What is his name?
+27675,130,90,447000,Casting Lady,Skinner's Office,I don't know. He just came along with one of the others. He didn't sign up officially.
+27676,130,91,451000,Director,Skinner's Office,"Oh, forget him, then. It wouldn't be fair to the other children who filled out their application forms in full."
+27677,130,92,456000,Director,Skinner's Office,Next!
+27678,130,93,458000,Lunchlady Doris,Skinner's Office,"At last the world is safe, eh, Fallout Boy?"
+27679,130,94,458000,Bart Simpson,Skinner's Office,"Watch out, Radioactive Man!!!!!"
+27680,130,95,465000,Director,Skinner's Office,Brilliant reading. Again!
+27681,130,96,466000,Bart Simpson,Skinner's Office,"Watch out, Radioactive Man!!!!!"
+27682,130,97,469000,Director,Skinner's Office,Fantastic! One more time.
+27683,130,98,471000,Bart Simpson,Skinner's Office,"Watch out, Radioactive Man!!!!!"
+27684,130,99,473000,Director,Skinner's Office,"Congratulations, Bart Simpson, you're our new Fallout Boy."
+27686,130,101,478000,Director,Skinner's Office,That's what I'd be saying to you if you weren't an inch too short. Next.
+27688,130,103,486000,Bart Simpson,Simpson Backyard,"I've got to grow an inch by tomorrow or I won't get that part. Pull, you mighty stallions, pull. Show me no mercy."
+27691,130,106,509000,Bart Simpson,Simpson Home,I only grew half an inch. I'm still too short.
+27692,130,107,513000,Marge Simpson,Simpson Home,"Growing half an inch in one day is still pretty good, Bart."
+27693,130,108,516000,Lisa Simpson,Simpson Home,"Yeah, that's how fast Grampa is shrinking."
+27694,130,109,518000,Grampa Simpson,Simpson Home,"Oh, I'm as tall as I ever was."
+27695,130,110,520000,Bart Simpson,Simpson Home,Is there anyway I can look taller without actually being taller?
+27698,130,113,529000,Bart Simpson,Skinner's Office,"Good news, gentlemen. I've grown that extra inch you wanted, plus several feet more."
+27699,130,114,533000,Director,Skinner's Office,We've found our new Fallout Boy!
+27701,130,116,536000,Director,Skinner's Office,And he's right over there!
+27702,130,117,537000,Milhouse Van Houten,Skinner's Office,Huh?
+27704,130,119,539000,Director,Springfield Elementary School,"Ladies and gentlemen, meet America's new Fallout Boy!"
+27705,130,120,547000,Lionel Hutz,Springfield Elementary School,"Outta the way, boy. Milhouse, baby! Lionel Hutz, your new agent, bodyguard, unauthorized biographer, and drug dealer. Uh, keeper awayer."
+27707,130,122,559000,Milhouse Van Houten,Van Houten Home,Leave me alone! Mom! Dad! Make 'em stop!
+27709,130,124,568000,Milhouse Van Houten,LIVING ROOM,What is all this stuff?
+27710,130,125,569000,Kirk Van Houten,LIVING ROOM,We heard you've become a star. We decided we'd better start living in the fast lane.
+27711,130,126,574000,Milhouse Van Houten,LIVING ROOM,What if I'm not a success? How will you pay for all this?
+27712,130,127,578000,Luann Van Houten,LIVING ROOM,"I'm sorry, I can't hear you son. I'm wearing a Jacuzzi suit."
+27716,130,129,583000,Bart Simpson,Simpson Home,I just missed out on the greatest opportunity of my entire life. George Burns was right -- show business is a hideous bitch goddess.
+27717,130,130,593000,Lisa Simpson,Simpson Home,"Cheer up, Bart. Milhouse is still gonna need a true friend. Someone to tell him he's great, someone to rub lotion on him, someone to hurl whiskey bottles at when he's feeling low."
+27718,130,131,602000,Bart Simpson,Simpson Home,"You're right, Lis. I can suck up to him like the religious people suck up to God."
+27719,130,132,608000,Homer Simpson,Simpson Home,"Guess what, kids. They're gonna pay us fifty dollars a day to film some of the movie here."
+27720,130,133,613000,Teamster,Simpson Home,We'll run that cable through here.
+27721,130,134,617000,Homer Simpson,Simpson Home,Careful now.
+27722,130,135,618000,Homer Simpson,Simpson Home,"Hey, didn't you direct ""Unnatural Discretion""?"
+27723,130,136,623000,Director,Simpson Home,"Heh, yes I did."
+27724,130,137,625000,Homer Simpson,Simpson Home,"Hooey! Whew, oh. You know, I never walk out of a movie, but Eech!"
+27725,130,138,632000,Producer,Simpson Home,"I've got an idea, Mr. Simpson. Why don't you get something to eat from our food truck?"
+27726,130,139,638000,Producer,Simpson Home,Mr. Simpson?
+27728,130,141,641000,Krusty the Clown,Producer's Trailer,You've got to give me the part of Krispy the clown.
+27729,130,142,641000,Director,Producer's Trailer,"I'm sorry, you're wrong for the part."
+27730,130,143,647000,Krusty the Clown,Producer's Trailer,But look at my range!
+27731,130,144,654000,Producer,Producer's Trailer,"I'm sorry. Krispy the Klown has been cast. But I will hire you for Angry the Clown, Silly Sailor and Doctor Clownies."
+27732,130,145,654000,Krusty the Clown,Producer's Trailer,"I won't let you down. Well, I might let you down on Silly Sailor."
+27734,130,147,664000,Dialogue Coach,MOVIE SET,Up and Atom.
+27735,130,148,675000,Rainier Wolfcastle,MOVIE SET,Up and at them.
+27736,130,149,677000,Dialogue Coach,MOVIE SET,Up and ATOM.
+148011,130,150,678000,WOLFCASTLE,MOVIE SET,Up and AT THEM!
+27737,130,151,680000,Dialogue Coach,MOVIE SET,Up and ATOM.
+148012,130,152,681000,WOLFCASTLE,MOVIE SET,Up and AT THEM!
+27738,130,153,683000,Dialogue Coach,MOVIE SET,Better.
+27739,130,154,684000,Bart Simpson,MOVIE SET,"Hi, Milhouse. Hey, I want you to know that I'm glad at least one of us got the part."
+27740,130,155,690000,Bart Simpson,MOVIE SET,Milhouse!
+27741,130,156,691000,Bart Simpson,MOVIE SET,I didn't do it! I wished him well! I wished him weeelll!
+27743,130,158,697000,Movie Prop Guy,MOVIE SET,Stupid dummy wasn't supposed to explode yet.
+27744,130,159,701000,Bart Simpson,MOVIE SET,There's the real Milhouse.
+27745,130,160,705000,Bart Simpson,MOVIE SET,Milhouse!
+27714,130,161,707000,Bart Simpson,MOVIE SET,"Hey, you're not Milhouse."
+27746,130,162,709000,Estonian Dwarf,MOVIE SET,No. I am just Milhouse when he gets hurt.
+27747,130,163,713000,Director,MOVIE SET,"Okay, let's get the real Milhouse over here under the X-ray truck."
+27748,130,164,720000,Milhouse Van Houten,MOVIE SET,"Hi, Bart."
+27749,130,165,721000,Bart Simpson,MOVIE SET,"Hey, cool, Milhouse! You get to be crushed by a truck!"
+27750,130,166,725000,Milhouse Van Houten,MOVIE SET,"It sounds like more fun than it really is. Hey, I, I think I'm lying on a broken bottle."
+27751,130,167,730000,Director,MOVIE SET,Beautiful. Use it. Okay. Fallout Boy origin scene. Take one. Action.
+27752,130,168,739000,Radioactive Man,MOVIE SET,Up and AT THEM!
+27753,130,169,740000,Fallout Boy,MOVIE SET,"Thanks for the help, Mysterious Stranger. Say, I think those x-rays gave me super powers."
+27754,130,170,747000,Director,MOVIE SET,And... cut! That was perfect. Let's do it again.
+27755,130,171,751000,Milhouse Van Houten,MOVIE SET,"Uh, these aren't real X-rays, are they?"
+27756,130,172,754000,Director,MOVIE SET,"Good question. We'll check into that. Okay, X-ray machine to full power and ...Action!"
+27758,130,174,764000,Martin Prince,SHOOT LOCATION,"Uh, sir, why don't you just use real cows?"
+27759,130,175,766000,Prop Guy,SHOOT LOCATION,Cows don't look like cows on film. You gotta use horses.
+27760,130,176,770000,Ralph Wiggum,SHOOT LOCATION,What do you do if you want something that looks like a horse?
+27761,130,177,774000,Prop Guy,SHOOT LOCATION,"Eh, usually we just tape a bunch of cats together."
+27762,130,178,776000,Homer Simpson,SHOOT LOCATION,You guys work on the movie?
+27763,130,179,777000,Teamster,SHOOT LOCATION,You saying we're not working?
+27764,130,180,779000,Homer Simpson,SHOOT LOCATION,"Oh, I always wanted to be a teamster. So lazy and surly. Mind if I relax next to you?"
+27765,130,181,810000,Producer,SHOOT LOCATION,"Oh, here he comes. What is it now, Quimby?"
+27766,130,182,813000,Mayor Joe Quimby,SHOOT LOCATION,"Nothing. Nothing. only... the uh... city has just passed another tax on uh, puffy directing pants."
+27767,130,183,819000,Producer,SHOOT LOCATION,But I don't wear puffy pants.
+27768,130,184,821000,Mayor Joe Quimby,SHOOT LOCATION,"I meant, a uh, tax on not wearing puffy pants."
+27770,130,186,825000,Mayor Joe Quimby,SHOOT LOCATION,I'm sorry.
+27772,130,188,830000,Bart Simpson,Milhouse's Starwagon,"Wow. You really got it made now, Milhouse. This is living."
+27773,130,189,835000,Milhouse Van Houten,Milhouse's Starwagon,"Is it, Bart? Is it?"
+27774,130,190,839000,Bart Simpson,Milhouse's Starwagon,Yes.
+27775,130,191,840000,Milhouse Van Houten,Milhouse's Starwagon,"Ever since I became a movie star, I've been miserable. I had to get up at five A.M. just for makeup."
+27777,130,192,846000,Milhouse Van Houten,Milhouse's Starwagon,"I like the way the blush brings out my cheekbones, but it's not worth it. And making movies is so horribly repetitive. I've said ""jiminy jillikers"" so many times the words have lost all meaning."
+27778,130,193,857000,Director,Milhouse's Starwagon,"We've got to do the ""jiminy jillikers"" scene again, Milhouse."
+27779,130,194,859000,Milhouse Van Houten,Milhouse's Starwagon,"But we already did it. It took seven hours, but we did it. It's done."
+27780,130,195,866000,Director,Milhouse's Starwagon,Yes! But we've got to do it from different angles. Again and again and again and again and again.
+27781,130,196,876000,Milhouse Van Houten,Milhouse's Starwagon,Ahhhhh!
+27782,130,197,876000,Bart Simpson,Milhouse's Starwagon,Yeah. Ahhh!
+27784,130,199,883000,Radioactive Man,EDITING TRAILER,I can't believe Silly Sailor beat us both out and imprisoned us in his floating aqua world.
+27785,130,200,890000,Fallout Boy,EDITING TRAILER,Jiminy jillikers!
+27786,130,201,892000,Radioactive Man,EDITING TRAILER,"Da-dah now, there's no need for profanity, Fallout Boy."
+27787,130,202,897000,Producer,EDITING TRAILER,"Everyone in town has been gouging us silly, but it's worth it. It's all up there on the screen."
+27788,130,203,902000,Director,EDITING TRAILER,"Yes, that Milhouse is going to be big. Gabby Hayes big."
+27790,130,205,909000,Director,Springfield Nuclear Power Plant,"Okay, listen up, everybody. This is the hardest, most expensive scene in the movie and we only get one shot at it so we have to do it right. Fallout Boy will untie Radioactive Man and pull him to safety, moments before he's hit with a forty- foot wall of sulfuric acid that will horribly burn everything in its path. Now, that's real acid. So I want to see goggles, people."
+27791,130,206,933000,Radioactive Man,Springfield Nuclear Power Plant,Real acid?
+27792,130,207,934000,Director,Springfield Nuclear Power Plant,"Okay... Roll film... Tip the acid vats... and, action!"
+27793,130,208,945000,Radioactive Man,Springfield Nuclear Power Plant,Only Fallout Boy can save me now.
+27794,130,209,950000,Director,Springfield Nuclear Power Plant,Where's Fallout Boy?
+27795,130,210,955000,Director,Springfield Nuclear Power Plant,Fallout Boy!
+27796,130,211,957000,Radioactive Man,Springfield Nuclear Power Plant,Uh-oh.
+27797,130,212,964000,Radioactive Man,Springfield Nuclear Power Plant,My eyes! The goggles do nothing.
+27798,130,213,978000,Director,Springfield Nuclear Power Plant,Where in the Hell is Milhouse?! That one shot cost us a million dollars.
+27799,130,214,984000,Krusty the Clown,Springfield Nuclear Power Plant,Where's the producer? I want to talk about this coffee.
+27805,130,218,1013000,Editor,EDITING BAY,"Thanks to modern editing techniques, we can use existing footage to complete the film without Milhouse. Watch."
+27806,130,219,1025000,Radioactive Man,EDITING BAY,"Looks like we're in trouble, Fallout Boy."
+27807,130,220,1028000,Fallout Boy,EDITING BAY,"Jiminy Jillikers, Radioactive Man!"
+27808,130,221,1031000,Radioactive Man,EDITING BAY,We'll have to fight our way out. Are you ready?
+27809,130,222,1033000,Fallout Boy,EDITING BAY,Yes.
+27810,130,223,1038000,Editor,EDITING BAY,"Seamless, huh?"
+27811,130,224,1039000,Producer,EDITING BAY,You're fired.
+27812,130,225,1041000,Editor,EDITING BAY,And with good cause.
+27814,130,227,1041000,Chief Wiggum,Springfield Police Station,Go!
+27815,130,228,1047000,Chief Wiggum,Springfield Police Station,"Okay, we can all stop worrying now. These dogs will never fail."
+27816,130,229,1051000,Kirk Van Houten,Springfield Police Station,"But... uh, will they just find Milhouse? Or will they find him and kill him?"
+27817,130,230,1055000,Chief Wiggum,Springfield Police Station,Well... uh... when they find him they'll um... mumma hammell fusnuhm...
+27818,130,231,1061000,Kirk Van Houten,Springfield Police Station,"Uh, excuse me. You didn't answer me. You just trailed off."
+27819,130,232,1066000,Chief Wiggum,Springfield Police Station,"Yeah... yeah, I did kinda trail off there, didn't I?"
+27821,130,234,1070000,Bart Simpson,Street,I know Milhouse. I'll just check all his old haunts.
+27823,130,236,1078000,Bart Simpson,Slot Car Heaven,Have you seen Milhouse?
+27824,130,237,1079000,Comic Book Guy,Slot Car Heaven,No. Now go away. We're racing for the title of the Champion of the Universe.
+27825,130,238,1086000,Otto Mann,Slot Car Heaven,Awright!
+27828,130,241,1093000,Bart Simpson,Factory,"Yo, Doctor S. Have you seen Milhouse?"
+27829,130,242,1096000,Spirograph Man,Factory,No.
+27830,130,243,1096000,Bart Simpson,Factory,"Okay, thanks."
+27831,130,244,1098000,Spirograph Man,Factory,Wait.
+27832,130,245,1098000,Spirograph Man,Factory,Did you know there's a direct correlation between the decline of the Spirograph and the rise in gang activity? Think about it.
+27833,130,246,1103000,Bart Simpson,Factory,I will.
+27834,130,247,1105000,Spirograph Man,Factory,No you won't.
+27836,130,249,1110000,Bart Simpson,Simpson Home,The only place left is the treehouse.
+27838,130,251,1116000,Bart Simpson,Bart's Treehouse,Ah-ha!
+27839,130,252,1117000,Milhouse Van Houten,Bart's Treehouse,"Stay away from me, Bart. I mean it, I'm not goin' back. I'm not cut out to be a star."
+27840,130,253,1122000,Bart Simpson,Bart's Treehouse,"But Milhouse, being a star is every patriotic American's dream."
+27841,130,254,1127000,Milhouse Van Houten,Bart's Treehouse,"Not mine. It's a sham, Bart. You get up on that big screen pretending to be a hero, but you're not. The real heroes are out there, toiling day and night on more important things."
+27842,130,255,1139000,Bart Simpson,Bart's Treehouse,Television.
+27843,130,256,1140000,Milhouse Van Houten,Bart's Treehouse,No! Curing heart disease and wiping out world hunger.
+27844,130,257,1144000,Bart Simpson,Bart's Treehouse,"But Milhouse! They haven't cured anything. Heart disease and world hunger are still rampant. Those do-gooders are all a bunch of pitiful losers. Every last one of them. Want results? You have to go to the Schwarzeneggers, the Stallones, and, to a lesser extent, the Van Dammes."
+27845,130,258,1164000,Milhouse Van Houten,Bart's Treehouse,Mickey Rooney!
+27846,130,259,1165000,Mickey Rooney,Bart's Treehouse,"Hi Milhouse. The studio sent me to talk to you, being a former child star myself and the number one box office draw from 1939 through 1940."
+27847,130,260,1176000,Bart Simpson,Bart's Treehouse,"Wow, spanning two decades."
+27848,130,261,1178000,Milhouse Van Houten,Bart's Treehouse,How'd you find us?
+27849,130,262,1179000,Mickey Rooney,Bart's Treehouse,"Uh, they tapped your treehouse phone."
+27850,130,263,1185000,Mickey Rooney,Bart's Treehouse,"Milhouse, listen. You can't quit this movie. I've seen your work. It's good, very, very good. Van Johnson good."
+27851,130,264,1193000,Milhouse Van Houten,Bart's Treehouse,I know I'm good. Movie stardom is just so hollow.
+27852,130,265,1197000,Mickey Rooney,Bart's Treehouse,"Hollow? The only thing in show business that's hollow is the music industry. C'mon, Milhouse, ya have to do this. If not for yourself, then for the movie-going public, and for the foreign markets that are more important than ever nowadays... and finally, for me, the Mickster."
+27853,130,266,1218000,Milhouse Van Houten,Bart's Treehouse,No.
+27854,130,267,1219000,Mickey Rooney,Bart's Treehouse,"All right, I tried."
+27855,130,268,1220000,Mickey Rooney,Bart's Treehouse,Fortunately we have a perfectly good uh Fallout Boy right here.
+27856,130,269,1225000,Mickey Rooney,Bart's Treehouse,"Jiminy jillikers, jiminy jillikers, jiminy jillikers!"
+27857,130,270,1230000,Director,Bart's Treehouse,We're shutting down production.
+27858,130,271,1232000,Producer,Bart's Treehouse,"Yeah well, we only have a thousand dollars left anyway."
+27859,130,272,1235000,Mayor Joe Quimby,Bart's Treehouse,"Uh, there's, uh, a thousand dollar leaving town tax."
+27861,130,274,1239000,Mickey Rooney,Street,"Well, I hope you're all satisfied. You've bankrupted a bunch of naive movie folks. Folks from Hollywood, where values are different. They weren't thinking about the money. They just wanted to tell a story. A story about a radioactive man. And you slick small towners took 'em for all they were worth."
+27776,130,275,1260000,Otto Mann,Street,Should we give them some of their money back?
+27803,130,276,1264000,Mayor Joe Quimby,Street,No.
+27862,130,277,1267000,Helicopter Pilot,Street,"Hurry, Mr. Rooney! We've got a disenchanted little girl in a Jell-O pudding commercial."
+27863,130,278,1271000,Mickey Rooney,Street,I can play that.
+27865,130,280,1275000,Bart Simpson,CLASSROOM,"So, Milhouse, it must be a little tough givin' up all that glamour comin' back to school, huh."
+27866,130,281,1280000,Milhouse Van Houten,CLASSROOM,"Quiet, maybe I can get my citizenship."
+27868,130,283,1288000,SHALLOW-LOOKING HOLLYWOODITE,HOLLYWOOD AND VINE,"We know you don't have any money left, but that doesn't matter. Just take whatever you need from our boutiques until you can get back on your feet."
+27869,130,284,1296000,Producer,HOLLYWOOD AND VINE,"Thank God we're back in Hollywood, where people treat each other right."

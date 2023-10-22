@@ -1,0 +1,235 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+121511,469,1,51000,Krusty the Clown,Simpson Home,"Mousey and Catsy, aren't they great? Now listen up, kids -- Krusty's sponsor, the Texxon family of gas stations, wants you to know that today's the last day of their ""Happy Little Elves"" giveaway!"
+121512,469,2,65000,Krusty the Clown,Simpson Home,"It's Texxon's way of saying ""Sorry about those million dead pelicans."""
+121514,469,4,65000,Krusty the Clown,Simpson Home,"You'll really love, the intentionally scarce ""Baby Must-Have."""
+121516,469,6,65000,Krusty the Clown,Simpson Home,Don'tcha want her beyond all reason?
+121517,469,7,84000,Homer Simpson,Simpson Home,"Maggie, you can't climb into the TV. If you could, I'd make Alex Trebek answer some questions."
+121518,469,8,90000,Lisa Simpson,Simpson Home,"Dad, I think Maggie's just sad 'cause her set is missing ""Baby Must-Have."""
+121519,469,9,90000,Homer Simpson,Simpson Home,"No child of mine will go without anything, ever! Except quality healthcare!"
+121522,469,12,102000,Lisa Simpson,Simpson Car,Didn't there used to be more Texxon stations?
+121523,469,13,105000,Marge Simpson,Simpson Car,"Yes, but they sold a bunch off to that frozen yogurt chain."
+121524,469,14,113000,Selma Bouvier,Simpson Car,What a cheap date this is.
+121525,469,15,116000,Moe Szyslak,Simpson Car,"I'm not cheap, baby, I'm embarrassed to be seen with you. Big difference."
+121529,469,19,125000,Homer Simpson,Texxon Station,"Nice part of town you got here. Too bad you keep it so far away. Now that we're best friends, can I get the baby elf?"
+121530,469,20,132000,Cashier,Texxon Station,Pick a box -- you get what you get.
+121531,469,21,135000,Homer Simpson,Texxon Station,You can't tell what's inside! Of all the times not to have x-ray vision.
+121532,469,22,140000,Homer Simpson,Texxon Station,I'll take... that one.
+121533,469,23,148000,Homer Simpson,Texxon Station,"Aw, this isn't the right one -- she wants the baby!"
+121534,469,24,151000,Cashier,Texxon Station,I can't give you another toy till you buy another ten gallons of gas.
+121535,469,25,155000,Homer Simpson,Texxon Station,You're lucky you're behind glass.
+121536,469,26,157000,Cashier,Texxon Station,Ain't no glass.
+121537,469,27,157000,Homer Simpson,Texxon Station,"Sure, it's easy to slap people when you're hidin' behind that glass!"
+121538,469,28,164000,Cashier,Texxon Station,You have a good day.
+121539,469,29,165000,Homer Simpson,Texxon Station,Drive all the way... get the wrong elf... ain't no glass... I'll show 'em -- I'll buy ten more gallons of their stupid gas!
+121541,469,31,177000,Homer Simpson,Simpson Car,Woo hoo!
+121545,469,35,223000,Marge Simpson,Texxon Station,"Oh Homie, maybe we should call it a day."
+121546,469,36,226000,Homer Simpson,Texxon Station,"Oh I'm sorry, Maggie, but even at your age, I'm sure you understand things can't always go your way, and that's why... I can't believe we didn't get that stupid elf!"
+121548,469,38,241000,Bart Simpson,Simpson Car,Where the hell are we? I've never seen stores like these before.
+121549,469,39,246000,Marge Simpson,Simpson Car,I know where we are! This is the neighborhood where I grew up!
+121550,469,40,251000,Marge Simpson,Simpson Car,"Ooo, everything's changed! That tree used to be a smaller tree. And that food bank used to be a regular bank."
+121551,469,41,259000,Homer Simpson,Simpson Car,The march of progress.
+121552,469,42,261000,Marge Simpson,Simpson Car,There's my old house!
+121553,469,43,266000,Lisa Simpson,Simpson Car,"Someday when I'm a grownup, maybe I'll go back and look fondly at our house."
+121554,469,44,270000,Bart Simpson,Simpson Car,"Well, stop in and say ""hi"" to me 'cause I'll still be there -- chillin' in my basement bachelor pad."
+121555,469,45,275000,Homer Simpson,Simpson Car,Be sure to water the flowers on my backyard grave.
+121556,469,46,278000,Bart Simpson,Simpson Car,As long as I can dig you up and stick you on the front porch every Halloween.
+121557,469,47,282000,Homer Simpson,Simpson Car,Just don't dress me up like a woman.
+121558,469,48,282000,Bart Simpson,Simpson Car,We'll see.
+121560,469,50,286000,Abby,Simpson Car,I know what you folks are here for.
+121561,469,51,288000,Abby,Simpson Car,Rabbits! I just kilt this one because it stopped bein' cute!
+121562,469,52,292000,Marge Simpson,Simpson Car,We're not here for rabbit. I used to live in this house as a girl.
+121563,469,53,296000,Abby,Simpson Car,"I live in it now as a woman! Hey, you wanna come on in? Take a look around?"
+121564,469,54,300000,Marge Simpson,Simpson Car,"Oh, I'd love to, if it's not an imposition."
+121565,469,55,303000,Abby,Simpson Car,"Well, as long as we don't have to feed this one."
+121566,469,56,307000,Homer Simpson,Simpson Car,"Tell her ""no deal""."
+121568,469,58,307000,Marge Simpson,MARGE'S CHILDHOOD HOME,Everything's just the way I remember it...
+121569,469,59,313000,Marge Simpson,MARGE'S CHILDHOOD HOME,You see that mirror? I discovered that if I sat in the kitchen I could see if the bathroom was free using the reflection from the mirror off the toaster.
+121573,469,63,327000,Marge Simpson,Bedroom,This was my bedroom! My bedpost smooshes are still in the carpet!
+121574,469,64,333000,Bart Simpson,Bedroom,I wanna go read books in the car.
+121575,469,65,335000,Marge Simpson,Bedroom,There are no books in the car.
+121576,469,66,336000,Bart Simpson,Bedroom,I just wanna sit in the car!
+121578,469,68,338000,Abby,UPSTAIRS HALLWAY,"I always wondered who ""Marge"" is."
+121579,469,69,341000,Marge Simpson,UPSTAIRS HALLWAY,My memorables!
+121580,469,70,344000,Abby,UPSTAIRS HALLWAY,"Over the years, I've sure been tempted to go through this stuff. So I did, many times!"
+121582,469,72,351000,Marge Simpson,MARGE'S CHILDHOOD ROOM,My whole childhood is in this box! My scrunchies! I never really had the hair for these.
+121583,469,73,359000,Lisa Simpson,MARGE'S CHILDHOOD ROOM,"Wow, Mom -- you got first place in the science fair!"
+121584,469,74,363000,Marge Simpson,MARGE'S CHILDHOOD ROOM,"Oh, that's ancient history. Ooh, here's my paper on ancient history."
+121585,469,75,369000,Lisa Simpson,MARGE'S CHILDHOOD ROOM,"Mom, these grades are amazing! Just as good as mine!"
+148724,469,76,373000,Lisa's Thoughts,MARGE'S CHILDHOOD ROOM,But then... you wound up like you.
+121587,469,78,383000,DOLPH,Springfield Elementary School,"Aw, man. The drainage around here is a joke."
+121588,469,79,387000,Kearney Zzyzwicz,Springfield Elementary School,I don't even know why I pay taxes.
+121589,469,80,389000,Bart Simpson,Springfield Elementary School,Comin' through!
+121590,469,81,393000,Bart Simpson,Springfield Elementary School,Just when you think I'm out of ideas!
+121592,469,83,411000,Nelson Muntz,Springfield Elementary School,Get your affairs in order.
+121593,469,84,418000,Database,Springfield Elementary School,Bart beat up Nelson!
+121594,469,85,420000,Martin Prince,Springfield Elementary School,A new bully has risen! Simpson Boombaye!
+121595,469,86,424000,Kids,Springfield Elementary School,Simpson Boombaye! Simpson Boombaye!
+121596,469,87,430000,Nelson Muntz,Springfield Elementary School,"Oh, Mama!"
+121598,469,89,439000,Seymour Skinner,Springfield Elementary School,Buying those extra trophies from cash-strapped schools really filled out the old case.
+121599,469,90,443000,Lisa Simpson,Springfield Elementary School,Principal Skinner? Quick question. Is it true my Mom was a great student?
+121600,469,91,448000,Seymour Skinner,Springfield Elementary School,Oh indeed. Your mother was as fine a student as you.
+121601,469,92,451000,Seymour Skinner,Springfield Elementary School,Keep up the good work and you'll probably wind up just like her.
+121602,469,93,454000,Lisa Simpson,Springfield Elementary School,Well... of course that would be great. But I see myself making an impact... outside the home.
+121603,469,94,462000,Seymour Skinner,Springfield Elementary School,"Lisa, one of the hardest jobs I have is throwing cold water on young children's dreams."
+121604,469,95,468000,Seymour Skinner,Springfield Elementary School,"Ralph, you're not a kangaroo."
+121606,469,97,471000,Seymour Skinner,Springfield Elementary School,"The point is, I've learned a lot about human nature by sitting in the park with mother. And one thing I've learned is children turn out like their parents. Behold, your future!"
+121608,469,99,486000,Seymour Skinner,Springfield Elementary School,"Ralph, you're also not a trophy."
+121610,469,101,490000,Gary Chalmers,Springfield Elementary School,Skinner! I warned you about interacting with students!
+121611,469,102,494000,Gary Chalmers,Springfield Elementary School,I don't want to have to yell at you.
+121612,469,103,496000,Seymour Skinner,Springfield Elementary School,You yell at me about everything.
+121613,469,104,497000,Gary Chalmers,Springfield Elementary School,"Well I can't yell at anyone else! Teachers have a union, students have parents."
+121614,469,105,502000,Seymour Skinner,Springfield Elementary School,What about Willie?
+121615,469,106,502000,Gary Chalmers,Springfield Elementary School,I like Willie!
+121617,469,108,508000,Lisa Simpson,Simpson Home,"Maggie, something happened to Mom and I'm gonna find out what and when."
+121618,469,109,511000,Lisa Simpson,Simpson Home,"Mom's looking good through elementary school... ninth grade, tenth grade, still ridin' the A-Train... Then suddenly, when she was a high school senior BLAM!"
+121619,469,110,522000,Marge Simpson,Simpson Home,You kids play nice up there!
+121620,469,111,524000,Lisa Simpson,Simpson Home,What could've happened?
+121621,469,112,546000,Lisa Simpson,Simpson Home,"Dad, can I talk to you for a second?"
+121622,469,113,549000,Homer Simpson,Simpson Home,"What is troubling you, my son? I mean, my girl son?"
+121623,469,114,554000,Lisa Simpson,Simpson Home,"Well, um, I was looking through Mom's old schoolwork, and I noticed her grades went down when she started going out with you."
+121624,469,115,562000,Homer Simpson,Simpson Home,"Hey, if it hadn't been me, it would have been someone or something else. Sooner or later, everyone meets their ""Homer."""
+121625,469,116,571000,Lisa Simpson,Simpson Home,"No offense Dad, but no boy is gonna distract me from my dreams."
+121626,469,117,576000,Homer Simpson,Simpson Home,"It may not be a boy. It could be anything: scrap-booking, high-stakes poker, or the Santa Fe lifestyle. Just pick a dead end, and chill out till you die."
+121627,469,118,586000,Lisa Simpson,Simpson Home,No! That's not gonna happen to me! I'm gonna make sure nothing distracts me ever!
+121629,469,120,593000,Nelson Muntz,Springfield Elementary School,"Look at you, struttin' around, like you're Toad of Toad Hall."
+121630,469,121,598000,Bart Simpson,Springfield Elementary School,"I'm just whistlin', man."
+121632,469,122,602000,Nelson Muntz,Springfield Elementary School,"You think you're so smart, don'tcha, Simpson?"
+121633,469,123,604000,Bart Simpson,Springfield Elementary School,We're both in the same reading group. I think you know how smart I am.
+121634,469,124,608000,Nelson Muntz,Springfield Elementary School,That's an insult to me and the rest of the inchworms!
+121635,469,125,614000,Martin Prince,Springfield Elementary School,Bart did it again!
+121636,469,126,615000,Bart Simpson,Springfield Elementary School,I'm not a bully! It's just a series of incredible coincidences!
+121637,469,127,620000,Seymour Skinner,Springfield Elementary School,"Well Bart, I guess his parking spot is yours now."
+121638,469,128,622000,Seymour Skinner,Springfield Elementary School,Well done.
+121640,469,130,627000,Lisa Simpson,Simpson Home,"Okay, I've gotten rid of all of my distractions, diversions, hobbies and... Oh my God!"
+121641,469,131,634000,Lisa Simpson,Simpson Home,"Are you a distraction, or a higher calling? All right, let's see. How many jazz musicians led long and happy lives? There's, um..."
+121644,469,134,654000,Marge Simpson,Simpson Home,That's odd. Lisa just threw her saxophone out the window.
+121645,469,135,657000,Homer Simpson,Simpson Home,"Oh, that's probably because to her, the saxophone is a me, and she doesn't want to end up like you. G'night."
+121646,469,136,664000,Marge Simpson,Simpson Home,She doesn't want to end up like me?!
+121647,469,137,666000,Homer Simpson,Simpson Home,"No, she does, totally, but uh... with a happier ending. Goodnight!"
+121648,469,138,672000,Marge Simpson,Simpson Home,What's so wrong with me?
+121649,469,139,674000,Homer Simpson,Simpson Home,"Nothing, sweetie, nothing! Here, let me explain."
+121650,469,140,677000,Homer Simpson,Simpson Home,She does not want to... turn out like... you... didn't... not until... diplomatic... trapped... help... remember nothing!
+121651,469,141,690000,Marge Simpson,Simpson Home,I remember everything.
+121652,469,142,692000,Homer Simpson,Simpson Home,"Well, if you check your purse I think you'll find... the seven of clubs!"
+121653,469,143,700000,Marge Simpson,Simpson Home,No. Just a picture of Lisa. Who wants to be nothing like me.
+121654,469,144,706000,Homer Simpson,Simpson Home,"I am so sorry, Marge."
+121655,469,145,711000,Marge Simpson,Simpson Home,Stupid pan.
+121656,469,146,714000,Lisa Simpson,Simpson Home,"Mom, could you keep it down a little? I'm trying to study."
+121657,469,147,716000,Marge Simpson,Simpson Home,"Uh-huh, yeah. Here's your breakfast."
+121658,469,148,720000,Marge Simpson,Simpson Home,Not a good time!
+121659,469,149,723000,Lisa Simpson,Simpson Home,"Mom, is something wrong?"
+121660,469,150,725000,Marge Simpson,Simpson Home,Would it be so bad to turn out like me?
+121661,469,151,728000,Lisa Simpson,Simpson Home,"Mom, I admire everything you do--"
+121631,469,152,731000,Marge Simpson,Simpson Home,"But it's not good enough, is it?"
+121662,469,153,732000,Lisa Simpson,Simpson Home,It's plenty good! It's great! It's just... not for me.
+121663,469,154,739000,Bart Simpson,Simpson Home,School bus!
+121665,469,156,748000,Lisa Simpson,Simpson Home,What kind of kiss did you get?
+121666,469,157,748000,Bart Simpson,Simpson Home,Normal. You?
+121667,469,158,751000,Lisa Simpson,Simpson Home,Ice cold.
+121668,469,159,752000,Bart Simpson,Simpson Home,You're just imagining things.
+121669,469,160,753000,Lisa Simpson,Simpson Home,Oh yeah?
+121670,469,161,755000,Bart Simpson,Simpson Home,Hm.
+121671,469,162,757000,Bart Simpson,Simpson Home,What does your note say?
+121672,469,163,759000,Lisa Simpson,Simpson Home,The seven of clubs.
+121673,469,164,761000,Homer Simpson,Simpson Home,Ta-da!
+121675,469,166,767000,Lisa Simpson,Springfield Elementary School,"What's the point of getting rid of all the distractions at home, if I have to do my learning here?"
+121677,469,168,779000,Groundskeeper Willie,Library,OH I'LL WAX THE UPSTAIRS / AND I'LL WAX THE DOWNSTAIRS / THEN I'LL GET DRUNK IN THE LI'BRY!
+121678,469,169,786000,Lisa Simpson,Library,Willie!
+121679,469,170,787000,Lisa Simpson,Library,Do you have to wax this floor now?
+121680,469,171,790000,Groundskeeper Willie,Library,"No, no, I can come back later."
+121682,469,173,794000,Lisa Simpson,Library,Should I get the nurse?
+121683,469,174,796000,Groundskeeper Willie,Library,Nae. Just keep studying. I'll scream this out.
+121686,469,177,805000,Nelson Muntz,Springfield Elementary School,"I can get to you whenever I want, Simpson. But I'm gonna bide my time. You won't even hear the punch that wastes you. And you'll crack like one of those chicken turds rich people eat."
+121687,469,178,823000,Bart Simpson,Springfield Elementary School,You mean an egg?
+121688,469,179,825000,Nelson Muntz,Springfield Elementary School,I mean you're dead!
+121690,469,181,828000,Nelson Muntz,Springfield Elementary School,Let me outta here so I can put you in here!
+121691,469,182,831000,Bart Simpson,Springfield Elementary School,Ha! You're not so tough now.
+121694,469,185,841000,Lisa Simpson,School Bus,Dad was right -- I might as well give up.
+121695,469,186,860000,Lisa Simpson,School Bus,"""Cloisters Academy?!"" That bus could pick me up any day of the week!"
+121696,469,187,866000,Otto Mann,School Bus,"S'up, bro?"
+121697,469,188,867000,Professional-looking Driver,School Bus,I'm not your brother.
+121698,469,189,870000,Lisa Simpson,School Bus,"Lord Buddha, I know I'm not supposed to want stuff, but c'mon."
+121701,469,192,881000,Admissions Director,TOP OF TOWER,Cloisters Academy is a refuge for quiet learning. We have every facility imaginable. Including an imaginatorium.
+121702,469,193,889000,Admissions Director,TOP OF TOWER,"Oh no, wait, it's over there."
+121703,469,194,892000,Lisa Simpson,TOP OF TOWER,"Mom, Dad! Please, can I go here? I'll study so hard I'll make the old me look like Bart."
+121704,469,195,897000,Homer Simpson,TOP OF TOWER,That would be one weird-looking kid.
+121705,469,196,899000,Marge Simpson,TOP OF TOWER,"We'd love to send you here, sweetie. We just can't afford it."
+121706,469,197,904000,Admissions Director,TOP OF TOWER,I'm sure she'll do fine at Springfield Elementary. I hear they just found out there was a World War Two.
+121707,469,198,912000,Marge Simpson,TOP OF TOWER,"Homer, Lisa, could you please step outside? I have a few choice words for this gentleman."
+121708,469,199,918000,Lisa Simpson,TOP OF TOWER,"Mom, please don't."
+121709,469,200,921000,Homer Simpson,TOP OF TOWER,"Oh, I've seen that look before. That's the ""I ate the piece of wedding cake she's been saving in the freezer ten years"" look."
+121710,469,201,927000,Marge Simpson,TOP OF TOWER,You what?!
+121711,469,202,927000,Homer Simpson,TOP OF TOWER,Run!
+121713,469,204,945000,Admissions Director,Base Of Tower,"Lisa, your mother convinced me to take a closer look at your record, and upon further reflection, I have decided to offer you a full scholarship to Cloisters Academy."
+121714,469,205,955000,Lisa Simpson,Base Of Tower,"I have a future! Thank you, Mom!"
+121715,469,206,959000,Homer Simpson,Base Of Tower,"Thank you, four-eyes!"
+121717,469,208,963000,Admissions Director,Cloisters Academy,So you'll start Monday.
+121718,469,209,966000,Lisa Simpson,Cloisters Academy,I'm so exci--
+121719,469,210,967000,Admissions Director,Cloisters Academy,Uh-uh-uh-uh-uh -- quiet campus. Shh. Now please hold your celebration until you're off the school grounds.
+121721,469,212,981000,Homer Simpson,Cloisters Academy,What time Monday?
+121722,469,213,983000,Admissions Director,Cloisters Academy,"Um, eight o'clock."
+121723,469,214,983000,Homer Simpson,Cloisters Academy,Thank you.
+121725,469,216,998000,Homer Simpson,Cloisters Academy,All right!
+121726,469,217,998000,Lisa Simpson,Cloisters Academy,An academy! I'm attending an academy!
+121727,469,218,1003000,Cloisters Girl,Cloisters Academy,"Hi! I see that you're new, and we'd be honored to have you join our softball team."
+121729,469,219,1007000,Lisa Simpson,Cloisters Academy,"I'm sorry, I don't really play."
+121730,469,220,1009000,Cloisters Girl,Cloisters Academy,"Oh, no one plays. We just discuss the physics of the game."
+121731,469,221,1012000,Another Girl,Cloisters Academy,I lead the team in E.R.A. -- extremely right answers.
+121732,469,222,1016000,Lisa Simpson,Cloisters Academy,Count me in!
+121734,469,224,1018000,Marge Simpson,Springfield Street,"What's wrong, sweetie -- you seem upset."
+121736,469,226,1020000,Bart Simpson,Car,I don't wanna talk about it.
+121737,469,227,1025000,Bart Simpson,Car,A kid at school's gonna beat me up.
+121738,469,228,1027000,Marge Simpson,Car,Is it Milhouse?
+121739,469,229,1028000,Bart Simpson,Car,Milhouse couldn't beat me up.
+121740,469,230,1030000,Marge Simpson,Car,Are you sure? He's having a growth spurt.
+121741,469,231,1032000,Bart Simpson,Car,It's not Milhouse!
+121742,469,232,1034000,Marge Simpson,Car,Is it a girl?
+121743,469,233,1034000,Bart Simpson,Car,It's Nelson!
+121744,469,234,1036000,Marge Simpson,Car,"Hm, I never figured him for the bully type."
+121745,469,235,1038000,Marge Simpson,Car,"Well, if he's got you cornered, and Milhouse isn't there to help you, there's only one way out: make him feel good about himself."
+121746,469,236,1046000,Bart Simpson,Car,How do I do that?
+121747,469,237,1047000,Marge Simpson,Car,"I don't know, compliment his glasses."
+121748,469,238,1050000,Bart Simpson,Car,It's not Milhouse!
+121750,469,240,1056000,Teacher,Cloisters Academy,"Hi, Lisa, I'm Ms. Marshall, and I'm your teacher."
+121751,469,241,1060000,Lisa Simpson,Cloisters Academy,"Well, I am so happy to be in your class."
+121752,469,242,1063000,Ms. Marshall,Cloisters Academy,"No, I'm your teacher. I only teach you."
+121753,469,243,1066000,Ms. Marshall,Cloisters Academy,Your short story about the lonely pony -- gripping.
+121754,469,244,1068000,Lisa Simpson,Cloisters Academy,Did you get that the pony was actually me?
+121755,469,245,1071000,Ms. Marshall,Cloisters Academy,"It hit me the next day, and I read the whole thing again. I thought we'd start the semester by turning this into a novel."
+121756,469,246,1078000,Lisa Simpson,Cloisters Academy,Self-published?
+121757,469,247,1079000,Ms. Marshall,Cloisters Academy,Real published.
+121760,469,250,1096000,Nelson Muntz,Springfield Elementary School,Haw-haw!
+121761,469,251,1107000,Nelson Muntz,Springfield Elementary School,"This is it, Simpson. After this, your nose will not be an outtie."
+121762,469,252,1111000,Thought Bubble Marge,Springfield Elementary School,...make him feel good about himself.
+121763,469,253,1114000,Bart Simpson,Springfield Elementary School,"Uh, Nelson... for someone who never goes to the dentist, you have pretty good teeth."
+121764,469,254,1119000,Nelson Muntz,Springfield Elementary School,They're dentures!
+121765,469,255,1120000,Bart Simpson,Springfield Elementary School,Uh... you do a lot with a limited wardrobe!
+121766,469,256,1124000,Nelson Muntz,Springfield Elementary School,"That's Social Worker talk for ""I'm poor."""
+121767,469,257,1127000,Bart Simpson,Springfield Elementary School,"Uh, uh, you punch really good!"
+121768,469,258,1130000,Nelson Muntz,Springfield Elementary School,You think?
+121769,469,259,1132000,Bart Simpson,Springfield Elementary School,Oh yeah! And-and you always avoid the face around picture day. People appreciate that.
+121770,469,260,1138000,Nelson Muntz,Springfield Elementary School,"Hey, those memories are forever."
+121771,469,261,1140000,Bart Simpson,Springfield Elementary School,"You really care, man. A lot of bullies just phone it in. Kearney."
+121773,469,263,1147000,Lisa Simpson,Simpson Home,"That school is so great! Teachers teach so much better when they're paid in money, and not in chickens. Is Mom gonna come up and say goodnight?"
+121774,469,264,1155000,Homer Simpson,Simpson Home,"Your mom's doing laundry, but she authorized me to say goodnight for her. So, by the power vested in me, I now pronounce you sweet dreams."
+121778,469,268,1175000,Lisa Simpson,Simpson Home,Mom?
+121779,469,269,1186000,Marge Simpson,Simpson Home,There we go. Clean... and white... and soft.
+121780,469,270,1194000,Lisa Simpson,Simpson Home,Mom?
+121782,469,272,1194000,Lisa Simpson,Simpson Home,I see what happened. There was no scholarship. They said I could attend if you did all their laundry. I can't live with that knowledge while trying to get more knowledge.
+121783,469,273,1205000,Marge Simpson,Simpson Home,"Lisa, honey, I insist. Because it's important to you that you don't turn out like me."
+121784,469,274,1213000,Lisa Simpson,Simpson Home,Mom... I don't want to go to that school.
+121785,469,275,1215000,Marge Simpson,Simpson Home,Why not?
+121786,469,276,1217000,Lisa Simpson,Simpson Home,"Because, it's too elitist. Everyone's parents are in ""the business."""
+121787,469,277,1220000,Marge Simpson,Simpson Home,What business?
+121788,469,278,1224000,Lisa Simpson,Simpson Home,"I don't know! They won't tell me! And besides... you were willing to do all this just so I would be happy! Mom, I'd be honored if I turned out like you."
+121789,469,279,1238000,Bart Simpson,Simpson Home,"Mom, thanks to you, this box sucker didn't beat me up!"
+121790,469,280,1243000,Nelson Muntz,Simpson Home,We've been pokin' foil all night. Musta put away two eight-packs by now.
+121791,469,281,1248000,Marge Simpson,Simpson Home,I'm so glad you two are friends again.
+121792,469,282,1251000,Homer Simpson,Simpson Home,Look what Maggie got!
+121793,469,283,1252000,Marge Simpson,Simpson Home,Homer? How did you get...?
+121794,469,284,1252000,Homer Simpson,Simpson Home,"Up, a father has his secrets."
+121796,469,286,1257000,Manager,Texxon Station,How did he get in?
+121797,469,287,1257000,Cashier,Texxon Station,"Told ya, ain't got no glass."
+121798,469,288,1260000,Manager,Texxon Station,Did he take any money?
+121799,469,289,1260000,Cashier,Texxon Station,Uh-uh.
+121800,469,290,1262000,Manager,Texxon Station,"Well, he did now."

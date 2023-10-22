@@ -1,0 +1,272 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+149145,2,1,101000,Bart Simpson,Simpson Living Room,"Come on, Mom."
+149146,2,2,102000,Lisa Simpson,Simpson Living Room,"Yeah, Mom, hurry up."
+149147,2,3,105000,Marge Simpson,Simpson Living Room,"All right... hmmm... How about ""he""?"
+149148,2,4,109000,Marge Simpson,Simpson Living Room,"Two points. Your turn, dear."
+149150,2,5,112000,Homer Simpson,Simpson Living Room,Hmmmm. How could anyone make a word out of these lousy letters?
+149151,2,6,117000,Homer Simpson,Simpson Living Room,"Oh, wait! Here's a good one -- ""do""."
+149152,2,7,119000,Lisa Simpson,Simpson Living Room,"""Id."" Triple word score."
+149153,2,8,122000,Homer Simpson,Simpson Living Room,Hey! No abbreviations!
+149154,2,9,123000,Lisa Simpson,Simpson Living Room,"Not I.D., Dad. Id. It's a word."
+149155,2,10,126000,Bart Simpson,Simpson Living Room,"As in, ""this game is stup-id."""
+149156,2,11,128000,Homer Simpson,Simpson Living Room,"Hey, shut up, boy."
+149157,2,12,129000,Lisa Simpson,Simpson Living Room,"Yeah, Bart. You're supposed to be developing verbal abilities for your big aptitude test tomorrow."
+149158,2,13,134000,Marge Simpson,Simpson Living Room,"We could look this ""id"" thing up in the dictionary."
+149159,2,14,137000,Homer Simpson,Simpson Living Room,We got one?
+149160,2,15,138000,Marge Simpson,Simpson Living Room,I think it's under the short leg of the couch.
+149161,2,16,143000,Lisa Simpson,Simpson Living Room,"""Id. Along with the ego and the superego, one of three components of the psyche."""
+149162,2,17,143000,Homer Simpson,Simpson Living Room,Get outta here.
+149163,2,18,150000,Bart Simpson,Simpson Living Room,"My turn. ""Kwyjibo."" K-W-Y-J-I-B-O."
+149164,2,19,157000,Bart Simpson,Simpson Living Room,Twenty-two points. Plus triple word score. Plus fifty points for using all my letters. Game's over. I'm outta here.
+149165,2,20,163000,Homer Simpson,Simpson Living Room,"Wait a minute, you little cheater. You're not going anywhere until you tell me what a kwyjibo is."
+149166,2,21,169000,Bart Simpson,Simpson Living Room,"Kwyjibo: Uh, a big, dumb, balding..."
+149167,2,22,171000,Bart Simpson,Simpson Living Room,North American ape... with no chin...
+149168,2,23,175000,Marge Simpson,Simpson Living Room,And a short temper.
+149169,2,24,176000,Homer Simpson,Simpson Living Room,I'll show you a big dumb balding ape!
+149170,2,25,178000,Bart Simpson,Simpson Living Room,"Uh-oh, Kwyjibo on the loose!"
+149172,2,27,190000,Seymour Skinner,Springfield Elementary School Playground,"You, there! No chewing gum on school grounds. In the trash can with it!"
+149173,2,28,195000,Martin Prince,Springfield Elementary School Playground,Principal Skinner! One of my fellow children is vandalizing school property.
+149174,2,29,200000,Seymour Skinner,Springfield Elementary School Playground,Oh? Where?
+149175,2,30,201000,Martin Prince,Springfield Elementary School Playground,"Over there sir, see."
+149176,2,31,204000,Milhouse Van Houten,Springfield Elementary School Playground,"Look out Bart, here comes Skinner!"
+149177,2,32,205000,Bart Simpson,Springfield Elementary School Playground,Yikes.
+149178,2,33,207000,Seymour Skinner,Springfield Elementary School Playground,Umm... Whoever did this is in very deep trouble.
+149179,2,34,214000,Martin Prince,Springfield Elementary School Playground,"And a sloppy speller, too. The preferred spelling of wiener is W-I-E-N-E-R, although E-I is an acceptable ethnic variant."
+149180,2,35,223000,Seymour Skinner,Springfield Elementary School Playground,"Good boy. Boys, let's see your hands."
+149181,2,36,226000,Seymour Skinner,Springfield Elementary School Playground,Mmm-hmm... good... okay... Simpson?
+149182,2,37,233000,Martin Prince,Springfield Elementary School Playground,You might say you caught him red-handed!
+149183,2,38,235000,Seymour Skinner,Springfield Elementary School Playground,"Simpson, you and I are going to have a little talk."
+149184,2,39,239000,Bart Simpson,Springfield Elementary School Playground,"Same time, same place?"
+149185,2,40,241000,Seymour Skinner,Springfield Elementary School Playground,"Yes, in my office after school."
+149186,2,41,243000,Kids,Springfield Elementary School Playground,Oooh!
+149189,2,44,248000,Martin Prince,CLASSROOM,"Bart, I hope you won't bear some sort of simple-minded grudge against me. I was merely trying to fend off the desecration of the school building."
+149190,2,45,256000,Bart Simpson,CLASSROOM,Eat my shorts.
+149191,2,46,256000,Martin Prince,CLASSROOM,Pardon?
+149192,2,47,258000,Edna Krabappel-Flanders,CLASSROOM,"Now, I don't want you to worry, class. These tests will have no effect on your grades. They merely determine your future social status and financial success. If any."
+149193,2,48,266000,Martin Prince,CLASSROOM,"Mrs. Krabappel, isn't Bart supposed to face the window so he won't be tempted to look at his neighbor's paper?"
+149194,2,49,271000,Edna Krabappel-Flanders,CLASSROOM,"You're right, Martin. Bart?"
+149195,2,50,274000,Edna Krabappel-Flanders,CLASSROOM,Remember to visualize the complex problems. And relax. The test will start... NOW!
+149196,2,51,288000,Bart Simpson,CLASSROOM,"At seven-thirty a.m. an express train traveling sixty miles an hour leaves Santa Fe bound for Phoenix, five hundred and twenty miles away."
+149197,2,52,288000,Edna Krabappel-Flanders,CLASSROOM,"Shhhhh! Visualize it, Bart!"
+149198,2,53,298000,Bart Simpson,CLASSROOM,At the same time a local train traveling thirty miles an hour and carrying forty passengers leaves Phoenix bound for Santa Fe.
+149199,2,54,306000,Bart Simpson,CLASSROOM,It's eight cars long and always carries the same number of passengers in each car.
+149200,2,55,312000,Bart Simpson,CLASSROOM,"An hour later, a number of passengers equal to half the number of minutes past the hour get off, but three times as many plus six get on."
+149201,2,56,312000,Bart Simpson,CLASSROOM,Oof!
+149202,2,57,320000,Bart Simpson,CLASSROOM,"At the second stop, half the passengers plus two get off, but twice as many get on as got on at the first stop."
+149203,2,58,320000,Conductor,CLASSROOM,"Ticket, please."
+149204,2,59,331000,Bart Simpson,CLASSROOM,I don't have a ticket.
+149205,2,60,333000,Conductor,CLASSROOM,"Come with me, boy."
+149206,2,61,335000,Conductor,CLASSROOM,"We've got a stowaway, sir."
+149114,2,62,337000,Bart Simpson,CLASSROOM,I'll pay! How much?
+149207,2,63,339000,Martin Prince,CLASSROOM,Twice the fare from Tucson to Flagstaff minus two thirds of the fare from Albuquerque to El Paso.
+149208,2,64,355000,Bart Simpson,CLASSROOM,Yaaaaahhh!
+149209,2,65,355000,Edna Krabappel-Flanders,CLASSROOM,"Bart, there are students in this class with a chance to do well. Will you stop bothering them?"
+149210,2,66,361000,Martin Prince,CLASSROOM,"He's not bothering me, Mrs. Krabappel. I'm finished. May I go outside and read under a tree?"
+149211,2,67,366000,Edna Krabappel-Flanders,CLASSROOM,"Certainly, Martin."
+149212,2,68,378000,Edna Krabappel-Flanders,CLASSROOM,"What are you looking at, Bart? Are those naughty dogs back again?"
+149213,2,69,389000,Edna Krabappel-Flanders,CLASSROOM,"You have twenty minutes, class."
+149215,2,71,398000,Marge Simpson,Springfield Elementary School Playground,"He's a good boy now, and he's getting better, and sometimes even the best sheep stray from the flock and need to be hugged extra hard."
+149216,2,72,405000,Homer Simpson,Springfield Elementary School Playground,"That's exactly the kind of crapola that's lousing him up. Hey, look at this! ""I am a weiner."" He sure is!"
+149218,2,74,415000,Secretary,Skinner's Office,Mr. and Mrs. Simpson are here.
+149219,2,75,417000,Seymour Skinner,Skinner's Office,Send them in.
+149220,2,76,418000,Marge Simpson,Skinner's Office,"Hello again, Principal Skinner."
+149221,2,77,420000,Homer Simpson,Skinner's Office,"What have you done this time, boy?"
+149222,2,78,422000,Seymour Skinner,Skinner's Office,"I caught your son defacing school property this morning. We estimate the damage at seventy-five dollars and, frankly, we think it's terribly unfair that other taxpayers should foot the bill."
+149223,2,79,431000,Homer Simpson,Skinner's Office,"Yeah, it's a crummy system, but what are you gonna do?"
+149224,2,80,435000,Homer Simpson,Skinner's Office,"Oh, no. He can't mean that."
+149225,2,81,437000,Homer Simpson,Skinner's Office,My wife thinks you want me to pay for it.
+149226,2,82,440000,Seymour Skinner,Skinner's Office,That was the idea.
+149227,2,83,441000,Homer Simpson,Skinner's Office,Oh.
+149228,2,84,443000,Seymour Skinner,Skinner's Office,"By itself something like this might not call for an extreme penalty...but this is not an isolated incident. Bart's behavior is unruly. He's frequently absent from school, then gives teachers pathetic excuse notes...that are obviously childish forgeries when compared to..."
+149229,2,85,462000,Seymour Skinner,Skinner's Office,"Well, at any rate, it is my reluctant decision --"
+149230,2,86,467000,Secretary,Skinner's Office,"Mr. Skinner, Doctor Pryor is here to see you. He says it's urgent."
+149231,2,87,470000,Seymour Skinner,Skinner's Office,Send him in.
+149233,2,88,471000,Seymour Skinner,Skinner's Office,"Mr. and Mrs. Simpson, this our district psychiatrist, Dr. J. Loren Pryor."
+149234,2,89,477000,Homer Simpson,Skinner's Office,What do we need a psychiatrist for? We know our kid is nuts.
+149235,2,90,480000,Dr. J. Loren Pyror,Skinner's Office,"Oh, on the contrary. I have some very exciting news for all of us. This aptitude test we administered this morning has revealed that young Bart here is what we call a ""gifted child""."
+149236,2,91,484000,Homer Simpson,Skinner's Office,A what?
+149237,2,92,490000,Dr. J. Loren Pyror,Skinner's Office,"Your son is a genius, Mr. Simpson."
+149238,2,93,491000,Marge Simpson,Skinner's Office,Bart?
+149239,2,94,492000,Homer Simpson,Skinner's Office,This lunkhead?
+149240,2,95,493000,Seymour Skinner,Skinner's Office,Impossible.
+149241,2,96,494000,Dr. J. Loren Pyror,Skinner's Office,"No, no, we're quite certain. The child is not supposed to know his own I.Q., of course, but, uh, you can see it's beyond the range of any doubt."
+149242,2,97,499000,Homer Simpson,Skinner's Office,Nine hundred and twelve?
+149243,2,98,502000,Dr. J. Loren Pyror,Skinner's Office,"Uh, no, you have it upside down. It's two hundred and sixteen."
+149244,2,99,505000,Homer Simpson,Skinner's Office,Oh.
+149245,2,100,506000,Dr. J. Loren Pyror,Skinner's Office,That's still amazingly high.
+149246,2,101,508000,Dr. J. Loren Pyror,Skinner's Office,"Tell me, Bart, are you ever bored in school?"
+149247,2,102,511000,Bart Simpson,Skinner's Office,"Oh, you bet."
+149248,2,103,513000,Dr. J. Loren Pyror,Skinner's Office,Um-hmmm... Ever feel a little frustrated?
+149249,2,104,514000,Bart Simpson,Skinner's Office,"All the time, sir."
+149250,2,105,516000,Dr. J. Loren Pyror,Skinner's Office,Uh-huh. Do you ever dream of leaving your class to pursue your own intellectual development on an independent basis?
+149251,2,106,523000,Bart Simpson,Skinner's Office,"Wow, it's like you're readin' my mind, man."
+149252,2,107,526000,Dr. J. Loren Pyror,Skinner's Office,"A-ha... You see, when a child with Bart's intellect is forced to slow down to the pace of a normal person, he's probably going to lash out in ways like these."
+149253,2,108,534000,Seymour Skinner,Skinner's Office,I think we should re-test him.
+149254,2,109,536000,Dr. J. Loren Pyror,Skinner's Office,"No, no, I think we should move him to another school."
+149255,2,110,538000,Seymour Skinner,Skinner's Office,Oh. Better yet.
+149256,2,111,539000,Dr. J. Loren Pyror,Skinner's Office,"Bart, we'd like you to try a kind of school that doesn't rely on grades and rules and bells and buzzers. A school without walls. Where you do as much or as little of the assignments as you feel you need to. Does that sound good, Bart?"
+149257,2,112,553000,Bart Simpson,Skinner's Office,"Sign me up, Doc."
+149259,2,113,554000,Dr. J. Loren Pyror,Skinner's Office,"Excellent. We're all set, then. Here's all the information you need. Show up around nine-ish. Mr. and Mrs. Simpson, congratulations once again."
+149260,2,114,562000,Seymour Skinner,Skinner's Office,I think we're all in a mood to celebrate.
+149261,2,115,564000,Homer Simpson,Skinner's Office,"Doc, this is all too much. I mean, my son a genius -- how does it happen?"
+149262,2,116,569000,Dr. J. Loren Pyror,Skinner's Office,"Well, genius-level intelligence is usually the result of heredity and environment..."
+149263,2,117,569000,Dr. J. Loren Pyror,Skinner's Office,"Uh... although, in some cases it's a total mystery."
+149265,2,119,584000,Bart Simpson,Simpson Home,"Aw, come on, Mom."
+149266,2,120,586000,Marge Simpson,Simpson Home,"You look very intelligent, dear."
+149267,2,121,588000,Bart Simpson,Simpson Home,No way.
+149268,2,122,592000,Homer Simpson,Simpson Home,"How 'bout a tie, son? Everybody knows boy geniuses wear ties."
+149269,2,123,595000,Bart Simpson,Simpson Home,"You're stifling my creativity, Dad."
+149270,2,124,597000,Homer Simpson,Simpson Home,"Sorry, boy."
+149271,2,125,599000,Marge Simpson,Simpson Home,"Bart, this is a big day for you. Why don't you eat something a little more nutritious?"
+149272,2,126,602000,Homer Simpson,Simpson Home,"Nonsense, Marge! Frosty Krusty Flakes are what got him where he is today."
+149273,2,127,606000,Homer Simpson,Simpson Home,"It could be one of these chemicals here that makes him so smart. Lisa, maybe you should try some of this."
+149274,2,128,612000,Marge Simpson,Simpson Home,Homer!
+149275,2,129,613000,Homer Simpson,Simpson Home,"I'm just saying, why not have two geniuses in the family? Sort of a spare in case Bart's brain blows up."
+149276,2,130,619000,Lisa Simpson,Simpson Home,"I don't care what that stupid test says, Bart. You're a dimwit."
+149277,2,131,622000,Bart Simpson,Simpson Home,"Maybe so, but from now on, this dimwit is on Easy Street."
+149279,2,133,628000,Bart Simpson,Homer's Car,"No rush, Dad. Take the scenic route."
+149280,2,134,630000,Homer Simpson,Homer's Car,Gotcha!
+149283,2,137,640000,Bart Simpson,Springfield Elementary School,"Oh, no. Ties."
+149284,2,138,642000,Homer Simpson,Springfield Elementary School,"Don't worry son, you can have mine. Here, let me show you how to put on a tie."
+149285,2,139,646000,Homer Simpson,Springfield Elementary School,The hook goes over the top and these things go in there.
+149286,2,140,649000,Bart Simpson,Springfield Elementary School,"Thanks, Dad."
+149287,2,141,654000,Bart Simpson,Springfield Elementary School,You kissed me.
+149289,2,142,656000,Homer Simpson,Springfield Elementary School,"Well, there is nothing wrong with a father kissing his son, I think. Now go on, boy, and pay attention, because if you do, one day you may achieve something that we Simpsons have dreamed about for generations. You may outsmart someone."
+149290,2,143,675000,Ms. Melon,Springfield Elementary School,"You must be Bart Simpson. I'm Ms. Melon , your learning coordinator."
+149291,2,144,683000,Ms. Melon,Springfield Elementary School,"Let me say right at the start that we have one rule here: Make your own rules. If you feel sleepy, take a nap. If you get bored, feel free to take out a book and start reading."
+149292,2,145,691000,Bart Simpson,Springfield Elementary School,"What should I read, ma'am?"
+149293,2,146,692000,Ms. Melon,Springfield Elementary School,"Why, anything you want, Bart."
+149294,2,147,697000,Bart Simpson,Springfield Elementary School,Ohhh!
+149295,2,148,699000,Ms. Melon,Springfield Elementary School,A comic book. How did this get mixed in here? We used it last week as a prop in a film we made about illiteracy.
+149296,2,149,707000,Ms. Melon,Springfield Elementary School,"Bart, these are the students who will share your work area. This is Ethan Foley."
+149297,2,150,711000,Ethan Foley,Springfield Elementary School,"O Memsahib Bart, Rabbi has memo."
+149298,2,151,715000,Bart Simpson,Springfield Elementary School,What?
+149299,2,152,716000,Ms. Melon,Springfield Elementary School,"Ethan is very good with palindromes -- you know, sentences spelled the same backwards and forwards. And this is Sidney Swift."
+149300,2,153,723000,Sydney,Springfield Elementary School,"""Trab, ing norm doog."""
+149301,2,154,725000,Bart Simpson,Springfield Elementary School,What's your problem?
+149302,2,155,726000,Ms. Melon,Springfield Elementary School,"Oh, don't mind Sidney. He's just speaking in backwards phonetics today. He said ""Good morning, Bart"". And this is Cecile Shapiro."
+149303,2,156,734000,Cecile Shapiro,Springfield Elementary School,"Hi, Bart."
+149304,2,157,735000,Bart Simpson,Springfield Elementary School,Cool. Hamsters! What are their names?
+149305,2,158,738000,Cecile Shapiro,Springfield Elementary School,Hamster number one has been infected with a staphylococci virus. Hamster number two is the control hamster.
+149306,2,159,744000,Bart Simpson,Springfield Elementary School,"Hi, li'l control hamster."
+149307,2,160,746000,Ms. Melon,Springfield Elementary School,"I wouldn't get too attached, Bart. We're dissecting him next week."
+149308,2,161,749000,Ms. Melon,Springfield Elementary School,"Discover your desks, people."
+149309,2,162,751000,Ms. Melon,Springfield Elementary School,"Now, let's all welcome the newest member of our collective experience, Bart Simpson."
+149310,2,163,759000,Ms. Melon,Springfield Elementary School,"And now we can continue our debate from yesterday. When we left off, Calvin and Tanya were arguing that free will is an illusion."
+149313,2,164,765000,Ian,Springfield Elementary School,"If you ask me, humankind has freedom, a freedom fraught with paradoxes. Freud shows how childhood shapes our subconscious mind, but this helps us to think for ourselves."
+149314,2,165,776000,Ms. Melon,Springfield Elementary School,"Very good, Ian. Does anyone else have an example of a paradox?"
+149315,2,166,782000,Ethan Foley,Springfield Elementary School,"Without law and order, man has no freedom."
+149316,2,167,785000,Cecile Shapiro,Springfield Elementary School,"If you want peace, you must prepare for war."
+149317,2,168,788000,Ms. Melon,Springfield Elementary School,"Um-hmm, um-hmm... Well, it seems the smartest child in the class is also the quietest. Bart, what other paradoxes affect our lives?"
+149318,2,169,800000,Bart Simpson,Springfield Elementary School,"Well... you're damned if you do, and you're damned if you don't."
+149319,2,170,805000,Ms. Melon,Springfield Elementary School,"Well, I guess that would be a paradox, too. Thank you, Bart."
+149320,2,171,811000,Bart Simpson,Springfield Elementary School,Whew!
+149321,2,172,815000,Calvin,Springfield Elementary School,"Tell you what, Bart! I'll trade you the weight of a bowling ball on the eighth moon of Jupiter from my lunch for the weight of a feather on the second moon of Neptune from your lunch."
+149322,2,173,825000,Bart Simpson,Springfield Elementary School,"Well, okay."
+149323,2,174,826000,Calvin,Springfield Elementary School,There you go.
+149324,2,175,829000,Sydney,Springfield Elementary School,I will trade you one thousand picoliters of my milk for four gills of yours.
+149325,2,176,833000,Bart Simpson,Springfield Elementary School,"Well, all right."
+149326,2,177,835000,Sydney,Springfield Elementary School,Anything you say.
+149327,2,178,838000,Ian,Springfield Elementary School,"Uh, Bart, would you wager your cupcake against my..."
+149328,2,179,842000,Bart Simpson,Springfield Elementary School,Save your breath.
+149329,2,180,843000,Ethan Foley,Springfield Elementary School,What do you think of the new kid?
+149330,2,181,846000,Ian,Springfield Elementary School,A rather mediocre genius.
+149331,2,182,848000,Calvin,Springfield Elementary School,"Yes, not very bright at all."
+149333,2,184,858000,Homer Simpson,Simpson Home,"So, how was it?"
+149334,2,185,859000,Bart Simpson,Simpson Home,Os-os.
+149335,2,186,860000,Homer Simpson,Simpson Home,What?
+149336,2,187,861000,Bart Simpson,Simpson Home,That's backwards for so-so.
+149337,2,188,862000,Homer Simpson,Simpson Home,"Wow! What are you readin' there? Comic books? Uh, guess you don't want to overheat the old noggin, eh?"
+149338,2,189,869000,Homer Simpson,Simpson Home,"Tell you what: To celebrate your first day of genius school, whaddaya say we go out for a round of frosty chocolate milkshakes?"
+149339,2,190,877000,Bart Simpson,Simpson Home,All righty!
+149340,2,191,878000,Marge Simpson,Simpson Home,"Bart, I feel so bad for going so many years without... uh... hmmm... What's that word where you encourage something to grow?"
+149149,2,192,890000,Lisa Simpson,Simpson Home,Nurturing.
+149288,2,193,891000,Marge Simpson,Simpson Home,"Nurturing your brilliant brain, so I got tickets to the opera tonight. Hurry up, get dressed! It starts at eight."
+149311,2,194,897000,Bart Simpson,Simpson Home,"Oh, Mom! Not tonight."
+149258,2,195,899000,Homer Simpson,Simpson Home,"Come on, Bart, your mother's only trying to help. So go ahead and enjoy the show."
+149312,2,196,902000,Marge Simpson,Simpson Home,"Homer, you're going, too."
+149341,2,197,903000,Homer Simpson,Simpson Home,But I'm not a genius. Why should I suffer?
+149343,2,199,909000,Bart Simpson,Opera House,"Hey, Lees, keep an eye out for the guy with the peanuts."
+149344,2,200,913000,Marge Simpson,Opera House,"There's no guy with peanuts, dear."
+149345,2,201,915000,Homer Simpson,Opera House,Jeez. No beer... no opera dogs...
+149346,2,202,917000,Marge Simpson,Opera House,Shhh!
+149347,2,203,926000,Bart Simpson,Opera House,"""Toreador, oh, don't spit on the floor / Please use the cuspidor, that's what it's for."""
+149348,2,204,934000,Marge Simpson,Opera House,"Bart, stop fooling around. Homer, stop encouraging him."
+149349,2,205,938000,Homer Simpson,Opera House,"Don't stifle the boy, Marge. We're supposed to encourage him."
+149350,2,206,942000,Marge Simpson,Opera House,Shush.
+149351,2,207,964000,Marge Simpson,Opera House,Shhh!
+149352,2,208,972000,Homer Simpson,Opera House,Who's the lard butt?
+149353,2,209,973000,Lisa Simpson,Opera House,He's the bullfighter.
+149354,2,210,975000,Bart Simpson,Opera House,"No way a bull is gonna miss a target that big, man."
+149355,2,211,991000,"Martin Prince, Sr.",Opera House,Who are those people?
+149356,2,212,993000,Homer Simpson,Opera House,P.U. When is this over?
+149357,2,213,997000,Bart Simpson,Opera House,It ain't over till the fat lady sings.
+149358,2,214,999000,Homer Simpson,Opera House,"Is that one fat enough for you, son?"
+149359,2,215,1004000,Homer Simpson,Opera House,Let's go get a burger.
+149361,2,217,1007000,Ms. Melon,CLASSROOM,"So Y equals R cubed over three, and if you determine the rate of change in this curve correctly, I think you will be pleasantly surprised."
+149362,2,218,1021000,Ms. Melon,CLASSROOM,"Well, don't you get it, Bart? Derivative D-Y equals three R squared D R over three, or R squared D R, or R D R R. Hardy-har-har! Get it?"
+149363,2,219,1033000,Bart Simpson,CLASSROOM,"Oh, yeah."
+149365,2,221,1035000,Bart Simpson,OLD SCHOOL,"Hey, guys! Great to see ya."
+149366,2,222,1044000,Milhouse Van Houten,OLD SCHOOL,"Get lost, Poindexter."
+149367,2,223,1046000,Richard,OLD SCHOOL,"Yeah, beat it, Professor."
+149368,2,224,1048000,Lewis Clark,OLD SCHOOL,"Why don't you go build a rocket ship, Brainiac?"
+149370,2,226,1052000,Marge Simpson,Simpson Home,"Well, come on, you two. Don't forget about the film festival."
+149371,2,227,1057000,Bart Simpson,Simpson Home,The what?
+149372,2,228,1058000,Homer Simpson,Simpson Home,"Sorry, Bart. Your mother bought us tickets to a snooty movie directed by some Swedish meatball."
+149373,2,229,1065000,Bart Simpson,Simpson Home,"Oh, no."
+149374,2,230,1068000,Homer Simpson,Simpson Home,"Well, I guess we don't have to do that."
+149375,2,231,1070000,Bart Simpson,Simpson Home,"Um, look Dad, I got something to tell you."
+149376,2,232,1074000,Homer Simpson,Simpson Home,"Can it wait, son? It's getting kinda dark."
+149377,2,233,1078000,Bart Simpson,Simpson Home,"All right, Homer, come on, baby. Right across the plate -- lemme feel the wind."
+149379,2,235,1083000,Bart Simpson,Simpson Home,Whoa! Strike two! Two and two!
+149380,2,236,1086000,Homer Simpson,Simpson Home,"Can you still see the ball, Bart?"
+149381,2,237,1088000,Bart Simpson,Simpson Home,"Don't worry, homeboy, you're not that fast."
+149382,2,238,1091000,Homer Simpson,Simpson Home,"Oh, you don't think so, eh? Well, here comes some real heat."
+149383,2,239,1097000,Bart Simpson,Simpson Home,"Whoa! Yeah, strike three! You're outta there."
+149384,2,240,1100000,Homer Simpson,Simpson Home,"So what was it you wanted to tell me, son?"
+149385,2,241,1103000,Bart Simpson,Simpson Home,"Uh, nothin', Pop."
+149387,2,243,1105000,Ms. Melon,NEW CLASSROOM,"I'm still trying to get you a lab partner, Bart. If we don't get any volunteers soon, I'll assign somebody. Say, what's that? It looks dangerous."
+149388,2,244,1113000,Bart Simpson,NEW CLASSROOM,"Well, it's really pretty top secret, ma'am."
+149389,2,245,1117000,Ms. Melon,NEW CLASSROOM,"All right, keep going. But you do know what happens when you mix acids and bases, right?"
+149390,2,246,1122000,Bart Simpson,NEW CLASSROOM,'Course I do!
+149392,2,248,1128000,Bart Simpson,SCHOOL BUILDING,Sorry.
+149394,2,250,1131000,Dr. J. Loren Pyror,OLD SCHOOL,"Now, Bart, we want to emphasize that nobody's angry about this. We're... we're just concerned. When a young man with a two hundred sixteen I.Q. can't make a simple experiment work, well, it doesn't take a Bart Simpson to figure out that something's wrong. Tell me, is the class moving too slowly for you?"
+149395,2,251,1148000,Bart Simpson,OLD SCHOOL,"Lord, no."
+149396,2,252,1149000,Dr. J. Loren Pyror,OLD SCHOOL,Well then what can we do to make you happy?
+149397,2,253,1151000,Bart Simpson,OLD SCHOOL,I want to go back to my old class.
+149398,2,254,1153000,Dr. J. Loren Pyror,OLD SCHOOL,"Oh, but, Bart, don't you remember the boredom... the ennui... the intellectual malaise?"
+149399,2,255,1159000,Bart Simpson,OLD SCHOOL,"Yeah, well, you know... kinda... but I was thinking I could go undercover."
+149400,2,256,1163000,Dr. J. Loren Pyror,OLD SCHOOL,"Undercover? Bart, I'm intrigued. Go on."
+149401,2,257,1167000,Bart Simpson,OLD SCHOOL,"Well, I could pretend I'm a regular dumb kid. You know... to study them, and all the stuff they do with each other. You know, see what makes them tick."
+149402,2,258,1176000,Dr. J. Loren Pyror,OLD SCHOOL,I see... like Jane Goodall and the chimps.
+149403,2,259,1178000,Bart Simpson,OLD SCHOOL,Yeah.
+149405,2,260,1179000,Dr. J. Loren Pyror,OLD SCHOOL,"Uh-huh, this is most impressive, Bart. You write up your proposal while I talk to Principal Skinner."
+149406,2,261,1184000,Bart Simpson,OLD SCHOOL,Proposal?
+149407,2,262,1186000,Dr. J. Loren Pyror,OLD SCHOOL,"You know, outline your project, what you hope to achieve, what you'll require to do it."
+149408,2,263,1190000,Bart Simpson,OLD SCHOOL,"Gotcha, man."
+149409,2,264,1192000,Bart Simpson,OLD SCHOOL,"""My Proposal"" by Bart Simpson. I want to pretend I am a regular dumb kid... period. By this I hope... oh no... for this I will... um... require... Aw, man!"
+149410,2,265,1221000,Bart Simpson,OLD SCHOOL,"""My Confession"" by Bart Simpson. I am a regular dumb kid... period. I cheated on my intelligence test... period."
+149411,2,266,1230000,Dr. J. Loren Pyror,OLD SCHOOL,"Uh, finished already? Principal Skinner will be very interested to... to..."
+149412,2,267,1242000,Dr. J. Loren Pyror,OLD SCHOOL,"Oh. You know, you misspelled ""confession."""
+149414,2,269,1246000,Lisa Simpson,Simpson Home,"Hey, lookin' good, Bart."
+149415,2,270,1248000,Marge Simpson,Simpson Home,"Bart, what happened?"
+149416,2,271,1250000,Bart Simpson,Simpson Home,I had a little accident in chemistry today.
+149417,2,272,1252000,Homer Simpson,Simpson Home,"Well, I bet it's nothing a little turpentine won't take off. Come on, son."
+149419,2,274,1258000,Homer Simpson,Simpson Back Porch,"Don't be discouraged, son. I bet Einstein turned himself all sorts of colors before he invented the light bulb."
+149420,2,275,1264000,Bart Simpson,Simpson Back Porch,Dad... I gotta tell you something... Hope you won't be too mad...
+149421,2,276,1269000,Homer Simpson,Simpson Back Porch,"What is it, son?"
+149422,2,277,1270000,Bart Simpson,Simpson Back Porch,"I'm not a genius, Dad."
+149423,2,278,1272000,Homer Simpson,Simpson Back Porch,What?
+149424,2,279,1274000,Bart Simpson,Simpson Back Porch,"I cheated on the intelligence test. I'm sorry. But I just want to say that the past few weeks have been great. Me and you have done stuff together, you've helped me out with things, and we're closer than we've ever been. I love you, Dad, and I think if something can bring us that close, it can't possibly be bad."
+149425,2,280,1298000,Homer Simpson,Simpson Back Porch,"Why, you little -- !"
+149426,2,281,1300000,Bart Simpson,Simpson Back Porch,Wuh-oh!
+149428,2,283,1303000,Bart Simpson,Simpson Home,Yaaaaaaaaaaaah!
+149429,2,284,1303000,Marge Simpson,Simpson Home,What's going on up there?
+149430,2,285,1305000,Lisa Simpson,Simpson Home,"I think Bart's stupid again, Mom."
+149431,2,286,1308000,Marge Simpson,Simpson Home,"Oh, well."
+149432,2,287,1311000,Homer Simpson,Simpson Home,You can't stay in there forever!
+149433,2,288,1314000,Bart Simpson,Simpson Home,I can try.
+149434,2,289,1315000,Homer Simpson,Simpson Home,March your butt right out here. Now!
+149435,2,290,1317000,Bart Simpson,Simpson Home,"No way, man!"
+149436,2,291,1319000,Homer Simpson,Simpson Home,"But -- son, if you don't come out I can't ""hug"" you... and ""kiss you""... and make you feel all better."
+149437,2,292,1326000,Bart Simpson,Simpson Home,Do you think I'm dumb enough to fall for that. I'm insulted.

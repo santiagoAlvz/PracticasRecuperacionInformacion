@@ -1,0 +1,242 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+146535,564,1,3000,Lisa Simpson,Simpson Home,Whoa! Looks like our bird house is benefitting from positive word of beak.
+146536,564,2,3000,Lisa Simpson,Simpson Home,A bald eagle!
+146537,564,3,29000,Homer Simpson,Simpson Home,It is!
+146538,564,4,33000,Marge Simpson,Simpson Home,Maybe he's giving those little baby birds some food.
+146540,564,6,42000,Marge Simpson,Simpson Home,"Homer, quick! Get your shooing broom!"
+146541,564,7,44000,Homer Simpson,Simpson Home,"Marge, an eagle is our country's mascot. Fighting him is like kicking George Washington in his wooden nuts!"
+146542,564,8,60000,Homer Simpson,Simpson Home,"This means war! Boy, bring my toupee!"
+146543,564,9,67000,Homer Simpson,Simpson Home,"Go ahead, boy."
+146544,564,10,71000,Milhouse Van Houten,Simpson Home,It's working! It's definitely working!
+146545,564,11,76000,Bart Simpson,Simpson Home,For once we're finally gonna catch that mouse!
+146546,564,12,79000,Bart Simpson,Simpson Home,Gotcha!
+146548,564,13,81000,Homer Simpson,Simpson Home,"Ha-ha! Stupid eagle! It wasn't the mouse we were after, it was you! Marge! Preheat the oven!"
+146551,564,16,93000,Homer Simpson,Bart's Bedroom,You-- get-- out!
+146552,564,17,93000,Homer Simpson,Bart's Bedroom,"I've got him cornered, boy! Bag him up!"
+146554,564,19,103000,Homer Simpson,Bart's Bedroom,"Not so majestic in a trash bag, are ya?!"
+146555,564,20,105000,Homer Simpson,Bart's Bedroom,Oopsie.
+146556,564,21,109000,Homer Simpson,Bart's Bedroom,Seems almost a shame I'm gonna have to bang you against a wall till you die.
+146557,564,22,109000,Lisa Simpson,Bart's Bedroom,No! Let's take the eagle to Shelbyville Animal Rescue. Where you took that injured hummingbird you found on the front lawn.
+146558,564,23,122000,Homer Simpson,Bart's Bedroom,Um...
+146559,564,24,124000,Lisa Simpson,Bart's Bedroom,"Or, maybe we can nurse him back to health and set him free in the wild."
+146560,564,25,128000,Homer Simpson,Bart's Bedroom,"Okay. Bart, think of a name. Make it great. Insanely, unbelievably great!"
+146561,564,26,134000,Bart Simpson,Bart's Bedroom,Squawky?
+146562,564,27,135000,Homer Simpson,Bart's Bedroom,Perfect! Just like when we let you name Maggie.
+146564,564,29,142000,Bart Simpson,Backyard,"Squawky, until I met you, I never thought I could love something bald."
+146565,564,30,148000,Homer Simpson,Backyard,Bye!
+146566,564,31,149000,Marge Simpson,Backyard,We love you!
+146568,564,33,161000,Homer Simpson,Backyard,"Oh my God! Brace yourselves, family. We're about to meet a being with intelligence far beyond ours. Boy, get me my baseball bat."
+146569,564,34,172000,ELON MUSK,Backyard,Hello. I'm Elon Musk.
+146570,564,35,174000,Homer Simpson,Backyard,Die!
+146571,564,36,174000,ELON MUSK,Backyard,What the?!
+146572,564,37,175000,Lisa Simpson,Backyard,Dad no! Elon Musk is possibly the greatest living inventor!
+146573,564,38,180000,Homer Simpson,Backyard,"You're the guy who put wheels on luggage? Oh, bless you! Bless you!"
+146574,564,39,187000,ELON MUSK,Backyard,I'm... I'm not that guy.
+146575,564,40,189000,Lisa Simpson,Backyard,His company perfected electric cars and then gave away the patents! He changed the way Hollywood drives!
+146576,564,41,195000,Homer Simpson,Backyard,"And now he's landed in our yard, on my son's bike and on our mailman's leg."
+146577,564,42,201000,Mailman,Backyard,Honey! Guess who crushed me? I'll give you a hint... his first name is Elon. That's right!
+146579,564,44,209000,Marge Simpson,Simpson Home,"So what brings you to Springfield, Mr. Musk?"
+146581,564,45,211000,ELON MUSK,Simpson Home,"What did bring me to Springfield? Well, to start with, I'm an idea man. It's my raison d'être."
+146582,564,46,216000,Homer Simpson,Simpson Home,"Mmm, raisin detra."
+146583,564,47,223000,ELON MUSK,Simpson Home,I've hit a dry patch. I'm blocked.
+146584,564,48,225000,ELON MUSK,Simpson Home,"In my personal drought, I'm traveling the country, quietly by spaceship, looking for... inspiration."
+146585,564,49,231000,Lisa Simpson,Simpson Home,"That's so sad. Maybe we're the same, two lost ships in the intellectual sea, each of whom could inspire the other to..."
+146586,564,50,238000,Homer Simpson,Simpson Home,"Hey Elon, if you're interested, you could come to the nuclear plant where I work tomorrow."
+146587,564,51,242000,ELON,Simpson Home,I am! And I will!
+146588,564,52,243000,Homer Simpson,Simpson Home,"Great. And if anyone asks where I am, just cover for me."
+146589,564,53,247000,Marge Simpson,Simpson Home,Homer!
+146590,564,54,247000,Homer Simpson,Simpson Home,"Fine. We'll both go. And if anybody asks you something you don't understand, just say, ""protons."""
+146592,564,56,259000,Homer Simpson,Homer's Car,So do you get satellite radio cheaper in space?
+146593,564,57,262000,ELON MUSK,Homer's Car,"Homer, if we're gonna carpool together, there's one thing you have to know."
+146594,564,58,265000,Homer Simpson,Homer's Car,"""Ass, gas or grass, no one rides for free."" It's as old as the Bible."
+146595,564,59,270000,ELON MUSK,Homer's Car,"No, it's that I don't talk to anyone unless they provide the mental stimulation I seek."
+146596,564,60,274000,Homer Simpson,Homer's Car,Ditto.
+146597,564,61,277000,Lisa Simpson,Homer's Car,"Hi, I didn't want to miss one more chance to spend time with Mr. Musk. It is such an honor."
+146598,564,62,284000,Lisa Simpson,Homer's Car,He is. And may I save that paper?
+146599,564,63,291000,Lisa Simpson,Homer's Car,"No ideas? Oh, that's sad."
+146600,564,64,299000,Lisa Simpson,Homer's Car,That's even worse!
+146602,564,66,314000,Homer Simpson,Homer's Car,"Aw, man, I wish those were white meatballs."
+146603,564,67,321000,ELON MUSK,Homer's Car,"Oh wow! That's an idea! White meatballs. Synthetic meat that you can print from your printer. Say something else. Please, now!"
+146604,564,68,327000,Homer Simpson,Homer's Car,"Uh... don't tase me, bro. Chocolate rain!"
+146605,564,69,331000,ELON MUSK,Homer's Car,"Tase... bro... chocolate rain. Use electroplating to remove metal ions from rainwater, making it suitable for drinking!"
+146606,564,70,336000,Homer Simpson,Homer's Car,What about the chocolate?
+146607,564,71,337000,ELON MUSK,Homer's Car,We'll make the device a soothing chocolate color. Brilliant!
+146609,564,72,340000,Lisa Simpson,Homer's Car,"He's taking your Homer-isms and turning them into his own great ideas! This is the most inspirational moment of my life, but, unfortunately, this is my stop."
+146610,564,73,350000,Lisa Simpson,Homer's Car,Bye!
+146611,564,74,352000,ELON MUSK,Homer's Car,"Well, come on, keep throwing things at me."
+146612,564,75,354000,Homer Simpson,Homer's Car,Um...
+146613,564,76,354000,ELON MUSK,Homer's Car,Oh! This is a break! We're-- we're taking a break!
+146614,564,77,362000,Homer Simpson,Homer's Car,I gotcha!
+146615,564,78,363000,ELON MUSK,Homer's Car,You're fun!
+146616,564,79,363000,Homer Simpson,Homer's Car,Well duh!
+146617,564,80,366000,Chief Wiggum,Homer's Car,"Why don't we have fun like that, Lou?"
+146619,564,82,371000,Lou,Homer's Car,"Chief, did anyone ever tell you there's a safety on that gun?"
+146620,564,83,375000,Chief Wiggum,Homer's Car,You mean this thing?
+146621,564,84,376000,Lou,Homer's Car,That's the trigger.
+146624,564,87,380000,ELON MUSK,PLANT,"What are you writing? Share, buddy."
+146625,564,88,382000,Homer Simpson,PLANT,"Suggestion for the ""suggestion box."""
+146626,564,89,384000,ELON MUSK,PLANT,Can anyone make a suggestion?
+146627,564,90,385000,Homer Simpson,PLANT,"Be my guest, but I seriously doubt the old man ever reads 'em."
+146629,564,92,388000,C. Montgomery Burns,Burns's Office,"Suggestion eight thousand, four thirty-two: Nix!"
+146630,564,93,395000,C. Montgomery Burns,Burns's Office,Technically an order...not a suggestion.
+146631,564,94,398000,C. Montgomery Burns,Burns's Office,Installing an M.H.D. Generator would allow the plant to operate at a higher temperature without the tyranny of moving parts. Using conducting plasma as the moving conductor...
+146632,564,95,407000,C. Montgomery Burns,Burns's Office,"Excellent! Clearly the work of Lenny. That's the white one, right?"
+146634,564,97,412000,Waylon Smithers,PLANT,Is this your suggestion?
+146635,564,98,414000,Lenny Leonard,PLANT,"No, no. Mine was rubber mats in the decontamination showers. Also, water in the decontamination showers!"
+146636,564,99,419000,C. Montgomery Burns,PLANT,Never!
+146637,564,100,421000,Waylon Smithers,PLANT,"Good Lord! Sir, you know who that is. The man who's revolutionized the car industry."
+146638,564,101,426000,C. Montgomery Burns,PLANT,Henry Ford! Good to see you. As healthy and vibrant as Detroit itself.
+146639,564,102,431000,Waylon Smithers,PLANT,"No, sir. This is Elon Musk. For some reason he's sharing a console with Homer Simpson."
+146640,564,103,435000,ELON MUSK,PLANT,His mind is as rich as an Italian wedding soup. Homer! What are you thinking now?
+146547,564,104,440000,Homer Simpson,PLANT,"Uh, Pittsburgh thirty-five, Dallas thirty-one!"
+146608,564,105,445000,ELON MUSK,PLANT,"Pittsburgh Steel... Dallas cowboys... robotic cattle herding! Thank you, Homer."
+146641,564,106,451000,ELON MUSK,PLANT,"Sorry, that's something I'm working on so that I don't have to display facial expressions."
+146642,564,107,456000,C. Montgomery Burns,PLANT,"Young man, I look at you and I see myself."
+146643,564,108,460000,C. Montgomery Burns,PLANT,How much would you charge to work for me?
+146644,564,109,462000,ELON MUSK,PLANT,I don't care about the money. The whole monetary system is just a series of interconnected heterogeneous data bases.
+146645,564,110,467000,C. Montgomery Burns,PLANT,Could you... repeat that first part?
+146646,564,111,470000,ELON MUSK,PLANT,I don't care about the money?
+146647,564,112,471000,C. Montgomery Burns,PLANT,"Once more, with feeling!"
+146648,564,113,472000,ELON MUSK,PLANT,I don't care about the money!
+146649,564,114,473000,C. Montgomery Burns,PLANT,"Now, let me feel the vibrations of your lips!"
+146650,564,115,476000,ELON MUSK,PLANT,I-don't-care-about-the-money. And-I-want-you-to-get-your-fingers-out-of-my-mouth.
+146651,564,116,479000,C. Montgomery Burns,PLANT,"Smithers, there's something strange in his mouth."
+146652,564,117,482000,Waylon Smithers,PLANT,It's called moisture.
+146653,564,118,484000,C. Montgomery Burns,PLANT,"Hm, I see."
+146654,564,119,486000,C. Montgomery Burns,PLANT,"Okay, Musk. What do you propose?"
+146655,564,120,488000,ELON MUSK,PLANT,"Well, you'll need to increase the capacity of your plant. You cover the costs, you get a hundred percent of the profits."
+146656,564,121,492000,Homer Simpson,PLANT,"Careful, Elon. He's not as kindly as he appears."
+146657,564,122,497000,ELON MUSK,PLANT,"Now, Burns, what if everything in town not powered by electricity were powered by electricity. The electricity you sell them. Imagine that."
+146658,564,123,504000,C. Montgomery Burns,PLANT,My doctor says I'm not allowed to imagine. So I hired someone to do it for me.
+146659,564,124,509000,Waylon Smithers,PLANT,Send in the imaginer.
+146660,564,125,515000,IMAGINER,PLANT,"Oh, that's fabulous! Oh, my goodness. I can see everything!"
+146661,564,126,519000,C. Montgomery Burns,PLANT,I'm in!
+146662,564,127,520000,IMAGINER,PLANT,"Oh, by the way, Mr. Burns, I haven't been paid in a while."
+146663,564,128,523000,C. Montgomery Burns,PLANT,Here you go. Imagine.
+146664,564,129,525000,IMAGINER,PLANT,"Ooh, Swiss francs! Time to take my wife for a night on the town!"
+146665,564,130,531000,IMAGINER,PLANT,Hey wait a minute!
+146667,564,132,535000,Homer Simpson,Springfield Nuclear Power Plant,So... what kind of lunch do you pack?
+146668,564,133,539000,Homer Simpson,Springfield Nuclear Power Plant,"Wow. Elon, you're like Willie Wonka without the underpaid munchkins."
+146669,564,134,547000,Homer Simpson,Springfield Nuclear Power Plant,"Uh, I'd like to offer you something... but all I've got is coffee... with cream!"
+146670,564,135,553000,Homer Simpson,Springfield Nuclear Power Plant,"Come on, I want cream! Give it up! cream and sugar are one thing too many!"
+146671,564,136,564000,ELON MUSK,Springfield Nuclear Power Plant,Exactly! Exactly! What if we make the cream cup out of sugar so it dissolves in the coffee?
+146672,564,137,569000,Homer Simpson,Springfield Nuclear Power Plant,"Wow. Wow. Between your genius and my nothing, we make a great team. Come on, give me a hug."
+146673,564,138,576000,ELON MUSK,Springfield Nuclear Power Plant,"Sorry, I'm not one for hugging."
+146674,564,139,578000,Homer Simpson,Springfield Nuclear Power Plant,"Well, I'm not one for just talking."
+146675,564,140,595000,Homer Simpson,Springfield Nuclear Power Plant,Does that drone do date nights with the wife?
+146677,564,142,599000,ELON MUSK,Springfield Town Square,"My partner, Montgomery Burns..."
+146679,564,144,603000,ELON MUSK,Springfield Town Square,...and I...
+146681,564,146,605000,ELON MUSK,Springfield Town Square,...have exciting news. Springfield Nuclear has electric solutions to all of your energy needs. The Springfield Hyperloop...electrifying the school to replace the old power source -- Willie pushing a wheel...
+146683,564,148,625000,ELON MUSK,Springfield Elementary School Basement,"...and my passion project, the Glayvinator!"
+146684,564,149,627000,Professor Jonathan Frink,Springfield Elementary School Basement,You -- you have a Glayvinator too?! Is it... um... uh... patent pending?
+146685,564,150,632000,ELON MUSK,Springfield Elementary School Basement,Patent granted!
+146686,564,151,633000,Professor Jonathan Frink,Springfield Elementary School Basement,All the years of glayvinning in my basement for naught! I'm a failure.
+146687,564,152,637000,ELON MUSK,Springfield Elementary School Basement,"Ah yes, everyone's been there."
+146688,564,153,639000,Professor Jonathan Frink,Springfield Elementary School Basement,You have those feelings too!
+146689,564,154,640000,ELON MUSK,Springfield Elementary School Basement,Of course not.
+146690,564,155,642000,Professor Jonathan Frink,Springfield Elementary School Basement,If I knew how to make a fist I'd hit you!
+146691,564,156,644000,C. Montgomery Burns,Springfield Elementary School Basement,"This is wonderful, Smithers. For once in my life something's going my way."
+146692,564,157,648000,Waylon Smithers,Springfield Elementary School Basement,I'm not so sure.
+146693,564,158,649000,C. Montgomery Burns,Springfield Elementary School Basement,"Oh, another visit from Mr. Worrywart."
+146694,564,159,652000,Waylon Smithers,Springfield Elementary School Basement,I don't trust Musk. Anyone with that much money has a darkness in his soul.
+146695,564,160,656000,C. Montgomery Burns,Springfield Elementary School Basement,Says you!
+146698,564,163,668000,Waylon Smithers,Burns Manor,Mr. Burns... Mr. Burns...
+146700,564,164,672000,Waylon Smithers,Burns Manor,"Sir, Musk's ideas sound great. Too great. We're meant for wretched lives. We should pass on this. And before you reply, remember: I've never let you down."
+146701,564,165,681000,C. Montgomery Burns,Burns Manor,"You know what I'm going to say, right?"
+146702,564,166,682000,Waylon Smithers,Burns Manor,Release the...
+146703,564,167,682000,C. Montgomery Burns,Burns Manor,"I was going to say ""get out,"" but your idea sounds better."
+146704,564,168,686000,Waylon Smithers,Burns Manor,Can you give me a ten second head start?
+146705,564,169,688000,C. Montgomery Burns,Burns Manor,Of course.
+146706,564,170,689000,C. Montgomery Burns,Burns Manor,"One, two, three!"
+146707,564,171,692000,C. Montgomery Burns,Burns Manor,Not on my carpet!
+146708,564,172,696000,Kent Brockman,Burns Manor,"Attention fans of ""The Little Rascals"": the last of them died today in Palm Springs. Now it's time for traffic with Arnie Pye."
+146709,564,173,704000,Arnie Pye,Burns Manor,"Nothing to report, Kent. Since Elon Musk gave everyone self-driving cars, there hasn't been a single accident."
+146710,564,174,710000,Kent Brockman,Burns Manor,"Well, you be careful up there, Arnie."
+146711,564,175,713000,Arnie Pye,Burns Manor,No need! Mr. Musk gave me a self-flying chopper!
+146712,564,176,717000,Arnie Pye,Burns Manor,Where's Arnie? Now I can get as loaded as I want. Which is pretty damn loaded!
+146713,564,177,724000,Arnie Pye,Burns Manor,"Oh boy! ELON, ELON YOU'RE MY GUY"
+146715,564,179,728000,Homer Simpson,Springfield,SINCE YOU CAME DOWN FROM THE SKY
+146716,564,180,736000,Homer Simpson,Springfield,"Car, go park at work so people think I'm there."
+146718,564,182,744000,Car,Moe's Tavern,Force of habit.
+146720,564,184,748000,Marge Simpson,Simpson Home,"Car, wake Grampa."
+146721,564,185,753000,Grampa Simpson,Simpson Home,Thank you.
+146722,564,186,755000,Lisa Simpson,Simpson Home,"Bart, what are you doing?"
+146723,564,187,764000,Bart Simpson,Simpson Home,Disable auto-drive.
+146724,564,188,768000,Lisa Simpson,Simpson Home,Foolish boy. You'll never guess Elon Musk's master password.
+146725,564,189,772000,Bart Simpson,Simpson Home,"Musk rulez. With a ""z."""
+146726,564,190,772000,Car,Simpson Home,Password verified. Manual control enabled.
+146729,564,193,791000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Welcome, friends. I've invited you here to share in our first quarterly profit report. I'm sure you're all eager to hear how much richer I am. Now, to end the suspense: Elon?"
+146730,564,194,801000,ELON MUSK,Springfield Nuclear Power Plant,"Thank you, Monty. At our current rate..."
+146731,564,195,803000,C. Montgomery Burns,Springfield Nuclear Power Plant,Yes.
+146699,564,196,804000,ELON MUSK,Springfield Nuclear Power Plant,...assuming a linear growth model...
+146580,564,197,806000,C. Montgomery Burns,Springfield Nuclear Power Plant,Of course.
+146732,564,198,807000,ELON MUSK,Springfield Nuclear Power Plant,...we are losing roughly fifty million dollars a quarter.
+146733,564,199,809000,ELON MUSK,Springfield Nuclear Power Plant,"Just remember, our purpose is to show the planet how to save itself..."
+146734,564,200,813000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, the planet. I adore the planet. And do you know my favorite part of the planet? Gravity!"
+146735,564,201,820000,ELON MUSK,Springfield Nuclear Power Plant,"There are no trap doors on this podium, Burns. You just started the PowerPoint presentation."
+146736,564,202,830000,C. Montgomery Burns,Springfield Nuclear Power Plant,"No, no, no! Musk, you tricked me!"
+146737,564,203,833000,ELON MUSK,Springfield Nuclear Power Plant,Not a trick. We sacrifice now to take care of the future. In a way totally determined by me.
+146738,564,204,837000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, all I wanted was to make obscene profits in the last year of my life and leave it to no one. Why does God hate dreamers?"
+146739,564,205,849000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Due to recent fluctuations in my judgment, and the once-in-a-lifetime mistake of trusting another human being, I am saddened to announce massive layoffs."
+146740,564,206,858000,Lenny Leonard,Springfield Nuclear Power Plant,Who will pay for my radiation sickness treatments?
+146741,564,207,860000,C. Montgomery Burns,Springfield Nuclear Power Plant,Not my concern!
+146742,564,208,862000,Carl Carlson,Springfield Nuclear Power Plant,But Musk was our savior!
+146743,564,209,863000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Your so-called ""savior"" isn't interested in saving anything but the world. Bah!"
+146745,564,211,868000,Kent Brockman,CHANNEL SIX NEWS DESK,"Burns' layoffs have thrown the city into a new depression. Marked by the singing of songs from the old depression! If you're old enough to have suffered then and now, why don't you sing along!"
+146747,564,213,878000,Carl Carlson,HIGH-TECH SKYROCKET FACTORY,NOW THE RAIN'S A-FALLIN'/ HEAR THE TRAIN'S A CALLIN'...
+146748,564,214,884000,Workers,HIGH-TECH SKYROCKET FACTORY,WHOOEE!
+146749,564,215,887000,Carl Carlson,HIGH-TECH SKYROCKET FACTORY,MY MAMA DONE TOLD ME
+146750,564,216,889000,Carl Carlson,HIGH-TECH SKYROCKET FACTORY,HEAR THAT LONESOME WHISTLE / BLOWIN' 'CROSS THE TRESTLE...
+146751,564,217,896000,Workers,HIGH-TECH SKYROCKET FACTORY,WHOOEE!
+146752,564,218,898000,Carl Carlson,HIGH-TECH SKYROCKET FACTORY,MY MAMA DONE TOLD ME...
+146753,564,219,900000,Workers,HIGH-TECH SKYROCKET FACTORY,A-WHOOEE-AH-WHOOEE...
+146754,564,220,901000,Carl Carlson,HIGH-TECH SKYROCKET FACTORY,OL' CLICKETY-CLACK'S A-ECHOIN' / BACK THE BLUES IN THE NIGHT
+146755,564,221,911000,Professor Jonathan Frink,HIGH-TECH SKYROCKET FACTORY,My final invention...a pill that removes all grief.
+146757,564,223,924000,Professor Jonathan Frink,HIGH-TECH SKYROCKET FACTORY,"Oh my God, it attracts women too."
+146758,564,224,927000,ELON MUSK,HIGH-TECH SKYROCKET FACTORY,You're welcome! You're welcome! You're welcome!
+146759,564,225,928000,ELON MUSK,HIGH-TECH SKYROCKET FACTORY,You're welllcome...
+146760,564,226,932000,Homer Simpson,HIGH-TECH SKYROCKET FACTORY,You really came back from that Tommy John surgery.
+146761,564,227,936000,DOLPH,HIGH-TECH SKYROCKET FACTORY,Tell Musk there's more where that came from.
+146762,564,228,938000,Homer Simpson,HIGH-TECH SKYROCKET FACTORY,More of what?
+146765,564,231,938000,C. Montgomery Burns,Burns Manor,"Smithers, the hounds feel terrible for what they did. And good news, one pooped out your ear! We'll dip it in iodine and it's just like new."
+146767,564,233,951000,C. Montgomery Burns,Burns Manor,"Also, I'm sorry I couldn't find the records of the shots the hounds had, which in turn led to all those painful injections in your abdomen."
+146769,564,235,958000,C. Montgomery Burns,Burns Manor,"Now, the reason I'm here."
+146770,564,236,960000,C. Montgomery Burns,Burns Manor,"I've made the calls. I'm going to have Elon Musk killed. And I'll give you a little extra morphine, friend."
+146772,564,238,970000,C. Montgomery Burns,Burns Manor,"Oh, right, that's a trap door."
+146775,564,241,976000,Marge Simpson,Simpson Home,What's wrong Homer? Is it that all your friends are out of work and it's kind of your fault?
+146776,564,242,981000,Homer Simpson,Simpson Home,"No. It's Elon. I don't care how much he likes me, I don't wanna be friends with him anymore. None of his pie in the sky ideas ever work out. Sky pies are lie pies! Of all the planets in the universe, why did he have to come to this one?"
+146777,564,243,996000,Homer Simpson,Simpson Home,How do you break up with a guy?
+146778,564,244,998000,Marge Simpson,Simpson Home,"Here's what you do. You just take his hand, look in his eyes and say ""I don't want to be with you anymore."""
+146779,564,245,999000,Homer Simpson,Simpson Home,"Wow, you're good at that."
+146780,564,246,1008000,Marge Simpson,Simpson Home,It's gotten me out of a lot of gym memberships.
+146782,564,248,1015000,Waylon Smithers,Springfield,"Sir, I have my concerns about the team of hit men you've assembled. They seem a little... long in the tooth."
+146783,564,249,1021000,C. Montgomery Burns,Springfield,Nonsense! Just because a man can't see or hold his hand steady doesn't make him any less of a marksman.
+146786,564,251,1027000,ELON MUSK,Springfield Nuclear Power Plant,...a yoga mat that rolls itself up... silent Velcro... baseball tickets that guide you to your seat...
+146788,564,253,1039000,C. Montgomery Burns,ROOF NEAR THE POWER PLANT,Sweet Columbia Exposition. Musk lives!
+146789,564,254,1042000,Waylon Smithers,ROOF NEAR THE POWER PLANT,"But, uh, three of your hit men don't. Recoil was pretty bad."
+146791,564,256,1046000,Homer Simpson,Burns's Office,Oh my God! Oh my God! You saved my life. Which is gonna make what I'm about to say even more awkward...
+146792,564,257,1053000,ELON MUSK,Burns's Office,"Whatever you want we'll make it work. Right, Homer?"
+146793,564,258,1056000,Homer Simpson,Burns's Office,"Elon, Elon, Elon! I want to say something to you and I don't want you to be inspired by it. I want you to listen."
+146794,564,259,1063000,ELON MUSK,Burns's Office,No!!!
+146795,564,260,1065000,Homer Simpson,Burns's Office,I don't want to be with you anymore.
+146796,564,261,1067000,ELON MUSK,Burns's Office,Can I ask why?
+146797,564,262,1069000,Homer Simpson,Burns's Office,"I could say it's the being shot at or the flat, emotionless way you talk or the fact that PayPal was my idea and I was just about to do it when you came out with it... but really it's that this town isn't ready for you, and neither am I."
+146798,564,263,1083000,ELON MUSK,Burns's Office,It's okay. I'll be fine.
+146799,564,264,1086000,Homer Simpson,Burns's Office,It's on your face too!
+146800,564,265,1089000,Homer Simpson,Burns's Office,"Well, I've saved you one last prize from the Cracker Jack box that is my brain. Use it as you will."
+146801,564,266,1097000,Homer Simpson,Burns's Office,On a Miami Dolphins helmet the little dolphin is also wearing a helmet.
+146802,564,267,1101000,ELON MUSK,Burns's Office,Why are they always the most beautiful just when they're breaking up with you?
+146803,564,268,1105000,ELON MUSK,Burns's Office,I think it's time to tell my luggage to self-pack.
+146806,564,271,1105000,Marge Simpson,Simpson Backyard,"Goodbye, Elon. Our town will never forgive you!"
+146807,564,272,1122000,Bart Simpson,Simpson Backyard,Thanks for the real working light saber!
+146808,564,273,1126000,Bart Simpson,Simpson Backyard,Ay carumba!
+146809,564,274,1135000,Lisa Simpson,Simpson Backyard,I just wanted to see if there was a better life. Even for a little bit.
+146810,564,275,1140000,Homer Simpson,Simpson Backyard,When you're sixteen I'll drive you to Cincinnati. And you'll see what there is to see.
+146811,564,276,1145000,Lisa Simpson,Simpson Backyard,"Mr. Musk, before you go, is there anything you could do to give a little girl hope that the world of the future won't be as grim as all our current movies forecast?"
+146813,564,278,1158000,Lisa Simpson,Simpson Home,I guess humanity wants its change one birdhouse at a time.
+146814,564,279,1167000,Lisa Simpson,Simpson Home,"Hm. For a man who likes electric cars, he sure burns a lot of rocket fuel."
+146815,564,280,1174000,Lisa Simpson,Simpson Home,"What's wrong, Dad?"
+146816,564,281,1175000,Homer Simpson,Simpson Home,Nothing.
+146819,564,284,1179000,ELON MUSK,ROCKET,Elon's log. Earthdate 25 January 2015. I have left Springfield forever. But there are some things I will definitely miss.
+146820,564,285,1189000,Homer Simpson,ROCKET,The little dolphin is also wearing a helmet... Wearing a helmet... Wearing a helmet..
+146821,564,286,1196000,ELON MUSK,ROCKET,"I never thought I'd say this, but sometimes holograms miss the point."

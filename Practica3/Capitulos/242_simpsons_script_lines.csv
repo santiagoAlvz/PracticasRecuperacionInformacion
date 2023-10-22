@@ -1,0 +1,250 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+59320,242,1,85000,Homer Simpson,Simpson Home,Fire! Fire!
+59321,242,2,86000,Homer Simpson,Simpson Home,Fire!
+59322,242,3,87000,Lisa Simpson,Simpson Home,"Oh, no!"
+59323,242,4,89000,Lisa Simpson,Simpson Home,What do I save?!
+59324,242,5,93000,Lisa Simpson,Simpson Home,Trophies! Trophies! Attendance!
+59325,242,6,97000,Marge Simpson,Simpson Home,Don't panic! Don't panic! Don't panic!
+59326,242,7,101000,Homer Simpson,Simpson Home,Get in! Move it! This is not a drill!
+59328,242,9,106000,Homer Simpson,Simpson Car,"Good work, everyone. We're sure to be first in line for Duff Days."
+59329,242,10,110000,Marge Simpson,Simpson Car,You set off the smoke alarm to rush us to a beer festival?
+59330,242,11,115000,Homer Simpson,Simpson Car,I know. I'm a character. Now a little beer music to get in the mood.
+59331,242,12,125000,Homer Simpson,Simpson Car,Looking for these? Dee-dee-dee.
+59333,242,18,143000,Surly,Duff Days Entrance,Drink Duff responsibly. Drink Duff responsibly.
+59334,242,19,147000,Chipper Guide,Duff Days Entrance,"Now, which one of you is our designated driver?"
+59335,242,20,151000,Homer Simpson,Duff Days Entrance,"Twist off, dammit!"
+59336,242,21,153000,Marge Simpson,Duff Days Entrance,I guess I'll be driving.
+59337,242,22,155000,Chipper Guide,Duff Days Entrance,Right this way to the Duff Designated Drivers Rockin' Fun Zone.
+59338,242,23,159000,Marge Simpson,Duff Days Entrance,Rockin' Fun Zone? That sounds funnn...
+59339,242,24,166000,Marge Simpson,Duff Days Entrance,I don't see the need for razor wire.
+59341,242,26,170000,Lisa Simpson,Duff Days,"Oooh, there's Ulysses S. Grant, Babe Ruth Ben Franklin..."
+59342,242,27,176000,Benjamin Franklin,Duff Days,Early to bed and early to rise -- 
+59343,242,28,179000,Babe Ruth,Duff Days,"You think, you think you're better than me? Huh?"
+59344,242,29,184000,Lisa Simpson,Duff Days,Ewwww.
+59346,242,31,184000,Hostess,TIPSY-WHIRL RIDE,"Okay kids, who wants to see what it's like to get drunk?"
+59350,242,35,203000,Hostess,TIPSY-WHIRL RIDE,Now you're charming!
+59351,242,36,204000,Bart Simpson,TIPSY-WHIRL RIDE,You don't know me.
+59352,242,37,212000,Milhouse Van Houten,TIPSY-WHIRL RIDE,This guy here... this is the guy.
+59354,242,39,217000,Announcer,Duff Days,"All right, Springfield! Belly up for the Duff Beer-tender of the Year contest."
+59356,242,41,224000,Announcer,Duff Days,"Now, fresh from his appearance before the House Subcommittee on Teenage Alcoholism -- Duffman!"
+59357,242,42,231000,Duffman,Duff Days,Are you ready for some Duff Love?
+59358,242,43,235000,Duffman,Duff Days,"All right! Today, we're gonna find out which of these bartenders has the right stuff to dispense Duff."
+59359,242,44,244000,Duffman,Duff Days,From the Green Potato Pub at O'Hare International Airport -- Michael Finn!
+59360,242,45,251000,Duffman,Duff Days,"From ""Juggernauts"" in Hollywood, California -- Titania!"
+59361,242,46,257000,Duffman,Duff Days,And now the local lug who fills your mug with the drug you chug -- oh yeah! -- Give it up for Moe Szyslak!
+59362,242,47,265000,Moe Szyslak,Duff Days,"Hello, Springfield! Howya --"
+59364,242,49,274000,Duffman,Duff Days,"Okay, our first event qualifies for course credit at Dartmouth College -- trick pouring!"
+59365,242,50,292000,Homer Simpson,Duff Days,Go Moe! Boo everyone else!
+59366,242,51,295000,Duffman,Duff Days,I think we know who wins this round.
+59367,242,52,297000,Duffman,Duff Days,Titania!
+59369,242,54,300000,Duffman,Stage,"Duff beer is brewed from hops, barley and sparkling, clear, mountain... what?"
+59370,242,55,306000,Titania,Stage,Goat?
+59371,242,56,307000,Duffman,Stage,Close enough!
+59373,242,58,312000,Homer Simpson,Stage,"Ahhh, you can really taste the goat."
+59374,242,59,315000,Duffman,Stage,"Now our final round, which counts for ninety-eight per cent of the total score, making the previous rounds a complete waste."
+59375,242,60,324000,Duffman,Stage,"Don't forget, today's winner will be immortalized on our new Duff Calendar."
+59376,242,61,329000,Homer Simpson,Stage,"All right, guys. One, two, three."
+59377,242,62,332000,Homer Simpson,Stage,"Moo?! Lenny, you were supposed to be ""E""."
+59378,242,63,334000,Carl Carlson,Stage,See what happens when you skip rehearsal?
+59379,242,64,340000,Duffman,Stage,"All right, bartenders, toss your drunks."
+59380,242,65,348000,Michael,Stage,And stay out!
+59381,242,66,349000,Titania,Stage,"Ew! You said if I slept with you, I wouldn't have to touch the drunk."
+59382,242,67,355000,Duffman,Stage,Duffman says a lot of things. Oh yeah!
+59383,242,68,374000,Duffman,Stage,"And the winner, Moe Szyslak!"
+59385,242,70,379000,Moe Szyslak,Stage,"Aw, that's great. Thank you, thanks a lot. Ah, I just wanna say that it was an honor for me to compete with the Mick and the uh, the chick with the rack, there."
+59386,242,71,388000,Carl Carlson,Stage,"Yeah! All right, Moe!"
+59387,242,72,390000,Lenny Leonard,Stage,That's my Moo!
+59388,242,73,390000,Duffman,Stage,"And now to take your official calendar portrait, Duff's Vice President in charge of Calendars and Fake IDs, Phil Angelides."
+59390,242,75,404000,Duffman,Stage,That's a mug you don't wanna chug.
+59391,242,76,406000,Phil Angelides,Stage,"Knock it off, Larry. We can't put this face on our calendar."
+59393,242,78,421000,Marge Simpson,Duff Days Designated Drivers' Zone,When I get home there are gonna be a lot of open pickle jars.
+59394,242,79,424000,Homer Simpson,Duff Days Designated Drivers' Zone,That one.
+59396,242,81,428000,Marge Simpson,Duff Days Fair Grounds,"Kids, would you like a balloon?"
+59397,242,82,430000,Bart Simpson,Duff Days Fair Grounds,"Yeah, right, Mom. Then I'd like a rattle and a wowwipop. Actually, I would like a wowwipop."
+59399,242,83,436000,Lisa Simpson,Duff Days Fair Grounds,"Those balloons won't biodegrade for ten thousand years. And if Bart gets a wowwipop, I want a wowwipop."
+59400,242,84,441000,Homer Simpson,Duff Days Fair Grounds,"Aw, Maggie wants a balloon and daddy will take a hand stamp so he can get back in."
+59402,242,86,448000,Homer Simpson,Duff Days Fair Grounds,Just kidding. Remember my face.
+59404,242,88,453000,Moe Szyslak,Moe's Tavern,"Oh, boy!"
+59405,242,89,461000,Homer Simpson,Moe's Tavern,"Moe, the new Duff calendars are out! The ones with your picture!"
+59406,242,90,465000,Moe Szyslak,Moe's Tavern,"Oh, boy! Move over liquor license."
+59407,242,91,468000,Lenny Leonard,Moe's Tavern,"Hey Moe, this license expired in 1973, and... and it's only good in Rhode Island, and it's signed by you."
+59408,242,92,475000,Moe Szyslak,Moe's Tavern,"Yeah, yeah, I've been meanin' to get that updated, uh, for this state, and real. Now let's see the poster boy for the new Moe-lennium."
+59409,242,93,486000,Moe Szyslak,Moe's Tavern,They put a sticker over my face!
+59410,242,94,488000,Moe Szyslak,Moe's Tavern,Hey... Viva la... Kiss... What...
+59411,242,95,493000,Moe Szyslak,Moe's Tavern,"Ah, for the love of Jeff!"
+59412,242,96,498000,Moe Szyslak,Moe's Tavern,Am I really that ugly?
+59413,242,97,500000,Carl Carlson,Moe's Tavern,"Moe, it's all relative. Is Lenny really that dumb? Is Barney that drunk? Is Homer that lazy, bald and fat?"
+59414,242,98,507000,Moe Szyslak,Moe's Tavern,Oh my God! It's worse than I thought.
+59415,242,99,513000,Carl Carlson,Moe's Tavern,"See, this is why I don't talk much."
+59416,242,100,520000,Moe Szyslak,Moe's Tavern,I can't believe they put those stickers over my face. I must be the ugliest man alive.
+59417,242,101,526000,Homer Simpson,Moe's Tavern,"Oh, Moe. There's lots of people uglier than you. Like, you ever been to White Castle?"
+59418,242,102,530000,Carl Carlson,Moe's Tavern,"Ho, boy -- Pigtown U.S.A.!"
+59419,242,103,533000,Moe Szyslak,Moe's Tavern,"Aw, c'mon, look at me. I'm a gargoyle. What, with the cauliflower ear there, and the lizard lips..."
+59420,242,104,537000,Carl Carlson,Moe's Tavern,The little rat eyes...
+59421,242,105,539000,Homer Simpson,Moe's Tavern,Caveman brow...
+59422,242,106,540000,Lenny Leonard,Moe's Tavern,Don't forget that fish snout.
+59423,242,107,542000,Moe Szyslak,Moe's Tavern,"Okay, I get it. I ain't pleasant to look at."
+59424,242,108,544000,Lenny Leonard,Moe's Tavern,Or listen to.
+59425,242,109,544000,Carl Carlson,Moe's Tavern,Or be with.
+59426,242,110,546000,Homer Simpson,Moe's Tavern,"C'mon, Moe. Don't feel bad. There's too much emphasis on looks these days. That's why they won't let Bill Maher on TV before midnight."
+59398,242,111,553000,Lenny Leonard,Moe's Tavern,"Hey, Moe, if you're tired of bein' an eyesore, why not get some plastic surgery?"
+59428,242,112,557000,Moe Szyslak,Moe's Tavern,"Plastic surgery, huh?... Ah, maybe they could dynamite Mount Crapmore here and carve me a new kisser."
+59429,242,113,564000,Carl Carlson,Moe's Tavern,"I-I don't know. Plastic surgery might make you look good on the outside, but you still might feel bad on the inside."
+59430,242,114,570000,Moe Szyslak,Moe's Tavern,"But I'd look good on the outside, right?"
+59431,242,115,572000,Carl Carlson,Moe's Tavern,"Yeah, but you'd feel bad inside."
+59432,242,116,574000,Moe Szyslak,Moe's Tavern,Plastic surgery it is!
+59433,242,117,576000,Moe Szyslak,Moe's Tavern,"Carl Carlson, you just saved my life! Hey, get out of there!"
+59436,242,120,584000,Bart Simpson,Simpson Home,Look at her. Must be great to be a baby and be so easily amused.
+59437,242,121,588000,Lisa Simpson,Simpson Home,"Yeah, wish I could be entertained by two cents worth of rubber, shaped like some colorful animal, dancing and twirling, dancing and twirling..."
+59438,242,122,599000,Lisa Simpson,Simpson Home,"Hey, gimme that! / That's mine!"
+59439,242,123,606000,Lisa Simpson,Simpson Home,The door!
+59440,242,124,610000,Bart Simpson,Simpson Home,"Oh, no!"
+59442,242,126,617000,Bart Simpson,Simpson Home,"Okay, don't panic! I'll get the bikes."
+59443,242,127,619000,Lisa Simpson,Simpson Home,I hope they're hover-bikes.
+59444,242,128,621000,Bart Simpson,Simpson Home,"Oh, man. That would be so awesome!"
+59448,242,132,638000,Moe Szyslak,Doctor's Office,"It's hopeless, ain't it?"
+59449,242,133,639000,Dr. Velimirovic,Doctor's Office,"No, no, no, I love a challenge. First, we must install buttocks."
+59450,242,134,644000,Moe Szyslak,Doctor's Office,"Nah, nah, nah, no luxury items. Just the face."
+59451,242,135,646000,Dr. Velimirovic,Doctor's Office,"Okay, I'm gonna move this up... this wider... I'm gonna lose that... I've never even seen one of these..."
+59452,242,136,653000,Moe Szyslak,Doctor's Office,Can the medical mumbo-jumbo. Can you fix me or not?
+59453,242,137,657000,Dr. Velimirovic,Doctor's Office,"Well, we'll see. You know, most faces need a little remodeling, but this is a total tear-down. Let me clean up this mess I made."
+59454,242,138,666000,Moe Szyslak,Doctor's Office,"Hey, hey, hey! That really burns there!"
+59455,242,139,668000,Dr. Velimirovic,Doctor's Office,"Oh, stop it. You're worse than Faye Dunaway."
+59457,242,141,672000,Bart Simpson,Springfield Street,We've got to get closer!
+59458,242,142,674000,Lisa Simpson,Springfield Street,I'm trying! Can't I get on your shoulders?
+59459,242,143,679000,Bart Simpson,Springfield Street,"I'm not ridin' a girls bike. Hey, it's gettin' away! Step on it! Ya! Ya!"
+59460,242,144,683000,Lisa Simpson,Springfield Street,Stop kicking me!
+59461,242,145,685000,Bart Simpson,Springfield Street,Ya!
+59463,242,147,686000,Nurse,Operating Room,"Hooboy, what a mug."
+59464,242,148,690000,Dr. Velimirovic,Operating Room,"Yeah, you should see his genitals. Would you like to see them?"
+59465,242,149,693000,Moe Szyslak,Operating Room,I'm awake here.
+59466,242,150,695000,Dr. Velimirovic,Operating Room,Uh-oh.
+59467,242,151,695000,Dr. Velimirovic,Operating Room,This isn't anesthetic. It's new-car smell.
+59468,242,152,699000,Nurse,Operating Room,"Oh, sorry, Doctor."
+59469,242,153,702000,Moe Szyslak,Operating Room,Hoo... SILVER BELLS... SILVER BELLS...
+59471,242,155,709000,Lisa Simpson,Springfield,It's going into that building.
+59472,242,156,715000,Bart Simpson,Springfield,"Nice suit, Jeeves!"
+59473,242,157,718000,Jailbird's Son,Springfield,"Daddy, I'm stealing, I'm stealing!"
+59474,242,158,722000,Snake Jailbird,Springfield,"Oh, that's my little dude."
+59476,242,160,724000,Slick-looking Man #1,Skyscraper,We need a symbol. Something that says we're gay and Republicans.
+59477,242,161,732000,Slick-looking Man #2,Skyscraper,"A little on the nose, don't you think?"
+59478,242,162,735000,Lisa Simpson,Skyscraper,Excuse me. We just came to get our balloon.
+59479,242,163,738000,Slick-looking Man #1,Skyscraper,Here you go. And have a bumper sticker.
+59480,242,164,741000,Lisa Simpson,Skyscraper,"Thank you. ""A gay president in 2084""?"
+59481,242,165,745000,Slick-looking Man #3,Skyscraper,We're realistic.
+59483,242,167,750000,Homer Simpson,Hospital,"Hurry, hurry up! I have to pee!"
+59484,242,168,756000,Dr. Velimirovic,Hospital,Beautiful.
+59485,242,169,757000,Homer Simpson,Hospital,"Okay, now do Moe."
+59486,242,170,759000,Dr. Velimirovic,Hospital,"Well, Moe, now we see if you go on my wall of fame or my blooper reel."
+59488,242,172,771000,Moe Szyslak,Hospital,"What? I'm a monster, right? I knew it. I guess I'll just crawl back to live in the sewer, periodically emerging to sue you."
+59489,242,173,781000,Moe Szyslak,Hospital,Is that me?
+59490,242,174,783000,Dr. Velimirovic,Hospital,"Oopsie, we've got some leakage. Let me just cauterize that for you."
+59492,242,176,789000,Nurse,Hospital,"Bye, Moe!"
+59493,242,177,790000,Second Nurse,Hospital,"Don't be a stranger, handsome."
+59495,242,179,792000,Moe Szyslak,Hospital,Bye bye!
+59497,242,180,794000,Moe Szyslak,Hospital,"Homer, did you hear that? She called me handsome. Me. It's like I've gone to heaven... Wait a minute. I died on the operating table, didn't I?"
+59498,242,181,803000,Homer Simpson,Hospital,"Yeah, but just for a minute. It's a funny story; I'll tell you sometime."
+59499,242,182,808000,Moe Szyslak,Hospital,So this is all real?
+59500,242,183,809000,Homer Simpson,Hospital,"Oh, you dear, dear man. You're one of us beautiful people now. And your new life begins today."
+59501,242,184,816000,Moe Szyslak,Hospital,A new life. A second chance... for revenge.
+59503,242,186,821000,Duffman,Street,"That brown patch needs a little H-2-0. Oh, yeah!"
+59504,242,187,827000,Moe Szyslak,Street,"Hey, Duffman. Let's see how you like a sticker on your face!"
+59505,242,188,827000,Moe Szyslak,Street,Yeah.
+59506,242,189,832000,Duffman,Street,"Duffman can't breathe. Oh, no! Oh!"
+59508,242,191,840000,Woman,House,Hello.
+59509,242,192,842000,Moe Szyslak,House,"Yeah, hello yourself. I'm Moe Szyslak. Back in high school, I asked you to the Springtime Pumpkin Dance, and you turned me down. Well, I just wanted to show you the face that you coulda been kissin'."
+59510,242,193,854000,Homer Simpson,House,Yeah!
+59511,242,194,855000,Woman,House,"Oh, I was just a stupid kid back then. And I feel terrible about hurting you. Will you accept my apology?"
+59512,242,195,861000,Moe Szyslak,House,"Apology? Uh, geez, I wasn't expecting that... uh..."
+59513,242,196,865000,Homer Simpson,House,Run!
+59514,242,197,868000,Moe Szyslak,House,"Man, that felt great."
+59516,242,199,872000,Moe Szyslak,Simpson Car,"Okay, last stop. Channel 6."
+59517,242,200,875000,Homer Simpson,Simpson Car,You're gonna get even with that lottery guy that never picks our numbers.
+59518,242,201,878000,Moe Szyslak,Simpson Car,"Na, na, na. This is personal."
+59519,242,202,881000,Moe Szyslak,Simpson Car,"It all goes back to my acting days. I was auditioning for the role of Dr. Tad Winslow on the hit soap, ""It Never Ends."""
+59520,242,203,889000,20-ISH MOE,Simpson Car,"Angela, I'm afraid I..."
+59521,242,204,891000,NO NONSENSE FEMALE VOICE,Simpson Car,Thank-you-next!
+59522,242,205,893000,Helen Morehouse,Simpson Car,What were you thinking?
+59523,242,206,895000,Casting Director,Simpson Car,"Well, you said you wanted ""gritty."" In other words, ""ugly."""
+59524,242,207,895000,Helen Morehouse,Simpson Car,"I wanted Maryanne-on-Gilligan's-Island ugly, not Cornelius-on-the-Planet-of-the-Apes ugly. TV ugly, not ugly ugly."
+59525,242,208,909000,Moe Szyslak,Simpson Car,"I'd been called ugly, pug ugly, fugly, pug fugly, but never ugly ugly."
+59427,242,209,916000,Homer Simpson,Simpson Car,"Well, it's time to get some closure. Extreme closure."
+59527,242,212,924000,Actor,"""IT NEVER ENDS"" SET",But I've been Dr. Tad Winslow for twenty-five years. It's time I got a raise!
+59528,242,213,930000,Helen Morehouse,"""IT NEVER ENDS"" SET","Oh, shut up, you windy old hack."
+59529,242,214,932000,Actor,"""IT NEVER ENDS"" SET",And another thing -- You have to stop calling me that.
+59530,242,215,935000,Moe Szyslak,"""IT NEVER ENDS"" SET",Remember me? Twenty-five years ago you said I was too ugly to play Dr. Tad Winslow!
+59531,242,216,940000,Helen Morehouse,"""IT NEVER ENDS"" SET","I did? Well, that's why pencils have erasers, hon. You're our new Dr. Tad Winslow."
+59532,242,217,945000,Moe Szyslak,"""IT NEVER ENDS"" SET",Really? You mean it?
+59533,242,218,947000,Actor,"""IT NEVER ENDS"" SET",But there can't be two Dr. Tad Winslows! That's going to... Ohhh...
+59534,242,219,955000,Moe Szyslak,"""IT NEVER ENDS"" SET",I've been waiting all my life for this moment.
+59535,242,220,961000,Moe Szyslak,"""IT NEVER ENDS"" SET","Homer, whoa, whoa, Homer. Change of plans."
+59536,242,221,964000,Homer Simpson,"""IT NEVER ENDS"" SET",Whatever.
+59537,242,222,970000,Soap Announcer,"""IT NEVER ENDS"" SET","Like the cleaning of a house... ""It Never Ends."""
+59538,242,223,974000,Soap Announcer,"""IT NEVER ENDS"" SET",With Gabriella DeFarge as Gabriella St. Farge... Allegra Hamilton as Sister Bernadette and Roxy Monoxide... and as Dr. Tad Winslow...Moe Szyslak.
+59540,242,225,987000,Lisa Simpson,Simpson Home,I don't know if I'll be able to accept Moe as Dr. Tad Winslow.
+59541,242,226,991000,Marge Simpson,Simpson Home,"Well, I'm gonna keep watching as long as they have shocking story twists and endless pillow talk."
+59542,242,227,996000,Moe Szyslak,Simpson Home,"Cleo, Cleo, you've brought music to my heart, but this relationship can never work. I'm a doctor, and you're a 5,000-year-old mummy I brought back to life."
+59543,242,228,1006000,Ingenue,Simpson Home,"But I love you, Tad. And together we can burn all the cities of the earth."
+59544,242,229,1011000,Moe Szyslak,Simpson Home,"It's against hospital regulations, dammit! And Clive Dancer's just waitin' for me to slip up."
+59546,242,231,1019000,Carl Carlson,Moe's Tavern,"So, Lenny, how are things workin' out with you and that girl next door?"
+59547,242,232,1022000,Lenny Leonard,Moe's Tavern,"Eh, it's over. She got a windowshade."
+59548,242,233,1025000,Lenny Leonard,Moe's Tavern,Wha?!
+59549,242,234,1027000,Moe Szyslak,Moe's Tavern,"Whoa, whoa, if you must grope me, ladies, please, a little softer. Okay, now harder."
+59550,242,235,1033000,Carl Carlson,Moe's Tavern,"Hey, there are women in our bar!"
+59551,242,236,1035000,Homer Simpson,Moe's Tavern,"Hey, Moe. Beer me!"
+59552,242,237,1037000,Moe Szyslak,Moe's Tavern,"Ah, I'm a little busy, Homer. Ah, you can pour it yourself."
+59553,242,238,1040000,Homer Simpson,Moe's Tavern,Hmm. This isn't nearly as complicated as Moe made it seem.
+59556,242,241,1052000,Moe Szyslak,Moe's Dressing Room,I didn't bring you back to life so you could make a fool of me at the club.
+59557,242,242,1056000,Homer Simpson,Moe's Dressing Room,"You don't love me. The only thing you love is your ear, nose and throat pavilion."
+59558,242,243,1060000,Moe Szyslak,Moe's Dressing Room,I've dedicated my life to diseases of the head holes. But the one hole I've never been able to fix is the one in my soul.
+59559,242,244,1067000,Homer Simpson,Moe's Dressing Room,"That was amazing, Moe. I'm actually a little turned on."
+59560,242,245,1070000,Moe Szyslak,Moe's Dressing Room,"Yeah, hey, I gotta gift. As a child, I was bitten by the acting bug. Then it burrowed under my skin and laid eggs in my heart. Now those eggs are hatching. And I... the feeling is indescribable."
+59561,242,246,1083000,Homer Simpson,Moe's Dressing Room,I know what you mean. Our dog had that.
+59562,242,247,1086000,Squeaky-Voiced Teen,Moe's Dressing Room,Excuse me?
+59563,242,248,1087000,Squeaky-Voiced Teen,Moe's Dressing Room,I've got a delivery here for the producers.
+59564,242,249,1090000,Moe Szyslak,Moe's Dressing Room,"""Top Secret Story Lines?!"" Uh, I'll sign for it."
+59565,242,250,1096000,Moe Szyslak,Moe's Dressing Room,"Eh, might as well have a little peek..."
+59566,242,251,1102000,Moe Szyslak,Moe's Dressing Room,Hmm. Looks like my character gets back together with that evil Contessa.
+59567,242,252,1108000,Homer Simpson,Moe's Dressing Room,The one with the amulet?
+59568,242,253,1109000,Moe Szyslak,Moe's Dressing Room,Precisely. Then I get in a skydiving accident and have to be rushed to the... graveyard?! They're killing off Dr. Tad Winslow!
+59569,242,254,1117000,Homer Simpson,Moe's Dressing Room,"What? Let me see that! ""Interior Coroner's Office. Close-up on Dr. Winslow's mangled corpse. Coroner: 'Let's get that brain out and weighed, and call it a day.'"" Yep, that does sound kinda bad."
+59570,242,255,1129000,Moe Szyslak,Moe's Dressing Room,"Well, if they're gonna stomp on my dreams, the least I can do is go out in a blaze of sour grapes."
+59571,242,256,1137000,Moe Szyslak,Moe's Dressing Room,"I never used to trust you, Contessa, but now you seem so nice."
+59572,242,257,1141000,Contessa,Moe's Dressing Room,"Why don't we celebrate your newfound trust in me, by taking a skydiving lesson?"
+59573,242,258,1147000,Moe Szyslak,Moe's Dressing Room,"Well, how could I say no to such a captivating..."
+59574,242,259,1150000,Homer Simpson,Moe's Dressing Room,Ding-dong!
+59575,242,260,1151000,Moe Szyslak,Moe's Dressing Room,"Whoa, it's the door."
+59576,242,261,1156000,Homer Simpson,Moe's Dressing Room,Dr. Winslooooow...
+59577,242,262,1159000,Moe Szyslak,Moe's Dressing Room,"Why, who are you?"
+59578,242,263,1160000,Homer Simpson,Moe's Dressing Room,I am an angel from the future.
+59580,242,265,1162000,Helen Morehouse,DIRECTOR'S BOOTH,Angel?
+59581,242,266,1163000,Director,DIRECTOR'S BOOTH,What the fudge? Should I cut him off?
+59582,242,267,1165000,Helen Morehouse,DIRECTOR'S BOOTH,No. Let's see where this is going.
+59584,242,269,1167000,Moe Szyslak,SOAP OPERA SET,"And what do you have to tell us, oh, Angel of the Future?"
+59585,242,270,1171000,Homer Simpson,SOAP OPERA SET,You're going to die in a skydiving accident.
+59586,242,271,1175000,Moe Szyslak,SOAP OPERA SET,How tragic. Tell me more.
+59587,242,272,1177000,Homer Simpson,SOAP OPERA SET,Gabriella's baby shower will be invaded by terrorists. With sexy results.
+59588,242,273,1183000,Moe Szyslak,SOAP OPERA SET,"Ooh, that's unexpected. What else?"
+59589,242,274,1185000,Homer Simpson,SOAP OPERA SET,"Well, Sister Bernadette will leave the convent and start a softball team. With sexy results."
+59591,242,276,1191000,Bart Simpson,Simpson Living Room,What's Dad doing on the show?
+59592,242,277,1193000,Marge Simpson,Simpson Living Room,Who cares? He's dishin' out the dirt.
+59594,242,279,1197000,Homer Simpson,SOAP OPERA SET,...and only then do we find out that Professor Gallaway's half-sister is plotting to take over International Perfume and Wine.
+59596,242,281,1203000,Helen Morehouse,DIRECTOR'S BOOTH,He just gave away a year's worth of story lines! Cut him off... nnnnnnow.
+59598,242,283,1212000,Moe Szyslak,SOAP OPERA SET,Yes!
+59599,242,284,1213000,Helen Morehouse,SOAP OPERA SET,What the hell are you doing?
+59600,242,285,1215000,Moe Szyslak,SOAP OPERA SET,Stickin' it to you for killin' off my character!
+59601,242,286,1218000,Homer Simpson,SOAP OPERA SET,Yeah!
+59602,242,287,1219000,Helen Morehouse,SOAP OPERA SET,You idiot! Dr. Winslow was only going to die in a dream!
+59603,242,288,1223000,Moe Szyslak,SOAP OPERA SET,Wha?
+59604,242,289,1224000,Helen Morehouse,SOAP OPERA SET,Pink pages always mean a dream.
+59605,242,290,1226000,Moe Szyslak,SOAP OPERA SET,I thought dreams was on goldenrod.
+59606,242,291,1228000,Helen Morehouse,SOAP OPERA SET,"No, goldenrod is for coma fantasies."
+59607,242,292,1231000,Moe Szyslak,SOAP OPERA SET,"I see. So, ah, what time tomorrow?"
+59608,242,293,1238000,Helen Morehouse,SOAP OPERA SET,Escort these men out. Nnnnnnow.
+59609,242,294,1243000,Moe Szyslak,SOAP OPERA SET,"Get ya hands off me. Get off! I don't need your stinkin' show, anyway. With a mug like this, I can get on any soap in Springfield."
+59610,242,295,1260000,Moe Szyslak,SOAP OPERA SET,"Oh! Oh, my face! I'm not supposed to put weight on it!"
+59611,242,296,1268000,Moe Szyslak,SOAP OPERA SET,What? What?
+59613,242,298,1272000,Homer Simpson,Moe's Tavern,"I'm sorry about your face, Moe."
+59614,242,299,1274000,Moe Szyslak,Moe's Tavern,"Nah, it's just as well. That handsome face was nice, but it was too much maintenance. I had to wash it, rub it with neat's-foot oil... You did me a favor, Homer. And to think I was about to sell the bar to Hooters..."
+59615,242,300,1286000,Homer Simpson,Moe's Tavern,"Yeah, you were..."
+59616,242,301,1287000,Moe Szyslak,Moe's Tavern,"Well, I guess that wraps it up. Hey, there's one thing I don't get, though. When my face was crushed, why did it go back to my old face? I mean, shouldn't it have turned into some kind of third face that was different? Heh. Don't make no..."

@@ -1,0 +1,232 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+125694,485,2,58000,Homer Simpson,Bakery,"I love your low prices, but why did these weddings get cancelled?"
+125695,485,3,63000,Salesman,Bakery,Returned because of a fight over the pre-nup.
+125696,485,4,65000,Homer Simpson,Bakery,Awww...
+125697,485,5,67000,Salesman,Bakery,That one there? Bride's dad made a racist toast.
+125700,485,7,71000,Salesman,Bakery,"She wanted a cake with blue rosettes, he slept with her sister."
+125701,485,8,75000,Homer Simpson,Bakery,"Cake, will you do me the honor of making my stomach the happiest bag of acid in the world? You will?!"
+125704,485,11,86000,Homer Simpson,Homer's Car,Time for a shortcut.
+125705,485,12,90000,Homer Simpson,Homer's Car,Woo hoo!
+125707,485,14,96000,Bart Simpson,Car,"Dad, the cake!"
+125708,485,15,104000,Lisa Simpson,Car,"Dad, our lives!"
+125709,485,16,105000,Homer Simpson,Car,Fine.
+125711,485,18,119000,Homer Simpson,NARROW MOUNTAIN ROAD,"Uh-oh, they've got the right-of-way."
+125712,485,19,125000,Homer Simpson,NARROW MOUNTAIN ROAD,Morning.
+125713,485,20,125000,Cyclist,NARROW MOUNTAIN ROAD,Guten tag.
+125716,485,23,137000,Homer Simpson,Simpson Home,Who's alone in the vehicle?
+125717,485,24,142000,Lisa Simpson,Simpson Home,Maggie's locked in!
+125718,485,25,143000,Bart Simpson,Simpson Home,With the keys!
+125720,485,27,145000,Marge Simpson,Simpson Home,What's wrong?
+125721,485,28,147000,Homer Simpson,Simpson Home,"Uh, first the good news... two of your kids are not locked in the car."
+125722,485,29,151000,Marge Simpson,Simpson Home,Maggie!
+125725,485,32,158000,Marge Simpson,Simpson Home,We've gotta get her out of there! Babies aren't supposed to sleep on their stomach on a cake!
+125726,485,33,163000,Marge Simpson,Simpson Home,"Okay. Okay, the spare key is somewhere in here."
+125727,485,34,169000,Lisa Simpson,Simpson Home,What's this key with the plastic skull for?
+125728,485,35,172000,Bart Simpson,Simpson Home,That's the key to my box with the real skull.
+125729,485,36,177000,Homer Simpson,Simpson Home,Maggie!
+125731,485,38,186000,Lisa Simpson,Simpson Home,So how come we have all these other keys?
+125732,485,39,188000,Homer Simpson,Simpson Home,"Well, if you live long enough you start to accumulate things. This is from a gas station men's room. They put the block of wood on it so you don't walk away with it. These are from a key party we went to before we realized what a key party was--"
+125733,485,40,202000,Marge Simpson,Simpson Home,We got out of it just in time.
+125734,485,41,208000,Dr. Julius Hibbert,Simpson Home,"Aw, come on! You'll miss all the sex!"
+125735,485,42,211000,Kirk Van Houten,Simpson Home,"Uh, this key opens your parrot cage."
+125736,485,43,213000,Dr. Julius Hibbert,Simpson Home,Rules are rules.
+125699,485,44,216000,Homer Simpson,Simpson Home,And these keys are from all my jobs.
+125737,485,45,219000,Marge Simpson,Simpson Home,At some point we should try to return these keys to their rightful owners.
+125738,485,46,223000,Bart Simpson,Simpson Home,Are you nuts?! Let's have some fun!
+125739,485,47,226000,Marge Simpson,Simpson Home,"Homer, stop him!"
+125740,485,48,227000,Homer Simpson,Simpson Home,"Stop who, Marge? Be specific."
+125742,485,50,230000,Bart Simpson,Springfield Street,Time to get my mischief on!
+125743,485,51,233000,Bart Simpson,Springfield Street,Let's start with a little federal crime.
+125744,485,52,238000,Man,Springfield Street,"Oh, thank God! I can get back the angry letter I wrote to my boss!"
+125745,485,53,242000,Woman,Springfield Street,"I really didn't want that subscription to ""The Atlantic"""
+125746,485,54,247000,Professor Jonathan Frink,Springfield Street,"Yes, and this patent application for a robot dog could use a bit more tinkering."
+125747,485,55,252000,Professor Jonathan Frink,Springfield Street,With the biting and the chewing on my tuchus--
+125748,485,56,255000,Professor Jonathan Frink,Springfield Street,"Oh, the laser eyes! Why did I give it to him?!"
+125749,485,57,258000,Bart Simpson,Springfield Street,What the? I tried to do bad and I did good!
+125750,485,58,261000,Rev. Timothy Lovejoy,Springfield Street,Haw-haw.
+125751,485,59,262000,Barney Gumble,Springfield Street,Keys to the Duff Brewery?! Where'd you get those?!
+125752,485,60,266000,Homer Simpson,Springfield Street,"Well, it might have been the time when..."
+125753,485,61,274000,Duffman,Springfield Street,"Duffman doesn't need Duff to have fun! Seriously, you got any beer?"
+125754,485,62,278000,Homer Simpson,Springfield Street,No.
+125755,485,63,280000,Duffman,Springfield Street,I heard drowning makes you feel like you're drunk.
+125757,485,65,287000,Homer Simpson,Sidewalk,Or maybe I just found them on the ground.
+125759,485,67,295000,Barney Gumble,Duff Brewery Grounds,Wow! The guys at the AA meeting will never believe this!
+125761,485,69,299000,Homer Simpson,Duff Brewery,Oh my God... there's the fire brewer... the beechwood ager... the rat filter...
+125762,485,70,313000,Homer Simpson,Duff Brewery,"The Duff blimp! Oh, how I'd love to drive that thing."
+125763,485,71,321000,Homer Simpson,Duff Brewery,"Really, Duff blimp? You really want me to?"
+125764,485,72,327000,Homer Simpson,Duff Brewery,"Oh, what the hell? Life is made to be lived. I've been buttoned down too long!"
+125765,485,73,333000,Barney Gumble,Duff Brewery,"Hey Homer, I really had you going there, huh? Homer?"
+125766,485,74,338000,Homer Simpson,Duff Brewery,When we see each other again you'll be an old man and I'll be a baby!
+125769,485,76,343000,Marge Simpson,Simpson Home,...And these are from sardine cans your father opened. He saved them out of sentimental value.
+125770,485,77,351000,Lisa Simpson,Simpson Home,I'll return this to the school.
+125771,485,78,353000,Marge Simpson,Simpson Home,"Well, Maggie, one key left for us!"
+125772,485,79,356000,Marge Simpson,Simpson Home,This looks like it's from a wind-up toy.
+125773,485,80,364000,Marge Simpson,Simpson Home,I hope we haven't stumbled onto my anniversary present.
+125774,485,81,381000,Marge Simpson,Simpson Home,Homer? Could you please turn down those blimp engines and tell me where you are?
+125775,485,82,390000,Marge Simpson,Simpson Home,"I'll call you back! Come back, Pooter Toot! People might be offended by your mild tastelessness!"
+125776,485,83,398000,Ned Flanders,Simpson Home,"Oh, isn't that a cute little choo-choo..."
+125778,485,85,402000,Rod Flanders,Simpson Home,"Daddy, did you make that devil's music?"
+125779,485,86,405000,Ned Flanders,Simpson Home,"It wasn't me, boys! It was the train!"
+125780,485,87,407000,Todd Flanders,Simpson Home,"What train, Daddy?"
+125781,485,88,409000,Ned Flanders,Simpson Home,It was right there... with the ... and the...
+125782,485,89,413000,Rod Flanders,Simpson Home,Jesus cries blood every time you lie.
+125785,485,92,420000,Nelson Muntz,Springfield Elementary School,"Hey, Lisa. Whatcha doin'?"
+125786,485,93,422000,Lisa Simpson,Springfield Elementary School,Returning this lost key to Principal Skinner.
+125787,485,94,425000,Nelson Muntz,Springfield Elementary School,But that key could open any door in the school. Aren't you curious?
+125788,485,95,428000,Lisa Simpson,Springfield Elementary School,"Well, maybe a little. But I'd never break the rules."
+125789,485,96,431000,Nelson Muntz,Springfield Elementary School,Little Miss Play-It-Safe. Have a nice day... just like yesterday... and the day before that... and the day before that...
+125790,485,97,434000,Nelson Muntz,Springfield Elementary School,And the day before that... and the day before that... and the day before that...and the day before that... and the day before that...
+125791,485,98,450000,Seymour Skinner,Springfield Elementary School,"Nelson, either tell them what they're having for lunch, or get off the P.A."
+125792,485,99,453000,Nelson Muntz,Springfield Elementary School,Sloppy Joes... and the day before that... tater tots... and the day before that...
+125794,485,101,460000,Lisa Simpson,Springfield Elementary School Basement,Banned books?!
+125795,485,102,464000,Lisa Simpson,Springfield Elementary School Basement,Band books?!
+125797,485,104,467000,Lisa Simpson,Springfield Elementary School Basement,Could this key open...
+125798,485,105,470000,Lisa Simpson,Springfield Elementary School Basement,Get thee behind me Namuche! That's the Buddhist Satan. Let's give it a shot.
+125799,485,106,482000,Lisa Simpson,Springfield Elementary School Basement,"No problem, just some cobwebs."
+125802,485,109,496000,Lisa Simpson,CLASSROOM,"I've discovered a mystery, wrapped in a riddle in the basement of a lousy school!"
+125804,485,111,503000,Lisa Simpson,Springfield Elementary School,"It's like five classrooms in one! A science room... student lounge... mathnasium... An experimental theater! All set for a production of Samuel Beckett's ""Endgame""!"
+125805,485,112,515000,Lisa Simpson,Springfield Elementary School,"Ooh, a pull-down map of..."
+125806,485,113,518000,Lisa Simpson,Springfield Elementary School,Nothing? And this ruler is unmarked and... the tabs on this pop-up book have no effect...and this tooth has no dentin! Everything is fake! What is going on?!
+125808,485,115,533000,Seymour Skinner,Skinner's Office,"Mother, it is my birthday, not our anniversary!"
+125809,485,116,536000,Lisa Simpson,Skinner's Office,"Principal Skinner, do you know anything about a bizarre hidden classroom underneath the school?"
+125810,485,117,542000,Seymour Skinner,Skinner's Office,"Mother, I have work to do. Well, it's work if they pay you! They say they're going to!"
+125811,485,118,549000,Seymour Skinner,Skinner's Office,"Lisa, I know every moldy inch of this unaccredited school. But I have never seen such a thing as you describe."
+125812,485,119,555000,Lisa Simpson,Skinner's Office,It's real. I can show you!
+125813,485,120,558000,Seymour Skinner,Skinner's Office,"Well, I have a very busy schedule, but..."
+125814,485,121,561000,Seymour Skinner,Skinner's Office,"Myra, cancel all my appointments!"
+125815,485,122,562000,Lisa Simpson,Skinner's Office,You're just pressing a Mento.
+125816,485,123,565000,Seymour Skinner,Skinner's Office,Very true.
+125817,485,124,567000,Seymour Skinner,Skinner's Office,"Okay, let's go."
+125819,485,126,573000,Homer Simpson,SKY OVER SPRINGFIELD,Hm. Is it drinking and driving if you're flying a blimp? Maybe I can find the answer by texting.
+125820,485,127,579000,Homer Simpson,SKY OVER SPRINGFIELD,"Yo, Lenny... ...do you know anything about... flying the blimp while drinking..."
+125821,485,128,597000,Homer Simpson,SKY OVER SPRINGFIELD,What was that?
+125823,485,130,602000,Marge Simpson,Street,Uh-oh.
+125825,485,132,606000,Female Ibs Sufferer,Conference Room,This train is mocking our intestinal distress!
+125826,485,133,610000,Male Ibs Sufferer,Conference Room,I don't think I've ever felt this irritable.
+125768,485,134,612000,Marge Simpson,Conference Room,"Excuse me, has anyone seen my toy?"
+125827,485,135,614000,Female Ibs Sufferer,Conference Room,You mean your wind-up hate crime?
+125830,485,138,619000,Lisa Simpson,Springfield Elementary School,"And now without further ado, I give you... this!!!"
+125832,485,140,629000,Seymour Skinner,Springfield Elementary School,One Thousand and One Vulgar Marching Band Formations.
+125833,485,141,629000,Seymour Skinner,Springfield Elementary School,Truly these band books deserve to be banned.
+125834,485,142,638000,Lisa Simpson,Springfield Elementary School,I swear there was a room here!
+125835,485,143,640000,Seymour Skinner,Springfield Elementary School,"Lisa, Lisa... go home, relax, try to do some kid things. You know, with a ball or something... or decorate your sneakers with a ""Magic""-brand marker."
+125838,485,146,657000,Bart Simpson,Streets Of Springfield,"Maybe this key will be the key to putting the ""key"" in anarchy."
+125839,485,147,664000,Bart Simpson,Streets Of Springfield,The last place anybody would expect to see a moon: the sky!
+125840,485,148,673000,Matrons,Streets Of Springfield,"Why, we never!"
+125841,485,149,677000,Gil Gunderson,Streets Of Springfield,"Goodbye, cruel world!"
+125842,485,150,680000,Gil Gunderson,Streets Of Springfield,I'm alive! And you're my naked fairy-god-boy.
+125843,485,151,684000,Bart Simpson,Streets Of Springfield,"Aw jeez, I hope no one heard you say that."
+125845,485,153,686000,Mayor Joe Quimby,Springfield Town Hall,"And so, to this naked fairy-god-boy, I present the key to the city. Now do us a favor and lower your pants for the picture."
+125848,485,156,697000,Seymour Skinner,Springfield Elementary School,Lisa Simpson may be onto us.
+125849,485,157,698000,Gary Chalmers,Springfield Elementary School,"I oversee fourteen schools, Seymour, and for some reason, I always find myself talking to you about one of the Simpson kids!"
+125850,485,158,704000,Gary Chalmers,Springfield Elementary School,"Oh my God, there she is. Act natural. Act natural."
+125851,485,159,708000,Gary Chalmers,Springfield Elementary School,"Oh, oh, hello, student. Um, we were just standing here discussing how we have no, uh, secrets."
+125852,485,160,715000,Seymour Skinner,Springfield Elementary School,And nothing to hide. I'll just take that key back now.
+125854,485,162,724000,Gary Chalmers,Springfield Elementary School,"Backing away from something, Lisa?"
+125858,485,165,733000,Lisa Simpson,Streets Of Springfield,"I've got to get back in that room, but Skinner took away the only key! What would Nancy Drew do?"
+125859,485,166,740000,Elderly Nancy Drew,Streets Of Springfield,"Oh, don't you worry, I'll get my friends The Hardy Boys to help."
+125861,485,168,745000,Ralph Wiggum,Streets Of Springfield,Extra! Read all about it! Lisa's a liar! Pants on fire!
+125862,485,169,756000,Chief Wiggum,Streets Of Springfield,Pull over!
+125863,485,170,756000,Chief Wiggum,Streets Of Springfield,Before somebody gets hurt!
+125864,485,171,762000,Homer Simpson,Streets Of Springfield,"So long, suckers!"
+125865,485,172,765000,Chief Wiggum,Streets Of Springfield,Oh!
+125866,485,173,765000,Chief Wiggum,Streets Of Springfield,"Oh, the Zoomanity!"
+125869,485,176,774000,Lisa Simpson,Key Store,"Hi, my name is Lisa Simpson."
+125870,485,177,777000,Key Man,Key Store,"Ah yes, the Simpsons: a notch and a bump, two notches and a bump."
+125871,485,178,780000,Lisa Simpson,Key Store,That's us. Do you think you could reproduce the key in this photo?
+125872,485,179,785000,Key Man,Key Store,"Yeah, but it's gonna cost ya."
+125873,485,180,787000,Lisa Simpson,Key Store,How much?
+125874,485,181,788000,Key Man,Key Store,"Dollar eighty-five. And if you want that little plastic ring around it, now that's gonna cost you another seven cents."
+125875,485,182,794000,Lisa Simpson,Key Store,Keep the change.
+125876,485,183,796000,Key Man,Key Store,Yes ma'am!
+125878,485,185,808000,Lisa Simpson,Springfield Elementary School,How did this bookshelf get here so fast? I bet it's shoddy.
+125879,485,186,815000,Lisa Simpson,Springfield Elementary School,"What do you think of that, Nancy Drew?"
+125880,485,187,819000,Lisa Simpson,Springfield Elementary School,"Jeez, they're dropping like flies."
+125881,485,188,828000,Lisa Simpson,Springfield Elementary School,The children are on Bus 23.
+125883,485,190,828000,Bart Simpson,Springfield Elementary School,I'm so sick of keys. They've brought nothing but good luck since I got them.
+125884,485,191,845000,Cletus Spuckler,Springfield Elementary School,"Brandine, I think we finally gots us something to cut off that umbrilical cord."
+125885,485,192,851000,Brandine Del Roy,Springfield Elementary School,Well then you got one more mouth to feed.
+125886,485,193,854000,Brandine Del Roy,Springfield Elementary School,Y'all want some chocolate milk?
+125887,485,194,856000,Child,Springfield Elementary School,"Yes, mama."
+125888,485,195,857000,Brandine Del Roy,Springfield Elementary School,"You got it, Embry-Joe."
+125891,485,198,866000,Marge Simpson,Road,That wisenheimer windup toy could be anywhere.
+125892,485,199,873000,Marge Simpson,Road,Chief Wiggum! Stop that train!
+125857,485,200,879000,Chief Wiggum,Road,Things on the ground are out of my jurisdiction.
+125893,485,201,883000,Chief Wiggum,Road,"Aw, not through my legs. Oh, that's really rubbin' it in."
+125895,485,203,888000,Chief Wiggum,Road,Maybe if I use a pen...
+125896,485,204,893000,Chief Wiggum,Road,"Aw jeez, here comes that girl I always liked in high school."
+125897,485,205,897000,Attractive Woman,Road,"Clancy, is that you?"
+125898,485,206,898000,Chief Wiggum,Road,"Oh ah hey, Maryann. Uh, how are you at getting pants off the ground?"
+125900,485,208,904000,Lisa Simpson,Springfield Elementary School,Skinner's involved in this. Deep.
+125901,485,209,907000,Bart Simpson,Springfield Elementary School,"Crazy classroom, bus full of missing kids... I know who'd have some answers. Someone who's been here a long, long time."
+125903,485,211,918000,Nelson Muntz,WOODSHOP,"Yeah, I've been held back more times than I can count... which I guess is why I keep getting held back."
+125904,485,212,924000,Lisa Simpson,WOODSHOP,You know anything about... Bus Twenty-three?
+125905,485,213,927000,Nelson Muntz,WOODSHOP,"Whoa, Goldilocks, you best be leaving those bowls of porridge alone."
+125906,485,214,932000,Lisa Simpson,WOODSHOP,"There's only one bed that's just right for me, the bed with the truth in it. Which is probably the third one."
+125907,485,215,938000,Nelson Muntz,WOODSHOP,"All right, I'll tell you. I'll tell you about Bus Twenty-three."
+125909,485,217,946000,Nelson Muntz,Springfield Elementary School,It was a cold winter -- two-vest cold.
+125910,485,218,950000,Nelson Muntz,Springfield Elementary School,"A bus was loaded with kids for a field trip. I was gonna shake 'em down for field trip money, but what I heard shook me worse than my Dad when I was a baby."
+125911,485,219,959000,Seymour Skinner,Springfield Elementary School,"Sir, this bus is too heavy to cross the ice bridge. They'll have to take a more circuitous route."
+125912,485,220,964000,Gary Chalmers,Springfield Elementary School,There's no time to be safe! Now bang the side of that bus! Bang it twice!
+125913,485,221,971000,Nelson Muntz,Springfield Elementary School,That bus never came back.
+125914,485,222,974000,Lisa Simpson,Springfield Elementary School,So the answer to our mystery lies on the other side of that ice bridge.
+125915,485,223,978000,Bart Simpson,Springfield Elementary School,But it's summertime -- the ice bridge will be a water nothing.
+125916,485,224,981000,Homer Simpson,Springfield Elementary School,"Hey, kids!"
+125917,485,225,981000,Homer Simpson,Springfield Elementary School,If I tossed you guys a bucket full of something could you pour it out and toss the bucket back up? Don't drink it!
+125921,485,228,991000,Lisa Simpson,Blimp,That's where the ice bridge would be! Go down!
+125923,485,230,997000,Lisa Simpson,Skies,"Dad, stop!"
+125924,485,231,999000,Homer Simpson,Skies,But there's so many buttons!
+125931,485,238,1024000,Homer Simpson,Blimp,"Bart, take the controls!"
+125932,485,239,1025000,Bart Simpson,Blimp,What videogame is this like?
+125933,485,240,1027000,Homer Simpson,Blimp,Blimp Assassin Three.
+125934,485,241,1028000,Bart Simpson,Blimp,For Wii or Xbox?
+125935,485,242,1028000,Homer Simpson,Blimp,Xbox.
+125936,485,243,1030000,Bart Simpson,Blimp,Original or Three-Sixty?
+125937,485,244,1032000,Homer Simpson,Blimp,"Fly the blimp, you spoiled kid!"
+125940,485,247,1037000,Homer Simpson,Blimp,"I'll save you, honey!"
+125941,485,248,1039000,Homer Simpson,Blimp,Boy! Stomp on my head!
+125942,485,249,1041000,Bart Simpson,Blimp,Yes! And I've got gum on my shoe!
+125943,485,250,1047000,Homer Simpson,Blimp,You're a real jerrrk!
+125944,485,251,1059000,Homer Simpson,Blimp,Why you undead little...!
+125945,485,252,1062000,Lisa Simpson,Blimp,That's not a real arm -- it's plastic!
+125946,485,253,1065000,Homer Simpson,Blimp,"That doesn't mean you're any better than him, young lady. He could be a war hero."
+125947,485,254,1068000,Lisa Simpson,Blimp,"No, I mean they're mannequins!"
+125950,485,257,1078000,Bart Simpson,River,"There's nothing I can do to save my sister, the blimp or this airship."
+125953,485,260,1110000,Homer Simpson,Riverbank,All pooted out.
+125954,485,261,1113000,Marge Simpson,Riverbank,"Oh, I'm sorry, Homie."
+125955,485,262,1115000,Homer Simpson,Riverbank,It's worse than you think. I have to buy you a new anniversary present.
+125956,485,263,1122000,Lisa Simpson,Riverbank,Skinner and Chalmers loaded that bus with those kids... but why?
+125957,485,264,1127000,Otto Mann,Riverbank,I can tell you why.
+125958,485,265,1129000,Lisa Simpson,Riverbank,Otto? Are you the one who left the message on the blackboard?
+125959,485,266,1133000,Otto Mann,Riverbank,"Yeah, it was me. I was the bus driver when those sweet young angels were swallowed up by the river. Now I'm gonna join them."
+125960,485,267,1143000,Lisa Simpson,Riverbank,"Otto, they're just mannequins!"
+125962,485,268,1145000,Otto Mann,Riverbank,Then... I'm not responsible for a horrible tragedy! And I didn't do anything wrong by fleeing the scene and not reporting it and killing that hobo with the big mouth. I might have imagined that last part.
+125963,485,269,1157000,Gary Chalmers,Riverbank,Skin-ner!
+125965,485,271,1157000,Gary Chalmers,Car,"When I say ""drive us to Bolivia,"" that is your cue to start the damn car!"
+125966,485,272,1163000,Seymour Skinner,Car,I can't find the key!
+125967,485,273,1166000,Bart Simpson,Car,Looking for something?
+125968,485,274,1167000,Seymour Skinner,Car,Yes. My car key.
+125969,485,275,1169000,Bart Simpson,Car,Does it look like... this?
+125970,485,276,1170000,Seymour Skinner,Car,Yes. Quite a bit.
+125971,485,277,1172000,Gary Chalmers,Car,"He's got your key, Seymour."
+125973,485,279,1175000,Seymour Skinner,Mysterious Basement Classroom,I suppose you want to know why this all happened. Picture what I'm describing in your minds.
+125975,485,281,1180000,Seymour Skinner,NEW SCHOOL,"Years ago we received a government grant to improve the school. Unfortunately, I cashed it...and the money was in my pants when mother did the laundry."
+125976,485,282,1192000,Seymour Skinner,NEW SCHOOL,But these pants were good for another day.
+125977,485,283,1194000,Agnes Skinner,NEW SCHOOL,That's not your decision.
+125978,485,284,1196000,Seymour Skinner,NEW SCHOOL,I'm the boss of my own laundry!
+125979,485,285,1198000,Agnes Skinner,NEW SCHOOL,"Well, you don't have to sleep next to you!"
+125981,485,287,1201000,Gary Chalmers,Springfield Elementary School,"To keep the feds from coming after us, we built the phony schoolrooms that you saw."
+125983,485,289,1207000,Gary Chalmers,Circular Classroom,So all you had to do was fill the class with mannequins and take a few pictures.
+125984,485,290,1211000,Gary Chalmers,Circular Classroom,"Yes, except for one small glitch. We could only afford to rent the mannequins."
+125987,485,293,1217000,Seymour Skinner,Springfield Elementary School,"If we didn't get them back by five, we'd be charged for the extra day."
+125988,485,294,1221000,Gary Chalmers,Springfield Elementary School,And they didn't pro-rate.
+125990,485,296,1225000,Gary Chalmers,Springfield Elementary School,"Otto, maybe it was wrong of us to let you think you killed twenty-four children -- who could say?"
+125993,485,297,1232000,Lisa Simpson,Springfield Elementary School,"Well, there's one thing you didn't count on: my Dad getting a giant wedding cake and my sister locking herself in the car."
+125994,485,298,1238000,Seymour Skinner,Springfield Elementary School,"We planned for the wedding cake, we just didn't see the baby thing coming."
+125995,485,299,1241000,Gary Chalmers,Springfield Elementary School,"Well, you should've."
+125996,485,300,1242000,Seymour Skinner,Springfield Elementary School,How could I? She wasn't even born yet.
+125997,485,301,1244000,Gary Chalmers,Springfield Elementary School,People have babies!
+125999,485,303,1253000,Otto Mann,Springfield,Not to worry. They're just mannequins.
+126000,485,304,1256000,Milhouse Van Houten,Springfield,No we're not!
+126001,485,305,1258000,Otto Mann,Springfield,"Maybe we'll fall real slow like ""Inception."""
+126002,485,306,1262000,Otto Mann,Springfield,Oops. Guess not.

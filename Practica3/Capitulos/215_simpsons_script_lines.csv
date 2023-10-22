@@ -1,0 +1,297 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+50937,215,3,87000,Seymour Skinner,Post Office,"Hey! Hey! Settle down, children. Now, who's ever wondered how the post office works? No one?"
+50938,215,4,94000,Lisa Simpson,Post Office,"I did, until we came here last year."
+50939,215,5,97000,Seymour Skinner,Post Office,"Ah, yes. Last year... anyway, look. Here comes our guide for the day, Postmaster Bill."
+50940,215,6,104000,Postmaster Bill,Post Office,"Howdy, pardners. Welcome to your post office!"
+50941,215,7,108000,Bart Simpson,Post Office,"Wow, it's ours?"
+50942,215,8,113000,Seymour Skinner,Post Office,Bart!!
+50943,215,9,114000,Bart Simpson,Post Office,Be with ya in a minute...
+50944,215,10,115000,Postmaster Bill,Post Office,"This is the lobby, where customers come for all their postalistic needs."
+50945,215,11,120000,Krusty the Clown,Post Office,"""Legends of Comedy,"" my tuchis! What has Fatty Arbuckle done that I haven't done?"
+50946,215,12,126000,Postmaster Bill,Post Office,This machine reads zip codes. These five digits tell us where to direct your mail.
+50947,215,13,131000,Lisa Simpson,Post Office,But it's nine digits now. What's the point of these other four numbers?
+50948,215,14,135000,Postmaster Bill,Post Office,"Those are citizen relocation codes. With any luck, we'll never need 'em."
+50950,215,16,141000,Man In Military Uniform,GOVERNMENT SURVEILLANCE ROOM,She's on to us. Should I flood the chamber?
+50952,215,17,143000,Government Official,GOVERNMENT SURVEILLANCE ROOM,Not yet. Let's get some lunch.
+50954,215,19,145000,Seymour Skinner,Post Office,"Well, children, any questions for Postmaster Bill?"
+50955,215,20,149000,Nelson Muntz,Post Office,You ever gone on a killing spree?
+50956,215,21,151000,Postmaster Bill,Post Office,"No, no, the day of the gun-toting, disgruntled postman shootin' up the place went out with the macarena."
+50957,215,22,160000,Seymour Skinner,Post Office,"Well, I'm just glad I work at an elementary school."
+50958,215,23,163000,Postmaster Bill,Post Office,And this is where our employees gather to unwind after a hard day of serving the public.
+50959,215,24,171000,Mailman #1,Post Office,Bingo! Birthday card!
+50960,215,25,172000,Mailman #2,Post Office,Graduation...
+50961,215,26,173000,Mailman #3,Post Office,"Ding, ding, ding, wedding!"
+50962,215,27,173000,Mailman #2,Post Office,Yayyy!
+50964,215,29,179000,Postmaster Bill,Post Office,"I'm sure you all heard of the Dead Letter Office. Well, as a souvenir of your visit, you can each help yourself to one piece of undeliverable mail."
+50965,215,30,190000,Kids,Post Office,/ All right. / Cool.
+50966,215,31,190000,Ralph Wiggum,Post Office,I'll take you!
+50967,215,32,196000,Ralph Wiggum,Post Office,I got some dog food!
+50968,215,33,198000,Milhouse Van Houten,Post Office,I got my letter to Santa.
+50969,215,34,201000,Bart Simpson,Post Office,A coupon book? What am I gonna do with this piece of junk?
+50971,215,36,205000,Bart Simpson,Simpson Home,"Happy Birthday, Dad."
+50972,215,37,206000,Homer Simpson,Simpson Home,"Wow, a Val-U-Qual coupon book!"
+50973,215,38,210000,Homer Simpson,Simpson Home,Let's see. Ten percent off carpet cleaning. Ten! Two pizzas for the price of one at Doughy's.
+50974,215,39,217000,Lisa Simpson,Simpson Home,Doughy's has terrible pizza.
+50975,215,40,219000,Homer Simpson,Simpson Home,"Yeah, but there's two!"
+50976,215,41,221000,Marge Simpson,Simpson Home,"Oooh, ""Free foot pain analysis?"""
+50977,215,42,224000,Homer Simpson,Simpson Home,"Oh, Marge. That's just a trick to get you in there so they can cure your foot pain."
+50978,215,43,228000,Marge Simpson,Simpson Home,I guess.
+50979,215,44,232000,Homer Simpson,Simpson Home,"See ya, kids. Me and my Val-U-Qual book are gonna paint the town red... with savings! I'll start with a couple of pizzas, then a complimentary tango lesson and I'll cap it off with a smooth, refreshing colonic."
+50980,215,45,246000,Lisa Simpson,Simpson Home,"Um, Dad..."
+50981,215,46,247000,Homer Simpson,Simpson Home,Do you like piña colonics / And getting caught in the rain...
+50983,215,47,257000,Homer Simpson,Simpson Home,Passing out in the ocean...
+50985,215,49,257000,Homer Simpson,Tire Store,"Now this wheel balancing is free, right?"
+50986,215,50,261000,Salesman,Tire Store,"Oh, you betcha... absolutely... eh-- Uh-oh, oh, oh, wait a minute. These tires won't take a balance."
+50987,215,51,268000,Homer Simpson,Tire Store,They won't?
+50988,215,52,269000,Salesman,Tire Store,Nah. Nah. No. You hear that clunk?
+50989,215,53,271000,Homer Simpson,Tire Store,No.
+50990,215,54,272000,Salesman,Tire Store,"Well, that tells me you need four new tires."
+50991,215,55,274000,Homer Simpson,Tire Store,Really?
+50992,215,56,274000,Salesman,Tire Store,"Yeah. Legally, I can't even let you drive out of here on these."
+50993,215,57,279000,Homer Simpson,Tire Store,"Oh, please, can't you let me slide this time?"
+50994,215,58,281000,Salesman,Tire Store,"Gee, I'd really like to, but if my boss found out I..."
+50995,215,59,285000,Boss,Tire Store,"All right, what's goin' on over here? Were you gonna let this man drive out of here on unsafe tires?"
+50996,215,60,289000,Salesman,Tire Store,"No, boss. I swear."
+50997,215,61,290000,Boss,Tire Store,"Uh, that's it. You're fired!"
+50998,215,62,292000,Homer Simpson,Tire Store,"No! Wait! This is all my fault! Oh, if I could only turn back the clock and buy four new tires..."
+51001,215,65,313000,Wally,Tire Store Waiting Room,"Oh, I know that look. You came in for the free wheel balance and now it's costing you five hundred Simoleans."
+51002,215,66,319000,Homer Simpson,Tire Store Waiting Room,Six with the tip.
+51003,215,67,321000,Wally,Tire Store Waiting Room,"Hey, you got off easy. I just came in to use the phone and they got me for the whole Road King package. Alignment, shocks, Armour All, stem lube..."
+51004,215,68,330000,Homer Simpson,Tire Store Waiting Room,Stem lube. Even I didn't fall for that... Although winter is coming...
+51005,215,69,335000,Wally,Tire Store Waiting Room,"Man, we are a couple of Grade ""A"" suckers. Wally Kogen."
+51006,215,70,341000,Homer Simpson,Tire Store Waiting Room,"Hey, I know you. We were in the same pyramid scheme."
+51007,215,71,344000,Wally,Tire Store Waiting Room,"Oh, don't remind me. ""Friends Helping Friends,"" my ass. Say, you wanna grab a beer while we're waiting?"
+51008,215,72,351000,Homer Simpson,Tire Store Waiting Room,Yeah. I'm gettin' tired of them pointing and laughing at us.
+51010,215,74,358000,Sports Announcer,Moe's Tavern,"The road to the Super Bowl is long and pointless. I mean, when you think about it..."
+51012,215,76,365000,Homer Simpson,Moe's Tavern,Football's so great.
+51013,215,77,366000,Sports Announcer,Moe's Tavern,But now the two conference champs must survive a harrowing bye week that no one enjoys.
+51014,215,78,380000,Moe Szyslak,Moe's Tavern,"Bye weeks. Bronco Nagurski didn't get no bye weeks. And now he's dead. Well, maybe they're a good thing."
+51015,215,79,387000,Wally,Moe's Tavern,"Yeah, how 'bout that Super Bowl? You goin' this year?"
+51016,215,80,390000,Homer Simpson,Moe's Tavern,Me? Nah. Unless there's a coupon for it. Nah.
+51017,215,81,394000,Wally,Moe's Tavern,"Well, I run the Springfield Travel Agency."
+51018,215,82,397000,Wally,Moe's Tavern,"We've got a charter bus goin' down to the game. You help us fill it, you can ride for free."
+51019,215,83,402000,Homer Simpson,Moe's Tavern,Homer Simpson at the Super Bowl?
+51020,215,84,406000,Coach,Moe's Tavern,Dang! That was my last quarterback. Now what am I gonna do?
+51021,215,85,411000,Coach,Moe's Tavern,You!
+51022,215,86,412000,Homer Simpson,Moe's Tavern,Me?!
+51023,215,87,413000,Coach,Moe's Tavern,"Yeah, you. Get your hand off my wife's leg."
+51024,215,88,415000,Homer Simpson,Moe's Tavern,Sorry.
+51025,215,89,418000,Homer Simpson,Moe's Tavern,"It's a deal. Hey, Moe. Wanna come with me and Wally to the Super Bowl?"
+51026,215,90,423000,Moe Szyslak,Moe's Tavern,"Oh, absolutely. My favorite team's in it: the Atlanta Falcons . Yeah, ever since I was a boy, I've always loved the Atlanta Falcons ."
+51027,215,91,432000,Homer Simpson,Moe's Tavern,"Yeah, they're good. But I wouldn't count out the... Denver Broncos ."
+51028,215,92,436000,Wally,Moe's Tavern,I hear that President Clinton is going to be watching with his wife Hillary .
+51030,215,94,446000,Homer Simpson,Simpson Home,"C'mon, Lenny. I just need four more guys to fill my Super Bowl bus. Whaddaya say?"
+51031,215,95,450000,Lenny Leonard,Simpson Home,Nah.
+51032,215,96,450000,Homer Simpson,Simpson Home,C'mon!...
+51033,215,97,452000,Lenny Leonard,Simpson Home,Nah.
+51034,215,98,453000,Homer Simpson,Simpson Home,C'mon!
+51035,215,99,455000,Lenny Leonard,Simpson Home,Nah.
+51036,215,100,455000,Homer Simpson,Simpson Home,"Oh, c'mon!..."
+51037,215,101,457000,Lenny Leonard,Simpson Home,Ahh.
+51038,215,102,457000,Homer Simpson,Simpson Home,"Yes! Now that Lenny's in, Carl will fall like a domino."
+51039,215,103,462000,Marge Simpson,Simpson Home,I'm so happy you're going to the big game. My dream has always been to see the Bolshoi Ballet.
+51040,215,104,469000,Homer Simpson,Simpson Home,"Yeah, yeah. Do we have any pencils that work?"
+51041,215,105,471000,Lisa Simpson,Simpson Home,"Wow, you've signed up quite a few people, Dad: Sea Captain, Bumblebee Man, Comic Book Guy, the Squeaky Voiced Teen..."
+51042,215,106,479000,Homer Simpson,Simpson Home,"Yeah, it's a good group."
+51043,215,108,483000,Wally,SPRINGFIELD TRAVEL AGENCY,"I gotta hand it to you, Homer. It's really a good group."
+51044,215,109,486000,Bart Simpson,SPRINGFIELD TRAVEL AGENCY,Yeah. Not a dame in sight.
+51045,215,110,488000,Homer Simpson,SPRINGFIELD TRAVEL AGENCY,"Aw, thank God! Now we can stop holding it in."
+51046,215,111,497000,Bus Driver,SPRINGFIELD TRAVEL AGENCY,All aboard for Miami!
+51047,215,112,497000,Guys,SPRINGFIELD TRAVEL AGENCY,"Oh, no."
+51048,215,113,500000,Barney Gumble,SPRINGFIELD TRAVEL AGENCY,I don't know if I can last that long.
+51050,215,115,504000,Wally,Bus,"Super Bowl, please. And step on it."
+51051,215,116,509000,Man,Bus,"Hey, wait up!"
+51052,215,117,510000,Moe Szyslak,Bus,"Aw, crap. It's that pip-squeak Rudy."
+51053,215,118,515000,Homer Simpson,Bus,"What is it, Rudy?"
+51054,215,119,516000,Rudy,Bus,"Can I come, too?"
+51055,215,120,517000,Krusty the Clown,Bus,"Forget it, kid. You're too small to go to the Super Bowl."
+51056,215,121,521000,Rudy,Bus,"But what I lack in size, I make up for in...obnoxiousness!"
+51059,215,124,540000,Wally,Bus,"Well, sports fans, I see you've located the beer supply, so let's all enjoy it in moderation."
+51060,215,125,547000,Passengers,Bus,Boooo!
+51061,215,126,549000,Wally,Bus,"Hey, don't make me come back there. Seriously, now, if you have any questions, just ask our team leader, Homer Simpson."
+51063,215,128,560000,Wally,Bus,...Or me. B-Better ask me.
+51065,215,130,566000,Marge Simpson,Simpson Home,It's so nice to have a peaceful weekend together.
+51066,215,131,569000,Lisa Simpson,Simpson Home,"Yeah, I'm bored too."
+51067,215,132,571000,Marge Simpson,Simpson Home,"Mm-hm. Hey, why don't we do one of those craft kits Aunt Patty always gives us?"
+51068,215,133,580000,Marge Simpson,Simpson Home,"Oooh, how about paint-by-numbers?"
+51069,215,134,582000,Lisa Simpson,Simpson Home,It's so rigid and uncreative.
+51070,215,135,584000,Marge Simpson,Simpson Home,"Okay... oh, leather craft."
+51071,215,136,587000,Lisa Simpson,Simpson Home,"Oh, those poor, helpless cows."
+51072,215,137,589000,Marge Simpson,Simpson Home,Mm-hm. What about clay? You got any problem with clay?
+51073,215,138,594000,Lisa Simpson,Simpson Home,"Hey, what's this?"
+51074,215,139,596000,Lisa Simpson,Simpson Home,Vincent Price's Egg Magic!
+51075,215,140,596000,Marge Simpson,Simpson Home,"Well, what are we waiting for?"
+51077,215,142,602000,Lenny Leonard,Bus,Keep-Away Lovejoy's collar!
+51078,215,143,607000,Rev. Timothy Lovejoy,Bus,Now look what you've done.
+51079,215,144,609000,Chief Wiggum,Bus,"All right, all right, you guys have had way too much booze."
+50832,215,145,613000,Chief Wiggum,Bus,Last call!
+51080,215,146,618000,Guys,Bus,"Hey, beer here! / Over here! / Wiggum, give me a beer! / I'd like a free beer!"
+51081,215,147,618000,Chief Wiggum,Bus,"C'mon, gimme an excuse!"
+51082,215,148,623000,Driver,Bus,Pro Player Stadium. Super Bowl!
+51084,215,150,635000,Wally,Bus,"Heh, heh, I'm sorry, the guys made kind of a mess in your bathroom."
+51085,215,151,639000,Driver,Bus,What bathroom?
+51086,215,152,641000,Wally,Bus,"Uh, okay fellas, enjoy the pre-game fun!"
+51087,215,153,644000,Ned Flanders,Bus,"I don't want to be a Panicky Pete, but it's Sunday and I haven't been to church yet."
+51088,215,154,649000,Wally,Bus,No problem. The NFL's got you covered.
+51089,215,155,652000,Rosey Grier,Bus,"... and that the wondering Oakland Raiders may someday find a home... Lord, hear our prayer. Can I get an amen to that."
+51090,215,156,659000,Crowd,Bus,Amen.
+51092,215,158,662000,Bart Simpson,STADIUM PARKING LOT,"Cool, the NFL's oldest surviving player."
+51093,215,159,664000,Old Player,STADIUM PARKING LOT,I'm 53 years young!
+51095,215,161,669000,Little Guy,STADIUM PARKING LOT,Whooo!
+51096,215,162,670000,Homer Simpson,STADIUM PARKING LOT,"Hey, Troy Aikman!"
+51097,215,163,673000,Troy Aikman,STADIUM PARKING LOT,"So Ned, you like dune buggies?"
+51098,215,164,675000,Ned Flanders,STADIUM PARKING LOT,"Well, not, not my cup of..."
+51099,215,165,677000,Troy Aikman,STADIUM PARKING LOT,Sure you do. Everyone likes dune buggies.
+51100,215,166,684000,Sideshow Mel,STADIUM PARKING LOT,"Great spiral, Daniel!"
+51101,215,167,686000,Dan Marino,STADIUM PARKING LOT,"Man, that hurts."
+51102,215,168,688000,Homer Simpson,STADIUM PARKING LOT,"'Scuse me, comin' through. Friends of Dan Marino."
+51103,215,169,691000,Homer Simpson,STADIUM PARKING LOT,"Okay, Dan. Fire away."
+51104,215,170,694000,Man Next To Dan,STADIUM PARKING LOT,I'm Dan's manager. This is Dan.
+51105,215,171,697000,Dan Marino,STADIUM PARKING LOT,"Go long, son."
+51106,215,172,698000,Bart Simpson,STADIUM PARKING LOT,"Yes, sir!"
+51107,215,173,705000,Bart Simpson,STADIUM PARKING LOT,I'm catching a pass from Dan Marino! This is the greatest moment of my...
+51108,215,174,708000,Homer Simpson,STADIUM PARKING LOT,Woo hoo! Homer Simpson with the pick!
+51109,215,175,711000,Dan Marino,STADIUM PARKING LOT,"Hey, Bubba. Hacksaw. Get that moron."
+51110,215,176,715000,Homer Simpson,STADIUM PARKING LOT,"Uh-oh. Lateral, to Bart!"
+51111,215,177,719000,Homer Simpson,STADIUM PARKING LOT,My spine.
+51113,215,179,725000,Marge Simpson,Simpson Home,"Oh, honey. That is egg-ceptional."
+51114,215,180,731000,Lisa Simpson,Simpson Home,"Okay, now we just have to stick the feet on."
+51115,215,181,734000,Marge Simpson,Simpson Home,Right. Na--
+51117,215,182,735000,Marge Simpson,Simpson Home,"Hmm, Lisa, I don't want to alarm you, but I'm not finding any."
+51118,215,183,740000,Lisa Simpson,Simpson Home,"But it clearly says ""Feet Included."" They have to be here."
+51119,215,184,743000,Marge Simpson,Simpson Home,Nothing! I can't believe Vincent Price would lend his name to such a shoddy product.
+51120,215,185,749000,Lisa Simpson,Simpson Home,Now what do we do?
+51121,215,186,750000,Marge Simpson,Simpson Home,Let's call the company.
+51122,215,187,752000,Lisa Simpson,Simpson Home,"Mom, this was made in 1967. They're probably out of business."
+51123,215,188,756000,Marge Simpson,Simpson Home,"Well, we'll just see. Murray Hill 5-9232..."
+51124,215,189,763000,Male Voice,Simpson Home,"Hello, this is Vincent Price..."
+51125,215,190,764000,Marge Simpson,Simpson Home,It's Vincent Price! I thought he was dead.
+51126,215,191,768000,Vincent Price,Simpson Home,You should know the grave could never tame me.
+51127,215,192,773000,Marge Simpson,Simpson Home,"Oh, Mister Price, I loved you in The Abominable Doct..."
+51128,215,193,777000,Vincent Price,Simpson Home,"If you are calling about the missing feet, leave your address, and the replacement feet will be rushed to you by my grandson, Jody."
+51129,215,194,784000,Vincent Price,Simpson Home,"And now, I must return to the sweet embrace of the crypt. But I'll be back!"
+51130,215,195,792000,Lisa Simpson,Simpson Home,"So, is he alive or not?"
+51131,215,196,795000,Marge Simpson,Simpson Home,"742 Evergreen Terrace, Springfield. Oh, hiya, Maude! Come on in."
+51133,215,198,803000,Ticket Scalper,STADIUM,"Who needs tickets? Tickets right here. How 'bout you, Slick?"
+51134,215,199,807000,Homer Simpson,STADIUM,"Scalping tickets to the Super Bowl. Have you no shame, sir? I should give you a royal caning."
+51136,215,201,816000,Lenny Leonard,STADIUM,"Heh, heh. Right, Homer."
+51137,215,202,816000,Carl Carlson,STADIUM,"Yeah, you gotta cane 'im up good, Homer."
+51138,215,203,816000,Ticket Scalper,STADIUM,"Hey, I'm just tryin' to make an honest buck."
+51139,215,204,819000,Homer Simpson,STADIUM,"Aw, get lost, ya bloodsucking parasite. Wally and I have all the tickets we need."
+51140,215,205,824000,Ticket Taker,STADIUM,"Uh, sorry fellas. But these tickets are counterfeit."
+51141,215,206,828000,Wally,STADIUM,What?! / Counterfeit?!
+51142,215,207,830000,Ticket Taker,STADIUM,"Yeah. See, the hologram's missing. And there's no such team as the ""Spongos."" And finally, these seem to be printed on some sort of cracker."
+51143,215,208,839000,Homer Simpson,STADIUM,Stop eating our tickets!
+51144,215,209,841000,Wally,STADIUM,"Oh, how could I fall for fake tickets? Gee, the fellas are gonna be crestfallen."
+51145,215,210,846000,Homer Simpson,STADIUM,"Yes, if by ""crestfallen"" you mean ""kill us."" Listen, let me talk to them. Maybe I can smooth this over."
+51146,215,211,852000,Homer Simpson,STADIUM,My friends...
+51147,215,212,854000,Krusty the Clown,STADIUM,They don't have the tickets!
+51148,215,213,856000,Moe Szyslak,STADIUM,Kill 'em!
+51149,215,214,857000,Homer Simpson,STADIUM,"Please, my friends... Ow! All right, I'll get you into to the game!"
+51150,215,215,862000,Homer Simpson,STADIUM,"Excuse me, Uh, Mr. Scalper, sir. Have I told you that I love you?"
+51151,215,216,867000,Ticket Scalper,STADIUM,Forget it. You'll just hurt me like all the others.
+51152,215,217,871000,Homer Simpson,STADIUM,"Okay, Moe. I believe you had me by the throat. Reverend Lovejoy was working the body..."
+51153,215,218,875000,Bart Simpson,STADIUM,"Wait, Dad, look!"
+51154,215,219,880000,Homer Simpson,STADIUM,"Gentlemen, I have an idea."
+51155,215,220,885000,Homer Simpson,STADIUM,Run!
+51156,215,221,885000,Homer Simpson,STADIUM,Woo hoo!
+51157,215,222,889000,Guard,STADIUM,Get back here!
+51158,215,223,890000,Homer Simpson,STADIUM,We can still make the kickoff!
+51159,215,224,892000,Lenny Leonard,STADIUM,Here comes the kick!
+51163,215,228,900000,Dr. Julius Hibbert,STADIUM,"As a doctor, I'd say he's had enough. But as a football fan..."
+51165,215,230,941000,Commercial Announcer,STADIUM,The Catholic Church. We've made a few changes.
+51167,215,232,946000,Lisa Simpson,Simpson Home,These Super Bowl commercials are weird.
+51168,215,233,949000,Pat Summerall,Simpson Home,Just about ready for the second quarter here in Miami...
+51169,215,234,951000,John Madden,Simpson Home,"I tell you, Pat, that wild first quarter blew out my Telestrator, and now the fans are screaming for more."
+51171,215,236,958000,Homer Simpson,STADIUM,Let us outta here!
+51172,215,237,960000,Chief Wiggum,STADIUM,"Relax, Simpson, relax. A little-known fact about jail cells is they always have one phony bar, for like, emergencies."
+51173,215,238,967000,Chief Wiggum,STADIUM,"Real... real... real... real... real. So, by the process of elimination, this one is the fake."
+51174,215,239,977000,Chief Wiggum,STADIUM,"Oh! Ah, ah, that's painful."
+51175,215,240,980000,Lenny Leonard,STADIUM,"Aw, nuts. That sounds like a touchdown."
+51177,215,242,984000,Apu Nahasapeemapetilon,STADIUM,"No, no, no, I know my roars and that was most definitely a safety."
+51179,215,244,990000,Bart Simpson,STADIUM,"Oh, man."
+51180,215,245,991000,Wally,STADIUM,"Gosh, fellas. To see y'all stuck in here, when even guys in China can watch all the action from their town squares or what have you, well, I just feel pretty doggone bad. If they were electing a president of Dumbville, I'd have to nominate me."
+51181,215,246,1005000,Bart Simpson,STADIUM,You got my vote.
+51182,215,247,1007000,Homer Simpson,STADIUM,"Oh, we're never gonna get out of... Psst, cleaning lady. Would you let us out of here?"
+51183,215,248,1012000,Woman,STADIUM,Me? I'm Dolly Parton.
+51184,215,249,1015000,Homer Simpson,STADIUM,I didn't ask for your life story. Just give me the key.
+51185,215,250,1017000,Dolly Parton,STADIUM,"Young man, where I come from, the South, folks say please. And besides, I gotta go sing a medley with Rob Lowe and Stomp."
+51186,215,251,1025000,Wally,STADIUM,"Dolly, wait!"
+51187,215,252,1026000,Dolly Parton,STADIUM,Wally?
+51188,215,253,1027000,Krusty the Clown,STADIUM,You know Dolly Parton?
+51189,215,254,1029000,Wally,STADIUM,"Yeah, I book a lot of package tours to Dollywood, and EuroDollywood. That's in Alabama."
+51190,215,255,1034000,Dolly Parton,STADIUM,"Wally Kogen, what are you doing in Super Bowl jail?"
+51191,215,256,1038000,Krusty the Clown,STADIUM,Ask her if she'll go out with me.
+51192,215,257,1040000,Wally,STADIUM,We had a little ticket snafu. Do you think you can bust ol' Wally and his pals outta the pokey?
+51193,215,258,1045000,Dolly Parton,STADIUM,"Well, I do have some of my extra-strength makeup remover. Shield your eyes."
+51194,215,259,1056000,Lenny Leonard,STADIUM,"Thanks, Miss Parton."
+51195,215,260,1058000,Barney Gumble,STADIUM,"Oh, way to go, Dolly."
+51196,215,261,1060000,Bart Simpson,STADIUM,Thank you.
+51197,215,262,1060000,Krusty the Clown,STADIUM,Will you go out with me?
+51198,215,263,1061000,Dolly Parton,STADIUM,"Oo, look at the time. I better scoot to that halftime show. See y'all."
+51199,215,264,1067000,Homer Simpson,STADIUM,"Man, that's gonna be some show."
+51200,215,265,1070000,Wally,STADIUM,Who's ready for some football?!
+51201,215,266,1073000,Homer Simpson,STADIUM,Football!
+51202,215,267,1084000,Moe Szyslak,STADIUM,"Hey Homer, we been runnin' around cheerin' for an hour. Where the hell's the game?"
+51203,215,268,1089000,Seymour Skinner,STADIUM,Yeah.
+51204,215,269,1089000,Bart Simpson,STADIUM,"Where is it, man?"
+51205,215,270,1089000,Dr. Nick Riviera,STADIUM,Yeah. Where?
+51206,215,271,1089000,Homer Simpson,STADIUM,You guys are following me? I was following Flanders.
+51207,215,272,1094000,Bart Simpson,STADIUM,"Hey, look what I found!"
+51210,215,275,1105000,Bart Simpson,SKY BOX,"Hey, somebody just scored."
+51212,215,277,1105000,Homer Simpson,SKY BOX,In a minute.
+51116,215,278,1112000,Moe Szyslak,SKY BOX,"Yeah, yeah, yeah. Be right there."
+51213,215,280,1112000,Homer Simpson,SKY BOX,"Hey, it's the beer copter!"
+51214,215,281,1120000,Man,SKY BOX,What the bloody hell?
+51215,215,282,1121000,Homer Simpson,SKY BOX,"Hit the road, Gramps. This is a private sky box."
+51216,215,283,1125000,Man,SKY BOX,"I'm Rupert Murdoch, the billionaire tyrant, and this is my sky box."
+51217,215,284,1129000,Chief Wiggum,SKY BOX,"If you're Rupert Murdoch, prove it."
+51218,215,285,1136000,Guys,SKY BOX,/ Uh-oh.
+51219,215,286,1140000,Wally,SKY BOX,"Well, I'm convinced. Tell you what, Mister Murdoch, let's just split the difference. The boys and I will just crouch here quietly and take it easy on the snacks --"
+51220,215,287,1148000,Rupert Murdoch,SKY BOX,Silence!
+51221,215,288,1150000,Rupert Murdoch,SKY BOX,Seize them!
+51222,215,289,1156000,Chief Wiggum,SKY BOX,Nyaaahaaahaaa!
+51223,215,290,1156000,Enchanted Policemen,SKY BOX,Oi! Oi! Oi! Oi! Oi! Oi! Oi! Oi! Oi!
+51225,215,292,1160000,Homer Simpson,STADIUM,The game! We're so close!
+51226,215,293,1162000,Homer Simpson,STADIUM,"Follow me, boys. We're finally going to the Sup... Ow!"
+51227,215,294,1167000,Football Players,STADIUM,We did it! / We're number one! / We're rich!
+51228,215,295,1170000,Reporter #1,STADIUM,How does it feel?
+51229,215,296,1171000,Reporter #3,STADIUM,Did you ever stop believing?
+51230,215,297,1172000,Reporter #4,STADIUM,Does this suit make me look fat?
+51231,215,298,1175000,Guard,STADIUM,Players and VIP's only.
+51234,215,301,1181000,Ned Flanders,Locker Room,I can't believe it. We're actually in the winning locker room!
+51235,215,302,1184000,Player #2,Locker Room,Woo! I'm going to Disneyland!
+51236,215,303,1187000,Wally,Locker Room,Really? 'Cause I'm a travel agent and I've heard nothing but bad things.
+51238,215,305,1198000,Barney Gumble,Locker Room,Let... Go... Booze!
+51239,215,306,1198000,Homer Simpson,Locker Room,Y'ello...
+51240,215,307,1199000,Bill Clinton,Locker Room,"Uh, hello, this is President Clinton."
+51241,215,308,1201000,Homer Simpson,Locker Room,"Hey, howyadoin'?"
+51242,215,309,1202000,Bill Clinton,Locker Room,"You know, your determination and grit under extreme pressure are an inspiration. The whole country is proud of you."
+51243,215,310,1209000,Homer Simpson,Locker Room,"Well, it's about time."
+51244,215,311,1211000,Bill Clinton,Locker Room,"And on behalf of America, I'd like to..."
+51245,215,312,1213000,Homer Simpson,Locker Room,"Ow! Oh! All right, Lovejoy! You're gonna get it."
+51246,215,313,1217000,Bill Clinton,Locker Room,Hello? Hello? I command you to answer me. Hello?
+51247,215,314,1222000,Bill Clinton,Locker Room,"Al, do you have to do that right now?"
+51249,215,316,1227000,Lenny Leonard,STADIUM,"What're you gonna do with your Super Bowl ring, Carl?"
+51250,215,317,1230000,Carl Carlson,STADIUM,"Ah, probably give it to my wife. It's our anniversary today."
+51251,215,318,1233000,Guys,STADIUM,Awwwww.
+51252,215,319,1234000,Bart Simpson,STADIUM,"Dad, that doesn't belong to you."
+51253,215,320,1236000,Homer Simpson,STADIUM,But this might be my last chance to win one.
+51254,215,321,1238000,Wally,STADIUM,"Well, we sure put together a heck of a trip, Homer. Ever thought about being a travel agent?"
+51255,215,322,1243000,Homer Simpson,STADIUM,"Wally, I'd be lying if I said I hadn't."
+51256,215,323,1245000,Wally,STADIUM,"'Cause you can really ""go places"" in the travel business. Huh? Feel free to use that one."
+51257,215,324,1251000,Homer Simpson,STADIUM,What one?
+51258,215,325,1255000,Pat Summerall,STADIUM,"Well, John, what did you think of tonight's episode?"
+51259,215,326,1258000,John Madden,STADIUM,"I loved it. The last minute addition of Wally Kogen to the lineup was a bit of a gamble, but it really paid off."
+51260,215,327,1264000,Pat Summerall,STADIUM,Marge and Lisa painting eggs? Did that work for you?
+51261,215,328,1267000,John Madden,STADIUM,"Oh-ho, big time. They came off the bench with a huge effort that allowed Homer and Bart to make some significant gains."
+51262,215,329,1274000,Pat Summerall,STADIUM,Did it strike you as odd that in a Super Bowl show with Dolly Parton we didn't see any football or singing?
+51263,215,330,1280000,John Madden,STADIUM,"I hadn't thought about it Pat, but in retrospect, it was kind of a rip-off. What a way to treat the loyal fans who've put up with so much nonsense from this franchise."
+51264,215,331,1290000,Pat Summerall,STADIUM,Any final thoughts?
+51265,215,332,1291000,John Madden,STADIUM,"Nah, I'm too mad. Let's get the heck outta here."
+51266,215,333,1295000,Vincent Price,STADIUM,"All aboard, boys. I've been waiting for you."
+51267,215,334,1298000,John Madden,STADIUM,"Now, I'll tell you that doesn't make a lick of sense."
+51268,215,335,1301000,Pat Summerall,STADIUM,I know. Just get on the bus.
+51269,215,336,1304000,Vincent Price,STADIUM,"Where's that infernal clutch? Wait, wait. I'll get it."
+51270,215,337,1309000,JODY PRICE,STADIUM,"Give it some gas, Grampa."
+51271,215,338,1311000,Vincent Price,STADIUM,"Oh, quiet Jody. You're not helping."

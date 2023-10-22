@@ -1,0 +1,252 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+1401,37,1,56000,Homer Simpson,Simpson Home,"Stupid junk mail... ""You May Have Already Won!"" Yeah, win this... ""Here's Good News for Homer Simpsoy""... I'll see that he gets it. How dumb do they think I am?"
+1402,37,2,66000,Homer Simpson,Simpson Home,Huh? A check?
+1403,37,3,69000,Homer Simpson,Simpson Home,One Million dollars? I'm rich!
+1405,37,5,78000,Teller,Bank,"Mr. Simpson, I can assure you this ""check"" of yours is non-negotiable."
+1406,37,6,81000,Homer Simpson,Bank,"Oh yeah? Well, what makes you so damn sure?"
+1407,37,7,85000,Teller,Bank,"You see where it says ""VOID-VOID-VOID"" and ""This Is Not A Check""? ""Cash value one twentieth of a cent""? ""Mr. Banker, do not honor."""
+1408,37,8,88000,Homer Simpson,Bank,Shut up.
+1410,37,10,92000,Homer Simpson,Simpson Home,I had a feeling it was too good to be true. Every time you get a million dollars something queers the deal.
+1411,37,11,99000,Lisa Simpson,Simpson Home,I don't think real checks have exclamation points.
+1412,37,12,102000,Marge Simpson,Simpson Home,"Well, at least we got a free sample of Reading Digest."
+1413,37,13,104000,Homer Simpson,Simpson Home,"Marge, I never read a magazine in my life and I'm not gonna start now."
+1414,37,14,109000,Homer Simpson,Simpson Home,"Hey, a cartoon."
+1415,37,15,114000,Homer Simpson,Simpson Home,"""Well dear, you always wanted a compact."" -- Ain't it the truth."
+1416,37,16,116000,Marge Simpson,Simpson Home,"No, it is not the truth, Homer. It's well documented that women are safer drivers than men."
+1417,37,17,121000,Homer Simpson,Simpson Home,"Oh, Marge. Cartoons don't have any deep meaning. They're just stupid drawings that give you a cheap laugh."
+1419,37,19,130000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey, Einstein. Put down your readin', it's lunchtime."
+1420,37,20,132000,Homer Simpson,Springfield Nuclear Power Plant,"Nah, you go ahead."
+1421,37,21,134000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey, You don't wanna eat? What'd ya do, get one of them stomach staples?"
+1422,37,22,136000,Homer Simpson,Springfield Nuclear Power Plant,"As Tolstoy said in ""Quotable Notables,"" ""Give me learning, sir, and you may keep your black bread."""
+1424,37,24,136000,C. Montgomery Burns,Burns's Office,"Who is that bookworm, Smithers?"
+1425,37,25,144000,Waylon Smithers,Burns's Office,"Homer Simpson, sir."
+1426,37,26,145000,C. Montgomery Burns,Burns's Office,"Simpson, eh? How very strange. His job description clearly specifies an illiterate."
+1428,37,28,151000,TV Announcer,Simpson Home,"We now return to Troy McClure and Delores Montenegro in ""Preacher with a Shovel."""
+1429,37,29,155000,Troy McClure,Simpson Home,"But irrigation can save your people, Chief Smiling Bear."
+1430,37,30,155000,Homer Simpson,Simpson Home,"Marge, look at them staring at that idiot box. God forbid they would ever read something and improve their minds."
+1431,37,31,164000,Marge Simpson,Simpson Home,You've certainly taken a shine to that magazine.
+1434,37,32,167000,Homer Simpson,Simpson Home,"It's not just one magazine, Marge. They take hundreds of magazines, filter out the crap, and leave you with something that fits right in your front pocket."
+1435,37,33,180000,Homer Simpson,Simpson Home,Those kids don't know what they're missing.
+1436,37,34,184000,Lisa Simpson,Simpson Home,Daaad!
+1437,37,35,186000,Bart Simpson,Simpson Home,"Hey, what gives, man?"
+1438,37,36,187000,Homer Simpson,Simpson Home,We're all gonna sit down as a family and listen to an inspiring story of wilderness survival.
+1439,37,37,193000,Homer Simpson,Simpson Home,"""Then I heard the sound that all Arctic explorers dread: The pitiless bark of the sea lion."" He'll be killed!"
+1440,37,38,202000,Marge Simpson,Simpson Home,"Homer, he obviously got out alive if he wrote the article."
+1441,37,39,206000,Homer Simpson,Simpson Home,Don't be so...
+1442,37,40,208000,Homer Simpson,Simpson Home,"Oh, you're right."
+1443,37,41,214000,Marge Simpson,Simpson Home,Homie... Put down your magazine for a minute...
+1444,37,42,218000,Homer Simpson,Simpson Home,Hmph?
+1445,37,43,219000,Marge Simpson,Simpson Home,I thought you might want to snuggle.
+1446,37,44,222000,Homer Simpson,Simpson Home,"That reminds me! ""Seven Ways To Spice Up Your Marriage."""
+1447,37,45,223000,Homer Simpson,Simpson Home,"Marge, you have a nice body. And if you'd like to see me in a costume, you have only to ask."
+1448,37,46,223000,Marge Simpson,Simpson Home,"Thank you, Homie."
+1449,37,47,237000,Bart Simpson,Simpson Home,"Wow, little meatloaf men!"
+1450,37,48,240000,Lisa Simpson,Simpson Home,"Where did you get the idea for this, Mom?"
+1451,37,49,242000,Homer Simpson,Simpson Home,Where do you think? This baby never steers you wrong. And it was free. Free!
+1452,37,50,247000,Marge Simpson,Simpson Home,It certainly has enriched our lives.
+1453,37,51,249000,Homer Simpson,Simpson Home,"Wow! ""Win a Trip to Washington D.C.""! ""All expenses paid... VIP tour""... Oh. It's for kids."
+1454,37,52,257000,Lisa Simpson,Simpson Home,"Wait, Dad!"
+1455,37,53,259000,Lisa Simpson,Simpson Home,"Hm. An essay contest. ""Children under twelve""... ""Three hundred words""... ""Fiercely pro-American."" Sounds interesting."
+1456,37,54,268000,Marge Simpson,Simpson Home,"Bart, maybe this is something you'd like to do, too."
+1457,37,55,271000,Bart Simpson,Simpson Home,"Mom, it's a nice thought, but we both know that this is the pony to bet on."
+1458,37,56,277000,Lisa Simpson,Simpson Home,"What would Ben Franklin say if he were alive today? He'd say... oh, think of a better opening."
+1459,37,57,286000,Marge Simpson,Simpson Home,"How's it going, honey?"
+1460,37,58,287000,Lisa Simpson,Simpson Home,Not very well.
+1463,37,59,288000,Marge Simpson,Simpson Home,"Well, when I used to get stuck like this, I'd go for a bike ride. Do kids go on bike rides anymore?"
+1464,37,60,294000,Lisa Simpson,Simpson Home,Yes!
+1465,37,61,295000,Marge Simpson,Simpson Home,"I don't know, I thought maybe bikes weren't cool anymore. Do kids still use that word, ""cool""?"
+1466,37,62,298000,Lisa Simpson,Simpson Home,"Yes, Mom."
+1468,37,64,311000,Lisa Simpson,Springfield National Forest,"Okay, America. Inspire me."
+1469,37,65,316000,Lisa Simpson,Springfield National Forest,"Wow, a bald eagle."
+1470,37,66,322000,Lisa Simpson,Springfield National Forest,Hmm...
+1472,37,68,324000,Lisa Simpson,VETERANS OF POPULAR WARS HALL,"Thanks for driving me to the contest, Dad."
+1473,37,69,327000,Homer Simpson,VETERANS OF POPULAR WARS HALL,"Sweetheart, there's nothing I wouldn't do for that magazine."
+1475,37,71,330000,Nelson Muntz,Hall,"""So burn the flag if you must. But before you do, you'd better burn a few other things. You better burn your shirt and your pants. Be sure to burn your TV and car. Oh yes, and don't forget to burn your house. Because none of those things could exist without six white stripes, seven red stripes, and a hell of a lotta stars."" Thank you very much."
+1476,37,72,352000,Homer Simpson,Hall,YEAH! Damn right!
+1477,37,73,358000,Minnesota Girl,Hall,Recipe for a free country: Mix one cup liberty with three teaspoons of justice. Add one informed electorate. Baste well with veto power...
+1478,37,74,365000,Alabama Boy,Hall,My back is spineless. My belly is yellow. I am the American Non-Voter...
+1479,37,75,372000,Minnesota Girl,Hall,... Stirring two cups of checks. Sprinkle liberally with balances...
+1480,37,76,372000,QUEENS BOY,Hall,"""Ding."" ""Dong."" The sounds of the Liberty Bell. ""Ding."" Freedom. ""Dong."" Opportunity. ""Ding."" Excellent schools. ""Dong."" Quality hospitals..."
+1482,37,78,391000,Lisa Simpson,LEGION,"When America was born on that hot July day in 1776, the trees in Springfield Forest were tiny saplings, trembling towards the sun. And as they were nourished by Mother Earth, so too did our fledgling nation find strength in the simple ideals of equality and justice. Who would have thought such mighty oaks, or such a powerful nation, could grow out of something so fragile... so pure. Thank you."
+1483,37,79,423000,Jasper Beardly,LEGION,What do you think?
+1484,37,80,424000,Female Judge,LEGION,It's good. A little too good for an eight-year-old. Methinks I detect the sickly scent of the daddy.
+1486,37,81,431000,Female Judge,LEGION,"Mr. Simpson, I'd like to ask you a few questions about your daughter's essay. Lisa, will you excuse us?"
+1487,37,82,437000,Lisa Simpson,LEGION,Okay.
+1488,37,83,438000,Dad,LEGION,"""We the purple""? What the hell was that?"
+1489,37,84,441000,Female Judge,LEGION,Are you a professional writer?
+1490,37,85,443000,Homer Simpson,LEGION,Uh-uh.
+1491,37,86,444000,Female Judge,LEGION,Are you interested in politics or government?
+1493,37,88,448000,Female Judge,LEGION,Are you interested in anything?
+1495,37,90,451000,Female Judge,LEGION,Could you touch your nose for me?
+1496,37,91,457000,Female Judge,LEGION,"Lisa, after meeting your father, I've decided to award you an additional five points. Congratulations. You and your family are going to Washington!"
+1497,37,92,466000,Homer Simpson,LEGION,Woo hoo! Who would've guessed reading and writing would pay off?
+1499,37,94,479000,Flight Attendant,Airplane,"Yes, sir. Can I get you something?"
+1500,37,95,481000,Homer Simpson,Airplane,"Playing cards, notepad, aspirin, sewing kit, pilot's wing pin, propellor-shaped swizzle stick, sleeping mask and anything else I've got coming to me."
+1501,37,96,489000,Flight Attendant,Airplane,I'll see what I can do.
+1502,37,97,496000,Man #1,Airplane,Steward!
+1503,37,98,497000,Flight Attendant,Airplane,"Little boy, I bet you'd like to visit the cockpit."
+1504,37,99,500000,Bart Simpson,Airplane,Oh baby!
+1506,37,101,501000,Pilot,Cockpit,"And this control stick is like the handlebars on your tricycle. Now, would you like to see where we hang our coats?"
+1507,37,102,507000,Bart Simpson,Cockpit,"No thank you, I'd rather push this button."
+1508,37,103,510000,Pilot,Cockpit,No.
+1510,37,105,512000,Homer Simpson,Cabin,We're all gonna die!
+1512,37,107,518000,Homer Simpson,Airport,"Look, Marge, that guy has the same last name we do... Taxi!"
+1514,37,109,525000,Marge Simpson,Taxi,"Oooh, look, Homer. The IRS."
+1515,37,110,528000,Homer Simpson,Taxi,BOOOOO!
+1516,37,111,530000,Irs Man,Taxi,"Oh, boo yourself!"
+1518,37,113,532000,Marge Simpson,Hotel,"Here we are, kids! The Watergate."
+1521,37,116,546000,Hotel Guest,Elevator,Hey!
+1525,37,119,548000,Marge Simpson,Hotel,"Homer, look! They give you a shower cap, and body gel and bathrobes... Ooh, and a welcoming mint on your pillow."
+1526,37,120,558000,Homer Simpson,Hotel,Wowww -- A shoehorn! Just like in the movies!
+1527,37,121,562000,Homer Simpson,Hotel,"Shoe goes on, shoe goes off. Shoe goes on, shoe goes off. Shoe goes on, shoe goes off."
+1528,37,122,568000,Bart Simpson,Hotel,"Hey, I call first bedsies!"
+1529,37,123,570000,Lisa Simpson,Hotel,Bart! There's no such thing as first bedsies. You just made that up.
+1530,37,124,574000,Bart Simpson,Hotel,"Well, okay, which one do you want?"
+1531,37,125,576000,Lisa Simpson,Hotel,Iiiiiii Waaaaaannt... That one.
+1532,37,126,579000,Bart Simpson,Hotel,"Really, you want that one? It's all yours. Whatever you say."
+1533,37,127,583000,Lisa Simpson,Hotel,Why? What's wrong with it?
+1534,37,128,585000,Bart Simpson,Hotel,"Nothing! Have a good night's sleep, Lisa."
+1535,37,129,587000,Lisa Simpson,Hotel,"No, really, what?"
+1536,37,130,587000,Bart Simpson,Hotel,Nothing.
+1537,37,131,588000,Lisa Simpson,Hotel,What did you do to it?
+1538,37,132,590000,Bart Simpson,Hotel,Nothing.
+1539,37,133,591000,Lisa Simpson,Hotel,MOMMM!
+1540,37,134,595000,Homer Simpson,Hotel,Stupid welcoming mint! Y'ello.
+1541,37,135,599000,Bart Simpson,Hotel,Good morning. This is your wake-up call.
+1542,37,136,602000,Homer Simpson,Hotel,Wake-up call? It's two AM!
+1543,37,137,604000,Bart Simpson,Hotel,Sorry fatso.
+1544,37,138,609000,Homer Simpson,Hotel,Free food?!
+1545,37,139,612000,Miss Crowley,Hotel,"Lisa? I'm Faith Crowley, Patriotism Editor of Reading Digest."
+1546,37,140,617000,Homer Simpson,Hotel,"Ooh! I love your magazine. My favorite section is ""How To Increase Your Word Power."" That thing is really, really, really good."
+1547,37,141,625000,Miss Crowley,Hotel,Well... good.
+1548,37,142,625000,Miss Crowley,Hotel,"Lisa, I'd like you to meet some of the other finalists. This is Truong Van Dinh and Maria Dominguez."
+1549,37,143,633000,Truong/maria,Hotel,Hello.
+1550,37,144,634000,Miss Crowley,Hotel,"Maria is the national spelling bee champion, and Truong has won both the Westinghouse Talent Search and the NFL Punt, Pass and Kick Competition."
+1551,37,145,643000,Lisa Simpson,Hotel,Have either of you ever run into any problems because of your superior ability?
+1553,37,147,647000,MARIA,Hotel,"Sure, I guess."
+1554,37,148,649000,Lisa Simpson,Hotel,"Ah, me too!"
+1555,37,149,652000,Miss Crowley,Hotel,These are special VIP badges. They'll get you into places other tourists never see.
+1556,37,150,656000,Homer Simpson,Hotel,"Miss? What does the ""I"" stand for?"
+1432,37,151,658000,Miss Crowley,Hotel,Important.
+1433,37,152,659000,Homer Simpson,Hotel,"Ooh... How about the ""V""?"
+1461,37,153,661000,Miss Crowley,Hotel,Very.
+1462,37,154,663000,Homer Simpson,Hotel,Ooh... And Miss? Just one more question --
+1485,37,155,663000,Miss Crowley,Hotel,Person.
+1558,37,156,665000,Homer Simpson,Hotel,"Ah! What does the ""I"" stand for again?"
+1559,37,157,669000,Miss Crowley,Hotel,Ohh.
+1561,37,159,674000,Bart Simpson,White House,"""On this spot, Richard Nixon bowled back-to back-300 games."""
+1562,37,160,674000,Homer Simpson,White House,"Yeah, right."
+1563,37,161,679000,Marge Simpson,White House,"Wow, the President's bathroom!"
+1564,37,162,686000,BARBARA,White House,Do you mind?!
+1565,37,163,688000,Lisa Simpson,White House,Barbara Bush.
+1566,37,164,690000,BARBARA,White House,"Oh, you have those damn badges. Okay, this tub was installed in 1894..."
+1568,37,166,697000,Homer Simpson,Bureau of Engraving and Printing,Mmmmmm... Money.
+1569,37,167,703000,Worker,Bureau of Engraving and Printing,"Hey, watch it, chief!"
+1570,37,168,705000,Guide,Bureau of Engraving and Printing,"Folks, we print more than eighteen million bills a day. Oh, and in case you were wondering... no we, we don't give out free samples."
+1571,37,169,716000,Homer Simpson,Bureau of Engraving and Printing,Lousy cheap country...
+1573,37,171,723000,Homer Simpson,NAT'L AIR AND SPACE MUSEUM,BART! Get out of the Spirit of St. Louis!
+1575,37,173,730000,Homer Simpson,Washington Monument,"Hey, what's so funny?"
+1576,37,174,735000,Homer Simpson,Washington Monument,"Oh Marge, grow up."
+1578,37,176,738000,Lobbyist,CAPITAL,"Congressman, this is Springfield National Forest."
+1579,37,177,741000,Lobbyist,CAPITAL,"Now basically, what we want to do is cut her down."
+1580,37,178,745000,Arnold,CAPITAL,Huh uh.
+1581,37,179,745000,Lobbyist,CAPITAL,"As you can see in our artist's rendition it's full of old growth, just aging and festering away. In comes our logging company... to thin out the clutter. It's all part of nature's, y'know, cycle."
+1582,37,180,755000,Arnold,CAPITAL,"Well Jerry, you're a whale of a Lobbyist And I'd like to give you a logging permit. I would, but uh, this isn't like burying toxic waste. People are gonna notice those trees are gone."
+1583,37,181,765000,Lobbyist,CAPITAL,"Uh, Congressman... this is where it gets awkward, I... I never quite know how to put this... I just want to..."
+1584,37,182,774000,Arnold,CAPITAL,...Offer me a bribe?
+1585,37,183,780000,Arnold,CAPITAL,Ohhh... What is it?
+1586,37,184,781000,Secretary,CAPITAL,It's that little girl from Springfield who wrote the essay. Could be a good photo op.
+1587,37,185,786000,Arnold,CAPITAL,"Uh, sure, fine."
+1588,37,186,787000,Lobbyist,CAPITAL,"So, where do we..."
+1589,37,187,788000,Arnold,CAPITAL,Not here. I've got a little place that I use for these uh... matters. Call me tonight.
+1590,37,188,794000,Arnold,CAPITAL,Well hi there! You must be Lisa Simpson.
+1591,37,189,797000,Lisa Simpson,CAPITAL,"Hello, sir."
+1592,37,190,798000,Arnold,CAPITAL,"Lisa, you're a doer. And who knows, maybe some day you'll be a congressman or a senator. We have quite a few women senators, you know."
+1593,37,191,805000,Lisa Simpson,CAPITAL,Only two. I checked.
+1594,37,192,808000,Arnold,CAPITAL,"You're a sharp one. Well, how about a few pictures?"
+1595,37,193,813000,Arnold,CAPITAL,A tot shot always plays in the sticks.
+1597,37,195,817000,Moe Szyslak,Moe's Tavern,"Ah, isn't that nice. Now, there is a politician who cares."
+1598,37,196,821000,Barney Gumble,Moe's Tavern,"If I ever vote, it'll be for him."
+1601,37,199,829000,Lisa Simpson,Hotel,Mom?
+1602,37,200,831000,Marge Simpson,Hotel,"Lisa, the contest isn't for three hours."
+1603,37,201,834000,Lisa Simpson,Hotel,I'm too excited to sleep. Anyone up for the Winifred Beecher Howe Memorial?
+1604,37,202,838000,Homer Simpson,Hotel,Who's that?
+1605,37,203,840000,Lisa Simpson,Hotel,An early crusader for women's rights. She led the Floormop Rebellion of 1910. Later she appeared on the highly unpopular 75 cent piece.
+1607,37,205,849000,Lisa Simpson,Hotel,"Okay, but you don't know what you're missing."
+1609,37,207,858000,Lisa Simpson,W.B. HOWE MEMORIAL,"""I will iron your sheets when you iron out the inequities in your labor laws."" Amen, sister."
+1610,37,208,864000,Arnold,W.B. HOWE MEMORIAL,I told you no one ever came here.
+1611,37,209,866000,Lobbyist,W.B. HOWE MEMORIAL,"So, Bob, where do we stand on Springfield Forest? Do I get my logging permit?"
+1612,37,210,875000,Arnold,W.B. HOWE MEMORIAL,"Well, let me put it this way, Jerry... Tim-berrr!"
+1613,37,211,883000,Arnold,W.B. HOWE MEMORIAL,"Ugh, what a pooch."
+1614,37,212,884000,Lobbyist,W.B. HOWE MEMORIAL,Woof woof!
+1616,37,214,899000,Lisa Simpson,CAPITAL,How could I read my essay now? I don't believe my own words.
+1617,37,215,908000,Lisa Simpson,CAPITAL,Honest Abe. He'll show me the way.
+1619,37,217,915000,Lisa Simpson,Lincoln Memorial,"Mr. Lincoln, I..."
+1620,37,218,917000,Man #2,Lincoln Memorial,"Mr. Lincoln, I need your advice. What can I do to make this a better country?"
+1621,37,219,921000,Newlywed Wife,Lincoln Memorial,Is this a good time to buy a house?
+1622,37,220,923000,White Trash Woman #1,Lincoln Memorial,I can't get my boy to brush proper.
+1623,37,221,924000,Man #3,Lincoln Memorial,Would I look good with a moustache?
+1624,37,222,926000,Old Timer,Lincoln Memorial,"...So I tries usin' turpentine, but that jes' made it worse..."
+1625,37,223,933000,Lisa Simpson,Lincoln Memorial,"Mr. Lincoln, my name is Lisa Simpson, and I have a problem."
+1627,37,225,940000,Lisa Simpson,Jefferson Memorial,"Mr. Jefferson, my name is Lisa Simpson, and I have a problem."
+1628,37,226,945000,Thomas Jefferson,Jefferson Memorial,"I know your problem, the Lincoln Memorial was too crowded."
+1629,37,227,948000,Lisa Simpson,Jefferson Memorial,"Sorry, sir. It's just that..."
+1630,37,228,950000,Thomas Jefferson,Jefferson Memorial,"No one ever comes to see me. I don't blame them, I never did anything important. Just The Declaration of Independence, the Louisiana Purchase, the dumbwaiter..."
+1631,37,229,958000,Lisa Simpson,Jefferson Memorial,"Uh, maybe I should be going. I caught you at a bad time."
+1632,37,230,961000,Thomas Jefferson,Jefferson Memorial,Wait! Please don't go. I get so lonely.
+1634,37,232,985000,Lisa Simpson,CAPITAL BUILDING,The truth must be told.
+1636,37,234,997000,Bart Simpson,Hotel,"Rudy my man, you're a miracle worker."
+1637,37,235,1000000,Guy,Hotel,"Your laundry, sir."
+1638,37,236,1003000,Bart Simpson,Hotel,There you go... buy yourself something nice.
+1639,37,237,1005000,Guy,Hotel,Thank you!
+1640,37,238,1006000,Homer Simpson,Hotel,"Bart, are you ready to go to... I'll room service you..."
+1641,37,239,1010000,Bart Simpson,Hotel,"Before you kill me, remember, this trip is ""All Expenses Paid."""
+1643,37,241,1017000,Songster,Kennedy Center,"THE DEFICIT RAG / OH, YEAH, THE DEFICIT RAG / THOSE BUDGET GAPS CAN BE A TWELVE-DIGIT DRAG / I'M TELLIN' YA THAT'S THE DEFICIT / THEY REALLY MADE A MESS OF IT / THAT'S THE DEFICIT RA-A-G! Thank you!"
+1644,37,242,1031000,Bart Simpson,Kennedy Center,"Oh, this guy is awful."
+1645,37,243,1033000,Marge Simpson,Kennedy Center,"I know, honey, but just sit still."
+1646,37,244,1035000,Miss Crowley,Kennedy Center,"Welcome, everyone to the awards luncheon. I'd like to introduce our distinguished judges who will select our scholarship winner."
+1647,37,245,1045000,Miss Crowley,Kennedy Center,"Former Redskins great, Alonzo Flowers... perennial third-party candidate, Wilson DeFarge...Senate page, Brad Fletcher... skin-care consultant, Rowena... and wealthy gadabout, Chilton Gaines."
+1648,37,246,1060000,Miss Crowley,Kennedy Center,Our first essayist will be Lisa Simpson. ...Lisa?... Lisa?
+1649,37,247,1069000,Miss Crowley,Kennedy Center,"Oh, there she is. Lisa Simpson will now read her essay..."
+1650,37,248,1074000,Lisa Simpson,Kennedy Center,"I would like to read a different essay, if I may."
+1524,37,249,1077000,Miss Crowley,Kennedy Center,Uh... okay.
+1652,37,250,1082000,Lisa Simpson,Kennedy Center,"""The city of Washington was built on a stagnant swamp some 200 years ago, and very little has changed. It stank then, and it stinks now. Only today, it is the fetid stench of corruption that hangs in the air."""
+1653,37,251,1097000,Bart Simpson,Kennedy Center,Cool! A ruckus!
+1654,37,252,1100000,Lisa Simpson,Kennedy Center,"""And who did I see taking a bribe, but the ""Honorable"" Bob Arnold. But don't worry, Congressman, I'm sure you can buy all the votes you need with your dirty money. And this will be one nation, under the dollar, with liberty and justice for none."""
+1656,37,254,1126000,Page,SENATOR'S OFFICE,"Senator, there's a problem at the essay contest."
+1657,37,255,1128000,Senator,SENATOR'S OFFICE,"Please son, I'm very busy."
+1658,37,256,1130000,Page,SENATOR'S OFFICE,A little girl is losing faith in democracy.
+1659,37,257,1133000,Senator,SENATOR'S OFFICE,Good lord!
+1660,37,258,1139000,Oil Developer,SENATOR'S OFFICE,"Congressman, we want to drill for oil in Teddy Roosevelt's head."
+1661,37,259,1143000,Arnold,SENATOR'S OFFICE,Well... Teddy who?
+1662,37,260,1146000,Oil Developer,SENATOR'S OFFICE,"Congressman, you're under arrest."
+1663,37,261,1154000,Agent,SENATOR'S OFFICE,You work fast.
+1664,37,262,1155000,Oil Developer,SENATOR'S OFFICE,I work for Uncle Sam!
+1665,37,263,1159000,Speaker,SENATOR'S OFFICE,"We will now vote on the House Bill 1022, the expulsion of Bob Arnold."
+1666,37,264,1166000,Majority Leader,SENATOR'S OFFICE,"Mr. Speaker, I'm all for the bill, but shouldn't we tack on a pay raise for ourselves?"
+1667,37,265,1171000,Everyone Else,SENATOR'S OFFICE,NO!!
+1668,37,266,1176000,President,SENATOR'S OFFICE,"Okay, this should make my bosses very happy."
+1669,37,267,1180000,Foreign Dignitary,SENATOR'S OFFICE,Your bosses?
+1670,37,268,1180000,President,SENATOR'S OFFICE,Yep! All 250 million of them.
+1672,37,270,1188000,TRUONG,Kennedy Center Ballroom,"""When my family arrived in this country four months ago, we spoke no English and had no money in our pockets. Today, we own a nationwide chain of wheel balancing centers. Where else but in America, or possibly Canada, could our family find such opportunity? That's why, whenever I see the stars and stripes, I'll always be reminded of that wonderful word -- flag."""
+1673,37,271,1203000,Miss Crowley,Kennedy Center Ballroom,There will be a brief recess while the judges tabulate their votes.
+1675,37,273,1216000,Marge Simpson,Kennedy Center,"Lisa, what's gotten into you?"
+1676,37,274,1219000,Homer Simpson,Kennedy Center,"Yeah, your other speech was a little more crowd pleasin'."
+1677,37,275,1221000,Lisa Simpson,Kennedy Center,"I'm sorry, Dad. I couldn't think of a nice way to say America stinks."
+1678,37,276,1226000,Paper Boy,Kennedy Center,Extra! Extra! Feds nab rotten Rep!
+1679,37,277,1230000,Homer Simpson,Kennedy Center,Gimme one of those!
+1680,37,278,1231000,Marge Simpson,Kennedy Center,"""Imprisoned Congressman becomes born-again Christian""."
+1681,37,279,1231000,Lisa Simpson,Kennedy Center,I can't believe it! The system works.
+1683,37,281,1239000,Songster,Kennedy Center Ballroom,THE TRADING GAP SHUFFLE / WE'RE IN A HEAP-A TROUBLE / A-DOIN' THE TRADING GAP SHUFFLE! YES SIR!
+1684,37,282,1245000,Bart Simpson,Kennedy Center Ballroom,He already sang this song!
+1685,37,283,1246000,Marge Simpson,Kennedy Center Ballroom,"No, that was about the budget gap. This is the trading gap."
+1686,37,284,1251000,Miss Crowley,Kennedy Center Ballroom,"And now, the moment of truth: Will the winning essay be... ""Bubble On, O Melting Pot""... ""Lift High Your Lamp, Green Lady""... ""USA: A-O.K.""... or ""Cesspool On The Potomac""?"
+1687,37,285,1267000,Bart Simpson,Kennedy Center Ballroom,Cesspool cesspool cesspool cesspool cesspool...
+1688,37,286,1270000,Miss Crowley,Kennedy Center Ballroom,"And now the winner is, ""USA: A-O.K."" by Truong Van Dinh."
+1689,37,287,1281000,TRUONG,Kennedy Center Ballroom,"Miss Crowley, thank you for this over-sized novelty check. I would like to share this honor with all of my fellow essayists. Particularly the courageous Lisa Simpson, whose inflammatory rhetoric reminded us that the price of freedom is eternal vigilance."
+1690,37,288,1297000,Homer Simpson,Kennedy Center Ballroom,Give her the check!
+1691,37,289,1300000,Homer Simpson,Kennedy Center Ballroom,I was serious.
+1692,37,290,1302000,Songster,Kennedy Center Ballroom,"SAY, LET ME TELL YOU ABOUT LISA S. / SHE'S THE LITTLE EIGHT-YEAR-OLD MUCKRAKER-ESS / SHE CAUGHT A CROOK AND REALLY MADE HIM PAY / SHE DID IT ALL IN JUST ONE DAY / THAT'S WHAT I WOULD CALL / BEING ON THE BALL!"
+1693,37,291,1315000,Songster,Kennedy Center Ballroom,Ow!
+1694,37,292,1317000,Lisa Simpson,Kennedy Center Ballroom,Bart!
+1695,37,293,1318000,Bart Simpson,Kennedy Center Ballroom,"Lis, you taught me to stand up for what I believe in."

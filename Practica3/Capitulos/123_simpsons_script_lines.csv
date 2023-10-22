@@ -1,0 +1,203 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+25697,123,1,35000,Kent Brockman,Simpson Living Room,"Welcome to the six o'clock news in our brand new studio! Lookin' good, Springfield!!"
+25698,123,2,42000,Kent Brockman,Simpson Living Room,"In today's news, a two ton rhino escaped from the Springfield Zoo. But zoo officials were quick to act and Petunia, as she is known, is safely back in captivity."
+25699,123,3,54000,Kent Brockman,Simpson Living Room,"In other news, a three ton rhino that escaped from the zoo last week is still at large."
+25700,123,4,62000,Marge Simpson,Simpson Living Room,"All right, who broke my vase?!"
+25701,123,5,63000,Lisa Simpson,Simpson Living Room,Who took all my test papers off the refrigerator and tore them up?!
+25702,123,6,66000,Homer Simpson,Simpson Living Room,Who spread garbage all over Flanders' yard before I got a chance to?
+25703,123,7,70000,Bart Simpson,Simpson Living Room,"Oh, please! This is senseless destruction, with none of my usual social commentary."
+25704,123,8,76000,Lisa Simpson,Simpson Living Room,"If it wasn't you, then who was it?"
+25705,123,9,80000,Marge Simpson,Simpson Living Room,"Well, I'm sure these things didn't destroy themselves, now did they?"
+25706,123,10,84000,Homer Simpson,Simpson Living Room,Did they?!
+25707,123,11,89000,Homer Simpson,Simpson Living Room,"Hmm, I guess Bart's not to blame. He's lucky too, because it's spankin' season and I've got a hankerin' for some spankerin'."
+25709,123,13,99000,Bart Simpson,Simpson Backyard,"I don't know why you're so energetic today, boy, but prepare to be worn out."
+25710,123,14,109000,Lisa Simpson,Simpson Backyard,"What's wrong, boy? Getting tired?"
+25712,123,16,125000,Marge Simpson,Simpson Kitchen,I think there's really something wrong with Santa's Little Helper. He was up barking all night and dug up the back yard worse than ever.
+25713,123,17,134000,Lisa Simpson,Simpson Kitchen,My Bongo drums!
+25714,123,18,135000,Bart Simpson,Simpson Kitchen,My strobe light!
+25715,123,19,137000,Homer Simpson,Simpson Kitchen,"My ""Best of Ray Stevens featuring The Streak"" album! So it was the dog that buried all our stuff!"
+25716,123,20,143000,Marge Simpson,Simpson Kitchen,"Yes, the dog..."
+25717,123,21,145000,Homer Simpson,Simpson Kitchen,Oh my God! He's got the precious cable TV cable!
+25719,123,23,155000,Kent Brockman,Chief Wiggum's Bedroom,"Always use fresh macaroni. If the box rattles, throw it away..."
+25721,123,25,164000,Cable Announcer,Chief Wiggum's Bedroom,"Your cable TV is experiencing difficulties. Please do not panic. Resist the temptation to read or talk to loved ones. Do not attempt sexual relations, as years of TV radiation have left your genitals withered and useless."
+25722,123,26,178000,Chief Wiggum,Chief Wiggum's Bedroom,"Well, I'll be damned."
+25724,123,28,185000,Marge Simpson,Pet Store,"Excuse me, we're having a problem with our dog..."
+25725,123,29,188000,Pet Store Man,Pet Store,"Lady, I'll tell you what I'm telling everyone else. I'm sorry if your dog went blind, but your gripe is with Hartz Mountain, not with me."
+25726,123,30,195000,Marge Simpson,Pet Store,"No, no, our dog is out of control. He's wild, destructive, and has little or no respect for authority."
+25727,123,31,202000,Pet Store Man,Pet Store,Hmm... let me try a canine/human mind meld. It's an incredibly rare psychic power possessed only by me and three other clerks at this store.
+25728,123,32,212000,Pet Store Man,Pet Store,"Okay. I'm bored... I'm restless... Need change in life... Like imported leather leash... Uh, blue contact lenses. 200 volt shock training collar..."
+25731,123,34,233000,Homer Simpson,Simpson Car,"Well, problem solved."
+25732,123,35,237000,Marge Simpson,Simpson Car,"Homer, hold on to the wheel!"
+25733,123,36,240000,Homer Simpson,Simpson Car,You got it.
+25734,123,37,243000,Bart Simpson,Simpson Car,Hey!
+25735,123,38,247000,Homer Simpson,Simpson Car,"Don't worry. We'll catch him, or run him over tryin'."
+25737,123,40,250000,Bart Simpson,Street,"Look, he's heading back to the greyhound racing track where we found him!"
+25738,123,41,254000,Homer Simpson,Street,"Don't worry. As soon as they find out he doesn't have any money, they'll throw him out. Believe me, I know."
+25740,123,43,266000,Marge Simpson,DOG RACING TRACK LOBBY,"Oh, this place is so big. Do you think we should split up and look for them, Homie? Homie?"
+25741,123,44,272000,Homer Simpson,DOG RACING TRACK LOBBY,Two bucks to win on number eight... ...and have you seen my beloved dog? Gimme the ticket.
+25743,123,46,280000,Homer Simpson,Track,We can't lose. Look at the name of the dog I bet on.
+25744,123,47,284000,Marge Simpson,Track,"""She's The Fastest..."" Homer, I don't think that means necessarily..."
+25745,123,48,289000,Track Announcer,Track,And they're off! She's The Fastest jumps out to an insurmountable lead!
+25746,123,49,292000,Homer Simpson,Track,"You're lucky you got looks, Marge."
+25747,123,50,294000,Track Announcer,Track,"As they round the far turn, it's She's The Fastest, followed by Always Comes In Second and I'm Number Three..."
+25748,123,51,299000,Homer Simpson,Track,"Yes! Come on, you little horse!"
+25749,123,52,301000,Track Announcer,Track,And they're in the home stretch. It's -- wait! Another dog is on the track!
+25750,123,53,306000,Bart Simpson,Track,It's Santa's Little Helper!
+25751,123,54,307000,Track Announcer,Track,"The mystery dog is gaining fast on the outside. Of course, he could never win this race - or could he?"
+25752,123,55,321000,Lisa Simpson,Track,What's Santa's Little Helper doing to that dog?
+25753,123,56,323000,Marge Simpson,Track,Uh-oh...
+25754,123,57,325000,Bart Simpson,Track,"It looks like he's trying to jump over her, but he can't quite make it. Come on, boy, you can do it!"
+25755,123,58,331000,Track Announcer,Track,"Ladies and gentlemen, this is the end. This is the end of dog racing."
+25757,123,60,335000,Marge Simpson,Track,I think they're in love.
+25758,123,61,338000,Crowd,Track,Aww...
+25759,123,62,344000,Homer Simpson,Track,"Aw, so that's what's been wrong with the little fella. He misses casual sex."
+25760,123,63,351000,Lisa Simpson,Track,"Can we keep Santa's girlfriend, Mom?"
+25730,123,64,353000,Bart Simpson,Track,Please?
+25761,123,65,354000,Marge Simpson,Track,But she's not our dog.
+25762,123,66,355000,Texan,Track,She's yours now!
+25763,123,67,358000,Texan,Track,Once they fall in love they lose their racin' spirit.
+25764,123,68,360000,Marge Simpson,Track,But won't you miss her loyalty and companionship?
+25765,123,69,367000,Texan,Track,"Lady, you're allll-right!"
+25767,123,71,371000,Marge Simpson,Simpson Kitchen,"Okay, you can go out and play, but... no more you know what in front of the house, all right?"
+25768,123,72,378000,Marge Simpson,Simpson Kitchen,"Hey, what did I just say?!!"
+25769,123,73,414000,Luigi,Simpson Kitchen,"Take it, it fell on the floor-a."
+25770,123,74,432000,Bart Simpson,Simpson Kitchen,"Hey, boy, you wanna play fetch?"
+25771,123,75,434000,Bart Simpson,Simpson Kitchen,"Me and Santa's Little Helper used to be a team, but he never wants to play anymore since his bitch moved in!"
+25772,123,76,442000,Marge Simpson,Simpson Kitchen,Bart! Don't ever say that word again!
+25773,123,77,444000,Bart Simpson,Simpson Kitchen,Well that's what she is! I looked it up.
+25774,123,78,446000,Marge Simpson,Simpson Kitchen,"Well, I'm going to write the dictionary people and have that checked. It feels like a mistake to me."
+25775,123,79,452000,Bart Simpson,Simpson Kitchen,Hey look! A really small dog just fell out of Santa's girlfriend.
+25776,123,80,457000,Marge Simpson,Simpson Kitchen,"Oh, my God! She's having babies! Oh, I'm sorry, girl. I thought you were just getting fat."
+25777,123,81,463000,Lisa Simpson,Simpson Kitchen,"Look, it's twins!"
+25778,123,82,465000,Homer Simpson,Simpson Kitchen,Now it's two sets of twins.
+25779,123,83,467000,Bart Simpson,Simpson Kitchen,Two sets of twins and a triplet!
+25780,123,84,469000,Marge Simpson,Simpson Kitchen,"Homer, Homer find a place for all these little miracles."
+25781,123,85,484000,Marge Simpson,Simpson Kitchen,"Oh, my. I've never seen anything like this."
+25782,123,86,488000,Lisa Simpson,Simpson Kitchen,How many more can there be?
+25783,123,87,491000,Bart Simpson,Simpson Kitchen,"Twenty-two, twenty-three, twenty-four..."
+25784,123,88,504000,Bart Simpson,Simpson Kitchen,Twenty-five.
+25786,123,90,519000,Lisa Simpson,Simpson Home,Wow! Twenty-five puppies!
+25787,123,91,525000,Bart Simpson,Simpson Home,An army of dogs! No bully will ever touch me again!
+25788,123,92,532000,Bart Simpson,Simpson Home,"Hey, jerkface! You have the face of a jerk!"
+25789,123,93,537000,Jimbo Jones,Simpson Home,"All right, Simpson, you asked for..."
+25790,123,94,538000,Bart Simpson,Simpson Home,"Get 'em, boys!"
+25791,123,95,546000,Bart Simpson,Simpson Home,"Say, Jimbo ... hope I wasn't out of line with that ""jerkface"" crack."
+25793,123,97,571000,Marge Simpson,Simpson Kitchen,"Oh, Homie, aren't they adorable?"
+25794,123,98,575000,Homer Simpson,Simpson Kitchen,"Yes, we've waited many years, but the good Lord has finally blessed us with a real family."
+25796,123,100,593000,Marge Simpson,Simpson Living Room,"Look at Branford II! Isn't that cute? He thinks he's one of the Models, Inc."
+25797,123,101,602000,Homer Simpson,Simpson Living Room,Get that cat out of the way!
+25799,123,103,611000,Bart Simpson,Bart's Bedroom,"Agh, my socks!"
+25801,123,105,620000,Lisa Simpson,KITCHEN,"Mom, why do I have to wear a flea collar?"
+25802,123,106,624000,Marge Simpson,KITCHEN,"Well, it's just easier this way."
+25804,123,108,629000,Homer Simpson,LIVING ROOM,Ooh... this time... Ah...
+25806,123,110,645000,Marge Simpson,Simpson Kitchen,"Yeeesch! This house stinks! You're not just putting the new newspapers over the old ones, are you?"
+25807,123,111,652000,Homer Simpson,Simpson Kitchen,Do you have a better idea?
+25808,123,112,655000,Marge Simpson,Simpson Kitchen,"Now I know we love the puppies very much, but I think they're getting to be a problem."
+25809,123,113,661000,Bart Simpson,Simpson Kitchen,"Yeah, they ate all my socks! I have to wear Lisa's to school today!"
+25810,123,114,664000,Homer Simpson,Simpson Kitchen,"How do you explain the culottes, boy?"
+25811,123,115,667000,Bart Simpson,Simpson Kitchen,"Well, I have to coordinate, don't I?"
+25812,123,116,668000,Homer Simpson,Simpson Kitchen,Your mother and I have been thinking about giving the puppies away.
+25813,123,117,671000,Lisa Simpson,Simpson Kitchen,Nooooooo!
+25814,123,118,672000,Homer Simpson,Simpson Kitchen,Mainly your mother.
+25815,123,119,673000,Lisa Simpson,Simpson Kitchen,"Is that what we do in this family? When someone becomes an inconvenience, we just get rid of them?!"
+25817,123,121,683000,Grampa Simpson,Springfield Retirement Castle,Hello? Is anybody there?
+25818,123,122,688000,Marge Simpson,Springfield Retirement Castle,"All right, we'll give the dogs one more chance. As long as the puppies don't do anything else wrong, they stay. On a completely unrelated topic, I'm having a very, very important dinner party tonight."
+25819,123,123,702000,Homer Simpson,Springfield Retirement Castle,Splendid. Who's coming?
+25820,123,124,705000,Marge Simpson,Springfield Retirement Castle,"Rev. Lovejoy, your old Army drill sergeant, and the Regional Director of the IRS."
+25822,123,126,712000,Rev. Timothy Lovejoy,Simpson Dining Room,"Oh, just lovely, Marge. The whole town will hear what a perfect evening this was, how nothing at all went wrong."
+25824,123,127,719000,DRILL SGT.,Simpson Dining Room,"Simpson, this evening has gone so flawlessly, I'm gonna forget that you were mistakenly let out of the Army a month early."
+25825,123,128,726000,Irs Agent,Simpson Dining Room,And I'm so impressed by this problem-free evening that there's no need for that audit.
+25826,123,129,730000,Irs Agent,Simpson Dining Room,A toast to the Simpsons...
+25827,123,130,733000,DRILL SGT.,Simpson Dining Room,And to the delectable turkey...that's walking around the table??!!
+25828,123,131,737000,Rev. Timothy Lovejoy,Simpson Dining Room,"Dear Lord, it's a demon bird!"
+25829,123,132,747000,Everyone,Simpson Dining Room,Ewwwww!
+25830,123,133,747000,DRILL SGT.,Simpson Dining Room,"Simpson, see you at reveille O-five hundred tomorrow."
+25831,123,134,752000,Irs Agent,Simpson Dining Room,See you at the IRS!
+25832,123,135,754000,Rev. Timothy Lovejoy,Simpson Dining Room,See you in hell! From heaven.
+25834,123,137,762000,Ned Flanders,Simpson Home,"Oh, we sure could use a pooch to guard the flock at the Flanderosa."
+25835,123,138,767000,Seymour Skinner,Simpson Home,It'd be nice to have some companionship when mother goes out on dates.
+25836,123,139,771000,Grampa Simpson,Simpson Home,We could use a new pet over at the home seein' how we accidentally killed that smart-mouthed bird.
+25837,123,140,781000,Lisa Simpson,Simpson Home,They don't like being broken up.
+25838,123,141,783000,Marge Simpson,Simpson Home,"We've got to be realistic, kids. Who's gonna have a big enough heart to take care of twenty-five puppies?"
+25839,123,142,790000,C. Montgomery Burns,Simpson Home,"...and I know the little fellas would love romping around my many acres, chasing my many cars, drinking from my many toilets..."
+25840,123,143,798000,Homer Simpson,Simpson Home,Who wouldn't?
+25841,123,144,800000,Lisa Simpson,Simpson Home,"Mom, don't give the puppies to him! He'll be mean to them!"
+25842,123,145,804000,Marge Simpson,Simpson Home,"She's right, Homer. There's something about his face I don't trust."
+25843,123,146,812000,Homer Simpson,Simpson Home,"Uh, I'm sorry, Mr. Burns, but you can't have these dogs. Am I fired?"
+25844,123,147,820000,C. Montgomery Burns,Simpson Home,"Hmm? Oh, of course not. They're your pets, you can do as you wish. Good day, everyone."
+25845,123,148,827000,Marge Simpson,Simpson Home,"My, he certainly took that well."
+25846,123,149,830000,Homer Simpson,Simpson Home,"A little too well, if you ask me. I'm sure he's plotting some brilliant scheme to get those puppies."
+25847,123,150,838000,C. Montgomery Burns,Simpson Home,There you go. There you go. You too...
+25848,123,151,841000,Waylon Smithers,Simpson Home,"Honestly, sir, you just don't put the effort into your schemes that you used to."
+25823,123,153,857000,Chief Wiggum,Simpson Kitchen,"Don't worry folks, we'll find your wallet."
+25851,123,154,861000,Marge Simpson,Simpson Kitchen,"Dogs! Chief, you're getting powdered sugar all over my floor!"
+25852,123,155,865000,Chief Wiggum,Simpson Kitchen,"No, I'm not. No, I'm not. I'm, uh, dusting for prints."
+25854,123,157,871000,Bart Simpson,Simpson Backyard,We don't have to wait for the cops - who can track the puppies better than their own mom and dad?
+25855,123,158,875000,Lisa Simpson,Simpson Backyard,Let's go find your babies!
+25856,123,159,878000,Marge Simpson,Simpson Backyard,"Dinner's on, dogs!"
+25857,123,160,882000,Chief Wiggum,Simpson Backyard,"I'm sorry, kids. I don't think we're ever gonna find your greyhounds. Maybe Mr. Burns will sell you one of the twenty-five he got last night."
+25860,123,163,905000,Lisa Simpson,Burns Manor,Who knows what horrible things he's doing to those innocent little puppies?
+25862,123,165,919000,C. Montgomery Burns,Burns's Bathroom,"There. Now, wasn't that heavenly? And don't you feel better, too?"
+25864,123,167,925000,Lisa Simpson,Burns Manor,He's giving them a bath!
+25866,123,169,928000,C. Montgomery Burns,Burns's Bathroom,"There you are, there ya go li'l' fella, and you..."
+25867,123,170,937000,C. Montgomery Burns,Burns's Bathroom,"Smithers, look! He's standing up! I've never seen anything so adorable. You know who it reminds me of..."
+25868,123,171,944000,Waylon Smithers,Burns's Bathroom,Benji?
+25869,123,172,944000,C. Montgomery Burns,Burns's Bathroom,No.
+25870,123,173,945000,Waylon Smithers,Burns's Bathroom,Lassie?
+25871,123,174,946000,C. Montgomery Burns,Burns's Bathroom,"No, no, no. A person, you know who I mean."
+25872,123,175,949000,Waylon Smithers,Burns's Bathroom,Snoop Doggy Dog? Bob Barker? David Brenner?
+25873,123,176,952000,C. Montgomery Burns,Burns's Bathroom,"No, no. The person who's always standing and walking."
+25874,123,177,956000,Waylon Smithers,Burns's Bathroom,Rory Calhoun?
+25875,123,178,958000,C. Montgomery Burns,Burns's Bathroom,That's it! You stay with me. You're the pick of the litter.
+25877,123,180,966000,Lisa Simpson,Burns Manor,Maybe we were wrong about Burns on this one.
+25879,123,182,972000,Waylon Smithers,Burns's Bedroom,"Are you sure you want to go through with this, sir? You do have a very full wardrobe as it is."
+25880,123,183,978000,C. Montgomery Burns,Burns's Bedroom,": Yes... But not completely full, for you see... / ""SOME MEN HUNT FOR SPORT, /OTHERS HUNT FOR FOOD / THE ONLY THING I'M HUNTING FOR / IS AN OUTFIT THAT LOOKS GOOD..."""
+25882,123,184,1003000,C. Montgomery Burns,Burns's Bedroom,"/ SEE MY VEST, SEE MY VEST / MADE FROM REAL GORILLA CHEST / FEEL THIS SWEATER, THERE'S NO BETTER / THAN AUTHENTIC IRISH SETTER... / SEE THIS HAT, T'WAS MY CAT / MY EVENING WEAR, A VAMPIRE BAT / THESE WHITE SLIPPERS ARE ALBINO / AFRICAN ENDANGERED RHINO... / GRIZZLY BEAR UNDERWEAR / TURTLES NECKS, I'VE GOT MY SHARE / BERET OF POODLE ON MY NOODLE, / IT SHALL REST... / TRY MY RED ROBIN SUIT / IT COMES ONE BREAST OR TWO... / SEE MY VEST, SEE MY VEST, SEE MY VEST / / LIKE... MY... LOAFERS? / FORMER... GOPHERS... / IT WAS THAT OR / SKIN MY CHAUFFEURS"
+25883,123,185,1048000,C. Montgomery Burns,Burns's Bedroom,BUT A GREYHOUND FUR TUXEDO / WOULD BE BEST / SO LET'S PREPARE THESE DOGS...
+25884,123,186,1054000,Fat Cheeked Housekeeper,Burns's Bedroom,KILL TWO FOR MATCHING CLOGS
+25885,123,187,1055000,C. Montgomery Burns,Burns's Bedroom,"SEE MY VEST... / SEE MY VEST... / OH, PLEASE, WON'T YOU SEE MY VEESSSST!"
+25886,123,188,1065000,C. Montgomery Burns,Burns's Bedroom,I really like the vest.
+25887,123,189,1067000,Waylon Smithers,Burns's Bedroom,"I gathered, yeah."
+25889,123,191,1069000,Lisa Simpson,Burns Manor,He's gonna make a tuxedo out of our puppies!!!
+25891,123,193,1074000,Lisa Simpson,Burns Manor,Bart!
+25892,123,194,1075000,Bart Simpson,Burns Manor,Sorry. You've gotta admit it's catchy.
+25893,123,195,1077000,C. Montgomery Burns,Burns Manor,"Come on, Smithers. Let's go finish the little flea circuses off. Except for ""Little Monty,"" of course."
+25894,123,196,1086000,Bart Simpson,Burns Manor,We've gotta get the dogs outta there!
+25896,123,198,1091000,Lisa Simpson,Bathroom,Ssh.
+25897,123,199,1092000,Bart Simpson,Bathroom,"Hush, puppies!"
+25898,123,200,1094000,Lisa Simpson,Bathroom,We've gotta get you outta here!
+25899,123,201,1102000,Bart Simpson,Bathroom,"I know, the window!"
+25900,123,202,1104000,Lisa Simpson,Bathroom,No Bart! What're you doing?
+25901,123,203,1107000,Bart Simpson,Bathroom,Dogs always land on their feet.
+25902,123,204,1108000,Lisa Simpson,Bathroom,That's cats.
+25903,123,205,1109000,Bart Simpson,Bathroom,"No, it's dogs. I'll prove it."
+25904,123,206,1113000,Bart Simpson,Bathroom,Best two out of three.
+25905,123,207,1117000,Lisa Simpson,Bathroom,"Bart, Look! A laundry chute!"
+25906,123,208,1120000,Bart Simpson,Bathroom,"Okay guys, let's move!"
+25907,123,209,1129000,Bart Simpson,Bathroom,Come on! Come on!
+25908,123,210,1132000,Lisa Simpson,Bathroom,I've got an idea!
+25909,123,211,1143000,Bart Simpson,Bathroom,"Sorry, Monty, but you're too big for this ride."
+25912,123,214,1153000,Lisa Simpson,BASEMENT LAUNDRY ROOM,"Quick, let's get..."
+25850,123,215,1156000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,Going somewhere?
+25914,123,216,1157000,Bart Simpson,BASEMENT LAUNDRY ROOM,That's impossible! How did you get here first?
+25915,123,217,1160000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,"Oh well, there'll be plenty of time for explanations later. Right now, I'll be taking my puppies back."
+25916,123,218,1166000,Lisa Simpson,BASEMENT LAUNDRY ROOM,But they're ours! You stole them from us!
+25917,123,219,1169000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,Here's a phone. Call somebody who cares.
+25918,123,220,1173000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,"Give me that! Now if you'll excuse us, children, the pups have a date with a fashion knife."
+25919,123,221,1180000,Bart Simpson,BASEMENT LAUNDRY ROOM,"There! Now you don't know which one is Little Monty! I guess if you don't want him to be part of your tuxedo, you'll have to let the other dogs go, too!"
+25920,123,222,1188000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,"Nice try. C'mon, Little Monty, stand up!"
+25921,123,223,1193000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,"Come on, stand up! Do your trick."
+25922,123,224,1196000,Lisa Simpson,BASEMENT LAUNDRY ROOM,"No, don't! Stay down, Monty! Don't get up! Stay down! Stay down, boy!"
+25923,123,225,1202000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,Excellent.
+25924,123,226,1210000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,Now it's simply a matter of bending down and picking up the one and only...
+25925,123,227,1219000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,"This can't be happening! They're all standing! I can't tell them apart! All right, you win..."
+25926,123,228,1228000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,I'll have to kill them all.
+25927,123,229,1230000,Lisa Simpson,BASEMENT LAUNDRY ROOM,Nooo!!
+25928,123,230,1234000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,But they're so wretchedly adorable! Twenty-five little Rory Calhouns. I can't do it!
+25929,123,231,1241000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,But I can kill you!
+25930,123,232,1244000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,"No, I can't kill you either. Look at you standing there on your hind legs like a couple of Rory Calhouns."
+25931,123,233,1256000,Lisa Simpson,BASEMENT LAUNDRY ROOM,"Well, Mr. Burns, I hope you've realized the folly of killing innocent animals for fashion."
+25932,123,234,1261000,C. Montgomery Burns,BASEMENT LAUNDRY ROOM,"Oh, I have. I have! I swear I'll never wear any clothing made from an animal that can do an amusing trick!"
+25934,123,236,1269000,Track Announcer,Springfield Downs Dog Track,"Another victory for Montgomery Burns' champion greyhounds! Twenty-five dogs, twenty-five world champions, which so far have earned their owner over ten million dollars. I'll bet whoever gave him those dogs is kicking themselves now!"
+25936,123,238,1283000,Marge Simpson,Simpson Basement,"Homer! For the love of God, no."
+25938,123,239,1286000,Homer Simpson,Simpson Basement,"Marge, you know that batting this lightbulb is the only thing that cheers me up after giving away those million dollar greyhounds."

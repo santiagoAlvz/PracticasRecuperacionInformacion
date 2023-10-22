@@ -1,0 +1,237 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+107973,416,2,31000,Homer Simpson,Homer's Car,"Dad, are you sure you're okay to drive at night?"
+107974,416,3,33000,Grampa Simpson,Homer's Car,It's night?!
+107975,416,4,34000,Homer Simpson,Homer's Car,"All right, that's it, pull over."
+107976,416,5,35000,Grampa Simpson,Homer's Car,Now don't you worry. Just sit back and relax to the smooth sounds of Tommy Dorsey's All-White Orchestra.
+107977,416,6,43000,Grampa Simpson,Homer's Car,"Son, let this music take you to a time when girls were girls and a Hershey bar was as thick as a phone book -- I'm sick of this song!"
+107978,416,7,54000,Grampa Simpson,Homer's Car,I don't like this one either -- too optimistic!
+107979,416,8,57000,Grampa Simpson,Homer's Car,Too slow! Too fast! No zazz! Too much zazz! More boogie! Less woogie! My back hurts! All my friends are dead!
+107982,416,11,74000,Patty Bouvier,Other Car,Nice one.
+107983,416,12,74000,Selma Bouvier,Other Car,Thanks.
+107985,416,14,107000,Grampa Simpson,Other Car,"Son, call me an ambulance."
+107986,416,15,112000,Grampa Simpson,Other Car,"And while I'm in the hospital, you'll have to visit me every day. And then I'll have to come live with you while I recover."
+107987,416,16,122000,Grampa Simpson,Other Car,"Eventually I'll die in your home, which'll hurt the resale value, but it'll all be wor--"
+107989,416,18,135000,Lisa Simpson,Other Car,Dad... Dad? Wake up!
+107991,416,20,139000,Homer Simpson,Homer's Car,I was having the most wonderful dream. I always wake up just before the good part.
+107992,416,21,145000,Lisa Simpson,Homer's Car,You can just drop me off here.
+107993,416,22,149000,Homer Simpson,Homer's Car,"I'll see you later, honey."
+107995,416,24,158000,Mayor Joe Quimby,Springfield Town Hall,"Er, uh... yes?"
+107996,416,25,160000,Lisa Simpson,Springfield Town Hall,"I'm delivering your Scout Gal Cookies, Mayor Quimby! That'll be thirty dollars!"
+107931,416,26,165000,Mayor Joe Quimby,Springfield Town Hall,For three boxes?
+107997,416,27,167000,Lisa Simpson,Springfield Town Hall,"The money helps us serve the community! We plant trees, pick up litter, cut up milk bones for old dogs..."
+107998,416,28,172000,Mayor Joe Quimby,Springfield Town Hall,It was a rhetorical question.
+107999,416,29,174000,Lisa Simpson,Springfield Town Hall,And I used rhetoric in my answer!
+108000,416,30,177000,Mayor Joe Quimby,Springfield Town Hall,Let's just move on.
+108002,416,32,180000,Mayor Joe Quimby,Springfield Town Hall,...Twenty-seven to the left... and open.
+108003,416,33,185000,Lisa Simpson,Springfield Town Hall,Where's all the money?
+108004,416,34,187000,Mayor Joe Quimby,Springfield Town Hall,Why it's right...
+108005,416,35,188000,Mayor Joe Quimby,Springfield Town Hall,Uh-oh. We spent all our money on that new slogan for Springfield.
+108006,416,36,194000,Mayor Joe Quimby,Springfield Town Hall,"Um... what say you leave the cookies, and I pay you double next year?"
+108007,416,37,199000,Lisa Simpson,Springfield Town Hall,"Sir, I didn't get this ""skepticism"" merit badge falling for promises like that."
+108008,416,38,204000,Mayor Joe Quimby,Springfield Town Hall,"If you don't give me those cookies, I'll pass a law forcing your organization to accept gay scout leaders."
+108009,416,39,209000,Lisa Simpson,Springfield Town Hall,I would strongly support that measure.
+108010,416,40,211000,Mayor Joe Quimby,Springfield Town Hall,Just give me those cookies!
+108011,416,41,214000,Mayor Joe Quimby,Springfield Town Hall,Let go. This is a low point for my administration.
+108012,416,42,219000,Mayor Joe Quimby,Springfield Town Hall,"People of Springfield, our city is broke."
+108014,416,44,224000,Moe Szyslak,Springfield Town Hall,"Uh, when you say broke, do you mean really broke, or uh, ""O.J. Simpson broke?"""
+108015,416,45,228000,Mayor Joe Quimby,Springfield Town Hall,Really broke! I've been reduced to using this cheap novelty gavel.
+108017,416,47,235000,Mayor Joe Quimby,Springfield Town Hall,Order! Order!
+108018,416,48,236000,Homer Simpson,Springfield Town Hall,"Homer Simpson. I know a lot of you from church, and the market and such. And I'm not much for talkin' -- but seems to me, in hard times like these that we Americans come together."
+108020,416,50,249000,Homer Simpson,Springfield Town Hall,"So I say we roll up our sleeves, and fake a disaster to trick the federal government out of relief money."
+108021,416,51,258000,Mayor Joe Quimby,Springfield Town Hall,"Rip off the federal government? Hm, I have reservations... for dinner in five minutes. So all in favor, say aye!"
+108022,416,52,266000,Crowd,Springfield Town Hall,Aye!
+108023,416,53,267000,Mayor Joe Quimby,Springfield Town Hall,"The ""ayes"" have it."
+107964,416,56,272000,Fema Official,Springfield Town Square,"Now, when exactly did the hurricane pass through your town?"
+108026,416,57,276000,Mayor Joe Quimby,Springfield Town Square,"Er uh, five minutes ago. You just missed it."
+108027,416,58,279000,Fema Official,Springfield Town Square,FEMA will help you rebuild this town.
+108029,416,60,283000,Fema Official,Springfield Town Square,"Your first ten million dollars will arrive as soon as you submit this form, and the twenty-five hundred dollar processing fee."
+108030,416,61,291000,Mayor Joe Quimby,Springfield Town Square,And that's how...
+108032,416,63,291000,Mayor Joe Quimby,Springfield Town Hall,...a fake FEMA official scammed us out of twenty-five hundred dollars. We are now worse than broke.
+108034,416,65,300000,Lisa Simpson,Springfield Town Hall,"Panic not, fellow Springfielders!"
+108035,416,66,302000,Lisa Simpson,Springfield Town Hall,"I've gone through the town's financial records, and it turns out there are millions in uncollected city taxes."
+108036,416,67,309000,Mayor Joe Quimby,Springfield Town Hall,We shall collect each and every back tax owed! Everyone from...Comic Book Guy to...Milhouse. No one shall be spared!
+108037,416,68,321000,Kent Brockman,Springfield Town Hall,"Dozens of swindling deadbeats, as well as this respected reporter who made an honest mistake, have paid their back taxes, leaving only one outstanding debtor: country music star Lurleen Lumpkin! Seen here at the height of her fame."
+108038,416,69,333000,Lurleen Lumpkin,Springfield Town Hall,"BUNK WITH ME TONIGHT, KERMIT / BUNK WITH ME TONIGHT..."
+108039,416,70,342000,Kermit the Frog,Springfield Town Hall,"Really, Lurleen?"
+108040,416,71,345000,Miss Piggy,Springfield Town Hall,Hiii-ya!
+108042,416,73,345000,Lisa Simpson,Simpson Home,"Hey Dad, that's the singer you used to manage!"
+108043,416,74,349000,Bart Simpson,Simpson Home,"Oh, right. Dad was Colonel Homer and he wore that awesome suit and Lurleen wanted to bunk his brains out! But I forget how Mom felt about it..."
+108044,416,75,359000,Homer Simpson,Simpson Home,"Kids, marriage is like a car. Along the way it has its bumps and dings, and this country can't make one that lasts more than five years. With Lurleen I just walked past the showroom and didn't even go inside. Now let's return to watching the news."
+108045,416,76,374000,Kent Brockman,Simpson Home,"Ms. Lumpkin owed fifty thousand dollars in back taxes. With penalties, interest and the celebrity resentment tax, that sum has grown to twelve million dollars. However, she's been missing for several years, since her career went into a downward spiral."
+108046,416,77,387000,Homer Simpson,Simpson Home,I told her not to go into one of those.
+108049,416,78,390000,Kent Brockman,Simpson Home,"The entire city is searching for her. Not for any reward, but for the pleasure of destroying someone they once admired."
+108050,416,79,396000,Kent Brockman,Simpson Home,Save some for me!
+108052,416,81,407000,Nelson Muntz,Springfield Park,Got her!
+108053,416,82,410000,Nelson Muntz,Springfield Park,Krusty?
+108054,416,83,412000,Krusty the Clown,Springfield Park,I just wanna win one thing in my life!
+108055,416,84,414000,Nelson Muntz,Springfield Park,It's not real.
+108056,416,85,415000,Krusty the Clown,Springfield Park,Don't you dare ruin the moment!
+108058,416,87,419000,Krusty the Clown,Springfield Street,Look at those idiots. I bet Lurleen's a million miles away right now...
+108059,416,88,425000,Lurleen Lumpkin,Springfield Street,"Hey, Homer."
+108061,416,90,425000,Lurleen Lumpkin,Springfield Street,Shh! I'm more wanted than the last petal on a bloomin' onion.
+108062,416,91,429000,Homer Simpson,Springfield Street,"Don't worry, you can stay with us. I'm sure Marge will be cool."
+108068,416,97,451000,Marge Simpson,Homer's Car,"I'm taking you to your home, before you wreck mine!"
+108070,416,99,457000,Marge Simpson,SEEDY NEIGHBORHOOD,You live here?
+108071,416,100,460000,Lurleen Lumpkin,SEEDY NEIGHBORHOOD,"Bye, Marge."
+108072,416,101,465000,Marge Simpson,SEEDY NEIGHBORHOOD,"Well, at least she's got a friend."
+108073,416,102,467000,Hobo,SEEDY NEIGHBORHOOD,Your turn to clean the toilet.
+108074,416,103,470000,Lurleen Lumpkin,SEEDY NEIGHBORHOOD,Where is it?
+108075,416,104,472000,Hobo,SEEDY NEIGHBORHOOD,You're holding it.
+108077,416,106,476000,Marge Simpson,SEEDY NEIGHBORHOOD,Get in!
+108078,416,107,478000,Hobo,SEEDY NEIGHBORHOOD,"Oh, come on!"
+108079,416,108,480000,Lurleen Lumpkin,SEEDY NEIGHBORHOOD,"Thanks, Marge. Gee, after all that's passed between us, I mean... Well, you're a bigger woman than I am."
+108080,416,109,486000,Marge Simpson,SEEDY NEIGHBORHOOD,Are you calling me fat?
+108081,416,110,487000,Lurleen Lumpkin,SEEDY NEIGHBORHOOD,"No, no, no! I'll just be quiet."
+108083,416,112,494000,Bart Simpson,Simpson Home,"Lurleen, this barbecue is delicious."
+108084,416,113,497000,Lurleen Lumpkin,Simpson Home,"Oh, it's just a traditional southern recipe: ketchup, Coca cola, and fricasseed possum."
+108085,416,114,502000,Lisa Simpson,Simpson Home,Ew!
+108086,416,115,503000,Lurleen Lumpkin,Simpson Home,Just kiddin'. It's actually chicken.
+108047,416,116,505000,Lisa Simpson,Simpson Home,Double ew!
+108087,416,117,506000,Bart Simpson,Simpson Home,Well I think it's wonderful. My diet starts tomor-row!
+108088,416,118,510000,Marge Simpson,Simpson Home,"Listen, I'm sorry I called you all those mean things like, oh, I don't even remember..."
+108089,416,119,516000,Homer Simpson,Simpson Home,Confederate degenerate?
+108090,416,120,517000,Lisa Simpson,Simpson Home,Southern-fried succubus?
+108091,416,121,518000,Bart Simpson,Simpson Home,Hee-Haw Ho?
+108093,416,123,520000,Lurleen Lumpkin,Simpson Home,"Oh, that's all right, Marge. I'm just so grateful that y'all took me in and hid me from..."
+108094,416,124,526000,Chief Wiggum,Simpson Home,"Freeze, Patsy Crime!"
+108096,416,126,532000,Lou,Simpson Home,"Chief, you okay?"
+108097,416,127,534000,Chief Wiggum,Simpson Home,"Yeah, yeah."
+108098,416,128,535000,Lou,Simpson Home,Why'd you jump off the roof?
+108099,416,129,536000,Chief Wiggum,Simpson Home,I just wanted to be extraordinary.
+108102,416,132,541000,Lurleen Lumpkin,Courtroom,"Your honor, I would love to pay the money I owe, but country music changed, and I went out of style."
+108103,416,133,546000,Blue-Haired Lawyer,Courtroom,Objection! Speculating on the trajectory of trends in country music.
+108104,416,134,551000,Judge Snyder,Courtroom,"I'm going to allow it. Lurleen, the court orders you to make payments of a hundred dollars a week till such time as your music comes back in style or becomes appreciated for its camp value."
+108105,416,135,562000,Judge Snyder,Courtroom,"All right, what's the next case?"
+108106,416,136,564000,Bailiff,Courtroom,"Judge, next we have a man who's suing his wife for not dressing sexy enough in ""The Case Of The Horny Husband."""
+108107,416,137,564000,Judge Snyder,Courtroom,What the?
+108108,416,138,571000,Bailiff,Courtroom,"I thought if we acted like ""The People's Court,"" some day we'd be ""The People's Court."" Well, a bailiff can dream, can't he?"
+108109,416,139,580000,Judge Snyder,Courtroom,No he can't.
+108111,416,141,582000,Bart Simpson,Courthouse Steps,"I don't get it, Lurleen -- how did you lose all your money? Did it go up your nose? Between your toes?"
+108112,416,142,586000,Lurleen Lumpkin,Courthouse Steps,"Sadly, no. Most of my money went to my ex-husbands."
+108113,416,143,595000,Homer Simpson,Courthouse Steps,"Boy, you sure have married a lot of super-hunks."
+108114,416,144,597000,Lurleen Lumpkin,Courthouse Steps,"Well, from now on, the only thing I'm gonna be married to is my work."
+108115,416,145,601000,Lurleen Lumpkin,Courthouse Steps,"I've already accepted... ""a high-octane job in the nightlife industry."""
+108117,416,147,601000,Moe Szyslak,Moe's Tavern,"All right, I need you to get the rats outta the jukebox, and clean the vomit out of the pool table pockets, and then you've got the job. Oh, and you've gotta share your tips with Manuel, who's actually me with a fake moustache."
+108118,416,148,618000,Moe Szyslak,Moe's Tavern,"Ees good job, you should take it."
+108119,416,149,622000,Carl Carlson,Moe's Tavern,"Say Lurleen, are you Jamaican? 'Cause ""Jamaican"" me crazy."
+108120,416,150,626000,Lurleen Lumpkin,Moe's Tavern,"That's sweet, but I'm not lookin' to date."
+108121,416,151,629000,Carl Carlson,Moe's Tavern,"No, I'm glad you said that. 'Cause you reminded me that I'm not looking to date, either. So... so great."
+108122,416,152,634000,Lenny Leonard,Moe's Tavern,"Hey Lurleen, I'm going down to the rock quarry tonight to throw stones at the woodchucks. Wanna come?"
+108123,416,153,638000,Lurleen Lumpkin,Moe's Tavern,No.
+108124,416,154,639000,Lenny Leonard,Moe's Tavern,"It's okay, I understand."
+108125,416,155,641000,Lenny Leonard,Moe's Tavern,Someone's lookin' at a snake in her mailbox.
+108127,416,157,644000,Marge Simpson,Simpson Home,She turned down Lenny... and Carl? That's like someone who doesn't like hamburgers or hotdogs. What could make her hate men like that?
+108128,416,158,656000,Lurleen Lumpkin,Simpson Home,I WAS CRYIN' IN MY CRADLE / WHEN MY DADDY HOPPED A TRAIN...
+108130,416,160,662000,Lurleen Lumpkin,Lisa's Bedroom,HE LEFT A HO-OLE IN MY HEART / AND FILLED IT UP WITH PAIN...
+108132,416,162,667000,Lurleen Lumpkin,Bart's Bedroom,I KNOW NO AMOUNT OF LIQUOR...
+108134,416,164,671000,Lurleen Lumpkin,KITCHEN,WILL SOOTHE MY ACHIN' TICKER... /
+108135,416,165,674000,Lurleen Lumpkin,KITCHEN,'CAUSE THE LONGIN' FOR MY DEADBEAT DADDY...
+108136,416,166,677000,Lurleen Lumpkin,KITCHEN,IS STILL PUMPIN' THROUGH MY VEINS.
+108138,416,168,683000,Marge Simpson,Simpson Home,So that's it. She's been burned by the most important man in her life... her father.
+108139,416,169,689000,Homer Simpson,Simpson Home,"How could a man just abandon his family? By which I mean, what is the method he would use and could anyone do it?"
+108140,416,170,698000,Homer Simpson,Simpson Home,Where you going?
+108141,416,171,699000,Marge Simpson,Simpson Home,"Lurleen Lumpkin has a hole in her heart, and I'm gonna fill it."
+108143,416,173,706000,Marge Simpson,Street,"I've talked to over five hundred men named Lumpkin... everyone at Lumpkin, Lumpkin and Rosenthal Associates, an Asian or Pacific Islander named Cho Lum Kin..."
+108144,416,174,715000,Asian Man,Street,Good luck in searchings!
+108145,416,175,717000,Marge Simpson,Street,...but still no sign of Lurleen's dad!
+108146,416,176,723000,Marge Simpson,Street,"Hello, are you Royce Lumpkin?"
+108147,416,177,726000,Royce,Street,That's right.
+108148,416,178,726000,Marge Simpson,Street,The father of Lurleen Lumpkin?
+108149,416,179,729000,Royce,Street,"Lurleen? I ain't seen my little girl in thirty years. She must be what, uh, twelve, thirteen by now?"
+108150,416,180,737000,Marge Simpson,Street,"She's thirty-four, and she's having a rough time!"
+108151,416,181,740000,Royce,Street,Oh man... I better whiskey up these corn flakes.
+108152,416,182,746000,Marge Simpson,Street,She needs to see you right away!
+108153,416,183,748000,Royce,Street,Oh man... I better heroin up this orange juice.
+108156,416,186,764000,Lurleen Lumpkin,Simpson Home,There's only one man who can hambone like that...Daddy!
+108157,416,187,774000,Royce,Simpson Home,Lurleen?! My goodness -- why you're the spittin' image of your mother's hotter sister!
+108158,416,188,781000,Lurleen Lumpkin,Simpson Home,"Royce Lumpkin, where you been?"
+108159,416,189,783000,Royce,Simpson Home,"I've been a dang fool, that's where. Can you forgive me, Lurleen? The way that I immediately forgave myself?"
+108160,416,190,797000,Lurleen Lumpkin,Simpson Home,"I can, Daddy!"
+108161,416,191,801000,Marge Simpson,Simpson Home,I made that hug happen!
+108162,416,192,803000,Homer Simpson,Simpson Home,"Wait a minute -- he's a deadbeat dad, and yet he's getting as much love as me, a Dad too lazy to run away!"
+108163,416,193,812000,Homer Simpson,Simpson Home,"And he has hair! Bart, get me my suicide axe."
+108164,416,194,817000,Marge Simpson,Simpson Home,No suicide axe!
+108166,416,196,820000,Homer Simpson,Simpson Home,Later.
+108168,416,198,826000,Lurleen Lumpkin,Carnival,You know what I like best about this t-shirt? I'll always be able to see your face.
+108169,416,199,832000,Royce,Carnival,"Aww, well, you don't need a t-shirt for that, Tootsie Pop. 'Cause I ain't ever gonna leave you again."
+108170,416,200,841000,Homer Simpson,Carnival,Just sit still in my lap!
+108171,416,201,842000,Lisa Simpson,Carnival,What lap?
+108172,416,202,844000,Bart Simpson,Carnival,"Yeah, all I see is a gut with knees!"
+108173,416,203,845000,Homer Simpson,Carnival,Why you little--
+108174,416,204,848000,Homer Simpson,Carnival,Get back here so we can put our love on a shirt!
+108176,416,206,855000,Homer Simpson,Carnival,What?
+108180,416,208,857000,Homer Simpson,Simpson Home,Lurleen's daddy comes back after thirty years and he's father of the year. Why can't I leave for thirty years?
+108181,416,209,862000,Bart Simpson,Simpson Home,"Fine with me. Look, I packed you a bag."
+108182,416,210,865000,Homer Simpson,Simpson Home,Well... it might be cold outside.
+108183,416,211,867000,Bart Simpson,Simpson Home,No problem. I bought you a hat.
+108184,416,212,869000,Homer Simpson,Simpson Home,"Oh, I see. It's reverse psychology. Well in that case I'm not going and I'm not staying. And I'll cut my steak with a spoon, then take a walk on the ceiling."
+108185,416,213,883000,Lurleen Lumpkin,Simpson Home,"Oh Daddy, you made me the happiest girl on whichever side of the Mississippi this is. And last night I wrote this song just for you."
+108186,416,214,896000,Lurleen Lumpkin,Simpson Home,THIRTY YEARS YOU MADE ME CRY / BUT NOW I SEE YOU AIN'T SUCH A BAD GUY / I HAVEN'T FELT THIS GOOD SINCE THE LORD KNOWS WHEN...
+108187,416,215,909000,Lurleen Lumpkin,Simpson Home,"AND I'M SURE YOU GOT A MILLION REASONS / FOR BEING GONE A HUNDRED-TWENTY SEASONS / MY DADDY'S BACK, AND I'M FEELIN' LIKE A DAUGHTER AGAIN /"
+108188,416,216,923000,Lurleen Lumpkin,Simpson Home,"YEAH, DADDY'S BACK AND I'M FEELIN' LIKE A DAUGHTER..."
+108189,416,217,927000,Bart Simpson,Simpson Home,DADDY'S BACK AND SHE'S FEELIN' LIKE SHE OUGHTER!
+108190,416,218,931000,Royce,Simpson Home,DADDY'S BACK AND HE'S DRINKING BOTTLED WATER!
+108191,416,219,935000,Lisa Simpson,Simpson Home,"KEEP IT DOWN, I'M READING ""HARRY POTTER!"""
+108192,416,220,938000,Marge Simpson,Simpson Home,MY BODY WASH IS ESTÉE LAUDER...
+108194,416,222,941000,Royce,LIVING ROOM,DADDY'S BACK AND I'M FEELIN' LIKE A DAUGHTER AGAIN!
+108195,416,223,948000,Grampa Simpson,LIVING ROOM,AND HERE COMES GRAMPA WITH AN OTTER!
+108196,416,224,950000,Homer Simpson,LIVING ROOM,"Song's over, Dad."
+108197,416,225,952000,Grampa Simpson,LIVING ROOM,I took three buses to get here.
+108199,416,227,965000,Royce,Simpson Home,DADDY'S A DEADBEAT / HE'S LEAVING HIS DAUGHTER AGAIN...
+108200,416,228,976000,Marge Simpson,Simpson Home,I'm really worried about Lurleen.
+108201,416,229,979000,Homer Simpson,Simpson Home,"Yeah, me too. Since her father re-abandoned her, she's cut the word ""pop"" out of all of our foods."
+108202,416,230,992000,Bart Simpson,Simpson Home,You'd think a house full of crazy people would be fun. It's actually really depressing.
+108203,416,231,1002000,Lisa Simpson,Simpson Home,"Aw, cheer up, you've still got your talent, and that new song you wrote is gonna be a really big hit."
+108204,416,232,1008000,COUNTRY V.J.,Simpson Home,Here's a new song that's rising faster than a rocket with a rocket up its butt. It's from the Dixie Chicks!
+108205,416,233,1018000,Natalie Maines,Simpson Home,WE SAID SOME THINGS THAT CAME OUT WRONG / BUT NOW WE GOT A BRAND NEW SONG / 'CAUSE FREE SPEECH NEEDS CURTAILIN' NOW AND THEN... WE PLEDGE ALLEGIANCE TO FOX NEWS / PLEASE TAKE AWAY OUR RIGHT TO CHOOSE
+108206,416,234,1038000,Lurleen Lumpkin,Simpson Home,"Oh, that sounds just like my song."
+108207,416,235,1038000,Lurleen Lumpkin,Simpson Home,But how could they have heard--
+108208,416,236,1044000,Lurleen Lumpkin,Simpson Home,Daddy!
+108209,416,237,1046000,Natalie Maines,Simpson Home,AMERICA'S BACK AND WE'RE FEELING PATRI-OTTER AGAIN!
+108210,416,238,1052000,Dixie Chicks,Simpson Home,AMERICA'S BACK
+108211,416,239,1053000,Natalie Maines,Simpson Home,AND WE'RE FEELING PATRI-OTTER! FREEDOM'S A GERM
+108212,416,240,1056000,Dixie Chicks,Simpson Home,AND WE'RE GLAD THAT WE CAUGHT 'ER!
+108213,416,241,1060000,Natalie Maines,Simpson Home,LIBERTY HAS
+108214,416,242,1061000,Dixie Chicks,Simpson Home,NEVER LOOKED HOTTER!
+108215,416,243,1063000,Natalie Maines,Simpson Home,I USED TO LOVE
+108216,416,244,1065000,Dixie Chicks,Simpson Home,"""WELCOME BACK KOTTER"". AMERICA'S BACK AND WE'RE FEELING PATRI-OTTER AGAIN!"
+108217,416,245,1073000,Emily Robison,Simpson Home,"Take it away, Royce!"
+108218,416,246,1074000,Martie Maguire,Simpson Home,He wrote this song!
+108220,416,248,1087000,Lurleen Lumpkin,Simpson Kitchen,"If you need me, I'll be... ah, who am I kidding? No one needs me."
+108222,416,250,1106000,Lurleen Lumpkin,Simpson Home,Colonel Homer!
+108223,416,251,1108000,Marge Simpson,Simpson Home,And Major Marge!
+108225,416,253,1111000,Marge Simpson,Simpson Home,"Lurleen, you're giving your Dad too much power over the way you feel about yourself. Stop getting your self-esteem from the men in your life."
+108226,416,254,1119000,Lurleen Lumpkin,Simpson Home,"Well that's easy for you to say. You're married to a kind, thoughtful genius."
+108227,416,255,1124000,Marge Simpson,Simpson Home,"Uh, yeah..."
+108228,416,256,1125000,Homer Simpson,Simpson Home,"Marge, my fringes are knotted again."
+108229,416,257,1130000,Marge Simpson,Simpson Home,There's only one person in the world who can tell you what to do. And that person is right here!
+108230,416,258,1136000,Lurleen Lumpkin,Simpson Home,Santa Claus?!
+108231,416,259,1137000,Marge Simpson,Simpson Home,"No, no, that's just our old Christmas decorations."
+108232,416,260,1142000,Lurleen Lumpkin,Simpson Home,Me?!
+108233,416,261,1143000,Marge Simpson,Simpson Home,"Yes! It's time for you to take control of your own destiny. You're not a doormat, you're a door prize!"
+108234,416,262,1152000,Lurleen Lumpkin,Simpson Home,"You're right, Marge."
+108237,416,263,1154000,Homer Simpson,Simpson Home,"And remember, you can do anything you want in the world of country music, western wear merchandising and TV movies. Regular movies, don't hold your breath. But TV movies, the sky's the limit."
+108238,416,264,1165000,Lurleen Lumpkin,Simpson Home,"Colonel, you're still my knight in white polyester."
+108239,416,265,1168000,Homer Simpson,Simpson Home,Ten percent Lycra.
+108240,416,266,1170000,Lurleen Lumpkin,Simpson Home,"Oh, I noticed."
+108242,416,268,1172000,Royce,Recording Studio,"Congratulations! That song I wrote you was so patriotic, they decided to make it into a Chevy commercial. So I... changed a few lines."
+108243,416,269,1183000,Emily Robison,Recording Studio,I don't know. You're asking us to sell out our song... and for what?
+108244,416,270,1187000,Royce,Recording Studio,Cash money.
+108245,416,271,1187000,Dixie Chicks,Recording Studio,Money? We love money! / Really? That's great! / I'm gonna buy me a clock radio!
+108246,416,272,1194000,Lurleen Lumpkin,Recording Studio,"Royce Boss Hogg Lumpkin, you are a thief! A dirty, rotten, lowdown..."
+108247,416,273,1199000,Lurleen Lumpkin,Recording Studio,I think I can say it better with this.
+108248,416,274,1204000,Natalie Maines,Recording Studio,"No, no, no, don't hit him in the head! He needs that to think up our songs."
+108249,416,275,1207000,Lurleen Lumpkin,Recording Studio,I'm Lurleen Lumpkin! And he stole your song from me!
+108250,416,276,1211000,Dixie Chicks,Recording Studio,Whaaa?!
+108251,416,277,1215000,Royce,Recording Studio,"Okay, maybe I abandoned my daughter and stole her song, but I'm still the most honorable record producer y'all have ever met."
+108252,416,278,1221000,Emily Robison,Recording Studio,"Well, he's got us there."
+108253,416,279,1223000,Martie Maguire,Recording Studio,"Still, in human terms, he's deplorable."
+108254,416,280,1225000,Natalie Maines,Recording Studio,Let's make guitar picks out of him!
+108255,416,281,1228000,Royce,Recording Studio,Nooooo!
+108256,416,282,1229000,Royce,Recording Studio,I'm droppin' you all as clients!
+108259,416,285,1233000,Lurleen Lumpkin,Simpson Home,Oh I can't thank you guys enough. Now I'm opening for the Dixie Chicks and I may have just met husband number four.
+108260,416,286,1241000,Lurleen's Boyfriend,Simpson Home,"Babe, I need a hundred bucks for beer."
+108261,416,287,1245000,Homer Simpson,Simpson Home,"Ooo, I think he's a keeper."
+108262,416,288,1248000,Marge Simpson,Simpson Home,"Well, you're very welcome, Lurleen. Of all the women who've hit on Homer over the years, you're my favorite."
+108263,416,289,1255000,Lisa Simpson,Simpson Home,Awww.
+108264,416,290,1256000,Marge Simpson,Simpson Home,"If you ever come near Homer again, I'll strangle you with your own hair extensions. That's right, I know."

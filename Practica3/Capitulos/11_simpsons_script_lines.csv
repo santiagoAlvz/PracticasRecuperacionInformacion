@@ -1,0 +1,286 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+151800,11,1,94000,Bart Simpson,Simpson Home,"Froggie, I'm home."
+151854,11,4,103000,Bart Simpson,Bart's Bedroom,"Hi, little fella. Got some nice juicy flies for ya."
+151856,11,6,107000,Homer Simpson,UPSTAIRS HALLWAY,"Jeez, Louise. Look at this mess."
+151857,11,7,110000,Homer Simpson,UPSTAIRS HALLWAY,I told that boy a billion times to pick up his jun--
+151859,11,9,115000,Krusty Doll,UPSTAIRS HALLWAY,I like to play with you. I like to play with you. I like to play with you.
+151860,11,10,120000,Homer Simpson,UPSTAIRS HALLWAY,My back! There goes my back again!
+151862,11,12,129000,Homer Simpson,UPSTAIRS HALLWAY,"Go get help, boy."
+151864,11,14,136000,Homer Simpson,DOWNSTAIRS HALLWAY,"Oh, Maggie. My poor back."
+151865,11,15,136000,Krusty Doll,DOWNSTAIRS HALLWAY,I like to play with you... I like to play with you... I like to play wit... youuu... I lik... to... pl... wi... youuu.
+151867,11,17,154000,Lisa Simpson,DOWNSTAIRS HALLWAY,Dad!
+151868,11,18,155000,Marge Simpson,DOWNSTAIRS HALLWAY,Homer! What happened?
+151869,11,19,157000,Homer Simpson,DOWNSTAIRS HALLWAY,The boy. Bring me the boy.
+151871,11,21,161000,Marge Simpson,Bart's Bedroom,"Bart, if you had cleaned up your room when I asked you to, your father's trick back would still be aligned. So you pick up this mess right now."
+151872,11,22,171000,Bart Simpson,Bart's Bedroom,Clumsy Homer... Everything's always my fault... If he'd just watch where he was going...
+151873,11,23,178000,Bart Simpson,Bart's Bedroom,Hello.
+151874,11,24,179000,Bart Simpson,Bart's Bedroom,What have we here?
+151875,11,25,181000,Bart Simpson,Bart's Bedroom,A cherry bomb! I thought I blew all you guys up.
+151877,11,27,187000,Seymour Skinner,Springfield Elementary School Yard,"People, people, no rough-housing on the monkey bars. You there, tuck in your shirt. Watch it, I saw that."
+151878,11,28,193000,Agnes Skinner,Springfield Elementary School Yard,"You certainly have done awfully well for yourself, Spanky."
+151879,11,29,197000,Seymour Skinner,Springfield Elementary School Yard,"Mother, please don't call me Spanky on school grounds."
+151880,11,30,201000,Milhouse Van Houten,Springfield Elementary School Yard,Wow! A cherry bomb!
+151881,11,31,202000,Lewis Clark,Springfield Elementary School Yard,"What are you gonna do with it, Bart?"
+151882,11,32,204000,Milhouse Van Houten,Springfield Elementary School Yard,"Watch out, Bart. It's Skinner."
+151883,11,33,206000,Bart Simpson,Springfield Elementary School Yard,Uh-oh.
+151884,11,34,207000,Milhouse Van Houten,Springfield Elementary School Yard,"Good morning, Mr. Skinner."
+151885,11,35,210000,Seymour Skinner,Springfield Elementary School Yard,"'Morning, boys."
+151887,11,36,211000,Agnes Skinner,Springfield Elementary School Yard,"Why haven't you introduced me to any of your students, Spanky?"
+151888,11,37,216000,Agnes Skinner,Springfield Elementary School Yard,Well?
+151889,11,38,217000,Seymour Skinner,Springfield Elementary School Yard,"Well Mother, I would like you to meet, Milhouse, Lewis, Richard and... Bart Simpson."
+151890,11,39,224000,Agnes Skinner,Springfield Elementary School Yard,This is the Bart Simpson you're always talking about?
+151891,11,40,227000,Seymour Skinner,Springfield Elementary School Yard,Mmm-hmm.
+151892,11,41,228000,Agnes Skinner,Springfield Elementary School Yard,But he looks so sweet.
+151893,11,42,229000,Bart Simpson,Springfield Elementary School Yard,"I am, ma'am."
+151894,11,43,230000,Seymour Skinner,Springfield Elementary School Yard,"Simpson! Let's move on now, Mother, shall we?"
+151895,11,44,234000,Bart Simpson,Springfield Elementary School Yard,"'Bye, Spanky."
+151898,11,47,237000,Milhouse Van Houten,Boys' Bathroom,"So, you're gonna flush it?"
+151899,11,48,238000,Bart Simpson,Boys' Bathroom,What can I say? I got a weakness for the classics.
+151901,11,50,241000,Agnes Skinner,Springfield Elementary School Hallway,I think I need to make a stop at the little girl's room.
+151902,11,51,245000,Seymour Skinner,Springfield Elementary School Hallway,"Okay, Mother. This way."
+151904,11,53,250000,Bart Simpson,Boys' Bathroom,"So long, sucker."
+151909,11,58,257000,Seymour Skinner,Hallway,"Now, hold it right there you..."
+151910,11,59,259000,Agnes Skinner,Hallway,Spanky...
+151911,11,60,260000,Seymour Skinner,Hallway,Mother!
+151913,11,62,261000,Homer Simpson,Simpson Home,Oh Marge! I still hurt! Marge! Marge!
+151914,11,63,267000,Marge Simpson,Simpson Home,"Oh, Homer. How many times do I have to fluff your pillow?"
+151915,11,64,271000,Homer Simpson,Simpson Home,"Actually, I was wondering if you could make me a grilled cheese sandwich?"
+151916,11,65,274000,Marge Simpson,Simpson Home,Well... okay.
+151917,11,66,275000,Homer Simpson,Simpson Home,Make sure it's squished flat and crunchy on the outside.
+151918,11,67,278000,Marge Simpson,Simpson Home,"I know how you like 'em, Homer."
+151919,11,68,279000,Homer Simpson,Simpson Home,"And maybe some of those little wieners that come in a can. Oh, and some fruit cocktail... in heavy syrup."
+151922,11,71,289000,Homer Simpson,FOYER,Marge! Marge! Marge! Get the door.
+151923,11,72,299000,Marge Simpson,FOYER,Principal Skinner!
+151925,11,73,302000,Seymour Skinner,FOYER,"Hello, Mrs. Simpson. I'm afraid there's been a very disturbing incident at school today."
+151926,11,74,305000,Bart Simpson,FOYER,"I'm outta here, man."
+151927,11,75,308000,Marge Simpson,FOYER,"Homer, Principal Skinner's here."
+151928,11,76,309000,Homer Simpson,FOYER,"Oh, hello Principal Skinner. I'd get up but the boy crippled me."
+151929,11,77,313000,Seymour Skinner,FOYER,"Mmm-hmm. I understand completely. The disturbing incident I was referring to happened this morning, when your son flushed an explosive device down the boys' lavatory."
+151930,11,78,321000,Homer Simpson,FOYER,That old gag.
+151931,11,79,323000,Seymour Skinner,FOYER,"Unfortunately, at the same moment, my mother was in the girls' lavatory making use of the facilities."
+151932,11,80,327000,Marge Simpson,FOYER,"Oh, dear."
+151933,11,81,328000,Seymour Skinner,FOYER,"Mr. and Mrs. Simpson, we have transcended incorrigible. I don't think suspension or expulsion will do the trick. I think it behooves us all to consider... deportation."
+151934,11,82,338000,Marge Simpson,FOYER,Deportation! You mean kick Bart out of the country?
+151935,11,83,341000,Homer Simpson,FOYER,"Hear him out, Marge."
+151936,11,84,343000,Seymour Skinner,FOYER,"Well, perhaps I was being a tad glib. Let me explain. Our elementary school participates in a foreign exchange program. Now normally, a student is selected on the basis of academic excellence or intelligence, but in Bart's case I'm prepared to make a big exception. And, if you're willing to play along, he can spend the next three months studying far, far away."
+151937,11,85,363000,Homer Simpson,FOYER,"Sounds great, although a kid can't learn much in just three months."
+151938,11,86,367000,Marge Simpson,FOYER,Homer! You didn't even ask where Bart would be going.
+151939,11,87,370000,Seymour Skinner,FOYER,"Actually, he'd be staying in France in a lovely chateau in the heart of the wine country."
+151940,11,88,374000,Marge Simpson,FOYER,But Bart doesn't speak French.
+151941,11,89,375000,Seymour Skinner,FOYER,"Oh! When he's totally immersed in a foreign language, the average child can become fluent in weeks."
+151942,11,90,379000,Homer Simpson,FOYER,"Yeah, but what about Bart?"
+151943,11,91,380000,Seymour Skinner,FOYER,I'm sure he'll pick up enough to get by. And the whole thing won't cost you a dime as long you're willing to take in a student of your own.
+151944,11,92,386000,Homer Simpson,FOYER,"Wait a minute, Skinner. How do we know some principal over in France isn't pulling the same scam you are?"
+151945,11,93,393000,Seymour Skinner,FOYER,"Well, for one thing, you wouldn't be getting a French boy. You would be getting an Albanian."
+151946,11,94,396000,Homer Simpson,FOYER,You mean all white with pink eyes?
+151947,11,95,398000,Seymour Skinner,FOYER,"No, no, no, no. A student from Albania. It's a country on the Adriatic Sea."
+151948,11,96,402000,Marge Simpson,FOYER,"Well, going to France sounds like a fantastic opportunity, but I think Bart should have a say in this."
+151950,11,98,408000,Bart Simpson,Bart's Bedroom,"Aah, the life of a frog. That's the life for me."
+151951,11,99,411000,Marge Simpson,Bart's Bedroom,"Bart, how would you like to spend the next three months living in France?"
+151952,11,100,417000,Bart Simpson,Bart's Bedroom,France? Wow.
+151954,11,102,420000,Homer Simpson,LIVING ROOM,He makes me crazy twelve months a year. At least you get the summer off.
+151955,11,103,425000,Seymour Skinner,LIVING ROOM,Mmm-hmm.
+151956,11,104,425000,Bart Simpson,LIVING ROOM,"And I'd get to take a plane there, wouldn't I, Mom?"
+151957,11,105,427000,Marge Simpson,LIVING ROOM,"Yes, Bart."
+151958,11,106,428000,Bart Simpson,LIVING ROOM,Wow. And one back?
+151959,11,107,429000,Marge Simpson,LIVING ROOM,"Mmm-hmm. Well, Bart seems very enthusiastic about the idea."
+151960,11,108,434000,Marge Simpson,LIVING ROOM,Yes! Yes!
+151961,11,109,436000,Seymour Skinner,LIVING ROOM,Way to go!
+151962,11,110,437000,Homer Simpson,LIVING ROOM,"Bon voyage, boy."
+151964,11,112,445000,Marge Simpson,Springfield Airport,"Goodbye, my special, my special little guy. You will write us, won't you?"
+151965,11,113,450000,Bart Simpson,Springfield Airport,All the time.
+151966,11,114,451000,Lisa Simpson,Springfield Airport,What do you know about France?
+151967,11,115,453000,Bart Simpson,Springfield Airport,I know I'm going and you're not.
+151968,11,116,454000,Homer Simpson,Springfield Airport,"I'm gonna miss you, son. And listen... while you're seeing all those great sights, always remember that you're representing your country. I guess what I'm saying is, don't mess up France the way you messed up your room."
+151969,11,117,467000,Bart Simpson,Springfield Airport,"Okay, Dad."
+151970,11,118,468000,Steward,Springfield Airport,Is one of you going to be on the charter flight?
+151971,11,119,470000,Bart Simpson,Springfield Airport,"Yes, sir."
+151972,11,120,470000,Steward,Springfield Airport,"Mmm-hmm. Well, come along."
+151973,11,121,472000,Homer Simpson,Springfield Airport,"Goodbye, Bart."
+151974,11,122,472000,Lisa Simpson,Springfield Airport,"'Bye, Bart."
+151975,11,123,472000,Marge Simpson,Springfield Airport,'Bye. We miss you.
+151976,11,124,472000,Homer Simpson,Springfield Airport,Be good.
+151977,11,125,476000,Marge Simpson,Springfield Airport,The life jacket is under the seat.
+151981,11,129,476000,Mother,"TIRANA, ALBANIA AIRPORT","Goodbye, Adil. Write us often."
+151886,11,130,476000,Father,"TIRANA, ALBANIA AIRPORT","We will miss you, my son."
+151924,11,131,476000,Adil Hoxha,"TIRANA, ALBANIA AIRPORT","And I will miss you, but now I must go."
+151982,11,132,508000,Bart Simpson,"TIRANA, ALBANIA AIRPORT","Hey, man, watch it."
+151983,11,133,515000,Bart Simpson,"TIRANA, ALBANIA AIRPORT","Hey, man, it's me, Bart Simpson."
+151984,11,134,517000,UGOLIN,"TIRANA, ALBANIA AIRPORT","Okay, kid, let's go."
+151985,11,135,517000,Bart Simpson,"TIRANA, ALBANIA AIRPORT",Hey!
+151987,11,137,519000,Bart Simpson,FRENCH COUNTRYSIDE,"LITTLE BREEZE SEEMS TO WHISPER LOUISE / BIRDS IN THE TREES SEEM TO LOUISE / La la la la / La la la la Ooo la la... How much longer, sir?"
+151988,11,138,532000,Bart Simpson,FRENCH COUNTRYSIDE,"This is where we're going, right?"
+151989,11,139,534000,Bart Simpson,FRENCH COUNTRYSIDE,Cha...teau Ma...son.
+151990,11,140,534000,Cesar,FRENCH COUNTRYSIDE,"Ah, Maurice. Once the American boy gets here, your days of endless back-breaking labor will be over."
+151991,11,141,534000,Bart Simpson,FRENCH COUNTRYSIDE,"Ewww, what a dump."
+151993,11,143,552000,Lisa Simpson,Springfield Airport,"You know, in Albania the unit of currency is called the lek."
+151994,11,144,558000,Homer Simpson,Springfield Airport,You gotta be kiddin'. The lek?
+151995,11,145,561000,Lisa Simpson,Springfield Airport,And the national flag is a two-headed eagle on a red field.
+151996,11,146,564000,Homer Simpson,Springfield Airport,Give me the old stars and stripes.
+151997,11,147,566000,Lisa Simpson,Springfield Airport,And the main export is furious political thought.
+151998,11,148,569000,Homer Simpson,Springfield Airport,Political what?
+151999,11,149,570000,Male Announcer,Springfield Airport,"Trans Albanian Airlines, Flight Number two, Tirana to Springfield, is now arriving at Gate Nine."
+152001,11,151,574000,Cesar,Chateau Maison,"Welcome to your new home. Escape is impossible. My name is Cesar. This is my nephew, Ugolin. You may find life here at the Chateau hard. But if you shut up and do exactly what we say, the time will pass more quickly."
+152002,11,152,588000,UGOLIN,Chateau Maison,"He's right, you know."
+152003,11,153,589000,Bart Simpson,Chateau Maison,"Well, okay, sir."
+152005,11,155,594000,Marge Simpson,Springfield Airport,Adil?
+152006,11,156,595000,Adil Hoxha,Springfield Airport,Mother?
+152007,11,157,597000,Marge Simpson,Springfield Airport,"Well, I guess for the next few months, yes, I'll be your mother."
+152008,11,158,600000,Adil Hoxha,Springfield Airport,"And this must be Lisa and Maggie... and you must be my new father, Homer."
+152009,11,159,608000,Homer Simpson,Springfield Airport,"Affectionate little Albanian, isn't he?"
+152011,11,161,622000,UGOLIN,Chateau Maison,"Cesar, look! We are rich!"
+152012,11,162,622000,Cesar,Chateau Maison,"These won't fit us, but we can sell them."
+152013,11,163,622000,UGOLIN,Chateau Maison,"And a red hat for you, Maurice."
+152014,11,164,622000,Bart Simpson,Chateau Maison,"Hey, come on guys. Quit being so grabby."
+152015,11,165,625000,Bart Simpson,Chateau Maison,"Sorry, man. Be my guest."
+152017,11,167,627000,Seymour Skinner,Springfield Elementary School,"You may find his accent peculiar. Certain aspects of his culture may seem absurd, perhaps even offensive. But I urge you all to give little Adil the benefit of the doubt. In this way, and only in this way, can we hope to better understand our backward neighbors throughout the world."
+152018,11,168,647000,Adil Hoxha,Springfield Elementary School,"Thank you, Principal Skinner. Thank you, fellow students. Although I have only been in your country a few days, I have already found Americans to be most... trusting. Although officially I am required to hate you, I want you to know I do not feel it in my heart."
+152020,11,170,674000,Cesar,FRENCH MOUNTAINSIDE,"Hurry up, boy. My grapes are waiting for their water."
+152022,11,172,681000,Adil Hoxha,Simpson Home,How can you defend a country where five percent of the people control ninety-five percent of the wealth?
+152023,11,173,688000,Lisa Simpson,Simpson Home,I'm defending a country where people can think and act and worship any way they want.
+152024,11,174,691000,Adil Hoxha,Simpson Home,Can not.
+152025,11,175,692000,Lisa Simpson,Simpson Home,"Can, too."
+152026,11,176,693000,Adil Hoxha,Simpson Home,Can not.
+152027,11,177,693000,Lisa Simpson,Simpson Home,"Can, too."
+152028,11,178,694000,Homer Simpson,Simpson Home,"Please, please kids. Stop fighting. Maybe Lisa's right about America being a land of opportunity, and maybe Adil has a point about the machinery of capitalism being oiled with the blood of the workers."
+152029,11,179,705000,Adil Hoxha,Simpson Home,Your father is right. We should not fight. Friends?
+152030,11,180,710000,Lisa Simpson,Simpson Home,"Well, okay."
+152031,11,181,711000,Marge Simpson,Simpson Home,"Well, now that that's settled, I'll just clear the dishes."
+152032,11,182,714000,Adil Hoxha,Simpson Home,"No, no, Mrs. Simpson. You have been oppressed enough for today. I will clear the dishes."
+152033,11,183,718000,Marge Simpson,Simpson Home,Oh. Okay.
+152034,11,184,721000,Homer Simpson,Simpson Home,"Did you see that? You know, Marge, this is the way I've always wanted it to be. We've become a fully functioning family unit. We've always blamed ourselves, but I guess it's pretty clear which cylinder wasn't firing."
+152035,11,185,732000,Marge Simpson,Simpson Home,Homer!
+152036,11,186,734000,Lisa Simpson,Simpson Home,Your paper-thin commitment to your children sends shivers down my spine. May I be excused?
+152037,11,187,737000,Marge Simpson,Simpson Home,Lisa!
+152038,11,188,740000,Homer Simpson,Simpson Home,"Oh, she's just jealous. She'll get over it, and if she doesn't, we can always exchange her."
+152039,11,189,745000,Marge Simpson,Simpson Home,Homer!
+152040,11,190,746000,Homer Simpson,Simpson Home,Just kidding.
+152042,11,192,751000,UGOLIN,Chateau Maison,Mmm. Good sausage.
+152043,11,193,751000,Cesar,Chateau Maison,"Yes, pass me the wine."
+152044,11,194,751000,Bart Simpson,Chateau Maison,Can I have something to go with my turnip?
+152045,11,195,753000,Cesar,Chateau Maison,"Quiet! When you work like a man, we will feed you like one."
+152046,11,196,757000,UGOLIN,Chateau Maison,"Now, go to sleep."
+152047,11,197,763000,Bart Simpson,Chateau Maison,"Hey! Hey! Come on. Move it, pal."
+152048,11,198,767000,Cesar,Chateau Maison,You leave Maurice alone. The floor is good enough for you. You go to sleep there.
+152050,11,200,778000,Homer Simpson,Simpson Home,"Nice and cozy, Adil?"
+152051,11,201,780000,Adil Hoxha,Simpson Home,"Yes, thank you, Father."
+152052,11,202,782000,Homer Simpson,Simpson Home,"Look, Adil. You can call me Dad."
+152053,11,203,782000,Adil Hoxha,Simpson Home,"All right, Dad."
+152054,11,204,786000,Homer Simpson,Simpson Home,Aww. You called me dad.
+152055,11,205,789000,Adil Hoxha,Simpson Home,"Dad, do you think I could come visit you at the nuclear power plant?"
+152056,11,206,793000,Homer Simpson,Simpson Home,You want to see where I work?
+152057,11,207,794000,Adil Hoxha,Simpson Home,"Oh, yes, very much."
+152058,11,208,796000,Homer Simpson,Simpson Home,None of my biological kids ever wanted to see me at work.
+152059,11,209,799000,Adil Hoxha,Simpson Home,Then I can go?
+152060,11,210,800000,Homer Simpson,Simpson Home,"Well, I'll have to pull a few strings with the boys in Security, but sure, you bet."
+152061,11,211,805000,Adil Hoxha,Simpson Home,Excellent.
+152063,11,213,808000,Cesar,VINEYARDS,Now watch me. You grab the grape between your thumb and forefinger and gently twist it off and drop it in the bucket.
+152064,11,214,817000,Cesar,VINEYARDS,Now you do it.
+152065,11,215,819000,Cesar,VINEYARDS,Very good. Now do it a million times.
+152067,11,217,823000,Homer Simpson,Springfield Nuclear Power Plant,"See these? American donuts. Glazed, powdered, and raspberry filled. Now how's that for freedom of choice?"
+152068,11,218,832000,Adil Hoxha,Springfield Nuclear Power Plant,"Dad, do you think I might see your plutonium isolation module?"
+152069,11,219,836000,Homer Simpson,Springfield Nuclear Power Plant,Uh... maybe. Hold on a second.
+152070,11,220,839000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, Lenny. Does this place have one of those plutonium isolation deals?"
+152071,11,221,844000,Lenny Leonard,Springfield Nuclear Power Plant,"Yeah, over in Sector Twelve."
+152072,11,222,845000,Homer Simpson,Springfield Nuclear Power Plant,Sector Twelve?
+152073,11,223,846000,Lenny Leonard,Springfield Nuclear Power Plant,Third floor by the candy machines.
+152074,11,224,848000,Homer Simpson,Springfield Nuclear Power Plant,"Oh, that Sector Twelve."
+152075,11,225,849000,Homer Simpson,Springfield Nuclear Power Plant,"Come along, Adil."
+152077,11,227,857000,UGOLIN,VINEYARDS,"Ungrateful swine! We give you food, we give you shelter, and this is how you repay us."
+152078,11,228,865000,Homer Simpson,VINEYARDS,You little shutterbug.
+152080,11,230,874000,Homer Simpson,PLUTONIUM ISOLATION MODULE,Cheese!
+152082,11,232,877000,Bart Simpson,VINEYARDS,"Ugh, ugh, ugh. Stu-pid grapes... Bunch of creeps... I hate France. Ugh!"
+152084,11,234,889000,Marge Simpson,Simpson Home,You sure have taken a shine to little Adil.
+152085,11,235,892000,Homer Simpson,Simpson Home,"Well, he sure makes life a lot easier around here. You have to admit that."
+152086,11,236,896000,Marge Simpson,Simpson Home,"Well, okay, I will. If you admit you love Bart."
+152087,11,237,899000,Homer Simpson,Simpson Home,"Okay, okay. I love Bart. Well..."
+152088,11,238,902000,Marge Simpson,Simpson Home,What?
+152089,11,239,903000,Homer Simpson,Simpson Home,Well?
+152090,11,240,905000,Marge Simpson,Simpson Home,Oh... Adil's a very sweet boy.
+152091,11,241,908000,Homer Simpson,Simpson Home,Darn tootin'.
+152093,11,243,908000,Adil Hoxha,Bart's Treehouse,Sparrow to Nest. Sparrow to Nest. Stand by for transmission.
+152095,11,245,908000,Military Man,Albanian Intelligence Headquarters,I told you the Sparrow would not fail.
+152097,11,247,943000,Marge Simpson,Chateau Maison,"Dear Bart, How is France? I don't know why you haven't written. I guess you're just having too much fun."
+152098,11,248,948000,Bart Simpson,Chateau Maison,"Yeah, right."
+152099,11,249,952000,Cesar,Chateau Maison,Silence!
+152100,11,250,953000,Marge Simpson,Chateau Maison,"Everyone here in the United States is fine. We think Maggie may say her first word any day now. Lisa got an A in Math, which I'm only mentioning as news -- I'm not putting you down. And your father, well... last night he went to sleep talking about how much he loves you."
+152101,11,251,978000,Marge Simpson,Chateau Maison,Remember to dress warm and try to be as helpful as you can to your adopted parents.
+152102,11,252,983000,MARGE & BART,Chateau Maison,"All my love, Mom."
+152104,11,254,985000,Cesar,WINERY,This will be our finest vintage ever.
+152105,11,255,985000,UGOLIN,WINERY,But it's only been fermenting for three days.
+152108,11,256,985000,Cesar,WINERY,"Whenever I find my faith in a higher power shaken, I always think of the miracle of anti-freeze. Too much can be poison. But the right amount gives wine just the right kick. Mais dans les proportions voulues, ca donne du corps au vin.)"
+152109,11,257,985000,UGOLIN,WINERY,You put in too much. It may kill someone.
+152110,11,258,985000,Cesar,WINERY,Kill someone? Don't be ridiculous.
+152111,11,259,985000,Cesar,WINERY,What are you doing? Get out of here.
+152112,11,260,1022000,Bart Simpson,WINERY,Sorry.
+152113,11,261,1024000,Cesar,WINERY,"On second thought, Bart, Bart, come here. Watch, I bet it won't even blind him."
+152114,11,262,1035000,Cesar,WINERY,Drink this.
+152115,11,263,1036000,Bart Simpson,WINERY,"Uh, no thanks."
+152116,11,264,1036000,Cesar,WINERY,Do not worry. This is France. It is customary for children to take a little wine now and then.
+152117,11,265,1043000,Bart Simpson,WINERY,"Yeah, but it's got anti-freeze in there."
+152118,11,266,1045000,Cesar,WINERY,Drink it!
+152120,11,268,1067000,Cesar,WINERY,"He sees well enough. Now, go buy a case of anti-freeze."
+152121,11,269,1067000,UGOLIN,WINERY,But it is raining outside. Let's make the wine tomorrow.
+152122,11,270,1070000,Cesar,WINERY,We have already waited three days.
+152123,11,271,1070000,UGOLIN,WINERY,Then send the boy.
+152124,11,272,1077000,Cesar,WINERY,"Oh, Bart!"
+152127,11,275,1088000,Bart Simpson,Town,"You're a policeman, aren't you?"
+152128,11,276,1090000,Gendarme,Town,I am sorry. I do not speak English.
+152129,11,277,1093000,Bart Simpson,Town,"But you gotta help me. These two guys I'm staying with, they work me day and night, they don't feed me, they make me sleep on the..."
+152130,11,278,1099000,Gendarme,Town,"Here you go, little boy. Have a piece of candy. Tiens, petit garcon, voila un bonbon.)"
+152131,11,279,1102000,Bart Simpson,Town,"I don't want a piece of candy, I need your hel--"
+152132,11,280,1108000,Bart Simpson,Town,"Come on, mister. Can you help me?"
+152133,11,281,1110000,Gendarme,Town,I am sorry.
+152134,11,282,1114000,Bart Simpson,Town,"Aw, forget it. I'm so stupid. Anybody could have learned this dumb language by now. Here I've listened to nothing but French for the past deux mois, et je ne sais pas un mot. Eh! Mais, je parle francois maintenant. Incroyable!"
+152136,11,283,1119000,Bart Simpson,Town,"Hey, monsieur. Aidez-moi! Ces deux types chez qui j'habite me fait travailler jour et nuit, ils ne me donnent pas a manger, ils me fait dormir sur la terre, ils mettent d'antigel dans le vin, et ils sont donne mon chapeau rouge a l'ane."
+152137,11,284,1156000,Gendarme,Town,"Anti-freeze in the wine? That is a very serious crime. Come along, boy. There is nothing for you to fear now."
+152138,11,285,1156000,Bart Simpson,Town,Mon sauveteur! Vous aurez toujours une place dans mon coeur!
+152140,11,287,1156000,Homer Simpson,Simpson Home,"Honey, I'm home."
+152141,11,288,1157000,Marge Simpson,Simpson Home,"Hello, Homer. What's that?"
+152142,11,289,1158000,Homer Simpson,Simpson Home,"Oh, just some blueprints Adil wanted. I'm telling you, he's such a curious little dickens. I bet he could build a nuclear power plant if he wanted to."
+152143,11,290,1168000,Cia Agent #1,Simpson Home,"All right, Sparrow. We know you're in there. We'll give you one minute to surrender."
+152144,11,291,1173000,Marge Simpson,Simpson Home,"Oh, my."
+152145,11,292,1175000,Homer Simpson,Simpson Home,"Ooh, trouble in the neighborhood. Let's check it out."
+152147,11,294,1180000,Homer Simpson,Flanders Home,"I'm his neighbor, what'd he do?"
+152148,11,295,1183000,Cia Agent #1,Flanders Home,"Well, sir... Well, sir, we've been on the trail of a spy transmitting highly confidential information to an unfriendly nation."
+152149,11,296,1184000,Homer Simpson,Flanders Home,Oooo.
+152150,11,297,1184000,Cia Agent #1,Flanders Home,"Mmm-hmm. Through the use of radio triangulation, we tracked him to exactly this point."
+152151,11,298,1195000,Homer Simpson,Flanders Home,Wow!
+152152,11,299,1196000,Cia Agent #1,Flanders Home,That's all I can tell you.
+152153,11,300,1198000,Homer Simpson,Flanders Home,Aw!
+152154,11,301,1198000,Cia Agent #1,Flanders Home,"All right. Well, the name of his country starts with the letter ""A""."
+152155,11,302,1198000,Homer Simpson,Flanders Home,Hmmm.
+152156,11,303,1201000,Cia Agent #2,Flanders Home,"Time's up, Sparrow. We're coming in after you."
+152157,11,304,1204000,Homer Simpson,Flanders Home,Gee whiz. Adil would get a kick out of seeing this.
+152158,11,305,1207000,Cia Agent #1,Flanders Home,Adil?
+152159,11,306,1208000,Cia Agent #2,Flanders Home,The Sparrow!
+152160,11,307,1212000,Homer Simpson,Flanders Home,Adil! Oh... there you are.
+152161,11,308,1215000,Cia Agent #1,Flanders Home,Get him!
+152162,11,309,1216000,Homer Simpson,Flanders Home,"Ouch! Watch it! Hey. Ow, Ouch!"
+152164,11,311,1216000,Gendarme,Chateau Maison,From now on you will be doing all your winemaking in prison.
+152106,11,312,1217000,UGOLIN,Chateau Maison,"Prison? Oh, my."
+152165,11,313,1217000,Cesar,Chateau Maison,And all because we participated in a student exchange program!
+152166,11,314,1232000,Bart Simpson,Chateau Maison,"Au revoir, suckers."
+152169,11,317,1241000,Homer Simpson,Springfield Airport,"So, he's going to prison?"
+152170,11,318,1243000,Cia Agent #1,Springfield Airport,No. We've arranged an exchange for one of our own men caught in Albania.
+152171,11,319,1248000,Brad,Springfield Airport,"So, Sparrow. We meet again."
+152172,11,320,1250000,Adil Hoxha,Springfield Airport,"Yes, sometimes I think I am getting too old for this game."
+152173,11,321,1254000,Cia Agent #2,Springfield Airport,"Okay, kids. Let's hurry it up."
+152174,11,322,1256000,Adil Hoxha,Springfield Airport,"Goodbye, Simpsons. Thank you for your hospitality. I hope this experience will not sour you on the student exchange program."
+152175,11,323,1265000,Marge Simpson,Springfield Airport,"Goodbye, Adil. It was a pleasure..."
+152176,11,324,1267000,Lisa Simpson,Springfield Airport,Goodbye Adil. Have a nice trip.
+152177,11,325,1269000,Homer Simpson,Springfield Airport,"Goodbye, Adil. I'll send you those civil defense plans you wanted."
+152178,11,326,1273000,Female Announcer,Springfield Airport,"Air France Flight Dix-neuf cent quatre-vingt huit, Paris to Springfield, is now arriving."
+152179,11,327,1281000,Lisa Simpson,Springfield Airport,"Look, Mom. There he is."
+152180,11,328,1283000,Marge Simpson,Springfield Airport,"Oh, Bart, my baby boy. Welcome home."
+152181,11,329,1284000,Bart Simpson,Springfield Airport,"Hey, where's the big guy?"
+152182,11,330,1286000,Homer Simpson,Springfield Airport,"He needs me. Hey, boy."
+152183,11,331,1290000,Bart Simpson,Springfield Airport,"Hey, Homer."
+152184,11,332,1291000,Lisa Simpson,Springfield Airport,He brought us gifts. His first unselfish act.
+152186,11,334,1294000,Bart Simpson,Simpson Dining Room,"So, basically, I met one nice French person."
+152187,11,335,1298000,Lisa Simpson,Simpson Dining Room,"Bart, I have something to say that's gonna bother me if I don't say it... It's good to see you."
+152188,11,336,1303000,Bart Simpson,Simpson Dining Room,Same here.
+152189,11,337,1304000,Marge Simpson,Simpson Dining Room,"Homer, I'd love a glass of that wine Bart brought us."
+152190,11,338,1308000,Homer Simpson,Simpson Dining Room,"Sorry, Marge. Some wiseguy stuck a cork in the bottle."
+152191,11,339,1313000,Bart Simpson,Simpson Dining Room,My father. What a buffoon.
+152192,11,340,1313000,Homer Simpson,Simpson Dining Room,"Did you hear that, Marge? My boy speaks French."

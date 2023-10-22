@@ -1,0 +1,273 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+62929,254,1,87000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, open up! I've been standing here all morning."
+62930,254,2,91000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey, Homer, what are you doing at work? The plant's closed for fumigation."
+62933,254,5,105000,Homer Simpson,PLANT,No one told me the plant was closed!
+62934,254,6,107000,Carl Carlson,PLANT,Didn't you get the e-mail?
+62935,254,7,108000,Homer Simpson,PLANT,What's an e-mail?
+62936,254,8,109000,Lenny Leonard,PLANT,It's a computer thing. Like an electric letter.
+62937,254,9,112000,Carl Carlson,PLANT,Or a quiet phone call.
+62938,254,10,114000,Homer Simpson,PLANT,I don't have a computer.
+62939,254,11,116000,Lenny Leonard,PLANT,"Too bad. That's why you're at work while we're living it up on our day off. Hey Carl, turn up the car radio."
+62940,254,12,123000,Carl Carlson,PLANT,Why not? Anything goes today.
+62941,254,13,130000,Homer Simpson,PLANT,That does it. I'm getting a computer! As soon as somebody lets me outta here!
+62942,254,14,137000,Homer Simpson,PLANT,Oh. I'm so stupid.
+62945,254,17,144000,Homer Simpson,Computer Store,Uh... I guess I'll take that one.
+62946,254,18,146000,Salesman,Computer Store,"Hmmm, well, do you need a paperweight? Because if you buy that machine, that's all you're gonna have. Is an expensive paperweight."
+62947,254,19,151000,Homer Simpson,Computer Store,"Well, a paperweight would be nice, but what I really need is a computer. How about that one?"
+62948,254,20,156000,Salesman,Computer Store,"Mm-hm. That technology is three months old. Only suckers buy out of date machines. You're not a sucker, are you, sir?"
+62949,254,21,163000,Homer Simpson,Computer Store,"Heavens, no!"
+62950,254,22,164000,Salesman,Computer Store,"Oh, good, because if you were I would have to ask you to leave the store."
+62951,254,23,167000,Homer Simpson,Computer Store,I just need something to receive e-mail.
+62952,254,24,170000,Salesman,Computer Store,You'll need a top of the line machine for that.
+62953,254,25,172000,Salesman,Computer Store,That's the same computer astronauts use to do their taxes.
+62954,254,26,176000,Homer Simpson,Computer Store,I was an astronaut.
+62955,254,27,177000,Salesman,Computer Store,Of course you were.
+62956,254,28,184000,Homer Simpson,Computer Store,Five thousand dollars!
+62957,254,29,186000,Salesman,Computer Store,"You only have ten seconds to decide, sir."
+62958,254,30,190000,Homer Simpson,Computer Store,"This is the best computer in the world and always will be, right?"
+62959,254,31,193000,Salesman,Computer Store,Absolutely. Just run the deed to your house through here.
+62960,254,32,199000,CREDIT CARD SWIPER,Computer Store,You are on your fifth mortgage.
+62962,254,34,205000,Homer Simpson,Evergreen Terrace,"Hey Lisa, check out my new computer!"
+62963,254,35,210000,Lisa Simpson,Evergreen Terrace,"Dad, you shouldn't drag that around."
+62964,254,36,213000,Homer Simpson,Evergreen Terrace,That's right! Top of the line!
+62965,254,37,218000,Homer Simpson,Evergreen Terrace,"Stupid pothole. Don't worry, head. The computer will do our thinking now."
+62967,254,39,229000,Homer Simpson,Simpson Home,"Oh, yeah... perfect. Now then..."
+62968,254,40,231000,Homer Simpson,Simpson Home,Computer... kill Flanders.
+62969,254,41,234000,Ned Flanders,Simpson Home,Did I hear my name? My ears are burnin'.
+62970,254,42,237000,Homer Simpson,Simpson Home,Good start! Now finish the job!
+62971,254,43,240000,Ned Flanders,Simpson Home,"Ah, you're busy. Catch you later, compu-tater."
+62972,254,44,243000,Homer Simpson,Simpson Home,$5000 for a computer and it can't handle a simple assignment.
+62973,254,45,251000,Lisa Simpson,Simpson Home,"Dad, I'll set up your computer. Why don't you and Bart go play in the back yard?"
+62974,254,46,254000,Homer Simpson,Simpson Home,You're it!
+62975,254,47,263000,Lisa Simpson,Simpson Home,"Okay, you're ready to go. I've written down the basic commands so that anyone can understand them."
+62976,254,48,269000,Homer Simpson,Simpson Home,Hmmmmm.
+62977,254,49,271000,Marge Simpson,Simpson Home,"Homer, bring that back in the house."
+62978,254,50,273000,Homer Simpson,Simpson Home,Fine!
+62979,254,51,277000,Homer Simpson,Simpson Home,"Ooh, a dancing Jesus. De-de-de-de-de-de-de-de. If there's a better use for the Internet, I haven't found it."
+62980,254,52,287000,Virtual Wiggum,Simpson Home,"If you've committed a crime and you want to confess, click yes. Otherwise, click no."
+62982,254,53,287000,Virtual Wiggum,Simpson Home,"You have chosen no, meaning you've committed a crime, but don't want to confess. A paddy wagon is now speeding to your home."
+62983,254,54,299000,Homer Simpson,Simpson Home,Hey!
+62984,254,55,300000,Virtual Wiggum,Simpson Home,"While you wait, why not buy a police cap or T-shirt?"
+62985,254,56,304000,Virtual Wiggum,Simpson Home,You have the right to remain fabulous!
+62986,254,57,311000,Homer Simpson,Simpson Home,"Here it is, everybody! The world's greatest website!"
+62987,254,58,320000,Homer Simpson,Simpson Home,"You'd think all the noises would be annoying, but they're not."
+62988,254,59,322000,Bart Simpson,Simpson Home,I got suspended from school today.
+62989,254,60,325000,Homer Simpson,Simpson Home,"No kiddin'. What do you think of my page, Lisa? Be honest. It's great, isn't it? Go ahead and say it's great if you want to."
+62990,254,61,331000,Bart Simpson,Simpson Home,They found a switchblade in my locker.
+62991,254,62,333000,Lisa Simpson,Simpson Home,Well... a web page is supposed to be a personal thing. You've just stolen copyrighted material from everyone else. They could sue you for that.
+62992,254,63,341000,Bart Simpson,Simpson Home,I took a swing at a cop.
+62993,254,64,343000,Homer Simpson,Simpson Home,They can't sue me if they don't know who I am. I'll just call myself Mr. X.
+62994,254,65,350000,Bart Simpson,Simpson Home,I'm just mad all the time.
+62995,254,66,351000,Homer Simpson,Simpson Home,"Yep, you can't go wrong with Mr. X."
+62996,254,67,356000,Lisa Simpson,Simpson Home,Mom wants you to come to bed.
+62997,254,68,358000,Homer Simpson,Simpson Home,I can't. My web page hasn't gotten a single hit.
+62998,254,69,364000,Homer Simpson,Simpson Home,Come on.
+62999,254,70,365000,Lisa Simpson,Simpson Home,"You have to offer people something: a joke, an opinion, an idea..."
+63000,254,71,374000,Homer Simpson,Simpson Home,That lousy pothole! Why don't they fix it?
+63001,254,72,377000,Bart Simpson,Simpson Home,I heard Mayor Quimby spent the street repair fund on a secret swimming pool for himself.
+63002,254,73,381000,Homer Simpson,Simpson Home,Get out! Who told you that?
+63003,254,74,381000,Bart Simpson,Simpson Home,Nelson.
+63004,254,75,383000,Homer Simpson,Simpson Home,"Hmm, that's the kind of dirt that belongs on my web page."
+63005,254,76,388000,Lisa Simpson,Simpson Home,You can't post that on the Internet. You don't even know if it's true.
+63006,254,77,391000,Homer Simpson,Simpson Home,"Nelson has never steered me wrong, honey. Nelson is gold."
+63007,254,78,396000,Bart Simpson,Simpson Home,"You know, it might've been Jimbo."
+63008,254,79,398000,Homer Simpson,Simpson Home,Beautiful. We have confirmation.
+63011,254,81,403000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Hmm. Let's see here... X-RATED GIRLS -- already bookmarked... DIAL X FOR SEX... MR. X? Shall I cross the final frontier?
+63012,254,82,422000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,What's this?
+63013,254,83,425000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Stolen funds? Pothole money used for swimming pool? There's no emoticon for what I'm feeling!
+63015,254,85,433000,Seymour Skinner,Skinner Home,"Our mayor's corrupt?! Oh, Mr. X has done this town a great service, despite his poor grammar and spelling."
+63016,254,86,439000,Agnes Skinner,Skinner Home,Seymour! Are you looking at naked ladies?
+63017,254,87,442000,Seymour Skinner,Skinner Home,"No, Mother."
+63018,254,88,444000,Agnes Skinner,Skinner Home,You sissy!
+63021,254,91,447000,Reporter #1,Springfield Town Hall,What's all this about a secret swimming pool?
+63022,254,92,449000,Mayor Joe Quimby,Springfield Town Hall,"Uh, wha... what secret swimming pool is that?"
+63023,254,93,454000,Reporter #2,Springfield Town Hall,Hey! Let's look behind that door!
+63024,254,94,456000,Mayor Joe Quimby,Springfield Town Hall,Don't go in there.
+63026,254,96,466000,Mayor Joe Quimby,Springfield Town Hall,"Good Lord! We've discovered the ruins of an ancient city! Okay, you do better."
+63027,254,97,475000,Homer Simpson,Springfield Town Hall,I did it. I changed the world. Now I know exactly how God feels.
+63028,254,98,482000,Marge Simpson,Springfield Town Hall,Do you want turkey sausage or ham?
+63029,254,99,484000,Homer Simpson,Springfield Town Hall,Bring me two of every animal.
+63030,254,100,492000,Kent Brockman,Springfield Town Hall,"A new Internet watchdog is creating a stir in Springfield. Mr. X, if that is his real name, has come up with a sensational scoop."
+63031,254,101,499000,Homer Simpson,Springfield Town Hall,Darn tootin'.
+63032,254,102,501000,Kent Brockman,Springfield Town Hall,"But we must never forget that the real news is on local TV. Delivered by real, officially licensed newsmen like me, Kent Brockman. Coming up, how do they get those dogs to talk on the beer commercials? Cowboy Steve will tell you."
+63034,254,104,514000,Lisa Simpson,Simpson Home,"I'm happy you got the potholes filled, but it's still irresponsible to present rumors as facts. Maybe you should quit while you're ahead."
+63035,254,105,522000,Homer Simpson,Simpson Home,No way! Mr. X is gonna keep on digging... and probing... until every person in this town is in jail!
+63037,254,107,530000,Krusty the Clown,Kwik-E-Mart,"A coconut bagel?! Like poison, it tastes."
+62981,254,108,534000,Apu Nahasapeemapetilon,Kwik-E-Mart,"All right, I'll tell you a secret. My bagels are nothing but week-old donuts."
+63039,254,109,539000,Krusty the Clown,Kwik-E-Mart,"Eh, who am I to point the finger? I once ran over a guy in a parking lot, and dumped the body on a golf course."
+63040,254,110,550000,Homer Simpson,Kwik-E-Mart,What a bombshell!
+63042,254,112,555000,Chief Wiggum,Springfield Police Station,"In the interests of public safety, we have confiscated every donut, bagel, cruller and bear claw in the city. And some coffee."
+63043,254,113,564000,Reporter #1,Springfield Police Station,"This morning, Mr. X reported that your own department..."
+63044,254,114,567000,Chief Wiggum,Springfield Police Station,"I know, I know. But I assure you, the police do not take prisoners out of their cells and race them. Any more."
+63045,254,115,574000,Reporter #1,Springfield Police Station,"Well, what about using the electric chair to cook chicken?"
+63046,254,116,576000,Chief Wiggum,Springfield Police Station,"Uh, yeah, all right. This press conference is over."
+63047,254,117,578000,Reporter #1,Springfield Police Station,"Well, I have one more..."
+63048,254,118,579000,Chief Wiggum,Springfield Police Station,"Nah, it's over, Phil."
+63049,254,119,579000,Reporter #1,Springfield Police Station,Police Chief Wig...
+63050,254,120,579000,Chief Wiggum,Springfield Police Station,It's over.
+63052,254,122,580000,Lenny Leonard,Moe's Tavern,According to my uncle...
+63053,254,123,580000,Lenny Leonard,Moe's Tavern,"Miss Springfield isn't as beautiful as she seems. Word is, she uses appearance-altering cosmetics."
+63054,254,124,591000,Carl Carlson,Moe's Tavern,The public should be warned. I wish Mr. X were here.
+63055,254,125,594000,Homer Simpson,Moe's Tavern,"Oh, I don't know, Carl. He might be closer than you think."
+63056,254,126,598000,Carl Carlson,Moe's Tavern,Are you him? Are you Mr. X?
+63057,254,127,600000,Homer Simpson,Moe's Tavern,No!
+63058,254,128,600000,Carl Carlson,Moe's Tavern,"Uh, but you talked in that real sly voice. Hey, hey, everybody, Homer's Mr. X!"
+63059,254,129,604000,Homer Simpson,Moe's Tavern,I am not. Or am I?
+63060,254,130,607000,Lenny Leonard,Moe's Tavern,Are you?
+63061,254,131,608000,Homer Simpson,Moe's Tavern,No!
+63062,254,132,609000,Moe Szyslak,Moe's Tavern,"Well, if Mr. X were here right now, I'd buy him a tall frosty."
+63063,254,133,613000,Homer Simpson,Moe's Tavern,"Hey, Moe, can you keep a secret?"
+63064,254,134,613000,Moe Szyslak,Moe's Tavern,No.
+63065,254,135,615000,Homer Simpson,Moe's Tavern,Not even a little one?
+63066,254,136,615000,Moe Szyslak,Moe's Tavern,No.
+63067,254,137,617000,Homer Simpson,Moe's Tavern,What if I just whisper it?
+63068,254,138,618000,Moe Szyslak,Moe's Tavern,"No, I tells ya."
+63071,254,141,621000,Homer Simpson,Springfield Nuclear Power Plant,I'VE BEEN SITTIN' ON THE TOILET / ALL THE LIVE-LONG DAY...
+63010,254,142,628000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Is everything ready for the secret meeting, Smithers?"
+63038,254,143,628000,Waylon Smithers,Springfield Nuclear Power Plant,Yes sir.
+63073,254,144,631000,C. Montgomery Burns,Springfield Nuclear Power Plant,I hope no one finds out about this. It's pure journalistic dynamite!
+63074,254,145,636000,Waylon Smithers,Springfield Nuclear Power Plant,"Uh, sir, this place could be bugged."
+63075,254,146,640000,Waylon Smithers,Springfield Nuclear Power Plant,"Okay, now we can talk."
+63076,254,147,643000,C. Montgomery Burns,Springfield Nuclear Power Plant,Turn it off!
+63077,254,148,649000,C. Montgomery Burns,Springfield Nuclear Power Plant,Journalistic dynamite.
+63080,254,151,656000,C. Montgomery Burns,Burns's Office,Then it's agreed. I'll supply you terrorists with deadly uranium.
+63081,254,152,660000,Head Terrorist,Burns's Office,You are a credit to the great Satan.
+63082,254,153,662000,C. Montgomery Burns,Burns's Office,"Oh, pshaw."
+63083,254,154,666000,Homer Simpson,Burns's Office,I love spying.
+63084,254,155,668000,C. Montgomery Burns,Burns's Office,"Ohh, don't worry about those fumes. They'll be sucked into that air vent."
+63086,254,157,680000,C. Montgomery Burns,Burns's Office,This place is falling apart.
+63088,254,159,684000,Homer Simpson,Simpson Home,"And who's selling the uranium to the terrorists? Montgomery Burns. Now, we wait."
+63089,254,160,698000,C. Montgomery Burns,Simpson Home,Let go of me! I'm innocent!
+63090,254,161,701000,Homer Simpson,Simpson Home,Whoa... He's in trouble.
+63092,254,163,703000,Committee Woman,Springfield Town Hall,We'd like to award this year's Pulitzer Prize to Mr. X.
+63094,254,165,709000,Committee Woman,Springfield Town Hall,"Unfortunately, we don't know who he is. So his cash award will be used to feed starving children."
+63095,254,166,716000,Homer Simpson,Springfield Town Hall,Nooo!
+63096,254,167,719000,Homer Simpson,Springfield Town Hall,I'm Mr. X! Gimme! Gimme!
+63098,254,169,724000,Committee Woman,Springfield Town Hall,We'll need some proof.
+63100,254,171,726000,Edna Krabappel-Flanders,Springfield Town Hall,He is Mr. X! Hah!
+63101,254,172,730000,Homer Simpson,Springfield Town Hall,"Thank you, folks. And now I'm off to expose more secret conspiracies and..."
+63102,254,173,736000,Homer Simpson,Springfield Town Hall,I bit my tongue!
+63104,254,175,739000,Marge Simpson,Simpson Home,I'm proud that you won the Pulitzer...
+63105,254,176,741000,Homer Simpson,Simpson Home,Finally.
+63106,254,177,743000,Marge Simpson,Simpson Home,But I do feel bad about the starving children...
+63107,254,178,746000,Homer Simpson,Simpson Home,They're with God now.
+63108,254,179,748000,Marge Simpson,Simpson Home,"Oh, well, that's good... Oh."
+63109,254,181,752000,Homer Simpson,Moe's Tavern,"Hey, guys. How's it goin'?"
+63110,254,182,755000,Homer Simpson,Moe's Tavern,"Oh, don't worry about the Mr. X thing. I'm just here for a beer."
+63111,254,183,760000,Moe Szyslak,Moe's Tavern,"I dunno if I want you in here no more, Homer, uh... I got a lotta secrets I'd prefer to keep clandestine. Terrible, disturbing secrets."
+63112,254,184,769000,Voice,Moe's Tavern,So hungry.
+63113,254,185,771000,Homer Simpson,Moe's Tavern,I smell another Pulitzer.
+63114,254,186,775000,Rev. Timothy Lovejoy,Moe's Tavern,"Well, Helen, as it says in the Bible..."
+63115,254,187,780000,Rev. Timothy Lovejoy,Moe's Tavern,I'll tell you later.
+63117,254,189,784000,Homer Simpson,Simpson Home,Nobody's visiting my web page anymore. My counter is actually going down.
+63118,254,190,793000,Lisa Simpson,Simpson Home,"Well, you can't post news if you don't have any."
+63119,254,191,796000,Homer Simpson,Simpson Home,That's a great idea! I'll make up some news!
+63120,254,192,800000,Lisa Simpson,Simpson Home,At least take off your Pulitzer Prize when you say that.
+63121,254,193,806000,Homer Simpson,Simpson Home,"Let's see now... ""BULLETIN: New Race Discovered Living Six Inches Under... Denver."""
+63122,254,194,808000,Lisa Simpson,Simpson Home,"Oh, Dad..."
+63123,254,195,817000,Homer Simpson,Simpson Home,All Named 'Morton'... or... 'Mortonson'...
+63125,254,197,817000,Dr. Julius Hibbert,Dr. Hibbert's Office,"This Mr. X says Spanish and Italian are the same language. Well, that's surprising."
+63127,254,199,828000,Ned Flanders,Flanders Home,"""They're Controlling Our Minds With Flu Shots?!"" I knew it. Well kids, now aren't you glad we don't believe in inoculations?"
+63128,254,200,838000,Todd Flanders,Flanders Home,Yayyy.
+63129,254,201,840000,Todd Flanders,Flanders Home,Mommy?
+63131,254,203,841000,Nelson Muntz,Kwik-E-Mart,"Hey, Mr. X! I got a tip for ya. In science class, they're dissecting frozen hoboes. And I have the bindles to prove it."
+63132,254,204,848000,Homer Simpson,Kwik-E-Mart,"Real news is great, son. But I'm gettin' a thousand hits an hour with grade-A bull plop."
+63133,254,205,855000,Homer Simpson,Kwik-E-Mart,"Gimme a hundred Lotto tickets, Apu. Because Mr. X is on a roll."
+63134,254,206,862000,Homer Simpson,Kwik-E-Mart,"Stop it, Apu. You're scaring me."
+63135,254,207,868000,Homer Simpson,Kwik-E-Mart,What's going on?
+63136,254,208,871000,Homer Simpson,Kwik-E-Mart,"Help, I'm being kidnapped!"
+63139,254,211,888000,Apu Nahasapeemapetilon,REAL KWIK-E-MART,This is not a library.
+63141,254,213,890000,Homer Simpson,Highway,"Save me, Mr. X! Wait, I'm Mr. X."
+63142,254,214,898000,Homer Simpson,Highway,Wuzzah?
+63143,254,215,910000,Homer Simpson,Highway,What the hell?
+63144,254,216,915000,Homer Simpson,Highway,How did I get here? What is this place?
+63145,254,217,918000,Citizen #1,Highway,This is... The Island.
+63146,254,218,921000,Homer Simpson,Highway,How do I get outta here?
+63147,254,219,922000,Citizen #2,Highway,"Oh, no one leaves The Island."
+63148,254,220,924000,Homer Simpson,Highway,So I'm a prisoner? How come?
+63149,254,221,927000,Citizen #1,Highway,Because you know something.
+63150,254,222,929000,Homer Simpson,Highway,But I don't know anything. At least I don't think I do.
+63151,254,223,932000,Citizen #1,Highway,See you tomorrow.
+63152,254,224,933000,Homer Simpson,Highway,No you won't!
+63154,254,226,935000,Homer Simpson,Phone Booth,"Hello, operator? I'd like to report a really weird island. Please send lots of rescue copters to..."
+63155,254,227,943000,Homer Simpson,Phone Booth,"All right, whatever."
+63158,254,230,956000,Patrick McGoohan,ISLAND COMMUNITY ROOM,Welcome friend. I'm Number 6.
+63159,254,231,959000,Blind Man,ISLAND COMMUNITY ROOM,I'm Number 15. What number are you?
+63160,254,232,961000,Homer Simpson,ISLAND COMMUNITY ROOM,"I am not a number, I am a man. And don't you ever... Oh, wait, I'm Number 5. Ha ha! In your face, Number 6!"
+63161,254,233,969000,Patrick McGoohan,ISLAND COMMUNITY ROOM,"Yes, well done."
+63162,254,234,970000,Homer Simpson,ISLAND COMMUNITY ROOM,Who are all these oddballs?
+63163,254,235,972000,Patrick McGoohan,ISLAND COMMUNITY ROOM,"Well, they keep us here because we know too much. Number 27 there knows how to turn water into gasoline. Number 12 knows the deadly secret behind Tic-Tacs. And I invented the bottomless peanut bag."
+63164,254,236,984000,Homer Simpson,ISLAND COMMUNITY ROOM,Wow.
+63165,254,237,986000,Homer Simpson,ISLAND COMMUNITY ROOM,"So, who brought us here?"
+63166,254,238,988000,Patrick McGoohan,ISLAND COMMUNITY ROOM,I don't know.
+63167,254,239,989000,Homer Simpson,ISLAND COMMUNITY ROOM,Did you bring us here?
+63168,254,240,991000,Patrick McGoohan,ISLAND COMMUNITY ROOM,No!
+63170,254,242,995000,Chief Wiggum,Wooded Area,"Don't worry. If even half of your husband is out here, Officer Scraps'll find him."
+63171,254,243,1000000,Marge Simpson,Wooded Area,"Oh, that's a darling name for a dog."
+63173,254,245,1012000,Chief Wiggum,Beach,"Yep, he's on the trail, all right... Uh-oh."
+63174,254,246,1018000,Chief Wiggum,Beach,"Better go fish 'im out, Lou."
+63175,254,247,1019000,Lou,Beach,"Okay, Chief."
+63176,254,248,1022000,Chief Wiggum,Beach,"Uh, the shoes are part of the uniform."
+62734,254,249,1024000,Lou,Beach,"Right, Chief."
+63177,254,251,1036000,Homer Simpson,STARK ROOM,"Oh, they drugged the tea. They knew my one weakness."
+63178,254,252,1045000,Number 2,STARK ROOM,"Hello, Number 5. How's every little thing?"
+63179,254,253,1047000,Homer Simpson,STARK ROOM,Who are you and why are you holding me here? I want answers now or I want them eventually.
+63180,254,254,1052000,Number 2,STARK ROOM,"Fair enough, I'll level with you."
+63181,254,255,1055000,Number 2,STARK ROOM,Ow. Please. Don't do that.
+63182,254,256,1058000,Homer Simpson,STARK ROOM,Sorry.
+63183,254,257,1059000,Number 2,STARK ROOM,I'll be blunt. Your web page has stumbled upon our secret plan.
+63184,254,258,1062000,Homer Simpson,STARK ROOM,That's impossible. All my stories are bull plop. Bull plop!
+63185,254,259,1067000,Number 2,STARK ROOM,"Oh don't be cute. I'm referring to the flu shot exposé. You see, we're the ones loading them with mind-controlling additives."
+63186,254,260,1074000,Homer Simpson,STARK ROOM,But why?
+63187,254,261,1074000,Number 2,STARK ROOM,To drive people into a frenzy of shopping. That's why flu shots are given just before Christmas.
+63188,254,262,1082000,Homer Simpson,STARK ROOM,"Of course! It's so simple... Wait, no it's not. It's needlessly complicated."
+63189,254,263,1088000,Number 2,STARK ROOM,"Yes it is. And we can't have you out there mucking it up now, can we?"
+63190,254,264,1092000,Homer Simpson,STARK ROOM,"No, sir."
+63191,254,265,1093000,Number 2,STARK ROOM,There's a good boy. Let's get you some ice cream. There you are.
+63192,254,266,1098000,Homer Simpson,STARK ROOM,"Look, you can drug me all you want, but my family won't rest till they find my drug-bloated corpse."
+63193,254,267,1105000,Number 2,STARK ROOM,"I wouldn't count on that, Number 5. As far as your family knows, Homer Simpson is walking in the front door right about now."
+63194,254,268,1113000,Homer Simpson,STARK ROOM,I'm sorry. What?
+63196,254,270,1118000,Marge Simpson,Simpson Home,Homie!
+63197,254,271,1119000,Fake Homer,Simpson Home,"Marge honey fraulein, I'm home."
+63198,254,272,1122000,Marge Simpson,Simpson Home,You're not my husband.
+63199,254,273,1124000,Fake Homer,Simpson Home,"Ya, please forgive my unexplained two-week absence. To make it up to you, we will go out to dinner at a sensibly-priced restaurant, then have a night of efficient German sex."
+63200,254,274,1133000,Marge Simpson,Simpson Home,"Well, I sure don't feel like cooking."
+63204,254,278,1147000,Fake Homer,Simpson Home,Aren't there any evil movies on? Maybe something about an evil island?
+63205,254,279,1151000,Bart Simpson,Simpson Home,"There's something really different about you, Dad."
+63206,254,280,1153000,Fake Homer,Simpson Home,I am a new tie wearing.
+62887,254,281,1156000,Bart Simpson,Simpson Home,Oh yeah...
+63207,254,283,1159000,Homer Simpson,Island,I'm tired of being drugged and gagged. There's gotta be a way to escaped.
+63208,254,284,1163000,Patrick McGoohan,Island,Psst.
+63209,254,285,1163000,Homer Simpson,Island,Huh?
+63210,254,286,1165000,Patrick McGoohan,Island,"I've worked on this for thirty-three years. It's made out of toilet paper rolls, toothpicks and plastic forks. And the sail is made of scabs and dynamite. It's small, and it's smelly, but it should carry both of us to..."
+63211,254,287,1185000,Patrick McGoohan,Island,That's the third time that's happened.
+63213,254,289,1193000,Homer Simpson,WATERS AROUND ISLAND,"Oh, no! An anti-escape orb!"
+63214,254,290,1204000,Homer Simpson,WATERS AROUND ISLAND,"Huh, that was easy."
+63216,254,292,1208000,Number 2,NUMBER 2'S LAIR (STARK ROOM),Why did you think a big balloon would stop people?
+63217,254,293,1211000,Female Scientist,NUMBER 2'S LAIR (STARK ROOM),Shut up! That's why!
+63219,254,295,1212000,Homer Simpson,Simpson Home,What a horrible four months. Now to warn everybody.
+63220,254,296,1216000,Homer Simpson,Simpson Home,Attention: some crazy creeps on an island somewhere are secretly running the world...
+63221,254,297,1222000,Homer Simpson,Simpson Home,Hey!
+63222,254,298,1223000,Number 2,Simpson Home,"Sorry, old chap. But you're proving quite the caterpillar in our buttermilk."
+63223,254,299,1227000,Homer Simpson,Simpson Home,Huh?
+63224,254,300,1228000,Number 2,Simpson Home,We're shutting you down.
+63225,254,301,1229000,Homer Simpson,Simpson Home,"Not a chance. No one can silence me, but me!"
+63226,254,302,1232000,Fake Homer,Simpson Home,That arranged can be.
+63227,254,303,1235000,Homer Simpson,Simpson Home,Whuh?
+63228,254,304,1241000,Number 2,Simpson Home,"Yes, fight and struggle!"
+63229,254,305,1245000,Homer Simpson,Simpson Home,"If I know me, he won't like being kicked in the crotch."
+63230,254,306,1251000,Homer Simpson,Simpson Home,"Oh, Marge. It's me, the real Homer!"
+63231,254,307,1253000,Marge Simpson,Simpson Home,"Oh, Homie!"
+63232,254,308,1260000,Number 2,Simpson Home,"Bravo, Number 5. But you know what happens to bad little fishies who wriggle through the net..."
+63233,254,309,1267000,Lisa Simpson,Simpson Home,Can I turn this off?
+63234,254,310,1268000,Homer Simpson,Simpson Home,Absolutely.
+63235,254,311,1268000,Number 2,Simpson Home,Hey...
+63236,254,312,1270000,Bart Simpson,Simpson Home,"Nice to have you back, Homer."
+63237,254,313,1273000,Marge Simpson,Simpson Home,"The dog thinks so, too."
+63238,254,314,1276000,Homer Simpson,Simpson Home,The dog thinks so...
+63239,254,315,1276000,Homer Simpson,Simpson Home,Bad dog.
+63241,254,317,1285000,Marge Simpson,Island,"Once you get used to the druggings, this isn't a bad place."
+63242,254,318,1289000,Homer Simpson,Island,"Oh, it's wonderful."
+63243,254,319,1290000,Homer Simpson,Island,Truly God's country.
+63244,254,320,1295000,Homer Simpson,Island,See you on the island.
+63245,254,321,1298000,Lisa Simpson,Island,"Yes, the island."

@@ -1,0 +1,216 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+141202,543,2,36000,Lisa Simpson,HOOVER'S CLASS,"We do have them! They're my home screen! Miss Hoover! Once again, the lesson plan I prepared would've covered this topic much better, but I can see..."
+141204,543,4,48000,Lisa Simpson,HOOVER'S CLASS,Miss Hoover?
+141205,543,5,50000,Miss Hoover,HOOVER'S CLASS,"It's Tuesday, Lisa. Taco Tuesday."
+141212,543,12,58000,Kids,Hallway,Taco Tuesday! Taco Tuesday!
+141213,543,13,61000,Carl Carlson,Hallway,Taco Tuesday! Taco Tuesday!
+141215,543,15,69000,Groundskeeper Willie,Springfield Elementary School,Oh no! I'm about to become another moppin' statistic!
+141216,543,16,76000,Groundskeeper Willie,Springfield Elementary School,"There's only room for one of us, Ethel."
+141219,543,19,97000,Lisa Simpson,Springfield Elementary School Cafeteria,"Bart, that's your sixth taco. You know, Whitman says, ""If anything is sacred, the human body is sacred""."
+141220,543,20,99000,Bart Simpson,Springfield Elementary School Cafeteria,Fascinating.
+141221,543,21,107000,Lunchlady Dora,Springfield Elementary School Cafeteria,"Congratulations, boys, you made it through another Taco Tuesday. Back in the bucket till next week."
+141222,543,22,114000,Lisa Simpson,Springfield Elementary School Cafeteria,Won't those vegetables go bad?
+141223,543,23,116000,Lunchlady Dora,Springfield Elementary School Cafeteria,Nope. They're genetically modified to stay fresh. Just don't ask how old the Jell-O is.
+141224,543,24,122000,Lisa Simpson,Springfield Elementary School Cafeteria,Ew.
+141226,543,26,125000,Lisa Simpson,Springfield Streets,"Overreactor dot org warns that over half of the vegetables sold in this country are ""Genetically Modified Organisms,"" whose effect on humans is... unknown!"
+141227,543,27,138000,Lisa Simpson,Springfield Streets,"Whoa! Mom, you made me over-swipe!"
+141228,543,28,141000,Animated Krusty,Springfield Streets,Your parent's credit card has been charged twenty dollars!
+141229,543,29,146000,Marge Simpson,Springfield Streets,"I have to get to the church. Helen Lovejoy is posting the spring volunteer signup sheet. In five minutes, every good task will be taken! Dang it!"
+141230,543,30,158000,Marge Simpson,Springfield Streets,Jasper Beardley! You'll never make it!
+141234,543,34,187000,Jasper Beardly,Springfield Streets,What the hell is this thing?
+141237,543,37,190000,Marge Simpson,CHURCH LOBBY,"Bake sale -- taken... candle snuffing -- taken... baby shusher, miscellaneous choir support -- everything's taken! All that's left is..."
+141238,543,38,198000,Ned Flanders,CHURCH LOBBY,Teen abstinence counseling! You get to pass out abstinence pledges and make sure the kids sign their John Han-bleeps.
+141239,543,39,206000,Marge Simpson,CHURCH LOBBY,"But Ned, saying nay is your thing."
+141240,543,40,209000,Ned Flanders,CHURCH LOBBY,Not this month! Edna signed us up for a tango class. It was the only way I could avert wine tasting.
+141241,543,41,216000,Marge Simpson,CHURCH LOBBY,"Look, I'm really not comfortable talking about S-E-X with K-I-D-S."
+141242,543,42,222000,Rev. Timothy Lovejoy,CHURCH LOBBY,Language!
+141244,543,43,224000,Rev. Timothy Lovejoy,CHURCH LOBBY,"Oh, it's not that hard. Just tell them that God wants them to ignore everything in their bodies that God is making happen."
+141245,543,44,229000,Todd Flanders,CHURCH LOBBY,We took the pledge!
+141246,543,45,231000,Rod Flanders,CHURCH LOBBY,We won't have sex until we're married.
+141247,543,46,233000,Todd Flanders,CHURCH LOBBY,To each other.
+141248,543,47,237000,Ned Flanders,CHURCH LOBBY,Their skipping lessons are really payin' off!
+141251,543,50,240000,Marge Simpson,First Church of Springfield,"Hello. Hello. I'm-I'm Marge Simpson. And I'm here to talk about a-a-a wonderful, beautiful thing--"
+141252,543,51,249000,Jimbo Jones,First Church of Springfield,"Speaking of beautiful things, tongue me, babe."
+141255,543,54,261000,Shauna Chalmers,Springfield Elementary School,"How many of you are here for the free cookies, because we've discontinued that."
+141256,543,55,267000,Seymour Skinner,Springfield Elementary School,One of our brightest and most meddlesome students called this meeting... somehow... to discuss an urgent menu matter. Lisa?
+141257,543,56,273000,Lisa Simpson,Springfield Elementary School,Our school cafeteria is serving G.M.O.s -- genetically-modified organisms.
+141258,543,57,280000,Seymour Skinner,Springfield Elementary School,"And now in order to thoroughly explore the issue, I'd like to play the first video that came up in my web browser when I typed in ""G.M.O."" plus ""danger"" plus ""question mark""."
+141259,543,58,280000,Sideshow Mel,Springfield Elementary School,Hear-hear!
+141260,543,59,293000,Alarmist Narrator,Springfield Elementary School,"If there's one thing scientists love it's money. Money, money, money! And that's been true of scientists ever since caveman times."
+141261,543,60,302000,Alarmist Narrator,Springfield Elementary School,"We need look no further back than the ancient Mayans, who cross-bred plants and animals in an unholy experiment in what is now a resort that charges thirty dollars a night to valet park."
+141262,543,61,312000,Alarmist Narrator,Springfield Elementary School,"Once you're there, they've gotcha."
+141264,543,63,316000,Alarmist Narrator,Springfield Elementary School,The Mayans didn't listen... to themselves.
+141265,543,64,319000,Alarmist Narrator,Springfield Elementary School,"Yet, today, we toy with our fate by using retroviruses to create these so-called ""super foods"". Are we doomed to repeat an event that destroyed all human life? The answer is in your mouth."
+141266,543,65,338000,Lisa Simpson,Springfield Elementary School,Um... that video seemed a little... unscientific.
+141267,543,66,342000,Jenny McCarthy,Springfield Elementary School,"My name is Jenny McCarthy, and I endorse this tirade."
+141268,543,67,345000,Lisa Simpson,Springfield Elementary School,Oh my God! It's worse than I thought. Everybody wait here while I do some actual research. Nobody form any opinions while I'm gone.
+141269,543,68,353000,Chief Wiggum,Springfield Elementary School,"Well, hurry! We have no minds of our own!"
+141271,543,70,357000,Lisa Simpson,Auditorium,I say we do not categorically ban genetically modified organisms.
+141273,543,72,364000,Crowd,Auditorium,"Well, G.M.O.s are resistant to pests, disease, and drought. It's just possible that G.M.O.s can actually end world hunger!"
+141274,543,73,372000,Kirk Van Houten,Auditorium,I say let's get these G.M.O.s inside our children! Pronto!
+141275,543,74,375000,Coach Krupt,Auditorium,Way ahead of you!
+141277,543,76,382000,Homer Simpson,Springfield Elementary School,"I'm eating the food of the future. Beep, boop. What is... love? Boop, beep, boop."
+141278,543,77,389000,Monsarno Rep,Springfield Elementary School,"Lisa, I'd like to thank you for mollifying these land apes. We'd like you and your family to visit us at the Monsarno research campus."
+141279,543,78,396000,Homer Simpson,Springfield Elementary School,"Ooh, campus! Do you have a statue of the founder I can stick a funny hat on?"
+141281,543,80,403000,Homer Simpson,Monsarno Research Labs,Go! Go! Go!
+141284,543,83,407000,Monsarno Rep,MONSARNO LAB,"Simpsons, we're trying to change the world, one molecule at a time."
+141285,543,84,412000,Marge Simpson,MONSARNO LAB,Sounds like that would take a while.
+141286,543,85,414000,Monsarno Rep,MONSARNO LAB,"Oh, you're right. Everyone, three molecules at a time."
+141287,543,86,420000,Researcher,MONSARNO LAB,"I'll be home late, honey. Yeah, three molecules now."
+141288,543,87,425000,Lisa Simpson,MONSARNO LAB,"Well, it's nice to see for once a corporation that does good work and cares about people."
+141289,543,88,429000,Monsarno Rep,MONSARNO LAB,"Yes, Lisa, we've finally put to bed the silly notion that our company is in any way evil. Now, say hello to our Chief Scientist!"
+141290,543,89,439000,Monsarno Rep,MONSARNO LAB,Sideshow Bob!
+141291,543,90,441000,Monsarno Rep,MONSARNO LAB,Doctor Sideshow Bob.
+141292,543,91,443000,Homer Simpson,MONSARNO LAB,Real doctor or PhD?
+141293,543,92,445000,Sideshow Bob,MONSARNO LAB,PhD.
+141294,543,93,449000,Monsarno Rep,MONSARNO LAB,All right. I'll leave you and Bob in this locked room to get reacquainted.
+141295,543,94,453000,Monsarno Rep,MONSARNO LAB,"Simpsons, there's no need for alarm."
+141296,543,95,459000,Sideshow Bob,MONSARNO LAB,That's not for you to suck!
+141298,543,96,462000,Sideshow Bob,MONSARNO LAB,"Now, where was I? Right, no need to worry. I'm still technically shawshanking it at Springfield Penitentiary."
+141299,543,97,470000,Bart Simpson,MONSARNO LAB,This is getting boring. Either murder us or tell us how you got here.
+141300,543,98,473000,Sideshow Bob,MONSARNO LAB,Very well.
+141302,543,100,476000,Sideshow Bob,Springfield Penitentiary,The inanity of the vanity license plate puns was slowly driving me mad.
+141303,543,101,482000,Sideshow Bob,Springfield Penitentiary,"So when Monsarno Labs asked for experimental subjects, I gladly volunteered."
+141305,543,103,497000,Sideshow Bob,MONSARNO LABS,My job was to make sure the experiments wouldn't be too painful for the test monkeys.
+141308,543,106,507000,Scientist,MONSARNO LABS,I don't know what we're doin' here. We'll pick it up after lunch.
+141311,543,109,519000,Sideshow Bob,SEMINAR ROOM,I wrote up my results and went from subject to scientist.
+141312,543,110,525000,Bart Simpson,SEMINAR ROOM,Look at me! I'm Sideshow Bob!
+141313,543,111,529000,Homer Simpson,SEMINAR ROOM,Sideshow Bob!
+141314,543,112,531000,Sideshow Bob,SEMINAR ROOM,Foolish boy! That's phosphoric acid!
+141315,543,113,534000,Sideshow Bob,SEMINAR ROOM,A mere sip would've dissolved a hole in your stomach the size of a silver dollar!
+141316,543,114,538000,Bart Simpson,SEMINAR ROOM,"Yakety, yakety, yak."
+141317,543,115,539000,Bart Simpson,SEMINAR ROOM,"""The spotted hawk accuses me, he complains of my gab."""
+141318,543,116,539000,Bart Simpson,SEMINAR ROOM,"""I too am not a bit tamed, I too am untranslatable""... Walt Whitman, ""Leaves of Grass""."
+141319,543,117,549000,Bart Simpson,SEMINAR ROOM,"Very good. Lisa, you always were the one rose petal floating atop the cesspool that is the Simpsons."
+141320,543,118,557000,Bart Simpson,SEMINAR ROOM,/ That's mean.
+141322,543,120,560000,Monsarno Rep,SEMINAR ROOM,"If you're done, our chief scientist has to get back to work. Our corn on the cob has become self-aware."
+141323,543,121,567000,Sideshow Bob,SEMINAR ROOM,"Wait! Wait! Won't you visit me again? Let me show you I really am trying to make a better world. Lisa, we can talk Walt Whitman... And Homer, I think you'd enjoy the company of the campus's lazy overfed squirrels."
+141324,543,122,579000,Homer Simpson,SEMINAR ROOM,"""Overfed?"" I don't know this word."
+141327,543,125,590000,Sideshow Bob,Simpson Kitchen,"Visit me, Lisa. We can discuss poetry, fine art, and if we must, jazz."
+141243,543,126,596000,Lisa Simpson,Simpson Kitchen,Mom... can I visit Bob?
+141328,543,127,599000,Bart Simpson,Simpson Kitchen,Why would you want to do that? He's tried to kill us.
+141329,543,128,602000,Lisa Simpson,Simpson Kitchen,"You. He's tried to kill you. Me, I think he likes."
+141330,543,129,605000,Lisa Simpson,Simpson Kitchen,And I refuse to concede a mind that thinks so much like mine can be all bad. Mom?
+141331,543,130,609000,Marge Simpson,Simpson Kitchen,Don't you think the parts that aren't evil are a little pretentious?
+141332,543,131,614000,Bart Simpson,Simpson Kitchen,"Absolutely. We're talking about Lisa, right?"
+141333,543,132,616000,Lisa Simpson,Simpson Kitchen,Shut up!
+141334,543,133,616000,Bart Simpson,Simpson Kitchen,You shut up!
+141335,543,134,618000,Lisa Simpson,Simpson Kitchen,This is the pinnacle of conversation around here.
+141336,543,135,621000,Homer Simpson,Simpson Kitchen,Fine. I'll take you. They have this cool psych class at the campus I sat in on.
+141337,543,136,626000,Marge Simpson,Simpson Kitchen,That was a sexual harassment seminar!
+141338,543,137,629000,Homer Simpson,Simpson Kitchen,It doesn't matter. I'm taking it pass-fail.
+141341,543,140,635000,Rev. Timothy Lovejoy,CHURCH MEETING ROOM,"Blowing off steam in the crafts room, Marge?"
+141342,543,141,637000,Marge Simpson,CHURCH MEETING ROOM,"No! I'm not giving up on reaching those kids, and I might just have a secret weapon."
+141343,543,142,643000,Rev. Timothy Lovejoy,CHURCH MEETING ROOM,Mm hmm. Is it finger puppets?
+141344,543,143,645000,Marge Simpson,CHURCH MEETING ROOM,Maybe!
+141345,543,144,646000,Rev. Timothy Lovejoy,CHURCH MEETING ROOM,"Well, we haven't had finger puppets in this church since Reverend Brogan was arrested."
+141346,543,145,651000,Rev. Timothy Lovejoy,CHURCH MEETING ROOM,But I suppose enough time has passed.
+141348,543,147,654000,Marge Simpson,CHURCH SEMINAR ROOM,And that's why Nancy No is the most popular girl in Promiseville High.
+141349,543,148,660000,DOLPH,CHURCH SEMINAR ROOM,I prefer the modern thinking of Yolanda Yes.
+141350,543,149,663000,Jimbo Jones,CHURCH SEMINAR ROOM,And I think I'd have a shot with Mabel Maybe.
+141352,543,151,669000,Marge Simpson,CHURCH SEMINAR ROOM,I am so tired of those kids sniggering.
+141353,543,152,673000,Marge Simpson,CHURCH SEMINAR ROOM,"Uh-oh. It's Horndog Hank. Well, Nancy knows how to keep him away."
+141354,543,153,680000,Marge Simpson,CHURCH SEMINAR ROOM,"Darn it, they're stuck."
+141357,543,156,688000,Kearney Zzyzwicz,CHURCH SEMINAR ROOM,"Um, can I take one of those girl puppets home? I won't do nothin' to it."
+141361,543,160,697000,Sideshow Bob,BOB'S LAB,YOU SAY MODIFIED TO-MAY-TO / I SAY MODIFIED TO-MAH-TO...
+141362,543,161,701000,Lisa Simpson,BOB'S LAB,I SAY ENGINEERED PO-TAY-TO / YOU SAY ENGINEERED PO-TAH-TO... POTATO!
+141363,543,162,704000,Sideshow Bob,BOB'S LAB,POTAHTO!
+141364,543,163,706000,Lisa Simpson,BOB'S LAB,TOMATO!
+141365,543,164,706000,Sideshow Bob,BOB'S LAB,TOMAHTO!
+141366,543,165,708000,Lisa Simpson,BOB'S LAB,LET'S SPLICE SOME D.N.A.!
+141367,543,166,717000,Sideshow Bob,BOB'S LAB,That is my first non-evil laugh in years.
+141368,543,167,720000,Lisa Simpson,BOB'S LAB,"Bob, there's one thing I've gotta know: are you plotting revenge?"
+141369,543,168,726000,Sideshow Bob,BOB'S LAB,"I don't plot revenge anymore. It's like love: if it happens, it happens. Now, how 'bout those s'mores?"
+141370,543,169,736000,Lisa Simpson,BOB'S LAB,Dad!
+141371,543,170,736000,Lisa Simpson,BOB'S LAB,You already ate all the chocolate bars.
+141372,543,171,739000,Homer Simpson,BOB'S LAB,That's why I've got to get the marshmallows down fast.
+141374,543,173,744000,Homer Simpson,Simpson Home,I like how they cut them down from a hundred and forty characters to a more manageable twenty characters.
+141375,543,174,750000,Marge Simpson,Simpson Home,"Another seminar tomorrow. I just wish I could connect with those teenagers, since it seems like we'll never have any."
+141376,543,175,758000,Homer Simpson,Simpson Home,"Marge, teens can't control their urges. It's why there's never been a teenage President."
+141377,543,176,765000,Marge Simpson,Simpson Home,Are you saying I'm wasting my time?
+141378,543,177,767000,Homer Simpson,Simpson Home,"No. I'm saying you're wasting everyone's time. But it's a church thing, so that's a given."
+141379,543,178,772000,Marge Simpson,Simpson Home,Well then maybe I need to give those kids a better example. Goodnight!
+141380,543,179,778000,Marge Simpson,Simpson Home,"Shut your eyes, they're too bright."
+141381,543,180,781000,Homer Simpson,Simpson Home,Sorry.
+141384,543,183,783000,Marge Simpson,Meeting Room,"Kids, today we have a very special guest -- my husband."
+141385,543,184,789000,Marge Simpson,Meeting Room,"I brought Homer here to show that we can, and have, abstained for two whole days."
+141386,543,185,796000,Shauna Chalmers,Meeting Room,Two days? That's all?
+141387,543,186,798000,Jimbo Jones,Meeting Room,"That means, three days ago... the two of you... made the blob with two backs!"
+141388,543,187,803000,Homer Simpson,Meeting Room,"Listen, you punks. If you can't handle the image of our naked bodies in the tender act of a-oo-ga, you should never have come to the basement of this holy place."
+141389,543,188,814000,DOLPH,Meeting Room,He's touching her!
+141391,543,189,816000,Jimbo Jones,Meeting Room,They're practically doin' it here!
+141393,543,191,824000,Kearney Zzyzwicz,Meeting Room,I'll sign the pledge! Just get your fat heaving buttocks out of my head!
+141394,543,192,828000,Homer Simpson,Meeting Room,Never!
+141396,543,194,832000,Guard,SPRINGFIELD METROPOLITAN MUSEUM,"All right, Bob. You've created five thousand patents so one hour of freedom. But remember, your every move will be watched by these unarmed docents."
+141397,543,195,843000,Docent,SPRINGFIELD METROPOLITAN MUSEUM,That block's gonna need its own ticket.
+141398,543,196,846000,Sideshow Bob,SPRINGFIELD METROPOLITAN MUSEUM,I have a family membership.
+141399,543,197,848000,Docent,SPRINGFIELD METROPOLITAN MUSEUM,"Well, if that's your kid, kiss it."
+141402,543,200,855000,Sideshow Bob,Museum,"What next? Proto-Cubists? The Pointillists? The alleged ""Art of Itchy and Scratchy?"""
+141403,543,201,863000,Lisa Simpson,Museum,I like the Impressionists.
+141404,543,202,866000,Sideshow Bob,Museum,"The boy bands of the art world. But for you, Lisa, I shall face the Renoir with sangfroid."
+141405,543,203,873000,Worker On Ground,Museum,Warmer. Calder. Warmer. Warmer. Calder. Calder. Calder.
+141406,543,204,877000,Worker On Ladder,Museum,That's using your three hundred thousand dollar M.F.A.
+141407,543,205,888000,Worker On Ground,Museum,To the Calder mobile!
+141409,543,207,891000,Lisa Simpson,Museum,Bob! You saved me! But how did you get the strength? Calder's work in this period was marked by heavy use of sheet metal painted to look deceptively airy.
+141410,543,208,901000,Sideshow Bob,Museum,Well put.
+141411,543,209,901000,Lisa Simpson,Museum,Thank you. Answer the question.
+141412,543,210,904000,Lisa Simpson,Museum,"Well... there is something I should have told you. You see, it occurred to me that if I can genetically modify fruits and vegetables, why can't I modify... me!"
+141413,543,211,914000,Lisa Simpson,Museum,You've been changing your DNA?!
+141414,543,212,917000,Sideshow Bob,Museum,"At first, just a peptide here and there. Carrot for my presbyopia, brahma bull for strength... And a touch of corn for highlights on my hair."
+141415,543,213,927000,Lisa Simpson,Museum,So... how strong are you?
+141416,543,214,935000,Hans Moleman,Museum,Figurines! Get your porcelain figurines!
+141417,543,215,940000,Sideshow Bob,Museum,Now how 'bout those impressionists?
+141418,543,216,947000,Lisa Simpson,Museum,But... but we sang Gershwin together!
+141419,543,217,949000,Sideshow Bob,Museum,Well rhapsody in boo-hoo. Do you know why we came to the museum today?
+141420,543,218,955000,Lisa Simpson,Museum,"Well, I thought it was because it was Tote Bag day."
+141421,543,219,958000,Sideshow Bob,Museum,Well that was part of it!
+141422,543,220,958000,Sideshow Bob,Museum,But the biggest part was that!
+141423,543,221,963000,Sideshow Bob,Museum,"Washington's backbone... Einstein's eyebrows... Florence Nightingale's tenacity, though I'll have to clip around her moral fiber."
+141424,543,222,970000,Lisa Simpson,Museum,You're going to take DNA from these historical figures and add it to your own?
+141425,543,223,975000,Sideshow Bob,Museum,I shall be the wisest and strongest maniac ever to bring the blessings of dictatorship to the world!
+141426,543,224,982000,Bart Simpson,Museum,"Jig's up, Bob!"
+141427,543,225,984000,Bart Simpson,Museum,Return the spear to the homo erectus. Homo erectus? Where has that word been all my life?
+141428,543,226,992000,Sideshow Bob,Museum,"Now Bart, I promised I wouldn't hurt you."
+141429,543,227,994000,Bart Simpson,Museum,You did that for me?
+141430,543,228,995000,Lisa Simpson,Museum,"More for mom, but yes."
+141431,543,229,997000,Sideshow Bob,Museum,"But beware, I have DNA in me from Ophiocordyceps Unilateralis, better known as ""zombie ant fungus""!"
+141432,543,230,1006000,Bart Simpson,Museum,And we're scared of that because...?
+141433,543,231,1011000,Sideshow Bob,Museum,What I am saying is I could be tipped into a murderous rage by the slightest provocation.
+141434,543,232,1015000,Tourist,Museum,Could you take a picture of me with my family?
+141435,543,233,1019000,Tourist,Museum,Would you take another for safety?
+141436,543,234,1022000,Tourist,Museum,"Oh, I think my eyes were shut in that one."
+141437,543,235,1026000,Tourist,Museum,Now can you take one with my husband's camera?
+141438,543,236,1028000,Sideshow Bob,Museum,They're all ugly because you're in them!
+141439,543,237,1030000,Sideshow Bob,Museum,Taste Praxiteles of Athens!
+141441,543,239,1046000,Lou,Springfield Police Station,"Uh, Chief, we got a report of a disturbance at the Met."
+141442,543,240,1049000,Chief Wiggum,Springfield Police Station,"We've got bigger problems, Lou: horny teens who should be out having bad sex, but instead somebody made them take an abstinence pledge by the looks of it."
+141444,543,242,1060000,Lenny Leonard,Springfield Street,"I don't get it. There are taboos about premarital sex in the Middle East, and you don't see those people getting all violent."
+141445,543,243,1070000,Sideshow Bob,Springfield Street,"You can't escape me, I've got grasshopper thighs and the sonar of a killer whale!"
+141446,543,244,1091000,Lisa Simpson,Springfield Street,"Uh... Bob, you can't kill us without a little singing, right?"
+141448,543,245,1097000,Bart Simpson,Springfield Street,"A little singing? If there's one thing he did not have to genetically enhance, it's his voice."
+141449,543,246,1102000,Sideshow Bob,Springfield Street,"NON PIÙ ANDRAI, FARFALLONE AMOROSO..."
+141450,543,247,1108000,Homer Simpson,Springfield Street,How dare you torture my children with Mozart!
+141451,543,248,1112000,Sideshow Bob,Springfield Street,"Ahh, you know Mozart?"
+141452,543,249,1114000,Homer Simpson,Springfield Street,I call all music Mozart!
+141453,543,250,1116000,Marge Simpson,Springfield Street,We're here to stop you -- with the help of the teenage abstinence class!
+141454,543,251,1121000,Marge Simpson,Springfield Street,"If you defeat this madman, I'll release you from your pledge and teach you other fun ways not to get pregnant."
+141455,543,252,1127000,Shauna Chalmers,Springfield Street,I think I might be pregnant already.
+141456,543,253,1129000,Marge Simpson,Springfield Street,"Well, that's one of them!"
+141458,543,255,1138000,Sideshow Bob,Springfield Street,Python jaw... unhinge!
+141459,543,256,1142000,Kearney Zzyzwicz,Springfield Street,I don't wanna die in some old dude's mouth!
+141460,543,257,1147000,Kearney Zzyzwicz,Springfield Street,"Bob, would ya look at yourself?"
+141462,543,259,1150000,Lisa Simpson,Springfield Street,"To quote Whitman: ""This is what you shall do: love the earth and sun and animals, despise riches, stand up for the stupid and crazy..."""
+141463,543,260,1150000,Sideshow Bob,Springfield Street,Who am I kidding? My only exit... is a final one.
+141464,543,261,1164000,Lisa Simpson,Springfield Street,What? No!
+141465,543,262,1165000,Sideshow Bob,Springfield Street,"Farewell, Simpsons. And Lisa, when you're older, write an autobiographical novel trashing the rest of them."
+141466,543,263,1172000,Lisa Simpson,Springfield Street,How veiled?
+141467,543,264,1174000,Sideshow Bob,Springfield Street,Thinly!
+141469,543,266,1186000,Chief Wiggum,Springfield Street,Now don't worry. Your friend will always be part of our drinking water.
+141471,543,268,1198000,Sideshow Bob,RIVER BOTTOM,"Oh right, I gave myself gills."
+141474,543,271,1215000,Ned Flanders,DANCE HALL,"I told you, the only dancing I like is ""square."""
+141475,543,272,1218000,Edna Krabappel-Flanders,DANCE HALL,"Hey, I let you pay for those boys' ""skipping lessons."""
+141476,543,273,1222000,Ned Flanders,DANCE HALL,Okay.
+141477,543,274,1233000,Edna Krabappel-Flanders,DANCE HALL,Ned! Ha!
+141478,543,275,1239000,Ned Flanders,DANCE HALL,Sure do miss that laugh.
+141479,543,276,1242000,Nelson Muntz,DANCE HALL,Haw haw!
+141480,543,277,1242000,Nelson Muntz,DANCE HALL,I miss her too.

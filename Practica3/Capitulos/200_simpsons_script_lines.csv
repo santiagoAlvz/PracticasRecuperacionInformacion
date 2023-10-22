@@ -1,0 +1,269 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+46411,200,2,32000,Young Exec,Conference Room,"Gentlemen, I'm pleased to report strong holiday sales from the Christmas-Hannu-Kwanzaa spend-phase. And things look good for the Mom-Dad-Grad gift corridor."
+46412,200,3,40000,Young Exec,Conference Room,"Ahh, then we'll have the usual summer lull, but hey, we're makin' enough money, right? Hey, hey, hey."
+46413,200,4,51000,Young Exec,Conference Room,"Umm, but.. hey, hey.. hey, hey.."
+46414,200,5,54000,Older Exec,Conference Room,"Okay, people, we need to cook up a new holiday for the summer. Something with gifts, cards, assorted gouge-ables..."
+46415,200,6,62000,Female Exec,Conference Room,"How 'bout something religious? We had great penetration last spring with ""Christmas II."""
+46416,200,7,63000,Executive #1,Conference Room,"Oh, I know! ""Spendover"" -- like Passover, but less talk, more presents."
+46417,200,8,70000,Other Executives,Conference Room,"Yeah, uh... ""Giftsgiving""... ""Store Appreciation Day""..."
+46418,200,9,72000,Older Exec,Conference Room,"No, no, no! No, it's gotta be warm and fuzzy. Something like, um, ""Love Day,"" but not so lame."
+46419,200,10,81000,Marge Simpson,Conference Room,"Happy Love Day, everyone!"
+46421,200,12,83000,Lisa Simpson,Simpson Living Room,"Come on, Mom, the stores just invented this holiday to make money."
+46422,200,13,86000,Homer Simpson,Simpson Living Room,"Lisa, don't you ruin another Love Day."
+46423,200,14,88000,Marge Simpson,Simpson Living Room,"For you, Homie."
+46424,200,15,91000,Bear,Simpson Living Room,"I'm Sir Loves-a-Lot, the bear who loves to love!"
+46425,200,16,95000,Homer Simpson,Simpson Living Room,They didn't have Lord Huggington?
+46426,200,17,98000,Marge Simpson,Simpson Living Room,"It's the same basic bear, Homey."
+46427,200,18,100000,Homer Simpson,Simpson Living Room,I guess.
+46428,200,19,105000,Bart Simpson,Simpson Living Room,What the hell is this?
+46429,200,20,106000,Marge Simpson,Simpson Living Room,"It's a ""Kisses-Make-Me-Boogie-O-Lantern."""
+46430,200,21,109000,Marge Simpson,Simpson Living Room,Kiss it and make it boogie!
+46431,200,22,110000,Homer Simpson,Simpson Living Room,Kiss it.
+46432,200,23,112000,Bart Simpson,Simpson Living Room,"Uh, maybe later."
+46433,200,24,117000,Homer Simpson,Simpson Living Room,Oh-ho yeahhh...
+46434,200,25,118000,Marge Simpson,Simpson Living Room,"Well, we'd better start our Love Day clean-up. You kids take care of the wrapping paper. I'm going to dismantle Love Land."
+46436,200,27,132000,Lisa Simpson,Simpson Home,"Uh, what a terrible waste!"
+46437,200,28,134000,Homer Simpson,Simpson Home,"Yes, but the memories will last a lifetime."
+46438,200,29,137000,Homer Simpson,Simpson Home,Crap -- py -- stuff.
+46439,200,30,139000,Lisa Simpson,Simpson Home,"It's full, Dad. That means you have to take out the trash."
+46440,200,31,142000,Bart Simpson,Simpson Home,"Yep, that's the rule. He who tops it off, drops it off."
+46441,200,32,145000,Homer Simpson,Simpson Home,Nuh-uh. It isn't filled until it's spilled.
+46443,200,34,151000,Bear,Simpson Home,I wuv you.
+46445,200,36,154000,Bear,Simpson Home,I wuv...
+46447,200,38,156000,Bear,Simpson Home,Wuv you..
+46452,200,43,186000,Marge Simpson,Simpson Home,I heard that! You know the rule.
+46453,200,44,188000,Homer Simpson,Simpson Home,"Ooh, but I can rebuild!"
+46455,200,46,193000,Homer Simpson,Backyard,"Ow-ow, stupid-trash, rotten-stinky, hate-world, revenge-soon, take out on everyone... Garbage water! Oh-ho-ho!"
+46456,200,47,203000,Homer Simpson,Backyard,"You're pushin' me, baby."
+46457,200,48,211000,Homer Simpson,Backyard,Hey wait! Stop! I have garbage!
+46459,200,49,217000,Homer Simpson,Backyard,"You guys are the lousiest garbage men ever! Yeah, I'm talkin' to you! You trash-eatin' stink bags!"
+46460,200,50,227000,Homer Simpson,Backyard,Uh oh.
+46461,200,51,229000,Garbage Man #1,Backyard,What did you call us?
+46462,200,52,230000,Homer Simpson,Backyard,I don't know. A lot of people were yelling stuff.
+46463,200,53,233000,Garbage Man #1,Backyard,"Yeah, you called us, ""trash-eating stink bags."""
+46464,200,54,233000,Garbage Man #2,Backyard,Didn't you learn anything from Love Day?
+46465,200,55,237000,Homer Simpson,Backyard,"That was yesterday, moron!"
+46467,200,57,239000,Homer Simpson,Simpson Home,"Good news, everyone. I got in a fight with the garbage men and they're cutting off our service."
+46468,200,58,245000,Marge Simpson,Simpson Home,Oh lord! Now what are we going to do? Just let the trash pile up?
+46469,200,59,249000,Homer Simpson,Simpson Home,"Hey, I'd rather live in a dump than in a world run by snooty garbage men."
+46470,200,60,254000,Lisa Simpson,Simpson Home,"Dad, is this another one of those situations that could be solved by a simple apology?"
+46471,200,61,259000,Homer Simpson,Simpson Home,"I never apologize, Lisa. I'm sorry, but that's just the way I am."
+46472,200,62,265000,Homer Simpson,Simpson Home,"Siddown, honey. The men will clear the table!"
+46473,200,63,270000,Homer Simpson,Simpson Home,"So long, chicken bone."
+46474,200,64,272000,Bart Simpson,Simpson Home,"See you in hell, brussel sprouts."
+46475,200,65,274000,Homer Simpson,Simpson Home,"No room for you, Jell-O."
+46476,200,66,276000,Bart Simpson,Simpson Home,"Goodbye, fine China."
+46477,200,67,278000,Marge Simpson,Simpson Home,Bart!
+46478,200,68,284000,Ned Flanders,Simpson Home,"Easy, Ned, don't breathe in."
+46479,200,69,285000,Ned Flanders,Simpson Home,Oooooh!
+46480,200,70,289000,Homer Simpson,Simpson Home,Sorry Ned. I didn't see you down there. Got him.
+46481,200,71,293000,Ned Flanders,Simpson Home,"Uh, listen Homer, ah, hate to be a fussy Freddy and all, but Maude's folks are here and, ah, they're a tad touchy about odors..."
+46482,200,72,301000,Homer Simpson,Simpson Home,Then you might wanna close your windows before the sun hits Diaper Hill.
+46483,200,73,305000,Rod Flanders,Simpson Home,"Look, Daddy, I'm king of the mountain!"
+46484,200,74,308000,Ned Flanders,Simpson Home,"Rod, get off of there!"
+46485,200,75,311000,Marge Simpson,Simpson Home,"Three, two, one..."
+46486,200,76,317000,Marge Simpson,Simpson Home,Go! Go! Go!
+46487,200,77,320000,Homer Simpson,Simpson Home,"So-ho, the rats seem happy."
+46489,200,79,325000,Marge Simpson,Simpson Dining Room,"Homer, that crazy lady who lives in our trash pile attacked me again."
+46490,200,80,329000,Homer Simpson,Simpson Dining Room,That's not the way she tells it.
+46458,200,81,330000,Marge Simpson,Simpson Dining Room,And the school nurse says Bart has the plague.
+46491,200,82,333000,Homer Simpson,Simpson Dining Room,"Uh, it's like the measles. Good to get it out of the way."
+46492,200,83,335000,Marge Simpson,Simpson Dining Room,"Homer, this has gone far enough. Will you please just apologize to the garbage men?"
+46493,200,84,341000,Lisa Simpson,Simpson Dining Room,"Yeah Dad, you're always telling me and Bart to apologize."
+46494,200,85,345000,Homer Simpson,Simpson Dining Room,"Yeah, but I'm always secretly disappointed when you do. Anyway, I think those garbage men are starting to crack."
+46495,200,86,351000,Bart Simpson,Simpson Dining Room,I think you're startin' to crack.
+46496,200,87,352000,Homer Simpson,Simpson Dining Room,Apologize for that remark.
+46497,200,88,353000,Bart Simpson,Simpson Dining Room,No way.
+46498,200,89,354000,Homer Simpson,Simpson Dining Room,Attaboy!
+46500,200,91,359000,Homer Simpson,Simpson Home,"Good morning, Trash Pile. How's about..."
+46501,200,92,361000,Homer Simpson,Simpson Home,Hey! Woo-hoo! I won!
+46502,200,93,365000,Homer Simpson,Simpson Home,"This is a very, very proud day for us, especially me. Your father, me, beat City Hall. It's just like David and Goliath, only this time David won."
+148691,200,94,377000,Lisa's Thoughts,Simpson Home,"Oh, I know. I heard it too. Here's some music."
+46503,200,95,379000,Homer Simpson,Simpson Home,"And to think you wanted me to crawl, Marge! Well, this man doesn't crawl. He stands tall. That rhymes, Marge, and you know it rhymes. Admit it!"
+46504,200,96,392000,Marge Simpson,Simpson Home,"Oh Homer, you didn't beat City Hall! They picked up our trash because I wrote a letter of apology to the Sanitation Commissioner and signed your name. Period."
+46505,200,97,401000,Homer Simpson,Simpson Home,You signed my name? I feel so violated.
+46506,200,98,406000,Marge Simpson,Simpson Home,You've signed my name lots of times.
+46507,200,99,408000,Homer Simpson,Simpson Home,"But this isn't like a loan application or a will -- you signed away my dignity. And I'm going to get it back. Lisa, do I have my pants on?"
+46508,200,100,418000,Lisa Simpson,Simpson Home,Yes.
+46509,200,101,418000,Homer Simpson,Simpson Home,Perfect.
+46512,200,104,422000,Ray Magini,SANITATION COMMISSIONER'S OFFICE,"Here's your apology back, Mr. Simpson, and I'm sorry we couldn't work this out."
+46513,200,105,426000,Homer Simpson,SANITATION COMMISSIONER'S OFFICE,"Don't come off all high and mighty with me, Patterson. You can't scare me, with your office and your desk and your lamp."
+46514,200,106,431000,Ray Magini,SANITATION COMMISSIONER'S OFFICE,"I'm not tryin' to scare you. I'm just tryin' to get my work done, here."
+46515,200,107,434000,Homer Simpson,SANITATION COMMISSIONER'S OFFICE,"Oh, oh, oh, I get it. Put on a big show for the cameras."
+46516,200,108,438000,Ray Magini,SANITATION COMMISSIONER'S OFFICE,What cameras? Why are you still here?
+46517,200,109,440000,Homer Simpson,SANITATION COMMISSIONER'S OFFICE,"I came to fight City Hall. I wanna shake things up, Patterson. Stir up some controversy. Rattle a few cages."
+46518,200,110,448000,Ray Magini,SANITATION COMMISSIONER'S OFFICE,"Hey, stop that!"
+46519,200,111,449000,Homer Simpson,SANITATION COMMISSIONER'S OFFICE,"You'll never silence me! I'm the last angry man, Patterson! A crusader for the little guy!"
+46520,200,112,455000,Ray Magini,SANITATION COMMISSIONER'S OFFICE,Leave the bird alone!
+46521,200,113,456000,Homer Simpson,SANITATION COMMISSIONER'S OFFICE,Never!
+46522,200,114,457000,Ray Magini,SANITATION COMMISSIONER'S OFFICE,"Look Simpson, I've been elected by the voters of this city sixteen years in a row, so they must think I'm doing a damn good job."
+46523,200,115,465000,Homer Simpson,SANITATION COMMISSIONER'S OFFICE,You want to know what I think?
+46524,200,116,466000,Ray Magini,SANITATION COMMISSIONER'S OFFICE,No! Nobody wants to hear the nonsensical ravings of a loud-mouthed malcontent!
+46525,200,117,472000,Homer Simpson,SANITATION COMMISSIONER'S OFFICE,"Well, we'll see about that."
+46526,200,118,475000,Ray Magini,SANITATION COMMISSIONER'S OFFICE,Hey!
+46528,200,120,478000,Homer Simpson,CITY CLERK'S OFFICE,I want to register to run for Sanitation Commissioner. And tell the fatcats upstairs -- things are gonna change in this town!
+46529,200,121,486000,Clerk,CITY CLERK'S OFFICE,"Okay, but this is where you register as a sex offender."
+46530,200,122,490000,Moe Szyslak,CITY CLERK'S OFFICE,"Aw, jeez. There's always a line."
+46532,200,124,500000,Bart Simpson,Springfield Street,"Hey, everybody, vote for my Dad, Homer Simpson. If you don't he'll beat us."
+46533,200,125,504000,Homer Simpson,Springfield Street,"Why you little... No one's gonna beat ya, son. You're gonna get such a beating."
+46535,200,127,512000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, vote Simpson... Hi... Nice to see ya... Heh, thanks for comin' out... Keep puttin' on weight, huh? Lenny, my man."
+46536,200,128,519000,Lenny Leonard,Springfield Nuclear Power Plant,"So, Homer, if we vote for you, whaddaya gonna do different?"
+46537,200,129,522000,Homer Simpson,Springfield Nuclear Power Plant,"What am I, the answer man? Just vote for me."
+46538,200,130,524000,Lenny Leonard,Springfield Nuclear Power Plant,"Hmf, I don't know Ray Patterson, but he's no Ray Patterson."
+46539,200,131,529000,Carl Carlson,Springfield Nuclear Power Plant,"Yeah, Homer's a great Nuclear Safety Inspector, but I don't know if I'd trust him with my garbage."
+46540,200,132,534000,Lenny Leonard,Springfield Nuclear Power Plant,"Yea, I know. It's a peace of mind issue you know?"
+46541,200,133,536000,Homer Simpson,Springfield Nuclear Power Plant,These old geezers just don't get it. It's time to rock the vote.
+46543,200,135,546000,Otto Mann,SPRINGFIELD STADIUM,Siddown! Sit down! You're ruining it for everyone!
+46544,200,136,562000,Guard,SPRINGFIELD STADIUM,Whoa! Whoa! Whoa! Whoa! Can I help you?
+46545,200,137,564000,Homer Simpson,SPRINGFIELD STADIUM,Potato man.
+46546,200,138,565000,Paul,SPRINGFIELD STADIUM,Where the hell you been?
+46547,200,139,572000,Susie,SPRINGFIELD STADIUM,"Okay, camera two... Uh, excuse me, this is a restricted area."
+46548,200,140,577000,Homer Simpson,SPRINGFIELD STADIUM,"Take a hike, Kojak."
+46551,200,143,587000,Homer Simpson,STADIUM,"Hellooo Springfield! It's me, Homer!"
+46552,200,144,590000,Bono,STADIUM,What the bloody hell?
+46553,200,145,591000,Homer Simpson,STADIUM,"Quiet, you! I know you youngsters wanna see these rockin' rockers. But I also know you care about the race for Sanitation Commissioner. So, let me give ya the 911..."
+46554,200,146,606000,Crowd,STADIUM,"Get off the stage! / Get out of here, fatso!"
+46555,200,147,608000,Bono,STADIUM,"Hold on, people. The man's talkin' about waste management. That affects the whole damn planet."
+46556,200,148,615000,The Edge,STADIUM,"Oh, here we go... What do you say we go down to Moe's for a pint?"
+46557,200,149,619000,Adam Clayton,STADIUM,Can I come?
+46558,200,150,622000,The Edge,STADIUM,No.
+46559,200,151,623000,Adam Clayton,STADIUM,Wankers...
+46560,200,152,626000,Bono,STADIUM,"Now, Homer... I hear Ray Patterson is a fine public servant. Why should the people of Springfield--"
+46561,200,153,631000,Crowd,STADIUM,Springfield! / Whoo!
+46562,200,154,638000,Bono,STADIUM,Why should they vote for you?
+46563,200,155,639000,Homer Simpson,STADIUM,"That's a good question, Bono. 'Cause I'd be the most wack, tripped-out Sanitation Commissioner ever! Can ya dig it?"
+46564,200,156,655000,Bono,STADIUM,"Wow, look at him go! You're the real Lord of the Dance, Homer."
+46566,200,158,662000,Homer Simpson,STADIUM,"Ow! Oh, Bono! Help me!"
+46567,200,159,666000,Bono,STADIUM,"Don't worry, folks. He'll get the help he needs."
+46569,200,161,678000,Homer Simpson,Moe's Tavern,"My campaign is a disaster, Moe."
+46570,200,162,681000,Homer Simpson,Moe's Tavern,"I hate the public so much. If only they'd elect me... I'd make 'em pay. Oh Moe, how do I make 'em like me?"
+46571,200,163,690000,Moe Szyslak,Moe's Tavern,"Ah, gee, you're kinda all over the place there, Homer. You need to focus here. You gotta think hard and come up with a slogan that appeals to all the lazy slobs out there."
+46572,200,164,701000,Homer Simpson,Moe's Tavern,Can't someone else do it?
+46573,200,165,703000,Moe Szyslak,Moe's Tavern,"""Can't someone else do it?"" That's perfect!"
+46574,200,166,705000,Homer Simpson,Moe's Tavern,It is?
+46575,200,167,707000,Moe Szyslak,Moe's Tavern,Yeah. Now get out there and spread that message to the people!
+46576,200,168,710000,Homer Simpson,Moe's Tavern,Woo hoo!
+46577,200,169,711000,Moe Szyslak,Moe's Tavern,"Whoa, whoa, hey, you didn't pay for the beer."
+46578,200,170,713000,Homer Simpson,Moe's Tavern,Can't someone else do it?
+46579,200,171,718000,Moe Szyslak,Moe's Tavern,/ Very good.
+46580,200,172,721000,Moe Szyslak,Moe's Tavern,"Seriously, gimme the money."
+46582,200,174,722000,Homer Simpson,Springfield Town Square,Fellow citizens! How would you rate the trash service in this town?
+46583,200,175,727000,Sideshow Mel,Springfield Town Square,I would deem it excellent.
+46584,200,176,729000,Homer Simpson,Springfield Town Square,"Uh, okay, it's excellent. But aren't you tired of waking up early and dragging the garbage to the curb?"
+46585,200,177,737000,A Few People,Springfield Town Square,"Oh man, you got that right. / Yeah. / I guess so. / It's so annoying in the morning/ Yes. / Uh-huh."
+46586,200,178,740000,Homer Simpson,Springfield Town Square,Aren't you tired of having to peel that last snotty Kleenex from the bottom of your wastebasket?
+46587,200,179,747000,Giant-nosed Man,Springfield Town Square,I'll say.
+46588,200,180,748000,Homer Simpson,Springfield Town Square,Well then...
+46589,200,181,750000,Homer Simpson,Springfield Town Square,"Well then, can't someone else do it?"
+46590,200,182,750000,Lenny Leonard,Springfield Town Square,"Hey, yeah!"
+46591,200,183,754000,Homer Simpson,Springfield Town Square,And can't someone else scoop out that nasty kitty litter?
+46592,200,184,758000,Crowd,Springfield Town Square,Yeah! / Someone else! / Someone else! / Yeah!
+46593,200,185,760000,Homer Simpson,Springfield Town Square,"Well, Ray Patterson thinks you should do it! Animals are crapping in our houses, and we're picking it up. Did we lose a war? That's not America. That's not even Mexico."
+46594,200,186,775000,Homer Simpson,Springfield Town Square,Don't you deserve better than the best?
+46595,200,187,776000,Crowd,Springfield Town Square,Yeah!
+46596,200,188,777000,Homer Simpson,Springfield Town Square,Who should handle all your dirty jobs?
+46597,200,189,780000,Crowd,Springfield Town Square,Someone else! Someone else! Someone else!
+46599,200,191,783000,Homer Simpson,Springfield Town Hall,I'm sorry my opponent didn't think enough of you to show up for this debate. I'm sure he had more important things to do.
+46600,200,192,799000,Ray Magini,Springfield Town Hall,"Sorry I'm late, everyone. Somebody tampered with my brakes."
+46601,200,193,804000,Homer Simpson,Springfield Town Hall,"Well, then you shoulda been early."
+46602,200,194,807000,Chief Wiggum,Springfield Town Hall,"Ha. He - he gotcha there, Ray."
+46605,200,195,809000,Ray Magini,Springfield Town Hall,"Oh, c'mon, people. This man has promised round the clock trash pick-up. That's impossible!"
+46606,200,196,815000,Homer Simpson,Springfield Town Hall,"Not if we hire more men. And my men will do all your messy jobs. They'll wash your car, scrub your shower, air out your stinkables..."
+46607,200,197,828000,Ray Magini,Springfield Town Hall,I can't believe what I'm hearing!
+46608,200,198,830000,Homer Simpson,Springfield Town Hall,"Well, then you'd better turn up your hearing aid, Pops."
+46609,200,199,832000,Ray Magini,Springfield Town Hall,"""Pops?"" I'm only two years older than you!"
+46610,200,200,835000,Homer Simpson,Springfield Town Hall,Do we want old man Patterson here with his finger on the button?
+46611,200,201,840000,Ray Magini,Springfield Town Hall,What button? What the hell are you talkin' about?!
+46612,200,202,843000,Homer Simpson,Springfield Town Hall,What-what-what. What button? Where am I? Who took my false teeth?
+46613,200,203,849000,Ray Magini,Springfield Town Hall,"All right, fine. If you want an experienced public servant, vote for me. But if you wanna believe a bunch of crazy promises about garbage men cleaning your gutters and waxing your car -- then by all means, vote for this sleazy lunatic."
+46614,200,204,875000,Homer Simpson,Springfield Town Hall,Woo hoo!
+46615,200,205,876000,Lisa Simpson,Springfield Town Hall,"Aren't you gonna buy it, Dad?"
+46616,200,206,877000,Homer Simpson,Springfield Town Hall,Fifty cents? Not likely.
+46618,200,208,883000,Homer Simpson,Springfield Town Hall,"Hey, Ray. Cleanin' out the old office, eh?"
+46619,200,209,886000,Ray Magini,Springfield Town Hall,"If I hadn't already packed my letter opener, I'd give you such a stabbing..."
+46620,200,210,890000,Homer Simpson,Springfield Town Hall,"Whoa, whoa, whoa, whoa Ray. Are we gonna let politics get in the way of our friendship?"
+46621,200,211,895000,Ray Magini,Springfield Town Hall,Friendship? You told people I lure children into my gingerbread house.
+46622,200,212,901000,Homer Simpson,Springfield Town Hall,"Yeah, that was just a lie."
+46623,200,213,903000,Ray Magini,Springfield Town Hall,"Simpson, the American people have never tolerated incompetence in their public officials. You are going to crash and burn, my fat-headed friend."
+46624,200,214,915000,Homer Simpson,Springfield Town Hall,"See? We're still friends. C'mon, give us a cuddle."
+46625,200,215,920000,Homer Simpson,Springfield Town Hall,"Jean-Paul, how are the new uniforms? Do they match the suede boots? Beautiful. Did you get the new trucks? Are they amphibious? Well, there's only one way to find out. We can always buy more."
+46626,200,216,933000,Lisa Simpson,Springfield Town Hall,"Wow, Dad, you're really working hard."
+46627,200,217,935000,Homer Simpson,Springfield Town Hall,"Yes, I gotta work hard, honey. Daddy made a lot of crazy promises."
+46629,200,218,939000,Marge Simpson,Springfield Town Hall,"I'm really proud of you, Homie, but can the garbage man really do all the things you said?"
+46630,200,219,945000,Homer Simpson,Springfield Town Hall,"Oh, the garbage man can, Marge. The garbage man can."
+46633,200,222,958000,Homer Simpson,Suburban Street,WHO CAN TAKE YOUR TRASH OUT? / STOMP IT DOWN FOR YOU? / SHAKE THE PLASTIC BAG AND DO THE TWISTY-THINGY TOO? / THE GARBAGE MAN...
+46634,200,223,973000,Garbage Men,Suburban Street,"OH, THE GARBAGE MAN CAN."
+46635,200,224,975000,Garbage Men,Suburban Street,THE GARBAGE MAN CAN / AND HE DOES IT WITH A SMILE / AND NEVER JUDGES YOU.
+46637,200,226,984000,Marge Simpson,Simpson Kitchen,WHO CAN TAKE THIS DIAPER?
+46638,200,227,988000,Garbage Man #1,Simpson Kitchen,I DON'T MIND AT ALL.
+46640,200,229,990000,Chief Wiggum,Wiggum's Dining Room,WHO CAN CLEAN ME UP / BEFORE THE BIG POLICEMAN'S BALL? / THE GARBAGE MAN?
+46641,200,230,998000,Garbage Man #2,Wiggum's Dining Room,YES THE GARBAGE MAN CAN.
+46643,200,232,1002000,U2,Moe's Tavern,THE SANITATION FOLKS / ARE JOLLY FRIENDLY BLOKES / COURTEOUS AND EASYGOING.
+46644,200,233,1009000,The Edge,Moe's Tavern,THEY MOP UP WHEN YOU'RE OVERFLOWING...
+46645,200,234,1013000,Bono,Moe's Tavern,AND TELL YOU WHEN YOUR ARSE IS SHOWING.
+46647,200,236,1017000,Apu Nahasapeemapetilon,Street,WHO CAN?
+46648,200,237,1018000,Sideshow Mel,Street,WHO CAN?
+46649,200,238,1019000,Ned Flanders,Street,WHO CAN?
+46650,200,239,1020000,Oskar,Street,WHO CAN?
+46651,200,240,1024000,All,Street,THE GARBAGE MAN CAN
+46652,200,241,1027000,Lisa Simpson,Street,"'CAUSE HE'S HOMER SIMPSON, MAN"
+46653,200,242,1031000,All,Street,HE CLEANS THE WORLD FOR YOU!
+46655,200,244,1043000,Mayor Joe Quimby,Homer's Office,"Simpson, you idiot, you spent your entire year's budget in a month. Your department's broke."
+46656,200,245,1049000,Homer Simpson,Homer's Office,"Oh no! Wait, I think I've got the perfect solution."
+46657,200,246,1054000,Mayor Joe Quimby,Homer's Office,"You better, because those garbage men won't work for free."
+46660,200,249,1059000,Homer Simpson,Simpson Home,Patterson was right. I'm crashing and burning... crashing and burning...
+46661,200,250,1064000,Marge Simpson,Simpson Home,How could you spend four point six million dollars in a month?
+46662,200,251,1067000,Homer Simpson,Simpson Home,"They let me sign checks with a stamp, Marge. A stamp!"
+46664,200,252,1071000,Lisa Simpson,Simpson Home,"You know Dad, there's a lesson in all this. Many cities have problems with garbage disposal, and it's time we realized you can't just..."
+46665,200,253,1078000,Homer Simpson,Simpson Home,"Wait, shutup... I just thought of something!"
+46668,200,256,1090000,Homer Simpson,Springfield Town Hall,"'Mornin', boys."
+46669,200,257,1093000,Garbage Man #1,Springfield Town Hall,"Where's our paychecks, ya bum?"
+46670,200,258,1096000,Union Leader,Springfield Town Hall,My men ain't workin' another minute till we get paid.
+46671,200,259,1098000,Homer Simpson,Springfield Town Hall,Will cash be okay?
+46672,200,260,1101000,Union Leader,Springfield Town Hall,Will it!
+46673,200,261,1102000,Mayor Joe Quimby,Springfield Town Hall,Did I hear a briefcase opening?
+46675,200,263,1106000,Homer Simpson,Homer's Car,"Okay, before I show ya, who wants to guess how I got the money?"
+46676,200,264,1110000,Bart Simpson,Homer's Car,Dealing drugs?
+46677,200,265,1110000,Lisa Simpson,Homer's Car,Drugs.
+46678,200,266,1111000,Marge Simpson,Homer's Car,"I'll have to say drugs, too."
+46679,200,267,1113000,Homer Simpson,Homer's Car,"Close, but you're way off."
+46681,200,269,1126000,Homer Simpson,Cliff Above Abandoned Mine Entrance,"Look at that beautiful garbage! Other cities don't want it, so they pay me to dump it in this old abandoned mine."
+46682,200,270,1133000,Lisa Simpson,Cliff Above Abandoned Mine Entrance,That's awful! I almost wish it were drugs.
+46683,200,271,1136000,Bart Simpson,Cliff Above Abandoned Mine Entrance,Some of it is.
+46684,200,272,1140000,Marge Simpson,Cliff Above Abandoned Mine Entrance,"Good God, Homer! You're turning our wonderful little town into America's trash-hole."
+46685,200,273,1145000,Homer Simpson,Cliff Above Abandoned Mine Entrance,Marge... ix-nay on the ash-hole-tray.
+46686,200,274,1149000,Lisa Simpson,Cliff Above Abandoned Mine Entrance,"But Dad, you can't cram garbage under Springfield forever."
+46687,200,275,1152000,Homer Simpson,Cliff Above Abandoned Mine Entrance,"Sure I can, Honey-kitten."
+46689,200,277,1160000,Mayor Joe Quimby,Golf Course,"I don't know how you did it, Homer, but you certainly solved that budget crisis."
+46690,200,278,1168000,Mayor Joe Quimby,Golf Course,What the hell is that?
+46691,200,279,1169000,Homer Simpson,Golf Course,"Uh, nothin'."
+46692,200,280,1172000,Homer Simpson,Golf Course,"Now, uh, you were saying how great I was...?"
+46693,200,281,1179000,Mayor Joe Quimby,Golf Course,"What's this? Melon rinds? Panty hose? A term paper from Texas Tech? Simpson, do you know anything about..."
+46695,200,283,1189000,Ned Flanders,FLANDERS BACK YARD,"Dear Lord, please take Mr. Bunny up to heaven."
+46663,200,286,1198000,Cletus Spuckler,Cletus' Outhouse,"Hey Brandine, I think I done busted my stinkbone!"
+46698,200,290,1213000,Mayor Joe Quimby,Springfield Town Hall,And all those opposed to horse-whipping Homer Simpson?
+46699,200,291,1218000,Homer Simpson,Springfield Town Hall,Nay!
+46700,200,292,1219000,Mayor Joe Quimby,Springfield Town Hall,"And now, all in favor of reinstating Ray Patterson!"
+46701,200,293,1230000,Ray Magini,Springfield Town Hall,"Oh gosh, you know, I'm not much on speeches, but it's so gratifying to leave you wallowing in the mess you've made. You're screwed. Thank-you, bye."
+46702,200,294,1246000,Moe Szyslak,Springfield Town Hall,He's right. He ain't much on speeches.
+46703,200,295,1249000,Mayor Joe Quimby,Springfield Town Hall,"Now, people, we are far from screwed."
+46704,200,296,1257000,Mayor Joe Quimby,Springfield Town Hall,"The time for panic has come. We must move forward, and turn to the town's all-purpose contingency plan."
+46705,200,297,1263000,Seymour Skinner,Springfield Town Hall,You mean plan B?!
+46706,200,298,1265000,Mayor Joe Quimby,Springfield Town Hall,"Yes, B."
+46707,200,299,1265000,Marge Simpson,Springfield Town Hall,I can't believe it's come to this.
+46708,200,300,1275000,Homer Simpson,Springfield Town Hall,Come to what?
+46709,200,301,1276000,Marge Simpson,Springfield Town Hall,Moving the whole town five miles down the road! It's crazy!
+46710,200,302,1282000,Homer Simpson,Springfield Town Hall,"Yeah, it's somethin', all right."
+46711,200,303,1283000,Lisa Simpson,Springfield Town Hall,"So we transplant the town. We're just gonna trash the new Springfield, too."
+46712,200,304,1287000,Homer Simpson,Springfield Town Hall,"Yeah, but whaddaya gonna do? If you need me, I'll be at Moe's."
+46713,200,305,1291000,Homer Simpson,Springfield Town Hall,Hi Moe.
+46714,200,306,1292000,Moe Szyslak,Springfield Town Hall,"Hey-ya, Homer."
+46715,200,307,1302000,Second Indian,Springfield Town Hall,Do yourself a favor. Don't turn around.
+46717,200,309,1313000,Second Indian,Springfield Town Hall,I told ya not to turn around.
+46719,200,311,1340000,Adam Clayton,JET,"Look, guys. I got a Springfield spoon for my spoon collection."
+46720,200,312,1344000,The Edge,JET,"Okay, here we go."
+46721,200,313,1346000,Bono,JET,"How many spoons have you got now, Adam?"
+46722,200,314,1349000,Adam Clayton,JET,"Nine. If I didn't have my spoons, I'd go insane."
+46723,200,315,1352000,Bono,JET,Can I see it?
+46724,200,316,1355000,Adam Clayton,JET,My spoon!
+46725,200,317,1358000,C. Montgomery Burns,JET,Wankers...

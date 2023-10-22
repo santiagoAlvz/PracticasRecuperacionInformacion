@@ -1,0 +1,235 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+47909,205,2,56000,Bill,KBBL,"Hey, Springfield, if you're driving, you may want to sit down."
+47910,205,3,59000,Marty,KBBL,Uh-oh! Because it's time for Bill and Marty's Five O'clock News Flush!
+47911,205,4,67000,Deep Voice,KBBL,"Ohhh, yeahhh."
+47912,205,5,67000,Bill,KBBL,Our topless story... President Clinton has launched a new website.
+47913,205,6,72000,Marty,KBBL,"Uh-oh. Wait, let me guess. W-W-W dot dot ?!"
+47916,205,9,81000,Homer Simpson,Homer's Car,Website.
+47917,205,10,82000,Marty,Homer's Car,"O-kay, here's another news flush."
+47918,205,11,88000,Deep Voice,Homer's Car,"Ohhh, yeahhh."
+47919,205,12,88000,Marty,Homer's Car,Doctors say the life expectancy of the average man is now seventy-six point two years.
+47920,205,13,97000,Homer Simpson,Homer's Car,Seventy-six point two?! But I'm already thirty-eight point one! I've wasted half my life!
+47921,205,14,103000,Deep Voice,Homer's Car,"Ohhh, yeahhh."
+47923,205,16,106000,Homer Simpson,Freeway,Half my life gone! And I'm only guaranteed thirty-eight more years.
+47924,205,17,113000,Homer Simpson,Freeway,Marge! I've wasted half my life.
+47925,205,18,116000,Emergency Operator,Freeway,"Sir, do you need a tow truck?"
+47926,205,19,118000,Homer Simpson,Freeway,"What are you talking about, Marge? I don't need a..."
+47927,205,20,122000,Homer Simpson,Freeway,"Okay, send the truck."
+47929,205,22,127000,Marge Simpson,Simpson Home,"Oh, honey, don't eat that. Wouldn't you rather have your sugar bag?"
+47930,205,23,131000,Homer Simpson,Simpson Home,"No, I don't deserve sugar. I'm halfway to my grave, and I haven't accomplished anything. Oh, I am not looking forward to my funeral."
+47931,205,24,148000,Cardinal Flanders,Simpson Home,"No, Homer wasn't a great man, or even an adequate man -- and he certainly never accomplished anything. Uh-- President Lenny, you have anything to say?"
+47932,205,25,158000,President Lenny,Simpson Home,Nah.
+47933,205,26,159000,Cardinal Flanders,Simpson Home,"All right. Fair enough. Toss him in the hole, boys."
+47934,205,27,164000,Heckle,Simpson Home,There goes a real sack of crap.
+47935,205,28,167000,Jeckle,Simpson Home,"Indubitably, old chum."
+47936,205,29,174000,Homer Simpson,Simpson Home,"Marge, no matter what happens in the future, promise me you won't vote for Lenny."
+47937,205,30,177000,Marge Simpson,Simpson Home,"Okay, but you've accomplished a lot. You've made me very happy."
+47938,205,31,182000,Homer Simpson,Simpson Home,"Oh yeah, they'll put me on a stamp for that."
+47939,205,33,185000,Homer Simpson,Simpson Home,"I've wasted half my life, Marge. Do you know how many memories I have? Three! Standing in line for a movie, having a key made, and sitting here talking to you. Thirty-eight years and that's all I have to show for it."
+47940,205,34,198000,Marge Simpson,Simpson Home,You're thirty-nine.
+47943,205,37,212000,Lisa Simpson,Simpson Home,"Hi, Dad. How was work?"
+47944,205,38,213000,Homer Simpson,Simpson Home,Cold.
+47945,205,39,214000,Lisa Simpson,Simpson Home,"Come on, let's get you into your favorite shirt."
+47946,205,40,219000,Lisa Simpson,Simpson Home,Surprise!
+47947,205,41,221000,Homer Simpson,Simpson Home,Oh. I see you're having a party. I'll come back later.
+47948,205,42,225000,Bart Simpson,Simpson Home,You can't come back later because...
+47949,205,43,228000,Lisa Simpson,Simpson Home,"Homer Simpson, welcome to your life!"
+47950,205,44,231000,Grampa Simpson,Simpson Home,"Homer Simpson, welcome to your life!"
+47951,205,45,235000,Marge Simpson,Simpson Home,The kids and I want to show you all the great things you've done.
+47952,205,46,238000,Homer Simpson,Simpson Home,"Oh, all right. Maybe I can pinpoint where my life went wrong."
+47953,205,47,242000,Bart Simpson,Simpson Home,"Quiet, Dad, or we'll have to throw you outta here."
+47954,205,48,245000,Grampa Simpson,Simpson Home,The pictures... they're coming... alive!
+47955,205,49,248000,Lisa Simpson,Simpson Home,There you are in outer space. That's pretty impressive.
+47956,205,50,251000,Homer Simpson,Simpson Home,All we did was grow some space tomatoes and sabotage Mir.
+47957,205,51,261000,Bart Simpson,Simpson Home,Remember when you almost became heavyweight champ?
+47958,205,52,269000,Homer Simpson,Simpson Home,No.
+47959,205,53,270000,Grampa Simpson,Simpson Home,Finish him! Finish him!
+47960,205,54,272000,Marge Simpson,Simpson Home,"Well, there's certainly no greater accomplishment than fathering three beautiful children."
+47961,205,55,277000,Homer Simpson,Simpson Home,Hike.
+47963,205,57,282000,Homer Simpson,Simpson Home,"Oh, I shoulda punted. Turn it off! Turn it off!"
+47964,205,58,286000,Bart Simpson,Simpson Home,"Hang on, Dad, this next part'll definitely make you feel better about yourself."
+47965,205,59,291000,Car,Simpson Home,"Hello, Homer, it's me, KITT from TV's ""Knight Rider."""
+47967,205,61,296000,Car,Simpson Home,Your family has asked me to take time out from my busy schedule to invite you to a very speciallll...
+47968,205,62,308000,Homer Simpson,Simpson Home,"Stupid movies. Who invented these dumb things anyway? Was it you, Bart?"
+47969,205,63,312000,Lisa Simpson,Simpson Home,"It was Thomas Edison, Dad."
+47970,205,64,314000,Bart Simpson,Simpson Home,I thought he invented the light bulb.
+47971,205,65,316000,Lisa Simpson,Simpson Home,"That, too. He also invented the phonograph, the microphone, and the electric car."
+47972,205,66,320000,Homer Simpson,Simpson Home,"No one man can do all that. You're a liar, honey. A dirty, rotten liar."
+47973,205,67,323000,Grampa Simpson,Simpson Home,Finish her! Finish her!
+47974,205,68,326000,Lisa Simpson,Simpson Home,It's true. I read it on a place mat at a restaurant.
+47975,205,69,329000,Homer Simpson,Simpson Home,"Really? A restaurant? Well, now I don't know what to think."
+47977,205,71,334000,Kids,Springfield Elementary School,Go! Go! Go! Go! Go! Go!
+47978,205,72,337000,Bart Simpson,Springfield Elementary School,"Top of the world, ma!"
+47979,205,73,339000,Homer Simpson,Springfield Elementary School,"Cut it out, boy!"
+47981,205,75,344000,Bart Simpson,Springfield Elementary School,Dad? What are you doin' here?
+47982,205,76,345000,Homer Simpson,Springfield Elementary School,Reading about this Edison character. They won't let me in the big people library downtown. There was some unpleasantness. I can never go back.
+47983,205,77,354000,Homer Simpson,Springfield Elementary School,"Ooh, look at all the inventions Edison came up with. The stock ticker, the storage battery, even wax paper. And look at him dance."
+47984,205,78,370000,Homer Simpson,Springfield Elementary School,De de de de de.
+47985,205,79,370000,Bart Simpson,Springfield Elementary School,"That's great, Dad."
+47986,205,80,371000,Homer Simpson,Springfield Elementary School,"And these Hardy Boys books are great, too. This one is about smugglers."
+47987,205,81,375000,Bart Simpson,Springfield Elementary School,They're all about smugglers.
+47988,205,82,376000,Homer Simpson,Springfield Elementary School,"No, not this one. ""The Smugglers of Pirate Cove."" It's about pirates."
+47989,205,83,380000,Librarian,Springfield Elementary School,"Excuse me, are you a student at this school?"
+47990,205,84,383000,Homer Simpson,Springfield Elementary School,I think it's pretty obvious that I am.
+47991,205,85,386000,Homer Simpson,Springfield Elementary School,Go school!
+47993,205,87,389000,Lenny Leonard,Moe's Tavern,So this broad stands up... in the ocean and this big wave knocks her bathing suit off.
+47995,205,89,395000,Moe Szyslak,Moe's Tavern,"Ooh. Yeah. And then what happened? Omit no detail, no matter how small or filthy."
+47996,205,90,400000,Lenny Leonard,Moe's Tavern,So anyway -- and this is the part you'll remember for the rest of your lives...
+47999,205,91,405000,Homer Simpson,Moe's Tavern,"Yeah, yeah, yeah, yeah, great story, Lenny. But here's one that's even more spellbinding. Once upon a time there was a man named Thomas Edison. And he invented the dictating machine and the fluoroscope and the repeating telegraph..."
+48000,205,92,421000,Homer Simpson,Moe's Tavern,"... And he was a firm believer in Fletcherism, and he played the organ, and his favorite flower was the heliotrope -- oh, and his middle name was Alva. And he never, ever, ever wore pajamas. And..."
+48001,205,93,430000,Moe Szyslak,Moe's Tavern,"Okay, I think we've been polite long enough here. Lenny, what happened with the dame and the bathing suit?"
+48002,205,94,436000,Lenny Leonard,Moe's Tavern,"Huh? Oh... uh... oh, nuts. I forgot. All I can think of now is Edison. I can't even remember where I work."
+48003,205,95,444000,Homer Simpson,Moe's Tavern,"Well, I remember where Edison worked. It was Menlo Park. That's where he came up with the tasimeter, the ore separator and..."
+48004,205,96,451000,Carl Carlson,Moe's Tavern,"Uh, James Watt invented the steam engine."
+48005,205,97,453000,Homer Simpson,Moe's Tavern,That's boring. You're boring everybody. Quit boring everyone!
+48007,205,99,458000,Homer Simpson,Simpson Home,... And then he worked on a machine to communicate with the dead. Some kind of scary telephone I guess. Or maybe he planned to just stick his head under the ground and yell.
+48008,205,100,465000,Marge Simpson,Simpson Home,"All right, already! Everyone knows the man accomplished a lot. Maybe because he didn't spend every waking moment talking about Thomas Edison!"
+48009,205,101,472000,Homer Simpson,Simpson Home,"Ohh, that's where you're wrong, Marge. He was a shameless self-promoter."
+48010,205,102,477000,Marge Simpson,Simpson Home,"Well, you're not Thomas Edison."
+48011,205,103,479000,Homer Simpson,Simpson Home,"Marge, that's it! That's why I haven't done anything with my life! I need to be more like Thomas Edison!"
+48012,205,104,487000,Marge Simpson,Simpson Home,Whatever.
+48013,205,105,488000,Homer Simpson,Simpson Home,And I'm starting right now. No more lousy pajamas!
+48014,205,106,494000,Homer Simpson,Simpson Home,"From this day forward, I am an inventor!"
+48015,205,107,498000,Passerby,Simpson Home,Do us a favor. Invent yourself some underpants.
+48016,205,108,512000,Homer Simpson,Simpson Home,"Well, I quit my job just like you said to."
+48017,205,109,515000,Marge Simpson,Simpson Home,I didn't tell you to quit your job.
+48018,205,110,517000,Homer Simpson,Simpson Home,"Yes, you did. I remember your exact words. You said I should quit my job and become an inventor or you'd torch the house."
+47997,205,111,525000,Marge Simpson,Simpson Home,"That doesn't sound like me. Well, I suppose if this doesn't work out you can always go back to the plant."
+47998,205,112,532000,Homer Simpson,Simpson Home,Not the way I quit. Ooh-who.
+48021,205,114,549000,Homer Simpson,BASEMENT,"At my age Edison had already invented 203 things. Ohh, I've got a lot of work to do to catch up to him."
+48022,205,115,558000,Homer Simpson,BASEMENT,Let's see now... inventions... inventions...
+48023,205,116,567000,Marge Simpson,BASEMENT,Something electrical might be good.
+48024,205,117,569000,Homer Simpson,BASEMENT,"What? Eh. Eh. Let me handle the creative end of this, Marge. You don't understand how the creative mind works like I do."
+48025,205,118,575000,Marge Simpson,BASEMENT,Oh?
+48026,205,119,577000,Homer Simpson,BASEMENT,"You look at this table and what do you see? Just a table. Now, a creative person, like me, looks at this table and sees all kinds of creative things -- but no tables."
+48027,205,120,587000,Marge Simpson,BASEMENT,"Homer, that's not a table, that's our dryer."
+48028,205,121,589000,Homer Simpson,BASEMENT,My files!
+48029,205,122,593000,Homer Simpson,BASEMENT,"Uh, this isn't working. I've got to try a different approach."
+48032,205,125,623000,Lisa Simpson,BASEMENT,"You've started smoking, Dad?"
+48033,205,126,625000,Homer Simpson,BASEMENT,Yes. Thomas Edison smoked several cigars a day.
+48034,205,127,629000,Bart Simpson,BASEMENT,"Yeah. He invented stuff, too."
+48035,205,128,630000,Homer Simpson,BASEMENT,Shutup.
+48037,205,130,636000,Homer Simpson,BASEMENT,"As long as you're here annoying me, let's have a brainstorming session. Now, here's how it works: Lisa, you say one thing, then Bart, you say another. Just toss out things and I'll use my inventive mind to combine them into a brilliant original idea."
+48038,205,131,648000,Lisa Simpson,BASEMENT,Okay. Umm... automatic...
+48039,205,132,652000,Bart Simpson,BASEMENT,Butt.
+48040,205,133,653000,Homer Simpson,BASEMENT,Okay.
+48041,205,134,654000,Lisa Simpson,BASEMENT,Fluorescent...
+48042,205,135,657000,Bart Simpson,BASEMENT,Booger.
+48043,205,136,659000,Homer Simpson,BASEMENT,Uh-huh.
+48044,205,137,659000,Homer Simpson,BASEMENT,"A-- Wait a minute! These aren't exciting new products! You're not even trying. Okay, that's it. Both of you go to your rooms and spank yourselves."
+48045,205,138,670000,Lisa Simpson,BASEMENT,Lazy father...
+48046,205,139,671000,Bart Simpson,BASEMENT,Can't even spank his own kids...
+48047,205,140,674000,Marge Simpson,BASEMENT,Homer! You can't punish the children just because you can't come up with an idea.
+48048,205,141,679000,Homer Simpson,BASEMENT,I don't see why not. They're my kids. I own 'em.
+48050,205,143,683000,Homer Simpson,BASEMENT,"Okay, we own 'em."
+48052,205,144,686000,Marge Simpson,BASEMENT,"Hm. I brought you a tuna sandwich. They say it's brain food. I guess because there's so much dolphin in it, and you know how smart they are."
+48053,205,145,695000,Homer Simpson,BASEMENT,"Ohhh, it's no use. I can't work like this, cut off from the scientific community."
+48054,205,146,701000,Homer Simpson,BASEMENT,You stay here and guard the sandwich.
+48056,205,148,704000,Professor Jonathan Frink,FRINK'S HOUSE,"And these should give you the grounding you'll need in thermodynamics, hyper-mathematics, and of course microcalifragilistics."
+48057,205,149,715000,Homer Simpson,FRINK'S HOUSE,"Look, I just want to know how to invent things. Tell me."
+48058,205,150,719000,Professor Jonathan Frink,FRINK'S HOUSE,"Well, all you have to do is think of things that people need, but which don't exist yet."
+48059,205,151,725000,Homer Simpson,FRINK'S HOUSE,You mean like an electric blanketmobile?
+48060,205,152,727000,Professor Jonathan Frink,FRINK'S HOUSE,"Possibleh. Or you could take something that already exists and find a new use for it, like--"
+48061,205,153,734000,Homer Simpson,FRINK'S HOUSE,Hamburger earmuffs!
+48062,205,154,736000,Professor Jonathan Frink,FRINK'S HOUSE,"Uh, well, well... I suppose that... would... qualify, uh..."
+48063,205,155,740000,Homer Simpson,FRINK'S HOUSE,"Thanks, sucker!"
+48064,205,156,743000,Professor Jonathan Frink,FRINK'S HOUSE,"All right, just stay calm, Frinkie."
+48065,205,157,746000,Professor Jonathan Frink,FRINK'S HOUSE,These babies'll be in the stores while he's still grappling with the pickle matrix.
+48067,205,159,780000,Homer Simpson,Simpson Home,"Okay, I have here the four greatest inventions in the history of mankind."
+48068,205,160,788000,Homer Simpson,Simpson Home,"First, my All-Purpose Electric Hammer. ""For all your pounding needs."""
+48069,205,161,796000,Homer Simpson,Simpson Home,Ow!
+48070,205,162,807000,Homer Simpson,Simpson Home,Probably needs to be more powerful.
+48071,205,163,808000,Bart Simpson,Simpson Home,I will buy ten of those right now.
+48072,205,164,810000,Homer Simpson,Simpson Home,"Now, here's my ""Everything's Okay"" Alarm."
+48073,205,165,815000,Homer Simpson,Simpson Home,This will sound every three seconds unless something isn't okay.
+48074,205,166,822000,Marge Simpson,Simpson Home,"Turn it off, Homer."
+48075,205,167,824000,Homer Simpson,Simpson Home,It can't be turned off.
+48076,205,168,830000,Homer Simpson,Simpson Home,"But it does break easily. Now this next one's for the ladies. How many times have you gals been late for a high-powered business meeting, only to realize you're not wearing makeup?"
+48077,205,169,841000,Marge Simpson,Simpson Home,That's every woman's nightmare.
+48079,205,170,843000,Homer Simpson,Simpson Home,"That's why I invented this revolutionary makeup gun. It's for the woman who only has four-fifths of a second to get ready. Close your eyes, Marge."
+48080,205,171,853000,Homer Simpson,Simpson Home,And now you're ready for a night on the town.
+48081,205,172,857000,Marge Simpson,Simpson Home,"Homer, you've got it set on ""Whore."""
+48082,205,173,857000,Homer Simpson,Simpson Home,"Eh. Oh. Okay, this time try to keep your nostrils closed."
+48083,205,174,867000,Homer Simpson,Simpson Home,"Oh, look what you did. Now I have to get my cold cream gun."
+48084,205,175,870000,Lisa Simpson,Simpson Home,"Dad, women won't like being shot in the face."
+48085,205,176,873000,Homer Simpson,Simpson Home,Women will like what I tell them to like. Now here's something for everyone.
+48086,205,177,876000,Homer Simpson,Simpson Home,"In the olden times, if you were watching TV and nature called, you'd have to get up and walk to the bathroom. It was the hardest thing in the world to do. But now, with the Lazy Man Reclining Toilet Chair, you can just lean back and let 'er rip."
+48087,205,178,893000,Lisa Simpson,Simpson Home,You expect people to go to the bathroom in their living rooms?
+48088,205,179,896000,Homer Simpson,Simpson Home,"Sure! Believe me, every man in America will want to have one."
+48089,205,180,903000,Bart Simpson,Simpson Home,Gangway! Gotta poop.
+48090,205,181,904000,Marge Simpson,Simpson Home,"No, Bart. Homer... all these inventions, they're..."
+48091,205,182,908000,Homer Simpson,Simpson Home,Yes?
+48092,205,183,909000,Marge Simpson,Simpson Home,They're not very...
+48093,205,184,911000,Homer Simpson,Simpson Home,Yes? Yes? Yes?
+48094,205,185,912000,Marge Simpson,Simpson Home,They're terrible.
+48095,205,186,914000,Homer Simpson,Simpson Home,What?
+48096,205,187,915000,Marge Simpson,Simpson Home,"I'm not saying you're a bad inventor. I'm just saying these particular inventions are awful, and no one in their right mind would buy them. Or accept them as gifts."
+48097,205,188,927000,Homer Simpson,Simpson Home,But this is the best I could do. I guess I'm no better at being Thomas Edison than I was at being Homer Simpson.
+48098,205,189,937000,Marge Simpson,Simpson Home,"Oh, dear. I hope I wasn't too rough on him."
+48099,205,190,941000,Lisa Simpson,Simpson Home,"Somebody had to tell him, Mom. In the long run, it's much kinder to--"
+48101,205,192,947000,Bart Simpson,Simpson Home,Do you mind?
+48102,205,193,950000,Homer Simpson,Simpson Home,"All week, my life long dream was to be the next Thomas Edison, but now it's over. I guess I'll just give up my hopes and dreams and settle for being a decent husband and father."
+48104,205,195,962000,Lisa Simpson,Simpson Home,Homer! / Dad! / Look out!
+48051,205,196,966000,Marge Simpson,Simpson Home,What happened? You didn't fall.
+48105,205,197,969000,Homer Simpson,Simpson Home,"Oh, that. I stuck a couple of extra legs on there 'cause I kept tipping over when I was trying to invent stuff."
+48106,205,198,977000,Lisa Simpson,Simpson Home,"They're on hinges. That's really ingenious, Dad."
+48107,205,199,979000,Marge Simpson,Simpson Home,It could save lives!
+48108,205,200,981000,Homer Simpson,Simpson Home,Really? You think it's a good idea?
+48109,205,201,983000,Bart Simpson,Simpson Home,"Oh yeah, safety sells. Especially to lame-o's."
+48110,205,202,985000,Marge Simpson,Simpson Home,I'd buy one.
+48111,205,203,987000,Lisa Simpson,Simpson Home,"Me, too!"
+48112,205,204,989000,Homer Simpson,Simpson Home,I did it! I'm gonna be rich!
+48113,205,205,1004000,Homer Simpson,Simpson Home,"Look, Mr. Edison, I did it. I'm an inventor! And I owe it all to you."
+48114,205,206,1010000,Homer Simpson,Simpson Home,"See? It's just a regular chair, but I attached a couple of extra legs to the back... kinda like the ones on the back of your..."
+48115,205,207,1018000,Homer Simpson,Simpson Home,AWDAMMIT!
+48116,205,208,1021000,Bart Simpson,Simpson Home,"Hey, Dad, heard you swearing. Mind if I join in? Crap. Boobs. Crap."
+48117,205,209,1024000,Homer Simpson,Simpson Home,"I thought I had a great idea, but I must've seen it on this poster."
+48118,205,210,1031000,Bart Simpson,Simpson Home,"If Edison thought of that chair, how come it's not on this chart?"
+48119,205,211,1034000,Homer Simpson,Simpson Home,It's not? Maybe he never told anyone about it.
+48120,205,212,1038000,Homer Simpson,Simpson Home,That chair might be the only one he made.
+48121,205,213,1041000,Bart Simpson,Simpson Home,So?
+48122,205,214,1043000,Homer Simpson,Simpson Home,"So, we've got to go to the Edison Museum and smash it! Then I'll be an inventor!"
+48123,205,215,1050000,Bart Simpson,Simpson Home,But I thought you loved Edison.
+48124,205,216,1052000,Homer Simpson,Simpson Home,"Aw, to hell with him!"
+48125,205,217,1053000,Bart Simpson,Simpson Home,"Yeah! Hell, damn, fart!"
+48126,205,218,1058000,Homer Simpson,Simpson Home,Taking-Bart-across-state-lines-Back-soon.
+48127,205,219,1062000,Homer Simpson,Simpson Home,I borrowed your wallet!
+48128,205,220,1064000,Marge Simpson,Simpson Home,"Oh, I just mopped that driveway."
+48130,205,222,1070000,Bart Simpson,Simpson Car,"Man, I can't wait to smash that chair."
+48131,205,223,1072000,Homer Simpson,Simpson Car,"Oh, son, you're young and headstrong, just like Thomas Edison, Jr. You know, he started a mushroom farm, and an auto parts company, and he sold his good name to a quack medicine company. Oh, and later, he raised turkeys. That was on his turkey farm."
+48133,205,225,1105000,Edison's Ghost,Simpson Car,"Stop, Homer!"
+48134,205,226,1107000,Edison's Ghost,Simpson Car,"By smashing my chair, you're only hurting yourself!"
+48020,205,228,1119000,Edison's Ghost,Simpson Car,"I'll get you, you fat lunatic!"
+47604,205,229,1123000,Edison's Ghost,Simpson Car,Uh-oh.
+48138,205,233,1136000,Bart Simpson,MUSEUM ENTRANCE,All right! The museum's still open.
+48139,205,234,1139000,Father,MUSEUM ENTRANCE,Why don't you like Edison that much?
+48141,205,236,1144000,Tour Guide,Edison's Laboratory,"Hey, folks, do you like riddles?"
+48143,205,238,1147000,Tour Guide,Edison's Laboratory,"O-Okay, then. How many geniuses does it take to invent a light bulb?"
+48144,205,239,1155000,Tour Guide,Edison's Laboratory,Just one. Thomas Edison.
+48145,205,240,1161000,Visitor,Edison's Laboratory,That's very good.
+48146,205,241,1162000,Female Visitor,Edison's Laboratory,And it's true too. It's funny and true.
+48147,205,242,1164000,Tour Guide,Edison's Laboratory,"Now, behind that door, is Edison's actual preserved brain..."
+48149,205,244,1171000,Tour Guide,Edison's Laboratory,"Ordinarily, folks, tour groups are not allowed to see it... And of course, today will be no exception."
+48151,205,246,1179000,Tour Guide,Edison's Laboratory,"Now, no tour would be complete without a visit to Edison's boyhood gift shop."
+48152,205,247,1201000,Crowd,Edison's Laboratory,"Ohh! / Well, now that I'd like to see. / Yes."
+48153,205,248,1201000,Homer Simpson,Edison's Laboratory,Now let's take care of business.
+48154,205,249,1208000,Homer Simpson,Edison's Laboratory,"Outta the way. This is one invention you're not getting credit for, you inspiration hog!"
+48155,205,250,1213000,Bart Simpson,Edison's Laboratory,"Your electric hammer, maestro?"
+48156,205,251,1217000,Homer Simpson,Edison's Laboratory,"Invent your way out of this, Edison."
+48157,205,252,1229000,Homer Simpson,Edison's Laboratory,"Look, son. Edison was just like me."
+48158,205,253,1233000,Bart Simpson,Edison's Laboratory,You mean the wild mood swings?
+48159,205,254,1234000,Homer Simpson,Edison's Laboratory,No! We both lived in another man's shadow. This old-timey nerd and I have suffered the same frustration and heartache.
+48160,205,255,1245000,Homer Simpson,Edison's Laboratory,"We're not rivals. We're just a couple of dreamers who set the bar a little too high. I can't destroy your work, my friend."
+48161,205,256,1255000,Bart Simpson,Edison's Laboratory,Can I?
+48162,205,257,1256000,Homer Simpson,Edison's Laboratory,"No, but we'll stop off at the da Vinci Museum on the way home..."
+48163,205,258,1260000,Bart Simpson,Edison's Laboratory,"Uh, I think that's in Italy, Dad."
+48164,205,259,1262000,Homer Simpson,Edison's Laboratory,"Oh. Well then, we'll take it out on Eli Whitney."
+48167,205,261,1265000,Kent Brockman,Simpson Home,"...Authorities say the phony Pope can be recognized by his high-top sneakers and incredibly foul mouth. In other news, Thomas Edison, the greatest inventor of all time...is apparently still inventing, despite the notable handicap of being dead."
+48168,205,262,1281000,Homer Simpson,Simpson Home,That's my Tommy.
+48169,205,263,1282000,Kent Brockman,Simpson Home,Two new Edison creations have just been discovered in his museum: A six-legged chair that won't tip over...
+48170,205,264,1290000,Kent Brockman,Simpson Home,"And even more astounding, an electric hammer!"
+48171,205,265,1296000,Marge Simpson,Simpson Home,That was your idea!
+48172,205,266,1298000,Kent Brockman,Simpson Home,This brilliant innovation is expected to generate millions for Edison's already wealthy heirs.
+48173,205,267,1304000,Lisa Simpson,Simpson Home,"Dad, those should be your millions."
+48174,205,268,1307000,Bart Simpson,Simpson Home,"I gotta admit, Homer. You're taking this pretty well."
+48175,205,269,1310000,Homer Simpson,Simpson Home,Let's just say I'm sitting in the right chair.

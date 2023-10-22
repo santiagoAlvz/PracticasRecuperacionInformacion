@@ -1,0 +1,291 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+51274,216,2,91000,Homer Simpson,Simpson Home,Door?
+51275,216,3,91000,Marge Simpson,Simpson Home,Locked.
+51276,216,4,93000,Homer Simpson,Simpson Home,Phone?
+51277,216,5,93000,Lisa Simpson,Simpson Home,Unplugged.
+51278,216,6,94000,Homer Simpson,Simpson Home,"Dog, cat?"
+50863,216,7,95000,Bart Simpson,Simpson Home,Taped and corked.
+50891,216,8,95000,Homer Simpson,Simpson Home,Perfect.
+51279,216,9,97000,Announcer,Simpson Home,"It's ""America's Funniest Tornadoes."""
+51281,216,11,103000,Announcer,Simpson Home,"And at 9:30, ""All In The Family 1999."""
+51282,216,12,107000,Archie Bunker,Simpson Home,"Aw geez, there they got me living with an African-American, a Semite-American and a Woman-American, there. And I'm glad. I love youse all. I love everybody. I wish I'd saved my money from the first show."
+51283,216,13,120000,Homer Simpson,Simpson Home,"Oh, I can't wait. Look, Marge, I had a scorecard printed up at that all-night scorecard place."
+51284,216,14,126000,Lisa Simpson,Simpson Home,Isn't mid-season just a dumping ground for second-rate shows that weren't good enough for the fall schedule?
+51285,216,15,131000,Homer Simpson,Simpson Home,You're thinking of all the other years. This year's shows are classics.
+51286,216,16,135000,Homer Simpson,Simpson Home,"There's ""The Laughter Family."" That's animated. Networks like animation 'cause they don't have to pay the actors squat."
+51287,216,17,141000,Bad Flanders,Simpson Home,Plus they can replace 'em and no one can tell the diddily-ifference.
+51288,216,18,144000,Announcer,Simpson Home,"And now... mid-season kicks off with ""Admiral Baby."""
+51289,216,19,150000,Lieutenant,Simpson Home,We're taking the entire Sixth Fleet to Candy Island?
+51290,216,20,154000,Commander,Simpson Home,Those are the admiral's orders.
+51291,216,21,159000,Marge Simpson,Simpson Home,It's hard to believe someone that young could have risen to the rank of Admiral.
+51292,216,22,165000,Homer Simpson,Simpson Home,"Gee... I never thought I'd say this about a TV show, but this is kinda stupid. Hey, ""PoliceCops."" That sounds like a lethal combination."
+51293,216,23,182000,Bank Robber #1,Simpson Home,Let's get this bank back to our hideout and we'll break into it later.
+51294,216,24,186000,Bank Robber #2,Simpson Home,It's the cops!
+51295,216,25,187000,Bank Robber #1,Simpson Home,Worse. The PoliceCops.
+51296,216,26,200000,Bart Simpson,Simpson Home,This isn't bad.
+51297,216,27,200000,Homer Simpson,Simpson Home,Isn't bad? Tell me one thing mankind's ever done that's any better.
+51298,216,28,206000,Lisa Simpson,Simpson Home,The Renaissance.
+51299,216,29,207000,Homer Simpson,Simpson Home,This is better.
+51300,216,30,208000,POLICECOP #2,Simpson Home,Let's book 'em and roll.
+51301,216,31,210000,POLICECOP #1,Simpson Home,And that's the enda that chapter.
+51302,216,32,212000,Banker,Simpson Home,You men saved my bank. I'd like to donate forty dollars to charity in your honor.
+51303,216,33,215000,Banker,Simpson Home,"But, uh, I don't know your names."
+51304,216,34,221000,POLICECOP #2,Simpson Home,Lance Coffman.
+51305,216,35,222000,POLICECOP #1,Simpson Home,Simpson. Detective Homer Simpson.
+51307,216,36,228000,Homer Simpson,Simpson Home,He's named like my name!
+51308,216,37,234000,Chief Wiggum,Simpson Home,"I don't get it, Homer. You're a millionaire and you've got all the babes you want. Why aren't you living it up in your palace in Europe?"
+51309,216,38,241000,DETECTIVE HOMER SIMPSON,Simpson Home,"Well, let's just say I hate crime."
+51310,216,39,249000,DETECTIVE HOMER SIMPSON,Simpson Home,Arrest that guy. And that's the end of that chapter...
+51311,216,40,257000,Homer Simpson,Simpson Home,Wow. They've captured my personality perfectly. Did you see the way Daddy caught that bullet?
+51312,216,41,263000,Lisa Simpson,Simpson Home,"That's not really you, Dad. He's just a fictional character who happens to have the same name."
+51313,216,42,269000,Homer Simpson,Simpson Home,"Don't confuse Daddy, Lisa."
+51314,216,43,271000,Marge Simpson,Simpson Home,"Homer, it's just a coincidence, like that guy named Anthony Michael Hall who stole your car stereo."
+51315,216,44,276000,Bart Simpson,Simpson Home,Right. Coincidence.
+51316,216,45,282000,Marge Simpson,Simpson Home,Another person wants to congratulate you for having a famous name.
+51317,216,46,286000,Homer Simpson,Simpson Home,"Y'ello... yes, this is the original Homer Simpson. Who's this?... The Debbie Pinson who was the homecoming queen at high school?... Yes, I'm still available."
+51318,216,47,298000,Marge Simpson,Simpson Home,No he's not.
+51319,216,48,300000,Homer Simpson,Simpson Home,"Marge, that was Debbie Pinson. DEB-BIE PIN-SON."
+51320,216,49,305000,Marge Simpson,Simpson Home,No dating.
+51323,216,52,310000,Carl Carlson,Springfield Nuclear Power Plant,Hey Homer! Homer! Check it out. Bottom of page twelve.
+51324,216,53,313000,Homer Simpson,Springfield Nuclear Power Plant,Local Man Has Same Name. A TV character has the same name as Springfield resident Homer Simpson.
+51325,216,54,315000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey, you're famous."
+51326,216,55,322000,Homer Simpson,Springfield Nuclear Power Plant,And that's the end of that chapter.
+51328,216,57,326000,Carl Carlson,Springfield Nuclear Power Plant,"Uh, Mr. Simpson, sir, can I get your autograph?"
+51329,216,58,329000,Homer Simpson,Springfield Nuclear Power Plant,All right. And what's the name?
+51330,216,59,331000,Carl Carlson,Springfield Nuclear Power Plant,"Uh, Homer, we've worked together for ten years. It's Carl."
+51331,216,60,334000,Carl Carlson,Springfield Nuclear Power Plant,"You only wrote my name. Um, I wanted yours."
+51332,216,61,340000,Homer Simpson,Springfield Nuclear Power Plant,Take it or leave it... Carl.
+51334,216,63,345000,Moe Szyslak,Moe's Tavern,"So, uh, what kind of adventure you gonna be involved in tonight, Homer?"
+51336,216,64,348000,Homer Simpson,Moe's Tavern,"Mmm, who knows? Maybe I'll have to foil an assassination, or stop a peace conference."
+51337,216,65,353000,Moe Szyslak,Moe's Tavern,"So they really based that Homer Simpson character on you, huh?"
+51338,216,66,356000,Homer Simpson,Moe's Tavern,Yup. Right down to the scarf.
+51339,216,67,360000,Moe Szyslak,Moe's Tavern,"Ooh, there it is!"
+51340,216,68,366000,Chief Wiggum,Moe's Tavern,"Nice beating, Lance. Especially around the eyes. Say, where's your partner? Where's Homer Simpson?"
+51341,216,69,372000,DETECTIVE HOMER SIMPSON,Moe's Tavern,"Coming, Chief."
+51342,216,70,376000,Chief Wiggum,Moe's Tavern,"Now what have you done, Simpson?"
+51343,216,71,378000,DETECTIVE HOMER SIMPSON,Moe's Tavern,I was supervising the guns for toys program.
+51344,216,72,382000,Chief Wiggum,Moe's Tavern,It's toys for guns.
+51345,216,73,384000,DETECTIVE HOMER SIMPSON,Moe's Tavern,Now you tell me!
+51346,216,74,386000,Chief Wiggum,Moe's Tavern,Simp-sonnnn!!
+51347,216,75,392000,Homer Simpson,Moe's Tavern,"Hey, what's going on? That guy's not Homer Simpson. He's fat and stupid."
+51348,216,76,397000,Lenny Leonard,Moe's Tavern,"Hey, looks like they changed the character into a bumbling sidekick."
+51349,216,77,401000,Homer Simpson,Moe's Tavern,"No, no, he can't be. I know, maybe he's just acting stupid to infiltrate a gang of international idiots. Yeah, that's gotta be it."
+51350,216,78,409000,Chief Wiggum,Moe's Tavern,You destroyed that drug shipment?
+51351,216,79,412000,DETECTIVE HOMER SIMPSON,Moe's Tavern,Yes indeedy.
+51352,216,80,414000,Chief Wiggum,Moe's Tavern,That was my insulin!
+51353,216,81,415000,DETECTIVE HOMER SIMPSON,Moe's Tavern,"Uh-oh, Spaghetti-O's!"
+51354,216,82,420000,Chief Wiggum,Moe's Tavern,Simp-sonnnn!!
+51355,216,83,422000,Barney Gumble,Moe's Tavern,"Hey Homer, that character is you all over."
+51356,216,84,425000,Lenny Leonard,Moe's Tavern,"Come on, Homer, act all stupid. Like you do on TV."
+51357,216,85,428000,Moe Szyslak,Moe's Tavern,"Yeah, come on, dum-dum, do something unintelligent, there."
+51358,216,86,432000,Homer Simpson,Moe's Tavern,Shutup! I'm not your clown! Don't diminish me!
+51359,216,87,437000,Homer Simpson,Moe's Tavern,"Gentlemen, I bid you--"
+51360,216,88,437000,Homer Simpson,Moe's Tavern,Who-o-oa! Who-o-oa! Who-o-oa!
+51362,216,90,450000,Lenny Leonard,Moe's Tavern,"Geez, what an exit."
+51363,216,91,452000,Carl Carlson,Moe's Tavern,"Oh man, what's he gonna do for an encore?"
+51364,216,92,456000,Moe Szyslak,Moe's Tavern,"Ooh. I don't think he'll be, doin' no encores for a while."
+51366,216,94,465000,Homer Simpson,Simpson Home,I can't understand what happened. Why did they change Homer Simpson's character from cool to stupid?
+51368,216,95,471000,Lisa Simpson,Simpson Home,"The first episode was just a pilot, Dad. Producers fiddle with shows all the time. They change characters, drop others, and push some into the background."
+51369,216,96,479000,Marge Simpson,Simpson Home,"Your character provides the comic relief. Like... Ohhh... Marlon Brando in ""Apocalypse Now."""
+51370,216,97,487000,Homer Simpson,Simpson Home,I wish I hadn't bought a hundred of these.
+51372,216,99,491000,Lenny Leonard,Springfield Nuclear Power Plant,"Get ready, everybody."
+51373,216,100,494000,Lenny Leonard,Springfield Nuclear Power Plant,He's about to do something stupid.
+51374,216,101,497000,Homer Simpson,Springfield Nuclear Power Plant,"Well, I'm sorry to disappoint you gentlemen, but you seem to have me confused with a character in a fictional show. Now if you'll excuse me, my fondue is just about..."
+51376,216,103,509000,Lenny Leonard,Springfield Nuclear Power Plant,There goes Albany!
+51377,216,104,511000,Carl Carlson,Springfield Nuclear Power Plant,"Uh-oh, Spaghetti-O's!"
+51378,216,105,515000,Carl Carlson,Springfield Nuclear Power Plant,"Oh, man."
+51380,216,107,518000,Otto Mann,Springfield Mall,"Hey, it's that Homer Simpson dude."
+51381,216,108,520000,Nelson Muntz,Springfield Mall,Haw haw.
+51382,216,109,521000,Homer Simpson,Springfield Mall,"People are laughing at me, Marge. Let's get outta here. Forget the baby's medicine."
+51383,216,110,526000,Marge Simpson,Springfield Mall,But her forehead's on fire.
+51384,216,111,527000,Homer Simpson,Springfield Mall,"Fine. I'll be in the car, driving home."
+51385,216,112,531000,Chief Wiggum,Springfield Mall,"Well, if it isn't that stupid cop from TV."
+51386,216,113,535000,Chief Wiggum,Springfield Mall,"Ahh, yeah."
+51387,216,114,538000,Crowd,Springfield Mall,That's Homer Simpson. / His name's on TV. / Let's crowd him.
+51388,216,115,542000,Comic Book Guy,Springfield Mall,Your catch phrase is hysterical. Please say it clearly for my answering machine tape.
+51389,216,116,547000,Homer Simpson,Springfield Mall,"Uh-oh, Spaghetti-O's."
+51390,216,117,550000,Comic Book Guy,Springfield Mall,Worst reading ever.
+51391,216,118,552000,Townspeople,Springfield Mall,"How 'bout an autograph? / Picture, Mister?"
+51393,216,120,555000,Homer Simpson,Springfield Mall,"C'mon, people. Enough is enough."
+51394,216,121,557000,Krusty the Clown,Springfield Mall,"Oh, it's never enough, not for them. Once they get a taste of you, they want more and more and more. That reminds me, do you mind if my nephew kicks you in the belly?"
+51395,216,122,566000,Homer Simpson,Springfield Mall,Okay.
+51397,216,124,570000,Krusty the Clown,Springfield Mall,"Aw, the flash didn't go off. Ya got another one in you, Josh?"
+51398,216,126,581000,Homer Simpson,Simpson Home,"The whole town's laughin' at me. Even that cat out there. Bart, kill that cat!"
+51399,216,127,586000,Bart Simpson,Simpson Home,Okay.
+51400,216,128,587000,Homer Simpson,Simpson Home,And that big yellow flower.
+51401,216,129,588000,Marge Simpson,Simpson Home,"Homer, your growing insanity is starting to worry me. Why don't you talk to the producers of the show? Maybe they'll make your character suave again."
+51402,216,130,598000,Homer Simpson,Simpson Home,"Hmmmm, I guess I could... But while I'm gone, keep an eye on that weird-looking kid down there."
+51403,216,131,606000,Marge Simpson,Simpson Home,Bart?
+51404,216,132,607000,Homer Simpson,Simpson Home,"Yeah. ""Bart."""
+51406,216,134,607000,Homer Simpson,Tv Production Company,"Uh, so, I just want to know how come you made your Homer Simpson character so..."
+51407,216,135,621000,Producer,Tv Production Company,"Stupid? Well, I can assure you, it happened organically."
+51408,216,136,624000,Homer Simpson,Tv Production Company,It better have.
+51409,216,137,626000,Producer,Tv Production Company,"The thirteen of us began with a singular vision: ""Titanic"" meets ""Frasier."""
+51410,216,138,630000,2nd Producer,Tv Production Company,But then we found out that ABC had a similar project in development with Annie Potts and Jeremy Piven.
+51411,216,139,635000,Homer Simpson,Tv Production Company,Who's Jeremy Piven?
+51412,216,140,636000,3rd Producer,Tv Production Company,We don't know.
+51413,216,141,637000,4th Producer,Tv Production Company,But it scared the hell out of us. So we slapped together a cop show instead.
+51414,216,142,641000,Homer Simpson,Tv Production Company,PoliceCops.
+51415,216,143,642000,5th Producer,Tv Production Company,"Uh, no, actually, it was called ""Badge Patrol."""
+51416,216,144,645000,Producer,Tv Production Company,But the network idiots didn't want a show about high-tech badges that shoot laser beams.
+51417,216,145,649000,2nd Producer,Tv Production Company,"So we asked ourselves, who's behind the badge?"
+51418,216,146,649000,3rd Producer,Tv Production Company,Police.
+51419,216,147,649000,4th Producer,Tv Production Company,Cops.
+51420,216,148,654000,5th Producer,Tv Production Company,PoliceCops.
+51421,216,149,656000,Homer Simpson,Tv Production Company,"Yeah, but why does the Homer Simpson character have to be so stupid?"
+51422,216,150,659000,Producer,Tv Production Company,"Oh, he's not stupid. He's a street-smart, fish-out-of-water in a world he never made."
+51423,216,151,664000,Homer Simpson,Tv Production Company,I'm begging you. I'm a human being. Let me have my dignity back.
+51426,216,154,674000,DETECTIVE HOMER SIMPSON,Simpson Home,"Let me down, Chief. I'm begging you. I'm a human being. Let me have my dignity back."
+51427,216,155,683000,Bart Simpson,Simpson Home,Now he's stupid and whiny.
+51367,216,156,685000,Homer Simpson,Simpson Home,That does it! There's only one thing I can do.
+51430,216,159,689000,Homer Simpson,Courtroom,"Your honor, I'd like to sue the producers of ""PoliceCops"" for twenty million dollars for improper use of my name."
+51431,216,160,696000,Judge Snyder,Courtroom,"Court finds in favor of ""PoliceCops."" Next case."
+51432,216,161,702000,Homer Simpson,Courtroom,Then I'd like to legally change my name.
+51433,216,162,704000,Judge Snyder,Courtroom,What name would you prefer?
+51434,216,163,706000,Homer Simpson,Courtroom,Any of these will be fine.
+51435,216,164,707000,Judge Snyder,Courtroom,"Hmm. ""Hercules Rockefeller,"" ""Rembrandt Q. Einstein,"" ""Handsome B. Wonderful."" I'm going to give you the only name you spelled correctly. From this day forward your name shall be..."
+51437,216,166,720000,Lisa Simpson,Simpson Home,Max Power??
+51438,216,167,720000,Homer Simpson,Simpson Home,"Dynamic, isn't it?"
+51439,216,168,724000,Bart Simpson,Simpson Home,"I love it, Max."
+51440,216,169,725000,Marge Simpson,Simpson Home,You changed your name without consulting me?
+51441,216,170,728000,Homer Simpson,Simpson Home,"That's the way Max Power is, Marge. Decisive, uncompromising, and rude."
+51442,216,171,734000,Grampa Simpson,Simpson Home,"Oh, wait a minute. The family name is my legacy to you. I got it from my father, and he got it from his father. And he traded a mule for it. And that mule went on to save Spring Break..."
+51443,216,172,749000,Marge Simpson,Simpson Home,But this will be so confusing. The mailman won't know what to do. Did you think of the mailman at all before you did this?
+51444,216,173,757000,Homer Simpson,Simpson Home,"Yes, briefly."
+51445,216,174,759000,Marge Simpson,Simpson Home,And what about the tattoo on my you-know-what?
+51446,216,175,761000,Homer Simpson,Simpson Home,"Oh honey, they have acids that can burn that off."
+51447,216,176,765000,Marge Simpson,Simpson Home,"But I fell in love with Homer Simpson. I don't want to snuggle with ""Max Power."""
+51448,216,177,772000,Homer Simpson,Simpson Home,Nobody snuggles with Max Power. You strap yourself in and feel the G's.
+51449,216,178,776000,Marge Simpson,Simpson Home,"Oh, Lord."
+51450,216,179,777000,Homer Simpson,Simpson Home,"And it doesn't stop in the bedroom. Oh no, I'm taking charge. Kids, there's three ways to do things -- the right way, the wrong way, and the Max Power way."
+51451,216,180,787000,Bart Simpson,Simpson Home,Isn't that the wrong way?
+51452,216,181,788000,Homer Simpson,Simpson Home,"Yeah, but faster."
+51454,216,183,792000,Lisa Simpson,Simpson Home,We should really put that in the corner.
+51457,216,185,798000,Homer Simpson,Springfield Nuclear Power Plant,"MAX POWER / HE'S THE MAN / WHOSE NAME YOU'D LOVE TO TOUCH / BUT YOU MUSTN'T TOUCH / HIS NAME SOUNDS GOOD IN YOUR EAR / BUT WHEN YOU SAY IT, YOU MUSTN'T FEAR / 'CAUSE HIS NAME CAN BE SAID BY ANYONE..."
+51458,216,186,823000,C. Montgomery Burns,Springfield Nuclear Power Plant,Ah! Max Power! How's every little thing?
+51459,216,187,826000,Homer Simpson,Springfield Nuclear Power Plant,You remembered my name!
+51460,216,188,828000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Well, who could forget the name of a magnetic individual like you? Keep up the good work, Max."
+51461,216,189,833000,Homer Simpson,Springfield Nuclear Power Plant,Mr. Power.
+51462,216,190,833000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Yes, of course. Mr. Power."
+51465,216,193,833000,Homer Simpson,DRESS SHIRT COUNTER,So I want the monogram to read M-A-X P-O-W-
+51466,216,194,833000,Saleswoman,DRESS SHIRT COUNTER,"Sir, traditionally, a monogram is just initials."
+51467,216,195,848000,Homer Simpson,DRESS SHIRT COUNTER,"Max Power doesn't abbreviate. Each letter is as important as the one that preceded it. Maybe more important. No, as important."
+51468,216,196,857000,Saleswoman,DRESS SHIRT COUNTER,Very well...
+51469,216,197,858000,Homer Simpson,DRESS SHIRT COUNTER,"And if you have enough room, add some exclamation points and a pirate flag."
+51470,216,198,862000,TRENT,DRESS SHIRT COUNTER,The man knows what he likes.
+51471,216,199,863000,Homer Simpson,DRESS SHIRT COUNTER,Just takin' care of business.
+51472,216,200,865000,TRENT,DRESS SHIRT COUNTER,"If you don't, who will, huh? Trent Steel."
+51473,216,201,867000,Homer Simpson,DRESS SHIRT COUNTER,"Homer Sim-- Uh, Max Power."
+51474,216,202,870000,TRENT,DRESS SHIRT COUNTER,"Oh, heyyy, great name."
+51475,216,203,872000,Homer Simpson,DRESS SHIRT COUNTER,"Yeah, isn't it? I got it off a hair dryer."
+51476,216,204,875000,TRENT,DRESS SHIRT COUNTER,"I like a man who can poke fun at himself. Ooh, hey, my one o'clock canceled. Have you had any lunch?"
+51477,216,205,882000,Homer Simpson,DRESS SHIRT COUNTER,"Yeah, but I usually have three or four."
+51478,216,206,884000,TRENT,DRESS SHIRT COUNTER,"LEADING HIM OFF) So, where to eat? You like Thai?"
+51479,216,207,886000,Homer Simpson,DRESS SHIRT COUNTER,Tie good. You like shirt?
+51481,216,209,890000,Homer Simpson,Simpson Home,"Marge, this is Thai food. From now on, I want it morning, noon and night."
+51482,216,210,894000,Marge Simpson,Simpson Home,When did you start liking Thai food?
+51483,216,211,896000,Homer Simpson,Simpson Home,When Trent Steel bought me some.
+51484,216,212,898000,Marge Simpson,Simpson Home,Who's Trent Steel?
+51485,216,213,900000,Homer Simpson,Simpson Home,He's Max Power's oldest and dearest friend.
+51486,216,214,902000,Lisa Simpson,Simpson Home,"What's this wrapped in a banana leaf? Mmm, smells like mint."
+51487,216,215,907000,Homer Simpson,Simpson Home,"Oh, I spit my gum in there."
+51488,216,216,907000,Lisa Simpson,Simpson Home,Eww.
+51489,216,217,909000,Marge Simpson,Simpson Home,Where'd you meet this Trent Steel? Moe's?
+51490,216,218,912000,Homer Simpson,Simpson Home,"No way, this guy's a winner. He has a company that makes computers, or a computer that makes companies... Anyway, you wouldn't understand."
+51491,216,219,919000,Marge Simpson,Simpson Home,"Well, I guess your new name is really opening doors for you."
+51492,216,220,923000,Homer Simpson,Simpson Home,For all of us. Look.
+51493,216,221,926000,Marge Simpson,Simpson Home,You are invited to a garden party this Saturday!
+51494,216,222,926000,Homer Simpson,Simpson Home,"This is our chance to rub elbows with Springfield's young, hip power couples... Like me and Debbie Pinson."
+51497,216,225,944000,Marge Simpson,GARDEN PARTY,"Wow, look at this place. The house number is spelled out with letters!"
+51498,216,226,949000,Homer Simpson,GARDEN PARTY,"Get used to it, honey. From now on, we'll be spelling everything with letters."
+51499,216,227,956000,Valet,GARDEN PARTY,Did you wish me to destroy this machine for you?
+51500,216,228,959000,Homer Simpson,GARDEN PARTY,Nah. Just park it.
+51501,216,229,960000,Valet,GARDEN PARTY,Heh. Very well.
+51502,216,230,961000,Homer Simpson,GARDEN PARTY,And I counted the pennies in the ashtray.
+51503,216,231,969000,Marge Simpson,GARDEN PARTY,"Oh look, it's Woody Harrelson."
+51504,216,232,971000,Guest #1,GARDEN PARTY,I can't believe those pants are made entirely out of hemp.
+51505,216,233,977000,Marge Simpson,GARDEN PARTY,"And there's Ed Begley, Jr."
+51506,216,234,978000,"Ed Begley, Jr.",GARDEN PARTY,And this one solar collector can gather enough energy to run this colorful pinwheel.
+51507,216,235,987000,"Ed Begley, Jr.",GARDEN PARTY,"Wait, wait, I-I got it. I got it."
+51508,216,236,991000,Bill Clinton,GARDEN PARTY,"Very nice, Ed. Your inventions continue to impress me and the entire nation."
+51509,216,237,999000,Homer Simpson,GARDEN PARTY,Maarrge... President Clinton!
+51510,216,238,1002000,Marge Simpson,GARDEN PARTY,"Oh, my Lord! I feel like Cinderella."
+51511,216,239,1006000,Homer Simpson,GARDEN PARTY,"Me, too. Let's sing the Cinderella song."
+51512,216,240,1008000,Marge Simpson,GARDEN PARTY,"Eh, maybe later."
+51513,216,241,1011000,Homer Simpson,GARDEN PARTY,Uh-oh. Here comes Lorne Michaels. Pretend you don't see him.
+51514,216,242,1013000,Lorne Michaels,GARDEN PARTY,"Ah, Max Power. Trent said I absolutely must meet you. This is fab..."
+51515,216,243,1019000,Homer Simpson,GARDEN PARTY,"Anyway, Marge. Uh, how do you feel about the economy?"
+51516,216,244,1025000,Homer Simpson,GARDEN PARTY,"So I said ""if this is the house of pancakes, how come I can't eat the walls?"""
+51517,216,245,1033000,TRENT,GARDEN PARTY,"Ah, you are too much, Max."
+51518,216,246,1035000,Guest #2,GARDEN PARTY,I thought I knew all the players in Springfield. Where have you been hiding yourself?
+51519,216,247,1039000,Homer Simpson,GARDEN PARTY,"Well, I spend a lot of time on the couch..."
+51520,216,248,1042000,Guests,GARDEN PARTY,Tell me about it. / Haven't we all? / I hear that.
+51521,216,249,1047000,Bill Clinton,GARDEN PARTY,"I know you don't think you're good enough for me, but believe me you are. Hell, I've done it with pigs. Real no-foolin' pigs."
+51522,216,250,1055000,Marge Simpson,GARDEN PARTY,Are you sure it's a Federal law that I have to dance with you?
+51523,216,251,1059000,Bill Clinton,GARDEN PARTY,"You know I'd change that law if I could, Marge. But I can't."
+51524,216,252,1065000,Bill Clinton,GARDEN PARTY,"Aw, shoot. Quebec's got the bomb. Well, I gotta go, but look, if you're ever near the White House, there's a tool shed out back. I'm in there most of the day."
+51525,216,253,1077000,TRENT,GARDEN PARTY,"Attention, please. Attention. Um, I just wanna say how thrilled I am with this turnout. I'm proud to share my home with Springfield's best and brightest."
+51526,216,254,1086000,Homer Simpson,GARDEN PARTY,"Hey, no problem."
+51527,216,255,1088000,TRENT,GARDEN PARTY,We've all been blessed with privilege and success.
+51528,216,256,1091000,Homer Simpson,GARDEN PARTY,"Woo, privilege!"
+51529,216,257,1093000,TRENT,GARDEN PARTY,"Uh, but with privilege comes grave responsibility..."
+51530,216,258,1097000,Homer Simpson,GARDEN PARTY,Whuh?!
+51531,216,259,1098000,TRENT,GARDEN PARTY,We all have to give something back to the world that's been so good to us.
+51532,216,260,1102000,Homer Simpson,GARDEN PARTY,Give something back? Boo! Get a haircut!
+51533,216,261,1106000,TRENT,GARDEN PARTY,"I'm talking, of course, about our endangered forests."
+51535,216,263,1113000,TRENT,GARDEN PARTY,"We have to protect them, because trees can't protect themselves. Except, of course, the Mexican Fighting Trees."
+51536,216,264,1120000,Homer Simpson,GARDEN PARTY,Somebody buy this guy a tree so he'll shut up.
+51537,216,265,1122000,TRENT,GARDEN PARTY,Can we let the wanton destruction of our nation's forests continue?
+51538,216,266,1126000,Guests,GARDEN PARTY,No!
+51539,216,267,1127000,TRENT,GARDEN PARTY,"If a tree falls in the forest, will you make a sound?"
+51540,216,268,1130000,Guests,GARDEN PARTY,Yes!
+51541,216,269,1131000,TRENT,GARDEN PARTY,To the protest bus!
+51542,216,270,1134000,Homer Simpson,GARDEN PARTY,"Hey, stop shoving! I'm Max Power!"
+51544,216,272,1138000,Homer Simpson,Bus,"What's going on, Trent? Where are you taking me?"
+51545,216,273,1140000,TRENT,Bus,We're going to try and save some beautiful redwoods.
+51546,216,274,1146000,Marge Simpson,Bus,"Aren't you coming, Ed?"
+51547,216,275,1148000,"Ed Begley, Jr.",Bus,I prefer a vehicle that doesn't hurt mother earth.
+51548,216,276,1150000,"Ed Begley, Jr.",Bus,It's a go-cart powered by my own sense of self-satisfaction.
+51550,216,278,1163000,Homer Simpson,Springfield Forest,"Oh, this is the worst party ever."
+51551,216,279,1165000,Marge Simpson,Springfield Forest,I don't know. Remember that New Year's Eve at Lenny's... he didn't even have a clock!
+51552,216,280,1171000,Homer Simpson,Springfield Forest,"Oh, Marge. I thought it would be fun to be on Springfield's ""A"" list, but these people are nuts."
+51553,216,281,1176000,Marge Simpson,Springfield Forest,You can't blame them for having a social conscience.
+51554,216,282,1179000,Homer Simpson,Springfield Forest,Sure you can. Buncha no-good do-gooders.
+51555,216,283,1182000,"Ed Begley, Jr.",Springfield Forest,"Hang in there, Max. Saving the environment is a hard, grueling job."
+51556,216,284,1186000,Homer Simpson,Springfield Forest,"That's what I'm saying! See Marge, this guy gets it."
+51557,216,285,1194000,Chief Wiggum,Springfield Forest,"All right, what's goin' on here?"
+51558,216,286,1196000,"Ed Begley, Jr.",Springfield Forest,"We can't allow you to destroy these beautiful trees, which have the same rights you have..."
+51559,216,287,1200000,Chief Wiggum,Springfield Forest,"Man, I have really had it with you tree-huggers."
+51560,216,288,1203000,Homer Simpson,Springfield Forest,Tree-huggers...
+51561,216,289,1205000,Chief Wiggum,Springfield Forest,"Something funny, Nature Boy?"
+51562,216,290,1206000,Homer Simpson,Springfield Forest,"No, I just thought it was cute when you called him..."
+51563,216,291,1209000,Chief Wiggum,Springfield Forest,"All right, ""Max Power."" Eddie, swab this joker's eyes with mace."
+51564,216,292,1214000,Marge Simpson,Springfield Forest,Swab? I thought it was a spray.
+51565,216,293,1216000,Chief Wiggum,Springfield Forest,"Okay, she's second."
+51566,216,294,1223000,"Ed Begley, Jr.",Springfield Forest,"Don't give 'em the satisfaction of screaming, Max. It'll only burn for..."
+51568,216,296,1228000,Eddie,Springfield Forest,"Hey, hold still."
+51569,216,297,1230000,"Ed Begley, Jr.",Springfield Forest,"Keep runnin', Max!"
+51570,216,298,1231000,Homer Simpson,Springfield Forest,I can't lose them!
+51571,216,299,1232000,Chief Wiggum,Springfield Forest,"Help him out, Lou!"
+51572,216,300,1236000,Lou,Springfield Forest,"Uh, you better call for backup, Chief!"
+51573,216,301,1237000,Homer Simpson,Springfield Forest,Eep! Leave me alone! Go swab Begley. He likes it!
+51574,216,302,1243000,Eddie,Springfield Forest,"Slow down, punk!"
+51575,216,303,1247000,Homer Simpson,Springfield Forest,I'm free! Woo hoo!
+51577,216,305,1260000,Marge Simpson,Springfield Forest,"Oh, no!"
+51580,216,307,1266000,Chief Wiggum,Springfield Forest,What a tragedy. That car was just two days away from retirement.
+51581,216,308,1276000,TRENT,Springfield Forest,This is terrible.
+51582,216,309,1279000,Homer Simpson,Springfield Forest,"So, Trent, where's the party bus headed now?"
+51583,216,310,1283000,Homer Simpson,Springfield Forest,What?
+51585,216,312,1286000,Marge Simpson,Simpson Home,"Well, I'm glad you changed your name back to Homer Simpson."
+51586,216,313,1290000,Homer Simpson,Simpson Home,"Yes, I learned you've gotta be yourself. G'night, honey."
+51587,216,314,1295000,Marge Simpson,Simpson Home,G'night.
+51588,216,315,1297000,Homer Simpson,Simpson Home,"Oh, I almost forgot. While I was at the courthouse, I had them change your name."
+51589,216,316,1302000,Marge Simpson,Simpson Home,To what?
+51590,216,317,1303000,Homer Simpson,Simpson Home,Chesty LaRue.
+51591,216,318,1304000,Marge Simpson,Simpson Home,Chesty LaRue?!
+51592,216,319,1305000,Homer Simpson,Simpson Home,"Just try it for two weeks. If you're not completely satisfied, you can be Busty St. Claire."
+51593,216,320,1310000,Marge Simpson,Simpson Home,I don't want to be Chesty LaRue or Busty St. Claire!
+51594,216,321,1313000,Homer Simpson,Simpson Home,Fine. Hooty McBoob it is.
+51595,216,322,1315000,Marge Simpson,Simpson Home,"Goodnight, Homer."
+51596,216,323,1317000,Homer Simpson,Simpson Home,"Sleep tight, Hooty."
+51597,216,324,1319000,Marge Simpson,Simpson Home,Let go of those.

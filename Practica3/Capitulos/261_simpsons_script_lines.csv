@@ -1,0 +1,251 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+65168,261,1,84000,Game Show Host,GAME SHOW SET,Welcome back to America's favorite game shoooowwww...
+65169,261,2,87000,Audience,GAME SHOW SET,Me Wantee!
+65170,261,3,89000,Game Show Host,GAME SHOW SET,And here's that question-asking guy... Virgil Sinclair!
+65171,261,4,94000,Game Show Host,GAME SHOW SET,"Alll right, Moe Szyslak..."
+65172,261,5,96000,Moe Szyslak,GAME SHOW SET,"Yes, Virgil?"
+65173,261,6,97000,Game Show Host,GAME SHOW SET,Yesterday we asked if you wanted to risk it all for five hundred thousand dollars. And you stalled for twenty minutes.
+65174,261,7,103000,Moe Szyslak,GAME SHOW SET,"Yes, yes, I did. I was told to."
+65175,261,8,105000,Game Show Host,GAME SHOW SET,"Hey, that's great. But now, we must have your answer... in the next ten or fifteen minutes."
+65176,261,9,114000,Game Show Host,GAME SHOW SET,"You want some of this? Well, do ya?"
+65177,261,10,116000,Moe Szyslak,GAME SHOW SET,I can honestly say I do.
+65178,261,11,118000,Game Show Host,GAME SHOW SET,"Ah-all right, then. For a half a million dollars... Which of the following is not a subatomic particle?"
+65179,261,12,123000,Moe Szyslak,GAME SHOW SET,Oy.
+65180,261,13,131000,Game Show Host,GAME SHOW SET,"A) proton, B) neutron, C) bonbon, or D) electron?"
+65181,261,14,131000,Moe Szyslak,GAME SHOW SET,"Oooh, boy. All right, let's see here, uh... Well I was born in Indiana... so that ain't it. And, uh... I better call my Lifeline."
+65183,261,16,145000,Homer Simpson,Simpson Home,"Y'ello!... Hey, Moe. We're watching you on TV."
+65185,261,18,149000,Moe Szyslak,GAME SHOW SET,"Yeah, I know, Homer."
+65187,261,19,150000,Homer Simpson,GAME SHOW SET,"So, how's that bowel obstruction doing?"
+65188,261,20,153000,Moe Szyslak,GAME SHOW SET,"Homer, please. Ha ha. I got a nuclear-type question, here."
+65190,261,22,157000,Homer Simpson,Simpson Living Room,"Well, it all starts when the nulecule comes out of its nest..."
+65191,261,23,161000,Lisa Simpson,Simpson Living Room,"The answer is ""bonbon""!"
+65192,261,24,162000,Moe Szyslak,Simpson Living Room,"Ahh, I'm gonna say ""bonbon."""
+65193,261,25,162000,Game Show Host,Simpson Living Room,"Bonbon, eh, Moe? Is that your ultimate response?"
+65194,261,26,168000,Moe Szyslak,Simpson Living Room,Yuh-huh.
+65195,261,27,169000,Game Show Host,Simpson Living Room,Ohhh... You are correct!
+65196,261,28,174000,Game Show Host,Simpson Living Room,"Ha ha ha. Well, Moe, would you like to stop where you are, or try for one million dollars?"
+65197,261,29,181000,Moe Szyslak,Simpson Living Room,"Well... Gee, I really do love currency... but, um, I think I'm gonna play it safe and stick with what I got."
+65198,261,30,187000,Game Show Host,Simpson Living Room,You're the boss.
+65199,261,31,187000,Moe Szyslak,Simpson Living Room,"Yes, I am."
+65200,261,32,193000,Audience,Simpson Living Room,Yayyy! / Woo!
+65202,261,34,193000,Krusty the Clown,Krustylu Studios,"Eh, this quiz show crap is just a fad."
+65203,261,35,196000,Male Executive,Krustylu Studios,"Well, fad or not, it's here to stay."
+65204,261,36,197000,Female Executive,Krustylu Studios,And it's killing your show in the ratings.
+65205,261,37,199000,Krusty the Clown,Krustylu Studios,"Hey, whaddaya want from me? I do a kid show!"
+65206,261,38,201000,Female Executive,Krustylu Studios,And it's a classic. We just want you to open it up.
+65207,261,39,204000,Male Executive,Krustylu Studios,Run wild. Shatter the boundaries. Slash and burn.
+65208,261,40,206000,Female Executive,Krustylu Studios,Without alienating anyone.
+65209,261,41,208000,Krusty the Clown,Krustylu Studios,"Oy, these facockta network notes. Can you believe this?"
+65210,261,42,214000,Female Executive,Krustylu Studios,All we're saying is be dangerous. But warm. And edgy-cute.
+65212,261,44,220000,Male Executive,Krustylu Studios,Did that exit work for you?
+65213,261,45,221000,Female Executive,Krustylu Studios,I'd like to see it without the scream.
+65214,261,46,223000,Male Executive,Krustylu Studios,I was just thinking that.
+65216,261,48,228000,Krusty the Clown,Krustylu Studios,"Hey, hey, kids. Let's hear it for Madame Mimi and her Cheese-Seeking Poodles!"
+65217,261,49,230000,Kids,Krustylu Studios,Yayyy!
+65218,261,50,236000,Krusty the Clown,Krustylu Studios,We'll be back with a sketch set in the craaaziest place -- a restaurant!
+65219,261,51,245000,Stage Manager,Krustylu Studios,Aaand roll commercial.
+65220,261,52,246000,Female Executive,Krustylu Studios,Krusty? Yeah. Quick thought about this restaurant set.
+65221,261,53,249000,Krusty the Clown,Krustylu Studios,Whuh?
+65222,261,54,250000,Female Executive,Krustylu Studios,Could it look more like a diner?
+65223,261,55,252000,Male Executive,Krustylu Studios,Ooo! The Seinfeld diner!
+65224,261,56,253000,Krusty the Clown,Krustylu Studios,Are you nuts? I'm on in five seconds.
+65225,261,57,255000,Male Executive,Krustylu Studios,'Cause the great thing about Seinfeld was the--
+65226,261,58,257000,Stage Manager,Krustylu Studios,"You're on, Krusty."
+65227,261,59,260000,Krusty the Clown,Krustylu Studios,"Ah... Nothing like a meal in a fine restaurant. Ah, here comes the waitress."
+65228,261,60,268000,Female Executive,Krustylu Studios,We're losing male teens. Can you get jiggy with something?
+65229,261,61,271000,Krusty the Clown,Krustylu Studios,You're givin' me notes while I'm on the air?! That tears it!
+65230,261,62,275000,Krusty the Clown,Krustylu Studios,"Folks, I've been in show biz for 61 years, but now these jerks have sucked all the fun out. I don't need twelve suits tellin' me which way to pee..."
+65231,261,63,285000,Male Executive,Krustylu Studios,"Uh, for ""pee"" could you substitute ""whiz""?"
+65232,261,64,287000,Female Executive,Krustylu Studios,"I... don't know. That could upset the ""Cheez Whiz"" people."
+65233,261,65,290000,Male Executive,Krustylu Studios,I was just thinking that.
+65234,261,66,291000,Krusty the Clown,Krustylu Studios,"I can't take it anymore! Folks, don't miss this Friday's show. It'll be my last."
+65236,261,68,299000,Male Executive,Krustylu Studios,"Quitting showbiz -- yeah, I know I like the area, but where does it go?"
+65237,261,69,303000,Krusty the Clown,Krustylu Studios,Get away from me!
+65238,261,70,304000,Male Executive,Krustylu Studios,Wait!
+65239,261,71,305000,Female Executive,Krustylu Studios,We have more noootes!
+65241,261,73,310000,Krusty the Clown,Stage,"Get off, damn you! Ah!"
+65242,261,74,312000,Male Executive,Stage,You can kill me but two more will take my plaaace!
+65244,261,76,320000,Lisa Simpson,Simpson Dining Room,I can't believe Krusty's retiring. This is tragic!
+65245,261,77,324000,Homer Simpson,Simpson Dining Room,A world without Krusty -- what would that be like?
+65246,261,78,330000,Homer Simpson,Simpson Dining Room,What's on TV?
+65247,261,79,331000,Bart Simpson,Simpson Dining Room,Nutsy the clown.
+65248,261,80,332000,Homer Simpson,Simpson Dining Room,Oh boy! Oh boy! Oh boy!
+65249,261,81,337000,Marge Simpson,Simpson Dining Room,"Well, I think it's good for a show to go off the air before it becomes stale and repetitive."
+65250,261,82,342000,Waylon Smithers,Simpson Dining Room,Maggie shot Mr. Burns again!
+65252,261,84,350000,Kent Brockman,TV Studio,Krusty the Clown's retirement has provoked an outpouring of anguish not seen since the small plane crash that killed the Banana Splits. We now go live to Krustylu Studios.
+65253,261,85,363000,Kent Brockman,TV Studio,"What's the mood there, Chief Clancy Wiggum?"
+65254,261,86,365000,Chief Wiggum,TV Studio,"These kids are gettin' a little out of hand, Kent, so we're gonna have to fire the time-out gas."
+65255,261,87,373000,Chief Wiggum,TV Studio,"Hey Kent, are you guys still having that contest where we guess what city the weather girl's in?"
+65256,261,88,378000,Kent Brockman,TV Studio,That was eight years ago.
+65257,261,89,380000,Chief Wiggum,TV Studio,Is it Pittsburgh?
+65258,261,90,381000,Kent Brockman,TV Studio,I spoke to Krusty about his legacy of laughter.
+65259,261,91,385000,Krusty the Clown,TV Studio,"Kent, the young people today, they think comedy is dirty words. It's not. It's words that sound dirty. Like mukluk."
+65261,261,93,396000,Krusty the Clown,TV Studio,Mukluk. You like that? No charge. Mukluk.
+65263,261,95,401000,Krusty the Clown,Springfield Minimum Security Prison,Mukluk.
+65265,261,97,402000,Sideshow Bob,Springfield Minimum Security Prison,"Oh, can it, you tiresome tot-sitter. I was the risible one in our dyad."
+65266,261,98,406000,Kent Brockman,Springfield Minimum Security Prison,Ever watch the old episodes?
+65267,261,99,408000,Krusty the Clown,Springfield Minimum Security Prison,"Ohh, Kent, that's a sad story."
+65268,261,100,410000,Krusty the Clown,Springfield Minimum Security Prison,"I taped over all my old episodes. Well, you know, I had a thing for Judge Judy, and blank tape was 3.99. What would you do?"
+65269,261,101,420000,Sideshow Bob,Springfield Minimum Security Prison,Those are my shows!
+65270,261,102,423000,Krusty the Clown,Springfield Minimum Security Prison,"Frankly Kent, those episodes were no big loss. The show didn't really get funny until we fired Sideshow Bob and hired Who'sits."
+65271,261,103,431000,Sideshow Bob,Springfield Minimum Security Prison,You've erased my past. Now I'll erase your future.
+65272,261,104,438000,Guard,Springfield Minimum Security Prison,"Hey, hey, lights out!"
+65273,261,105,439000,Sideshow Bob,Springfield Minimum Security Prison,"Oh, honestly. At Chino they get to stay up till nine."
+65274,261,106,443000,Guard,Springfield Minimum Security Prison,"Now Bob, I've talked to the warden at Chino, and that's just not true."
+65277,261,109,451000,Sideshow Bob,Courtroom,"Your Honor, my incarceration is cruel and unusual punishment. First, my prison-issued shower sandals are grossly undersized."
+65279,261,110,459000,Sideshow Bob,Courtroom,"Secondly, the prison book club consists mainly of prisoners who club me with books."
+65280,261,111,466000,Sideshow Bob,Courtroom,"These are from the new Tom Clancy. Although it's less painful than reading him. Am I right, folks?"
+65281,261,112,471000,Judge Snyder,Courtroom,Motion granted! Release the prisoner!
+65283,261,114,479000,Chief Wiggum,Springfield Minimum Security Prison,"Now, don't try anything funny this time, Bob. I'm gonna be on you like red beans on, ah... uh, hey, hey, hey, don't walk so fast."
+65284,261,115,487000,Chief Wiggum,Springfield Minimum Security Prison,"Hey, no fair. You got long legs. I got these little bitty hooves..."
+65285,261,116,492000,Chief Wiggum,Springfield Minimum Security Prison,Bob!
+65287,261,118,496000,Attendant,STORAGE LOCKER DEPOT,"Okay, here's your storage locker. Just the way you left it."
+65288,261,119,500000,Sideshow Bob,STORAGE LOCKER DEPOT,"Thank you, Raphael. Now, this is a ticklish question, but..."
+65289,261,120,504000,Attendant,STORAGE LOCKER DEPOT,You wanna live in the box? Cost ya two bucks a day.
+65290,261,121,506000,Sideshow Bob,STORAGE LOCKER DEPOT,"Oh, thank you, kind innkeeper."
+65291,261,122,511000,Attendant,STORAGE LOCKER DEPOT,You gonna want a wake-up jab?
+65292,261,123,513000,Sideshow Bob,STORAGE LOCKER DEPOT,Please.
+65293,261,124,513000,Attendant,STORAGE LOCKER DEPOT,No problemo.
+65296,261,127,518000,Gil Gunderson,STORAGE LOCKER,"Hiya, neighbor!"
+65298,261,129,521000,Gil Gunderson,STORAGE LOCKER,"Hey, wai-wai-wait. Wha-whatcha writin' there?"
+65299,261,130,523000,Sideshow Bob,STORAGE LOCKER,"If you must know, it's an exquisite scheme for revenge."
+65300,261,131,527000,Gil Gunderson,STORAGE LOCKER,"Ah, revenge, huh? Half the guys in here are workin' on that."
+65301,261,132,534000,Sideshow Bob,STORAGE LOCKER,"Well, mine's better."
+65303,261,134,539000,Sideshow Bob,Springfield Elementary School,"Phase One begins in ten... nine... eight... Oh, I can't wait!"
+65305,261,136,548000,Seymour Skinner,Springfield Elementary School,"Now, Bob, uh, your graduate degrees more than qualify you to be assistant janitor."
+65306,261,137,554000,Sideshow Bob,Springfield Elementary School,My blushes.
+65307,261,138,555000,Seymour Skinner,Springfield Elementary School,But I am a bit troubled by your constant attempts to murder people.
+65308,261,139,559000,Sideshow Bob,Springfield Elementary School,"To be fair, most of those people were Bart Simpson."
+65309,261,140,562000,Seymour Skinner,Springfield Elementary School,Good luck. That kid's like the Road Runner. He won't go down.
+65310,261,141,568000,Sideshow Bob,Springfield Elementary School,Tell me about it.
+65311,261,142,572000,Seymour Skinner,Springfield Elementary School,"I-- You know, Bob, your voice would be perfect for the school's morning announcements."
+65312,261,143,577000,Sideshow Bob,Springfield Elementary School,Attention: the French club picnic has been canceled. Quel dommage.
+65313,261,144,582000,Seymour Skinner,Springfield Elementary School,Ha! You're hired.
+65314,261,145,584000,Sideshow Bob,Springfield Elementary School,It begins.
+65315,261,146,592000,Sideshow Bob,Springfield Elementary School,"I mean, my announcing career. That's what's beginning."
+65316,261,147,601000,Sideshow Bob,Springfield Elementary School,"Good morning, Springfield Elementary."
+65317,261,148,603000,Sideshow Bob,Springfield Elementary School,In the lost and found today we have one plaid kilt.
+65319,261,150,606000,Sideshow Bob,Springfield Elementary School,"I believe the clan is ""Graham of Montrose."""
+65322,261,153,610000,Bart Simpson,Mrs. Krabappel's Classroom,This new morning announcer sounds awfully familiar.
+65323,261,154,614000,Sideshow Bob,Mrs. Krabappel's Classroom,"And finally, Bart Simpson should immediately proceed, unescorted, to the old sports equipment shed behind the school."
+65324,261,155,625000,Bart Simpson,Mrs. Krabappel's Classroom,"Ha. So long, suckers!"
+65326,261,157,634000,Children,Springfield Elementary School,RING AROUND THE ROSEY...
+65328,261,159,650000,Sideshow Bob,Springfield Elementary School,"Hello, Bart."
+65329,261,160,653000,Bart Simpson,Springfield Elementary School,"Oh, it's you, Bob. How ya doin'?"
+65330,261,161,656000,Sideshow Bob,Springfield Elementary School,"No screams? Not even an ""eep""?"
+65331,261,162,659000,Bart Simpson,Springfield Elementary School,"Hey, I'm not afraid of you. Every time we tangle, you wind up in jail. I'm 6 and 0."
+65332,261,163,664000,Sideshow Bob,Springfield Elementary School,I'll admit that the record is a little one-sided. But this time I cannot fail.
+65333,261,164,674000,Sideshow Bob,Springfield Elementary School,Rakes. My old arch-enemy.
+65334,261,165,677000,Bart Simpson,Springfield Elementary School,I thought I was your arch-enemy.
+65335,261,166,679000,Sideshow Bob,Springfield Elementary School,"I have a life outside of you, Bart."
+65337,261,168,686000,Bart Simpson,SPORTS EQUIPMENT SHED,What are you gonna do to me?
+65338,261,169,687000,Sideshow Bob,SPORTS EQUIPMENT SHED,"Oh, believe me, I have a plan. Let's see... Get job as school announcer...lure Bart to shed...secure same to chair with rope... Ah, here we are. ""Have Bart kill Krusty."""
+65339,261,170,695000,Bart Simpson,SPORTS EQUIPMENT SHED,Krusty?! That's the one man I would never kill.
+65342,261,171,701000,Sideshow Bob,SPORTS EQUIPMENT SHED,"Oh, you will kill Krusty, during his final show -- and you won't even know you're doing it."
+65343,261,172,710000,Sideshow Bob,SPORTS EQUIPMENT SHED,"Watch the shiny quarter, Bart... that's it... Oh, dammit, where'd it go?"
+65344,261,173,717000,Sideshow Bob,SPORTS EQUIPMENT SHED,I needed that for laundry!
+65345,261,174,718000,Bart Simpson,SPORTS EQUIPMENT SHED,"Hey, stupid."
+65346,261,175,720000,Bart Simpson,SPORTS EQUIPMENT SHED,You looked!
+65347,261,176,727000,Sideshow Bob,SPORTS EQUIPMENT SHED,"Yes, that will do."
+65348,261,177,731000,Sideshow Bob,SPORTS EQUIPMENT SHED,"Watch the spiral, Bart. Let it entrance you with its twirliness. Twirliness!"
+65349,261,178,740000,Sideshow Bob,SPORTS EQUIPMENT SHED,You are in my power!
+65350,261,179,741000,Bart Simpson,SPORTS EQUIPMENT SHED,I am at your command.
+65351,261,180,743000,Sideshow Bob,SPORTS EQUIPMENT SHED,"I didn't say anything about command. If you're in my power, say so."
+65352,261,181,747000,Bart Simpson,SPORTS EQUIPMENT SHED,I am in your power.
+65353,261,182,749000,Sideshow Bob,SPORTS EQUIPMENT SHED,"Excellent... Actually, go back to ""command."" No, ""power,"" ""power."""
+65355,261,184,755000,Marge Simpson,Simpson Home,Look! Krusty invited us to the taping of his last episode.
+65356,261,185,761000,Bart Simpson,Simpson Home,"Hello, family."
+65357,261,186,763000,Marge Simpson,Simpson Home,"Where have you been, young man? It's nearly bedtime."
+65358,261,187,766000,Bart Simpson,Simpson Home,I was... I was...
+65359,261,188,769000,GHOSTLY SIDESHOW BOB,Simpson Home,"If anyone asks, you were at the flower shop."
+65360,261,189,773000,Bart Simpson,Simpson Home,I was at the flower shop.
+65361,261,190,775000,Homer Simpson,Simpson Home,"Oh, yeah, uh, I was at the flower shop today, too. Yup, gettin' drunk at the ol' flower shop."
+65363,261,192,783000,Sideshow Bob,Springfield Street,Now to see if you will really attack your hero.
+65364,261,193,794000,Sideshow Bob,Springfield Street,Yes! Yes! Work the groin!
+65365,261,194,799000,Sideshow Bob,Springfield Street,Excuse me. Could you take our picture?
+65366,261,195,801000,Cletus Spuckler,Springfield Street,Ay-yeah.
+65367,261,196,803000,Sideshow Bob,Springfield Street,It should focus automatically.
+65368,261,197,805000,Cletus Spuckler,Springfield Street,It do.
+65370,261,199,807000,Eddie,Krusty Burger,"Chief, you might want to take a look outside."
+65371,261,200,809000,Sideshow Bob,Krusty Burger,That's it! Kill Krusty! Just like you'll kill him tomorrow night!
+65372,261,201,815000,Chief Wiggum,Krusty Burger,"Oh, it-it's so great to see a kid using a wooden bat. These days it's all aluminum this and George W. that."
+65373,261,202,822000,Lou,Krusty Burger,"Hey, Chief, look what I got in my Laffy Meal."
+65374,261,203,825000,Chief Wiggum,Krusty Burger,"Ooo, mini-pinball!"
+64283,261,204,827000,Lou,Krusty Burger,"Hey, give that back!"
+65278,261,205,828000,Chief Wiggum,Krusty Burger,"Give what back, Lou?"
+65375,261,207,841000,Krusty the Clown,Krusty Burger,"Good evening, folks. And welcome to my final clown-cast. The word ""legend"" has many definitions..."
+65376,261,208,848000,Bart Simpson,Krusty Burger,This is for Sideshow Bob.
+65378,261,210,855000,Sideshow Bob,Krusty Burger,"Marvelous, marvelous. Funny till the end. Moment of silence. Well, it's my show now."
+65380,261,212,862000,Sideshow Bob,Krusty Burger,"Thank you, thank you..."
+65382,261,214,865000,Sideshow Bob,STORAGE LOCKER,Thank you...
+65383,261,215,870000,Sideshow Bob,STORAGE LOCKER,Just a dream. But tonight I will taste the sweet nectar of vengeance.
+65384,261,216,881000,Attendant,STORAGE LOCKER,Bug spray!
+65388,261,220,898000,Kent Brockman,Krustylu Studios,Kent Brockman here at Krusty the Clown's final show. And here comes out-of-work actor Rainier Wolfcastle!
+65389,261,221,905000,Rainier Wolfcastle,Krustylu Studios,"Someone, please, give me a job. I've lowered my quote to eight million!"
+65390,261,222,910000,Kent Brockman,Krustylu Studios,"Hear that, Hollywood? The boy wants to work."
+65391,261,223,913000,Rainier Wolfcastle,Krustylu Studios,"I do nude scene, I play nerd... Don't make me punch your throat."
+65392,261,224,918000,Kent Brockman,Krustylu Studios,Always a delight.
+65394,261,226,929000,Announcer,Krusty the Clown Show Soundstage,"And now, retiring for the fifth and final time, Krusty the Clown!"
+65395,261,227,938000,Krusty the Clown,Krusty the Clown Show Soundstage,"Thank you, folks. Now, fasten your funny belts, as our own Chimpendale's dancer gives you the Full Monkey!"
+65396,261,228,948000,Homer Simpson,Krusty the Clown Show Soundstage,Take it off!
+65397,261,229,957000,Sideshow Bob,Krusty the Clown Show Soundstage,Bart... Bart...
+65398,261,230,963000,Sideshow Bob,Krusty the Clown Show Soundstage,"It's time, Bart. Time to blow up the clown."
+65399,261,231,967000,Bart Simpson,Krusty the Clown Show Soundstage,Time to blow up the clown...
+65400,261,232,969000,Homer Simpson,Krusty the Clown Show Soundstage,Go. Blow.
+65401,261,233,972000,Krusty the Clown,Krusty the Clown Show Soundstage,And now a special treat. My TV debut on the Milk of Magnesia Summer Cavalcade. Let's watch.
+65402,261,234,981000,Krusty the Clown,Krusty the Clown Show Soundstage,"Look at me. I am Kaputnik, the Russian Satellite..."
+65403,261,235,984000,Krusty the Clown,Krusty the Clown Show Soundstage,The Bolshoi's doin' the Nutcracker in my pants!
+65405,261,237,989000,Krusty the Clown,Krusty the Clown Show Soundstage,"Back then you couldn't say ""pants"" on TV. I was banned for ten years. Finally, I got a second chance on ""Laugh In""."
+65406,261,239,998000,Judy Carne,"""LAUGH IN"" STAGE","Hey Krusty, what do you get when you cross a chicken with a beagle?"
+65407,261,240,1003000,Krusty the Clown,"""LAUGH IN"" STAGE","Fackakta doors are stuck! Don't just stare, Artie, help me!"
+65408,261,241,1009000,Krusty the Clown,"""LAUGH IN"" STAGE",Those lousy shutters set me back another twenty-two years.
+65409,261,242,1021000,Audience,"""LAUGH IN"" STAGE",/ Yayyy! /
+65411,261,244,1021000,Sideshow Bob,Krustylu Studios,"Mmm... that's good plastic explosive. Ha, ha, ha."
+65412,261,245,1031000,Sideshow Bob,Krustylu Studios,"Now, my little hypno-assassin, your cue to attack will be when Krusty says ""I've never had such a great audience."""
+65413,261,246,1031000,Sideshow Bob,Krustylu Studios,You will run up and hug him -- blowing each of you to smithereens!
+65414,261,247,1044000,Bart Simpson,Krustylu Studios,What-ever.
+65415,261,248,1046000,Krusty the Clown,Krustylu Studios,Now we're gonna show you some clips from...
+65416,261,249,1048000,Krusty the Clown,Krustylu Studios,"Ohhh-ho-ho-ho. Oh, nooo... I wanted to keep this quiet."
+65417,261,250,1055000,Dr. Julius Hibbert,Krustylu Studios,Can I embarrass this guy for a moment? Three years ago Krusty pledged over a million dollars to start Krusty's Kare Center.
+65418,261,251,1062000,Krusty the Clown,Krustylu Studios,Please. Stop already...
+65419,261,252,1065000,Dr. Julius Hibbert,Krustylu Studios,"To this day Krusty has not given us a dime. Has he, Frances?"
+65420,261,253,1069000,Frances,Krustylu Studios,I'm cold all the time.
+65421,261,254,1072000,Krusty the Clown,Krustylu Studios,"Ohhh, look, it was all a bookkeeping snafu."
+65422,261,255,1076000,Dr. Julius Hibbert,Krustylu Studios,Could I have the check now?
+65423,261,256,1077000,Krusty the Clown,Krustylu Studios,"Now? Eh-- Uh, sure."
+65424,261,257,1080000,Frances,Krustylu Studios,"God bwess you, Kwusty."
+65425,261,258,1082000,Audience,Krustylu Studios,Awww.
+65426,261,259,1083000,Krusty the Clown,Krustylu Studios,"And if my banker's watching, let nothing stop you from payment of this check."
+65428,261,261,1095000,Sideshow Bob,Krustylu Studios,"Ah, the catwalk. A perfect vantage point... for revenge."
+65429,261,262,1103000,Sideshow Bob,Krustylu Studios,"Ah, Kettle chips. The perfect side dish... for revenge."
+65430,261,263,1110000,Krusty the Clown,Krustylu Studios,What a special night. And you know something? I've never had such a great audience...
+65431,261,264,1121000,Krusty the Clown,Krustylu Studios,We've had a lot of... I'd like to be serious...
+65432,261,265,1122000,Sideshow Bob,Krustylu Studios,"Well, Krusty, this is your Waterloo. Soon you'll be Napoleon Blownapart."
+65433,261,266,1130000,Lighting Man,Krustylu Studios,Terrible.
+65434,261,267,1132000,Sideshow Bob,Krustylu Studios,"Oh, hush up, Leo."
+65436,261,268,1133000,Krusty the Clown,Krustylu Studios,"You know, I'd like to thank God for all my success, even though I never worshipped or believed in Him in any way. But before I sweep up my last spotlight, there's one thing I've gotta say..."
+65437,261,269,1146000,Krusty the Clown,Krustylu Studios,"Over the years I've a lot of ""wow,"" and I've my share of AA-OO-GAH! But there's only one thing I'm ashamed of."
+65438,261,270,1157000,Sideshow Bob,Krustylu Studios,Ashamed?
+65439,261,271,1159000,Krusty the Clown,Krustylu Studios,"There was a man who used to work for me. A man of grace and humor. But I mistreated him, and drove him to a life of crime. So, wherever you are, I just want to say -- Sideshow Bob, I'm sorry."
+65440,261,272,1175000,Krusty the Clown,Krustylu Studios,OH BO-OB / YOU REPAID MY ABUSE WITH RAW HATRED / BUT I NEED YOU TODAY / OH BO-OB / WELL YOU WENT TO APU'S AND YOU FRAMED ME / SO THEY LOCKED ME A-WAY...
+65441,261,273,1193000,Sideshow Bob,Krustylu Studios,"Oh, that sweet, funny man."
+65442,261,274,1200000,Sideshow Bob,Krustylu Studios,"Oh, no! My boy bomb!"
+65443,261,275,1203000,Krusty the Clown,Krustylu Studios,"Well, goodnight and... Aw look, it's a tow-headed little fan. Whaddaya say, folks, should I hug him?"
+65444,261,276,1211000,Audience,Krustylu Studios,/ Yeah! / Yayyy! / Woo!
+65445,261,277,1220000,Sideshow Bob,Krustylu Studios,Nooo!
+65447,261,279,1233000,Female Executive,Krustylu Studios,"Oh God, a bomb!"
+65448,261,280,1235000,Male Executive,Krustylu Studios,I was just thinking that.
+65449,261,281,1240000,Krusty the Clown,Krustylu Studios,What happened? Was anyone hurt?
+65450,261,282,1243000,Sideshow Mel,Krustylu Studios,Just some network executives.
+65452,261,284,1254000,SUPEREXECUTIVE,Green Room,We have notes... Have you thought about Dave Chapelle... Destroy.
+65454,261,286,1263000,Marge Simpson,The Pimento Grove,"Okay, everybody. Say ""funny."""
+65455,261,287,1264000,Sideshow Mel,The Pimento Grove,Funny!
+65456,261,288,1268000,Marge Simpson,The Pimento Grove,Perfect.
+65457,261,289,1273000,Sideshow Bob,The Pimento Grove,"Krusty, I'm so sorry about the attempted murder."
+65458,261,290,1276000,Krusty the Clown,The Pimento Grove,"Will you stop with the sorry? Every time you try to kill me, my ratings go through the roof, ya nut."
+65459,261,291,1284000,Sideshow Bob,The Pimento Grove,"We are good together, Krusty."
+65460,261,292,1286000,Krusty the Clown,The Pimento Grove,It makes me sad that you're getting the death penalty.
+65461,261,293,1290000,Sideshow Bob,The Pimento Grove,Don't remind me.
+65462,261,294,1294000,Chief Wiggum,The Pimento Grove,"Okay, where do you want to do this thing?"
+65463,261,295,1296000,Sideshow Bob,The Pimento Grove,Isn't it customary to have a trial?
+65464,261,296,1298000,Chief Wiggum,The Pimento Grove,"Oh, a wise guy, eh?"

@@ -1,0 +1,253 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+41590,183,1,56000,Gulliver Dark,Simpson Home,OPEN WIDE FOR SOME SOCCERRRR!
+41591,183,2,61000,Announcer,Simpson Home,"The Continental Soccer Association is coming to Springfield! It's all here. Fast kickin', low scorin', and ties? You bet!"
+41592,183,3,75000,Bart Simpson,Simpson Home,"Hey, Dad, how come you've never taken us to see a soccer game?"
+41593,183,4,79000,Homer Simpson,Simpson Home,I don't know.
+41594,183,5,80000,Announcer,Simpson Home,You'll see all your favorite soccer stars like: Ariaga! Ariaga II! Bariaga! Aruglia! And Pizzoza!
+41595,183,6,90000,Homer Simpson,Simpson Home,"Oh, I've never heard of those people."
+41596,183,7,92000,Announcer,Simpson Home,And they'll all be signin' autographs.
+41597,183,8,94000,Homer Simpson,Simpson Home,Woo hoo!
+41598,183,9,95000,Announcer,Simpson Home,This match will determine once and for all which nation is the greatest on earth: Mexico or Portugal.
+41599,183,10,103000,Lisa Simpson,Simpson Home,"Can we go, Dad? / Please Dad? / Please, please, please? / Can we go, huh, huh please? /"
+41600,183,11,107000,Homer Simpson,Simpson Home,"Yes, yes, oh God yes!"
+41603,183,14,118000,Homer Simpson,STADIUM,"Oh, I'll kill myself if Portugal doesn't win."
+41604,183,15,121000,Marge Simpson,STADIUM,It's hard to believe this used to be an internment camp.
+41605,183,16,125000,Bart Simpson,STADIUM,Yo Paella Man! Wing one up here!
+41606,183,17,131000,Lisa Simpson,STADIUM,Hey look. It's Pelé!
+41607,183,18,136000,Pelé,STADIUM,"Pelé is king of the soccer field. To be king of your kitchen, use Crestfield wax paper."
+41608,183,19,178000,Homer Simpson,STADIUM,Bo-ring!
+41609,183,20,180000,Krusty the Clown,STADIUM,"Come on you schnorers, do something!"
+41610,183,21,183000,Kent Brockman,STADIUM,Halfback passes to the center. Back to the wing. Back to the center. Center holds it... holds it... holds it...
+41611,183,22,196000,Foreign Announcer,STADIUM,Halfback passes to center. Back to wing. Back to center. Center holds it... holds it... holds it...
+41612,183,23,202000,Sideshow Mel,STADIUM,I can't bear this any longer. I'm leaving.
+41613,183,24,204000,Moe Szyslak,STADIUM,"Not before me, you ain't."
+41614,183,25,207000,Ned Flanders,STADIUM,"Now, now, there's plenty of exits for everyone."
+41615,183,26,210000,Moe Szyslak,STADIUM,"Oh, that's it. You're dead, pal."
+41616,183,27,212000,Seymour Skinner,STADIUM,"Hey, now. That's uncalled for."
+41617,183,28,214000,Lenny Leonard,STADIUM,"Shut your hole, Skinner."
+41618,183,29,224000,Seymour Skinner,STADIUM,Ooo... Ow!
+41620,183,31,224000,Sideshow Mel,STADIUM,Ooo... / Ow! / Hey! Oh! /
+41621,183,32,224000,Groundskeeper Willie,STADIUM,"Ach! They call this a soccer riot? C'mon, boys. Let's take 'em to school!"
+41622,183,33,230000,Soccer Hooligans,STADIUM,Oi! Oi! Oi! Oi!
+41623,183,34,241000,Marge Simpson,STADIUM,Homer. We gotta get out of here.
+41624,183,35,243000,Homer Simpson,STADIUM,"Oh, but I want to do some rioting."
+41625,183,36,246000,Soccer Hooligan,STADIUM,Jobbers cobknots ya mucker!
+41626,183,37,248000,Homer Simpson,STADIUM,All done.
+41629,183,39,257000,Kent Brockman,Evergreen Terrace,"What began as a traditional soccer riot has escalated into a city-wide orgy of destruction. Reacting swiftly, Mayor Quimby has declared mob rule. So for the next several years, it's every family for itself."
+41630,183,40,270000,Ned Flanders,Evergreen Terrace,"Ex... ex... excuse me, sir? I think you've got my TV. Sir?"
+41632,183,42,275000,Lisa Simpson,Simpson Home,Somebody's gotta stop them!
+41633,183,43,277000,Bart Simpson,Simpson Home,Let's wait until they burn the school down.
+41634,183,44,279000,Marge Simpson,Simpson Home,"Oh my God, Homer! They're right next door!"
+41635,183,45,281000,Homer Simpson,Simpson Home,"Relax, Marge. If someone tries to get in here, my burglar alarm will let us know."
+41637,183,47,289000,Homer Simpson,Simpson Home,"Watch the fish, Marge."
+41639,183,49,300000,Security Salesman,Simpson Home,Looks like you called me ju-uust in time. This home isn't secure at all.
+41640,183,50,304000,Homer Simpson,Simpson Home,"What did I tell you, Marge?"
+41641,183,51,306000,Security Salesman,Simpson Home,"Intruders could come in down the chimney, through the mail slot, even hidden in your groceries."
+41642,183,52,313000,Security Salesman,Simpson Home,"Did you change the locks when you moved in? Nah, I thought not. All the previous owners of this house could still be in here somewhere."
+41643,183,53,319000,Marge Simpson,Simpson Home,What do you recommend?
+41644,183,54,321000,Security Salesman,Simpson Home,"Well, a lot of companies would put in a pretty system that looks good but doesn't provide any real protection."
+41645,183,55,326000,Homer Simpson,Simpson Home,"Oh, let's get that."
+41646,183,56,328000,Security Salesman,Simpson Home,"But if you really want to sleep easy at night, I recommend sealing off every door and window with bullet-proof Lucite."
+41647,183,57,332000,Marge Simpson,Simpson Home,Wouldn't we all suffocate?
+41648,183,58,334000,Security Salesman,Simpson Home,"Well, I should hope not!"
+41649,183,59,336000,Homer Simpson,Simpson Home,Let's get that! The suffocation thing!
+41650,183,60,338000,Security Salesman,Simpson Home,And you can have it all for just five hundred dollars.
+41651,183,61,340000,Homer Simpson,Simpson Home,Five hundred dollars! Forget it.
+41652,183,62,345000,Security Salesman,Simpson Home,But surely you can't put a price on your family's lives.
+41653,183,63,348000,Homer Simpson,Simpson Home,"I wouldn't have thought so either, but here we are."
+41654,183,64,352000,Marge Simpson,Simpson Home,"Homer, we need something to protect this family."
+41655,183,65,355000,Homer Simpson,Simpson Home,"I couldn't agree more, Marjorie. You deserve peace of mind and peace of mind is what you shall have."
+41628,183,67,362000,Homer Simpson,Store,"I'd like to buy your deadliest gun, please."
+41657,183,68,364000,Gun Clerk,Store,"Aisle six, next to the sympathy cards."
+41659,183,70,372000,Gun Clerk,GUN SHOP,"Whoa, careful there, Annie Oakley."
+41660,183,71,374000,Homer Simpson,GUN SHOP,"I don't have to be careful, I got a gun."
+41661,183,72,376000,Gun Clerk,GUN SHOP,"Well, you'll probably want the accessory kit: holster..."
+41662,183,73,378000,Homer Simpson,GUN SHOP,"Oh, yeah."
+41663,183,74,380000,Gun Clerk,GUN SHOP,Bandoleer...
+41664,183,75,380000,Homer Simpson,GUN SHOP,Baby.
+41665,183,76,381000,Gun Clerk,GUN SHOP,Silencer...
+41666,183,77,381000,Homer Simpson,GUN SHOP,Mmm-hmm.
+41667,183,78,383000,Gun Clerk,GUN SHOP,Loudener...
+41668,183,79,383000,Homer Simpson,GUN SHOP,Ahh.
+41669,183,80,385000,Gun Clerk,GUN SHOP,Speed-cocker...
+41670,183,81,385000,Homer Simpson,GUN SHOP,"Ooo, I like the sound of that."
+41671,183,82,387000,Gun Clerk,GUN SHOP,And this is for shooting down police helicopters.
+41672,183,83,390000,Homer Simpson,GUN SHOP,"Oh, I don't need anything like that - yet. Just gimme my gun."
+41673,183,84,395000,Gun Clerk,GUN SHOP,"Sorry, the law requires a five day waiting period. We've got to run a background check."
+41674,183,85,400000,Homer Simpson,GUN SHOP,Five days! But I'm mad now!
+41676,183,87,404000,Homer Simpson,GUN SHOP,I'd kill you if I had my gun.
+41677,183,88,405000,Gun Clerk,GUN SHOP,"Yeah, well, you don't."
+41678,183,89,407000,Homer Simpson,GUN SHOP,Lousy big shot. Thinks he's so big 'cause he's got a lot of guns.
+41680,183,91,411000,Homer Simpson,Simpson Car,"Well, if he didn't have any guns, I'd show him a thing or two."
+41682,183,93,415000,Homer Simpson,Simpson Home,Let's see what happens when he walks into my store. Then we'll see who's worried about five day waiting period...
+41683,183,94,420000,Lisa Simpson,Simpson Home,Dad! It's three A.M.! Can't you mutter in your room?
+41684,183,95,425000,Homer Simpson,Simpson Home,Marge kicked me out.
+41685,183,96,428000,Lisa Simpson,Simpson Home,All right. Go ahead.
+41686,183,97,430000,Homer Simpson,Simpson Home,"Pushy kids think they can tell me what to do in my house. I tell you parents these days, they don't know how to rear children."
+41687,183,98,441000,Homer Simpson,Simpson Home,How am I supposed to last five days without shooting something?
+41689,183,100,475000,Homer Simpson,Gun Store,"Come on, come on, open up!"
+41690,183,101,487000,Homer Simpson,Gun Store,"Now, I believe you have some sort of firearm for me."
+41691,183,102,490000,Gun Clerk,Gun Store,"Well, let's see here, uh, according to your background check, you've been in a mental institution..."
+41692,183,103,494000,Homer Simpson,Gun Store,Yuh.
+41693,183,104,495000,Gun Clerk,Gun Store,Frequent problems with alcohol...
+41694,183,105,498000,Homer Simpson,Gun Store,Yeah.
+41695,183,106,499000,Gun Clerk,Gun Store,You beat up President Bush.
+41696,183,107,501000,Homer Simpson,Gun Store,Former President.
+41697,183,108,504000,Homer Simpson,Gun Store,Potentially dangerous?
+41698,183,109,505000,Gun Clerk,Gun Store,"Relax, that just limits you to three handguns or less."
+41699,183,110,509000,Homer Simpson,Gun Store,Woo hoo!
+41701,183,112,510000,Homer Simpson,Simpson Home,"Close your eyes Marge, I've got a surprise for you."
+41703,183,114,516000,Homer Simpson,Simpson Home,Okay. Open your eyes!
+41705,183,116,520000,Homer Simpson,Simpson Home,"Hey, it's a handgun! Isn't it great? This is the trigger... and this is the thing you point at whatever you want to die..."
+41706,183,117,526000,Marge Simpson,Simpson Home,"Homer, I don't want guns in my house! Don't you remember when Maggie shot Mr. Burns?"
+41707,183,118,533000,Homer Simpson,Simpson Home,I thought Smithers did it.
+41708,183,119,534000,Lisa Simpson,Simpson Home,That would have made a lot more sense.
+41709,183,120,536000,Bart Simpson,Simpson Home,"Hey Dad, can I borrow the gun tomorrow? I want to scare that old security guard at the bank."
+41710,183,121,539000,Homer Simpson,Simpson Home,Only if you clean your room.
+41711,183,122,542000,Marge Simpson,Simpson Home,"No! No one's using this gun. The TV said, you're 58 per cent more likely to shoot a family member than an intruder."
+41712,183,123,550000,Homer Simpson,Simpson Home,TV said that? But I have to have a gun. It's in the Constitution.
+41713,183,124,555000,Lisa Simpson,Simpson Home,Dad! The 2nd Amendment is just a remnant from Revolutionary days. It has no meaning today.
+41714,183,125,560000,Homer Simpson,Simpson Home,"You couldn't be more wrong, Lisa. If I didn't have this gun, the King of England could just walk in here any time he wants and start shoving you around. Do you want that? Huh? Do you?"
+41715,183,126,573000,Lisa Simpson,Simpson Home,No...
+41716,183,127,574000,Homer Simpson,Simpson Home,"All right, then."
+41717,183,128,575000,Marge Simpson,Simpson Home,"I'm sorry, Homer. No weapons."
+41718,183,129,578000,Homer Simpson,Simpson Home,"A gun is not a weapon, Marge. It's a tool. Like a butcher knife or a harpoon or... a... a... an alligator. You just need more education on the subject. Tell you what: you come with me to an NRA meeting, and if you still don't think guns are great, we'll argue some more."
+41723,183,132,613000,Lenny Leonard,NRA MEETING,"Assault weapons have gotten a lot of bad press lately, but they're manufactured for a reason: to take out today's modern super-animals, such as the flying squirrel and the electric eel."
+41724,183,133,625000,Homer Simpson,NRA MEETING,"Learnin' somethin', Marge?"
+41726,183,135,629000,Moe Szyslak,NRA MEETING,"Uh, hi, I'm Moe S."
+41727,183,136,631000,Crowd,NRA MEETING,"Hi, Moe."
+41728,183,137,632000,Moe Szyslak,NRA MEETING,"Yeah so, last night I was closing up the bar, when some young punk comes in and tries to stick me up."
+41730,183,139,639000,Sideshow Mel,NRA MEETING,"Whatever did you do, Moe?"
+41731,183,140,640000,Moe Szyslak,NRA MEETING,"Well, it coulda been a real ugly situation, but I managed to shoot him in the spine."
+41733,183,142,649000,Moe Szyslak,NRA MEETING,"Yeah, I guess the next place he robs better have a ramp."
+41735,183,144,656000,Homer Simpson,NRA MEETING,"Hi, I'm Homer S."
+41736,183,145,658000,Crowd,NRA MEETING,"Hi, Homer."
+41737,183,146,659000,Homer Simpson,NRA MEETING,"Hi. It seems to me if a gun can protect something as important as a bar, it's good enough to protect my family. So if you'll have me, I would like to become a lifetime member of your wonderful organization!"
+41738,183,147,676000,Crowd,NRA MEETING,Woo! / Yeah! / Way to go! /
+41739,183,148,676000,Marge Simpson,NRA MEETING,"Homer, you can't join up with these gun nuts."
+41740,183,149,680000,Homer Simpson,NRA MEETING,"Oh, come on, be fair Marge. For once in your life, be fair."
+41743,183,152,704000,Homer Simpson,SHOOTING RANGE,Sorry.
+41744,183,153,706000,Squeaky-Voiced Teen,SHOOTING RANGE,My fault.
+41746,183,155,711000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Oh, don't shoot. Just take the money and get out."
+41747,183,156,714000,Homer Simpson,Kwik-E-Mart,"What? Oh Apu, I would never..."
+41748,183,157,715000,Homer Simpson,Kwik-E-Mart,Or would I?
+148582,183,158,719000,Homer's Brain,Kwik-E-Mart,I've already gone this far... I wonder what my life would be like if I robbed the Kwik-E- Mart?
+41749,183,159,733000,Homer Simpson,Kwik-E-Mart,I'll do it! I'll rob the Kwik-E-Mart.
+41751,183,161,736000,Homer Simpson,Homer's Car,"All right, put your... Oh well, I'll rob it next time."
+41753,183,163,746000,Lisa Simpson,Simpson Home,"Can you help me get my ball down from the roof, Dad?"
+41754,183,164,748000,Homer Simpson,Simpson Home,"Sure thing, honey."
+41755,183,165,755000,Homer Simpson,Simpson Home,You want me to get the cat down?
+41721,183,166,757000,Lisa Simpson,Simpson Home,"No, thanks!"
+41722,183,167,758000,Homer Simpson,Simpson Home,Pull!
+41756,183,168,762000,Bart Simpson,Simpson Home,"Missed one, Dad."
+41757,183,169,766000,Homer Simpson,Simpson Home,"See you in hell, dinner plate."
+41758,183,170,776000,Marge Simpson,Simpson Home,Does anyone know where all my dinner plates went?
+41759,183,171,778000,Bart Simpson,Simpson Home,Uhmm...
+41760,183,172,778000,Homer Simpson,Simpson Home,"Mmm, you probably left them at work. On another topic, guess who was picked to host the next NRA get-together?"
+41761,183,173,787000,Marge Simpson,Simpson Home,"Homer, I told you this morning, no guns at the dinner table."
+41762,183,174,791000,Homer Simpson,Simpson Home,You said the breakfast table.
+41763,183,175,792000,Marge Simpson,Simpson Home,It's the same table!
+41764,183,176,795000,Homer Simpson,Simpson Home,"Listen, if it'll make you feel any better, I'll put the safety on."
+41765,183,177,801000,Homer Simpson,Simpson Home,"Oops, guess it already was on."
+41766,183,178,807000,Homer Simpson,Simpson Home,Uh. I'd better just put it down.
+41767,183,179,814000,Lisa Simpson,Simpson Home,"No offense, Mom, but that was pretty cool."
+41768,183,180,816000,Marge Simpson,Simpson Home,"Homer, I think you'd agree that I've put up with a lot in this marriage."
+41769,183,181,827000,Marge Simpson,Simpson Home,"But this is the first time since we've been married that I've actually feared for our lives. So I'm asking you, if you really care about me and the children, please, please get rid of the gun."
+41770,183,182,848000,Homer Simpson,Simpson Home,"All right, Marge. I'll do it. For you."
+41771,183,183,855000,Marge Simpson,Simpson Home,I'm a lucky woman.
+41772,183,184,857000,Homer Simpson,Simpson Home,And I'm a wonderful man.
+41773,183,185,862000,Bart Simpson,Simpson Home,I don't feel them.
+41774,183,186,864000,Milhouse Van Houten,Simpson Home,"You said there'd be fudge-icles, Bart. Where's the fudge-icles?"
+41775,183,187,868000,Bart Simpson,Simpson Home,"First, it's fudge-cicle... And I know they're up there. I just need a better foothold."
+41776,183,188,875000,Bart Simpson,Simpson Home,Hello.
+41777,183,189,877000,Bart Simpson,Simpson Home,"And the next marksman is... William Tell, Jr.!"
+41778,183,190,881000,Milhouse Van Houten,Simpson Home,Jinx!
+41779,183,191,885000,Marge Simpson,Simpson Home,Bart!
+41780,183,192,887000,Homer Simpson,Simpson Home,"Oh, I see Bart gets to have a gun."
+41781,183,193,889000,Marge Simpson,Simpson Home,You lied to me! You promised to get rid of this gun!
+41782,183,194,894000,Homer Simpson,Simpson Home,"I put it in a safe place, Marge. I mean, what are the odds the boy would look in the vegetable crisper?"
+41783,183,195,900000,Marge Simpson,Simpson Home,"How could you?! Of all the terrible things you've ever done in your life, this is the worst... the most despicable..."
+41784,183,196,910000,Homer Simpson,Simpson Home,"But Marge, I swear to you, I never thought you'd find out!"
+41785,183,197,915000,Marge Simpson,Simpson Home,"Until you decide what's more important - your gun or your family - we can't live in the same house. Come on, kids."
+41786,183,198,924000,Homer Simpson,Simpson Home,So this is the thanks I get for protecting my family? Then go! I'll be just fine!
+41787,183,199,934000,Homer Simpson,Simpson Home,Do you know how to cook dinner?
+41788,183,200,935000,Milhouse Van Houten,Simpson Home,Do I!
+41790,183,202,948000,Marge Simpson,Patty and Selma's Apartment,I've left Homer.
+41791,183,203,949000,Selma Bouvier,Patty and Selma's Apartment,Thank God.
+41792,183,204,950000,Marge Simpson,Patty and Selma's Apartment,So we need a place to spend the night.
+41793,183,205,954000,Selma Bouvier,Patty and Selma's Apartment,Try the Sleep-Eazy Motel. I woke up there once. Seemed nice.
+41794,183,206,958000,Marge Simpson,Patty and Selma's Apartment,Why can't we stay here?
+41795,183,207,959000,Selma Bouvier,Patty and Selma's Apartment,"Uh, we have a gentleman caller."
+41796,183,208,963000,Repairman,Patty and Selma's Apartment,"Hey, this TV's not broken, it's just unplugged! What the..."
+41798,183,210,963000,Homer Simpson,Simpson Home,"Ooo, the gun club's gonna be here any minute!"
+41799,183,211,973000,Homer Simpson,Simpson Home,They're here! They're here!
+41800,183,212,976000,Moe Szyslak,Simpson Home,"Hiya, Homer. I brung ya a big bag of irregular Oreos."
+41801,183,213,983000,Moe Szyslak,Simpson Home,I don't see what's wrong with this one. Oh.
+41803,183,215,998000,Hooker,Motel,"Lookin' for a good time, sailor?"
+41804,183,216,1001000,Bart Simpson,Motel,I certainly am.
+41805,183,217,1002000,Marge Simpson,Motel,No you're not. He's really not.
+41807,183,219,1005000,Moe Szyslak,Simpson Home,"And that's how, with a few minor adjustments, you can turn a regular gun into five guns."
+41808,183,220,1015000,Homer Simpson,Simpson Home,"Here's some more chocolate curls, gun buddies."
+41809,183,221,1021000,Homer Simpson,Simpson Home,Anyone else want a beer?
+41810,183,222,1023000,Dr. Julius Hibbert,Simpson Home,Homer! You use your gun as a can opener?
+41811,183,223,1026000,Homer Simpson,Simpson Home,I use it for everything! Watch me turn on the TV.
+41812,183,224,1033000,Agnes Skinner,Simpson Home,I've never seen such recklessness!
+41813,183,225,1039000,Louie,Simpson Home,You might'a hurt someone!
+41814,183,226,1040000,Cletus Spuckler,Simpson Home,Are you some kind of moron?
+41815,183,227,1043000,Homer Simpson,Simpson Home,"Yeah, but..."
+41816,183,228,1043000,Krusty the Clown,Simpson Home,"Hey, yutz. Guns aren't toys! They're for family protection, hunting dangerous or delicious animals, and keeping the King of England out of your face."
+41817,183,229,1054000,Moe Szyslak,Simpson Home,"Your membership card please, Homer."
+41819,183,231,1058000,Moe Szyslak,Simpson Home,I'll also need to remove your tattoo.
+41820,183,232,1061000,Homer Simpson,Simpson Home,I didn't get one yet.
+41821,183,233,1062000,Moe Szyslak,Simpson Home,Rats.
+41822,183,234,1063000,Dr. Julius Hibbert,Simpson Home,"Now, since you're no longer a member, please go outside until the meeting is over."
+41824,183,236,1073000,Bart Simpson,Motel,"Hey, we got a pool!"
+41825,183,237,1075000,Lisa Simpson,Motel,"Can we go swimmin', Mom?"
+41826,183,238,1076000,Marge Simpson,Motel,"Not right now, dear."
+41827,183,239,1081000,Bart Simpson,Motel,Wow! The TV's coin-operated.
+41828,183,240,1084000,Lisa Simpson,Motel,And so is the Bible!
+41829,183,241,1088000,Bart Simpson,Motel,"I'd like to order a wake-up call, please... three AM... ah, for every room except this one... that's right. Goodnight."
+41830,183,242,1097000,Bart Simpson,Motel,Always love tryin' out new material on the road.
+41831,183,243,1099000,Bart Simpson,Motel,"No way are you gonna to beat me this time, Lis!"
+41832,183,244,1103000,Lisa Simpson,Motel,"Yes I am! Come on, Spotty!"
+41833,183,245,1106000,Bart Simpson,Motel,"Come on, Smelly!"
+41835,183,247,1122000,Homer Simpson,Simpson Home,"This gun cost me everything. My wife, my kids... everything but my precious, precious gun."
+41836,183,248,1132000,Homer Simpson,Simpson Home,This stinks. I want my family back.
+41838,183,250,1136000,Bart Simpson,Motel,"Hey, is that a camera in the ceiling?"
+41839,183,251,1140000,Muffled Voice,Motel,No. Go back to sleep.
+41840,183,252,1141000,Lisa Simpson,Motel,This bed is making me nauseous. Why won't it stop?!
+41841,183,253,1147000,Marge Simpson,Motel,"Honey, it'll be morning soon. Try and get some sleep."
+41843,183,255,1153000,Mayor Joe Quimby,Motel,"Oh, uh, I'm sorry. Are you planning to stay the whole night?"
+41844,183,256,1156000,Marge Simpson,Motel,Yes.
+41845,183,257,1157000,Mayor Joe Quimby,Motel,All right. Vote Quimby.
+41846,183,258,1165000,Homer Simpson,Motel,"Marge? Sorry. Marge? Oh, sorry. Marge?"
+41847,183,259,1170000,Mayor Joe Quimby,Motel,Vote Quimby.
+41848,183,260,1171000,Homer Simpson,Motel,Sorry.
+41849,183,261,1172000,Marge Simpson,Motel,"Down here, Homer."
+41850,183,262,1174000,Homer Simpson,Motel,"Oh, Marge, there's so many things I want to yell to you!"
+41851,183,263,1178000,Marge Simpson,Motel,Come down here.
+41852,183,264,1180000,Homer Simpson,Motel,O-kay!
+41856,183,266,1182000,Homer Simpson,Motel Room,"Oh, honey, please come home. I need you. It's dark in the house and I'm hungry and lonesome. And there's no one there to hear my various witty remarks."
+41857,183,267,1190000,Marge Simpson,Motel Room,What about the gun?
+41858,183,268,1192000,Homer Simpson,Motel Room,"It's gone for good, Marge. I finally realized, what's the point of having a gun for protection if you've got no one to protect?"
+41859,183,269,1200000,Marge Simpson,Motel Room,"Oh, Homie."
+41860,183,270,1204000,Marge Simpson,Motel Room,"C'mon, kids. We're goin' home."
+41861,183,271,1207000,Lisa Simpson,Motel Room,Yayyy!
+41863,183,273,1212000,Desk Clerk,Motel,"Okey doke, here's your bill. And your Continental Breakfast."
+41864,183,274,1222000,Snake Jailbird,Motel,"All right, everybody, hands up! You - give me the cash drawer."
+41865,183,275,1226000,Mayor Joe Quimby,Motel,Do what he says. I'm too rich to die.
+41866,183,276,1231000,Homer Simpson,Motel,"Freeze, bad guy!"
+41867,183,277,1234000,Mayor Joe Quimby,Motel,Vote Quimby.
+41868,183,278,1235000,Snake Jailbird,Motel,"Okay, man, don't shoot. Chill."
+41869,183,279,1238000,Marge Simpson,Motel,Homer! You said you got rid of the gun. You lied to me! Again!
+41870,183,280,1242000,Homer Simpson,Motel,"I know I said that, but what I secretly meant was..."
+41871,183,281,1242000,Snake Jailbird,Motel,Yoink!
+41872,183,282,1248000,Homer Simpson,Motel,"The joke's on you, buddy. There's no bullets in that thing."
+41873,183,283,1254000,Snake Jailbird,Motel,"Yo, give me the bullets."
+41874,183,284,1256000,Homer Simpson,Motel,"Okay, don't shoot!"
+41875,183,285,1258000,Moe Szyslak,Motel,Drop it!
+41876,183,286,1264000,Marge Simpson,Motel,How did you know we were being robbed?
+41877,183,287,1266000,Lenny Leonard,Motel,The clerk here pressed the silent alarm and we picked it up on our scanner.
+41878,183,288,1270000,Lisa Simpson,Motel,Did anyone stop that robber?
+41879,183,289,1271000,Moe Szyslak,Motel,"No, I don't think so."
+41880,183,290,1276000,Homer Simpson,Motel,"I'm sorry I lied to you, Marge. But this gun had a hold on me. I felt this incredible surge of power, like God must feel when he's holding a gun. So please, get rid of it, because I know I'll just lie to you again and again!"

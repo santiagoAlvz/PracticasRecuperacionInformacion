@@ -1,0 +1,311 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+68596,272,3,86000,Marge Simpson,Simpson Kitchen,"What are you reading, Homie?"
+68597,272,4,87000,Homer Simpson,Simpson Kitchen,"The bridge column. Oh, that South. You never know what he'll do next. Hm... Aw. Look at that dad in ""Drabble."" He's like an unfunny version of me."
+68598,272,5,99000,Lisa Simpson,Simpson Kitchen,Where's Bart? His Mountain Dew's getting flat.
+68599,272,6,102000,Marge Simpson,Simpson Kitchen,"That's odd. He's outside, digging."
+68600,272,7,106000,Homer Simpson,Simpson Kitchen,Probably digging for drugs.
+68601,272,8,107000,Marge Simpson,Simpson Kitchen,There's no drugs out there.
+68602,272,9,108000,Homer Simpson,Simpson Kitchen,No. Of course not.
+68603,272,10,110000,Lisa Simpson,Simpson Kitchen,It's not a school project. I'd've heard of it. I'd better go check it out.
+68605,272,12,117000,Lisa Simpson,Simpson Backyard,What are you doing?
+68606,272,13,119000,Bart Simpson,Simpson Backyard,Diggin'.
+68607,272,14,120000,Lisa Simpson,Simpson Backyard,Why?
+68608,272,15,121000,Bart Simpson,Simpson Backyard,Make a hole.
+68609,272,16,122000,Lisa Simpson,Simpson Backyard,A hole for what?
+68610,272,17,123000,Bart Simpson,Simpson Backyard,More diggin'.
+68611,272,18,126000,Lisa Simpson,Simpson Backyard,O-kay then.
+68613,272,20,134000,Homer Simpson,Simpson Backyard,"Don't worry, Marge. I'll find out what he's up to. Kids shouldn't have secrets."
+68614,272,21,139000,Homer Simpson,Simpson Backyard,"Oh hello, young man. Beautiful day for digging, isn't it?"
+68615,272,22,143000,Bart Simpson,Simpson Backyard,Yep.
+68616,272,23,144000,Homer Simpson,Simpson Backyard,"Yeah, uh, digging for anything in particular?"
+68617,272,24,149000,Bart Simpson,Simpson Backyard,Nuh-uh.
+68618,272,25,150000,Homer Simpson,Simpson Backyard,"So, I guess you wouldn't mind if I was to dig a hole of my own."
+68619,272,26,156000,Bart Simpson,Simpson Backyard,Go for it.
+68620,272,27,157000,Homer Simpson,Simpson Backyard,Maybe I will.
+68621,272,28,157000,Bart Simpson,Simpson Backyard,What's stopping you?
+68622,272,29,158000,Homer Simpson,Simpson Backyard,Very little.
+68623,272,30,163000,Homer Simpson,Simpson Backyard,I'm having chest pains!
+68624,272,31,165000,Homer Simpson,Simpson Backyard,Where's the defibrillator?
+68625,272,32,167000,Homer Simpson,Simpson Backyard,Clear!
+68627,272,34,170000,Homer Simpson,Simpson Backyard,This thing pays for itself.
+68628,272,35,174000,Marge Simpson,Simpson Backyard,"Bart, this is Dr. Kaufman. He's a special kind of ""talking doctor."""
+68629,272,36,177000,Dr. Kaufman,Simpson Backyard,"Call me Bob. Well, that's quite a hole you're digging."
+68630,272,37,183000,Bart Simpson,Simpson Backyard,"Thanks, Bob."
+68631,272,38,185000,Dr. Kaufman,Simpson Backyard,"You know, a hole's a great place to hide when people are fighting. Are there angry people in your house?"
+68632,272,39,190000,Bart Simpson,Simpson Backyard,My dad's always yelling that whitey's keepin' him down.
+68633,272,40,193000,Dr. Kaufman,Simpson Backyard,I see...
+68634,272,41,197000,Lisa Simpson,Simpson Backyard,"You keep digging like this, you're gonna go straight through to China."
+68635,272,42,200000,Bart Simpson,Simpson Backyard,"If it happens, it happens."
+68637,272,44,208000,Official,CHINESE MINISTRY OF AGGRESSION,Those inscrutable Americans. What are they up to now?
+68638,272,45,212000,Super-muscular Soldier,CHINESE MINISTRY OF AGGRESSION,I will stop them. I am strong. I am the Great Humongous.
+68639,272,46,217000,Official,CHINESE MINISTRY OF AGGRESSION,We all know you're the Great Humongous.
+68640,272,47,220000,Super-muscular Soldier,CHINESE MINISTRY OF AGGRESSION,"Well, I'm just saying --"
+68641,272,48,222000,Official,CHINESE MINISTRY OF AGGRESSION,"Oh, you're always just saying!"
+68642,272,49,223000,Moe Szyslak,CHINESE MINISTRY OF AGGRESSION,"Homer, is this story goin' anywhere?"
+68644,272,51,226000,Homer Simpson,Moe's Tavern,"Yes. Eventually, I became King of the Morlocks."
+68645,272,52,229000,Carl Carlson,Moe's Tavern,But Morlocks are from the future.
+68646,272,53,231000,Homer Simpson,Moe's Tavern,"You callin' me a liar, Carl?"
+68647,272,54,232000,Moe Szyslak,Moe's Tavern,"Wait a minute, Homer. If it's true, what about all the stuff you weren't around for?"
+68648,272,55,236000,Lenny Leonard,Moe's Tavern,Yeah. How'd you know the Chinese were spyin' on ya?
+68649,272,56,239000,Homer Simpson,Moe's Tavern,"Oh, I just naturally assumed."
+68653,272,57,241000,Moe Szyslak,Moe's Tavern,"That is the stupidest story I ever heard, and I've read the entire Sweet Valley High series. Ha. I am sick of you drunks and your shaggy dog stories."
+68654,272,58,250000,Barney Gumble,Moe's Tavern,"Sorry, Shaggy."
+68655,272,59,253000,Barney Gumble,Moe's Tavern,"Oh, now I gotta go home to that. Thanks a lot."
+68656,272,60,256000,Moe Szyslak,Moe's Tavern,"Ah, quitcher bellyaching, coffee boy. You're lucky I let ya in here."
+68657,272,61,260000,Homer Simpson,Moe's Tavern,"Geez Moe, you've been a real crank lately."
+68658,272,62,262000,Moe Szyslak,Moe's Tavern,You take that back.
+68659,272,63,264000,Homer Simpson,Moe's Tavern,"Now, ya see, that's what I'm talkin' about. You're always pointing that shotgun at us."
+68660,272,64,268000,Lenny Leonard,Moe's Tavern,And callin' us dumb-asses...
+68661,272,65,270000,Carl Carlson,Moe's Tavern,Which we're so not.
+68662,272,66,271000,Moe Szyslak,Moe's Tavern,"But, can you blame me? Every day it's the same old routine. I serve you drinks, you yak on and on and on, and I never get one stinkin' tip."
+68663,272,67,280000,Homer Simpson,Moe's Tavern,Maybe we'd tip you if you'd smile once in a while.
+68664,272,68,283000,Moe Szyslak,Moe's Tavern,What d'ya call this?
+68666,272,70,288000,Carl Carlson,Moe's Tavern,"Shesh, don't do that!"
+68667,272,71,289000,Moe Szyslak,Moe's Tavern,"Ah, who am I kiddin'? I ain't smiled for real since I nailed that rat with the ice pick. Ha, remember that?"
+68668,272,72,295000,Homer Simpson,Moe's Tavern,That was an amazing throw.
+68669,272,73,297000,Moe Szyslak,Moe's Tavern,"Ahh! How did I lose my passion for the job? When I was in bartending school, I thought I had the world by the jigger."
+68670,272,74,304000,Homer Simpson,Moe's Tavern,"Hey, where'd that painting come from?"
+68671,272,75,306000,Moe Szyslak,Moe's Tavern,"Ah, I put this up recently, and it's a good thing I did, 'cause it really illustrates my point. Yep, good ol' Swigmore U."
+68672,272,76,314000,Carl Carlson,Moe's Tavern,"Gee, uh, when you talk about that school, your voice fills with, uh... what do you call it? Human feeling."
+68673,272,77,320000,Lenny Leonard,Moe's Tavern,"Yeah, maybe you should, uh... what's the expression? Go back there."
+68674,272,78,323000,Moe Szyslak,Moe's Tavern,What's the word I'm searching for? Uh... yeah! A trip to the alma mater might really rekindle my love of gettin' people loaded.
+68675,272,79,331000,Carl Carlson,Moe's Tavern,But who'll run the bar while you're gone?
+68676,272,80,333000,Homer Simpson,Moe's Tavern,"Ooh, ooh, pick me!"
+68677,272,81,334000,Lenny Leonard,Moe's Tavern,"Pick me, Lenny!"
+68678,272,82,336000,Carl Carlson,Moe's Tavern,Pick me! I'm an urban Lenny.
+68679,272,83,337000,Moe Szyslak,Moe's Tavern,"Look, I don't wanna start A tinklin' contest here... or do I?"
+68651,272,85,342000,Homer Simpson,ALLEY BEHIND MOE'S,Woo hoo!
+68680,272,86,344000,Carl Carlson,ALLEY BEHIND MOE'S,"Oh, don't look so proud, that was wind-assisted."
+68682,272,88,347000,Moe Szyslak,Moe's Tavern,"... And if anybody wants potato chips or anything fancy, tell 'em to go to hell."
+68683,272,89,350000,Homer Simpson,Moe's Tavern,Can do. Now don't you worry about a thing.
+68685,272,91,356000,Moe Szyslak,Moe's Tavern,"Hey, what are you doin'? I gotta pay for that!"
+68686,272,92,358000,Homer Simpson,Moe's Tavern,No Moe. You've got it all wrong. People buy beer from you.
+68687,272,93,364000,Moe Szyslak,Moe's Tavern,"All right, look, I-I gotta go."
+68688,272,94,372000,Homer Simpson,Moe's Tavern,I thought you said you had to go.
+68690,272,96,382000,Moe Szyslak,UNIVERSITY,"Ah, the old college gates."
+68691,272,97,390000,Moe Szyslak,UNIVERSITY,"Aw, geez. The old college clock."
+68693,272,99,396000,Homer Simpson,Moe's Tavern,"Man, when's the last time Moe cleaned this?"
+68694,272,100,400000,Carl Carlson,Moe's Tavern,"Hey, Homer! Another Duff!"
+68695,272,101,405000,Lenny Leonard,Moe's Tavern,"Hey Homer, do you mind if I bring in some outside food?"
+68696,272,102,408000,Homer Simpson,Moe's Tavern,"Oh, I don't know. What would Moe say about that?"
+68697,272,103,412000,Homer Simpson,Moe's Tavern,"But on the other hand, Moe's not here."
+68698,272,104,418000,Lenny Leonard,Moe's Tavern,"Ah, Homer, you're the greatest."
+68699,272,105,422000,Barney Gumble,Moe's Tavern,Hey!
+68700,272,106,422000,Lenny Leonard,Moe's Tavern,Sorry. Sorry.
+68701,272,107,423000,Homer Simpson,Moe's Tavern,For what? A little splattered food never hurt anybody. Now everybody shut up and dance!
+68702,272,108,446000,Barney Gumble,Moe's Tavern,"Hey, what happened to the music?"
+68703,272,109,448000,Homer Simpson,Moe's Tavern,Don't worry. You gotta hit it just right. Like Fonzie.
+68704,272,110,452000,Homer Simpson,Moe's Tavern,Ayyy!
+68705,272,111,454000,Homer Simpson,Moe's Tavern,Oh! Whoa! Hemorrhage-amundo!
+68706,272,112,457000,Carl Carlson,Moe's Tavern,Are you gonna be okay?
+68707,272,113,458000,Homer Simpson,Moe's Tavern,Ayyy.
+68709,272,115,462000,Prof. Huntington,SWIGMORE U.,Now. Can anyone tell me how much grenadine is in a Cosmopolitan?
+68710,272,116,468000,Moe Szyslak,SWIGMORE U.,None.
+68711,272,117,469000,Moe Szyslak,SWIGMORE U.,A Cosmopolitan is made with cranberry juice.
+68712,272,118,474000,Prof. Huntington,SWIGMORE U.,"Moe Syzslak, you old glass wipe."
+68714,272,120,481000,Homer Simpson,Moe's Tavern,Yello?
+68715,272,121,482000,Bart Simpson,Moe's Tavern,"Yeah, I'd like to speak to a Mr. Tabooger. First name, Ollie."
+68717,272,122,486000,Homer Simpson,Moe's Tavern,"Ooo, Bart! My first prank call. What do I do?"
+68718,272,123,489000,Bart Simpson,Moe's Tavern,Just ask if anyone knows Ollie Tabooger.
+68719,272,124,491000,Homer Simpson,Moe's Tavern,I don't get it.
+68720,272,125,492000,Bart Simpson,Moe's Tavern,"Yell out ""I'll eat a booger."""
+68721,272,126,492000,Homer Simpson,Moe's Tavern,What's the gag?
+68722,272,127,495000,Bart Simpson,Moe's Tavern,"Oh, forget it."
+68724,272,129,501000,Moe Szyslak,Swigmore U. Campus,"Professor, I'm um, I'm burned out on bartending. I, when I first saw the movie Ironweed, I thought, ya know ""this is for me."" But now, well, I'm not so sure."
+68725,272,130,513000,Prof. Huntington,Swigmore U. Campus,Nonsense. You were born to sling suds. The problem must lie elsewhere. Describe your tavern in one word.
+68726,272,131,521000,Moe Szyslak,Swigmore U. Campus,"Uh, is crap-hole one word?"
+68727,272,132,524000,Prof. Huntington,Swigmore U. Campus,"Yes, if it's hyphenated."
+68728,272,133,526000,Moe Szyslak,Swigmore U. Campus,Then I'll stick with crap-hole.
+68729,272,134,527000,Prof. Huntington,Swigmore U. Campus,"Well, no wonder you're depressed, working in that environment. If you want my advice, beautify your hole and you'll beautify your soul."
+68730,272,135,536000,Moe Szyslak,Swigmore U. Campus,"Nice hole, nice soul, hmmm..."
+68731,272,136,541000,Prof. Huntington,Swigmore U. Campus,"Look at that pond. Why does the water sparkle so? I'm dying, Moe."
+68732,272,137,549000,Moe Szyslak,Swigmore U. Campus,Is... is there anything I can do?
+68733,272,138,552000,Prof. Huntington,Swigmore U. Campus,"No, unless you have a cure for cancer. Do you have a cure for cancer? Because that would be great."
+68734,272,139,560000,Moe Szyslak,Swigmore U. Campus,"I'm sorry, professor."
+68735,272,140,561000,Prof. Huntington,Swigmore U. Campus,Goodbye Moe.
+68736,272,141,563000,Moe Szyslak,Swigmore U. Campus,"Bye, Professor."
+68737,272,142,568000,Moe Szyslak,Swigmore U. Campus,"Hey, don't you wanna take your shoes off before you go swimming? Professor? Oh. Oh. Um. Mm."
+68739,272,144,581000,Homer Simpson,Street,"I'M A WALKIN' DOWN THE STREET, GONNA OPEN MOE'S BAR / I'M A SINGIN' WHAT I'M THINKIN' / HEY, LOOK AT THAT DOG."
+68740,272,145,592000,Homer Simpson,Street,Huh?
+68741,272,146,593000,Homer Simpson,Street,Teenage vandals smashing the bar! Moe's gonna kill me.
+68743,272,148,601000,Moe Szyslak,Moe's Tavern,"Hey, Homer."
+68744,272,149,602000,Homer Simpson,Moe's Tavern,You dirty teen.
+68745,272,150,604000,Moe Szyslak,Moe's Tavern,"Hey, Homer stop, stop! It's me! Geez."
+68746,272,151,610000,Homer Simpson,Moe's Tavern,Moe? Wrecking Moe's bar?
+68747,272,152,614000,Homer Simpson,Moe's Tavern,"Wow, well I I almost fainted, but then I didn't. What are you doing?"
+68748,272,153,621000,Moe Szyslak,Moe's Tavern,"My Professor said if I prettied up this dump, it would renew my zeal."
+68749,272,154,625000,Homer Simpson,Moe's Tavern,"And it would look pretty, too."
+68750,272,155,627000,Moe Szyslak,Moe's Tavern,"And now, I want you to meet the guy who's gonna help bring Moe's into the twentieth century."
+68751,272,156,632000,Formico,Moe's Tavern,I am Formico. The Dean of Design.
+68752,272,157,635000,Homer Simpson,Moe's Tavern,"Hi, Formico."
+68753,272,158,636000,Formico,Moe's Tavern,"Ah, ah, ah! My name must never be spoken."
+68754,272,159,638000,Homer Simpson,Moe's Tavern,Sorry. He seems nice.
+68756,272,161,644000,Homer Simpson,Simpson Dining Room,"It's not fair. Just when I was getting to be the world's greatest bartender, it's all snatched away."
+68757,272,162,652000,Homer Simpson,Simpson Dining Room,"Freshen your drink, pal?"
+68758,272,163,653000,Bart Simpson,Simpson Dining Room,Just leave the bottle.
+68759,272,164,655000,Homer Simpson,Simpson Dining Room,"There you go, doll."
+68760,272,165,659000,Homer Simpson,Simpson Dining Room,"Look, buddy, I don't care where you go, but you can't sleep here."
+68762,272,167,665000,Barney Gumble,Springfield,"Wow, check out the new Moe's."
+68763,272,168,667000,Homer Simpson,Springfield,"Wow, It looks like an alien headquarters. Couldn't you just see aliens runnin' out of there? Couldn't ya? Hey, wait up."
+68765,272,170,675000,Carl Carlson,The New Moe's,"Uh, looks like a long wait to get in."
+68766,272,171,680000,Homer Simpson,The New Moe's,Not for friends of Moe's.
+68767,272,172,684000,Doorman,The New Moe's,Hoy. Hoy!
+68768,272,173,685000,Doorman,The New Moe's,Is your name on the list?
+68769,272,174,687000,Homer Simpson,The New Moe's,Don't you know who I am?
+68770,272,175,689000,Moe Szyslak,The New Moe's,"It's okay, Cecil. They're VIPs."
+68771,272,176,691000,Homer Simpson,The New Moe's,Cecil is a girl's name.
+68773,272,178,703000,Moe Szyslak,M,"Welcome to ""m""! Huh? So, what do you think of the new joint?"
+68774,272,179,708000,Lenny Leonard,M,This place looks like it's from the not-too-distant future.
+68775,272,180,711000,Moe Szyslak,M,"Yeah, ya like it, Homer?"
+68776,272,181,712000,Homer Simpson,M,Um... the rabbits are cute.
+68777,272,182,716000,Lenny Leonard,M,"Eh, that one ain't movin'."
+68778,272,183,718000,Moe Szyslak,M,"Uh, change number seven."
+68779,272,184,720000,Carl Carlson,M,"I don't get all this eyeball stuff. Uh, what are they supposed to represent, uh, eyeballs?"
+68780,272,185,725000,Moe Szyslak,M,"It's Po-Mo! Post-modern. Yeah all right, weird for the sake of weird."
+68716,272,187,734000,Carl Carlson,M,"But, where are the bar stools?"
+68652,272,188,736000,Moe Szyslak,M,Up there.
+68782,272,189,737000,Moe Szyslak,M,Ain't it trippy?
+68783,272,190,738000,Homer Simpson,M,"Ah, whatever. Just give me a Duff."
+68784,272,191,740000,Moe Szyslak,M,We don't serve Duff no more. We got a Malaysian beer that's better than Duff... It's made outta soy sauce.
+68785,272,192,746000,Homer Simpson,M,"Ah, whatever. Just give me a Duff."
+68786,272,193,748000,Moe Szyslak,M,"Hey, Formico! Uh, say hello to my beloved regulars."
+68787,272,194,752000,Formico,M,"Oh, hello."
+68788,272,195,757000,Formico,M,"Moe, would you like to meet some attractive young models?"
+68789,272,196,760000,Moe Szyslak,M,Models?! Ha. Oh boy!
+68790,272,197,767000,Homer Simpson,M,"Okay, look cool."
+68791,272,198,771000,Moe Szyslak,M,Wait a minute. You're all from Russia?
+68792,272,199,773000,Models,M,Da!
+68793,272,200,775000,Moe Szyslak,M,"And you really think I'm attractive, huh?"
+68794,272,201,777000,Models,M,Da.
+68795,272,202,780000,Barney Gumble,M,What's so great about this oxygen bar?
+68796,272,203,783000,Carl Carlson,M,"Hey, I think I'm gettin' the bends. Uh, Lenny, stand on my chest."
+68797,272,204,787000,Lenny Leonard,M,I'm trapped!
+68798,272,205,788000,Lenny Leonard,M,This is creative design run amok!
+68799,272,206,790000,Homer Simpson,M,That's it!
+68800,272,207,792000,Homer Simpson,M,I'm gonna tell Moe exactly what I think of his...
+68802,272,209,800000,Model #2,M,"After Chernobyl, my penis, is falling off."
+68803,272,210,804000,Moe Szyslak,M,"And ""penis"" is Russian for..."
+68804,272,211,806000,Homer Simpson,M,"Moe, we want our bar back."
+68805,272,212,808000,Lenny Leonard,M,"Yeah, this place is crazy."
+68806,272,213,809000,Carl Carlson,M,All these beautiful people make us feel like losers.
+68807,272,214,812000,Moe Szyslak,M,"Eh, you'd be having a great time if you'd stayed in your dark spot."
+68808,272,215,815000,Homer Simpson,M,"Oh, so you're ashamed of us. Well, you've turned into a big phony."
+68809,272,216,819000,Moe Szyslak,M,"Hey, nobody calls Moe St. Cool a phony."
+68810,272,217,823000,Model #1,M,All of this yelling is taking away my horny.
+68811,272,218,826000,Moe Szyslak,M,"Is it? Oh, well that's it. That's-- Dagmar, Julian, throw this bum out."
+68812,272,219,832000,Homer Simpson,M,"I'll throw myself out, thank you."
+68813,272,220,838000,Homer Simpson,M,I believe I had a hat.
+68814,272,221,842000,Homer Simpson,M,Suckers!
+68816,272,223,851000,Bart Simpson,Simpson Garage,"Whatcha doin', Dad?"
+68817,272,224,852000,Homer Simpson,Simpson Garage,I think it's pretty obvious. I'm turning our garage into a tavern. The kind Moe's used to be.
+68818,272,225,859000,Lisa Simpson,Simpson Garage,This is pretty far to go just to spite Moe.
+68819,272,226,862000,Homer Simpson,Simpson Garage,It's not about spite. It's about petty revenge and getting back at that traitor Moe. Now help me nail up this urinal.
+68820,272,227,874000,Homer Simpson,Simpson Garage,Beautiful.
+68821,272,228,876000,Marge Simpson,Simpson Garage,Running a bar is a full-time job and you don't even do your full-time job.
+68822,272,229,881000,Homer Simpson,Simpson Garage,"But when I'm passionate about something, I see it through to the end."
+68823,272,230,886000,Sad Robot,Simpson Garage,"Father, give me legs."
+68824,272,231,894000,Sad Robot,Simpson Garage,Father.
+68826,272,233,908000,Female Bargoer,M,That is so interesting.
+68827,272,234,911000,Moe Szyslak,M,"So what you talkin' 'bout? Uh, somethin' interesting?"
+68828,272,235,913000,Male Bargoer,M,I was just comparing Kurasawa's films to Herzog's.
+68829,272,236,917000,Moe Szyslak,M,Uh-huh. Carry on.
+68830,272,237,920000,Customer #1,M,My diet lets me eat anything I want for one minute a day.
+68831,272,238,923000,Customer #2,M,"My youth consultant gives me Botox injections in my head, neck and navel."
+68833,272,240,929000,Moe Szyslak,M,"Hiya, pal. So, uh, how about them current events?"
+68834,272,241,934000,Moe Szyslak,M,"Oh, you got one of them cell phone, huh?"
+68835,272,242,936000,Moe Szyslak,M,"Yeah, no, no cord at all... on those. Hey, game's on!"
+68836,272,243,942000,Bargoers,M,"Oh, sports! / Hey, where's the eyeball?! Come on!"
+68837,272,244,946000,Male Bargoer,M,"Unless you're being ironic, turn that off now!"
+68839,272,246,952000,Moe Szyslak,M,I'm glad you ain't around to see what a mess I made.
+68840,272,247,955000,Prof. Huntington,M,"Oh, but I am."
+68841,272,248,958000,Moe Szyslak,M,Whaaa?
+68842,272,249,960000,Prof. Huntington,M,You've discarded your loyal regulars for a mob of soulless snobs.
+68843,272,250,964000,Moe Szyslak,M,"Well, at least the tips are good."
+68844,272,251,966000,Prof. Huntington,M,"Are they, Moe? Take a look."
+68847,272,254,974000,Moe Szyslak,M,"Hey, why ya mockin' me? We're friends."
+68848,272,255,976000,Prof. Huntington,M,"Oh, right. Sorry."
+68851,272,258,978000,Barney Gumble,Homer's Garage,I WON'T DRINK AT MOE'S / HOMER'S OLD GARAGE IS ALL I NE-ED / I WON'T DRINK AT MOE'S...
+68852,272,259,985000,Homer Simpson,Homer's Garage,'CAUSE MOE'S A BIG JERK AND A SHE-MALE TOO!
+68854,272,260,988000,Lenny Leonard,Homer's Garage,That calls for another beer.
+68855,272,261,989000,Homer Simpson,Homer's Garage,Barkeep!
+68856,272,262,991000,Marge Simpson,Homer's Garage,I thought this was gonna be your bar.
+68857,272,263,993000,Homer Simpson,Homer's Garage,"It's the family bar. Right, kids?"
+68858,272,264,995000,Lisa Simpson,Homer's Garage,Can we go to bed now?
+68859,272,265,997000,Homer Simpson,Homer's Garage,As soon as you finish cutting up those lemons.
+68860,272,266,1000000,Lisa Simpson,Homer's Garage,But you're not even using them.
+68861,272,267,1002000,Homer Simpson,Homer's Garage,"She's so sleepy, she doesn't know what she's saying. Hee, hee."
+68862,272,268,1007000,Barney Gumble,Homer's Garage,Awww...
+68864,272,270,1011000,Moe Szyslak,Street,Who am I kidding? I ain't Moe St. Cool.
+68865,272,271,1020000,Moe Szyslak,Street,"How could I toss my friends out into the cold, with no place to get liquored up?"
+68866,272,272,1029000,Moe Szyslak,Street,"Hey, what's going on?"
+68868,272,274,1034000,Homer Simpson,Simpson Garage,We're rockin' great!
+68869,272,275,1036000,REM,Simpson Garage,Leonard Bernstein...
+68870,272,276,1039000,REM,Simpson Garage,It's the end of the world as we know it...
+68871,272,277,1048000,Lenny Leonard,Simpson Garage,How'd you get REM to play in your garage?
+68872,272,278,1051000,Homer Simpson,Simpson Garage,I told them it was a benefit. They think they're saving the rainforest.
+68873,272,279,1058000,Carl Carlson,Simpson Garage,Suckers...
+68875,272,281,1065000,Peter Buck,Simpson Garage,"Michael, are you sure these guys are millionaires?"
+68876,272,282,1067000,Michael Stipe,Simpson Garage,"C'mon, would a poor person have a bar in his garage?"
+68877,272,283,1069000,Mike Mills,Simpson Garage,"Hey, guys..."
+68878,272,284,1070000,Mike Mills,Simpson Garage,Stand around me. I can't go with Lenny watching.
+68879,272,285,1074000,Lenny Leonard,Simpson Garage,"Gotta pee, huh?"
+68880,272,286,1075000,Mike Mills,Simpson Garage,"Oh, forget it."
+68881,272,287,1078000,Moe Szyslak,Simpson Garage,What the-- You can't open your own bar!
+68882,272,288,1081000,Homer Simpson,Simpson Garage,Seems to me I already did.
+68883,272,289,1082000,Moe Szyslak,Simpson Garage,But it's illegal! You can't run a bar in a private residence.
+68884,272,290,1086000,Homer Simpson,Simpson Garage,"Bar? I see no bar. This is a hunting club...Which is permitted by state law ""to serve beverages of a refreshing nature."""
+68885,272,291,1091000,Moe Szyslak,Simpson Garage,Hunting club?!
+68886,272,292,1098000,Michael Stipe,Simpson Garage,You lied to us!
+68888,272,294,1098000,Mike Mills,Simpson Garage,"Michael, no!"
+68889,272,295,1101000,Peter Buck,Simpson Garage,That's not the REM way.
+68891,272,296,1103000,Michael Stipe,Simpson Garage,You're right. Let's recycle those shards and get out of here.
+68892,272,297,1114000,Moe Szyslak,Simpson Garage,"Ah, here we go. It also says, ""a licensed hunting club must actively engage in the sport of hunting."""
+68893,272,298,1115000,Homer Simpson,Simpson Garage,"Which I'll be doing tomorrow morning, smart guy."
+68894,272,299,1123000,Lisa Simpson,Simpson Garage,"Hunting? Dad, no!"
+68895,272,300,1125000,Homer Simpson,Simpson Garage,Lemons...
+68898,272,303,1130000,Lisa Simpson,Woods,"It's not fair, Dad. Why should an animal die just because you and Moe are fighting?"
+68899,272,304,1135000,Homer Simpson,Woods,It's the law. My hands are tied.
+68900,272,305,1137000,Homer Simpson,Woods,"Okay, cranberry sauce, stuffing, potatoes. Come on, turkey. Join your friends."
+68901,272,306,1143000,Lisa Simpson,Woods,Do you really think the turkey's just gonna climb onto the plate?
+68902,272,307,1146000,Homer Simpson,Woods,I would.
+68904,272,309,1148000,Moe Szyslak,WIDE SHOT OF WOODS,Psst. Lisa.
+68905,272,310,1151000,Lisa Simpson,WIDE SHOT OF WOODS,Moe?
+68906,272,311,1152000,Moe Szyslak,WIDE SHOT OF WOODS,"Listen, I don't like you and you don't like me. But we both want to stop Homer from shootin' a turkey."
+68907,272,312,1157000,Lisa Simpson,WIDE SHOT OF WOODS,You don't like me? I like you.
+68908,272,313,1159000,Moe Szyslak,WIDE SHOT OF WOODS,"You do? Then I like you, too. Here, have a towelette."
+68909,272,314,1163000,Homer Simpson,WIDE SHOT OF WOODS,"Here, turkey, turkey... Turkey, turkey, turkey, turkey, turkey..."
+68910,272,315,1168000,Homer Simpson,WIDE SHOT OF WOODS,Nobody's gonna kill you.
+68911,272,316,1170000,Moe Szyslak,WIDE SHOT OF WOODS,"All right, from now on, no talkin'. If you want to signal me, use this bird call:"
+68912,272,317,1176000,Moe Szyslak,WIDE SHOT OF WOODS,Oh! Oh! Not the face!
+68913,272,318,1179000,Moe Szyslak,WIDE SHOT OF WOODS,"Ooh! Ooh! Okay, the face!"
+68914,272,319,1183000,Moe Szyslak,WIDE SHOT OF WOODS,"Oh, that actually feels good after the... after the crotch."
+68916,272,321,1187000,Homer Simpson,Forest,"All right turkey. Where are you? Turkeys, the only animal smarter than man."
+68917,272,322,1195000,Homer Simpson,Forest,What the hell is that?
+68919,272,324,1197000,Homer Simpson,Forest,A turkey!
+68920,272,325,1199000,Lisa Simpson,Forest,Dad's gonna slaughter that poor turkey!
+68921,272,326,1202000,Moe Szyslak,Forest,Not if I scare it away with this cougar call.
+68922,272,327,1208000,Lisa Simpson,Forest,"You did it, Moe!"
+68923,272,328,1212000,Homer Simpson,Forest,"A cougar! Die, cougar!"
+68924,272,329,1216000,Moe Szyslak,Forest,"My leg! Aww, geez!"
+68925,272,330,1218000,Homer Simpson,Forest,Got that cat right in the leg.
+68926,272,331,1220000,Lisa Simpson,Forest,"Dad, you shot Moe!"
+68927,272,332,1222000,Homer Simpson,Forest,"Oh, no! This time I really am gonna faint!"
+68928,272,333,1228000,Homer Simpson,Forest,Son of a...
+68930,272,335,1230000,Lisa Simpson,Moe's Tavern,"How'd they get your bar back to normal so quickly, Moe?"
+68931,272,336,1232000,Moe Szyslak,Moe's Tavern,It's a snap when you use Certified Contractors.
+68932,272,337,1235000,Bart Simpson,Moe's Tavern,Like the ones found in your local Yellow Pages.
+68933,272,338,1237000,Moe Szyslak,Moe's Tavern,Exactly.
+68934,272,339,1240000,Homer Simpson,Moe's Tavern,"I'm sorry I shot you, Moe."
+68935,272,340,1242000,Moe Szyslak,Moe's Tavern,"Ah, that's okay. It's like my Dad always said, ""Eventually everybody gets shot."""
+68936,272,341,1244000,Marge Simpson,Moe's Tavern,"Aw, I'm glad you two are friends again so we can all have Thanksgiving dinner together in this bar."
+68937,272,342,1255000,Homer Simpson,Moe's Tavern,"Hey, who invited the hippies?"
+68938,272,343,1257000,Lisa Simpson,Moe's Tavern,"I did. You owe REM an apology for, eco-fraud."
+68939,272,344,1261000,Homer Simpson,Moe's Tavern,"All right, I'm sorry... but I will not save the rainforest."
+68940,272,345,1266000,Peter Buck,Moe's Tavern,Good enough. Let's eat.
+68941,272,346,1268000,Lisa Simpson,Moe's Tavern,"And we should all be thankful to Michael, Peter and Mike for supplying this beautiful turkey, made entirely of tofu."
+68942,272,347,1276000,Mike Mills,Moe's Tavern,Tofu and gluten!
+68943,272,348,1278000,Bart Simpson,Moe's Tavern,I'm thankful I ate before I came.
+68944,272,349,1280000,Michael Stipe,Moe's Tavern,"Oh, come on, Bart. Smell those curds! Mmmmm, curds."
+68945,272,350,1287000,Homer Simpson,Moe's Tavern,"And I'm thankful I get to spend Thanksgiving with my family, these alternative rockers, and my favorite bartender."
+68946,272,351,1295000,Moe Szyslak,Moe's Tavern,"Ah, here you go, pal."
+68947,272,352,1296000,Homer Simpson,Moe's Tavern,And here you go.

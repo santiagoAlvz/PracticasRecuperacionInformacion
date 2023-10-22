@@ -1,0 +1,238 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+59032,241,2,87000,Bart Simpson,Simpson Home,You're watching PBS?!
+59033,241,3,90000,Homer Simpson,Simpson Home,"Hey, I'm as surprised as you, but I've stumbled upon the most delicious British sit-com."
+59034,241,4,95000,Bart Simpson,Simpson Home,"""Do Shut Up""?"
+59035,241,5,97000,Homer Simpson,Simpson Home,"It's about a hard-drinking, yet loving family of soccer hooligans. If they're not having a go with a bird, they're having a row with a wanker."
+59036,241,6,105000,Bart Simpson,Simpson Home,Cheeky.
+59037,241,7,113000,Teen-aged Hooligan,Simpson Home,"Jolly sodding X-mas, Major. Choke on it!"
+59039,241,9,120000,Father,Simpson Home,"Ohhhh, Crikey! You gave me a smash on the noggin last year!"
+59040,241,10,127000,Mother,Simpson Home,"Not in my parlor, you don't!"
+59041,241,11,131000,Teen-aged Hooligan,Simpson Home,"Me eyes! / Oh, I'm scalded, I am!"
+59042,241,12,136000,Homer Simpson,Simpson Home,The Mother's the voice of reason.
+59043,241,13,138000,Bart Simpson,Simpson Home,Here come the cricket bats.
+59044,241,14,141000,Mother,Simpson Home,You don't have the cobbles!
+59045,241,15,145000,Host,Simpson Home,"Classic. Not hard to see why it's England's longest-running series. And today, we're showing all seven episodes."
+59046,241,16,152000,Homer Simpson,Simpson Home,"Hey, what the hell's going on?!"
+59047,241,17,153000,Betty White,Simpson Home,"If you like great PBS programs like ""Do Shut Up,"" and ""Shut Yer Gob,"" you'll want to support our pledge drive."
+59048,241,18,160000,Bart Simpson,Simpson Home,Pledge drive?
+59049,241,19,162000,Host,Simpson Home,"That's right, Betty White."
+59050,241,20,163000,Betty White,Simpson Home,"Absolutely. If you watch even one second of PBS and don't contribute, you are a thief! A common thief."
+59051,241,21,171000,Host,Simpson Home,"Okay, take it easy, Betty."
+59052,241,22,172000,Betty White,Simpson Home,"Sorry, but these thieves make me so damn mad! You know who you are. Thieves!"
+59053,241,23,177000,Homer Simpson,Simpson Home,You're mad? Where's my show!?
+59054,241,24,179000,Host,Simpson Home,"And now, it's time to go back to ""Do Shut Up."""
+59055,241,25,180000,Homer Simpson,Simpson Home,Finally.
+59056,241,26,181000,Host,Simpson Home,But first --
+59057,241,28,183000,Host,Simpson Home,"... with your donation, you'll receive this classic PBS tote bag."
+59058,241,29,187000,Betty White,Simpson Home,"Or this umbrella, featuring a picture of our classic tote bag."
+59059,241,30,191000,Host,Simpson Home,And the next twenty callers will get this album of Museum Noises. Now your music room can sound just like... the Metropolitan Museum in New York --
+59060,241,31,203000,Host,Simpson Home,Outstanding.
+59061,241,32,205000,Homer Simpson,Simpson Home,Why are you torturing me? I'm just a man.
+59062,241,33,207000,Betty White,Simpson Home,"You know, I've worked with so many legendary actors over the years who could be counted on to ""phone it in"". Well, now it's your turn to phone it in -- your pledge, that is. Please, please, we're only ten thousand dollars away from returning to our show."
+59063,241,34,224000,Homer Simpson,Simpson Home,"Well, why didn't you say so?"
+59064,241,35,230000,Homer Simpson,Simpson Home,"Yes, I'd like to pledge ten thousand dollars to get them to shut up. From... anonymous."
+59065,241,36,235000,Homer Simpson,Simpson Home,Done and done.
+59066,241,37,237000,Bart Simpson,Simpson Home,"Dad, you don't have ten thousand dollars."
+59067,241,38,239000,Homer Simpson,Simpson Home,"Eh, how're they gonna find me?"
+59069,241,40,240000,Betty White,Springfield Public TV Studio,"Folks, we just reached our goal of ten thousand, seven hundred dollars. And it's all thanks to one generous caller who didn't leave his name."
+59071,241,42,253000,Betty White,Springfield Public TV Studio,"But, thanks to Insta-trace, we've learned it's Homer Simpson, of 742 Evergreen Terrace."
+59072,241,43,258000,Homer Simpson,Springfield Public TV Studio,"Oh, why did I register with Insta-trace?"
+59073,241,44,261000,Betty White,Springfield Public TV Studio,Our pledge-enforcement van will be at his house in moments.
+59074,241,45,264000,Homer Simpson,Springfield Public TV Studio,"Uh-oh. You've gotta help me, Bart."
+59075,241,46,266000,Homer Simpson,Springfield Public TV Studio,"That's it, boy! Go get help!"
+59078,241,49,280000,Homer Simpson,Simpson Home,"Okay Homer, don't panic. Let me do the talking."
+59079,241,50,284000,Host,Simpson Home,"Here he is, folks! The man who saved PBS... Homer Simpson!"
+59081,241,52,294000,Lisa Simpson,Try-N-Save,"Mom, Dad's on PBS!"
+59082,241,53,296000,Marge Simpson,Try-N-Save,"They don't show police chases, do they?"
+59083,241,54,299000,Homer Simpson,Try-N-Save,"Umm... It's an honor to give ten thousand dollars, especially now, when the rich mosaic of cable programming has made public television so very, very unnecessary."
+59084,241,55,313000,Marge Simpson,Try-N-Save,"From now on, one of us always stays home."
+59085,241,56,315000,Lisa Simpson,Try-N-Save,Agreed.
+59087,241,58,317000,Betty White,Simpson Home,"Well said, Homer. And now, for the moment of generosity..."
+59088,241,59,321000,Homer Simpson,Simpson Home,Will cash be okay?
+59089,241,60,321000,Betty White,Simpson Home,Absolutely.
+59090,241,61,323000,Homer Simpson,Simpson Home,"Well, then we've got a problem. The banks are closed by now."
+59091,241,62,326000,Betty White,Simpson Home,It's 12:15.
+59092,241,63,327000,Homer Simpson,Simpson Home,"Maybe your movie star banks are open crazy hours, but we in Springfield are simple folk. We like our cars fast, and our banks closed. Okay, fine, we'll go down there. But they're not going to be open."
+59094,241,65,341000,Homer Simpson,First National Bank of Springfield,"Yeah, it's a real ghost town in there."
+59095,241,66,347000,Host,First National Bank of Springfield,Get in there.
+59096,241,67,349000,Homer Simpson,First National Bank of Springfield,"I'd like to withdraw ten thousand dollars, please."
+59097,241,68,353000,Teller,First National Bank of Springfield,"""You are on television. Please play along."" Are you robbing me?"
+59098,241,69,357000,Homer Simpson,First National Bank of Springfield,I'll pay you later.
+59099,241,70,358000,Host,First National Bank of Springfield,"Um... Is there a problem, Mr. Simpson?"
+59100,241,71,360000,Homer Simpson,First National Bank of Springfield,"Uh, why, no. Uh... Everything is just..."
+59101,241,72,365000,Homer Simpson,First National Bank of Springfield,I can't do it. I can't kill a man!
+59102,241,73,373000,Betty White,First National Bank of Springfield,"You don't have the money, do you Homer?"
+59103,241,74,376000,Homer Simpson,First National Bank of Springfield,Mm-mm.
+59104,241,75,378000,Betty White,First National Bank of Springfield,And you thought you could stab your problems away?
+59105,241,76,380000,Homer Simpson,First National Bank of Springfield,Mm-hmm.
+59106,241,77,381000,Betty White,First National Bank of Springfield,"Silly goose. Why didn't you say so? Get 'im, boys."
+59107,241,78,386000,Homer Simpson,First National Bank of Springfield,The Hooligans!
+59108,241,79,387000,Father,First National Bank of Springfield,Bash 'is eyes out!
+59110,241,81,394000,Mr. Rogers,Springfield Street,It's a beautiful day to kick your ass!
+59111,241,82,398000,Yo-Yo Ma,Springfield Street,You die now!
+59113,241,84,411000,Homer Simpson,Springfield Street,Bingo!
+59115,241,86,417000,Homer Simpson,First Church of Springfield,Sanctuary!
+59116,241,87,419000,Homer Simpson,First Church of Springfield,Sanctuary!
+59117,241,88,422000,Rev. Timothy Lovejoy,First Church of Springfield,"Oh, why did I teach him that word?"
+59118,241,89,425000,Homer Simpson,First Church of Springfield,Quick! You've got to hide me from PBS! Their bloodthirsty pursuit is made possible by a grant from the Chubb Group!
+59119,241,90,433000,Oskar,First Church of Springfield,Give us the money!
+59120,241,91,435000,Ellmeaux,First Church of Springfield,Ellmeaux knows where you live.
+59121,241,92,437000,Homer Simpson,First Church of Springfield,Please help me! I'll do anything! I'll light a candle! I'll help with your next charity scam!
+59122,241,93,441000,Rev. Timothy Lovejoy,First Church of Springfield,"The word is ""drive."""
+59123,241,94,441000,Homer Simpson,First Church of Springfield,"Sure, sure, Bob's your uncle. Let's just get outta here!"
+59124,241,95,453000,Rev. Timothy Lovejoy,First Church of Springfield,"Nothing to see here, people. Just headed down to the dump with these children's letters to God."
+59127,241,98,466000,Rev. Timothy Lovejoy,PROP-PLANE,We'll send you someplace safe till the heat dies down.
+59128,241,99,470000,Homer Simpson,PROP-PLANE,"Great, but why am I on a plane?"
+59129,241,100,472000,Rev. Timothy Lovejoy,PROP-PLANE,"Homer, how would you like to be a missionary in the South Pacific?"
+59130,241,101,476000,Homer Simpson,PROP-PLANE,South Pacific?! I didn't agree to...
+59132,241,103,482000,Homer Simpson,PROP-PLANE,Wha -- Wait! I'm no missionary! I don't even believe in Jebus! Let me out!
+59133,241,104,487000,Pilot,PROP-PLANE,"Sorry, no can do."
+59134,241,105,492000,Homer Simpson,PROP-PLANE,"Oh, save me Jebus!"
+59136,241,107,513000,Rev. Timothy Lovejoy,Simpson Home,Little piece there... Mmm.
+59137,241,108,518000,Marge Simpson,Simpson Home,"So, you said on the phone you had something to tell me?"
+59138,241,109,521000,Rev. Timothy Lovejoy,Simpson Home,"Mmm? Oh, yes. Your husband's in Microatia."
+59140,241,111,525000,Lisa Simpson,Simpson Home,Microatia? That's twelve thousand miles away.
+59141,241,112,527000,Rev. Timothy Lovejoy,Simpson Home,"Uh-huh. He needed to get away for a while. I suggested missionary work, and he jumped at the idea."
+59142,241,113,533000,Marge Simpson,Simpson Home,Missionary work?
+59143,241,114,534000,Bart Simpson,Simpson Home,"He's dead, isn't he?"
+59144,241,115,536000,Rev. Timothy Lovejoy,Simpson Home,"No, no. You can even keep in touch with him on this ham radio."
+59145,241,116,541000,Homer Simpson,Simpson Home,"Jebus, where are you?! Homer to Jebus!"
+59147,241,118,545000,Homer Simpson,Tropical Island,Hmm... This doesn't look so bad.
+59148,241,119,558000,Homer Simpson,Tropical Island,"Aww. Hi there, little fella."
+59150,241,121,568000,Craig,Tropical Island,"Welcome aboard, brother!"
+59151,241,122,569000,Craig,Tropical Island,"You must be Homer! I'm Craig, that's Amy. Well, see ya."
+59152,241,123,573000,Homer Simpson,Tropical Island,"You're leaving? Wait, what do I do here?"
+59153,241,124,576000,Amy,Tropical Island,"First of all, forget everything you learned in missionary school."
+59154,241,125,579000,Homer Simpson,Tropical Island,Done.
+59155,241,126,580000,Craig,Tropical Island,"We taught them some English, and ridiculed away most of their beliefs."
+59156,241,127,584000,Amy,Tropical Island,So you can take it from there. Bye.
+59157,241,128,586000,Craig,Tropical Island,Don't let the bed bugs bite. Seriously.
+59158,241,129,595000,Homer Simpson,Tropical Island,Me Homer. Me hiding from PBS.
+59159,241,130,599000,Qtoktok,Tropical Island,"I am Qtoktok, and this is Ak."
+59160,241,131,604000,Ak,Tropical Island,"Welcome, Reverend Homer. We look forward to learning about the Bible from you."
+59161,241,132,609000,Homer Simpson,Tropical Island,Here you go. Knock yourself out.
+59162,241,133,611000,Qtoktok,Tropical Island,We can not read.
+59163,241,134,612000,Homer Simpson,Tropical Island,"Does the word ""jet-lag"" mean anything to you people? ""Jet-laggg""."
+59164,241,135,621000,Qtoktok,Tropical Island,Are you enjoying your ox testicle?
+59165,241,136,623000,Homer Simpson,Tropical Island,"Oh, yes. Very much so."
+59166,241,137,625000,Qtoktok,Tropical Island,Really? You sure you wouldn't rather have a coconut? They're delicious.
+59167,241,138,631000,Homer Simpson,Tropical Island,"No, I'm good."
+59168,241,139,635000,Homer Simpson,Tropical Island,"Hey, what happened to all the shirtless girls you see in all the geographical magazines?"
+59169,241,140,640000,Qtoktok,Tropical Island,Craig and Amy gave us the gift of shame. All the naked women are on that island.
+59170,241,141,647000,Ak,Tropical Island,"Yeah, anything goes over there. Bouncy, bouncy."
+59172,241,143,652000,Homer Simpson,Tropical Island,What was that?
+59173,241,144,653000,Qtoktok,Tropical Island,"Oh, we call that . Sorry, fish bone in my throat. We call that ""earthquake."""
+59174,241,145,660000,Homer Simpson,Tropical Island,Great. Now my testicle's got ants on it.
+59175,241,146,667000,Homer Simpson,Tropical Island,"Thanks, sweetheart. Have a Bible. My name's Homer. What's yours?"
+59176,241,147,672000,Girl,Tropical Island,I am Oovilu-eeoo-kitana-wanjay.
+59177,241,148,676000,Homer Simpson,Tropical Island,"I'm gonna call you Lisa Junior. So, what do you do for fun around here?"
+59178,241,149,682000,Qtoktok,Tropical Island,Craig and Amy were digging a well.
+59179,241,150,685000,Ak,Tropical Island,Craig and Amy were also building a chapel.
+59180,241,151,688000,Homer Simpson,Tropical Island,"Craig and Amy, Craig and Amy. Why don't you just marry Craig and Amy?"
+59181,241,152,692000,Qtoktok,Tropical Island,I told you we should have asked them.
+59182,241,153,694000,Homer Simpson,Tropical Island,"So, how's the TV reception here? Excellent, or...?"
+59183,241,154,697000,Qtoktok,Tropical Island,T...V?
+59184,241,155,699000,Homer Simpson,Tropical Island,You don't have TV? But what will I watch while I'm sitting on the couch?
+59185,241,156,703000,Ak,Tropical Island,Cou-ouch?
+59186,241,157,704000,Homer Simpson,Tropical Island,"No couches either? Oh, man. I need a beer."
+59187,241,158,712000,Homer Simpson,Tropical Island,"Oh, God! Oh, God! Oh, God! Oh, God!"
+59188,241,159,714000,Natives,Tropical Island,"Oh, God. Oh, God. Oh, God! Oh, God!"
+59189,241,160,725000,Homer Simpson,Tropical Island,Nothin'.
+59190,241,161,728000,Homer Simpson,Tropical Island,Here we go. Ee-yeah.
+59191,241,162,731000,Marge Simpson,Tropical Island,Homer? Homer?
+59193,241,164,736000,Marge Simpson,Tropical Island,Hello? Is there anybody in there?
+59194,241,165,741000,Homer Simpson,Tropical Island,Marge!
+59195,241,166,743000,Marge Simpson,Tropical Island,"Homer, are you all right?"
+59196,241,167,745000,Homer Simpson,Tropical Island,"I guess so, but that first month was pretty rough."
+59197,241,168,747000,Marge Simpson,Tropical Island,You've only been gone two days.
+59198,241,169,749000,Homer Simpson,Tropical Island,"Really? Without TV, it's hard to know when one day begins and the other ends."
+59199,241,170,753000,Bart Simpson,Tropical Island,"I miss you, Dad. Mom won't let me read ""Hagar the Horrible."""
+59200,241,171,756000,Marge Simpson,Tropical Island,I just don't think it's funny!
+59201,241,172,758000,Homer Simpson,Tropical Island,"Mmm, I can see the house is falling apart without me, so here's the new order: Bart, you're the man of the house. Lisa -- I'm promoting you to boy. Maggie's now the brainy girl. The toaster can fill in for Maggie. And Marge, you're a consultant."
+59203,241,174,773000,Lisa Simpson,Tropical Island,Dad?
+59204,241,175,774000,Homer Simpson,Tropical Island,"Yes, boy?"
+59205,241,176,775000,Lisa Simpson,Tropical Island,I just want to tell you how proud I am that you're showing an interest in your fellow man.
+59206,241,177,779000,Homer Simpson,Tropical Island,Really? You're proud of me?
+59207,241,178,782000,Marge Simpson,Tropical Island,"Oh, yes. The whole town thinks you're a real humanitarian. Ned Flanders is green with envy."
+59208,241,179,789000,Homer Simpson,Tropical Island,"Oh, really? Well, if you'll excuse me, I've got some civilization to spread like butter on the English muffin that is these people, with all their little nooks and crannies..."
+59209,241,180,801000,Bart Simpson,Tropical Island,"Dad, are you licking toads?"
+59210,241,181,803000,Homer Simpson,Tropical Island,"Well, I'm not not licking toads... Well, it's time to get to work. Humanitarian Homer Simpson, over and out."
+59212,241,183,818000,Homer Simpson,Tropical Island,"Gather 'round, everyone! I'm going to teach you about religion."
+59213,241,184,822000,Natives,Tropical Island,"Oh, God! Oh, God! Oh, God!"
+59214,241,185,824000,Homer Simpson,Tropical Island,"Please, please, that's not necessary. I'm just God's messenger."
+59215,241,186,829000,Homer Simpson,Tropical Island,"And lo, what a wondrous message it is:"
+59216,241,187,832000,Homer Simpson,Tropical Island,"Like this, from the Book of P-salms: ""God will shatter the heads of his enemies, the hairy crown of those who walk in their guilty ways. That you may bathe your feet in blood."" As true today as it was when it was written."
+59217,241,188,851000,Homer Simpson,Tropical Island,"Now, let's open it up to some Q & A."
+59218,241,189,851000,Homer Simpson,Tropical Island,"Yes, Lisa Junior?"
+59219,241,190,855000,LISA JUNIOR,Tropical Island,Amy said there are lots of religions. Which is the right one?
+59220,241,191,859000,Homer Simpson,Tropical Island,"Well, not the Unitarians. If that's the one true faith, I'll eat my hat."
+59221,241,192,862000,Ak,Tropical Island,"Um, if the Lord is all powerful, why does he care whether we worship him or not? Ak just saying..."
+59222,241,193,870000,Homer Simpson,Tropical Island,"Well, Ak, it's because God is powerful, but also insecure, like Barbra Streisand, before James Brolin. Oh, he's been a rock."
+59223,241,194,881000,Homer Simpson,Tropical Island,"Oh, who am I kidding? The truth is, I'm no missionary. I work in a nuclear power plant."
+59224,241,195,887000,Ak,Tropical Island,"Ooh, tell us all you know about nuclear power."
+59225,241,196,892000,Homer Simpson,Tropical Island,"Look, the point is, I want to help, but you don't need a well, or a chapel, or an immunization center. What you need's a little razzle dazzle. Qtoktok, are you thinking what I'm thinking?"
+59226,241,197,905000,Ak,Tropical Island,I am Ak.
+59227,241,198,906000,Homer Simpson,Tropical Island,"Hey, that's great. Now let's get to work!"
+59228,241,199,911000,Homer Simpson,Tropical Island,"Now, if ""The Flintstones"" has taught us anything, it's that pelicans can be used to mix cement."
+59229,241,200,916000,Homer Simpson,Tropical Island,"Come on little friend, make a wisecrack. You know, ""it's a living,"" that sort of thing."
+59230,241,201,922000,Homer Simpson,Tropical Island,Oopsie.
+59232,241,203,927000,Lenny Leonard,Springfield Nuclear Power Plant,"Hiya, Homer."
+59233,241,204,927000,Carl Carlson,Springfield Nuclear Power Plant,That's not Homer.
+59234,241,205,928000,Lenny Leonard,Springfield Nuclear Power Plant,It's gotta be. He's parking in Homer's space.
+59236,241,207,935000,Bart Simpson,Springfield Nuclear Power Plant,"Well, time to get to work."
+59237,241,208,938000,C. Montgomery Burns,Springfield Nuclear Power Plant,Simpson!
+58998,241,209,938000,Bart Simpson,Springfield Nuclear Power Plant,Aah!
+59238,241,210,939000,C. Montgomery Burns,Springfield Nuclear Power Plant,I've just reviewed your ten-year performance record and it's appalling.
+59239,241,211,943000,Bart Simpson,Springfield Nuclear Power Plant,But I'm not Homer Simpson...
+59240,241,212,945000,C. Montgomery Burns,Springfield Nuclear Power Plant,I think I know who Homer Simpson is. In ten short years you've caused seventeen meltdowns! One is too many!
+59241,241,213,952000,Bart Simpson,Springfield Nuclear Power Plant,"Yeah, but..."
+59242,241,214,953000,C. Montgomery Burns,Springfield Nuclear Power Plant,You sold weapons-grade plutonium to the Iraqis! With no mark-up!
+59243,241,215,953000,Bart Simpson,Springfield Nuclear Power Plant,But...
+59244,241,216,956000,C. Montgomery Burns,Springfield Nuclear Power Plant,"And worst of all, you took the ""Hamburglar's"" birthday off last Monday and Wednesday! Which is it? Now, my voice is giving out, so I'm just going to poke you for the next hour or so."
+59252,241,224,971000,Homer Simpson,Tropical Island,"Friends -- when I came here one month ago, this seemed like a strange and frightening place. But now I've learned to love this island as my second..."
+59253,241,225,981000,Homer Simpson,Tropical Island,A plane! Stop! Get me off this stinking rock!
+59254,241,226,986000,Homer Simpson,Tropical Island,"Anyhoo, I'm about to share with you a modern-day miracle. Something that has revitalized cities from East St. Louis to Biloxi, Mississippi. The magic medicine of... casino gambling!"
+59255,241,227,1003000,Ak,Tropical Island,"""The Lucky Savage""?"
+59256,241,228,1005000,Homer Simpson,Tropical Island,It could be you!
+59258,241,230,1009000,Homer Simpson,Casino,"Check it out. There's Island Blackjack, Island Craps, Island Texas Hold 'em... But if, like me, you're mesmerized by pretty colors and spinning things, you'll prefer roulette. Four sand dollars on number six, please."
+59259,241,231,1027000,Homer Simpson,Casino,"So, how you doin'? Stayin' out of trouble?"
+59260,241,232,1029000,Croupier,Casino,"Yes, sir."
+59261,241,233,1031000,Croupier,Casino,Number six.
+59262,241,234,1031000,Homer Simpson,Casino,Woo hoo!
+59264,241,236,1035000,Homer Simpson,Casino,"Now, over here I've brewed up my favorite beverage: beer. It's mostly Dristan and holy water, but it does the job."
+59265,241,237,1044000,Ak,Casino,Ooga booga.
+59268,241,238,1046000,Homer Simpson,Casino,"So have fun everybody. And who knows? Maybe you'll hit the jackpot, get off this island, and spend the rest of your days in a tropical paradise."
+59271,241,241,1064000,Marge Simpson,Simpson Home,"Homer, I'm so impressed. Everything you're doing sounds so rewarding."
+59272,241,242,1068000,Homer Simpson,Simpson Home,"Oh, you should've seen their faces, honey. Now I know how Bob Stupak feels."
+59274,241,244,1077000,Homer Simpson,Tropical Island,Is everybody happyyyyy?
+59275,241,245,1089000,Homer Simpson,Tropical Island,"Oh, my God."
+59276,241,246,1091000,Ak,Tropical Island,How can ace be one and eleven? Huh? What kind of God would allow that?
+59277,241,247,1108000,Homer Simpson,Tropical Island,"Oh, what happened?! I gave you a glittering Vegas, and you turned it into a skanky Atlantic City!"
+59278,241,248,1115000,Qtoktok,Tropical Island,"Your alcohol and inexpensive buffets have corrupted us. I don't even like macaroni salad, but look at me!"
+59279,241,249,1127000,LISA JUNIOR,Tropical Island,Please help us. Our island has not been this damaged since the A-bomb tests.
+59282,241,252,1137000,Marge Simpson,Simpson Home,Guess who I saw at the supermarket today!
+59283,241,253,1140000,Bart Simpson,Simpson Home,Can it wait? I just got off work!
+59284,241,254,1143000,Marge Simpson,Simpson Home,"I'm sorry, honey. I just thought you..."
+59285,241,255,1145000,Bart Simpson,Simpson Home,Don't you do enough yakkin' at the beauty parlor?
+59286,241,256,1147000,Marge Simpson,Simpson Home,"That's it, Bart. You're taking this man-of-the-house thing too far."
+59287,241,257,1151000,Bart Simpson,Simpson Home,"You're right, I'm sorry. Tell you what: Saturday night we'll go out for steaks, just you and me."
+59288,241,258,1155000,Marge Simpson,Simpson Home,Hmm. A night out is a night out.
+59293,241,263,1171000,Ak,Tropical Island,Why are you building chapel?
+59294,241,264,1173000,Homer Simpson,Tropical Island,Because you're all terrible sinners.
+59295,241,265,1175000,Ak,Tropical Island,Since when?
+59296,241,266,1176000,Homer Simpson,Tropical Island,Since I got here. Now either grab a stone or go to Hell.
+59297,241,267,1187000,Homer Simpson,Tropical Island,"Well, I may not know much about God, but I have to say, we built a pretty nice cage for Him."
+59301,241,269,1196000,LISA JUNIOR,Tropical Island,"These are from the children. Thanks to you, all of us finally have a place to pray."
+59303,241,271,1202000,LISA JUNIOR,Tropical Island,And I'm in a gambling program... for real this time.
+59304,241,272,1205000,Qtoktok,Tropical Island,How many times must we go to church to avoid Hell?
+59305,241,273,1209000,Ak,Tropical Island,Every Sunday for the rest of our lives.
+59306,241,274,1213000,Qtoktok,Tropical Island,"No, really."
+59307,241,275,1218000,Homer Simpson,Tropical Island,"Not bad, Lisa Junior. But God's palace is way up on the moon...so if we want Him to hear us, we've gotta crank up the volume."
+59308,241,276,1229000,Homer Simpson,Tropical Island,"Do you hear me, Lord?! Homer's doing your work! I'm the greatest missionary of all time! Of all time!"
+59309,241,277,1260000,Homer Simpson,Tropical Island,"Oh, no! This looks like the end!"
+59312,241,280,1268000,Betty White,Fox TV Pledge Drive Studio,"Oh, that Homer. Always getting into trouble. And if you're one of the millions who enjoys his adventures, or should I say, ""misadventures,"" it's time to show your support."
+59313,241,281,1279000,Host,Fox TV Pledge Drive Studio,"Sure, Fox makes a fortune from advertising, but it's still not enough."
+59314,241,282,1283000,Rupert Murdoch,Fox TV Pledge Drive Studio,Not nearly enough!
+59315,241,283,1284000,Betty White,Fox TV Pledge Drive Studio,"So, if you don't want to see crude, lowbrow programming disappear from the airwaves...Please call now."
+59316,241,284,1294000,Rupert Murdoch,Fox TV Pledge Drive Studio,"'Ello, Murdoch 'ere... Ten thousand dollars?! You've saved my network!"
+59318,241,286,1300000,Bart Simpson,Simpson Home,Wouldn't be the first time.

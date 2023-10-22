@@ -1,0 +1,238 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+25425,122,1,43000,Ned Flanders,MEADOW,"'Zounds, I did thee mightily smite-ly."
+25426,122,2,48000,Ned Flanders,MEADOW,"""'Zounds"" is a renaissance English word, short for ""God's Wounds."" But uh, ""smite-ly,"" that's pure Flanders!"
+25427,122,3,55000,Waylon Smithers,MEADOW,Please call a doctor.
+25428,122,4,56000,Bart Simpson,MEADOW,"Oh, these Renaissance Faires are so boring."
+25429,122,5,60000,Marge Simpson,MEADOW,Oh really? Did you see the loom? I took Loom in High School.
+25430,122,6,74000,Bart Simpson,MEADOW,Meh.
+25431,122,7,79000,Lunchlady Doris,MEADOW,Yon meat 'tis sweet as summer's wafting breeze.
+25432,122,8,81000,Homer Simpson,MEADOW,Can I have some?
+25433,122,9,82000,Lunchlady Doris,MEADOW,Mine ears are open only to the pleas of those who speak ye old English.
+25434,122,10,86000,Homer Simpson,MEADOW,"Sweet maiden of the spit, grant now my boon, that I mightst sup on suckling pig this noon."
+25435,122,11,92000,Lunchlady Doris,MEADOW,Whatever.
+25436,122,12,93000,Homer Simpson,MEADOW,I've eaten eight different meats. I'm a true Renaissance man.
+25437,122,13,99000,Lisa Simpson,MEADOW,I'll go to the first aid tent and tell them to plug in ye olde stomach pump.
+25439,122,15,106000,Chief Wiggum,Friar Wiggum's Fantastical Beastarium,Alight your gaze on yonder fabled beasts of yore.
+25441,122,17,114000,Chief Wiggum,Friar Wiggum's Fantastical Beastarium,"Behold, the rarest of the rare, the mythological two-headed hound - born with only one head. Ooh - and here, out of the mists of history, the legendary esquilax - a horse with the head of a rabbit, and the body of a rabbit!"
+25442,122,18,132000,Chief Wiggum,Friar Wiggum's Fantastical Beastarium,"Oh, it's ""galloping"" away!"
+25443,122,19,134000,Lisa Simpson,Friar Wiggum's Fantastical Beastarium,Here bunny bunny! Here bunny!
+25444,122,20,136000,Chief Wiggum,Friar Wiggum's Fantastical Beastarium,"Here, esquilax."
+25385,122,23,150000,Fortune Teller,Tent,I've been waiting for you... Lisa.
+25386,122,24,152000,Lisa Simpson,Tent,How did you know my name?
+25415,122,25,154000,FORTUNE-TELLER,Tent,Your name tag.
+25445,122,26,158000,FORTUNE-TELLER,Tent,Would you like to know your future?
+25446,122,27,161000,Lisa Simpson,Tent,"Sorry, I don't believe in fortune telling. I should go."
+25447,122,28,163000,FORTUNE-TELLER,Tent,"What's your hurry? Bart, Maggie, and Marge are at the joust, and Homer is heckling the puppet show."
+25448,122,29,169000,Lisa Simpson,Tent,"Wow, you can see into the... present."
+25449,122,30,172000,Fortune Teller,Tent,Now we'll see what the future holds...
+25450,122,31,177000,Lisa Simpson,Tent,The Death Card.
+25451,122,32,178000,Fortune Teller,Tent,"No, that's good. It means transition, change."
+25452,122,33,183000,Lisa Simpson,Tent,"Oh, that's cute."
+25453,122,34,185000,Fortune Teller,Tent,The Happy Squirrel.
+25454,122,35,187000,Lisa Simpson,Tent,That's bad?
+25455,122,36,188000,Fortune Teller,Tent,Possibly. The cards are vague and mysterious... They seem to be revealing the story of your first love. Do you want me to continue?
+25456,122,37,198000,Lisa Simpson,Tent,Guess so.
+25457,122,38,199000,FORTUNE-TELLER,Tent,"It's - it's coming to me. Yes, I see an Eastern university in the year two thousand ten. The world has become a very different place..."
+25458,122,39,222000,Student In Jeans,Tent,I can't wait to see that play.
+25460,122,41,236000,Lisa Simpson,Library,"Hey, watch it! / Watch it!"
+25461,122,42,239000,Lisa Simpson,Library,That man is instantly the most annoying person I've ever met. A soy-based snack will calm me down.
+25462,122,43,258000,Lisa Simpson,Library,Aaagh. Him again.
+25463,122,44,266000,Lisa Simpson,Library,"Hello. I need Ecosystem of the Marsh, by Thompson."
+25464,122,45,271000,Librarian,Library,"The last copy was just signed out by ...Oh, Hugh Parkfield. Oh, there he is."
+25465,122,46,277000,Lisa Simpson,Library,No. It couldn't be...
+25467,122,48,282000,HUGH,Library,Thanks for holding my book while I tied my shoe.
+25468,122,49,285000,Lisa Simpson,Library,That's the book I need. You'll probably take forever with it too.
+25469,122,50,288000,HUGH,Library,I can read faster than you.
+25470,122,51,289000,Lisa Simpson,Library,I read at a 78th grade level.
+25471,122,52,291000,HUGH,Library,Right here.
+25472,122,53,297000,Lisa Simpson,Library,Finished this page?
+25473,122,54,298000,HUGH,Library,Ages ago.
+25475,122,56,300000,HUGH,Library,I'll get the dictionary.
+25476,122,57,301000,Lisa Simpson,Library,Why?
+25477,122,58,302000,HUGH,Library,"You'll see when you get there. The word ""stochastic."""
+25478,122,59,304000,Lisa Simpson,Library,Pertaining to a process involving a randomly determined sequence of observations.
+25479,122,60,304000,Librarian,Library,"First they hate each other. Now, all of a sudden, they love each other. Oh it doesn't make any sense to me."
+25480,122,61,318000,Moustached Man,Library,"Of course not, you're a robot."
+25481,122,62,331000,HUGH,Library,Hmm... I've never met anyone who so understood the magic of Jim Carrey.
+25482,122,63,334000,Lisa Simpson,Library,He can make you laugh with no more than a frantic flailing of his limbs.
+25485,122,66,337000,HUGH,DORM ROOM,"I can't believe how much we have in common. We're both studying the environment, we're both utterly humorless about our vegetarianism, and we both love the Rolling Stones."
+25486,122,67,347000,Lisa Simpson,DORM ROOM,"Yes, not for their music, but for their tireless efforts to preserve historic buildings."
+25487,122,68,352000,HUGH,DORM ROOM,"Lisa, I can't bear the thought of being apart from you all summer. Come back with me to Parkfield Manor."
+25488,122,69,356000,Lisa Simpson,DORM ROOM,I'd love to. Can we get vegetarian meals at your parents' house?
+25489,122,70,360000,HUGH,DORM ROOM,"Yes we can, Lisa."
+25490,122,71,361000,Lisa Simpson,DORM ROOM,That is good because eating animals is wrong.
+25491,122,72,364000,HUGH,DORM ROOM,So very wrong.
+25492,122,73,365000,Lisa Simpson,DORM ROOM,When will the world learn?
+25493,122,74,366000,HUGH,DORM ROOM,I don't know. I just don't know.
+25495,122,76,371000,Lisa Simpson,Airport,I love these new planes.
+25496,122,77,373000,HUGH,Airport,"Yes, it's a good thing they reevaluated those wacky old designs."
+25500,122,81,389000,Lisa Simpson,PARKFIELD MANOR,"Beautiful dinnerware, Mrs. Parkfield."
+25501,122,82,391000,Mrs. Parkfield,PARKFIELD MANOR,"Thank you, Lisa. They were made for the finest family in Britain."
+25502,122,83,394000,Mr. Parkfield,PARKFIELD MANOR,I don't know how we ended up with them.
+148685,122,84,397000,Lisa's Thoughts,PARKFIELD MANOR,"Uh-oh. Should I laugh? Was that dry British wit? Or subtle self-pity? Ooh, they're staring at me, better respond."
+25503,122,85,405000,Mr. Parkfield,PARKFIELD MANOR,"Oh, it's good to hear a boisterous American laugh."
+25504,122,86,409000,Lisa Simpson,PARKFIELD MANOR,"And I love that painting. Judging by the clothes, I'd say seventeenth century."
+25505,122,87,413000,Mrs. Parkfield,PARKFIELD MANOR,"Actually, Lisa, it's just uncle Eldred."
+25506,122,88,416000,Eldred,PARKFIELD MANOR,I get me brain medicines from the National 'Ealth.
+25508,122,90,422000,Lisa Simpson,MEADOW,"This place is so enchanting, Hugh. I love it here."
+25509,122,91,426000,HUGH,MEADOW,I wanted this to be perfect for you. I know you Americans like everything to be fireworks.
+25510,122,92,444000,HUGH,MEADOW,Oh blast!
+25511,122,93,445000,HUGH,MEADOW,"Go to ""Plan B."""
+25512,122,94,451000,Lisa Simpson,MEADOW,"Yes, I will."
+25513,122,95,456000,Stablehand,MEADOW,Isn't it wonderful? Master Hugh has found a true love.
+25515,122,97,473000,Lisa Simpson,PARKFIELD MANOR,Hi Mom.
+25516,122,98,474000,Marge Simpson,PARKFIELD MANOR,"Lisa!! Hello! How're you doing in England? Remember, an elevator is called a ""lift,"" a mile is called a ""kilometer,"" and botulism is called ""steak and kidney pie."""
+25517,122,99,477000,Lisa Simpson,PARKFIELD MANOR,Guess what -- Hugh and I are getting married.
+25518,122,100,486000,Marge Simpson,PARKFIELD MANOR,"ALL RIGHT!!! Lisa, that's wonderful. If only your father was still with us... but he left for work a few minutes ago."
+25519,122,101,496000,Lisa Simpson,PARKFIELD MANOR,"Mom, remember when I was little, we'd always plan my dream wedding and you always promised to, you know, well, keep Dad from ruining it?"
+25520,122,102,505000,Marge Simpson,PARKFIELD MANOR,"Oh, don't worry, honey. I guarantee your father will behave."
+25521,122,103,509000,Lisa Simpson,PARKFIELD MANOR,"Mom, it's a picture phone."
+25522,122,104,511000,Marge Simpson,PARKFIELD MANOR,"This? This? No, I - I've just got a touch of the rheumatiz."
+25523,122,105,515000,Lisa Simpson,PARKFIELD MANOR,Oh.
+25524,122,106,516000,Lisa Simpson,PARKFIELD MANOR,"Mom, picture phone."
+25526,122,108,520000,Bart Simpson,Skyscraper,"Hi, Mom. Aw, that's great news about Lisa. Well listen, I'd better get to get back to work."
+25527,122,109,526000,Bart Simpson,Skyscraper,"Heh, heh. They're finally paying me for this."
+25528,122,110,532000,Bart Simpson,Skyscraper,Oh yeah!
+25531,122,113,543000,Carl Carlson,Springfield Nuclear Power Plant,...except for the international market it's my...
+25532,122,114,546000,Homer Simpson,Springfield Nuclear Power Plant,"Woo hoo! Oh, Marge, that's great news!"
+25533,122,115,549000,Milhouse Van Houten,Springfield Nuclear Power Plant,"Hey, hey there with the personal calls Simpson."
+25534,122,116,552000,Homer Simpson,Springfield Nuclear Power Plant,"Oh, ah, but Mr. Milhouse, my little girl's getting married!"
+25535,122,117,556000,Milhouse Van Houten,Springfield Nuclear Power Plant,Lisa? My one true love.
+25536,122,118,562000,Lisa Simpson,Springfield Nuclear Power Plant,"It's not you, Milhouse. I just don't plan to ever get married."
+25537,122,119,569000,Milhouse Van Houten,Springfield Nuclear Power Plant,"I think I'll write your performance evaluation now, Simpson."
+25540,122,122,580000,Homer Simpson,Simpsons,"Oh, I gotta call everyone and tell 'em the good news."
+25541,122,123,584000,Homer Simpson,Simpsons,Maggie! I need to use the phone!
+25543,122,125,588000,Homer Simpson,Maggie's Bedroom,"Will that girl ever shut up? Okay, Marge. I'll plan everything. We can have the reception at Moe's. Wait, why not have the whole wedding there? We'll do it on a Monday morning -- there'll be fewer drunks."
+25544,122,126,599000,Marge Simpson,Maggie's Bedroom,"Homer, don't take this personally, but I've obtained a court order to prevent you from planning this wedding."
+25545,122,127,605000,Homer Simpson,Maggie's Bedroom,"Well, these seem to be in order. I'll be out back in the hammock."
+25546,122,128,611000,Waylon Smithers,Maggie's Bedroom,Mr. Smithers plus guest. There's only one person I would want to bring.
+25547,122,129,620000,Waylon Smithers,Maggie's Bedroom,"Oh, Mr. Burns, we'll thaw you out the second they discover the cure for seventeen stab wounds in the back."
+25548,122,130,626000,Waylon Smithers,Maggie's Bedroom,"How're we doing, boys?"
+25549,122,131,627000,Professor Jonathan Frink,Maggie's Bedroom,"Well, we're up to fifteen!"
+25551,122,133,637000,Troy McClure,Springfield Elementary School,"Now turn to the next problem. If you have three ""Pepsis"" and drink one, how much more refreshed are you? You, the redhead in the Chicago school system."
+25552,122,134,646000,Girl,Springfield Elementary School,Pepsi?
+25553,122,135,647000,Troy McClure,Springfield Elementary School,Partial credit.
+25554,122,136,650000,Seymour Skinner,Springfield Elementary School,We've been invited to the wedding of our only graduate to read at an adult level.
+25555,122,137,653000,Miss Hoover,Springfield Elementary School,"Hmm, it must be Lisa Simpson, because of course Martin Prince perished in that science fair explosion."
+25556,122,138,661000,Martin Prince,Springfield Elementary School,"Not quite perished, my lady love. Although some days, I wish I had."
+25559,122,141,680000,Lisa Simpson,OTTO CAB,"Hey, I remember you. Mayor Quimby, right?"
+25560,122,142,683000,Mayor Joe Quimby,OTTO CAB,"I ah, er ah, uh no. Look at license. Mohamed Jafar."
+25561,122,143,687000,Otto Mann,OTTO CAB,"Quimby, after this fare, get yer indicted ass out to the convention center."
+25562,122,144,690000,Mayor Joe Quimby,OTTO CAB,I cut the ribbon at that convention center.
+25564,122,146,697000,Lisa Simpson,Springfield Street,Just a couple more blocks to my house.
+25567,122,147,703000,HUGH,Springfield Street,"Lisa, darling, don't worry. I'm sure I'll get along with your family. You've so thoroughly prepared me for the worst, as long as they're not squatting in a ditch poking berries up their noses..."
+25568,122,148,712000,Lisa Simpson,Springfield Street,And if they are?
+25570,122,150,715000,Bart Simpson,Simpson Home,Here they come! Raise the flag!
+25571,122,151,721000,Marge Simpson,Simpson Home,Oh Lisa!
+25572,122,152,722000,Homer Simpson,Simpson Home,"Yo, Hugh. Here's a little bit of U.S. hospitality. What do you think of that?"
+25573,122,153,730000,Lisa Simpson,Simpson Home,Dad!
+25574,122,154,734000,Marge Simpson,Simpson Home,Now throw compost on it!
+25575,122,155,739000,Homer Simpson,Simpson Home,"Whew! Uh, enjoy."
+25576,122,156,742000,HUGH,Simpson Home,"Oh, still warm."
+25577,122,157,753000,Homer Simpson,Simpson Home,"You can be the first to try out the new guest bedroom I built. Remember, if the building inspector comes by, it's not a room, it's a window box."
+25579,122,159,762000,Lisa Simpson,New Bedroom,"Oh Hugh, thank you. You've been just wonderful through this entire ordeal."
+25580,122,160,766000,HUGH,New Bedroom,"Lisa, I love you so much I'm willing to go through anything."
+25581,122,161,772000,Lisa Simpson,New Bedroom,Are you okay?
+25582,122,162,774000,HUGH,New Bedroom,"I'm fine, Lisa. Fortunately, the compost heap broke my fall. Be a dear, run a bath."
+25584,122,164,783000,Marge Simpson,Simpson Dining Room,Homer! Bart! Maggie! Company eating rules.
+25585,122,165,787000,Homer Simpson,Simpson Dining Room,"Oh, right."
+25586,122,166,791000,Bart Simpson,Simpson Dining Room,"Anyway, Hugh, there's more to my life than just a wrecking ball. I also crush cars into cubes. And on the side, I promote local tough man contests. Basically I'm gettin' out all my aggression 'til I go to law school."
+25587,122,167,802000,Homer Simpson,Simpson Dining Room,"So, Hugh. Have you heard all the latest American jokes? Uh, here's a good one. Pull my finger."
+25588,122,168,808000,HUGH,Simpson Dining Room,"Yes, we have that one in England too, Mr. Simpson."
+25589,122,169,811000,Homer Simpson,Simpson Dining Room,"I said, pull my finger."
+25590,122,170,813000,Lisa Simpson,Simpson Dining Room,"Uh, Mom, we've got my wedding dress fitting this afternoon. Maggie, if you're not doing anything, why don't you come with us?"
+25591,122,171,819000,Marge Simpson,Simpson Dining Room,Maggie! Don't talk with your mouth full.
+25592,122,172,821000,Homer Simpson,Simpson Dining Room,Me and Bart'll take Hugh out on the town this afternoon.
+25593,122,173,824000,Lisa Simpson,Simpson Dining Room,Hugh should take it easy because of his fall.
+25565,122,174,826000,HUGH,Simpson Dining Room,"Oh Lisa, please. The only thing bruised in that fall was my spine. I'll be delighted."
+25594,122,175,831000,Homer Simpson,Simpson Dining Room,Great. There's only one thing I ask in return.
+23634,122,176,833000,HUGH,Simpson Dining Room,Certainly.
+25321,122,177,834000,Homer Simpson,Simpson Dining Room,Pull my finger.
+25595,122,179,835000,Homer Simpson,Simpson Car,"So this driving on the left makes you feel more at home, huh Hugh?"
+25597,122,181,842000,Kent Brockman,Moe's Tavern,And tonight the following celebrities have been arrested:
+25598,122,182,842000,Kent Brockman,Moe's Tavern,"...while Heather Locklear Fortensky remains at large. Remember, if you see any celebrities, consider them dangerous."
+25599,122,183,853000,HUGH,Moe's Tavern,"You know, I rather like this pub."
+25600,122,184,855000,Moe Szyslak,Moe's Tavern,"Oh, an English boy, eh? You know we saved your ass in World War Two."
+25601,122,185,860000,HUGH,Moe's Tavern,"Yeah, well, we saved your ass in World War Three."
+25602,122,186,862000,Moe Szyslak,Moe's Tavern,That's true.
+25603,122,187,863000,Homer Simpson,Moe's Tavern,"Hugh, there's something I want you to have. My Dad gave me his cuff links to wear on the day I married Marge, and they brought us good luck. I couldn't imagine a happier marriage. We don't have many traditions in our family, but it'd mean a lot to me if you kept this one alive."
+25604,122,188,880000,HUGH,Moe's Tavern,Well I'd be honored...
+25605,122,189,882000,HUGH,Moe's Tavern,...to wear... those... things.
+25606,122,190,890000,Bart Simpson,Moe's Tavern,Ow! Hey watch those virtual darts. I'm trying to play virtual pool!
+25607,122,191,895000,Other Player,Moe's Tavern,Ow!
+25608,122,192,899000,Moe Szyslak,Moe's Tavern,"Hey, hey, no fightin' in my bar."
+25610,122,194,905000,Marge Simpson,Simpsons,"You know, Fox turned into a hard-core sex channel so gradually, I didn't even notice."
+25611,122,195,912000,Homer Simpson,Simpsons,"Marge, it's so great to have the whole family together under one roof. I never realized how much I missed it. Listen to the murmurs in the next room. The house is full of life again."
+25612,122,196,925000,Homer Simpson,Simpsons,Keep it down in there!
+25614,122,198,926000,Lisa Simpson,Lisa's Bedroom,"All right, Dad! I'm sorry I left you alone with Homer and Bart."
+25615,122,199,931000,HUGH,Lisa's Bedroom,"No, no, honey. We had a fine time."
+25616,122,200,934000,Lisa Simpson,Lisa's Bedroom,How did you get that gash on your forehead?
+25617,122,201,935000,HUGH,Lisa's Bedroom,"Oh, that was when we hid in the dumpster after the fire alarm went off in the pornographic magazine warehouse."
+25618,122,202,940000,Lisa Simpson,Lisa's Bedroom,"Oh, you are so good to put up with all of this."
+25619,122,203,943000,HUGH,Lisa's Bedroom,"Don't be silly, Lisa. Everything's fine. Really. Now, go to sleep. We have a big day ahead of us tomorrow. A big, long day."
+25621,122,205,962000,Marge Simpson,Simpsons,"Lisa, I can't believe it's your wedding day already."
+25622,122,206,965000,Lisa Simpson,Simpsons,"Mom, I feel kinda funny wearing white - I mean, Milhouse."
+25623,122,207,969000,Marge Simpson,Simpsons,"Oh, Milhouse doesn't count."
+25624,122,208,976000,Lisa Simpson,Simpsons,"Okay, I've got something old - that's my pearl necklace. Something new is the wedding dress. Something borrowed is this antique brooch from Hugh's mother. Now I just need something blue."
+25625,122,209,987000,Marge Simpson,Simpsons,Here.
+25626,122,210,988000,Lisa Simpson,Simpsons,Oh Mom. Thanks.
+25629,122,213,1000000,Bart Simpson,BRIDE'S TENT,"Wow, Lisa. Looking at you makes me want to get married for a third time. I met a really nice exotic dancer the other night at Hugh's bachelor party."
+25630,122,214,1008000,Lisa Simpson,BRIDE'S TENT,Hugh didn't have a bachelor party.
+25631,122,215,1010000,Bart Simpson,BRIDE'S TENT,We had one in his honor. I had one in his honor. I went to a strip club.
+25633,122,217,1018000,HUGH,MAIN TENT,"Well, here goes nothing. Mom, Dad, meet Homer Simpson."
+25634,122,218,1028000,Homer Simpson,MAIN TENT,"Hey, how are you. Nice to meet ya."
+25635,122,219,1034000,Homer Simpson,MAIN TENT,"You know what's great about you English? ""Octopussy."" Man, I must have seen that movie... twice."
+25636,122,220,1041000,HUGH,MAIN TENT,"Yes, yes. That's not too bad!"
+25637,122,221,1049000,Patty Bouvier,MAIN TENT,"Hey, Krabappel, you get in the way of that bouquet, I'll stuff that sun hat down your neck!"
+25638,122,222,1055000,C. Montgomery Burns,MAIN TENT,"Smithers, take me home. I'm not fully defrosted."
+25639,122,223,1058000,Waylon Smithers,MAIN TENT,Nonsense. Just sit down and rest for a moment.
+25640,122,224,1061000,Waylon Smithers,MAIN TENT,There you go.
+25641,122,225,1064000,Waylon Smithers,MAIN TENT,Oh no. We've got a little situation here.
+25642,122,226,1066000,C. Montgomery Burns,MAIN TENT,I can't feel anything below my cummerbund.
+25644,122,228,1070000,Homer Simpson,Lisa's Tent,Ooh la la.
+25645,122,229,1071000,Lisa Simpson,Lisa's Tent,"Hi, Dad."
+25646,122,230,1072000,Homer Simpson,Lisa's Tent,"You look great, sweetheart."
+25647,122,231,1074000,Lisa Simpson,Lisa's Tent,Thanks.
+25648,122,232,1075000,Homer Simpson,Lisa's Tent,"Little Lisa. Lisa Simpson. You know, I always felt you were the best thing my name ever got attached to. Since the time you learned to pin your own diapers, you've been smarter than me."
+25649,122,233,1085000,Lisa Simpson,Lisa's Tent,Oh Dad...
+25653,122,234,1086000,Homer Simpson,Lisa's Tent,"No, no, let me finish. I just want you to know I've always been proud of you. You're my greatest accomplishment and you did it all yourself. You helped me understand my own wife better and taught me to be a better person. But you're also my daughter, and I don't think anybody could have had a better daughter than you--"
+25654,122,235,1103000,Lisa Simpson,Lisa's Tent,"Dad, you're babbling."
+25655,122,236,1104000,Homer Simpson,Lisa's Tent,See? You're still helping me.
+25656,122,237,1109000,Lisa Simpson,Lisa's Tent,"Hey, Dad. Did you forget to give those cufflinks to Hugh?"
+25657,122,238,1112000,Homer Simpson,Lisa's Tent,"Aw, no..."
+25658,122,239,1114000,Lisa Simpson,Lisa's Tent,Well?
+25659,122,240,1115000,Homer Simpson,Lisa's Tent,I found them on the night stand this morning. I guess they weren't his cup of tea. Don't worry about it.
+25660,122,241,1119000,Lisa Simpson,Lisa's Tent,But you've been going on about these all week. I'm sure he just forgot.
+25662,122,243,1124000,HUGH,GROOM'S TENT,Lisa! We're not supposed to see each other before the wedding. It's tradition.
+25663,122,244,1128000,Lisa Simpson,GROOM'S TENT,What about my family's tradition?
+25664,122,245,1131000,HUGH,GROOM'S TENT,Surely you don't want me to wear those. In front of my parents and their friends?
+25665,122,246,1135000,Lisa Simpson,GROOM'S TENT,But you promised my Dad you would.
+25666,122,247,1137000,HUGH,GROOM'S TENT,"I was just humoring him, darling. Actually, he frightens me a bit."
+25667,122,248,1140000,Lisa Simpson,GROOM'S TENT,"I know they look a little silly, but his feelings will be hurt if you don't wear them."
+25668,122,249,1144000,HUGH,GROOM'S TENT,"Fine. I must say, you were right. This has been quite trying. You know I've attempted to enjoy your family on a personal level, on an ironic level, as a novelty, as camp, as kitsch, as a cautionary example, nothing works. Frankly, I'll be quite relieved when we get back to England and we won't have to deal with them."
+25669,122,250,1163000,Lisa Simpson,GROOM'S TENT,Are you saying we won't see my family again?
+25670,122,251,1166000,HUGH,GROOM'S TENT,"Well, possibly your mother will come when the children are born."
+25671,122,252,1168000,Lisa Simpson,GROOM'S TENT,I can't believe I'm hearing this. I don't want to cut my family out of my life.
+25672,122,253,1172000,HUGH,GROOM'S TENT,"Really? But Lisa, you're better than this place. You're like a flower that grew out of a pot of dirt."
+25673,122,254,1178000,Lisa Simpson,GROOM'S TENT,That's a horrible thing to say.
+25674,122,255,1180000,HUGH,GROOM'S TENT,"Oh come on, you complain about them more than anyone."
+25675,122,256,1182000,Lisa Simpson,GROOM'S TENT,Maybe. But I still love them. And I don't think you understand that.
+25650,122,258,1193000,Rev. Timothy Lovejoy,MAIN TENT,"And now, to sing ""Amazing Grace,"" Miss Maggie Simpson."
+25651,122,259,1199000,Dr. Julius Hibbert,MAIN TENT,"She's quite a hellion, but she does have an incredible voice."
+25677,122,260,1204000,HUGH,MAIN TENT,Stop everything. The wedding has been called off.
+25678,122,261,1209000,Adult Nelson,MAIN TENT,Haw haw.
+25679,122,262,1209000,NELSON JR.,MAIN TENT,Haw haw.
+25681,122,264,1213000,Rev. Timothy Lovejoy,MAIN TENT,"Aw, this is very sad news... and it never would have happened if the wedding had been inside the church with God, instead of out here in the cheap showiness of nature."
+25682,122,265,1225000,Lunchlady Doris,MAIN TENT,Who wants cake?
+25683,122,266,1243000,Fortune Teller,MAIN TENT,"...the next day, Hugh goes back to England and you never see him again."
+25684,122,267,1248000,Lisa Simpson,MAIN TENT,"Wow. Now that I know all this, isn't there any way to change the future?"
+25685,122,268,1252000,Fortune Teller,MAIN TENT,No. But try to look surprised.
+25686,122,269,1255000,Lisa Simpson,MAIN TENT,I thought you said you'd tell me about my true love?
+25687,122,270,1258000,Fortune Teller,MAIN TENT,"Oh, you'll have a true love. But I specialize in foretelling the relationships where you get jerked around."
+25689,122,272,1278000,Homer Simpson,RENAISSANCE FAIR,"Lisa, Lisa! Where were you!? You missed the most incredible thing!"
+25690,122,273,1281000,Lisa Simpson,RENAISSANCE FAIR,"Hi, Dad."
+25691,122,274,1283000,Homer Simpson,RENAISSANCE FAIR,I ate seven pounds of fudge!
+25692,122,275,1285000,Lisa Simpson,RENAISSANCE FAIR,Wow!
+25693,122,276,1286000,Homer Simpson,RENAISSANCE FAIR,The man at the stand said it was a record!
+25694,122,277,1288000,Lisa Simpson,RENAISSANCE FAIR,"Wow. What else did you do, Dad?"
+25695,122,278,1290000,Homer Simpson,RENAISSANCE FAIR,I rode the teacups! Then I got a little sick and I had to sit down. But then I rode 'em again!

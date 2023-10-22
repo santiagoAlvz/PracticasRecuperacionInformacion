@@ -1,0 +1,244 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+2007,39,1,59000,Bart Simpson,Bart's Bedroom,Good mornin' world!
+2008,39,2,65000,Bart Simpson,Bart's Bedroom,Ow!
+2010,39,4,68000,Bart Simpson,Simpson Dining Room,Good morning Lisa!
+2011,39,5,69000,Lisa Simpson,Simpson Dining Room,What are you so happy about?
+2012,39,6,71000,Bart Simpson,Simpson Dining Room,"Why shouldn't I be happy? It's a beautiful day, my homework is done, I've got my mojo workin' and we're goin' on a field trip this afternoon."
+2013,39,7,79000,Bart Simpson,Simpson Dining Room,And... looks like I got me a genuine glow-in-the-dark police badge.
+2014,39,8,84000,Bart Simpson,Simpson Dining Room,Hey! It's not in here. You stole it!
+2015,39,9,91000,Lisa Simpson,Simpson Dining Room,"No one wants your stupid police badge, Bart."
+2016,39,10,94000,Homer Simpson,Simpson Dining Room,"Hey, look what I got. A genuine official police badge... Calling all cars... come out with your hands up!"
+2017,39,11,100000,Bart Simpson,Simpson Dining Room,"Hey, that's my badge, Homer."
+2018,39,12,102000,Homer Simpson,Simpson Dining Room,"That's Officer Homer. Heh heh, heh, heh."
+2020,39,14,105000,Bart Simpson,Simpson Home,... Lousy prize-grabbing... badge-wearing...
+2021,39,15,111000,Bart Simpson,Simpson Home,You ate my homework?
+2022,39,16,114000,Bart Simpson,Simpson Home,I didn't know dogs really did that.
+2024,39,18,121000,Bart Simpson,Bus Stop,Wait! Wait!
+2029,39,23,145000,Edna Krabappel-Flanders,Bart's Classroom,Bart Simpson! You're late! Go fill out a tardy slip.
+2030,39,24,148000,Bart Simpson,Bart's Classroom,But I'm only... ... ... five... ten... twenty... forty minutes? That's pretty damn late.
+2032,39,26,155000,Bart Simpson,Springfield Elementary School,Hey girls! Look at me!
+2033,39,27,158000,Bart Simpson,Springfield Elementary School,You can stop lookin' at me now.
+2036,39,30,164000,Edna Krabappel-Flanders,Bart's Classroom,"Well, it's nearly one o'clock. And you know what that means."
+2040,39,31,167000,Edna Krabappel-Flanders,Bart's Classroom,That's right. It's time for our field trip to the chocolate factory. I trust you all remembered to bring your permission slips.
+2044,39,35,182000,Bart Simpson,Bart's Classroom,What a day.
+2046,39,37,185000,Lisa Simpson,Springfield Elementary School Bus Stop,I'm gonna eat EIGHT pieces of chocolate.
+2047,39,38,188000,Ralph Wiggum,Springfield Elementary School Bus Stop,I'm gonna eat chocolate till I barf.
+2049,39,40,191000,Seymour Skinner,Skinner's Office,"Don't worry, Bart, we'll find something fun for you to do."
+2050,39,41,194000,Seymour Skinner,Skinner's Office,Ah! Here we are! Here's a whole box of unsealed envelopes for the PTA.
+2051,39,42,198000,Bart Simpson,Skinner's Office,You're making me lick envelopes?
+2052,39,43,200000,Seymour Skinner,Skinner's Office,"Oh, licking envelopes can be fun! All you have to do is make a game of it."
+2053,39,44,203000,Bart Simpson,Skinner's Office,What kind of game?
+2054,39,45,205000,Seymour Skinner,Skinner's Office,"Well... for example... you could see how many you can lick in an hour, and then try to break that record."
+2055,39,46,209000,Bart Simpson,Skinner's Office,Sounds like a pretty crappy game to me.
+2056,39,47,211000,Seymour Skinner,Skinner's Office,Yes... well... get started.
+2058,39,49,219000,Milhouse Van Houten,"THE ""AH FUDGE!"" CHOCOLATE FACTORY IN SHELBYVILLE",Oh my God. It's Cocoa Beanie himself.
+2059,39,50,223000,Lisa Simpson,"THE ""AH FUDGE!"" CHOCOLATE FACTORY IN SHELBYVILLE",I think this is something Bart would really have enjoyed. But it's the only way he'll learn.
+2061,39,52,234000,Troy McClure,CHOCOLATE FACTORY ORIENTATION ROOM,"Welcome to the chocolate factory. I'm Troy McClure. You probably remember me from such films as ""The Revenge of Abe Lincoln"" and ""The Wackiest Covered Wagon in the West."" The history of chocolate starts with the ancient Aztecs."
+2062,39,53,247000,Troy McClure,CHOCOLATE FACTORY ORIENTATION ROOM,"In those days, instead of being wrapped in a hygienic package, chocolate was wrapped in a tobacco leaf."
+2063,39,54,253000,Troy McClure,CHOCOLATE FACTORY ORIENTATION ROOM,"And instead of being pure chocolate like we have today, it was mixed with shredded tobacco. And they didn't eat it. They smoked it."
+2065,39,56,261000,Seymour Skinner,Skinner's Office,"You didn't believe me when I said it would be fun, did you?"
+2066,39,57,265000,Bart Simpson,Skinner's Office,No thir.
+2038,39,60,285000,Milhouse Van Houten,"Ah, Fudge! Chocolate Factory",My glasses.
+2068,39,61,291000,Executive,"Ah, Fudge! Chocolate Factory","Please, kids, play sanitary."
+2070,39,63,303000,Bart Simpson,Skinner's Office,Tan Die Doe Dow?
+2071,39,64,304000,Seymour Skinner,Skinner's Office,What?
+2072,39,65,305000,Bart Simpson,Skinner's Office,Tan... Die.... Doe... Dow.
+2073,39,66,306000,Seymour Skinner,Skinner's Office,"Hmm... Well there's still a minute to go... oh, why not! But don't you tell your teacher I let you go home early."
+2074,39,67,318000,Bart Simpson,Skinner's Office,Die don't.
+2078,39,71,334000,Bart Simpson,Springfield Street,What next?
+2079,39,72,334000,Bart Simpson,Springfield Street,Uh-oh.
+2081,39,74,345000,Fat Tony,Legitimate Businessman's Social Club,"Hey, what's with the kid?"
+2082,39,75,347000,Bart Simpson,Legitimate Businessman's Social Club,Hands off the material!
+2083,39,76,347000,Legs,Legitimate Businessman's Social Club,Whaddaya know! The kid's tough.
+2084,39,77,349000,Louie,Legitimate Businessman's Social Club,He's got spunk.
+2085,39,78,350000,Fat Tony,Legitimate Businessman's Social Club,"I wonder if he is lucky also. Pick a horse, kid. Shelbyville Downs. Third race. Make it a good one."
+2086,39,79,356000,Bart Simpson,Legitimate Businessman's Social Club,Eat my shorts.
+2087,39,80,357000,Fat Tony,Legitimate Businessman's Social Club,"Eat my shorts. Ah, okay. Let's see... Heyy... Wait a minute, you little punk! Eat My Shorts is in the fifth race. I said the third race!"
+2088,39,81,366000,Bart Simpson,Legitimate Businessman's Social Club,Don't have a cow.
+2089,39,82,367000,Fat Tony,Legitimate Businessman's Social Club,"Hmm... ""Don't have a cow"" in the third. Put a deuce on him."
+2090,39,83,371000,Fat Tony,Legitimate Businessman's Social Club,"While we are waiting to see how lucky you are, let me show you around. This is our bar, and over there is our slot machine and card tables...."
+2091,39,84,379000,Bart Simpson,Legitimate Businessman's Social Club,Cool!
+2092,39,85,380000,Joey,Legitimate Businessman's Social Club,Hey Boss! Here's the call for the third race.
+2093,39,86,382000,Race Announcer,Legitimate Businessman's Social Club,"...As they come out of the turn it's ""Sufferin Succotash"" by a neck over ""Yabbadabbadoo."" Two lengths back to ""Ain't I a Stinker"" and ""That's All Folks."" ""I Yam What I Yam"" can see them all. But here comes ""Donhavacow"" flyin' on the outside. And at the wire it's all ""Donhavacow!"""
+2094,39,87,395000,Fat Tony,Legitimate Businessman's Social Club,"Hey, I like this kid. I can't believe we were gonna shoot him. Can you mix drinks?"
+2095,39,88,400000,Bart Simpson,Legitimate Businessman's Social Club,I don't know.
+2096,39,89,401000,Legs,Legitimate Businessman's Social Club,I'll have a Manhattan.
+2097,39,90,402000,Fat Tony,Legitimate Businessman's Social Club,Make Legs a Manhattan.
+2098,39,91,404000,Bart Simpson,Legitimate Businessman's Social Club,I'm not sure I...
+2099,39,92,426000,Fat Tony,Legitimate Businessman's Social Club,Well?
+2100,39,93,427000,Legs,Legitimate Businessman's Social Club,Supoib.
+2102,39,95,432000,Marge Simpson,Simpson Home,You got a job? Doing what?
+2103,39,96,434000,Bart Simpson,Simpson Home,"Oh... I dunno... mixing drinks, picking horses, cuttin' cigars... you know -- a job."
+2104,39,97,438000,Marge Simpson,Simpson Home,"Bart, your father and I don't want you doing that. Homer, say something."
+2105,39,98,443000,Homer Simpson,Simpson Home,How much does it pay?
+2106,39,99,444000,Bart Simpson,Simpson Home,Thirty bucks a week.
+2107,39,100,446000,Homer Simpson,Simpson Home,Pfft. I make more than that.
+2108,39,101,469000,Bart Simpson,Simpson Home,"I was lookin' for those. Thanks, doll."
+2110,39,103,497000,Fat Tony,Simpson Home,It's funny because it's true.
+2111,39,104,499000,Legs,Simpson Home,Well obsoived.
+2112,39,105,504000,Fat Tony,Simpson Home,"Chief Wiggum, you honor us with your presence."
+2113,39,106,507000,Chief Wiggum,Simpson Home,Baloney. I'm not gonna rest until one of us is behind bars -- You! You wouldn't happen to know anything about a cigarette truck that got hijacked on route 401?
+2114,39,107,516000,Fat Tony,Simpson Home,What's a truck?
+2115,39,108,517000,Chief Wiggum,Simpson Home,Don't play dumb with me!
+2116,39,109,519000,Fat Tony,Simpson Home,"Relax Chief, you seem tense. You know, the boy here makes an excellent Manhattan."
+2117,39,110,525000,Chief Wiggum,Simpson Home,"Ah... I'm still gonna put you away, you know."
+2118,39,111,528000,Fat Tony,Simpson Home,"Good for you, Chief."
+2119,39,112,533000,Homer Simpson,Simpson Home,... Bart! Have you started smoking?
+2120,39,113,535000,Bart Simpson,Simpson Home,No.
+2121,39,114,536000,Homer Simpson,Simpson Home,Don't lie to me boy.
+2122,39,115,537000,Homer Simpson,Simpson Home,"Aha! Cigarettes, just as I thought."
+2123,39,116,540000,Bart Simpson,Simpson Home,They're not mine. My boss said his warehouse was full.
+2124,39,117,543000,Homer Simpson,Simpson Home,"Yeah, right. Son... I'm gonna teach you a lesson. I'm going to stand here and watch you smoke every one of those cigarettes. Then maybe you'll learn..."
+2125,39,118,553000,Delivery Man,Simpson Home,Uh... Fat Tony sent me over to pick up the goods.
+2126,39,119,555000,Bart Simpson,Simpson Home,Right in here my man.
+2127,39,120,556000,Delivery Man,Simpson Home,"Hey kid, you look good with that cigarette. Kind of sophisticated."
+2128,39,121,560000,Homer Simpson,Simpson Home,"Son, I'll never doubt you again."
+2129,39,122,562000,Kent Brockman,Simpson Home,The contents of the hijacked truck: some twelve thousand cartons of Laramie 100's.
+2131,39,123,569000,Chief Wiggum,Simpson Home,"We have... uh... Please, we have a number of leads. And let me assure all you smokers out there... there is no shortage of cigarettes."
+2132,39,124,577000,Reporter,Simpson Home,How do we know that?
+2133,39,125,579000,Chief Wiggum,Simpson Home,"All right, let me refer that question back to Jack Larson, of Laramie Tobacco Products. Jack?"
+2134,39,126,583000,Jack Larson,Simpson Home,"Thank you Chief. Folks, I'm pleased to announce that a new truckload of Laramies with their smooth good taste and rich tobacco flavor is already heading towards Springfield. And the driver has been instructed to ignore all stop signs and crosswalks."
+2135,39,127,599000,Kent Brockman,Simpson Home,"The police suspect the involvement of reputed mobster William ""Fat Tony"" Williams."
+2136,39,128,604000,Chief Wiggum,Simpson Home,Fat Tony is a cancer on this fair city. He is the cancer and I am the... uh... ... what cures cancer?
+2137,39,129,611000,Lisa Simpson,Simpson Home,"Bart, is your boss a crook?"
+2138,39,130,613000,Bart Simpson,Simpson Home,I don't think so. Although it would explain an awful lot.
+2140,39,132,618000,Fat Tony,Club,Me and the boys wish to thank you for hanging onto this stuff for us.
+2141,39,133,622000,Bart Simpson,Club,"Thanks... uh... Say, are you guys crooks?"
+2142,39,134,627000,Fat Tony,Club,"Bart, um... is it wrong to steal a loaf of bread to feed your starving family?"
+2143,39,135,632000,Bart Simpson,Club,No.
+2144,39,136,633000,Fat Tony,Club,"Well, suppose you got a large starving family. Is it wrong to steal a truckload of bread to feed them?"
+2145,39,137,638000,Bart Simpson,Club,Uh-uh.
+2146,39,138,639000,Fat Tony,Club,"And what if your family don't like bread, they like cigarettes?"
+2147,39,139,643000,Bart Simpson,Club,I guess that's okay.
+2148,39,140,645000,Fat Tony,Club,"Now, what if instead of giving them away, you sold them at a price that was practically giving them away. Would that be a crime, Bart?"
+2149,39,141,653000,Bart Simpson,Club,Hell no!
+2150,39,142,655000,Fat Tony,Club,Enjoy your gift.
+2151,39,143,658000,Bart Simpson,Club,Supoib.
+2153,39,145,661000,Bart Simpson,Simpson Home,"THOSE FINGERS THROUGH MY HAIR / THAT SLY COME HITHER STARE / THAT STRIPS MY CONSCIENCE BARE / IT'S WITCHCRAFT - GIMME THREE FINGERS OF MILK, MA."
+2155,39,147,675000,Marge Simpson,Simpson Home,"I know it's good for a boy to have a part-time job, but I'm not sure about the people Bart's working for. I thinks they're criminals."
+2157,39,148,682000,Homer Simpson,Simpson Home,"A job's a job. I mean, take me. If my plant pollutes the water and poisons the town, by your logic that would make me a criminal."
+2158,39,149,691000,Marge Simpson,Simpson Home,"Well, Bart's been acting very strangely. And that pizza delivery truck has been parked across the street for two weeks."
+2159,39,150,698000,Marge Simpson,Simpson Home,How long does it take to deliver a pizza?
+2161,39,152,701000,Fbi Agent #1,PIZZA DELIVERY TRUCK,Looks like our cover's blown.
+2162,39,153,702000,Fbi Agent #2,PIZZA DELIVERY TRUCK,Let's roll.
+2164,39,155,704000,Homer Simpson,Simpson Home,See? It was all your imagination.
+2165,39,156,707000,Marge Simpson,Simpson Home,"Homer, I want you to go down to that club and talk to them. Just see what kind of people they are. Please, Homie?"
+2166,39,157,715000,Homer Simpson,Simpson Home,"Oh, all right."
+2168,39,159,719000,Homer Simpson,Club,"Hee hee, hee-hee-hee! Read 'em and weep boys, another pair of sixes."
+2169,39,160,726000,Fat Tony,Club,Beats me.
+2170,39,161,727000,Joey,Club,I was bluffin'.
+2171,39,162,728000,Legs,Club,"You win again, Homer."
+2173,39,164,731000,Fat Tony,Club,I am thrilled you've decided to let your boy continue to work here.
+2174,39,165,735000,Homer Simpson,Club,"You know if you need a hat check girl, I've got a daughter."
+2175,39,166,737000,Fat Tony,Club,"Homer, you're a hellava father."
+2177,39,168,740000,Marge Simpson,Simpson Home,"Homer, what did you find out?"
+2178,39,169,743000,Homer Simpson,Simpson Home,"Marge, the only thing going on down there was a lot of male bonding."
+2180,39,171,747000,Bart Simpson,Springfield Elementary School,"More ""stink lines"" boys."
+2181,39,172,751000,Seymour Skinner,Springfield Elementary School,What's this? What are you boys doing?
+2182,39,173,754000,Bart Simpson,Springfield Elementary School,You ain't seen nothin'. Now beat it.
+2184,39,175,763000,Rival Gang Leader,Club,"So, Fat Tony. You invite me and my associates to your club with the promise of the finest Manhattans in all of Springfield. Now you say your bartender isn't here?"
+2185,39,176,773000,Fat Tony,Club,I don't know what happened. He's never late. Louie! Make up some Manhattans.
+2186,39,177,777000,Louie,Club,But I only know how to make wine spritzers.
+2187,39,178,779000,Fat Tony,Club,Now!
+2188,39,179,787000,Rival Gang Leader,Club,"What have I done to deserve this flat, flavorless Manhattan?"
+2189,39,180,800000,Rival Gang Leader,Club,"Come on, boys."
+2156,39,181,803000,Fat Tony,Club,The kiss of death. That's all I need!
+2190,39,182,810000,Bart Simpson,Club,Lousy Skinner.
+2191,39,183,812000,Fat Tony,Club,You are late for work.
+2192,39,184,814000,Bart Simpson,Club,Of course I'm late for work. How can I be on time when Principal Skinner keeps me after school?
+2193,39,185,819000,Fat Tony,Club,This guy Skinner causing you trouble?
+2194,39,186,820000,Bart Simpson,Club,"He sure is, Patrone."
+2195,39,187,822000,Fat Tony,Club,"Hm... perhaps we should go to meet and greet this individual. Come on, boys."
+2197,39,189,832000,Secretary,Skinner's Office,"Some large men to see you, sir."
+2198,39,190,834000,Seymour Skinner,Skinner's Office,I don't have an appointment with any large men --
+2199,39,191,837000,Fat Tony,Skinner's Office,You Skinner?
+2200,39,192,840000,Seymour Skinner,Skinner's Office,"I'm PRINCIPAL Skinner, yes. And how, may I ask, did you get past the hall monitors?"
+2202,39,194,850000,Edna Krabappel-Flanders,Springfield Elementary School,"Children, I don't know how to break this to you, but Principal Skinner is... ... MISSING!"
+2203,39,195,861000,Bart Simpson,Springfield Elementary School,Uh-oh.
+2206,39,198,876000,Groundskeeper Willie,Springfield Elementary School,I thought I found him but it was only a cat.
+2209,39,201,884000,Chief Wiggum,Springfield Police Station,"Now please... Please, please, I can assure you we'll be using the most advanced, scientific techniques in the field of... body finding."
+2210,39,202,898000,Psychic,Springfield Police Station,I see wedding bells for Vanna White and Teddy Kennedy....
+2211,39,203,902000,Chief Wiggum,Springfield Police Station,"Please, Princess Opal, if we could just stick to Principal Skinner."
+2212,39,204,905000,Psychic,Springfield Police Station,"Chief Wiggum, I am merely a conduit for the spirits. Willie Nelson will astound his fans by swimming the English Channel."
+2213,39,205,913000,Chief Wiggum,Springfield Police Station,Really? Willie Nelson?
+2215,39,207,918000,Edna Krabappel-Flanders,Springfield Elementary School Hallway,He loved fire drills.
+2216,39,208,921000,Groundskeeper Willie,Springfield Elementary School Hallway,"Will ya get a hold of yourself, Lass, for the wee bairns!"
+2218,39,210,924000,Lewis Clark,Springfield Elementary School Yard,Hey look at me! I'm Skinner's body!
+2219,39,211,927000,Bart Simpson,Springfield Elementary School Yard,"That is not funny, Lewis."
+2220,39,212,929000,Milhouse Van Houten,Springfield Elementary School Yard,"Well, I heard Skinner's buried under his parking spot."
+2221,39,213,931000,Richard,Springfield Elementary School Yard,I heard he was ground up into hamburger and served to us at lunch.
+2222,39,214,934000,Nelson Muntz,Springfield Elementary School Yard,I heard Bart had Skinner killed by gangsters.
+2223,39,215,936000,Bart Simpson,Springfield Elementary School Yard,That's not true! It's just a rumor! You're engaged in speculation. I know the law. You can't prove anything.
+2225,39,217,951000,Skinner Body,Simpson Home,You killed me Bart.
+2227,39,219,961000,Skinner Body,Simpson Home,"You killed me, Bart!"
+2229,39,221,969000,Skinner Body,Simpson Home,"You k-killed me, Bart!"
+2232,39,224,981000,Bart Simpson,Deathhouse,Reverend Lovejoy! You've... you've come to comfort me?
+2233,39,225,984000,Rev. Timothy Lovejoy,Deathhouse,"Yes, Bart. ... There there... there there..."
+2235,39,227,994000,Homer Simpson,Springfield Prison,Kill my boy! Kill my boy!
+2239,39,231,1017000,Fat Tony,Legitimate Businessman's Social Club,You're eight hours early for work. I like that.
+2240,39,232,1020000,Bart Simpson,Legitimate Businessman's Social Club,Did you kill my principal?
+2241,39,233,1021000,Fat Tony,Legitimate Businessman's Social Club,Uh... Chinese guy with a mustache?
+2242,39,234,1023000,Bart Simpson,Legitimate Businessman's Social Club,No! My principal!
+2243,39,235,1025000,Legs,Legitimate Businessman's Social Club,"That Skinner guy? Naw, we didn't kill him."
+2244,39,236,1028000,Chief Wiggum,Legitimate Businessman's Social Club,Nobody move! You're all under arrest for the murder of Seymour Skinner.
+2245,39,237,1032000,Fat Tony,Legitimate Businessman's Social Club,What's a murder?
+2246,39,238,1033000,Chief Wiggum,Legitimate Businessman's Social Club,"Don't play dumb with me. Cuff 'em, boys."
+2248,39,240,1040000,Marge Simpson,SPRINGFIELD COUNTY JAIL,"Oh, Bart. Why couldn't you have gotten a paper route like other boys."
+2249,39,241,1045000,Homer Simpson,SPRINGFIELD COUNTY JAIL,"Wait till I get you home, boy."
+2250,39,242,1046000,Bart Simpson,SPRINGFIELD COUNTY JAIL,What's that guy doing here?
+2251,39,243,1048000,Lionel Hutz,SPRINGFIELD COUNTY JAIL,"Lionel Hutz, court-appointed attorney. I'll be defending you on the charge of -- Murder one?! Wow, even if I lose I'll be famous!"
+2253,39,245,1058000,Waylon Smithers,Burns's Office,That Simpson boy is looking at a hundred and eighty years.
+2256,39,246,1061000,C. Montgomery Burns,Burns's Office,Thank God we live in a country so hysterical over crime that a ten-year-old child can be tried as an adult.
+2258,39,248,1068000,Fat Tony,Courtroom,I didn't order this Skinner guy killed.
+2259,39,249,1070000,Blue-Haired Lawyer,Courtroom,But aren't you the head of this gang?
+2260,39,250,1072000,Fat Tony,Courtroom,"No, I just stop by the club occasionally to read the complimentary newspaper."
+2261,39,251,1077000,Blue-Haired Lawyer,Courtroom,Then who is the Kingpin... the Capo de tuti Capi?
+2262,39,252,1080000,Fat Tony,Courtroom,That's the guy.
+2263,39,253,1081000,Bart Simpson,Courtroom,Hey!
+2264,39,254,1083000,Fat Tony,Courtroom,"Forgive me, Don Bartholomew."
+2265,39,255,1085000,Louie,Courtroom,"We tried to stop the kid, but he wouldn't quit. It was like he went crazy."
+2266,39,256,1089000,Legs,Courtroom,"Prostitution, loan sharking, numbers. The kid liked to wet his beak in everything."
+2267,39,257,1096000,Lionel Hutz,Courtroom,"Mr. Simpson, you've been the boy's father for ten years. Do you really think he could be the leader of a murderous criminal syndicate?"
+2268,39,258,1103000,Homer Simpson,Courtroom,"Well, not the leader... I mean... Oh, it's true, it's true! All the pieces fit."
+2269,39,259,1115000,Judge Snyder,Courtroom,"In light of the damning testimony from your fellow gangsters, your father, your teachers and a seemingly endless parade of emotionally shattered baby-sitters, this court has no choice but to..."
+2270,39,260,1125000,Seymour Skinner,Courtroom,Stop!
+2271,39,261,1125000,Marge Simpson,Courtroom,Principal Skinner!
+2272,39,262,1129000,Homer Simpson,Courtroom,I thought he was dead.
+2273,39,263,1130000,Seymour Skinner,Courtroom,"I suppose you're all wondering where I've been. It all started a week ago. I was at my desk, revising and updating the school dress codes, when..."
+2275,39,265,1134000,Seymour Skinner,Skinner's Office,I was suddenly confronted by a gang of toughs acting on behalf of one Bart Simpson. Or so they said.
+2276,39,266,1145000,Louie,Skinner's Office,We really think there's promise in the boy.
+2277,39,267,1147000,Seymour Skinner,Skinner's Office,Get out!
+2278,39,268,1147000,Fat Tony,Skinner's Office,"Okay, okay, you don't have to yell."
+2280,39,270,1150000,Seymour Skinner,Skinner's Garage,To get my mind off that ugly confrontation I went home and began bundling my old newspapers. But suddenly the pile fell. I was trapped. Let this be a lesson to recycle frequently.
+2284,39,271,1161000,Seymour Skinner,Skinner's Garage,"For the next week I stayed alive by eating my mother's delicious preserves and maintained my sanity by dribbling a nearby basketball with my one free hand. I made a game of it, seeing how many times I could bounce the ball in a day, then trying to break that record. Occasionally the police arrived to search my home."
+2286,39,273,1177000,Chief Wiggum,Skinner Home,"Find anything this time, boys?"
+2287,39,274,1179000,Lou,Skinner Home,"Nah... no sign of him, chief."
+2288,39,275,1180000,Chief Wiggum,Skinner Home,Princess Opal?
+2289,39,276,1181000,Psychic,Skinner Home,I see nothing here but I'm afraid it's splitsville for Delta Burke and Major Dad.
+2290,39,277,1185000,Chief Wiggum,Skinner Home,But they seemed so happy.
+2291,39,278,1187000,Seymour Skinner,Skinner Home,"I shouted until I was hoarse, but they couldn't hear me."
+2293,39,280,1190000,Seymour Skinner,Skinner's Garage,I'M IN HERE!!!
+2294,39,281,1192000,Chief Wiggum,Skinner's Garage,"Well, let's go."
+2295,39,282,1193000,Eddie,Skinner's Garage,"Okay, Chief."
+2296,39,283,1195000,Seymour Skinner,Skinner's Garage,"Finally I realized if I was ever going to get out of there, I would have to do it myself."
+2297,39,284,1199000,Seymour Skinner,Skinner's Garage,"I formed a crude rocket from a discarded cigar tube. And remembering an experiment from my days as a fourth grade science teacher, I concocted a fuel from baking soda and the juice of discarded lemon wedges."
+2298,39,285,1210000,Seymour Skinner,Skinner's Garage,"The rocket took off with a mighty blast of carbon dioxide, dragging behind it the end of a vacuum cleaner cord."
+2299,39,286,1215000,Seymour Skinner,Skinner's Garage,"I grabbed on to the vacuum cleaner, pushed the cord retractor button and was on my way to freedom."
+2301,39,288,1223000,Seymour Skinner,Courtroom,And that's my courageous story.
+2302,39,289,1227000,Prosecuting Attorney,Courtroom,"Your Honor, the prosecution moves that Principal Skinner's testimony be stricken from the record."
+2303,39,290,1231000,Judge Snyder,Courtroom,Denied. Case dismissed.
+2304,39,291,1234000,Lionel Hutz,Courtroom,"Your Honor, do I still get paid?"
+2306,39,293,1239000,Fat Tony,Courthouse Steps,Hey Bart! I hope there are no hard feelings.
+2307,39,294,1241000,Bart Simpson,Courthouse Steps,Get bent.
+2308,39,295,1242000,Fat Tony,Courthouse Steps,"I deserved that. Look, I know we let you down, but me and the boys, we still think you've got a big future in racketeering and extortion."
+2309,39,296,1251000,Bart Simpson,Courthouse Steps,"Sorry Fat Tony. I used to think your gang was cool, but now I learned that crime doesn't pay."
+2254,39,297,1256000,Fat Tony,Courthouse Steps,"Yeah, you're right."
+2311,39,299,1268000,Announcer,Simpson Living Room,"Blood on the Blackboard: The Bart Simpson Story. Starring Richard Chamberlain as Principal Skinner, Joe Mantegna as Fat Tony, Jane Seymour as the woman he loved, and TV's Doogie Howser, Neil Patrick Harris as Bart Simpson."
+2312,39,300,1281000,Joe,Simpson Living Room,"Bart, I'm scared. Let's get outta here."
+2313,39,301,1283000,Neil,Simpson Living Room,Shaddup!
+2314,39,302,1284000,Neil,Simpson Living Room,"Where do you want it, Skinner?"
+2315,39,303,1288000,Neil,Simpson Living Room,Not smart.
+2316,39,304,1292000,Bart Simpson,Simpson Living Room,Cool!
+2317,39,305,1293000,Homer Simpson,Simpson Living Room,"Hey, when do we get the check for this?"
+2318,39,306,1295000,Marge Simpson,Simpson Living Room,"Well, they said they changed it just enough so they don't have to pay us."
+2319,39,307,1299000,Homer Simpson,Simpson Living Room,You know who the real crooks are? Those sleazy Hollywood Producers.

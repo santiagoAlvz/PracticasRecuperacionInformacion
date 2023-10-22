@@ -1,0 +1,284 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+60569,246,2,84000,Announcer,Simpson Living Room,"""The Cyborganizer."" A high-tech robocop created for one purpose only... to help the NYPD tackle its tedious paperwork."
+60570,246,3,92000,Police Captain,Simpson Living Room,"Good work, Cyborganizer."
+60571,246,4,94000,Cyborganizer,Simpson Living Room,"I can streamline any procedure, except this thing you call ""love."""
+60572,246,5,94000,Homer Simpson,Simpson Living Room,Poor Cyborganizer
+60573,246,6,101000,Marge Simpson,Simpson Living Room,"Homer, sitting that close to the TV can't be good for you."
+60574,246,7,104000,Homer Simpson,Simpson Living Room,Talking while the TV's on can't be good for you.
+60575,246,8,107000,Marge Simpson,Simpson Living Room,You should get your eyes checked. I'm taking Bart to the mall to buy camping supplies -- why don't you come along?
+60576,246,9,113000,Homer Simpson,Simpson Living Room,Nah. I want to enjoy this show before the network retools it.
+60577,246,10,117000,Cyborganizer,Simpson Living Room,How can I organize this modeling agency and still be a good single father?
+60578,246,11,123000,Robobaby,Simpson Living Room,"I love you, Daddy."
+60579,246,12,124000,Homer Simpson,Simpson Living Room,Too late.
+60582,246,15,129000,Marge Simpson,Eye Caramba,We need something quick. My husband's eyes are really shot.
+60583,246,16,133000,Homer Simpson,Eye Caramba,"Whee! Touch the sky, Maggie! Whee! Touch the sky!"
+60584,246,17,137000,Lisa Simpson,Eye Caramba,"Dad, I've got Maggie."
+60585,246,18,138000,Homer Simpson,Eye Caramba,Who said that?
+60586,246,19,141000,Marge Simpson,Eye Caramba,"Come on, Bart. While your dad gets his glasses, we'll go shop for your trip."
+60587,246,20,145000,Bart Simpson,Eye Caramba,"I hate shopping. Just get me a deck of cards, and I'll win whatever I need from the other kids."
+60588,246,21,151000,Marge Simpson,Eye Caramba,"But you need to try things on! Every brand has a different idea of ""Husky."""
+60589,246,22,154000,Bart Simpson,Eye Caramba,"I'm in tantrum position. T-minus five... four... three... remembering dead cat for real tears, and..."
+60590,246,23,162000,Marge Simpson,Eye Caramba,"Fine, you win. I'll do your shopping for you."
+60591,246,24,166000,Bart Simpson,Eye Caramba,Tantrum averted. But now I can't forget the cat.
+60593,246,26,170000,Optometrist,"""eye Caramba"" Examination Room","Okay, let's get started."
+60594,246,27,174000,Optometrist,"""eye Caramba"" Examination Room","Hey, wake up."
+60595,246,28,175000,Homer Simpson,"""eye Caramba"" Examination Room",Sorry.
+60596,246,29,176000,Optometrist,"""eye Caramba"" Examination Room","Now, read the first line."
+60597,246,30,178000,Homer Simpson,"""eye Caramba"" Examination Room",I... 8... P.P.
+60598,246,31,178000,Homer Simpson,"""eye Caramba"" Examination Room",Why you little...
+60601,246,34,186000,Optometrist,"""eye Caramba"" Examination Room",Better or worse?
+60603,246,36,188000,Homer Simpson,"""eye Caramba"" Examination Room",Worse.
+60604,246,37,189000,Optometrist,"""eye Caramba"" Examination Room",Better or worse?
+60605,246,38,191000,Homer Simpson,"""eye Caramba"" Examination Room",Much better.
+60606,246,39,193000,Bart Simpson,"""eye Caramba"" Examination Room",Dad!
+60608,246,41,195000,Optometrist,Eyewear Store,That pair is popular with celebrities like Val Kilmer...
+60609,246,42,198000,Homer Simpson,Eyewear Store,"Oo, my favorite Door."
+60610,246,43,199000,Optometrist,Eyewear Store,And Yoko Ono...
+60611,246,44,201000,Homer Simpson,Eyewear Store,Ew. She ruined the Plastic Ono Band.
+60612,246,45,204000,Optometrist,Eyewear Store,Maybe you're a candidate for laser eye surgery.
+60613,246,46,206000,Homer Simpson,Eyewear Store,Would it get me out of having to choose glasses?
+60614,246,47,208000,Optometrist,Eyewear Store,"Well yes, but I must warn you, it's an experimental procedure and we still don't know the long-term effects..."
+60615,246,48,213000,Homer Simpson,Eyewear Store,"Less yappin', more zappin'."
+60617,246,50,214000,Marge Simpson,"""tommy Hillclimber"" Camping Store","Well, looks like we got everything for Bart's camping trip: Blair Witch Repellent, antler saw and Deep Woods Scrabble."
+60618,246,51,221000,Marge Simpson,"""tommy Hillclimber"" Camping Store","Ooh, ""Tango de la Muerte."" I've been dying to see that movie!"
+60619,246,52,227000,Lisa Simpson,"""tommy Hillclimber"" Camping Store",It got rave reviews from both the Entertainment Radio Network and the Radio Entertainment Network. Let's go!
+60622,246,54,236000,Optometrist,Eyewear Store,Wait! You've gotta use these drops. They prevent your eyes from crusting over.
+60623,246,55,240000,Homer Simpson,Eyewear Store,"Oh, here we go with the add ons. No thanks."
+60626,246,58,249000,Eduardo,Ballroom,"Now that my severed foot has been reattached, I must win back the coveted dance title: Loco Legs!"
+60627,246,59,254000,Dance Coach,Ballroom,"As your wise but alcoholic dance coach, I know that somewhere, your father is looking down on you and smiling. Oh, there he is."
+60628,246,60,264000,Eduardo,Ballroom,"And now, I must choose a beautiful partner for the big dance contest."
+60629,246,61,274000,Eduardo,Ballroom,No.
+60630,246,62,278000,Lisa Simpson,Ballroom,"Oh, he'll never dance with her. She'll have to settle for some Mexican Milhouse."
+60631,246,63,282000,Eduardo,Ballroom,I demand to know your name.
+60632,246,64,283000,PLAIN JANE,Ballroom,My name is... Lisabella.
+60633,246,65,285000,Lisa Simpson,Ballroom,"That's my name with bella on the end of it. Ask her, oh God, please ask her to dance."
+60634,246,66,290000,Eduardo,Ballroom,I shall dance with her.
+60635,246,67,294000,Latin Milhouse,Ballroom,"Que malo! Once again, I must sugar my own churro."
+60636,246,68,299000,LISABELLA,Ballroom,But I am just a simple librarian. I have only read about dancing in books.
+60637,246,69,305000,Eduardo,Ballroom,I will show you something that is in no book.
+60638,246,70,316000,Lisa Simpson,Ballroom,"She's not plain, she's beautiful!"
+60639,246,71,328000,Eduardo,Ballroom,There is just one dance that will beat them: the Tango de la Muerte.
+60640,246,72,333000,LISABELLA,Ballroom,"Only one man was crazy enough to dance that dance, and he is dead!"
+60641,246,73,336000,Eduardo,Ballroom,"My twin brother, Freduardo. But where he died, I shall live. In his apartment."
+60642,246,74,365000,Eduardo,Ballroom,You are now carrying my child.
+60643,246,75,367000,LISABELLA,Ballroom,But how?
+60644,246,76,368000,Eduardo,Ballroom,It is the mystery of the dance.
+60646,246,78,375000,Lisa Simpson,Movie Theater,"Oh, Mom. I want to be a dancer!"
+60647,246,79,377000,Marge Simpson,Movie Theater,"That's wonderful, honey. We should ask your father, though. Where is he, anyway?"
+60649,246,81,383000,Kearney Zzyzwicz,Homer's Car,"Now Homie, when we get to the liquor store, buy me some Jack Daniels and a carton of smokes."
+60650,246,82,389000,Homer Simpson,Homer's Car,"Yes, dear."
+60653,246,84,399000,Marge Simpson,Dance Studio,I remember Little Vicki Valentine! Her perky smile and dancing brought America right out of the depression.
+60654,246,85,407000,Lisa Simpson,Dance Studio,"Well, I think World War II helped a little, Mom."
+60655,246,86,409000,Marge Simpson,Dance Studio,"Don't smart mouth, Lisa."
+60656,246,87,411000,Little Vicki,Dance Studio,A great big sunshine hello to you!
+60657,246,88,414000,Marge Simpson,Dance Studio,"Hi, Little Vicki."
+60658,246,89,416000,Little Vicki,Dance Studio,"Oh, that was such a long time ago. I'm just plain Vicki now."
+60659,246,90,419000,Marge Simpson,Dance Studio,"All right. I'd like to sign my daughter up for lessons, Vicki."
+60660,246,91,423000,Little Vicki,Dance Studio,Little Vicki.
+60661,246,92,423000,Marge Simpson,Dance Studio,But you just said that...
+60662,246,93,425000,Little Vicki,Dance Studio,"So, what dance style were you interested in? We have ever so many. There's ballroom..."
+60663,246,94,431000,Agnes Skinner,Dance Studio,Ow! You stepped on my toes again!
+60664,246,95,434000,Seymour Skinner,Dance Studio,If you would just let me lead...
+60665,246,96,436000,Agnes Skinner,Dance Studio,"You're not a leader, Seymour. Never have been. Never will be."
+60666,246,97,441000,Little Vicki,Dance Studio,There's square dancing...
+60667,246,98,442000,Texan Man,Dance Studio,"Put the birdie in the cage, odd lady in the center / Now the birdie is purdy / and the crows hop in / Pluck the feather all together / Hell bent for leather / Put your honey in the saddle...!"
+60668,246,99,449000,Little Vicki,Dance Studio,"Or, there's the dance that made me famous: tap."
+60669,246,100,455000,Lisa Simpson,Dance Studio,"But I want to learn a dance I can use in real life, like the Tango de la Muerte."
+60670,246,101,459000,Little Vicki,Dance Studio,"Aw, bless your heart. Let's get you some tap shoes."
+60671,246,102,462000,Marge Simpson,Dance Studio,"Ah, Little Vicki, I really think she had her heart set on..."
+60672,246,103,465000,Little Vicki,Dance Studio,Little advice: don't live through your child.
+60673,246,104,467000,Marge Simpson,Dance Studio,Okay.
+60676,246,107,473000,Milhouse Van Houten,School Bus,"Camp is gonna be great! Seven days without parents, homework or ear medicine."
+60677,246,108,478000,Bart Simpson,School Bus,"Yes sir, this is gonna be the best week of our young lives."
+60678,246,109,482000,Nelson Muntz,School Bus,I'm gonna pound you two all week.
+60679,246,110,484000,Bart Simpson,School Bus,What'd we do?
+60680,246,111,486000,Nelson Muntz,School Bus,Nothin'. But I gotta pound somebody.
+60682,246,113,492000,Nelson Muntz,Springfield Elementary School,Haw haw.
+60683,246,114,492000,Bart Simpson,Springfield Elementary School,Now where do we go?
+60684,246,115,493000,Milhouse Van Houten,Springfield Elementary School,"I don't wanna go home. My grandma's sleeping in my bed, and she has skin like a basketball."
+60685,246,116,499000,Bart Simpson,Springfield Elementary School,Wait a minute. Everybody thinks we're at camp this week. We can stay wherever we want.
+60686,246,117,504000,Milhouse Van Houten,Springfield Elementary School,"Yeah, like the Four Seasons. Each room has its own safe!"
+60687,246,118,509000,Bart Simpson,Springfield Elementary School,I've got a better place.
+60688,246,119,511000,Milhouse Van Houten,Springfield Elementary School,The mall?
+60689,246,120,513000,Bart Simpson,Springfield Elementary School,Yeah. It's just like my dad always says...
+60690,246,121,514000,Thought Bubble Homer,Springfield Elementary School,"For an evening or a week, there's no place like the mall. Food, fun and fashion -- the mall has it all!"
+60691,246,122,522000,Milhouse Van Houten,Springfield Elementary School,What? What did he say?
+60693,246,124,529000,Little Vicki,Dance Studio,"Now, the key to great dancing is one word: Tap-a-tap-a-tap-a."
+60694,246,125,533000,Little Vicki,Dance Studio,Tap-a-tap-a-tap-a...
+60695,246,126,537000,Ralph Wiggum,Dance Studio,"Teacher, my shoes are making noise."
+60696,246,127,539000,Little Vicki,Dance Studio,You must be Ralph.
+60697,246,128,541000,Ralph Wiggum,Dance Studio,My daddy shoots people!
+60699,246,130,548000,Little Vicki,Dance Class,"Good... Good... Wait a minute, somebody's off the beat."
+60700,246,131,553000,Little Vicki,Dance Class,Let me hear you two.
+60701,246,132,556000,Little Vicki,Dance Class,Okay. Now you.
+60702,246,133,561000,Little Vicki,Dance Class,"Children, stop it! For all you know, she has a medical condition."
+60703,246,134,565000,Lisa Simpson,Dance Class,Nope.
+60704,246,135,566000,Little Vicki,Dance Class,I see.
+60706,246,137,571000,Bart Simpson,Springfield Mall,"This is way better than camp. No mosquitoes, no stupid camp songs..."
+60707,246,138,575000,Voice,Springfield Mall,"IF YOU'RE HAPPY AND YOU KNOW IT, SHOP AT STAN'S."
+60708,246,139,578000,ORGAN SALESMAN,Springfield Mall,GIANT DISCOUNTS ON YOUR FAVORITE MAJOR BRANDS...
+60709,246,140,581000,Mall Announcer,Springfield Mall,"Attention shoppers, the mall is now closed."
+60710,246,141,587000,Security Guard,Springfield Mall,"Okay, folks. You heard the recording. Clear out."
+60711,246,142,592000,Bart Simpson,Springfield Mall,Quick. Up here.
+60712,246,143,596000,Milhouse Van Houten,Springfield Mall,Where are we going?
+60713,246,144,597000,Bart Simpson,Springfield Mall,Quiet. Just keep scurrying.
+60714,246,145,599000,Milhouse Van Houten,Springfield Mall,Worms!
+60715,246,146,603000,Bart Simpson,Springfield Mall,"Gold! Wait, this is just chocolate. Chocolate!"
+60716,246,147,608000,Milhouse Van Houten,Springfield Mall,And these are Gummy Worms! Gummy!
+60652,246,148,611000,Bart Simpson,Springfield Mall,War Heads? Jelly Bellies? We're like two kids in a candy store!
+60717,246,149,615000,Milhouse Van Houten,Springfield Mall,Yes!
+60556,246,150,620000,Bart Simpson,Springfield Mall,Flavor's gone.
+60718,246,151,623000,Bart Simpson,Springfield Mall,Flavor's gone.
+60719,246,152,624000,Milhouse Van Houten,Springfield Mall,Shoe fight!
+60720,246,153,628000,Bart Simpson,Springfield Mall,Ow! No golf shoes!
+60721,246,154,629000,Bart Simpson,Springfield Mall,"Ready, Milhouse?"
+60722,246,155,631000,Milhouse Van Houten,Springfield Mall,Gimme a sec...
+60723,246,156,648000,Milhouse Van Houten,Springfield Mall,Whoa!
+60724,246,157,649000,Bart Simpson,Springfield Mall,We're lumberjacks!
+60725,246,158,651000,Mall Manager,Springfield Mall,"Oh, my God!"
+60726,246,159,653000,Mall Manager,Springfield Mall,Look at this place. How could this happen?
+60727,246,160,655000,Mall Manager,Springfield Mall,"Candy chewed, wigs pulled from stands, cheese packages poked and repoked..."
+60728,246,161,665000,Chief Wiggum,Springfield Mall,Every sign points to one obvious culprit... A giant rat.
+60729,246,162,668000,Chief Wiggum,Springfield Mall,You'll have to shut down the mall.
+60730,246,163,669000,Mall Manager,Springfield Mall,On Presidents' Day weekend? Are you crazy?
+60731,246,164,672000,Chief Wiggum,Springfield Mall,"Crazy with concern for the public, yes. Now shut this place down before the old folks come in for their morning walk."
+60732,246,165,681000,Old Folks,Springfield Mall,Open!
+60734,246,167,683000,Little Vicki,Dance Class,Tap-a-tap-a-tap-a. Tap-a-tap-a-tap-a...
+60735,246,168,686000,Ralph Wiggum,Dance Class,Ow!
+60736,246,169,688000,Lisa Simpson,Dance Class,Sorry. The floor's kind of at an angle here. I'm gonna move over there.
+60737,246,170,693000,Little Vicki,Dance Class,"Okay, from tap-a-tap-a-tap-a."
+60739,246,172,700000,Ralph Wiggum,Dance Class,Lisa's bad dancing makes my feet sad.
+60740,246,173,702000,Little Vicki,Dance Class,Let's take five.
+60741,246,174,705000,Lisa Simpson,Dance Class,"What am I doing wrong, Little Vicki?"
+60742,246,175,706000,Little Vicki,Dance Class,"Well, you're falling a lot... Maybe you should work on that."
+60743,246,176,710000,Lisa Simpson,Dance Class,"Yeah, well, no offense, but maybe I need a little more instruction than just tap-a-tap-a-tap-a."
+60744,246,177,714000,Little Vicki,Dance Class,"Why, back when I was your age, I had 43 movies under my belt and I had to do it without tap-a-tap-a-tap-a. I would have killed for tap-a-tap-a-tap-a."
+60745,246,178,723000,Lisa Simpson,Dance Class,Sorry. I'm just frustrated.
+60746,246,179,725000,Little Vicki,Dance Class,"Well, you'll never save grandpa's farm with that attitude. You've just got to turn that frown upside down."
+60747,246,180,731000,Little Vicki,Dance Class,"That's a smile, not an upside-down-frown! Work on that, too."
+60752,246,183,736000,Homer Simpson,Simpson Home,"Hey, we got a postcard from Bart. ""Dear Mom and Homer. I'm having fun."" Aw, sounds like he's having fun."
+60753,246,184,743000,Marge Simpson,Simpson Home,Why does it have a picture of Vitamin Barn?
+60754,246,185,746000,Homer Simpson,Simpson Home,Didn't you ever go to camp? The ol' Vitamin Barn...
+60755,246,186,750000,Marge Simpson,Simpson Home,There's our Broadway Baby!
+60756,246,187,754000,Marge Simpson,Simpson Home,"Hey, dig that crazy rhythm."
+60757,246,188,756000,Lisa Simpson,Simpson Home,"I'm just walking. Listen, I know I said I wanted to be a dancer, but..."
+60758,246,189,761000,Marge Simpson,Simpson Home,And you will be a dancer.
+60759,246,190,763000,Homer Simpson,Simpson Home,"Look at you, all sugar and spice instead of equations and test tubes."
+60760,246,191,767000,Homer Simpson,Simpson Home,You're Daddy's precious dancing queen!
+60761,246,192,771000,Marge Simpson,Simpson Home,And you look adorable.
+60762,246,193,774000,Homer Simpson,Simpson Home,"Now honey, what were you trying to say before we kept interrupting you with our loving proudness?"
+60763,246,194,778000,Marge Simpson,Simpson Home,"Yes, our tiny tapper. What was it you were going to say after ""I wanted to be a dancer, but..."""
+60764,246,195,783000,Lisa Simpson,Simpson Home,But I just... need more practice. See ya!
+60765,246,196,792000,Homer Simpson,Simpson Home,Oh! What's that awful sound?
+60766,246,197,794000,Marge Simpson,Simpson Home,The furnace?
+60767,246,198,795000,Lisa Simpson,Simpson Home,It's me!
+60768,246,199,796000,Marge Simpson,Simpson Home,Awww...
+60769,246,200,802000,Bojangles,Simpson Home,"Why is you so down, Little Miss Vicki?"
+60770,246,201,804000,Little Vicki,Simpson Home,My kitty cat's sick and I'd be ever so sad if she should die.
+60772,246,203,810000,Bojangles,Simpson Home,"Ooh, well, I'm no animal doctah or nothin', but whenever I'm feelin' poorly, you know what fixes me up? Dancin'!"
+60773,246,204,817000,Little Vicki,Simpson Home,Dancin'?
+60774,246,205,818000,Bojangles,Simpson Home,Dancin'!
+60775,246,206,822000,Little Vicki,Simpson Home,But I don't know how to dance.
+60776,246,207,824000,Bojangles,Simpson Home,"Oh, I'll show ya how."
+60777,246,208,837000,Bojangles,Simpson Home,There. Now you're gettin' it!
+60778,246,209,839000,Little Vicki,Simpson Home,"Look at me, Powder Puff. I'm dancin'!"
+60779,246,210,851000,Lisa Simpson,Simpson Home,The cat dances better than I do.
+60781,246,212,853000,Chief Wiggum,Springfield Mall,We'll catch that mall rat.
+60782,246,213,856000,Lou,Springfield Mall,Sure hope this ACME kit works.
+60783,246,214,858000,Chief Wiggum,Springfield Mall,"Gosh, that cheese looks good. Think I could grab it before that anvil hits?"
+60784,246,215,862000,Lou,Springfield Mall,"Uh, I dunno, Chief. It's a million to one."
+60750,246,216,863000,Chief Wiggum,Springfield Mall,I like those odds.
+60786,246,217,870000,Chief Wiggum,Springfield Mall,My mistake was grabbing the cheese.
+60789,246,220,878000,Little Vicki,Dance Studio,"Professor Frink, will that spaceship be ready for the recital?"
+60790,246,221,882000,Professor Jonathan Frink,Dance Studio,"I have visited the future, and yes it will."
+60791,246,222,885000,Little Vicki,Dance Studio,"Okay, kids, tonight's the big night. Now remember, the important thing is to just dance flawlessly."
+60792,246,223,892000,Lisa Simpson,Dance Studio,Excuse me...
+60793,246,224,893000,Lisa Simpson,Dance Studio,Why isn't my name in the program?
+60794,246,225,895000,Little Vicki,Dance Studio,"It is, silly. You've got the most important part of all."
+60795,246,226,898000,Lisa Simpson,Dance Studio,Curtain puller?!
+60796,246,227,899000,Little Vicki,Dance Studio,No one can see the show if the curtain isn't open!
+60797,246,228,902000,Lisa Simpson,Dance Studio,But my parents are counting on seeing me dance! And I've worked ever so hard.
+60798,246,229,907000,Little Vicki,Dance Studio,"I'm sorry, Lisa. But giving everyone an equal part when they're clearly not equal, is called what again, class?"
+60799,246,230,913000,Children,Dance Studio,Communism.
+60800,246,231,914000,Little Vicki,Dance Studio,That's right. And I didn't tap all those Morse code messages to the allies 'til my shoes filled with blood just to roll out the welcome mat for the Reds.
+60801,246,232,921000,Lisa Simpson,Dance Studio,"All right, I'll be the stupid curtain puller."
+60802,246,233,928000,Little Vicki,Dance Studio,Smoothly. Pull-a-pull-a-pull-a...
+60803,246,234,932000,Lisa Simpson,Dance Studio,I get your pull-a-pull-a-pull-a...
+60804,246,235,932000,Professor Jonathan Frink,Dance Studio,"Excuse me, Lisa, but I couldn't help but overhear your nerdly predicament. Maybe I can be of assistance with the dancing and the twisting and the kung fu fiiigh-ting."
+60806,246,237,947000,Professor Jonathan Frink,PROF. FRINK'S LAB,I first observed this technology at the airport gift shop.
+60807,246,238,951000,Professor Jonathan Frink,PROF. FRINK'S LAB,"As you see, it responds to any percussive sound with an exuberant shaking of its groove thing. Yeah, yeah."
+60808,246,239,957000,Lisa Simpson,PROF. FRINK'S LAB,"Most entertaining, but how does that help me?"
+60809,246,240,959000,Professor Jonathan Frink,PROF. FRINK'S LAB,Observe.
+60810,246,241,967000,Lisa Simpson,PROF. FRINK'S LAB,"Ohhhhhh. That's brilliant, Professor! What will you think of next?"
+60811,246,242,973000,Professor Jonathan Frink,PROF. FRINK'S LAB,"Well, I also found this at the gift shop."
+60812,246,243,975000,Professor Jonathan Frink,PROF. FRINK'S LAB,Isn't it cute?
+60814,246,244,976000,Professor Jonathan Frink,PROF. FRINK'S LAB,I'm hoping to turn it into a weapon. Kill ya.
+60815,246,245,982000,Lisa Simpson,PROF. FRINK'S LAB,I've gotta go now.
+60817,246,247,985000,Chief Wiggum,Springfield Mall,"Okay, Mister Rat... We've got a little playmate for you."
+60818,246,248,992000,Lou,Springfield Mall,"Should I get the backup lion, Chief?"
+60819,246,249,992000,Chief Wiggum,Springfield Mall,Would you?
+60820,246,250,999000,Bart Simpson,Springfield Mall,Can you see the lion anywhere?
+60822,246,252,1003000,Bart Simpson,Springfield Mall,"Well, do you see him or not?"
+60823,246,253,1009000,Bart Simpson,Springfield Mall,Are you saying he's right on the other side of that plant?
+60825,246,255,1013000,Bart Simpson,Springfield Mall,Okay. Run!!!
+60828,246,258,1019000,Bart Simpson,Springfield Mall,This way!
+60832,246,262,1037000,Milhouse Van Houten,Springfield Mall,"Bart, you're a genius!"
+60834,246,264,1042000,Bart Simpson,Springfield Mall,"You okay, Milhouse?"
+60835,246,265,1044000,Milhouse Van Houten,Springfield Mall,Nothing that a handful of gummy bears can't fix.
+60836,246,266,1050000,Lou,Springfield Mall,"Well, well, looks like the cat got the rat."
+60837,246,267,1054000,Chief Wiggum,Springfield Mall,"And that's the end of that ""tail."""
+60838,246,268,1057000,Eddie,Springfield Mall,"Uh, Chief? Should we try and get the mountain lion back in its crate?"
+60839,246,269,1060000,Chief Wiggum,Springfield Mall,I repeat...
+60841,246,271,1064000,Little Vicki,Dance Studio,"Okay, everyone. We need big smiles out there, so line up for dimpling."
+60842,246,272,1068000,Little Vicki,Dance Studio,"Now this may hurt a lot. What am I saying, ""may""?"
+60843,246,273,1072000,Sherri Mackleberry,Dance Studio,Ow!
+60844,246,274,1073000,Little Vicki,Dance Studio,"Now, that's a happy face."
+60845,246,275,1076000,Lisa Simpson,Dance Studio,"Little Vicki, I figured out how to dance. I can be in the show now!"
+60846,246,276,1079000,Little Vicki,Dance Studio,"I'm sorry, Lisa. People go to a children's dance recital expecting a certain level of professionalism."
+60847,246,277,1085000,Lisa Simpson,Dance Studio,"But, but you don't understand..."
+60849,246,279,1089000,Ralph Wiggum,Dance Studio,I ate too much plastic candy.
+60851,246,280,1091000,Little Vicki,Dance Studio,"Heavens to Betsy, the star of the show is sick! Whatever will we do? There's only one person who can get us out of this pickle. Lisa?"
+60852,246,281,1099000,Lisa Simpson,Dance Studio,Yes?!
+60853,246,282,1100000,Little Vicki,Dance Studio,Help me into Ralph's costume.
+60855,246,284,1103000,Little Vicki,Dance Studio,"Showtime, children! Let's go."
+60856,246,285,1106000,Little Vicki,Dance Studio,"Okay, curtain puller, this is your moment to shine. Oh, it's too important. I'll do it for you."
+60857,246,286,1116000,Little Vicki,Dance Studio,"Lean, muscular children of Mars, we bring you candy."
+60859,246,288,1123000,JANEY,Dance Studio,Let's walk over to them.
+60860,246,289,1125000,Little Vicki,Dance Studio,"Why walk, when you can dance?"
+60861,246,290,1134000,Marge Simpson,Dance Studio,Where's Lisa?
+60862,246,291,1135000,Homer Simpson,Dance Studio,Shh! This plot is hard enough to follow as it is.
+60863,246,292,1139000,Kids,Dance Studio,ON THE SPACESHIP LOLLIPOP / GINGERBREAD MEN LIKE TO DO HIP HOP.
+60864,246,293,1145000,Kids,Dance Studio,AND CHOCOLATE CHIPS / MAKE A ROCKIN' FUEL FOR ROCKET SHIPS / WE JUST LOVE TO DANCE ON MARS / WHERE EVERYTHING'S MADE FROM CANDY BARS.
+60865,246,294,1156000,Marge Simpson,Dance Studio,"There she is! Hi, honey! Wow, look at her go."
+60866,246,295,1160000,Homer Simpson,Dance Studio,"Yeah, that pressure we put on her really paid off!"
+60868,246,297,1171000,Little Vicki,Dance Studio,What are you doing?
+60869,246,298,1172000,Lisa Simpson,Dance Studio,I can't help it! It's the shoes!
+60870,246,299,1174000,Little Vicki,Dance Studio,Nobody upstages Little Vicki!
+60871,246,300,1184000,Lisa Simpson,Dance Studio,"Oh, please stop!"
+60872,246,301,1186000,Little Vicki,Dance Studio,I'm just getting started!
+60875,246,304,1197000,Lisa Simpson,Dance Studio,Stop clapping!
+60876,246,305,1203000,Homer Simpson,Dance Studio,"Go, Lisa! C'mon, everybody, give it up for my little girl!"
+60877,246,306,1212000,Professor Jonathan Frink,Dance Studio,Stop with the clapping! You'll kill us all!
+60878,246,307,1220000,Marge Simpson,Dance Studio,"Lisa's gone berserk! Do something, Homer! Do something!"
+60879,246,308,1227000,Lisa Simpson,Dance Studio,"Oh, thanks, Dad."
+60880,246,309,1228000,Homer Simpson,Dance Studio,"I didn't think, I just acted."
+60881,246,310,1232000,Little Vicki,Dance Studio,Self-tapping shoes?! I'm ever so pissed!
+60882,246,311,1234000,Lisa Simpson,Dance Studio,"I'm sorry, Vicki. I just wanted to be a dancer so badly."
+60883,246,312,1239000,Little Vicki,Dance Studio,I understand. We all do crazy things when we're desperate. I once destroyed Buddy Ebsen's credit rating.
+60785,246,313,1245000,Lisa Simpson,Dance Studio,Why?
+60813,246,314,1246000,Little Vicki,Dance Studio,He knows why.
+60850,246,315,1248000,Professor Jonathan Frink,Dance Studio,"Jesus, Mary and glayvin! These shoes are in the ""Off"" position."
+60884,246,316,1251000,Lisa Simpson,Dance Studio,You mean I danced all by myself?
+60885,246,317,1253000,Marge Simpson,Dance Studio,"See, honey? All you needed was to believe in..."
+60886,246,318,1256000,Homer Simpson,Dance Studio,"What are you talking about, Professor Frink? They're clearly in the ""On"" position. See? ""On."""
+60887,246,319,1258000,Professor Jonathan Frink,Dance Studio,"I was merely trying to spare the girl's feelings, you insensitive clod."
+60888,246,320,1265000,Homer Simpson,Dance Studio,"Oh. Ohhhhh. Well, now that I look even closer..."
+60889,246,321,1269000,Lisa Simpson,Dance Studio,"Forget it, Dad. I guess I'm never gonna be your Broadway Baby."
+60890,246,322,1274000,Homer Simpson,Dance Studio,"That's not true, honey. You can always write a depressing Broadway play of some kind."
+60891,246,323,1278000,Lisa Simpson,Dance Studio,You think so?
+60892,246,324,1279000,Marge Simpson,Dance Studio,Sure. It could be a story about people coming to terms with things.
+60893,246,325,1283000,Homer Simpson,Dance Studio,"Hey, yeah. You could load it up with lots of swears. That's what David Mamet does."
+60894,246,326,1288000,Lisa Simpson,Dance Studio,"Oh, I love you guys."
+60895,246,327,1290000,Professor Jonathan Frink,Dance Studio,Uh-oh. It's out of its matrix. Nobody move.
+60896,246,328,1293000,Homer Simpson,Dance Studio,"Why? It's just a cute little weasel. Hello there, Mister weasel."
+60897,246,329,1301000,Homer Simpson,Dance Studio,I'm down.

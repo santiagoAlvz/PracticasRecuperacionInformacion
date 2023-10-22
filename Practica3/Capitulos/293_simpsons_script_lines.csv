@@ -1,0 +1,300 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+74566,293,1,30000,Homer Simpson,Moe's Tavern,"Hi, Moe, got any beer?"
+74567,293,2,32000,Moe Szyslak,Moe's Tavern,"Sure, check in the fridge."
+74568,293,3,34000,Moe Szyslak,Moe's Tavern,Wait a minute. I'm at work. Ya gotta pay for it.
+74569,293,4,39000,Homer Simpson,Moe's Tavern,What the-- Where's my money?
+74570,293,5,45000,Marge Simpson,Moe's Tavern,"""Dear Homie, Had to buy diapers for Maggie. Love, Marge."""
+74572,293,7,47000,Marge Simpson,Moe's Tavern,Simpson.
+74574,293,9,47000,Lisa Simpson,Moe's Tavern,"""Dear Dad, Took money for the school book fair."""
+74575,293,10,47000,Bart Simpson,Moe's Tavern,"""Homer, I need cash or they're gonna break my legs."""
+74576,293,11,54000,Moe Szyslak,Moe's Tavern,"Sorry, Homer."
+74577,293,12,55000,Homer Simpson,Moe's Tavern,So you're just gonna let me walk out of here sober.
+74578,293,13,57000,Moe Szyslak,Moe's Tavern,I'm afraid so.
+74579,293,14,58000,Homer Simpson,Moe's Tavern,And you can live with that.
+74580,293,15,59000,Moe Szyslak,Moe's Tavern,Yuh-huh.
+74581,293,16,59000,Homer Simpson,Moe's Tavern,Fine. There are plenty of other ways for me to alter my consciousness.
+74583,293,18,71000,Homer Simpson,Mt. Springfield,"Oh, yeah."
+74586,293,21,77000,Squeaky-Voiced Teen,Springfield Pet Shop,Are you gonna buy those toads or just lick 'em?
+74587,293,22,79000,Homer Simpson,Springfield Pet Shop,Lick 'em. Go away.
+74591,293,26,83000,Nurse,SPRINGFIELD RED CROSS,"Thanks for the donation, Mr. Simpson. Do you feel okay?"
+74592,293,27,86000,Homer Simpson,SPRINGFIELD RED CROSS,"Jewish? Oh, no, I'm not Jewish."
+74554,293,29,94000,Homer Simpson,Moe's Tavern,Wait'll Moe sees how wasted I got without him. He's gonna plotz.
+74594,293,30,94000,Carl Carlson,Moe's Tavern,You wouldn't serve Homer just 'cause he didn't have money?
+74595,293,31,102000,Lenny Leonard,Moe's Tavern,"What happened to you, Moe? You used to be about the booze."
+74596,293,32,105000,Moe Szyslak,Moe's Tavern,"Yeah, I guess I got caught up in all the glitz and glamour."
+74597,293,33,113000,Homer Simpson,Moe's Tavern,"Well, Moe..."
+74598,293,34,114000,Moe Szyslak,Moe's Tavern,"Homer, I'm so sorry. Have a free beer."
+74599,293,35,116000,Homer Simpson,Moe's Tavern,Oh.
+74600,293,36,119000,Homer Simpson,Moe's Tavern,"Ah, I don't care about the color of your skin, Lenny. You're my friend!"
+74601,293,37,127000,Lenny Leonard,Moe's Tavern,"Man, I've never seen anybody get loaded so fast."
+74602,293,38,129000,Moe Szyslak,Moe's Tavern,"Homer, can you say the alphabet backwards?"
+74603,293,39,131000,Homer Simpson,Moe's Tavern,"Oh, you'd like that wouldn't you, ya..."
+74604,293,40,134000,Carl Carlson,Moe's Tavern,"Hey, I'm worried."
+74605,293,41,135000,Homer Simpson,Moe's Tavern,I've had just about enough of you.
+74606,293,42,137000,Carl Carlson,Moe's Tavern,Oh yeah?!
+74608,293,44,139000,Carl Carlson,Moe's Tavern,"Ah, rats."
+74609,293,45,141000,Homer Simpson,Moe's Tavern,I'm outta here...
+74610,293,46,143000,Moe Szyslak,Moe's Tavern,"Hey, we can't let our friend drive like this. I'm liable, here."
+74611,293,47,147000,Moe Szyslak,Moe's Tavern,Get his keys!
+74612,293,48,148000,Homer Simpson,Moe's Tavern,"Hey, you want my keys?"
+74613,293,49,152000,Homer Simpson,Moe's Tavern,"Get 'em now, jerks."
+74614,293,50,155000,Homer Simpson,Moe's Tavern,"So long, jerks."
+74615,293,51,164000,Homer Simpson,Moe's Tavern,"Running after the car, huh? Let's see if you can follow this."
+74616,293,52,168000,Moe Szyslak,Moe's Tavern,"Oh, that's it."
+74617,293,53,176000,Cab Driver,Moe's Tavern,"Where to, Pal?"
+74618,293,54,176000,Homer Simpson,Moe's Tavern,Moe's Tavern.
+74620,293,56,179000,Homer Simpson,Simpson Home,"Good morning, everybody! What's for breakfast, cutie?"
+74621,293,57,183000,Marge Simpson,Simpson Home,"Homie, it's five p.m. We're having dinner."
+74622,293,58,186000,Homer Simpson,Simpson Home,"What? Wait a... That can't be right! Wait, was last night the night we set the clocks ahead eight hours?"
+74623,293,59,195000,Bart Simpson,Simpson Home,"No, it was the night you got loaded at Moe's and the car had to be towed home."
+74624,293,60,197000,Homer Simpson,Simpson Home,"If I was that drunk, I would remember it."
+74625,293,61,200000,Marge Simpson,Simpson Home,It's true. I couldn't even wake you up for work this morning. I had to tell Mr. Burns you had violent diarrhea.
+74626,293,62,207000,Homer Simpson,Simpson Home,Couldn't you come up with a less embarrassing lie?
+74628,293,63,211000,Marge Simpson,Simpson Home,But you did have violent diarrhea. Nobody open the hallway closet until I say it's okay.
+74629,293,64,219000,Lisa Simpson,Simpson Home,"Do you remember how you got home last night, Dad?"
+74630,293,65,221000,Homer Simpson,Simpson Home,"Of course. It was, uh... some kind of a... light rail."
+74631,293,66,227000,Lisa Simpson,Simpson Home,There's no light rail in Springfield.
+74632,293,67,229000,Homer Simpson,Simpson Home,"Oh, won't anyone pretend to believe me?"
+74633,293,68,231000,Bart Simpson,Simpson Home,"I will, Dad."
+74634,293,69,233000,Homer Simpson,Simpson Home,And that's why you're my favorite.
+74635,293,70,237000,Homer Simpson,Simpson Home,"All right, time for my favorite show."
+74636,293,71,241000,Network Announcer,Simpson Home,"""MTC: Monkey Trauma Center"" will not be seen tonight, so we may proudly present this much cheaper show..."
+74638,293,73,248000,Female Announcer,Simpson Home,Taxicab Conversations...
+74639,293,74,252000,Lisa Simpson,Simpson Home,"Hey, I read about this show in Teen Modern Maturity. They film passengers with hidden cameras and catch them at their most uninhibited."
+74640,293,75,259000,Marge Simpson,Simpson Home,That explains that.
+74641,293,76,266000,Female Cab Driver,Simpson Home,Looks like somebody got down tonight...
+74642,293,77,269000,Disco Stu,Simpson Home,"Disco Stu always gets down, baby, 'cuz when the beat is hot, the... Hey, can you keep a secret?"
+74643,293,78,277000,Female Cab Driver,Simpson Home,"What is it, hon?"
+74644,293,79,278000,Disco Stu,Simpson Home,"I hate disco. It's all I've talked about for so long, that people think I'm a one-note guy."
+74645,293,80,285000,Disco Stu,Simpson Home,"It's just getting harder, you know?"
+74646,293,81,287000,Lisa Simpson,Simpson Home,I had no idea Disco Stu was so complex.
+74647,293,82,292000,Cab Driver,Simpson Home,How ya doin'?
+74648,293,83,293000,Drunk Homer,Simpson Home,"Talky thing, ain't ya..."
+74649,293,84,294000,Lisa Simpson,Simpson Home,Another proud moment for the Simpsons.
+74650,293,85,297000,Homer Simpson,Simpson Home,I don't remember anybody telling me I was gonna be on TV.
+74651,293,86,301000,Cab Driver,Simpson Home,So what do you do for a living?
+74652,293,87,303000,Drunk Homer,Simpson Home,"Oh you know, I'm a guy at a place. How'd you get such a crappy job? You a convict or a junkie?"
+74653,293,88,310000,Cab Driver,Simpson Home,Little o' both. You got a family?
+74654,293,89,312000,Drunk Homer,Simpson Home,Oh yeah... wife and two or three kids. Can't imagine my life without 'em.
+74655,293,90,317000,Marge Simpson,Simpson Home,"Oh, you big fooler. Pretending not to remember so you could surprise us."
+74656,293,91,322000,Homer Simpson,Simpson Home,"Yeah, I'm pretty great..."
+74658,293,92,326000,Drunk Homer,Simpson Home,"At the end of a hard day, there's no better feeling than comin' home to the people you love."
+74659,293,93,333000,Marge Simpson,Simpson Home,"Oh, Homie..."
+74660,293,94,335000,Lisa Simpson,Simpson Home,That is so sweet.
+74661,293,95,337000,Bart Simpson,Simpson Home,"I had no idea, Dad. I just assumed with all the stranglings, you know..."
+74662,293,96,342000,Homer Simpson,Simpson Home,That my family isn't the center of my universe? Are you nuts?
+74663,293,97,347000,Drunk Homer,Simpson Home,Then there's those other days. Where you just wish you never got married or had kids.
+74664,293,98,354000,Drunk Homer,Simpson Home,"One minute, you're a carefree teenager with dreams of being a rock star, or a photographer for Playboy... Then bam, some babe gets her claws in ya...And boom, you got a buncha kids that always need love."
+74665,293,99,373000,Drunk Homer,Simpson Home,"So whammo, you get stuck in some boring job where they don't let you play guitar or take pictures of naked women, and all you can do is watch yourself get bald and fat, and kiss your dreams good-bye..."
+74666,293,100,391000,Homer Simpson,Simpson Home,"Oh, I can't believe they took ""Monkey Trauma Center"" off for this."
+74667,293,101,399000,Homer Simpson,Simpson Home,Lousy family...
+74668,293,102,403000,Marge Simpson,Simpson Home,So I'm just some babe who sank her claws into you?!
+74669,293,103,408000,Homer Simpson,Simpson Home,A hot babe...
+74671,293,105,411000,Lisa Simpson,Simpson Home,"Have you always resented us, Dad?"
+74672,293,106,413000,Homer Simpson,Simpson Home,"Oh, I don't resent you, sweetheart. What I was trying to say, and maybe I didn't use the right words, was that marriage is like a coffin and each kid is another nail, but as coffins go..."
+74673,293,107,425000,Lisa Simpson,Simpson Home,Please don't say any more!
+74674,293,108,426000,Bart Simpson,Simpson Home,"Sorry we ruined your life, Homer."
+74675,293,109,434000,Homer Simpson,Simpson Home,"Oh, what have I done?"
+74677,293,111,443000,Marge Simpson,Springfield Nuclear Power Plant,Get in.
+74679,293,113,445000,Marge Simpson,Springfield Nuclear Power Plant,Get in.
+74680,293,114,447000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, what's this suitcase for? Are we going on a trip?"
+74681,293,115,450000,Bart Simpson,Springfield Nuclear Power Plant,You are.
+74685,293,119,457000,Homer Simpson,Outskirts Of Town,Where are you taking me?
+74686,293,120,459000,Marge Simpson,Outskirts Of Town,A place where you'll never be bothered by your family again.
+74687,293,123,473000,Marge Simpson,Outskirts Of Town,"Get out of the car, Homer."
+74688,293,124,475000,Homer Simpson,Outskirts Of Town,You can't just leave me out here! There's not another woman for miles!
+74689,293,125,479000,Bart Simpson,Outskirts Of Town,"Sorry, Dad. Maybe now you'll appreciate us..."
+74690,293,126,481000,Lisa Simpson,Outskirts Of Town,...while you're spending the week at...
+74691,293,127,484000,Marge Simpson,Outskirts Of Town,Rock 'n' Roll Fantasy Camp!
+74692,293,128,488000,Homer Simpson,Outskirts Of Town,"""The Rolling Stones Rock 'n' Roll Fantasy Camp!!"" But I thought you guys were mad at me. For once in my life, I'm confused."
+74693,293,129,496000,Marge Simpson,Outskirts Of Town,"We had a family meeting and decided that even though what you said about us was incredibly thoughtless and hurtful, you had a point."
+74694,293,130,505000,Homer Simpson,Outskirts Of Town,Damn straight.
+74695,293,131,506000,Marge Simpson,Outskirts Of Town,You work a job you don't like so I'm able to be home with the kids.
+74696,293,132,511000,Lisa Simpson,Outskirts Of Town,"And you take me places you hate, like museums, plays, and the Olive Garden."
+74697,293,133,515000,Bart Simpson,Outskirts Of Town,"And even though you knew I ratted you out to the IRS, you never busted me on it."
+74698,293,134,519000,Homer Simpson,Outskirts Of Town,You what?
+74699,293,135,520000,Marge Simpson,Outskirts Of Town,"So to say thank you for all your sacrifices, we spent our family vacation fund on something that's just for you. Do you like it?"
+74700,293,136,529000,Homer Simpson,Outskirts Of Town,"You guys are the best. I love you, I love you, I love you..."
+74701,293,137,532000,Homer Simpson,Outskirts Of Town,"I'm okay. I love you, I love you, I love you, I love you..."
+74703,293,139,541000,Homer Simpson,Rock 'n' Roll Fantasy Camp,"Hey, what gives? Where are all the rock stars?"
+74704,293,140,544000,Chief Wiggum,Rock 'n' Roll Fantasy Camp,"I don't know, but it's starting to get dark."
+74705,293,141,548000,Homer Simpson,Rock 'n' Roll Fantasy Camp,What was that?
+74706,293,142,550000,Barney Gumble,Rock 'n' Roll Fantasy Camp,It's gettin' closer!
+74707,293,143,558000,Mick Jagger,Rock 'n' Roll Fantasy Camp,Hello campers!
+74708,293,144,559000,Keith Richards,Rock 'n' Roll Fantasy Camp,How ya doin'?
+74709,293,145,561000,Homer Simpson,Rock 'n' Roll Fantasy Camp,Omigod! Omigod! Omigod! It's Mick Jagger and Keith Richards...
+74711,293,147,567000,Mick Jagger,Rock 'n' Roll Fantasy Camp,"Welcome to Rock 'n' Roll Fantasy Camp, where you'll experience the complete rock 'n' roll lifestyle, without the lawsuits and STD's."
+74712,293,148,576000,Homer Simpson,Rock 'n' Roll Fantasy Camp,Woo! STD's!
+74713,293,149,578000,Keith Richards,Rock 'n' Roll Fantasy Camp,Now you're all here for one reason...
+74714,293,150,579000,Homer Simpson,Rock 'n' Roll Fantasy Camp,To rock!
+74715,293,151,581000,Keith Richards,Rock 'n' Roll Fantasy Camp,Who said that?
+74716,293,152,583000,Keith Richards,Rock 'n' Roll Fantasy Camp,"That's right, Otto. We're here to rock!"
+74718,293,154,587000,Mick Jagger,Rock 'n' Roll Fantasy Camp,So get a good night's sleep and remember Rule Number One: there are no rules!
+74720,293,156,595000,Mick Jagger,Rock 'n' Roll Fantasy Camp,Rule Number Two: no outside food!
+74721,293,157,598000,Campers,Rock 'n' Roll Fantasy Camp,"/ Oh, what a gyp."
+74722,293,158,601000,Chief Wiggum,Rock 'n' Roll Fantasy Camp,"Hey Mick, will you teach us your cocksure strut?"
+74723,293,159,604000,Mick Jagger,Rock 'n' Roll Fantasy Camp,Not today. I've got a ton of paperwork to catch up on.
+74724,293,160,607000,Chief Wiggum,Rock 'n' Roll Fantasy Camp,"Ha, tell me about it. At my job, we... Oh, oh, you're gone."
+74726,293,162,612000,Keith Richards,CAMP,Hey! Wake up!
+74729,293,165,617000,Homer Simpson,Bunk House,Are you ready...to receive professional training in rock?!
+74730,293,166,621000,Chief Wiggum,Bunk House,Have you been awake all night?
+74731,293,167,623000,Homer Simpson,Bunk House,I am so excited I couldn't fall asleep! I even took some pills I found on the floor and still nothing!
+74732,293,168,628000,Apu Nahasapeemapetilon,Bunk House,You took pills you found on the floor?
+74733,293,169,629000,Homer Simpson,Bunk House,"Uh-huh. Now I'm afraid that if I stop talking, I'll die. Isn't Mick cool? I thought he'd be all like, ""I'm a rock star. Aren't I great?"" But he's just like you or me or Jesus over there."
+74735,293,171,644000,Campers,CAMP,Guitar! Guitar! / Can I have a guitar?! / I want a guitar! Definitely a guitar!
+74736,293,172,644000,Elvis Costello,CAMP,"People, people, if everyone's gonna pick guitar, I'm not gonna have enough to go around."
+74737,293,173,648000,Campers,CAMP,/ Come on.
+74738,293,174,649000,Elvis Costello,CAMP,"But there's lots of other fun instruments, like bass."
+74739,293,175,657000,Elvis Costello,CAMP,"Come on, who'd like to be a bass player?"
+74740,293,176,659000,Homer Simpson,CAMP,"Out of my way, Nerdlinger."
+74741,293,177,662000,Elvis Costello,CAMP,My image!
+74742,293,178,663000,Homer Simpson,CAMP,Here you go.
+74743,293,179,666000,Elvis Costello,CAMP,I'm telling Mr. Jagger.
+74744,293,180,667000,Homer Simpson,CAMP,"Ooh, I'm telling Mr. Jagger."
+74746,293,182,667000,Lenny Kravitz,Lenny's Thread Shed,The clothes you wear on stage should be a defiant statement of individuality.
+74747,293,183,677000,Homer Simpson,Lenny's Thread Shed,"Like this, Mr. Kravitz?"
+73814,293,184,680000,Lenny Kravitz,Lenny's Thread Shed,God no.
+74748,293,185,681000,Apu Nahasapeemapetilon,Lenny's Thread Shed,"May we talk about, uh... accentuating the... masculine area?"
+74749,293,186,686000,Lenny Kravitz,Lenny's Thread Shed,"Did you hear that, people? Apu asked about crotch stuffing. Now I don't do it. Kenny Loggins does."
+74750,293,187,692000,Kenny Loggins,Lenny's Thread Shed,I trusted you!
+74752,293,189,700000,Brian Setzer,Cabin,"Now a guitar has many, many nicknames -- an axe, a gitbox... Well, I guess that's it. Anyway, we're gonna start with the fundamentals: playing a burning guitar with your teeth."
+74753,293,190,711000,Campers,Cabin,Fire! / Yes! / All right! Fire! / Hey!
+74754,293,191,712000,Homer Simpson,Cabin,Mr. Seltzer?
+74755,293,192,713000,Brian Setzer,Cabin,Setzer.
+74756,293,193,714000,Homer Simpson,Cabin,"No, I think it's Seltzer."
+74757,293,194,716000,Brian Setzer,Cabin,"What is it, Homer?"
+74758,293,195,717000,Homer Simpson,Cabin,I came up with a stage move I feel is very cool.
+74759,293,196,723000,Homer Simpson,Cabin,"Baby, baby, baby, baby!"
+74761,293,198,726000,Mick Jagger,Office,We've gotta start using a cheaper oatmeal.
+74762,293,199,731000,Homer Simpson,Office,Sorry Mick!
+74763,293,200,733000,Mick Jagger,Office,Simp-sonn!!
+74767,293,204,736000,Mick Jagger,CLASS,"Okay, strut, strut, strut, strut, strut, spin and... rooster!"
+74768,293,205,745000,Mick Jagger,CLASS,"Look everyone, Homer's got it."
+74769,293,206,747000,Homer Simpson,CLASS,"I'M SO HOT FOR ME, I'M SO HOT FOR ME / I'M SO COLD..."
+74770,293,207,752000,Mick Jagger,CLASS,"Okay, now ""schoolmarm."""
+74771,293,208,758000,Mick Jagger,CLASS,Everybody's naughty... and freeze finish.
+74772,293,209,764000,Mick Jagger,CLASS,"And no matter where you are, always say it's the wildest town in the whole damn world."
+74773,293,210,769000,Chief Wiggum,CLASS,"So when you said it in Springfield last year, you didn't mean it?"
+74774,293,211,772000,Mick Jagger,CLASS,"Yeah, sure I did. But only because Springfield really is the wildest town in the whole damn world!"
+74775,293,212,779000,Campers,CLASS,/ Yes! I knew it! I knew it! / Springfield!
+74777,293,214,782000,Tom Petty,CAMP,Lyrics are the hardest part of songwriting. But when you come up with something meaningful and heartfelt...
+74778,293,215,788000,Homer Simpson,CAMP,Bor-ing.
+74779,293,216,789000,Tom Petty,CAMP,Will you stop saying that?
+74780,293,217,791000,Homer Simpson,CAMP,But rock stars are supposed to be about drinking and getting drunk and boozing it up.
+74782,293,218,795000,Apu Nahasapeemapetilon,CAMP,And girls that have legs and know how to use them.
+74783,293,219,798000,Otto Mann,CAMP,"And, and why I can't drive 55."
+74784,293,220,800000,Tom Petty,CAMP,You just want mindless generic rock?
+74785,293,221,802000,Homer Simpson,CAMP,Precisely.
+74786,293,222,810000,Tom Petty,CAMP,SEE THAT DRUNK GIRL SPEEDIN' DOWN THE STREET...
+74788,293,224,814000,Tom Petty,CAMP,SHE'S WORRIED 'BOUT THE STATE OF PUBLIC SCHOOLS...
+74789,293,225,817000,Campers,CAMP,Boo!
+74790,293,226,819000,Tom Petty,CAMP,"SHE LIKES TO PARTY, SHE LIKES TO ROCK."
+74792,293,228,823000,Tom Petty,CAMP,SHE PRAYS THAT OUR SCHOOLS / DON'T RUN OUT OF CHALK.
+74793,293,229,827000,Campers,CAMP,Boo!
+74795,293,231,834000,Keith Richards,Rock 'n' Roll Camp,"Gettin' away from the gig can be a matter of life and death, so you gotta be in great physical shape. Okay, follow me!"
+74796,293,232,849000,Keith Richards,Rock 'n' Roll Camp,Paparazzi to the left!
+74797,293,233,850000,Homer Simpson,Rock 'n' Roll Camp,I got 'em!
+74798,293,234,853000,Homer Simpson,Rock 'n' Roll Camp,I'm entitled to a private life! I'm not a role model! And so forth.
+74799,293,235,856000,Keith Richards,Rock 'n' Roll Camp,"Good, Homer! Now just pass the groupies and we're home!"
+74800,293,236,859000,GROUPIES,Rock 'n' Roll Camp,You're great! / I love you! / I want you! / Please sleep with us!
+74801,293,237,866000,Keith Richards,Rock 'n' Roll Camp,They're bloody cardboard!
+74802,293,238,867000,Homer Simpson,Rock 'n' Roll Camp,We know!
+74804,293,240,872000,Barney Gumble,CAMP,YOU AIN'T NEVER CAUGHT A RABBIT AND YOU AIN'T NO FRIEND OF MINE-YINE-YINE-YINE-YI-YI-YI!
+74806,293,242,885000,Homer Simpson,CAMP,"Well, whaddaya think?"
+74807,293,243,887000,Mick Jagger,CAMP,"Uh, you rock, Homer."
+74808,293,244,890000,Homer Simpson,CAMP,Really? You really think I'm better than you?
+74809,293,245,895000,Marge Simpson,CAMP,"That was great, Homie."
+74810,293,246,897000,Homer Simpson,CAMP,What the hell are you doing here?
+74811,293,247,898000,Mick Jagger,CAMP,"Camp is over, Homer."
+74812,293,248,900000,Homer Simpson,CAMP,It's been a week already?
+74813,293,249,901000,Marge Simpson,CAMP,"I'm glad you had fun, but it's time to come home."
+74814,293,250,904000,Tom Petty,CAMP,"Your mother's right, Homer."
+74815,293,251,907000,Tom Petty,CAMP,Gotta get back to the real world.
+74816,293,252,908000,Mick Jagger,CAMP,"Yeah, we've all gotta get home. My lawn's not gonna mow itself."
+74817,293,253,912000,Keith Richards,CAMP,And I've gotta put up the storm windows. Winter's coming.
+74819,293,254,916000,Homer Simpson,CAMP,"Wait, don't go! I wanna keep on rockin'. C'mon guys... a-one, a-two..."
+74820,293,255,922000,Elvis Costello,CAMP,I'll take that.
+74821,293,256,924000,Homer Simpson,CAMP,Noooo!!
+74822,293,257,926000,Elvis Costello,CAMP,It came with a pick.
+74824,293,259,935000,Lisa Simpson,Bunkhouse,Come... on... Dad...
+74825,293,260,936000,Homer Simpson,Bunkhouse,"No! No, I won't go! You can't make me!"
+74826,293,261,940000,Lisa Simpson,Bunkhouse,"Dad, you knew this day was coming."
+74827,293,262,942000,Homer Simpson,Bunkhouse,I knew nothing!
+74828,293,263,943000,Bart Simpson,Bunkhouse,"Stop kicking me, Dad!"
+74829,293,264,946000,Homer Simpson,Bunkhouse,Never!
+74830,293,265,950000,Homer Simpson,Bunkhouse,"My dream has been shattered into shards of a broken dream. I was so close to being a rock star, but now there's a chance it might not happen. I'll just have to settle for being a fat, bald, fat nothing."
+74831,293,266,963000,Bart Simpson,Bunkhouse,Finally. Can we go now?
+74832,293,267,967000,Keith Richards,Bunkhouse,"Now, before I lock the door, do you have to go to the bathroom?"
+74833,293,268,971000,Mick Jagger,Bunkhouse,"No, I'm fine."
+74834,293,269,975000,Homer Simpson,Bunkhouse,I'm so despondent.
+74835,293,270,977000,Mick Jagger,Bunkhouse,"Cheer up, Homer. It's only rock 'n' roll camp."
+74836,293,271,980000,Homer Simpson,Bunkhouse,But I like it...
+74837,293,272,986000,Mick Jagger,Bunkhouse,Tell you what. We're doing a benefit gig before we leave town. How would you like to join us on stage?
+74838,293,273,992000,Homer Simpson,Bunkhouse,For serious?
+74839,293,274,993000,Keith Richards,Bunkhouse,"For serious, Homer."
+74840,293,275,995000,Homer Simpson,Bunkhouse,Can I have forty guest passes?
+74841,293,276,999000,Homer Simpson,Bunkhouse,Woo hoo!
+74843,293,278,1002000,Homer Simpson,Springfield Civic Center,"Wow, All-Access. All-Access..."
+74844,293,279,1009000,Homer Simpson,Springfield Civic Center,Good thing it's laminated.
+74845,293,280,1013000,Squeaky-Voiced Teen,Springfield Civic Center,"Sir, you can't..."
+74846,293,281,1014000,Homer Simpson,Springfield Civic Center,All-access.
+74847,293,282,1015000,Squeaky-Voiced Teen,Springfield Civic Center,"Oh, sorry."
+74850,293,285,1024000,Homer Simpson,Arena,All-Access.
+74851,293,286,1025000,Women,Arena,Cool.
+74853,293,288,1029000,Moe Szyslak,CIVIC CENTER,"Wow Homer, I ain't had front row seats since my Moonie wedding."
+74854,293,289,1033000,Homer Simpson,CIVIC CENTER,"And after the show, you can come backstage for pizza and pop."
+74855,293,290,1036000,Carl Carlson,CIVIC CENTER,/ All right!
+74781,293,291,1037000,Carl Carlson,CIVIC CENTER,Now that's a winning combination.
+74857,293,292,1041000,Homer Simpson,CIVIC CENTER,Here you go. Front and center.
+74858,293,293,1043000,Marge Simpson,CIVIC CENTER,"I'm so proud of you, Homie. It's like you're Kid Rock and I'm Pamela Anderson Lee Rock."
+74859,293,294,1052000,Homer Simpson,CIVIC CENTER,"Oops, gotta run. Enjoy the show."
+74861,293,296,1060000,Mick Jagger,Backstage Area,"Okay, let's see the eyes..."
+74862,293,297,1064000,Keith Richards,Backstage Area,Now the fire!
+74863,293,298,1069000,Keith Richards,Backstage Area,Thanks mate...
+74864,293,299,1070000,Lenny Kravitz,Backstage Area,Couldn't you find a more fuel-efficient Satan?
+74865,293,300,1072000,Mick Jagger,Backstage Area,"Lenny, don't you have a crotch to stuff?"
+74866,293,301,1075000,Homer Simpson,Backstage Area,"Evening, fellow rockers."
+74867,293,302,1076000,Elvis Costello,Backstage Area,There you are. We thought we were going to have to go on without you.
+74868,293,303,1080000,Homer Simpson,Backstage Area,I'm ready. Just give me a guitar. How many solos should I do? Four?
+74869,293,304,1085000,Homer Simpson,Backstage Area,I'll do four.
+74870,293,305,1086000,Tom Petty,Backstage Area,"Uh, Homer, you didn't think you were gonna be playing with--"
+74871,293,306,1091000,Homer Simpson,Backstage Area,My official tour jacket!
+74872,293,307,1093000,Homer Simpson,Backstage Area,"Look at-- Wait, they misspelled ""Guitar Hero."""
+74873,293,308,1095000,Mick Jagger,Backstage Area,"Look, sorry if there's been a misunderstanding, Homer. We really just need you to tap the mics and say ""test, test."""
+74874,293,309,1100000,Homer Simpson,Backstage Area,Can't you do it?
+74875,293,310,1107000,Homer Simpson,Backstage Area,"Oh. Okay. So I'll, uh... okay."
+74877,293,312,1118000,Lisa Simpson,Arena,"Look, there's Dad!"
+74878,293,313,1120000,Bart Simpson,Arena,"Woo! Yay, Homer!"
+74879,293,314,1121000,Marge Simpson,Arena,"I'm his groupie! Am I saying that right, ""groupie?"""
+74880,293,315,1129000,Homer Simpson,Arena,"Test, test..."
+74881,293,316,1137000,Marge Simpson,Arena,"Why is he performing the duties of a roadie? Am I saying that right, ""roadie?"""
+74882,293,317,1144000,Homer Simpson,Arena,"Test, test. Check, check."
+74883,293,318,1146000,Lenny Leonard,Arena,"Hey, he's not rocking out at all."
+74884,293,319,1148000,Homer Simpson,Arena,"Test... ""TEST TEST, YOU'RE TESTIN' MY LOVE FOR YOU, CHECK CHECK, YOU'RE CHECKIN' TO SEE IF I'M TRUE..."""
+74886,293,321,1160000,Homer Simpson,Arena,TEST ONE-TEST TWO-TEST THREE-TEST FOUR YOU TEST ME LIKE THE WATER IN EL SALVADOR...
+74887,293,322,1165000,Salvadoran Rebel,Arena,Woo! El Salvador!
+74888,293,323,1166000,Keith Richards,Arena,"What's all this, then?!"
+74889,293,324,1168000,Tom Petty,Arena,He's stealing the show from us!
+74890,293,325,1170000,Mick Jagger,Arena,Not on my shift.
+74818,293,326,1173000,Mick Jagger,Arena,Let's rock 'n' roll...
+74891,293,328,1182000,Homer Simpson,Arena,"BABY, BABY, BABY, BABY, BABY... Uh-oh."
+74893,293,330,1194000,Moe Szyslak,Arena,"Oh yeah, it's good to see the spectacle back in rock."
+74895,293,332,1210000,Bart Simpson,CIVIC CENTER PARKING LOT,"Did you know it was going to turn into a riot, Dad?"
+74896,293,333,1212000,Homer Simpson,CIVIC CENTER PARKING LOT,"Oh, yeah... When you've been in as many as I have, you can sense them coming."
+74897,293,334,1217000,Marge Simpson,CIVIC CENTER PARKING LOT,Did they ever find Tom Petty's toe?
+74898,293,335,1219000,Homer Simpson,CIVIC CENTER PARKING LOT,"What am I, the lost and found?"
+74899,293,336,1222000,Mick Jagger,CIVIC CENTER PARKING LOT,"There's no excuse for our horrible behavior tonight, Homer."
+74900,293,337,1225000,Elvis Costello,CIVIC CENTER PARKING LOT,We acted like a bunch of angry young men.
+74901,293,338,1227000,Lenny Kravitz,CIVIC CENTER PARKING LOT,"Yeah, rock and roll is supposed to be about peace and love."
+74902,293,339,1230000,Brian Setzer,CIVIC CENTER PARKING LOT,I hope you won't judge the entire Brian Setzer Orchestra by my actions.
+74903,293,340,1234000,Tom Petty,CIVIC CENTER PARKING LOT,"What we're trying to say, Homer, is we're sorry... By the way, I don't suppose any of you have seen my, um..."
+74904,293,341,1239000,Lisa Simpson,CIVIC CENTER PARKING LOT,"No, sorry."
+74905,293,342,1241000,Homer Simpson,CIVIC CENTER PARKING LOT,"There's no need for apologies, guys. You're rock stars! You're supposed to be reckless and destructive, and be celebrated for behavior that would land normal people in jail."
+74906,293,343,1252000,Keith Richards,CIVIC CENTER PARKING LOT,"That's what I told them, Homer, but just the same, we'd like to make it up to you."
+74907,293,344,1257000,Mick Jagger,CIVIC CENTER PARKING LOT,"We're doing a gig tomorrow to benefit the victims of tonight's gig, and we'd consider it an honor if you'd join us."
+74908,293,345,1264000,Homer Simpson,CIVIC CENTER PARKING LOT,"Well, you're very sweet, Mick, but the only rocking I want to do is in my living room chair, surrounded by the world's greatest back-up group, my family."
+74909,293,346,1277000,Lisa Simpson,CIVIC CENTER PARKING LOT,"Are you sure you don't miss hanging out with your rock star friends, Dad?"
+74910,293,347,1281000,Homer Simpson,CIVIC CENTER PARKING LOT,"Nah, I've got something to remember 'em by."
+74911,293,348,1284000,Homer Simpson,CIVIC CENTER PARKING LOT,"Have fun at school, kids."
+74912,293,349,1288000,Seymour Skinner,CIVIC CENTER PARKING LOT,"Mr. Simpson, this zone is for school buses only."
+74913,293,350,1295000,Homer Simpson,CIVIC CENTER PARKING LOT,Rock and Roll! Woo hoo!

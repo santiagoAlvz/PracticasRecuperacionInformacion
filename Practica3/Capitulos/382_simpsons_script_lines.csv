@@ -1,0 +1,202 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+99096,382,1,36000,Marge Simpson,Simpson Home,Look! A shooting star!
+99097,382,2,63000,Homer Simpson,Simpson Home,"Hey, that's great. Let's look at it after."
+99098,382,3,107000,Marge Simpson,Simpson Home,That almost tore my head off!
+99099,382,4,110000,Homer Simpson,Simpson Home,You always find an excuse not to make out.
+99100,382,5,117000,Homer Simpson,Simpson Home,"Ooh, a space marshmallow!"
+99101,382,6,120000,Homer Simpson,Simpson Home,Where do you think you're going?
+99102,382,7,125000,Lisa Simpson,Simpson Home,"Dad, no! It could teach us the secret of interstellar travel!"
+99103,382,8,130000,Homer Simpson,Simpson Home,"If he's so smart, how come he can't stay outta my mouth?"
+99105,382,10,139000,Marge Simpson,Simpson Home,How could you eat that goo? You don't know what galaxy it's from!
+99106,382,11,144000,Homer Simpson,Simpson Home,"Marge, I ate it, it's over."
+99107,382,12,146000,Homer Simpson,Simpson Home,Oh no you don't!
+99109,382,14,157000,Homer Simpson,Simpson Home,If I can keep down Arby's I can keep down you!
+99110,382,15,169000,Homer Simpson,Simpson Home,"Must eat, then poop, then eat some more, then eat while pooping."
+99112,382,17,183000,Homer Simpson,KITCHEN,Still hungry.
+99113,382,18,185000,Bart Simpson,KITCHEN,Dad?
+99114,382,19,187000,Homer Simpson,KITCHEN,Son! Let me have a lick at you.
+99117,382,22,193000,Marge Simpson,KITCHEN,"Homer! You won't eat my stuffed peppers, but you'll eat our son?"
+99118,382,23,198000,Homer Simpson,KITCHEN,"Nag, nag, nag."
+99120,382,25,205000,Marge Simpson,KITCHEN,Is that the cat?
+99121,382,26,206000,Homer Simpson,KITCHEN,"Uh, no. Just gas."
+99124,382,29,218000,Homer Simpson,Springfield,"Ooh, teenagers... No! Today's teens have enough problems, without me eating them."
+99125,382,30,225000,Teen Girl,Springfield,Barbeque sauce fight!
+99126,382,31,233000,Squeaky-Voiced Teen,Springfield,The flames are sealing in my juices!
+99127,382,32,235000,Homer Simpson,Springfield,I'll savor you!
+98944,382,33,241000,Homer Simpson,Springfield,Mmm... extra-virgin...
+99129,382,34,248000,Squeaky-Voiced Teen,Springfield,Tell my friends I died kissing a girl!
+99130,382,35,251000,Homer Simpson,Springfield,No.
+99133,382,38,255000,Homer Simpson,Streets Of Springfield,Beer-battered Germans...
+99134,382,39,267000,German Man,Streets Of Springfield,What did we Germans ever do to deserve this?
+99135,382,40,270000,German Man,Streets Of Springfield,"Oh, right."
+99136,382,41,273000,Homer Simpson,Streets Of Springfield,Must eat more fat people. Thank God I'm in America!
+99138,382,43,277000,SIR MIX-A-LOT,SPRINGFIELD MAIN STREET,"I LIKE BIG GUTS AND I CANNOT LIE / DOUBLE CHINS WITH THE CHAFING THIGHS / WHEN A DUDE WALKS IN WITH THE HANGING JOWLS, AND MY STOMACH STARTS TO GROWL / I'M GETTIN' HUNGRY / SO I MASTICATE / CHOMPING ON THE OVERWEIGHT / I EAT FAT PEOPLE FOR DAYS / LIKE POTATO CHIPS BY LAY'S / TRY TO EAT JUST ONE, BUT IT CAN'T BE DONE / I'VE GOT TO EAT A TON / BABY LIKES FAT / BABY LIKES FAT"
+99139,382,44,303000,Homer Simpson,SPRINGFIELD MAIN STREET,I used to think these shirts were just for fat slobs.
+99141,382,46,312000,Kent Brockman,Simpson Living Room,"It's blob rule on the streets of Springfield! And to make matters worse, we're also being attacked by a fifty-foot Lenny."
+99142,382,47,319000,50-Foot Lenny,Simpson Living Room,Everyone's payin' attention to Homer.
+99143,382,48,322000,Invisible Carl,Simpson Living Room,I still like you.
+99144,382,49,323000,50-Foot Lenny,Simpson Living Room,"Thanks, Invisible Carl."
+99145,382,50,330000,Ned Flanders,Simpson Living Room,"Hiddily-ho, Blobareeno."
+99146,382,51,333000,SOUTHERN TV THERAPIST,Simpson Living Room,"Homer, I need to talk to you."
+99147,382,52,336000,Homer Simpson,Simpson Living Room,Dr. Phil McGraw!
+99148,382,53,339000,DR. PHIL,Simpson Living Room,"You've got a weight problem, and you know it."
+99149,382,54,343000,Homer Simpson,Simpson Living Room,"You're right. Starting tomorrow, no bread before dinner."
+99150,382,55,347000,DR. PHIL,Simpson Living Room,"Homer, don't sell me an outhouse and tell me it's the Taj Mahal."
+99151,382,56,350000,Chief Wiggum,Simpson Living Room,"Yeah, Homer! Stop doin' that!"
+99152,382,57,352000,DR. PHIL,Simpson Living Room,"It's time to open up a can of honesty: you're thinking about eating me right now, aren't you?"
+99153,382,58,359000,Fudge Box,Simpson Living Room,Aren't you?
+99154,382,59,361000,Homer Simpson,Simpson Living Room,"That's ridiculous, talking fudge."
+99155,382,60,364000,DR. PHIL,Simpson Living Room,"Homer, your family's here. And you gotta help me help them help you help me help you."
+99156,382,61,370000,Homer Simpson,Simpson Living Room,Marge! I missed you! All this eating has put me in the mood for a little lovin'.
+99158,382,62,376000,Marge Simpson,Simpson Living Room,I have to be honest with you -- I can't love a four-thousand-ton cannibal.
+99159,382,63,382000,Homer Simpson,Simpson Living Room,"What happened to ""for better or for worse?!"""
+99160,382,64,382000,Bart Simpson,Simpson Living Room,"Dad, you're eating Dr. Phil!"
+99161,382,65,387000,Homer Simpson,Simpson Living Room,It's amazing. He tastes just like Jeffrey Tambor.
+99162,382,66,392000,DR. PHIL,Simpson Living Room,Food does not equal love!
+99163,382,67,396000,Homer Simpson,Simpson Living Room,"Marge, to keep you in my life, I'd do anything. There must be some way to turn my problem into a positive for the community."
+99165,382,69,406000,Mayor Joe Quimby,Springfield,"In you go, boys. We've got everything: warm beds, square meals, homeless women..."
+99166,382,70,415000,Homeless Man,Springfield,"I've got a bad feeling about this, Blue."
+99167,382,71,422000,Mayor Joe Quimby,Springfield,Get in there!
+99169,382,73,432000,Homeless Man,Springfield,"Nice to be indoors, isn't it?"
+99171,382,75,440000,Krusty the Clown,Krustylu Studios,"Finally, I'd like to announce that starting Monday, this show will be broadcast in HDTV. Here's how I'll look."
+99173,382,77,447000,Krusty the Clown,Krustylu Studios,"That's right, look at your hero! Goodnight, everybody!"
+99174,382,78,456000,Milhouse Van Houten,Krustylu Studios,"Aren't you coming, Bart?"
+99175,382,79,458000,Bart Simpson,Krustylu Studios,"No, I'm gonna go backstage and complain. This Krusty Brand alarm clock sprays acid in your face."
+99176,382,80,464000,Milhouse Van Houten,Krustylu Studios,You already showed me before!
+99177,382,81,468000,Bart Simpson,Krustylu Studios,"Whoa, Krusty's prop room!"
+99178,382,82,474000,Bart Simpson,Krustylu Studios,Cool! It's that clown car all those midgets drowned in!
+99180,382,84,484000,Krusty the Clown,Krustylu Studios,"Hey, kid! This ain't a museum. That's a museum."
+99181,382,85,488000,Krusty the Clown,Krustylu Studios,"For kids, forty-nine bucks!"
+99182,382,86,490000,Bart Simpson,Krustylu Studios,"Krusty, what's that monster?"
+99183,382,87,492000,Krusty the Clown,Krustylu Studios,It's the Golem of Prague.
+99184,382,88,497000,Krusty the Clown,Krustylu Studios,"A legendary defender of the Jewish people, like Alan Dershowitz, but with a conscience. I kid Alan, we're friends. Anyway, back in the sixteen-hundreds..."
+99186,382,90,508000,Krusty the Clown,PRAGUE,...a rabbi created this magic creature out of humble clay...
+99190,382,92,508000,Krusty the Clown,SYNAGOGUE,The golem would perform any task that was written on a scroll and placed in its mouth.
+99192,382,94,535000,Krusty the Clown,NIGHT CLUB,"Now he works for me. So the wife says, ""I don't have to pay for it -- I put it on my charge plate""!"
+99193,382,95,540000,Heckler #1,NIGHT CLUB,"You suck, clown!"
+99194,382,96,543000,Heckler #2,NIGHT CLUB,You made my lady cry!
+99195,382,97,552000,Bart Simpson,NIGHT CLUB,Come to my house at midnight.
+99196,382,98,552000,Krusty the Clown,NIGHT CLUB,"Now if you'll excuse me, I have to rehearse my ""Desperate House-flies"" sketch. Buzz, buzz. Ooh, here comes that sexy young garbage man. I'm gonna need a shoebox full of blow to get through this dreck."
+99199,382,101,592000,Homer Simpson,Simpson Home,"Bart, there's something I have to tell you father to son. I passed out on your turtle and killed it. Someday you'll thank me."
+99200,382,102,602000,Homer Simpson,Simpson Home,"Hey, Milhouse."
+99201,382,103,605000,Bart Simpson,Simpson Home,It worked!
+99202,382,104,606000,Bart Simpson,Simpson Home,"Now, there's something I've wanted to do for a long time."
+99203,382,105,614000,Bart Simpson,Simpson Home,"Can't you read my writing? I didn't say kick Homer's ""walls""."
+99204,382,106,618000,Homer Simpson,Simpson Home,What's goin' on?
+99205,382,107,619000,Bart Simpson,Simpson Home,That's better.
+99207,382,109,626000,Kearney Zzyzwicz,Springfield Elementary School,"Yo, Simpson. Give us your lunch money."
+99208,382,110,628000,Bart Simpson,Springfield Elementary School,"I don't think so. In fact, why don't you give me your lunch money?"
+99209,382,111,635000,DOLPH,Springfield Elementary School,Who's gonna make us? That golem?
+99210,382,112,637000,Bart Simpson,Springfield Elementary School,"No, my go-- Yes, him."
+99211,382,113,650000,Bart Simpson,Springfield Elementary School,"Finally, someone who does whatever I say."
+99212,382,114,652000,Milhouse Van Houten,Springfield Elementary School,"Hey Bart, I shaved my head, like you told me."
+99213,382,115,655000,Bart Simpson,Springfield Elementary School,Get lost.
+99214,382,116,655000,Milhouse Van Houten,Springfield Elementary School,"Yes, Master!"
+99215,382,117,661000,Lisa Simpson,Springfield Elementary School,"Bart, did your mystical Jewish monster beat up those bullies?"
+99216,382,118,665000,Bart Simpson,Springfield Elementary School,"Oh, it's always the Jews' fault."
+99217,382,119,667000,Lisa Simpson,Springfield Elementary School,"Hmm, well I think your golem doesn't like hurting people. And I'll prove it."
+99218,382,120,672000,Lisa Simpson,Springfield Elementary School,Speak.
+99220,382,121,672000,Golem,Springfield Elementary School,Finally! I can talk! This is the voice I've got? Sounds like I should be selling egg creams in Brighton Beach.
+99221,382,122,689000,Golem,Springfield Elementary School,"That's what we call Jewish humor. You don't have to understand it 'cause the words sound funny. Mishugenna. Hilarious. Hello. Huh? It's funny, believe me."
+99222,382,123,701000,Lisa Simpson,Springfield Elementary School,Do you feel bad about what you did?
+99223,382,124,703000,Golem,Springfield Elementary School,Of course I feel bad! My stomach feels like it's hosting the Chabad telethon -- and Norm Crosby's going long.
+99224,382,125,714000,Golem,Springfield Elementary School,"""Kill the Czar""? Now that's an old one."
+99226,382,127,718000,Homer Simpson,Simpson Home,"Hey boy, where's your mud buddy? I have a little job for him."
+99227,382,128,727000,Bart Simpson,Simpson Home,He was driving me crazy so I sent him on an errand.
+99230,382,131,733000,Gary Chalmers,Springfield Elementary School,Skin-ner! Just let him kill you already.
+99231,382,132,736000,Seymour Skinner,Springfield Elementary School,That's the man I was telling you about.
+99232,382,133,742000,Gary Chalmers,Springfield Elementary School,"Skin-ner! I wish we'd been closer. Get him out of here, Willie."
+99233,382,134,748000,Groundskeeper Willie,Springfield Elementary School,You'll make better mulch than you did a man.
+99234,382,135,751000,Seymour Skinner,Springfield Elementary School,"I may be bifurcated, but I still have feelings."
+99236,382,137,755000,Golem,Simpson Home,"I feel so guilty: I've mangled and maimed thirty-seven people, and I told a telemarketer I was busy when I wasn't. I'm not a good man."
+99237,382,138,762000,Lisa Simpson,Simpson Home,He sure is neurotic for a monster.
+99238,382,139,764000,Marge Simpson,Simpson Home,The cure to any man's problems is a good relationship.
+99239,382,140,769000,Homer Simpson,Simpson Home,"Yeah, get him a woman. That'll end his misery!"
+99240,382,141,778000,Homer Simpson,Simpson Home,This hurts so much.
+99241,382,142,780000,Lisa Simpson,Simpson Home,"Just write a scroll, asking him to stop."
+99242,382,143,782000,Homer Simpson,Simpson Home,Writing's for nerds.
+99243,382,144,786000,Golem,Simpson Home,"You got a surprise for me? The surprise would be if I found some good live theater in this town. Then people could have some drinks, watch ""Fiddler""... very nice."
+99244,382,145,795000,Bart Simpson,Simpson Home,Will you shut up?
+99245,382,146,807000,Golem,Simpson Home,Is she for me? Hanukah came early this year. Which it sometimes does.
+99246,382,147,821000,Female Golem,Simpson Home,"Hello, everybody."
+99219,382,148,827000,Female Golem,Simpson Home,What's with this outfit? It looks like a lion ate a parrot and then threw up.
+99157,382,149,834000,Homer Simpson,Simpson Home,"Well, back to the drawing board."
+99188,382,150,834000,Golem,Simpson Home,No! What are you nuts?! She was made for me!
+99247,382,152,841000,Rabbi Hyman Krustofsky,SYNAGOGUE,I now pronounce you monster and whatever you are.
+99248,382,153,843000,Golem,SYNAGOGUE,Shayna punim.
+99249,382,154,846000,Chief Wiggum,SYNAGOGUE,Not so fast! You're wanted for the murder of Seymour Skinner.
+99250,382,155,851000,Female Golem,SYNAGOGUE,"Oh c'mon, Chief. We've got a Latke bar downstairs."
+99251,382,156,856000,Chief Wiggum,SYNAGOGUE,Latkes? What the hell are those?
+99252,382,157,858000,Female Golem,SYNAGOGUE,They're pan-fried--
+99253,382,158,860000,Chief Wiggum,SYNAGOGUE,Case dismissed.
+99254,382,159,860000,Rabbi Hyman Krustofsky,SYNAGOGUE,Wonderful!
+99258,382,163,870000,Carl Carlson,BREADLINE,"I don't get it -- what's so ""Great"" about this Depression?"
+99259,382,164,885000,Lenny Leonard,BREADLINE,"Well, I like how everything's sepia-toned. Makes me feel all nostalgic."
+99260,382,165,890000,Grampa Simpson,BREADLINE,I never thought it would come to this when I fought in the first world war.
+99261,382,166,894000,Lenny Leonard,BREADLINE,First world war? Why do you keep callin' it that?
+99262,382,167,896000,Grampa Simpson,BREADLINE,"Oh, you'll see."
+99264,382,169,902000,Announcer,Simpson Home,"We interrupt this dance music from the Meridian Room in Capitol City's fabulous Hotel Hitler, to bring you a special bulletin."
+99265,382,170,910000,Homer Simpson,Simpson Home,"Hey, I'm not done dancin'! This bulletin better swing!"
+99266,382,171,914000,Announcer,Simpson Home,Reports are coming in of giant metal cylinders landing on the outskirts of major American cities.
+99267,382,172,920000,Marge Simpson,Simpson Home,Cylinders?!
+99268,382,173,921000,Announcer,Simpson Home,Astronomers say the ominous capsules originated from Earth's closest neighbor...
+99269,382,174,925000,Homer Simpson,Simpson Home,Flanders?
+99270,382,175,926000,Announcer,Simpson Home,Mars!
+99271,382,176,928000,Homer Simpson,Simpson Home,"So, it's a war of the worlds. Good thing we've got the sun on our side."
+99272,382,177,936000,Homer Simpson,Simpson Home,"Go ahead and hide, you coward!"
+99274,382,179,940000,Reporter,Street,I'm in the small town of Grover's Mill...
+99276,382,181,942000,Reporter,Mrs. Krabappel's Classroom,...where a crowd has gathered around one of the strange Martian cylinders. It's opening! A tentacle is emerging!
+99278,382,183,950000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"Settle down, children. Have a cigarette to calm your nerves."
+99280,382,185,955000,Reporter,Moe's Tavern,"Oh, my stars! It's firing a beam of pure energy!"
+99281,382,186,960000,Reporter,Moe's Tavern,It's burning people alive!
+99283,382,188,963000,Moe Szyslak,Moe's Tavern,"Okay boys, we're under attack! Let's drive 'em out of town the way we did with the Irish!"
+99284,382,189,968000,Barney Gumble,Moe's Tavern,"Hey, I'm Irish."
+99285,382,190,969000,Barney Gumble,Moe's Tavern,"Oh wait, I'm Polish."
+99287,382,192,974000,Orson Welles,KBBL SKYSCRAPER,The devastation is incredible. They're grinding up the bodies of human beings.
+99288,382,193,980000,Orson Welles,KBBL SKYSCRAPER,Now they're riding horses in the rain.
+99289,382,194,983000,Orson Welles,KBBL SKYSCRAPER,Now they're playing the xylophone while bowling near an airport!
+99290,382,195,992000,Orson Welles,KBBL SKYSCRAPER,"Now, before we all die, one last selection from the Nathan Newley Orchestra."
+99291,382,196,1002000,Production Assistant,KBBL SKYSCRAPER,"Gee Mr. Welles, this sure is a swell show you're puttin' on for the folks."
+99292,382,197,1007000,Orson Welles,KBBL SKYSCRAPER,"Well I just hope our saucy little radio prank will give these ""folks,"" as you call them, a giggle, a gasp, and provide a good lead-in for Misters Amos and Andy."
+99294,382,199,1020000,Homer Simpson,Springfield,Burn everything!
+99295,382,200,1022000,Lenny Leonard,Springfield,"You know, Homer, we haven't actually seen these aliens."
+99296,382,201,1025000,Homer Simpson,Springfield,That's alien talk!
+99297,382,202,1027000,Disco Stu,Springfield,"""Big Band Stu"" says twenty-three skidoo!"
+99298,382,203,1031000,Disco Stu,Springfield,Ooh!
+99299,382,204,1032000,Mayor Joe Quimby,Springfield,"We have nothing to fear, but the aliens and their vastly superior killing technology!"
+99300,382,205,1038000,Chief Wiggum,Springfield,"Boys, we have to assume our guns are useless. Throw 'em in the lake."
+99301,382,206,1043000,Chief Wiggum,Springfield,"Good. Now, the police car."
+99302,382,207,1047000,Chief Wiggum,Springfield,Wait -- did you get my sweater out of the front seat?
+99303,382,208,1051000,Lou,Springfield,"Uh, yeah."
+99304,382,209,1052000,Chief Wiggum,Springfield,Well where is it?
+99305,382,210,1052000,Lou,Springfield,I'll go get it.
+99306,382,211,1059000,Marge Simpson,Springfield,"Wait, I have an idea! The Martians are only killing humans, so we should pretend to be animals!"
+99307,382,212,1066000,Sideshow Mel,Springfield,Ingenious! Everyone -- remove your clothes and wallow in filth!
+99311,382,216,1092000,Lisa Simpson,Springfield Town Square,What is everyone doing?
+99313,382,217,1094000,Bart Simpson,Springfield Town Square,We're outsmarting the Martians.
+99314,382,218,1097000,Lisa Simpson,Springfield Town Square,Martians? You do know that radio broadcast was a hoax?
+99316,382,220,1102000,Lisa Simpson,Springfield Town Square,"Yeah. It was an Orson Welles radio play of ""War of the Worlds."""
+99318,382,222,1110000,Homer Simpson,Springfield Town Square,I'm proud of what I achieved during my rioting.
+99319,382,223,1115000,Homer Simpson,Springfield Town Square,It was either kill him or kill no one!
+99321,382,225,1120000,Kang,KANG AND KODOS'S SPACESHIP,Foolish Earthlings!
+99322,382,226,1122000,Kodos,KANG AND KODOS'S SPACESHIP,Now is the perfect time to strike -- they'll think it's another hoax!
+99325,382,229,1137000,Lisa Simpson,Springfield Town Square,Dad! A flying saucer blew up that statue!
+99326,382,230,1140000,Homer Simpson,Springfield Town Square,"Lisa, that was just a radio show."
+99327,382,231,1142000,Bart Simpson,Springfield Town Square,"Uh, Paw."
+99329,382,233,1148000,Orson Welles,Springfield Police Station,"Please, you must believe me -- this is no hoax! This is a real invasion!"
+99330,382,234,1152000,Chief Wiggum,Springfield Police Station,"Oh yeah? Why don't I just punch you in the nose, Bud?"
+99331,382,235,1156000,Orson Welles,Springfield Police Station,"""Nose-bud."" Chief, you've got to alert the military!"
+99332,382,236,1161000,Chief Wiggum,Springfield Police Station,"Fine, fine, I'll do it right now."
+99334,382,238,1164000,General,MILITARY BASE,U.S. Army. What's the threat?
+99335,382,239,1165000,Chief Wiggum,MILITARY BASE,"Uh, we've been invaded... by a pompous, radio ham."
+99336,382,240,1169000,Chief Wiggum,MILITARY BASE,How's it feel when the hoax is on the other foot?
+99337,382,241,1172000,Orson Welles,MILITARY BASE,"I must admit, it's unpleasant."
+99339,382,243,1177000,Orson Welles,MILITARY BASE,You fool. You've doomed us all.
+99340,382,244,1180000,Chief Wiggum,MILITARY BASE,Tell it to the Great Gildersleeve.
+99341,382,245,1187000,Lou,MILITARY BASE,"Well, they didn't eat the skin. That's... that's healthy."
+99343,382,247,1201000,Kodos,Springfield,"Colonel Kang, your report."
+99344,382,248,1203000,Kang,Springfield,Well... The Earthlings continue to resent our presence. You said we'd be greeted as liberators!
+99345,382,249,1211000,Kodos,Springfield,Don't worry. We still have the people's hearts and minds.
+99346,382,250,1216000,Kang,Springfield,"I don't know. I'm starting to think ""Operation: Enduring Occupation"" was a bad idea."
+99347,382,251,1221000,Kodos,Springfield,We had to invade. They were working on weapons of mass disintegration!
+99348,382,252,1227000,Kang,Springfield,Sure they were.

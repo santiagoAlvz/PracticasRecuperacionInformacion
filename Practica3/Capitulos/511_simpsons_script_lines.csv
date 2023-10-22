@@ -1,0 +1,232 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+132628,511,1,36000,Marge Simpson,Simpson Home,Hummingbirds! Hum and get it!
+132629,511,2,53000,Marge Simpson,Simpson Home,"Homie, the faucet is dripping."
+132630,511,3,55000,Homer Simpson,Simpson Home,I'll get right on it.
+132631,511,4,59000,Marge Simpson,Simpson Home,"Homer, when are you going to fix this faucet?"
+132632,511,5,62000,Homer Simpson,Simpson Home,I'm on it!
+132633,511,6,65000,Marge Simpson,Simpson Home,Are you going to fix the faucet or not?
+132634,511,7,68000,Homer Simpson,Simpson Home,"For the third time this year, yes!"
+132638,511,11,102000,Marge Simpson,Marge's Car,"""I'll get to it, Marge..."" ""I'll get to it..."" When we first got married, he'd only take six months to do things..."
+132639,511,12,109000,Bart Simpson,Marge's Car,"Mom, how come you didn't do my homework last night?"
+132643,511,16,117000,Bart Simpson,CAVERN,Oh no! Lisa's face... it's the same!
+132644,511,17,118000,Marge Simpson,CAVERN,Everyone relax. I think I've got an emergency sinkhole kit in here somewhere.
+132645,511,18,129000,Bart Simpson,CAVERN,"Oh, man -- I gotta climb stairs? Forget it."
+132646,511,19,136000,Marge Simpson,CAVERN,No one stays in the sinkhole!
+132647,511,20,139000,Bart Simpson,CAVERN,Lousy surface dwellers...
+132648,511,21,143000,Chief Wiggum,CAVERN,"So, what seems to be the problem?"
+132649,511,22,147000,Kent Brockman,CAVERN,Springfielders are getting that sinking feeling as the dangerous sinkhole continues to expand.
+132651,511,24,154000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"While this sinkhole is larger than the Sarlacc pit which swallowed Boba Fett, it is smaller than the Geonosis battle arena where Jango Fett was beheaded by Mace Windu."
+132652,511,25,164000,Kent Brockman,The Android's Dungeon & Baseball Card Shop,Weren't those two places about the same size?
+132653,511,26,166000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,I didn't know this was an ambush!
+132655,511,28,169000,Moe Szyslak,Moe's Tavern,"Eh, you know, in this town, you learn to adjust to things. Runaway monorails... NASCAR star Jeff Gordon..."
+132656,511,29,175000,Jeff Gordon,Moe's Tavern,"Hey, Moe."
+132657,511,30,176000,Moe Szyslak,Moe's Tavern,Hey. Bet we never see him again.
+132658,511,31,178000,Barney Gumble,Moe's Tavern,"I'm gonna call it a day, Moe."
+132661,511,33,184000,Moe Szyslak,Moe's Tavern,"Hey, hey, hey, hey! That plank's only for comin' in!"
+132663,511,35,189000,Moe Szyslak,Moe's Tavern,Try to land on the other traitors.
+132664,511,36,192000,Chief Wiggum,Moe's Tavern,"People of Springfield, please be cool like Lou."
+132665,511,37,195000,Lou,Moe's Tavern,Yo.
+132666,511,38,196000,Chief Wiggum,Moe's Tavern,"We will eliminate one eyesore with another, by bulldozing our tire fire right into the sinkhole."
+132667,511,39,204000,Marge Simpson,Moe's Tavern,But my car is down there!
+132668,511,40,208000,Mayor Joe Quimby,Moe's Tavern,For the first time my administration has solved a problem. The hole has been filled by the thing it fears most: stuff!
+132673,511,45,225000,Milhouse Van Houten,Bus,"...so just when my dad finishes his online degree in Sinkhole Engineering, they go and fill it in!"
+132674,511,46,231000,Bart Simpson,Bus,Are the credits transferable?
+132675,511,47,232000,Milhouse Van Houten,Bus,No.
+132676,511,48,232000,Bart Simpson,Bus,"That guy has a bone to pick with the Board of Regents. Hey, Lisa's not getting on the bus."
+132677,511,49,239000,Milhouse Van Houten,Bus,Where's she going?
+132678,511,50,240000,Bart Simpson,Bus,I don't know. Dork farm? Who cares?
+132679,511,51,243000,Milhouse Van Houten,Bus,She never doesn't do what she's supposed to! This is major!
+132680,511,52,247000,Bart Simpson,Bus,Fine. We'll follow her.
+132681,511,53,251000,Otto Mann,Bus,"Well if they're not taking the bus, neither am I."
+132682,511,54,257000,Ralph Wiggum,Bus,I'm going to a accident!
+132683,511,55,260000,Milhouse Van Houten,Bus,Lisa's taking a cab? I'm worried. Does she even know how much to tip?
+132684,511,56,269000,Milhouse Van Houten,Bus,What's it say?
+132685,511,57,270000,Bart Simpson,Bus,"""The five boxing wizards jump quickly?"" Whoa! My sister's finally become... mildly interesting!"
+132686,511,58,278000,Milhouse Van Houten,Bus,"Sounds like a case for the ""Detecti-pals."" Taxi!"
+132687,511,59,284000,Milhouse Van Houten,Bus,They never stop for blue-heads.
+132689,511,61,287000,Stan,Car Dealership,Hello ma'am. Are you and your husband here to look for a new car?
+132690,511,62,291000,Marge Simpson,Car Dealership,"No, I'm here to buy one myself."
+132691,511,63,293000,Stan,Car Dealership,Uh-huh.
+132692,511,64,295000,Stan,Car Dealership,"Well, I think the Tissan Sensibla is the car for you."
+132693,511,65,299000,Stan,Car Dealership,"It's got all the features that a modern woman wants, including all manner of makeup mirrors."
+132694,511,66,306000,Marge Simpson,Car Dealership,This car looks a little small. Is the engine powerful?
+132695,511,67,310000,Stan,Car Dealership,"Wow, somebody knows her cars."
+132696,511,68,312000,Stan,Car Dealership,This baby comes with an RX-12 2-cylinder!
+132697,511,69,317000,Marge Simpson,Car Dealership,"Well, that's odd, because the consumer website says the RX-12 2-cylinder has a dealer's invoice of fourteen seven."
+132698,511,70,324000,Stan,Car Dealership,You know what I'm gonna do? I'm gonna talk to my manager.
+132699,511,71,328000,Marge Simpson,Car Dealership,This says you are the manager.
+132700,511,72,330000,Stan,Car Dealership,Those websites are taking food out of my children's mouths!
+132701,511,73,333000,Marge Simpson,Car Dealership,It says on your Facebook page you have no kids.
+132702,511,74,336000,Stan,Car Dealership,"I have two Yorkies, and I'll be talking about you, to them, tonight!"
+132705,511,77,341000,Homer Simpson,MARGE'S NEW CAR,"I gotta hand it to you, Marge. You got the exact amount of car for our family. Room for two adults, three kids, and zero Grampas."
+132706,511,78,350000,Marge Simpson,MARGE'S NEW CAR,Uh-oh! Do you hear that rattle?
+132707,511,79,353000,Bart Simpson,MARGE'S NEW CAR,I don't hear anything.
+132708,511,80,354000,Lisa Simpson,MARGE'S NEW CAR,Me neither.
+132709,511,81,355000,Marge Simpson,MARGE'S NEW CAR,And what's that smell?
+132710,511,82,357000,Lisa Simpson,MARGE'S NEW CAR,"I think it's ""new car smell."""
+132711,511,83,357000,Marge Simpson,MARGE'S NEW CAR,Well I don't like it.
+132713,511,85,373000,Marge Simpson,Simpson Car,I still smell it!
+132716,511,88,378000,Marge Simpson,GARAGE,Darn car won't start.
+132717,511,89,380000,Homer Simpson,GARAGE,Let Automobile Von Bismarck give it a try.
+132718,511,90,385000,Homer Simpson,GARAGE,Well...
+132719,511,91,386000,Marge Simpson,GARAGE,"Hmm. Well, it wouldn't start for me. I think this car's a lemon!"
+132721,511,93,398000,Marge Simpson,AUTO DEALERSHIP,"...the wipers wipe backwards, and the defroster lines on the back window are too close together! Excuse me."
+132722,511,94,409000,Mechanic,AUTO DEALERSHIP,"Sir, the car is fine. Can I be straight with you? As a mechanic, I'm not totally qualified to judge mental health..."
+132723,511,95,416000,Homer Simpson,AUTO DEALERSHIP,"So, you're not totally unqualified."
+132724,511,96,419000,Mechanic,AUTO DEALERSHIP,I think the problem is in your wife's head. There's a psychological reason why she hates this car.
+132725,511,97,425000,Homer Simpson,AUTO DEALERSHIP,A reason? What could it be?
+132727,511,98,427000,Mechanic,AUTO DEALERSHIP,"I'm sorry, but there's no diagnostic computer for the female mind."
+132728,511,99,432000,Homer Simpson,AUTO DEALERSHIP,"Wow, an auto mechanic who tells the truth."
+132729,511,100,437000,Mechanic,AUTO DEALERSHIP,If you want me to examine your wife overnight I can arrange a loaner.
+132730,511,101,442000,Mechanic,AUTO DEALERSHIP,She's an '83 Yugo.
+132731,511,102,443000,Woman,AUTO DEALERSHIP,I don't do laundry or kiss boo-boos!
+132732,511,103,446000,Homer Simpson,AUTO DEALERSHIP,Umm... no thanks.
+132734,511,105,449000,Homer Simpson,Evergreen Terrace,"Marge... do you think maybe there's another reason you don't like this car? Um... um... a ""feelings"" reason?"
+132735,511,106,457000,Marge Simpson,Evergreen Terrace,What are you talking about?
+132736,511,107,459000,Homer Simpson,Evergreen Terrace,"Well, maybe you and the car got off on the wrong foot. When do you think things first went wrong?"
+132737,511,108,465000,Marge Simpson,Evergreen Terrace,"All right, I remember we all got in... and by the way, that backseat is pretty tight for the kids. I mean, I don't know what we'd do if we had another baby. With this car, we're basically saying no more babies!"
+132738,511,109,479000,Homer Simpson,Evergreen Terrace,"No, no, Marge. I want you to explore your feelings."
+132739,511,110,483000,Marge Simpson,Evergreen Terrace,"Homer, the reason I hate this car is... I think I want another baby!"
+132740,511,111,489000,Homer Simpson,Evergreen Terrace,"An ""on purpose"" baby?"
+132741,511,112,491000,Marge Simpson,Evergreen Terrace,I do!
+148595,511,113,495000,Homer's Brain,Evergreen Terrace,I really wish I had fixed that faucet.
+132743,511,115,502000,Marge Simpson,Simpson Home,"Homie, I want another baby."
+132744,511,116,503000,Homer Simpson,Simpson Home,"What about... you know... ""Stinky""?"
+132745,511,117,505000,Marge Simpson,Simpson Home,"Maggie's not a baby! Her soft spot's been skulled over for the last three months! Being a mom is who I am, and I'm not done being who I am."
+148596,511,118,515000,Homer's Brain,Simpson Home,"Okay Homer, don't speak. If you must make a sound, whistle."
+148597,511,119,519000,Homer's Brain,Simpson Home,"When your wife looks at you, full of hope, with an idea that would destroy life as we know it..."
+148598,511,121,524000,Homer's Brain,Simpson Home,"Just smile, nod... and stall, stall, stall..."
+148599,511,123,524000,Homer's Brain,Simpson Home,...until she changes her mind.
+132748,511,124,530000,Homer Simpson,Simpson Home,"Whatever you want, sweetie."
+132749,511,125,531000,Marge Simpson,Simpson Home,"Well, take a shower, 'cause we're gonna try it tonight!"
+148600,511,126,535000,Homer's Brain,Simpson Home,"All right! ""Try it"" means sex."
+132660,511,127,538000,Homer Simpson,Simpson Home,Woo hoo!
+132750,511,128,539000,Marge Simpson,Simpson Home,"Homer, why do you take a three second pause before you answer what I say?"
+132751,511,129,545000,Homer Simpson,Simpson Home,Just appreciating how lucky I am to be with you.
+132752,511,130,557000,Marge Simpson,Simpson Home,What a wonderful thought.
+132753,511,131,568000,Bart Simpson,Simpson Home,Boxing wizards. Boxing wizards. What's she up to?
+132754,511,132,576000,Evil Wizard,Simpson Home,Let's settle this like adults. Wands down!
+132755,511,133,583000,Bart Simpson,Simpson Home,Maybe I should go on anti-psychotic meds.
+132756,511,134,586000,Lisa Simpson,Simpson Home,Bart! What are you doing in my room?!
+132757,511,135,589000,Bart Simpson,Simpson Home,Lowering your blinds. I'd hate for your carpet to fade.
+132758,511,136,596000,Bart Simpson,Simpson Home,What are you doing Tuesdays and Thursdays after school?
+132759,511,137,598000,Lisa Simpson,Simpson Home,What do you do Tuesdays and Thursdays after school?
+132760,511,138,601000,Bart Simpson,Simpson Home,"Write stupid stuff on the chalkboard. And if you have any ideas, I'm really running out. Today's was ""mousetraps are not slippers"" or something. Now what are you up to?"
+132761,511,139,608000,Lisa Simpson,Simpson Home,A gentleman doesn't ask and a lady doesn't tell.
+132762,511,140,611000,Bart Simpson,Simpson Home,Can I use that on the chalkboard?
+132763,511,141,613000,Lisa Simpson,Simpson Home,I guess.
+132764,511,142,614000,Bart Simpson,Simpson Home,"Gentleman doesn't ask, lady doesn't tell. Now all I need is one for Martin Luther King Day."
+132766,511,144,619000,Marge Simpson,Dr. Hibbert's Office,My husband and I have been snuggling six ways from Sunday...
+132767,511,145,623000,Homer Simpson,Dr. Hibbert's Office,"And let me tell you, a towel rack will not support your weight."
+132768,511,146,627000,Marge Simpson,Dr. Hibbert's Office,"...but we aren't making a baby. I thought we should check, to make sure Homer has... you know, working stunt-men in his cannon."
+132769,511,147,635000,Dr. Julius Hibbert,Dr. Hibbert's Office,"You were wise to check, Marge."
+132770,511,148,637000,Marge Simpson,Dr. Hibbert's Office,What do you mean?
+132771,511,149,640000,Dr. Julius Hibbert,Dr. Hibbert's Office,Take a look at this.
+132772,511,150,643000,Homer Simpson,Dr. Hibbert's Office,X's for eyes...
+132773,511,151,646000,Marge Simpson,Dr. Hibbert's Office,"I guess... that's that, then."
+132774,511,152,648000,Homer Simpson,Dr. Hibbert's Office,"Honey, I am so sorry. I guess we'll just have to learn to love the three children we have."
+132778,511,155,656000,Bart Simpson,Simpson Home,"Lisa's going somewhere after school two days a week. And all we have are boxing wizards. If we're gonna find out what Lisa's up to, I'll need the help of all her old boyfriends."
+132779,511,156,666000,Milhouse Van Houten,Simpson Home,"Guess we've all carried the same books, huh, guys?"
+132780,511,157,669000,Nelson Muntz,Simpson Home,She carried mine.
+132781,511,158,671000,Milhouse Van Houten,Simpson Home,This just became a treehouse of horrors!
+132782,511,159,675000,Milhouse Van Houten,Simpson Home,It's okay! I landed on a mattress!
+132784,511,161,706000,Milhouse Van Houten,Springfield Streets,"Whatever it is, she's in over her head."
+132785,511,162,709000,Bart Simpson,Springfield Streets,Way over. We gotta save that poor girl. Anyone know how we get home?
+132786,511,163,715000,Nelson Muntz,Springfield Streets,We got bigger problems! It's Father Mike!
+132788,511,165,724000,Marge Simpson,Moe's Tavern,I can't believe we're never going to have another child...
+132789,511,166,728000,Lenny Leonard,Moe's Tavern,Is everything okay over here?
+132790,511,167,729000,Homer Simpson,Moe's Tavern,Sorry guys. Private family moment.
+132791,511,168,731000,Marge Simpson,Moe's Tavern,"No, s'okay. We can share this with you... Homer can't make a baby because he nuked his swimmers."
+132792,511,169,739000,Lenny Leonard,Moe's Tavern,"Aw, that's a shame."
+132793,511,170,740000,Carl Carlson,Moe's Tavern,Yeah. That's why I wrap my plums in tin foil every day.
+132794,511,171,744000,Homer Simpson,Moe's Tavern,"Eh, nothing we can do."
+132795,511,172,746000,Moe Szyslak,Moe's Tavern,"Hey, Homer... what if you got back one of those samples you sold years ago at the Shelbyville Sperm Bank?"
+132796,511,173,751000,Marge Simpson,Moe's Tavern,You never told me about that.
+132797,511,174,753000,Homer Simpson,Moe's Tavern,It's true... that's how I got the money to buy you your necklace.
+132798,511,175,757000,Marge Simpson,Moe's Tavern,Awww... Eww... Homie! We still have a chance!
+148601,511,176,763000,Homer's Brain,Moe's Tavern,"Okay, Homer. This is the moment of truth. You've gotta tell Marge you really don't want another kid."
+132799,511,177,769000,Homer Simpson,Moe's Tavern,"I, uh, hope it's twins!"
+148602,511,178,773000,Homer's Brain,Moe's Tavern,"Eh, how bad could it be?"
+132802,511,181,781000,Marge Simpson,Highway,Now I'm thinking Alex if it's a girl and Xander if it's a boy.
+148603,511,182,785000,Homer's Brain,Highway,"Uh-oh. She's picked names? Who puts this much thought into having a baby? Stall, stall, stall!"
+132777,511,183,792000,Homer Simpson,Highway,"Hey, uh... hm... why don't we take the longer but nicer historic route? Then today will be nothing but beautiful memories."
+132803,511,184,801000,Marge Simpson,Highway,Okay.
+132805,511,186,804000,Homer Simpson,Car,Watch it!
+132806,511,188,815000,Marge Simpson,ROUTE 33,"Ooh, a Christmas ornament museum! Can we stop?"
+132807,511,189,821000,Homer Simpson,ROUTE 33,"Okay, but just for a minute. We want to hit the candle store, Fudgerama, the Zipper Hall of Fame, Snow Globe World, and The Taj Meatball."
+132808,511,190,830000,Marge Simpson,ROUTE 33,I think that Shiva used to be Paul Bunyan.
+132810,511,192,834000,Nelson Muntz,Springfield Elementary School,"What's ""Detention"" doing here?"
+132811,511,193,836000,Seymour Skinner,Springfield Elementary School,"I need to know what's up with Lisa. If her grades drop, we're not technically a school -- we're a tornado shelter with voting booths."
+132812,511,194,843000,Seymour Skinner,Springfield Elementary School,Nothing exceptional here. Except -- blue reinforcements.
+132813,511,195,847000,Seymour Skinner,Springfield Elementary School,"Only one person I've ever known uses these: my predecessor, Principal Meredith Milgram."
+132815,511,197,854000,Seymour Skinner,Springfield Elementary School,"Follow me, but be warned: there's no permission slip for what we're doing."
+132817,511,199,860000,Meredith Milgram,CRAFTSMAN BUNGALOW,A quick movement of the enemy will jeopardize six gunboats.
+132818,511,200,864000,Milhouse Van Houten,CRAFTSMAN BUNGALOW,That's about three more jeopardized gunboats than I'd expect.
+132819,511,201,868000,Seymour Skinner,CRAFTSMAN BUNGALOW,Thank God we brought the bus driver.
+132820,511,202,873000,Meredith Milgram,CRAFTSMAN BUNGALOW,"Seymour, what are you doing here?"
+132821,511,203,875000,Seymour Skinner,CRAFTSMAN BUNGALOW,Taking four children across town to investigate a piece of paper we found on the ground.
+132822,511,204,879000,Meredith Milgram,CRAFTSMAN BUNGALOW,Don't you have better things to do?
+132823,511,205,881000,Seymour Skinner,CRAFTSMAN BUNGALOW,"Sadly, no."
+132824,511,206,882000,Meredith Milgram,CRAFTSMAN BUNGALOW,Same ol' Seymour.
+132825,511,207,884000,Lisa Simpson,CRAFTSMAN BUNGALOW,I know why they're here!
+132826,511,208,886000,Lisa Simpson,CRAFTSMAN BUNGALOW,Because they can't let me have a secret. It drives them crazy.
+132827,511,209,890000,Lisa Simpson,CRAFTSMAN BUNGALOW,Cursive writing. I'm learning cursive. All these sentences have every letter of the alphabet in them.
+132828,511,210,896000,Otto Mann,CRAFTSMAN BUNGALOW,"Ooh, don't they teach them fancy squiggles at school?"
+132829,511,211,899000,Seymour Skinner,CRAFTSMAN BUNGALOW,"Uh, we do not. Outmoded, no room in the budget, and all the teachers forgot how to make a capital ""Q."""
+132830,511,212,900000,Meredith Milgram,CRAFTSMAN BUNGALOW,"Two loops and a flourish. Luckily, a few brave students still want to learn."
+132831,511,213,910000,Lisa Simpson,CRAFTSMAN BUNGALOW,I hope you're happy. You all just wasted your time working your way into an afterschool class.
+132726,511,215,917000,Seymour Skinner,CRAFTSMAN BUNGALOW,What fun!
+132834,511,217,922000,Marge Simpson,Museum of Christmas Ornaments,I can't believe we spent the whole day here.
+132835,511,218,926000,Homer Simpson,Museum of Christmas Ornaments,And I got to try every flavor of candy cane: white and red.
+132836,511,219,930000,Marge Simpson,Museum of Christmas Ornaments,"Well, maybe we should check into a motel."
+132838,511,221,937000,Marge Simpson,IGLOO MOTOR LODGE,"Ooh, Homie, you've lost weight."
+132839,511,222,939000,Homer Simpson,IGLOO MOTOR LODGE,"What's that, baby?"
+132841,511,224,941000,Homer Simpson,IGLOO MOTOR LODGE,"I'll take it from here, wing-man."
+132842,511,225,948000,Marge Simpson,IGLOO MOTOR LODGE,It sure was nice to have a day together as a couple.
+132843,511,226,954000,Homer Simpson,IGLOO MOTOR LODGE,"Yeah, no kids to ruin it."
+132844,511,227,956000,Marge Simpson,IGLOO MOTOR LODGE,I thought the whole point of this trip was to have another baby.
+132845,511,228,960000,Homer Simpson,IGLOO MOTOR LODGE,"Marge, I was just being a good husband by pretending to agree with you while secretly undermining your agenda."
+132846,511,229,967000,Marge Simpson,IGLOO MOTOR LODGE,"So, you don't want another baby? How long have you felt this way?"
+132847,511,230,971000,Homer Simpson,IGLOO MOTOR LODGE,"Uh, well, looking back, I guess it started sometime before Bart was born."
+132848,511,231,983000,Homer Simpson,IGLOO MOTOR LODGE,"Room for one, please."
+132851,511,234,999000,Homer Simpson,MARGE'S HATCHBACK,"Honey, I'm sorry. It's just that we have a hard enough time handling three kids."
+132852,511,235,1004000,Homer Simpson,MARGE'S HATCHBACK,"Emotionally, financially, the boy... I just didn't know how to tell you."
+132853,511,236,1008000,Marge Simpson,MARGE'S HATCHBACK,Just yell across the house like you do everything else!
+132854,511,237,1011000,Homer Simpson,MARGE'S HATCHBACK,"Okay, good, we're talking..."
+132855,511,238,1013000,Marge Simpson,MARGE'S HATCHBACK,We're not talking!
+132856,511,239,1014000,Homer Simpson,MARGE'S HATCHBACK,Your phone just dialed me.
+132857,511,240,1015000,Marge Simpson,MARGE'S HATCHBACK,You were pocket-dialed!
+132858,511,241,1017000,Homer Simpson,MARGE'S HATCHBACK,"Hey, the pocket wants what it wants."
+132861,511,244,1022000,Homer Simpson,REST STOP,"They just leave the maple syrup on the table, huh? How about that? That's trust, huh?"
+132862,511,245,1026000,Marge Simpson,REST STOP,Shush!
+132863,511,246,1028000,Dad,REST STOP,"Now kids, help your brother Xander."
+148604,511,247,1032000,Homer's Brain,REST STOP,"There he is. The fat, pathetic slob I'd be with four kids."
+132864,511,248,1040000,Dad,REST STOP,Where's daddy? Where'd daddy go?
+132865,511,249,1042000,Dad,REST STOP,Here he is!
+148605,511,250,1045000,Homer's Brain,REST STOP,"Oh, right. That dad was there all along. Phew. That was so sweet! Maybe there's no such thing as too many kids."
+148669,511,251,1054000,Marge's Thoughts,REST STOP,"I know what Homer's thinking. He's thinking that he really wants a baby now. So this should be the time, ironically, that I'll change my mind and not want one. Well, no way! I want one more than ever!"
+132867,511,253,1069000,Homer Simpson,Shelbyville,Uh-oh. I don't think I rewound the video the last time I was here.
+132869,511,255,1073000,Homer Simpson,FERTILITY CLINIC,"Um, I'd like to get back a donation made fifteen years ago by a Simpson, Homer. Or it may be under the name Thad Supersperm."
+132870,511,256,1084000,Marge Simpson,FERTILITY CLINIC,"Homer... Homer, this is the point where I really have to know what you want."
+132871,511,257,1089000,Homer Simpson,FERTILITY CLINIC,"I'll tell you what I want, Marge. I want to make another Simpson. The table with four legs is sturdier than the table with three. Cubes are made of cheese, but pyramids are schemes. And anything that's half you is guaranteed fifty percent perfect."
+132873,511,259,1106000,Receptionist,FERTILITY CLINIC,"Nice speech, but the last of your sample was just selected by another couple."
+132874,511,260,1111000,Homer Simpson,FERTILITY CLINIC,Are you sure there isn't more? I mean there's always a little ketchup left in the bottle.
+132875,511,261,1115000,Receptionist,FERTILITY CLINIC,I'm afraid not. But the couple is waiting in the room there. Maybe you can talk them into something else.
+132878,511,264,1125000,Homer Simpson,Waiting Room,I'd like to buy back my sample.
+132879,511,265,1127000,Wife,Waiting Room,Are you saying... our sample came from you?
+132880,511,266,1131000,Husband,Waiting Room,"Here, it's yours. We don't need it."
+132881,511,267,1132000,Homer Simpson,Waiting Room,"Well, I expected a little argument."
+132882,511,268,1134000,Husband,Waiting Room,"No, no, no, look in the mirror, that's your argument."
+132883,511,269,1136000,Homer Simpson,Waiting Room,"Geez. I mean, I'm no Luis Guzman, but I'm all right."
+132886,511,272,1146000,Marge Simpson,FERTILITY CLINIC,Homer? How many samples did you sell?
+132887,511,273,1150000,Homer Simpson,FERTILITY CLINIC,Um... remember that Corvette I had?
+132888,511,274,1153000,Marge Simpson,FERTILITY CLINIC,I thought they only paid fifty dollars a trip.
+132890,511,275,1155000,Homer Simpson,FERTILITY CLINIC,"Exactly. Well, we're all set. Let's make a Thad Supersperm Junior. With a name like that, he could be president."
+132891,511,276,1163000,Marge Simpson,FERTILITY CLINIC,"Homie, maybe we should wait."
+132893,511,278,1166000,Marge Simpson,FERTILITY CLINIC,Maybe there's enough Homer in the world for now.
+132894,511,279,1170000,Homer Simpson,FERTILITY CLINIC,But I was really looking forward to...
+132895,511,280,1175000,Homer Simpson,FERTILITY CLINIC,"You're right, Marge. I don't wanna bring more kids into a world full of my kids."
+132897,511,282,1184000,Homer Simpson,DRIVE-IN THEATER,"Two adults, please."
+132898,511,283,1187000,Squeaky-Voiced Teen,DRIVE-IN THEATER,"Enjoy the film, you two!"
+132899,511,284,1194000,Homer Simpson,DRIVE-IN THEATER,Another thing that would be harder with four kids.
+132900,511,285,1197000,Marge Simpson,DRIVE-IN THEATER,"You know, I always send the theater manager a check the next day."

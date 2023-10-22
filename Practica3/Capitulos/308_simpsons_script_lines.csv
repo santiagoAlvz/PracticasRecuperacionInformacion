@@ -1,0 +1,261 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+78880,308,1,28000,Lisa Simpson,Simpson Home,I wonder what Mom came up with for this week's 'Family Wednesday.'
+78881,308,2,31000,Homer Simpson,Simpson Home,I hope it's as fun as Pictionary was last week.
+78882,308,3,34000,Bart Simpson,Simpson Home,"Dad, we weren't playing Pictionary -- that was an intervention to stop your drinking."
+78883,308,4,38000,Homer Simpson,Simpson Home,What? Are you sure?
+78885,308,6,43000,Homer Simpson,Simpson Home,"Oh, that takes me back."
+78886,308,7,49000,Marge Simpson,Simpson Home,"Here it is, this week's family activity."
+78887,308,8,52000,Lisa Simpson,Simpson Home,"Oh, a jigsaw puzzle..."
+78888,308,9,54000,Lisa Simpson,Simpson Home,Concert in Golden Gate Park.
+78889,308,10,57000,Lisa Simpson,Simpson Home,Ages eight to eighty.
+78890,308,11,57000,Grampa Simpson,Simpson Home,We know when we're not wanted.
+78891,308,12,63000,Marge Simpson,Simpson Home,The box says it's the perfect way to spend a day. And why would a box lie to a person?
+78892,308,13,76000,Marge Simpson,Simpson Home,The first step is the funnest -- turning all the pieces face up.
+78893,308,14,80000,Bart Simpson,Simpson Home,"Go crazy, dorks. I got better things to do."
+78894,308,15,83000,Milhouse Van Houten,Simpson Home,"Hey Bart, I fixed my rock tumbler. What do you say we turn this baby loose on some feldspar?"
+78895,308,16,90000,Bart Simpson,Simpson Home,I'm in.
+78896,308,17,91000,Homer Simpson,Simpson Home,"Oh, I hate this. It's making me use my arms."
+78897,308,18,96000,Homer Simpson,Simpson Home,Hey! These two pieces were already connected -- we're halfway there!
+78898,308,19,104000,Lisa Simpson,Simpson Home,Does anyone have any swan heads? I've got nothing but necks.
+78899,308,20,107000,Homer Simpson,Simpson Home,Can't help you -- all I got is gray. Anybody working on a cement wall?
+78900,308,21,112000,Marge Simpson,Simpson Home,"Turn it over, Homer."
+78901,308,22,114000,Homer Simpson,Simpson Home,"Oh, right. Chinese guy, Chinese guy, frisbee dog..."
+78902,308,23,121000,Marge Simpson,Simpson Home,"Ooh, look how late it is. Let's get you kids some coffee."
+78903,308,24,126000,Marge Simpson,Simpson Home,"Homer, no scissors!"
+78904,308,25,128000,Homer Simpson,Simpson Home,It's how the pros do it.
+78906,308,27,135000,Bart Simpson,Springfield Elementary School,"Sky, sky, sky with building, grass, grass with foot."
+78907,308,28,139000,Nelson Muntz,Springfield Elementary School,Haw-haw. Bart's so poor he has to eat cardboard.
+78908,308,29,143000,Milhouse Van Houten,Springfield Elementary School,What are you eating?
+78909,308,30,145000,Nelson Muntz,Springfield Elementary School,Drywall.
+78911,308,32,151000,Lenny Leonard,Simpson Home,"Hey, kids. Uh, we're worried about your Dad. He ain't been to work for a week."
+78912,308,33,156000,Carl Carlson,Simpson Home,"What's he doin' now? Hey, is he a rodeo clown?"
+78913,308,34,158000,Lenny Leonard,Simpson Home,Is he Poochie again?
+78914,308,35,159000,Lisa Simpson,Simpson Home,He's working on a jigsaw puzzle.
+78915,308,36,161000,Carl Carlson,Simpson Home,"Oh, I guess he's done with all the fun stuff."
+78916,308,37,165000,Homer Simpson,Simpson Home,Now let's see. This is either an old coconut... or Tom Hayden.
+78917,308,38,170000,Lenny Leonard,Simpson Home,"Gee, Homer, that's super. But uh, have you thought about comin' back to work?"
+78918,308,39,178000,PUZZLE LENNY,Simpson Home,"Hey Homer, what's with the deranged look?"
+78920,308,41,184000,Lenny Leonard,Simpson Home,"Ow, my eye! I'm not supposed to get jigs in it!"
+78922,308,43,189000,Marge Simpson,Simpson Backyard,I can't believe our family finished a project this complicated.
+78923,308,44,193000,Homer Simpson,Simpson Backyard,It's the only worthwhile thing I ever made that wasn't Lisa.
+78924,308,45,199000,Homer Simpson,Simpson Backyard,"Prove me wrong, Silent Bob."
+78925,308,46,200000,Ned Flanders,Simpson Backyard,"Ooh, that's quite a thing-a-ma-jigsaw. But it looks like you're missin' a piece."
+78926,308,47,205000,Homer Simpson,Simpson Backyard,Looks like you're missing a wife.
+78927,308,48,206000,Ned Flanders,Simpson Backyard,I walked right into that one.
+78928,308,49,208000,Lisa Simpson,Simpson Backyard,"He's right, Dad. We're missing that singer's head!"
+78930,308,51,212000,Lisa Simpson,Simpson Backyard,This awful. It's like listening to Schubert's unfinished symphony!
+78931,308,52,217000,Homer Simpson,Simpson Backyard,"Or when I messed up taping ""City Slickers 2"" and cut off the end. Was Curly's gold just a legend?"
+78932,308,53,222000,Bart Simpson,Simpson Backyard,"Or like when... I got nothin'. Uh, let's just find that piece."
+78933,308,54,230000,Bart Simpson,Simpson Backyard,"Hey, remember that pet gerbil we used to have? He didn't run away after all."
+78935,308,56,238000,Homer Simpson,Simpson Home,"Puzzle piece, come out and play-ay."
+78936,308,57,242000,Homer Simpson,Simpson Home,"Hey, what's this? ""Marge's Memory Chest."""
+78937,308,58,248000,Homer Simpson,Simpson Home,"Aww, Marge saved all this stuff from when we were going out. The fake business card I made up to impress her..."
+78938,308,59,256000,Homer Simpson,Simpson Home,T-shirt from our first rock concert...
+78939,308,60,260000,Homer Simpson,Simpson Home,"""Moe's Tavern Grand Opening..."" That was back when his floors were sticky with promise."
+78941,308,62,271000,Young Moe,Moe's Tavern,Welcome to Moe's. Home of the finest bar crystal in Springfield.
+78942,308,63,279000,Young Moe,Moe's Tavern,I shouldn't have cheaped out on the shelf.
+78943,308,64,281000,Homer Simpson,Moe's Tavern,I can't believe how young we looked... in my memory.
+78944,308,65,287000,Homer Simpson,Moe's Tavern,"Hey, there's writing on the back of this."
+78945,308,66,289000,Homer Simpson,Moe's Tavern,"""Dear Homer, I can't believe you're making this the worst night of my life."""
+78953,308,67,297000,Young Marge,Moe's Tavern,You leave me sitting here all alone...
+78954,308,68,297000,Young Marge,Moe's Tavern,...while you play video games with your Neanderthal friends.
+148088,308,69,304000,Young Homer,Moe's Tavern,"Marge, come here."
+148089,308,70,305000,Young Homer,Moe's Tavern,"Marge, I need both hands for this game. Can you feed me nachos while I play?"
+78955,308,71,309000,Young Marge,Moe's Tavern,Why don't you just stop playing?
+148090,308,72,311000,Young Homer,Moe's Tavern,Tell that to the brave crew of the S.S. Triangle.
+78956,308,73,317000,Young Marge,Moe's Tavern,"Homer, I really don't want to feed you."
+148091,308,74,319000,Young Homer,Moe's Tavern,Come on! You're always saying we should do things as a couple.
+148092,308,75,329000,Young Homer,Moe's Tavern,"Oh, this is wonderful. I love you, Atari."
+78957,308,76,339000,Young Marge,Moe's Tavern,Video games and too much beer. You sure know how to show a girl a good time.
+148093,308,77,344000,Young Homer,Moe's Tavern,"Well, I aims to please. Hey, let's stop by that dumpster and make out. Hold that thought."
+78946,308,78,358000,Paramedic,Moe's Tavern,"Young man, you've ingested a dangerous amount of alcohol."
+78947,308,79,362000,Homer Simpson,Moe's Tavern,The only dangerous amount is none!
+78948,308,80,366000,Homer Simpson,Moe's Tavern,Let's go to IHOP! I'm drivin'.
+78949,308,81,370000,Homer Simpson,Moe's Tavern,"Okay, Burger King! Whatever! C'mon."
+78958,308,82,374000,Young Marge,Moe's Tavern,Tonight I learned the two of us can't work.
+148223,308,83,377000,Young Marge,Moe's Tavern,"I don't want a life of watching you get drunk, then holding back your long, beautiful hair while you vomit. I have my own dreams and I can't live them with you."
+78950,308,84,387000,Homer Simpson,Moe's Tavern,"Why did she stay with me if she hated me so much? Hey, two days later she had a doctor's appointment."
+78951,308,85,393000,Homer Simpson,Moe's Tavern,"""Nausea... cravings... knocked-up feeling... She was pregnant with Bart! And that's the reason she stayed with me.,nausea cravings knocked-up feeling she was pregnant with bart and thats the reason she stayed with me,17
+88908,308,86,Marge Simpson: I found the missing puzzle piece. It was under Maggie's eyelid!,401000,true,1,15,Marge Simpson,Moe's Tavern,I found the missing puzzle piece. It was under Maggie's eyelid!,i found the missing puzzle piece it was under maggies eyelid,11
+88909,308,87,Homer Simpson: (FLAT) How 'bout that?,406000,true,2,15,Homer Simpson,Moe's Tavern,How 'bout that?,how bout that,3
+88910,308,88,Marge Simpson: It's James Taylor!,407000,true,1,15,Marge Simpson,Moe's Tavern,It's James Taylor!,its james taylor,3
+88911,308,89,""Homer Simpson: (FLATLY) Oh"
+78959,308,90,412000,Marge Simpson,Moe's Tavern,"James Taylor. Homie, remember that song we used to sing?"
+78960,308,91,416000,Marge Simpson,Moe's Tavern,MOCK...
+78961,308,92,416000,Homer Simpson,Moe's Tavern,Yeah.
+78962,308,93,417000,Marge Simpson,Moe's Tavern,ING...
+78963,308,94,417000,Homer Simpson,Moe's Tavern,Yeah.
+78964,308,95,418000,Marge Simpson,Moe's Tavern,BIRD...
+78965,308,96,418000,Homer Simpson,Moe's Tavern,Whatever.
+78966,308,97,420000,Marge Simpson,Moe's Tavern,"Homie, what's wrong?"
+78967,308,98,421000,Homer Simpson,Moe's Tavern,Marge... did I ruin your life?
+78968,308,99,424000,Marge Simpson,Moe's Tavern,"Oh, is this about that billboard my sisters put up?"
+78969,308,100,431000,Homer Simpson,Moe's Tavern,"No, the voters will decide that in November. I was talking about this."
+78970,308,101,435000,Marge Simpson,Moe's Tavern,Huh?
+78971,308,102,436000,Marge Simpson,Moe's Tavern,"Oh my God, I forgot all about this. Where did you find it?"
+78972,308,103,440000,Homer Simpson,Moe's Tavern,"More like, where didn't I find it. It was practically everywhere."
+78973,308,104,444000,Marge Simpson,Moe's Tavern,"Homer, I'm sorry you saw that, but I was very upset that night."
+78974,308,105,448000,Homer Simpson,Moe's Tavern,Quit changing the subject. How do you feel about me right now?
+78975,308,106,451000,Marge Simpson,Moe's Tavern,"Well, I love you, of course. But a lot of things you do still drive me crazy."
+78976,308,107,456000,Homer Simpson,Moe's Tavern,So you mean our whole marriage you've just been resenting me behind my back?
+78977,308,108,459000,Marge Simpson,Moe's Tavern,"A little bit, yeah."
+78978,308,109,461000,Homer Simpson,Moe's Tavern,Fine. I'll go sleep with someone who does appreciate me.
+78981,308,112,469000,Bart Simpson,Simpson Home,Oh. Time to repress another memory.
+78982,308,113,474000,Bart Simpson,Simpson Home,I-am-at-Disneyland.
+78984,308,115,478000,Bart Simpson,Simpson Home,Disneyland!
+78985,308,116,483000,Marge Simpson,Simpson Home,You made your own breakfast?
+78986,308,117,486000,Marge Simpson,Simpson Home,Looks like you had a problem with those scrambled eggs.
+78987,308,118,489000,Homer Simpson,Simpson Home,That was a muffin!
+78988,308,119,490000,Marge Simpson,Simpson Home,I'll fix you something.
+78989,308,120,491000,Homer Simpson,Simpson Home,"Oh, I get it. Your stupid husband is too ""drunk"" to do it right."
+78990,308,121,495000,Marge Simpson,Simpson Home,"Well, there are a lot of beer cans around here."
+78991,308,122,499000,Homer Simpson,Simpson Home,"Oh, so you don't like it when I drink. What other secrets have you been hoarding to use against me?"
+78992,308,123,503000,Marge Simpson,Simpson Home,"Homer, let it go. It's not always going to be perfect. We've been married for ten years."
+78993,308,124,508000,Homer Simpson,Simpson Home,"Oh, I didn't realize you've been counting the years. Is it that horrible living with me?"
+78994,308,125,512000,Marge Simpson,Simpson Home,Well this morning isn't a barrel of laughs.
+78995,308,126,515000,Homer Simpson,Simpson Home,"It is to me! Marge, I can't live like this! I'm tired of walking around on eggshells."
+78996,308,127,519000,Marge Simpson,Simpson Home,Maybe if you didn't throw 'em on the floor...
+78997,308,128,524000,Homer Simpson,Simpson Home,Now you're just making up rules. Who made you Judge Judy and executioner?
+78998,308,129,532000,Lisa Simpson,Simpson Home,"Dad, where are you going?"
+78999,308,130,534000,Homer Simpson,Simpson Home,"Kids, sometimes when a daddy learns that a mommy always hated him, he needs some time away to think."
+79000,308,131,540000,Bart Simpson,Simpson Home,"But you're not gonna get divorced like Milhouse's parents, are you?"
+79001,308,132,544000,Homer Simpson,Simpson Home,"No, no. This is nothing like Milhouse's parents. Now if you need me I'll be staying with Milhouse's father."
+79004,308,135,556000,Kirk Van Houten,Kirk Van Houten's Apartment,"Welcome to my place. I just have a few rules. If you see a necktie on the doorknob, I'm with a lady."
+79005,308,136,563000,Homer Simpson,Kirk Van Houten's Apartment,You don't have a doorknob.
+79006,308,137,564000,Kirk Van Houten,Kirk Van Houten's Apartment,"I don't have a tie, either. Just go label your food."
+79007,308,138,572000,Kirk Van Houten,Kirk Van Houten's Apartment,"Oh, Luann. Luann!"
+79009,308,140,577000,Bachelors,Bachelor Arms,Arlene!
+79011,308,142,587000,Homer Simpson,Evergreen Terrace,Do I dare to go up? Or is the love that waits behind that window just a lie?
+79012,308,143,593000,Ned Flanders,Evergreen Terrace,"Uh, Homer, I think you want your house, next door."
+79013,308,144,596000,Homer Simpson,Evergreen Terrace,"Stupid Flanders with his misleading silhouette. Well, I guess I have no choice but to go back home and... hey, I never noticed that newspaper box."
+79014,308,145,605000,Homer Simpson,Evergreen Terrace,"""Apartment Finder: We put you in your place."" ""Roommate wanted for three bedroom apartment. Spacious, river view, only four hundred dollars a month!"" Thank you, news box... It's gone!"
+79015,308,146,622000,Cletus Spuckler,Evergreen Terrace,"All right, I got me a place to put my spiders."
+79017,308,148,623000,Homer Simpson,Springfield,What a well-kept street. And there sure are a lot of gay bookstores for a straight neighborhood.
+79018,308,149,634000,Homer Simpson,Springfield,It's a cinch these guys never had any kids.
+78817,308,150,640000,Homer Simpson,Springfield,Hey Mr. Smithers!
+79019,308,151,642000,Waylon Smithers,Springfield,"Hello, Simpson."
+79020,308,152,644000,Homer Simpson,Springfield,"What's the deal with this place? It's so manly, yet scented."
+79021,308,153,647000,Waylon Smithers,Springfield,"Uh, yes, I seem to have gotten lost on my way to the uh, the uh, the big auto uh, racing... festival. So, I've never been here before."
+79022,308,154,654000,Man #1,Springfield,Hey Waylon!
+79023,308,155,655000,Man #2,Springfield,Who's the bear?
+79024,308,156,658000,Young Man,Springfield,"Ooh, is that the Mr. Burns you're always talking about?"
+79025,308,157,660000,Waylon Smithers,Springfield,"No. He's nobody! Shut up, Stuart!"
+79026,308,158,662000,Homer Simpson,Springfield,"Nice to meet you, Stuart."
+79028,308,160,664000,Grady,Village Apartment,"Homer, before you move in, you should know that Julio and I have an active social life."
+79029,308,161,670000,Homer Simpson,Village Apartment,"Me too. I'm a member of this club where if I eat one more sub sandwich, I get a free sub sandwich. You probably saw the ads, with this guy who used to be fat, but now he's just ugly."
+79030,308,162,677000,Julio,Village Apartment,"Homer, what Grady is saying is that, how can I put this? We might have a cocktails, say, where all the guests are male."
+79031,308,163,685000,Homer Simpson,Village Apartment,Are you trying to tell me that you guys are those guys that like guys?
+79032,308,164,689000,Grady,Village Apartment,"That's right, Homer. We're gay."
+79033,308,165,690000,Homer Simpson,Village Apartment,"You are? Hm, which will win out? My old-fashioned prejudices or the fact that I've already mixed my laundry with yours. I'll have to sleep on it."
+79034,308,166,705000,Julio,Village Apartment,He's sleeping in the pantry.
+79035,308,167,707000,Grady,Village Apartment,My spices!
+79038,308,170,708000,Homer Simpson,Apartment,"You guys lead a fascinating life. Like, why are you reading the New York Times? You don't live in New York."
+79039,308,171,714000,Julio,Apartment,I despise the Springfield Shopper. What is that? All the headlines are jokes.
+79040,308,172,722000,Julio,Apartment,"Uch, where'd you buy this? From the guy on the exit ramp? This is disgusting."
+79041,308,173,725000,Homer Simpson,Apartment,"Calm down, Picky Ricardo. He made us a great breakfast, and you're just ridin' his butt... and not in a good way."
+79042,308,174,732000,Grady,Apartment,"Thank you, Homer. It's a pleasure cooking for you."
+79043,308,175,735000,Homer Simpson,Apartment,"Well, get used to it, 'cause I'm gonna stay."
+79044,308,176,740000,Grady,Apartment,Fabulous! Here's the key to the lotion cabinet.
+79045,308,177,742000,Julio,Apartment,"Grady, are you sure you want to live with him?"
+79046,308,178,744000,Grady,Apartment,"It's either him or that girl who put ""Mother Earth"" as a reference. And with a male roommate, we can walk around naked."
+79047,308,179,751000,Homer Simpson,Apartment,Way ahead of you.
+79049,308,181,754000,Marge Simpson,Simpson Home,"Don't worry, sweetie. Your father won't stay mad forever."
+79050,308,182,758000,Lisa Simpson,Simpson Home,It's so weird not having Dad here. I can't fall asleep if I haven't read him his bedtime story.
+79051,308,183,765000,Lisa Simpson,Simpson Home,Hello... hold on.
+79052,308,184,767000,Lisa Simpson,Simpson Home,"""Nancy Drew let out a low whistle. 'This isn't an old windmill at all. It's a new windmill!'"" No Dad, I'm sure she won't be killed."
+79053,308,185,777000,Stylist,Simpson Home,That will be one hundred dollars.
+79054,308,186,797000,Homer Simpson,Simpson Home,I see.
+79055,308,187,802000,Lisa Simpson,Simpson Home,Dad took us antiquing!
+79056,308,188,804000,Bart Simpson,Simpson Home,"Yeah, and along the way we took photos of interesting doors and gates."
+79057,308,189,807000,Marge Simpson,Simpson Home,Your father sure can be thoughtful when he wants to be.
+79058,308,190,810000,Homer Simpson,Simpson Home,"Marge, please. Let's not fight in front of the kids. Just secretly hate me the way you always have."
+79059,308,191,816000,Bart Simpson,Simpson Home,"Hey, I love watching you guys fight. It's my earliest memory."
+79060,308,192,819000,Homer Simpson,Simpson Home,Why you little...!
+79061,308,193,822000,Bart Simpson,Simpson Home,"Dad, your hands feel so soft."
+79062,308,194,824000,Homer Simpson,Simpson Home,You noticed! I've been using Lancôme.
+79063,308,195,827000,Bart Simpson,Simpson Home,"Oh, it shows! I haven't had a strangle that smooth since I was four."
+79064,308,196,831000,Homer Simpson,Simpson Home,"Well, I'd better go. But before I do, Marge, there's something I want to ask you."
+79065,308,197,835000,Marge Simpson,Simpson Home,"Yes, Homie?"
+79066,308,198,838000,Homer Simpson,Simpson Home,How much do you tip a leg waxer? I need to know by tomorrow!
+79067,308,199,841000,Marge Simpson,Simpson Home,Just go. And take your stupid Lhasa Apso with you.
+79068,308,200,847000,Lisa Simpson,Simpson Home,"Mom, I know Dad cares about you, but his feelings are really hurt. Why don't you just say you're sorry?"
+79069,308,201,852000,Marge Simpson,Simpson Home,"Lisa, marriage is a beautiful thing. But it's also a constant battle for moral superiority. So I can't apologize."
+79070,308,202,861000,Bart Simpson,Simpson Home,Couldn't you just say you're sorry and not mean it? I do it all the time. I don't think I've ever meant it.
+79071,308,203,865000,Marge Simpson,Simpson Home,Bart! That's not right.
+79072,308,204,867000,Bart Simpson,Simpson Home,"Sorry, Mom. See, it's that easy!"
+79074,308,207,874000,Grady,GAY NIGHTCLUB,"So, how was your visit home?"
+79075,308,208,875000,Homer Simpson,GAY NIGHTCLUB,"The kids are cool, but Marge is still judging me."
+79076,308,209,878000,Grady,GAY NIGHTCLUB,"So, it's over between you two."
+79077,308,210,881000,Homer Simpson,GAY NIGHTCLUB,"Maybe it is. I used to look at Marge and get the same tingle you guys get when you see Rip Taylor. But now, I don't know what's gonna happen. C'mon, let's dance."
+79078,308,211,903000,Men,GAY NIGHTCLUB,Homer! Homer! Yeah! Get it on! Shake your bon bon!
+79079,308,212,908000,Lesbian,GAY NIGHTCLUB,"I didn't think it was possible, but watching him makes me more lesbian!"
+79080,308,213,914000,Hans Moleman,GAY NIGHTCLUB,Lesbian? This isn't my army reunion.
+79081,308,214,919000,Large Gay Man,GAY NIGHTCLUB,You're coming home with me!
+79082,308,215,921000,Hans Moleman,GAY NIGHTCLUB,"Yes, Colonel."
+79084,308,217,928000,Grady,Apartment,He's gay. He's gay. Gay. Gay. Bi. Gay. Gay for pay. Gay.
+79085,308,218,933000,Homer Simpson,Apartment,Tennessee Williams?! But how did he survive in the world of theater?
+79086,308,219,938000,Grady,Apartment,"Homer, please. Practically everyone who's acted in, produced or even seen a play is gay."
+79087,308,220,943000,Julio,Apartment,"Uh Homer, I think you should see this."
+79088,308,221,947000,Marge Simpson,Apartment,"Homie, I tried to tell you how I feel, but I can't find the right words. Maybe he can."
+79089,308,222,953000,Homer Simpson,Apartment,Weird Al Yankovic!
+79090,308,223,954000,Weird Al,Apartment,"Homer, Marge wrote me about what happened. And as soon as her check cleared, I was on the first reasonably-priced flight here."
+79091,308,224,960000,Homer Simpson,Apartment,Did you ever get the parody songs I sent you?
+79092,308,225,962000,Weird Al,Apartment,Yes.
+79093,308,226,963000,Homer Simpson,Apartment,"Which one was better: ""Livin' La Pizza Loca"" or ""Another One Bites The Crust""?"
+79094,308,227,967000,Weird Al,Apartment,"They were pretty much the same, Homer."
+79095,308,228,969000,Homer Simpson,Apartment,"Yeah, like you and Allan Sherman."
+79096,308,229,971000,Weird Al,Apartment,"Now here's a song I wrote for you. A LITTLE DITTY 'BOUT HOMER AND MARGE / HER HEART WAS AS BIG AS HIS STOMACH WAS LARGE / OH YEAH, THEY SAY LOVE GOES ON / LONG AFTER THE GRILLED CHEESE SANDWICH IS GONE."
+79097,308,230,1001000,Homer Simpson,Apartment,It would take a man of stone with a funny bone of steel to resist that.
+79098,308,231,1005000,Marge Simpson,Apartment,"Homer, would you at least let me take you out on a date?"
+79099,308,232,1008000,Homer Simpson,Apartment,I don't know... date a chick with kids...
+79100,308,233,1011000,Lisa Simpson,Apartment,Dad!
+79101,308,234,1012000,Homer Simpson,Apartment,"All right, all right."
+77856,308,235,1013000,Julio,Apartment,"Nice work, Lisa."
+79102,308,236,1014000,Lisa Simpson,Apartment,"Thanks, Julio. I love you as a blonde."
+79103,308,237,1017000,Julio,Apartment,"Oh, you do? Oh God, Lisa, if I was an eight-year-old straight boy, I swear to God I would so be holding your hand right now."
+79105,308,239,1028000,Homer Simpson,Apartment Building,Wait a minute... Marge likes a little bit of stubble.
+79106,308,240,1033000,Homer Simpson,Apartment Building,Uh-oh. Gotta even it out.
+79107,308,241,1036000,Grady,Apartment Building,Somebody's nervous.
+79108,308,242,1037000,Julio,Apartment Building,"Well, we've got the cure for that. Margaritas!"
+79109,308,243,1040000,Homer Simpson,Apartment Building,Margarita... that's Mexican for Marge. I'll take that as a sign!
+148662,308,246,1048000,Marge's Thoughts,MEDIEVAL TIMES,Where is he?! Where is he?!
+79112,308,247,1053000,Black Knight,MEDIEVAL TIMES,"Who dares challenge ye Black Knight? Step forward if ye be free of lower back pain, heart conditions, and pregnancy."
+79113,308,248,1061000,Black Knight,MEDIEVAL TIMES,And please turn off thy cell phones and pagers.
+79115,308,250,1067000,Homer Simpson,Apartment,"I've learned a lot living here. It doesn't matter what someone's sexual preferences are, unless they're a celebrity, in which case it's dish, dish, dish!"
+79116,308,251,1074000,Julio,Apartment,"Homer, weren't you supposed to meet your wife half an hour ago?"
+79117,308,252,1078000,Homer Simpson,Apartment,"You guys don't have a gay time machine, do you?"
+79118,308,253,1080000,Julio,Apartment,Yes. It's called Grady's shoe closet.
+79119,308,254,1080000,Grady,Apartment,"Hey, Julio: ouch."
+79120,308,255,1085000,Homer Simpson,Apartment,I gotta go.
+79122,308,257,1091000,King,MEDIEVAL TIMES,"Now, for ye knights' and wenches' delectation, I have some royal proclamations."
+79123,308,258,1097000,King,MEDIEVAL TIMES,"We welcome Cub Scout troop number 102, we wish a happy birthday to Karen, and congratulations to Marge and Homer Simpson on their reconciliation dinner."
+79124,308,259,1108000,Homer Simpson,MEDIEVAL TIMES,Sorry I'm late -- the Velvet Mafia made me a Margarita I couldn't refuse.
+79125,308,260,1112000,Marge Simpson,MEDIEVAL TIMES,"Goodbye, Homer! I try to save our marriage, and you just get drunk and spend the whole night with your homosexual boyfriends!"
+79126,308,261,1119000,Marge Simpson,MEDIEVAL TIMES,"Reverend Lovejoy, Mrs. Lovejoy, Principal Skinner, Duffman."
+79128,308,263,1125000,Grady,Apartment,"Fact is, certain people just aren't right for each other. You gave it a chance, it didn't work. At least you tried."
+79130,308,264,1131000,Homer Simpson,Apartment,"But it was Marge. My first and only love. I'm like David Spade without Chris Farley, alone and useless!"
+79131,308,265,1139000,Grady,Apartment,"Oh Homer, a guy as cool and special as you will have no trouble. Believe me."
+79132,308,266,1150000,Homer Simpson,Apartment,Wow. Wow. I never realized you felt about me that way. We should really take some time to talk and...I'd just end up hurting you!
+79134,308,268,1161000,Homer Simpson,Moe's Tavern,"You know, Moe, I was just thinking. My problems with Marge started because I drink too much. And then tonight alcohol only made things worse. Maybe all of my problems are actually caused by..."
+79135,308,269,1172000,Moe Szyslak,Moe's Tavern,"Yeah, yeah, yeah. Take your medicine, ya lush ya."
+79137,308,271,1183000,Chief Wiggum,Springfield General Hospital,"Hey, what happened here?"
+79138,308,272,1184000,Moe Szyslak,Springfield General Hospital,"Uh, he was drinkin' at Harrigan's Bar down the street, there. They oughtta close that dump down."
+79140,308,274,1192000,Dr. Julius Hibbert,Hospital Room,That was a close call. We took this much out of you.
+79141,308,275,1196000,Dr. Julius Hibbert,Hospital Room,But it's still not as bad as the first time I treated you for alcohol poisoning.
+79142,308,276,1199000,Homer Simpson,Hospital Room,"Oh, yeah. The night that destroyed my marriage."
+79143,308,277,1203000,Dr. Julius Hibbert,Hospital Room,"Destroyed your marriage? Why, I've never seen a woman look so devoted. Let's look at the tape."
+79144,308,278,1211000,Homer Simpson,Hospital Room,You have that on tape?!
+79145,308,279,1212000,Dr. Julius Hibbert,Hospital Room,It was back when I thought the nurse was stealing sponges.
+79146,308,280,1217000,Young Dr. Hibbert,Hospital Room,He's stable now. I'll leave you two alone.
+148226,308,281,1221000,Young Marge,Hospital Room,"Homie, I was so worried about you. I was really mad at you tonight, but you're a good person and that's what I see most of the time. Whatever problems we have, we have a lifetime to work them out. Together."
+79147,308,282,1233000,Homer Simpson,Hospital Room,"So, she didn't hate me. She married me because she loved me!"
+79148,308,283,1238000,Marge Simpson,Hospital Room,And I still do.
+79149,308,284,1240000,Homer Simpson,Hospital Room,"Marge, I never want to be apart from you again."
+79150,308,285,1242000,Marge Simpson,Hospital Room,"Well, you'll never have to."
+79151,308,286,1246000,Homer Simpson,Hospital Room,That is the best kiss I've had tonight.
+79155,308,287,1249000,Homer's Thoughts,Hospital Room,Or was it?
+79152,308,288,1250000,Marge Simpson,Hospital Room,"Homie, what are you thinking?"
+79153,308,289,1252000,Homer Simpson,Hospital Room,Manly thoughts.
+79156,308,290,1257000,Dr. Julius Hibbert,Hospital Room,All I have left now are my tapes.
+79157,308,291,1262000,Dr. Julius Hibbert,Hospital Room,She was stealing sponges. I knew it!
+79158,308,292,1271000,Weird Al,Hospital Room,"THAT'S OUR STORY / 'BOUT HOMER AND MARGE / TWO FOLKS I HELPED OUT / FOR A NOMINAL CHARGE. / AFTER HOMER WENT GAY / THEY PATCHED UP THEIR SCHISM / BUT THE DUDE NEVER DEALT WITH / HIS ALCOHOLISM. / WEIRD AL SAY: / OH, YEAH, / THE CREDITS GO ON / LONG AFTER THE VIEWERS' / INTEREST IS GONE. / WHOA, YEAH, / WEIRD AL HAD FUN ON THIS SHOW / EVEN IF IT WAS JUST A BRIEF CAMEO."

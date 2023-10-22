@@ -1,0 +1,259 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+63609,256,1,66000,Ex-jock #2,Simpson Home,"Welcome back to ""Pigskin Preview""."
+63610,256,2,86000,Ex-jock #2,Simpson Home,Denver - Green Bay. Who do you like?
+63611,256,3,87000,Ex-jock #1,Simpson Home,"That's football, right?"
+63613,256,5,91000,Ex-jock #1,Simpson Home,"Well, I'm gonna take the Broncos in this game. 'Cause the Packers will be blinded by Jerry's tie."
+63614,256,6,98000,Homer Simpson,Simpson Home,"Heh, heh, heh. Tremendous."
+63616,256,7,100000,Ex-jock #2,Simpson Home,I'm more worried about Al's jacket. How many stations can you get on that thing?
+63617,256,8,106000,Costume Supervisor,Simpson Home,"All right, Listen! I am sick of your jokes about the wardrobe. You people can dress yourselves!"
+63618,256,9,112000,Ex-jock #3,Simpson Home,"Well, folks, he's got a point. Uh, with all our unscripted horseplay, we sometimes don't think about..."
+63619,256,10,119000,Homer Simpson,Simpson Home,"Lenny, are you watching this?"
+63620,256,11,122000,Lenny Leonard,Simpson Home,"Yeah, they really hurt that guy's feelings."
+63621,256,12,124000,Homer Simpson,Simpson Home,I know!
+63622,256,13,125000,Marge Simpson,Simpson Home,"Ready for the circus, Homer?"
+63623,256,14,126000,Homer Simpson,Simpson Home,Circus?
+63624,256,15,128000,Lisa Simpson,Simpson Home,The Cirque de Purée. We've had tickets since Septembre.
+63625,256,16,131000,Homer Simpson,Simpson Home,But I wanna watch Bret Favre!
+63626,256,17,133000,Marge Simpson,Simpson Home,"Come on, Homer. They're only in town for eight months, then they're gone!"
+63628,256,19,140000,Homer Simpson,Simpson Home,I missed one of Jerry's zingers. Now I'll never catch up.
+63630,256,21,149000,Marge Simpson,Circus Tent,"Finally, a circus full of whimsy and wonder."
+63631,256,22,154000,Homer Simpson,Circus Tent,"Oh, yeah, that's way better than fun and excitement."
+63632,256,23,156000,Lisa Simpson,Circus Tent,"As French Canadians, they don't believe in refunds, or exploiting animals for entertainment."
+63633,256,24,162000,Homer Simpson,Circus Tent,I wanted to see 'em fire a gorilla out of a cannon.
+63634,256,25,166000,Usher,Circus Tent,Enjoy the show. For one day we shall die.
+63636,256,27,175000,Disheveled Clown,Circus Tent,Stop! Wait! Wait! Attendez!
+63637,256,28,179000,Disheveled Clown,Circus Tent,"I cannot get the lid off my jar of rainbows! Who will help me? You, sir."
+63638,256,29,186000,Man In Crowd,Circus Tent,"But I cannot help you. I am just a local merchant from, uh... this town."
+63639,256,30,192000,Homer Simpson,Circus Tent,Just smash it open!
+63640,256,31,195000,Disheveled Clown,Circus Tent,"Oh, you can do it if your heart is pure. Or Purée."
+63641,256,32,211000,Marge Simpson,Circus Tent,They always pick the guy with the wires.
+63642,256,33,217000,Marge Simpson,Circus Tent,Look at those exotic positions.
+63643,256,34,220000,Marge Simpson,Circus Tent,Watching those women is giving me ideas...
+63644,256,35,230000,Lisa Simpson,Circus Tent,They made an elephant!
+63645,256,36,233000,Marge Simpson,Circus Tent,"It's hauntingly beautiful, isn't it?"
+63381,256,38,244000,Sideshow Mel,Circus Tent,A storm is coming!
+63647,256,39,247000,Sideshow Mel,Circus Tent,I feel it in my bone!
+63648,256,40,249000,Ringmaster,Circus Tent,"Mesdames et messieurs, it appears the Cloud Goddess is ripe with rain babies. We must run for our trucks."
+63649,256,41,258000,Homer Simpson,Circus Tent,Oh no you don't! I paid full price for this freak show. Now nourish the child within me! Nourish...
+63651,256,43,270000,Ringmaster,Circus Tent,"Un, deux, trois!"
+63653,256,45,276000,RADIO WEATHER MAN,Simpson Car,"Well, we've got ourselves a classic nor'easter meetin' a classic so'wester. Overnight, expect rain turning to freezing rain turning to sleet turning to snow. And then melting in the summer."
+63654,256,46,287000,RADIO WEATHER MAN,Simpson Car,Snow! Maybe they'll cancel school.
+63655,256,47,289000,Lisa Simpson,Simpson Car,"Look, the Sea Captain's all hunkered down."
+63656,256,48,291000,Captain Horatio McCallister,Simpson Car,"Y'arr, help, I was tied here by teenage pirates!"
+63658,256,50,300000,Captain Horatio McCallister,Simpson Home,"The following schools are closed today: Shelbyville, Ogdenville, Ogdenville Tech, and Springfield Elementary..."
+63660,256,52,300000,Bart Simpson,Simpson Home,...My Dear Watson Detective School.
+63662,256,54,308000,Radio Announcer,Simpson Home,"And lastly, Springfield Elementary School..."
+63663,256,55,311000,Lisa Simpson,Simpson Home,Yay!
+63664,256,56,312000,Radio Announcer,Simpson Home,...is open.
+63666,256,58,315000,Radio Announcer,Simpson Home,And it's open season on savings at Springfield Menswear... which is closed.
+63667,256,59,319000,Bart Simpson,Simpson Home,"Oh, everyone's off but us."
+63668,256,60,320000,Marge Simpson,Simpson Home,"Oh, stop. Your father and I don't get the day off."
+63669,256,61,324000,Marge Simpson,Simpson Home,Lenny says we've got the day off! Yippee!
+63670,256,62,329000,Homer Simpson,Simpson Home,"One snow angel, comin' up."
+63671,256,63,334000,Homer Simpson,Simpson Home,"Ahh, why does that always happen?"
+63674,256,66,344000,Homer Simpson,School Bus,Man -- everyone has a snow day but us.
+63675,256,67,347000,APU+,School Bus,"Oh, they look wonderful."
+63676,256,68,355000,Chief Wiggum,School Bus,"Oh yeah, Clancy. Spell your name."
+63677,256,69,358000,Chief Wiggum,School Bus,"Hey Lou, could you shake out the last few drops for me?"
+63678,256,70,361000,Lou,School Bus,"Yeah, no problem, Chief."
+63679,256,71,364000,Lou,School Bus,"Seems like a waste of coffee, though."
+63681,256,73,368000,Lou,Springfield Elementary School,"Children, I'm proud of you. Most of our students didn't bother to show up on this last day before Christmas break. But you've kept intact my Cal Ripken-like streak of school openage."
+63682,256,74,377000,Milhouse Van Houten,Springfield Elementary School,"Hey, where are the teachers?"
+63683,256,75,379000,Seymour Skinner,Springfield Elementary School,"Their union has called an ""emergency caucus."""
+63685,256,77,382000,Teachers,SKI LODGE,"CAUCUS, CAUCUS, CAU-CUS / CAUCUS, CAUCUS, CAU-CUS."
+63687,256,79,386000,Seymour Skinner,Springfield Elementary School,"But we'll have the last laugh on those Johnny-Come-Not-lies. We're gonna watch my favorite movie, about a Grinchy little character who tries to ""steal"" Christmas."
+63688,256,80,395000,Seymour Skinner,Springfield Elementary School,"Ho, ho, ho!"
+63689,256,81,403000,Santa Claus,Springfield Elementary School,"What's that, Blitzen? Why yes, it is Christmas Eve!"
+63690,256,82,408000,Elf #1,Springfield Elementary School,I'm happy.
+63691,256,83,417000,Elf #1,Springfield Elementary School,It's the Christmas hobgoblins!
+63692,256,84,426000,Nelson Muntz,Springfield Elementary School,What the hell is this?
+63693,256,85,429000,Seymour Skinner,Springfield Elementary School,"It's classic mirth-making, is what it is."
+63694,256,86,434000,Hobgoblin,Springfield Elementary School,I WILL ALWAYS BE TRUE / SPEND MY DAYS PITCHING WOO TO YOUUUU...
+63695,256,87,443000,Milhouse Van Houten,Springfield Elementary School,He's been singing for two hours!
+63696,256,88,446000,Lisa Simpson,Springfield Elementary School,This couldn't have less to do with Christmas! And I think that's a stagehand.
+63697,256,89,451000,LITTLE BO PEEP,Springfield Elementary School,AND I LOVE YOUUU TOOO. / I AM YOU AND YOU ARE YOUUU / OH YOU AND ME / TOGETHER YOU CAN SEEE...
+63698,256,90,463000,Nelson Muntz,Springfield Elementary School,Haw haw. Next time get a DVD!
+63699,256,91,466000,Nelson Muntz,Springfield Elementary School,This is a DVD!
+63700,256,92,470000,Nelson Muntz,Springfield Elementary School,"Well, you won't get to see Santa's Big Sing-off, but seeing as we're close to the usual dismissal time... ... two, one."
+63701,256,93,478000,Seymour Skinner,Springfield Elementary School,"There it is. Take off, and have a frank and productive holiday."
+63703,256,95,485000,Kids,Springfield Elementary School,"Oh, dear God."
+63704,256,96,487000,Kids,Springfield Elementary School,Principal Skinner!
+63705,256,97,488000,Kids,Springfield Elementary School,We're snowed in.
+63706,256,98,492000,Nelson Muntz,Springfield Elementary School,We're trapped in the school!
+63708,256,100,495000,Milhouse Van Houten,Springfield Elementary School,We're gonna miss Christmas!
+63710,256,102,498000,Seymour Skinner,Springfield Elementary School,I fixed the DVD!
+63714,256,106,507000,Kids,Simpson Home,Roads closed. Pipes frozen. Albinos virtually invisible. The Weather Service has upgraded Springfield's blizzard from Winter Wonderland to a Class III Killstorm.
+63715,256,107,518000,Kids,Simpson Home,"I don't like the sound of that ""Class III."""
+63716,256,108,518000,Kent Brockman,Simpson Home,"And where are the city's snowplows? Sold off to billionaire Montgomery Burns, in a veritable orgasm of poor planning."
+63717,256,109,528000,C. Montgomery Burns,Simpson Home,"He shoots, he scores!"
+63718,256,110,529000,Waylon Smithers,Simpson Home,"Perfect form, sir."
+63719,256,111,531000,Marge Simpson,Simpson Home,This is terrible. How will the kids get home?
+63720,256,112,535000,Homer Simpson,Simpson Home,I 'unno... Internet?
+63722,256,114,538000,Seymour Skinner,Springfield Elementary School,"Children, it seems the phone lines are down. So I'm afraid we're stuck here for the duration."
+63724,256,116,544000,Kearney Zzyzwicz,Springfield Elementary School,But it's my kid's birthday.
+63725,256,117,547000,Martin Prince,Springfield Elementary School,"I'm doing a puzzle with Grandmama, and she'll finish without me."
+63726,256,118,550000,Seymour Skinner,Springfield Elementary School,"Yes, yes, yes. We all had plans. Except for me, ironically. I'm right where I want to be."
+63727,256,119,555000,Nelson Muntz,Springfield Elementary School,I can cut a trail through the snow. I'm part Eskimo.
+63728,256,120,558000,Seymour Skinner,Springfield Elementary School,I don't care if you're Kristi Yamaguchi. No one leaves the building.
+63729,256,121,561000,Bart Simpson,Springfield Elementary School,This stinks. We'll miss the Itchy and Scratchy where they finally kiss.
+63730,256,122,565000,Seymour Skinner,Springfield Elementary School,I don't care if they're kissing Kristi Yamaguchi. You're not going home.
+63731,256,123,569000,Kids,Springfield Elementary School,/ That's so unfair. / This blows. / Skinner's the real Grinch.
+63733,256,125,577000,Ned Flanders,Flanders's Car,"Well, I'm all for rescuing the kids, but I wish you hadn't sawed off my roof."
+63734,256,126,583000,Homer Simpson,Flanders's Car,"My car, your roof. It's only fair."
+63735,256,127,585000,Ned Flanders,Flanders's Car,But it's my car.
+63736,256,128,587000,Homer Simpson,Flanders's Car,"Well, yeah."
+63737,256,129,588000,Ned Flanders,Flanders's Car,"Hey, whatever happened to the plow from your old snowplow business?"
+63738,256,130,591000,Ned Flanders,Flanders's Car,I never had a snowplow business.
+63740,256,131,593000,Ned Flanders,Flanders's Car,"Sure you did -- ""Mr. Plow."" You're wearin' the jacket right now!"
+63741,256,132,598000,Homer Simpson,Flanders's Car,"I think I know my own life, Ned."
+63742,256,133,600000,Homer Simpson,Flanders's Car,CALL MR. PLOW / THAT'S MY NAME / THAT NAME AGAIN IS / MR. PLOW.
+63744,256,135,606000,Üter,Springfield Elementary School,I'm so hungry. I want more.
+63745,256,136,609000,Groundskeeper Willie,Springfield Elementary School,You heard the principal. Everyone gets one apple and a handful of relish.
+63746,256,137,617000,Seymour Skinner,Springfield Elementary School,"If you don't eat your relish, you're not getting any mayonnaise."
+63747,256,138,620000,Nelson Muntz,Springfield Elementary School,"Screw this. The rest of you can stay here like dorks, but I'm goin' home."
+63749,256,140,629000,Kids,Springfield Elementary School,Go Nelson!
+63750,256,141,635000,Seymour Skinner,Springfield Elementary School,"Well, I hope you've all learned something from Nelson's headstrongedness. Now from now on..."
+63751,256,142,641000,Kids,Springfield Elementary School,We want out! We want out! We want out! We want out!
+63752,256,143,647000,Seymour Skinner,Springfield Elementary School,"It's getting ugly out there. Think, Skinner, think. What would Superintendent Chalmers do?"
+63753,256,144,655000,Gary Chalmers,Springfield Elementary School,Skin-ner!
+63754,256,145,657000,Seymour Skinner,Springfield Elementary School,"Eh, that's no help."
+63755,256,146,659000,Seymour Skinner,Springfield Elementary School,"Ah, my old footlocker."
+63756,256,147,662000,Seymour Skinner,Springfield Elementary School,"Hah, back in 'Nam I could command respect."
+63757,256,148,667000,G.I. #1,Springfield Elementary School,"Sarge. Let's make a break for it, while the guards are partying with Jane Fonda."
+63758,256,149,671000,Young Skinner,Springfield Elementary School,Nope. Too dangerous. We're all gonna sit tight and reminisce about candy bars.
+63759,256,150,675000,G.I. #2,Springfield Elementary School,"Uhh, well, uhh, one time I'm eatin' a candy bar at the beach, and a girl starts takin' off her bathing suit..."
+63760,256,151,681000,Young Skinner,Springfield Elementary School,Get back to the candy bar.
+63761,256,152,682000,G.I. #1,Springfield Elementary School,The hell with this. I'm gettin' outta here.
+63762,256,153,685000,Young Skinner,Springfield Elementary School,No! You fool!
+63764,256,155,685000,Seymour Skinner,Springfield Elementary School,"That elephant ate my entire platoon. Well, I'm not gonna let it happen again."
+63765,256,156,701000,Seymour Skinner,Springfield Elementary School,Children! Stand down!
+63766,256,157,704000,Seymour Skinner,Springfield Elementary School,I said stand down!
+63767,256,158,708000,Seymour Skinner,Springfield Elementary School,"I'm not joking, people! From now on there will be no talking out of turn, or leaving this room. Willie?"
+63768,256,159,712000,Groundskeeper Willie,Springfield Elementary School,"Aye, sir."
+63739,256,160,716000,Nelson Muntz,Springfield Elementary School,This sucks.
+63769,256,161,716000,Seymour Skinner,Springfield Elementary School,Are you questioning my authority? Willie?
+63770,256,162,721000,Nelson Muntz,Springfield Elementary School,Ow! My vest!
+63771,256,163,723000,Nelson Muntz,Springfield Elementary School,"Well, don't just stand there, fight back! There aren't enough coat hooks to hold all of us!"
+63772,256,164,727000,Seymour Skinner,Springfield Elementary School,"Actually, there are. Five, ten, fifteen, twenty... Uh, can you two share a hook?"
+63773,256,165,731000,Terri Mackleberry,Springfield Elementary School,"Yes, sir."
+63774,256,166,732000,Seymour Skinner,Springfield Elementary School,"We're fine, then."
+63776,256,168,737000,Seymour Skinner,Flanders's Car,Oh! I think we hit something.
+63777,256,169,739000,Homer Simpson,Flanders's Car,"I hope it's Flanders. I'm just kidding. Hey, you're all right."
+63779,256,171,750000,Seymour Skinner,Springfield Elementary School,"Uh, now children, if you have to answer nature's call during the night, use this bucket next to Bart's head."
+63780,256,172,755000,Bart Simpson,Springfield Elementary School,Hey!
+63781,256,173,756000,Seymour Skinner,Springfield Elementary School,"All right, lights out."
+63782,256,174,759000,Bart Simpson,Springfield Elementary School,I'm tired of taking orders from G.I. Jerk. I'm gonna tunnel outta here.
+63783,256,175,762000,Lisa Simpson,Springfield Elementary School,"No, Bart. For all we know, hundreds of rescue workers are digging us out right now."
+63787,256,179,778000,Homer Simpson,FLANDERS CAR,... I FEEL LIKE MAKIN' LOVE / MAKIN' LOVE TO YOU! / DO DO DOOO / DO DO DOOO.
+63788,256,180,785000,Ned Flanders,FLANDERS CAR,"Catchy song, all right. You really wrote it?"
+63789,256,181,788000,Homer Simpson,FLANDERS CAR,"Yeah, as a tribute to Princess Di. And Dodi. Because these days, princesses..."
+63790,256,182,792000,Ned Flanders,FLANDERS CAR,We're trapped!
+63792,256,184,807000,Ralph Wiggum,Springfield Elementary School,Mr. Army man? I can't sleep without my Reggie Rabbit.
+63793,256,185,810000,Seymour Skinner,Springfield Elementary School,Is that some sort of plush novelty?
+63794,256,186,812000,Ralph Wiggum,Springfield Elementary School,"Yes, ma'am."
+63795,256,187,813000,Seymour Skinner,Springfield Elementary School,"Uh, well, here's a scouring pad. It's just as good."
+63796,256,188,816000,Ralph Wiggum,Springfield Elementary School,It's cold and hurty.
+63797,256,189,820000,Seymour Skinner,Springfield Elementary School,What the...?
+63798,256,190,820000,Seymour Skinner,Springfield Elementary School,A tunnel?!
+63799,256,191,828000,Milhouse Van Houten,Springfield Elementary School,Bart's digging us out!
+63800,256,192,830000,Seymour Skinner,Springfield Elementary School,"Not on my watch, he's not."
+63801,256,194,834000,Seymour Skinner,Springfield Elementary School,"I know it looks like the path to freedom, but one collapse and presto, you've got a snow casket."
+63802,256,195,839000,Bart Simpson,Springfield Elementary School,I was gonna put buttresses in.
+63803,256,196,841000,Seymour Skinner,Springfield Elementary School,"Gonna, wounna, shounna. Willie? Destroy it."
+63804,256,197,844000,Kids,Springfield Elementary School,What? / No! / You can't. /
+63805,256,198,847000,Groundskeeper Willie,Springfield Elementary School,"He did do a bonny job, sir."
+63806,256,199,850000,Seymour Skinner,Springfield Elementary School,"Defying orders, eh? Well, I see you Scotsmen are thrifty with courage, too."
+63807,256,200,855000,Groundskeeper Willie,Springfield Elementary School,"Okay, Skinner. That's the last time you'll slap yer Willie around. I quit."
+63808,256,201,862000,Seymour Skinner,Springfield Elementary School,Fine. I'll do the job myself.
+63809,256,202,866000,Seymour Skinner,Springfield Elementary School,"Help, it's caving in!"
+63810,256,203,871000,Bart Simpson,Springfield Elementary School,"What's the problem, Seymour? Stuck?"
+63811,256,204,873000,Seymour Skinner,Springfield Elementary School,That's precisely the problem and you know it. Now get me out of here!
+63812,256,205,877000,Bart Simpson,Springfield Elementary School,What's that? You want the pee bucket on your head?
+63813,256,206,881000,Seymour Skinner,Springfield Elementary School,No! You're twisting my words!
+63815,256,208,885000,Bart Simpson,Springfield Elementary School,"C'mon, we're takin' over the school!"
+63816,256,209,892000,Bart Simpson,Springfield Elementary School,That's it. Cinch it up around the neck.
+63817,256,210,897000,Seymour Skinner,Springfield Elementary School,This is a gross misuse of school property. Where are the dodge balls?
+63818,256,211,904000,Seymour Skinner,Springfield Elementary School,"All right, that's it! I'm writing all your names on the detention list in my mind."
+63819,256,212,909000,Bart Simpson,Springfield Elementary School,"Silence, Seymour. We're in charge now. Your reign of fussiness is over."
+63820,256,213,914000,Bart Simpson,Springfield Elementary School,"Attention, the school is now under kid control. You are hereby ordered to go nuts!"
+63822,256,215,939000,Bart Simpson,Flanders's Car,Stupid ice. I always knew I would die caked in something.
+63823,256,216,944000,Bart Simpson,Flanders's Car,"Well, better turn off that engine. Before those fumes put us in tombs."
+63824,256,217,947000,Homer Simpson,Flanders's Car,"Wait, let's just leave it on till we forget our troubles."
+63825,256,218,952000,Ned Flanders,Flanders's Car,"Hm, sounds like a plan."
+63827,256,220,956000,Seymour Skinner,Springfield Elementary School,I can't write this. It's a grammatical nightmare.
+63828,256,221,960000,Bart Simpson,Springfield Elementary School,Mau! Didi mau!
+63829,256,222,961000,Bart Simpson,Springfield Elementary School,I'm getting a cramp in my wrist!
+63830,256,223,963000,Bart Simpson,Springfield Elementary School,"Oh, boo hoo. After all the times I've done it, my wrist sounds like a cement mixer."
+63831,256,224,974000,Bart Simpson,Springfield Elementary School,"Come on, Seymour! Mau! Didi mau!"
+63832,256,225,977000,Bart Simpson,Springfield Elementary School,"Ow! I told you, no one can climb a rope. It's physically impossible!"
+63833,256,226,981000,Bart Simpson,Springfield Elementary School,"What part of ""didi mau"" don't you understand?"
+63835,256,228,985000,Seymour Skinner,Skinner's Office,"Nelson, put that globe down! Milhouse, stay out of my desk! Jimbo, that's my Princi Award!"
+63836,256,229,991000,Bart Simpson,Skinner's Office,"Quiet, Principal Spinner."
+63838,256,231,995000,Milhouse Van Houten,Skinner's Office,"Hey, I got Skinner's key card. We can finally see our permanent records!"
+63839,256,232,1005000,Seymour Skinner,Skinner's Office,No! You can't go in there!
+63841,256,234,1005000,Bart Simpson,VAULT,"""Underachiever and proud of it?"" How old is this thing?"
+63842,256,235,1009000,Lisa Simpson,VAULT,"""Lisa is an outstanding student, with a slight tendency toward know-it-all-ism."" That's not even a word!"
+63843,256,236,1017000,Milhouse Van Houten,VAULT,Then we'll get rid of the record. Permanently!
+63844,256,237,1026000,Nelson Muntz,VAULT,"Hey, look how much Skinner makes. Twenty-five thousand dollars a year!"
+63846,256,239,1032000,Bart Simpson,VAULT,"Let's see, he's forty years old, times twenty-five grand... Whoaa, he's a millionaire!"
+63848,256,241,1040000,Seymour Skinner,VAULT,I wasn't a principal when I was one.
+63849,256,242,1042000,Nelson Muntz,VAULT,"Plus, in the summer, he paints houses!"
+63850,256,243,1044000,Milhouse Van Houten,VAULT,He's a billionaire!
+63853,256,246,1048000,Seymour Skinner,PRINCIPAL'S OFFICE,"If I were a billionaire, why would I be living with my mother?"
+63855,256,248,1052000,Seymour Skinner,PRINCIPAL'S OFFICE,They're just not responding to logic anymore. I'll never win this alone. There's only one guy who can help me now.
+63856,256,249,1063000,Bart Simpson,PRINCIPAL'S OFFICE,"Look, I'm throwing papers."
+63858,256,251,1073000,Seymour Skinner,Springfield Elementary School,"You're my only hope, Nibbles."
+63859,256,252,1083000,Seymour Skinner,Springfield Elementary School,"Godspeed, Nibbles. Godspeed."
+63860,256,253,1087000,Seymour Skinner,Springfield Elementary School,Nuts.
+63861,256,254,1090000,Nelson Muntz,Springfield Elementary School,There you are! Falcon to Eagle. Have located Bag of Crap.
+63862,256,255,1094000,Seymour Skinner,Springfield Elementary School,"Nelson, if you get me outta this, there's a hall monitor position coming open in the spring..."
+63863,256,256,1098000,Nelson Muntz,Springfield Elementary School,I spit on your monitors.
+63864,256,257,1100000,Seymour Skinner,Springfield Elementary School,I know. That's why the position's available.
+63866,256,259,1108000,Homer Simpson,Springfield Street,Marvelous! Marvelous! Enough! I grow weary of your sexually suggestive dancing.
+63867,256,260,1115000,Homer Simpson,Springfield Street,Bring me my ranch-dressing hose.
+63868,256,261,1125000,Camel,Springfield Street,Homer? Homer!
+63869,256,262,1127000,Ned Flanders,Springfield Street,Homer! Wake up! The car's filling with...
+63870,256,263,1130000,Homer Simpson,Springfield Street,"I know, ranch dressing."
+63871,256,264,1133000,Homer Simpson,Springfield Street,A hamster ball!
+63872,256,265,1136000,Ned Flanders,Springfield Street,Just like the one that saved Ezekiel!
+63873,256,266,1140000,Homer Simpson,Springfield Street,We're free! And we've got something to eat.
+63874,256,267,1150000,Homer Simpson,Springfield Street,Woo hoo!
+63875,256,268,1151000,Ned Flanders,Springfield Street,Now let's go save those kids.
+63876,256,269,1153000,Homer Simpson,Springfield Street,You're the camel.
+63877,256,270,1154000,Homer Simpson,Springfield Street,"Hey, this car's got cruise control."
+63878,256,271,1156000,Homer Simpson,Springfield Street,"School, please."
+63879,256,272,1160000,Ned Flanders,Springfield Street,"Homer, that's not how it..."
+63882,256,275,1160000,Security Guard,Cracker Factory,It's happening! My horoscope was right!
+63884,256,277,1172000,Security Guard,Springfield Elementary School,"So long, ""Johnny Tremain""! Your Newbery Award won't save you now."
+63885,256,278,1177000,Seymour Skinner,Springfield Elementary School,"Not ""Huck Finn""! I spent hours crossing out the sassback!"
+63887,256,280,1180000,Ned Flanders,Flanders's Car,We're gonna crash!
+63888,256,281,1182000,Homer Simpson,Flanders's Car,Do you have airbags?
+63889,256,282,1183000,Ned Flanders,Flanders's Car,No. The church opposes them for some reason.
+63891,256,284,1198000,Nelson Muntz,Springfield Elementary School Library,What was that?!
+63892,256,285,1199000,Lisa Simpson,Springfield Elementary School Library,It sounded like a silo tipping over!
+63894,256,287,1205000,Bart Simpson,Springfield Elementary School,"Look, the snow's melting!"
+63895,256,288,1208000,Martin Prince,Springfield Elementary School,"With a little help from our friend, sodium chloride."
+63896,256,289,1221000,Martin Prince,Springfield Elementary School,Dad!
+63898,256,290,1229000,Seymour Skinner,Springfield Elementary School,"You did it, Nibbles. Now chew through my ball sack."
+63899,256,291,1235000,Gary Chalmers,Springfield Elementary School,Skin-ner!
+63900,256,292,1236000,Seymour Skinner,Springfield Elementary School,Superintendent Chalmers!
+63901,256,293,1238000,Gary Chalmers,Springfield Elementary School,"What are you doing in that ridiculous duffel, Seymour? And is that burning literature I smell?"
+63902,256,294,1244000,Seymour Skinner,Springfield Elementary School,"Uh, well sir, I uh..."
+63903,256,295,1247000,Gary Chalmers,Springfield Elementary School,There'd better be a good explanation for this.
+63904,256,296,1250000,Gary Chalmers,Springfield Elementary School,"There is, sir..."
+63905,256,297,1251000,Gary Chalmers,Springfield Elementary School,"Ah, then I'm happy."
+63906,256,298,1255000,Seymour Skinner,Springfield Elementary School,"Bart, if there's one thing I'm good at, it's pretending things didn't happen. And I think this is one of those."
+63907,256,299,1262000,Bart Simpson,Springfield Elementary School,One of which?
+63908,256,300,1263000,Seymour Skinner,Springfield Elementary School,Exactly.
+63909,256,301,1264000,Bart Simpson,Springfield Elementary School,"No, seriously, I wasn't listening."
+63910,256,302,1267000,Seymour Skinner,Springfield Elementary School,One of those situations where...
+63911,256,303,1269000,Bart Simpson,Springfield Elementary School,Gotcha!
+63912,256,304,1272000,Homer Simpson,Springfield Elementary School,"C'mon, kids. Let's leave this awful place and never come back."
+63914,256,306,1279000,Bart Simpson,Flanders's Car,"Boy, that salt really ate through the car."
+63916,256,308,1282000,Lisa Simpson,Car,And the exhaust pipe is leaking.
+63917,256,309,1284000,Homer Simpson,Car,Whuh?
+63918,256,310,1285000,Camel Lisa,Car,"And furthermore,"
+63919,256,311,1290000,Harem Girl Bart,Car,"Ignore her, Effendi. We have each other."
+63920,256,312,1292000,Homer Simpson,Car,"Oh, baby!"
+63922,256,314,1296000,Homer Simpson,Car,No use struggling my beloved Chalamela.
+63923,256,315,1298000,Camel Lisa,Car,Merry Christmas from the Simpsons!

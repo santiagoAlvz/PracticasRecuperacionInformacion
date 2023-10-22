@@ -1,0 +1,258 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+113834,439,1,28000,Science Water Promoter,Kwik-E-Mart,Care to try our new Science Water?
+113835,439,2,30000,Marge Simpson,Kwik-E-Mart,Ooh. The label is all in lowercase.
+113836,439,3,35000,Marge Simpson,Kwik-E-Mart,It's like drinking e. e. cummings!
+113837,439,4,38000,Science Water Promoter,Kwik-E-Mart,And each of our flavors is named after a real word!
+113838,439,5,41000,Science Water Promoter,Kwik-E-Mart,Nourish... Vitality... Purple... Potato-Lime... I Love The Nineties... New Car Smell...
+113839,439,6,51000,Marge Simpson,Kwik-E-Mart,"Excuse me, I'm feeling a little... over-hydrated."
+113840,439,7,55000,Science Water Promoter,Kwik-E-Mart,"That's normal -- it just means your bladder's full of science. Now if you'll excuse me, our company just went bankrupt."
+113842,439,9,71000,Marge Simpson,Springfield Streets,Gotta find a place to tinkle.
+113843,439,10,73000,Sailor,Springfield Streets,Language!
+113845,439,12,78000,Marge Simpson,Springfield Elementary School,"Schools have bathrooms! And I'm a woman, so my going in unattended won't cause a panic."
+113847,439,14,86000,JANEY,Springfield Elementary School,"Hey, Mrs. Simpson."
+113848,439,15,87000,Marge Simpson,Springfield Elementary School,Janey.
+113850,439,17,90000,Marge Simpson,Springfield Elementary School,Ooh! That's Bart's class.
+113851,439,18,94000,Bart Simpson,Springfield Elementary School,Lousy teachers.
+113852,439,19,98000,Edna Krabappel-Flanders,Springfield Elementary School,Lousy hangover.
+113853,439,20,100000,Marge Simpson,Springfield Elementary School,This school has really gone downhill.
+113854,439,21,105000,Marge Simpson,Springfield Elementary School,That's an awfully crowded classroom.
+113855,439,22,113000,Miss Hoover,Springfield Elementary School,"Three... two... one... Okay children, I've just been granted tenure, so I'm gonna sit back and let Ralph teach for a while."
+113856,439,23,125000,Ralph Wiggum,Springfield Elementary School,"Class, in what year was one plus one?"
+113857,439,24,130000,Ralph Wiggum,Springfield Elementary School,"The answer is: ""The Amazing Ralph""!"
+113858,439,26,133000,Marge Simpson,Springfield Elementary School,The only person getting an education here today was me! In how bad it is!
+113859,439,27,139000,Seymour Skinner,Springfield Elementary School,"Mrs. Simpson, let me pour you a drink."
+113860,439,28,141000,Seymour Skinner,Springfield Elementary School,Scotch? Vodka? Gin? I've got everything you want.
+113861,439,29,144000,Marge Simpson,Springfield Elementary School,I want my kids in a decent school!
+113862,439,30,147000,Seymour Skinner,Springfield Elementary School,"Hey, I want the ""check engine"" light on my dashboard to shut off, but that ain't gonna happen."
+113863,439,31,152000,Seymour Skinner,Springfield Elementary School,Ahhh.
+113865,439,33,154000,Marge Simpson,Simpson Home,...And because of cutbacks they were combining math with P.E. They were playing dodge book!
+113866,439,34,159000,Lisa Simpson,Simpson Home,"Look at this: Springfield Elementary's rating is so low, it's more than two standard deviations below the norm."
+113867,439,35,166000,Homer Simpson,Simpson Home,"I can't understand that math reference, because I went to Springfield Elementary!"
+113868,439,36,170000,Milhouse Van Houten,Simpson Home,My cousin goes to a much better school. He lives in Waverly Hills.
+113869,439,37,175000,Lisa Simpson,Simpson Home,"Oh, their school system's the best. Their auditorium and their gym are two different rooms!"
+113871,439,39,181000,Homer Simpson,Simpson Home,"We can't afford to move to Waverly Hills! Their house prices have commas in them. As it is, our lawn is just green-painted cement."
+113873,439,41,192000,Lisa Simpson,Simpson Home,"I just wish I could go to a school like that -- even for one week. ""Tis better to have learned and lost then never to have learned at all."""
+113874,439,42,195000,Marge Simpson,Simpson Home,"What if we got a small apartment there? We wouldn't have to live in it, but we would have a Waverly Hills address."
+113875,439,43,206000,Lisa Simpson,Simpson Home,"Mom, that's brilliant! We could go to a school where special doesn't always mean bad! And where the teachers don't have to moonlight as telemarketers."
+113877,439,45,214000,Edna Krabappel-Flanders,Teachers' Lounge,"As you know, the music of Air Supply is timeless. And now their fifty biggest hits are on four CDs..."
+113878,439,46,220000,Bart Simpson,Teachers' Lounge,"Wait, wait, wait. You're putting us in a new school?! What about my friends?"
+113879,439,47,224000,Homer Simpson,Teachers' Lounge,"Oh, elementary school friends -- those are forever! You're always gonna be friends with Milhouse. STAND BY ME / OH, STAND BY ME..."
+113880,439,48,236000,Milhouse Van Houten,Teachers' Lounge,"OH, STAND NOW / STAND BY ME / STAND BY MEEEE..."
+113882,439,50,243000,Homer Simpson,Red Blazer Real Estate Office,"I need to rent an apartment in the worst part of Waverly Hills -- the crappier, the better."
+113883,439,51,247000,Cookie Kwan,Red Blazer Real Estate Office,"Ah, so cheap, eh?"
+113884,439,52,248000,Homer Simpson,Red Blazer Real Estate Office,"""Ahso sheepay"" to you."
+113886,439,54,254000,Homer Simpson,Waverly Hills Apartments,I can't afford this place -- it's way too fancy.
+113887,439,55,257000,Homer Simpson,Waverly Hills Apartments,Sometimes there's not a train going by.
+113888,439,56,261000,Homer Simpson,Waverly Hills Apartments,Four walls? I was thinking more of something in a two or three.
+113891,439,59,270000,Cookie Kwan,Small Apartment,"No windows, no parking, and a man died here."
+148629,439,60,273000,Homer's Thoughts,Small Apartment,"Play it cool, Homer. Don't let her know it's perfect."
+113892,439,61,276000,Homer Simpson,Small Apartment,"Yeah, um, well, I'm looking at a lot of murder sites right now. Where's the bedroom?"
+113893,439,62,283000,Cookie Kwan,Small Apartment,Right here.
+113894,439,63,285000,Homer Simpson,Small Apartment,Tempting. Tempting. Where's the bathroom?
+113895,439,64,288000,Cookie Kwan,Small Apartment,In the Ethiopian Restaurant at the end of the block.
+113896,439,65,291000,Homer Simpson,Small Apartment,I'll take it!
+113898,439,67,296000,Homer Simpson,Waverly Hills,WAVERLY HILLS / THAT'S WHERE I WANT TO BE / SQUATTING IN WAVERLY HILLS. / WAVERLY HILLS / GET EDUCATION FRAUDULENTLY / MOOCHIN' OFF WAVERLY HILLS.
+113899,439,68,321000,Krusty the Clown,Waverly Hills,Meh.
+113901,439,70,321000,City Clerk,Waverly Hills City Hall,"Well, welcome to Waverly Hills. Your children can start school immediately."
+113902,439,71,323000,Marge Simpson,Waverly Hills City Hall,Thank you!
+113903,439,72,326000,City Clerk,Waverly Hills City Hall,Now you'll be getting a random visit from the inspector sometime this month.
+113904,439,73,330000,Marge Simpson,Waverly Hills City Hall,The what?
+113905,439,74,332000,City Clerk,Waverly Hills City Hall,It's just a formality to make sure you actually live here. Some people use the address just so their kids can go to our schools.
+113906,439,75,338000,Homer Simpson,Waverly Hills City Hall,Ha! I can see them now with their bald heads and their blue-haired wives. How I despise them.
+113907,439,76,344000,City Clerk,Waverly Hills City Hall,"Uh yeah, well here's our inspector now."
+113908,439,77,350000,City Inspector,Waverly Hills City Hall,"Call it, friendo."
+113909,439,78,353000,Homer Simpson,Waverly Hills City Hall,"Heads. I mean, tails. I mean, on its side."
+113911,439,79,358000,City Inspector,Waverly Hills City Hall,"Well done. Now, let me validate your parking."
+113912,439,80,365000,Homer Simpson,Waverly Hills City Hall,That's not enough.
+113913,439,81,366000,Homer Simpson,Waverly Hills City Hall,Thank you.
+113916,439,84,373000,Homer Simpson,Homer's Waverly Hills Apt. Bldg.,"Goodnight, Marge."
+113917,439,85,375000,Marge Simpson,Homer's Waverly Hills Apt. Bldg.,It's so kind of you to live there so our kids can go to a better school.
+113918,439,86,379000,Homer Simpson,Homer's Waverly Hills Apt. Bldg.,When do I get to move back home?
+113919,439,87,381000,Marge Simpson,Homer's Waverly Hills Apt. Bldg.,You just have to stay there until that psychopathic school inspector makes a surprise visit. You can come home when the heat's off.
+113920,439,88,389000,Homer Simpson,Homer's Waverly Hills Apt. Bldg.,The heat is off. The hissing from the radiator is a snake.
+113921,439,89,393000,Marge Simpson,Homer's Waverly Hills Apt. Bldg.,Please just stay there till Bart graduates high school.
+113922,439,90,397000,Homer Simpson,Homer's Waverly Hills Apt. Bldg.,That's another twenty or thirty years.
+113924,439,92,408000,Homer Simpson,Homer's Waverly Hills Apt. Bldg.,Where am I?
+113926,439,94,413000,Marge Simpson,Simpson Car,"Wow, your first day at the new school! Lisa, have fun! Bart, don't!"
+113928,439,96,423000,Lisa Simpson,Waverly Hills Elementary School,Look at this place. It's everything I've ever dreamed of: On-campus stables!
+113929,439,97,432000,Lisa Simpson,Waverly Hills Elementary School,Field trips to Europe!
+113930,439,98,436000,Bart Simpson,Waverly Hills Elementary School,"Oh my God, look what they serve in the cafeteria!"
+113931,439,99,441000,Dr. Bettelheim,Waverly Hills Elementary School,"Welcome! I'm your new principal, Dr. Bettelheim."
+113932,439,100,445000,Lisa Simpson,Waverly Hills Elementary School,"Ooh, a doctorate!"
+113933,439,101,447000,Seymour Skinner,Waverly Hills Elementary School,Wait! Don't matriculate those students!
+113934,439,102,449000,Lisa Simpson,Waverly Hills Elementary School,Principal Skinner?
+113935,439,103,450000,Seymour Skinner,Waverly Hills Elementary School,We need Lisa Simpson at Springfield Elementary. She's our top student and she writes the fun facts in the morning announcements!
+113936,439,104,456000,Gary Chalmers,Waverly Hills Elementary School,Skin-ner! Bettelheim.
+113937,439,105,460000,Seymour Skinner,Waverly Hills Elementary School,Superintendent Chalmers?! What are you doing at... another school?!
+113938,439,106,463000,Gary Chalmers,Waverly Hills Elementary School,"Seymour, as superintendent I supervise every school in the district."
+113939,439,107,468000,Seymour Skinner,Waverly Hills Elementary School,So... you're over-seeing other people?
+113940,439,108,472000,Gary Chalmers,Waverly Hills Elementary School,I'm sorry if you misunderstood our arrangement.
+113941,439,109,475000,Seymour Skinner,Waverly Hills Elementary School,What am I supposed to tell our children?
+113942,439,110,477000,Gary Chalmers,Waverly Hills Elementary School,They already know. And they're happy for me.
+113944,439,112,486000,Geoff,Homer's Apartment,"Hey, neighbor. Welcome to the jungle. Also known as Royal Waverly Apartments."
+113945,439,113,491000,Donald,Homer's Apartment,Brought you a housewarming present.
+113946,439,114,495000,Homer Simpson,Homer's Apartment,That was great. You mind if I use that at work?
+113947,439,115,498000,Donald,Homer's Apartment,"It's yours, my friend."
+113948,439,116,500000,Geoff,Homer's Apartment,"Hey, are you into poker?"
+113949,439,117,501000,Homer Simpson,Homer's Apartment,"Well, I love to play, but I'm not very good. Also, I always forget to cash my chips back in for money."
+113950,439,118,506000,Geoff,Homer's Apartment,This man-crush just got bro-mantic!
+113951,439,119,510000,Homer Simpson,Homer's Apartment,You make words into dudes.
+113952,439,120,512000,Donald,Homer's Apartment,Guy-five!
+113954,439,122,518000,Caitlin,Waverly Hills Elementary School,"Hi, newbie! I'm Caitlin with a C, this is Katelyn with a K, and this is Kate Lynn two words."
+113955,439,123,524000,Lisa Simpson,Waverly Hills Elementary School,I'm Lisa. One word.
+113956,439,124,526000,Katelyn,Waverly Hills Elementary School,"So Lisa, what's your favorite Alaska Nebraska song? Mine's ""Touch A Star""."
+113957,439,125,531000,Kate Lynn,Waverly Hills Elementary School,"Mine's ""Make It Yours: The Star Song""."
+113958,439,126,533000,Lisa Simpson,Waverly Hills Elementary School,"Uh, who's Alaska Nebraska?"
+113959,439,127,535000,Caitlin,Waverly Hills Elementary School,Who's Alaska Nebraska?
+113960,439,128,535000,Katelyn,Waverly Hills Elementary School,Only the greatest sixteen-year-old singer-slash-actress in the world!
+113961,439,129,542000,Kate Lynn,Waverly Hills Elementary School,Do you even know how lame you are?
+113962,439,130,544000,Lisa Simpson,Waverly Hills Elementary School,"I should warn you: by using the term ""lame,"" you're violating the Americans With Disabilities Act."
+113963,439,131,549000,Caitlin,Waverly Hills Elementary School,Ew! That makes you even lamer!
+113965,439,133,558000,Lisa Simpson,Springfield Elementary School,B plus?!
+113966,439,134,560000,Teacher,Springfield Elementary School,Nice work.
+113967,439,135,561000,Lisa Simpson,Springfield Elementary School,"But I always get A's. At my old school, I got so many A's, the teachers didn't even check my work."
+113968,439,136,568000,Teacher,Springfield Elementary School,Maybe that's why you got so many A's.
+148722,439,137,569000,Lisa's Thoughts,Springfield Elementary School,"Oh my God, you've been challenged! Well Lisa, let's see how you respond."
+113970,439,139,583000,Lisa Simpson,Springfield Elementary School,"Bart, at this school, I'm not a brain, I'm not popular, I'm not anything!"
+113972,439,140,587000,Bart Simpson,Springfield Elementary School,"Not to worry, at this school, we've got a clean slate. In fact, I'm establishing my cred right now."
+113973,439,141,594000,Chief Wiggum,Springfield Elementary School,"Gotcha! Take this as a warning, kids. Bart Simpson is the ultimate bad boy. Befriend him and you'll wind up just like him -- a rebel who does what he wants, when he wants. Wow. Come on, tough guy -- let's go."
+113974,439,142,612000,Girl In Background,Springfield Elementary School,He's so bad!
+113977,439,145,620000,Chief Wiggum,Police Car,"Okay, I held up my side of the bargain. Now you have to go to Ralphie's birthday party."
+113978,439,146,625000,Bart Simpson,Police Car,A deal's a deal.
+113979,439,147,626000,Chief Wiggum,Police Car,And you'll stay till we cut the cake.
+113980,439,148,628000,Bart Simpson,Police Car,"Fine. I want one gift bag now, and one when the party's over."
+113981,439,149,632000,Chief Wiggum,Police Car,Fine. You got it.
+113982,439,150,636000,Johnny Tightlips,Police Car,You wanted a pow-wow Chief?
+113983,439,151,638000,Chief Wiggum,Police Car,"I know you've been dealin' drugs at the high school. But, I'll look the other way if you come to Ralphie's party."
+113984,439,152,645000,Louie,Police Car,I ain't gonna pin no tail on no donkey.
+113985,439,153,647000,Chief Wiggum,Police Car,"Look, just come to the party. It's gonna be fun. Batman's gonna be there."
+113986,439,154,651000,Louie,Police Car,Ba-ba-ba-Batman!?
+113987,439,155,653000,Johnny Tightlips,Police Car,I ain't messin' with no Caped Crusader!
+113990,439,158,661000,Kids,Waverly Hills Elementary School,I wonder what he did!
+113991,439,159,664000,Girl In Riding Boots,Waverly Hills Elementary School,I heard he burned down his old school!
+113992,439,160,665000,Boy,Waverly Hills Elementary School,I heard he killed a groundskeeper!
+113993,439,161,667000,British Groundskeeper,Waverly Hills Elementary School,Oh my! That's a bit rough.
+113994,439,162,674000,Bart Simpson,Waverly Hills Elementary School,"Now to turn my sis from ""loser"" to ""schmoozer."""
+113996,439,164,681000,Bart Simpson,Waverly Hills Elementary School,"Que pasa, ladies?"
+113997,439,165,684000,Caitlin,Waverly Hills Elementary School,You're that bad boy.
+113998,439,166,685000,Katelyn,Waverly Hills Elementary School,"What do you want from us, bad boy?"
+113999,439,167,687000,Bart Simpson,Waverly Hills Elementary School,"Don't tell anyone, but my sister Lisa is best friends with Alaska Nebraska."
+114000,439,168,692000,Girls,Waverly Hills Elementary School,Get out of here! / No way! / You so lie!
+114001,439,169,695000,Caitlin,Waverly Hills Elementary School,She didn't even know who Alaska Nebraska was.
+114004,439,170,697000,Bart Simpson,Waverly Hills Elementary School,Duh. She said that because she respects Alaska's privacy. Just as I have no doubt you guys will respect Lisa's privacy.
+114007,439,173,714000,Technician,PHONE COMPANY CONTROL ROOM,"We're approaching bandwidth overload, Sir. It's gossip at Waverly Elementary."
+114008,439,174,719000,Supervisor,PHONE COMPANY CONTROL ROOM,How juicy is it?
+114009,439,175,720000,Technician,PHONE COMPANY CONTROL ROOM,The juiciest!
+114011,439,177,724000,Caitlin,Waverly Hills Elementary School,"Hi, Lisa!"
+114012,439,178,726000,Lisa Simpson,Waverly Hills Elementary School,"Hi, Caitlin."
+114013,439,179,726000,Katelyn,Waverly Hills Elementary School,She knows my name.
+114014,439,180,727000,Kate Lynn,Waverly Hills Elementary School,"No, she knows my name!"
+114015,439,181,729000,Lisa Simpson,Waverly Hills Elementary School,Bart! Your plan worked!
+114016,439,182,731000,Bart Simpson,Waverly Hills Elementary School,My plan was to lie. Lie like hell. And that's what I did.
+114017,439,183,735000,Chief Wiggum,Waverly Hills Elementary School,"Well, well. Seems like someone forgot about a previous engagement at the bowling alley from two to four-thirty."
+114018,439,184,780000,Chief Wiggum,Waverly Hills Elementary School,Get him. And string him up.
+114019,439,185,785000,Chief Wiggum,Waverly Hills Elementary School,"You have the right to be delighted. If you do not have a gift, one will be provided for you."
+114021,439,187,787000,Homer Simpson,Homer's Apartment Building,S'open!
+114023,439,189,796000,Homer Simpson,Homer's Apartment,Marge! I'm glad you came. There's a kegger down the hall. We can go as soon as I desecrate this corpse.
+114024,439,190,803000,Homer Simpson,Homer's Apartment,"Eat butt, skyboy-ninety-four! I'm sorry, Marge. Where are my manners? Did you want to taunt my kill also? Press the X button."
+114025,439,191,809000,Marge Simpson,Homer's Apartment,"Ooh, I'm doing it!"
+114027,439,193,817000,Homer Simpson,Party Apartment,I'll get us some brewskies.
+114028,439,194,820000,Homer Simpson,Party Apartment,"Cup, m'lady? Or would you care to funnel it down thy throat?"
+114029,439,195,825000,Marge Simpson,Party Apartment,Definitely a cup.
+114030,439,196,826000,Homer Simpson,Party Apartment,Foam wasn't spilt in a day.
+114031,439,197,828000,Geoff,Party Apartment,"Dude, your date is hot!"
+114032,439,198,831000,Donald,Party Apartment,Does she have a sister?
+114033,439,199,832000,Homer Simpson,Party Apartment,"Two, actually. Twins."
+114034,439,200,834000,Donald,Party Apartment,Twi-ins!
+114036,439,202,836000,Homer Simpson,Party,I was an astronaut for a little bit. So many rules.
+114002,439,204,845000,Homer Simpson,Party,Your hair smells nice!
+114038,439,206,850000,Homer Simpson,Building,Listen... I got a place down the hall.
+114039,439,207,853000,Marge Simpson,Building,Let's go.
+114040,439,208,857000,Geoff,Building,So were you two in the same accident or... or what?
+114042,439,210,865000,Marge Simpson,Homer's Apartment,We don't need a bed. We're not gonna be sleeping.
+114043,439,211,873000,Homer Simpson,Homer's Apartment,Woo-hoo!
+114044,439,212,873000,Homer Simpson,Homer's Apartment,We're not the only ones having a good time.
+114045,439,213,875000,Geoff,Homer's Apartment,What in God's name was I thinking?!
+114048,439,216,879000,Homer Simpson,Homer's Apartment,Maybe you could come over again. I'll cook you my special microwave burritos. I stop the oven when the middle is still a little bit frozen.
+114049,439,217,888000,Marge Simpson,Homer's Apartment,"You know what a girl likes, mister. So, can I see you again?"
+114050,439,218,893000,Homer Simpson,Homer's Apartment,"How 'bout you, me and my wife have a two-way?"
+114052,439,220,899000,Lisa Simpson,Springfield Elementary School,Hi.
+114053,439,221,902000,Teacher,Springfield Elementary School,"Lisa, I re-graded your paper from the other day, and you got an A."
+114054,439,222,906000,Lisa Simpson,Springfield Elementary School,Really?
+114055,439,223,906000,Teacher,Springfield Elementary School,"My kid's a huge Alaska Nebraska fan. If she could somehow get an autographed photo or t-shirt, that would be ""A-plus"" in my book."
+114056,439,224,915000,Lisa Simpson,Springfield Elementary School,Did you just wink at me?
+114057,439,225,916000,Teacher,Springfield Elementary School,"Oh look, there are pumpkin stickers on the floor. They must've fallen off your homework for next week, which you don't have to hand in."
+114058,439,226,926000,Lisa Simpson,Springfield Elementary School,I didn't think I'd get a fresh start like this till junior high!
+114059,439,227,930000,Lisa Simpson,Springfield Elementary School,"L'Ecole, c'est moi!"
+114060,439,228,933000,Boy Resembling Ralph,Springfield Elementary School,Oui. C'est toi!
+114061,439,229,934000,Lisa Simpson,Springfield Elementary School,Even the Ralph of this school speaks French!
+114062,439,230,938000,Boy Resembling Ralph,Springfield Elementary School,Au revoir!
+114064,439,232,943000,Marge Simpson,TAPAS BAR,I love Tapas! It's like appetizers for a meal that never comes!
+114065,439,233,948000,Homer Simpson,TAPAS BAR,Try the Flan De Leche De Cabra...
+114066,439,234,951000,Homer Simpson,TAPAS BAR,Be sure to dig around in the gunk.
+114067,439,235,956000,Marge Simpson,TAPAS BAR,Homie?
+114068,439,236,957000,Marge Simpson,TAPAS BAR,A key to your apartment!
+114070,439,237,963000,Marge Simpson,TAPAS BAR,"And I've got a present for you, but you'll have to wait till we're back at the apartment."
+114071,439,238,969000,Homer Simpson,TAPAS BAR,Why can't I have it now? You got your present here. Basic fairness dictates... ...oh!
+114073,439,240,976000,Lisa Simpson,Simpson Home,"Caitlin, hi! Do a reading at your bat mitzvah? A sheynam dank!"
+114074,439,241,982000,Caitlin,Simpson Home,"Now my bat mitzvah means something! By the way, I was wondering, there's this Alaska Nebraska concert this weekend, and... the tickets are all sold out."
+114075,439,242,990000,Lisa Simpson,Simpson Home,"Well, if it's sold out, even Alaska Nebraska's best friend couldn't do anything about that. Can't build more seats!"
+114076,439,243,998000,Caitlin,Simpson Home,Then get us backstage passes.
+114078,439,245,1002000,Marge Simpson,Homer's Apartment,Surprise! I redecorated!
+114079,439,246,1006000,Homer Simpson,Homer's Apartment,Where are my videogames? My X-box?! My Wii?!
+114080,439,247,1009000,Marge Simpson,Homer's Apartment,"You don't need a Wii now that I'm here. Because you and me make ""us."""
+114081,439,248,1014000,Homer Simpson,Homer's Apartment,"You know, you're starting to remind me a lot of my first wife."
+114082,439,249,1017000,Marge Simpson,Homer's Apartment,We can talk about that after brunch with my mother.
+114085,439,252,1023000,Teenage Stagehand,CONCERT ARENA,"Ms. Nebraska, your purified water and fried chicken skins are here."
+114086,439,253,1032000,Alaska Nebraska,CONCERT ARENA,I am so tired of fans in my food.
+114087,439,254,1036000,Lisa Simpson,CONCERT ARENA,"Alaska, we've never met, but everyone thinks I'm your best friend."
+114088,439,255,1040000,Alaska Nebraska,CONCERT ARENA,"Wait, wait, let me guess. I'm supposed to give all your best friends front row seats and backstage passes."
+114089,439,256,1046000,Lisa Simpson,CONCERT ARENA,Could you?
+114090,439,257,1047000,Alaska Nebraska,CONCERT ARENA,"First, riddle me this: what's your favorite episode of my show?"
+114091,439,258,1051000,Lisa Simpson,CONCERT ARENA,You have a show?
+114092,439,259,1054000,Lisa Simpson,CONCERT ARENA,"Look, can you please, please, help a poor little girl who was just trying to fit in? It's what half your songs are about."
+114093,439,260,1062000,Alaska Nebraska,CONCERT ARENA,"You know what? I was a little girl who didn't fit in either. So you know what I did? I got a new nose, I got famous, and now I date the starting point guard for the L.A. Clippers. Now if you'll excuse me, I have to go meditate and smoke."
+114094,439,261,1078000,Alaska Nebraska,CONCERT ARENA,Wait! I want to ask you something.
+114069,439,262,1080000,Alaska Nebraska,CONCERT ARENA,Could you tell I lip-synched that whole speech?
+114096,439,263,1082000,Alaska Nebraska,CONCERT ARENA,"You know what? I was a little girl who didn't fit in either. So you know what I did? I got a new nose, I..."
+114097,439,264,1089000,Lisa Simpson,CONCERT ARENA,That's amazing.
+114098,439,265,1090000,Alaska Nebraska,CONCERT ARENA,I know. Security!
+114099,439,266,1091000,Lisa Simpson,CONCERT ARENA,"You know, I think those shirts should say ""insecurity."""
+114100,439,267,1094000,Lisa Simpson,CONCERT ARENA,"Because if you feel you have to put what you are on your shirt, then I feel sorry for you. Do you feel sorry for me? Guess not."
+114102,439,269,1106000,Marge Simpson,Homer's Apartment,Where have you been? We have mirrors to hang!
+114103,439,270,1109000,Homer Simpson,Homer's Apartment,I went to a movie.
+114104,439,271,1110000,Marge Simpson,Homer's Apartment,Without me? How'd you get there?
+114105,439,272,1112000,Homer Simpson,Homer's Apartment,I drove.
+114106,439,273,1112000,Marge Simpson,Homer's Apartment,Without me?
+114107,439,274,1115000,Homer Simpson,Homer's Apartment,Sometimes I think this fifty square foot apartment isn't big enough for the both of us!
+114108,439,275,1118000,Marge Simpson,Homer's Apartment,Fine! You can have your key back!
+114109,439,276,1121000,Marge Simpson,Homer's Apartment,"I got it halfway-- Oh, it went back."
+114110,439,277,1129000,City Inspector,Homer's Apartment,City inspector.
+114111,439,278,1132000,City Inspector,Homer's Apartment,I'm here to verify that this is the residence of Bart and Lisa Simpson.
+114112,439,279,1152000,Marge Simpson,Homer's Apartment,Hurry! Get out the kids' stuff!
+114113,439,280,1152000,City Inspector,Homer's Apartment,"Hello, friendos."
+114115,439,282,1158000,Katelyn,CONCERT ARENA,Here comes Lisa with our backstage passes!
+114117,439,284,1162000,Lisa Simpson,CONCERT ARENA,"People, I'm not who you think I am. I'm just a transfer student who wanted to make some friends. Yes, I lied to you, but you only liked me because of a lie. So if you think about it--"
+114118,439,285,1172000,Katelyn,CONCERT ARENA,Get the liar!
+114120,439,287,1183000,Kate Lynn,Rodeo Drive-type Street,Those are last year's shoes! Kill her!
+114121,439,288,1186000,CAITLYN,Rodeo Drive-type Street,"Also, it's Lisa!"
+114122,439,289,1187000,Katelyn,Rodeo Drive-type Street,Kill her twice!
+114124,439,291,1191000,City Inspector,Homer's Apartment,"""Go Dog Go"" with pages missing... Lego spaceship poorly assembled... Clearly, this is the home of elementary school children. Too bad. I was looking forward to killing you and making it look like a suicide."
+114125,439,292,1205000,Homer Simpson,Homer's Apartment,"Thank you, Friendo."
+114126,439,293,1207000,City Inspector,Homer's Apartment,I am not your friendo.
+114127,439,294,1208000,Homer Simpson,Homer's Apartment,"But, I thought... you said..."
+114128,439,295,1211000,Lisa Simpson,Homer's Apartment,Mom! Dad! I have to leave Waverly Hills and never come back!
+114129,439,296,1216000,Bart Simpson,Homer's Apartment,"I've gotta get back, too! I just remembered I was playing hide and seek with Milhouse."
+114131,439,298,1220000,Milhouse Van Houten,Kwik-E-Mart,Three weeks! This has gotta be some kind of record!
+114133,439,300,1223000,Homer Simpson,Homer's Apartment,I can't leave my bachelor pad! My bros'll miss me!
+114134,439,301,1226000,Geoff,Homer's Apartment,No we won't!
+114135,439,302,1228000,Donald,Homer's Apartment,Your comments when we watch movies aren't funny.
+114136,439,303,1230000,Homer Simpson,Homer's Apartment,Why do you watch comedies if you don't want to hear more jokes?
+114137,439,304,1233000,Lisa Simpson,Homer's Apartment,"Please, I just want to go back to a place where I'm ostracized for being me, not for who I pretend to be."
+114138,439,305,1240000,Homer Simpson,Homer's Apartment,"What do you think, Marge? Maybe we've outgrown our first apartment."
+114139,439,306,1244000,Marge Simpson,Homer's Apartment,Yeah. A house in the suburbs does sound pretty nice right now.
+114140,439,307,1248000,Marge Simpson,Homer's Apartment,"Although, I am gonna miss our little love nest."
+114143,439,310,1260000,Bart Simpson,Bart's Tree House,Get a room!
+114144,439,311,1261000,Homer Simpson,Bart's Tree House,"C'mon, boy! Be cool!"
+114145,439,312,1261000,Bart Simpson,Bart's Tree House,But...
+114146,439,313,1264000,Homer Simpson,Bart's Tree House,Be cool or you're grounded!

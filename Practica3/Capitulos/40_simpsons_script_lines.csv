@@ -1,0 +1,248 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+2321,40,1,34000,Homer Simpson,Simpson Home,"Here's good news. According to this eye-catching article, SAT scores are declining at a slower rate."
+2322,40,2,61000,Lisa Simpson,Simpson Home,"Dad, I think this paper is a flimsy hodgepodge of pie graphs, factoids and Larry King."
+2323,40,3,67000,Homer Simpson,Simpson Home,"Hey, this is the only paper in America that's not afraid to tell the truth: that everything is just fine."
+2324,40,4,72000,Bart Simpson,Simpson Home,"""To me bestest bud Milhouse, Happy Birthday, Bart."""
+2325,40,5,75000,Lisa Simpson,Simpson Home,"Bart, that's so sweet. May I see the card?"
+2326,40,6,80000,Lisa Simpson,Simpson Home,Hey there ten-year old. I couldn't afford to get you a new drum...
+2327,40,7,80000,Lisa Simpson,Simpson Home,"""...so how about a nice pair of bongos?"" Ewww."
+2329,40,9,89000,Bart Simpson,School Bus,"C'mon, open it open it open it."
+2330,40,10,91000,Milhouse Van Houten,School Bus,"Uh, maybe a little later, Bart."
+2331,40,11,93000,Bart Simpson,School Bus,"Aw Milhouse, just cuz your mom didn't let you have a party doesn't mean you can't get a present."
+2332,40,12,96000,Sherri Mackleberry,School Bus,"We had a lovely time on Saturday, Milhouse."
+2333,40,13,99000,Terri Mackleberry,School Bus,I liked the balloons.
+2334,40,14,101000,Sherri Mackleberry,School Bus,I liked the party hats.
+2335,40,15,102000,Bart Simpson,School Bus,What are you girls talkin' about?
+2336,40,16,104000,Terri Mackleberry,School Bus,Nothing.
+2337,40,17,106000,Bart Simpson,School Bus,Twins. Open your present.
+2338,40,18,110000,Bart Simpson,School Bus,"They're official Krusty the Clown walkie-talkies. I'll keep one and you keep one. Now whenever you want to talk to me, just call me on the phone and tell me to turn on my walkie-talkie."
+2339,40,19,121000,Martin Prince,School Bus,"Milhouse, I'd like to express my appreciation for Saturday. Jelly bean baskets, personalized noisemakers -- those little touches are what made it enduring."
+2340,40,20,131000,Bart Simpson,School Bus,What's he talkin' about?
+2341,40,21,132000,Milhouse Van Houten,School Bus,"Uh... hey, look at that dog. Isn't that somethin'?"
+2342,40,22,136000,Bart Simpson,School Bus,"Wow, brown!"
+2343,40,23,139000,Otto Mann,School Bus,"Whoa, Springfield Elementary, last stop. Oh, and by the way, I'd like to say thanks, and 'applause, applause' to 'birthday boy' Milhouse for his totally bitchin' party on Saturday."
+2344,40,24,151000,Otto Mann,School Bus,"And uh, Milhouse, I think I left my pants on your roof."
+2345,40,25,155000,Bart Simpson,School Bus,You did have a party. You didn't invite me. And I thought we were best friends.
+2346,40,26,160000,Milhouse Van Houten,School Bus,"Sorry, Bart."
+2347,40,27,163000,Otto Mann,School Bus,Bye little dudes. Don't learn anything I wouldn't learn.
+2349,40,29,169000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ah, Monday morning. Time to pay for your two days of debauchery, you hung-over drones."
+2350,40,30,175000,Waylon Smithers,Springfield Nuclear Power Plant,"T.G.I.M., Sir."
+2351,40,31,177000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Yeah. so, what did you do this weekend, Smithers?"
+2352,40,32,179000,Waylon Smithers,Springfield Nuclear Power Plant,"Well, I caught up on my laundry. And wrote a letter to mother. Oh, here's the kicker, I took Hercules out to be clipped."
+2353,40,33,185000,C. Montgomery Burns,Springfield Nuclear Power Plant,Who the devil is Hercules?
+2354,40,34,187000,Waylon Smithers,Springfield Nuclear Power Plant,"He's my Yorkshire terrier, sir. He's kind of tiny, so... you know, it's a joke. Here's a picture of Herkie."
+2355,40,35,194000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Well, Smithers, don't you know how to paint the town red."
+2356,40,36,198000,Waylon Smithers,Springfield Nuclear Power Plant,May I ask how you spent your weekend?
+2357,40,37,199000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Well, a bit overly familiar, but I'll allow it. I took in a movie. An appalling little piece of filth. Its leading lady was a blonde harlot who spent half the film strolling around naked as a jaybird."
+2358,40,38,209000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Just give the great unwashed a pair of oversized breasts and a happy ending, and they'll 'oink' for more every time."
+2359,40,39,216000,Homer Simpson,Springfield Nuclear Power Plant,What a movie. And that blonde cutie. Does she have assets.
+2360,40,40,221000,Lenny Leonard,Springfield Nuclear Power Plant,Sounds like my kind of flick.
+2361,40,41,224000,Carl Carlson,Springfield Nuclear Power Plant,And how.
+2281,40,43,229000,Homer Simpson,Homer's Workstation,"Eww, lemon... ugh, cherry... hmm, custard... mmm, purple."
+2363,40,46,250000,Apu Nahasapeemapetilon,Kwik-E-Mart,Otto! Welcome!
+2364,40,47,252000,Otto Mann,Kwik-E-Mart,"Apu! Hey, got a ba-ad case of the munchies, man. Time for a Heat-lamp Dog."
+2365,40,48,258000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Oh, Otto. Otto, did you know there's a small child inside your bus?"
+2366,40,49,261000,Otto Mann,Kwik-E-Mart,"Ooo, good thing you warned me. I was on my way to Mexico."
+2369,40,52,270000,C. Montgomery Burns,Burns's Office,"Call me old-fashioned, but movies were sexier when the actors kept their clothes on. Vilma Banky could do more for me with one raised eyebrow than an entire..."
+2370,40,53,279000,Calm Woman,Burns's Office,Warning. Problem in sector 7-G.
+2371,40,54,281000,C. Montgomery Burns,Burns's Office,"7-G? Good God, who's the safety inspector there?"
+2372,40,55,284000,Waylon Smithers,Burns's Office,"Homer Simpson, sir."
+2373,40,56,287000,C. Montgomery Burns,Burns's Office,"Simpson, eh? Good man? Intelligent?"
+2374,40,57,290000,Waylon Smithers,Burns's Office,"Actually sir, he was hired under ""Project Bootstrap."""
+2375,40,58,290000,C. Montgomery Burns,Burns's Office,"Thank you, President Ford."
+2377,40,60,298000,Homer Simpson,Homer's Workstation,Huh? Noise. Bad noise!
+2378,40,61,302000,Calm Woman,Homer's Workstation,Five minutes before critical mass.
+2379,40,62,304000,Homer Simpson,Homer's Workstation,"Critical wha...? Okay, okay, don't panic. Whosever problem this is, I'm sure they know how to handle it."
+2380,40,63,311000,Homer Simpson,Homer's Workstation,Huh? AHHH!! It's my problem! We're doomed!!!
+2381,40,64,316000,Calm Woman,Homer's Workstation,Sector 7-G is now being isolated.
+2383,40,66,320000,Bart Simpson,Stop 'n Go Gas Station,"My best friend shafted me. I'll never get over this, Otto-man."
+2384,40,67,324000,Otto Mann,Stop 'n Go Gas Station,"Aw, sure you will. You know, once my old lady ran off and married my brother. Well, it hurt, but here it is a month later and I'm sleeping on their couch."
+2386,40,69,333000,Mr. Devereaux,Simpson Home,"Margarita, I want you."
+2387,40,70,336000,Margarita,Simpson Home,"Mr. Devereaux, I can't work under these conditions."
+2388,40,71,340000,Mr. Devereaux,Simpson Home,Have it your way baby. You're fired.
+2389,40,72,345000,Margarita,Simpson Home,"Oh, Avery."
+2390,40,73,347000,Mr. Devereaux,Simpson Home,"Call me Mr. Devereaux, will you."
+2391,40,74,349000,Announcer,Simpson Home,We interrupt Search for the Sun for this special news bulletin...
+2392,40,75,355000,Announcer,Simpson Home,Meltdown crisis: The first couple of minutes.
+2394,40,76,355000,Kent Brockman,Simpson Home,"Forget the hair, just give me the blush. Oh, we're on."
+2395,40,77,359000,Kent Brockman,Simpson Home,This station has just learned that a serious crisis is in progress at the Springfield Nuclear Power Plant.
+2396,40,78,364000,Marge Simpson,Simpson Home,Oh my Lord!
+2397,40,79,365000,Kent Brockman,Simpson Home,On the line with us now is plant owner C. Montgomery Burns. Mr. Burns?
+2398,40,80,368000,C. Montgomery Burns,Simpson Home,"Oh hello, Kent. Right now, skilled nuclear energy technicians are calmly correcting a minor, piffling malfunction."
+2401,40,83,380000,C. Montgomery Burns,Springfield Nuclear Power Plant,"But, I can assure you and the public that there is absolutely no danger whatsoever --"
+2403,40,85,386000,C. Montgomery Burns,Burns's Office,-- things couldn't be more ship-shape.
+2404,40,86,387000,Waylon Smithers,Burns's Office,"Sir, where's my radiation suit?"
+2405,40,87,389000,C. Montgomery Burns,Burns's Office,How the hell should I know?
+2407,40,89,391000,Kent Brockman,Simpson Home,"Uh, Mr. Burns, people are calling this a meltdown."
+2408,40,90,393000,C. Montgomery Burns,Simpson Home,"Oh, meltdown is one of those annoying buzzwords. I prefer to call it an unrequested fission surplus."
+2409,40,91,397000,Marge Simpson,Simpson Home,"Homie, please be all right."
+2411,40,93,402000,Homer Simpson,Homer's Workstation,"Gotta think! Gotta think! Okay, somewhere there's a thingee that tells you how to work this stuff. The um... the, uh... the manual! The manual! RIGHT."
+2412,40,94,410000,Homer Simpson,Homer's Workstation,"Uh-huh. It's as fat as a phone book! ""Congratulations on your purchase of a Fissionator 1952 Slow Fission Reactor. Get to the point, man! Ooh, what's this?"
+2413,40,95,425000,Homer Simpson,Homer's Workstation,Who'd have thought a nuclear reactor would be so complicated!
+2415,40,97,429000,Calm Woman,Burns's Office,Ninety seconds to core meltdown.
+2416,40,98,431000,Waylon Smithers,Burns's Office,"Sir, there may never be another time to say... I love you, sir."
+2417,40,99,434000,C. Montgomery Burns,Burns's Office,"Oh, hot dog. Thank you for making my last few moments on earth socially awkward."
+2419,40,101,439000,Moe Szyslak,Moe's Tavern,Looks like this is the end.
+2420,40,102,442000,Barney Gumble,Moe's Tavern,That's all right. I couldn't have led a richer life.
+2422,40,104,445000,Kent Brockman,Springfield Retirement Castle,After the meltdown we can expect roving bands of thieves to tie up traffic for ours.
+2423,40,105,447000,Grampa Simpson,Springfield Retirement Castle,I don't like this program.
+2424,40,106,449000,Jasper Beardly,Springfield Retirement Castle,Change the channel.
+2425,40,107,452000,Program Voices,Springfield Retirement Castle,Wheel of Fortune!
+2427,40,109,455000,Homer Simpson,Homer's Workstation,"I don't understand anything! When they look up stupid in the dictionary, there'll be a picture of me!"
+2429,40,111,469000,Marge Simpson,Simpson Home,"Dear Lord, if you spare this town from becoming a smoking hole in the ground, I'll try to be a better Christian. I don't know what I can do... Ummm, oooh, the next time there's a canned food drive I'll give the poor something they'd actually like instead of old lima beans and pumpkin mix."
+2431,40,113,489000,Calm Woman,Homer's Workstation,One minute to core meltdown.
+2432,40,114,490000,Homer Simpson,Homer's Workstation,Shut up!
+2433,40,115,491000,Homer Simpson,Homer's Workstation,"Simpson, it's all up to you. It's showtime!"
+2434,40,116,496000,Homer Simpson,Homer's Workstation,"Okay, okay, think back to your training..."
+2436,40,118,499000,Instructor,Springfield Nuclear Power Plant,"Now Homer, this may very well save your life one day. This, Homer..."
+2437,40,119,501000,Homer Simpson,Springfield Nuclear Power Plant,Yes.
+2438,40,120,503000,Instructor,Springfield Nuclear Power Plant,"Please pay attention. This button here controls the emergency override circuit. In the event of a meltdown, push this button and only this button."
+2439,40,121,510000,Homer Simpson,Springfield Nuclear Power Plant,"Ooh, a side."
+2440,40,122,511000,Instructor,Springfield Nuclear Power Plant,Simpson?
+2441,40,123,511000,Homer Simpson,Springfield Nuclear Power Plant,What?
+2442,40,124,513000,Instructor,Springfield Nuclear Power Plant,Do you see which button I'm pushing?
+2443,40,125,514000,Homer Simpson,Springfield Nuclear Power Plant,"Yeah, yeah, yeah, push the button, got it."
+2444,40,126,516000,Homer Simpson,Springfield Nuclear Power Plant,"This is all your fault! Okay, gotta pick a button. Pick a button. Pick a button. Uh, one potato, two potato, three potato, four... No, wait! Bubble gum, bubble gum, in a dish, how many pieces do you wish? No, no!"
+2446,40,128,529000,Calm Woman,Burns's Office,Thirty seconds to core meltdown.
+2447,40,129,531000,C. Montgomery Burns,Burns's Office,"Oh, Smithers, I guess there's nothing left but to kiss my sorry butt good-bye!"
+2448,40,130,535000,Waylon Smithers,Burns's Office,"May I, sir?"
+2451,40,132,537000,Professor Jonathan Frink,Burns's Office,"These unfortunate people here will be instantly killed. This circle, which I am sad to say we are in, will experience a slower, considerably more painful death."
+2452,40,133,547000,Kent Brockman,Burns's Office,Good Lord.
+2454,40,135,549000,Seymour Skinner,Springfield Elementary School,They called me old-fashioned for teaching the duck and cover. But who's laughing now?
+2456,40,137,549000,Calm Woman,Homer's Workstation,Fifteen seconds to core meltdown.
+2457,40,138,555000,Homer Simpson,Homer's Workstation,"Eenie meenie minee moe, catch a tiger by the toe, if he hollers let him go... Eenie meenie minee... Moe."
+2458,40,139,571000,Calm Woman,Homer's Workstation,All systems returning to normal. Danger in 7-G neutralized. Have a nice day.
+2460,40,141,577000,Female Worker,Springfield Nuclear Power Plant,Will I ever see you again?
+2461,40,142,592000,Male Worker,Springfield Nuclear Power Plant,"Sure, baby. Next meltdown."
+2463,40,144,601000,Contestant,Springfield Retirement Castle,"I'd like to solve the puzzle: ""Three loins in the fountain."""
+2465,40,146,602000,C. Montgomery Burns,Simpson Home,"Yes, we've isolated the problem and wouldn't you know? False alarm. It seems a single wayward crow flew into our warning system."
+2466,40,147,611000,Kent Brockman,Simpson Home,"Very good. Well sir, your point about nuclear hysteria is well taken. This reporter promises to be more trusting and less vigilant in the future."
+2468,40,149,623000,C. Montgomery Burns,Burns's Office,"Excellent. Well, ""ta"". Hmmm, Smithers, I can still sell 'em snake oil. Now bring me a wine spritzer -- and don't be stingy with the vino."
+2469,40,150,633000,Waylon Smithers,Burns's Office,Yes sir.
+2470,40,151,634000,C. Montgomery Burns,Burns's Office,"So, Smithers, it seems you've underestimated one Homer Simpson... our next Employee-of-the-Month."
+2472,40,153,634000,Bart Simpson,Springfield Elementary School Cafeteria,"Milhouse, a little salt?"
+2473,40,154,646000,Milhouse Van Houten,Springfield Elementary School Cafeteria,Sure.
+2474,40,155,651000,Bart Simpson,Springfield Elementary School Cafeteria,"Now we're even for your party. C'mon, let's go play."
+2475,40,156,653000,Milhouse Van Houten,Springfield Elementary School Cafeteria,"Bart, my mom won't let me be your friend anymore. That's why you couldn't come to the party."
+2476,40,157,659000,Bart Simpson,Springfield Elementary School Cafeteria,What's she got against me?
+2477,40,158,661000,Milhouse Van Houten,Springfield Elementary School Cafeteria,She says you're a bad influence.
+2478,40,159,663000,Bart Simpson,Springfield Elementary School Cafeteria,"Bad influence my ass! How many times have I told you, never listen to your mother!"
+2479,40,160,667000,Milhouse Van Houten,Springfield Elementary School Cafeteria,"But Bart, she threatened to cut off my allowance."
+2480,40,161,669000,Bart Simpson,Springfield Elementary School Cafeteria,"Whatever she's paying you, I'll double it."
+2481,40,162,671000,Milhouse Van Houten,Springfield Elementary School Cafeteria,"I'm really sorry, Bart."
+2483,40,164,675000,Waylon Smithers,Springfield Nuclear Power Plant,"Sir, about Employee-of-the-Month... I-I-if you'll recall, I'm the one who put a five percent ceiling on the Keogh Plan, which saved this company --"
+2484,40,165,681000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Smithers, you bean counter, give it up! Simpson's my man!"
+2485,40,166,686000,Carl Carlson,Springfield Nuclear Power Plant,"Hey, way to save our lives."
+2486,40,167,688000,Lenny Leonard,Springfield Nuclear Power Plant,"Yeah, we owe you one."
+2487,40,168,690000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, you know boys, a nuclear reactor's a lot like a woman. You just have to read the manual and press the right button."
+2488,40,169,700000,C. Montgomery Burns,Springfield Nuclear Power Plant,Simpson -- Monty Burns. Come with me.
+2489,40,170,705000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Now, now. That will do. Homer, for your bravery and skill, we award you this ham, this plaque, this discount coupon book, and my own personal thumbs up!"
+2490,40,171,723000,C. Montgomery Burns,Springfield Nuclear Power Plant,"And to insure your immortality, your heroic visage will be added to our Wall of Fame... Oh, and uh, what's this? A congratulatory phone call from Earvin ""Magic"" Johnson."
+2491,40,172,739000,Homer Simpson,Springfield Nuclear Power Plant,Magic Johnson! Y'ello.
+2492,40,173,741000,Magic Johnson,Springfield Nuclear Power Plant,Is this really Homer Simpson?
+2493,40,174,743000,Homer Simpson,Springfield Nuclear Power Plant,Yeah.
+2494,40,175,744000,Magic Johnson,Springfield Nuclear Power Plant,"Wow. Homer, I just used our last time out to call and congratulate you on diverting that nuclear holocaust."
+2495,40,176,750000,Homer Simpson,Springfield Nuclear Power Plant,"Well, thank you."
+2496,40,177,752000,Doctor,Springfield Nuclear Power Plant,"Magic, if you play on that ankle, you'll be in incredible pain."
+2497,40,178,755000,Magic Johnson,Springfield Nuclear Power Plant,I don't care.
+2498,40,179,756000,Homer Simpson,Springfield Nuclear Power Plant,"Uh, Magic. What if people think a guy's a hero but he was really just lucky?"
+2499,40,180,761000,Magic Johnson,Springfield Nuclear Power Plant,Don't worry. Sooner or later people like that are exposed as the frauds they are.
+2500,40,181,765000,Homer Simpson,Springfield Nuclear Power Plant,"Thanks, Magic."
+2502,40,183,794000,Lisa Simpson,Simpson Home,"Bart, you're not laughing. Too subtle?"
+2504,40,184,797000,Bart Simpson,Simpson Home,Nah. I'm just depressed. Milhouse's mom won't let me play with him any more.
+2505,40,185,805000,Marge Simpson,Simpson Home,"Homer, did you go out and buy a twenty pound ham? And what's all this?"
+2506,40,186,812000,Marge Simpson,Simpson Home,"""For heroic competence... for narrowly averting a melt-down and proving, without question, that nuclear power is completely safe... Employee-of-the-Month!"" Ohh, Homer!"
+2507,40,187,832000,Lisa Simpson,Simpson Home,A role model in my very own home. How convenient.
+2508,40,188,835000,Homer Simpson,Simpson Home,"Look, I get enough admiration and respect at work. I don't need it here at home."
+2509,40,189,842000,Marge Simpson,Simpson Home,"How are you enjoying your ham, Homie?"
+2510,40,190,844000,Homer Simpson,Simpson Home,It tastes so bitter. It's like ashes in my mouth!
+2511,40,191,847000,Marge Simpson,Simpson Home,"Hmm, it's actually more of a honey glaze --"
+2512,40,192,849000,Lisa Simpson,Simpson Home,Maybe you ate a clove.
+2513,40,193,851000,Homer Simpson,Simpson Home,"What's your problem, boy?"
+2514,40,194,853000,Bart Simpson,Simpson Home,I had a fight with Milhouse.
+2515,40,195,855000,Homer Simpson,Simpson Home,That four-eyes with the big nose? You don't need friends like that.
+2516,40,196,858000,Lisa Simpson,Simpson Home,How Zen.
+2517,40,197,861000,Homer Simpson,Simpson Home,What? What is it? What are you doing?
+2518,40,198,865000,Lisa Simpson,Simpson Home,Looking at you with quiet awe.
+2519,40,199,867000,Homer Simpson,Simpson Home,"Well, as long as it's quiet."
+2520,40,200,878000,Milhouse Van Houten,Simpson Home,"Milhouse to Bart, Milhouse to Bart... Please don't hate me. Please?"
+2522,40,202,892000,Homer Simpson,Springfield Nuclear Power Plant,"Oooh, right next to the boss. Eh, he'll never know who did it."
+2524,40,204,908000,C. Montgomery Burns,Burns's Office,"Ah Simpson! There's someone I want you to meet. Aristotle Amadopolis, owner of the Shelbyville Nuclear Power facility."
+2525,40,205,917000,Homer Simpson,Burns's Office,Huh? Wha?...
+2526,40,206,919000,C. Montgomery Burns,Burns's Office,It seems Ari's been having terrible worker problems at Shelbyville.
+2527,40,207,921000,Aristotle,Burns's Office,They've lost their zest for work. You must help them find their Eanae-eharatou-nah-duleve!
+2528,40,208,926000,Homer Simpson,Burns's Office,Their Eanae-eharatou-nah-dule-what?
+2529,40,209,926000,Aristotle,Burns's Office,Yeah.
+2530,40,210,928000,C. Montgomery Burns,Burns's Office,We want you to give them a pep talk that turns them from a bunch of donut-eating goof-offs into a pack of Homer Simpsons.
+2531,40,211,934000,Homer Simpson,Burns's Office,"But I really can't tell them anything, sir."
+2533,40,212,936000,C. Montgomery Burns,Burns's Office,"Oh cut the false modesty, it's getting tiresome. Besides, it's your duty. Employee of the Month isn't all ham and plaques."
+2534,40,213,945000,C. Montgomery Burns,Burns's Office,"Well! Smithers, how kind of you to pay us a visit."
+2535,40,214,948000,Waylon Smithers,Burns's Office,"Couldn't help it, sir. The parking here is terrible."
+2536,40,215,952000,Aristotle,Burns's Office,This man has no love for his power plant.
+2537,40,216,954000,C. Montgomery Burns,Burns's Office,Begone from my sight.
+2538,40,217,958000,C. Montgomery Burns,Burns's Office,That one's always been a problem.
+2540,40,219,961000,Bart Simpson,Simpson Home,One... two... three... Community chest.
+2541,40,220,965000,Bart Simpson,Simpson Home,Nah.
+2542,40,221,966000,Bart Simpson,Simpson Home,Nah.
+2543,40,222,967000,Bart Simpson,Simpson Home,Ah. I've won second prize in a beauty contest. Collect ten bucks.
+2544,40,223,972000,Bart Simpson,Simpson Home,Ha ha! You're losing.
+2545,40,224,976000,Marge Simpson,Simpson Home,"Bart, don't feed your sister hotels!"
+2546,40,225,979000,Bart Simpson,Simpson Home,"Don't worry mom, there's tons of these things."
+2547,40,226,981000,Marge Simpson,Simpson Home,I think that game is too old for her. Why don't you go play with Milhouse?
+2548,40,227,985000,Bart Simpson,Simpson Home,I don't wanna play with Milhouse.
+2549,40,228,986000,Marge Simpson,Simpson Home,You mean you still haven't made up with him?
+2550,40,229,988000,Bart Simpson,Simpson Home,"It's his mom. She says I'm a bad influence. C'mon Maggie, let's go throw rocks at that hornet's nest."
+2552,40,231,997000,Marge Simpson,Van Houten Home,"Mrs. Van Houten, I'm Bart's mother -- we met in the emergency room when the boys drank paint."
+2553,40,232,1003000,Luann Van Houten,Van Houten Home,"I remember. Please, come in."
+2555,40,234,1004000,Luann Van Houten,Van Houten Home,"Marge, I'm sorry, but I think it would be better if Milhouse didn't see your son."
+2556,40,235,1010000,Marge Simpson,Van Houten Home,"Look, I know Bart can be a handful but I also know what he's like inside. He's got a spark. It's not a bad thing... of course it makes him do bad things..."
+2557,40,236,1022000,Luann Van Houten,Van Houten Home,"Well, Marge, the other day, Milhouse told me my meatloaf sucks. He must have gotten that from your little boy, because they certainly don't say that word on TV!"
+2558,40,237,1032000,Marge Simpson,Van Houten Home,"Well, I can't defend everything he does. But let's face it, all Bart and Milhouse have is each other. They're too young for girls. And they're a popular target for bullies. And in the Christmas pageant, they're always sheep. Please, please, let them be friends!"
+2503,40,238,1054000,Luann Van Houten,Van Houten Home,"I'll think about it, Marge."
+2559,40,240,1058000,Barney Gumble,Moe's Tavern,"So the next time somebody tells you county folk are good, honest people, you can spit in their faces for me!"
+2560,40,241,1065000,Lisa Simpson,Moe's Tavern,"I will, Mr. Gumbel. But if you'll excuse me, I'm profiling my dad for the school paper. I thought it would be neat to follow him around for a day to see what makes him tick."
+2561,40,242,1074000,Barney Gumble,Moe's Tavern,"Oh, that's sweet. I used to follow my dad to a lot of bars too."
+2562,40,243,1079000,Moe Szyslak,Moe's Tavern,"Here you go. One beer, one chocolate milk."
+2563,40,244,1081000,Lisa Simpson,Moe's Tavern,"Uh, excuse me, I have the chocolate milk."
+2564,40,245,1083000,Moe Szyslak,Moe's Tavern,Oh.
+2565,40,246,1086000,Moe Szyslak,Moe's Tavern,"What's the matter, Homer? The depressin' effects of alcohol usually don't kick in 'til closing time."
+2566,40,247,1091000,Lisa Simpson,Moe's Tavern,"He's just a little nervous. He has to give a speech tomorrow on ""How To Keep Cool In A Crisis."""
+2567,40,248,1096000,Homer Simpson,Moe's Tavern,What am I gonna do? What am I gonna do?
+2568,40,249,1097000,Barney Gumble,Moe's Tavern,"Hey, I had to give a speech once. I was pretty nervous, so I used a little trick. I pictured everyone in their underwear. The judge, the jury, my lawyer, everybody."
+2569,40,250,1108000,Homer Simpson,Moe's Tavern,Did it work?
+2570,40,251,1108000,Barney Gumble,Moe's Tavern,"I'm a free man, ain't I?"
+2572,40,253,1110000,Milhouse Van Houten,Simpson Home,"Milhouse to Bart, do you want to come over and play?"
+2573,40,254,1114000,Bart Simpson,Simpson Home,Really? We can be friends again? Did your mom die?
+2574,40,255,1118000,Milhouse Van Houten,Simpson Home,"Uh, I don't think so."
+2575,40,256,1119000,Bart Simpson,Simpson Home,"Who cares?! Milhouse, I'll be right there! Sorry Maggie, game's over."
+2576,40,257,1125000,Bart Simpson,Simpson Home,"Hey Mom, I'm friends with Milhouse again."
+2577,40,258,1128000,Marge Simpson,Simpson Home,"Well, I knew his mother would come to her senses.."
+2578,40,259,1131000,Bart Simpson,Simpson Home,Thanks for sticking up for me.
+2579,40,260,1134000,Marge Simpson,Simpson Home,What makes you think I did it?
+2580,40,261,1135000,Bart Simpson,Simpson Home,Who else would?
+2581,40,262,1140000,Marge Simpson,Simpson Home,You be good.
+2582,40,263,1141000,Bart Simpson,Simpson Home,I will.
+2584,40,265,1149000,Aristotle,Shelbyville Nuclear Power Plant,"As I look out into this sea of smiling faces, I am filled with a sense of loathing and revulsion. You are not workers, you are a pack of mangy cud-chewing ugly goats! Well, you're in for a treat. We have with us today a real man. Behold the glory that is Homer Simpson!"
+2586,40,266,1172000,Homer Simpson,Shelbyville Nuclear Power Plant,Uh... ladies and... gentlemen...
+2587,40,267,1175000,Thought Bubble Barney,Shelbyville Nuclear Power Plant,Just picture them in their underwear.
+2588,40,268,1189000,Homer Simpson,Shelbyville Nuclear Power Plant,"Um, Grace under pressure is no..."
+2589,40,269,1189000,Female Voice,Shelbyville Nuclear Power Plant,Three minutes to meltdown.
+2590,40,270,1199000,Homer Simpson,Shelbyville Nuclear Power Plant,Whew! Saved by the bell.
+2591,40,271,1202000,Female Voice,Shelbyville Nuclear Power Plant,Fifteen seconds to core meltdown.
+2592,40,272,1205000,Aristotle,Shelbyville Nuclear Power Plant,Just do what you did before.
+2593,40,273,1207000,Homer Simpson,Shelbyville Nuclear Power Plant,All right.
+2595,40,275,1210000,Homer Simpson,Shelbyville Nuclear Power Plant,"Eeenie meenie minee moe, catch a tiger by the toe... If he hollers let him go, eenie meenie minee moe."
+2596,40,276,1220000,Female Voice,Shelbyville Nuclear Power Plant,Crisis has been averted. Everything is super.
+2597,40,277,1226000,Aristotle,Shelbyville Nuclear Power Plant,Thank you Homer for saving my plant with that idiotic rhyming. Do you even know what button you pushed?
+2598,40,278,1233000,Homer Simpson,Shelbyville Nuclear Power Plant,Sure. Moe.
+2599,40,279,1235000,Kent Brockman,Shelbyville Nuclear Power Plant,Eenie meenie minee moe / Is Homer a hero? / The answer is... no. I'm Kent Brockman and that was... My Two Cents. Now back to Scott Christian with Laugh and a Half.
+2600,40,280,1241000,SCOTT,Shelbyville Nuclear Power Plant,"Thanks, Kent. There was more dumb luck in the news today when our own Police Chief Wiggum foiled a bank hold-up without even trying. It seems the chief had come to the bank to cash in his penny jar."
+2601,40,281,1259000,Chief Wiggum,Shelbyville Nuclear Power Plant,"...48, 49, 50."
+2602,40,282,1263000,Security Guard,Shelbyville Nuclear Power Plant,"Good work, Chief."
+2603,40,283,1264000,Chief Wiggum,Shelbyville Nuclear Power Plant,Just doing my job.
+2604,40,284,1266000,SCOTT,Shelbyville Nuclear Power Plant,"Yes, it seems the chief pulled a Homer Simpson of his own."
+2606,40,286,1272000,Barney Gumble,Moe's Tavern,Whoa!
+2607,40,287,1274000,Barney Gumble,Moe's Tavern,"Huh? A pretzel? Wow, looks like I pulled a Homer!"
+2609,40,289,1281000,Announcer,Basketball Court,"The Lakers have the ball. Magic Johnson's coming down the floor on a fast break. Magic stops. His feet slip out from under him. The ball flies out of his hand, hits the referee in the head, goes in the basket! It's a three point play. The Lakers win!"
+2610,40,290,1293000,Magic Johnson,Basketball Court,Looks like I pulled a Homer.
+2612,40,292,1299000,Lisa Simpson,Simpson Home,Our dad... now he belongs to the ages.

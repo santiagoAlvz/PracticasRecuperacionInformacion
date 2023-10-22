@@ -1,0 +1,221 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+38978,173,1,87000,Homer Simpson,Simpson Home,"Marge, mail's here."
+38979,173,2,89000,Marge Simpson,Simpson Home,"Bills... bills... oo, a free sample of gasoline... a note from Publishers' Clearinghouse saying we're out of the running... oh look, Lisa! You got something."
+38980,173,3,102000,Lisa Simpson,Simpson Home,"Oh, Foreign Language Institute. Oh, my German verb wheel!"
+38981,173,4,108000,Lisa Simpson,Simpson Home,Ich esse; er isst; wir essen.
+38982,173,5,112000,Homer Simpson,Simpson Home,When? When? Ich bin hungrig!
+38983,173,6,114000,Marge Simpson,Simpson Home,"Homer, this is yours."
+38984,173,7,116000,Homer Simpson,Simpson Home,"Yes! My precious ""CarTOONS!"" ""Who pumped Ethyl?!"""
+38985,173,8,117000,Bart Simpson,Simpson Home,"Oh, how come I never get any mail?"
+38986,173,9,129000,Marge Simpson,Simpson Home,"I'm sorry, honey. Here, you can have the junk mail."
+38987,173,10,133000,Bart Simpson,Simpson Home,"""Gas your termites""... ""Freeze your termites""... ""Zap your termites""... ""Save the termites""... Hel-lo."
+38988,173,11,143000,Bart Simpson,Simpson Home,"""Dear Occupant: Because of your fine credit history, you have been pre-approved for a MoneyBank charge card..."""
+38989,173,12,143000,Bart Simpson,Simpson Home,"Hoo, baby! Okay, lessee now... ""Occupation?"" Hmm, butt Doctor. ""Income?"" Whatever I finds, I keeps! ""Name?"" Hmm, name, name...."
+38990,173,13,163000,Bart Simpson,Simpson Home,My name is... Santa's Little Helper.
+38991,173,14,178000,Homer Simpson,Simpson Home,"Marge, mail's here."
+38992,173,15,180000,Marge Simpson,Simpson Home,"... Bills, bills... Oh a rejection letter from The New Yorker subscription department... Hmm. Who or what is ""Santos L. Halper?"""
+38993,173,16,193000,Bart Simpson,Simpson Home,"Wow, my own credit card! Thanks, ""Santos!"""
+38994,173,17,199000,Bart Simpson,Simpson Home,"A quarter?! Well, you're just the dog that keeps on giving, aren'cha?"
+38996,173,19,205000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"... and ""Zebra Girl,"" and ""Zillionaire,"" and ""Zoidzilla."""
+38997,173,20,208000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,And will there be any more splurging today?
+38998,173,21,211000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Oh my, yes. Hmm, I'll take that hardbound Radioactive Man collection."
+38999,173,22,216000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Ah, a superb choice: in volume two, Radioactive Man travels through time to defeat Jesse Owens at the 1936 Olympic Games."
+39000,173,23,225000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Put it all on my credit card, my good man."
+39001,173,24,227000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Ooh, pardon me, ""Santos"" -- if that is your real name, Bart Simpson -- but your phony credit is no good here. Now make like my pants and split."
+39003,173,26,237000,Bart Simpson,Alley,"Oh, what good's a credit card if you can't even use it?"
+39004,173,27,247000,Bart Simpson,Alley,"""Order by phone. 1-800 --"" Our phone doesn't go up to eight hundred. Unless..."
+39006,173,29,259000,Bart Simpson,Simpson Home,"Mom, this is for you: 15 pounds of"
+39007,173,30,261000,Bart Simpson,Simpson Home,Vancouver smoked salmon. Here. Smell it!
+39008,173,31,266000,Marge Simpson,Simpson Home,"Oh, Bart, you didn't have to do that. Oh!"
+39009,173,32,270000,Bart Simpson,Simpson Home,And for Homer --
+39010,173,33,272000,Homer Simpson,Simpson Home,Wow! A golf shirt! With my corporate logo on it!
+39011,173,34,277000,Homer Simpson,Simpson Home,"Oh, it smells like salmon, too! Thanks, boy!"
+39012,173,35,281000,Bart Simpson,Simpson Home,And for the college-bound... 500 stay-alert capsules.
+39013,173,36,285000,Lisa Simpson,Simpson Home,"Wow, ""Trucker's Choice."" That is so sweet."
+39014,173,37,290000,Marge Simpson,Simpson Home,"Bart, where did you get all this stuff?"
+39015,173,38,293000,Bart Simpson,Simpson Home,Let me answer that question with... cookware!
+39016,173,39,297000,Marge Simpson,Simpson Home,A frying pan radio. Wow!
+39017,173,40,318000,Computerized Japanese Voice,Simpson Home,You a winna. You a winna. You a winna.
+39018,173,41,323000,Lisa Simpson,Simpson Home,Halogen lamps? Kilim rugs? You can't afford this how can you afford this?
+39019,173,42,327000,Bart Simpson,Simpson Home,"Aw, you've been all edgy and suspicious ever since I gave you those pep pills."
+39020,173,43,331000,Bart Simpson,Simpson Home,"What are you talking about? I don't need pep pills to be suspicious if I want to comment on it I'll comment on it who's gonna stop me, you, Pep pill Boy? Pep Boys pills Beverly Sills oh boy oh boy oh boy uh-oh uh-oh oh boy I gotta start taking those pills again you think you're so great..."
+39024,173,44,346000,Bart Simpson,Simpson Home,"Whoa! ""The crowning achievement of the dogmaker's art. This limited edition Collie comes fully trained by Major Jonas Fong, A.L.B.D.A... only 800 will be bred... quite possibly the World's Best Dog."""
+39025,173,45,359000,Bart Simpson,Simpson Home,Twelve hundred bucks?! I better just get one.
+39026,173,46,387000,Bart Simpson,Simpson Home,"Hey, where are you going?"
+39027,173,47,388000,Bart Simpson,Simpson Home,"""Hello, my name is Laddie. I've been trained to gather fruit for you as a welcome gift."""
+39029,173,49,391000,Bart Simpson,Simpson Home,Good dog.
+39030,173,50,405000,Bart Simpson,Simpson Home,"Okay, watch this. Watch. Do a back-flip, Laddie!"
+39031,173,51,410000,Marge Simpson,Simpson Home,"Oh, he's so smart!"
+39032,173,52,413000,Lisa Simpson,Simpson Home,"And so handsome! Bart, I just love him!"
+39033,173,53,417000,Homer Simpson,Simpson Home,"Hi Marge, hi Santa's Little Helper, hi kid -- hey, that's not Santa's Little Helper."
+39034,173,54,422000,Marge Simpson,Simpson Home,"That's Laddie. Bart says he won him at a church carnival, two towns over."
+39035,173,55,426000,Lisa Simpson,Simpson Home,"In a truth-telling contest. Right, Bart?"
+39036,173,56,429000,Bart Simpson,Simpson Home,"Uh, to the best of my recollection, yes."
+39037,173,57,431000,Homer Simpson,Simpson Home,"Wow, I gotta start going to church."
+39038,173,58,433000,Lisa Simpson,Simpson Home,"What've you got for me, boy? Hey, this says we should feed him lots of eggs and olive oil to ensure a glossy coat."
+39039,173,59,440000,Homer Simpson,Simpson Home,"Oh, yeah, a dog like this you have to feed every day."
+39040,173,60,444000,Bart Simpson,Simpson Home,He's trained to do all sorts of stuff. He can herd sheep and perform CPR.
+39041,173,61,448000,Marge Simpson,Simpson Home,"""Some call it the dog that never sleeps, though it actually does -- while jogging."""
+39042,173,62,448000,Homer Simpson,Simpson Home,"Geez, that dog has more education than I do. He's some kinda super dog. Hey, where'd he go?"
+39043,173,63,478000,Bart Simpson,Simpson Home,Hullo?
+39044,173,64,479000,Credit Representative,Simpson Home,"Hello, Mr. Halper, I'm calling from MoneyBank Credit Services Department. I was wondering if you had a chance to read the threatening letter we sent you..."
+39045,173,65,485000,Bart Simpson,Simpson Home,Uhh...
+39046,173,66,487000,Credit Representative,Simpson Home,"... because you sound like a mature, responsible person who wouldn't want an unpaid credit card bill to spoil all his hopes and dreams for the future -- dreams such as home ownership, boat ownership, and event attendance. Now when can I tell my supervisor, Mr. Robinson, to expect payment?"
+39021,173,68,505000,Bart Simpson,Simpson Home,"C'mon, boy, let's go for a walk!"
+39022,173,69,508000,Bart Simpson,Simpson Home,"No, not you -- Laddie."
+39049,173,70,511000,Bart Simpson,Simpson Home,"C'mon, I've got a job for you."
+39052,173,73,522000,Bart Simpson,SPRINGFIELD PINE BARRENS,Good boy.
+39053,173,74,530000,Legs,SPRINGFIELD PINE BARRENS,We didn't see nothin' if you didn't see nothin'.
+39055,173,76,534000,Bart Simpson,Simpson Home,"Oh no, repo men. Laddie, hide behind that bush there."
+39056,173,77,544000,Bart Simpson,Simpson Home,"Mom and Dad aren't home, are they?"
+39057,173,78,545000,Lisa Simpson,Simpson Home,"No. They went for a walk with the Flanders. Bart, what's going on? Why are these repo guys taking all your stuff?"
+39058,173,79,551000,Bart Simpson,Simpson Home,The dog and I got a credit card and...
+39059,173,80,552000,Lisa Simpson,Simpson Home,"A credit card? Oh, I knew you were up to no good."
+39060,173,81,556000,Bart Simpson,Simpson Home,"Okay, so I committed a little mail fraud. Haven't I been punished enough?"
+39061,173,82,560000,Lisa Simpson,Simpson Home,"Hey! Stop! You can take back the bassinet, but the baby is ours!"
+39063,173,84,564000,Repo Goon #2,Simpson Home,And the last item is one $1200 dog. Is that him?
+39064,173,85,577000,Repo Goon #2,Simpson Home,"Well, is he the dog or isn't he?"
+39065,173,86,580000,Bart Simpson,Simpson Home,"Yeah, that's him all right."
+39066,173,87,588000,Bart Simpson,Simpson Home,"Sorry, boy. I didn't plan this. It just sort of happened."
+39067,173,88,605000,Bart Simpson,Simpson Home,"Mom, can I feed Laddie at the table?"
+39068,173,89,607000,Marge Simpson,Simpson Home,"Oh, it's against the house rule... Oh, I guess just this once."
+39069,173,90,615000,Homer Simpson,Simpson Home,"Oh, I don't know about this dog. He's kinda... snooty."
+39070,173,91,622000,Marge Simpson,Simpson Home,"Homer, are you wearing a tie to impress Laddie?"
+39071,173,92,625000,Homer Simpson,Simpson Home,Do you think he noticed?
+39072,173,93,629000,Lisa Simpson,Simpson Home,Where's Santa's Little Helper?
+39073,173,94,631000,Homer Simpson,Simpson Home,Who?
+39074,173,95,632000,Bart Simpson,Simpson Home,"Um, I took him to a kennel... two towns over. Just 'til the new dog gets settled."
+39075,173,96,637000,Marge Simpson,Simpson Home,"Well, we wrecked the first dog. We've got to treat this one right. Bart, why don't you take Laddie for another walk."
+39076,173,97,643000,Homer Simpson,Simpson Home,"No! Bart had his turn, let me! I can't resist his charms."
+39077,173,98,648000,Lisa Simpson,Simpson Home,Let's all walk Laddie.
+39079,173,100,654000,Lisa Simpson,Springfield Dog Park,"Hey, this park is great! How come we never take Santa's Little Helper here?"
+39081,173,101,658000,Homer Simpson,Springfield Dog Park,Crowds give him gas.
+39082,173,102,660000,Marge Simpson,Springfield Dog Park,"Besides, he's happy just hanging around the house with Bart."
+39083,173,103,663000,Bart Simpson,Springfield Dog Park,"Uh, yeah."
+39084,173,104,665000,Kent Brockman,Springfield Dog Park,"Hey, that is one fine-looking animal you've got there."
+39085,173,105,668000,Homer Simpson,Springfield Dog Park,"Wow, TV's Kent Brockman."
+39086,173,106,672000,Kent Brockman,Springfield Dog Park,"Ha, ha. Hey, this fellow's not available to stud, is he?"
+39087,173,107,674000,Homer Simpson,Springfield Dog Park,"You want some puppies, eh, Mr. Brockman?"
+39088,173,108,676000,Kent Brockman,Springfield Dog Park,"No, no, Jessica's been fixed. She just needs a little attention."
+39089,173,109,681000,C. Montgomery Burns,Springfield Dog Park,"Why that canine has the proud bearing and glossy fur coat of a Yale man. Hello, little fella."
+39090,173,110,690000,C. Montgomery Burns,Springfield Dog Park,"Smithers, I believe this dog was in Skull and Bones."
+39091,173,111,694000,Otto Mann,Springfield Dog Park,Whoa! Cool dog. Can he catch a frisbee?
+39093,173,113,705000,Milhouse Van Houten,Springfield Dog Park,"Boy, Bart. Laddie's the best dog in the world. He's nothing like your old dog."
+39094,173,114,710000,Bart Simpson,Springfield Dog Park,Santa's Little Helper? I guess I was the only one who loved him.
+39095,173,115,714000,Milhouse Van Houten,Springfield Dog Park,"You got that right. Remember the time he ate my goldfish and you lied to me and said I never had any goldfish? But why'd I have the bowl, Bart? Why did I have the bowl?"
+39096,173,116,725000,Bart Simpson,Springfield Dog Park,"Yeah, he was a great dog."
+39098,173,118,733000,Bart Simpson,Simpson Home,"Oh, Santa's Little Helper, I was crazy to give you up for another dog. What have I done to you?"
+39099,173,119,742000,Heiress,Simpson Home,"Captain, can't we go any faster? I greatly fear we shan't be in Wimbledon by noonfall."
+39100,173,120,747000,Captain,Simpson Home,"No worries, madam."
+39101,173,121,749000,Captain,Simpson Home,"Lumley, shovel on more dogs, won't you?"
+39102,173,122,752000,Lumley,Simpson Home,Aye-aye. More dogs!
+39103,173,123,755000,Distant Voice,Simpson Home,More dogs!
+39104,173,124,759000,FIRE-STOKER,Simpson Home,In you go...
+39105,173,125,763000,Bart Simpson,Simpson Home,"Nah, that's not too likely."
+39106,173,126,765000,Bart Simpson,Simpson Home,"But still... you're gone. Oh, where are you, boy?"
+39107,173,127,777000,Bart Simpson,Simpson Home,"""Time for a walk."" Again? We gotta find out where he's keeping these."
+39108,173,128,782000,Homer Simpson,Simpson Home,"I'd take him, but those cards are non-transferable."
+39110,173,130,791000,Voice,Springfield,Help! Help!
+39111,173,131,797000,Bart Simpson,Springfield,"Now what?! C'mon, I wanna go home."
+39113,173,133,803000,Mayor Joe Quimby,Springfield Town Hall,"So Laddie, thank you for your heroic rescue, and Baby Gerald, we can't help but wonder what mischief you'll get into next."
+39114,173,134,815000,Bart Simpson,Springfield Town Hall,Now can we go home?
+39115,173,135,817000,Chief Wiggum,Springfield Town Hall,"Laddie saved the day, Simpson. Boy, we sure could use a dog like that on the force."
+39116,173,136,823000,Bart Simpson,Springfield Town Hall,"Why don't you guys take him. I thought he was the right dog for me, but I guess I made a mistake."
+39117,173,137,828000,Chief Wiggum,Springfield Town Hall,"Really? No foolin'? Aw, gee, thanks, mister. We'll take real good care of him and we'll play with him every day. Honest!"
+39119,173,139,840000,Marge Simpson,Simpson Home,"Oh, Maggie, you got oatmeal all over. Homer, would you clean her off?"
+39120,173,140,844000,Homer Simpson,Simpson Home,Can do.
+39121,173,141,847000,Homer Simpson,Simpson Home,"Laddie! C'mere, boy! Who want to lick a messy baby?"
+39122,173,142,854000,Homer Simpson,Simpson Home,Laddie?
+39123,173,143,855000,Bart Simpson,Simpson Home,"Uh, Dad? Laddie's not coming. I gave him away."
+39124,173,144,860000,Marge Simpson,Simpson Home,"What's the matter, Bart? Weren't you happy with him?"
+39125,173,145,862000,Bart Simpson,Simpson Home,No. He just wasn't the right dog for me. I'm sure he'll be happy as a police dog.
+39126,173,146,867000,Homer Simpson,Simpson Home,He better know how to keep his mouth shut.
+39127,173,147,869000,Marge Simpson,Simpson Home,"Well, if that's what you think is best, let's just go down to the kennel and get Santa's Little Helper back."
+39128,173,148,875000,Bart Simpson,Simpson Home,"We can't. He's not in a kennel. I gave him away, too, and I don't know where he is."
+39129,173,149,883000,Homer Simpson,Simpson Home,You gave both dogs away?! You know how I feel about giving!
+39130,173,150,887000,Bart Simpson,Simpson Home,"I'm sorry, I know it's wrong. I messed everything up and now I don't have any dogs at all."
+39131,173,151,892000,Homer Simpson,Simpson Home,"There, there, shut up, boy. We'll just get you a new dog."
+39132,173,152,897000,Bart Simpson,Simpson Home,I don't want a new dog. I want Santa's Little Helper.
+39133,173,153,901000,Homer Simpson,Simpson Home,"Well, crying isn't going to bring him back, unless your tears smell like dog food. So you can either sit there, crying and eating can after can of dog food until your tears smell enough like dog food to make your dog come back, or you can go out there and find your dog!"
+39134,173,154,917000,Bart Simpson,Simpson Home,You're right. I'll do it.
+39136,173,155,921000,Homer Simpson,Simpson Home,Rats. I almost had him eating dog food.
+39137,173,156,926000,Bart Simpson,Simpson Home,I'm going to get the dog back.
+39138,173,157,928000,Homer Simpson,Simpson Home,The bad dog or the good dog?
+39139,173,158,929000,Bart Simpson,Simpson Home,The bad dog.
+39140,173,159,931000,Homer Simpson,Simpson Home,Oh good.
+39142,173,161,938000,Moe Szyslak,Repo Depot,You gotta give me back my floor!
+39143,173,162,939000,Moe Szyslak,Repo Depot,My customers are walking around on the pipes.
+39144,173,163,942000,Tommy,Repo Depot,"Hey, next time pay your bills."
+39145,173,164,944000,Moe Szyslak,Repo Depot,But I don't want to!
+39146,173,165,946000,Bart Simpson,Repo Depot,"Excuse me, sir. Did you repossess this dog from a guy named Santos L. Halper?"
+39147,173,166,950000,Tommy,Repo Depot,"Hmm... yeah, yeah, I remember this mutt. We, uh, sold him to some guy wearing a dress."
+39148,173,167,957000,Patty Bouvier,Repo Depot,"No, I didn't buy your dog. Now I gotta go keep an eye on Selma -- she thinks she swallowed a Band-Aid."
+39150,173,169,967000,Groundskeeper Willie,Groundskeeper Willie's Shack,"Yeah, I bought yer mutt. And I ate him."
+39152,173,171,972000,Groundskeeper Willie,Groundskeeper Willie's Shack,"Yeah, I ate his little face. I ate his guts. And I ate the way he's always barking... so I gave him to the church."
+39153,173,172,982000,Bart Simpson,Groundskeeper Willie's Shack,"Oh, I see. You hate him, so you gave him to the church."
+39154,173,173,986000,Groundskeeper Willie,Groundskeeper Willie's Shack,Aye. I also ate the mess he left on me rug. You heard me.
+39157,173,176,993000,Rev. Timothy Lovejoy,First Church of Springfield,"Mmm, yes, I remember ""Satan's Little Helper"" -- littering the rectory with his dirt, biting me in the apse..."
+39158,173,177,1000000,Agnes Skinner,First Church of Springfield,He unholied the Holy Water!
+39159,173,178,1002000,Bart Simpson,First Church of Springfield,That's him all right. I'll be happy to take him off your hands.
+39160,173,179,1005000,Rev. Timothy Lovejoy,First Church of Springfield,"Oh, I'm afraid that's impossible, Bart. He's no longer among us."
+39161,173,180,1009000,Bart Simpson,First Church of Springfield,You didn't crucify him?
+39162,173,181,1014000,Rev. Timothy Lovejoy,First Church of Springfield,"No, he's safely with one of our parishioners. I'll give you his address if you like."
+39163,173,182,1019000,Agnes Skinner,First Church of Springfield,"And then buy something, or get out. Angel."
+39165,173,184,1029000,Bart Simpson,MODEST SPRINGFIELD HOUSE,"Hey, it's him! It's Santa's Little Helper!"
+39166,173,185,1038000,Mitchell,MODEST SPRINGFIELD HOUSE,Yes?
+39167,173,186,1040000,Bart Simpson,MODEST SPRINGFIELD HOUSE,My name is Bart Simpson. I have to talk to you about your dog.
+39168,173,187,1043000,Mitchell,MODEST SPRINGFIELD HOUSE,Give me one minute.
+39169,173,188,1045000,Bart Simpson,MODEST SPRINGFIELD HOUSE,"Okay, showtime!"
+39170,173,189,1050000,Bart Simpson,MODEST SPRINGFIELD HOUSE,"""Please, mister... "" No, let me do that again. ""Please, mister... please?!"""
+39171,173,190,1059000,Mitchell,MODEST SPRINGFIELD HOUSE,Hi there. How can I help you?
+39172,173,191,1060000,Bart Simpson,MODEST SPRINGFIELD HOUSE,You're the guy who owns the dog?
+39173,173,192,1062000,Mitchell,MODEST SPRINGFIELD HOUSE,"Yup, his name is Sprinkles!"
+39174,173,193,1064000,Bart Simpson,MODEST SPRINGFIELD HOUSE,Sprinkles?!
+39175,173,194,1065000,Mitchell,MODEST SPRINGFIELD HOUSE,"Yeah, he's my best buddy. Huh? Especially since my parrot decided to stop talking."
+39176,173,195,1069000,Mitchell,MODEST SPRINGFIELD HOUSE,"Polly, wanna say ""Hi"" to our guest? Huh? Fine, be that way. Now, what can I do ya for, son?"
+39177,173,196,1077000,Bart Simpson,MODEST SPRINGFIELD HOUSE,"Oh, nothin'. Forget it."
+39179,173,198,1084000,Bart Simpson,Simpson Home,... So that's my plan. I'm gonna break into the blind man's yard and swipe the dog.
+39180,173,199,1089000,Lisa Simpson,Simpson Home,"Bart, that is a new low."
+39181,173,200,1092000,Bart Simpson,Simpson Home,"Hey, I'm not saying it's gonna be a dance around the maypole."
+39182,173,201,1094000,Lisa Simpson,Simpson Home,"Well, I won't tell Mom and Dad, but only because I want the dog back. Just try not to freak out the blind man."
+39183,173,202,1100000,Bart Simpson,Simpson Home,I can't promise I'll try. But I'll try to try.
+39185,173,204,1108000,Bart Simpson,MITCHELL'S HOUSE,"Here, boy! Come on!"
+39188,173,207,1124000,Bart Simpson,MITCHELL'S HOUSE,Psst!
+39189,173,208,1127000,Bart Simpson,MITCHELL'S HOUSE,"Oh, I missed you so much, boy! C'mon, let's get outta here! Now keep quiet, okay?"
+39191,173,210,1135000,Mitchell,MITCHELL'S HOUSE,Sprinkles?! Is there somebody down there?!
+39192,173,211,1137000,Bart Simpson,MITCHELL'S HOUSE,"C'mon, boy. Let's blow."
+39193,173,212,1140000,Mitchell,MITCHELL'S HOUSE,Who's there?! I can take you on!! You wanna try me? Come on!!
+39194,173,213,1147000,Mitchell,MITCHELL'S HOUSE,"Where is he, Sprinkles? Let's get him!"
+39195,173,214,1150000,Mitchell,MITCHELL'S HOUSE,"No, not the piano! I can't play now!"
+39196,173,215,1157000,Mitchell,MITCHELL'S HOUSE,"I may be blind, but you just ran into a closet!"
+39198,173,217,1165000,Mitchell,MITCHELL'S HOUSE,Heh heh.
+39200,173,218,1167000,Mitchell,MITCHELL'S HOUSE,"Hey, burglar! I hope you're having a good time in there, 'cause the police will be here any minute!"
+39201,173,219,1172000,Bart Simpson,MITCHELL'S HOUSE,"No, mister! Please, I'm just a kid. I... I only came to get my dog back."
+39202,173,220,1179000,Mitchell,MITCHELL'S HOUSE,Your dog?
+39203,173,221,1182000,Bart Simpson,MITCHELL'S HOUSE,...and I miss him so much and I know you like him but I like him too and he was mine first and I know I don't deserve him but...
+39204,173,222,1188000,Mitchell,MITCHELL'S HOUSE,So what this comes down to is: you want a blind man to give up his only companion.
+39205,173,223,1193000,Bart Simpson,MITCHELL'S HOUSE,"Yes, please."
+39206,173,224,1197000,Mitchell,MITCHELL'S HOUSE,Tell ya what. Why don't we let the dog decide?
+39207,173,225,1201000,Mitchell,MITCHELL'S HOUSE,"C'mon, Sprinkles! Here, Sprinkles!"
+39208,173,226,1202000,Bart Simpson,MITCHELL'S HOUSE,"C'mon, Santa's Little Helper! I'm sorry I ever let you go! Pick me! Please pick me!"
+39209,173,227,1218000,Bart Simpson,MITCHELL'S HOUSE,"Attaboy! I knew you'd come! Gimme a kiss! Oh, yeah!"
+39210,173,228,1225000,Mitchell,MITCHELL'S HOUSE,Sounds like you won. Congratulations.
+39211,173,229,1229000,Bart Simpson,MITCHELL'S HOUSE,"Oh geez, I'm sorry. I wish there was some way we could both have a dog."
+39212,173,230,1238000,Chief Wiggum,MITCHELL'S HOUSE,"Hello... Police... Aw, man, if this one's not the right house, I quit."
+39213,173,231,1244000,Mitchell,MITCHELL'S HOUSE,"It's okay, Officer. False alarm."
+39214,173,232,1251000,Mitchell,MITCHELL'S HOUSE,"Hey, who's that? I like you, too!"
+39215,173,233,1255000,Chief Wiggum,MITCHELL'S HOUSE,"Well, looks like somebody's made a new best friend."
+39216,173,234,1259000,Mitchell,MITCHELL'S HOUSE,"Okay, boy, that's enough... That's not for doggies..."
+39217,173,235,1268000,Lou,MITCHELL'S HOUSE,Marijuana!
+39218,173,236,1271000,Chief Wiggum,MITCHELL'S HOUSE,"Well! I guess he didn't like you after all. He just smelled your narcotics! Book 'em, boys."
+39219,173,237,1277000,Eddie,MITCHELL'S HOUSE,"Hold on, Chief. It might be medicinal."
+39220,173,238,1280000,Mitchell,MITCHELL'S HOUSE,"Yeah... medicinal! Without it, I could, uh, go even blinder! Right?"
+39221,173,239,1289000,Chief Wiggum,MITCHELL'S HOUSE,"Eh, this might take awhile, kid. Why don't you and your buddy run along?"
+39222,173,240,1293000,Bart Simpson,MITCHELL'S HOUSE,"Bye, Laddie."
+39224,173,242,1294000,Bart Simpson,Street In Front Of Mitchell's House,"Come on, boy, let's go home and have some fun. That cat's been strutting around like she owns the place..."
+39225,173,243,1307000,Chief Wiggum,Street In Front Of Mitchell's House,"Hey, hey, Lou! Don't bogart that medicine!"
+39226,173,244,1309000,Lou,Street In Front Of Mitchell's House,"Hey, hey everybody. How you doin'? Hey! What's up here?"
+39135,173,245,1314000,Chief Wiggum,Street In Front Of Mitchell's House,I love this song.
+39199,173,246,1314000,Lou,Street In Front Of Mitchell's House,Hey Chief.
+39227,173,247,1316000,Chief Wiggum,Street In Front Of Mitchell's House,Shut up! I love this song.
+39228,173,248,1318000,Lou,Street In Front Of Mitchell's House,Ooh yeah.

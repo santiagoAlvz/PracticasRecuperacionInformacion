@@ -1,0 +1,256 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+153325,16,2,48000,Homer Simpson,House,Oooo! What a haul this year. I love Halloween.
+153326,16,3,75000,Homer Simpson,House,Wait a minute. Let's see what the kids are up to.
+153327,16,4,79000,Lisa Simpson,House,"... and the policeman on the other end of the phone said, ""We have traced the call. It's coming from the floor below you. Get out of the house!"" But it was too late. End of story."
+153328,16,5,91000,Bart Simpson,House,Yawn. I heard that when I was in the third grade. It's not scary.
+153329,16,6,95000,Lisa Simpson,House,Is too.
+153330,16,7,95000,Bart Simpson,House,Is not.
+153331,16,8,96000,Lisa Simpson,House,Is too.
+153332,16,9,97000,Bart Simpson,House,Is not.
+153333,16,10,97000,Lisa Simpson,House,Is too.
+153334,16,11,98000,Bart Simpson,House,Is not.
+153335,16,12,98000,Lisa Simpson,House,Fine. Then you tell one scarier.
+153336,16,13,100000,Bart Simpson,House,"Flashlight, please."
+153337,16,14,103000,Bart Simpson,House,Here's a story that's really scarifying.
+153338,16,15,107000,Lisa Simpson,House,"Oh, brother."
+153339,16,16,109000,Bart Simpson,House,"I call it ""Bad Dream House."""
+153342,16,19,118000,Moving Man,Living Room Of House,That's all of it. Sign here.
+153343,16,20,120000,Homer Simpson,Living Room Of House,"There you are, my man. And a dollar for yourself."
+153344,16,21,124000,Moving Man,Living Room Of House,A buck! I'm glad there's a curse on this place.
+153345,16,22,129000,Homer Simpson,Living Room Of House,Huh? Well... it's all ours!
+153346,16,23,131000,Marge Simpson,Living Room Of House,I still can't believe how inexpensive it was.
+153347,16,24,134000,Homer Simpson,Living Room Of House,"Motivated seller, Marge."
+153348,16,25,135000,Marge Simpson,Living Room Of House,"Well, he certainly must have been motivated. Prime location, eighteen bedrooms, moat... we shouldn't be able to afford this."
+153349,16,26,142000,Homer Simpson,Living Room Of House,So we got a good deal for once. Quit fighting it.
+153350,16,27,146000,Marge Simpson,Living Room Of House,It just seems too good to be true.
+153351,16,28,149000,Lisa Simpson,Living Room Of House,Ow! Mom! Bart threw a book at me.
+153352,16,29,151000,Bart Simpson,Living Room Of House,Did not.
+153353,16,30,152000,Lisa Simpson,Living Room Of House,Did too.
+153354,16,31,153000,Bart Simpson,Living Room Of House,Did not.
+153355,16,32,153000,Lisa Simpson,Living Room Of House,Did too.
+153356,16,33,154000,House,Living Room Of House,Get out!
+153357,16,34,156000,Marge Simpson,Living Room Of House,What on earth was that?
+153358,16,35,159000,Homer Simpson,Living Room Of House,Probably just the house settling.
+153361,16,38,164000,Marge Simpson,KITCHEN,Hmmm. This kitchen certainly could use a woman's touch.
+153362,16,39,172000,Marge Simpson,KITCHEN,Homer! What's this thing in the corner?
+153363,16,40,173000,Homer Simpson,KITCHEN,I don't know.
+153364,16,41,175000,Lisa Simpson,KITCHEN,It looks like a vortex -- a gateway into another dimension.
+153365,16,42,180000,Homer Simpson,KITCHEN,"Ooh, a vortex."
+153366,16,43,182000,Homer Simpson,KITCHEN,Catch.
+153367,16,44,187000,Homer Simpson,KITCHEN,Hey! Pretty slick!
+153368,16,45,193000,Lisa Simpson,KITCHEN,Quit throwing your garbage into our dimension.
+153369,16,46,193000,Bart Simpson,KITCHEN,Mom! Dad! Help!
+153371,16,48,202000,House,LIVING ROOM,Get... Out!!!
+153372,16,49,204000,Homer Simpson,LIVING ROOM,"Okay boy, let's see you talk yourself out of this one."
+153373,16,50,209000,Lisa Simpson,LIVING ROOM,I can feel an evil presence in this house.
+153374,16,51,212000,Marge Simpson,LIVING ROOM,Evil!
+153375,16,52,213000,Homer Simpson,LIVING ROOM,"Quiet, Lisa. You're scaring your mother."
+153376,16,53,215000,Marge Simpson,LIVING ROOM,"Children, get your coats. We're leaving this house right now."
+153377,16,54,218000,Homer Simpson,LIVING ROOM,"Now wait a minute, Marge. It's only natural there would be some things wrong with an old house like this. It's a fixer-upper. What's the problem? we get a bunch of priests in here..."
+153378,16,55,229000,Marge Simpson,LIVING ROOM,I'm not going to live in a house of evil just to save a few dollars.
+153379,16,56,233000,Homer Simpson,LIVING ROOM,Don't be so stubborn! We're not talking about a few dollars! We're talking about a few thousand dollars!
+153380,16,57,243000,Homer Simpson,LIVING ROOM,It's got great high ceilings.
+153381,16,58,249000,Homer Simpson,LIVING ROOM,Tell you what -- let's sleep on it. Okay?
+153382,16,59,253000,Marge Simpson,LIVING ROOM,All right. But if anything happens...
+153383,16,60,255000,Homer Simpson,LIVING ROOM,What could happen?
+153386,16,63,262000,House,Bart's Bedroom,"They are all against you, Bart. You must kill them all. They all must die."
+153387,16,64,271000,Bart Simpson,Bart's Bedroom,Are you my conscience?
+153388,16,65,273000,House,Bart's Bedroom,"I... yes, I am."
+153390,16,67,277000,House,Lisa's Bedroom,"Liiii-saaa! Liii-saaa! The butcher knife, Lisa."
+153392,16,69,290000,Homer Simpson,UPSTAIRS HALLWAY,They are all against me! They all must die!
+153396,16,73,304000,Homer Simpson,LIVING ROOM,"Marge! Oh, Marge!"
+153397,16,74,307000,Marge Simpson,LIVING ROOM,"I'm in the kitchen, Homer!"
+153398,16,75,320000,House,LIVING ROOM,Die! Die! Everybody die!
+153400,16,77,331000,Marge Simpson,LIVING ROOM,What's going on out here? Homer! Bart! Lisa! Maggie! Stop it!
+153401,16,78,336000,Lisa Simpson,LIVING ROOM,"Sorry... Sorry Bart. sorry, mom... sorry Maggie... sorry Lisa."
+153402,16,79,336000,Lisa Simpson,LIVING ROOM,That's okay.
+153403,16,80,339000,Marge Simpson,LIVING ROOM,"That does it. Children, get dressed. We're leaving."
+153404,16,81,341000,Homer Simpson,LIVING ROOM,"Aw, come on, Marge. You said you'd sleep on it."
+153405,16,82,343000,Marge Simpson,LIVING ROOM,"I don't care what I said. This family has had its differences, and we've squabbled, but we never had knife fights before... and I blame this house."
+153406,16,83,351000,Lisa Simpson,LIVING ROOM,Mom! Dad! Look!
+153407,16,84,354000,Lisa Simpson,LIVING ROOM,It's an ancient Indian burial ground.
+153408,16,85,357000,Bart Simpson,LIVING ROOM,"Man, this place has got everything!"
+153409,16,86,361000,Homer Simpson,LIVING ROOM,An ancient Indian what...?
+153410,16,87,366000,Homer Simpson,LIVING ROOM,"Mr. Ploot? Homer Simpson here. When you sold me this house you forgot to mention one little thing. You didn't tell me it was built on an Indian burial ground. No you didn't! Well, that's not my recollection... Yeah! Well... all right, goodbye. He says he mentioned it five or six times."
+153411,16,88,391000,Marge Simpson,LIVING ROOM,"Let's go, children."
+153412,16,89,392000,Homer Simpson,LIVING ROOM,"Aw, gee, Marge."
+153413,16,90,393000,Marge Simpson,LIVING ROOM,Homer...
+153416,16,91,394000,House,LIVING ROOM,"You will die, you will die slowly. Your stomach will swell, your intestines will writhe and boil, your eyes will burst; and some horrible stuff, possibly your brains, will start coming out through your nose..."
+153417,16,92,414000,Marge Simpson,LIVING ROOM,Shush! Shut up! Quit trying to push us around. Stop saying those horrible things and show some manners.
+153419,16,94,428000,Marge Simpson,LIVING ROOM,Look at me. I've never been so angry. My hands are shaking.
+153420,16,95,432000,Homer Simpson,LIVING ROOM,Better than your eyes bursting. Ewww!
+153421,16,96,434000,Bart Simpson,LIVING ROOM,Do it again.
+153422,16,97,434000,House,LIVING ROOM,What?
+153423,16,98,436000,Bart Simpson,LIVING ROOM,Make the walls bleed.
+153424,16,99,437000,House,LIVING ROOM,No.
+153425,16,100,438000,Bart Simpson,LIVING ROOM,"Hey, man. We own you. Let's see some blood."
+153426,16,101,441000,House,LIVING ROOM,I don't have to entertain you.
+153427,16,102,443000,Bart Simpson,LIVING ROOM,"Come on man, do it! Do the blood thing! Come on, do it! Do it! Do it! Do it! Do it! Do it! Do it!"
+153428,16,103,446000,Lisa Simpson,LIVING ROOM,Why are you trying to scare us? Are you trying to keep us from getting close to you... maybe even loving you?
+153429,16,104,453000,House,LIVING ROOM,Leave me alone.
+153430,16,105,454000,Marge Simpson,LIVING ROOM,Don't talk to her like that.
+153431,16,106,456000,House,LIVING ROOM,"Hey, listen lady..."
+153432,16,107,457000,Marge Simpson,LIVING ROOM,"Oh, don't call me lady. My name is Marge Simpson, this is my family and we're not going anywhere. We're all going to have to live together, so you better get used to it... please."
+153433,16,108,469000,House,LIVING ROOM,Can I have a minute to think about this?
+153434,16,109,472000,Marge Simpson,LIVING ROOM,Sure.
+153436,16,111,477000,House,Simpson Home,Hmmm. Life with the Simpsons. What choice do I have.
+153437,16,112,489000,Homer Simpson,Simpson Home,Wow!
+153438,16,113,490000,Bart Simpson,Simpson Home,Bitchin'!
+153439,16,114,492000,Lisa Simpson,Simpson Home,It chose to destroy itself rather than live with us. You can't help but feel a little rejected.
+153441,16,116,504000,Lisa Simpson,Bart's Treehouse,"That wasn't scary at all, Bart."
+153442,16,117,505000,Bart Simpson,Bart's Treehouse,"Oh, yeah? Well how about... this severed finger!"
+153443,16,118,512000,Bart Simpson,Bart's Treehouse,"Eww, baby spit."
+153444,16,119,515000,Lisa Simpson,Bart's Treehouse,Heh... heh... heh.
+153445,16,120,515000,Bart Simpson,Bart's Treehouse,"Well that last story was just a warm-up for this macabre tale, which I call, ""Hungry Are The Damned."""
+153447,16,122,527000,Marge Simpson,Simpson Backyard,"Homer, all these flies."
+153414,16,123,529000,Homer Simpson,Simpson Backyard,Not to worry. I'll just turn on the trusty bug zapper.
+153448,16,124,536000,Homer Simpson,Simpson Backyard,"Oooo! That was a big mama. Heh, heh, heh."
+153449,16,125,554000,Homer Simpson,Simpson Backyard,"That should just about do it. Man alive, there's nothing better than a hamburger grilled to perfection..."
+153450,16,126,562000,Bart Simpson,Simpson Backyard,Cool man!
+153451,16,127,577000,Homer Simpson,Simpson Backyard,"The burgers are getting cold, guys. Holy moly."
+153453,16,129,616000,Kang,Spacecraft,"Greetings Earthlings, I am Kang. Do not be frightened. We mean you no harm."
+153454,16,130,623000,Marge Simpson,Spacecraft,You... you speak English.
+153455,16,131,625000,Kang,Spacecraft,"I am actually speaking Rigelian. By an astonishing coincidence, both of our languages are exactly the same."
+153456,16,132,631000,Bart Simpson,Spacecraft,"Well, what are you gonna do with us, man?"
+153457,16,133,633000,Kang,Spacecraft,Kodos and I are taking you to Rigel Four. A world of infinite delights to tantalize your senses and challenge your intellectual limitations...
+153458,16,134,643000,Lisa Simpson,Spacecraft,"Look, I know that to you we Simpsons are a lower order of life. We face that prejudice every day of our lives, but we are happy on our little planet. We throw ourselves on your mercy. Please return us to..."
+153459,16,135,655000,Serak The Preparer,Spacecraft,Dinnertime.
+153460,16,136,656000,Homer Simpson,Spacecraft,Hey! Get a load of that spread.
+153461,16,137,658000,Serak The Preparer,Spacecraft,"Here you go, earthlings. Take all you want. Eat all you take."
+153462,16,138,661000,Marge Simpson,Spacecraft,"Well, thank you very much, Mr....?"
+153463,16,139,664000,Serak The Preparer,Spacecraft,"To pronouce it correctly, I would have to pull out your tongue."
+153464,16,140,669000,Marge Simpson,Spacecraft,Ewww.
+153465,16,141,672000,Lisa Simpson,Spacecraft,Fried shrimp.
+153466,16,142,673000,Bart Simpson,Spacecraft,Sloppy Joes!
+153467,16,143,674000,Homer Simpson,Spacecraft,Smothered pork chops.
+153468,16,144,676000,Marge Simpson,Spacecraft,"Look, Homer! Radish rosettes. These are hard to make. They are a very advanced race."
+153469,16,145,682000,Kang,Spacecraft,"Come Earthlings, eat. Grow large with food."
+153470,16,146,689000,Lisa Simpson,Spacecraft,There's something not quite right about this.
+153471,16,147,692000,Homer Simpson,Spacecraft,The girl's right. Let's get some applesauce out here for these pork chops.
+153472,16,148,697000,Homer Simpson,Spacecraft,"What are you lookin' at, buddy?"
+153473,16,149,699000,Serak The Preparer,Spacecraft,Your wife is quite a... dish.
+153474,16,150,702000,Homer Simpson,Spacecraft,"Oooh, thanks."
+153475,16,151,704000,Kang,Spacecraft,It's our great pleasure to provide you with unlimited entertainment on your intergalactic journey. On this cable system we receive over one million channels from the furthest reaches of the galaxy.
+153415,16,152,716000,Bart Simpson,Spacecraft,Do you get HBO?
+153476,16,153,717000,Kang,Spacecraft,"No, that would cost extra."
+153477,16,154,719000,Kang,Spacecraft,And over here is our crowning achievement in amusement technology. An electronic version of what you call table tennis. Your primitive paddles have been replaced by an electronic...
+153478,16,155,728000,Bart Simpson,Spacecraft,"Hey, that's just Pong!"
+153479,16,156,729000,Bart Simpson,Spacecraft,"Get with the times, man."
+153480,16,157,731000,Homer Simpson,Spacecraft,Marge and I played that old game before we were married.
+153481,16,158,734000,Kang,Spacecraft,"Well, we did build this space ship, you know?"
+153482,16,159,736000,Kodos,Spacecraft,"Anyone from a species that has mastered intergalactic travel, raise your hand."
+153483,16,160,746000,Kodos,Spacecraft,"All right, then."
+153484,16,161,748000,Marge Simpson,Spacecraft,Sorry. Your game is very nice.
+153485,16,162,753000,Kodos,Spacecraft,Dinner time.
+153486,16,163,755000,Lisa Simpson,Spacecraft,"Hey, how come we never see you guys eat?"
+153487,16,164,757000,Kang,Spacecraft,"Oh, we wouldn't want to spoil our appetite for... the great feast when we land on Rigel Four."
+153488,16,165,766000,Homer Simpson,Spacecraft,"Oooh, a feast."
+153489,16,166,767000,Marge Simpson,Spacecraft,Will we be invited?
+153490,16,167,769000,Kang,Spacecraft,"Oh, you'll be at the feast. I have a feeling you'll be the guests of honor."
+153491,16,168,778000,Homer Simpson,Spacecraft,Tell us more about this feast.
+153492,16,169,779000,Kang,Spacecraft,"No, no, eat now."
+153493,16,170,782000,Serak The Preparer,Spacecraft,"When we arrive, there will be plenty of time to chew the fat."
+153495,16,172,793000,Kang,Space Ship,"Very good, earth boy."
+153496,16,173,801000,Kang,Space Ship,"Excellent, Mr. Simpson. Excellent."
+153498,16,175,815000,Serak The Preparer,SPACESHIP GALLEY,This will give the humans the perfect flavor.
+153500,16,177,832000,Lisa Simpson,Space Ship,Stop!
+153501,16,178,832000,Lisa Simpson,Space Ship,Don't you see what's happening here? They're fattening us up so they can eat us.
+153502,16,179,840000,Lisa Simpson,Space Ship,"If you don't believe me, look at this book I found."
+153503,16,180,845000,Homer Simpson,Space Ship,"Marge, she's right."
+153504,16,181,847000,Kang,Space Ship,"Humans, you have stopped eating."
+153505,16,182,848000,Homer Simpson,Space Ship,"Listen, you big stupid space creature. Nobody, but nobody eats the Simpsons."
+153506,16,183,855000,Kang,Space Ship,I beg your pardon.
+153507,16,184,855000,Homer Simpson,Space Ship,Don't play dumb with me. We found your book.
+153508,16,185,858000,Kang,Space Ship,You mean this? It's a harmless cookbook. It's just a little dusty.
+153509,16,186,870000,Lisa Simpson,Space Ship,Wait a minute!
+149698,16,187,874000,Lisa Simpson,Space Ship,Aha!
+153510,16,188,876000,Kang,Space Ship,"Wait, there's still more space dust on here."
+153511,16,189,882000,Kang,Space Ship,Let me get this straight. You thought...
+153512,16,190,885000,Kodos,Space Ship,They thought we were going to eat them.
+153513,16,191,888000,Kang,Space Ship,Good God! Is this some kind of joke?
+153514,16,192,890000,Kodos,Space Ship,"No, they're serious..."
+153515,16,193,893000,Lisa Simpson,Space Ship,"Well, why were you trying to make us eat all the time?"
+153516,16,194,895000,Kang,Space Ship,"Make you eat? We merely provided a sumptuous banquet and, frankly, you people made pigs of yourselves."
+153517,16,195,902000,Serak The Preparer,Space Ship,I slaved in the kitchen for days for you people and...
+153518,16,196,907000,Kang,Space Ship,"Well, if you wanted to make Serak the Preparer cry, mission accomplished."
+153519,16,197,912000,Serak The Preparer,Space Ship,You aren't the only beings who have emotions you know.
+153521,16,199,923000,Kang,Simpson Home,"We offered you paradise. You would have experienced emotions a hundred times greater than what you call love, and a thousand times greater than what you call fun. You would have been treated like gods and lived forever in beauty. But, now because of your distrustful nature, that can never be."
+153522,16,200,943000,Marge Simpson,Simpson Home,"For a superior race, they really rub it in."
+153523,16,201,950000,Lisa Simpson,Simpson Home,There were monsters on that ship. And truly we were them.
+153524,16,202,955000,Marge Simpson,Simpson Home,"Lisa, see what we mean when we say you're too smart for your own good?"
+153525,16,203,955000,Bart Simpson,Simpson Home,"Way to go, Lis."
+153526,16,204,960000,Homer Simpson,Simpson Home,"Yeah, thanks Lisa."
+153528,16,206,967000,Bart Simpson,Bart's Treehouse,"Hello, something scary happening."
+153529,16,207,973000,Bart Simpson,Bart's Treehouse,"Hey, Poindexter. It's Halloween, put the book away."
+153530,16,208,977000,Lisa Simpson,Bart's Treehouse,"For your information, I'm about to read you a classic tale of terror by Edgar Allan Poe."
+153531,16,209,984000,Bart Simpson,Bart's Treehouse,Wait a minute. That's a schoolbook.
+153532,16,210,986000,Lisa Simpson,Bart's Treehouse,"Don't worry, Bart. You won't learn anything."
+153533,16,211,989000,Lisa Simpson,Bart's Treehouse,"It's called, ""The Raven."""
+153535,16,213,992000,Lisa Simpson,CHAMBER,"Once upon a midnight dreary,"
+153536,16,214,992000,Lisa Simpson,CHAMBER,"while I pondered, weak and weary,"
+153537,16,215,992000,V.O.,CHAMBER,"Over many a quaint and curious volume of forgotten lore -- While I nodded, nearly napping, suddenly there came a tapping,"
+153538,16,216,1002000,Homer Simpson,CHAMBER,Huh?
+153540,16,217,1002000,V.O.,CHAMBER,"As of someone gently rapping, rapping at my chamber door."
+153541,16,218,1009000,Homer Simpson,CHAMBER,"'Tis some visitor,"
+153542,16,219,1009000,V.O.,CHAMBER,"I muttered,"
+153543,16,220,1009000,Homer Simpson,CHAMBER,-- tapping at my chamber door -- Only this and nothing more.
+153544,16,221,1009000,Bart Simpson,CHAMBER,Are we scared yet?
+153545,16,222,1019000,Lisa Simpson,CHAMBER,"Bart, he's establishing mood."
+153546,16,223,1022000,V.O.,CHAMBER,"Ah, distinctly I remember. It was in the bleak December, And each separate dying ember wrought its ghost upon the floor. Eagerly I wished the morrow; -- vainly I had sought to borrow from my books surcease of sorrow:"
+153547,16,224,1038000,V.O.,CHAMBER,-- sorrow for the lost Lenore --
+153548,16,225,1038000,Homer Simpson,CHAMBER,"Oh, Lenore."
+153549,16,226,1042000,V.O.,CHAMBER,For the rare and radiant maiden whom the angels name Lenore -- Nameless here for evermore.
+153550,16,227,1047000,Homer Simpson,CHAMBER,Aag!
+153551,16,228,1051000,V.O.,CHAMBER,"And the silken sad uncertain rustling of each purple curtain thrilled me -- filled me with fantastic terrors never felt before; So that now, to still the beating of my heart, I stood repeating;"
+153552,16,229,1055000,Homer Simpson,CHAMBER,'Tis some visitor entreating entrance at my chamber door -- This it is and nothing more.
+153553,16,230,1067000,V.O.,CHAMBER,Presently my soul grew stronger; hesitating then no longer;
+153554,16,231,1067000,Homer Simpson,CHAMBER,Sir --
+153555,16,232,1071000,V.O.,CHAMBER,-- said I --
+153556,16,233,1071000,Homer Simpson,CHAMBER,"-- or Madam, truly your forgiveness I implore; But the fact is I was napping, and so gently you came rapping, And so faintly you came tapping, tapping at my chamber door, That I scarce was sure I heard you."
+153557,16,234,1085000,V.O.,CHAMBER,Here I opened wide the door; --
+153558,16,235,1085000,Bart Simpson,CHAMBER,This better be good.
+153559,16,236,1090000,V.O.,CHAMBER,Darkness there and nothing more.
+153560,16,237,1094000,Bart Simpson,CHAMBER,You know what would have been scarier than nothing?
+153561,16,238,1096000,Lisa Simpson,CHAMBER,What?
+153562,16,239,1097000,Bart Simpson,CHAMBER,Anything!
+153563,16,240,1098000,V.O.,CHAMBER,"Back into the chamber turning, all my soul within me burning, Soon again I heard a tapping something louder than before."
+153564,16,241,1098000,Homer Simpson,CHAMBER,Surely --
+153565,16,242,1098000,V.O.,CHAMBER,-- said I --
+153566,16,243,1098000,Homer Simpson,CHAMBER,"-- surely that is something at my window lattice; Let me see, then, what thereat is, and this mystery explore --"
+153569,16,244,1115000,V.O.,CHAMBER,"Open here I flung the shutter, when, with many a flirt and flutter, In there stepped a stately Raven of the saintly days of yore. Not the least obeisance made he; not a minute stopped or stayed he, But, with mien of lord or lady, perched above my chamber door -- Perched upon a bust of Pallas just above my chamber door -- Perched, and sat, and nothing more."
+153570,16,245,1134000,Homer Simpson,CHAMBER,"Though thy crest be shorn and shaven, thou --"
+153571,16,246,1134000,V.O.,CHAMBER,I said --
+153572,16,247,1134000,Homer Simpson,CHAMBER,"-- art sure no craven, Ghastly grim and ancient Raven wandering from the Nightly shore -- Tell me... tell me what thy lordly name is on the Night's Plutonian shore!"
+153573,16,248,1149000,V.O.,CHAMBER,"Quoth the Raven,"
+153574,16,249,1149000,Bart Simpson,CHAMBER,Eat my shorts!
+153575,16,250,1152000,Lisa Simpson,CHAMBER,"Bart! Stop it. He says ""nevermore"". That's all he'll ever say."
+153576,16,251,1156000,Bart Simpson,CHAMBER,"Okay, okay."
+153577,16,252,1161000,V.O.,CHAMBER,"Then, methought, the air grew denser, perfumed by some unseen censer,"
+153578,16,253,1167000,Homer Simpson,CHAMBER,Ouch! Censer..
+153579,16,254,1168000,V.O.,CHAMBER,Swung by Seraphim whose foot-falls tinkled on the tufted floor.
+153580,16,255,1172000,Homer Simpson,CHAMBER,Wretch --
+153581,16,256,1173000,V.O.,CHAMBER,I cried --
+153582,16,257,1173000,Homer Simpson,CHAMBER,"-- thy God hath lent thee -- by these angels he hath sent thee. Respite and nepenthe from thy memories of Lenore! Quaff, oh quaff this kind nepenthe and forget this lost Lenore!"
+153583,16,258,1185000,V.O.,CHAMBER,"Quoth the Raven,"
+153584,16,259,1185000,Raven,CHAMBER,Nevermore.
+153585,16,260,1187000,Homer Simpson,CHAMBER,"Be that word our sign of parting, bird or fiend!"
+153586,16,261,1191000,V.O.,CHAMBER,"I shrieked of starting,"
+153587,16,262,1192000,Homer Simpson,CHAMBER,"Get thee back into the tempest and the Night's Plutonian shore! Oh, leave no black plume as a token of the lie thy soul hath spoken! Leave my loneliness unbroken! -- quit the bust above my door! Take thy beak from out my heart, and take thy form from off my door!"
+153588,16,263,1212000,V.O.,CHAMBER,"Quoth the Raven,"
+153589,16,264,1212000,Raven,CHAMBER,Nevermore.
+153590,16,265,1214000,Homer Simpson,CHAMBER,"Take thy beak from out my heart, and take thy form from off my door!"
+153591,16,266,1220000,V.O.,CHAMBER,"Quoth the Raven,"
+153592,16,267,1220000,Raven,CHAMBER,Nevermore.
+153593,16,268,1221000,Homer Simpson,CHAMBER,Why you little --!
+153594,16,269,1222000,Raven,CHAMBER,Uh-oh.
+153595,16,270,1225000,Homer Simpson,CHAMBER,"Come back here now, Raven"
+153596,16,271,1239000,Bart Simpson,CHAMBER,Nevermore. Nevermore. Nevermore. Nevermore. Nevermore.
+153598,16,272,1252000,V.O.,CHAMBER,"And the Raven, never flitting, still is sitting, still is sitting, On the pallid bust of Pallas just above my chamber door; And his eyes have all the seeming of a demon's that is dreaming, And the lamp-light o'er him streaming throws his shadow on the floor; And my soul from out that shadow that lies floating on the floor, Shall be lifted -- nevermore!"
+153600,16,274,1279000,Bart Simpson,Bart's Treehouse,"Lisa, that wasn't scary. Not even for a poem."
+153601,16,275,1284000,Lisa Simpson,Bart's Treehouse,"Well, it was written in 1845. Maybe people were easier to scare back then."
+153602,16,276,1288000,Bart Simpson,Bart's Treehouse,"Well yeah, like when you look at ""Friday The 13th, Part I,"" it's pretty tame by today's standards."
+153603,16,277,1294000,Marge Simpson,Bart's Treehouse,"Children, bedtime."
+153604,16,278,1296000,Bart Simpson,Bart's Treehouse,I guess I'll have no trouble gettin' to sleep tonight.
+153609,16,283,1316000,Homer Simpson,Marge & Homer's Room,"Oh no, Marge. Come on, please."
+153610,16,284,1320000,Marge Simpson,Marge & Homer's Room,"Homer, I am not sleeping with the lights on. They're just children's stories. They can't hurt you."
+153611,16,285,1334000,Homer Simpson,Marge & Homer's Room,"Oh... oh, I hate Halloween."

@@ -1,0 +1,228 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+139135,535,1,71000,Marge Simpson,Simpson Home,Come on! Just pick one!
+139136,535,2,81000,Marge Simpson,Simpson Home,Fine. You can have your old one!
+139137,535,3,92000,Marge Simpson,Simpson Home,You can have one of these!
+139138,535,4,97000,Lisa Simpson,Simpson Home,Did you know some historians think American football is based on an ancient Aztec game?
+139139,535,5,101000,Bart Simpson,Simpson Home,"It's not American football, it's just football!"
+139140,535,6,104000,Lisa Simpson,Simpson Home,"Bart, you're not annoyed that Milhouse asked me to go to the American football game instead of you?"
+139141,535,7,109000,Bart Simpson,Simpson Home,"Mom, Lisa's ruining football."
+139142,535,8,109000,Lisa Simpson,Simpson Home,American football.
+139143,535,9,112000,Homer Simpson,Simpson Home,"No time for breakfast, Marge. Just give me a banana."
+139144,535,10,119000,Homer Simpson,Simpson Home,"Now, listen... I have to work late tonight."
+139145,535,11,125000,Marge Simpson,Simpson Home,Again? I was hoping you could spend some time with the kids.
+139146,535,12,128000,Homer Simpson,Simpson Home,It's a tough economy. Money doesn't grow on trees.
+139148,535,14,132000,Homer Simpson,Carl's Apartment,It grows on threes!
+139149,535,15,136000,Carl Carlson,Carl's Apartment,"Eh, I'm out."
+139150,535,16,137000,Lenny Leonard,Carl's Apartment,Me too.
+139151,535,17,138000,Moe Szyslak,Carl's Apartment,Too rich for my blood. I should not have anted with my blood.
+139152,535,18,144000,Lenny Leonard,Carl's Apartment,"You've got the touch tonight, Homer."
+139153,535,19,148000,Homer Simpson,Carl's Apartment,"Nice sunglasses, Lenny."
+148610,535,20,150000,Homer's Brain,Carl's Apartment,"Homer Simpson! Do you really want to keep cheating your friends, lying to your wife, and avoiding your kids? What would Jesus do?"
+139154,535,21,158000,Jesus,Carl's Apartment,"You gotta pay to find out. You looking for a tell? I don't have one, my friend."
+139155,535,22,163000,Jesus,Carl's Apartment,What? What are you lookin' at?
+139156,535,23,166000,Homer Simpson,Carl's Apartment,"I'd better call it a night, guys. I don't want to take any more of your money."
+139157,535,24,175000,Homer Simpson,Carl's Apartment,"Who's president now, Alexander Hamilton?"
+139158,535,25,179000,Lenny Leonard,Carl's Apartment,I think it's Obama.
+139160,535,27,183000,GRETCHEN,CARL'S APARTMENT BUILDING,"Hold the door, please!"
+139161,535,28,185000,GRETCHEN,CARL'S APARTMENT BUILDING,Two minutes apart.
+139162,535,29,187000,Homer Simpson,CARL'S APARTMENT BUILDING,"Timing the elevators, eh? Smart."
+139163,535,30,190000,GRETCHEN,CARL'S APARTMENT BUILDING,"No, no. I'm timing my contractions. I think I'm in labor. Deep in labor."
+139164,535,31,196000,Homer Simpson,CARL'S APARTMENT BUILDING,"Okay, okay, no worries."
+139165,535,32,199000,Homer Simpson,CARL'S APARTMENT BUILDING,What the?
+139166,535,33,201000,GRETCHEN,CARL'S APARTMENT BUILDING,Do you have a cellphone?
+139167,535,34,203000,Homer Simpson,CARL'S APARTMENT BUILDING,Everyone has a cellphone. Mine's at home.
+139168,535,35,206000,GRETCHEN,CARL'S APARTMENT BUILDING,The most beautiful moment of my life is happening NOW!
+139169,535,36,211000,Homer Simpson,CARL'S APARTMENT BUILDING,"Everything will be fine... um... Oh you, uh, you like movies? This reminds me of that scene in ""Alien."""
+139170,535,37,215000,GRETCHEN,CARL'S APARTMENT BUILDING,What?!
+139171,535,38,218000,Homer Simpson,CARL'S APARTMENT BUILDING,The scene where she escapes with the cat at the end.
+139172,535,39,221000,GRETCHEN,CARL'S APARTMENT BUILDING,"Aw, that's sweet. Listen... I'm glad I'm not going through this alone. I haven't seen my boyfriend in months."
+139173,535,40,227000,Homer Simpson,CARL'S APARTMENT BUILDING,"Oh, he was just here."
+139174,535,41,230000,GRETCHEN,CARL'S APARTMENT BUILDING,No he wasn't. But thanks for lying.
+139175,535,42,233000,Homer Simpson,CARL'S APARTMENT BUILDING,You like lies? Here's a few: college is expensive but it's worth it...
+139176,535,43,238000,GRETCHEN,CARL'S APARTMENT BUILDING,I think the baby's coming!
+139177,535,44,239000,Homer Simpson,CARL'S APARTMENT BUILDING,"Okay Homer, remember your Lamaze training..."
+139178,535,45,242000,LAMAZE INSTRUCTOR,CARL'S APARTMENT BUILDING,"Now, this next position is fantastic for women who are carrying especially big. Homer, can you demonstrate?"
+139179,535,46,252000,Homer Simpson,CARL'S APARTMENT BUILDING,"Yeah, wow, that does feel good. Oh no, I think it's coming. I haven't even picked a name yet!"
+139180,535,47,260000,GRETCHEN,CARL'S APARTMENT BUILDING,You did this to me!
+139181,535,48,262000,Homer Simpson,CARL'S APARTMENT BUILDING,"No, I didn't!"
+139182,535,49,263000,GRETCHEN,CARL'S APARTMENT BUILDING,I'm talking to the baby. Here it comes!
+139183,535,50,267000,Homer Simpson,CARL'S APARTMENT BUILDING,"Um... I don't know how to tell you this, but your baby doesn't have any legs--"
+139184,535,51,267000,GRETCHEN,CARL'S APARTMENT BUILDING,What?
+139185,535,52,272000,Homer Simpson,CARL'S APARTMENT BUILDING,"Oh! Oh wait, there's more!"
+139187,535,54,273000,Homer Simpson,CARL'S APARTMENT BUILDING,"It's a dude! And he's uncut! Very Euro! Now, hug your mommy."
+139188,535,55,282000,Homer Simpson,CARL'S APARTMENT BUILDING,"For unto you is born this day, in this elevator, inspected in August 2009, a baby."
+139189,535,56,292000,GRETCHEN,CARL'S APARTMENT BUILDING,"Well, it was nice to share this moment with someone who cared."
+139190,535,57,296000,Homer Simpson,CARL'S APARTMENT BUILDING,"Yeah, that guy didn't even look over once."
+139191,535,58,298000,Man In Suit,CARL'S APARTMENT BUILDING,Lobby please.
+139194,535,61,304000,Marge Simpson,Simpson Master Bedroom,How was work?
+139195,535,62,306000,Homer Simpson,Simpson Master Bedroom,Miraculous.
+139197,535,64,309000,Homer Simpson,Simpson Master Bedroom,Mothers are so awesome.
+139200,535,67,314000,Milhouse Van Houten,ATOMS FOOTBALL STADIUM,These are great seats. You can hear the players swear from up here!
+139201,535,68,317000,Player,ATOMS FOOTBALL STADIUM,"I'll kick your ass, Milhouse!"
+139202,535,69,320000,Football Announcer,ATOMS FOOTBALL STADIUM,"And now, to take your minds off the massive concussion and subdural hematoma you just witnessed, please welcome the Springfield Atomettes!"
+139203,535,70,330000,Cheerleader,ATOMS FOOTBALL STADIUM,"Now, for this routine, we need the help of a junior Atomette!"
+139205,535,71,339000,Milhouse Van Houten,ATOMS FOOTBALL STADIUM,"They're picking me, Dad!"
+139206,535,72,341000,Kirk Van Houten,ATOMS FOOTBALL STADIUM,"Don't call me ""dad."" If people think peanut vendors have families, it's too sad."
+139207,535,73,345000,Football Announcer,ATOMS FOOTBALL STADIUM,Looks like we've got a volunteer... right there!
+139209,535,75,347000,Lisa Simpson,ATOMS FOOTBALL STADIUM,"Look, while I'd like to help, I'm kind of pessimistic about the team's chances."
+139210,535,76,357000,CALLIOPE,ATOMS FOOTBALL STADIUM,They're gonna get creamed. Go go go!
+139211,535,77,376000,Milhouse Van Houten,ATOMS FOOTBALL STADIUM,I'm dating a cheerleader!
+139212,535,78,378000,Lisa Simpson,ATOMS FOOTBALL STADIUM,No you're not!
+139213,535,79,380000,Player,ATOMS FOOTBALL STADIUM,"Burned again, Milhouse!"
+139215,535,81,385000,Lisa Simpson,STADIUM,"Wow! That was great! Can I have my regular clothes back, please?"
+139216,535,82,391000,CALLIOPE,STADIUM,Nooooo problem!
+139217,535,83,393000,The Rich Texan,STADIUM,"Great job, ladies. Now here's your fifty bucks each which should just about cover your parking."
+139218,535,84,400000,Lisa Simpson,STADIUM,I can't believe he pays you so little. The crowd was crazy about you.
+139219,535,85,404000,CALLIOPE,STADIUM,"I know, but what are we gonna do about it? If we pipe up they'll put us in the mascot costume."
+139220,535,86,410000,Ashley,STADIUM,"After you wear that, you need to be hosed down for bedbugs."
+139223,535,89,415000,Homer Simpson,Hallway,"Good game, everyone. I never dreamed a night where you'd discovered I was cheating and beat the crap outta me could end on such an up note."
+139224,535,90,423000,Lenny Leonard,Hallway,See ya next week!
+139225,535,91,425000,GRETCHEN,Hallway,Homer!
+139226,535,92,426000,Homer Simpson,Hallway,"Hey, Gretchen!"
+139227,535,93,428000,GRETCHEN,Hallway,I had your jacket cleaned!
+139228,535,94,430000,Homer Simpson,Hallway,Good as new. And thanks for loaning me your sweater for the ride home. It may be a little stretched out.
+139229,535,95,436000,GRETCHEN,Hallway,"Jeez, that was a pregnancy sweater."
+139230,535,96,438000,GRETCHEN,Hallway,So... you wanna hold little Homer?
+139231,535,97,441000,Homer Simpson,Hallway,"Wow. So now there's two things named after me -- a baby, and a law banning air horns after three a.m."
+139232,535,98,450000,Homer Simpson,Hallway,"Aw, that's sweet."
+139235,535,101,459000,Moe Szyslak,Apartment Building,Read 'em and weep: the novels of Charlotte Bronte.
+139236,535,102,463000,Carl Carlson,Apartment Building,I thought we were playing cards.
+139237,535,103,469000,Homer Simpson,Apartment Building,"Um, hey... I was just driving by... with some baby stuff we didn't need and uh...here's some diapers Maggie's too big for, an incredible educational toy I forgot to give Bart..."
+139238,535,104,482000,GRETCHEN,Apartment Building,Thanks. Hey... could you babysit for an hour? I've been alone with the baby for days.
+139239,535,105,488000,Homer Simpson,Apartment Building,"Wow, I'd love to help, but I did kind of have plans for tonight..."
+139240,535,106,492000,Moe Szyslak,Apartment Building,You can't leave! I'm dealin' you in!
+139241,535,107,496000,Moe Szyslak,Apartment Building,Full house?! You win again.
+139242,535,108,500000,Homer Simpson,Apartment Building,I think I'll be good tonight and stay in with you.
+139243,535,109,509000,Homer Simpson,Apartment Building,Where's Hoju? Where's Hoju? Where's Hoju?!
+139244,535,110,517000,Homer Simpson,Apartment Building,Where's Hoju? Where's Hojuuu?!
+139247,535,113,562000,Homer Simpson,SCRATCHY'S HOUSE,Kids blow up so fast.
+139250,535,116,567000,Marge Simpson,Swapper Jack's,"Homie? Aw, you're shopping ahead for Maggie."
+139251,535,117,572000,Homer Simpson,Swapper Jack's,"Oh, no, I'm shopping for Homer Junior, a baby I delivered in an elevator the night I pretended to go to work but was really playing poker!"
+139252,535,118,578000,Marge Simpson,Swapper Jack's,What?!
+148611,535,119,581000,Homer's Brain,Swapper Jack's,"This simulation has been brought to you by your brain, a subsidiary of your penis."
+139253,535,120,586000,Homer Simpson,Swapper Jack's,"Oh, yes, I am shopping for Maggie, our baby together, so this looks perfectly innocent."
+139254,535,121,591000,Marge Simpson,Swapper Jack's,Why are you saying that?
+139255,535,122,593000,Homer Simpson,Swapper Jack's,"Oh, you know how the first few weeks are: sleep deprived, walking around in a fog..."
+139256,535,123,598000,Marge Simpson,Swapper Jack's,First few weeks of what?
+139257,535,124,600000,Homer Simpson,Swapper Jack's,"Um, November."
+139259,535,126,605000,CALLIOPE,Springfield Atoms Stadium,"Hey, Atomette! I wanna say... Caitlin?"
+139260,535,127,608000,Lisa Simpson,Springfield Atoms Stadium,"Lisa. Guys, do you realize you're being exploited by this team?"
+139261,535,128,612000,Cheerleaders,Springfield Atoms Stadium,Wha?!
+139262,535,129,614000,Lisa Simpson,Springfield Atoms Stadium,They sell your posters...workout DVDs...and all of your practices are broadcast on a webcam.
+139263,535,130,625000,Lisa Simpson,Springfield Atoms Stadium,"And some of the angles are loooooow. But don't worry, collective bargaining will enable us to secure concessions."
+139266,535,131,635000,Lisa Simpson,Springfield Atoms Stadium,"We're gonna push 'em back, push 'em back, push 'em way, way back! All the way to a new con-tract! 'Cause union power is a fact! And we're..."
+139267,535,132,646000,CALLIOPE,Springfield Atoms Stadium,"Okay, okay, we get it."
+139268,535,133,648000,The Rich Texan,Springfield Atoms Stadium,"Well, look who's here. You been hit by the cheerleading bug, little lady?"
+139269,535,134,653000,Lisa Simpson,Springfield Atoms Stadium,"Actually, I've been hit by the unfair labor practices bug."
+139270,535,135,656000,The Rich Texan,Springfield Atoms Stadium,"What? Why, that's Samuel Gompers talk! Now, little Missy, the only thing you should be organizin' is your dollies."
+139271,535,136,665000,Lisa Simpson,Springfield Atoms Stadium,"How? By size, brand, value? And don't even suggest race, 'cause I don't see that. I just see little people I own. What do you say, ladies?"
+139272,535,137,675000,Cheerleaders,Springfield Atoms Stadium,Not right! Not fair! Let's say it with our hair!
+139273,535,138,684000,The Rich Texan,Springfield Atoms Stadium,"Okay, fine. I'm gonna give it some thought, then say no in the nicest way possible."
+139274,535,139,690000,The Rich Texan,Springfield Atoms Stadium,No.
+139277,535,142,697000,Lisa Simpson,Bart's Treehouse,"Ooh, Good... nice... ""Beat Dallas."" Can never argue with that."
+139278,535,143,705000,Nelson Muntz,Bart's Treehouse,"Hey, ladies."
+139279,535,144,705000,Nelson Muntz,Bart's Treehouse,My vest isn't the only thing that's ripped.
+139280,535,145,709000,Mayor Joe Quimby,Bart's Treehouse,I am in the market for a backup mistress. Possibly two.
+139281,535,146,713000,Marge Simpson,Bart's Treehouse,Have you kids seen your father? Surprised he's not here ogling these girls.
+139282,535,147,718000,Bart Simpson,Bart's Treehouse,He said he was going to work.
+139283,535,148,720000,Marge Simpson,Bart's Treehouse,On a Friday afternoon?! I bet he's playing poker again!
+139284,535,149,725000,Marge Simpson,Bart's Treehouse,Coming through! Wife on a mission!
+139285,535,150,727000,Cheerleaders,Bart's Treehouse,"Go, fight, win... Marge!"
+139286,535,151,732000,Marge Simpson,Bart's Treehouse,"Wow, I've never burst through a banner before, but it really does the trick!"
+139288,535,153,738000,Marge Simpson,CARL'S APARTMENT BUILDING,"Homer! I know you're here, your car's outside!"
+139290,535,155,742000,Marge Simpson,Carl's Apartment,Where is he?
+139291,535,156,744000,Carl Carlson,Carl's Apartment,I honestly don't know. I'm just teaching myself massage here with online videos and a store mannequin.
+139292,535,157,749000,Marge Simpson,Carl's Apartment,"Oh, I'm so sorry."
+139293,535,158,752000,Carl Carlson,Carl's Apartment,"So, do you have any injuries I should know about?"
+139294,535,160,756000,Marge Simpson,Apartment Building,"If he's not in there, where is he?"
+139295,535,161,758000,Homer Simpson,Apartment Building,Oh baby!
+139296,535,162,760000,Homer Simpson,Apartment Building,"Oh baby, shake it! Homer like!"
+139299,535,165,765000,Homer Simpson,GRETCHEN'S APARTMENT,"Shake it! Now, roll over on your tummy, just like I taught you."
+139301,535,167,769000,Homer Simpson,Apartment Hallway,Tell me what a cow says!
+139304,535,170,773000,Homer Simpson,GRETCHEN'S APARTMENT,My other baby mama!
+139305,535,171,775000,Marge Simpson,GRETCHEN'S APARTMENT,So this is where you've been going -- another woman's apartment.
+139306,535,172,779000,Homer Simpson,GRETCHEN'S APARTMENT,"Marge, it's not what you think!"
+139307,535,173,781000,GRETCHEN,GRETCHEN'S APARTMENT,Quiet! You're upsetting Homer Junior!
+139308,535,174,783000,Marge Simpson,GRETCHEN'S APARTMENT,You have a baby together?
+139309,535,175,786000,Homer Simpson,GRETCHEN'S APARTMENT,"Oh, it's cool. We did it in an elevator."
+139310,535,176,789000,Marge Simpson,GRETCHEN'S APARTMENT,I'm a Schwarzenegger wife.
+139311,535,177,791000,Homer Simpson,GRETCHEN'S APARTMENT,"But you're also the housekeeper, so it's all good."
+139312,535,178,794000,Marge Simpson,GRETCHEN'S APARTMENT,It's not good! None of it's good!
+139313,535,179,797000,Homer Simpson,GRETCHEN'S APARTMENT,I haven't had a drink for a week.
+139314,535,180,799000,Marge Simpson,GRETCHEN'S APARTMENT,That is pretty good.
+139317,535,183,804000,Marge Simpson,GRETCHEN'S APARTMENT,...so then you delivered her baby right there in the elevator.
+139318,535,184,804000,Homer Simpson,GRETCHEN'S APARTMENT,It's true. Even the other guy in the elevator. He's right here.
+139319,535,185,811000,Man In Suit,GRETCHEN'S APARTMENT,"Yeah, and the really funny thing is I'm a doctor."
+139320,535,186,815000,Marge Simpson,GRETCHEN'S APARTMENT,"Well I'm glad you did a good deed, but you shouldn't come here again. I thought that was strange poop on your collar."
+139321,535,187,823000,Homer Simpson,GRETCHEN'S APARTMENT,"Goodbye, Homer Junior. I guess you're the man of the house now. And never forget, even though the mortgage is due on the first you can usually wait till the seventeenth."
+139322,535,188,835000,Marge Simpson,GRETCHEN'S APARTMENT,You know what? I think it's fine if Homer spends a few hours now and then with... Homer Junior.
+139323,535,189,844000,Homer Simpson,GRETCHEN'S APARTMENT,Exactly. You always said charity begins at home -- but not which home.
+139324,535,190,849000,Marge Simpson,GRETCHEN'S APARTMENT,"It's true, I never specified the home."
+139326,535,193,852000,Homer Simpson,GRETCHEN'S APARTMENT,And now to sing you a lullaby my father sung to me:
+139327,535,194,890000,Homer Simpson,GRETCHEN'S APARTMENT,"SLEEP, SLEEP SLEEP SLEEP / SLEEP SLEEP / SLEEP, SLEEP SLEEP SLEEP SLEEP SLEEP!"
+139329,535,196,899000,Homer Simpson,Simpson Home,"Oh man, I really overdid it tonight."
+139330,535,197,903000,Marge Simpson,Simpson Home,Late night at Moe's eh?
+139331,535,198,904000,Homer Simpson,Simpson Home,"No. I'm exhausted from ""Head, Shoulders, Knees and Toes. Knees and toes."" It's the ""toes"" that get ya, Marge. It's the toes..."
+139332,535,199,912000,Marge Simpson,Simpson Home,What about your own children?
+139333,535,200,914000,Homer Simpson,Simpson Home,"Way ahead of you, Marge. I am taking all four of my kids to the zoo tomorrow."
+139334,535,201,918000,Marge Simpson,Simpson Home,Three.
+139335,535,202,920000,Homer Simpson,Simpson Home,Yes. We'll be back by three. Homer has a very tight nap schedule.
+139336,535,203,923000,Marge Simpson,Simpson Home,Quit talking about that baby!
+139337,535,204,925000,Homer Simpson,Simpson Home,I was talking about myself in the third person.
+139340,535,207,930000,JOY,Simpson Home,"We can't take much more of this, Lisa. The girls are getting so antsy they'll cheer anything."
+139341,535,208,935000,Cheerleaders,Simpson Home,YOU'RE THE GREATEST GENERATION / WORTHY OF OUR VENERATION! GO-O-O GRAMPA!
+139342,535,209,942000,Grampa Simpson,Simpson Home,"If this is Heaven, why don't my shoes match?"
+139343,535,210,948000,The Rich Texan,Simpson Home,"Okay, I give up. I'm gonna do what we secretly did at the Alamo -- surrender."
+139345,535,212,957000,Kirk Van Houten,Simpson Home,"While you're at it, how 'bout a little boost for peanut vendors?"
+139346,535,213,961000,The Rich Texan,Simpson Home,What do you think I'm taking their raise out of?
+139348,535,215,971000,Homer Simpson,Springfield Zoo,"I wanted you all to be happy together, so I brought you to the zoo where all the animals live in harmony."
+139349,535,216,983000,Lisa Simpson,Springfield Zoo,"Okay guys, I got your ice creams."
+139350,535,217,988000,Homer Simpson,Springfield Zoo,"Hey, oh oh oh! Now Maggie, we don't hurt each other in this family."
+139351,535,218,992000,Bart Simpson,Springfield Zoo,Are you nuts? You can't even kiss me goodnight without slicing me with your stubble.
+139352,535,219,994000,Homer Simpson,Springfield Zoo,"Why you little... I'll give you a goodnight kiss you'll never forget! C'mere, you!"
+139353,535,220,1005000,Lisa Simpson,Springfield Zoo,"Dad! We're missing ""The Giant Capybaras of Uruguay!"""
+139355,535,221,1013000,Homer Simpson,Springfield Zoo,"Okay, I know what'll cheer you kids up. Seeing me out-monkey the monkeys."
+139357,535,223,1022000,Homer Simpson,Springfield Zoo,I have a soul and you guys don't!
+139359,535,225,1038000,Lisa Simpson,Springfield Zoo,Dad! Maggie's rolling away!
+139360,535,226,1041000,Bart Simpson,Springfield Zoo,She's heading for Prairie Dog Village!
+139361,535,227,1043000,Lisa Simpson,Springfield Zoo,"If they get her in their warrens, we'll never see her again!"
+139362,535,228,1047000,Homer Simpson,Springfield Zoo,Look! Shiny keys! Jingle jangle!
+139363,535,229,1050000,Homer Simpson,Springfield Zoo,Stupid monkeys.
+139364,535,230,1058000,Lisa Simpson,Springfield Zoo,"That's it, Maggie! Use the Dino-Wand!"
+139365,535,231,1069000,Marge Simpson,Springfield Zoo,This is the last time you'll see that... elevator baby!
+139366,535,232,1073000,Homer Simpson,Springfield Zoo,"I'm sorry, Homer Junior. You'll occupy an idealized place in my heart that no one can never quite fill."
+139367,535,233,1085000,Bart Simpson,Springfield Zoo,"Therapy, please."
+139368,535,234,1085000,Lisa Simpson,Springfield Zoo,Me too.
+139370,535,236,1088000,Homer Simpson,Springfield Street,"Okay, I've got to impart all my fatherly advice in this one walk. The sky is blue, but no one really knows why. Don't believe what they tell you. Girls are great and terrible at the same time. Get used to it. And, most importantly-- Oops, we're here. You'll have to figure it out on your own."
+139372,535,238,1107000,Homer Simpson,GRETCHEN'S APARTMENT,"Sorry, little fella. One day I'll be that guy who comes to your wedding, makes you feel a little weird, and then runs away."
+139373,535,239,1113000,GRETCHEN,GRETCHEN'S APARTMENT,"Homer, great news! Chase came back!"
+139374,535,240,1116000,Homer Simpson,GRETCHEN'S APARTMENT,Woo hoo! Who's Chase?
+139375,535,241,1117000,GRETCHEN,GRETCHEN'S APARTMENT,Homer Jr.'s father!
+139376,535,242,1119000,Chase,GRETCHEN'S APARTMENT,"Oh my God, is that my son?"
+139377,535,243,1122000,Homer Simpson,GRETCHEN'S APARTMENT,You didn't tell me he was a soldier.
+139378,535,244,1123000,Chase,GRETCHEN'S APARTMENT,You didn't tell me you were pregnant.
+139379,535,245,1125000,GRETCHEN,GRETCHEN'S APARTMENT,I didn't want you to marry me because I was pregnant. I wanted you to marry me because I was nagging you.
+139380,535,246,1131000,Homer Simpson,GRETCHEN'S APARTMENT,"Um, he likes it if you tickle his toes."
+139381,535,247,1134000,Chase,GRETCHEN'S APARTMENT,"Dude, he's my kid. He likes what I like."
+139382,535,248,1136000,Homer Simpson,GRETCHEN'S APARTMENT,But n-n-n-nurture...
+139383,535,249,1138000,Chase,GRETCHEN'S APARTMENT,Gretch -- I think he's got my calves!
+139384,535,250,1140000,GRETCHEN,GRETCHEN'S APARTMENT,"He does, baby, he does!"
+139354,535,251,1142000,Homer Simpson,GRETCHEN'S APARTMENT,Can I just say goodbye to him quick?
+139204,535,252,1144000,GRETCHEN,GRETCHEN'S APARTMENT,Sure.
+139385,535,253,1145000,Homer Simpson,GRETCHEN'S APARTMENT,"I guess this is it, little guy."
+139386,535,254,1147000,HOMER JR.,GRETCHEN'S APARTMENT,Da-da.
+139387,535,255,1147000,Homer Simpson,GRETCHEN'S APARTMENT,The most beautiful words a father can hear.
+139388,535,256,1151000,HOMER JR.,GRETCHEN'S APARTMENT,Da-da! Da-da!
+139389,535,257,1151000,Homer Simpson,GRETCHEN'S APARTMENT,Oh.
+139390,535,258,1154000,Chase,GRETCHEN'S APARTMENT,"Hey, one day you'll have kids of your own."
+139391,535,259,1156000,Homer Simpson,GRETCHEN'S APARTMENT,I do.
+139392,535,260,1156000,Chase,GRETCHEN'S APARTMENT,Really? Then this is much creepier than I thought. Much.
+139393,535,261,1163000,Moe Szyslak,GRETCHEN'S APARTMENT,He shouldn't have bet his door if he didn't wanna lose it.
+139396,535,264,1174000,Homer Simpson,Homer's Car,"Hi Maggie, if you could talk, I know you'd have a few choice words for me."
+139397,535,265,1181000,Homer Simpson,Homer's Car,You want me to take care of your dolly?
+139398,535,266,1184000,Homer Simpson,Homer's Car,That's the sweetest thing any baby has ever done for me.
+139400,535,268,1200000,Chase,GRETCHEN'S APARTMENT,"Honey, you know where the bottle opener is?"
+139401,535,269,1202000,GRETCHEN,GRETCHEN'S APARTMENT,I think it's in the drawer.
+139402,535,270,1205000,Chase,GRETCHEN'S APARTMENT,"Whoa, little dude! Where did you learn that?"
+139403,535,271,1399000,Chase,GRETCHEN'S APARTMENT,"This is what we're fightin' for, babe."
+139404,535,272,1447000,Homer Simpson,GRETCHEN'S APARTMENT,"Hey, what's this marching band have to do with Homer Junior? What? There were cheerleaders in our house? And nobody told me?"

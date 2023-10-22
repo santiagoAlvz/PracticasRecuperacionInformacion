@@ -1,0 +1,333 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+156862,28,1,35000,Senator Mendoza,CORPORATE HEADQUARTERS,"Well then, let's move on to new business. Have you taken care of McBain?"
+156863,28,2,61000,Board Member,CORPORATE HEADQUARTERS,"You don't have to worry, Senator Mendoza. By now our ""dear friend"" McBain has met with a - shall we say - unfortunate accident."
+156864,28,3,71000,Senator Mendoza,CORPORATE HEADQUARTERS,"Excellent. With McBain out of the way, nothing can stop us!... Any more new business?"
+147983,28,4,78000,McBain,CORPORATE HEADQUARTERS,Only your death.
+155582,28,5,80000,Senator Mendoza,CORPORATE HEADQUARTERS,McBain!!
+147984,28,6,98000,McBain,CORPORATE HEADQUARTERS,Meeting adjourned.
+156866,28,8,100000,Grampa Simpson,Aztec Theater,Two-fifty for this?
+156867,28,9,101000,Jasper Beardly,Aztec Theater,What a gyp!
+156868,28,10,103000,Female Commando,Aztec Theater,You certainly broke up that meeting.
+147985,28,11,105000,McBain,Aztec Theater,Right now I'm thinking about holding another meeting... in bed.
+156869,28,12,109000,Female Commando,Aztec Theater,"Oh, McBain."
+156870,28,13,115000,Gulliver Dark,Aztec Theater,"THE RULES THAT CONSTRAIN OTHER MEN / MEAN NOTHING TO MCBAIN...,the rules that constrain other men mean nothing to mcbain,10
+8153,28,14,Jasper Beardly: Booo.,123000,true,273,332,Jasper Beardly,Aztec Theater,Booo.,booo,1
+8154,28,15,Gulliver Dark: THE PUNCHES THAT BRING PAIN TO OTHER MEN/ "
+156871,28,16,125000,Grampa Simpson,Aztec Theater,I want to see the manager!
+156872,28,17,128000,Grampa Simpson,Aztec Theater,The screen was too small.
+156873,28,18,130000,Jasper Beardly,Aztec Theater,The floor was sticky.
+156874,28,19,131000,Grampa Simpson,Aztec Theater,The romantic subplot felt tacked on.
+156875,28,20,133000,Jasper Beardly,Aztec Theater,"In short, we demand a refund!"
+156876,28,21,135000,Theatre Manager,Aztec Theater,"Sorry, it's against our policy."
+156877,28,22,136000,Grampa Simpson,Aztec Theater,"I'll policy you, you--"
+156878,28,23,138000,Theatre Manager,Aztec Theater,"Hey, don't have a heart attack, old dude."
+156879,28,24,140000,Grampa Simpson,Aztec Theater,Don't you... tell... me... what to do... you... young... whipper... snap-per.
+156881,28,26,149000,Homer Simpson,Simpson Home,"... And thank you most of all for nuclear power, which is yet to cause a single proven fatality, at least in this country. Amen."
+156882,28,27,158000,Marge Simpson,Simpson Home,"Very nicely said, Homer."
+156883,28,28,160000,Lisa Simpson,Simpson Home,"Dad, Bart ate a green bean during the blessing."
+156884,28,29,163000,Bart Simpson,Simpson Home,How do you know unless you opened your eyes during the blessing?
+156885,28,30,165000,Lisa Simpson,Simpson Home,Eating is worse than opening eyes.
+156886,28,31,166000,Bart Simpson,Simpson Home,Is not.
+156887,28,32,166000,Lisa Simpson,Simpson Home,Is too.
+156888,28,33,167000,Bart Simpson,Simpson Home,Is not.
+156889,28,34,167000,Lisa Simpson,Simpson Home,Is too.
+156890,28,35,167000,Bart Simpson,Simpson Home,Is not.
+156891,28,36,169000,Lisa Simpson,Simpson Home,Is too.
+156892,28,37,169000,Homer Simpson,Simpson Home,"Quiet, you kids! If I hear one more word, Bart doesn't get to watch cartoons and Lisa doesn't get to go to college."
+156893,28,38,174000,Lisa Simpson,Simpson Home,Da-ad!...
+156894,28,39,175000,Homer Simpson,Simpson Home,Not one word.
+156895,28,40,190000,Homer Simpson,Simpson Home,I thought I said knock it off!
+156896,28,41,192000,Lisa Simpson,Simpson Home,We didn't say anything.
+156897,28,42,193000,Bart Simpson,Simpson Home,Not one word.
+156899,28,43,195000,Homer Simpson,Simpson Home,"Well, no panta-ma-mime, either."
+156900,28,44,196000,Marge Simpson,Simpson Home,"Telephone, Homer."
+156901,28,45,197000,Marge Simpson,Simpson Home,It's the hospital.
+156902,28,46,199000,Homer Simpson,Simpson Home,The hospital? Y'ello... Oh my God!
+156904,28,48,204000,Dr. Julius Hibbert,Hospital,"Homer, I'm happy to say that your father only had a mild arrhythmia."
+156905,28,49,208000,Grampa Simpson,Hospital,"Mild?! There wasn't anything mild about it! Now get back to the pharmacy, you quack."
+156906,28,50,216000,Dr. Julius Hibbert,Hospital,"Oh, with that feisty attitude, you'll bury us all, Grampa Simpson."
+156907,28,51,223000,Grampa Simpson,Hospital,"Pull your chair closer, my son."
+156908,28,52,225000,Homer Simpson,Hospital,"What is it, Da --"
+156909,28,53,227000,Grampa Simpson,Hospital,"P.U.! Not that close! Ish. Homer, that heart attack made me realize that I'm going to die someday."
+156910,28,54,237000,Homer Simpson,Hospital,"Oh Dad, you and your imagination."
+156911,28,55,240000,Grampa Simpson,Hospital,"There's something I think you should know. Homer, you have a half-brother."
+156912,28,56,245000,Homer Simpson,Hospital,A half-brother?
+156913,28,57,246000,Grampa Simpson,Hospital,Huh uh. It all happened while I was courting your mother...
+156915,28,59,251000,Grampa Simpson,Carnival Grounds,I was checking out the skirts at the local carnival when I first saw her...
+156916,28,60,256000,Floozy,Carnival Grounds,"Hey, Handsome, want to dunk the clown?"
+156917,28,61,260000,Grampa Simpson,Carnival Grounds,She did things your mother would never do. Like have sex for money.
+156918,28,62,265000,Grampa Simpson,Carnival Grounds,"A year later, the carnival came back to town and she had a little surprise for me."
+156920,28,64,272000,Grampa Simpson,Hospital Room,"We left the baby at the Shelbyville orphanage, and I never saw him again. A year later, I married your mother and we had you."
+156921,28,65,282000,Mona Simpson,Hospital Room,"Abe, I want Homer to grow up respecting his father. He must never know about that, that... carnival incident."
+148157,28,66,289000,Young Grampa,Hospital Room,Okay.
+156922,28,67,290000,Mona Simpson,Hospital Room,Promise you won't tell him.
+148158,28,68,291000,Young Grampa,Hospital Room,I promise.
+156923,28,69,292000,Grampa Simpson,Hospital Room,Whoops! Forget what I just told you.
+156924,28,70,296000,Grampa Simpson,Hospital Room,What are you blubbering about?
+156925,28,71,298000,Homer Simpson,Hospital Room,"This makes me feel special, Dad. Since I'm the one you kept, that must mean you really love me."
+156926,28,72,304000,Grampa Simpson,Hospital Room,Hmmm... Interesting theory.
+156927,28,73,306000,Homer Simpson,Hospital Room,"I'm going to find my brother. I don't care what it takes. If I have to move heaven and earth, I'm going to find him!"
+156928,28,74,313000,Grampa Simpson,Hospital Room,"Yeah, right. Good luck."
+156930,28,76,315000,Lisa Simpson,Simpson Car,A long-lost half-brother. How Dickensian!
+156931,28,77,319000,Bart Simpson,Simpson Car,"So, any idea where this bastard lives?"
+156932,28,78,321000,Homer Simpson,Simpson Car,Bart!
+156933,28,79,321000,Bart Simpson,Simpson Car,"Well his parents aren't married, are they? It's the correct word, isn't it?"
+156934,28,80,324000,Homer Simpson,Simpson Car,I guess he's got us there.
+156936,28,82,327000,Bart Simpson,Simpson Car,"BASTARD, BASTARD / BASTARD, BASTARD / BASTARD, BASTARD"
+156937,28,83,329000,Marge Simpson,Simpson Car,Bart!
+156938,28,84,330000,Homer Simpson,Simpson Car,Bart!
+156939,28,85,331000,Bart Simpson,Simpson Car,"BASTARD / BASTARD, BASTARD!"
+156941,28,87,332000,Homer Simpson,Street,Twen... forty-eight. This is it.
+156942,28,88,335000,Homer Simpson,Street,"Excuse me, is this an orphanage?"
+156943,28,89,338000,Attendant,Street,"Ooo, you're a little late, pal. They tore down the orphanage thirty odd years ago."
+156944,28,90,342000,Homer Simpson,Street,"Thirty years! I'll never find him. I'm doomed to walk through this life alone. Oh brother, where art thou?!"
+156945,28,91,353000,Attendant,Street,"Take it easy, buddy. They moved across the street."
+156946,28,92,356000,Homer Simpson,Street,"Oh. Hee, hee. Sorry."
+156948,28,94,358000,Director,Shelbyville Orphanage,"I know how you feel, Mr. Simpson."
+156949,28,95,360000,Director,Shelbyville Orphanage,I myself have spent years searching for my long-lost twin brother --
+156950,28,96,365000,Homer Simpson,Shelbyville Orphanage,"Yeah, yeah, yeah, well, I wish I could help you but we're looking for my brother today. Can you tell me his name?"
+156951,28,97,371000,Director,Shelbyville Orphanage,"Hmmm, according to our records, a Mr. and Mrs. Powell adopted your brother and named him Herbert."
+156952,28,98,376000,Homer Simpson,Shelbyville Orphanage,Herbert. Herbert Powell. Great! Where can I find him?
+156953,28,99,380000,Director,Shelbyville Orphanage,"I'm sorry, I'm not allowed to release that information."
+156954,28,100,382000,Homer Simpson,Shelbyville Orphanage,"Oh please, please, this is my life we're talking about here. Please..."
+156955,28,101,386000,Director,Shelbyville Orphanage,"Well, I do sympathize with your situation, Mr. Simpson. After all, your brother could be anywhere. Even Detroit."
+156956,28,102,393000,Homer Simpson,Shelbyville Orphanage,"I know, he could be anywhere! That's why I want you to narrow it down! Please..."
+156957,28,103,399000,Director,Shelbyville Orphanage,"You know Mr. Simpson, if you ask me, the City of Brotherly Love isn't Philadelphia... it's Detroit."
+156958,28,104,405000,Homer Simpson,Shelbyville Orphanage,"Well, if you ask me, changing the subject makes you the most worthless, heartless, excuse for a human being I ever..."
+156959,28,105,411000,Director,Shelbyville Orphanage,"Read between the lines, you fool."
+156960,28,106,414000,Homer Simpson,Shelbyville Orphanage,"Oh, oh... I get it. Okay. Here's twenty bucks. Now will you tell me where my brother lives?"
+156961,28,107,420000,Director,Shelbyville Orphanage,"Mr. Simpson, I don't want your --"
+156962,28,108,421000,Homer Simpson,Shelbyville Orphanage,Just take it and tell me!
+156963,28,109,422000,Director,Shelbyville Orphanage,Detroit. He lives in Detroit.
+156964,28,110,423000,Homer Simpson,Shelbyville Orphanage,Fine. Thank you.
+156966,28,112,425000,Homer Simpson,Simpson Home,"Let's see, Powell, Powell... Powell... Pomerant, Poole, Popkin, Potter, Quigley, Quimby, Randolph... whoops, too far. Here it is, Powell."
+156967,28,113,451000,Marge Simpson,Simpson Home,"Any luck, Homie?"
+156968,28,114,453000,Homer Simpson,Simpson Home,"No, I've called all three Herbert Powells in Detroit. Nothing."
+156969,28,115,457000,Marge Simpson,Simpson Home,"Well, you want to try that H. Powell?"
+156970,28,116,460000,Homer Simpson,Simpson Home,"H! Of course. That could stand for Herbert! It's a long shot, but..."
+156972,28,118,469000,HERB,Powell Estate,Y'ello.
+156973,28,119,470000,Homer Simpson,Powell Estate,"Hello, is this H. Powell of Detroit, Michigan?"
+156974,28,120,472000,HERB,Powell Estate,Yeah.
+156975,28,121,473000,Homer Simpson,Powell Estate,By any chance does the H stand for Herbert?
+156976,28,122,475000,HERB,Powell Estate,Yeah.
+156977,28,123,476000,Homer Simpson,Powell Estate,"Woo woo! The H stands for Herbert! Herb, were you adopted?"
+156978,28,124,481000,HERB,Powell Estate,Yeah.
+156979,28,125,482000,Homer Simpson,Powell Estate,From the Shelbyville Orphanage?
+156980,28,126,484000,HERB,Powell Estate,How did you know that?
+156981,28,127,486000,Homer Simpson,Powell Estate,"Because... ... I'm your baby brother, Homer!"
+156982,28,128,490000,Homer Simpson,Powell Estate,Hello? Hello? Hello? Stupid phone!
+156983,28,129,494000,HERB,Powell Estate,"Hey, hey, knock it off! I'm here! I was just silent because of the emotion involved."
+156984,28,130,498000,Homer Simpson,Powell Estate,"Oh, sorry."
+156985,28,131,499000,HERB,Powell Estate,"Homer, I think we need to get together."
+156986,28,132,501000,Homer Simpson,Powell Estate,"Okay, Brother! Grab the next plane to Springfield. We got a couch that folds out..."
+156987,28,133,505000,HERB,Powell Estate,"Uh, I'll tell you what..."
+156988,28,134,507000,HERB,Powell Estate,Why don't you come here?
+156989,28,137,513000,Lisa Simpson,Simpson Car,Are we there yet? Are we there yet? Are we there yet?
+156990,28,138,514000,Homer Simpson,Simpson Car,Just a little further. Just a little further. Just a little further. Just a little further.
+156991,28,139,518000,Marge Simpson,Simpson Car,"Bart! Lisa! If you don't behave, we'll turn this car right around and go home."
+156992,28,140,522000,Homer Simpson,Simpson Car,"But Marge, I want to see my brother--"
+156993,28,141,525000,Marge Simpson,Simpson Car,"Oh for God's sakes, Homer, it's an empty threat."
+156994,28,142,528000,Homer Simpson,Simpson Car,Oh.
+156997,28,145,534000,Policeman,Highway,"Did you know you were going... Oh, sorry, sir. I didn't know it was you."
+156998,28,146,540000,Homer Simpson,Highway,"That's okay, carry on. See the way I handled that, Marge?"
+156999,28,147,550000,Homer Simpson,Highway,What does it look like?
+157003,28,151,560000,HERB,Road,"Every day we're losing ground to the Japanese, and I want to know why!"
+157004,28,152,564000,Executive #1,Road,Uh... unfair trade practices?
+157005,28,153,565000,Executive #2,Road,Mushy-headed one-worlders in Washington?
+157006,28,154,567000,Executive #3,Road,"Uh, some sort of gypsy curse?"
+157007,28,155,569000,HERB,Road,I'm tired of excuses! Why did I ever hire you Harvard deadheads?
+157008,28,156,573000,Executive #2,Road,"Because you went there, sir?"
+157009,28,157,574000,HERB,Road,"Yeah, but Mommy and Daddy didn't pay my way. I had to work my way through, washing your dishes and scrubbing your toilets!"
+157010,28,158,581000,Executive #2,Road,"Oh, yeah, now I remember you."
+157011,28,159,582000,HERB,Road,Have you come up with a name for our new economy model?
+157012,28,160,585000,Executive #3,Road,"You're gonna love this, Chief. The ""Persephone!"""
+157013,28,161,588000,HERB,Road,"""Persephone?"" What the hell kind of name is ""Persephone?"""
+157014,28,162,592000,Executive #1,Road,She was the Greek Goddess of Spring and rebirth.
+157016,28,164,596000,Executive #2,Road,"And get this, sir. She was carried off to Hades by the King of the Underworld. While there, she ate six pomegranates..."
+157017,28,165,601000,HERB,Road,"People don't want cars named after hungry old Greek broads. They want names like ""Mustang"" and ""Cheetah"" -- vicious animal names. The problem with you guys is you've forgotten your roots. You, what are your roots?"
+157018,28,166,616000,Executive #2,Road,"Well, I guess you could say they extend to when the Angles met the Saxons."
+157020,28,167,620000,HERB,Road,"In other words, when white met bread."
+157021,28,168,623000,Executive #3,Road,"Sir, we'd love to know what your roots are and what they have to teach us."
+157022,28,169,627000,HERB,Road,"I have no roots. All I know is that, I'm just a... lonely guy."
+157024,28,171,640000,Homer Simpson,Powell Estate,"Marge, this can't be the right address."
+157025,28,172,646000,Homer Simpson,Powell Estate,Hello in there.
+157026,28,173,648000,HERB,Powell Estate,Homer?
+157027,28,174,649000,Homer Simpson,Powell Estate,Herb?
+157028,28,175,651000,HERB,Powell Estate,"Homer! Homer! Welcome to my home, Brother!"
+157029,28,176,666000,Homer Simpson,Powell Estate,Holy moly! The bastard's rich!
+157031,28,178,670000,Homer Simpson,Mansion,"Herb, allow me to introduce my family. This is my wife, Marge..."
+157032,28,179,674000,Marge Simpson,Mansion,Hello.
+157033,28,180,674000,HERB,Mansion,"Hello. You old dog, she's gorgeous!"
+157034,28,181,677000,Marge Simpson,Mansion,Thank you.
+157035,28,182,679000,Homer Simpson,Mansion,"... and our three children, Bart, Lisa and Maggie."
+157036,28,183,682000,Bart Simpson,Mansion,"Hello, sir."
+157037,28,184,682000,Lisa Simpson,Mansion,"Hello, Mr. Powell"
+157038,28,185,684000,HERB,Mansion,All born in wedlock?
+157039,28,186,686000,Homer Simpson,Mansion,"Yeah, though the boy was a close call."
+157040,28,187,688000,HERB,Mansion,"So, Lisa, are you the little hell-raiser your father told me about?"
+157041,28,188,693000,Lisa Simpson,Mansion,"No, sir. I can assure you I am not."
+157042,28,189,694000,Bart Simpson,Mansion,"I'm the little hell-raiser, sir."
+157043,28,190,697000,Marge Simpson,Mansion,"Would you like to hold the baby, Herb?"
+157044,28,191,699000,HERB,Mansion,"Oh, I'm afraid I wouldn't know how."
+157045,28,192,700000,Homer Simpson,Mansion,What's to know? Just dive in. Catch!
+157046,28,193,705000,HERB,Mansion,"God, that new-baby smell. Homer, you're the richest man I know."
+157047,28,194,711000,Homer Simpson,Mansion,I feel the same about you.
+157049,28,196,714000,HERB,ESTATE GROUNDS,"While you're here, I want you to make yourselves right at home. Anytime you're hungry, anytime day or night, Cook will make you anything you want."
+157050,28,197,722000,Homer Simpson,ESTATE GROUNDS,Even pork chops?
+157051,28,198,723000,HERB,ESTATE GROUNDS,"Absolutely. We have a tennis court, a swimming pool, a screening room --"
+157052,28,199,728000,Homer Simpson,ESTATE GROUNDS,"You mean, if I want pork chops -- even in the middle of the night -- your guy'll fry 'em up?"
+157053,28,200,733000,HERB,ESTATE GROUNDS,"Sure. That's what he's paid for. Now, if you need towels, laundry, maids..."
+157055,28,201,737000,Homer Simpson,ESTATE GROUNDS,"Wai-wai-wait, wait, wait. Let me see if I got this straight... It's Christmas day, four a.m., there's a rumble in my stomach..."
+157056,28,202,744000,Marge Simpson,ESTATE GROUNDS,"Homer, please."
+157057,28,203,745000,HERB,ESTATE GROUNDS,Your old man sure loves pork chops.
+157058,28,204,748000,Bart Simpson,ESTATE GROUNDS,"He sure does, Uncle Herb."
+157059,28,205,750000,HERB,ESTATE GROUNDS,"Bart, Uncle Herb sounds so formal. Do you think you could call me Unky Herb?"
+157060,28,206,757000,Bart Simpson,ESTATE GROUNDS,"No problemo, Unky Herb."
+157061,28,207,758000,HERB,ESTATE GROUNDS,He's adorable. My nephew's adorable.
+157063,28,209,762000,Lisa Simpson,Mansion,Marco!
+157064,28,210,763000,Bart Simpson,Mansion,Polo!
+157065,28,211,764000,Lisa Simpson,Mansion,Marco!
+157066,28,212,764000,Bart Simpson,Mansion,Polo!
+157067,28,213,765000,Homer Simpson,Mansion,Will you kids shut up?
+157068,28,214,768000,HERB,Mansion,"So, Marge, a little about yourself."
+157069,28,215,770000,Marge Simpson,Mansion,"Hmm, well, I met Homer in high school. We got married and had three beautiful children."
+157070,28,216,776000,HERB,Mansion,"Wow, we have so much catching up to do."
+157071,28,217,779000,Marge Simpson,Mansion,"Actually, I just told you pretty much everything."
+157072,28,218,783000,Lisa Simpson,Mansion,Watch me dive! Watch me dive! Watch me dive!
+157073,28,219,785000,Homer Simpson,Mansion,"Okay, we're watching."
+157074,28,220,787000,Marge Simpson,Mansion,I hope we're not spoiling them.
+157075,28,221,789000,HERB,Mansion,Nah.
+157076,28,222,789000,Lisa Simpson,Mansion,You weren't watching! You weren't watching! You weren't watching!
+157077,28,223,801000,Grampa Simpson,Mansion,"A millionaire!... I kept the wrong one. Look son, I'll come as soon as I can get outta here. In the meantime, pleeze don't do anything stupid."
+157078,28,224,816000,Bart Simpson,Mansion,"Unky Herb, can I spit over the side?"
+157079,28,225,819000,HERB,Mansion,I love this kid. Hock your brains out.
+157080,28,226,825000,Bart Simpson,Mansion,"Ohh, oh, got him."
+157081,28,227,827000,Homer Simpson,Mansion,"Hello, Cook? Sorry to bother you so late, but I got a hankerin' for some... that's right... don't forget the apple sauce!"
+157083,28,229,836000,HERB,Powell Motors Corporate Headquarters,"Okay, Homer. Pick out any one you want."
+157084,28,230,839000,Homer Simpson,Powell Motors Corporate Headquarters,Are you sure you want to give me a car?
+157085,28,231,841000,HERB,Powell Motors Corporate Headquarters,"Hey, you know what these things cost me? There's maybe forty bucks worth of steel in them."
+157086,28,232,847000,Homer Simpson,Powell Motors Corporate Headquarters,"Oh, okay. I'd like a big one, then."
+157054,28,233,850000,Executive #2,Powell Motors Corporate Headquarters,We don't have a big one.
+157088,28,234,851000,Homer Simpson,Powell Motors Corporate Headquarters,Why not?
+157089,28,235,852000,Executive #3,Powell Motors Corporate Headquarters,Because Americans don't want big cars.
+157090,28,236,855000,Homer Simpson,Powell Motors Corporate Headquarters,"Well, then give me one with lots of pep."
+157091,28,237,856000,Executive #2,Powell Motors Corporate Headquarters,"Sorry, our cars don't have pep."
+157092,28,238,858000,HERB,Powell Motors Corporate Headquarters,Why not?
+157093,28,239,859000,Executive #3,Powell Motors Corporate Headquarters,"Because Americans want good mileage, not pep."
+157094,28,240,862000,HERB,Powell Motors Corporate Headquarters,"Homer, tell the nice man what country you come from."
+157095,28,241,865000,Homer Simpson,Powell Motors Corporate Headquarters,America.
+157096,28,242,866000,HERB,Powell Motors Corporate Headquarters,"Do you hear that, you morons? This is why we're getting killed in the marketplace! Instead of listening to what people want, you're telling 'em what they want. Homer, I need your help."
+157097,28,243,877000,Homer Simpson,Powell Motors Corporate Headquarters,You do.
+157098,28,244,878000,HERB,Powell Motors Corporate Headquarters,Yeah. I want you to help me design a car. A car for all the Homer Simpsons out there! And I want to pay you two hundred thousand dollars a year!!
+157099,28,245,891000,Homer Simpson,Powell Motors Corporate Headquarters,And I want to let you!!
+157101,28,247,896000,HERB,Powell Motors Corporate Headquarters,"Homer, meet my team of engineers. They're gonna build your car."
+157102,28,248,901000,Homer Simpson,Powell Motors Corporate Headquarters,"Hi'ya, team."
+157103,28,249,902000,HERB,Powell Motors Corporate Headquarters,"Now boys and girls, this project is our top priority. Everything else is on hold. I don't want to see anything until it's finished."
+157104,28,250,908000,HERB,Powell Motors Corporate Headquarters,"Up-up-up-up-up! Direct all your questions to Mister Homer Simpson, the man with the vision, the man who's gonna bust this company out of its rut, the man who's going to change American transportation forever."
+157105,28,251,923000,Head Engineer,Powell Motors Corporate Headquarters,"So, what kind of car would you like, Mr. Simpson?"
+157106,28,252,927000,Homer Simpson,Powell Motors Corporate Headquarters,I dunno.
+157108,28,254,928000,HERB,Powell Estate,"Whatever you kids want to do today, you just tell Unky Herb."
+157109,28,255,931000,Marge Simpson,Powell Estate,"Ohh, dear."
+157110,28,256,932000,Lisa Simpson,Powell Estate,"I want to go on a pony ride, Unky Herb."
+157111,28,257,933000,Bart Simpson,Powell Estate,"I want to go on a boat ride, Unky Herb."
+157112,28,258,933000,Lisa Simpson,Powell Estate,Pony ride!
+157113,28,259,933000,Bart Simpson,Powell Estate,Boat ride!
+157114,28,260,933000,Lisa Simpson,Powell Estate,Pony ride!
+157115,28,261,933000,Bart Simpson,Powell Estate,Boat ride!
+157116,28,262,935000,Lisa Simpson,Powell Estate,Pony ride! Boat ride! Pony ride! Boat ride!
+157117,28,263,940000,Bart Simpson,Powell Estate,"Ahoy, Mateys!"
+157019,28,264,940000,Lisa Simpson,Powell Estate,Heehaw!
+157118,28,265,944000,HERB,Powell Estate,Kids are so easy to please.
+157119,28,266,946000,Marge Simpson,Powell Estate,I really hope we're not spoiling them.
+157120,28,267,948000,HERB,Powell Estate,Nah.
+157122,28,269,949000,Homer Simpson,Powell Motors Corporate Headquarters,What's that?
+157123,28,270,951000,Head Engineer,Powell Motors Corporate Headquarters,The on-board computer.
+157124,28,271,953000,Homer Simpson,Powell Motors Corporate Headquarters,"All right. Wooo, what's that doohickey?"
+157125,28,272,955000,Head Engineer,Powell Motors Corporate Headquarters,"Mr. Simpson, your brother told you to help us with this car now, didn't he?"
+157126,28,273,958000,Homer Simpson,Powell Motors Corporate Headquarters,"Oh yeah, he did!"
+157127,28,274,959000,Head Engineer,Powell Motors Corporate Headquarters,"Hmmm hmmm, then why don't you get us some coffee."
+157128,28,275,963000,Homer Simpson,Powell Motors Corporate Headquarters,"Oh, okay."
+157129,28,276,965000,Bart Simpson,Powell Motors Corporate Headquarters,"Batting nine. Unky, Herbbbb!"
+157130,28,277,967000,Homer Simpson,Powell Motors Corporate Headquarters,"Ugh, oh boy."
+157131,28,278,971000,HERB,Powell Motors Corporate Headquarters,"Hey Homer, how's your car coming?"
+157132,28,279,972000,Homer Simpson,Powell Motors Corporate Headquarters,Oh fine. We're putting in an on-board something-or-other and rack-and-peanut steering...
+157133,28,280,977000,HERB,Powell Motors Corporate Headquarters,Homer...
+157134,28,281,978000,Homer Simpson,Powell Motors Corporate Headquarters,Huh?
+157135,28,282,979000,HERB,Powell Motors Corporate Headquarters,"You didn't ask for rack and pinion steering, did you?"
+157136,28,283,982000,Homer Simpson,Powell Motors Corporate Headquarters,"Uh, yeah, I think I did."
+157137,28,284,983000,HERB,Powell Motors Corporate Headquarters,How could you ask for it? You don't even know what it is! You just called it rack and peanut steering.
+157138,28,285,987000,Homer Simpson,Powell Motors Corporate Headquarters,"Uh, may I be excused, please?"
+157139,28,286,989000,HERB,Powell Motors Corporate Headquarters,"No! Homer, do you know why I gave you this job?"
+157140,28,287,992000,Homer Simpson,Powell Motors Corporate Headquarters,Because you think I'm a genius?
+157141,28,288,993000,HERB,Powell Motors Corporate Headquarters,"Nah, I don't think you're a genius."
+157142,28,289,995000,Homer Simpson,Powell Motors Corporate Headquarters,Because you think I'm dynamic?
+157143,28,290,996000,HERB,Powell Motors Corporate Headquarters,I don't think you're dynamic.
+157144,28,291,998000,Homer Simpson,Powell Motors Corporate Headquarters,You think I work well with others?
+157145,28,292,1000000,HERB,Powell Motors Corporate Headquarters,"No, no, no, no, no, no, no. Homer, I gave you this job because you're an average schmoo."
+157146,28,293,1003000,Homer Simpson,Powell Motors Corporate Headquarters,"Oh, great."
+157147,28,294,1004000,HERB,Powell Motors Corporate Headquarters,All you need is a little self-confidence.
+157148,28,295,1006000,Homer Simpson,Powell Motors Corporate Headquarters,"Ah, Unky Herb, I don't know anything about cars."
+157152,28,296,1008000,HERB,Powell Motors Corporate Headquarters,"Up...up...up. Listen to me, here's what you do. From now on, before you say anything, say to yourself, ""If I was ever sure of anything, I'm sure of this."" Do you understand?"
+157153,28,297,1018000,Homer Simpson,Powell Motors Corporate Headquarters,Sort of.
+157154,28,298,1019000,HERB,Powell Motors Corporate Headquarters,Homer!
+157155,28,299,1019000,Homer Simpson,Powell Motors Corporate Headquarters,What?
+157156,28,300,1020000,HERB,Powell Motors Corporate Headquarters,Answer me again with self-confidence.
+157157,28,301,1022000,Homer Simpson,Powell Motors Corporate Headquarters,Sort of!
+157158,28,302,1023000,HERB,Powell Motors Corporate Headquarters,Now go get 'em.
+157159,28,303,1026000,Homer Simpson,Powell Motors Corporate Headquarters,All right you eggheads! I want a place in this car to put my drink!
+157160,28,304,1029000,Head Engineer,Powell Motors Corporate Headquarters,"Sir, the car has a beverage holder."
+157161,28,305,1031000,Homer Simpson,Powell Motors Corporate Headquarters,Hel-lo? Hel-lo Einstein? I said a place to put my drink. You know those Super Slakers they sell at the Kwik-E-Mart? The cup is this big!
+157162,28,306,1041000,Head Engineer,Powell Motors Corporate Headquarters,Extremely large beverage holder.
+157163,28,307,1042000,Homer Simpson,Powell Motors Corporate Headquarters,And I'm not done yet. You know that little ball you put on the aerial so you can find your car in a parking lot? That should be on every car.
+157164,28,308,1049000,Head Engineer,Powell Motors Corporate Headquarters,Little... ball.
+157165,28,309,1051000,Homer Simpson,Powell Motors Corporate Headquarters,And some things are so snazzy they never go out of style! Like tail fins! And bubble domes! And shag carpeting!
+157166,28,310,1056000,Head Engineer,Powell Motors Corporate Headquarters,Bubble domes.
+157168,28,312,1058000,HERB,Mansion,"Y'ello. Uh-huh. Well, you know what, I'm glad you're nervous because that means we're on the right track... Uh huh... Uh huh... Uh huh... All right... all right. Okay, this is what you're gonna do. You're gonna hang up, call me back and say the exact opposite of everything you just said. Good bye."
+157169,28,313,1078000,HERB,Mansion,Bart! Lisa! Come over here!
+157170,28,314,1079000,Lisa Simpson,Mansion,What is it Unky Herb?
+157171,28,315,1080000,HERB,Mansion,I want you to hear what the guys down at the plant think of your old man.
+157172,28,316,1083000,HERB,Mansion,Y'ello.
+157173,28,317,1085000,Engineer #2,Mansion,"Homer Simpson is a brilliant man with lots of well thought out, practical ideas. He is insuring the financial security of this company for years to come. Oh yes, and his personal hygiene is above reproach."
+157175,28,319,1106000,Homer Simpson,Powell Motors Corporate Headquarters,"I want a horn here, here and here. You can never find a horn when you're mad. And they should all play ""La Cucaracha."""
+157149,28,320,1108000,Head Engineer,Powell Motors Corporate Headquarters,"Can do, Mr. S."
+157177,28,321,1115000,Homer Simpson,Powell Motors Corporate Headquarters,"And sometimes, the kids are in the back seat, they're hollering, they're making you nuts. There's got to be something you can do about that."
+157178,28,322,1122000,Head Engineer,Powell Motors Corporate Headquarters,Maybe a built-in video game would keep them entertained?
+157179,28,323,1124000,Homer Simpson,Powell Motors Corporate Headquarters,You're fired! What is my brother paying you for?
+157180,28,324,1126000,Engineer #3,Powell Motors Corporate Headquarters,What about a separate sound proof bubble dome for the kids? With optional restraints and nuzzles.
+157181,28,325,1132000,Homer Simpson,Powell Motors Corporate Headquarters,"Bullseye! And another thing. When I gun the motor, I want people to think the world is coming to an end! VROOM! VROOM! VROOM!"
+157183,28,327,1139000,Lisa Simpson,Powell Estate,The mouse is named Itchy.
+157184,28,328,1139000,HERB,Powell Estate,Uh huh.
+157185,28,329,1139000,Lisa Simpson,Powell Estate,The cat is named Scratchy.
+157186,28,330,1139000,HERB,Powell Estate,Uh huh.
+157187,28,331,1144000,Bart Simpson,Powell Estate,They hate each other.
+157188,28,332,1145000,Lisa Simpson,Powell Estate,And they're not shy about expressing it.
+157189,28,333,1147000,HERB,Powell Estate,"Oh good, good, good, good."
+157190,28,334,1165000,HERB,Powell Estate,To think I've wasted my life in board rooms and stockholders meetings when I could have been watching cartoons. This old fool has wasted his life.
+157191,28,335,1187000,Lisa Simpson,Powell Estate,Hello there. Do you miss the Antarctic?
+157192,28,336,1190000,Marge Simpson,Powell Estate,Now this is spoiling them.
+157193,28,337,1195000,Homer Simpson,Powell Estate,No! No! No! No! No!
+157196,28,340,1207000,HERB,SHOWROOM THEATRE,"Ladies and gentlemen... esteemed stockholders... members of the press... your Holiness. Tonight, we are going to witness automotive history."
+157197,28,341,1222000,Homer Simpson,SHOWROOM THEATRE,"All my life, I have searched for a car that feels a certain way."
+157198,28,342,1222000,Female Singer,SHOWROOM THEATRE,Homer gets...
+157199,28,343,1228000,Homer Simpson,SHOWROOM THEATRE,"Powerful, like a gorilla, yet soft and yielding, like a Nerf ball. Now, at last, I have found it."
+157200,28,344,1236000,Announcer,SHOWROOM THEATRE,"Ladies and gentlemen, presenting the car designed for the Average Man... The Homer!"
+157201,28,345,1242000,HERB,SHOWROOM THEATRE,Ew.
+157202,28,346,1249000,HERB,SHOWROOM THEATRE,Any questions?
+157203,28,347,1250000,Reporter,SHOWROOM THEATRE,What does this monstrosity cost?
+157204,28,348,1252000,HERB,SHOWROOM THEATRE,"Uh, Jerry, what's the sticker price?"
+157205,28,349,1256000,HERB,SHOWROOM THEATRE,"Eighty-two-thousand dollars! This monstrosity costs eighty-two-thousand dollars? What have I done! I mean the zoo was fun, but I'm ruined."
+157151,28,351,1277000,Bart Simpson,Powell Motors Corporate Headquarters,"Bye, Unky Herb."
+157206,28,352,1277000,Lisa Simpson,Powell Motors Corporate Headquarters,"Bye, Unky Herb."
+157207,28,353,1278000,Marge Simpson,Powell Motors Corporate Headquarters,"Bye, Herb."
+157208,28,354,1280000,Homer Simpson,Powell Motors Corporate Headquarters,"Gee, Herb, because of me you lost your business, your home, and all your possessions. I can't help but think that maybe you would have been better off if I'd never come into your life."
+157209,28,355,1291000,HERB,Powell Motors Corporate Headquarters,"Maybe I would have been better off?! Maybe? Why, you spongehead, of course I'd have been better off! As far as I'm concerned, I have no brother."
+157210,28,356,1302000,Homer Simpson,Powell Motors Corporate Headquarters,Ooo.
+157211,28,357,1302000,Marge Simpson,Powell Motors Corporate Headquarters,Maybe he just said that to make conversation.
+157212,28,358,1306000,Lisa Simpson,Powell Motors Corporate Headquarters,His life was an unbridled success until he found out he was a Simpson.
+157214,28,360,1313000,Grampa Simpson,Powell Estate,I'm here! Now where's that millionaire chip-off-the-old-block I call Sonny-Boy?
+157215,28,361,1318000,Homer Simpson,Powell Estate,"Get in, Dad. I'll explain on the way home."
+157216,28,362,1322000,Grampa Simpson,Powell Estate,I knew you'd blow it.
+157219,28,365,1327000,Bart Simpson,Simpson Car,Dad?
+157220,28,366,1328000,Homer Simpson,Simpson Car,"What is it, boy?"
+157221,28,367,1329000,Bart Simpson,Simpson Car,I thought your car was really cool.
+157222,28,368,1332000,Homer Simpson,Simpson Car,"Thanks, boy. I was waiting for someone to say that."

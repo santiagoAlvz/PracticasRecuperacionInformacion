@@ -1,0 +1,224 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+109056,420,1,34000,Celebrity Reporter,SPRINGFIELD HILTON,"Welcome to the thirty-eighth annual Springfield Showbiz Awards! There are more stars here tonight than you can see in the sky, thanks to light pollution."
+109057,420,2,41000,Celebrity Reporter,SPRINGFIELD HILTON,"Here comes the magnificently-mammaried mistress of midnight movie mayhem, Booberella! The twins look happy tonight!"
+109058,420,3,49000,Celebrity Reporter,SPRINGFIELD HILTON,"And what have we here? It's ventriloquist Arthur Crandall and his walnut wingman, Gabbo!"
+109059,420,4,54000,Paparazzi,SPRINGFIELD HILTON,Gabbo! / Gabbo! Over here! /
+109060,420,5,56000,Gabbo,SPRINGFIELD HILTON,"Get a job, parasites!"
+109061,420,6,60000,Theater Actor,SPRINGFIELD HILTON,"We now come to our final award, ""Entertainer of the Year."" An award so prestigious, that it recently won the ""Award of the Year"" award at the two thousand-seven ""Awardy Awards""."
+109062,420,7,70000,Theater Actor,SPRINGFIELD HILTON,This year's nominees are an eclectic group...
+109063,420,8,72000,Sideshow Mel,SPRINGFIELD HILTON,"This distinguished-looking gentleman is a highly-respected actor. It's not important what he says, or who he's a parody of. Only one person here really matters -- the recipient of this award."
+109064,420,9,85000,Sideshow Mel,SPRINGFIELD HILTON,"No, it is not me. I am but your humble narrator in this tale of fame, betrayal and coin collecting. But more about that later."
+109065,420,10,93000,Sideshow Mel,SPRINGFIELD HILTON,"Nor is it him. Nor him. Nor ham. No, tonight is about her..."
+109066,420,11,100000,Theater Actor,SPRINGFIELD HILTON,This year's award goes to... Lisa Simpson!
+109067,420,12,107000,Sideshow Mel,SPRINGFIELD HILTON,"Surprised? Let me start at the beginning, and tell you a little bit about Lisa."
+109068,420,13,113000,Sideshow Mel,SPRINGFIELD HILTON,"In fact, All About Lisa..."
+109071,420,16,119000,Announcer,SOUND STAGE,"And now, in honor of Krusty's four thousandth episode, put your hands together for Drew Carey!"
+109072,420,17,125000,Drew Carey,SOUND STAGE,"Thank you! Thank you! Wow, four thousand episodes -- seems like just yesterday Krusty stole his first joke from me. Seriously, though, I remember watching him as a kid, and I thought ""I could do that -- and I'm a kid!"" What I love about Krusty is, he's always on... but to find out what, you've gotta test his pee!"
+109073,420,18,146000,Homer Simpson,SOUND STAGE,Pee?!
+109074,420,19,146000,Drew Carey,SOUND STAGE,"Seriously, test his pee. He's a danger to the community. And now I give you a man whose act will never grow old, because it started out that way : Krusty the Clown!"
+109075,420,20,163000,Krusty the Clown,SOUND STAGE,"Thank you. I never thought I'd make it past four hundred episodes -- what with the drinking and the smoking and the fact that I'm just not that good. It seems like just yesterday that we started the show, with the original Krusketeers!"
+148271,420,21,179000,Young Krusty,SOUND STAGE,WHO'S OUR FAVORITE TV CLOWN WHO LIKES TO CLOWN AROUND / K-R-U...
+109076,420,22,184000,Krusketeers,SOUND STAGE,S-T-Y...
+148272,420,23,185000,Young Krusty,SOUND STAGE,"Hey! Quit steppin' on my solo, ya creepy little show monkeys!"
+109077,420,24,193000,Krusty the Clown,SOUND STAGE,"And here they are today! Come on out, Krusketeers!"
+109079,420,25,197000,Jesse Grass,SOUND STAGE,I'm Jesse!
+109080,420,26,201000,Jesse Grass,SOUND STAGE,Ow!
+109081,420,27,203000,C.J.,SOUND STAGE,C.J.!
+109083,420,29,210000,Middle-aged Man,SOUND STAGE,"You owe me money, Krusty!"
+109084,420,30,211000,Middle-aged Man,SOUND STAGE,Security guards hustle him off.
+109085,420,31,211000,Middle-aged Man,SOUND STAGE,"I did time for you, clown! Hard time!"
+109086,420,32,215000,Krusty the Clown,SOUND STAGE,Isn't that great. They all came back to see me!
+109087,420,33,218000,Drew Carey,SOUND STAGE,That's right! All except the successful ones.
+109088,420,34,221000,Krusty the Clown,SOUND STAGE,"Now guess what, kids... the Krusty Show is searching for a new Krusketeer. It could be any of you..."
+109089,420,35,229000,Krusty the Clown,SOUND STAGE,As long you're willing to sign a twenty year personal services contract where I get ninety-nine percent of all your earnings.
+109090,420,36,236000,Bart Simpson,SOUND STAGE,I am so gonna try out for that!
+109091,420,37,237000,Milhouse Van Houten,SOUND STAGE,Me too! But I hope you get it.
+109092,420,38,240000,Bart Simpson,SOUND STAGE,"No, I hope you get it."
+109093,420,39,241000,Milhouse Van Houten,SOUND STAGE,Well I really hope you get it.
+109094,420,40,243000,Bart Simpson,SOUND STAGE,"Yeah, I hope I get it too. Later!"
+109095,420,41,246000,Milhouse Van Houten,SOUND STAGE,"For a second there, he hoped I got it."
+109098,420,44,260000,Krusty the Clown,Krusty the Clown Show Soundstage,"A great man once observed: ""Ninety percent of success is showing up on time."" Sorry I'm four hours late. Now let's pick a Krusketeer!"
+109100,420,46,276000,Martin Prince,Krusty the Clown Show Soundstage,OW OW
+109101,420,47,276000,E-Mail,Krusty the Clown Show Soundstage,OW OW
+109102,420,48,277000,Cosine,Krusty the Clown Show Soundstage,OW OW
+109103,420,49,277000,Database,Krusty the Clown Show Soundstage,OWWWWWWWW!
+109104,420,50,279000,Cosine,Krusty the Clown Show Soundstage,OW OW
+109105,420,51,279000,E-Mail,Krusty the Clown Show Soundstage,OW OW
+109106,420,52,281000,Martin Prince,Krusty the Clown Show Soundstage,OW OW
+109107,420,53,281000,Database,Krusty the Clown Show Soundstage,OWWWWWWWW!
+109108,420,54,285000,Bart Simpson,Krusty the Clown Show Soundstage,For my first impression...
+109109,420,55,288000,Bart Simpson,Krusty the Clown Show Soundstage,I'm a lantern fish.
+109110,420,56,296000,Bart Simpson,Krusty the Clown Show Soundstage,Now I'm a Jack-O-lantern...
+109111,420,57,299000,Bart Simpson,Krusty the Clown Show Soundstage,E.T.
+109112,420,58,301000,Bart Simpson,Krusty the Clown Show Soundstage,B.E.T.
+109113,420,59,302000,Lisa Simpson,Krusty the Clown Show Soundstage,"Yay, Bart!"
+109114,420,60,305000,Marge Simpson,Krusty the Clown Show Soundstage,My son's a good-for-something!
+109116,420,61,307000,Krusty the Clown,Krusty the Clown Show Soundstage,"Uh, yeah, okay. You kids were all terrific! I wish I could make each of you a Krusketeer, but we only have enough money for one. Plus, I don't really want to. So after much consideration of all your talents...my new Krusketeer is..."
+109117,420,62,323000,Krusty the Clown,Krusty the Clown Show Soundstage,What's your kid's name again?
+109118,420,63,325000,Mrs. Muntz,Krusty the Clown Show Soundstage,Nelson Muntz!
+109119,420,64,327000,Krusty the Clown,Krusty the Clown Show Soundstage,Wilbur Mudd!
+109120,420,65,328000,Nelson Muntz,Krusty the Clown Show Soundstage,That's me! Here's Mudd in your eye!
+109121,420,66,333000,Bart Simpson,Krusty the Clown Show Soundstage,I can't believe I lost.
+109122,420,67,338000,Lisa Simpson,Krusty the Clown Show Soundstage,That's not fair -- Bart was great.
+109123,420,68,342000,Lisa Simpson,Krusty the Clown Show Soundstage,"Hey Krusty, you're making a huge mistake not hiring my brother. Why don't you hire them both? It won't cost you anything -- you could call Bart an intern."
+109124,420,69,350000,Lisa Simpson,Krusty the Clown Show Soundstage,"In fact, the intern thing could open up a whole new world of free labor for you! Did you know the Discovery Channel doesn't have a single paid employee?"
+109125,420,70,359000,Krusty the Clown,Krusty the Clown Show Soundstage,"Hm. Okay kid, you've convinced me!"
+109126,420,71,361000,Lisa Simpson,Krusty the Clown Show Soundstage,To make Bart a Krusketeer?
+109127,420,72,363000,Krusty the Clown,Krusty the Clown Show Soundstage,"Hell no! To make you my new intern. You're a real go-getter. Now go get me my dry-cleaning, which is my code word for scotch, and get me my scotch, which is my code word for my bookie. Also, go get my dry-cleaning."
+109128,420,73,375000,Lisa Simpson,Krusty the Clown Show Soundstage,Wha... but...
+109129,420,74,376000,Krusty the Clown,Krusty the Clown Show Soundstage,"Wha, but, wha, wha, wha, but... What are you standing around for?! I wish I was paying you, so I could dock your salary!"
+109131,420,76,384000,Sideshow Mel,SOUNDSTAGE,"Lisa didn't know it then, but she had just dipped her toe into the business of show. And it is a business, as you shall find out in about three seconds. Two... one..."
+109134,420,79,398000,Sideshow Mel,Backstage,"Over the years, show business has been home to scoundrels and saints, thespians and harlequins, Abbots and Costelli. And they all had one thing in common -- an underpaid assistant."
+109135,420,80,410000,Krusty the Clown,Backstage,"Cancel my one o'clock. Move my two o'clock to one o'clock and cancel that. Oh, and go to my joke file, and make all the ""Sophia Lorens"" into ""Lindsay Lohans""."
+109136,420,81,414000,Lisa Simpson,Backstage,So do a global change?
+109137,420,82,420000,Krusty the Clown,Backstage,"What am I, Al Gore? Just do it!"
+109115,420,83,428000,Krusty the Clown,Backstage,What are you lookin' at?
+109138,420,84,430000,Nelson Muntz,Backstage,I'm just trying to hit my marks.
+109139,420,85,432000,Krusty the Clown,Backstage,And I don't? Is that what you're saying?
+109140,420,86,434000,Nelson Muntz,Backstage,"No, no! I think you're a consummate pro!"
+109141,420,87,437000,Krusty the Clown,Backstage,"Oh, so now you're judging me. Well, whaddaya think of this: you're fired!"
+109142,420,88,441000,Nelson Muntz,Backstage,"Yeah, well my mom says you're a selfish lover!"
+109143,420,89,445000,Krusty the Clown,Backstage,I know what I want and I get it!
+109144,420,90,449000,Krusty the Clown,Backstage,I'll trash you in my memoirs!
+109145,420,91,451000,Krusty the Clown,Backstage,Pay attention! You'll be writing my memoirs!
+109146,420,92,453000,Lisa Simpson,Backstage,I'll never last here.
+109147,420,93,455000,Sideshow Mel,Backstage,"Chin up, little gofer! You can succeed with Krusty. A few hints -- always carry a cigar in case he asks. Never meet his gaze. And if he mentions Mitzi Gaynor -- and he will -- for God's sake act like you know who she is..."
+109148,420,94,471000,Krusty the Clown,Backstage,"I got pastrami stuck in my teeth, and that's everybody's problem! Who's got floss?"
+109149,420,95,483000,Lisa Simpson,Backstage,"Here you go, Krusty."
+109150,420,96,484000,Krusty the Clown,Backstage,"Nicely done, kid. You're the best thing that's happened to this business since..."
+109151,420,97,492000,Lisa Simpson,Backstage,Mitzi Gaynor?
+109152,420,98,494000,Krusty the Clown,Backstage,"I was gonna say ""cheap Korean animation,"" but sure."
+109154,420,100,498000,Bart Simpson,Simpson Home,I can't believe you're working for Krusty and I'm not. I know everything about that clown. Favorite blintz -- blueberry. Favorite horse in the 2004 Belmont -- Smarty Jones. Krusty lost a bundle and had to endorse baby wipes in Norway. Which I have a case of!
+109155,420,101,512000,Lisa Simpson,Simpson Home,Krusty Klovnen Baby Visker?
+109156,420,102,518000,Homer Simpson,Simpson Home,Bart's having girl trouble. You better go talk to him.
+109157,420,103,520000,Marge Simpson,Simpson Home,It's clown trouble. That's your responsibility.
+109158,420,104,524000,Homer Simpson,Simpson Home,I thought I was in charge of bedtime stories and pets dying.
+109159,420,105,527000,Marge Simpson,Simpson Home,"Yeah, well, we're adding clowns."
+109160,420,106,528000,Homer Simpson,Simpson Home,"Fine -- but you just bought yourself ""ear piercing"" and ""strange new feelings."""
+109161,420,107,530000,Marge Simpson,Simpson Home,Fine.
+109162,420,108,534000,Bart Simpson,Simpson Home,"Lisa's got school, career, posture -- why'd she have to steal Krusty from me?!"
+109165,420,109,539000,Homer Simpson,Simpson Home,"Son, the healthy thing is to get rid of everything that reminds you of Krusty...which appears to be everything. Hey, maybe we should give Lisa this room. You know she works for Krusty now."
+109168,420,112,553000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Okay, here's my offer -- all this primo Krusty merchandise for that copy of ""Radioactive Man vs. Muhammad Ali""."
+109169,420,113,553000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"My counter-offer: ""Radioactive Man Meets the Kansas City Royals""."
+109170,420,114,553000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"How 'bout ""Radioactive Man versus Restless Leg Syndrome""?"
+109171,420,115,568000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Let us try a different tack. Are you interested in coin collecting?
+109172,420,116,572000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Am I?! No.
+109173,420,117,576000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Wait, wait, wait! I'll start you off with this bicentennial quarter...and I'll throw in my man scrunchie."
+109174,420,118,588000,Homer Simpson,The Android's Dungeon & Baseball Card Shop,"Uh, we'll stick with the coins."
+109176,420,120,592000,Krusty the Clown,Krusty's Dressing Room,"Whoa, nice! Everything's in its place, nothing festering inside of nothing, you've alphabetized my book collection..."
+109177,420,121,602000,Krusty the Clown,Krusty's Dressing Room,I've never had such a great assistant!
+109178,420,122,606000,Krusty the Clown,Krusty's Dressing Room,"I'm gonna call you ""the Goy Wonder""! Because I don't remember your name."
+109180,420,124,610000,Bart Simpson,Simpson Home,"All right, time to fill these slots with coins. Specific coins? This hobby sucks!"
+109181,420,125,617000,Homer Simpson,Simpson Home,"Son... all hobbies suck. But if you keep at it, you might find at the end that you've managed to kill some precious time."
+109182,420,126,626000,Bart Simpson,Simpson Home,"Wow, I never thought of it like that."
+109183,420,127,629000,Homer Simpson,Simpson Home,Do you wanna collect coins with your old man?
+109184,420,128,630000,Bart Simpson,Simpson Home,You bet I do.
+109185,420,129,632000,Homer Simpson,Simpson Home,To your mother's purse!
+109188,420,132,660000,Bart Simpson,Springfield Street,Slide in the eighteen sixty-three confederate half-dime... and every slot is full.
+109189,420,133,680000,Homer Simpson,Springfield Street,This is the first book I've ever finished reading or pushing things into.
+109190,420,134,684000,Homer Simpson,Springfield Street,We missed one!
+109163,420,136,688000,Bart Simpson,Simpson Home,"""The Inverted Double-struck Penny, or 'Kissing Lincolns'..."""
+109192,420,137,688000,Bart Simpson,Simpson Home,"""...was mistakenly minted in December of 1917, when a brief glimpse of a woman's ankle caused three days of rioting at the Philadelphia Mint."""
+109193,420,138,688000,Homer Simpson,Simpson Home,"The one on the left looks into it, but the one on the right is just experimenting. Son, we are getting that coin!"
+109195,420,140,709000,Krusty the Clown,Krusty the Clown Show Soundstage,"Here I am, walking the plank. I wish this mean pirate wasn't poking me with his sword! Where's the chimp?"
+109196,420,141,715000,Sideshow Mel,Krusty the Clown Show Soundstage,Mr. Teeny's not here! He's stuck in traffic!
+109197,420,142,718000,Krusty the Clown,Krusty the Clown Show Soundstage,"Oh, what do I do? I can't ad lib to save my life!"
+109198,420,143,722000,Lisa Simpson,Krusty the Clown Show Soundstage,Yo ho ho and a bottle of fun!
+109199,420,144,727000,Krusty the Clown,Krusty the Clown Show Soundstage,"What are you doin', kid?"
+109200,420,145,728000,Lisa Simpson,Krusty the Clown Show Soundstage,My job: making you look good.
+109201,420,146,730000,Krusty the Clown,Krusty the Clown Show Soundstage,"Oh, yeah, right. So, what be your name, matey?"
+109202,420,147,734000,Lisa Simpson,Krusty the Clown Show Soundstage,Long John Seltzer!
+109203,420,148,747000,Sideshow Mel,Krusty the Clown Show Soundstage,The laughter swept over her like a wave -- enveloping her in its intoxicating embrace.
+109205,420,150,753000,Sideshow Mel,Krusty's Cabin,"The next week, Krusty went to his Lake Tahoe retreat for some R and R. But he was about to get an unexpected visit from a third and fourth R...Ron Rabinowitz."
+109206,420,151,766000,Ron Rabinowitz,Krusty's Cabin,"Krusty, I've been your agent for forty-five years. I am telling you, watch out for this Lisa Simpson character. She has got a taste for Lady Laughter, and she will step right over a certain clown to get it."
+109207,420,152,776000,Krusty the Clown,Krusty's Cabin,Which clown? Chuckles? Professor Nitwit?
+109208,420,153,779000,Ron Rabinowitz,Krusty's Cabin,"No, you!"
+109209,420,154,780000,Krusty the Clown,Krusty's Cabin,"No Yu, the Chinese Clown?"
+109210,420,155,785000,Ron Rabinowitz,Krusty's Cabin,"Great one, Krusty. But seriously, you're in real trouble here."
+109211,420,156,789000,Krusty the Clown,Krusty's Cabin,"Yeah?... what do you mean? If there was a rehearsal for the network, I would've been told by my... assistant?!"
+109213,420,158,801000,Lindsay Naegle,Krusty the Clown Show Soundstage,"Well, where is he?"
+109214,420,159,802000,Lisa Simpson,Krusty the Clown Show Soundstage,"I don't know, I guess he forgot, but people seemed to like me last week."
+109215,420,160,807000,Channel 6 Executive,Krusty the Clown Show Soundstage,You stood in for Mr. Teeny... how'd you like to stand in for Krusty?
+109216,420,161,810000,Lisa Simpson,Krusty the Clown Show Soundstage,"Oh, well, it's one thing to fill in for a monkey. But a comedy legend? I wouldn't dream of it."
+109217,420,162,817000,Channel 6 Executive,Krusty the Clown Show Soundstage,I respect that. Cancel the run-through.
+109218,420,163,819000,Lisa Simpson,Krusty the Clown Show Soundstage,"Okay, I'll do the monologue."
+109220,420,165,819000,Security Guard,Krustylu Studios,"Evening, Mr. Krusty. Great show last--"
+109221,420,166,823000,Krusty the Clown,Krustylu Studios,"Sorry, I can't act like you matter!"
+109223,420,168,832000,Krusty the Clown,Krusty the Clown Show Soundstage,"Have no fear, the star is here!"
+109224,420,169,834000,Stagehand,Krusty the Clown Show Soundstage,Shhh! We're working!
+109225,420,170,837000,Lisa Simpson,Krusty the Clown Show Soundstage,"So the centipede says: ""I'm goin'! I'm goin'! ...I'm just puttin' on my shoes!"""
+109227,420,172,840000,Lindsay Naegle,Krusty the Clown Show Soundstage,Now that's well-performed comedy!
+109228,420,173,847000,Krusty the Clown,Krusty the Clown Show Soundstage,"Oh my God. Everything you said came true, Ron. Ron?"
+109229,420,174,852000,Ron Rabinowitz,Krusty the Clown Show Soundstage,"So you'll come to the agency tomorrow and I'll introduce you to the whole team, okay? You like egg white omelets? I'll be waiting -- you're a good girl."
+109230,420,175,860000,Krusty the Clown,Krusty the Clown Show Soundstage,I've been replaced by an eight-year-old. I can be eight!
+109231,420,176,865000,Krusty the Clown,Krusty the Clown Show Soundstage,La-la-la! I'm eight years old!
+109232,420,177,875000,Sideshow Mel,Krusty the Clown Show Soundstage,"Krusty, you've learned that fame, that fickle beauty, can leave you when you need it most."
+109233,420,178,881000,Sideshow Mel,Krusty the Clown Show Soundstage,"And Lisa had a lesson to learn as well. A lesson about-- you, there! Cut that out!"
+109234,420,179,887000,Moe Szyslak,Krusty the Clown Show Soundstage,"Sorry, sorry."
+109236,420,181,892000,Lisa Simpson,Krustylu Studios,"Thank you, folks -- you've been a great audience."
+109237,420,182,898000,Lisa Simpson,Krustylu Studios,I'm gonna keep this forever!
+109238,420,183,900000,Sideshow Mel,Krustylu Studios,All of Springfield fell head over heels for Lisa.
+109239,420,184,904000,Sideshow Mel,Krustylu Studios,Here she comes. Quick -- switch from internal monologue to external dialogue!
+109240,420,185,908000,Sideshow Mel,Krustylu Studios,Shall we visit the commissary to toast your success?
+109241,420,186,911000,Lisa Simpson,Krustylu Studios,"Yeah, sure, Mel. Let me just wave one more goodbye to my fans."
+109243,420,188,932000,Sideshow Mel,Krustylu Studios,"While applause rained down on Lisa, poor Krusty found himself parched."
+109245,420,189,937000,Krusty the Clown,Krustylu Studios,"It's three-thirty-two a.m., which means it's time for ""Last Gasp, with Krusty the Clown!"""
+109246,420,190,945000,Krusty the Clown,Krustylu Studios,"Brought to you by Nappien, Nok-em-Out and Nok-em-Out Jr. for kids. Tonight's guest is local bully, Jimbo Jones?"
+109247,420,191,958000,Krusty the Clown,Krustylu Studios,This is the lowest I've ever sunk. And I once made out with a blow-up doll.
+109248,420,192,970000,Jimbo Jones,Krustylu Studios,"Sorry you broke up with me now, Cindy?"
+109250,420,194,973000,Bart Simpson,Simpson Home,One of these has got to be that smooching Lincoln penny.
+109251,420,195,976000,Bart Simpson,Simpson Home,Nope... Nope... Dime... Button... Pepperoni slice...
+109252,420,196,978000,Homer Simpson,Simpson Home,Wait!
+109253,420,197,980000,Homer Simpson,Simpson Home,This is a classic nineteen seventy-eight Pizza Hut! Mmm... terrible.
+109254,420,198,988000,Bart Simpson,Simpson Home,Nope... Nope... Nope...
+109255,420,199,990000,Homer Simpson,Simpson Home,"Son, coin collecting's a lot like life. It stopped being fun a long time ago. But unlike life, I have a solution for this."
+109257,420,201,1001000,Auctioneer,Gavelby's Auction House,"Going once, going twice... sold to Mr. Burns!"
+109258,420,202,1005000,C. Montgomery Burns,Gavelby's Auction House,"I've won every coin. But I feel strangely empty. Ooh, there's another coin. That should do it."
+109259,420,203,1011000,Auctioneer,Gavelby's Auction House,"Our last item up for bid is a mint-condition 1917 ""Kissing Lincoln"" penny."
+109260,420,204,1016000,Homer Simpson,Gavelby's Auction House,"Okay boy, this is it. Five dollars!"
+109261,420,205,1018000,C. Montgomery Burns,Gavelby's Auction House,Five hundred.
+109262,420,206,1019000,Homer Simpson,Gavelby's Auction House,Five dollars cash!
+109263,420,207,1022000,Auctioneer,Gavelby's Auction House,"Sir, the promise of cash is not an enticement. The current bid is five hundred dollars. Do I hear a counter bid? Going once... going twice..."
+109264,420,208,1027000,Bart Simpson,Gavelby's Auction House,Dad?
+109265,420,209,1031000,Homer Simpson,Gavelby's Auction House,Five hundred and one!
+109266,420,210,1032000,C. Montgomery Burns,Gavelby's Auction House,Ten million.
+109267,420,211,1033000,Homer Simpson,Gavelby's Auction House,"Objection, your honor."
+109268,420,212,1034000,Auctioneer,Gavelby's Auction House,"Sir, I am not a judge. But, um, overruled. Sold to Mr. Burns for ten million dollars!"
+109270,420,214,1042000,C. Montgomery Burns,Burns's Limo,"Mmm... I paid a pretty penny for this pretty penny, but it was worth it."
+109271,420,215,1049000,Homer Simpson,Burns's Limo,"Mr. Burns, my son and I have been collecting coins. It's really brought us closer together. That penny you bought tonight would mean the world to him."
+109272,420,216,1059000,C. Montgomery Burns,Burns's Limo,"Yes, but the problem is, if you had it, I wouldn't. You see the difficulty..."
+109273,420,217,1064000,Homer Simpson,Burns's Limo,"Yeah. I'll tell you what, at least help me buy the boy a gumball. Do you have change for a nickel?"
+109274,420,218,1072000,C. Montgomery Burns,Burns's Limo,"Oh, of course."
+109275,420,219,1074000,C. Montgomery Burns,Burns's Limo,"Smithers, step on it!"
+109276,420,220,1076000,C. Montgomery Burns,Burns's Limo,I only gave him four cents for that nickel! Monty Burns wins a--
+109278,420,222,1081000,Homer Simpson,Simpson Home,Aaaaannnnnd done.
+109279,420,223,1084000,Bart Simpson,Simpson Home,"Now, let's put it on a shelf and never look at it again."
+109280,420,224,1088000,Homer Simpson,Simpson Home,"You got it, boy."
+109281,420,225,1091000,Sideshow Mel,Simpson Home,"And so, bonded by love and larceny, father and son got dressed...had a minor disagreement..."
+109283,420,227,1098000,Sideshow Mel,Simpson Home,...patched things up...and went downtown...
+109285,420,229,1106000,Sideshow Mel,SPRINGFIELD HILTON,"...where they watched proudly, as Lisa accepted her award."
+109286,420,230,1118000,Sideshow Mel,SPRINGFIELD HILTON,"Lisa, before you walk away from this venerable hall and into the arms of your adoring fans, may I have a moment?"
+109287,420,231,1125000,Lisa Simpson,SPRINGFIELD HILTON,"Well, I do owe you everything... make it quick."
+109288,420,232,1128000,Sideshow Mel,SPRINGFIELD HILTON,Behold your fellow winners of the Entertainer of the Year Award.
+109289,420,233,1132000,Lisa Simpson,SPRINGFIELD HILTON,I don't recognize any of them.
+109290,420,234,1135000,Sideshow Mel,SPRINGFIELD HILTON,And why should you?
+109291,420,235,1137000,Sideshow Mel,SPRINGFIELD HILTON,"He appears nightly on Broadway... selling combs and mints in the men's room. She was fired after a bad rehearsal from ""Homeboys In Outer Space""."
+109292,420,236,1147000,Sideshow Mel,SPRINGFIELD HILTON,"And perhaps the saddest one of all... He graced stages from London to Los Angeles. When he played Biff in ""Death Of A Salesman,"" every woman in the audience wished they were Hap. But that was before he...""took the bone."""
+109293,420,237,1161000,Lisa Simpson,SPRINGFIELD HILTON,Melvin van Horne... Sideshow Mel?! It's you! How could this happen to you... to all these wonderful performers?
+109294,420,238,1175000,Sideshow Mel,SPRINGFIELD HILTON,"Applause is an addiction, like heroin or checking your email. Once you have a taste, you'll do anything to get more. Don't end up like these people. Don't end up like... me."
+109295,420,239,1193000,Lisa Simpson,SPRINGFIELD HILTON,"I need to get out while I still can. Thank you, Mel."
+109296,420,240,1197000,Lisa Simpson,SPRINGFIELD HILTON,"Everyone, wait!"
+109297,420,241,1198000,Lisa Simpson,SPRINGFIELD HILTON,"Um, there's someone I forgot to thank, and he's here tonight. Krusty, will you come up on stage, please?"
+109298,420,242,1204000,Krusty the Clown,SPRINGFIELD HILTON,What do you want? You've already taken everything I care about.
+109299,420,243,1208000,Lisa Simpson,SPRINGFIELD HILTON,Really? So what else is in the news?
+109300,420,244,1211000,Krusty the Clown,SPRINGFIELD HILTON,This just in: I don't give a crap.
+109301,420,245,1214000,Lisa Simpson,SPRINGFIELD HILTON,I'm trying to set you up for laughs.
+109302,420,246,1216000,Krusty the Clown,SPRINGFIELD HILTON,You're trying to set me up with a giraffe?
+109303,420,247,1219000,Krusty the Clown,SPRINGFIELD HILTON,"Oh, right. You guys know about giraffes, long legs, big neck."
+109304,420,248,1223000,Rainier Wolfcastle,SPRINGFIELD HILTON,Here comes the zinger.
+109305,420,249,1225000,Krusty the Clown,SPRINGFIELD HILTON,"Speakin' of necks, my girlfriend is a real pain in mine. She crashed her car into mine and said, ""Look honey, we have a hybrid."""
+109307,420,251,1229000,Lenny Leonard,SPRINGFIELD HILTON,Timely.
+109308,420,252,1238000,Sideshow Mel,SPRINGFIELD HILTON,"By giving everything away, she was able to keep the only thing that mattered -- her dignity. God, how I envy her."
+109309,420,253,1251000,Krusty the Clown,SPRINGFIELD HILTON,"Ruf! Ruf! Ooo, I think I'm in love!"
+109310,420,254,1253000,Sideshow Mel,SPRINGFIELD HILTON,"Krusty, please. My wife is giving birth as we speak!"
+109311,420,255,1257000,Krusty the Clown,SPRINGFIELD HILTON,Just four more takes. Come on.

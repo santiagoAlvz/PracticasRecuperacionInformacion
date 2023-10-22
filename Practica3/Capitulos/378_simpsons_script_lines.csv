@@ -1,0 +1,217 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+98091,378,1,103000,Announcer,Simpson Living Room,"We now return to... ""Hunch."""
+98092,378,2,106000,DETECTIVE #1,Simpson Living Room,There's your murderer!
+98093,378,3,109000,Detective #2,Simpson Living Room,"Are you sure, Hunch? How do you know?"
+98094,378,4,112000,HUNCH,Simpson Living Room,"Enh, something about his hair."
+98095,378,5,114000,Detective #2,Simpson Living Room,How did we miss that?! Get him!
+98096,378,6,121000,Detective #2,Simpson Living Room,"You did it again, Hunch. Let's go grab a bite. You know what I'm in the mood for?"
+98097,378,7,125000,HUNCH,Simpson Living Room,Could it be... turkey?
+98098,378,8,127000,Detective #2,Simpson Living Room,But how did you... Ahhh.
+98099,378,9,131000,Lisa Simpson,Simpson Living Room,It's amazing they've gotten five hundred and twelve shows out of this premise.
+98100,378,10,135000,Bart Simpson,Simpson Living Room,Remember when we saw Hunch's butt in the shower?
+98101,378,11,137000,Marge Simpson,Simpson Living Room,That was two seasons ago!
+98102,378,12,139000,Homer Simpson,Simpson Living Room,Now you can only see butts on cable.
+98103,378,13,142000,Kent Brockman,Simpson Living Room,"This is Kent Brockman, with an Isotope Baseball Update! The 'Topes are in first place since the acquisition of home-run king Buck Mitchell."
+98104,378,14,156000,Kent Brockman,Simpson Living Room,"Thanks to him, Springfield is once again overrun with fair-weather fans."
+98106,378,16,161000,Homer Simpson,Simpson TV Room,The Isotopes are winning? To the bandwagon!
+98108,378,18,167000,Homer Simpson,STADIUM,Nothing beats a day at the ballpark with my family.
+98109,378,19,171000,Homer Simpson,STADIUM,"Tickets, tickets, who needs tickets?"
+98110,378,20,174000,Marge Simpson,STADIUM,"Homer, we need those tickets to get in!"
+98111,378,21,176000,Homer Simpson,STADIUM,"Don't worry, I'll use the money I make to buy tickets from a scalper. Then I'll sell those tickets, and we'll be rich! Rich! We did it, baby! We made it through the rain!"
+98112,378,22,188000,Homer Simpson,STADIUM,"Tickets, thirty dollars! Big game, everyone wants to see the game..."
+98113,378,23,192000,Homer Simpson,STADIUM,Cop! Act like you're in love with me.
+98115,378,25,201000,Grampa Simpson,STADIUM,"You wanna know somethin', Bart?"
+98116,378,26,203000,Bart Simpson,STADIUM,"Nah, I know enough."
+98117,378,27,205000,Grampa Simpson,STADIUM,"I, myself, played in this ballpark, back in nineteen forty-deuce. That was during the war, when sushi was called ""liberty logs,"" and no one had ever heard of it."
+98118,378,28,215000,Lisa Simpson,STADIUM,"But, Grampa, in nineteen forty-two, they only played women's baseball here."
+98119,378,29,220000,Grampa Simpson,STADIUM,"Let's just say one of the ladies had some ""extra equipment."""
+98120,378,30,226000,Grampa Simpson,STADIUM,I was the center fielder for the Springfield Floozies!
+98121,378,31,229000,Grampa Simpson,STADIUM,"The pay wasn't much, but it kept me out of the war for a year."
+98122,378,32,234000,Female Left-fielder,STADIUM,Effie Lou is a man!
+98123,378,33,236000,Jasper Beardly,STADIUM,Get him! He could threaten my record for lady triples!
+98124,378,34,239000,Grampa Simpson,STADIUM,That was a magical summer...
+98125,378,35,242000,Grampa Simpson,STADIUM,How'd I get here?
+98126,378,36,244000,P.A. Announcer,STADIUM,"Now, to sing our national anthem, Payola recording artist, Tabitha Vixx!"
+98127,378,37,250000,Marge Simpson,STADIUM,She's married to Buck Mitchell! I bet that's why she's here tonight honoring America!
+98128,378,38,257000,TABITHA,STADIUM,OH SAY CAN YOU SEE / BY THE DAWN'S EARLY LIGHT... and now here's something from my new album... I'M TROUBLE-ISTIC!
+98129,378,39,274000,TABITHA,STADIUM,"STAY AWAY BOY, 'CAUSE YOU KNOW I'M TROUBLE-ISTIC / THINK YOU CAN CONTROL ME? YOU AIN'T BEIN' REALISTIC"
+98131,378,41,291000,Moe Szyslak,STADIUM,"Hey, Buck! Howzit feel knowin' your wife's turning on a creep like me? Weird, I bet?"
+98132,378,42,296000,TABITHA,STADIUM,"TROUBLE-ISTIC GIRL MAKES YOUR TROUBULATIONS GROW / DOUBLE TROUBLE-ISTIC WHEN YOU TRY TO TELL ME NO / TROUBLE! TROUBLE! Oh yeah, TROUBLE! AND THE HOME OF THE BRAVE!"
+98133,378,43,321000,BUCK,STADIUM,She just embarrassed me in front of the entire Tornado Belt League!
+98134,378,44,331000,Baseball Announcer,STADIUM,"So, next up for the Cosmos, Freddie Alvarado. Freddie, of course, the older brother of the famous Wolfboy of Juarez, Mexico, here's the pitch..."
+98135,378,45,343000,Baseball Announcer,STADIUM,And Buck Mitchell can't find the handle.
+98136,378,46,346000,Baseball Announcer,STADIUM,"That's an E-3 if you're keeping score at home, and if you are, your loneliness saddens me."
+98137,378,47,352000,Bart Simpson,STADIUM,"S'okay, Buck! Bad hop, bad hop!"
+98138,378,48,357000,Lisa Simpson,STADIUM,"Shake it off, Buck!"
+98139,378,49,361000,Bart Simpson,STADIUM,You suck!
+98140,378,50,362000,Lisa Simpson,STADIUM,I concur!
+98141,378,51,364000,Homer Simpson,STADIUM,Bart! Hand me that sack of batteries!
+98142,378,52,366000,Homer Simpson,STADIUM,Nine Volt! Double A! D!-D!-D!-D! Cordless drill!
+98143,378,53,369000,Baseball Announcer,STADIUM,"Job himself never had a tougher day at the ballpark than Buck Mitchell -- he's made six errors, struck out twice and swallowed a bee."
+98144,378,54,381000,Sideshow Mel,STADIUM,My fiancée!
+98147,378,56,387000,H.K. Duff,OWNER'S BOX,They're making a mockery out of Amerisnack.com troll-doll night.
+98148,378,57,391000,H.K. Duff,OWNER'S BOX,"You know what to do, Duffman."
+98149,378,58,393000,Duffman,OWNER'S BOX,"Oh, yeah! Time for: the Duff Triple-Malt Kiss-Cam!"
+98150,378,59,397000,Duffman,OWNER'S BOX,"Oh yeah, oh yeah, Duffman!"
+98151,378,60,407000,Carl Carlson,OWNER'S BOX,"Look, it's a thing!"
+98152,378,61,408000,Crowd,OWNER'S BOX,Awwww!
+98153,378,62,416000,Dr. Julius Hibbert,OWNER'S BOX,We both find public displays of affection vulgar.
+98154,378,63,420000,Bart Simpson,OWNER'S BOX,"C'mon, Doc -- she's a fine-lookin' woman! You don't wanna work that?"
+98155,378,64,429000,Marge Simpson,OWNER'S BOX,Homer? Homer? Now we have to kiss. The big TV is telling us to!
+98156,378,65,435000,Homer Simpson,OWNER'S BOX,Look at that ugly old man.
+98157,378,66,436000,Marge Simpson,OWNER'S BOX,That's you!
+98159,378,68,443000,Marge Simpson,OWNER'S BOX,"Give me a kiss, Homie."
+98160,378,69,444000,Homer Simpson,OWNER'S BOX,Really? You'd kiss an ugly old man like me?
+98161,378,70,447000,Marge Simpson,OWNER'S BOX,Only if he'll kiss me back.
+98162,378,71,459000,Carl Carlson,OWNER'S BOX,"Yeah, Homer! Suck that face!"
+98163,378,72,462000,Lenny Leonard,OWNER'S BOX,"Remember when we used to kiss like that, Carl? With our respective girlfriends?"
+98164,378,73,466000,Carl Carlson,OWNER'S BOX,"Yeah, I wonder where Jill and Kelly are now..."
+98165,378,74,468000,Lenny Leonard,OWNER'S BOX,"I heard Jill died. Kelly, I think, is a prostitute."
+98167,378,76,474000,Homer Simpson,Simpson Home,"What a game! I got on the kiss-cam, I participated in ""the wave,"" and I got to pee in a trough! Marge, can we get a trough?"
+98168,378,77,482000,Marge Simpson,Simpson Home,"For the last time, no!"
+98169,378,78,484000,Homer Simpson,Simpson Home,"Ooh, iced tea!"
+98170,378,79,488000,Marge Simpson,Simpson Home,"Hey, that was my iced tea. I just sweetened it to my liking!"
+98171,378,80,496000,Homer Simpson,Simpson Home,Buck Mitchell!
+98172,378,81,497000,Marge Simpson,Simpson Home,"Ooh, the baseball-playing man! I barely recognized you without your costume on."
+98173,378,82,503000,BUCK,Simpson Home,"Evenin', Ma'am. I uh... couldn't help seein' you two exchanging marital kisses tonight."
+98174,378,83,508000,Homer Simpson,Simpson Home,"Yes, yes. The game you played so horribly at."
+98175,378,84,511000,BUCK,Simpson Home,"Well, unfortunately... my marriage ain't so good."
+98176,378,85,516000,Marge Simpson,Simpson Home,"I never heard anything about it on the gossip shows, or the blogosphere or in my supermarket check-out magazine."
+98179,378,86,524000,BUCK,Simpson Home,"I was wonderin' if you and the mister could give us some marriage counseling. Ya know uh, in return, I can give you season tickets."
+98180,378,87,531000,Homer Simpson,Simpson Home,Season tickets?! I could entertain business clients. I might even land the Henderson account!
+98181,378,88,536000,Marge Simpson,Simpson Home,"Homer, can I see you in the kitchen?"
+98182,378,89,539000,Homer Simpson,Simpson Home,Sure. That means she wants to talk in private. It's probably about you.
+98183,378,90,546000,Marge Simpson,Simpson Home,"Homie, I don't think our marriage is so Jim Dandy that we should be counseling others."
+98184,378,91,552000,Homer Simpson,Simpson Home,"Hey, we've gone through more hardships than the Jews and Charlie Brown put together."
+98185,378,92,556000,Marge Simpson,Simpson Home,"Well, we have managed to squeeze a lot of fun out of married life."
+98186,378,93,565000,Homer Simpson,Simpson Home,That's just how I feel.
+98187,378,94,569000,BUCK,Simpson Home,"That's what I want -- carefree intimacy, with no edge of resentment!"
+98188,378,95,573000,Homer Simpson,Simpson Home,Buck Mitchell!
+98189,378,96,575000,Marge Simpson,Simpson Home,"Buck, I guess we can help you out. We'll start tomorrow!"
+98190,378,97,579000,Moe Szyslak,Simpson Home,"Hey Buck, Buck! Buck, it's me, the weird guy from the stadium!"
+98191,378,98,583000,BUCK,Simpson Home,"Uh, there were a lot of weird guys at the stadium tonight."
+98192,378,99,586000,Moe Szyslak,Simpson Home,Y'know I remembered you.
+98193,378,100,593000,Marge Simpson,Simpson Home,"Buck, Tabitha, welcome. We'll start your first marriage counseling session as soon as Homer gets here."
+98194,378,101,601000,Homer Simpson,Simpson Home,Sorry I'm late! I was just gathering my counseling equipment.
+98195,378,102,616000,Homer Simpson,Simpson Home,"Now let's remember: no one's right, and no one's wrong, till I say so."
+98196,378,103,623000,Marge Simpson,Simpson Home,"Uh, I-I think what Homer means is, why don't you tell us what each of you feels is the problem."
+98197,378,104,623000,BUCK,Simpson Home,"Well, I'm an old-fashioned guy you know, and when we got hitched, I just assumed she'd give up her international recording career to focus on my minor-league baseball dreams."
+98198,378,105,637000,Homer Simpson,Simpson Home,"Wow, I think we've really hit on something here. Unfortunately, we're out of time. How does that make you feel?"
+98199,378,106,644000,Homer Simpson,Simpson Home,"Shut up, my ten o'clock's here."
+98201,378,108,648000,Marge Simpson,Simpson Home,"Homer, please!"
+98202,378,109,649000,Marge Simpson,Simpson Home,"Uh, let's see here... Ooh, here's something the book's previous owner underlined! ""Be honest with your partner about what you're feeling."""
+98177,378,110,656000,TABITHA,Simpson Home,I don't want to waste any more time in a mismatched marriage.
+98203,378,111,663000,Marge Simpson,Simpson Home,"Hmmm... try to frame criticisms of your spouse in a positive way."""
+98204,378,112,663000,BUCK,Simpson Home,"Well, I'm positively sick of her shakin' her lady parts for the whole world to eyeball."
+98205,378,113,674000,Homer Simpson,Simpson Home,"Interesting, interesting...."
+98206,378,114,679000,Homer Simpson,Simpson Home,"Buck, you've got a beautiful woman with a hot body that any man would fantasize about, even while making love to his own Marge."
+98207,378,115,688000,TABITHA,Simpson Home,"Thank you, Homer."
+98208,378,116,690000,Marge Simpson,Simpson Home,Maybe we should stop here.
+98209,378,117,692000,Homer Simpson,Simpson Home,"Good idea, honey. Buck, would you mind signing a couple of baseballs for my boy?"
+98210,378,118,696000,BUCK,Simpson Home,"Uh yeah, sure."
+98211,378,119,711000,Homer Simpson,Simpson Home,Just sign your name above President Lincoln's.
+98213,378,121,714000,Lisa Simpson,Springfield Elementary School,"Isn't it weird that our parents are giving marital advice? They're always fighting -- if you listen closely, you can hear them arguing right now."
+98214,378,122,722000,Homer Simpson,Springfield Elementary School,And I say a monkey can mow our lawn!
+98216,378,124,730000,Marge Simpson,BUCK AND TABITHA'S HOUSE,This house is spectacular. You must have had a great view of the riots!
+98217,378,125,735000,Homer Simpson,BUCK AND TABITHA'S HOUSE,I stole a rack of fur coats. I sell one a year to pay for Christmas.
+98218,378,126,741000,TABITHA,BUCK AND TABITHA'S HOUSE,"You make me laugh, Homer."
+98219,378,127,743000,Homer Simpson,BUCK AND TABITHA'S HOUSE,"Why, 'cause I'm fat?"
+98220,378,128,745000,Marge Simpson,BUCK AND TABITHA'S HOUSE,"O-kay... tonight we're gonna discuss little ways to keep your romance alive. Make time for each other -- an hour, an evening, a mini-vacation..."
+98221,378,129,756000,TABITHA,BUCK AND TABITHA'S HOUSE,"Well, I am presenting at the ESPY awards next week."
+98222,378,130,760000,BUCK,BUCK AND TABITHA'S HOUSE,"And I'm receiving! Hey, we can wait for our limos together."
+98223,378,131,763000,Marge Simpson,BUCK AND TABITHA'S HOUSE,Or take the same limo.
+98224,378,132,766000,BUCK/TABITHA,BUCK AND TABITHA'S HOUSE,Oooh.
+98225,378,133,770000,Homer Simpson,BUCK AND TABITHA'S HOUSE,Like I always say: compromise is the key.
+98226,378,134,770000,Marge Simpson,BUCK AND TABITHA'S HOUSE,I always say that.
+98227,378,135,776000,Homer Simpson,BUCK AND TABITHA'S HOUSE,Let's compromise and say nobody said it.
+98229,378,137,780000,Baseball Announcer,BUCK AND TABITHA'S HOUSE,And here's the pitch to Buck Mitchell...
+98230,378,138,784000,Baseball Announcer,BUCK AND TABITHA'S HOUSE,"It's going, going... and like America's credibility on the world stage, that ball is gone!"
+98232,378,139,793000,Kent Brockman,BUCK AND TABITHA'S HOUSE,"Buck Mitchell is back, and sluggier than ever. With five homeruns in two nights, he's ended rumors of early retirement, and inspired rumors of steroid abuse! But I've heard this turnaround is due to the marriage counseling of Marge and Homer Simpson, seen in this file photo."
+98234,378,141,810000,Lenny Leonard,Moe's Tavern,"Homer, I'm proud of you. You've prolonged this celebrity marriage at least through playoff season."
+98235,378,142,815000,Carl Carlson,Moe's Tavern,"After that, who gives a hobo's crap? Am I right?"
+98237,378,144,825000,TABITHA,Springfield Civic Center,I'M A GIRL WHO LOVES A MAN / AND WE LIVE IN SEXY MARRIAGE LAND /
+98238,378,145,834000,TABITHA,Springfield Civic Center,SEXY MARRIAGE LAND!
+98239,378,146,837000,TABITHA,Springfield Civic Center,"Ooh, marriage."
+98240,378,147,838000,TABITHA,Springfield Civic Center,SEXY MARRIAGE LAND!
+98241,378,148,844000,Bart Simpson,Springfield Civic Center,Wow. I've got this sudden urge to give her a five dollar bill.
+98242,378,149,848000,Marge Simpson,Springfield Civic Center,That's it! We're outta here.
+98244,378,151,856000,Homer Simpson,Springfield Music Hall,"Hey Tabitha, great show. I like that part where you mentioned Springfield. Did you know that's where you are?"
+98245,378,152,862000,TABITHA,Springfield Music Hall,"Hey, why don't you stay and have a bite?"
+98246,378,153,864000,Homer Simpson,Springfield Music Hall,"Oh, you're so hot."
+98247,378,154,867000,Homer Simpson,Springfield Music Hall,If only I'd seen you before I met my wife.
+98248,378,155,870000,TABITHA,Springfield Music Hall,"Oh Homer, you're sweet, but... oh, you're talking to the chicken."
+98249,378,156,875000,Homer Simpson,Springfield Music Hall,Don't tell the hamburger in my car.
+98250,378,157,878000,TABITHA,Springfield Music Hall,"Listen, these shows always tense me up. While your fingers are greasy, could you give me a neck rub?"
+98251,378,158,885000,Homer Simpson,Springfield Music Hall,Okay.
+98252,378,159,887000,Homer Simpson,Springfield Music Hall,"So, why didn't you marry one of your crummy backup dancers?"
+98253,378,160,890000,TABITHA,Springfield Music Hall,"Eh, they're day laborers. We pick them up in the Home Depot parking lot."
+98254,378,161,895000,TABITHA,Springfield Music Hall,"Oh yeah... oh, that's it right there."
+98256,378,163,900000,TABITHA,Springfield Music Hall,"Oh yes, yes it feels so good."
+98258,378,165,904000,Homer Simpson,DRESSING ROOM DOOR,Oh yeah...
+98259,378,166,910000,Homer Simpson,DRESSING ROOM DOOR,Thank God I brought protection.
+98260,378,167,912000,Homer Simpson,DRESSING ROOM DOOR,I used to be so embarrassed buying these.
+98262,378,168,915000,BUCK,DRESSING ROOM DOOR,Homer Simpson! You're supposed to be my marriage counselor. I did workbook pages for you!
+98263,378,169,922000,Homer Simpson,DRESSING ROOM DOOR,"Oh, we're gonna have a lot to talk about at your three o'clock."
+98264,378,170,925000,BUCK,DRESSING ROOM DOOR,There ain't gonna be a three o'clock.
+98265,378,171,928000,Homer Simpson,DRESSING ROOM DOOR,Cancellations require twenty-four hours No-tice.
+98268,378,174,933000,Sports Talk Radio Host,Radio Station,"...and that's why Lou Gehrig was a selfish crybaby who deserved to die. Springfield, let's hear from you."
+98269,378,175,945000,Moe Szyslak,Radio Station,"Uh yeah, I got a question."
+98270,378,176,947000,Moe Szyslak,Radio Station,How come Buck Mitchell's game is in the toilet again?
+98271,378,177,950000,Sports Talk Radio Host,Radio Station,"Well, rumor has it his marriage is failing due to the inept counseling of Homer and Marge Simpson."
+98272,378,178,956000,Moe Szyslak,Radio Station,"I knew it! I knew it! So uh, do I win a Jock Squawk t-shirt?"
+98273,378,179,960000,Sports Talk Radio Host,Radio Station,"Uh no, sorry."
+98274,378,180,962000,Moe Szyslak,Radio Station,It don't need no writing on it. It don't even have to be clean.
+98275,378,181,964000,Sports Talk Radio Host,Radio Station,Is this Moe? What happened to that bumper sticker we gave you?
+98276,378,182,967000,Moe Szyslak,Radio Station,"Uh, it's holding in my hernia."
+98278,378,184,971000,Bart Simpson,Simpson Home,"Dad, because you and Mom screwed up Buck Mitchell's marriage, some kids beat me up at school today."
+98279,378,185,977000,Homer Simpson,Simpson Home,"Yeah, they beat me up at work. Look at the word they wrote on my skull."
+98280,378,186,982000,Bart Simpson,Simpson Home,"Oh, Papa."
+98281,378,187,984000,Homer Simpson,Simpson Home,I didn't want you to learn that word this way.
+98282,378,188,987000,Homer Simpson,Simpson Home,"Marge, we've gotta get Buck and Tabitha back together. This is the most important case of our careers!"
+98283,378,189,992000,Marge Simpson,Simpson Home,"Listen, Bub. We are out of the marriage counseling business. And the only one you should be giving chicken grease neck rubs to is me. But not me, 'cause I think they're disgusting."
+98284,378,190,1002000,Homer Simpson,Simpson Home,"Oh, so now we're judging each other based on things we've done. Real fair. Class act."
+98285,378,191,1009000,Homer Simpson,Simpson Home,I'm going back to the stadium to bring those two kids back together. And I'll do it with or without you!
+98286,378,192,1015000,Marge Simpson,Simpson Home,Then I guess you'll do it without me.
+98287,378,193,1017000,Homer Simpson,Simpson Home,But I wanted to do it with you.
+98288,378,194,1019000,Marge Simpson,Simpson Home,"Crossed arms mean ""no."""
+98289,378,196,1046000,Marge Simpson,Simpson Home,"Tabitha, what a coincidence -- I was just thinking sad thoughts about you!"
+98290,378,197,1051000,TABITHA,Simpson Home,I came to tell you I'm leaving Buck.
+98291,378,198,1053000,Marge Simpson,Simpson Home,What? No! No! What? No! What?
+98292,378,199,1062000,TABITHA,Simpson Home,Buck and I don't belong together.
+98293,378,200,1064000,Marge Simpson,Simpson Home,Don't give up on Buck. There must be something about him that attracted you in the first place.
+98294,378,201,1070000,TABITHA,Simpson Home,"Well, yeah. He was the first man who didn't just like me for my body. He always complimented me on my hair. Ooh, your standing lamp is dirty. I'll polish it."
+98295,378,202,1086000,Bart Simpson,Simpson Home,Cancel all my appointments.
+98296,378,203,1087000,Marge Simpson,Simpson Home,Let's go.
+98298,378,205,1092000,Baseball Announcer,STADIUM,"So here comes Buck Mitchell in a spot every kid dreams of, where a sacrifice fly could lead his minor league team to a wild-card spot."
+98300,378,207,1107000,Baseball Announcer,STADIUM,And there's the Duff blimp...with a special message from Tabitha to Buck.
+98301,378,208,1114000,Baseball Announcer,STADIUM,Said Zeppelin has a whole lotta love.
+98303,378,210,1118000,Homer Simpson,Duff Blimp,It's working! Buck's buying my fake message! And you said it would never work.
+98304,378,211,1124000,Duffman,Duff Blimp,"No, I said ""Duffman will do what you want. Stop kicking and punching Duffman."""
+98306,378,213,1127000,BUCK,STADIUM,"I'm whackin' this for you, baby!"
+98307,378,214,1137000,Baseball Announcer,STADIUM,And he sends one into the slug-o-sphere! It's going... going...
+98308,378,215,1152000,Sideshow Mel,STADIUM,My sister's friend!
+98309,378,216,1160000,BUCK,STADIUM,"Tabitha? Tabitha? Oh, this is the worst blimp crash ever!"
+98310,378,217,1164000,Grampa Simpson,STADIUM,Too soon!
+98311,378,218,1166000,BUCK,STADIUM,"Where are you, sweetie?"
+98312,378,219,1167000,Homer Simpson,STADIUM,Uh... she was here a minute ago. She must be pooping.
+98313,378,220,1172000,BUCK,STADIUM,You're lying. This whole stunt was a lie!
+98314,378,221,1174000,Moe Szyslak,STADIUM,Get 'im! He ruined mini-bat day!
+98315,378,222,1178000,Marge Simpson,STADIUM,Leave him alone!
+98316,378,223,1180000,Marge Simpson,STADIUM,All he did was try to help a young couple find their way. Does he really deserve to get strung up for that?
+98317,378,224,1190000,Marge Simpson,STADIUM,Cut that out!
+98318,378,225,1191000,Duffman,STADIUM,Duffman gives the people what they want.
+98319,378,226,1194000,Marge Simpson,STADIUM,Weren't you just tied up in the blimp?
+98146,378,227,1195000,Duffman,STADIUM,Three Duffmen are workin' the game tonight.
+98321,378,228,1198000,2nd Duffman,STADIUM,Don't tell the children. It's disillusioning.
+98322,378,229,1202000,DUFFMEN,STADIUM,Duffman! Duffman! Duffman! Duffman! Duffman!
+98323,378,230,1205000,Marge Simpson,STADIUM,Marriage is hard work. But it's worth it -- when you've got someone wonderful like I do.
+98324,378,231,1212000,Crowd,STADIUM,Awww!
+98325,378,232,1215000,TABITHA,STADIUM,"Buck, I love you too. And I'll take you back, if you can guess tonight's attendance."
+98327,378,234,1226000,BUCK,STADIUM,"Um... uh, B! No, no, no, A. No, no. Oh man, man."
+98328,378,235,1230000,TABITHA,STADIUM,"It's C. As in ""keeping together,"" which is what I want to do."
+98329,378,236,1236000,BUCK,STADIUM,"Well, Homer, it looks like my marriage is going into extra innings."
+98330,378,237,1240000,Homer Simpson,STADIUM,Great. But enough of the baseball analogies. They sicken me.
+98331,378,238,1243000,BUCK,STADIUM,No problem.
+98332,378,239,1245000,Homer Simpson,STADIUM,"Now, m'lady, your carriage awaits."
+98333,378,240,1255000,BUCK,STADIUM,"Ain't love grand, Tito?"
+98334,378,241,1257000,Tito,STADIUM,I don't care. Bandits just kidnapped my mother! Just found out.

@@ -1,0 +1,211 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+124902,482,2,5000,Bart Simpson,PEACH ORCHARD,Oh man. I can't believe we have to pick the peaches ourselves. This activity is so lame I'm gonna daydream about school.
+124903,482,3,14000,Bart Simpson,PEACH ORCHARD,"Dammit, a pop quiz!"
+124904,482,4,15000,Lisa Simpson,PEACH ORCHARD,"Aw, come on, Bart, it's fun!"
+124905,482,5,19000,Lisa Simpson,PEACH ORCHARD,That was kind of the same as the first time.
+124906,482,6,22000,Lisa Simpson,PEACH ORCHARD,Why did I suggest this?
+124907,482,7,24000,Ewell Freestone,PEACH ORCHARD,"Peach pickin' ain't so bad, long as you got a song to take your mind off it."
+124908,482,8,28000,Lisa Simpson,PEACH ORCHARD,"Ooh, authentic American folk music, just like they play on N.P.R.!"
+124909,482,9,33000,Ewell Freestone,PEACH ORCHARD,"I'm afraid the only ""N.P.R."" we know down here is National Public Radio."
+124910,482,10,40000,Ewell Freestone,PEACH ORCHARD,"OH, THE YEAR'S FIRST PEACH, IS A JUICY PEACH / AND HE SINGS A HAPPY TUNE! / AND THE YEAR'S SECOND PEACH IS A GROUCHY PEACH / MORE LIKE A PRUNE! / NOW, THE YEAR'S THIRD PEACH IS A--"
+124911,482,11,53000,Bart Simpson,PEACH ORCHARD,How many verses does this song have?
+124912,482,12,55000,Ewell Freestone,PEACH ORCHARD,I ain't never run out!
+124913,482,13,56000,Ewell Freestone,PEACH ORCHARD,"NOW, THE YEAR'S THIRD PEACH IS A GOD-FEARIN' PEACH / DOES WHAT THE GOOD BOOK TELLS HIM"
+124914,482,14,61000,Ewell Freestone,PEACH ORCHARD,AND THE YEAR'S FOURTH PEACH IS A MOLDY PEACH / SHAME ON THE MAN THAT SELLS HIM
+124915,482,15,67000,Ewell Freestone,PEACH ORCHARD,NOW THE YEAR'S FIFTH PEACH IS A FUZZY PEACH / ITS KISSES ARE QUITE TICKLISH...
+124917,482,17,72000,Homer Simpson,FREESTONE FAMILY PEACH ORCHARD,"Not bad, not bad. Marge, how much do they pay us for doing this?"
+124918,482,18,76000,Marge Simpson,FREESTONE FAMILY PEACH ORCHARD,"Actually, we pay them for each peach we take home."
+124919,482,19,79000,Homer Simpson,FREESTONE FAMILY PEACH ORCHARD,"What the? First we work, then I pay, then I have to eat fruit? Why was I ever born?"
+124921,482,21,106000,Marge Simpson,Simpson Home,"Okay, we've got peach bruschetta on peach toast, peach-aroni peach-za, and my famous B.L.T.s -- or should I say P.P.P.s?"
+124922,482,22,114000,Marge Simpson,Simpson Home,"C'mon, people. Peaches!"
+124923,482,23,118000,Homer Simpson,Simpson Home,"Honey... on a non-stone fruit-related topic, I booked us a couples massage."
+124924,482,24,124000,Marge Simpson,Simpson Home,"Ooh, couples! That way I can enjoy my massage, and make sure you don't enjoy yours too much."
+124925,482,25,137000,Lisa Simpson,Simpson Home,Initiate phase two.
+124926,482,26,139000,Bart Simpson,Simpson Home,"I forget what phase two is, but I'll assume we just dump the peaches like we discussed."
+124927,482,27,144000,Lisa Simpson,Simpson Home,Affirmative.
+124928,482,28,145000,Bart Simpson,Simpson Home,"I'll assume that means ""yes."""
+124929,482,29,145000,Lisa Simpson,Simpson Home,Roger.
+124930,482,30,148000,Bart Simpson,Simpson Home,"The name's ""Bart."""
+124934,482,34,165000,Homer Simpson,Spa,"When we get home, the peaches will be gone."
+124935,482,35,167000,Marge Simpson,Spa,What?! What? What will we eat?
+124936,482,36,169000,Marge Simpson,Spa,Oh screw it.
+124937,482,37,174000,Homer Simpson,Spa,"Masseuses: the half-doctors, half-hookers who solve everything."
+124939,482,39,180000,Bart Simpson,Springfield Street,What idiot put the dump so far away from where people live?
+124940,482,40,184000,DOLPH,Springfield Street,"Aw, man! The Horticulture Society is having its Chinese Lantern party and we've got nothing to huck!"
+124942,482,41,191000,Bart Simpson,Springfield Street,"Gentlemen, I think I have the solution to your problem."
+124947,482,46,203000,Lisa Simpson,Little Baltimore,Where am I? This neighborhood is starting to look a little bit like... Sesame Street.
+124948,482,47,210000,Lisa Simpson,Little Baltimore,Wonder who's in there. Could it be Oscar the...
+124952,482,51,239000,Man,VICTORIAN BROWNSTONE,What the? Is somebody in here?
+124953,482,52,250000,Lisa Simpson,VICTORIAN BROWNSTONE,Help! I'm trapped in an alternate dimension! An existential netherspace!
+124954,482,53,253000,Lisa Simpson,VICTORIAN BROWNSTONE,"I've been-- Hey, how ya doin'?"
+124957,482,56,261000,Man,Victorian Mansion,"All right, who sent you? Marvin The Magician? Oswald of the Occult? Citywide Mortgage? I worked everything out with Nina."
+124958,482,57,268000,Lisa Simpson,Victorian Mansion,No one sent me. I just knocked on the door and it opened!
+124959,482,58,272000,Lisa Simpson,Victorian Mansion,"Uh, how'd I get from inside there to over here?"
+124960,482,59,275000,Man,Victorian Mansion,Because this is a house of magic!
+124961,482,60,278000,Lisa Simpson,Victorian Mansion,Sounds like most of the house is still owned by the bank.
+124962,482,61,281000,Man,Victorian Mansion,But the rest of it is magic!
+124963,482,62,287000,Lisa Simpson,Victorian Mansion,How did you do all that?
+124964,482,63,290000,Raymondo,Victorian Mansion,Permit me to introduce myself. I am... the Great Raymondo!
+124965,482,64,296000,Raymondo,Victorian Mansion,"I was once the most famous illusionist in the world, performing for pashas and potentates, Grand Dukes and Grande Dames... who wants to hear an old man go on about bygone wonders?"
+124966,482,65,311000,Lisa Simpson,Victorian Mansion,"I do, I do!"
+124967,482,66,312000,Raymondo,Victorian Mansion,Very well. But first you should call your parents.
+124968,482,67,317000,Raymondo,Victorian Mansion,"I got this phone for subscribing to ""Psychic Monthly,"" and then I cancelled the subscription. They never saw it coming."
+124969,482,68,322000,Raymondo,Victorian Mansion,"Meet Ali Rudy Vallée, my musical automaton. He can play all the top hits..."
+124970,482,69,330000,Swami,Victorian Mansion,BOOP BOOP DIT-TEM DAT-TEM WHAT-TEM CHU! / BOOP BOOP DIT-TEM DAT-TEM WHAT-TEM CHU...
+124971,482,70,336000,Raymondo,Victorian Mansion,"Now, here's the infamous ""miroir noir."" Gaze into it and learn how you will die."
+124941,482,71,347000,Raymondo,Victorian Mansion,It's made for the American market.
+124972,482,72,350000,Raymondo,Victorian Mansion,"And here, my dear, is my most celebrated illusion: the Great Milk Can Escape -- handed down to me by Houdini himself!"
+124973,482,73,360000,Lisa Simpson,Victorian Mansion,Looks like there was magic between you two.
+124974,482,74,363000,Raymondo,Victorian Mansion,"The lady in question is my late wife, Esther. She was the only other soul who knew the secret of my greatest trick. Now I'm alone with my memories and my medical marijuana."
+124975,482,75,375000,Lisa Simpson,Victorian Mansion,Would you... be interested in teaching me?
+124976,482,76,378000,Raymondo,Victorian Mansion,A girl illusionist? Ladies are what you saw in half and throw knives at. They never wear the hat.
+124977,482,77,385000,Lisa Simpson,Victorian Mansion,What if you just taught me one trick?
+124978,482,78,387000,Raymondo,Victorian Mansion,"Fine. These are the Rings of Fate. Come back in a week with these rings linked together, and maybe I'll -- say, you did it already!"
+124979,482,79,397000,Raymondo,Victorian Mansion,"Well, I guess I can teach a girl. Blackstone taught a monkey."
+124980,482,80,401000,Lisa Simpson,Victorian Mansion,I'm not exactly flattered by that.
+124981,482,81,403000,Raymondo,Victorian Mansion,"You should be. That monkey wound up with eighteen car dealerships. If you bought a family car in the St. Louis area, you bought it from the mighty Chimpopo."
+124982,482,82,414000,Lisa Simpson,Victorian Mansion,Hm.
+124983,482,83,415000,Raymondo,Victorian Mansion,"Now, I'll start you off with a little coin work..."
+124986,482,86,420000,Lisa Simpson,Simpson Home,And George Washington took a trip down the...ear-y Canal!
+124987,482,87,426000,Homer Simpson,Simpson Home,My ear makes money?
+124988,482,88,428000,Homer Simpson,Simpson Home,"Hello, boat store? I'd like to order a boat. What do you mean, dial tone?"
+124989,482,89,433000,Grampa Simpson,Simpson Home,Where'd you learn that trick? In the Army?
+124990,482,90,436000,Lisa Simpson,Simpson Home,From the Great Raymondo.
+124991,482,91,437000,Grampa Simpson,Simpson Home,"He is great. In fifty-seven, I saw him turn the Secretary of Agriculture into the Secretary of the Interior! It was hell on their wives, but it sure brought down corn prices. Built a house outta corn. Worst house I ever owned. When it got real hot it smelled like Fritos. People would come from miles around--"
+124992,482,92,457000,Bart Simpson,Simpson Home,Lisa can't be a magician -- that's my thing! I'm the one that got a magic set for Christmas two years ago.
+124993,482,93,463000,Lisa Simpson,Simpson Home,You never even opened it.
+124995,482,95,466000,Lisa Simpson,Simpson Home,Need some help?
+124996,482,96,471000,Bart Simpson,Simpson Home,Kid scissors. Lame.
+124997,482,98,475000,Homer Simpson,Simpson Home,Let's see what else you've been hiding in there.
+124998,482,99,480000,Homer Simpson,Simpson Home,I want my pot of gold!
+124999,482,100,483000,Bart Simpson,Simpson Home,Aye ca-rum-ba.
+125000,482,101,486000,Homer Simpson,Simpson Home,I forgot why I'm doing this.
+125002,482,103,489000,Lisa Simpson,RAYMONDO'S HOUSE,"Raymondo! I mastered the slide pass -- and I've almost mastered the Denver slide pass... and, why is there always a ""Denver"" version of things?"
+125003,482,104,497000,Raymondo,RAYMONDO'S HOUSE,"I'm sorry, Lisa. I'm upset. Bumped off the Mike Douglas show upset!"
+125004,482,105,501000,Lisa Simpson,RAYMONDO'S HOUSE,"Oh, what's wrong?"
+125006,482,107,508000,Cregg Demon,City Street,"'Sup, brahs. It's me, Cregg Demon. Who's ready to get their magic on?!"
+125008,482,109,514000,Cregg Demon,City Street,"Okay, for my first chillusion, I'm gonna descend into Hell and pull up a skank."
+125009,482,110,524000,Cregg Demon,City Street,"Hi. Now, we've never met before, correct?"
+125010,482,111,527000,Woman,City Street,"That's right, Cregg Demon."
+125011,482,112,529000,Cregg Demon,City Street,"Well, I don't need your number, sweetie... because it's tattooed on my ass!"
+125012,482,113,533000,Cregg Demon,City Street,Yeah. It's on everyone's ass! Yeah!
+125013,482,114,539000,Raymondo,City Street,Disgraceful. Any idiot with a soul patch and a deck of cards thinks he's a magician.
+125014,482,115,547000,Raymondo,City Street,"Magic is about mystery, illusion, pulling rabbits out of hats! Presto oh!"
+125015,482,116,553000,Lisa Simpson,City Street,Ew.
+125016,482,117,554000,Raymondo,City Street,Today's lesson: feed your props.
+125017,482,118,593000,Kids,City Street,Lisa! Lisa!
+125018,482,119,595000,Lunchlady Dora,City Street,"If you wanna do some real magic, find me a boyfriend that don't get all religious on me."
+125020,482,121,605000,Lisa Simpson,VICTORIAN TOWNHOUSE,No!
+125022,482,123,613000,Lisa Simpson,Victorian Mansion,Raymondo's greatest secret!
+125023,482,124,618000,Lisa Simpson,Victorian Mansion,"No, I shouldn't -- I won't."
+125025,482,126,622000,Raymondo,Victorian Mansion,"I guess I can trust you, Lisa Simpson. I am going to teach you the Great Milk Can Escape."
+125026,482,127,632000,Lisa Simpson,Victorian Mansion,You are? Why?
+125027,482,128,635000,Raymondo,Victorian Mansion,"If magic is not passed on, it dies."
+125028,482,129,640000,Raymondo,Victorian Mansion,The only magic we couldn't make was a child.
+125029,482,130,648000,Raymondo,Victorian Mansion,"Now, the first thing you must do is make me a vodka tonic..."
+124665,482,131,651000,Lisa Simpson,Victorian Mansion,You're out of tonic.
+125031,482,132,652000,Raymondo,Victorian Mansion,That won't be a problem.
+125033,482,134,657000,Lisa Simpson,Springfield Elementary School,"Students, teachers, detentionees...prepare to have everything you believe about milk cans challenged!"
+125035,482,136,666000,Lisa Simpson,Springfield Elementary School,"Willie, if you will?"
+125036,482,137,679000,Nelson Muntz,Springfield Elementary School,"God, if you don't bring my Lisa back safe, ants will burn tonight."
+125037,482,138,688000,Lisa Simpson,Springfield Elementary School,"I believe the expression is ""ta-da!"""
+125038,482,139,692000,Seymour Skinner,Springfield Elementary School,I don't know what to think about milk cans anymore.
+125040,482,141,697000,Boy,PLAYGROUND,That was amazing. I can see why they call you The Great Simpsina.
+125041,482,142,702000,Lisa Simpson,PLAYGROUND,My friends call me Lisa.
+125042,482,143,704000,Bart Simpson,PLAYGROUND,She has no friends.
+125043,482,144,705000,Lisa Simpson,PLAYGROUND,"Shut up! Now, where were we?"
+125044,482,145,707000,Boy,PLAYGROUND,"I gotta admit, I was pretty nervous when you were in that milk can."
+125045,482,146,711000,Lisa Simpson,PLAYGROUND,"Oh, it's a lot less dangerous than you think. You can see me do it again in a talent show next week."
+125046,482,147,717000,Boy,PLAYGROUND,I'd like to come. But only if I was sure you wouldn't get hurt...
+125047,482,148,721000,Lisa Simpson,PLAYGROUND,There's no chance whatsoever. I'll show you.
+125048,482,149,726000,Lisa Simpson,PLAYGROUND,You don't open the top -- the locks are real.
+125049,482,150,731000,Lisa Simpson,PLAYGROUND,"The can is in two halves, and they slide apart."
+125050,482,151,733000,Lisa Simpson,PLAYGROUND,"From inside, you just push up. Easy peasy. And there's no way anyone can figure out how it's done."
+125051,482,152,741000,Boy,PLAYGROUND,Well I can think of one way. You trick a dorky little girl into telling you!
+125053,482,154,746000,Boy,PLAYGROUND,"Yo, Dad! It's a three-quarter flange-less friction slide."
+125054,482,155,750000,Cregg Demon,PLAYGROUND,What about the locks on the lid?
+125055,482,156,751000,Boy,PLAYGROUND,Shmuck-bait.
+125056,482,157,752000,Cregg Demon,PLAYGROUND,"Sweet, sweet! Oh, and the next time it's my weekend with you, I promise there will be no chicks over. Just us, the komodo dragon and Ben Roethlisberger."
+125057,482,158,763000,Boy,PLAYGROUND,Hell to the yes!
+125058,482,159,777000,Cregg Demon,PLAYGROUND,"'Sup, magicfreeks. Last night, for serious, I got haunted by a straight-up, see-through ghost. It was Harry H-Dog Houdini yo. Now after calling me ""the new him"" -- his words -- he told me the secret to his Milk Can Escape!"
+125060,482,161,793000,Cregg Demon,PLAYGROUND,I will perform this trick at the upcoming world magic championships! I recommend parking in the mall--
+125062,482,163,796000,Cregg Demon,RAYMONDO'S MANSION,"...and taking the shuttle, yo!"
+125063,482,164,801000,Lisa Simpson,RAYMONDO'S MANSION,"Raymondo, I am so sorry. I got rolled by a pro! Do you know what it's like to be the kind of girl that boys never talk to and then suddenly a boy talks to you--"
+125064,482,165,812000,Raymondo,RAYMONDO'S MANSION,Get out.
+125065,482,166,813000,Lisa Simpson,RAYMONDO'S MANSION,Haven't you ever been fooled by a pretty face?
+125066,482,167,816000,Raymondo,RAYMONDO'S MANSION,Just once. I trusted you.
+125067,482,168,819000,Lisa Simpson,RAYMONDO'S MANSION,"Oh, you think I'm pretty?"
+125068,482,169,819000,Raymondo,RAYMONDO'S MANSION,Get out.
+125071,482,172,834000,Homer Simpson,Simpson Home,"Lisa, don't feel bad. Judas betrayed Jesus but he still got paid."
+125072,482,173,843000,Homer Simpson,Simpson Home,I can't stand to see one of my female children unhappy. I'm gonna go pound some sense into that ring-linking rabbit-yanker!
+125074,482,175,853000,Homer Simpson,Victorian Mansion,"Hey, let me down! This is gonna leave a diamond pattern on my skin!"
+125075,482,176,857000,Raymondo,Victorian Mansion,Imagine if your greatest secret was given to your worst enemy!
+125076,482,177,863000,THOUGHT-BUBBLE FLANDERS,Victorian Mansion,A peanut-butter-and-pretzel sandwich? There's no way a stupid Flanders like me could ever have thought of this.
+125077,482,178,870000,Homer Simpson,Victorian Mansion,"Okay, maybe secrets are a big deal, but my daughter's a good kid. So why don't you act your age, forgive her and let me down."
+125080,482,181,896000,Raymondo,Simpson Home,"Hey kid. Nobody likes a gloomy magician. Except, of course Gloomo the Magnificent."
+125081,482,182,901000,Lisa Simpson,Simpson Home,Raymondo! You forgive me!
+125082,482,183,904000,Raymondo,Simpson Home,Not so fast.
+125083,482,184,906000,Raymondo,Simpson Home,But still there is hope.
+125084,482,185,909000,Raymondo,Simpson Home,"Lisa, we've all done things we're ashamed of. I briefly became a disco magician. Have you ever tried to put a leisure suit on a bird? You get his pants on, he pulls his coat off. And on it goes. But now I need your help to stop Cregg Demon."
+125086,482,187,927000,Chief Wiggum,SPRINGFIELD MAGIC PALACE,"All right, I want close-up magicians on the left, illusionists on the right, and mentalists, well, I don't need to tell you. Ah c'mon, Lou, I need backup!"
+125087,482,188,937000,Lou,SPRINGFIELD MAGIC PALACE,"I wish I could help, Chief."
+125088,482,189,938000,Chief Wiggum,SPRINGFIELD MAGIC PALACE,I'll take the box that doesn't talk back.
+125089,482,190,943000,Lou,SPRINGFIELD MAGIC PALACE,"That's just what you need, Chief. Another stomach."
+125090,482,191,943000,Chief Wiggum,SPRINGFIELD MAGIC PALACE,Shut up.
+125092,482,193,947000,Cregg Demon,MAGIC PALACE,"S'UUUUUUP! Hope you're watching up there, Houdini-Bro! I did your great-grand-niece!"
+125093,482,194,984000,Audience,MAGIC PALACE,Ma-gic-freek!
+125094,482,195,984000,Audience,MAGIC PALACE,Ma-gic-freek!
+125095,482,196,988000,Raymondo,MAGIC PALACE,"It's too late, we can't stop him."
+125096,482,197,993000,Raymondo,MAGIC PALACE,Something's wrong. The trick isn't working!
+125097,482,198,996000,Boy,MAGIC PALACE,"Dad, don't die!"
+125098,482,199,997000,Lisa Simpson,MAGIC PALACE,I'll get him out!
+125099,482,200,999000,Raymondo,MAGIC PALACE,No. We must not interfere.
+125100,482,201,1001000,Lisa Simpson,MAGIC PALACE,You're just gonna stand there?
+125101,482,202,1003000,Raymondo,MAGIC PALACE,No. With my back I gotta sit.
+125103,482,204,1008000,Raymondo,MAGIC PALACE,Ahhh.
+125104,482,205,1010000,Raymondo,MAGIC PALACE,"Aw, I can't stand you looking at me that way."
+125105,482,206,1015000,Raymondo,MAGIC PALACE,That's better.
+125106,482,207,1015000,Lisa Simpson,MAGIC PALACE,He's going to die!
+125107,482,208,1021000,Raymondo,MAGIC PALACE,"Lisa, magicians hate to be rescued. Now, if you'll excuse me, I have to go to the little magician's room."
+125108,482,209,1029000,Lisa Simpson,MAGIC PALACE,"I guess it's up to me to save you, Cregg Demon Magic Freek."
+125109,482,210,1033000,Ricky Jay,MAGIC PALACE,You ain't savin' nobody demon nothin' freek.
+125110,482,211,1036000,Lisa Simpson,MAGIC PALACE,Ricky Jay? David Copperfield? Penn? Teller?!?!
+125111,482,212,1041000,David Copperfield,MAGIC PALACE,We switched the trick milk can with a regular milk can.
+125112,482,213,1045000,Lisa Simpson,MAGIC PALACE,But why?
+125113,482,214,1046000,PENN,MAGIC PALACE,Because...
+125114,482,215,1047000,Teller,MAGIC PALACE,Quiet!
+125115,482,216,1048000,Teller,MAGIC PALACE,You talk onstage. I talk offstage. That was the curse the witch put on us.
+125116,482,217,1052000,Ricky Jay,MAGIC PALACE,He stole all our best tricks.
+125117,482,218,1054000,David Copperfield,MAGIC PALACE,And he stole my sexiest magical gestures! Like this one
+125118,482,219,1060000,Lisa Simpson,MAGIC PALACE,"Wait, I know he's an unethical magician, and his tattoos are a inconsistent mix of hieroglyphics and cuneiforms. But he doesn't deserve to die."
+125119,482,220,1070000,Ricky Jay,MAGIC PALACE,"We ain't askin', kid. Get her!"
+125120,482,221,1081000,Teller,MAGIC PALACE,"Penn, just drop them!"
+125121,482,222,1082000,PENN,MAGIC PALACE,I can't! I never learned how!
+125122,482,223,1090000,Homer Simpson,MAGIC PALACE,"I'll save you, Lisa!"
+125123,482,224,1096000,Homer Simpson,MAGIC PALACE,The real magic is raising three kids in this economy! You can put the ball back now.
+125124,482,225,1105000,Raymondo,MAGIC PALACE,"Hands off my apprentice, amateurs!"
+125126,482,227,1109000,Ricky Jay,MAGIC PALACE,Raymondo? I thought I killed you in Marrakesh.
+125127,482,228,1112000,Raymondo,MAGIC PALACE,That was my twin brother! Ruined a lot of my tricks!
+125128,482,229,1115000,Ricky Jay,MAGIC PALACE,We might as well finish the job now.
+125129,482,230,1117000,David Copperfield,MAGIC PALACE,"To show you we mean business, I'm unbuttoning my shirt and turning on a fan."
+125130,482,231,1123000,David Copperfield,MAGIC PALACE,"Oh yeah, it's magical."
+125131,482,232,1135000,Raymondo,MAGIC PALACE,I'm just an old man. How could I ever hope to fight you all? Except... with this!
+125134,482,235,1146000,David Copperfield,MAGIC PALACE,My beautiful body... no longer properly lit.
+125135,482,236,1151000,PENN,MAGIC PALACE,My ponytail's been burnt! Teller! The witch's curse is broken!
+125136,482,237,1156000,Teller,MAGIC PALACE,Penn... there never was a curse.
+125137,482,238,1158000,PENN,MAGIC PALACE,"You're a real jerk, you know that?"
+125138,482,239,1160000,Lisa Simpson,MAGIC PALACE,"Raymondo, I knew your heart was as pure as the ether that helps you get to sleep. Raymondo?"
+125139,482,240,1169000,Raymondo,MAGIC PALACE,"I believe the expression is ""ta-da!"""
+125140,482,241,1175000,Cregg Demon,MAGIC PALACE,S'uup.
+125141,482,242,1177000,Boy,MAGIC PALACE,"Let's go home, Dad."
+125142,482,243,1180000,Cregg Demon,MAGIC PALACE,"I'm through with magic, son. I'm gonna move back to Canada and run for Parliament."
+125144,482,245,1188000,Homer Simpson,SPRINGFIELD MAGIC PALACE,"And, here you go. ""Do not give your coat to--"" Dammit!"
+125145,482,246,1207000,Marge Simpson,SPRINGFIELD MAGIC PALACE,"So, that's why Lisa excused herself a few minutes ago."
+125146,482,247,1211000,Raymondo,SPRINGFIELD MAGIC PALACE,"Now, once again, one of the most promising young magicians I have ever seen: the Great Simpsina! Knock 'em dead, kid. I'll be in my dressing room."
+125147,482,248,1227000,Bart Simpson,SPRINGFIELD MAGIC PALACE,Tell me if she falls.
+125148,482,249,1233000,Milhouse Van Houten,SPRINGFIELD MAGIC PALACE,Abraca-Milhouse!
+125149,482,250,1239000,Late Wife,SPRINGFIELD MAGIC PALACE,"Hello, Harvey."
+125150,482,251,1242000,Raymondo,SPRINGFIELD MAGIC PALACE,I've probably had enough.
+125151,482,252,1245000,Raymondo,SPRINGFIELD MAGIC PALACE,"Eh, a little more couldn't hurt."
+125155,482,253,1272000,Ewell Freestone,SPRINGFIELD MAGIC PALACE,"AND THE YEAR'S FOURTH PEACH / IS A MOLDY PEACH / SHAME ON THE MAN THAT SELLS HIM / NOW THE YEAR'S FIFTH PEACH / IS A FUZZY PEACH / ITS KISSES ARE QUITE TICKLISH / AND THE YEAR'S SIXTH PEACH / IS A BRINING PEACH / IT TASTES SO FINE AND PICKLISH / AND THE YEAR'S SEVENTH PEACH / IS A LEARNED PEACH / IT'S WORKIN' ON A NOVEL / BUT THE YEAR'S EIGHTH PEACH / IS A REAL PROUD PEACH / YOU'LL NEVER SEE IT GROVEL / OH THE YEAR'S NINTH PEACH / IS A TOUGH OLD PEACH / BUT HE'LL MAKE A HEARTY STEW / AND THE YEAR'S TENTH PEACH IS A ROTTEN PEACH / TAKE A WHIFF, P-U / NOW THE--"
+125156,482,254,1311000,Ewell Freestone,SPRINGFIELD MAGIC PALACE,Shush yourself.

@@ -1,0 +1,236 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+26222,125,1,84000,Krusty the Clown,Simpson Living Room,"Hey kids, it's story time! I'm gonna tell you the story of Krusty's expensive new suit. His sexual harassment suit. Anyway, as part of Krusty's plea bargain, he has a new court-ordered sidekick, Ms. No-Means-No."
+26223,125,2,104000,Krusty the Clown,Simpson Living Room,Whoa! You're hot! Let's get some dinner after the show!
+26224,125,3,110000,Krusty the Clown,Simpson Living Room,"I have dinner with all my employees, right Sideshow Mel?"
+26225,125,4,113000,Sideshow Mel,Simpson Living Room,We've never spoken outside of work.
+26228,125,7,118000,Bart Simpson,Simpson Kitchen,I'm surprised he doesn't try to blame his problems on his Percodan addiction.
+26229,125,8,122000,Krusty the Clown,Simpson Kitchen,"It wasn't my fault. It was the Percodan. If you ask me, that stuff rots your brain. And now a word from our new sponsor -- Percodan?! Aw crap."
+26230,125,9,133000,Marge Simpson,Simpson Kitchen,"Bart, are you ready for your history test?"
+26231,125,10,135000,Bart Simpson,Simpson Kitchen,"Oh you bet, Mom. Ask me anything."
+26232,125,11,137000,Marge Simpson,Simpson Kitchen,OK. Who was George Washington Carver?
+26233,125,12,140000,Bart Simpson,Simpson Kitchen,"Um, the guy who chopped up George Washington?"
+26234,125,13,144000,Homer Simpson,Simpson Kitchen,Really? Wow.
+26235,125,14,158000,Marge Simpson,Simpson Kitchen,"Bart, you said you were going to study."
+26236,125,15,160000,Bart Simpson,Simpson Kitchen,"Oh, my stomach!"
+26237,125,16,162000,Marge Simpson,Simpson Kitchen,You just don't want to take that test.
+26238,125,17,164000,Bart Simpson,Simpson Kitchen,No I mean it. It really hurts!
+26239,125,18,166000,Lisa Simpson,Simpson Kitchen,"Mom, I think he's serious."
+26240,125,19,168000,Homer Simpson,Simpson Kitchen,"Kids are so naïve. Lisa, when you get to be our age, you'll learn a few things, like when a sign says ""Do Not Feed The Bears,"" man, you'd better not feed the bears."
+26241,125,20,178000,Homer Simpson,Simpson Kitchen,"Now get to school, boy."
+26244,125,23,184000,Bart Simpson,CLASSROOM,"Mrs. Krabappel, I can't take the test. I have a stomach ache."
+26245,125,24,187000,Edna Krabappel-Flanders,CLASSROOM,Well that's a lame excuse for an excuse. Ha!
+26246,125,25,191000,Bart Simpson,CLASSROOM,"Look, if you ignore me and I die, you'd get in a lot of trouble."
+26247,125,26,194000,Edna Krabappel-Flanders,CLASSROOM,Read page six of the school charter.
+26248,125,27,197000,Bart Simpson,CLASSROOM,No teacher shall be held accountable if Bart Simpson dies.
+26249,125,28,197000,Edna Krabappel-Flanders,CLASSROOM,We're also absolved if Milhouse gets eaten by the school snake.
+26083,125,29,204000,Milhouse Van Houten,CLASSROOM,Hey cool! There's a rabbit in here.
+26163,125,30,210000,Bart Simpson,CLASSROOM,"Mrs. Krabappel, I'm done failing the test. Can I please go to the nurse?"
+26250,125,31,214000,Edna Krabappel-Flanders,CLASSROOM,"Gosh, Bart, maybe you really are in pain. Well, it would be cruel not to let you go. Now you may go."
+26252,125,33,233000,Bart Simpson,Nurses Office A Little Later,Lunchlady Doris! Why are you here?
+26253,125,34,236000,Lunchlady Doris,Nurses Office A Little Later,Budget cuts. They've even got Groundskeeper Willie teaching French.
+26255,125,36,240000,Groundskeeper Willie,French Classroom,"Bonjour, you cheese eatin' surrender monkeys."
+26256,125,37,244000,Bart Simpson,French Classroom,"Look, my stomach really hurts."
+26257,125,38,247000,Lunchlady Doris,French Classroom,All I can give you are these Chewable Prozac for Kids. Your choice: Manic Depressive Mouse.
+26258,125,39,251000,Lunchlady Doris,French Classroom,Or the Bluebird of Unhappiness.
+26259,125,40,256000,Seymour Skinner,French Classroom,"Superintendant Chalmers, I'd like you to meet our new school nurse, Lunchlady Doris."
+26260,125,41,259000,Gary Chalmers,French Classroom,"Yeah. Nice to see you. Seymour, why is that student lying unconscious on the floor?"
+26261,125,42,263000,Seymour Skinner,French Classroom,"Well, in many cases the floor is the best... oh look! Here comes Lumpy, the school snake!"
+26262,125,43,269000,Kids,French Classroom,Help! Help!
+26263,125,44,271000,Seymour Skinner,French Classroom,"Oh, Lord."
+26266,125,47,280000,Dr. Julius Hibbert,Operating Room,"Don't worry, son, you'll be fine. This boy's appendix is inflamed and about to burst, which will make it easier to find once I get in there ."
+26267,125,48,291000,Homer Simpson,Operating Room,"Man, these are primo seats. I could really go for a hot dog."
+26268,125,49,296000,Marge Simpson,Operating Room,"Homer, this is an operation!"
+26269,125,50,298000,Vendor,Operating Room,Hot dogs! Get your hot dogs here!
+26270,125,51,300000,Homer Simpson,Operating Room,Woo hoo!
+26271,125,52,301000,Dr. Nick Riviera,Operating Room,"Okay, Bart. I will count to three and you will be sound asleep! One... two... three!"
+26272,125,53,309000,Dr. Nick Riviera,Operating Room,Out like a light!
+26273,125,54,311000,Dr. Julius Hibbert,Operating Room,Scalpel.
+26275,125,56,313000,Dr. Nick Riviera,Operating Room,Whoopsie. Hmmm. Maybe if I fiddle with these knobs...
+26276,125,57,318000,Dr. Nick Riviera,Operating Room,Hey I smell gas. Pleasant gas. Night-night gas.
+26278,125,59,328000,Marge Simpson,HOSPITAL ROOM A FEW HOURS LATER,How's my special little guy?
+26279,125,60,330000,Lisa Simpson,HOSPITAL ROOM A FEW HOURS LATER,"How're you feelin', big brother?"
+26192,125,62,333000,Homer Simpson,HOSPITAL ROOM A FEW HOURS LATER,"Oh, this is wonderful! You're alive!"
+26220,125,63,336000,Bart Simpson,HOSPITAL ROOM A FEW HOURS LATER,"No thanks to you, Homer."
+26221,125,64,337000,Homer Simpson,HOSPITAL ROOM A FEW HOURS LATER,Why you little...
+26281,125,65,342000,Dr. Julius Hibbert,HOSPITAL ROOM A FEW HOURS LATER,"Now Homer, please. The boy has just had a very serious operation."
+26282,125,66,346000,Homer Simpson,HOSPITAL ROOM A FEW HOURS LATER,"Oh, right."
+26283,125,67,347000,Dr. Julius Hibbert,HOSPITAL ROOM A FEW HOURS LATER,"Now, Bart I found the culprit: a jagged metal cereal O."
+26285,125,69,350000,Bart Simpson,Hospital Room,Wicked. I got this cool scar and I get to miss a week of school.
+26287,125,71,358000,Milhouse Van Houten,Hospital Room,"Doctor Hibbert, can I have my appendix out?"
+26288,125,72,361000,Kids,Hospital Room,"Yeah, me, too! Can I have mine out, too? Etc."
+26289,125,73,365000,Dr. Julius Hibbert,Hospital Room,"Why not? Follow me, kids! Nurse! Prep these children!"
+26290,125,74,370000,Lisa Simpson,Hospital Room,"I'm glad you're okay, Bart."
+26292,125,76,384000,Lisa Simpson,Hospital Hallway,Bleeding Gums Murphy!
+148018,125,77,385000,BLEEDING GUMS,Hospital Hallway,Little Lisa. It's good to see you again.
+26293,125,78,388000,Lisa Simpson,Hospital Hallway,It's been a long time.
+148019,125,80,392000,BLEEDING GUMS,Springfield Bridge,My friends call me Bleeding Gums.
+26295,125,81,395000,Lisa Simpson,Springfield Bridge,Ew. How'd you get a name like that?
+148020,125,82,397000,BLEEDING GUMS,Springfield Bridge,Well let me put it this way. You ever been to the dentist?
+26296,125,83,400000,Lisa Simpson,Springfield Bridge,Yeah.
+148021,125,84,401000,BLEEDING GUMS,Springfield Bridge,"Not me. I suppose I should go to one, but I've got enough pain in my life as it is."
+148022,125,85,407000,BLEEDING GUMS,Springfield Bridge,What are you here for?
+26297,125,86,408000,Lisa Simpson,Springfield Bridge,My brother just had his appendix out.
+148023,125,87,410000,BLEEDING GUMS,Springfield Bridge,Is he going to be okay?
+26298,125,88,412000,Bart Simpson,Springfield Bridge,"Hello, I'm Dr. Cheeks. I'm doing my rounds and uh, I'm a little behind."
+26299,125,89,416000,Lisa Simpson,Springfield Bridge,He'll be fine.
+148024,125,92,422000,BLEEDING GUMS,MURPHY'S HOSPITAL ROOM,"Lisa, I sure am glad you dropped by. You're the first visitor I've had."
+26302,125,93,426000,Lisa Simpson,MURPHY'S HOSPITAL ROOM,What about your family?
+148025,125,94,427000,BLEEDING GUMS,MURPHY'S HOSPITAL ROOM,I don't really have a family. All I had was a little brother who grew up to become a doctor. He used to laugh at the most inappropriate times.
+26303,125,95,437000,Dr. Julius Hibbert,MURPHY'S HOSPITAL ROOM,"Hey, I've got an older brother that I'll never see. He's a jazz musician or some such. Oh well. Bye-bye!"
+26304,125,96,443000,Lisa Simpson,MURPHY'S HOSPITAL ROOM,It must be awful to be all alone in the world.
+148026,125,97,446000,BLEEDING GUMS,MURPHY'S HOSPITAL ROOM,"Well, I always had my music. I learned at the feet of Blind Willy Witherspoon."
+26306,125,99,453000,Old Jazz Musician,The Jazz Hole,I've been playing jazz for thirty years and I just can't make a go of it. I want you to have my saxophone.
+147949,125,100,459000,BLEEDING GUMS,The Jazz Hole,"This isn't a saxophone, it's an umbrella."
+26307,125,101,462000,Old Jazz Musician,The Jazz Hole,So I've been playing an umbrella for thirty years? Why didn't anybody tell me?
+147877,125,102,466000,BLEEDING GUMS,The Jazz Hole,We all thought it was funny.
+26308,125,103,469000,Old Jazz Musician,The Jazz Hole,That's not funny.
+148027,125,104,471000,BLEEDING GUMS,The Jazz Hole,Then I got my big break. I was on Steve Allen's Tonight Show.
+26310,125,106,477000,Steve Allen,STEVE ALLEN SHOW,"Now, a brilliant jazz musician who's inspired me to do some improv poetry."
+26311,125,107,482000,Steve Allen,STEVE ALLEN SHOW,"Twinkle twinkle groovy cat/ How I wonder where you at/ I really love the way you cook/ Just like me when I wrote this book, ""How to Make Love to Steve Allen"""
+26312,125,108,487000,Steve Allen,STEVE ALLEN SHOW,"From the author of ""Happiness is a Naked Steve Allen,"" ""Journey to the Center of Steve Allen,"" and ""The Joy of Cooking Steve Allen""."
+148028,125,109,499000,BLEEDING GUMS,STEVE ALLEN SHOW,"I cut my first and only album, ""Sax on the Beach."""
+148029,125,110,499000,BLEEDING GUMS,STEVE ALLEN SHOW,But then I spent all my money on my $1500 a day habit.
+148030,125,112,507000,BLEEDING GUMS,Swanky Department Store,I'd like another Fabergé egg please.
+26314,125,113,510000,Store Clerk,Swanky Department Store,"Sir, don't you think you've had enough?"
+148031,125,114,512000,BLEEDING GUMS,Swanky Department Store,I'll tell you when I've had enough!
+26316,125,116,516000,Lisa Simpson,Alley,When was the last time you worked?
+148032,125,117,518000,BLEEDING GUMS,Alley,"In '86 when I did a guest shot on ""The Cosby Show."""
+26318,125,119,523000,Cliff,COSBY SHOW LIVING ROOM,"Hey, kids! Meet Grandpa Murphy!"
+26319,125,120,526000,Rudi,COSBY SHOW LIVING ROOM,But we have three grandpas already.
+26320,125,121,529000,Cliff,COSBY SHOW LIVING ROOM,This one's a great jazz musician.
+26321,125,122,531000,Rudi,COSBY SHOW LIVING ROOM,They all are.
+26326,125,123,534000,Cliff,COSBY SHOW LIVING ROOM,"You see, the kids they listen to the rap-music which gives them the brain damage. With their hippin' and the hoppin' and the bippin' and the boppin', so they don't know what the jazz is all about. You see, jazz is like a Jell-O Pudding Pop. No, actually it's more like Kodak film. No, actually jazz is like the New Coke -- it'll be around forever. Heh heh heh."
+26328,125,125,564000,Lisa Simpson,Hospital Room,"Wow, you've had some career. Although the moral seems to be that a lifetime of jazz leaves you sad and lonely."
+148034,125,126,570000,BLEEDING GUMS,Hospital Room,"Well, before you came to visit, I would have agreed with you."
+26329,125,127,577000,Kent Brockman,Hospital Room,"This just in. Krusty the clown staged a press conference today to defend himself against charges that his products are unsafe, his theme park is a death trap, and that he's marketing videos of Tanya Harding's wedding night."
+26331,125,129,590000,Krusty the Clown,Springfield Town Hall,... And I contend that those tourists were decapitated before they entered the Krustyland House of Knives. Next question.
+26332,125,130,597000,Reporter,Springfield Town Hall,What about that little boy who got appendicitis from eating your cereal?
+26333,125,131,602000,Krusty the Clown,Springfield Town Hall,"To prove that this metal O is harmless I will personally eat one. See, there's nothing... Oh boy! This thing is shredding my insides!"
+26334,125,132,616000,Sideshow Mel,Springfield Town Hall,"Uh, Krusty, that wasn't a metal one. That was a regular Krusty-O."
+26335,125,133,618000,Krusty the Clown,Springfield Town Hall,It's poison!
+148035,125,135,622000,BLEEDING GUMS,Bleeding Gums Murphy's Hospital Room,So you all set for your recital?
+26337,125,136,626000,Lisa Simpson,Bleeding Gums Murphy's Hospital Room,I sure am. Look!
+26338,125,137,628000,Lisa Simpson,Bleeding Gums Murphy's Hospital Room,I stopped brushing my teeth so I can play just like you!
+148036,125,138,631000,BLEEDING GUMS,Bleeding Gums Murphy's Hospital Room,"Aw, Lisa, honey, music comes from what's in your heart, not what's on your teeth. Come on, let's jam."
+26339,125,139,640000,Lisa Simpson,Bleeding Gums Murphy's Hospital Room,"LIFT ME, WON'T YOU LIFT ME / ABOVE THE OLD ROUTINE / MAKE IT NICE, PLAY IT CLEAN, JAZZMAN..."
+26340,125,140,663000,Lisa Simpson,Bleeding Gums Murphy's Hospital Room,"WHEN THE JAZZMAN'S TESTI-FYIN' A FAITHLESS MAN BELIEVES / HE CAN SING YOU INTO PARADISE / OR BRING YOU TO YOUR KNEES / JAZZMAN, OH JAZZMAN..."
+26341,125,141,693000,Barney Gumble,Bleeding Gums Murphy's Hospital Room,"Hey, Moe, what'll you give me for an AA chip?"
+26342,125,142,696000,Moe Szyslak,Bleeding Gums Murphy's Hospital Room,"Uh, Barney, this is a five-minute chip. Eh... it's worth a Pabst."
+148033,125,143,705000,BLEEDING GUMS,Bleeding Gums Murphy's Hospital Room,"Baby, you are gonna knock 'em dead. Here -- take this for luck."
+26322,125,144,712000,Lisa Simpson,Bleeding Gums Murphy's Hospital Room,Your sax! Thank you so much!
+26344,125,147,719000,Seymour Skinner,Auditorium,"Now I have learned that most of the orchestra is having their appendixes removed. So without further ado, I give you the remnants of the Springfield Elementary School Orchestra."
+26345,125,148,732000,Seymour Skinner,Auditorium,"On saxophone, Lisa Simpson."
+26346,125,149,734000,Seymour Skinner,Auditorium,"On triangle, Martin Prince."
+26347,125,150,734000,Seymour Skinner,Auditorium,"And with a flute up his nose, Ralph Wiggum."
+26349,125,152,741000,Chief Wiggum,Auditorium,"That's some nice flutin', boy."
+26350,125,153,743000,Seymour Skinner,Auditorium,They will be playing Stars and Stripes Forever -- hopefully not forever.
+26351,125,154,752000,Grampa Simpson,Auditorium,It sucks.
+26353,125,156,766000,Lisa Simpson,Hospital Hallway,"Hey, Bleeding Gums! I was great! And I owe it all to..."
+26356,125,159,771000,Lisa Simpson,Hospital Room,What happened to Mr. Murphy?
+26357,125,160,772000,Nurse,Hospital Room,I'm sorry. He passed away.
+26359,125,162,788000,Homer Simpson,Lisa's Bedroom,"Lisa, honey, are you gonna be okay?"
+26360,125,163,790000,Lisa Simpson,Lisa's Bedroom,Bleeding Gums was my hero and I never got to tell him how I felt.
+26361,125,164,794000,Homer Simpson,Lisa's Bedroom,"Oh I'm sure he knew. And I'm sure that wherever he is now, he's happy."
+26362,125,165,799000,Lisa Simpson,Lisa's Bedroom,But he was the only person who had the same love for music that I do.
+26363,125,166,805000,Lisa Simpson,Lisa's Bedroom,"Thank you. Oh Dad, why did he have to die?"
+26364,125,167,809000,Homer Simpson,Lisa's Bedroom,"Well, it's like the time that your cat, Snowball, got run over."
+26365,125,168,809000,Lisa Simpson,Lisa's Bedroom,Uh huh.
+26366,125,169,809000,Homer Simpson,Lisa's Bedroom,"Remember, honey?"
+26367,125,170,815000,Lisa Simpson,Lisa's Bedroom,Yeah.
+26368,125,171,816000,Homer Simpson,Lisa's Bedroom,"What I'm saying is, all we have to do is go down to the pound and get a new jazzman."
+26369,125,172,821000,Lisa Simpson,Lisa's Bedroom,"Oh, Dad!"
+26370,125,173,826000,Homer Simpson,Lisa's Bedroom,I blew it again.
+26371,125,174,832000,Homer Simpson,Lisa's Bedroom,Mmmmmm.
+26373,125,176,833000,Bart Simpson,Bart's Treehouse,"Hey, Lisa. Are you still upset about that jazz guy?"
+26374,125,177,836000,Bart Simpson,Bart's Treehouse,"If it helps, I believe that after you die, you can come back as whatever you want. I'll be a butterfly."
+26375,125,178,843000,Lisa Simpson,Bart's Treehouse,How come?
+26376,125,179,844000,Bart Simpson,Bart's Treehouse,Because nobody ever suspects the butterfly.
+26378,125,181,844000,Seymour Skinner,Springfield Elementary School,"I didn't burn down the school. It was the butterfly, I tell you! The butterfly!"
+26379,125,182,856000,Chief Wiggum,Springfield Elementary School,"He's crazy, boys. Get the taser."
+26382,125,185,865000,Lisa Simpson,Springfield Elementary School,"Uh, maybe I need to talk to somebody with a little more age and wisdom."
+26384,125,187,869000,Grampa Simpson,Simpson Living Room,Death stalks you at every turn!
+26385,125,188,872000,Lisa Simpson,Simpson Living Room,Grampa!
+26386,125,189,873000,Grampa Simpson,Simpson Living Room,"Well, it does. Death! There it is! Death!"
+26387,125,190,878000,Lisa Simpson,Simpson Living Room,It's only Maggie.
+26388,125,191,880000,Grampa Simpson,Simpson Living Room,"Oh yeah. You know, at my age, the mind starts playing tricks, 'til... Death!"
+26389,125,192,887000,Lisa Simpson,Simpson Living Room,That's only the cat.
+26390,125,193,889000,Grampa Simpson,Simpson Living Room,Oh. Death!
+26391,125,194,891000,Lisa Simpson,Simpson Living Room,"That's Maggie again, Grampa."
+26392,125,195,893000,Grampa Simpson,Simpson Living Room,Oh. Where were we? Death!
+26394,125,197,898000,Lisa Simpson,Simpson Kitchen,How come it won't stop hurting?
+26395,125,198,900000,Marge Simpson,Simpson Kitchen,"Lisa, it's normal to be sad when a friend dies, and Bleeding Gums was a good friend to you. But nobody is really gone as long as we remember them."
+26396,125,199,909000,Homer Simpson,Simpson Kitchen,"Lisa, honey, if you really want to preserve his memory, I recommend getting a tattoo. It preserves the things you love."
+26397,125,200,917000,Homer Simpson,Simpson Kitchen,Starland Vocal Band?! They suck!
+26398,125,201,920000,Grampa Simpson,Simpson Kitchen,Death!
+26400,125,203,930000,Lisa Simpson,SPRINGFIELD CEMETERY DAY,Isn't anybody gonna show up?
+26401,125,204,932000,Rev. Timothy Lovejoy,SPRINGFIELD CEMETERY DAY,"Well Lisa, we've waited an hour. Dearly beloved... we are gathered here today to bid farewell to Blood-n-Guts Murphy."
+26402,125,205,942000,Lisa Simpson,SPRINGFIELD CEMETERY DAY,No! It was Bleeding Gums Murphy.
+26403,125,206,944000,Rev. Timothy Lovejoy,SPRINGFIELD CEMETERY DAY,"Anyway, Bloody Gums Murphy was quite the sousaphone player."
+26404,125,207,944000,Lisa Simpson,SPRINGFIELD CEMETERY DAY,Saxophone! He was a jazz musician.
+26405,125,208,952000,Lisa Simpson,SPRINGFIELD CEMETERY DAY,You didn't know him! Nobody knew him! But he was a great man! And I won't rest until all of Springfield knows the name of Bleeding Gums Murphy!
+26406,125,209,962000,Homer Simpson,SPRINGFIELD CEMETERY DAY,And I won't rest until I've gotten a hot dog.
+26407,125,210,965000,Marge Simpson,SPRINGFIELD CEMETERY DAY,"Homer, this is a cemetery."
+26136,125,211,967000,Vendor,SPRINGFIELD CEMETERY DAY,Hot dogs! Get your hot dogs here.
+26325,125,212,970000,Homer Simpson,SPRINGFIELD CEMETERY DAY,Woo hoo!
+26408,125,213,971000,Marge Simpson,SPRINGFIELD CEMETERY DAY,"What do you do, follow my husband around?"
+26409,125,214,973000,Vendor,SPRINGFIELD CEMETERY DAY,"Lady, he's putting my kids through college."
+26411,125,216,981000,Lionel Hutz,Simpson Living Room,"Good news, Bart! The Krusty-O Cereal Corp. has settled your case for one hundred thousand dollars... less, of course, my legal fees."
+26412,125,217,989000,Bart Simpson,Simpson Living Room,What kind of legal fees?
+26413,125,218,990000,Lionel Hutz,Simpson Living Room,"Well, for a case this complex, I had to assemble a crack team of lawyers."
+26414,125,219,990000,Lionel Hutz,Simpson Living Room,"Ronald Chaporo, trial attorney. Albert Dershman, who can hold three billiard balls in his mouth."
+26415,125,220,1001000,Bart Simpson,Simpson Living Room,How much of the hundred thou do I get?
+26416,125,221,1005000,Bart Simpson,Simpson Living Room,Five hundred dollars!
+26417,125,222,1007000,Lionel Hutz,Simpson Living Room,"Yes, well, er..."
+26418,125,223,1008000,Bart Simpson,Simpson Living Room,Cool!
+26419,125,224,1009000,Lionel Hutz,Simpson Living Room,Glad you're happy. Let's roll.
+26420,125,225,1015000,Bart Simpson,Simpson Living Room,I can't believe it! Five hundred bucks! Just think what I can do with that money!
+26421,125,226,1023000,Bart Simpson,Simpson Living Room,Five hundred dollars on red.
+26422,125,227,1026000,Croupier,Simpson Living Room,The winner is black.
+26423,125,228,1030000,Bart Simpson,Simpson Living Room,Cool.
+26425,125,230,1031000,Lisa Simpson,Simpson Kitchen,"Mom, I want to honor Bleeding Gums' memory, but I don't know where to start."
+26426,125,231,1035000,Marge Simpson,Simpson Kitchen,"Hm, maybe you can get the local jazz station to do a tribute to him."
+26427,125,232,1039000,Homer Simpson,Simpson Kitchen,Jazz. They just make it up as they go along. I could do that. Dee dee dee dee dee dee dee dee dee dee dee dee dee.
+26428,125,233,1046000,Marge Simpson,Simpson Kitchen,That's Mary Had a Little Lamb.
+26429,125,234,1046000,Homer Simpson,Simpson Kitchen,"OK, then this. Doo doo doo doo doo doo doo... doo doo doo doo doo doo"
+26430,125,235,1051000,Marge Simpson,Simpson Kitchen,That's the same thing! You just replaced dees with doos!
+26433,125,238,1055000,Lisa Simpson,Wjazz,"Hi, I have a request. I would like you to do a tribute to Bleeding Gums Murphy, please."
+26434,125,239,1060000,Dj,Wjazz,"I'd love to, little sister, but we don't have his album."
+26435,125,240,1062000,Lisa Simpson,Wjazz,What if I could find it?
+26436,125,241,1064000,Dj,Wjazz,"Well, I'd spin it for ya, but you know, ain't no one gonna hear it. Our broadcast range is only twenty-three feet, which makes us the most powerful jazz station in the entire U.S. of A."
+26437,125,242,1072000,Lisa Simpson,Wjazz,"Gee, your station has a lot of problems."
+26438,125,243,1074000,Dj,Wjazz,Tell me about it. Just look at our morning guy.
+26439,125,244,1077000,Hans Moleman,Wjazz,"Hello. This is ""Moleman in the Morning."" Good Moleman to you. Today, part four of our series of the agonizing pain in which I live every day."
+26441,125,246,1083000,Lisa Simpson,The Android's Dungeon & Baseball Card Shop,Two hundred and fifty dollars! But I need that album to honor the memory of Bleeding Gums Murphy.
+26442,125,247,1098000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,He's dead? Well why didn't you say so?
+26445,125,250,1106000,Lisa Simpson,Street,Where am I gonna get five hundred dollars?
+26447,125,252,1118000,C. Montgomery Burns,Street,"Now drive, Smithers, drive!"
+26449,125,254,1127000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Excuse me, my good man, I have five hundred dollars to blow. What have you got?"
+26450,125,255,1130000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Behold... the ultimate POG.
+26451,125,256,1135000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,I'll take it!
+26454,125,259,1149000,Bart Simpson,Lisa's Bedroom,"Lisa, look what I've got!"
+26455,125,260,1152000,Bart Simpson,Lisa's Bedroom,Ta-daa!
+26456,125,261,1154000,Lisa Simpson,Lisa's Bedroom,Bart! I can't believe it... But why?
+26457,125,262,1157000,Bart Simpson,Lisa's Bedroom,"When I said my stomach hurt, you were the only one who believed me."
+26458,125,263,1160000,Lisa Simpson,Lisa's Bedroom,Oh thank you. But five hundred dollars! You'll never see that much money again!
+26459,125,264,1167000,Bart Simpson,Lisa's Bedroom,Oh yeah? Take a look at this:
+26461,125,266,1173000,Lisa Simpson,Wjazz,I got the album!
+26462,125,267,1176000,Dj,Wjazz,"Here, you can listen to it on this."
+26464,125,269,1182000,Lisa Simpson,Wjazz,"I did the best I could, Bleeding Gums."
+26466,125,271,1208000,Dispatcher,Wjazz,Attention all units! Attention all units! Poison gas cloud heading towards...
+26467,125,272,1216000,Chief Wiggum,Wjazz,"Aw, that's nice."
+26468,125,273,1218000,Chief Wiggum,Wjazz,"Hey, it's getting cloudy! Oh boy."
+26470,125,275,1234000,Lisa Simpson,Springfield Street,"That was for you, Bleeding Gums."
+148037,125,276,1238000,BLEEDING GUMS,Springfield Street,"You've made an old jazz-man happy, Lisa."
+26472,125,277,1242000,Lion's Head,Springfield Street,"You must avenge my death, Kimba... er, I mean... Simba!"
+26473,125,278,1246000,Darth,Springfield Street,"Luke, I am your father!"
+26474,125,279,1249000,Black Man,Springfield Street,This is CNN!
+148038,125,280,1251000,BLEEDING GUMS,Springfield Street,Will you guys pipe down? I'm saying good-bye to Lisa.
+26475,125,281,1254000,Black Man,Springfield Street,We're sorry.
+26476,125,282,1257000,Lisa Simpson,Springfield Street,I don't want you to go!
+148039,125,283,1259000,BLEEDING GUMS,Springfield Street,"Sorry, but I have to. Good-bye."
+26477,125,284,1262000,Lisa Simpson,Springfield Street,Good-bye.
+148040,125,285,1269000,BLEEDING GUMS,Springfield Street,"Ah, what the heck. Once more, from the top!"
+26478,125,286,1272000,Lisa Simpson,Springfield Street,Yay!
+26479,125,287,1280000,Lisa Simpson,Springfield Street,"WHEN THE JAZZMAN'S TESTI-FYIN' A FAITHLESS MAN BELIEVES / HE CAN SING YOU INTO PARADISE / OR BRING YOU TO YOUR KNEES / JAZZMAN, TAKE MY BLUES AWAY ..."
+26480,125,288,1341000,Lisa Simpson,Springfield Street,One more time!
+148041,125,289,1343000,BLEEDING GUMS,Springfield Street,"Oh, come on, Lisa. I got a date with Billie Holliday."

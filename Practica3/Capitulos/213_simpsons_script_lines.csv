@@ -1,0 +1,279 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+50281,213,1,86000,Kent Brockman,Mr. Burns' Casino,"This is Kent Brockman live at the Monty Burns Casino. Moments from now, the house that social security checks built will be demolished to make way for a casino-themed family hotel."
+50282,213,2,97000,Waylon Smithers,Mr. Burns' Casino,"This must be heartbreaking for you, sir."
+50283,213,3,99000,C. Montgomery Burns,Mr. Burns' Casino,"I'm just thinking of my employees -- all the card sharps, bottom dealers, and shills. Where will they go?"
+50284,213,4,107000,Waylon Smithers,Mr. Burns' Casino,"They're managing your chain of nursing homes, sir."
+50285,213,5,109000,C. Montgomery Burns,Mr. Burns' Casino,Excellent.
+50286,213,6,110000,Kent Brockman,Mr. Burns' Casino,"Gone are such headliners as ""Little Timmy and the Shebangs,"" ""The Shebangs,"" and ""The New Shebangs featuring Big Timmy."""
+50287,213,7,110000,Marge Simpson,Mr. Burns' Casino,"Remember how excited we were when this place opened? Then a week later, we just forgot about it."
+50288,213,8,123000,Lisa Simpson,Mr. Burns' Casino,I'm surprised they bothered to move it when they moved the town.
+50289,213,9,125000,Homer Simpson,Mr. Burns' Casino,"Oh, I can explain that. You see..."
+50290,213,10,127000,Demolition Foreman,Mr. Burns' Casino,Five... four... three...two..
+50291,213,11,131000,Bart Simpson,Mr. Burns' Casino,All right! Here comes the implosion!
+50292,213,12,134000,Workman,Mr. Burns' Casino,Implosion? But I thought you said...
+50293,213,13,138000,Don Rickles,Mr. Burns' Casino,Hockey puuuuucks...
+50294,213,14,141000,Homer Simpson,Mr. Burns' Casino,"Don Rickles zinged you, Marge."
+50295,213,15,146000,Marge Simpson,Mr. Burns' Casino,Dust!!!
+50296,213,16,150000,Homer Simpson,Mr. Burns' Casino,"Eat my dust, dust!"
+50298,213,18,154000,Lisa Simpson,Mr. Burns' Casino,"Dad, we hit Don Rickles!"
+50299,213,19,157000,Don Rickles,Mr. Burns' Casino,"I'm okay. But the Puerto Rican guy's trying to steal your hubcaps! Just kiddin'. ""I'm a nice guy..."""
+50301,213,21,168000,Marge Simpson,Simpson Car,We'd better stop and get the car washed.
+50302,213,22,170000,Homer Simpson,Simpson Car,"Aaah, what's the rush? Might rain next week."
+50303,213,23,173000,Lenny Leonard,Simpson Car,"Hey, Homer. Car's kinda dirty."
+50304,213,24,176000,Homer Simpson,Simpson Car,Really? You think I should get it washed?
+50305,213,25,178000,Lenny Leonard,Simpson Car,"Yeah, maybe."
+50306,213,26,182000,Marge Simpson,Simpson Car,"You listen to your friends, but you never listen to me."
+50307,213,27,185000,Homer Simpson,Simpson Car,"Hey, that's great."
+50309,213,29,188000,Cletus Spuckler,Car Wash,"All right, young'uns, bath time! Cover up your eyes and drop your britches. Who wants wax?"
+50310,213,30,195000,Kids,Car Wash,Yayyy!
+50311,213,31,196000,Comic Book Guy,Car Wash,"I insist you take special care with my collection of valuable and humorous bumper stickers, particularly this one... which was given to me by a Harrison Ford look-alike."
+50312,213,32,205000,Car Wash Employee,Car Wash,"No hablo Ingles, senor."
+50313,213,33,217000,Marge Simpson,Car Wash,"Wow, you can't find this stuff anywhere! Seals and Crofts, Pablo Cruise, Air Supply, Ohhhh, Loggins and Oates! And it's free!"
+50314,213,34,227000,Lisa Simpson,Car Wash,"I've never heard of these bands, Mom. What kind of music do they play?"
+50315,213,35,230000,Bart Simpson,Car Wash,Crap rock?
+50316,213,36,231000,Marge Simpson,Car Wash,No...
+50317,213,37,231000,Homer Simpson,Car Wash,Wuss rock?
+50318,213,38,233000,Marge Simpson,Car Wash,That's it.
+50319,213,39,236000,Homer Simpson,Car Wash,"Ten dollars?! What is this, a car wash for millionaires?"
+50320,213,40,240000,Bart Simpson,Car Wash,"Throw hot wax on him, Dad!"
+50321,213,41,241000,Ned Flanders,Car Wash,"Howdy, Homer."
+50322,213,42,243000,Cashier,Car Wash,"Five dollars, please."
+50323,213,43,245000,Homer Simpson,Car Wash,Hey! How did Churchy La Femme get half price?
+50324,213,44,248000,Cashier,Car Wash,Senior citizen's discount.
+50325,213,45,249000,Homer Simpson,Car Wash,Senior citizen? Flanders?
+50326,213,46,253000,Homer Simpson,Car Wash,"Well, we'll see about that."
+50329,213,48,258000,Rev. Timothy Lovejoy,First Church of Springfield,"... And once again, tithing is ten per cent off the top. That's gross income, not net. Please people, don't force us to audit."
+50330,213,49,269000,Rev. Timothy Lovejoy,First Church of Springfield,"Now we're going to pass this around a second time. Brother Ned, if you'll do the honors."
+50331,213,50,274000,Homer Simpson,First Church of Springfield,"I wouldn't do that, Reverend. You see, ""Saint Flanders"" is as crooked as you or me!"
+50332,213,51,283000,Congregation,First Church of Springfield,/ What's he talking about? / What's he saying? / Who is he? / etc.
+50333,213,52,284000,Homer Simpson,First Church of Springfield,"That's right, it's my sad duty to rat out this man for defrauding a car wash. How, you ask? With a phony senior discount card!"
+50335,213,54,294000,Ned Flanders,First Church of Springfield,"Well, that's not quite true--"
+50336,213,55,296000,Homer Simpson,First Church of Springfield,Did you or did you not use a senior citizen discount card at said car wash?
+50337,213,56,300000,Ned Flanders,First Church of Springfield,"Well, I did, but--"
+50338,213,57,301000,Homer Simpson,First Church of Springfield,Now I'm not a fancy big-city lawyer...
+50340,213,59,304000,Homer Simpson,First Church of Springfield,But it seems to me that a senior citizen has to be over 55. Isn't that so?
+50341,213,60,310000,Ned Flanders,First Church of Springfield,"Well, yes."
+50342,213,61,311000,Homer Simpson,First Church of Springfield,And you are how old?
+50343,213,62,314000,Ned Flanders,First Church of Springfield,"I suppose, if you must know... I'm... well, I'm... I'm sixty."
+50344,213,63,318000,Congregation,First Church of Springfield,"/ My God, he looks so good. / He looks terrific. He looks so young. / Oh, really?"
+50345,213,64,321000,Lenny Leonard,First Church of Springfield,"What's your secret, Flanders? Goat placenta? Monkey sweat?"
+50346,213,65,325000,Carl Carlson,First Church of Springfield,Some kind of electric hat?
+50347,213,66,326000,Moe Szyslak,First Church of Springfield,"Holy water? It's holy water, right?!"
+50348,213,67,328000,Moe Szyslak,First Church of Springfield,"Aaah, it burns!"
+50349,213,68,330000,Ned Flanders,First Church of Springfield,"L-Listen, folks, there's no magic formula. I just follow the three C's: clean living, chewing thoroughly, and a daily dose of Vitamin Church."
+50350,213,69,335000,Congregation,First Church of Springfield,"/ Oh, well..."
+50351,213,70,341000,Ned Flanders,First Church of Springfield,"And, of course, I resist all the major urges."
+50352,213,71,343000,Sideshow Mel,First Church of Springfield,All of them?!
+50353,213,72,344000,Marge Simpson,First Church of Springfield,"You mean, you've never splurged and, say, eaten an entire birthday cake, then blamed it on the dog?"
+50354,213,73,350000,Edna Krabappel-Flanders,First Church of Springfield,You've never licked maple syrup off your lover's stomach?
+50356,213,74,355000,Bart Simpson,First Church of Springfield,You've never snuck out of church to break into cars?
+50357,213,75,357000,Ned Flanders,First Church of Springfield,"No, no, and double-no! I haven't done any of those things, folks. You name it, I haven't done it!"
+50358,213,76,364000,Homer Simpson,First Church of Springfield,"Geez, Flanders. You're 60 years old, and you haven't lived a day in your life."
+50359,213,77,368000,Carl Carlson,First Church of Springfield,"Yeah, even the boy in the bubble had a deck of cards."
+50362,213,80,376000,Ned Flanders,Flanders's Car,"Oh, can you believe it? It almost seemed like those folks were, were, were making fun of old steady Neddy."
+50363,213,81,381000,Maude Flanders,Flanders's Car,"Well, you may be a bit cautious, but what's wrong with that? Some people like chunky peanut butter, some like smooth."
+50364,213,82,388000,Ned Flanders,Flanders's Car,"Mmm-hmm. And some people steer clear of that whole hornet's nest. I'll stick with just plain white bread, thank you very much. Maybe with a--"
+50365,213,83,394000,Todd Flanders,Flanders's Car,Glass of water on the side for dippin'.
+50366,213,84,399000,Ned Flanders,Flanders's Car,Gosh darn it! Am I that pre-diddley-dictable? I've wasted my whole dang diddley life.
+50367,213,85,407000,Grampa Simpson,Flanders's Car,Hey there!
+50368,213,86,411000,Ned Flanders,Flanders's Car,Look at that! Everyone's living it up except Ned.
+50370,213,88,414000,Grampa Simpson,Sports Car,Help! We're being carjacked!
+50371,213,89,418000,Babe,Sports Car,"Don't get clever, old man. Now take us to Dress Barn."
+50373,213,91,428000,Maude Flanders,Flanders Home,"Where've you been, Neddy?"
+50374,213,92,429000,Ned Flanders,Flanders Home,In the bathroom. Not trimmin' my mustache. Whaddaya think? Do I remind you of troubled troubadour David Crosby?
+50375,213,93,437000,Maude Flanders,Flanders Home,"No, you remind me of silly billy Ned Flanders."
+50377,213,95,441000,Ned Flanders,Flanders Home,Would a silly billy sit like this?
+50379,213,97,445000,Maude Flanders,Flanders Home,"Rod, call Doctor Stein."
+50380,213,98,446000,Homer Simpson,Flanders Home,"All right, Bart!"
+50381,213,99,448000,Homer Simpson,Flanders Home,Fire in the hole!
+50382,213,100,452000,Homer Simpson,Flanders Home,"Okay, no more gasoline."
+50384,213,102,459000,Homer Simpson,Simpson Home,Full power!
+50385,213,103,462000,Ned Flanders,Simpson Home,"Never a dull moment, huh, Homer?"
+50386,213,104,464000,Homer Simpson,Simpson Home,"You got that right. Throw on the mesquite, Bart!"
+50328,213,105,466000,Bart Simpson,Simpson Home,Mesquite it is!
+50387,213,106,470000,Ned Flanders,Simpson Home,"Here, this may sound just a teensy bit insane in the ol' membrane, Homer. But I, I was wondering if you could show me how to have some fun."
+50388,213,107,477000,Homer Simpson,Simpson Home,"Well, well, well. So flawless Flanders needs help from stinky-pants Simpson."
+50389,213,108,484000,Ned Flanders,Simpson Home,"Yeah, I, I guess I do."
+50390,213,109,485000,Homer Simpson,Simpson Home,"Welly, welly, welly... Mr. Clean wants to hang with Dirty Dingus Magee."
+50391,213,110,491000,Ned Flanders,Simpson Home,"How 'bout it, Homer? Will you teach me the secret of your intoxicating lust for life?"
+50392,213,111,495000,Homer Simpson,Simpson Home,"Wellity, wellity, wellity..."
+50393,213,112,497000,Ned Flanders,Simpson Home,Stop that! Will you help me or not?
+50394,213,113,501000,Homer Simpson,Simpson Home,Let's do it.
+50395,213,114,504000,Ned Flanders,Simpson Home,So what about all this meat?
+50396,213,115,505000,Homer Simpson,Simpson Home,"Eh, the Missus will clean that up."
+50397,213,116,507000,Marge Simpson,Simpson Home,Now it's Marge's time to shine!
+50398,213,117,511000,Homer Simpson,Simpson Home,"First of all, I get five dollars a day plus expenses."
+50399,213,118,514000,Ned Flanders,Simpson Home,Seems fair.
+50400,213,119,515000,Homer Simpson,Simpson Home,"And I'll need your signature... here, here, aaannnnd... initial here."
+50401,213,120,521000,Lisa Simpson,Simpson Home,"Heh, you're not really giving my father power of attorney, are you?"
+50402,213,121,526000,Ned Flanders,Simpson Home,"Of course I... Oh, my stars! I can't do that."
+50403,213,122,529000,Homer Simpson,Simpson Home,Well that's unfortunate. It really is.
+50404,213,123,533000,Ned Flanders,Simpson Home,All right.
+50405,213,124,535000,Homer Simpson,Simpson Home,Congratulations! Welcome to the Homer Simpson Program.
+50406,213,125,539000,Ned Flanders,Simpson Home,"So, what happens next?"
+50407,213,126,541000,Homer Simpson,Simpson Home,"One day soon I will come for you, and then the game will begin. Could be in the middle of the night. It could be when you least expect it. Or whatever's good for you. I don't care."
+50409,213,128,552000,Ned Flanders,Springfield Streets,"Okay, Homer. I'm ready to learn. What's the first lesson? Just give me the topic sentence."
+50410,213,129,558000,Homer Simpson,Springfield Streets,Gimme that!
+50411,213,130,559000,Homer Simpson,Springfield Streets,That's your problem. You're living up here.
+50412,213,131,562000,Homer Simpson,Springfield Streets,You gotta live down here.
+50413,213,132,564000,Homer Simpson,Springfield Streets,"In the impulse zone. If you want to be like me, you gotta make snap decisions. Like this."
+50414,213,133,572000,Homer Simpson,Springfield Streets,We're going to break the bank at the Monty Burns Casino!
+50416,213,134,578000,Ned Flanders,Springfield Streets,"Homer, they blew that up yesterday."
+50417,213,135,579000,Homer Simpson,Springfield Streets,"Oh yeah, right."
+50418,213,136,582000,Homer Simpson,Springfield Streets,Then we're goin' to Las Vegas! Which is actually back in that direction.
+50420,213,138,592000,Homer Simpson,Highway,"""Nobody's goin' to take my Ned / I'll teach him to have fu-un / Ooh, he's a Flanders machine..."""
+50421,213,139,601000,Samoan Attorney,Highway,That sure was a fun trip to Las Vegas!
+50422,213,140,603000,Hunter S. Thompson,Highway,"Eh, too many kids."
+50424,213,142,605000,Ned Flanders,Homer's Car,"Ooh, it's goin' on eight-thirty. I'd better call Maude and tell her where I am."
+50425,213,143,611000,Homer Simpson,Homer's Car,"Relax, I called her from the gas station."
+50426,213,144,615000,Ned Flanders,Homer's Car,"Thanks, buddy."
+50427,213,145,617000,Homer Simpson,Homer's Car,Sucker.
+50429,213,147,645000,Ned Flanders,Las Vegas Strip,"Oh, gee, Homer, this all looks so garish."
+50431,213,149,652000,Ned Flanders,Homer's Car,"Oh, the lights, the noise, the letter X -- i-it's all designed to inflame the senses. I'm overstimulated! I gotta get out of this town!"
+50432,213,150,661000,Homer Simpson,Homer's Car,I don't think so.
+50433,213,151,664000,Homer Simpson,Homer's Car,I think you'll find escape is quite impossible.
+50434,213,152,667000,Ned Flanders,Homer's Car,"No, I got it."
+50435,213,153,668000,Joan Rivers,Homer's Car,Oh! Oh! Would you like to be in the audience for my infomercial?
+50437,213,155,675000,Joan Rivers,Homer's Car,Help me! My daughter's not talented!
+50439,213,157,685000,Homer Simpson,Casino,Hey! Lance Murdock!
+50440,213,158,690000,Ned Flanders,Casino,"If he's not careful, his scooter could roll right down that ramp."
+50441,213,159,693000,Homer Simpson,Casino,"He's a daredevil, Ned. He laughs at death."
+50442,213,160,696000,Ned Flanders,Casino,"Oh, when I wanna laugh, I'll take Bob Saget, thank you very much."
+50443,213,161,700000,Announcer,Casino,"And now, the indestructible Lance Murdock will jump his SuiCycle over an audience member. And he'll do it while attempting to open a locked safe on his head. Any volunteers?"
+50444,213,162,715000,Homer Simpson,Casino,"Ooh, ooh, ooh, pick him! Pick him!"
+50445,213,163,717000,Ned Flanders,Casino,"No, Homer, no! I wanna do something exciting, but I can't just go from zero to thirty like that! I-I could be killed."
+50446,213,164,724000,Homer Simpson,Casino,"Fine, I'll do it. Where do you want me?"
+50447,213,165,727000,LANCE,Casino,On the X.
+50355,213,166,727000,Homer Simpson,Casino,You mean that one with the red paint?
+50448,213,167,733000,LANCE,Casino,"Uh, yeah, paint. Now, it's of critical importance that you don't--"
+50449,213,168,738000,Homer Simpson,Casino,"Yeah, yeah, yeah, I'll figure it out. This isn't rocket science."
+50450,213,169,741000,LANCE,Casino,"Well, actually, there are several rockets mounted to the--"
+50451,213,170,745000,Homer Simpson,Casino,Bo-ring.
+50452,213,171,753000,Announcer,Casino,"Okay, he's cleared the ring of fire! Past the ring of ice! Over the dog doo stick! He's cracked the safe!"
+50453,213,172,763000,Homer Simpson,Casino,"Hey Flanders, Don't spill my beer!"
+50454,213,173,765000,LANCE,Casino,"Oh God, lay down! Lay down!"
+50455,213,174,770000,Paramedic,Casino,Clear!
+50456,213,175,772000,Announcer,Casino,"He's all right, folks!"
+50458,213,177,777000,Homer Simpson,Casino,"Okey-doke, let's hit the tables."
+50459,213,178,779000,Ned Flanders,Casino,"God Homer, watching you risk your life turned my beat box all the way up to .. Rumba! Yea, I was praying you'd be safe but to be honest, part of me wanted to see ya get splattered."
+50460,213,179,791000,Homer Simpson,Casino,"Oh, I think someone just had his first taste of blood loss."
+50461,213,180,797000,Homer Simpson,Casino,"Let's see... what's Marge's birthday? Barney is July fifteenth, same as Lassie's, so Marge's must be... fifty... oh, forget it. Flanders, what's your birthday?"
+50462,213,181,806000,Ned Flanders,Casino,"Aw, leave me out of this, Homer. Games of chance are strictly forbidden by Deuteronomy seven--"
+50463,213,182,811000,Homer Simpson,Casino,"Seven, eh?"
+50464,213,183,816000,Croupier,Casino,Seven a winner.
+50465,213,184,817000,Homer Simpson,Casino,"Way to go, Flanders. The Bible's finally pulling its weight. Got any more holy numbers?"
+50466,213,185,822000,Ned Flanders,Casino,"Oh, I got a bunch, Homer, but I just don't feel right ab... Oh, Lord, what should I do?"
+50468,213,187,830000,Pit Boss,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,Keep gaming.
+50469,213,188,832000,Ned Flanders,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,J-- What?
+50470,213,189,833000,Pit Boss,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,It means gambling. Keep gambling.
+50471,213,190,836000,Ned Flanders,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,"Oh, righty-o. One betting disk please."
+50472,213,191,839000,Homer Simpson,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,"""One betting disk please."" Watch and learn."
+50473,213,192,846000,Croupier,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,"Aaand, fourteen black."
+50474,213,193,848000,Homer Simpson,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,"Well, there you go. Now how 'bout a drink?"
+50476,213,195,853000,Ned Flanders,ROMAN EMPIRE THEME BAR - LATER,"How do you do it, Homer? How do you silence that little voice that says, ""Think""?"
+50415,213,196,859000,Homer Simpson,ROMAN EMPIRE THEME BAR - LATER,You mean Lisa?
+50477,213,197,860000,Ned Flanders,ROMAN EMPIRE THEME BAR - LATER,Oh no. I-I mean common sense.
+50478,213,198,862000,Homer Simpson,ROMAN EMPIRE THEME BAR - LATER,"Oh, that. That can be treated with our good friend alcohol. You might want to write that down. Where the hell's your notebook?"
+50479,213,199,868000,Ned Flanders,ROMAN EMPIRE THEME BAR - LATER,You threw it out the...
+50480,213,200,868000,Homer Simpson,ROMAN EMPIRE THEME BAR - LATER,"Oh, never mind. Just pay attention."
+50481,213,201,869000,Homer Simpson,ROMAN EMPIRE THEME BAR - LATER,"Slave girl? Oh, slave girl?"
+50482,213,202,873000,WAITRESS #1,ROMAN EMPIRE THEME BAR - LATER,"More libations, my imperial conquerors?"
+50483,213,203,876000,Homer Simpson,ROMAN EMPIRE THEME BAR - LATER,Whuh?
+50484,213,204,877000,Waitress #2,ROMAN EMPIRE THEME BAR - LATER,More booze?
+50485,213,205,878000,Homer Simpson,ROMAN EMPIRE THEME BAR - LATER,"Oh, yeah. Two more of these, please."
+50486,213,206,881000,Homer Simpson,ROMAN EMPIRE THEME BAR - LATER,"And for you, Ned?"
+50487,213,207,883000,Ned Flanders,ROMAN EMPIRE THEME BAR - LATER,"I'll have a Shirley... no, a virgin... no, make it a children's... Oh, what the heck, you only live once. Give me a..."
+50488,213,208,893000,Ned Flanders,ROMAN EMPIRE THEME BAR - LATER,White wine spritzer!
+50491,213,211,909000,Ned Flanders,Hotel Room,"Oh my goodness, Homer. Wake up!"
+50493,213,213,915000,Ned Flanders,Hotel Room,"Look at this place! We must have really painted the town last night. I have a pounding headache, my mouth tastes like vomit, and I don't remember a thing!"
+50494,213,214,926000,Homer Simpson,Hotel Room,Welcome to my world.
+50495,213,215,927000,Ned Flanders,Hotel Room,"Oh, I did it! I conquered my fears and I made up for a lot of lost livin'. And I owe it all to the Homer Simpson program."
+50496,213,216,936000,Homer Simpson,Hotel Room,The what now?
+50497,213,217,937000,Female Voice,Hotel Room,"Well, it's about time you two woke up."
+50498,213,218,939000,Homer Simpson,Hotel Room,"Well, of course a-- Who are you?"
+50499,213,219,942000,Ginger,Hotel Room,Who am I? I'm Mrs. Ned Flanders.
+50501,213,221,949000,Homer Simpson,Hotel Room,"Hey, smooth move, Flanders!"
+50502,213,222,951000,Amber Dempsey,Hotel Room,And I'm Mrs. Homer Simpson!
+50504,213,224,956000,Ned Flanders,Hotel Room,Here comes that vomit again.
+50505,213,225,957000,Homer Simpson,Hotel Room,Eeech.
+50506,213,226,957000,Homer Simpson,Hotel Room,"Okay... okay... okay... okay... okay... okay... okay. Okay, you're saying that Ned and me married you two?"
+50507,213,227,974000,Amber Dempsey,Hotel Room,"Oh yeah, we're hitched, all right."
+50508,213,228,976000,Ginger,Hotel Room,'Til death do us part.
+50509,213,229,979000,Ned Flanders,Hotel Room,"Mm-hm, I'm workin' on that."
+50510,213,230,980000,Homer Simpson,Hotel Room,"Ned, no! Think of your wives!"
+50511,213,231,983000,Homer Simpson,Hotel Room,"Wait a minute. This could be some kind of scam -- or possibly, scam-ola. We would remember if we got married."
+50512,213,232,989000,Amber Dempsey,Hotel Room,"Boy, you did have a lot to drink last night, Homeo."
+50513,213,233,993000,Ginger,Hotel Room,Take a look at this.
+50514,213,234,995000,Homer Simpson,Hotel Room,"Ahh, precious memories."
+50515,213,235,998000,Ned Flanders,Hotel Room,I okeley dokely shmokely do!
+50516,213,236,1004000,Minister,Hotel Room,"And do you, Homer, take this cocktail waitress you just met to be your lawfully wedded wife?"
+50517,213,237,1008000,Homer Simpson,Hotel Room,What did you call me?
+50518,213,238,1010000,Minister,Hotel Room,Do you want to get married? Married!
+50519,213,239,1013000,Homer Simpson,Hotel Room,"Sure. Sock it to me, baby."
+50520,213,240,1017000,Minister,Hotel Room,"By the power vested in me by the Chicago Outfit, I now pronounce you husbands and wives."
+50521,213,241,1025000,Homer Simpson,Hotel Room,We are so dead.
+50523,213,243,1029000,Homer Simpson,Casino Dining Room,"Ladies, we want to do the honorable thing. So breakfast is on us, with full waffle-bar privileges. But first, I'm afraid we have some bad news. The waffle bar is closed. I'm sorry. I'm so very--"
+50524,213,244,1042000,Ned Flanders,Casino Dining Room,"Homer! The bad news, ladies, is we already have wives."
+50525,213,245,1046000,Amber Dempsey,Casino Dining Room,"Well, you can't be very happy with them if you married us."
+50526,213,246,1049000,Ginger,Casino Dining Room,"You two fellas are the nicest husbands we've ever had, and we're not giving you up without a fight."
+50527,213,247,1054000,Homer Simpson,Casino Dining Room,"But Ginger, honey, I am not the catch I appear to be."
+50528,213,248,1058000,Ned Flanders,Casino Dining Room,Ginger's my wife.
+50529,213,249,1060000,Homer Simpson,Casino Dining Room,"Are you sure? Oh, rats. No offense, Sweetie."
+50530,213,250,1064000,Ned Flanders,Casino Dining Room,"Homer, why don't we go make the girls some custom omelettes?"
+50531,213,251,1070000,Homer Simpson,Casino Dining Room,"Geez, I've never seen anyone so whipped so fast."
+50532,213,252,1077000,Ned Flanders,Casino Dining Room,"What are we gonna do, Homer? My kids are gonna be traumatized! And then there's Maude. And then there's Maude!"
+50533,213,253,1084000,Homer Simpson,Casino Dining Room,"I don't know, Flanders, having two wives could have its advantages."
+50534,213,254,1090000,Homer Simpson,Casino Dining Room,"Chop, chop, dig, dig. Chop, chop, dig, dig. Chop, chop, dig, dig..."
+50535,213,255,1097000,Marge Simpson,Casino Dining Room,"You know, Homie, there's so much more two wives could do for you."
+50537,213,256,1102000,Homer Simpson,Casino Dining Room,"I hear digging, but I don't hear chopping."
+50538,213,257,1108000,Homer Simpson,Casino Dining Room,"Ooh, a friendly bee."
+50539,213,258,1109000,Homer Simpson,Casino Dining Room,Ow!
+50540,213,259,1111000,Homer Simpson,Casino Dining Room,"Ow, that sting hurt so much. We gotta get outta this, Ned."
+50541,213,260,1116000,Ned Flanders,Casino Dining Room,"Well, do something! This is all your fault. You and your stupid program."
+50542,213,261,1120000,Homer Simpson,Casino Dining Room,"Blame me if you must, but don't ever speak ill of the program. The program is rock solid. The program is sound."
+50543,213,262,1127000,Amber Dempsey,Casino Dining Room,Yoohoo.
+50544,213,263,1128000,Homer Simpson,Casino Dining Room,"Oh, those awful women want their omelettes."
+50545,213,264,1128000,Homer Simpson,Casino Dining Room,Ginger throws Ned a kiss.
+50546,213,265,1133000,Ned Flanders,Casino Dining Room,How are we going to get outta this mess in an honorable and decent--
+50547,213,266,1136000,Ned Flanders,Casino Dining Room,"Ooh, nuts."
+50548,213,267,1138000,Ginger,Casino Dining Room,I don't know. Omelettes have a lot of fat in them.
+50549,213,268,1141000,Amber Dempsey,Casino Dining Room,"Forget it, you're married. Let yourself go. Hey, they're running away!"
+50551,213,270,1148000,Ginger,CASINO LOBBY,How can a fat man run so fast?
+50552,213,271,1163000,Amber Dempsey,CASINO LOBBY,"No, the fat one's mine."
+50553,213,272,1175000,Gil Gunderson,CASINO LOBBY,"Yea. Come on baby, show Gil a four."
+50554,213,273,1188000,Croupier,CASINO LOBBY,Craps.
+50555,213,274,1188000,Gil Gunderson,CASINO LOBBY,"Oh no, why did I bet the company payroll? Ohhh, ol' Gil's in a lot of trouble."
+50556,213,275,1197000,Amber Dempsey,CASINO LOBBY,Somebody help! Our husbands are trying to ditch us!
+50558,213,277,1201000,Pit Boss,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,Someone dishonoring their marriage vows? Not in Las Vegas! Attention all employees. We've got two runaways! Stop them!
+50559,213,278,1210000,Ned Flanders,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,Oh no!
+50561,213,280,1215000,Homer Simpson,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,A lion!
+50562,213,281,1217000,Ned Flanders,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,Drederick Tatum!
+50563,213,282,1218000,Drederick Tatum,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,Your behavior is.. is unconscionable!
+50564,213,283,1222000,Homer Simpson,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,The Moody Blues!
+50565,213,284,1224000,Graeme Edge,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,Cold-hearted Homer ditching his wife / While ancient Ned runs for his life /
+50566,213,285,1229000,Justin Hayward,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,Chips of red and blue and white / But we decide...
+50567,213,286,1233000,John Lodge,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,"Can the poems, it's ass-whuppin' time."
+50568,213,287,1236000,Ray Thomas,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,I want fatty.
+50569,213,289,1248000,Homer Simpson,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,What if we switched wives? Would that help?
+50570,213,290,1250000,Ned Flanders,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,"For the last time, no!"
+50571,213,291,1252000,Homer Simpson,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,Hel-lo. Our ticket to freedom.
+50572,213,292,1258000,Homer Simpson,SURVEILLANCE ROOM ABOVE ROULETTE TABLE,"So long, su--"
+50574,213,294,1265000,Drederick Tatum,Nevada State Line,Get out and stay out!
+50575,213,295,1266000,Pit Boss,Nevada State Line,Las Vegas doesn't care for out-of-towners. Take your money and go someplace else.
+50576,213,296,1271000,Drederick Tatum,Nevada State Line,Why did he disrespect us?
+50577,213,297,1274000,Amber Dempsey,Nevada State Line,And don't you ever try to marry us again!
+50578,213,298,1276000,Ginger,Nevada State Line,We found some guys who know how to treat a woman.
+50579,213,299,1281000,Homer Simpson,Nevada State Line,"But Amber, I can change!"
+50580,213,300,1283000,Ned Flanders,Nevada State Line,Will you shut up?
+50582,213,302,1285000,Homer Simpson,DESERT - LATER,"All right, let's get our stories straight for Marge and Maude. We were out buying them fabulous gifts..."
+50583,213,303,1290000,Ned Flanders,DESERT - LATER,What's the occasion?
+50584,213,304,1291000,Homer Simpson,DESERT - LATER,"Because we love them, Jackass."
+50585,213,305,1293000,Homer Simpson,DESERT - LATER,"Anyhoo, we came out of Walmart, when suddenly one hundred spaceships..."
+50586,213,306,1297000,Ned Flanders,DESERT - LATER,Homer!
+50587,213,307,1298000,Homer Simpson,DESERT - LATER,"You're right, you're right. Fifty spaceships, beamed us aboard. They gang-probed you, while I discovered an invention that blew their heads up and saved America."
+50588,213,308,1306000,Ned Flanders,DESERT - LATER,"Uh, do I have to be gang-probed?"
+50589,213,309,1309000,Homer Simpson,DESERT - LATER,Would you rather tell Maude the truth?
+50590,213,310,1312000,Ned Flanders,DESERT - LATER,What did the aliens look like?
+50591,213,311,1313000,Homer Simpson,DESERT - LATER,"Well, I only saw them from the back, 'cause they were so busy gang probing you."
+50592,213,312,1317000,Homer Simpson,DESERT - LATER,"Hello, little birdie."
+50595,213,315,1367000,Homer Simpson,DESERT - LATER,Ah!! Cover your eyes!

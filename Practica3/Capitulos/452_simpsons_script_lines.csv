@@ -1,0 +1,240 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+116859,452,1,32000,Marge Simpson,Simpson Home,YOU LIKE POTATO...
+116860,452,2,33000,Homer Simpson,Simpson Home,AND YOU LIKE POTATO...
+116861,452,3,35000,Marge Simpson,Simpson Home,YOU LIKE TOMATO...
+116862,452,4,35000,Homer Simpson,Simpson Home,AND YOU LIKE TOMATO...
+116863,452,5,39000,Marge Simpson,Simpson Home,potato!
+116864,452,6,39000,Homer Simpson,Simpson Home,potato!
+116865,452,7,41000,Marge Simpson,Simpson Home,TOMATO!
+116866,452,8,41000,Homer Simpson,Simpson Home,TOMATO!
+116867,452,9,42000,Marge Simpson,Simpson Home,LET'S CALL THE WHOLE THING OFF...ICIALLY ONNNNN!
+116868,452,10,48000,Marge Simpson,Simpson Home,AND TOAST... VALERIE AND DAAAAAVE!
+116869,452,11,51000,Homer Simpson,Simpson Home,TOGASAKI-ROTHMAN!
+116870,452,12,56000,Lisa Simpson,Simpson Home,You guys will be the hit of cousin Valerie's wedding reception!
+116871,452,13,59000,Bart Simpson,Simpson Home,"Can I just ask, who the hell says potato?"
+116872,452,14,62000,Homer Simpson,Simpson Home,Songwriters who are stuck!
+116873,452,15,63000,Marge Simpson,Simpson Home,"Homie, I'm still a little nervous about performing in front of all those people..."
+116874,452,16,67000,Homer Simpson,Simpson Home,"Don't worry, sweetie. With me at your side, our toast will do just what it's supposed to: steal focus from the bride."
+116877,452,19,79000,Lisa Simpson,Springfield Retirement Castle,Why is everyone staring at static?
+116878,452,20,79000,Grampa Simpson,Springfield Retirement Castle,We don't have one of those digital conversion gizmos.
+116879,452,21,83000,Old Jewish Man,Springfield Retirement Castle,"I miss the history channel, dammit! How else would I know what I lived through?"
+116880,452,22,87000,Lisa Simpson,Springfield Retirement Castle,Maybe I should go out and get you guys a converter.
+116881,452,23,90000,Grampa Simpson,Springfield Retirement Castle,"Aw, that's sweet. Here's all the money we would've given to televangelists."
+116882,452,24,95000,Lisa Simpson,Springfield Retirement Castle,Wow! How long has the TV been out?
+116883,452,25,98000,Jasper Beardly,Springfield Retirement Castle,'Bout ten minutes.
+116886,452,28,103000,C. Montgomery Burns,Electronics Store,Fore!
+116887,452,29,107000,C. Montgomery Burns,Electronics Store,I feel like I'm mashing the tufty on the links at Saint Andrew's!
+116888,452,30,111000,Waylon Smithers,Electronics Store,"Sir, your cheeks are ruddy! Did you eat a sugar cube while I wasn't watching?"
+116890,452,31,115000,C. Montgomery Burns,Electronics Store,"No, it's all thanks to this self-powered experience approximater!"
+116891,452,32,119000,Lisa Simpson,Electronics Store,I've never seen Mr. Burns this happy.
+116892,452,33,123000,Lisa Simpson,Electronics Store,Just think what that game could do for Grampa and his friends!
+116893,452,34,132000,C. Montgomery Burns,Electronics Store,"Wait, I'm shooting at Nazis? That's not how I remember it."
+116895,452,36,137000,Homer Simpson,Springfield Nuclear Power Plant,See you at five on the dot. Phone kisses!
+116896,452,37,143000,Lenny Leonard,Springfield Nuclear Power Plant,Homer's got a girlfriend!
+116897,452,38,144000,Homer Simpson,Springfield Nuclear Power Plant,"She's not my girlfriend. She's a girl who I married, who used to be my friend."
+116898,452,39,149000,Carl Carlson,Springfield Nuclear Power Plant,What's your fortune say?
+116899,452,40,151000,Lenny Leonard,Springfield Nuclear Power Plant,"""You will enjoy the company of others."" Wow! That's exactly what I'm enjoying right now! Spooky."
+116900,452,41,156000,Carl Carlson,Springfield Nuclear Power Plant,"Mine says ""Something you lost will soon turn up."" My faith in the Lord -- it came back!"
+116901,452,42,164000,Homer Simpson,Springfield Nuclear Power Plant,"""Today is your lucky day."" Yeah, pfft!"
+116902,452,43,168000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey Homer, if I was you, I wouldn't be so quick to say ""pfft."""
+116903,452,44,168000,Carl Carlson,Springfield Nuclear Power Plant,"Yeah, these cookies are on the up-and-up now, according to the only honest newspaper: the Beijing Daily Worker."
+116904,452,45,168000,Carl Carlson,Springfield Nuclear Power Plant,See.
+116905,452,46,177000,Lenny Leonard,Springfield Nuclear Power Plant,"If it's your lucky day, you'd be a fool not to take advantage of it."
+116906,452,47,181000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, any part of a cookie you can't eat is just a waste of time--"
+116908,452,49,181000,Carl Carlson,Springfield Nuclear Power Plant,What incredible good luck!
+116909,452,50,190000,Lenny Leonard,Springfield Nuclear Power Plant,Just as the cookie foretold.
+116911,452,52,198000,Homer Simpson,Springfield Nuclear Power Plant,"Hmm, maybe this is my lucky day."
+116912,452,53,201000,Homer Simpson,Springfield Nuclear Power Plant,"A disc? Please be compact, please be compact! Woo-hoo!"
+116914,452,55,206000,Homer Simpson,Homer's Car,Here we go.
+116916,452,57,208000,Homer Simpson,Street,"OOOH, WHAT A LUCKY MAN..."
+116918,452,59,212000,Homer Simpson,Homer's Car,"I IS! OOOH, WHAT A LUCKY MAN I IS! BOO-WEEE-BOO-WEEE-WEE-DOO-DOO-DEE-DEE-DOO-DOO"
+116176,452,61,231000,Homer Simpson,Car,Holy moly!
+116920,452,62,233000,Thought Bubble Lenny,Car,"If it's your lucky day, you'd be a fool not to take advantage of it."
+116921,452,63,237000,Thought Bubble Marge,Car,There's no time! I need you for the wedding toast!
+116922,452,64,243000,Thought Bubble Marge,Car,My hair!
+116924,452,66,246000,Thought Bubble Lenny,Car,Now let's get that ticket.
+116926,452,68,249000,Homer Simpson,Kwik-E-Mart,"C'mon, line, move! Maybe it'll speed up if I make ""can you believe this"" noises. Oh for goodness sake--"
+116927,452,69,262000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Thank you, come again. Who's next? Hello"
+116928,452,70,273000,Homer Simpson,Kwik-E-Mart,"...Yo no creía en fortunas, pero entonces me salió una galleta..."
+116929,452,71,277000,Bumblebee Man,Kwik-E-Mart,"Sí, sí..."
+116930,452,72,278000,Homer Simpson,Kwik-E-Mart,"...que decía que hoy era mi día dichoso. Primero no lo creí, pero entonces me caí contra la maquina de dulces, ay, ay, ay!"
+116932,452,74,286000,Rev. Timothy Lovejoy,First Church of Springfield,"...And now, Valerie and Dave will deliver their own vows, because my vows apparently weren't good enough. Show me how it's done, Dave."
+116933,452,75,298000,Dave,First Church of Springfield,"""Valerie, even though you're a ""Starbucks"" girl, and I'm a ""Seattle's Best"" guy, I know we can focus on the things we have in common -- like ""Mad Men,"" Season Two!"""
+116935,452,77,309000,Rev. Timothy Lovejoy,First Church of Springfield,I give it a year.
+116936,452,78,311000,Marge Simpson,First Church of Springfield,Homer! Where are you?
+116937,452,79,313000,Homer Simpson,First Church of Springfield,I'm almost there... I can see the church steeple in the distance...
+116938,452,80,317000,Homer Simpson,First Church of Springfield,"Uh-oh, here comes a train."
+116940,452,82,329000,Homer Simpson,First Church of Springfield,"Tickets, please. Hey, where's your ticket? Leave me alone! Why you little..."
+116942,452,84,342000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Good evening, Mr. Homer, how can I--"
+116943,452,85,344000,Homer Simpson,Kwik-E-Mart,No time to pretend we're friends! Lotto me!
+116944,452,86,346000,Homer Simpson,Kwik-E-Mart,"One, six, seventeen, twenty-two, twenty-four, thirty-five."
+116945,452,87,346000,Homer Simpson,Kwik-E-Mart,I did it! I'm gonna make it!
+116947,452,89,359000,Marge Simpson,Banquet Hall,YOU LIKE POTATO... YOU LIKE TOMATO...
+116950,452,91,369000,Marge Simpson,Banquet Hall,POTATO... TOMATO... LET'S CALL THE WHOLE THING--
+116952,452,93,379000,Homer Simpson,Highway,"I'm a-comin', Marge!"
+116953,452,94,383000,Chief Wiggum,Highway,"Let him go, Lou. Someone going that fast has no time for a ticket."
+116955,452,96,388000,Marge Simpson,Banquet Hall,"Okay, who's ready for a wedding-theme knock-knock joke?"
+116956,452,97,395000,Marge Simpson,Banquet Hall,Start the joke!
+116957,452,98,396000,Bart Simpson,Banquet Hall,"Um, knock-knock?"
+116958,452,99,398000,Marge Simpson,Banquet Hall,Who's there?
+116959,452,100,398000,Bart Simpson,Banquet Hall,I'unno.
+116960,452,101,400000,Marge Simpson,Banquet Hall,"Did I hear ""lettuce?"""
+116961,452,102,401000,Bart Simpson,Banquet Hall,"Not from me, you didn't."
+116962,452,103,401000,Marge Simpson,Banquet Hall,Lettuce who?
+116963,452,104,405000,Bart Simpson,Banquet Hall,I don't know!
+116965,452,106,408000,Krusty the Clown,Banquet Hall,Don't drag your kid into this!
+116966,452,107,410000,Marge Simpson,Banquet Hall,Lettuce... congratulate the new couple.
+116967,452,108,414000,Valerie,Banquet Hall,Why won't she stop?!
+116968,452,109,418000,Dave,Banquet Hall,"There, there. There, there, sweetie."
+116970,452,111,422000,Homer Simpson,Homer's Car,I'm gonna make it! I'm gonna make it!
+116971,452,112,426000,Homer Simpson,Homer's Car,I didn't make it?
+116973,452,114,432000,Driver,LOWER DOWN MOUNTAIN,"Here I am, about to start my new life in Springfield!"
+116974,452,115,437000,Driver,LOWER DOWN MOUNTAIN,What an idiot! This is the perfect time for my catchphrase: soon you will be mi-- --
+116978,452,119,439000,Marge Simpson,LOWER DOWN MOUNTAIN,"Homie? Homie, can you hear me?"
+116980,452,121,455000,Marge Simpson,Hospital Room,Oh thank God you're okay!
+116981,452,122,459000,Homer Simpson,Hospital Room,I'm alive! And surrounded by the...people I love the most in the...
+116982,452,123,464000,Homer Simpson,Hospital Room,Could you scooch over a bit?
+116983,452,124,465000,Kent Brockman,Hospital Room,Our top story: last night's big lotto winner has still not come forward.
+116984,452,125,470000,Kent Brockman,Hospital Room,"Once again, those numbers are: one, six, seventeen, twenty-two, twenty-four, and thirty-five."
+148630,452,126,475000,Homer's Thoughts,Hospital Room,A million dollars -- now I'm really glad I didn't die!
+116985,452,127,480000,Kent Brockman,Hospital Room,The mysterious winner purchased the ticket at seven-oh-seven last night.
+116986,452,128,484000,Marge Simpson,Hospital Room,Seven-oh-seven? That's exactly the moment I was furious at you for missing our toast. And now I'm the one who has to ask... Can you forgive me?
+116987,452,129,495000,Homer Simpson,Hospital Room,I'll try.
+148631,452,130,496000,Homer's Thoughts,Hospital Room,"Wait... if I tell Marge I won, she'll know I was buying the ticket when I was supposed to be onstage with her. I'm rich and I can't even tell my own wife!"
+148632,452,131,508000,Homer's Thoughts,Hospital Room,"Calm down, Homer. Calm down."
+116988,452,132,514000,Homer's Spirit,Hospital Room,"Wow, I do look pretty calm down there."
+116991,452,135,527000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Ladies and gentlemen, the Orchard Avenue Kwik-E-Mart, birthplace of the yardstick on the doorframe that tells you how tall your robber was, is proud to announce its latest lotto victor... Mr. Barney Gumble!"
+116992,452,136,541000,Barney Gumble,Kwik-E-Mart,That's right! I bought the winning ticket! And now I can buy back all the blood I sold!
+116993,452,137,548000,Lottery Official,Kwik-E-Mart,"Actually, after taxes, the amount you will receive is..."
+116994,452,138,554000,Uncle Sam,Kwik-E-Mart,This money will go to partially cover the cost of a study to decide what to do with the money.
+116997,452,141,569000,Homer Simpson,Simpson Home,"Barn, thanks for picking up the money for me."
+116998,452,142,575000,Homer Simpson,Simpson Home,"Now, what should I buy first? Hitler's baseball? A mirror that gives me advice?"
+116999,452,143,580000,Magic Mirror,Simpson Home,My advice is to buy Hitler's baseball.
+117000,452,144,583000,Barney Gumble,Simpson Home,"Wait a minute, Homer! You can't spend any of that money or Marge will know you lied."
+117001,452,145,588000,Homer Simpson,Simpson Home,Oh yeah.
+117002,452,146,592000,Homer Simpson,Simpson Home,Marge? What are you doing?
+117003,452,147,594000,Marge Simpson,Simpson Home,"The laundry. The machine's on the fritz, and we can't afford the four hundred dollars to fix it."
+117004,452,148,602000,Homer Simpson,Simpson Home,"Here I am a millionaire, and I can't even help the woman who gave birth to me."
+117005,452,149,606000,Barney Gumble,Simpson Home,"Why don't you just buy things your family needs, and leave them where they'll find them?"
+117006,452,150,612000,Homer Simpson,Simpson Home,"Oh Barney, that's brilliant! Just for that, you can help yourself to anything from this tree."
+117007,452,151,617000,Barney Gumble,Simpson Home,That's not the money tree.
+117008,452,152,619000,Homer Simpson,Simpson Home,I know. It's where I hide my adult magazines.
+116889,452,155,634000,Lisa Simpson,Springfield Retirement Castle,"All right, it's all hooked up."
+117011,452,157,640000,Lisa Simpson,Springfield Retirement Castle,This isn't normal TV. It's a videogame that encourages activity and exercise!
+117012,452,158,646000,Lisa Simpson,Springfield Retirement Castle,"Please, at least try the tennis game."
+117013,452,159,652000,Old Jewish Man,Springfield Retirement Castle,My puppet -- with this wand I control it how? By jumping?
+117014,452,160,656000,Lisa Simpson,Springfield Retirement Castle,You use the wand like a tennis racket to hit an invisible ball.
+117015,452,161,661000,Grampa Simpson,Springfield Retirement Castle,Look at me! I'm big Bill Tilden!
+117016,452,162,665000,Old Jewish Man,Springfield Retirement Castle,I think I'm lookin' at a poop later.
+117018,452,164,673000,Homer Simpson,Park,"Catch, boy!"
+117019,452,165,677000,Homer Simpson,Park,Oops -- the Frisbee went into the bushes. Why don't you go find it?
+117020,452,166,681000,Bart Simpson,Park,"You threw it, you go find it."
+117021,452,167,683000,Homer Simpson,Park,Why you little...
+117022,452,168,683000,Bart Simpson,Park,Ow! There's a big box in here!
+117023,452,169,688000,Homer Simpson,Park,A box? No way!
+117024,452,170,691000,Homer Simpson,Park,A new washing machine? No way!
+117025,452,171,694000,Marge Simpson,Park,That's just what we need! But how are we going to get it home?
+117026,452,172,698000,Homer Simpson,Park,You go rent us a truck.
+117027,452,173,703000,Bart Simpson,Park,Ow!
+117029,452,175,757000,Homer Simpson,Simpson Home,"And now, Marge's secret benefactor is going to get her the luxury she's always dreamed of: a toaster wide enough for bagels. I'll just take out a little money from my ""local branch."""
+117030,452,176,765000,Homer Simpson,Simpson Home,Hm. Not as much money as there used to be.
+117031,452,177,773000,Bart Simpson,Simpson Home,Homer?
+117033,452,179,773000,Bart Simpson,Simpson Home,What are you doing?
+117034,452,180,775000,Homer Simpson,Simpson Home,Why... I'm just...
+117037,452,183,786000,Bart Simpson,Simpson Home,There's money in this tree. What the hell is going on?
+117038,452,184,790000,Homer Simpson,Simpson Home,"Lenny... and Carl... A fortune cookie... I ran into the candy machine... and I found an Emerson, Lake, and Palmer..."
+117039,452,185,798000,Bart Simpson,Simpson Home,"Okay, let me get this straight -- you got all this moolah, legitimately, but you're too scared to do anything fun with it?"
+117040,452,186,816000,Homer Simpson,Simpson Home,"Son, if I was interested in fun, I would've run away the day you were born."
+117041,452,187,820000,Bart Simpson,Simpson Home,"Look man, you've got to enjoy yourself a little. You work hard, or at least you're out of the house a lot."
+117042,452,188,826000,Homer Simpson,Simpson Home,You're right. I have been acting like Telethon Jerry Lewis when I should've been acting like rest-of-the-year Jerry Lewis. Will you teach me how to put myself first?
+117043,452,189,835000,Bart Simpson,Simpson Home,And how.
+117044,452,190,837000,Moe Szyslak,Simpson Home,Not so fast!
+117046,452,192,840000,Moe Szyslak,Simpson Home,Don't forget my cut.
+117047,452,193,842000,Homer Simpson,Simpson Home,Um... your cut of what?
+117048,452,194,843000,Moe Szyslak,Simpson Home,"I don't know. I just go around sayin' that, in the hope it'll be applicable. I'll be on my way now."
+117049,452,195,849000,Moe Szyslak,Simpson Home,On my way.
+117052,452,198,856000,Bart Simpson,STAPLES CENTER-TYPE ARENA,Wait!
+117053,452,199,857000,Bart Simpson,STAPLES CENTER-TYPE ARENA,I have to go to the bathroom!
+117054,452,200,862000,Chris Martin,STAPLES CENTER-TYPE ARENA,"So... where you from, Homer?"
+117055,452,201,865000,Homer Simpson,STAPLES CENTER-TYPE ARENA,Here.
+117056,452,202,869000,Homer Simpson,STAPLES CENTER-TYPE ARENA,Wait!
+117057,452,203,870000,Chris Martin,STAPLES CENTER-TYPE ARENA,"Yes, Homer?"
+117058,452,204,871000,Homer Simpson,STAPLES CENTER-TYPE ARENA,Do you think you could use someone like me in your band?
+117059,452,205,874000,Chris Martin,STAPLES CENTER-TYPE ARENA,Yeah. Come on up. You can play the tambourine.
+117060,452,206,876000,Homer Simpson,STAPLES CENTER-TYPE ARENA,"I said someone like me, I didn't say me."
+117062,452,208,884000,Pilot,ZERO-G JET,"Here we go, folks -- the ultimate zero-gravity experience!"
+117063,452,209,890000,Homer Simpson,ZERO-G JET,"Look at me! I'm flying, like Superman's dog!"
+117064,452,210,894000,Homer Simpson,ZERO-G JET,Race you to the cockpit!
+117067,452,213,906000,Grampa Simpson,Springfield Retirement Castle,I'm gonna call you Benson and Hedges 'cause you're gettin' smoked!
+117068,452,214,914000,Jasper Beardly,Springfield Retirement Castle,"Lisa, thanks to your new whatsis, we're as fit as fiddles."
+117069,452,215,917000,Grampa Simpson,Springfield Retirement Castle,Nurse -- another round of waters in your finest paper cups!
+117070,452,216,926000,Jasper Beardly,Springfield Retirement Castle,And I'm gonna need a little Ben Gay for this shoulder.
+117071,452,217,927000,Old Italian Man,Springfield Retirement Castle,I'd like a fresh pair of socks tomorrow.
+117072,452,218,931000,Old Italian Man,Springfield Retirement Castle,A matching pair.
+117073,452,219,933000,Grampa Simpson,Springfield Retirement Castle,I want to put salt on things!
+117074,452,220,934000,Old Italian Man,Springfield Retirement Castle,Tell me what my name is!
+117075,452,221,936000,Old Jewish Man,Springfield Retirement Castle,Take away my roommate! He's dead!
+117077,452,223,942000,Pilot,ZERO-G JET,"Folks, it's time for our final run."
+117078,452,224,942000,Bart Simpson,ZERO-G JET,No way! I wanna go a million more times!
+117079,452,225,946000,Homer Simpson,ZERO-G JET,Sorry boy. You have school tomorrow.
+117080,452,226,948000,Bart Simpson,ZERO-G JET,"Rich kids don't need school! When I grow up, you can buy an apartment building and make me the super."
+117081,452,227,953000,Homer Simpson,ZERO-G JET,"With that attitude, you'll never super in one of my buildings!"
+117082,452,228,956000,Homer Simpson,ZERO-G JET,"Boy, I am through spoiling you. First thing tomorrow you're going back to the rotten life you've always enjoyed."
+117083,452,229,962000,Bart Simpson,ZERO-G JET,"Oh yeah? If you don't keep splashing the cash, I'm gonna tell Mom that it's thanks to you she made the first bad wedding toast ever."
+117084,452,230,970000,Homer Simpson,ZERO-G JET,"Blackmail your father in space, will you?!"
+117088,452,234,992000,Lisa Simpson,Springfield Retirement Castle,Why is the TV back on? What happened to the videogame?
+117089,452,235,995000,Nurse,Springfield Retirement Castle,"Oh, the videogame. You'd think it'd be dishwasher-safe, but it wasn't."
+117090,452,236,999000,Lisa Simpson,Springfield Retirement Castle,Why would you put it in the dishwasher?
+117091,452,237,1005000,Lisa Simpson,Springfield Retirement Castle,You ruined it on purpose. You want the old folks to be zombies -- because it makes your jobs easier!
+117092,452,238,1010000,2nd Nurse,Springfield Retirement Castle,"Ooh, excuse us. We tried to make the worst job in the world easier."
+117093,452,239,1016000,Lisa Simpson,Springfield Retirement Castle,"Well, I agree it's not the most pleasant job in the world, but..."
+117094,452,240,1019000,Nurse,Springfield Retirement Castle,Don't forget the low pay and the constant presence of death.
+117095,452,241,1021000,Lisa Simpson,Springfield Retirement Castle,"Well, you still should have let them have their fun!"
+117096,452,242,1023000,Nurse,Springfield Retirement Castle,They should've had their fun before they got here.
+117098,452,244,1032000,Marge Simpson,Simpson Home,Who's ready for Panini?
+117100,452,246,1035000,Homer Simpson,Dining Room,"Up -- that's my chair, boy."
+117101,452,247,1036000,Bart Simpson,Dining Room,"No problem. I'll just sit here, closer to Mom's ear. Mom, how do you think we really got that Panini Press?"
+117102,452,248,1043000,Marge Simpson,Dining Room,I thought the government sent it to us as part of the stimulus package. At least that's what the letter said.
+117103,452,249,1051000,Bart Simpson,Dining Room,"Well actually, Mom--"
+117105,452,250,1052000,Homer Simpson,Dining Room,"Um, on second thought, boy, why don't you take my chair?"
+117106,452,251,1057000,Marge Simpson,Dining Room,"So Bart, how's your big school presentation coming along?"
+117107,452,252,1061000,Bart Simpson,Dining Room,"Oh great, now that Dad's gonna star in it."
+117108,452,253,1063000,Homer Simpson,Dining Room,I agreed to no such thing!
+117109,452,254,1065000,Bart Simpson,Dining Room,Mo-om...
+117110,452,255,1066000,Homer Simpson,Dining Room,Where and what time?
+117111,452,256,1066000,Bart Simpson,Dining Room,"Homeroom, eight a.m."
+117112,452,257,1068000,Homer Simpson,Dining Room,Never!
+117113,452,258,1068000,Bart Simpson,Dining Room,Mo-om...
+117114,452,259,1070000,Homer Simpson,Dining Room,What do I wear?
+117116,452,261,1072000,Bart Simpson,Springfield Elementary School,"Behold, Neanderthal man -- our ugliest, stupidest ancestor!"
+117118,452,263,1077000,Bart Simpson,Springfield Elementary School,"Come on, missing link. Put on a show."
+117120,452,265,1085000,Bart Simpson,Springfield Elementary School,Make a fire! Be scared of the fire! Evolve! Evolve! Get religious about a bird you see! Sprain your ankle and know it's a death sentence!
+117121,452,266,1098000,Edna Krabappel-Flanders,Springfield Elementary School,"Very good, Bart."
+117122,452,267,1099000,Bart Simpson,Springfield Elementary School,Can I get extra credit for a caveman break dance?
+117123,452,268,1101000,Edna Krabappel-Flanders,Springfield Elementary School,Of course.
+117127,452,272,1116000,Bart Simpson,Simpson Home,Homer! I need you to rickshaw me to soccer practice!
+117128,452,273,1120000,Homer Simpson,Simpson Home,Fine. Let me just get my harness pads.
+117129,452,274,1124000,Bart Simpson,Simpson Home,No time.
+117131,452,276,1133000,Homer Simpson,Streets Of Springfield,"Boy, this has gone too far -- I quit! As soon as I finish these oats."
+117132,452,277,1138000,Bart Simpson,Streets Of Springfield,"Hey, hey, hey. Let's not get crazy. If you quit, I'm telling Mom everything."
+117133,452,278,1143000,Homer Simpson,Streets Of Springfield,Not if I tell her first.
+117134,452,279,1148000,Bart Simpson,Streets Of Springfield,Now how am I supposed to get to soccer practice?
+117135,452,280,1150000,Bart Simpson,Streets Of Springfield,"Hey Milhouse, want a turn pulling my rickshaw?"
+117136,452,281,1152000,Milhouse Van Houten,Streets Of Springfield,"Okay, but just 'cause I'm your best friend, don't be afraid to use that whip."
+117137,452,282,1157000,Homer Simpson,Streets Of Springfield,"Okay, I'm taking off the blindfold..."
+117139,452,284,1162000,Homer Simpson,HOT AIR BALLOON,Surprised?
+117140,452,285,1163000,Marge Simpson,HOT AIR BALLOON,"Well, I kind of got a clue when I heard that ""ballooning safety"" video."
+117141,452,286,1167000,Homer Simpson,HOT AIR BALLOON,"Marge, soaring above the forgiving beauty of nature, I have something to confess. Um... I wasn't there for that wedding toast because... I was buying a lottery ticket."
+117142,452,287,1178000,Marge Simpson,HOT AIR BALLOON,You were what?!
+117143,452,288,1179000,Homer Simpson,HOT AIR BALLOON,You have a right to be angry. Furious! And even though that ticket won a million dollars and--
+117144,452,289,1184000,Marge Simpson,HOT AIR BALLOON,We've got a million dollars?! Screw the toast!
+117145,452,290,1187000,Homer Simpson,HOT AIR BALLOON,"Uh, yes, well, um... taxes took out a lot... I spent a ton on those things for the family... and um, I didn't know you could rent a balloon..."
+117146,452,291,1197000,Marge Simpson,HOT AIR BALLOON,So we're right back where we used to be.
+117147,452,292,1200000,Homer Simpson,HOT AIR BALLOON,"Yes, but I have one more thing to show you."
+117148,452,293,1204000,Marge Simpson,HOT AIR BALLOON,Oh my God!
+117149,452,294,1208000,Homer Simpson,HOT AIR BALLOON,"Marge, those groves of cherry blossoms will bloom every year, to remind the world of the sweetest, most forgiving woman who ever lived... am I off the hook?"
+117150,452,295,1219000,Marge Simpson,HOT AIR BALLOON,YOU LIKE POTATO...
+117151,452,296,1222000,Homer Simpson,HOT AIR BALLOON,AND YOU LIKE POTATO...
+117152,452,297,1225000,Marge Simpson,HOT AIR BALLOON,YOU LIKE TOMATO...
+117153,452,298,1228000,Homer Simpson,HOT AIR BALLOON,AND YOU LIKE TOMATO...
+117154,452,299,1232000,Marge Simpson,HOT AIR BALLOON,"SO IF YOU GO FOR OYSTERS AND I GO FOR ERSTERS, I'LL ORDER OYSTERS AND CANCEL THE ERSTERS / FOR WE KNOW WE NEED EACH OTHER SO WE / BETTER CALL THE CALLING OFF OFF, / LET'S CALL THE WHOLE THING OOOOOFFF!"

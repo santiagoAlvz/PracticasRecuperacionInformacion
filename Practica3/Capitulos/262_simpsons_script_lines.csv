@@ -1,0 +1,257 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+65465,262,1,89000,Announcer,Simpson Home,"Welcome back to ""Great Moments in Olympic History."" At the 1936 Berlin games, Jesse Owens humiliates Adolf Hitler by out-racing his zeppelin."
+65467,262,3,103000,Announcer,Simpson Home,"1968, Mexico City. Bob Beamon shatters the world long-jump record."
+65470,262,6,114000,Announcer,TRACK STADIUM,"And in 1984, Portugal's Carlos Lopez becomes the oldest Olympic marathon winner ever at age 38."
+65471,262,7,122000,Homer Simpson,TRACK STADIUM,"38! That's roughly my age! Marge, after a lot of thought, I've decided to run the Springfield marathon."
+65472,262,8,132000,Marge Simpson,TRACK STADIUM,"Oh, please. You get exhausted watching ""The Twilight Zone"" marathon! I'm a regular Billy Crystal."
+65473,262,9,140000,Bart Simpson,TRACK STADIUM,You got that right.
+65474,262,10,141000,Lisa Simpson,TRACK STADIUM,"Well, Dad, I think running's good exercise -- it adds years to your life."
+65475,262,11,145000,Homer Simpson,TRACK STADIUM,"Stay out of this, Lisa. Marge, I've made up my mind. I'll do your job for a day, and you do mine. Then we'll see who has it tougher."
+65477,262,13,159000,Kent Brockman,Springfield,"Good afternoon, and welcome to the 97th Springfield marathon, commemorating the time Jebediah Springfield ran across six states to avoid his creditors."
+65478,262,14,169000,Lisa Simpson,Springfield,"You got all your equipment, Dad?"
+65479,262,15,171000,Homer Simpson,Springfield,"Let's see. Sweatbands... check. Anti-chafing nipple tape... Check, check... and check."
+65480,262,16,176000,Chief Wiggum,Springfield,"Attention, runners. On your mark, get set, now get outta here before I change my mind."
+65481,262,17,185000,Homer Simpson,Springfield,"I can't believe it! I'm actually running a marathon! Oh, I hit the wall! This is so painful! Hey, I got my second wind. Another wall! I ju-- Woo hoo! Third wind!"
+65482,262,18,199000,C. Montgomery Burns,Springfield,"Faster, rickshaw driver! Faster!"
+65483,262,19,201000,Waylon Smithers,Springfield,"Ow! Sir, the whip isn't helping."
+65484,262,20,204000,C. Montgomery Burns,Springfield,Silence! You call yourself a Chinaman?
+65485,262,21,207000,Comic Book Guy,Springfield,No one can outrun The Flash!
+65486,262,22,211000,Comic Book Guy,Springfield,Curses! One of my super foes has set a trap for me.
+65488,262,24,218000,Marge Simpson,Springfield Street,"Hey, Grampa's running!"
+65489,262,25,220000,Lisa Simpson,Springfield Street,That's not Grampa. Dad's just dehydrated.
+65492,262,27,228000,Kent Brockman,SPRINGFIELD MARATHON,"And with five hundred yards to go, the runners from Australia and Djibouti are neck and neck. Two weary warriors now, burning with pain and exhaustion. But only one will win the grand prize... A walking tour of Springfield."
+65493,262,28,246000,Bart Simpson,SPRINGFIELD MARATHON,That tour is mine.
+65495,262,30,250000,Kent Brockman,SPRINGFIELD MARATHON,"Wellll, hold the phone, Dora. A new challenger has emerged out of nowhere."
+65496,262,31,255000,Kent Brockman,SPRINGFIELD MARATHON,"He's running on sheer pluck, moxie, and grit... All of which he'll be tested for, after the race."
+65497,262,32,260000,Bart Simpson,SPRINGFIELD MARATHON,"Eh, I winna da race! Viva Italia!"
+65498,262,33,263000,Kent Brockman,SPRINGFIELD MARATHON,"Folks, our winner seems to be from Italy."
+65499,262,34,266000,Bart Simpson,SPRINGFIELD MARATHON,I love-a you all!
+65500,262,35,268000,Bart Simpson,SPRINGFIELD MARATHON,I use up all-a my English.
+65502,262,37,275000,Bart Simpson,MARATHON,"Grazie, Springfield!"
+65503,262,38,279000,Djiboutian Runner,MARATHON,He's a phony!
+65504,262,39,280000,Australian Runner,MARATHON,Lousy cheater!
+65505,262,40,281000,Sideshow Mel,MARATHON,I demand a re-race!
+65506,262,41,283000,Moe Szyslak,MARATHON,I got a better idea. Let's have a fun run...on his trachea.
+65507,262,42,287000,Runners,MARATHON,Yeah! / Kill him! / Make him pay!
+65508,262,43,296000,HIP-LOOKING MAN,MARATHON,Get in! Hurry!
+65509,262,44,298000,Bart Simpson,MARATHON,Mob... Stranger. Mob... Stranger. Stranger.
+65511,262,46,305000,Bart Simpson,Street,Who are you?
+65512,262,47,306000,HIP-LOOKING MAN,Street,"Oh, you'll find out in due time."
+65513,262,48,309000,Bart Simpson,Street,"Well, it says here your name is ""L.T. Smash."""
+65514,262,49,312000,HIP-LOOKING MAN,Street,The time has come: I'm L.T. Smash.
+65516,262,51,317000,Marge Simpson,Simpson Home,Thank you so much for saving our son from that murderous mob.
+65517,262,52,321000,HIP-LOOKING MAN,Simpson Home,"Well, thank you for lettin' me chill in your crib."
+65518,262,53,324000,Homer Simpson,Simpson Home,And thank you for assuming we're hip.
+65519,262,54,327000,Homer Simpson,Simpson Home,"All right, now here's the 411: I'm a record producer, see. I'm starting a new boy band and there's a place in it for Bart."
+65520,262,55,334000,Marge Simpson,Simpson Home,My Bart?
+65521,262,56,335000,L.T. Smash,Simpson Home,"Oh, yeah. That stunt he pulled at the race shows me he's the bad boy I'm lookin' for."
+65522,262,57,341000,L.T. Smash,Simpson Home,"Now listen to me, Smash. We're not signing anything. Unless it's a contract."
+65435,262,58,346000,Marge Simpson,Simpson Home,Why do you want Bart? He's not much of a singer.
+65524,262,59,350000,L.T. Smash,Simpson Home,"Marge, it's not the singin' that brings in the Sacajaweas. Bart's a rebel. And that's what I need for my new band, the ""Party Posse""."
+65525,262,60,358000,L.T. Smash,Simpson Home,Now hold on. I have some concerns.
+65526,262,61,361000,Bart Simpson,Simpson Home,"Please, Mom. My dream is to be a rock star."
+65527,262,62,365000,Homer Simpson,Simpson Home,And my dream is to get rid of Bart.
+65528,262,63,367000,Marge Simpson,Simpson Home,But...
+65529,262,64,368000,Homer Simpson,Simpson Home,How many lives must you ruin?
+65530,262,65,370000,Marge Simpson,Simpson Home,"Oh, Okay."
+65533,262,68,378000,L.T. Smash,Classified Records Compound,"Bart, I want you to meet 'n' greet the other members of the ""Party Posse"". He's smart... he's soulful... he's Milhouse!"
+65534,262,69,385000,Milhouse Van Houten,Classified Records Compound,"What up, G-money?"
+65535,262,70,387000,L.T. Smash,Classified Records Compound,"Next, he'll break your nose, your glasses and your heart... Nelson!"
+65536,262,71,391000,Bart Simpson,Classified Records Compound,"Wait, these are just guys from school. Who's next? Ralph Wiggum?"
+65537,262,72,395000,Ralph Wiggum,Classified Records Compound,Wheee! I'm a pop sensation.
+65538,262,73,399000,Ralph Wiggum,Classified Records Compound,"And I'm the mack daddy behind such groups as ""New Kids in the Ditch"" and ""Boy-nudo"". I'm gonna make you stars."
+65540,262,75,406000,Instructor,COMPOUND,"Sneer, sneer. Two, three, four, and thrust, and grab, yourself, right there. Now let go and flirt. You call that a flirt? I'm not mel-ting!"
+65541,262,76,420000,Instructor,COMPOUND,"Okay, your 'tudes are fly and your threads are dope-"
+65542,262,77,420000,L.T. Smash,COMPOUND,All that's left is the singing.
+65543,262,78,426000,Bart Simpson,COMPOUND,"PARTY POSSE, WE RULE THE EARTH / THE GREATEST BAND SINCE MUSIC'S BIRTH."
+65544,262,79,428000,Bart Simpson,COMPOUND,Isn't this song a little boastful?
+65545,262,80,433000,Milhouse Van Houten,COMPOUND,No one told me there was gonna be boasting.
+65546,262,81,435000,L.T. Smash,COMPOUND,Just take it from the top.
+65547,262,82,437000,L.T. Smash,COMPOUND,"PARTY POSSE, WE RULE THE EARTH / THE GREATEST BAND SINCE MUSIC'S BIRTH..."
+65548,262,83,445000,L.T. Smash,COMPOUND,"Thank you, NASA."
+65549,262,84,449000,Ralph Wiggum,COMPOUND,WE LOVE TO SWEAT AND WE LOVE TO SING / WE'RE REAL FUNKY BUT NON-THREATENING.
+65550,262,85,457000,Ralph Wiggum,COMPOUND,WE'RE THE BEST BAND IN THE WORLD / BUT WE'D GIVE IT ALL UP FOR THAT SPECIAL GIRL.
+65551,262,86,464000,Ralph Wiggum,COMPOUND,YOU'RE MY SPECIAL GIRRRL... SPE-CIAL GIRRRL! YOU'RE MY SPECIAL GIRRRL / ONLY YOUUUU.
+65553,262,89,481000,Seymour Skinner,Springfield Elementary School,"... so, from now on anything caught in your zipper will be handled by the school nurse, and not me. And now... are you adequately prepared to rock?"
+65554,262,90,493000,Kids,Springfield Elementary School,Yeah!
+65555,262,91,493000,Seymour Skinner,Springfield Elementary School,"Silence! Here they are, the Party Posse!"
+65556,262,92,501000,Bart Simpson,Springfield Elementary School,"Hel-lo, Springfield! Now, here's a song that your Principal Skinner doesn't want us to play."
+65557,262,93,510000,Seymour Skinner,Springfield Elementary School,That's not true! This assembly was my idea. I like your brand of inoffensive pop rock.
+65558,262,94,515000,Bart Simpson,Springfield Elementary School,"Screw you, man! We're gonna play it anyway!"
+65559,262,95,524000,Bart Simpson,Springfield Elementary School,I SAW YOU LAST NIGHT AT THE SPELLING BEE...
+65560,262,96,530000,Milhouse Van Houten,Springfield Elementary School,I KNEW RIGHT THEN THAT IT WAS L-U-V...
+65561,262,97,535000,Nelson Muntz,Springfield Elementary School,I GOTTA SPELL OUT WHAT YOU MEAN TO ME...
+65562,262,98,543000,Ralph Wiggum,Springfield Elementary School,'CAUSE I CAN NO LONGER BE A SILENT G.
+65563,262,99,552000,Party Posse,Springfield Elementary School,I'VE GOTTA SPELL OUT / I GOTTA SPELL OUT WHAT YOU MEAN TO ME.
+65564,262,100,560000,L.T. Smash,Springfield Elementary School,"Man, they're gonna be big. And you stood in their way."
+65565,262,101,564000,Seymour Skinner,Springfield Elementary School,"No, I didn't. I even came in early and made orange drink."
+65566,262,102,568000,L.T. Smash,Springfield Elementary School,"Orange drink: what, do you live with your mamma?"
+65567,262,103,571000,Seymour Skinner,Springfield Elementary School,She lives with me.
+65568,262,104,578000,Bart Simpson,Springfield Elementary School,I can't believe it. They loved us!
+65569,262,105,580000,Ralph Wiggum,Springfield Elementary School,I'm wearing a bathrobe and I'm not even sick!
+65570,262,106,583000,Joey Fatone,Springfield Elementary School,"Yo, dudes, awesome show."
+65571,262,107,586000,Milhouse Van Houten,Springfield Elementary School,It's 'N Sync!
+65572,262,108,594000,Justin Timberlake,Springfield Elementary School,Word.
+65573,262,109,595000,Nelson Muntz,Springfield Elementary School,What brings you to Springfield?
+65574,262,110,596000,Lance Bass,Springfield Elementary School,We saw your Band Formation Notice in the paper.
+65575,262,111,599000,Bart Simpson,Springfield Elementary School,Really? You saw our B.F.N.?
+65576,262,112,601000,Justin Timberlake,Springfield Elementary School,I can't believe I'm meeting Milhouse. Word.
+65577,262,113,605000,Chris Kirkpatrick,Springfield Elementary School,So anyway we brought you this wicked gift basket.
+65578,262,114,608000,J.C. Chasez,Springfield Elementary School,Stubble glitter... crowd taser...
+65579,262,115,610000,Bart Simpson,Springfield Elementary School,Crowd taser?
+65580,262,116,611000,J.C. Chasez,Springfield Elementary School,"Yeah, it's perfect for getting through the fans to your limousine."
+65581,262,117,615000,Joey Fatone,Springfield Elementary School,Yo?!
+65583,262,118,616000,Lance Bass,Springfield Elementary School,"Dudes, we gotta go. Our clothes are getting a little out of date."
+65584,262,119,621000,Chris Kirkpatrick,Springfield Elementary School,To the Bandanna Republic!
+65585,262,120,622000,Justin Timberlake,Springfield Elementary School,Word.
+65586,262,121,628000,Bart Simpson,Springfield Elementary School,Now we gotta send them a basket.
+65588,262,123,632000,Bart Simpson,Simpson Home,"Oh, yeah, that's the spot. Ohhh... that is perfect."
+65589,262,124,637000,Lisa Simpson,Simpson Home,"Mommm, can't Bart get his massage somewhere else?"
+65590,262,125,640000,Marge Simpson,Simpson Home,"Don't be selfish, Lisa."
+65591,262,126,642000,Homer Simpson,Simpson Home,Will you two shut up? I'm missing precious VJ prattle.
+65592,262,127,646000,Cienega,Simpson Home,Wooo!
+65593,262,128,647000,Cienega,Simpson Home,"That was the latest ad for Stridex Pads. Medicated! Okay, comin' at ya, a world premiere video from P squared. That's the Par-tay Pos-say! Woo! Yeah! All right!"
+65594,262,129,664000,Cienega,Simpson Home,Rock! Woo!
+65595,262,130,667000,Party Posse,Simpson Home,OH SAY CAN YOU... ROCK!
+65597,262,132,673000,Party Posse,Sky,THERE'S TROUBLE IN A FAR OFF NATION / TIME TO GET IN LOVE FORMATION.
+65598,262,133,681000,Party Posse,Sky,YOUR LOVE'S MORE DEADLY THAN SADDAM / THAT'S WHY I'VE GOT TO DROP DA BOMB.
+65600,262,135,701000,Arab Woman,MIDDLE EASTERN DESERT,YVAN EHT NIOJ / YVAN EHT NIOJ / YVAN EHT NIOJ. NIOJ!
+65602,262,137,713000,Homer Simpson,Simpson Home,YVAN EHT NIOJ. Ya gotta love that crazy chorus.
+65603,262,138,719000,Lisa Simpson,Simpson Home,What does it mean?
+65604,262,139,720000,Homer Simpson,Simpson Home,"Ah, it doesn't mean anything. It's like ""rama-lama ding dong"" or ""give peace a chance""."
+65605,262,140,721000,Nelson Muntz,Simpson Home,THIS PARTY'S HAPPENIN' / IT'S NO MIRAGE...
+65606,262,141,734000,Bart Simpson,Simpson Home,SO SING IT AGAIN...
+65607,262,142,737000,Milhouse Van Houten,Simpson Home,Y
+65608,262,143,737000,Ralph Wiggum,Simpson Home,VAN...
+65609,262,144,737000,Nelson Muntz,Simpson Home,EHT
+65610,262,145,737000,Party Posse,Simpson Home,NIOJ.
+65611,262,146,740000,Arab Woman,Simpson Home,YVAN EHT NIOJ / YVAN EHT NIOJ.
+65612,262,147,753000,Lisa Simpson,Simpson Home,There's something weird about this video...
+65613,262,148,757000,Marge Simpson,Simpson Home,"None of those girls has had three kids, I can tell you that."
+65614,262,149,760000,Lisa Simpson,Simpson Home,"No, something else..."
+65616,262,151,770000,Arab Woman,Lisa's Bedroom,YVAN EHT NIOJ / YVAN EHT NIOJ / YVAN EHT NIOJ.
+65617,262,152,774000,Lisa Simpson,Lisa's Bedroom,"""Yvan eht nioj?"" They keep saying that."
+65582,262,153,777000,Lisa Simpson,Lisa's Bedroom,"Wait, what was that?"
+65618,262,154,783000,Lisa Simpson,Lisa's Bedroom,Uncle Sam? Let me play this backwards.
+65619,262,155,786000,Arab Woman,Lisa's Bedroom,JOIN THE NAVY Join the navy.
+65620,262,156,794000,Lisa Simpson,Lisa's Bedroom,They're recruiting people with subliminal messages!
+65621,262,157,799000,Lisa Simpson,Lisa's Bedroom,"Otto, what are you doing?"
+65622,262,158,801000,Otto Mann,Lisa's Bedroom,I don't know. I just got an urge to join the Navy.
+65623,262,159,804000,Lisa Simpson,Lisa's Bedroom,You're being brainwashed.
+65624,262,160,807000,Otto Mann,Lisa's Bedroom,"Yeah, probably. Yvan eht nioj."
+65626,262,162,817000,Lisa Simpson,Producer's Office,"L.T., thank God you're here! The government's putting subliminal messages in your videos!"
+65627,262,163,823000,L.T. Smash,Producer's Office,Subliminal messages? Do you have any idea how insane that sounds?
+65628,262,164,828000,Lisa Simpson,Producer's Office,Is that a navy tattoo?
+65629,262,165,830000,L.T. Smash,Producer's Office,A navy tattoo? Do you have any idea how insane that sounds?
+65631,262,167,841000,Lisa Simpson,Producer's Office,Lieutenant Smash...
+65632,262,168,844000,L.T. Smash,Producer's Office,"Yeah, that's right. Lieutenant L.T. Smash."
+65633,262,169,851000,Lisa Simpson,Producer's Office,"A wig! But, but your pant legs..."
+65634,262,170,857000,Lisa Simpson,Producer's Office,How could you soil the good name of Star Blitzzz Promotions?
+65635,262,171,862000,L.T. Smash,Producer's Office,"Oh, come on, Lisa. We've always used pop stars to recruit people. Going back to Elvis."
+65636,262,172,867000,L.T. Smash,Producer's Office,Then there was Sergeant Pepper's...
+65637,262,173,867000,L.T. Smash,Producer's Office,The Captain and Tennille...
+65638,262,174,867000,L.T. Smash,Producer's Office,And the KISS army.
+65639,262,175,873000,Lisa Simpson,Producer's Office,But you have recruiting ads on TV. Why do you need subliminal messages?
+65640,262,176,878000,L.T. Smash,Producer's Office,"Eh, it's a three-pronged attack: subliminal, liminal, and super-liminal."
+65641,262,177,882000,Lisa Simpson,Producer's Office,Super-liminal?
+65642,262,178,883000,L.T. Smash,Producer's Office,I'll show you.
+65643,262,179,885000,L.T. Smash,Producer's Office,"Hey, you! Join the Navy!"
+65644,262,180,887000,Carl Carlson,Producer's Office,"Uh, yeah, all right."
+65645,262,181,888000,Lenny Leonard,Producer's Office,I'm in.
+65646,262,182,889000,L.T. Smash,Producer's Office,"And, now that you know, Lisa, I'm afraid I can't let you leave."
+65647,262,183,894000,L.T. Smash,Producer's Office,Oh.
+65649,262,185,898000,Homer Simpson,South Street Squidport,"Wait a minute, Bart's band is brainwashing kids with subliminal messages? That's pretty farfetched, Lisa."
+65650,262,186,905000,Marge Simpson,South Street Squidport,Are you sure someone hasn't been bitten by the jealousy bug?
+65651,262,187,909000,Homer Simpson,South Street Squidport,Here comes the jealousy bug. Gonna git ya! Gonna git ya!
+65652,262,188,915000,Lisa Simpson,South Street Squidport,Cut it out! You're a grown man!
+65653,262,189,917000,Homer Simpson,South Street Squidport,I wanna go home now.
+65654,262,190,919000,Marge Simpson,South Street Squidport,Nobody's going home. We're going to see Bart's concert.
+65655,262,191,924000,Lisa Simpson,South Street Squidport,"An aircraft carrier? Oh, that's subtle."
+65657,262,193,928000,L.T. Smash,Aircraft Carrier,Good afternoon and welcome to the U.S.S. Sea Spanker! Are you ready to tear it up?!
+65658,262,194,935000,L.T. Smash,Aircraft Carrier,I can't hear you!
+65659,262,195,940000,L.T. Smash,Aircraft Carrier,"Do you maggots want to see a show or not?! I, uh... I mean, uh, uh, here they are, the Party Posse!"
+65660,262,196,952000,Milhouse Van Houten,Aircraft Carrier,HAD A GIRL IN EVERY PORT...
+65661,262,197,955000,Milhouse Van Houten,Aircraft Carrier,FROM HERE TO BARCELONA...
+65662,262,198,959000,Nelson Muntz,Aircraft Carrier,BUT NOW I'M DOCKED IN SPRINGFIELD...
+65663,262,199,963000,Nelson Muntz,Aircraft Carrier,"AND GIRL, I'M GONNA PHONE YA..."
+65664,262,200,968000,Ralph Wiggum,Aircraft Carrier,STORMED A LOT OF BEACHES...
+65665,262,201,971000,Ralph Wiggum,Aircraft Carrier,BUT YOU'RE THE ONE THAT I MISSED...
+65666,262,202,975000,Bart Simpson,Aircraft Carrier,"LET'S GET BACK TOGETHER / GIRL, LET'S RE-ENLIST..."
+65667,262,203,980000,Bart Simpson,Aircraft Carrier,"Oww! Hot, hot, hot!"
+65668,262,204,983000,Party Posse,Aircraft Carrier,SO SIGN ME UP / FOR A HITCH OF LOVE / RECRUIT MY HEART / FOUR SWEET YEARS OF LOVE...
+65669,262,205,993000,Bart Simpson,Aircraft Carrier,Everybody ball-walk!
+65670,262,206,997000,Bart Simpson,Aircraft Carrier,"Oh, yeah."
+65671,262,207,1003000,L.T. Smash,Aircraft Carrier,"Lookin' good, guys. Annnd... double time!"
+65672,262,208,1011000,L.T. Smash,Aircraft Carrier,That's it. Protect the country.
+65673,262,209,1024000,Hippie #1,Aircraft Carrier,"Groovy, dudes!"
+65674,262,210,1025000,Hippie #2,Aircraft Carrier,Burn down the barber shops!
+65675,262,211,1027000,Hippie #3,Aircraft Carrier,I hate America!
+65676,262,212,1034000,Male Voice,Aircraft Carrier,Lieutenant! Lieutenant Smash!
+65677,262,213,1038000,L.T. Smash,Aircraft Carrier,"Huh? Oh, Admiral!"
+65678,262,214,1040000,ADMIRAL,Aircraft Carrier,The hippie fantasy again?
+65679,262,215,1042000,L.T. Smash,Aircraft Carrier,"They're gettin' less frequent, sir."
+65680,262,216,1043000,ADMIRAL,Aircraft Carrier,Excellent.
+65682,262,218,1044000,ADMIRAL,SHIP'S BRIDGE,"Well, there's no easy way to say this: the new administration is shutting down Project Boy Band."
+65683,262,219,1051000,L.T. Smash,SHIP'S BRIDGE,"Shutting it down? Permission to say ""That's crazy"", sir?"
+65685,262,220,1054000,ADMIRAL,SHIP'S BRIDGE,"You won't say it's crazy when you see next week's issue of ""MAD"" magazine."
+65686,262,221,1060000,L.T. Smash,SHIP'S BRIDGE,"Oh, dear God."
+65687,262,222,1062000,ADMIRAL,SHIP'S BRIDGE,"When this satirical bombshell hits the stands tomorrow, your band will have as much recruiting power as a wax apple."
+65688,262,223,1068000,L.T. Smash,SHIP'S BRIDGE,"I don't follow, sir."
+65689,262,224,1069000,ADMIRAL,SHIP'S BRIDGE,"It's over, L.T."
+65691,262,226,1075000,Party Posse,Stage,LET'S MARCH ALL DAY / AND CLEAN LATRINES ALL NIGHT / DON'T BUST ME DOWN / LET'S RE-UP TONIGHT
+65693,262,228,1086000,Party Posse,Stage,LET'S RE-UP TONIGHT!
+65694,262,229,1089000,Audience,Stage,Boo! /
+65695,262,230,1090000,Jimbo Jones,Stage,I'm outta here!
+65697,262,232,1094000,L.T. Smash,Bridge,"You fool, look what you've done! Now it's my turn."
+65698,262,233,1098000,ADMIRAL,Bridge,"Don't do it, L.T.!"
+65699,262,234,1100000,L.T. Smash,Bridge,You leave me no choice.
+65700,262,235,1105000,ADMIRAL,Bridge,No!
+65702,262,237,1121000,Homer Simpson,Aircraft Carrier,"So, ah, what songs did I miss?"
+65703,262,238,1125000,Bart Simpson,Aircraft Carrier,"Dad, L.T.'s gone crazy!"
+65704,262,239,1128000,Homer Simpson,Aircraft Carrier,"Yeah, that's the look."
+65705,262,240,1134000,Bart Simpson,Aircraft Carrier,Think he's gonna do something dangerous?
+65706,262,241,1136000,Nelson Muntz,Aircraft Carrier,How should I know? Just keep loading missiles.
+65707,262,242,1139000,Ralph Wiggum,Aircraft Carrier,Pop music's hard work.
+65708,262,243,1144000,Milhouse Van Houten,Aircraft Carrier,The Statue of Liberty! Where are we?
+65709,262,244,1150000,L.T. Smash,Aircraft Carrier,"All right, Posse..."
+65710,262,245,1150000,L.T. Smash,Aircraft Carrier,That's our target...
+65712,262,247,1159000,Homer Simpson,Aircraft Carrier,"Not ""MAD""! That's our nation's largest mental illness-themed humor magazine."
+65714,262,249,1165000,"""mad"" Writer #1","""MAD"" BUILDING","Why don't we call it ""Everybody Hates Raymond?"""
+65715,262,250,1170000,"""mad"" Writer #2","""MAD"" BUILDING","Well, we stayed up all night, but it was worth it."
+65717,262,252,1173000,Nelson Muntz,Aircraft Carrier,"We can't let L.T. blow up ""MAD"". Tina Brown was just starting to turn it around."
+65718,262,253,1178000,Milhouse Van Houten,Aircraft Carrier,We gotta mellow him out.
+65719,262,254,1180000,Bart Simpson,Aircraft Carrier,But how? We would need the ultimate chill-out song.
+65720,262,255,1182000,Ralph Wiggum,Aircraft Carrier,And fast!
+65721,262,256,1191000,Lance Bass,Aircraft Carrier,We heard what you said.
+65684,262,257,1193000,Joey Fatone,Aircraft Carrier,"Yeah, heard it old school!"
+65722,262,258,1194000,Milhouse Van Houten,Aircraft Carrier,It's 'N Sync!
+65723,262,259,1196000,Justin Timberlake,Aircraft Carrier,"Can the chit chat, Milhouse. We've got just the song you need to defuse this wack-attack."
+65724,262,260,1201000,Joey Fatone,Aircraft Carrier,Defuse it old school!
+65725,262,261,1202000,Homer Simpson,Aircraft Carrier,'Bout time.
+65726,262,262,1205000,Party Posse,Aircraft Carrier,Radical! / Awesome! / I can't read.
+65727,262,263,1209000,Nelson Muntz,Aircraft Carrier,I can't sing without dancing!
+65728,262,264,1211000,J.C. Chasez,Aircraft Carrier,Fine.
+65729,262,265,1212000,N'SYNC,Aircraft Carrier,"Thrust, spin, turn... Pivot, pout, jiggy. Jiggy, robot, do-si-do..."
+65730,262,266,1220000,Lance Bass,Aircraft Carrier,And close with a Matrix.
+65731,262,267,1224000,Nelson Muntz,Aircraft Carrier,Nobody pouts going into a jiggy.
+65732,262,268,1227000,Milhouse Van Houten,Aircraft Carrier,"Yeah, that's stupid."
+65733,262,269,1228000,Ralph Wiggum,Aircraft Carrier,I wanna twirl.
+65734,262,270,1230000,Bart Simpson,Aircraft Carrier,"Aw, come on, guys, we've only got a few minutes..."
+65735,262,271,1231000,Bart Simpson,Aircraft Carrier,Uh-oh...
+65736,262,272,1240000,"""mad"" Writer #1",Aircraft Carrier,Everybody okay?
+65737,262,273,1242000,Other Writers,Aircraft Carrier,"Uh Yeah, yeah. Yeah. I'm fine, thanks. / I'm fine. / I actually feel better."
+65738,262,274,1249000,L.T. Smash,Aircraft Carrier,"Well, boys, the Party Posse is over, but at least I saved you from a public spoofing."
+65739,262,275,1256000,Bart Simpson,Aircraft Carrier,"Aw, man, we could have been on the cover of ""MAD""."
+65740,262,276,1259000,Nelson Muntz,Aircraft Carrier,"They called me ""Smelson""! Haw haw."
+65741,262,277,1259000,Homer Simpson,Aircraft Carrier,"""Smelson!"" It's funny 'cause you smell."
+65742,262,278,1270000,L.T. Smash,Aircraft Carrier,"""Smelson"", I could have thought of that."
+65743,262,279,1273000,Cop,Aircraft Carrier,Sure ya could've. Off ya go now.
+65744,262,280,1280000,Justin Timberlake,Aircraft Carrier,"You know, we've had a lot of fun tonight at the expense of the U.S. Navy..."
+65745,262,281,1284000,Lance Bass,Aircraft Carrier,But they're out there every day protecting us from Godzilla.
+65746,262,282,1287000,Chris Kirkpatrick,Aircraft Carrier,And don't forget pirates.
+65747,262,283,1288000,J.C. Chasez,Aircraft Carrier,And jellyfish.
+65748,262,284,1289000,Joey Fatone,Aircraft Carrier,Those wackin' invertebrates will sting you old school!
+65749,262,285,1292000,Justin Timberlake,Aircraft Carrier,So check out the Navy for a two or a four-year hitch.
+65750,262,286,1295000,Lance Bass,Aircraft Carrier,We signed J.C. up yesterday.
+65751,262,287,1296000,J.C. Chasez,Aircraft Carrier,Wuh?
+65752,262,288,1332000,J.C. Chasez,Aircraft Carrier,Nooo!!

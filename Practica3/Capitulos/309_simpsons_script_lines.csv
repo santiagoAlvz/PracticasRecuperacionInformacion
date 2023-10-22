@@ -1,0 +1,233 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+79160,309,1,28000,Lisa Simpson,Springfield,"SILVER BELLS, SILVER BELLS..."
+79161,309,2,34000,Lisa Simpson,Springfield,...IT'S CHRISTMAS TIME IN THE CITY...
+79162,309,3,41000,Snake Jailbird,Springfield,"That is like, so moving. Yo family, isn't that beautiful?"
+79165,309,6,50000,Lisa Simpson,Burns Manor,...WALKING IN A WINTER WONDERLAND.
+79166,309,7,53000,C. Montgomery Burns,Burns Manor,"Exquisite, just exquisite. Makes me wish I hadn't released the hounds."
+79167,309,8,62000,Waylon Smithers,Burns Manor,"Should I call them off, sir?"
+79168,309,9,63000,C. Montgomery Burns,Burns Manor,"No, no. It's their Christmas too."
+79169,309,10,65000,Lisa Simpson,Burns Manor,"HAVA-NICE CHRISTMAS, HAVA-NICE CHRISTMAS, HAVA-NICE CHRISTMAS...NON-CHRISTIAN FRIEND..."
+79170,309,11,74000,Krusty the Clown,Burns Manor,"That's even worse than ""I'm Dreaming of a Whitefish Christmas."""
+79171,309,12,74000,Rabbi Hyman Krustofsky,Burns Manor,For this I tied my bathrobe?
+79173,309,14,79000,Lisa Simpson,House,JUST HEAR THOSE SLEIGH BELLS JINGLING / RING-TING-TINGLING TOO...
+79174,309,15,81000,Blue-Haired Lawyer,House,Cease and desist! You are forbidden to perform that song without paying royalties to the copyright owner.
+79175,309,16,86000,Marge Simpson,House,"Nobody owns Christmas Carols. They belong to everyone, like grapes at the grocery store!"
+79176,309,17,92000,Blue-Haired Lawyer,House,"Not true! But you are welcome to sing the many beloved public domain carols such as O Tannenbaum, Good King Wenceslas, Jesu Joy of Man's Desiring--"
+79177,309,18,93000,Homer Simpson,House,Those suck. They're worse than nothing. I could write way better songs.
+79179,309,20,104000,Blue-Haired Lawyer,Burns's Lawyer's House,Go ahead. But don't use A-flat or G-natural. Those notes are owned by Disney.
+79181,309,22,108000,Blue-Haired Lawyer,Burns's Lawyer's House,That's A-flat.
+79129,309,24,111000,Blue-Haired Lawyer,Burns's Lawyer's House,That's better.
+79183,309,25,112000,Homer Simpson,Burns's Lawyer's House,"That's it, I'm writing a Christmas carol. If I can make my own clothes, I can do anything."
+79185,309,27,121000,Homer Simpson,Simpson Home,CHRISTMAS IN DECEMBER / WOW WOW WOW / GIVE ME TONS OF PRESENTS / NOW NOW NOW!
+79186,309,28,128000,Ned Flanders,Simpson Home,"Hey Homer, writing a new Christmas carol?"
+79187,309,29,130000,Homer Simpson,Simpson Home,Maybe.
+79188,309,30,132000,Ned Flanders,Simpson Home,"Well, the Bible says it's fun to do stuff together."
+79189,309,31,134000,Ned Flanders,Simpson Home,"THERE'S A STRANGER IN THE MANGER AND HIS NAME IS LOVE Take it, Homer!"
+79190,309,32,140000,Ned Flanders,Simpson Home,"Oh, I got it -- you want me to stay out here and work on the chorus."
+79191,309,33,143000,Homer Simpson,Simpson Home,"Flanders, I am a patient, reasonable, handsome man. But even I have my limits. Now beat it!"
+79192,309,34,151000,Ned Flanders,Simpson Home,"Why thank you, Homer. It's a popsicle in my favorite flavor -- plain."
+79194,309,36,163000,Homer Simpson,Simpson Home,How am I supposed to write a song with that stupid jerk bothering me all the time... Wait a minute...
+79195,309,37,174000,Homer Simpson,Simpson Home,EVERYBODY IN THE USA / HATES THEIR STUPID NEIGHBOR / HE'S FLANDERS AND HE'S REALLY REALLY LAME / FLANDERS TRIED TO WRECK MY SONG / HIS VIEWS ON BIRTH CONTROL ARE WRONG / I HATE HIS GUTS AND FLANDERS IS HIS NAME.
+79197,309,39,193000,Carl Carlson,Moe's Tavern,F-L-A-N-R-D-S!
+79198,309,40,193000,Homer Simpson,Moe's Tavern,HE'S THE MAN THAT I HATE BEST / I'D LIKE TO SEE HIS HOUSE GO UP IN FLAME!
+79199,309,41,203000,David Byrne,Moe's Tavern,"Excuse me, I've been researching indigenous folk music of Springfield, and I couldn't help overhearing your delightfully cruel hate song."
+79200,309,42,210000,Carl Carlson,Moe's Tavern,David Byrne?!
+79201,309,43,212000,Moe Szyslak,Moe's Tavern,"Singer, artist, composer, director, Talking Head..."
+79202,309,44,215000,David Byrne,Moe's Tavern,"And, I used to wrestle under the name ""El Diablo."""
+79203,309,45,218000,Lenny Leonard,Moe's Tavern,I thought that was Philip Glass.
+79204,309,46,221000,David Byrne,Moe's Tavern,"Yeah, he wishes."
+79205,309,47,222000,Homer Simpson,Moe's Tavern,"Hey, Mister? If you like my song so much, would you like to buy a tape? It's already rewound."
+79206,309,48,227000,David Byrne,Moe's Tavern,No thanks. But I would like to sing it with you and produce it.
+79207,309,49,230000,Homer Simpson,Moe's Tavern,Fine.
+79209,309,51,235000,Carl Carlson,Recording Studio,F-L-A!
+79210,309,52,236000,Homer Simpson,Recording Studio,His name is Ned!
+79211,309,53,237000,Carl Carlson,Recording Studio,E-R-S!
+79212,309,54,238000,Homer Simpson,Recording Studio,Ned's a stupid name! HE'S WORSE THAN FRANKENSTEIN OR DR. NO.
+79213,309,55,244000,David Byrne,Recording Studio,YOU CAN'T UPSET HIM EVEN SLIGHTLY / HE JUST SMILES AND NODS POLITELY / THEN GOES HOME AND WORSHIPS NIGHTLY / His Leftorium is an Emporium of Woe!
+79215,309,57,255000,Carl Carlson,RECORD-PRESSING PLANT,F-L-A!
+79216,309,58,256000,Homer Simpson,RECORD-PRESSING PLANT,Don't yell at Ned!
+79218,309,60,258000,Carl Carlson,KBBL,D-E-R!
+79219,309,61,259000,Homer Simpson,KBBL,His wife is dead!
+79220,309,62,261000,Homer Simpson,KBBL,EVERYBODY HATES THAT STUPID JERK!
+79222,309,64,264000,David Byrne,Record Store,SPRINGFIELD ROCKS WITH HOMER'S JOYOUS LOATHING...
+79224,309,66,269000,David Byrne,Back Room,...FILLING CLUBS WITH ANGRY VALENTINOS...
+79226,309,68,274000,David Byrne,Warehouse Rave,YOU DON'T HAVE TO MOVE YOUR FEET / JUST HATE FLANDERS TO THE DISCO BEAT...
+79227,309,69,278000,Homer Simpson,Warehouse Rave,"HE'S YOUR PERKY, PEPPY NIGHTMARE NEIGHBORINO!"
+79229,309,71,281000,Homer Simpson,FLANDERS CAR,IF YOU DESPISE POLITE LEFT-HANDERS...
+79230,309,72,284000,Ned Flanders,FLANDERS CAR,"THEN I DOUBT YOU'LL LIKE NED FLANDERS / OR HIS CREEPY LITTLE OFFSPRING, ROD AND TODD..."
+79231,309,73,289000,Todd Flanders,FLANDERS CAR,That's us!
+79232,309,74,290000,Rod Flanders,FLANDERS CAR,Hooray!
+79234,309,76,291000,Springfielders,Karaoke Bar,F-L-A!
+79235,309,77,292000,Apu Nahasapeemapetilon,Karaoke Bar,His name is Ned!
+79236,309,78,293000,Springfielders,Karaoke Bar,E-R-S!
+79237,309,79,294000,Apu Nahasapeemapetilon,Karaoke Bar,He is so white bread!
+79239,309,81,296000,Choir,First Church of Springfield,"THE SMILING, MUSTACHED GEEK WHO WALKS WITH GOD!"
+79240,309,82,301000,Rev. Timothy Lovejoy,First Church of Springfield,Mass dismissed!
+79241,309,83,305000,Homer Simpson,First Church of Springfield,"Hey, what are we gonna wear tomorrow?"
+79243,309,85,308000,Bill,Simpson Home,We're half-way through our same song six-pack!
+79244,309,86,311000,Marty,Simpson Home,"Now let's hear William Shatner's version of ""Everybody Hates Ned Flanders""!"
+79245,309,87,311000,Marge Simpson,Simpson Home,"Another cover? My God, let it die."
+79246,309,88,320000,William Shatner,Simpson Home,Everybody... in the... USA... hates their... stupid neighbor ... He's the Flanders man... the Flanders man... Flanders!
+79247,309,89,335000,Marge Simpson,Simpson Home,I am so sick of that song!
+79248,309,90,338000,Homer Simpson,Simpson Home,Me too -- I've come to hate my own creation. Now I know how God feels.
+79249,309,91,343000,Marge Simpson,Simpson Home,Why don't we take a vacation and get away from that song for a while?
+79250,309,92,347000,Homer Simpson,Simpson Home,"Well, I guess we could afford one nice trip."
+79251,309,93,350000,Marge Simpson,Simpson Home,I still think you should have left that at the motel.
+79252,309,94,353000,Homer Simpson,Simpson Home,"What? It said ""take one."""
+79253,309,95,353000,Bart Simpson,Simpson Home,"Balloon ride, wax museum, the Denzel Washington monument, colonial Phoenix, hey, dude ranch!"
+79254,309,96,364000,Bart Simpson,Simpson Home,"And there's no radio or TV, so we won't have to hear your song!"
+79255,309,97,368000,Homer Simpson,Simpson Home,Sweet.
+79256,309,98,369000,Lisa Simpson,Simpson Home,Or we could go to Walter Gropius's Bauhaus Village?
+79257,309,99,373000,Homer Simpson,Simpson Home,And fight the crowds? Forget it. The Simpsons are going to Bart's idea!
+79260,309,102,378000,Homer Simpson,Car,This dude ranch is gonna be great -- a whole week without hearing that stupid song.
+79261,309,103,384000,David Byrne,Car,You won't think it's stupid when you hear the extended salsa mix!
+79262,309,104,390000,David Byrne,Car,NO NOS GUSTA FLANDERS / ES UN HOMBRE ESTUPIDO / NO NOS GUSTA FLANDERS
+79263,309,105,396000,Marge Simpson,Car,"Watch it, Mr. Byrne! You'll slip on the Simonize!"
+79264,309,106,399000,David Byrne,Car,Simonize?!
+79265,309,107,405000,David Byrne,Car,Can you take me to the hospital?
+79266,309,108,407000,Moe Szyslak,Car,Yeah. No problem.
+79267,309,109,410000,David Byrne,Car,Wasn't that the hospital?
+79268,309,110,412000,Moe Szyslak,Car,"Uh, ya ever see the movie ""Misery?"""
+79269,309,111,415000,David Byrne,Car,"Actually, no."
+79270,309,112,416000,Moe Szyslak,Car,Then this'll all be new to ya.
+79272,309,114,429000,The Rich Texan,Dude Ranch,"Welcome to the ""Lazy I"" ranch, where we give you a week of rustic ranch living."
+79273,309,115,435000,Comic Book Guy,Dude Ranch,Do you have an internet connection?
+79274,309,116,435000,The Rich Texan,Dude Ranch,"Internet? Son, the only internet connection we got is a dedicated DSL port in the business center. Or you can patch in through the smart-fridge in your cabin."
+79275,309,117,449000,Comic Book Guy,Dude Ranch,"If said fridge is truly smart, it will be filled with Hot Pockets and baloney by the time I get there. Goodbye."
+79276,309,118,457000,Lisa Simpson,Dude Ranch,"""On this battleground in 1881, fifty-six Indians lost their lives and four brave Americans lost their hats."""
+79277,309,119,457000,Homer Simpson,Dude Ranch,Those poor hats.
+79278,309,120,468000,Lisa Simpson,Dude Ranch,This whole ranch is appalling. It's built on a legacy of cruelty to animals and oppression of indigenous people.
+79279,309,121,474000,The Rich Texan,Dude Ranch,Just our way of making y'all feel welcome!
+79280,309,122,477000,Lisa Simpson,Dude Ranch,You're not listening!
+79281,309,123,478000,The Rich Texan,Dude Ranch,I never do! Yee-Haw!
+79283,309,125,489000,Bart Simpson,RANCH,I'll show you how they get on a horse where I come from.
+79284,309,126,492000,Bart Simpson,RANCH,"Daddy, I need upsies!"
+79285,309,127,493000,Homer Simpson,RANCH,"Coming, sweetie!"
+79286,309,128,500000,Wrangler #1,RANCH,He sure shut us up.
+79288,309,130,507000,Marge Simpson,RANCH,I really don't want to do a lot of flip-de-loops.
+79289,309,131,510000,The Rich Texan,RANCH,No problem. You can hop on the chuck wagon with Cookie here.
+79290,309,132,515000,Cookie,RANCH,Pleased to meet ya! Have a tooth.
+79291,309,133,521000,Bart Simpson,RANCH,"Hey Crabby Hayes, get with the program!"
+79292,309,134,524000,Lisa Simpson,RANCH,I'm sick of this horse slapping and cow taunting! I'm going to my room!
+79293,309,135,530000,Voice,RANCH,Hold it right there!
+79294,309,136,533000,Luke,RANCH,Momma Rattlesnake would be mighty sore if you scrambled her young'un.
+79295,309,137,540000,Luke,RANCH,"Luke Stetson, junior wrangler."
+79296,309,138,543000,Lisa Simpson,RANCH,I'm Lisa Simpson and you're the first person I've met here who cares about our animal equals.
+79297,309,139,548000,Luke,RANCH,"Well, if you like animals, you won't want to disappoint that pony over there. She's just achin' to show you around."
+79298,309,140,557000,Lisa Simpson,RANCH,I'm sure she'd be happier without someone sitting on her back all day.
+79299,309,141,561000,Luke,RANCH,"I'm sorry you're not interested. Because I need somebody to help me hang these ""No Hunting"" and ""Free Tibet"" signs."
+79301,309,143,569000,Marge Simpson,PICNIC AREA,"That was a delicious meal, Cookie. What do we do with our garbage?"
+79302,309,144,573000,Cookie,PICNIC AREA,Just leave it for Cleanie.
+79303,309,145,578000,Cleanie,PICNIC AREA,My preciousss... Gollum....
+79304,309,146,584000,Chief Wiggum,PICNIC AREA,"Would you like to be photographed in my great-grandfather's headdress? He unified the nations of the western plains. Five dollars, or three for twelve."
+79305,309,147,592000,Homer Simpson,PICNIC AREA,Can you shoot one where I'm Rambo and my wife is Betty Boop?
+79306,309,148,595000,Chief Wiggum,PICNIC AREA,"You mean ""Package B."""
+79307,309,149,597000,Dr. Julius Hibbert,PICNIC AREA,And this is supposed to save our marriage?
+79309,309,150,601000,Bart Simpson,PICNIC AREA,I thought you guys lived off the land. How come you're selling junk to jerks like us?
+79310,309,151,606000,Native American,PICNIC AREA,"We used to live and farm in a bountiful valley. Then the river was dammed to make that lake...by our ancient enemy, the beaver."
+79311,309,152,616000,Marge Simpson,PICNIC AREA,Why don't you just chase the beavers away?
+79312,309,153,619000,Native American,PICNIC AREA,"Unfortunately, the beaver is also our God. In retrospect it was a poor choice."
+79313,309,154,624000,Homer Simpson,PICNIC AREA,"You people are guests in our country, and the beaver have no right to treat you that way. If I get back your land, will you promise to build a casino on it?"
+79314,309,155,633000,Native American,PICNIC AREA,"Sure. And when we do, your breakfast will be comped."
+79315,309,156,637000,Homer Simpson,PICNIC AREA,How many decks will your blackjack dealers use?
+79316,309,157,639000,Native American,PICNIC AREA,Eight.
+79317,309,158,639000,Homer Simpson,PICNIC AREA,Three.
+79318,309,159,640000,Native American,PICNIC AREA,Four.
+79319,309,160,640000,Homer Simpson,PICNIC AREA,Deal. My brother...
+79322,309,163,647000,Lisa Simpson,Field,Oh Luke.
+79323,309,164,650000,Marge Simpson,Field,I didn't gasp like that until I was eighteen!
+79325,309,166,657000,Homer Simpson,Lake,"All right, son, we just knock over this dam and the noble Native Americans can reclaim the land that is theirs."
+79327,309,168,676000,Homer Simpson,Lake,No! I wanted to die choking on food!
+79328,309,169,681000,Bart Simpson,Lake,I'll save you!
+79329,309,170,687000,Homer Simpson,Lake,"So long, suckers!"
+79330,309,171,693000,Homer Simpson,Lake,Stop shoving! The little one isn't getting any.
+79332,309,173,700000,Lisa Simpson,RANCH,"Thanks for making me feel better about this place, Luke."
+79333,309,174,703000,Luke,RANCH,"Lisa, this here is the New West, where we respect our equine and bovine Americans."
+79334,309,175,711000,Luke,RANCH,"Uh, well maybe we should just mosey on over this way."
+79335,309,176,715000,Cookie,RANCH,"Free range, my ass! Tonight you're gonna be swimming next to a matzo ball."
+79336,309,177,720000,Luke,RANCH,I think maybe we should just look at the clouds. Ain't that pretty.
+79337,309,178,724000,Lisa Simpson,RANCH,"Oh, it looks like a happy sheep."
+79339,309,180,734000,Luke,RANCH,"Oh, dammit!"
+79341,309,182,738000,Marge Simpson,NATURAL HOT SPRINGS,"Shucks, Lisa. You sure have taken a shine to that cowpoke."
+79308,309,183,743000,Lisa Simpson,NATURAL HOT SPRINGS,"Mom, why are you talking like that?"
+79342,309,184,745000,Marge Simpson,NATURAL HOT SPRINGS,Don't rightly know. I just soaked up the lingo like a biscuit in a bucket full of gopher gravy. I'll stop now.
+79343,309,185,752000,Lisa Simpson,NATURAL HOT SPRINGS,"Well, I like it here, too. Luke has shown me the gentle side of the old west. He's really sophisticated for a thirteen-year-old."
+79344,309,186,759000,Marge Simpson,NATURAL HOT SPRINGS,"Thir-what year old?!! Lisa, you're only eight."
+79345,309,187,763000,Lisa Simpson,NATURAL HOT SPRINGS,"But when he's twenty-three, I'll be eighteen."
+79346,309,188,766000,Marge Simpson,NATURAL HOT SPRINGS,"Lisa, you don't know what you'll want in the future. I didn't marry the first boy I... well, I did. But you shouldn't!"
+79349,309,191,777000,Lisa Simpson,RANCH,Wanna play a little longer? It's only ten and the moon is awful big.
+79350,309,192,785000,Luke,RANCH,"Well heck, you should see it when it's full."
+79351,309,193,794000,Marge Simpson,RANCH,Oh no! They're making beautiful music together!
+79352,309,194,797000,Homer Simpson,RANCH,/ Let's see move that there... do a flanking maneuver there... Wind should be coming in from the south... Time it to coincide with a beaver holiday...
+79353,309,195,808000,Homer Simpson,RANCH,This map is useless! Useless!
+79354,309,196,811000,Marge Simpson,RANCH,"Homie, I'm worried about how fast our kids are growing up."
+79355,309,197,815000,Homer Simpson,RANCH,It's the beef hormones and the fluorescent lights. What are you gonna do?
+79356,309,198,818000,Marge Simpson,RANCH,But they're already acting like teenagers. Lisa's with that boy... and look at Maggie!
+79358,309,200,840000,Lisa Simpson,DINING HALL,"Look, Cookie! There's a dance tonight!"
+79359,309,201,843000,Cookie,DINING HALL,A dance! A dance!
+79360,309,202,850000,Cookie,DINING HALL,"Whoo, I'm pooped. I'm goin' to bed. Bed!"
+79361,309,203,856000,Luke,DINING HALL,"All righty, I'll see you tonight -- and I'll save you the first dance. Love you too, Clara."
+79362,309,204,863000,Lisa Simpson,DINING HALL,Clara?! He's got a girlfriend! I feel like such an idiot.
+79364,309,206,873000,Bart Simpson,Lisa and Bart's Cabin,"Hey, bottom bunk's mine."
+79365,309,207,879000,Cookie,Lisa and Bart's Cabin,Keep goin'.
+79367,309,209,889000,Lisa Simpson,DIRT ROAD THROUGH FOREST,"I can't believe Luke has another gal. ""My name is Clara... I've known Luke for more than five days..."""
+79368,309,210,893000,Girl,DIRT ROAD THROUGH FOREST,"Excuse me, is this the way to the Lazy I Ranch?"
+79369,309,211,899000,Lisa Simpson,DIRT ROAD THROUGH FOREST,"Yeah, it sure is..."
+79371,309,212,904000,Lisa Simpson,DIRT ROAD THROUGH FOREST,...But a quicker way to the ranch is that shortcut.
+79372,309,213,907000,Clara,DIRT ROAD THROUGH FOREST,Thanks darlin'. See you at the dance.
+79373,309,214,913000,Lisa Simpson,DIRT ROAD THROUGH FOREST,"I look forward to it. Ha ha ha ha, I hate you."
+79376,309,217,925000,Homer Simpson,Car,"Check it out, beavers. Delicious motel furniture!"
+79377,309,218,930000,Bart Simpson,Car,They took the bait. Let's go.
+79378,309,219,933000,Homer Simpson,Car,Uh-oh! We forgot to empty the mini-bar!
+79379,309,220,943000,Homer Simpson,Car,That's a seventeen-dollar deck of cards!
+79380,309,221,945000,Bart Simpson,Car,"Let it go, Dad."
+79382,309,223,953000,Homer Simpson,BASE OF THE DAM,"Quick, find the master log! There's always a master log."
+79383,309,224,966000,Homer Simpson,BASE OF THE DAM,"We did it! Finally, man has triumphed over a small, furry animal!"
+79384,309,225,982000,Native American Woman,BASE OF THE DAM,"Treaty... Treaty... Treaty... Bill... Treaty... ""PEACE PIPE AFICIONADO"" magazine..."
+79385,309,226,989000,Chief Wiggum,BASE OF THE DAM,Thank you. You have restored our village and our way of life.
+79386,309,227,992000,Brave,BASE OF THE DAM,We would like to make you honorary members of our tribe.
+79387,309,228,995000,Chief Wiggum,BASE OF THE DAM,Drink deep from these cups.
+79388,309,229,999000,Chief Wiggum,BASE OF THE DAM,The bear urine will make you strong.
+79389,309,230,1004000,Chief Wiggum,BASE OF THE DAM,"Actually, it's Fresca."
+79390,309,231,1006000,Homer Simpson,BASE OF THE DAM,Fresca?!
+79392,309,233,1009000,Caller,Main Ranch Building,WELLLLL... GRAB YOUR PARTNER AND START SWINGIN' 'EM / DON'T FORGET THE TWO-DRINK MINIMUM / TAKE YOUR CORNER BY THE HAND / GET ADULT VIDEOS ON DEMAND! / FLASH YOUR TEETH LET'S SEE THOSE SMILES / PAY WITH VISA EARN FREE MILES! / YEE HAW!
+79393,309,234,1029000,Luke,Main Ranch Building,"Dang it, Clara should be here by now."
+79394,309,235,1032000,Lisa Simpson,Main Ranch Building,"I'm sure she's just running late. Or, she's not coming because she doesn't understand how special you are."
+79395,309,236,1037000,Luke,Main Ranch Building,That sure don't sound like my sister.
+79396,309,237,1040000,Lisa Simpson,Main Ranch Building,Sister?! You mean she's not your girlfriend?
+79397,309,238,1042000,Luke,Main Ranch Building,Hell no! They outlawed that in this state two years ago.
+79398,309,239,1047000,Lisa Simpson,Main Ranch Building,Need-help-now-come-with-me-done-something-terrible!
+79399,309,240,1049000,Bart Simpson,Main Ranch Building,Don't-really-care-just-terribly-caught-up-in-moment!
+79400,309,241,1054000,The Rich Texan,Main Ranch Building,"I have some sad news for ya'll. After this dance, I'm headin' to jail."
+79401,309,242,1061000,The Rich Texan,Main Ranch Building,"One of my stray bullets hit a Texas Ranger. But I'll be back in six months, yee haw!"
+79402,309,243,1069000,The Rich Texan,Main Ranch Building,Blanks. They just don't feel the same.
+79407,309,248,1086000,Lisa Simpson,Woods,... So I sent Luke's sister down the wrong trail and... Hey! Where'd all this water come from? There used to be a trail here! And there used to be a beaver dam there.
+79408,309,249,1095000,Bart Simpson,Woods,"Who are you, the usedta police?"
+79409,309,250,1099000,Clara,Woods,Help!
+79410,309,251,1100000,Clara,Woods,Help me! I can't swim! I'm one lesson short!
+79411,309,252,1105000,Lisa Simpson,Woods,How can we get across?!
+79412,309,253,1108000,Bart Simpson,Woods,"Hey beavers! Remember me, you buck-toothed nerds?"
+79413,309,254,1123000,Lisa Simpson,Woods,Run across!
+79414,309,255,1130000,Lisa Simpson,Woods,I'm sorry. I only sent you the wrong way because I thought you were Luke's girlfriend.
+79415,309,256,1135000,Clara,Woods,"Well, that certainly justifies attempted murder. You know, there are more important things in this world than boys."
+79416,309,257,1142000,Clara,Woods,"Hel-lo, handsome!"
+79417,309,258,1145000,Bart Simpson,Woods,"What's up, Cootie Breath?"
+79419,309,260,1150000,Homer Simpson,RANCH,"Look at those stupid city slickers, with their fur coats and pointy hats."
+79420,309,261,1154000,Marge Simpson,RANCH,"Homer, those are elk."
+79421,309,262,1156000,Homer Simpson,RANCH,I still hate them. Go back to Pittsburgh!
+79423,309,264,1163000,Luke,RANCH,"Lisa, Clara told me 'bout how you saved her last night."
+79424,309,265,1167000,Lisa Simpson,RANCH,Did Clara... tell you anything else?
+79425,309,266,1170000,Luke,RANCH,No. Just that she felt mighty stupid for getting herself lost in them woods.
+79426,309,267,1174000,Lisa Simpson,RANCH,"Listen, Luke. It's my fault Clara got lost. I didn't know she was your sister, and I wanted you all to myself."
+79427,309,268,1181000,Luke,RANCH,"You would do that just for me... That's despicable! You're the kind of city slicker my family left Central Park West to avoid. You've got a lot of chutzpah, Missy. Goodbye."
+79429,309,270,1198000,Homer Simpson,Car,A lot can happen when you're lookin' the other way.
+79430,309,271,1198000,Marge Simpson,Car,You're tellin' me.
+79431,309,272,1198000,Lisa Simpson,Car,"Oh, I had my first crush, and all it did was make me do terrible things and then break my heart."
+79433,309,273,1210000,Marge Simpson,Car,"Lisa, welcome to love. It's full of doubt and pain and uncertainty. But then one day you find a man you love so much it hurts."
+79434,309,274,1222000,Homer Simpson,Car,Who is he?!
+79435,309,275,1224000,Marge Simpson,Car,"You, Homie."
+79436,309,276,1225000,Homer Simpson,Car,"Woo hoo! In your face, imaginary guy!"
+79437,309,277,1230000,Bart Simpson,Car,"Hey, let's see if Dad's song is finally off the air."
+79438,309,278,1233000,Bill,Car,"Comin' up next, Springfield's latest one-hit wonder: ""The Moe Szyslak Connection,"" produced by David Byrne."
+79439,309,279,1239000,Moe Szyslak,Car,MOE MOE MOE / HOW DO YOU LIKE ME? / HOW DO YOU LIKE ME? / MOE MOE MOE / WHY DON'T YOU LIKE ME? / NOBODY LIKES ME...
+79440,309,280,1250000,Marge Simpson,Car,"Eh, we can spend another week at the ranch."

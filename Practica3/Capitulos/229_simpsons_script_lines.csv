@@ -1,0 +1,238 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+55321,229,1,83000,Seymour Skinner,Springfield Elementary School,"I hope you all enjoy your ride to and tour of the Springfield Shopper Newspaper. Groundskeeper Willie and I will stay behind to remove all traces of asbestos and the word ""evolution"" from our school."
+55322,229,2,95000,Groundskeeper Willie,Springfield Elementary School,"Next stop, Margaritaville! I-- Ah, they're still here."
+55323,229,3,95000,Seymour Skinner,Springfield Elementary School,"Yes. Now I'd like to ask each child to pair up with a buddy, so no one gets lost."
+55324,229,4,103000,Bart Simpson,Springfield Elementary School,"Come to think of it, I haven't seen Uter since the last field trip."
+55325,229,5,106000,Seymour Skinner,Springfield Elementary School,"Well, Uter? I don't remember any Uter. Silly name -- Uter."
+55326,229,6,110000,Lisa Simpson,Springfield Elementary School,"Dad, it's great that you volunteered to drive -- but how did you get out of work?"
+55327,229,7,114000,Homer Simpson,Springfield Elementary School,"Don't worry, sweetie. Daddy's got it covered."
+55329,229,9,117000,Homer Effigy,Springfield Nuclear Power Plant,"I WORK HARD FOR THE MONEY! / SO HARD FOR THE MONEY! / OH, I SOMETHING, SOMETHING MONEY! / COME ON, GIVE ME LOTS OF HONEY!"
+55330,229,10,117000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Now, there's an employee, Smithers. A smile on his lips and a song in his heart. Promote him!"
+55331,229,11,132000,Homer Effigy,Springfield Nuclear Power Plant,So hard... for the money... So hard... Turn tape over.
+55333,229,13,140000,Milhouse Van Houten,Homer's Car,"Hey, I know how we can have some fun. I spy with my little eye... something beginning with ""D."""
+55334,229,14,147000,Nelson Muntz,Homer's Car,Dingus!
+55335,229,15,152000,Homer Simpson,Homer's Car,"God bless you, Nelson Muntz."
+55336,229,16,155000,Nelson Muntz,Homer's Car,I'm no hero. I just like to hit people in the head.
+55337,229,17,163000,Homer Simpson,Homer's Car,"Hey, you , you cut me off! Ah, yeah, you!"
+55338,229,18,168000,Lisa Simpson,Homer's Car,"Dad, that's an ambulance."
+55339,229,19,170000,Homer Simpson,Homer's Car,"Oh, right. ambulance! Think you're so big with your siren, and your letters on backwards."
+55340,229,20,182000,Homer Simpson,Homer's Car,Here we are kids -- the zoo.
+55341,229,21,184000,Bart Simpson,Homer's Car,"Well, that's great, Dad, except you were supposed to drive us to the newspaper."
+55344,229,24,196000,Tour Guide,Springfield Shopper,"Welcome to the Springfield Shopper, established in 1883. The newspaper was founded by Johnny Newspaperseed... a fourteen-year-old boy who roamed America, founding newspapers."
+55345,229,25,207000,Homer Simpson,Springfield Shopper,"If he's so smart, how come he's dead?"
+55346,229,26,210000,Tour Guide,Springfield Shopper,"Over the years, the Shopper merged with the Springfield Times, Post, Globe, Herald, Jewish News and Hot Sex Weekly to become Springfield's number one newspaper."
+55347,229,27,221000,Lisa Simpson,Springfield Shopper,"Wow, a bustling metropolitan newsroom, funnelling scoops from all over the globe."
+55348,229,28,226000,Newspaper Worker #1,Springfield Shopper,"Hi, are you interested in a subscription to The Shopper...?"
+55349,229,29,229000,Newspaper Worker #2,Springfield Shopper,"... low, introductory rates..."
+55350,229,30,231000,Gil Gunderson,Springfield Shopper,"No, please, ya gotta help ol' Gil. What's it gonna take to keep you on the phone? Dance for ya? But you wouldn't even see it. All right, I'm dancing."
+55352,229,32,243000,Tour Guide,Springfield Shopper,"... And this is our comic strip department. Who here reads ""Mary Worth""?"
+55353,229,33,249000,Tour Guide,Springfield Shopper,Let's move on.
+55354,229,34,253000,Tour Guide,Springfield Shopper,This is where we store Ann Landers and Dear Abby for their 23 hours of daily sleep.
+55355,229,35,258000,SHREWISH WOMAN,Springfield Shopper,My advice is to free us or let us die.
+55357,229,37,262000,Bart Simpson,Newsroom,"Check it out, Dad. You can print out the headline from the day you were born."
+55358,229,38,265000,Homer Simpson,Newsroom,Ooo... pointless nostalgia.
+55359,229,39,270000,Homer Simpson,Newsroom,I'd sure hate to be him.
+55361,229,41,270000,Tour Guide,NEWSPAPER PRESS ROOM,"And to protect Mother Earth, each copy contains a certain percentage of recycled paper."
+55362,229,42,279000,Lisa Simpson,NEWSPAPER PRESS ROOM,And what per cent is that?
+55363,229,43,281000,Tour Guide,NEWSPAPER PRESS ROOM,Zero. Zero's a per cent.
+55365,229,45,287000,Homer Simpson,PRESS ROOM,"Hey, I smell cake! Cake that says ""Farewell"" and ""Best Wishes""!"
+55366,229,46,292000,Nelson Muntz,PRESS ROOM,Your old man has an awesome nose.
+55367,229,47,297000,Bart Simpson,PRESS ROOM,"Oh, that's nothin'. He can hear pudding."
+55369,229,49,300000,Lifeways Editor,NEWSPAPER,"So Mimi, this little shindig is our way of saying farewell to our favorite food critic."
+55370,229,50,307000,Mimi,NEWSPAPER,"What can I say, except thanks for the predictable champagne, pizza that's hardly ""Numero Uno"" and ice cream cake which reminds us ""why make 31 flavors when you can't get vanilla right?"""
+55371,229,51,318000,Lifeways Editor,NEWSPAPER,"I wouldn't want to be married to her. I mean, again."
+55373,229,53,324000,Mimi,NEWSPAPER,Who are you and why are you ruining my retirement party?
+55374,229,54,328000,Homer Simpson,NEWSPAPER,I'll have you know I wandered off from the tour.
+55375,229,55,333000,Lifeways Editor,NEWSPAPER,"Well, at least you like the food."
+55376,229,56,336000,Homer Simpson,NEWSPAPER,"Oh, I like food all right."
+55377,229,57,337000,Homer Simpson,NEWSPAPER,"I LIKE PIZZA / I LIKE BAGELS / I LIKE HOT DOGS, WITH MUSTARD AND BEER..."
+55378,229,58,343000,Lifeways Editor,NEWSPAPER,I get the picture.
+55379,229,59,344000,Homer Simpson,NEWSPAPER,"I'LL EAT EGGPLANT / I COULD EVEN EAT A BABY DEER... LA LA LA LA LA LA LA LA LA LA... WHO'S THAT BABY DEER ON THE LAWN, THERE..."
+55380,229,60,352000,Lifeways Editor,NEWSPAPER,Enough already!
+55381,229,61,353000,Homer Simpson,NEWSPAPER,Sorry.
+55382,229,62,354000,Lifeways Editor,NEWSPAPER,"Hey, listen, I just had a thought. We're looking for a new food critic. Someone who doesn't immediately pooh-pooh everything he eats."
+55383,229,63,362000,Homer Simpson,NEWSPAPER,"No, it usually takes a few hours."
+55384,229,64,364000,Lifeways Editor,NEWSPAPER,"Look, I'd like to give you a tryout. Write a 500 word sample review. If it passes muster, we'll put you on staff."
+55385,229,65,375000,Homer Simpson,NEWSPAPER,"Thanks for the chance. You won't never regret this, Mr. Editing Guy!"
+55387,229,67,379000,Marge Simpson,Simpson Home,"You know, Homie, the ""E"" doesn't work on that typewriter."
+55388,229,68,384000,Homer Simpson,Simpson Home,"We don't need no stinkin' ""E"". Restaurant Review... No. Eatery Evaluation... No. Food box... Go or no go? By Homer... No. Earl. No. Bill Simpson!"
+55390,229,70,407000,Homer Simpson,Springfield Shopper,Well -- what do you think?
+55391,229,71,409000,Lifeways Editor,Springfield Shopper,"This is a joke, right? I mean, this is the stupidest thing I've ever read."
+55392,229,72,414000,Homer Simpson,Springfield Shopper,What's wrong with it?
+55393,229,73,415000,Lifeways Editor,Springfield Shopper,"Well, you keep using words like ""pasketti"" and ""momatoes,"" you make numerous threatening references to the U.N., and at the end, you repeat the words ""Screw Flanders"" over and over again..."
+55394,229,74,429000,Homer Simpson,Springfield Shopper,It was so hard to get to 500 words...
+55395,229,75,433000,Lifeways Editor,Springfield Shopper,"Aw, look, Homer, I'm sorry, but..."
+55396,229,76,435000,Homer Simpson,Springfield Shopper,"No, no, you're right. It's a joke. Everyone laugh at the funny joke . I'll be right back with the real review."
+55398,229,78,446000,Homer Simpson,Simpson Bathroom,Still not clean! Stink of failure still on me!
+55399,229,79,451000,Lisa Simpson,Simpson Bathroom,"Dad, I'm sorry the editor didn't like your review."
+55401,229,81,455000,Lisa Simpson,Hallway,I'll help you write a new review if you just let me use the bathroom!
+55403,229,83,459000,Homer Simpson,Simpson Home,Still not clean! Still not clean!
+55405,229,85,464000,Homer Simpson,Lisa's Bedroom,"Okay, what restaurant should we review?"
+55406,229,86,466000,Lisa Simpson,Lisa's Bedroom,"Well, we went to Paté Labelle last week. How 'bout that?"
+55407,229,87,468000,Homer Simpson,Lisa's Bedroom,"Great. Now, let me think... the food was... not undelicious..."
+55408,229,88,475000,Lisa Simpson,Lisa's Bedroom,The food is delicious.
+55409,229,89,477000,Homer Simpson,Lisa's Bedroom,"That's brilliant. And they have this sweet, sweet chocolate mousse -- really, the only word for it is ."
+55410,229,90,485000,Lisa Simpson,Lisa's Bedroom,Hm. What's the English equivalent for ? I'd say... transcendent.
+55411,229,91,485000,Homer Simpson,Lisa's Bedroom,How about groin-grabbingly transcendent?
+55412,229,92,496000,Lisa Simpson,Lisa's Bedroom,"Uh, I don't think so."
+55413,229,93,497000,Homer Simpson,Lisa's Bedroom,We make a good team. A groin-grabbingly good team!
+55414,229,94,501000,Lisa Simpson,Lisa's Bedroom,497... 498 words. Hmph.
+55415,229,95,505000,Homer Simpson,Lisa's Bedroom,"How about ""screw Flanders""?"
+55416,229,96,508000,Lisa Simpson,Lisa's Bedroom,Bon Appetit.
+55417,229,97,509000,Homer Simpson,Lisa's Bedroom,"Aw, they're both good."
+55419,229,99,512000,Lifeways Editor,Springfield Shopper,Not bad... not bad at all. We're gonna run this on page one! Of Section H-2.
+55420,229,100,520000,Homer Simpson,Springfield Shopper,Woo hoo! Stop the presses!
+55421,229,101,529000,Homer Simpson,Springfield Shopper,"Okay, start the presses!"
+55422,229,102,531000,Lifeways Editor,Springfield Shopper,That takes four hours!
+55423,229,103,534000,Homer Simpson,Springfield Shopper,Whatever. I'll be at Moe's.
+55425,229,105,540000,Marge Simpson,The Frying Dutchman,"This is so exciting, Homie. Your first restaurant review."
+55426,229,106,543000,Homer Simpson,The Frying Dutchman,"Marge, shh! It's important that no one know that I'm a food critic."
+55427,229,107,548000,Ned Flanders,The Frying Dutchman,"Hear that, Maude? Homer's a critic."
+55428,229,108,550000,Maude Flanders,The Frying Dutchman,"Homer's a critic, pass it on."
+55429,229,109,552000,Seymour Skinner,The Frying Dutchman,Did you hear? Homer's a critic!
+55430,229,110,554000,German Man,The Frying Dutchman,Quit changing the subject! Vere is Uter?
+55431,229,111,557000,German Woman,The Frying Dutchman,"Oh, we just vant closure."
+55432,229,112,559000,Captain Horatio McCallister,The Frying Dutchman,"Here you are, one critic special."
+55433,229,113,563000,Captain Horatio McCallister,The Frying Dutchman,"If anything appears to be moving, that's just freshness. Arrr."
+55434,229,114,567000,Homer Simpson,The Frying Dutchman,"Can ya believe it, Marge? This job is the greatest -- they're paying me to eat!"
+55435,229,115,572000,Bart Simpson,The Frying Dutchman,"Yeah, now if you could just get somebody to pay you for scratching your butt, we'll be on easy street."
+55436,229,116,576000,Homer Simpson,The Frying Dutchman,Why you little...
+55437,229,119,576000,Lisa Simpson,Lisa's Bedroom,"Wow, my first published article. Although someone else's name is on it."
+55438,229,120,586000,Homer Simpson,Lisa's Bedroom,Welcome to the humiliating world of professional writing. But this is only the beginning...
+148008,229,122,597000,McBain,Planet Springfield Restaurant,"Welcome to Planet Springfield. The restaurant owned by me, Chuck Norris, Johnny Carson's third wife and the Russian Mafia."
+148009,229,123,606000,McBain,Planet Springfield Restaurant,Each Planet Springfield is filled with priceless Hollywood gewgaws.
+55440,229,124,611000,Homer Simpson,Planet Springfield Restaurant,"There's the coffee mug from ""Heartbeeps""!"
+55441,229,125,611000,Lisa Simpson,Planet Springfield Restaurant,"And there's the cane from ""Citizen Kane."" Wait a minute. There was no cane in ""Citizen Kane."""
+55442,229,126,622000,Bart Simpson,Planet Springfield Restaurant,And there's that awful script from The Cable Guy!
+55443,229,127,625000,Homer Simpson,Planet Springfield Restaurant,Let me see.
+55444,229,128,625000,Homer Simpson,Planet Springfield Restaurant,Stupid script! Nearly wrecked Jim Carrey's career! You-- I'm gonna... What?
+55446,229,130,639000,Lisa Simpson,ROTATING RESTAURANT,The food is exquisite...
+55447,229,131,641000,Homer Simpson,ROTATING RESTAURANT,And the view is... beautiful... inspirational... nauseating.
+55449,229,133,646000,Lenny Leonard,Springfield Street,"Hey, Homer, great call on that chicken place."
+55450,229,134,654000,Lenny Leonard,Springfield Street,And on that rib place.
+55451,229,135,655000,Lenny Leonard,Springfield Street,I never knew everything was so good.
+55452,229,136,659000,Homer Simpson,Springfield Street,"Look, Marge, I'm making a difference in people's lives!"
+55453,229,137,663000,C. Montgomery Burns,Springfield Street,"Yes, Simpson, your love of food is contagious."
+55454,229,138,666000,C. Montgomery Burns,Springfield Street,I've never felt jollier!
+55455,229,139,668000,C. Montgomery Burns,Springfield Street,"Oh, there go my shin bones again."
+55457,229,141,676000,Lifeways Editor,Springfield Shopper,"Hey Homer, c'mere!"
+55458,229,142,679000,Homer Simpson,Springfield Shopper,Are you gonna fire me for swiping office supplies?
+55459,229,143,681000,Lifeways Editor,Springfield Shopper,No.
+55460,229,144,682000,Homer Simpson,Springfield Shopper,Whew.
+55461,229,145,686000,Lifeways Editor,Springfield Shopper,"Some of your fellow critics wanted to meet you ... this is Garth Trelawny, TV critic..."
+55462,229,146,691000,Homer Simpson,Springfield Shopper,"Why, you... You made them cancel ""Platypus Man!"""
+55463,229,147,694000,Lifeways Editor,Springfield Shopper,"Homer! This is our Theater Critic, Daphne Beaumont."
+55464,229,148,699000,Homer Simpson,Springfield Shopper,And the Cosby Mysteries! That show had limitless possibilities!
+55465,229,149,702000,Lifeways Editor,Springfield Shopper,"Homer, please!"
+55466,229,150,703000,Homer Simpson,Springfield Shopper,Sorry.
+55467,229,151,704000,Farm Critic,Springfield Shopper,"Jamie Kilday, farm supply critic. Just got back from the gopher poison show in Paris. Let me tell you something, people. The days of clubbing them with a baseball bat are over."
+55468,229,152,714000,Homer Simpson,Springfield Shopper,"For you, perhaps."
+55469,229,153,716000,Tv Critic,Springfield Shopper,"Listen, we've been meaning to have a talk with you about your reviews. Everything's a rave! Nine thumbs up? What the hell is that?"
+55470,229,154,723000,Homer Simpson,Springfield Shopper,I've given out my share of bad reviews.
+55471,229,155,725000,Theater Critic,Springfield Shopper,"Well, the only bad review you gave was to a slice of pizza you found under the couch."
+55472,229,156,729000,Homer Simpson,Springfield Shopper,It lost some points 'cause it had a Hot Wheel on it.
+55473,229,157,731000,Farm Critic,Springfield Shopper,"Good Lord, man, you're a critic! You don't have to like everything. E.g., my latest review: ""We see John Deere has come out with this year's line of rototillers. Surprise surprise, they're green. I say it's time to send John Deere a 'Dear John.'"""
+55474,229,158,744000,Homer Simpson,Springfield Shopper,"Oh, that's classic."
+55475,229,159,750000,Farm Critic,Springfield Shopper,You don't have to patronize me.
+55476,229,160,751000,Homer Simpson,Springfield Shopper,Okay.
+55479,229,163,754000,Herald,Springfield Dinner Theater,"Milord, thy daughters: Goneril, Regan and Cordelia."
+55480,229,164,760000,Krusty the Clown,Springfield Dinner Theater,"What is this, Merrie Old England or Petticoat Junction?"
+55481,229,165,768000,Krusty the Clown,Springfield Dinner Theater,"Hey, lighten up, it's a comedy."
+55482,229,166,769000,Herald,Springfield Dinner Theater,No it's not.
+55483,229,167,770000,Krusty the Clown,Springfield Dinner Theater,It's not!?
+55484,229,168,770000,Homer Simpson,Springfield Dinner Theater,"Hm. This pea soup is as weak as the acting, and nowhere near as hammy."
+55485,229,169,780000,Lisa Simpson,Springfield Dinner Theater,"Dad, that's so mean."
+55486,229,170,782000,Homer Simpson,Springfield Dinner Theater,The other critics told me to be mean. And you should always give in to peer pressure.
+55487,229,171,786000,Lisa Simpson,Springfield Dinner Theater,But what if someone bad tells me to...
+55488,229,172,788000,Homer Simpson,Springfield Dinner Theater,Always.
+55489,229,173,789000,Krusty the Clown,Springfield Dinner Theater,"Huh, huh? Whoa! This material stinks. I'm gonna have to punch it up on the fly. Oh, I got one. How do you make a King Lear? Put the queen in a bikini."
+55490,229,174,799000,Krusty the Clown,Springfield Dinner Theater,"Here's another one. Knock-knock. Who's there? Juliet. Juliet who? Juliet so much pasta fazool, Romeo doesn't want her anymore."
+55491,229,175,812000,Krusty the Clown,Springfield Dinner Theater,Tough crowd. They're booing Shakespeare!
+55493,229,177,821000,Homer Simpson,Luigi's,"Ah, not bad... if lasagna is Italian for ""pile of puke."""
+55494,229,178,826000,Salvatore,Luigi's,I chop-a you good!
+55495,229,179,830000,Homer Simpson,Luigi's,"Well, I hope you cut me better than you did these string beans. Hm, I seem to be missing a piece of my ear. Touché!"
+55497,229,181,840000,Marge Simpson,Simpson Home,Who wants pork chops?
+55498,229,182,845000,Homer Simpson,Simpson Home,Mm.
+55499,229,183,847000,Homer Simpson,Simpson Home,"Sorry, Marge. I'm afraid this gets my lowest rating ever, seven thumbs up."
+55500,229,184,853000,Marge Simpson,Simpson Home,You always liked my pork chops.
+55501,229,185,856000,Homer Simpson,Simpson Home,"Marge, I'm sorry, but your cooking's only got two moves: ""Shake"" and ""Bake."""
+55502,229,186,862000,Marge Simpson,Simpson Home,You like Shake and Bake. You used to put it in your coffee.
+55503,229,187,865000,Homer Simpson,Simpson Home,"People change, Marge. My palate has grown more sophisticated."
+55504,229,188,869000,Marge Simpson,Simpson Home,"Oh, yeah? What's a palate?"
+55505,229,189,871000,Homer Simpson,Simpson Home,Oh... it's a special time in a boy's life when... Gotta go!
+55506,229,190,879000,Homer Simpson,Simpson Home,"So come to The Legless Frog... if you want to get sick and die, and leave a big, garlicky corpse. P.S. Parking was ample."
+55507,229,191,886000,Lisa Simpson,Simpson Home,"Dad, you're being cruel for no reason -- what will people think?"
+55508,229,192,890000,Homer Simpson,Simpson Home,People will think what I tell them to think when you tell me what to tell them to think!
+55509,229,193,894000,Lisa Simpson,Simpson Home,Not anymore. I don't wanna be partners with a man who feels like that.
+55510,229,194,899000,Homer Simpson,Simpson Home,"Nobody talks to me that way! I'm Homer Simpson! The most powerful food critic in town, who will never get his comeuppance! You hear me? No comeuppance! We'll be right back."
+55512,229,196,912000,Homer Simpson,Simpson Kitchen,"I don't need Lisa to write a good review. ""The food at the Gilded Truffle really..."" Uh... What's a good word?"
+55514,229,198,921000,Homer Simpson,Simpson Kitchen,"Sucks! That's great. ""And the bread was really..."" C'mon, help me out here."
+55515,229,199,927000,Santa's Little Helper,Simpson Kitchen,Ruff!
+55516,229,200,928000,Homer Simpson,Simpson Kitchen,"""Rough!"" Ah, I don't know. You've been pitching that all night."
+55517,229,201,931000,Santa's Little Helper,Simpson Kitchen,Chewy?
+55518,229,202,931000,Homer Simpson,Simpson Kitchen,"""Chewy!"" That's inspired."
+55520,229,204,938000,Lifeways Editor,Springfield Shopper,"Homer, what gives with this review? You say the salad tastes like ""bark"", the potatoes were very . This reads like it was written by a dog."
+55521,229,205,948000,Homer Simpson,Springfield Shopper,Are you crazy? A dog can't type. Unfortunately.
+55522,229,206,952000,Lifeways Editor,Springfield Shopper,"Listen, you gotta shape up. Next week is the ""Taste of Springfield"" festival, and you'll be reviewing every restaurant in town. Remember, people have certain expectations about the Lifeways section."
+55523,229,207,964000,Homer Simpson,Springfield Shopper,Really? Like what?
+55524,229,208,966000,Lifeways Editor,Springfield Shopper,"Oh, I don't know... astrology, Broom Hilda, vacation horror stories, articles about chronic-fatigue syndrome. You know, chick crap."
+55526,229,210,978000,Luigi,The Frying Dutchman,"Homer, he's outta control-a. He gave me a bad review -- so my friend put a horse head in his bed. He ate-a the head and gave it a bad review! True story."
+55527,229,211,988000,Captain Horatio McCallister,The Frying Dutchman,"Arr, well, I've had it with Homer. His bad reviews are sinking our businesses."
+55528,229,212,993000,Akira,The Frying Dutchman,Then why did you put yours in the window?
+55529,229,213,997000,Captain Horatio McCallister,The Frying Dutchman,"It covered the ""D"" from the health inspector."
+55530,229,214,1000000,DINNER THEATRE OWNER,The Frying Dutchman,"Well, I say we ban Homer from our restaurants!"
+55531,229,215,1003000,Akira,The Frying Dutchman,"No, that would be impolite. I say we kill him!"
+55532,229,216,1007000,Deli Owner,The Frying Dutchman,"Now, hold on a minute. Are we restauranteurs or are we murderers?"
+55533,229,217,1010000,Captain Horatio McCallister,The Frying Dutchman,Does that answer your question?
+55534,229,218,1015000,Akira,The Frying Dutchman,"We'll kill him at the ""Taste o' Springfield"" festival. We'll give Homer all he can eat, 'til he can eat no more. Then he'll get his just dessert."
+55535,229,219,1027000,French Chef,The Frying Dutchman,This will be Homer Simpson's last lagniappe.
+55536,229,220,1031000,Dinner Theater Owner,The Frying Dutchman,"C'mon, you're gonna kill him with a pastry? I've seen this man eat a bowl of change!"
+55537,229,221,1036000,French Chef,The Frying Dutchman,This éclair has over one million calories.
+55538,229,222,1039000,French Chef,The Frying Dutchman,Twenty-five pounds of butter per square inch.
+55539,229,223,1044000,French Chef,The Frying Dutchman,"Covered with chocolate so dark, light cannot escape its surface..."
+55541,229,225,1049000,French Chef,The Frying Dutchman,"No, no, no. This is just a picture. But Hom-aire Simp-son will find the real thing both delicious and deadly."
+55542,229,226,1058000,Akira,The Frying Dutchman,"Ah, yes. Death by chocolate."
+55543,229,227,1063000,French Chef,The Frying Dutchman,And poison. I'll stick in some poison.
+55545,229,229,1072000,Marge Simpson,TASTE OF SPRINGFIELD FESTIVAL,"Homie, my women's intuition's acting up. Something bad's going to happen if you go in there."
+55546,229,230,1078000,Homer Simpson,TASTE OF SPRINGFIELD FESTIVAL,"Oh, Marge, something bad usually happens to me when I go in anywhere."
+55547,229,231,1083000,Homer Simpson,TASTE OF SPRINGFIELD FESTIVAL,A bat! Now that's a new one.
+55548,229,232,1089000,Homer Simpson,TASTE OF SPRINGFIELD FESTIVAL,"So what are you up to, young lady?"
+55549,229,233,1090000,Lisa Simpson,TASTE OF SPRINGFIELD FESTIVAL,I'm reviewing the festival for our school paper.
+55550,229,234,1093000,Homer Simpson,TASTE OF SPRINGFIELD FESTIVAL,"Oh. Well, I'm glad to see my ex-partner is doing so well without me."
+55551,229,235,1121000,Homer Simpson,TASTE OF SPRINGFIELD FESTIVAL,Pedestrian.
+55552,229,236,1124000,Homer Simpson,TASTE OF SPRINGFIELD FESTIVAL,Uninspired.
+55553,229,237,1127000,Homer Simpson,TASTE OF SPRINGFIELD FESTIVAL,I didn't say stop!
+55555,229,239,1129000,Captain Horatio McCallister,TASTE OF SPRINGFIELD FESTIVAL,Lard ho!
+55556,229,240,1131000,Captain Horatio McCallister,TASTE OF SPRINGFIELD FESTIVAL,"Arrr, 'tis a good sign. Homer's unfastened the top button on his pants."
+55557,229,241,1136000,Akira,TASTE OF SPRINGFIELD FESTIVAL,"No, he's been walking around like that since Thanksgiving."
+55558,229,242,1139000,Captain Horatio McCallister,TASTE OF SPRINGFIELD FESTIVAL,I'm surprised he just doesn't give it up and go for sweatpants.
+55559,229,243,1143000,Akira,TASTE OF SPRINGFIELD FESTIVAL,He says the crotch wears out too fast.
+55560,229,244,1146000,Captain Horatio McCallister,TASTE OF SPRINGFIELD FESTIVAL,Yarr! That's gonna replace the whale in my nightmares.
+55561,229,245,1150000,Akira,TASTE OF SPRINGFIELD FESTIVAL,"Well, don't worry. The giant éclair will knock Homer off the food page... and into the obituaries."
+55562,229,246,1163000,Bart Simpson,TASTE OF SPRINGFIELD FESTIVAL,"Wait a minute, they're gonna kill Dad!"
+55564,229,248,1179000,French Chef,TASTE OF SPRINGFIELD,"Oh, that's-a spicy meatball."
+55565,229,249,1181000,Bart Simpson,TASTE OF SPRINGFIELD,"... So if we don't find Dad, this crazy French guy is gonna kill him!"
+55566,229,250,1184000,Marge Simpson,TASTE OF SPRINGFIELD,Only your father could take a part-time job at a small-town paper and wind up the target of international assassins.
+55567,229,251,1192000,Lisa Simpson,TASTE OF SPRINGFIELD,We can find him faster by splitting up. You take fried foods. You take salty snacks. I'll take desserts. Break!
+55568,229,252,1200000,Homer Simpson,TASTE OF SPRINGFIELD,"Oh, So full... Bellybutton moving from innie to outie..."
+55569,229,253,1215000,Ned Flanders,TASTE OF SPRINGFIELD,"Ooh, that looks scrum-diddly-doodly-duddly --"
+55570,229,254,1218000,French Chef,TASTE OF SPRINGFIELD,Get lost!
+55571,229,255,1219000,Ned Flanders,TASTE OF SPRINGFIELD,"A rude Frenchman? Well, I never!"
+55572,229,256,1223000,Homer Simpson,TASTE OF SPRINGFIELD,"Ooh, sweet."
+55573,229,257,1229000,Lisa Simpson,TASTE OF SPRINGFIELD,"Dad, no!"
+55574,229,258,1236000,Lisa Simpson,TASTE OF SPRINGFIELD,It's gonna kill you!
+55575,229,259,1238000,Homer Simpson,TASTE OF SPRINGFIELD,"Eh, I've had a good run."
+55576,229,260,1240000,Lisa Simpson,TASTE OF SPRINGFIELD,Don't! Uh... um... It's low-fat!
+55577,229,261,1246000,Homer Simpson,TASTE OF SPRINGFIELD,Noooo!
+55578,229,262,1251000,Chief Wiggum,TASTE OF SPRINGFIELD,That was close. Thank God it landed in that smoking crater.
+55580,229,264,1259000,Chief Wiggum,TASTE OF SPRINGFIELD,"Take him into custardy, boys. Attempted Murder One."
+55581,229,265,1263000,Chief Wiggum,TASTE OF SPRINGFIELD,"Now boys, what would you say to some Belgian waffles?"
+55582,229,266,1266000,Lou,TASTE OF SPRINGFIELD,"Actually, I was in the mood for some frittatas."
+55583,229,267,1268000,Chief Wiggum,TASTE OF SPRINGFIELD,Lou and his frittatas.
+55584,229,268,1275000,Chief Wiggum,TASTE OF SPRINGFIELD,"Oh, he likes eggs."
+55585,229,269,1276000,Homer Simpson,TASTE OF SPRINGFIELD,"Oh, Lisa... you saved me! And after all the bad things I said about you."
+55586,229,270,1281000,Lisa Simpson,TASTE OF SPRINGFIELD,What bad things? Why?
+55587,229,271,1283000,Homer Simpson,TASTE OF SPRINGFIELD,"Oh, Lisa, the important thing is, I didn't get my comeuppance, and I never will."
+55588,229,272,1293000,Lisa Simpson,TASTE OF SPRINGFIELD,"Uh, Dad?"
+55589,229,273,1295000,Homer Simpson,TASTE OF SPRINGFIELD,"I know, honey. The important thing is -- run!"
+55590,229,274,1304000,Homer Simpson,TASTE OF SPRINGFIELD,Finally getting my comeuppance.

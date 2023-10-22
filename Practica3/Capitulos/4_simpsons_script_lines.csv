@@ -1,0 +1,305 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+149696,4,1,93000,Bart Simpson,Simpson Home,"Oh, yeah?"
+149697,4,2,93000,Lisa Simpson,Simpson Home,Yeah!
+149613,4,3,94000,Bart Simpson,Simpson Home,"Oh, yeah?"
+149614,4,4,94000,Lisa Simpson,Simpson Home,Yeah!
+149615,4,5,95000,Bart Simpson,Simpson Home,"Oh, yeah?"
+149647,4,6,95000,Lisa Simpson,Simpson Home,Yeah!
+149671,4,7,97000,Bart Simpson,Simpson Home,"Oh, yeah?"
+149672,4,8,97000,Lisa Simpson,Simpson Home,Yeah!
+149673,4,9,98000,Homer Simpson,Simpson Home,Hey! What's the problem here?
+149699,4,10,100000,Lisa Simpson,Simpson Home,We were fighting over which one of us loves you more.
+149700,4,11,102000,Homer Simpson,Simpson Home,"You were? Aw, well go ahead."
+149701,4,12,106000,Bart Simpson,Simpson Home,You love him more!
+149702,4,13,107000,Lisa Simpson,Simpson Home,"No, you do!"
+149703,4,14,108000,Bart Simpson,Simpson Home,"No, I don't!"
+149704,4,15,109000,Lisa Simpson,Simpson Home,"Yes, you do!"
+149705,4,16,109000,Bart Simpson,Simpson Home,No I don't!
+149706,4,17,111000,Homer Simpson,Simpson Home,"Look, you'd better get this all out of your system right now. I don't want you embarrassing me at my boss's picnic."
+149708,4,19,117000,Homer Simpson,KITCHEN,Mmmm! Marshmallow!
+149709,4,20,124000,Marge Simpson,KITCHEN,Homer!
+149710,4,21,126000,Homer Simpson,KITCHEN,"I'm trying to get at least some of the unfortunate noises out of my system while I can, Marge. I don't want to embarrass myself at the company picnic."
+149712,4,23,133000,Homer Simpson,KITCHEN,Are you sure that's enough? You know how the boss loves your delicious gelatin desserts.
+149713,4,24,137000,Marge Simpson,KITCHEN,"Oh, Homer, Mr. Burns just said he liked it. Once."
+149714,4,25,139000,Homer Simpson,KITCHEN,"Marge, that's the only time he's ever spoken to me without using the word ""bonehead""."
+149717,4,28,139000,Homer Simpson,Car,"There it is, kids... Stately Burns Manor. Heaven on earth."
+149720,4,31,156000,Homer Simpson,ANOTHER PART OF THE ROAD,"Okay, now look. My boss is gonna be at this picnic, so I want you to show your father some love and/or respect."
+149721,4,32,163000,Lisa Simpson,ANOTHER PART OF THE ROAD,Tough choice.
+149722,4,33,164000,Bart Simpson,ANOTHER PART OF THE ROAD,I'm picking respect.
+149724,4,35,165000,C. Montgomery Burns,Burns Manor,Good to see you. Glad you could make it.
+149725,4,36,167000,MR. GAMMILL,Burns Manor,"Oh, thank you, Mr. Burns. I'm so glad you invited us."
+149726,4,37,170000,TOM,Burns Manor,Not me. I had to miss little league for this.
+149727,4,38,172000,MR. GAMMILL,Burns Manor,"Quiet, Tom."
+149728,4,39,173000,C. Montgomery Burns,Burns Manor,"Oh, please, please, don't fight. Just go out back and have a good time."
+149729,4,40,177000,C. Montgomery Burns,Burns Manor,"Fire that man, Smithers. I don't want him or his unpleasant family to ruin my picnic."
+149730,4,41,182000,Waylon Smithers,Burns Manor,"He'll be gone by the Tug-of-War, sir."
+149731,4,42,184000,C. Montgomery Burns,Burns Manor,Excellent!
+149732,4,43,186000,Homer Simpson,Burns Manor,"Afternoon, Mr. Burns."
+149733,4,44,187000,C. Montgomery Burns,Burns Manor,"Ah... Hello, there, uh... uh..."
+149734,4,45,190000,Homer Simpson,Burns Manor,"Simpson, Homer."
+149735,4,46,191000,Waylon Smithers,Burns Manor,"Here you go, sir."
+149736,4,47,193000,C. Montgomery Burns,Burns Manor,"Oh yes. And this must be your lovely wife... ... ""Marge."" And look at little... ... ""Lisa"". Why, she's growing like a weed. And this must be... ... ""Brat""."
+149737,4,48,204000,Bart Simpson,Burns Manor,Bart.
+149738,4,49,205000,Homer Simpson,Burns Manor,"Don't correct the man, Brat. Oh, Boss, look what we brought... gelatin desserts."
+149739,4,50,211000,C. Montgomery Burns,Burns Manor,"Oh, for the love of Peter! That's all anybody brought. Some damn fool went around telling everyone I love that slimy goop. Well, toss it in the pile over there."
+149740,4,51,220000,C. Montgomery Burns,Burns Manor,And make yourselves at home.
+149741,4,52,221000,Bart Simpson,Burns Manor,"Hear that, Dad? You can lie around in your underwear and scratch yourself."
+149742,4,53,225000,Homer Simpson,Burns Manor,"Why you, listen to me you..."
+149743,4,54,226000,C. Montgomery Burns,Burns Manor,"Trouble, Simpson?"
+149744,4,55,227000,Homer Simpson,Burns Manor,"No, heh, heh, heh. Just congratulating the son on a fine joke about his old man."
+149746,4,57,237000,Homer Simpson,Burns's Back Yard,"Now, remember, as far as anyone knows, we're a nice, normal family."
+149747,4,58,242000,Lisa Simpson,Burns's Back Yard,"Hey Bart, last one in the fountain's a rotten egg!"
+149748,4,59,245000,Homer Simpson,Burns's Back Yard,Be normal! Be normal!
+149749,4,60,248000,Marge Simpson,Burns's Back Yard,"Oh, what an adorable little girl."
+149750,4,61,253000,Mrs. Long,Burns's Back Yard,"Thank you. Why don't we dump them in the nursery, and get a glass of punch?"
+149751,4,62,257000,Marge Simpson,Burns's Back Yard,"Oh, I'm not much of a drinker."
+149752,4,63,259000,Mrs. Long,Burns's Back Yard,"Hey, isn't that your boy there, torturing the swans?"
+149753,4,64,261000,Homer Simpson,Burns's Back Yard,Bart!
+149754,4,65,264000,Marge Simpson,Burns's Back Yard,Ummm... Maybe I will take you up on that punch.
+149756,4,67,269000,Marge Simpson,NURSERY,Do you think we should leave the kids unsupervised?
+149757,4,68,272000,Mrs. Long,NURSERY,You're right. There.
+149759,4,70,278000,Homer Simpson,Backyard,Bart! Lisa! Maggie!
+149760,4,71,281000,Homer Simpson,Backyard,"Where are you, kids?"
+149761,4,72,283000,Bart Simpson,Backyard,Ooops!
+149762,4,73,285000,Homer Simpson,Backyard,Gotcha!
+149763,4,74,285000,Bart Simpson,Backyard,"Whoa careful, Dad. Blow a gasket and you lose your job."
+149766,4,75,287000,Waylon Smithers,Backyard,"Now hear this! The father-son sack race will begin in five minutes on the north lawn. Participation is mandatory; repeat, mandatory. That is all."
+149767,4,76,298000,Homer Simpson,Backyard,You remember the rules from last year?
+149768,4,77,300000,Bart Simpson,Backyard,Yeah. Shut my mouth and let your boss win.
+149769,4,78,303000,Bart Simpson,Backyard,Hey!
+149770,4,79,304000,Wife #1,Backyard,"I don't know who to love more. My son Joshua, who is captain of the football team, or my daughter Amber, who got the lead in the school play. Usually I use their grades as a tie-breaker, but they both got straight A's this term, so what's a mother to do?"
+149771,4,80,319000,Marge Simpson,Backyard,"Uh-huh. Well, uh... I sense greatness in my family."
+149772,4,81,321000,Wife #2,Backyard,Your family?
+149773,4,82,322000,Marge Simpson,Backyard,"Well, it's a greatness that others can't see, but it's there and if it's not true greatness we have, we're at least average. I don't want to alarm anyone, but I think there's a li'l al-key-hol in this punch."
+149775,4,84,341000,Waylon Smithers,Backyard,"Mr. Burns, are you ready?"
+149776,4,85,343000,C. Montgomery Burns,Backyard,Yes.
+149777,4,86,344000,Waylon Smithers,Backyard,Are you set?
+149778,4,87,345000,C. Montgomery Burns,Backyard,Yes.
+149779,4,88,346000,Waylon Smithers,Backyard,"Go, Mr. Burns."
+149780,4,89,356000,Bart Simpson,Backyard,"Man, this is pathetic. I'm goin' for it."
+149781,4,90,360000,Homer Simpson,Backyard,"Bart! No! No! No, no! Oh no, Bart, No! Don't! Noooo!"
+149782,4,91,373000,C. Montgomery Burns,Backyard,Close one this year.
+149783,4,92,377000,Marge Simpson,Backyard,Here we sit enjoying the shade.
+149784,4,93,379000,Other Women,Backyard,"Hey brother, pour the wine."
+149785,4,94,381000,Marge Simpson,Backyard,Drink the drink that I have made.
+149786,4,95,383000,Other Women,Backyard,"Hey brother, pour the wine."
+149787,4,96,385000,Marge Simpson,Backyard,He's here at last my one and only. Good-bye friends and don't be lonely.
+149788,4,97,389000,Other Women,Backyard,"Hey brother, pour the wine."
+149789,4,98,390000,Homer Simpson,Backyard,"Marge, I need you."
+149790,4,99,391000,Marge Simpson,Backyard,Hey Homie. Did you try the punch?
+149791,4,100,394000,Homer Simpson,Backyard,"Snap out of it, Marge. You've got to come with me--the boss is going to make a toast!"
+149792,4,101,399000,Marge Simpson,Backyard,"Well, I'm not much of a drinker..."
+149793,4,102,401000,Homer Simpson,Backyard,"Well, you picked a perfect time to start."
+149794,4,103,409000,C. Montgomery Burns,Backyard,"Musicians, cease that infernal tutlitating. ""Thank you all..."" ""...for coming."""
+149764,4,104,419000,Homer Simpson,Backyard,Marge! Knock it off!
+149796,4,105,421000,Marge Simpson,Backyard,"Oh, I'm sorry. I'm Sorry. Sorry."
+149797,4,106,424000,Homer Simpson,Backyard,Marge!
+149798,4,107,425000,C. Montgomery Burns,Backyard,But now it's time to say goodbye. Please get off my property until next year. I suggest you don't dawdle. The hounds will be released in ten minutes.
+149799,4,108,439000,Nice Father,Backyard,"Did you have a good time, son?"
+149800,4,109,441000,Nice Boy,Backyard,"Yeah, thanks, Pop."
+149801,4,110,443000,C. Montgomery Burns,Backyard,Awww. That's the kind of family unity I like to see. Smithers...
+149802,4,111,447000,Waylon Smithers,Backyard,"Yes, sir?"
+149803,4,112,447000,C. Montgomery Burns,Backyard,Get that man's name. I predict big things for him down at the power plant.
+149804,4,113,452000,Homer Simpson,Backyard,"Quick, Bart, give me a kiss."
+149805,4,114,454000,Bart Simpson,Backyard,"Kiss you? But, Dad, I'm your kid!"
+149806,4,115,456000,Homer Simpson,Backyard,"Bart, please. Five bucks for a kiss."
+149807,4,116,462000,C. Montgomery Burns,Backyard,I've never seen such an obvious attempt to curry my favor.
+149808,4,117,466000,Waylon Smithers,Backyard,"Fabulous observation, sir. Just fabulous."
+149810,4,119,470000,Homer Simpson,DIRT ROAD,"Boy, I'm glad that's over. Now we can go home and act normal again."
+149811,4,120,474000,Nice Father,DIRT ROAD,What do you mean?
+149812,4,121,475000,Homer Simpson,DIRT ROAD,"Oh come on. That cornball routine. ""I love you, Daddy."" Give me a break."
+149813,4,122,482000,Nice Father,DIRT ROAD,I pity you.
+149814,4,123,483000,Homer Simpson,DIRT ROAD,Why?
+149815,4,124,484000,Nice Boy,DIRT ROAD,After you.
+149816,4,125,486000,NICE GIRL,DIRT ROAD,Thank you so much.
+149817,4,126,487000,Lisa Simpson,DIRT ROAD,Me first!
+149818,4,127,488000,Bart Simpson,DIRT ROAD,"No, me!"
+149819,4,128,489000,Lisa Simpson,DIRT ROAD,"No, me!"
+149820,4,129,490000,Bart Simpson,DIRT ROAD,"No, Me!"
+149821,4,130,491000,Lisa Simpson,DIRT ROAD,Me!
+149822,4,131,491000,Bart Simpson,DIRT ROAD,Me.
+149823,4,132,492000,Nice Mother,DIRT ROAD,"Honey, you look tired. Would you like me to drive?"
+149824,4,133,496000,Marge Simpson,DIRT ROAD,"Ohhh, Homie. I think I'm going to be sick."
+149825,4,134,499000,NICE FAMILY,DIRT ROAD,"There was a farmer who had a dog. And Bingo was his name, oh..."
+149826,4,135,504000,NICE FAMILY,DIRT ROAD,"B-I-N-G-O, B-I-N-G-O, B-I-N-G-O. And Bingo was his name! Oh!"
+149827,4,136,512000,Marge Simpson,DIRT ROAD,"Homie, get in the car."
+149828,4,137,514000,Lisa Simpson,DIRT ROAD,This is where you belong.
+149829,4,138,515000,Bart Simpson,DIRT ROAD,"Yeah, Homer. Room for one more."
+149830,4,139,519000,Bart Simpson,DIRT ROAD,One of us! One of us! One of us! One of us!
+149833,4,141,527000,NICE FAMILY,Road,"B-I-N-G-O, B-I-N-G-O, B-I-N-G-O. And Bingo was his name! Oh!"
+149835,4,143,540000,Announcer,Simpson Living Room,"The father of the family has worked all day to find this food for his children. Unable to fend for themselves, the baby bald eaglets are dependant on their mother regurgitating the food, which he has found."
+149836,4,144,553000,Marge Simpson,Simpson Living Room,Ohh!
+149837,4,145,553000,Lisa Simpson,Simpson Living Room,Hey!
+149838,4,146,554000,Homer Simpson,Simpson Living Room,"Look everybody, yesterday was a real eye-opener. We've got to do better as a family. So tonight we're not going to shovel food in our mouths while we stare at the TV. We're going to eat at the dining room table like a normal family."
+149840,4,148,568000,Lisa Simpson,Simpson Dining Room,"Happy, Dad?"
+149841,4,149,570000,Homer Simpson,Simpson Dining Room,Yes.
+149842,4,150,571000,Lisa Simpson,Simpson Dining Room,Good. Commence shovelling.
+149843,4,151,573000,Homer Simpson,Simpson Dining Room,No. We're going to say grace first.
+149844,4,152,577000,Bart Simpson,Simpson Dining Room,"Okay. Rub a dub dub, thanks for the grub."
+149845,4,153,581000,Homer Simpson,Simpson Dining Room,"No! Ignore the boy, Lord. Now can the chatter and bow your heads. Dear Lord, thank you for this microwaved bounty, even though we don't deserve it. I mean, our kids are uncontrollable hellions... pardon my French... but they act like savages! Did you see them at the picnic? Oh, of course you did. You're everywhere. You're omnivorous. Oh, Lord, why did you smite me with this family?"
+149846,4,154,607000,Lisa Simpson,Simpson Dining Room,Amen. Let's eat.
+149847,4,155,610000,Homer Simpson,Simpson Dining Room,No! I'm not done yet.
+149848,4,156,612000,Marge Simpson,Simpson Dining Room,"But Homer, how long are we supposed to sit here and listen to you badmouth us to the Man upstairs?"
+149849,4,157,617000,Homer Simpson,Simpson Dining Room,"I'm sorry, Marge, but sometimes I think we're the worst family in town."
+149850,4,158,620000,Marge Simpson,Simpson Dining Room,Maybe we should move to a larger community.
+149851,4,159,622000,Bart Simpson,Simpson Dining Room,"Don't have a cow, Dad."
+149852,4,160,624000,Lisa Simpson,Simpson Dining Room,The sad truth is all families are like us.
+149853,4,161,628000,Homer Simpson,Simpson Dining Room,"You think so, huh? Well, there's only one way to find out. Follow me."
+149855,4,163,637000,Homer Simpson,NEIGHBOR #1'S HOUSE,"Look at that, kids! No fighting, no yelling..."
+149856,4,164,640000,Bart Simpson,NEIGHBOR #1'S HOUSE,No belching.
+149857,4,165,641000,Lisa Simpson,NEIGHBOR #1'S HOUSE,The dad has a shirt on.
+149858,4,166,643000,Marge Simpson,NEIGHBOR #1'S HOUSE,"Look, napkins."
+149832,4,167,644000,Bart Simpson,NEIGHBOR #1'S HOUSE,These people are obviously freaks.
+149860,4,168,647000,Homer Simpson,NEIGHBOR #1'S HOUSE,"Oh, you think so? Well, let's see what's behind Door Number Two."
+149862,4,170,651000,Lisa Simpson,WILLIAMS' HOUSE,What are they doing?
+149863,4,171,652000,Marge Simpson,WILLIAMS' HOUSE,They're having a conversation. They actually enjoy talking to each other.
+149864,4,172,657000,Homer Simpson,WILLIAMS' HOUSE,I wish I could hear what they're saying.
+149866,4,174,658000,Williams Boy,WILLIAMS DEN,"Papa, I believe I heard some rustling in the bushes."
+149867,4,175,661000,Mr. Williams,WILLIAMS DEN,I did too. Better get my gun.
+149869,4,177,664000,Lisa Simpson,WILLIAMS' LAWN,Where's he going?
+149870,4,178,666000,Homer Simpson,WILLIAMS' LAWN,Probably to get the old man his pipe and slippers.
+149872,4,180,680000,Bart Simpson,Another House,"Whoa, look at this place. What a dump."
+149873,4,181,685000,Homer Simpson,Another House,It's worse than you think. I just trampled these poor saps' flower bed.
+149874,4,182,690000,Marge Simpson,Another House,"Homer, this is our house."
+149876,4,184,693000,Marge Simpson,Another House,"Are you coming in, Homer?"
+149877,4,185,695000,Homer Simpson,Another House,"No, no. I want to be alone with my thought."
+149879,4,187,699000,BOXING ANNOUNCER,Moe's Tavern,The fans are getting just a little bit anxious here folks...
+149880,4,188,701000,Homer Simpson,Moe's Tavern,"Another beer, Moe."
+149881,4,189,702000,Moe Szyslak,Moe's Tavern,"What's the matter, Homer? Bloodiest fight of the year, and you're sittin' there like a thirsty bump on a log."
+149882,4,190,708000,Moe Szyslak,Moe's Tavern,Eddie.
+149883,4,191,709000,Eddie,Moe's Tavern,"Evening, Moe."
+149884,4,192,710000,Moe Szyslak,Moe's Tavern,Want some pretzels?
+149885,4,193,712000,Eddie,Moe's Tavern,"No, thanks. We're on duty. Couple beers would be nice, though."
+149886,4,194,714000,Moe Szyslak,Moe's Tavern,"That'll be two bucks, boys. Just kidding!"
+149887,4,195,718000,Lou,Moe's Tavern,"Good one, Moe. Hey listen, we're looking for a family of Peeping Toms that has been terrorizing the neighborhood."
+149888,4,196,723000,Lou,Moe's Tavern,"Quiet, boy. Let the nice people enjoy their beers. Uh, don't worry. This dog has the scent."
+149889,4,197,731000,Eddie,Moe's Tavern,Hey! What's gotten into Bobo?
+149890,4,198,731000,Homer Simpson,Moe's Tavern,I've got some wieners in my pocket.
+149891,4,199,735000,Eddie,Moe's Tavern,"That figures. Come on, you stupid dog."
+149894,4,200,740000,Homer Simpson,Moe's Tavern,"You know, Moe, my Mom once said something that really stuck with me. She said, ""Homer, you're a big disappointment,"" and, God bless her soul, she was really onto something."
+149895,4,201,754000,Barney Gumble,Moe's Tavern,"Don't blame yourself, Homer. You got dealt a bad hand. You got crummy little kids that nobody can control."
+149896,4,202,759000,Homer Simpson,Moe's Tavern,"You can't talk that way about my kids. Or, at least two of them."
+149897,4,203,762000,Barney Gumble,Moe's Tavern,Why? You got two I haven't met?
+149898,4,204,765000,Homer Simpson,Moe's Tavern,"Why, you... Here's five you haven't met."
+149899,4,205,766000,BOXING ANNOUNCER,Moe's Tavern,"And a tremendous right! That's just got to hurt! Ladies and gentlemen, this fight is over!"
+149900,4,206,772000,TV-STATION ANNOUNCER,Moe's Tavern,"All-Star Boxing is brought to you by ""Dr. Marvin Monroe's Family Therapy Center""."
+149901,4,207,778000,Homer Simpson,Moe's Tavern,Huh... what?
+149902,4,208,780000,Tv Wife,Moe's Tavern,"Honey, aren't you going to work today?"
+149903,4,209,783000,Tv Husband,Moe's Tavern,"No, I don't think so."
+149904,4,210,784000,Tv Wife,Moe's Tavern,"Honey, you have a problem. And it won't get better till you admit it."
+149905,4,211,787000,Tv Husband,Moe's Tavern,I admit this: You better shut your big yap.
+149906,4,212,790000,Tv Wife,Moe's Tavern,"Oh you, shut up."
+149907,4,213,792000,Tv Husband,Moe's Tavern,"No, you shut up."
+149908,4,214,794000,Tv Wife,Moe's Tavern,"No, you shut up."
+149909,4,215,794000,Tv Husband,Moe's Tavern,"Oh, Shut up!"
+149910,4,216,794000,Tv Wife,Moe's Tavern,Shut up!
+149911,4,217,794000,Tv Husband,Moe's Tavern,Shut up!
+149912,4,218,795000,Small Boy,Moe's Tavern,Why don't you both shut up!
+149913,4,219,798000,Dr. Marvin Monroe,Moe's Tavern,"Hi, friends. I'm Dr. Marvin Monroe. Does this scene look familiar? If so, I can help. No gimmicks, no pills, no fad diets. Just family bliss, or double your money back. So call today!"
+149914,4,220,812000,Announcer,Moe's Tavern,Dr. Marvin Monroe's Family Therapy Center. 1-800-555-HUGS. Why don't you call... Right now?
+149915,4,221,818000,Homer Simpson,Moe's Tavern,When will I learn? The answers to life's problems aren't at the bottom of a bottle. Heh-heh. They're on TV!
+149917,4,223,841000,Homer Simpson,Simpson Living Room,"All right, time for a family meeting!"
+149919,4,225,844000,Lisa Simpson,Simpson Living Room,Why can't we have a meeting when you're watching TV?
+149920,4,226,846000,Homer Simpson,Simpson Living Room,"Now, look, you know and I know this family needs help. Professional help. So I made us an appointment with Dr. Marvin Monroe."
+149921,4,227,854000,Bart Simpson,Simpson Living Room,The fat guy on TV?
+149892,4,228,856000,Lisa Simpson,Simpson Living Room,You're sending us to a doctor who advertises on pro wrestling?
+149922,4,229,859000,Homer Simpson,Simpson Living Room,"Boxing, Lisa, boxing. There's a world of difference."
+149923,4,230,862000,Marge Simpson,Simpson Living Room,"Gee, Homer, are you sure this is the right thing to do?"
+149924,4,231,864000,Homer Simpson,Simpson Living Room,"Honey, I've given this matter a lot of study. And of all the commercials I saw, his was the best. All it costs is two hundred and fifty dollars."
+149925,4,232,873000,Marge Simpson,Simpson Living Room,But we don't have that kind of money.
+149926,4,233,874000,Homer Simpson,Simpson Living Room,"Well, then, we're just going to have to dig deep. Marge, go get the kids' college fund."
+149927,4,234,879000,Lisa Simpson,Simpson Living Room,Hey!
+149928,4,235,880000,Marge Simpson,Simpson Living Room,"Oh, Homer."
+149929,4,236,881000,Homer Simpson,Simpson Living Room,"Oh, come on, Marge. Why scrimp now on the off-chance that they'll actually get in someplace?"
+149930,4,237,886000,Marge Simpson,Simpson Living Room,"...forty-eight, forty-nine, fifty. Eighty-eight dollars and fifty cents."
+149931,4,238,892000,Homer Simpson,Simpson Living Room,That's it? That's the college fund we've been saving for all these years?
+149932,4,239,896000,Lisa Simpson,Simpson Living Room,I guess I'd have needed a partial scholarship.
+149933,4,240,898000,Homer Simpson,Simpson Living Room,"Well, we're not licked yet. To save this family, we're gonna have to make the supreme sacrifice."
+149934,4,241,903000,Lisa Simpson,Simpson Living Room,"No, Dad! Please don't pawn the TV!"
+149935,4,242,907000,Bart Simpson,Simpson Living Room,"Oh, c'mon Dad! Anything but that!"
+149936,4,243,910000,Marge Simpson,Simpson Living Room,"Homer, couldn't we pawn my engagement ring instead?"
+149937,4,244,913000,Homer Simpson,Simpson Living Room,"Now, I appreciate that, honey, but we need one hundred and fifty dollars here."
+149939,4,246,917000,Pawn Broker,PAWN SHOP,"Afternoon, Simpson. So what can I do for you?"
+149940,4,247,921000,Homer Simpson,PAWN SHOP,Would you pay one hundred fifty dollars for this lovely Motorola?
+149941,4,248,925000,Pawn Broker,PAWN SHOP,Is it cable-ready?
+149942,4,249,927000,Homer Simpson,PAWN SHOP,Ready as she'll ever be!
+149943,4,250,929000,Pawn Broker,PAWN SHOP,"Mister, you got yourself a deal."
+149945,4,252,936000,Marge Simpson,Family Therapy Center,"All our money, the college funds, the TV. Homer, you're driving a stake through the hearts of those who love you."
+149946,4,253,943000,Homer Simpson,Family Therapy Center,"Hey, no pain, no gain."
+149947,4,254,945000,Receptionist,Family Therapy Center,. Will you be paying by cash or check?
+149948,4,255,947000,Homer Simpson,Family Therapy Center,"Cash, of course. I've got two hundred and fifty dollars right here with me. I'm holding it right now. Here it is. Look. Check it out. Two hundred and fifty big ones."
+149950,4,256,959000,Bart Simpson,Family Therapy Center,"If you really want to impress her, show her the big empty space where our TV used to be."
+149951,4,257,962000,Homer Simpson,Family Therapy Center,Bart!
+149952,4,258,962000,Homer-ish Husband,Family Therapy Center,"Come on, family. Let's go celebrate our new found ability to express love for each other. I'm taking you out for frosty chocolate milkshakes!"
+149953,4,259,974000,Lisa Simpson,Family Therapy Center,There go my young-girl dreams of Vassar.
+149955,4,261,978000,Dr. Marvin Monroe,Dr. Monroe's Office,"Hello, I'm Dr. Marvin Monroe. No doubt you recognize me from TV."
+149956,4,262,982000,Lisa Simpson,Dr. Monroe's Office,We would if we had one.
+149957,4,263,983000,Homer Simpson,Dr. Monroe's Office,Lisa!
+149958,4,264,984000,Dr. Marvin Monroe,Dr. Monroe's Office,"No, no, Homer, don't stifle the youngster. Your family must feel free to express itself. That's what these pads and jumbo markers are for. I want you to draw for me your fears, your anxieties, the roots of your unhappiness. Now take a deep, cleansing breath...and begin."
+149959,4,265,1010000,Dr. Marvin Monroe,Dr. Monroe's Office,No surprises here. Homer?
+149961,4,267,1016000,Dr. Marvin Monroe,Dr. Monroe's Office,"Homer, what have you got for us? Homer?"
+149962,4,268,1023000,Homer Simpson,Dr. Monroe's Office,"Whoops. Sorry, I wasn't paying attention."
+149963,4,269,1025000,Dr. Marvin Monroe,Dr. Monroe's Office,"Well, if you had been paying attention, perhaps you would have noticed that your family sees you as a rather stern authority figure - an ogre, if you will."
+149964,4,270,1034000,Marge Simpson,Dr. Monroe's Office,"Now, Doctor, that's not true."
+149965,4,271,1035000,Lisa Simpson,Dr. Monroe's Office,"""Ogre"" is such a strong word."
+149966,4,272,1038000,Bart Simpson,Dr. Monroe's Office,"Right on, Doc. Another successful diagnosis."
+149967,4,273,1041000,Dr. Marvin Monroe,Dr. Monroe's Office,"Whoa! Okay, you want to kill each other. That's good. That's healthy. There's nothing necessarily wrong with hostile conflict. All I ask is that you use my patented aggression therapy mallets."
+149968,4,274,1055000,Homer Simpson,Dr. Monroe's Office,Good idea.
+149969,4,275,1056000,Bart Simpson,Dr. Monroe's Office,All right!
+149970,4,276,1057000,Marge Simpson,Dr. Monroe's Office,I don't know...
+149971,4,277,1058000,Dr. Marvin Monroe,Dr. Monroe's Office,"Okay, let's take another deep, cleansing breath."
+149972,4,278,1073000,Homer Simpson,Dr. Monroe's Office,Wait a minute. These mallet things are padded with foam rubber. What's the point?
+149973,4,279,1078000,Bart Simpson,Dr. Monroe's Office,"They'd work much better without the padding, Doc."
+149974,4,280,1080000,Dr. Marvin Monroe,Dr. Monroe's Office,"No, no. That's not true."
+149975,4,281,1083000,Bart Simpson,Dr. Monroe's Office,See.
+149976,4,282,1083000,Dr. Marvin Monroe,Dr. Monroe's Office,Ow! Gimme that.
+149978,4,283,1084000,Dr. Marvin Monroe,Dr. Monroe's Office,"Yes, well, that concludes this portion of our treatment."
+149979,4,284,1088000,Marge Simpson,Dr. Monroe's Office,Are we cured yet?
+149980,4,285,1089000,Dr. Marvin Monroe,Dr. Monroe's Office,"Don't be ridiculous. You will be cured, but it's going to require somewhat more unorthodox methods."
+149981,4,286,1096000,Homer Simpson,Dr. Monroe's Office,Unortho what?
+149982,4,287,1097000,Dr. Marvin Monroe,Dr. Monroe's Office,"Don't worry, I'll have plenty of time to explain while I warm up the electric generator."
+149984,4,289,1104000,Dr. Marvin Monroe,DR. MONROE'S LABORATORY,"Everyone comfy? Good. Now, don't touch any of those buttons in front of you, for a very important reason, i.e. you are wired in to the rest of your family. You have the ability to shock them, and they have the ability to shock--"
+149985,4,290,1115000,Homer Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+149986,4,291,1119000,Bart Simpson,DR. MONROE'S LABORATORY,Just testing.
+149987,4,292,1120000,Homer Simpson,DR. MONROE'S LABORATORY,Why you...
+149988,4,293,1121000,Dr. Marvin Monroe,DR. MONROE'S LABORATORY,"No, Homer! Not yet!"
+149990,4,295,1123000,Dr. Marvin Monroe,DR. MONROE'S LABORATORY,"You see, this is what is known as aversion therapy. When someone hurts you emotionally, you will hurt them physically, and gradually you will learn not to hurt each other at all. And won't that be wonderful, Homer?"
+149991,4,296,1135000,Homer Simpson,DR. MONROE'S LABORATORY,"Oh, yes, doctor."
+149992,4,297,1138000,Bart Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+149993,4,298,1139000,Lisa Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+149994,4,299,1140000,Marge Simpson,DR. MONROE'S LABORATORY,"Bart, how could you shock your little sister?"
+149995,4,300,1142000,Bart Simpson,DR. MONROE'S LABORATORY,My finger slipped.
+149996,4,301,1144000,Bart Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+149997,4,302,1144000,Lisa Simpson,DR. MONROE'S LABORATORY,So did mine.
+149998,4,303,1148000,Marge Simpson,DR. MONROE'S LABORATORY,Bart! Lisa! Stop that.
+149999,4,304,1154000,Lisa Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+150000,4,305,1154000,Homer Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+150001,4,306,1154000,Lisa Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+150002,4,307,1154000,Marge Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+150003,4,308,1154000,Bart Simpson,DR. MONROE'S LABORATORY,Arrrgh!
+150004,4,309,1154000,Dr. Marvin Monroe,DR. MONROE'S LABORATORY,"No, no. No! No, wait a minute! Wait! Wait! Folks! Folks, if I could... Not yet! This is not the way to get healthy!"
+150009,4,314,1176000,Waylon Smithers,Springfield Nuclear Power Plant,"Boy, someone's really gobbling up the juice, Sir."
+150012,4,315,1179000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Excellent, excellent. Perhaps this energy conservation fad is as dead as the dodo."
+150014,4,317,1191000,Homer Simpson,Laboratory,Arrrgh!
+150015,4,318,1191000,Dr. Marvin Monroe,Laboratory,"No, no!"
+150016,4,319,1191000,Bart Simpson,Laboratory,Arrrgh!
+150017,4,320,1191000,Lisa Simpson,Laboratory,Arrrgh!
+150018,4,321,1191000,Marge Simpson,Laboratory,Arrrgh!
+150019,4,322,1191000,Homer Simpson,Laboratory,Arrrgh!
+150020,4,323,1191000,Dr. Marvin Monroe,Laboratory,Stop! No!
+150021,4,324,1191000,Receptionist,Laboratory,Doctor Monroe! Your other patients have fled the building!
+150022,4,325,1195000,Dr. Marvin Monroe,Laboratory,Stop! Stop! You're damaging the equipment.
+150023,4,326,1204000,Bart Simpson,Laboratory,"Hey, nice hair, Mom."
+150024,4,327,1205000,Marge Simpson,Laboratory,"Gee, I thought we were making real progress."
+150025,4,328,1208000,Dr. Marvin Monroe,Laboratory,"No, I'm sorry, you're not. Please, you've just got to go."
+150026,4,329,1212000,Homer Simpson,Laboratory,"Wait a minute, Doc! Your TV commercial said family bliss, or double our money back!"
+150027,4,330,1218000,Dr. Marvin Monroe,Laboratory,Oh but that was just... All right. Get the money.
+150029,4,332,1225000,Dr. Marvin Monroe,Waiting Room,"five hundred. Here! Just go, and never tell anyone you were here."
+150030,4,333,1235000,Homer Simpson,Waiting Room,Wow! Five hundred smackers!
+150031,4,334,1237000,Marge Simpson,Waiting Room,"Homer, how wonderful. Our first pleasant surprise."
+150032,4,335,1242000,Lisa Simpson,Waiting Room,It's not the money as much as the feeling that we earned it.
+150033,4,336,1245000,Bart Simpson,Waiting Room,"You did it, Dad."
+150034,4,337,1247000,Marge Simpson,Waiting Room,"Excuse me, dear. Shouldn't we be heading down to the pawn shop to get our TV back?"
+150035,4,338,1252000,Homer Simpson,Waiting Room,That piece of junk? Forget it! We're going to get a new TV! Twenty-one-inch screen... realistic flesh tones... and a little cart so we can wheel it into the dining room on holidays!
+150036,4,339,1263000,Bart Simpson,Waiting Room,Yay!
+150037,4,340,1265000,Marge Simpson,Waiting Room,"Oh, Homer... we love you."

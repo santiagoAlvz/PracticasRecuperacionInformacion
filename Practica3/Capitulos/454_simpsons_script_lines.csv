@@ -1,0 +1,242 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+117426,454,1,50000,Groundskeeper Willie,Springfield Elementary School,Ach. That stump is really eatin' into my tractor budget. I'll have to use me explosives.
+117427,454,2,60000,Bart Simpson,Springfield Elementary School,Explosives? Great!
+117428,454,3,62000,Bart Simpson,Springfield Elementary School,"If we put charges on the load-bearing walls, we can blow up detention hall while leaving the art room unharmed."
+117403,454,5,68000,Bart Simpson,Springfield Elementary School,"Hey, I like art, okay?"
+117430,454,6,69000,Groundskeeper Willie,Springfield Elementary School,"I'm blowin' up the stump, not the school."
+117431,454,7,72000,Bart Simpson,Springfield Elementary School,"Right, right. You never saw that."
+117432,454,8,87000,Nelson Muntz,Springfield Elementary School,Sweeet!
+117433,454,9,87000,Groundskeeper Willie,Springfield Elementary School,"Well done, boy!"
+117434,454,10,88000,Bart Simpson,Springfield Elementary School,"Wait, here comes the ""mykeeyah."""
+117435,454,11,88000,Groundskeeper Willie,Springfield Elementary School,"What's a ""mykeeyah?"""
+117436,454,12,92000,Seymour Skinner,Springfield Elementary School,My Kia!
+117438,454,14,97000,Groundskeeper Willie,Springfield Elementary School,"I'm laughing to fit in, but I still don't get it."
+117440,454,16,101000,Ralph Wiggum,Miss Hoover's Classroom,"Miss Hoover, what's our lesson today? Is it school?"
+117441,454,17,108000,Miss Hoover,Miss Hoover's Classroom,"Ooh, I don't know... let's see..."
+117442,454,18,112000,Miss Hoover,Miss Hoover's Classroom,Family trees.
+117443,454,19,114000,Miss Hoover,Miss Hoover's Classroom,Who here knows what a family tree is?
+117444,454,20,117000,Lisa Simpson,Miss Hoover's Classroom,"Ooh, family trees -- the charts representing genealogical relationships in a branching structure!"
+117445,454,21,123000,Miss Hoover,Miss Hoover's Classroom,"Very good, Lisa. Class, your assignment over the weekend will be to make your own family tree, emphasizing any notable or distinguished ancestors."
+117446,454,22,132000,Lisa Simpson,Miss Hoover's Classroom,I can't wait to see what noble branches lie in the Simpson family foliage!
+117448,454,24,138000,Lisa Simpson,Simpson Home,"No, this can't be right."
+117449,454,25,141000,Lisa Simpson,Simpson Home,They're all horrible!
+117450,454,26,144000,Homer Simpson,Simpson Home,"Yeah, the Simpson family is a long line of horse thieves, deadbeats, horse beats, dead thieves, and even a few..."
+117451,454,27,151000,Homer Simpson,Simpson Home,Alcoholics.
+117452,454,28,153000,Lisa Simpson,Simpson Home,"There must have been some good ancestors -- Grampa, don't you know any?"
+117453,454,29,155000,Grampa Simpson,Simpson Home,"Not a one! Maybe the nicest was Abigail Simpson, who you know as the Pittsburgh Poisoner..."
+117454,454,30,164000,Homer Simpson,Simpson Home,"Listen, Lisa. You're gonna find more than you bargained for. If I were you, I wouldn't dig into the past. I lived in some of that past, and I got out for a reason."
+117455,454,31,173000,Lisa Simpson,Simpson Home,"I won't give up. I have to know that somewhere in the muck and the mire and the Pittsburgh Poisoners, this family had a noble spark. And I will find it, even if I have to go back to Adam and Eve."
+117456,454,32,183000,Grampa Simpson,Simpson Home,"Oh, you mean Adam and Eve Simpson! Or as you may know them, Julius and Ethel Rosenberg."
+117457,454,34,198000,Lisa Simpson,Simpson Home,"Well, are you gonna help me or what?"
+117458,454,35,216000,Lisa Simpson,Simpson Home,Thank you.
+117459,454,36,217000,Bart Simpson,Simpson Home,"So, what are you lookin' for?"
+117460,454,37,220000,Lisa Simpson,Simpson Home,Family records for a school project on genealogical--
+117461,454,38,222000,Bart Simpson,Simpson Home,"Hey, that's great."
+117463,454,40,238000,Lisa Simpson,ATTIC,...Dad's idea pad...
+117464,454,41,240000,Lisa Simpson,ATTIC,Bicentennial issue of Reader's Digest...
+117465,454,42,243000,Lisa Simpson,ATTIC,Old ad for Buzz Cola...
+117467,454,44,248000,Lisa Simpson,ATTIC,So dusty.
+117469,454,46,256000,Lisa Simpson,ATTIC,The Diary Of Eliza Simpson?
+117471,454,48,259000,Lisa Simpson,Simpson Home,"This entry's dated April 14th, 1860."
+117472,454,49,262000,Homer Simpson,Simpson Home,"I warn you: I don't know what's in there but if it's about a Simpson, you ain't gonna be proud."
+117473,454,50,267000,Grampa Simpson,Simpson Home,Our ancestors were kicked out of Australia!
+117474,454,51,271000,Marge Simpson,Simpson Home,"Oh stop -- it's the journal of a sweet little girl! Keep reading, honey."
+117475,454,52,275000,Lisa Simpson,Simpson Home,"""Dearest Diary, today I am the happiest girl in Springfield--"""
+117476,454,53,275000,Marge Simpson,Simpson Home,See. All good.
+117477,454,54,280000,Lisa Simpson,Simpson Home,"""...because tomorrow, I shall get my very first slave."""
+117479,454,56,280000,Lisa Simpson,Simpson Home,I can't believe we're descended from slave owners!
+117480,454,57,290000,Homer Simpson,Simpson Home,"Me neither. For once, the Simpsons were in management!"
+117481,454,58,294000,Marge Simpson,Simpson Home,Homer!
+117483,454,60,295000,Marge Simpson,Simpson Home,"Read a little more, honey."
+117484,454,61,298000,Lisa Simpson,Simpson Home,"""Saturday, April 14, 1860. Dear Diary, I must be brief, for tonight is the grand ball..."""
+117486,454,63,301000,Eliza,MODEST 1860S' HOUSE,"""...at Colonel Burns's plantation. I shall dress myself in finery, like a well-to-do southern belle..."
+117487,454,64,311000,Hiram,MODEST 1860S' HOUSE,What's for dinner?
+117488,454,65,312000,Mabel,MODEST 1860S' HOUSE,Possum.
+117489,454,66,312000,Hiram,MODEST 1860S' HOUSE,Can't we have o-possum?
+117490,454,67,315000,Mabel,MODEST 1860S' HOUSE,Not on your salary.
+117491,454,68,317000,Hiram,MODEST 1860S' HOUSE,I can't believe I buttoned my britches for this.
+117493,454,69,321000,Eliza,MODEST 1860S' HOUSE,"In my elegant gown, no one will suspect that I'm actually on a mission to help my very first slave escape to freedom."""
+117494,454,70,328000,Lisa Simpson,MODEST 1860S' HOUSE,Yes!
+117496,454,72,328000,Lisa Simpson,Simpson Home,She wasn't a slave owner! Our family was on the Underground Railroad!
+117497,454,73,334000,Bart Simpson,Simpson Home,We ran a subway station?
+117498,454,74,336000,Lisa Simpson,Simpson Home,"No, the ""Underground Railroad"" was a bunch of people who helped slaves escape to Canada. There were no actual trains, and it wasn't under ground."
+117499,454,75,342000,Bart Simpson,Simpson Home,"Then they should've called it the ""Above-Ground Normal-Road."""
+117500,454,76,346000,Homer Simpson,Simpson Home,"Good point, Bart."
+117501,454,77,346000,Marge Simpson,Simpson Home,Absolutely right.
+117502,454,78,347000,Lisa Simpson,Simpson Home,I never thought of that before.
+117503,454,79,347000,Marge Simpson,Simpson Home,"Very good, Bart."
+117504,454,80,349000,Homer Simpson,Simpson Home,"That's a great story, Lisa! And you should stop reading right there."
+117505,454,81,355000,Lisa Simpson,Simpson Home,What are you doing? I wanna know what happens next.
+117506,454,82,358000,Homer Simpson,Simpson Home,"Well I don't. The motto of the Simpsons is, ""quit while you're ahead."""
+117507,454,83,359000,Marge Simpson,Simpson Home,I made it into a sampler!
+117508,454,84,365000,Marge Simpson,Simpson Home,"It's like when your father and I left the movie ""Carrie"" right after she was crowned prom queen! She was so happy -- she'd had a lot of problems, but they were all behind her!"
+117509,454,85,375000,Lisa Simpson,Simpson Home,But-but-but-but-but...
+117510,454,86,376000,Homer Simpson,Simpson Home,"Time for bed, sweetie."
+117511,454,87,381000,Eliza,Simpson Home,Lisa... Lisa... It's me... Eliza -- the one good Simpson! I've got so much more to tell you!
+117513,454,89,393000,Lisa Simpson,Lisa's Bedroom,I must know!
+117516,454,92,406000,Homer Simpson,Simpson Home,"You still reading that thing? I'm warning you: when something goes into that vent, it shouldn't come out. Ever!"
+117518,454,94,415000,Lisa Simpson,Vent,"Well I am reading it, and when I'm finished, I'm going to use Eliza's diary for my ""Black History Month"" presentation!"
+117519,454,95,422000,Marge Simpson,Vent,"Ooh, good idea. Bart, what are you doing for Black History Month?"
+117520,454,96,426000,Homer Simpson,Vent,I got an idea: you can march to Selma -- and tell her she's ugly!
+117523,454,98,434000,Lisa Simpson,Vent,"Listen: ""April 20th, 1860. A week ago, I had no idea what the future would bring, which, I guess, is always true of everyone all the time. Anyway, last Saturday night, I went to Colonel Burns's ball..."""
+117525,454,100,442000,Colonel Burns,Burns's Plantation House,"I don't like this new Viennese dance craze -- ""the waltz."" One, two, three / one, two, three... Where's the ""four?"" All music needs a four!"
+117526,454,101,463000,Smithers-like Valet,Burns's Plantation House,"I'll have the orchestra adjust its time signature, Sir."
+117527,454,102,466000,Colonel Burns,Burns's Plantation House,See that you do.
+117528,454,103,479000,Eliza,Burns's Plantation House,"In the confusion, I slipped out of the ball..."
+117530,454,105,479000,Eliza,Garden Outside Burns's Ballroom,"...and made my way to the stables, where I was to meet Mr. Burns's slave Virgil."
+117534,454,109,487000,Eliza,Grateful Gelding Stables,"""But when I got to the stables, he was nowhere to be seen..."""
+117535,454,110,492000,Eliza,Grateful Gelding Stables,Virgil?
+117536,454,111,494000,Eliza,Grateful Gelding Stables,"Virgil, let's go!"
+117538,454,113,501000,Virgil Simpson,Grateful Gelding Stables,You look like you could use a little help.
+117539,454,114,503000,Eliza,Grateful Gelding Stables,"Actually, I'm here to help you. Follow me North to freedom!"
+117540,454,115,506000,Virgil Simpson,Grateful Gelding Stables,I don't think so.
+117541,454,116,508000,Eliza,Grateful Gelding Stables,Why? Because I'm young and I'm a woman?
+117542,454,117,510000,Virgil Simpson,Grateful Gelding Stables,No. Because you're pointing South.
+117543,454,118,514000,Eliza,Grateful Gelding Stables,"Oh right, right, sorry. It's my first time."
+117544,454,119,517000,Virgil Simpson,Grateful Gelding Stables,"That's all right, it's my fourteenth."
+117546,454,121,520000,Eliza,WILDERNESS,"As we made our way northward, a couple of patrollers spotted us..."
+117547,454,122,524000,Patroller #1,WILDERNESS,"Well, well, well. Where do you think you're going?"
+117548,454,123,528000,Lisa Simpson,WILDERNESS,Run!
+117549,454,124,529000,Patroller #2,WILDERNESS,After them!
+117550,454,125,529000,Patroller #1,WILDERNESS,Obviously.
+117551,454,126,531000,Patroller #2,WILDERNESS,"Well, you didn't say it."
+117552,454,127,535000,Eliza,WILDERNESS,"Hearts pounding, we fled into the woods, but their horses were fast."
+117553,454,128,554000,Eliza,WILDERNESS,Escape seemed impossible...
+117554,454,129,559000,Marge Simpson,WILDERNESS,What happened next?
+117492,454,131,561000,Lisa Simpson,Simpson Home,That's all there is -- the rest of the diary has turned to dust!
+117557,454,132,570000,Lisa Simpson,Simpson Home,I'll never know if Eliza got Virgil safely to freedom!
+117558,454,133,574000,Marge Simpson,Simpson Home,"Cheer up, sweetie. Maybe we can find the answer in the library!"
+117559,454,134,578000,Lisa Simpson,Simpson Home,To the reference desk!
+117560,454,135,581000,Homer Simpson,Simpson Home,"The library? Bart, can you believe we're married to those nerds?"
+117563,454,138,587000,Librarian,Library,There are no books about an Eliza Simpson. But I did find this.
+117564,454,139,592000,Marge Simpson,Library,"Oooh, a cookbook!"
+117565,454,140,594000,Lisa Simpson,Library,That's Eliza's mother!
+117566,454,141,597000,Lisa Simpson,Library,"Martha, you are the best."
+117567,454,142,601000,Marge Simpson,Library,"""Pork Butt in Cream,"" ""Snout-fried Neck,"" ""Frog Haunch,"" ""Hooves Au Jus,"" ""Possum Pouch Pie..."""
+117568,454,143,601000,Lisa Simpson,Library,Please don't make those recipes.
+117569,454,144,610000,Marge Simpson,Library,"This one doesn't sound roadkill-y. And, it comes with a story. ""Many years ago, my daughter, Eliza, brought a runaway slave, Virgil, to the house..."""
+117570,454,145,614000,Lisa Simpson,Library,They made it back to the house?! How?!
+117571,454,146,623000,Marge Simpson,Library,"""The patrollers were too fast for Eliza and Virgil...,the patrollers were too fast for eliza and virgil,9
+127764,454,147,Marge Simpson: Luckily they chanced upon a traveling circus...,632000,true,1,248,Marge Simpson,Library,Luckily they chanced upon a traveling circus...,luckily they chanced upon a traveling circus,7
+127765,454,148,(Traveling Circus: ext. traveling circus - field - night (1860)),639000,false,,3699,,Traveling Circus,,,
+127766,454,149,Marge Simpson: ...where they were helped by a crusty old clown.,639000,true,1,3699,Marge Simpson,Traveling Circus,...where they were helped by a crusty old clown.,where they were helped by a crusty old clown,9
+127767,454,150,""Circus Clown: A little schmutz"
+117572,454,151,651000,Virgil Simpson,Traveling Circus,"Well, I am a bit musical."
+117573,454,152,653000,Virgil Simpson,Traveling Circus,THE SUN SHINES BRIGHT ON MY OLD KENTUCKY HOME--
+117574,454,153,661000,Circus Clown,Traveling Circus,Rule number one: never be better than me. And I'm pretty bad.
+117575,454,154,671000,Circus Clown,Traveling Circus,"Nothing to see here -- just a couple of clowns, and the world's youngest bearded lady."
+117576,454,155,676000,Eliza,Traveling Circus,That I is!
+117577,454,156,680000,Circus Clown,Traveling Circus,"Look at her any longer, you're gonna have to pay a nickel."
+117578,454,157,684000,Circus Clown,Traveling Circus,Why do I always ask for a nickel? That's like twenty bucks in two thousand-ten money.
+117580,454,159,690000,Lisa Simpson,Library,Wait. All that was in the recipe?
+117581,454,160,693000,Marge Simpson,Library,It was a footnote. See?
+117582,454,161,695000,Marge Simpson,Library,"""Anyway, I was very proud of Eliza, but my husband Hiram had not quite caught abolition fever..."""
+117583,454,163,695000,Hiram,OLD SIMPSON HOUSE,"Uh-uh, no way! He'll get me in trouble!"
+117584,454,164,705000,Virgil Simpson,OLD SIMPSON HOUSE,Maybe you'll change your mind about me after you try some of my...
+117585,454,165,705000,Virgil Simpson,OLD SIMPSON HOUSE,Wheel cakes.
+117586,454,166,710000,Hiram,OLD SIMPSON HOUSE,Wheel cakes?
+117587,454,167,711000,Virgil Simpson,OLD SIMPSON HOUSE,They're just honey-sweetened batter...
+117588,454,168,714000,Hiram,OLD SIMPSON HOUSE,Go on...
+117589,454,169,715000,Virgil Simpson,OLD SIMPSON HOUSE,...deep-fried in hog lard...
+117590,454,170,717000,Hiram,OLD SIMPSON HOUSE,"Lard, you say..."
+117591,454,171,718000,Virgil Simpson,OLD SIMPSON HOUSE,...then dusted with powdered sugar.
+117592,454,172,721000,Hiram,OLD SIMPSON HOUSE,You can stay.
+117593,454,173,723000,Mabel,OLD SIMPSON HOUSE,You swear you'll help him?
+117594,454,174,726000,Hiram,OLD SIMPSON HOUSE,I give you my word as a Southern gentleman.
+117596,454,176,729000,Lisa Simpson,Library,So they did the right thing -- my quest is fulfilled! Our family has heroes!
+117597,454,177,739000,Librarian,Library,Shh!
+117598,454,178,740000,Lisa Simpson,Library,Our family has heroes!
+117601,454,181,750000,Ralph Wiggum,SPRINGFIELD ELEMENTARY AUDITORIUM,Martin Luther King had a dream. Dreams are where Elmo and Toy Story had a party and I went there!
+117602,454,182,756000,Ralph Wiggum,SPRINGFIELD ELEMENTARY AUDITORIUM,Yay! My turn is over!
+117603,454,183,759000,Seymour Skinner,SPRINGFIELD ELEMENTARY AUDITORIUM,"One of your best, Ralph. Next up, we have Simpson, L.!"
+117604,454,184,762000,Lisa Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,"My Black History Month presentation is called ""The Simpsons: The First Family of Freedom."""
+117605,454,185,762000,Lisa Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,"No, no, no, not now! Quit! Quit! No, don't quit the program, just the update, ya stupid--"
+117606,454,186,777000,Lisa Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,"Computers, right? Our story begins with a spunky little spitfire named Eliza Simpson."
+117607,454,187,783000,Lisa Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,"The year was 1860, and the Underground Railroad was..."
+117609,454,189,788000,Lisa Simpson,Springfield Elementary School Auditorium,"...And though Hiram, Mabel, and Eliza are no longer among us, their truth goes marching on. Thank you."
+117610,454,190,800000,Milhouse Van Houten,Springfield Elementary School Auditorium,"Bravo, Lisa. Very entertaining -- but then again, fairy tales always are."
+117612,454,192,809000,Lisa Simpson,Springfield Elementary School Auditorium,What are you talking about?
+117614,454,193,811000,Milhouse Van Houten,Springfield Elementary School Auditorium,"I hold in my hand another diary. That of my great-great-great great-great grandfafa, Milford Van Houten."
+117615,454,194,824000,Milhouse Van Houten,Springfield Elementary School Auditorium,"""April 22nd, 1860..."""
+117617,454,196,824000,Milford,Springfield,"I was reclining beneath a sarsaparilla tree, reading about one of Mr. Thomas Jefferson's marvelous inventions...when suddenly I heard quite a commotion coming from the Simpson residence."
+117618,454,197,840000,Colonel Burns,Springfield,You're a liar!
+117619,454,198,841000,Homer Simpson,Springfield,Leave me alone! I have shares to crop!
+117621,454,200,843000,Colonel Burns,OLD SIMPSON HOUSE,That's one of Virgil's sugar-sprinkled cake rings! Now where is he?
+117622,454,201,849000,Hiram,OLD SIMPSON HOUSE,I don't have to answer some weak old man with a walking stick.
+117623,454,202,853000,Hiram,OLD SIMPSON HOUSE,A beating stick!
+117624,454,203,855000,Colonel Burns,OLD SIMPSON HOUSE,Brigand! Dastard! Renegade! Mooncalf!
+117625,454,204,860000,Hiram,OLD SIMPSON HOUSE,I can't tell you where he is -- I swore an oath!
+117626,454,205,863000,Colonel Burns,OLD SIMPSON HOUSE,"I see... You know, Simpson, every man has his price. And no one is better at determining said price than yours truly."
+117627,454,206,882000,Colonel Burns,OLD SIMPSON HOUSE,I would say your price is... a pleasant surprise.
+117628,454,207,887000,Hiram,OLD SIMPSON HOUSE,That's exactly my price! Your man Virgil... is... in...
+117629,454,208,892000,Eliza,OLD SIMPSON HOUSE,"Father, no!"
+117630,454,209,893000,Hiram,OLD SIMPSON HOUSE,Eliza! Hold your tongue!
+117631,454,210,894000,Colonel Burns,OLD SIMPSON HOUSE,"Don't worry, I'll handle this one. Young lady, in this day and age, women only express their opinions in diaries to be found long after they're gone. From the day you were born, you were brought up to crave the approval of a man. And I know you really want to be a good girl, and good girls are seen and not heard."
+117632,454,211,918000,Eliza,OLD SIMPSON HOUSE,"Yes, sir."
+117633,454,212,920000,Colonel Burns,OLD SIMPSON HOUSE,Thatta girl.
+117634,454,213,922000,Colonel Burns,OLD SIMPSON HOUSE,Now where's my man?
+117635,454,214,924000,Hiram,OLD SIMPSON HOUSE,In the turnip shed. Now what's my surprise?
+117636,454,215,926000,Colonel Burns,OLD SIMPSON HOUSE,Your surprise is... a new pair of shoes!
+117637,454,216,929000,Hiram,OLD SIMPSON HOUSE,"Oh my God, that surprise is so pleasant!"
+117638,454,217,936000,Milford,OLD SIMPSON HOUSE,After that fateful day...
+117640,454,219,936000,Milhouse Van Houten,SPRINGFIELD ELEMENTARY AUDITORIUM,"""...I could never even look at Eliza again."" It didn't help that the next day he drank bad well water and went blind."
+117613,454,220,947000,Lisa Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,No! You lie! Eliza Simpson can't be a coward! She's the only decent ancestor I have.
+117641,454,221,954000,Groundskeeper Willie,SPRINGFIELD ELEMENTARY AUDITORIUM,"Ach! Take it outside, lassie! We've still got three ""Jackie Robinsons"" and a ""Tuskegee Airmen"" to go..."
+117642,454,222,961000,Groundskeeper Willie,SPRINGFIELD ELEMENTARY AUDITORIUM,...And so many Obamas!
+117643,454,223,963000,Obama Kids,SPRINGFIELD ELEMENTARY AUDITORIUM,Yes we can! / Audacity of hope! / Yes we can! / Let me be clear.
+117645,454,225,970000,Librarian,Springfield Library,"As I told you, we just don't have any books pertaining to Eliza Simpson."
+117646,454,226,974000,Lisa Simpson,Springfield Library,But I need to prove that my ancestor couldn't have backed down to Colonel Burns!
+117647,454,227,979000,C. Montgomery Burns,Springfield Library,"Colonel Burns? Why, I haven't heard my father's name in years."
+117648,454,228,985000,Librarian,Springfield Library,"You know, you could try our film vault."
+117649,454,229,987000,Lisa Simpson,Springfield Library,Huh?
+117650,454,230,988000,Librarian #2,Springfield Library,We have a film vault?
+117651,454,231,990000,Librarian,Springfield Library,It's where we hooked up during the Christmas party.
+117652,454,232,993000,Librarian #2,Springfield Library,Ohhh...
+117654,454,234,998000,Interviewer,FILM VAULT,"So, Miss Eliza, I understand you just turned one hundred."
+117655,454,235,1002000,Eliza,FILM VAULT,It's been quite a life.
+117656,454,236,1005000,Interviewer,FILM VAULT,Any regrets?
+117657,454,237,1006000,Eliza,FILM VAULT,"Just one. When I was a girl, I witnessed a grave injustice... but I held my tongue. That pat on my head from a wicked man has haunted me to this day."
+117658,454,238,1021000,Lisa Simpson,FILM VAULT,There's no noble Simpson.
+117660,454,240,1024000,Lisa Simpson,Simpson Home,"You were right, Dad. I should have quit while I was ahead, instead of learning the horrible truth about our family and Virgil."
+117661,454,241,1035000,Grampa Simpson,Simpson Home,"Aw, don't cry, meat pie. Things worked out pretty well for Virgil in the end."
+117662,454,242,1040000,Lisa Simpson,Simpson Home,What are you talking about? Is there something you know about Virgil that you haven't told us?
+117663,454,243,1045000,Grampa Simpson,Simpson Home,"I'll take that secret to my grave! Or urn, or medical school dissecting table, or wherever you're dumpin' me!"
+117664,454,244,1051000,Homer Simpson,Simpson Home,"Listen, Wrinkles! If you know something that'll cheer up my little girl, you'd better spill it. Or I can make things very uncomfortable for you."
+117665,454,245,1062000,Grampa Simpson,Simpson Home,"Okay, I'll talk! D-Day is June 6th! Repeat: June 6th! Allied forces will land on the beaches of Normandy in the following order: Utah, Omaha, Gold, Juno... are you writing this down, Fritz?"
+117666,454,246,1075000,Homer Simpson,Simpson Home,About Virgil.
+117667,454,247,1076000,Grampa Simpson,Simpson Home,"Oh, right. Well Lisa, Mabel knew her husband well, so she had cooked up a little ""payback pie..."""
+117670,454,250,1086000,Mabel,OLD SIMPSON HOUSE,"Get off my property, Colonel Burns! And if I ever see you in these parts again, you're gonna be a Memphis belle."
+117671,454,251,1094000,Colonel Burns,OLD SIMPSON HOUSE,"Very well. You may have won this round. But some day my history will be told, by my descendants Ken and Rick Burns."
+117672,454,252,1105000,Mabel,OLD SIMPSON HOUSE,I knew you'd break your promise! Now I'm taking Virgil to freedom!
+117673,454,253,1109000,Virgil Simpson,OLD SIMPSON HOUSE,"You defied your husband for me? Man, this is the sixties."
+117674,454,254,1114000,Mabel,OLD SIMPSON HOUSE,Now let's take you to a place where a black man can blend in: Canada.
+117675,454,255,1120000,Grampa Simpson,OLD SIMPSON HOUSE,"So with those words, Mabel and Virgil headed north."
+117677,454,257,1120000,Grampa Simpson,Country Road,But their journey was fraught with peril...
+117678,454,258,1134000,Virgil Simpson,Country Road,"Mabel, why don't I go on alone, and you go back to Hiram?"
+117679,454,259,1137000,Mabel,Country Road,No! There's no life for me with him! I just need to disguise my hair... but how?
+117680,454,260,1143000,Abraham Lincoln,Country Road,May I be of assistance?
+117681,454,261,1145000,Mabel,Country Road,Abraham Lincoln?!
+117682,454,262,1145000,Abraham Lincoln,Country Road,Perhaps this hat will help disguise your hair.
+117683,454,263,1150000,Mabel,Country Road,Thank you. How's it look?
+117684,454,264,1155000,Abraham Lincoln,Country Road,It makes you look like a potbellied stove.
+117686,454,266,1155000,Abraham Lincoln,Country Road,"Hey, hey, ""Honest Abe."" Oh, I'm a riot."
+117688,454,268,1162000,Grampa Simpson,Niagara Falls,"As the border drew closer, so did Virgil and Mabel."
+117689,454,269,1165000,Virgil Simpson,Niagara Falls,After you.
+117690,454,270,1167000,Grampa Simpson,Niagara Falls,"By the time they crossed into Canada, things had changed..."
+117692,454,272,1175000,Grampa Simpson,Bridge,...Mabel divorced Hiram...
+117694,454,274,1175000,Grampa Simpson,Office,...and got one of his shoes in the settlement...Mabel and Virgil lived out the rest of their days in peace.
+117696,454,276,1187000,Grampa Simpson,MODEST SNOW-COVERED HOUSE,"They got married, and since Virgil had no last name, they both took the name Simpson, so that Mabel could keep all her monogrammed table linens."
+117698,454,277,1196000,Grampa Simpson,MODEST SNOW-COVERED HOUSE,"And their son, Abraham Simpson, was my great-grandfather."
+117700,454,279,1206000,Grampa Simpson,Simpson Home,"So you're actually descended from Virgil, not Hiram. Are ya happy?"
+117701,454,280,1211000,Lisa Simpson,Simpson Home,Yes! I'm thrilled! We've regained our family honor and we're one-sixty-fourth black!
+117702,454,281,1218000,Bart Simpson,Simpson Home,So that's why I'm so cool!
+117703,454,282,1221000,Lisa Simpson,Simpson Home,That's why my jazz is so smooth!
+117704,454,283,1223000,Homer Simpson,Simpson Home,And that's why I earn less than my white co-workers!
+117705,454,284,1226000,Lisa Simpson,Simpson Home,"Grampa, why'd you try to keep us from finding this out?"
+117706,454,285,1229000,Grampa Simpson,Simpson Home,"Well, it's hard to explain this to a young person, but people of my generation are... you know..."
+117707,454,286,1236000,Lisa Simpson,Simpson Home,Racists?
+117708,454,287,1236000,Grampa Simpson,Simpson Home,That's it.
+117709,454,288,1238000,Marge Simpson,Simpson Home,"I don't know what the big deal is. I mean, it never bothered any of you that my father's French. You know, Bouvier?"
+117710,454,289,1245000,Homer Simpson,Simpson Home,So that's why I love drinking so much.
+117711,454,290,1248000,Marge Simpson,Simpson Home,"I'm French, not you."
+117712,454,291,1249000,Homer Simpson,Simpson Home,"C'est la vie, baby."

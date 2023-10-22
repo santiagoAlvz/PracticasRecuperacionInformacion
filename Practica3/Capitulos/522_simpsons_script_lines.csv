@@ -1,0 +1,242 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+135570,522,1,10000,Homer Simpson,Simpson Home,I can't believe you're reading when there's so much great stuff on TV.
+135571,522,2,15000,Lisa Simpson,Simpson Home,"Hmm, you're right. It is the golden age of well-written, brilliantly-acted TV shows."
+135572,522,3,21000,Homer Simpson,Simpson Home,"Writing is for bathroom walls, and acting is for getting out of DUI's. The only reason TV exists is for reality shows about white-trash scuzzbags doing sub-human, made-up jobs."
+135573,522,4,34000,Homer Simpson,Simpson Home,Ooo! Jail music!
+135574,522,5,50000,Macho Narrator,Simpson Home,"When storage lockers are abandoned, we open 'em up!"
+135575,522,6,54000,Macho Narrator,Simpson Home,Our expert bidders face off in the ultimate contest to discover the amazing treasures within!
+135576,522,7,60000,Macho Narrator,Simpson Home,"This is... ""Storage Battles."""
+135577,522,8,64000,Homer Simpson,Simpson Home,I'll give it one marathon.
+135578,522,9,69000,CJ Ramone,Simpson Home,I don't care what people say -- I am feeling this unit!
+135580,522,10,72000,Homer Simpson,Simpson Home,"No one feels out a unit like CJ! Not Bubba, not Debbie and Danny, no one!"
+135581,522,11,77000,CJ Ramone,Simpson Home,Mostly worthless junk: family photo albums... home movies... kids' drawings...
+135582,522,12,84000,CJ Ramone,Simpson Home,"Eh, just some nobody."
+135583,522,13,86000,CJ Ramone,Simpson Home,Here we go! Here we go! Bub-ble wrap!
+135584,522,14,89000,CJ Ramone,Simpson Home,"If there's wrap, it ain't crap!"
+135585,522,15,92000,CJ Ramone,Simpson Home,"Bingo! Antique bayonets! I'm talking World War One, Spanish American War... Crimea, baby!"
+135587,522,17,100000,Dealer,MILITARY ANTIQUE SHOP,"If you found the right buyer, on the right day, and he knew nothing about bayonets, you might sell it for, possibly... five hundred dollars?"
+135588,522,18,109000,CJ Ramone,MILITARY ANTIQUE SHOP,Definitely five hundred dollars! Five hundred! Five hundy!
+135589,522,19,114000,CJ Ramone,MILITARY ANTIQUE SHOP,Five hundamaninos!
+135592,522,22,119000,Homer Simpson,Simpson Home,"High-five me, Marge!"
+135593,522,23,121000,Marge Simpson,Simpson Home,I want to know what it's for.
+135594,522,24,122000,Homer Simpson,Simpson Home,Too late!
+135595,522,25,123000,Homer Simpson,Simpson Home,We're gonna get rich off the poor and forgetful! And dead people.
+135597,522,27,132000,Moe Szyslak,STORAGE COMPLEX,"I bet I win a locker full of treasure, like a solid gold bar of silver or Picasso's TV!"
+135598,522,28,137000,Apu Nahasapeemapetilon,STORAGE COMPLEX,"Oh no, no, no! It is I who will be watching Picasso's TV tonight!"
+135599,522,29,143000,Lisa Simpson,STORAGE COMPLEX,It looks like you're not the only predatory opportunist in town.
+135600,522,30,148000,Homer Simpson,STORAGE COMPLEX,"There's other P.O.s? Uh-oh, better put on my game shades."
+135601,522,31,159000,Auctioneer,STORAGE COMPLEX,Do-I-hear-fifty-dollars-lemme-get-fifty-dollars--
+135602,522,32,161000,Duffman,STORAGE COMPLEX,Oh yeah!
+135603,522,33,162000,Auctioneer,STORAGE COMPLEX,One-hundred-is-there-one-hundred-out-there-looking-for-one-hundred--
+135604,522,34,163000,Apu Nahasapeemapetilon,STORAGE COMPLEX,Thank you!
+135605,522,35,164000,Auctioneer,STORAGE COMPLEX,One-fifty-one-hundred-fifty--
+135606,522,36,164000,Auctioneer,STORAGE COMPLEX,Do-I-have-two-hundred--
+135607,522,37,167000,Auctioneer,STORAGE COMPLEX,Two-fifty-do-I-hear--
+135608,522,38,167000,Auctioneer,STORAGE COMPLEX,Three-fifty!
+135609,522,39,167000,Captain Horatio McCallister,STORAGE COMPLEX,YARRR!
+135610,522,40,170000,Auctioneer,STORAGE COMPLEX,Four-do-I-hear-four-hundred-dollars?
+135611,522,41,172000,Auctioneer,STORAGE COMPLEX,Four-fifty!
+135612,522,42,172000,Professor Jonathan Frink,STORAGE COMPLEX,Bidding!
+134124,522,43,173000,Auctioneer,STORAGE COMPLEX,Five-hundred!
+134900,522,44,173000,Auctioneer,STORAGE COMPLEX,Five-fifty!
+135579,522,45,173000,Gary Chalmers,STORAGE COMPLEX,Skinner!
+135613,522,46,176000,Auctioneer,STORAGE COMPLEX,Six-hundred!
+135614,522,47,176000,Auctioneer,STORAGE COMPLEX,Six-fifty!
+135615,522,48,179000,Auctioneer,STORAGE COMPLEX,"Six-fifty going once, six-fifty going twice..."
+135616,522,49,183000,Homer Simpson,STORAGE COMPLEX,One thousand dollars!
+135617,522,50,186000,Auctioneer,STORAGE COMPLEX,One-thousand-dollars-going-once-going-twice-sold-to-the-man-who-didn't-wait-for-the-bidding-to-get-anywhere-near-one-thousand-dollars!
+135618,522,51,191000,Homer Simpson,STORAGE COMPLEX,"In the money game, cash is king."
+135620,522,53,201000,Marge Simpson,STORAGE LOCKER COMPLEX,We spent a thousand dollars on a bunch of old boxes?
+135621,522,54,204000,Homer Simpson,STORAGE LOCKER COMPLEX,You won't be laughing when these boxes are full of priceless treasures.
+135622,522,55,208000,Marge Simpson,STORAGE LOCKER COMPLEX,I wasn't laughing -- I was being worried.
+135623,522,56,213000,Homer Simpson,STORAGE LOCKER COMPLEX,Feather boas?
+135624,522,57,214000,Bart Simpson,STORAGE LOCKER COMPLEX,Mine's full of hand mirrors.
+135625,522,58,216000,Lisa Simpson,STORAGE LOCKER COMPLEX,I've got perfume spritzers.
+135626,522,59,219000,Marge Simpson,STORAGE LOCKER COMPLEX,Makeup and baby oil!
+135627,522,60,221000,Homer Simpson,STORAGE LOCKER COMPLEX,Tights? Robes? This stupid locker must have belonged to some old lady.
+135628,522,61,225000,Lisa Simpson,STORAGE LOCKER COMPLEX,"""Property of Abraham J. Simpson?"" This is Grampa's stuff!"
+135629,522,62,230000,Homer Simpson,STORAGE LOCKER COMPLEX,Why would my man-dad have lady stuff?
+135630,522,63,233000,Marge Simpson,STORAGE LOCKER COMPLEX,It's not all lady stuff. Look at all these fitness publications.
+135631,522,64,241000,Homer Simpson,STORAGE LOCKER COMPLEX,Beefcake mags?
+135632,522,65,244000,Marge Simpson,STORAGE LOCKER COMPLEX,I think your dad might be gay.
+135633,522,66,247000,Homer Simpson,STORAGE LOCKER COMPLEX,That's insane! My dad was married to a woman... who left him... because he ignored her needs for decades. My gay dad is gay for gays.
+135635,522,68,265000,Marge Simpson,Simpson Home,I think this is great! Old gay men are adorable! Like wrinkle dogs in a wrinkle dog calendar.
+135636,522,69,273000,Homer Simpson,Simpson Home,Those are pretty cute...
+135637,522,70,275000,Marge Simpson,Simpson Home,"Your dad's been in the closet for so long, he probably doesn't know how tolerant society's become. They even had a gay float in the Pride Parade last year."
+135638,522,71,286000,Homer Simpson,Simpson Home,"My dad's always been so angry. Maybe if we help him be who he is, he'll finally be happy."
+135639,522,72,293000,Marge Simpson,Simpson Home,"Oh Homie, you're so... enlightened."
+135640,522,73,300000,Homer Simpson,Simpson Home,"Yeah. Gay rights are human rights, baby."
+135642,522,75,307000,Bart Simpson,Springfield Retirement Castle,You sure you're not just doing all this because it's cool to be accepting of a gay family member?
+135643,522,76,312000,Marge Simpson,Springfield Retirement Castle,"Oh honey, that's just silly! This'll show Helen Lovejoy, always bragging about her He-She cousin!"
+135644,522,77,320000,Marge Simpson,Springfield Retirement Castle,Abe... we found your storage locker.
+135645,522,78,324000,Homer Simpson,Springfield Retirement Castle,"It's okay, Dad. We know the truth, and we love you."
+135646,522,79,328000,Grampa Simpson,Springfield Retirement Castle,What?! The contents of that locker are my private business! Get out!
+135648,522,81,333000,Homer Simpson,Hallway,"Just admit who you are, and you can find new love."
+135649,522,82,336000,Marge Simpson,Hallway,"If you don't want to die alone, come out of your room!"
+135650,522,83,340000,Oldsters,Hallway,Love... love... love...
+135651,522,84,344000,Oldsters,Hallway,Love... love...
+135653,522,86,348000,Helen Lovejoy,Springfield Retirement Castle,Hi Marge. I was just taking Stanlerina to get her hormone shots.
+135656,522,89,354000,Marge Simpson,Simpson Home,Your father wasted his whole life being married to your mother and having you. We've got to find him a boyfriend before it's too late!
+135657,522,90,361000,Lisa Simpson,Simpson Home,Why don't you put a personal ad on the internet? That's how young people date these days.
+135658,522,91,366000,Bart Simpson,Simpson Home,It's weird that you don't consider yourself a young person.
+135659,522,92,369000,Lisa Simpson,Simpson Home,I know. It's weird to me too.
+135660,522,93,371000,Marge Simpson,Simpson Home,Help me out of the closet! Wonderful older man seeks life partner before rapidly-encroaching death.
+135661,522,94,373000,Homer Simpson,Simpson Home,No fatties!
+135662,522,95,379000,Marge Simpson,Simpson Home,How about some fatties?
+135663,522,96,381000,Homer Simpson,Simpson Home,Fine.
+135664,522,97,382000,Marge Simpson,Simpson Home,"Okay, post this under ""Men Seeking Men,"" but what sub-heading... nothing too serious... here we go -- ""Casual Encounters!"" Perfect, no pressure!"
+135666,522,99,395000,Marge Simpson,Park,I hope someone saw our ad.
+135667,522,100,397000,Homer Simpson,Park,"If I can't find my father a man to kiss and cuddle, then I've failed as a son."
+135668,522,101,403000,Marge Simpson,Park,Someone's coming!
+135669,522,102,405000,Waylon Smithers,Park,"Are you ""Wrinkled and Romantic?"""
+135670,522,103,407000,Grampa Simpson,Park,"Huh? What the heck are you talking about, Spectacles?"
+135672,522,104,410000,Waylon Smithers,Park,"Oh, I've been hung up on someone for years, but I'm trapped in ""the friend zone."" It's time for me to move on."
+135673,522,105,417000,Grampa Simpson,Park,So move on! You're blocking the ducks!
+135674,522,106,419000,Marge Simpson,Park,"Don't you want to be happy, Abe? Admit who you are, a wonderful gay man!"
+135675,522,107,426000,Grampa Simpson,Park,What?! I don't ride side-saddle! I'm straight as a submarine!
+135676,522,108,431000,Homer Simpson,Park,Then how do you explain this?
+135677,522,109,434000,C. Montgomery Burns,Park,"Oh, hello Smithers! Fancy seeing you in Casual Encounter Park."
+135678,522,110,440000,C. Montgomery Burns,Park,You're Glamorous Godfrey!
+135679,522,111,442000,Homer Simpson,Park,Who?
+135680,522,112,443000,C. Montgomery Burns,Park,Glamorous Godfrey was the most famous wrestler in the world! And you are he!
+135681,522,113,448000,Marge Simpson,Park,Is this true?
+135683,522,115,450000,C. Montgomery Burns,Burns Manor,Behold!
+135685,522,117,452000,Homer Simpson,Burns Manor,Look at all this wrestling stuff.
+135686,522,118,453000,Bart Simpson,Burns Manor,Ay carumba!
+135687,522,119,454000,Grampa Simpson,Burns Manor,Fine. I was Glamorous Godfrey.
+135689,522,121,459000,Homer Simpson,Burns Manor,What's wrong?
+135690,522,122,460000,Marge Simpson,Burns Manor,I so wanted him to be gay.
+135691,522,123,463000,Grampa Simpson,Burns Manor,"On V.E. Day, I kissed a man by mistake."
+135692,522,124,466000,Marge Simpson,Burns Manor,Thank you.
+135694,522,126,472000,Homer Simpson,Burns Manor,"You were a world-famous wrestler? Spill the beans, old man. Word beans!"
+135695,522,127,477000,Grampa Simpson,Burns Manor,"All right, I'll tell ya... It was the 1950s..."
+135696,522,128,481000,Homer Simpson,Burns Manor,Those things?
+135698,522,130,483000,Grampa Simpson,WRESTLING ARENA,It was the heyday of pro wrestling. You could make good money if you were the manly mixture of strong and fat we called beefy.
+135699,522,131,491000,Grampa Simpson,WRESTLING ARENA,"Good guys were called ""baby faces""...and bad guys were called ""heels."""
+135700,522,132,491000,Grampa Simpson,WRESTLING ARENA,"I was the king of the heels, Glamorous Godfrey."
+135701,522,133,501000,Angry Crowd,WRESTLING ARENA,How dare he! / That was drinking milk!
+135702,522,134,504000,Grampa Simpson,WRESTLING ARENA,"My motto was ""Always Cheat."""
+135703,522,135,504000,Grampa Simpson,WRESTLING ARENA,But the thing that really drove them crazy was my vanity.
+135704,522,136,517000,Glamorous Godfrey,WRESTLING ARENA,You are the luckiest people in the world. You get to look at me.
+135671,522,138,526000,Bart Simpson,WRESTLING ARENA,"Grampa, you were the original bad boy!"
+135706,522,139,530000,Grampa Simpson,WRESTLING ARENA,"Yeah, I was boastful before all your football show-boaters, rap music-ers, and TV beach Italians. But there was a downside to being hated... being hated."
+135709,522,142,552000,Grampa Simpson,Storage Facility,I just couldn't take it.
+135710,522,143,560000,Grampa Simpson,Storage Facility,Being despised was no way to live.
+135711,522,144,563000,C. Montgomery Burns,Storage Facility,Pshaw!
+135712,522,145,564000,C. Montgomery Burns,Storage Facility,"Pshaw, I say!"
+135713,522,146,565000,Grampa Simpson,Storage Facility,Pshaw yourself!
+135714,522,147,568000,Marge Simpson,Storage Facility,"Homer, do something! They're killing each other!"
+135715,522,148,572000,Grampa Simpson,Storage Facility,Oh yeah--
+135716,522,149,572000,C. Montgomery Burns,Storage Facility,"The world may have despised Glamorous Godfrey, but that conceited mother-puncher was my hero."
+135717,522,150,580000,C. Montgomery Burns,Storage Facility,"Please, Abe, let me buy you dinner in exchange for a few tales of the golden age of professional grappling."
+135718,522,151,586000,Grampa Simpson,Storage Facility,"Sorry, I been trying to forget those days for fifty years."
+135719,522,152,591000,Bart Simpson,Storage Facility,But Grampa...
+135720,522,153,591000,Bart Simpson,Storage Facility,I wanna hear about old-time wrestling too.
+135721,522,154,594000,C. Montgomery Burns,Storage Facility,"Well, it looks like you've made a new fan. It'd be a shame to let him down..."
+135722,522,155,599000,Grampa Simpson,Storage Facility,"Oh, fine. One dinner."
+135723,522,156,602000,C. Montgomery Burns,Storage Facility,Excellent. So we'll take the boy and make a night of it.
+135724,522,157,605000,Homer Simpson,Storage Facility,I don't know. Should I really let the men who ruined my past and present hang out with the kid who's going to ruin my future?
+135725,522,158,612000,Bart Simpson,Storage Facility,I'll bring you home my dessert.
+135726,522,159,614000,Homer Simpson,Storage Facility,Text me the choices.
+135728,522,161,615000,C. Montgomery Burns,OLD-TIME CLUB,I can't believe I'm on the town with Glamorous Godfrey himself! Tell me of your epic battle with Swedish Olaf Johannsen.
+135729,522,162,623000,Grampa Simpson,OLD-TIME CLUB,"Oh yeah, ""The Fury of the Fjords""..."
+135731,522,164,634000,Bart Simpson,OLD-TIME CLUB,You settled that Swede's meatballs!
+135732,522,165,636000,C. Montgomery Burns,OLD-TIME CLUB,What I wouldn't give to see Glamorous Godfrey in action once more!
+135733,522,166,640000,C. Montgomery Burns,OLD-TIME CLUB,Would you ever consider throwing your wig back into the ring?
+135734,522,167,644000,Grampa Simpson,OLD-TIME CLUB,Go back to being a villain? Forget that! Being hated is the worst feeling there is.
+135735,522,168,651000,C. Montgomery Burns,OLD-TIME CLUB,"You've got it all wrong, my friend. Once you see it my way, you'll understand that being hated is the greatest feeling in the world."
+135736,522,169,659000,C. Montgomery Burns,OLD-TIME CLUB,DON'T REALLY CARE FOR CHASING WOMEN /
+135737,522,170,667000,C. Montgomery Burns,OLD-TIME CLUB,"NO, I GET DRUNK ON... BOOS /"
+135738,522,171,674000,C. Montgomery Burns,OLD-TIME CLUB,BECAUSE...
+135739,522,172,674000,C. Montgomery Burns,OLD-TIME CLUB,YOU'VE GOT TO LOVE TO BE HATED /
+135740,522,173,678000,C. Montgomery Burns,OLD-TIME CLUB,FIND THE GOOD IN BEING BAD /
+135741,522,174,680000,C. Montgomery Burns,OLD-TIME CLUB,THE CROWD IS FULL OF GENTLEMEN /
+135742,522,175,683000,C. Montgomery Burns,OLD-TIME CLUB,BUT THEY'VE PAID TO WATCH THE CAD
+135743,522,176,685000,C. Montgomery Burns,OLD-TIME CLUB,"YES IT'S A HOOT, A KICK, A GAS /"
+135744,522,177,687000,C. Montgomery Burns,OLD-TIME CLUB,WHEN YOU'RE THE VILLAIN OF THE SHOW /
+135745,522,178,689000,C. Montgomery Burns,OLD-TIME CLUB,"ONCE YOU WEAR BLACK, YOU'LL NEVER GO BACK /"
+135746,522,179,692000,C. Montgomery Burns,OLD-TIME CLUB,"IT'S A HIGH TO BE LOA-THED! / CHUCKY, STALIN, MEGATRON / ERIC CARTMAN, DONKEY KONG / VADER, NADER, SIMON LEGREE / TERMINATORS ONE, TWO AND THREE / IAGO, JOKER, VOLDEMORT / MCENROE ON CENTER COURT / MR. BURNS AND SKELETOR / KEEP YOUR GOOD GUYS, WHAT A SNORE"
+135747,522,180,726000,C. Montgomery Burns,OLD-TIME CLUB,SO LISTEN UP BECAUSE I'M GIVING / THE BEST ADVICE YOU'LL EVER KNOW / SO FEEL THE THRILL / I KNOW YOU WILL / IT'S A HIGH TO BE LOA...THED!
+135748,522,181,741000,Grampa Simpson,OLD-TIME CLUB,"I'll feel like I'll live forever as long as everybody wants me dead. Okay, Burns. Glamorous Godfrey will wrestle again!"
+135750,522,183,751000,The Rich Texan,OLD-TIME CLUB,That cocaine I ordered is taking forever!
+135753,522,186,761000,Bart Simpson,OLD-TIME WRESTLING PAVILION,"I can't wait to see Grampa kick some ass! He's always pretended to be boring, but he's really a straight-up psycho!"
+135754,522,187,767000,Marge Simpson,OLD-TIME WRESTLING PAVILION,"Your grandfather is not psycho! The only thing he's ""straight-up"" is loves you."
+135755,522,188,773000,Lisa Simpson,OLD-TIME WRESTLING PAVILION,"""Gorilla Joe,"" ""Gorilla Sam,"" ""Gorilla Pete,"" ""Ook and Eek, the Gorilla Twins""... Where did Mr. Burns dig up all these old wrestlers?"
+135756,522,189,781000,Homer Simpson,OLD-TIME WRESTLING PAVILION,"Apparently, old folks homes are full of people that used to be things. Just like you and me. Swear to God."
+135757,522,190,787000,C. Montgomery Burns,OLD-TIME WRESTLING PAVILION,"Welcome, aficionados of the roped ring, to a thrilling night of senior-on-senior action."
+135760,522,192,802000,Vendor,OLD-TIME WRESTLING PAVILION,Folding chairs! Folding chairs! Can't hit somebody when they're not looking without a folding chair!
+135761,522,193,808000,Bart Simpson,OLD-TIME WRESTLING PAVILION,Can I have one! Can I?
+135762,522,194,809000,Homer Simpson,OLD-TIME WRESTLING PAVILION,Fine.
+135763,522,195,811000,C. Montgomery Burns,OLD-TIME WRESTLING PAVILION,And now our main event. In this corner: Baby Face Palooka...
+135764,522,196,816000,C. Montgomery Burns,OLD-TIME WRESTLING PAVILION,"And entering the ring, America's original vainglorious bastard... Glamorous Godfrey!"
+135766,522,198,831000,C. Montgomery Burns,OLD-TIME WRESTLING PAVILION,"Yes, feel their hatred. It makes you strong, powerful... alive!"
+135767,522,199,836000,Grampa Simpson,OLD-TIME WRESTLING PAVILION,You are the luckiest people in the world! You get to look at me!
+135769,522,201,848000,Bart Simpson,OLD-TIME WRESTLING PAVILION,"You show 'em, Godfrey! You're the prettiest old man in the world!"
+135770,522,202,851000,Lisa Simpson,OLD-TIME WRESTLING PAVILION,Why do you think bad guys are so cool?
+135771,522,203,854000,Bart Simpson,OLD-TIME WRESTLING PAVILION,Why do you still have a thing for Nelson?
+135772,522,204,856000,Lisa Simpson,OLD-TIME WRESTLING PAVILION,Do not. That's ridiculous-- It's just-- It's that-- He's-- He's a rebel and only I can change him!
+135774,522,206,883000,Marge Simpson,OLD-TIME WRESTLING PAVILION,It's so sad that Grampa has to cheat instead of relying on his God-given wrestling skills. What kind of person revels in disapproval?!
+135775,522,207,891000,Bart Simpson,OLD-TIME WRESTLING PAVILION,"What kind of person, indeed?"
+135777,522,209,899000,Milhouse Van Houten,Little League Field,It's the prettiest boy in Springfield... Bart Simpson!
+135779,522,211,909000,Bart Simpson,Little League Field,You are the luckiest people in the world! You get to look at me!
+135781,522,213,917000,Kirk Van Houten,Little League Field,"Hey Simpson, tell your kid to quit showboating!"
+135782,522,214,925000,Sideshow Mel,Little League Field,I've never seen anyone so full of self-regard! And I've worked with Bob Balaban!
+135785,522,217,938000,Marge Simpson,Simpson Home,Your behavior at that game was unacceptable! You're lucky they gave you your participant trophy.
+135786,522,218,944000,Lisa Simpson,Simpson Home,I got one for just watching the game.
+135787,522,219,949000,Bart Simpson,Simpson Home,"Listen, getting people riled up is what heels do!"
+135788,522,220,951000,Homer Simpson,Simpson Home,"Heel? Oh no, tell me you are not trying to be like Grampa!"
+135790,522,221,955000,Bart Simpson,Simpson Home,"Well sure I am. I always thought Grampa was lame, but he's really awesome!"
+135791,522,222,960000,Homer Simpson,Simpson Home,"Your grandfather is super lame! I mean, if he wasn't a terrible father, what's my excuse for this?"
+135792,522,223,970000,Marge Simpson,Simpson Home,"I know your Grampa seems exciting now... But all that preening and cheating, those turnbuckle antics are not gonna make him happy."
+135796,522,227,982000,Grampa Simpson,Springfield Nuclear Power Plant,"Burnsy, I can't remember the last time I was so happy."
+135797,522,228,987000,Homer Simpson,Springfield Nuclear Power Plant,"You grandson-ruining fiend! Look what your ""number one fan"" did at show and tell!"
+135798,522,229,994000,C. Montgomery Burns,Springfield Nuclear Power Plant,Who would film such a thing?
+135799,522,230,999000,Homer Simpson,Springfield Nuclear Power Plant,It's found footage!
+135800,522,231,1001000,Grampa Simpson,Springfield Nuclear Power Plant,So what! We could use another winner in this family.
+135801,522,232,1004000,Homer Simpson,Springfield Nuclear Power Plant,How are you a winner? You're cheating in a fake sport!
+135802,522,233,1007000,C. Montgomery Burns,Springfield Nuclear Power Plant,Fake? Ridiculous! If professional wrestling were fake... that would make every fan in the history of the sport a complete and utter moron.
+135803,522,234,1017000,C.H.U.M.,Springfield Nuclear Power Plant,Mercy!
+135804,522,235,1018000,C. Montgomery Burns,Springfield Nuclear Power Plant,"You know, I've always had a keen eye for tiny talent."
+135805,522,236,1021000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Perhaps you and the lad could ""tag team"" up..."
+135806,522,237,1024000,Grampa Simpson,Springfield Nuclear Power Plant,"Wrestle with Bart? He ain't beefy, but he is infuriating and you can't teach infuriating. Monty, you're a genius!"
+135807,522,238,1032000,Homer Simpson,Springfield Nuclear Power Plant,"Bart cannot be an old-time wrestler! As your inattentive son, and your incompetent employee, I forbid it!"
+135809,522,240,1040000,Homer Simpson,OLD-TIME WRESTLING PAVILION,Why does everything I forbid always happen?
+135812,522,243,1052000,Grampa Simpson,WRESTLERS' DRESSING ROOM,"So, Beautiful, you got your moves memorized?"
+135813,522,244,1054000,Bart Simpson,WRESTLERS' DRESSING ROOM,"You know it, Glamorous. Eye gouge, ear bite, folding chair, hair pull, face-fart, flying face-fart, and then I start fighting dirty."
+135814,522,245,1063000,Grampa Simpson,WRESTLERS' DRESSING ROOM,They're gonna hate you so much.
+135815,522,246,1066000,Grampa Simpson,WRESTLERS' DRESSING ROOM,"Oh, I get it. You're here to tell the kid he can't wrestle with his Grampa."
+135816,522,247,1073000,Marge Simpson,WRESTLERS' DRESSING ROOM,"I don't care if Bart is a wrestler, a busboy, or even a stoplight squeegee man... as long as he's a nice person."
+135817,522,248,1083000,Marge Simpson,WRESTLERS' DRESSING ROOM,"But if he gets too much attention for acting bad, he might turn bad on the inside..."
+135818,522,249,1089000,Grampa Simpson,WRESTLERS' DRESSING ROOM,"Eh, that's women-talk. Now if you'll excuse me, I have to comb out my curls."
+135819,522,250,1095000,Grampa Simpson,WRESTLERS' DRESSING ROOM,"One, two, three..."
+135821,522,252,1101000,Nerdy Fat Kid,WRESTLING ARENA,"Beautiful Bart, can I have your autograph?"
+135822,522,253,1104000,Bart Simpson,WRESTLING ARENA,"Sure, here you go."
+135824,522,255,1110000,Grampa Simpson,WRESTLING ARENA,"Hey Bart, leave some of that bad attitude for the ring."
+135825,522,256,1114000,Bart Simpson,WRESTLING ARENA,The world is my ring now.
+135826,522,257,1121000,C. Montgomery Burns,WRESTLING ARENA,"In this corner, for truth and justice -- Captain Flag and Half-Mast."
+135827,522,258,1128000,C. Montgomery Burns,WRESTLING ARENA,"Now entering the ring, the first family of foul play: Glamorous Godfrey and Beautiful Bart!"
+135828,522,259,1137000,Bart Simpson,WRESTLING ARENA,You all stink!
+135830,522,261,1144000,Grampa Simpson,WRESTLING ARENA,Glamorous Godfrey is dead.
+135832,522,263,1151000,Grampa Simpson,WRESTLING ARENA,"I am ""Honest Abe!"""
+135834,522,265,1157000,Grampa Simpson,WRESTLING ARENA,"And this is ""Laddie Liberty."""
+135835,522,266,1161000,Bart Simpson,WRESTLING ARENA,What are you doing?
+135836,522,267,1162000,Grampa Simpson,WRESTLING ARENA,I ain't a heel no more -- I'm a good guy... and you're a baby-face.
+135837,522,268,1166000,Bart Simpson,WRESTLING ARENA,"But, but, what about the cheating?"
+135838,522,269,1167000,Grampa Simpson,WRESTLING ARENA,No more cheating.
+135839,522,270,1169000,Bart Simpson,WRESTLING ARENA,And the preening?
+135840,522,271,1170000,Grampa Simpson,WRESTLING ARENA,No more preening.
+135841,522,272,1171000,Bart Simpson,WRESTLING ARENA,But I'm so pretty.
+135842,522,273,1172000,Grampa Simpson,WRESTLING ARENA,That's for others to say now.
+135843,522,274,1174000,C. Montgomery Burns,WRESTLING ARENA,"What are you doing, Godfrey! You're a villain, not some bullet-brained rail-splitter. Without someone to hate, there's no excitement, no thrill!"
+135844,522,275,1182000,Grampa Simpson,WRESTLING ARENA,I don't care! My grandson's soul is at stake!
+135845,522,276,1185000,C. Montgomery Burns,WRESTLING ARENA,How dare you! I wrote a song for you! When am I ever going to use that again? Curse you and this morbidly obese little half-wit.
+135846,522,277,1194000,Grampa Simpson,WRESTLING ARENA,"So they only want to see a good guy fight a bad guy, eh?"
+135848,522,278,1205000,Homer Simpson,WRESTLING ARENA,"He's taking on Mean Man Monty! Go get him, Honest Abe!"
+135849,522,279,1208000,Carl Carlson,WRESTLING ARENA,This is why we go to everything in this town -- it always pays off!
+135850,522,280,1215000,Bart Simpson,WRESTLING ARENA,"Honest Abe, can I pin him?"
+135851,522,281,1217000,Grampa Simpson,WRESTLING ARENA,"You know it, Laddie Liberty!"
+135852,522,282,1227000,Grampa Simpson,WRESTLING ARENA,Damndest boos I ever heard.
+135853,522,283,1230000,Bart Simpson,WRESTLING ARENA,"They're cheering, Grampa."
+135854,522,284,1232000,Grampa Simpson,WRESTLING ARENA,This is what I've been missing my whole life.
+135855,522,285,1237000,Marge Simpson,WRESTLING ARENA,"Oh, that was so sweet."
+135856,522,286,1241000,Homer Simpson,WRESTLING ARENA,I wish Grampa was my dad.

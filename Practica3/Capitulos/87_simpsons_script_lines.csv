@@ -1,0 +1,263 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+15931,87,2,38000,Homer Simpson,Simpson Home,What the hell's so funny?
+15932,87,3,45000,Humorist,Simpson Home,"At the Apple Biscuit Cafe, where the smiles are free, don't ya know, Sven Ingqvist studied the menu. And finally, he ordered the same thing he has every day."
+15933,87,4,57000,Bart Simpson,Simpson Home,Maybe it's the TV.
+15934,87,5,57000,Homer Simpson,Simpson Home,Stupid TV. Be more funny.
+15935,87,6,57000,Humorist,Simpson Home,"Well sir, I think it's time to turn this pledge drive over to Troy McClure. I can't keep up this pace forever."
+15936,87,7,75000,Troy McClure,Simpson Home,"Hi, I'm Troy McClure. You might remember me from such telethons as: ""Out With Gout '88!"" and ""Let's Save Tony Orlando's House!"" Folks, do you realize without your support, public television can't afford to bring you such award-winning shows as ""Edward the Penitent?"""
+15937,87,8,92000,Edward,Simpson Home,"I'm really, really, really sorry."
+15938,87,9,94000,The Pope,Simpson Home,I'm afraid sorry doesn't cut it with this Pope.
+15939,87,10,97000,Edward,Simpson Home,Gllllll.
+15940,87,11,97000,Troy McClure,Simpson Home,"What the hell...? Oooh, we got a call."
+15941,87,12,102000,Homer Simpson,Simpson Home,"Heh, heh, some idiot actually called in!"
+15942,87,13,104000,Troy McClure,Simpson Home,Hello! What's your name?
+15943,87,14,104000,Marge Simpson,Simpson Home,Marge Simpson.
+15945,87,16,107000,Marge Simpson,Simpson Home,"I'd like to pledge thirty dollars. Oh, thank you!"
+15946,87,17,111000,Homer Simpson,Simpson Home,"Marge, it's public TV! They never have anything good. Where are the Geraldos? Where are the Eubankses-es?"
+15947,87,18,119000,Marge Simpson,Simpson Home,"They need our support. Besides, they gave me two tickets to the ballet."
+15948,87,19,122000,Homer Simpson,Simpson Home,The ballet? Woo hoo!
+15949,87,20,122000,Marge Simpson,Simpson Home,You like ballet?
+15950,87,21,126000,Homer Simpson,Simpson Home,"Marjorie, please. I enjoy all the meats of our cultural stew. Ahhh, ballet."
+15952,87,23,138000,Marge Simpson,Simpson Home,"Hello, Ruth?"
+15953,87,24,138000,RUTH,Simpson Home,"Hi, Marge. I was wondering if you had a power sander I could borrow?"
+15925,87,25,154000,Marge Simpson,Simpson Home,Homer?
+15024,87,26,154000,Homer Simpson,Simpson Home,Nope.
+15954,87,27,156000,Marge Simpson,Simpson Home,That's one right there.
+15955,87,28,158000,Homer Simpson,Simpson Home,"All right, but remember it's mine."
+15956,87,29,166000,Homer Simpson,Simpson Home,That's what ballet is?
+15957,87,30,166000,Marge Simpson,Simpson Home,You promised. You can't back out like when you volunteered for that Army experiment to avoid dinner at my sisters'.
+15958,87,31,177000,Scientist,Simpson Home,"Mr. Simpson, you do realize this may result in hair loss, giddiness, and the loss of equilibrium?"
+15959,87,32,182000,Homer Simpson,Simpson Home,"Yeah, yeah, yeah just give me the serum."
+15960,87,33,185000,Homer Simpson,Simpson Home,"Heh, heh, heh. It was worth it."
+15963,87,36,188000,Carl Carlson,Springfield Nuclear Power Plant,"Hey, Homer, you wanna get a beer on the way home?"
+15964,87,37,188000,Homer Simpson,Springfield Nuclear Power Plant,I can't. I gotta take my wife to the ballet.
+15965,87,38,201000,Lenny Leonard,Springfield Nuclear Power Plant,"Gonna go see the bear in the little car, huh?"
+15966,87,39,203000,Homer Simpson,Springfield Nuclear Power Plant,Mmmm... invisible cola.
+15967,87,40,212000,Homer Simpson,Springfield Nuclear Power Plant,"Heh, heh. Time to stick it to the man."
+15968,87,41,215000,Carl Carlson,Springfield Nuclear Power Plant,"Hey careful there, Homer. I heard somebody lost an arm in there once."
+15969,87,42,219000,Homer Simpson,Springfield Nuclear Power Plant,"Phht, that's just an old wives tale."
+15971,87,44,221000,Homer Simpson,SODA MACHINE,Errrrghh... just...a little more. Got it!
+15972,87,45,230000,Homer Simpson,SODA MACHINE,I'm stuck! Help me!
+15973,87,46,237000,Carl Carlson,SODA MACHINE,He's done for!
+15974,87,47,237000,Lenny Leonard,SODA MACHINE,Let's get outta here!
+15975,87,48,239000,Homer Simpson,SODA MACHINE,Must... get to ballet...
+15976,87,49,248000,Homer Simpson,SODA MACHINE,promised Marge...
+15978,87,51,248000,Homer Simpson,A DIFFERENT HALLWAY,Hello? Can I get some help? Snack related mishap!
+15979,87,52,260000,Homer Simpson,A DIFFERENT HALLWAY,"Mmmmm, candy."
+15981,87,54,267000,Marge Simpson,Simpson Living Room,Hello?
+15983,87,56,269000,Homer Simpson,Nuclear Plant Hallway,"Marge, this may be hard to believe, but I'm trapped inside two vending machines."
+15985,87,58,275000,Marge Simpson,Simpson Living Room,"Sure, Homer. Trapped in vending machines. Okay."
+15986,87,59,280000,Marge Simpson,Simpson Living Room,Would you two like to go to the ballet?
+15987,87,60,283000,Patty Bouvier,Simpson Living Room,That's girl stuff.
+15988,87,61,283000,RUTH,Simpson Living Room,"Thanks, Marge. When my husband left, he took all our power tools, along with the car... my youth... my faith in mankind... Well, see ya."
+15989,87,62,296000,Marge Simpson,Simpson Living Room,Hey wait!
+15992,87,65,298000,RUTH,Gym,Vyachepov's loins oughtta be outlawed.
+15994,87,67,298000,C. Montgomery Burns,Gym,"Far too much dancing, not nearly enough prancing."
+15995,87,68,321000,Waylon Smithers,Gym,And a little mincing would be nice.
+15996,87,69,327000,Marge Simpson,Gym,"Well, thank you for a lovely time."
+15997,87,70,336000,RUTH,Gym,"You're not going home already, are you?"
+15998,87,71,336000,Marge Simpson,Gym,It's almost nine-thirty!
+15999,87,72,339000,RUTH,Gym,"Yeah right, we'd better turn in. Oh, you were serious."
+16001,87,74,349000,Homer Simpson,Springfield Nuclear Power Plant,I'm going to have these things on my arms forever!
+16002,87,75,351000,Homer Simpson,Springfield Nuclear Power Plant,Candy and sodas for all!
+16003,87,76,351000,Homer Simpson,Springfield Nuclear Power Plant,Mmmm... convenient.
+16004,87,77,366000,Technician #1,Springfield Nuclear Power Plant,"Homer, this is never easy to say. I'm gonna have to saw your arms off."
+16005,87,78,370000,Homer Simpson,Springfield Nuclear Power Plant,"They'll grow back, right?"
+16006,87,79,370000,Technician #1,Springfield Nuclear Power Plant,"Oh, yeah."
+16008,87,81,373000,Technician #2,Springfield Nuclear Power Plant,"Homer, are you just holding onto the can?"
+16009,87,82,378000,Homer Simpson,Springfield Nuclear Power Plant,Your point being?
+16012,87,85,378000,RUTH,Coffee Shop,I envy you and Homer.
+16013,87,86,378000,Marge Simpson,Coffee Shop,Thank you. Why?
+16014,87,87,392000,RUTH,Coffee Shop,"If you ever met my ex-husband, you'd understand. All he ever did was eat, sleep and drink beer."
+16015,87,88,398000,Marge Simpson,Coffee Shop,Your point being?
+16016,87,89,398000,RUTH,Coffee Shop,"And to top it off, he's been stiffing me on child support for the last four months."
+16017,87,90,403000,Marge Simpson,Coffee Shop,"Well, you were unlucky, but there are a lot of good men out there."
+16018,87,91,408000,Barney Gumble,Coffee Shop,"Hey, can I throw up in your bathroom? I'll buy somethin'."
+16020,87,93,411000,Homer Simpson,Simpson Home,"Marge, I know you didn't believe me about the vending machines. That's why I had the fireman write me a note."
+16022,87,94,424000,Marge Simpson,Simpson Home,"""Mrs. Simpson, while we were rescuing your husband, a lumberyard burned down."""
+16023,87,95,424000,Homer Simpson,Simpson Home,Lumber has a million uses.
+16024,87,96,433000,Marge Simpson,Simpson Home,"I'm disappointed in you, but it turns out I had a wonderful time with Ruth Powers. In fact, we're going out again tomorrow night."
+16025,87,97,440000,Homer Simpson,Simpson Home,"Marge, that's twice. I think you're spending entirely too much time with this woman."
+16026,87,98,444000,Marge Simpson,Simpson Home,"Homer, please. You know it's hard for me to make friends."
+16027,87,99,448000,Lady,Simpson Home,"Heh, heh. Oh Marge, we should do this every Thursday."
+16028,87,100,451000,Homer Simpson,Simpson Home,"Marge, I got sprayed by this skunk! Oh look, it's doing it again!"
+16029,87,101,455000,Homer Simpson,Simpson Home,"Marge, you can't go out on Saturday. That's our special night."
+16030,87,102,462000,Marge Simpson,Simpson Home,What's so special about it?
+16031,87,103,462000,Homer Simpson,Simpson Home,"What the... Oh, I don't know... a little show called ""Doctor Quinn, Medicine Woman""?!"
+16033,87,105,466000,Homer Simpson,Simpson Home,Where you going?
+16034,87,106,466000,Marge Simpson,Simpson Home,I don't know.
+16035,87,107,475000,Homer Simpson,Simpson Home,When will you be home?
+16036,87,108,475000,Marge Simpson,Simpson Home,I'm not sure.
+16037,87,109,477000,Homer Simpson,Simpson Home,Where you going?
+16038,87,110,477000,Marge Simpson,Simpson Home,You already asked me that.
+16039,87,111,479000,Homer Simpson,Simpson Home,Will you bring me back something?
+16040,87,112,479000,Marge Simpson,Simpson Home,Don't wait up.
+16041,87,113,488000,Homer Simpson,Simpson Home,"How can you do this, Marge? How can you desert your children?"
+16042,87,114,491000,Lisa Simpson,Simpson Home,"Have a blast, Mom!"
+16043,87,115,491000,Bart Simpson,Simpson Home,Rock the Casbah!
+16044,87,116,494000,Homer Simpson,Simpson Home,"Man's best friend, indeed."
+16046,87,118,500000,Marge Simpson,Car,You look... nice.
+16047,87,119,502000,RUTH,Car,Tonight has nothin' to do with nice. Tonight's all about...
+16048,87,120,506000,Tape Player,Car,"Sunshine, lollipops and rainbows..."
+16049,87,121,509000,RUTH,Car,"Oh, sorry, Marge, wrong tape."
+16052,87,124,514000,Homer Simpson,Simpson Home,I can't believe your mother went out to have fun without me.
+16053,87,125,524000,Bart Simpson,Simpson Home,"Don't worry. You'll feel better once we put your hair up in curlers and give you a makeover, Homina..."
+16055,87,126,530000,Homer Simpson,Simpson Home,"Oh, that would be delightf... Quiet, boy! There's nothing to feel ashamed of here. Women have a right to a night out. Right, Lisa?"
+16056,87,127,537000,Lisa Simpson,Simpson Home,Sure Dad.
+16057,87,128,537000,Homer Simpson,Simpson Home,That's it! I'm calling my buddies. Marge is not the only one who can have a girls' night out.
+16059,87,130,545000,Lenny Leonard,Lenny's House,"Oh no can do Homer, I'm watchin' the game."
+16060,87,131,549000,Lenny's Wife,Lenny's House,"Shave up, not down, you idiot."
+16062,87,133,551000,C. Montgomery Burns,Burns Manor,Ooh sounds delish. Let me just toss some jeans on and... Wait a minute! Who is this?!
+16064,87,135,556000,Ned Flanders,Flanders Home,Well howdilly dodilly-do!
+16065,87,136,559000,Ned Flanders,Flanders Home,Hello? Hello? Hellodilly-odilly?
+16067,87,138,564000,Homer Simpson,Simpson Home,Fine! I can have a great time all by myself!
+16068,87,139,567000,Lisa Simpson,Simpson Home,"Hey, Dad, I think state and federal laws require us to have a baby-sitter."
+16069,87,140,571000,Homer Simpson,Simpson Home,"Oh Lisa, haven't you seen ""Home Alone?"" If some burglars come, it'll be a very humorous and entertaining situation."
+16070,87,141,578000,Bart Simpson,Simpson Home,"You're absolutely right, Homer. We don't need a baby-sitter."
+16071,87,142,582000,Homer Simpson,Simpson Home,Wait a second...
+16072,87,143,587000,Homer Simpson,Simpson Home,You kids do need a baby-sitter.
+16073,87,144,589000,Bart Simpson,Simpson Home,Blast that infernal card! Don't give that card to me.
+16074,87,145,594000,Homer Simpson,Simpson Home,Here you g... Nnnnnno.
+16075,87,146,594000,Lionel Hutz,Simpson Home,"Mr. Simpson. I was just going through your garbage and I couldn't help overhearing that you need a baby-sitter. Of course being a highly skilled attorney, my fee is one hundred and seventy-five dollars an hour."
+16076,87,147,604000,Homer Simpson,Simpson Home,We pay eight dollars for the night and you can take two Popsicles out of the freezer.
+16077,87,148,604000,Lionel Hutz,Simpson Home,Three.
+16078,87,149,614000,Homer Simpson,Simpson Home,Two.
+16079,87,150,614000,Lionel Hutz,Simpson Home,"Okay, two. And I get to keep this old bird cage."
+16080,87,151,616000,Homer Simpson,Simpson Home,Done.
+16081,87,152,616000,Lionel Hutz,Simpson Home,Still got it.
+16083,87,154,619000,Marge Simpson,Honky-tonk Roadhouse,Oh... I've heard a lot about Shot Kickers.
+16085,87,156,622000,Groundskeeper Willie,SH_T KICKERS,Ach. How come no one else's chair is doing this?
+16021,87,157,634000,Tough Guy,SH_T KICKERS,"Hey, baby, feel like getting lucky?"
+16054,87,158,636000,Marge Simpson,SH_T KICKERS,"I am lucky. I have a husband and three wonderful children, thank you very much."
+16086,87,159,642000,Tough Guy,SH_T KICKERS,"Listen, baby, I always get what I want."
+16087,87,160,646000,Marge Simpson,SH_T KICKERS,"I said, no."
+16088,87,161,646000,Tough Guy,SH_T KICKERS,"Oh, did you? Oh I completely misunderstood. Please accept our apologies."
+16090,87,163,651000,Homer Simpson,Moe's Tavern,Sometimes you gotta go where everybody knows your name.
+16092,87,165,655000,Homer Simpson,Moe's Tavern,Hi guys!
+16093,87,166,655000,Homer Simpson,Moe's Tavern,"Moe, get the darts. I want to play."
+16094,87,167,655000,Moe Szyslak,Moe's Tavern,No. We're phasing out the games. People drink less when they're havin' fun.
+16097,87,170,671000,Lionel Hutz,Simpson Home,Oh sure! Like lawyers work in big skyscrapers and have secretaries. Ha! Look at him! He's wearing a belt! That's Hollywood for you.
+16099,87,172,678000,Marge Simpson,UNDERGROUND CLUB,"Ooh, I've never been to an underground club."
+16101,87,174,682000,Mohawk Girl,THE HATE BOX,Don't you think your hair is a bit much?
+16102,87,175,682000,Otto Mann,THE HATE BOX,"Hey, Mrs. Simpson! You could try one of these smart drinks."
+16103,87,176,682000,Otto Mann,THE HATE BOX,"Oh, wow... I've wasted my life."
+16104,87,177,697000,Mayor Joe Quimby,THE HATE BOX,"Would you, ahh, care to dance?"
+16105,87,178,697000,Marge Simpson,THE HATE BOX,Mayor Quimby! What are you doing here?
+16106,87,179,700000,Mayor Joe Quimby,THE HATE BOX,I'm here with my nephews.
+16107,87,180,702000,Marge Simpson,THE HATE BOX,"Oh, that's nice."
+16109,87,182,709000,Homer Simpson,Kwik-E-Mart,"Ooooh, ""Jet!"""
+16110,87,183,709000,Homer Simpson,Kwik-E-Mart,Woo hoo! It's Garret Morris' birthday.
+16111,87,184,713000,Apu Nahasapeemapetilon,Kwik-E-Mart,This is not a library!
+16113,87,186,716000,Librarian,Library,This is not a Kwik-E-Mart!
+16115,87,188,721000,Marge Simpson,SECLUDED MEADOW,What was it you wanted to show me?
+16116,87,189,721000,RUTH,SECLUDED MEADOW,This.
+16117,87,190,723000,Marge Simpson,SECLUDED MEADOW,"You're not going to hunt me for sport, are you?"
+16118,87,191,726000,RUTH,SECLUDED MEADOW,"Oh relax, Marge. I'd never turn a gun on a human being. My husband, on the other hand..."
+16119,87,192,735000,RUTH,SECLUDED MEADOW,"Come on, you try it."
+16120,87,193,735000,Marge Simpson,SECLUDED MEADOW,No. I couldn't.
+16121,87,194,737000,RUTH,SECLUDED MEADOW,"Yeah, just breathe slowly and squeeze the --"
+16122,87,195,742000,Marge Simpson,SECLUDED MEADOW,I hit it! I hit it!
+16123,87,196,744000,Farmer,SECLUDED MEADOW,"My cans! My precious antique cans! Aw, look what ya done to 'em!"
+16125,87,198,750000,RUTH,Ruth's Car,"Oh, it's getting late. Maybe we should call it a night."
+16126,87,199,753000,Marge Simpson,Ruth's Car,"Phht, it's only midnight. Come on, I know a place."
+16129,87,202,756000,Marge Simpson,TRAIL,"Beautiful, huh? Homer and I used to come up here on dates."
+16130,87,203,766000,Marge Simpson,TRAIL,"Homer, stop that! It's just a weather station."
+16131,87,204,769000,Homer Simpson,TRAIL,Come on Marge. It's fun to smash things. I smashed it good!
+16132,87,205,777000,Homer Simpson,TRAIL,You got real purdy hair.
+16133,87,206,779000,RUTH,TRAIL,"You know Marge, of all the places we've been tonight, I think I like this one the best."
+16134,87,207,779000,Marge Simpson,TRAIL,Me too.
+16135,87,208,786000,RUTH,TRAIL,"Look, you can see our houses."
+16136,87,209,789000,Marge Simpson,TRAIL,There's an awful lot of black smoke coming from my chimney.
+16138,87,211,793000,Lisa Simpson,Simpson Home,"Mr. Hutz, why are you burning all your personal papers?"
+16139,87,212,796000,Lionel Hutz,Simpson Home,"As of this moment, Lionel Hutz no longer exists. Say hello to Miguel Sanchez."
+16141,87,214,802000,Marge Simpson,Springfield Sign,Maybe we should call it a night.
+16142,87,215,804000,RUTH,Springfield Sign,Okay. I should get home to my daughter before that naked talk show comes on.
+16144,87,217,809000,Homer Simpson,TRAIL NIGHT,"Ah, young love."
+16146,87,219,816000,Homer Simpson,Springfield Sign,The old make-out place. Hey! A new weather station. I'll bash it good!
+16147,87,220,822000,Homer Simpson,Springfield Sign,It's just no fun without Marge.
+16148,87,221,831000,Chief Wiggum,Springfield Sign,Ahhh. There's nothing like moonshine from your own still.
+16149,87,222,834000,Chief Wiggum,Springfield Sign,"Oh, Simpson!"
+16150,87,223,837000,Chief Wiggum,Springfield Sign,What are you doing here?
+16151,87,224,837000,Homer Simpson,Springfield Sign,My wife's having a girls' night out.
+16152,87,225,841000,Chief Wiggum,Springfield Sign,"Eh, just get one of those inflatable women. But make sure it's a woman... 'Cause one time I... Eh come on, I'll uh... I'll give you a ride home."
+16155,87,228,854000,Homer Simpson,Chief Wiggum's Police Car,"I miss you, Marge."
+16157,87,229,857000,Chief Wiggum,Chief Wiggum's Police Car,"Huh, their left taillight's a little smaller than their right one. I better pull 'em over."
+16158,87,230,860000,Marge Simpson,Chief Wiggum's Police Car,I think they want us to stop.
+16159,87,231,860000,RUTH,Chief Wiggum's Police Car,Fat chance.
+16160,87,232,867000,RUTH,Chief Wiggum's Police Car,This car is stolen.
+16161,87,233,867000,Marge Simpson,Chief Wiggum's Police Car,Stolen?!
+16163,87,235,869000,Chief Wiggum,Highway,Looks like we got ourselves an old fashioned car chase.
+16164,87,236,875000,Tape Player,Highway,"SUNSHINE, LOLLIPOPS AND RAINBOWS AND EVERYTHING / THAT'S WONDERFUL IS WHAT I FEEL WHEN WE'RE TOGETHER / BRIGHTER THAN A LUCKY PENNY WHEN YOU'RE NEAR THE RAIN CLOUDS DISAPPEAR AND..."
+16166,87,238,899000,Marge Simpson,Ruth's Car,"Ruth, is there something you want to tell me?"
+16167,87,239,902000,RUTH,Ruth's Car,Remember when I said my ex-husband was behind on his child support?
+16168,87,240,906000,Marge Simpson,Ruth's Car,Mmm hmm.
+16169,87,241,906000,RUTH,Ruth's Car,"Yeah, well to even things up, I kind of stole his car."
+16170,87,242,909000,Marge Simpson,Ruth's Car,Didn't you realize all you had to do was report him to the police?
+16171,87,243,912000,RUTH,Ruth's Car,"Marge, you're the level-headed friend I never had."
+16174,87,246,912000,Chief Wiggum,WIGGUM'S CAR,"We're in pursuit of two female suspects. One is wearing a green dress, pearls and has a lot of blue hair."
+16175,87,247,925000,Homer Simpson,WIGGUM'S CAR,"""A lot of blue hair?"" Heh-heh. What a freak."
+16176,87,248,932000,Homer Simpson,WIGGUM'S CAR,"It's Marge! She's become a crazed criminal, just because I didn't take her to the ballet."
+16177,87,249,937000,Chief Wiggum,WIGGUM'S CAR,That's exactly how Dillinger got started.
+16178,87,250,937000,Homer Simpson,WIGGUM'S CAR,Really?
+16180,87,252,941000,Marge Simpson,Ruth's Car,"I don't want to be a wet blanket, but maybe you should give yourself up."
+16181,87,253,944000,RUTH,Ruth's Car,"Marge, it's a matter of principle. I just can't let that deadbeat win again. You're with me, aren't ya?"
+148654,87,254,951000,Marge's Thoughts,Ruth's Car,I should say something reassuring yet noncommittal.
+16183,87,256,953000,RUTH,Ruth's Car,"Look, Marge, there's no reason for you to get dragged into this. Once we lose the cops, I'll let ya out."
+16184,87,257,961000,Marge Simpson,Ruth's Car,"Oh, I don't think they're gonna be that easy to lose. I mean these are professional lawmen and..."
+16185,87,258,965000,Chief Wiggum,Ruth's Car,"Oh my God, it just disappeared! It's a ghost car!"
+16156,87,259,971000,Chief Wiggum,Ruth's Car,There are ghost cars all over these highways ya know.
+15211,87,260,976000,Homer Simpson,Ruth's Car,Hold me.
+16186,87,261,976000,Chief Wiggum,Ruth's Car,Only if you hold me.
+16188,87,263,980000,RUTH,Diner,You can call a cab in there.
+16189,87,264,980000,Marge Simpson,Diner,"Well, bye."
+16190,87,265,991000,RUTH,Diner,Sorry about all this. But you gotta admit we did have some fun.
+16191,87,266,996000,Marge Simpson,Diner,Yeah. Everything before the high-speed chase was just lovely.
+16192,87,267,1000000,RUTH,Diner,"Hey, you're a good friend, Marge."
+16193,87,268,1011000,Woman #1,Diner,This cross country flight from the law would be hell if we didn't stick together.
+16194,87,269,1018000,Woman #2,Diner,"Hey, friends stick together."
+16195,87,270,1020000,Woman #3,Diner,It's amazing how through all this adversity we managed to stick together.
+16196,87,271,1024000,Woman #4,Diner,"If there's one thing decent folk do, it's stick together."
+16197,87,272,1028000,Waitress,Diner,I hate it when the waffles stick together.
+16198,87,273,1030000,Fry Cook,Diner,Sticking together is what good waffles do.
+16199,87,274,1032000,RUTH,Diner,"Thanks, kid."
+16200,87,275,1045000,RUTH,Diner,"Marge, what are you doing?"
+16201,87,276,1046000,Marge Simpson,Diner,"Ruth, I've done a lot of thinking, and I really consider you a friend. And an important part of friendship is..."
+16203,87,278,1053000,Diner Owner,Diner,You stupid kid! You know that drives away all my business!
+16204,87,279,1057000,Kearney Zzyzwicz,Diner,"See you tomorrow, loser."
+16206,87,281,1065000,Chief Wiggum,Highway,"Mmmm, engine block eggs. If we can keep these down, we'll be sittin' pretty."
+16207,87,282,1071000,Homer Simpson,Highway,That's them!
+16208,87,283,1071000,Chief Wiggum,Highway,Quiet. I can't hear the eggs.
+16210,87,285,1074000,Bart Simpson,Simpson Home,"Hey, it's morning, and Mom and Dad aren't home yet."
+16211,87,286,1081000,Lisa Simpson,Simpson Home,"Don't worry, Mr. Hutz is still here to take care of us."
+16212,87,287,1085000,Lionel Hutz,Simpson Home,"Hey, don't touch my stuff! Hey, this isn't the YMCA."
+16215,87,290,1089000,Chief Wiggum,WIGGUM'S CAR,"Dispatch, this is Chief Wiggum back in pursuit of the rebelling women."
+16216,87,291,1094000,Dispatcher,WIGGUM'S CAR,All right. Your current location?
+16217,87,292,1094000,Chief Wiggum,WIGGUM'S CAR,"Oh, uhhh... I'm on a road... looks to be asphalt. Aw geez, trees, shrubs, I'm directly under the Earth's sun... now."
+16219,87,294,1107000,Announcer,Simpson Home,We now interrupt this program for a special bulletin.
+16220,87,295,1111000,Kent Brockman,Simpson Home,We've just received word of a high-speed desert chase. The suspects have been identified as Ruth Powers and Marge Simpson of Springfield.
+16222,87,297,1119000,Bart Simpson,Simpson Home,Cool!
+16223,87,298,1121000,Lisa Simpson,Simpson Home,"I always knew some day Mom would violently rise up, and cast off the shackles of our male oppressors."
+16224,87,299,1124000,Bart Simpson,Simpson Home,"Eh, shut your yap."
+16225,87,300,1128000,Kent Brockman,Simpson Home,"At the risk of editorializing, these women are guilty, and must be dealt with in a harsh and brutal fashion. Otherwise, their behavior could incite other women, leading to anarchy of biblical proportions. It's in Revelations, people!"
+16227,87,302,1145000,RUTH,Ruth's Car,"Look! We're only two miles from the state line. We're gonna make it, we're gonna be okay."
+16228,87,303,1157000,Marge Simpson,Ruth's Car,My God! That must be every policeman in Springfield!
+16229,87,304,1163000,RUTH,Ruth's Car,"That's it, I give up. A single mother can't win in a man's world."
+16230,87,305,1168000,Marge Simpson,Ruth's Car,"Ruth, that's a lot of hooey. It's not over until it's over."
+16231,87,306,1173000,Marge Simpson,Ruth's Car,"I'm sorry, I should have asked first."
+16232,87,307,1175000,RUTH,Ruth's Car,"No Marge, you did it! We really are gonna make it now."
+16233,87,308,1183000,Chief Wiggum,Ruth's Car,"Oh no, they're headed right for the Grand Chasm."
+16234,87,309,1186000,Homer Simpson,Ruth's Car,Oh my God. They're gonna drive right into it just to teach us men a lesson. And it's all my fault!
+16235,87,310,1194000,Homer Simpson,Ruth's Car,Marge! Marge!
+16236,87,311,1196000,Marge Simpson,Ruth's Car,Homer?!
+16237,87,312,1196000,Homer Simpson,Ruth's Car,"Look, Marge, I'm sorry I haven't been a better husband. I'm sorry about the time I tried to make gravy in the bathtub. I'm sorry I used your wedding dress to wax the car... And I'm sorry... Oh well let's just say I'm sorry for the whole marriage up to this point."
+16238,87,313,1210000,Marge Simpson,Ruth's Car,You're right. I am lucky to have him.
+16239,87,314,1212000,Homer Simpson,Ruth's Car,"But please Marge, don't drive into that chasm!"
+16240,87,315,1216000,Marge Simpson,Ruth's Car,Chasm?!
+16243,87,318,1220000,Chief Wiggum,GRAND CHASM,Ha! And to think those idiot environmentalists were protesting this landfill.
+16244,87,319,1236000,Homer Simpson,GRAND CHASM,"Solid waste, I could kiss you."
+16245,87,320,1239000,Homer Simpson,GRAND CHASM,"Mmmmm... Ewwww.... Mmmmm...Ohhh... Mmmmm... Ahhhh. Ooh, I think this was pizza."
+16247,87,322,1248000,Announcer,DRAGNET-STYLE LIMBO,"Ruth Powers was tried in Springfield superior court. The judge dismissed her ex-husband's auto theft charges and forced him to pay all back child support. Mr. Powers blamed the outcome on his lawyer, one Lionel Hutz."
+16249,87,324,1262000,Announcer,LIMBO,"Lionel Hutz, AKA Miguel Sanchez, AKA Doctor Nguyen Van Thoc, was paid eight dollars for his thirty-two hours of baby-sitting. He was glad to get it."
+16250,87,325,1273000,Announcer,LIMBO,"Marge Simpson was charged with a violation of penal code Section 618A, wanton destruction of precious antique cans. She was ordered to pay fifty cents to replace the cans, and $2,000 in punitive damages and mental anguish."
+16251,87,326,1289000,Announcer,LIMBO,Homer Simpson was remanded to the custody of the United States Army neuro-chemical research center at Fort Meade Maryland for extensive testing.
+16252,87,327,1297000,Homer Simpson,LIMBO,Woo hoo!

@@ -1,0 +1,240 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+88426,342,2,35000,Marge Simpson,FANCY ATRIUM,"Now, before we eat, let's remember what we're celebrating today -- after many years of hard work, your father finally paid off the mortgage."
+88427,342,3,46000,Homer Simpson,FANCY ATRIUM,"See you in Hell, document!"
+88428,342,4,50000,Bart Simpson,FANCY ATRIUM,"All right, Dad!"
+88429,342,5,51000,Lisa Simpson,FANCY ATRIUM,Way to build equity!
+88430,342,6,53000,Homer Simpson,FANCY ATRIUM,"Now remember to eat smart, people. Go for the fancy foods -- don't let 'em fill you up with THAT cheap stuff."
+88431,342,7,58000,Server #1,FANCY ATRIUM,"A roll, sir?"
+88432,342,8,60000,Homer Simpson,FANCY ATRIUM,Screw you.
+88433,342,9,61000,Server #2,FANCY ATRIUM,Oatmeal?
+88434,342,10,63000,Homer Simpson,FANCY ATRIUM,Smoked salmon... Shrimp... Crab legs!
+88435,342,11,83000,Homer Simpson,FANCY ATRIUM,I win...
+88436,342,12,86000,Bart Simpson,FANCY ATRIUM,Thinner... thinner... thinner... thinner... too thin.
+88437,342,13,93000,Bart Simpson,FANCY ATRIUM,"Better luck next time, ""Tommy - Virginia Beach."""
+88440,342,16,93000,Bart Simpson,ATRIUM,You ate meat! You ate meat!
+88441,342,17,108000,Lisa Simpson,ATRIUM,You ate fruit! You ate fruit!
+88442,342,18,115000,Marge Simpson,ATRIUM,"Stow it, you two!"
+88444,342,20,120000,Marge Simpson,ATRIUM,Stop making a scene!
+88445,342,21,126000,Mayor Joe Quimby,ATRIUM,How rude! What do I have to do to enjoy a Sunday brunch with my secret other family?
+88446,342,22,130000,Homer Simpson,ATRIUM,"I've never been so embarrassed. And the worst part is, this is brunch so you've ruined two meals! I'll see you all at lupper!"
+88448,342,24,137000,Homer Simpson,Moe's Tavern,"Why did I ever have kids? I could have written symphonies, or been Shakespeare."
+88449,342,25,147000,Moe Szyslak,Moe's Tavern,"Here, Homer. Have a big frosty mug of Fuhgetaboutit."
+88450,342,26,152000,Man,Moe's Tavern,"I wouldn't drink that. From the looks of this place, it might kill you."
+88451,342,27,156000,Homer Simpson,Moe's Tavern,"Oh, who are you, the health inspector?"
+88452,342,28,158000,Man,Moe's Tavern,Yes!
+88454,342,30,163000,Health Inspector,Moe's Tavern,"My God, look at this filth. I oughta close this dump down for good!"
+88455,342,31,168000,Health Inspector,Moe's Tavern,"But then where would I go to get away from my wife! C'mere, Moe, you beautiful, hideous troll!"
+88456,342,32,175000,Moe Szyslak,Moe's Tavern,"Guys, this is Frankie from the Health Department. We go way back. Lenny, you don't have to hide that rat."
+88457,342,33,183000,Lenny Leonard,Moe's Tavern,"Off you go, little fella."
+88458,342,34,185000,Moe Szyslak,Moe's Tavern,"When we were kids, our dads used to get drunk and make us fight each other."
+88459,342,35,190000,Health Inspector,Moe's Tavern,My Pop would buy me a malted for every tooth of Moe's I knocked out.
+88460,342,36,194000,Moe Szyslak,Moe's Tavern,"That time you blinded me, he gave you a bike. That sure was a good soundin' bike..."
+88462,342,38,199000,Health Inspector,Moe's Tavern,"Well, now to give this place a ""thorough inspection."""
+88463,342,39,199000,Health Inspector,Moe's Tavern,"Free from infestation, check... Sanitary utensils..."
+88464,342,40,212000,Health Inspector,Moe's Tavern,Check. Food hygienically stored -- only one way to find out.
+88465,342,41,225000,Moe Szyslak,Moe's Tavern,"Oh my God, he's dead."
+88466,342,42,227000,Chief Wiggum,Moe's Tavern,"Okay, which one of you guys parked in front of the hydrant?"
+88467,342,43,232000,Chief Wiggum,Moe's Tavern,"Uh, look, I didn't see nothin' here, okay? Just a bunch of innocent guys, sitting around, none of them dead. Buy yourselves a nice dinner."
+88468,342,44,243000,New Health Inspector,Moe's Tavern,Uh-huh... Uh-huh...
+88469,342,45,248000,Moe Szyslak,Moe's Tavern,"So, uh, Mr. New Guy. Whaddya think? Is everything... hunky dory there?"
+88470,342,46,253000,New Health Inspector,Moe's Tavern,"Mr. Szyslak, your tavern is rife with Health Code violations."
+88471,342,47,256000,Moe Szyslak,Moe's Tavern,You gotta be kiddin' me. Like what?
+88472,342,48,258000,New Health Inspector,Moe's Tavern,"For starters, the body of my predecessor is still on the floor."
+88473,342,49,261000,Moe Szyslak,Moe's Tavern,"Oh yeah. Uh well, ya see, uh trash day ain't 'til Wednesday..."
+88474,342,50,268000,New Health Inspector,Moe's Tavern,Chicken skins in soap dispenser... cigarette butts in the air... toilet on the roof... I'm shutting you down till you fix these violations.
+88475,342,51,275000,Moe Szyslak,Moe's Tavern,"Oh man, I can't afford to fix all that stuff."
+88476,342,52,280000,Moe Szyslak,Moe's Tavern,"Aw, nuts. If anybody needs me, I'll be in the john."
+88477,342,53,293000,Barney Gumble,Moe's Tavern,"O DANNY BOY, THE PIPES THE PIPES ARE CALLING / FROM GLEN TO GLEN AND DOWN THE MOUNTAIN SIDE / THE SUMMER'S GONE AND ALL THE ROSES FALLING / 'TIS YOU, 'TIS YOU MUST GO, AND I MUST BIDE."
+88478,342,54,326000,Homer Simpson,Moe's Tavern,"Moe's, a tribute. ""M"" is for Moe, the owner of Moe's. ""O"" is for the ""O"" in the middle of Moe's. ""E"" is for acceptance. The feeling I always got here at Moe's. Oh Moe, don't let 'em close you down!"
+88479,342,55,345000,Moe Szyslak,Moe's Tavern,"It's too late -- I don't got the cash to clean up the bar. From now on, you guys are gonna hafta do your drinking across the street."
+88480,342,56,357000,Carl Carlson,Moe's Tavern,"Hey, a beer's a beer."
+88481,342,57,360000,Homer Simpson,Moe's Tavern,"I can't go to a gay bar, I'm too fat! Moe, I'm gonna help you reopen your bar no matter what it takes."
+88484,342,60,371000,Loan Officer,Bank,"Mr. Simpson, for a loan this big, you'll have to put up your house as collateral."
+88486,342,61,376000,Homer Simpson,Bank,Put up my house? But I just paid it off... what would Marge say?
+88487,342,62,380000,Moe Szyslak,Bank,Do whatever you have to do to save Moe's. I love my Homie.
+88488,342,63,385000,Homer Simpson,Bank,"Okay honey, I'll do it."
+88489,342,64,387000,Marge Simpson,Bank,What's going on here?
+88490,342,65,388000,Moe Szyslak,Bank,Nutin'. Nutin'.
+88492,342,67,394000,Moe Szyslak,Moe's Tavern,"Thanks, Homer. No one's ever trusted me before -- except for that one guy who shouldn't have."
+88493,342,68,399000,Homer Simpson,Moe's Tavern,That was me.
+88494,342,69,399000,Moe Szyslak,Moe's Tavern,Oh yeah.
+88496,342,71,400000,Marge Simpson,Simpson Home,"Homer, those kookoo-birds at the bank goofed up and sent us a mortgage statement."
+88497,342,72,405000,Homer Simpson,Simpson Home,Marge! How dare you open a letter addressed to both of us?
+88498,342,73,409000,Marge Simpson,Simpson Home,M631700000642J?! This is a new loan tracking number -- you got a new mortgage?
+88499,342,74,418000,Homer Simpson,Simpson Home,I had to! Or Moe's would stay closed forever!
+88500,342,75,421000,Marge Simpson,Simpson Home,You gave the money to Moe? How's he gonna pay us back?
+88501,342,76,425000,Homer Simpson,Simpson Home,"Look, look. I can see you're upset. If you need me, I'll be at Moe's."
+88502,342,77,429000,Marge Simpson,Simpson Home,"Well, maybe I'll go to Moe's too, seeing as I'm now part owner."
+88503,342,78,432000,Homer Simpson,Simpson Home,"Marge, you can't go with me to Moe's. I mean, how would you like it if I came with you to your mother's?"
+88504,342,79,437000,Marge Simpson,Simpson Home,I would like it. You never come to my mother's.
+88505,342,80,440000,Homer Simpson,Simpson Home,That's because I hate her.
+88507,342,82,444000,Marge Simpson,Moe's Tavern,"Until you pay us back, you're answering to me! And there's gonna be big changes."
+88508,342,83,449000,Moe Szyslak,Moe's Tavern,"Whoa, whoa, whoa, now wait just a minute. One thing Moe Szyslak has never had is a partner. Nor a wife, a friend, a chum, a casual acquaintance, a pen pal, a parrot, a meaningful conversation, a brief hug or eye contact."
+88509,342,84,465000,Moe Szyslak,Moe's Tavern,I'm just going to call the suicide hotline now. And they've blocked my number! Oh God!
+88512,342,87,486000,Homer Simpson,Springfield Nuclear Power Plant,Just made it!
+88513,342,88,488000,Foreman,Springfield Nuclear Power Plant,Quittin' time!
+88515,342,90,495000,Homer Simpson,Moe's Tavern,"Boy, I can't wait to get my lips around an ice cold..."
+88485,342,91,499000,Homer Simpson,Moe's Tavern,... Marge?
+88516,342,92,500000,Marge Simpson,Moe's Tavern,I'm here protecting our investment. I'd like you to go home and make dinner for the kids.
+88517,342,93,506000,Homer Simpson,Moe's Tavern,"But I don't wanna take care of the kids... Um... how many cigars are they allowed to have? Bart sleeps in the microwave, right?"
+88518,342,94,514000,Marge Simpson,Moe's Tavern,Quit playing dumb.
+88519,342,95,515000,Homer Simpson,Moe's Tavern,"How many magic beans should I sell the baby for? Three? Duh, der, duh. That's me, jerk-ass Homer. Duh, der, doy."
+88520,342,96,524000,Marge Simpson,Moe's Tavern,"Come on, go home."
+88523,342,99,527000,Marge Simpson,Moe's Tavern,"Maybe some cheerier paint would make this place less of a ""dive."""
+88524,342,100,533000,Moe Szyslak,Moe's Tavern,"Marge, my customers don't like themselves. Therefore, they seek the darkness."
+88526,342,102,541000,Marge Simpson,Moe's Tavern,"Well... as fabulous as your regulars are, a remodel might bring in a higher class of lush."
+88527,342,103,548000,Moe Szyslak,Moe's Tavern,"Look, I like Moe's the way it is, all right? And I ain't changin' it for any dame, skirt, Susie-Q, or face-macer."
+88528,342,104,554000,Marge Simpson,Moe's Tavern,"I had a feeling you'd say that. So I prepared something that might help you ""change your tune."""
+88529,342,105,564000,Marge Simpson,Moe's Tavern,THIS PLACE IS A DIAMOND / BUT IT'S TRAPPED IN THE ROUGH
+88530,342,106,567000,Moe Szyslak,Moe's Tavern,"YEAH WELL THE SIGN STILL SAYS ""MOE'S"" / SO ENOUGH OF YOUR GUFF"
+88531,342,107,570000,Marge Simpson,Moe's Tavern,HERE'S MY NEW IDEA TO SELL BOTH BEER AND GRUB / WE WILL TURN THIS FILTHY DIVE INTO A PROPER OLD-TIME BRITISH PUB!
+88532,342,108,579000,Moe Szyslak,Moe's Tavern,A British whaaa?
+88533,342,109,582000,Lisa Simpson,Moe's Tavern,"DARTS AND MEATPIES, AND LAGER IN PINT GLASSES"
+88534,342,110,586000,Lisa Simpson,Moe's Tavern,WHAT A CLASSY WAY TO GET DRUNK OFF YOUR ASSES
+88535,342,111,591000,Moe Szyslak,Moe's Tavern,"Hey, hold the phone. An English Pub, that just might work."
+88536,342,112,595000,Carl Carlson,Moe's Tavern,IN SO-NG!
+88537,342,113,597000,Moe Szyslak,Moe's Tavern,"Uh... MY BAR COULD BE BRITISH / INSTEAD OF ARM-PITTISH / SO WHY DON'T WE ALL Eh, screw it."
+88538,342,114,604000,Moe Szyslak,Moe's Tavern,Let's get renovatin'.
+88539,342,115,609000,Marge Simpson,Moe's Tavern,"Well, I was thinking more like drapes and a paint job, but your idea's good too."
+88540,342,116,614000,Moe Szyslak,Moe's Tavern,Thanks.
+88542,342,118,624000,Judge Snyder,Moe's Tavern,"Pint of ale, my dear?"
+88543,342,119,625000,Lindsay Naegle,Moe's Tavern,"Well thank you, your honor. You know, you're kind of sexy."
+88544,342,120,629000,Judge Snyder,Moe's Tavern,That's a deliberate mis-statement of fact. But I'll allow it.
+88545,342,121,641000,Moe Szyslak,Moe's Tavern,"My first credit card! Wow, the numbers are all bumpy-like."
+88547,342,123,652000,Kent Brockman,Simpson Home,"So, Mr. Boswell. What do you think of the new Moe's?"
+88548,342,124,655000,Mr. Boswell,Simpson Home,"Marge Simpson and Moe Szyslak, here's a mash note to your bangers: I wish you could live in me forever!"
+88549,342,125,663000,Moe Szyslak,Simpson Home,"Thanks, Freakazoid. I'd just like to say that there's one person to whom I really owe my newfound success: Marge Simpson."
+88550,342,126,671000,Marge Simpson,Simpson Home,"Thanks, Moe."
+88551,342,127,672000,Bart Simpson,Simpson Home,"Dad, Mom's spending more time at Moe's than you are."
+88552,342,128,675000,Lisa Simpson,Simpson Home,And they seem awfully chummy.
+88553,342,129,676000,Homer Simpson,Simpson Home,Just what are you inferring?
+88554,342,130,678000,Lisa Simpson,Simpson Home,I'm not inferring anything. You infer. I imply.
+88555,342,131,681000,Homer Simpson,Simpson Home,"Whew, that's a relief!"
+88556,342,132,687000,Marge Simpson,Simpson Home,"Boy, what a night! Moe showed me how to give someone the bum's rush. Here, watch."
+88557,342,133,693000,Marge Simpson,Simpson Home,"Get lost, rummy!"
+88558,342,134,697000,Homer Simpson,Simpson Home,"Ah yes, Detroit-style. Very nice. So, you've been at Moe's every night this week."
+88559,342,135,704000,Marge Simpson,Simpson Home,"I know, I used to think of Moe as a scabby, dead-eyed hunchback. But now that I've gotten to know him, we kind of bonded."
+88560,342,136,711000,Homer Simpson,Simpson Home,Bonded?! How many times?
+88561,342,137,713000,Marge Simpson,Simpson Home,"Homer, Moe and I are just work friends. You and I are... marriage friends."
+88562,342,138,719000,Homer Simpson,Simpson Home,"Thanks, honey. My mind is completely at ease."
+88563,342,139,728000,Moe Szyslak,Simpson Home,"Hey, it's me."
+88564,342,140,729000,Marge Simpson,Simpson Home,"Moe? What's up, partner?"
+88565,342,141,731000,Moe Szyslak,Simpson Home,"Marge, sorry to call you so late but I had a great idea: put cutesy signs outside the restrooms that say ""dukes"" and ""dames"" instead of the ones we have now that say ""standups"" and ""sitdowns."" Huh? Tell me honestly, what do you think?"
+88566,342,142,744000,Marge Simpson,Simpson Home,"Ooh, that's a great idea."
+88567,342,143,746000,Moe Szyslak,Simpson Home,"Thanks! Wait, are you sure I'm not interruptin' anything?"
+88568,342,144,750000,Marge Simpson,Simpson Home,Of course not! I'm in bed with Homer!
+88569,342,145,752000,Moe Szyslak,Simpson Home,"Hey, also, I wanna...."
+88570,342,146,755000,Homer Simpson,Simpson Home,"Well, I might as well use this pucker for something."
+88572,342,148,777000,Announcer,Springfield Googolplex Theatres,Coming this summer from Dreamworks:
+88573,342,149,777000,Announcer,Springfield Googolplex Theatres,Cards!
+88574,342,150,784000,Announcer,Springfield Googolplex Theatres,Fifty-two jokers playing the game of their lives.
+88575,342,151,787000,Three Of Diamonds,Springfield Googolplex Theatres,I don't wanna be a three! I wanna be a seven!
+88576,342,152,789000,Five Of Diamonds,Springfield Googolplex Theatres,"Shut up, kid. You're as crazy as an eight, I'm telling you."
+88577,342,153,793000,Announcer,Springfield Googolplex Theatres,With Eddie Murphy as the Jack of Clubs.
+88578,342,154,795000,Jack Of Clubs,Springfield Googolplex Theatres,"You don't understand, officer. I thought that king was a queen."
+88579,342,155,801000,Announcer,Springfield Googolplex Theatres,"This summer, the house is full and the deuces are wild! In ""Cards""!"
+88580,342,156,807000,Eight Of Clubs,Springfield Googolplex Theatres,"Hey, Jack. Got any twos?"
+88581,342,157,809000,Jack Of Diamonds,Springfield Googolplex Theatres,You can't handle the twos!
+88583,342,159,813000,Homer Simpson,Theater,"Oh Marge, don't you love it when our hands meet in the popcorn tub?"
+88584,342,160,818000,Marge Simpson,Theater,Mm-hmm.
+88586,342,162,821000,Moe Szyslak,Theater,"Hey, Marge!"
+88587,342,163,823000,Marge Simpson,Theater,"Howdy, partner! Why don't you sit next to us?"
+88588,342,164,826000,Homer Simpson,Theater,Hey Moe... haven't seen you in a while.
+88589,342,165,829000,Moe Szyslak,Theater,"Uh yeah, how ya doin' there, Homer? Did you ever pass that G.I. Joe you swallowed?"
+88590,342,166,832000,Homer Simpson,Theater,How do you know about that?
+88591,342,167,834000,Moe Szyslak,Theater,"Oh, Marge told me. We share everything."
+88592,342,168,835000,Homer Simpson,Theater,You do?
+148620,342,169,838000,Homer's Thoughts,Theater,Don't worry -- they're just friends. There's nothing physical between them.
+88593,342,170,842000,Marge Simpson,Theater,"Homer, can you hold my wedding ring for a second? My finger's itchy."
+148621,342,171,846000,Homer's Thoughts,Theater,"Uh-oh! I'm gonna have to work on my marriage. Or, alternatively..."
+88595,342,173,856000,Lenny Leonard,Springfield Nuclear Power Plant,"Somethin' wrong, Homer?"
+88596,342,174,857000,Homer Simpson,Springfield Nuclear Power Plant,"Well... I'm worried about Marge and Moe. They've developed an intimate bond of thoughts and feelings completely separate from me. But it's not physical. So everything's great, right?"
+88597,342,175,867000,Lenny Leonard,Springfield Nuclear Power Plant,"Homer, it's time you learned the sad truth."
+88598,342,176,870000,Homer Simpson,Springfield Nuclear Power Plant,Can I learn it at a happy place?
+88600,342,178,876000,Carl Carlson,Itchy & Scratchy Land,"Moe and Marge are having an ""emotional affair."""
+88601,342,179,876000,Lenny Leonard,Itchy & Scratchy Land,"Although there's no physical intimacy, there's a deep spiritual connection that threatens to destroy your marriage."
+88602,342,180,883000,Homer Simpson,Itchy & Scratchy Land,What do I do?
+88603,342,181,885000,Lenny Leonard,Itchy & Scratchy Land,"Engage her feelings, become her friend... ooh, get her a Life Magazine from the week she was born. I'll always treasure mine."
+88604,342,182,894000,Homer Simpson,Itchy & Scratchy Land,You're absolutely right! Stop this ride!
+88605,342,183,898000,SQUEAKY-VOICED TEEN ATTENDANT,Itchy & Scratchy Land,You're the boss!
+88606,342,184,906000,Toddler,Itchy & Scratchy Land,"I wanna go again, Daddy! Daddy?"
+88608,342,186,909000,Homer Simpson,Simpson Home,"Marge, my darling! Thank God you're home! I've been dying to hear your feelings!"
+88609,342,187,915000,Marge Simpson,Simpson Home,"Oh, I'm too tired to talk."
+88610,342,188,917000,Homer Simpson,Simpson Home,"Well, I can go all night, baby. I could listen to you two, maybe three, times."
+88611,342,189,922000,Marge Simpson,Simpson Home,"Homie, I'm tired. I have to get up early to catch my flight."
+88612,342,190,926000,Homer Simpson,Simpson Home,Catch your flight?
+88613,342,191,929000,Marge Simpson,Simpson Home,Moe and I are going to the Tavern and Restaurant Owners Convention in Aruba this weekend. Don't you ever listen to me? I told you ten times.
+88614,342,192,944000,MOE-BIRD,Simpson Home,Cuckold! Cuckold! Cuckold!
+88615,342,193,947000,Homer Simpson,Simpson Home,What's a cuckold?
+88616,342,194,962000,Bart Simpson,Simpson Home,Where's Mom going with Uncle Moe?
+88617,342,195,964000,Homer Simpson,Simpson Home,He's only your emotional uncle! I'm your real uncle!
+88618,342,196,967000,Lisa Simpson,Simpson Home,"Well, if Hollywood movies have taught us anything, it's that troubled relationships can be completely patched up by a mad dash to the airport."
+88619,342,197,974000,Homer Simpson,Simpson Home,I'm off!
+88621,342,199,975000,Pilot,Springfield International Airport,"Folks, welcome to No Frills Airlines flight to Aruba."
+88623,342,201,978000,Pilot,Airplane,"Safety Instructions are two dollars. If you require wheelchair assistance, you picked the wrong airline. Ha, ha."
+88624,342,202,988000,Moe Szyslak,Airplane,"Uh you know, Marge, I've really enjoyed you workin' at the bar."
+88625,342,203,991000,Marge Simpson,Airplane,"Me too, Moe. What a nice surprise that we've become friends."
+88626,342,204,997000,Moe's Thoughts,Airplane,"Yeah. Oh Marge, I'm so in love with you. And tonight, after some surf 'n' turf and a bottle of champagne, maybe some Snickers pie, I'll explain how the hotel made a little ""mistake"" and we gotta stay in the same room. oh yeah."
+88627,342,205,1011000,Marge Simpson,Airplane,"Moe, your upper lip is trembling."
+88628,342,206,1014000,Moe Szyslak,Airplane,"Oh, I'm just excited because they're showin' an episode of ""Boy Meets World"" on this flight. Oh no, wait. That's only on flights from Europe. We just get that little plane."
+88629,342,207,1022000,Moe Szyslak,Airplane,"Hey wait a minute, what the Hell is that?"
+88631,342,209,1029000,Homer Simpson,Homer's Car,"Hang on, Marge, Homie's comin'! I won't let that man make you happy!"
+88634,342,212,1036000,Chief Wiggum,Highway,"Simpson, you were going a hundred in a twenty-five zone. And you're not gonna flirt your way outta this one."
+88635,342,213,1042000,Homer Simpson,Highway,But I have to get to the airport to save my marriage!
+88636,342,214,1045000,Chief Wiggum,Highway,"Really? Well, why didn't you say so? Let's roll!"
+88637,342,215,1048000,Lou,Highway,You didn't work this hard to save my marriage.
+88638,342,216,1051000,Chief Wiggum,Highway,"Wake up, Lou. She was way outta your league."
+88640,342,218,1056000,Flight Attendant,Airplane,Flight attendants prepare for take-off.
+88641,342,219,1063000,Moe's Thoughts,Airplane,Time for some shuba-duba in Aruba.
+88642,342,220,1069000,Moe Szyslak,Airplane,Oh my God!
+88643,342,221,1071000,Marge Simpson,Airplane,"Moe, did you see something troubling on the tarmac?"
+88644,342,222,1073000,Moe Szyslak,Airplane,"No, why you say that?"
+88646,342,224,1076000,Homer Simpson,Plane,"You gotta get me closer, Chief!"
+88647,342,225,1080000,Chief Wiggum,Plane,Anything for love!
+88649,342,227,1080000,Moe Szyslak,Airplane,"Okay, time to chase this pig into the sty. Uh Marge, you deserve a man who listens to you. Who respects you. Who understands what a treasure you really are."
+88650,342,228,1095000,Marge Simpson,Airplane,I don't know what to say.
+88651,342,229,1097000,Moe Szyslak,Airplane,"Just say you love me, Marge. Love me like I love you. Please?"
+88652,342,230,1104000,Homer Simpson,Airplane,Marge!
+88653,342,231,1106000,Marge Simpson,Airplane,That sounds like Homer.
+88654,342,232,1106000,Moe Szyslak,Airplane,No-it-isn't-I-don't-hear-nothin'-you're-crazy-get-outta-here-will-you-marry-me?
+88655,342,233,1110000,Marge Simpson,Airplane,Homer! How'd you get in here?
+88656,342,234,1114000,Homer Simpson,Airplane,Toilet hole.
+88657,342,235,1116000,Homer Simpson,Airplane,You leave my wife alone!
+88658,342,236,1116000,Moe Szyslak,Airplane,You don't deserve her! You know nothin' about Marge -- what's her favorite food?
+88659,342,237,1120000,Homer Simpson,Airplane,Uh... ice?
+88661,342,238,1122000,Moe Szyslak,Airplane,Wrong. It's buttered noodles.
+88662,342,239,1124000,Marge Simpson,Airplane,He's right.
+88663,342,240,1125000,Homer Simpson,Airplane,"Oh, it's true. I don't know Marge at all. I'll just go home now."
+88664,342,241,1135000,Krusty the Clown,Airplane,Shut it! Shut it!
+88665,342,242,1140000,Homer Simpson,Airplane,"Moe, you've won. I'll see you at baggage claim."
+88666,342,243,1144000,Moe Szyslak,Airplane,"Hot damn, I won! Marge, I swear I'll be the best man you ever had. It's gonna be all flowers and back rubs and how-was-your-day dear and--"
+88667,342,244,1152000,Marge Simpson,Airplane,Moe! No I don't love you. And I'm certainly not going to leave my husband.
+88668,342,245,1158000,Moe Szyslak,Airplane,You mean I listened to all your touchy-feely yip-yap for nothin'?
+88669,342,246,1161000,Marge Simpson,Airplane,I'm afraid so.
+88670,342,247,1162000,Moe Szyslak,Airplane,At least I had a couple sips from your coke when you went to the bathroom.
+88671,342,248,1167000,Marge Simpson,Airplane,Homie...
+88672,342,249,1169000,Homer Simpson,Airplane,"Marge, I just wanna say: if you ever feel like cheating on Moe, here's my card."
+88673,342,250,1176000,Marge Simpson,Airplane,"Homer, I made a vow on our wedding day, to stay by you -- for better or worse. And besides... I love you. You're my Homie-womie-romie-domie..."
+88674,342,251,1186000,Homer Simpson,Airplane,And you're my Margie-wargie-bargie-fargie-gargie-margie-targie-glargie.
+88675,342,252,1192000,Moe Szyslak,Airplane,I may have dodged a bullet here.
+88677,342,254,1198000,Moe Szyslak,Beach,"Might as well face it, I'll never find anyone. Come on tide -- take me with ya. I just don't wanna feel no more pain."
+88679,342,256,1210000,Marge Simpson,Beach,"Moe, I need to tell you something."
+88680,342,257,1216000,Marge Simpson,Beach,You showed me you could be a really sweet guy. You can make a woman very happy some day.
+88681,342,258,1222000,Moe Szyslak,Beach,Wow. For realsies?
+88682,342,259,1223000,Marge Simpson,Beach,It's true. You'd be quite a catch... if you'd just shower and shave and stop swearing under your breath.
+88683,342,260,1230000,Moe Szyslak,Beach,"Thanks, Marge... Know-it-all bitch. Oh, uh, did I mention there was a mistake at the front desk?"
+88684,342,261,1239000,Marge Simpson,Beach,Really? Is it one that will change the sleeping arrangements?
+88685,342,262,1242000,Moe Szyslak,Beach,Could be. Could be.
+88687,342,264,1246000,Homer Simpson,Hotel Room,"Listen, I gotta tell ya, I chew in my sleep."
+88688,342,265,1248000,Moe Szyslak,Hotel Room,"Yeah well, I sweat blood."
+88689,342,266,1250000,Marge Simpson,Hotel Room,"Goodnight, both of you."
+88690,342,267,1253000,Marge Simpson,Hotel Room,Who's watching the kids?
+88692,342,269,1256000,Lisa Simpson,HOT AIR BALLOON,Are you sure Mom and Dad want us to enter a European balloon race?
+88693,342,270,1260000,Bart Simpson,HOT AIR BALLOON,"Sure, why not."
+88694,342,271,1271000,Marge Simpson,HOT AIR BALLOON,LOVE LOVE WILL KEEP US TOGETHER
+88695,342,272,1277000,Homer Simpson,HOT AIR BALLOON,THINK OF ME BABE WHENEVER / SOME SWEET TALKING GUY IN A THONG / HANDS YOU A BONG / DON'T TAKE...
+88696,342,273,1287000,Homer Simpson,HOT AIR BALLOON,YOU BETTER BE STRONG
+88697,342,274,1290000,Marge Simpson,HOT AIR BALLOON,YOU'D BETTER STOP
+88698,342,275,1292000,Homer Simpson,HOT AIR BALLOON,'CAUSE I WANT A SANDWICH
+88699,342,276,1293000,Marge Simpson,HOT AIR BALLOON,I SAID STOP
+88700,342,277,1295000,Homer Simpson,HOT AIR BALLOON,OR MAYBE A MANWICH...

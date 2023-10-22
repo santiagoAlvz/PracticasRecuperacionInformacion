@@ -1,0 +1,197 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+129687,500,24,215000,Homer Simpson,STORM SHELTER,"All right, everybody in!"
+129688,500,25,228000,Marge Simpson,STORM SHELTER,"All right, who's the wisenheimer that's been eating the powdered food?"
+129689,500,26,232000,Bart Simpson,STORM SHELTER,Not me.
+129690,500,27,232000,Homer Simpson,STORM SHELTER,Two can play at that game.
+129691,500,28,242000,Homer Simpson,STORM SHELTER,I can do this... I can do this...
+129692,500,29,255000,Homer Simpson,STORM SHELTER,"Boy, I told you an hour ago. Stop that!"
+129693,500,30,258000,Bart Simpson,STORM SHELTER,But Bunkerball is keeping us sane!
+129694,500,31,262000,Lisa Simpson,STORM SHELTER,"Do we really have to sit here the whole time? I mean, if we went out now, it might be cool to see the town empty."
+129695,500,32,269000,Bart Simpson,STORM SHELTER,Yeah! I could sneak into the school and write whatever I want on the chalkboard!
+129696,500,33,273000,Lisa Simpson,STORM SHELTER,I could see a planetarium show without the secondhand marijuana!
+129697,500,34,277000,Homer Simpson,STORM SHELTER,And I can drive drunk while I'm actually sober!
+129699,500,36,284000,Homer Simpson,Springfield Streets,"It's fun, but not as fun."
+129700,500,37,286000,Marge Simpson,Springfield Streets,That's odd.
+129701,500,38,287000,Marge Simpson,Springfield Streets,Why are all those cars parked at City Hall?
+129702,500,39,289000,Bart Simpson,Springfield Streets,Ay carumba!
+129703,500,40,291000,Lisa Simpson,Springfield Streets,"If I didn't know better, I'd say it was a town meeting."
+129704,500,41,295000,Marge Simpson,Springfield Streets,"Not without us, it isn't! Pull over."
+129707,500,44,303000,Mayor Joe Quimby,TOWN HALL MEETING ROOM,"Welcome to this secret meeting, made possible by the fake disaster drill. And a special thanks for the hard work of the Mystery And Secrecy Committee."
+129708,500,45,311000,Cloaked Member,TOWN HALL MEETING ROOM,"We have names, you know!"
+129709,500,46,313000,Mayor Joe Quimby,TOWN HALL MEETING ROOM,Quit complaining! You only meet once a month!
+129710,500,47,316000,Comic Book Guy,TOWN HALL MEETING ROOM,"Yes, but the meetings last eight hours!"
+129711,500,48,318000,Disco Stu,TOWN HALL MEETING ROOM,Shut up! Shut up! This is the most fun I have!
+129712,500,49,323000,Mayor Joe Quimby,TOWN HALL MEETING ROOM,And now for the reason we are here.
+129713,500,50,327000,Marge Simpson,TOWN HALL MEETING ROOM,What's going on? Why is there a picture of us? This isn't good.
+129714,500,51,331000,Homer Simpson,TOWN HALL MEETING ROOM,"Oh honey, why must you always assume that a huge picture of us, at a secret meeting we weren't told about, is a bad thing?"
+129715,500,52,337000,Mayor Joe Quimby,TOWN HALL MEETING ROOM,The results are in: this town has voted unanimously to get rid of Springfield's unending nightmare: the Simpsons.
+129717,500,54,347000,Moe Szyslak,TOWN HALL MEETING ROOM,They're here! The monsters are here!
+129718,500,55,349000,Marge Simpson,TOWN HALL MEETING ROOM,"Moe, it's me, Marge! I'm your friend!"
+129719,500,56,353000,Moe Szyslak,TOWN HALL MEETING ROOM,The monster queen is comin' on to me!
+129721,500,58,361000,Lisa Simpson,Springfield Town Hall,Why would you want to banish us from Springfield?
+129722,500,59,363000,Homer Simpson,Springfield Town Hall,"Yeah. We're like family to you. I'm talking to you, headphone-bus driver guy."
+129723,500,60,369000,Otto Mann,Springfield Town Hall,I'll have you know I'm also a hair donor! Salma Hayek wore me to the Oscars!
+129724,500,61,375000,Mayor Joe Quimby,Springfield Town Hall,"This is not about who wore whose hair where. We are here to banish the Simpsons, although we are not pleased to be doing so."
+129725,500,62,383000,Chief Wiggum,Springfield Town Hall,I am!
+129726,500,63,384000,Dr. Julius Hibbert,Springfield Town Hall,Me too.
+129727,500,64,385000,Rabbi Hyman Krustofsky,Springfield Town Hall,I feel like a kid at Christmas!
+129728,500,65,387000,Sideshow Bob,Springfield Town Hall,I believe you know my position.
+129729,500,66,389000,Mayor Joe Quimby,Springfield Town Hall,I know we're all happy-- I'm just trying to spare their feelings.
+129730,500,67,393000,Cookie Kwan,Springfield Town Hall,Those freaks have no feelings! Even baby never cry!
+129731,500,68,399000,Cookie Kwan,Springfield Town Hall,What baby does that?!
+129732,500,69,401000,Marge Simpson,Springfield Town Hall,Why would an entire town go to all this fuss to get rid of one family? What have we done that's so terrible?
+129733,500,70,408000,Mayor Joe Quimby,Springfield Town Hall,I'm glad you asked.
+129734,500,71,409000,Mayor Joe Quimby,Springfield Town Hall,"The simple fact is, the city is going broke cleaning up after Homer's drunken shenanigans..."
+129735,500,72,417000,Homer Simpson,Springfield Town Hall,We won! Woo hoo!
+129736,500,73,419000,Marge Simpson,Springfield Town Hall,Homer! That is not banishment-hearing behavior!
+129737,500,74,422000,Mayor Joe Quimby,Springfield Town Hall,"Bart's pranks, which dwindle in humor as they rise in destruction..."
+129738,500,75,428000,Mayor Joe Quimby,Springfield Town Hall,And Liser's environmental initiatives...
+129739,500,76,433000,Marge Simpson,Springfield Town Hall,If I may speak.
+129740,500,77,434000,Mayor Joe Quimby,Springfield Town Hall,Um-hm.
+129741,500,78,436000,Marge Simpson,Springfield Town Hall,We're not monsters. We're just people. People who love each other and love this town. The only place we've ever called home. Thank you.
+129742,500,79,450000,Mayor Joe Quimby,Springfield Town Hall,"Marge, you are a sweet woman and you make us see your family in a more forgiving light."
+129743,500,80,455000,Marge Simpson,Springfield Town Hall,Thank you.
+129744,500,81,456000,Mayor Joe Quimby,Springfield Town Hall,Which is why you're the worst Simpson of all!
+129747,500,84,460000,Homer Simpson,Springfield Town Hall,"Now, now, now just a second here! Now, I know we're not perfect. But, uh, I believe it was Sammy Hagar who said--"
+129748,500,85,467000,Sideshow Mel,Springfield Town Hall,Silence!
+129749,500,86,470000,Sideshow Mel,Springfield Town Hall,"That was an ""inside me"" bone!"
+129751,500,88,476000,Ned Flanders,Springfield Town Hall,Make way for Captain Coolerhead!
+129752,500,89,478000,Ned Flanders,Springfield Town Hall,"Now, I like a good old-fashioned witch trial as much as the next person, but I do not think we should be so quick to judge our long-time neighbors..."
+129753,500,90,485000,Mayor Joe Quimby,Springfield Town Hall,"Not so fast, Flanders. We knew you'd be the voice of mercy. And we're prepared to answer your concerns."
+129754,500,91,495000,Mayor Joe Quimby,Springfield Town Hall,Any other objections?
+129756,500,93,496000,Ned Flanders,Parking Lot,I withdraw my... diddily...
+129758,500,95,504000,Homer Simpson,Outskirts Of Town,"I always thought ""tarred and feathered"" was just a figure of speech."
+129759,500,96,508000,Homer Simpson,Outskirts Of Town,Good luck patching potholes and stuffing pillows now!
+129760,500,97,514000,Mayor Joe Quimby,Outskirts Of Town,"Simpsons, in accordance with article six, section two of the town charter..."
+129761,500,98,518000,Homer Simpson,Outskirts Of Town,"Wait! If you banish us, you shall be cursed with a thousand-year drought."
+129762,500,99,526000,Homer Simpson,Outskirts Of Town,I mean a thousand-year flood!
+129763,500,100,530000,Homer Simpson,Outskirts Of Town,I mean a thousand years of perfect weather.
+129764,500,101,533000,Mayor Joe Quimby,Outskirts Of Town,Just get out!
+129766,500,103,536000,HANK WILLIAMS,Highway,I'M A ROLLING STONE / ALL ALONE AND LOST...
+129768,500,105,543000,HANK WILLIAMS,Car,FOR A LIFE OF SIN / I HAVE PAID THE COST...
+129769,500,106,551000,Marge Simpson,Car,That was the last Springfield radio station. Now we just get Shelbyville talk radio.
+129770,500,107,557000,Shelbyville Announcer,Car,"If you see a Simpson, do not try to reason with it. Just kill it and turn in the pelt for a free soda."
+129771,500,108,563000,Homer Simpson,Car,"Soda, eh?"
+129772,500,109,568000,Lisa Simpson,Car,"Dad, where are we going? Do we have a plan?"
+129773,500,110,572000,Homer Simpson,Car,"Oh, let's face it. I'm the one that's brought this fate upon us. And there's only one way out: I've gotta man up. Okay, manning up... manning up. Mannning-- Girling down! Girling down!"
+129775,500,111,591000,Bart Simpson,Car,"Hey, Henrietta Hippo, I've got to drain the inchworm."
+129776,500,112,594000,Homer Simpson,Car,Fine.
+129777,500,113,604000,Homer Simpson,Car,Please. Put that down.
+129778,500,114,605000,Bart Simpson,Car,I just got started!
+129779,500,115,606000,Homer Simpson,Car,Not you! Him!
+129780,500,116,608000,Mountain Man,Car,You best get back where you belong!
+129781,500,117,610000,Marge Simpson,Car,"Please sir, we've been thrown out of a place we've always called home. We just wanna live out our lives in peace."
+129782,500,118,617000,Mountain Man,Car,"Rejected by society, huh? Well, why didn't you say so? Welcome to the off-the-grid, unincorporated settlement we proudly call ""The Outlands!"""
+129783,500,119,621000,Homer Simpson,Car,"We found a new home! When God shuts a door, he opens a window."
+129784,500,120,636000,Mountain Man,Car,"Oh, I wouldn't be openin' no windows. Coyotes will take your baby."
+129785,500,121,646000,Mountain Man,Car,THE OUT-LANDS!
+129786,500,122,677000,Homer Simpson,Car,"Eh, I'm sick of watching Fox. Let's get some fresh air. I got the ATV's right out back."
+129787,500,123,683000,Bart Simpson,Car,Should I get my helmet?
+129788,500,124,684000,Homer Simpson,Car,Helmet? That's Springfield talk.
+129790,500,126,687000,Bart Simpson,THE OUTLANDS,Is there gas in these?
+129791,500,127,688000,Homer Simpson,THE OUTLANDS,Springfield talk!
+129792,500,128,690000,Bart Simpson,THE OUTLANDS,Well how are we supposed to get fuel?
+129793,500,129,691000,Homer Simpson,THE OUTLANDS,Private plane crashes.
+129794,500,130,694000,Lisa Simpson,THE OUTLANDS,"Ahhh, smell that unpolluted air! Y'know, I'm glad we're in exile."
+129795,500,131,699000,Homer Simpson,THE OUTLANDS,"Yep, I never realized how much I hated every single one of my friends and relatives."
+129796,500,132,704000,Marge Simpson,THE OUTLANDS,I don't think this place is so great.
+129797,500,133,709000,Marge Simpson,THE OUTLANDS,"I'm trying to make the best of things, but I'm worried Maggie is falling in with a bad crowd."
+129799,500,135,717000,Marge Simpson,THE OUTLANDS,I miss our home and I want to go back.
+129800,500,136,720000,Lisa Simpson,THE OUTLANDS,"It's not perfect here, but it is close to nature and if you have an axe to grind, Wikileaks is right over there."
+129801,500,137,729000,Bart Simpson,THE OUTLANDS,"How're you doin', Mr. Assange?"
+129802,500,138,730000,Julian Assange,THE OUTLANDS,"That's my personal information and you have no right to know about it. Hey, but we're neighbors... would you like to come over for a movie sometime?"
+129803,500,139,740000,Marge Simpson,THE OUTLANDS,Is it Iraqi journalists being murdered?
+129805,500,140,742000,Julian Assange,THE OUTLANDS,Don't be ridiculous. It's an Afghan wedding being bombed.
+129806,500,141,746000,Homer Simpson,THE OUTLANDS,Well I've got a really big secret for you... I'm not wearing any underwear.
+129807,500,142,752000,Julian Assange,THE OUTLANDS,"You know, you should really get out less."
+129808,500,143,762000,Marge Simpson,THE OUTLANDS,"He's no Ned Flanders. And I miss the Springfield sign and how every street is a dead end. God help me, I even miss Helen Lovejoy criticizing my brownies."
+129809,500,144,775000,Homer Simpson,THE OUTLANDS,"Hey baby, banned forever doesn't mean you can't go back sometimes."
+129810,500,145,779000,Bart Simpson,THE OUTLANDS,Yes it does.
+129811,500,146,780000,Homer Simpson,THE OUTLANDS,"Pipe down, boy. I'm sneaking you back into Springfield."
+129813,500,148,787000,Homer Simpson,Springfield,"Oh, ""Smithers""!"
+129814,500,149,790000,Marge Simpson,Springfield,"Homie, these disguises won't fool anyone."
+129815,500,150,793000,Homer Simpson,Springfield,"Pish tosh, Smithers, and fiddle-dee-dee! Nailed it!"
+129816,500,151,797000,Chief Wiggum,Springfield,Hold it right there!
+129817,500,152,799000,Chief Wiggum,Springfield,"Mr. Burns! You might catch a cold out this late. You want my jacket? Here, lemme warm my gun up for ya."
+129818,500,153,807000,Homer Simpson,Springfield,Excellent.
+129819,500,154,809000,Chief Wiggum,Springfield,"Yeah, it wouldn't be you if you didn't say ""excellent."""
+129821,500,156,809000,Homer Simpson,Lard Lad Donuts,"You know what's great about you, Marge? After all these years you can still shinny up the donut, and then pull me up after you."
+129822,500,157,825000,Marge Simpson,Lard Lad Donuts,Look! A shooting star!
+129823,500,158,829000,Homer Simpson,Lard Lad Donuts,Do you ever wonder if there are donut shops on other planets?
+129824,500,159,832000,Marge Simpson,Lard Lad Donuts,On a night like tonight I have to believe there are.
+129827,500,162,842000,Homer Simpson,Barney's Bowlarama,Strike! Woo hoo!
+129828,500,163,844000,Marge Simpson,Barney's Bowlarama,Wanna make out over the foul line?
+129829,500,164,847000,Homer Simpson,Barney's Bowlarama,Ever since the day we met.
+129831,500,166,854000,Homer Simpson,Springfield,The old homestead. Remember when we moved in and I talked like this?
+129835,500,170,861000,Homer Simpson,Simpson Home,There's no sex like fugitive sex.
+129836,500,171,874000,Jimbo Jones,Simpson Home,Home sweet squat.
+129837,500,172,877000,DOLPH,Simpson Home,"Yeah, this place is awesome, but it's not puppy safe, and my little guy's coming tomorrow."
+129838,500,173,884000,Homer Simpson,Simpson Home,Someone's downstairs!
+129839,500,174,888000,Jimbo Jones,Simpson Home,I think I heard a pair of underpants being picked up off the ground. Big ones!
+129840,500,175,895000,DOLPH,Simpson Home,It's them! Bart's mom and the fat guy!
+129841,500,176,898000,DOLPH,Simpson Home,Let's turn 'em in.
+129842,500,177,899000,Chief Wiggum,Simpson Home,"Not so fast. This case was already cracked...by the last person you'd expect -- the Chief of Police! You really thought you could fool me with that Burns and Smithers getup? I mean, I'm not the sharpest pencil in the pencil thing, but I'm at least as smart as a cat. Right, Lou?"
+129843,500,178,915000,Lou,Simpson Home,"What breed, Chief?"
+129844,500,179,917000,Lou,Simpson Home,"I mean, I saw an Abyssinian once who could change channels."
+129845,500,180,920000,Chief Wiggum,Simpson Home,That is pretty smart.
+129846,500,181,922000,Homer Simpson,Simpson Home,All right! You caught us. What are you gonna do about it? Throw us out of town again?
+129847,500,182,926000,Rev. Timothy Lovejoy,Simpson Home,Crucify them! And screw the boulder in tight!
+129848,500,183,930000,Krusty the Clown,Simpson Home,Make 'em write monologue jokes!
+129849,500,184,931000,Sideshow Mel,Simpson Home,Cancel their subscription to the opera!
+129850,500,185,934000,Homer Simpson,Simpson Home,We hate opera!
+129851,500,186,935000,Sideshow Mel,Simpson Home,Then get them a subscription to the opera!
+129852,500,187,938000,Homer Simpson,Simpson Home,Nooo!
+129853,500,188,939000,Gil Gunderson,Simpson Home,I say shoot 'em!
+129854,500,189,940000,Chief Wiggum,Simpson Home,Now hold on just a minute. Nobody said anything about shooting.
+129855,500,190,943000,Gil Gunderson,Simpson Home,I did. Just now.
+129856,500,191,943000,Chief Wiggum,Simpson Home,"Ah, that's right, you did. Well, all right."
+129857,500,192,950000,Marge Simpson,Simpson Home,"Don't even bother shooting us. We've found a new place that we love. A place that may not have indoor plumbing, but it's got something we treasure more..."
+129858,500,193,962000,Homer Simpson,Simpson Home,Yeah. Non-jerks!
+129860,500,195,964000,Mayor Joe Quimby,Simpson Home,Maybe he's right. We are jerks.
+129861,500,196,967000,Mayor Joe Quimby,Simpson Home,"You want I should spray some of my ""Jerk Off"" on ya?"
+129862,500,197,970000,Mayor Joe Quimby,Simpson Home,Eh -- it's okay.
+129863,500,198,972000,Mayor Joe Quimby,Simpson Home,"In our new community, people accept others for who they are. I thought I wanted to come back to my house, but instead, I'm going to go back to my home."
+129864,500,199,986000,C. Montgomery Burns,Simpson Home,"Well, bah to them. Let's go, Smithers."
+129804,500,200,990000,C. Montgomery Burns,Simpson Home,"Getting a little clingy, aren't we?"
+129865,500,201,993000,C. Montgomery Burns,Simpson Home,"Oh, all right."
+129866,500,202,996000,Waylon Smithers,Simpson Home,That's all it took? I just had to ask?
+129868,500,204,1004000,Homer Simpson,OUTLANDS,"Well, I've tightened the bolt! I think we're good!"
+129869,500,205,1008000,Bart Simpson,OUTLANDS,You sure this is a good idea?
+129870,500,206,1010000,Homer Simpson,OUTLANDS,"This is the outlands, boy. Ideas aren't good or bad, they're just free! Power on!"
+129871,500,207,1018000,Homer Simpson,OUTLANDS,"I was wrong, there are bad ideas! There are terrible ideas!"
+129872,500,208,1024000,Homer Simpson,OUTLANDS,Now I'm over here!
+129874,500,210,1028000,Bart Simpson,OUTLANDS,I'm on it.
+129876,500,212,1037000,Bart Simpson,OUTLANDS,Lenny Lenford. You're a long way from your barstool.
+129877,500,213,1041000,Lenny Leonard,OUTLANDS,"I'm-I'm-I'm here as a friend, looking for a better way of life!"
+129878,500,214,1053000,Homer Simpson,OUTLANDS,"Hey Lenny, welcome aboard."
+129879,500,215,1057000,Homer Simpson,OUTLANDS,"Now, I gotta warn you, if you find a little black thing on your pillow, it won't be a mint."
+129880,500,216,1062000,Lenny Leonard,OUTLANDS,I don't mind. I want a fresh start... and so does Carl.
+129881,500,217,1065000,Carl Carlson,OUTLANDS,Get her off! Get her off!
+129882,500,218,1067000,Homer Simpson,OUTLANDS,"Let her slice off the tip of your ear, and she'll go right to sleep."
+129883,500,219,1072000,Carl Carlson,OUTLANDS,No!
+129884,500,220,1072000,Homer Simpson,OUTLANDS,That's not a choice you get to make.
+129885,500,221,1075000,Carl Carlson,OUTLANDS,This is pretty tasty.
+129886,500,222,1076000,Lenny Leonard,OUTLANDS,Yep. And I like how it's dissolving a hole in the cup.
+129887,500,223,1080000,Moe Szyslak,OUTLANDS,Hey! Guys! What can I getcha?
+129888,500,224,1083000,Homer Simpson,OUTLANDS,Forget it. We don't need some big city bartender chargin' us an arm and a leg for something we can do ourselves.
+129889,500,225,1090000,Moe Szyslak,OUTLANDS,"Sure, sure. I understand. But if you change your minds, I'll be here in this cave."
+129890,500,226,1097000,Lenny Leonard,OUTLANDS,I got a funny feeling our paradise is about to get ruined by unwanted guests.
+129891,500,227,1101000,Carl Carlson,OUTLANDS,I probably shouldn't have given this place five stars on Yelp.
+129892,500,228,1104000,Homer Simpson,OUTLANDS,"Well, I rented that plane."
+129893,500,229,1119000,Mountain Man,OUTLANDS,"Oh, that tears it! I am not comfortable being this close to medical care. I'm outta here."
+129894,500,230,1124000,Marge Simpson,OUTLANDS,What are you doing here?
+129895,500,231,1127000,Mayor Joe Quimby,OUTLANDS,"I, uh, heard everything was goin' great in your new Eden, with one flaw: you lack a corrupt city government."
+129896,500,232,1133000,Homer Simpson,OUTLANDS,"True, true."
+129897,500,233,1134000,Gary Chalmers,OUTLANDS,"And a school system that teaches to the test, sneaks the kids the answers and still fails."
+129898,500,234,1141000,Marge Simpson,OUTLANDS,Stop! Stop! This is everything we put behind us!
+129899,500,235,1145000,Sideshow Mel,OUTLANDS,"You can't leave civilization, Marge. Humanity is an inexorable upward march. Or was till the year two thousand."
+129900,500,236,1153000,Lisa Simpson,OUTLANDS,"Well, I did miss a few things about the grid... like everything!"
+129901,500,237,1163000,Lisa Simpson,OUTLANDS,"Maureen Dowd, we've got a lot of catching up to do."
+129903,500,239,1170000,Seymour Skinner,Springfield Street,I'm sure someone will come back to tell me where they went. If I go inside they might not find me.
+129904,500,240,1205000,Bart Simpson,Springfield Street,"Come on, man, we wouldn't leave you behind."
+129905,500,241,1208000,Seymour Skinner,Springfield Street,"Bless you, boy!"
+129906,500,242,1212000,Seymour Skinner,Springfield Street,Ow!
+129907,500,243,1212000,Bart Simpson,Springfield Street,Accident! Here comes another one!
+129908,500,244,1214000,Seymour Skinner,Springfield Street,Ow! Ow!
+129909,500,245,1218000,Seymour Skinner,Springfield Street,It's nice to be wanted.
+129910,500,246,1264000,Mountain Man,Springfield Street,The Outlands!

@@ -1,0 +1,242 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+12581,75,1,56000,Seymour Skinner,Springfield Elementary School,"Well Edna, for a school with no Asian kids, I think we put on a pretty darn good science fair."
+12582,75,2,63000,Seymour Skinner,Springfield Elementary School,Go-go ray?
+12583,75,3,64000,Bart Simpson,Springfield Elementary School,Allow me to demonstrate.
+12584,75,4,67000,Seymour Skinner,Springfield Elementary School,Dah! What the...?
+12585,75,5,74000,Edna Krabappel-Flanders,Springfield Elementary School,Can't... stop... doing... The Monkey!
+12587,75,7,87000,Seymour Skinner,Springfield Elementary School,I'm disrupting the learning process... and I love it!
+12589,75,9,91000,Seymour Skinner,Springfield Elementary School,First prize!
+12494,75,11,92000,Seymour Skinner,Simpson Home,First prize... first prize...
+12591,75,12,95000,Lisa Simpson,Simpson Home,First prize... first prize...
+12592,75,13,96000,Lisa Simpson,Simpson Home,First prize... first prize...
+12593,75,14,98000,Bart Simpson,Simpson Home,Why are you saying that?
+12594,75,15,100000,Lisa Simpson,Simpson Home,Just screwing with your mind.
+12595,75,16,103000,Marge Simpson,Simpson Home,"Homer, I want you to encourage Lisa with her science fair project."
+12596,75,17,107000,Homer Simpson,Simpson Home,"Yeah, syrup is better than jelly."
+12597,75,18,111000,Lisa Simpson,Simpson Home,I've grown a futuristic tomato by fertilizing it with Anabolic steroids.
+12598,75,19,115000,Bart Simpson,Simpson Home,The kind that help our Olympic athletes reach new peaks of excellence?
+12599,75,20,119000,Lisa Simpson,Simpson Home,The very same. I think this tomato could wipe out world hunger.
+12600,75,21,125000,3rd World Father,Simpson Home,More tomato?
+12601,75,22,126000,3rd World Family,Simpson Home,Yes please!
+12602,75,23,130000,Homer Simpson,Simpson Home,"Where's your Science Fair project, boy?"
+12603,75,24,132000,Bart Simpson,Simpson Home,I thought I'd investigate the effects of cigarette smoking on dogs.
+12605,75,26,140000,Marge Simpson,Simpson Home,"Bart, don't give the dog cigarettes!"
+12606,75,27,144000,Homer Simpson,Simpson Home,"Whelp, time to go to work."
+148539,75,28,146000,Homer's Brain,Simpson Home,"Little do they know, I'm ducking out early to take the Duff Brewery tour."
+12607,75,29,151000,Homer Simpson,Simpson Home,"Roll in at nine, punch out at five. That's the plan."
+148540,75,30,156000,Homer's Brain,Simpson Home,"Heh, heh, heh, they don't suspect a thing. Well, off to the plant."
+12608,75,31,160000,Homer Simpson,Simpson Home,Then to the Duff Brewery.
+148541,75,32,163000,Homer's Brain,Simpson Home,Uh-oh. Did I say that or just think it?
+12609,75,33,166000,Homer Simpson,Simpson Home,"I gotta think of a lie, fast."
+12610,75,34,167000,Marge Simpson,Simpson Home,"Homer, are you going to the Duff Brewery?"
+12613,75,37,182000,Homer Simpson,Springfield Nuclear Power Plant,"If the plant ye wish to flee, go to sector 7-B."
+12615,75,39,182000,Homer Simpson,Springfield Nuclear Power Plant,"To overcome the spider's curse, simply quote a bible verse. Uh, thou shall not..."
+12617,75,41,212000,Barney Gumble,Nuclear Plant Parking Lot,"Hey, that looks like Princess Di!"
+12618,75,42,217000,Barney Gumble,Nuclear Plant Parking Lot,"Ah, wait. It's just a pile of rags."
+12620,75,44,222000,Lisa Simpson,Springfield Elementary School,"Oh Bart, I forgot my math book. Would you hold this for me, please?"
+12621,75,45,225000,Bart Simpson,Springfield Elementary School,"Soitenly. Nyuck, nyuck, nyuck."
+12622,75,46,229000,Seymour Skinner,Springfield Elementary School,Whoop. Shoe's untied.
+12623,75,47,231000,Seymour Skinner,Springfield Elementary School,"Over, under, in and out, that's what shoe tying's all about."
+12624,75,48,251000,Seymour Skinner,Springfield Elementary School,Nooooo!
+12625,75,49,264000,Lisa Simpson,Springfield Elementary School,Bart!!!!!
+12628,75,52,273000,Tour Guide,Duff Brewery,Welcome to the Duff Brewery. Now I'm sure all of you have heard the rumors that a batch of Duff was contaminated with Strychnine.
+12629,75,53,281000,Tourists,Duff Brewery,Strychnine? / First I've heard of it. / News to me. / Etc.
+12630,75,54,283000,Tour Guide,Duff Brewery,Are you sure? Everyone's talking about it. It was even on CNN last night.
+12631,75,55,288000,Tourists,Duff Brewery,CNN? / Wow. / No we didn't. / Etc.
+12632,75,56,291000,Tour Guide,Duff Brewery,Well it's not true. Let's go.
+12634,75,58,296000,Tour Guide,Duff Museum,Now here's one of our favorite Duff Beer commercials from the early 1950s.
+12635,75,59,302000,Cartoon Doctor,Duff Museum,Only Duff fills your q-zone with pure beer goodness.
+12636,75,60,307000,Cartoon Doctor,Duff Museum,So drink up. And up! And up!
+12637,75,61,315000,Announcer,Duff Museum,Duff Beer! Proud sponsors of Amos and Andy.
+12638,75,62,318000,Tour Guide,Duff Museum,We're proud of all our Duff commercials. But here's a very special one from 1960.
+12639,75,63,324000,Richard Nixon,Duff Museum,"Well, I would suggest Mr. Vanocur, that if you knew the president, that that was probably a facetious remark..."
+12640,75,64,331000,Announcer,Duff Museum,And now a word from our sponsor.
+12641,75,65,334000,Kennedy,Duff Museum,I would like to take this opportunity to express my fondness for Duff beer.
+12642,75,66,341000,Richard Nixon,Duff Museum,I'd also like to express my fondness for that particular beer.
+12643,75,67,347000,Homer Simpson,Duff Museum,The man never drank a Duff in his life.
+12645,75,69,350000,Tour Guide,Duff Brewery,"... And here we have Duff, Duff Lite, and our newest flavor, Duff Dry."
+12646,75,70,357000,Tour Guide,Duff Brewery,What does the future hold for Duff? Let's just say we've got a few ideas up our sleeve.
+12647,75,71,362000,Homer Simpson,Duff Brewery,Like what?
+12648,75,72,363000,Tour Guide,Duff Brewery,"Um, I'd rather not get into it right now."
+12649,75,73,366000,Homer Simpson,Duff Brewery,Why not?
+12650,75,74,367000,Tour Guide,Duff Brewery,"All right, we don't have any ideas for the future. We got nothing. Happy?"
+12651,75,75,370000,Homer Simpson,Duff Brewery,No.
+12653,75,77,373000,Lisa Simpson,Simpson Home,"Mom, Bart wrecked my project and the science fair's in three days!"
+12654,75,78,380000,Marge Simpson,Simpson Home,"Well, I got an idea! Why don't you run a hamster through a maze?"
+12655,75,79,387000,Bart Simpson,Simpson Home,Help me! Help me!
+12657,75,81,392000,Marge Simpson,Simpson Home,What's so funny?
+12658,75,82,393000,Lisa Simpson,Simpson Home,"Oh... I was just thinking of a joke I saw on ""Herman's Head."""
+12661,75,85,400000,Tour Guide,Duff Brewery,Now this is the most important man on the tour. He's in charge of quality control.
+12662,75,86,405000,Man,Duff Brewery,Fine. Fine. Mouse. Fine. Mouse. Rat. Fine. Syringe. Fine. Nose. Fine.
+12663,75,87,412000,Barney Gumble,Duff Brewery,"Lemme just say, you're doin' a great job, Phil."
+12664,75,88,415000,Man,Duff Brewery,"Hey, thanks a lot. That makes it all worthwhile."
+12665,75,89,418000,Homer Simpson,Duff Brewery,Mmmm... Gummi Beer.
+12666,75,90,423000,Homer Simpson,Duff Brewery,"Hey, Barney. I think you've had enough."
+12667,75,91,425000,Barney Gumble,Duff Brewery,"Are you crazy? We still haven't tried Raspberry Duff, Lady Duff, Tartar Control Duff..."
+12668,75,92,440000,Homer Simpson,Duff Brewery,"Barney, give me your keys. You're too drunk to drive."
+12669,75,93,442000,Barney Gumble,Duff Brewery,I'm fine.
+12670,75,94,443000,Homer Simpson,Duff Brewery,"Okay, you leave me no option."
+12671,75,95,447000,Barney Gumble,Duff Brewery,Ow. What was that for?
+12672,75,96,449000,Homer Simpson,Duff Brewery,I'm trying to knock you out.
+12673,75,97,451000,Barney Gumble,Duff Brewery,"Ow, cut it out."
+12674,75,98,455000,Barney Gumble,Duff Brewery,"Ow! Ow! Ow! Ow! Ow! Awright, here, take the keys!"
+12675,75,99,470000,Chief Wiggum,Duff Brewery,"Look alive, boys. Coupla stewed prunes headed your way."
+12676,75,100,478000,Homer Simpson,Duff Brewery,Gulp.
+12678,75,102,479000,Homer Simpson,Duff Brewery Entrance,"W,X,Y, AND Z / NOW I KNOW MY ABC'S / WON'T YOU COME AND PLAY WITH ME?"
+12679,75,103,488000,Eddie,Duff Brewery Entrance,Flawless.
+12680,75,104,489000,Lou,Duff Brewery Entrance,"We also would have accepted ""Tell me what you think of me."""
+12681,75,105,489000,Eddie,Duff Brewery Entrance,I guess you're free to...
+12682,75,106,493000,Barney Gumble,Duff Brewery Entrance,Give him a breathalizer!
+12683,75,107,495000,Eddie,Duff Brewery Entrance,"Gee, thanks. You're under arrest."
+12685,75,109,500000,Chief Wiggum,Duff Brewery Entrance,You think you can get this car home?
+12686,75,110,502000,Barney Gumble,Duff Brewery Entrance,"Sure thing, Giant Beer."
+12687,75,111,506000,Chief Wiggum,Duff Brewery Entrance,"Ow! Ooh... ow... Mother of Mercy... Hey, this is kinda fun. Whee!!"
+12689,75,113,521000,Marge Simpson,Simpson Home,Hello.
+12690,75,114,522000,Chief Wiggum,Simpson Home,"Ah, yeah, Mrs. Simpson, I have some bad news. Your husband was found DOA."
+12691,75,115,527000,Marge Simpson,Simpson Home,Oh my God. He's dead?
+12692,75,116,529000,Chief Wiggum,Simpson Home,"Oh, wait. I mean DWI. I always get those two mixed up."
+12693,75,117,535000,Mrs. Phillips,Simpson Home,My name is Mrs. Phillips. You said my husband is DWI.
+12694,75,118,539000,Chief Wiggum,Simpson Home,Uh... why don't you talk to that officer over there? I'm going out to lunch.
+12696,75,120,545000,Lionel Hutz,Jail,"Don't worry, Homer. I have a foolproof strategy to get you out of here. Surprise witnesses. Each more surprising than the last. I tell you, the judge won't know what hit him."
+12697,75,121,556000,Lionel Hutz,Jail,Augh!
+12698,75,122,557000,Guard,Jail,"Pipe down in there, Hutz."
+12700,75,124,559000,Judge Snyder,Courtroom,Your license is hereby revoked and you are to attend traffic school and two months of Alch-anon meetings.
+12701,75,125,565000,Homer Simpson,Courtroom,"Your Honor, I'd like that last remark stricken from the record."
+12702,75,126,568000,Judge Snyder,Courtroom,No.
+12704,75,128,572000,Patty Bouvier,Department of Motor Vehicles,It doesn't get any better than this.
+12706,75,130,575000,Lisa Simpson,All Creatures Great and Cheap,I want the most intelligent hamster you've got.
+12707,75,131,578000,Wiseguy,All Creatures Great and Cheap,Okayyy... This little guy writes mysteries under the name of J. D. MacGregor.
+12708,75,132,584000,Lisa Simpson,All Creatures Great and Cheap,How can a hamster write mysteries?
+12709,75,133,586000,Wiseguy,All Creatures Great and Cheap,"Well, he gets the ending first, then he works backward."
+12710,75,134,589000,Lisa Simpson,All Creatures Great and Cheap,"Oh, come on."
+12711,75,135,591000,Wiseguy,All Creatures Great and Cheap,"Look kid, just take him before his mother eats him. All right?"
+12713,75,137,593000,Marge Simpson,Simpson Driveway,"Have a good day at work, honey."
+12714,75,138,601000,Nelson Muntz,Simpson Driveway,Haw haw!
+12715,75,139,602000,Homer Simpson,Simpson Driveway,"Stupid bicycle. Can't believe this. No good, rotten..."
+12716,75,140,609000,Homer Simpson,Simpson Driveway,I guess it's not all bad.
+12718,75,142,611000,Lisa Simpson,Simpson Home,"I propose to determine the answer to the question: ""Is my brother dumber than a hamster?"""
+12719,75,143,614000,Bart Simpson,Simpson Home,"Hey Lis, look what I can do."
+12720,75,144,621000,Bart Simpson,Simpson Home,Doggone it.
+12721,75,145,637000,Lisa Simpson,Simpson Home,Remarkable.
+12722,75,146,641000,Bart Simpson,Simpson Home,"Stupid books. Hey, a cupcake."
+12723,75,147,648000,Bart Simpson,Simpson Home,Uh-huh.
+12724,75,148,649000,Bart Simpson,Simpson Home,Aaahhh!
+12725,75,149,654000,Lisa Simpson,Simpson Home,Hamster one... Bart... zero.
+12726,75,150,657000,Lisa Simpson,Simpson Home,Experiment two: The food is connected to a mild electrical current.
+12727,75,151,664000,Lisa Simpson,Simpson Home,The hamster has learned a valuable lesson. Beware the hand of man.
+12728,75,152,667000,Bart Simpson,Simpson Home,"Oooh - wise guy, eh?"
+12729,75,153,681000,Bart Simpson,Simpson Home,Ow... ow... ow!
+12730,75,154,685000,Lisa Simpson,Simpson Home,Hampster two... Bart zero...
+12732,75,156,689000,Chief Wiggum,DRIVER TRAINING SCHOOL,"Now if any of you ever think of drinking and driving again, this film will scare the pants off of you."
+12733,75,157,700000,Chief Wiggum,DRIVER TRAINING SCHOOL,"Guys, guys, this is the wrong movie. Oh, wait a second, I do something really funny here."
+12735,75,159,720000,Troy McClure,DRIVER TRAINING SCHOOL,"What a terrible waste. Hi! I'm actor, Troy McClure. You might remember me from such Driver's Ed films as ""Alice's Adventures through the Windshield Glass"" and ""The Decapitation of Larry Leadfoot."" For the next 60 minutes we'll be seeing actual film of car crash victims."
+147803,75,160,758000,TROY,DRIVER TRAINING SCHOOL,"Here's an appealing fellow. In fact they're ""a-peeling"" him off the sidewalk."
+12736,75,161,765000,Homer Simpson,DRIVER TRAINING SCHOOL,"It's funny `cause I don't know him. Heh, heh, heh."
+12738,75,163,769000,Homer Simpson,First Church of Springfield,I'm here for the Alch-anon meeting.
+12739,75,164,771000,Rev. Timothy Lovejoy,First Church of Springfield,"Huh uh, third door on your left."
+12740,75,165,773000,Rev. Timothy Lovejoy,First Church of Springfield,Coping with senility?
+12741,75,166,774000,Jasper Beardly,First Church of Springfield,"No! I'm here for microwave cookery. No, wait. Coping with senility."
+12743,75,168,783000,Ned Flanders,CHURCH BASEMENT ROOM,My name is Ned.
+12744,75,169,784000,Assembly,CHURCH BASEMENT ROOM,Hello Ned.
+12745,75,170,785000,Ned Flanders,CHURCH BASEMENT ROOM,It's been four thousand days since my last drink. It was my first and last Blackberry schnapps.
+12746,75,171,795000,Maude Flanders,CHURCH BASEMENT ROOM,"Ned, did you clip Ann Landers today?"
+12747,75,172,797000,Ned Flanders,CHURCH BASEMENT ROOM,Ann Landers is a boring old biddy.
+12748,75,173,800000,Maude Flanders,CHURCH BASEMENT ROOM,Ned!
+12749,75,174,802000,Ned Flanders,CHURCH BASEMENT ROOM,I was more animal than man.
+12750,75,175,805000,Otto Mann,CHURCH BASEMENT ROOM,My name is Ot-to. I love to get blot-to.
+12752,75,176,810000,Hans Moleman,CHURCH BASEMENT ROOM,My name is Hans. Drinking has ruined my life. I'm thirty-one years old.
+12753,75,177,817000,Homer Simpson,CHURCH BASEMENT ROOM,My name is Homer and I'm just here because the court made me come.
+12754,75,178,821000,Rev. Timothy Lovejoy,CHURCH BASEMENT ROOM,"Homer, with our help you'll never touch a beer again."
+12757,75,181,831000,Homer Simpson,Simpson Home,So they say I might have a problem.
+12758,75,182,834000,Marge Simpson,Simpson Home,"Homie, do you ever drink alone?"
+12759,75,183,837000,Homer Simpson,Simpson Home,Does the Lord count as a person?
+12760,75,184,839000,Marge Simpson,Simpson Home,No.
+12761,75,185,840000,Homer Simpson,Simpson Home,"Then, yes."
+12762,75,186,841000,Marge Simpson,Simpson Home,Do you need a beer to fall asleep?
+12763,75,187,844000,Homer Simpson,Simpson Home,"Thank you, that'd be nice."
+12764,75,188,845000,Marge Simpson,Simpson Home,Do you ever hide beer around the house?
+12765,75,189,848000,Homer Simpson,Simpson Home,Do I ever!
+12766,75,190,850000,Homer Simpson,Simpson Home,Ah.
+12767,75,191,851000,Marge Simpson,Simpson Home,Do you ever drink to escape from reality?
+12769,75,193,862000,Marge Simpson,Simpson Home,"Homie, I'd like you to do something for me."
+12770,75,194,864000,Homer Simpson,Simpson Home,You name it.
+12771,75,195,865000,Marge Simpson,Simpson Home,I want you to give up beer for a month.
+12772,75,196,868000,Homer Simpson,Simpson Home,You got it. No deer for a month.
+12773,75,197,870000,Marge Simpson,Simpson Home,Did you say beer or deer?
+12774,75,198,874000,Homer Simpson,Simpson Home,Deer.
+12775,75,199,875000,Marge Simpson,Simpson Home,"Please, Homie, I know you can do this."
+12776,75,200,880000,Homer Simpson,Simpson Home,"All right. Starting tomorrow, no beer for a month."
+12777,75,201,887000,Marge Simpson,Simpson Home,What was that noise?
+12778,75,202,888000,Homer Simpson,Simpson Home,"I was saying ""Pssst. I love you."""
+12779,75,203,888000,Marge Simpson,Simpson Home,"Bart, could you go get the cupcakes?"
+12780,75,204,896000,Bart Simpson,Simpson Home,"Cupcakes, cupcakes. Yes, sweet cakes for all."
+12781,75,205,913000,Homer Simpson,Simpson Home,"Well, beer... we've had some great times."
+12782,75,206,917000,Homer Simpson,Simpson Home,WHEN I WAS 17 / I DRANK SOME VERY GOOD BEER / I DRANK SOME VERY GOOD BEER I PURCHASED WITH A FAKE I.D. / MY NAME WAS BRIAN MCGEE / I STAYED UP LISTENING TO QUEEN
+12783,75,207,937000,Homer Simpson,Simpson Home,WHEN I WAS 17.
+12785,75,209,947000,Bart Simpson,Lisa's Bedroom,Huh?
+12786,75,210,950000,Bart Simpson,Lisa's Bedroom,She'll pay for this. I'm gonna crush her like this pellet.
+12787,75,211,954000,Bart Simpson,Lisa's Bedroom,Ow! Ow! Ow!
+12789,75,214,963000,Bart Simpson,Lisa's Bedroom,Looking for something?
+12790,75,215,965000,Lisa Simpson,Lisa's Bedroom,What have you done with my report?
+12791,75,216,966000,Bart Simpson,Lisa's Bedroom,"I've hidden it. To find it, you'll need to decipher a series of clues, each more fiendish than the..."
+12792,75,217,971000,Lisa Simpson,Lisa's Bedroom,Got it.
+12795,75,220,975000,Milhouse Van Houten,SCIENCE FAIR,Behold gravity! In all its glory.
+12796,75,221,982000,Edna Krabappel-Flanders,SCIENCE FAIR,"Pretty lame, Milhouse."
+12797,75,222,984000,Chuck,SCIENCE FAIR,Can I touch it?
+12798,75,223,986000,Chuck's Dad,SCIENCE FAIR,I've worked too long and hard on this for you to screw it up now.
+12799,75,224,989000,Chuck,SCIENCE FAIR,But it's got my name on it.
+12800,75,225,990000,Chuck's Dad,SCIENCE FAIR,Just stand over there.
+12801,75,226,993000,Chuck's Dad,SCIENCE FAIR,Over there!
+12802,75,227,994000,Martin Prince,SCIENCE FAIR,"Behold the flying machine that will carry me, Phileas Fogg, around the world in 80 days!"
+12803,75,228,1005000,Nelson Muntz,SCIENCE FAIR,"Dang, I was aiming for his head."
+148542,75,229,1008000,Homer's Brain,SCIENCE FAIR,Don't think about beer.
+12804,75,230,1014000,Homer Simpson,SCIENCE FAIR,Hm. Alcohol fueled car.
+12805,75,231,1017000,Homer Simpson,SCIENCE FAIR,One for you... one for me... One for you... one for me...
+12807,75,233,1025000,Marge Simpson,SCIENCE FAIR,I don't know if I like you experimenting on your brother.
+12808,75,234,1029000,Lisa Simpson,SCIENCE FAIR,"Please, Mother. It's purely in the interest of science."
+148682,75,235,1033000,Lisa's Thoughts,SCIENCE FAIR,That'll learn `im to bust my tomater.
+12809,75,236,1041000,Bart Simpson,SCIENCE FAIR,Step right up folks! We'll answer the question that has been plaguing scientists for ages. Can hamsters fly planes?
+12810,75,237,1051000,Parent One,SCIENCE FAIR,"Oooh, look he's got miniature goggles on!"
+12811,75,238,1053000,Parent Two,SCIENCE FAIR,"And a little scarf, isn't that adorable?"
+12812,75,239,1057000,Lisa Simpson,SCIENCE FAIR,But this project has no scientific merit.
+12813,75,240,1063000,Seymour Skinner,SCIENCE FAIR,"Lisa, every good scientist is half B.F. Skinner, and half P.T. Barnum. I don't think I need to see the other exhibits. First prize!"
+12815,75,242,1077000,Homer Simpson,Simpson Home,One down. Twenty-nine to go.
+12816,75,243,1080000,Feminists,Simpson Home,DOWN WITH SEXISM! DOWN WITH SEXISM! DOWN WITH SEXISM!
+12817,75,244,1082000,Guy #1,Simpson Home,"Huh, look at all those feminists."
+12818,75,245,1088000,Guy #2,Simpson Home,You thinking what I'm thinking?
+12819,75,246,1097000,Homer Simpson,Simpson Home,"T.V. have you turned on me, too?"
+12821,75,248,1108000,Baseball Announcer,BASEBALL STADIUM,The windup and the two two pitch... Oh no! The batter is calling for time... Looks like he's going and getting himself a new bat. And now there's a beachball on the field. And the ballboys are discussing which one of them is gonna go get it.
+12822,75,249,1124000,Homer Simpson,BASEBALL STADIUM,I never realized how boring this game is.
+12824,75,251,1131000,Homer Simpson,Simpson Home,I think I've lost weight.
+12825,75,252,1132000,Marge Simpson,Simpson Home,You've never looked better.
+12826,75,253,1136000,Patty Bouvier,Simpson Home,Thank you all for coming. We've got some very interesting developments in the field of Supperware.
+12827,75,254,1143000,Selma Bouvier,Simpson Home,Uh huh. This is the 128 ounce tub. You can fit your whole head in it.
+12828,75,255,1152000,Selma Bouvier,Simpson Home,Don't be scared Jubjub. It's mama.
+12829,75,256,1156000,Homer Simpson,Simpson Home,I would kill everyone in this room for a drop of sweet beer.
+12831,75,258,1160000,Rev. Timothy Lovejoy,ALCH-ANON MEETING,"So Homer, please feel free to tell us anything. There's no judgment here."
+12832,75,259,1166000,Homer Simpson,ALCH-ANON MEETING,The other day I was so desperate for a beer I snuck into the football stadium and ate the dirt under the bleachers.
+12833,75,260,1172000,Rev. Timothy Lovejoy,ALCH-ANON MEETING,I cast thee out!
+12835,75,262,1175000,Homer Simpson,Springfield Street,Don't think about beer... Don't think about beer... Don't think about beer...
+12836,75,263,1187000,Train,Springfield Street,"Chug-a-lug, chug-a-lug, chug-a-lug."
+12837,75,264,1205000,Homer Simpson,Springfield Street,Nooooo!
+12839,75,266,1210000,Homer Simpson,Simpson Home,Thirty days!
+12840,75,267,1211000,Marge Simpson,Simpson Home,"I'm proud of you, Homie."
+12841,75,268,1213000,Homer Simpson,Simpson Home,"Marge, I'm going to Moe's. Send the kids to the neighbors, I'm comin' back loaded."
+12842,75,269,1219000,Marge Simpson,Simpson Home,You don't have to start drinking right away. I was thinking we could go for a bike ride.
+12843,75,270,1224000,Homer Simpson,Simpson Home,"But Marge, the barflies are expecting me... Moe, and Barney and that guy who calls me Bill..."
+12844,75,271,1231000,Marge Simpson,Simpson Home,But you look better... you don't sweat while you eat anymore... and look.
+12845,75,272,1233000,Marge Simpson,Simpson Home,You've saved more than a hundred dollars. I found it in your pants.
+12846,75,273,1240000,Homer Simpson,Simpson Home,Yoink.
+12850,75,276,1244000,Moe Szyslak,Moe's Tavern,"Well, well look who it is. Mr. ""I don't need alcohol to enjoy life."" We hate him, right fellas?"
+12852,75,278,1254000,Homer Simpson,Moe's Tavern,"Moe, gimme a beer."
+12853,75,279,1256000,Moe Szyslak,Moe's Tavern,Hey everybody! Homer's back!
+12856,75,282,1271000,Moe Szyslak,Moe's Tavern,C'mon Homer. Do it for your old pal Moesy.
+12857,75,283,1274000,Barney Gumble,Moe's Tavern,But Moe. Yesterday you called Homer a worthless sack of...
+12858,75,284,1278000,Moe Szyslak,Moe's Tavern,"Pipe down, rub-a-dub."
+12859,75,285,1280000,Barney Gumble,Moe's Tavern,Ow.
+12860,75,286,1283000,Homer Simpson,Moe's Tavern,"Put it in the fridge, Moe. I got a date with my wife."
+12861,75,287,1288000,Moe Szyslak,Moe's Tavern,You'll be back. And so will you... and you... And you!
+12862,75,288,1294000,Barney Gumble,Moe's Tavern,"Of course I'll be back. If you didn't close, I'd never leave."
+12864,75,290,1298000,Homer Simpson,Simpson Home,RAINDROPS KEEP FALLING ON MY HEAD...
+12865,75,291,1303000,Marge Simpson,Simpson Home,BUT THAT DOESN'T MEAN MY EYES WILL SOON BE TURNING RED...
+12866,75,292,1308000,Marge Simpson,Simpson Home,LA LA LA LA LA LA... LA...

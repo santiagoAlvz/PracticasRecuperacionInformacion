@@ -1,0 +1,272 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+120423,465,2,67000,Homer Simpson,Simpson Home,It's four AM -- you kids should've been in bed a half hour ago!
+120424,465,3,72000,Lisa Simpson,Simpson Home,"We're watching the Nobel Prize announcements, live from Stockholm!"
+120425,465,4,75000,Homer Simpson,Simpson Home,"Oooh, the Nobies!"
+120427,465,6,77000,Nobel Academy President,Simpson Home,For Economics...
+120428,465,7,79000,Nobel Academy President,Simpson Home,Jagdish Bhagwati!
+120429,465,8,81000,Martin Prince,Simpson Home,Huzzah! I had him in the pool!
+120430,465,9,83000,Homer Simpson,Simpson Home,Lucky.
+120431,465,10,85000,Lisa Simpson,Simpson Home,Quiet! It's time for the noblest Nobel Prize of all: the Peace Prize.
+120432,465,11,90000,Homer Simpson,Simpson Home,I would kill for that.
+120433,465,12,92000,Nobel Academy President,Simpson Home,And the Nobel prize for peace goes to...
+120434,465,13,95000,Lisa Simpson,Simpson Home,Isn't this exciting?
+120435,465,14,96000,Nobel Academy President,Simpson Home,Krusty the Clown!
+120439,465,18,102000,Kent Brockman,Springfield Town Hall,"And now to comment on joining the ranks of Martin Luther King, Gandhi, and Desmond Tutu, here's the man who always parks in my spot, Krusty the Clown."
+120384,465,19,111000,Krusty the Clown,Springfield Town Hall,"I'd just like to say this thing is worth nearly two million dollars. How do you like me now, Teen Choice Awards?"
+120440,465,20,119000,Kent Brockman,Springfield Town Hall,Kent Brockman. Channel Six. And Channel Six dot com! Will you be flying to Norway to accept the prize?
+120441,465,21,125000,Krusty the Clown,Springfield Town Hall,"I'm looking forward to visiting the arctic circle, or as I call it, my wife's side of the bed. For the purposes of that joke, I'm married."
+120443,465,23,146000,Krusty the Clown,Springfield Town Hall,"Hey you, Big Chief Laugh-At-Crap. Meet me in my limo in five minutes."
+120445,465,25,156000,Homer Simpson,Krusty's Limo,Arctic Circle! I just got that!
+120446,465,26,158000,Krusty the Clown,Krusty's Limo,"All right, all right, settle down. Homer, you're the easiest laugh I know."
+120447,465,27,163000,Homer Simpson,Krusty's Limo,How easy am I?
+120448,465,28,165000,Krusty the Clown,Krusty's Limo,Shut up. I'm gonna need you in the audience when I accept the Peace Prize in Oslo.
+120449,465,29,170000,Homer Simpson,Krusty's Limo,Can my son come too? He knows what to do when I swallow my tongue.
+120450,465,30,175000,Krusty the Clown,Krusty's Limo,"Eh, why not?"
+120452,465,32,176000,Military Choir,Springfield Airport,THEY FIGHT AND BITE / THEY FIGHT! AND BITE AND FIGHT / FIGHT! FIGHT! FIGHT! / BITE! BITE! BITE! / THE ITCHY AND SCRATCHY SHOW!
+120453,465,33,190000,Homer Simpson,Springfield Airport,They fight and bite? I never go to Europe without learning something.
+120454,465,34,194000,Krusty the Clown,Springfield Airport,"Now listen, I need you two to hold these for me."
+120455,465,35,198000,Krusty the Clown,Springfield Airport,"Your drugs put me to sleep... Your drugs wake me up. If I ask you to give me more, you say no. If I ask you again, you give 'em to me."
+120457,465,37,207000,Lisa Simpson,Airport Terminal,"Why aren't I going to Oslo? The Nobel Prizes are my freakin' thing! But no -- Bart gets everything because he's the oldest and he's a boy. And Maggie gets what's ever left over because she's the youngest and she's a baby. Meanwhile, I'll just stand and wave to people going to better places."
+120458,465,38,223000,Tsa Security Officer,Airport Terminal,Would half a bottle of confiscated water cheer ya up?
+120459,465,39,226000,Lisa Simpson,Airport Terminal,"Ew, no thanks."
+120460,465,40,227000,Tsa Security Officer,Airport Terminal,"Quite the little princess, ain't she?"
+120463,465,43,231000,Lisa Simpson,Marge's Car,"I'm just gonna chill out with a little ""This American Life."""
+120466,465,44,234000,Ira Glass,Marge's Car,"I'm Ira Glass. Remember when you were five years old, putting ketchup on your hot dog? Today in five acts, condiments. Act one, mustard. Act two, mayo. Act three, relish. Act four, corn relish."
+120467,465,45,249000,Lisa Simpson,Marge's Car,"Mom, this isn't the way home."
+120468,465,46,251000,Marge Simpson,Marge's Car,Maybe we're not going home right away.
+120469,465,47,253000,Lisa Simpson,Marge's Car,"Oh I get it. They go to Oslo, we get some ice cream."
+120470,465,48,257000,Marge Simpson,Marge's Car,"Well, you could get some ice cream, or...spend a week at performing arts camp!"
+120471,465,49,265000,Marge Simpson,Marge's Car,Whoops -- didn't time that quite right.
+120472,465,50,267000,Lisa Simpson,Marge's Car,Oh my God! Mom! Thank you! I just need my...
+120474,465,52,270000,Marge Simpson,Marge's Car,Did you really think I'd forget? Now have a great time!
+120475,465,53,277000,Lisa Simpson,Marge's Car,Victory for the middle child!
+120476,465,54,280000,Marge Simpson,Marge's Car,"Aw, you think I forgot you? Babies shouldn't jump to conclusions!"
+120478,465,56,295000,Lisa Simpson,ARTS CAMP,Hello? Hello?
+120480,465,58,300000,Lisa Simpson,ARTS CAMP,Huh?
+120481,465,59,301000,TEENAGE GIRL CAMPER,ARTS CAMP,I... I LOVE THE ELEGANT PEARLS YOU WEAR...
+120482,465,60,307000,TEENAGE BOY CAMPER,ARTS CAMP,AND THE STARFISH SHAPE THAT CONSTITUTES YOUR HAIR...
+120483,465,61,314000,2ND TEENAGE GIRL CAMPER,ARTS CAMP,YOU'LL... BE STAYING IN CABIN TWELVE...
+120484,465,62,320000,TEENAGE BOY CAMPER,ARTS CAMP,AND WE THINK THAT YOU'LL BE VERY HAPPY THERE.
+120485,465,63,327000,Teenage Singers,ARTS CAMP,YOU'RE GONNA LIKE ARTS CAMP LISA / MARGE PAID WITH HER DEBIT VISA /
+120486,465,64,346000,Lisa Simpson,ARTS CAMP,ARTS ARTS ARTS EDUCATION...
+120489,465,67,358000,Ethan Foley,Cabin,Knock-knock.
+120490,465,68,360000,Kurt Hardwick,Cabin,"Lisa, I'm Kurt, and this is Ethan."
+120491,465,69,362000,Ethan Foley,Cabin,We're the counselors slash musical directors slash community outreach liaisons slash counselors.
+120492,465,70,367000,Kurt Hardwick,Cabin,You said counselors twice.
+120493,465,71,368000,Ethan Foley,Cabin,We do a lot of counseling.
+120494,465,72,370000,Kurt Hardwick,Cabin,We don't do twice as much counseling.
+120495,465,73,372000,Ethan Foley,Cabin,"Well, don't question me in front of the children."
+120496,465,74,374000,Kurt Hardwick,Cabin,She can't hear us. We're stage whispering.
+120497,465,75,376000,Lisa Simpson,Cabin,I can hear you.
+120498,465,76,377000,Kurt Hardwick,Cabin,"No, you can't."
+120499,465,77,378000,Ethan Foley,Cabin,"Okay, Lisa, let's get your camp tee shirt. ALL OUR CAMP TEE SHIRTS ARE MEDIUM, WELL I HOPE YOU WEAR MEDIUM, GIRL... HUH!"
+120500,465,78,386000,Kurt Hardwick,Cabin,"We should also find you a meal plan. MEAL-PLAN LADY / PLAN MY MEALS, BABY..."
+120501,465,79,392000,Lisa Simpson,Cabin,Do you guys always do that?
+120502,465,80,394000,Kurt Hardwick,Cabin,DO WHAT?
+120503,465,81,396000,Lisa Simpson,Cabin,"Sing what you just said, then play a little guitar riff."
+120504,465,82,399000,Ethan Foley,Cabin,"NO, WE DON'T DO THAT."
+120505,465,83,400000,Kurt Hardwick,Cabin,WE NEVER DO THAT.
+120506,465,84,402000,Ethan Foley,Cabin,"WELL, WE SOMETIMES DO THAT."
+120507,465,85,403000,Kurt Hardwick,Cabin,"BUT VERY INFREQUENTLY, LADY."
+120508,465,86,410000,Krusty the Clown,Cabin,"How 'bout that airline food, huh?! They should've called it chicken cordon blecch!"
+120509,465,87,416000,Homer Simpson,Cabin,Another good one...
+120510,465,88,418000,Bart Simpson,Cabin,"Huh? Wait a minute, this doesn't look like Oslo. Where are the wood-stave churches? Historic Akershus Fortress?"
+120511,465,89,425000,Gendarme,Cabin,"You are NOT in Oslo. You are in Holland... specifically, The Hague!"
+120512,465,90,430000,Homer Simpson,Cabin,Did you say a Hague?
+120513,465,91,431000,Gendarme,Cabin,I said The Hague.
+120515,465,93,434000,Krusty the Clown,Cabin,What's goin' on? Where's my Nobel Prize?
+120516,465,94,436000,Gendarme,Cabin,"There is no prize. It was merely a ruse to get you to Europe, so we could try you for the terrible crimes you've committed on this continent!"
+120517,465,95,444000,Krusty the Clown,Cabin,It was all a setup! You gotta read me the charges.
+120518,465,96,447000,Gendarme,Cabin,You dropped a monkey from the Eiffel Tower...
+120519,465,97,449000,Krusty the Clown,Cabin,Uh-huh.
+120520,465,98,450000,Gendarme,Cabin,"In Greece, you committed something called ""aggravated hey-hey..."""
+120521,465,99,453000,Krusty the Clown,Cabin,Forgot about that one.
+120522,465,100,454000,Gendarme,Cabin,"And here in Holland you stole the entire act of our beloved clown ""Van Kruüsten""."
+120523,465,101,454000,VAN KRUUSTEN,Cabin,U bestolen al mijn jokenchortles!
+120524,465,102,464000,Krusty the Clown,Cabin,Wait a minute! Wait a minute!
+120527,465,105,467000,Ethan Foley,CAMP STAGE,One of the most important skills a performer can learn is dealing with hecklers.
+120528,465,106,471000,Kurt Hardwick,CAMP STAGE,And... action.
+120529,465,107,473000,Flynn,CAMP STAGE,"Top of the evening, Officer Krupke."
+120530,465,108,475000,Ethan Foley,CAMP STAGE,Your dog's dead!
+120464,465,109,477000,Kurt Hardwick,CAMP STAGE,"Uh, that's not really a heckle."
+120531,465,110,478000,Ethan Foley,CAMP STAGE,"Right, yeah, right. I've seen more life in the Wellington Botanic Gardens!"
+120532,465,111,484000,Kurt Hardwick,CAMP STAGE,"Now that is a heckle, but if you're not from New Zealand it loses some of its sting."
+120533,465,112,488000,Ethan Foley,CAMP STAGE,How much?
+120534,465,113,488000,Kurt Hardwick,CAMP STAGE,Well most of it.
+120535,465,114,489000,Ethan Foley,CAMP STAGE,Do you think they won't know the reference?
+120536,465,115,491000,Kurt Hardwick,CAMP STAGE,"If they did know the gardens, then they would know they're teeming with life."
+120538,465,117,496000,Flynn,EXPRESSIONS- WOODED CLEARING,So what do you guys do when you're not camp counselors?
+120539,465,118,499000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,"We're highly successful artists. And as artists, we live in Springfield's most artistic borough..."
+120540,465,119,503000,Ethan Foley,EXPRESSIONS- WOODED CLEARING,Sprooklyn.
+120542,465,121,507000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,We spend our days acting and painting...
+120543,465,122,509000,Ethan Foley,EXPRESSIONS- WOODED CLEARING,Dancing and sculpting...
+120544,465,123,510000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,Playing my Gibson.
+120545,465,124,512000,Ethan Foley,EXPRESSIONS- WOODED CLEARING,Rehearsing my Ibsen.
+120546,465,125,513000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,"Because you see, young artists..."
+120547,465,126,513000,Ethan Foley,EXPRESSIONS- WOODED CLEARING,ARTISTS ARE THE PEOPLE WHO HOLD UP A MIRROR.
+120548,465,127,517000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,ARTISTS MAKE SOCIETY SEE ITS FAULTS CLEARER.
+120549,465,128,520000,Ethan Foley,EXPRESSIONS- WOODED CLEARING,ARTISTS HELP STAMP OUT OPPRESSION AND WARS.
+120550,465,129,522000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,AND WHEN WE CAMP OUTDOORS...
+120551,465,130,523000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,WE MAKE THE BEST S'MORES.
+120552,465,131,524000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,"THREE LAYERS, MOTHER NATURE. YEAH, YEAH."
+120553,465,132,528000,Ethan Foley,EXPRESSIONS- WOODED CLEARING,ARTISTS END POVERTY WITH MUSIC AND DANCE.
+120554,465,133,530000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,ARTISTS MAKE ART ON THE BEACHES OF FRANCE.
+120555,465,134,532000,Lisa Simpson,EXPRESSIONS- WOODED CLEARING,I NEVER KNEW ARTISTS WERE ALL SO AMAZING!
+120556,465,135,535000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,EXCUSE ME WHILE I TALK TO THIS COW THAT IS GRAZING.
+120557,465,136,537000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,I give art like you give milk.
+120559,465,138,543000,Ethan Foley,EXPRESSIONS- WOODED CLEARING,EVERYONE LISTENS WHEN ARTISTS ARE TALKING.
+120560,465,139,545000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,CAUSE ARTISTS ARE SMARTER THAN MR. STEPHEN HAWKING.
+120561,465,140,547000,Dr. Stephen Hawking,EXPRESSIONS- WOODED CLEARING,"OH YEAH. BREAK IT DOWN FOR ME, FELLAS."
+120562,465,141,553000,Dr. Stephen Hawking,EXPRESSIONS- WOODED CLEARING,A BRIEF HISTORY OF RHYME.
+120563,465,142,557000,Lisa Simpson,EXPRESSIONS- WOODED CLEARING,DO YOU THINK THAT I COULD BE AN ARTIST IN THE CITY?
+120564,465,143,560000,Ethan Foley,EXPRESSIONS- WOODED CLEARING,"HOLD ON LISA, LET ME CHECK WITH THE COMMITTEE."
+120565,465,144,562000,Ethan Foley,EXPRESSIONS- WOODED CLEARING,So what do you guys think?
+120566,465,145,563000,Dr. Stephen Hawking,EXPRESSIONS- WOODED CLEARING,Yes.
+120568,465,147,563000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,I agree.
+120569,465,148,565000,Kurt Hardwick,EXPRESSIONS- WOODED CLEARING,"YES, LISA, YOU COULD BE AN ARTIST IN THE WORLD / SO MOVE TO THE CITY WHEN YOU'RE LESS ITTY-BITTY GIRL! / TO THE GRITTY CITY WHEN YOU'RE LESS ITTY-BITTY, GIRL! / THE CITY'S PRETTY GRITTY FOR AN ITY-BITTY, PRETTY GIRL!"
+120572,465,151,578000,Krusty the Clown,INTERNATIONAL COURT OF JUSTICE,"I am really, really sorry for everything I've been charged with and all the stuff you don't know about yet."
+120573,465,152,585000,Chief Magistrate,INTERNATIONAL COURT OF JUSTICE,There is only one possible way to earn your freedom.
+120574,465,153,588000,Krusty the Clown,INTERNATIONAL COURT OF JUSTICE,"Oh, I get it."
+120575,465,154,590000,Krusty the Clown,INTERNATIONAL COURT OF JUSTICE,"Everyone's windmill needs a new blade now and then, right?"
+120576,465,155,594000,Chief Magistrate,INTERNATIONAL COURT OF JUSTICE,No! Our windmills are the envy of the world.
+120577,465,156,600000,Chief Magistrate,INTERNATIONAL COURT OF JUSTICE,"To win exoneration, you must prove that you have made a singular contribution to Western culture."
+120578,465,157,606000,Krusty the Clown,INTERNATIONAL COURT OF JUSTICE,"Western, huh? Did you ever see my ""Wyatt Burp"" sketch? Everyone on my payroll says it's great."
+120579,465,158,612000,Chief Magistrate,INTERNATIONAL COURT OF JUSTICE,I am not familiar with this Wyatt Burp.
+120580,465,159,612000,Krusty the Clown,INTERNATIONAL COURT OF JUSTICE,"Then let me do my ""Dutch oven"" bit. It's about other Dutchmen, not you."
+120582,465,161,625000,Aiesha,EXPRESSIONS- GREAT LAWN,"Those clouds look like a casting director saying ""you've got the part."""
+120583,465,162,625000,SARAH,EXPRESSIONS- GREAT LAWN,That cloud looks like legendary Broadway lyricist Betty Comden.
+120584,465,163,634000,Lisa Simpson,EXPRESSIONS- GREAT LAWN,I finally found the place I belong.
+120585,465,164,637000,Marge Simpson,EXPRESSIONS- GREAT LAWN,Your week's up! Time to go home!
+120586,465,165,639000,Lisa Simpson,EXPRESSIONS- GREAT LAWN,It can't be Saturday already! Monday was orientation. Tuesday we did mime.
+120587,465,166,645000,Lisa Simpson,EXPRESSIONS- GREAT LAWN,"Wednesday we did ""Mame."""
+120588,465,167,647000,Lisa Simpson,EXPRESSIONS- GREAT LAWN,Thursday we got attacked by bees.
+120589,465,168,649000,Lisa Simpson,EXPRESSIONS- GREAT LAWN,Friday morning Andrew Lloyd Weber and Elaine Stritch helped us make wallets.
+120591,465,169,652000,Lisa Simpson,EXPRESSIONS- GREAT LAWN,"Friday evening we performed ""Angels In America: A Gay Fantasia on National Themes."" Part one: Millennium Approaches..."
+120592,465,170,658000,Lisa Simpson,EXPRESSIONS- GREAT LAWN,Part two...
+120593,465,171,659000,Marge Simpson,EXPRESSIONS- GREAT LAWN,Perestroika?
+120594,465,172,661000,Lisa Simpson,EXPRESSIONS- GREAT LAWN,"That's right! Strike the set, pizza party..."
+120595,465,173,662000,Lisa Simpson,EXPRESSIONS- GREAT LAWN,"Saturday morning, and then... noooo!"
+120596,465,174,667000,SARAH,EXPRESSIONS- GREAT LAWN,"Goodbye, Lisa! I'll miss you a lot, then a little, then not too much!"
+120598,465,176,672000,Kurt Hardwick,EXPRESSIONS,"Lisa, do you have to leave this minute?"
+120599,465,177,676000,Marge Simpson,EXPRESSIONS,No time! I don't wanna get stuck behind the joggers from the fat camp.
+120602,465,180,686000,Lisa Simpson,Marge's Car,I can't go home. Something happened this week that completely changed me!
+120603,465,181,691000,Marge Simpson,Marge's Car,"You didn't see a boy lose his swim trunks, did you?"
+120604,465,182,694000,Lisa Simpson,Marge's Car,"No! I fell in love with theater, dance, and song!"
+120605,465,183,698000,Marge Simpson,Marge's Car,"We've got plenty of songs in the car, by Maggie's favorite singer: Roofi!"
+120606,465,184,704000,Roofi,Marge's Car,BRUSH YOUR TEETH / COMB YOUR HAIR / HAVE AN APPLE / OR A PEAR
+120607,465,185,710000,Marge Simpson,Marge's Car,Bup-up-up! Safety locks!
+120608,465,186,712000,Roofi,Marge's Car,BRUSH YOUR TEETH / COMB YOUR HAIR / HAVE AN APPLE / OR A PEAR...
+120609,465,187,717000,Roofi,Marge's Car,BRUSH YOUR TEETH / COMB YOUR HAIR / HAVE AN APPLE / OR A PEAR...
+120612,465,190,723000,Roofi,Marge's Car,BRUSH YOUR TEETH / COMB YOUR HAIR / HAVE AN APPLE / OR A--
+120615,465,193,732000,Otto Mann,School Bus,"Whatsamatter, Lisa? You're usually the first one outta this death trap."
+120616,465,194,735000,Lisa Simpson,School Bus,"Well, the combination of me leaving arts camp and you driving on and off the shoulder has made me a little ill."
+120617,465,195,742000,Otto Mann,School Bus,Sorry. I guess I shouldn't be playing this driving game while I'm driving.
+120618,465,196,750000,Lisa Simpson,School Bus,"Okay, maybe it won't be that bad."
+120619,465,197,753000,Jimbo Jones,School Bus,"Hey Lisa, how was farts camp?"
+120621,465,199,758000,Lisa Simpson,School Bus,Arts camp was lovely.
+120622,465,200,760000,Kearney Zzyzwicz,School Bus,Did you paint a picture on toilet paper?
+120623,465,203,782000,Dewey Largo,Springfield Elementary School,Lisa Simpson! Please stick to the illegally Xeroxed sheet music.
+120624,465,204,786000,Lisa Simpson,Springfield Elementary School,But arts camp encouraged us to spread our wings and fly.
+120625,465,205,790000,Dewey Largo,Springfield Elementary School,Lisa... I went to arts camp too. And all it does is fill your coconut with banana-cream dreams that can never come true.
+120626,465,206,797000,Lisa Simpson,Springfield Elementary School,How do you cope?
+120627,465,207,799000,Dewey Largo,Springfield Elementary School,"Vanilla Wafers, plum wine and take it from the top! MY COUNTRY TIS OF THEE / MY JOB IS MISERY / LIFE DISAPPOINTED ME / I'M FIF-TY-THREE..."
+120630,465,210,822000,Bart Simpson,Hotel,We gotta find a clip that proves Krusty's made a cultural contribution.
+120631,465,211,826000,Bart Simpson,Hotel,"Let's see what we've got here. Krusty drunk on ""The Tonight Show,"" Krusty drunk on ""The Today Show,"" Krusty confesses to self-mutilation on Match Game P.M., ""Krusty Trips The Pope,"" ""Krusty Vomits In Baby Carriage"", ""Krusty Uses Child As Shield"", ""Krusty Celebrity Poker Freak-Out"", ""Krusty Super Bowl Nip Slip"" Ah, here we are, ""Krusty On ""The Electric Company."""
+120632,465,212,847000,E-Z Reader,Hotel,"Top to bottom, left to right, readin' things is outta sight."
+120633,465,213,852000,Krusty the Clown,Hotel,"Speaking of out of sight, you've gotta hide me. I slept with the lighting director's wife. And--"
+120637,465,217,874000,Marge Simpson,Simpson Home,"No appetite, honey?"
+120638,465,218,875000,Lisa Simpson,Simpson Home,It's just... dinner conversation at arts camp was a bit more stimulating. One night we spoke only in lines from famous poems.
+120639,465,219,883000,Grampa Simpson,Simpson Home,"Because I could not stop for death, he kindly stopped for me."
+120640,465,220,887000,Lisa Simpson,Simpson Home,Emily Dickinson.
+120641,465,221,889000,Grampa Simpson,Simpson Home,"No, I was just describing my day."
+120642,465,222,892000,Lisa Simpson,Simpson Home,"If you need me, I'll be upstairs saying goodbye to my dreams."
+120643,465,223,896000,Grampa Simpson,Simpson Home,My dream is to be able to walk up stairs like an eight-year-old girl!
+120644,465,224,896000,Lisa Simpson,Simpson Home,"Maggie, your big sister is leaving for a more artistic life. I'll send for you when I'm famous. We'll take the town by storm like the Brontë sisters."
+120645,465,225,921000,Lisa Simpson,Simpson Home,"Oh Maggie, don't ever turn two."
+120648,465,229,962000,Ethan Foley,Run-down Apartment Building,Lisa Simpson! What are you doing here?
+120649,465,230,965000,Lisa Simpson,Run-down Apartment Building,I came to share in the esteem that the world bestows on its artists.
+120650,465,231,970000,Ethan Foley,Run-down Apartment Building,"Uh, yeah."
+120651,465,232,974000,Lisa Simpson,Run-down Apartment Building,Sure is cold in here.
+120652,465,233,974000,Ethan Foley,Run-down Apartment Building,"No heat. It's, uh, part of our art."
+120653,465,234,981000,Ethan Foley,Run-down Apartment Building,More art.
+120654,465,235,982000,Kurt Hardwick,Run-down Apartment Building,"Ethan, look what I stole from work!"
+120655,465,236,984000,Ethan Foley,Run-down Apartment Building,Yes!
+120656,465,237,985000,Lisa Simpson,Run-down Apartment Building,Tomatoes? What kind of artists are you?
+120657,465,238,988000,Kurt Hardwick,Run-down Apartment Building,Sandwich artists.
+120658,465,239,988000,Ethan Foley,Run-down Apartment Building,But we get to eat any sandwiches we drop on the floor.
+120659,465,240,991000,Kurt Hardwick,Run-down Apartment Building,Unless we drop them on purpose.
+120660,465,241,993000,Ethan Foley,Run-down Apartment Building,They've got cameras on us at all times.
+120661,465,242,995000,Lisa Simpson,Run-down Apartment Building,Are you saying arts camp was a lie?
+120662,465,243,997000,Ethan Foley,Run-down Apartment Building,"Well, not the swimming."
+120663,465,244,999000,Kurt Hardwick,Run-down Apartment Building,"Look Lisa, I think it's time we sang you the truth:"
+120664,465,245,1002000,Kurt Hardwick,Run-down Apartment Building,"ARTISTS ARE THE LEAST IMPORTANT PEOPLE IN THE WORLD! / SO WHATEVER YOU DO, DON'T BE AN ARTIST, GIRL."
+120665,465,246,1009000,Ethan Foley,Run-down Apartment Building,"ARTISTS MAKE A LIVING, DRESSING UP LIKE A FALAFEL."
+120666,465,247,1012000,Kurt Hardwick,Run-down Apartment Building,ARTISTS SHED A TEAR WHEN THEY'RE CALLED SOMETHING AWFUL.
+120667,465,248,1016000,Schoolboy,Run-down Apartment Building,You ain't no falafel!
+120668,465,249,1021000,Krusty the Clown,Run-down Apartment Building,"ARTISTS SIT IN JAIL, ON A LIFETIME HITCH..."
+120669,465,250,1024000,Krusty the Clown,Run-down Apartment Building,THE ONLY WAY OUT IS BECOME A PRISON SNITCH.
+120670,465,251,1029000,Krusty the Clown,Run-down Apartment Building,Oh why did I sing that out loud?
+120671,465,252,1033000,Lisa Simpson,Run-down Apartment Building,"WHAT I DON'T GET IS, WHY ALL THE LIES?"
+120672,465,253,1037000,Ethan Foley,Run-down Apartment Building,WE WANTED YOU TO THINK WE WERE HAPPENING GUYS.
+120673,465,254,1043000,Ethan Foley,Run-down Apartment Building,"Well, philosophically we're happening in the sense that we exist."
+120674,465,255,1046000,Kurt Hardwick,Run-down Apartment Building,"Not for long, if we don't drop more sandwiches."
+120676,465,257,1049000,Chief Magistrate,The Hague,"Herschel Krustofsky, you stand accused of the most heinous crimes known to clowndom. Have you anything to say in your defense?"
+120677,465,258,1057000,Krusty the Clown,The Hague,"I'm sorry, your honor. I've led a worthless life. I've been this way since I was a little... squirt!"
+120678,465,259,1063000,Krusty the Clown,The Hague,"Eh? Eh? Come on, I thought you Euro-jerks loved unfunny comedy."
+120679,465,260,1068000,Chief Magistrate,The Hague,"We don't put ""Euro"" in front of everything. Euro-guards! Take him away in Euro-cuffs!"
+120680,465,261,1076000,Homer Simpson,The Hague,Wait! Not so fast! We found something to save Krusty.
+120681,465,262,1080000,Bart Simpson,The Hague,And it's on this DVD!
+120682,465,263,1082000,Chief Magistrate,The Hague,Is it Region One or Region Two?
+120683,465,264,1083000,Homer Simpson,The Hague,"Uh, what region is America?"
+120684,465,265,1085000,Chief Magistrate,The Hague,Region One.
+120685,465,266,1086000,Homer Simpson,The Hague,Woo hoo! We're Region One! We're Region One!
+120686,465,267,1089000,Chief Magistrate,The Hague,"Well, this is Region Two. So I'm afraid your exculpatory evidence will produce nothing more than an error message stating ""unreadable disc""."
+120687,465,268,1089000,Belgian Bailiff,The Hague,"If it please the court, my brother has a multi-region player. I just pray he's not on a state-mandated five-week vacation..."
+120690,465,271,1114000,Bailiff's Brother,Courtroom,"Get this back to me by six. I'm having a ""Real Housewives of Atlanta"" season two party."
+120691,465,272,1125000,Krusty the Clown,Courtroom,"My dressing room has regular potato chips! But my contract specifically stated half regular, half ruffled!"
+120692,465,273,1131000,Afrikaner Promoter,Courtroom,"Krusty, please..."
+120693,465,274,1132000,Krusty the Clown,Courtroom,Forget it! Forget it! The gig's off! I ain't gonna play Sun City!
+120694,465,275,1137000,Krusty the Clown,Courtroom,Vuvuzela me out of here!
+120695,465,276,1143000,Bart Simpson,Courtroom,"Three days later, South Africa freed Nelson Mandela from prison."
+120696,465,277,1148000,Chief Magistrate,Courtroom,"Krusty the Clown, your selfishness has saved the world. Case dismissed!"
+120697,465,278,1153000,Krusty the Clown,Courtroom,"I'm just glad you all finally saw what an amazing human being I am. Now, where's the nearest place I can score a little victory weed?"
+120698,465,279,1162000,Chief Magistrate,Courtroom,"That would be the courthouse cafeteria. I'll be right there -- order me um, a raspberry crepe and a brick of hash."
+120699,465,280,1168000,Krusty the Clown,Courtroom,How do you smoke it?
+120700,465,281,1170000,Chief Magistrate,Courtroom,I melt it and inject it into my eyelid.
+120701,465,282,1172000,Krusty the Clown,Courtroom,"Hey, you're all right."
+120703,465,284,1175000,Ethan Foley,Nearly-empty Coffee House,PLAYING GUITARS / IT'S HARD TO SING WHILE PLAYING...
+120704,465,285,1182000,Ethan Foley,Nearly-empty Coffee House,...GUITARS.
+120705,465,286,1185000,Kurt Hardwick,Nearly-empty Coffee House,What's she doing with her hands?
+120706,465,287,1187000,Lisa Simpson,Nearly-empty Coffee House,"It's called ""applause."""
+120707,465,288,1188000,Ethan Foley,Nearly-empty Coffee House,I'm not sure I like it.
+120708,465,289,1190000,Marge Simpson,Nearly-empty Coffee House,Lisa? Are you in here?
+120709,465,290,1192000,Lisa Simpson,Nearly-empty Coffee House,Mom! Take me home!
+120710,465,291,1198000,Moe Szyslak,Nearly-empty Coffee House,"Hi, I'm Moe. It's good that little kid left, 'cause this song is gonna get into a very dark area."
+120712,465,293,1211000,Lisa Simpson,Ethan and Kurt's Apartment,"Goodbye, guys. I'll try again when I'm older..."
+120713,465,294,1214000,Ethan Foley,Ethan and Kurt's Apartment,"Remember us for our exaggerations, not our reality!"
+120714,465,295,1218000,Kurt Hardwick,Ethan and Kurt's Apartment,And we gave you a little surprise for your trip back.
+120715,465,296,1220000,Marge Simpson,Ethan and Kurt's Apartment,Is it your laundry?
+120716,465,297,1221000,Kurt Hardwick,Ethan and Kurt's Apartment,"Okay, two surprises."
+120717,465,298,1225000,Kurt Hardwick,Ethan and Kurt's Apartment,"In a way, I think we learned more from her than she did from us."
+120718,465,299,1225000,Ethan Foley,Ethan and Kurt's Apartment,"Yeah, well obviously, because we taught her nothing."
+120719,465,300,1235000,Marge Simpson,Ethan and Kurt's Apartment,"Lisa, look!"
+120720,465,301,1243000,Lisa Simpson,Ethan and Kurt's Apartment,"Thanks, guys!"
+120721,465,302,1246000,Ethan Foley,Ethan and Kurt's Apartment,How did we get way up here? Weren't we just back there?
+120722,465,303,1249000,Kurt Hardwick,Ethan and Kurt's Apartment,The magic of art.
+120723,465,304,1260000,Ethan Foley,Ethan and Kurt's Apartment,Sorry we're late.
+120724,465,305,1263000,Ethan Foley,Ethan and Kurt's Apartment,Oops.
+120725,465,306,1264000,Kurt Hardwick,Ethan and Kurt's Apartment,Nice one.
+120726,465,307,1266000,Ethan Foley,Ethan and Kurt's Apartment,IT'S HARD TO SING WHILE PLAYING... GUITARS.
+120727,465,308,1271000,Ethan Foley,Ethan and Kurt's Apartment,ARTISTS ARE THE PEOPLE WHO HOLD UP A MIRROR.
+120728,465,309,1273000,Kurt Hardwick,Ethan and Kurt's Apartment,ARTISTS MAKE SOCIETY SEE ITS FAULTS CLEARER.
+120729,465,310,1275000,Ethan Foley,Ethan and Kurt's Apartment,ARTISTS HELP STAMP OUT OPPRESSION AND WARS.
+120730,465,311,1278000,Kurt Hardwick,Ethan and Kurt's Apartment,AND WHEN WE CAMP OUTDOORS...
+120731,465,312,1278000,Kurt Hardwick,Ethan and Kurt's Apartment,WE MAKE THE BEST S'MORES.
+120732,465,313,1281000,Kurt Hardwick,Ethan and Kurt's Apartment,"THREE LAYERS, MOTHER NATURE. YEAH, YEAH."
+120733,465,314,1285000,Ethan Foley,Ethan and Kurt's Apartment,ARTISTS END POVERTY WITH MUSIC AND DANCE.
+120734,465,315,1287000,Kurt Hardwick,Ethan and Kurt's Apartment,ARTISTS MAKE ART ON THE BEACHES OF FRANCE.
+120735,465,316,1289000,Lisa Simpson,Ethan and Kurt's Apartment,I NEVER KNEW ARTISTS WERE ALL SO AMAZING!
+120736,465,317,1292000,Kurt Hardwick,Ethan and Kurt's Apartment,EXCUSE ME WHILE I TALK TO THIS COW THAT IS GRAZING. / I give art like you give milk.
+120738,465,319,1299000,Lisa Simpson,Ethan and Kurt's Apartment,DO YOU THINK THAT I COULD BE AN ARTIST IN THE CITY?
+120739,465,320,1302000,Ethan Foley,Ethan and Kurt's Apartment,"HOLD ON LISA, LET ME CHECK WITH THE COMMITTEE."
+120740,465,321,1304000,Kurt Hardwick,Ethan and Kurt's Apartment,"YES, LISA, YOU CAN BE AN ARTIST IN THE WORLD / SO MOVE TO THE CITY WHEN YOU'RE LESS ITTY-BITTY GIRL! / TO THE GRITTY CITY WHEN YOU'RE LESS ITTY-BITTY, GIRL! /"

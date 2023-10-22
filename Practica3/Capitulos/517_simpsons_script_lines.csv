@@ -1,0 +1,234 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+134268,517,2,68000,Bart Simpson,Homer's Car,"""Learn Zone?"" Mom, you said we were going someplace fun."
+134269,517,3,71000,Homer Simpson,Homer's Car,"Yeah, Mom, you promised!"
+134270,517,4,73000,Marge Simpson,Homer's Car,"Homer, I told you, don't call me ""Mom."""
+134271,517,5,73000,Homer Simpson,Homer's Car,"Sorry, Mrs. Simpson."
+134272,517,8,87000,Marge Simpson,Smart Tykes,"This isn't the learn zone. Darn it, it's a fun place!"
+134274,517,10,94000,Squeaky-Voiced Teen,Smart Tykes,"For maximum safety, all children must wear anti-kidnapping bracelets."
+134275,517,11,100000,Homer Simpson,Smart Tykes,Is this a kid you'd pay ransom for?
+134276,517,12,103000,Bart Simpson,Smart Tykes,"Dad, what would you do if you got my ear in the mail?"
+134277,517,13,105000,Homer Simpson,Smart Tykes,Feed it to the dog.
+134278,517,14,107000,Bart Simpson,Smart Tykes,You'd have to wrap cheese around it.
+134279,517,15,108000,Homer Simpson,Smart Tykes,Don't you tell me how to feed you to the dog!
+134280,517,16,121000,Marge Simpson,Smart Tykes,Where do they go?
+134282,517,18,125000,Female Announcer,BASEMENT,Welcome to the Mormon Church! America's most respectable cult!
+134283,517,19,133000,Marge Simpson,BASEMENT,"Keep an eye on the kids, Homer."
+134284,517,20,134000,Homer Simpson,BASEMENT,Can't I keep an eye on that kid? He's fabulous.
+134285,517,21,139000,Marge Simpson,BASEMENT,Bart and Lisa.
+134286,517,22,140000,Homer Simpson,BASEMENT,It's always my kids.
+134287,517,23,143000,Homer Simpson,BASEMENT,Where'd they go?
+134288,517,24,149000,Homer Simpson,BASEMENT,Almost... holy moley...
+134289,517,25,154000,Homer Simpson,BASEMENT,"What the--? Ooh, it's hopeless."
+134290,517,26,159000,Lisa Simpson,BASEMENT,What's hopeless?
+134291,517,27,160000,Homer Simpson,BASEMENT,Who the hell are you?
+134293,517,29,165000,Bart Simpson,Smart Tykes,Dad! / Come up! / Pretty please! / Come up!
+134294,517,30,166000,Homer Simpson,Smart Tykes,Absolutely not! My adult frame is simply too large. No! Never! Fine! Here I come!
+134296,517,32,173000,Homer Simpson,Tunnel,Crawling... so painful...
+134298,517,34,180000,Homer Simpson,KIDS' STRUCTURE TYPE CHAMBER,...duck walk... infinitely worse...
+134299,517,35,186000,Other Dad,KIDS' STRUCTURE TYPE CHAMBER,Only wanted... to be fun...
+134300,517,36,188000,Homer Simpson,KIDS' STRUCTURE TYPE CHAMBER,"Sh, sh. Shhhhh. Soon you'll know peace."
+134302,517,38,199000,Homer Simpson,CLIMBING STRUCTURE,"I made it, kids! I am king of Learning-ton Castle!"
+134303,517,39,204000,Bart Simpson,CLIMBING STRUCTURE,"We tricked you! / Eat Nerf, Homeboy!"
+134304,517,40,207000,Homer Simpson,CLIMBING STRUCTURE,Real matuuure!
+134305,517,41,213000,Ralph Wiggum,CLIMBING STRUCTURE,Yay!
+134306,517,42,213000,Chief Wiggum,CLIMBING STRUCTURE,Ralphie! Shoes.
+134308,517,44,221000,Homer Simpson,SNACK BAR,What cool kid thing's in here?
+134309,517,45,223000,Rainier Wolfcastle,SNACK BAR,No kids. That's what's cool.
+134310,517,46,229000,Kirk Van Houten,SNACK BAR,I have a phone! It's very tiny!
+134311,517,47,232000,Cletus Spuckler,SNACK BAR,"Ain't no shame in bein' poor, boy. What's pitiful is if you is ignorant."
+134312,517,48,237000,Cletus Spuckler,SNACK BAR,Is these mice pillows here for the takin'?
+134314,517,50,240000,Shauna Chalmers,Smart Tykes,I hate working here. At least at Krustyburger you could burn yourself and go home.
+134315,517,51,247000,Computer Voice,Smart Tykes,Unauthorized child departure. Lockdown mode initiated.
+134316,517,52,257000,Shauna Chalmers,Smart Tykes,Another stupid kid got out. I can't tell the manager -- I am the manager. Duh!
+134318,517,54,263000,Mom,LASER TAG ARENA,We're locked in!
+134319,517,55,267000,Mom With Laser,LASER TAG ARENA,"These ""lasers"" are nothing more than colored lights!"
+134321,517,57,270000,Marge Simpson,Smart Tykes,"Calm down, everyone. Calm down. I'm sure they'll have us out of here soon."
+134322,517,58,274000,Marge Simpson,Smart Tykes,"Until then, why don't we bond by sharing our child birth experiences."
+134323,517,59,278000,Moms,Smart Tykes,The nurses were so great. / My husband held my hand the whole time. /
+134324,517,60,283000,Marge Simpson,Smart Tykes,See? All you need to get through a crisis is a little friendly conversation. Betcha the dads are doing the same thing!
+134326,517,62,295000,Red Dad,SNACK BAR,The sneeze guard is broken! There is no law!
+134327,517,63,298000,Coach Krupt,SNACK BAR,"Oh, I just came here to pick up my daughter. But now I'm gonna kill you all!"
+134328,517,64,305000,Coach Krupt,SNACK BAR,"Don't forget your jacket, sweetie."
+134329,517,65,311000,Furious Dad,SNACK BAR,"Get out of there, you!"
+134330,517,66,312000,Homer Simpson,SNACK BAR,Never!
+134331,517,67,315000,Homer Simpson,SNACK BAR,Butter.
+134334,517,70,326000,Psycho Dad,LEARNING ZONE,Round and round. Round and round.
+134335,517,71,331000,Rainier Wolfcastle,LEARNING ZONE,Freedom!
+134336,517,72,335000,Dads,LEARNING ZONE,Let's get out of here! / Come on!
+134338,517,74,341000,Homer Simpson,LEARNING ZONE,"Apes... deep down we're all savage apes. Leave your body, Homer."
+134339,517,75,347000,Homer Simpson,LEARNING ZONE,What the hell was that?
+134342,517,78,351000,Marge Simpson,Simpson Home,You've been through a traumatic experience. Are you sure you wanna go to work today?
+134344,517,79,356000,Homer Simpson,Simpson Home,"Well, I've taken eight months off. It's time to get back on the horse."
+134345,517,80,366000,Ned Flanders,Simpson Home,"Hey, neighbor, your welcome mat's lookin' a little dusty."
+134346,517,81,374000,Ned Flanders,Simpson Home,Mind if I come over and sweeten your greetin'. Sweeten your greetin'! SWEETEN YOUR GREETIN'!
+134347,517,82,379000,Ape Heads,Simpson Home,Three Neds are better than one!
+134349,517,84,389000,Ned Flanders,Simpson Home,"I hate to be a nag, but this is my real head."
+134352,517,87,396000,Homer Simpson,Moe's Tavern,"I guess despite all our so-called civilization, anarchy lurks around every corner, like a racially-diverse street gang on a network cop show."
+134354,517,89,406000,Lloyd,Moe's Tavern,"My friend, you just experienced W.R.O.L. first hand."
+134355,517,90,411000,Moe Szyslak,Moe's Tavern,"Hey, hey! Read the sign, pal."
+134356,517,91,411000,Moe Szyslak,Moe's Tavern,"""No acronyms!"" And that goes for the rest of you, too!"
+134357,517,92,416000,Larry,Moe's Tavern,"Okay, okay."
+134358,517,93,417000,Moe Szyslak,Moe's Tavern,"In this bar we say ""Old Kinderhook!"""
+134359,517,94,417000,Lenny Leonard,Moe's Tavern,What's W.R.O.L.?
+134360,517,95,422000,Lloyd,Moe's Tavern,"It means ""without the rule of law."" Anarchy. The end of civilization. Coming soon to an America near you."
+134361,517,96,430000,Homer Simpson,Moe's Tavern,America can't collapse! We're as powerful as ancient Rome!
+134362,517,97,434000,Lloyd,Moe's Tavern,Take a look at this.
+134363,517,98,436000,Narrator,Moe's Tavern,The modern world. An inexorable march of progress.
+134364,517,99,440000,Homer Simpson,Moe's Tavern,Sweet.
+134365,517,100,441000,Narrator,Moe's Tavern,Or is it?
+134367,517,102,444000,Dr. Eugene Blatz,Moe's Tavern,"We're slaves to the system. Close the supermarket, and we starve. Cut off the tap, we drink our cat's blood."
+134368,517,103,459000,Narrator,Moe's Tavern,Who will survive in this new world?
+134369,517,104,462000,Narrator,Moe's Tavern,The man who is prepared.
+134370,517,105,477000,Homer Simpson,Moe's Tavern,"Oh my God! This unsourced, undated video has convinced me beyond any doubt!"
+134371,517,106,482000,Lloyd,Moe's Tavern,And I'm the guy you wanna know when the stuff hits the fan.
+134372,517,107,486000,Carl Carlson,Moe's Tavern,"Hey, man. No need to almost swear."
+134373,517,108,488000,Lloyd,Moe's Tavern,Come with me.
+134374,517,109,491000,Moe Szyslak,Moe's Tavern,"Well, Homer's gone. Let's all go into our suspended state till he gets back."
+134377,517,111,502000,Lloyd,Herman's Military Antiques,"Homer, meet the Springfield Preppers."
+134378,517,112,506000,Homer Simpson,Herman's Military Antiques,"Preppies? Oh, I hate you guys! Always partying on deck with your Docksiders while us townies are scrubbing the bilge!"
+134379,517,113,514000,Lloyd,Herman's Military Antiques,"Not ""preppies,"" ""prepp-ers."" But I like your hatred."
+134380,517,114,518000,Homer Simpson,Herman's Military Antiques,It's based on nothing!
+134381,517,115,519000,Lloyd,Herman's Military Antiques,"That's super. Now Homer, what would you do in the case of an E.M.P.?"
+134382,517,116,526000,Herman Hermann,Herman's Military Antiques,Electromagnetic pulse.
+134383,517,117,530000,Lindsay Naegle,Herman's Military Antiques,A burst of radiation that knocks out every electrical system in the country.
+134384,517,118,534000,Homer Simpson,Herman's Military Antiques,"I'd slash my wrists! But how, without my electric knife?!"
+134385,517,119,537000,Gary Chalmers,Herman's Military Antiques,There is an alternative to suicide.
+134386,517,120,539000,Homer Simpson,Herman's Military Antiques,I can't conceive of any.
+134387,517,121,541000,Lindsay Naegle,Herman's Military Antiques,We can teach you the skills you need to survive any crisis.
+134389,517,123,546000,Lindsay Naegle,Herman's Military Antiques,All we ask is that you keep your prepping secret. We won't have room for all the unprepared.
+134390,517,124,552000,Homer Simpson,Herman's Military Antiques,Don't worry. I am very good at keeping secrets.
+134392,517,126,555000,Homer Simpson,Simpson Home,Impending doom...
+134393,517,127,555000,Lisa Simpson,Simpson Home,"Whatcha reading, Dad?"
+134395,517,129,559000,Homer Simpson,Simpson Home,"Honey, everything's fine. There's nothing to worry about."
+134396,517,130,563000,Lisa Simpson,Simpson Home,"When grownups say that, it means there is something to worry about."
+134397,517,131,566000,Homer Simpson,Simpson Home,Just go play your saxophone while you can.
+134398,517,132,570000,Lisa Simpson,Simpson Home,What does that mean?
+134399,517,133,571000,Homer Simpson,Simpson Home,Secrets? I have no secrets! Just enjoy this golden time you will soon cling desperately to the memory of. Smell some bread!
+134402,517,136,581000,Gary Chalmers,Chalmers' House,"When things go south, the ""sheeple"" will clean out every supermarket in town."
+134403,517,137,587000,Homer Simpson,Chalmers' House,Typical sheeple.
+134404,517,138,588000,Gary Chalmers,Chalmers' House,Are you eating my grain?
+134405,517,139,592000,Homer Simpson,Chalmers' House,Maybe.
+134406,517,140,594000,Gary Chalmers,Chalmers' House,That was a five-pound bag!
+134407,517,141,596000,Homer Simpson,Chalmers' House,"Yeah, but I'll go home, weigh myself, and I'll have gained six pounds. What's that about?"
+134093,517,143,601000,Homer Simpson,Simpson Home,"Prep, prep, prep..."
+134408,517,144,604000,Bart Simpson,Simpson Home,"Hey, Dad. Are we going camping?"
+134409,517,145,606000,Homer Simpson,Simpson Home,I guess an open garage isn't the best hiding place.
+134410,517,146,609000,Bart Simpson,Simpson Home,What's up? Going crazy again?
+134411,517,147,611000,Homer Simpson,Simpson Home,"I wish. Son, the best way to explain this is to show you some age-inappropriate movies."
+134412,517,148,625000,Homer Simpson,Simpson Home,"So, what have you learned so far from our post-apocalyptic movie marathon?"
+134413,517,149,630000,Bart Simpson,Simpson Home,"Guys who call themselves ""preacher"" or ""deacon"" are very bad. Water is money unless gasoline is money. And even though lots of things are razor-sharp, no one ever shaves."
+134414,517,150,639000,Homer Simpson,Simpson Home,"Hollywood has taught you well, my son. Now let's push ""play."""
+134415,517,151,646000,Overlord,Simpson Home,Now the Ice Bishop of Beverly Hills will teach you the true meaning of cold!
+134416,517,152,657000,Crazy Man,Simpson Home,I have come from a place where the land is warm and the only ice is made by machines called... fridge-ra-torrs.
+134417,517,153,666000,Post-apocalyptic Crowd,Simpson Home,Fridge-ra-torrs! Fridge-ra-torrs!
+134418,517,154,670000,Homer Simpson,Simpson Home,Fridge-ra-torr!
+134419,517,155,672000,Bart Simpson,Simpson Home,"Aren't they just saying ""refrigerator?"""
+134420,517,156,674000,Homer Simpson,Simpson Home,Do not question the wisdom of Tom Skerritt.
+134422,517,158,678000,Lloyd,SECLUDED COMPOUND,"Here it is, Homer. The Springfield Preppers' top secret Bug-Out Retreat."
+134423,517,159,682000,Homer Simpson,SECLUDED COMPOUND,Wow. Your end of the world is better than my during the world.
+134424,517,160,687000,Lloyd,SECLUDED COMPOUND,"Homer, we all know America's collapse is about three months away."
+134425,517,161,691000,Herman Hermann,SECLUDED COMPOUND,Six weeks at most.
+134426,517,162,693000,Lloyd,SECLUDED COMPOUND,"There's always one alarmist. Anyway, when the Four Horsemen ride, we want you and your collaterals right here with us."
+134427,517,163,699000,Homer Simpson,SECLUDED COMPOUND,"Aw. Uh, listen, I've gotta know. You're not just being nice to me because in a pinch you could make candles from my fat?"
+134428,517,164,707000,Lloyd,SECLUDED COMPOUND,"Well, that is a big part of it."
+134429,517,165,708000,Homer Simpson,SECLUDED COMPOUND,It's okay. I know what I am.
+134431,517,167,714000,Marge Simpson,Simpson Home,"I can't find all our cereal, crackers, juice boxes, the butter brush..."
+134432,517,168,719000,Homer Simpson,Simpson Home,Um... a lot of that stuff must've got lost in the move.
+134433,517,169,723000,Marge Simpson,Simpson Home,What move? We haven't moved! What's going on?!
+134434,517,170,727000,Homer Simpson,Simpson Home,I want to tell you but I promised to keep it a secret.
+134435,517,171,730000,Marge Simpson,Simpson Home,You can't have secrets from your wife!
+134436,517,172,733000,Homer Simpson,Simpson Home,It's very late in the marriage to tell me that.
+134437,517,173,737000,Homer Simpson,Simpson Home,I've hidden all our supplies behind a fake wall.
+134438,517,174,740000,Marge Simpson,Simpson Home,I thought the basement looked cleaner.
+134439,517,175,742000,Homer Simpson,Simpson Home,See? These are our bug-out bags. In here is everything we need to survive.
+134440,517,176,747000,Marge Simpson,Simpson Home,Survive what?
+134441,517,177,748000,Homer Simpson,Simpson Home,The looming kablooey.
+134442,517,178,751000,Marge Simpson,Simpson Home,It's reassuring to see you're aware of the future. But this is all a little... creepy.
+134443,517,179,757000,Homer Simpson,Simpson Home,"Creepy? Marge, the apocalypse is coming. Maybe not tomorrow, maybe never, but it's coming... and soon."
+134444,517,180,765000,Marge Simpson,Simpson Home,I'm going to bed.
+134445,517,181,769000,Homer Simpson,Simpson Home,There's no handle on this side!
+134446,517,182,774000,Homer Simpson,Simpson Home,The one thing I couldn't prepare for.
+134449,517,185,780000,Prepper,MYSTERIOUS BASEMENT,"Uh, this here's my snack chips. Some cheese puffs. Those are doodles, I'll eat anything orange except an orange."
+134450,517,186,789000,Prepper,MYSTERIOUS BASEMENT,And that's how you deliver a baby calf with a bathroom plunger.
+134452,517,188,789000,Prepper,Springfield Nuclear Power Plant,Now everybody talks guns and ammo but survival really comes down to who has the most shelf paper.
+134454,517,190,800000,Lenny Leonard,PLANT,An E.M.P.!
+134455,517,191,802000,Carl Carlson,PLANT,You know what that means!
+134456,517,192,804000,Lenny Leonard,PLANT,Hand scissors.
+134459,517,195,841000,Mayor Joe Quimby,Springfield Town Hall,All electronics in Springfield have been disabled. Even the musical greeting cards.
+134461,517,197,850000,Lloyd,Springfield Town Hall,This is it -- bug-out time. Everyone but us is doomed. I am so jazzed.
+134462,517,198,859000,Kent Brockman,Springfield Town Hall,"Mr. Mayor, what is your administration doing to ensure there is no panic?"
+134463,517,199,863000,Mayor Joe Quimby,Springfield Town Hall,I don't know -- what is your administration doing?
+134464,517,200,865000,Kent Brockman,Springfield Town Hall,"There you have it. A town without rules, without leadership, without television. This is Kent Brockman, talking to himself."
+134466,517,202,874000,Homer Simpson,Simpson Home,"Marge, this is it! TEOTWAWKI!"
+134467,517,203,876000,Marge Simpson,Simpson Home,The end of the world as we know it?
+134468,517,204,879000,Homer Simpson,Simpson Home,"Uh-huh, where's the kids?"
+134469,517,205,880000,Marge Simpson,Simpson Home,"Lisa and Maggie are downstairs, and Bart's in his room with Milhouse."
+134470,517,206,884000,Homer Simpson,Simpson Home,"Boy, get in the car. And say goodbye to your best friend forever."
+134471,517,207,888000,Bart Simpson,Simpson Home,"Bye forever, Milhouse!"
+134472,517,208,889000,Milhouse Van Houten,Simpson Home,"See ya, Bart!"
+134474,517,210,894000,Homer Simpson,BUG-OUT LOCATION,This is my daughter. She brings the gift of music to the new world.
+134475,517,211,898000,L.T. Smash,BUG-OUT LOCATION,Is that sax alto or baritone?
+134476,517,212,898000,Homer Simpson,BUG-OUT LOCATION,Baritone.
+134477,517,213,902000,L.T. Smash,BUG-OUT LOCATION,This is gonna be a lonnng apocalypse.
+134478,517,214,904000,Bart Simpson,BUG-OUT LOCATION,Ay carumba.
+134479,517,215,906000,Lloyd,BUG-OUT LOCATION,Ay carumba indeed.
+134480,517,216,907000,Bart Simpson,BUG-OUT LOCATION,"Dad, how are we supposed to spend the rest of our lives here? We're already bored."
+134481,517,217,911000,Homer Simpson,BUG-OUT LOCATION,Here's something to pass the endless time. Write down which celebrities were rumored to be gay for future generations.
+134482,517,218,917000,Bart Simpson,BUG-OUT LOCATION,"Yes, sir."
+134483,517,219,919000,Homer Simpson,BUG-OUT LOCATION,Society will not have to start from square one.
+134484,517,220,926000,Marge Simpson,BUG-OUT LOCATION,"Homie, I never thought we'd turn our backs on our loved ones at the first hint of trouble."
+134485,517,221,932000,Homer Simpson,BUG-OUT LOCATION,"Marge, when I started prepping for the end of the world, everyone laughed at me."
+134486,517,222,936000,Marge Simpson,BUG-OUT LOCATION,No one was laughing. You kept it a secret!
+134487,517,223,939000,Homer Simpson,BUG-OUT LOCATION,"Well, just because I imagined it doesn't make it any less true. And now all those people are on their own."
+134488,517,224,945000,Marge Simpson,BUG-OUT LOCATION,How can you call yourself a Christian?
+134489,517,225,947000,Homer Simpson,BUG-OUT LOCATION,If Jesus had a gun he'd be alive today.
+134490,517,226,951000,Marge Simpson,BUG-OUT LOCATION,"Homer Simpson! When I fell in love with you, it was because of your big heart and your good looks. But some day those good looks are gonna fade."
+134492,517,228,964000,Lloyd,BUG-OUT LOCATION,"Soon we'll be approached by people who haven't prepared. Now, do not look at their faces. That can trigger ""feelings"" and ""emotions,"" which have no place in Civilization 2.0: Rise of the Weirdos."
+134494,517,229,979000,Gary Chalmers,BUG-OUT LOCATION,I may have solved that problem. This rifle scope I modified makes any human face look dangerous and threatening.
+134495,517,230,990000,Gary Chalmers,BUG-OUT LOCATION,Boom.
+134496,517,231,991000,Homer Simpson,BUG-OUT LOCATION,Why do we have to shoot them at all?
+134497,517,232,993000,Lloyd,BUG-OUT LOCATION,Are you that good with a knife?
+134498,517,233,995000,Homer Simpson,BUG-OUT LOCATION,No! I want to help the people who didn't prepare!
+134499,517,234,999000,Gary Chalmers,BUG-OUT LOCATION,Boom. Boom.
+134500,517,235,1001000,Gary Chalmers,BUG-OUT LOCATION,Boom.
+134501,517,236,1001000,Lindsay Naegle,BUG-OUT LOCATION,What'd you shoot me for?
+134502,517,237,1003000,Gary Chalmers,BUG-OUT LOCATION,"You were thinking I'd gone mad with power, weren't you?"
+134503,517,238,1006000,Lindsay Naegle,BUG-OUT LOCATION,"I wasn't, but I am now!"
+134504,517,239,1007000,Gary Chalmers,BUG-OUT LOCATION,Boom-boom-boom-boom-boom...
+134505,517,240,1018000,Bart Simpson,BUG-OUT LOCATION,"Oh God, now what?"
+134506,517,241,1019000,Lisa Simpson,BUG-OUT LOCATION,"Every time you wake us up early in the morning, it's either church or we have to change our identities."
+134507,517,242,1025000,Homer Simpson,BUG-OUT LOCATION,"Don't be silly, ""Mary Ellen."""
+134508,517,243,1028000,Homer Simpson,BUG-OUT LOCATION,"Now we're going to leave this place. I'm sorry, Bart -- I know you've made a bug-out camp girlfriend..."
+134509,517,244,1033000,Bart Simpson,BUG-OUT LOCATION,I've got to be honest with you. It was just a bag of rice I drew a face on.
+134510,517,245,1036000,Homer Simpson,BUG-OUT LOCATION,White rice or brown?
+134511,517,246,1037000,Bart Simpson,BUG-OUT LOCATION,I never noticed.
+134512,517,247,1038000,Marge Simpson,BUG-OUT LOCATION,Good boy.
+134513,517,248,1039000,Homer Simpson,BUG-OUT LOCATION,So we'll take these supplies back to Springfield where they're needed most.
+134514,517,249,1044000,Marge Simpson,BUG-OUT LOCATION,"You're a good man, Homer Simpson."
+134515,517,250,1051000,Lisa Simpson,BUG-OUT LOCATION,You said you cut the wires to the alarm!
+134516,517,251,1053000,Homer Simpson,BUG-OUT LOCATION,Hm. I cut the wires to something.
+134518,517,253,1066000,Homer Simpson,Various Country Roads,"Okay, everybody, keep your eyes peeled for an unlit mile post marked twenty-three of thirty-six or something. If we miss it, we're dead."
+134519,517,254,1073000,Lisa Simpson,Various Country Roads,"Dad, there are lights following us!"
+134520,517,255,1075000,Homer Simpson,Various Country Roads,How can that be? I took every last can of gas!
+134522,517,257,1086000,Homer Simpson,Road,"Now, everyone relax and pretend we're about to be hit by a soft brick wall."
+134523,517,258,1091000,Homer Simpson,Road,"Out of our way, corn! The starving people of Springfield are desperately in need of our delivery of canned corn, corn flakes, and flash frozen corn nibblets."
+134493,517,261,1110000,Marge Simpson,Car,"I'm proud of you. Society may have crumbled, but our decency hasn't."
+134524,517,262,1115000,Homer Simpson,Car,"Now to save these sorry souls from a life of anarchy, starvation, and having sex for procreation."
+134527,517,265,1129000,Marge Simpson,Springfield Town Square,Everything's normal. The world didn't end.
+134528,517,266,1134000,Bart Simpson,Springfield Town Square,"Dad, you said people would be drinking each other's blood."
+134529,517,267,1137000,Homer Simpson,Springfield Town Square,"You got to watch a VHS copy of ""Red Dawn"" thirteen times. Stop complaining."
+134530,517,268,1143000,Lisa Simpson,Springfield Town Square,What happened with the E.M.P.?
+134531,517,269,1145000,Professor Jonathan Frink,Springfield Town Square,"Only Springfield lost power, you see, and after a few days, it came back. Maybe a little bit brighter."
+134532,517,270,1150000,Ned Flanders,Springfield Town Square,And the spirit of neighborly cooperation broke out as if all the weird angry people had left.
+134533,517,271,1157000,Lloyd,Springfield Town Square,Then society didn't crumble? The zoo animals weren't eaten?
+134534,517,272,1161000,Chief Wiggum,Springfield Town Square,"No, well, a couple."
+134535,517,273,1163000,Lloyd,Springfield Town Square,This non-disaster is a catastrophe!
+134536,517,274,1167000,Marge Simpson,Springfield Town Square,"Are you really so disappointed the world didn't end, just so you could be proven right?"
+134537,517,275,1173000,Lloyd,Springfield Town Square,"No, no. It's just that in the new world I would have been... a big shot."
+134538,517,276,1178000,Gary Chalmers,Springfield Town Square,"Well, not for long. Me and the others were planning to overthrow you and seal you in a cave."
+134539,517,277,1184000,Lloyd,Springfield Town Square,"Yeah, but what you didn't know was I was gonna poison all your drinking water."
+134540,517,278,1189000,Gary Chalmers,Springfield Town Square,Which is why I'm only drinking my own urine.
+134542,517,280,1194000,Lisa Simpson,Springfield Town Square,"Guys, can't you see that even an imperfect society is better than the savagery of creating a new one? I for one am glad we're stuck with civilization and I think we will be for a long, long time."
+134543,517,281,1215000,Zombie Kid,Springfield Town Square,I'm hungry.
+134544,517,282,1217000,Zombie Dad,Springfield Town Square,"Look, you can have potato chips now, or if you wait ten minutes you can have all the brains you can eat."
+134545,517,283,1223000,Zombie Kid,Springfield Town Square,I want both.

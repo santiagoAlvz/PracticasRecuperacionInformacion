@@ -1,0 +1,227 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+136707,526,4,29000,Lisa Simpson,Simpson Home,Our poor couch...
+136708,526,5,31000,Marge Simpson,Simpson Home,It sure has taken a beating over the years. Might be time to get a new one...
+136709,526,6,36000,Homer Simpson,Simpson Home,Really? You wanna throw something out just because it's a little old?
+136710,526,7,40000,Grampa Simpson,Simpson Home,"Hello, everybody!"
+136713,526,10,50000,Marge Simpson,Simpson Home,"Are there any two words more exciting than ""couch shopping?"""
+136714,526,11,55000,Homer Simpson,Simpson Home,No need. I already went online and ordered a new couch just like the old one.
+136715,526,12,59000,Homer Simpson,Simpson Home,"And you know, Marge, those salespeople weren't really our friends."
+136716,526,13,63000,Marge Simpson,Simpson Home,But they let me take fabric samples!
+136717,526,14,66000,Homer Simpson,Simpson Home,They charged a deposit!
+136718,526,15,68000,Marge Simpson,Simpson Home,They had to! It came from corporate!
+136719,526,16,71000,Homer Simpson,Simpson Home,"That's right, sweetie. It always comes from corporate."
+136721,526,18,78000,Foreman,Warehouse,"Hey, this one's goin' to Springfield!"
+136722,526,19,81000,Worker,Warehouse,Chumps! Don't everyone know that all New York furniture is full of bedbugs?
+136723,526,20,85000,Foreman,Warehouse,Fuhgettaboutit!
+136724,526,21,86000,Worker,Warehouse,It's fuhgottabouten!
+136655,526,24,90000,Marge Simpson,Simpson Home,Mmm... new cushion smell!
+136727,526,25,98000,Lisa Simpson,Simpson Home,I'm gonna put all my stuffed animals on it!
+136728,526,26,100000,Lisa Simpson,Simpson Home,"All right, get comfy."
+136729,526,27,110000,Bart Simpson,Simpson Home,"Gentlemen, the fort is complete and will stand forever."
+136730,526,28,114000,Milhouse Van Houten,Simpson Home,No way the Nazis will get in here.
+136731,526,29,116000,Nelson Muntz,Simpson Home,I thought we were the Nazis.
+136732,526,30,137000,Kent Brockman,Simpson Home,The latest New York fashion has come to Springfield -- bedbugs!
+136733,526,31,141000,Homer Simpson,Simpson Home,Ew! Just hearing about them makes me itch.
+136734,526,32,145000,Homer Simpson,Simpson Home,"Funny how the brain does that, huh?"
+136735,526,33,148000,Bart Simpson,Simpson Home,It's making me see them!
+136736,526,34,150000,Homer Simpson,Simpson Home,The brain is so stupid.
+136737,526,35,153000,Lisa Simpson,Simpson Home,Those are bedbugs!
+136738,526,36,157000,Marge Simpson,Simpson Home,How did we get bedbugs?
+136739,526,37,159000,Homer Simpson,Simpson Home,"Probably one of Bart's dirty friends! Boy, why are your friends so dirty?"
+136740,526,38,163000,Bart Simpson,Simpson Home,D'unno. Why are your friends such drunks?
+136741,526,39,165000,Homer Simpson,Simpson Home,Touché.
+136742,526,40,170000,Marge Simpson,Simpson Home,"I know this seems bad, but nothing brings out the best in Springfield like a crisis..."
+136744,526,42,177000,Moe Szyslak,DOWNTOWN SPRINGFIELD STREET,Bring out your bed! Bring out your bed!
+136745,526,43,183000,Ned Flanders,DOWNTOWN SPRINGFIELD STREET,Noooo!
+136746,526,44,194000,Lenny Leonard,DOWNTOWN SPRINGFIELD STREET,Hold my hand.
+136747,526,45,198000,Professor Jonathan Frink,DOWNTOWN SPRINGFIELD STREET,"People, there is no need to worry, I have developed the perfect bed bug repellant."
+136748,526,46,206000,Professor Jonathan Frink,DOWNTOWN SPRINGFIELD STREET,"See, behold the power of modified bear pheromones."
+136750,526,48,216000,Luann Van Houten,First Church of Springfield,"Marge, Milhouse was clean as a whistle till he played with your boy!"
+136751,526,49,220000,Kirk Van Houten,First Church of Springfield,"Now, we don't know it was the Simpsons. I think the most obvious culprit is the poorest family."
+136752,526,50,227000,Cletus Spuckler,First Church of Springfield,'Tweren't us! We don't have beds. We sleep in washtubs and coffins!
+136753,526,51,232000,Helen Lovejoy,First Church of Springfield,Why won't somebody blame the children?
+136754,526,52,234000,Ned Flanders,First Church of Springfield,"Well, the good news is it forced us all to church."
+136755,526,53,237000,Lisa Simpson,First Church of Springfield,"You know, in the Middle Ages people took refuge in church to escape the bubonic plague, but that made the plague spread even faster!"
+136756,526,54,244000,Ned Flanders,First Church of Springfield,Church!
+136758,526,56,248000,Marge Simpson,First Church of Springfield,"Everyone, please! Calm down! Reverend Lovejoy is here!"
+136759,526,57,253000,Sideshow Mel,First Church of Springfield,He will give us succor.
+136761,526,59,258000,Rev. Timothy Lovejoy,First Church of Springfield,"The Epistle of Jeremy is often cited as the most difficult book of the Apocrypha. But to me, none of the anagignoskomena are more contemplative than the book of Tobit."
+136763,526,61,275000,Parson,First Church of Springfield,Mind if I pray through?
+136764,526,62,278000,Ned Flanders,First Church of Springfield,It's the parson!
+136765,526,63,281000,Parson,First Church of Springfield,Are you gonna let a sunny summer day be ruined by a few bu-bu-bu-bugs?
+136766,526,64,285000,Sideshow Mel,First Church of Springfield,God's soldier in cardigan!
+136767,526,65,289000,Parson,First Church of Springfield,"Looks like I picked a swell day to return your six iron, Reverend."
+136768,526,66,292000,Parson,First Church of Springfield,"Now lookie here, Tim. This is a five-alarm brouhaha. Now, for chili, that's just dandy, but I brought you a little backup."
+136769,526,67,303000,Rev. Timothy Lovejoy,First Church of Springfield,I think I'm more than capable of handling this.
+136770,526,68,306000,Parson,First Church of Springfield,Need I remind you of the Bingo riot last summer?
+136771,526,69,310000,Parson,First Church of Springfield,God called all their numbers that day.
+136772,526,70,312000,Parson,First Church of Springfield,"Please meet your new Associate Minister, the Right Reverend Elijah Hooper. He was the number two man from Shelbyville. Introduced angle parking. We got in six more cars!"
+136773,526,71,324000,Rev. Hooper,First Church of Springfield,"Folks, isn't he something, big hand for Reverend Lovejoy."
+136774,526,72,330000,Rev. Hooper,First Church of Springfield,"Everyone says great things about you, Tim. And I can see why -- the posture, the haircut, the tiny feet -- it's amazing they hold you up, but they do. They do."
+136775,526,73,342000,Marge Simpson,First Church of Springfield,So charming. It's like he's selling silver polish at the state fair.
+136776,526,74,347000,Rev. Hooper,First Church of Springfield,"Look, here's why I'm here. Church should make you happy, like a warm mug of soup. Why does it taste better from a mug? I don't know, but it does."
+136777,526,75,355000,Lenny Leonard,First Church of Springfield,"God help me, I'm paying attention!"
+136778,526,76,357000,Rev. Hooper,First Church of Springfield,"Okay, who here has read ""Leviticus?"""
+136779,526,77,361000,Rev. Hooper,First Church of Springfield,"Okay, now who here has seen ""Meet the Parents?"""
+136780,526,78,364000,Duffman,First Church of Springfield,"Me, me, me ME MEEEE! Me, meee!"
+136781,526,79,367000,Rev. Hooper,First Church of Springfield,"Hilarious film, showed a whole new side of De Niro."
+136783,526,80,370000,Rev. Hooper,First Church of Springfield,"At first he couldn't stand his son-in-law, but then they patched things up in a comical fashion. Remember? The point is, at the end of the day, we love each other."
+136784,526,81,379000,Rev. Hooper,First Church of Springfield,And that's all this thing really says.
+136785,526,82,383000,Rev. Hooper,First Church of Springfield,"So don't waste your whole Sunday listening to us. Go home and watch one of the Die Hard movies on TV. They're always on, and they're always good."
+136786,526,83,391000,Rev. Hooper,First Church of Springfield,"And ladies, drop in on a neighbor's open house just to see what they did with their sun room."
+136788,526,85,396000,Parson,First Church of Springfield,"Now, go on home. We're here every Sunday just like Snoopy in color."
+136789,526,86,401000,Crowd,First Church of Springfield,Awww!
+136790,526,87,404000,Rev. Timothy Lovejoy,First Church of Springfield,"Can you believe this guy, Helen? Hey-- Helen?"
+136791,526,88,407000,Helen Lovejoy,First Church of Springfield,Tim?
+136792,526,89,407000,Rev. Timothy Lovejoy,First Church of Springfield,"Yes, Helen."
+136793,526,90,409000,Helen Lovejoy,First Church of Springfield,My wedding ring is creating a glare. Can you hold it?
+136794,526,91,414000,Rev. Timothy Lovejoy,First Church of Springfield,This is the worst Seventeenth Sunday in Ordinary Time ever.
+136797,526,94,423000,Otto Mann,Springfield Street,One day out of rehab and I
+136799,526,96,425000,Marge Simpson,Simpson Home,...debugged and fresh as a daisy.
+136800,526,97,435000,Bart Simpson,Simpson Home,Cool! They give you a bag of the bedbugs they killed.
+136801,526,98,440000,Bart Simpson,Simpson Home,"Homer's oatmeal, meet your raisins."
+136802,526,99,444000,Marge Simpson,Simpson Home,"Homer's Pie Man costume, Lisa's red dress, Lisa's red dress, Lisa's red dress, Sunday-best Bart..."
+136803,526,100,452000,Marge Simpson,Simpson Home,Where is it? My wedding dress!
+136804,526,101,457000,Marge Simpson,Simpson Home,Vodka? Is this Krusty's?
+136805,526,102,461000,Marge Simpson,Simpson Home,A high-voltage monkey prod? It is Krusty's! He must have my dress. Let's go!
+136806,526,103,466000,Bart Simpson,Simpson Home,What's the hurry?
+136807,526,104,468000,Marge Simpson,Simpson Home,I don't want a comedian knowing my dress size!
+136808,526,105,475000,Homer Simpson,Simpson Home,Wait a minute! This has oats in it!
+136809,526,106,478000,Homer Simpson,Simpson Home,"Ooh, a nose-hair trimmer!"
+136812,526,109,483000,Krusty the Clown,The Krusty the Clown Show,"Yeah, I found a wedding dress in my dry cleaning. We used it in a sketch."
+136782,526,110,488000,Krusty the Clown,The Krusty the Clown Show,Where's my mail-order bride?
+136814,526,111,493000,Krusty the Clown,The Krusty the Clown Show,How long was he in there?
+136815,526,112,496000,Krusty the Clown,The Krusty the Clown Show,Don't worry. We cleaned up the crate real good.
+136816,526,113,499000,Marge Simpson,The Krusty the Clown Show,What about my dress?
+136817,526,114,500000,Krusty the Clown,The Krusty the Clown Show,"Uh, gee, I'm afraid that dress is long gone. I threw it out the window during my post-show hissy fit."
+136818,526,115,508000,Sideshow Mel,The Krusty the Clown Show,Some of us don't have dressing rooms.
+136820,526,117,511000,Carl Carlson,Moe's Tavern,Wooden!
+136821,526,118,511000,Lenny Leonard,Moe's Tavern,Plastic!
+136822,526,119,512000,Carl Carlson,Moe's Tavern,Wooden!
+136823,526,120,512000,Lenny Leonard,Moe's Tavern,Plastic!
+136824,526,121,514000,Carl Carlson,Moe's Tavern,Why do we always argue over coffee stirrers?
+136825,526,122,516000,Rev. Hooper,Moe's Tavern,You know what's really stirring? Live local theater.
+136827,526,124,521000,Moe Szyslak,Moe's Tavern,"Whoa, whoa, whoa! Before I let a Holy Joe walk in this bar, I've gotta know which of the two true faiths you represent."
+136828,526,125,528000,Rev. Hooper,Moe's Tavern,"Well, I represent an easy-going offshoot of Protestantism."
+136829,526,126,531000,Moe Szyslak,Moe's Tavern,That is the wrong thing to say to a snake handler.
+136830,526,127,534000,Lenny Leonard,Moe's Tavern,"Easy Moe, easy!"
+136831,526,128,535000,Moe Szyslak,Moe's Tavern,"Oh, this thing's just loaded with rock salt. I just use it to keep raccoons outta my fridge. And of course to coat the rims of my margarita glasses."
+136832,526,129,548000,Homer Simpson,Moe's Tavern,"Padre, can I be honest with you? I've sucked every church book ribbon there is hoping to find one made of cherry. But there isn't."
+136833,526,130,557000,Homer Simpson,Moe's Tavern,"And if it's such a ""Good Book,"" how come there's no blurbs on the back? Not even David Sedaris? And he'll flack anything!"
+136834,526,131,566000,Homer Simpson,Moe's Tavern,"Seriously, ""Pews?"""
+136835,526,132,568000,Rev. Hooper,Moe's Tavern,"Homer, I love your passion. It's terrific, it's really something. Listen -- I'm just thinking -- would you consider being my deacon?"
+136836,526,133,575000,Homer Simpson,Moe's Tavern,Deacon? Is that like one of those weird Catholic Priest things?
+136837,526,134,579000,Rev. Hooper,Moe's Tavern,"No, not at all. It's like a sexton, or a rector."
+136838,526,135,582000,Homer Simpson,Moe's Tavern,"Oh, now we're talkin'. But why me?"
+136839,526,136,585000,Rev. Hooper,Moe's Tavern,"Because if I can get the man who sleeps through church to be my guy, this town will know that religion can be fun."
+136840,526,137,592000,Homer Simpson,Moe's Tavern,"Well I'm not one for taking new jobs on a whim. But as we say in the snow plow business, ""I'm your astronaut""!"
+136841,526,139,604000,Marge Simpson,Simpson Home,What do you think?
+136842,526,140,605000,Patty Bouvier,Simpson Home,"I didn't think Shotgun Mike's Bridal Store had a nice dress, but you found it."
+136843,526,141,610000,Marge Simpson,Simpson Home,Homer! You're not supposed to see the dress before the wedding!
+136844,526,142,614000,Homer Simpson,Simpson Home,Just looking for the bathroom.
+136845,526,143,614000,Woman,Simpson Home,This is not the bathroom!
+136846,526,144,619000,Homer Simpson,Simpson Home,But this paper towel feels so good.
+136847,526,145,622000,Lisa Simpson,Simpson Home,"I'm sorry your dress is gone, Mom."
+136848,526,146,624000,Marge Simpson,Simpson Home,"Oh sweetie, it's not for me. I wanted you to wear that dress at your wedding."
+136849,526,147,629000,Lisa Simpson,Simpson Home,Well then you shouldn't feel bad because I can't imagine myself ever getting married.
+136850,526,148,636000,Marge Simpson,Simpson Home,"Homer, your daughter doesn't want to get married."
+136851,526,149,639000,Homer Simpson,Simpson Home,That would save us several hundred bucks.
+136852,526,150,641000,Marge Simpson,Simpson Home,Tell her she's wrong!
+136853,526,151,643000,Homer Simpson,Simpson Home,"Right, um, I don't understand, Lisa, we let you get up early to watch the Royal Wedding!"
+136854,526,152,649000,Lisa Simpson,Simpson Home,"Hey, I have a weakness for pomp!"
+136855,526,153,650000,Homer Simpson,Simpson Home,Since when?
+136857,526,155,653000,Rev. Hooper,First Church of Springfield,"So you see, what Jesus is saying really can be explained by an episode of ""Californication."""
+136859,526,157,662000,Rev. Hooper,First Church of Springfield,Now Reverend Lovejoy will lead us in song...
+136860,526,158,664000,Rev. Timothy Lovejoy,First Church of Springfield,"GOD LIFTS YOU UP WHERE YOU BEL-- GOD LIFTS YOU UP WHERE-- GOD LIFTS YOU UP-- Um, give me a minute..."
+136861,526,159,678000,Rev. Hooper,First Church of Springfield,"Uh, but first, let me introduce our new deacon... Homer Simpson!"
+136862,526,160,681000,Homer Simpson,First Church of Springfield,"It's an honor, sir."
+136863,526,161,686000,Rev. Timothy Lovejoy,First Church of Springfield,Homer Simpson a deacon?! But why?
+136864,526,162,688000,Rev. Hooper,First Church of Springfield,You bring in the lost sheep and the others will follow.
+136865,526,163,691000,Homer Simpson,First Church of Springfield,Lost sheep! Yes! Sis boom bah!
+136866,526,164,695000,Rev. Timothy Lovejoy,First Church of Springfield,I don't think there's a place for me here anymore.
+136867,526,165,698000,Rev. Timothy Lovejoy,First Church of Springfield,Heading for the door... pushing the handle...left foot across the threshold... now the right...
+136868,526,166,707000,Rev. Timothy Lovejoy,First Church of Springfield,Walking to car... stepped in hole... twisted ankle... tremendous pain... keep it elevated...
+136870,526,168,721000,Homer Simpson,Simpson Home,Church bulletin? Church bulletin? Find out in whose loving memory this week's service is. The answer may shock you.
+136871,526,169,726000,Bart Simpson,Simpson Home,Dad?! You always hated church!
+136872,526,170,729000,Homer Simpson,Simpson Home,"Now, for the record, I hated the building, the people in it and the spirit it represented. I never hated the church itself. And now, finally, I believe in something bigger than myself."
+136873,526,171,741000,Bart Simpson,Simpson Home,"The only thing bigger than you, is you tomorrow."
+136874,526,172,744000,Homer Simpson,Simpson Home,Why you little...! lamb... mustn't... kill own son... only God can do that...
+136876,526,174,785000,Homer Simpson,Simpson Home,Church bulletin? Church bulletin? Church--
+136877,526,175,787000,Homer Simpson,Simpson Home,Someone finally took one!
+136878,526,176,790000,Hans Moleman,Simpson Home,I'm mentioned in it 'cause I'm sick.
+136879,526,177,795000,Marge Simpson,Simpson Home,"Sorry Maggie, I just don't have the touch today."
+136882,526,180,802000,Lisa Simpson,Simpson Home,"Mom, I found your wedding dress!"
+136883,526,181,805000,Marge Simpson,Simpson Home,How?
+136884,526,182,807000,Lisa Simpson,Simpson Home,"Using something this town has never ever seen: good, honest police work."
+136885,526,183,812000,Lisa Simpson,Simpson Home,"I staked out the alley and befriended the garbage man who took it. Then he gave it to a local theater company, who used it in the first unsuccessful version of ""Mamma Mia."" In a bankruptcy sale, it was bought by a young couple. That couple right there!"
+136887,526,185,828000,Clerk,Springfield Town Hall,I now pronounce you husband and wife.
+136888,526,186,832000,Marge Simpson,Springfield Town Hall,"Thank you for finding it, sweetie. And seeing someone else get married in it is better than having it myself."
+136889,526,187,839000,Lisa Simpson,Springfield Town Hall,"You never know, Mom. I'm only eight. I might get married someday... even if it's only a green card marriage to keep a Chinese dissident from being deported."
+136890,526,188,847000,Marge Simpson,Springfield Town Hall,We can have the reception at Wong Lee's!
+136892,526,190,852000,Homer Simpson,Simpson Home,DAY BY DAY... DAY BY DAY... THE DEACON'S JOB... IS PRETTY OKAY... PRETTY OKAAAY... I'M GOING TO BE A DEACON... DAY BY DAY... I'M ALREADY A DEACON... DAY BY DAY...
+136893,526,191,871000,Bart Simpson,Simpson Home,"Dad, the Oogle street camera's driving around town today. Wanna go moon it with me?"
+136895,526,192,875000,Homer Simpson,Simpson Home,"Son, I'd love to, but... I'm a deacon now. My butt's place is in my pants."
+136896,526,193,889000,Ned Flanders,Simpson Home,Church songs with clapping... I don't think this is what Martin Presbyluther had in mind when he founded our religion by sticking his Three Suggestions under the Pope's windshield wiper.
+136897,526,194,899000,Bart Simpson,Simpson Home,Mr. Flanders? This new reverend has thrown tar in your half-pipe too?
+136898,526,195,902000,Ned Flanders,Simpson Home,"I don't understand that on any level, but yes."
+136899,526,196,905000,Bart Simpson,Simpson Home,Well let's get Lovejoy back. Do you know where he is?
+136900,526,197,908000,Ned Flanders,Simpson Home,He's in a place full of brimstone and exposed flesh.
+136901,526,198,912000,Bart Simpson,Simpson Home,You mean he's selling hot tubs?
+136902,526,199,914000,Ned Flanders,Simpson Home,Yes.
+136905,526,202,917000,Rev. Timothy Lovejoy,Hot Tub Store,"The Seventy-five hundred is all about jets, jets, jets. That's the one place you cannot cut corners. That, of course, and underwater speakers."
+136906,526,203,925000,Apu Nahasapeemapetilon,Hot Tub Store,That sounds expensive.
+136907,526,204,925000,Manjula Nahasapeemapetilon,Hot Tub Store,"I need this, Apu!"
+136908,526,205,927000,Apu Nahasapeemapetilon,Hot Tub Store,"Sir, can you please turn up the bubbles so we can argue in private here?"
+136909,526,206,931000,Manjula Nahasapeemapetilon,Hot Tub Store,We wouldn't have to do this if you remembered your Hindi.
+136910,526,207,933000,Apu Nahasapeemapetilon,Hot Tub Store,Oh I remember it! I'm just pretending I can't understand you.
+136911,526,208,937000,Ned Flanders,Hot Tub Store,"Reverend, we want you to come back."
+136912,526,209,939000,Rev. Timothy Lovejoy,Hot Tub Store,"Well, let's face it, I wasn't cut out for that job. Nobody listened. Look, the boy's not even listening now."
+136913,526,210,946000,Bart Simpson,Hot Tub Store,"He's right, these underwater speakers are amazing!"
+136915,526,212,953000,Ned Flanders,Hot Tub Store,"Reverend, this is just the kind of tomfoolery that's been on the upswing since you left! Pure, unadulterated tomfoolery!"
+136916,526,213,959000,Manjula Nahasapeemapetilon,Hot Tub Store,We shall take the Seventy-five hundred!
+136917,526,214,961000,Apu Nahasapeemapetilon,Hot Tub Store,And not a single jet more!
+136918,526,215,963000,Rev. Timothy Lovejoy,Hot Tub Store,"Sorry, Ned. I finally found my calling. How are you guys fixed for decking?"
+136919,526,216,969000,Apu Nahasapeemapetilon,Hot Tub Store,"Oh, what a surprise. A huge new expense you didn't tell us about."
+136920,526,217,974000,Ned Flanders,Hot Tub Store,We've lost him.
+136922,526,218,976000,Nelson Muntz,Hot Tub Store,Hey! There's a fifty in my vest pocket. Will you buy us some beers?
+136924,526,220,978000,Bart Simpson,Springfield Streets,The only cool thing about my dad was that he hated church. And now he's turned into a fat version of Flanders. No offense.
+136925,526,221,988000,Ned Flanders,Springfield Streets,None taken.
+136926,526,222,992000,Ned Flanders,Springfield Streets,God doesn't need Twitter to reach people. He uses leprosy and plagues.
+136927,526,223,996000,Bart Simpson,Springfield Streets,Plagues...
+136928,526,224,1000000,Bart Simpson,Springfield Streets,"Ew, locusts. Darkness, yawn. Bingo! Flanders, are you willing to get Lovejoy back by hook or by crook?"
+136929,526,225,1009000,Ned Flanders,Springfield Streets,Neither! And I don't like it when other people rhyme!
+136930,526,226,1012000,Bart Simpson,Springfield Streets,"Yes, but if I do something will you look the other way?"
+136933,526,229,1016000,Ned Flanders,Springfield Police Station,I'd like to turn in this boy for thinkin' about doin' something naughty... and myself for waiting thirty seconds before bringing him here.
+136934,526,230,1022000,Chief Wiggum,Springfield Police Station,"Whatever. Take 'em away, boys."
+136936,526,232,1024000,Bart Simpson,SPRINGFIELD SWAMP,And that's why Flanders will never ever be my partner in crime again. Thanks for bailing me out.
+136937,526,233,1028000,Milhouse Van Houten,SPRINGFIELD SWAMP,"Yeah, but don't push it. There's only so many times I can tell Nana it's my birthday. Now what's this prank?"
+136938,526,234,1035000,Bart Simpson,SPRINGFIELD SWAMP,"First, we got every dead bedbug in town."
+136939,526,235,1038000,Milhouse Van Houten,SPRINGFIELD SWAMP,To think those exterminators were just gonna throw these beauties away.
+136940,526,236,1042000,Bart Simpson,SPRINGFIELD SWAMP,Now to leave a nice clean trail of bugs out of the swamp... the frogs follow... and Hooper's got a plague he can't handle.
+136941,526,237,1054000,Bart Simpson,SPRINGFIELD SWAMP,"Ugh, one of these bedbugs is still alive!"
+136942,526,238,1059000,Bart Simpson,SPRINGFIELD SWAMP,"Ah, much better."
+136944,526,240,1115000,Lenny Leonard,First Church of Springfield,He took my contact!
+136945,526,241,1118000,Lenny Leonard,First Church of Springfield,Now I've got two in one eye!
+136947,526,243,1122000,Moe Szyslak,First Church of Springfield,"Remember you said, ""When Hell freezes over?"" I think this is close enough."
+136948,526,244,1127000,Lindsay Naegle,First Church of Springfield,I'm in no position to argue.
+136949,526,245,1144000,Congregation,First Church of Springfield,Help Help! frogs! / What should we do?
+136894,526,246,1147000,Agnes Skinner,First Church of Springfield,We need guidance!
+136950,526,247,1149000,Mayor Joe Quimby,First Church of Springfield,I have a plan -- save your civic leaders!
+136951,526,248,1152000,Homer Simpson,First Church of Springfield,"Calm yourselves! In times like this, there's one almighty being we can put our faith in... Reverend Hooper."
+136952,526,249,1159000,Rev. Hooper,First Church of Springfield,"It's okay, everyone. Who here has seen ""The Blind Side"" with Sandy Bullock? Remember when Big Mike was overwhelmed with scholarship offers? Well that's kind of how we are with these frogs."
+136953,526,250,1168000,Lenny Leonard,First Church of Springfield,To hell with your references!
+136954,526,251,1171000,Lenny Leonard,First Church of Springfield,We're dyin' here!
+136955,526,252,1173000,Moe Szyslak,First Church of Springfield,I'm more frog than Moe!
+136956,526,253,1177000,Moe Szyslak,First Church of Springfield,Ribbet. Ribbet.
+136958,526,255,1178000,Gary Chalmers,First Church of Springfield,Do something!
+136959,526,256,1180000,Rev. Hooper,First Church of Springfield,"Um, videogames! Twitter! ""How to Train your Dragon""! ""Fight Club""!"
+136960,526,257,1188000,Rev. Timothy Lovejoy,First Church of Springfield,The Lord is my Shepherd; I shall not want. / He maketh me to lie down in green pastures. / He leadeth me beside the still waters. / He restoreth my soul.
+136961,526,258,1200000,Sideshow Mel,First Church of Springfield,His words have soothed the amphibious beasts!
+136962,526,259,1207000,Homer Simpson,First Church of Springfield,His boringness saved us all...
+136963,526,260,1209000,Parishioners,First Church of Springfield,Lovejoy! Lovejoy! Lovejoy!
+136964,526,261,1220000,Lunchlady Dora,First Church of Springfield,Where do you think you're going?
+136965,526,262,1223000,Rev. Timothy Lovejoy,First Church of Springfield,Let us pray.
+136968,526,265,1229000,Oogle Driver,OOGLE MOBILE,"All right, we collected all the personal information from... Flanders comma Ned. Let's move on to the next house."
+136969,526,266,1235000,Oogle Worker,OOGLE MOBILE,"Hmm, that's weird. Four spheres -- two small, two gigantic. Better zoom in."
+136972,526,269,1242000,Homer Simpson,Evergreen Terrace,Compliments of the deacon!
+136974,526,271,1257000,Homer Simpson,Evergreen Terrace,DAY BY DAY / DAY BY DAY / I'VE GOT THREE KIDS / AND TWO ARE OKAY / TWO ARE OKAY! / ONE OF THEM IS THE BABY / THE SMART ONE IS MINE MAYBE / I HOPE THE BOY GETS RABIES / DAY BY DAY BY DAY / DAY BY DAY... / OH I PRAY / DAY BY DAY BY DAY BY DAAAY!

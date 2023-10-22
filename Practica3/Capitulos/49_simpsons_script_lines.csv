@@ -1,0 +1,305 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+5058,49,2,39000,Bret,Simpson Home,Now stay tuned for six hours of exciting football action.
+5059,49,3,43000,Homer Simpson,Simpson Home,"Well, bye-bye belt."
+5060,49,4,55000,Marge Simpson,Simpson Home,"Homer, all those fatty, deep-fried, heavily salted snacks can't be good for your heart."
+5061,49,5,62000,Homer Simpson,Simpson Home,"Pfft, my heart is just fine."
+5062,49,6,71000,Homer Simpson,Simpson Home,A little beer will put out that fire.
+5063,49,7,74000,Bret,Simpson Home,"And now with his picks for today's games, the man who's right fifty-two percent of the time, Smooth Jimmy Apollo."
+5064,49,8,81000,JIMMY,Simpson Home,"Thank you, Bret. Our first game today -- Denver and New England -- is too close to call."
+5066,49,10,86000,JIMMY,Simpson Home,"But if you're one of those compulsive types who just has to bet -- well, I don't know... uh... Denver."
+5067,49,11,93000,Homer Simpson,Simpson Home,"Whoo hoo! Denver, yeah!"
+5069,49,13,96000,Moe Szyslak,Moe's Tavern,Moe's Tavern. Where the peanut bowl is freshened hourly.
+5070,49,14,99000,Homer Simpson,Moe's Tavern,"Moe, I'd like to bet twenty dollars on Denver."
+5071,49,15,102000,Moe Szyslak,Moe's Tavern,"I think I can provide that service. Um, uh, Chief Wiggum, could you hand me that little black book?"
+5072,49,16,108000,Chief Wiggum,Moe's Tavern,"Oh, sure thing, Moe. I was just using it as a coaster."
+5073,49,17,111000,Homer Simpson,Moe's Tavern,Twenty big ones on Denver.
+5074,49,18,112000,Moe Szyslak,Moe's Tavern,"Pleasure doing business with you, H. S."
+5075,49,19,116000,Homer Simpson,Moe's Tavern,"All right, Denver. Justify my love."
+5077,49,20,119000,Football Announcer,Moe's Tavern,"At the end of thirteen seconds of play, it's New England seven, Denver nothing."
+5079,49,22,124000,Lisa Simpson,Moe's Tavern,"Look, Dad. I made a modest studio apartment for my Malibu Stacey doll. This is the kitchen, this is where she prints her weekly feminist newsletter..."
+5080,49,23,133000,Lisa Simpson,Moe's Tavern,DAAAAAD! You're not listening to me.
+5081,49,24,136000,Homer Simpson,Moe's Tavern,"Lousy, stupid Denver."
+5083,49,26,142000,Marge Simpson,Simpson Home,"Oh, look at that, a shoe box house. Lisa, you're so clever."
+5084,49,27,147000,Lisa Simpson,Simpson Home,Why isn't Dad ever interested in anything I do?
+5085,49,28,151000,Marge Simpson,Simpson Home,Well... do you ever take an interest in anything he does?
+5086,49,29,154000,Lisa Simpson,Simpson Home,"No.... well, we used to have burping contests, but I outgrew it."
+5087,49,30,159000,Marge Simpson,Simpson Home,"Hmmm, well, if you want to get closer to him then maybe you should bridge the gap. I do it all the time. I pretend I'm interested in looking at power tools, going to those silly car chase movies, and... some things I'll tell you about when you're older. Do you understand?"
+5088,49,31,174000,Lisa Simpson,Simpson Home,I think so.
+5089,49,32,175000,Marge Simpson,Simpson Home,Bart!
+5090,49,33,175000,Bart Simpson,Simpson Home,Whaaat?
+5091,49,34,177000,Announcer,Simpson Home,"Ho, look at that score. Moxy!"
+5092,49,35,179000,Homer Simpson,Simpson Home,Why did you do that?
+5093,49,36,180000,Lisa Simpson,Simpson Home,Wouldn't it be fun if we watched the game together?
+5094,49,37,185000,Homer Simpson,Simpson Home,"Okay, just don't say anything and sit down over there."
+5095,49,38,190000,Homer Simpson,Simpson Home,Over.
+5096,49,39,191000,Homer Simpson,Simpson Home,Over... over... over...
+5097,49,40,198000,Homer Simpson,Simpson Home,"Lisa, please, I can't hear the announcer."
+5098,49,41,200000,Lisa Simpson,Simpson Home,He said Denver just fumbled.
+5100,49,43,205000,Bart Simpson,Simpson Home,"See you in Hell, soldier boy!"
+5101,49,44,209000,Marge Simpson,Simpson Home,Bart?
+5102,49,45,210000,Bart Simpson,Simpson Home,Yeah mom?
+5103,49,46,212000,Marge Simpson,Simpson Home,"I was thinking that while your father and Lisa watch the game, it might be fun if the two of us went clothes shopping."
+5104,49,47,217000,Bart Simpson,Simpson Home,"Mom, I'd love to. But to be honest, I don't need new clothes."
+5105,49,48,220000,Marge Simpson,Simpson Home,Oh really?
+5106,49,49,220000,Marge Simpson,Simpson Home,Hmm...
+5107,49,50,224000,Bart Simpson,Simpson Home,So even though I'd love to spend this sunny afternoon trying on clothes. It's not...
+5108,49,51,230000,JIMMY,Simpson Home,"Well folks, when you're right fifty-two percent of the time, you're wrong forty-eight percent of the time."
+5109,49,52,236000,Homer Simpson,Simpson Home,Why didn't you say that before!
+5110,49,53,238000,Bret,Simpson Home,"Okay, Jimmy, you're off the hook. We've got Miami Cincinnati coming up. Any thoughts?"
+5111,49,54,242000,JIMMY,Simpson Home,"I certainly do, Brett. I hereby declare Miami to be Smooth Jimmy's ""Lock of the Week."""
+5112,49,55,243000,Homer Simpson,Simpson Home,"Oooh, that's a big lock all right. I just don't trust that guy."
+5113,49,56,253000,Sportscaster,Simpson Home,"In the Cincinnati - Miami game, I declare Cincinnati to be my ""Shoe-in of the Week""."
+5114,49,57,253000,Homer Simpson,Simpson Home,"Huh, they both make a good case."
+5115,49,58,261000,Professor Jonathan Frink,Simpson Home,"After evaluating millions of pieces of data in the blink of an eye, the Gambletron 2000 says the winner is... Cincinnati by two hundred points?! Why you worthless hunk of junk!"
+5116,49,59,277000,Coach,Simpson Home,You want some of this don't ya?
+5117,49,60,278000,Homer Simpson,Simpson Home,Yeah!
+5118,49,61,280000,Coach,Simpson Home,Well you need to know the winners. And I know the winners. So call me now!
+5119,49,62,283000,Coach,Simpson Home,Whoa! Five dollars for the first minute. Two dollars for each additional minute.
+5120,49,63,287000,Coach,Simpson Home,You have reached the Coach's hot...
+5121,49,64,292000,Homer Simpson,Simpson Home,Line...
+5122,49,65,293000,Coach,Simpson Home,line.
+5123,49,66,294000,Homer Simpson,Simpson Home,"Yeah, lay it on me, coach."
+5124,49,67,296000,Coach,Simpson Home,In the game of Mi-a-mi...
+5125,49,68,297000,Homer Simpson,Simpson Home,Mm-hm.
+5126,49,69,300000,Coach,Simpson Home,...versus Cin-
+5127,49,70,301000,Homer Simpson,Simpson Home,Cincinnati...
+5128,49,71,302000,Coach,Simpson Home,cin-
+5129,49,72,302000,Homer Simpson,Simpson Home,Cincinnati.
+5130,49,73,303000,Coach,Simpson Home,nat-
+5131,49,74,303000,Homer Simpson,Simpson Home,Cincinnati.
+5132,49,75,303000,Coach,Simpson Home,ti...
+5133,49,76,304000,Homer Simpson,Simpson Home,"C'mon, c'mon! Don't you realize this is costing me money?"
+5134,49,77,307000,Coach,Simpson Home,We must consider many things. The wind...
+5135,49,78,312000,Homer Simpson,Simpson Home,"Doh, not the wind."
+5136,49,79,313000,Coach,Simpson Home,...is blowing out of the west...
+5137,49,80,315000,Homer Simpson,Simpson Home,Oh...
+5138,49,81,316000,Coach,Simpson Home,at five
+5139,49,82,317000,Homer Simpson,Simpson Home,... miles per hour.
+5140,49,83,319000,Coach,Simpson Home,knots...
+5141,49,84,320000,Homer Simpson,Simpson Home,"Ugh, this is ridiculous. What am I supposed to do? Lisa, who do you think's gonna win? The Bengals or the Dolphins?"
+5076,49,85,326000,Lisa Simpson,Simpson Home,"I don't know, the Dolphins."
+5142,49,86,328000,Homer Simpson,Simpson Home,"Good, good. Moe, fifty dollars on the Miami Dolphins."
+5143,49,87,332000,Moe Szyslak,Simpson Home,"Gotcha, fifty beans on Miami. Um, Homer, I got a call on the other line. Hello?"
+5145,49,89,336000,Krusty the Clown,Backstage,"Moe, it's me Mr. ""K."""
+5146,49,90,339000,Moe Szyslak,Backstage,"Yeah, yeah, what'll it be?"
+5147,49,91,340000,Krusty the Clown,Backstage,Put me down for seven hundred dollars on the Rams.
+5148,49,92,344000,Krusty the Clown,Backstage,"Oh, and put Sideshow Mel down for two grand."
+5150,49,94,346000,Bart Simpson,Springfield Mall,"Mom, I'm tired. I wanna go home. Can't I just lie down for a minute?"
+5151,49,95,351000,Marge Simpson,Springfield Mall,"Now Bart, I think you'd look very sharp in this shirt."
+5152,49,96,355000,Bart Simpson,Springfield Mall,"Fine, get it. Lets go."
+5153,49,97,356000,Marge Simpson,Springfield Mall,"No, no, no, you have to try it on."
+5154,49,98,359000,Marge Simpson,Springfield Mall,"Oooh, and this one's fifty percent off."
+5155,49,99,362000,Bart Simpson,Springfield Mall,"You know why these clothes are on sale, Mom? Because the people who wear them get beaten up."
+5156,49,100,366000,Marge Simpson,Springfield Mall,"Well, anyone who beats you up for wearing a shirt isn't your friend. Ooh this looks good.... oh and this one is very, very cute... And these... Oh look! Little bow ties."
+5157,49,101,377000,Marge Simpson,Springfield Mall,And don't make that face at me.
+5158,49,102,380000,Bart Simpson,Springfield Mall,How'd ya know?
+5160,49,104,381000,Football Announcer #2,Simpson Home,Touchdown Dolphins!
+5161,49,105,383000,Homer Simpson,Simpson Home,"All right, Dolphins!"
+5162,49,106,385000,Lisa Simpson,Simpson Home,"All right, Dolphins!"
+5163,49,107,386000,Homer Simpson,Simpson Home,Whoo-hoo!
+5164,49,108,387000,Lisa Simpson,Simpson Home,Whoo-hoo!
+5165,49,109,388000,Homer Simpson,Simpson Home,Fifty big ones!
+5166,49,110,390000,Lisa Simpson,Simpson Home,Fifty big ones?
+5167,49,111,391000,Homer Simpson,Simpson Home,"Uh-oh. You see, Lisa, Daddy's friend Moe promised to give him fifty dollars if the Dolphins won the game."
+5168,49,112,397000,Lisa Simpson,Simpson Home,You mean you made a bet?
+5169,49,113,398000,Homer Simpson,Simpson Home,"Well, I wouldn't call it a bet. It's a little thing Daddies do to make football more exciting."
+5170,49,114,403000,Lisa Simpson,Simpson Home,What could be more exciting than the savage ballet that is pro football?
+5171,49,115,408000,Homer Simpson,Simpson Home,"Well... you know... you like ice cream, don't you?"
+5172,49,116,410000,Lisa Simpson,Simpson Home,Uh-huh.
+5174,49,117,411000,Homer Simpson,Simpson Home,And don't you like ice cream better when it's covered with hot fudge and mounds of whipped cream and chopped nuts and -- oh -- those crumbled up cookie things they mash up... hmmm. Crumbled up cookie things...
+5175,49,118,425000,Lisa Simpson,Simpson Home,So gambling makes a good thing even better.
+5176,49,119,427000,Homer Simpson,Simpson Home,"That's right. My God, it's like there's some kind of bond between us."
+5179,49,122,449000,Guard #1,Security Station,We've got a trouble maker in booth eight.
+5180,49,123,451000,Guard #2,Security Station,Forget him. There's a code red in booth three.
+5181,49,124,454000,Guard #1,Security Station,My God. Those aren't the socks she came in with.
+5182,49,125,457000,Guard #2,Security Station,Un-unn. Let's move.
+5184,49,127,463000,Marge Simpson,Wee Monsieur,Bart?
+5185,49,128,463000,Bart Simpson,Wee Monsieur,"In here, Mom. But don't open the--"
+5186,49,129,468000,Marge Simpson,Wee Monsieur,"Oh Bart, you could use some new underwear too."
+5188,49,131,474000,Lisa Simpson,Simpson Home,"...three, two, one..."
+5189,49,132,477000,Football Announcer #2,Simpson Home,"And the final from Riverfront Stadium, Miami 24 -- Cincinnati 10."
+5190,49,133,483000,Homer Simpson,Simpson Home,YEAH!
+5191,49,134,484000,Lisa Simpson,Simpson Home,"Boy, mom sure will be happy you won fifty dollars."
+5192,49,135,487000,Homer Simpson,Simpson Home,"You'd think that wouldn't you. But you see Lisa, your mother has this crazy idea that gambling is wrong. Even though they say it's okay in the Bible."
+5193,49,136,495000,Lisa Simpson,Simpson Home,"Really, where?"
+5194,49,137,496000,Homer Simpson,Simpson Home,"Uh... somewhere in the back. The point is we had a great time today. And to keep it that way, let's not tell your mother about our little wager. Okay?"
+5195,49,138,506000,Lisa Simpson,Simpson Home,"Okay, dad."
+5196,49,139,507000,Marge Simpson,Simpson Home,Did you two have fun?
+5197,49,140,509000,Homer Simpson,Simpson Home,You bet.
+5198,49,141,511000,Marge Simpson,Simpson Home,"Well, we had fun too. Right now, Bart is modeling his new clothes for his friends."
+5199,49,142,518000,Kearney Zzyzwicz,Simpson Home,"You gotta come out sometime, Simpson."
+5200,49,143,525000,Lisa Simpson,Simpson Home,"Goodnight, Dad. I had a really nice time today."
+5201,49,144,528000,Homer Simpson,Simpson Home,"Me too, honey."
+5202,49,145,529000,Lisa Simpson,Simpson Home,Can I watch football with you again next Sunday?
+5203,49,146,532000,Homer Simpson,Simpson Home,Sure! You'll find it gets rid of the unpleasant after-taste of church.
+5173,49,147,536000,Marge Simpson,Simpson Home,See how good things can happen if you make a little effort?
+5205,49,148,540000,Lisa Simpson,Simpson Home,"Point well taken. Uh, mom, could you loosen my blanket a little? Dad tucked me in too tight and it's cutting off the circulation in my arms and legs."
+5206,49,149,548000,Player,Simpson Home,This team is fired up! We came here to play!
+5207,49,150,550000,Homer Simpson,Simpson Home,All right!
+5208,49,151,550000,Lisa Simpson,Simpson Home,He'll lose.
+5209,49,152,552000,Homer Simpson,Simpson Home,What? Didn't you hear what he said?
+5210,49,153,554000,Lisa Simpson,Simpson Home,"Look at the fear in his eyes. Listen to the quiver in his voice. He's a little boy, lost in a game of men."
+5211,49,154,560000,Homer Simpson,Simpson Home,You think we should bet against them?
+5212,49,155,561000,Lisa Simpson,Simpson Home,I'd bet my entire college fund on it.
+5213,49,156,563000,Homer Simpson,Simpson Home,You got it.
+5214,49,157,565000,Homer Simpson,Simpson Home,"Moe, twenty-three dollars on New York."
+5215,49,158,568000,Football Announcer,Simpson Home,"Start spreadin' the news, it's New York over Philadelphia, thirty-five to ten."
+5216,49,159,576000,Lisa Simpson,Simpson Home,"Dad, I hate to break the mood, but I'm getting nauseous."
+5217,49,160,579000,Homer Simpson,Simpson Home,"Oh, sorry. So who do you like in the afternoon games?"
+5218,49,161,584000,Lisa Simpson,Simpson Home,"Well, I like the 49ers because they're pure of heart -- Seattle because they got something to prove -- and the Raiders because they always cheat."
+5219,49,162,591000,Football Announcer,Simpson Home,"And in an extremely suspicious play, the Raiders win."
+5222,49,165,602000,Lisa Simpson,Springfield Public Library,"Hey, the new sign is really working."
+5223,49,166,605000,Librarian,Springfield Public Library,"It's been a madhouse, Lisa."
+5224,49,167,607000,Lisa Simpson,Springfield Public Library,Let's see... football... Football: homo-eroticism in... oddball Canadian rules... Phyllis George and...
+5226,49,169,616000,Football Announcer,Simpson Home,"Oh Doctor, what a finish! The final score -- Atlanta seventeen -- Houston thirteen. And the lowly Falcons are flyin' high. Who would have thunk it?"
+5227,49,170,625000,Homer Simpson,Simpson Home,"My daughter, that's who!"
+5228,49,171,626000,Lisa Simpson,Simpson Home,"Yeah, me!"
+5229,49,172,628000,Homer Simpson,Simpson Home,"Lisa, you've picked the winner every time! You must have some kind of special gift."
+5230,49,173,632000,Lisa Simpson,Simpson Home,"C'mon, dad. It doesn't take a genius to realize that Houston's failed to cover their last ten outings on away turf, the week after scoring more than three touchdowns in a conference game."
+5231,49,174,641000,Homer Simpson,Simpson Home,"Oh, my little girl says the cutest things."
+5232,49,175,644000,Lisa Simpson,Simpson Home,"You know, dad, Sunday is fast becoming my favorite day of the week."
+5233,49,176,648000,Homer Simpson,Simpson Home,Not Sunday -- Daddy-Daughter day.
+5235,49,178,651000,Homer Simpson,Moe's Tavern,"The usual, Moe. A beer and a wad of bills."
+5236,49,179,656000,Moe Szyslak,Moe's Tavern,"Okay, ya lucky moron."
+5237,49,180,664000,Moe Szyslak,Moe's Tavern,"Here you go, Homer. A hundred and thirty-five dollars."
+5238,49,181,666000,Homer Simpson,Moe's Tavern,I used to hate the smell of your sweaty feet. Now it's the smell of victory.
+5239,49,182,672000,Moe Szyslak,Moe's Tavern,"Aw, shut up."
+5241,49,184,675000,Marge Simpson,The Gilded Truffle Restaurant,Look at these prices. We could finally get rid of those termites for the cost of this meal.
+5242,49,185,680000,Homer Simpson,The Gilded Truffle Restaurant,Tut-tut. Only the best for my family.
+5243,49,186,683000,Marge Simpson,The Gilded Truffle Restaurant,"Homer, I can't help wondering where you're getting the money from?"
+5244,49,187,686000,Lisa Simpson,The Gilded Truffle Restaurant,"Mom, can't a man do something nice for his loved ones?"
+5245,49,188,689000,Marge Simpson,The Gilded Truffle Restaurant,"Hmm, I guess so."
+5246,49,189,691000,Marco,The Gilded Truffle Restaurant,"Hello, I'm Marco. I'll be your waiter."
+5247,49,190,694000,Homer Simpson,The Gilded Truffle Restaurant,"Hello, I'm Homer. I'll be your customer."
+5248,49,191,697000,Marco,The Gilded Truffle Restaurant,"Never heard that one before. Uh, would you care to select the wine?"
+5249,49,192,702000,Bart Simpson,The Gilded Truffle Restaurant,I'll do the honors.
+5250,49,193,704000,Bart Simpson,The Gilded Truffle Restaurant,"No. No. No. No. My God, what passes for a wine list these days. Marco, just bring us your freshest bottle of wine. Chop. Chop."
+5251,49,194,711000,Marco,The Gilded Truffle Restaurant,Charming lad.
+5252,49,195,716000,Homer Simpson,The Gilded Truffle Restaurant,"Oh, violin guy!"
+5253,49,196,719000,Homer Simpson,The Gilded Truffle Restaurant,"What's your favorite song, Lisa?"
+5254,49,197,722000,Lisa Simpson,The Gilded Truffle Restaurant,The Broken Neck Blues.
+5255,49,198,722000,Homer Simpson,The Gilded Truffle Restaurant,Play on.
+5257,49,200,733000,Bret,Simpson Home,"It is the play-offs, it's five below and there's one loyal fan wearing nothing but a g-string and the team colors painted on his body."
+5258,49,201,740000,JIMMY,Simpson Home,He doesn't look too happy.
+5259,49,202,742000,Bret,Simpson Home,"Well, maybe the paint has shut off his pores and he's slowly suffocating. Still, that is a real fan."
+5260,49,203,747000,Homer Simpson,Simpson Home,"Well, Lisa, it's Daddy-Daughter day and Daddy needs daughter's picks."
+5262,49,204,750000,Lisa Simpson,Simpson Home,"Dad, I'm making the Chiefs my five-star silver bullet special. And with your blessing, I'd like to tie it to the Cowboys plus five at Chicago."
+5263,49,205,758000,Homer Simpson,Simpson Home,"Good, good... You call Moe."
+5264,49,206,761000,Lisa Simpson,Simpson Home,"Moe, this is L.S. calling for H.S."
+5265,49,207,764000,Moe Szyslak,Simpson Home,"Just give me the bet, Lisa."
+5267,49,209,765000,Moe Szyslak,Moe's Tavern,"Hundred and ten, a hundred and twenty... You lucky son-of-a..."
+5268,49,210,768000,Barney Gumble,Moe's Tavern,"Hey Homer, you wanna go bowling next Sunday?"
+5269,49,211,770000,Homer Simpson,Moe's Tavern,"Barney, are you nuts? That's the Super Bowl. How about the Sunday after that?"
+5270,49,212,775000,Barney Gumble,Moe's Tavern,"Well, my ma's coming in from Norway, but... uh what the hell."
+5272,49,214,779000,Ralph Wiggum,Springfield Elementary School,And when the doctor said I didn't have worms anymore -- that was the happiest day of my life.
+5273,49,215,784000,Miss Hoover,Springfield Elementary School,"Thank you, Ralph. Very graphic. Lisa Simpson? Would you like to read your essay?"
+5274,49,216,790000,Lisa Simpson,Springfield Elementary School,"The happiest day of my life was three Sundays ago. I was sitting on my daddy's knee when the Saints, who were four and a half point favorites, but only up by three, kicked a meaningless field goal at the last second, to cover the spread."
+5275,49,217,803000,Miss Hoover,Springfield Elementary School,Dear God!
+5277,49,219,805000,Lisa Simpson,Simpson Home,"Oh dad, you must've bought me every Malibu Stacey accessory there is."
+5278,49,220,809000,Homer Simpson,Simpson Home,Not quite. They were out of the Malibu Stacie Lunar Rovers.
+5279,49,221,813000,Marge Simpson,Simpson Home,"Ooh, perfume. Meryl Streep's ""Versatility."""
+5280,49,222,816000,Homer Simpson,Simpson Home,"Boy, I know you're gonna like your present."
+5281,49,223,825000,Box,Simpson Home,Shut up. Shut up. Kiss my butt. Shut up. Go to Hell. Go to Hell.
+5282,49,224,829000,Bart Simpson,Simpson Home,"Dad, I promise you I will never get tired of this."
+5283,49,225,834000,Marge Simpson,Simpson Home,"Homer, those are very thoughtful presents. But you have to tell me where you got the money from."
+5284,49,226,839000,Homer Simpson,Simpson Home,"All right, Marge. I'll tell you, but first you have to promise you will not get mad."
+5285,49,227,842000,Marge Simpson,Simpson Home,"I promise I will get mad, because I always do when you make me promise I won't."
+5286,49,228,846000,Homer Simpson,Simpson Home,"All right. If you must know, Lisa and I have been gambling on pro football."
+5287,49,229,849000,Marge Simpson,Simpson Home,Homer!
+5261,49,230,850000,Homer Simpson,Simpson Home,You promised you wouldn't get mad!
+5288,49,231,851000,Marge Simpson,Simpson Home,I did not! I promised I would get mad! She's an eight-year-old girl.
+5289,49,232,855000,Homer Simpson,Simpson Home,"But Marge, she never loses. She's got a gift. Aren't parents supposed to encourage their kids whenever they show talent?"
+5290,49,233,861000,Marge Simpson,Simpson Home,But gambling is illegal.
+5291,49,234,862000,Homer Simpson,Simpson Home,"Only in forty-eight states. Besides, it's a victimless crime. The only victim is Moe, heh, heh, heh. And it's brought Lisa and me together."
+5292,49,235,871000,Marge Simpson,Simpson Home,"Well, I just don't know."
+5293,49,236,872000,Homer Simpson,Simpson Home,"Look, what's the problem? The kids are happy, you smell like Meryl Streep, and I've got that foot massager I've always wanted."
+5294,49,237,880000,Homer Simpson,Simpson Home,"Believe me, Marge, nothing bad could possibly come of this."
+5295,49,238,883000,Lisa Simpson,Simpson Home,"You know, dad, we've been watching a lot of TV lately. Maybe, the Sunday after the Super Bowl, we could hike up to the top of Mount Springfield. The fires in the tire yard really make for some beautiful sunsets."
+5296,49,239,894000,Homer Simpson,Simpson Home,"Well, that sounds great honey, but next Sunday I'm going bowling with Barney."
+5297,49,240,898000,Lisa Simpson,Simpson Home,What about Daddy-Daughter day?
+5298,49,241,900000,Homer Simpson,Simpson Home,"Don't worry, the new football season is only seven months away."
+5299,49,242,903000,Lisa Simpson,Simpson Home,So that's it. You just wanted me to help you gamble. You never wanted to be with me at all.
+5300,49,243,912000,Marge Simpson,Simpson Home,You're a very selfish man.
+5301,49,244,915000,Box,Simpson Home,Go to hell! Go to hell!
+5302,49,245,916000,Bart Simpson,Simpson Home,"Hey, once again. Great present, Dad."
+5305,49,248,928000,Lisa Simpson,Casino,My third husband bought me this.
+5306,49,249,930000,Lisa Simpson,Casino,Give me some chips for it.
+5307,49,250,932000,Dealer,Casino,"Are you sure, ma'am?"
+5308,49,251,933000,Lisa Simpson,Casino,"Don't tell me what to do, Sonny. I've been gambling since I was eight. And I've been hockin' jewelry since I was twelve. Now give me some chips!"
+5310,49,253,947000,Lisa Simpson,Simpson Home,"Look around you, Malibu Stacey. All this was bought with dirty money. Your penthouse, your Alfa Romeo, your collagen injection clinic."
+5311,49,254,955000,Lisa Simpson,Simpson Home,"You're going back into the shoe-box. It may not be pretty, but dammit, it's honest."
+5312,49,255,964000,Lisa Simpson,Simpson Home,"I, Lisa Simpson, am hereby giving away all my ill-gotten Malibu Stacey accessories!"
+5313,49,258,984000,Homer Simpson,Lisa's Bedroom,"Look Lisa, I bought you a Malibu Stacey Chinchilla coat."
+5314,49,259,988000,Homer Simpson,Lisa's Bedroom,Huh?
+5315,49,260,989000,Lisa Simpson,Lisa's Bedroom,"So you've come to buy my forgiveness. Sorry, Homer."
+5316,49,261,993000,Homer Simpson,Lisa's Bedroom,"Look Lisa, honey, I'm sorry I hurt your feelings. But I really had a good time watching football with you. And I think you had a good time with me."
+5317,49,262,1001000,Lisa Simpson,Lisa's Bedroom,"Yeah, I did."
+5318,49,263,1003000,Homer Simpson,Lisa's Bedroom,"Well, c'mon, we can still watch the Super Bowl together. Can't we? Eh? Huh?"
+5319,49,264,1008000,Lisa Simpson,Lisa's Bedroom,"Well, I would like to see what all the fuss is about."
+5320,49,265,1012000,Homer Simpson,Lisa's Bedroom,It's a date! So... do you think the Cowboys will beat the spread?
+5321,49,266,1017000,Lisa Simpson,Lisa's Bedroom,Put me down.
+5322,49,267,1019000,Lisa Simpson,Lisa's Bedroom,"Look dad, I'll tell you who's gonna win the Super Bowl if you want me to. But it'll just validate my theory that you cared more about winning money than you did about me."
+5323,49,268,1030000,Homer Simpson,Lisa's Bedroom,Okay.
+5324,49,269,1031000,Lisa Simpson,Lisa's Bedroom,I think Dallas is a mortal lock.
+5325,49,270,1033000,Homer Simpson,Lisa's Bedroom,Dallas! Whoo-hoo!
+5326,49,271,1035000,Lisa Simpson,Lisa's Bedroom,However...
+5327,49,272,1037000,Homer Simpson,Lisa's Bedroom,"However? What however? What do you mean, however? However what?"
+5328,49,273,1039000,Lisa Simpson,Lisa's Bedroom,"However, I may be so clouded with rage that subconsciously I want you to lose. In which case, I'd bet the farm on Buffalo."
+5329,49,274,1049000,Homer Simpson,Lisa's Bedroom,"Lisa, do me a favor. Complete this sentence: ""Daddy should bet all his money on..."""
+5330,49,275,1053000,Lisa Simpson,Lisa's Bedroom,I don't know.
+5332,49,277,1055000,Lisa Simpson,Lisa's Bedroom,"If I still love you, Dallas. If I don't, Buffalo."
+5334,49,279,1063000,Marge Simpson,Simpson Home,"Homer, I think that chip's got enough dip on it."
+5335,49,280,1070000,Bret,Simpson Home,We're live from Miami Florida home of Super Bowl Twenty-nine. Today we're gonna be seen by people in over one hundred fifty countries all over the world. Including our latest stolen affiliates overseas.
+5338,49,283,1083000,UGOLIN,LIVING ROOM IN FRANCE,Stupide.
+5339,49,284,1085000,Nutty Comedian,LIVING ROOM IN FRANCE,Whaa! I'm sorry Mrs. Wellenmelon.
+5340,49,285,1089000,Cesar,LIVING ROOM IN FRANCE,Formidable!
+5343,49,287,1098000,Homer Simpson,Simpson Home,"Oh, every note is like a dagger in my heart. I gotta get outta here."
+5345,49,289,1102000,Moe Szyslak,Moe's Tavern,"Moe's Tavern, Home of the Super Sunday Brunch Spectacular."
+5346,49,290,1106000,Barney Gumble,Moe's Tavern,Oh! Baloney. Bread!
+5347,49,291,1109000,Moe Szyslak,Moe's Tavern,Gotcha ya down for forty bucks. Good luck Your Eminence.
+5348,49,292,1113000,Moe Szyslak,Moe's Tavern,"Sorry, Homer, you can't take any more of my money. I'm, uh, outta the bookie business."
+5349,49,293,1117000,Barney Gumble,Moe's Tavern,"But Moe, you've been taking bets all..."
+5350,49,294,1119000,Moe Szyslak,Moe's Tavern,"Hey Barney, how 'bout a free beer?"
+5351,49,295,1121000,Barney Gumble,Moe's Tavern,Wow!
+5352,49,296,1122000,Homer Simpson,Moe's Tavern,"Don't worry, Moe. I'm not bettin'."
+5353,49,297,1124000,Moe Szyslak,Moe's Tavern,What? Gimme that.
+5355,49,299,1127000,Homer Simpson,Moe's Tavern,"I had the greatest gift of all, a little girl who could pick football and I ruined it."
+5356,49,300,1133000,Bret,Moe's Tavern,"Well sir, we're two hours and forty-five minutes into the pre-game show and we've got ourselves a special guest. Actor Troy McClure, whose new sitcom is premiering tonight -- coincidentally enough, right after the game!"
+5357,49,301,1143000,Troy McClure,Moe's Tavern,"Thanks, Bret. My new show's called ""Handle with Care"". I play Jack Handle, a retired cop who shares an apartment with a retired criminal. We're the original odd couple!"
+5358,49,302,1152000,Bret,Moe's Tavern,What made you want to do a situation comedy?
+5359,49,303,1154000,Troy McClure,Moe's Tavern,"Well, I fell in love with the script, Bret, and my recent trouble with the IRS sealed the deal."
+5360,49,304,1159000,Bret,Moe's Tavern,"Could be another Drexel's Class. Ooh, looks like we're almost ready for the kickoff."
+5361,49,305,1164000,Football Announcer,Moe's Tavern,"Dallas kicks -- oh, it's a bad kick, way too short. Buffalo's going to start with excellent field position."
+5362,49,306,1170000,Homer Simpson,Moe's Tavern,Buffalo's gonna win. Lisa hates me!
+5363,49,307,1173000,Larry,Moe's Tavern,Whatcha got riding on this game?
+5364,49,308,1175000,Homer Simpson,Moe's Tavern,My daughter.
+5365,49,309,1177000,Larry,Moe's Tavern,What a gambler.
+5366,49,310,1180000,Football Announcer,Moe's Tavern,That was the score at the half. Buffalo fourteen: Dallas seven.
+5368,49,312,1180000,Football Announcer,Simpson Home,It's time for the never tedious Super Bowl halftime show.
+5369,49,313,1189000,Alien,Simpson Home,"People of Earth, we've come ten billion light years to bring you this halftime message of peace."
+5342,49,314,1197000,Bart Simpson,Simpson Home,"Oh, this sucks. C'mon snipers. Where are you?"
+5370,49,315,1211000,Lisa Simpson,Simpson Home,"Bart, who's winning?"
+5371,49,316,1213000,Bart Simpson,Simpson Home,"""You hate dad"" is up by a touchdown."
+5373,49,318,1215000,Barflies,Moe's Tavern,Go! Go! Go! Go! Go! Yea!!
+5374,49,319,1219000,Duff Announcer,Moe's Tavern,It's a touchdown for half-back Dan Beer-dorf! Duff Dry has won the Duff Bowl!
+5375,49,320,1228000,Moe Szyslak,Moe's Tavern,They wanted it more.
+5376,49,321,1229000,Barney Gumble,Moe's Tavern,"Hey Homer, didn't you say if Duff Dry wins, your daughter loves you?"
+5377,49,322,1232000,Homer Simpson,Moe's Tavern,Not Duff Dry... Dallas.
+5378,49,323,1234000,Barney Gumble,Moe's Tavern,"Okay, okay. They're both great teams."
+5379,49,324,1237000,Homer Simpson,Moe's Tavern,Huh?
+5380,49,325,1239000,Football Announcer,Moe's Tavern,Touchdown Cowboys!
+5381,49,326,1241000,Homer Simpson,Moe's Tavern,"All right, we're back in business."
+5383,49,328,1245000,Rev. Timothy Lovejoy,First Church of Springfield,"Well, I'm glad some people could resist the lures of the big game."
+5384,49,329,1249000,Man,First Church of Springfield,"Oh my God, I forgot the game!"
+5386,49,331,1251000,Football Announcer,Moe's Tavern,"So, with three ticks left on the clock, it all comes down to this one play. If Dallas scores here, happy fans'll be looting and turning over cars in the Lone Star state tonight. Here's the handoff."
+5387,49,332,1261000,Homer Simpson,Moe's Tavern,"Please, please, please..."
+5388,49,333,1262000,Football Announcer,Moe's Tavern,Touchdown! Stick a fork in this one. It is done. The Dallas Cowboys wins Super Bowl twenty-nine.
+5390,49,335,1268000,Bart Simpson,Simpson Home,I guess you love dad.
+5391,49,336,1269000,Lisa Simpson,Simpson Home,I suspected as much.
+5393,49,338,1271000,Homer Simpson,Moe's Tavern,Yes! She loves me! She loves me!
+5394,49,339,1274000,Moe Szyslak,Moe's Tavern,What are you so happy about Homer? You didn't win any money.
+5395,49,340,1277000,Homer Simpson,Moe's Tavern,"Money comes and money goes, but what I have with my daughter can go on for eight more years!"
+5397,49,342,1286000,Lisa Simpson,Mt. Springfield,"Come on, Dad!"
+5398,49,343,1292000,Homer Simpson,Mt. Springfield,It's beautiful.
+5399,49,344,1295000,Lisa Simpson,Mt. Springfield,Isn't it though?
+5400,49,345,1296000,Homer Simpson,Mt. Springfield,After I catch my breath... can we... go... home?

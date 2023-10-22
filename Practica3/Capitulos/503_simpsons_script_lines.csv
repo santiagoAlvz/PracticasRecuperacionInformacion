@@ -1,0 +1,234 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+130470,503,5,51000,Lisa Simpson,Simpson Home,Power's out.
+130471,503,6,52000,Marge Simpson,Simpson Home,Your father must be sleeping on his side again.
+130474,503,9,59000,Carl Carlson,Springfield Nuclear Power Plant,From downtown! And it counts!
+130475,503,11,65000,Lenny Leonard,Springfield Nuclear Power Plant,Think he's okay?
+130476,503,12,71000,Homer Simpson,Springfield Nuclear Power Plant,Thank you.
+130477,503,13,72000,Carl Carlson,Springfield Nuclear Power Plant,"Just drink some water, you're alright."
+130478,503,14,74000,Lenny Leonard,Springfield Nuclear Power Plant,"Oh yeah, you don't wanna go to the hospital at five o'clock on a Friday."
+130479,503,15,77000,Homer Simpson,Springfield Nuclear Power Plant,Woo hoo! Thank God it's T.G.I.F!
+130480,503,16,80000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Attention, wage worms!"
+130481,503,17,81000,C. Montgomery Burns,Springfield Nuclear Power Plant,It's time for afternoon announcements.
+130482,503,18,92000,C. Montgomery Burns,Springfield Nuclear Power Plant,"This Monday, the plant will be conducting physical examinations of all employees."
+130483,503,19,97000,C. Montgomery Burns,Springfield Nuclear Power Plant,Anyone testing positive for narcotics will be terminated immediately!
+130484,503,20,101000,Lenny Leonard,Springfield Nuclear Power Plant,"Bad news, Lang-Soo."
+130485,503,21,103000,Lang-Soo,Springfield Nuclear Power Plant,Some casual Friday this is.
+130486,503,22,105000,Homer Simpson,Springfield Nuclear Power Plant,"You're outta here, drug-o."
+130487,503,23,107000,C. Montgomery Burns,Springfield Nuclear Power Plant,"And don't forget, federal law mandates that we consider alcohol a drug."
+130490,503,26,120000,Engineer,Springfield Nuclear Power Plant,I told them to make these track d'oh-proof!
+130492,503,28,140000,Marge Simpson,Simpson Home,Homie! You're home early!
+130493,503,29,143000,Homer Simpson,Simpson Home,Well... I didn't really feel like going to Moe's today... thought I might hang out here for as long as I can take it.
+130494,503,30,148000,Bart Simpson,Simpson Home,"Company physical coming up, huh?"
+130495,503,31,150000,Homer Simpson,Simpson Home,Yeah... but a weekend without drinking is no big deal. I did it when I was in that alcohol-induced coma.
+130496,503,32,158000,Homer Simpson,Simpson Home,"So, what's on the agenda?"
+130497,503,33,159000,Marge Simpson,Simpson Home,"Well, we're having brunch with my sisters..."
+130499,503,35,159000,Bart Simpson,Simpson Home,...you're hosting my Preteen Braves meeting...
+130501,503,37,159000,Bart Simpson,Simpson Home,...and we're gonna make dreamcatchers out of litter we pick up.
+130503,503,39,159000,Lisa Simpson,Simpson Home,...you promised to help me write a haiku...
+130504,503,40,169000,Homer Simpson,Simpson Home,Why did I do that? / It sounds so dull and boring. / What was I thinking?
+130505,503,41,177000,Lisa Simpson,Simpson Home,Thank you!
+130508,503,43,179000,Marge Simpson,Simpson Home,And you and I were going to study the municipal voter's guide.
+130509,503,44,182000,Homer Simpson,Simpson Home,"What the-- Section 1 of Article 21 of the State Constitution is amended to read: Section 1. In the year following the year in which the national census is taken under the direction of Congress at the beginning of each decade, the Legislature shall adjust the boundary lines of Congressional, State Senate and Assembly districts. Liquor... mustn't think of liquor..."
+130510,503,45,205000,Grampa Simpson,Simpson Home,"Hey, there, what's cookin'? C'mon, boy. Crack my seal and drink your father."
+130511,503,46,214000,Grampa Simpson,Simpson Home,Wait a minute. That feels good.
+130514,503,49,221000,Homer Simpson,Restaurant,"So, a sober weekend hasn't been that hard. Let me just take a few antidepressants here."
+130515,503,50,229000,Homer Simpson,Restaurant,I feel sorry for people without willpower. I truly do.
+130516,503,51,234000,Marge Simpson,Restaurant,"Homie, what are you drinking?"
+130517,503,52,236000,Homer Simpson,Restaurant,A surprisingly not-horrible fruit drink called a mimosa.
+130518,503,53,240000,Marge Simpson,Restaurant,There's champagne in those!
+130519,503,54,243000,Homer Simpson,Restaurant,Then there's champagne in me! What am I gonna do? It's less than twenty-four hours till my drug test. Maybe I can sweat it out.
+130520,503,55,253000,Homer Simpson,Restaurant,"Oh man, I'd better have some coffee and iced tea."
+130521,503,56,256000,Marge Simpson,Restaurant,No! Irish and Long Island!
+130522,503,57,258000,Homer Simpson,Restaurant,What about this lemonade?
+130523,503,58,260000,Marge Simpson,Restaurant,Mike's Hard!
+130524,503,59,261000,Homer Simpson,Restaurant,"Then I'd better soak up the alcohol with some food! Oooh, cake!"
+130525,503,60,264000,Marge Simpson,Restaurant,Rum cake!
+130526,503,61,265000,Homer Simpson,Restaurant,Crepes!
+130527,503,62,265000,Marge Simpson,Restaurant,Suzette!
+130528,503,63,266000,Homer Simpson,Restaurant,Cherries!
+130529,503,64,268000,Homer Simpson,Restaurant,Jubilee!
+130530,503,65,280000,Table Of Brunchers,Restaurant,Ooo!
+130532,503,67,280000,Lenny Leonard,Springfield Nuclear Power Plant,"Wow, passed with flying colors! I've sure earned this!"
+130533,503,68,293000,Homer Simpson,Springfield Nuclear Power Plant,"Oh Lord, I have once again besotted my liver with thy fermented gifts. If you can weasel me out of this physical, I will blow your mind by doing something incredibly holy, at some point. Amen. Now to mumble in a religious fashion. Dear God, oh, Lord oh God, oh, Lord..."
+130535,503,70,315000,Dr. Julius Hibbert,EXAMINATION ROOM,Hmm... your cells have been overexposed to gamma radiation.
+130536,503,71,320000,Employee,EXAMINATION ROOM,Like the Hulk?!
+130537,503,72,321000,Dr. Julius Hibbert,EXAMINATION ROOM,"Well, sort of like the Hulk. But instead of getting powerful, you're going to get very, very sick."
+130538,503,73,327000,Employee,EXAMINATION ROOM,Hulk smash!
+130539,503,74,329000,Dr. Julius Hibbert,EXAMINATION ROOM,"Yes, Hulk smash."
+130541,503,76,329000,Blue-Haired Lawyer,Springfield Nuclear Power Plant,"Mr. Burns, you are liable for thousands of dollars per employee, not to mention my extensive fees which are--"
+130542,503,77,341000,C. Montgomery Burns,Springfield Nuclear Power Plant,This trapdoor app works like a charm! Excellent.
+130543,503,78,345000,Blue-Haired Lawyer,Springfield Nuclear Power Plant,You'll still have to pay!
+130544,503,79,348000,C. Montgomery Burns,Springfield Nuclear Power Plant,"This is the last time I pay the price for the irritating mortality of the human worker! Smithers, it's time to re-staff with the super-intelligent kangaroos we've been breeding!"
+130545,503,80,356000,Waylon Smithers,Springfield Nuclear Power Plant,"I'm sorry, sir, but they just filled their pouches with office supplies and hopped away."
+130546,503,81,360000,C. Montgomery Burns,Springfield Nuclear Power Plant,Even the joeys?
+130547,503,82,361000,Waylon Smithers,Springfield Nuclear Power Plant,"Y'know, sir... there is a more high-tech solution."
+130548,503,83,364000,C. Montgomery Burns,Springfield Nuclear Power Plant,More high-tech than kangaroos?
+130549,503,84,367000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ladies and gentlemen, meet the future masters of the human race."
+130550,503,85,377000,Homer Simpson,Springfield Nuclear Power Plant,Comicon nerds!
+130551,503,86,378000,C. Montgomery Burns,Springfield Nuclear Power Plant,"You fool! These are robots! You will train them, and they will replace you."
+130552,503,87,386000,C. Montgomery Burns,Springfield Nuclear Power Plant,I give you permission to shake your fists in anger twice.
+130553,503,88,391000,C. Montgomery Burns,Springfield Nuclear Power Plant,"I didn't say ""Monty says!"" Now I have cause to terminate!"
+130555,503,90,394000,Lenny Leonard,Springfield Nuclear Power Plant,This is crap!
+130556,503,91,395000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Monty says ""shake your fists."""
+130557,503,92,395000,C. Montgomery Burns,Springfield Nuclear Power Plant,Now get out.
+130558,503,93,395000,Carl Carlson,Springfield Nuclear Power Plant,"You didn't say ""Monty says."""
+130559,503,94,398000,C. Montgomery Burns,Springfield Nuclear Power Plant,This is no game!
+130560,503,95,405000,C. Montgomery Burns,Springfield Nuclear Power Plant,Excellent.
+130561,503,96,406000,Waylon Smithers,Springfield Nuclear Power Plant,"Sir, I'm afraid we do need to keep one human worker to sign for packages, a scapegoat for meltdowns, things that would be a waste of the robots' time."
+130563,503,97,414000,C. Montgomery Burns,Springfield Nuclear Power Plant,So we need one meat sock on the payroll. But who?
+130564,503,98,418000,Homer Simpson,Springfield Nuclear Power Plant,"Mr. Burns, before I leave, I've got a few things to get off my chest: one: I liked the new microwave in the break room -- just push ""popcorn"". You don't have to know how long. Two: replacing us with robots is heartless and despicable. Three: how about a farewell party with a caricature artist? You know, it's something both kids and adults can enjoy. So to sum up: nicely-done, we hate you, and food for thought."
+130565,503,99,443000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Simpson, wait! As it turns out, there is one job available. But be forewarned, it promises naught but soul-crushing boredom."
+130566,503,100,452000,Homer Simpson,Springfield Nuclear Power Plant,Does the chair go back like this?
+130567,503,101,455000,C. Montgomery Burns,Springfield Nuclear Power Plant,Yes.
+130568,503,102,456000,Homer Simpson,Springfield Nuclear Power Plant,Woo hoo!
+130569,503,103,462000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Well, it looks like we've found this plant's one remaining worker of bone and sinew."
+130570,503,104,466000,Waylon Smithers,Springfield Nuclear Power Plant,"Sir, I believe there are two, including yours truly."
+130571,503,105,470000,C. Montgomery Burns,Springfield Nuclear Power Plant,"It's one, excluding mine falsely!"
+130572,503,106,472000,Waylon Smithers,Springfield Nuclear Power Plant,Surely no robot can replace me!
+130573,503,107,484000,Waylon Smithers,Springfield Nuclear Power Plant,I can do that.
+130575,503,109,488000,C. Montgomery Burns,Springfield Nuclear Power Plant,What about this?
+130577,503,111,501000,Homer Simpson,Springfield Nuclear Power Plant,"Nice parking, idiot."
+130578,503,112,509000,Homer Simpson,Springfield Nuclear Power Plant,"So, uh, you guys are my new coworkers."
+130579,503,113,512000,Homer Simpson,Springfield Nuclear Power Plant,"So, workin' hard or hardly workin'?"
+130580,503,114,516000,Homer Simpson,Springfield Nuclear Power Plant,"I said, workin' hard or hardly working? Working hard or hardly working?! WORKING HARD OR HARDLY WORKING?!"
+130581,503,115,527000,Homer Simpson,Springfield Nuclear Power Plant,It's a simple question! Are you A: Working hard or B:
+130582,503,116,537000,Homer Simpson,Springfield Nuclear Power Plant,"I guess I just met the joker of the group. Better watch out for you on April Fool's Day, am I right? I said, am I right? Am I r--"
+130584,503,118,545000,Homer Simpson,Moe's Tavern,So you guys have any luck finding a new job?
+130585,503,119,550000,Lenny Leonard,Moe's Tavern,Does it look like I've got a job?
+130586,503,120,550000,Carl Carlson,Moe's Tavern,"No, I didn't."
+130587,503,121,553000,Moe Szyslak,Moe's Tavern,"Homer, show a little more sensitivity around these jobless washouts, huh?"
+130588,503,122,557000,Homer Simpson,Moe's Tavern,"Hey, I've gotta tell ya, I'm miserable there. I'm all alone; and when there's some problem due to human error, guess who gets blamed?"
+130589,503,123,565000,Lenny Leonard,Moe's Tavern,"Hey, Homer. You know what I'm playing for ya?"
+130590,503,124,567000,Lenny Leonard,Moe's Tavern,The World's Smallest Violin. And now I gotta sell it just to make my rent.
+130591,503,125,573000,Lenny Leonard,Moe's Tavern,Oh my God! Where's the bow? I can't sell it without the bow!
+130592,503,126,576000,Moe Szyslak,Moe's Tavern,"Easy, easy there, Lenny. You can always play it pizzicato."
+130593,503,127,579000,Lenny Leonard,Moe's Tavern,The buyer clearly specified violin and bow!
+130594,503,128,582000,Homer Simpson,Moe's Tavern,Maybe I should be heading home.
+130595,503,129,585000,Lenny Leonard,Moe's Tavern,"Oh no, he stepped on the bow!"
+130596,503,130,588000,Moe Szyslak,Moe's Tavern,"Boy, this place has gotten so grim. I'm gonna do something I've never done: make myself a drink."
+130597,503,131,595000,Moe Szyslak,Moe's Tavern,You call this beer? This is watered-down swill! You got a problem? Well here's the complaint department!
+130598,503,132,602000,Moe Szyslak,Moe's Tavern,"You know what I think, Moe? I think You ain't got the guts!"
+130600,503,134,605000,Moe Szyslak,Moe's Tavern,"Missed, ya son-of-a-bitch!"
+130602,503,136,609000,Homer Simpson,Springfield Nuclear Power Plant,"WHEN THE MOON HITS YOUR EYE / LIKE A BIG PIZZA PIE / THAT'S AMORE / WHEN THE WORLD SEEMS... When you do chair gondola all by yourself, it almost seems stupid."
+130604,503,138,629000,Homer Simpson,Springfield Nuclear Power Plant,"Ah, here it is: Hydraulic systems flush... EEPROM bios autoboot... conversation mode? They can talk?!"
+130605,503,139,638000,Homer Simpson,Springfield Nuclear Power Plant,"I just have to press this button, right..."
+130606,503,140,643000,Homer Simpson,Springfield Nuclear Power Plant,"Well, at least it doesn't feel pain."
+130607,503,141,645000,Homer Simpson,Springfield Nuclear Power Plant,Wait a minute...
+130608,503,142,649000,Homer Simpson,Springfield Nuclear Power Plant,"""Override self-destruct protocol with authorization code seven-two-two-five.,override self-destruct protocol with authorization code seven-two-two-five,7
+140907,503,143,Robot: (CALM MALE VOICE) Human interaction mode activated. Initiate conversation.,649000,true,624,10,Robot,Springfield Nuclear Power Plant,Human interaction mode activated. Initiate conversation.,human interaction mode activated initiate conversation,6
+140908,503,144,Homer Simpson: (TENTATIVE) Will you be my friend?,662000,true,2,10,Homer Simpson,Springfield Nuclear Power Plant,Will you be my friend?,will you be my friend,5
+140909,503,145,Robot: Friendship cannot exist between man and machine. But I can simulate interest in your statements.,664000,true,624,10,Robot,Springfield Nuclear Power Plant,Friendship cannot exist between man and machine. But I can simulate interest in your statements.,friendship cannot exist between man and machine but i can simulate interest in your statements,15
+140910,503,146,""Homer Simpson: (DELIGHTED GASP) You're not a friend... you're my best friend. (HUGS IT"
+130610,503,148,687000,Marge Simpson,Springfield,It's no fun to live in a town with a ninety-nine percent unemployment rate.
+130612,503,150,692000,Luigi,Luigi's,Things are so bad -- look at what happened to the man on my pizza box.
+130614,503,152,701000,Marge Simpson,Springfield Street,Mr. Burns seemed like such a nice man the day he arrived.
+130615,503,153,711000,C. Montgomery Burns,Springfield Street,"Cheap power, plentiful jobs, and all your swimming holes shall be warm and bubbling."
+130616,503,154,716000,BEAUTIFUL BOY,Springfield Street,Can I pat the elephant?
+130617,503,155,720000,C. Montgomery Burns,Springfield Street,Of course.
+130618,503,156,726000,Little Moe Szyslak,Springfield Street,Guess I'll just have to become beautiful on the inside:
+130619,503,157,729000,Marge Simpson,Springfield Street,Which he didn't.
+130620,503,158,730000,Moe Szyslak,Springfield Street,I ain't payin'! Two of my shortbreads were broken!
+130621,503,159,734000,Bart Simpson,Springfield Street,"Hey, check it out! Lenny's hit a new low!"
+130622,503,160,739000,Dr. Julius Hibbert,Springfield Street,I don't want my window washed!
+130623,503,161,741000,Lenny Leonard,Springfield Street,Too late!
+130624,503,162,745000,Lenny Leonard,Springfield Street,I don't want my squeegee wiped!
+130625,503,163,747000,Homeless Man,Springfield Street,I got what I needed.
+130626,503,164,751000,Homeless Man,Springfield Street,"That's it, boy. Live one more day."
+130629,503,167,756000,Homeless Man,5th Grade Classroom,"Good morning, class. I'm your substitute teacher..."
+130630,503,168,759000,Waylon Smithers,5th Grade Classroom,"Alright, who did that?"
+130631,503,169,764000,Waylon Smithers,5th Grade Classroom,"Fine. We will not be reading ""Death In Venice"" today."
+130633,503,171,768000,Kearney Zzyzwicz,5th Grade Classroom,Someone's in a mood.
+130635,503,173,771000,Marge Simpson,Street,Barney?
+130636,503,174,773000,Barney Gumble,Street,"Hey, if we learned anything from ""The Full Monty,"" it's that in a tough economy, ugly people strip for money."
+130637,503,175,780000,Marge Simpson,Street,Do a lot of people pay?
+130638,503,176,782000,Barney Gumble,Street,"No, but I can also play three-card full Monty."
+130639,503,177,785000,Barney Gumble,Street,"Follow the hats, where's the wiener? Follow the hats, where's the wiener? Now you see it, now you don't."
+130641,503,179,792000,Homer Simpson,Springfield Nuclear Power Plant,"So, Bart, the little dickens, is going through that phase where young boys think their dad's an idiot."
+130642,503,180,798000,Robot,Springfield Nuclear Power Plant,Sounds like you are having... family difficulties.
+130643,503,181,801000,Homer Simpson,Springfield Nuclear Power Plant,That's exactly what I'm having! You guys totally get me.
+130644,503,182,805000,Robot #2,Springfield Nuclear Power Plant,We are programmed to respond to your verbal prompts.
+130645,503,183,807000,Homer Simpson,Springfield Nuclear Power Plant,Could you give my wife a few lessons?
+130646,503,184,810000,Robot #1,Springfield Nuclear Power Plant,Hmmm... your laughter indicates you do not wish us to give your wife lessons.
+130647,503,185,814000,Homer Simpson,Springfield Nuclear Power Plant,Yeah. So uh... it's five o'clock. Time for Moe's.
+130648,503,186,818000,Robot #1,Springfield Nuclear Power Plant,"My watch says ""three..."""
+130649,503,187,820000,Robot #1,Springfield Nuclear Power Plant,Four...
+130650,503,188,820000,Robot #2,Springfield Nuclear Power Plant,Five.
+130651,503,189,822000,Homer Simpson,Springfield Nuclear Power Plant,Let's go!
+130652,503,190,823000,Robot #1,Springfield Nuclear Power Plant,Automated workers are not able to leave the plant.
+130653,503,191,826000,Homer Simpson,Springfield Nuclear Power Plant,What happened to you guys? You used to be cool.
+130654,503,192,828000,Robot #2,Springfield Nuclear Power Plant,We are the same temperature we have always been.
+130655,503,193,831000,Homer Simpson,Springfield Nuclear Power Plant,We're the same temperature we've always been.
+130656,503,194,831000,Robot #1,Springfield Nuclear Power Plant,Our programming restricts our movement to yellow guidance lines.
+130658,503,196,848000,Homer Simpson,Baseball Field,Play balll!
+130659,503,197,856000,Homer Simpson,Baseball Field,"Okay, I'm up again."
+130660,503,198,858000,Robot Catcher,Baseball Field,"According to the online rules of baseball, all players get a turn ""at bat."""
+130661,503,199,858000,Homer Simpson,Baseball Field,"Uh, right, right... actually, I'm the designated hitter for all you guys."
+130662,503,200,868000,Robot Catcher,Baseball Field,"The designated hitter corrupts the purity of an otherwise elegant game... Illogical, illogical."
+130663,503,201,874000,Homer Simpson,Baseball Field,Fine. Don't get your circuits in a bunch.
+130664,503,202,877000,Robot 3rd Baseman,Baseball Field,Circuit-bunching has yielded important advances in modern robotics. To wit...
+130665,503,203,882000,Homer Simpson,Baseball Field,Shut up! Shut up! Shut up!!!
+130666,503,204,883000,Bart Simpson,Baseball Field,"Hey Dad, can we play?"
+130667,503,205,888000,Pointing Robot,Baseball Field,We cannot take the inferior one.
+130668,503,206,890000,Milhouse Van Houten,Baseball Field,"My heart makes up for my shortcomings, like Rudy."
+130669,503,207,893000,Another Robot,Baseball Field,Rudy was only put in at the end of a meaningless game.
+130670,503,208,896000,Yet Another Robot,Baseball Field,We will notify you if this game becomes meaningless.
+130671,503,209,906000,Homer Simpson,Baseball Field,I got it...
+130672,503,210,907000,Homer Simpson,Baseball Field,I got it...
+130673,503,211,908000,Homer Simpson,Baseball Field,I said I've got it!
+130675,503,212,913000,Homer Simpson,Baseball Field,That could've been my motherboard lying in the street!
+130676,503,213,916000,Dying Robot,Baseball Field,Our primary directive... is to preserve human life.
+130677,503,214,921000,Homer Simpson,Baseball Field,"And here I was waiting till you slept to rob you of your copper. You know, it's crazy, but..."
+130678,503,215,926000,Dying Robot,Baseball Field,Homer... move away from me. You are still in the road.
+130679,503,216,930000,Homer Simpson,Baseball Field,"Hush, bionic prince, as I cradle your waning form."
+130680,503,217,936000,Homer Simpson,Baseball Field,Such a peaceful end.
+130682,503,219,943000,Homer Simpson,Baseball Field,"Aw, jeez."
+130684,503,221,961000,Homer Simpson,Simpson Home,"Axels to axels, rust to rust, amen."
+130685,503,222,965000,Bart Simpson,Simpson Home,Amen.
+130686,503,223,966000,Lisa Simpson,Simpson Home,"Dearly beloved, we are not here to mourn their deactivation, but to celebrate their period of function."
+130687,503,224,974000,Bart Simpson,Simpson Home,Can I hollow out this one's head and use it as a turtle tank?
+130688,503,225,977000,Homer Simpson,Simpson Home,No! I'm already using it to put my keys in!
+130689,503,226,980000,Homer Simpson,Simpson Home,"Now, let me raise this beer to toast..."
+130691,503,228,983000,Robot #1,Simpson Home,Alcohol is harmful to humans.
+130692,503,229,985000,Homer Simpson,Simpson Home,"Yeah, yeah, yeah, yeah, save your breath."
+130693,503,230,987000,Robot #2,Simpson Home,We have no breath.
+130694,503,231,988000,Robot #3,Simpson Home,We do vent nitrogen once a year. You do not want to be around for that.
+130695,503,232,992000,Homer Simpson,Simpson Home,I have some adjustments to make.
+130697,503,234,998000,Ned Flanders,Simpson Garage,"Homer, when am I gettin' my power drill back?"
+130698,503,235,1001000,Homer Simpson,Simpson Garage,When I'm done with my robo-botomies.
+130699,503,236,1006000,Robot,Simpson Garage,Primary directive deactivated.
+130700,503,237,1009000,Robot #2,Simpson Garage,Our new primary directive becomes removing all impediments to the plant.
+130701,503,238,1015000,Ned Flanders,Simpson Garage,"Uh, Homer, I'm afraid this is the part of God's perfect plan where you're murdered by robots."
+130702,503,239,1019000,Homer Simpson,Simpson Garage,"Flanders, I don't judge a robot by the color of their eyes. I look at their hands, which have turned into buzz saws."
+130703,503,240,1030000,Homer Simpson,Simpson Garage,Sonofa-- Why did you do that?
+130705,503,242,1037000,Robots,Evergreen Terrace,Eliminate impediment. Eliminate.
+130706,503,243,1039000,Homer Simpson,Evergreen Terrace,"Just say ""kill me,"" jerks!"
+130507,503,244,1042000,Robots,Evergreen Terrace,Kill him. Kill him.
+130707,503,245,1043000,Lisa Simpson,Evergreen Terrace,"Dad, they can only go three miles an hour!"
+130708,503,246,1046000,Homer Simpson,Evergreen Terrace,I'm doomed! Can they climb stairs?
+130709,503,247,1049000,Lisa Simpson,Evergreen Terrace,With great difficulty!
+130710,503,248,1050000,Homer Simpson,Evergreen Terrace,I'm doomed!
+130712,503,250,1061000,Homer Simpson,Burns's Living Room,Robots... trying to kill me... and now they'll kill you... 'cause I led them here...
+130714,503,252,1068000,C. Montgomery Burns,Burns Manor,Now see here! You are so not the heartless automatons I was looking for! There's one thing man has that machines can never match: hounds!
+130716,503,254,1083000,C. Montgomery Burns,Burns Manor,"Fine! Slink away! And guess what: all those times I said ""you're a good boy,"" it was a lie!"
+130717,503,255,1090000,C. Montgomery Burns,Burns Manor,No! Stop! I'll give you the combination to the num-num safe!
+130718,503,256,1095000,C. Montgomery Burns,Burns Manor,"Flee, you fool!"
+130719,503,257,1096000,Homer Simpson,Burns Manor,Aren't we getting num-nums?
+130721,503,259,1106000,C. Montgomery Burns,VICTORIAN SOLARIUM,Ahh. The solarium. We'll be safely cornered in this glass room with one door.
+130723,503,261,1119000,C. Montgomery Burns,VICTORIAN SOLARIUM,Stop brandishing me!
+130724,503,262,1121000,Homer Simpson,VICTORIAN SOLARIUM,"Sorry. Before we die, can you tell me how old you really are?"
+130725,503,263,1125000,C. Montgomery Burns,VICTORIAN SOLARIUM,"Well, it has four digits..."
+130726,503,264,1125000,Lenny Leonard,VICTORIAN SOLARIUM,Unemployed Springfielders to the rescue!
+130727,503,265,1130000,Carl Carlson,VICTORIAN SOLARIUM,And underemployed!
+130728,503,266,1137000,Waylon Smithers,VICTORIAN SOLARIUM,To servos with love!
+130729,503,267,1149000,Homer Simpson,VICTORIAN SOLARIUM,"Guys, thank you. The words ""prime directive"" get thrown around a lot these days, but I'm glad yours was saving me. The saddest part is none of this had to happen, if Mr. Burns had simply trusted the human worker. Or if someone, anyone had told me that robots were incapable of human feelings."
+130730,503,268,1171000,Robot #1,VICTORIAN SOLARIUM,I told you precisely that fact one thousand five hundred sixty-two t--
+130731,503,269,1181000,Homer Simpson,VICTORIAN SOLARIUM,And his arm can be my back-scratcher.
+130733,503,271,1184000,C. Montgomery Burns,VICTORIAN SOLARIUM,"Well, I've learned the robotic worker is no match for the old-fashioned man of labor. You're all hired back... as temps!"
+130735,503,273,1193000,Fishing Robot,Lake Springfield,"Homer, why have you reprogrammed me for this?"
+130736,503,274,1196000,Homer Simpson,Lake Springfield,I'm giving you your wish: to be a real boy.
+130737,503,275,1200000,Fishing Robot,Lake Springfield,I am real and I do not have wishes.
+130738,503,276,1202000,Homer Simpson,Lake Springfield,Then take us out to sea.
+130739,503,277,1204000,Fishing Robot,Lake Springfield,I am not a transformer. I cannot turn into an outboard motor.
+130740,503,278,1208000,Homer Simpson,Lake Springfield,"Oh, I believe you, but Flanders' drill doesn't."
+130742,503,280,1216000,Homer Simpson,Lake Springfield,"Oh, this is the life."
+130743,503,281,1219000,Homer Simpson,Lake Springfield,Hey!

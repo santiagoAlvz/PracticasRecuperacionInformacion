@@ -1,0 +1,225 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+72339,285,1,28000,Marge Simpson,Simpson Home,"All right family, who can guess what's different about dinner tonight?"
+72340,285,2,32000,Homer Simpson,Simpson Home,"Eh, same old garbage!"
+72341,285,3,36000,Bart Simpson,Simpson Home,This guy's always on!
+72342,285,4,39000,Marge Simpson,Simpson Home,"Oh, you two! We're eating genetically modified vegetables! Look how big they are."
+72343,285,5,46000,Homer Simpson,Simpson Home,This corn doesn't look so big.
+72344,285,6,48000,Marge Simpson,Simpson Home,That's baby corn.
+72345,285,7,50000,Homer Simpson,Simpson Home,What?!
+72346,285,8,52000,Lisa Simpson,Simpson Home,American corporations should stop playing God with nature.
+72347,285,9,55000,Marge Simpson,Simpson Home,There's nothing to be afraid of. They're all grown by the vegetable division of Union Carbide.
+72348,285,10,61000,Lisa Simpson,Simpson Home,"Mom, my potato is eating a carrot!"
+72350,285,12,68000,Marge Simpson,Simpson Home,That's it. From now on I'm growing all our vegetables myself.
+72351,285,13,81000,Marge Simpson,Simpson Home,Go away! Go away!
+72352,285,14,86000,Lisa Simpson,Simpson Home,"Whatcha doing, Mom?"
+72353,285,15,87000,Marge Simpson,Simpson Home,"I've tried heckling them, I've tried jeckling them, it's time I made myself a scarecrow."
+72355,285,17,111000,Marge Simpson,LIVING ROOM,Go away! Go away!
+72356,285,18,113000,Todd Flanders,LIVING ROOM,"We believe in God, the father almighty, creator of Heaven and Earth..."
+72357,285,19,115000,Marge Simpson,LIVING ROOM,Shoo! Shoo!
+72359,285,21,120000,Ned Flanders,LIVING ROOM,"Heaven and earth... Where were we? Oh, now I'm lost."
+72361,285,23,130000,Marge Simpson,Simpson Garden,"Yeah! I did it! Marge is in the house! Or, I will be soon. 'Cause it needs some cleaning!"
+72364,285,26,144000,Homer Simpson,Simpson Home,I'll regroup at Red Lobster!
+72365,285,27,157000,Homer Simpson,Simpson Home,You ain't pretty no more!
+72366,285,28,162000,Homer Simpson,Simpson Home,"Aw, look. I've made some friends. And now, go do my bidding... whatever it may be!"
+72368,285,30,176000,Homer Simpson,Moe's Tavern,"So Lisa says by killing their enemy, I became the alpha-crow."
+72369,285,31,180000,Moe Szyslak,Moe's Tavern,"I gotta admit, I-I'm kinda nervous, here. We haven't seen Barney since they enveloped him."
+72370,285,32,185000,Homer Simpson,Moe's Tavern,"I'm sure he'll turn up. Look, here's one of his buttons."
+72371,285,33,189000,Moe Szyslak,Moe's Tavern,"All right, that's it. Get 'em outta here. This ain't no crow bar."
+72372,285,34,193000,Moe Szyslak,Moe's Tavern,This is a crowbar!
+72373,285,35,195000,Moe Szyslak,Moe's Tavern,See? They got the little stools and everything.
+72375,285,37,199000,Homer Simpson,Simpson Home,"There's Russell Crow, Cameron Crow, Crow Diddly, Hume Crow-nyn, Gregory Peck..."
+72376,285,38,208000,Marge Simpson,Simpson Home,"Homer, I'm very uncomfortable having a gang of crows in our bedroom."
+72377,285,39,211000,Homer Simpson,Simpson Home,"It's a murder, honey. A group of crows is called a murder."
+72378,285,40,214000,Marge Simpson,Simpson Home,I'm sleeping on the couch.
+72379,285,41,228000,Homer Simpson,Simpson Home,"Drop it in, don't cram it in. Oh, forget it, I'll do it myself."
+72380,285,42,233000,Homer Simpson,Simpson Home,"Awww, look, Maggie wants to fly too."
+72382,285,44,239000,Homer Simpson,Simpson Home,"Hey, cut it out! Put her down!"
+72385,285,47,253000,Homer Simpson,Simpson Backyard,"Oh, thank God you're okay."
+72386,285,48,256000,Homer Simpson,Simpson Backyard,"Okay, that was not cool. We need to lay down some ground rules--"
+72387,285,49,257000,Crows,Simpson Backyard,Caw! Caw!
+72388,285,50,260000,Homer Simpson,Simpson Backyard,"We'll get to that. Right now, I think we need some time apart--"
+72389,285,51,262000,Crows,Simpson Backyard,Caw! Caw! Caw!
+72390,285,52,265000,Homer Simpson,Simpson Backyard,"All right, that's it. Shoo, you stupid crows! Shoo! Shoo! Shoo!"
+72391,285,53,274000,Homer Simpson,Simpson Backyard,That is not a worm.
+72393,285,55,284000,Homer Simpson,Springfield General Hospital,Ow! Ow!
+72395,285,57,285000,Homer Simpson,Dr. Hibbert's Office,I hate getting stitches in my eyes. Stupid crows.
+72396,285,58,290000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Don't be mad at the crows, Homer. They weren't trying to blind you. They were just trying to drink your sweet, sweet eye juices."
+72397,285,59,296000,Homer Simpson,Dr. Hibbert's Office,"Hm, fascinating. Say doctor, can you do something about my searing pain?"
+72398,285,60,301000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Well, there is a medication, although it's a little... controversial."
+72399,285,61,305000,Homer Simpson,Dr. Hibbert's Office,Does it go in the butt?
+72400,285,62,306000,Dr. Julius Hibbert,Dr. Hibbert's Office,I'm talkin' about medicinal marijuana. Prescription pot. Texas T-H-C.
+72401,285,63,312000,Homer Simpson,Dr. Hibbert's Office,"Look, man. I don't do drugs."
+72402,285,64,313000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Homer, for your eyes, the best tonic is chronic. You're not afraid, are you?"
+72403,285,65,320000,Homer Simpson,Dr. Hibbert's Office,I had a bad experience with drugs...
+72405,285,67,324000,Present-Day Homer,HIGH SCHOOL FOOTBALL STADIUM,It was that golden weekend between Summer school and regular school...
+72406,285,68,327000,Lenny Leonard,HIGH SCHOOL FOOTBALL STADIUM,"Hey Homer, wanna smoke some marijuana?"
+72407,285,69,329000,Carl Carlson,HIGH SCHOOL FOOTBALL STADIUM,They say it's a gateway drug.
+72408,285,70,331000,Chief Wiggum,HIGH SCHOOL FOOTBALL STADIUM,"Well, well...if it isn't the Doobie Brothers."
+72409,285,71,335000,Lenny Leonard,HIGH SCHOOL FOOTBALL STADIUM,"Uh-oh! Crotch the weed, man!"
+72410,285,72,339000,Chief Wiggum,HIGH SCHOOL FOOTBALL STADIUM,"Smell any drugs, Sgt. Scraps?"
+72411,285,73,350000,Homer Simpson,HIGH SCHOOL FOOTBALL STADIUM,"For me, the sixties ended that day in nineteen seventy-eight."
+72412,285,74,355000,Dr. Julius Hibbert,HIGH SCHOOL FOOTBALL STADIUM,"But Homer, you can't let a single bad experience scare you away from drugs."
+72413,285,75,359000,Homer Simpson,HIGH SCHOOL FOOTBALL STADIUM,"But isn't marijuana, or ""dope,"" illegal?"
+72414,285,76,363000,Dr. Julius Hibbert,HIGH SCHOOL FOOTBALL STADIUM,Only for those who enjoy it. Medical use of marijuana is legal in this state. We'll also provide you with a prescription bong.
+72415,285,77,372000,Dr. Julius Hibbert,HIGH SCHOOL FOOTBALL STADIUM,You want the wizard or the skull?
+72418,285,80,374000,Homer Simpson,Master Bedroom,"Okay, let's see: ""Toke as needed. Caution: objects may appear more edible than they actually are."""
+72420,285,82,404000,Marge Simpson,LIVING ROOM,What's that billowing down the stairs? It's smoke!
+72421,285,83,411000,Lisa Simpson,LIVING ROOM,It smells like the art teacher's office.
+72422,285,84,414000,Homer Simpson,LIVING ROOM,SMOKE ON THE WATER / DOO DOO DOO DOO / DOO DOO DOO DOO / DOO DOO DOO / DOO DOO
+72423,285,85,422000,Marge Simpson,LIVING ROOM,Uh-oh.
+72425,285,87,427000,Homer Simpson,Master Bedroom,"THEY BURNED DOWN THE GAMBLING HOUSE - IT DIED WITH AN AWFUL SOUND / I AM HUNGRY FOR A CAN-DY BAR / I THINK I'LL EAT A ""MOUNDS""..."
+72428,285,90,446000,Marge Simpson,Simpson Home,"Homer, you're doing drugs!"
+72429,285,91,449000,Marge Simpson,Simpson Home,And now I'm guilty of possession! I could go to prison! Unless I testify against you...
+72430,285,92,455000,Homer Simpson,Simpson Home,"Marge, it's making my eyes better, and it's legal."
+72431,285,93,458000,Homer Simpson,Simpson Home,I could walk up to the President and blow smoke in his stupid monkey face and he'd just have to sit there groovin' on it.
+72432,285,94,491000,Marge Simpson,Simpson Home,Hello?
+72433,285,95,492000,Homer Simpson,Simpson Home,"Marge, I just realized: I am the ""ow"" in the word ""now"". And if you tell anyone..."
+72434,285,96,502000,Marge Simpson,Simpson Home,"Honey, I like it when you call, but we just talked five minutes ago. Hang on, I've got call waiting."
+72435,285,97,508000,Marge Simpson,Simpson Home,Hello?
+72436,285,98,509000,Homer Simpson,Simpson Home,"Hey, it's me. I got Marge on the other line and she is totally bumming me out."
+72438,285,100,520000,Bart Simpson,Simpson Home,"Dad, I thought you didn't like her saxophone."
+72439,285,101,523000,Homer Simpson,Simpson Home,I didn't. But now Daddy's special medicine...
+72440,285,102,526000,Homer Simpson,Simpson Home,"Which you must never use because it will ruin your life, lets Daddy see and hear magical things you will never experience. Ever."
+72441,285,103,536000,Lisa Simpson,Simpson Home,"Dad, it's one a.m. And I'm out of saliva."
+72442,285,104,540000,Homer Simpson,Simpson Home,Sh-sh-sh.
+148585,285,105,549000,Homer's Brain,Simpson Home,Wow. That saxophone would make a great pipe.
+72443,285,106,556000,Ned Flanders,Simpson Home,"Hidilly-hey, Homer!"
+72444,285,107,557000,Homer Simpson,Simpson Home,"Oh my God, this dude does the best Flanders! You got the mustache and the didilly... Okay, now do Wiggum."
+72445,285,108,567000,Ned Flanders,Simpson Home,"Homer, i-i-it's me, Ned."
+72446,285,109,568000,Homer Simpson,Simpson Home,"Oh-ho-ho-ho right, the God dude. Hey, I got a question for you."
+72447,285,110,574000,Homer Simpson,Simpson Home,"""Could Jesus microwave a burrito so hot, that He Himself could not eat it?"""
+72448,285,111,574000,Ned Flanders,Simpson Home,"Well, sir, of course He could... but then again... Wow, as melon-scratchers go, that's a honey-doodle."
+72449,285,112,587000,Homer Simpson,Simpson Home,Now you know what I've been goin' through.
+72450,285,113,589000,Ned Flanders,Simpson Home,"Well, luckily, I've got a book right here that's jam-packed with answers."
+72451,285,114,593000,Homer Simpson,Simpson Home,"Oh man, this is long. Could you read it to me?"
+72452,285,115,599000,Ned Flanders,Simpson Home,I guess that could be arranged.
+72453,285,116,601000,Ned Flanders,Simpson Home,...The grace of the Lord Jesus be with God's people. The End.
+72454,285,117,604000,Homer Simpson,Simpson Home,Wow. Wow. God does so much for me. And he doesn't ask anything in return.
+72455,285,118,612000,Ned Flanders,Simpson Home,"Well, I know he's wishin' you'd sign his petition...to re-criminalize medicinal marijuana."
+72456,285,119,616000,Homer Simpson,Simpson Home,"Done and done. Now, do Wiggum."
+72457,285,120,618000,Ned Flanders,Simpson Home,"Well, okay... I, I guess it would go something like this: All right, Simpson, you're under arrest, see?"
+72458,285,121,625000,Homer Simpson,Simpson Home,I said Wiggum!
+72460,285,123,627000,C. Montgomery Burns,Springfield Nuclear Power Plant,"""And so, potential investors..."""
+72461,285,124,627000,C. Montgomery Burns,Springfield Nuclear Power Plant,"""...I hope you don't think our IPO is an IPU."" Then I hold my nose thusly. What do you think, Smithers?"
+72462,285,125,637000,Waylon Smithers,Springfield Nuclear Power Plant,"A bit of a downer, sir."
+72463,285,126,639000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Well, I hope the investors like it. I have to raise sixty million dollars or we're out of business."
+72464,285,127,643000,Waylon Smithers,Springfield Nuclear Power Plant,"Why is that, sir?"
+72465,285,128,645000,C. Montgomery Burns,Springfield Nuclear Power Plant,"I told you, I pissed it away. Oh, don't make that face."
+72466,285,129,649000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Yes, that's the one!"
+72467,285,130,651000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Smithers, I need someone who laughs at all my jokes. You know, honest feedback."
+72468,285,131,657000,Homer Simpson,Springfield Nuclear Power Plant,"Oops! I thought this was the can, man."
+72469,285,132,661000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Well, you're a Happy Homer. What's your name, young man?"
+72470,285,133,664000,Homer Simpson,Springfield Nuclear Power Plant,You just said it!
+72471,285,134,670000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Well, if you liked that, listen to this: ""Working hard... or hardly working?"""
+72473,285,136,677000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Smithers, you could learn a thing or two from this braying moron. Young man, I'm making you my executive vice president."
+72474,285,137,684000,Waylon Smithers,Springfield Nuclear Power Plant,"Sir, I believe that position was informally promised to me..."
+72475,285,138,687000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh Smithers, I would have said anything to get your stem cells. Now, welcome aboard."
+72476,285,139,694000,Homer Simpson,Springfield Nuclear Power Plant,You're covered with a very fine fuzz.
+72478,285,141,701000,Homer Simpson,Simpson Home,Hardly working...
+72479,285,142,704000,Marge Simpson,Simpson Home,Where did you get that suit?
+72480,285,143,705000,Homer Simpson,Simpson Home,"Whoa, whoa, one question at a time. Yes, you?"
+72481,285,144,709000,Marge Simpson,Simpson Home,"Look, I'm really starting to worry. There's half-eaten cupcakes everywhere, we're all out of paperclips, and the curtains smell like doob!"
+72482,285,145,717000,Homer Simpson,Simpson Home,"Oh, yeah? Well, I've got news for you. I just got promoted and it's all thanks to ""Yes-I-cannabis."""
+72483,285,146,724000,Homer Simpson,Simpson Home,We have a kitchen?!
+72484,285,147,730000,Wealthy Dowager,Simpson Home,Oh now where are those three chandelier hangers I hired?
+72485,285,148,735000,Moe Szyslak,Simpson Home,"You mutton heads, this is why we can never hold down a job!"
+72486,285,149,742000,Homer Simpson,Simpson Home,Look at Shemp! He is so high!
+72487,285,150,745000,Otto Mann,Simpson Home,"Whoa-ho-ho-ho. Hey, ""Shemp"" is ""hemp"" spelled backwards."
+72488,285,151,750000,Homer Simpson,Simpson Home,"And ""Otto"" is ""Otto"" backwards."
+72489,285,152,755000,Otto Mann,Simpson Home,Now I'm scared.
+72490,285,153,757000,Marge Simpson,Simpson Home,"Homie, I don't mean to nag, but what does this have to do with healing your eyes?"
+72491,285,154,761000,Homer Simpson,Simpson Home,"As soon as I graduate, I am so outta here."
+72492,285,155,763000,Kent Brockman,Simpson Home,This just in: the Marijuana Re-Criminalization Initiative took another step forward today as supporters collected the final signatures required to place it on the ballot for next Tuesday's election.
+72493,285,156,774000,Homer Simpson,Simpson Home,"We gotta get out and stop that initiative. Marge, I'm gonna need ten thousand veggie burritos."
+72494,285,157,779000,Otto Mann,Simpson Home,No guac in mine.
+72495,285,158,781000,Marge Simpson,Simpson Home,"Good night, Homer."
+72496,285,159,782000,Otto Mann,Simpson Home,"Dude, your mom is hot."
+72499,285,162,797000,Trey Anastasio,Springfield Town Square,"Okay, okay, hold on, hold on. I smell marijuana smoke. That better be medicinal."
+72500,285,163,804000,Page McConnell,Springfield Town Square,"If Phish don't see a prescription slip, we are outta here."
+72501,285,164,807000,Jon Fishman,Springfield Town Square,"We can wait all night, people."
+72502,285,165,809000,Jon Fishman,Springfield Town Square,"Here we go. Whoa, this guy is seriously ill."
+72503,285,166,816000,Hans Moleman,Springfield Town Square,My doctor never told me that. I had to hear it from Phish.
+72504,285,167,821000,Trey Anastasio,Springfield Town Square,"A-one, a-two, a-you-know-what-to-do."
+72506,285,169,843000,Page McConnell,Springfield Town Square,"Thank you. And now, a man who's a real poth-ead ... I'm sorry, pothead... Homer Simpson!"
+72507,285,170,854000,Homer Simpson,Springfield Town Square,"Good afternoon. I want to thank you all for coming down here, taking time off from your jobs..."
+72508,285,171,860000,SOME AUDIENCE MEMBERS,Springfield Town Square,/ Jobs? / What?
+72509,285,172,862000,Homer Simpson,Springfield Town Square,'Cause we need to keep medical marijuana legal!
+72510,285,173,867000,Audience,Springfield Town Square,/ Yes! Yes!
+72511,285,174,867000,Homer Simpson,Springfield Town Square,"Whether you suffer from glaucoma, or you just rented ""The Matrix,"" medical marijuana can make things fabulous. Medically."
+72512,285,175,877000,Homer Simpson,Springfield Town Square,"So my mellow fellow citizens, when you go into that voting booth on Tuesday the seventh..."
+72513,285,176,884000,Mike Gordon,Springfield Town Square,"Uh, Homer? That-that was yesterday."
+72515,285,177,890000,Homer Simpson,Springfield Town Square,"Oh man, they already voted. And we lost!"
+72517,285,179,897000,Homer Simpson,Springfield Town Square,"Oh, man, I can't believe we spaced on the date."
+72518,285,180,901000,Otto Mann,Springfield Town Square,What are we gonna do?
+72519,285,181,902000,Homer Simpson,Springfield Town Square,"Well, we can't just stand here staring at our hands."
+72520,285,182,905000,Homer Simpson,Springfield Town Square,"Although, wow!"
+72521,285,183,908000,Otto Mann,Springfield Town Square,"Oh, that's right. I married that chick."
+72523,285,185,915000,Otto Mann,Stage,"They call 'em fingers, but I never see them fing. Oh, there they go."
+72525,285,187,923000,Chief Wiggum,Springfield Police Station,"There we go, dump all that medical marijuana on there."
+72526,285,188,924000,Townspeople,Springfield Police Station,/ Whoa...
+72527,285,189,933000,Chief Wiggum,Springfield Police Station,"Actually, that smoke is a little too inviting. Ah, throw on that sack of barber hair."
+72530,285,192,943000,Homer Simpson,Simpson Home,"Oh, I could have smoked that pot. And worn that hair."
+72531,285,193,948000,Marge Simpson,Simpson Home,"Homie, you don't need drugs anymore. Your eyes are all better."
+72532,285,194,952000,Homer Simpson,Simpson Home,Eyes? What the hell are you talkin' about?
+72533,285,195,954000,Lisa Simpson,Simpson Home,"I want my old Dad back. The one who was yelling all the time and... you know, I'm not really sure what I want."
+72534,285,196,961000,Marge Simpson,Simpson Home,"Homer, it's over. I want you to look at your children and promise them you will never do drugs again."
+72535,285,197,970000,Homer Simpson,Simpson Home,All right. I'll do it for my kids.
+72536,285,198,973000,Bart Simpson,Simpson Home,"As long as you're doin' things for me, would you tie up your bathrobe when you walk around the house."
+72537,285,199,977000,Homer Simpson,Simpson Home,Never!
+72538,285,200,981000,Otto Mann,Simpson Home,"Yeah, I can still crash here, right?"
+72539,285,201,983000,Homer Simpson,Simpson Home,Get out.
+72540,285,202,985000,Otto Mann,Simpson Home,"Remember when I dropped my keys and, and you thought the phone was ringin'?"
+72541,285,203,989000,Homer Simpson,Simpson Home,"Oh, yeah. Get out."
+72543,285,205,992000,Moe Szyslak,Moe's Tavern,"What's the matter, Homer? You're drunk but you're not like sloppy drunk."
+72544,285,206,998000,Homer Simpson,Moe's Tavern,Going cold turkey isn't as delicious as it sounds.
+72545,285,207,1001000,Moe Szyslak,Moe's Tavern,"Look, I, I'm really glad you're off the wacky tobacky."
+72547,285,208,1004000,Lenny Leonard,Moe's Tavern,"Yeah, you were gettin' all spacey and everything. We were gonna have an intervention."
+72548,285,209,1008000,Carl Carlson,Moe's Tavern,"Yeah, but at the planning party I got alcohol poisoning. Heh. I nearly died."
+72550,285,211,1015000,Moe Szyslak,Moe's Tavern,I was already makin' excuses not to go to your funeral.
+72553,285,214,1020000,Homer Simpson,Simpson Home,"It's been three days. And my mind is clearer, my sperm count is up, and I'm able to recognize simple shapes and patterns."
+72554,285,215,1029000,Lisa Simpson,Simpson Home,"Dad, you just said that three minutes ago."
+72555,285,216,1031000,Homer Simpson,Simpson Home,"Unregardless, I will no longer be a slave to this."
+72556,285,217,1036000,Marge Simpson,Simpson Home,Why are you keeping that thing?
+72557,285,218,1037000,Homer Simpson,Simpson Home,"As a reminder, Marge."
+72558,285,219,1041000,Homer Simpson,Simpson Home,Y'ello.
+72560,285,221,1042000,C. Montgomery Burns,Burns Manor,"Ahoy-hoy, executive V.P. I'm putting the final touches on my speech to the investors and I need your generous guffaws."
+72561,285,222,1049000,Homer Simpson,Burns Manor,But I can't find you funny anymore.
+72562,285,223,1051000,C. Montgomery Burns,Burns Manor,I'll either tickle your ribs or feed them to my dogs! Now we're ordering out. What would you like on your pizza pie? Extra cheese?! Who do you take me for? Lorenzo De Medici?
+72563,285,224,1062000,C. Montgomery Burns,Burns Manor,See you soon.
+72565,285,226,1064000,Marge Simpson,Simpson Home,"Don't worry, Homer. You don't need Mary Jane to laugh at Mr. Burns' jokes. Just picture him naked."
+72567,285,228,1072000,Marge Simpson,Simpson Home,"Or, or, um, with, with a funny hat on."
+72570,285,231,1079000,C. Montgomery Burns,Burns Manor,So profit margins will be thinner than Louise Brooks' negligee.
+72571,285,232,1088000,C. Montgomery Burns,Burns Manor,"You know, Louise Brooks. The silent star of ""Lulu."""
+72572,285,233,1092000,Waylon Smithers,Burns Manor,"One of us has got to start laughing. If Mr. Burns gets flop sweat, he'll die of dehydration."
+72573,285,234,1098000,C. Montgomery Burns,Burns Manor,"Oh, I'm drenched with sweat."
+72574,285,235,1103000,C. Montgomery Burns,Burns Manor,"I'm going to take a bathiola. When I come back, you'd better be laughing."
+72575,285,236,1111000,Homer Simpson,Burns Manor,This stuff can make anything funny... even the show that follows Friends. But I promised my family I wouldn't smoke it anymore.
+72546,285,237,1118000,Waylon Smithers,Burns Manor,Well I've gotta do something.
+72576,285,238,1120000,Homer Simpson,Burns Manor,"Start inhalin', Waylon."
+72577,285,239,1124000,Waylon Smithers,Burns Manor,"This suit used to belong to Judy Garland. Ah, we could sing a song if you don't mind being Mickey Rooney."
+72578,285,240,1130000,Homer Simpson,Burns Manor,You mean that guy on 60 Minutes who yells all the time?
+72579,285,241,1132000,Waylon Smithers,Burns Manor,"60 Minutes? Oh my God, Mr. Burns has been in the tub for an hour!"
+72582,285,244,1143000,Waylon Smithers,Burns Manor,"Oh, Mr. Burns! You were too beautiful for this world."
+72583,285,245,1151000,Homer Simpson,Burns Manor,"Oh, man. Oh, man. We killed Mr. Burns. Mr. Burns is gonna be so mad."
+72584,285,246,1156000,Waylon Smithers,Burns Manor,The investors' meeting is in twenty minutes.
+72585,285,247,1159000,Homer Simpson,Burns Manor,So what? Mr. Burns is dead.
+72586,285,248,1160000,Waylon Smithers,Burns Manor,"We can carry on. Michael Eisner's been dead for five years. Ted Turner's just a hologram. Now, we've gotta think."
+72588,285,250,1167000,Bill Clinton,Springfield Nuclear Power Plant,"So when somebody says I was an embarrassment to the country, I say it depends on what the meaning of ""was"" is, jerk. You owe me two hundred thousand dollars. Goodnight, everybody!"
+72590,285,252,1182000,Homer Simpson,Springfield Nuclear Power Plant,"Bill Clinton, everyone! He's Jimmy Carter with a Fox attitude."
+72591,285,253,1187000,Homer Simpson,Springfield Nuclear Power Plant,And now a man you will see is definitely not dead... Mr. Montgomery Burns!
+72592,285,254,1199000,Homer Simpson,Springfield Nuclear Power Plant,"Mr. Burns, as we're running long, may we skip your speech and go directly to the questions?"
+72593,285,255,1207000,Dr. Nick Riviera,Springfield Nuclear Power Plant,"Mr. Burns, a two-part question: one, when will you see a profit again? And"
+72594,285,256,1212000,Dr. Nick Riviera,Springfield Nuclear Power Plant,"two, what's that red stuff coming out of your ear?"
+72595,285,257,1216000,Homer Simpson,Springfield Nuclear Power Plant,"Mr. Burns, may I field that one?"
+72596,285,258,1220000,Homer Simpson,Springfield Nuclear Power Plant,It's true we're losing money...
+72597,285,259,1224000,Homer Simpson,Springfield Nuclear Power Plant,"But there's no reason we can't dance, dance, dance the night away."
+72599,285,261,1256000,Homer Simpson,Springfield Nuclear Power Plant,Mr. Burns has left the building!
+72600,285,262,1258000,Audience,Springfield Nuclear Power Plant,We are mollified! We are mollified!
+72601,285,263,1262000,C. Montgomery Burns,Springfield Nuclear Power Plant,Brilliant! We lost sixty million dollars and they're cheering for more!
+72602,285,264,1267000,Waylon Smithers,Springfield Nuclear Power Plant,Mr. Burns! You're alive!
+72604,285,265,1270000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Yes, I regained consciousness during my big dance number. Those strings pulling me every which way jostled my heart from its slumber."
+72605,285,266,1277000,Homer Simpson,Springfield Nuclear Power Plant,And you wanted to take him to the hospital.
+72606,285,267,1280000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, and you didn't? Well, the worm has finally shown his fangs. Smithers, make me slap him."
+72607,285,268,1285000,C. Montgomery Burns,Springfield Nuclear Power Plant,You call that a slap? Make me slap you.
+72608,285,269,1288000,C. Montgomery Burns,Springfield Nuclear Power Plant,Now both. Now just you. Now give me a taste. Now both again...
+72609,285,270,1298000,C. Montgomery Burns,Springfield Nuclear Power Plant,Now all three... Excellent.

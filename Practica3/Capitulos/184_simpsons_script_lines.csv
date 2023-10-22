@@ -1,0 +1,260 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+41883,184,1,47000,Dr. Julius Hibbert,Springfield Convention Center,"Well, your cholesterol level is lethally high, Homer. But I'm more concerned about your gravy level."
+41884,184,2,53000,Homer Simpson,Springfield Convention Center,Now wait a second. You doctors have been telling us to drink eight glasses of gravy a day!
+41885,184,3,59000,Dr. Julius Hibbert,Springfield Convention Center,"Well, you're a little confused."
+41854,184,4,62000,Homer Simpson,Springfield Convention Center,"Oh-ho, confused, would we?"
+41886,184,5,64000,Maude Flanders,Springfield Convention Center,"Okay, gentlemen, I want you to raise your hand when you hear the tone."
+41887,184,6,68000,Old Jewish Man,Springfield Convention Center,You can't tell me what to do!
+41888,184,7,75000,Grampa Simpson,Springfield Convention Center,Nothin' yettt...
+41889,184,8,85000,Marge Simpson,Springfield Convention Center,"Now make no mistake. When I say ""first aid,"" I'm not talking about some sort of charity rock concert!"
+41890,184,9,96000,Marge Simpson,Springfield Convention Center,I'm talking about treating serious injuries.
+41891,184,10,104000,Krusty the Clown,Springfield Convention Center,"Serious injuries. Oh, that's gold."
+41892,184,11,108000,Lisa Simpson,Springfield Convention Center,"Mom, mom. I stepped in a bear trap."
+41893,184,12,111000,Marge Simpson,Springfield Convention Center,Sounds like you need some first aid.
+41894,184,13,122000,Crowd,Springfield Convention Center,Ohhh. / Bravo. / All right.
+41895,184,14,122000,Rainier Wolfcastle,Springfield Convention Center,Come on. You can't do one sit-up?
+41896,184,15,127000,Üter,Springfield Convention Center,"I loved your last McBain movie, Mr. Wolfcastle."
+41897,184,16,130000,Rainier Wolfcastle,Springfield Convention Center,"Quit stalling, fatty."
+41898,184,17,136000,Rainier Wolfcastle,Springfield Convention Center,We can wait.
+41899,184,18,141000,Rainier Wolfcastle,Springfield Convention Center,Come to Papa.
+41900,184,19,146000,Rainier Wolfcastle,Springfield Convention Center,C'mon! Even my fat mama can touch her toes.
+41901,184,20,151000,Martin Prince,Springfield Convention Center,"Hey, Bart. We wear the same underpants."
+41903,184,22,157000,Kent Brockman,Simpson Home,"Results from yesterday's Health Fair are in and the news is not good. Springfield is in terrible shape, particularly our young boys."
+41904,184,23,169000,Lisa Simpson,Simpson Home,"Hey, Tubby. Want another Pop-Tart, Tubby?"
+41905,184,24,174000,Bart Simpson,Simpson Home,I'm comfortable with who I am.
+41906,184,25,175000,Homer Simpson,Simpson Home,You're a disgrace to this family.
+41907,184,26,178000,Kent Brockman,Simpson Home,In this reporter's opinion it's time for our lard-laden lads to shape up. Get out and try fun activities like military service...Frenetic dancing...
+41908,184,27,178000,Kent Brockman,Simpson Home,Or good old-fashioned Pee Wee Football!
+41909,184,28,189000,Homer Simpson,Simpson Home,"There you go, Bart, Pee Wee Football will melt away those unsightly pounds and inches."
+41910,184,29,194000,Bart Simpson,Simpson Home,"Yeah, but I could get seriously hurt."
+41911,184,30,196000,Homer Simpson,Simpson Home,Then it's settled.
+41913,184,32,197000,Rod Flanders,Flanders Home,"We don't have to play football do we, Daddy?"
+41914,184,33,201000,Ned Flanders,Flanders Home,"Ho-ho-ho, you betcha. Team sports'll keep you away from temptations like rock music and girls."
+41915,184,34,209000,Todd Flanders,Flanders Home,Yayyy!
+41916,184,36,209000,Luann Van Houten,Van Houten Home,"You know, Milhouse, you are getting a little doughy."
+41917,184,37,212000,Milhouse Van Houten,Van Houten Home,"Aw, can't I just have the surgery?"
+41920,184,40,220000,Marge Simpson,Sportacus,"He's going to need a... you know, ""protection."""
+41921,184,41,224000,Clerk,Sportacus,"Sure, one helmet comin' up."
+41922,184,42,226000,Marge Simpson,Sportacus,I was thinking more like protection for... down there.
+41923,184,43,231000,Clerk,Sportacus,Ohhh. Why didn't you say so? Knee pads. You got it.
+41924,184,44,236000,Marge Simpson,Sportacus,"I'm talking about his ""personal area."""
+41925,184,45,239000,Clerk,Sportacus,"Ahhh, ahh, say no more... I read you loud and clear. The old shoulder pads."
+41926,184,46,245000,Marge Simpson,Sportacus,"Look, I want a cup."
+41927,184,47,248000,Clerk,Sportacus,"Cup, could you spell that?"
+41928,184,48,250000,Marge Simpson,Sportacus,C-U-P! I wanna C-U-... Oh my god!
+41930,184,50,261000,Bart Simpson,Store,"Okay, Milhouse, lets try out the new cup."
+41931,184,51,265000,Bart Simpson,Store,Again.
+41932,184,52,271000,Marge Simpson,Store,"Milhouse, stop that!"
+41934,184,54,278000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Little higher, Wendell... A lot higher, Martin... Ah, Ralph, that's a basketball."
+41935,184,55,289000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Oof! Okay, Nelson's our quarterback."
+41936,184,56,289000,Nelson Muntz,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Thanks, four-eyes."
+41937,184,57,294000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Ralph, you'll be on special teams."
+41938,184,58,296000,Ralph Wiggum,SPRINGFIELD PEE WEE FOOTBALL FIELD,I'm special!
+41939,184,59,297000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"And, uh, Bart, you'll be a tackle."
+41940,184,60,299000,Bart Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,Cool!
+41941,184,61,302000,Martin Prince,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Careful, Bart, you'll break my calculator, by which I mean my head."
+41942,184,62,306000,Lisa Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,What position have you got for me?
+41943,184,63,308000,Players,SPRINGFIELD PEE WEE FOOTBALL FIELD,Huh? / Wha? / Etc.
+41944,184,64,310000,Lisa Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,That's right. A girl wants to play football. How about that?
+41945,184,65,314000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Well, that's super-duper, Lisa! In fact, we already have four girls on the team."
+41946,184,66,319000,Lisa Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,You do?
+41947,184,67,320000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Uh-huh, but we'd love to have you on board."
+41948,184,68,323000,Lisa Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,Well... football's not really my thing.
+41950,184,69,327000,Lisa Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"After all, what civilized person would play a game with the skin of an innocent pig?!"
+41951,184,70,332000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Well, actually, Lisa, these balls are synthetic."
+41952,184,71,335000,JANEY,SPRINGFIELD PEE WEE FOOTBALL FIELD,"And for every ball you buy, a dollar goes to Amnesty International."
+41953,184,72,339000,Lisa Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,I've gotta go.
+41954,184,73,347000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,Who are we?
+41955,184,74,348000,Team,SPRINGFIELD PEE WEE FOOTBALL FIELD,The Wildcats!
+41956,184,75,350000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,Who are we going to beat?
+41957,184,76,351000,Team,SPRINGFIELD PEE WEE FOOTBALL FIELD,The Wildcats!
+41958,184,77,353000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Hey, Flanders. You're the worst coach this team has ever had."
+41959,184,78,357000,Marge Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,He's the only coach this team has ever had. And the season hasn't even started yet.
+41960,184,79,363000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Yeah, well... he's wearing that hat like an idiot."
+41961,184,80,366000,Marge Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"You know, Homer, it's very easy to criticize."
+41962,184,81,369000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Fun, too."
+41963,184,82,370000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"All right, Wildcats! Are you ready to give 110 per cent, take it one game at a time, and go the whole nine yards?"
+41964,184,83,377000,Team,SPRINGFIELD PEE WEE FOOTBALL FIELD,Yeah! Nine yards!
+41965,184,84,379000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Okilly-dokilly, let's put on our game faces."
+41966,184,85,392000,Nelson Muntz,SPRINGFIELD PEE WEE FOOTBALL FIELD,Gimme the ball... and your lunch money.
+41967,184,86,401000,Nelson Muntz,SPRINGFIELD PEE WEE FOOTBALL FIELD,I love this game.
+41968,184,87,411000,Marge Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Ooo, he's quite a little dancer."
+41969,184,88,414000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Ahh, you got lucky, Flanders! And fix that hat!"
+41970,184,89,418000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Yeah. Thanks for the tip, Homer..."
+41971,184,90,422000,Nelson Muntz,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Okay, Simpson, you're blocking for me on this play."
+41972,184,91,425000,Bart Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,All right!
+41973,184,92,431000,Nelson Muntz,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Hut, hut, hike, hike, HUT!"
+41974,184,93,436000,Bart Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,It's clobberin' time.
+41976,184,95,446000,Nelson Muntz,SPRINGFIELD PEE WEE FOOTBALL FIELD,"You okay, Bart?"
+41977,184,96,447000,Bart Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,Yeah.
+41978,184,97,455000,Team,SPRINGFIELD PEE WEE FOOTBALL FIELD,Yayyy! / I'm special! / Wooo! / Etc.
+41979,184,98,461000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Huh, big deal. I've been carried out of Moe's like that hundreds of times."
+41982,184,100,468000,Homer Simpson,Simpson Home,"Well, I'm tellin' ya, Flanders can't coach at all! Now I'm not the type to have a grudge for no reason..."
+41983,184,101,474000,Roy Firestone,Simpson Home,"Sir, if I could just break in for a moment..."
+41984,184,102,476000,Homer Simpson,Simpson Home,"Yes, Roy."
+41985,184,103,477000,Roy Firestone,Simpson Home,Do you have a question for Sandy Koufax?
+41986,184,104,480000,Homer Simpson,Simpson Home,"Yes. Mr. Koufax, don't you think Flanders is a big jerk? Y'ello? Y'ello?"
+41987,184,105,489000,Homer Simpson,Simpson Home,"Yeah, Homer again. I think we got cut off. Y'ello?"
+41989,184,107,503000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,Flaaaan-ders... Flaaaan-ders...
+41990,184,108,511000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,What?
+41991,184,109,513000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,Flaaaan-ders...
+41992,184,110,515000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,What?! What is it?!
+41993,184,111,517000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,Game's out there! Made you look...
+41994,184,112,522000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"They're just words, Neddie. Words can't hurt ya."
+41995,184,113,526000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,Ow! That's it!
+41996,184,114,528000,Lisa Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Dad, that was really mean."
+41997,184,115,530000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"I know, Sweetie, and I got him right in the... uh-oh."
+41998,184,116,538000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Hii-hi-hi-hi, hi, Flanders. Go Wildcats!"
+41999,184,117,541000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,Do you have a problem with the way I'm coaching?
+42000,184,118,544000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,"No, no. No, no, no. It's just that, well, like I was yelling earlier, it seems like anyone with half a brain could coach better than you."
+42001,184,119,552000,Ned Flanders,SPRINGFIELD PEE WEE FOOTBALL FIELD,"Uh-huh. Half a brain, huh? Well, you know what? It sounds like you just volunteered!"
+42002,184,120,557000,Homer Simpson,SPRINGFIELD PEE WEE FOOTBALL FIELD,Me? But you were doing such a great job.
+42005,184,123,568000,Homer Simpson,Simpson Home,You're not gonna make the team with that kinda attitude.
+42006,184,124,571000,Lisa Simpson,Simpson Home,I don't want to make the team.
+42007,184,125,573000,Homer Simpson,Simpson Home,Then why are you running the obstacle course?
+42008,184,126,576000,Marge Simpson,Simpson Home,Are you wearing my self-defense whistle?
+42009,184,127,579000,Homer Simpson,Simpson Home,You never use it.
+42011,184,129,583000,Bart Simpson,Simpson Home,"Good morning, everybody."
+42012,184,130,584000,Homer Simpson,Simpson Home,Wipe that smile off your face.
+42013,184,131,586000,Bart Simpson,Simpson Home,What did I do?
+42014,184,132,588000,Homer Simpson,Simpson Home,"I'm tired of watching you dog it on that football field. From now on, I'm gonna work you like a dog. Now go fetch me twenty laps."
+42015,184,133,594000,Bart Simpson,Simpson Home,"Oh, man."
+42016,184,134,595000,Homer Simpson,Simpson Home,Do it.
+42017,184,135,599000,Marge Simpson,Simpson Home,You shouldn't pressure Bart like that.
+42018,184,136,601000,Homer Simpson,Simpson Home,"Well, if you know a better way for me to live through my son, I'd like to hear it."
+42019,184,137,609000,Homer Simpson,Simpson Home,"I knew it. Slowing down already, huh?"
+42020,184,138,612000,Marge Simpson,Simpson Home,How can you treat him that way? Don't you remember how bad your father made you feel when you played sports?
+42021,184,139,622000,Teenage Smithers,Simpson Home,"Well, that's the end of the girls' floor exercise. Now, let's bring on the men!"
+148225,184,140,629000,Teenage Homer,Simpson Home,"Wish me luck, Dad."
+42022,184,141,630000,MIDDLE-AGE GRAMPA,Simpson Home,Just don't screw up like you always do.
+42023,184,142,649000,Teenage Lenny,Simpson Home,"Wow, he's dy-no-mite!"
+148314,184,143,653000,Teenage Marge,Simpson Home,What's his name again?
+42024,184,144,659000,MIDDLE-AGE GRAMPA,Simpson Home,You're gonna blow it!
+42025,184,145,666000,MIDDLE-AGE GRAMPA,Simpson Home,That's what I get for having faith in ya.
+42026,184,146,672000,Homer Simpson,Simpson Home,My father never believed in me.
+42027,184,147,677000,Homer Simpson,Simpson Home,"Well, I'm not gonna make the same mistake. From now on I'm gonna be kinder to my son, and meaner to my Dad."
+42029,184,149,683000,Homer Simpson,Backyard,"Quit runnin', son. I just want to give ya a big hug!"
+42039,184,150,687000,Bart's Thoughts,Backyard,It's gotta be a trick. Run like the wind.
+42030,184,151,688000,Homer Simpson,Backyard,I believe in you! Hug meeeee!
+42031,184,152,694000,Homer Simpson,Backyard,Will you hug meeeee? Hug meee!
+42033,184,154,701000,Homer Simpson,Football Field,"Good practice, team. Okay, it's time for the easiest part of any coach's job, the cuts."
+42034,184,155,708000,Homer Simpson,Football Field,"Now while I wasn't able to cut everyone I wanted to, I have cut a lot of you. Wendell is cut. Rudy is cut. Janey, you're gone. Steven, I like your hustle. That's why it was so hard to cut you."
+42035,184,156,721000,Homer Simpson,Football Field,"Congratulations, the rest of you made the team."
+42036,184,157,726000,Homer Simpson,Football Field,"Except you, you and you."
+42037,184,158,728000,Martin Prince,Football Field,Bart didn't get cut. What a surprise...
+42038,184,159,732000,Homer Simpson,Football Field,"Now just because I'm his father, he'll get no special treatment. He calls me ""Coach"" just like everyone else. Which he'll be doing... as our new starting quarterback!"
+41949,184,160,742000,Team,Football Field,Oh no. What? / No way! / Aww.
+41981,184,161,745000,Nelson Muntz,Football Field,What a rip!!
+42040,184,162,748000,Bart Simpson,Football Field,"But, Coach?"
+42041,184,163,749000,Homer Simpson,Football Field,"What is it, sweetie?"
+42042,184,164,750000,Bart Simpson,Football Field,Nelson's a great quarterback. He's carryin' this team!
+42043,184,165,753000,Team,Football Field,"Yeah. / Yeah, he's right. / He's good."
+42044,184,166,755000,Homer Simpson,Football Field,"Not any more. From now on, you're my main man. Okay, now everyone give me five laps, and hit the showers. Oh, Rod, you don't have to. You're cut."
+42046,184,168,768000,Bart Simpson,Homer's Car,But I can't play quarterback. I don't even know how.
+42047,184,169,771000,Homer Simpson,Homer's Car,"Son, you can do anything you want. I have total faith in you."
+42048,184,170,775000,Bart Simpson,Homer's Car,Since when?
+42049,184,171,776000,Homer Simpson,Homer's Car,Since your mother yelled at me. Now how 'bout that hug?
+42050,184,172,779000,Bart Simpson,Homer's Car,"Dad, the car!"
+42051,184,173,781000,Lisa Simpson,Homer's Car,I got it.
+42053,184,175,785000,Ned Flanders,Football Field,"Good luck, Homer. No hard feelin's."
+42054,184,176,787000,Homer Simpson,Football Field,"Not so easy to keep your mouth shut now, is it, Flanders?"
+42055,184,177,792000,Bart Simpson,Football Field,"Ready. Set. Hut, hut!"
+42056,184,178,794000,Bart Simpson,Football Field,Yahh!
+42057,184,179,804000,Homer Simpson,Football Field,"It's okay, son. You'll do better next time."
+42058,184,180,809000,Milhouse Van Houten,Football Field,NopleaseBartdon't!
+42060,184,182,816000,Homer Simpson,Football Field,Look at him go!
+42061,184,183,820000,Homer Simpson,Football Field,"Exx-cellent poise, son. You panicked, but you didn't lose your cool."
+42063,184,185,829000,Players,Football Field,"Bart, over here! Come on. / Over here! / We're all open! / Over here!"
+42064,184,186,834000,Nelson Muntz,Football Field,"Just throw it, doofus!"
+42066,184,188,838000,Bart Simpson,Football Field,"Aw, crap."
+42067,184,189,843000,Homer Simpson,Football Field,"Great debut, son. You really settled in after some early jitters."
+42068,184,190,847000,Bart Simpson,Football Field,Are you kidding? I reeked!
+42069,184,191,849000,Homer Simpson,Football Field,"Oh, really? Do reeky players get the game ball?"
+42070,184,192,853000,Homer Simpson,Football Field,"Hey, everybody! Let's hear it for Bart!"
+42071,184,193,859000,Bart Simpson,Football Field,"Gimme a ""B""?"
+42072,184,194,861000,Nelson Muntz,Football Field,"I won't give you a ""B"" but I'll tear ya a new ""A."""
+42073,184,195,861000,Milhouse Van Houten,Football Field,"Yeah, if I wasn't your friend, I'd tell you you sucked."
+42074,184,196,869000,Sherri Mackleberry,Football Field,"You ruined our undefeated season. You ruined everything, ruiner. My sister likes you."
+42075,184,197,876000,Nelson Muntz,Football Field,"Listen here, daddy's boy. You cost us one more game and you're dead."
+42076,184,198,883000,Ralph Wiggum,Football Field,You're going to heaven!
+42078,184,200,896000,Bart Simpson,Simpson Home,It's gonna take a miracle for me to become a good quarterback.
+42079,184,201,903000,Stranger,Simpson Home,"Excuse me, son."
+42080,184,202,904000,Bart Simpson,Simpson Home,"Wow, Joe Namath!"
+42081,184,203,906000,Joe Namath,Simpson Home,That's right. My car broke down in front of your house.
+42082,184,204,909000,Bart Simpson,Simpson Home,"I cannot believe you are here! Do you think, maybe, you could give me some pointers?"
+42083,184,205,914000,Joe Namath,Simpson Home,Sure! There's only one thing you need to know to be a great quarterback...
+42084,184,206,920000,Woman,Simpson Home,"Joe, honey. I fixed it. It was just vapor lock."
+42085,184,207,923000,Joe Namath,Simpson Home,"Ah, oops. Hey, look, I gotta run. Remember what I told ya."
+42086,184,208,930000,Bart Simpson,Simpson Home,"Okay, Bart. Concentrate."
+42087,184,209,935000,Joe Namath,Simpson Home,Remember what I told ya...
+42088,184,210,936000,Joe Namath,Simpson Home,Just one thing... My car broke down... I'm Joe Namath... My car broke down...
+42089,184,211,942000,Woman,Simpson Home,It was just vapor lock... vapor lock... vapor lock... vapor lock...
+42090,184,212,949000,Bart Simpson,Simpson Home,I'm dead.
+42092,184,214,950000,Bart Simpson,Lisa's Bedroom,"... So if I play, the guys are gonna kill me. If I don't, I'll be letting Homer down. What am I gonna do?"
+42093,184,215,957000,Lisa Simpson,Lisa's Bedroom,"Well, I know you don't want to disappoint Dad, but how do you feel about lying to him?"
+42094,184,216,961000,Bart Simpson,Lisa's Bedroom,Good.
+42096,184,218,963000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Ah, you guys are some k..."
+42097,184,219,968000,Bart Simpson,SPRINGFIELD FOOTBALL FIELD,"Dad, I've got some bad news."
+42098,184,220,970000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Ohh, your Mother's not pregnant, is she?"
+42099,184,221,973000,Bart Simpson,SPRINGFIELD FOOTBALL FIELD,"No, I got hit by a couple of cars. I won't be able to play today."
+42100,184,222,977000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Ohh, boy. Well, I'll just have to go to my back up plan... Nelson, how's your arm feelin'?"
+42101,184,223,985000,Nelson Muntz,SPRINGFIELD FOOTBALL FIELD,Great!
+42102,184,224,986000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Good, take this note over to the referee."
+42103,184,225,988000,Nelson Muntz,SPRINGFIELD FOOTBALL FIELD,We forfeit?
+42104,184,226,990000,Other Players,SPRINGFIELD FOOTBALL FIELD,"Forfeit? / What? / Come on! / Oh, man."
+42105,184,227,993000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Come on, guys. We can't play without Bart. He's the heart of this team!"
+42106,184,228,997000,Bart Simpson,SPRINGFIELD FOOTBALL FIELD,"No, I'm not. I suck."
+42107,184,229,999000,Nelson Muntz,SPRINGFIELD FOOTBALL FIELD,It's true. He does.
+42108,184,230,1001000,Team,SPRINGFIELD FOOTBALL FIELD,"Yeah, he does. / And how."
+42109,184,231,1003000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Don't listen to them, son. I have total faith in you."
+42110,184,232,1007000,Bart Simpson,SPRINGFIELD FOOTBALL FIELD,"You don't get it, do you? I don't want to be your stupid quarterback! I quit!"
+42111,184,233,1013000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"What? Well, I got news for you, Mister. You can't quit! You're cut! You too, Milhouse."
+42112,184,234,1020000,Milhouse Van Houten,SPRINGFIELD FOOTBALL FIELD,All right!
+42114,184,236,1033000,Marge Simpson,Simpson Home,"So like I said, I've never had a tick burrow in so deep. Little guy's just got a mind of his own."
+42115,184,237,1040000,Lisa Simpson,Simpson Home,"Mom, please, we're eating!"
+42116,184,238,1042000,Marge Simpson,Simpson Home,"Well, at least I'm making conversation."
+42117,184,239,1044000,Bart Simpson,Simpson Home,"May I be excused, Mom?"
+42118,184,240,1046000,Homer Simpson,Simpson Home,"Oh, so now you're quitting dinner, too."
+42119,184,241,1048000,Marge Simpson,Simpson Home,"Homer, please."
+42120,184,242,1049000,Homer Simpson,Simpson Home,"I didn't raise him to be a quitter, Marge. It must have been you. You've quit every job you've ever had: cop, pretzel vendor, church counselor, professional gambler..."
+42121,184,243,1058000,Marge Simpson,Simpson Home,He's doing what he thinks is best...
+42122,184,244,1060000,Homer Simpson,Simpson Home,"Well, if quitting is the best, maybe I should just quit my job."
+42123,184,245,1068000,C. Montgomery Burns,Simpson Home,Ahoy-hoy-hoy?
+42124,184,246,1070000,Homer Simpson,Simpson Home,"Mr. Burns, this is Homer J. Simpson, the father of the big quitter. Well, I just wanted to tell you I'm a big quitter, too, and I quit!"
+42125,184,247,1082000,Marge Simpson,Simpson Home,"Homer, Mr. Burns can't see you winking."
+42126,184,248,1084000,Homer Simpson,Simpson Home,So...
+42128,184,250,1087000,Nelson Muntz,SPRINGFIELD FOOTBALL FIELD,"Let's go twenty-four, hut!"
+42129,184,251,1089000,Nelson Muntz,SPRINGFIELD FOOTBALL FIELD,"Go long! Go long! Aw hell, I'll do it myself."
+42130,184,252,1104000,Nelson Muntz,SPRINGFIELD FOOTBALL FIELD,I gotta quit smoking.
+42131,184,253,1108000,HANK,SPRINGFIELD FOOTBALL FIELD,We drove 2000 miles for this?
+42132,184,254,1110000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"We're in the championship. Way to go, team!"
+42133,184,255,1115000,Nelson Muntz,SPRINGFIELD FOOTBALL FIELD,"Gee thanks, Coach."
+42134,184,256,1119000,Eddie,SPRINGFIELD FOOTBALL FIELD,"Great game, son. Come on, I'm taking you to Hooters."
+42135,184,257,1123000,Nelson Muntz,SPRINGFIELD FOOTBALL FIELD,"Aw, I don't wanna bother Mom at work."
+42136,184,258,1128000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Well, Bart, looks like it's just you and... Ohhh."
+42138,184,260,1139000,Female Voices,Kwik-E-Mart,I'll scratch you. The hair. The hair. Slut. Loser. Skag. Skag. Skag.
+42139,184,261,1149000,Homer Simpson,Kwik-E-Mart,"I'm feelin' kinda low, Apu. You got any of that beer that has candy floatin' in it? You know, ""Skittlebrau""?"
+42140,184,262,1155000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Such a product does not exist, sir. I think you must have dreamed it."
+42141,184,263,1159000,Homer Simpson,Kwik-E-Mart,"Oh. Well, then, just give me a six-pack and a couple bags of Skittles."
+42142,184,264,1172000,Homer Simpson,Kwik-E-Mart,"Hello, son."
+42143,184,265,1173000,Homer Simpson,Kwik-E-Mart,"I wanna apologize. I just got so caught up trying to encourage you, I was blinded to your stinky performance. If you forgive me, I promise I'll never encourage you again."
+42144,184,266,1189000,Homer Simpson,Kwik-E-Mart,I've got lots of quarters.
+42145,184,267,1193000,Bart Simpson,Kwik-E-Mart,This thing only takes dollars.
+42146,184,268,1195000,Homer Simpson,Kwik-E-Mart,"Aww... You know, tomorrow's the championship game and I could sure use a good offensive tackle."
+42147,184,269,1204000,Bart Simpson,Kwik-E-Mart,But I thought Uter took my place.
+42148,184,270,1206000,Homer Simpson,Kwik-E-Mart,Consider him cut.
+42150,184,272,1218000,Marge Simpson,SPRINGFIELD FOOTBALL FIELD,"Wow, Homer coaching in the championship game. You must be pretty proud of your son."
+42151,184,273,1223000,Grampa Simpson,SPRINGFIELD FOOTBALL FIELD,"You'd think so, wouldn't ya?"
+42152,184,274,1230000,Nelson Muntz,SPRINGFIELD FOOTBALL FIELD,"Time for one last play, coach."
+42153,184,275,1232000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Hold on, I'm workin' it out."
+42154,184,276,1236000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Okay. Half of you vibrate that way, two of you fall down, Nelson, you just spin around in a circle."
+42155,184,277,1246000,Chief Wiggum,SPRINGFIELD FOOTBALL FIELD,"All right, I've got an arrest warrant here for a Nelson Muntz. Uh, which one of you little punks is Muntz?"
+42156,184,278,1253000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Oh no, my quarterback. What are we gonna do?"
+42157,184,279,1255000,Bart Simpson,SPRINGFIELD FOOTBALL FIELD,"It's okay Dad, I can fill in for Nelson."
+42158,184,280,1257000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,"Are you sure, son?"
+42159,184,281,1260000,Homer Simpson,SPRINGFIELD FOOTBALL FIELD,I knew I could count on you.
+42161,184,283,1282000,Bart Simpson,Police Car,"So what's the charge, Chief? Vandalism? Smoking?"
+42162,184,284,1284000,Chief Wiggum,Police Car,"You know what you did, Muntz. Burglary and arson. You're goin' away for a long time."
+42163,184,285,1289000,Bart Simpson,Police Car,Wuh?
+42166,184,286,1294000,Joe Namath,Police Car,"Poor Bart... You know we had a lot of fun tonight, but there's nothing funny about... vapor lock. It's the third most common cause of car stallings. So please, take care of your car and get it checked. I'm Joe Namath. Goodnight."
+42167,184,287,1315000,Homer Simpson,Police Car,"Scully, you're cut. Ehhh, Brooks, Groening, Simon, you're all cut. Castellaneta, gone. Kavner, cut. Cartwright, cut. Smith, sorry, cut. Azaria and Shearer, you're cut. Firestone, you're cut. So is Judge. Namath, you stay. All of those people are cut. Phil, Schultz and Wolf and Silverman. Goldreyer, O'Brien, Dolye, Selman. I don't know what... I don't know what you're doin' here, 'cause you're all cut. Pietila, Clan..., Kuwahaha... There're so many cuts here look, I'll just post 'em up and you just see where your name is. Oooo, look at how many cuts there are there. Ohhh, boy, you're cut. All of you. He's cut, I cut you! You're cut too, Shooshie!"

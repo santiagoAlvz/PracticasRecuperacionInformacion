@@ -1,0 +1,216 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+103764,400,26,86000,Marge Simpson,Patty and Selma's Apartment,Kitty cat!
+103765,400,27,91000,Marge Simpson,Patty and Selma's Apartment,Elmo!
+103766,400,28,97000,Marge Simpson,Patty and Selma's Apartment,Um... um...
+103767,400,29,102000,Marge Simpson,Patty and Selma's Apartment,Watering can!
+103768,400,30,106000,Patty Bouvier,Patty and Selma's Apartment,This is a nightmare.
+103769,400,31,107000,Selma Bouvier,Patty and Selma's Apartment,We're getting blown out of the water!
+103770,400,32,109000,Marge Simpson,Patty and Selma's Apartment,What can I say? Maggie and I share a special bond.
+103771,400,33,118000,Marge Simpson,Patty and Selma's Apartment,"""School bus..."" ""Bart and Lisa?"" Bart and Lisa are almost home from school! And we have a dentist's appointment at three o'clock! Thanks, Maggie!"
+103772,400,34,130000,Patty Bouvier,Patty and Selma's Apartment,We win by forfeit!
+103773,400,35,132000,Selma Bouvier,Patty and Selma's Apartment,The sweetest win there is!
+103775,400,37,139000,Marge Simpson,Marge's Car,It won't start!
+103776,400,38,142000,Marge Simpson,Marge's Car,I'll just use Homer's Triple A card.
+103777,400,39,144000,Marge Simpson,Marge's Car,American Applesauce Association?!
+103778,400,40,148000,Marge Simpson,Marge's Car,We're gonna have to run. There isn't even time to stretch my quads!
+103779,400,41,152000,Marge Simpson,Marge's Car,Marge takes off in a sprint .
+103780,400,42,152000,Marge Simpson,Marge's Car,My quads! Every stride is a nightmare!
+103783,400,45,177000,Marge Simpson,Springfield Street,Oops.
+103784,400,46,181000,Marge Simpson,Springfield Street,"How you holdin' up, Maggie?"
+103790,400,52,198000,Mayor Joe Quimby,Springfield,"Er, um, ouch!"
+103791,400,53,198000,Marge Simpson,Springfield,Sorry-sorry-sorry!
+103794,400,56,207000,Barney Gumble,SEWER,Hey Marge!
+103797,400,59,235000,Marge Simpson,Simpson Home,We're gonna make it!
+103798,400,60,238000,Helen Lovejoy,Simpson Home,"Marge Simpson, I just heard the most delicious piece of gossip!"
+103799,400,61,241000,Marge Simpson,Simpson Home,Tell me later!
+103801,400,63,246000,Marge Simpson,Simpson Living Room,"Oh hi, kids. You're just in time to go to the dentist!"
+103802,400,64,249000,Bart Simpson,Simpson Living Room,Dentist?! You said we were going to ride dirt bikes around the cemetery!
+103803,400,65,254000,Lisa Simpson,Simpson Living Room,"Oh Bart, you fall for that every six months."
+103804,400,66,257000,Homer Simpson,Simpson Living Room,"Hey suckers, check it out. Marge is taking me to ride dirt bikes at the cemetery."
+103805,400,67,263000,Lisa Simpson,Simpson Living Room,"You're going to the dentist too, Dad."
+103806,400,68,265000,Homer Simpson,Simpson Living Room,"""Why the cemetery?"" I wondered. But my dreams were too strong."
+103809,400,71,274000,Kelly,DENTAL COMPLEX,"Mr. Simpson, have you been flossing regularly?"
+103810,400,72,276000,Homer Simpson,DENTAL COMPLEX,"Absolutely, all the time. I go to the floss store and they're like, ""Whoa, there he is again."" 'Cause I buy so much floss."
+103811,400,73,286000,Kelly,DENTAL COMPLEX,Well let's just get started.
+103812,400,74,289000,Homer Simpson,DENTAL COMPLEX,"Oh God, my gums! They hurt so much!"
+103813,400,75,294000,Kelly,DENTAL COMPLEX,I haven't started yet.
+103814,400,76,295000,Homer Simpson,DENTAL COMPLEX,"I know, but a breeze from that window went in my mouth."
+103704,400,77,304000,Homer Simpson,DENTAL COMPLEX,You butcher!
+103816,400,80,306000,Mother,Dentist's Office,"Don't worry, sweetie -- I'm sure that man has some special tooth problem."
+103817,400,81,310000,Homer Simpson,Dentist's Office,I don't even have a special tooth problem! This is just a routine check-up! The bib is choking me!
+103818,400,82,321000,Homer Simpson,Dentist's Office,It's over? That wasn't so bad.
+103820,400,84,325000,Dr. Hwang,DENTAL COMPLEX,This tape explains oral hygiene in a way that's exciting for kids.
+103821,400,85,342000,Hip Hop-style Announcer,DENTAL COMPLEX,"The U.S. Dental Association presents... ""Menace Tooth Society""."
+103822,400,86,342000,Tooth Decay,DENTAL COMPLEX,"Damn, baby got bacteria! You wanna stick it to these whiteys?"
+103823,400,87,346000,Gum Disease,DENTAL COMPLEX,"Hey, I'm down with O.P.P. -- Ongoing Periodontal Problems. Break it down!"
+103824,400,88,363000,Bad-ass Voice,DENTAL COMPLEX,"Hey, you lowlife degenerates! Stop illin' with the fillin'!"
+103825,400,89,370000,Tooth Decay,DENTAL COMPLEX,Luda-Crest!
+103826,400,90,377000,Luda-Crest,DENTAL COMPLEX,"I'M THE ENEMY OF THE CAVITY / UNSTOPPABLE LIKE GRAVITY / SO BRUSH WITH REGULARITY / OR YOU WILL FACE CALAMITY / I'LL SEE YOU IN ATLANTA, G.A. / DIRTY, DIRTY MOUTH, Y'ALL!"
+103827,400,91,388000,Lisa Simpson,DENTAL COMPLEX,"This film is against tooth decay, but it also kind of glamorizes it. Mixed signals, hmm."
+103828,400,92,396000,Homer Simpson,DENTAL COMPLEX,This is the greatest movie ever!
+103829,400,93,398000,Lisa Simpson,DENTAL COMPLEX,"Dad, that's ludicrous!"
+103830,400,94,400000,Homer Simpson,DENTAL COMPLEX,I have a right to my views.
+103831,400,95,402000,Lisa Simpson,DENTAL COMPLEX,"No! I mean Chris ""Ludacris"" Bridges, right here in the dental plaza!"
+103832,400,96,407000,Ludacris,DENTAL COMPLEX,"Hey man, that video was made for a one-time only showing in Canada! Understand? Do ya?"
+103833,400,97,412000,Dr. Hwang,DENTAL COMPLEX,"I'm sorry, there must have been some sort of misunder--"
+103834,400,98,415000,Ludacris,DENTAL COMPLEX,"Expect a letter from Cap In The Ass Productions and its head legal counsel, Ms. Melissa Burlingame! Peace out!"
+103836,400,100,424000,2nd Hygienist,DENTAL TREATMENT ROOM,Here's a free toothbrush -- keep those teeth clean!
+103837,400,101,426000,Bart Simpson,DENTAL TREATMENT ROOM,"So you're saying I should do your job, for you, at home, for free. You wish."
+103839,400,103,435000,Dental Assistant,DENTAL COMPLEX,"Okay, Principal Skinner. I want you to relax."
+103841,400,105,438000,Dental Assistant,DENTAL ROOM,Just lie completely at ease while I administer the nitrous.
+103842,400,106,442000,Seymour Skinner,DENTAL ROOM,I shall.
+103843,400,107,446000,Dental Assistant,DENTAL ROOM,The dentist will be here in a minute. He'll know exactly what he's doing. Don't resist in any way.
+103847,400,111,461000,Bart Simpson,Hallway,"Good afternoon, Principal Stinkface."
+103848,400,112,463000,Seymour Skinner,Hallway,Dr. Bart.
+103849,400,113,465000,Bart Simpson,Hallway,"Let's see... according to your charts, you're due for your annual throat scraping."
+103851,400,115,470000,Bart Simpson,Hallway,"Uh-oh, I'm feelin' a lotta cooties down there. We may need to replace a tooth."
+103852,400,116,483000,Bart Simpson,Hallway,Now rinse...
+103853,400,117,486000,Bart Simpson,Hallway,"Finally, I'm gonna take an x-ray, so lie perfectly still for twenty minutes."
+103855,400,119,492000,Marge Simpson,Simpson Car,Don't you love that clean-mouth feeling?
+103856,400,120,496000,Homer Simpson,Simpson Car,Sure do. Let's go get ice cream!
+103857,400,121,498000,Bart Simpson,Simpson Car,I can't wait to get the freshness out of my mouth!
+103858,400,122,500000,Homer Simpson,Simpson Car,I'm gonna glue my mouth shut with butterscotch!
+103859,400,123,503000,Marge Simpson,Simpson Car,Yay!
+103861,400,125,509000,Homer Simpson,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,"What the hell is a ""fundae""?"
+103862,400,126,510000,Squeaky-Voiced Teen,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,It's a sundae that's fun.
+103863,400,127,512000,Homer Simpson,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,"I like that. But I'm on a bit of a health kick, so I'll take the low-fat vanilla... with the following mix-ins: Snickles, Gooey Bears, Charlottesville Chew, Nice 'N' Many, Kat Kit, Herschel's Smooches, Mrs. Bad Bar, and Milk Dudes."
+103864,400,128,528000,Squeaky-Voiced Teen,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,Cup or cone?
+103865,400,129,529000,Homer Simpson,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,Uh... cone!
+103867,400,131,536000,Prescott Butterfat III,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,Congratulations! You just purchased the one millionth ice-cream cone sold by this store!
+103868,400,132,542000,Homer Simpson,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,"Oh my God, this is amazing! Wait, I'm gonna be driving. I'll go for the cup."
+103869,400,133,547000,Bart Simpson,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,Dad!
+103870,400,134,549000,Homer Simpson,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,"Fine, cone."
+103871,400,135,550000,Homer Simpson,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,What's this?!
+103875,400,137,553000,Kent Brockman,Smartline Studio,"Tonight on Smartline, a provocative discussion of the Middle East... will not be featured. Instead, we'll be talking to a man who bought an ice-cream cone."
+103876,400,138,561000,Homer Simpson,Smartline Studio,That's me!
+103877,400,139,563000,Kent Brockman,Smartline Studio,Of course that has nothing to do with the fact that this station and the ice-cream company are owned by the same corporation... but I digress.
+103878,400,140,569000,Kent Brockman,Smartline Studio,"All right, let's just get through this. Uh, Mr. Simpson, tell us how it felt when you bought the fateful treat."
+103879,400,141,574000,Homer Simpson,Smartline Studio,"I've never been to war, but I imagine it feels just like your first kill. The happiness swept me away!"
+103881,400,143,581000,Kent Brockman,Smartline Studio,Ow! That hurt like a--
+103885,400,147,585000,Marge Simpson,Simpson Home,What'd I miss?
+103886,400,148,588000,Lisa Simpson,Simpson Home,Kent Brockman said a horrible swear!
+103887,400,149,590000,Marge Simpson,Simpson Home,Which one?
+103888,400,150,593000,Bart Simpson,Simpson Home,Uh... I'll Etch-A-Sketch it for you.
+103889,400,151,595000,Bart Simpson,Simpson Home,Etch... sketch... etch... sketch...
+103890,400,152,599000,Marge Simpson,Simpson Home,Shake it! Shake it!
+103891,400,153,602000,Bart Simpson,Simpson Home,It won't come off!
+103892,400,154,604000,Marge Simpson,Simpson Home,Where's the hammer?!
+103895,400,157,611000,Kent Brockman,Smartline Studio,"Earlier on this broadcast, I said a word so vile it should only be uttered by Satan himself while sitting on the toilet. I apologize, and will make a large donation to charities that fight teen cursing. Goodnight."
+103897,400,159,629000,Kent Brockman,Channel 6 Studios,"Hm, people don't seem so mad."
+103898,400,160,633000,Kent Brockman,Channel 6 Studios,"Excuse me, sir -- did you see my broadcast tonight?"
+103899,400,161,636000,Comic Book Guy,Channel 6 Studios,"Oh God no -- I get my news from the internet, like every other normal person under seventy. Farewell, dinosaur!"
+103900,400,162,643000,Kent Brockman,Channel 6 Studios,No one saw my show... so no one heard my filthy faux pas! My career is safe!
+103901,400,163,648000,Homer Simpson,Channel 6 Studios,"Well, the important thing is we got through this crisis together. That makes us friends, right?"
+103902,400,164,653000,Kent Brockman,Channel 6 Studios,"Uh... hey look, it's the airport bus. You should get on it."
+103903,400,165,656000,Homer Simpson,Channel 6 Studios,Okay.
+103873,400,166,661000,Homer Simpson,Channel 6 Studios,"America West, please."
+103904,400,168,666000,Grampa Simpson,Simpson Home,"I can't believe Kent Brockman got away with it. Back in my day, TV stars couldn't say booby, tushy, burp, fanny burp, water closet, underpants, dingle-dangle, Boston marriage, L.B.J., Titicaca, hot dog, or front lumps!"
+103905,400,169,687000,Lisa Simpson,Simpson Home,I'm not sure Brockman's out of the woods yet. There are a lot of religious watch-dog groups out there... keeping the world safe from the horror of free expression.
+103906,400,170,695000,Bart Simpson,Simpson Home,You mean there are losers who spend all day watching TV looking for stuff to complain about? Who'd be lame enough to do that?
+103908,400,172,702000,Ned Flanders,Flanders Home,"Okay, ""Smallville""... super dog licks himself. That definitely goes in the naughty pile!"
+103909,400,173,713000,Ned Flanders,Flanders Home,"""Sixty Minutes"" -- Morley Safer has questionable pants fold -- ""The L Word"" -- used the ""L"" word."
+103910,400,174,726000,Ned Flanders,Flanders Home,And now to peruse the local news!
+103911,400,175,729000,Homer Simpson,Flanders Home,The happiness swept me away!
+103913,400,177,731000,Kent Brockman,Flanders Home,That hurt like a--
+103914,400,178,736000,Ned Flanders,Flanders Home,"God's least favorite word, uttered on the public airwaves!"
+103916,400,180,740000,Ned Flanders,Flanders Home,To: Online Christian Soldiers... Subject: Televised Super Swear...
+103917,400,181,744000,Rod Flanders,Flanders Home,"Daddy, what are you doing?"
+103918,400,182,749000,Ned Flanders,Flanders Home,Imploring people I never met to pressure a government with better things to do to punish a man who meant no harm for something nobody even saw. That's what I'm doing!
+103919,400,183,758000,Todd Flanders,Flanders Home,"Daddy, we think you need a new Mommy."
+103920,400,184,760000,Ned Flanders,Flanders Home,First things first!
+103922,400,186,765000,Kent Brockman,CHANNEL SIX,"The Federal Communications Commission announced today it will launch a full inquiry into garbage-tongued anchorman Kent Brockman. In a related story, Channel Six will demote Brockman to weekend weatherman?!"
+103923,400,187,776000,Kent Brockman,CHANNEL SIX,"Dear God, this can't be happening!"
+103925,400,189,785000,Kent Brockman,CHANNEL SIX WEATHER DESK,"It's a glorious day here in Springfield, with light winds and low humidity... now let's check the five-day forecast..."
+103926,400,190,792000,Kent Brockman,CHANNEL SIX WEATHER DESK,What the...?!
+103927,400,191,793000,Arnie Pye,CHANNEL SIX WEATHER DESK,"Even the map thinks you stink, Kent!"
+103929,400,192,797000,Arnie Pye,CHANNEL SIX WEATHER DESK,"In breaking news, the FCC has just handed down a record ten million dollar fine against Channel Six for Kent Brockman's shameful swear-nami."
+103930,400,193,806000,Arnie Pye,CHANNEL SIX WEATHER DESK,"Ten million dollars! Looks like Newshound, the channel six mascot, is gonna have to go without his lazy-eye surgery."
+103931,400,194,814000,Arnie Pye,CHANNEL SIX WEATHER DESK,"Sorry, boy."
+103932,400,195,815000,Arnie Pye,CHANNEL SIX WEATHER DESK,"No, I'm over here. Over here. I got a treat for you."
+103933,400,196,819000,Arnie Pye,CHANNEL SIX WEATHER DESK,"Now he's gonna starve. Proud of yourself, Kent?"
+103935,400,198,826000,Krusty the Clown,Krusty the Clown Show Set,"Kids, your ol' pal Krusty has had to make a few cutbacks because of a huge fine levied against the station."
+103936,400,199,832000,Kids,Krusty the Clown Show Set,Yaaaaaaay!
+103937,400,200,833000,Krusty the Clown,Krusty the Clown Show Set,"That's a bad thing! Anyway, we can't afford to pay the voice actors on ""Itchy and Scratchy,"" so I'm doing the voices myself. Roll it!"
+103938,400,201,842000,Scratchy,Krusty the Clown Show Set,"I'm a cat walking down the street, swingin' my arms..."
+103939,400,202,845000,Scratchy,Krusty the Clown Show Set,"Look, a lady made of dynamite! Wait, I don't know that yet. How 'bout a smooch?"
+103940,400,203,851000,Scratchy,Krusty the Clown Show Set,"Kablooey! And here comes the mouse, what's-his-name."
+103941,400,204,856000,Itchy,Krusty the Clown Show Set,"That was me that done that! But it ain't enough, so here's this."
+103942,400,205,860000,Itchy,Krusty the Clown Show Set,"That's what you get for, uh, I dunno, messing with my wife. And it goes on."
+103944,400,207,869000,Krusty the Clown,CHANNEL SIX,"Damn that Brockman! There are only two rules in TV: don't swear, and don't whip it out! It's not rocket science!"
+103945,400,208,879000,Lindsay Naegle,CHANNEL SIX,"Kent, can we talk?"
+103946,400,209,880000,Kent Brockman,CHANNEL SIX,"I'm not fired, am I?"
+103947,400,210,882000,Lindsay Naegle,CHANNEL SIX,"No, no. This station stands by its reporters. Say, what's that powder in your coffee? Is it cocaine?"
+103948,400,211,888000,Kent Brockman,CHANNEL SIX,"No, it's Splenda."
+103949,400,212,889000,Lindsay Naegle,CHANNEL SIX,"Spare me your slang, pusher-man. You're fired!"
+103952,400,215,918000,Nelson Muntz,Channel 6 Studios,Haw haw! Your distinguished career is over!
+103954,400,217,937000,Homer Simpson,Simpson Home,"Marge, the couch is lumpy!"
+103955,400,218,939000,Kent Brockman,Simpson Home,"That's because you're sitting on me, you lummox!"
+103956,400,219,941000,Homer Simpson,Simpson Home,Kent Brockman!
+103957,400,220,943000,Marge Simpson,Simpson Home,"I invited him to stay with us for a few days. His career is ruined, and I was afraid he might commit you-know-what-icide."
+103958,400,221,951000,Homer Simpson,Simpson Home,"I'm sorry Marge, but I won't live under the same roof as a member of the ""liberal media""."
+103959,400,222,956000,Marge Simpson,Simpson Home,You'll have to excuse him -- he's been watching a lot of Fox News.
+103960,400,223,961000,Homer Simpson,Simpson Home,Did you know that every day Mexican gays sneak into this country and unplug our brain-dead ladies?
+103961,400,224,968000,Marge Simpson,Simpson Home,We have to take in Mr. Brockman -- he wouldn't be in this mess if you hadn't dumped coffee on his lap.
+103962,400,225,973000,Homer Simpson,Simpson Home,"Oh sure, put down a simple guy like me, who works hard and plays by the rules!"
+103963,400,226,978000,Bart Simpson,Simpson Home,"Dad, you barely go to work at all."
+103964,400,227,979000,Lisa Simpson,Simpson Home,And you're constantly flouting the law.
+103965,400,228,981000,Homer Simpson,Simpson Home,"I'm willing to change my mind, and that makes me great. You can stay. But you have to give us an eight-by-ten for our Wall of Casual Acquaintances Who Came to Stay For A While."
+103966,400,229,991000,Homer Simpson,Simpson Home,Apu sang a song. What are you gonna do?
+103967,400,230,998000,Announcer,Simpson Home,Can fifteen strippers run their own airline?
+103968,400,231,1001000,Announcer,Simpson Home,"Find out tonight, on Fox's newest reality hit, ""Landing Strip""!"
+103969,400,232,1006000,Stripper,Simpson Home,"Ladies, check out what I can do with the oxygen masks!"
+103971,400,234,1011000,Homer Simpson,Simpson Home,What a great show: real people with real problems!
+103972,400,235,1017000,Birch Barlow,Simpson Home,This is Fox News with the latest Liberal Outrage.
+103973,400,236,1020000,Birch Barlow,Simpson Home,"It seems Liberals want to give NASA the right to ""abort"" space missions whenever they feel like it."
+103974,400,237,1026000,Homer Simpson,Simpson Home,Liberals -- I hate them so much!
+103975,400,238,1030000,Lisa Simpson,Simpson Home,"One thing I've always wondered: how can Fox News be so conservative, when the Fox network keeps airing raunchy shows? They don't fit together."
+103976,400,239,1037000,Homer Simpson,Simpson Home,Woo hoo!
+103977,400,240,1038000,Birch Barlow,Simpson Home,Liberals hate families...
+103978,400,241,1039000,Homer Simpson,Simpson Home,Liberals!
+103979,400,242,1039000,Homer Simpson,Simpson Home,Woo hoo! Liberals! Woo hoo! Liberals! Woo hoo! Liberals! Woo hoo! Liberals!
+103980,400,243,1046000,Homer Simpson,Simpson Home,Woo--
+103983,400,244,1047000,Kent Brockman,Simpson Home,"Fox deliberately runs shows that will earn them huge fines, which are then funneled through the FCC straight to the Republican Party. Everybody in the media knows it, but no one has the guts to say it."
+103984,400,245,1055000,Lisa Simpson,Simpson Home,Not true. You've got the guts -- and I've got a web cam! This time you can tell the truth...
+103985,400,246,1060000,Kent Brockman,Simpson Home,And swear like a lumberjack who hacked off a leg. Let's do it!
+103986,400,247,1065000,Homer Simpson,Simpson Home,Hoo!
+103987,400,248,1066000,Homer Simpson,Simpson Home,Woo hoo? Liberals? Woo hoo?
+103988,400,249,1075000,Lisa Simpson,Simpson Home,Here we go. Four-three-two...
+103989,400,250,1079000,Kent Brockman,Simpson Home,"Good evening. Thank you for inviting me into your laps. Friends, the press and the government are in bed together in an embrace so intimate and wrong, they could spoon on a twin mattress and still have room for Ted Koppel."
+103990,400,251,1091000,Kent Brockman,Simpson Home,"Journalists used to question the reasons for war, and expose abuse of power. Now like toothless babies, they suckle on the sugary teat of misinformation, and poop it into the diaper we call the six o'clock news."
+103992,400,253,1104000,Kent Brockman,Sideshow Mel's House,Demand more of your government! Demand more of your press!
+103993,400,254,1106000,Sideshow Mel,Sideshow Mel's House,"Fellow primate, this is a wakeup call!"
+103996,400,257,1114000,Kent Brockman,DARK CASTLE,Vote out your so-called representatives! Reject your corporate masters! Buy nothing! Hug your children! Love the one you're with!
+103997,400,258,1121000,C. Montgomery Burns,DARK CASTLE,Look at that rabble-rouser! He's threatening our ill-gotten gains!
+103998,400,259,1125000,The Rich Texan,DARK CASTLE,Galdarnit! I worked hard to ill-get those gains! How do we stop him?
+103999,400,260,1131000,Dracula,DARK CASTLE,I could Dracula-bite him.
+104000,400,261,1134000,Lindsay Naegle,DARK CASTLE,"Actually, Krusty and I have been working on a plan to take out Brockman. You wanna start?"
+104001,400,262,1139000,Krusty the Clown,DARK CASTLE,"No, why don't you start."
+104002,400,263,1140000,Lindsay Naegle,DARK CASTLE,Oh but you're so good at starting!
+104003,400,264,1142000,Krusty the Clown,DARK CASTLE,You really think so?
+104004,400,265,1143000,Lindsay Naegle,DARK CASTLE,Oh I know so. Go on.
+104005,400,266,1143000,Krusty the Clown,DARK CASTLE,All right.
+104007,400,268,1145000,Rainier Wolfcastle,DARK CASTLE,Do you think there's something going on between those two?
+104008,400,269,1148000,Dracula,DARK CASTLE,To find out I could turn myself into a bat and follow them around.
+103981,400,270,1152000,Rainier Wolfcastle,DARK CASTLE,"Oh, you couldn't even get our pizza orders right."
+103982,400,271,1155000,Dracula,DARK CASTLE,"Every order is half this, half that. It's confusing!"
+104010,400,273,1162000,Slacker Girl,Downtown Springfield,Kent! Your righteous political commentary rocks!
+104011,400,274,1166000,Slacker Dude,Downtown Springfield,Yeah! You know how many stars out of five I gave the YouTube of your webcast? Five! And I never give five!
+104012,400,275,1173000,Slacker Girl,Downtown Springfield,"It's true, he never does."
+104013,400,276,1175000,Lisa Simpson,Downtown Springfield,"Mr. Brockman, you're a huge hit!"
+104014,400,277,1177000,Kent Brockman,Downtown Springfield,Really? How wide is the web?
+104015,400,278,1179000,Lisa Simpson,Downtown Springfield,World.
+104016,400,279,1179000,Kent Brockman,Downtown Springfield,Wow.
+104017,400,280,1182000,Lindsay Naegle,Downtown Springfield,"Kent, we want to offer you your old job back, with a fifty per cent pay increase!"
+104018,400,281,1187000,Kent Brockman,Downtown Springfield,Hmm...
+104019,400,282,1191000,Kent Brockman,Downtown Springfield,"Lisa, close your eyes for two seconds."
+104020,400,283,1193000,Lisa Simpson,Downtown Springfield,One... two...
+104021,400,284,1196000,Kent Brockman,Downtown Springfield,I held out as long as I could!
+104022,400,285,1201000,Lisa Simpson,Downtown Springfield,I guess there's just no place for truth and bravery in today's media.
+104023,400,286,1206000,Homer Simpson,Downtown Springfield,True -- but there's room for the truth in this household. Do you wanna hear something really bad Kent told me about the Fox network?
+104024,400,287,1214000,Lisa Simpson,Downtown Springfield,"Of course. Gosh, Dad, your hands are shaking!"
+104025,400,288,1217000,Homer Simpson,Downtown Springfield,"I know, 'cause this one's really, really bad. For years now, Fox has been--"
+104026,400,289,1226000,Clearly Dubbed-in Voice,Downtown Springfield,...programming shows that the whole family can enjoy!
+104027,400,290,1229000,Lisa Simpson,Downtown Springfield,Oh my God! You don't suppose they're gonna start--
+104028,400,291,1232000,Clearly Dubbed-in Voice,Downtown Springfield,"...entertaining America with hits like ""House,"" ""American Idol"" and ""American Idol Results Show."""
+104029,400,292,1239000,Homer Simpson,Downtown Springfield,I'm afraid they might. But I will not be silenced. The truth is...
+104030,400,293,1249000,Homer Simpson,Downtown Springfield,"Okay. What I was going to say, was..."

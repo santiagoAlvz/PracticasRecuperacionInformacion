@@ -1,0 +1,225 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+112017,432,1,100000,Homer Simpson,Simpson Home,OH MARDI GRAS / OH MARDI GRAS / YOU SEE A LOT OF BOO-BIES...
+112018,432,2,106000,Homer Simpson,Simpson Home,"Boy, where are my zydeco records?"
+112019,432,3,109000,Bart Simpson,Simpson Home,There's twelve more boxes. And they all sound the same!
+112020,432,4,113000,Homer Simpson,Simpson Home,"I know they do, but the Simpson Mardi Gras party has been a tradition since two days before you were born. And we spare no expense."
+112021,432,5,121000,Bart Simpson,Simpson Home,What about my birthday party?
+112022,432,6,122000,Homer Simpson,Simpson Home,This counts as that.
+112023,432,7,125000,Homer Simpson,Simpson Home,"Ladies, how're you doing with the float?"
+112024,432,8,126000,Lisa Simpson,Simpson Home,"Fine, but I wish you'd picked an easier theme than ""Super-Jet Dinosaur Fun-Monkeys."" What does that even mean?"
+112025,432,9,132000,Marge Simpson,Simpson Home,Homie... every year this party gets a little bigger. I'm afraid it's growing out of hand.
+112026,432,10,137000,Carl Carlson,Simpson Home,"Hey Homer, I have some distant relatives that I never see except for this party. Can I bring 'em to the party?"
+112027,432,11,142000,Homer Simpson,Simpson Home,No problem.
+112028,432,12,143000,Carl Carlson,Simpson Home,"Just so you know, some of them act like they hate America, but what they really hate are Americans."
+112030,432,14,150000,Homer Simpson,Simpson Home,"Marge, lighten up. Even Grampa's enjoying himself."
+112032,432,16,166000,Mayor Joe Quimby,Simpson Backyard,I officially declare this private party in some guy's back yard open!
+112034,432,18,175000,Mayor Joe Quimby,Simpson Backyard,"It's my wife! Everyone, pretend this is a trade seminar in Zurich."
+112036,432,20,181000,Mayor Joe Quimby,Simpson Backyard,"Can't talk now, dear. It's four in the morning here in Zurich."
+112037,432,21,186000,Mayor Joe Quimby,Simpson Backyard,"Oh, right. We came together."
+112038,432,22,193000,Homer Simpson,Simpson Backyard,"Ha, ha! Eat my food! Drink up my drink! Put your coat on my daughter's bed! I command you!"
+112039,432,23,206000,Marge Simpson,Simpson Backyard,Your majesty... did you remember to invite Ned Flanders?
+112011,432,24,214000,Ned Flanders,Simpson Backyard,"As the worm said to the plate of spaghetti, ""I... I..."
+112041,432,25,217000,Homer Simpson,Simpson Backyard,Fine. I'll invite him. But he has to wear the outfit I choose.
+112043,432,27,226000,Homer Simpson,FLANDERS YARD,"Hey, Flanders. Listen, uh... we're having a party..."
+112044,432,28,231000,Ned Flanders,FLANDERS YARD,I noticed.
+112045,432,29,233000,Homer Simpson,FLANDERS YARD,"So, anyway, if you're not doing anything, and it looks like you are, you're welcome to stop by, or not."
+112047,432,31,244000,Ned Flanders,FLANDERS YARD,"Well, Homer, maybe I could use a break from the ol' Weed 'N' Feed."
+112048,432,32,248000,Moe Szyslak,FLANDERS YARD,"Man, you really are into me, huh?"
+112049,432,33,251000,Mrs. Muntz,FLANDERS YARD,"What are you, some kind of talking dog?"
+112050,432,34,254000,Moe Szyslak,FLANDERS YARD,"Eh, sure."
+112052,432,36,262000,Ned Flanders,Simpson Backyard,Three... two... one... it's Ash Wednesday everybody! Set down your gins and confess your sins!
+112055,432,39,289000,Lenny Leonard,Simpson Home,"Homer, I always wonder, how can you afford this party year after year?"
+112056,432,40,293000,Homer Simpson,Simpson Home,"Because I have this magical thing called a Home Equity loan. I borrow all the money I want, and the house gets stuck with the bill. Sucker."
+112057,432,41,305000,Lenny Leonard,Simpson Home,Huh. I'm not sure that's how it works.
+112058,432,42,308000,Homer Simpson,Simpson Home,"Fine, Mr. Skeptical. Give me back your beads."
+112059,432,43,311000,Lenny Leonard,Simpson Home,"But, but, but..."
+112060,432,44,312000,Homer Simpson,Simpson Home,"Beads, please."
+112062,432,46,322000,Marge Simpson,Simpson Home,"Homie, do you know anything about this?"
+112063,432,47,325000,Homer Simpson,Simpson Home,"Marge, don't worry. It's like when we stopped paying the phone bill. They stopped calling us. In fact, everyone did!"
+112064,432,48,331000,Marge Simpson,Simpson Home,I think we should go see our mortgage broker.
+112065,432,49,334000,Homer Simpson,Simpson Home,Oh man. Who'd think the first day of Lent would be such a bummer?
+112068,432,52,341000,Gil Gunderson,Countryfine Bank,"Let's see here, uh... balloon payment... thirty-seven percent interest compounded every minute... not-understanding-the-contract-fee... here's your new monthly payment!"
+112070,432,54,354000,Marge Simpson,Countryfine Bank,That number's so big it has a comma!
+112071,432,55,356000,Gil Gunderson,Countryfine Bank,"Oh, wait. I left out a zero."
+112072,432,56,359000,Homer Simpson,Countryfine Bank,"Listen, you! When you gave me that money, you said I wouldn't have to repay it till the future! This isn't the future! It's the lousy, stinking now!"
+112073,432,57,367000,Gil Gunderson,Countryfine Bank,"Now, calm down. This country takes care of its middle class."
+112075,432,59,376000,Gil Gunderson,Simpson Home,"Don't be sore at the banks. Hell, we fired our C.E.O., and he barely got out with fifty million dollars!"
+112076,432,60,381000,Homer Simpson,Simpson Home,That poor man. Is he okay?
+112077,432,61,384000,Gil Gunderson,Simpson Home,"As okay as you can be in the North of France. Now, here's a free tip from me: learn to make soup from rocks and grass."
+112078,432,62,392000,Marge Simpson,Simpson Home,And what will I cook that soup on?
+112079,432,63,394000,Gil Gunderson,Simpson Home,"Come on, Marge -- you've got the sun, you've got hobo fires... I can't do all the work for yA!"
+112083,432,67,414000,Marge Simpson,Simpson Home,I worked so hard to make this house into a home. And now somebody else is just going to take it.
+112084,432,68,420000,Dr. Julius Hibbert,Simpson Home,"Marge, I'm so sorry."
+112085,432,69,421000,Marge Simpson,Simpson Home,Why are you here? You already own a home.
+112086,432,70,424000,Dr. Julius Hibbert,Simpson Home,"Hey, our au pair has to live somewhere."
+112087,432,71,426000,Au Pair,Simpson Home,This crap shack makes your guest room look like winter palace.
+112088,432,72,430000,Dr. Julius Hibbert,Simpson Home,"I know, I know. But Bernice wants you out."
+112089,432,73,433000,Homer Simpson,Simpson Home,"Don't worry honey, we'll come out ahead. I ripped all the copper wire out of the walls."
+112090,432,74,441000,Lisa Simpson,Simpson Home,Did you remember to disconnect it first?
+112091,432,75,442000,Homer Simpson,Simpson Home,Did I what now?
+112093,432,77,452000,Marge Simpson,Simpson Home,"I know I shouldn't get too attached to a building, but... that's where Lisa took her first step... the kids' height...Homer's weight..."
+112094,432,78,467000,Lisa Simpson,Simpson Home,This is so hard because I always thought Mom was the strong one.
+112095,432,79,470000,Bart Simpson,Simpson Home,She is. Look.
+112096,432,80,477000,Homer Simpson,Simpson Home,Goodbye.
+112098,432,82,484000,Auctioneer,Simpson Home,"For sale: 742 Evergreen Terrace, detached single-family dwelling. Now, who'll start me off?"
+112099,432,83,491000,Moe Szyslak,Simpson Home,Anybody ever get murdered in this house?
+112100,432,84,493000,Auctioneer,Simpson Home,No.
+112101,432,85,493000,Moe Szyslak,Simpson Home,Thank you for your time.
+112102,432,86,496000,C. Montgomery Burns,Simpson Home,One hundred thousand dollars.
+112103,432,87,497000,Waylon Smithers,Simpson Home,"Sir, what exactly do you plan to do with this place?"
+112104,432,88,499000,C. Montgomery Burns,Simpson Home,I need a place to store my cufflinks.
+112105,432,89,502000,Homer Simpson,Simpson Home,"Let's go, kids. I can't watch any more."
+112106,432,90,505000,Auctioneer,Simpson Home,I have one hundred thousand. Going once...going twice...
+112107,432,91,517000,Ned Flanders,Simpson Home,One hundred and one thousand!
+112108,432,92,519000,C. Montgomery Burns,Simpson Home,Pass. I've already lifted this thing once today. I'm not Hercules!
+112109,432,93,522000,Auctioneer,Simpson Home,"Sold! Okay folks, hand in your paddles. Round ends together, please. Round ends-- What is this, randomly tossing in your paddle day?"
+112110,432,94,532000,Marge Simpson,Simpson Home,Ned! You bought our house? Why?
+112111,432,95,535000,Ned Flanders,Simpson Home,So I can rent it back to you. Just pay what you can till you get back on your feet.
+112112,432,96,539000,Marge Simpson,Simpson Home,"Ned Flanders, I can't believe what you doodily-did for us."
+112113,432,97,544000,Ned Flanders,Simpson Home,"Well sir, as the ocean said to the dirt, I appreciate the sediment."
+112114,432,98,544000,Homer Simpson,Simpson Home,"And on the zillionth day, God created hugs."
+112115,432,99,544000,Homer Simpson,Simpson Home,And it was gooood.
+112116,432,100,558000,Marge Simpson,Simpson Home,"Come on, kids! Let's take our stuff back inside."
+112117,432,101,561000,Homer Simpson,Simpson Home,"Uh, uh, uh, uh, better let me go first. I left a little uh ""surprise"" upstairs for the new owner."
+112120,432,104,584000,Lisa Simpson,Simpson Living Room,"FOR HE'S A FABULOUS FLANDERS, WHICH NOBODY CAN DENY!"
+112121,432,105,593000,Homer Simpson,Simpson Living Room,HE SAVED OUR ASS!
+112122,432,106,596000,Lisa Simpson,Simpson Living Room,"Okay, everyone squeeze in."
+112123,432,107,603000,Bart Simpson,Simpson Living Room,Evil triumphs again.
+112124,432,108,607000,Bart Simpson,Simpson Living Room,Ow!
+112127,432,111,612000,Marge Simpson,Simpson Kitchen,"Homie, the faucet won't stop leaking."
+112128,432,112,615000,Homer Simpson,Simpson Kitchen,No problem. Just let Sir Fix-a-lot slay this chore.
+112129,432,113,629000,Homer Simpson,Simpson Kitchen,Next problem.
+112130,432,114,631000,Ned Flanders,Simpson Kitchen,"Say Homer, why don't you let me take a peek at that leak?"
+112131,432,115,634000,Marge Simpson,Simpson Kitchen,"Ned please, you're our guest."
+112132,432,116,636000,Ned Flanders,Simpson Kitchen,"Well, actually... as your landlord, repairs are my responsibility. I'll just get my tools..."
+112133,432,118,646000,Ned Flanders,Simpson Kitchen,"Try 'er now, Marge."
+112134,432,119,649000,Marge Simpson,Simpson Kitchen,"Oooh, hot comes out of hot... it's like I'm dreaming! Thank you, Ned."
+112135,432,120,654000,Ned Flanders,Simpson Kitchen,"Well, I guess I'd better be..."
+112136,432,121,655000,Marge Simpson,Simpson Kitchen,"Um... Do you have time to look at a few other leaks, faulty wires and dangerous mold conditions?"
+112137,432,122,660000,Ned Flanders,Simpson Kitchen,"Well, as you are my tenants, I'll see what I can do."
+112138,432,123,663000,Marge Simpson,Simpson Kitchen,"Well, let's see what else is in the job jar."
+112139,432,124,668000,Homer Simpson,Simpson Kitchen,It's so beautiful. No two are exactly alike. Though many of them are very similar.
+112141,432,126,683000,Homer Simpson,Simpson Home,"I'm back, baby!"
+112143,432,128,690000,Marge Simpson,Simpson Kitchen,It's irresistible. You ask him to do something and he does it. He's like a
+112144,432,129,694000,Marge Simpson,Simpson Kitchen,genie.
+112145,432,130,695000,Ned Flanders,Simpson Kitchen,"When I was putting new insulation in your attic, I slipped on this lamp and really banged my head."
+112146,432,131,700000,Ned Flanders,Simpson Kitchen,"So, unless you have anything else for me..."
+112147,432,132,702000,Marge Simpson,Simpson Kitchen,"No, no. I'm just happy I can finally serve this cake."
+112148,432,133,711000,Marge Simpson,Simpson Kitchen,Our House is Up to code.
+112151,432,136,711000,Ned Flanders,NED'S HOUSE,Hello?
+112152,432,137,712000,Marge Simpson,NED'S HOUSE,Ned! I think we have a gas leak!
+112153,432,138,718000,Ned Flanders,NED'S HOUSE,"Well, I'm sorry, I just had my glass of warm milk which means I am closed for business!"
+112154,432,139,723000,Marge Simpson,NED'S HOUSE,He won't come over!
+112155,432,140,724000,Homer Simpson,NED'S HOUSE,"He what?! Flanders, landlords like you are the scum of the earth! You lounge around in your Egg MacMansions and we never see you unless the rent check's late!"
+112156,432,141,733000,Ned Flanders,NED'S HOUSE,The rent check is late.
+112157,432,142,734000,Homer Simpson,NED'S HOUSE,"Some friend you are. The minute you become our landlord, you expect us to pay rent. You'd better just pray I don't find out where you live!"
+112158,432,143,743000,Homer Simpson,NED'S HOUSE,Bart! Don't forget to turn the chicken!
+112160,432,145,748000,Moe Szyslak,Moe's Tavern,People like Flanders make me sick. If I was Marge's landlord I'd fix her pipes and I'd shower her with flowers and-and take her on a romantic getaway to the South Seas and I... I'd never return.
+112161,432,146,760000,Homer Simpson,Moe's Tavern,"Yeah, you'd treat her right."
+112162,432,147,762000,Moe Szyslak,Moe's Tavern,"Well, here's how you get back at Flanders: you go to the media and get them to expose what a horrible person he really is."
+112163,432,148,769000,Homer Simpson,Moe's Tavern,"Oh, right -- like ""Dateline"" did to you!"
+112164,432,149,771000,Moe Szyslak,Moe's Tavern,"Yeah, three times. The last one was nominated for a Peabody, whatever that is."
+112165,432,150,776000,Kent Brockman,Moe's Tavern,This is Kent Brockman with a Channel 6 exclusive: The Evil Ned.
+112166,432,151,780000,Kent Brockman,Moe's Tavern,"Seven forty-two Evergreen Terrace. A tiny slice of suburban heaven. But like dating an actress, what seemed like heaven soon turned to hell."
+112168,432,153,790000,Homer Simpson,Simpson Home,We live in a house that is trying to kill us.
+112169,432,154,794000,Lisa Simpson,Simpson Home,"Hey, Dad."
+112170,432,155,797000,Homer Simpson,Simpson Home,"Who is this ""Dad"" you speak of, Lisa Simpson?"
+112171,432,156,800000,Lisa Simpson,Simpson Home,"You want a cookie, Dad?"
+112172,432,157,800000,Homer Simpson,Simpson Home,Yes.
+112174,432,159,803000,Homer Simpson,Simpson Home,...Squeaky stair here... scary portrait there...
+112175,432,160,806000,Homer Simpson,Simpson Home,Poltergeist in the closet...
+112176,432,161,810000,Bart Simpson,Simpson Home,I died when Homer sat on me!
+112177,432,162,812000,Homer Simpson,Simpson Home,Why you little...
+112178,432,163,815000,Homer Simpson,Simpson Home,I'm the victim here!
+112179,432,164,818000,Kent Brockman,Simpson Home,"So, who is responsible for these outrages? The man whose side of the story we didn't even bother to get: Ned Flanders."
+112180,432,165,825000,Kent Brockman,Simpson Home,The worst person who ever lived!
+112182,432,167,834000,Ned Flanders,FLANDERS' LIVING ROOM,Let's see what else is on.
+112183,432,168,840000,Ned Flanders,FLANDERS' LIVING ROOM,"Oh, this is good."
+112185,432,170,845000,Ned Flanders,Simpson Home,"Homer Simpson, I took pity on you, and what do I get in return? A kick in the kadiddlehopper!"
+112186,432,171,852000,Homer Simpson,Simpson Home,Kadiddlehopper.
+112187,432,172,854000,Ned Flanders,Simpson Home,It's not funny! That's how I swear!
+112188,432,173,857000,Homer Simpson,Simpson Home,Fine. You're mad. What are you gonna do about it?
+112189,432,174,859000,Ned Flanders,Simpson Home,"When the month is up, I want you out!"
+112190,432,175,862000,Homer Simpson,Simpson Home,Fine. I'll get another neighbor to buy the house and let us live in it!
+112191,432,176,866000,Male Neighbor,Simpson Home,We won't do it!
+112192,432,177,867000,Female Neighbor,Simpson Home,Your leaving is our Christmas!
+112193,432,178,869000,Homer Simpson,Simpson Home,"Flanders, you wouldn't throw us out on Christmas, would you?"
+111355,432,181,883000,Eerie Voice,Flanders Home,Oooooo!
+111558,432,183,883000,Eerie Voice,Flanders Bedroom,Oooooo!
+112194,432,184,883000,Ned Flanders,Flanders Bedroom,Wha? Who's that?
+112195,432,185,886000,Homer Simpson,Flanders Bedroom,"It is me, Jesus!"
+112196,432,186,889000,Homer Simpson,Flanders Bedroom,I have come from my workshop in the North Pole to say: don't evict the Simpsons!
+112197,432,187,895000,Ned Flanders,Flanders Bedroom,"Uh, say, ""Jesus,"" what was the name of the son of Zachariah?"
+112198,432,188,899000,Homer Simpson,Flanders Bedroom,It was... um... do you have a computer nearby?
+112200,432,190,907000,Homer Simpson,Simpson Home,He's nailing something to our door.
+112201,432,191,909000,Lisa Simpson,Simpson Home,"Hm, I wonder if it's theses."
+112202,432,192,912000,Homer Simpson,Simpson Home,"Ew, that's gross."
+112203,432,193,913000,Marge Simpson,Simpson Home,"Homie, I think it's an eviction notice. We're gonna be homeless, like Lucille Ball in ""The Stone Pillow""!"
+112204,432,194,920000,Homer Simpson,Simpson Home,"Don't worry, Marge."
+112205,432,195,922000,Homer Simpson,Simpson Home,"According to this chapter book, we have a secret weapon: ""Evictee will be granted a stay of eviction if said household includes a resident aged sixty-five or over."" Finally, a practical use for my father."
+112207,432,197,936000,Grampa Simpson,Springfield Retirement Castle,Wheee! I'm gonna live like a human in a real house!
+112208,432,198,940000,Grampa Simpson,Springfield Retirement Castle,What's the catch?
+112209,432,199,942000,Homer Simpson,Springfield Retirement Castle,I'm using you!
+112210,432,200,942000,Grampa Simpson,Springfield Retirement Castle,For what?
+112211,432,201,944000,Homer Simpson,Springfield Retirement Castle,My own devices!
+112212,432,202,944000,Grampa Simpson,Springfield Retirement Castle,All right!
+112213,432,203,946000,Old Jewish Man,Springfield Retirement Castle,Tell the world what you saw here!
+112214,432,204,950000,Orderly,Springfield Retirement Castle,I'm gonna miss putting makeup on him while he sleeps.
+112215,432,205,952000,2nd Orderly,Springfield Retirement Castle,I've already moved on.
+112217,432,207,959000,Homer Simpson,Simpson Home,"Hey, Flanders. You can't evict us because a senior's living here now."
+112218,432,208,966000,Grampa Simpson,Simpson Home,You're never too old to ruin things for the young!
+112220,432,210,976000,Homer Simpson,Simpson Home,Will you kids knock it off? I'm trying to watch badminton!
+112221,432,211,981000,Lisa Simpson,Simpson Home,"Dad, we've been trapped in the house for days. Can't we play outside?"
+112222,432,212,986000,Bart Simpson,Simpson Home,"Yeah, without the sun, my hair's reverting to its natural red."
+112223,432,213,989000,Bart Simpson,Simpson Home,"I don't want to be called ""Rusty"" again! I don't!"
+112224,432,214,992000,Marge Simpson,Simpson Home,"You know, it says here that Grampa has to remain in the house, but we don't. How about a family outing?"
+112225,432,215,999000,Bart Simpson,Simpson Home,Family outing? I'll start -- Lisa's gay!
+112226,432,216,1002000,Lisa Simpson,Simpson Home,"Right, 'cause I wouldn't want to be gay like my heroes Billie Jean King, Susan Sontag, Sappho of Lesbos, and, I suspect, Peppermint Patty..."
+112227,432,217,1011000,Homer Simpson,Simpson Home,"Well, I guess we can take a quick walk. We'll keep Grampa occupied with this DVD of Dwight Eisenhower talking about golf."
+112228,432,218,1018000,Dwight Eisenhower,Simpson Home,"Now when I've got a downhill lie, I like to swing wide -- just like Patton did when he swung past Kesselring's boys in the Ardennes forest. Let's watch."
+112229,432,219,1034000,Grampa Simpson,Simpson Home,This is what I call livin' in the past!
+112231,432,221,1042000,Homer Simpson,Springfield Street,"So, after I paid for the ice cream cones, I said ""thank you"" and was on my way."
+112232,432,222,1048000,Bart Simpson,Springfield Street,"We know, Dad. We were there."
+112233,432,223,1050000,Homer Simpson,Springfield Street,"I know it seems that way, because I'm such a vivid storyteller. Now here's another story called ""Bart's Mistake."" We were walking home when"
+112234,432,224,1055000,Homer Simpson,Springfield Street,How could this have happened?
+112235,432,225,1063000,Ned Flanders,Springfield Street,Because your father lives with me now.
+112236,432,226,1065000,Grampa Simpson,Springfield Street,Flanders feeds me people food!
+112237,432,227,1068000,Homer Simpson,Springfield Street,"Well, I can't compete with that!"
+112238,432,228,1071000,Marge Simpson,Springfield Street,Oh my God. We're out on the street!
+112239,432,229,1078000,Homer Simpson,Springfield Street,"Honey, don't cry. It could be worse -- at least it's not raining!"
+112240,432,230,1085000,Homer Simpson,Springfield Street,"See, I told you, it's not raining. So we're just homeless."
+112242,432,232,1093000,Homer Simpson,Homeless Shelter,"Kids, if you get lost, remember where we are: seventy-five beds from that wall, and a hundred beds from the crazy guy."
+112244,432,234,1105000,Bart Simpson,Homeless Shelter,I hate this place -- the clothes they gave us are the clothes we gave to charity last year.
+112245,432,235,1110000,Lisa Simpson,Homeless Shelter,"There's a lesson here: life is fickle. You should appreciate every... stop kicking, Bart!"
+112246,432,236,1116000,Bart Simpson,Homeless Shelter,But kicking is the only toy I have.
+112247,432,237,1118000,Homer Simpson,Homeless Shelter,That's not true. You have bug bites you can scratch.
+112248,432,238,1121000,Lisa Simpson,Homeless Shelter,This is the lowest we've sunk.
+112249,432,239,1124000,Crazy Guy,Homeless Shelter,That's the answer: pawn to king's bishop four!
+112251,432,241,1129000,Ned Flanders,Simpson Home,"You two are the kind of tenants every landlord dreams of: excellent credit, Christian but not Baptist, and let's see: according to your application you only have sex for procreation."
+112252,432,242,1139000,Nancy Gladness,Simpson Home,If that!
+112253,432,243,1140000,Nat Gladness,Simpson Home,"Well now, I'll just put my John Hancock on the doc, and you can give me the key to the lock!"
+112254,432,244,1146000,Ned Flanders,Simpson Home,My ballpoint is all clicked-up for you.
+112255,432,245,1148000,Nat Gladness,Simpson Home,"Oh, no, thanks. Don't believe in borrowing things from my neighbor."
+112256,432,246,1152000,Ned Flanders,Simpson Home,"Lord, you said love thy neighbor, but you didn't have to make it so easy."
+112257,432,247,1156000,Nancy Gladness,Simpson Home,"Whatcha got there, Woofy Goldberg?"
+112258,432,248,1160000,Nancy Gladness,Simpson Home,Who's this?
+112259,432,249,1161000,Ned Flanders,Simpson Home,"Oh, that's just a family... who used to... make my life, uh... interesting."
+112260,432,250,1169000,Nat Gladness,Simpson Home,"I'll just add my initials, there..."
+112261,432,251,1171000,Photo Simpsons,Simpson Home,FOR HE'S A FABULOUS FLANDERS...
+112262,432,252,1176000,Nat Gladness,Simpson Home,There...
+112263,432,253,1177000,Photo Simpsons,Simpson Home,WHICH NOBODY CAN DENY!
+112264,432,254,1180000,Nat Gladness,Simpson Home,"Ooh, and there. Exciting!"
+112265,432,255,1185000,Ned Flanders,Simpson Home,Folks...
+112266,432,256,1188000,Nat Gladness,Simpson Home,Aaaand... leased.
+112267,432,257,1190000,Ned Flanders,Simpson Home,I'm afraid you can't live here.
+112268,432,258,1192000,Nat Gladness,Simpson Home,"Roger dodger. Back in the car, Nance."
+112269,432,259,1194000,Nancy Gladness,Simpson Home,Yay! But why?
+112270,432,260,1196000,Ned Flanders,Simpson Home,"Well, the people who lived here before, um, weren't always the best neighbors. But I love 'em. And, uh, you can't be a saint unless you live among the lepers. Hope you don't mind."
+112271,432,261,1206000,Nat Gladness,Simpson Home,And I hope you won't mind when we sue.
+112272,432,262,1208000,Ned Flanders,Simpson Home,I think you should. The court papers will be a great way to stay in touch.
+112273,432,263,1212000,Nat Gladness,Simpson Home,"Well, hasn't this been a peach of a breach! We'll see you in court."
+112274,432,264,1217000,Homer Simpson,Simpson Home,"Oh, Flanders, I promise I'll never abuse our friendship again."
+112275,432,265,1221000,Ned Flanders,Simpson Home,It's okay if you backslide a little.
+112276,432,266,1223000,Homer Simpson,Simpson Home,Never! Hooray for Stupid Flanders!
+112277,432,267,1226000,Ned Flanders,Simpson Home,The Simpsons are back!
+112279,432,269,1234000,Homer Simpson,Evergreen Terrace,I really hate this neighborhood.

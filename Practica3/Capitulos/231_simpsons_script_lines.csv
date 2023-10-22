@@ -1,0 +1,308 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+55906,231,3,97000,Marge Simpson,Theater,"Oh my, war is terrible."
+55907,231,4,105000,G.I.,Theater,Ahhh...
+55908,231,5,106000,Announcer,Theater,"Buzz Cola, the taste you'll kill for."
+55909,231,6,108000,Dead German Soldier,Theater,Available in ze lobby!
+55910,231,7,111000,Lisa Simpson,Theater,Do they really think cheapening the memory of our veterans will sell soda?
+55911,231,8,115000,Homer Simpson,Theater,I have to go to ze lobby!
+55913,231,10,117000,Clerk,GOOGOL-PLEX,"I'm sorry, but we're not supposed to put butter on the Milk Duds."
+55914,231,11,121000,Homer Simpson,GOOGOL-PLEX,"You're not supposed to go to the bathroom without washing your hands, either."
+55915,231,12,125000,Clerk,GOOGOL-PLEX,Touché.
+55916,231,13,128000,Homer Simpson,GOOGOL-PLEX,To the top please.
+55917,231,14,130000,Homer Simpson,GOOGOL-PLEX,"Swim, my pretties."
+55920,231,17,142000,Musketeer,Theater,Sacre bleu! The deadly poke of Zorro!
+55921,231,18,149000,Man In The Iron Mask,Theater,"What? ""N""? What does ""N"" stand for?"
+55922,231,19,152000,Zorro,Theater,"No, no, it's a ""Z""! I am Zorro! ""Z"" for Zorro! I have come to return King Arthur to the throne!"
+55923,231,20,158000,Bart Simpson,Theater,It's a history lesson come to life.
+55924,231,21,160000,Lisa Simpson,Theater,No it isn't. It's totally inaccurate--
+55925,231,22,162000,Bart Simpson,Theater,"Quiet, here come the Ninjas."
+55926,231,23,169000,Princess,Theater,"What part of ""stop cutting my dress off"" don't you understand?"
+55927,231,24,172000,Zorro,Theater,"Ha, ha, ah-- ""S. P.?"" The Scarlet Pimpernel!?"
+55928,231,25,176000,Princess,Theater,"We're just, uh, friends."
+55929,231,26,178000,Bart Simpson,Theater,She's lying! Slice her head off!
+55930,231,27,180000,Zorro,Theater,Your honor has been insulted! This will not stand.
+55895,231,28,186000,Homer Simpson,Theater,"Ooo, you don't want to get Zorro mad."
+55866,231,29,189000,Marge Simpson,Theater,You're pouring hot butter on my leg!
+55931,231,30,189000,Homer Simpson,Theater,Sh-sh-shh!
+55933,231,32,198000,Zorro,Opera House,"Sir, I demand satisfaction!"
+55934,231,33,201000,Zorro,Opera House,I challenge you to a duel.
+55935,231,34,206000,Zorro,Opera House,"Do you accept, or are you a coward?"
+55936,231,35,209000,Scarlet Pimpernel,Opera House,I... am a coward!
+55938,231,37,214000,Homer Simpson,Opera House,"Woo! You go, Zorro!"
+55939,231,38,217000,King Arthur,Opera House,"I, King Arthur, declare Zorro the new King of England!"
+55940,231,39,221000,Zorro,Opera House,Yes!
+55941,231,40,225000,Rap Singer,Opera House,From the 'Z' to the 'O' to the double 'R' 'O' / He's the dude in the mask from the bar-ri-o / With his horse and his mask and his big ol' sword / He'll cut your butt from a '52 Ford...
+55943,231,42,238000,Snake Jailbird,GOOGOL-PLEX,"Ho, move it, Q-tip. Ha."
+55945,231,44,240000,Homer Simpson,GOOGOL-PLEX,Why that little... He insulted your honor!
+55946,231,45,244000,Homer Simpson,GOOGOL-PLEX,"Sir, I demand satisfaction."
+55947,231,46,246000,Snake Jailbird,GOOGOL-PLEX,"Are you crazy, dude?"
+55948,231,47,248000,Homer Simpson,GOOGOL-PLEX,I challenge you to a duel.
+55949,231,48,252000,Snake Jailbird,GOOGOL-PLEX,The dude is crazy!
+55950,231,49,253000,Homer Simpson,GOOGOL-PLEX,"Will you duel, or are you a coward?!"
+55951,231,50,256000,Snake Jailbird,GOOGOL-PLEX,Would a coward do this? Bye!
+55952,231,51,263000,Marge Simpson,GOOGOL-PLEX,My hero!
+55953,231,52,267000,Homer Simpson,GOOGOL-PLEX,"Uh, uh. ""H"" is for Homer."
+55954,231,53,269000,Marge Simpson,GOOGOL-PLEX,"Thanks, Homer."
+55956,231,55,273000,Agnes Skinner,Moe's Tavern,I told you not to drink all those Frescas before we got in the car.
+55957,231,56,277000,Seymour Skinner,Moe's Tavern,"Mother, please! You're embarrassing me."
+55958,231,57,279000,Agnes Skinner,Moe's Tavern,"No, I'm not. Seymour needs the toilet! His bladder's full. Full of urine!"
+55959,231,58,285000,Moe Szyslak,Moe's Tavern,"Yeah, thanks. It's just past the end of the bar, next to the heavyset guy."
+55960,231,59,289000,Homer Simpson,Moe's Tavern,Heavyset? What's that supposed to mean?
+55961,231,60,290000,Moe Szyslak,Moe's Tavern,"All right, take it easy. Take it easy. I'm just saying you ain't no, uh, Tommy Tune."
+55962,231,61,294000,Homer Simpson,Moe's Tavern,"No Tommy Tune, eh? Oh, that's it. You insulted my honor."
+55963,231,62,298000,Moe Szyslak,Moe's Tavern,I-- Your what now?
+55964,231,63,300000,Homer Simpson,Moe's Tavern,I demand satisfaction! I challenge you to a duel.
+55967,231,64,303000,Moe Szyslak,Moe's Tavern,"Hey, a duel? I, ah-- Isn't that a little extreme? Here, here, have a free beer."
+55968,231,65,308000,Homer Simpson,Moe's Tavern,Really? But you've never given anyone a free beer.
+55969,231,66,311000,Moe Szyslak,Moe's Tavern,"Yeah, I ain't never been slapped with no duelin' glove before, either."
+55970,231,67,315000,Homer Simpson,Moe's Tavern,"Wow, a free beer! And I owe it all to a little glove slap. GLOVE SLAP..."
+55971,231,68,321000,Homer Simpson,Moe's Tavern,"BABY, GLOVE SLAP..."
+55972,231,69,325000,B-52'S,Moe's Tavern,A GLOVE SLAP TO A LITTLE OLD FACE WILL / GET YOU SAT-IS-FAC-TION / GLOVE SLAP BABY...
+55976,231,73,339000,B-52'S,Dr. Hibbert's Office,GLOVE SLAP / BABY GLOVE SLAP / GLOVE SLAP / I DON'T TAKE CRAP / GLOVE SLAP / SHUT YOUR BIG YAP...!
+55978,231,75,352000,Homer Simpson,Kwik-E-Mart,Coming through... challenge... duel... Hi Lenny... how dare you... demand satisfaction...
+55979,231,76,356000,Colonel,Kwik-E-Mart,"Suh, your challenge is accepted."
+55980,231,77,358000,Homer Simpson,Kwik-E-Mart,Huh?
+55981,231,78,358000,Colonel,Kwik-E-Mart,"I agree to the duel, suh. I choose pistols at dawn."
+55982,231,79,362000,HOMERA,Kwik-E-Mart,"Pistols at dawn?! Oh, why did I have to slap a guy who says ""suh""?"
+55983,231,80,367000,Apu Nahasapeemapetilon,Kwik-E-Mart,"You'll need a will and headstone, aisle six."
+55984,231,81,370000,Homer Simpson,Kwik-E-Mart,Aisle six?
+55986,231,83,374000,Homer Simpson,Simpson Home,Duelling at dawn? How did it ever come to this?
+55987,231,84,377000,Lisa Simpson,Simpson Home,"The National Weather Service says dawn is still scheduled for six-twenty tomorrow, and to please stop calling."
+55988,231,85,382000,Marge Simpson,Simpson Home,"Oh, Homer, I bet that southern colonel doesn't even show up."
+55989,231,86,386000,Bart Simpson,Simpson Home,"Yeah, he's probably just a big blowhard like you."
+55990,231,87,388000,Homer Simpson,Simpson Home,"Sir, that is an insult! I challenge you... What?"
+55991,231,88,398000,Homer Simpson,Simpson Home,Oh.
+55992,231,89,398000,Homer Simpson,Simpson Home,"Oh, honey, I had the worst nightmare. This glove kept slapping people and I was getting blamed."
+55993,231,90,406000,Colonel,Simpson Home,"Suh! I say, suh! The time has come!"
+55995,231,92,413000,Marge Simpson,Simpson Home,"Oh, no!"
+55996,231,93,424000,Homer Simpson,Simpson Home,"He's out there, isn't he?"
+55997,231,94,426000,Marge Simpson,Simpson Home,I'm afraid so. And his wife's with him.
+55966,231,97,431000,Marge Simpson,Simpson Home,Homer...
+55999,231,98,431000,Homer Simpson,Simpson Home,"Hey, I'm not dead yet."
+56000,231,99,433000,Homer Simpson,Simpson Home,"Save me, Marge. I saved you!"
+56001,231,100,435000,Marge Simpson,Simpson Home,Why don't you have the colonel's wife save you?
+56002,231,101,438000,Homer Simpson,Simpson Home,"Oh Marge, that's in the past. Just let it go."
+56004,231,103,442000,Colonel,OUTSIDE FRONT DOOR,"Suh, I say, suh, the hour is upon us, suh."
+56005,231,104,447000,Marge Simpson,OUTSIDE FRONT DOOR,"Hello, my husband will be right with you. We're just taking this old Christmas tree to the dump."
+56006,231,105,452000,Colonel,OUTSIDE FRONT DOOR,"Ah, well now, I wouldn't be much of a southern gentleman if I didn't help you carry that tree..."
+56007,231,106,457000,Marge Simpson,OUTSIDE FRONT DOOR,"No, no, no, no, you'll get sap on your duelling blouse."
+56008,231,107,460000,Colonel,OUTSIDE FRONT DOOR,"Well, at least let me shoot it into smaller pieces for you, madam."
+56010,231,109,464000,Bart Simpson,OUTSIDE FRONT DOOR,"Well, it's worth a try don't you--"
+56011,231,110,466000,Marge Simpson,OUTSIDE FRONT DOOR,"We're fine, Colonel. Good day."
+56014,231,113,472000,Marge Simpson,Simpson Car,Looks like you were saved by a Christmas tree.
+56015,231,114,475000,Homer Simpson,Simpson Car,And somebody wanted to get rid of it in April.
+56017,231,116,478000,Homer Simpson,Gas Station,"Flanders, you gotta help me. Is there a southern couple parked in front of my house?"
+56019,231,118,483000,Ned Flanders,Flanders Home,"Oooh, yes indeedy, Homer. Looks like they're settling in for a long stay."
+56020,231,119,489000,Homer Simpson,Flanders Home,"I was afraid of that. Well, goodbye, my gentle neighbor. You know, I've always wanted to tell you how mu..."
+56021,231,120,495000,Recorded Voice,Flanders Home,"To continue talking, please deposit ten cents."
+56022,231,121,497000,Homer Simpson,Flanders Home,"Ah, screw it."
+56024,231,123,501000,Bart Simpson,Car,We can't go back home?
+56025,231,124,502000,Lisa Simpson,Car,Where are we gonna live?
+56026,231,125,504000,Homer Simpson,Car,Ooh! How 'bout that house?
+56027,231,126,506000,Lisa Simpson,Car,That has people living in it. You can see them through the windows.
+56028,231,127,509000,Homer Simpson,Car,Lousy show-offs.
+56029,231,128,510000,Marge Simpson,Car,Look! It's Jimmy Carter!
+56030,231,129,512000,Lisa Simpson,Car,"Could you build us a house, President Carter? We can't go back to ours."
+56031,231,130,516000,Jimmy Carter,Car,"I'm sorry, these are for the truly needy."
+56032,231,131,518000,Cletus Spuckler,Car,"Yeah, git yer own habitat."
+56033,231,132,521000,Homer Simpson,Car,"Come on, Carter, build us a house, you lazy bum."
+56034,231,133,524000,Jimmy Carter,Car,"You have offended me, suh. I challenge you to--"
+56035,231,134,524000,Jimmy Carter,Car,"Come back here! Why, you yellow belly..."
+56036,231,135,524000,Homer Simpson,Car,"Come on, move it!"
+56037,231,136,532000,Lisa Simpson,Car,"Where are we going, Dad?"
+56038,231,137,534000,Homer Simpson,Car,How should I know?
+56039,231,138,535000,Marge Simpson,Car,Then why are you driving so fast?
+56040,231,139,537000,Homer Simpson,Car,'Cause I'm trying to think! What would Zorro do?
+56041,231,140,544000,Homer Simpson,Car,Zo-rrooo!
+56042,231,141,544000,Homer Simpson,Car,"""Rural route 9?"" That's it! We can hide out at the farm where I grew up!"
+56043,231,142,552000,Bart Simpson,Car,You mean Grampa's old farm?
+56044,231,143,554000,Homer Simpson,Car,"Yeah, it'll be fun. Fresh country air, apples for the pickin'... sing-along hayrides..."
+56045,231,144,560000,Bart Simpson,Car,What a dump!
+56046,231,145,563000,Homer Simpson,Car,Race ya to the swimmin' hole!
+56047,231,146,569000,Homer Simpson,Car,"Com'on, Maw. Bring the young 'uns! There's no leeches! Lots of snakes, though."
+56049,231,148,586000,Marge Simpson,Farmhouse,"Holy moly, we can't stay here. It's full of raccoons."
+56050,231,149,590000,Homer Simpson,Farmhouse,Just think of 'em as cats with rabies.
+56051,231,150,593000,Homer Simpson,Farmhouse,"Hello, kitty."
+56052,231,151,596000,Homer Simpson,Farmhouse,You little scamp.
+56053,231,152,599000,Lisa Simpson,Farmhouse,Are we really gonna live here and grow crops?
+56054,231,153,601000,Homer Simpson,Farmhouse,Absolutely. This is our big chance. The Simpsons will be reborn as a bunch of gap-toothed bumpkins.
+56055,231,154,608000,Bart Simpson,Farmhouse,I'll dig an outhouse.
+56056,231,155,609000,Lisa Simpson,Farmhouse,I'll weed the floor.
+56057,231,156,610000,Marge Simpson,Farmhouse,I'll repress the rage I'm feeling.
+56058,231,157,612000,Homer Simpson,Farmhouse,That's my girl. Let the agriculture begin!
+56060,231,159,616000,Homer Simpson,Behind Farmhouse,"All right, let's see what the old girl can do."
+56061,231,160,621000,Bart Simpson,Behind Farmhouse,It doesn't sound very tractor-y.
+56062,231,161,624000,Homer Simpson,Behind Farmhouse,Hang on.
+56063,231,162,624000,Homer Simpson,Behind Farmhouse,And... there.
+56064,231,163,627000,Homer Simpson,Behind Farmhouse,Now we're talkin'!
+56066,231,165,631000,Bart Simpson,Behind Farmhouse,Dad!
+56067,231,166,632000,Homer Simpson,Behind Farmhouse,Go get Lassie.
+56068,231,167,632000,Bart Simpson,Behind Farmhouse,Lassie?
+54749,231,168,634000,Homer Simpson,Behind Farmhouse,I mean Lisa.
+56069,231,170,639000,Lisa Simpson,Barn,"Oh, you poor little sheep! No one's sheared you for years!"
+56070,231,171,645000,Lisa Simpson,Barn,"All right. Almost done, my little friend. Soon you'll be a nice, cool... RAT?!"
+56072,231,173,656000,Farmer,Feed Store,"Well, well, look at the city slicker pullin' up in his fancy German car."
+56073,231,174,661000,Homer Simpson,Feed Store,This car was made in Guatemala.
+56074,231,175,662000,Farmer #2,Feed Store,"Well pardon us, Mr. Gucci loafers."
+56075,231,176,666000,Homer Simpson,Feed Store,I bought these shoes from a hobo.
+56076,231,177,668000,Farmer,Feed Store,"Well la-dee-da, Mr. Park-Avenue manicure."
+56077,231,178,671000,Homer Simpson,Feed Store,"I'm sorry, I believe in good grooming."
+56078,231,179,677000,Storekeeper,Feed Store,You're not gonna grow nothin' on the old Simpson place. That's why your daddy abandoned it.
+56079,231,180,681000,Homer Simpson,Feed Store,"Aw, what do you know?"
+56080,231,181,682000,Storekeeper,Feed Store,"Well, I know your soil pH is up around 9.6, and you need it seven to eight, max."
+56081,231,182,686000,Homer Simpson,Feed Store,"Oh, that's just superstition."
+56082,231,183,689000,Homer Simpson,Feed Store,You watch me. I'll grow something out there.
+56083,231,184,692000,Storekeeper,Feed Store,Not if you're plantin' Gummi Bears.
+56085,231,186,698000,Bart Simpson,Feed Store,"Wow, Dad, this is the juiciest watermelon I ever tasted."
+56086,231,187,702000,Homer Simpson,Feed Store,"Yeah, I hope I can grow some like that."
+56087,231,188,704000,Bart Simpson,Feed Store,What are you planting?
+56088,231,189,705000,Homer Simpson,Feed Store,"Oh, a little bit of everything."
+56089,231,190,707000,Homer Simpson,Feed Store,"Something will thrive in this harsh, merciless soil."
+56090,231,191,710000,Homer Simpson,Feed Store,"And for those who face nature unafraid, it is they who reap the... ah... I'm down."
+56091,231,192,715000,Bart Simpson,Feed Store,Paw!
+56092,231,193,716000,Homer Simpson,Feed Store,Move the handbrake...
+56094,231,195,719000,Homer Simpson,Feed Store,"Ohhh, that's heaven."
+56096,231,197,723000,Homer Simpson,Farm,"Oh, it's been a month. Why won't anything grow?"
+56097,231,198,726000,Marge Simpson,Farm,Maybe it needs more fertilizer.
+56098,231,199,728000,Homer Simpson,Farm,"I'm only one man, Marge."
+56099,231,200,730000,Marge Simpson,Farm,"Well, it's probably just a bad growing season."
+56100,231,201,733000,Farmer,Farm,"Hot diggity! It's up to her eye. Time to harvest, boys!"
+56101,231,202,738000,Farmer,Farm,"Nice work, Petunia. Here you go."
+56103,231,204,741000,Homer Simpson,Farm,"Oh, who am I kidding? I'm no farmer."
+56104,231,205,747000,Farmer,Farm,"Well, if it isn't Mr. Salad Fork. You couldn't grow stink on a monkey."
+56105,231,206,752000,Homer Simpson,Farm,"Leave me alone, you big bully."
+56106,231,207,753000,Farmer,Farm,"Oh, I'm just razzin' ya. It's my way. Here, have an ear on me."
+56109,231,210,761000,Marge Simpson,Farmhouse,"More tumbleweed, Lisa?"
+56110,231,211,763000,Lisa Simpson,Farmhouse,No thanks. I'm still finishing my thistles.
+56111,231,212,765000,Bart Simpson,Farmhouse,"Dad, if we leave for town right now, we can catch the dinner special at Krusty-Burger."
+56112,231,213,769000,Homer Simpson,Farmhouse,"Sorry, boy. Going back to Springfield would be a coward's way out."
+56113,231,214,772000,Bart Simpson,Farmhouse,Wasn't skipping town in the first place a coward's way out?
+56114,231,215,775000,Homer Simpson,Farmhouse,"Oh, you're right. I'm a coward. I've made such a mess of things. If only there was some magic potion that would make those crops grow..."
+56115,231,216,787000,Homer Simpson,Farmhouse,Wait a minute.
+56117,231,218,792000,Lenny Leonard,Springfield Nuclear Power Plant,"Plutonium?! Gee, Homer, isn't that kinda risky?... Yeah, I guess you're right. It's not."
+56118,231,219,800000,Carl Carlson,Springfield Nuclear Power Plant,"Hey Lenny, you sendin' some outgoing mail?"
+56119,231,220,802000,Lenny Leonard,Springfield Nuclear Power Plant,You know it.
+56120,231,221,804000,Carl Carlson,Springfield Nuclear Power Plant,I'll probably send some tomorrow.
+56121,231,222,805000,Lenny Leonard,Springfield Nuclear Power Plant,I hear that.
+56124,231,225,817000,Homer Simpson,Barn,Easy... careful... steady...
+56125,231,226,830000,Homer Simpson,Barn,Time to give Mother Nature a little goose.
+56127,231,228,833000,Homer Simpson,Field,"Well, Marge, have you ever seen a field glow like that?"
+56128,231,229,836000,Marge Simpson,Field,"It's eerily beautiful, but are you sure this is safe?"
+56129,231,230,840000,Homer Simpson,Field,Of course not. But you know something? Sometimes you have to break the rules to free your heart.
+56130,231,231,847000,Marge Simpson,Field,You got that from a movie poster!
+56131,231,232,850000,Homer Simpson,Field,"Well, when there's nothing left to believe in, believe in hope."
+56132,231,233,854000,Marge Simpson,Field,Where'd you get that?
+56133,231,234,855000,Homer Simpson,Field,"From the producers of ""Waiting to Exhale."""
+56134,231,235,858000,Marge Simpson,Field,Is that plutonium on your gums?
+56135,231,236,860000,Homer Simpson,Field,Shut up and kiss me.
+55202,231,238,869000,Homer Simpson,Farmhouse,"Wake up, honey!"
+56137,231,239,870000,Homer Simpson,Farmhouse,It's time to harvest our radioactive supercrop!
+56138,231,240,874000,Marge Simpson,Farmhouse,But it's only been one night.
+56139,231,241,876000,Homer Simpson,Farmhouse,"That's all it takes. If we learned one thing from ""The Amazing Colossal Man,"" and ""Grasshopperus,"" it's that radiation makes stuff grow real big, real fast."
+56140,231,242,886000,Marge Simpson,Farmhouse,"Yeah, but didn't Grasshopperus kill Chad Everett?"
+56141,231,243,889000,Homer Simpson,Farmhouse,Only 'cause he tried to reason with him.
+56142,231,244,891000,Marge Simpson,Farmhouse,Oh.
+56143,231,245,892000,Homer Simpson,Farmhouse,"Brace yourselves, everybody. You're about to see the hugest, juiciest, possibly super-intelligent vegetables man has ever known. You might want to crane your necks upward now to save time."
+56144,231,246,904000,Homer Simpson,Farmhouse,Ta-da!
+56146,231,248,909000,Homer Simpson,Field,"All right, now don't panic. It's possible the giant vegetables are invisible."
+56147,231,249,917000,Homer Simpson,Field,Ah-ha!
+56148,231,250,917000,Homer Simpson,Field,Oh... Where are you?
+56150,231,252,920000,Marge Simpson,Field,"Oh, honey, give it up."
+56151,231,253,921000,Homer Simpson,Field,"Oh, you're right. This farm's hopeless. Why didn't I listen to those inbred hicks? I guess I'll just go hang myself in the barn."
+56152,231,254,928000,Marge Simpson,Field,"Homer, no!"
+56153,231,255,929000,Bart Simpson,Field,"Let 'im go, Mom."
+56154,231,256,930000,Lisa Simpson,Field,"Wait, Dad, you don't have to kill yourself."
+56155,231,257,932000,Homer Simpson,Field,This better be good.
+56156,231,258,935000,Lisa Simpson,Field,Something's growing.
+56157,231,259,936000,Homer Simpson,Field,A sprout!
+56158,231,260,938000,Homer Simpson,Field,And there's some more!
+56159,231,261,939000,Marge Simpson,Field,What is it? Carrots? Peas? Maybe it's okra.
+56160,231,262,943000,Homer Simpson,Field,Who cares what it is? It's growing! I've saved the farm!
+56161,231,263,956000,Homer Simpson,Field,Look at my babies. This tomato will be Heinz ketchup. And this to-mah-to will be Hunt's catsup.
+56162,231,264,968000,Homer Simpson,Field,"Bup, no fighting, boys."
+56163,231,265,968000,Bart Simpson,Field,Bleh! Tastes like cigarette butts.
+56164,231,266,970000,Marge Simpson,Field,"That's odd. The outside looks like a tomato, but the inside is brown."
+56165,231,267,975000,Lisa Simpson,Field,Maybe the tomato seeds crossbred with the tobacco seeds.
+56166,231,268,978000,Homer Simpson,Field,"Oh, great. I got a field full of mutants."
+56167,231,269,981000,Bart Simpson,Field,Gimme! I want more!
+56169,231,271,984000,Lisa Simpson,Field,I thought you said it tasted terrible.
+56170,231,272,986000,Bart Simpson,Field,It does. But it's smooth and mild. And refreshingly addictive.
+56171,231,273,993000,Homer Simpson,Field,"Addictive, eh?"
+56173,231,275,997000,Lisa Simpson,ROADSIDE STAND,"""ToMacco?"" That's pretty clever, Dad. I mean, for a product that's evil and deadly."
+56174,231,276,1002000,Homer Simpson,ROADSIDE STAND,"Aw, thanks honey."
+56175,231,277,1004000,Marge Simpson,ROADSIDE STAND,"Well, I'm not crazy about the plutonium or nicotine, but it is very nice to see Bart eating his vegetables."
+56176,231,278,1014000,Chief Wiggum,ROADSIDE STAND,"Excuse me, Mr. Farmer man. I promised my son he could tip over his first cow, and I... ""ToMacco?"""
+56177,231,279,1021000,Homer Simpson,ROADSIDE STAND,"Yes, it's the latest craze. Try some, won't you?"
+56178,231,280,1025000,Chief Wiggum,ROADSIDE STAND,"Go ahead, Ralphie. The stranger is offering you a treat."
+56179,231,281,1028000,Ralph Wiggum,ROADSIDE STAND,Mmm...
+56180,231,282,1030000,Ralph Wiggum,ROADSIDE STAND,"Oh Daddy, this tastes like Grandma."
+56181,231,283,1035000,Chief Wiggum,ROADSIDE STAND,"Holy Moses, it does taste like Grandma."
+56182,231,284,1038000,Ralph Wiggum,ROADSIDE STAND,I want more.
+56183,231,285,1038000,Chief Wiggum,ROADSIDE STAND,"Yeah, me too. We'll take a bushel or a peck or just, just give it to me."
+56185,231,287,1047000,Marge Simpson,ROADSIDE STAND,Can I interest you in a mincemeat pie? There very...
+56186,231,288,1050000,Chief Wiggum,ROADSIDE STAND,Does it have tomacco in it?
+56187,231,289,1051000,Marge Simpson,ROADSIDE STAND,"No, but I use only the fre..."
+56188,231,290,1051000,Chief Wiggum,ROADSIDE STAND,Pass.
+56189,231,291,1053000,Customers,ROADSIDE STAND,"I was here first! / C'mon, c'mon people!"
+56190,231,292,1055000,Homer Simpson,ROADSIDE STAND,Don't push. There's plenty of tomacco for everyone.
+56191,231,293,1058000,Bart Simpson,ROADSIDE STAND,Have your cash or food stamps ready!
+56192,231,294,1060000,Marge Simpson,ROADSIDE STAND,Don't forget your mincemeat pie!
+56193,231,295,1062000,Homer Simpson,ROADSIDE STAND,"You're scaring the customers, honey."
+56194,231,296,1068000,Executive,ROADSIDE STAND,"Hello, folks. Would you and your family like to take a ride with us?"
+56195,231,297,1072000,Homer Simpson,ROADSIDE STAND,Okay.
+56197,231,299,1074000,Sandy,Van,"Meet the Laramie cigarette team. This is Mindy, J.P. and Emile."
+56198,231,300,1078000,Mindy,Van,"Homer, we're in a bit of a pickle. Kids are crazy about tobacco, but the politicians won't let us sell it to them."
+56199,231,301,1085000,Homer Simpson,Van,Those dirty rotten...
+56202,231,302,1085000,Mindy,Van,"Tell me about it. But there's no law against selling kids tomacco. That little ""M"" is worth a lot of money to us... and to you."
+56203,231,303,1093000,Homer Simpson,Van,How much?
+56204,231,304,1094000,Sandy,Van,"Well, let's say a hundred..."
+56206,231,306,1096000,Sandy,Van,... and fifty...
+56208,231,308,1097000,Sandy,Van,... million dollars.
+56209,231,309,1098000,Homer Simpson,Van,One hundred and... May I speak to my family for a moment?
+56211,231,311,1104000,Homer Simpson,LAVATORY,"Did you see the way Emile's lookin' at Mindy? Hoo-hoo, I think something's going on there."
+56212,231,312,1108000,Marge Simpson,LAVATORY,Shouldn't we be talking about the hundred and fifty million dollar offer?
+56213,231,313,1111000,Homer Simpson,LAVATORY,"Oh, yeah. Let's take it."
+56214,231,314,1113000,Lisa Simpson,LAVATORY,"Dad, it's a tobacco company. They make billions off the suffering and deaths of others."
+56215,231,315,1117000,Bart Simpson,LAVATORY,"She's right, Dad. They can afford a lot more."
+56216,231,316,1118000,Lisa Simpson,LAVATORY,"No, I..."
+56217,231,317,1120000,Marge Simpson,LAVATORY,I'm with Lisa. Let's take 'em to the cleaners.
+56219,231,319,1123000,Homer Simpson,Van,We all agree that a hundred and fifty million is an insult. The least we can accept is a hundred and fifty billion.
+56221,231,321,1134000,Homer Simpson,Road in Front of Simpson Farm,They'll be back. We control the world's supply of tomacco and no one can take that away from...
+56222,231,322,1141000,Homer Simpson,Road in Front of Simpson Farm,Stop eating our future!
+56223,231,323,1142000,Homer Simpson,Road in Front of Simpson Farm,Get the... get outta... bad animals! Go home!
+56224,231,324,1146000,Homer Simpson,Road in Front of Simpson Farm,"Thank God, there's one left!"
+56227,231,327,1148000,Homer Simpson,Road in Front of Simpson Farm,"Look, a flying saucer!"
+56231,231,331,1157000,Homer Simpson,Farmhouse,"There, there. We had quite a scare today. But you're gonna make us millions. Yes you are."
+56232,231,332,1164000,Lisa Simpson,Farmhouse,You're about to launch a terrible evil on the world. You've gotta destroy this plant.
+56233,231,333,1168000,Homer Simpson,Farmhouse,"I know, honey. But what can I do, as an individual? I wouldn't know where to begin."
+56234,231,334,1173000,Lisa Simpson,Farmhouse,Just burn that plant right now and end this madness.
+56200,231,335,1176000,Homer Simpson,Farmhouse,"I wish I could make a difference, Lisa, but I'm just one man."
+56235,231,337,1180000,Homer Simpson,Farmhouse,"I agree, but how?"
+56237,231,339,1188000,Homer Simpson,Farmhouse,They're after the tomacco!
+56238,231,340,1194000,Lisa Simpson,Farmhouse,Now you can't tell me nicotine's not addictive.
+56239,231,341,1197000,Homer Simpson,Farmhouse,"Lisa, there's absolutely no evidence this is..."
+56240,231,342,1202000,Cow,Farmhouse,Tomaaaccohhhh!
+56241,231,343,1210000,Marge Simpson,Farmhouse,"Give them the plant, Homer!"
+56242,231,344,1212000,Homer Simpson,Farmhouse,"No, I'd rather die!"
+56243,231,345,1215000,Homer Simpson,Farmhouse,Take it!
+56244,231,346,1221000,Mindy,Farmhouse,Well! What a lovely gift. Gotta run!
+56245,231,347,1224000,Homer Simpson,Farmhouse,"So, Mindy? How did you want to pay me the hundred and fifty million?"
+56246,231,348,1228000,Homer Simpson,Farmhouse,Cash'll be okay! Or stock? Does your company have stock?
+56247,231,349,1233000,Homer Simpson,Farmhouse,Mindy?
+56248,231,350,1234000,Homer Simpson,Farmhouse,Mindy and I are just hammering out a payment plan. We'll talk Monday!
+56250,231,352,1239000,Sandy,Helicopter,"Hey, props to Mindy on the grab."
+56251,231,353,1239000,Sandy,Helicopter,Booya!
+56252,231,354,1243000,Pilot,Helicopter,"Guys, we seem to be carrying a little extra weight."
+56253,231,355,1245000,J.P.,Helicopter,"Don't look at me, I'm on Sugar Busters."
+56258,231,360,1257000,Marge Simpson,Simpson Car,I've never been so glad to be home.
+56259,231,361,1260000,Homer Simpson,Simpson Car,I don't know why we ever left in the first place.
+56262,231,364,1264000,Colonel,Simpson Front Yard,"Five! Six! Seven! Eight, I say, eight! Nine! Aaannnd ten-- What is that intoxicatin' aroma? Could that be, I say, could that be mincemeat pie?"
+56263,231,365,1278000,Marge Simpson,Simpson Front Yard,It certainly is. Why don't you put down your gun and have a slice?
+56264,231,366,1282000,Colonel,Simpson Front Yard,I don't mind if I do.
+56265,231,367,1284000,Homer Simpson,Simpson Front Yard,"Hey, are we duellin' or what?"
+56266,231,368,1286000,Colonel,Simpson Front Yard,"Oh, where are my manners?"
+56268,231,370,1292000,Bart Simpson,Simpson Front Yard,"You okay, Dad?"
+56269,231,371,1293000,Homer Simpson,Simpson Front Yard,I think so. The bone stopped the bullet.
+56270,231,372,1296000,Lisa Simpson,Simpson Front Yard,"Dad, this might be one of those things you should go to the hospital for."
+56271,231,373,1300000,Homer Simpson,Simpson Front Yard,After pie.
+56272,231,375,1307000,B-52'S,Simpson Front Yard,"GLOVE SLAP / SHUT YOUR BIG YAP / GLOVE SLAP / BABY GLOVE SLAP / OOHH, GLOVE THAT'S WHERE IT'S AT YEAH / GLOVE BABY GIVE IT A SLAP / GLOVE SLAP I DON'T TAKE CRAP / GLOVE SLAP / SHUT YOUR BIG YAP / A GLOVE SLAP TO A LITTLE OL' FACE WILL GET YOU / SA-TIS-FAC-TION / GLOVE SLAP BA-BY...!"

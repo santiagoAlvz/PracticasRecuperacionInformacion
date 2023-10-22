@@ -1,0 +1,263 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+49377,210,1,83000,Rev. Timothy Lovejoy,First Church of Springfield,... And may we burn in painful and foul-smelling fire forever and ever.
+49378,210,2,92000,Rev. Timothy Lovejoy,First Church of Springfield,Aaaaa--
+49379,210,3,92000,Rev. Timothy Lovejoy,First Church of Springfield,MMMennnn...onite minister will be giving a guest sermon next Sunday. Go in peace. Aaaa--
+49380,210,4,103000,Homer Simpson,First Church of Springfield,Don't make me come up there!
+49381,210,5,104000,Rev. Timothy Lovejoy,First Church of Springfield,...men.
+49382,210,6,104000,Homer Simpson,First Church of Springfield,Woo hoo!
+49384,210,8,111000,Bart Simpson,Simpson Car,"I'm starving. Mom, can we go Catholic so we get communion wafers and booze?"
+49385,210,9,116000,Marge Simpson,Simpson Car,"No, no one's ""going Catholic."" Three children is enough, thank you."
+49386,210,10,121000,Homer Simpson,Simpson Car,"Hang in there, son. I'm taking us out for our traditional Sunday brunch."
+49387,210,11,127000,Homer Simpson,Simpson Car,"He zinged you, Marge."
+49389,210,13,131000,Homer Simpson,Eatie Gourmet's,Brunch is served!
+49391,210,15,135000,Marge Simpson,Eatie Gourmet's,I feel guilty coming here every Sunday and never actually buying anything.
+49392,210,16,139000,Homer Simpson,Eatie Gourmet's,"Why? We're following the rules -- if it has a toothpick in it, it's free."
+49394,210,18,151000,Lisa Simpson,Eatie Gourmet's,"Ah, this is my kind of aisle -- soy substitute... whizless cheese... oven-roasted cud!"
+49395,210,19,159000,Clerk,Eatie Gourmet's,It's packed in its own drool!
+49397,210,21,163000,Range-rover Mom,Eatie Gourmet's,"Gavin, honey, help Mommy pick a cereal. How 'bout Alfalfa-bits?"
+49398,210,22,167000,Gavin,Eatie Gourmet's,Those suck! I hate this store!
+49399,210,23,170000,Range-rover Mom,Eatie Gourmet's,"But, sweetheart, Mommy--"
+49400,210,24,171000,Gavin,Eatie Gourmet's,"I hate you, too! I want to live with one of my Dads!"
+49402,210,26,175000,Bart Simpson,Supermarket,"Mmm... So you say this product is known as ""fudge?"""
+49403,210,27,180000,Employee,Supermarket,Yes. Just like it was last week.
+49404,210,28,182000,Bart Simpson,Supermarket,"If you're gonna get snippy, I'll take my business elsewhere."
+49406,210,30,185000,Homer Simpson,Eatie Gourmet's,"Cherry Garcia... Honey Bono... Desmond Tutti Fruitti... Lisa, help Daddy find some normal flavors."
+49407,210,31,196000,Lisa Simpson,Eatie Gourmet's,Candy Warhol? Xavier Nougat?
+49408,210,32,200000,Homer Simpson,Eatie Gourmet's,"Nooo, nothing made of dead guys. What's in the back?"
+49409,210,34,205000,Homer Simpson,Eatie Gourmet's,Hurry up. My hands are getting cold.
+49411,210,36,209000,Marge Simpson,Eatie Gourmet's,"Oh my goodness! Homer, get her out of there!"
+49413,210,38,214000,Homer Simpson,Eatie Gourmet's,Sherbet Hoover?
+49414,210,39,217000,Marge Simpson,Eatie Gourmet's,"Oh, we've got to get you home to a warm blanket and a cold compress."
+49415,210,40,221000,Homer Simpson,Eatie Gourmet's,Ooooh.
+49417,210,42,225000,Lobster Clerk,Eatie Gourmet's,"Those are eight dollars a pound, sport."
+49418,210,43,227000,Homer Simpson,Eatie Gourmet's,"Hmmm, eight dollars a pound... times say, oh, five pounds... is, ummm... let's see, how many pounds in a gallon? Oh, I can't afford that."
+49419,210,44,235000,Homer Simpson,Eatie Gourmet's,Unless...
+49421,210,46,243000,Homer Simpson,Simpson Home,"I tell ya, I'm a financial genius. I buy an eight-dollar lobster, fatten it into an eighty-dollar lobster, and eat the profits."
+49422,210,47,251000,Lisa Simpson,Simpson Home,Lobsters need salt water.
+49423,210,48,252000,Homer Simpson,Simpson Home,I'm way ahead of you.
+49424,210,49,258000,Bart Simpson,Simpson Home,Dad! The fish!
+49425,210,50,259000,Homer Simpson,Simpson Home,Hold on. I'm still fine-tuning.
+49426,210,51,262000,Homer Simpson,Simpson Home,Uh-oh.
+49427,210,52,265000,Homer Simpson,Simpson Home,Perfect.
+49429,210,54,268000,Marge Simpson,Simpson Home,"Ohh, you don't sound so good. We'd better get you some cold medicine."
+49430,210,55,272000,Homer Simpson,Simpson Home,No problem. I picked some up at the store.
+49431,210,56,277000,Marge Simpson,Simpson Home,Ohh.
+49433,210,58,277000,Marge Simpson,Simpson Kitchen,"Oh, Homie, you made breakfast."
+49434,210,59,281000,Homer Simpson,Simpson Kitchen,Nothing's too good for my one and only.
+49435,210,60,284000,Homer Simpson,Simpson Kitchen,"Eat, eat! You're nothing but skin and bones."
+49436,210,61,290000,Marge Simpson,Simpson Kitchen,"Ohh, how are you feeling, sweetie?"
+49437,210,62,291000,Lisa Simpson,Simpson Kitchen,Much better.
+49438,210,63,295000,Marge Simpson,Simpson Kitchen,"Oh my, you're burning up. I'm going to tell the school you're staying home."
+49439,210,64,299000,Lisa Simpson,Simpson Kitchen,I'm afraid I can't allow that.
+49440,210,65,301000,Marge Simpson,Simpson Kitchen,Lisa!
+49441,210,66,303000,Lisa Simpson,Simpson Kitchen,"Mom, no, wait! We can make a deal!"
+49442,210,67,306000,Marge Simpson,Simpson Kitchen,You don't have anything I want.
+49445,210,68,309000,Documentary Narrator,Simpson Kitchen,The ocean abounds with fearsome creatures -- but none attacks its prey with more fury than the seaweed shark.
+49446,210,69,318000,Documentary Narrator,Simpson Kitchen,The struggle is soon over.
+49448,210,71,321000,Marge Simpson,Lisa's Bedroom,You shouldn't be watching the Learning Channel. You need to take it easy.
+49449,210,72,326000,Lisa Simpson,Lisa's Bedroom,But I'm hardly learning at all.
+49450,210,73,328000,Marge Simpson,Lisa's Bedroom,Why don't you play with one of Bart's video games instead? Hugh Downs says they're the latest craze.
+49452,210,75,341000,Taskmaster,Simpson Home,Foolish dingo! You must find and devour the seven crystal babies or spend eternity trapped in deep didgeri-doo!
+49453,210,76,350000,Lisa Simpson,Simpson Home,I am so scared.
+49454,210,77,352000,Lisa Simpson,Simpson Home,"All right, I guess you're supposed to go through this stupid door..."
+49455,210,78,356000,Lisa Simpson,Simpson Home,Hmm... I wonder what's in this glowing barrel.
+49456,210,79,360000,Lisa Simpson,Simpson Home,What? Nunchuks? Those aren't even Australian.
+49457,210,80,366000,Lisa Simpson,Simpson Home,"Oh, great. So I'm dead now? Fine, I'm sick of this stupid game anyway."
+49460,210,83,371000,Lisa Simpson,Lisa's Bedroom,Yes!
+49461,210,84,372000,Lisa Simpson,Lisa's Bedroom,I am just four power wands away from an anti-gravity lozenge. Hope I don't run into that weird little troll!
+49462,210,85,378000,Ralph Wiggum,Lisa's Bedroom,Hi Lisa.
+49463,210,86,379000,Lisa Simpson,Lisa's Bedroom,"No, pause, pause!"
+49464,210,87,381000,Ralph Wiggum,Lisa's Bedroom,I brought your homework. We have to read this.
+49465,210,88,384000,Lisa Simpson,Lisa's Bedroom,The Wind in the Willows.
+49466,210,89,386000,Ralph Wiggum,Lisa's Bedroom,It's about a toad and a badger and a mole. I drawed on mine! Is this my house?
+49467,210,90,392000,Lisa Simpson,Lisa's Bedroom,"No, you live in a different house."
+49468,210,91,395000,Ralph Wiggum,Lisa's Bedroom,Choo choo choo choo woo woo!
+49469,210,92,398000,Taskmaster,Lisa's Bedroom,I shall rule the Down Under-verse!
+49470,210,93,401000,Lisa Simpson,Lisa's Bedroom,"We'll see about that, mate."
+49472,210,95,407000,Homer Simpson,Simpson Home,"Okay, together, we weigh three hundred pounds. According to my driver's license, I weigh 140 pounds."
+49473,210,96,414000,Homer Simpson,Simpson Home,"That means that you weigh... One hundred and sixty pounds! Oh-ho-ho, you're doin' great!"
+49474,210,97,420000,Lisa Simpson,Simpson Home,"No, no! Yes! That's it! Bite, bite, bite!"
+49443,210,98,424000,Marge Simpson,Simpson Home,Lisa?
+49475,210,99,426000,Marge Simpson,Simpson Home,"Oh, sweetie, you look so much better. Ready to go back to school?"
+49476,210,100,430000,Lisa Simpson,Simpson Home,"Ah, I don't know. I mean, I could risk it, but..."
+49477,210,101,434000,Marge Simpson,Simpson Home,"No, no, you just stay put."
+49478,210,102,436000,Bart Simpson,Simpson Home,"Wow, you didn't even feel her forehead. How do I get that kind of credibility?"
+49479,210,103,441000,Marge Simpson,Simpson Home,With eight years of scrupulous honesty.
+49480,210,104,443000,Bart Simpson,Simpson Home,"Meh, it's not worth it."
+49481,210,105,447000,Lisa Simpson,Simpson Home,"Oh, I really need one more day, Mom. I think the germs are regrouping. Now for breakfast I'll have hash browns, coffee and a short stack. And would it kill you to heat up the syrup?"
+49483,210,107,459000,Lisa Simpson,Marge's Car,But I-I might infect the other kids!
+49484,210,108,461000,Marge Simpson,Marge's Car,That's a risk I'm willing to take. So long!
+49486,210,110,465000,Miss Hoover,Miss Hoover's Classroom,"Welcome back, Lisa. I trust you got the homework I assigned?"
+49487,210,111,469000,Lisa Simpson,Miss Hoover's Classroom,"""The Wind in the Willows?"" Oh yeah, Ralph brought it over."
+49488,210,112,471000,Miss Hoover,Miss Hoover's Classroom,Perfect. Then I won't need to excuse you from the test.
+49489,210,113,474000,Lisa Simpson,Miss Hoover's Classroom,Test?
+49490,210,114,475000,Mr. Toad,Miss Hoover's Classroom,"Game over, mate."
+49492,210,116,483000,Lisa Simpson,Miss Hoover's Classroom,Okay. All right. You can bluff your way through one test.
+49493,210,117,487000,Lisa Simpson,Miss Hoover's Classroom,"""Mr. Toad has a red blank."" Okay, skip that one. ""Mr. blank needs a blank in order to blank his blank."" I am in deep blank."
+49494,210,118,497000,Miss Hoover,Miss Hoover's Classroom,And the lowest grade in the class...
+49495,210,119,499000,Ralph Wiggum,Miss Hoover's Classroom,She's gonna say my name!
+49496,210,120,500000,Miss Hoover,Miss Hoover's Classroom,"...Lisa Simpson, zero."
+49498,210,122,503000,Seymour Skinner,Miss Hoover's Classroom,"Lisa, the President of Harvard would like a word with you."
+49499,210,123,506000,President Of Harvard,Miss Hoover's Classroom,"Nasty business, that zero. Naturally, Harvard's doors are now closed to you. But I'll pass your file along to Brown."
+49500,210,124,515000,Seymour Skinner,Miss Hoover's Classroom,"Mmm... heck of a school. Weren't you at Brown, Otto?"
+49501,210,125,518000,Otto Mann,Miss Hoover's Classroom,"Yup. Almost got tenure, too."
+49502,210,126,521000,Lisa Simpson,Miss Hoover's Classroom,"No, not Brown!"
+49503,210,127,521000,Lisa Simpson,Miss Hoover's Classroom,"Brown, Brown, Brown..."
+49505,210,128,525000,Miss Hoover,Miss Hoover's Classroom,"Lisa, you're saying Brown an awful lot. Are you okay?"
+49506,210,129,528000,Lisa Simpson,Miss Hoover's Classroom,"Well, actually, I do feel a little feverish."
+49507,210,130,532000,Miss Hoover,Miss Hoover's Classroom,Aw. Don't worry about the test. Just get yourself a nice drink of water. Then come back and finish the test.
+49509,210,132,542000,Lisa Simpson,Hallway,"I need a miracle. Come on, you owe me."
+49510,210,133,545000,Bart Simpson,Hallway,"S'up, sis?"
+49511,210,134,546000,Lisa Simpson,Hallway,Bart?! Shouldn't you be in class?
+49512,210,135,548000,Bart Simpson,Hallway,I am.
+49513,210,136,549000,Bart Simpson,Hallway,It's a little something I whipped up in shop. Mostly latex. What're you doing out here?
+49514,210,137,554000,Lisa Simpson,Hallway,"We've got a test, and I didn't read the book. I'll get a zero for sure, Bart! What do I do?"
+49515,210,138,559000,Bart Simpson,Hallway,"Well, if it was me, I'd just take the zero. Ah, but, that's not for everyone. There's one other possibility."
+49517,210,140,565000,Lisa Simpson,Hallway Outside Boy's Bathroom,"Hey, I can't go in there!"
+49518,210,141,568000,Bart Simpson,Hallway Outside Boy's Bathroom,"Relax, there's nothing here you didn't see when Dad boycotted pants."
+49520,210,143,576000,Nelson Muntz,Boys' Bathroom,"Hang on, I'll buzz you in... Buuuzzzzzzz."
+49521,210,144,580000,Nelson Muntz,Boys' Bathroom,Teacher and subject?
+49522,210,145,581000,Bart Simpson,Boys' Bathroom,"Miss Hoover, ""Wind in the Willows."""
+49523,210,146,583000,Nelson Muntz,Boys' Bathroom,Here we go.
+49524,210,147,589000,Lisa Simpson,Boys' Bathroom,Oh my God! These are the answers to the test! I don't wanna cheat!
+49525,210,148,594000,Nelson Muntz,Boys' Bathroom,"Hey, hey... These are ""study aids."" They're for novelty purposes only. If a few bad apples use them for cheating, I can't be held responsible."
+49526,210,149,601000,Lisa Simpson,Boys' Bathroom,Forget it. I'd rather get a zero.
+49527,210,150,604000,Groundskeeper Willie,Boys' Bathroom,"Good for you, lass."
+49528,210,151,606000,Groundskeeper Willie,Boys' Bathroom,"I got me a zero once, and me life turned out just fine. Ach! Ooh, that's a nasty clog."
+49529,210,152,615000,Groundskeeper Willie,Boys' Bathroom,"Oooh, ye've got yourself a partner, have ya?"
+49530,210,153,620000,Lisa Simpson,Boys' Bathroom,Keep the change.
+49531,210,154,621000,Groundskeeper Willie,Boys' Bathroom,Come here ye slippery rascals.
+49533,210,156,624000,Homer Simpson,Simpson Home,"Good news, my delicious friend! You're going to be a free-range lobster."
+49534,210,157,630000,Homer Simpson,Simpson Home,"C'mon, boy, dig in. They'll give you a big, strong thorax."
+49053,210,159,636000,Homer Simpson,Simpson Home,Why you little--!
+49535,210,160,640000,Homer Simpson,Simpson Home,"Aw, look at him cower, just like the boy. I can't stay mad at such a helpless little mammal."
+49536,210,161,647000,Homer Simpson,Simpson Home,"Oh, I'm gonna get you for that, you little scamp!"
+49537,210,162,649000,Homer Simpson,Simpson Home,"Take that, Pinchy."
+49539,210,164,653000,Miss Hoover,Miss Hoover's Classroom,"I graded this morning's test over lunch, and most of you did quite well."
+49540,210,165,658000,Ralph Wiggum,Miss Hoover's Classroom,"I got a ""B""!"
+49541,210,166,658000,Miss Hoover,Miss Hoover's Classroom,"No, Ralph, that's an ""F"". I must have spilled some Kahlua."
+49542,210,167,663000,Miss Hoover,Miss Hoover's Classroom,"Perfect, Lisa. And you got all the extra credit questions -- even the one that got cut off by the copy machine."
+49543,210,168,670000,Lisa Simpson,Miss Hoover's Classroom,"Well, I guess I was just on a roll."
+49544,210,169,673000,Miss Hoover,Miss Hoover's Classroom,"Don't be so modest, Lisa. You earned that ""A"" plus plus plus."
+49545,210,170,677000,Lisa Simpson,Miss Hoover's Classroom,"Actually, there are four plusses."
+49546,210,171,679000,Miss Hoover,Miss Hoover's Classroom,"No, that's Drambuie."
+49549,210,174,683000,Marge Simpson,Simpson Kitchen,"Ooh, so plump and juicy. He's gonna boil up nicely."
+49550,210,175,689000,Homer Simpson,Simpson Kitchen,"Well, I guess this is it, ol' pal. This is your big day."
+49551,210,176,693000,Marge Simpson,Simpson Kitchen,"The water's boiling! Quick, chuck him in!"
+49552,210,177,695000,Homer Simpson,Simpson Kitchen,Uh...
+49553,210,178,696000,Marge Simpson,Simpson Kitchen,Come on! Chuck him in!
+49554,210,179,697000,Homer Simpson,Simpson Kitchen,Okay...
+49555,210,180,697000,Marge Simpson,Simpson Kitchen,Let's go! In the pot. In the pot.
+49556,210,181,703000,Homer Simpson,Simpson Kitchen,"But Marge, look at the little guy!"
+49557,210,182,708000,Marge Simpson,Simpson Kitchen,He looks like an ordinary... ow! Son of a--!
+49558,210,183,710000,Homer Simpson,Simpson Kitchen,"Feel that, Marge? He likes you!"
+49560,210,185,714000,Homer Simpson,Simpson Home,And now for the main course...
+49561,210,186,716000,Homer Simpson,Simpson Home,Steamed Maine cabbages!
+49562,210,187,720000,Bart Simpson,Simpson Home,"Pardon me for asking, but where the hell's my stupid lobster?"
+49563,210,188,723000,Homer Simpson,Simpson Home,We're not eating Mr. Pinchy. He's part of the family now.
+49564,210,189,728000,Homer Simpson,Simpson Home,"Pinchy, I made you some risotto."
+49565,210,190,733000,Bart Simpson,Simpson Home,What? You gotta be kiddin' me.
+49566,210,191,733000,Lisa Simpson,Simpson Home,Daddd...
+49567,210,192,733000,Homer Simpson,Simpson Home,"What's your problem, Veggie? You don't even eat lobster."
+49444,210,193,735000,Lisa Simpson,Simpson Home,"No, but I enjoy the smell."
+49568,210,194,737000,Marge Simpson,Simpson Home,"Well, lobster or no lobster, this is still a very special dinner. Ba-da da-da da-daaa!"
+49569,210,195,742000,Marge Simpson,Simpson Home,Lisa broke her own record -- by two whole plusses!
+49570,210,196,746000,Lisa Simpson,Simpson Home,"Mom, where did you get that?"
+49571,210,197,748000,Marge Simpson,Simpson Home,"Oh, it just turned up in the course of my daily rummaging. By the way, I oiled the hinge on your diary."
+49572,210,198,753000,Homer Simpson,Simpson Home,"Aren't you proud of your big sister, Mr. Pinchy? Hmm? Hmm?"
+49573,210,199,758000,Lisa Simpson,Simpson Home,"Uh, I am sick of everyone being so proud of me!"
+49574,210,200,762000,Homer Simpson,Simpson Home,That's my girl!
+49576,210,202,764000,Bart Simpson,School Bus,"Aw, cheer up, Lis. You got a good grade without even reading the book. That's win-win."
+49577,210,203,768000,Lisa Simpson,School Bus,Can't you see the difference between earning something honestly and getting it by fraud?
+49578,210,204,773000,Bart Simpson,School Bus,"Hmmm... I suppose maybe if, uh... no. No, sorry, thought I had it there for a sec."
+49580,210,206,784000,Nelson Muntz,Springfield Elementary School,"Psst, Lisa. Check it out. Tomorrow's fraction quiz. I'll give you the numerators free, but the denominators are gonna cost ya."
+49581,210,207,790000,Lisa Simpson,Springfield Elementary School,I don't want your dirty denominators.
+49582,210,208,793000,Nelson Muntz,Springfield Elementary School,"Well la-dee-dah, Lady Cheaterly. Can I at least keep you in my Rolodex?"
+49583,210,209,797000,Lisa Simpson,Springfield Elementary School,"No! I never cheated before, and I never will again! Oh, I almost wish I hadn't gotten away with it."
+49584,210,210,804000,Seymour Skinner,Springfield Elementary School,"Lisa Simpson, report to the principal's office to discuss the results of yesterday's test."
+49585,210,211,810000,Nelson Muntz,Springfield Elementary School,We never met.
+49587,210,213,813000,Seymour Skinner,Skinner's Office,"I've just received some rather unusual news regarding your unprecedented A-triple-plus. To be honest, I'm surprised and saddened. No, not saddened, what's the word...? Ah yes, delighted."
+49588,210,214,828000,Lisa Simpson,Skinner's Office,What?
+49589,210,215,829000,Seymour Skinner,Skinner's Office,I'm delighted to report that your grade brought the entire school's GPA up to our state's minimum standard. We now qualify for a Basic Assistance Grant. It's the greatest honor the school has ever received! And it's all thanks to you.
+49590,210,216,845000,Seymour Skinner,Skinner's Office,Your devotion to scholarship is a shining beacon to all who--
+49592,210,217,848000,Lisa Simpson,Skinner's Office,"Stop it! I cheated! Cheated, cheated, cheated, cheated, cheated!"
+49593,210,218,853000,Seymour Skinner,Skinner's Office,"Lisa, what are you trying to say?"
+49594,210,219,856000,Lisa Simpson,Skinner's Office,I cheated!
+49596,210,221,862000,Seymour Skinner,Skinner's Office,"You cheated? Oh, Lordy, Lordy, Lordy. Why didn't Miss Hoover tell me?"
+49597,210,222,867000,Lisa Simpson,Skinner's Office,She doesn't know. You're the only one I've told.
+49598,210,223,871000,Seymour Skinner,Skinner's Office,"Well... then, one could make the argument... that... there really is no problem."
+49599,210,224,878000,Lisa Simpson,Skinner's Office,But what I did was wrong.
+49600,210,225,880000,Seymour Skinner,Skinner's Office,"Oh, very much so, but as long as we handle this in a mature and, above all, quiet manner, we'll still get that grant money. Oh, you really scared me there."
+49601,210,226,891000,Lisa Simpson,Skinner's Office,But we can't accept that money. It's tainted.
+49602,210,227,894000,Seymour Skinner,Skinner's Office,"Now, now, leave the money out of this. It's not the money's fault you cheated. Besides, I've already started spending it. Check out the new scoreboard!"
+49603,210,228,905000,Seymour Skinner,Skinner's Office,I'm still learning all the buttons.
+49604,210,229,906000,Lisa Simpson,Skinner's Office,"Well, if you're gonna cover this up, I'll just have to go over your head to Super--"
+49605,210,230,911000,Lisa Simpson,Skinner's Office,Intendent--
+49606,210,231,913000,Lisa Simpson,Skinner's Office,Chalmers.
+49607,210,232,918000,Gary Chalmers,Skinner's Office,Skinner!! I am outraged that you've kept this from me!
+49608,210,233,922000,Gary Chalmers,Skinner's Office,"You were supposed to call as soon as the new scoreboard was in. Tell me, does it play that song ""Charge""?"
+49609,210,234,927000,Seymour Skinner,Skinner's Office,"Ohhh, does it ever!"
+49610,210,235,929000,Lisa Simpson,Skinner's Office,You can't keep this scoreboard -- because there's not gonna be any grant money! Because I cheated!
+49611,210,236,938000,Gary Chalmers,Skinner's Office,"Lisa, let's take a walk. A little traveling music, Seymour."
+49613,210,238,945000,Gary Chalmers,Springfield Elementary School,"Good Lord, what a dump. It's not surprising this school was once classified the most dilapidated in all of Missouri."
+49614,210,239,955000,Gary Chalmers,Springfield Elementary School,That's why it was shut down and moved here brick by brick.
+49615,210,240,957000,Seymour Skinner,Springfield Elementary School,"Look around, Lisa. That grant money could do a lot of good."
+49616,210,241,961000,Gary Chalmers,Springfield Elementary School,Don't you think those youngsters deserve a regulation tetherball?
+49617,210,242,965000,Nelson Muntz,Springfield Elementary School,Ow!
+49618,210,243,966000,Milhouse Van Houten,Springfield Elementary School,Ooh!
+49619,210,244,967000,Seymour Skinner,Springfield Elementary School,We could buy real periodic tables instead of these promotional ones from Oscar Mayer.
+49620,210,245,972000,Edna Krabappel-Flanders,Springfield Elementary School,"Now, who can tell me the atomic weight of Bolognium?"
+49621,210,246,974000,Martin Prince,Springfield Elementary School,"Ooo, delicious?"
+49622,210,247,976000,Edna Krabappel-Flanders,Springfield Elementary School,"Correct. I would also accept ""snacktacular."""
+49624,210,249,977000,Seymour Skinner,Springfield Elementary School,"And for the first time ever, our computer lab actually has a computer in it."
+49626,210,251,988000,Ralph Wiggum,CLASSROOM,"Hi Lisa, hi SuperNintendo Chalmers."
+49627,210,252,995000,Ralph Wiggum,CLASSROOM,I'm learnding!
+49628,210,253,996000,Lisa Simpson,CLASSROOM,"Aww. Way to go, Ralph."
+49629,210,254,998000,Gil Gunderson,CLASSROOM,"Ah, she's a beaut. You can't beat a Coleco. How many can I put you down for? A lot? Please say a lot. I need this."
+49630,210,255,1005000,Seymour Skinner,CLASSROOM,I don't know. I'm not even sure we can keep this one. It's up to Lisa.
+49631,210,256,1010000,Gary Chalmers,CLASSROOM,"What do you say, Lisa? Will you keep our little secret for the good of your classmates and your school?"
+49632,210,257,1015000,Gil Gunderson,CLASSROOM,"And let's not forget old Gil, huh? The wolf's at old Gil's door."
+49633,210,258,1027000,Lisa Simpson,CLASSROOM,I guess I don't have much choice.
+49634,210,259,1030000,Gil Gunderson,CLASSROOM,"Oh, thank God! Now let's talk rustproofing. These Coleco's will rust up on you like that. Ah-- Shut up, Gil. Close the deal. Close the deal."
+49636,210,261,1041000,Homer Simpson,Springfield Public Beach,"Relax, boy, we're not gonna cook you. Enjoy your day at the beach! Ooh, look."
+49637,210,262,1047000,Homer Simpson,Springfield Public Beach,Here's a little playmate for you.
+49638,210,263,1051000,Homer Simpson,Springfield Public Beach,"Hey, you don't have to take that from no punk-ass crab. What's wrong with you?"
+49639,210,264,1056000,Captain Horatio McCallister,Springfield Public Beach,"Arr, it's not his fault he's a sissy. Someone's been coddling him."
+49640,210,265,1060000,Marge Simpson,Springfield Public Beach,Don't look at me! I wanted to eat him!
+49641,210,266,1063000,Captain Horatio McCallister,Springfield Public Beach,"Eh, sorry, it's usually the mother. You know, I run a small academy for lobsters like this one. We stress tough love -- daily chores and the like..."
+49642,210,267,1073000,Marge Simpson,Springfield Public Beach,No! We're not sending the lobster away to some snobby boarding school.
+49643,210,268,1077000,Captain Horatio McCallister,Springfield Public Beach,"Yarr, I understand, i-it's hard to let go. Eh, tell me this, then -- do ya have any spare change?"
+49644,210,270,1087000,Seymour Skinner,Springfield Elementary School,"And now, to present the grant money, a legendary figure in educational disbursement: State Comptroller Atkins."
+49645,210,271,1097000,Homer Simpson,Springfield Elementary School,Wooo!!
+49646,210,272,1101000,Comptroller Atkins,Springfield Elementary School,Thank you. I'm here tonight to honor the girl whose unprecedented test score has set a new standard in excellence.
+49647,210,273,1107000,Comptroller Atkins,Springfield Elementary School,Lisa?
+49648,210,274,1112000,Lisa Simpson,Springfield Elementary School,"Thank you. I know this giant check is very important to everyone here. But, what's even more important is the truth."
+49649,210,275,1123000,Lisa Simpson,Springfield Elementary School,"Because after all, education is the search for truth..."
+49650,210,276,1125000,Seymour Skinner,Springfield Elementary School,"No, no it isn't! Don't listen to her! She's out of her mind!"
+49651,210,277,1128000,Lisa Simpson,Springfield Elementary School,"... And the truth is, we don't deserve this grant, and I don't deserve your applause. I cheated on that test."
+49652,210,278,1136000,Comptroller Atkins,Springfield Elementary School,Wait! How dare you condemn this girl? Who among you can honestly say you've never cheated... on your wives? Or your husbands?
+49653,210,279,1146000,Comptroller Atkins,Springfield Elementary School,"What she just did took courage. And where I come from, Canada, we reward courage. So I hereby decree that you keep the grant. And let's give this brave girl the ovation she deserves!"
+49654,210,280,1165000,Marge Simpson,Springfield Elementary School,"Oh, honey, I'm so proud of you. You got the highest grade in the class."
+49655,210,281,1169000,Lisa Simpson,Springfield Elementary School,"But, Mom--"
+49656,210,282,1170000,Marge Simpson,Springfield Elementary School,The highest grade.
+49657,210,283,1173000,Bart Simpson,Springfield Elementary School,"Okay, Lisa's gone!"
+49658,210,284,1175000,Seymour Skinner,Springfield Elementary School,"Places, people!"
+49659,210,285,1177000,Otto Mann,Springfield Elementary School,"Oh, man, acting is tough. I'll be in my trailer."
+49660,210,286,1183000,Seymour Skinner,Springfield Elementary School,"Oh, good old predictable Lisa! I knew her conscience was a ticking time bomb."
+49661,210,287,1189000,Edna Krabappel-Flanders,Springfield Elementary School,Heads up! Here comes the real Comptroller.
+49663,210,289,1192000,REAL COMPT. ATKINS,Springfield Elementary School,This grant ensures...
+49665,210,291,1192000,REAL COMPT. ATKINS,Auditorium,"... a lightbulb in every classroom, and a high-definition TV for the teachers' lounge."
+49666,210,292,1203000,REAL COMPT. ATKINS,Auditorium,"Now, where's the little girl who made this grant possible? Where's Lisa Simpson?"
+49667,210,293,1212000,REAL COMPT. ATKINS,Auditorium,"Come on up here, Lisa."
+49670,210,294,1215000,REAL COMPT. ATKINS,Auditorium,"Well, how 'bout that? Smart and modest. Well, I should be going now. These giant checks don't hand themselves out."
+49671,210,295,1222000,Seymour Skinner,Auditorium,"Okay, people, let's have a round of applause for the real Comptroller."
+49672,210,296,1230000,Seymour Skinner,Auditorium,I know a liquor store where we can cash this right now.
+49675,210,299,1240000,Lisa Simpson,Simpson Home,That's one grade I truly earned.
+49676,210,300,1243000,Marge Simpson,Simpson Home,Who left these muddy claw prints on my clean floor?
+49677,210,301,1246000,Homer Simpson,Simpson Home,"Sorry, Marge. Pinchy got all dirty in the yard chasing birds. But don't worry. I put him in a nice hot bath."
+49678,210,302,1254000,Bart Simpson,Simpson Home,"Hey, what smells so good?"
+49679,210,303,1255000,Homer Simpson,Simpson Home,Yeah... Pinchy?... Pinchy?!... Oh... Pinchy!!!
+49682,210,306,1273000,Homer Simpson,Simpson Kitchen,"Oh, man, that's good. Pass the butter."
+49683,210,307,1282000,Bart Simpson,Simpson Kitchen,Are you gonna eat that all by yourself?
+49684,210,308,1284000,Homer Simpson,Simpson Kitchen,"Uh-huh. Pinchy would have wanted it this way. My dear, sweet Pinchy. No more pain where you are now, boy."
+49685,210,309,1301000,Homer Simpson,Simpson Kitchen,"Oh God, that's tasty. I wish Pinchy were here to enjoy this. Ohhh, Pinchy!"

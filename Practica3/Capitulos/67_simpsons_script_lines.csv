@@ -1,0 +1,251 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+10191,67,16,127000,Homer Simpson,Simpson Home,"Hello, what's this? Wire hangers! Expired medicine! Old newspapers! Okay Homer, stay calm. Just quietly get this stuff inside your house."
+10192,67,17,142000,Homer Simpson,Simpson Home,"Homer, you're not listening!"
+10193,67,18,145000,Marge Simpson,Simpson Home,That medicine's not for you.
+10194,67,19,147000,Homer Simpson,Simpson Home,"Come on, Marge. Maybe I'm not getting enough ...estrogen."
+10195,67,20,151000,Marge Simpson,Simpson Home,Gimme that.
+10196,67,21,153000,Captain,Simpson Home,"Ahoy, maties. Had your fill of tacos? Would ye sooner eat a bilge rat than another burger? Then come for all-you-can-eat seafood at the ""FRYIN' DUTCHMAN."""
+10198,67,23,166000,Captain,Simpson Home,Is it more iced tea ye be needing?
+10199,67,24,168000,Wife,Simpson Home,Okay.
+10200,67,25,171000,Captain,Simpson Home,"Set sail for ""The Fryin' Dutchman."""
+10201,67,26,174000,Homer Simpson,Simpson Home,"Aye, aye Captain! Marge, we're going to that restaurant."
+10202,67,27,178000,Marge Simpson,Simpson Home,"But I think I'm allergic to seafood. The last time I ate shrimp, my throat closed up and I went into convulsions."
+10203,67,28,185000,Homer Simpson,Simpson Home,"Mmmm, shrimp."
+10205,67,30,187000,Woman,WINFIELD HOUSE,"Now, I don't know much about haggling or bargaining, so why don't we just agree to pay whatever the Winfields want?"
+10206,67,31,193000,Price,WINFIELD HOUSE,That could work.
+10207,67,32,195000,Man,WINFIELD HOUSE,What was that?
+10208,67,33,197000,Price,WINFIELD HOUSE,Sigh.
+10210,67,35,199000,Homer Simpson,WINFIELD AND SIMPSON HOUSES,"There you are! Thought you could get away, huh?"
+10211,67,36,204000,Woman,WINFIELD AND SIMPSON HOUSES,Goodbye.
+10215,67,40,215000,Lisa Simpson,WINFIELD BASEMENT,I don't think we should be down here.
+10216,67,41,217000,Bart Simpson,WINFIELD BASEMENT,"Nervous, Lis? I don't blame you. This is where the Winfields hid their mutated son."
+10217,67,42,222000,Lisa Simpson,WINFIELD BASEMENT,Bart! The Winfields didn't have a son.
+10218,67,43,225000,Bart Simpson,WINFIELD BASEMENT,See that sock over there? It was his only friend.
+10219,67,44,228000,Bart Simpson,WINFIELD BASEMENT,"Hello, Lisa. Here in the dark you won't need those eyes. Let me have them."
+10220,67,45,234000,Lisa Simpson,WINFIELD BASEMENT,"Bart, that's not funny."
+10221,67,46,235000,Bart Simpson,WINFIELD BASEMENT,There are some who say the monster... ... is still... here!
+10222,67,47,244000,Lisa Simpson,WINFIELD BASEMENT,Aaah!
+10223,67,48,244000,Laura Powers,WINFIELD BASEMENT,Friend... friend...
+10225,67,50,251000,Laura Powers,WINFIELD BASEMENT,"Hey kid, wake up."
+10226,67,51,253000,Bart Simpson,WINFIELD BASEMENT,Who are you?
+10227,67,52,253000,Laura Powers,WINFIELD BASEMENT,I'm Laura - your new neighbor. You all right?
+148671,67,53,258000,Bart's Thoughts,WINFIELD BASEMENT,She's beautiful. Say somethin' clever.
+10228,67,54,260000,Bart Simpson,WINFIELD BASEMENT,I fell on my bottom.
+10230,67,56,270000,Squeaky-Voiced Teen,WINFIELD HOUSE,Not again.
+10231,67,57,272000,Laura Powers,WINFIELD HOUSE,"My mother's inside, Mrs. Simpson. Please go right on in."
+10232,67,58,276000,Marge Simpson,WINFIELD HOUSE,"Oh, you speak so politely to adults."
+10233,67,59,278000,Laura Powers,WINFIELD HOUSE,"My upbringing was painfully strict, ma'am."
+10234,67,60,280000,Marge Simpson,WINFIELD HOUSE,That's sweet.
+10235,67,61,282000,Marge Simpson,WINFIELD HOUSE,"... and finally, Moe's Tavern has contributed a coupon as their way of saying ""Welcome to Springfield."""
+10236,67,62,282000,Mrs. Powers,WINFIELD HOUSE,"Thank you, this is all so nice. I actually had some doubts about moving to Springfield. Especially after that Time cover story, ""America's Worst City."""
+10237,67,63,294000,Marge Simpson,WINFIELD HOUSE,You could see our house in that photo.
+10238,67,64,294000,Mrs. Powers,WINFIELD HOUSE,Oh.
+10239,67,65,301000,Marge Simpson,WINFIELD HOUSE,And this is for the man of the house... which I guess... is you.
+10240,67,66,310000,Mrs. Powers,WINFIELD HOUSE,"I guess I should explain. Laura's father and I divorced two years ago. Oh, they're so sweet when you marry them, but soon it's just career, career, career."
+10241,67,67,321000,Homer Simpson,WINFIELD HOUSE,My hammock! Do you understand? Mine! Don't look that way.
+10243,67,69,326000,Bart Simpson,WINFIELD HOUSE,I bet you don't know this one. How'd you like a Hertz Donut?
+10244,67,70,329000,Bart Simpson,WINFIELD HOUSE,Oh.
+10245,67,71,330000,Laura Powers,WINFIELD HOUSE,"Hurts, don't it?"
+10247,67,72,332000,Bart Simpson,WINFIELD HOUSE,"Uh, right. Do you know what a Wet Willie is?"
+10248,67,73,334000,Laura Powers,WINFIELD HOUSE,Is it this?
+10249,67,74,337000,Kearney Zzyzwicz,WINFIELD HOUSE,"Hey baby, how about putting your finger in my ear?"
+10250,67,75,340000,Laura Powers,WINFIELD HOUSE,"Well, I don't know, your boyfriend looks like the jealous type."
+10251,67,76,342000,Kearney Zzyzwicz,WINFIELD HOUSE,"Hey, what the --"
+10252,67,77,343000,DOLPH,WINFIELD HOUSE,That chick's messin' with our minds.
+10253,67,78,346000,Kearney Zzyzwicz,WINFIELD HOUSE,Let's get outta here.
+10254,67,79,347000,Laura Powers,WINFIELD HOUSE,"Now, where were we? Oh yeah, I was gonna tell your fortune."
+10255,67,80,352000,Bart Simpson,WINFIELD HOUSE,Huh?
+10256,67,81,353000,Laura Powers,WINFIELD HOUSE,"Oh, man, you're gonna be rich!"
+10257,67,82,355000,Bart Simpson,WINFIELD HOUSE,Whoa!
+10258,67,83,356000,Laura Powers,WINFIELD HOUSE,"There's your mansion. There's the tennis court... and there's the swimming pool! See you later, Bart!"
+10259,67,84,364000,Bart Simpson,WINFIELD HOUSE,I'll never wash this hand again.
+10260,67,85,369000,Lisa Simpson,WINFIELD HOUSE,"Dad, make Bart wash his hand."
+10262,67,87,371000,Bart Simpson,Simpson Home,"Sorry, Lis, I no longer control the hand. The hand controls me."
+10263,67,88,377000,Lisa Simpson,Simpson Home,Daad!
+10264,67,89,378000,Homer Simpson,Simpson Home,"Shut up, you little monsters! Hello, I was wondering if you'd like to baby-sit my little angels."
+10266,67,91,383000,Woman #1,Suburban House,"Sorry, this isn't Abbie, this is her sister. I look after her now."
+10267,67,92,388000,Woman #2,Suburban House,"No, Bart, put it down. Put it down, Bart. Bart, put it down..."
+10269,67,94,395000,Homer Simpson,Simpson Home,"No ""All You Can Eat Seafood."" I wore my extra-loose pants for nothing. Nothing!"
+10270,67,95,402000,Bart Simpson,Simpson Home,Maybe Laura could watch us.
+10271,67,96,404000,Lisa Simpson,Simpson Home,"Oh, I get it. Bart, the baby-sitter's here. Let me tuck you in."
+10272,67,97,411000,Bart Simpson,Simpson Home,Silence!
+10274,67,99,417000,Bart Simpson,Simpson Home,Maybe it's time I wash my hand.
+10276,67,101,420000,Mrs. Powers,POWERS HOUSE,I'll send Laura over to baby-sit as soon as she gets home.
+10277,67,102,423000,Homer Simpson,POWERS HOUSE,"Great. Oh, uh... and there was something else. Something I was supposed to tiptoe around..."
+10278,67,103,430000,Mrs. Powers,POWERS HOUSE,My divorce.
+10279,67,104,431000,Homer Simpson,POWERS HOUSE,"That's it! Whew, I'm glad one of us remembered. That could have been embarrassing."
+10281,67,105,436000,Mrs. Powers,POWERS HOUSE,"Well I know what you're thinking and the answer is yes, I want to be fixed up with one of your friends as soon as you can arrange it. After all, Homer, I do have the normal appetites."
+10282,67,106,447000,Homer Simpson,POWERS HOUSE,"Heh heh, I know what you mean. Just let me make sure we're not talking about food."
+10283,67,107,451000,Mrs. Powers,POWERS HOUSE,I'm not.
+10284,67,108,451000,Homer Simpson,POWERS HOUSE,"Right. Me neither. We're talkin' about sex, right?"
+10285,67,109,456000,Mrs. Powers,POWERS HOUSE,Right.
+10286,67,110,457000,Homer Simpson,POWERS HOUSE,I hear you loud and clear.
+10288,67,112,460000,Lisa Simpson,Simpson Home,"Bart, are you taking a bath?"
+10289,67,113,462000,Bart Simpson,Simpson Home,Yes I am. And it would be nice to have a little privacy around here for a change.
+10290,67,114,466000,Lisa Simpson,Simpson Home,"This wouldn't have anything to do with Laura coming over, would it?"
+10291,67,115,470000,Bart Simpson,Simpson Home,"Hey, sometimes a guy just likes his skin to look its yellowest."
+10292,67,116,473000,Bart Simpson,Simpson Home,"Why, Laura. What a pleasant surprise."
+10293,67,117,478000,Laura Powers,Simpson Home,Cute. What do you guys want for dinner?
+10294,67,118,481000,Lisa Simpson,Simpson Home,I don't care. Ask Hef over there.
+10295,67,119,483000,Bart Simpson,Simpson Home,Lady's choice.
+10298,67,122,491000,Guy #1,Restaurant,Sometimes I think you want to fail.
+10299,67,123,493000,Guy #2,Restaurant,Shut up. Just shut up.
+10301,67,125,499000,Laura Powers,Simpson Home,We used to eat this when my dad was stationed in Vandahar. Take your Kafta B-Sanieh and dip it in the Labneh.
+10302,67,126,506000,Bart Simpson,Simpson Home,Now that is good Labneh.
+10304,67,128,514000,Waiter,The Frying Dutchman,"I'm sorry, ma'am, but everything on the menu has fish in it."
+10305,67,129,517000,Marge Simpson,The Frying Dutchman,"Hm, what about the bread? Does that have much fish in it?"
+10306,67,130,519000,Waiter,The Frying Dutchman,Yes.
+10307,67,131,520000,Marge Simpson,The Frying Dutchman,"Well, I have some Tic Tacs in my purse..."
+10308,67,132,523000,Waiter,The Frying Dutchman,Excellent choice... and for the gentleman?
+10309,67,133,526000,Homer Simpson,The Frying Dutchman,All you can eat. All you can eat.
+10310,67,134,527000,Waiter,The Frying Dutchman,"All right. When you're ready, take this plate over..."
+10311,67,135,529000,Chef,The Frying Dutchman,"Please don't take the steam tray, sir."
+10313,67,137,533000,Laura Powers,Simpson Home,"C'mon Bart, if I can teach Maggie to waltz, I can teach you."
+10314,67,138,539000,Laura Powers,Simpson Home,Just follow me. Put your hand on my hip.
+10315,67,139,542000,Bart Simpson,Simpson Home,O-kay.
+10316,67,140,557000,Laura Powers,Simpson Home,Wedgie!
+10317,67,141,557000,Bart Simpson,Simpson Home,Whoa.
+10320,67,144,570000,Waiter #2,The Frying Dutchman,That man ate all our shrimp and two plastic lobsters!
+10321,67,145,574000,Captain,The Frying Dutchman,'Tis no man. 'Tis a remorseless eating machine. Arrrr...
+10322,67,146,579000,Captain,The Frying Dutchman,"Six bells, time for closin'."
+10323,67,147,581000,Homer Simpson,The Frying Dutchman,Can't talk... eating.
+10324,67,148,582000,Captain,The Frying Dutchman,"Fairly warned be thee, says I."
+10325,67,149,582000,Homer Simpson,The Frying Dutchman,"Hey, hey, hey!"
+10326,67,150,594000,Homer Simpson,The Frying Dutchman,"But the sign said ""All you can eat."""
+10329,67,153,599000,Homer Simpson,Simpson Home,I'm gonna fight this thing.
+10330,67,154,601000,Marge Simpson,Simpson Home,"Oh, please don't. For me?"
+10331,67,155,604000,Homer Simpson,Simpson Home,"Sorry Marge, this is my quest. I'm like that guy -- that Spanish guy -- you know, he fought the windmills..."
+10332,67,156,611000,Marge Simpson,Simpson Home,Don Quixote?
+10333,67,157,612000,Homer Simpson,Simpson Home,"No, that's not it. What's his name? The Man of La Mancha."
+10334,67,158,615000,Marge Simpson,Simpson Home,Don Quixote.
+10335,67,159,615000,Homer Simpson,Simpson Home,No!
+10336,67,160,617000,Marge Simpson,Simpson Home,I really think that was the character's name... Don Quixote!
+10337,67,161,619000,Homer Simpson,Simpson Home,Fine. I'll look it up.
+10338,67,162,623000,Marge Simpson,Simpson Home,"Well, who was it?"
+10339,67,163,624000,Homer Simpson,Simpson Home,Never mind.
+10340,67,164,633000,Marge Simpson,Simpson Home,Mmhmmm.
+10342,67,166,633000,Bart Simpson,Kwik-E-Mart,"Oh no! Here comes the ""Conservative Judge!"""
+10343,67,167,638000,Bart Simpson,Kwik-E-Mart,Plead insanity! Plead insanity!
+10344,67,168,640000,Laura Powers,Kwik-E-Mart,It's not working!
+10345,67,169,641000,Homer Simpson,Kwik-E-Mart,All right. Hit the change of venue button. Now!
+10346,67,170,644000,Bart Simpson,Kwik-E-Mart,Oh no. You're in Texas!
+10347,67,171,651000,Laura Powers,Kwik-E-Mart,"If I'd hit the ""remorse"" button one more time, I would have made it. Ah, Bart, I gotta go. See ya around."
+10348,67,172,657000,Apu Nahasapeemapetilon,Kwik-E-Mart,"I am thinking you like this girl, yes?"
+10349,67,173,660000,Bart Simpson,Kwik-E-Mart,How did you know?
+10350,67,174,661000,Apu Nahasapeemapetilon,Kwik-E-Mart,My ceiling mirrors and video cameras sometimes see more than who is about to shoot me.
+10246,67,177,667000,Homer Simpson,The Law Office of Lionel Hutz,"...All you can eat, ha!"
+10352,67,178,667000,Lionel Hutz,The Law Office of Lionel Hutz,"Mr. Simpson, this is the most blatant case of fraudulent advertising since my suit against the film ""The Neverending Story."""
+10353,67,179,676000,Homer Simpson,The Law Office of Lionel Hutz,So you think I have a case?
+10354,67,180,677000,Lionel Hutz,The Law Office of Lionel Hutz,"Homer, I don't use the word ""hero"" very often. But you are the greatest hero in American history."
+10355,67,181,688000,Homer Simpson,The Law Office of Lionel Hutz,Woo hoo!
+10357,67,183,688000,Bart Simpson,Springfield Retirement Castle,I'm here to see my Grampa.
+10358,67,184,688000,Old Man,Springfield Retirement Castle,"Here I am, sonny."
+10359,67,185,690000,Bart Simpson,Springfield Retirement Castle,You're not my Grampa.
+10360,67,186,692000,Old Man,Springfield Retirement Castle,"Ah, c'mon, give me a chance. Hey, can your grandfather do this?"
+10361,67,187,701000,Grampa Simpson,Springfield Retirement Castle,"Bart! Ah, you remembered my birthday."
+10362,67,188,706000,Bart Simpson,Springfield Retirement Castle,Huh? Oh. I sure did!... Here's a bus schedule.
+10363,67,189,711000,Grampa Simpson,Springfield Retirement Castle,Wow! Fits right in my pocket!
+10364,67,190,714000,Bart Simpson,Springfield Retirement Castle,"Grampa, I need some advice. Did you ever have a crush on an older woman?"
+10365,67,191,718000,Grampa Simpson,Springfield Retirement Castle,"I had a crush on the oldest woman. One hundred and twenty years old, she was. Here's a picture of her delivering Eubie Blake."
+10366,67,192,727000,Bart Simpson,Springfield Retirement Castle,What happened?
+10367,67,193,728000,Grampa Simpson,Springfield Retirement Castle,"She fell in with that Guinness Book of Records crowd. Suddenly, she didn't have any time for me. I wore a 15 pound beard of bees for that woman, but it just wasn't enough."
+10369,67,195,742000,Bart Simpson,Simpson Home,"Dad, I have some questions about women."
+10370,67,196,745000,Homer Simpson,Simpson Home,Uhh... can't you see I'm reading the uh...
+10371,67,197,745000,Homer Simpson,Simpson Home,"..._______ calendar? Hmm... Ooh, Mostly Mozart is in town."
+10372,67,198,751000,Marge Simpson,Simpson Home,"Homer, Bart's at a very curious age. As his father, I think you should have a frank and earthy discussion about...hmmm, you know."
+10373,67,199,761000,Homer Simpson,Simpson Home,"But Marge, I think he should learn about it the same way I did."
+10374,67,200,764000,Marge Simpson,Simpson Home,Are you sure...?
+148067,67,201,768000,Young Homer,Simpson Home,Zookeeper! Zookeeper! Those two monkeys are killing each other!
+148068,67,202,774000,Young Homer,Simpson Home,Oh.
+10375,67,203,775000,Homer Simpson,Simpson Home,"Maybe you're right. Now, if you'll excuse us, this is a sacred moment between a boy and his father."
+10377,67,204,783000,Homer Simpson,Simpson Home,"Son, a woman is a lot like, uh... ... a refrigerator. They're about six feet tall, 300 pounds... they make ice and ... Oh, wait a minute, actually, a woman is more like a beer! They smell good -- they look good -- you'd step over your own mother just to get one! But you can't stop at one. You want to drink another woman!"
+10378,67,205,811000,Homer Simpson,Simpson Home,"So I says, ""Yeah, if you want that money, come and find it 'cause I don't know where it is you baloney..."" You make me wanna retch..."
+10379,67,206,819000,Bart Simpson,Simpson Home,How can I get her to notice me?
+10380,67,207,833000,Laura Powers,Simpson Home,"Meet me at the treehouse, Bart. And come alone."
+10382,67,209,847000,Laura Powers,Bart's Treehouse,Thanks for coming.
+10383,67,210,848000,Bart Simpson,Bart's Treehouse,I please to aim.
+10384,67,211,850000,Laura Powers,Bart's Treehouse,"I'm so happy, I just had to tell someone. I have a boyfriend."
+10385,67,212,858000,Laura Powers,Bart's Treehouse,You won't be needing this.
+10387,67,214,874000,Bart Simpson,Bart's Treehouse,A boyfriend...
+10388,67,215,876000,Laura Powers,Bart's Treehouse,"I really think you'd like him, Bart. His name's Jimbo."
+10389,67,216,879000,Bart Simpson,Bart's Treehouse,Jimbo Jones?
+10391,67,218,888000,Seymour Skinner,Springfield Elementary School,"Uh, you've been flushing for twenty minutes. Is there a problem?"
+10392,67,219,891000,Jimbo Jones,Springfield Elementary School,"Uh no, Principal Skinner."
+10393,67,220,895000,Seymour Skinner,Springfield Elementary School,"Very well, I'll continue to wait."
+10394,67,221,905000,Bart Simpson,Springfield Elementary School,How can you like that guy?
+10395,67,222,907000,Laura Powers,Springfield Elementary School,I don't know. Maybe 'cause he's an outlaw. You know that dead body they found behind the mayor's house?
+10396,67,223,913000,Bart Simpson,Springfield Elementary School,Jimbo killed him?
+10397,67,224,914000,Laura Powers,Springfield Elementary School,"No, but he poked him with a stick."
+10398,67,225,917000,Jimbo Jones,Springfield Elementary School,"Hey Laura, Dr. Tongue has arrived."
+10399,67,226,922000,Laura Powers,Springfield Elementary School,"That's him, Bart."
+10400,67,227,924000,Jimbo Jones,Springfield Elementary School,Who's the dork?
+10401,67,228,925000,Laura Powers,Springfield Elementary School,"Leave him alone, he's just a kid."
+10402,67,229,929000,Bart Simpson,Springfield Elementary School,I'll show them who's just a kid.
+10403,67,230,931000,Marge Simpson,Springfield Elementary School,"Bart, it's your bedtime. I laid out your jammy-jams."
+10376,67,233,940000,Bart Simpson,Simpson Home,"Dad, if there's a really special girl and she likes some clod who's beneath her, what should you do?"
+10406,67,234,945000,Homer Simpson,Simpson Home,I married her!
+10408,67,235,949000,Marge Simpson,Simpson Home,"Homer, please I just had eggs."
+10409,67,236,952000,Lisa Simpson,Simpson Home,"Good luck in your trumped-up law suit, Dad."
+10410,67,237,955000,Homer Simpson,Simpson Home,"Thanks, that means a lot to me."
+10411,67,238,958000,Laura Powers,Simpson Home,"All right you guys, I want you in bed before Jimbo gets here."
+10412,67,239,961000,Bart Simpson,Simpson Home,What do you like about him? He's just a good-lookin' rebel who plays by his own rules.
+10415,67,242,967000,Captain,Courtroom,"It was a moonless night, dark as pitch, when out of the mist came a beast more stomach than man."
+10416,67,243,975000,Homer Simpson,Courtroom,Hey!
+10417,67,244,976000,Captain,Courtroom,"So I says to me bosuns, batten down the mizzen mast, maties..."
+10418,67,245,976000,Lionel Hutz,Courtroom,"Captain McCallister, isn't it a fact that you're not a real Captain?"
+10419,67,246,984000,Captain,Courtroom,Aye.
+10420,67,247,986000,Attorney,Courtroom,Your honor I would like to show the court just how much shrimp Mr. Simpson ate. Bring it in boys!
+10421,67,248,1001000,Mailman,Courtroom,"eighteen thousand letters all addressed to ""Santa Claus!"""
+10422,67,249,1005000,Attorney,Courtroom,You want the People of Springfield vs. Kris Kringle -- that's next door.
+10423,67,250,1008000,Mailman,Courtroom,Oh
+10424,67,251,1011000,Attorney,Courtroom,"Mrs. Simpson, isn't it true your husband once consumed a ten pound bag of flour when no other food was available?"
+10425,67,252,1019000,Marge Simpson,Courtroom,"Yes, but it was..."
+10426,67,253,1021000,Attorney,Courtroom,Your witness.
+10427,67,254,1022000,Delivery Boy,Courtroom,"Uh, there's a pizza here for..."
+10428,67,255,1024000,Homer Simpson,Courtroom,Right here.
+10429,67,256,1025000,Lionel Hutz,Courtroom,"Mrs. Simpson, what did you and your husband do after you were ejected from the restaurant?"
+10430,67,257,1032000,Marge Simpson,Courtroom,We pretty much went straight home.
+10431,67,258,1034000,Lionel Hutz,Courtroom,"Mrs. Simpson, you're under oath."
+10432,67,259,1037000,Marge Simpson,Courtroom,"We drove around until 3 a.m. looking for another ""All You Can Eat"" fish restaurant."
+10433,67,260,1044000,Lionel Hutz,Courtroom,And when you couldn't find one?
+10434,67,261,1046000,Marge Simpson,Courtroom,We went fishing.
+10435,67,262,1050000,Lionel Hutz,Courtroom,"Do these sound like the actions of a man who had... ""all he could eat?"""
+10436,67,263,1057000,Fat Foreman,Courtroom,That could've been me!
+10437,67,264,1058000,Captain,Courtroom,"I've a proposition for ye, fair and true."
+10439,67,266,1063000,Homer Simpson,Restaurant,"Come on, Marge, let the people see your pretty face."
+10441,67,267,1066000,Captain,Restaurant,"Come see ""Bottomless Pete"", nature's cruelest mistake."
+10442,67,268,1071000,Captain,Restaurant,Come for the freak -- stay for the food.
+10444,67,270,1080000,Jimbo Jones,Simpson Home,"Hey, baby, my shirt's chafin' me. Mind if I take it off?"
+10445,67,271,1084000,Laura Powers,Simpson Home,Well... Okay.
+10446,67,272,1091000,Bart Simpson,Simpson Home,I've gotta do something. Hmmmm.
+10448,67,274,1095000,Mrs. Powers,Moe's Tavern,"But it says ""good for one free beer at Moe's."" This is Moe's Tavern, isn't it?"
+10449,67,275,1100000,Moe Szyslak,Moe's Tavern,"No, this is... Bo's Cavern."
+10450,67,276,1103000,Mrs. Powers,Moe's Tavern,Give me my beer.
+10451,67,277,1104000,Moe Szyslak,Moe's Tavern,"Stupid Welcome Mobile, I knew it would ruin me."
+10452,67,278,1109000,Moe Szyslak,Moe's Tavern,"Hey, just a sec, I'll check. Amanda Huggenkiss! Hey, I'm looking for Amanda Huggenkiss! Why can't I find Amanda Huggenkiss!"
+10453,67,279,1121000,Barney Gumble,Moe's Tavern,Maybe your standards are too high.
+10454,67,280,1123000,Moe Szyslak,Moe's Tavern,"You little S.O.B., if I ever find out who you are I'm gonna shove a sausage down your throat and stick starving dogs in your butt!"
+10456,67,282,1131000,Bart Simpson,Simpson Home,My name is Jimbo Jones and I live at 1094 Evergreen Terrace.
+10458,67,284,1135000,Moe Szyslak,Moe's Tavern,"Ah-ha, big mistake pal! I knew he'd slip up sooner or later."
+10459,67,285,1141000,Moe Szyslak,Moe's Tavern,"Ah, yes. Rusty and dull."
+10460,67,286,1145000,Moe Szyslak,Moe's Tavern,"Barney, don't steal any beer while I'm gone."
+10461,67,287,1148000,Barney Gumble,Moe's Tavern,What kind of pathetic drunk do you take me for? Somebody spilled beer in this ashtray.
+10463,67,289,1162000,Moe Szyslak,Springfield,"Let's see, where is that map? Evergreen Terrace! There it is, F5."
+10465,67,291,1173000,Jimbo Jones,Simpson Home,I don't believe it. Now my pants are chafin' me.
+10466,67,292,1178000,Moe Szyslak,Simpson Home,"All right, who's Jimbo Jones?"
+10467,67,293,1181000,Jimbo Jones,Simpson Home,I am.
+10468,67,294,1182000,Moe Szyslak,Simpson Home,"You just made your second mistake, buddy boy!"
+10469,67,295,1185000,Jimbo Jones,Simpson Home,"Please, dude, don't hurt me. Oh man... ."
+10470,67,296,1191000,Bart Simpson,Simpson Home,That's your outlaw?
+10471,67,297,1192000,Moe Szyslak,Simpson Home,"I wasn't really gonna kill ya'. I was just gonna cut ya! Aah, forget it. Ouch, I better go check on Barney."
+10474,67,299,1204000,Barney Gumble,Moe's Tavern,"Uh-oh. My heart just stopped. Ah, there it goes."
+10476,67,301,1216000,Moe Szyslak,Springfield,Ow! Stupid wishing well.
+10478,67,303,1219000,Laura Powers,Simpson Home,"Jimbo, I don't think we should see each other any more. You're just not the guy I thought you were."
+10479,67,304,1226000,Jimbo Jones,Simpson Home,Can I have my shirt back?
+10480,67,305,1231000,Laura Powers,Simpson Home,"Well, Bart, you were right about him."
+10481,67,306,1234000,Bart Simpson,Simpson Home,As usual. A knife-wielding maniac has shown us the way.
+10482,67,307,1237000,Laura Powers,Simpson Home,"You know, if you were only old enough to grow a bad teenage mustache, I'd go out with you in a second."
+10483,67,308,1244000,Bart Simpson,Simpson Home,Wow...
+10484,67,309,1246000,Laura Powers,Simpson Home,"Hello, I'd like to speak to Ms. Tinkle; first name... Ivana."
+10486,67,311,1252000,Moe Szyslak,Moe's Tavern,"Ivana Tinkle. Just a sec. Ivana Tinkle. Ivana Tinkle. All right, everybody put down your glasses. Ivana Tinkle."
+10488,67,313,1264000,Captain,Moe's Tavern,"Har, har, har."

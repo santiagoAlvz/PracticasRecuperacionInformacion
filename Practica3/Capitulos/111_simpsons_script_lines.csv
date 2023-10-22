@@ -1,0 +1,208 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+22512,111,2,36000,News Announcer,Simpson Living Room,"It's Channel Six ""Action"" News!"
+22513,111,3,42000,Bart Simpson,Simpson Living Room,"Ah, Action News, the last place an impressionable kid can go for TV violence."
+22514,111,4,47000,News Announcer,Simpson Living Room,"Now, here's your ""Action"" Anchor, Kent Brockman."
+22515,111,5,49000,Kent Brockman,Simpson Living Room,Hello-I'm-Kent Brockman!
+22516,111,6,52000,Kent Brockman,Simpson Living Room,"Our top stories tonight, a tremendous explosion... in the price of lumber. And ""President Reagan dyes... his hair,"" says Garry Trudeau in his new musical comedy revue. But first, let's check the death count from the killer storm bearing down on us like a shotgun full of snow."
+22517,111,7,67000,Weatherman,Simpson Living Room,"Well Kent, as of now the death count is zero, but it is ready to shoot right up."
+22518,111,8,72000,Kent Brockman,Simpson Living Room,"Oh my God! Damn you, snow!"
+22519,111,9,76000,Bart Simpson,Simpson Living Room,"All right, snow day! No school tomorrow!"
+22521,111,10,80000,Lisa Simpson,Simpson Living Room,That doesn't mean you don't have to do your book report. What if the weatherman is wrong?
+22522,111,11,84000,Bart Simpson,Simpson Living Room,"Lisa, that man is a professional meteorologist."
+22523,111,12,87000,Weatherman,Simpson Living Room,"Kent, I'd like to remind everybody to come down and watch me at the Springfield Laugh 'n Brew 'n Burgers 'n Fries this Saturday. The forecast calls for a seventy-five percent chance of hilarity."
+22524,111,13,98000,Homer Simpson,Simpson Living Room,I like those odds.
+22526,111,15,101000,Lisa Simpson,Bart's Bedroom,Snowball fight!
+22528,111,17,112000,Bart Simpson,Simpson Home,You're gonna eat a blizzard of...
+22529,111,18,114000,Bart Simpson,Simpson Home,Unseasonable warmth...?
+22530,111,19,117000,Lisa Simpson,Simpson Home,I made the snowball from the frost in our freezer.
+22531,111,20,122000,Jimbo Jones,Simpson Home,"Nice p.j.'s, Simpson! Did your Mommy buy them for you?"
+22532,111,21,126000,Bart Simpson,Simpson Home,Of course she did. Who else would have?
+22533,111,22,129000,Jimbo Jones,Simpson Home,"All right Simpson, you win this round."
+22535,111,24,136000,Edna Krabappel-Flanders,Bart's Classroom,"Okay, it's book report time! We'll do them alphabetically. Today it's ""A"" through ""M."""
+22536,111,25,140000,Bart Simpson,Bart's Classroom,I'm saved! I love being a S-s-s-simpson!
+22537,111,26,145000,Edna Krabappel-Flanders,Bart's Classroom,"Let's see, we have no ""A's,"" so let's go right to the ""B's."" Bart?"
+22538,111,27,149000,Bart Simpson,Bart's Classroom,Huh?!
+22539,111,28,150000,Edna Krabappel-Flanders,Bart's Classroom,Ha!!
+22540,111,29,150000,Bart Simpson,Bart's Classroom,"Mrs. Krabappel, I didn't..."
+22541,111,30,155000,Seymour Skinner,Bart's Classroom,"Attention. This is Principal Skinner, your principal, with a message from the principal's office. All students please proceed immediately to an assembly in the Butthead Memorial Auditorium. Dammit I wish we hadn't let the students name that one."
+22543,111,32,167000,Seymour Skinner,Springfield Elementary School Auditorium,"Children, the times, they are a-becoming quite different. Test scores are at an all time low. So I've come up with these ""Academic Alerts."" You will receive one as soon as your grades start to slip in any subject. This way, your parents won't have to wait until report card time to punish you."
+22544,111,33,185000,Martin Prince,Springfield Elementary School Auditorium,How innovative! I like it!
+22545,111,34,187000,Kearney Zzyzwicz,Springfield Elementary School Auditorium,"Hey, Dolph, take a memo on your Newton: Beat up Martin."
+22546,111,35,190000,Kearney Zzyzwicz,Springfield Elementary School Auditorium,Bah.
+22493,111,36,197000,Seymour Skinner,Springfield Elementary School Auditorium,"All right, first academic alert: Wiggum, Ralph..."
+22469,111,37,201000,Ralph Wiggum,Springfield Elementary School Auditorium,I won! I won!
+22547,111,38,205000,Seymour Skinner,Springfield Elementary School Auditorium,"No, no Ralph. This means you're failing English."
+22548,111,39,208000,Ralph Wiggum,Springfield Elementary School Auditorium,Me fail English? That's unpossible.
+22549,111,40,211000,Seymour Skinner,Springfield Elementary School Auditorium,"Muntz, Nelson. You're failing history, geography, and math. But ah, you're doing quite well in Home-Ec."
+22550,111,41,217000,Nelson Muntz,Springfield Elementary School Auditorium,"Hey, keep it down, man. Ha ha."
+22551,111,42,220000,Seymour Skinner,Springfield Elementary School Auditorium,Simpson...Lisa.
+22552,111,43,224000,Lisa Simpson,Springfield Elementary School Auditorium,Grades are all I have. What could I be failing? I'm smart and a teacher's pet.
+22553,111,44,232000,Lisa Simpson,Springfield Elementary School Auditorium,Gym?!! That's the stupidest thing I ever heard.
+22556,111,47,245000,Marge Simpson,Simpson Kitchen,"Lisa, your father and I are very concerned about this warning. I really hope you try harder."
+22557,111,48,250000,Homer Simpson,Simpson Kitchen,"Whew, that's all of 'em. And I'm so proud you didn't try to forge my name. How 'bout a present, son?"
+22558,111,49,256000,Bart Simpson,Simpson Kitchen,"Well, I could use a new pair of hockey skates."
+22559,111,50,259000,Homer Simpson,Simpson Kitchen,Done and done.
+22560,111,51,260000,Lisa Simpson,Simpson Kitchen,That's not fair... Why is Bart getting a present and I'm getting chewed out?
+22561,111,52,264000,Homer Simpson,Simpson Kitchen,"Ah, the mysteries of life."
+22563,111,54,267000,Gym Teacher,GYM TEACHER'S OFFICE,"Tell you what, Simpson. I won't fail you if you join one of those Pee Wee teams outside the school."
+22564,111,55,272000,Lisa Simpson,GYM TEACHER'S OFFICE,You mean those leagues where parents push their kids into vicious competition to compensate for their own failed dreams of glory?
+22565,111,56,278000,Gym Teacher,GYM TEACHER'S OFFICE,"Look, I don't need this. I inhaled my favorite whistle this morning."
+22569,111,60,299000,Female Coach,GYMNASIUM,"Children, that was our only ball. There'll be no team this year."
+22571,111,62,308000,Lisa Simpson,Simpson Living Room,"Mom, this is really scary. I'm gonna get my first 'F' ever."
+22572,111,63,312000,Marge Simpson,Simpson Living Room,Cheer up. So you're not good at sports. It's a very small part of life.
+22573,111,64,316000,Homer Simpson,Simpson Living Room,"Sports, sports, sports, sports. Sports, sports, sports, sports. Marge, Bart rides up in the front seat today because he's a good guy at sports."
+22575,111,65,324000,Marge Simpson,Simpson Living Room,"I think Lisa needs to feel a little special tonight. How about letting her ride up front, too?"
+22576,111,66,331000,Homer Simpson,Simpson Living Room,I tried.
+22579,111,69,334000,Homer Simpson,Car,"Okay, son, just remember to have fun out there today, and if you lose, I'll kill you."
+22580,111,70,342000,Bart Simpson,Car,...Dad.
+22582,111,72,349000,Chief Wiggum,Springfield Skating Rink,"All right, Pigs. Beat those Gougers!"
+22583,111,73,349000,Milhouse Van Houten,Springfield Skating Rink,"I could have been equipment manager, but ""Nooo""..."
+22584,111,74,372000,Lisa Simpson,Springfield Skating Rink,Ooooh.
+22585,111,75,372000,Apu Nahasapeemapetilon,Springfield Skating Rink,"Oh, no. Our goalie cannot stand up. Tell you what. Get some rope."
+22587,111,77,391000,Apu Nahasapeemapetilon,HOCKEY RINK,"Defense! Defense! Come on, you call that blowing?!"
+22588,111,78,398000,Chief Wiggum,HOCKEY RINK,"Oh yes, we won! We won! We won! Um, unfortunately, since I bet on the other team, ah, we won't be going for pizza."
+22589,111,79,407000,Homer Simpson,HOCKEY RINK,"Well boy, you won. So I'm gonna live up to my side of the agreement. Here's your turtle, alive and well."
+22590,111,80,415000,Bart Simpson,HOCKEY RINK,"Aw thanks, Dad."
+22591,111,81,419000,Bart Simpson,HOCKEY RINK,How about some adulation from my li'l sister?
+22592,111,82,421000,Lisa Simpson,HOCKEY RINK,"Wow Bart, I'm so impressed you were able to give Milhouse a concussion."
+22593,111,83,425000,Bart Simpson,HOCKEY RINK,"Ah, you're just jealous..."
+22594,111,84,425000,Bart Simpson,HOCKEY RINK,Because - you - stink - at - sports...
+22595,111,85,431000,Lisa Simpson,HOCKEY RINK,"Cut it out, Bart!"
+22596,111,86,432000,Apu Nahasapeemapetilon,HOCKEY RINK,"What the... Y'know, I wonder... if her skills will transfer over to the game of hockey. Well, only one way to be sure. Heads up little girl!"
+22598,111,88,448000,Apu Nahasapeemapetilon,HOCKEY RINK,The goalie of my dreams! Let's try a hard one to make sure it wasn't a fluke.
+22599,111,89,457000,Milhouse Van Houten,HOCKEY RINK,Hey! Way to knock out my teeth!
+22600,111,90,462000,Apu Nahasapeemapetilon,HOCKEY RINK,"Yeah, that's it, Milhouse! Keep up the chatter!"
+22602,111,92,469000,Homer Simpson,Simpson Kitchen,"Lisa, if the Bible has taught us nothing else, and it hasn't, it's that girls should stick to girl sports, such as hot oil wrestling, foxy boxing, and such and such."
+22605,111,93,481000,Marge Simpson,Simpson Kitchen,"Well, I think women should be able to play any sport men play, but hockey is so violent and dangerous. Look at Milhouse's teeth."
+22606,111,94,488000,Bart Simpson,Simpson Kitchen,"Mom, will you stop showin' us those?"
+22607,111,95,490000,Lisa Simpson,Simpson Kitchen,"I have to join the team, or I'll get an ""F"" that will haunt me for the rest of my life."
+22609,111,97,496000,Justice,THE STEPS OF THE CAPITOL,I now pronounce you President of these United...
+22610,111,98,500000,Reporter,THE STEPS OF THE CAPITOL,"Stop the inauguration! I just discovered our president ""elect"" got an ""F"" in second grade gym class."
+22612,111,100,506000,Justice,THE STEPS OF THE CAPITOL,"In that case, I sentence you to a lifetime of horror on Monster Island. Don't worry -- it's just a name."
+22614,111,102,518000,Lisa Simpson,MONSTER ISLAND,He said it was just a name.
+22615,111,103,520000,Running Man,MONSTER ISLAND,What he meant is that Monster Island is actually a peninsula.
+22617,111,105,527000,Milhouse Van Houten,MONSTER ISLAND,Do you have my teeff?
+22619,111,107,532000,Marge Simpson,Simpson Home,No.
+22621,111,109,536000,Homer Simpson,SKATING RINK LOCKER ROOM,"Okay, hotshots, now that my daughter is on your team, I want to make a few things clear."
+22622,111,110,541000,Lisa Simpson,SKATING RINK LOCKER ROOM,"Please, Dad, I'll be fine."
+22623,111,111,545000,Homer Simpson,SKATING RINK LOCKER ROOM,"I don't want anyone to give her a hard time just because she's different. No jokes, no taunting... Look! That kid's got bosoms! Who's got a wet towel?"
+22624,111,112,557000,Homer Simpson,SKATING RINK LOCKER ROOM,"Come here, you butterball."
+22625,111,113,559000,Üter,SKATING RINK LOCKER ROOM,"Don't make me run, I'm full of chocolate."
+22628,111,116,571000,Marge Simpson,SKATING RINK,I can't even watch. I don't know how you two can sit here laughing at poor Lisa while she's out there probably scared to death.
+22629,111,117,577000,Homer Simpson,SKATING RINK,"We're laughing with her, Marge! There's a big difference."
+22631,111,119,587000,Homer Simpson,SKATING RINK,With her.
+22632,111,120,588000,Lisa Simpson,SKATING RINK,"You really think I did okay out there, Mom?"
+22633,111,121,590000,Marge Simpson,SKATING RINK,"Absolutely, honey. By blocking the net I really think you helped your team."
+22634,111,122,596000,Homer Simpson,SKATING RINK,"Okay, little buddy, hop in!"
+22574,111,123,600000,Homer Simpson,SKATING RINK,I mean my little girl buddy.
+22636,111,124,602000,Lisa Simpson,SKATING RINK,"That's very nice, Dad, but it's wrong for you to reward violent, competitive behavior. However, I will sit up front with you if it's a fatherly gesture of love."
+22637,111,125,610000,Homer Simpson,SKATING RINK,"Okay, hon."
+22638,111,126,612000,Homer Simpson,SKATING RINK,"Sucker. Competitive, violent, that's why you're here."
+22640,111,128,637000,Apu Nahasapeemapetilon,Apu's Apartment,"We are having our best season ever. And I would like to say that it is because of teamwork. Gee, but who am I kidding, huh? It's all because of Lisa."
+22641,111,129,646000,Kearney Zzyzwicz,Apu's Apartment,Let's hear it for Lisa!
+22642,111,130,652000,Milhouse Van Houten,Apu's Apartment,"Hey, Bart, if Lisa is better than you at hockey, does that mean you're gonna become better than her at school?"
+22643,111,131,659000,Bart Simpson,Apu's Apartment,"Maybe I will, Milhouse, maybe I will."
+22644,111,132,668000,Edna Krabappel-Flanders,Apu's Apartment,Who can tell me the capital of Spain?
+22645,111,133,670000,Edna Krabappel-Flanders,Apu's Apartment,Bart Simpson.
+22646,111,134,671000,Edna Krabappel-Flanders,Apu's Apartment,The square root of thirty-six?
+22647,111,135,673000,Edna Krabappel-Flanders,Apu's Apartment,Bart Simpson.
+22648,111,136,675000,Edna Krabappel-Flanders,Apu's Apartment,Who freed the slaves?
+22649,111,137,676000,Edna Krabappel-Flanders,Apu's Apartment,"Bart Simpson... Bart Simpson... Bart Simpson... Bart Simpson, will you stop raising your hand?! You haven't had one right answer all day."
+22650,111,138,684000,Bart Simpson,Apu's Apartment,Sorry.
+22652,111,140,686000,Nelson Muntz,Springfield Elementary School Hallway,This is for wasting teacher's valuable time.
+22653,111,141,692000,Lisa Simpson,Springfield Elementary School Hallway,"Lay off, guys. He's with me."
+22654,111,142,695000,Jimbo Jones,Springfield Elementary School Hallway,It's a lucky coincidence you happen to be your sister's brother.
+22655,111,143,700000,Lisa Simpson,Springfield Elementary School Hallway,"Don't worry, Bart, they won't bother you anymore."
+22656,111,144,706000,Seymour Skinner,Springfield Elementary School Hallway,I hardly ever let Mother fight for me anymore!
+22657,111,145,709000,Milhouse Van Houten,Springfield Elementary School Hallway,"Sorry, Bart, I'm gonna hang out with Lisa! For protection... and to be seen!"
+22659,111,147,719000,Bart Simpson,Simpson Kitchen,"Come watch TV with me, Dad. We missed the first two episodes of Cops, but if we hurry we can catch the last three."
+22660,111,148,724000,Homer Simpson,Simpson Kitchen,"Ah, sorry Bart, Lisa and I are going out for gelato. We'd ask you to come but, you know..."
+22661,111,149,734000,Marge Simpson,Simpson Kitchen,"Bart, I can spend some time with you."
+22662,111,150,736000,Bart Simpson,Simpson Kitchen,"I dunno, Mom."
+22664,111,151,737000,Marge Simpson,Simpson Kitchen,"Don't have a stereotypical view of me just because I'm your mother. I know. How about we play the basketball? I'm no Harvey Globetrotter, but..."
+22667,111,154,748000,Marge Simpson,Simpson Backyard,"Hey, watch out for the Shaq-attack!"
+22668,111,155,752000,Bart Simpson,Simpson Backyard,Ow.
+22669,111,156,753000,Marge Simpson,Simpson Backyard,I told you to watch out.
+22671,111,158,755000,Lisa Simpson,HOCKEY RINK,"Hey Milhouse, knock him down if he's in your way! Jimbo! Jimbo! Go for the face! Look! Ralph Wiggum lost his shin guard! Hack the bone! Hack the bone!"
+22672,111,159,766000,Homer Simpson,HOCKEY RINK,"Wow, eye of the tiger, mouth of a teamster. To think of all the time I wasted on you... uh, well, not wasted... I love you."
+22674,111,161,781000,Marge Simpson,Lisa's Bedroom,"Lemme give my special little winner a big, big hug."
+22675,111,162,785000,Lisa Simpson,Lisa's Bedroom,Ma. I think I'm all hugged out. Oh... one more.
+22676,111,163,795000,Bart Simpson,Lisa's Bedroom,"Hello, queen Lisa."
+22677,111,164,797000,Lisa Simpson,Lisa's Bedroom,"Bart, what are you doing in my room?"
+22678,111,165,799000,Bart Simpson,Lisa's Bedroom,"Lisa, certain differences, rivalries, if you will, have come up between us. At first I thought we can talk it over like civilized people. But instead, I just ripped the head off Mr. Honeybunny."
+22679,111,166,812000,Lisa Simpson,Lisa's Bedroom,"Bart, that was your cherished childhood toy."
+22680,111,167,815000,Bart Simpson,Lisa's Bedroom,Mr. Honeybunny!
+22681,111,168,821000,Homer Simpson,Lisa's Bedroom,"Quiet down, Bart!"
+22682,111,169,822000,Lisa Simpson,Lisa's Bedroom,"Bart, just get out of here."
+22683,111,170,823000,Bart Simpson,Lisa's Bedroom,Hey! It's a free country. You get out.
+22684,111,171,825000,Lisa Simpson,Lisa's Bedroom,That doesn't make sense.
+22685,111,172,826000,Bart Simpson,Lisa's Bedroom,"I know you are, but what am I?"
+22686,111,173,828000,Lisa Simpson,Lisa's Bedroom,Get out! Get out!
+22687,111,174,830000,Bart Simpson,Lisa's Bedroom,"Okay, but on my way, I'm gonna be doing this."
+22688,111,175,835000,Bart Simpson,Lisa's Bedroom,"If you get hit, it's your own fault."
+22689,111,176,840000,Lisa Simpson,Lisa's Bedroom,"Okay. Then I'm going to start kicking air like this. And if any part of you should fill that air, it's your own fault."
+22691,111,178,859000,Marge Simpson,KITCHEN,"Hm, I better go check that out. Now Homer, don't you eat this pie."
+22692,111,179,865000,Homer Simpson,KITCHEN,"Okay. All right, pie, I'm just gonna do this."
+22693,111,180,872000,Homer Simpson,KITCHEN,"And if you get eaten, it's your own fault."
+22603,111,181,877000,Homer Simpson,KITCHEN,"Oh! Ooh my - oh, the hell with it."
+22695,111,183,887000,Marge Simpson,Lisa's Bedroom,Stop it! Stop it! Stop it! Stop it! Stop it!
+22696,111,184,891000,Bart Simpson,Lisa's Bedroom,"Mom, that is really annoying."
+22697,111,185,893000,Lisa Simpson,Lisa's Bedroom,Bart started it.
+22698,111,186,894000,Bart Simpson,Lisa's Bedroom,"Uh uh, Lisa started it."
+22699,111,187,895000,Marge Simpson,Lisa's Bedroom,I don't care who started it. I don't ever want to see you two fighting like that ever again. We love you both. You're not in competition with each other. Repeat. You are not in competition with each other.
+22700,111,188,907000,Homer Simpson,Lisa's Bedroom,Hey! Apu just called. This Friday Lisa's team is playing Bart's team. You're in direct competition. And don't go easy on each other just because you're brother and sister. I want to see you both fighting for your parents' love.
+22701,111,189,920000,Homer Simpson,Lisa's Bedroom,"Fight, fight, fight, fight, fight, fight, fight, fight, fight, fight, fight, fight, fight."
+22703,111,191,929000,Chief Wiggum,Springfield Prison,"All right, I'm going to make a little deal with you mugs. I'm gonna let you all out to see my team play the hockey game if you promise to return to your cells."
+22704,111,192,937000,Snake Jailbird,Springfield Prison,"Sorry, pig, we can't make that promise."
+22705,111,193,941000,Chief Wiggum,Springfield Prison,"All right. All right, I'll sweeten the deal. You can see the game, you don't have to come back, but you have to promise not to commit any more crimes, okay?"
+22706,111,194,950000,Snake Jailbird,Springfield Prison,No.
+22707,111,195,951000,Chief Wiggum,Springfield Prison,I'll take that as a yes.
+22709,111,197,954000,Terri Mackleberry,Springfield Elementary School Yard,"At seven tonight the games begin / Bart versus Lisa, who will win / Their father's fat and their mother's thin / And Grampa Simpson reeks of gin."
+22710,111,198,968000,Grampa Simpson,Springfield Elementary School Yard,Hey! That's Obsession for Men!
+22712,111,200,975000,Homer Simpson,Simpson Kitchen,Pass the ketchup.
+22713,111,201,978000,Lisa Simpson,Simpson Kitchen,"You'll have to do better than that tonight, chump."
+22714,111,202,983000,Homer Simpson,Simpson Kitchen,I asked for ketchup. I'm eating salad here.
+22715,111,203,987000,Marge Simpson,Simpson Kitchen,I won't have any aggressive condiment passing in this house.
+22716,111,204,991000,Moe Szyslak,Simpson Kitchen,Hello.
+22717,111,205,992000,Homer Simpson,Simpson Kitchen,"Moe, what are you doin' here?"
+22718,111,206,993000,Moe Szyslak,Simpson Kitchen,"What? What? A bartender can't come by and say ""hi"" to his best customer? Hey, hey there, Midge! Oh gee I like what you done to your hair."
+22720,111,207,1001000,Marge Simpson,Simpson Kitchen,"You caught me at a real bad time, Moe. I hope you understand I'm too tense to pretend I like you."
+22721,111,208,1006000,Moe Szyslak,Simpson Kitchen,"And how are the little kids doin'? I mean really how are they doin'. Any disabling injuries? Something, say, that the gambling community might not yet know about? Come here, let me see those knees."
+22722,111,209,1016000,Marge Simpson,Simpson Kitchen,"Moe, I think you should leave."
+22723,111,210,1018000,Moe Szyslak,Simpson Kitchen,But Blanche! You gotta help me out here. Please! I'm sixty-four grand in the hole. They're gonna take my thumbs!
+22725,111,212,1030000,Bart Simpson,SKATING RINK,"Good luck tonight, sis. I'll try not to hurt you."
+22726,111,213,1034000,Lisa Simpson,SKATING RINK,"Don't worry, I'm wearing my lucky rabbit's head."
+22727,111,214,1037000,Bart Simpson,SKATING RINK,Mr. Honeybunny! You inhuman monster!
+22728,111,215,1040000,Lisa Simpson,SKATING RINK,You want a piece of me?
+22729,111,216,1043000,Apu Nahasapeemapetilon,SKATING RINK,Stop it! Stop it! Conserve your precious hatred for the game.
+22730,111,217,1047000,Homer Simpson,SKATING RINK,"Now that we're all alone, Marge, admit it. You like Lisa best."
+22731,111,218,1050000,Marge Simpson,SKATING RINK,No.
+22732,111,219,1052000,Homer Simpson,SKATING RINK,"Oh, so you're a Bart woman, are you?"
+22733,111,220,1053000,Marge Simpson,SKATING RINK,No.
+22734,111,221,1054000,Homer Simpson,SKATING RINK,"Well, you can't possibly like Maggie best. What has she ever done? Nothin' for nobody!"
+22735,111,222,1059000,Marge Simpson,SKATING RINK,"Homer, we can't root for one child over the other. You wouldn't like it if the kids played favorites with us."
+22736,111,223,1065000,Bart Simpson,SKATING RINK,"Hey, Mom! Look at me, Mom!"
+22737,111,224,1066000,Lisa Simpson,SKATING RINK,Hi Mom! Over here! Mom!
+22738,111,225,1069000,Homer Simpson,SKATING RINK,Hi kids!
+22740,111,227,1071000,Hockey Announcer,ICE RINK,"And now, to honor America, here's Krusty the clown."
+22741,111,228,1076000,Krusty the Clown,ICE RINK,"OH SAY CAN YOU SEE... ... LIGHT, WHAT SO PROUDLY WE HEL... I shouldn't have turned down those cue cards ."
+22743,111,230,1108000,Homer Simpson,SKATING RINK,I love Bart!
+22744,111,231,1114000,Homer Simpson,SKATING RINK,"No, wait! I love Lisa!"
+22745,111,232,1116000,Homer Simpson,SKATING RINK,"Beer. Oh, Marge, I love you!"
+22746,111,233,1145000,Marge Simpson,SKATING RINK,He tripped my boy. I demand vengeance! I want vengeance!
+22747,111,234,1150000,Hockey Announcer,SKATING RINK,Jimbo Jones called for tripping. A penalty shot will be taken by Bart Simpson.
+22750,111,235,1159000,Homer Simpson,SKATING RINK,"Oh my God, Marge. A penalty shot, with only four seconds left. It's your child versus mine! The winner will be showered with praise, the loser will be taunted and booed until my throat is sore."
+22751,111,236,1173000,Chief Wiggum,SKATING RINK,"Kill 'er, boy! Kill 'er!"
+22752,111,237,1176000,Apu Nahasapeemapetilon,SKATING RINK,"Stop 'em dead, little girl!"
+22753,111,238,1177000,Crowd,SKATING RINK,"Kill, Bart! Kill, Bart! Kill, Bart!"
+22754,111,239,1181000,Crowd,SKATING RINK,Kill Bart! Kill Bart! Kill Bart!
+22755,111,240,1241000,Bart Simpson,SKATING RINK,"Great game, Lis."
+22756,111,241,1243000,Lisa Simpson,SKATING RINK,"Great game, Bart."
+22757,111,242,1249000,Crowd,SKATING RINK,Tie game? / What the hell? / This is outrageous!
+22758,111,243,1252000,Marge Simpson,SKATING RINK,I've never been so proud of them.
+22760,111,245,1260000,Homer Simpson,SKATING RINK,They're both losers. Losers!
+22761,111,246,1263000,Grampa Simpson,SKATING RINK,Rip off!
+22762,111,247,1264000,Hans Moleman,SKATING RINK,We paid for blood!
+22763,111,248,1267000,Chief Wiggum,SKATING RINK,Let's tear this place apart!
+22764,111,249,1269000,Grampa Simpson,SKATING RINK,Good idea!
+22765,111,250,1276000,Snake Jailbird,SKATING RINK,Those kids are like so sweet. If only they had had Pee Wee hockey when I was a lad. Oh well.

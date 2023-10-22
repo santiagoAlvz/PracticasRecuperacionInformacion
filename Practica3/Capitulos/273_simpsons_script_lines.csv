@@ -1,0 +1,254 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+68949,273,1,88000,Lisa Simpson,Chinatown,I love Chinatown... although I wish they'd stop picking on Tibet Town.
+68950,273,2,102000,Marge Simpson,Chinatown,Ooh... It must be Chinese New Year.
+68951,273,3,111000,Animal Catcher #1,Chinatown,"Ah, people buy 'em when they're smaller and cute, then they flush 'em down the toilet."
+68953,273,5,118000,Bart Simpson,CHINESE RESTAURANT,"Uh, yeah. I'll have the shark butt with butt sauce."
+68954,273,6,121000,Marge Simpson,CHINESE RESTAURANT,Bart!
+68955,273,7,122000,Waiter,CHINESE RESTAURANT,"Oh, excellent choice, sir."
+68956,273,8,124000,Marge Simpson,CHINESE RESTAURANT,Oh.
+68958,273,9,125000,Lisa Simpson,CHINESE RESTAURANT,How is the Feast of Twelve Delights with Triple Happiness Sauce?
+68959,273,10,130000,Waiter,CHINESE RESTAURANT,Very disappointing.
+68960,273,11,132000,Lisa Simpson,CHINESE RESTAURANT,Then I'll have the sweet 'n' sour rice.
+68961,273,12,135000,Waiter,CHINESE RESTAURANT,"Oh, very good. Would you like that with the fragrant bee bellies? Or the cat noses?"
+68962,273,13,140000,Lisa Simpson,CHINESE RESTAURANT,"Neither, thank you."
+68963,273,14,141000,Waiter,CHINESE RESTAURANT,Is there any way we can enhance your dining experience by hurting an animal?
+68964,273,15,146000,Lisa Simpson,CHINESE RESTAURANT,No!
+68966,273,17,149000,Waiter,Restaurant,Fortune cookie.
+68967,273,18,152000,Homer Simpson,Restaurant,"Ah. And now to read my fortune. ""Geese can be troublesome."" What the hell is that supposed to mean?"
+68968,273,19,159000,Waiter,Restaurant,Oh... Fortune means: Geese cause problems.
+68969,273,20,162000,Homer Simpson,Restaurant,"Well, I knew that before I came in here. A guy outside told me that."
+68970,273,21,169000,Marge Simpson,Restaurant,Every house has a bathroom.
+68971,273,22,169000,Homer Simpson,Restaurant,"Oh, these fortunes are terrible."
+68972,273,23,175000,Manager,Restaurant,Is there a problem?
+68973,273,24,176000,Homer Simpson,Restaurant,"These fortunes are terrible. They're supposed to predict stuff, and ease you through times of doubt and sickness."
+68974,273,25,183000,Manager,Restaurant,"Well, with all due respect, sir, I suppose you could come up with better fortunes?"
+68975,273,26,187000,Homer Simpson,Restaurant,Easy.
+68976,273,27,189000,Manager,Restaurant,Well?
+68977,273,28,190000,Homer Simpson,Restaurant,You will be aroused by a shampoo commercial.
+68978,273,29,194000,Manager,Restaurant,That's not bad. Come with me.
+68980,273,31,205000,Woody Allen,CHINESE RESTAURANT,Horrible.
+68981,273,32,207000,Woody Allen,CHINESE RESTAURANT,"Ah, what am I doing here? I should be in New York writing riddles on Popsicle sticks. Then I'd be making a difference."
+68982,273,33,214000,Older Chinese Man,CHINESE RESTAURANT,"Oh, they ruined my best fortune. I wrote ""Let a frown be your umbrella."" They changed it to ""Smile"". A frown is a much better umbrella than a smile. Try it."
+68983,273,34,225000,Manager,CHINESE RESTAURANT,This gentleman here can write better fortunes than all of you put together.
+68984,273,35,230000,Manager,CHINESE RESTAURANT,Show them.
+68985,273,36,231000,Homer Simpson,CHINESE RESTAURANT,"Okay, let's see... ""The price of stamps will climb ever higher."""
+68987,273,38,238000,Woody Allen,CHINESE RESTAURANT,He is like a young me.
+68988,273,39,241000,Older Chinese Man,CHINESE RESTAURANT,"Please, Yung Mee was a hack compared to this guy."
+68957,273,40,244000,Manager,CHINESE RESTAURANT,You're hired.
+68989,273,42,245000,Homer Simpson,Simpson Home,"Let's see. ""You will invent a humorous toilet lid."" ""You will find true love on Flag Day."" ""Your store is being robbed, Apu."" Are you getting all this, Lisa?"
+68990,273,43,257000,Lisa Simpson,Simpson Home,I don't know.
+68992,273,45,261000,Lenny Leonard,CHINESE RESTAURANT,"""You are a real winner"". That fortune really nailed me... and my winning ways."
+68994,273,47,270000,Captain Horatio McCallister,CHINESE RESTAURANT,"""You will take a short sea voyage."" Yarr. I'll enjoy that."
+68996,273,49,278000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Fourteen dollars and ten, eleven, twelve cents. There you go."
+68997,273,50,283000,Delivery Boy,Springfield Nuclear Power Plant,"You know sir, tipping is customary."
+68998,273,51,286000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ooh, me sorry, me no speaky Chiny."
+68999,273,52,292000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, General Gao... you were a bloodthirsty foe, but your chicken is delectable."
+69000,273,53,298000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Hm, this cookie feels heavy, as if there's some paper inside."
+69001,273,54,305000,Waylon Smithers,Springfield Nuclear Power Plant,"Nice job, sir."
+69002,273,55,306000,C. Montgomery Burns,Springfield Nuclear Power Plant,That was my thumb.
+69003,273,56,308000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, there seems to be some sort of communiqué."
+69004,273,57,312000,Waylon Smithers,Springfield Nuclear Power Plant,"It's your fortune, sir."
+69005,273,58,313000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Capital! ""You will find true love on Flag Day."" Why it's Flag Day today! True love at last."
+69006,273,59,322000,Waylon Smithers,Springfield Nuclear Power Plant,"Well, it's just you and me here, sir..."
+69007,273,60,325000,C. Montgomery Burns,Springfield Nuclear Power Plant,"No time for jokes, Smithers! Come along. We're going womanizing."
+69008,273,61,329000,Waylon Smithers,Springfield Nuclear Power Plant,Oh goody.
+69010,273,63,332000,C. Montgomery Burns,Mansion,...So I foreclosed on her mortgage and took her cats!
+69011,273,64,339000,Society Matron,Mansion,"Oh Monty, it's such a delight to talk to you. I've gone five minutes without saying ""Well, I never!"""
+69012,273,65,343000,C. Montgomery Burns,Mansion,Excellent. Let me fetch you another Thomas Collins.
+69013,273,66,356000,C. Montgomery Burns,Mansion,"Damn that Pennybags. Between him and Scrooge McDuck, all the best ankle is taken."
+69015,273,68,365000,C. Montgomery Burns,STRIP CLUB,Perhaps there's some girls in here.
+69018,273,69,369000,C. Montgomery Burns,STRIP CLUB,"Great heavens! It's one of those nude female fire stations. Ohh, I'd always be second place to some kitten stuck in a tree. Let's go, Smithers. Smithers?"
+69021,273,72,386000,C. Montgomery Burns,Springfield,"Oh, that fortune promised me true love. This has been the worst Flag Day ever."
+69022,273,73,395000,C. Montgomery Burns,Springfield,That constable is ticketing my car!
+69023,273,74,397000,Waylon Smithers,Springfield,I told you we should have parked next to the curb.
+69024,273,75,400000,C. Montgomery Burns,Springfield,"Now see here, flatfoot..."
+69025,273,76,405000,C. Montgomery Burns,Springfield,My goodness. You're beautiful.
+69026,273,77,408000,Gloria,Springfield,"Oh, thanks, but I still gotta give you the ticket."
+69027,273,78,410000,C. Montgomery Burns,Springfield,Of course you do. You can lift my wiper any day.
+69028,273,79,416000,C. Montgomery Burns,Springfield,Is it still Flag Day?
+69029,273,80,417000,Waylon Smithers,Springfield,"For twelve more seconds, sir."
+69030,273,81,418000,C. Montgomery Burns,Springfield,"Miss, would you submit to a wooing by a gentleman caller?"
+69031,273,82,422000,Gloria,Springfield,"Oh, I'm sorry, but you're not really my..."
+69033,273,84,426000,Gloria,Springfield,"Well, okay..."
+69034,273,85,428000,C. Montgomery Burns,Springfield,"Oh, frabjous day! She said ""yes""!"
+69035,273,86,433000,Waylon Smithers,Springfield,He'll pick you up at seven. Wear a petticoat.
+69036,273,87,436000,Gloria,Springfield,Petticoat?
+69037,273,88,437000,Waylon Smithers,Springfield,Here's a place that rents 'em.
+69039,273,90,444000,Marge Simpson,Simpson Home,It's about time Mr. Burns found a woman. I can't stand to see a man single.
+69040,273,91,448000,Lisa Simpson,Simpson Home,"Some people enjoy being alone, Mom."
+69041,273,92,451000,Marge Simpson,Simpson Home,No! Everyone should be paired up.
+69042,273,93,460000,Marge Simpson,Simpson Home,It wasn't meant to be.
+69044,273,95,463000,Gloria,Amusement Park,"I've gotta be honest, Monty. I've never dated anyone who knew Calvin Coolidge."
+69045,273,96,470000,C. Montgomery Burns,Amusement Park,"Well, I've never dated anyone with their original hair and teeth."
+69046,273,97,478000,Gloria,Amusement Park,"You're a nice guy, Monty. You're always laughing and tenting your fingers. I like that."
+69047,273,98,486000,C. Montgomery Burns,Amusement Park,Excellent.
+69048,273,99,487000,Gloria,Amusement Park,And you're so upbeat. You think everything's excellent.
+69049,273,100,492000,Gloria,Amusement Park,I really feel safe with you. It's like going out with my brother.
+69016,273,101,496000,MR. BURNS BRAIN,Amusement Park,Yes! It's going great!
+69017,273,102,498000,Gloria,Amusement Park,"So, what are you into?"
+69050,273,103,500000,C. Montgomery Burns,Amusement Park,In... to?
+69051,273,104,502000,Gloria,Amusement Park,"Yeah, like what's a fun day for a hundred and four year old?"
+69052,273,105,507000,C. Montgomery Burns,Amusement Park,"Oh, I enjoy all the popular youth trends. Like, uh, mm...piloting motorcoaches... and, uh..."
+69053,273,106,512000,C. Montgomery Burns,Amusement Park,Collecting dog waste.
+69055,273,108,519000,C. Montgomery Burns,Burns Manor,"So, what shall we do tomorrow? Go grousing? Or if you'd rather stay home, you could sing while I accompany you on the clavichord."
+69056,273,109,526000,Gloria,Burns Manor,"Actually, Monty --"
+69057,273,110,528000,C. Montgomery Burns,Burns Manor,"Oh, I've got some wonderful stereopticon images of the Crimean war."
+69058,273,111,532000,Gloria,Burns Manor,"Look, I had a lot of fun today, but I don't think we're right for each other. The age difference is just too--"
+69059,273,112,541000,C. Montgomery Burns,Burns Manor,"Oh, balderdash! It's not important how old you are on parchment, it's how old you feel in the humors."
+69060,273,113,547000,Gloria,Burns Manor,"I'm sorry, Monty..."
+69061,273,114,548000,Homer Simpson,Burns Manor,Stop that dog! It has my gum!
+69062,273,115,550000,C. Montgomery Burns,Burns Manor,"Look, there's one of my young chums now. You there!"
+69063,273,116,553000,Homer Simpson,Burns Manor,"Yes, Mr. Burns."
+69064,273,117,555000,C. Montgomery Burns,Burns Manor,Tell my young sweetheart here of our youthful exploits.
+69065,273,118,558000,Homer Simpson,Burns Manor,Ummm...
+69066,273,119,560000,C. Montgomery Burns,Burns Manor,"Play along, Chubsy. There's a pie in it for you."
+69067,273,120,563000,Homer Simpson,Burns Manor,Oh! Yeah. Monty's a wild man! Yeah!
+69068,273,121,570000,Homer Simpson,Burns Manor,"Oh. He ran his own casino, stole the Loch Ness Monster, got shot by a baby, and blotted out the sun."
+69069,273,122,577000,Gloria,Burns Manor,Wow! That was you?
+69070,273,123,579000,C. Montgomery Burns,Burns Manor,"So, shall I pick you up at eight?"
+69071,273,124,581000,Gloria,Burns Manor,Well...
+69072,273,125,582000,Homer Simpson,Burns Manor,"C'mon, he's a total player."
+69073,273,126,585000,Gloria,Burns Manor,"Okay, stop kicking my door."
+69074,273,127,589000,C. Montgomery Burns,Burns Manor,"Well done, young man. Your youthful trendiness will come in handy throughout the courting process. Because these days..."
+69075,273,128,599000,C. Montgomery Burns,Burns Manor,Where did you get that pie?
+69076,273,129,601000,Homer Simpson,Burns Manor,Windowsill.
+69078,273,131,605000,Marge Simpson,Simpson Home,"New underpants? Homer, what are you up to?"
+69079,273,132,610000,Homer Simpson,Simpson Home,"Burns wants me to come along on his date, to show him where hip young people go."
+69080,273,133,615000,Marge Simpson,Simpson Home,"Well, don't look too hip. You don't want that girl falling for you."
+69081,273,134,620000,Homer Simpson,Simpson Home,You're right.
+69082,273,135,623000,Homer Simpson,Simpson Home,These would stop Joan Collins herself.
+69084,273,137,631000,C. Montgomery Burns,Disco,Drat! I wish that song were longer.
+69085,273,138,637000,Gloria,Disco,"I've gotta admit, you can really shake it."
+69086,273,139,641000,C. Montgomery Burns,Disco,"Oh, yes. That's totally voluntary."
+69087,273,140,645000,Gloria,Disco,"So, you guys come here all the time?"
+69088,273,141,648000,C. Montgomery Burns,Disco,"D-- Oh, uh, constantly. When we're not being kicked out for our rowdy, youthful behavior! Eh, pally?"
+69089,273,142,656000,Homer Simpson,Disco,"Yep, no one's rowdier and more youthful than old man Burns."
+69090,273,143,660000,Gloria,Disco,You mean young man Burns.
+69091,273,144,663000,C. Montgomery Burns,Disco,Put my hand on her knee.
+69092,273,145,666000,Homer Simpson,Disco,"Yes, Mr. Burns."
+69093,273,146,668000,C. Montgomery Burns,Disco,I said her. And I said knee.
+69094,273,147,672000,Homer Simpson,Disco,"Oh, sorry."
+69096,273,149,674000,C. Montgomery Burns,Burns Manor,"I'm going to make such love to you that, oh, you'll forget all about Rudolph Valentino. Turn left here."
+69097,273,150,681000,Homer Simpson,Burns Manor,No problem.
+69099,273,152,688000,C. Montgomery Burns,Mansion,"All right, you're dismissed. I'll take it from here."
+69100,273,153,690000,Homer Simpson,Mansion,"But Mr. Burns, you're exhausted."
+69101,273,154,692000,C. Montgomery Burns,Mansion,"Yes, but I have a little secret. I've obtained a rare, powerful aphrodisiac."
+69102,273,155,698000,C. Montgomery Burns,Mansion,"It was made from the pockets of the pocket fox, an animal that only existed for three weeks in the sixteenth century."
+69103,273,156,707000,C. Montgomery Burns,Mansion,"Oooh! See you tomorrow night, Simpson."
+69107,273,160,725000,Marge Simpson,Simpson Home,That was amazing. I hope the kids didn't hear us.
+69111,273,164,734000,Ned Flanders,NED FLANDERS' ROOM,Wow.
+69113,273,166,739000,Carl Carlson,Springfield Nuclear Power Plant,"Ah, Burns looks happy today."
+69114,273,167,742000,Carl Carlson,Springfield Nuclear Power Plant,"Heh. Watch me, uh, take advantage of his good mood."
+69115,273,168,744000,Lenny Leonard,Springfield Nuclear Power Plant,Ooh.
+69116,273,169,745000,Carl Carlson,Springfield Nuclear Power Plant,"Uh, Mr. Burns, uh, can I have a raise?"
+69117,273,170,748000,C. Montgomery Burns,Springfield Nuclear Power Plant,Clean out your desk. You're gone.
+69118,273,171,750000,Carl Carlson,Springfield Nuclear Power Plant,"Well, I had a good run."
+69120,273,173,782000,C. Montgomery Burns,Barney's Bowlarama,"Ooh. Once again, my dear, you've beaten two strapping young bucks."
+69121,273,174,786000,Gloria,Barney's Bowlarama,Excellent.
+69122,273,175,789000,C. Montgomery Burns,Barney's Bowlarama,"Did you hear that? That ""excellent"" was... excellent."
+69123,273,176,793000,Homer Simpson,Barney's Bowlarama,Can I have some ice cream? I finished my pizza.
+69124,273,177,796000,C. Montgomery Burns,Barney's Bowlarama,"In time, in time. I need to speak with you in private."
+69125,273,178,800000,C. Montgomery Burns,Barney's Bowlarama,"Back in a moment, my dear. We have to, uh... uh... expel some urine."
+69126,273,179,806000,Homer Simpson,Barney's Bowlarama,You're going to ask her to marry you?!
+69127,273,180,809000,C. Montgomery Burns,Barney's Bowlarama,Isn't it wonderful? I'm head over heels in love.
+69128,273,181,812000,Homer Simpson,Barney's Bowlarama,Are you sure you wanna do this so fast?
+69129,273,182,814000,C. Montgomery Burns,Barney's Bowlarama,"Yes, my biological clock is ticking. I could be dead again soon."
+69130,273,183,819000,C. Montgomery Burns,Barney's Bowlarama,"Wait, my dear. I think you'll find that red ball more ""engaging."""
+69131,273,184,832000,Gloria,Barney's Bowlarama,Monty! It's beautiful.
+69132,273,185,835000,Homer Simpson,Barney's Bowlarama,Oh my God! Oh my God! Oh my God!
+69133,273,186,837000,C. Montgomery Burns,Barney's Bowlarama,"Gloria, say you'll marry me."
+69134,273,187,844000,Gloria,Barney's Bowlarama,"Oh Montgomery, of course I'll marry you."
+69135,273,188,847000,C. Montgomery Burns,Barney's Bowlarama,"Oh, spectacular! Now we must celebrate -- I'll get some Champagne-iola."
+69136,273,189,854000,C. Montgomery Burns,Barney's Bowlarama,This is the happiest day of my life. Nothing could spoil it. Absolutely nothing.
+69137,273,190,861000,Snake Jailbird,Barney's Bowlarama,"Dum-dee-dum-dum-dum. Okay. Gun, check. Dollar-sign bag, check. Powerbar, check. All right, let's rob this..."
+69138,273,191,873000,Snake Jailbird,Barney's Bowlarama,"Bowling alley? Okay, whatever."
+69139,273,192,877000,Snake Jailbird,Barney's Bowlarama,All right. Totally st-- Gloria?!
+69140,273,193,881000,Gloria,Barney's Bowlarama,Snake! I thought you were in prison.
+69141,273,194,884000,Snake Jailbird,Barney's Bowlarama,I was. I told the guard that I was going out for a pack of cigarettes. Then I totally stabbed him.
+69142,273,195,891000,Snake Jailbird,Barney's Bowlarama,"You're looking good, baby. Why did we ever break up?"
+69143,273,196,896000,Gloria,Barney's Bowlarama,You pushed me out of a moving car.
+69145,273,197,899000,Snake Jailbird,Barney's Bowlarama,"The cops were chasing us. I needed to lighten the load. And um protect you. C'mon, baby. We can talk more at my hideout."
+69146,273,198,911000,Gloria,Barney's Bowlarama,No! I'm engaged now!
+69147,273,199,913000,Gloria,Barney's Bowlarama,My ring!
+69148,273,200,915000,Homer Simpson,Barney's Bowlarama,Let go of her or I'll scream!
+69150,273,202,920000,C. Montgomery Burns,Barney's Bowlarama,Kaloo-kalei! We're in luck! They had a magnum at the shoe counter. Now for... Gloria?
+69151,273,203,928000,C. Montgomery Burns,Barney's Bowlarama,Her ring!
+69152,273,204,931000,C. Montgomery Burns,Barney's Bowlarama,Well she's run off... with Simpson!
+69154,273,206,942000,Homer Simpson,Burns's Car,"Well, this is my house. Ah--"
+69155,273,207,945000,Snake Jailbird,Burns's Car,Uh-un.
+69156,273,208,946000,Homer Simpson,Burns's Car,"Ohh... Geez, I just wanted to escape."
+69157,273,209,950000,Snake Jailbird,Burns's Car,"Gloria, you better tell your boyfriend to be a good little hostage."
+69158,273,210,955000,Gloria,Burns's Car,"He's not my boyfriend, Mr. Burns is. Homer just comes along on our dates and carries us to the bedroom."
+69159,273,211,961000,Snake Jailbird,Burns's Car,You're dating that old trilobite? Gross!
+69160,273,212,966000,Gloria,Burns's Car,"We're in love, Snake."
+69161,273,213,967000,Snake Jailbird,Burns's Car,"Don't say that, baby. I'm gonna win you back if I have to pistol whip this guy all night."
+69162,273,214,974000,Homer Simpson,Burns's Car,Pistol whip?!
+69163,273,215,980000,Homer Simpson,Burns's Car,Mmm... pistol whip.
+69164,273,216,983000,Kent Brockman,Burns's Car,"Local authorities are confident the killer bees are just curious and won't bother us if we don't bother them. On a serious note, two local residents have been missing for the last twenty minutes. We take you now live to Barney's Bowlarama, and the last man who saw them, C. Montgomery Burns."
+69165,273,217,998000,C. Montgomery Burns,Burns's Car,"I don't understand. She was my young, sexy fiancée, he was my sexually virile best friend, and they just drove off in my Bugatti Sexarossa. How could this ever have happened?"
+69166,273,218,1010000,Kent Brockman,Burns's Car,"Well, according to our Audience Insta-poll, forty-six percent say ""You're Too Old"", and thirty-seven percent say ""She's A Skank""."
+69167,273,219,1010000,Snake Jailbird,Burns's Car,Almost there.
+69169,273,221,1027000,Homer Simpson,Snake's Hideout,"Wow, who do you have to kill to get a place like this?"
+69170,273,222,1031000,Snake Jailbird,Snake's Hideout,I think his name was Gustafson.
+69173,273,224,1036000,Gloria,Snake's Hideout,Let me guess. Now you're going to start working him over with the brass knuckles. You Are so predictable.
+69174,273,225,1045000,Homer Simpson,Snake's Hideout,You know what would be surprising? A foot massage.
+69175,273,226,1047000,Snake Jailbird,Snake's Hideout,Shut up!
+69176,273,227,1049000,Gloria,Snake's Hideout,Beating a man to a bloody pulp isn't gonna impress me
+69177,273,228,1052000,Snake Jailbird,Snake's Hideout,It used to. What if I beat him harder?
+69178,273,229,1055000,Gloria,Snake's Hideout,"Wow, you don't get it."
+69179,273,230,1057000,Homer Simpson,Snake's Hideout,"Um, has the ship sailed on my foot massage suggestion?"
+69182,273,233,1063000,Chief Wiggum,Springfield Police Station,"Don't worry, Mr. Burns. We'll track down Simpson with your vehicle's anti-theft system."
+69183,273,234,1068000,Anti-theft Device,Springfield Police Station,Car gone! Car gone!
+69184,273,235,1070000,Chief Wiggum,Springfield Police Station,We know that. W-Where has it gone to?
+69185,273,236,1073000,Anti-theft Device,Springfield Police Station,Car gone! Car gone! Car gone!
+69186,273,237,1075000,Lou,Springfield Police Station,"Uh, Chief, this yokel says he saw Simpson driving out near Hickton."
+69187,273,238,1079000,Cletus Spuckler,Springfield Police Station,Yuh-huh. My peepers don't lie.
+69188,273,239,1082000,Chief Wiggum,Springfield Police Station,"That's nice work, Lou. Lock 'im up."
+69190,273,241,1085000,Cletus Spuckler,Springfield Police Station,"Hey, hey I want that lawyer what wears a cowboy hat."
+69192,273,243,1092000,Chief Wiggum,Snake's Hideout,"Release the girl, Simpson."
+69193,273,244,1094000,Lou,Snake's Hideout,"I think I can take him out, Chief."
+69194,273,245,1098000,Chief Wiggum,Snake's Hideout,"O-oh, that's a sweet shot. He's tied to a chair."
+69195,273,246,1102000,Lisa Simpson,Snake's Hideout,That means Dad's not a kidnapper. He's a hostage.
+69196,273,247,1107000,Snake Jailbird,Snake's Hideout,"Get off my lawn, coppers! Or I'll totally turn the sprinklers on."
+69197,273,248,1112000,Chief Wiggum,Snake's Hideout,"Come on, Snake. You don't wanna soak all these people."
+69198,273,249,1116000,Kent Brockman,Snake's Hideout,"We're in minute two of this standoff. What's the situation, Chief?"
+69199,273,250,1120000,Chief Wiggum,Snake's Hideout,"Well, we have an officer sneaking around the house, Kent. So, ah, unless they have a television in there or can hear my loud talking..."
+69200,273,251,1127000,Chief Wiggum,Snake's Hideout,It--
+69201,273,252,1128000,Eddie,Snake's Hideout,Ow! Ow! Ow!
+69202,273,253,1130000,Chief Wiggum,Snake's Hideout,"Well, I guess that answers that, doesn't it?"
+69203,273,254,1132000,Snake Jailbird,Snake's Hideout,"I swear I can change, Gloria. I'm taking classes in computer fraud."
+69205,273,255,1137000,Gloria,Snake's Hideout,"That's what you said about the telemarketing scams, but you didn't stick with it."
+69206,273,256,1142000,Snake Jailbird,Snake's Hideout,I don't like bothering people at home.
+69207,273,257,1145000,Homer Simpson,Snake's Hideout,Good fire. Good fire. Keep burning. Almost there.
+69208,273,258,1150000,Homer Simpson,Snake's Hideout,Just a little more.
+69211,273,261,1166000,C. Montgomery Burns,Snake's Hideout,My Gloria is still inside! Save her!
+69212,273,262,1170000,Chief Wiggum,Snake's Hideout,"Ah, it's too dangerous! Ah-- But I got a sister you might like. She's completely hairless, like those cats."
+69213,273,263,1176000,C. Montgomery Burns,Snake's Hideout,I don't care if she's Miss Hairless America... I'm spoken for. Now step aside -- I'll save Gloria myself.
+69214,273,264,1183000,Chief Wiggum,Snake's Hideout,"Y-- You? Ah, no offense, but you're a decrepit monkey skeleton."
+69215,273,265,1188000,C. Montgomery Burns,Snake's Hideout,"Perhaps, but this monkey skeleton is in love."
+69216,273,266,1201000,C. Montgomery Burns,Snake's Hideout,Who am I kidding? I'm just a feeble old man.
+69217,273,267,1206000,C. Montgomery Burns,Snake's Hideout,Gloria!
+69218,273,268,1213000,Lisa Simpson,Snake's Hideout,He did it! He saved her!
+69219,273,269,1217000,Lisa Simpson,Snake's Hideout,"Well, the important thing is, they're both safe."
+69220,273,270,1224000,Kent Brockman,Snake's Hideout,"I know you've been through a lot, ma'am, but we need you to stand in front of the burning house and say ""Channel 6 is hot, hot, hot."""
+69221,273,271,1224000,Homer Simpson,Snake's Hideout,"Wow, Mr. Burns, how did you do that?"
+69222,273,272,1235000,C. Montgomery Burns,Snake's Hideout,"Never forget, Homer, there's no muscle stronger than the human heart."
+69223,273,273,1240000,Homer Simpson,Snake's Hideout,What about the wiener? A guy on TV lifted a can of paint with his.
+69224,273,274,1245000,C. Montgomery Burns,Snake's Hideout,Yes.
+69225,273,275,1246000,Gloria,Snake's Hideout,"Oh, Monty, you saved me. And to think, I was once in love with that dirty low-life..."
+69226,273,276,1248000,Gloria,Snake's Hideout,"With his arrogant smirk, gutter mouth, tough-guy attitude, macho tattoos, hair that can't be tamed, prison-sculpted body..."
+69227,273,277,1266000,Marge Simpson,Snake's Hideout,Uh-oh.
+69228,273,278,1269000,Gloria,Snake's Hideout,"I'm sorry, Monty."
+69229,273,279,1271000,Gloria,Snake's Hideout,"Oh Snake, don't ever change."
+69230,273,280,1276000,C. Montgomery Burns,Snake's Hideout,"I don't get it, Simpson. I'm a bad boy."
+69231,273,281,1278000,Homer Simpson,Snake's Hideout,"Oh, I know."
+69232,273,282,1281000,C. Montgomery Burns,Snake's Hideout,I'm absolutely evil!
+69233,273,283,1282000,Bart Simpson,Snake's Hideout,"You're preachin' to the choir, man."
+69234,273,284,1284000,C. Montgomery Burns,Snake's Hideout,What do I have to do? Grow a devil beard?
+69144,273,285,1287000,Marge Simpson,Snake's Hideout,Devil beard?
+69172,273,286,1288000,C. Montgomery Burns,Snake's Hideout,"You know, a little goatee thing."
+69235,273,287,1290000,Homer Simpson,Snake's Hideout,You mean a Van Dyke?
+69236,273,288,1292000,C. Montgomery Burns,Snake's Hideout,"No, a Van Dyke has a mustache, doesn't it?"
+69237,273,289,1294000,Lisa Simpson,Snake's Hideout,I think it can.
+69238,273,290,1295000,Bart Simpson,Snake's Hideout,Are you talking about a soul patch?
+69239,273,291,1297000,C. Montgomery Burns,Snake's Hideout,"No! Wait, maybe."

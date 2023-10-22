@@ -1,0 +1,231 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+26770,127,1,40000,Bart Simpson,SPRINGFIELD CITY STREET,"Wet cement! Is there any sweeter sign? Well, maybe ""High Voltage."""
+26771,127,2,43000,Professor Jonathan Frink,SPRINGFIELD CITY STREET,"Hello son, you want to try this flying motorcycle I just invented?"
+26772,127,3,53000,Bart Simpson,SPRINGFIELD CITY STREET,No time.
+26773,127,4,54000,Professor Jonathan Frink,SPRINGFIELD CITY STREET,Okay.
+26774,127,5,58000,Bart Simpson,SPRINGFIELD CITY STREET,This is for the ages.
+26775,127,6,63000,Tour Guide,SPRINGFIELD CITY STREET,"Like Stonehenge, this site will forever be a mystery. Who was ""Bart,"" and how did he manage to write his name in solid cement?"
+26776,127,7,72000,1st Tourist,SPRINGFIELD CITY STREET,"He must have been much smarter than his sister Lisa, about whom we know nothing."
+26777,127,8,75000,2nd Tourist,SPRINGFIELD CITY STREET,"Say, let's bring him back to life by using technology."
+26778,127,9,80000,Bart Simpson,SPRINGFIELD CITY STREET,Ay caramba!
+26779,127,10,88000,1st Tourist,SPRINGFIELD CITY STREET,What's normal to him amazes us.
+26780,127,11,91000,2nd Tourist,SPRINGFIELD CITY STREET,He will be our new God.
+26781,127,12,92000,Bart Simpson,SPRINGFIELD CITY STREET,"Aah. Oh, good, somebody's shadow. I'll just turn and brag about my work."
+26782,127,13,103000,Marge Simpson,SPRINGFIELD CITY STREET,"Bart, you've graffito-tagged public property."
+26783,127,14,106000,Bart Simpson,SPRINGFIELD CITY STREET,It was an accident.
+26785,127,16,109000,Marge Simpson,Simpson Home,"I can't believe you vandalized your own home town, Bart. What would Jebediah Springfield say?"
+26786,127,17,114000,Bart Simpson,Simpson Home,I think he'd be cool with it.
+26787,127,18,115000,Marge Simpson,Simpson Home,"Oh, Homer, would you please help me make a big deal of this?"
+26788,127,19,118000,Homer Simpson,Simpson Home,What for? Nobody cared when Bogart defaced that sidewalk in Hollywood.
+26789,127,20,122000,Marge Simpson,Simpson Home,"Well, I am just shocked by this whole family. Whatever happened to good old-fashioned town pride?"
+26790,127,21,128000,Lisa Simpson,Simpson Home,It's been going downhill ever since the lake caught fire.
+26791,127,22,130000,Marge Simpson,Simpson Home,Now just a darned minute! This town is a part of who you are.
+26792,127,23,135000,Marge Simpson,Simpson Home,"This is a Springfield Isotopes cap. When you wear it, you're wearing Springfield. When you eat a fish from our river, you're eating Springfield. When you make lemonade from our trees you're drinking Springfield."
+26793,127,24,151000,Bart Simpson,Simpson Home,"Mom, when you give that lecture, you're boring Springfield."
+26794,127,25,154000,Marge Simpson,Simpson Home,"Bart, you have roots in this town and you ought to show respect for it. This town is a part of us all, a part of us all, a part of us all. Sorry to repeat myself but it'll help you remember."
+26796,127,27,166000,Marge Simpson,Springfield Street,This town is a part of us all... a part of us all... a part of us all...
+26797,127,28,171000,Bart Simpson,Springfield Street,"Wow, that does work."
+26799,127,30,176000,Bart Simpson,MINOR LEAGUE BASEBALL FIELD,"Hey, gonna win some this season?"
+26800,127,31,178000,Outfielder,MINOR LEAGUE BASEBALL FIELD,Gonna try!
+26802,127,33,186000,Nelson Muntz,SPRINGFIELD RIVER,"When it comes to catchin' trout, nothin' beats the German light infantry."
+26803,127,34,190000,Bart Simpson,SPRINGFIELD RIVER,"Beautiful, aren't they?"
+26804,127,35,192000,Nelson Muntz,SPRINGFIELD RIVER,"Yup, I'm gonna huck 'em at cars."
+26806,127,37,201000,Bart Simpson,Springfield Street,"Hey, Milhouse. How's the lemonade business?"
+26807,127,38,202000,Milhouse Van Houten,Springfield Street,"It's clearly booming, Bart!"
+26808,127,39,207000,Lisa Simpson,Springfield Street,I don't even want any. I just bought a pity glass...
+26809,127,40,210000,Milhouse Van Houten,Springfield Street,We've squozen our whole supply! To the lemon tree!
+26811,127,42,224000,Milhouse Van Houten,Springfield,Thar she grows!
+26812,127,43,230000,Bart Simpson,Springfield,"You know Milhouse, I've been thinking. This town ain't so bad. Good friends, lots of lemons, numerous angel sightings -- when you get right down to it, Springfield's a pretty cool place to live."
+26813,127,44,241000,Shelby,Springfield,Springfield sucks!
+26814,127,45,245000,Bart Simpson,Springfield,"Hey, stop talking bad about my town, man."
+26815,127,46,247000,Shelby,Springfield,Why don't you make me?
+26816,127,47,249000,Bart Simpson,Springfield,"I don't make trash, I burn it."
+26817,127,48,250000,Shelby,Springfield,Then I guess you're a garbage man.
+26818,127,49,252000,Bart Simpson,Springfield,"Well, I know you are, but what am I?"
+26819,127,50,254000,Shelby,Springfield,A garbage man.
+26820,127,51,255000,Bart Simpson,Springfield,"Oh, I know you are, but what am I?"
+26821,127,52,256000,Shelby,Springfield,A garbage man.
+26822,127,53,258000,Bart Simpson,Springfield,"I know you are, but what am I?"
+26823,127,54,259000,Shelby,Springfield,A garbage man.
+26824,127,55,260000,Bart Simpson,Springfield,Takes one to know one.
+26825,127,56,263000,Database,Springfield,Check mate.
+26826,127,57,264000,Milhouse Van Houten,Springfield,"Hey kid, stop wearing your backpack over one shoulder. We invented that, copycats!"
+26827,127,58,270000,Backpack Kid,Springfield,Aw. You copied us!
+26828,127,59,271000,Milhouse Van Houten,Springfield,Step over this line and say that. I'll kick your butt. At Nintendo.
+26829,127,60,277000,Shelby,Springfield,I just put a rock in your crummy town.
+26830,127,61,279000,Bart Simpson,Springfield,That's a crud rock. It belongs in crud town.
+26831,127,62,287000,Shelby,Springfield,"Look at the weak little baby. You're stupid, you stupid weak baby. Come on, let's get outta here."
+26832,127,63,294000,Bart Simpson,Springfield,Hey! They're taking our lemons!
+26833,127,64,296000,Milhouse Van Houten,Springfield,We can't spare a single one!
+26834,127,65,298000,Shelbyville Kids,Springfield,Ow! Ow!
+26835,127,66,302000,Shelby,Springfield,"You just got citric acid in my eye. You'll pay for that, Springfield."
+26836,127,67,310000,Grampa Simpson,Springfield,Aah! Some things never change.
+26837,127,68,313000,Milhouse Van Houten,Springfield,"Hey, everybody, an old man's talking."
+26839,127,70,318000,Grampa Simpson,Springfield,Grampa's the name. Did you know this tree dates back to frontier times?
+26840,127,71,327000,Grampa Simpson,Springfield,"Shut up! It all began when Jebediah Springfield first came to these lands with his partner, Shelbyville Manhattan..."
+26841,127,72,343000,Springfield,Springfield,"People, our search is over! On this site we shall build a new town, where we can worship freely, govern justly, and grow vast fields of hemp for making rope and blankets."
+26842,127,73,353000,Shelbyville,Springfield,Yes! And marry our cousins.
+26843,127,74,355000,Springfield,Springfield,"I was... Wha.. What are you talking about, Shelbyville? Why would we want to marry our cousins?"
+26844,127,75,360000,Shelbyville,Springfield,"Because they're so attractive. I-I, I thought that was the whole point of this journey."
+26845,127,76,365000,Springfield,Springfield,Absolutely not!
+26846,127,77,366000,Shelbyville,Springfield,"I tell you, I won't live in a town that robs men of the right to marry their cousins."
+26847,127,78,370000,Springfield,Springfield,"Well, then we'll form our own town! Who will come and live a life devoted to chastity, abstinence, and a flavorless mush I call ""rootmarm""?"
+26848,127,79,390000,Grampa Simpson,Springfield,The town of Springfield was born on that day. And to mark that sweet moment our people planted this lemon tree. Lemons being the sweetest fruit available at the time.
+26850,127,81,407000,Bart Simpson,Springfield Elementary School,Those Shelbyville kids think they're so hot. But you know what? They're not.
+26851,127,82,410000,Milhouse Van Houten,Springfield Elementary School,"I really agree with you on this one, Bart."
+26852,127,83,412000,Edna Krabappel-Flanders,Springfield Elementary School,"Class, please. If you don't learn Roman Numerals, you'll never know the dates certain motion pictures were copyrighted."
+26853,127,84,418000,Nelson Muntz,Springfield Elementary School,Everybody come quick! Something's happened! No time to explain!
+26854,127,85,421000,Edna Krabappel-Flanders,Springfield Elementary School,"No, children, no. Your-your education is important. Roman Numerals. Etcetera. Whatever."
+26769,127,86,428000,Edna Krabappel-Flanders,Springfield Elementary School,I tried.
+26856,127,88,433000,Milhouse Van Houten,Springfield Street,Are you sure it wouldn't be faster to just tell us what happened?
+26857,127,89,436000,Nelson Muntz,Springfield Street,"No. I said there's no time to explain, and I stick by that."
+26859,127,91,443000,Bart Simpson,LEMON TREE AREA,The lemon tree's gone!
+26860,127,92,444000,Martin Prince,LEMON TREE AREA,And the tracks appear to lead into Shelbyville.
+26861,127,93,447000,Database,LEMON TREE AREA,"Oh. Look, a clue! A candy bar wrapper!"
+26862,127,94,450000,Milhouse Van Houten,LEMON TREE AREA,"Oh, they're always eating candy in Shelbyville. They love the sweet taste."
+26863,127,95,456000,Bart Simpson,LEMON TREE AREA,We gotta get that tree back!
+26864,127,96,457000,Database,LEMON TREE AREA,"Euh. You mean, go into Shelbyville? Euh. We'll never make it out alive!"
+26865,127,97,461000,Bart Simpson,LEMON TREE AREA,"That lemon tree's a part of our town, and as kids, the backbone of our economy. We'll get it back or choke their rivers with our dead."
+26867,127,99,473000,Marge Simpson,Simpson Home,"Where you going, Bart?"
+26868,127,100,474000,Bart Simpson,Simpson Home,"Mom, you won't believe this, but something you said the other day really got through to me."
+26870,127,102,479000,Bart Simpson,Simpson Home,And now I am going to teach some kids a lesson.
+26871,127,103,483000,Marge Simpson,Simpson Home,I choose to take that literally.
+26872,127,104,486000,Bart Simpson,Simpson Home,Death to Shelbyville!
+26873,127,105,487000,Homer Simpson,Simpson Home,"Yes, Bart's a tutor now. Tute on, Son! Tute on!"
+26875,127,107,497000,Bart Simpson,Van Houten Home,"Hey, Milhouse -- get your invasion supplies and let's go!"
+26877,127,109,509000,Tough Kid,Van Houten Home,What the -- ? Where'd he go?
+26878,127,110,511000,Milhouse Van Houten,Van Houten Home,"Over here, my friends. Or is it over here?"
+26879,127,111,520000,Milhouse Van Houten,Van Houten Home,Yeah.
+26881,127,113,522000,Bart Simpson,BORDERLAND,"Okay, here's how it goes. I'm the leader. Milhouse is my loyal sidekick. Nelson is the tough guy, Martin's the smart guy and Todd's the quiet religious guy who ends up goin' crazy. And now, the time has come to cross this line into mystery and danger. To step out of childhood and become men."
+26883,127,115,553000,Bart Simpson,Shelbyville Street,"If you get lost remember, you can always find east by staring directly at the sun."
+26884,127,116,560000,Martin Prince,Shelbyville Street,"Here's a tip. Put a pinch of sage in your boots, and all day long a spicy scent is your reward."
+26885,127,117,568000,Milhouse Van Houten,Shelbyville Street,Oh my gosh-- look!
+26886,127,118,569000,Milhouse Van Houten,Shelbyville Street,The fire hydrants here are yellow.
+26887,127,119,572000,Nelson Muntz,Shelbyville Street,This place is startin' to freak me out.
+26888,127,120,575000,Todd Flanders,Shelbyville Street,Danger coming. Behind us.
+26889,127,121,580000,Backpack Kid,Shelbyville Street,What is it boy? Is there something behind that wall we should beat up?
+26890,127,122,583000,Shelby,Shelbyville Street,No time to check it out now. We've got lemonade to sell.
+26891,127,123,589000,Backpack Kid,Shelbyville Street,Radical.
+26892,127,124,591000,Bart Simpson,Shelbyville Street,They're gettin' rich off us!
+26893,127,125,593000,Milhouse Van Houten,Shelbyville Street,"And that kid with the backpack said ""radical!"" I say ""radical."" That's my thing that I say. I feel like I'm gonna explode here!"
+26895,127,127,605000,Marge Simpson,Simpson Home,It's almost lunch time. Do you know where your brother is tutoring?
+26896,127,128,608000,Lisa Simpson,Simpson Home,Tutoring? The only thing Bart's teaching is guerilla combat in Shelbyville.
+26897,127,129,612000,Marge Simpson,Simpson Home,"Well, do you have a number where we can reach him?"
+26898,127,130,614000,Lisa Simpson,Simpson Home,"No, Mom! Bart and some kids ran off to wage war on Shelbyville."
+26899,127,131,620000,Marge Simpson,Simpson Home,"Homer, come quick! Bart's quit his tutoring job and joined a violence-gang!"
+26901,127,133,627000,Database,Shelbyville Park,"Euh. The trail has become indistinct. I suggest we split up, to cover more ground."
+26902,127,134,633000,Bart Simpson,Shelbyville Park,"Good idea. Milhouse, you and me will be Omega Team. Todd, you and Data are Team Strike Force. Nelson, that leaves you and Martin."
+26903,127,135,640000,Martin Prince,Shelbyville Park,Team Discovery Channel!
+26904,127,136,644000,Nelson Muntz,Shelbyville Park,Your wussy-ness better come in handy.
+26906,127,138,651000,Parents,Simpson Home,"Hey, where's my... / What's going on?/ I want some answers, damnit!"
+26907,127,139,652000,Ned Flanders,Simpson Home,"Okay, okay folks, look. I called the Police Captain in Shelbyville. He says he hasn't seen our kids, but if they show up in the morgue he's gonna fax us."
+26908,127,140,660000,Kirk Van Houten,Simpson Home,"Man, I hate those Shelbyville jerks!"
+26909,127,141,663000,Luann Van Houten,Simpson Home,"Honey, I was born in Shelbyville."
+26910,127,142,665000,Kirk Van Houten,Simpson Home,And it tears me up inside.
+26911,127,143,667000,Marge Simpson,Simpson Home,"This is my fault. I tried to teach Bart about town pride, but the power of my words filled him with a sort of madness."
+26913,127,144,674000,Homer Simpson,Simpson Home,"Now, Marge, you can't blame all of Bart's problems on your one little speech. If anything turned him bad, it's that time you let him wear a bathing suit instead of underwear. And let's not forget your little speech..."
+26914,127,145,688000,Marge Simpson,Simpson Home,Isn't there anything we can do?
+26915,127,146,689000,Homer Simpson,Simpson Home,"Yes, there is. Come on, everybody, let's go into Shelbyville and get those kids back ourselves! I got an R.V. we can use... Flanders's!"
+26916,127,147,698000,Dads,Simpson Home,Yeah!/ Let's do it!/ Yeah!
+26917,127,148,700000,Ned Flanders,Simpson Home,"Well, okay, but, you know, just go a little bit easy on the..."
+26918,127,149,703000,Homer Simpson,Simpson Home,"Pile in, everybody! No time to wipe your feet!"
+26920,127,151,710000,Martin Prince,Shelbyville Street,"Okay piglet, start squealing! Where'd you get the lemons for this lemonade?"
+26921,127,152,714000,Small Kid,Shelbyville Street,"Ah. This is Countrytime Lemonade Mix. There's never been anything close to a lemon in it, I swear!"
+26922,127,153,720000,Bigger Kid,Shelbyville Street,Hey! Nobody hassles my little brother.
+26923,127,154,723000,Martin Prince,Shelbyville Street,"Hey, and no one manhandles the bosom chum of Nelson Muntz. Spring forth burly protector and save me!"
+26924,127,155,735000,Nelson Muntz,Shelbyville Street,"Oh, geez. I never hang out with him, normally."
+26925,127,156,741000,Martin Prince,Shelbyville Street,Hark to the tale of Nelson and the boy he loved so dear...
+26926,127,157,745000,Martin Prince,Shelbyville Street,They remained the best of friends for years and years and years!
+26928,127,159,749000,Milhouse Van Houten,Shelbyville Hillside,What are they saying?
+26929,127,160,751000,Bart Simpson,Shelbyville Hillside,I'm not sure.
+26930,127,161,752000,Milhouse Van Houten,Shelbyville Hillside,I thought you said you could read lips.
+26931,127,162,754000,Bart Simpson,Shelbyville Hillside,I assumed I could.
+26932,127,163,755000,Bart Simpson,Shelbyville Hillside,"Aw. It's no use, Milhouse. If we're gonna find that lemon tree, I've got to go undercover. What I need is a new face."
+26933,127,164,762000,Milhouse Van Houten,Shelbyville Hillside,You leave that to the Baron and me.
+26935,127,166,767000,Bart Simpson,Shelbyville Street,"Hello there, fellow Shelbyvillians."
+26936,127,167,770000,1st Kid,Shelbyville Street,"Wait a minute. If you're from Shelbyville, how come we've never seen you at school?"
+26937,127,168,775000,Bart Simpson,Shelbyville Street,I don't go to school.
+26938,127,169,776000,2nd Kid,Shelbyville Street,Okay. What's two plus two?
+26939,127,170,779000,Bart Simpson,Shelbyville Street,Five.
+26940,127,171,779000,1st Kid,Shelbyville Street,"Eh, story checks out..."
+26912,127,172,781000,Shelby,Shelbyville Street,We just got word there's Springfield kids in town!
+26941,127,173,786000,Bart Simpson,Shelbyville Street,Curse those handsome devils.
+26942,127,174,787000,Shelby,Shelbyville Street,"We're going up to the bluffs to paint ""Springfield Sucks"" in huge letters. That way, whenever they look into Shelbyville, they will realize that they suck."
+26943,127,175,795000,Backpack Kid,Shelbyville Street,"Uh, radical."
+26944,127,176,796000,Milhouse Van Houten,Shelbyville Street,Quit copying me--!
+26945,127,177,799000,Shelby,Shelbyville Street,"You know, I wish there was a Springfield kid here right now. I'd fill his mouth with stinkbugs."
+26946,127,178,806000,Bart Simpson,Shelbyville Street,"No, not in my mouth! Aye--is what the kid would say. To the bluffs!"
+26948,127,180,814000,Ned Flanders,FLANDERS R.V.,"Well, a friendly Springfield hello there, neighbors. I, you know, we think some kids of ours may be missing in your town."
+26949,127,181,820000,Gas Station Attendant,FLANDERS R.V.,Missing children?
+26950,127,182,821000,Customer,FLANDERS R.V.,Sounds like Springfield's got a discipline problem.
+26951,127,183,825000,Second Customer,FLANDERS R.V.,Maybe that's why we beat 'em at football nearly half the time. Huh?
+26953,127,185,831000,Shelby,Shelbyville Bluffs,"Quit stallin', kid. Write ""Springfield Sucks"" in giant letters."
+26955,127,187,843000,Shelby,Shelbyville Bluffs,His can control is excellent.
+26956,127,188,846000,2nd Kid,Shelbyville Bluffs,Yes. And that wig makes him look a lot like one of the Beatles.
+26957,127,189,852000,Bart Simpson,Shelbyville Bluffs,"That's right. The stranger who walks amongst you is me, Bart Simpson!"
+26958,127,190,857000,Shelbyville Kids,Shelbyville Bluffs,Huh?
+26959,127,191,858000,Bart Simpson,Shelbyville Bluffs,"You know, Bart Simpson. From Springfield?"
+26960,127,192,863000,Shelby,Shelbyville Bluffs,He's from Springfield! Get him!
+26961,127,193,878000,Bart Simpson,Shelbyville Bluffs,"I'll use these spray cans as jet packs and fly to safety. So long, losers!"
+26963,127,195,887000,Shelby,Shelbyville Bluffs,You're dead.
+26964,127,196,889000,Bart Simpson,Shelbyville Bluffs,"Uh... hey, look! Someone's attractive cousin."
+26965,127,197,891000,Shelbyvillers,Shelbyville Bluffs,Huh? Really? Where? Lemme see.
+26967,127,199,900000,Shelby,Shelbyville Bluffs,"So he thinks he can out skateboard me, huh? Launch me, boys!"
+26968,127,200,929000,Groundskeeper Wilma,Shelbyville Bluffs,"Slow down, you sidewalk surfin' cube- gleamers!"
+26969,127,201,939000,Bart Simpson,Shelbyville Bluffs,"Uh oh, wet cement!"
+26970,127,202,948000,Bart Simpson,Shelbyville Bluffs,I could sure use that flying motorcycle now.
+26971,127,203,950000,Professor Jonathan Frink,Shelbyville Bluffs,You had your chance.
+26972,127,204,963000,Bart Simpson,Shelbyville Bluffs,Safe at last!
+26974,127,206,972000,Bart Simpson,BIG CAT BUILDING,CAUTION: Exit through door seven only. All other rooms contain man-eating tigers.
+26975,127,207,981000,Bart Simpson,BIG CAT BUILDING,Roman Numerals. They never even tried to teach us that in school.
+26976,127,208,987000,Bart Simpson,BIG CAT BUILDING,Milhouse! What's seven in Roman Numerals?
+26978,127,210,989000,Milhouse Van Houten,Hill,"I'll tell you, Bart. But you really should end each transmission with the word ""over"". Over."
+26979,127,211,994000,Backpack Kid,Hill,Correction -- the only thing that's over is that transmission.
+26980,127,212,998000,Milhouse Van Houten,Hill,Is this the untimely end of Milhouse?
+26981,127,213,1001000,Backpack Kid,Hill,But... Milhouse is my name.
+26982,127,214,1003000,Milhouse Van Houten,Hill,I thought I was the only one.
+26983,127,215,1006000,Backpack Kid,Hill,A pain I know all too well.
+26984,127,216,1008000,Milhouse Van Houten,Hill,"So this is what it feels like, when doves cry..."
+26986,127,218,1014000,Bart Simpson,BIG CAT BUILDING,Milhouse! Milhouse! Now what do I do?
+26987,127,219,1018000,Bart Simpson,BIG CAT BUILDING,Wait! I got it! I got it!
+26988,127,220,1021000,Bart Simpson,BIG CAT BUILDING,I don't got it.
+26989,127,221,1022000,Bart Simpson,BIG CAT BUILDING,"Okay. Think, Bart. Where have you seen Roman Numerals before? I know, ""Rocky Vee!"" That was the fifth one. So ""Rocky Five"" plus ""Rocky Two"" equals ""Rocky Seven: Adrian's Revenge!"""
+26991,127,223,1041000,Bart Simpson,Shelbyville Street,"Oh, it's no use. I'm never gonna find that tree. This whole raid was as useless as that yellow, lemon-shaped rock over there. Wait a minute! There's a lemon behind that rock."
+26992,127,224,1056000,Bart Simpson,Shelbyville Street,The tree!
+26995,127,227,1067000,Martin Prince,GRASSY HILL,"A car impound lot, the impenetrable fortress of suburbia."
+26996,127,228,1074000,Milhouse Van Houten,GRASSY HILL,We'll never get the tree back now!
+26997,127,229,1076000,Bart Simpson,GRASSY HILL,"Keep your voices down, boys. We didn't come this far to get found out."
+26998,127,230,1079000,Homer Simpson,GRASSY HILL,Found 'em!
+26999,127,231,1080000,Homer Simpson,GRASSY HILL,"You kids are in big trouble, running away from home like this."
+27000,127,232,1083000,Bart Simpson,GRASSY HILL,But they stole our lemon tree!
+27001,127,233,1085000,Homer Simpson,GRASSY HILL,"I don't care what excuse you've got, nothing's gonna stop me in the middle of this speech, you're gonna -- lemon tree?!!"
+27004,127,235,1094000,Homer Simpson,IMPOUND LOT,That tree's been in Springfield since the time of our forefathers. Give it back or we'll bust in there and take it!
+27005,127,236,1101000,Tow Truck Man,IMPOUND LOT,Bust in here and take it? You must be stupider than you look.
+27006,127,237,1105000,Homer Simpson,IMPOUND LOT,Stupider like a fox!
+27007,127,238,1115000,Homer Simpson,IMPOUND LOT,I'm okay.
+27008,127,239,1119000,Tow Truck Man,IMPOUND LOT,"Hu-hu-hu-hu. Don't you get it, Springfield? It's over. You lose. Now if you'll excuse me, all this talk has made me hungry."
+27010,127,241,1135000,Homer Simpson,FLANDERS R.V.,"This is the darkest day in the history of Springfield. If anybody wants me, I'll be in the shower."
+27011,127,242,1140000,Bart Simpson,FLANDERS R.V.,"There's got to be a way to get that tree back. Hey, look. A hospital! Pull in there."
+27012,127,243,1150000,Homer Simpson,FLANDERS R.V.,"Oh, great. Now I'm upside-down."
+27014,127,245,1156000,Tow Truck Man,Shelbyville Hospital,"Oh, dear. Some thoughtless human being has parked in a hospital zone."
+27015,127,246,1162000,Tow Truck Man,Shelbyville Hospital,"AND I THINK TO MYSELF, WHAT A WONDERFUL WORLD..."
+27017,127,248,1177000,Homer Simpson,IMPOUND LOT,No one in history has ever done anything this clever.
+27018,127,249,1185000,Bart Simpson,IMPOUND LOT,I'll get the gate.
+27019,127,250,1191000,Homer Simpson,IMPOUND LOT,"That's okay, son. I'll take care of him."
+27020,127,251,1197000,Homer Simpson,IMPOUND LOT,"Faster, son -- he's got a taste for meat now!"
+27023,127,254,1208000,Tow Truck Man,Street,"Get out here, son -- there's-a doin's transpiring!"
+27024,127,255,1211000,Tow Truck Man,Street,Let's shut the gate and seal them in!
+27026,127,257,1214000,Bart Simpson,R.V.,"Gun it, Flanders!"
+27027,127,258,1216000,Ned Flanders,R.V.,It won't start! Something's draining the battery?!
+27028,127,259,1221000,Homer Simpson,R.V.,Sorry.
+27030,127,261,1228000,Bart Simpson,R.V.,We made it!
+27031,127,262,1230000,Homer Simpson,R.V.,Woo-hoo!
+27032,127,263,1231000,Bart Simpson,R.V.,"Eat my shorts, Shelbyville!"
+27033,127,264,1232000,Bart Simpson,R.V.,Eat my shorrrrrrrts!
+27034,127,265,1235000,Ned Flanders,R.V.,Yes. Eat all of our shirts.
+27035,127,266,1237000,Tow Truck Man,R.V.,"Ooh! Ya lousy Springfielder! Shake harder, boy!"
+27039,127,269,1253000,Grampa Simpson,LEMON TREE AREA,"And with that, a mighty cheer went up from the heroes of Springfield. They had brought the sacred tree back to its native soil, and though Flanders was stuck with the impound fee, he could easily afford it."
+27040,127,270,1268000,Milhouse Van Houten,LEMON TREE AREA,"More lemonade, Bart?"
+27041,127,271,1270000,Bart Simpson,LEMON TREE AREA,Absolutely.
+27042,127,272,1273000,Milhouse Van Houten,LEMON TREE AREA,Say when.
+27043,127,273,1278000,Shelbyville Grampa,LEMON TREE AREA,"And with that, a mighty cheer went up from the heroes of Shelbyville. They had banished the awful lemon tree forever, because it was haunted. Now let's all celebrate with a cool glass of turnip juice."

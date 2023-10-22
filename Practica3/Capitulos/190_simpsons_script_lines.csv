@@ -1,0 +1,295 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+43426,190,1,30000,Marge Simpson,Simpson Home,Come onnn. You have to go outside to do your... business.
+43427,190,2,36000,Homer Simpson,Simpson Home,"The experts say that if you want an animal to do something, you should do it yourself first to show him how."
+43429,190,3,42000,Marge Simpson,Simpson Home,I'm not going to the bathroom in the backyard.
+43430,190,4,45000,Homer Simpson,Simpson Home,"Sor-reee, your majesty."
+43431,190,5,47000,Marge Simpson,Simpson Home,Hmf. Why don't you want to go out there?
+43432,190,6,53000,Marge Simpson,Simpson Home,The kids were supposed to be keeping this yard clean.
+43435,190,9,60000,Marge Simpson,Simpson Home,"Oh, Ned! I'm so sorry!"
+43436,190,10,62000,Ned Flanders,Simpson Home,"Oh-ho-ho. No problem, Marge. Oh."
+43437,190,11,66000,Bart Simpson,Simpson Home,"Turn on the TV, Lis."
+43438,190,12,67000,Lisa Simpson,Simpson Home,You turn it on. I turned it on yesterday.
+43439,190,13,71000,Bart Simpson,Simpson Home,Allowance Day. Ding ding ding ding ding.
+43440,190,14,72000,Marge Simpson,Simpson Home,You don't deserve an allowance.
+43441,190,15,74000,Lisa Simpson,Simpson Home,Sure we do. Ding ding ding ding ding.
+43442,190,16,76000,Lisa Simpson,Simpson Home,Ding ding ding ding ding...
+43443,190,17,77000,Homer Simpson,Simpson Home,Ice-cream-man-Ice cream-man!
+43444,190,18,79000,Marge Simpson,Simpson Home,That backyard is a disgrace. Now get busy.
+43445,190,19,82000,Lisa Simpson,Simpson Home,"That's a good suggestion, Mom."
+43446,190,20,84000,Bart Simpson,Simpson Home,We'll take it under advisement.
+43447,190,21,87000,Bart Simpson,Simpson Home,But I can't go out dressed like this! What if someone sees me?
+43448,190,22,91000,Marge Simpson,Simpson Home,You're just going into our backyard. No one will see you.
+43449,190,23,96000,Nelson Muntz,Simpson Home,Haw...
+43450,190,24,98000,Nelson Muntz,Simpson Home,Haw!
+43452,190,26,102000,Bart Simpson,Backyard,"Aw, man. Look at all this stuff: ""Pull weeds, mow lawn, scoop and bag 'dog business...'"""
+43453,190,27,104000,Bart Simpson,Backyard,"There's gotta be a way out of this. Lisa, chop off my hands!"
+43454,190,28,113000,Lisa Simpson,Backyard,No! Then who'd chop off my hands?
+43455,190,29,117000,Bart Simpson,Backyard,"All right, you chop my hands half way off and then I'll still have enough strength to chop..."
+43456,190,30,120000,Marge Simpson,Backyard,Get to work!
+43458,190,32,123000,Marge Simpson,Simpson Home,"Kids, I made some lemonade for you."
+43459,190,33,125000,Bart Simpson,Simpson Home,Sounds great.
+43460,190,34,126000,Lisa Simpson,Simpson Home,Bring it in here.
+43461,190,35,128000,Marge Simpson,Simpson Home,What the? What are you doing inside?
+43462,190,36,131000,Bart Simpson,Simpson Home,"Work was hard, so we quit."
+43463,190,37,133000,Marge Simpson,Simpson Home,What?!
+43464,190,38,134000,Lisa Simpson,Simpson Home,Hard work made us quit.
+43466,190,39,136000,Marge Simpson,Simpson Home,"I see. Well then, no chores, no allowance."
+43467,190,40,141000,Lisa Simpson,Simpson Home,Okay. We get our room and board free anyway.
+43468,190,41,144000,Bart Simpson,Simpson Home,And Santy Claus provides the rest.
+43471,190,44,153000,Lisa Simpson,Simpson Home,The Carnival!
+43472,190,45,156000,Bart Simpson,Simpson Home,We need money fast!
+43473,190,46,157000,Marge Simpson,Simpson Home,"Well, well, well..."
+43474,190,47,159000,Marge Simpson,Simpson Home,Looks like somebody's gonna have to do some yard --
+43475,190,48,161000,Homer Simpson,Simpson Home,It's carnival time!
+43476,190,49,161000,Homer Simpson,Simpson Home,"Here's money, kids! Take what you need!"
+43477,190,50,165000,Lisa Simpson,Simpson Home,"Oh boy! / All right, free money! / Wow!"
+43478,190,51,167000,Homer Simpson,Simpson Home,Ding! Ding! Ding! Ding!
+43481,190,54,175000,Homer Simpson,Carnival,Oo! Oo! I want to see Lobster Boy and Shrimp Girl!
+43482,190,55,178000,Lisa Simpson,Carnival,I want some Fried Sugar!
+43483,190,56,179000,Bart Simpson,Carnival,I wanna go on the Yard-work Simulator!
+43484,190,57,182000,Marge Simpson,Carnival,But when we ask you to do yardwork...
+43485,190,58,187000,Bart Simpson,Carnival,"Wow, the Tooth Chipper!"
+43487,190,60,200000,Homer Simpson,Carnival,Oo! Oo! Me first!
+43488,190,61,201000,Marge Simpson,Carnival,You can't go on that. You have a heart condition.
+43489,190,62,204000,Homer Simpson,Carnival,Heart condition? Get outta here.
+43490,190,63,206000,Marge Simpson,Carnival,You had a quadruple bypass. You nearly died. Don't you remember?
+43491,190,64,210000,Homer Simpson,Carnival,"Obviously, I don't. Now if you'll get out of my way..."
+43492,190,65,213000,Marge Simpson,Carnival,But it doesn't look safe. And the guy running it looks a little seedy. No offense.
+43493,190,66,217000,Carny,Carnival,None taken.
+43494,190,67,218000,Homer Simpson,Carnival,"He's not just some ""guy,"" Marge. He's a carny, and part of a noble tradition. Carnies built this country. The carnival part of it, anyway. And though they may be rat-like in appearance, they are truly kings among men."
+43495,190,68,234000,Carny,Carnival,"Okay, let's go, fatty."
+43496,190,69,235000,Homer Simpson,Carnival,"Yes, sir!"
+43498,190,71,244000,Homer Simpson,Carnival,"Ow, my heart!"
+43502,190,72,250000,Barker,Carnival,Fear! Fear in the pit of your stomach! No surgeon can save you! No Bromo can soothe you! Do you dare enter the Screamatorium of Dr. Frightmarestein? Only two tickets left!
+43503,190,73,265000,Bart Simpson,Carnival,"Two tickets? Whoa, what a break!"
+43505,190,75,275000,Lisa Simpson,Screamatorium,This isn't very scary.
+43506,190,76,278000,Dracula Voice,Screamatorium,I vant your blood.
+43507,190,77,280000,Bart Simpson,Screamatorium,"Um, I think that one's broken."
+43508,190,78,286000,Lisa Simpson,Screamatorium,That was just confusing.
+43509,190,79,288000,Elderly Woman,Screamatorium,Behold the ravages of age.
+43510,190,80,295000,Maintenance Man,Screamatorium,Boo. Exit to your left.
+43511,190,81,300000,Barker,Screamatorium,Sorry.
+43513,190,83,302000,Game Announcer,Carnival,And they're off. There they go.. Looks like number one is gonna blow...
+43514,190,84,308000,Krusty the Clown,Carnival,Why does this always happen when I stand here? What is it about this exact spot?
+43515,190,85,316000,Krusty the Clown,Carnival,It's happening again!
+43516,190,86,320000,Cooder,Carnival,Three rings for a dollar. Who's ready? Who's ready?
+43517,190,87,325000,Spud,Carnival,See any pigeons yet dad?
+43518,190,88,336000,Homer Simpson,Carnival,Do do do do do...
+43519,190,89,336000,Pigeon,Carnival,Do do do do do...
+43520,190,90,336000,Cooder,Carnival,"How 'bout you, Lucky!"
+43521,190,91,338000,Homer Simpson,Carnival,"Who, me?"
+43522,190,92,340000,Spud,Carnival,"Hey, Saw-Top, want your Dad to win you a TV?"
+43523,190,93,343000,Bart Simpson,Carnival,"Quick, Dad. Before somebody else wins it!"
+43524,190,94,349000,Cooder,Carnival,"Ooh, almost... Rats, too hard... Oh, that was close... Wow, what a scam."
+43525,190,95,355000,Homer Simpson,Carnival,"Sorry, son. Daddy failed."
+43526,190,96,357000,Cooder,Carnival,"Oh, listen pal, I gotta son of my own. Here."
+43527,190,97,362000,Homer Simpson,Carnival,A novelty comb! Kings among men...
+43528,190,98,368000,The Rich Texan,Carnival,You're looking at Adolf Hitler's personal limousine. It's roomier than Bonnie and Clyde's Death Car and was the first automobile to come with fahrvegnugen!
+43530,190,100,380000,Bart Simpson,Carnival,"Wow, it's fuehrer-rific!"
+43531,190,101,383000,The Rich Texan,Carnival,"There are some who say Hitler's skeleton is in the trunk. Others say just his spare tire. I'm a busy man, so I haven't checked yet."
+43533,190,103,392000,Bart Simpson,Hitler's Car,Hm... One of these must activate the flame thrower.
+43534,190,104,398000,Bart Simpson,Hitler's Car,Uh oh.
+43371,190,105,398000,Homer Simpson,Hitler's Car,Bart!
+43499,190,107,401000,The Rich Texan,Carnival,What in the name of high school football?!
+43500,190,108,407000,Bart Simpson,Carnival,Out of my way! I'm Hitler!
+43536,190,109,411000,Performer,Carnival,"Ow! Ow! Man, that hurts. Oh, I can't stand it."
+43537,190,110,416000,Psychic,Carnival,You are...
+43538,190,111,418000,Psychic,Carnival,...in grave danger.
+43539,190,112,428000,Nelson Muntz,Carnival,You wrecked Hitler's car. What did he ever do to you?
+43540,190,113,440000,The Rich Texan,Carnival,"Why, you just damaged the main attraction of my carnival, son."
+43541,190,114,444000,Camel,Carnival,"Hey, I thought I was your main attraction."
+43542,190,115,448000,The Rich Texan,Carnival,"Well... I... Ah... Oh... Oh, you are, Humphrey. You are."
+43543,190,116,450000,Camel,Carnival,"Hey, he's getting away."
+43544,190,117,452000,The Rich Texan,Carnival,"Not so fast, pardner. You owe me some money."
+43545,190,118,456000,Homer Simpson,Carnival,"Hey, come on! He doesn't have any money. Look at his clothes."
+43546,190,119,460000,The Rich Texan,Carnival,"Hmm, well, I still can't let him off the hook. You're gonna work off your debt right here."
+43547,190,120,466000,Bart Simpson,Carnival,At the carnival? Cool!
+43548,190,121,468000,Homer Simpson,Carnival,"Hey, that's not fair! I wanna be a carny, too! Can I, mister? Huh? Can I? Please?"
+43549,190,122,473000,The Rich Texan,Carnival,I don't know... You gonna get drunk and start a lot of trouble?
+43550,190,123,476000,Homer Simpson,Carnival,"Sure, anything you want."
+43551,190,124,480000,The Rich Texan,Carnival,"All right, see you tomorrow. Six a.m. And you're gonna work like you've never worked before."
+43552,190,125,487000,Bart Simpson,Carnival,Woo hoo!
+43553,190,126,488000,Lisa Simpson,Carnival,We just saw the most amazing camel!
+43554,190,127,491000,Marge Simpson,Carnival,It was wearing a hat!
+43555,190,128,518000,Cooder,Carnival,"Son, if you don't finish your cotton candy, you won't get your Sno-cone."
+43556,190,129,522000,Spud,Carnival,"Aw, heck."
+43557,190,130,525000,Cooder,Carnival,"Hey, you lost your money fair and square. I didn't scam nobody."
+43558,190,131,529000,Homer Simpson,Carnival,"Oh-ho, put down your stick. We're here to work."
+43559,190,132,533000,Bart Simpson,Carnival,"Starting today, we're carnies. Just like you."
+43560,190,133,535000,Cooder,Carnival,"Well, in that case, let me show you how I scammed you. Have a seat. Spud, throw a couple more apples in the caramel."
+43561,190,134,546000,Cooder,Carnival,"Aw, now don't worry. That's just to scare off thieves."
+43562,190,135,554000,Homer Simpson,Carnival,Hmm...
+43563,190,136,554000,Homer Simpson,Carnival,"Yeah, he's telling the truth."
+43564,190,137,555000,Homer Simpson,Carnival,"Thanks for the food, Mister..."
+43565,190,138,558000,Cooder,Carnival,"Name's Cooder. This is my boy, Spud. And there's no need to thank us. We carnival folk look out for each other. That's the Carny Code."
+43567,190,139,566000,Homer Simpson,Carnival,"Did ya hear that, Bart? The Carny Code. Bart, did you hear that?"
+43568,190,140,571000,Bart Simpson,Carnival,Yes!
+43569,190,141,573000,The Rich Texan,Carnival,"Ah, there you are. You two ready to work?"
+43570,190,142,576000,Homer Simpson,Carnival,"Yes, sir!"
+43571,190,143,577000,Bart Simpson,Carnival,"So what's our first job, huh? Test the roller coaster?"
+43572,190,144,579000,Homer Simpson,Carnival,Fry up some cheese?
+43573,190,145,579000,Bart Simpson,Carnival,Hose down the freaks?
+43574,190,146,583000,The Rich Texan,Carnival,"Somethin' like that, yeah."
+43575,190,147,587000,Bart Simpson,Carnival,"Ohh, this isn't fun... Maybe if you didn't go to the bathroom so much, you wouldn't be so small."
+43576,190,148,594000,Homer Simpson,Carnival,"Please, folks. Hold your fire. The water level is dangerously low. Oh!"
+43577,190,149,601000,Homer Simpson,Carnival,Oh-ho-ho-ho! Ow! My leg!
+43578,190,150,606000,The Rich Texan,Carnival,"All right, now this geek bit is pretty straightforward. You just bite the heads off the chickens and take a bow."
+43579,190,151,614000,The Rich Texan,Carnival,"Go on, give it a try. And remember, big smiles."
+43580,190,152,619000,Homer Simpson,Carnival,Oh. Bart?
+43581,190,153,621000,Bart Simpson,Carnival,"Yeah, Dad?"
+43582,190,154,622000,Homer Simpson,Carnival,Do I like chicken?
+43583,190,155,624000,Bart Simpson,Carnival,Does it matter?
+43584,190,156,625000,Homer Simpson,Carnival,I guess not.
+43585,190,157,627000,Cooder,Carnival,"Hey, boss. Uh, me and Spud gotta duck out for our AA meetin'. We need someone to cover for us."
+43586,190,158,635000,The Rich Texan,Carnival,"Okay. Simpson, you and your boy'll be taking over the ring toss."
+43587,190,159,640000,Bart Simpson,Carnival,"Dad, we're saved!"
+43588,190,160,644000,Homer Simpson,Carnival,"Buddy, you're the luckiest chicken in the world."
+43589,190,161,648000,Cooder,Carnival,"Ya see, the trick here is, the rings won't fit over the good prizes."
+43590,190,162,653000,Homer Simpson,Carnival,"Oh, we'll see about that. Gimme ten rings."
+43591,190,163,657000,Cooder,Carnival,"So, anyway... uh, the main thing is to bring in the rubes."
+43592,190,164,662000,Spud,Carnival,"Do whatever it takes. Sweet talk, insults, slang from the 30s that no one uses anymore..."
+43593,190,165,667000,Bart Simpson,Carnival,"Like ""rubes""?"
+43594,190,166,667000,Spud,Carnival,Now you're on the trolley.
+43595,190,167,670000,Cooder,Carnival,"Well, we gotta git. Here's the money box. Uh, any questions?"
+43596,190,168,673000,Homer Simpson,Carnival,"Ah, yes. How do we handle refunds?"
+43597,190,169,676000,Cooder,Carnival,I'm gonna give this to you.
+43598,190,170,678000,Bart Simpson,Carnival,Good move.
+43599,190,171,679000,Homer Simpson,Carnival,Gimme ten rings.
+43601,190,172,681000,Bart Simpson,Carnival,"Lookie, lookie, hey, hey, wocka, wocka! I got rings and you want 'em! Win a genuine Ronex watch. Just like a real moogie star!"
+43602,190,173,689000,Homer Simpson,Carnival,"Hey, there's a sucker."
+43603,190,174,694000,Bart Simpson,Carnival,"Aw, c'mon, Dad. Get on the trolley."
+43604,190,175,698000,Bart Simpson,Carnival,"Hey, highpockets! Win somethin' for your girlfriend?"
+43605,190,176,704000,Agnes Skinner,Carnival,"Seymour, I want that lamp. Win that lamp for me, Seymour."
+43606,190,177,708000,Seymour Skinner,Carnival,"All right, Simpson, be honest with me. Is it actually possible to win this game?"
+43607,190,178,713000,Bart Simpson,Carnival,"If I like ya, it is."
+43608,190,179,714000,Seymour Skinner,Carnival,Hot dog! Let's go!
+43610,190,181,718000,Agnes Skinner,Carnival,"No, throw it over the peg... Well that's no good... Oh, no... Are you blind?"
+43611,190,182,724000,Seymour Skinner,Carnival,"I'm trying, Mother. It's hard!"
+43612,190,183,726000,Agnes Skinner,Carnival,"You're failing, Seymour. What is it about you and failure?"
+43613,190,184,737000,Bart Simpson,Carnival,"We're natural born carnies, Dad. If only we weren't tied down with a family..."
+43614,190,185,742000,Homer Simpson,Carnival,"Yeah, we could start our own game, where people throw ducks at balloons, and nothing's the way it seems."
+43615,190,186,749000,Chief Wiggum,Carnival,"Ah, I hate to interrupt your fun, boys..."
+43616,190,187,749000,Chief Wiggum,Carnival,But I got a few complaints that your game is crooked.
+43617,190,188,755000,Homer Simpson,Carnival,And how...
+43618,190,189,757000,Chief Wiggum,Carnival,"Gee, I'd hate to close you down. Maybe we can reach a little, ah, ""understanding"" here..."
+43619,190,190,763000,Homer Simpson,Carnival,I understand.
+43620,190,191,765000,Bart Simpson,Carnival,"Um, hey, Dad, I, I think he wants a..."
+43621,190,192,768000,Homer Simpson,Carnival,"Not right now, son. Daddy's talking to a policeman."
+43622,190,193,772000,Chief Wiggum,Carnival,"Uh, let me put it this way. I'm looking for my friend ""Bill."" Have you seen any ""Bills"" around here?"
+43623,190,194,780000,Homer Simpson,Carnival,No. He's Bart.
+43624,190,195,786000,Chief Wiggum,Carnival,Listen carefully and watch me wink as I speak. Okay?
+43625,190,196,790000,Homer Simpson,Carnival,Okay.
+43626,190,197,792000,Chief Wiggum,Carnival,"The guy I'm really looking for, wink, is Mr. ""Bribe,"" wink, wink."
+43627,190,198,800000,Homer Simpson,Carnival,It's a ring toss game.
+43628,190,199,802000,Chief Wiggum,Carnival,"All right, that's it. I'm shutting this game down."
+43629,190,200,808000,Homer Simpson,Carnival,"Well, ain't that somethin'."
+43630,190,201,809000,Cooder,Carnival,Our game! Our home! Wh-what happened here?
+43535,190,202,813000,Bart Simpson,Carnival,Cops took it.
+43600,190,203,814000,Cooder,Carnival,What?! Why didn't you bribe them?
+43632,190,204,818000,Homer Simpson,Carnival,"I was trying to, but the opportunity never came up."
+43633,190,205,822000,Cooder,Carnival,"Oh, good Lord. Our whole life was in that trailer. What are we gonna do now?"
+43634,190,206,829000,Homer Simpson,Carnival,Can't you stay in the Whack-A-Mole game?
+43635,190,207,831000,Spud,Carnival,Naw. Fantastic Dan lives there.
+43636,190,208,834000,Fantastic Dan,Carnival,"Did-ja call me, Spud?"
+43638,190,210,837000,Homer Simpson,Carnival,"Look at 'em, Bart. If a carny can wind up homeless, it can happen to anyone."
+43639,190,211,842000,Bart Simpson,Carnival,I'm goin' for a corn dog. You want one?
+43640,190,212,844000,Homer Simpson,Carnival,"Yes, but first there's a little matter of the Carny Code."
+43641,190,213,847000,Homer Simpson,Carnival,"Cooder, Spud. Get off that hog. You're coming to stay at our house."
+43644,190,216,855000,Lisa Simpson,Simpson Home,"Why did you shudder just now, Mom?"
+43645,190,217,858000,Marge Simpson,Simpson Home,I don't know.
+43646,190,218,864000,Cooder,Simpson Home,"You certainly have a nice house here, ma'am."
+43647,190,219,866000,Spud,Simpson Home,It must have taken you years to win all this stuff.
+43648,190,220,869000,Marge Simpson,Simpson Home,Let me get you a coaster for those feet.
+43649,190,221,874000,Spud,Simpson Home,"Hey, check this out. I can unhinge all my joints at once."
+43650,190,222,883000,Spud,Simpson Home,"Doin' anything tonight, blue eyes?"
+43651,190,223,886000,Lisa Simpson,Simpson Home,Ewww!
+43652,190,224,887000,Marge Simpson,Simpson Home,How long are those roustabouts going to be staying here?
+43653,190,225,891000,Homer Simpson,Simpson Home,"Oh, it won't be long. Once their resume gets out, they'll have all kinds of offers. The older one can pull out his left eye."
+43655,190,227,901000,Cooder,Simpson Home,Little help?
+43656,190,228,903000,Cooder,Simpson Home,Here's a little trick my grandmother taught me.
+43657,190,229,918000,Bart Simpson,Simpson Home,Wow. Can you do that again?
+43658,190,230,920000,Cooder,Simpson Home,"Ech, not for a little while."
+43659,190,231,922000,Marge Simpson,Simpson Home,"So Mr. Cooder, how long have you been in the traveling amusement industry?"
+43660,190,232,928000,Cooder,Simpson Home,"Aw hell, the Cooders have been carnies ever since we came here in 1620, clingin' to the side of the Mayflower."
+43661,190,233,936000,Bart Simpson,Simpson Home,"Thanks for dinner, Mom. I love you."
+43662,190,234,938000,Marge Simpson,Simpson Home,"Aw, aren't you sweet? Hey, my pearls!"
+43663,190,235,943000,Bart Simpson,Simpson Home,Spud taught me that.
+43664,190,236,944000,Marge Simpson,Simpson Home,"Good one, Spud."
+43665,190,237,946000,Cooder,Simpson Home,"Well, sure is awful kind of ya to take us into your beautiful home here. I just wish we had some way to repay ya."
+43666,190,238,954000,Cooder,Simpson Home,"Yeah, good thinkin', Spudford. Ah, you folks ever been on a glass bottom boat ride? 'Cause we just happen to have some tickets."
+43667,190,239,963000,Marge Simpson,Simpson Home,"Ooo, what a nice surprise! This is so generous of you, Cooder."
+43668,190,240,968000,Homer Simpson,Simpson Home,"Now who's the filthy sleezebag, uh Marge?"
+43671,190,243,975000,Marge Simpson,Glass Bottomed Boat,The undersea world certainly is full of wonders.
+43672,190,244,984000,Passengers,Glass Bottomed Boat,"Ooo, look at that. / Ooo. / Mmm."
+43673,190,245,984000,Guide,Glass Bottomed Boat,"That's our sister ship, the Athena. Went down with 88 souls just last week."
+43674,190,246,991000,Marge Simpson,Glass Bottomed Boat,I wonder how that happened?
+43675,190,247,993000,Bart Simpson,Glass Bottomed Boat,"Hey, come on, Sharky. / Hey, you want a piece of this? / You call yourself the king of the jungle? / Etc."
+43677,190,249,1001000,Marge Simpson,Simpson Car,That was fun. I wish we had a glass bottom car. I can't help but wonder what we're missing.
+43678,190,250,1010000,Lisa Simpson,Simpson Car,"I was wrong about the Cooders, Dad. They're the nicest of all the transients you've ever brought home."
+43679,190,251,1019000,Lisa Simpson,Simpson Car,And how. / Heck yeah. / Yes they are. / You betcha.
+43681,190,253,1019000,Homer Simpson,Simpson Home,That's weird. The key doesn't fit.
+43682,190,254,1022000,Marge Simpson,Simpson Home,"Hey, someone's boarded up our windows!"
+43683,190,255,1024000,Bart Simpson,Simpson Home,Check this out!
+43684,190,256,1026000,Marge Simpson,Simpson Home,What's going on?
+43685,190,257,1028000,Homer Simpson,Simpson Home,Cooder! What have you done to our house?
+43686,190,258,1033000,Cooder,Simpson Home,It's ours now. Tell us where the extra sheets are and get off our property.
+43687,190,259,1036000,Lisa Simpson,Simpson Home,They're squatting in our house?
+43688,190,260,1040000,Homer Simpson,Simpson Home,You can't do this to me. What about the Carny Code?
+43692,190,264,1054000,Homer Simpson,Springfield Police Station,Carnies took over our house. You've gotta help us.
+43693,190,265,1058000,Chief Wiggum,Springfield Police Station,"Well, well, look who's here. Mr. No Bribe. Sure, we'll help ya. Just sit down and wait for Detective Like-I-give-a-damn."
+43694,190,266,1062000,Homer Simpson,Springfield Police Station,Thank you so much.
+43121,190,267,1068000,Lisa Simpson,Springfield Police Station,Dad...
+43695,190,268,1069000,Homer Simpson,Springfield Police Station,"Honey, Daddy's waiting for the detective."
+43697,190,270,1074000,Marge Simpson,Bart's Treehouse,I found some food for breakfast. I hope everyone likes the red things that grow on this tree.
+43698,190,271,1080000,Lisa Simpson,Bart's Treehouse,"Bart, you're brushing your teeth with my twig."
+43699,190,272,1083000,Bart Simpson,Bart's Treehouse,So. I let you use my leaves.
+43700,190,273,1087000,Cooder,Bart's Treehouse,That Urkle's a hoot.
+43701,190,274,1087000,Homer Simpson,Bart's Treehouse,"Listen to 'em, watching my television, sittin' on my couch... You better not be in my ass-groove!"
+43702,190,275,1094000,Marge Simpson,Bart's Treehouse,Homer!
+43703,190,276,1095000,Homer Simpson,Bart's Treehouse,It took me years to forge that groove.
+43704,190,277,1099000,Lisa Simpson,Bart's Treehouse,Ugh! One of them's playing my saxophone!
+43705,190,278,1103000,Lisa Simpson,Bart's Treehouse,"Oh, no! The spit valve! Release the spit valve!"
+43706,190,279,1108000,Marge Simpson,Bart's Treehouse,Over the sink! Over the sink!
+43708,190,281,1113000,Cooder,Simpson Home,"Hey, look at me! I'm a millionaire!"
+43709,190,282,1116000,Spud,Simpson Home,"Wow, Dad! You look like James Bond!"
+43710,190,283,1120000,Cooder,Simpson Home,"Ha, ha. Hey, it's gettin' a little cold in here. Throw another one of them photo albums on the fire."
+43711,190,284,1125000,Spud,Simpson Home,"Which one? ""Precious Moments"" or ""Treasured Memories?"""
+43712,190,285,1128000,Cooder,Simpson Home,Quit your yappin'! I'm freezin'!
+43714,190,287,1135000,Homer Simpson,Bart's Treehouse,Good Morning everybody.
+43715,190,288,1140000,Marge Simpson,Bart's Treehouse,Homer!!
+43716,190,289,1141000,Homer Simpson,Bart's Treehouse,Stupid Gravity.
+43717,190,290,1144000,Marge Simpson,Bart's Treehouse,We can't just give up our home. There's gotta be a way to get those guys out of there.
+43718,190,291,1150000,Bart Simpson,Bart's Treehouse,I say we set fire to the house. Kill 'em that way.
+43719,190,292,1153000,Marge Simpson,Bart's Treehouse,"We don't want to kill them, Bart. We just want our home back."
+43720,190,293,1158000,Lisa Simpson,Bart's Treehouse,Well... if we did set fire to the house...
+43721,190,294,1161000,Marge Simpson,Bart's Treehouse,No fires!
+43722,190,295,1163000,Homer Simpson,Bart's Treehouse,I've got it!
+43723,190,296,1164000,Marge Simpson,Bart's Treehouse,No fires.
+43725,190,298,1167000,Marge Simpson,Bart's Treehouse,There must be a way to outsmart them.
+43726,190,299,1169000,Homer Simpson,Bart's Treehouse,"Aw, you can't outsmart carnival folk. They're the cleverest folk in the world. Just look at the way they sucker regular folk with those crooked games. That's it! Fire! Or..."
+43182,190,301,1185000,Cooder,Simpson Home,Cooder residence.
+43728,190,302,1186000,Homer Simpson,Simpson Home,"I've got a proposition for you, Cooder."
+43729,190,303,1189000,Cooder,Simpson Home,"Yeah, I'm listenin'."
+43730,190,304,1190000,Homer Simpson,Simpson Home,"One game of ring toss. If I can throw this Hula Hoop onto the chimney, you'll give us our house back. If I miss, I'll sign the deed over to you."
+43731,190,305,1201000,Marge Simpson,Simpson Home,"Homer, no!"
+43732,190,306,1202000,Bart Simpson,Simpson Home,"Oh, you'll never make it, Dad!"
+43733,190,307,1206000,Cooder,Simpson Home,So we'd own the house legit?
+43734,190,308,1209000,Homer Simpson,Simpson Home,That's right.
+43735,190,309,1211000,Cooder,Simpson Home,Deal.
+43736,190,310,1218000,Lisa Simpson,Simpson Home,"Oh, I can't watch."
+43737,190,311,1241000,Homer Simpson,Simpson Home,Now!
+43738,190,312,1242000,Cooder,Simpson Home,What...?
+43740,190,314,1249000,Spud,Simpson Home,"Hey, they just ran into the house. That Homer fella grifted you good, Dad."
+43741,190,315,1255000,Cooder,Simpson Home,"Well, there's no shame in being beaten by the best."
+43742,190,316,1257000,Spud,Simpson Home,But he didn't seem all that...
+43743,190,317,1259000,Cooder,Simpson Home,"We were beaten by the best, boy."
+43744,190,318,1263000,Marge Simpson,Simpson Home,"I'm so proud of you, Homer. You got us our house back."
+43745,190,319,1268000,Bart Simpson,Simpson Home,"Way to go, Dad. You actually outwitted someone."
+43746,190,320,1270000,Homer Simpson,Simpson Home,"Yeah, I guess your old man is smarter than you thought."
+43747,190,321,1274000,Homer Simpson,Simpson Home,"Look at 'em standing out there. No place to go. Heh, heh. Poor guys. Hey, what if we let 'em stay here for just a few days?"
+43748,190,322,1285000,Bart Simpson,Simpson Home,Mom. Get him away from the window.
+43749,190,323,1288000,Marge Simpson,Simpson Home,Homer...
+43750,190,324,1289000,Homer Simpson,Simpson Home,My groove!
+43751,190,325,1292000,Homer Simpson,Simpson Home,They mushed it all out of shape.
+43752,190,326,1295000,Homer Simpson,Simpson Home,"All right, better put on a pot of coffee, Marge. This could take a while."
+43753,190,327,1306000,Homer Simpson,Simpson Home,"Come on now, just a little more. Little more to the left... to the left there. What did he do this thing? Almost... Ahhhhhhhhh"

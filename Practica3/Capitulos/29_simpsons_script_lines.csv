@@ -1,0 +1,209 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+157224,29,1,9000,Homer Simpson,Simpson Home,"No! No! No! Bad dog! Let go! Bad Santa's Little Helper! Stop it! No, not the sports section! No!"
+157225,29,2,110000,Homer Simpson,Simpson Home,Stupid dog.
+157226,29,3,117000,Homer Simpson,Simpson Home,No! Stay away! This is not for you! This is Homer food.
+157227,29,4,126000,Marge Simpson,Simpson Home,"Time to get up, Lisa. It's a school day!"
+157228,29,5,131000,Marge Simpson,Simpson Home,"Hmmm, Lisa, you don't look well."
+157229,29,6,134000,Lisa Simpson,Simpson Home,"I'll make it, Mom. Just tape my lunch box to my hand."
+157230,29,7,138000,Marge Simpson,Simpson Home,"Ohhh.. my, you're burning up, and your cheeks are so swollen. I think you have the mumps. I'm calling Doctor Hibbert."
+157231,29,8,147000,Homer Simpson,Simpson Home,"Marge, the dog is hungry!"
+157232,29,9,149000,Marge Simpson,Simpson Home,"Well, then, feed him!"
+157233,29,10,151000,Homer Simpson,Simpson Home,"Yes, Master."
+157235,29,12,160000,Krusty the Clown,Simpson Home,You're my best friend. You're my best friend. You're my best friend...
+157236,29,13,171000,Marge Simpson,Simpson Home,"Hello, Doctor Hibbert? This is Marge Simpson."
+157237,29,14,184000,Dr. Julius Hibbert,Simpson Home,"Uh, not that I'm angry, but how did you get my home number? I see, quite ingenious."
+157238,29,15,191000,Marge Simpson,Simpson Home,"Doctor, I think Lisa has the mumps."
+157239,29,16,194000,Dr. Julius Hibbert,Simpson Home,"Well, Mrs. Simpson, much as I'd like to rely on your diagnosis, I think it might be professionally derelict of me to do so. Let me check my schedule."
+157240,29,17,203000,Marge Simpson,Simpson Home,"Mm hm. Two o'clock is fine. Thank you, Dr. Hibbert."
+157241,29,18,207000,Bart Simpson,Simpson Home,"No way! She's faking! If Lisa stays home, I stay home."
+157242,29,19,212000,Lisa Simpson,Simpson Home,"If Bart stays home, I'm going to school."
+157243,29,20,214000,Bart Simpson,Simpson Home,Fine. Then...
+157244,29,21,215000,Bart Simpson,Simpson Home,"Wait a minute. If Lisa goes to school then I go to school, but then Lisa stays home so I stay home, so Lisa goes to school..."
+157245,29,22,222000,Marge Simpson,Simpson Home,"Lisa, don't confuse your brother like that. Have a nice day at school, Bart."
+157246,29,23,226000,Lisa Simpson,Simpson Home,Get my homework from Mrs. Hoover.
+157247,29,24,228000,Bart Simpson,Simpson Home,"Homework? Lisa, you wasted chicken pox. Don't waste the mumps."
+157249,29,26,247000,Otto Mann,School Bus,"Hey, Bart-dude."
+157250,29,27,249000,Bart Simpson,School Bus,"Hey, Otto-man."
+157251,29,28,250000,Otto Mann,School Bus,"Yo, hairy bro."
+157252,29,29,251000,Bart Simpson,School Bus,"Go home, boy! Go... home!"
+157253,29,30,273000,Apu Nahasapeemapetilon,School Bus,You! Wandering mongrel! Get out of my Mom and Pop operation!
+157255,29,32,282000,Homer Simpson,Simpson Home,Y'ello.
+157256,29,33,283000,Sylvia Winfield,Simpson Home,Simpson? This is Sylvia Winfield. That canine of yours is in my pool again. I'm calling the dog warden right now!
+157257,29,34,290000,Homer Simpson,Simpson Home,"Oh, are you? Well, you go ahead and call your precious dog warden, you old battle-ax, because my dog is tied up in the backyard."
+157258,29,35,299000,Sylvia Winfield,Simpson Home,"There's only one family on this block... no, on earth... inconsiderate enough to let a monster like that roam free."
+157259,29,36,308000,Homer Simpson,Simpson Home,"Are you losing your hearing, or are you just stupid? I am going to explain this to you one more time, and then I am going to hang up on you. It is not my dog. I tied my dog outside myself. I am looking at him right --"
+157264,29,38,332000,Ned Flanders,Street,"Well, howdaly-do, Simpson? Gettin' a little exercise, eh? Good for you, pal. Oh, look at this old rascal! He's a wet old baby boy, isn't he? Isn't he? You're just a water monster."
+157265,29,39,343000,Homer Simpson,Street,"Well, well. Mr. Universe takes a walk. Haw, haw!"
+157266,29,40,348000,Ned Flanders,Street,"Mr. Universe, I wish!"
+157267,29,41,349000,Homer Simpson,Street,"Look at that get-up. Heavy hands, ankle weights, that's cute, and ... Assassins!"
+157268,29,42,357000,Ned Flanders,Street,"Oh, you betcha! You know, they got velcro straps, a water pump in the tongue, built-in pedometer, reflective sidewalls and little vanity license plates."
+157269,29,43,365000,Homer Simpson,Street,Oooh! Oooh! How much? How much? How much?
+157270,29,44,367000,Ned Flanders,Street,"Well, you know they're not givin' 'em away. But sometimes you've just got to spoil yourself."
+157271,29,45,372000,Homer Simpson,Street,Yeah.
+157272,29,46,373000,Ned Flanders,Street,"Whoops, my heart rate's dropping. Better skedaddley-do."
+157274,29,48,378000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Hmmm, huh. discoloration of the saliva glands,"
+157275,29,49,383000,Marge Simpson,Dr. Hibbert's Office,Oh dear.
+157276,29,50,384000,Dr. Julius Hibbert,Dr. Hibbert's Office,...swelling of the peritage.
+157277,29,51,386000,Marge Simpson,Dr. Hibbert's Office,I knew it.
+157278,29,52,387000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Yeah, it looks like little Lisa has the mumps. I guess you'll be missing a week of school, young lady."
+157279,29,53,392000,Lisa Simpson,Dr. Hibbert's Office,"Oh, no. I don't want to fall behind my class."
+157280,29,54,397000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Oh, such responsibility for such a little girl! What's your favorite subject?"
+157281,29,55,402000,Lisa Simpson,Dr. Hibbert's Office,Arithmetic.
+157282,29,56,404000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Arithmetic! Now before you know it, you will be back among your polygons, your hypotenuse, and your Euclidean algorithms. Now, you get rest now and have yourself a wowwipop."
+157284,29,58,417000,Homer Simpson,Springfield Nuclear Power Plant,"Y'ello, Hi, Lisa, what's wrong? The mumps? Oooh, the kissing disease! My little girl is growing up."
+157286,29,60,428000,Lisa Simpson,Simpson Home,"Yuck. Quit it, Dad."
+157288,29,62,430000,Homer Simpson,Springfield Nuclear Power Plant,"So what does my little girl want? What? Let me write this down. Copies of ""Teen Dream... Teen Scream... and Teen Steam Magazine."" Well, okay. You're the sickie. Goodbye, Lisa."
+157261,29,63,447000,Homer Simpson,Springfield Nuclear Power Plant,"Hey Lenny, I need to leave early. Cover for me, will ya?"
+157262,29,64,451000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey, sure thing, Homer."
+157289,29,65,460000,Lenny Leonard,Springfield Nuclear Power Plant,Ohh.
+157290,29,67,460000,Marge Simpson,Simpson Home,"Well, Lisa, here it is; the Bouvier family quilt."
+157291,29,68,465000,Lisa Simpson,Simpson Home,Wow. Neat. It smells historic.
+157292,29,69,472000,Marge Simpson,Simpson Home,"For five generations, women in our family have each added a square to it. Now it's your turn."
+157293,29,70,479000,Lisa Simpson,Simpson Home,"Oh, but I don't know how to sew."
+157294,29,71,481000,Marge Simpson,Simpson Home,"Oh yes, you do. You just don't know it. The memory of a million drop-stitches flows in your veins."
+157295,29,72,490000,Lisa Simpson,Simpson Home,Very impressive!
+157296,29,73,492000,Marge Simpson,Simpson Home,You try it.
+157297,29,74,495000,Lisa Simpson,Simpson Home,Ow!
+157298,29,75,495000,Marge Simpson,Simpson Home,You just need to develop a callous. See?
+157299,29,76,500000,Marge Simpson,Simpson Home,"You see. Now that's a sewing finger, honey."
+157300,29,77,505000,Lisa Simpson,Simpson Home,Ew.
+157302,29,79,510000,Homer Simpson,Springfield Mall,"Oh man, two dollars. Uh, I'll take these three... They're for my daughter."
+157303,29,80,517000,Counter Man,Springfield Mall,Sure they are.
+157304,29,81,526000,Homer Simpson,Springfield Mall,Assassins!
+157305,29,82,527000,Homer Simpson,Springfield Mall,"Oh, a hundred and twenty-five bucks!"
+157306,29,83,530000,Flanders's Thoughts,Springfield Mall,Sometimes you gotta spoil yourself... spoil yourself... spoil yourself.
+157307,29,84,534000,Homer Simpson,Springfield Mall,But I can't afford to...
+157308,29,85,535000,Flanders's Thoughts,Springfield Mall,"Simpson, I order you to buy those shoes!"
+157309,29,86,538000,Homer Simpson,Springfield Mall,"Okay, Flanders, you're the boss. Heh, heh, heh."
+157311,29,88,540000,Marge Simpson,Simpson Home,This one's mine.
+157312,29,89,541000,Lisa Simpson,Simpson Home,"""Keep on truckin'""? What does that mean?"
+157313,29,90,545000,Marge Simpson,Simpson Home,"I didn't know then, and I don't know now."
+157314,29,91,548000,Bart Simpson,Simpson Home,Here's your stupid homework.
+157315,29,92,549000,Lisa Simpson,Simpson Home,"Ooh... phonics, functions, vocabulary, remedial reading? Oh, do your own homework, Bart!"
+157317,29,94,558000,Homer Simpson,Simpson Home,Here's your magazines. How many of these guys are named Corey?
+157318,29,95,562000,Lisa Simpson,Simpson Home,"Eight. Thanks, Dad."
+157319,29,96,564000,Bart Simpson,Simpson Home,Whoa! Assassins!
+157320,29,97,566000,Homer Simpson,Simpson Home,"Yep! Hee, hee. Read 'em and weep."
+157321,29,98,568000,Marge Simpson,Simpson Home,Those are very elaborate sneakers.
+157322,29,99,569000,Bart Simpson,Simpson Home,They better be for a hundred and twenty-five big ones!
+157324,29,101,571000,Marge Simpson,Simpson Home,A hundred and twenty-five dollars!!
+157325,29,102,574000,Homer Simpson,Simpson Home,Bart!
+157326,29,103,574000,Marge Simpson,Simpson Home,Homer!
+157328,29,105,576000,Marge Simpson,Simpson Home,I thought we agreed to consult each other before any major purchases.
+157329,29,106,579000,Homer Simpson,Simpson Home,"Well, you bought all those smoke alarms and we haven't had a single fire."
+157331,29,108,584000,Kent Brockman,Simpson Home,The manhunt... or should I say a woman hunt is on...
+157332,29,109,588000,Krusty the Clown,Simpson Home,"You know, Joe. Yours is the only show I'll do..."
+157333,29,110,593000,Troy McClure,Simpson Home,"As an actor, my eyeballs need to look their whitest."
+157335,29,112,599000,Homer Simpson,Simpson Home,NOOOOOOOOOOOOOOOOOOOOO!
+157336,29,113,621000,Marge Simpson,Simpson Home,"Well, Homer. There seems to be a lot of good obedience schools here."
+157337,29,114,641000,Bart Simpson,Simpson Home,"Oh school! Right. Yeah, that's your answer for everything!"
+157338,29,115,646000,Marge Simpson,Simpson Home,"Oooh, this one looks very reputable."
+157340,29,117,658000,Emily,CANINE COLLEGE,What lovely handwriting! Have a toffee... Such a neat job. Have at them... Well done!
+157342,29,119,667000,Emily,CANINE COLLEGE,"Now, if I could borrow... Satan's Little Helper..."
+157343,29,120,668000,Bart Simpson,CANINE COLLEGE,Santa's Little Helper.
+157344,29,121,671000,Emily,CANINE COLLEGE,Ladies and gentlemen...
+157345,29,122,671000,Emily,CANINE COLLEGE,"Most of you already know that, with a little love and compassion, any puppy will grow up to be a cuddly little bundle of joy. Stuff and nonsense, taught by charlatans and learned by bloody twits. Let me tell you the two most important words you will ever hear in your life: choke chain."
+157346,29,123,692000,Emily,CANINE COLLEGE,"You raise a dog the same way you would raise a child: with simple, authoritative commands... Lay down!"
+157347,29,124,699000,Emily,CANINE COLLEGE,...followed by immediate correction...
+157348,29,125,703000,Martin Prince,CANINE COLLEGE,How can we tell if we're doing this maneuver effectively?
+157349,29,126,706000,Emily,CANINE COLLEGE,The dog's eyes will cross and his tongue will protrude and change color ever so slightly.
+157350,29,127,711000,Bart Simpson,CANINE COLLEGE,"Is my dog dead, ma'am?"
+157351,29,128,712000,Emily,CANINE COLLEGE,"You don't know how often I'm asked that. ""Choke chain"" is a misnomer. Trust me, they are always breathing."
+157353,29,130,719000,Kelly,Simpson Home,"Jack, I think the baby might be yours."
+157354,29,131,722000,Jack,Simpson Home,"Oh, I'm sure it is, doll-face. But I'd like to see you prove it."
+157355,29,132,726000,Kelly,Simpson Home,You're treating me like garbage.
+157356,29,133,727000,Jack,Simpson Home,"That's because that's the way you love it, baby."
+157357,29,134,733000,Lisa Simpson,Simpson Home,"Gee, is it always this good?"
+157358,29,135,735000,Marge Simpson,Simpson Home,"Oh, I don't know, I just dip in and out... I'm only watching today because Brandy is coming out of her coma and she knows the phony prince's body is hidden in the boathouse..."
+157359,29,136,745000,Marge Simpson,Simpson Home,"Ohh, that dog!"
+157360,29,137,747000,Lisa Simpson,Simpson Home,Bad dog! Don't worry Snowball. You're safe with me.
+157361,29,138,753000,Lisa Simpson,Simpson Home,"Mom, what will we do if Santa's Little Helper doesn't learn anything in obedience school?"
+157362,29,139,759000,Marge Simpson,Simpson Home,I don't know.
+157363,29,140,762000,Kelly,Simpson Home,Father McGrath! I thought you were dead.
+157364,29,141,765000,Father McGrath,Simpson Home,I was!
+157366,29,143,779000,Emily,CANINE COLLEGE,"There are two ways for a dog to relieve himself. One is like a faithful friend and partner for life. The other is like a hose without a fireman. Which way do you think that was, Mr. Simpson?"
+157367,29,144,790000,Bart Simpson,CANINE COLLEGE,"Like a hose, your wrinkled highness."
+157369,29,146,796000,Homer Simpson,Simply Shoes,I've changed my mind. I decided I don't want these shoes.
+157370,29,147,799000,Salesboy,Simply Shoes,"Hey, wait a minute. What happened here?"
+157371,29,148,802000,Homer Simpson,Simply Shoes,"Well, my faithful dog was bringing me my shoes and they fell apart in his mouth."
+157372,29,149,807000,Salesboy,Simply Shoes,"I'm sorry, sir. Our warranty doesn't cover fire, theft, or acts of dog."
+157374,29,151,813000,Homer Simpson,SIMPY SHOES,Big cookie.
+157375,29,152,815000,Hula Woman,SIMPY SHOES,Aloha.
+157376,29,153,816000,Homer Simpson,SIMPY SHOES,"Well, aloha!"
+157377,29,154,818000,Hula Woman,SIMPY SHOES,Would you like a free sample?
+157378,29,155,819000,Homer Simpson,SIMPY SHOES,The price is right.
+157379,29,156,820000,Homer Simpson,SIMPY SHOES,Mmmm. Macamadamia nuts.
+157380,29,157,825000,Hula Woman,SIMPY SHOES,"If you'd like to buy some, they're only a dollar each."
+157381,29,158,827000,Homer Simpson,SIMPY SHOES,"Oh, so that's your little plan! Get us addicted, then jack up the price! Well, you win."
+157383,29,160,837000,Homer Simpson,Simpson Home,Property of Hom-er J. Simp-son. Hands off.
+157384,29,161,858000,Lisa Simpson,Simpson Home,"Look, Mom, I finished my patch. It depicts the two greatest musical influences in my life."
+157386,29,162,865000,Lisa Simpson,Simpson Home,"On the left is Mr. Largo, my music teacher at school. He taught me that even the noblest concerto can be drained of its beauty and soul. And on the right is Bleeding Gums Murphy. He taught me that music is like a fire in your belly that comes out of your mouth, so you better stick an instrument in front of it."
+157387,29,163,882000,Marge Simpson,Simpson Home,Hm.
+157388,29,164,882000,Lisa Simpson,Simpson Home,And look!
+157389,29,165,904000,Marge Simpson,Simpson Home,"Come on, Homer. I want you to see what your sick little girl did."
+157391,29,167,913000,Marge Simpson,Simpson Home,"MY QUILT! Six generations, gone."
+157392,29,168,917000,Homer Simpson,Simpson Home,"Now Marge, honey, honey, honey. Come on. Come on, don't get upset. It's not the end of the world. We all loved that quilt, but you can't get too attached to..."
+157393,29,169,930000,Homer Simpson,Simpson Home,"No, MY COOKIE!"
+157394,29,170,934000,Homer Simpson,Simpson Home,This is not happening! This is not happening!
+157395,29,171,941000,Homer Simpson,Simpson Home,Everybody in the kitchen! We're having a family meeting!
+157396,29,172,944000,Bart Simpson,Simpson Home,We never had a family meeting before.
+157397,29,173,946000,Homer Simpson,Simpson Home,We never had a problem with a family member we can give away before.
+157398,29,174,949000,Marge Simpson,Simpson Home,"Homer, what are you saying?"
+157399,29,175,951000,Homer Simpson,Simpson Home,I'm saying...
+157400,29,176,959000,Bart Simpson,Simpson Home,No way! You can't give my dog away! I'll set fire to my hair! I'll rip up all my clothes! I'll put sugar in the gas tank!
+157401,29,177,963000,Homer Simpson,Simpson Home,Bart!
+157402,29,178,964000,Lisa Simpson,Simpson Home,"I've suffered as much as anyone at the paws of this dog. But when I look into his vacant brown eyes, I just can't bear to let him go. I'm sure Mom agrees with me."
+157403,29,179,975000,Marge Simpson,Simpson Home,"No, I'm afraid I agree with your father."
+157404,29,180,978000,Homer Simpson,Simpson Home,"You do? Ha ha, ha ha ha!"
+157405,29,181,981000,Marge Simpson,Simpson Home,"Homer, please. It's not just the quilt. He's a nice dog, but he chews up everything. He doesn't obey. He's not even housebroken. And we've spent all this money on an obedience school and I don't see any improvement."
+157406,29,182,993000,Bart Simpson,Simpson Home,"All right, all right. If Santa's Little Helper studies real hard and passes his finals and becomes a perfect dog, can we keep him then?"
+157407,29,183,1000000,Homer Simpson,Simpson Home,No.
+157408,29,184,1000000,Bart Simpson,Simpson Home,Dad!
+157411,29,185,1002000,Lisa Simpson,Simpson Home,"Dad, this is our pet. We can question his integrity and disposition, but we can't question his heart. Are you trying to teach us that the way to solve a problem with something you love is to throw it away?"
+157412,29,186,1017000,Homer Simpson,Simpson Home,"Oh Lisa, if they're ever going to pull the plug on me, I want you in my corner, honey."
+157413,29,187,1025000,Marge Simpson,Simpson Home,"Oh, all right. If he passes obedience school, we can keep him."
+157414,29,188,1028000,Lisa Simpson,Simpson Home,Yea!
+157415,29,189,1028000,Bart Simpson,Simpson Home,All right!
+157417,29,191,1033000,Bart Simpson,CANINE COLLEGE,"See boy, it's not so hard. Here, roll over... roll over... like this."
+157418,29,192,1040000,Emily,CANINE COLLEGE,"Congratulations, sonny. You've earned a toffee."
+157419,29,193,1043000,Bart Simpson,CANINE COLLEGE,"Oh, thank you, you moldy old maid."
+157421,29,195,1046000,Marge Simpson,Simpson Home,"Homer, can't we place this ad after the dog fails his test?"
+157422,29,196,1050000,Homer Simpson,Simpson Home,"No, we have to commit ourselves. Now take this down. ""Free to loving home. World's most brilliant dog. Says 'I love you' on command."""
+157424,29,198,1060000,Homer Simpson,Simpson Home,Type! Type!
+157426,29,200,1063000,Bart Simpson,CANINE COLLEGE,"Now, sit! I said sit!"
+157427,29,201,1066000,Bart Simpson,CANINE COLLEGE,Uh... Take a walk!
+157428,29,202,1069000,Bart Simpson,CANINE COLLEGE,"Sniff that other dog's butt! See, he does exactly what I tell him."
+157430,29,204,1075000,Homer Simpson,Simpson Home,"Oh no, we'd never give him away, but, we're moving to another country where dogs are forbidden. Hear what? Oh, sure. C'mere, boy! Put that prowler down. Come here! Come on boy! Say it, boy! Say ""I love you"" for the nice man! I lub you. Good dog! Good doggie! Isn't that amazing? See you soon. Woooo! Wooo!"
+157432,29,206,1100000,Emily,CANINE COLLEGE,"A lot of you think your dogs have mastered the ""stay"" command. Let's see if they can ""stay"" away from this Beef Wellington."
+157433,29,207,1107000,Emily,CANINE COLLEGE,Now... stayyy!
+157434,29,208,1112000,Bart Simpson,CANINE COLLEGE,Stay boy! Stay! Stay! Stayyy!!
+157436,29,210,1119000,Farmer,Simpson Home,"Oh, he'd be very happy at my farm. You know, people think only mules can pull carts. Impatient people think that, but patient people know better."
+157437,29,211,1129000,Homer Simpson,Simpson Home,"Uh, you can pick him up tomorrow."
+157385,29,213,1135000,Bart Simpson,CANINE COLLEGE,"Miss Winthrop, I was thinking..."
+157409,29,214,1140000,Emily,CANINE COLLEGE,"Tch, tch. Oh, dear."
+157410,29,215,1143000,Bart Simpson,CANINE COLLEGE,"...since you get paid either way, would it be a big deal to just let my dog pass?"
+157439,29,216,1149000,Emily,CANINE COLLEGE,"I see. Rubber stamp, thank you very much, next in line! Is that it?"
+157440,29,217,1153000,Bart Simpson,CANINE COLLEGE,Yeah!
+157441,29,218,1154000,Emily,CANINE COLLEGE,"Heavens to Mergatroid! Bart, perhaps I cling to the old ways like a well-chewed shoe as the traditions I was weaned on are put to sleep or neutered, one by one. But my time has not passed yet! The world does not need another college graduate who doesn't know how to sit!"
+157442,29,219,1176000,Bart Simpson,CANINE COLLEGE,"He'll sit, he'll sit. Come on, boy. Sit! Sit!"
+157443,29,220,1183000,Emily,CANINE COLLEGE,Pull the chain!
+157444,29,221,1184000,Bart Simpson,CANINE COLLEGE,Huh?
+157445,29,222,1185000,Emily,CANINE COLLEGE,Correct the dog!
+157446,29,223,1187000,Bart Simpson,CANINE COLLEGE,I don't want to strangle my dog.
+157447,29,224,1188000,Emily,CANINE COLLEGE,"PULL THE BLOODY CHAIN, BOY!"
+157448,29,225,1195000,Bart Simpson,CANINE COLLEGE,"I'm sorry, boy. You can't help being dumb."
+157450,29,227,1199000,Marge Simpson,Simpson Home,"Hmmm, what are you doing, dear?"
+157451,29,228,1201000,Lisa Simpson,Simpson Home,"Sewing a new quilt. You know, it's one thing to be a link in a chain. It's another to start one of your own."
+157452,29,229,1207000,Marge Simpson,Simpson Home,Aww.
+157453,29,230,1208000,Lisa Simpson,Simpson Home,This patch commemorates the destruction of the old quilt.
+157454,29,231,1213000,Marge Simpson,Simpson Home,"Well, you certainly captured the moment. Hmmm ."
+157455,29,232,1218000,Bart Simpson,Simpson Home,"Come on, boy, sit! Sit! Sit! Sit! Oh, man!"
+157456,29,233,1227000,Lisa Simpson,Simpson Home,"Bart, he's not gonna learn it now. Don't spend your last hours together tormenting the poor creature. Have some fun, frolic with him. Go get it, boy!"
+157457,29,234,1260000,Bart Simpson,Simpson Home,"I'm gonna miss you, boy."
+157458,29,235,1262000,Bart Simpson,Simpson Home,"I thought we were gonna be pals forever. But, we're gonna have to say goodbye, because you don't understand a single word I say. If you just knew how important it was to learn sit..."
+157459,29,236,1279000,Bart Simpson,Simpson Home,Wait a minute! You did it!
+157460,29,237,1282000,Bart Simpson,Simpson Home,... lay down...
+157461,29,238,1287000,Bart Simpson,Simpson Home,... shake hands?... stay!
+157462,29,239,1292000,Bart Simpson,Simpson Home,... speak!
+157463,29,240,1294000,Bart Simpson,Simpson Home,All right! Good boy! Roll over!
+157465,29,242,1300000,Emily,CANINE COLLEGE,You son-of-a-bitch. Good show!

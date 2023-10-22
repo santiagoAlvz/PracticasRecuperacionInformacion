@@ -1,0 +1,285 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+154159,19,1,8000,Homer Simpson,Simpson Front Yard,Bust my hump all week... stupid grass... supposed to be the boy's job.
+154160,19,2,91000,Marge Simpson,Simpson Front Yard,"Now, now, Homer. Bart's busy working on his science project."
+154161,19,3,96000,Bart Simpson,Simpson Front Yard,"You heard the lady, Homer. So please mow quietly. Genius at work."
+154163,19,5,104000,Bart Simpson,Simpson Home,"""One o'clock -- still just a potato.,one oclock -- still just a potato,7
+5433,19,6,""Ned Flanders: (PLEASANTLY) Hey there"
+154164,19,7,113000,Homer Simpson,Simpson Home,"H'lo, Flanders."
+154165,19,8,114000,Ned Flanders,Simpson Home,"Doing a little yard work, huh?"
+154166,19,9,115000,Homer Simpson,Simpson Home,Who told? Marge! Beer me!
+154167,19,10,118000,Ned Flanders,Simpson Home,"Say Simpson, I-I've got some time-release granules that'll get rid of that crabgrass in just a half-a-jif."
+154168,19,11,125000,Homer Simpson,Simpson Home,Crabgrass? What are you talking about? Where?
+154169,19,12,129000,Ned Flanders,Simpson Home,"Well, ooh, there... there... and uh there's a big patch over there."
+154170,19,13,133000,Homer Simpson,Simpson Home,"There's nothing wrong with crabgrass! It just has a bad name, that's all. Everyone would love it if it had a cute name like... uh... elfgrass."
+154171,19,14,137000,Ned Flanders,Simpson Home,"Well, you may be right!"
+154172,19,15,143000,Homer Simpson,Simpson Home,Marge! Where's the Duff?
+154142,19,17,147000,Marge Simpson,Simpson Home,Would you like some fruit juice?
+154173,19,18,148000,Homer Simpson,Simpson Home,"Don't toy with me, woman."
+154174,19,19,150000,Ned Flanders,Simpson Home,"Couldn't help overhearing, Simpson. I've got some ice-cold suds in the rumpus room, if you'd like to join me."
+154175,19,20,157000,Homer Simpson,Simpson Home,"Well, uh, okay. What the heck, I've earned a little break."
+154177,19,22,162000,Homer Simpson,Flanders Home,Holy moly! It's... it's... beautiful!
+154178,19,23,166000,Ned Flanders,Flanders Home,"Say, that's right. This is your first visit to the Flanders homestead."
+154179,19,24,170000,Homer Simpson,Flanders Home,"Well, we've only been neighbors, what? uh, one, two, three, four... eight years."
+154180,19,25,175000,Ned Flanders,Flanders Home,"There's my little Popcorn Ball. Kissy, kissy."
+154181,19,26,178000,Maude Flanders,Flanders Home,"Hello, Sponge Cake. I thought you boys might be hungry, so I whipped up some club sandwiches."
+154182,19,27,184000,Ned Flanders,Flanders Home,"Ain't she wonderful, Simpson?"
+154183,19,28,186000,Homer Simpson,Flanders Home,"Yeah, yeah, yeah, but aren't we forgetting something, Flanders?"
+154184,19,29,188000,Ned Flanders,Flanders Home,"Oh, your beer. Uh, is draft okay? Just put in the tap last week."
+154185,19,30,196000,Ned Flanders,Flanders Home,"Heh, heh. This is a tasty little lager that came all the way from Holland."
+154186,19,31,200000,Homer Simpson,Flanders Home,"Well, beggars can't be choosy."
+154187,19,32,204000,Todd Flanders,Flanders Home,"Hey, Dad, thanks for helping me with my science project."
+154188,19,33,207000,Ned Flanders,Flanders Home,"My pleasure, Study Buddy."
+154189,19,34,210000,Todd Flanders,Flanders Home,I've got the best Dad in the whole world.
+154190,19,35,212000,Ned Flanders,Flanders Home,"Oh, you know how that embarrasses me."
+154191,19,36,215000,Todd Flanders,Flanders Home,I know. T'oodley doodley.
+154192,19,37,218000,Ned Flanders,Flanders Home,"Ah, kids can be a trial sometimes."
+154193,19,38,220000,Homer Simpson,Flanders Home,"All right, knock it off!"
+154194,19,39,222000,Ned Flanders,Flanders Home,"Uh, knock what off, Simpson?"
+154195,19,40,224000,Homer Simpson,Flanders Home,You've been rubbing my nose in it since I got here. Your family is better than my family. Your beer comes from farther away than my beer. You and your son like each other. Your wife's butt is higher than my wife's butt. You make me sick!
+154196,19,41,239000,Ned Flanders,Flanders Home,"Simpson, I'm afraid I'm going to have to ask you to leave. I hope you understand."
+154197,19,42,244000,Homer Simpson,Flanders Home,I wouldn't stay on a bet!
+154198,19,43,249000,Homer Simpson,Flanders Home,One for the road.
+154200,19,45,255000,Marge Simpson,Simpson Home,"Homie, quit tossing."
+154202,19,46,258000,Homer Simpson,Simpson Home,"Sorry, Marge. But it's just that I'm still steamed up about that jerk Flanders. Lousy... bragging... know-it-all... show-off..."
+154203,19,47,265000,Marge Simpson,Simpson Home,What exactly did he say?
+154204,19,48,267000,Homer Simpson,Simpson Home,"Get this. He said... he said... well, it wasn't so much what he said, it was how he said it!"
+154205,19,49,274000,Marge Simpson,Simpson Home,"Well, how did he say it?"
+154206,19,50,276000,Homer Simpson,Simpson Home,Well... he...
+154207,19,51,277000,Marge Simpson,Simpson Home,Was he angry?
+154208,19,52,278000,Homer Simpson,Simpson Home,No.
+154209,19,53,279000,Marge Simpson,Simpson Home,Was he rude?
+154210,19,54,280000,Homer Simpson,Simpson Home,"Okay, okay. It wasn't how he said it either, but the message was loud and clear... our family stinks!"
+154211,19,55,286000,Marge Simpson,Simpson Home,"Homer, I'm your best friend, but I've gotta say, I've never seen him be anything but a perfect neighbor."
+154212,19,56,292000,Homer Simpson,Simpson Home,"Oh, he's perfect now, is he?"
+154213,19,57,294000,Marge Simpson,Simpson Home,"Well, he's not perfect, but he is very..."
+154214,19,58,297000,Homer Simpson,Simpson Home,"No, no, Marge. Don't backpedal. You were right the first time. He's perfect. Perfect in every way."
+154215,19,59,304000,Homer Simpson,Simpson Home,I'm just gonna go take a walk around the block to calm down. I got a little excited. I'm not perfect... like Ned Flanders.
+154218,19,62,320000,Maude Flanders,Flanders Home,"Neddie, you're tossing. What's the matter?"
+154219,19,63,325000,Ned Flanders,Flanders Home,I feel terrible.
+154220,19,64,326000,Maude Flanders,Flanders Home,"Mmmm, hmmm..."
+154221,19,65,326000,Ned Flanders,Flanders Home,Sometimes I forget that we have things a little better than the Simpsons. I drag him over here. He has a few beers. You can't blame him for erupting.
+154222,19,66,332000,Maude Flanders,Flanders Home,"Mmmm, hmmm."
+154223,19,67,332000,Ned Flanders,Flanders Home,And then I turn into a snarling beast. Talk about flunking the old turn-the-other-cheek test!
+154224,19,68,340000,Maude Flanders,Flanders Home,"Well, Ned, maybe I'm not the one you should be talking to."
+154225,19,69,344000,NED,Flanders Home,You're right.
+154226,19,70,348000,Ned Flanders,Flanders Home,"Hello, Reverend Lovejoy."
+154228,19,72,350000,Helen Lovejoy,Lovejoy Bedroom,"No, this is Mrs. Lovejoy. Just a minute. Honey, honey, wake up. It sounds like Ned Flanders is having some sort of crisis."
+154229,19,73,361000,Rev. Timothy Lovejoy,Lovejoy Bedroom,"Ugh, probably stepped on a worm. Hello, Ned."
+154231,19,74,366000,Ned Flanders,Lovejoy Bedroom,"Reverend, I'm sorry to bother you at this hour but I threw a man out of my house today. I feel like I've violated Matthew 19:19."
+154232,19,75,374000,Rev. Timothy Lovejoy,Lovejoy Bedroom,Huh?
+154233,19,76,375000,Ned Flanders,Lovejoy Bedroom,Love thy neighbor.
+154234,19,77,375000,Rev. Timothy Lovejoy,Lovejoy Bedroom,"Oh. Oh. Matthew, 19:19, yeah, right, right. Well, you know, Ned. The Good Book says a gentle answer turneth away wrath."
+154235,19,78,380000,Ned Flanders,Lovejoy Bedroom,"A gentle answer. Well, that is a jim-dandy idea. Bless you, Reverend."
+154236,19,79,392000,Ned Flanders,Lovejoy Bedroom,Dear Neighbor...
+154238,19,81,392000,Homer Simpson,Simpson Home,Flanders!
+154239,19,82,400000,Ned Flanders,Simpson Home,"I don't blame you for being upset with me, Homer. I just wanted to give you this letter. I'll leave now."
+154240,19,83,406000,Homer Simpson,Simpson Home,Dear neighbor... 
+154241,19,84,413000,Homer Simpson,Simpson Home,You are my brother. I love you and yet I feel a great sadness in my bosom.
+154242,19,85,429000,Homer Simpson,Simpson Home,Wait! Wait! There's more...
+154243,19,86,431000,Marge Simpson,Simpson Home,I think it's terrible. A man opens his heart and you make fun of him.
+154244,19,87,438000,Homer Simpson,Simpson Home,"""Neighbors forever. Oh, no! Ned Flanders."""
+154245,19,88,442000,Bart Simpson,Simpson Home,What a sap!
+154246,19,89,446000,Lisa Simpson,Simpson Home,"Read the bosom part again, Dad."
+154247,19,90,450000,Marge Simpson,Simpson Home,"Now, just a minute."
+154248,19,91,452000,Bart Simpson,Simpson Home,Bosom!
+154249,19,92,455000,Marge Simpson,Simpson Home,Bart!
+154250,19,93,457000,Bart Simpson,Simpson Home,Huh?
+154251,19,94,457000,Marge Simpson,Simpson Home,I wish this family was as close as the Flanders.
+154252,19,95,460000,Homer Simpson,Simpson Home,"Okay, okay, all right, all right. She's right! Let's do something together. What does everyone say to some miniature golf, followed by a round of frosty chocolate milkshakes?"
+154253,19,96,470000,Bart Simpson,Simpson Home,All right!
+154254,19,97,471000,Marge Simpson,Simpson Home,Hmmm. I was going to wash my hair.
+154255,19,98,473000,Lisa Simpson,Simpson Home,"And I'm studying for the Math Fair. If I win, I'll bring home a brand new protractor."
+154256,19,99,478000,Homer Simpson,Simpson Home,"Too bad we don't live on a farm. Let's go, boy."
+154259,19,102,486000,Homer Simpson,MINIATURE GOLF COURSE,Fore!
+154260,19,103,495000,Bart Simpson,MINIATURE GOLF COURSE,"Heh, heh, heh heh..."
+154261,19,104,495000,Homer Simpson,MINIATURE GOLF COURSE,But I got it in the middle!
+154262,19,105,500000,Homer Simpson,MINIATURE GOLF COURSE,"That was just a practice shot, boy."
+154201,19,106,502000,Bart Simpson,MINIATURE GOLF COURSE,"Play it where it lays, Homer."
+154230,19,107,519000,Ned Flanders,MINIATURE GOLF COURSE,"Hey, there's Homer Simpson! Oh, what a perfect opportunity to follow up on my letter."
+154263,19,108,525000,Bart Simpson,MINIATURE GOLF COURSE,"Give up, Homeboy. There's a six-stroke limit."
+154264,19,109,528000,Homer Simpson,MINIATURE GOLF COURSE,"I know, I know. I can still make this for five. Come on, baby, pleeze pleeze go in. Pleeze."
+154265,19,110,538000,Ned Flanders,MINIATURE GOLF COURSE,"Hi, Simpson! Having fun?"
+154266,19,111,543000,Homer Simpson,MINIATURE GOLF COURSE,Flanders! What are you doing here?
+154267,19,112,545000,Ned Flanders,MINIATURE GOLF COURSE,"Ah, just playing a little mini-golf with the Todd-meister."
+154268,19,113,547000,Todd Flanders,MINIATURE GOLF COURSE,"Hi, Bart!"
+154269,19,114,547000,Bart Simpson,MINIATURE GOLF COURSE,Get bent.
+154270,19,115,549000,Ned Flanders,MINIATURE GOLF COURSE,"Say, now that we're all friends again, why don't we make a foursome?"
+154271,19,116,553000,Ned Flanders,MINIATURE GOLF COURSE,"All right! This will be fun! Oh, say, you looked like you were having a little trouble there."
+154272,19,117,557000,Homer Simpson,MINIATURE GOLF COURSE,That shot is impossible! Jack Nicholson himself couldn't make it.
+154273,19,118,560000,Todd Flanders,MINIATURE GOLF COURSE,"It is difficult, Mr. Simpson. The best strategy is to play conservatively. Hug the rail. It won't go in, but you set yourself up for an easy deuce."
+154274,19,119,571000,Todd Flanders,MINIATURE GOLF COURSE,"Oh, well, huh, it went in."
+154275,19,120,573000,Ned Flanders,MINIATURE GOLF COURSE,"Good shot, Toddsky!"
+154276,19,121,574000,Homer Simpson,MINIATURE GOLF COURSE,Luck.
+154277,19,122,575000,Bart Simpson,MINIATURE GOLF COURSE,"Final score: Bart, forty-one. Homer... let's see, six plus six plus six plus six plus six plus six..."
+154278,19,123,582000,Homer Simpson,MINIATURE GOLF COURSE,Never mind!
+154279,19,124,583000,Todd Flanders,MINIATURE GOLF COURSE,"Hey, look!"
+154280,19,125,584000,Todd Flanders,MINIATURE GOLF COURSE,"Wow! First prize, fifty dollars!"
+154281,19,126,587000,Bart Simpson,MINIATURE GOLF COURSE,Wow! Free balloons for everyone who enters!
+154282,19,127,590000,Ned Flanders,MINIATURE GOLF COURSE,"So, my little Bartley, thinking of entering the tournament?"
+154283,19,128,592000,Homer Simpson,MINIATURE GOLF COURSE,"Yeah, he's entering and what's more, he's going to win, aren't you, boy?"
+154284,19,129,596000,Bart Simpson,MINIATURE GOLF COURSE,I guess it's possible.
+154285,19,130,597000,Ned Flanders,MINIATURE GOLF COURSE,"Hey, I like that confidence!... but I hope you're not putting too much pressure on the boy. My Todd's awfully good."
+154286,19,131,602000,Homer Simpson,MINIATURE GOLF COURSE,Oh yeah! Well I think the fruit of my loins can beat the fruit of your loins any day of the week.
+154287,19,132,609000,Homer Simpson,MINIATURE GOLF COURSE,"Come on, boy."
+154288,19,133,610000,Bart Simpson,MINIATURE GOLF COURSE,"But Dad, I've never won anything in my life."
+154289,19,134,614000,Homer Simpson,MINIATURE GOLF COURSE,"Son, this is the only time I'm ever gonna say this. It is not okay to lose."
+154292,19,136,625000,Homer Simpson,Simpson Home,"Stay, stay. Good dog. Now, keep your head down."
+154293,19,137,630000,Homer Simpson,Simpson Home,"No, not you. I'm talking to the boy. Keep your head down. Follow through..."
+154294,19,138,638000,Homer Simpson,Simpson Home,"Okay, that didn't work. This time move your head and don't follow through."
+154295,19,139,642000,Bart Simpson,Simpson Home,"Oh, man."
+154296,19,140,646000,Homer Simpson,Simpson Home,"What're you doing? That putter is to you what a bat is to a baseball player, what a violin is to the guy tha...the violin guy. Now, c'mon, give your putter a name."
+154297,19,141,657000,Bart Simpson,Simpson Home,What?
+154298,19,142,659000,Homer Simpson,Simpson Home,"Come on, give it a name."
+154299,19,143,660000,Bart Simpson,Simpson Home,Mr. Putter.
+154300,19,144,661000,Homer Simpson,Simpson Home,"Do you wanna try a little harder, son? Come on, give it a girl's name."
+154301,19,145,666000,Bart Simpson,Simpson Home,Mom.
+154302,19,146,667000,Homer Simpson,Simpson Home,Your putter's name is Charlene!
+154303,19,147,668000,Bart Simpson,Simpson Home,Why?
+154304,19,148,669000,Homer Simpson,Simpson Home,It just is. That's why.
+154305,19,149,670000,Homer Simpson,Simpson Home,"Now, this is a picture of your enemy, Todd Flanders. Every day I want you to spend fifteen minutes staring at it and concentrating on how much you hate him and how glorious it will be when you and Charlene annihilate him."
+154306,19,150,686000,Bart Simpson,Simpson Home,Who's Charlene?
+154307,19,151,687000,Homer Simpson,Simpson Home,I'll show you who Charlene is! Now start hating!
+154308,19,152,697000,Todd Flanders,Simpson Home,"Hi, Bart."
+154310,19,154,701000,Marge Simpson,Simpson Kitchen,"Homer, I couldn't help overhearing you warp Bart's mind."
+154311,19,155,705000,Homer Simpson,Simpson Kitchen,And?
+154312,19,156,706000,Marge Simpson,Simpson Kitchen,"Well, I'm worried that you're making too big a deal of this silly little kiddie golf tournament."
+154313,19,157,710000,Homer Simpson,Simpson Kitchen,"But, Marge, this is our big chance to show up the Flanderses."
+154314,19,158,713000,Marge Simpson,Simpson Kitchen,"Well, I'm sure it is, but why do we want to do that?"
+154315,19,159,716000,Homer Simpson,Simpson Kitchen,Because sometimes the only way you can feel good about yourself is by making someone else look bad. And I'm tired of making other people feel good about themselves.
+154319,19,163,731000,Lisa Simpson,Bart's Bedroom,"Hi, Bart. What're you doing?"
+154320,19,164,733000,Bart Simpson,Bart's Bedroom,"Lis, what do you call those guys in chess that don't matter?"
+154323,19,165,736000,Lisa Simpson,Bart's Bedroom,"Well, a blockaded bishop is of little value, but I think you're referring to a pawn."
+154324,19,166,741000,Bart Simpson,Bart's Bedroom,Right. I am a pawn.
+154325,19,167,743000,Lisa Simpson,Bart's Bedroom,"I know. It's times like this that I'm thankful Dad has little to no interest in almost everything I do. Bart, I think I can help you."
+154326,19,168,752000,Lisa Simpson,Bart's Bedroom,Our journey begins here at the library.
+154328,19,170,754000,Librarian,Library,"Hi, Lisa."
+154329,19,171,755000,Lisa Simpson,Library,"Hi, Mrs. Norton."
+154330,19,172,757000,Man,Library,"Hi, Lisa."
+154331,19,173,758000,Lisa Simpson,Library,"Hi, Ralph."
+154332,19,174,759000,SENIOR CITIZENS,Library,"Hi, Lisa."
+154333,19,175,761000,Lisa Simpson,Library,"Hey, gang. Okay, Bart, this is the card catalog."
+154334,19,176,765000,Lisa Simpson,Library,"Let's see, ""golf""... Anecdotes, Eisenhower and, Fashion, Humor, Japanese Obsession With... ah, here it is. Putting."
+154336,19,178,776000,Lisa Simpson,LIBRARY STACKS,"And, finally, the most important book of all, The Tao Te Ching by Lao Tzu."
+154337,19,179,781000,Bart Simpson,LIBRARY STACKS,"Lisa, we can't afford all these books."
+154338,19,180,783000,Lisa Simpson,LIBRARY STACKS,"Bart, we're just gonna borrow them."
+154339,19,181,784000,Bart Simpson,LIBRARY STACKS,"Oh, heh, heh. Gotcha."
+154341,19,183,787000,Lisa Simpson,Lake Springfield,I want you to shut off the logical part of your mind.
+154342,19,184,789000,Bart Simpson,Lake Springfield,Okay.
+154343,19,185,790000,Lisa Simpson,Lake Springfield,Embrace nothingness.
+154344,19,186,792000,Bart Simpson,Lake Springfield,You got it.
+154345,19,187,793000,Lisa Simpson,Lake Springfield,Become like an uncarved stone.
+154346,19,188,795000,Bart Simpson,Lake Springfield,Done.
+154347,19,189,797000,Lisa Simpson,Lake Springfield,Bart! You're just pretending to know what I'm talking about.
+154348,19,190,799000,Bart Simpson,Lake Springfield,True.
+154349,19,191,799000,Lisa Simpson,Lake Springfield,"Well, it's very frustrating."
+154350,19,192,801000,Bart Simpson,Lake Springfield,I'll bet.
+154352,19,194,802000,Lisa Simpson,TOP OF MOUNT SPRINGFIELD,"Bart, I have a riddle for you: What's the sound of one hand clapping?"
+154353,19,195,807000,Bart Simpson,TOP OF MOUNT SPRINGFIELD,Piece of cake.
+154354,19,196,809000,Lisa Simpson,TOP OF MOUNT SPRINGFIELD,"No, Bart. It's a three-thousand-year-old riddle with no answer. It's supposed to clear your mind of conscious thought."
+154355,19,197,815000,Bart Simpson,TOP OF MOUNT SPRINGFIELD,"No answer? Lisa, listen up."
+154356,19,198,819000,Lisa Simpson,TOP OF MOUNT SPRINGFIELD,"Let's try another one: If a tree falls in the woods and no one's around, does it make a sound?"
+154321,19,199,825000,Bart Simpson,TOP OF MOUNT SPRINGFIELD,Absolutely. Eeeeeeeer!
+154358,19,200,828000,Lisa Simpson,TOP OF MOUNT SPRINGFIELD,"But Bart, how can a sound exist if there's no one there to hear it?"
+154359,19,201,835000,Bart Simpson,TOP OF MOUNT SPRINGFIELD,Woooooooo!
+154360,19,202,836000,Lisa Simpson,TOP OF MOUNT SPRINGFIELD,It is time.
+154362,19,204,838000,Lisa Simpson,MINIATURE GOLF COURSE,The basis of this game seems to be simple geometry. All you have to do is hit the ball here.
+154363,19,205,851000,Bart Simpson,MINIATURE GOLF COURSE,I can't believe it... You've actually found a practical use for geometry.
+154364,19,206,875000,Homer Simpson,MINIATURE GOLF COURSE,Bart! What're you doing? Get down from there before the neighbors see --
+154365,19,207,879000,Ned Flanders,MINIATURE GOLF COURSE,"Hey, Simpson."
+154366,19,208,881000,Homer Simpson,MINIATURE GOLF COURSE,"Flanders, I don't care what this looks like, Bart's gonna mop the floor with your son's ugly butt."
+154367,19,209,886000,Ned Flanders,MINIATURE GOLF COURSE,"Well, sir, may the best man win."
+154368,19,210,888000,Homer Simpson,MINIATURE GOLF COURSE,"Ah, ""may the best man win"". The mating call of the loser."
+154369,19,211,891000,Ned Flanders,MINIATURE GOLF COURSE,"Now, just a minute, Simpson. I think my son has a very good chance."
+154370,19,212,895000,Homer Simpson,MINIATURE GOLF COURSE,"Oh, yeah? Wanna bet?"
+154371,19,213,896000,Ned Flanders,MINIATURE GOLF COURSE,"Yeah, well, I'm not a betting man."
+154372,19,214,899000,Ned Flanders,MINIATURE GOLF COURSE,"Oh, I'm a chicken, am I?"
+154373,19,215,901000,Homer Simpson,MINIATURE GOLF COURSE,That's right!
+154374,19,216,902000,Ned Flanders,MINIATURE GOLF COURSE,"All right, how's this for a wager? A batch of your wife's delicious blueberry muffins against one of my wife's homemade wind chimes!"
+154375,19,217,910000,Homer Simpson,MINIATURE GOLF COURSE,"What, are you afraid to make a real bet?"
+154376,19,218,913000,Ned Flanders,MINIATURE GOLF COURSE,"No, I just --"
+154377,19,219,916000,Ned Flanders,MINIATURE GOLF COURSE,"You know, Simpson, you're starting to annoy me."
+154378,19,220,919000,Homer Simpson,MINIATURE GOLF COURSE,"How about this Henny Penny? If Bart wins tomorrow, you have to mow my lawn."
+154379,19,221,925000,Ned Flanders,MINIATURE GOLF COURSE,"All right, and if Todd wins, you have to mow my lawn! And do a decent job of it, for a change!"
+154380,19,222,931000,Homer Simpson,MINIATURE GOLF COURSE,"Better yet, you have to mow my lawn in your wife's Sunday dress."
+154381,19,223,936000,Ned Flanders,MINIATURE GOLF COURSE,"You have yourself a bet, you jackaninny!"
+154383,19,225,941000,Homer Simpson,Simpson Kitchen,"Read that back to me, Marge."
+154384,19,226,943000,Marge Simpson,Simpson Kitchen,The father of the loser mows the lawn -- 
+154385,19,227,943000,Ned Flanders,Simpson Kitchen,"Eh, eh, just a minute. ""Loser"" is such a harsh word. Couldn't we just say ""the boy who doesn't win""?"
+154386,19,228,952000,Homer Simpson,Simpson Kitchen,Oh man. Fine.
+154387,19,229,953000,Marge Simpson,Simpson Kitchen,The father of the boy who doesn't win has to mow the lawn in his wife's Sunday dress.
+154388,19,230,953000,Ned Flanders,Simpson Kitchen,There you go.
+154389,19,231,960000,Marge Simpson,Simpson Kitchen,Now I suppose you both have to sign this. I hope blood won't be necessary.
+154390,19,232,964000,Homer Simpson,Simpson Kitchen,"I'm game if you are, Flanders."
+154392,19,234,970000,Ned Flanders,Simpson Home,"Good gravy, what have I done?"
+154394,19,236,972000,Homer Simpson,MINIATURE GOLF COURSE,"Keep your left arm straight, Bart... rotate your shoulders..."
+154395,19,237,975000,Lisa Simpson,MINIATURE GOLF COURSE,Dad!
+154396,19,238,976000,Homer Simpson,MINIATURE GOLF COURSE,"Look, son, all I'm asking is that you try."
+154397,19,239,979000,Bart Simpson,MINIATURE GOLF COURSE,"Okay, I'll try."
+154398,19,240,981000,Homer Simpson,MINIATURE GOLF COURSE,Anybody can try! I want you to win!
+154400,19,242,994000,Marge Simpson,Simpson Home,Homer?!
+154401,19,243,995000,Homer Simpson,Simpson Home,"Marge, give me your honest opinion. This? Or this?"
+154404,19,246,1015000,Homer Simpson,Simpson Home,"Good morning, son! Oh, by the way, today's the day of the big tournament, and you'd better win!"
+154405,19,247,1019000,Lisa Simpson,Simpson Home,Dad!
+154406,19,248,1020000,Homer Simpson,Simpson Home,"See you downstairs, boy."
+154407,19,249,1027000,Homer Simpson,Simpson Home,Heh heh... that crazy Marmaduke...
+154408,19,250,1029000,Lisa Simpson,Simpson Home,Eighth hole.
+154409,19,251,1030000,Bart Simpson,Simpson Home,Aim for the Octopus' third tentacle.
+154410,19,252,1032000,Lisa Simpson,Simpson Home,Twelfth hole.
+154411,19,253,1033000,Bart Simpson,Simpson Home,Bank it off the pink tombstone.
+154412,19,254,1034000,Lisa Simpson,Simpson Home,Nirvana.
+154413,19,255,1035000,Bart Simpson,Simpson Home,A state of bliss attained through the extinction of the self.
+154414,19,256,1038000,Marge Simpson,Simpson Home,"Here you go, Bart. A lumberjack's breakfast for my little golfer."
+154415,19,257,1041000,Lisa Simpson,Simpson Home,"Mom, Bart is on a strict diet of complex carbohydrates. Steak will make him logy."
+154416,19,258,1046000,Marge Simpson,Simpson Home,"Ohhh, well, what won't make him logy?"
+154417,19,259,1049000,Lisa Simpson,Simpson Home,Oatmeal.
+154418,19,260,1049000,Homer Simpson,Simpson Home,Oatmeal?
+154419,19,261,1050000,Lisa Simpson,Simpson Home,Oats are what a champion thoroughbred eats before he or she wins the Kentucky Derby.
+154420,19,262,1055000,Homer Simpson,Simpson Home,"News flash, Lisa! Bart is not a horse. Eat your steak, boy."
+154423,19,264,1072000,British Commentator,MINIATURE GOLF COURSE,"Good afternoon, everybody, and welcome to the finale of what has already been a stirring afternoon of miniature golf. The cream has risen, the wheat has bid farewell to the chaff, and now we approach the championship match with but two warriors remaining: The heretofore unknown Bart Simpson, and Todd Flanders, one of the most skilled ten-year-olds to ever take back the blade."
+154424,19,265,1093000,Lisa Simpson,MINIATURE GOLF COURSE,"Bart, having never received any words of encouragement myself, I'm not sure how they're supposed to sound. But here goes. I believe in you."
+154425,19,266,1101000,Bart Simpson,MINIATURE GOLF COURSE,"Thanks, man!"
+154426,19,267,1104000,Homer Simpson,MINIATURE GOLF COURSE,"Hey, Flanders, it's no use praying. I already did the same thing, and we can't both win."
+154427,19,268,1109000,Ned Flanders,MINIATURE GOLF COURSE,"Actually, Simpson, we were praying that no one gets hurt."
+154428,19,269,1113000,Homer Simpson,MINIATURE GOLF COURSE,"Oh... Well, Flan-ders, it doesn't matter. This time tomorrow, you'll be wearing high heels."
+154429,19,270,1118000,Ned Flanders,MINIATURE GOLF COURSE,"No, you will."
+154430,19,271,1118000,Homer Simpson,MINIATURE GOLF COURSE,'Fraid not.
+154431,19,272,1118000,Ned Flanders,MINIATURE GOLF COURSE,'Fraid so.
+154432,19,273,1119000,Homer Simpson,MINIATURE GOLF COURSE,'Fraid not.
+154433,19,274,1119000,Ned Flanders,MINIATURE GOLF COURSE,'Fraid so.
+154434,19,275,1120000,Homer Simpson,MINIATURE GOLF COURSE,'Fraid not infinity.
+154435,19,276,1121000,Ned Flanders,MINIATURE GOLF COURSE,'Fraid so infinity plus one.
+154438,19,279,1124000,British Commentator,MINIATURE GOLF,Young Flanders has the honor and will tee off first.
+154439,19,280,1132000,British Commentator,MINIATURE GOLF,"It's got a chance... Yes, sir!"
+154440,19,281,1135000,Bart Simpson,MINIATURE GOLF,"Oh, man..."
+154441,19,282,1137000,Bart Simpson,MINIATURE GOLF,Tree falling in the woods. Tree falling in the woods. Tree falling in...
+154442,19,283,1148000,British Commentator,MINIATURE GOLF,And the battle is well and truly joined!
+154443,19,284,1150000,Homer Simpson,MINIATURE GOLF,Woo-hoo-hoo!
+154444,19,285,1151000,Ned Flanders,MINIATURE GOLF,"Mercy is for the weak, Todd."
+154446,19,287,1181000,British Commentator,MINIATURE GOLF COURSE,"If one were to look up ""courage"" in the Oxford English Dictionary, one might very well come upon a photo of these two gladiators. They approach the final hole in the shadow of the great emancipator, deadlocked at eight strokes on the happy side of par. Soon, one man will emerge triumphant. He will drink naught but champagne, while his opponent tastes bitter defeat in this oft cruel game."
+154447,19,288,1206000,Ned Flanders,MINIATURE GOLF COURSE,"It's okay, son. You can recover."
+154448,19,289,1208000,Homer Simpson,MINIATURE GOLF COURSE,"Come on, Bart. Remember what Vince Lombardi said: ""If you lose, you're out of the family."""
+154449,19,290,1211000,Marge Simpson,MINIATURE GOLF COURSE,Homer!
+154450,19,291,1226000,Homer Simpson,MINIATURE GOLF COURSE,Ow.
+154451,19,292,1227000,British Commentator,MINIATURE GOLF COURSE,Neither man showing his best form... This sort of pressure can unhinge even the steeliest of competitors.
+154452,19,293,1234000,Bart Simpson,MINIATURE GOLF COURSE,"This is pretty tense, isn't it, Todd?"
+154453,19,294,1236000,Todd Flanders,MINIATURE GOLF COURSE,"Yeah, my knees are shaking, I've got butterflies in my stomach... but I guess this builds character."
+154454,19,295,1243000,Bart Simpson,MINIATURE GOLF COURSE,Who wants to build character. Let's quit.
+154455,19,296,1245000,Todd Flanders,MINIATURE GOLF COURSE,Okay.
+154456,19,297,1247000,Todd Flanders,MINIATURE GOLF COURSE,We decided we're equally good.
+154457,19,298,1249000,Bart Simpson,MINIATURE GOLF COURSE,"We want to call it a draw, man."
+154458,19,299,1255000,British Commentator,MINIATURE GOLF COURSE,"Ladies and gentlemen, we have a draw!"
+154459,19,300,1258000,British Commentator,MINIATURE GOLF COURSE,"You will forgive an old Brit for crying, but this is the most stirring display of gallantry and sportsmanship since Mountbatten gave India back to the Punjabs."
+154460,19,301,1268000,Bart Simpson,MINIATURE GOLF COURSE,"Put her there, man!"
+154461,19,302,1270000,Todd Flanders,MINIATURE GOLF COURSE,"Yeah, all right!"
+154462,19,303,1274000,Ned Flanders,MINIATURE GOLF COURSE,"Well, Homer, our kids showed us something today, huh? By working together, we can both be winners. Thank heaven neither of us has to go through with that silly wager. Put 'er there, pal."
+154463,19,304,1285000,Homer Simpson,MINIATURE GOLF COURSE,"Ohhh, so you're gonna welch on our bet?!"
+154464,19,305,1288000,Ned Flanders,MINIATURE GOLF COURSE,What are you talking about? Neither boy lost.
+154465,19,306,1290000,Homer Simpson,MINIATURE GOLF COURSE,I got it right here in writing.
+154466,19,307,1292000,Homer Simpson,MINIATURE GOLF COURSE,The father of the boy who doesn't win has to mow the lawn in his wife's Sunday dress.
+154467,19,308,1292000,Ned Flanders,MINIATURE GOLF COURSE,"But... neither, I mean we're both... I mean, you have to do it too."
+154468,19,309,1300000,Homer Simpson,MINIATURE GOLF COURSE,It's a small price to pay to see you humiliate yourself.
+154470,19,311,1309000,Marge Simpson,SIMPSON AND FLANDERS HOUSES,"Oh, my best dress."
+154471,19,312,1311000,Lisa Simpson,SIMPSON AND FLANDERS HOUSES,Why do I get the feeling that someday I'll be describing this to a psychiatrist?
+154472,19,313,1315000,Homer Simpson,SIMPSON AND FLANDERS HOUSES,Listen to 'em laughing... This is so humiliating... I'm never gonna live this down... Damn Flanders...
+154475,19,314,1322000,Ned Flanders,SIMPSON AND FLANDERS HOUSES,"Y'know, Simpson, I feel kinda silly, but what the hay... you know, it kinda reminds me of my good ole' fraternity days."
+154476,19,315,1330000,Homer Simpson,SIMPSON AND FLANDERS HOUSES,Oh my God! He's enjoying it!

@@ -1,0 +1,238 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+54273,226,1,86000,Homer Simpson,Simpson Home,"Hey, why didn't you tell me the new issue of ""Weird"" was here?! I love their hilarious send-ups of hit movies."
+54274,226,2,94000,Lisa Simpson,Simpson Home,"Dad, it's not..."
+54275,226,3,94000,Homer Simpson,Simpson Home,"""Gigabytes!"" They've done it again. Gigabytes. Wait, this isn't ""Weird."" Why, there's no magazine called ""Weird,"" is there?"
+54276,226,4,103000,Lisa Simpson,Simpson Home,"This is ""Wired."" It's about computers and technology."
+54277,226,5,109000,Lisa Simpson,Simpson Home,"Hey look, there's a cyber-cafe opening right here in Springfield! Will you take me, Dad? Please? I'll show you how to order pizza over the Internet..."
+54278,226,6,117000,Homer Simpson,Simpson Home,The Internet? Is that thing still around?
+54279,226,7,119000,Bart Simpson,Simpson Home,I know a web site that shows monkeys doin' it.
+54280,226,8,121000,Lisa Simpson,Simpson Home,Bart! The Internet is more than a global pornography network. It's a...
+54281,226,9,124000,Homer Simpson,Simpson Home,"Come on, Lisa! Monkeys!"
+54284,226,12,133000,Groundskeeper Willie,The Java Server,"Ach, let's see what's been captured on the Up-Kilt camera."
+54285,226,13,139000,Groundskeeper Willie,The Java Server,"Ewww, this lass needs a bit of groundskeeping. Eh-- Ach, that's Willie!"
+54286,226,14,145000,Bart Simpson,The Java Server,"My name is Mary. I'm 45, heavy and willing to settle for less."
+54287,226,15,152000,Lenny Leonard,The Java Server,"Wow, this Mary's got the whole package."
+54288,226,16,155000,Lisa Simpson,The Java Server,"Wow, Dad, you're surfing like a pro."
+54289,226,17,158000,Homer Simpson,The Java Server,"Oh yeah. I'm betting on Jai-Alai in the Cayman Islands, I invested in something called News Corp..."
+54290,226,18,164000,Lisa Simpson,The Java Server,"Dad, that's Fox!"
+54291,226,19,164000,Homer Simpson,The Java Server,Ahh! Undo! Undo! Uhh.
+54292,226,20,164000,Lisa Simpson,The Java Server,"Dad, do we have any money left?"
+54293,226,21,170000,Homer Simpson,The Java Server,"Well, let's check the old bank account."
+54294,226,22,173000,Homer Simpson,The Java Server,See? Even after all my cyber-squandering we've still got twelve hundred dollars.
+54295,226,23,178000,Snake Jailbird,The Java Server,"All right, dorks. This is a hold-up!"
+54296,226,24,181000,Snake Jailbird,The Java Server,"Oh, yes. Download to papa."
+54297,226,25,187000,Snake Jailbird,The Java Server,"Yoink dot adios, backslash losers!"
+54300,226,28,193000,Marge Simpson,Simpson Home,We were robbed?!
+54301,226,29,194000,Homer Simpson,Simpson Home,"You seem to know an awful lot about this for an ""innocent person."""
+54302,226,30,199000,Marge Simpson,Simpson Home,We were saving that money for our family vacation. Now we're gonna have to start all over again.
+54303,226,31,206000,Homer Simpson,Simpson Home,"Ohh, don't worry, sweetheart, I'll get us the money. Even if I have to get a second job."
+54305,226,33,220000,Ned Flanders,Flanders Home,"Evening, neighbor. Low on funds again?"
+54306,226,34,222000,Homer Simpson,Flanders Home,"Yes, sir."
+54307,226,35,224000,Ned Flanders,Flanders Home,"Now, Homer, we can't have you burglarizing us every time you've got a bill to pay."
+54308,226,36,228000,Homer Simpson,Flanders Home,"I know, sir. I'm sorry, sir."
+54309,226,37,232000,Homer Simpson,Flanders Home,"It's just that you and Maude live like royalty in your fancy castle, while I got Marge trapped over there like a pig in a mud beehive."
+54311,226,38,239000,Ned Flanders,Flanders Home,"Oh, we're not as well-off as you think. We give to eight different churches, just to hedge our bets. And the Leftorium's business has gone way downhill since Leftopolis moved in next door."
+54312,226,39,249000,Homer Simpson,Flanders Home,"Well, if you're not rich then how come you have a new refrigerator, an electric can opener, a milkshake machine..."
+54313,226,40,255000,Ned Flanders,Flanders Home,"Oh-ho-ho, we picked those up cheap. They were evidence in a murder trial!"
+54314,226,41,256000,Homer Simpson,Flanders Home,Sweet.
+54315,226,42,259000,Ned Flanders,Flanders Home,We got that tip at the Chuck Garabedian Mega-Savings Seminar.
+54316,226,43,262000,Homer Simpson,Flanders Home,Go on...
+54317,226,44,263000,Ned Flanders,Flanders Home,He taught us how to live a Burt Reynolds lifestyle on a Mac Davis income. We've already got tickets for his next seminar.
+54318,226,45,269000,Ned Flanders,Flanders Home,I think you'll find living thrifty a lot more satisfying than stealing.
+54319,226,46,273000,Homer Simpson,Flanders Home,"Maybe you're right, Ned. Maybe you're right."
+54322,226,49,285000,GARABEDIAN,Springfield Convention Center,"Are you tired of missing out on the good things in life? Family vacations, jet packs, Solid Gold dancers..."
+54323,226,50,292000,Homer Simpson,Springfield Convention Center,There's only three left in the world!
+54324,226,51,294000,GARABEDIAN,Springfield Convention Center,"Well, stick around, 'cause I'm gonna tell you the twelve savings secrets Wall Street won't tell you. Then, I'll show you the three ways to get back to the highway. Including one shortcut those Wall Street fat cats don't want you to know!"
+54326,226,53,310000,C. Montgomery Burns,Springfield Convention Center,"Oh, here we go with the fat-cat bashing."
+54327,226,54,313000,Mr. Pennybags,Springfield Convention Center,"Well, what do you expect? These yokels are pure ""Baltic Avenue."" Uh-oh, I'm late for the Short Line Railroad."
+54328,226,55,323000,GARABEDIAN,Springfield Convention Center,Let's start with mega-secret number one: ya gotta squeeze every penny! You see this tux? I got it cheap 'cause Roy Cohn died in it.
+54329,226,56,333000,Crowd,Springfield Convention Center,/ Ooh.
+54330,226,57,333000,GARABEDIAN,Springfield Convention Center,"That fancy yacht? A bargain, 'cause it smells like cat pee."
+54331,226,58,339000,Crowd,Springfield Convention Center,"/ Oh, now that is something."
+54332,226,59,339000,GARABEDIAN,Springfield Convention Center,And those beautiful women? They used to be men.
+54333,226,60,342000,Crowd,Springfield Convention Center,/ Ew! / That's gross!
+54334,226,61,342000,GARABEDIAN,Springfield Convention Center,"The point is, ya gotta squeeze every penny! C'mon, let me hear ya!"
+54335,226,62,347000,Crowd,Springfield Convention Center,Squeeze every penny! Squeeze every penny!
+54336,226,63,351000,Homer Simpson,Springfield Convention Center,"I'm squeezing... I'm squee-zing it. Hey, I squeezed so hard it went into my hand."
+54337,226,64,360000,Marge Simpson,Springfield Convention Center,"Oh Homer, not again."
+54339,226,66,364000,Lisa Simpson,Simpson Car,"Eww, we're gonna do our grocery shopping at a 99-Cent Store?"
+54340,226,67,369000,Marge Simpson,Simpson Car,"Well, maybe for your wedding!"
+54341,226,68,371000,Bart Simpson,Simpson Car,How 'bout here?
+54342,226,69,372000,Marge Simpson,Simpson Car,Not if we want that vacation.
+54344,226,71,381000,Bart Simpson,33 Cent Store,"Look Mom, they have your dress."
+54345,226,72,383000,Marge Simpson,33 Cent Store,Thirty-three cents? I paid almost double that.
+54346,226,73,389000,Marge Simpson,33 Cent Store,Eww...
+54347,226,74,390000,Homer Simpson,33 Cent Store,"Wow, this plankton's only 33 cents."
+54348,226,75,393000,Lisa Simpson,33 Cent Store,"Um, according to the Mexican Council of Food, this expired two years ago."
+54349,226,76,399000,Homer Simpson,33 Cent Store,"Sure, by their standards, but we live in America."
+54350,226,77,405000,Lisa Simpson,33 Cent Store,This also says it can cause red tide poisoning.
+54351,226,78,408000,Homer Simpson,33 Cent Store,But it's so cheap.
+54353,226,80,413000,Homer Simpson,Simpson Home,"Well, let's see what's in the ol' vacation fund."
+54354,226,81,417000,Marge Simpson,Simpson Home,"Homer, you could've just unscrewed the bottom."
+54355,226,82,419000,Homer Simpson,Simpson Home,"A little late for ""could've's,"" Marge."
+54356,226,83,421000,Lisa Simpson,Simpson Home,I don't think there's enough here for a vacation.
+54357,226,84,424000,Marge Simpson,Simpson Home,There is for a Mega-Savings vacation. Chuck Garabedian says you can fly Mega-cheap if you don't care where you go.
+54358,226,85,431000,GARABEDIAN,Simpson Home,That's right! Just go to the airport and wait for some no-shows. Then you can buy their seats for a fraction of the price!
+54359,226,86,438000,Marge Simpson,Simpson Home,Are you going through our garbage?
+54360,226,87,440000,GARABEDIAN,Simpson Home,That's right! You fat-cats didn't finish your plankton. Now it's mine!
+54362,226,89,449000,Marge Simpson,Airport,"Hawaii, here we come!"
+54363,226,90,451000,Lisa Simpson,Airport,"No, no, we're going to Paris. I can feel it."
+54364,226,91,454000,Bart Simpson,Airport,"Come on, Transylvania."
+54365,226,92,456000,Homer Simpson,Airport,"No, mon, let's go home to Jamaica. I and I been in Babylon too long."
+54367,226,93,461000,Airport Announcer,Airport,Attention. Flight 605 to Tokyo is ready for departure and has four available Mega-Saver seats.
+54368,226,94,468000,Marge Simpson,Airport,"C'mon, Homer! Japan!"
+54369,226,95,470000,Homer Simpson,Airport,"No, no Japan. Jamaica! I wanna pass the doochie on the lefthand side."
+54370,226,96,475000,Lisa Simpson,Airport,Never mind. Looks like the Flanders' are gonna get those seats anyway.
+54371,226,97,480000,Homer Simpson,Airport,"Oh, so Flanders thinks he can steal our vacation, huh?"
+54372,226,98,484000,Homer Simpson,Airport,C'mon!
+54374,226,100,491000,Homer Simpson,Airport,"Sayonara, suckers!"
+54375,226,101,494000,Lisa Simpson,Airport,Yay! The Simpsons are going to Japan!
+54376,226,102,499000,Workman,Airport,"Hey, watch the gong, jerk!"
+54378,226,104,509000,Marge Simpson,Airplane,"Come on, Homer, Japan will be fun. You liked ""Rashomon."""
+54379,226,105,513000,Homer Simpson,Airplane,"That's not how I remember it. Besides, if we want to see Japanese people we could have gone to the zoo."
+54380,226,106,517000,Marge Simpson,Airplane,Homer!
+54381,226,107,519000,Homer Simpson,Airplane,What? The guy who washes the elephants is Japanese. His name is Takashi. He's in my book club.
+54382,226,108,526000,Lisa Simpson,Airplane,"Look Mom, the safety instructions are written in haiku. ""Fasten seatbelts tight / Your seat cushions float gently / Headsets five dollars."""
+54383,226,109,533000,Japanese Stewardess,Airplane,"Sir, it is not safe to use electronic devices yet."
+54384,226,110,543000,Bart Simpson,Airplane,You're the waitress.
+54386,226,112,547000,Japanese Stewardess,Plane,Turn it back on! Turn it back on!
+54388,226,114,551000,Marge Simpson,Airplane,I never knew Jim Belushi made so many movies.
+54389,226,115,555000,Homer Simpson,Airplane,"Yeah, isn't it amazing? They're filming one right now in the bathroom."
+54390,226,116,559000,Homer Simpson,Airplane,It's gonna be on towards the end of the flight.
+54391,226,117,562000,Jim Belushi,Airplane,To-ga! To-ga! Toga 2000!
+54392,226,118,566000,Homer Simpson,Airplane,"Marge, they stole my idea!"
+54394,226,120,570000,Captain,TOKYO SKYLINE,"Welcome to Japan, folks. The local time is: tomorrow."
+54396,226,122,581000,Homer Simpson,TOKYO HOTEL,Here's our room!
+54397,226,123,582000,Marge Simpson,TOKYO HOTEL,"Homer, you're supposed to slide those doors open."
+54398,226,124,586000,Homer Simpson,TOKYO HOTEL,I don't have time for that.
+54366,226,126,586000,Toilet,Simpson Hotel Room,Welcome. I am honored to accept your waste.
+54310,226,127,599000,Homer Simpson,Simpson Hotel Room,They're years ahead of us.
+54401,226,128,602000,Bart Simpson,Simpson Hotel Room,"Mom, Lis! Check it out. Dad's on TV."
+54402,226,129,607000,Homer Simpson,Simpson Hotel Room,"Ohh, yeah..."
+54406,226,133,613000,Lisa Simpson,Simpson Hotel Room,It's breathtaking.
+54408,226,135,615000,Lisa Simpson,Tokyo,"Look, there's the Imperial Gardens... the Meiji shrine... the Hello Kitty factory..."
+54410,226,137,627000,Lisa Simpson,Hotel Room,Who's up for some exploring?
+54411,226,138,628000,Bart Simpson,Hotel Room,"Hey, I'm still checkin' out Japanese TV."
+54412,226,139,631000,Bart Simpson,Hotel Room,Isn't this that cartoon that causes seizures?
+54413,226,140,639000,Marge Simpson,Hotel Room,"Bart, what are you doing?"
+54414,226,141,639000,Lisa Simpson,Hotel Room,What the--?
+54415,226,142,639000,Homer Simpson,Hotel Room,"Oh, all right."
+54416,226,143,649000,TV CHARACTER,Hotel Room,Robots be right back.
+54417,226,144,651000,Homer Simpson,Hotel Room,Whew. All that seizing made me hungry.
+54418,226,145,653000,Lisa Simpson,Hotel Room,Me too. Let's go to an authentic Japanese noodle house!
+54419,226,146,657000,Homer Simpson,Hotel Room,The toilet recommended a place called AmericaTown.
+54420,226,147,659000,Lisa Simpson,Hotel Room,"Dad, we didn't come halfway around the world to eat at AmericaTown."
+54421,226,148,664000,Marge Simpson,Hotel Room,I'd like to see the Japanese take on the club sandwich. I bet it's smaller and more efficient!
+54422,226,149,670000,TV Announcer,Hotel Room,"We now return to ""Battling Seizure Robots!"""
+54424,226,151,685000,Homer Simpson,AMERICATOWN RESTAURANT,I can't believe they stuck us at Taxachusetts.
+54425,226,152,685000,Homer Simpson,AMERICATOWN RESTAURANT,"Hey, you know, I once knew a man from Nantucket."
+54426,226,153,685000,Bart Simpson,AMERICATOWN RESTAURANT,And?
+54427,226,154,693000,Homer Simpson,AMERICATOWN RESTAURANT,Let's just say the stories about him are greatly exaggerated.
+54428,226,155,696000,Waiter,AMERICATOWN RESTAURANT,"Howdy, gangstas! I am Average American Joe Salaryman waiter."
+54429,226,156,702000,Bart Simpson,AMERICATOWN RESTAURANT,These prices suck! Ten thousand yen for coleslaw?!
+54430,226,157,705000,Lisa Simpson,AMERICATOWN RESTAURANT,Don't you serve anything that's even remotely Japanese?
+54431,226,158,709000,Waiter,AMERICATOWN RESTAURANT,Don't ask me! I don't know anything! I'm product of American education system. I also build poor quality cars and inferior-style electronics.
+54432,226,159,719000,Homer Simpson,AMERICATOWN RESTAURANT,"Oooh, they got our number."
+54435,226,161,725000,Homer Simpson,TOKYO FRUIT STAND,One square watermelon please.
+54436,226,162,727000,Marge Simpson,TOKYO FRUIT STAND,"Oh my goodness, Homer, those are a hundred and fifty dollars."
+54437,226,163,732000,Homer Simpson,TOKYO FRUIT STAND,It's worth every cent. I'm tired of fumbling with round fruit.
+54439,226,165,737000,Marge Simpson,TOKYO FRUIT STAND,Maybe we should just head back to the hotel.
+54440,226,166,740000,Lisa Simpson,TOKYO FRUIT STAND,But you promised me we'd do something Japanese.
+54441,226,167,743000,Homer Simpson,TOKYO FRUIT STAND,"Oh, of course. You're right. You know, I read about a Shinto tea house where they practice the traditional... Run, Bart!"
+54443,226,169,753000,Bart Simpson,TOKYO STREET,"Hey, look. Isn't that Woody Allen?"
+54444,226,170,754000,Homer Simpson,TOKYO STREET,Looks like he's doing a commercial.
+54446,226,172,757000,Woody Allen,Street,"Oh, hello. So many rice crackers claim to be low-cal."
+54447,226,173,762000,Woody Allen,Street,"But only Fujikawa rice crackers make your ""Interiors"" go ""Bananas."""
+54448,226,174,766000,Woody Allen,Street,"What did I do to deserve this? Oh, right."
+54450,226,176,775000,Homer Simpson,Sumo Stadium,"Mmm... fifty dollar pretzel. Hey, what's Baby Huey doing?"
+54451,226,177,782000,Bart Simpson,Sumo Stadium,Says here they throw salt before they wrestle to purify the ring.
+54452,226,178,784000,Homer Simpson,Sumo Stadium,Hmmm...
+54453,226,179,787000,Homer Simpson,Sumo Stadium,"Spare some salt, tubby?"
+54454,226,180,788000,Sumo,Sumo Stadium,Tubby?
+54455,226,181,796000,Homer Simpson,Sumo Stadium,"Hey, that's mine!"
+54456,226,182,802000,Homer Simpson,Sumo Stadium,"Like we say in my country, ""Hasta la vista, baby."""
+54457,226,183,802000,Man,Sumo Stadium,Congratulations. I am the Emperor and...
+54458,226,184,809000,Homer Simpson,Sumo Stadium,"Yeah, and I'm Clobbersaurus."
+54461,226,187,809000,Homer Simpson,Sumo Stadium,All hail Emperor Clobbersaurus!
+54463,226,189,830000,Voice,ELEGANT TEA ROOM,"Your wife has paid your bail, Mr. Simpson-san."
+54464,226,190,832000,Homer Simpson,ELEGANT TEA ROOM,Thank God. I couldn't take another minute in this hell-hole.
+54466,226,192,845000,Lisa Simpson,Street,Now can we do something Japanese?
+54467,226,193,848000,Homer Simpson,Street,"Oh, I'm sick of doing Japanese stuff. In jail we had to be in this dumb Kabuki play about the forty-seven Ronin and I wanted to be Oshi, but they made me Ori."
+54469,226,194,858000,Bart Simpson,Street,"Then we had to do two hours of origami, followed by flower arranging and meditation."
+54472,226,197,867000,Marge Simpson,Street,"Honey, I know you want to see Japan, but we're down to our last million yen."
+54473,226,198,871000,Homer Simpson,Street,"Don't worry, ichiban. I'll show you something Japanese."
+54474,226,199,878000,Lisa Simpson,Street,"Oh, it's beautiful, Dad."
+54475,226,200,882000,Homer Simpson,Street,It's a crane. The Japanese believe they bring good luck.
+54476,226,201,886000,Marge Simpson,Street,Be careful. We need that money to get home.
+54477,226,202,890000,Homer Simpson,Street,Shimatta baka-me!
+54479,226,204,896000,Ambassador,AMERICAN EMBASSY,"Now Mister Simpson, I know you lost all your money, but don't worry."
+54480,226,205,901000,Ambassador,AMERICAN EMBASSY,The United States will not stand idly by while one of its citizens is stuck here like this.
+54483,226,208,910000,Marge Simpson,AMERICAN EMBASSY,"But Mr. Ambassador, how are we going to get home?"
+54484,226,209,913000,Ambassador,AMERICAN EMBASSY,"Beats me. Try getting a job and earning some money. That's what I did. By the way, Ambassador's taken."
+54486,226,211,927000,Marge Simpson,FISH GUTTING FACTORY,Every truck-load of fish we gut brings us 31 cents closer to those tickets home.
+54487,226,212,932000,Bart Simpson,FISH GUTTING FACTORY,And I think I've finally found what I was put on this earth to do...
+54488,226,213,935000,Bart Simpson,FISH GUTTING FACTORY,"Knife goes in, guts come out. Knife goes in, guts come out..."
+54489,226,214,939000,Magic Fish,FISH GUTTING FACTORY,Spare my life and I will grant you three wi--
+54490,226,215,943000,Bart Simpson,FISH GUTTING FACTORY,"Knife goes in, guts come out."
+54491,226,216,944000,Lisa Simpson,FISH GUTTING FACTORY,Yipee! Time for the company loyalty song!
+54492,226,217,947000,Cartoon Squid,FISH GUTTING FACTORY,"KNIFE-AH GOES IN, GUTS-AH COME-AH OUT, THAT'S-AH WHAT OSAKA SEAFOOD CONCERN IS ALL ABOUT."
+54493,226,218,956000,Homer Simpson,FISH GUTTING FACTORY,This sucks. What else is on?
+54494,226,219,963000,Japanese Father,FISH GUTTING FACTORY,Thank you. You have fulfilled our dreams and dreams of our ancestors.
+54495,226,220,968000,TV Announcer,FISH GUTTING FACTORY,"Tune in tomorrow when another lucky family tries to win their dreams on ""Happy Smile Super Challenge Family Wish Show!"""
+54496,226,221,975000,Marge Simpson,FISH GUTTING FACTORY,Family Wish Show... Hmmm... That gives me an idea.
+54497,226,222,981000,Lisa Simpson,FISH GUTTING FACTORY,I think we all had that idea.
+54468,226,223,983000,Homer Simpson,FISH GUTTING FACTORY,I didn't... What is it? Lunch?
+54498,226,226,991000,Gameshow Host,GAMESHOW SET,"Thank you, thank you. And welcome to our contestants from America, the Simpson family."
+54499,226,227,998000,Marge Simpson,GAMESHOW SET,You honor us.
+54500,226,228,1000000,Gameshow Host,GAMESHOW SET,"Don't patronize me! Now, Simpson family, have you picked a wish?"
+54501,226,229,1005000,Homer Simpson,GAMESHOW SET,"Well, I haven't talked it over with the family, but I think we'd all like a free dinner at AmericaTown."
+54502,226,230,1011000,Marge Simpson,GAMESHOW SET,"No, no, no! We want plane tickets home to Springfield."
+54503,226,231,1018000,Gameshow Host,GAMESHOW SET,Now our gameshows are a little different from yours. Your shows reward knowledge. We punish ignorance.
+54504,226,232,1027000,Homer Simpson,GAMESHOW SET,Ignor-- what?
+54506,226,234,1027000,Gameshow Host,GAMESHOW SET,"Okay, let's begin. Our categories are ""OW, THAT HURTS,"" ""WHY ARE YOU DOING THIS TO ME?"" and ""PLEASE LET ME DIE."""
+54507,226,235,1041000,Homer Simpson,GAMESHOW SET,"Do ""OW THAT HURTS."""
+54508,226,236,1041000,Marge Simpson,GAMESHOW SET,"We'll go with ""OW, THAT HURTS,"" Skip!"
+54509,226,237,1047000,Gameshow Host,GAMESHOW SET,My name is Wink!
+54510,226,238,1055000,Gameshow Host,GAMESHOW SET,"All right, Simpsons, whack the pinata!"
+54511,226,239,1059000,Gameshow Host,GAMESHOW SET,"Come on, break that pig open! Once more. Harder. Whack it open. Good."
+54512,226,240,1065000,Gameshow Host,GAMESHOW SET,"All right, you may remove your blindfolds."
+54513,226,241,1070000,Lisa Simpson,GAMESHOW SET,"Oh sorry, Dad, we didn't know."
+54514,226,242,1073000,Bart Simpson,GAMESHOW SET,I had an inkling.
+54515,226,243,1074000,Homer Simpson,GAMESHOW SET,Could someone please whack my hernia back in?
+54516,226,244,1076000,Bart Simpson,GAMESHOW SET,"Sure thing, Dad."
+54517,226,245,1077000,Gameshow Host,GAMESHOW SET,"Mr. Simpson, we'll cut you down as soon as you answer one question about Japan."
+54518,226,246,1084000,Homer Simpson,GAMESHOW SET,Is the answer Japan?
+54519,226,247,1086000,Gameshow Host,GAMESHOW SET,"Actually, it is. That means you move on to the lightning round."
+54523,226,251,1098000,Gameshow Host,GAMESHOW SET,"He seems okay, but he is being burned internally."
+54527,226,255,1108000,Lenny Leonard,Moe's Tavern,"Hey, ain't that Homer on the Japanese channel?"
+54528,226,256,1111000,Moe Szyslak,Moe's Tavern,If that's Homer then... who the hell's been putting beers on his tab?
+54529,226,257,1116000,Barney Gumble,Moe's Tavern,Woo hoo? Umm... that boy ain't right?
+54531,226,259,1122000,Gameshow Host,GAMESHOW SET,"Congratulations Simpsons, the airline tickets are yours. All you have to do is to pick them up...from inside that volcano."
+54532,226,260,1133000,Homer Simpson,GAMESHOW SET,Why are you so cruel?
+54534,226,262,1140000,Bart Simpson,RIM OF VOLCANO,This vacation really blows.
+54535,226,263,1142000,Homer Simpson,RIM OF VOLCANO,"Well, at least we're past the lightning round."
+54536,226,264,1144000,Homer Simpson,RIM OF VOLCANO,"Hmmm, I see... I sure hope they don't have an ice cream round."
+54537,226,265,1154000,Marge Simpson,RIM OF VOLCANO,"Mmm, I don't think that bridge can support much weight."
+54538,226,266,1159000,Lisa Simpson,RIM OF VOLCANO,"Well, Maggie weighs a lot less than... oh, I'll just go."
+54540,226,268,1167000,Audience,GAMESHOW SET,Plum-met! Plum-met! Plum-met! Plum-met! Plum-met! Plum-met! Plum-met! Plum-met!
+54541,226,269,1174000,Lisa Simpson,GAMESHOW SET,Yes! Got 'em!
+54542,226,270,1177000,Bart Simpson,GAMESHOW SET,U-S-A! U-S-A! U-S...
+54544,226,272,1184000,Marge Simpson,Volcano,Lisa!
+54545,226,273,1195000,Homer Simpson,Volcano,Marge! Your shoe!
+54546,226,274,1200000,Bart Simpson,Volcano,Plane tickets!
+54547,226,275,1210000,Marge Simpson,Volcano,"Oh, I'm afraid this might be the end."
+54548,226,276,1212000,Homer Simpson,Volcano,"Well, at least we'll die doing what we love... inhaling molten rock."
+54550,226,278,1221000,Homer Simpson,GAMESHOW SET,It burns! It burns!
+54551,226,279,1226000,Gameshow Host,GAMESHOW SET,"Don't worry, that ""lava"" is just Orangeade made by our sponsor, Osaka Orangeade Concern."
+54552,226,280,1234000,Homer Simpson,GAMESHOW SET,It burns! It burns!
+54553,226,281,1235000,Gameshow Host,GAMESHOW SET,"It's loaded with wasabi. Kudos, Simpsons, you have won your freedom!"
+54554,226,282,1246000,Homer Simpson,GAMESHOW SET,"Before I go, I want to say something. Game shows aren't about cruelty, they're about greed and wonderful prizes like poorly-built catamarans. But somewhere along the line, you lost your way. For shame."
+54555,226,283,1263000,Gameshow Host,GAMESHOW SET,"Coming up next, a Canadian couple who say they are deathly afraid of scorpions."
+54556,226,284,1271000,Canadian Man,GAMESHOW SET,"Ooh, that stings, eh. Oooh, God!"
+54558,226,286,1276000,Gameshow Host,GAMESHOW SET,Sting those Canucks.
+54560,226,288,1278000,Homer Simpson,Hallway,"I love this show. Take that, you stupid hosers!"
+54562,226,290,1284000,Bart Simpson,Plane,"Goodbye, Japan. I'll miss your Kentucky Fried Chicken and your sparkling, whale-free seas."
+54564,226,291,1289000,Simpsons,Plane,"Hey, what's all that? / Whoa! / What's happening?"
+54565,226,292,1293000,Pilot,Plane,"Ahh, folks, we're experiencing some moderate Godzilla-related turbulence at this time, so I'm gonna go ahead and ask you to put your seatbelts back on."
+54566,226,293,1300000,Pilot,Plane,"When we get to thirty-five thousand feet, he usually does let go. So, from there on out all we have to do is worry about Mothra and uh, we do have reports he's tied up with Gamra and Rodan at the present time. Thank you very much."
+54567,226,294,1366000,Homer Simpson,Plane,Undo! Undo!

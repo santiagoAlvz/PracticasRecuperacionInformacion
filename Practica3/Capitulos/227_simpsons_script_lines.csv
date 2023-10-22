@@ -1,0 +1,305 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+54571,227,3,101000,Somber Announcer,Simpson Home,Electricity: the fuel of the future.
+54572,227,4,106000,Somber Announcer,Simpson Home,Test drive the Elec-taurus today and get a free gift.
+54573,227,5,112000,Homer Simpson,Simpson Home,My children deserve to see me get a free gift.
+54575,227,7,118000,Lisa Simpson,Car Dealership,"I'm proud of you, Dad. Buying an electric car will help clean the air up and protect the Earth's supply... You're faking this to get the gift, aren't you?"
+54576,227,8,125000,Homer Simpson,Car Dealership,But I like the nice things you said about me.
+54577,227,9,128000,Salesperson,Car Dealership,Thinking of saying good-bye to gas?
+54578,227,10,130000,Bart Simpson,Car Dealership,You betcha.
+54579,227,11,130000,Marge Simpson,Car Dealership,Bart!
+54580,227,12,130000,Marge Simpson,Car Dealership,"Well, that shut me up."
+54581,227,13,134000,Homer Simpson,Car Dealership,"Hello, I, uh, love your planet deeply and am interested in purchasing one of your electronic autos."
+54582,227,14,143000,Salesperson,Car Dealership,"Well, it's always nice to meet people concerned about the environment."
+54583,227,15,146000,Homer Simpson,Car Dealership,What kind a mint?
+54585,227,17,149000,Marge Simpson,Electric Car,"Boy, that quiet engine sure makes conversation a lot easier."
+54586,227,18,153000,Homer Simpson,Electric Car,"Yeah, it's got a lot of other problems too."
+54587,227,19,156000,Lisa Simpson,Electric Car,"Ah! Dad, you're headed for the harbor!"
+54588,227,20,158000,Homer Simpson,Electric Car,"Relax, we're in an electric car."
+54590,227,22,166000,Homer Simpson,Electric Car,See? Everything's fine.
+54591,227,23,168000,Homer Simpson,Electric Car,"Hey, dolphins."
+54592,227,24,171000,Homer Simpson,Electric Car,Oopsie.
+54593,227,25,172000,Homer Simpson,Electric Car,"Hi, girls."
+54594,227,26,179000,Homer Simpson,Electric Car,Ohhh.
+54595,227,28,179000,Homer Simpson,Simpson Home,Salt water seems to be good for it.
+54597,227,30,186000,Homer Simpson,Car Dealership,"Um, I'm sorry, the car did not meet my eco-concerns. Can I have my prize now?"
+54598,227,31,191000,Salesperson,Car Dealership,Certainly.
+54599,227,32,195000,Salesperson,Car Dealership,What the...?!
+54600,227,33,196000,Electric Car Computer,Car Dealership,Help! Help! It burns!
+54602,227,35,200000,Marge Simpson,Simpson Home,"Hey, we never opened that envelope to see what our gift is."
+54603,227,36,203000,Homer Simpson,Simpson Home,We didn't? That's odd. Seems like we would've done that right after we left the car place.
+54604,227,37,210000,Marge Simpson,Simpson Home,"I know, but we didn't."
+54605,227,38,211000,Homer Simpson,Simpson Home,"Well, here it is, so we can open it and find out now."
+54606,227,39,214000,Marge Simpson,Simpson Home,Perfect.
+54607,227,40,216000,Homer Simpson,Simpson Home,"Aww, movie tickets! That hardly seems worth destroying a car."
+54608,227,41,220000,Marge Simpson,Simpson Home,They're passes to a test screening of a new movie starring Mel Gibson!
+54609,227,42,226000,Homer Simpson,Simpson Home,Who else is in it?
+54610,227,43,227000,Marge Simpson,Simpson Home,Who cares? Mel Gibson!
+54611,227,44,229000,Homer Simpson,Simpson Home,"Mel Gibson is just a guy, Marge. No different than me or Lenny."
+54612,227,45,232000,Marge Simpson,Simpson Home,Were you or Lenny ever named sexiest man alive?
+54613,227,46,235000,Homer Simpson,Simpson Home,"Hmmm, I'm not certain about Lenny."
+54614,227,47,237000,Marge Simpson,Simpson Home,"Besides, it's not just his chisled good looks. People magazine says he's a devoted father, goes to church every week, and likes to fix things around the... Homer, let's make love!"
+54615,227,48,246000,Homer Simpson,Simpson Home,Okay...
+54616,227,49,252000,Homer Simpson,Simpson Home,"Uh, you're thinking about me, right?"
+54617,227,50,255000,Marge Simpson,Simpson Home,"Of course, Homey. Aren't you thinking about me?"
+54618,227,51,258000,Homer Simpson,Simpson Home,I will now.
+54620,227,53,262000,Comic Book Guy,Aztec Theater,"Easy, easy there, buster. But, how did they know?"
+54621,227,54,267000,Comic Book Guy,Aztec Theater,I had a mouse.
+54622,227,55,270000,Comic Book Guy,Aztec Theater,Thank you.
+54623,227,56,273000,STUDIO EXECUTIVE,Aztec Theater,"Good evening. I'm Edward Christian, Assistant VP of Finance and Distribution at PolyStar Pictures."
+54625,227,58,281000,Ned Flanders,Aztec Theater,Dang! I should've brought the camera.
+54628,227,59,283000,Edward,Aztec Theater,"Also with me tonight are the dynamic duo, William Milo and Robyn Hannah, who greenlighted all of Shaquille O'Neal's movies, including ""Kazam!"""
+54630,227,61,293000,Edward,Aztec Theater,"How's the popcorn, guys?"
+54631,227,62,294000,WILLIAM/ROBYN,Aztec Theater,Needs salt!
+54633,227,64,300000,Edward,Aztec Theater,"Anyhoo, welcome to our test screening of Mel Gibson's directorial follow-up to ""Braveheart,"" a remake of the Jimmy Stewart classic ""Mr. Smith Goes To Washington!"""
+54634,227,65,311000,Krusty the Clown,Aztec Theater,I knew I shouldn't have passed on that.
+54635,227,66,313000,Edward,Aztec Theater,"Now, after the film, I'll be handing out these cards for your opinion. We then take your cards to Hollywood, California..."
+54636,227,67,321000,Crowd,Aztec Theater,/ Ooh!
+54637,227,68,323000,Edward,Aztec Theater,"...and change the movie based on your suggestions. Any uh, questions?"
+54638,227,69,325000,Professor Jonathan Frink,Aztec Theater,"Yes, over here and thank you. Will there be any flubber in this movie? Glayvin."
+54639,227,70,331000,Edward,Aztec Theater,"No, I'm afraid not."
+54640,227,71,334000,Professor Jonathan Frink,Aztec Theater,"Ah, for cryin' out glayvin!"
+54641,227,72,335000,Marge Simpson,Aztec Theater,Is Mel Gibson here?
+54642,227,73,337000,Edward,Aztec Theater,"No, sorry, but like all celebrities, he's in Hollywood attending benefits for various diseases."
+54644,227,75,350000,Mel Gibson,Aztec Theater,Did they like it?
+54645,227,76,351000,WILLIAM,Aztec Theater,"Well, they haven't seen it yet, Mel."
+54646,227,77,353000,ROBYN,Aztec Theater,How'd you get here from L.A. so fast?
+54647,227,78,354000,Sideshow Mel,Aztec Theater,John Travolta flew me in his jet. Now I have to help him move next weekend. He deliberately waited 'til we were in the air to ask me!
+54648,227,79,361000,WILLIAM,Aztec Theater,"You know, you really didn't have to make this trip, Mel. The screening's gonna go fine. Believe me."
+54649,227,80,364000,Sideshow Mel,Aztec Theater,I don't know. I think this movie was a big mistake. All I do is talk for two hours. I don't shoot anybody! What was I thinking?!
+54650,227,81,370000,ROBYN,Aztec Theater,You shouldn't worry about the movie. William and I both think it's fabulous.
+54651,227,82,374000,WILLIAM,Aztec Theater,"And I think we know a little something about the movie business. Oh, Robyn, you've gotta see the director's cut of ""Booty Call!"" It's fabulous!"
+54652,227,83,381000,ROBYN,Aztec Theater,"Why, even better than the original? 'Cause that was pretty fabulous too."
+54654,227,85,385000,MR.SMITH/MEL,Movie Theater,"""And he fought for them once, for the only reason any man ever does. Because of one plain simple rule: Love thy neighbor..."""
+54655,227,86,396000,Homer Simpson,Movie Theater,Bo-ring.
+54656,227,87,397000,Marge Simpson,Movie Theater,It's not boring. He's passionate about government.
+54657,227,88,400000,Homer Simpson,Movie Theater,At least the Jimmy Stewart version had that giant rabbit who ran the savings and loan.
+54658,227,89,405000,Marge Simpson,Movie Theater,Shh!
+54660,227,91,408000,Crowd,Theater Lobby,Excellent. / That man knows how to filibuster.
+54661,227,92,412000,Homer Simpson,Theater Lobby,"Well, that was a stinker."
+54662,227,93,413000,Marge Simpson,Theater Lobby,"I liked it. It was nice to see a movie where people solved their problems with words, instead of bullets and chasing."
+54663,227,94,420000,Homer Simpson,Theater Lobby,"Oh, you're just saying that because your ""boyfriend"" was in it. I'll bet you would've hated it if me and Lenny were Mr. Smith."
+54664,227,95,427000,Marge Simpson,Theater Lobby,Will you stop acting so jealous?
+54665,227,96,429000,Sideshow Mel,Theater Lobby,"Listen, I don't wanna get spotted by the crowd, so I'm gonna take a leak behind the dumpster."
+54666,227,97,436000,Chief Wiggum,Theater Lobby,"Look! It's Mel Gibson! Hey, everybody rush over there!"
+54667,227,98,446000,Chief Wiggum,Theater Lobby,Mel! Mel!
+54668,227,99,446000,Sideshow Mel,Theater Lobby,"Hi, everybody!"
+54670,227,101,449000,Dr. Nick Riviera,Theater Lobby,"Hi, Mr. Gibson."
+54671,227,102,452000,Sideshow Mel,Theater Lobby,"Thanks for comin', folks, and don't be afraid to be completely truthful when you fill out your opinion cards. Honesty is the foundation of the movie business."
+54672,227,103,459000,Moe Szyslak,Theater Lobby,"Oh, we'll be honest. We could never lie to you, Mel."
+54673,227,104,463000,Marge Simpson,Theater Lobby,"Um, will you be reading the cards yourself, Mel?"
+54674,227,105,466000,Sideshow Mel,Theater Lobby,"Well, I'll be reading yours personally..."
+54676,227,107,471000,Homer Simpson,Theater Lobby,"Oh, that's it! I'm telling Mr. Stupidest man alive what I really thought of his movie! Hey, Gibson!"
+54677,227,108,479000,Sideshow Mel,Theater Lobby,"Eh, yes sir?"
+54678,227,109,480000,Homer Simpson,Theater Lobby,Got a pencil?
+54679,227,110,481000,Sideshow Mel,Theater Lobby,There you go.
+54680,227,111,482000,Homer Simpson,Theater Lobby,Thanks.
+54681,227,112,486000,Homer Simpson,Theater Lobby,stupid...
+54682,227,113,486000,Homer Simpson,Theater Lobby,'Preciate it.
+54626,227,116,491000,Edward,PRIVATE JET,"The movie tested through the roof, Mel!"
+54685,227,117,493000,Edward,PRIVATE JET,"The Sea Captain gave it ""Four Arrrs."" Bumblebee Man says ""Muy Bueno."" And we were worried about the Latino market, huh?"
+54686,227,118,498000,WILLIAM,PRIVATE JET,Yeah.
+54687,227,119,498000,Edward,PRIVATE JET,Huh?
+54688,227,120,499000,WILLIAM,PRIVATE JET,Yeah.
+54689,227,121,499000,Edward,PRIVATE JET,Huh?
+54690,227,122,500000,WILLIAM,PRIVATE JET,Yeah.
+54691,227,123,500000,Edward,PRIVATE JET,Huh?
+54692,227,124,500000,WILLIAM,PRIVATE JET,Worried!
+54693,227,125,502000,Sideshow Mel,PRIVATE JET,"C'mon. They can't all have loved it. ""Loved it."" ""Loved it."" ""Loved it."" ""Loved it despite absence of flubber, glayvin?"""
+54694,227,126,508000,Sideshow Mel,PRIVATE JET,"Oh, here we go. ""Your movie was more boring than church. All you did was yak, yak, yak. You didn't even shoot anybody..."" Damn, I knew it!"
+54695,227,127,515000,Edward,PRIVATE JET,"Ah, don't do this to yourself, Mel. The guy's obviously a nut."
+54696,227,128,518000,Sideshow Mel,PRIVATE JET,Maybe. Or maybe he's the only person with the guts to tell me the truth.
+54697,227,129,522000,Sideshow Mel,PRIVATE JET,Turn the plane around! I want to go to 742 Evergreen Terrace.
+54698,227,130,526000,John Travolta,PRIVATE JET,"But you promised to help me move! Ah, geeez!"
+54700,227,132,538000,Homer Simpson,Simpson Home,"Door, Marge."
+54703,227,135,544000,Sideshow Mel,Simpson Home,I'm looking for Homer Simpson.
+54704,227,136,546000,Homer Simpson,Simpson Home,"And I've been lookin' for you, too, pal!"
+54705,227,137,549000,Bart Simpson,Simpson Home,"Pound him, Dad!"
+54706,227,138,549000,Lisa Simpson,Simpson Home,"Bart, don't..."
+54707,227,139,551000,Bart Simpson,Simpson Home,"Quiet! Dad's gonna get his butt kicked by Mel Gibson! Knock his teeth out, Homer!"
+54708,227,140,555000,Homer Simpson,Simpson Home,"Listen, Gibson, I'm tired of Hollywood pretty boys like you and Jack Valenti thinking you can have any woman you want. You see this?"
+54709,227,141,564000,Homer Simpson,Simpson Home,It symbolizes that she's my property and I own her.
+54710,227,142,568000,Sideshow Mel,Simpson Home,"Mr. Simpson, I need your help."
+54711,227,143,570000,Homer Simpson,Simpson Home,Huh?
+54712,227,144,571000,Sideshow Mel,Simpson Home,I think you're right about my movie and I want you to help me make it better.
+54713,227,145,575000,Homer Simpson,Simpson Home,"Really? You want my help? Marge, did you hear that? Mel Gibson wants my help! Mel Gibson!"
+54714,227,146,581000,Lisa Simpson,Simpson Home,"But, Dad, I thought you hated..."
+54715,227,147,582000,Homer Simpson,Simpson Home,Shuut-uup...
+54716,227,148,584000,Marge Simpson,Simpson Home,Homer doesn't know anything about making movies.
+54717,227,149,586000,Sideshow Mel,Simpson Home,"Don't sell your husband short, Mrs. Simpson."
+54718,227,150,588000,Homer Simpson,Simpson Home,"She's always doing that, Mel."
+54720,227,152,590000,Sideshow Mel,Simpson Home,"Homer is a brutally honest man, completely tactless and insensitive."
+54721,227,153,594000,Homer Simpson,Simpson Home,Guilty as charged.
+54722,227,154,596000,Sideshow Mel,Simpson Home,"The problem I have is people love me so much, they never criticize me. I speed all the time, but cops never give me a ticket. If I don't pay my taxes, the I.R.S. pays 'em for me."
+54723,227,155,605000,Marge Simpson,Simpson Home,"Oh, you poor thing..."
+54724,227,156,606000,Sideshow Mel,Simpson Home,It's hell bein' Mel!
+54725,227,157,609000,John Travolta,Simpson Home,C'mon! Geez.
+54726,227,158,611000,Sideshow Mel,Simpson Home,"I don't have much time, Homer. Will you come to Hollywood with me?"
+54727,227,159,615000,Homer Simpson,Simpson Home,"You had me at ""Hello."""
+54728,227,160,615000,Sideshow Mel,Simpson Home,"I didn't say ""Hello."""
+54730,227,162,615000,Marge Simpson,JET,"Hollywood, here we come!"
+54732,227,164,627000,Marge Simpson,Airport,"Hollywood, here we are!"
+54733,227,165,629000,Lisa Simpson,Airport,"Stop doing that, Mom."
+54736,227,168,633000,Homer Simpson,Mini-van,"A mini-van... Oh boy, you celebrities sure know how to live. What is this? Toyota Previa?"
+54737,227,169,640000,Sideshow Mel,Mini-van,Dodge Caravan.
+54738,227,170,642000,Homer Simpson,Mini-van,Sweet.
+54739,227,171,643000,Marge Simpson,Mini-van,"Look, they're making a movie! Robert Downey, Jr. is shooting it out with the police!"
+54740,227,172,649000,Bart Simpson,Mini-van,I don't see any cameras.
+54742,227,174,651000,Homer Simpson,Mel Gibson's Office,"Okay, while Mel and I are working, why don't you guys do the town? I hear all the stars eat at a place called Planet Hollywood."
+54743,227,175,658000,Bart Simpson,Mel Gibson's Office,"Can I stay with you, Dad?"
+54744,227,176,660000,Homer Simpson,Mel Gibson's Office,"Sorry, son, but we're going to be very busy. Mel's movie really stinks."
+54746,227,178,665000,Homer Simpson,Mel Gibson's Office,"Okay, this opening scene should be in fast motion. Everybody likes that 'cause it looks funny."
+54747,227,179,679000,MAN ON RIGHT,Mel Gibson's Office,"Hey, Mr. Smith's coming to Washington. He's really honest. That could be bad news for us corrupt politicians."
+54748,227,180,679000,MAN ON LEFT,Mel Gibson's Office,"Well even if he is, big deal."
+54750,227,181,679000,MAN ON RIGHT,Mel Gibson's Office,How do you figure?
+54751,227,182,679000,MAN ON LEFT,Mel Gibson's Office,"Well, if he doesn't play ball, we'll teach him a thing or two."
+54752,227,183,679000,MAN ON RIGHT,Mel Gibson's Office,Goodbye.
+54753,227,184,679000,MAN ON LEFT,Mel Gibson's Office,See ya.
+54755,227,186,679000,Sideshow Mel,Mel Gibson's Office,I don't think so.
+54756,227,187,681000,Homer Simpson,Mel Gibson's Office,"Okay, here you need a musical montage where you try on lots of funny hats. It'll let us see your playful side."
+54757,227,188,687000,Sideshow Mel,Mel Gibson's Office,No.
+54758,227,189,687000,Homer Simpson,Mel Gibson's Office,"Yeah, but..."
+54759,227,190,687000,Sideshow Mel,Mel Gibson's Office,Just no.
+54761,227,192,690000,Bus Tour Guide,Hollywood,"Ah, for those of you who have always wanted to see the famous Brown Derby restaurant..."
+54762,227,193,695000,Marge Simpson,Hollywood,Ooh!
+54763,227,194,695000,Bus Tour Guide,Hollywood,...that's where it used to be.
+54765,227,196,700000,Bus Tour Guide,Hollywood,And on your left is the notorious spot where Hugh Grant...
+54766,227,197,703000,Marge Simpson,Hollywood,Ew!
+54767,227,198,704000,Bus Tour Guide,Hollywood,"...filmed the movie ""Nine Months."""
+54768,227,199,705000,Marge Simpson,Hollywood,Eewww!!
+54770,227,201,708000,Sideshow Mel,Mel Gibson's Office,You want me to replace the villain with a dog? I mean nobody'll know what's going on!
+54771,227,202,713000,Homer Simpson,Mel Gibson's Office,They will if you set up that the dog is evil. All you have to do is show him doing this and people will suspect the dog.
+54772,227,203,723000,Sideshow Mel,Mel Gibson's Office,"Maybe this wasn't a good idea, Homer. I'm sorry I dragged you out here. L-Let me pay your bus fare home."
+54773,227,204,728000,Homer Simpson,Mel Gibson's Office,Ah-ah-ah! Now here's your biggest problem of all...
+54774,227,205,732000,Sideshow Mel,Mel Gibson's Office,The filibuster scene? That was Jimmy Stewart's favorite!
+54775,227,206,735000,Homer Simpson,Mel Gibson's Office,"And it was fine for the 1930's. The country was doing great back then. Everyone was into talking. But now, in whatever year this is, the audience wants action! And seats with beverage holders, but mainly action."
+54776,227,207,749000,Sideshow Mel,Mel Gibson's Office,You really think the end is boring?
+54777,227,208,750000,Homer Simpson,Mel Gibson's Office,"Oh! Mel, it's the most boring piece of garbage I've ever seen. And it's not easy for me to say that."
+54780,227,209,757000,Sideshow Mel,Mel Gibson's Office,"Hmm, I guess it is a little flat. Okay, let's reshoot the ending. I'll call the hair and make-up ladies. You see if the teamsters will work for free."
+54781,227,210,763000,Homer Simpson,Mel Gibson's Office,Piece o' cake. Now where's that kid with my latte?
+54783,227,212,767000,Marge Simpson,Beverly Hills,"According to the map, this house is owned by the dog from ""Frasier."" And that's where Ellen DeGeneres and Anne Heche live."
+54784,227,213,777000,Anne,Beverly Hills,We're lesbians!
+54787,227,216,782000,Sideshow Mel,SCREENING ROOM,"Okay, this new ending..."
+54788,227,217,785000,Homer Simpson,SCREENING ROOM,... we-shot-last-night...
+54789,227,218,786000,Sideshow Mel,SCREENING ROOM,"... is a little different than what we had, but I think you'll like it. It's missing some sound effects and the computer guys haven't added the twinkle in my eye..."
+54790,227,219,792000,Homer Simpson,SCREENING ROOM,"Mel, you're coming off desperate. Roll it, Louie!"
+54791,227,220,799000,Homer Simpson,SCREENING ROOM,Here comes two!
+54792,227,221,804000,MR. SMITH/MEL,SCREENING ROOM,"Well, I'm not licked! And I'm going to stay right here and fight for this lost cause... Somebody'll listen to me. Somebody'll..."
+54794,227,223,816000,Senator Payne,SCREENING ROOM,I believe the Senator has yielded the floor.
+54796,227,225,823000,MR. SMITH/MEL,SCREENING ROOM,"Yield this, Senator Payne..."
+54797,227,226,833000,MR. SMITH/MEL,SCREENING ROOM,I move we impose some serious term limits!
+54798,227,227,836000,Homer Simpson,SCREENING ROOM,I second that motion...
+54799,227,228,836000,Homer Simpson,SCREENING ROOM,...with a vengeance!
+54800,227,229,844000,MR. SMITH/MEL,SCREENING ROOM,"All in favor, say ""die!"""
+54802,227,231,844000,Senate Leader,SCREENING ROOM,"Mr. Smith, this is highly unorthodox!"
+54804,227,233,868000,DISTINGUISHED-LOOKING MAN,SCREENING ROOM,I'm the President of the United States and I demand to know what's going on here!
+54805,227,234,878000,MR. SMITH/MEL,SCREENING ROOM,"Happy birthday, Mr. President."
+54806,227,235,894000,Sideshow Mel,SCREENING ROOM,"Pretty cool, huh?"
+54807,227,236,895000,Edward,SCREENING ROOM,"You, uh, you chopped off the President's head."
+54808,227,237,899000,Sideshow Mel,SCREENING ROOM,I bet you didn't see that coming.
+54809,227,238,901000,ROBYN,SCREENING ROOM,You impaled a United States Senator with the American Flag.
+54810,227,239,904000,WILLIAM,SCREENING ROOM,Why did Mr. Smith kill everybody?
+54778,227,240,906000,Homer Simpson,SCREENING ROOM,It was symbolism. He was mad.
+54812,227,241,909000,Edward,SCREENING ROOM,"But this was gonna be the studio's prestige picture. Like ""Howard's End,"" or ""Sophie's Choice."""
+54813,227,242,915000,Homer Simpson,SCREENING ROOM,Those movies sucked. I only saw 'em to get Marge into the sack. PS: mission accomplished.
+54814,227,243,922000,Edward,SCREENING ROOM,But we've already bought five Golden Globe awards!
+54815,227,244,925000,Sideshow Mel,SCREENING ROOM,I don't make movies to win awards -- especially now that I have two Oscars.
+54816,227,245,929000,Sideshow Mel,SCREENING ROOM,I make movies for guys like him.
+54817,227,246,931000,Homer Simpson,SCREENING ROOM,"Yeah, guys like me."
+54818,227,247,932000,Edward,SCREENING ROOM,"Who are you, anyway?"
+54819,227,248,934000,Homer Simpson,SCREENING ROOM,"Do the words ""Executive Producer"" mean anything to you?"
+54820,227,249,937000,Sideshow Mel,SCREENING ROOM,Executive Producer?
+54821,227,250,938000,Homer Simpson,SCREENING ROOM,We'll talk.
+54822,227,251,939000,Edward,SCREENING ROOM,"You've desecrated a classic film! This is worse than ""Godfather III!"""
+54823,227,252,942000,Sideshow Mel,SCREENING ROOM,"Whoa, whoa, hey, whoa. Let's not say things we can't take back."
+54824,227,253,945000,Edward,SCREENING ROOM,"All right. All right, I'm sorry. But this film is never going to see the light of day."
+54826,227,255,952000,Sideshow Mel,SCREENING ROOM,Look! They're towing away a Range Rover!
+54827,227,256,956000,Sideshow Mel,SCREENING ROOM,"Yoink! C'mon, Homer. We've got a movie to premiere!"
+54828,227,257,959000,Edward,SCREENING ROOM,"We've gotta get that film back, or we'll all be fired, ya know what I mean?"
+54829,227,258,963000,WILLIAM,SCREENING ROOM,Yeah.
+54830,227,259,963000,Edward,SCREENING ROOM,Huh?
+54831,227,260,963000,WILLIAM,SCREENING ROOM,Yeah.
+54832,227,261,963000,Edward,SCREENING ROOM,Huh?
+54833,227,262,963000,WILLIAM,SCREENING ROOM,Yeah.
+54834,227,263,963000,Edward,SCREENING ROOM,Huh?
+54835,227,264,964000,WILLIAM,SCREENING ROOM,Fired!
+54837,227,266,976000,Edward,Movie Studio,Give us the film!
+54838,227,267,978000,Sideshow Mel,Movie Studio,Never!
+54839,227,268,979000,Tram Guide,Movie Studio,"And, on your left, you'll see Ranier Wolfcastle filming his latest movie, ""Saving Irene Ryan."""
+54840,227,269,985000,Irene Ryan,Movie Studio,"You put me down, you big lummox! Je-eedd!!"
+148013,227,270,989000,WOLFCASTLE,Movie Studio,"Shut up, old lady. And stop kicking me there."
+54841,227,271,995000,Homer Simpson,Movie Studio,Watch out! Comin' through! Mach schnell!
+54842,227,272,998000,Sideshow Mel,Movie Studio,Homer! Land mine!
+54843,227,273,999000,Homer Simpson,Movie Studio,I'm on it.
+54845,227,275,1005000,Security Guard,Movie Studio,"G'night, Mr. Gibson."
+54846,227,276,1006000,Sideshow Mel,Movie Studio,"'Night, Gus."
+54779,227,278,1011000,Sideshow Mel,Street Outside Studio,I'm gettin' too old for this crap.
+54848,227,279,1013000,Homer Simpson,Street Outside Studio,"How old are you, anyway?"
+54849,227,280,1014000,Sideshow Mel,Street Outside Studio,"Well, I've been told I can play anywhere from 28 to..."
+54850,227,281,1017000,Homer Simpson,Street Outside Studio,Sorry I asked.
+54851,227,282,1019000,Homer Simpson,Street Outside Studio,"Oh, crap! Here they come!"
+54852,227,283,1021000,Sideshow Mel,Street Outside Studio,"Well, that's it Homer. We should've known better than to match wits with studio executives."
+54853,227,284,1026000,Homer Simpson,Street Outside Studio,"Hey, come on, turn that down-under frown upside down. We're not finished yet."
+54855,227,286,1034000,Bart Simpson,HOLLYWOOD AUTOMOBILE MUSEUM,"Wow, these dummies look pretty good."
+54856,227,287,1037000,Batman,HOLLYWOOD AUTOMOBILE MUSEUM,"Well, I've had a lot of surgery, old chum."
+54857,227,288,1039000,Robin,HOLLYWOOD AUTOMOBILE MUSEUM,Shh! Mr. Limato said he'd fire us if you didn't stop bothering the customers.
+54858,227,289,1045000,Marge Simpson,HOLLYWOOD AUTOMOBILE MUSEUM,"Homer, what are you doing here?"
+54859,227,290,1048000,Homer Simpson,HOLLYWOOD AUTOMOBILE MUSEUM,No time talk! Need steal car! Must save powerful but controversial movie!
+54861,227,292,1056000,Homer Simpson,HOLLYWOOD AUTOMOBILE MUSEUM,Hel-lo.
+54862,227,293,1058000,Homer Simpson,HOLLYWOOD AUTOMOBILE MUSEUM,"Quick, Mel, get in!"
+54863,227,294,1059000,Sideshow Mel,HOLLYWOOD AUTOMOBILE MUSEUM,"Oh, forget it, Homer, let's just give 'em the stupid movie."
+54864,227,295,1062000,Homer Simpson,HOLLYWOOD AUTOMOBILE MUSEUM,"Movies aren't stupid! They fill us with romance and hatred and revenge fantasies. ""Lethal Weapon"" showed us that suicide is funny."
+54865,227,296,1071000,Sideshow Mel,HOLLYWOOD AUTOMOBILE MUSEUM,That really wasn't my intention.
+54866,227,297,1073000,Homer Simpson,HOLLYWOOD AUTOMOBILE MUSEUM,"Before ""Lethal Weapon 2"", I never thought there could be a bomb in my toilet, but now I check every time."
+54867,227,298,1079000,Marge Simpson,HOLLYWOOD AUTOMOBILE MUSEUM,It's true. He does.
+54868,227,299,1082000,Sideshow Mel,HOLLYWOOD AUTOMOBILE MUSEUM,"Movies mean that much to you, Homer?"
+54869,227,300,1084000,Homer Simpson,HOLLYWOOD AUTOMOBILE MUSEUM,They are my only escape from the drudgery of work and family.
+54870,227,301,1090000,Homer Simpson,HOLLYWOOD AUTOMOBILE MUSEUM,No offense.
+54871,227,302,1091000,Sideshow Mel,HOLLYWOOD AUTOMOBILE MUSEUM,"Ah, what the heck. Let's hit the road!"
+54872,227,303,1093000,Sideshow Mel,HOLLYWOOD AUTOMOBILE MUSEUM,"Shove over, Junior."
+54873,227,304,1100000,Batman,HOLLYWOOD AUTOMOBILE MUSEUM,"That thoughtless destruction will surely bankrupt the museum, old chum."
+54874,227,305,1104000,Robin,HOLLYWOOD AUTOMOBILE MUSEUM,Shut up!
+54876,227,307,1116000,Bart Simpson,HOLLYWOOD BLVD.,"Mom, you've gotta take my picture in this car so I can show Milhouse!"
+54878,227,308,1120000,Marge Simpson,HOLLYWOOD BLVD.,"Oh sorry, honey, I used up the last roll on that man I thought was Judge Judy."
+54879,227,309,1124000,Homer Simpson,HOLLYWOOD BLVD.,"Well, I think we lost 'em."
+54880,227,310,1126000,Homer Simpson,HOLLYWOOD BLVD.,"Oh, wait. There they are."
+54881,227,311,1127000,Sideshow Mel,HOLLYWOOD BLVD.,"Let me try something. Take the wheel, Lisa."
+54882,227,312,1130000,Lisa Simpson,HOLLYWOOD BLVD.,But my Dad can...
+54883,227,313,1130000,Sideshow Mel,HOLLYWOOD BLVD.,I said you.
+54885,227,315,1132000,Edward,MERCEDES,We've got 'em now...
+54887,227,317,1144000,ROBYN,MERCEDES,"Oh, no! We killed Mel Gibson!"
+54888,227,318,1145000,Edward,MERCEDES,"You all saw it. He came at me with a knife, right?"
+54889,227,319,1151000,WILLIAM,MERCEDES,Wait a minute. He's just a dummy!
+54890,227,320,1154000,Edward,MERCEDES,"I know, but he sells tickets. Let's go!"
+54892,227,322,1162000,Homer Simpson,ROAD WARRIOR CAR,"Great idea, Mel. Now it's my turn."
+54893,227,323,1166000,Sideshow Mel,ROAD WARRIOR CAR,What are you doing?
+54894,227,324,1167000,Homer Simpson,ROAD WARRIOR CAR,"I'm tired of running away. Did ""Braveheart"" run away? Did ""Payback"" run away? It's time we showed those suits what we're made of."
+54896,227,326,1177000,WILLIAM,MERCEDES,What the heck is that?!
+54897,227,327,1180000,ROBYN,MERCEDES,"Well, the one on the left is Mel Gibson. I don't know who the other two guys are."
+54898,227,328,1183000,Sideshow Mel,MERCEDES,Will you please tell me the rest of the plan?!
+54899,227,329,1185000,Homer Simpson,MERCEDES,"It's your plan, from ""Braveheart."" Your army mooned the enemy until they could take no more and surrendered."
+54900,227,330,1193000,Sideshow Mel,MERCEDES,"No, they didn't. They attacked us in a horribly bloody battle. Remember?"
+54901,227,331,1197000,Homer Simpson,MERCEDES,"Actually, I didn't see it, but on the poster it..."
+54902,227,332,1199000,Sideshow Mel,MERCEDES,Jump!!!
+54903,227,333,1200000,Sideshow Mel,MERCEDES,"Homer, are you okay?!"
+54904,227,334,1203000,Homer Simpson,MERCEDES,I think so.
+54905,227,335,1204000,Homer Simpson,MERCEDES,No.
+54908,227,338,1209000,Sideshow Mel,Lobby,"All in favor, say die!"
+54909,227,339,1209000,Sideshow Mel,Lobby,That digital sound really lets you hear the blood splatter.
+54910,227,340,1217000,Homer Simpson,Lobby,"I don't get it, Mel. How can you be so calm and cool? My stomach's full of vomiting butterflies."
+54911,227,341,1222000,Homer Simpson,Lobby,"Okay, that's it. Let's get ready to meet our public."
+54912,227,342,1229000,Moe Szyslak,Lobby,"Well, that was disgusting."
+54877,227,343,1231000,Comic Book Guy,Lobby,Worst ending ever.
+54400,227,344,1233000,Ned Flanders,Lobby,I think I'm gonna be sick.
+54913,227,345,1235000,Woman,Lobby,I'm Jimmy Stewart's granddaughter and you'll be hearing from my attorney!
+54914,227,346,1239000,Homer Simpson,Lobby,/ Ow!
+54915,227,347,1240000,Homer Simpson,Lobby,We shoulda put in the dog with the shifty eyes.
+54916,227,348,1243000,Homer Simpson,Lobby,"Oh, I'm sorry I ruined your career, Mel."
+54917,227,349,1248000,Sideshow Mel,Lobby,"It's not your fault, Homer. I guess there's just no room in today's crazy, gentle America for violent dinosaurs like us."
+54918,227,350,1255000,Homer Simpson,Lobby,"How did the country lose its way, Mel? When did we stop rooting for the man with the flame-thrower, or an acid-spraying gun of some kind?"
+54919,227,351,1263000,Sideshow Mel,Lobby,I blame the Internet. And the return of swing music.
+54920,227,352,1266000,Homer Simpson,Lobby,"Well, whatever it is, we've got to get rolling on our next picture."
+54921,227,353,1269000,Homer Simpson,Lobby,"Hey, what about a prequel to something? Everybody loves prequels."
+54922,227,354,1273000,Sideshow Mel,Lobby,I don't.
+54923,227,355,1274000,Homer Simpson,Lobby,"Okay, Mr. Difficult. How about a teen sex romp where you and your buddies are always trying to get some?"
+54924,227,356,1281000,Homer Simpson,Lobby,"No, wait. A ghost who wins the lottery! You could be the ghost or the lottery commissioner. Ooh, what about Indiana Jones? Does anyone own the rights to that?"
+54925,227,357,1293000,Homer Simpson,Lobby,"Hey, Mel. I fell out."

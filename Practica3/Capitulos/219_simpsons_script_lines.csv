@@ -1,0 +1,288 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+52170,219,1,85000,Radio Announcer,Springfield Nuclear Power Plant,"Okay, FDR is in the White House, an ice cream cone costs a nickel, and a hot new tune by Benny Goodman is hitting the charts. The year is 1939."
+52171,219,2,97000,Homer Simpson,Springfield Nuclear Power Plant,"19-- 1939?! Oh my God, I've gone back in time!"
+52172,219,3,102000,Homer Simpson,Springfield Nuclear Power Plant,I've got to warn everybody about Hitler! And get to the ice cream store!
+52173,219,4,106000,Lenny Leonard,Springfield Nuclear Power Plant,"Heya, Homer, what's all the hubbub?"
+52174,219,5,108000,Carl Carlson,Springfield Nuclear Power Plant,Let me guess. You travel back in time again?
+52175,219,6,110000,Homer Simpson,Springfield Nuclear Power Plant,Shut up! You haven't even been born yet.
+52176,219,7,112000,Lenny Leonard,Springfield Nuclear Power Plant,"Easy, Homer. I'll bring you back."
+52177,219,8,119000,Homer Simpson,Springfield Nuclear Power Plant,"Oh boy, am I glad to see you guys."
+52178,219,9,122000,Marty,Springfield Nuclear Power Plant,"That was Men Without Hats. Or as they're known today, Men Without Jobs."
+52179,219,10,129000,Bill,Springfield Nuclear Power Plant,"Don't go there, Marty!"
+52180,219,11,130000,Marty,Springfield Nuclear Power Plant,I'm not going anywhere. I'm staying right here at P.J. O'Harrigan's!
+52184,219,13,134000,Bill,P.J. O'HARRIGAN'S,"We're broadcasting live from P.J. O'H.'s, and this place makes ""Animal House"" look like ""Terms of Endearment""."
+52185,219,14,139000,Marty,P.J. O'HARRIGAN'S,"We're kickin' off our thirty-fifth consecutive happy hour, with no end in sight, so come on down!"
+52187,219,16,145000,Lenny Leonard,Springfield Nuclear Power Plant,"Man, that sounds like a swingin' shindig."
+52188,219,17,148000,Carl Carlson,Springfield Nuclear Power Plant,"Yeah, too bad we gotta work, huh, Homer? Homer?"
+52189,219,18,151000,Homer Simpson,Springfield Nuclear Power Plant,Woo hoo! Let's party!
+52191,219,20,153000,Marge Simpson,Simpson Home,"Wake up, Homer."
+52193,219,22,156000,Marge Simpson,Simpson Home,"C'mon, move your butt! You're blocking traffic!"
+52194,219,23,161000,Homer Simpson,Simpson Home,That's no way to address Sir Drinks-A-Lot.
+52195,219,24,165000,Marge Simpson,Simpson Home,"Come on, let's get you inside and scrape the gum out of your hair."
+52196,219,25,169000,Homer Simpson,Simpson Home,Okay.
+52197,219,26,170000,Homer Simpson,Simpson Home,"Hey, Marge, what's your favorite radio station?"
+52198,219,27,177000,Homer Simpson,Simpson Home,"Well, Marge?"
+52199,219,28,178000,Marge Simpson,Simpson Home,What?
+52200,219,29,179000,Homer Simpson,Simpson Home,What's your favorite radio station?
+52201,219,30,181000,Lisa Simpson,Simpson Home,"Okay, Dad, we're ready."
+52202,219,31,183000,Homer Simpson,Simpson Home,"Hey, that's super! See you later."
+52203,219,32,186000,Lisa Simpson,Simpson Home,Dad! Don't you remember? It's our special Saturday.
+52204,219,33,190000,Marge Simpson,Simpson Home,You agreed to spend one Saturday a month doing something with the kids.
+52206,219,35,195000,Bart Simpson,Simpson Home,"Oh, quit complaining. It's half the work of the divorced dad."
+52207,219,36,198000,Homer Simpson,Simpson Home,"Yeah, but it's twice as much as a deadbeat dad."
+52208,219,37,202000,Marge Simpson,Simpson Home,Homer...
+52209,219,38,203000,Homer Simpson,Simpson Home,They know I'm kidding.
+52210,219,39,207000,Homer Simpson,Simpson Home,"Okay, Bart, it's your turn to pick. Where are we headed? Bowling? Demolition derby? P.J. O'Harrigans? Isn't that a funny name? Huh? Huh?"
+52211,219,40,215000,Bart Simpson,Simpson Home,"Hysterical, but I traded my turn to Lisa for her dessert."
+52212,219,41,219000,Homer Simpson,Simpson Home,"We did a Lisa thing last month. And I'm glad we did, but now I think we should do something normal people would like."
+52213,219,42,227000,Lisa Simpson,Simpson Home,"Why do you assume that I won't pick something fun? Let's see... Oh, this looks very educatio--"
+52157,219,44,234000,Lisa Simpson,Simpson Home,"Well, this could be quite enlighten--"
+52183,219,46,237000,Lisa Simpson,Simpson Home,Fine. How about--
+52215,219,48,239000,Marge Simpson,Simpson Home,She didn't say it yet!
+52216,219,49,241000,Homer Simpson,Simpson Home,"Go ahead, sweetie."
+52217,219,50,242000,Lisa Simpson,Simpson Home,The book fair?
+52218,219,51,243000,Homer Simpson,Simpson Home,"Oh, no! Ho, ho. I'm not falling for that again. If it doesn't have Siamese twins in a jar, it's not a fair."
+52219,219,52,250000,Lisa Simpson,Simpson Home,"Oh, this is perfect!"
+52220,219,53,253000,Homer Simpson,Simpson Home,We're gonna go see Marmaduke?
+52221,219,54,255000,Lisa Simpson,Simpson Home,No! The Smithsonian Traveling Exhibit.
+52222,219,55,258000,Lisa Simpson,Simpson Home,It encapsulates America and makes history come alive!
+52223,219,56,261000,Homer Simpson,Simpson Home,What? And Marmaduke doesn't?
+52224,219,57,262000,Lisa Simpson,Simpson Home,"Sorry, Dad. My mind is made up."
+52225,219,58,265000,Homer Simpson,Simpson Home,"This is all your fault for trading away your turn. Just for that, no dessert tonight!"
+52226,219,59,269000,Bart Simpson,Simpson Home,Trade you my next turn for your dessert.
+52227,219,60,270000,Lisa Simpson,Simpson Home,Deal.
+52230,219,63,274000,Lisa Simpson,Springfield Convention Center,"Hey, how come the Smithsonian needs to be sponsored by a cel phone company?"
+52231,219,64,278000,Omnitouch Rep,Springfield Convention Center,"I can answer that. Uncle Sam needs to spend our tax dollars on the essentials: anti-tobacco programs, pro-tobacco programs, killing wild donkeys, and Israel."
+52232,219,65,287000,Homer Simpson,Springfield Convention Center,Good ol' government.
+52233,219,66,289000,Lisa Simpson,Springfield Convention Center,"Yeah, but corporate sponsorship cheapens our nation's treasures."
+52234,219,67,293000,Omnitouch Rep,Springfield Convention Center,"Actually, they're OmniTouch's treasures now. We bought 'em during the last budget crisis."
+52235,219,68,304000,Lisa Simpson,Springfield Convention Center,"Look, they have Lincoln's hat!"
+52236,219,69,308000,Homer Simpson,Springfield Convention Center,Thank God for grave robbers.
+52237,219,70,310000,Lisa Simpson,Springfield Convention Center,America's greatest citizen summed up in one piece of clothing.
+52238,219,71,315000,Homer Simpson,Springfield Convention Center,Fonzie's jacket!
+52239,219,72,318000,Bart Simpson,Springfield Convention Center,Who's Fonzie?
+52240,219,73,320000,Homer Simpson,Springfield Convention Center,Who's Fonzie?! Don't they teach you anything in school? He freed the squares.
+52241,219,74,325000,Lisa Simpson,Springfield Convention Center,How can they put a prop from a TV show next to the Bill of Rights?
+52242,219,75,329000,Bart Simpson,Springfield Convention Center,So what's so great about the Bill of Rights?
+52243,219,76,332000,Lisa Simpson,Springfield Convention Center,"It guarantees all of the basic freedoms -- speech, religion, the right to a speedy trial..."
+52245,219,77,338000,Homer Simpson,Springfield Convention Center,Where? I don't see that.
+52246,219,78,339000,Lisa Simpson,Springfield Convention Center,"Dad, don't do that!"
+52247,219,79,344000,Security Guard #1,Springfield Convention Center,Get out of Archie Bunker's chair! Now!
+52248,219,80,346000,Homer Simpson,Springfield Convention Center,Relax. I'm just boning up on the ol' Constitution.
+52249,219,81,349000,Security Guard #2,Springfield Convention Center,"Ohh, you're gonna regret that, pinko..."
+52251,219,83,352000,Security Guard #1,Springfield Convention Center,"Oh, I am so sick of people hiding behind the Bill of Rights."
+52252,219,84,355000,Security Guard #2,Springfield Convention Center,"Look, he got chocolate on it!"
+52253,219,85,357000,Homer Simpson,Springfield Convention Center,I didn't mean to! Look!
+52254,219,86,361000,Security Guard #1,Springfield Convention Center,Mm-hm. You just licked off the part that forbids cruel and unusual punishment.
+52255,219,87,366000,Security Guard #2,Springfield Convention Center,Beautiful.
+52256,219,88,367000,Omnitouch Rep,Springfield Convention Center,"Really, that much? It's gonna cost ten thousand dollars to repair that document."
+52257,219,89,372000,Homer Simpson,Springfield Convention Center,Wha?!
+52258,219,90,373000,Omnitouch Rep,Springfield Convention Center,Of course OmniTouch understands that real money doesn't grow on trees. Not these days.
+52259,219,91,378000,Homer Simpson,Springfield Convention Center,"Finally, a company that understands my needs."
+52260,219,92,381000,Omnitouch Rep,Springfield Convention Center,We sure do. It's called caring.
+52261,219,93,384000,Homer Simpson,Springfield Convention Center,So we're even then?
+52262,219,94,385000,Omnitouch Rep,Springfield Convention Center,Not by a long shot. But I have a solution that'll work out for both of us -- especially you.
+52264,219,96,392000,Marge Simpson,Simpson Home,I don't want a cellular transmitter sticking out of my roof!
+52265,219,97,396000,Omnitouch Rep,Simpson Home,"We prefer to think of them as ""keep-in-touch towers."""
+52266,219,98,396000,Homer Simpson,Simpson Home,"It's called caring, Marge."
+52267,219,99,401000,Omnitouch Rep,Simpson Home,Plus you've increased Springfield's roaming capabilities 64 percent.
+52268,219,100,405000,Homer Simpson,Simpson Home,"Ya gotta admit, Marge, that's a lot more roaming."
+52269,219,101,407000,Marge Simpson,Simpson Home,I guess...
+52270,219,102,412000,Homer Simpson,Simpson Home,"Hey, this is pretty comfortable. That Andy Capp was onto something."
+52271,219,103,417000,Lisa Simpson,Simpson Home,"Ugh, that antenna is an eyesore."
+52272,219,104,419000,Homer Simpson,Simpson Home,"Just pretend it's a tree, honey. Or as we say at OmniTouch, a Progress Tree."
+52273,219,105,421000,Lisa Simpson,Simpson Home,"Yeah, well, I hope it doesn't hum too loud, 'cause I have a ton of homework to do, and if I don't finish it by..."
+52274,219,106,431000,Lisa Simpson,Simpson Home,My room!
+52275,219,107,434000,Homer Simpson,Simpson Home,Wha?! I heard a yell. Did you touch a wire?
+52276,219,108,437000,Lisa Simpson,Simpson Home,What happened to my room?!
+52277,219,109,439000,Homer Simpson,Simpson Home,"Nothing. They just needed a place to put all the electronic gizmos, and I know how much you like that sciencey stuff so I..."
+52278,219,110,446000,Lisa Simpson,Simpson Home,You gave away my room!
+52279,219,111,449000,Homer Simpson,Simpson Home,"Come on, Lisa, try and see this from the OmniTouch Corporation's point of view."
+52280,219,112,454000,Omnitouch Rep,Simpson Home,"Your father's right, Lisa. Cellular service is about communication and unity: community."
+52282,219,114,473000,Lisa Simpson,Simpson Home,"I can't believe you did this, Dad. Why didn't you put that thing in your room?"
+52283,219,115,477000,Homer Simpson,Simpson Home,Hm. That thought never occurred to me. Funny how your mind works in a crisis.
+52284,219,116,481000,Marge Simpson,Simpson Home,It's just until we pay off Daddy's desecration of a priceless artifact. I thought I'd never have to say that again.
+52285,219,117,488000,Lisa Simpson,Simpson Home,But where am I supposed to live?!
+52286,219,118,491000,Homer Simpson,Simpson Home,"Lisa, what's your favorite movie?"
+52287,219,119,494000,Lisa Simpson,Simpson Home,"Until you taped over it, ""The Little Mermaid."""
+52288,219,120,497000,Homer Simpson,Simpson Home,"That's right, ""The Odd Couple."" So meet your comically mismatched roommate, Bart Simpson."
+52289,219,121,508000,Bart Simpson,Simpson Home,I'm gonna make your life a living hell.
+52292,219,124,516000,Lisa Simpson,Simpson Home,Dad!
+52295,219,127,523000,Bart Simpson,Bart's Bedroom,"Okay, if you're gonna live in my room, you're gonna obey my rules. One: I am Bart, thy God. If I Am out, the Krusty doll is thy God. If the doll's with me, you will worship the night light. Should the night light be unable to fulfill its duties..."
+52296,219,128,537000,Lisa Simpson,Bart's Bedroom,Shut up.
+52297,219,129,537000,Bart Simpson,Bart's Bedroom,You shut up.
+52298,219,130,538000,Lisa Simpson,Bart's Bedroom,"Ugh, this is not gonna work."
+52299,219,131,540000,Bart Simpson,Bart's Bedroom,"No, you shut up."
+52305,219,137,552000,Seymour Skinner,Simpson Home,"Hello, Mother?"
+52306,219,138,553000,Marge Simpson,Simpson Home,Maggie?!
+52307,219,139,554000,Agnes Skinner,Simpson Home,Seymour? You were supposed to call me three minutes ago!
+52308,219,140,558000,Marge Simpson,Simpson Home,Ooh...
+52310,219,142,558000,Seymour Skinner,TWO-LANE HIGHWAY,"Sorry, Mother. I was driving through a tunnel and my cel phone wouldn't work."
+52312,219,144,561000,Agnes Skinner,Skinner Home,I don't want you driving through tunnels. You know what that symbolizes.
+52314,219,146,565000,Seymour Skinner,Simpson Home,"But Mother, it cuts 90 minutes off my drive."
+52315,219,147,568000,Agnes Skinner,Simpson Home,No tunnels!
+52316,219,148,569000,Marge Simpson,Simpson Home,"Homer, we're picking up cel phone calls over the baby monitor!"
+52317,219,149,572000,Homer Simpson,Simpson Home,"Ooh, anything spicy?"
+52318,219,150,574000,Marge Simpson,Simpson Home,"Oh, that's not the point. We should report this to an OmniTouch Care-Rep. People's privacy is at stake."
+52319,219,151,580000,Homer Simpson,Simpson Home,Great. I'm gonna eat mayonnaise!
+52321,219,153,589000,Lisa Simpson,Simpson Home,"Bart, stop it."
+52322,219,154,590000,Bart Simpson,Simpson Home,Stop what?
+52323,219,155,591000,Lisa Simpson,Simpson Home,Squeaking that chair!
+52324,219,156,593000,Bart Simpson,Simpson Home,"Hey, that's what I do in my room, 'Lis. I squeak my chair."
+52325,219,157,597000,Lisa Simpson,Simpson Home,Ohhh! Quit it! Quit it! Quit it! Quit it!
+52326,219,158,600000,Homer Simpson,Simpson Home,"Well, well, if it isn't Frick and Frack, Jack and Jill, Fred and Ethel, the Three..."
+52327,219,159,606000,Lisa Simpson,Simpson Home,"Dad, will you please tell Bart to stop squeaking his chair. I'm trying to do my homework."
+52328,219,160,610000,Homer Simpson,Simpson Home,"Bart, stop squeaking your chair!"
+52329,219,161,612000,Homer Simpson,Simpson Home,"If you've got to do something, click this pen."
+52330,219,162,617000,Lisa Simpson,Simpson Home,No-ho-ho...
+52331,219,163,618000,Homer Simpson,Simpson Home,"Hey, that looks like fun."
+52332,219,164,619000,Bart Simpson,Simpson Home,Race ya!
+52333,219,165,620000,Homer Simpson,Simpson Home,"You're on! Lisa, you play winner."
+52334,219,166,629000,Homer Simpson,Simpson Home,"Oh, honey, you missed a great race. Bart was winning, but then he said ""this is stupid"" and he stopped, and I won!"
+52335,219,167,634000,Lisa Simpson,Simpson Home,I am trying to do my homework.
+52336,219,168,637000,Homer Simpson,Simpson Home,"Hey, you're mad at me. That wasn't your mayonnaise, was it?"
+52337,219,169,642000,Lisa Simpson,Simpson Home,"Dad, why did you have to take away my room?"
+52338,219,170,645000,Homer Simpson,Simpson Home,Maybe you'd feel better if we watched some TV together.
+52339,219,171,648000,Lisa Simpson,Simpson Home,I just want to study.
+49376,219,172,650000,Homer Simpson,Simpson Home,That's no fun.
+50982,219,173,651000,Lisa Simpson,Simpson Home,It is to me.
+52340,219,174,653000,Homer Simpson,Simpson Home,No it's not.
+52341,219,175,654000,Lisa Simpson,Simpson Home,Da-ad!
+52342,219,176,656000,Homer Simpson,Simpson Home,"Oooh, here's something you'd like. ""When Animals Attack Magicians."""
+52343,219,177,660000,Magician,Simpson Home,Pick a card. Any...
+52347,219,181,665000,Lisa Simpson,Simpson Home,That's awful!
+52348,219,182,667000,Homer Simpson,Simpson Home,Awful entertaining.
+52349,219,183,668000,Lisa Simpson,Simpson Home,"Ooh, my stomach hurts."
+52351,219,185,671000,Krusty the Clown,KITCHEN,"Hey, it's Krusty. I need you to get me out of another jam."
+52352,219,186,675000,Krusty the Clown,KITCHEN,"I picked up this chick last night. At least, I thought she was a chick."
+52353,219,187,681000,Marge Simpson,KITCHEN,Show biz is so fascinating.
+52354,219,188,684000,Lisa Simpson,KITCHEN,"Mom, I don't feel so good."
+52355,219,189,690000,Marge Simpson,KITCHEN,"What is it, honey?"
+52356,219,190,691000,Lisa Simpson,KITCHEN,My tummy really hurts.
+52357,219,191,693000,Homer Simpson,KITCHEN,Somebody wants mommy to change baby's diaper.
+52358,219,192,697000,Marge Simpson,KITCHEN,"Is that somebody you, Homer?"
+52359,219,193,700000,Homer Simpson,KITCHEN,Yes it is.
+52360,219,194,701000,Marge Simpson,KITCHEN,"Okay, then you can take Lisa to Dr. Hibbert's."
+52361,219,195,704000,Homer Simpson,KITCHEN,Great. Maybe on the way back we can swing by the demolition derby and have a nice talk.
+52362,219,196,710000,Lisa Simpson,KITCHEN,Sounds great.
+52364,219,198,712000,Dr. Julius Hibbert,Dr. Hibbert's Office,Lisa I'm afraid your tummy ache may be caused by stress.
+52365,219,199,716000,Homer Simpson,Dr. Hibbert's Office,"Well, that's a relief."
+52366,219,200,719000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Yes... Anyway, when it comes to stress, I believe laughter is the best medicine. You know before I learned to chuckle mindlessly, I was headed for an early grave myself."
+52367,219,201,730000,Homer Simpson,Dr. Hibbert's Office,"Give it a try, honey."
+52369,219,203,734000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Ohh, now you call that chuckling? Come on, child, force it!"
+52370,219,204,737000,Lisa Simpson,Dr. Hibbert's Office,I'm really not the chuckling type.
+52371,219,205,739000,Homer Simpson,Dr. Hibbert's Office,"It's true. I'm always making clever noises, and she never chuckles at 'em."
+52372,219,206,744000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Well, I could prescribe some harsh antacids, but I think Lisa would benefit more from some herbal teas or aromatherapy."
+52374,219,207,752000,Lisa Simpson,Dr. Hibbert's Office,"Yeah, ya know some of that all-natural stuff is really very well --"
+52375,219,208,756000,Homer Simpson,Dr. Hibbert's Office,"Oh, no you don't. Screw that touchy, queery crap! We'll take the harsh antacids. Nothing's too good for my little girl."
+52377,219,210,764000,Homer Simpson,Medical Building,I sure settled his hash. Imagine that quack thinking you'd try one of those crazy New-Age cures.
+52378,219,211,769000,Lisa Simpson,Medical Building,"They're not all crazy, Dad."
+52379,219,212,771000,Homer Simpson,Medical Building,"Sure they are, honey."
+52380,219,213,774000,Lisa Simpson,Medical Building,"You know, just because you say something is crazy, doesn't make it so. And just because you think museums are boring and demolition derbies are fun, doesn't make that true either!"
+52381,219,214,784000,Homer Simpson,Medical Building,"I'm sorry, Lisa. Oh, it's not your fault. I know we love each other, Dad, but we're two very different people. And, much as I hate to say it, as time goes on, we'll probably just drift further and further apart."
+52382,219,215,798000,Homer Simpson,Medical Building,"Oh Lisa, honey, I won't ever let that happen."
+52385,219,218,807000,Lisa Simpson,New Age Store,"Dad, you don't have to go to a New Age store just for me. I know you think this stuff is stupid."
+52386,219,219,812000,Homer Simpson,New Age Store,"Nah, you must be thinking of your mother. I'm always exploring alternatives and expanding my horizons into realms of... Can't we just go in?"
+52387,219,220,824000,Homer Simpson,New Age Store,"Oh good, I've been meaning to buy a ""Dream Catcher?"" Gimme a break."
+52388,219,221,829000,Lisa Simpson,New Age Store,I just wish you could keep an open mind about other cultures.
+52389,219,222,832000,Homer Simpson,New Age Store,"Other cultures are fine. I'm just saying I can get along in life without a ""tooth brush."""
+52390,219,223,833000,New Age Clerk,New Age Store,Namaste.
+52391,219,224,838000,Homer Simpson,New Age Store,And a ooga-booga to you too.
+52392,219,225,841000,New Age Clerk,New Age Store,May I tell you about our White Light Specials?
+52393,219,226,843000,Homer Simpson,New Age Store,Absolutely not. My little girl's tummy hurts. Do you have anything to stop her complaining?
+52394,219,227,848000,Lisa Simpson,New Age Store,Da-ad.
+52395,219,228,850000,New Age Clerk,New Age Store,"Here, try this wheatgrass juice."
+52396,219,229,854000,Lisa Simpson,New Age Store,Bleagghhh!
+52397,219,230,855000,New Age Clerk,New Age Store,"Well, your tongue works."
+52398,219,231,858000,Homer Simpson,New Age Store,"Let's try some oil of Lorenzo. And, uh, what's keeping Joan Rivers alive?"
+52399,219,232,862000,New Age Clerk,New Age Store,Fetal grindings. But I have a better idea.
+52400,219,233,866000,Homer Simpson,New Age Store,Oh no. No freezing.
+52401,219,234,868000,New Age Clerk,New Age Store,"No, Mr. Simpson, this is a sensory deprivation tank. It blocks out all the external distractions that bombard our souls."
+52402,219,235,872000,Homer Simpson,New Age Store,Can you pee in it?
+52403,219,236,877000,Lisa Simpson,New Age Store,I'll take two hours.
+52404,219,237,877000,Homer Simpson,New Age Store,Me too.
+52405,219,238,880000,New Age Clerk,New Age Store,"You're about to take a journey into the mind. You may see and experience things that are strange and frightening. But remember, they can't physically harm you, though they may destroy you mentally."
+52406,219,239,891000,Homer Simpson,New Age Store,"Oh, my."
+148692,219,241,899000,Lisa's Thoughts,Lisa's Tank,"This is kind of relaxing. But it's so hard to turn off my brain. I have to stop thinking... starting now. Hey, it worked. Oh no, that's thinking!"
+148584,219,243,912000,Homer's Brain,Homer's Tank,Bo-ring.
+52410,219,245,917000,Moe Szyslak,Simpson Home,"Lenny, how ya doin'? It's Moe. I got some class three gossip here."
+52411,219,246,920000,Lenny Leonard,Simpson Home,"Well, dish!"
+52412,219,247,921000,Moe Szyslak,Simpson Home,"Groundskeeper Willie, you know the guy in the skirt? He bought himself a mail-order bride, but he was too cheap to pay the C.O.D., right? So she's still in a crate down at the post office! Wanna go look-see?"
+52413,219,248,931000,Marge Simpson,Simpson Home,This sounds juicy.
+52414,219,249,935000,Bart Simpson,Simpson Home,"Hmmm... Hey, Milhouse. Wanna have some fun?"
+52415,219,250,940000,Milhouse Van Houten,Simpson Home,Okay.
+52418,219,253,945000,Lisa Simpson,Lisa's Tank,How am I supposed to hallucinate with all these swirling colors distracting me?
+52422,219,254,951000,Lisa's Thoughts,Lisa's Tank,Hey...
+148693,219,255,952000,Lisa's Thoughts,Lisa's Tank,"Ohh, it's a ball of yarn. That's funny, I feel like batting it around."
+148694,219,256,958000,Lisa's Thoughts,Lisa's Tank,I have a paw!
+148695,219,257,964000,Lisa's Thoughts,Lisa's Tank,"Oh my gosh, I've entered the body of our cat!"
+148696,219,259,969000,Lisa's Thoughts,Lisa's Tank,"Beh! Mag-gie! Hey, hey, get your sticky hands off me. Owww!"
+52420,219,260,975000,Marge Simpson,Lisa's Tank,Bad cat! Leave her alone!
+52421,219,262,982000,Lisa Simpson,Lisa's Tank,"Wow, my mind just created that out of nothing. This tank is releasing the full potential of my brain."
+52423,219,264,988000,Homer Simpson,Homer's Tank,OOH EEE OOH AH AH / TING TANG WALLA WALLA BING BANG / OOH EEE OOH AH AH / WALLA BING BANG TING TING TOOO!
+52425,219,266,996000,Marge Simpson,Simpson Home,"C'mon, c'mon, I need some gossip, here! Where is everybody? Does this town shut down at 5 o'clock?"
+52426,219,267,1003000,Deep Male Voice,Simpson Home,Frankie.
+52428,219,269,1003000,Deep Male Voice,Simpson Home,"...It's me, Killer. I just busted out of prison and the cops are after me."
+52429,219,270,1008000,Marge Simpson,Simpson Home,"Ooh, talk to me, baby."
+52430,219,271,1011000,Deep Male Voice,Simpson Home,"Okay, I think I lost 'em."
+52431,219,272,1015000,Deep Male Voice,Simpson Home,"Uh-oh, a cow!"
+52432,219,273,1017000,Deep Male Voice,Simpson Home,"Eat lead, Bossy! Listen, Tony. I need some place to hide. Oh. This place looks good: Seven forty-two Evergreen Terrace."
+52434,219,275,1023000,Deep Male Voice,Simpson Home,Now to open the door and kill whoever's inside.
+52435,219,276,1033000,Deep Male Voice,Simpson Home,I'll start by turning the knob...
+52436,219,277,1037000,Milhouse Van Houten,Simpson Home,"Gotcha, Mrs..."
+52437,219,278,1037000,Milhouse Van Houten,Simpson Home,Ow!
+52438,219,279,1040000,Marge Simpson,Simpson Home,Oh my God!
+52439,219,280,1044000,Bart Simpson,Simpson Home,"Oh, Mom, you are a prankster's dream. Wow, you really clobbered him!"
+52440,219,281,1049000,Marge Simpson,Simpson Home,That was a horrible trick to play on your mother!
+52441,219,282,1052000,Bart Simpson,Simpson Home,"Yeah, well, it serves you right for eavesdropping."
+52442,219,283,1056000,Marge Simpson,Simpson Home,"Hm. Well, I guess we both learned a lesson. But if anybody asks, you hit him."
+52445,219,286,1063000,New Age Clerk,New Age Store,But you can't just repossess our merchandise.
+52446,219,287,1066000,New Age Clerk,New Age Store,The I Ching said I had six months until bankruptcy!
+52447,219,288,1069000,Repo Man #1,New Age Store,"Hey, channel somebody who gives a damn."
+52448,219,289,1072000,New Age Clerk,New Age Store,Can't we discuss this over some Sympathy Tea?
+52449,219,290,1075000,Repo Man #1,New Age Store,"Sorry, the teas are already on the truck."
+52450,219,291,1078000,Repo Man #1,New Age Store,There's only enough room on the truck for this one. We'll get the other one later.
+52452,219,293,1085000,Homer Simpson,Homer's Tank,"Heyyy, this piece of junk is finally doing something."
+52453,219,294,1091000,Repo Man #2,Homer's Tank,"Oh! Oh man, this is heavy."
+52454,219,295,1092000,Repo Man #1,Homer's Tank,You should lift with your legs.
+52456,219,296,1094000,Repo Man #2,Homer's Tank,"Ah, screw it. I've got health insurance."
+52459,219,299,1104000,Repo Man #1,Repo Truck,Abra cadabra. The crystal says... your baby shall be a girl.
+52460,219,300,1106000,Repo Man #2,Repo Truck,Shut up!
+52463,219,303,1115000,Homer Simpson,Homer's Tank,Woo! Sensory deprivation kicks ass.
+52465,219,305,1122000,Maude Flanders,Country Road,"Oh, Neddy, you almost hit that coffin."
+52466,219,306,1125000,Ned Flanders,Country Road,"Leapin' Lazarus! Is this what passes for eternal rest these days? Rod, go get Daddy his buryin' shovel."
+52467,219,307,1132000,Rod Flanders,Country Road,Yay!
+52469,219,309,1135000,Todd Flanders,GRASSY AREA,"You sure buried him deep, Daddy."
+52470,219,310,1137000,Ned Flanders,GRASSY AREA,Not so deep the Lord can't find him... and judge him.
+52471,219,311,1141000,Rod Flanders,GRASSY AREA,This is the best birthday I ever had!
+52473,219,313,1147000,Homer Simpson,Homer's Tank,"Okay, I'm ready to get out now... Yoo hoo! Hippie lady! Hippie lady?! Hey! Hippie lady!"
+52475,219,315,1157000,Homer Simpson,UNDERGROUND,Whoa! What's going on? Ow! Oh! This inner peace stuff is tough on the old coconut.
+52477,219,317,1169000,Homer Simpson,SPRINGFIELD BEACH,Hippie Lady I wanna get out.
+52478,219,318,1176000,Ralph Wiggum,SPRINGFIELD BEACH,"Look, Daddy, a whale egg."
+52479,219,319,1178000,Chief Wiggum,SPRINGFIELD BEACH,"Oh geez, I am so sick of companies dumping their crud in our ocean without a permit. It's not like those permits are hard to get."
+52480,219,320,1185000,Chief Wiggum,SPRINGFIELD BEACH,You're going right back where you came from.
+52481,219,321,1188000,Ralph Wiggum,SPRINGFIELD BEACH,"But Daddy, you're on vacation."
+52482,219,322,1190000,Chief Wiggum,SPRINGFIELD BEACH,Crime doesn't take a vacation.
+52483,219,323,1194000,Louie,SPRINGFIELD BEACH,"Hey, hey, hey careful, you'll pop it!"
+52486,219,326,1196000,Lisa Simpson,Lisa's Tank,"Wow, I've been a cat, a tree, and Cokie Roberts! It's happening again! I wonder where I'm going this time."
+148698,219,327,1204000,Lisa's Thoughts,Lisa's Tank,"Oh, yuck! That sandwich is full of meat. There's bacon, Canadian bacon, Mexican bacon..."
+148699,219,328,1218000,Lisa's Thoughts,Lisa's Tank,...and a mouth-watering veal chop.
+148700,219,329,1223000,Lisa's Thoughts,Lisa's Tank,"Oh, no. Now I'm Dad."
+148701,219,330,1226000,Lisa's Thoughts,Lisa's Tank,"And I'm at a stupid, boring ballet."
+52488,219,332,1234000,Lisa Simpson,Lisa's Tank,"Dad, wake up!"
+148703,219,333,1236000,Lisa's Thoughts,Lisa's Tank,Whuh?
+52489,219,334,1236000,Lisa Simpson,Lisa's Tank,Your snoring is disturbing the dancers.
+52490,219,335,1240000,Lisa Simpson,Lisa's Tank,How can you embarrass me like this? You won't sit through anything that doesn't have car crashes!
+148704,219,336,1245000,Lisa's Thoughts,Lisa's Tank,"I'm sorry, honey."
+148705,219,337,1247000,Lisa's Thoughts,Lisa's Tank,"Geez, why is Lisa so mad at me? I only came to this dump so I could be with her. And, what happened to my big sandwich?"
+52491,219,339,1262000,Lisa Simpson,Lisa's Tank,"Boy, I can really be a pain in the butt."
+52493,219,341,1266000,Lisa Simpson,New Age Store,"Gee, I should cut Dad some slack. After all, he did take me to the ballet, and the Smithsonian exhibit... In fact, he takes me lots of places he hates."
+52494,219,342,1277000,Homer Simpson,New Age Store,I told the witch doctor there's tightness in my chest. Bom-bom-bom-bom... I told the witch doctor he had to run a test...
+52495,219,343,1284000,Homer Simpson,New Age Store,Hi sweetie.
+52496,219,344,1286000,Lisa Simpson,New Age Store,"Hi, Dad. How was it?"
+52497,219,345,1287000,Homer Simpson,New Age Store,I went on a wild ride without ever leaving the building. How was yours?
+52498,219,346,1292000,Lisa Simpson,New Age Store,"Pretty cool. But now, whaddaya say we go do something we'll both enjoy?"
+52499,219,347,1297000,Homer Simpson,New Age Store,Like what?
+52500,219,348,1302000,Homer Simpson,New Age Store,"Whoa, look at that car burn! Does it get any better than this?"
+52501,219,349,1306000,Lisa Simpson,New Age Store,"Not to me, Dad."
+52502,219,350,1314000,Announcer,New Age Store,And here comesssss the pendulum!

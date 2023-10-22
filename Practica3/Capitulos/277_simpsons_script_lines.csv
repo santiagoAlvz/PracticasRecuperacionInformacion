@@ -1,0 +1,251 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+70091,277,1,32000,Homer Simpson,Springfield Library,"A library selling books? If I don't want 'em for free, why would I want to pay for 'em?"
+70092,277,2,37000,Marge Simpson,Springfield Library,Why do you always wait 'til we arrive to complain?
+70093,277,3,42000,Homer Simpson,Springfield Library,I don't know.
+70094,277,4,43000,Comic Book Guy,Springfield Library,"Ah, the full Leonard Nimoy cycle. ""I Am Not Spock"", then ""I Am Spock"", and finally ""I Am Also Scotty""."
+70095,277,5,62000,Cashier,Springfield Library,Good heavens.
+70096,277,6,63000,Marge Simpson,Springfield Library,"Lisa, you're not buying more than your weight in books."
+70097,277,7,66000,Lisa Simpson,Springfield Library,But I have to save them! The books no one buys get chopped up and fed to pigs.
+70098,277,8,73000,Cletus Spuckler,Springfield Library,Helen Fielding's giving them pigs Bridget Jones' diarrhea.
+70099,277,9,79000,Marge Simpson,Springfield Library,"Well, what about this? ""The Duff Book Of World Records."""
+70100,277,10,82000,Marge Simpson,Springfield Library,It's got pictures of deformities.
+70101,277,11,85000,Homer Simpson,Springfield Library,Okay.
+70102,277,12,93000,Homer Simpson,Springfield Library,Oh my God! Wow. Now that's a goiter.
+70103,277,13,98000,Bart Simpson,Springfield Library,Why would Duff Beer put out a book?
+70104,277,14,100000,Lisa Simpson,Springfield Library,It was originally published to settle arguments in taverns.
+70105,277,15,104000,Homer Simpson,Springfield Library,"She said ""tavern"". I'm going to Moe's!"
+70106,277,16,106000,Marge Simpson,Springfield Library,I never agreed to that rule!
+70108,277,18,111000,Lenny Leonard,Moe's Tavern,"Well, I say the most clothespins a man could attach to his face is eighty-seven."
+70109,277,19,117000,Carl Carlson,Moe's Tavern,You counting the neck?
+70110,277,20,118000,Lenny Leonard,Moe's Tavern,You know I am.
+70111,277,21,119000,Carl Carlson,Moe's Tavern,All right. Outside.
+70112,277,22,123000,Homer Simpson,Moe's Tavern,"Peace, my people. All shall be looked up. Let's see, most clothespins: swallowed, inserted... here we go, clipped to face and neck. One hundred and sixteen."
+70113,277,23,135000,Lenny Leonard,Moe's Tavern,"Geez, I was wrong, but I ain't angry."
+70114,277,24,138000,Carl Carlson,Moe's Tavern,And I'm magnanimous in victory.
+70115,277,25,140000,Moe Szyslak,Moe's Tavern,"Wow, that's the best book I've ever seen!"
+70116,277,26,143000,Homer Simpson,Moe's Tavern,"No, the best book you've ever seen is Tom Clancy's ""Op Center."""
+70117,277,27,147000,Moe Szyslak,Moe's Tavern,That thing knows me better than I know myself.
+70119,277,29,151000,Homer Simpson,Simpson Kitchen,"Ooh, here's a good one: The World's Most Overrated Saint."
+70120,277,30,155000,Lisa Simpson,Simpson Kitchen,Francis of Assisi .
+70121,277,31,157000,Homer Simpson,Simpson Kitchen,I've used up all these records.
+70122,277,32,160000,Bart Simpson,Simpson Kitchen,"Why don't you try to set a record, Dad?"
+70123,277,33,161000,Homer Simpson,Simpson Kitchen,That's a great idea. Do you think I could run a mile in three and a half minutes?
+70124,277,34,165000,Lisa Simpson,Simpson Kitchen,Only on Mars.
+70125,277,35,166000,Homer Simpson,Simpson Kitchen,"The Simpsons are goin' to Mars, so pack your... Or maybe I'll think of something else."
+70127,277,37,180000,Homer Simpson,Duff Brewery,You're a cinch to be World's Fattest Man.
+70128,277,38,183000,Overweight Man,Duff Brewery,"No, I'm here for the greatest living actor."
+70130,277,40,187000,Homer Simpson,Duff World Records Office,I'm here to break a world record. What's the longest anyone's ever done this?
+70131,277,41,197000,Female Executive,Duff World Records Office,Three years.
+70132,277,42,199000,Homer Simpson,Duff World Records Office,"Fine, I'll just play the banjo with this cobra."
+70133,277,43,206000,Homer Simpson,Duff World Records Office,"Wait, wait, wait..."
+70134,277,44,208000,Male Executive,Duff World Records Office,"Uh, technically, the cobra would get the record. He's the one playing."
+70135,277,45,211000,Homer Simpson,Duff World Records Office,But it's my banjo.
+70136,277,46,212000,Female Executive,Duff World Records Office,"Mr. Simpson, there are thousands of people like you with no discernible talent."
+70137,277,47,217000,Homer Simpson,Duff World Records Office,"Yeah, they're called ""Congress""."
+70138,277,48,217000,Female Executive,Duff World Records Office,Shut up.
+70139,277,49,217000,Homer Simpson,Duff World Records Office,Okay.
+70141,277,50,221000,Male Executive,Duff World Records Office,All the individual records were set by crackpots who half-killed themselves. The only way someone new can get in the book is with some kind of group stunt.
+70142,277,51,228000,Homer Simpson,Duff World Records Office,Group stunt?
+70143,277,52,229000,Female Executive,Duff World Records Office,Like that town that made the world's largest omelet.
+70144,277,53,232000,Homer Simpson,Duff World Records Office,Denver?
+70145,277,54,232000,Female Executive,Duff World Records Office,"No, Spanish."
+70147,277,56,237000,Homer Simpson,Springfield Town Square,Fellow Springfielders. I have called you all here so we can enter the Duff Book of World Records.
+70148,277,57,245000,Townspeople,Springfield Town Square,/ What's he talking about?
+70149,277,58,245000,Homer Simpson,Springfield Town Square,We're going to build the world's tallest human pyramid!
+70151,277,60,248000,Seymour Skinner,Springfield Town Square,"Finally, this town will have a real claim to fame."
+70152,277,61,251000,Captain Horatio McCallister,Springfield Town Square,"Aye, we can stop all the lies."
+70154,277,63,259000,Krusty the Clown,Springfield Town Square,"I haven't seen this much flesh since Elke Sommers' hot-tub party. Seriously, Elke's great. Always there for sick kids. Doin' great things."
+70155,277,64,269000,Homer Simpson,Springfield Town Square,Okay. Lemme check the specs.
+70156,277,65,273000,Homer Simpson,Springfield Town Square,"Wow, my vision is coming to life!"
+70158,277,67,281000,Homer Simpson,Springfield Town Square,Mm-hm.
+70159,277,68,287000,Homer Simpson,Springfield Town Square,All right. I'll make a base camp here and try for the summit tomorrow.
+70161,277,70,293000,Bart Simpson,Springfield Town Square,"Yeah, Dad! You can be the world's laziest stunt organizer!"
+70162,277,71,296000,Homer Simpson,Springfield Town Square,Why you little!
+70163,277,72,305000,Bumblebee Man,Springfield Town Square,No mas! No mas!
+70164,277,73,328000,Female Executive,Springfield Town Square,You're about a foot short of the record.
+70166,277,75,331000,Homer Simpson,Springfield Town Square,Wait a minute.
+70167,277,76,334000,Homer Simpson,Springfield Town Square,Ha! Ha! We did it! Springfield rules!
+70168,277,77,338000,Female Executive,Springfield Town Square,Not yet. You have to hold it for three Mississippi's. One Mississippi...
+70170,277,79,345000,Female Executive,Springfield Town Square,Two Mississippi...
+70171,277,80,347000,Jimbo Jones,Springfield Town Square,"Dude, you're touching my hand!"
+70173,277,82,358000,Marge Simpson,Springfield Town Square,"Ow, my hairstyle!"
+70140,277,84,360000,Hans Moleman,Street,Not again!
+70174,277,85,363000,Businessman,Street,"Goodbye, cruel world."
+70175,277,86,366000,Businessman,Street,"Hello, ironic twist."
+70177,277,88,381000,Moe Szyslak,Street,I am so far from my car.
+70178,277,89,383000,Jimbo Jones,Street,"Dude, you're lying on top of me. Dude?"
+70179,277,90,387000,Male Executive,Street,"Wait a minute, look at the scale!"
+70180,277,91,391000,Female Executive,Street,Divide by the number of people... Subtract belts and shoes...
+70181,277,92,398000,Male Executive,Street,"Everyone, welcome to the Duff Book Of World Records: Springfield is the World's Fattest Town!"
+70182,277,93,407000,Homer Simpson,Street,Woo-Hoo! In your face Milwaukee!
+70184,277,95,416000,Mayor Joe Quimby,Springfield Town Hall,"Congratulations, fellow Springfielders! This town will no longer be known as ""America's Sorrow"". Today, I declare Springfield ""Fat City U.S.A.""!"
+70186,277,97,433000,Marge Simpson,Springfield Town Hall,I can't believe it. Everyone's celebrating their obesity!
+70187,277,98,446000,Nelson Muntz,Springfield Town Hall,Haw haw.
+70188,277,99,447000,Homer Simpson,Springfield Town Hall,"Now that everyone's so open about being fat, I can finally stop sucking in my gut."
+70190,277,101,460000,Marge Simpson,Simpson Home,I don't know how this town got so fat.
+70191,277,102,464000,Bart Simpson,Simpson Home,"Mom, we're out of ""Frosting Gobs."""
+70192,277,103,466000,Lisa Simpson,Simpson Home,"Here, have one of my fudge-stuffed toaster pies."
+70193,277,104,471000,Lisa Simpson,Simpson Home,Mmm...
+70194,277,105,477000,Marge Simpson,Simpson Home,"You kids do eat a lot of sugar. But at least Homer can have a nice, healthy grapefruit."
+70195,277,106,484000,Homer Simpson,Simpson Home,"Yeah, you can't improve on nature."
+70197,277,108,497000,Marge Simpson,Kwik-E-Mart,Look at all the empty calories.
+70198,277,109,501000,Marge Simpson,Kwik-E-Mart,"Ooo, sugar free donuts."
+70199,277,110,504000,Apu Nahasapeemapetilon,Kwik-E-Mart,"No, that is sugar with free donuts."
+70200,277,111,508000,Marge Simpson,Kwik-E-Mart,Oh.
+70201,277,112,510000,Marge Simpson,Kwik-E-Mart,"Apu, everything in this store is overloaded with sugar."
+70202,277,113,513000,Dr. Julius Hibbert,Kwik-E-Mart,Marge has a point.
+70203,277,114,515000,Dr. Julius Hibbert,Kwik-E-Mart,"Sugar is not only fattening, it's also terribly, terribly addictive. Uh, is my carton of Pixie Stix in?"
+70204,277,115,521000,Apu Nahasapeemapetilon,Kwik-E-Mart,"No, it hasn't come in yet."
+70205,277,116,523000,Dr. Julius Hibbert,Kwik-E-Mart,Damn it! When they come in you call me at this number.
+70206,277,117,529000,Apu Nahasapeemapetilon,Kwik-E-Mart,Nine one one.
+70207,277,118,529000,Apu Nahasapeemapetilon,Kwik-E-Mart,"I am sorry, but everything in this store, from the honey-glazed cauliflower to the Choco-Blasted Baby Aspirin, comes from the Motherloving Sugar Corporation."
+70208,277,119,538000,Marge Simpson,Kwik-E-Mart,"Well, I'm going to have a talk with them. Where are their worldwide headquarters located?"
+70209,277,120,543000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Why, right down the street."
+70210,277,121,545000,Marge Simpson,Kwik-E-Mart,That's lucky.
+70213,277,124,559000,CEO,MOTHERLOVING SUGAR,"Yes, I'm Garth Motherloving."
+70214,277,125,561000,MOTHERLOVING,MOTHERLOVING SUGAR,"Hey, Marge. I'm not up on the current slang, but do the kids still say ""Get the hell outta my office?"""
+70215,277,126,571000,Marge Simpson,MOTHERLOVING SUGAR,"I want you to stop putting so much sugar in everything, or at least warn people that it's so unhealthy."
+70216,277,127,578000,MOTHERLOVING,MOTHERLOVING SUGAR,"Hm, that'll boost sales. While we're at it, why don't I just change my name back to Hitler?"
+70217,277,128,583000,Marge Simpson,MOTHERLOVING SUGAR,Don't you have any sense of corporate responsibility?
+70218,277,129,589000,Marge Simpson,MOTHERLOVING SUGAR,Hey!
+70219,277,130,591000,MOTHERLOVING,MOTHERLOVING SUGAR,"Look, lady. If you have a problem, bring it up with your sewing circle, okay?"
+70220,277,131,595000,Marge Simpson,MOTHERLOVING SUGAR,But we're on hiatus. Everyone's everywhere.
+70221,277,132,598000,MOTHERLOVING,MOTHERLOVING SUGAR,Note to Marge: get out.
+70222,277,133,604000,Marge Simpson,MOTHERLOVING SUGAR,I'll play it later.
+70224,277,135,609000,Marge Simpson,Simpson Home,"If you looked up meanie-beanie-fo-feanie in the dictionary, you'd see his picture."
+70225,277,136,614000,Homer Simpson,Simpson Home,Wait. You went to a sugar factory? Were there Oompa-Loompas?
+70226,277,137,619000,Marge Simpson,Simpson Home,"There was one in a cage, but he wasn't moving."
+70228,277,139,624000,Marge Simpson,Simpson Home,"That company's ruining the whole town's health, and I don't know how to stop them."
+70229,277,140,629000,Lisa Simpson,Simpson Home,Why don't you file a class-action suit?
+70230,277,141,631000,Marge Simpson,Simpson Home,"Oh yeah, like Erin Brockovich."
+70231,277,142,635000,Bart Simpson,Simpson Home,The prostitute with a heart of gold.
+70234,277,145,639000,Marge Simpson,Car,I'm not sure I can afford a fancy lawyer.
+70235,277,146,641000,Lisa Simpson,Car,"That's okay, Mom. Today's law schools are churning out two point one lawyers for every person in America. Look."
+70236,277,147,649000,Lawyers,Car,"Pick me! / No, pick me!"
+69720,277,148,651000,Male Lawyer,Car,Me so litigious.
+70237,277,149,653000,Gil Gunderson,Car,"Ah! Pick me! I just passed the bar, see?"
+70238,277,150,658000,Marge Simpson,Car,"Aw, hop in."
+70240,277,152,660000,Marge Simpson,Simpson Home,We want to sue the sugar industry for selling a harmful product.
+70241,277,153,664000,Lisa Simpson,Simpson Home,"We have to sign up plaintiffs, and take depositions from the townspeople."
+70242,277,154,668000,Gil Gunderson,Simpson Home,"Aw, geez. You don't want ol' Gil going door-to-door. Oh, I've made too many enemies selling suckless vacuum cleaners and Rick James Bibles."
+70243,277,155,676000,Marge Simpson,Simpson Home,Don't worry. I'll do the legwork.
+70246,277,158,678000,Marge Simpson,Wiggum Home,I'm filing a class action lawsuit against Big Sugar. Would you like to give a deposition?
+70247,277,159,684000,Chief Wiggum,Wiggum Home,Sure I'll join your lawsuit. Sugar's made my Ralphie hyperactive.
+70248,277,160,689000,Ralph Wiggum,Wiggum Home,I'm happy and angry!
+70250,277,162,692000,Cletus Spuckler,Cletus's Shack,"Oh shoot, I'll sign. Figure them sugar folk owe me fer wut they done ta my cousin, Dia-Betty."
+70251,277,163,700000,Dia-Betty,Cletus's Shack,I'm tryin' to slim down so I can fit into Momma's coffin.
+70252,277,164,706000,Dia-Betty,Cletus's Shack,That's my re-ward!
+70253,277,165,710000,Cletus Spuckler,Cletus's Shack,Now let's see if I can remember how to make my mark.
+70255,277,167,718000,Disco Stu,DISCO STU'S '70S-STYLE BACHELOR PAD,I'll get down with your lawsuit. Disco Stu got hooked on the white stuff back in the seventies.
+70258,277,170,748000,Marge Simpson,Simpson Home,"Oh, hello Homer."
+70259,277,171,749000,Homer Simpson,Simpson Home,"Well, well. If it isn't the woman who's too busy saving the world to save her own marriage."
+70260,277,172,755000,Marge Simpson,Simpson Home,What are you talking about? Is that dinner?
+70261,277,173,758000,Homer Simpson,Simpson Home,It was dinner.
+70262,277,174,761000,Marge Simpson,Simpson Home,Why didn't you just turn off the oven?
+70263,277,175,764000,Homer Simpson,Simpson Home,I was hoping we could do that together.
+70264,277,176,773000,Marge Simpson,Simpson Home,Hello?
+70265,277,177,775000,ELECTRONICALLY-ALTERED VOICE,Simpson Home,Marge Simpson?
+70266,277,178,777000,Marge Simpson,Simpson Home,Who is this?
+70267,277,179,785000,Marge Simpson,Simpson Home,Professor Frink?
+70268,277,180,787000,Professor Jonathan Frink,Simpson Home,"Oh, what gave me away? Out of curiosity, was it the hoyvin or the mayvin or the whole go-hoy-vy thing that I do?"
+70270,277,182,794000,Gil Gunderson,Courtroom,"So Professor, tell us about operation ""hoyvin-mayvin."""
+70271,277,183,799000,Professor Jonathan Frink,Courtroom,Well we knew perfectly well it was addictive. Candy was just a sugar delivery system. We thought we were God. Hoyvin-mayvin.
+70272,277,184,809000,MOTHERLOVING,Courtroom,"Frink, you little weasel, I'll kill you."
+70273,277,185,812000,Blue-Haired Lawyer,Courtroom,May I remind you we're in open court?
+70274,277,186,813000,MOTHERLOVING,Courtroom,I'll kill you too.
+70275,277,187,814000,MOTHERLOVING,Courtroom,I'll kill you all!
+70276,277,188,816000,Judge Snyder,Courtroom,"Mr. Motherloving, that could be interpreted as a threat."
+70277,277,189,819000,MOTHERLOVING,Courtroom,I'll kill you while you sleep.
+70278,277,190,820000,Gil Gunderson,Courtroom,Objection!
+70279,277,191,821000,Judge Snyder,Courtroom,Mm... I'll allow it.
+70280,277,192,823000,Gil Gunderson,Courtroom,"Now, Count Fudge-ula, how long were you spokes-vampire for Motherloving's breakfast cereals?"
+70281,277,193,836000,Count Fudge-ula,Courtroom,Now all my victims have to be mashed up.
+70282,277,194,839000,Audience,Courtroom,Awww...
+70283,277,195,840000,MOTHERLOVING,Courtroom,"Your Honor, I admit it looks bad for me."
+70284,277,196,843000,MOTHERLOVING,Courtroom,But I think you might be turned around by some surprising taste-imony.
+70285,277,197,852000,Judge Snyder,Courtroom,"Sir, this is a house of justice, not a sugar-shack. It's Hershey highwaymen like you who made me fat."
+70286,277,198,858000,Blue-Haired Lawyer,Courtroom,"Well, your honor, the court carries it well."
+70287,277,199,860000,Judge Snyder,Courtroom,Silence! I rule in favor of Marge Simpson.
+70288,277,200,866000,Homer Simpson,Courtroom,"Oh, I am so proud of you."
+70289,277,201,869000,Judge Snyder,Courtroom,"And, thanks to Marge's Simpson's damning evidence... I hereby ban all sugar products from Springfield -- forever!"
+70290,277,202,876000,Homer Simpson,Courtroom,Get in the car.
+70291,277,203,880000,Kent Brockman,Courtroom,"Good evening. Our top story: Springfield's cake-hole has been shut, forever. Under what has been dubbed ""Marge's Law,"" all forms of sugar are now illegal."
+70293,277,205,888000,Homer Simpson,Simpson Home,"Thank you, Erin Choco-snitch. That was a group effort."
+70294,277,206,893000,Marge Simpson,Simpson Home,I was just trying to make this a healthier place to live.
+70295,277,207,896000,Homer Simpson,Simpson Home,"Well, good work, Blue-hair 'n' Brocko-witch. Okay, that was mine."
+70296,277,208,903000,Kent Brockman,Simpson Home,"So say a bittersweet farewell to such old friends as: Mud Pies, Bite 'ems, Éclairios, Chew 'ems, Kellogg's All-Fudge, Big Red Snack Foam, Milk Chuds, Eat 'ems..."
+70299,277,209,903000,Kent Brockman,Simpson Home,And all sugar pills will be changed back to highly-concentrated opiates.
+70301,277,211,922000,Chief Wiggum,Springfield,"That's it, boys. Burn it all."
+70302,277,212,924000,Lou,Springfield,"Even this promotional Johnny Depp from the movie ""Chocolat""?"
+70303,277,213,927000,Chief Wiggum,Springfield,We melted for him. Now he's gonna do likewise.
+70304,277,214,934000,Chief Wiggum,Springfield,"All right, time to throw in the Butterfingers."
+70305,277,215,942000,Eddie,Springfield,Hm. It's not even singed.
+70306,277,216,944000,Chief Wiggum,Springfield,Even the fire doesn't want them.
+70308,277,218,946000,Jimbo Jones,Springfield Elementary School,Sugar... need sugar!
+70309,277,219,951000,Groundskeeper Willie,Springfield Elementary School,Aye. They're not riding the white horse anymore!
+70310,277,220,954000,Ralph Wiggum,Springfield Elementary School,My baby! Where's my baby?
+70312,277,222,961000,Homer Simpson,Kwik-E-Mart,Nothing left! Nothing left!
+70313,277,223,964000,Homer Simpson,Kwik-E-Mart,"Ooh, ooh, a sticky spot!"
+70314,277,224,964000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Mr. Simpson, you are licking blood and Vapo-Rub."
+70315,277,225,972000,Homer Simpson,Kwik-E-Mart,Part of me knew that.
+70316,277,226,977000,Apu Nahasapeemapetilon,Kwik-E-Mart,There is a small group committed to bringing sugar back to this town. By any means necessary.
+70317,277,227,984000,Homer Simpson,Kwik-E-Mart,I'm with you all the way. But first...
+70319,277,229,1003000,Homer Simpson,LARD LAD DONUT SHOP,Cool. Should I take off my shoes?
+70321,277,231,1003000,Homer Simpson,LARD LAD,Cool.
+70323,277,233,1012000,Apu Nahasapeemapetilon,Meeting Room,"Gentlemen, I have found the final member of our cabal."
+70324,277,234,1015000,Homer Simpson,Meeting Room,Count Fudge-ula? I thought you wanted to get off the stuff.
+70325,277,235,1018000,Count Fudge-ula,Meeting Room,I'm a monster. Don't look at me!
+70326,277,236,1022000,MOTHERLOVING,Meeting Room,"Homer, we need you to help us smuggle in sugar from south of the border."
+70327,277,237,1026000,Homer Simpson,Meeting Room,"Oh, you mean Tennessee?"
+70328,277,238,1028000,C. Montgomery Burns,Meeting Room,No. The island of San Glucose. Good times.
+70330,277,240,1044000,Lisa Simpson,Simpson Home,Is it really worth risking your lives just for some sugar?
+70331,277,241,1048000,Marge Simpson,Simpson Home,Dessert's on. I steamed some limes!
+70332,277,242,1052000,Lisa Simpson,Simpson Home,Godspeed.
+70334,277,244,1055000,Apu Nahasapeemapetilon,Caribbean Sea,There is the island!
+69750,277,245,1057000,Homer Simpson,Caribbean Sea,It's go time.
+70335,277,248,1068000,Homer Simpson,Boat,I'm only doin' this one more time.
+70337,277,250,1077000,Count Fudge-ula,BRIDGE OF YACHT,How's he doing?
+70338,277,251,1078000,Bart Simpson,BRIDGE OF YACHT,I think he's grossed-out by some seaweed.
+70339,277,252,1080000,Homer Simpson,BRIDGE OF YACHT,Eww. I touched it. Over.
+70340,277,253,1083000,C. Montgomery Burns,BRIDGE OF YACHT,"Get a grip, Simpson. You're doing fine. Now, do you have your map?"
+70341,277,254,1088000,Homer Simpson,BRIDGE OF YACHT,Kinda.
+70342,277,255,1091000,Homer Simpson,BRIDGE OF YACHT,"Come on! Give it! I know, I'll try reverse psychology. I don't want that stupid map."
+70345,277,258,1101000,Sugar Dealer,Beach,"Okay man, there's the sugar. Now you give us the money."
+70346,277,259,1104000,Homer Simpson,Beach,That wasn't part of the deal!
+70347,277,260,1107000,Sugar Dealer,Beach,He's right. Who wrote this thing?
+70349,277,262,1115000,Apu Nahasapeemapetilon,YACHT,"Well, we're almost home."
+70350,277,263,1117000,Homer Simpson,YACHT,Has everyone keistered their personal supply?
+70351,277,264,1121000,Homer Simpson,YACHT,'Cause I sure haven't.
+70352,277,265,1124000,Chief Wiggum,YACHT,Hold it right there.
+70353,277,266,1127000,Chief Wiggum,YACHT,Surrender or prepare to be sunk.
+70354,277,267,1130000,Homer Simpson,YACHT,No way! We'll defy you to the death!
+70355,277,268,1135000,C. Montgomery Burns,YACHT,"Stroke, stroke, stroke!"
+70356,277,269,1138000,Apu Nahasapeemapetilon,YACHT,"I'm rowing as fast as I can, sir."
+70357,277,270,1140000,C. Montgomery Burns,YACHT,"No, I'm having one!"
+70358,277,271,1142000,Homer Simpson,YACHT,Remember what I told you about running away from your troubles?
+70359,277,272,1145000,Bart Simpson,YACHT,Yeah.
+70360,277,273,1146000,Homer Simpson,YACHT,Let's do it.
+70362,277,275,1165000,Woman,YACHT,My baby!
+70363,277,276,1172000,Chief Wiggum,YACHT,I like to think we've made a difference today.
+70365,277,278,1178000,MOTHERLOVING,DOCK AREA,"Good work, Simpson."
+70366,277,279,1179000,Homer Simpson,DOCK AREA,"Before I bring the sugar in, I want to see the Oompa-Loompa."
+70367,277,280,1183000,MOTHERLOVING,DOCK AREA,He's right over there.
+70369,277,282,1187000,Homer Simpson,Waterfront,"That guy is freaky. Well, here's your sugar."
+70370,277,283,1192000,Marge Simpson,Waterfront,"No, Homer!"
+70371,277,284,1194000,Marge Simpson,Waterfront,You'll be condemning this town to a life of obesity and diabetes!
+70372,277,285,1199000,MOTHERLOVING,Waterfront,"Don't listen to her, Homer."
+70374,277,286,1200000,Homer Simpson,Waterfront,"Oh, they both make such good arguments."
+70375,277,287,1203000,Marge Simpson,Waterfront,"Please, Homie. Dump the sugar. For me."
+70376,277,288,1223000,Sideshow Mel,Waterfront,Sugar is pouring into the water!
+70378,277,290,1233000,Captain Horatio McCallister,Waterfront,"Aye, 'tis a sugary brine."
+70379,277,291,1237000,Moe Szyslak,Waterfront,"Mmm, this sugar shark is delicious."
+70380,277,292,1239000,Moe Szyslak,Waterfront,"Hey, he bit me back! So that's how it's gonna be, huh?"
+70382,277,294,1244000,Marge Simpson,Springfield Harbor,"Gee, everyone looks so happy."
+70383,277,295,1246000,Judge Snyder,Springfield Harbor,"Indeed, Marge. And, uh, now that I think of it, I wildly exceeded my authority. And I declare the sugar ban over!"
+70384,277,296,1255000,Bart Simpson,Springfield Harbor,"Can we, Mom? Can we? Please, please, please?"
+70385,277,297,1257000,Marge Simpson,Springfield Harbor,"Oh, all right. But take Maggie with you."
+70386,277,298,1267000,Marge Simpson,Springfield Harbor,Mm. I guess you just can't use the law to nag. Maybe I should just stop trying to change the world.
+70387,277,299,1275000,Homer Simpson,Springfield Harbor,"No Marge, I love when you do that. You're a regular Carin' A-lot-ovich."
+70388,277,300,1282000,Marge Simpson,Springfield Harbor,That's the best one!
+70389,277,301,1284000,Homer Simpson,Springfield Harbor,That's what I told Lisa!
+70390,277,302,1293000,Lenny Leonard,Springfield Harbor,"Hey, I found some pearls. Oh wait, they're just my teeth. Well, I can still make a necklace out of them."

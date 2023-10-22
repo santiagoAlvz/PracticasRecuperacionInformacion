@@ -1,0 +1,274 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+789,35,1,68000,Mayor Joe Quimby,HILL NEAR NUCLEAR POWER PLANT,"Ah, Chief Wiggum, Archbishop McGee, distinguished guests. I am pleased to dedicate this emergency warning system. In the uh, off chance of a nuclear disaster, this sign will tell you, the good citizens of Springfield, what to do."
+790,35,2,111000,Homer Simpson,HILL NEAR NUCLEAR POWER PLANT,"Joke's on them. If the core explodes, there won't be any power to light that sign."
+791,35,3,119000,Mayor Joe Quimby,HILL NEAR NUCLEAR POWER PLANT,"And now, I would like to present the man who made this sign possible, by dropping the last of his obstructionist legal challenges... Montgomery Burns."
+792,35,4,132000,Waylon Smithers,HILL NEAR NUCLEAR POWER PLANT,Mr. Burns is never late. Something must be terribly wrong.
+793,35,5,135000,Mayor Joe Quimby,HILL NEAR NUCLEAR POWER PLANT,"Well, there better be. Nobody leaves Diamond Joe Quimby holding the bag!"
+795,35,7,139000,C. Montgomery Burns,Burns Manor,Must... turn... over. Got to... greet... dignitaries!
+796,35,8,145000,Waylon Smithers,Burns Manor,"Oh, no, Mr. Burns! We've got to get a doctor!"
+797,35,9,149000,C. Montgomery Burns,Burns Manor,"Absolutely not! No quack sawbones is going to apply his leeches to me! As long as there's an ounce of strength left in me, I..."
+798,35,10,160000,Dr. Julius Hibbert,Burns Manor,Mmmm. Mr. Burns is suffering from what we medical men call hypohemia. In layman's terms it's quite simply a lack of blood.
+799,35,11,169000,Waylon Smithers,Burns Manor,"Damn it, doctor, I'm no idiot! I know what hypohemia is. What I want to know is what can we do about it?"
+800,35,12,173000,Dr. Julius Hibbert,Burns Manor,"Well, at this point, our only hope is a transfusion."
+801,35,13,176000,Waylon Smithers,Burns Manor,How long does it take to sterilize a needle?
+802,35,14,178000,Dr. Julius Hibbert,Burns Manor,A few seconds.
+803,35,15,178000,Waylon Smithers,Burns Manor,"Well, skip it."
+804,35,16,179000,Waylon Smithers,Burns Manor,Just leave me enough to get home.
+805,35,17,181000,Dr. Julius Hibbert,Burns Manor,I'm afraid it's not that simple. His blood type is Double-O-Negative. It's quite rare.
+806,35,18,188000,Waylon Smithers,Burns Manor,But I'm B positive. Damn this common gutter blood in my veins!
+807,35,19,191000,C. Montgomery Burns,Burns Manor,"Smithers, don't feel so bad. After all, that kidney you donated to me really hit the spot."
+812,35,21,199000,Waylon Smithers,Springfield Nuclear Power Plant,"Attention all employees. Our boss and inspiration, Mr. Burns... is at death ... death's door. If you have type Double-O-Negative blood, I implore you to report to the Bloodmobile outside. That is all."
+813,35,22,215000,Carl Carlson,Springfield Nuclear Power Plant,"I'd give him my blood, except for one thing."
+814,35,23,217000,Lenny Leonard,Springfield Nuclear Power Plant,What's that?
+815,35,24,218000,Carl Carlson,Springfield Nuclear Power Plant,I don't wanna.
+816,35,25,220000,Homer Simpson,Springfield Nuclear Power Plant,"I can't believe you guys. There's a human being out there with millions of dollars who needs our help. And you don't wanna cash in? That's why you losers are stuck in this crummy, dead end job."
+817,35,26,232000,Carl Carlson,Springfield Nuclear Power Plant,"You know, Homer, I am your supervisor."
+818,35,27,234000,Homer Simpson,Springfield Nuclear Power Plant,"Sorry, sir."
+820,35,29,235000,Lisa Simpson,Simpson Home,"Maggie, look. What's that?"
+821,35,30,237000,Lisa Simpson,Simpson Home,Lee-mur. Lee-mur.
+822,35,31,239000,Lisa Simpson,Simpson Home,Zee-boo. Zee-boo.
+823,35,32,243000,Marge Simpson,Simpson Home,"What are you doing, honey?"
+824,35,33,245000,Lisa Simpson,Simpson Home,I'm trying to teach Maggie that nature doesn't end with the barnyard. I want her to have all the advantages that I didn't have.
+825,35,34,250000,Marge Simpson,Simpson Home,"Lisa, we did the best we could... What's a zebu?"
+826,35,35,254000,Lisa Simpson,Simpson Home,"It's like an ox, only it has a hump and a dewlap. Hump and dew-lap. Hump and dew-lap."
+827,35,36,260000,Homer Simpson,Simpson Home,Marge! Marge! What's my blood type?
+828,35,37,262000,Marge Simpson,Simpson Home,A-Positive.
+829,35,38,263000,Homer Simpson,Simpson Home,"Aw, nuts! Extremely rare blood and I don't have it."
+830,35,39,266000,Lisa Simpson,Simpson Home,"You know his blood type, how romantic."
+831,35,40,268000,Marge Simpson,Simpson Home,A mother knows everything about her family.
+832,35,41,271000,Lisa Simpson,Simpson Home,"Oh, yeah? What's my shoe size?"
+833,35,42,272000,Marge Simpson,Simpson Home,Four B.
+834,35,43,273000,Bart Simpson,Simpson Home,How many teeth do I have?
+835,35,44,274000,Marge Simpson,Simpson Home,"Sixteen permanent, eight baby."
+836,35,45,275000,Homer Simpson,Simpson Home,Earmuffs.
+837,35,46,276000,Marge Simpson,Simpson Home,XL.
+838,35,47,276000,Lisa Simpson,Simpson Home,Ring.
+839,35,48,277000,Marge Simpson,Simpson Home,"I don't want you wearing rings, it looks cheap, but three."
+840,35,49,279000,Bart Simpson,Simpson Home,Allergies.
+841,35,50,280000,Marge Simpson,Simpson Home,Butterscotch and imitation butterscotch.
+842,35,51,282000,Bart Simpson,Simpson Home,And?
+843,35,52,283000,Marge Simpson,Simpson Home,Glow in the dark monster make-up.
+756,35,53,284000,Bart Simpson,Simpson Home,"Hmp, impressive."
+809,35,54,285000,Homer Simpson,Simpson Home,How many hairs on my head? Without looking!
+844,35,55,287000,Marge Simpson,Simpson Home,"Oh, Homie, you have lots of hair... Why did you want to know your blood type?"
+845,35,56,291000,Homer Simpson,Simpson Home,"Aw, old man Burns is gonna kick off if he doesn't get some Double-O-Negative blood, but nobody at the plant has it."
+846,35,57,297000,Marge Simpson,Simpson Home,Bart does.
+847,35,58,298000,Homer Simpson,Simpson Home,"Woo! Yes! All right! Woo! Congratulations, boy! You've got a date with a needle!"
+848,35,59,303000,Bart Simpson,Simpson Home,"Hey, wait a minute. I don't have to give blood. I have rights, you know."
+849,35,60,307000,Homer Simpson,Simpson Home,"Yeah, you have the right to remain silent."
+850,35,61,309000,Marge Simpson,Simpson Home,"Bart, you have to help someone in need. It's the only decent thing to do."
+852,35,63,315000,Homer Simpson,Simpson Home,"Bart, it's not like I'm asking you to give blood for free. That would be crazy! You're a little young to understand this, but when you save a rich man's life, he showers you with riches. Don't you know the story of Hercules and the Lion?"
+853,35,64,328000,Bart Simpson,Simpson Home,Is it a Bible story?
+854,35,65,329000,Homer Simpson,Simpson Home,"Yeah, probably. Anyway, once upon a time there was a big mean lion who got a thorn in his paw. And all the village people tried to pull it out, but nobody was strong enough. So they got Hercules, and Hercules used his mighty strength, and bingo. Anyway, the moral is, the lion was so happy, he gave Hercules this big thing of riches."
+855,35,66,354000,Bart Simpson,Simpson Home,How did a lion get rich?
+856,35,67,356000,Homer Simpson,Simpson Home,It was the olden days!
+857,35,68,357000,Bart Simpson,Simpson Home,Oh.
+859,35,70,360000,Homer Simpson,Bloodmobile,"Hey, let's go! Emergency! Life-or-death here!"
+860,35,71,364000,Otto Mann,Bloodmobile,"Just a sec, man!"
+862,35,73,366000,Bart Simpson,BACK OF BLOODMOBILE,"Whoa, Otto-man! You work here?"
+863,35,74,368000,Otto Mann,BACK OF BLOODMOBILE,"Oh yeah! During the day, all my friends are in school, so I got a job as a Certified Bloodletting Tech Dude."
+864,35,75,373000,Homer Simpson,BACK OF BLOODMOBILE,Now let's get the show on the road.
+865,35,76,375000,Otto Mann,BACK OF BLOODMOBILE,Okay. Let me wash up.
+866,35,77,380000,Waylon Smithers,BACK OF BLOODMOBILE,"Homer, brave young Bart. I don't know which one to hug first."
+867,35,78,385000,Homer Simpson,BACK OF BLOODMOBILE,Eh.... the boy.
+869,35,80,401000,Dr. Julius Hibbert,Hospital,We're ready with the transfusion.
+870,35,81,403000,C. Montgomery Burns,Hospital,"Smithers, I'm not going to make it. I want to dictate... my epitaph."
+810,35,82,409000,Waylon Smithers,Hospital,Go ahead.
+871,35,83,410000,C. Montgomery Burns,Hospital,Charles... Montgomery... Burns.
+872,35,84,413000,Waylon Smithers,Hospital,"Um, hmm."
+873,35,85,414000,C. Montgomery Burns,Hospital,American Patriot
+874,35,86,416000,C. Montgomery Burns,Hospital,... American Patriot.
+875,35,87,422000,C. Montgomery Burns,Hospital,Master Of The Atom.
+876,35,88,425000,C. Montgomery Burns,Hospital,Scourge Of The Despot.
+877,35,89,429000,C. Montgomery Burns,Hospital,"""O Tyrant Hear His Mighty Name And QUAKE!!"" Smithers, I'm back!"
+879,35,91,435000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, top o' the mornin' to ye! Why, look who's here! It's good old... you!"
+880,35,92,442000,Smitty,Springfield Nuclear Power Plant,"Hi, Mr. Burns."
+881,35,93,443000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, hey, there, Mr... Brown Shoes! How about that local sports team? Hm?"
+882,35,94,450000,Homer Simpson,Springfield Nuclear Power Plant,Mr. Burns... he's okay! Jackpot!
+884,35,96,457000,Osvaldo,Burns's Private Fronton,"Aye, caramba!"
+885,35,97,459000,C. Montgomery Burns,Burns's Private Fronton,"Heh-heh-heh! Well, that's game! Hasta manana, Osvaldo!"
+886,35,98,463000,C. Montgomery Burns,Burns's Private Fronton,"Smithers, I'm back in the pink! Full of pith and vinegar!"
+887,35,99,467000,Waylon Smithers,Burns's Private Fronton,"Just remarkable, sir."
+888,35,100,469000,C. Montgomery Burns,Burns's Private Fronton,"You know, it's funny, Smithers. I tried every tincture and poultice and tonic and patent medicine there is. And all I really needed was the blood of a young boy. By the way, what was the lad's name?"
+889,35,101,482000,Waylon Smithers,Burns's Private Fronton,"Uh, Bart Simpson, sir."
+890,35,102,483000,C. Montgomery Burns,Burns's Private Fronton,Who?
+891,35,103,484000,Waylon Smithers,Burns's Private Fronton,He's the son of Homer Simpson. One of your stiffs in Sector 7-G.
+892,35,104,487000,C. Montgomery Burns,Burns's Private Fronton,"Well, the Simpsons will be getting a very nice surprise in the mail. Very nice, indeed."
+894,35,106,492000,Homer Simpson,Simpson Home,"Bill... Bill... Summons... Bill... Wait a minute. From C.M. Burns? Is this it? Yes, this is it! Woo-hoo! Woo!"
+895,35,107,506000,Homer Simpson,Simpson Home,Marge! Lisa! Maggie! Let's do this out in the yard where the neighbors can see!
+896,35,108,510000,Homer Simpson,Simpson Home,"Lisa, dim the lights! No, turn on more lights! But do something!"
+897,35,109,514000,Lisa Simpson,Simpson Home,"Yes, Dad."
+898,35,110,517000,Homer Simpson,Simpson Home,"It's a little thin, but that's okay, could be a check."
+902,35,111,520000,Homer Simpson,Simpson Home,"All right, there's no check, just a card. But don't panic. I'm sure it tells us what we're getting and where we can pick it up. ""Dear Bart... Thank you kindly for the blood. Yours truly, Montgomery Burns."" It's just a card!"
+903,35,112,540000,Homer Simpson,Simpson Home,"This is some way to show your gratitude. No gold. No diamonds. No rubies. Not even a lousy card. Wait a minute, there was a card. That's what got me so mad in the first place."
+904,35,113,551000,Marge Simpson,Simpson Home,"Homer, you don't do things like that to be rewarded. You do them because a fellow human being needs a helping hand."
+905,35,114,557000,Homer Simpson,Simpson Home,"Marge, you're my wife and I love you very much. But you're living in a world of make-believe. With flowers and bells and leprechauns, and magic frogs with funny little hats..."
+906,35,115,567000,Bart Simpson,Simpson Home,"Yeah, Mom. We got hosed!"
+907,35,116,568000,Homer Simpson,Simpson Home,Bart!
+908,35,117,569000,Marge Simpson,Simpson Home,We got exactly what we wanted out of this: We gave an old man a second chance.
+909,35,118,574000,Homer Simpson,Simpson Home,"I promised my boy one simple thing: Lots of riches. And that man broke my promise. Well, I've had it! Bart, take a letter."
+910,35,119,583000,Homer Simpson,Simpson Home,"""Dear Mr. Burns. I'm so glaaad you enjoyed my son's blood. And your caard was just great. In case you can't tell, I'm being sarcastic. You stink!"" Could you read that last part back to me?"
+911,35,120,601000,Bart Simpson,Simpson Home,You stink.
+912,35,121,601000,Homer Simpson,Simpson Home,"Good. ""You are a senile, buck-toothed old mummy with bony girl arms... and you smell like..."""
+913,35,122,611000,Bart Simpson,Simpson Home,An elephant's butt?
+914,35,123,614000,Homer Simpson,Simpson Home,An elephant's butt.
+916,35,125,616000,Marge Simpson,Sidewalk,But he's your boss. Do you have to mail it right this minute?
+917,35,126,618000,Homer Simpson,Sidewalk,Yup!
+918,35,127,620000,Marge Simpson,Sidewalk,"You're still angry, Homer. Why don't you sleep on it?"
+919,35,128,622000,Homer Simpson,Sidewalk,"Forget it, Marge!"
+920,35,129,623000,Marge Simpson,Sidewalk,"Please, Homie? For me?"
+921,35,130,630000,Homer Simpson,Sidewalk,"Oh, all right. You always do that hand thing! And it usually works."
+923,35,132,637000,Homer Simpson,Simpson Home,Cheap son-of-a...
+924,35,133,653000,Marge Simpson,Simpson Home,Homer... Breakfast is ready.
+925,35,134,656000,Homer Simpson,Simpson Home,Hmmm...
+926,35,135,658000,Homer Simpson,Simpson Home,"Oh, Marge, you saved me from making a big mistake. Y'know, I finally understand the meaning of mmphm hnmph."
+899,35,136,666000,Marge Simpson,Simpson Home,The meaning of what?
+900,35,137,667000,Homer Simpson,Simpson Home,"""Better half,"" Marge. ""Better half."""
+927,35,138,668000,Marge Simpson,Simpson Home,Oh... thank you.
+928,35,139,669000,Homer Simpson,Simpson Home,Where's the letter?
+931,35,142,680000,Homer Simpson,Simpson Home,Where is it?
+932,35,143,683000,Marge Simpson,Simpson Home,"Homer, I don't think it's in the cornstarch canister."
+933,35,144,686000,Homer Simpson,Simpson Home,"Well, it's somewhere! It didn't just get up and walk away!"
+934,35,145,690000,Homer Simpson,Simpson Home,"Bart, have you seen the letter?"
+935,35,146,692000,Bart Simpson,Simpson Home,Yup.
+936,35,147,694000,Homer Simpson,Simpson Home,"All right, think very carefully. Where did you see it last?"
+937,35,148,698000,Bart Simpson,Simpson Home,The last place I saw it...
+938,35,149,700000,Homer Simpson,Simpson Home,Uh huh.
+939,35,150,701000,Bart Simpson,Simpson Home,...was in my hand...
+940,35,151,703000,Homer Simpson,Simpson Home,Yeah...
+941,35,152,704000,Bart Simpson,Simpson Home,...as I was shoving it into the mailbox.
+942,35,153,709000,Homer Simpson,Simpson Home,Why did you do that?
+943,35,154,711000,Bart Simpson,Simpson Home,"Dad, there were things in the letter that had to be said. And I know you. You're an emotional guy. Just because you were mad last night, is no guarantee you'd be mad in the morning. So I..."
+944,35,155,722000,Homer Simpson,Simpson Home,I'll show you mad in the morning.
+945,35,156,725000,Marge Simpson,Simpson Home,"Homer, you encouraged him. You should be strangling yourself."
+946,35,157,729000,Homer Simpson,Simpson Home,"She's right. Okay, think, Homer. Don't panic. They don't pick up the mail till noon. There's still time!"
+948,35,159,738000,Homer Simpson,Street,Ow. Ow. Ow. Ow. Ow. Ow. Ow.
+949,35,160,741000,Bart Simpson,Street,"Give it up, Homer. It's locked up tight."
+950,35,161,744000,Homer Simpson,Street,"Locked, eh? Well, I just might have a little surprise up my sleeve for old Mr. Lock. Step aside, boy."
+951,35,162,757000,Barney Gumble,Street,"Hey, I'm with you, Homer. Fight the power!"
+952,35,163,765000,Bart Simpson,Street,"Why the hose, Homer?"
+953,35,164,767000,Homer Simpson,Street,"What does it look like? I'll get our letter so wet, the ink will run and no one will be able to read it."
+954,35,165,772000,Bart Simpson,Street,"Yeah, but don't other people have mail in there?"
+955,35,166,774000,Homer Simpson,Street,"So a few people won't get a few letters. Boo-hoo. You know the kinda letters people write: ""Dear Somebody-You-Never-Heard-Of... How is So-and-So? Blah blah blah blah blah blah blah. Yours truly, Some Bozo."" Big loss."
+956,35,167,787000,Homer Simpson,Street,"Now Bart, you keep an eye out for the mailman. Just give me some kind of signal."
+957,35,168,792000,Bart Simpson,Street,"Dad, the mailman is here."
+958,35,169,793000,Homer Simpson,Street,That's a good one. We'll use that.
+959,35,170,794000,Bart Simpson,Street,"No, I mean the mailman's here."
+961,35,172,797000,Mail Person,Street,Dear God! Are you planning to water the mail?
+962,35,173,799000,Homer Simpson,Street,"Uh, uh I-I guess it wouldn't do any good to run, 'cause you're our mail lady and you know my name and address and everything, huh?"
+963,35,174,804000,Mail Person,Street,That's right.
+964,35,175,805000,Homer Simpson,Street,"Well, I'm still gonna run!"
+966,35,177,808000,C. Montgomery Burns,Burns Manor,I want the whole world to hear the story of my harrowing struggle with hypohemia.
+967,35,178,814000,Waylon Smithers,Burns Manor,"Well, sir, Mr. Roman is one of the finest ghostwriters in the business."
+968,35,179,817000,Waylon Smithers,Burns Manor,"He's written ""Like Hell I Can't!""... ""Up From The Muck""... and ""The Unsinkable Sadruddin Mahbaradad!"""
+969,35,180,822000,C. Montgomery Burns,Burns Manor,Excellent.
+970,35,181,823000,Roman,Burns Manor,"All right, all right. First question? Have you slept with anyone famous?"
+971,35,182,828000,C. Montgomery Burns,Burns Manor,"Well, Countess Van Zeplin and I... What in blaze... Now you listen to me, you bargain basement Baudelaire. I'm not some dizzy starlet who can't string two words together. I can write this thing myself. You're fired."
+973,35,184,847000,Homer Simpson,Post Office,"Hello, my name is Mr. Burns. I believe you have a letter for me."
+974,35,185,853000,Postal Worker,Post Office,"Okay, Mr. Burns. What's your first name?"
+975,35,186,857000,Homer Simpson,Post Office,I don't know.
+976,35,187,858000,Homer Simpson,Post Office,"Great plan, Bart."
+978,35,189,861000,Lisa Simpson,Simpson Home,"Ooh, look, Maggie, what is that? Do-dec-ah-edron. Dodecahedron."
+979,35,190,868000,Homer Simpson,Simpson Home,"Lisa, I don't know what you're doing, but it's very strange and your father is trying to worry."
+981,35,192,873000,C. Montgomery Burns,Burns Manor,"""Chapter the Fifth... A Trip to the Infirmary, With Most Unexpected Results."""
+983,35,194,882000,Homer Simpson,Springfield Nuclear Power Plant,Oops.
+984,35,195,882000,Homer Simpson,Springfield Nuclear Power Plant,Twenty eight minutes till Burns comes. Time for operation Mail Take.
+985,35,196,887000,C. Montgomery Burns,Springfield Nuclear Power Plant,Can I help you?
+987,35,197,887000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, don't be frightened of this. It's nothing but a letter opener. Who are you?"
+148522,35,198,900000,Homer's Brain,Springfield Nuclear Power Plant,Don't tell him. Give him a fake name.
+988,35,199,902000,Homer Simpson,Springfield Nuclear Power Plant,Homer Simpson.
+989,35,201,904000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Simpson, eh? Simpson. Oh, why, there's a letter here from you. I'll just read it right now. ""Dear Mr. Burns. I'm so glad you enjoyed my son's blood. And your card was just great."" Why, Simpson. You've made my day. You're a true gentleman."
+990,35,202,923000,Homer Simpson,Springfield Nuclear Power Plant,"Yeah, well I'll be on my --"
+991,35,203,925000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Hello, there's more. ""In case you can't tell, I'm being sarcastic..."""
+992,35,204,930000,C. Montgomery Burns,Springfield Nuclear Power Plant,"""...you stink, you are a senile, buck-toothed..."" ""...old mummy... with bony girl arms and you smell like an elephant's butt!"""
+993,35,205,940000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, c'mon, Joey! Do you have to twist my arm?"
+994,35,206,944000,Joey,Springfield Nuclear Power Plant,"Homer, I don't tell you how to do your job. Okay?"
+995,35,207,946000,C. Montgomery Burns,Springfield Nuclear Power Plant,"I could crush him like an ant, but it would be too easy. No, revenge is a dish best served cold. I'll bide my time until... Oh, what the hell. I'll just crush him like an ant."
+997,35,209,966000,C. Montgomery Burns,Burns Manor,"""Senile,"" eh? ""Buck-toothed,"" am I? ""Bony arms,"" are they? ""Liver spots,"" did I? ""Chinless,"" will you?"
+998,35,210,973000,Waylon Smithers,Burns Manor,"His pink slip awaits your signature, sir."
+999,35,211,977000,C. Montgomery Burns,Burns Manor,"Now, that's odd. I've just robbed a man of his livelihood, and yet I feel strangely empty. Tell you what, Smithers. Have him beaten to a pulp."
+1000,35,212,986000,Waylon Smithers,Burns Manor,"But, sir --"
+1001,35,213,987000,C. Montgomery Burns,Burns Manor,But what?
+1002,35,214,988000,Waylon Smithers,Burns Manor,"Nothing, sir."
+1004,35,216,989000,Homer Simpson,Simpson Home,"Oh, I've never seen Mr. Burns this mad and he's always kinda mad."
+1006,35,218,994000,Homer Simpson,Simpson Home,Me and my big... letter writing pen!
+1007,35,219,998000,Marge Simpson,Simpson Home,"Honey, what's done is done. No matter what happens, we'll pull through. We always do."
+1008,35,220,1003000,Homer Simpson,Simpson Home,"Okay, here's the plan. You can move in with your sisters and raise the kids. And I'll... die in a gutter. It's practical and within our means."
+986,35,221,1011000,Bart Simpson,Simpson Home,"They always told me I was gonna destroy the family, but I never believed it."
+1010,35,222,1017000,Lisa Simpson,Simpson Home,"That's okay, Bart. Nobody really believed it. We were just trying to scare you."
+1012,35,224,1023000,Waylon Smithers,SMITHERS' OFFICE,You know Homer Simpson?
+1013,35,225,1025000,Joey,SMITHERS' OFFICE,"Yeah, nice guy. Play poker with him once in a while."
+1014,35,226,1028000,Waylon Smithers,SMITHERS' OFFICE,"Hmmm huh. We uh, need him beaten up."
+1015,35,227,1031000,Joey,SMITHERS' OFFICE,You got it.
+1016,35,228,1031000,Waylon Smithers,SMITHERS' OFFICE,Wait!
+1017,35,229,1032000,Joey,SMITHERS' OFFICE,What is it?
+1018,35,230,1032000,Waylon Smithers,SMITHERS' OFFICE,"Ah, nothing."
+1019,35,231,1035000,Waylon Smithers,SMITHERS' OFFICE,Wait!
+1020,35,232,1036000,Joey,SMITHERS' OFFICE,What?
+1021,35,233,1037000,Waylon Smithers,SMITHERS' OFFICE,"Beat, but don't kick."
+1022,35,234,1039000,Joey,SMITHERS' OFFICE,Hold the kicks. Got it.
+1023,35,235,1040000,Waylon Smithers,SMITHERS' OFFICE,Wait!
+1024,35,236,1041000,Joey,SMITHERS' OFFICE,What?
+1025,35,237,1042000,Waylon Smithers,SMITHERS' OFFICE,"Uh, um, umm..."
+1026,35,238,1045000,Joey,SMITHERS' OFFICE,"Hey, what did Homie do anyway?"
+1027,35,239,1046000,Waylon Smithers,SMITHERS' OFFICE,He saved Mr. Burns' life!
+1029,35,241,1053000,C. Montgomery Burns,Burns's Study,"In closing, gentle reader, I'd like to thank you. What's that you say? Me thanking you? No, it's not a misprint. For you see, I enjoyed writing this book as much as you enjoyed reading it. The end."
+1030,35,242,1070000,C. Montgomery Burns,Burns's Study,"Ah Smithers, how'd the beating go?"
+1031,35,243,1073000,Waylon Smithers,Burns's Study,"Sir, uh... there was no beating."
+1032,35,244,1074000,C. Montgomery Burns,Burns's Study,What? Well that's a hell of a thing! Why?
+1033,35,245,1077000,Waylon Smithers,Burns's Study,Because... I... I called it off.
+1034,35,246,1079000,C. Montgomery Burns,Burns's Study,Judas!
+1035,35,247,1080000,Waylon Smithers,Burns's Study,"I'm sorry, sir. But I just couldn't hurt Homer Simpson. He saved your life."
+1036,35,248,1084000,C. Montgomery Burns,Burns's Study,I see.
+1037,35,249,1085000,Waylon Smithers,Burns's Study,"I know you're mad at me, but I think it's only fair to warn you, I'm going to stand outside the gate until you forgive me."
+1038,35,250,1090000,C. Montgomery Burns,Burns's Study,"No need, Smithers. As usual, you've been the sober ""ying"" to my raging ""yang."" Put 'er there, old pal."
+1039,35,251,1102000,Waylon Smithers,Burns's Study,"Sir, while I wish this handshake would never end, I'm, I'm afraid we still have the Simpson matter to attend to."
+1040,35,252,1109000,C. Montgomery Burns,Burns's Study,"We do indeed, old friend. We do indeed."
+1042,35,254,1114000,Moe Szyslak,Moe's Tavern,Moe's Tavern. Where the elite meet to drink.
+1043,35,255,1117000,Bart Simpson,Moe's Tavern,"Eh, yeah, hello, is Mike there? Last name, Rotch."
+1044,35,256,1120000,Moe Szyslak,Moe's Tavern,"Hold on, I'll check. Mike Rotch. Mike Rotch. Hey, has anybody seen Mike Rotch, lately?"
+1045,35,257,1127000,Moe Szyslak,Moe's Tavern,"Listen you little puke. One of these days I'm gonna catch you, and I'm gonna carve my name on your back with an ice pick."
+1046,35,258,1136000,Moe Szyslak,Moe's Tavern,What's the matter Homer? You're not your normal effervescent self.
+1047,35,259,1140000,Homer Simpson,Moe's Tavern,"I got my problems, Moe. Give me another one."
+1048,35,260,1142000,Moe Szyslak,Moe's Tavern,"Homer, hey, you should not drink to forget your problems."
+1049,35,261,1145000,Barney Gumble,Moe's Tavern,"Yeah, you should only drink to enhance your social skills."
+1051,35,263,1150000,C. Montgomery Burns,Springfield Mall,"We'll get the Simpsons a present, an extravagant present! A mad, unthinkable, utterly impossible present! A frabulous, grabulous, zip-zoop-zabulous present!"
+1052,35,264,1161000,C. Montgomery Burns,Springfield Mall,"Ooo, too practical."
+1053,35,265,1163000,C. Montgomery Burns,Springfield Mall,Too cutesy-poo.
+1054,35,266,1168000,C. Montgomery Burns,Springfield Mall,Too cornball.
+1055,35,267,1171000,C. Montgomery Burns,Springfield Mall,A pool table? Are you mad? I'm not gonna turn his home into a saloon.
+1057,35,269,1176000,C. Montgomery Burns,Plunderer Pete's,Eureka! We've found it!
+1058,35,270,1179000,Waylon Smithers,Plunderer Pete's,"B-but, sir... it's thirty-two thousand dollars."
+1059,35,271,1181000,C. Montgomery Burns,Plunderer Pete's,Don't you dare sully this moment with your price taggery! It's perfect!
+1061,35,273,1187000,Homer Simpson,Simpson Home,"Oh, woe is me."
+1062,35,274,1189000,Marge Simpson,Simpson Home,"Oh, my! It's Mr. Burns."
+1064,35,276,1194000,C. Montgomery Burns,Simpson Home,Heave-ho! Heave-ho! Heave-ho! Heave-ho! Heave-ho!
+1065,35,277,1197000,Lisa Simpson,Simpson Home,"Wait, Dad, he's smiling."
+1066,35,278,1199000,Homer Simpson,Simpson Home,"Mr. Burns, you brought us a present."
+1067,35,279,1203000,C. Montgomery Burns,Simpson Home,"Why, what did you think I was going to do -- have you beaten to a bloody pulp?"
+1068,35,280,1209000,C. Montgomery Burns,Simpson Home,"To show there's no hard feelings, please take an advance copy of my book, ""Will There Ever Be A Rainbow?"" And now, young fellow, I haven't forgotten you. Here."
+1069,35,281,1218000,Bart Simpson,Simpson Home,Wow! A crowbar!
+1070,35,282,1219000,Lisa Simpson,Simpson Home,"It's to open the crate, stupid."
+1071,35,283,1222000,Homer Simpson,Simpson Home,"What did I tell you? I'll bet it's filled with diamonds, rubies, sapphires, pearls..."
+1072,35,284,1230000,Bart Simpson,Simpson Home,Wow! A big ugly head!
+1073,35,286,1233000,C. Montgomery Burns,Simpson Home,"Actually, son, it's a big, ugly Olmec Indian head. It was carved by Meso-American Indians over 3,000 years ago. This gruesome customer is Xt'tapalatakettle, the god of war."
+1074,35,287,1245000,Bart Simpson,Simpson Home,Awesome!
+1075,35,288,1246000,Lisa Simpson,Simpson Home,"No, Maggie. Not Az-tec. Ol-mec. Ol-mec."
+1076,35,289,1251000,Homer Simpson,Simpson Home,"Marge, what does it do?"
+1077,35,290,1252000,Marge Simpson,Simpson Home,It doesn't do anything.
+1078,35,291,1254000,Homer Simpson,Simpson Home,"Marge! Really, what does it do?"
+1079,35,292,1255000,Marge Simpson,Simpson Home,"Whatever it does, it's doing it now."
+1080,35,293,1258000,C. Montgomery Burns,Simpson Home,"Well, I'll let you get acquainted with Señor Xt'tapalatakettle. Ta!"
+1081,35,294,1263000,C. Montgomery Burns,Simpson Home,"Did you see their faces, Smithers?"
+1082,35,295,1265000,Waylon Smithers,Simpson Home,"Sir, you're my god of generosity."
+1083,35,296,1267000,Homer Simpson,Simpson Home,"Save a guy's life, and whattaya get? Nothin'! Worse than nothin'! Just a big, scary rock."
+1084,35,297,1274000,Bart Simpson,Simpson Home,"Hey, man, don't bad-mouth the head."
+1085,35,298,1277000,Marge Simpson,Simpson Home,"Homer, it's the thought that counts. The moral of this story is, ""A good deed is its own reward."""
+1086,35,299,1282000,Bart Simpson,Simpson Home,"Hey, we got a reward. The head is cool!"
+1087,35,300,1286000,Marge Simpson,Simpson Home,"Well then, I guess the moral is, ""No good deed goes unrewarded."""
+1088,35,301,1289000,Homer Simpson,Simpson Home,"Wait a minute. If I hadn't written that nasty letter, we wouldn't have gotten anything!"
+1089,35,302,1295000,Marge Simpson,Simpson Home,"Well... then I guess the moral is, ""The squeaky wheel gets the grease."""
+1090,35,303,1300000,Lisa Simpson,Simpson Home,Perhaps there is no moral to this story.
+1091,35,304,1302000,Homer Simpson,Simpson Home,Exactly. It's just a bunch of stuff that happened.
+1092,35,305,1306000,Marge Simpson,Simpson Home,But it certainly was a memorable few days!
+1093,35,306,1309000,Homer Simpson,Simpson Home,Amen to that!

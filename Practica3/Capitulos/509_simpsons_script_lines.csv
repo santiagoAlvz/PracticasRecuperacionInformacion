@@ -1,0 +1,242 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+132109,509,1,88000,Kent Brockman,Springfield Streets,"This is Kent Brockman at the First Annual Springfield Grand Prix, which like all our town's showcase events is not only poorly-planned -- it's horribly-executed!"
+132110,509,2,102000,Ken Burns,Springfield Streets,"The Making of the Empire State Building, Part One... The Basement."
+132116,509,8,123000,Homer Simpson,Simpson Car,Wait for the gap... wait for the gap...
+132117,509,9,126000,Marge Simpson,Simpson Car,"Homer, we can buy scotch tape tomorrow!"
+132118,509,10,129000,Homer Simpson,Simpson Car,There's the gap!
+132120,509,12,131000,Homer Simpson,Simpson Car,Gap's too small!
+132122,509,14,135000,Lisa Simpson,Simpson Car,A peloton?
+132123,509,15,137000,Kent Brockman,Simpson Car,"Apparently, today is also the final stage of the Tour de Springfield bike race!"
+132124,509,16,143000,Chief Wiggum,Simpson Car,"Hey, that's some fancy riding."
+132126,509,18,154000,Mayor Joe Quimby,Springfield Town Square,"Truthfully, today there were no losers -- and no winners, since both finish lines were tangled up in this unholy mess."
+132127,509,19,163000,Bart Simpson,Springfield Town Square,I hear tapping from inside.
+132129,509,21,164000,Homer Simpson,Springfield Town Square,What's goin' on?
+132130,509,22,166000,Mayor Joe Quimby,Springfield Town Square,"Well, let's all start tapping... our toes to the sounds of Scab Calloway and his Non-Union Band."
+132131,509,23,175000,Chief Wiggum,Springfield Town Square,Keep it down in there!
+132133,509,25,181000,Bart Simpson,BANQUET TENT,"So, is this a date date, or just a meaningless friend thing?"
+132134,509,26,185000,Lisa Simpson,BANQUET TENT,Meaningless friend thing.
+132135,509,27,185000,Milhouse Van Houten,BANQUET TENT,True love super-date.
+132136,509,28,188000,Bart Simpson,BANQUET TENT,"Well, if you two ever get serious and have a baby, it'll look something like this."
+132137,509,29,196000,Milhouse Van Houten,BANQUET TENT,Don't listen to Uncle Bart! Lisa and I will raise you in a house of love.
+132138,509,30,200000,Lisa Simpson,BANQUET TENT,We're not having a baby!
+132139,509,31,203000,Milhouse Van Houten,BANQUET TENT,Jimmy!
+132140,509,32,204000,Lisa Simpson,BANQUET TENT,Oh brother. Let's dance.
+132141,509,33,210000,Bart Simpson,BANQUET TENT,Geek leak!
+132142,509,34,214000,Lisa Simpson,BANQUET TENT,Hey Bart? At least I've got a date!
+132144,509,35,218000,Bart Simpson,BANQUET TENT,"Dance with me, please. I need to zing my sister."
+132145,509,36,221000,Edna Krabappel-Flanders,BANQUET TENT,"Okay, but you have to do your homework. Just kidding. I've given up on that."
+132146,509,37,226000,Bart Simpson,BANQUET TENT,"Just move your girdle, Yertel."
+132147,509,38,228000,Bart Simpson,BANQUET TENT,"Hey Lis -- your dance partner just made the cover of ""Dorks Illustrated"" Magazine."
+132148,509,39,233000,Milhouse Van Houten,BANQUET TENT,"I know that's a zing, but still -- the cover!"
+132149,509,40,237000,Lisa Simpson,BANQUET TENT,"Now you listen to me, Bart. Milhouse may not be the perfect date..."
+132150,509,41,241000,Milhouse Van Houten,BANQUET TENT,"Please let there be a ""but"" coming. Please!"
+132151,509,42,243000,Lisa Simpson,BANQUET TENT,But...
+132152,509,43,243000,Milhouse Van Houten,BANQUET TENT,Landed it!
+132153,509,44,247000,Lisa Simpson,BANQUET TENT,At least I'm with someone who tries a little too hard because he really likes me.
+132154,509,45,251000,Bart Simpson,BANQUET TENT,"Hey, plenty of babes have docked at Porto de Barto."
+132155,509,46,255000,Lisa Simpson,BANQUET TENT,"Yeah, for about a week. But as soon as they get to know the real you, they departo de Barto. And that's why you're alone tonight."
+132156,509,47,264000,Bart Simpson,BANQUET TENT,"Oh my God, is that true?"
+132157,509,48,267000,Moe Szyslak,BANQUET TENT,"I'm afraid Lisa's right, son. If the late, great Nora Ephron taught us anything... Oh! What's my other inflatable doll doing here?"
+132158,509,49,278000,Moe Szyslak,BANQUET TENT,What? What? I ain't here with no one.
+132160,509,51,290000,Bart Simpson,Bart's Bedroom,"Oh man, Lisa's right -- none of these relationships lasted very long. Three days, one recess, half a field trip... why did I have to get so needy at the planetarium?"
+132161,509,52,301000,Homer Simpson,Bart's Bedroom,"Boy, if anyone needs me I'll be taking a popcorn bath. It's a thing I read about in a Men's Health magazine in a dream."
+132162,509,53,307000,Bart Simpson,Bart's Bedroom,"Dad, can I ask you a question? How did you ever get a woman like Mom to stay with you?"
+132163,509,54,312000,Homer Simpson,Bart's Bedroom,"Pfft, look in the mirror, unplanned miracle."
+132164,509,55,315000,Bart Simpson,Bart's Bedroom,Is that the only reason?
+132165,509,56,316000,Homer Simpson,Bart's Bedroom,Well... I also keep things interesting.
+132166,509,57,319000,Marge Simpson,Bart's Bedroom,"All right, who took the microwave?"
+132167,509,58,321000,Homer Simpson,Bart's Bedroom,"You see? Hey, what are you looking at?"
+132168,509,59,325000,Bart Simpson,Bart's Bedroom,My ex-girlfriends.
+132171,509,60,326000,Homer Simpson,Bart's Bedroom,"Aw boy, I feel for ya. Nobody likes to be rejected, and it never gets easier, until you can drink. Because then you can express your unfiltered feelings by drunk dialing."
+132172,509,61,336000,Homer Simpson,Bart's Bedroom,"Observe. Hey, it's me again. He's there, isn't he? Well, I hope this doesn't sound weird, but I'm inside your closet."
+132173,509,62,345000,Bart Simpson,Bart's Bedroom,"Um, that's awesome. But I think I'll visit my ex-girlfriends and prove they still like me."
+132174,509,63,353000,Homer Simpson,Bart's Bedroom,"Hey, it's me."
+132175,509,64,355000,Homer Simpson,Bart's Bedroom,"I was thinking about you. It's your birthday in like three, four months? Would it be weird if I threw you a party?"
+132176,509,65,365000,Jenny,Bart's Bedroom,Eat my shorts!
+132177,509,66,367000,Darcy,Bart's Bedroom,Drop dead!
+132178,509,67,368000,Gina Vendetti,Bart's Bedroom,"Eat fist, jerk."
+132180,509,69,371000,Nikki McKenna,NIKKI'S HOUSE,You've got a lotta nerve showing up here... and not giving me a kiss.
+132181,509,70,377000,Nikki McKenna,NIKKI'S HOUSE,Inappropriate!
+132182,509,71,378000,Nikki McKenna,NIKKI'S HOUSE,I miss you.
+132183,509,72,380000,Nikki McKenna,NIKKI'S HOUSE,Stalker!
+132184,509,73,381000,Nikki McKenna,NIKKI'S HOUSE,Save me!
+132186,509,75,386000,Bart Simpson,Cletus's Shack,"Mary Spuckler, you're my last chance."
+132187,509,76,389000,Milhouse Van Houten,Cletus's Shack,She's pretty cute for Cletus's daughter.
+132188,509,77,392000,Bart Simpson,Cletus's Shack,"Yeah, she got to drink milk as a kid instead of white paint."
+132189,509,78,396000,Cletus Spuckler,Cletus's Shack,Is you one of my kids?
+132190,509,79,398000,Bart Simpson,Cletus's Shack,No sir.
+132191,509,80,399000,Cletus Spuckler,Cletus's Shack,Prove it.
+132192,509,81,400000,Bart Simpson,Cletus's Shack,"A, B, C..."
+132193,509,82,401000,Cletus Spuckler,Cletus's Shack,"All right, all right, you've convinced me, Einstein. What do you want?"
+132194,509,83,405000,Bart Simpson,Cletus's Shack,Is Mary here?
+132195,509,84,407000,Cletus Spuckler,Cletus's Shack,"I'm afraid Mary done run off, we knows not where."
+132196,509,85,411000,Bart Simpson,Cletus's Shack,Dadgummit! Do you think she still likes me?
+132197,509,86,413000,Cletus Spuckler,Cletus's Shack,"Um... hey, Brandine! Does Mary still like this boy?"
+132198,509,87,418000,Brandine Del Roy,Cletus's Shack,I don't know what that girl likes anymore. She ran away after we engaged her to Old Man Wellbottom.
+132199,509,88,424000,Old Man Wellbottom,Cletus's Shack,"And I was gonna be a good husband too, if'n I ever get out of this well!"
+132200,509,89,429000,Cletus Spuckler,Cletus's Shack,"All right, all right, now, that's enough out of you."
+132201,509,90,432000,Old Man Wellbottom,Cletus's Shack,But I just--
+132169,509,91,434000,Bart Simpson,Cletus's Shack,I can't believe she ran away. And this isn't helping.
+132170,509,92,439000,Bart Simpson,Cletus's Shack,I'd better switch to the hard stuff.
+131869,509,93,440000,Bart Simpson,Cletus's Shack,"Hey, Dubya."
+132202,509,94,441000,George W. Bush,Cletus's Shack,I know where my sister run off to -- New York City.
+132203,509,95,446000,Milhouse Van Houten,Cletus's Shack,New York? That's where Sesame Street is! Do you ever wonder what happens to Oscar on garbage day?
+132204,509,96,452000,George W. Bush,Cletus's Shack,Yep. New York. The Big Somethin'.
+132205,509,97,456000,George W. Bush,Cletus's Shack,This yere's her address. Good luck.
+132207,509,99,468000,Mary,Simpson Home,"I don't know if we should be up here, Bart Simpson."
+132208,509,100,470000,Bart Simpson,Simpson Home,And why is that?
+132209,509,101,474000,Mary,Simpson Home,'Cause the floor ain't finished. Daddy just covers things with hay and says they're done.
+132210,509,102,482000,Bart Simpson,Simpson Home,"Mom, can we go to New York to find this girl I used to know?"
+132211,509,103,485000,Marge Simpson,Simpson Home,"Bart, that's sweet, but we'd need airplane money, hotel money..."
+132212,509,104,490000,Homer Simpson,Simpson Home,"...And five hundred dollars for Yankee tickets, which turn out to be bogus..."
+132213,509,105,493000,Bart Simpson,Simpson Home,"Well, don't buy 'em!"
+132214,509,106,495000,Homer Simpson,Simpson Home,But they're playing the Purple Sox!
+132215,509,107,497000,Bart Simpson,Simpson Home,"C'mon, Dad. You love New York. Now that your two least-favorite buildings have been obliterated: Old Penn Station and Shea Stadium."
+132216,509,108,503000,Homer Simpson,Simpson Home,"Lousy outdated relics! Boy, do you remember what happened the last time we went to New York?"
+132218,509,110,514000,J.J. Hunsecker,'50S NEW YORK NIGHT CLUB,"Keep your meathooks off my sister Marge, or my goons will do a soft-shoe on your solar plexus."
+132219,509,111,518000,Homer Simpson,'50S NEW YORK NIGHT CLUB,"You're dead, J.J. Get yourself buried!"
+132220,509,112,521000,J.J. Hunsecker,'50S NEW YORK NIGHT CLUB,"Tough cookie, huh? Well, watch me take a bite out of you!"
+132221,509,113,523000,Homer Simpson,'50S NEW YORK NIGHT CLUB,"I'm about to go owl shooting... and you just said ""who!"""
+132222,509,114,525000,J.J. Hunsecker,'50S NEW YORK NIGHT CLUB,That's some lip ya got on ya. How'd you like me to stretch it like a rubber band and snap ya into last week?
+132223,509,115,529000,Homer Simpson,'50S NEW YORK NIGHT CLUB,"You're sellin' milk, J.J., and I've got a sour stomach."
+132224,509,116,534000,Marge Simpson,'50S NEW YORK NIGHT CLUB,"Homer, that sounds like ""The Sweet Smell of Success""."
+132225,509,117,537000,Homer Simpson,'50S NEW YORK NIGHT CLUB,It didn't feel like success.
+132227,509,119,544000,Bart Simpson,Bart's Bedroom,"Why, ladies? Why?!"
+132230,509,120,547000,Homer Simpson,Bart's Bedroom,"Son, you can dial down the crazy. Your mother and I talked about it and we found a way to get to New York. It's all set, boy. To save money, we're swapping houses."
+132231,509,121,558000,Bart Simpson,Bart's Bedroom,But don't the people wreck your house when they stay in it?
+132232,509,122,560000,Homer Simpson,Bart's Bedroom,I didn't say I swapped our house.
+132233,509,123,564000,N.Y. Father,Bart's Bedroom,How ya doin'? We're stayin' here for two weeks.
+132234,509,124,566000,Ned Flanders,Bart's Bedroom,"Lord, you're testin' me, aren't ya?"
+132235,509,125,568000,N.Y. Father,Bart's Bedroom,Keep talkin' to your friend up there. We'll be doin' it on your bed.
+132236,509,126,571000,N.Y. Mother,Bart's Bedroom,New York style!
+132238,509,128,585000,Homer Simpson,Times Square,Look at this place. Things have certainly changed since our ancestor Fievel came here.
+132239,509,129,590000,Lisa Simpson,Times Square,Fievel was a mouse in a movie.
+132240,509,130,592000,Homer Simpson,Times Square,"Yes, and now look at us. Only in America."
+132241,509,131,596000,Vendor,Times Square,Khlav Kalash! Get your Khlav Kalash!
+132242,509,132,598000,Homer Simpson,Times Square,"Oh, geez. Not this guy, with his stupid little pushcart."
+132243,509,133,602000,Vendor,Times Square,"Fifty thousand square feet, huh? All Khlav Kalash! Used to be book store! Books."
+132244,509,134,608000,Bart Simpson,Times Square,"Come on, let's go find Mary! This is the address her brother gave me."
+132245,509,135,612000,Lisa Simpson,Times Square,Can't Dad take Bart while we seek out culture?
+132246,509,136,614000,Homer Simpson,Times Square,You do that.
+132247,509,137,616000,Homer Simpson,Times Square,Do you know you're missing your clothes?
+132248,509,138,619000,Buff Cowboy,Times Square,"I thought this was just a dream! Oh, man!"
+132251,509,141,631000,Homer Simpson,Subway Car,"All right, I'll spring for a cab."
+132253,509,143,633000,Homer Simpson,TAXICAB,Much better.
+132254,509,144,636000,New York Cab Driver,TAXICAB,"Here we are! Anything you leave in the cab, you'll never see again!"
+132255,509,145,645000,Bart Simpson,TAXICAB,Hey!
+132256,509,146,646000,Homer Simpson,TAXICAB,"Oh-oh-oh oh, thank God you woke up!"
+132258,509,148,654000,Bart Simpson,Apartment Building,I guess my search for true love is doomed.
+132259,509,149,657000,Homer Simpson,Apartment Building,"You've learned a very valuable life lesson, boy, which is that love doesn't exist except briefly between a man and a woman before marriage. After that, it's just hanging out with someone who kind of hates you, but you can't get it together to leave. I'll get us some ice cream."
+132228,509,150,677000,Sophisticated Girl,Apartment Building,"What's the matter, darling?"
+132260,509,151,678000,Bart Simpson,Apartment Building,"Thanks for asking, Duchess. I'm sittin' here waitin' for a girl that's never gonna show up."
+132261,509,152,683000,Sophisticated Girl,Apartment Building,What makes you so sure?
+132262,509,153,684000,Bart Simpson,Apartment Building,"Girls don't like me. I don't really like them yet either, but I think I'm gonna. There's a storm a-brewin' down there."
+132263,509,154,690000,Sophisticated Girl,Apartment Building,"Well, there's a girl a-standing right here! It's me, Mary!"
+132264,509,155,694000,Bart Simpson,Apartment Building,Wow. What are you doin' for money?
+132265,509,156,697000,Mary,Apartment Building,"Well, it's not very steady and I'm kind of ashamed... I'm a featured player on Saturday Night Live."
+132266,509,157,703000,Don Pardo,Apartment Building,Mary Spuckler!
+132267,509,158,706000,Mary,Apartment Building,"Aw, I'm lying. My whole life here is a bunch of lies. I'm just a writer with a performing option."
+132268,509,159,712000,Bart Simpson,Apartment Building,Let's talk about somethin' else. Something nice.
+132270,509,161,719000,Marge Simpson,BROADWAY THEATER,"So, this is basically what we can afford."
+132271,509,162,722000,Theater Cashier,BROADWAY THEATER,"Okay, second balcony, partially obstructed view, no bathroom privileges, and you must stipulate that in emergencies you can change a spotlight gel."
+132272,509,163,729000,Lisa Simpson,BROADWAY THEATER,"Well, at least I'll be able to say I went to a Broadway show."
+132273,509,164,732000,Theater Cashier,BROADWAY THEATER,You're not allowed to say that.
+132274,509,165,734000,Marge Simpson,BROADWAY THEATER,"Oh, forget it."
+132276,509,167,735000,Mary,Mary's Apartment Building,"So, Bart Simpson, did you really come all the way here just to see me?"
+132277,509,168,741000,Bart Simpson,Mary's Apartment Building,Yeah... plus I thought I might get to see an air conditioner fall on someone's head. But I guess that never really happens.
+132279,509,170,747000,Mary,Mary's Apartment Building,Is that your father?
+132280,509,171,749000,Mary,Mary's Apartment Building,"Bart, I want to see you again, but I don't want a grownup taking me back! Meet me at the High Line tomorrow."
+132281,509,172,756000,Mary,Mary's Apartment Building,Keep my secret!
+132282,509,173,757000,Homer Simpson,Mary's Apartment Building,Why you little... where's that ice cream?
+132284,509,175,761000,Marge Simpson,Times Square,Just once I'd like your father to be on a JumboTron for something good.
+132285,509,176,765000,Homer Simpson,Times Square,Damn you and your fluted neck!
+132287,509,178,774000,Mary,NEW YORK HIGH LINE,"So, what did you do with your Dad?"
+132229,509,179,776000,Bart Simpson,NEW YORK HIGH LINE,We're safe because you have to climb steps to get up here.
+132288,509,180,780000,New York Guy,NEW YORK HIGH LINE,Can't move?
+132017,509,181,781000,Homer Simpson,NEW YORK HIGH LINE,No.
+132289,509,182,784000,Homer Simpson,NEW YORK HIGH LINE,I thought there was no crime in New York any more. Giulianiii!
+132290,509,183,789000,Mary,NEW YORK HIGH LINE,Give me some news of Springfield.
+132291,509,184,791000,Bart Simpson,NEW YORK HIGH LINE,They let Sideshow Bob out of prison again.
+132292,509,185,795000,Bart Simpson,NEW YORK HIGH LINE,Huh. Didn't know they still ran those trains.
+132293,509,186,797000,Mary,NEW YORK HIGH LINE,How's your mama and your sister?
+132294,509,187,799000,Bart Simpson,NEW YORK HIGH LINE,Trying to find high culture at low prices.
+132296,509,189,801000,Marge Simpson,LINCOLN CENTER SUBWAY STOP,"No, Lisa! If you click that turnstile, it'll blow our budget!"
+132300,509,193,808000,Mary,High Line,"Well, without them around, you and I can walk through the city holding hands just like the men-folk do."
+132301,509,194,814000,Bart Simpson,High Line,I could listen to your twang all day.
+132302,509,195,816000,Mary,High Line,Would you care to hear it in song? 'Cause I wrote one... about you.
+132303,509,196,820000,Bart Simpson,High Line,Can I do a rap in the middle of it?
+132304,509,197,821000,Mary,High Line,Or you could just listen!
+132305,509,198,824000,Mary,High Line,"Sir, may I borrow your guitar?"
+132306,509,199,826000,Guitar Player,High Line,"Sure, sure -- it's the case that makes money!"
+132307,509,200,834000,Mary,High Line,A BOY I KNEW TURNED UP AGAIN
+132308,509,201,838000,Mary,High Line,I KINDA LIKED HIM WAY BACK WHEN / CHASED HIM 'ROUND THE LIVESTOCK PEN...
+132309,509,202,845000,Bart Simpson,High Line,ROLLIN' ON MY SKATEBOARD / PIMPIN' LIKE A DRUG LORD...
+132310,509,203,847000,Mary,High Line,WELL I'M ON THE CUSP OF WOMANHOOD / AND I LIKE A BOY THAT AIN'T NO GOOD
+132311,509,204,852000,Mary,High Line,AT NOTHIN' 'CEPT MAKIN' ME SMILE -- THAT'S BART
+132312,509,205,858000,Mary,High Line,I THOUGHT MY OLD WAYS I HAD SHED / BUT I SURE MISSED HIS CYLINDER HEAD...
+132313,509,206,864000,Mary,High Line,"NOW THAT BOY IS A-COME TO ME / OH YES, B-A-R- NOW WHERE'S THAT T? WHERE IS IT? I DON'T KNOW. OH THAT'S BART. I really like you, Bart Simpson."
+132314,509,207,886000,Cletus Spuckler,High Line,"I've come to take you back, Mary."
+132315,509,208,888000,Mary,High Line,Daddy?
+132316,509,209,889000,Cletus Spuckler,High Line,"Sorry, honey. Your mother misses you but she just can't say it. That's 'cause the donkey busted her jaw. She'll be fine. Your mother too."
+132318,509,211,893000,Lisa Simpson,NEW YORK,"All right, Broadway's too expensive, the museums are over-curated -- but Shakespeare in the Park is tonight, and the tickets are free!"
+132320,509,215,913000,Shakespearean Vendor,INSIDE DELACORTE THEATER,Get your cuckold's horns! Neck ruffles! Yorick skulls!
+132321,509,216,917000,Audience Member,INSIDE DELACORTE THEATER,I'll take a cuckold's horn.
+132322,509,217,923000,Audience Member,INSIDE DELACORTE THEATER,It works!
+132323,509,218,924000,Stage Manager,INSIDE DELACORTE THEATER,"Ladies and gentlemen, I have an announcement."
+132324,509,219,927000,Marge Simpson,INSIDE DELACORTE THEATER,La-dies-and-gen-tle-men-I-have-an-an-nounce-ment. That's not iambic pentameter!
+132325,509,220,933000,Stage Manager,INSIDE DELACORTE THEATER,I'm afraid that tonight's show has been cancelled.
+132326,509,221,935000,Other Audience Members,INSIDE DELACORTE THEATER,Huh? / Why? / Wherefore?
+132327,509,222,937000,Stage Manager,INSIDE DELACORTE THEATER,"The Baldwin brothers, who were playing the Montague family, and the Sheen-Estevez clan, our Capulets, have quit the production."
+132328,509,223,943000,Unidentified Baldwin,INSIDE DELACORTE THEATER,You guys suck at acting and you ate all the potato salad!
+132329,509,224,946000,Unidentified Estevez,INSIDE DELACORTE THEATER,"No, you suck at acting, and it's ""first come, first served!"""
+132330,509,225,949000,Unidentified Baldwin,INSIDE DELACORTE THEATER,I made that potato salad!
+132331,509,226,950000,Unidentified Estevez,INSIDE DELACORTE THEATER,It says Zabar's on the package!
+132332,509,227,953000,Unidentified Baldwin,INSIDE DELACORTE THEATER,He works at Zabar's! We all work at Zabar's!
+132333,509,228,956000,Stage Manager,INSIDE DELACORTE THEATER,"I'm so sorry, you came to see Romeo and Juliet, not feuding families. The long, slow line to leave the theater forms on the left."
+132335,509,230,965000,Anguished Man,INSIDE DELACORTE THEATER,And we have to walk by a drum circle!
+132336,509,231,969000,Hipster Man,INSIDE DELACORTE THEATER,"Faster, mon! More annoying!"
+132337,509,232,971000,Lisa Simpson,INSIDE DELACORTE THEATER,"Not so fast! We came for Shakespeare, and we're gonna see Shakespeare!"
+132338,509,233,976000,Lisa Simpson,INSIDE DELACORTE THEATER,"Anyone who wants to be in this, grab a doublet and meet me backstage!"
+132339,509,234,980000,Shakespearean Actor,INSIDE DELACORTE THEATER,Is there mayhaps a bit of business for me?
+132340,509,235,983000,Lisa Simpson,INSIDE DELACORTE THEATER,I was thinking amateurs only.
+132341,509,236,985000,Shakespearean Actor,INSIDE DELACORTE THEATER,"Well, my only ""professional"" job was playing a nefarious hot dog in an ad for ""Taco Bueno."" ""You fresh-made tacos will never defeat pre-boiled hot dogs!"""
+132342,509,237,997000,Shakespearean Actor,INSIDE DELACORTE THEATER,"Please, I owe Yale Drama School two hundred thousand dollars. They keep calling my mother!"
+132343,509,238,1003000,Lisa Simpson,INSIDE DELACORTE THEATER,"Fine, you're in."
+132344,509,239,1004000,Shakespearean Actor,INSIDE DELACORTE THEATER,"I must warn you, I have crippling stage fright."
+132345,509,240,1006000,Lisa Simpson,INSIDE DELACORTE THEATER,"Oh, for the love of God."
+132348,509,243,1011000,Narrator,INSIDE DELACORTE THEATER,For never was a story of more woe / Than this of Juliet and her Romeo.
+132349,509,244,1018000,Marge Simpson,INSIDE DELACORTE THEATER,"Our search for culture is thus concluded / For the bard of Avon is well-suited / To a crowd with ev'ry cell phone muted / Jeez, I can't stop talking like this."
+132350,509,245,1029000,Lisa Simpson,INSIDE DELACORTE THEATER,"Hey, don't ever stop, because tonight we made it in New York!"
+132351,509,246,1034000,New York Cop,INSIDE DELACORTE THEATER,Those the people who took over the theater?
+132352,509,247,1036000,New York Cop,INSIDE DELACORTE THEATER,Pepper spray and power wash: the New York hug and kiss.
+132354,509,249,1046000,Cletus Spuckler,ROCK CENTER CAFÉ,"Now Mary, you listen to me. I am one-third your father and you gon come back."
+132355,509,250,1051000,Mary,ROCK CENTER CAFÉ,"If ya'll will excuse me, I'm gonna wash my face for the ride home."
+132356,509,251,1055000,Cletus Spuckler,ROCK CENTER CAFÉ,"Enjoy your fancy-schmancy ""in-house"" for the last time."
+132357,509,252,1062000,Bart Simpson,ROCK CENTER CAFÉ,Um... I've gotta go.
+132358,509,253,1063000,Homer Simpson,ROCK CENTER CAFÉ,Go where?
+132359,509,254,1065000,Bart Simpson,ROCK CENTER CAFÉ,"Uh, well, since we're here, I'm gonna go try to get Al Roker's autograph."
+132360,509,255,1069000,Al Roker,ROCK CENTER CAFÉ,"Here you go, little fan. Killer storm on the way!"
+132361,509,256,1072000,Bart Simpson,ROCK CENTER CAFÉ,Um... I'm gonna go try to sell this.
+132362,509,257,1076000,Al Roker,ROCK CENTER CAFÉ,I'll buy it back!
+132366,509,261,1081000,Mary,Grand Central Station,"Goodbye, Bart. And don't worry. There'll be other Mary Spucklers, including my sisters Mary Zeke and Mary Not-Quite-Right."
+132368,509,263,1097000,Mary,GRAND CENTRAL,"Bart if any girl tries to fix you, let 'em. Because you've got a couple of big problems. But mostly you're great!"
+132369,509,264,1109000,Cletus Spuckler,GRAND CENTRAL,"Boy, you tell me where Mary's gone."
+132370,509,265,1111000,Bart Simpson,GRAND CENTRAL,I can't.
+132371,509,266,1112000,Homer Simpson,GRAND CENTRAL,"Boy, you squeal like a piggy for the hillbilly man!"
+132372,509,267,1116000,Bart Simpson,GRAND CENTRAL,"I can't, because Mary's the girl that proves that girls can like me. And she wouldn't like me anymore if I gave her up. So I won't, even if you torture me like you do the English language."
+132376,509,268,1125000,Cletus Spuckler,GRAND CENTRAL,"Oh, well if that ain't aren't the isn't. I guess I just gotta let Mary find her own way. Come on. Let's head on back to Springfield."
+132377,509,269,1135000,Cletus Spuckler,GRAND CENTRAL,"Uh, one on-getter for the clickety-clack, please."
+132380,509,272,1144000,Cletus Spuckler,ANOTHER TRAIN,"You miss her, don't you, son?"
+132381,509,273,1147000,Cletus Spuckler,ANOTHER TRAIN,You want a picture of her for your wallet?
+132382,509,274,1149000,Cletus Spuckler,ANOTHER TRAIN,"Uh, she's somewhere in B-3."
+132383,509,275,1153000,Bart Simpson,ANOTHER TRAIN,"Thanks, man."
+132384,509,276,1155000,Homer Simpson,ANOTHER TRAIN,"Aw, look at that -- my little guy's finally realizing how complicated grown-up feelings can be."
+132385,509,277,1163000,Marge Simpson,ANOTHER TRAIN,"Well at least it didn't end as bad as ""Romeo and Juliet."""
+132386,509,278,1166000,Homer Simpson,ANOTHER TRAIN,"Heh, no kidding, I saw your reviews."
+132387,509,279,1168000,Lisa Simpson,ANOTHER TRAIN,"Hey! I specifically said no critics! This is outrageous! Ooh, but they like me!"
+132388,509,280,1183000,Homer Simpson,ANOTHER TRAIN,"I hope you enjoyed the show tonight. And if you're worried about when the air conditioner fell on my head, rest assured it was a stunt man and his family is being well taken care of."
+132389,509,281,1193000,Lisa Simpson,ANOTHER TRAIN,But we're here to ask if you have an idea for a couch gag.
+132390,509,282,1197000,Bart Simpson,ANOTHER TRAIN,The best submission will be animated and appear on the show!
+132391,509,283,1200000,Homer Simpson,ANOTHER TRAIN,Do we screw them on the credit?
+132392,509,284,1202000,Marge Simpson,ANOTHER TRAIN,"No! For details, log onto thesimpsons.com."
+132393,509,285,1206000,Bart Simpson,ANOTHER TRAIN,I'm submitting mine now.

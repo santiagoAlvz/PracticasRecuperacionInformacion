@@ -1,0 +1,206 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+98845,381,1,34000,Lisa Simpson,Simpson Car,This place is looking a little run down.
+98846,381,2,36000,Bart Simpson,Simpson Car,"Yeah, hasn't been the same since they murdered the Mayor's Dad here."
+98848,381,4,45000,Marge Simpson,Old Springfield Mall,Ooh! A J.C. Penney's...used to be here.
+98849,381,5,51000,Lisa Simpson,Old Springfield Mall,Now it's a collection of candle kiosks and Persian CD stores.
+98850,381,6,54000,Persian Salesman,Old Springfield Mall,"How you doing, bro? We've got the latest by Nabil -- ""Uma Shang Shang -- The Flower Song!"""
+98851,381,7,59000,Persian Salesman,Old Springfield Mall,"UMA SHANG SHANG / UMA SHANG SHANG / UMA SHANG SHANG. Is like eh, Bruce Springsteen the Boss. Ya?"
+98852,381,8,67000,Homer Simpson,Old Springfield Mall,I guess.
+98853,381,9,67000,Persian Salesman,Old Springfield Mall,"If you buy now, I give you tooth ache cream. Tooth ache cream."
+98854,381,10,71000,Homer Simpson,Old Springfield Mall,Deal!
+98709,381,11,71000,Persian Salesman,Old Springfield Mall,We have deal!
+98767,381,13,77000,CLARA PELLER,Noiseland Arcade,Where's the beef?
+98825,381,14,78000,ROCKY BALBOA,Noiseland Arcade,You ain't so bad.
+98826,381,15,79000,CLARA PELLER,Noiseland Arcade,Where's the beef?
+98827,381,16,80000,ROCKY BALBOA,Noiseland Arcade,You ain't so bad.
+98828,381,17,82000,CLARA PELLER,Noiseland Arcade,Where's the beef?
+98829,381,18,83000,ROCKY BALBOA,Noiseland Arcade,You ain't so bad.
+98855,381,19,84000,Bart Simpson,Noiseland Arcade,"These games are so old. Who got these high scores? Pilgrims? Hmm, never saw this one before."
+98856,381,20,97000,Bart Simpson,Noiseland Arcade,What's going on here? Am I destroying these triangles or trying to assemble them? What does this button do? Now my ship is pooping more triangles!
+98857,381,21,108000,Bart Simpson,Noiseland Arcade,"Oh no, I won a free game!"
+98859,381,23,113000,Homer Simpson,Old Springfield Mall,"Ooh, gummy worms!"
+98860,381,24,115000,Clerk,Old Springfield Mall,"Uh, that candy's been here an awfully long time. I'd think twice if I were you."
+98861,381,25,119000,Homer Simpson,Old Springfield Mall,Don't tell me how many times to think!
+98863,381,27,129000,Marge Simpson,Old Springfield Mall,You are not bringing that thing home.
+98864,381,28,131000,Homer Simpson,Old Springfield Mall,Then stand back!
+98866,381,30,140000,Homer Simpson,Old Springfield Mall,This doesn't taste like I thought it would.
+98868,381,32,149000,Marge Simpson,Old Springfield Mall,"Well, if you're through, let's check out that discount book warehouse."
+98869,381,33,153000,Homer Simpson,Old Springfield Mall,We already own a book!
+98871,381,35,157000,Marge Simpson,Bookstore,"""Wisconsin From Above,"" ""Veterans' Day Parades,"" ooh, ""Smiles of Ireland""! Redheaded twins? Their mother must have her hands full!"
+98872,381,36,173000,Homer Simpson,Bookstore,"Cool, a carpenter's library!"
+98873,381,37,176000,Homer Simpson,Bookstore,"This doesn't look easy, but I'll bet it is."
+98874,381,38,179000,Marge Simpson,Bookstore,"Well, I like the idea of you as a handyman... and I love the idea of you reading!"
+98875,381,39,185000,Homer Simpson,Bookstore,"Oh yeah? Blah blah blah blah, blah blah blah blah blah..."
+98877,381,41,192000,Homer Simpson,Bookstore,"Blah blah blah, blah blah blah..."
+98879,381,43,197000,Homer Simpson,Bookstore,"Okay, now you do me."
+98881,381,45,198000,Lisa Simpson,Simpson Home,I never wanna go back to that mall. There were eels in the photo booth!
+98882,381,46,203000,Bart Simpson,Simpson Home,Ew.
+98883,381,47,206000,Marge Simpson,Simpson Home,"Bart, here's a letter from your school!"
+98884,381,48,208000,Bart Simpson,Simpson Home,"A fire?! I didn't start a fire in the teachers' lounge! I mean, what fire? I mean, a letter from school? Please elaborate."
+98885,381,49,216000,Marge Simpson,Simpson Home,Someone at your school has a life-threatening peanut allergy.
+98455,381,50,219000,Bart Simpson,Simpson Home,Cool! Who is it?
+98886,381,51,221000,Marge Simpson,Simpson Home,"The letter doesn't say. But from now on, no peanut products are allowed on school property."
+98887,381,52,226000,Marge Simpson,Simpson Home,"Let's see what you've got... Peanut butter and jelly sandwich, trail mix -- starring peanuts, Good grief! More peanuts!"
+98888,381,53,241000,Nascar Announcer,Simpson Home,Harley Mozell is hit from behind by J. T. Delacroix!
+98889,381,54,245000,Nascar Announcer,Simpson Home,"And Earl Tilleson! Oh, and Buddy Rollette! And the Pecker brothers, Danny and Dell! And the ol' Grizzley himself -- Weasel Johnson Junior! Look at that carnage -- we are worse than the ancient Romans!"
+98890,381,55,259000,Marge Simpson,Simpson Home,"Homie, don't you want to build something with your new fix-it books?"
+98891,381,56,262000,Homer Simpson,Simpson Home,I did! I made a foot rest.
+98892,381,57,265000,Marge Simpson,Simpson Home,Don't you have any follow-through on anything?
+98893,381,58,267000,Homer Simpson,Simpson Home,What's the point? We're all slowly dying.
+98895,381,60,274000,Marge Simpson,Simpson Home,"Oh, the floorboard broke my nightstand."
+98897,381,62,288000,Marge Simpson,Simpson Home,"I did it! What's that strange feeling? It's ""of accomplishment""!"
+98899,381,64,307000,Lisa Simpson,Simpson Home,"Wow Mom, you made all this?"
+98900,381,65,309000,Bart Simpson,Simpson Home,It's like you're the Jesus of carpentry.
+98901,381,66,311000,Marge Simpson,Simpson Home,"Aww, what a sweet blasphemy."
+98902,381,67,314000,Lisa Simpson,Simpson Home,This is a valuable skill. People might even pay you to build things for them.
+98903,381,68,319000,Marge Simpson,Simpson Home,I could start my own carpentry business. I'm already arranging the clip art for the letterhead in my mind.
+98904,381,69,329000,Marge Simpson,Simpson Home,Perfect!
+98906,381,71,332000,Gary Chalmers,Suburban House,"Uh, can I help you, Miss?"
+98907,381,72,334000,Marge Simpson,Suburban House,I'm here to fix your bookcase. You answered my flyer.
+98908,381,73,339000,Gary Chalmers,Suburban House,And you're the carpenter?
+98909,381,74,339000,Marge Simpson,Suburban House,That's right.
+98910,381,75,341000,Gary Chalmers,Suburban House,"I see. Not that I have anything against female carpenters, but I have some pictures hanging that you might find um... unsavory. Goodbye."
+98911,381,76,350000,Krusty the Clown,Suburban House,A lady carpenter? I dunno. What if you get pregnant and I'm left with half a hot tub? And don't tell me you're infertile. I ain't fallin' for that again.
+98914,381,78,363000,Marge Simpson,Simpson Home,It's so unfair -- I'm as handy as any man.
+98915,381,79,367000,Homer Simpson,Simpson Home,"You sure are, sweetie -- I love this bed you made."
+98916,381,80,372000,Marge Simpson,Simpson Home,I guess people just expect their carpenter to be some fat guy with his butt crack showing.
+98917,381,81,384000,Marge Simpson,Simpson Home,"Homer, your butt just gave me a brilliant idea!"
+98918,381,82,389000,Homer Simpson,Simpson Home,"Yep, it'll do that."
+98919,381,83,392000,Homer Simpson,Simpson Home,"""Simpsons Manly-Man Handyman"" at your service."
+98920,381,84,395000,Professor Jonathan Frink,Simpson Home,Superlative! Please install a doggie door sized for a teacup poodle.
+98921,381,85,401000,Homer Simpson,Simpson Home,No problem. Why don't you go inside and stir your flubber while I get to work.
+98922,381,86,409000,Homer Simpson,Simpson Home,"Marge, the coast is clear."
+98925,381,89,417000,Professor Jonathan Frink,Simpson Home,I'm terribly sorry. I thought I heard the sound of a woman measuring.
+98926,381,90,420000,Homer Simpson,Simpson Home,"Oh, uh, that was me. You know that old saying: ""measure like a girl, hammer like a guy."""
+98927,381,91,422000,Professor Jonathan Frink,Simpson Home,"Yes, but you're holding your hammer backwards."
+98928,381,92,429000,Homer Simpson,Simpson Home,"Oh, uh... you know what they say, ""hammer with the wood and it's all good."""
+98929,381,93,429000,Homer Simpson,Simpson Home,It's allll good.
+98930,381,94,435000,Professor Jonathan Frink,Simpson Home,"All right, then."
+98932,381,96,435000,Marge Simpson,Kent Brockman's House,"A dash of glue, a turn of screw, and a gazebo's built that's perfect for two -- or more!"
+98933,381,97,453000,Marge Simpson,Kent Brockman's House,"Uh-oh, switch!"
+98934,381,98,458000,Homer Simpson,Kent Brockman's House,...Annnd done.
+98935,381,99,459000,Kent Brockman,Kent Brockman's House,"Mm-hmm! Simpson, you're a master craftsman."
+98936,381,100,462000,Homer Simpson,Kent Brockman's House,Listen... what would you say if I told you a woman did most of the work?
+98937,381,101,467000,Kent Brockman,Kent Brockman's House,I'd have this gazebo torn down and built into a coffin... for your manhood.
+98939,381,103,470000,Kent Brockman,Kent Brockman's House,Why did my hypothetical scenario scare you so?
+98940,381,104,475000,Homer Simpson,Kent Brockman's House,"Uh... Like all manly men, I have a vivid imagination."
+98941,381,105,480000,Kent Brockman,Kent Brockman's House,Well said. Let's take off our shirts and wrestle.
+98943,381,107,488000,Groundskeeper Willie,Springfield Elementary School,"Okay, gimme all your peanuts, Goobers and Fluffer Nutters."
+98945,381,108,494000,Bart Simpson,Springfield Elementary School,"Why should we have to give up our salty snacks, just to keep one allergic kid from exploding?! Who is this selfish jerk anyway?"
+98946,381,109,501000,Milhouse Van Houten,Springfield Elementary School,"It's not me, I swear. I'm only allergic to honey, wheat, dairy, non-dairy, and my own tears."
+98947,381,110,510000,Milhouse Van Houten,Springfield Elementary School,Oh no! Call my allergist!
+98948,381,111,513000,Milhouse Van Houten,Springfield Elementary School,And my optometrist!
+98950,381,113,516000,Bart Simpson,Springfield Elementary School,"Willie, you can tell me: who's the mystery wuss who can't eat peanuts?"
+98951,381,114,522000,Groundskeeper Willie,Springfield Elementary School,I'll never say his name!
+98952,381,115,524000,Bart Simpson,Springfield Elementary School,"""His,"" eh? Hmm, so it's a dude."
+98953,381,116,527000,Groundskeeper Willie,Springfield Elementary School,Who says it's a dude? A principal can be a man or a woman these days.
+98954,381,117,533000,Bart Simpson,Springfield Elementary School,Hmmm.
+98956,381,119,536000,Groundskeeper Willie,Skinner's Office,I've taken all the peanut products. Just like the English took our sheep and our women back in 1291. Then they sent them back -- which was worse!
+98957,381,120,547000,Seymour Skinner,Skinner's Office,"Yes, yes, every day we go through this. Why don't you just incinerate the contraband."
+98958,381,121,552000,Groundskeeper Willie,Skinner's Office,"Will do -- but first, Willie gets his gob-full!"
+98959,381,122,557000,Seymour Skinner,Skinner's Office,Careful with those peanut crumbs! My allergy is so sensitive a single molecule would make my throat close like a museum at four forty-five.
+98962,381,125,568000,Helen Lovejoy,Builders' Barn,"Hello, Marge. Picking up supplies for Handy Homer?"
+98963,381,126,573000,Lindsay Naegle,Builders' Barn,"It must feel good to know that you're ""helping."""
+98964,381,127,573000,Marge Simpson,Builders' Barn,I help more than you might think.
+98965,381,128,578000,Helen Lovejoy,Builders' Barn,Sure you do -- you provide food and sexual release for your handy husband!
+98966,381,129,584000,Lindsay Naegle,Builders' Barn,Looks like you broke something -- better call Homer!
+98969,381,132,591000,Homer Simpson,Simpson Home,"Of course I can make a credenza, whatever that is. Just give all the details to my secretary Shirley."
+98970,381,133,598000,Marge Simpson,Simpson Home,"This is Shirley. Yes, fine, he'll be there tomorrow. Goodbye!"
+98971,381,134,602000,Homer Simpson,Simpson Home,That Shirley is quite a gal. We should fix her up with Barney.
+98972,381,135,604000,Marge Simpson,Simpson Home,"Homie... I think you're taking a little too much credit for my work. I mean, look at your t-shirt!"
+98973,381,136,614000,Homer Simpson,Simpson Home,"Marge, giving me credit was your idea. Now could you rub my butt? I sat on it so much it's a little sore."
+98975,381,138,622000,Homer Simpson,Simpson Home,"Look, I'm sorry you're upset. But if we tell the truth now, I'll be humiliated in front of the whole town. Then you won't be married to a man. You'll be married to some kind of gay jellyfish, floating outside the Florida Keys, cruising for rich snorkelers. You don't want that."
+98976,381,139,640000,Marge Simpson,Simpson Home,I guess I don't.
+98978,381,141,650000,Lisa Simpson,Springfield Elementary School,"Bart, Skinner's gonna be really mad at you."
+98979,381,142,653000,Bart Simpson,Springfield Elementary School,"Yes, you might say he'll ""blow up."""
+98980,381,143,653000,Lisa Simpson,Springfield Elementary School,"Whatever, I've got some paper to mâché."
+98981,381,144,665000,Seymour Skinner,Springfield Elementary School,Simpson! Report to detention at once.
+98982,381,145,668000,Bart Simpson,Springfield Elementary School,"I'm not a big fan of detention. You might say, it drives me nuts."
+98983,381,146,674000,Seymour Skinner,Springfield Elementary School,My allergen!
+98984,381,147,693000,Seymour Skinner,Springfield Elementary School,I'M A COOTIE EATER / I'VE BEEN ONE ALL MY LIFE. / I LIKE THE COOTIES SO MUCH / I HAVE A COOTIE WIFE.
+98987,381,150,696000,Marge Simpson,Lenny's House,Why does Lenny need a windmill anyway?
+98988,381,151,706000,Homer Simpson,Lenny's House,He wants to grind his own corn. Maybe it'll finally shut him up about the high price of cornmeal.
+98989,381,152,713000,Homer Simpson,Lenny's House,Switch!
+98990,381,153,714000,Marge Simpson,Lenny's House,"Switch, switch, switch."
+98991,381,154,717000,Lenny Leonard,Lenny's House,"Wow, great job, Homer."
+98992,381,155,719000,Carl Carlson,Lenny's House,And to think you built this whole thing with your own two hands.
+98993,381,156,722000,Homer Simpson,Lenny's House,"Who'd you think would help me, my wife? Heh."
+98994,381,157,725000,Lenny Leonard,Lenny's House,Your wife? Gimme a break. The only thing women can build is credit card debt!
+98996,381,159,731000,Carl Carlson,Lenny's House,Credit card debt.
+98998,381,161,734000,Carl Carlson,Lenny's House,"Homer, did you leave a power drill on in your toolbox? It's makin' this horrible noise."
+99001,381,163,738000,Homer Simpson,Lenny's House,"Yeah, I hear it too. Maybe we can cover it up by singing a fun song. ""WE WILL, WE WILL ROCK YOU..."""
+99002,381,164,742000,Carl Carlson,Lenny's House,"""WE WILL, WE WILL ROCK YOU / WE WILL, WE WILL ROCK YOU..."""
+99003,381,165,748000,Carl Carlson,Lenny's House,"""WE WILL, WE WILL ROCK YOU! / WE WILL, WE WILL ROCK YOU..."""
+99004,381,166,753000,Carl Carlson,Lenny's House,BUDDY YOU'RE A BOY MAKE A BIG NOISE / PLAYIN' IN THE STREET GONNA BE A BIG MAN SOME DAY...
+99006,381,168,761000,Homer Simpson,Simpson Home,"...I'm sorry, I'm sorry, I'm sorry, infinity. I never expected them to climb on the cabinet and ride it down the biggest hill in town."
+99007,381,169,770000,Marge Simpson,Simpson Home,"Homer, it's time people knew the truth: I'm doing the work and I want the credit."
+99008,381,170,776000,Homer Simpson,Simpson Home,"Look, I understand that you're mad. Which makes now the perfect time to tell you the mayor's hired us to fix the old Springfield roller coaster."
+99009,381,171,787000,Homer Simpson,Simpson Home,"By the way, nice job installing this wall-chart bracket. If the kids ask, I did it."
+99010,381,172,793000,Marge Simpson,Simpson Home,"You're gonna have to fix that roller coaster yourself, 'cause I quit... and I'm taking this with me!"
+99011,381,173,804000,Marge Simpson,Simpson Home,Darn these counter-sunk molly clamps!
+99012,381,174,811000,Seymour Skinner,Simpson Home,This is not going to end well.
+99014,381,176,816000,Homer Simpson,ROLLER COASTER SITE,"Now as I see it, the problem with this roller coaster is there are too many boring ""going-up"" parts."
+99015,381,177,822000,Homer Simpson,ROLLER COASTER SITE,"We need to replace them with kick-ass ""going-down"" parts."
+99017,381,179,828000,Contractor #1,ROLLER COASTER SITE,"Mr. Simpson, shouldn't we begin by securing the struts?"
+99018,381,180,831000,Homer Simpson,ROLLER COASTER SITE,Hmm... let me mull that over.
+99019,381,181,839000,Homer Simpson,ROLLER COASTER SITE,What are struts?
+99020,381,182,843000,Homer Simpson,ROLLER COASTER SITE,I don't know anything about struts.
+99021,381,183,848000,Contractor #1,ROLLER COASTER SITE,This guy's all bubble and no level.
+99022,381,184,851000,Contractor #2,ROLLER COASTER SITE,So what? He's paying us fifty grand.
+99023,381,185,854000,Homer Simpson,ROLLER COASTER SITE,And I promised these guys money I don't have! And they're gonna be so mad!
+99024,381,186,861000,Contractor #1,ROLLER COASTER SITE,Let's go home.
+99025,381,187,865000,Homer Simpson,ROLLER COASTER SITE,Maybe I can sneak home without them seeing me.
+99000,381,190,884000,Mr. Peanut,Springfield Elementary School,Are you ready to be lightly assaulted?
+98830,381,192,894000,Bart Simpson,Springfield Elementary School,Good morn-ing.
+99029,381,194,897000,Bart Simpson,Springfield Elementary School,I brought you breakfast in bed.
+99030,381,195,902000,Bart Simpson,Springfield Elementary School,Eat it.
+99032,381,197,910000,Seymour Skinner,The Android's Dungeon & Baseball Card Shop,Excuse me. I'm supposed to stand in your store window and breastfeed Bilbo Baggins.
+99034,381,199,916000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Your cowering suggests that Bart has found your 'kryptonite'.
+99035,381,200,919000,Seymour Skinner,The Android's Dungeon & Baseball Card Shop,"Kryptonite? What's that? The ""ite"" suffix suggests a mineral."
+99036,381,201,922000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,I do not know whether to laugh or cry at your ignorance. I shall laugh: Ha-ha! Kryptonite is Superman's greatest weakness.
+99037,381,202,929000,Seymour Skinner,The Android's Dungeon & Baseball Card Shop,Wait... maybe Bart has a kryptonite!
+99038,381,203,932000,Seymour Skinner,The Android's Dungeon & Baseball Card Shop,"Perhaps. But for now, you may suckle your Baggins."
+99040,381,205,947000,Seymour Skinner,Springfield General Hospital,"I've got you now, Bart."
+99043,381,208,966000,Lisa Simpson,Simpson Home,"Dad, here's a thought: if you just gave Mom credit, maybe she could help you."
+99044,381,209,971000,Homer Simpson,Simpson Home,"Sweetie, you don't understand. If I can do this myself, then all those lies I told will be true. Don't you want Daddy's lies to be true?"
+99045,381,210,980000,Lisa Simpson,Simpson Home,I'd like a Daddy who lived in the real world.
+99046,381,211,983000,Homer Simpson,Simpson Home,"To Daddy, the real world gets fainter and fainter every day."
+99048,381,213,989000,Bart Simpson,Springfield Elementary School,"Good morning, Seymour. You may be wondering what I'm doing with this hat full of maggots..."
+99049,381,214,995000,Seymour Skinner,Springfield Elementary School,"Actually, I'm not wondering at all."
+99050,381,215,1000000,Seymour Skinner,Springfield Elementary School,"Simpson, you've been waving your nuts in my face for too long. Eat shrimp and die!"
+99051,381,216,1004000,Bart Simpson,Springfield Elementary School,No! I'm allergic!
+99052,381,217,1007000,Seymour Skinner,Springfield Elementary School,Stick-on-stick. Just like the knights of old.
+99053,381,218,1010000,Bart Simpson,Springfield Elementary School,No one teaches me history!
+99055,381,220,1057000,Seymour Skinner,Springfield Elementary School,A wooden sign!
+99057,381,222,1057000,Seymour Skinner,Thai Food Factory,Peanut?!
+99058,381,223,1057000,Bart Simpson,Thai Food Factory,Shrimp?!
+99060,381,224,1062000,Seymour Skinner,Thai Food Factory,"If either of us falls in, we're doomed!"
+99061,381,225,1065000,Bart Simpson,Thai Food Factory,Kids don't die!
+99063,381,227,1071000,Bart Simpson,Thai Food Factory,I was... El Barto.
+99064,381,228,1074000,Seymour Skinner,Thai Food Factory,Nooooo!
+99066,381,230,1079000,Homer Simpson,ROLLER-COASTER SITE,"Welcome, ladies and gentlemen, honored guests, and out-of-town roller-coaster weirdoes."
+99068,381,232,1089000,Marge Simpson,ROLLER-COASTER SITE,Your father's finally gonna get exposed as the credit-stealing fraud he is!
+99069,381,233,1100000,Marge Simpson,ROLLER-COASTER SITE,Perfect.
+99070,381,234,1101000,Homer Simpson,ROLLER-COASTER SITE,And now I give you... the Zoominator!
+99071,381,235,1104000,Crowd,ROLLER-COASTER SITE,Ooooooooooooooooooooh!
+99072,381,236,1106000,Homer Simpson,ROLLER-COASTER SITE,And now to get stinking drunk!
+99074,381,238,1117000,Male Coaster Weirdo,ROLLER-COASTER SITE,I'm not getting married on that!
+99075,381,239,1119000,Female Coaster Weirdo,ROLLER-COASTER SITE,"You won't get married on Colossus, you won't get married on The Zoominator, you won't get married on The Pharaoh's Curse... just say it, it's me!"
+99076,381,240,1126000,Male Coaster Weirdo,ROLLER-COASTER SITE,"Oh no, baby, no!"
+99077,381,241,1127000,Lisa Simpson,ROLLER-COASTER SITE,"Dad, put aside your selfish male ego and tell the truth!"
+99078,381,242,1133000,Homer Simpson,ROLLER-COASTER SITE,"Sure, I'll tell them the truth..."
+99079,381,243,1136000,Homer Simpson,ROLLER-COASTER SITE,The truth is that I'm perfect and everything I touch is perfect!
+99080,381,244,1143000,Marge Simpson,ROLLER-COASTER SITE,"Oh my God, he'll kill himself! He'll never hear me say ""I told you so!"""
+99081,381,245,1146000,Homer Simpson,ROLLER-COASTER SITE,I've never felt saferrrr!
+99082,381,246,1158000,Homer Simpson,ROLLER-COASTER SITE,Uh-oh. Oh. Why must we preserve America's historic roller coasters?
+99083,381,247,1182000,Homer Simpson,ROLLER-COASTER SITE,Thank you honey!
+99084,381,248,1183000,Homer Simpson,ROLLER-COASTER SITE,Everyone! My stupid male pride made me lie to you. Everything I claiiimed I did was actually built by Maaarge!
+99085,381,249,1192000,Crowd,ROLLER-COASTER SITE,Awwww!
+99086,381,250,1198000,Marge Simpson,ROLLER-COASTER SITE,"Homer, I was pretty upset with you, but in the end, I... I... I-beam!"
+99087,381,251,1204000,Homer Simpson,ROLLER-COASTER SITE,Avenge me!
+99089,381,253,1219000,Homer Simpson,Hospital Room,"Marge, I realized something when I was trapped under all that rubble: marriage is the real roller coaster. I'm just glad I have you as my safety bar."
+99090,381,254,1229000,Marge Simpson,Hospital Room,I forgive you my darling. Get well.
+99091,381,255,1235000,Marge Simpson,Hospital Room,"As for you, young man: the next time you save your principal, try not to risk your own life."
+99092,381,256,1241000,Seymour Skinner,Hospital Room,"What kind of lies are you feeding her, Simpson?"
+99093,381,257,1243000,Bart Simpson,Hospital Room,Mind your own beeswax!
+99094,381,258,1254000,Marge Simpson,Hospital Room,I'm gonna go look at the new babies.

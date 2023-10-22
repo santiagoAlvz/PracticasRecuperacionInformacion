@@ -1,0 +1,259 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+25126,121,5,79000,Homer Simpson,Simpson Home,"Marge, are we Jewish?"
+25127,121,6,80000,Marge Simpson,Simpson Home,"No, Homer."
+25128,121,7,82000,Homer Simpson,Simpson Home,Woo hoo!
+25129,121,8,84000,Homer Simpson,Simpson Home,Mmmmm.
+25130,121,9,85000,Kent Brockman,Simpson Home,But first: we all stink.
+25131,121,10,87000,Man In Background,Simpson Home,Hey!
+25098,121,11,88000,Kent Brockman,Simpson Home,That's according to a national survey ranking Springfield as the least popular city in America.
+23943,121,12,94000,Kent Brockman,Simpson Home,In science: dead last.
+25072,121,13,96000,Seymour Skinner,Simpson Home,I'm telling you people the earth revolves around the sun.
+25099,121,14,100000,Grampa Simpson,Simpson Home,Burn him!
+22520,121,15,103000,Reporter,Simpson Home,What a story!
+24456,121,16,104000,Grampa Simpson,Simpson Home,You've stolen my soul.
+25132,121,18,106000,Kent Brockman,SPRINGFIELD PERFORMING ARTS CENTER,In culture: dead last.
+25134,121,20,109000,Krusty the Clown,PERFORMING ARTS CENTER,"Eleanor, we've got to do something about this depression..."
+25135,121,21,109000,Krusty the Clown,PERFORMING ARTS CENTER,"So I propose... Oh, that's right, I'm crippled."
+25137,121,23,117000,Lisa Simpson,Simpson Home,This is horrible. People will start to avoid Springfield.
+25138,121,24,120000,Homer Simpson,Simpson Home,But what can I do? I'm just... one man.
+25139,121,25,124000,Marge Simpson,Simpson Home,"I think we should call a town meeting. If we don't do something soon, we won't get any tourists at all."
+25140,121,26,129000,Bart Simpson,Simpson Home,No tourists? I'll be ruined.
+25141,121,27,131000,Bart Simpson,Simpson Home,Maps to movie stars homes! Mapa por las casas de las cineastas! Top-u stah noh cheezu map-u!
+25143,121,29,143000,Japanese Man,House,Excuse me. Are you Drew Barrymore?
+25144,121,30,146000,Moe Szyslak,House,"Eh, get outta here. I'm hung over!"
+25145,121,31,149000,Japanese Woman,House,"Sorry, Miss Barrymore."
+25146,121,32,150000,Moe Szyslak,House,What?
+25149,121,35,151000,Mayor Joe Quimby,Springfield Town Hall,Are there any suggestions for how to attract more tourism?
+25150,121,36,158000,Patty Bouvier,Springfield Town Hall,"The easiest way to be popular, is to leech off the popularity of others."
+25151,121,37,162000,Selma Bouvier,Springfield Town Hall,So we propose changing our name from Springfield to Seinfeld.
+25152,121,38,162000,Bart Simpson,Springfield Town Hall,"I may be just a boy, but I have an idea. If I may, I'd like to show you a few slides."
+25153,121,39,175000,Bart Simpson,Springfield Town Hall,Here's Springfield as it appears from space. Somewhere in this windy valley is the Lost Dutchman's Mine.
+25154,121,40,181000,Mayor Joe Quimby,Springfield Town Hall,"Young man, that appears to be a picture of your rear end."
+25155,121,41,184000,Bart Simpson,Springfield Town Hall,"So long, suckers!"
+25156,121,42,188000,Bart Simpson,Springfield Town Hall,This is the last time I use a plan devised by Milhouse.
+25157,121,43,192000,Milhouse Van Houten,Springfield Town Hall,"Sorry, Bart."
+25158,121,44,194000,Marge Simpson,Springfield Town Hall,"I'm Marge Simpson, and I have an idea."
+25159,121,45,198000,Person,Springfield Town Hall,Marge is gonna say something.
+25160,121,46,200000,Marge Simpson,Springfield Town Hall,Now I know you haven't liked some of my past suggestions. Like switching to the metric system...
+25161,121,47,206000,Grampa Simpson,Springfield Town Hall,The metric system is the tool of the devil. My car gets 40 rods to the hogshead and that's the way I likes it.
+25162,121,48,216000,Mayor Joe Quimby,Springfield Town Hall,The old person's remarks will be stricken from the record.
+25163,121,49,218000,Grampa Simpson,Springfield Town Hall,Who said that?
+25164,121,50,219000,Marge Simpson,Springfield Town Hall,But my new idea is different. I think we should hold a film festival and give out prizes.
+25165,121,51,225000,Chief Wiggum,Springfield Town Hall,Could we make our own movies and enter them?
+25166,121,52,228000,Marge Simpson,Springfield Town Hall,Yes!
+25167,121,53,228000,Chief Wiggum,Springfield Town Hall,At last -- an excuse to wear make-up!
+25168,121,54,231000,Mayor Joe Quimby,Springfield Town Hall,All in favor of Marge Simpson's film festival idea?
+25169,121,55,234000,Crowd,Springfield Town Hall,Film festival! Film festival!
+25170,121,56,237000,Marge Simpson,Springfield Town Hall,"You like my idea? Actually, I have several others..."
+25171,121,57,241000,Crowd,Springfield Town Hall,Don't push your luck! Don't push your luck!
+25174,121,60,246000,Lisa Simpson,Simpson Home,And... action!
+25175,121,61,247000,Bart Simpson,Simpson Home,"Hello, I'm Bart Simpson. In the past, I've brought you such classic films as ""Homer in the Shower,"" and ""Homer on the Toilet."" And now, I give you... ""The Eternal Struggle."""
+25176,121,62,260000,Homer Simpson,Simpson Home,"Relaxed fit, my Aunt Fanny! Stupid Dockers! Oh, the belt is buckled."
+25178,121,64,270000,Ned Flanders,SPRINGFIELD RIVER,"Now, Maude, in our movie, you lay baby Moses in the basket, then put it among the reeds. Okay? Lights, camera, act - diddily-doddily-doodilly- Action Jackson!"
+25179,121,65,284000,Todd Flanders,SPRINGFIELD RIVER,Help meeeeee... eeeeeee... eeeee.
+25180,121,66,291000,Ned Flanders,SPRINGFIELD RIVER,"Flanders to God, Flanders to God! Get off your cloud and save my Todd."
+25182,121,68,304000,Ned Flanders,SPRINGFIELD RIVER,"Thanks, God."
+25183,121,69,305000,God,SPRINGFIELD RIVER,Okily dokily.
+25185,121,71,307000,Lisa Simpson,Simpson Home,Whatcha doin' Ma?
+25186,121,72,308000,Marge Simpson,Simpson Home,I'm looking for a film critic to help judge our festival. Did you know there are over six hundred critics on TV and Leonard Maltin is the best looking of them all?
+25187,121,73,316000,Lisa Simpson,Simpson Home,Ewww.
+25188,121,74,317000,Jay,Simpson Home,"Welcome to ""Coming Attractions;"" I'm your host Jay Sherman. Thank you! Tonight we review an aging Charles Bronson in ""Death Wish 9."""
+25190,121,76,327000,Charles Bronson,HOSPITAL BED,I wish I was dead. Oy.
+25191,121,77,330000,Jay,HOSPITAL BED,"But first we have a special guest: Rainer Wolfcastle, star of the reprehensible McBain movies."
+25192,121,78,337000,Rainier Wolfcastle,HOSPITAL BED,"Jay, my new film is a mix of action and comedy. It's called ""McBain -- Let's Get Silly."""
+148000,121,79,344000,McBain,HOSPITAL BED,Did you ever notice how men always leave the toilet seat up? That's the joke.
+25193,121,80,350000,Man In Audience,HOSPITAL BED,"You suck, McBain!"
+148001,121,81,356000,McBain,HOSPITAL BED,"Now, my Woody Allen impression: I'm a neurotic nerd who likes to sleep with little girls."
+25194,121,82,358000,Audience,HOSPITAL BED,"Hey, that really sucks."
+25195,121,83,368000,Rainier Wolfcastle,HOSPITAL BED,The film is just me in front of a brick wall for an hour and a half. It cost Eighty million dollars.
+25196,121,84,374000,Jay,HOSPITAL BED,How do you sleep at night?
+25197,121,85,377000,Rainier Wolfcastle,HOSPITAL BED,"On top of a pile of money, with many beautiful ladies."
+25198,121,86,380000,Jay,HOSPITAL BED,Just asking. Yeesh.
+25199,121,87,383000,Lisa Simpson,HOSPITAL BED,"I like him. He's smart, he's sensitive, he's clearly not obsessed with his physical appearance..."
+25200,121,88,388000,Homer Simpson,HOSPITAL BED,My ears are burning.
+25201,121,89,390000,Lisa Simpson,HOSPITAL BED,"Uh, I wasn't talking about you, Dad."
+25202,121,90,392000,Homer Simpson,HOSPITAL BED,"No, my ears are really burning. I wanted to see inside, so I lit a Q-tip."
+25203,121,91,396000,Marge Simpson,HOSPITAL BED,"""Dear Mr. Sherman. On behalf of the people of Springfield, I would like to invite you to judge our film festival."""
+25205,121,93,404000,Marge Simpson,N.Y. CITY,"""You can stay with us, and enjoy the sights and sounds of the country."""
+25206,121,94,408000,Homer Simpson,N.Y. CITY,"Marge, is this a pimple or a boil?"
+25207,121,95,410000,Marge Simpson,N.Y. CITY,"Just a minute, Homer! Oh, look what you made me write! Anyway, we think you'll really enjoy our quiet little town. Sincerely, Marge Simpson."""
+25208,121,96,418000,Jay,N.Y. CITY,Hmm. Do I really want to leave Manhattan?
+25209,121,97,422000,Rainier Wolfcastle,N.Y. CITY,"Sherman, I just realized you've insulted me. Now you will die."
+25210,121,98,427000,Jay,N.Y. CITY,"Hey nudnick, your shoe's untied."
+25211,121,99,430000,Rainier Wolfcastle,N.Y. CITY,"From here they appear to be tied, but I will go in for a closer look."
+25212,121,100,435000,Jay,N.Y. CITY,Taxi!
+25213,121,101,436000,Jay,N.Y. CITY,To the airport!
+25214,121,102,441000,Rainier Wolfcastle,N.Y. CITY,"On closer inspection, these are loafers."
+25216,121,104,450000,P.A. Announcer,Springfield Airport,"Attention, the flight from New York has arrived."
+25217,121,105,453000,New York Pilot,Springfield Airport,"Hey, I'm landing here!"
+25219,121,107,458000,Marge Simpson,Airport,"It's supposed to say Jay's name, not yours."
+25220,121,108,461000,Homer Simpson,Airport,"Oh, you're right."
+25221,121,109,466000,Homer Simpson,Airport,There ya... Just second...
+25222,121,110,470000,Homer Simpson,Airport,"Oh, that should..."
+25223,121,111,471000,Marge Simpson,Airport,"Hello, I'm Marge Simpson and this is my husband, Homer."
+25224,121,112,475000,Jay,Airport,"Oh, nice to meet you, Marge. I saw your hair from the plane. And you must be the man who didn't know if he had a pimple or a boil."
+25225,121,113,483000,Homer Simpson,Airport,It was a gummy bear.
+25227,121,115,484000,TV Announcer,Simpson Home,"Coming up next: ""The Flintstones Meet the Jetsons."""
+25228,121,116,488000,Bart Simpson,Simpson Home,Uh oh. I smell another cheap cartoon crossover.
+25229,121,117,492000,Homer Simpson,Simpson Home,"Bart Simpson, meet Jay Sherman, the Critic."
+25230,121,118,495000,Jay,Simpson Home,Hello.
+25231,121,119,496000,Bart Simpson,Simpson Home,"Hey man, I really love your show. I think all kids should watch it. I suddenly feel so dirty."
+25233,121,121,507000,C. Montgomery Burns,Burns's Office,I don't know what's happening. It seems our profits have dropped thirty-seven percent.
+25234,121,122,512000,Waylon Smithers,Burns's Office,"I'm afraid we have a bad image, sir. Market research shows people see you as something of an ogre."
+25235,121,123,516000,C. Montgomery Burns,Burns's Office,I ought to club them and eat their bones!
+25236,121,124,519000,Waylon Smithers,Burns's Office,"Heh-heh. Well maybe this film festival could help us. A film biography might let them get to know the real you -- virtuous, heroic, nubile..."
+25237,121,125,527000,C. Montgomery Burns,Burns's Office,You left out pleasant!
+25238,121,126,529000,C. Montgomery Burns,Burns's Office,"But I like that film biography idea. A slick Hollywood picture to gloss over my evil rise to power, like ""Bugsy,"" or ""Working Girl."" Get me Steven Spielberg!"
+25239,121,127,540000,Waylon Smithers,Burns's Office,He's unavailable.
+25240,121,128,541000,C. Montgomery Burns,Burns's Office,Then get me his non-union Mexican equivalent.
+25242,121,130,544000,C. Montgomery Burns,Burns's Office,"Listen, Señor Spielbergo. I want you to do for me what Spielberg did for Oskar Schindler."
+25243,121,131,549000,Spielbergo,Burns's Office,Schindler es bueno. Senior Burns es el diablo!
+25244,121,132,553000,C. Montgomery Burns,Burns's Office,"Listen, Spielbergo, Schindler and I are like peas in a pod! We're both factory owners; we both made shells for the Nazis, but mine worked damn it! Now go out there and win me that festival."
+25246,121,134,567000,Marge Simpson,Simpson Home,"Homer, the guest should get the last pork chop."
+25247,121,135,570000,Homer Simpson,Simpson Home,"But, I'm still hungry."
+25249,121,137,583000,Lisa Simpson,Simpson Home,"Mr. Sherman, I understand you have two Pulitzer prizes."
+25250,121,138,586000,Jay,Simpson Home,"Well, I, heh heh, it's not like I carry them around with me. Ooh, it's so hot in here."
+25251,121,139,592000,Jay,Simpson Home,"Oh, look, here's my Peoples' Choice Award..."
+25252,121,140,595000,Jay,Simpson Home,Five Golden Globes...
+25253,121,141,599000,Jay,Simpson Home,Hmmm... Where's my Emmy?
+25255,121,143,603000,Jay,Simpson Home,Thank you!
+25256,121,144,604000,Homer Simpson,Simpson Home,"Yeah, well I won the belching contest at work."
+25257,121,145,611000,Jay,Simpson Home,Very nice Homer.
+25258,121,146,622000,Lisa Simpson,Simpson Home,Wow. How many Pulitzer Prizes winners can do that?
+25259,121,147,625000,Jay,Simpson Home,Just me and Eudora Welty.
+25260,121,148,628000,Marge Simpson,Simpson Home,"Oh, I invited my sisters over."
+25261,121,149,630000,Jay,Simpson Home,"Oooh, sisters. Allow me."
+25264,121,152,637000,Jay,Simpson Home,"So then, I said to Woody Allen: ""Well, Camus can do, but Sartre is smartre."""
+25265,121,153,637000,Selma Bouvier,Simpson Home,So original.
+25266,121,154,645000,Marge Simpson,Simpson Home,How droll.
+25267,121,155,647000,Homer Simpson,Simpson Home,"Yeah, well Scooby Doo can doo-doo... but Jimmy Carter is smarter!"
+25268,121,156,647000,Patty Bouvier,Simpson Home,"Okay, Sherman, you're a movie expert..."
+25269,121,157,662000,Selma Bouvier,Simpson Home,"So, tell us. Who's gay?"
+25270,121,158,663000,Jay,Simpson Home,"Oh, I don't know... Harvey Fierstein."
+25271,121,159,666000,Selma Bouvier,Simpson Home,No!
+25272,121,160,667000,Patty Bouvier,Simpson Home,Who else?
+25273,121,161,668000,Jay,Simpson Home,"Uh, uh..."
+25274,121,162,670000,Jay,Simpson Home,"Oh, McGyver's gay!"
+25279,121,167,677000,Bart Simpson,Simpson Home,"You bad-mouthed McGyver, didn't you?"
+25280,121,168,684000,Jay,Simpson Home,Muh... muh... muh...
+25281,121,169,684000,Homer Simpson,Simpson Home,"Whatcha doing, Marge?"
+25282,121,170,686000,Marge Simpson,Simpson Home,Making out the jury list for the film festival. Mayor Quimby -- Krusty -- Jay --
+25283,121,171,692000,Homer Simpson,Simpson Home,"Marge, do you respect my intelligence?"
+25284,121,172,698000,Marge Simpson,Simpson Home,Yes.
+25285,121,173,698000,Homer Simpson,Simpson Home,Okay! Wait a minute. Why did it take you so long to say yes?
+25286,121,174,706000,Marge Simpson,Simpson Home,No reason.
+25287,121,175,707000,Homer Simpson,Simpson Home,Okay! Wait a minute. Are you humoring me?
+25288,121,176,714000,Marge Simpson,Simpson Home,Yes.
+25289,121,177,715000,Homer Simpson,Simpson Home,"Okay! Wait a minute. That's bad! Look, I know I'm not witty like that critic guy. But does he know all the words to the Oscar Mayer song?"
+25290,121,178,725000,Jay,Simpson Home,"OH, I WISH I WERE AN OSCAR MAYER WEINER..."
+25291,121,179,729000,Lisa Simpson,Simpson Home,THAT IS WHAT I'D TRULY LIKE TO BE/ 'CAUSE IF I WERE AN OSCAR MEYER WEINER...
+25292,121,180,737000,Jay,Simpson Home,EVERYONE WOULD BE IN LOVE WITH MEEE!
+25294,121,182,748000,Homer Simpson,Simpson Home,"That's it, Marge, he knows the whole hot dog song. Go ahead, sleep with him. I'll just take a lock of your hair to remember you by."
+25295,121,183,757000,Homer Simpson,Simpson Home,"It's just you and me now, lock of hair..."
+25296,121,184,759000,Marge Simpson,Simpson Home,You don't have to do this.
+25297,121,185,761000,Homer Simpson,Simpson Home,"Yeah, well you think I'm stupid."
+25298,121,186,763000,Marge Simpson,Simpson Home,I don't think you're stupid.
+25299,121,187,764000,Homer Simpson,Simpson Home,Prove it.
+25300,121,188,764000,Homer Simpson,Simpson Home,Put me on that film jury festival thing.
+25301,121,189,767000,Marge Simpson,Simpson Home,Fine. You're on the jury.
+25304,121,192,776000,Waylon Smithers,Burns Manor,"Sir, the actors are here to audition for the part of you."
+25305,121,193,779000,C. Montgomery Burns,Burns Manor,Excellent.
+25306,121,194,783000,Actor #1,Burns Manor,Excellent.
+25307,121,195,786000,C. Montgomery Burns,Burns Manor,Next.
+25308,121,196,787000,Actor #3,Burns Manor,Ex... cell... ent.
+25309,121,197,788000,C. Montgomery Burns,Burns Manor,Next.
+25310,121,198,789000,Homer Simpson,Burns Manor,"Exactly. Heh, heh."
+25311,121,199,793000,C. Montgomery Burns,Burns Manor,Next.
+25312,121,200,794000,Bumblebee Man,Burns Manor,Excellente.
+25313,121,201,795000,Spielbergo,Burns Manor,Es muy bueno.
+25314,121,202,797000,C. Montgomery Burns,Burns Manor,"Oh, it's hopeless. I'll have to play myself."
+25316,121,204,802000,Dr. Julius Hibbert,Aztec Theater,"Oh, I thought they were playing ""The Rocky Horror Picture Show"" tonight."
+25317,121,205,808000,Jay,Aztec Theater,"Our first film is by Indian director Apu Nahassapemapetilan: ""Bright Lights, Beef Jerky."""
+25318,121,206,815000,Apu Nahasapeemapetilon,Aztec Theater,"Help, help, police!"
+25319,121,207,817000,Chief Wiggum,Aztec Theater,"Hey, I've got problems of my own right now."
+25320,121,208,819000,Chief Wiggum,Aztec Theater,"Oh boy, this is gonna get worse before it gets better."
+25322,121,209,825000,Jay,Aztec Theater,"Next, we have Moe the bartender in ""MO' BETTER BOOZE."""
+25323,121,210,829000,Moe Szyslak,Aztec Theater,MONEY GETS YOU ONE MORE ROUND/ DRINK IT DOWN/ YA STUPID CLOWN/ MONEY GETS YOU ONE MORE ROUND/ THEN YOU'RE OUT ON YOUR ASS... WHOA!
+25324,121,211,840000,Moe Szyslak,Aztec Theater,Augggh my back!
+25325,121,212,856000,Hans Moleman,Aztec Theater,"Hans Moleman Productions presents ""Man Getting Hit By Football."""
+25326,121,213,856000,Homer Simpson,Aztec Theater,This contest is over. Give that man the ten thousand dollars!
+25327,121,214,861000,Jay,Aztec Theater,"This isn't ""America's Funniest Home Videos."""
+25328,121,215,864000,Homer Simpson,Aztec Theater,But ... The ball... His groin!... It works on so many levels! Roll it again.
+25329,121,216,873000,Barney Gumble,Aztec Theater,"Next, they're gonna show my movie."
+25330,121,217,875000,Bart Simpson,Aztec Theater,You made a movie?
+25331,121,218,876000,Barney Gumble,Aztec Theater,"I made a movie? No wonder I was on the cover of ""Entertainment Weekly."""
+25332,121,219,887000,Barney Gumble,Aztec Theater,"My name is Barney Gumbel. I'm forty, I'm single, and I drink."
+25334,121,221,900000,Barney Gumble,Moe's Tavern,"There's a line in ""Othello"" about a drinker -- ""now a sensible man, by and by a fool, and presently a beast."" That pretty well covers it."
+25335,121,222,916000,Woman,Moe's Tavern,"It's brilliant. Savagely honest, tender -- he has the soul of a poet."
+25336,121,223,921000,Barney Gumble,Moe's Tavern,You're very kind.
+25337,121,224,922000,Woman,Moe's Tavern,Excuse me did something crawl down your throat and die?
+25338,121,225,925000,Barney Gumble,Moe's Tavern,It didn't die.
+25339,121,226,926000,Barney Gumble,Moe's Tavern,My name is Barney and I'm an alcoholic.
+25340,121,227,929000,Lisa Simpson,Moe's Tavern,"Mr. Gumbel, this is a Girl Scout meeting."
+25341,121,228,932000,Barney Gumble,Moe's Tavern,Is it? Or is it that you girls can't admit you have a problem?
+25343,121,230,941000,Barney Gumble,Barney's Apartment,Don't cry for me. I'm already dead.
+25345,121,232,958000,Jay,Barney's Apartment,I think we have a winner.
+25346,121,233,960000,Homer Simpson,Barney's Apartment,What'd I miss?
+25347,121,234,961000,Marge Simpson,Barney's Apartment,"Homer, please pay attention. There's just one more movie."
+25348,121,235,976000,C. Montgomery Burns,Barney's Apartment,"Simple villagers, I promise you I will close plants in America and bring work here."
+25349,121,236,982000,Bumblebee Man,Barney's Apartment,Viva Señor Burns!
+25350,121,237,984000,Villagers,Barney's Apartment,Viva! Viva!
+25351,121,238,986000,C. Montgomery Burns,Barney's Apartment,Whoa-oa-oa!
+25352,121,239,992000,C. Montgomery Burns,Barney's Apartment,We did twenty takes and that was the best one.
+25353,121,240,995000,C. Montgomery Burns,Barney's Apartment,"Remember, Elliot, I'll be right here."
+25354,121,241,1010000,Audience,Barney's Apartment,Pure egotism. / Self indulgent tripe.
+25355,121,242,1012000,C. Montgomery Burns,Barney's Apartment,I don't care what they say. I'm going to win this festival.
+25357,121,244,1027000,C. Montgomery Burns,Desert,"Drink up, Judah Ben Hur."
+25358,121,245,1031000,BEN HUR,Desert,You truly are the King of Kings.
+25359,121,246,1036000,C. Montgomery Burns,Desert,Excellent.
+25360,121,247,1042000,C. Montgomery Burns,Desert,"Smithers, are they booing me?"
+25361,121,248,1044000,Waylon Smithers,Desert,"No, they're saying ""Boourns,"" ""Boourns."""
+25362,121,249,1044000,C. Montgomery Burns,Desert,"Are you saying ""boo"" or ""Boourns?"""
+25363,121,250,1044000,Audience,Desert,Boo!
+25364,121,251,1053000,Hans Moleman,Desert,"I was saying ""Boourns."""
+25366,121,253,1053000,Marge Simpson,Springfield Hotel,All right. It's time to vote for the grand prize.
+25367,121,254,1064000,Jay,Springfield Hotel,"I vote for Barney Gumbel's sensitive, yet unfortunately titled film, Puke-ahontas."
+25368,121,255,1069000,Marge Simpson,Springfield Hotel,Second.
+25369,121,256,1070000,Mayor Joe Quimby,Springfield Hotel,"Well, I vote for Burns' movie."
+25370,121,257,1072000,Krusty the Clown,Springfield Hotel,"Me too. Now, let's get going. I got a date with Eudora Welty."
+25372,121,259,1077000,Krusty the Clown,Springfield Hotel,"Coming, Eudora."
+25374,121,261,1081000,C. Montgomery Burns,Burns's Office,Excellent. Bribing those two judges has paid off. Just as it did during the Miss Teen America pageant.
+25376,121,263,1089000,Jay,COMMITTEE ROOM,How can you vote for Burns' movie?
+25377,121,264,1091000,Krusty the Clown,COMMITTEE ROOM,"Let's just say, it moved me. To a bigger house. Oops. I said the quiet part loud and the loud part quiet. Oh, oh dear."
+25378,121,265,1099000,Jay,COMMITTEE ROOM,"Two to two. Well, Homer, it all comes down to you."
+25379,121,266,1102000,Homer Simpson,COMMITTEE ROOM,Football in the groin. Football in the groin.
+25380,121,267,1105000,Jay,COMMITTEE ROOM,"Well, we're not gonna resolve this deadlock any time soon."
+25381,121,268,1108000,Marge Simpson,COMMITTEE ROOM,Why don't we all take a five minute break? It'll clear our heads.
+25382,121,269,1111000,Homer Simpson,COMMITTEE ROOM,"Good idea, Marge. My mind is going a mile a minute."
+25384,121,271,1119000,Marge Simpson,Hotel Hallway,I knew this would happen. I put you on the jury and you vote for the stupidest film.
+25387,121,272,1124000,Homer Simpson,Hotel Hallway,I have every right to be on that jury even though I got there because I'm sleeping with the head of the festival.
+25388,121,273,1129000,Jay,Hotel Hallway,How many times have I heard Rex Reed say that?
+25389,121,274,1132000,Homer Simpson,Hotel Hallway,"Oh great, now you're going to make fun of me."
+25390,121,275,1134000,Jay,Hotel Hallway,"No, Homer, I won't make fun of you. But I will suggest that there may be better things in life than seeing a man get hit in the groin with a football."
+25391,121,276,1142000,Nelson Muntz,Hotel Hallway,Haw haw.
+25392,121,277,1144000,Marge Simpson,Hotel Hallway,"Well, Homer."
+25393,121,278,1145000,Homer Simpson,Hotel Hallway,"Marge, I've got some serious thinking to do."
+25394,121,279,1151000,Homer Simpson,Hotel Hallway,Hm. Barney's movie has heart. But football in the groin had a football in the groin.
+25395,121,280,1158000,Barney Gumble,Hotel Hallway,Don't cry for me. I'm already dead.
+25396,121,281,1161000,Homer Simpson,Hotel Hallway,Wow. I'll never drink another beer.
+25397,121,282,1164000,Vendor,Hotel Hallway,Beer here!
+25398,121,283,1165000,Homer Simpson,Hotel Hallway,I'll take ten.
+25400,121,285,1166000,Jay,Aztec Theater,"And now to announcer the winner. The award for outstanding animated short goes to Itchy and Scratchy for their film, ""Four Funerals and a Wedding."""
+25402,121,287,1204000,Jay,First Church of Springfield,"And now, the winner of the grand prize:"
+25403,121,288,1210000,Jay,First Church of Springfield,Barney Gumbel!
+25404,121,289,1210000,Barney Gumble,First Church of Springfield,What?
+25405,121,290,1217000,Marge Simpson,First Church of Springfield,"Homie, you voted for the right movie. I'm glad you were on the jury."
+25406,121,291,1222000,Homer Simpson,First Church of Springfield,"Aw, you know something Marge, it's not that tough being a film cricket."
+25407,121,292,1228000,Barney Gumble,First Church of Springfield,"I've learned I have a gift to share with the world. From now on there'll be a new Barnard Gumbel -- hardworking, clean and sober."
+25408,121,293,1237000,Mayor Joe Quimby,First Church of Springfield,"Congratulations, Barney. And enjoy your grand prize: a lifetime supply of Duff Beer."
+25409,121,294,1243000,Barney Gumble,First Church of Springfield,Just hook it to my veins!
+25411,121,296,1247000,Lisa Simpson,Springfield Airport,"Goodbye, Mr. Sherman. If I ever play Carnegie Hall, I'll give you a call."
+25412,121,297,1253000,Jay,Springfield Airport,And if you ever want to visit my show...
+25413,121,298,1255000,Bart Simpson,Springfield Airport,"Nah, we're not gonna be doing that."
+25414,121,299,1256000,Marge Simpson,Springfield Airport,"Well, Jay, I hope you tell your New York friends that people in small towns aren't quite as dumb as they think."
+25416,121,300,1262000,Homer Simpson,Springfield Airport,"Marge, look. This has spring snakes inside, but the suckers will think it's Beer Nuts. Mmm... Beer Nuts."
+25418,121,302,1271000,Marge Simpson,Springfield Airport,"Well, it was a lovely festival. The best movie won and Mr. Burns found there are some awards that can't be bought."
+25420,121,304,1278000,Rainier Wolfcastle,Dorothy Chandler Pavilion,And the Oscar goes to...
+25421,121,305,1280000,C. Montgomery Burns,Dorothy Chandler Pavilion,I've got to win this one. I've bribed everyone in Hollywood.
+25422,121,306,1284000,Rainier Wolfcastle,Dorothy Chandler Pavilion,"George C. Scott in ""Man Getting Hit By Football."""
+25423,121,307,1292000,Actor,Dorothy Chandler Pavilion,My groin.

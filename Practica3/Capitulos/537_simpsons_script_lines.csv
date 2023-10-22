@@ -1,0 +1,217 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+139692,537,1,55000,Female Singers,THE OLD WEST,SKINNER!
+139693,537,2,56000,Male Singer,THE OLD WEST,SKINNER! / HE PATROLS THE SCHOOL HALLS...
+139694,537,3,57000,Female Singers,THE OLD WEST,SKINNER!
+139695,537,4,64000,Male Singer,THE OLD WEST,"WHEN YOU SPIT, HE'S GOT THE BALLS!"
+139696,537,5,69000,Male Singer,THE OLD WEST,AS YOU MOSEY THROUGH THE SCHOOL / ALL THE KIDS SAY YOU'RE SO COOL
+139697,537,6,75000,Male Singer,THE OLD WEST,AND YOU EVEN MADE BART SIMPSON SPILL HIS MILK!
+139698,537,7,84000,Female Singers,THE OLD WEST,SKINNER!
+139699,537,8,86000,Male Singer,THE OLD WEST,SKINNER! YOU'RE THE MASTER OF YOUR FATE!
+139700,537,9,97000,Gary Chalmers,THE OLD WEST,Skin-ner!
+139702,537,11,99000,Seymour Skinner,Springfield Elementary School,SKINNER! / YOU SURE LOOK GOOD IN CHAPS... SKINNER...
+139703,537,12,105000,Gary Chalmers,Springfield Elementary School,Wake up! You're on!
+139704,537,13,109000,Seymour Skinner,Springfield Elementary School,"Children, I have some exciting news."
+139706,537,14,112000,Seymour Skinner,Springfield Elementary School,"I'm here to tell you about a field trip so amazing we've put ""sign here"" stickers on the permission slips."
+139707,537,15,117000,Seymour Skinner,Springfield Elementary School,"As you recall these stickers came from last year's field trip to the ""sign here"" sticker factory. But thanks to my old navy buddy -- we both love to shop at Old Navy...the students of this school will be taking a ride on a nuclear-powered, attack-class submarine -- the U.S.S. Tom Clancy!"
+139709,537,17,147000,Seymour Skinner,Springfield Elementary School,"So you're all excited, eh?"
+139710,537,18,148000,Kids,Springfield Elementary School,YAY!
+139711,537,19,149000,Seymour Skinner,Springfield Elementary School,"Well that's too bad, because many of you will not be going."
+139713,537,21,153000,Seymour Skinner,Springfield Elementary School,"There is limited room on the submarine, so only the best-behaved students...as determined by me...will go on the trip."
+139714,537,22,166000,Nerds,Springfield Elementary School,Woo hoo!
+139715,537,23,166000,Database,Springfield Elementary School,Well I get to go!
+139716,537,24,166000,Seymour Skinner,Springfield Elementary School,"To increase the tension, everyone starts with a clean slate. But from this moment on..."
+139717,537,25,171000,Seymour Skinner,Springfield Elementary School,I am the law. I hold the red pen.
+139718,537,26,175000,Female Singers,Springfield Elementary School,SKINNER!
+139719,537,27,178000,Seymour Skinner,Springfield Elementary School,"Pranks, inside use of outside voice, off-color whistling, and you're stricken from the list. And once crossed off, you stay crossed off. That's what pens do."
+139721,537,29,198000,Female Astronaut,Springfield Elementary School,Help! I'm trapped in space with a man I don't like!
+139723,537,31,201000,Bart Simpson,Simpson Home,Aooga!
+139724,537,32,203000,Bart Simpson,Simpson Home,"Submerge! Periscope! Aooga! Aooga! Die, Nazi octopus, die!"
+139725,537,33,212000,Marge Simpson,Simpson Home,"Sweetie, about the submarine... what's your favorite food to eat when you're disappointed? I'm going shopping tomorrow."
+139726,537,34,218000,Bart Simpson,Simpson Home,Ice cream sandwiches. Why?
+139727,537,35,221000,Homer Simpson,Simpson Home,What your mother is trying to say is we don't think you can be good that long.
+139728,537,36,225000,Bart Simpson,Simpson Home,"Mom, is that true?"
+139729,537,37,227000,Marge Simpson,Simpson Home,"Well, that's sort of what I was trying to say. But..."
+139730,537,38,231000,Homer Simpson,Simpson Home,What your mother is trying to say is--
+139731,537,39,233000,Bart Simpson,Simpson Home,"No, you're wrong! You're all wrong!"
+139732,537,40,237000,Lisa Simpson,Simpson Home,I didn't say anything.
+139705,537,41,237000,Bart Simpson,Simpson Home,Were you thinking it?
+139733,537,42,237000,Lisa Simpson,Simpson Home,Yes.
+139734,537,43,239000,Homer Simpson,Simpson Home,"Get real, ding dong! You've already done so much bad stuff, Skinner's never going to let you on that boat."
+139735,537,44,245000,Bart Simpson,Simpson Home,"No, Skinner said I had a clean slate. So right now, I'm as good as any other kid."
+139737,537,46,253000,Lisa Simpson,Simpson Home,"Good one, ding dong!"
+139738,537,47,255000,Bart Simpson,Simpson Home,Mom!
+139739,537,48,256000,Marge Simpson,Simpson Home,Don't listen to them. They're the ding dongs.
+139741,537,50,260000,Marge Simpson,Simpson Home,"Bart, sweetie, this is an opportunity for you to turn things around, yet again. And I believe in you. Yet again."
+139742,537,51,268000,Bart Simpson,Simpson Home,"Thanks, Mom. I'll start by taking my plate to the dishwasher...wherever that is."
+139743,537,52,275000,Homer Simpson,Simpson Home,"Marge, I love Bart as much as you do but actually not. And that kid cannot go one week without getting in trouble. Now if you'd be so kind as to start my car for me, I'm going to Moe's."
+139745,537,54,290000,Homer Simpson,Simpson Home,Ooh! Thank you.
+139746,537,55,296000,Lisa Simpson,Simpson Home,What are you doing?
+139747,537,56,303000,Bart Simpson,Simpson Home,"To avoid temptation, I'm getting rid of all the things that could get me in trouble at school. I buried all my whoopee cushions in the back yard."
+139749,537,58,316000,Homer Simpson,Backyard,What the?
+139750,537,59,318000,Bart Simpson,Backyard,That's not where I buried them.
+139751,537,60,319000,Homer Simpson,Backyard,Come on.
+139753,537,62,324000,Krusty the Clown,SPRINGFIELD NEIGHBORHOOD,Don't take my custom limo! At least let me sniff my coke out of the floor mats!
+139754,537,63,331000,Krusty the Clown,SPRINGFIELD NEIGHBORHOOD,"Oh, hi little girl. What brings you to see Uncle Krusty?"
+139755,537,64,332000,Lisa Simpson,SPRINGFIELD NEIGHBORHOOD,"Krusty, are you broke?"
+139756,537,65,337000,Krusty the Clown,SPRINGFIELD NEIGHBORHOOD,"Yeah. All it takes is some bad luck at the ponies, worse luck in the bitcoin market, heavy investment in a high-end bookmark company..."
+139757,537,66,345000,Lisa Simpson,SPRINGFIELD NEIGHBORHOOD,"You could do what ""Everybody Loves Raymond"" did."
+139758,537,67,347000,Krusty the Clown,SPRINGFIELD NEIGHBORHOOD,"Go off the air while I'm still good? That horse has left the stable, gone to the glue factory, and has been used to make art projects."
+139759,537,68,355000,Lisa Simpson,SPRINGFIELD NEIGHBORHOOD,I mean you could sell foreign rights to your show. Even SpongeBob did it.
+139760,537,69,361000,Sea Sponge,SPRINGFIELD NEIGHBORHOOD,"Buon compleanno, Squiduardo!"
+139762,537,70,364000,Squiduardo,SPRINGFIELD NEIGHBORHOOD,"No, no, no, Roberto! E 'una mina della seconda guerra mondiale, che farà saltare in aria e..."
+139763,537,71,373000,Widowfish,SPRINGFIELD NEIGHBORHOOD,Calamari?! Nooo!
+139764,537,72,380000,Krusty the Clown,SPRINGFIELD NEIGHBORHOOD,"Cute stuff. But I'm still broke, girlie."
+139765,537,73,383000,Krusty the Clown,SPRINGFIELD NEIGHBORHOOD,Not my Monet! I only looked at it once!
+139766,537,74,386000,Lisa Simpson,SPRINGFIELD NEIGHBORHOOD,"What I'm saying is, you could produce foreign versions of your TV show with actors from other countries..."
+139767,537,75,392000,Krusty the Clown,SPRINGFIELD NEIGHBORHOOD,"Okay, I'll do it!"
+139768,537,76,394000,Krusty the Clown,SPRINGFIELD NEIGHBORHOOD,Not my Shetland dolphin! Although I won't miss the constant yapping.
+139769,537,77,399000,Dolphin,SPRINGFIELD NEIGHBORHOOD,Pa-pa!
+139770,537,78,401000,Repo Man,SPRINGFIELD NEIGHBORHOOD,"Not anymore, he ain't."
+139772,537,80,421000,Seymour Skinner,Springfield Elementary School,Gum on the floor. Off the list.
+139774,537,82,427000,Seymour Skinner,CAFETERIA,Unauthorized meat-a-pult. Off the list.
+139775,537,83,432000,Seymour Skinner,CAFETERIA,Lips touching the fountain. Off the list.
+139776,537,84,433000,DOLPH,CAFETERIA,It's not my fault there's no water pressure!
+139777,537,85,436000,Seymour Skinner,CAFETERIA,Excuses are like handkerchiefs -- everybody's got one.
+139778,537,86,439000,Database,CAFETERIA,I don't have a handkerchief.
+139779,537,87,441000,Seymour Skinner,CAFETERIA,Off the list!
+139780,537,88,442000,Bart Simpson,CAFETERIA,"Firm but fair, sir."
+139781,537,89,444000,Bart Simpson,CAFETERIA,Don't want any troublemakers on our submarine.
+139782,537,90,446000,Seymour Skinner,CAFETERIA,"Not bad, Simpson. Did you wash your knees?"
+139783,537,91,449000,Bart Simpson,CAFETERIA,"Front and back, sir."
+139784,537,92,452000,Lisa Simpson,CAFETERIA,Principal Skinner? I object to this arbitrary use of power and request I be taken off the list.
+139785,537,93,465000,Seymour Skinner,CAFETERIA,Off the list!
+139786,537,94,465000,Lisa Simpson,CAFETERIA,Thank you.
+139788,537,96,469000,Bart Simpson,School Bus,"Aw man, five days without pranking. I'm getting strange red marks."
+139789,537,97,474000,Bart Simpson,School Bus,But I'm gonna make it.
+139790,537,98,478000,Otto Mann,School Bus,Uh-oh. Something's wrong with my long yellow car.
+139791,537,99,483000,Otto Mann,School Bus,Any of you kids got a triple A card?
+139792,537,100,488000,Bart Simpson,School Bus,What?! No! I'll be late! Skinner will cross my name off the list!
+139793,537,101,507000,Otto Mann,School Bus,All fixed up!
+139795,537,103,524000,Seymour Skinner,Springfield Elementary School,Off the list.
+139761,537,104,527000,Bart Simpson,Springfield Elementary School,For what?
+139796,537,105,528000,Seymour Skinner,Springfield Elementary School,Muddy footprints on the school floor.
+139797,537,106,528000,Seymour Skinner,Springfield Elementary School,I've broken a ten-year-old's spirit. Time to celebrate... with a fruit-on-the-bottom yogurt.
+139798,537,107,536000,Seymour Skinner,Springfield Elementary School,"Plain, plain, plain, plain, fruit!"
+139799,537,108,549000,Seymour Skinner,Springfield Elementary School,"No, mother, I did not use any of your talc. I don't know why the bottle feels lighter. Maybe you're just getting stronger!"
+139800,537,109,561000,Seymour Skinner,Springfield Elementary School,Some days I could just kill you.
+139801,537,110,561000,Seymour Skinner,Springfield Elementary School,She heard me? Hello?
+139802,537,111,563000,Bart Simpson,Springfield Elementary School,Hold for the President.
+139803,537,112,564000,President Obama,Springfield Elementary School,This is... Barack Obama.
+139804,537,113,566000,Seymour Skinner,Springfield Elementary School,Is this a prank?
+139805,537,114,568000,President Obama,Springfield Elementary School,No.
+139807,537,116,568000,President Obama,Springfield Elementary School,That's... offensive.
+139809,537,118,568000,President Obama,Springfield Elementary School,I want to... talk about... submarines... and trips. Simpson... has to go.
+139811,537,120,575000,President Obama,PLAYGROUND,Simpson... has to go... on the... submarine. On the... submarine. On the... submarine.
+139812,537,121,579000,Seymour Skinner,PLAYGROUND,Of course.
+139813,537,122,581000,President Obama,PLAYGROUND,This is Barack Obama. SO IN LOVE WITH YOU... I like Ohio State... you can put lipstick on a pig... SO IN LOVE WITH YOU...
+139815,537,124,593000,Ron Rabinowitz,Krustylu Studios,"Welcome. Welcome foreign market Krustys. If you examine your ""Krusty Kit"" you're gonna find un-removable green hair dye, a used red nose, and a guidebook on how to capture a monkey. But now, the man they call Mr. Monday Afternoon... Krusty!"
+139816,537,125,611000,Krusty the Clown,Krustylu Studios,Hey-Hey!
+139817,537,126,613000,Aspiring Krustys,Krustylu Studios,Hai-hai! / Hu-hu! / Heil-heil! / Rødgrød med Fløde!
+139818,537,127,615000,Krusty the Clown,Krustylu Studios,"Now there're many words for what I'm looking for... rubles, renminbi, baht... but they all mean money, which rhymes with funny, which you can be if you want. I don't care. Just do the Krusty show in your country and send me ten percent. Then send me another sixty percent. Then five percent more and you're good."
+139822,537,129,640000,Seymour Skinner,Springfield Elementary School,"Nice job, Simpson. You even got my Suze Orman tape unstuck from the cassette player. She's the reason I was able to purchase a new watch band."
+139823,537,130,647000,Groundskeeper Willie,Springfield Elementary School,Always braggin' about his fancy watchband. If only I could tell time.
+139824,537,131,653000,Bart Simpson,Springfield Elementary School,"Okay, I washed your car like you asked, I did your paper route, and I'm sorry. I really am. This could be the turning point of my life. Where you, as a school guy, made a difference. What do you think? Can I go on that sub?"
+139826,537,133,668000,Seymour Skinner,SPRINGFIELD DOCKS,"Sorry, Simpson. Take her down!"
+139827,537,134,679000,Kids,SPRINGFIELD DOCKS,Yay!
+139828,537,135,679000,Ralph Wiggum,SPRINGFIELD DOCKS,Yay!
+139829,537,136,679000,Nelson Muntz,SPRINGFIELD DOCKS,Yippee!
+139830,537,137,681000,Milhouse Van Houten,SPRINGFIELD DOCKS,Poor Bart.
+139833,537,140,687000,Rastafarian Krusty,Ocean,"Rasta hey hey, on the left-hand side. As my mother used to say ""Wanti wanti can't get it, getti getti no want it"". Now here's Itchem and Scratchem, mon."
+139834,537,141,703000,Jamaican Singers,Ocean,"THEY SMOKE / THEY TOKE / THEY SMOKE AND TOKE AND SMOKE / SMOKE, SMOKE, SMOKE, / TOKE, TOKE, TOKE / THE ITCHEM AND SCRATCHEM BLOW!"
+139836,537,143,728000,Itchem,Cartoon Beach,Eye and eye say good-bye!
+139837,537,144,731000,Itchem,Cartoon Beach,The blessings of Jah upon you all.
+139838,537,145,734000,Krusty the Clown,Cartoon Beach,Nice.
+139839,537,146,736000,Ron Rabinowitz,Cartoon Beach,You're a hit all over the world!
+139840,537,147,737000,Ron Rabinowitz,Cartoon Beach,There's Chinese Krusty with Sideshow Mao...
+139841,537,148,740000,Ron Rabinowitz,Cartoon Beach,Even Irish Krusty.
+139842,537,149,742000,Somber Irish Krusty,Cartoon Beach,"Me ma she had twelve children, but only three lived. Then they closed the mill. Hey hey."
+139843,537,150,755000,Krusty the Clown,Cartoon Beach,"And it's all thanks to you, kid. To show my appreciation I'm gonna bring you with me next time I entertain the troops. Warning, they're not American troops."
+139845,537,152,773000,Homer Simpson,SPRINGFIELD DOCK,"Hello, boy. At times like this there's not much you can say... especially if you don't know what happened..."
+139846,537,153,780000,Bart Simpson,SPRINGFIELD DOCK,Skinner didn't let me go.
+139847,537,154,782000,Homer Simpson,SPRINGFIELD DOCK,"Really? Hey, I bet that submarine isn't so fun anyway."
+139848,537,155,788000,Bart Simpson,SPRINGFIELD DOCK,You think so?
+139820,537,157,789000,Captain,SUBMARINE,"Fire that torpedo, Milhouse!"
+139821,537,158,791000,Milhouse Van Houten,SUBMARINE,Aye-aye! Where'd it go?
+139850,537,159,794000,Captain,SUBMARINE,It was just imaginary.
+139851,537,160,796000,Bart Simpson,SUBMARINE,"I know a kid should never turn to his father for help, but I got screwed. Is there anything you can do?"
+139852,537,161,805000,Homer Simpson,SUBMARINE,"As I always say, don't get mad, get dinner. Then get even. With Skinner."
+139853,537,162,811000,Bart Simpson,SUBMARINE,You'll really help me get revenge?
+139854,537,163,814000,Homer Simpson,SUBMARINE,Yes. What's Skinner's weakness?
+139855,537,164,817000,Bart Simpson,SUBMARINE,Everything.
+139856,537,165,818000,Homer Simpson,SUBMARINE,Good. We can use that.
+139858,537,167,823000,Female Singers,Skinner Home,SKINNER!
+139859,537,168,826000,Male Singer,Skinner Home,SKINNER! / YOU ARE FEELING PRETTY SMUG!
+139860,537,169,826000,Female Singers,Skinner Home,SKINNER!
+139861,537,170,833000,Male Singer,Skinner Home,SIPPING COCOA FROM A MUG!
+139862,537,171,837000,Male Singer,Skinner Home,WHEN YOU'VE REACHED THE MOUNTAINTOP / YOUR NEXT STEP IS A DROP
+139863,537,172,849000,Seymour Skinner,Skinner Home,"No, no, no, no, nooo!"
+139864,537,173,853000,Singers,Skinner Home,SKINNER!
+139865,537,174,859000,Seymour Skinner,Skinner Home,I'll be right there! Just saying goodbye to mother! Seymour! I'm going out for a walk! See you in several months at the soonest!
+139866,537,175,875000,Bart Simpson,Skinner Home,"We have a problem, Seymour."
+139867,537,176,877000,Bart Simpson,Skinner Home,I did everything for you and you stabbed me in the back.
+139868,537,177,880000,Homer Simpson,Skinner Home,"Wait a minute... I knew you were a neat freak, Skinner. But you beat your rug till it bleeds?"
+139869,537,178,889000,Seymour Skinner,Skinner Home,"All right, I'll come clean. I woke up and, surprisingly, mother wasn't there beside me. She was dead."
+139870,537,179,898000,Seymour Skinner,Skinner Home,"Still, I can't be sure I killed her."
+139871,537,180,901000,Homer Simpson,Skinner Home,"Well, I'm sure our town's police force will handle this competently."
+139872,537,181,910000,Chief Wiggum,Skinner Home,"Now I could investigate further, but you don't want to sit in jail all weekend."
+139873,537,182,915000,Mayor Joe Quimby,Skinner Home,"Chief, that was awfully arbitrary."
+139874,537,183,918000,Chief Wiggum,Skinner Home,Not compared to this.
+139875,537,184,924000,Homer Simpson,Skinner Home,Let me handle things. Just go upstairs and shut the door. There are some things only a boy should see.
+139877,537,186,941000,Agnes Skinner,Skinner Home,Now do you want to dispose of this jelly-soaked pillow?
+139878,537,187,945000,Homer Simpson,Skinner Home,"Just call me ""The Cleaner."""
+139880,537,189,955000,Seymour Skinner,Skinner Home,"Um, where's the body?"
+139882,537,190,957000,Bart Simpson,Skinner Home,She's in a better place.
+139883,537,191,963000,Homer Simpson,Skinner Home,The deed is done.
+139884,537,192,965000,Seymour Skinner,Skinner Home,I wish you'd asked me before you...
+139885,537,193,966000,Homer Simpson,Skinner Home,"Look, you kill them, I get rid of them. That's always been our deal. But I do have one question: do you want the head?"
+139886,537,194,972000,Seymour Skinner,Skinner Home,No! No! God no!
+139887,537,195,974000,Homer Simpson,Skinner Home,Well if you change your mind it'll be in my freezer. But only for a week. Got a lot of ice cream comin' in.
+139888,537,196,979000,Seymour Skinner,Skinner Home,If this were a movie mother wouldn't let me watch it.
+139889,537,197,982000,Homer Simpson,Skinner Home,"Now, I'm afraid it's time to start your new life. You'll be hunted... on the run... searching for the man who killed your mother, which is you. So avoid mirrors."
+139892,537,200,996000,Ron Rabinowitz,RON RABINOWITZ'S OFFICE,Krusty... I have some very bad news. The foreign Krustys are all hotter than you. Irish Krusty's got a show on Broadway.
+139893,537,201,1003000,Irish Clown Father,RON RABINOWITZ'S OFFICE,"Oy, where's your monkey?!"
+139894,537,202,1006000,Somber Irish Krusty,RON RABINOWITZ'S OFFICE,There never was a monkey! I was just tellin' stories to forget me consumption.
+139895,537,203,1012000,Krusty the Clown,RON RABINOWITZ'S OFFICE,"Hey, you see there, they need to hit the word ""monkey"" harder if they want to get a laugh."
+139896,537,204,1017000,Ron Rabinowitz,RON RABINOWITZ'S OFFICE,Don't you get what I'm trying to tell you? You are now the least popular Krusty in the world.
+139897,537,205,1024000,Krusty the Clown,RON RABINOWITZ'S OFFICE,What about Romanian Krusty?
+139898,537,206,1024000,Ron Rabinowitz,RON RABINOWITZ'S OFFICE,"What, you mean President-for-Life Krusty?"
+139900,537,208,1028000,Krusty the Clown,RON RABINOWITZ'S OFFICE,"I still get a piece, right?"
+139901,537,209,1030000,Ron Rabinowitz,RON RABINOWITZ'S OFFICE,Putz! You're the least successful version of you there is.
+139902,537,210,1033000,Krusty the Clown,RON RABINOWITZ'S OFFICE,A piece! Now let's see where this goes.
+139903,537,211,1037000,Pregnant Irish Girl,RON RABINOWITZ'S OFFICE,"Irish Krusty, this is your baby!"
+139904,537,212,1040000,Irish Clown Father,RON RABINOWITZ'S OFFICE,The only thing working 'round here is your libido!
+139905,537,213,1043000,IRISH KRUSTY,RON RABINOWITZ'S OFFICE,"Now I know why ma walked into the sea with her pockets full of rocks, on Christmas!"
+139906,537,214,1043000,Krusty the Clown,RON RABINOWITZ'S OFFICE,Why doesn't this material work for me?
+139908,537,216,1052000,Bart Simpson,Skinner Home,Seymour! The cops are on their way!
+139909,537,217,1059000,Bart Simpson,Skinner Home,Here's a bus ticket to Juarez and your fake I.D.
+139910,537,218,1062000,Seymour Skinner,Skinner Home,"Oh, come on. I don't look anything like this... ""Dick Fiddler."""
+139911,537,219,1062000,Bart Simpson,Skinner Home,No you don't. Yet.
+139913,537,221,1071000,Seymour Skinner,Springfield Street,"I don't want to sound ungrateful, but could I eat one of the potatoes?"
+139914,537,222,1073000,Homer Simpson,Springfield Street,"Sorry, but Dick Fiddler is allergic to potatoes."
+139915,537,223,1077000,Seymour Skinner,Springfield Street,I understand.
+139918,537,226,1086000,Bart Simpson,Bus Station,Dad?
+139919,537,227,1087000,Bart Simpson,Bus Station,Thanks for stickin' up for me.
+139920,537,228,1090000,Homer Simpson,Bus Station,Someday I may have to fake my own death. And maybe you can help me with that.
+139921,537,229,1096000,Bart Simpson,Bus Station,"Sure, Dad."
+139922,537,230,1096000,Homer Simpson,Bus Station,"Someday soon. As in, what are you doing this Friday?"
+139924,537,232,1101000,Homer Simpson,Simpson Home,Dick Fiddler!
+139925,537,233,1102000,Seymour Skinner,Simpson Home,"Gentlemen, I can't run away from what I've done. I accept that I killed my mother. My whole life she's belittled me! Maybe deep down... I'm glad."
+139926,537,234,1114000,Marge Simpson,Simpson Home,"This has gone far enough. I'm starting to think this ""school project"" is more than meets the eye."
+139927,537,235,1118000,Seymour Skinner,Simpson Home,Mother! You're alive?!
+139928,537,236,1120000,Agnes Skinner,Simpson Home,"Seymour, when this fat guy and his kid asked me to fake my death to punish you, I said, ""Sure, that's something to do."""
+139929,537,237,1120000,Homer Simpson,Simpson Home,"You know, when you glare like that you look really beautiful."
+139931,537,239,1134000,Agnes Skinner,Simpson Home,"But when I just heard you say you were glad to see me dead... I thought, now I'm gonna be meaner to you than ever!"
+139932,537,240,1138000,Seymour Skinner,Simpson Home,How is that possible?
+139933,537,241,1143000,Agnes Skinner,Simpson Home,I've stopped taking those pills that keep me nice.
+139936,537,244,1156000,Male Singer,OLD WEST TOWN,FIDDLER!
+139937,537,245,1156000,Female Singers,OLD WEST TOWN,FIDDLER!
+139938,537,246,1156000,Male Singer,OLD WEST TOWN,YOU LOOK STUPID IN THAT BEARD. FIDDLER!
+139939,537,247,1159000,Female Singers,OLD WEST TOWN,FIDDLER!
+139940,537,248,1162000,Male Singer,OLD WEST TOWN,THIS DREAM IS GETTING WEIRD...
+139945,537,252,1178000,Krusty the Clown,RESORT CENTER,"But instead, we're giving you something even better: I will do a guest shot on each of your shows! Eh? Eh?"
+139947,537,254,1198000,German Krusty,Streets,Twist him like a balloon!
+139948,537,255,1200000,Mexican Krusty,Streets,Cut off his hey-heys!
+139949,537,256,1201000,Botswana Krusty,Streets,Let's slice him up and cook him in our traditional dishes!
+139950,537,257,1205000,Ron Rabinowitz,Streets,"Krusty, can't you think of something?"
+139951,537,258,1213000,Ron Rabinowitz,Streets,"Uh, you know, why did you even become a clown?"
+139952,537,259,1215000,Jamaican Singers,Streets,"THEY SMOKE / THEY TOKE / THEY SMOKE AND TOKE AND SMOKE / SMOKE, SMOKE, SMOKE, / TOKE, TOKE, TOKE / THE ITCHEM AND SCRATCHEM BLOW!"

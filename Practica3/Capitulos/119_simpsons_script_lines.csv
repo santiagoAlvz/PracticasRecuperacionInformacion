@@ -1,0 +1,200 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+24589,119,4,63000,Bart Simpson,Simpson Home,No fair! You only won 'cause you had the inside track! If the water was spinning the other way--
+24590,119,5,68000,Lisa Simpson,Simpson Home,"It never spins the other way. In the Northern hemisphere, water always drains counter-clockwise. It's called the Coriolis effect."
+24591,119,6,74000,Bart Simpson,Simpson Home,"No way. Water doesn't obey your ""rules."" It goes where it wants. Like me, babe."
+24592,119,7,80000,Lisa Simpson,Simpson Home,"Yes, Bart. Why don't you try it and see?"
+24593,119,8,87000,Bart Simpson,Simpson Home,"I know I've seen it go the other way. Ah, faithful toilet. You'll prove me right."
+24595,119,10,102000,Homer Simpson,Simpson Home,I'm a singing in the show... Hot! Yeow! Cold! Ow! Hot! Cold! Hot! Ow! Who's! Doing! That?!
+24596,119,11,115000,Marge Simpson,Simpson Home,"Oh, for Pete's sake, Bart! Use the plunger!"
+24597,119,12,118000,Lisa Simpson,Simpson Home,"Bart, water will only go the other way in the Southern Hemisphere."
+24598,119,13,123000,Bart Simpson,Simpson Home,What the hell is the Southern Hemisphere?
+24599,119,14,125000,Lisa Simpson,Simpson Home,Haven't you ever looked at your globe?
+24600,119,15,130000,Lisa Simpson,Simpson Home,"See, the Southern Hemisphere is made up of everything below the Equa... this line."
+24601,119,16,137000,Bart Simpson,Simpson Home,"Hmm, so down there in, say, Argentina or Rand-McNally all their water runs backwards?"
+24602,119,17,145000,Lisa Simpson,Simpson Home,"Uh-huh. In fact, in Rand-McNally, they wear hats on their feet, and hamburgers eat people."
+24603,119,18,151000,Bart Simpson,Simpson Home,Cool.
+24605,119,20,172000,Bart Simpson,South Pole,"Hello, Southern Hemisphere? Which way does the water go in your toilet?"
+24606,119,21,176000,Scientist,South Pole,Just a minute. I'll check.
+24607,119,22,185000,Second Scientist,South Pole,"Aw, nuts."
+24609,119,24,190000,Translator,Banana Republic,Please to repeat again and I will translating for the El Presidente.
+24610,119,25,194000,Bart Simpson,Banana Republic,Which way does the water turn in your toilet?
+24611,119,26,197000,Translator,Banana Republic,Dice que el curso está cambiando!
+24612,119,27,199000,Dictator,Banana Republic,Ay! Carumba! Los insurgentes ya van a capturar la capital! Necesito huir!
+24614,119,29,207000,Bart Simpson,Simpson Home,I can't get a straight answer out of this crazy hemisphere!
+24616,119,31,214000,Hitler,FASHIONABLE BUENOS AIRES STREET,Eine minuten! Eine minuten!
+24617,119,32,216000,Hitler,FASHIONABLE BUENOS AIRES STREET,Ach. Das wagenfone est eine nuisancefone.
+24618,119,33,221000,Elderly Nazi,FASHIONABLE BUENOS AIRES STREET,"Buenos noches, mein Fuhrer!"
+24619,119,34,222000,Hitler,FASHIONABLE BUENOS AIRES STREET,"Ja, ja."
+24622,119,37,229000,Lisa Simpson,Simpson Home,"Bart, you can't actually call these places! Don't you know how expensive international calls are?"
+24623,119,38,235000,Bart Simpson,Simpson Home,"Hello, operator? I'd like to make a collect call to..."
+24624,119,39,239000,Bart Simpson,Simpson Home,Australia.
+24625,119,42,248000,Operator,Australian House,This is the international operator. Will you accept a collect call from...
+24626,119,43,252000,Bart Simpson,Australian House,"Er, uh, this is Dr. Bart Simpson of the International Drainage Commission. It's an emergency."
+24627,119,44,257000,Little Boy,Australian House,"If it's an emergency, then."
+24628,119,45,258000,Bart Simpson,Australian House,"We understand some drains in your area have been malfunctioning, sucking in people and what-not."
+24629,119,46,262000,Little Boy,Australian House,Whillikers! That's orful!
+24630,119,47,265000,Bart Simpson,Australian House,"Indeed. We need you to check your sinks and toilets and tell us which way the water is going. And, please -- stand clear!"
+24631,119,48,279000,Little Boy,Australian House,"The fixtures, they're all draining clockways, sir."
+24632,119,49,282000,Bart Simpson,Australian House,"She was right. Stupid Lisa Science Queen. Look, why don't you just check your neighbor's drains. I'll hold."
+24634,119,51,293000,Milhouse Van Houten,Simpson Home,"Hey, Bart! The bakery caught fire and all of downtown smells like cookies! Wanna go smell?"
+24635,119,52,299000,Bart Simpson,Simpson Home,Yes. Yes I do.
+24636,119,53,309000,Little Boy,Simpson Home,Hullo? Sir? Sir?
+24637,119,54,309000,Bart Simpson,Simpson Home,Huh?
+24638,119,55,312000,Little Boy,Simpson Home,"I've returned from the Koolamuggery's place. They're draining clockways, too."
+24639,119,56,317000,Bart Simpson,Simpson Home,"Draining? Oh, I don't care about that anymore."
+24640,119,57,319000,Little Boy,Simpson Home,Are we in any dange--
+24641,119,58,326000,Homer Simpson,Simpson Home,Burkina Faso? Disputed Zone? Who called all these weird places?
+148563,119,59,331000,Homer's Brain,Simpson Home,Quiet! It might be you. I can't remember.
+24642,119,60,333000,Homer Simpson,Simpson Home,"No, I'm gonna ask Marge."
+148564,119,61,334000,Homer's Brain,Simpson Home,"No, no! Why embarrass us both? Just write a check and I'll release some more endorphins."
+24645,119,64,342000,Father,Australian House,Nine hundred dollaridoos?! Tobias! Did you accept a six hour collect call from the States?
+24646,119,65,350000,Little Boy,Australian House,It was an emergency call from the International Drainage Commission in Springfield.
+24647,119,66,355000,Father,Australian House,"Oh my God, there's nothing wrong with the bidet, is there?"
+24648,119,67,360000,Bart Simpson,Australian House,Y'ello?
+24649,119,68,361000,Father,Australian House,"Right, I'm calling all the way from Squatter's Crag, Australia, and I want to speak to a Dr. Bart Simpson right now!"
+24650,119,69,367000,Bart Simpson,Australian House,Uhh... Hold please.
+24651,119,70,370000,Father,Australian House,"All right, but I don't--"
+24563,119,71,371000,Bart Simpson,Australian House,Payroll. Burt Stanton speaking.
+24652,119,72,373000,Father,Australian House,"Oy! I said ""Bart Simpson!"" What kind of a company is th--"
+24653,119,73,377000,Bart Simpson,Australian House,Bart Simpson's office.
+24654,119,74,378000,Father,Australian House,"Well thank the great good lord. Look, I was just--"
+24655,119,75,381000,Bart Simpson,Australian House,"One moment, please."
+24656,119,76,384000,Father,Australian House,"Who do they think I am? Some stupid Aussie drongo? Bleedin' Yanks, I oughta --"
+24657,119,77,390000,Bart Simpson,Australian House,"This is Bart Simpson. Can I help you, Ma'am?"
+24658,119,78,391000,Father,Australian House,"Hey! My name is Bruno Drundridge, right? You owe me nine hundred dollars, mate!"
+24659,119,79,397000,Bart Simpson,Australian House,No. You owe me nine hundred dollars.
+24660,119,80,401000,Father,Australian House,"You're just some punk kid, aren't you? Ooh, you picked the wrong guy to tangle with here, mate!"
+24661,119,81,408000,Bart Simpson,Australian House,"I don't think so. You're all the way in Australia. Hey, I think I hear a dingo eatin' your baby."
+24662,119,82,414000,Father,Australian House,"Yeah, well... That's it. I'm gonna report this to me Member of Parliament!"
+24663,119,83,421000,Father,Australian House,"Hey, Gus! I got somethin' to report to you!"
+24665,119,85,425000,Gus,Australia,"That's a bloody outrage, it is! I'm gonna take this all the way to the Prime Minister!"
+24666,119,86,434000,Gus,Australia,"Hey, Mr. Prime Minister! Andy!"
+24667,119,87,439000,Prime Minister,Australia,"Ay, mates! What's the good word?"
+24669,119,89,445000,Bart Simpson,Simpson Home,Mr. Simpson... blah blah... misrepresentation over telephone... yadda yadda... Sincerely... Some Australian jerk.
+24670,119,90,460000,Lisa Simpson,Simpson Home,Hey! I need that!
+24671,119,91,462000,Lisa Simpson,Simpson Home,"""Office of the Solicitor General?"" ""Office of the Prime Minister?"" ""Hopping Mad Collection Agency?"" What is all this stuff?"
+24672,119,92,471000,Bart Simpson,Simpson Home,Nothing. Some stupid country thinks I owe them money.
+24673,119,93,475000,Lisa Simpson,Simpson Home,"Uh-oh. Bart, you better talk to Mom and Dad about this."
+24674,119,94,478000,Bart Simpson,Simpson Home,"Hey, guys, just so you don't hear any wild rumors... I'm being indicted for fraud in Australia."
+24675,119,95,484000,Homer Simpson,Simpson Home,"Psh, that's no reason to block the TV."
+24676,119,96,486000,Marge Simpson,Simpson Home,Oh my.
+24677,119,97,491000,Marge Simpson,Simpson Home,"Bart, did you trick an Australian boy into accepting a nine hundred dollar collect call?"
+24678,119,98,496000,Bart Simpson,Simpson Home,Yes'm.
+24679,119,99,498000,Homer Simpson,Simpson Home,"There it is. ""Aust-rali-a."" I'll be damned..."
+24681,119,100,502000,Homer Simpson,Simpson Home,"Look at this country: ""U - r - gay."""
+24682,119,101,502000,Evan Conover,Simpson Home,"Oh, my. Hello, I'm Evan Conover, with the U.S. State Department."
+24683,119,102,516000,Marge Simpson,Simpson Home,Undersecretary for International Protocol. Brat and Punk Division.
+24684,119,103,521000,Evan Conover,Simpson Home,"Unfortunately, Bart, your little ""escapade"" could not have come at a worse time. Americo-Australianian relations are at an all-time low."
+24685,119,104,529000,Evan Conover,Simpson Home,"As I'm sure you remember, in the late 1980's, the U.S. experienced a short-lived infatuation with Australian culture."
+24686,119,105,537000,Evan Conover,Simpson Home,"For some bizarre reason, the Aussies thought this would be a permanent thing. Of course, it wasn't."
+24687,119,106,543000,Lisa Simpson,Simpson Home,"I know those words, but that sign makes no sense."
+24688,119,107,545000,Evan Conover,Simpson Home,"Anyway, the ""down under"" fad fizzled, and the diplomatic climate turned absolutely frosty."
+24689,119,108,551000,Evan Conover,Simpson Home,Oops. Let's pretend we didn't see that.
+24690,119,109,556000,Evan Conover,Simpson Home,And Bart's childish taunting agitated the Aussies further.
+24691,119,110,559000,Homer Simpson,Simpson Home,"Oh, he'll agitate ya. Ho, ho. He sure will. What can we do for you?"
+24692,119,111,569000,Evan Conover,Simpson Home,"Well, it's too late to merely pay back the money, but as a sign of good faith to our Australian friends, we'd like to imprison Bart for five years."
+24693,119,112,577000,Homer Simpson,Simpson Home,"That's tough but fair. Boy, go with the man."
+24694,119,113,581000,Marge Simpson,Simpson Home,"No, no, no, no! I'm not gonna have my son go to jail over some silly tiff with Australia! You'll just have to find some other country to have relations with."
+24695,119,114,592000,Evan Conover,Simpson Home,"You're sure now, the prison train is sailing... Okay, I'm not hearing a lot of support for prison. There is one other option. They'll drop the charges if... Bart makes a public apology in Australia."
+24696,119,115,605000,Homer Simpson,Simpson Home,"All Bart has to do is apologize, and we get a free trip to Australia?"
+24697,119,116,610000,Bart Simpson,Simpson Home,I can handle that. I'm an expert at phony apologies.
+24698,119,117,612000,Marge Simpson,Simpson Home,Bart!
+24699,119,118,613000,Bart Simpson,Simpson Home,I'm sorry.
+24700,119,119,614000,Marge Simpson,Simpson Home,That's better.
+24705,119,124,648000,Homer Simpson,Australian Airport,We left at 1:30 P.M. Monday. What time is it now?
+24707,119,125,652000,Lisa Simpson,Australian Airport,"It's 6:45 A.M. next Wednesday. You may also be interested to know that it's summer here, not winter."
+24709,119,127,660000,Bart Simpson,Australian Airport,What does that sign say? I thought they spoke English in this country!
+24710,119,128,664000,Lisa Simpson,Australian Airport,It says you can't bring in outside plants or animals. Any foreign creature you bring in could upset the environmental balance.
+24711,119,129,667000,Bart Simpson,Australian Airport,Oh.
+24712,119,130,674000,Bart Simpson,Australian Airport,"Sorry, girl. I don't wanna get in any more trouble down here."
+24713,119,131,677000,Bart Simpson,Australian Airport,I'll pick you up on the way home.
+24716,119,134,697000,Homer Simpson,Downtown Street,"Hey, are you like one of those English guards who can't laugh or smile or anything?"
+24717,119,135,708000,Sentry,Downtown Street,"No, sir. U.S. Marine Corps, sir."
+24720,119,138,713000,Homer Simpson,EMBASSY LATER,"Oh, yeah, this is the life. Boy, next summer, can you commit some fraud in Orlando, Florida?"
+24721,119,139,720000,Bart Simpson,EMBASSY LATER,"I'm way ahead of ya, Dad."
+24722,119,140,722000,Evan Conover,EMBASSY LATER,"Kno-ock! Simpsons, I'd like you to meet our ambassador, the Honorable Averell Ward."
+24723,119,141,727000,Ambassador,EMBASSY LATER,"Hello. Now, everything is all set for Bart's apology. Mr. Conover will meet you at the Parliament House at three P.M. Any questions?"
+24724,119,142,734000,Bart Simpson,EMBASSY LATER,Yeah. Do the toilets go backwards in here?
+24725,119,143,736000,Ambassador,EMBASSY LATER,"No. To combat homesickness, we've installed a device that makes them swirl the correct, American way."
+24726,119,144,748000,Homer Simpson,EMBASSY LATER,SWEET LAND OF LIBERTY... OF THEE I SING.
+24728,119,146,759000,Bart Simpson,EMBASSY,"Hey, G.I. Joe, your sign's broken. We're already in Australia."
+24729,119,147,763000,Sentry,EMBASSY,"Actually, sir, the embassy is considered American soil, sir."
+24730,119,148,766000,Homer Simpson,EMBASSY,"Really? Look, boy! Now I'm in Australia! Now I'm in America!"
+24731,119,149,770000,Homer Simpson,EMBASSY,Australia! America! Austr--
+24732,119,150,772000,Bart Simpson,EMBASSY,"I get it, Dad."
+24733,119,151,775000,Marge Simpson,EMBASSY,"Homer, that's enough."
+24734,119,152,776000,Homer Simpson,EMBASSY,"--alia! America, Australia, Ameri-- ow!"
+24735,119,153,778000,Sentry,EMBASSY,"Here in America we don't tolerate that kind of crap, sir."
+24738,119,155,784000,Marge Simpson,CULTURAL CENTER,"""Australia was originally founded as a settlement for British convicts."" Lisa, watch your camera."
+24740,119,157,797000,Australian,Pub,You call that a knife. This is a knife.
+24741,119,158,801000,Bart Simpson,Pub,That's not a knife. That's a spoon.
+24742,119,159,804000,Australian,Pub,"All right, all right, you win. I see you've played knife-y spoony before."
+24743,119,160,810000,Homer Simpson,Pub,"Hey, gimme one of those famous giant beers I've heard so much about."
+24744,119,161,815000,Bartender,Pub,"Something wrong, yank?"
+24745,119,162,817000,Homer Simpson,Pub,"No. It's pretty big, I guess."
+24746,119,163,820000,Marge Simpson,Pub,I'll just have a cup of coffee.
+24747,119,164,822000,Bartender,Pub,Beer it is.
+24748,119,165,823000,Marge Simpson,Pub,No. I said coffee.
+24749,119,166,825000,Bartender,Pub,Beer?
+24750,119,167,826000,Marge Simpson,Pub,Coff - ee!
+24751,119,168,828000,Bartender,Pub,Bee-eer.
+24752,119,169,830000,Marge Simpson,Pub,C... O...
+24753,119,170,832000,Bartender,Pub,B... E...
+24755,119,172,840000,Marge Simpson,Parliament House,We'll meet you boys back here for dinner. Good luck honey.
+24756,119,173,844000,Lisa Simpson,Parliament House,"Bart, I'm sorry I'm gonna miss your public humiliation, but the Woolumbaloo Dirt Monument is just too exciting to pass up."
+24757,119,174,858000,Prime Minister,Parliament House,"Hear ye, hear ye. This session will now come to order. With the cooperation of the U.S. Department of State, we have present today one Bart Simpson."
+24759,119,176,871000,Prime Minister,Parliament House,I believe he has something to say. Bart?
+24760,119,177,883000,Bart Simpson,Parliament House,I'm sorry. I'm sorry for what I did to your country.
+24762,119,179,889000,Prime Minister,Parliament House,"Well, you're free to go, Bart. Right after your additional punishment."
+24763,119,180,896000,Homer Simpson,Parliament House,Punishment?!
+24764,119,181,897000,Prime Minister,Parliament House,"Well, a mere apology would be a bit empty, eh? Let the booting begin!"
+24765,119,182,902000,Homer Simpson,Parliament House,Booting?
+24766,119,183,902000,Prime Minister,Parliament House,"Oh, it's just a little kick in the bum."
+24767,119,184,912000,Bart Simpson,Parliament House,Yuh-oh.
+24768,119,185,921000,Homer Simpson,Parliament House,What kind of a sick country would kick someone with a giant boot?!
+24769,119,186,925000,Evan Conover,Parliament House,"Mr. Simpson, shhsh! Disparaging the boot is a bootable offense. It's one of their proudest traditions."
+24770,119,187,936000,Homer Simpson,Parliament House,"You sold us out, Conover!"
+24771,119,189,948000,Homer Simpson,Parliament House,Stay back or I'll boot your Prime Minister! I'll do it! So help me God I'll boot him!
+24772,119,190,955000,Homer Simpson,Parliament House,"When will you Australians learn? In America, we've stopped using corporal punishment, and things have never been better. The streets are safe. Old people strut confidently through the darkest alleys. And the weak and nerdy are admired for their computer programming abilities. So, like us, let your children run wild and free. Because, as the old saying goes, let your children run wild and free. Now boy, run back to the embassy! Back to American soil!"
+24773,119,191,990000,Guard,Parliament House,I'll stop them!
+24774,119,192,995000,Australian,Parliament House,"Oh, no! It's coming back this way!"
+24775,119,193,998000,Guard #2,Parliament House,That throwing stick stunt of yours has boomeranged on us.
+24777,119,195,1005000,Bart Simpson,Downtown Street,Hey! We can get away in their pouches!
+24778,119,196,1009000,Bart Simpson,Downtown Street,Ewww. It's not like in cartoons.
+24779,119,197,1012000,Homer Simpson,Downtown Street,"Yeah, there's a lot more mucus!"
+24781,119,199,1019000,Lisa Simpson,GIFT SHOP,"Mom, you said I could have one souvenir, right? Well I want a didgeridoo."
+24782,119,200,1029000,Marge Simpson,GIFT SHOP,That seems very noisy and expensive for a souvenir. Why don't you get this nice cap?
+24783,119,201,1035000,Marge Simpson,GIFT SHOP,"It's clever, just like you. Huh? Huh?"
+24784,119,202,1040000,Shopkeeper,GIFT SHOP,Get out. Get out. Shoo! Shoo! Get outta here!
+24786,119,204,1045000,Shopkeeper,GIFT SHOP,"These bloody things're everywhere! They're in the lift, in the lorry, in the bonwizzit, and all over the malongagoolachuck..."
+24787,119,205,1052000,Teenage Clerk,GIFT SHOP,"They're like kangaroos, but they're reptiles, they is."
+24788,119,206,1056000,Marge Simpson,GIFT SHOP,We have them in America. They're called bullfrogs.
+24789,119,207,1059000,Teenage Clerk,GIFT SHOP,"What? At's an odd name. I'da called them ""chuzz-wuzzers."""
+24790,119,208,1066000,Bart Simpson,GIFT SHOP,Liiiiisa!
+24791,119,209,1067000,Homer Simpson,GIFT SHOP,Maaarge!
+24794,119,212,1079000,Ambassador,EMBASSY,"Ugh, the Simpsons. Well, they're not getting back in here."
+24796,119,214,1097000,Marge Simpson,AMBASSADOR'S OFFICE,"I can't believe our government would set up Bart like that. I must say, I'm very angry at the State Department right now."
+24798,119,215,1103000,Ambassador,AMBASSADOR'S OFFICE,"Yes, but ssh! Mrs. Simpson, please. We're about to reach a breakthrough with the Aussies."
+24799,119,216,1107000,Evan Conover,AMBASSADOR'S OFFICE,"Then it's agreed. During the bargaining session, we each get two candied apples. All right... one candy and one caramel."
+24800,119,217,1113000,Marge Simpson,AMBASSADOR'S OFFICE,"Oh, for the love of criminy! Gimme that! I know Bart did something wrong, but he's my son and I'm going to punish him myself."
+24801,119,218,1121000,Marge Simpson,AMBASSADOR'S OFFICE,"Our countries may have their differences, but as human beings I think we can all agree there's no substitute for the discipline of a loving parent."
+24802,119,219,1133000,Marge Simpson,AMBASSADOR'S OFFICE,He wants to talk to you.
+24803,119,220,1135000,Evan Conover,AMBASSADOR'S OFFICE,Y'ello? Mmm hmm. So we're in agreement. She won't be allowed near the phone again.
+24806,119,223,1142000,Ambassador,EMBASSY,We did it! We've worked out a compromise that will allow both nations to save face.
+24807,119,224,1147000,Evan Conover,EMBASSY,We've argued them down to... a booting.
+24808,119,225,1150000,Lisa Simpson,EMBASSY,What?!
+24809,119,226,1150000,Ambassador,EMBASSY,The Prime Minister just wants to kick you once. Through the gate. With a regular shoe.
+24810,119,227,1156000,Evan Conover,EMBASSY,I believe it's a wing-tip.
+24811,119,228,1157000,Marge Simpson,EMBASSY,"No deal! This is my son we're talking about. Sure he's not perfect, but who is in this work-a-day world?"
+24812,119,229,1164000,Bart Simpson,EMBASSY,"No, Mom... Wait. It's time for me to bend over and receive my destiny."
+24813,119,230,1183000,Lisa Simpson,EMBASSY,"Thank you, Bart. I promise I won't make fun of you later for this."
+24814,119,231,1188000,Homer Simpson,EMBASSY,"Show 'em what American butts are made of, son!"
+24815,119,232,1195000,Prime Minister,EMBASSY,"That's it, lad. This is for the Commonwealth of Australia."
+24816,119,233,1207000,Bart Simpson,EMBASSY,And this is for the United States of America.
+24819,119,236,1226000,Marge Simpson,EMBASSY,"I'm glad you're okay honey, but I wish you'd chosen a more tasteful way to be patriotic."
+24820,119,237,1231000,Lisa Simpson,EMBASSY,I'm impressed that you were able to write so legibly on your own butt.
+24821,119,238,1246000,Prime Minister,EMBASSY,"All right, mates! Let 'em have it!"
+24823,119,240,1253000,Homer Simpson,Helicopter,"Hey, do we get to land on an aircraft carrier?"
+24826,119,241,1255000,Pilot,Helicopter,"No, sir. The closest vessel is the U.S.S. Walter Mondale. It's a laundry ship. They'll take you the rest of the way."
+24828,119,243,1276000,Homer Simpson,EMBASSY,"Hey, look. Those frogs are eating all their crops."
+24829,119,244,1284000,Lisa Simpson,EMBASSY,"Well, that's what happens when you introduce foreign species into an ecosystem that can't handle them."

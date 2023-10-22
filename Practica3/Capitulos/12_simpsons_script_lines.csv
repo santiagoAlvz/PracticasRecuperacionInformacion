@@ -1,0 +1,248 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+152194,12,1,95000,Krusty the Clown,TV Studio,"Hey, kids! Who do you love?"
+152195,12,2,98000,Children,TV Studio,Krusty!
+152196,12,3,100000,Krusty the Clown,TV Studio,How much do you love me?
+152198,12,5,102000,Lisa Simpson,Simpson Living Room,With all our hearts!
+152199,12,6,104000,Krusty the Clown,Simpson Living Room,What would you do if I went off the air?
+152200,12,7,106000,Lisa Simpson,Simpson Living Room,We'd kill ourselves!
+152202,12,9,107000,Krusty the Clown,Simpson Living Room,"What's that, Sideshow Bob? This is Brittany and today's her birthday?"
+152204,12,11,112000,Krusty the Clown,Simpson Living Room,"Well, happy birthday, Brittany. How do you want to celebrate? Do you want me to sing you a birthday song?"
+152206,12,13,119000,Krusty the Clown,Simpson Living Room,Or do you want me to shoot Sideshow Bob out of a cannon?
+152208,12,15,123000,Lisa Simpson,Simpson Living Room,The cannon. The cannon. The cannon. The cannon.
+152209,12,16,127000,Brittany,Simpson Living Room,The cannon.
+152210,12,17,129000,Krusty the Clown,Simpson Living Room,"Sorry Sideshow Bob, but it's her special birthday wish."
+152211,12,18,133000,Bart Simpson,Simpson Living Room,"You're doomed, Sideshow Bob."
+152212,12,19,136000,Krusty the Clown,Simpson Living Room,"I know we haven't had much luck shooting you out of this cannon, but maybe that's because we haven't used enough gun powder!"
+152213,12,20,146000,Krusty the Clown,Simpson Living Room,"Brittany, do the honors."
+152214,12,21,158000,Krusty the Clown,Simpson Living Room,Don't blame me --
+152215,12,22,159000,Lisa Simpson,Simpson Living Room,I didn't do it!
+152216,12,23,163000,Bart Simpson,Simpson Living Room,"Comedy, thy name is Krusty."
+152217,12,24,165000,Krusty the Clown,Simpson Living Room,"Hey, kids. It's time for Itchy and Scratchy."
+152218,12,25,171000,ITCHY & SCRATCHY CHORUS,Simpson Living Room,"THEY FIGHT, THEY BITE / THEY BITE AND FIGHT AND BITE / BITE, BITE, BITE / FIGHT, FIGHT, FIGHT / THE ITCHY AND SCRATCHY SHOW!"
+152219,12,26,188000,Marge Simpson,Simpson Living Room,All this senseless violence. I don't understand its appeal.
+152220,12,27,193000,Bart Simpson,Simpson Living Room,"We don't expect you to, Mom."
+152221,12,28,195000,Lisa Simpson,Simpson Living Room,"If cartoons were meant for adults, they'd put them on in prime time."
+152223,12,30,201000,Homer Simpson,Springfield Nuclear Power Plant,Y'ello.
+152224,12,31,203000,Marge Simpson,Springfield Nuclear Power Plant,"Hello, Homie. I was hoping you could pick up a half gallon of premium ice cream on your way home from work."
+152225,12,32,208000,Homer Simpson,Springfield Nuclear Power Plant,"Oooh, premium -- wait a minute. Why?"
+152226,12,33,211000,Marge Simpson,Springfield Nuclear Power Plant,Patty and Selma are coming over to show us slides from their trip to the Yucatan.
+152228,12,35,215000,Patty Bouvier,Springfield Nuclear Power Plant,Hello?
+152229,12,36,215000,Selma Bouvier,Springfield Nuclear Power Plant,Yoo hoo! Anybody home?
+152230,12,37,218000,Marge Simpson,Springfield Nuclear Power Plant,"Ooo, I've got to go, Homer. My sisters are here."
+152231,12,38,222000,Marge Simpson,Springfield Nuclear Power Plant,"Oh, eight carousels. We're in for a real treat!"
+152234,12,41,229000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Hello, steady customer. How are you this evening, sir?"
+152235,12,42,231000,Homer Simpson,Kwik-E-Mart,"How you doin', Apu?"
+152236,12,43,236000,Homer Simpson,Kwik-E-Mart,"Mmm, chocolate... oooh, double chocolate... New flavor! Triple chocolate!"
+152237,12,44,244000,Homer Simpson,Kwik-E-Mart,Perhaps a little something for the trip back to the cash register.
+152238,12,45,250000,Apu Nahasapeemapetilon,Kwik-E-Mart,"What's the matter, sir? Never have I seen you look so unhappy while purchasing such a large quantity of ice cream."
+152239,12,46,256000,Homer Simpson,Kwik-E-Mart,"The reason I look unhappy is that tonight I have to see a slide show starring my wife's sisters -- or as I call them, ""the gruesome twosome."""
+152240,12,47,266000,Krusty the Clown,Kwik-E-Mart,"Ow, my foot, you lousy, stupid, clumsy...."
+152241,12,48,269000,Homer Simpson,Kwik-E-Mart,"Sorry, pal..."
+152243,12,50,272000,Krusty the Clown,Kwik-E-Mart,Hand over all your money in a paper bag.
+152244,12,51,275000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Yes, yes, I know the procedure for armed robbery. I do work in a convenience store, you know."
+152245,12,52,285000,Apu Nahasapeemapetilon,Kwik-E-Mart,You can emerge now from my chips. The opportunity to prove yourself a hero is long gone.
+152247,12,54,291000,Selma Bouvier,Simpson Living Room,This is our tour group.
+152248,12,55,293000,Marge Simpson,Simpson Living Room,Mmm-hmm.
+152249,12,56,293000,Patty Bouvier,Simpson Living Room,"This is a Mexican delicacy called a taco platter. Hmmm, delicious."
+152250,12,57,299000,Patty Bouvier,Simpson Living Room,This is Selma taking a siesta.
+152251,12,58,301000,Bart Simpson,Simpson Living Room,Aye carumba!
+152253,12,60,303000,Homer Simpson,Kwik-E-Mart,And he had a big nose.
+152254,12,61,305000,Homer Simpson,Kwik-E-Mart,"No, bigger. And big red hair that came out to... yeah, yeah like that."
+152255,12,62,310000,Police Artist,Kwik-E-Mart,"Well, it is a simple charcoal rendering, but is this the man?"
+152256,12,63,315000,Homer Simpson,Kwik-E-Mart,Yeah. Wait a minute. It's the guy from TV. My kid's hero... Cruddy... Crummy... Krusty the Clown!
+152258,12,65,335000,Krusty the Clown,Krusty's Apartment,Aaaaah.
+152259,12,66,345000,Krusty the Clown,Krusty's Apartment,"Hey, hey. What's going on here?"
+152261,12,67,348000,Chief Wiggum,Krusty's Apartment,"Krusty the Clown, you are under arrest for armed robbery. You have the right to remain silent. Anything you say blah, blah, blah, blah, blah, blah, blah, blah, blah."
+152262,12,68,354000,Krusty the Clown,Krusty's Apartment,What... is this a joke?
+152264,12,70,358000,Chief Wiggum,Springfield Police Station,"Ready, Mr. Simpson?"
+152265,12,71,360000,Homer Simpson,Springfield Police Station,"Yes, sir."
+152266,12,72,361000,Chief Wiggum,Springfield Police Station,Send in the clowns.
+152267,12,73,367000,Chief Wiggum,Springfield Police Station,"So, Simpson. Which one is it?"
+152268,12,74,372000,Homer Simpson,Springfield Police Station,"Well, if the crime is making me laugh, they're all guilty."
+152269,12,75,376000,Chief Wiggum,Springfield Police Station,"No, no! Which one is the robber?"
+152270,12,76,377000,Homer Simpson,Springfield Police Station,"Oh, definitely number... Heh heh..."
+152271,12,77,382000,Chief Wiggum,Springfield Police Station,Simpson!
+152272,12,78,383000,Homer Simpson,Springfield Police Station,Four.
+152274,12,80,384000,Patty Bouvier,Simpson Living Room,And this is all the mail that awaited us upon our return.
+152275,12,81,388000,Marge Simpson,Simpson Living Room,Hmmm hmmm.
+152276,12,82,388000,Patty Bouvier,Simpson Living Room,And this is Selma dropping off our vacation film to be developed.
+152277,12,83,394000,Selma Bouvier,Simpson Living Room,Thus concludes our Mexican odyssey.
+152278,12,84,400000,Marge Simpson,Simpson Living Room,"Hmmm, very... thorough."
+152279,12,85,403000,Homer Simpson,Simpson Living Room,I'm home everybody.
+152280,12,86,404000,Patty Bouvier,Simpson Living Room,"Oh, goody gumdrops."
+152281,12,87,404000,Selma Bouvier,Simpson Living Room,"You missed the whole slide show, Homer."
+152282,12,88,407000,Homer Simpson,Simpson Living Room,"Oh fantastic. Marge, you're never gonna believe what happened. I was down at the Kwik-E-Mart minding my own business when... Oooh oooh, ooh, the news."
+152283,12,89,414000,Announcer,Simpson Living Room,"Springfield's number one news team with our Emmy award winning anchorman, Kent Brockman."
+152284,12,90,421000,Scott Christian,Simpson Living Room,Good evening. I'm Scott Christian. Kent Brockman is off tonight. Why did the clown cross the road? To rob a Kwik-E-Mart.
+152285,12,91,429000,Scott Christian,Simpson Living Room,The news story behind that enigmatic half-joke right after this commercial message.
+152286,12,92,433000,Homer Simpson,Simpson Living Room,Wait a minute. Bart -- you know that guy on your lunch box?
+152287,12,93,436000,Bart Simpson,Simpson Living Room,"Oh, you mean Krusty the Clown?"
+152288,12,94,437000,Homer Simpson,Simpson Living Room,"He's sort of a hero of yours, isn't he?"
+152289,12,95,439000,Bart Simpson,Simpson Living Room,Are you kidding? He's my idol. I've based my whole life on Krusty's teachings.
+152260,12,96,443000,Homer Simpson,Simpson Living Room,"Well, uh... m-maybe you better run off to bed..."
+152291,12,97,445000,Scott Christian,Simpson Living Room,Krusty the Clown is behind bars tonight after a daring twilight robbery of a local Kwik-E-Mart.
+152292,12,98,450000,Bart Simpson,Simpson Living Room,Krusty!
+152293,12,99,451000,Lisa Simpson,Simpson Living Room,Oh no!
+152295,12,101,455000,Scott Christian,Simpson Living Room,"Earlier this evening, the Springfield Swat Team apprehended the TV clown, who appears on a rival station opposite our own Emmy award-winning Hobo Hank."
+152296,12,102,462000,Scott Christian,Simpson Living Room,And just in... actual footage of the crime taken with the Kwik-E-Mart security camera.
+152297,12,103,468000,Homer Simpson,Simpson Living Room,"The reason I look unhappy is that tonight I have to see a slide show starring my wife's sisters -- or as I call them, ""the gruesome twosome."""
+152298,12,104,477000,Marge Simpson,Simpson Living Room,"Oh, Homer."
+152299,12,105,479000,Patty Bouvier,Simpson Living Room,"So, the truth comes out."
+152300,12,106,481000,Krusty the Clown,Simpson Living Room,Hand over all your money in a paper bag.
+152301,12,107,484000,Bart Simpson,Simpson Living Room,"Oh... oh! Krusty, how could you?"
+152302,12,108,486000,Marge Simpson,Simpson Living Room,"I know it looks very bad, honey -- but who knows? Maybe it'll turn out he was innocent all along."
+152303,12,109,493000,Homer Simpson,Simpson Living Room,Earth to Marge. Earth to Marge. I was there... the clown's G-I-L-L -T-Y.
+152305,12,111,507000,Krusty the Clown,Bart's Bedroom,You're my best friend.
+152306,12,112,509000,Bart Simpson,Bart's Bedroom,"Thanks, Krusty."
+152307,12,113,512000,Krusty the Clown,Bart's Bedroom,Buy my cereal!
+152308,12,114,515000,Krusty the Clown,Bart's Bedroom,Buy my cereal.
+152309,12,115,519000,Krusty the Clown,Bart's Bedroom,I didn't do it.
+152310,12,116,522000,Bart Simpson,Bart's Bedroom,I wish I could believe you.
+152311,12,117,536000,Kent Brockman,Bart's Bedroom,"Good evening again, Springfield. Krusty the Clown, the beloved idol of countless tots, now nothing more than a common alleged criminal. His trial, which begins tomorrow, has taken center ring in a national media circus as children of all ages, from eight to eighty, hang on each new development like so many Rumanian trapeze artists."
+152312,12,118,555000,Kent Brockman,Bart's Bedroom,"From his humble beginnings as a street mime in Tupelo, Mississippi..."
+152313,12,119,555000,Kent Brockman,Bart's Bedroom,Krusty clowned his way to the top of a personal mini-empire --
+152314,12,120,555000,Kent Brockman,Bart's Bedroom,"-- with dozens of endorsements, including his own line of pork products. This may have led to one of television's best-loved bloopers -- Krusty's near fatal on-the-air heart attack in 1986."
+152317,12,121,572000,Krusty the Clown,Bart's Bedroom,"Wasn't that a great Itchy and Scratchy cartoon, kids? Well, we've got another one coming right up, but first I got a hankerin' for some pork products."
+152318,12,122,583000,Krusty the Clown,Bart's Bedroom,"Mmmm. Look! Plump succulent sausage, honey-smoked bacon and glistening, sizzling..."
+152319,12,123,597000,Krusty the Clown,Bart's Bedroom,I'm dying! I'm dying!
+152320,12,124,599000,Kent Brockman,Bart's Bedroom,"But a quick triple bypass and a pacemaker later, Krusty bounced back. However, he was a changed clown. Where his show had been condemned by parents and educators alike as simple-minded TV mayhem..."
+152321,12,125,607000,Kent Brockman,Bart's Bedroom,This new Krusty devoted a small portion of every show to stamping out illiteracy in today's anything-for-a- thrill youth.
+152322,12,126,619000,Krusty the Clown,Bart's Bedroom,Give a hoot! Read a book!
+152323,12,127,621000,Kent Brockman,Bart's Bedroom,"Krusty's arrest has sent shock waves through Springfield, packing its churches, synagogues and mosques with disillusioned citizenry from all walks of life."
+152324,12,128,629000,Rev. Timothy Lovejoy,Bart's Bedroom,"I urge every halfway decent member of our community to gather up all merchandise that bears the likeness of Krusty, that clown prince of corruption, and join me in a public burning."
+152325,12,129,641000,Kent Brockman,Bart's Bedroom,So is Krusty the Clown about to trade in his baggy pants for the relatively snug uniform of Springfield Penitentiary? We'll find out tomorrow when his trial begins.
+152327,12,131,656000,Reporter #1,Springfield Courthouse Steps,What kind of gun did you use?
+152328,12,132,657000,Reporter #2,Springfield Courthouse Steps,Did you use an accomplice?
+152329,12,133,658000,Reporter #3,Springfield Courthouse Steps,Will you plead insanity?
+152330,12,134,660000,Bart Simpson,Springfield Courthouse Steps,Look at him. His clothes are so drab.
+152331,12,135,663000,Lisa Simpson,Springfield Courthouse Steps,His face is so flesh-colored and sad.
+152332,12,136,666000,Bart Simpson,Springfield Courthouse Steps,And his feet... they're so small.
+152333,12,137,669000,Bart Simpson,Springfield Courthouse Steps,"Say it ain't so, Krusty."
+152334,12,138,672000,Lawyer,Springfield Courthouse Steps,My client has no comment at this time.
+152335,12,139,675000,Krusty the Clown,Springfield Courthouse Steps,I didn't do it!
+152337,12,141,681000,Judge Snyder,Courtroom,"Krusty the clown, how do you plead?"
+152338,12,142,683000,Krusty the Clown,Courtroom,"I plead guilty, your honor."
+152339,12,143,689000,Krusty the Clown,Courtroom,"Uh... I mean, not guilty. Opening night jitters, your honor."
+152340,12,144,693000,District Attorney,Courtroom,"I would like to call to the stand, Homer J. Simpson."
+152341,12,145,696000,Bart Simpson,Courtroom,"Don't do it, Dad. Please don't do it."
+152315,12,146,699000,Homer Simpson,Courtroom,"Sorry, son. You'll understand one day."
+152342,12,147,701000,Bart Simpson,Courtroom,"He's innocent, I tell you. Krusty would never do something like that. Ah come on Dad, you gotta listen to me."
+152344,12,149,713000,District Attorney,Courtroom,"Mr. Simpson, was that you taking that cowardly dive into that display of heavily-salted snack treats?"
+152345,12,150,719000,Homer Simpson,Courtroom,"Yes, sir."
+152346,12,151,720000,District Attorney,Courtroom,Hmmm hmmm. Do you recognize the gunman in this courtroom today?
+152347,12,152,723000,Homer Simpson,Courtroom,"Yes, I do."
+152348,12,153,724000,District Attorney,Courtroom,"Fine, would you point him out to us?"
+152349,12,154,726000,Homer Simpson,Courtroom,Okay.
+152350,12,155,740000,Bart Simpson,Courtroom,"Oh, man."
+152351,12,156,741000,District Attorney,Courtroom,Let the record show that the witness eventually pointed to Krusty the Clown.
+152353,12,158,750000,Marge Simpson,Simpson Home,These toys are just adorable. Who'd have guessed they were inspired by an insane criminal genius?
+152355,12,160,761000,Bart Simpson,Hallway,"But Dad, you're giving in to mob mentality."
+152356,12,161,765000,Homer Simpson,Hallway,"No, I'm not. I'm hopping on the bandwagon. Now come on, son, get with the winning team."
+152358,12,163,772000,Merchant,Springfield High School Football Field,"Hey, right here. Krusty souvenirs. Buy 'em and burn 'em right here."
+152359,12,164,777000,Rev. Timothy Lovejoy,Springfield High School Football Field,"Good people, I'm so happy you're all here tonight. But please, just a few words of caution. Now, we are going to set this pile of evil ablaze, but because these are children's toys the fire will spread quickly, so please stand back and try not to inhale the toxic fumes."
+152360,12,165,803000,Crowd,Springfield High School Football Field,Ahhhhh. Oooh!
+152362,12,167,803000,District Attorney,Courtroom,"Krusty, would you please turn your attention to Exhibit B, and tell me what you see?"
+152363,12,168,811000,Krusty the Clown,Courtroom,Which one do you mean?
+152364,12,169,813000,District Attorney,Courtroom,The one with the big B on it.
+152365,12,170,813000,Krusty the Clown,Courtroom,Uh... uh...
+152366,12,171,816000,District Attorney,Courtroom,"What's the matter, can't you read?"
+152367,12,172,818000,Krusty the Clown,Courtroom,"No, I can't! I can't read or write! I admit it! I'm totally illiterate! Now are you happy?"
+152368,12,173,825000,Judge Snyder,Courtroom,Can it be that the champion of child literacy can't even read himself?
+152369,12,174,829000,Krusty the Clown,Courtroom,Is it a crime to be illiterate?
+152372,12,175,831000,District Attorney,Courtroom,"All right, all right. See this, Krusty? This is a 'B'. And this is Exhibit B. Betting slips, obtained by this court indicating you have lost substantial sums of money on sports gambling --"
+152373,12,176,842000,Krusty the Clown,Courtroom,Is it a crime to bet on sporting events?
+152374,12,177,845000,District Attorney,Courtroom,"Yes, it is."
+152375,12,178,847000,Krusty the Clown,Courtroom,Oh.
+152376,12,179,850000,Judge Snyder,Courtroom,"Foreperson, have you reached a verdict?"
+152377,12,180,853000,Foreperson,Courtroom,"Yes, we have, your honor. We find the defendant, Krusty the Clown... guilty."
+152378,12,181,862000,Lawyer,Courtroom,I knew it! This happens to me every time.
+152380,12,183,870000,Sideshow Bob,Simpson Home,"My young friends. For years I have been silent, save for the crude glissandos of this primitive wind instrument. But now destiny has thrust me into the center ring. In the coming weeks, you will notice some rather sweeping changes in our program. Please, do not be alarmed. Itchy and Scratchy will still have a home here, but we will also learn about nutrition, self-esteem, etiquette and all the lively arts."
+152381,12,184,894000,Bart Simpson,Simpson Home,"What the hell are you doing, Lis?"
+152382,12,185,895000,Lisa Simpson,Simpson Home,"I'm watching Sideshow Bob. You know, he's a lot less patronizing than Krusty used to be."
+152383,12,186,900000,Bart Simpson,Simpson Home,"You backstabber, you traitor, you..."
+152384,12,187,902000,Lisa Simpson,Simpson Home,"Snap out of it, Bart. Face the facts. All those hours we spent staring at Krusty, we were staring at a crook."
+152385,12,188,908000,Bart Simpson,Simpson Home,"Look, Lisa, I know Krusty's innocent. Don't ask me why. It's just a feeling I have."
+152386,12,189,914000,Lisa Simpson,Simpson Home,"Oh, Bart."
+152387,12,190,915000,Bart Simpson,Simpson Home,"Come on, Lisa. I think I can prove Krusty's innocent, but I need your help."
+152388,12,191,919000,Lisa Simpson,Simpson Home,You do? Why?
+152389,12,192,920000,Bart Simpson,Simpson Home,"Oh, come on Lis, you know why."
+152390,12,193,922000,Lisa Simpson,Simpson Home,"No, why?"
+152391,12,194,923000,Bart Simpson,Simpson Home,"I'll never forgive you for making me say this, but... you're smarter than me."
+152392,12,195,929000,Bart Simpson,Simpson Home,"So, you with me?"
+152393,12,196,930000,Lisa Simpson,Simpson Home,Yeah man.
+152395,12,198,935000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Okay, okay. Don't try anything funny. I'm armed to the teeth."
+152396,12,199,943000,Lisa Simpson,Kwik-E-Mart,"Bart, look!"
+152397,12,200,946000,Bart Simpson,Kwik-E-Mart,So? I don't have a pacemaker.
+152398,12,201,949000,Lisa Simpson,Kwik-E-Mart,"Come on, Bart. The tape showed that the robber heated up a burrito."
+152370,12,202,952000,Bart Simpson,Kwik-E-Mart,So?
+152399,12,203,953000,Lisa Simpson,Kwik-E-Mart,"Don't you remember the get-well card we sent to Krusty? It was after his heart attack, when he had a pacemaker put in."
+152400,12,204,960000,Bart Simpson,Kwik-E-Mart,Ah ha!
+152401,12,205,963000,Lisa Simpson,Kwik-E-Mart,Wait a minute. Krusty can't read.
+152402,12,206,965000,Bart Simpson,Kwik-E-Mart,Okay! okay! So the poor guy can't read! Can't we get off his back already?
+152403,12,207,969000,Lisa Simpson,Kwik-E-Mart,"No! Don't you get it, Bart? How could Krusty have been reading a magazine if he can't read?"
+152404,12,208,974000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Hey, hey. This is not a lending library. If you're not going to buy that thing, put it down or I'll blow your heads off."
+152405,12,209,981000,Lisa Simpson,Kwik-E-Mart,"Bart, I'm starting to think you're right. Krusty was framed. Did he have any enemies?"
+152406,12,210,985000,Bart Simpson,Kwik-E-Mart,"I don't know, but I know someone who would: Krusty's best friend in the whole world, Sideshow Bob."
+152408,12,212,991000,Sideshow Bob,TV Studio,"""A volley of musketry flamed, thundered, roared. A profound silence followed, broken only by the approaching footsteps of the Third Brigade."""
+152409,12,213,995000,Sideshow Bob,TV Studio,"Next week, chapter thirty five of ""The Man In The Iron Mask-The Death Of A Titan."""
+152410,12,214,1006000,Sideshow Bob,TV Studio,"Well, kids, that's our show for the day. And now, the words of Mr. Cole Porter..."
+152411,12,215,1012000,Sideshow Bob,TV Studio,"EVERY TIME WE SAY GOODBYE, I DIE A LITTLE. EVERY TIME WE SAY GOODBYE, I WONDER WHY A LITTLE. EVERY TIME WE SAY GOODBYE. GOODBYE."
+152412,12,216,1036000,Director,TV Studio,"Great show, Sideshow. Switchboards were jammed. The kids love you."
+152413,12,217,1040000,Sideshow Bob,TV Studio,"Thanks, Ted. I'm glad we've finally dispelled the myth that I'm too uptown for the tots. And yet, I can't help thinking about poor Krusty."
+152415,12,219,1064000,Merchandiser #1,Sideshow Bob's Dressing Room,We see your face on key chains!
+152416,12,220,1064000,Merchandiser #3,Sideshow Bob's Dressing Room,-- and water-action pens!
+152417,12,221,1066000,Merchandiser #1,Sideshow Bob's Dressing Room,-- and snow domes!
+152418,12,222,1066000,Sideshow Bob,Sideshow Bob's Dressing Room,"This is all very exciting, but I think we'd do well to explore the more upscale market. For instance, Sideshow Bob limited edition prints, collectors plates, commemorative coins."
+152419,12,223,1078000,Security Guard,Sideshow Bob's Dressing Room,"Some kids are here to see you, Sideshow Bob. They say it's important."
+152420,12,224,1081000,Merchandiser #1,Sideshow Bob's Dressing Room,"Ah, well. We can sign these contracts tomorrow."
+152421,12,225,1084000,Sideshow Bob,Sideshow Bob's Dressing Room,Certainly. I take great pride in being able to sign my own name.
+152107,12,226,1090000,Lisa Simpson,Sideshow Bob's Dressing Room,"Hi, Sideshow Bob."
+152422,12,227,1091000,Bart Simpson,Sideshow Bob's Dressing Room,"Sideshow Bob, can we ask you a few--"
+152423,12,228,1093000,Sideshow Bob,Sideshow Bob's Dressing Room,"Forgive me, children. As much as Sideshow Bob would love to chat, he has a show starting in moments. Here you go. Three tickets, be my guest."
+152424,12,229,1099000,Bart Simpson,Sideshow Bob's Dressing Room,"Well, okay, but..."
+152425,12,230,1100000,Sideshow Bob,Sideshow Bob's Dressing Room,"Come, come, let's run along."
+152427,12,232,1106000,Sideshow Bob,TV Studio,"Hello, children. Whom do you love?"
+152428,12,233,1110000,Lisa Simpson,TV Studio,Sideshow Bob!
+152429,12,234,1111000,Lisa Simpson,TV Studio,"Come on, Bart. Go with the flow."
+152430,12,235,1114000,Sideshow Bob,TV Studio,How much do you love me?
+152431,12,236,1116000,Lisa Simpson,TV Studio,With all our hearts!
+152432,12,237,1117000,Bart Simpson,TV Studio,About a zillionth as much as I love Krusty.
+152433,12,238,1120000,Sideshow Bob,TV Studio,"Today's show promises to be a marvelous celebration of the human spirit. But first, I regret to say I see a youngster who looks troubled."
+152434,12,239,1127000,Sideshow Bob,TV Studio,"What's your name, young man?"
+152435,12,240,1129000,Bart Simpson,TV Studio,"Bart Simpson, sir."
+152436,12,241,1130000,Sideshow Bob,TV Studio,"Mmm... Well, perhaps we can shed some light on your problem in a new segment exploring pre-adolescent turmoil. I call it ""Choices."""
+152437,12,242,1136000,Bart Simpson,TV Studio,"I don't think so, sir."
+152438,12,243,1140000,Sideshow Bob,TV Studio,"Bart, I'm reaching out to you."
+152439,12,244,1143000,Sideshow Bob,TV Studio,"So what's on your mind, Bart? I bet the other children don't accept you."
+152440,12,245,1148000,Bart Simpson,TV Studio,"True, Sideshow Bob, but that doesn't bother me. You see, my sisters and I have been doing a little investigating, and it looks to us like Krusty was framed."
+152441,12,246,1156000,Sideshow Bob,TV Studio,Framed?
+152442,12,247,1157000,Bart Simpson,TV Studio,"Well, the videotape showed that the thief used the microwave oven at the Kwik-E-Mart. But Krusty couldn't go near the thing. Not with his pacemaker."
+152443,12,248,1165000,Sideshow Bob,TV Studio,"Well, you know Bart, as much as I love Krusty, he was never one to take doctors' orders too seriously."
+152444,12,249,1171000,Bart Simpson,TV Studio,"Well, maybe. But, get this, Krusty was illiterate and the guy who robbed the store was reading the Springfield Review of Books."
+152445,12,250,1178000,Sideshow Bob,TV Studio,"Ah, well, Bart..."
+152446,12,251,1178000,Sideshow Bob,TV Studio,"The fact is, you don't have to be able to read to enjoy the Springfield"
+152447,12,252,1178000,Sideshow Bob,TV Studio,Review of Books. Just look at these amusing caricatures of Gore Vidal and Susan Sontag.
+152448,12,253,1188000,Bart Simpson,TV Studio,"Yeah, I guess those are kinda funny."
+152449,12,254,1191000,Sideshow Bob,TV Studio,"Bart, children, this whole sordid affair has been a shock to all of us, but we must get on with our lives. Let's try to remember Krusty not as a hardened criminal, but as that lovable jester who honked his horn and puttered around in his little car."
+152450,12,255,1204000,Bart Simpson,TV Studio,And shot you out of a cannon.
+152451,12,256,1206000,Sideshow Bob,TV Studio,"And shot me out of a cannon. Yes, we will never forget that will we? Bart, open your heart. I admit I have some mighty big shoes to fill, but if you give me a chance, I promise you won't be disap..."
+152452,12,257,1211000,Sideshow Bob,TV Studio,Big shoes to fill. Big shoes to fill. Big shoes to fill.
+152453,12,258,1228000,Sideshow Bob,TV Studio,"You know, in ancient Greece, there was a school of thought called stoicist..."
+152454,12,259,1230000,Bart Simpson,TV Studio,Wait a minute! You did it!
+152455,12,260,1232000,Sideshow Bob,TV Studio,Excuse me?
+152456,12,261,1235000,Bart Simpson,TV Studio,"Attention, fellow children. Krusty didn't rob that store. Sideshow Bob framed him and I got proof."
+152457,12,262,1240000,Sideshow Bob,TV Studio,"Ow, my foot, you lousy, stupid, clumsy..."
+152458,12,263,1245000,Bart Simpson,TV Studio,"See that? Krusty wore big floppy shoes but he's got little feet, like all good-hearted people."
+152459,12,264,1251000,Bart Simpson,TV Studio,Sideshow Bob really fills his shoe with big ugly feet.
+152460,12,265,1254000,Lou,TV Studio,The kid's right.
+152461,12,266,1256000,Eddie,TV Studio,How do you figure we missed that?
+152462,12,267,1258000,Chief Wiggum,TV Studio,"Get off your duffs, boys. Get down to that studio!"
+152464,12,269,1261000,Sideshow Bob,TELEVISION STATION,"Yes, I admit it. I hated him. His hackneyed shenanigans robbed me of my dignity for years. I played the buffoon while he squandered a fortune on his vulgar appetites. That's why I framed Krusty. I would have gotten away with it too if it weren't for these meddling kids."
+152465,12,270,1278000,Bart Simpson,TELEVISION STATION,"Take him away, boys."
+152466,12,271,1280000,Sideshow Bob,TELEVISION STATION,Treat kids as equals. They're people too. They're smarter than you think. They were smart enough to catch me.
+152468,12,273,1293000,Chief Wiggum,Jailhouse,"Well, we made a terrible, terrible mistake. Uh... won't happen again."
+152469,12,274,1300000,Krusty the Clown,Jailhouse,"It better not, you dimwit."
+152470,12,275,1301000,Homer Simpson,Jailhouse,"Krusty, I'm man enough to admit I was wrong, and I'm sorry I fingered you in court. I sincerely hope that the horrible stories I heard about what goes on in prison are exaggerated."
+152472,12,276,1310000,Krusty the Clown,Jailhouse,"Well, the important thing is that I regained the trust of the children, but there was one boy who trusted me all along. Bart?"
+152473,12,277,1318000,Bart Simpson,Jailhouse,"Yes, sir."
+152474,12,278,1319000,Krusty the Clown,Jailhouse,Thank you.

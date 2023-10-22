@@ -1,0 +1,222 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+88158,341,1,1315000,Marge Simpson,Springfield Air and Space Museum,I can't believe Mr. Burns reserved the entire museum just for an office party.
+88159,341,2,1315000,Lisa Simpson,Springfield Air and Space Museum,It doesn't seem fair to the regular visitors.
+88160,341,3,1315000,Brandine Del Roy,Springfield Air and Space Museum,We drove eighteen hours to come here.
+88161,341,4,1315000,Cletus Spuckler,Springfield Air and Space Museum,"On the plus side, this rope is mighty soft. Hm, touch it, kids."
+88162,341,5,1315000,Homer Simpson,Springfield Air and Space Museum,Par-ty! Par-ty! Par-ty!
+88163,341,6,1315000,Marge Simpson,Springfield Air and Space Museum,"Homer, these are people you work with. Show some restraint."
+88164,341,7,1315000,Homer Simpson,Springfield Air and Space Museum,Re-straint! Re-straint! Re-straint!
+88165,341,8,1315000,Homer Simpson,Springfield Air and Space Museum,"Lighten up, Marge. This is my chance to relax with people from work I never get to see. Like this guy."
+88166,341,9,1315000,Man,Springfield Air and Space Museum,I'm your supervisor!
+88167,341,10,1315000,Homer Simpson,Springfield Air and Space Museum,Really? How'm I doin'?
+88168,341,11,1315000,C. Montgomery Burns,Springfield Air and Space Museum,"Well, well, if it isn't my favorite employee and his spouse. And these must be children. Have a ginger root."
+88169,341,12,1315000,Lisa Simpson,Springfield Air and Space Museum,Mr. Burns acting nice? That's odd. He must be up to something.
+88170,341,13,1315000,Bart Simpson,Springfield Air and Space Museum,"Lis, Mr. Burns is the sweetest, kindest man I know."
+88171,341,14,1315000,Lisa Simpson,Springfield Air and Space Museum,How many men do you know?
+88172,341,15,1315000,Bart Simpson,Springfield Air and Space Museum,Basically him and Dad.
+88174,341,17,1315000,Homer Simpson,AIR MUSEUM,"Nice tux, Moe."
+88175,341,18,1315000,Moe Szyslak,AIR MUSEUM,"Yeah thanks. I bought this for my funeral. It ain't got no back, so don't make me turn around."
+88177,341,20,1315000,Moe Szyslak,AIR MUSEUM,"Hey, I'm payin' for a silk-lined coffin. And dammit, I'm gonna feel it!"
+88179,341,22,1315000,Announcer,Springfield Air and Space Museum,"Since the dawn of aviation, man has built museums dedicated to the history of flight, and created audio-visual materials to orient visitors to those museums."
+88180,341,23,1315000,Announcer,Springfield Air and Space Museum,From the hand-drawn flip book at the Wright Brothers' museum...
+88181,341,24,1315000,Announcer,Springfield Air and Space Museum,To the IMAX movie at Cape Canaveral...
+88182,341,25,1315000,Announcer,Springfield Air and Space Museum,Aviation museum audio-visual materials have taken patrons and docents alike on a rocket ride to comprehension. This is the story of those materials.
+88183,341,26,1315000,Homer Simpson,Springfield Air and Space Museum,"Hey, it's a guy in a goofy Burns head!"
+88184,341,27,1315000,Homer Simpson,Springfield Air and Space Museum,Act like Burns!
+88185,341,28,1315000,Homer Simpson,Springfield Air and Space Museum,That's him to a T!
+88187,341,30,1315000,Tour Guide,Tarmac,"Here we have a vintage film of the original Springfield Wing Walkers, including our own Agnes Skinner."
+88188,341,31,1315000,Homer Simpson,Tarmac,"Wow, a wooden plane. It's about time trees were good for something, instead of just standing there like jerks."
+88189,341,32,1315000,Lisa Simpson,Tarmac,"""The Plywood Pelican was larger than a football field. It weighs more than the state of New Hampshire. It was only flown once, by its creator, Mr. C. Montgomery Burns."""
+88190,341,33,1315000,C. Montgomery Burns,Tarmac,I flew it at an altitude of six feet for a distance of four-and-a-half feet. Then we discovered rain makes it catch fire. Then the Führer fired me.
+88191,341,34,1315000,Homer Simpson,Tarmac,What a magical party this has been. Mr. Burns is a great man.
+88192,341,35,1315000,Marge Simpson,Tarmac,I've got a bad feeling about all of this.
+88193,341,36,1315000,Homer Simpson,Tarmac,"C'mon, Marge. This place is great. Free admission, great grub and we got to use the bathroom of the future."
+88194,341,37,1315000,Marge Simpson,Tarmac,"Homer, that was Apollo Twelve!"
+88196,341,39,1315000,C. Montgomery Burns,MUSEUM STAGE,"Greetings, wage-donkeys. Is everyone happy and content?"
+88197,341,40,1315000,Lenny Leonard,MUSEUM STAGE,Yeah!
+88198,341,41,1315000,Carl Carlson,MUSEUM STAGE,This is great!
+88199,341,42,1315000,Lenny Leonard,MUSEUM STAGE,I would die for you!
+88200,341,43,1315000,C. Montgomery Burns,MUSEUM STAGE,Is your sense of outrage dulled?
+88201,341,44,1315000,Homer Simpson,MUSEUM STAGE,"Spill it, Super-boss!"
+88202,341,45,1315000,C. Montgomery Burns,MUSEUM STAGE,Very well... effective immediately the employee prescription drug program is terminated.
+88204,341,47,1315000,Lenny Leonard,MUSEUM STAGE,What?
+88205,341,48,1315000,Carl Carlson,MUSEUM STAGE,Why?
+88206,341,49,1315000,C. Montgomery Burns,MUSEUM STAGE,"In these days of rising health care costs... blah blah blah... lip service, lip service... get out."
+88207,341,50,1315000,Lisa Simpson,MUSEUM STAGE,"This must be the ""nasty surprise"" he mentioned in the invitation."
+88208,341,51,1315000,Crowd,MUSEUM STAGE,No! / This sucks! / Get him!
+88209,341,52,1315000,C. Montgomery Burns,MUSEUM STAGE,"Fly, you fool!"
+88210,341,53,1315000,Waylon Smithers,MUSEUM STAGE,"I tried to explain to you, sir, this thing has never actually worked."
+88211,341,54,1315000,C. Montgomery Burns,MUSEUM STAGE,Smithers... you must believe!
+88212,341,55,1315000,C. Montgomery Burns,MUSEUM STAGE,"Next stop, Pirate Island!"
+88213,341,56,1315000,C. Montgomery Burns,MUSEUM STAGE,"Well, that was a pretty good party. Do you think Carol from payroll and Mike from shipping are going to hook up?"
+88214,341,57,1315000,Waylon Smithers,MUSEUM STAGE,He's married.
+88215,341,58,1315000,C. Montgomery Burns,MUSEUM STAGE,Change course! Carol must be warned!
+88218,341,61,1315000,Marge Simpson,KITCHEN,"Now that Mr. Burns has eliminated the drug plan, we're gonna have to cut back on our diseases."
+88219,341,62,1315000,Homer Simpson,KITCHEN,"I'll get a second job. One that pays well. You think those guys on ""Friends"" need another friend?"
+88220,341,63,1315000,Lisa Simpson,KITCHEN,That show's gone off the air.
+88221,341,64,1315000,Homer Simpson,KITCHEN,"Dammit! I would've been perfect as Rachel's Irish cousin. So you're all doing each other, are ya? Well, who's going to put out for old Seamus?"
+88223,341,66,1315000,Homer Simpson,Springfield Employment Agency,I need a new job that provides full health benefits.
+88224,341,67,1315000,Employment Counselor,Springfield Employment Agency,Uh-huh.
+88225,341,68,1315000,Homer Simpson,Springfield Employment Agency,"-- as long as I only work five hours a day, no heavy lifting, no light clerical, none of that secret Santa crap, tasteful nudity..."
+88226,341,69,1315000,Employment Counselor,Springfield Employment Agency,"Uh, well let me see what I've got."
+88227,341,70,1315000,Video Game Voice,Springfield Employment Agency,You have defeated the doom-bot and sealed the portal. Phobos is safe.
+88228,341,71,1315000,Homer Simpson,Springfield Employment Agency,Phobos? That's a good job for me.
+88229,341,72,1315000,Kent Brockman,Springfield Employment Agency,"Following the lead of Springfield Nuclear Power, other local companies are canceling their prescription drug plans... even here at Channel Six!"
+88234,341,74,1315000,Krusty the Clown,Krusty the Clown Show Soundstage,"Now kids, I want you to go to your parents' medicine cabinet and find all the pills labeled Lithium Dibromide...and send them to me -- now! No one likes a bi-polar clown."
+88235,341,75,1315000,Kent Brockman,Krusty the Clown Show Soundstage,"To cope with the crisis, many consumers are turning to alternative forms of treatment."
+88237,341,77,1315000,Chief Wiggum,Police Evidence Room,I've had to medicate Ralphie with stuff from the evidence locker.
+88238,341,78,1315000,Ralph Wiggum,Police Evidence Room,I'm cuckoo for contraband!
+88239,341,79,1315000,Kent Brockman,Police Evidence Room,"Of course, this wouldn't be necessary if retail drug prices were reasonable. Dr. Julius Hibbert, do you agree?"
+88240,341,80,1315000,Dr. Julius Hibbert,Police Evidence Room,Possible side effects include dizziness and shortness of marriage. Damn!
+88242,341,82,1315000,Spokesman,Drug Manufacturing Plant,Well let me start out by saying that it is always a pleasure to sit down with a mother and a daughter who have snuck past security and burst into my office.
+88243,341,83,1315000,Marge Simpson,Drug Manufacturing Plant,I just don't see why one little pill should cost thirty dollars!
+88244,341,84,1315000,Lisa Simpson,Drug Manufacturing Plant,Drugs aren't so expensive in other countries.
+88245,341,85,1315000,Spokesman,Drug Manufacturing Plant,In other countries families also lie on the floor and eat bugs.
+88246,341,86,1315000,Lisa Simpson,Drug Manufacturing Plant,What countries are those?
+88247,341,87,1315000,Spokesman,Drug Manufacturing Plant,You ever been to Norway?
+88248,341,88,1315000,Lisa Simpson,Drug Manufacturing Plant,No.
+88249,341,89,1315000,Spokesman,Drug Manufacturing Plant,"Well they do it in Norway. And that's why I personally thank God we pay too much for drugs. I mean, uh, the right amount. I mean not enough. Here, watch this video."
+88250,341,90,1315000,Narrator,Drug Manufacturing Plant,"The mighty Amazon River. The natives had a word for it. Then we got rid of the natives and no one remembers that word. But, here are some words everyone remembers, by Huey Lewis and the News."
+88252,341,92,1315000,Nurse,Springfield Retirement Castle,"All right, here's your medication."
+88253,341,93,1315000,Old Jewish Man,Springfield Retirement Castle,"Wait a minute. This ain't no pill, it's a corn nut!"
+88254,341,94,1315000,Jasper Beardly,Springfield Retirement Castle,I got a bottle cap.
+88255,341,95,1315000,Grampa Simpson,Springfield Retirement Castle,Mine flew away.
+88258,341,96,1315000,Nurse,Springfield Retirement Castle,"Let me explain from behind this cage. Now, your pills have become very expensive, and no one gives a rat's ass about you. So after a lot of thought, we decided to let you go cold turkey. For those of you who survive the night, we'll be having waffles tomorrow."
+88259,341,97,1315000,Jasper Beardly,Springfield Retirement Castle,"Ooh, waffles!"
+88260,341,98,1315000,Grampa Simpson,Springfield Retirement Castle,I didn't die in World War Two just to be pushed around by some pill-hoarding hussy. I'm gonna fight this thing!
+88261,341,99,1315000,Old Jewish Man,Springfield Retirement Castle,"He's crazy, but what are you gonna do? He's young."
+88264,341,102,1315000,Marge Simpson,Simpson Living Room,"Well, the drug company won't do anything to help us."
+88266,341,104,1315000,Grampa Simpson,Simpson Home,I've got the answer!
+88267,341,105,1315000,Homer Simpson,Simpson Home,Dad?
+88268,341,106,1315000,Grampa Simpson,Simpson Home,Oh thank God it's the right place. I burst into four homes before this one.
+88269,341,107,1315000,Grampa Simpson,Simpson Home,Now listen. All the drugs we want are right across the border. I have a friend who'll help us.
+88270,341,108,1315000,Homer Simpson,Simpson Home,"The border, eh? Then I'd better sand off my fingerprints."
+88272,341,110,1315000,Homer Simpson,Simpson Home,"I could just wear gloves. Nah, they're upstairs."
+88275,341,113,1315000,Homer Simpson,Homer's Car,"Hola, Señor. We are gringos who wish to spend mucho dinero in your country."
+88276,341,114,1315000,Border Agent,Homer's Car,Splendid! Welcome to Canada.
+88279,341,117,1315000,JOHNNY,CANADIAN VFW-STYLE BUILDING,"Okay Abe, here are your fake Canadian health care cards. Take them to any pharmacy and you'll get enough drugs to make Regina look like Saskatoon."
+88280,341,118,1315000,Canadians,CANADIAN VFW-STYLE BUILDING,"/ That's a good one, Johnny."
+88281,341,119,1315000,Grampa Simpson,CANADIAN VFW-STYLE BUILDING,"Thanks a million, Johnny. In appreciation I'd like to give you this DVD player."
+88282,341,120,1315000,JOHNNY,CANADIAN VFW-STYLE BUILDING,What the heck?! Where do you pour the syrup?
+88285,341,123,1315000,Grampa Simpson,CANADIAN PHARMACY,"I'd like some Vioxx, Cumadin, Albuterol, Prevacid and an auto-inflate blood pressure monitor C-cuff, with case."
+88286,341,124,1315000,Pharmacist,CANADIAN PHARMACY,"Anything you like, fellow Canadian."
+88231,341,125,1315000,Grampa Simpson,CANADIAN PHARMACY,"Canadian?! Them's fightin' words! I mean, accurate words."
+88233,341,127,1315000,U.S. Border Guard,U.S.,Anything to declare?
+88256,341,128,1315000,Homer Simpson,U.S.,I declare that you have the most beautiful brown eyes.
+88257,341,129,1315000,U.S. Border Guard,U.S.,"Why I do believe you're smuggling... a heart as big as all outdoors. Now get in my country, ya big lug."
+88092,341,131,1315000,2nd U.S. Border Guard,U.S.,Did he have a passport?
+87974,341,132,1315000,U.S. Border Guard,U.S.,Yes... to my heart.
+88289,341,134,1315000,Homer Simpson,Springfield Retirement Castle,Drugs! Various drugs! Be sure to read instructions! Uh-oh! Where'd I put the instructions?
+88290,341,135,1315000,Grampa Simpson,Springfield Retirement Castle,"So, who's next? I've got pills to make you sleep late, coagulate, eliminate and copulate. In that order."
+88291,341,136,1315000,Los Jacquitos Leader,Springfield Retirement Castle,"Grampa, we would like to thank you for all you have done for us. Please accept this ""Operation Dumbo Drop"" souvenir jacket."
+88292,341,137,1315000,Los Jacquitos Leader,Springfield Retirement Castle,"Look. They used the same ""D"" for ""Dumbo"" and ""Drop"". Unbelievably, only three were ever purchased."
+88294,341,139,1315000,Homer Simpson,Simpson Living Room,Marge? Bart? Lisa?
+88296,341,141,1315000,Lisa Simpson,Backyard,A-lo-ha!
+88297,341,142,1315000,Homer Simpson,Backyard,"Wow, this is just like Hawaii, but you don't get beaten up if you leave the hotel. What gives?"
+88298,341,143,1315000,Lisa Simpson,Backyard,"We just wanted to thank you. Because of the Xanax, I'm not over-anxious about being a Simpson anymore. I am a little anxious about being on Xanax, but the Zoloft covers that nicely."
+88299,341,144,1315000,Bart Simpson,Backyard,"My Dad, the drug mule."
+88300,341,145,1315000,Homer Simpson,Backyard,"Oh man, I need something to settle my stomach."
+88301,341,146,1315000,Homer Simpson,Backyard,Oh wait. I was supposed to take these with food.
+88303,341,148,1315000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Oh look, it is Mr. Homer, my favorite customer! Please feel free to paw through my Playdudes and tell me to go back to some country I am not actually from."
+88304,341,149,1315000,Homer Simpson,Kwik-E-Mart,"Why the sweet talk, Apu? Are you after some cheap drugs?"
+88305,341,150,1315000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Please let me come on one of your smuggling runs! My eight babies are driving me crazy! With their coughing and sneezing and general oozing... my Janitor in a Drum is afraid to come out. What does that mean? I don't even know. That's the kind of bad joke I am making, I am so tired."
+88306,341,151,1315000,Ned Flanders,Kwik-E-Mart,"Help me out, Homer. My little Roddy needs his insulin. Breaks my heart to watch him jones-diddly-ownsing."
+88307,341,152,1315000,Homer Simpson,Kwik-E-Mart,"Flanders? I don't know... I mean, you haven't done anything for me since you lent me that five thousand bucks yesterday."
+88308,341,153,1315000,Ned Flanders,Kwik-E-Mart,I don't claim to be the perfect neighbor...
+88310,341,154,1315000,Apu Nahasapeemapetilon,Kwik-E-Mart,"If you let us come, I will give you ten minutes alone with my Squishee machine, do what you will."
+88311,341,155,1315000,Homer Simpson,Kwik-E-Mart,No cameras?
+88312,341,156,1315000,Apu Nahasapeemapetilon,Kwik-E-Mart,No cameras.
+88314,341,158,1315000,Apu Nahasapeemapetilon,Rented Van,"Homer, tell Mr. Ned to stop trying to convert me!"
+88315,341,159,1315000,Ned Flanders,Rented Van,I was just telling him how brave he is to worship a false god.
+88316,341,160,1315000,Apu Nahasapeemapetilon,Rented Van,"I do not worship one god, okay? I worship a whole super-team of deities that-- Ow! Ow! Okay, he just pinched me!"
+88317,341,161,1315000,Ned Flanders,Rented Van,Well where's your super-team now?
+88318,341,162,1315000,Homer Simpson,Rented Van,"Listen you two, I'll tell you who the true God is if you're both quiet the rest of the trip!"
+88319,341,163,1315000,Ned Flanders,Rented Van,But the infinite beauty-- / But the Bible says--
+88320,341,164,1315000,Homer Simpson,Rented Van,"All right, I'm comin' back there."
+88321,341,165,1315000,Apu Nahasapeemapetilon,Rented Van,"Save me, Shiva!"
+88322,341,166,1315000,Ned Flanders,Rented Van,Why don't you just call out for Hawk Man?
+88323,341,167,1315000,Apu Nahasapeemapetilon,Rented Van,Why don't you shut up?
+88325,341,169,1315000,Canadian Man,STREETS OF WINNIPEG,Well circle-cut my bacon! Look at all these Yankee-doodly-dandies! Is there another Vietnam going on?
+88326,341,170,1315000,Ned Flanders,STREETS OF WINNIPEG,"Hello, neighborino to the north. I sure like the cut of your gibberish."
+88328,341,172,1315000,Canadian Man,STREETS OF WINNIPEG,"Say, would you like to puff on a reefer-ino? It's legal here!"
+88329,341,173,1315000,Ned Flanders,STREETS OF WINNIPEG,They warned me Satan would be attractive. Let's go.
+88331,341,175,1315000,Ned Flanders,"BORDER CROSSING, CANADIAN SIDE",Anyone want some coffee for the ride back?
+88332,341,176,1315000,Ned Flanders,"BORDER CROSSING, CANADIAN SIDE","Not that convenience store crap, is it? Because I don't feed that to my dogs."
+88333,341,177,1315000,Ned Flanders,"BORDER CROSSING, CANADIAN SIDE","No, no, it's home-brewed."
+88334,341,178,1315000,Ned Flanders,"BORDER CROSSING, CANADIAN SIDE","Careful, it's hotter than a Fox News weather skank."
+88335,341,179,1315000,Apu Nahasapeemapetilon,"BORDER CROSSING, CANADIAN SIDE","Oh, my, hot, hot, hot la, la, la, la, la, la, la, la, la!"
+88336,341,180,1315000,Ned Flanders,"BORDER CROSSING, CANADIAN SIDE","Here, let me wrap this wet towel around your head to cool you off."
+88337,341,181,1315000,Apu Nahasapeemapetilon,"BORDER CROSSING, CANADIAN SIDE",La la la la la la la!
+88338,341,182,1315000,Mountie,"BORDER CROSSING, CANADIAN SIDE","Stop him! He's expressing his faith, eh!"
+88309,341,183,1315000,Homer Simpson,"BORDER CROSSING, CANADIAN SIDE",Hold on. We're just innocent tourists.
+88339,341,184,1315000,Apu Nahasapeemapetilon,"BORDER CROSSING, CANADIAN SIDE",La la la la la la la la la!
+88340,341,185,1315000,Apu Nahasapeemapetilon,"BORDER CROSSING, CANADIAN SIDE",I took another sip.
+88341,341,186,1315000,Host,"BORDER CROSSING, CANADIAN SIDE",Today Mounties busted a major American drug smuggling ring. Former U.S. astronaut Homer Simpson was taken into custody.
+88342,341,187,1315000,Homer Simpson,"BORDER CROSSING, CANADIAN SIDE",My butt looks so huge during perp walks.
+88344,341,189,1315000,Canadian Official #1,CANADIAN JAIL,We've confiscated your car and its contents.
+88345,341,190,1315000,Canadian Official #2,CANADIAN JAIL,Nous avons confisqué votre voiture et ses contenus.
+88346,341,191,1315000,Canadian Official #1,CANADIAN JAIL,"You may leave Canada, but never return."
+88347,341,192,1315000,Canadian Official #2,CANADIAN JAIL,"Vous êtes permis de quitter le Canada, mais vous n'avez pas le droit de rentrer."
+88348,341,193,1315000,Canadian Official #1,CANADIAN JAIL,I am a big fat French idiot.
+88349,341,194,1315000,Canadian Official #2,CANADIAN JAIL,Je suis un grand gros... hey!
+88352,341,197,1315000,Grampa Simpson,Springfield Retirement Castle,No more drugs. We let everyone down.
+88353,341,198,1315000,Los Jacquitos Leader,Springfield Retirement Castle,"Your jacket, señor."
+88354,341,199,1315000,Los Jacquitos Leader,Springfield Retirement Castle,Thank God we did not stitch your name over the breast.
+88355,341,200,1315000,Homer Simpson,Springfield Retirement Castle,"Dad, you tried your best. For the first time in my life I can say, without being drunk, that I truly admire you."
+88356,341,201,1315000,Chief Wiggum,Springfield Retirement Castle,No drinking in public!
+88357,341,202,1315000,Chief Wiggum,Springfield Retirement Castle,"Hey, where'd it go? Oh, well."
+88359,341,204,1315000,C. Montgomery Burns,Burns Manor,"Oh, there's nothing like canceling an employee drug plan to make one feel so at peace with the universe."
+88360,341,205,1315000,Waylon Smithers,Burns Manor,"I agree, sir."
+88361,341,206,1315000,C. Montgomery Burns,Burns Manor,Shut up.
+88362,341,207,1315000,C. Montgomery Burns,Burns Manor,"I'm so sick of you, Smithers. Your toadying, your complete agreeability, your gasping on the floor... Wha?!"
+88363,341,208,1315000,C. Montgomery Burns,Burns Manor,"Smithers! If this is some sort of hijink, stop it immediately."
+88364,341,209,1315000,Waylon Smithers,Burns Manor,"Sir, my thyroid is swelling up."
+88365,341,210,1315000,C. Montgomery Burns,Burns Manor,"Confound it, man! I need your throat clear and ready for perjury."
+88366,341,211,1315000,Waylon Smithers,Burns Manor,"When you canceled the drug plan, I couldn't afford my Thyroxin any more. But before I die, there are words I've always longed to say. Sir, I ."
+88368,341,212,1315000,C. Montgomery Burns,Burns Manor,"Fear not, Smithers. I'll move Heaven and Earth to save you! It's still easier than teaching a new assistant my filing system."
+88370,341,214,1315000,Grampa Simpson,Springfield Retirement Castle,I just wish we could make one last big score. But we could never drive past the border patrol.
+88371,341,215,1315000,Homer Simpson,Springfield Retirement Castle,There are other ways to get into Canada...
+88372,341,216,1315000,Homer Simpson,Springfield Retirement Castle,"That's it, a plane!"
+88373,341,217,1315000,Grampa Simpson,Springfield Retirement Castle,Smuggle drugs in a plane? That'll never work!
+88374,341,218,1315000,Homer Simpson,Springfield Retirement Castle,Sure it will. All we need is a pilot!
+88375,341,219,1315000,C. Montgomery Burns,Springfield Retirement Castle,I've got everything you need.
+88376,341,220,1315000,Homer Simpson,Springfield Retirement Castle,Katharine Hepburn?!
+88377,341,221,1315000,C. Montgomery Burns,Springfield Retirement Castle,"No, you fool. 'Tis I, Burns! Now come with me."
+88379,341,223,1315000,C. Montgomery Burns,AIRPORT HANGAR,"At last, my plane shall be used for its original purpose. To subvert the laws of the United States."
+88381,341,225,1315000,JOHNNY,Canadian Warehouse,"Looks like your plane's pretty full, Abe. Don't wanna overload it."
+88382,341,226,1315000,Grampa Simpson,Canadian Warehouse,Typical Canadian wimpiness. That's why you have snowballs and we have the H bomb.
+88383,341,227,1315000,Homer Simpson,Canadian Warehouse,"We really appreciate your help, Johnny. Is there any way we can repay ya?"
+88384,341,228,1315000,JOHNNY,Canadian Warehouse,"Well, I've always wanted to see a man with the I.Q. of a child executed by the state. We don't get that up here."
+88385,341,229,1315000,Homer Simpson,Canadian Warehouse,Really? In America we do it four times a week. You come on down and I'll get us front row seats.
+88386,341,230,1315000,JOHNNY,Canadian Warehouse,I'd like that.
+88389,341,233,1315000,C. Montgomery Burns,PLYWOOD PELICAN,We're losing altitude. Time to dump all unnecessary weight.
+88390,341,234,1315000,Homer Simpson,PLYWOOD PELICAN,Don't dump me out! I can lose weight! Just give me a chance.
+88391,341,235,1315000,Homer Simpson,PLYWOOD PELICAN,"One... two... Eh, I'd rather die."
+88392,341,236,1315000,C. Montgomery Burns,PLYWOOD PELICAN,It's no use. We've got to make an emergency landing.
+88393,341,237,1315000,Homer Simpson,PLYWOOD PELICAN,"Well, at least we're all in this together."
+88394,341,238,1315000,C. Montgomery Burns,PLYWOOD PELICAN,"Now, we have three parachutes."
+88395,341,239,1315000,C. Montgomery Burns,PLYWOOD PELICAN,This one's for me...
+88396,341,240,1315000,C. Montgomery Burns,PLYWOOD PELICAN,And these two are gifts for my nephews. Tally ho!
+88367,341,242,1315000,Grampa Simpson,Plane,"Homer, are you sure you can fly this thing?"
+88398,341,243,1315000,Homer Simpson,Plane,"We'll make it, Dad. On a wing and a prayer."
+88399,341,244,1315000,Homer Simpson,Plane,Dammit.
+88401,341,246,1315000,Chief Wiggum,Springfield Town Square,"All right, you're under arrest."
+88402,341,247,1315000,Grampa Simpson,Springfield Town Square,On what charge?
+88403,341,248,1315000,Chief Wiggum,Springfield Town Square,Making a Police Chief go .
+88404,341,249,1315000,Chief Wiggum,Springfield Town Square,"Get in the car -- and don't touch those guns, I just loaded 'em."
+88405,341,250,1315000,Groundskeeper Willie,Springfield Town Square,You'll have to arrest me too. Abe Simpson brought the Propecia to keep grass on Willie's field.
+88406,341,251,1315000,Comic Book Guy,Springfield Town Square,He cured my lumbago. Thank you.
+88407,341,252,1315000,Nelson Muntz,Springfield Town Square,My diaper rash.
+88408,341,253,1315000,Professor Jonathan Frink,Springfield Town Square,My Glayvinoids are not so hurtful!
+88409,341,254,1315000,Sideshow Mel,Springfield Town Square,"Thanks to his lactose-intolerance pills, I can drink this Krusty-brand milkshake."
+88410,341,255,1315000,Sideshow Mel,Springfield Town Square,Terrible!
+88411,341,256,1315000,Chief Wiggum,Springfield Town Square,"Well Simpson, you have helped a lot of people... So, like it says in the Springfield Police handbook, ""If you can't beat 'em, join 'em."""
+88412,341,257,1315000,Lou,Springfield Town Square,"Uh Chief, you know, I've been checkin' the handbook. A lot of the things you say aren't in there at all."
+88413,341,258,1315000,Chief Wiggum,Springfield Town Square,"Yeah well look a little closer, Lou."
+88416,341,261,1315000,C. Montgomery Burns,Tower Room,Oh I hope I'm not too late.
+88417,341,262,1315000,C. Montgomery Burns,Tower Room,"Take, potion! Hurry!"
+88418,341,263,1315000,C. Montgomery Burns,Tower Room,"Oh, it's not working. Only my sour, curdled breath will quicken him."
+88419,341,264,1315000,Waylon Smithers,Tower Room,"Sir, you saved my life!"
+88420,341,265,1315000,C. Montgomery Burns,Tower Room,"Yes. Smithers, I was a stingy old fool. But from now on, I'll provide drug benefits to all my full-time employees."
+88422,341,267,1315000,Homer Simpson,Simpson Home,"Great news, honey! Burns made me a freelance consultant!"
+88423,341,268,1315000,Homer Simpson,Simpson Home,"Hey, what's this lump?"

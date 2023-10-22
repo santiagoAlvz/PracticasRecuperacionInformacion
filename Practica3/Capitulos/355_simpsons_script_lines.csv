@@ -1,0 +1,215 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+91866,355,1,85000,Public Radio Announcer,Simpson Home,"You're listening to Nationwide Public Radio. It is now two o'clock...time for ""Verbal Tea"" with Amy Levine-Gonzalez."
+91867,355,2,93000,Lisa Simpson,Simpson Home,Oh boy! This is what sunny Sunday afternoons are for!
+91868,355,3,98000,Female Radio Host,Simpson Home,Today we'll discuss a dying form of Peruvian banjo music...
+91870,355,5,98000,Female Radio Host,NPR RADIO STUDIO,...with Dartmouth banjologist Stefan Whitmore.
+91871,355,6,110000,Stefan Whitmore,NPR RADIO STUDIO,"It's just uh, it's not that good."
+91872,355,7,112000,Female Radio Host,NPR RADIO STUDIO,In our second hour...
+91873,355,8,113000,Female Radio Host,NPR RADIO STUDIO,Humorist David Sedaris takes a wry look at overcrowding in America's prisons.
+91874,355,9,119000,Homer Simpson,NPR RADIO STUDIO,"Prison overcrowding, I've got a solution for that. Oh my God! U-S-A! U-S-A!"
+91875,355,10,128000,Female Radio Host,NPR RADIO STUDIO,"But first, we're giving away tickets to the latest film by acclaimed director Mladzieul Klernt."
+91876,355,11,135000,Lisa Simpson,NPR RADIO STUDIO,Her films are so lyrical! The phone lines are gonna be jammed.
+91877,355,12,141000,Female Radio Host,NPR RADIO STUDIO,Winner of the Romanian Film Festival's prestigious Golden Bucket...
+91878,355,13,145000,Female Radio Host,NPR RADIO STUDIO,"Holy crap, someone's actually calling!"
+91879,355,15,154000,Lisa Simpson,TV ROOM,"Hey, I won four free movie tickets! And it starts in half an hour!"
+91880,355,16,158000,Homer Simpson,TV ROOM,"Free movie tickets?! I feel like Roger Ebert, or his kiss-ass new partner!"
+91881,355,17,163000,Marge Simpson,TV ROOM,But we don't have a sitter for Maggie.
+91883,355,19,165000,Homer Simpson,TV ROOM,She'll be fine here under the watchful eye of Grandma Shark Week.
+91885,355,21,172000,Marge Simpson,TV ROOM,A TV shark is not a babysitter!
+91886,355,22,175000,Homer Simpson,TV ROOM,How about this guy?
+91887,355,23,177000,Marge Simpson,TV ROOM,Homer!
+91889,355,25,182000,Ned Flanders,Flanders Home,"Howdy, Homer. You here for a viewin' of my shampooin'?"
+91890,355,26,185000,Homer Simpson,Flanders Home,"Shut up, Flanders, I need a favor. Would you mind watching Maggie for a while? It would only be until later."
+91891,355,27,190000,Ned Flanders,Flanders Home,"Oh, sorry, but I promised to rewind videotapes for the poor."
+91892,355,28,193000,Homer Simpson,Flanders Home,"Come on Flanders, doesn't that ""Bible"" of yours say to ""love thy neighbor""? Why won't you love me?"
+91893,355,29,199000,Ned Flanders,Flanders Home,"All right, neighbor, I'll baby-sit."
+91894,355,30,201000,Homer Simpson,Flanders Home,"Thanks, Ned."
+91895,355,31,203000,Homer Simpson,Flanders Home,You wear a bathing suit in the bathtub?
+91896,355,32,205000,Ned Flanders,Flanders Home,"Yeah, so I can't see my own shrinky dink."
+91897,355,33,208000,Homer Simpson,Flanders Home,Makes sense.
+91900,355,36,222000,Bart Simpson,LIMITED APPEAL THEATER,Instead of video games they have weird free newspapers.
+91901,355,37,229000,Bart Simpson,LIMITED APPEAL THEATER,"Mom, am I a ""butch"" or a ""fem""?"
+91902,355,38,231000,Marge Simpson,LIMITED APPEAL THEATER,"Honey, you can be anything you want to be."
+91903,355,39,235000,Homer Simpson,LIMITED APPEAL THEATER,"This theater sucks. My seat's uncomfortable, the screen's only half a screen, and that guy's eating an apple!"
+91904,355,40,242000,Bohemian-looking Man,LIMITED APPEAL THEATER,Would you care for a segment?
+91905,355,41,244000,Homer Simpson,LIMITED APPEAL THEATER,Yes.
+91906,355,42,267000,Soldier #1,LIMITED APPEAL THEATER,Ah a dee po vdaes pharae.
+91907,355,43,267000,Soldier #2,LIMITED APPEAL THEATER,Pur kutu tu kahm zeelee.
+91908,355,44,267000,Goat,LIMITED APPEAL THEATER,Oon yahm mu a vyaetur sae vaetu yaetah.
+91909,355,45,267000,Marge Simpson,LIMITED APPEAL THEATER,What language is this? Gibby-Gabby?
+91910,355,46,270000,Lisa Simpson,LIMITED APPEAL THEATER,"It's Albanian. But the producers added subtitles to make it ""commercial."""
+91912,355,47,275000,Bart Simpson,LIMITED APPEAL THEATER,"Mom, I don't wanna read -- it's the weekend!"
+91913,355,48,279000,Homer Simpson,LIMITED APPEAL THEATER,I've had enough -- I'm leaving!
+91914,355,49,282000,Homer Simpson,LIMITED APPEAL THEATER,I'm stuck. Why did I eat that apple segment?
+91917,355,52,292000,Ned Flanders,Flanders Home,"Oh-uh-uh... sorry Maggie, that's something to collect, not enjoy. It's one of my Humble figurines."
+91918,355,53,299000,Ned Flanders,Flanders Home,"He scampered out of Parade magazine and into my knick-knack nook, and uh, well his little buddies soon followed."
+91919,355,54,313000,Ned Flanders,Flanders Home,"You like 'em, huh? Come on, I'll show you the other three hundred."
+91920,355,55,318000,Ned Flanders,Flanders Home,How could this have... oh.
+91922,355,57,324000,Lisa Simpson,LIMITED APPEAL THEATER,I feel so much empathy for those villagers. They had to drink their own tears...
+91923,355,58,330000,Bart Simpson,LIMITED APPEAL THEATER,I was so bored I cut the ponytail off the guy sittin' in front of us.
+91924,355,59,333000,Bart Simpson,LIMITED APPEAL THEATER,"Look at me, I'm a grad student. I'm thirty years old and I made six hundred dollars last year."
+91925,355,60,338000,Marge Simpson,LIMITED APPEAL THEATER,"Bart, don't make fun of grad students -- they just made a terrible life choice."
+91927,355,62,342000,Todd Flanders,Flanders Home,"Judas Bear, you're not touching your Last Supper."
+91928,355,63,346000,Rod Flanders,Flanders Home,I can't eat because my conscience is heavy.
+91929,355,64,350000,Ned Flanders,Flanders Home,"Boys, enough of your shenanigans. It's bedtime."
+91930,355,65,353000,Marge Simpson,Flanders Home,"Ned, let me give you a little something for babysitting."
+91931,355,66,356000,Ned Flanders,Flanders Home,"Oh, I can't take money from a neighbor. Although, business at the Leftorium's been pretty slow since that big chain store came to town."
+91933,355,68,365000,Marge Simpson,Flanders Home,"You've got a big house, Ned. If you need extra money, why don't you rent out a room?"
+91934,355,69,371000,Ned Flanders,Flanders Home,"Well, it might be fun to be a landlord. Landfella -- there's only one Lord!"
+91935,355,70,379000,Nelson Muntz,Flanders Home,I need a place to crash while my Mom's dryin' out.
+91936,355,71,382000,Ned Flanders,Flanders Home,"Well, I'd love to help you out, but you do have to be over eighteen."
+91937,355,72,385000,Nelson Muntz,Flanders Home,I am. Check out my I.D.
+91938,355,73,387000,Ned Flanders,Flanders Home,"Wait, this is my license!"
+91939,355,74,389000,Nelson Muntz,Flanders Home,"No it's not, ya hump!"
+91941,355,77,395000,Ned Flanders,Flanders Home,"Well, I do appreciate that you've got a cashier's check... Now, do you have any pets?"
+91943,355,79,404000,Katja,Flanders Home,I am Katja and this is Vicki. We make much study at community college.
+91944,355,80,410000,Vicki,Flanders Home,"We're, like, here about the room? We moved out of our dorm, because it was, like, co-ed? Sometimes we saw the boys in their robes."
+91945,355,81,419000,Ned Flanders,Flanders Home,"You poor thing! I've heard about those robes -- flapping everywhere. Girls, welcome to your very own Ned and Breakfast."
+91946,355,82,427000,Katja,Flanders Home,Silly talk means yes?
+91948,355,84,436000,Ned Flanders,FLANDERS' GUEST ROOM,"Here's your room, ladies. You can catch some Z's while you earn those degrees."
+91949,355,85,442000,Katja,FLANDERS' GUEST ROOM,You rhyme like Snoopy Dog.
+91950,355,86,444000,Ned Flanders,FLANDERS' GUEST ROOM,"Well, thank you."
+91952,355,88,457000,Bart Simpson,Simpson Home,I know what we can ask Jeeves -- why does he suck?
+91953,355,89,461000,Milhouse Van Houten,Simpson Home,"Hey, a banner ad!"
+91954,355,90,463000,Bart Simpson,Simpson Home,Sexy Slumber Party dot com?
+91955,355,91,465000,Milhouse Van Houten,Simpson Home,It's flashing -- we better click it.
+91957,355,93,474000,Vicki,Simpson Home,"Katja, do you think anyone's watching?"
+91958,355,94,478000,Katja,Simpson Home,"If they are, they will see us explore our sexhood without restraint."
+91959,355,95,482000,Bart Simpson,Simpson Home,"Hey, this is one of those dirty websites."
+91960,355,96,485000,Milhouse Van Houten,Simpson Home,Two girls? Who would want that?
+91962,355,98,494000,Katja,Simpson Home,You may inside come!
+91963,355,99,496000,Ned Flanders,Simpson Home,I got phi beta cappuccinos for Ned's pre-meds!
+91964,355,100,499000,Milhouse Van Houten,Simpson Home,Flanders?!
+91965,355,101,501000,Ned Flanders,Simpson Home,That's odd.
+91966,355,102,502000,Ned Flanders,Simpson Home,I coulda sworn I just heard someone shriek my name.
+91967,355,103,505000,Bart Simpson,Simpson Home,You heard nothing!
+91968,355,104,506000,Ned Flanders,Simpson Home,"Oh, that's better."
+91969,355,105,514000,Katja,Simpson Home,Spank me again with little boy's picture.
+91971,355,107,521000,Homer Simpson,Simpson Home,"What are you kids laughing at? And if you say Jimmy Fallon, I'll know you're lying."
+91972,355,108,526000,Homer Simpson,Simpson Home,Scantily-clad co-eds?
+91973,355,109,529000,Homer Simpson,Simpson Home,Why you little... I'll teach you to have a libido!
+91974,355,110,533000,Bart Simpson,Simpson Home,"Dad, look who's in there!"
+91562,355,111,535000,Homer Simpson,Simpson Home,Flanders?
+91975,355,112,539000,Milhouse Van Houten,Simpson Home,He doesn't even know what's going on!
+91976,355,113,542000,Homer Simpson,Simpson Home,Wait'll I tell everyone about this! I'll feel important without drinking! That'll be weird.
+91978,355,115,549000,Homer Simpson,Kwik-E-Mart,What a combination -- hot chicks and stupid Flanders.
+91979,355,116,555000,Apu Nahasapeemapetilon,Kwik-E-Mart,And you say Mr. Flanders remains completely ignorant of their dot-kama sutra?
+91980,355,117,560000,Homer Simpson,Kwik-E-Mart,"Yep, and nobody's tellin' him. Not even his good buddy God."
+91981,355,118,565000,Moe Szyslak,Kwik-E-Mart,"Boy, nothin' is sexier than still photos in a girlie magazine. wha?"
+91982,355,119,571000,Homer Simpson,Kwik-E-Mart,"Sensual, isn't it? And the best part is Stupid Flanders doesn't even know it's happening in his stupid house. Hence my nickname, Stupid Flanders."
+91984,355,121,584000,Homer Simpson,First Church of Springfield,"Hey Moses, are you a loser?"
+91985,355,122,586000,Homer Simpson,First Church of Springfield,"Yes I am, Homer."
+91987,355,124,586000,Sideshow Mel,First Church of Springfield,"How are those two comely boarders of yours, Ned?"
+91988,355,125,595000,Ned Flanders,First Church of Springfield,"Well, Mel, they're swell."
+91989,355,126,597000,Dr. Julius Hibbert,First Church of Springfield,Oh yeah! They're just what my laptop needed!
+91991,355,128,607000,Homer Simpson,Simpson Home,"Son, I need to pee, but I can't stop watching. Fetch me a bottle."
+91992,355,129,611000,Bart Simpson,Simpson Home,"C'mon, Dad. I've seen you hit the toilet from here."
+91993,355,130,613000,Marge Simpson,Simpson Home,What are you two doing?
+91994,355,131,614000,Homer Simpson,Simpson Home,"Uh, we're watching the latest photos from Mars. Ho, great stuff. Worth every billion."
+91995,355,132,622000,Marge Simpson,Simpson Home,Bart! Turn away from that screen and look out the window!
+91996,355,133,626000,Bart Simpson,Simpson Home,No problem-o.
+91997,355,134,630000,Marge Simpson,Simpson Home,It's happening in Ned's house! Why would he allow that?
+91998,355,135,634000,Homer Simpson,Simpson Home,Well that's obvious. He doesn't even know.
+92001,355,138,645000,Marge Simpson,Flanders Home,"C'mon. You tell him right now. Ned, Homer has something to tell you."
+92002,355,139,650000,Homer Simpson,Flanders Home,"Uh, I'm thinking about getting a yogurt franchise. It's called ""Plops"" and..."
+92003,355,140,657000,Marge Simpson,Flanders Home,You know what I mean.
+92004,355,141,659000,Homer Simpson,Flanders Home,"Okay. Flanders, you see..."
+92006,355,143,665000,Ned Flanders,Flanders Home,You soft-core sophomores took advantage of my trustful nature. And sullied the internet by putting pornography on it!
+92007,355,144,672000,Ned Flanders,Flanders Home,Get out!
+92009,355,146,681000,Ned Flanders,Flanders Home,The whole town is laughing at me behind my back. I guess you're the only real friend I have.
+92010,355,147,687000,Moe Szyslak,Flanders Home,Are you kiddin'? Homer's the one what wised us up to the sexy goin's on.
+92011,355,148,691000,Ned Flanders,Flanders Home,"Homer, is this true?"
+92012,355,149,694000,Homer Simpson,Flanders Home,"Ned, I had no choice. It was just so funny!"
+92013,355,150,698000,Ned Flanders,Flanders Home,"The Bible says ""cast your bread upon the waters."" But all I got was a bunch of soggy bread."
+92014,355,151,703000,Homer Simpson,Flanders Home,Mmm... soggy br--
+92015,355,152,705000,Ned Flanders,Flanders Home,"Don't say it, Homer. This is not the time."
+92016,355,153,708000,Homer Simpson,Flanders Home,...ead.
+92017,355,154,716000,Todd Flanders,Flanders Home,"What's wrong, Daddy?"
+92018,355,155,718000,Ned Flanders,Flanders Home,"Well, Toddy, you know how I said our friends are like the Canaanites? Today I realized they're more like the Midianites."
+92020,355,157,725000,Ned Flanders,Flanders Home,I wish we lived in a place more like the America of yesteryear that only exists in the brains of us Republicans.
+92021,355,158,738000,Ned Flanders,Flanders Home,"""Made in Humbleton, PA."" I don't usually make big life decisions based on things stamped on things that I bought at a garage sale. But corndog it boys, it's time for a change!"
+92024,355,161,749000,Lisa Simpson,Simpson Home,"Dad, I don't think you realize what you've done. You've totally humiliated the best friend the Simpsons ever had."
+92025,355,162,756000,Homer Simpson,Simpson Home,You're right. But you know who the real victim is here? Ned.
+92026,355,163,761000,Lisa Simpson,Simpson Home,That's what we've been trying to tell you!
+92027,355,164,763000,Homer Simpson,Simpson Home,Oh yeah.
+92029,355,166,768000,Homer Simpson,Flanders Home,What's this? Goodbye Springfield...
+92030,355,167,772000,Ned Flanders,Flanders Home,The Flanders family has pulled up stakes. You have laughed at us for the last-diddily-ast time.
+92031,355,168,778000,Homer Simpson,Flanders Home,Last-diddily-ast? He's gone! And it's all someone's fault!
+92035,355,170,796000,Marge Simpson,Simpson Home,"Well, Homer, you've driven away the best neighbor a family could ever want. But at least we have a chance to start fresh -- so let's be on our best behavior, okay?"
+92036,355,171,808000,Homer Simpson,Simpson Home,"Don't worry, Marge. I've taken every precaution."
+92037,355,172,813000,Bart Simpson,Simpson Home,This is so humiliating.
+92038,355,173,816000,Lisa Simpson,Simpson Home,"Well, at least your name's on the bowl."
+92041,355,176,824000,Bart Simpson,Simpson Home,I submit! I submit!
+92044,355,179,832000,Homer Simpson,FLANDERS' (FORMER) HOUSE,"Hi, I'm Homer Simpson. I live next door. So, is that your whistle?"
+92045,355,180,840000,Clay,FLANDERS' (FORMER) HOUSE,"Damn straight. Clay Roberts. I coach wrestling, so everyone calls me coach."
+92046,355,181,845000,Homer Simpson,FLANDERS' (FORMER) HOUSE,"Um, listen, uh, neighboreeno, I want to start our relationship off on the right foot, so if you need anything... anything at all..."
+92047,355,182,853000,Clay,FLANDERS' (FORMER) HOUSE,What jag-off left this here?
+92049,355,184,886000,Ned Flanders,Humbleton,"Boys, we're home!"
+92051,355,186,896000,Marge Simpson,Simpson Home,That's coming from next door!
+92052,355,187,899000,Homer Simpson,Simpson Home,"Don't worry, I'll straighten things out with Coach Clay. We're good buddies. We play this game called ""who can punch the softest?"" And he always lets me win!"
+92053,355,188,904000,Homer Simpson,Simpson Home,"Hey Coach, do you mind turning down the music? My baby's trying to take a nap."
+92054,355,189,915000,Clay,Simpson Home,"That's too bad, 'cause my twins are just wakin' up, dude."
+92055,355,190,920000,Clay,Simpson Home,Encourage me!
+92056,355,191,922000,Homer Simpson,Simpson Home,Lookin' good... feel the burn...
+92057,355,192,922000,Clay,Simpson Home,Louder!
+92058,355,193,924000,Homer Simpson,Simpson Home,You're a god!... I can't think of any more!
+92059,355,194,927000,Clay,Simpson Home,"Just say ""Go! Go! Go""!"
+92060,355,195,927000,Homer Simpson,Simpson Home,Go! Go! Go!
+92061,355,196,929000,Clay,Simpson Home,"Say it like you mean it, you wuss!"
+92063,355,198,938000,Humbleton Passersby,Humbleton,"Howdy, Humbletonian."
+92064,355,199,940000,Humbleton Man,Humbleton,Picnics and Pixie Stix!
+92065,355,200,942000,Humbleton Woman,Humbleton,I'll see your smile and raise you a wink and a giggle.
+92066,355,201,948000,Ned Flanders,Humbleton,This town is sweeter than a cake made of pie. Even the dogs curb themselves.
+92034,355,204,958000,Supervisor,Humble Figurine Factory,"Everyone new begins here, in the dimple department."
+92068,355,205,963000,Ned Flanders,Humble Figurine Factory,Can I start yesterday?
+92069,355,206,966000,Supervisor,Humble Figurine Factory,There is one personal matter.
+92070,355,207,967000,Supervisor,Humble Figurine Factory,I'm afraid you'll have to lose the uh... hippie lip.
+92071,355,208,971000,Ned Flanders,Humble Figurine Factory,"Get rid of Dr. Fuzzenstein? Why, I couldn't dream of thinking about considering..."
+92072,355,209,980000,Ned Flanders,Humble Figurine Factory,I'll see what I can do.
+92073,355,210,982000,Supervisor,Humble Figurine Factory,"Very good. Until then, you can wear this."
+92076,355,213,992000,Todd Flanders,FLANDERS' HUMBLETON HOUSE,"Daddy, why do you have to shave your nose neighbor?"
+92077,355,214,995000,Ned Flanders,FLANDERS' HUMBLETON HOUSE,You know what? I'm not gonna. My mustache has the right to life -- it's my body and my choice!
+92078,355,215,1029000,Humbleton Man,FLANDERS' HUMBLETON HOUSE,This is for you.
+92080,355,217,1038000,Announcer,Simpson Home,"Tonight on ""Celebrity Chop Shop,"" we sell the parts off Jason Bateman's Bentley."
+92081,355,218,1045000,Jason Bateman,Simpson Home,What did you do to my car?
+92082,355,219,1047000,Host,Simpson Home,"Dude, you've been Chop Shopped!"
+92083,355,220,1049000,Jason Bateman,Simpson Home,Why would you do that? How'm I gonna get home?
+92084,355,221,1051000,Host,Simpson Home,Chop Shop! Chop Shop!
+92085,355,222,1056000,Homer Simpson,Simpson Home,"Hey, you knocked out my power. How am I supposed to eat without watching TV?"
+92086,355,223,1067000,Clay,Simpson Home,"Yeah, something tells me you won't starve. Huh? Huh Chief? Huh?"
+92087,355,224,1071000,Homer Simpson,Simpson Home,When are you gonna stop poking me? Will it be soon?
+92088,355,225,1074000,Clay,Simpson Home,"Relax, dumbass. Oh, by the way -- I borrowed some gas from your car. You dumbass."
+92089,355,226,1079000,Homer Simpson,Simpson Home,But I siphoned that gas from Flanders! Flanders...
+92090,355,227,1083000,Clay,Simpson Home,Huh? What are you doing? Reminiscing... like a woman?
+92091,355,228,1086000,Homer Simpson,Simpson Home,Like a woman who's made the biggest mistake of her life.
+92094,355,231,1101000,Ned Flanders,FLANDERS' HUMBLETON HOUSE,Homer? What are you doing here?
+92095,355,232,1103000,Homer Simpson,FLANDERS' HUMBLETON HOUSE,"Oh, I was just driving around the mid-Atlantic states, ringin' doorbells at random, and I just... oh, who am I fooling with my awesome lies? I want you to come back to Springfield."
+92096,355,233,1117000,Ned Flanders,FLANDERS' HUMBLETON HOUSE,Why? So you can make me a laughingstock again?
+92098,355,234,1120000,Homer Simpson,FLANDERS' HUMBLETON HOUSE,"No, I wanna make you a respecting stock. I don't know if you've noticed, but I've borrowed a lot of your stuff over the years..."
+92099,355,235,1128000,Ned Flanders,FLANDERS' HUMBLETON HOUSE,"Well, that is true. In fact--"
+92100,355,236,1131000,Homer Simpson,FLANDERS' HUMBLETON HOUSE,"Shut up, Flanders. But some things I could never take from you: your kindness, your gentle spirit..."
+92101,355,237,1137000,Homer Simpson,FLANDERS' HUMBLETON HOUSE,"...and your infinite patience with a big, dumb jerk like me. Oh, Ned, I don't deserve you as a neighbor, but will you forgive a young, handsome fool and come home?"
+92102,355,238,1148000,Ned Flanders,FLANDERS' HUMBLETON HOUSE,"Homer, that's really touching. But my boys and I are trying to make a new start, and the people here are a little more my cup of..."
+92103,355,239,1156000,Humbleton Man,FLANDERS' HUMBLETON HOUSE,Are there letters to pick up? Or no letters to pick up?
+92104,355,240,1159000,Humbleton Woman,FLANDERS' HUMBLETON HOUSE,I can't tell and I'm looking right at it!
+92105,355,241,1162000,Ned Flanders,FLANDERS' HUMBLETON HOUSE,"That tears it! Boys, put on your goody two-shoes. We're moving back to Springfield!"
+92106,355,242,1169000,Rod Flanders,FLANDERS' HUMBLETON HOUSE,But I have a girlfriend!
+92107,355,243,1170000,Ned Flanders,FLANDERS' HUMBLETON HOUSE,Now you've got a pen pal.
+92108,355,244,1172000,Rod Flanders,FLANDERS' HUMBLETON HOUSE,Yay!
+92110,355,246,1173000,Ned Flanders,FLANDERS' SPRINGFIELD HOUSE,"So you see Mr. Roberts, I really would like my house back."
+92111,355,247,1176000,Clay,FLANDERS' SPRINGFIELD HOUSE,"Really? Well that's too bad, 'cause I'm not leaving. See, I like this place, and I've already got Fatso here broken in. Ain't that right, Fatso?"
+92112,355,248,1186000,Homer Simpson,FLANDERS' SPRINGFIELD HOUSE,I am a little pudgy. You got me. Yeah.
+92113,355,249,1190000,Ned Flanders,FLANDERS' SPRINGFIELD HOUSE,"Now coach, I've tried to be Christian and respectful, but I guess I'm just gonna have to point out your two hundred thousand dollar check bounced. Legally, I still own this house."
+92114,355,250,1200000,Clay,FLANDERS' SPRINGFIELD HOUSE,"Oh yeah, tell it to the Marines!"
+92115,355,251,1205000,Clay,FLANDERS' SPRINGFIELD HOUSE,"Okay, I give!"
+92116,355,252,1209000,Clay,FLANDERS' SPRINGFIELD HOUSE,Why'd you do that? I was beggin' for mercy.
+92117,355,253,1212000,Homer Simpson,FLANDERS' SPRINGFIELD HOUSE,I saw my advantage and I took it. That's what heroes do.
+92119,355,255,1217000,Homer Simpson,Flanders Home,"Okay, Ned. Get ready for your welcome home surprise."
+92120,355,256,1222000,Ned Flanders,Flanders Home,Homer!
+92121,355,257,1224000,Ned Flanders,Flanders Home,Did you steal the organ from the church?!
+92122,355,258,1226000,Homer Simpson,Flanders Home,Maybe. We don't know that for sure.
+92123,355,259,1228000,Ned Flanders,Flanders Home,"Well, you've gotta take it back!"
+92097,355,260,1230000,Homer Simpson,Flanders Home,After the party.
+92124,355,261,1234000,Ned Flanders,Flanders Home,It sure is great to look down my nose at everybody again. Mind if I waggle my finger a little bit?
+92125,355,262,1239000,Homer Simpson,Flanders Home,Go nuts.
+92126,355,263,1240000,Homer Simpson,Flanders Home,"Flanders. Okay, that's it. Really irritating!"

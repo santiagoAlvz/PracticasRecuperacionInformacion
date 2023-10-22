@@ -1,0 +1,334 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+148763,1,2,8000,Marge Simpson,Car,"Ooo, careful, Homer."
+148764,1,3,10000,Homer Simpson,Car,There's no time to be careful.
+148765,1,4,10000,Homer Simpson,Car,We're late.
+148768,1,7,24000,Marge Simpson,Auditorium,"Sorry, Excuse us. Pardon me..."
+148769,1,8,26000,Homer Simpson,Auditorium,"Hey, Norman. How's it going? So you got dragged down here, too... heh, heh. How ya doing, Fred? Excuse me, Fred."
+148770,1,9,34000,Homer Simpson,Auditorium,Pardon my galoshes.
+148771,1,10,44000,Seymour Skinner,Auditorium,"Wasn't that wonderful? And now, ""Santas of Many Lands,"" as presented by the entire second grade class."
+148772,1,11,55000,Marge Simpson,Auditorium,Oh... Lisa's class.
+148773,1,12,57000,JANEY,Auditorium,"Frohlich weihnachten -- that's German for Merry Christmas. In Germany, Santa's servant Ruprecht gives presents to good children and whipping rods to the parents of bad ones."
+148774,1,13,75000,Todd Flanders,Auditorium,"Meri Kurimasu. I am Hotseiosha, a Japanese priest who acts like Santa Claus. I have eyes in the back of my head so children better behave when I'm nearby."
+148775,1,14,91000,Dewey Largo,Auditorium,"And now, presenting Lisa Simpson, as Tawanga, the Santa Claus of the South Seas."
+148776,1,15,98000,Homer Simpson,Auditorium,"Oh, it's Lisa. That's ours."
+148777,1,16,114000,Seymour Skinner,Auditorium,"The fourth grade will now favor us with a melody, medley of holiday flavorites."
+148778,1,17,122000,Children,Auditorium,DASHING THROUGH THE SNOW / IN A ONE-HORSE OPEN SLEIGH / O'ER THE FIELDS WE GO / LAUGHING ALL THE WAY... HA HA HA... BELLS ON BOB-TAIL RING / MAKING SPIRITS BRIGHT / WHAT FUN IT IS TO RIDE AND SING THIS SLEIGHING SONG TONIGHT!
+148779,1,18,134000,Marge Simpson,Auditorium,"Isn't Bart sweet, Homer? He sings like a little angel."
+148780,1,19,141000,Bart Simpson,Auditorium,"""JINGLE BELLS, BATMAN SMELLS, ROBIN LAID AN EGG / THE BATMOBILE BROKE ITS WHEEL, THE JOKER GOT AWAY."""
+148781,1,20,155000,Seymour Skinner,Auditorium,"The fifth grade will now favor us with a scene from Charles Dickens' ""A Christmas Carol""."
+148782,1,21,162000,Homer Simpson,Auditorium,How many grades does this school have?
+148789,1,23,167000,Marge Simpson,Simpson Home,"""Dear friends of the Simpson family: We had some sadness and some gladness this year. First the sadness. Our little cat, Snowball, was unexpectedly run over and went to kitty heaven. But we bought a new little cat, Snowball II...so I guess life goes on. Speaking of life going on, Grampa is still with us, feisty as ever. Maggie is walking by herself. Lisa got straight A's, and Bart, well... we love Bart. The magic of the season has touched us all..."""
+148790,1,24,201000,Homer Simpson,Simpson Home,"Marge, haven't you finished that stupid letter yet?"
+148791,1,25,203000,Marge Simpson,Simpson Home,...Homer sends his love. Happy Holidays.
+148792,1,26,205000,Homer Simpson,Simpson Home,Marge!
+148793,1,27,207000,Marge Simpson,Simpson Home,The Simpsons.
+148794,1,28,207000,Homer Simpson,Simpson Home,"Marge, where's the extension cord?"
+148795,1,29,209000,Marge Simpson,Simpson Home,"Oh, for heavens sakes, Homer. It's in the utility drawer."
+148796,1,30,212000,Homer Simpson,Simpson Home,Sorry. I'm just a big kid and I love Christmas so much.
+148797,1,31,218000,Homer Simpson,Simpson Home,...Every year.
+148798,1,32,221000,Marge Simpson,Simpson Home,"All right, children. Let me have those letters. I'll send them to Santa's workshop at the North Pole."
+148799,1,33,226000,Bart Simpson,Simpson Home,"Oh, please. There's only one fat guy that brings us presents and his name ain't Santa."
+148800,1,34,230000,Marge Simpson,Simpson Home,"A pony? Oh, Lisa. You've asked for that for the last three years and I keep telling you Santa can't fit a pony into his sleigh. Can't you take a hint?"
+148801,1,35,243000,Lisa Simpson,Simpson Home,"But I really want a pony and I've been really, really good this year."
+148802,1,36,247000,Marge Simpson,Simpson Home,"Oh, dear. Maybe Bart is a little more realistic."
+148803,1,37,251000,Marge Simpson,Simpson Home,A tattoo!
+148804,1,38,252000,Homer Simpson,Simpson Home,A what!
+148805,1,39,252000,Bart Simpson,Simpson Home,"Yeah, they're cool and they last the rest of the your life."
+148806,1,40,255000,Marge Simpson,Simpson Home,You will not be getting a tattoo for Christmas.
+148807,1,41,258000,Homer Simpson,Simpson Home,"Yeah. If you want one, you'll have to pay for it out of your own allowance."
+148808,1,42,261000,Bart Simpson,Simpson Home,All right!
+148809,1,43,261000,Marge Simpson,Simpson Home,Homer!
+148810,1,44,264000,Homer Simpson,Simpson Home,Y'ello.
+148811,1,45,265000,Patty Bouvier,Simpson Home,"Marge, please."
+148812,1,46,266000,Homer Simpson,Simpson Home,Who's this?
+148813,1,47,267000,Patty Bouvier,Simpson Home,May I please speak to Marge?
+148814,1,48,269000,Homer Simpson,Simpson Home,"This is her sister, isn't it?"
+148815,1,49,271000,Patty Bouvier,Simpson Home,Is Marge there?
+148784,1,50,272000,Homer Simpson,Simpson Home,Who shall I say is calling?
+148785,1,51,274000,Patty Bouvier,Simpson Home,"Marge, please."
+148786,1,52,275000,Homer Simpson,Simpson Home,It's your sister.
+148787,1,53,278000,Marge Simpson,Simpson Home,Hello.
+148817,1,54,279000,Patty Bouvier,Simpson Home,"Hello, Marge. It's Patty. Selma and I couldn't be more excited about seeing our baby sister for Christmas eve."
+148818,1,55,287000,Marge Simpson,Simpson Home,"Well, Homer and I are looking forward to your visit, too."
+148819,1,56,290000,Patty Bouvier,Simpson Home,"Somehow I doubt that Homer's excited. Of all the men you could have married, I don't know why you picked the one who's always so rude to us."
+148821,1,58,300000,Bart Simpson,Simpson Home,"Good one, Dad."
+148822,1,59,302000,Homer Simpson,Simpson Home,"Okay, kids. Prepare to be dazzled. Marge! Turn on the juice!"
+148823,1,60,311000,Homer Simpson,Simpson Home,"What do you think, kids?"
+148824,1,61,311000,Lisa Simpson,Simpson Home,"Nice try, Dad."
+148826,1,63,315000,Ned Flanders,Simpson Home,"Just hold your horses, son. Hey, hey, Simpson."
+148827,1,64,316000,Homer Simpson,Simpson Home,"What is it, Flanders?"
+148828,1,65,318000,Ned Flanders,Simpson Home,Do you think this looks okay?
+148829,1,66,320000,Mechanical Santa,Simpson Home,Ho ho ho. Ho ho ho. Ho ho ho. Ho ho ho.
+148830,1,67,324000,Lisa Simpson,Simpson Home,Ooh.
+148831,1,68,324000,Bart Simpson,Simpson Home,Oh. Neat-o.
+148832,1,69,326000,Homer Simpson,Simpson Home,"It's too bright. That Flanders, what a big show-off."
+148834,1,71,334000,Marge Simpson,KITCHEN,"Kids, you want to go Christmas shopping?"
+148835,1,72,335000,Lisa Simpson,KITCHEN,I do!
+148836,1,73,335000,Bart Simpson,KITCHEN,"All right, the mall!"
+148837,1,74,338000,Marge Simpson,KITCHEN,Go get your money.
+148838,1,75,339000,Homer Simpson,KITCHEN,"Spill it, Marge. Where have you been hiding the Christmas money?"
+148839,1,76,342000,Marge Simpson,KITCHEN,"Oh, I have my secrets. Turn around."
+148840,1,77,350000,Marge Simpson,KITCHEN,You can look now.
+148841,1,78,351000,Homer Simpson,KITCHEN,Oh! Big jar this year.
+148844,1,81,373000,Marge Simpson,Springfield Mall,"Oh, Bart, that's so sweet. It's the best present a mother could get and it makes you look so dangerous."
+148846,1,83,383000,Bart Simpson,The Happy Sailor Tattoo Parlor,"One ""mother"", please."
+148847,1,84,385000,Tattoo Man,The Happy Sailor Tattoo Parlor,Wait a minute. How old are you?
+148848,1,85,387000,Bart Simpson,The Happy Sailor Tattoo Parlor,"Twenty-one, sir."
+148849,1,86,388000,Tattoo Man,The Happy Sailor Tattoo Parlor,Get in the chair.
+148851,1,88,395000,Homer Simpson,Springfield Nuclear Power Plant,Mm-hmm... Mmm-hmm... Mmm-hmm...
+148852,1,89,400000,Homer Simpson,Springfield Nuclear Power Plant,Mmm-hmm. Mmm-hmm.
+148853,1,90,403000,Waylon Smithers,Springfield Nuclear Power Plant,Attention all personnel! Please keep working during the following announcement.
+148854,1,91,405000,Waylon Smithers,Springfield Nuclear Power Plant,"And now, our boss and friend, Mr. Burns."
+148855,1,92,412000,C. Montgomery Burns,Springfield Nuclear Power Plant,Hello. I'm proud to announce that we have been able to increase safety...
+148856,1,93,412000,C. Montgomery Burns,Springfield Nuclear Power Plant,"... here at the plant without increasing the cost to the consumer, or affecting management pay raises. However, for you semi-skilled workers, there will be no Christmas bonuses."
+148858,1,95,429000,C. Montgomery Burns,PLANT,One more thing: Merry Christmas.
+148859,1,96,433000,Homer Simpson,PLANT,"Oh, thank God for the big jar."
+148861,1,98,439000,Marge Simpson,Springfield Mall,Where's that Bart?
+148864,1,101,447000,Bart Simpson,The Happy Sailor Tattoo Parlor,"But, Mom, I thought you'd like it."
+148866,1,103,453000,DOCTOR ZITSOFSKY,DERMATOLOGY CLINIC,"Yes, Mrs. Simpson, we can remove your son's tattoo. It's a simple routine involving lasers."
+148867,1,104,458000,Bart Simpson,DERMATOLOGY CLINIC,Cool!
+148868,1,105,458000,DOCTOR ZITSOFSKY,DERMATOLOGY CLINIC,"However, it is rather expensive and we must insist on a cash payment up front."
+148869,1,106,464000,Marge Simpson,DERMATOLOGY CLINIC,Cash?
+148870,1,107,465000,DOCTOR ZITSOFSKY,DERMATOLOGY CLINIC,Ah-hmmm.
+148871,1,108,465000,Marge Simpson,DERMATOLOGY CLINIC,Thank God for Homer's Christmas bonus.
+148873,1,110,469000,Bart Simpson,Laboratory,Ay carumba!
+148874,1,111,471000,DOCTOR ZITSOFSKY,Laboratory,"Now, whatever you do, boy, don't squirm. You don't want to get this sucker near your eye or groin."
+148876,1,113,482000,Bart Simpson,Simpson Home,Ow! Quit it.
+148877,1,114,484000,Bart Simpson,Simpson Home,Ow! Quit it!
+148878,1,115,486000,Bart Simpson,Simpson Home,Ow! Quit it!
+148879,1,116,488000,Bart Simpson,Simpson Home,Ow! Quit it!
+148880,1,117,490000,Homer Simpson,Simpson Home,Hey! What's with this?
+148881,1,118,491000,Bart Simpson,Simpson Home,Ow! Quit it. It used to be a real boss tattoo.
+148882,1,119,494000,Lisa Simpson,Simpson Home,But Mom had to spend all the Christmas money having it surgically removed.
+148883,1,120,504000,Homer Simpson,Simpson Home,"It's true. The jar's empty. Oh, my God, we're ruined. Christmas is cancelled. No presents for anyone."
+148884,1,121,513000,Marge Simpson,Simpson Home,"Don't worry, Homer. We'll just have to stretch your Christmas bonus even further this year."
+148816,1,123,519000,Marge Simpson,Simpson Home,Homer?
+148887,1,124,519000,Homer Simpson,Simpson Home,"Oh, yeah my Christmas bonus. How silly of me. This'll be the best Christmas yet. The best any family ever had. Heh-heh."
+148888,1,125,537000,Mechanical Santa,Simpson Home,Ho ho ho. Ho ho ho. Ho ho ho. Ho ho ho.
+148889,1,126,554000,Marge Simpson,Simpson Home,"I get the feeling there's something you haven't told me, Homer."
+148890,1,127,558000,Homer Simpson,Simpson Home,"Oh. I love you, Marge."
+148891,1,128,560000,Marge Simpson,Simpson Home,"Homer, you tell me that all the time."
+148892,1,129,561000,Homer Simpson,Simpson Home,"Oh, good. Because I do love you and I don't deserve you as much as a guy with a fat wallet and a credit card that won't set off that horrible beeping."
+148893,1,130,570000,Marge Simpson,Simpson Home,"But I think it does have something to do with your Christmas bonus. I keep asking for it, but..."
+148894,1,131,575000,Homer Simpson,Simpson Home,"Marge, well, let me be honest with you."
+148895,1,132,579000,Marge Simpson,Simpson Home,Yes...
+148896,1,133,580000,Homer Simpson,Simpson Home,Well... I want to do the Christmas shopping this year.
+148897,1,134,589000,Marge Simpson,Simpson Home,"Well, sure, okay..."
+148900,1,137,596000,Homer Simpson,Circus of Values,"Marge, Marge, Marge. Let's see. Oooh, look! Pantyhose. Practical and alluring. A six-pack... Oh! Only four ninety nine."
+148901,1,138,608000,Homer Simpson,Circus of Values,"Oooh... pads of paper. I bet Bart can think of a million things to do with these. That just leaves little Maggie. Oh, look, a little squeak-toy. . It says it's for dogs, but she can't read..."
+148902,1,139,624000,Ned Flanders,Circus of Values,"Ow. Oh, Simpson, it's you."
+148903,1,140,626000,Homer Simpson,Circus of Values,"Hello, Flanders."
+148904,1,141,628000,Ned Flanders,Circus of Values,"Oh, my, what a little mess we've got here! Well, which ones are yours and which ones are mine?"
+148905,1,142,633000,Homer Simpson,Circus of Values,"Well, let's see."
+148906,1,143,634000,Ned Flanders,Circus of Values,This one's mine. And this one's mine. This one's mine... and this--
+148907,1,144,637000,Homer Simpson,Circus of Values,They're all yours.
+148908,1,145,638000,Todd Flanders,Circus of Values,"Hey, Mr. Simpson. You dropped your pork chop."
+148909,1,146,642000,Homer Simpson,Circus of Values,Gimme that!
+148910,1,147,643000,Ned Flanders,Circus of Values,"Well, happy holidays, Simpson."
+148911,1,148,645000,Todd Flanders,Circus of Values,"Gee, Dad, this is gonna be the best Christmas ever."
+148912,1,149,649000,Ned Flanders,Circus of Values,You bet.
+148916,1,151,658000,Moe Szyslak,Moe's Tavern,"What's the matter, Homer? Somebody leave a lumpa coal in your stocking? You've been sitting there sucking on a beer all day long."
+148917,1,152,667000,Homer Simpson,Moe's Tavern,So?
+148918,1,153,668000,Moe Szyslak,Moe's Tavern,So it's Christmas!
+148919,1,154,670000,Homer Simpson,Moe's Tavern,"Thanks, Moe."
+148920,1,155,672000,Barney Gumble,Moe's Tavern,Drinks all around!
+148921,1,156,673000,Homer Simpson,Moe's Tavern,"What's with the crazy getup, Barn?"
+148922,1,157,676000,Barney Gumble,Moe's Tavern,I got me a part-time job working as a Santa down at the mall.
+148923,1,158,681000,Homer Simpson,Moe's Tavern,Wow. Can I do that?
+148924,1,159,682000,Barney Gumble,Moe's Tavern,I don't know. They're pretty selective.
+148926,1,161,686000,Interviewer,Springfield Mall,Do you like children?
+148927,1,162,687000,Homer Simpson,Springfield Mall,What do you mean? All the time? Even when they're nuts?
+148928,1,163,692000,Homer Simpson,Springfield Mall,"Oh, I certainly do."
+148929,1,164,695000,Interviewer,Springfield Mall,"Welcome aboard Simpson... pending your successful completion of our training program, that is."
+148931,1,166,699000,Students,Santa School,Ho ho ho. Ho ho ho. Ho ho ho. Ho ho ho.
+148932,1,167,706000,Teacher,Santa School,"What is it now, Simpson?"
+148933,1,168,707000,Homer Simpson,Santa School,"Huh, when do we get paid?"
+148934,1,169,709000,Teacher,Santa School,"Not a dime till Christmas Eve. Now, from the top."
+148935,1,170,712000,Students,Santa School,Ho ho ho. Ho ho ho.
+148936,1,171,717000,Homer Simpson,Santa School,"Dasher, Dancer..."
+148937,1,172,721000,Teacher,Santa School,Um-hmm.
+148938,1,173,722000,Homer Simpson,Santa School,Prancer...
+148939,1,174,723000,Teacher,Santa School,Um-hmm.
+148940,1,175,725000,Homer Simpson,Santa School,"Nixon, Comet, Cupid... Donna Dixon."
+148941,1,176,730000,Teacher,Santa School,"Sit down, Simpson."
+148942,1,177,732000,Homer Simpson,Santa School,"And what would you like, little boy?"
+148943,1,178,734000,Teacher,Santa School,"You're not really Santa, tubby."
+148944,1,179,736000,Homer Simpson,Santa School,Why you little eggheaded...!
+148945,1,180,736000,Teacher,Santa School,"No, no, Homer. If such an emergency arises, just tell them Santa's very busy this time of year and you're one of his helpers."
+148946,1,181,744000,Homer Simpson,Santa School,"Oh, I knew that one, too."
+148948,1,183,748000,Marge Simpson,Simpson Home,Homer! Why are you seven hours late?
+148949,1,184,751000,Homer Simpson,Simpson Home,"Not a word, Marge. I'm heading straight for the tub."
+148950,1,185,754000,Marge Simpson,Simpson Home,"But Homer, my sisters are here. Don't you want to say hello?"
+148914,1,187,759000,Bart Simpson,Simpson Home,"Oh, Dad, you're finally home."
+148915,1,188,760000,Lisa Simpson,Simpson Home,Daddy! We're so glad to see you!
+148788,1,189,763000,Homer Simpson,Simpson Home,"What? Why? Oh, yeah. Hello Patty, hello Selma. How was your trip?"
+148953,1,190,771000,Selma Bouvier,Simpson Home,Fine.
+148954,1,191,772000,Homer Simpson,Simpson Home,You both look well.
+148955,1,192,773000,Patty Bouvier,Simpson Home,Thank you.
+148956,1,193,775000,Homer Simpson,Simpson Home,"Yeah, well, Merry Christmas."
+148957,1,194,776000,Selma Bouvier,Simpson Home,"Oh, it's Christmas? You wouldn't know it around here."
+148958,1,195,779000,Homer Simpson,Simpson Home,And why is that?
+148959,1,196,781000,Patty Bouvier,Simpson Home,"Well, for one thing, there's no tree."
+148960,1,197,782000,Homer Simpson,Simpson Home,"Well, I was just on my way out to get one."
+148961,1,198,785000,Lisa Simpson,Simpson Home,"Can we go too, Dad?"
+148962,1,199,785000,Bart Simpson,Simpson Home,Can we?
+148963,1,200,786000,Homer Simpson,Simpson Home,No!
+148965,1,202,788000,Voice,Street,"Hey, you. What do you think you're doing?"
+148966,1,203,814000,Homer Simpson,Street,Uh-oh.
+148967,1,204,814000,Voice,Street,"Hey, hey! Come back here."
+148969,1,206,820000,Homer Simpson,Simpson Home,"So, what do you think kids? Beauty, isn't it?"
+148970,1,207,824000,Bart Simpson,Simpson Home,"Yeah, Homer."
+148971,1,208,824000,Lisa Simpson,Simpson Home,"Way to go, Dad."
+148972,1,209,826000,Selma Bouvier,Simpson Home,Why is there a birdhouse in it?
+148973,1,210,828000,Homer Simpson,Simpson Home,That's an ornament.
+148974,1,211,830000,Patty Bouvier,Simpson Home,Do I smell gunpowder?
+148976,1,213,833000,Little Boy,Springfield Mall,"And then I want some Robotoids... and then I want a Goop Monster... and then I want a great big, giant..."
+148977,1,214,839000,Homer Simpson,Springfield Mall,"Ah, son, you don't need all that junk. I'm sure you've already got something much more important, a decent home and a loving father who would do anything for you. Hey, I couldn't afford lunch. Gimme a bite of that donut."
+148978,1,215,855000,Milhouse Van Houten,Springfield Mall,Get a load of that quote unquote Santa.
+148979,1,216,857000,Lewis Clark,Springfield Mall,I can't believe those kids are fallin' for it.
+148980,1,217,860000,Bart Simpson,Springfield Mall,"Hey, Milhouse. I dare you to sit on his lap."
+148981,1,218,862000,Milhouse Van Houten,Springfield Mall,"Oh, yeah? Well, I dare you to yank his beard off."
+148982,1,219,865000,Bart Simpson,Springfield Mall,"Ah, touché!"
+148983,1,220,866000,Little Girl,Springfield Mall,"I hope you feel better, Santa."
+148984,1,221,869000,Homer Simpson,Springfield Mall,"I will when Mrs. Claus's sisters get out of town. Thanks for listening, kid."
+148985,1,222,874000,Bart Simpson,Springfield Mall,"Hey Santa, what's shaking?"
+148986,1,223,877000,Homer Simpson,Springfield Mall,"What's your name, Bart... ner? -- Er -- Little partner?"
+148987,1,224,881000,Bart Simpson,Springfield Mall,I'm Bart Simpson. Who the hell are you?
+148989,1,225,883000,Homer Simpson,Springfield Mall,I'm Jolly Old Saint Nick.
+148990,1,226,884000,Bart Simpson,Springfield Mall,"Oh, yeah? We'll just see about that."
+148991,1,227,889000,Bart Simpson,Springfield Mall,Homer!
+148992,1,228,891000,Homer Simpson,Springfield Mall,"I want a word with you in Santa's Workshop, little boy. Cover for me, Elfie."
+148994,1,230,895000,Bart Simpson,Santa's Workshop,"Don't kill me, Dad. I didn't know it was you."
+148995,1,231,897000,Homer Simpson,Santa's Workshop,"Nobody knows. It's a secret. I didn't get my bonus this year, but to keep the family from missing out on Christmas, I'd do anything."
+148996,1,232,904000,Bart Simpson,Santa's Workshop,"I'll say, Dad. You must really love us to sink so low."
+148997,1,233,910000,Homer Simpson,Santa's Workshop,"Now let's not get mushy, son. I still have a job to do."
+148999,1,235,914000,Homer Simpson,WORKSHOP,"Hey, little ones, Santa's back. Ho! Ho!"
+149000,1,236,918000,Homer Simpson,WORKSHOP,Arrgh! -- Damn it to...
+149002,1,238,918000,Homer Simpson,PERSONNEL OFFICE,"Ah, son. One day you're gonna know the satisfaction of payday. Receiving a big fat check for a job well done."
+149003,1,239,928000,Clerk,PERSONNEL OFFICE,"Simpson, Homer? Here you go."
+149004,1,240,930000,Homer Simpson,PERSONNEL OFFICE,"Come on, son. Let's go cash this baby and get presents for -- Thirteen bucks? Hey, wait a minute!"
+149005,1,241,936000,Clerk,PERSONNEL OFFICE,"That's right. One hundred and twenty dollars gross, less social security --"
+149006,1,242,940000,Homer Simpson,PERSONNEL OFFICE,Yeah.
+149007,1,243,940000,Clerk,PERSONNEL OFFICE,Less unemployment insurance --
+149008,1,244,940000,Homer Simpson,PERSONNEL OFFICE,But...
+149009,1,245,940000,Clerk,PERSONNEL OFFICE,Less Santa training --
+149010,1,246,940000,Homer Simpson,PERSONNEL OFFICE,Santa?
+149011,1,247,940000,Clerk,PERSONNEL OFFICE,Less costume purchase --
+149012,1,248,940000,Homer Simpson,PERSONNEL OFFICE,Wait a minute...
+149013,1,249,940000,Clerk,PERSONNEL OFFICE,"Less beard rental, less Christmas club."
+149014,1,250,947000,Homer Simpson,PERSONNEL OFFICE,But... but...
+149015,1,251,947000,Clerk,PERSONNEL OFFICE,See you next year.
+149016,1,252,949000,Bart Simpson,PERSONNEL OFFICE,"Come on, Dad. Let's go home."
+149017,1,253,952000,Homer Simpson,PERSONNEL OFFICE,Thirteen bucks. We can't get anything for thirteen bucks.
+149018,1,254,956000,Barney Gumble,PERSONNEL OFFICE,"All right! Thirteen big ones. Springfield Downs, here I come."
+149019,1,255,961000,Homer Simpson,PERSONNEL OFFICE,What?
+149020,1,256,961000,Barney Gumble,PERSONNEL OFFICE,You heard me. I'm going to the dog track. I got a hot little puppy in the fourth race. Wanna come?
+149022,1,257,967000,Homer Simpson,PERSONNEL OFFICE,"Sorry, Barney. I may be a total washout as a father, but I'm not gonna take my kid to some sleazy dog track on Christmas eve."
+149023,1,258,975000,Barney Gumble,PERSONNEL OFFICE,"Come on, Simpson. The dog's name is Whirlwind, ten to one shot. Money in the bank."
+149024,1,259,980000,Homer Simpson,PERSONNEL OFFICE,Uh-uh.
+149025,1,260,982000,Bart Simpson,PERSONNEL OFFICE,"Ah, come on Dad, this can be the miracle that saves the Simpsons' Christmas. If TV has taught me anything, it's that miracles always happen to poor kids at Christmas. It happened to Tiny Tim, it happened to Charlie Brown, it happened to the Smurfs, and it's gonna happen to us."
+149026,1,261,999000,Homer Simpson,PERSONNEL OFFICE,"Well, okay. Let's go."
+149027,1,262,1001000,Homer Simpson,PERSONNEL OFFICE,Who's Tiny Tim?
+149029,1,264,1006000,Bubbles,Simpson Home,"Hey, Moldy, do you think Santa will be able to find Elf County under all this snow?"
+149030,1,265,1010000,Moldy,Simpson Home,"I doubt it, Bubbles. We'll be sad little elves this Christmas."
+149031,1,266,1015000,Lisa Simpson,Simpson Home,"Oh, no!"
+149032,1,267,1016000,Grampa Simpson,Simpson Home,"Oh, brother!"
+149033,1,268,1017000,Selma Bouvier,Simpson Home,Where's your husband?
+149034,1,269,1018000,Patty Bouvier,Simpson Home,Yeah.
+149035,1,270,1018000,Selma Bouvier,Simpson Home,It's getting late.
+149036,1,271,1019000,Marge Simpson,Simpson Home,He said he went caroling with Bart.
+149038,1,273,1022000,Barney Gumble,Springfield Downs Dog Track,WE'RE IN THE MONEY / WE'RE IN THE MONEY / WE GOT A LOT OF WHAT IT TAKES TO GET ALONG.
+149039,1,274,1029000,Homer Simpson,Springfield Downs Dog Track,I can't believe I'm doing this.
+149041,1,276,1031000,Little Boy,SPRINGFIELD DOWNS,"Can we open our presents now, Dad?"
+149042,1,277,1034000,Father,SPRINGFIELD DOWNS,"You know the tradition, son. Not till the eighth race."
+149044,1,279,1037000,Homer Simpson,PADDOCK,"Hey, Barney, which one is Whirlwind?"
+149045,1,280,1039000,Barney Gumble,PADDOCK,"Number six. That's our lucky dog, right over there. He's won his last five races."
+149046,1,281,1046000,Homer Simpson,PADDOCK,What! That scrawny little bag of bones?
+149047,1,282,1049000,Bart Simpson,PADDOCK,"Come on, Dad. They're all scrawny little bags of bones."
+149048,1,283,1052000,Homer Simpson,PADDOCK,"Yeah, you're right. I guess Whirlwind is our only hope for a Merry Christmas."
+149049,1,284,1057000,Announcer,PADDOCK,"Attention racing fans. We have a late scratch in the fourth race. Number eight, Sir Galahad, will be replaced by Santa's Little Helper. Once again, Sir Galahad has been replaced by Santa's Little Helper."
+149021,1,285,1069000,Homer Simpson,PADDOCK,"Bart, did you hear that? What a name -- ""Santa's Little Helper"". It's a sign! It's an omen!"
+149051,1,286,1075000,Bart Simpson,PADDOCK,"It's a coincidence, Dad."
+149053,1,288,1077000,Homer Simpson,SPRINGFIELD DOWN,What are the odds on Santa's Little Helper?
+149054,1,289,1079000,Ticket Seller,SPRINGFIELD DOWN,Ninety nine to one.
+149055,1,290,1080000,Homer Simpson,SPRINGFIELD DOWN,Whoa! Ninety-nine times thirteen equals MER-RY CHRISTMAS!
+149056,1,291,1086000,Bart Simpson,SPRINGFIELD DOWN,I got a bad feeling about this.
+149057,1,292,1088000,Homer Simpson,SPRINGFIELD DOWN,"Don't you believe in me, son?"
+149058,1,293,1089000,Bart Simpson,SPRINGFIELD DOWN,Uh...
+149059,1,294,1089000,Homer Simpson,SPRINGFIELD DOWN,"Come on, boy. Sometimes your faith is all that keeps me going."
+149060,1,295,1095000,Bart Simpson,SPRINGFIELD DOWN,"Oh, go for it, Dad."
+149061,1,296,1098000,Homer Simpson,SPRINGFIELD DOWN,That's my boy. Everything on Santa's Little Helper.
+149063,1,298,1102000,Elf #1,Simpson Home,Three cheers for Brainy.
+149064,1,299,1104000,Elves,Simpson Home,"Hip hip hooray, hip hip hooray, hip hip hooray!"
+149065,1,300,1106000,Lisa Simpson,Simpson Home,Yay!
+149066,1,301,1107000,Grampa Simpson,Simpson Home,Unadulterated pap.
+149067,1,302,1109000,Patty Bouvier,Simpson Home,It's almost nine o'clock.
+149068,1,303,1110000,Selma Bouvier,Simpson Home,Where is Homer anyway?
+149069,1,304,1111000,Patty Bouvier,Simpson Home,It's so typical of the big doofus to spoil it all.
+149070,1,305,1114000,Lisa Simpson,Simpson Home,"What, Aunt Patty?"
+149071,1,306,1115000,Patty Bouvier,Simpson Home,"Oh, nothing dear. I'm just trashing your father."
+149072,1,307,1119000,Lisa Simpson,Simpson Home,"Well I wish you wouldn't because aside from the fact that he has the same frailties as all human beings, he's the only father I have. Therefore he is my model of manhood and my estimation of him will govern the prospects of my adult relationships. So I hope you bear in mind that any knock at him is a knock at me. And I am far to young to defend myself against such onslaughts."
+149073,1,308,1142000,Patty Bouvier,Simpson Home,"Um-hm. Go watch your cartoon show, dear."
+149075,1,310,1147000,Homer Simpson,SPRINGFIELD DOWNS,"Come on, Bart. Kiss the ticket for good luck, not that we need it. Heh-heh-heh."
+149076,1,311,1155000,Announcer,SPRINGFIELD DOWNS,Here comes Screwy the Mechanical Rabbit. And they're off!
+149077,1,312,1159000,Announcer,SPRINGFIELD DOWNS,Around the first turn.
+149078,1,313,1159000,Bart Simpson,SPRINGFIELD DOWNS,"Come on, ""Santa's Little Helper!"""
+149079,1,314,1161000,Bart Simpson,SPRINGFIELD DOWNS,"Come on, dog! Go, man! Go! Come on Santa's Little Helper! Run baby run!"
+149080,1,315,1161000,Homer Simpson,SPRINGFIELD DOWNS,"Come on Santa's Little Helper! Go, go, go! Run your tail off!"
+149082,1,316,1162000,Announcer,SPRINGFIELD DOWNS,"It's ""Whirlwind"" in the lead..."
+149083,1,317,1162000,Announcer,SPRINGFIELD DOWNS,"And coming up on the left is ""Quadruped"", followed by Dog O' War and ""Fido""."
+149084,1,318,1168000,Homer Simpson,SPRINGFIELD DOWNS,Go! Go!
+149085,1,319,1168000,Bart Simpson,SPRINGFIELD DOWNS,Go Santa's Little Helper!
+149086,1,320,1169000,Homer Simpson,SPRINGFIELD DOWNS,"Come on, boy."
+149087,1,321,1169000,Bart Simpson,SPRINGFIELD DOWNS,"Come on, get that rabbit."
+149088,1,322,1171000,Announcer,SPRINGFIELD DOWNS,"...Dog of war coming up fast on the outside... And with a lock on last place it's... ""Santa's Little Helper."""
+149090,1,324,1180000,Bart Simpson,SPRINGFIELD DOWNS,"Don't worry, Dad. Maybe this is just for suspense before the miracle happens."
+149091,1,325,1186000,Announcer,SPRINGFIELD DOWNS,"Around the clubhouse turn, Whirlwind is staking out a big lead, a couple of lengths. Quadruped fighting it out and coming up fast, Chew My Shoe."
+149092,1,326,1194000,Announcer,SPRINGFIELD DOWNS,"And it's ""Whirlwind"" by a country mile, and in second, ""Chew My Shoe"" followed by ""Dog O' War""."
+149094,1,328,1200000,Bart Simpson,SPRINGFIELD DOWNS,"It doesn't seem possible, but I guess TV has betrayed me."
+149095,1,329,1204000,Homer Simpson,SPRINGFIELD DOWNS,I don't want to leave till our dog finishes.
+149096,1,330,1212000,Homer Simpson,SPRINGFIELD DOWNS,"Ah, forget it. Let's go."
+149098,1,332,1223000,Homer Simpson,SPRINGFIELD DOWNS PARKING LOT,"Find any winners, son?"
+149099,1,333,1225000,Bart Simpson,SPRINGFIELD DOWNS PARKING LOT,"Sorry, Dad."
+149100,1,334,1226000,Barney Gumble,SPRINGFIELD DOWNS PARKING LOT,"Hey-hey, Simpson! What'd I tell you... Whirlwind. Let's go, Daria."
+149101,1,335,1237000,Voice,SPRINGFIELD DOWNS PARKING LOT,Beat it! Scram! Get lost! You came in last for the last time.
+149102,1,336,1242000,Bart Simpson,SPRINGFIELD DOWNS PARKING LOT,"Look, Dad. It's Santa's Little Helper."
+149103,1,337,1246000,Dog's Owner,SPRINGFIELD DOWNS PARKING LOT,And don't come back!
+149104,1,338,1249000,Homer Simpson,SPRINGFIELD DOWNS PARKING LOT,"Oh, no you don't. No. No. Get away from me. Uh-uh."
+149105,1,339,1254000,Bart Simpson,SPRINGFIELD DOWNS PARKING LOT,"Oh, can we keep him Dad, please?"
+149106,1,340,1257000,Homer Simpson,SPRINGFIELD DOWNS PARKING LOT,But he's a loser. He's pathetic. He's...
+149107,1,341,1263000,Homer Simpson,SPRINGFIELD DOWNS PARKING LOT,-- a Simpson.
+149109,1,343,1268000,Marge Simpson,Simpson Home,Maybe I should call the police.
+149110,1,344,1270000,Patty Bouvier,Simpson Home,"Oh, he'll sober up."
+149111,1,345,1272000,Selma Bouvier,Simpson Home,"Yeah, and come staggering home."
+149112,1,346,1273000,Patty Bouvier,Simpson Home,Um-hm. Smelling of cheap perfume.
+149113,1,347,1276000,Marge Simpson,Simpson Home,Homer!
+149115,1,348,1278000,Homer Simpson,Simpson Home,"All right, look everybody. I have a confession to make."
+149116,1,349,1283000,Selma Bouvier,Simpson Home,This should be good.
+149117,1,350,1285000,Homer Simpson,Simpson Home,"I didn't get my Christmas bonus. I tried not to let it ruin Christmas for everybody, but no matter what I did, I just couldn't --"
+149118,1,351,1292000,Bart Simpson,Simpson Home,"Hey, everybody. Look what we got!"
+149119,1,352,1295000,Lisa Simpson,Simpson Home,"A dog! All right, Dad!"
+149120,1,353,1298000,Marge Simpson,Simpson Home,Good bless him.
+149121,1,354,1300000,Lisa Simpson,Simpson Home,So love at first sight is possible.
+149122,1,355,1302000,Bart Simpson,Simpson Home,"And if he runs away, he'll be easy to catch."
+149123,1,356,1305000,Marge Simpson,Simpson Home,"This is the best gift of all, Homer."
+149124,1,357,1307000,Homer Simpson,Simpson Home,It is?
+149125,1,358,1308000,Marge Simpson,Simpson Home,"Yes, something to share our love --"
+149126,1,359,1308000,Marge Simpson,Simpson Home,-- And frighten prowlers.
+149127,1,360,1312000,Lisa Simpson,Simpson Home,What's his name?
+149128,1,361,1313000,Homer Simpson,Simpson Home,"Number eight. I mean, Santa's Little Helper."
+149129,1,362,1334000,Lisa Simpson,Simpson Home,RUDOLPH THE RED NOSED REINDEER / HAD A VERY SHINY NOSE / AND IF YOU EVER SAW IT / YOU WOULD EVEN SAY IT GLOWED
+149130,1,363,1338000,Bart Simpson,Simpson Home,Like a light bulb!
+149131,1,364,1340000,Homer Simpson,Simpson Home,Bart!
+149132,1,365,1341000,Lisa Simpson,Simpson Home,ALL OF THE OTHER REINDEER / USED TO LAUGH AND CALL HIM NAMES...
+149133,1,366,1345000,Lisa Simpson,Simpson Home,Like Shine-ola!
+149134,1,367,1346000,Homer Simpson,Simpson Home,Lisa!
+149135,1,368,1347000,Lisa Simpson,Simpson Home,THEY NEVER LET POOR RUDOLPH / JOIN IN ANY REINDEER GAMES...
+149136,1,369,1352000,Bart Simpson,Simpson Home,Like strip poker!
+149137,1,370,1353000,Homer Simpson,Simpson Home,I'm warning you two!
+149138,1,371,1355000,Lisa Simpson,Simpson Home,THEN ONE FOGGY CHRISTMAS EVE / SANTA CAME TO SAY...
+149139,1,372,1358000,Marge Simpson,Simpson Home,"Take it, Homer!"
+149140,1,373,1360000,Homer Simpson,Simpson Home,RUDOLPH WITH YOUR NOSE... OVER HERE... / SO YOU CAN GUIDE MY SLEIGH TODAY....
+149141,1,374,1365000,Marge Simpson,Simpson Home,"Oh, Homer."
+149142,1,375,1366000,Lisa Simpson,Simpson Home,THEN ALL THE REINDEER LOVED HIM / AS THEY SHOUTED OUT WITH GLEE / RUDOLPH THE RED NOSED REINDEER / YOU'LL GO DOWN IN HISTORY...
+149143,1,376,1379000,Bart Simpson,Simpson Home,Like Attila the Hun!

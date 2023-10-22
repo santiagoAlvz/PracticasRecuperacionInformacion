@@ -1,0 +1,287 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+3250,43,3,96000,Homer Simpson,Springfield Nuclear Power Plant,Y'ello.
+3252,43,5,97000,Lisa Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,"Dad, I'm calling about the school talent show."
+3253,43,6,99000,Homer Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,"Don't worry, I know it's tonight."
+3255,43,7,101000,Lisa Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,"No. Dad, I broke my last saxophone reed, and I need you to get me a new one."
+3256,43,8,105000,Homer Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,Uh... isn't this the kind of thing your mother's better at?
+3257,43,9,108000,Lisa Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,"I called her. She's not home. I also tried Mr. Flanders, Aunt Patty, Aunt Selma, Dr. Hibbert, Reverend Lovejoy and that nice man who caught the snake in our basement."
+3258,43,10,117000,Homer Simpson,SPRINGFIELD ELEMENTARY AUDITORIUM,"Wow! And after them, out of all the people in the world, you chose me. Uh huh, yeah, number four and a half reed."
+3260,43,12,126000,Seymour Skinner,Springfield Elementary School,"Well, you're in for a whale of a show tonight. I'd like to point out that the doors are now locked, so you parents can't sneak out of the show after your own child has performed. Oh, and let me caution the people in the first five rows, you will get wet."
+3262,43,14,145000,Homer Simpson,King Toot's Music Store,"Whew! Just in the nick of... mmm, beer?"
+3264,43,16,150000,Homer Simpson,Moe's Tavern,"Hurry, Moe, hurry! I've only got five minutes till the music store closes."
+3265,43,17,154000,Moe Szyslak,Moe's Tavern,Why don't you go there first?
+3266,43,18,155000,Homer Simpson,Moe's Tavern,"Hey, do I tell you how to do your job?"
+3267,43,19,156000,Moe Szyslak,Moe's Tavern,"Sorry, Homer."
+3268,43,20,158000,Homer Simpson,Moe's Tavern,"You know, if you tip the glass, there won't be so much foam on top."
+3269,43,21,158000,Moe Szyslak,Moe's Tavern,"Sorry, Homer."
+3271,43,23,167000,Lunchlady Doris,Springfield Elementary School,This is a whole lotta nothin'.
+3272,43,24,169000,Groundskeeper Willie,Springfield Elementary School,I'd rather be watching the boilers!
+3273,43,25,171000,Seymour Skinner,Springfield Elementary School,"Oh well, make sure you return those chairs to the cafeteria, Kim. I'm not kidding."
+3275,43,27,177000,Homer Simpson,Moe's Tavern,Ah. Finished with fifteen seconds to spare.
+3276,43,28,187000,Little Man,Moe's Tavern,"What's the matter, buddy?"
+3277,43,29,189000,Homer Simpson,Moe's Tavern,The moron next door closed early!
+3278,43,30,191000,Little Man,Moe's Tavern,I happen to be that moron.
+3279,43,31,193000,Homer Simpson,Moe's Tavern,"Oh, me and my trenchant mouth."
+3281,43,33,202000,Seymour Skinner,Springfield Elementary School,"Terrible, just terrible. You know, they seem to get worse every year."
+3283,43,34,207000,Seymour Skinner,Springfield Elementary School,"Wonderful. You know, I think this is the best batch we've ever had. I really do. And now, here's Bart Simpson, The Boy of a Thousand Voices."
+3284,43,35,218000,Bart Simpson,Springfield Elementary School,I'd like to open with my impression of Principal Skinner.
+3285,43,36,226000,Bart Simpson,Springfield Elementary School,"Duh, look at me, I'm Principal Skinner."
+3286,43,37,232000,Seymour Skinner,Springfield Elementary School,That young man just became the Boy of a Thousand Days Detention.
+3287,43,38,236000,Bart Simpson,Springfield Elementary School,"Hey, it's Lunchlady Doris. I wonder what she's got for us today. Today's special is refried dog poop."
+3290,43,41,247000,Homer Simpson,Moe's Tavern,"Please, you've got to open that store."
+3291,43,42,250000,Little Man,Moe's Tavern,Let me think about it... Eh... No.
+3292,43,43,254000,Homer Simpson,Moe's Tavern,"Okay, okay. But I want you to see a picture of the little girl you're disappointing. Well I don't have one."
+3293,43,44,261000,Moe Szyslak,Moe's Tavern,"Come on, Jer. Open up. Be a pal. Remember when I pulled you and your wife out of that burning car?"
+3294,43,45,266000,Little Man,Moe's Tavern,Okay. Okay. But now we're even. So what does your daughter need?
+3295,43,46,270000,Homer Simpson,Moe's Tavern,"I'll have you know, I wrote it down."
+3296,43,47,272000,Homer Simpson,Moe's Tavern,Number Four and a half -- Stupid gum!
+3297,43,48,276000,Homer Simpson,Moe's Tavern,Number Four and a Half reed! Whoo hoo!
+3298,43,49,279000,Little Man,Moe's Tavern,Uh-huh. And what instrument does she play?
+3299,43,50,282000,Homer Simpson,Moe's Tavern,I dunno.
+3301,43,52,288000,Lisa Simpson,Springfield Elementary School,"Mom, where is he? If I don't get that reed I'll sound terrible."
+3302,43,53,293000,Marge Simpson,Springfield Elementary School,"Don't worry, honey, I'm sure your father is..."
+3303,43,54,296000,Marge Simpson,Springfield Elementary School,Maybe.
+3304,43,55,299000,Marge Simpson,Springfield Elementary School,No.
+3305,43,56,301000,Marge Simpson,Springfield Elementary School,That's a long shot.
+3306,43,57,303000,Marge Simpson,Springfield Elementary School,Bingo.
+3307,43,58,306000,Marge Simpson,Springfield Elementary School,"Don't worry, he'll be here."
+3309,43,60,308000,Little Man,King Toot's Music Store,Clarinet?
+3310,43,61,308000,Homer Simpson,King Toot's Music Store,No.
+3311,43,62,308000,Little Man,King Toot's Music Store,Oboe?
+3312,43,63,308000,Homer Simpson,King Toot's Music Store,No.
+3313,43,64,310000,Little Man,King Toot's Music Store,Saxophone?
+3314,43,65,310000,Homer Simpson,King Toot's Music Store,No!... Wait a minute. What was that last one again?
+3315,43,66,312000,Little Man,King Toot's Music Store,Saxophone?
+3282,43,67,313000,Homer Simpson,King Toot's Music Store,"Hmm. ""Lisa stop playing that stupid... saxophone!"" Yes! That's it!"
+3254,43,68,318000,Little Man,King Toot's Music Store,Alto or tenor?
+3317,43,71,319000,Chuck,Springfield Elementary School,My ding-a-ling / My ding-a-ling / I want you to play with my ding-a-ling --
+3318,43,72,326000,Seymour Skinner,Springfield Elementary School,"This act is over! Well, ladies and gentlemen, I'd like to put this filth behind us, and let's all enjoy Lisa Simpson's rendition of ""Stormy Leather -- ah, Weather."""
+3319,43,73,327000,Nelson Muntz,Springfield Elementary School,Haw haw!
+3320,43,74,327000,Nelson Muntz,Springfield Elementary School,Haw haw.
+3321,43,75,327000,Groundskeeper Willie,Springfield Elementary School,Sounds like that gopher I caught in me lawnmower.
+3323,43,77,360000,Homer Simpson,Auditorium,"Whew, I'd hate to be that kid's father."
+3325,43,79,365000,Homer Simpson,Springfield Elementary School,Uh-oh.
+3326,43,80,368000,Seymour Skinner,Springfield Elementary School,That'll do.
+3327,43,81,370000,Lisa Simpson,Springfield Elementary School,It's not my fault. It's the reed.
+3328,43,82,373000,Seymour Skinner,Springfield Elementary School,"Oh yes, of course. It's the reed."
+3329,43,83,376000,Seymour Skinner,Springfield Elementary School,Let's hear it for Lisa Simpson and her wacky sax.
+3330,43,84,380000,Homer Simpson,Springfield Elementary School,Yeah! Woo! Woo! Yeah!
+3333,43,87,394000,Teenager,Ice Cream Parlor,"Okay, who ordered the Mount Bellyache?"
+3334,43,88,396000,Homer Simpson,Ice Cream Parlor,I ordered it for my little girl. Heh... heh.
+3335,43,89,400000,Lisa Simpson,Ice Cream Parlor,I'm done.
+3336,43,90,401000,Homer Simpson,Ice Cream Parlor,That cost eighty-eight dollars!
+3337,43,91,404000,Lisa Simpson,Ice Cream Parlor,"I'm sorry dad, I don't feel much like eating."
+3338,43,92,406000,Homer Simpson,Ice Cream Parlor,"Look, I let you down and I apologize. I know that doesn't make it right, but I hope you can find it in your heart to forgive me."
+3339,43,93,414000,Lisa Simpson,Ice Cream Parlor,I forgive you.
+3340,43,94,415000,Homer Simpson,Ice Cream Parlor,You didn't mean that!
+3341,43,95,417000,Lisa Simpson,Ice Cream Parlor,No. I didn't.
+3343,43,97,426000,Marge Simpson,Simpson Home,"Look Homer, Lisa's taking her first steps."
+148064,43,98,431000,Young Homer,Simpson Home,You taping it?
+3344,43,99,432000,Marge Simpson,Simpson Home,Yes.
+148065,43,100,433000,Young Homer,Simpson Home,I'll watch it later.
+3345,43,101,441000,Baby Lisa,Simpson Home,Da-da. Da-da.
+3346,43,102,444000,Marge Simpson,Simpson Home,"Did you hear that, Homer?"
+148066,43,103,446000,Young Homer,Simpson Home,"Marge, please, I'm busy."
+3347,43,104,448000,Homer Simpson,Simpson Home,No wonder she hates me. I never even noticed that she was alive.
+3348,43,105,455000,Marge Simpson,Simpson Home,"Homer, if you want to make up with Lisa just spend some time with her."
+3349,43,106,458000,Homer Simpson,Simpson Home,Okay.
+3350,43,107,480000,Homer Simpson,Simpson Home,"Maybe I should just cut my losses, give up on Lisa, and make a fresh start with Maggie."
+3351,43,108,484000,Marge Simpson,Simpson Home,"Homie, you've got to stop looking for the quick fix. If you keep spending time with Lisa, she'll forgive you."
+3352,43,109,490000,Homer Simpson,Simpson Home,"Marge, if I spend any more time doing these girl things, I'm gonna -- you know -- go fruity. No, you were right the first time with that quick fix idea. Let's see, quick fix, quick fix. Ah, I'll buy her that pony she's always bugging me for."
+3353,43,110,505000,Marge Simpson,Simpson Home,We can't afford to buy a pony.
+3354,43,111,507000,Homer Simpson,Simpson Home,"Marge, with today's gasoline prices, we can't afford not to buy a pony."
+3355,43,112,510000,Marge Simpson,Simpson Home,That's ridiculous.
+3356,43,113,512000,Homer Simpson,Simpson Home,"Marge, I've got to get her a pony. When I look in Lisa's eyes, I don't see love anymore."
+3357,43,114,514000,Marge Simpson,Simpson Home,That's no reason to buy a pony!
+3358,43,115,518000,Homer Simpson,Simpson Home,"See, even when you yell at me, I can see love in your eyes."
+3359,43,116,520000,Marge Simpson,Simpson Home,Stick to the subject.
+3360,43,117,522000,Homer Simpson,Simpson Home,"Ha ha, you love me."
+3361,43,118,524000,Marge Simpson,Simpson Home,Let's be realistic. A pony is very expensive and we have enough trouble paying bills as it is.
+3362,43,119,529000,Homer Simpson,Simpson Home,"Yeah, yeah, yeah."
+3363,43,120,531000,Marge Simpson,Simpson Home,You sound like you're going to buy a pony. Promise me you won't.
+3364,43,121,534000,Homer Simpson,Simpson Home,Mm.
+3365,43,122,535000,Marge Simpson,Simpson Home,What was that? Was that a yes or a no?
+3366,43,123,537000,Homer Simpson,Simpson Home,Buh.
+3367,43,124,537000,Marge Simpson,Simpson Home,Those aren't even words!
+3368,43,125,540000,Homer Simpson,Simpson Home,Sneh.
+3371,43,128,540000,Salesclerk,PET SHOP,"Oh my, what is that smell?"
+3372,43,129,548000,Salesclerk,PET SHOP,"Oh, it's you."
+3373,43,130,550000,Homer Simpson,PET SHOP,"Excuse me, do you sell ponies?"
+3374,43,131,553000,Salesclerk,PET SHOP,"Uh, sure pal, right here."
+3375,43,132,556000,Homer Simpson,PET SHOP,"""Scot-tish deer-hound."" Hey, this is a dog!"
+3376,43,133,560000,Salesclerk,PET SHOP,"My friend, you're smarter than I gave you credit for. I suggest you try the pony farm on Route 401. Merely take a left at the rendering plant."
+3379,43,136,575000,Homer Simpson,Grateful Gelding Stables,"Now lady, I'm buying this pony for my little girl, and I don't care what it costs."
+3380,43,137,579000,Millicent,Grateful Gelding Stables,Very good. That stunning creature over there is half a million dollars.
+3381,43,138,584000,Homer Simpson,Grateful Gelding Stables,Half a million dollars?!
+3382,43,139,586000,Millicent,Grateful Gelding Stables,He was sired by Seattle Slew and his mother won the Kentucky Derby.
+3383,43,140,588000,Homer Simpson,Grateful Gelding Stables,Wow!
+3384,43,141,589000,Millicent,Grateful Gelding Stables,His likeness graces a stamp in Tanzania...
+3385,43,142,593000,Homer Simpson,Grateful Gelding Stables,I'll take it!
+3386,43,143,594000,Millicent,Grateful Gelding Stables,"Mr. Simpson, do you have half a million dollars?"
+3387,43,144,598000,Homer Simpson,Grateful Gelding Stables,"Uh, sure... let me write you a check."
+3388,43,145,604000,Millicent,Grateful Gelding Stables,"Mr. Simpson, this check is dated January 1, 2054."
+3389,43,146,610000,Homer Simpson,Grateful Gelding Stables,Is there a problem with that?
+3390,43,147,612000,Millicent,Grateful Gelding Stables,Our ponies start at five thousand dollars. Cash.
+3391,43,148,617000,Homer Simpson,Grateful Gelding Stables,Isn't there like a pound where you can pick up cheap ponies that ran away from home?
+3392,43,149,621000,Millicent,Grateful Gelding Stables,I sincerely hope not.
+3395,43,152,625000,Homer Simpson,EMPLOYEE CREDIT UNION,I-I'd like to borrow five thousand dollars.
+3396,43,153,629000,Female Clerk,EMPLOYEE CREDIT UNION,"Sorry, I can't approve a loan that size myself."
+3397,43,154,630000,C. Montgomery Burns,EMPLOYEE CREDIT UNION,Hel-lo.
+3399,43,156,636000,C. Montgomery Burns,EMPLOYEE CREDIT UNION,"Simpson, eh? How can I help you?"
+3400,43,157,639000,Homer Simpson,EMPLOYEE CREDIT UNION,"Mr. Burns, you do this personally?"
+3401,43,158,640000,C. Montgomery Burns,EMPLOYEE CREDIT UNION,"It's a hobby. I'm not in this for any personal gain, heavens no. By the way, are you acquainted with our state's stringent usury laws?"
+3402,43,159,648000,Homer Simpson,EMPLOYEE CREDIT UNION,U-su-ry?
+3403,43,160,649000,C. Montgomery Burns,EMPLOYEE CREDIT UNION,"Silly me, I must have just made up a word that doesn't exist. Now, what is the purpose of this loan?"
+3404,43,161,654000,Homer Simpson,EMPLOYEE CREDIT UNION,I want to buy a pony.
+3405,43,162,656000,C. Montgomery Burns,EMPLOYEE CREDIT UNION,"Isn't that cute? Smithers, he's planning on joining the horsey set. That is it, isn't it? You're not planning to eat it?"
+3406,43,163,664000,Homer Simpson,EMPLOYEE CREDIT UNION,No. I need to get it for my little girl because she doesn't love me any more.
+3407,43,164,667000,Waylon Smithers,EMPLOYEE CREDIT UNION,"Shut up, Simpson."
+3408,43,165,668000,Homer Simpson,EMPLOYEE CREDIT UNION,Sorry.
+3409,43,166,668000,Waylon Smithers,EMPLOYEE CREDIT UNION,Do you have any collateral?
+3410,43,167,670000,C. Montgomery Burns,EMPLOYEE CREDIT UNION,"Oh Smithers, let's not be so cold. His spirit is my collateral. Just sign this form and the money will be yours."
+3411,43,168,681000,C. Montgomery Burns,EMPLOYEE CREDIT UNION,"Sorry, I was just, uh, thinking of something funny Smithers did today."
+3412,43,169,686000,Waylon Smithers,EMPLOYEE CREDIT UNION,"I didn't do anything funny, sir."
+3413,43,170,687000,C. Montgomery Burns,EMPLOYEE CREDIT UNION,Shut up.
+3415,43,172,691000,Millicent,Grateful Gelding Stables,"Mr. Simpson, are you quite sure you know how to take care of a pony?"
+3416,43,173,697000,Homer Simpson,Grateful Gelding Stables,Of course.
+3418,43,175,699000,Homer Simpson,Homer's Car,"Simpson, you've done it again."
+3420,43,177,723000,Lisa Simpson,Simpson Home,"I love you, Dad!"
+3421,43,178,729000,Marge Simpson,Simpson Home,I am very upset with you.
+3422,43,179,732000,Homer Simpson,Simpson Home,Sounds like someone's angling for a pony of her own.
+3423,43,180,737000,Bart Simpson,Simpson Home,"Hey, how come Lisa gets a pony?"
+3424,43,181,740000,Homer Simpson,Simpson Home,Because she stopped loving me.
+3425,43,182,741000,Bart Simpson,Simpson Home,I don't love you either. So give me a moped.
+3426,43,183,743000,Homer Simpson,Simpson Home,I know you love me. So you don't get squat. Hee hee hee hee.
+3427,43,184,747000,Lisa Simpson,Simpson Home,Snowball II... Santa's Little Helper... this is Princess. Please don't exclude her because she's different.
+3428,43,185,758000,Marge Simpson,Simpson Home,"Homer, just where were you planning to keep this horse?"
+3429,43,186,761000,Homer Simpson,Simpson Home,I've got it all figured out. By day it will roam free around the neighborhood. And at night it will nestle snugly between the cars in our garage.
+3430,43,187,770000,Lisa Simpson,Simpson Home,"Dad, no!"
+3431,43,188,771000,Marge Simpson,Simpson Home,That's illegal.
+3432,43,189,772000,Homer Simpson,Simpson Home,"That's for the courts to decide. Marge, she loves me."
+3433,43,190,776000,Lisa Simpson,Simpson Home,"Dad, I think Princess belongs in a stable."
+3434,43,191,779000,Homer Simpson,Simpson Home,Stable? That sounds expensive.
+3435,43,192,782000,Homer Simpson,Simpson Home,This is what love costs a month?
+3436,43,193,785000,Millicent,Simpson Home,"These are standard stable fees, Mr. Simpson. Plus, I'm teaching your daughter riding, grooming, and at no extra charge, pronunciation."
+3437,43,194,794000,Lisa Simpson,Simpson Home,"Father, you've made me the happiest girl who ever lived."
+3438,43,195,797000,Homer Simpson,Simpson Home,Oh nuts.
+3439,43,196,802000,Grampa Simpson,Simpson Home,What do I do? What do I do?
+3440,43,197,804000,Bart Simpson,Simpson Home,"Grampa, if you wanna go right..."
+3441,43,198,804000,Grampa Simpson,Simpson Home,Yes...
+3442,43,199,804000,Bart Simpson,Simpson Home,... move your joystick to the left.
+3443,43,200,806000,Grampa Simpson,Simpson Home,"Yes, move the... what's a joystick? You didn't tell me..."
+3444,43,201,809000,Bart Simpson,Simpson Home,"Uh-oh, here comes a Xylon cruiser. Whoa, whoa, whoa! Go into hyperspace! Ready, hit it!"
+3445,43,202,813000,Grampa Simpson,Simpson Home,Wait. Where's the Hyperspace?
+3446,43,203,816000,Bart Simpson,Simpson Home,"Grampa, you're the spaceship, not the..."
+3447,43,204,817000,Grampa Simpson,Simpson Home,I'm the what? I thought I was this guy. Ohhh.
+3448,43,205,822000,Bart Simpson,Simpson Home,"Game's over, Grampa."
+3449,43,206,823000,Grampa Simpson,Simpson Home,I got down on the floor for this?
+3450,43,207,827000,Lisa Simpson,Simpson Home,"Wait, Dad, I've got something for you."
+3451,43,208,831000,Homer Simpson,Simpson Home,I was hoping it'd be money.
+3452,43,209,834000,Marge Simpson,Simpson Home,"Hmm, oh dear, we're in serious trouble here. We're just going to have to cut down on luxuries."
+3453,43,210,843000,Homer Simpson,Simpson Home,"Well you know, we're always buying Maggie vaccinations for diseases she doesn't even have."
+3454,43,211,847000,Marge Simpson,Simpson Home,"Actually, I was thinking we could cut down on your beer."
+3455,43,212,849000,Homer Simpson,Simpson Home,"Nah, we're not gonna be doing that."
+3456,43,213,851000,Marge Simpson,Simpson Home,Then I'm afraid there's no choice but to give up the pony back.
+3457,43,214,854000,Homer Simpson,Simpson Home,"First you didn't want me to get the pony. Now, you want me to take it back. Make up your mind."
+3458,43,215,859000,Marge Simpson,Simpson Home,Homer...
+3459,43,216,860000,Homer Simpson,Simpson Home,"Marge, Lisa loves me, the pony stays."
+3460,43,217,862000,Marge Simpson,Simpson Home,"All right. You got us into this, you get us out."
+3461,43,218,865000,Homer Simpson,Simpson Home,"Fine, I will. There's plenty of money out there for a guy who's willing to work for it."
+3462,43,219,870000,Homer Simpson,Simpson Home,Do you have any jewelry you don't need anymore?
+3464,43,221,874000,Lisa Simpson,Grateful Gelding Stables,You're so beautiful.
+3465,43,222,877000,Lisa Simpson,Grateful Gelding Stables,"Oh look. You haven't touched your salt lick. Num num, good salt lick."
+3467,43,224,887000,Homer Simpson,Kwik-E-Mart,Need money. Need money.
+3468,43,225,890000,Homer Simpson,Kwik-E-Mart,"One Scratch-for-Cash, please."
+3469,43,226,891000,Apu Nahasapeemapetilon,Kwik-E-Mart,Here you go.
+3470,43,227,892000,Homer Simpson,Kwik-E-Mart,"Liberty Bell... Two Liberty Bells... come on, come on, come on... Oh. Yes! Whoo-hoo! Three Liberty Bells! That'll be TEN thousand dollars, Apu."
+3471,43,228,906000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Oh congratulations, Mr. Homer!"
+3472,43,229,908000,Homer Simpson,Kwik-E-Mart,Thank you.
+3473,43,230,909000,Apu Nahasapeemapetilon,Kwik-E-Mart,If I could just see the ticket...
+3474,43,231,911000,Homer Simpson,Kwik-E-Mart,There it is.
+3475,43,232,912000,Apu Nahasapeemapetilon,Kwik-E-Mart,Please to be removing your thumb.
+3476,43,233,914000,Homer Simpson,Kwik-E-Mart,No.
+3477,43,234,915000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Yes. Please, I must insist..."
+3478,43,235,917000,Homer Simpson,Kwik-E-Mart,No! No!
+3479,43,236,918000,Apu Nahasapeemapetilon,Kwik-E-Mart,I've got to look at the ticket
+3480,43,237,918000,Homer Simpson,Kwik-E-Mart,No! You can't see... come on!
+3481,43,238,919000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Yes, I must..."
+3482,43,239,920000,Homer Simpson,Kwik-E-Mart,No!
+3483,43,240,920000,Homer Simpson,Kwik-E-Mart,Let go. You're ripping it.
+3484,43,241,924000,Apu Nahasapeemapetilon,Kwik-E-Mart,"A cherry! Oh, Mr. Homer, what has reduced you to such cheap chicanery?"
+3485,43,242,931000,Homer Simpson,Kwik-E-Mart,Ohh... I need money.
+3486,43,243,932000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Well, if you need money you should have at least jammed a gun in my head or better yet you could inquire about my ""Help Wanted"" sign."
+3487,43,244,940000,Homer Simpson,Kwik-E-Mart,You're looking for help?
+3488,43,245,941000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Yes. We need someone for the demanding, yet high-profile midnight to eight a.m. shift."
+3489,43,246,945000,Homer Simpson,Kwik-E-Mart,I'm your man!
+3490,43,247,946000,Apu Nahasapeemapetilon,Kwik-E-Mart,You're hired.
+3491,43,248,946000,Homer Simpson,Kwik-E-Mart,Woo-hoo!
+3492,43,249,947000,Apu Nahasapeemapetilon,Kwik-E-Mart,Always I dreamed the day would come when one of you would be working for me!
+3494,43,251,951000,Kevin,Grateful Gelding Stables,She certainly tamed that horse.
+3495,43,252,958000,Ralph Wiggum,Grateful Gelding Stables,"Yes, but what man can tame her?"
+3497,43,254,960000,Apu Nahasapeemapetilon,Kwik-E-Mart,I won't lie to you. On this job you will be shot at.
+3498,43,255,963000,Apu Nahasapeemapetilon,Kwik-E-Mart,Each of these bullet wounds is a badge of honor.
+3499,43,256,966000,Homer Simpson,Kwik-E-Mart,...Badge of honor.
+3500,43,257,966000,Apu Nahasapeemapetilon,Kwik-E-Mart,Here's a pointer: try to take it in the shoulder.
+3501,43,258,971000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Now, these hot dogs have been here for three years. They are strictly ornamental. There's only one bozo who comes in and buys them."
+3502,43,259,980000,Homer Simpson,Kwik-E-Mart,But I eat... Oh.
+3504,43,261,985000,Homer Simpson,Simpson Kitchen,"Heh heh, the perfect crime."
+3505,43,262,988000,Marge Simpson,Simpson Kitchen,"Homer, where have you been? I was so worried."
+3506,43,263,992000,Homer Simpson,Simpson Kitchen,"Marge, could we go in the other room? I did something last night I'm not proud of and I don't want the kids to hear it."
+3507,43,264,998000,Bart Simpson,Simpson Kitchen,Busted!
+3509,43,266,999000,Homer Simpson,Simpson Home,"I'll work form midnight to eight, come home, sleep for five minutes, eat breakfast, sleep six more minutes, shower, then I have ten minutes to spend as I please. Then I'm off to the power plant, fresh as a daisy."
+3510,43,267,1009000,Bart Simpson,Simpson Home,"Oh my God, she killed him."
+3511,43,268,1019000,Homer Simpson,Simpson Home,Mmm... salty.
+3512,43,269,1023000,Apu Nahasapeemapetilon,Simpson Home,"Homer, are you stealing Squishees?"
+3513,43,270,1027000,Homer Simpson,Simpson Home,No sir.
+3514,43,271,1029000,Lisa Simpson,Simpson Home,"This next song is also about a girl and her pony. It's called ""Wildfire."""
+3515,43,272,1033000,Princess Kashmir,Simpson Home,"Come on, Apu honey, loosen up."
+3516,43,273,1046000,Apu Nahasapeemapetilon,Simpson Home,"I'm sorry, baby. While I am here pleasuring you, my store is going down the tubes."
+3518,43,275,1056000,Ned Flanders,Simpson Home,Three dollars and fifty-one... fifty-two... fifty-three cents.
+3519,43,276,1062000,Apu Nahasapeemapetilon,Simpson Home,Homer! You are asleep at your post! Now go change the expiration dates on the dairy products.
+3520,43,277,1067000,Homer Simpson,Simpson Home,Yes sir.
+3521,43,278,1068000,Apu Nahasapeemapetilon,Simpson Home,"Sorry baby, date's over."
+3524,43,281,1129000,Marge Simpson,Simpson Home,"Homie, how long do you plan to do this?"
+3525,43,282,1132000,Homer Simpson,Simpson Home,I don't know. How long do horses live?
+3526,43,283,1135000,Marge Simpson,Simpson Home,Thirty years?
+3529,43,286,1137000,Homer Simpson,Springfield Nuclear Power Plant,Mustn't sleep. Must monitor core.
+3530,43,287,1145000,Homer Simpson,Springfield Nuclear Power Plant,Y'ello.
+3531,43,288,1147000,Lisa Simpson,Springfield Nuclear Power Plant,"I just called to say I love you, Dad."
+3532,43,289,1149000,Homer Simpson,Springfield Nuclear Power Plant,Thanks. When is she gonna stop loving me?
+3533,43,290,1155000,Johnny Carson,Springfield Nuclear Power Plant,I just heard Millie Vanillie was just arrested for impersonating a McNugget.
+3534,43,291,1159000,Johnny Carson,Springfield Nuclear Power Plant,"Well, it's true."
+3535,43,292,1159000,Bart Simpson,Springfield Nuclear Power Plant,"Well, it's still fun to be up late."
+3536,43,293,1162000,Bart Simpson,Springfield Nuclear Power Plant,"Hey, Homer, where ya goin'?"
+3537,43,294,1164000,Homer Simpson,Springfield Nuclear Power Plant,Going for... eight hour walk.
+2130,43,296,1173000,Marge Simpson,GARAGE,Homer? Homer!
+3539,43,297,1174000,Homer Simpson,GARAGE,Homer sleep now.
+3540,43,298,1177000,Lisa Simpson,GARAGE,What's wrong with Dad?
+3541,43,299,1179000,Marge Simpson,GARAGE,"He's just exhausted. Lisa, do you know how much it costs to keep a pony?"
+3542,43,300,1185000,Lisa Simpson,GARAGE,No.
+3543,43,301,1186000,Marge Simpson,GARAGE,"Well, it's a lot. In fact, your father had to take a second job."
+3544,43,302,1190000,Bart Simpson,GARAGE,The poor guy. Where's he working?
+3545,43,303,1192000,Marge Simpson,GARAGE,The Kwik-E-Mart.
+3547,43,305,1196000,Marge Simpson,GARAGE,"Lisa, I hope you realize that your father can't keep this up."
+3548,43,306,1199000,Lisa Simpson,GARAGE,You're gonna make me give up Princess?
+3549,43,307,1201000,Marge Simpson,GARAGE,"Lisa, we can't make you give up that pony."
+3550,43,308,1204000,Bart Simpson,GARAGE,I can make her. Just give me five minutes alone with her.
+3551,43,309,1207000,Marge Simpson,GARAGE,"No, Bart. No one's going to make her. This is something Lisa has to decide for herself."
+3552,43,310,1212000,Lisa Simpson,GARAGE,All the years I've lobbied to be treated like an adult has blown up in my face.
+3555,43,313,1219000,Bart Simpson,Kwik-E-Mart,"Hey, pink hat, when I ordered that blueberry squishee, I meant today."
+3556,43,314,1223000,Homer Simpson,Kwik-E-Mart,"Coming right up, sir."
+3557,43,315,1225000,Bart Simpson,Kwik-E-Mart,And fill it to the top this time.
+3558,43,316,1227000,Homer Simpson,Kwik-E-Mart,"Yes, sir."
+3560,43,318,1230000,Lisa Simpson,Grateful Gelding Stables,"She likes a little carrot after her oats. And she really likes it when you scratch her behind the ear. And if you're playing the radio, she likes contemporary adult in the morning and easy listening at night. Please take good care of my Princess."
+3561,43,319,1245000,Millicent,Grateful Gelding Stables,"Although there is no change in my patrician facade, I can assure you my heart is breaking."
+3562,43,320,1251000,Lisa Simpson,Grateful Gelding Stables,I'll never forget you.
+3564,43,322,1254000,Apu Nahasapeemapetilon,QUIK-E-MART,"What--- wha, da, you call this melted cheese receptacle clean? Eh, the young man you replaced is rolling over in his grave."
+3565,43,323,1263000,Lisa Simpson,QUIK-E-MART,"Dad, you don't have to do this."
+3566,43,324,1264000,Homer Simpson,QUIK-E-MART,"Yes I do. You see Lisa, grownups have a thing called money..."
+3567,43,325,1269000,Lisa Simpson,QUIK-E-MART,"Dad, I understand the sacrifice you've made for me. That's why I gave up the pony."
+3568,43,326,1274000,Homer Simpson,QUIK-E-MART,You did?
+3570,43,327,1275000,Lisa Simpson,QUIK-E-MART,Hmmm hmmm. There's a big dumb animal I love even more than that horse.
+3571,43,328,1279000,Homer Simpson,QUIK-E-MART,"Oh no! What is it, a hippopotamus!"
+3572,43,329,1281000,Lisa Simpson,QUIK-E-MART,"I mean you, you dummy."
+3573,43,330,1283000,Homer Simpson,QUIK-E-MART,Awww.
+3574,43,331,1285000,Homer Simpson,QUIK-E-MART,Apu. You can take this job and re-staff it!
+3575,43,332,1292000,Lisa Simpson,QUIK-E-MART,"Giddyup, Dad."
+3578,43,335,1297000,Apu Nahasapeemapetilon,QUIK-E-MART,"He slept, he stole, he was rude to the customers... still, there goes the best damn employee a convenience store ever had."

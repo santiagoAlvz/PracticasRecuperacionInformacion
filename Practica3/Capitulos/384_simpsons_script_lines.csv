@@ -1,0 +1,199 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+99601,384,1,35000,Homer Simpson,Simpson Home,Hmm... I must be supposed to remember something.
+99603,384,3,45000,Homer Simpson,Simpson Home,"C'mon, memory, wake up!"
+99604,384,4,49000,Homer Simpson,Simpson Home,"Is it our anniversary? No, we don't have one this year. Hmmm..."
+99606,384,6,61000,Homer Simpson,Simpson Kitchen,Don't forge? Don't forge what?
+99607,384,7,66000,Homer Simpson,Simpson Kitchen,"Ohhh, don't forget. Don't forget what?!"
+99608,384,8,70000,Marge Simpson,Simpson Kitchen,"Hustle your bustles, gang! We're going to the Senior Olympics to root for Grampa!"
+99609,384,9,75000,Homer Simpson,Simpson Kitchen,The Senior Olympics? That's what I was supposed to remember?!
+99585,384,10,81000,Marge Simpson,Simpson Kitchen,Don't you dare go limp!
+99610,384,11,82000,Homer Simpson,Simpson Kitchen,Too late. The deed is done.
+99611,384,12,85000,Marge Simpson,Simpson Kitchen,"Kids, grab a fold."
+99613,384,14,99000,Moe Szyslak,Simpson Kitchen,"Oh hey Homer, I hope you didn't forget that today's our big day!"
+99615,384,16,103000,Moe Szyslak,Moe's Tavern,"I sure am looking forward to my birthday fishing trip... Well I'll see ya soon, this is Moe, big day... uh, waitin', feeling uh, kind of fragile... Moe, the birthday boy, listenin' for your car..."
+99617,384,18,122000,Grampa Simpson,Springfield High School,I can finally win a gold medal. I came close at the 1936 Olympics...
+99619,384,20,135000,Grampa Simpson,German Olympic Stadium,I threw a javelin that barely missed Hitler...
+99620,384,21,140000,Grampa Simpson,German Olympic Stadium,But I did hit an assassin who was trying to kill Hitler.
+99621,384,22,144000,Hitler,German Olympic Stadium,What is this? Kill Hitler day?
+99622,384,23,147000,Grampa Simpson,German Olympic Stadium,The next time I saw Hitler we had dinner and laughed about it.
+99625,384,26,171000,Marge Simpson,SPECTATOR STANDS,What's with the lined composition book?
+99626,384,27,174000,Lisa Simpson,SPECTATOR STANDS,"My report on a ""Fascinating Springfielder"" is due Monday, and everybody I've tried to interview is so boring."
+99627,384,28,183000,Lenny Leonard,SPECTATOR STANDS,You could interview me. I collect Absolut ads.
+99628,384,29,186000,Lisa Simpson,SPECTATOR STANDS,How many others do you have?
+99629,384,30,188000,Lenny Leonard,SPECTATOR STANDS,There are others?
+99631,384,32,193000,Homer Simpson,DIVING PLATFORM,This guy sucks. He can barely make it to the top.
+99633,384,34,211000,Marge Simpson,AREA BESIDE TRACK,"Seventy-two lousy events, and Grampa hasn't won a single medal."
+99634,384,35,216000,Bart Simpson,AREA BESIDE TRACK,"Well, it's not fair when Moleman uses his replacement legs."
+99637,384,38,235000,Groundskeeper Willie,AREA BESIDE TRACK,It's cloudin' up -- I better put on me rain poncho.
+99638,384,39,244000,Groundskeeper Willie,AREA BESIDE TRACK,Sir! You dropped yer munchers!
+99640,384,41,254000,Grampa Simpson,AREA BESIDE TRACK,"You'll never take me alive, Grim Reaper!"
+99642,384,43,262000,Bart Simpson,AREA BESIDE TRACK,"Yay, Grampa!"
+99643,384,44,265000,Grampa Simpson,AREA BESIDE TRACK,Take the boy! His soul is fresher!
+99645,384,46,270000,Grampa Simpson,ATHLETIC FIELD,I've never been happier!
+99646,384,47,276000,Grampa Simpson,ATHLETIC FIELD,Turn that hippie crap off!
+99648,384,49,280000,Marge Simpson,Simpson Car,I wonder if the dog thought about us while we were gone.
+99649,384,50,287000,Homer Simpson,Simpson Car,"Oh, I was supposed to take Moe fishing today! Everybody hide!"
+99650,384,51,293000,Moe Szyslak,Simpson Car,"Finally, that jerk Homer is home!"
+99651,384,52,299000,Moe Szyslak,Simpson Car,It's just his car.
+99653,384,54,303000,Moe Szyslak,Simpson Home,HAPPY BIRTHDAY TO ME / HAPPY BIRTHDAY TO ME / I FEEL SO DAMN LONELY / WON'T SOMEONE KILL ME AND MANY MORE...
+99654,384,55,329000,Marge Simpson,Simpson Home,"Homer, we can't scuttle like crabs for the rest of our lives."
+99655,384,56,333000,Homer Simpson,Simpson Home,Says you.
+99656,384,57,354000,Marge Simpson,Simpson Home,Dear Pus Bag...
+99657,384,58,357000,Homer Simpson,Simpson Home,"Whoa, Marge, who'd you piss off?"
+99658,384,59,360000,Moe Szyslak,Simpson Home,"It's for you, Puss Bag!"
+99659,384,60,363000,Moe Szyslak,Simpson Home,"Birthdays never meant squat to me. Then you offered to take me fishing, and like a stumblebum chump, I dared to hope. But you shattered my dreams like a Duff tallboy in a bar brawl. And you jammed the jagged neck right up my heart's butt."
+99660,384,61,376000,Moe Szyslak,Simpson Home,I guess I just wasn't meant to be happy or handsome or anything really.
+99661,384,62,381000,Lisa Simpson,Simpson Home,"What a deep, tormented soul..."
+99666,384,67,397000,Lisa Simpson,Simpson Home,Moe!
+99667,384,68,398000,Lisa Simpson,Simpson Home,You have a worldview both bleak and beautiful! I wanna write a report about you!
+99668,384,69,405000,Moe Szyslak,Simpson Home,"Wow, for the first time in my life, someone's taking a genuine interest in what's inside of me. Suddenly, this is my best birthday ever!"
+99669,384,70,417000,Moe Szyslak,Simpson Home,Still in the top three.
+99670,384,71,424000,Moe Szyslak,Simpson Home,Still in the top ten.
+99672,384,73,430000,Moe Szyslak,SEEDY NEIGHBORHOOD,"How come you wanna do a report on me? I ain't no great man, like Bob Seger or Haystacks Calhoun."
+99673,384,74,436000,Lisa Simpson,SEEDY NEIGHBORHOOD,Because I suspect deep within you is an artist's soul.
+99675,384,75,440000,Moe Szyslak,SEEDY NEIGHBORHOOD,Thanks. So here's my digs.
+99676,384,76,447000,Homer Simpson,SEEDY NEIGHBORHOOD,"Moe, you live in a hotel? You're just like ""Eloise""!"
+99677,384,77,450000,Homeless Lady,SEEDY NEIGHBORHOOD,Did someone say my name?
+99679,384,79,453000,Homer Simpson,Regent Hotel,This vibrating massage chair feels great!
+99680,384,80,456000,Moe Szyslak,Regent Hotel,That ain't a massage chair -- it's just full of cockroaches.
+99681,384,81,459000,Marge Simpson,Regent Hotel,See.
+99682,384,82,465000,Lisa Simpson,Regent Hotel,"Moe, these fragments are fascinating. ""I was in the Christmas pageant once. Mom showed up with a new boyfriend. He called me Steve."""
+99683,384,83,473000,Lisa Simpson,Regent Hotel,What you've got here is poetry!
+99684,384,84,479000,Homer Simpson,Regent Hotel,"Oooh, Moe's a poet! He has a soul! Flutter your wings! It's teatime in Buttercup Junction!"
+99685,384,85,488000,Homer Simpson,Regent Hotel,Moe's the Princess of Lollipop Land! He lunches on lavender and potpourri!
+99686,384,86,500000,Homer Simpson,Regent Hotel,"Seriously Moe, I think you have a gift."
+99688,384,88,503000,Moe Szyslak,Moe's Bedroom,"Thanks, Homer. I love ya, man."
+99689,384,89,505000,Homer Simpson,Moe's Bedroom,"Ooh, you love a man!"
+99690,384,90,511000,Lisa Simpson,Moe's Bedroom,"You know, artfully arranged, these fragments could be an epic poem -- like T.S. Eliot's ""The Wasteland."""
+99691,384,91,511000,Moe Szyslak,Moe's Bedroom,What-which why-liot's the who-now?
+99693,384,93,524000,Moe Szyslak,Moe's Apartment,"Whoa! My brain-goo's comin' out all artistical, thanks to you."
+99694,384,94,529000,Lisa Simpson,Moe's Apartment,"How 'bout this for a title: ""Howling at a Concrete Moon."""
+99695,384,95,529000,Moe Szyslak,Moe's Apartment,"That's a terrific title! It jumps out at you like a rat in your underwear drawer. We make a great team there, Liser."
+99698,384,98,543000,Moe Szyslak,Springfield Elementary School,...my soul smells like a dead pigeon after three weeks. / I shut my window and go to sleep. / In my dream I eat corn with my eyes.
+99699,384,99,548000,Lisa Simpson,Springfield Elementary School,Philistines.
+99701,384,101,558000,Marge Simpson,Simpson Home,"Lisa, I'm sorry you got a bad grade on your ""Moe and tell."""
+99702,384,102,558000,Lisa Simpson,Simpson Home,"I don't care about my grade. I'm gonna send Moe's poem to ""American Poetry Perspectives."""
+99703,384,103,567000,Homer Simpson,Simpson Home,Do not mention that publication in this house! They never published my poem!
+99704,384,104,572000,Homer Simpson,Simpson Home,"There once was a rapping tomato / That's right, I said rapping tomato / He rapped all day / From April to May / And also, guess what, it was me."
+99707,384,107,572000,Meek Assistant,American Poetry Perspectives,"Chief, we just got a submission from a brilliant poet no one's ever heard of!"
+99708,384,108,595000,Editor,American Poetry Perspectives,Genius! Pay him nothing. And run it on the cover!
+99709,384,109,598000,Editor,American Poetry Perspectives,"Stop the presses! Send my wife some flowers! And bring me an Advil! What do you mean you don't work for me?! You're hired! Now that you're hired, you're fired! Now that you don't work here anymore, we can be friends. Now that we're friends, how come you never call? Some friend you are! God, I love this business."
+99710,384,110,607000,Meek Assistant,American Poetry Perspectives,Here it is.
+99711,384,111,610000,Editor,American Poetry Perspectives,"Bad news, Maya Angelou -- you've been bumped."
+99712,384,112,612000,Maya Angelou,American Poetry Perspectives,"Oh no you don't, you can't bump me!"
+99714,384,114,619000,Lisa Simpson,Moe's Tavern,"Moe, you're a published author!"
+99715,384,115,623000,Carl Carlson,Moe's Tavern,"Wow, Just think -- earlier tonight, a newly-published poet cleaned up my barf."
+99716,384,116,629000,Moe Szyslak,Moe's Tavern,"Moe's Tavern... Who? Where? To what? Screw you, snail trail!"
+99717,384,117,635000,Lisa Simpson,Moe's Tavern,Who was that?
+99718,384,118,636000,Moe Szyslak,Moe's Tavern,"Eh, some jerk makin' a prank call with a gag name: ""Tom Wolfe."""
+99719,384,119,636000,Barney Gumble,Moe's Tavern,"Tom Wolfe?! He wrote ""The Right Stuff"" and ""Bonfire of the Vanities"". And coined the phrase ""radical chic!"""
+99720,384,120,645000,Moe Szyslak,Moe's Tavern,"Wait, wait, wait -- then that guy wasn't squeezin' my 'roids when he invited me to the Wordloaf Festival in Vermont?"
+99721,384,121,655000,Lisa Simpson,Moe's Tavern,"The Wordloaf Festival?! You'll meet all the great American writers, Moe! You have to go!"
+99722,384,122,661000,Moe Szyslak,Moe's Tavern,"Yeah? Well, okay, all right -- but only if you come, huh?"
+99723,384,123,664000,Moe Szyslak,Moe's Tavern,"I wouldn't-a had none of this without you, kid."
+99724,384,124,669000,Moe Szyslak,Moe's Tavern,"Hello. Oh hey, Milhouse."
+99725,384,125,671000,Lisa Simpson,Moe's Tavern,I'm not here.
+99728,384,128,675000,Homer Simpson,Car,"Ah, a family trip with the family bartender -- what could be better?"
+99729,384,129,681000,Moe Szyslak,Car,"How's it goin', Homer?"
+99731,384,130,683000,Homer Simpson,Car,Lousy. I gotta go to Vermont for some stupid poetry thing.
+99732,384,131,687000,Marge Simpson,Car,"Homer, don't drink and drive!"
+99733,384,132,690000,Homer Simpson,Car,Fine. I'll drive between sips.
+99734,384,133,715000,Homer Simpson,Car,"They got an open bar at this thing, right?"
+99735,384,134,717000,Homer Simpson,Car,Wow. Troopers from every state in New England.
+99736,384,135,721000,Dwarf Cop,Car,"Including Rhode Island! We're a small state, but we give big tickets."
+99738,384,137,726000,Bart Simpson,College-looking Building,"Hey guys, didja hear? ""The Da Vinci Code"" just sold one hundred million copies!"
+99742,384,141,734000,Lisa Simpson,Main Building,It's Tom Wolfe! He uses more exclamation points than any other major American writer.
+99743,384,142,740000,Tom Wolfe,Main Building,It's true!!!!!!!!!!
+99744,384,143,741000,Moe Szyslak,Main Building,How ya doin' there. Moe Szyslak.
+99745,384,144,743000,Tom Wolfe,Main Building,"Ah, magnificent Moe. He stands, stoop-shouldered, blinking in the light, hollow-chested like a dough-faced fall guy who's made a career of taking dives but has decided to get his manhood out of hock and take a shot at the title -- or at least go for the jaw and -- thwack!!! -- hyperextend the champ's pterygoideus before kissing the mat goodnight."
+99748,384,147,767000,Moe Szyslak,Cocktail Party,"You ever scrub your hands real fast, and think you're seein' a third one? One time I looked down and there really was. I gotta get a new lock for that bathroom."
+99750,384,149,779000,Tom Wolfe,Cocktail Party,"Moe, your debut poem is as refreshing as a second pair of socks on a wet hike. I must know how you came up with that brilliant title, ""Howling at a Concrete Moon?"""
+99751,384,150,784000,Moe Szyslak,Cocktail Party,"Uh, well actually, I had some help on the title..."
+99753,384,152,797000,Festival Host,Cocktail Party,You needed help to write your title?
+99754,384,153,799000,Gore Vidal,Cocktail Party,"Well, so have I, Gore Vidal. ""1876"" was the price I paid for gas once. I thought of ""Burr"" when I saw it written on an Eskimo Pie package."
+99755,384,154,809000,Woman At Festival,Cocktail Party,I can't believe it!
+99756,384,155,810000,Man At Festival,Cocktail Party,Those sound like terrible jokes!
+99758,384,156,812000,Festival Host,Cocktail Party,"Sir, I must ask you to pick up your gift bag and leave this festival."
+99759,384,157,816000,Gore Vidal,Cocktail Party,I don't need your sycophantic laughter! I have some on tape.
+99761,384,159,823000,Gore Vidal,Cocktail Party,"You still love me, Temple University Class of 1987."
+99762,384,160,832000,Tom Wolfe,Cocktail Party,"So Moe, you were telling us how you came up with your title."
+99763,384,161,835000,Moe Szyslak,Cocktail Party,"Yeah, well uh I-I, was just saying that um...I thought it up all by myself."
+99765,384,163,842000,Tom Wolfe,Cocktail Party,"Ah, like a real writer. Outstanding, Moe! To the hayride!"
+99766,384,164,856000,Lisa Simpson,Cocktail Party,But we were a team!
+99768,384,166,863000,Tom Wolfe,WORDLOAF,"I'd like to introduce our panel: Jonathan Franzen, Michael Chabon, and Moe."
+99769,384,167,875000,Moe Szyslak,WORDLOAF,"Whoa, clear water!"
+99770,384,168,877000,Moe Szyslak,WORDLOAF,Swank-ee! Woo-hoo!
+99771,384,169,879000,Tom Wolfe,WORDLOAF,Now we'll open the floor to fawning praise and obvious questions.
+99772,384,170,885000,Audience Member,WORDLOAF,"Uh yeah, first of all, I'd like to thank all of you for your brilliant work."
+99773,384,171,889000,Audience Member,WORDLOAF,"Yeah, yes! My question is, who are your biggest influences?"
+99774,384,172,894000,Michael Chabon,WORDLOAF,"I'd have to say my good friend Jonathan Franzen. I thought his novel ""The Corrections"" needed none."
+99775,384,173,901000,Stoner In Audience,WORDLOAF,Cha-bonnnnne!
+99776,384,174,903000,Jonathan Franzen,WORDLOAF,"Well, in turn, I'd have to say my biggest influence is..."
+99777,384,175,906000,Jonathan Franzen,WORDLOAF,...Albert Camus.
+99778,384,176,908000,Michael Chabon,WORDLOAF,You were supposed to say me! I blurbed you!
+99779,384,177,910000,Jonathan Franzen,WORDLOAF,"Yeah, it looks real sweet on my dust jacket. How do you like me now?!"
+99780,384,178,915000,Stoner In Audience,WORDLOAF,Fran-zonnnnnne!
+99781,384,179,917000,Tom Wolfe,WORDLOAF,"Moe, who inspired you to become a writer... Jack Kerouac? Charles Bukowski? Me? Tom Wolfe?"
+99782,384,180,923000,Moe Szyslak,WORDLOAF,"I dunno... the only book I ever read was ""Super Hounds: The Ultimate Greyhound Betting System"". So uh... any of you wetnaps write that?"
+99784,384,182,934000,Lisa Simpson,WORDLOAF,"Mr. Szyslak -- there must be some person, possibly in this very room, who believed in you when no one else did."
+99785,384,183,941000,Moe Szyslak,WORDLOAF,"Oh, uh yeah I-I get what you're gettin' at. Um... nope."
+99786,384,184,946000,Lisa Simpson,WORDLOAF,But how can you--
+99787,384,185,947000,Tom Wolfe,WORDLOAF,"Now now, he's answered your question. I declare this panel dismissed!"
+99788,384,186,952000,Lisa Simpson,WORDLOAF,But... I deserve... acknowledgement...
+99789,384,187,952000,Tom Wolfe,WORDLOAF,I said dismissed!
+99791,384,189,956000,Marge Simpson,LECTURE HALL,"Lisa, grab your sightseeing shoes! We're going Vermonting!"
+99792,384,190,962000,Homer Simpson,LECTURE HALL,It's gonna be awesome!
+99793,384,191,964000,Homer Simpson,LECTURE HALL,"Man, couples in this state sure like to clink glasses."
+99794,384,192,968000,Lisa Simpson,LECTURE HALL,You guys go ahead. I don't think I'd be very good company...
+99795,384,193,972000,Homer Simpson,LECTURE HALL,"Hey, thanks for the heads-up! We'll see ya when we see ya!"
+99798,384,196,974000,Homer Simpson,Car,I love these covered bridges. It's like driving through cute little houses.
+99799,384,197,984000,Older Vermont Man,Car,"That was my house, you moron!"
+99800,384,198,989000,Homer Simpson,Car,Oh I'm sorry. We should exchange insurance information. I have none.
+99805,384,203,1007000,Professor,POND,No food for you grad students till you grade three thousand papers!
+99806,384,204,1013000,Moe Szyslak,POND,"Hey, hey, there you are! I've been lookin' for ya..."
+99807,384,205,1016000,Moe Szyslak,POND,"I need a brilliant new poem for the farewell dinner. So if you could turn these into one of those and then don't say nothin' while I take all the credit, I'd really appreciate it, though I'd never admit that. And look, I got you started. Eh? Eh?"
+99808,384,206,1029000,Lisa Simpson,POND,"Moe, you're a heartless jerk!"
+99809,384,207,1033000,Moe Szyslak,POND,"Huh? Whoa, where'd that come from? Oh, right, right, my actions."
+99810,384,208,1037000,Moe Szyslak,POND,"Well, let's see if I can put this poem together."
+99811,384,209,1040000,Moe Szyslak,POND,"Hey, hey, hey! Hey! Stupid geese! You're eatin' my brilliance!"
+99813,384,211,1052000,Moe Szyslak,POND,"Look at me. It's supposed to be my big triumph and I'm standing in mud, fightin' with geese. Well, if I'm gonna fight, I might as well win."
+99814,384,212,1064000,Moe Szyslak,POND,"Yeah, go on, you cowards! Fly off in a ""V""!"
+99816,384,214,1066000,Bart Simpson,WORDLOAF,"Hey Lis, we learned so much scootin' around Vermont. Did you know that candles are made by losers?"
+99818,384,215,1076000,Homer Simpson,WORDLOAF,"And we went to the ""Vermont Teddy Bear"" factory. Look what we got! Hm? Hm?"
+99820,384,217,1086000,Homer Simpson,WORDLOAF,"Oh honey, don't cry. They're not made from real bears -- just their fur and noses!"
+99821,384,218,1093000,Lisa Simpson,WORDLOAF,Moe marginalized my contributions...
+99823,384,220,1100000,Homer Simpson,WORDLOAF,No one makes my daughter sob and run.
+99824,384,221,1104000,Bart Simpson,WORDLOAF,He ruined her first Wordloaf!
+99825,384,222,1110000,Moe Szyslak,WORDLOAF,"Look at me, sittin' here depressed when I'm surrounded by the happiest people in the world: writers."
+99826,384,223,1117000,Tom Wolfe,WORDLOAF,"Before Moe reads his keynote poem, I would like to stake my claim to any unfinished garlic mashed potatoes. So please, if you would pass them clockwise up to table one, I'll collect them later."
+99827,384,224,1129000,Tom Wolfe,WORDLOAF,"Now, I give you... Moe Szyslak."
+99828,384,225,1135000,Moe Szyslak,WORDLOAF,"Uh, this here poem is called ""Elevator Capacity."" ""Elevator capacity twenty-four hundred pounds. Inspection Certificate available in hotel manager's office..."""
+99830,384,227,1143000,Audience Member,WORDLOAF,You just pulled that off the wall of the elevator!
+99831,384,228,1151000,Moe Szyslak,WORDLOAF,"Uh, well, here's another one you might like."
+99832,384,229,1154000,Moe Szyslak,WORDLOAF,"""Channel sixty-one, Family Favorites. Channel sixty-two, Adult Desires. Channel sixty-three, In-Room Checkout... ch--"""
+99833,384,230,1160000,Moe Szyslak,WORDLOAF,Hey you know what? I got a different poem for yaz.
+99835,384,232,1174000,Moe Szyslak,WORDLOAF,Ode to Lisa: Pointy-headed mini-muse. / More friend than I deserved. / You pulled me from the dirt / and made me the beautiful flower that I am.
+99836,384,233,1185000,Moe Szyslak,WORDLOAF,"But some flowers can stab you in the back. / For which I should send you flowers. / Which I will, but they were closed. / You'll be gettin' them tomorrow."
+99837,384,234,1193000,Lisa Simpson,WORDLOAF,"Oh, Moe."
+99838,384,235,1194000,Moe Szyslak,WORDLOAF,"Lisa, if you could just forgive me, you would make me the happiest man in Vermont. Except for those two dudes I saw gettin' hitched. Not my thing, but I wish 'em well."
+99839,384,236,1203000,Homer Simpson,WORDLOAF,"Make my daughter cry, will ya! Eat syrup, jerk!"
+99840,384,237,1206000,Moe Szyslak,WORDLOAF,Wha?
+99841,384,238,1207000,Lisa Simpson,WORDLOAF,"Dad, no! I'm not mad at Moe anymore!"
+99842,384,239,1211000,Moe Szyslak,WORDLOAF,"Homer, would it make you feel better if any of that hit me?"
+99843,384,240,1215000,Homer Simpson,WORDLOAF,"No, not now."
+99730,384,241,1217000,Moe Szyslak,WORDLOAF,"I'm gonna walk away then, okay."
+99844,384,242,1221000,Michael Chabon,WORDLOAF,"Wow, you couldn't make this stuff up."
+99845,384,243,1224000,Jonathan Franzen,WORDLOAF,"Well, you couldn't."
+99846,384,244,1225000,Michael Chabon,WORDLOAF,"That's it, Franzen. I think your nose needs some corrections."
+99847,384,245,1235000,Michael Chabon,WORDLOAF,You fight like Anne Rice!
+99848,384,246,1238000,Lisa Simpson,WORDLOAF,"Well Moe, I guess we're friends again."
+99849,384,247,1241000,Moe Szyslak,WORDLOAF,That's great. Now what do you say we do some regional duck pin bowling?
+99850,384,248,1245000,Lisa Simpson,WORDLOAF,I'd like that. I'd like it a lot.
+99852,384,250,1249000,Editor,American Poetry Perspectives,"Aw, that's sweet. I hate sweet. I need photos! Photos of Spider-Man!"
+99853,384,251,1255000,Meek Assistant,American Poetry Perspectives,This is a poetry journal.
+99854,384,252,1256000,Editor,American Poetry Perspectives,"Okay, then poems about Spider-Man! And I want them finished before you start! And before you finish, get me some coffee! And the poems should have the following rhyme scheme: A-B-B-A-A-B-B-A-C-D-E-C-D-E! What are you waitin' for? Chinese New Year?"
+99856,384,254,1274000,Homer Simpson,ROADSIDE MAPLE SYRUP STAND,"Hmmm... maple syrup. Sleigh on the label, very good."
+99857,384,255,1283000,Homer Simpson,ROADSIDE MAPLE SYRUP STAND,"Rich maple color, good swirl..."
+99858,384,256,1301000,Homer Simpson,ROADSIDE MAPLE SYRUP STAND,"Oh, Jemima!"
+99859,384,257,1304000,Vermont Woman,ROADSIDE MAPLE SYRUP STAND,"Touched in the head, is he?"
+99860,384,258,1306000,Bart Simpson,ROADSIDE MAPLE SYRUP STAND,A-yup.

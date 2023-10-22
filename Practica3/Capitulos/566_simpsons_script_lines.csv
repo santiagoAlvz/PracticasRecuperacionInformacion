@@ -1,0 +1,199 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+147085,566,5,165000,Homer Simpson,Homer's Bedroom,Marge! Stop that crazy thing!
+147086,566,6,168000,Marge Simpson,Homer's Bedroom,"I've printed out our driving plan! If we work together, we can get Bart to his sports...Lisa to her music...and Maggie to the five birthday parties she's invited to today."
+147088,566,8,179000,Homer Simpson,Bedroom,I'm not spending my precious Saturday chauffeuring those over-privileged kids to a better life than I ever had.
+147089,566,9,186000,Little Homer,Bedroom,I need a ride to Cub Scouts.
+148215,566,10,187000,Young Grampa,Bedroom,Why are you askin' me? Is your thumb broken?
+148216,566,12,195000,Young Grampa,Bedroom,Have him back by Father's Day!
+147092,566,14,197000,Marge Simpson,Simpson Home,Homie! Are you dressed? You have soccer setup in twenty minutes! Homie?!
+147094,566,16,207000,Homer Simpson,Moe's Tavern,"Moe, quick! Beer me before I answer the phone!"
+147095,566,17,209000,Moe Szyslak,Moe's Tavern,"Ah, the first pour of the day. Let me just tie on my apron, limber up the ol' tap-pullin' arm..."
+147097,566,19,221000,Homer Simpson,Moe's Tavern,I need it now!
+147098,566,20,227000,Homer Simpson,Moe's Tavern,"Hey, Marge. I'm supposed to help drive the kids? Oh, man, I wish I knew that sooner, but I just had a beer."
+147099,566,21,235000,Marge Simpson,Moe's Tavern,You're already drinking at eight o'clock in the morning? How much have you had?
+147100,566,22,245000,Homer Simpson,Moe's Tavern,Woo hoo! Off the hook!
+147101,566,23,247000,Marge Simpson,Moe's Tavern,Looks like this is all me.
+147102,566,24,250000,Homer Simpson,Moe's Tavern,"Yeah, while you're at it can you pick me up some beer?"
+147105,566,27,276000,Snake Jailbird,Simpson Home,"Well, we've got an hour. Who wants coffee?"
+147106,566,28,279000,Chief Wiggum,Simpson Home,"Okay, but I'm buyin'."
+147107,566,29,280000,Snake Jailbird,Simpson Home,"No, no, I insist. I'm stealing."
+147108,566,30,333000,Marge Simpson,Simpson Home,"See ya at the bake sale, sucker!"
+147110,566,32,336000,Moe Szyslak,Moe's Tavern,"...So Sideshow Mel is drinkin' here all afternoon. When I show him the tab, he says he left his wallet in his other skirt, and he pays me with this!"
+147111,566,33,345000,Carl Carlson,Moe's Tavern,"Hey, this is a ticket to see Laney Fontaine -- she's the brassiest broad on Broadway!"
+147112,566,34,350000,Lenny Leonard,Moe's Tavern,"She's funny and vulgar and fulla Hollywood stories, like, uh... Jimmy Stewart was a super-nice guy."
+147113,566,35,356000,Moe Szyslak,Moe's Tavern,"Geez, now I wanna go!"
+147114,566,36,357000,Lenny Leonard,Moe's Tavern,Why can'tcha?
+147115,566,37,358000,Moe Szyslak,Moe's Tavern,I can't close down the bar on a Saturday. That's when you guys can drink 'cause you're not workin' for three days.
+147116,566,38,364000,Homer Simpson,Moe's Tavern,Hey Moe... I'll take care of the bar. You did me a favor today.
+147117,566,39,368000,Moe Szyslak,Moe's Tavern,"Huh... well, okay. Uh, let me just show you where everything is... shotgun, shotgun shells, blood mop, bag of lime -- and that's it. Now boys, I gotta get dressed for the, uh, ""theatah""!"
+147118,566,40,381000,Moe Szyslak,Moe's Tavern,And done.
+147120,566,42,383000,Marge Simpson,Texxon Station,Dare I say it? Yippee!
+147121,566,43,390000,Marge Simpson,Texxon Station,"Ooh, I didn't know we could decorate our cars."
+147122,566,44,393000,Young Man,Texxon Station,"No-no. It's a Here2There smile. When that's on my grille, I'm getting' paid to drive people around."
+147123,566,45,398000,Marge Simpson,Texxon Station,So you're a taxi?
+147124,566,46,400000,Young Man,Texxon Station,"No. No, no. No. We're a social media-based ride share service. We bring the ""fair"" back to ""fares."" Those aren't air quotes. My fingers start doing that after they're around the wheel all day."
+147125,566,47,411000,Marge Simpson,Texxon Station,"Well, I drive all day and I don't get paid a thing. With the money you make, I could buy a fridge with... an icemaker."
+147127,566,49,429000,Young Man,Texxon Station,You wanna work for us?
+147128,566,50,430000,Marge Simpson,Texxon Station,Sure!
+147129,566,51,431000,Young Man,Texxon Station,Are you over twenty-three?
+147130,566,52,432000,Marge Simpson,Texxon Station,Yes.
+147131,566,53,434000,Young Man,Texxon Station,And are you under eighty?
+147132,566,54,435000,Marge Simpson,Texxon Station,Yes.
+147133,566,55,436000,Young Man,Texxon Station,You're in!
+147135,566,57,442000,Grampa Simpson,Texxon Station,What the? When I was a young car I didn't sit around smilin' like I had nothin' better to do!
+147137,566,59,451000,Homer Simpson,Moe's Tavern,"Man, Moe's barely got two nickels to rub together."
+147138,566,60,459000,Carl Carlson,Moe's Tavern,I know a way we can make this Moe's biggest Saturday night ever.
+147139,566,61,464000,Lenny Leonard,Moe's Tavern,How does Moe make money if ladies drink free?
+147140,566,62,466000,Carl Carlson,Moe's Tavern,"That's the beauty part. This place is about to be filled with guys, buyin' beers, hoping to meet ladies. Huh."
+147141,566,63,468000,Lenny Leonard,Moe's Tavern,"Brilliant! Ooh, and thanks for telling me what the beauty part of it was."
+147142,566,65,478000,LANEY FONTAINE,Theater,"So they pulled out my gallbladder, zip me up, I grabbed a cab, tapped my understudy and said ""not tonight, honey."" And here's the song I killed 'em with!"
+147143,566,66,496000,LANEY FONTAINE,Theater,IF THIS ISN'T LOVE / THE WHOLE WORLD IS CRAZY / IF THIS ISN'T LOVE /
+147144,566,67,502000,LANEY FONTAINE,Theater,"WHO'S THIS, PATRICK SWAYZE?"
+147145,566,68,506000,Moe Szyslak,Theater,She changed the lyrics... for me!
+147146,566,69,510000,LANEY FONTAINE,Theater,"Then came the bombs... ""Tobacco Valley,"" ""What Color Is Your Tambourine?,"" and ""The Smell Of Music."" But I'm still here, and I'd like to dedicate this song to the one great love of my life... the man who was my third and fifth husband. But you never know what the future holds."
+147149,566,72,535000,Lenny Leonard,Moe's Tavern,Not a man in sight. We got the...Cheery Red Tomatoes...a bachelorette party...
+147150,566,73,541000,Lenny Leonard,Moe's Tavern,Ooh! Lady Duff!
+147151,566,74,542000,LADY DUFF,Moe's Tavern,"I am woman, hear me pour! Oh yeah!"
+147152,566,75,546000,Homer Simpson,Moe's Tavern,There's no guys! We haven't made any money.
+147153,566,76,550000,Carl Carlson,Moe's Tavern,"Not yet, but at least we're hearing some interesting conversation from those two book clubs."
+147154,566,77,554000,BOOK CLUB MEMBER,Moe's Tavern,"Well, we thought ""The Heaven Lovers' Club"" was rich and spiritual."
+147155,566,78,559000,OTHER BOOK CLUB MEMBER,Moe's Tavern,We thought it was maybe a little slow!
+147156,566,79,562000,BOOK CLUB MEMBER,Moe's Tavern,"Well, maybe I can liven it up for ya."
+147157,566,80,567000,Lenny Leonard,Moe's Tavern,Let me help you up.
+147159,566,82,569000,Moe Szyslak,Springfield Street,"Okay, stop here, please."
+147161,566,84,575000,LANEY FONTAINE,Moe's Tavern,So this is the charming tavern you've been telling me about.
+147162,566,85,579000,Moe Szyslak,Moe's Tavern,Yep. Nice and cozy and... Whaaaa?!
+147163,566,86,590000,Moe Szyslak,Moe's Tavern,My craphole! My precious craphole!
+147164,566,87,593000,BOOK CLUB MEMBER,Moe's Tavern,Anyone tries to stop me and you'll see her lovely bones all over the floor!
+147165,566,88,599000,Moe Szyslak,Moe's Tavern,This is nuts!
+147166,566,89,601000,Moe Szyslak,Moe's Tavern,"Tell me you still work, Love Tester!"
+147167,566,90,604000,Moe Szyslak,Moe's Tavern,I'm ruined!
+147168,566,91,606000,LANEY FONTAINE,Moe's Tavern,"Sorry, Moe. I love losers, but only after they've bounced at the bottom. 'CAUSE I'M THE BRASSIEST PIECE OF SASS IN THIS WHOLE DAMN TOWN!"
+147169,566,92,619000,Moe Szyslak,Moe's Tavern,You guys cost me my chance with a woman of a certain age!
+147171,566,94,627000,Carl Carlson,Moe's Tavern,"Hey, come on, all is not lost. This coaster's fine."
+147172,566,95,637000,Moe Szyslak,Moe's Tavern,You are not my friends. To me you're just mouths drinkin' beers!
+147173,566,96,642000,Lenny Leonard,Moe's Tavern,You can't mean that!
+147174,566,97,643000,Homer Simpson,Moe's Tavern,We don't look at you that way.
+147175,566,98,646000,Moe Szyslak,Moe's Tavern,"Yeah, I-I'm sorry for snappin' at you guys. But, but I'm ruint. I-I'll have to live on my savings here."
+147176,566,99,654000,Moe Szyslak,Moe's Tavern,"All right, who rubbed my nickels?!"
+147177,566,100,656000,Lenny Leonard,Moe's Tavern,"Hey, wait a minute! We can get you a job! There's an opening at the nuclear plant 'cause of that guy that defected to North Korea."
+147178,566,101,663000,Homer Simpson,Moe's Tavern,Good ol' Dae Ho. Used to give me the pickles off his sandwich. And all I had to do was let him copy some keys.
+147179,566,102,670000,Lenny Leonard,Moe's Tavern,"Moe, can you pass a background check?"
+147180,566,103,672000,Moe Szyslak,Moe's Tavern,Ummmmmmmmm... ehhhhhhhh... errrrrrr... ehhhhhhhhh... ehhhhhh sure.
+147181,566,104,680000,Carl Carlson,Moe's Tavern,"Well, then you're in!"
+147182,566,105,681000,Moe Szyslak,Moe's Tavern,"Yeah, how far do they go back?"
+147183,566,106,682000,Lenny Leonard,Moe's Tavern,Six months.
+147184,566,107,684000,Moe Szyslak,Moe's Tavern,"Kay, I'm gonna apply in a week."
+147186,566,109,689000,Lisa Simpson,Springfield Streets,"Ooh, Mom. Someone wants you to give them a ride."
+147187,566,110,692000,Marge Simpson,Springfield Streets,At last! I'll earn money for schlepping!
+147188,566,111,695000,Milhouse Van Houten,Springfield Streets,"Wow, your mom has a job and my Dad still doesn't?"
+147189,566,112,698000,Kirk Van Houten,Springfield Streets,"Just wait till winter comes, son. There'll be driveways to salt. Long, long driveways!"
+147191,566,114,708000,Shauna Chalmers,Springfield,Thanks for the lift. It's nice to know I can get a ride without having to put out.
+147192,566,115,712000,Marge Simpson,Springfield,"You're welcome. And if you really want to get your belly button pierced, go see a professional."
+147193,566,116,718000,Kearney Zzyzwicz,Springfield,"I'm ready for ya, babe."
+147194,566,117,720000,Shauna Chalmers,Springfield,I'm gonna have this done properly at a kiosk in the mall. I'm Shauna.
+147197,566,120,728000,Waylon Smithers,Springfield Nuclear Power Plant,"Welcome to Springfield Nuclear, Szyslak. We'll start you off in janitorial, but there is room for advancement."
+147199,566,121,733000,Moe Szyslak,Springfield Nuclear Power Plant,"Hey, I sure appreciate this, fellas. What you guys did to me, then for me, I'll never forget slash forgive. So, thanks a lot. Also thanks a lot."
+147200,566,122,743000,Nelson Muntz,Springfield Nuclear Power Plant,"What's for dinner, mom?"
+147201,566,123,745000,Marge Simpson,Springfield Nuclear Power Plant,"I'm... I'm sorry, but I'm not your mother."
+147202,566,124,748000,Nelson Muntz,Springfield Nuclear Power Plant,"Hey, I'm the one paying."
+147203,566,125,750000,Marge Simpson,Springfield Nuclear Power Plant,Fine. There's meatloaf...
+147204,566,126,752000,Nelson Muntz,Springfield Nuclear Power Plant,Ooh! What's meatloaf?
+147205,566,127,755000,Groundskeeper Willie,Springfield Nuclear Power Plant,"Left, left, left, leffft, left, left...left, left, uhhh... left..."
+147206,566,128,764000,Gil Gunderson,Springfield Nuclear Power Plant,Flamingoes turn pink from eating shrimp! Cats have over a hundred vocal chords! The Golden Gate Bridge is the longest span between two towers!
+147207,566,129,771000,Marge Simpson,Springfield Nuclear Power Plant,Why are you telling me all these things?
+147208,566,130,773000,Gil Gunderson,Springfield Nuclear Power Plant,Isn't this Cash Cab?
+147209,566,131,774000,Marge Simpson,Springfield Nuclear Power Plant,No!
+147210,566,132,775000,Gil Gunderson,Springfield Nuclear Power Plant,It's never Cash Cab.
+147211,566,133,780000,Dr. Julius Hibbert,Springfield Nuclear Power Plant,Faster!
+147212,566,134,781000,Luigi,Springfield Nuclear Power Plant,Slower!
+147213,566,135,782000,Captain Horatio McCallister,Springfield Nuclear Power Plant,Hard a port!
+147214,566,136,784000,Disco Stu,Springfield Nuclear Power Plant,Disco Stu says hang a U!
+147215,566,137,786000,Mrs. Muntz,Springfield Nuclear Power Plant,Make a Louie up here at the...
+147216,566,138,787000,Lenny Leonard,Springfield Nuclear Power Plant,...stop sign...
+147217,566,139,787000,Barney Gumble,Springfield Nuclear Power Plant,...blood bank...
+147218,566,140,789000,Krusty the Clown,Springfield Nuclear Power Plant,...girl with big...
+147219,566,141,790000,Drederick Tatum,Springfield Nuclear Power Plant,...punching bags...
+147220,566,142,792000,Dr. Nick Riviera,Springfield Nuclear Power Plant,"...so for the love of God, get me to Mexico!"
+147222,566,144,795000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Hey, swabby. You've missed spots there... and another one there... and there... Every other spot is begrimed!"
+147223,566,145,803000,Moe Szyslak,Springfield Nuclear Power Plant,"It's called a checkerboard floor, ya unwrapped mummy."
+147224,566,146,806000,C. Montgomery Burns,Springfield Nuclear Power Plant,You're f...
+147225,566,147,806000,Waylon Smithers,Springfield Nuclear Power Plant,"Sir, the N.R.C. is here for a surprise inspection!"
+147226,566,148,810000,HEAD INSPECTOR,Springfield Nuclear Power Plant,We are gonna search this place from top to bottom.
+147227,566,149,812000,Homer Simpson,Springfield Nuclear Power Plant,That's where all the problems are!
+147228,566,150,814000,Moe Szyslak,Springfield Nuclear Power Plant,"Yeah, I'll handle this. So, you're the head inspector?"
+147229,566,151,817000,HEAD INSPECTOR,Springfield Nuclear Power Plant,Yes I am.
+147198,566,152,818000,Moe Szyslak,Springfield Nuclear Power Plant,"How come on your badge you got a mustache, but now you're not wearin' one, eh?"
+147230,566,153,822000,HEAD INSPECTOR,Springfield Nuclear Power Plant,I was Freddie Mercury in a Queen cover band. But then I got demoted to Brian May.
+147231,566,154,827000,Moe Szyslak,Springfield Nuclear Power Plant,"Yeah, well, I'm thrilled for your musical career and everything, but, uh, we got no way of knowing that this is you."
+147232,566,155,832000,Moe Szyslak,Springfield Nuclear Power Plant,"I mean, we gotta be careful here. This is one them, uh, highly-sensitive joints."
+147233,566,156,838000,HEAD INSPECTOR,Springfield Nuclear Power Plant,It'll take me weeks to grow that mustache back. Or years to get a new badge!
+147234,566,157,843000,Moe Szyslak,Springfield Nuclear Power Plant,"Yeah, well, that's your problem, ain't it?"
+147235,566,158,845000,HEAD INSPECTOR,Springfield Nuclear Power Plant,You will see us again... in God knows when.
+147236,566,159,852000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Young man, how do you fit such brilliance into such an ugly ethnic head?"
+147237,566,160,857000,Moe Szyslak,Springfield Nuclear Power Plant,"Well, if you own a bar, you either keep it clean or learn to deal with inspectors. And Moe don't clean."
+147238,566,161,864000,C. Montgomery Burns,Springfield Nuclear Power Plant,Interesting attitude for a janitor. What say we make you the new supervisor of Sector 7-G?!
+147239,566,162,869000,Moe Szyslak,Springfield Nuclear Power Plant,"Me, a supervisor?! I feel like I overdosed and went to Heaven."
+147241,566,164,879000,SIKH CAB DRIVER,Springfield Streets,Those smile cars are cutting into our business. We used to get über amounts of work giving people Lyfts.
+147242,566,165,886000,Slava,Springfield Streets,I come to America to drive taxi. Now my cab sits empty like Sochi Marriot.
+147243,566,166,891000,JIM IGNATOWSKI,Springfield Streets,"Well, boss... the main problem is Marge Simpson. She's prompt, courteous and a joy to ride with."
+147244,566,167,899000,SIKH CAB DRIVER,Springfield Streets,How do you know so much?
+147245,566,168,901000,JIM IGNATOWSKI,Springfield Streets,"Oh, she, uh, drives me to work every day. And unlike the rest of you cowards, she's not afraid to parallel park!"
+147248,566,171,913000,Moe Szyslak,Springfield Nuclear Power Plant,"Whoa, fellas, that is not acceptable. This is a nuclear plant."
+147249,566,172,919000,Moe Szyslak,Springfield Nuclear Power Plant,Huh... no one was in there.
+147250,566,173,921000,Homer Simpson,Springfield Nuclear Power Plant,"Look Moe, the least you could let me do is anything I want."
+147251,566,174,924000,Moe Szyslak,Springfield Nuclear Power Plant,"All right, let me be honest with yous. After all the money this plant lost on that nitwit Elon Musk, they're lookin' for cutbacks. So I've been goin' over your record."
+147254,566,176,934000,Moe Szyslak,Springfield Nuclear Power Plant,"Yeah, the only reason you haven't been fired is because your file here was holdin' up a sofa that was missin' a leg."
+147255,566,177,940000,Homer Simpson,Springfield Nuclear Power Plant,"Well, that's the logic. Where's the affection?"
+147256,566,178,943000,Moe Szyslak,Springfield Nuclear Power Plant,"Well as supervisor, I can't fraternize with the... uh... what's the word... scum. Anyway, because I am your friend, you are safe. But you're gonna be reassigned."
+147258,566,180,953000,C. Montgomery Burns,Burns's Office,"Smithers, what profit a man if he gain the world and lose his soul. Seriously. I need an amount. In round dollars."
+147259,566,181,962000,Homer Simpson,Burns's Office,Plant-watering guy.
+147260,566,182,964000,C. Montgomery Burns,Burns's Office,"Yes, yes, go ahead. And be careful with the Venus flytrap!"
+147261,566,183,967000,Homer Simpson,Burns's Office,All right.
+147262,566,184,970000,C. Montgomery Burns,Burns's Office,They say you catch more flies with honey. I say with flytraps!
+147263,566,185,974000,Homer Simpson,Burns's Office,What do I do now?
+147264,566,186,976000,C. Montgomery Burns,Burns's Office,"Just lean into it. It'll be over soon, one way or another."
+147265,566,187,979000,Homer Simpson,Burns's Office,"Oh, all right."
+147268,566,190,988000,Moe Szyslak,Springfield Nuclear Power Plant,"Hey guys, you mind if I join you? They ran out of Beaujolais Cru in the executive dining room and I ain't drinkin' white with my coq au freakin' vin!"
+147269,566,191,997000,Lenny Leonard,Springfield Nuclear Power Plant,I think I'd rather sit somewhere else.
+147270,566,192,999000,Carl Carlson,Springfield Nuclear Power Plant,Yeah. I'm gonna take my lunch back to the core.
+147271,566,193,1002000,Moe Szyslak,Springfield Nuclear Power Plant,Now they won't even have lunch with me.
+147272,566,194,1004000,Homer Simpson,Springfield Nuclear Power Plant,"Well, you know people can kinda act like they're in grade school."
+147273,566,195,1008000,Moe Szyslak,Springfield Nuclear Power Plant,"Oh, now you gotta throw your grade school education in my face?!"
+147274,566,196,1011000,Homer Simpson,Springfield Nuclear Power Plant,"You know, Moe, you're a real jerk. I didn't mind so much when it came with beer."
+147275,566,197,1016000,Moe Szyslak,Springfield Nuclear Power Plant,I don't need youse. I'm all the company I need.
+147276,566,198,1023000,Moe Szyslak,Springfield Nuclear Power Plant,I just lost my appetite.
+147278,566,200,1027000,Homer Simpson,Simpson Home,"Marge, which can makes me look cooler? The Drizzler or Mr. Drip?"
+147280,566,202,1033000,Homer Simpson,Simpson Home,"Aw, your leaves are drooping. Here, let me turn that gloom into bloom."
+147282,566,204,1045000,Marge Simpson,Simpson Home,Homer Simpson. Working with those plants is great! It's helped you get in touch with your feminine side.
+147283,566,205,1051000,Homer Simpson,Simpson Home,Feminine?!
+147284,566,206,1053000,Marge Simpson,Simpson Home,I didn't mean to use that word! It's okay to have a feminine side. It's good in fact!
+147287,566,209,1063000,CHAPIN-LIKE SINGER,Springfield Nuclear Power Plant,IT WAS RAINING HARD IN SPRINGFIELD / I NEEDED ONE MORE FARE TO MAKE MY NIGHT
+147288,566,210,1071000,CHAPIN-LIKE SINGER,Springfield Nuclear Power Plant,"I GOT A PUSH NOTIFICATION ON MY SMARTPHONE / PASSENGER AHEAD, RACE: WHITE"
+147290,566,212,1080000,Moe Szyslak,Marge's Car,Mind if we drive in silence for a bit?
+147291,566,213,1082000,Marge Simpson,Marge's Car,Whatever you want.
+147295,566,217,1090000,HARRY CHAPIN-TYPE SINGER,Marge's Car,"I ASKED IF THERE WAS SOMEWHERE I COULD TAKE HIM / HE SAID ""JUST DRIVE ME LADY BLUE"" / I SAID ""I'VE HAD MY SHARE OF UNHAPPY FARES"" / HE SAID ""I SURE MISS SLINGIN' BREW"""
+147296,566,218,1116000,Marge Simpson,Marge's Car,"Moe, I think we'd both be a lot happier if we quit our new jobs."
+147297,566,219,1123000,Moe Szyslak,Marge's Car,"You know, I think you're right there, Midge. I'm gonna build my bar back up better than ever. How hard can it be, eh?"
+147298,566,220,1131000,Moe Szyslak,Marge's Car,Oh God! This is so much worse than I remember.
+147299,566,221,1139000,Slava,Marge's Car,"So, you drop off your lover and go back to stealing our jobs."
+147300,566,222,1143000,Marge Simpson,Marge's Car,He's not my lover!
+147301,566,223,1144000,Moe Szyslak,Marge's Car,Let the man speak!
+147302,566,224,1145000,Slava,Marge's Car,Medallions!
+147303,566,225,1151000,Slava,Marge's Car,Air fresheners!
+147305,566,227,1158000,Moe Szyslak,Marge's Car,"Step away from the social media-enabled, peer-to-peer ride share platform!"
+147307,566,229,1164000,Moe Szyslak,Marge's Car,"Now, promise me you'll leave her be, and wipe down your back seats annually..."
+147308,566,230,1169000,JIM IGNATOWSKI,Marge's Car,Aw come on!
+147309,566,231,1171000,JIM IGNATOWSKI,Marge's Car,Okey-dokey!
+147310,566,232,1173000,Moe Szyslak,Marge's Car,Now beat it!
+147311,566,233,1175000,Moe Szyslak,Marge's Car,"Uh, I think it might be time to hang up the ol' beaded seat cover there."
+147312,566,234,1180000,Marge Simpson,Marge's Car,Yup. And I know a place that could use this smile.
+147315,566,236,1185000,Lenny Leonard,Moe's Tavern,"It's sure great to see you jerking our suds again, Moe."
+147316,566,237,1190000,Moe Szyslak,Moe's Tavern,"Yeah, I figured out that the best way for me to get along with most people is to be kept behind a two foot chunk of solid oak."
+147317,566,238,1197000,Lenny Leonard,Moe's Tavern,Looks more like poplar to me.
+147318,566,239,1199000,Moe Szyslak,Moe's Tavern,Why youse! Correcting me on my knowledge of wood products!
+147320,566,241,1205000,Homer Simpson,Moe's Tavern,So good to be back.
+147322,566,243,1212000,Moe Szyslak,Moe's Tavern,"Well, I'm back where I belong, eh?"
+147323,566,244,1214000,SMILE,Moe's Tavern,You're not alone anymore.
+147324,566,245,1216000,Moe Szyslak,Moe's Tavern,What the Hell was that?!
+147325,566,246,1217000,SMILE,Moe's Tavern,"Oh, you'll find out."

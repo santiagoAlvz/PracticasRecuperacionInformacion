@@ -1,0 +1,247 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+131824,508,1,23000,Narrator,Springfield,"See that town? Goes by the name o' Springfield. Birthplace of the brass knuckle, the Nigerian Prince scam, and putting a tomato on your grilled cheese sandwich. Our story begins not long ago, on what seemed like a typical day."
+131826,508,3,42000,Chief Wiggum,Springfield Park,"Ralphie, please. That's not for people, son."
+131828,508,5,47000,Chief Wiggum,Springfield Park,"Aww, he's a dumb kid, but he's an above-average dog. Roll over, son. Aw, nobody saw."
+131829,508,6,54000,Narrator,Springfield Park,"But little did they know, a change was coming. First, the creatures of the earth sensed it, then the fish of the deep. Then the Mormons got a heads up, then everybody else."
+131831,508,8,67000,Farmer,Farm,"Strange doin's, mother. Horses are spooked, cows ain't milkin', and look what the chickens laid."
+131832,508,9,73000,Farmwife,Farm,Sparkle eggs?!
+131833,508,10,74000,Farmer,Farm,Storm's a-comin'.
+131834,508,11,77000,Farmwife,Farm,"'Tain't no storm, pa. It's The Lady Gaga Express!"
+131835,508,12,85000,Pistons,Farm,She's-a-star! She's-a-star! She's-a-star! She's-a-star!
+131837,508,14,90000,Conductor,GAGA EXPRESS,"Presenting the Queen of the Hottieverse. Appearing courtesy of Interscope Records, Lady Gaga!"
+131838,508,15,102000,Lady Gaga,GAGA EXPRESS,At ease.
+131839,508,16,115000,Lady Gaga,GAGA EXPRESS,"Conductor, you know the rules. Take off some clothes."
+131840,508,17,118000,Conductor,GAGA EXPRESS,"Oh, um, yes ma'am, sorry ma'am."
+131841,508,18,121000,Lady Gaga,GAGA EXPRESS,"Now, what's our status?"
+131842,508,19,122000,Conductor,GAGA EXPRESS,"We are about to pass through... uh, Springfield."
+131843,508,20,124000,Lady Gaga,GAGA EXPRESS,Springfield? What's their deal?
+131844,508,21,127000,Conductor,GAGA EXPRESS,"Let's see, quiet suburb... home of the Tomb of the Unknown Mascot... has the lowest self-esteem of any place on the planet."
+131845,508,22,135000,Lady Gaga,GAGA EXPRESS,Really?
+131846,508,23,136000,Lady Gaga,GAGA EXPRESS,"That's so sad. And as entertainers it is our solemn duty to cheer them up, for a little while."
+131847,508,24,143000,Manager,GAGA EXPRESS,"Gaga, it's my job to keep you away from ugly bumps on the map like Springfield. Don't worry, we'll get you right on a plane."
+131848,508,25,148000,Lady Gaga,GAGA EXPRESS,No! Don't you remember what happened at LaGuardia?
+131849,508,26,155000,Lady Gaga,GAGA EXPRESS,Ready.
+131850,508,27,156000,Tsa Agent,GAGA EXPRESS,"Yeah, well uh, you missed your flight."
+131851,508,28,158000,Lady Gaga,GAGA EXPRESS,Then we'll party on the boarding ramp!
+131852,508,29,165000,Tsa Agent,GAGA EXPRESS,Wait! I quit!
+131853,508,30,167000,Senior Tsa Agent,GAGA EXPRESS,We spend ninety minutes training 'em and off they go.
+131854,508,31,173000,Lady Gaga,GAGA EXPRESS,I just can't ignore a billboard in pain. We're stopping in Springfield!
+131855,508,32,175000,Manager,GAGA EXPRESS,But...
+131856,508,33,177000,Lady Gaga,GAGA EXPRESS,No buts!
+131858,508,35,182000,Narrator,Springfield Elementary School,"Well, Lady Gaga couldn't arrive soon enough for one Lisa Simpson..."
+131859,508,36,186000,Seymour Skinner,Springfield Elementary School,"Now let's turn to the ever-unpopular ""Popularity Awards"" -- the awards voted by students, in judgment of their peers! No way that can go wrong! First up, Campus Clown..."
+131861,508,38,198000,Seymour Skinner,Springfield Elementary School,Bart Simpson!
+131862,508,39,204000,Lisa Simpson,Springfield Elementary School,That's my brother! Four years out of four.
+131863,508,40,209000,Bart Simpson,Springfield Elementary School,Prank you! Prank you very much!
+131865,508,42,216000,Martin Prince,Springfield Elementary School,I fail to see the honor in this. Aren't awards shows rather silly?
+131866,508,43,221000,Bart Simpson,Springfield Elementary School,"What?! Without awards shows, how would I know what movie has the ""best beheading,"" or that ""Glee"" is a comedy?"
+131867,508,44,227000,Seymour Skinner,Springfield Elementary School,"And now the award for ""Least Popular Student."" Lisa Simpson!"
+131868,508,45,231000,Lisa Simpson,Springfield Elementary School,"What?! ""Least Popular?"" I gotta go."
+131870,508,46,237000,Seymour Skinner,Springfield Elementary School,"You probably should accept it, Lisa. They'll go easier on you if you do."
+131871,508,47,243000,Lisa Simpson,Springfield Elementary School,Um... thank you for noticing me?
+131872,508,48,248000,Sherri Mackleberry,Springfield Elementary School,She actually accepted it!
+131873,508,49,250000,Lisa Simpson,Springfield Elementary School,You said they'd take it easy on me!
+131874,508,50,253000,Seymour Skinner,Springfield Elementary School,I know very little about children.
+131876,508,52,257000,Lady Gaga,LADY GAGA EXPRESS,We've gotta cheer up a whole town. Where's the dress I wore when I met the Pope?
+131877,508,53,262000,Wardrobe Man,LADY GAGA EXPRESS,"It's nice, but I saw Jennifer Lopez wearing it."
+131878,508,54,266000,Lady Gaga,LADY GAGA EXPRESS,Burn it! Burn it now!
+131879,508,55,267000,Dangling Accountant,LADY GAGA EXPRESS,Help! Helllp!
+131880,508,56,270000,Dangling Accountant,LADY GAGA EXPRESS,I've been on here since Chicago! I just want my life back!
+131881,508,57,273000,Lady Gaga,LADY GAGA EXPRESS,No negativity!
+131882,508,58,273000,Dangling Accountant,LADY GAGA EXPRESS,"Oh, you're right! I'm missing a terrible winter!"
+131884,508,60,280000,Marge Simpson,Simpson Home,"...and that's how Berber carpet got its name, according to some. Lisa, how was your day?"
+131885,508,61,284000,Lisa Simpson,Simpson Home,"Um, can I be excused from holding up my end of the conversation?"
+131887,508,63,288000,Homer Simpson,Simpson Home,What's wrong with her?
+131888,508,64,290000,Bart Simpson,Simpson Home,She just found out no one likes her. I thought she knew!
+131889,508,65,293000,Milhouse Van Houten,Simpson Home,"Hey, Lisa! Maybe you'd feel a little better if you read the Daily Fourth Gradian message board, huh?"
+131890,508,66,299000,Lisa Simpson,Simpson Home,"Let's see... ""Uncensored Jump-rope Chants""... Oh, there's a whole thread labeled ""Lisa Simpson!"""
+131891,508,67,309000,Bart Simpson,Simpson Home,Ay carumba! Somebody's actually on your side!
+131892,508,68,314000,Bart Simpson,Simpson Home,"""Lisa doesn't judge other people. Why should we judge her?"" It's signed, ""Truth Teller."""
+131893,508,69,316000,Marge Simpson,Simpson Home,"Whoever this ""Truth Teller"" is, I'm a fan. It takes a lot of courage to post nice things anonymously."
+131894,508,70,326000,Lisa Simpson,Simpson Home,"Y'know, it seems like more than a coincidence that Milhouse brought it to our attention."
+131895,508,71,332000,Milhouse Van Houten,Simpson Home,"Well, I certainly wish I was Truth Teller. But if I was, you'd know, because I can't keep a secret. I sleep under my bed every night 'cause I'm scared of the cars from ""Cars"" -- if gasoline is their food then why do they have teeth?!"
+131897,508,73,349000,Sherri Mackleberry,Springfield Elementary School,"So Lisa, I guess you're not as unpopular as we thought."
+131898,508,74,353000,Lisa Simpson,Springfield Elementary School,Yep. Message boards are never wrong.
+131899,508,75,355000,Terri Mackleberry,Springfield Elementary School,"Well... um, maybe we should skip rope together."
+131900,508,76,358000,Lisa Simpson,Springfield Elementary School,Dutch?
+131901,508,77,358000,Terri Mackleberry,Springfield Elementary School,Double Dutch.
+131902,508,78,360000,Lisa Simpson,Springfield Elementary School,Forgive a fool her tears.
+131903,508,79,363000,Bart Simpson,Springfield Elementary School,"Hey Lis, some fifth graders are having a make-your-own pizza party at Flesh-In-The-Pan Pizza, and wanted me to invite you."
+131904,508,80,368000,Lisa Simpson,Springfield Elementary School,Fifth-graders? Ooh-la-la! They get to put their desks in a circle!
+131905,508,81,373000,Bart Simpson,Springfield Elementary School,And read books where the parents are divorced. That joint is jumpin'.
+131906,508,82,377000,Lisa Simpson,Springfield Elementary School,"So, when's the party?"
+131907,508,83,377000,Bart Simpson,Springfield Elementary School,"""Lisa rocks, and so does her rock collection."""
+131908,508,84,383000,Lisa Simpson,Springfield Elementary School,That's mine!
+131909,508,85,386000,Bart Simpson,Springfield Elementary School,This notebook is full of things Truth Teller said!
+131910,508,86,389000,Lisa Simpson,Springfield Elementary School,Give that back!
+131911,508,87,389000,Bart Simpson,Springfield Elementary School,"This one says ""post next Friday."" Oh my God! You're Truth Teller!"
+131913,508,89,397000,Nelson Muntz,Springfield Elementary School,"Lisa, what you did is like my mom sticking ten bucks in her own g-string."
+131914,508,90,402000,Jimbo Jones,Springfield Elementary School,Truth Teller? More like Lie Smeller!
+131915,508,91,405000,Kids,Springfield Elementary School,Lie Smeller! Lie Smeller!
+131916,508,92,408000,Jimbo Jones,Springfield Elementary School,"Oh great, it stuck!"
+131918,508,94,419000,Lady Gaga,LADY GAGA EXPRESS,Take five.
+131919,508,95,422000,Lady Gaga,LADY GAGA EXPRESS,"Hey, easy on the soda. I don't want gassy demons like last night. Jerry."
+131920,508,96,429000,Lady Gaga,LADY GAGA EXPRESS,"Oh! Wait a minute! No! No, no! Brrrrrr make it stop! Oh!"
+131921,508,97,439000,Lady Gaga,LADY GAGA EXPRESS,Someone in Springfield needs my help... Light up the after-bras!
+131922,508,98,449000,Cletus Spuckler,LADY GAGA EXPRESS,"That's it, I am off of this stuff."
+131923,508,99,452000,Brandine Del Roy,LADY GAGA EXPRESS,"Me too, sweetheart."
+131924,508,100,454000,Brandine Del Roy,LADY GAGA EXPRESS,Kids?
+131925,508,101,455000,SPUCKLER KID,LADY GAGA EXPRESS,"Yes, momma."
+131926,508,102,457000,Brandine Del Roy,LADY GAGA EXPRESS,No exceptions!
+131929,508,104,465000,Kent Brockman,Springfield,"Kent Brockman reporting live from the Springfield rail yards, where Lady Gaga's fabulous freighter has bumped and grinded its way into town. Suffice it to say, this is the most culturally significant train to stop here since the McKinley funeral cortege paused to pick up casket ice!"
+131930,508,105,485000,Marge Simpson,Springfield,"Now sweetie, don't make a big deal out of this. I stopped reading after ""TOP STUDENT""."
+131931,508,106,488000,Homer Simpson,Springfield,You wanna honk your jazz tube?
+131932,508,107,493000,Lisa Simpson,Springfield,"What is the point? I think this is the end of me. All I had was my integrity. And now that's gone. I'm sorry, I'm so sorry. I try not to cry till you're asleep."
+131933,508,108,509000,Homer Simpson,Springfield,I appreciate that.
+131935,508,110,509000,Lisa Simpson,Springfield,"Look, if I could just spend a few days in my room without anyone trying to cheer me up, I think I might have a chance to..."
+131936,508,111,520000,Homer Simpson,Springfield,"Hey, why don't we go see Lady Gaga? That'll turn your frown upside down."
+131937,508,112,524000,Lisa Simpson,Springfield,It's not a frown. It is a straight line of resignation. Looks just the same upside down.
+131938,508,113,530000,Homer Simpson,Springfield,What are you talking about? Y-you're right!
+131939,508,114,533000,Homer Simpson,Springfield,Voop! Voop! Voop! Voop!
+131940,508,115,535000,Lisa Simpson,Springfield,"Dad, if you really wanna help, please stop trying to help."
+131941,508,116,539000,Homer Simpson,Springfield,"I will, but you know me and my crazy number thing where I always have to get to seventeen. Voop! Voop! Voop! Voop! Voop! Voop! Voop! Voop! Voop! Voop! Whoops, I lost count. Better start again. Voop! Voop! Voop! Voop!"
+131943,508,118,553000,Crowd,Train Station,Ga-ga-oo-la-la! Ga-ga-ra-ma-ma!
+131944,508,119,558000,CROWD OW,Train Station,Ga-ga-ra-ma-ma! Ga-ga-ra-ma-ma!
+131945,508,120,558000,Homer Simpson,Train Station,"Hey Lisa, come on."
+131946,508,121,560000,Lisa Simpson,Train Station,"I'm sorry, I don't really want to be here."
+131947,508,122,566000,Lady Gaga,Train Station,"Claws up, Springfield! Never forget you're all my Little Monsters!"
+131948,508,123,571000,Moe Szyslak,Train Station,"Uh, actually, I'm half monster, half Armenian. Pick your poison."
+131949,508,124,575000,Lady Gaga,Train Station,"And you should love yourselves as much as I love you, because..."
+131950,508,125,579000,Moe Szyslak,Train Station,Tell us in song!
+131951,508,126,579000,Lady Gaga,Train Station,BECAUSE...
+131952,508,127,581000,Moe Szyslak,Train Station,"With theatricality! Come on, I woke up for this!"
+131953,508,128,586000,Crowd,Train Station,Four! Three! Two!
+131928,508,129,590000,Homer Simpson,Train Station,Where are they going with this?
+131954,508,130,591000,Crowd,Train Station,One!
+131955,508,132,622000,Lady Gaga,Train Station,BUT EVERY MONSTER NEEDS TO FIND THAT SECRET DEEP INSIDE / THAT TRANSFORMS DOCTOR JEKYLL INTO SEXY MR. HYDE
+131956,508,133,641000,Lady Gaga,Train Station,ALL MY MONSTERS ARE BEAUTIFUL...
+131957,508,134,645000,Lady Gaga,Train Station,DISCO STU-TIFUL...
+131958,508,135,647000,Lady Gaga,Train Station,SQUARE ROOT-IFUL...
+131959,508,136,649000,Lady Gaga,Train Station,OLD COOT-IFUL...
+131960,508,137,651000,Grampa Simpson,Train Station,"I love you, Lady Zsa Zsa!"
+131961,508,138,653000,Lady Gaga,Train Station,MONSTERS DON'T NEED IMPLANTS OR A BITCHIN' MONSTER CAR / MONSTERS ONLY NEED TO LOVE THE MONSTERS THAT THEY ARE
+131962,508,139,663000,Lady Gaga,Train Station,OH YEEAHH
+131963,508,140,664000,Lady Gaga,Train Station,Gaga / Dada / Jawa / Peace!
+131964,508,141,674000,Kearney Zzyzwicz,Train Station,Lie Smeller! Lie Smeller!
+131966,508,143,680000,Lady Gaga,Train Station,Does everybody love themselves?
+131968,508,145,684000,Lenny Leonard,Train Station,That kind of thing sounds hollow from anyone but you!
+131969,508,146,690000,Lady Gaga,Train Station,Now we have to get going.
+131970,508,147,691000,Lady Gaga,Train Station,Wait a minute...
+131971,508,148,691000,Lady Gaga,Train Station,"No! No, no!"
+131972,508,149,693000,Lady Gaga,Train Station,"You! What's wrong, honey?"
+131973,508,150,704000,Lisa Simpson,Train Station,"Please, I've had enough attention for one day!"
+131974,508,151,708000,Lady Gaga,Train Station,"Yo, lighting! I can't see the girl who's had enough attention!"
+131975,508,152,715000,Lady Gaga,Train Station,We should go to your house and talk! Incognito!
+131976,508,153,718000,Lisa Simpson,Train Station,Oh God.
+131977,508,154,721000,Lady Gaga,Train Station,"Psst, it's me, Gaga. But no one must know."
+131978,508,155,725000,Voice Chip,Train Station,Gaga. Gaga. Gaga.
+131980,508,157,728000,Lady Gaga,Evergreen Terrace,So peaceful. Just the buzzing of the paparazzi.
+131981,508,158,734000,Lady Gaga,Evergreen Terrace,"Hey, Gary. How's your wife and kids?"
+131982,508,159,736000,Manhole Paparazzo,Evergreen Terrace,Still ashamed of me. Big smile!
+131983,508,160,738000,Lisa Simpson,Evergreen Terrace,This is where I live.
+131984,508,161,740000,Ned Flanders,Evergreen Terrace,"Well, hello! It's one of those music industry superstars who's turning our innocent children into ladies of the night."
+131985,508,162,742000,Lady Gaga,Evergreen Terrace,What sweater drawer did you crawl out of?
+131986,508,163,749000,Ned Flanders,Evergreen Terrace,"Name's Ned Flanders, I've heard of you. Haven't seen so much skin since shedding season on a snake farm."
+131987,508,164,755000,Lady Gaga,Evergreen Terrace,But all I'm saying is that everyone is beautiful--
+131989,508,165,758000,Ned Flanders,Evergreen Terrace,"Yes, but Jesus said that... pretty much the same thing. Darnit, the Bible said the Devil would be attractive!"
+131990,508,166,765000,Lady Gaga,Evergreen Terrace,What makes you think I'm the Devil?
+131991,508,167,769000,Ned Flanders,Evergreen Terrace,"Unless you're gonna slap some wieners on those, turn 'em off!"
+131992,508,168,773000,Ned Flanders,Evergreen Terrace,"Joke's on you, I needed a trim!"
+131994,508,170,784000,Lady Gaga,Simpson Home,Bastards!
+131995,508,171,785000,Lady Gaga,Simpson Home,"Lisa, look at me. So what if your number one supporter is you? That's how it should be. I had some very tough times myself before I became a superstar at age twenty-two. Everything is gonna be fine. You better yet?"
+131996,508,172,800000,Lady Gaga,Simpson Home,"Sorry, gotta answer this text."
+131997,508,173,804000,Lisa Simpson,Simpson Home,"Please, take your time."
+131998,508,174,807000,Lady Gaga,Simpson Home,You know what you need?
+131999,508,175,809000,Lisa Simpson,Simpson Home,Solitude?
+132000,508,176,809000,Lady Gaga,Simpson Home,Flash mob.
+132001,508,177,814000,Lady Gaga,Simpson Home,"Now, Lisa, if that didn't fundamentally change who you are, I don't know what."
+132002,508,178,826000,"""Just Stamp the Ticket"" Man",Simpson Home,You idiots! She meant we should disperse.
+132003,508,179,832000,Lady Gaga,Simpson Home,"Lisa, you un-tattooed little miracle, I'm not leaving here until I restore your sense of hope."
+132004,508,180,839000,Lady Gaga,Simpson Home,"Come on, say something."
+132005,508,181,839000,Lisa Simpson,Simpson Home,"Let me explain. I have a chance for a grim but tolerable life, but only if I give up hope. Now if you don't mind, and with all due worship, I would like to be alone."
+132006,508,182,850000,Bart Simpson,Simpson Home,"Lady Gaga, meet your biggest threat: Baby Googoo."
+132007,508,183,856000,Lisa Simpson,Simpson Home,Can I please be alone?
+132008,508,184,869000,Lisa Simpson,Simpson Home,"Well, it worked once."
+132009,508,185,877000,Lady Gaga,Simpson Home,"So, any ideas about Lisa?"
+132010,508,186,877000,Marge Simpson,Simpson Home,I never have any idea what to do for Lisa. To be the mother of someone who's so smart and so sensitive and who beautifully plays an instrument I don't really care for. It's so hard.
+132011,508,187,896000,Marge Simpson,Simpson Home,"I wish I was one of those young women who could just wave their hands in front of their eyes and not cry, 'cause it doesn't work for me."
+132014,508,190,909000,Lady Gaga,Simpson Home,"Marge, take it easy."
+132016,508,192,909000,Lady Gaga,Simpson Home,It's just human contact.
+131988,508,193,913000,Marge Simpson,Simpson Home,I'm afraid handholding isn't going to cheer me up.
+132018,508,194,917000,Lady Gaga,Simpson Home,"Well, maybe this will."
+132019,508,195,922000,Marge Simpson,Simpson Home,Homer!
+132021,508,197,924000,Homer Simpson,Simpson Master Bedroom,Wow. Wow. This is like the night Hillary won the New Hampshire Primary.
+132023,508,199,931000,Marge Simpson,Simpson Home,Lisa snuck out.
+132024,508,200,933000,Lady Gaga,Simpson Home,I'm going after her.
+132025,508,201,933000,Marge Simpson,Simpson Home,What are you gonna say?
+132026,508,202,938000,Lady Gaga,Simpson Home,I'll just tell her that...
+132027,508,203,940000,Lady Gaga,Simpson Home,"Stop it, Homer! Some of that meat is me."
+132028,508,204,941000,Homer Simpson,Simpson Home,Can I just trim the hem?
+132029,508,205,944000,Lady Gaga,Simpson Home,It's yours.
+132031,508,207,950000,Bart Simpson,Springfield,"Oh good, she's playing."
+132032,508,208,952000,Milhouse Van Houten,Springfield,"Not so good. It's ""Lisa Roulette."""
+132033,508,209,952000,Nelson Muntz,Springfield,Don't let her getcha!
+132034,508,210,958000,Kearney Zzyzwicz,Springfield,Her eyes shoot loser lasers!
+132035,508,211,965000,Egg Bearers,Springfield,There is no over the top... There is no over the top...
+132036,508,212,968000,Jimbo Jones,Springfield,"Run! With an egg that big, there's gotta be an even bigger chicken!"
+132037,508,213,975000,Lady Gaga,Springfield,Lisa?
+132038,508,214,977000,Lady Gaga,Springfield,Lisa! Listen to me. This pity party's being shut down by the smile police. Here's what you're gonna do:
+132039,508,215,985000,Lisa Simpson,Springfield,Why do you keep telling me what I'm gonna do? This isn't about me.
+132040,508,216,989000,Lady Gaga,Springfield,"Well, who else would it be about?"
+132041,508,217,989000,Lisa Simpson,Springfield,"You! It's about Hello, hello, Springfield. It's me, Gaga! Why is everyone looking at my purple hair full of bluebirds?"
+132042,508,218,991000,Lisa Simpson,Springfield,"Well, I denounce thee!"
+132043,508,219,991000,Lady Gaga,Springfield,Wha?!
+132044,508,220,1005000,Lisa Simpson,Springfield,I denounce thee for giving people ambitions they cannot fulfill! And I denounce thee for positing a world where social acceptance and walking on heels are easy!
+132045,508,221,1014000,Egg Bearer,Springfield,"Please, may we kill the kid?!"
+132046,508,222,1017000,Lisa Simpson,Springfield,I denounce thee! I denounce thee! I denounce thee!
+132047,508,223,1020000,Lady Gaga,Springfield,"Whoa. Easy, little monster."
+132048,508,224,1023000,Lisa Simpson,Springfield,"Don't ""monster"" me."
+132050,508,226,1027000,Lady Gaga,Springfield,Whatever you say.
+132051,508,227,1033000,Lisa Simpson,Springfield,Are you crying... glitter?
+132052,508,228,1035000,Lady Gaga,Springfield,Tiny diamonds. Hurts like hell.
+132054,508,229,1038000,Egg Bearers,Springfield,Gaga-Gaga-Gaga-Gaga-Gaga--
+132056,508,231,1045000,Homer Simpson,Simpson Home,"Okay Lisa, comin' up to make things better!"
+132057,508,232,1048000,Homer Simpson,Simpson Home,"Okay, I'm almost there... upward, ever upward... stay hydrated... I'm on the wrong tree... Okay, try again... here we go, okay..."
+132058,508,233,1061000,Homer Simpson,Simpson Home,"Lisa, can you come down?"
+132061,508,236,1067000,Homer Simpson,Bart's Treehouse,"Sweetie, I've been thinking. Now, this all started because you used a fake name to defend yourself. The problem's not that you were cheating...it's that you got caught."
+132062,508,237,1081000,Homer Simpson,Bart's Treehouse,"I cheat on my diet but nobody knows 'cause the damage is on the inside and the first warning sign is sudden death. So, honey, what do you say?"
+132063,508,238,1091000,Lisa Simpson,Bart's Treehouse,"Dad, thank you. Like always, the fact that I could tune you out without fearing I'd miss out on something, gave me the time to take stock, and realize how ungrateful I have been. Which means I've got a train to catch."
+132064,508,239,1105000,Homer Simpson,Bart's Treehouse,Parenting. It's the one job you always know you're doing right.
+132066,508,241,1112000,Lady Gaga,Springfield Union Station,"So long, Springfield. You are my Waterloo."
+132068,508,243,1117000,Lady Gaga,Springfield Union Station,And now I'm just going to lie in bed and eat Fruit Roll-ups.
+132069,508,244,1121000,Comic Book Guy,Springfield Union Station,Why is she doing in defeat what I do in victory?
+132070,508,245,1128000,Lisa Simpson,Springfield Union Station,Gaga!
+132071,508,246,1129000,Lady Gaga,Springfield Union Station,Lisa?
+132072,508,247,1130000,Lady Gaga,Springfield Union Station,Why are you here?
+132073,508,248,1132000,Lisa Simpson,Springfield Union Station,To thank you!
+132074,508,249,1133000,Lady Gaga,Springfield Union Station,For what?
+132075,508,250,1134000,Lisa Simpson,Springfield Union Station,"Look at me! You did help me, by allowing me to inappropriately focus eight years of rage and rejection on you. It was like a great sneeze. And now I can say what's good about me. And I can say it as Lisa Simpson! Just not that loud."
+132076,508,251,1148000,Lady Gaga,Springfield Union Station,Go ahead.
+132077,508,252,1150000,Lisa Simpson,Springfield Union Station,"Well, I'm smart, nice, tolerant, funny but not ""mean funny,"" and I never forget a birthday, even for kids who move away."
+132078,508,253,1157000,Lady Gaga,Springfield Union Station,"Now Lisa, there's only one last thing you have to do to be a Little Monster!"
+132079,508,254,1161000,Lisa Simpson,Springfield Union Station,I'll do anything but sing!
+132080,508,255,1163000,Lady Gaga,Springfield Union Station,You're gonna sing!
+132081,508,256,1172000,Lisa Simpson,Springfield Union Station,"I USED TO THINK THAT I WAS STUPID, WORTHLESS, WEAK, AND WRONG"
+132082,508,257,1177000,Lisa Simpson,Springfield Union Station,A MOCKINGBIRD WITHOUT A SONG...
+132083,508,258,1180000,Lisa Simpson,Springfield Union Station,I WAS SMALL INSIDE AND LACKING PRIDE...
+132084,508,259,1184000,Lisa Simpson,Springfield Union Station,ON A ONE-WAY TRAIN TO BE MILHOUSE'S BRIDE...
+132085,508,260,1187000,Milhouse Van Houten,Springfield Union Station,End the song! End it right here!
+132086,508,261,1190000,Lisa Simpson,Springfield Union Station,"I LOVE NPR, AND JAZZ GUITAR..."
+132087,508,262,1192000,Lisa Simpson,Springfield Union Station,SOME DAY I'LL DESIGN A SOLAR CAR!
+132088,508,263,1194000,Lisa Simpson,Springfield Union Station,"THAT'S RIGHT, I'M LISA SIMPSON, SUPERSTAR!"
+132089,508,264,1198000,Lady Gaga,Springfield Union Station,YOU'VE GOT A GREAT BIG HEART
+132090,508,265,1200000,Lady Gaga,Springfield Union Station,IT'S AT THE TOP OF MY CHART...
+132091,508,266,1204000,Lisa Simpson,Springfield Union Station,LISA SIMPSON / LISA SIMPSON
+132092,508,267,1208000,Lisa Simpson,Springfield Union Station,LISA SIMPSON SUPERSTAR!
+132093,508,268,1211000,Lisa Simpson,Springfield Union Station,LISA SIMPSON / LISA SIMPSON...
+132094,508,269,1215000,Lisa Simpson,Springfield Union Station,LISA SIMPSON SUPERSTAR!
+132095,508,270,1218000,Lady Gaga,Springfield Union Station,YOU'RE A SUPERSTAR!
+132096,508,271,1221000,Moe Szyslak,Springfield Union Station,"Wait, wait! Waiiit!"
+132097,508,272,1226000,Moe Szyslak,Springfield Union Station,Can you help me with my self-esteem?
+132098,508,273,1228000,Lady Gaga,Springfield Union Station,I'm not that good.
+132099,508,274,1229000,Moe Szyslak,Springfield Union Station,"Right, gotcha."
+132101,508,276,1234000,Lisa Simpson,Springfield Elementary School,"And the best thing is, even if they weren't waving, it would be okay."
+132103,508,278,1239000,Narrator,Springfield,"I bet a lot of folks are wondering, did this story really happen? Well, it did. And I know because I was one of Gaga's dancers. The one with the spangliest crotch."
+132105,508,280,1251000,Grampa Simpson,Springfield,Higher!
+132106,508,281,1261000,Announcer,Springfield,"I'm speaking fast because I'm so excited. Seeing Maggie Simpson in her first starring role in ""The Longest Daycare"" in 3D before Ice Age Continental Drift, only in theaters! We've already done the hardest part: making the poster!"
+132107,508,282,1261000,Homer Simpson,Springfield,"I LOVE MY HOMER FACE YEAH THAT'S WHAT I SAID / RIGHT WHERE IT SHOULD BE ON THE FRONT OF MY HEAD / STUBBLE, MUZZLE, OVERBITE, TWO EYES THAT REALLY BUG / THESE ARE THE COMPONENTS OF MY HOMER-RIFFIC MUG / D'OH, OOOH, D'OH, OOOH, / I SHAVE IT CLOSE, TRIM HAIRS FROM MY NOSE / D'OH, OOOH, D'OH, OOOH, I CLEAN MY EARS, 'CAUSE THAT'S HOW I HEARS / I LIKE MY / I LIKE MY / I REALLY LIKE MY HOMER FACE"

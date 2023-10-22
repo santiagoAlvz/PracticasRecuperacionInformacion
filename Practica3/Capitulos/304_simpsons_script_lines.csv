@@ -1,0 +1,227 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+77791,304,1,29000,Lisa Simpson,Simpson Home,"Come on, come on, let's get to the beach!"
+77792,304,2,32000,Marge Simpson,Simpson Home,Hold your horses. I was up all night fishing out the drawstring from your father's swimsuit.
+77793,304,3,38000,Homer Simpson,Simpson Home,It came out again.
+77795,304,5,42000,Lisa Simpson,Simpson Home,"Well, I'm all set. I'm gonna be following the latest designs from Modern Sandcastle magazine."
+77796,304,6,48000,Bart Simpson,Simpson Home,"Well, I'm all set, too."
+77797,304,7,52000,Marge Simpson,Simpson Home,Then all that's left is to protect Maggie from the sun.
+77798,304,8,64000,Bart Simpson,Simpson Home,I think she needs a diaper change.
+77799,304,9,67000,Marge Simpson,Simpson Home,"Well, it ain't happening today."
+77801,304,11,70000,Milhouse Van Houten,Beach,"Look, everybody! Here they come!"
+77802,304,12,73000,Mayor Joe Quimby,Beach,"Once again we celebrate Springfield's most beloved event. For each year, on the third Tuesday of May Sweeps, we witness the return of the stinging red jellyfish!"
+77806,304,16,91000,Lisa Simpson,Beach,What a sight! It happens every year like the swallows returning to Capistrano.
+77807,304,17,96000,Bart Simpson,Beach,Or the Fox Network getting a new President.
+77808,304,18,98000,Ralph Wiggum,Beach,I made a new friend!
+77809,304,19,105000,Ralph Wiggum,Beach,"I'm going to Africa, to see lions and giraffes and monkeys and Santa and gorillas and..."
+77810,304,20,114000,Little Hibbert Girl,Beach,"Daddy, why is everyone so happy the jellyfish are back?"
+77811,304,21,118000,Dr. Julius Hibbert,Beach,"Well, in the old days, people thought jellyfish venom had curative properties. Now we know it just makes things a whole lot worse."
+77812,304,22,125000,Hibbert Boy,Beach,Like laser eye surgery?
+77813,304,23,126000,Dr. Julius Hibbert,Beach,Exactly.
+77816,304,26,129000,Big Band Singer,SPRINGFIELD BEACH,"JELLYFISH, ALONG YOU CAME / AND RIGHT AWAY I'M STUNG...SWEET WORDS I LONG TO WHISPER / BUT YOU'VE PARALYZED MY TONGUE."
+77817,304,27,147000,Marge Simpson,SPRINGFIELD BEACH,"Oh, what a magical evening. The moonlight, the music, the water..."
+77818,304,28,154000,Homer Simpson,SPRINGFIELD BEACH,"Enough talk. Dip me, my love."
+77820,304,30,160000,Homer Simpson,SPRINGFIELD BEACH,Lower. Lower!
+77822,304,32,166000,Homer Simpson,SPRINGFIELD BEACH,Lower!
+77823,304,33,167000,Seymour Skinner,SPRINGFIELD BEACH,"Ah, this is as romantic as the night I proposed."
+77824,304,34,171000,Edna Krabappel-Flanders,SPRINGFIELD BEACH,Maybe we can have this band play at our wedding.
+77825,304,35,173000,Seymour Skinner,SPRINGFIELD BEACH,I was kinda hoping we could use this audio cassette.
+77826,304,36,176000,Edna Krabappel-Flanders,SPRINGFIELD BEACH,"Seymour, we've got to have a band."
+77827,304,37,179000,Seymour Skinner,SPRINGFIELD BEACH,"Fine, but no cake."
+77828,304,38,181000,Chief Wiggum,SPRINGFIELD BEACH,"Sarah, you're as lovely as the day I first arrested you."
+77829,304,39,185000,Sarah Wiggum,SPRINGFIELD BEACH,"Oh, Clancy."
+77830,304,40,186000,Chief Wiggum,SPRINGFIELD BEACH,"You know, I planted that crystal meth just to meet you. I was so shy."
+77831,304,41,193000,Ned Flanders,SPRINGFIELD BEACH,"Well, Sea Captain, looks like you and I are sailin' solo tonight."
+77832,304,42,196000,Captain Horatio McCallister,SPRINGFIELD BEACH,Arrr you hitting on me? 'Cause I don't do that... on land.
+77833,304,43,202000,Ned Flanders,SPRINGFIELD BEACH,"Well, guess I might as well head back to my store. I've got a date with some twins: my state and federal tax forms."
+77834,304,44,212000,Marge Simpson,SPRINGFIELD BEACH,Poor Ned. This is his first Jellyfish Festival alone.
+77835,304,45,217000,Homer Simpson,SPRINGFIELD BEACH,"I know, and it doesn't get any easier from here. There's the Tongue-Kissing Festival... Cinco de Ocho... The Hobo Oscars... days just made for lovers. Not widowers, lovers."
+77840,304,50,249000,Ned Flanders,Leftorium,"""Form of business?"" Sole proprietorship. ""Owner's marital status?"" Happily married... to a dead woman."
+77841,304,51,260000,Woman,Leftorium,"Excuse me, are you open?"
+77842,304,52,261000,Ned Flanders,Leftorium,"Mm hmm! Open as a tomb on Easter. Now, what can I ding dong diddily do for ya?"
+77843,304,53,266000,Woman,Leftorium,"Boy, they don't make 'em like you in L.A."
+77844,304,54,269000,Ned Flanders,Leftorium,"Oh, I should say not. I gave up on L.A. when those TV people made that poor nun fly. All those Puerto Ricans lookin' up her dress. That's not right."
+77845,304,55,279000,Woman,Leftorium,Do you have any left-handed eyelash curlers?
+77846,304,56,281000,Ned Flanders,Leftorium,Do I! No I don't. But I can have 'em here by Tuesday.
+77847,304,57,287000,Woman,Leftorium,"Well, for now I'll take a left-handed crimper."
+77848,304,58,295000,Ned Flanders,Leftorium,"Why, you are gorgeous."
+77849,304,59,298000,Woman,Leftorium,"You don't know who I am, do you?"
+77850,304,60,301000,Ned Flanders,Leftorium,"I sure do. You're the most important person in the world, because you're my customer."
+77851,304,61,307000,Woman,Leftorium,Are you for real?
+77852,304,62,309000,Ned Flanders,Leftorium,I'm as real as the nose on your face.
+77853,304,63,311000,Woman,Leftorium,Yeah... real.
+77854,304,64,314000,Ned Flanders,Leftorium,"Well, it looks good... and it sounds pretty too."
+77855,304,65,317000,Woman,Leftorium,Thanks. I'll see you later.
+77857,304,66,322000,Woman,Leftorium,I'm here for a while and I don't really know anyone. Would you like to have dinner tomorrow night?
+77858,304,67,327000,Ned Flanders,Leftorium,"A woman askin' a man out? Well, well why not. And maybe I'll eat my steak with a spoon."
+77859,304,68,334000,Woman,Leftorium,"Call me. I'm staying at the Springfield's Four Seasons. Ask for ""Zelda Fitzgerald."""
+77860,304,69,337000,Ned Flanders,Leftorium,What the...? That's a pseu-diddily-eudonym.
+77861,304,70,344000,Ned Flanders,Leftorium,WELL I'VE GOT A DATE WITH A GIRL WITH NO NAME / IT SURE FEELS GOOD TO BE BACK IN THE GAME / AT DESSERT MAYBE I CAN ASK HER HER NAME / 'CAUSE I CAN'T PRAY FOR HER WITHOUT THE RIGHT NAME...
+77862,304,71,368000,Ned Flanders,Leftorium,I've got a date with a movie star?!
+77863,304,72,370000,Irish Cop,Leftorium,Sure you do. And I'm goin' apple pickin' with Scooby Doo.
+77866,304,75,388000,Ned Flanders,Simpson Home,Psst! Homer!
+77867,304,76,389000,Homer Simpson,Simpson Home,Flanders?! Can't a man just drink alone on a Wednesday morning?
+77868,304,77,393000,Ned Flanders,Simpson Home,I need your advice. It's about a lady.
+77869,304,78,396000,Homer Simpson,Simpson Home,Ooh! Lemme guess. Skinner's mother. She sure knows how to swing it.
+77870,304,79,402000,Ned Flanders,Simpson Home,"No, it's Sara Sloane. I have a date with her tonight."
+77871,304,80,406000,Homer Simpson,Simpson Home,Sara Sloane? The movie star?
+77872,304,81,408000,Ned Flanders,Simpson Home,Yep. Why would that Twinkie want to go out with a ding dong like me?
+77873,304,82,412000,Homer Simpson,Simpson Home,"Flanders, I mix Twinkies and Ding Dongs all the time. In Europe they call it a Dinkie."
+77874,304,83,415000,Ned Flanders,Simpson Home,"Well sir, that's very encouraging but I can't date a movie star. I'm no Arthur Miller or Lyle Lovett."
+77875,304,84,425000,Homer Simpson,Simpson Home,Now wait just a minute -- I used to worry Marge was too good for me. She was always thinking of ways to improve me. But then part of her died and she doesn't try any more. So we're all where we want to be.
+77876,304,85,441000,Sara Sloane,Simpson Home,"I'm sorry for the disguise, Ned. I just don't want to cause a commotion."
+77877,304,86,445000,Lenny Leonard,Simpson Home,"Excuse me, Miss Sloane. May I have an autograph?"
+77878,304,87,448000,Sara Sloane,Simpson Home,Sure.
+77879,304,88,449000,Lenny Leonard,Simpson Home,"Oh man, this is going right on ebay. I mean, my wall. Which I will then sell on ebay."
+77880,304,89,454000,Sara Sloane,Simpson Home,Sad to say this isn't the worst I get.
+77881,304,90,457000,Lenny Leonard,Simpson Home,"Oh, oh, can I just push this plaster cast onto one of your boobs?"
+77882,304,91,461000,Sara Sloane,Simpson Home,"Okay, now you are the worst."
+77883,304,92,464000,Ned Flanders,Simpson Home,"... Rod says ""Marco,"" and darn it if Todd doesn't say ""Polo"" right back! Oh, listen to me just running my gums about my kids. You're probably bored silly."
+77884,304,93,474000,Sara Sloane,Simpson Home,"No, it's a nice change from all the actors I usually date. All they want to talk about is their Botox, their Tae-Bo or their X-Box."
+77885,304,94,481000,Ned Flanders,Simpson Home,Huh.
+77886,304,95,494000,Ned Flanders,Simpson Home,Heaven's gate! I'm gonna be tastin' you on my mustache for a week.
+77887,304,96,499000,Sara Sloane,Simpson Home,Wanna try for a month?
+77888,304,97,506000,Marge Simpson,Simpson Home,Sara Sloane has been involved with every Tinseltown hunk from Affleck to Zmed!
+77889,304,98,506000,Bart Simpson,Simpson Home,"Yeah, she's had more stars on her than Lisa's homework."
+77890,304,99,517000,Lisa Simpson,Simpson Home,Now she's dating Mr. Flanders. That's so romantic!
+77891,304,100,521000,Homer Simpson,Simpson Home,"Who the hell is Mr. Flanders? Oh, Flanders."
+77892,304,101,526000,Homer Simpson,Simpson Home,"Hello? Yes, I'm Ned Flanders' close personal friend... that's right, hot and heavy... they've never been happier. Oh yes, I she does look pregnant. Now, who might you be? A tabloid? Is that one of those really strong mints? Hello? Hello?"
+77894,304,103,544000,Todd Flanders,Flanders Home,"JESUS IS THE ROCK / THAT ROLLS MY BLUES AWAY / SHOO BE DOO BE / YEAH, SHOO BE DOO BE!"
+77895,304,104,549000,Sara Sloane,Flanders Home,You guys are jammin'!
+77896,304,105,551000,Rod Flanders,Flanders Home,"Daddy, she swore."
+77897,304,106,554000,Sara Sloane,Flanders Home,"You know, I grew up in a house like this. I didn't know there were people like you left in the world."
+77898,304,107,561000,Ned Flanders,Flanders Home,"Yep, we occupy that useless mass of land between Los Angeles and New York. Called America!"
+77899,304,108,568000,Sara Sloane,Flanders Home,"Ned, I'm not sure you should open the door."
+77900,304,109,570000,Ned Flanders,Flanders Home,"Oh now, if someone took the time to press that little button, this is the least I can do."
+77901,304,110,575000,Reporter #1,Flanders Home,Are you sleeping with Sara Sloane?
+77902,304,111,576000,Reporter #2,Flanders Home,Is that mustache real?
+77903,304,112,578000,Reporter #3,Flanders Home,Do you plan to kill Sara like your last wife?
+77905,304,114,581000,Sara Sloane,Flanders Home,It's the tabloids! Everybody run!
+77906,304,115,585000,Reporters,Flanders Home,/ Pose! Pose!
+77907,304,116,588000,REPORTER CLETUS,Flanders Home,Your carpeted floor feels good on my toes.
+77908,304,117,593000,Reporter,Flanders Home,Let's concoct more lies!
+77911,304,120,602000,Assistant Director,MOVIE SET,"""Zookeeper's Wife,"" scene one oh two, take one. Action!"
+77912,304,121,605000,Sara Sloane,MOVIE SET,"Kiss me, Diego."
+77913,304,122,607000,Actor,MOVIE SET,But your husband's animals are watching.
+77914,304,123,610000,Sara Sloane,MOVIE SET,Where do you think I learned to do this?
+77915,304,124,618000,Ned Flanders,MOVIE SET,"Whoa, whoa, whoa, whoa, whoa. This movie's turning into Sponge Bob No-Pants!"
+77916,304,125,622000,Director,MOVIE SET,Cut.
+77917,304,126,623000,Ned Flanders,MOVIE SET,"Sir, there's no reason Sara needs to do this scene in the altogether."
+77918,304,127,628000,Sara Sloane,MOVIE SET,"Sam, he's got a point. Katharine Hepburn never showed her breasts."
+77919,304,128,631000,Director,MOVIE SET,There's still time.
+77920,304,129,633000,Sara Sloane,MOVIE SET,I want a rewrite. With no nudity.
+77921,304,130,636000,Director,MOVIE SET,"All right, but you're gonna have to kiss a woman."
+77922,304,131,638000,Sara Sloane,MOVIE SET,Deal.
+77923,304,132,639000,Sara Sloane,MOVIE SET,"Ned, we won!"
+77924,304,133,641000,Ned Flanders,MOVIE SET,Yep. Now all we gotta do is turn that woman into a fella and that kiss into a game of Scrabble.
+77925,304,134,645000,Sara Sloane,MOVIE SET,"You're so sweet to look out for me. The public may not see me naked, but you just might."
+77926,304,135,654000,Ned Flanders,MOVIE SET,"Well, that's uh, very interesting..."
+77927,304,136,658000,Flanders's Thoughts,MOVIE SET,"Easy, Ned. Think of the Bible."
+77930,304,139,679000,Marge Simpson,Simpson Home,"Ms. Sloane, I loved you in ""Sleeping with Pinocchio"" and ""Honey, I Scotchguarded the Kids""."
+77931,304,140,684000,Sara Sloane,Simpson Home,Thanks. I grew really close to the actress who played my daughter. I think she's in France or something.
+77932,304,141,690000,Marge Simpson,Simpson Home,"And Ned, I haven't seen you this happy in years."
+77933,304,142,694000,Ned Flanders,Simpson Home,Mm-hmm. I haven't felt this good since we stole the 2000 election.
+77934,304,143,698000,Homer Simpson,Simpson Home,"Hey, don't blame me, I voted for the green M&M."
+77935,304,144,701000,Ned Flanders,Simpson Home,The paparazzi! I thought we fooled them with our Cher-crow.
+77936,304,145,710000,Reporter #3,Simpson Home,Are you aware that your daughter's gay?
+77937,304,146,712000,Moe Szyslak,Simpson Home,"Why, those guys are such leeches."
+77938,304,147,714000,Homer Simpson,Simpson Home,"Moe, what are you doing here?"
+77939,304,148,715000,Moe Szyslak,Simpson Home,"Can't your old buddy Moe stop by with a list of questions from the Weekly World News? Number one: Sara, is it true you shoplifted a kayak?"
+77940,304,149,720000,Ned Flanders,Simpson Home,I'll have you know she pays full price for all her watercraft!
+77941,304,150,728000,Bart Simpson,Simpson Home,Rainier Wolfcastle!?
+77942,304,151,730000,Sara Sloane,Simpson Home,My ex-boyfriend.
+77943,304,152,731000,Rainier Wolfcastle,Simpson Home,"Sara, liebchen, take me back. If tears could burst through my muscular ducts, I would cry like a baby who was just hit by hammer."
+77944,304,153,740000,Sara Sloane,Simpson Home,"Rainier, you're too jealous. You beat up Jon Lovitz just because he presented me an award."
+77945,304,154,746000,Rainier Wolfcastle,Simpson Home,Oh c'mon. No one misses a handshake that badly.
+77946,304,155,749000,Sara Sloane,Simpson Home,"Sorry, I found someone nice who doesn't talk like a freak."
+77947,304,156,753000,Ned Flanders,Simpson Home,Exact-a-tically-tacally!
+77948,304,157,754000,Rainier Wolfcastle,Simpson Home,My libido has been terminated.
+77950,304,159,757000,Sara Sloane,Springfield,"Ned, I've never met a man like you. You're sensitive, you're in great shape, you have a mustache, and yet you're not gay."
+77951,304,160,765000,Ned Flanders,Springfield,No way! I won't even eat vegetables over two inches long.
+77952,304,161,770000,Ned Flanders,Springfield,"So anyway, uh, your movie's wrapping up soon. I guess you'll be headin' out on the first bus to the airport. If you ride with a friend, you can save twenty bucks!"
+77953,304,162,782000,Sara Sloane,Springfield,"Ned, I know this is fast, but, when I go back to Hollywood I want you to come with me."
+77954,304,163,788000,Ned Flanders,Springfield,Ned Flanders in Tinseltown?
+77955,304,164,810000,James L. Brooks,Springfield,"Ned, I'm James L. Brooks."
+77956,304,165,811000,Ned Flanders,Springfield,Can I call you Jim?
+77957,304,166,813000,James L. Brooks,Springfield,James L. Brooks is good. How about some sponge cake?
+77958,304,167,816000,Ned Flanders,Springfield,"Well, I can't see the harm."
+77959,304,168,817000,James L. Brooks,Springfield,With a brandy glaze.
+77960,304,169,819000,Ned Flanders,Springfield,Noooo!
+77961,304,170,821000,James L. Brooks,Springfield,Or perhaps you'd like to go to a football game...
+77962,304,171,821000,Ned Flanders,Springfield,"Well, I..."
+77963,304,172,822000,James L. Brooks,Springfield,We don't have a team.
+77964,304,173,822000,Ned Flanders,Springfield,Noooo!
+77965,304,174,827000,Rod Flanders,Springfield,"Hey Daddy, baby. We're movie producers now."
+77966,304,175,831000,Todd Flanders,Springfield,And we're Jewish.
+77967,304,176,833000,Todd Flanders,Springfield,Yayyy!
+77969,304,178,838000,Ned Flanders,Springfield,"Sara, I'm sorry, but I can't move to Hollywood. Heck, even Dollywood's too far out for me. Too many people appreciating it ironically."
+77970,304,179,847000,Sara Sloane,Springfield,"Well, then I'm staying in Springfield with you. For good."
+77971,304,180,853000,Ned Flanders,Springfield,"Forgive my language, but I am one happy camper!"
+77972,304,182,866000,Otto Mann,Springfield Street,Dude! What's it like kissing a movie star?
+77973,304,183,869000,Comic Book Guy,Springfield Street,What's it like kissing a woman?
+77974,304,184,876000,Ned Flanders,Springfield Street,"Well, what seems to be the problem, officer?"
+77975,304,185,879000,Chief Wiggum,Springfield Street,The problem is I can't seem to get an agent. Could you give your girlfriend my head shot?
+77976,304,186,883000,Chief Wiggum,Springfield Street,"That's me as a greaser, Emperor of China, Eleanor Roosevelt--very regal, and uh just plain me with an eye patch."
+77977,304,187,890000,Sara Sloane,Springfield Street,I'll give it to my agent.
+77978,304,188,893000,Chief Wiggum,Springfield Street,I don't do TV!
+77980,304,190,895000,Ned Flanders,Kwik-E-Mart,Sure is nice to be shopping for a woman again. The last thing I bought for a lady was a casket.
+77981,304,191,900000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Sir, would you ask your sweetheart to sign her autograph for me?"
+77982,304,192,904000,Ned Flanders,Kwik-E-Mart,Well of course. Wait a minute. This is to adopt two of your kids.
+77983,304,193,908000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Oh, so it is. I've already dumped three on Mia Farrow. Sucker!"
+77984,304,194,914000,Bart Simpson,Kwik-E-Mart,"Look, it's celebrity boy-toy Ned Flanders and his arm candy, Sara Sloane."
+77985,304,195,918000,Lisa Simpson,Kwik-E-Mart,"Miss Sloane, how are you handling the change from La-la land to blah-blah land?"
+77986,304,196,924000,Marge Simpson,Kwik-E-Mart,"Lisa, Springfield isn't a cultural wasteland. Part of ""Stroker Ace"" was filmed at our airport. And, um, oh! There's our Ladies' Book Club. Sara, you're more than welcome to come."
+77987,304,197,935000,Sara Sloane,Kwik-E-Mart,Oh I'd love to.
+77988,304,198,937000,Moe Szyslak,Kwik-E-Mart,"Another scoop. Sara Sloane to attend girl-on-girl book club. Moe, you loveable loser, you just made yourself five dollars!"
+77989,304,199,947000,Marge Simpson,Kwik-E-Mart,"Today's book is ""Bridget Jones' Diary."" Now, let's go around the room and analyze why we didn't read it."
+77990,304,200,954000,Edna Krabappel-Flanders,Kwik-E-Mart,Cramps.
+77991,304,201,956000,Agnes Skinner,Kwik-E-Mart,All my friends are dead.
+77992,304,202,958000,Luann Van Houten,Kwik-E-Mart,"Well then, I guess it's time for margaritas!"
+77993,304,203,962000,Sara Sloane,Kwik-E-Mart,"Well, I wish someone had read the book, since I did invite the author, Helen Fielding."
+77994,304,204,967000,Helen Fielding,Kwik-E-Mart,"Oh never mind. As long as they all bought the book, I'll still get the money. Besides, most Americans can't understand the sophisticated subtlety of British humour. I bid you good day."
+77995,304,205,987000,Ned Flanders,Kwik-E-Mart,"Hop to it, honey! If we get to the Pops concert early, we can give up our seats to some old people."
+77996,304,206,1001000,Rod Flanders,Kwik-E-Mart,"Daddy, where do babies come from?"
+77997,304,207,1003000,Ned Flanders,Kwik-E-Mart,"Sweetie, that's not the kind of dress you wear outdoors... or indoors... or in a dirty dream."
+77998,304,208,1009000,Sara Sloane,Kwik-E-Mart,"Oh, loosen up Honey. This dress just creates the illusion of nudity."
+77999,304,209,1013000,Ned Flanders,Kwik-E-Mart,"Well, Siegfried and Roy create a lot of illusions, but I doubt their girlfriends dress like that."
+78001,304,211,1028000,Grampa Simpson,Springfield Bowl,She should be ashamed!
+78002,304,212,1029000,Agnes Skinner,Springfield Bowl,"That's disgusting. Don't look, Seymour."
+78003,304,213,1032000,Seymour Skinner,Springfield Bowl,"I'm a veteran, Mother."
+78004,304,214,1033000,Agnes Skinner,Springfield Bowl,A veteran bed wetter!
+78005,304,215,1035000,Seymour Skinner,Springfield Bowl,Mother!
+78006,304,216,1036000,Ned Flanders,Springfield Bowl,"Sara, I hate to say it, but your top's upstaging the Pops!"
+78007,304,217,1040000,Sara Sloane,Springfield Bowl,"Fine, I'll wear your stupid jacket."
+78015,304,225,1063000,Ned Flanders,Springfield Bowl,"Sara, I love ya, but I get the feeling you're just... not a Ned-head tonight. Is something wrong?"
+78016,304,226,1069000,Sara Sloane,Springfield Bowl,"Actually, there is something. The time we've spent together has been wonderful, but... I want sex. With you."
+78017,304,227,1076000,Ned Flanders,Springfield Bowl,"Se... well, that's a mighty big... kettle of... premarital... uh, doodly..."
+78018,304,228,1086000,Sara Sloane,Springfield Bowl,I knew you'd say that. I need a glass of wine.
+78019,304,229,1093000,Ned Flanders,Springfield Bowl,This is quite a dil-diddly-lemma. I better talk this over with the big man.
+78020,304,230,1098000,Ned Flanders,Springfield Bowl,"Homer, Sara wants us to have S-E-X."
+78021,304,231,1103000,Homer Simpson,Springfield Bowl,Stupid Flanders. I'm not giving you any of my secret moves.
+78022,304,232,1107000,Ned Flanders,Springfield Bowl,"Well, I'm not sure I want to do it. I mean ""who'll buy the cow when you get the milk for free?"" You know, the cow being me."
+78023,304,233,1114000,Homer Simpson,Springfield Bowl,"Look, Flanders. I'm always interested in talking about free milk. And if there's cookies involved, so much the better."
+78025,304,235,1125000,Sara Sloane,Hill,"Ned, look. I know I said I wanted this. But I don't want you to do anything you're uncomfortable with."
+78027,304,236,1132000,Ned Flanders,Hill,"Well, I consulted my bible and found some verses supporting what you want to do."
+78028,304,237,1132000,Ned Flanders,Hill,And a lot of verses against it.
+78029,304,238,1145000,Sara Sloane,Hill,"What does that one say, Ned?"
+78030,304,239,1147000,Ned Flanders,Hill,It says a man should make restitution if he eats his neighbor's grain. And that's good enough for me.
+78031,304,240,1162000,Sara Sloane,Hill,Wow. Wow. That made me completely forget about Bob Balaban.
+78032,304,241,1167000,Ned Flanders,Hill,That's what Maude used to say.
+78033,304,242,1169000,Sara Sloane,Hill,A girl could get used to that.
+78034,304,243,1172000,Ned Flanders,Hill,"Well, and you will. Right after the wedding."
+78035,304,244,1176000,Sara Sloane,Hill,You want to get married?
+78036,304,245,1178000,Ned Flanders,Hill,Uh hmm. That's right. I'm like Baskin Robbins. You get one free taste then you gotta buy the scoop.
+78037,304,246,1186000,Sara Sloane,Hill,"Ned, I love you, but I'm not ready to be tied down."
+78038,304,247,1190000,Ned Flanders,Hill,"I love you, too. And I always will. But unlike the Bible, I guess this isn't gonna have a happy ending."
+78039,304,248,1195000,Ned Flanders,Hill,I'm sorry.
+78040,304,249,1199000,Ned Flanders,Hill,"Oh, darn the luck. That sounds like the Lupus Fun Run."
+78041,304,250,1204000,Nelson Muntz,Hill,Haw haw. Fight lupus!
+78043,304,252,1206000,Male Host,Flanders Home,"Screen siren Sara Sloane shocked tinseltown last night with a midnight marriage to Gosford Park mega-hunk, Bob Balaban."
+78044,304,253,1216000,Male Host,Flanders Home,This was followed three hours later by a quickie divorce.
+78045,304,254,1219000,Ned Flanders,Flanders Home,I bet we woulda lasted twice that long.
+78046,304,255,1225000,Homer Simpson,Flanders Home,"Poor Ned, gardening away his misery."
+78047,304,256,1228000,Marge Simpson,Flanders Home,His answer's not at the bottom of a hedge.
+78048,304,257,1233000,Cookie Kwan,Flanders Home,Hey Hollywood! Call me! My number's on the bench.
+78049,304,258,1239000,Ned Flanders,Flanders Home,You know it's the darndest thing -- women love you when you've dated a movie star.
+78050,304,259,1244000,Marge Simpson,Flanders Home,"I'm very happy for you, Ned."
+78051,304,260,1246000,Homer Simpson,Flanders Home,Me too.
+78052,304,261,1248000,Homer Simpson,Flanders Home,Uh-oh. Here comes Helen Fielding.

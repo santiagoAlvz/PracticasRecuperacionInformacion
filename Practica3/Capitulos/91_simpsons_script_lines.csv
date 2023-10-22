@@ -1,0 +1,238 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+148160,91,12,101000,Young Grampa,Aztec Theater,"Feh! The way people act around here, you'd think the streets were paved with gold."
+17148,91,13,101000,Young Jasper,Aztec Theater,They are.
+17150,91,15,110000,Panhandler,Aztec Theater,"Got any spare change, man?"
+17151,91,16,121000,Grampa Simpson,Aztec Theater,Yes and you ain't gettin' it. Everybody wants somethin' for nothin'.
+17152,91,17,127000,Grampa Simpson,Aztec Theater,"I'm old. Gimme, gimme, gimme!"
+17154,91,19,130000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, there's something you don't see in a toilet every day."
+17155,91,20,136000,Homer Simpson,Springfield Nuclear Power Plant,Anybody lose their glasses? Last chance. Woo hoo!
+17156,91,21,143000,Homer Simpson,Springfield Nuclear Power Plant,The sum of the square roots of any two sides of an isosceles triangle is equal to the square root of the remaining sides.
+17157,91,22,149000,Angry Voice From Stall,Springfield Nuclear Power Plant,"That's a right triangle, you idiot."
+17159,91,24,151000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Thank you so much for visiting our plant, Dr. Kissinger."
+17160,91,25,155000,Henry Kissinger,Springfield Nuclear Power Plant,It was fun.
+17161,91,26,155000,Waylon Smithers,Springfield Nuclear Power Plant,We'll let you know if your glasses turn up.
+17162,91,27,158000,Henry Kissinger,Springfield Nuclear Power Plant,"Er, yeah, I'm sure I left them in the car."
+17163,91,28,162000,HENRY KISSINGER'S BRAIN,Springfield Nuclear Power Plant,"No one must know I dropped them in the toilet. Not I, the man who drafted the Paris Peace Accords..."
+17164,91,29,174000,Waylon Smithers,Springfield Nuclear Power Plant,"Sir, bad news from accounting. The economy's hit us pretty hard."
+17165,91,30,177000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Hey, tough times, eh? I've lived through twelve recessions, eight panics, and five years of McKinley-nomics. I'll survive this!"
+17166,91,31,183000,Waylon Smithers,Springfield Nuclear Power Plant,"Well, even so, sir. We could stand to lay off a few employees."
+17167,91,32,187000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh! Very well -- lay off... Him, him, him, him..."
+17168,91,33,187000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Hmm, better keep the egghead. He just might come in handy."
+17170,91,35,195000,Lisa Simpson,Simpson Home,"Dad, you shouldn't wear glasses that weren't prescribed for you."
+17171,91,36,198000,Homer Simpson,Simpson Home,"Lisa, just because you're ten feet tall doesn't mean you can tell me what to do."
+17172,91,37,202000,Bart Simpson,Simpson Home,I'm Bart.
+17173,91,38,202000,Lisa Simpson,Simpson Home,Gimme those.
+17174,91,39,204000,Scott Christian,Simpson Home,"... and finally, Henry Kissinger was hospitalized today after walking into a wall. Now over to Kent Brockman with some grim economic news."
+17175,91,40,212000,Kent Brockman,Simpson Home,"Scott, things aren't as happy as they used to be down here at the unemployment office. Joblessness is no longer just for philosophy majors -- useful people are starting to feel the pinch."
+17176,91,41,222000,Barney Gumble,Simpson Home,I haven't been able to find a job in six years!
+17177,91,42,225000,Kent Brockman,Simpson Home,"Huh, and what training do you have?"
+17178,91,43,227000,Barney Gumble,Simpson Home,"Five years of modern dance, six years of tap."
+17179,91,44,231000,Kent Brockman,Simpson Home,"The economic slump began last spring when the government closed Fort Springfield, devastating the city's liquor and prostitution industries. Now, at the risk of being unpopular, this reporter places the blame for all this squarely on you, the viewers."
+17181,91,46,246000,Mayor Joe Quimby,Springfield Town Hall,"I propose that I use what's left of the town treasury to move to a more prosperous town and run for mayor. And uh, once elected, I will send for the rest of you."
+17182,91,47,251000,Crowd,Springfield Town Hall,Boo!
+17183,91,48,257000,Lisa Simpson,Springfield Town Hall,"Excuse me, Mr. Mayor."
+17184,91,49,258000,Mayor Joe Quimby,Springfield Town Hall,The uh chair recognizes the little chick with the gleam of hope in her eyes.
+17187,91,50,262000,Lisa Simpson,Springfield Town Hall,"This piggy bank contains fifteen dollars I've saved from my allowance. It isn't much, but I would like to help."
+17188,91,51,269000,Mayor Joe Quimby,Springfield Town Hall,"Aw, just what I need to tip the skycaps."
+17189,91,52,272000,Grampa Simpson,Springfield Town Hall,I'll tell you what made this town great! Good old-fashioned gumption! There's nothing here a little elbow grease won't fix! So let's roll up our sleeves and...
+17190,91,53,282000,Mayor Joe Quimby,Springfield Town Hall,"People! People, let's be a little more realistic..."
+17191,91,54,282000,Seymour Skinner,Springfield Town Hall,"Now, I uh hesitate to bring this up, but a number of cities have rejuvenated their economies with uh, legalized gambling."
+17193,91,56,295000,Seymour Skinner,Springfield Town Hall,"Uh, there is an added bonus -- some of the revenue can go to help our under-funded public schools!"
+17194,91,57,306000,Patty Bouvier,Springfield Town Hall,"Well, I like the part about the gambling."
+17195,91,58,306000,Ned Flanders,Springfield Town Hall,"What do you think, Reverend?"
+17196,91,59,310000,Rev. Timothy Lovejoy,Springfield Town Hall,"Once something has been approved by the government, it's no longer immoral."
+17197,91,60,313000,Crowd,Springfield Town Hall,Yay!
+17198,91,61,313000,C. Montgomery Burns,Springfield Town Hall,"By building a casino, I could tighten my stranglehold on this dismal town!"
+17199,91,62,319000,Crowd,Springfield Town Hall,Yay!
+17201,91,64,320000,Crowd,Springfield Town Hall,Yay!
+17202,91,65,324000,Mayor Joe Quimby,Springfield Town Hall,"Well, now. Are there any objections?"
+17203,91,66,329000,Marge Simpson,Springfield Town Hall,"Actually, I think it might really help our economy."
+17205,91,68,333000,Mayor Joe Quimby,Springfield Town Hall,"Very well, then. Instead of fleeing this town, I'll stay here and grow fat off kickbacks and slush funds."
+17206,91,69,341000,Crowd,Springfield Town Hall,Yay!
+17207,91,70,343000,Marge Simpson,Springfield Town Hall,This could be a whole new beginning for Springfield.
+17208,91,71,349000,Homer Simpson,Springfield Town Hall,And you know what the best part is? We've really done something for the children.
+17210,91,73,355000,Mayor Joe Quimby,SPRINGFIELD BOARDWALK,We're thrilled you've decided to build your casino on our waterfront.
+17211,91,74,372000,C. Montgomery Burns,SPRINGFIELD BOARDWALK,"Oh, I'll never forget my carefree boyhood days on this old boardwalk..."
+17212,91,75,377000,Workman,SPRINGFIELD BOARDWALK,"Why you! Er, Master Burns! I mean, carry on."
+17213,91,76,387000,Workman,SPRINGFIELD BOARDWALK,"Ah, me leg's gone gimpy! Oh, who'll provide for me little ones?"
+17215,91,79,392000,C. Montgomery Burns,Springfield Nuclear Power Plant,"What was I laughing at, now? Oh yes, that crippled Irishman."
+17216,91,80,423000,Waylon Smithers,Springfield Nuclear Power Plant,"Sir, the designers are here with some prototypes for your casino."
+17217,91,81,426000,British Guy,Springfield Nuclear Power Plant,"Gentlemen, I give you, ""Britannia!"""
+17218,91,82,428000,British Guy,Springfield Nuclear Power Plant,"Gambling with all the glitz and glamour of the British Isles! And best of all... the waitresses and showgirls are all real Brits! Fresh from the streets of Sussex, they are!"
+17219,91,83,433000,British Waitress,Springfield Nuclear Power Plant,"Freshen your drink, guv'nor?"
+17220,91,84,438000,C. Montgomery Burns,Springfield Nuclear Power Plant,Get out!
+17221,91,85,438000,Hippie,Springfield Nuclear Power Plant,"Okay, alright, wait, now now dig this man..."
+17222,91,86,441000,C. Montgomery Burns,Springfield Nuclear Power Plant,Get out!
+17223,91,87,443000,Hippie,Springfield Nuclear Power Plant,Oh wow oh... let me just get my head together...
+17224,91,88,443000,C. Montgomery Burns,Springfield Nuclear Power Plant,Now!
+17225,91,89,447000,Captain Horatio McCallister,Springfield Nuclear Power Plant,"I'll need three ships and fifty stout men! We'll sail 'round The Horn and return with spices and silk, the likes of which ye have never seen!"
+17226,91,90,456000,C. Montgomery Burns,Springfield Nuclear Power Plant,We're building a casino.
+17227,91,91,456000,Captain Horatio McCallister,Springfield Nuclear Power Plant,Arr. Can ye give me five minutes?
+17228,91,92,461000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Idiots. I'll design it myself. I know what people like. It's got to have sex appeal, and a catchy name."
+17231,91,95,472000,Lisa Simpson,Simpson Home,"Mom, we're having a geography pageant at school, and I don't know which state to go as."
+17232,91,96,477000,Marge Simpson,Simpson Home,"In honor of legalized gambling, why not go as the state of Nevada?"
+17233,91,97,480000,Lisa Simpson,Simpson Home,No. Nevada makes my butt look big.
+17234,91,98,482000,Marge Simpson,Simpson Home,"Then how 'about going as Florida? You enjoy orange juice, and old people like you."
+17235,91,99,488000,Lisa Simpson,Simpson Home,"Dad, what do you think?"
+17236,91,100,488000,Homer Simpson,Simpson Home,Shhh. I'm trying to teach the baby to gamble.
+17237,91,101,492000,Marge Simpson,Simpson Home,Why?
+17238,91,102,492000,Homer Simpson,Simpson Home,"I got a job at Burns' casino. As you know, it's been my lifelong dream to become a blackjack dealer."
+17239,91,103,499000,Marge Simpson,Simpson Home,"Your lifelong dream was to be a contestant on ""The Gong Show."" And you did it in 1977, remember?"
+17241,91,105,504000,Homer Simpson,GONG SHOW,We got more gongs than the break-dancing robot that caught on fire.
+17243,91,107,523000,Gerry Cooney,Mr. Burns' Casino,"Hello, I'm retired heavyweight boxer Gerry Cooney. Welcome to Mr. Burns' Casino. If there's anything I can do to make your visit more enjoyable, please just let me know."
+17244,91,108,531000,Otto Mann,Mr. Burns' Casino,"Yeah, great. See ya..."
+17245,91,109,531000,Gerry Cooney,Mr. Burns' Casino,"Uh, don't forget to apply for our VIP Platinum club for special discounts on..."
+17246,91,110,536000,Otto Mann,Mr. Burns' Casino,Hey! I said bug off!
+17247,91,111,536000,Homer Simpson,Mr. Burns' Casino,"Uh, let's see... 18... 27... 35. Dealer busts. Looks like you all win again."
+17249,91,113,548000,BIG TEXAN,Mr. Burns' Casino,"Yee ha! Homer, I want you to have my lucky hat. I wore it the day Kennedy was shot, and it allllways brings me good luck!"
+17250,91,114,557000,Homer Simpson,Mr. Burns' Casino,"Why thanks, Senator! Oop, looks like my shift is over."
+17251,91,115,563000,Grampa Simpson,Mr. Burns' Casino,"Come on lucky seven! Papa needs a new pair of spats! I want some of that sweet, sweet do-re-mi! Fat City, here I come!"
+17252,91,116,573000,Apu Nahasapeemapetilon,Mr. Burns' Casino,"Please throw the dice now, please now!"
+17253,91,117,575000,Grampa Simpson,Mr. Burns' Casino,"Don't rush me, I have arthritis."
+17254,91,118,577000,Croupier,Mr. Burns' Casino,Will the gentleman please roll the dice.
+17255,91,119,580000,Grampa Simpson,Mr. Burns' Casino,"All right, all right, smart guy. Oh, for cryin' out loud, I dropped one... Oh now it's in my shoe. Ow! Ow! Ooh!"
+17257,91,121,594000,Ernst,Mr. Burns' Casino,"A round of applause for Anastasia! She loves show business -- so much nicer than the savagery of the jungle, huh."
+17258,91,122,607000,Gunter,Mr. Burns' Casino,"Hey tiger, wake up."
+17261,91,125,612000,Bart Simpson,Mr. Burns' Casino,Woo Hoo! Jackpot!
+17262,91,126,630000,Teenage Attendant,Mr. Burns' Casino,"Wait a minute, are you over twenty-one?"
+17263,91,127,633000,Bart Simpson,Mr. Burns' Casino,Are you?
+17264,91,128,633000,Teenage Attendant,Mr. Burns' Casino,I'm not authorized to answer that.
+17265,91,129,636000,Bart Simpson,Mr. Burns' Casino,"By the way, your martinis suck!"
+17266,91,130,640000,Teenage Attendant,Mr. Burns' Casino,Oh yeah? What are you gonna do? Start your own casino? In your treehouse? And get all your little friends to come? I'd like to see that.
+17268,91,132,648000,Bart Simpson,Bart's Treehouse,"Ah yeah, welcome... have a lucky day... um hmmm."
+17269,91,133,651000,Teenage Attendant,Bart's Treehouse,"Well, he certainly showed me."
+17271,91,135,655000,Marge Simpson,Mr. Burns' Casino,"Hi, Homie."
+17272,91,136,657000,Homer Simpson,Mr. Burns' Casino,"Hey, Marge, after your big tantrum against legalized gambling, I bet it feels pretty weird to be in a casino."
+17273,91,137,663000,Marge Simpson,Mr. Burns' Casino,I was for the casino!
+17274,91,138,663000,Homer Simpson,Mr. Burns' Casino,"Strike three, Marge. I remember that meeting, and I have a photographic memory."
+17275,91,139,672000,Marge Simpson,Mr. Burns' Casino,"Legalized gambling is a bad idea. You can build a casino over my dead body! Blah, blah, blah, blah, blah. Blah, blah, blah. Blah, blah, blah, blah, blah..."
+17276,91,140,680000,Someone,Mr. Burns' Casino,For you. It's the President.
+17277,91,141,680000,Homer Simpson,Mr. Burns' Casino,Y'ello?
+17278,91,142,682000,Homer Simpson,Mr. Burns' Casino,And then I said to the president... get this Marge? Marge?
+17279,91,143,691000,Marge Simpson,Mr. Burns' Casino,"I wonder if they have a lost and found. Oh, what the hey."
+17282,91,146,707000,Bart Simpson,Bart's Treehouse,"Hey, how's it goin'?... Hey, good to see you... Tell your friends. Lookin' lucky... Hey, what's happenin'? Love THE jacket."
+17283,91,147,721000,Milhouse Van Houten,Bart's Treehouse,Behold the box of mystery! The cat goes in... uh...
+17285,91,149,729000,Homer Simpson,Mr. Burns' Casino,Twenty- one? Do that card-counting thing again! Come on. Do it again.
+17286,91,150,739000,Rain Man,Mr. Burns' Casino,Definitely have to leave the table.
+17287,91,151,741000,Homer Simpson,Mr. Burns' Casino,"No! Please, please, please, please, please..."
+17288,91,152,743000,Rain Man,Mr. Burns' Casino,"Gotta watch Wapner. Leave the table. Yeah, leave the table."
+17289,91,153,746000,Homer Simpson,Mr. Burns' Casino,No!
+17290,91,154,746000,Waylon Smithers,Mr. Burns' Casino,"Sir, you haven't slept since the casino opened, five days ago."
+17291,91,155,764000,C. Montgomery Burns,Mr. Burns' Casino,"Well, I've discovered the perfect business. People swarm in, empty their pockets, and scuttle off. Nothing can stop me now. Except microscopic germs. But we won't let that happen. Will we Smithers?"
+17292,91,156,773000,Waylon Smithers,Mr. Burns' Casino,"Uh... No, sir."
+17293,91,157,781000,Gambler,Mr. Burns' Casino,"Whoa, a baby on the table! That's good luck!"
+17294,91,158,781000,CRAP PLAYERS,Mr. Burns' Casino,Yayyy!
+17295,91,159,797000,Croupier,Mr. Burns' Casino,Snake eyes. Sorry.
+17296,91,160,797000,CRAP PLAYERS,Mr. Burns' Casino,Booo!
+17297,91,161,800000,Farmboy,Mr. Burns' Casino,Gawrsh! It must be exciting to live in the cas-een-oh!
+17298,91,162,805000,Gunter,Mr. Burns' Casino,Ja!
+17299,91,163,805000,Ernst,Mr. Burns' Casino,"You know, we're having a party tonight..."
+17300,91,164,811000,Barney Gumble,Mr. Burns' Casino,"Huh, Marge, you gotta watch out! Your little boy Bart coulda been eaten by that pony!"
+17301,91,165,820000,Marge Simpson,Mr. Burns' Casino,"Oh my God, Barney, thank you. I would never have forgiven myself."
+17302,91,166,825000,Marge Simpson,Mr. Burns' Casino,"Now you stay put, young lady."
+17303,91,167,829000,Barney Gumble,Mr. Burns' Casino,"Man, that's classic compulsive behavior!"
+17304,91,168,831000,Barney Gumble,Mr. Burns' Casino,"Wow, free beer."
+17305,91,169,834000,Slot Player #1,Mr. Burns' Casino,"Buddy, those are my quarters!"
+17307,91,171,836000,Slot Player #2,Mr. Burns' Casino,"Hey, this guy's paying off!"
+17308,91,172,839000,Krusty the Clown,Mr. Burns' Casino,"I don't wanna hit a ""sore"" spot, but can we talk about herpes? ""HERPES HERPES BO BERPES / BANANA FANNA FO BERPES""... HERPES! Ow! Hey, that spot on Gorbachev's head? Herpes, trust me... Anybody here have herpes? Huh? Huh? You people are the worst audience I've ever seen."
+17309,91,173,868000,Audience Member,Mr. Burns' Casino,"Well, you're the worst comedian we've ever seen!"
+17310,91,174,870000,Krusty the Clown,Mr. Burns' Casino,"Oh, great. Well we'll just sit here silently for the next ninety minutes."
+17311,91,175,874000,Audience Member,Mr. Burns' Casino,Fine with us.
+17313,91,177,874000,C. Montgomery Burns,Mr. Burns' Casino,"They're all covered with filthy germs, aren't they, Smithers?!"
+17314,91,178,884000,Waylon Smithers,Mr. Burns' Casino,"Why, what do you mean, sir?"
+17315,91,179,887000,C. Montgomery Burns,Mr. Burns' Casino,Ewww!
+17316,91,180,890000,Homer Simpson,Mr. Burns' Casino,"Marge, you waited for me."
+17318,91,182,897000,Homer Simpson,Mr. Burns' Casino,"Okay, Marge, let's go."
+17319,91,183,897000,Marge Simpson,Mr. Burns' Casino,I'll catch up to you.
+17320,91,184,901000,Homer Simpson,Mr. Burns' Casino,"Marge, I'm taking the car."
+17321,91,185,901000,Marge Simpson,Mr. Burns' Casino,I'll walk.
+17322,91,186,904000,Homer Simpson,Mr. Burns' Casino,This late? Through the bad neighborhood?
+17323,91,187,904000,Marge Simpson,Mr. Burns' Casino,Yeah.
+17324,91,188,907000,Homer Simpson,Mr. Burns' Casino,Marge...
+17325,91,189,907000,Marge Simpson,Mr. Burns' Casino,Go home. You're bad luck!
+17326,91,190,910000,Homer Simpson,Mr. Burns' Casino,"Wait. I see what's happening here. You're just mad because everyone in this town loves gambling except for you. Well, that's just sad."
+17328,91,192,919000,Marge Simpson,Mr. Burns' Casino,What?!
+17329,91,193,932000,Waylon Smithers,Mr. Burns' Casino,"Um, excuse me, Ma'am. Don't you think you've gambled enough?"
+17330,91,194,932000,Marge Simpson,Mr. Burns' Casino,No.
+17331,91,195,935000,Waylon Smithers,Mr. Burns' Casino,Okay. We're required by law to ask every seventy-five hours. Get her another free drink.
+17334,91,197,940000,Lisa Simpson,Simpson Home,Do you get the feeling this family is disintegrating? I mean we haven't had a meal with Mom all week. And she hasn't even started my costume for the Geography Pageant.
+17335,91,198,948000,Bart Simpson,Simpson Home,"Pipe down, sister. I've gotta book a new act for tonight. Turns out that Liza Minelli impersonator was really Liza Minelli."
+17336,91,199,954000,Lisa Simpson,Simpson Home,There's nothing to eat for breakfast.
+17337,91,200,954000,Homer Simpson,Simpson Home,"You've gotta improvise, Lisa. Cloves, Tom Collins Mix, frozen pie crust."
+17338,91,201,964000,Lisa Simpson,Simpson Home,Maybe Mom just doesn't realize we miss her. We could go down to the casino and let her know.
+17339,91,202,968000,Homer Simpson,Simpson Home,"Ah, come on, Lisa, there's no reason to... Let's go see Mom."
+17341,91,204,975000,Homer Simpson,Mr. Burns' Casino,"Marge, we need to talk. You're spending too much time at the casino, and I think you may have a problem..."
+17342,91,205,982000,Marge Simpson,Mr. Burns' Casino,I won sixty dollars last night.
+17343,91,206,984000,Homer Simpson,Mr. Burns' Casino,Woo hoo! Problem solved!
+17345,91,208,987000,C. Montgomery Burns,Mr. Burns' Casino,"Smithers, I've designed a new plane. I call it the Spruce Moose, and it will carry two hundred passengers from New York's Idlewild Airport to the Belgian Congo in seventeen minutes."
+17346,91,209,998000,Waylon Smithers,Mr. Burns' Casino,"That's quite a nice model, sir."
+17347,91,210,998000,C. Montgomery Burns,Mr. Burns' Casino,Model?
+17349,91,212,1001000,Lisa Simpson,Simpson Home,Mommm!
+17350,91,213,1001000,Homer Simpson,Simpson Home,Huh? Wuh? Lisa? What's up?
+17351,91,214,1004000,Lisa Simpson,Simpson Home,I just had a bad dream.
+17352,91,215,1004000,Homer Simpson,Simpson Home,"Aw, sure... you just lie down and tell me all about it."
+17353,91,216,1009000,Lisa Simpson,Simpson Home,"Well, I know it's absurd, but I dreamed the Boogeyman was after me and he's hiding..."
+17354,91,217,1014000,Homer Simpson,Simpson Home,Boogeyman?! You nail the windows shut! I'll get the gun!
+17355,91,218,1018000,Homer Simpson,Simpson Home,"Bart, I don't want to alarm you, but there may be a Boogeyman or Boogeymen in the house!"
+17358,91,221,1035000,Marge Simpson,Simpson Home,What happened here?
+17359,91,222,1035000,Homer Simpson,Simpson Home,"Oh, nothing, Marge. Just a little incident involving the Boogeyman. Of course, none of this would've happened if you'd been here to keep me from acting stupid."
+17362,91,223,1044000,Marge Simpson,Simpson Home,"Oh, I'm sorry. I have been spending too much time at the casino. I'll be around more from now on."
+17363,91,224,1050000,Lisa Simpson,Simpson Home,Does this mean you'll help me with my costume?
+17364,91,225,1053000,Marge Simpson,Simpson Home,"Sure, honey. I promise."
+17365,91,226,1056000,Lisa Simpson,Simpson Home,"Thanks, Mom."
+17366,91,227,1058000,Homer Simpson,Simpson Home,Aw. Just like on TV.
+17368,91,229,1061000,Robert Goulet,Springfield Airport,Hi. Are you from the casino?
+17369,91,230,1069000,Bart Simpson,Springfield Airport,I'm from a casino.
+17370,91,231,1069000,Robert Goulet,Springfield Airport,Good enough. Let's go.
+17372,91,233,1071000,Waylon Smithers,Mr. Burns' Casino,"I'm afraid Robert Goulet hasn't arrived yet, Sir."
+17373,91,234,1078000,C. Montgomery Burns,Mr. Burns' Casino,"Very well, begin the thawing of Jim Nabors."
+17375,91,236,1081000,Robert Goulet,Bart's Treehouse,Are you sure this is the casino? I think I should call my manager.
+17376,91,237,1090000,Nelson Muntz,Bart's Treehouse,Your manager says for you to shut up!
+17377,91,238,1092000,Robert Goulet,Bart's Treehouse,Vera said that? Hmmm.
+17380,91,241,1094000,Lisa Simpson,Simpson Home,"Dad, Mom said she'd be home to help me with my costume, and she's not and the Geography Pageant is tonight."
+17381,91,242,1103000,Homer Simpson,Simpson Home,"Lisa, your mom still loves you. It's just that she has a career, now. She's a slot jockey."
+17382,91,243,1110000,Lisa Simpson,Simpson Home,"But Dad, if I don't show up in a rubber suit shaped like the state of Florida, I'll be the laughing stock of the whole school."
+17383,91,244,1116000,Homer Simpson,Simpson Home,"It's always something isn't it? First, I have to drive your pregnant mother to the hospital so she can give birth to you, and now this."
+17384,91,245,1123000,Homer Simpson,Simpson Home,Ow...ow...ow...ow.
+17385,91,246,1126000,Homer Simpson,Simpson Home,"Ow, ow, ow, ow, ow!"
+17386,91,247,1131000,Lisa Simpson,Simpson Home,Dad!
+17387,91,248,1131000,Homer Simpson,Simpson Home,"Oh yeah, the costume."
+17388,91,249,1134000,Homer Simpson,Simpson Home,"Hello, Floreeda."
+17389,91,250,1137000,Lisa Simpson,Simpson Home,"I'm not a state, I'm a monster!"
+17390,91,251,1140000,Homer Simpson,Simpson Home,"No, Lisa. The only monster here is the gambling monster that has enslaved your mother. I call him Gamblor. And it's time to snatch your mother from his neon claws."
+17392,91,253,1155000,Homer Simpson,Mr. Burns' Casino,Marge! Where are you?! Damn this casino! Damn this casino!
+17333,91,254,1162000,Wheelman,Mr. Burns' Casino,Double stars. Everybody wins.
+17394,91,256,1172000,Croupier,Mr. Burns' Casino,Seven. Lucky seven.
+17396,91,258,1177000,Homer Simpson,Mr. Burns' Casino,Can't talk now.
+17397,91,259,1185000,C. Montgomery Burns,Mr. Burns' Casino,Smithers! I don't want that unpredictable lunatic working in my casino!
+17398,91,260,1190000,Waylon Smithers,Mr. Burns' Casino,"Fine. We'll transfer him to the nuclear plant, sir."
+17399,91,261,1192000,C. Montgomery Burns,Mr. Burns' Casino,"Oh, my beloved plant... How I miss her."
+17400,91,262,1195000,C. Montgomery Burns,Mr. Burns' Casino,Bah! To hell with this! Get my razor! Draw a bath! And get these Kleenex boxes off my feet!
+17401,91,263,1200000,Waylon Smithers,Mr. Burns' Casino,"Certainly, sir. And the jars of urine?"
+17402,91,264,1203000,C. Montgomery Burns,Mr. Burns' Casino,"Oh, we'll hang on to those. Now, to the plant! We'll take the Spruce Moose. Hop in."
+17403,91,265,1210000,Waylon Smithers,Mr. Burns' Casino,But sir...
+17404,91,266,1210000,C. Montgomery Burns,Mr. Burns' Casino,"I said, hop in."
+17406,91,268,1215000,Marge Simpson,Mr. Burns' Casino,Homer! What is it? Slow down.
+17408,91,270,1227000,Marge Simpson,Mr. Burns' Casino,Think before you say each word.
+17409,91,271,1229000,Homer Simpson,Mr. Burns' Casino,You broke a promise to your child.
+17410,91,272,1229000,Marge Simpson,Mr. Burns' Casino,What?
+17411,91,273,1233000,Homer Simpson,Mr. Burns' Casino,"You promised Lisa to help her with her costume. You made her cry, then I cried. Then Maggie laughed. She's such a little trooper."
+17412,91,274,1244000,Marge Simpson,Mr. Burns' Casino,"Lisa's costume. Homer, I didn't realize. I'm so sorry."
+17413,91,275,1252000,Homer Simpson,Mr. Burns' Casino,"Marge, I want you to admit you have a gambling problem."
+17414,91,276,1256000,Marge Simpson,Mr. Burns' Casino,"You know, you're right, Homer. Maybe I should get some professional help."
+17415,91,277,1261000,Homer Simpson,Mr. Burns' Casino,"No no, that's too expensive. Just don't do it anymore."
+17417,91,279,1264000,Robert Goulet,Bart's Treehouse,JINGLE BELLS / BATMAN SMELLS / ROBIN LAID AN EGG! / BATMOBILE LOST ITS WHEEL / AND THE JOKER GOT AWAY! HEY! Thank you... Thank you very much.
+17418,91,280,1275000,Robert Goulet,Bart's Treehouse,"Ooh. I'm sorry, kid."
+17420,91,282,1277000,Seymour Skinner,Springfield Elementary School Auditorium,"And special awards go to the two students who obviously had no help from their parents, Lisa Simpson and Ralph Wiggum."
+17421,91,283,1285000,Ralph Wiggum,Springfield Elementary School Auditorium,I'm Idaho.
+17422,91,284,1285000,Seymour Skinner,Springfield Elementary School Auditorium,"Yes, of course you are."
+17425,91,286,1288000,Homer Simpson,Mr. Burns' Casino,"You know, Marge, for the first time in our marriage, I can finally look down my nose at you. You have a gambling problem."
+17426,91,287,1296000,Marge Simpson,Mr. Burns' Casino,That's true. Will you forgive me?
+17427,91,288,1298000,Homer Simpson,Mr. Burns' Casino,Oh sure... Remember when I got caught stealing all those watches from Sears?
+17429,91,290,1303000,Homer Simpson,Mr. Burns' Casino,"Well, that's nothing, because you have a gambling problem! And remember when I let that escaped lunatic in the house 'cause he was dressed like Santa Claus?"
+17431,91,292,1311000,Homer Simpson,Mr. Burns' Casino,"Well, you have a gambling problem!"
+17432,91,293,1315000,Marge Simpson,Mr. Burns' Casino,"Homer, when you forgive someone, you can't throw it back at them like that."
+17433,91,294,1318000,Homer Simpson,Mr. Burns' Casino,"Aw, what a gyp."
+17435,91,296,1320000,Homer Simpson,Mr. Burns' Casino,And remember when I...
+17436,91,297,1322000,Marge Simpson,Mr. Burns' Casino,Homer!
+17437,91,298,1322000,Homer Simpson,Mr. Burns' Casino,Oh yeah. I forgot already.

@@ -1,0 +1,251 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+44071,192,8,60000,Bart Simpson,Simpson Home,"Whoa, cool! God is so in-your-face."
+44072,192,9,63000,Homer Simpson,Simpson Home,Yeah. He's my favorite fictional character.
+44073,192,10,66000,Marge Simpson,Simpson Home,"Ooh, it's so late. You kids have to go to bed."
+44074,192,11,70000,Bart Simpson,Simpson Home,But the flood's only knee-high! At least let us watch 'til the midgets drown.
+44075,192,12,74000,Lisa Simpson,Simpson Home,"Yeah, Mom, c'mon. You let us stay up to watch Troy McClure in such other bible epics as ""David vs. Super Goliath"" and ""Suddenly, Last Supper."""
+44076,192,13,82000,Bart Simpson,Simpson Home,"Go, Lis! Way to cite precedent! Ah ha!"
+44078,192,14,85000,Marge Simpson,Simpson Home,"Oh, all right. You can stay up late tonight. But tomorrow everyone's going to bed at five o'clock."
+44079,192,15,90000,Homer Simpson,Simpson Home,Woo hoo!
+44080,192,16,95000,Lisa Simpson,Simpson Home,"Aw, those poor badgers are soaked."
+44081,192,17,98000,Homer Simpson,Simpson Home,Quiet. God looks like he has something important to say.
+44082,192,18,101000,God,Simpson Home,"Go forth, Noah, and remember: the key to salvation is--"
+44083,192,19,106000,Kent Brockman,Simpson Home,"You've seen the movie, now meet a real-life Noah. O-only this Noah has been accused of killing two of every animal... Coming up next, on A.M. Springfield!"
+44084,192,20,118000,Marge Simpson,Simpson Home,Oh my goodness! That was a long movie! It's time for school! Let's go! Let's go!
+44085,192,21,124000,Homer Simpson,Simpson Home,"I can't make it in today, Mr. Smithers. I have Smallpox... Well, it wasn't wiped out in my house."
+44087,192,23,133000,Seymour Skinner,Springfield Elementary School,"Okay, delegates. You leave tomorrow for the statewide model U.N., so this is our last chance to bone up. And bone we will."
+44088,192,24,145000,Bart Simpson,Springfield Elementary School,"Lighten up, Lis."
+44089,192,25,146000,Seymour Skinner,Springfield Elementary School,"Finland, let's see that native dance."
+44091,192,27,151000,Seymour Skinner,Springfield Elementary School,"Smile more... Work that pelvis... No, too much smile... Sit down."
+44092,192,28,157000,Seymour Skinner,Springfield Elementary School,"Poland, tell us about your nation's achievements."
+44093,192,29,159000,Milhouse Van Houten,Springfield Elementary School,"Well, uh, I heard they sent a rocket to the sun once, at night. And there was that submarine with the screen doors--"
+44094,192,30,168000,Seymour Skinner,Springfield Elementary School,"No, no, no, no, no. Young man, you need to do some serious boning."
+44095,192,31,174000,Bart Simpson,Springfield Elementary School,"Oh, grow up, Lis."
+44096,192,32,175000,Seymour Skinner,Springfield Elementary School,"O-okay, Libya. Exports."
+44097,192,33,177000,Bart Simpson,Springfield Elementary School,"Yes, sir, you American pig."
+44098,192,34,179000,Seymour Skinner,Springfield Elementary School,Nice touch.
+44099,192,35,183000,Bart Simpson,Springfield Elementary School,"Ah, uh-hum. Let's see. Ah. The exports of Libya are numerous in amount. One thing they export is corn..."
+44100,192,36,191000,Bart Simpson,Springfield Elementary School,"Or as the Indians call it, maize. Another famous Indian was Crazy Horse. In conclusion, Libya is a land of contrasts. Thank you."
+44101,192,37,201000,Wendell Borton,Springfield Elementary School,Ow!
+44102,192,38,201000,Wendell Borton,Springfield Elementary School,I can't breathe. Please stop him.
+44103,192,39,205000,Seymour Skinner,Springfield Elementary School,"Uh, I'd like to, but I'm afraid he has diplomatic immunity."
+44104,192,40,207000,Lisa Simpson,Springfield Elementary School,"Point of order. If we want to learn anything, we must respect..."
+44105,192,41,211000,Bart Simpson,Springfield Elementary School,Point of odor. Lisa stinks.
+44107,192,43,213000,Sherri Mackleberry,Springfield Elementary School,"Hey, leave her alone!"
+44108,192,44,214000,Nelson Muntz,Springfield Elementary School,You leave her alone!
+44109,192,45,219000,Kids,Springfield Elementary School,He started it! / You're not the boss of me! / Who put you in charge?
+44110,192,46,219000,Ralph Wiggum,Springfield Elementary School,"Oh, Ca - na - da..."
+44111,192,47,221000,Seymour Skinner,Springfield Elementary School,"Order, order! Do you kids want to be like the real U.N., or do you just want to squabble and waste time?"
+44112,192,48,230000,Marge Simpson,Springfield Elementary School,"Have a great weekend, kids! Be nice to the underprivileged countries."
+44113,192,49,234000,Chief Wiggum,Springfield Elementary School,"Good luck, Ralphie! If your nose starts bleeding, it means you're picking it too much. Or not enough."
+44115,192,51,242000,Seymour Skinner,Bus,"Okay, kids. Otto's in charge. Remember, Otto, we're trusting you with our greatest natural resource, the school bus."
+44117,192,53,252000,Homer Simpson,Simpson Home,"Water bill, third notice... jury duty, third notice... mortgage bill, ooh, second notice..."
+44118,192,54,252000,Homer Simpson,Simpson Home,Flancrest Enterprises?
+44119,192,55,262000,Ned Flanders,Simpson Home,Oops! That's for me. Flancrest Enterprises is my home business.
+44120,192,56,267000,Homer Simpson,Simpson Home,You liar. You don't have a home business. Why would you make up a lie like that?
+44121,192,57,272000,Ned Flanders,Simpson Home,"No-ho-ho, it's true! Maude and I sell religious hook rugs over the Internet."
+44122,192,58,276000,Homer Simpson,Simpson Home,"Internet, eh?"
+44123,192,59,277000,Ned Flanders,Simpson Home,"Yes indeedy. Makin' some good scratch, too."
+44124,192,60,280000,Homer Simpson,Simpson Home,"Scratch, eh?"
+44125,192,61,282000,Ned Flanders,Simpson Home,Yep.
+44126,192,62,283000,Homer Simpson,Simpson Home,"Maude, eh?"
+44127,192,63,290000,Marge Simpson,Simpson Home,"Homer, what are you doing?"
+44128,192,64,291000,Homer Simpson,Simpson Home,"No time to answer that, Marge. I'm setting up a home office for my new business enterprise."
+44129,192,65,297000,Marge Simpson,Simpson Home,What business enterprise?
+44130,192,66,299000,Homer Simpson,Simpson Home,Ever heard of a little thing called the Internet?
+44131,192,67,302000,Marge Simpson,Simpson Home,"Internet, eh?"
+44132,192,68,304000,Homer Simpson,Simpson Home,"Oh yeah, everybody's making money off the Internet except us. We've fallen behind. Way behind."
+44133,192,69,311000,Marge Simpson,Simpson Home,Is that my good butter?
+44134,192,70,312000,Homer Simpson,Simpson Home,"Can't discuss that now, Marge. I have to write another delicious memo."
+44135,192,71,317000,Homer Simpson,Simpson Home,Mmm... memo.
+44137,192,73,321000,Singing Children,Highway,Sixty-three bottles of beer on the wall / Sixty-three bottles of beer / Take one down / Pass it around...
+44139,192,75,326000,Otto Mann,School Bus,"Oh, this song is driving me crazy!"
+44140,192,76,331000,Singing Children,School Bus,"""B-I-N-G-O, and Bingo was his name-o..."""
+44141,192,77,337000,Otto Mann,School Bus,"Man, I don't know why I bought this stupid tape."
+44142,192,78,345000,Nelson Muntz,School Bus,"Hey, Simpson -- race ya!"
+44143,192,79,347000,Bart Simpson,School Bus,First one to the front of the bus gets Martin's lunch money.
+44144,192,80,347000,Martin Prince,School Bus,What?
+44145,192,81,350000,Bart Simpson,School Bus,Go apple!
+44146,192,82,350000,Nelson Muntz,School Bus,Go orange!
+44147,192,83,353000,Ralph Wiggum,School Bus,Go banana!
+44148,192,84,360000,Milhouse Van Houten,School Bus,Make way for grapefruit! Gooo grapefruit!
+44149,192,85,371000,Otto Mann,School Bus,What the...?!
+44150,192,86,372000,Otto Mann,School Bus,It burns! I can't see!
+44153,192,89,379000,Otto Mann,Bus,"Stay calm, kids. I need you to be my eyes!"
+44154,192,90,385000,Otto Mann,Bus,"Okay, which way should I turn?"
+44160,192,96,409000,Ralph Wiggum,Bus,Go banana!
+44161,192,97,412000,Otto Mann,Bus,"Just hang tight, kids. I'll swim for help."
+44162,192,98,419000,Otto Mann,Bus,What the?... Zeppelin ruules!
+44163,192,99,428000,Bart Simpson,Bus,"I guess this is the end, Wendell."
+44164,192,100,430000,Lewis Clark,Bus,He's Wendell. I'm Lewis.
+44165,192,101,431000,Bart Simpson,Bus,Whatever. Just tell Wendell I said bye.
+44166,192,102,444000,Milhouse Van Houten,Bus,Somebody help me! I think I'm getting swimmer's ear!
+44168,192,104,466000,Sherri Mackleberry,Island,This is all Lisa's fault. She started the stupid U.N. club.
+44169,192,105,471000,Lisa Simpson,Island,"Hey, Martin seconded the motion. It's entirely his fault."
+44170,192,106,474000,Nelson Muntz,Island,"People, people. Let's not blame each other. We all know this is Milhouse's fault."
+44171,192,107,480000,Terri Mackleberry,Island,Yeah! You and your stupid grapefruit almost got us killed.
+44174,192,109,491000,Bart Simpson,Island,"What's everyone's problem? I'm glad we're stranded. It'll be just like the Swiss Family Robinson, only with more cursing. We're gonna live like kings. Damn hell ass kings!"
+44175,192,110,523000,Bart Simpson,Island,... And every night the monkey butlers will regale us with jungle stories.
+44176,192,111,528000,Nelson Muntz,Island,How many monkey butlers will there be?
+44177,192,112,530000,Bart Simpson,Island,One at first. But he'll train others.
+44178,192,113,532000,Kids,Island,Cool! / Yeah! / Monkey butlers! / Etc.
+44179,192,114,535000,Bart Simpson,Island,"Good, let's get to work. Me and Nelson will build the treehouse. Martin, draw up plans for a coconut radio and, if possible, a coconut Nintendo system."
+44180,192,115,543000,Lisa Simpson,Island,What about the rest of us?
+44181,192,116,544000,Bart Simpson,Island,You guys gather food for the big feast tonight. And maybe a little wine for the older kids.
+44182,192,117,549000,Nelson Muntz,Island,Delicious wine?
+44183,192,118,550000,Bart Simpson,Island,Exactly.
+44185,192,120,552000,Homer Simpson,Simpson Home,"What am I gonna call my Internet company? All the good names are taken. Oh, wait, I've got it! Flancrest Enterprises."
+44186,192,121,563000,Marge Simpson,Simpson Home,What exactly is it your company does again?
+44187,192,122,566000,Homer Simpson,Simpson Home,"Uh, this industry moves so fast, it's really hard to tell. That's why I need a name that's cutting edge, like Cutco... or Edgecom... Interslice... Come on, Marge -- you're good at these. Help me out."
+44188,192,123,578000,Marge Simpson,Simpson Home,How about CompuGlobal HyperMegaNet?
+44189,192,124,581000,Homer Simpson,Simpson Home,"Fine. It's not important. What really matters is my title. I think I'll make myself Vice President. No, wait... Junior Vice President."
+44190,192,125,595000,Homer Simpson,Simpson Home,CompuGlobal HyperMegaNet. Junior Vice President Homer Simpson speaking. How may I direct your call?
+44191,192,126,602000,Homer Simpson,Simpson Home,It's Patty.
+44193,192,128,607000,Bart Simpson,Island,"Food patrol, we're all starved. Let's see what you've got."
+44194,192,129,612000,Bart Simpson,Island,"That's it? What happened to all the lobsters, mangoes and chewy chewy cocoa beans?"
+44195,192,130,617000,Lisa Simpson,Island,All we found were these oozing berries. And they look pretty poisonous.
+44196,192,131,621000,Ralph Wiggum,Island,I eated the purpleberries.
+44197,192,132,631000,Bart Simpson,Island,"How are they, Ralph? Good?"
+44198,192,133,634000,Ralph Wiggum,Island,They taste like burning.
+44199,192,134,637000,Bart Simpson,Island,"Okay, food patrol blew it."
+44200,192,135,641000,Milhouse Van Houten,Island,"Yeah? Well, your tree house looks kinda crummy, too. Kinda really crummy."
+44201,192,136,647000,Bart Simpson,Island,"Well, when monsoon season comes, you'll be glad it's there."
+44202,192,137,652000,Bart Simpson,Island,"Oh. No food, no shelter, no monkey butlers... This island is a death-hole. We should've just swum for it like Otto."
+44204,192,139,664000,Otto Mann,Ocean,"Well, I'm done for. At least I'll leave a beautiful corpse."
+44205,192,140,672000,Otto Mann,Ocean,Whoa!
+44206,192,141,679000,Otto Mann,Ocean,"Oh, thank the Good Dude, I'm saved! And we can go back for the kids, too!"
+44207,192,142,690000,Chinese Sailor #1,Ocean,Hm. Wo-min guantou shi-pin chang hai xuyao nuli gongren ma?
+44208,192,143,690000,Chinese Sailor #2,Ocean,Nul i gongen bulun zenme duo dou bu hui guo fen!
+44209,192,144,690000,Otto Mann,Ocean,I think I'm gonna like it on this boat.
+44211,192,146,695000,Milhouse Van Houten,Island,Run for your lives!
+44212,192,147,696000,Milhouse Van Houten,Island,Monster! Monster!
+44213,192,148,708000,Nelson Muntz,Island,"There's no monster, you big Scaredy. Scaredy got scare-ared."
+44214,192,149,712000,Milhouse Van Houten,Island,"Well, you'd be scared too if you saw a monster."
+44215,192,150,715000,Nelson Muntz,Island,Nuh-uh.
+44216,192,151,715000,Milhouse Van Houten,Island,Uh-huh.
+44217,192,152,716000,Nelson Muntz,Island,Unlikely.
+44218,192,153,716000,Milhouse Van Houten,Island,Likely.
+44219,192,154,718000,Lisa Simpson,Island,Knock it off. We gotta find a way to light a fire.
+44220,192,155,721000,Nelson Muntz,Island,No problem. We can use Scaredy's glasses.
+44221,192,156,726000,Milhouse Van Houten,Island,Hey! What's he doin'? What's that sound?
+44222,192,157,732000,Nelson Muntz,Island,There you go. Good as new.
+44223,192,158,734000,Milhouse Van Houten,Island,What's good as new? Who's talking?
+44224,192,159,740000,Sherri Mackleberry,Island,"I'm so hungry, I could eat at Arby's."
+44225,192,160,744000,Kids,Island,"Oh, my gosh. Ooh. / / Etc."
+44226,192,161,745000,Nelson Muntz,Island,She really is hungry.
+44227,192,162,746000,Lisa Simpson,Island,She's really hungry.
+44228,192,163,748000,Milhouse Van Houten,Island,It's the monster!
+44229,192,164,752000,Bart Simpson,Island,"No it's not, it's my tummy. I mean stomach. Gut. Crap factory."
+44230,192,165,757000,Lisa Simpson,Island,Wait a minute... We had a cooler full of snacks on the bus.
+44231,192,166,762000,Bart Simpson,Island,"Hey, yeah! And I think I know how I can get it."
+44232,192,167,767000,Milhouse Van Houten,Island,"Hey, I need that to live!"
+44016,192,173,797000,Bart Simpson,Island,Does anyone here like food?
+44077,192,174,805000,Kids,Island,We're saved! / I love food! / All right! / He did it!
+154944,192,176,805000,Lisa Simpson,Island,Stop!
+44236,192,177,807000,Lisa Simpson,Island,"We may have to live on this food for a long time, so no more till tomorrow."
+44237,192,178,812000,Milhouse Van Houten,Island,But I'm hungry now.
+44238,192,179,813000,Kids,Island,Yeah! / Me too!
+44239,192,180,815000,Nelson Muntz,Island,Yeah! Who put the Duchess of Dork in charge?
+44240,192,181,818000,Lisa Simpson,Island,"No one, but if we're gonna survive, we need rules and order. Let's not forget what we learned in the U.N. Club."
+44242,192,183,825000,Lisa Simpson,Island,"Not now, Martin."
+44243,192,184,832000,Lisa Simpson,Island,Who wants rations?
+44244,192,185,836000,Kids,Island,Me! / I do! / Let's eat!
+44245,192,186,836000,Nelson Muntz,Island,"I'm so hungry, I could puke."
+44247,192,188,841000,Terri Mackleberry,Island,Where'd all the food go?
+44248,192,189,847000,Milhouse Van Houten,Island,Mornin'. Is it time to eat?
+44249,192,190,850000,Nelson Muntz,Island,Looks like you already did.
+44250,192,191,852000,Milhouse Van Houten,Island,What are you talkin' about?
+44251,192,192,854000,Lewis Clark,Island,You ate our food.
+44252,192,193,856000,Sherri Mackleberry,Island,"Thanks a lot, Milhouse. Now we're all gonna die because of you."
+44253,192,194,860000,Milhouse Van Houten,Island,But I swear I didn't do it.
+44254,192,195,864000,Nelson Muntz,Island,Nacho cheese. Get him!
+44256,192,197,872000,Milhouse Van Houten,Island,You wouldn't dare hurt me! You forget that I have... THE GLASSES!
+44257,192,198,878000,Nelson Muntz,Island,Yoink!
+44258,192,199,880000,Milhouse Van Houten,Island,"Now that you've got everything you need, I'll just, you know, get out of your hair."
+44259,192,200,886000,Nelson Muntz,Island,"Not so fast, two eyes. C'mon, let's slice him open and get our food back."
+44260,192,201,891000,Lisa Simpson,Island,Wait! We're not savages! We live in a society of law. Milhouse has the right to a fair trial!
+44261,192,202,900000,Kids,Island,Ohh man.
+44262,192,203,900000,Nelson Muntz,Island,Society blows.
+44264,192,205,904000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Ooo, Captain Janeway... Mmmf. Lace, the final brassiere."
+44265,192,206,910000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Oh, hurry up, I'm a busy man! Ugh, this high-speed modem is intolerably slow."
+44266,192,207,921000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Hey, what the-- Huh, the Internet King. I wonder if he can provide faster nudity."
+44268,192,209,927000,Homer Simpson,Simpson Home,"Welcome to the Internet, my friend. How can I help you?"
+44270,192,210,930000,Comic Book Guy,Simpson Home,I'm interested in upgrading my 28.8 kilobaud Internet connection to a 1.5-megabit fiber-optic T1 line.
+44271,192,211,937000,Comic Book Guy,Simpson Home,Will you be able to provide an IP router that's compatible with my token-ring ethernet LAN configuration?
+44272,192,212,945000,Homer Simpson,Simpson Home,Can I have some money now?
+44274,192,214,948000,Milhouse Van Houten,Island,"Uhm, is this cage really necessary?"
+44275,192,215,951000,Bart Simpson,Island,No talking in the cage. Court is now in session. All rise.
+44276,192,216,956000,Bart Simpson,Island,Ah-ha! Made you rise.
+44277,192,217,958000,Lisa Simpson,Island,"Your honor, the defense calls its first and only witness: Milhouse Van Houten."
+44278,192,218,969000,Kids,Island,"/ Oh, Milhouse Van Houten."
+44279,192,219,969000,Lisa Simpson,Island,"Milhouse, did you steal the food?"
+44280,192,220,971000,Milhouse Van Houten,Island,Nuh-uh. No way.
+44281,192,221,973000,Lisa Simpson,Island,Could anyone else have taken it?
+44282,192,222,976000,Milhouse Van Houten,Island,Well... I guess you could of.
+44283,192,223,979000,Lisa Simpson,Island,Milhouse! I am defending you!
+44284,192,224,981000,Milhouse Van Houten,Island,"Oh, sorry. I'm just saying, it was either you or the monster."
+44285,192,225,985000,Nelson Muntz,Island,"Monster? Oh, please."
+44286,192,226,988000,Bart Simpson,Island,"I remind you, we are not here to debate the existence of monsters."
+44287,192,227,992000,Kids,Island,Aww. / Too bad. / I wanted to.
+44288,192,228,993000,Lisa Simpson,Island,The defense has just one more question.
+44289,192,229,996000,Lisa Simpson,Island,Did any one of you actually see Milhouse eat the food?
+44290,192,230,1004000,Lisa Simpson,Island,I rest my case.
+44291,192,231,1005000,Bart Simpson,Island,"Prosecutor, your witness."
+44292,192,232,1018000,Nelson Muntz,Island,"You liar! You did it, ya lyin' jerk! Take that! You did it! You did it! Ma--"
+44293,192,233,1022000,Lisa Simpson,Island,Object-Objection! He's not asking any questions!
+44294,192,234,1025000,Bart Simpson,Island,Hmm. I'm gonna allow this.
+44295,192,235,1030000,Nelson Muntz,Island,Prosecution rests.
+44296,192,236,1035000,Bart Simpson,Island,"After careful deliberation, it's my opinion that Milhouse probably did eat the food. But since there's no proof, I must find him not guilty."
+44297,192,237,1047000,Milhouse Van Houten,Island,All right!
+44298,192,238,1048000,Kids,Island,"Ohhh... / Aw, man."
+44299,192,239,1050000,Martin Prince,Island,But he ate our food!
+44300,192,240,1052000,Lisa Simpson,Island,The law has spoken.
+44301,192,241,1054000,Nelson Muntz,Island,"Ah, sucks to the law!"
+44302,192,242,1059000,Lisa Simpson,Island,"Stop! Leave Milhouse alone! Help me out here, Bart."
+44303,192,243,1062000,Bart Simpson,Island,"I don't know, Lis... to be honest, that verdict made me pretty angry."
+44304,192,244,1066000,Nelson Muntz,Island,"Bart's with us, law girl! Step aside!"
+44305,192,245,1069000,Bart Simpson,Island,"Hey, man! Leave my sister alone!"
+44306,192,246,1071000,Nelson Muntz,Island,"Oh, so you're one of them. So be it. KILL-THE-DORKS!"
+44307,192,247,1077000,Lewis Clark,Island,BASH-THEIR-BUTTS!
+44308,192,248,1079000,Terri Mackleberry,Island,KICK-THEIR-SHINS!
+44309,192,249,1081000,Kids,Island,KILL-THE-DORKS! / BASH-THEIR-BUTTS--
+44310,192,250,1084000,Lisa Simpson,Island,RUN-A-WAY!
+44311,192,251,1093000,Nelson Muntz,Island,The hunt is on...
+44313,192,253,1097000,Homer Simpson,Simpson Home,"Ooo, they have the Internet on computers now..."
+44314,192,254,1099000,Marge Simpson,Simpson Home,"Homer, Bill Gates is here."
+44315,192,255,1101000,Homer Simpson,Simpson Home,"Bill Gates? Billionaire computer nerd Bill Gates? Oh my God, oh my God! Get out of sight, Marge! I don't want this to look like a two-bit operation!"
+44317,192,257,1111000,Bill Gates,Simpson Home,Mr. Simpson?
+44318,192,258,1112000,Homer Simpson,Simpson Home,You don't look so rich.
+44319,192,259,1114000,Bill Gates,Simpson Home,Don't let the haircut fool you. I'm exceedingly wealthy.
+44320,192,260,1117000,Homer Simpson,Simpson Home,"Get a load of the bowl job, Marge."
+44321,192,261,1119000,Bill Gates,Simpson Home,"Your Internet ad was brought to my attention. But I can't figure out what, if anything, CompuGlobal HyperMegaNet does. So rather than risk competing with you, I've decided simply to buy you out."
+44322,192,262,1130000,Homer Simpson,Simpson Home,"This is it, Marge. I poured my heart and soul into this business, and now it's finally paying off! We're rich! Richer than astronauts!"
+44323,192,263,1138000,Marge Simpson,Simpson Home,"Homer, quiet. You'll queer the deal."
+44324,192,264,1141000,Homer Simpson,Simpson Home,"Oh, right. I reluctantly accept your proposal."
+44325,192,265,1145000,Bill Gates,Simpson Home,"Well, everyone always does. ""Buy him out,"" boys!"
+44326,192,266,1155000,Homer Simpson,Simpson Home,"Hey, what the hell's going on?!"
+44327,192,267,1157000,Bill Gates,Simpson Home,"Oh, I didn't get rich by writin' a lot of checks."
+44331,192,271,1180000,Milhouse Van Houten,Island,I can't go on. You two go ahead. And carry me with you.
+44332,192,272,1186000,Lisa Simpson,Island,"Aw, crud. / Aw, come on, man."
+44333,192,273,1187000,Milhouse Van Houten,Island,Hurry! They're catching up!
+44334,192,274,1193000,Bart Simpson,Island,"Here, Milhouse, you go first."
+44336,192,275,1197000,Bart Simpson,Island,"Okay, now throw the vine back!"
+44337,192,276,1199000,Milhouse Van Houten,Island,There's no time!
+44338,192,277,1213000,Lisa Simpson,Island,Look! We can hide in that cave!
+44340,192,279,1220000,Lisa Simpson,Cave,We should be safe in here.
+44341,192,280,1221000,Nelson Muntz,Cave,They're trapped in the cave! Move in for the kill!
+44342,192,281,1224000,Lisa Simpson,Cave,"Oh, figs."
+44343,192,282,1229000,Lisa Simpson,Cave,Stop! You are in violation of the Model U.N. Charter!
+44344,192,283,1234000,Lisa Simpson,Cave,"Uh, that's right. The U.N. doesn't look too kindly on..."
+44345,192,284,1238000,Nelson Muntz,Cave,The monster!
+44346,192,285,1249000,Martin Prince,Cave,"Your ""monster"" appears to be nothing but a run-of-the-mill wild boar."
+44347,192,286,1253000,Bart Simpson,Cave,"Hey, look at his tusk!"
+44348,192,287,1255000,Nelson Muntz,Cave,"So the boar ate our food! Oh, sorry about that whole tryin' to kill ya thing."
+44349,192,288,1261000,Milhouse Van Houten,Cave,"Yeah, well, you should be. I only stole two sandwiches and a bag of Doritos."
+44350,192,289,1267000,Lisa Simpson,Cave,"Hey... If a boar can survive here, there must be a source of food."
+44351,192,290,1272000,Lisa Simpson,Cave,"Look, he's licking the slime off that rock! That's what he's been eating -- slime! And there's enough slime for all of us! We're saved!"
+44353,192,292,1290000,Nelson Muntz,Island,All that slime made this boar extra tender.
+44354,192,293,1295000,Martin Prince,Island,"More snout, anyone?"
+44355,192,294,1297000,Bart Simpson,Island,"Mmm. Mm. How's your dinner, Lis?"
+44356,192,295,1300000,Lisa Simpson,Island,"Ah, shut up. Savages."
+44357,192,296,1305000,James Earl Jones,Island,"So, the children learned to function as a society. And eventually, they were rescued by, oh, let's say, Moe."

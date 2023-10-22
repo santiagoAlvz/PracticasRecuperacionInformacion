@@ -1,0 +1,238 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+126004,486,1,12000,Seymour Skinner,Springfield Elementary School,"Well done, the band. We're all bursting with pride after our girls' basketball team beat Shelbyville two-nothing in triple overtime! Now let's make some noise!!! Using our INSIDE VOICES!"
+126006,486,3,27000,Seymour Skinner,Springfield Elementary School,Please welcome Springfield Elementary's own Lady Pumas!
+126008,486,5,38000,Lisa Simpson,Springfield Elementary School,"I'm sorry, but the team all got food poisoning at the pre-rally egg salad sandwich party. Luckily, as equipment manager, I... was not... invited! Woo-hoo!"
+126009,486,6,49000,Seymour Skinner,Springfield Elementary School,No team? I guess I just have to give you all an hour of free play.
+126011,486,8,55000,Nelson Muntz,Springfield Elementary School,Let chaos reign!
+126012,486,9,60000,Lisa Simpson,Springfield Elementary School,"Actually, I do have a speech prepared!"
+126013,486,10,62000,Seymour Skinner,Springfield Elementary School,Excellent! Free play cancelled!
+126015,486,12,66000,Bart Simpson,Springfield Elementary School,No one cancels my free play!
+126016,486,13,69000,Bart Simpson,Springfield Elementary School,"Sorry, man."
+126017,486,14,71000,Milhouse Van Houten,Springfield Elementary School,It's okay. Thanks for making me part of the revolution!
+126018,486,15,74000,Seymour Skinner,Springfield Elementary School,"Edna, control your student! He's ruined more assemblies than the afternoon sun in the west window!"
+126019,486,16,79000,Edna Krabappel-Flanders,Springfield Elementary School,He's uncontrollable! Pumpkin stickers mean nothing to him!
+126020,486,17,82000,Seymour Skinner,Springfield Elementary School,That's crazy talk!
+126022,486,19,91000,Bart Simpson,Springfield Elementary School,Whee!
+125961,486,20,92000,Groundskeeper Willie,Springfield Elementary School,Me bleachers have been weaponized!
+125991,486,21,95000,Seymour Skinner,Springfield Elementary School,Abandon gym!
+126024,486,23,117000,Edna Krabappel-Flanders,Springfield Elementary School,You unrepentant little twerp!
+126025,486,24,125000,Miss Hoover,Springfield Elementary School,"Oh, Edna!"
+126026,486,25,127000,Edna Krabappel-Flanders,Springfield Elementary School,It was an open hand! Does that help?
+126027,486,26,129000,Seymour Skinner,Springfield Elementary School,"Edna, we can tolerate mild alcoholism, leaving melted cheese in the microwave, even selling A's for cigarettes. But in laying a hand on a student, you have crossed a line."
+126028,486,27,140000,Seymour Skinner,Springfield Elementary School,"Nurse, get a slap kit."
+126029,486,28,141000,School Nurse,Springfield Elementary School,"Right away, sir."
+126032,486,31,143000,Edna Krabappel-Flanders,Skinner's Office,"In all my years of teaching, I've never raised a hand to a student."
+126033,486,32,148000,Homer Simpson,Skinner's Office,But you learned! You grew!
+126034,486,33,150000,Marge Simpson,Skinner's Office,No! You should never raise your hand to a child. Just leave the crust on their sandwiches. They'll get the message.
+126035,486,34,157000,Gary Chalmers,Skinner's Office,"Rest assured, Mrs. Simpson, that we have a zero-tolerance policy for this sort of thing when it occurs in front of witnesses."
+126036,486,35,164000,Edna Krabappel-Flanders,Skinner's Office,What's going to happen to me?
+126037,486,36,166000,Gary Chalmers,Skinner's Office,"Edna, you're suspended with full pay until the hearing, which is currently scheduled for fifty-seven years from tomorrow. It was going to be sixty, but I moved it up because I like the way you torment Skinner."
+126038,486,37,177000,Edna Krabappel-Flanders,Skinner's Office,"So I still get my check, but I get to stay at home?"
+126039,486,38,182000,Seymour Skinner,Skinner's Office,I'm afraid it's not quite that simple.
+126040,486,39,184000,Gary Chalmers,Skinner's Office,"Uh Seymour, who's running this meeting?"
+126041,486,40,186000,Homer Simpson,Skinner's Office,I thought I was.
+126042,486,41,188000,Gary Chalmers,Skinner's Office,"Edna, until the state disciplinary committee rules on your case, every workday you'll report to a school board holding facility -- an educational limbo as it were, where you are the un-baptized dead baby."
+126043,486,42,202000,Seymour Skinner,Skinner's Office,They never seem to like that analogy.
+126046,486,45,206000,Gary Chalmers,Administrative Detention Room,"This is the ""Rubber Room,"" where accused teachers are held until the school board decides what to do with them. You show up here every day, seven a.m. to four p.m. Shoes remain on and cell phones remain off. No wi-fi, and you may not refer to this experience as Kafkaesque or Orwellian."
+126047,486,46,223000,Edna Krabappel-Flanders,Administrative Detention Room,I have to come here every day?!
+126048,486,47,225000,Gary Chalmers,Administrative Detention Room,"Or, you could quit."
+126049,486,48,227000,Edna Krabappel-Flanders,Administrative Detention Room,"You'd like that, wouldn't you?"
+126050,486,49,229000,Gary Chalmers,Administrative Detention Room,The only thing I'd like more is if I could quit.
+126051,486,50,232000,Edna Krabappel-Flanders,Administrative Detention Room,"Well, I'm not quitting. I'm staying here till you give me my job back."
+126052,486,51,236000,Edna Krabappel-Flanders,Administrative Detention Room,"So, what do you do for fun here?"
+126053,486,52,238000,Jasper Beardly,Administrative Detention Room,"You'll find ways to pass the time. Me, I watch that crack in the ceiling."
+126054,486,53,243000,Jasper Beardly,Administrative Detention Room,"Hey, find your own crack!"
+126055,486,54,246000,Gary Chalmers,Administrative Detention Room,"Now before I leave, let me turn on this malfunctioning air conditioner."
+126056,486,55,251000,Edna Krabappel-Flanders,Administrative Detention Room,Is that ice?
+126057,486,56,253000,Gary Chalmers,Administrative Detention Room,"No, no, they're spider eggs."
+126058,486,57,257000,Gary Chalmers,Administrative Detention Room,"He's a science teacher, he'll know what to do."
+126061,486,60,268000,Bart Simpson,RUBBER ROOM,Psst! Mrs. K!
+126062,486,61,270000,Bart Simpson,RUBBER ROOM,Down here!
+126063,486,62,271000,Edna Krabappel-Flanders,RUBBER ROOM,Haven't you caused enough trouble?
+126064,486,63,274000,Bart Simpson,RUBBER ROOM,You shouldn't suffer for my bad deed. It should just go unpunished forever.
+126065,486,64,278000,Edna Krabappel-Flanders,RUBBER ROOM,"Fine, half-assed apology accepted. Now if you'll excuse me, I have a lot of very important things to do."
+126066,486,65,294000,Edna Krabappel-Flanders,RUBBER ROOM,What else do you wanna talk about?
+126067,486,66,295000,Bart Simpson,RUBBER ROOM,Meet me in the bathroom.
+126068,486,67,301000,Bart Simpson,RUBBER ROOM,Check this out: a dead possum.
+126069,486,68,304000,Bart Simpson,RUBBER ROOM,Aye carumba!
+126071,486,70,308000,Edna Krabappel-Flanders,Bathroom,"Okay, Bart, what's going on? I'm a teacher in a bathroom with a student. That's why most of these people are here in the first place."
+126072,486,71,314000,Bart Simpson,Bathroom,"Mrs. K., I'm here to spring you."
+126073,486,72,317000,Edna Krabappel-Flanders,Bathroom,"Well, that's kind of you. Especially after I nearly choked the life out of you."
+126074,486,73,321000,Bart Simpson,Bathroom,You didn't do that.
+126075,486,74,322000,Edna Krabappel-Flanders,Bathroom,"No, but that's what I told everyone I did to earn the respect of the gangs."
+126076,486,75,329000,Edna Krabappel-Flanders,Bathroom,But I can't just wander out of here whenever I feel like it.
+126077,486,76,332000,Bart Simpson,Bathroom,Who says you're leaving?
+126078,486,77,335000,Edna Krabappel-Flanders,Bathroom,You made a dummy of me?
+126079,486,78,337000,Bart Simpson,Bathroom,"Mm, I use it to workshop my pranks."
+126080,486,79,345000,Bart Simpson,Bathroom,Now follow me!
+126081,486,80,350000,Edna Krabappel-Flanders,Bathroom,I don't know about this.
+126082,486,81,352000,Bart Simpson,Bathroom,I can't believe a middle-aged woman is scared of a three-story drop.
+126083,486,82,356000,Edna Krabappel-Flanders,Bathroom,I'll show you who's middle-aged!
+126085,486,84,365000,Edna Krabappel-Flanders,Bathroom,Oh great! The one day I put cream cheese on my bagel!
+126086,486,85,376000,Ned Flanders,Bathroom,Did a volcano erupt in Candyland? 'Cause I just caught me a flyin' red hot!
+126087,486,86,382000,Edna Krabappel-Flanders,Bathroom,Ha! Ah...
+126089,486,88,387000,Ned Flanders,Administrative Suspension Building,"You know, I don't believe we've ever been formally introduced. Anyhoo, so I don't commit the deadliest of sins... omission... here's my card."
+126090,486,89,396000,Edna Krabappel-Flanders,Administrative Suspension Building,Edna Krabappel. Good luck finding a rhyme for that.
+126091,486,90,400000,Ned Flanders,Administrative Suspension Building,"Okay, Ms. Krabappel, what made you topple?"
+126092,486,91,402000,Edna Krabappel-Flanders,Administrative Suspension Building,"Oh, your card doesn't lie."
+126093,486,92,405000,Ned Flanders,Administrative Suspension Building,"Well, I'm a truthful kinda guy."
+126094,486,93,407000,Edna Krabappel-Flanders,Administrative Suspension Building,And I like how it's printed in orange.
+126096,486,95,411000,Ned Flanders,Administrative Suspension Building,"So, uh, we were talkin' about why you decided to drop in to the ""Flanders arms."""
+126097,486,96,416000,Edna Krabappel-Flanders,Administrative Suspension Building,For some reason I was following the advice of one Bart Simpson.
+126098,486,97,420000,Ned Flanders,Administrative Suspension Building,"Bart Simpson? Why, he lives right next door to me! Yeah, when they made him, they did not skimp on the puppy dog tails."
+126099,486,98,426000,Edna Krabappel-Flanders,Administrative Suspension Building,And what about that father?
+126100,486,99,428000,Ned Flanders,Administrative Suspension Building,"Homer? Yeah, he's the peanut in your popcorn... lots of fun... I guess. So, what say we have lunch?"
+126102,486,101,438000,Ned Flanders,MALL RESTAURANT,"...Y'know, I wouldn't mind Homer lying naked in his hammock, but does he have to string it up higher than the fence line?"
+126103,486,102,444000,Edna Krabappel-Flanders,MALL RESTAURANT,I'll bet your wife doesn't like it.
+126104,486,103,446000,Ned Flanders,MALL RESTAURANT,"Oh, I'm afraid my Maudie's putting plastic on the clouds now."
+126105,486,104,449000,Edna Krabappel-Flanders,MALL RESTAURANT,"Oh, you poor man."
+126106,486,105,451000,Ned Flanders,MALL RESTAURANT,"Besides my kids, the only thing in my life is my business... The Leftorium. We've been the anchor store in the ""sad mall"" for the last ten years."
+126107,486,106,459000,Ned Flanders,MALL RESTAURANT,"And you're a former Mrs. So, uh... where's your husband buried?"
+126108,486,107,464000,Edna Krabappel-Flanders,MALL RESTAURANT,Probably between the hooters of a coat check girl in Shelbyville. Ha!
+126109,486,108,467000,Ned Flanders,MALL RESTAURANT,"Oh boy, that laugh is infectious. Ha!... Ha!... that's fun!"
+126111,486,110,473000,Edna Krabappel-Flanders,Springfield Street,"Thank you for lunch, Ned."
+126112,486,111,475000,Ned Flanders,Springfield Street,"Well thank you for taking me to that Pinkberry place. It's a lot less racy than its name would lead you to believe. Crossin' it off my ""do-not-go"" list."
+126113,486,112,484000,Ned Flanders,Springfield Street,"Well sir, I guess I better refenestrate ya."
+126114,486,113,491000,Ned Flanders,Springfield Street,Any chance I could see you again?
+126115,486,114,493000,Edna Krabappel-Flanders,Springfield Street,"You know, I am a fallen woman..."
+126116,486,115,497000,Ned Flanders,Springfield Street,"Whoa, slow down. I never go to ""second entendre"" on the first date."
+126117,486,116,507000,Angry Female Teacher,Springfield Street,"You've been in there for three hours! What are you doing, taking a bath?"
+126118,486,117,515000,Homer Simpson,Springfield Street,Awww...
+126120,486,119,536000,Gary Chalmers,RUBBER ROOM,"Good news, Edna. The governor crushed the teacher's union so you don't have to stay here anymore. Now I can just fire you."
+126121,486,120,544000,Edna Krabappel-Flanders,RUBBER ROOM,Where will I go?
+126122,486,121,545000,Gary Chalmers,RUBBER ROOM,I'll rehire you. But you will have to work weekends as a prison guard.
+126123,486,122,550000,Edna Krabappel-Flanders,RUBBER ROOM,"Well, I would get a chance to see lots of my former students. You've got a deal."
+126126,486,125,555000,Edna Krabappel-Flanders,Edna's Apartment,Mmm! Getting sprung really made me feel like celebrating. Let's see what you're hiding under this sweater.
+126127,486,126,562000,Edna Krabappel-Flanders,Edna's Apartment,"Huh. Well, maybe I should lose a layer."
+126129,486,128,570000,Ned Flanders,Edna's Apartment,"Edna, you're a very beautiful woman... but I'm a little uh, you know... uncomfortable with premarital sex."
+126130,486,129,578000,Edna Krabappel-Flanders,Edna's Apartment,"Oh come on, Ned, we've both been married before. Those two boys of yours weren't delivered by stork."
+126132,486,130,584000,Ned Flanders,Edna's Apartment,Oh yes they were! We deliberately chose a Doctor Stork so we could say it without lying.
+126133,486,131,589000,Ned Flanders,Edna's Apartment,"But I think if we hold off for a while, you'll find I'm well worth the wait. Like a mild cheddar I get tangy when I'm sittin' on the shelf."
+126134,486,132,597000,Edna Krabappel-Flanders,Edna's Apartment,"Okay, I'll try it your way. But can I at least nibble on the cheese?"
+126135,486,133,605000,Ned Flanders,Edna's Apartment,"Well, a little nibble won't hurt your appetite."
+126136,486,134,618000,Ned Flanders,Edna's Apartment,You have the energy for one more?
+126137,486,135,621000,Edna Krabappel-Flanders,Edna's Apartment,Absolutely. This is the best DVD about cheese-making I've ever seen.
+126138,486,136,626000,Edna Krabappel-Flanders,Edna's Apartment,"Oh, great."
+126139,486,137,629000,Ken Burns,Edna's Apartment,Episode Seventeen: Muenster.
+126140,486,138,631000,Ned Flanders,Edna's Apartment,"Oh, what the heck. I know it's impolite to make a move till episode twenty-five of a Ken Burns documentary, but you're that special."
+126141,486,139,640000,Edna Krabappel-Flanders,Edna's Apartment,Ned?
+126142,486,140,642000,Ned Flanders,Edna's Apartment,"That's right, I'm down to my wife-blesser."
+126147,486,145,654000,Dewey Largo,Springfield Elementary School,It's pinot grigio time!
+126148,486,146,659000,Bart Simpson,Springfield Elementary School,"See ya tomorrow, Teach."
+126149,486,147,661000,Edna Krabappel-Flanders,Springfield Elementary School,Don't remind me.
+126152,486,150,675000,Bart Simpson,Springfield Streets,Mrs. K.? Are you still bumping moustaches with Ned?
+126153,486,151,678000,Edna Krabappel-Flanders,Springfield Streets,"Yes. And the way things are going, you're going to be seeing me here a lot."
+126154,486,152,678000,Bart Simpson,Springfield Streets,Even on snow days?
+126155,486,153,684000,Edna Krabappel-Flanders,Springfield Streets,"Snow days, strike days, half-day afternoons, and all summer long! By the way -- you forgot to bring home your math worksheet."
+126156,486,154,691000,Edna Krabappel-Flanders,Springfield Streets,It's due tomorrow -- no excuses.
+126157,486,155,693000,Bart Simpson,Springfield Streets,But... what if my dog eats it?
+126158,486,156,696000,Edna Krabappel-Flanders,Springfield Streets,That's the dog that's always eating your homework?
+126159,486,157,698000,Bart Simpson,Springfield Streets,Yeah... um... he hates how learning has taken me to a place he'll never go. See?
+126160,486,158,708000,Bart Simpson,Springfield Streets,Hang on. Wait a minute.
+126023,486,161,726000,Homer Simpson,FLANDERS BACK YARD,Little help...
+126131,486,162,726000,Homer Simpson,FLANDERS BACK YARD,"Little help... little help... Flanders, little help?"
+126163,486,163,732000,Ned Flanders,FLANDERS BACK YARD,"Homer, could you stop throwin' balls over my fence?"
+126164,486,164,736000,Homer Simpson,FLANDERS BACK YARD,"Oh, absolutely, Ned. Sorry."
+126165,486,165,739000,Homer Simpson,FLANDERS BACK YARD,Little help...
+126167,486,167,749000,Homer Simpson,Simpson Home,"Don't worry, sweetie. Daddy will put Jack back in the box."
+126168,486,168,753000,Homer Simpson,Simpson Home,"Okay, time to go back in the... night-night... This is harder than it looks... don't you humiliate me in front of my kid... I thought we had a deal, man!"
+126169,486,169,770000,Homer Simpson,Simpson Home,"Well, if it isn't the local school marm... and his new girlfriend. That's a burn on you, Flanders."
+126170,486,170,780000,Ned Flanders,Simpson Home,"Pretty funny, Homer."
+126171,486,171,782000,Edna Krabappel-Flanders,Simpson Home,"It's not funny at all. Homer, I'd appreciate it if you weren't so rude to Ned."
+126172,486,172,786000,Homer Simpson,Simpson Home,"Whoa! Flanders, this chick does not get our thing!"
+126173,486,173,789000,Ned Flanders,Simpson Home,Actually... she sort of does.
+126175,486,175,793000,Edna Krabappel-Flanders,Simpson Home,"Homer, do you know how lucky you are? Ned is a wonderful, caring man, and a darn good neighbor!"
+126176,486,176,799000,Ned Flanders,Simpson Home,Language.
+126177,486,177,800000,Homer Simpson,Simpson Home,"Yeah, language."
+126178,486,178,801000,Edna Krabappel-Flanders,Simpson Home,"Sorry, Ned, but I can't watch this guy push you around anymore."
+126180,486,180,806000,Homer Simpson,Simpson Home,"Marge, tell her how I don't push Ned around."
+126181,486,181,809000,Marge Simpson,Simpson Home,"Actually, sometimes you do push Ned around."
+126183,486,183,813000,Marge Simpson,Simpson Home,"Don't do that, Homie. It rubs off your side hair."
+126184,486,184,816000,Homer Simpson,Simpson Home,"Hey Ned, can I borrow some hair?"
+126185,486,185,819000,Edna Krabappel-Flanders,Simpson Home,Which brings me to item number two on the agenda: I understand you borrowed a thing or two from Ned that you never returned...
+126186,486,186,828000,Ned Flanders,Simpson Home,And I'll just take my tumbleweed back...
+126187,486,187,832000,Bart Simpson,Simpson Home,"See, Dad? Having Krabappel next door is nothing but trouble. Teachers should not be allowed to live near their students. We're natural enemies, like George Washington and Abraham Lincoln."
+126188,486,188,843000,Homer Simpson,Simpson Home,"Don't panic, son. We can bust up Teachy and Preachy. Here's what we do: I'll take Flanders out and remind him of the joys of the single life. You scare Rod and Todd by telling them Krabappel will become their evil stepmother."
+126189,486,189,855000,Bart Simpson,Simpson Home,"If fairy tales have taught us one thing, it's that first wives are perfect, second wives are horrible."
+126190,486,190,861000,Homer Simpson,Simpson Home,Just the opposite of real life.
+126192,486,192,865000,Homer Simpson,Moe's Tavern,"Yeah, isn't this place great? If you're single you can come here every night."
+126193,486,193,869000,Ned Flanders,Moe's Tavern,"I don't wanna come here. Last time I did, someone slipped me a Mickey and wrote ""CHURCHY JOE"" on my face."
+126195,486,195,875000,Moe Szyslak,Moe's Tavern,It's your own fault. You gotta read the coaster.
+126196,486,196,879000,Ned Flanders,Moe's Tavern,Oh my.
+126197,486,197,882000,Homer Simpson,Moe's Tavern,"Ned, let's cut to the chase."
+126198,486,198,884000,Ned Flanders,Moe's Tavern,"Yeah, let me guess. You're probably gonna do something boneheaded like try to talk me outta seein' Edna."
+126199,486,199,889000,Homer Simpson,Moe's Tavern,"Ned, if it's boneheaded to talk you outta seein' Edna, then I don't wanna be brainheaded."
+126200,486,200,894000,Ned Flanders,Moe's Tavern,"Homer, listen to me. For a long time now I've been lookin' over the fence at that wonderful relationship you have with Marge. Then I remember what it was like to have a sweet woman of my own lying in a twin bed across the hall from mine."
+126201,486,201,907000,Ned Flanders,Moe's Tavern,Someone to hold the other end of the sheet when I fold it up. Someone to put in my prayers.
+126202,486,202,912000,Homer Simpson,Moe's Tavern,"Oh Ned, I never dreamed that beneath those iddilies and diddilies there was a dude."
+126203,486,203,918000,Ned Flanders,Moe's Tavern,"That's right. And like any man, I put on my secret Christian underpants one leg at a time."
+126204,486,204,926000,Homer Simpson,Moe's Tavern,"Oh, you beautiful, beautiful wuss."
+126206,486,206,930000,Bart Simpson,Flanders Living Room,And Cinderella's stepmom made her sew clothes and mop the floor.
+126207,486,207,936000,Rod Flanders,Flanders Living Room,We do that already.
+126208,486,208,938000,Todd Flanders,Flanders Living Room,Wanna see me load a bobbin?
+126209,486,209,939000,Bart Simpson,Flanders Living Room,"No, I..."
+126210,486,210,939000,Todd Flanders,Flanders Living Room,Give me that shirt. I'll patch the hole in the armpit.
+126212,486,212,947000,Nelson Muntz,Flanders Living Room,Haw haw!
+126213,486,213,948000,Nelson Muntz,Flanders Living Room,Can I get this by Tuesday?
+126215,486,215,951000,Homer Simpson,Moe's Tavern,"Ned, I have a confession to make: I may not have come here solely with the noble intention of getting drunk. But now, from the bottom of my heart, I wish you and Edna the best."
+126216,486,216,961000,Homer Simpson,Moe's Tavern,Fellow barflies! To Ned Flanders and Edna Krabappel!
+126217,486,217,965000,Barney Gumble,Moe's Tavern,What a fox!
+126218,486,218,966000,Carl Carlson,Moe's Tavern,Yes! To Edna!
+126219,486,219,967000,Moe Szyslak,Moe's Tavern,"Yeah, that broad is some dame!"
+126220,486,220,968000,Ned Flanders,Moe's Tavern,You all know Edna?
+126221,486,221,970000,Barney Gumble,Moe's Tavern,"Oh yeah, man!"
+126222,486,222,971000,Carl Carlson,Moe's Tavern,Everybody knows Edna.
+126223,486,223,974000,Seymour Skinner,Moe's Tavern,"We made sweet music in the band room, poetry during English class, and you don't wanna know what we did in the multi-purpose room."
+126224,486,224,980000,Homer Simpson,Moe's Tavern,Shut up.
+126225,486,225,981000,Comic Book Guy,Moe's Tavern,My email address is Edna-lover-one-seventy-two. It was the lowest number I could get!
+126226,486,226,986000,Homer Simpson,Moe's Tavern,"Guys, quit telling the truth!"
+126227,486,227,989000,Joey Kramer,Moe's Tavern,"Yeah, Edna's amazing."
+126228,486,228,992000,Ned Flanders,Moe's Tavern,Joey Kramer? The drummer from Aerosmith?
+126229,486,229,994000,Joey Kramer,Moe's Tavern,"Yup, that's me! And after a night with Edna, I couldn't walk this way, that way, or any other way. Ooh la la!"
+126230,486,230,1002000,Ned Flanders,Moe's Tavern,Wait... you've all plucked a peach from her tree?
+126231,486,231,1005000,Homer Simpson,Moe's Tavern,"Um... uh... So uh, Joey, is Wikipedia accurate when it says ""Walk This Way"" was inspired by ""Young Frankenstein?"""
+126232,486,232,1013000,Ned Flanders,Moe's Tavern,"Well Homer, you really put one over on old stupid Flanders, here. Thanks a lot, neighbor."
+126233,486,233,1019000,Homer Simpson,Moe's Tavern,"Don't you mean ""neighboreeno?"""
+126234,486,234,1021000,Ned Flanders,Moe's Tavern,No. Just plain neighbor.
+126235,486,235,1029000,Homer Simpson,Moe's Tavern,"You stupid jerks! I can't believe you could be so cruel! Especially you, Joey Kramer!"
+126237,486,237,1039000,Edna Krabappel-Flanders,Edna's Apartment,"Ned, is anything wrong? You've been acting distracted all night."
+126238,486,238,1043000,Ned Flanders,Edna's Apartment,Oh I was just wondering how many boxes of staples I should order for the store. Does ten sound like a lot to you? Twenty? Fifty? What does sound like a lot to you?
+126239,486,239,1053000,Edna Krabappel-Flanders,Edna's Apartment,What exactly are we talking about here?
+126240,486,240,1055000,Ned Flanders,Edna's Apartment,Maybe we should just call it a night.
+126241,486,241,1058000,Edna Krabappel-Flanders,Edna's Apartment,Oh... okay. See you tomorrow?
+126242,486,242,1062000,Lenny's Face,Edna's Apartment,"Yeah, give me a kiss, Neddy boy!"
+126243,486,243,1064000,Skinner's Face,Edna's Apartment,That's right. Kiss all the men that have ever made their way to Edna's adventurous tongue.
+126244,486,244,1069000,Comic Book Guy's Face,Edna's Apartment,Including me! I shall be discreet in my tweets but brutal in my blog.
+126245,486,245,1073000,Joey Kramer,Edna's Apartment,We made love in so many elevators.
+126246,486,246,1077000,Patty Bouvier,Edna's Apartment,Experiment.
+126247,486,247,1079000,Edna Krabappel-Flanders,Edna's Apartment,What is it?
+126248,486,248,1080000,Ned Flanders,Edna's Apartment,"I can't do it! Edna, call me Delta Airlines 'cause I can't handle your extra baggage."
+126249,486,249,1087000,Moe's Face,Edna's Apartment,"Whoa, whoa, whoa, whoa, whoa. No leavin' until we all spook you on Edna's face. All right, pipe down back there, you'll get your chance!"
+126250,486,250,1095000,Barney Gumble,Edna's Apartment,"Oh come on, Moe, quit hoggin' her face!"
+126253,486,253,1103000,Marge Simpson,Simpson Home,"I hope you're proud of yourself, Homer."
+126254,486,254,1106000,Homer Simpson,Simpson Home,"I've got some bad news for you, Marge. I'm actually not."
+126255,486,255,1111000,Marge Simpson,Simpson Home,"Well, there's Ned out on his power walk. Maybe you should talk to him."
+126256,486,256,1115000,Homer Simpson,Simpson Home,"Wha? My doctor said ""don't walk."""
+126257,486,257,1115000,Marge Simpson,Simpson Home,That was a traffic signal.
+126258,486,258,1120000,Marge Simpson,Simpson Home,He's a good man and a good neighbor and you're drinking coffee from his mug right now.
+126260,486,260,1130000,Homer Simpson,Evergreen Terrace,"Flanders, hold up!"
+126261,486,261,1132000,Homer Simpson,Evergreen Terrace,"I know, I know you're not comfortable with all the guys Edna's seen around town."
+126262,486,262,1137000,Cletus Spuckler,Evergreen Terrace,And country!
+126263,486,263,1139000,Homer Simpson,Evergreen Terrace,"Ned, I've learned that the only way a relationship survives is by forgiving! Endless, endless forgiving!"
+126264,486,264,1156000,Homer Simpson,Evergreen Terrace,"And didn't the Easter bunny himself say ""forgive them, father, for finding all my eggs?"" And if a giant rabbit can lay chocolate eggs, maybe you and Edna can find a way to make it work."
+126266,486,266,1177000,Ned Flanders,Flanders Home,"Edna, I had a long walk with Homer Simpson yesterday, and as I was carrying him back home, I had a lot of time to think."
+126267,486,267,1183000,Ned Flanders,Flanders Home,"You've been with a lot of men, but I forgive you!"
+126268,486,268,1190000,Edna Krabappel-Flanders,Flanders Home,"You ""forgive"" me? You sanctimonious prude! Who are you to judge how I've lived my life? Ned, I'm not ashamed of dating those men, I'm proud."
+126269,486,269,1201000,Comic Book Guy,Flanders Home,I still wear your bra!
+126271,486,270,1204000,Edna Krabappel-Flanders,Flanders Home,"Well, not exactly proud, but I'm stuck. Ned, if we're gonna stay together, you have to promise that my past will never, ever get in our way."
+126272,486,271,1207000,Ned Flanders,Flanders Home,I guess this is gonna have to be decided by a higher power.
+126273,486,272,1218000,Marge Simpson,Flanders Home,So we're going to let the internet decide. Should Ned and Edna stay together? Visit thesimpsons.com and vote.
+126274,486,273,1226000,Marge Simpson,Flanders Home,We'll announce the results in next year's season premiere. Probably at the end so you'll watch the whole thing.
+126275,486,274,1231000,Homer Simpson,Flanders Home,"There's a whole host of voting options -- friends with benefits, frenemies with frenefits, super friends with wonder pets, all designed to distract you while we take your personal information and use it to apply for credit cards in your name."
+126276,486,275,1245000,Marge Simpson,Flanders Home,Homer! Stop teasing!
+126277,486,276,1247000,Homer Simpson,Flanders Home,Right. Teasing.
+126278,486,277,1249000,Homer Simpson,Flanders Home,I'm waitin' for ya.
+126279,486,278,1251000,Homer Simpson,Flanders Home,"Also, if you wanna find the real shooter of Mr. Burns, go back and look for more clues. They're all there!"
+126280,486,279,1256000,Marge Simpson,Flanders Home,"Homie, it was Maggie."
+126281,486,280,1258000,Homer Simpson,Flanders Home,"Yeah, right. A baby shot a guy."
+126282,486,281,1261000,Marge Simpson,Flanders Home,Just vote! It's your duty as a citizen of TV.

@@ -1,0 +1,255 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+64547,259,1,86000,Bart Simpson,Simpson Home,"Mmm, good pancakes, Mom."
+64548,259,2,89000,Marge Simpson,Simpson Home,"Thank you, honey. They come in a squeeze bottle now."
+64549,259,3,95000,Marge Simpson,Simpson Home,I'd better put on the silencer.
+64550,259,4,100000,Lisa Simpson,Simpson Home,"You know what'd be good with these, is some Ms. Butterworth."
+64551,259,5,104000,Lisa Simpson,Simpson Home,Let's have a breakfast meeting.
+64552,259,6,106000,Lisa Simpson,Simpson Home,"Eww, how long has this baking soda been in here?"
+64553,259,7,110000,Marge Simpson,Simpson Home,I don't know. It came with the house.
+64554,259,8,112000,Bart Simpson,Simpson Home,"Hey Dad, bet you five bucks you can't eat the whole box."
+64555,259,9,115000,Homer Simpson,Simpson Home,Five? Why don't we make it fifty?
+64556,259,10,118000,Homer Simpson,Simpson Home,You're gonna regret this.
+64557,259,11,120000,Lisa Simpson,Simpson Home,"I'll call poison control. Fran, it's me. Just a heads-up."
+64558,259,12,128000,Homer Simpson,Simpson Home,"Wow, the absorbed odors of a million meals..."
+64560,259,13,135000,Homer Simpson,Simpson Home,So many flavors! All those tasty memories flooding back!
+64561,259,14,141000,Johnny Cochran,Simpson Home,"If it doesn't fit, you must acquit..."
+64562,259,15,144000,Richard Nixon,Simpson Home,"Therefore, I shall resign the presidency..."
+64563,259,16,144000,Neil Armstrong,Simpson Home,"That's one small step for man, one giant leap for mankind..."
+64564,259,17,154000,Lisa Simpson,Simpson Home,Uh-oh. Dad's having an antacid trip.
+64565,259,18,164000,Bart Simpson,Simpson Home,And I won fifty bucks!
+64567,259,20,167000,Milhouse Van Houten,Springfield Street,"Can I see the fifty, Bart? Can I? Huh?"
+64568,259,21,170000,Bart Simpson,Springfield Street,"Milhouse, my friend, you and I are going on a spending spree."
+64569,259,22,175000,Milhouse Van Houten,Springfield Street,My doctor says I'm not supposed to go on sprees.
+64570,259,23,178000,Bart Simpson,Springfield Street,What about jags?
+64571,259,24,179000,Milhouse Van Houten,Springfield Street,Jags are fine.
+64572,259,25,180000,Bart Simpson,Springfield Street,Wonderful.
+64574,259,27,185000,Apu Nahasapeemapetilon,Kwik-E-Mart,A fifty dollar bill!
+64575,259,28,190000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Gentlemen, let us shop."
+64576,259,29,193000,Apu Nahasapeemapetilon,Kwik-E-Mart,Our wide variety of gum comes in both stick and ball.
+64577,259,30,196000,Bart Simpson,Kwik-E-Mart,I'm not really about gum. But I like the whole chewing thing...
+64578,259,31,199000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Are you averse to crispy centers, sir?"
+64579,259,32,201000,Bart Simpson,Kwik-E-Mart,Not at all.
+64580,259,33,202000,Apu Nahasapeemapetilon,Kwik-E-Mart,Then we have much to discuss.
+64581,259,34,204000,Bart Simpson,Kwik-E-Mart,Too much raw bacon.
+64582,259,35,207000,Milhouse Van Houten,Kwik-E-Mart,"C'mon Bart, we can't stop spending now."
+64583,259,36,210000,Milhouse Van Houten,Kwik-E-Mart,There's one thing I've always wanted to do.
+64585,259,38,213000,Milhouse Van Houten,LAUNDROMAT,My mom doesn't believe in fabric softener. But she's not around!
+64586,259,39,213000,Bart Simpson,LAUNDROMAT,I'm picking the next thing.
+64588,259,41,223000,Bart Simpson,Springfield Street,Looks like we're down to our last ten bucks Hello.
+64590,259,43,231000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Radioactive Man #1000, please."
+64591,259,44,234000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Ten dollars? I laugh at you.
+64592,259,45,236000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Please to note: This is no ordinary comic book. It is in perma-mint condition. If you spill soda on it, the drops fly off harmlessly onto lesser comics."
+64470,259,46,245000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,Whooaa.
+64593,259,47,246000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Yes, you are quite correct to gasp. Also, note the price: twenty-five dollars."
+64594,259,48,250000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,We had to buy lunch for that homeless guy.
+64595,259,49,253000,Mrs. Prince,The Android's Dungeon & Baseball Card Shop,"While my son's at fat camp, I cleaned out his room. How much will you give me for this?"
+64596,259,50,258000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Probably nothing. But let us see...
+64597,259,51,260000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Oh, handwritten script for ""Star Wars"" by George Lucas... Princess Leia's anti-jiggle breast tape... Film reel labeled ""Alternate Ending: Luke's Father is Chewbacca"". I'll give you five dollars for the box."
+64598,259,52,275000,Mrs. Prince,The Android's Dungeon & Baseball Card Shop,Sold.
+64599,259,53,276000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Don't do it, lady. That stuff's worth thousands."
+64600,259,54,279000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Yeah, he's rippin' you off."
+64601,259,55,283000,Mrs. Prince,The Android's Dungeon & Baseball Card Shop,"Well, if this is valuable, then back to the leaky basement it goes!"
+64602,259,56,289000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Smile, please. Thank you."
+64604,259,58,300000,Homer Simpson,Simpson Home,"Son, I know it hurts. I still remember my first lifetime banning..."
+64606,259,60,313000,Gallagher,Theater,"Hey, where's my melon?"
+64607,259,61,318000,Gallagher,Theater,And you are banned for life from all of my performances and TV specials.
+64608,259,62,323000,Homer Simpson,Theater,"I can still see your movies, right?"
+64609,259,63,337000,Homer Simpson,Theater,...And I never saw Gallagher again.
+64610,259,64,339000,Lisa Simpson,Theater,"Ooh, it says here that special effects whiz Tom Savini is gonna be appearing at the comic book store tonight!"
+64611,259,65,346000,Homer Simpson,Theater,Tom Savini?
+64612,259,66,347000,Marge Simpson,Theater,"Yes, it says here he's the movie magician behind ""Creepshow,"" ""Friday the 13th"" and ""Dawn of the Dead."""
+64613,259,67,353000,Bart Simpson,Theater,I can't believe I'm gonna miss that!
+64614,259,68,357000,Homer Simpson,Theater,Don't worry your spiky little head. I've got it all planned out.
+64615,259,69,361000,Bart Simpson,Theater,How could you have it planned out? You just heard about the problem.
+64616,259,70,364000,Homer Simpson,Theater,You're right. Gimme a minute. Hmmm.
+64618,259,72,371000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Mister Simpson, it hurts!"
+64619,259,73,374000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Yeah. And why did we have to do this all the way from home?
+64621,259,74,377000,Homer Simpson,The Android's Dungeon & Baseball Card Shop,For once in my life I'm tall. Don't take that away from me.
+64622,259,75,380000,Homer Simpson,The Android's Dungeon & Baseball Card Shop,"Hell-o, I'm Shaquille O'Neal. Let us in, please."
+64623,259,76,387000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,You two are not welcome.
+64624,259,77,391000,Homer Simpson,The Android's Dungeon & Baseball Card Shop,"Sorry, son."
+64625,259,78,393000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Thanks for the tip-off.
+64626,259,79,393000,Homer Simpson,The Android's Dungeon & Baseball Card Shop,No problem.
+64627,259,80,397000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Appearing exclusively here at the Android's Dungeon -- take that, Messrs. Barnes and Noble -- the King of Splatter, Tom Savini."
+64628,259,81,407000,Tom Savini,The Android's Dungeon & Baseball Card Shop,Good evening. Sorry... I-I had a really big dinner...
+64629,259,82,411000,Homer Simpson,The Android's Dungeon & Baseball Card Shop,Woo! Dinner!
+64630,259,83,413000,Tom Savini,The Android's Dungeon & Baseball Card Shop,"But, I'm sure one more French fry wouldn't hurt."
+64631,259,84,424000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Oh, we missed the gutbuster!"
+64632,259,85,424000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Yeah. That should be us covered with blood!
+64633,259,86,429000,Tom Savini,The Android's Dungeon & Baseball Card Shop,"Sure, computer technology is here to stay. But there'll always be a place for the practical special effects wizard."
+64634,259,87,441000,Homer Simpson,The Android's Dungeon & Baseball Card Shop,I love the theater.
+64635,259,88,443000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Oh, please. I saw Paul Lynde do that same hackneyed trick on Bewitched. Try to explode this out of my belly."
+64636,259,89,452000,Tom Savini,The Android's Dungeon & Baseball Card Shop,That's not a cookie.
+64638,259,91,455000,Tom Savini,The Android's Dungeon & Baseball Card Shop,That's a time-release blood pack.
+64640,259,93,458000,Tom Savini,The Android's Dungeon & Baseball Card Shop,"You, sir, are a perfect patsy. Let me shake your hand."
+64641,259,94,462000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Uhh, to the gag I will give a D-plus. As for the workmanship on the hand..."
+64642,259,95,467000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Ooh, ooh, oooh! That's not right!"
+64643,259,96,474000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"You mocking me?! Oh, that is rich!"
+64644,259,97,480000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Stop your laughing! You're all banned! Banned, I tell you!"
+64645,259,98,487000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Breath... short! Left arm... numb! Can't go on... describing symptoms much longer!
+64646,259,99,501000,Tom Savini,The Android's Dungeon & Baseball Card Shop,I think he's had a heart attack.
+64650,259,102,509000,Dr. Julius Hibbert,Springfield General Hospital,"Young man, you've had what we call a cardiac episode."
+64651,259,103,509000,Comic Book Guy,Springfield General Hospital,Worst... episode... ever.
+64652,259,104,515000,Dr. Julius Hibbert,Springfield General Hospital,"Ohh, not even close. If these boys hadn't called 911 , I'd be wearing that watch right now. Just kidding. But you would be dead."
+64653,259,105,525000,Comic Book Guy,Springfield General Hospital,You saved my life?
+64654,259,106,527000,Bart Simpson,Springfield General Hospital,Yeah. After you were so mean to us.
+64655,259,107,529000,Comic Book Guy,Springfield General Hospital,"So, now we're even."
+64656,259,108,530000,Dr. Julius Hibbert,Springfield General Hospital,"My prognosis -- or is it ""diagnosis""? Whichever, you need to avoid stress. What kind of work do you do?"
+64657,259,109,538000,Comic Book Guy,Springfield General Hospital,I run a comic book store.
+64658,259,110,540000,Dr. Julius Hibbert,Springfield General Hospital,"Oh, dear Lord! We call that profession ""The Widowmaker!"" Or we would, if any of the proprietors were married. You should close down the store for a while."
+64659,259,111,549000,Comic Book Guy,Springfield General Hospital,But I'd lose all my business to Frodo's of Shelbyville.
+64660,259,112,552000,Dr. Julius Hibbert,Springfield General Hospital,"Well then get a friend to run it for you. You do have friends, don't you?"
+64661,259,113,558000,Comic Book Guy,Springfield General Hospital,"Well, Superfriends..."
+64662,259,114,560000,Dr. Julius Hibbert,Springfield General Hospital,You should get some friends who aren't printed on paper.
+64663,259,115,562000,Comic Book Guy,Springfield General Hospital,You mean action figures?
+64664,259,116,564000,Milhouse Van Houten,Springfield General Hospital,We'll run the store for ya.
+64665,259,117,566000,Comic Book Guy,Springfield General Hospital,Two ten-year-olds running my store... What is this? Bizarro World?!
+64666,259,118,572000,Dr. Julius Hibbert,Springfield General Hospital,Calm down. Don't make me put a dog heart in there.
+64668,259,120,579000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Can you believe it, Bart? We're actually running a comic book store."
+64669,259,121,583000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Looks like our lifetime ban just expired.
+64670,259,122,589000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Sorry, sorry."
+64671,259,123,590000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Okay, here's Comic Book Guy's instructions: ""A carton of malted milk balls, one box confectioner's sugar, a can of chocolate frosting..."""
+64672,259,124,590000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,That's just his shopping list.
+64673,259,125,601000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"No, it's his instructions."
+64674,259,126,603000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Well, we're gonna make some changes around here. This store's gonna be run by kids and for kids."
+64559,259,127,609000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"You said it, partner!"
+64675,259,128,614000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Ah, nice to see ya'... Hey, how 'bout that Bloodzilla? Vampire Dinosaur, ohh, you can't make that stuff up..."
+64676,259,129,623000,Nelson Muntz,The Android's Dungeon & Baseball Card Shop,"""The Death of Sad Sack."" This better not be another fake-out."
+64677,259,130,627000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Uh-uh, you gotta be forty inches tall for the adult section."
+64678,259,131,631000,Ralph Wiggum,The Android's Dungeon & Baseball Card Shop,Pleeeease?
+64679,259,132,633000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Okay, but get on your tippy-toes."
+64680,259,133,640000,Ralph Wiggum,The Android's Dungeon & Baseball Card Shop,Everybody's hugging!
+64681,259,134,643000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Hey Bart, I finished organizing the stock room."
+64682,259,135,647000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Mark down the Poochie crap. And then unstick all the Supergirls.
+64683,259,136,650000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"You know, if we're partners, maybe you should do some of the work."
+64684,259,137,653000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Less barking, more marking."
+64685,259,138,655000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Yes sir, partner."
+64687,259,140,661000,Homer Simpson,Street,"Now, when you've got a bum ticker like we do, you need all the friends you can get. And Moe's is the friendliest place in the Rum District."
+64689,259,142,672000,Moe Szyslak,Moe's Tavern,"Get out and take your Sacajawea dollars with you. I'll give ya till ""three."""
+64690,259,143,677000,Moe Szyslak,Moe's Tavern,One...
+64691,259,144,679000,Moe Szyslak,Moe's Tavern,"Hey Homer, who's the manatee?"
+64692,259,145,684000,Homer Simpson,Moe's Tavern,"Aw, now, be nice, Moe. This guy just got out of the hospital."
+64693,259,146,687000,Moe Szyslak,Moe's Tavern,"Ooh, sorry. Ah, lemme buy ya a drink."
+64694,259,147,689000,Comic Book Guy,Moe's Tavern,Very well.
+64695,259,148,690000,Comic Book Guy,Moe's Tavern,I will have a shot of cranberry schnapps.
+64696,259,149,693000,Moe Szyslak,Moe's Tavern,"Ah, these, aah, they're just painted on, there. Your choices are beer and, ah... egg soakin's."
+64697,259,150,700000,Comic Book Guy,Moe's Tavern,I'll pass. Beer is the nectar of the nitwit.
+64698,259,151,703000,Carl Carlson,Moe's Tavern,"Hey, you knockin' beer?"
+64699,259,152,705000,Lenny Leonard,Moe's Tavern,Nobody badmouths Duff!
+64700,259,153,709000,Lenny Leonard,Moe's Tavern,"Uh, piece o' crap."
+64701,259,154,711000,Homer Simpson,Moe's Tavern,"C'mon, you're here to make friends."
+64702,259,155,713000,Comic Book Guy,Moe's Tavern,"Oh, please. If I wanted to hear mindless droning, I'd befriend an air conditioner."
+64703,259,156,717000,Moe Szyslak,Moe's Tavern,"Oh, now he's raggin' on air conditioners."
+64704,259,157,720000,Carl Carlson,Moe's Tavern,"Hey, they keep us cool in the summer, pal!"
+64620,259,158,722000,Lenny Leonard,Moe's Tavern,Get him!
+64649,259,159,723000,Moe Szyslak,Moe's Tavern,And stay out!
+64705,259,160,731000,Comic Book Guy,Moe's Tavern,"Is there a word in Klingon for ""Loneliness""?"
+64706,259,161,734000,Comic Book Guy,Moe's Tavern,"Oh, yes."
+64708,259,163,738000,Lisa Simpson,The Android's Dungeon & Baseball Card Shop,"Milhouse, I'm impressed."
+64709,259,164,741000,Lisa Simpson,The Android's Dungeon & Baseball Card Shop,The store is so busy. You and Bart are really great businessmen.
+64710,259,165,745000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,Well I'm really the brains. Bart's just the eye candy.
+64711,259,166,749000,Salesman,The Android's Dungeon & Baseball Card Shop,"Hi, Eric Reynolds, Plan Nine Comics. Is, uh, the manager here?"
+64712,259,167,753000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Well, I'm kinda the co-manager..."
+64713,259,168,759000,Lisa Simpson,The Android's Dungeon & Baseball Card Shop,"Tough break, toots. I need a man who answers to no one. A full manager."
+64714,259,169,767000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,Hatchi-matchi.
+64715,259,170,770000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"I can help you, sir. And I answer to no one."
+64716,259,171,777000,Salesman,The Android's Dungeon & Baseball Card Shop,"Well, then you'll want to stock up on our new superhero."
+64717,259,172,781000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,Would you say he's the ultimate superhero?
+64718,259,173,784000,Salesman,The Android's Dungeon & Baseball Card Shop,"Oh, very ultimate, indeed. Point your peepers at Biclops!"
+64719,259,174,789000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,A superhero with glasses!
+64720,259,175,792000,Salesman,The Android's Dungeon & Baseball Card Shop,"Oh yeah, thick glasses. Hm, kinda like yours. So, how many ya need? Five hundred? Six hundred?"
+64721,259,176,799000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,Six hundred sounds good.
+64722,259,177,800000,Salesman,The Android's Dungeon & Baseball Card Shop,"Aw, that's too bad. There's a price break at a thousand."
+64723,259,178,804000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Oh, man..."
+64724,259,179,811000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,I'll take two thousand.
+64726,259,181,817000,Comic Book Guy,Adult Education Center,Human contact - the final frontier.
+64727,259,182,822000,Agnes Skinner,Adult Education Center,"Outta the way, Tubby!"
+64728,259,183,825000,Comic Book Guy,Adult Education Center,"Oh, pardon me, Oldie Hawn."
+64729,259,184,828000,Agnes Skinner,Adult Education Center,"Why, you ill-mannered sack-a crap."
+64730,259,185,831000,Comic Book Guy,Adult Education Center,"Oh, goody. Now I know whatever happened to Baby Jane."
+64731,259,186,835000,Agnes Skinner,Adult Education Center,You are the rudest man who ever... bought me dinner.
+64732,259,187,840000,Comic Book Guy,Adult Education Center,Correction. I do not believe I have ever bought you... Ohh.
+64734,259,189,856000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"So, how many issues of Biclops would you like?"
+64735,259,190,859000,Kearney Zzyzwicz,The Android's Dungeon & Baseball Card Shop,"Biclops? Who's his girlfriend, Lois Lame?"
+64736,259,191,862000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,He's kinda afraid of girls.
+64737,259,192,864000,Kearney Zzyzwicz,The Android's Dungeon & Baseball Card Shop,It doesn't even smack good.
+64738,259,193,868000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,How could you spend all our money on a comic published by Lens Crafters?
+64739,259,194,872000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,We'll never sell these. Birds won't even use them in their nests.
+64741,259,196,881000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Okay, so I made one bad decision."
+64742,259,197,883000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,It's my fault for leaving you in charge. Sometimes I forget how young you are.
+64743,259,198,890000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,I'm only three months younger than you.
+64744,259,199,892000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Oh, look, you're gettin' cranky. You haven't had your juice."
+64745,259,200,895000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Well, my straw broke off in the carton. That's not the point! We're supposed to be partners, and you're pushing me around like a Playskool Corn Popper."
+64746,259,201,905000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"It's a vacuum cleaner, Milhouse."
+64747,259,202,907000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Whatever. I demand respect! I have feelings! I'm a human boy, just like you!"
+64748,259,203,915000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Shhhh. Use your indoor voice.
+64749,259,204,919000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Okay, that's it!"
+64751,259,206,924000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,Aieeeeeee!
+64752,259,207,939000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,En garde!
+64754,259,209,954000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Eat watering can, partner!"
+64755,259,210,960000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Whoa...
+64756,259,211,962000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,Comic Book Guy's secret stash!
+64757,259,212,965000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Look at all these bootleg videos! ""Alien Autopsy"" ""Illegal Alien Autopsy"", ""Godfather III -- Good Version""..."
+64758,259,213,974000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,He's got the tape of Kent Brockman picking his nose!
+64759,259,214,978000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Look, he's picking his nose!"
+64761,259,216,989000,Agnes Skinner,Skinner Home,I'll be right down! I'm just putting on my witch hazel. Ow! Ow! Ow! Ow!
+64762,259,217,998000,Comic Book Guy,Skinner Home,"So, uh, your mother tells me you go to Springfield Elementary."
+64763,259,218,1002000,Seymour Skinner,Skinner Home,Exactly what is your interest in my mother?
+64764,259,219,1005000,Comic Book Guy,Skinner Home,She makes me laugh.
+64765,259,220,1006000,Agnes Skinner,Skinner Home,Here I co-ome...
+64766,259,221,1014000,Seymour Skinner,Skinner Home,"Good Lord, Mother! I can see your... figure!"
+64767,259,222,1018000,Agnes Skinner,Skinner Home,"Oh, you see a lot more when you do my daily mole check."
+64768,259,223,1022000,Seymour Skinner,Skinner Home,What I do for my allowance money is nobody's business.
+64769,259,224,1026000,Agnes Skinner,Skinner Home,He's not nobody. He might even be your new daddy...
+64771,259,226,1036000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"""Police informant tape?"" These are never supposed to leave the station!"
+64772,259,227,1042000,Ned Flanders,The Android's Dungeon & Baseball Card Shop,I really hate to be a snitch.
+64773,259,228,1044000,Chief Wiggum,The Android's Dungeon & Baseball Card Shop,Don't worry. Your yellow-bellied ratting will be held in the strictest confidence.
+64774,259,229,1048000,Ned Flanders,The Android's Dungeon & Baseball Card Shop,"Well, in that case... My neighbor Homer released a radioactive ape in my house. It's ah, it's taken over the whole top floor."
+64775,259,230,1057000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,It wasn't dad's fault. The ape tricked him. What's next?
+64776,259,231,1062000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,Mister Rodgers drunk.
+64777,259,232,1062000,Mr. Rodgers,The Android's Dungeon & Baseball Card Shop,"Well, whaddaya mean I can't take off my sweater? I'm hot!"
+64778,259,233,1073000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"You know, I'll bet kids would pay to see this stuff. We could have a midnight screening right here in the store."
+64779,259,234,1080000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"That's actually a great idea, Milhouse."
+64780,259,235,1082000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Really? Well, I was due."
+64781,259,236,1086000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,I'll say... Partner.
+64783,259,238,1090000,Marge Simpson,South Street Squidport,So many restaurants...
+64784,259,239,1092000,Homer Simpson,South Street Squidport,I can't decide. I throw myself on the mercy of the food court.
+64785,259,240,1097000,Marge Simpson,South Street Squidport,"Umm... I guess I'll, I'll have the chicken Tandoori."
+64786,259,241,1103000,Homer Simpson,South Street Squidport,And I'll have the beef Wellington.
+64788,259,243,1112000,Marge Simpson,Food Court,"Oh, look at you two. You look so ""couple-y."""
+64789,259,244,1116000,Comic Book Guy,Food Court,"Yes, we're a perfect match. Her sneer just lights up my day."
+64790,259,245,1121000,Agnes Skinner,Food Court,And we're always finishing each other's insults.
+64791,259,246,1136000,Agnes Skinner,Food Court,That does my heart good.
+64792,259,247,1144000,Agnes Skinner,Food Court,Sunsets. Thank God there's only one of these a day.
+64793,259,248,1154000,Comic Book Guy,Food Court,Could it be any more orange?
+64796,259,251,1161000,Bart Simpson,THE DUNGEON'S SECRET BASEMENT,"I must warn you that once this next tape starts, it will not stop. Because that button is broken."
+64797,259,252,1167000,Milhouse Van Houten,THE DUNGEON'S SECRET BASEMENT,Let's watch.
+64798,259,253,1170000,Officer,THE DUNGEON'S SECRET BASEMENT,"If you are watching this tape, you are the President of the United States. Hello Sir, or Ma'am... hopefully Sir."
+64799,259,254,1176000,Bart Simpson,THE DUNGEON'S SECRET BASEMENT,Got that right.
+64800,259,255,1177000,Milhouse Van Houten,THE DUNGEON'S SECRET BASEMENT,Yes!
+64801,259,256,1178000,Officer,THE DUNGEON'S SECRET BASEMENT,"The town of Springfield has been classified N.W.B., or ""Nuclear Whipping Boy."" In the first moments of a nuclear war, Springfield will be bombed at will by all friendly nations, to calibrate their missiles."
+64802,259,257,1190000,Officer,THE DUNGEON'S SECRET BASEMENT,"Now, for total security, I will terminate the cameraman."
+64803,259,258,1196000,Cameraman,THE DUNGEON'S SECRET BASEMENT,"Thanks a lot, Steve."
+64805,259,260,1199000,Chief Wiggum,THE DUNGEON'S SECRET BASEMENT,"Awright, this is a raid!"
+64806,259,261,1206000,Chief Wiggum,THE DUNGEON'S SECRET BASEMENT,"Well, well, well... This place has got more pirated tapes than, uh..."
+64807,259,262,1211000,Lou,THE DUNGEON'S SECRET BASEMENT,A Chinese K-Mart?
+64808,259,263,1213000,Chief Wiggum,THE DUNGEON'S SECRET BASEMENT,"Well, that'll have to do. Uh, these yours, son?"
+64809,259,264,1216000,Milhouse Van Houten,THE DUNGEON'S SECRET BASEMENT,"No, sir. We're just exhibiting them for profit without permission."
+64810,259,265,1220000,Chief Wiggum,THE DUNGEON'S SECRET BASEMENT,Fair enough. But the owner is in more hot water than...
+64811,259,266,1225000,Lou,THE DUNGEON'S SECRET BASEMENT,A Japanese tea bag?
+64812,259,267,1227000,Chief Wiggum,THE DUNGEON'S SECRET BASEMENT,"Why don't you lay off the Asians, Lou."
+64815,259,270,1234000,Comic Book Guy,Comic Book Guy's Crappy Apartment,"Well, you've changed me, Agnes. Maybe there is room in my store for romance comics."
+64816,259,271,1239000,Agnes Skinner,Comic Book Guy's Crappy Apartment,"Nobody'll buy those. Your store smells. Now kiss me, Funny Face."
+64817,259,272,1246000,Chief Wiggum,Comic Book Guy's Crappy Apartment,"All ri-- Oh, oh, dear God. Cover your eyes, boys."
+64818,259,273,1253000,Lou,Comic Book Guy's Crappy Apartment,"That's okay, man. If it doesn't affect you, you're not human."
+64819,259,274,1257000,Chief Wiggum,Comic Book Guy's Crappy Apartment,"Comic Book Guy, you're under arrest for the possession of illegal videos. But we'll reduce the sentence if you put your pants on. Fast."
+64529,259,275,1266000,Lou,Comic Book Guy's Crappy Apartment,"Come on, Romeo."
+64820,259,276,1269000,Comic Book Guy,Comic Book Guy's Crappy Apartment,"They can't lock me up for long, Agnes. Will you wait for me?"
+64821,259,277,1273000,Agnes Skinner,Comic Book Guy's Crappy Apartment,Are you crazy? My bones are half dust.
+64823,259,279,1277000,Milhouse Van Houten,Springfield Street,"Well, we may not have the store, but at least we're friends again."
+64824,259,280,1282000,Bart Simpson,Springfield Street,Yep. And we haven't been to school in days and days and days.
+64825,259,281,1287000,Milhouse Van Houten,Springfield Street,"Oh, well. Looks like everything's back to normal."
+64826,259,282,1295000,Ned Flanders,Springfield Street,"Look, if you want me to turn, just point. That w..."
+64827,259,283,1298000,Ned Flanders,Springfield Street,Ow! It's one-way!
+64828,259,284,1303000,Ned Flanders,Springfield Street,Ow! Now what was that for?
+64829,259,285,1306000,Ned Flanders,Springfield Street,Ow! Ow!

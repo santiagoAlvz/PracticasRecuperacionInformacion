@@ -1,0 +1,225 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+136155,524,4,90000,Mayor Joe Quimby,Springfield,We'd better get this concert started. The giant chocolate bunny's melting!
+136156,524,5,95000,Chief Wiggum,Springfield,Hollow?! We paid for solid!
+136157,524,6,97000,Lou,Springfield,"Chief, the company's named ""Bunny Hollow."""
+136158,524,7,100000,Chief Wiggum,Springfield,I thought that was where they lived!
+136159,524,8,101000,C. Montgomery Burns,Springfield,"Look at those delightful children, Smithers... all those healthy organs, ripe for the harvesting."
+136160,524,9,111000,Waylon Smithers,Springfield,"Not here, sir. Not now."
+136161,524,10,119000,Moe Szyslak,Springfield,Not sure what I'm expecting to happen here.
+136162,524,11,123000,Dewey Largo,Springfield,HERE COMES FLUTE AND PICCOLOS / WHAT COMES NEXT THE HORNS HORNS HORNS...
+136163,524,12,133000,Dewey Largo,Springfield,THE HORNS HORNS HORNS!
+136164,524,13,136000,Dewey Largo,Springfield,"Blow, you little disappointments!"
+136168,524,17,163000,Martin Prince,Springfield Town Square,Who could've shoved eggs up our brass?
+136170,524,19,168000,Sideshow Mel,Springfield Town Square,His amusement is tantamount to culpability!
+136172,524,21,173000,Bart Simpson,Springfield Town Square,"Easy, easy. Let's not jump to conclu--"
+136173,524,22,175000,Rainier Wolfcastle,Springfield Town Square,Too late... already jumped.
+136174,524,23,177000,Cletus Spuckler,Springfield Town Square,Egg don't belong in a chicken's eye! It belongs in her pee-poo-birth-hole! Kill that boy!
+136175,524,24,187000,C. Montgomery Burns,Springfield Town Square,It's Easter! Why aren't these people at work?!
+136177,524,26,196000,C. Montgomery Burns,The Android's Dungeon & Baseball Card Shop,Good Lord! Look at all these comical booklets!
+136178,524,27,200000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Yes, yes. Just don't exhale your death breath directly on them. Thank you."
+136179,524,28,205000,C. Montgomery Burns,The Android's Dungeon & Baseball Card Shop,"You know, I used to collect these bestapled fables..."
+136180,524,29,213000,Burns's Father,The Android's Dungeon & Baseball Card Shop,What are you reading?
+148256,524,30,214000,Young Burns,The Android's Dungeon & Baseball Card Shop,"The adventures of The Good Shepherd and his sidekick, The Fleecy Kid."
+136181,524,31,218000,Burns's Father,The Android's Dungeon & Baseball Card Shop,Bah!
+148257,524,32,218000,Young Burns,The Android's Dungeon & Baseball Card Shop,That's his battle cry! Baaa! The sound which terrifies sheep rustlers the length and breadth of Michigan's untamed upper peninsula!
+136182,524,33,227000,Burns's Father,The Android's Dungeon & Baseball Card Shop,"You should be out in the fresh air, kicking dogs! I'm gonna buy this publishing company and burn it to the ground."
+136183,524,34,234000,Man Stuck Inside,The Android's Dungeon & Baseball Card Shop,Why did you have to lock us in?
+136184,524,35,237000,Burns's Father,The Android's Dungeon & Baseball Card Shop,Teach my son a lesson!
+136185,524,36,242000,C. Montgomery Burns,The Android's Dungeon & Baseball Card Shop,How much for your entire collection?
+136186,524,37,244000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Um, the speed of light, expressed in dollars."
+136187,524,38,247000,C. Montgomery Burns,The Android's Dungeon & Baseball Card Shop,Just give him Faraday's Constant.
+136189,524,40,258000,Lisa Simpson,Simpson Home,"Nice going, Bart. You've ruined Halloween, Thanksgiving, Christmas and Easter. The legendary grand slam."
+136190,524,41,265000,Bart Simpson,Simpson Home,"You guys, I swear I didn't do it."
+136191,524,42,277000,Homer Simpson,Simpson Home,I don't like the sound of that funeral march.
+136192,524,43,281000,Homer Simpson,Simpson Home,"Okay! I'll pay for your damn band candy! What was it, seventeen hundred dollars?"
+136193,524,44,287000,Dewey Largo,Simpson Home,Forget the candy! We're here to turn this...into this!
+136194,524,45,293000,Homer Simpson,Simpson Home,Now do me wearing a sombrero!
+136195,524,46,298000,Homer Simpson,Simpson Home,Now have me sleeping under a cactus!
+136197,524,48,303000,Dewey Largo,Simpson Home,"Hand over your son, so we can administer ""Band Justice!"""
+136198,524,49,303000,Bart Simpson,Simpson Home,"I know this looks bad. And I admit, I would totally lie in a second to Lisa or Mom or Dad. But I would never lie to Maggie."
+136199,524,50,318000,Bart Simpson,Simpson Home,I did not do that prank.
+136200,524,51,325000,Lisa Simpson,Simpson Home,Wow -- he passed the Maggie test. And remember how Maggie solved Cookiegate?
+136201,524,52,331000,Homer Simpson,Simpson Home,All too well.
+136202,524,53,333000,Lisa Simpson,Simpson Home,"To prove my brother's innocence, I demand a youth court!"
+136203,524,54,339000,Lisa Simpson,Simpson Home,"That's right! Bart must not be judged by these kids, but by a jury, of kids. Mostly these kids. There's only so many kids."
+136204,524,55,348000,Seymour Skinner,Simpson Home,"I'm afraid once a youth court has been demanded, we are legally obligated to shut down mob rule, as decided in the case of ""Rubber v. Glue"" and reaffirmed by ""I Know You Are v. What Am I."""
+136205,524,56,360000,Homer Simpson,Simpson Home,"Son, if there's one thing I've learned as a defendant, and a juror, it's... stay out of the courtroom! It's so frickin' boring! Run, boy! I'll create a distraction!"
+136206,524,57,403000,Dewey Largo,Simpson Home,Anyone can conduct Sousa!
+136207,524,58,409000,Lisa Simpson,Simpson Home,"Good news, bad news. We're allowed to select the judge, but it's impossible to find one who doesn't hate you..."
+136208,524,59,416000,Grampa Simpson,Simpson Home,I know someone who would make a great judge! Would you kids believe your Grampa once argued in front of the Supreme Court?
+136209,524,60,422000,Bart Simpson,Simpson Home,No.
+136210,524,61,422000,Lisa Simpson,Simpson Home,Sorry.
+136211,524,62,423000,Grampa Simpson,Simpson Home,"Not a chance. I mean, it's true! It was back in nineteen ninety-eight..."
+136213,524,64,428000,Middle-aged Grampa,Washington D.C.,I say Individual Rights!
+136214,524,65,431000,Middle-aged Jasper,Washington D.C.,I say the Common Good!
+136215,524,66,433000,Janet Reno,Washington D.C.,"Gentlemen, our system balances both."
+136216,524,67,436000,Middle-aged Jewish Man,Washington D.C.,Yeah? And how would you know... Attorney General Janet Reno?!
+136217,524,68,440000,Janet Reno,Washington D.C.,That's right -- and that better not be your gum on the ground!
+136218,524,69,443000,Middle-aged Grampa,Washington D.C.,"It's not, but I'll take care of it!"
+136219,524,70,447000,Middle-aged Jasper,Washington D.C.,Stop doin' that!
+136220,524,71,451000,Janet Reno,Washington D.C.,This is better than being a real attorney or a real general!
+136221,524,72,454000,Grampa Simpson,Washington D.C.,The Attorney General and I have been playing chess through the mail ever since.
+136222,524,73,459000,Lisa Simpson,Washington D.C.,I find that a little hard to believe.
+136223,524,74,461000,Bart Simpson,Washington D.C.,"Yeah, why would you play chess through the mail when you can play chess through the internet, or preferably, not play chess at all?"
+136224,524,75,467000,Grampa Simpson,Washington D.C.,"See here, sass mouth, you're not too big for me to tan your hide!"
+136225,524,76,472000,Bart Simpson,Washington D.C.,It's not a threat if I don't know what it means.
+136226,524,77,474000,Grampa Simpson,Washington D.C.,I'll fix your wagon!
+136227,524,78,476000,Bart Simpson,Washington D.C.,"Thanks, I'd like that."
+136230,524,81,483000,C. Montgomery Burns,Burns Manor,I get a whiff of the immigrant from these newfangled superheroes.
+136231,524,82,492000,C. Montgomery Burns,Burns Manor,"Hmm... reclusive millionaire, stately mansion, damaged psyche. He's just like me!"
+136232,524,83,500000,C. Montgomery Burns,Burns Manor,"Smithers, I too shall become a crime-fighting bat!"
+136233,524,84,505000,C. Montgomery Burns,Burns Manor,But I won't become just any bat -- I shall be the terrifying bat who swoops from the sky and sucks the vital essence of his prey. I shall be: Fruit-Bat-Man!
+136234,524,85,515000,Waylon Smithers,Burns Manor,"Great, great! I don't suppose you'll be forgetting about this tomorrow?"
+136235,524,86,519000,C. Montgomery Burns,Burns Manor,No sooner than I'd forget my own mother!
+136236,524,87,521000,Waylon Smithers,Burns Manor,"That's not your mother, that's your bear."
+136237,524,88,522000,C. Montgomery Burns,Burns Manor,"Well, then, where's my stuffed mother?!"
+136239,524,90,529000,Gary Chalmers,Springfield Elementary School,"All right, you soft-skulled nitwits, sit up straight because we finally have someone in this school who deserves your respect: Former Attorney General Janet Reno!"
+136240,524,91,539000,Janet Reno,Springfield Elementary School,"Thank you, Gary."
+136241,524,92,542000,Lisa Simpson,Springfield Elementary School,Grampa's story was true?
+136242,524,93,544000,Janet Reno,Springfield Elementary School,"First, I would like to say, ""rook to E-8. Checkmate."""
+136243,524,94,548000,Grampa Simpson,Springfield Elementary School,Dagnabbit!
+136244,524,95,550000,Janet Reno,Springfield Elementary School,Youth court is now in session.
+136245,524,96,552000,Janet Reno,Springfield Elementary School,"God, I love gaveling. Mr. Prosecutor?"
+136246,524,97,555000,Seymour Skinner,Springfield Elementary School,"Over the next few days, you're going to hear how the defendant, Bartholomew Simpson, a/k/a the ""Springfield Egger..."""
+136247,524,98,563000,Lisa Simpson,Springfield Elementary School,Objection! Prejudicial!
+136248,524,99,564000,Janet Reno,Springfield Elementary School,Sustained!
+136249,524,100,566000,Lisa Simpson,Springfield Elementary School,She sustained me!
+136250,524,101,568000,Seymour Skinner,Springfield Elementary School,...how Bartholomew Simpson wantonly egged this town with Milhouse aforethought.
+136251,524,102,573000,Janet Reno,Springfield Elementary School,"Now hold on! Principal Skinner, are you wearing hard-soled shoes on this gym floor?"
+136252,524,103,578000,Seymour Skinner,Springfield Elementary School,No Ma'am! Sneakers!
+136253,524,104,579000,Janet Reno,Springfield Elementary School,You're wearing sneakers to a trial?
+136254,524,105,582000,Seymour Skinner,Springfield Elementary School,"Oh God, the press is gonna have a field day with this."
+136255,524,106,585000,Ralph Wiggum,Springfield Elementary School,Yay! Field day!
+136256,524,107,586000,Ralph Wiggum,Springfield Elementary School,I can go koo-koo and no one can stop me!
+136257,524,108,589000,Janet Reno,Springfield Elementary School,That's exactly what George W. Bush said when he was inaugurated. People don't remember that.
+136258,524,109,594000,Bart Simpson,Springfield Elementary School,"This case is goin' great. Although as usual, I look nothing like the courtroom artist's drawing."
+136259,524,110,599000,Bart Simpson,Springfield Elementary School,"Nice try, pop."
+136261,524,112,604000,Waylon Smithers,Springfield,"Very dramatic, sir. A little more brooding, and..."
+136262,524,113,608000,Waylon Smithers,Springfield,There's my superhero! Now let's get you to bed and...
+136263,524,114,611000,C. Montgomery Burns,Springfield,Hist! Look there!
+136264,524,115,614000,C. Montgomery Burns,Springfield,This looks like a job for Fruit-Bat-Man!
+136265,524,116,618000,Waylon Smithers,Springfield,Perhaps we should just call the police.
+136266,524,117,620000,C. Montgomery Burns,Springfield,"The police? Bah! Every last man on the take. And I should know, because I'm on the give."
+136267,524,118,626000,C. Montgomery Burns,Springfield,I've never felt more alive!
+136269,524,120,630000,Waylon Smithers,Kwik-E-Mart,Look. I'll give you each a thousand dollars if you pretend to let that old man out there stop this crime.
+136270,524,121,639000,C. Montgomery Burns,Kwik-E-Mart,Feel the crumbling fist of justice!
+136271,524,122,642000,Snake Jailbird,Kwik-E-Mart,Ouchers! Oh dear.
+136272,524,123,645000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Who are you, mysterious octogenarian of the night?"
+136273,524,124,648000,C. Montgomery Burns,Kwik-E-Mart,"I am the squeak in the rafters, the flutter in the chimney, the tiny teeth-marks in the peach... I am ""Fruit-Bat-Man!"" Now, back to my natural realm, the inky night!"
+136274,524,125,665000,C. Montgomery Burns,Kwik-E-Mart,I'll just take one of these keychain penlights.
+136275,524,126,668000,C. Montgomery Burns,Kwik-E-Mart,You have to keep squeezing this thing?! Who has the strength for that?
+136277,524,128,674000,Lunchlady Dora,Springfield Elementary School,"So when I came in the Monday after Easter, I noticed three dozen eggs missing."
+136278,524,129,679000,Lisa Simpson,Springfield Elementary School,And do you think this boy took those eggs?
+136279,524,130,681000,Lunchlady Dora,Springfield Elementary School,Him?! All he takes are sodas and desserts!
+136280,524,131,684000,Marge Simpson,Springfield Elementary School,Objection! Unhealthy!
+136281,524,132,686000,Lisa Simpson,Springfield Elementary School,But could Bart have gotten those eggs?
+136282,524,133,688000,Lunchlady Dora,Springfield Elementary School,No way. They were under lock and key.
+136283,524,134,692000,Lunchlady Dora,Springfield Elementary School,No one could've touched those eggs except me and the seagulls that laid 'em.
+136284,524,135,696000,Lisa Simpson,Springfield Elementary School,No further questions.
+136285,524,136,699000,Janet Reno,Springfield Elementary School,"Ah, to be young and on trial."
+136288,524,139,739000,C. Montgomery Burns,Burns Manor,"A toast, to our enigmatic new protector -- who certainly isn't me! Smithers, wink my eye!"
+136289,524,140,747000,Justine,Burns Manor,"Wanna hit the hot tub, Burnsie?"
+136290,524,141,749000,C. Montgomery Burns,Burns Manor,"Well, I hate to get all pruney, but heated tubbery is what we playboys do!"
+136291,524,142,754000,Waylon Smithers,Burns Manor,"Great work, everyone! That's a wrap!"
+136292,524,143,759000,Carl Carlson,Burns Manor,It's nice to make an old man feel good about himself.
+136293,524,144,761000,Lenny Leonard,Burns Manor,You said it.
+136295,524,146,764000,Milhouse Van Houten,Springfield Elementary School,So Bart couldn't've taken the eggs. I was with him the whole weekend.
+136296,524,147,769000,Seymour Skinner,Springfield Elementary School,"You'd make up any lie for that Simpson boy, wouldn't you?"
+136297,524,148,772000,Milhouse Van Houten,Springfield Elementary School,"Yeah, but I'd pee my pants."
+136298,524,149,775000,Seymour Skinner,Springfield Elementary School,Nelson?
+136299,524,150,776000,Nelson Muntz,Springfield Elementary School,Dry as a bone.
+136300,524,151,779000,Krusty the Clown,Springfield Elementary School,Now that's what I call legal briefs!
+136301,524,152,779000,Lisa Simpson,Springfield Elementary School,Why are you here?
+136303,524,153,784000,Krusty the Clown,Springfield Elementary School,I thought of the joke and rushed over.
+136306,524,156,788000,Lisa Simpson,GYMNASIUM,"Your Honor, I think we've seen enough. I have demolished the prosecution's claims and made the prosecutor sweat through two shirts."
+136307,524,157,795000,Lisa Simpson,GYMNASIUM,"I move that you dismiss this case, and release this sweet, lovable boy."
+136308,524,158,799000,Janet Reno,GYMNASIUM,Motion... denied.
+136310,524,160,802000,Janet Reno,GYMNASIUM,"Miss Simpson, your grandstanding summation contained a grievous error. By calling your brother ""sweet and lovable,"" you opened the door to testimony from anyone who doesn't think he's sweet and lovable."
+136311,524,161,812000,Seymour Skinner,GYMNASIUM,The prosecution calls everyone in the world!
+136313,524,163,825000,Seymour Skinner,Springfield Elementary School,"Mr. Szyslak, what name did the defendant ask for when he called you at your bar?"
+136314,524,164,832000,Moe Szyslak,Springfield Elementary School,"He asked for, uh, Mike Rotch."
+136315,524,165,836000,Seymour Skinner,Springfield Elementary School,And then what did you say?
+136316,524,166,838000,Moe Szyslak,Springfield Elementary School,"Well, I said, um... I said ""Mike Rotch. Um, Mike Rotch."" And then, I... I'm sorry..."
+136317,524,167,848000,Seymour Skinner,Springfield Elementary School,Take all the time you need.
+136318,524,168,849000,Moe Szyslak,Springfield Elementary School,"I-I-I yelled out, ""Has anybody seen Mike Rotch?"""
+136320,524,170,849000,Moe Szyslak,Springfield Elementary School,"You see, they, they thought I was askin'... if anybody wanted to see... my... oh man, this is so painful... my crotch."
+136322,524,172,874000,Seymour Skinner,Springfield Elementary School,Thank you for your bravery today.
+136323,524,173,876000,Moe Szyslak,Springfield Elementary School,I just had to make sure that he never did this to another bartender.
+136325,524,175,880000,Bart Simpson,Simpson Home,"Pass the gravy, Gloria Allwrong."
+136326,524,176,884000,Lisa Simpson,Simpson Home,The trial's not over and gravy is dead animal juice.
+136327,524,177,891000,Lisa Simpson,Simpson Home,Just remember this: a Simpson never gives up.
+136329,524,179,897000,Homer Simpson,Simpson Home,You gotta be kiddin'.
+136332,524,182,907000,C. Montgomery Burns,Burns Manor,A civilian! She mustn't know I'm a hero! Gouge her eyes out!
+136334,524,183,912000,Lisa Simpson,Burns Manor,"Mr. Burns, I came here because my brother is about to be wrongfully convicted. And the man I'm looking for would help me find the truth."
+136335,524,184,921000,C. Montgomery Burns,Burns Manor,Don't you get it?! I don't care who you are or what you want.
+136336,524,185,925000,C. Montgomery Burns,Burns Manor,Now get lost!
+136337,524,186,928000,Waylon Smithers,Burns Manor,I think you just sent away the first person you could've actually helped.
+136338,524,187,933000,C. Montgomery Burns,Burns Manor,"What do you mean ""actually?"" I've punched out four Homer Simpson-shaped burglars tonight alone."
+136339,524,188,938000,Waylon Smithers,Burns Manor,All those crooks were fakes! Set up by me.
+136340,524,189,941000,C. Montgomery Burns,Burns Manor,Even the abominable Doctor Lenny?
+136341,524,190,943000,Waylon Smithers,Burns Manor,"No, he was a happy accident. But the rest were fakes, just like you. A man who claims to be a hero but is nothing more than a fraud with a cute little bod."
+136342,524,191,953000,Waylon Smithers,Burns Manor,"They're calling for you, sir. But who's gonna answer?"
+136343,524,192,960000,Arnie Pye,Burns Manor,Agh! What the hell is that?
+136345,524,194,971000,Lisa Simpson,Simpson Home,And so I've learned that the only true Batmen are Christian Bale and Adam West. Why are you washing Bumblebee Man's pants?
+136346,524,195,978000,Marge Simpson,Simpson Home,I volunteered to wash the egg stains off everyone's clothes. It's one of those things you say and hope nobody takes you up on it.
+136347,524,196,986000,Lisa Simpson,Simpson Home,That's odd.
+136348,524,197,986000,Marge Simpson,Simpson Home,What's odd?
+136349,524,198,988000,Lisa Simpson,Simpson Home,This skirt has a small splatter...
+136350,524,199,989000,Marge Simpson,Simpson Home,Splatter?
+136351,524,200,989000,Lisa Simpson,Simpson Home,"Splatter, as if the egg had been crushed against it by hand--"
+136352,524,201,993000,Chief Wiggum,Simpson Home,I don't follow.
+136353,524,202,994000,Lisa Simpson,Simpson Home,--like someone faked being hit so they wouldn't be a suspect.
+136354,524,203,996000,Marge Simpson,Simpson Home,Interesting. Except you missed one thing.
+136355,524,204,998000,Lisa Simpson,Simpson Home,What's that?
+136356,524,205,998000,Marge Simpson,Simpson Home,It's not a skirt. It's a kilt!
+136358,524,207,1006000,Groundskeeper Willie,Springfield Elementary School,Ah... the wood chipper. Is there any sweeter music?
+136359,524,208,1009000,Marge Simpson,Springfield Elementary School,"Why'd you do it, Willie?"
+136360,524,209,1012000,Groundskeeper Willie,Springfield Elementary School,"Because the world is better off with four fewer Welshmen! Wait, what are we talking about?"
+136361,524,210,1016000,Lisa Simpson,Springfield Elementary School,This kilt says you framed my brother! Why?
+136362,524,211,1020000,Groundskeeper Willie,Springfield Elementary School,"Because I hate Easter! You see, ladies, I'm not just a Presbyterian."
+136363,524,212,1022000,Groundskeeper Willie,Springfield Elementary School,"I'm a Scottish, ""Old Believer"" Presbyterian."
+136364,524,213,1029000,Groundskeeper Willie,Springfield Elementary School,"Old believers don't recognize holidays not celebrated by the original apostles. Especially one named after the pagan god ""Eostre!"""
+136365,524,214,1039000,Lisa Simpson,Springfield Elementary School,But how did you get the key?
+136366,524,215,1041000,Groundskeeper Willie,Springfield Elementary School,I made sweet love to Lunchlady Dora then copied the key as she slept.
+136368,524,217,1049000,Groundskeeper Willie,Groundskeeper Willie's Shack,"Now, as for your evidence..."
+136370,524,219,1055000,C. Montgomery Burns,Groundskeeper Willie's Shack,Behold the pointed ears of justice!
+136371,524,220,1060000,Groundskeeper Willie,Groundskeeper Willie's Shack,A human fruit bat!
+136372,524,221,1070000,Groundskeeper Willie,Groundskeeper Willie's Shack,He's so light -- it's like fighting a silk scarf... or a kimono sash!
+136373,524,222,1075000,C. Montgomery Burns,Groundskeeper Willie's Shack,"Yes, feel the weightless tickle of justice!"
+136374,524,223,1091000,C. Montgomery Burns,Groundskeeper Willie's Shack,"Which side won, good or evil?"
+136375,524,224,1093000,Waylon Smithers,Groundskeeper Willie's Shack,Good.
+136376,524,225,1094000,C. Montgomery Burns,Groundskeeper Willie's Shack,And which side was I on?
+136377,524,226,1096000,Waylon Smithers,Groundskeeper Willie's Shack,"Also, good."
+136378,524,227,1097000,C. Montgomery Burns,Groundskeeper Willie's Shack,"Well, there's two surprises!"
+136380,524,229,1100000,Janet Reno,Springfield Elementary School,Will the defendant please rise?
+136381,524,230,1103000,Homer Simpson,Springfield Elementary School,It's amazing how much exercise I've gotten from those words.
+136382,524,231,1107000,C. Montgomery Burns,Springfield Elementary School,Pause the inquisition!
+136384,524,233,1110000,C. Montgomery Burns,Springfield Elementary School,Behold the real egg-flinging fiend!
+136385,524,234,1112000,Groundskeeper Willie,Springfield Elementary School,"Aye, 'tis true. I pulled the prank for some daft Scottish reason."
+136386,524,235,1117000,Gary Chalmers,Springfield Elementary School,I'd fire that man if he weren't so damn good at what he does.
+136387,524,236,1121000,Seymour Skinner,Springfield Elementary School,"We have a school full of professionals, sir."
+136388,524,237,1123000,Gary Chalmers,Springfield Elementary School,Really? Where is that school? Inside your head?
+136389,524,238,1127000,Janet Reno,Springfield Elementary School,Another mystery solved by Attorney General Janet Reno. Case dismissed!
+136390,524,239,1133000,Bart Simpson,Springfield Elementary School,"You saved me, Lis! For the rest of my life, you'll always be my ""one phone call."""
+136391,524,240,1139000,Lisa Simpson,Springfield Elementary School,Aw... but I do hope you'll try to be good from now on.
+136392,524,241,1142000,Bart Simpson,Springfield Elementary School,Don't need to. I've got you.
+136393,524,242,1145000,Janet Reno,Springfield Elementary School,"Children, let me be clear: despite what happened here, last-minute confessions, shackled Scotsmen and meddling billionaires are not how the legal system works. Well, the last one is."
+136394,524,243,1156000,Lisa Simpson,Springfield Elementary School,Today you were truly a hero. Thank you.
+136395,524,244,1159000,C. Montgomery Burns,Springfield Elementary School,Excellent.
+136396,524,245,1160000,Lisa Simpson,Springfield Elementary School,"You know, if you're gonna be a hero, you might not want to tent your fingers like that."
+136397,524,246,1165000,C. Montgomery Burns,Springfield Elementary School,Is this better?
+136398,524,247,1166000,Lisa Simpson,Springfield Elementary School,Maybe you should wrap your hands behind your head.
+136399,524,248,1169000,C. Montgomery Burns,Springfield Elementary School,Maybe I could wrap them around your gabby little throat!
+136400,524,249,1171000,Lisa Simpson,Springfield Elementary School,Ah! Tenting! Tenting! Back to the tenting!
+136402,524,251,1178000,Moe Szyslak,Moe's Tavern,Acquitted?! Then my nightmare isn't over?
+136405,524,254,1211000,Evil Scientist,Prison Cell,"Well, Fruit-Bat-Man, it seems you're no match for me, the Abominable Dr. Lenny!"
+136407,524,256,1211000,Superspy,SUPER-HEADQUARTERS,"Gentlemen, this threat is too great for just one elderly hero. We have no choice but to activate... the Octogenarian Initiative."
+136408,524,257,1219000,Superspy,SUPER-HEADQUARTERS,The Rambler.
+136409,524,258,1221000,Grampa Simpson,SUPER-HEADQUARTERS,And then there was the time I taught a dog to make oatmeal...
+136410,524,259,1226000,Superspy,SUPER-HEADQUARTERS,Early Bird.
+136411,524,260,1226000,Superspy,SUPER-HEADQUARTERS,Hot Flash.
+136412,524,261,1226000,Superspy,SUPER-HEADQUARTERS,Iron Lung.
+136413,524,262,1236000,Superspy,SUPER-HEADQUARTERS,It is time to pull up... the Dependables.
+136415,524,264,1244000,C. Montgomery Burns,Demolished City,"I open one, no trump."
+136416,524,265,1246000,Grampa Simpson,Demolished City,Double!
+136417,524,266,1247000,C. Montgomery Burns,Demolished City,You've just made a powerful enemy.

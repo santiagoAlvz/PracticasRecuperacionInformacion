@@ -1,0 +1,234 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+20408,103,1,12000,Moe Szyslak,Lenny's House,"All right, I raise a quarter."
+20409,103,2,12000,Carl Carlson,Lenny's House,I'm out.
+20410,103,3,39000,Lenny Leonard,Lenny's House,I'm out.
+20411,103,4,39000,Barney Gumble,Lenny's House,I'm out.
+20412,103,5,39000,Moe Szyslak,Lenny's House,"Homer, do you want any cards? Homer?"
+20413,103,6,39000,Homer Simpson,Lenny's House,"Whew. Don't try to eat these so-called ""chips."""
+20414,103,7,47000,Lenny Leonard,Lenny's House,Do you want another card or not?
+20415,103,8,47000,Homer Simpson,Lenny's House,Huh? Oh. Okay. I'll take three.
+20416,103,9,54000,Homer Simpson,Lenny's House,"I mean, woo hoo!"
+20417,103,10,57000,Moe Szyslak,Lenny's House,I'm in. Let's see your cards.
+20418,103,11,59000,Homer Simpson,Lenny's House,I was bluffing.
+20419,103,12,59000,Moe Szyslak,Lenny's House,"Come to papa... Wait a minute! You have a straight flush, Homer. Go! You do this every time. You... oh, you, ah, ... I'm choking on my own rage here."
+20420,103,13,75000,Carl Carlson,Lenny's House,"Hey, don't yell at Homer. Just because he's a little slow..."
+148558,103,14,75000,Homer's Brain,Lenny's House,"Something was said: not good. What was it? ""Don't yell at Homer."" No, that's okay. What was it? ""Slow."" They called you ""slow!"""
+20421,103,15,89000,Homer Simpson,Lenny's House,How dare you call me that?!
+20422,103,16,92000,Lenny Leonard,Lenny's House,"Hey, Homer, you still here? Boy, you are slow."
+148559,103,17,95000,Homer's Brain,Lenny's House,Something said: not good...
+20423,103,18,95000,Lenny Leonard,Lenny's House,Get the hell outta here.
+20425,103,20,99000,Homer Simpson,Simpson Kitchen,"So, anyhoo, last night, we're playing poker, right. As usual, I'm winning and not realizing it. And Lenny says that I'm uh... get this... ""A little slow."""
+20426,103,21,111000,Homer Simpson,Simpson Kitchen,How come you're not laughing? Do you think I'm slow?
+20427,103,22,128000,Bart Simpson,Simpson Kitchen,Buh.
+20428,103,23,128000,Lisa Simpson,Simpson Kitchen,Sneh.
+20430,103,25,133000,Marge Simpson,Simpson Kitchen,"We don't think you're slow. But, on the other hand, it's not like you go to museums or read books or anything."
+20431,103,26,140000,Homer Simpson,Simpson Kitchen,"You think I don't want to? It's those TV networks, Marge. They won't let me. One quality show after another. Each one fresher and more brilliant than the last. If they only stumbled once -- just gave us thirty minutes to ourselves. But they won't, they won't let me live!"
+20433,103,28,155000,Homer Simpson,Bedroom,"Oh, who am I kidding? I am slow..."
+20434,103,29,163000,Marge Simpson,Bedroom,"Oh Homie, if you feel so bad about yourself, there's always things you can do to feel better."
+20435,103,30,170000,Homer Simpson,Bedroom,Take another bath in malt liquor?
+20436,103,31,170000,Marge Simpson,Bedroom,"... There's that. Or, you could take an adult education course."
+20437,103,32,176000,Homer Simpson,Bedroom,"Oh, and how is ""education"" supposed to make me feel smarter? Besides, every time I learn something new, it pushes some old stuff out of my brain. Remember when I took that home wine making course and I forgot how to drive?"
+20438,103,33,189000,Marge Simpson,Bedroom,That's because you were drunk!
+20439,103,34,189000,Homer Simpson,Bedroom,And how.
+20441,103,36,203000,Patty Bouvier,Adult Education Annex,"One way to drive your man wild is to wear tight, revealing clothes."
+20442,103,37,208000,Class,Adult Education Annex,Eww!
+20443,103,38,208000,Patty Bouvier,Adult Education Annex,"At this point, I'd like to remind you there are no refunds."
+20444,103,39,216000,Moe Szyslak,Adult Education Annex,"All right, here's the four one one, folks. Say some gangsta is dissin' your fly girl. You just give him one of these."
+20445,103,40,227000,Lenny Leonard,Adult Education Annex,See that ping sound means the spit was on target. Now you try.
+20447,103,42,238000,Lenny Leonard,Adult Education Annex,Gettin' better!
+20448,103,43,245000,Homer Simpson,Adult Education Annex,"Wait a minute, even Lenny is teaching a class. Look at the way they admire and adore him."
+20449,103,44,251000,Homer Simpson,Adult Education Annex,"That's it! If he can teach a class, he can teach a class. I mean, I can teach a class."
+20450,103,45,261000,Administrator,Adult Education Annex,What is your area of expertise?
+20451,103,46,263000,Homer Simpson,Adult Education Annex,"Well... I can tell the difference between butter and ""I Can't Believe It's Not Butter."""
+20452,103,47,267000,Administrator,Adult Education Annex,"No you can't, Mr. Simpson. No one can."
+20453,103,48,269000,Homer Simpson,Adult Education Annex,I've failed again. Everybody can teach a class but me. I'm an idiot. What am I gonna tell my wife and kids?
+20454,103,49,276000,Administrator,Adult Education Annex,"Oh, you're married?"
+20455,103,50,276000,Homer Simpson,Adult Education Annex,That depends. Is there another way to get this job?
+20456,103,51,281000,Administrator,Adult Education Annex,"No, Mr. Simpson, what I mean is, we may have a job for you after all. We need someone to teach a course on how to build a successful marriage."
+20457,103,52,288000,Homer Simpson,Adult Education Annex,"I'll do it! Anything to get me out of that house, away from all that nagging and noise... Of a family of love. Sha la la la."
+20459,103,54,299000,Homer Simpson,Simpson Kitchen,"Look, everyone! Now that I'm a teacher, I've sewed patches on my elbows."
+20460,103,55,303000,Marge Simpson,Simpson Kitchen,"Homer, that's supposed to be leather patches on a tweed blazer, not the other way around. You've ruined a perfectly good jacket."
+20461,103,56,315000,Homer Simpson,Simpson Kitchen,"Incorrect, Marge. Two perfectly good jackets."
+20462,103,57,320000,Lisa Simpson,Simpson Kitchen,"I think it's great you're a teacher, Dad. So, will you be lecturing from a standardized text or using the more Socratic method of interactive class participation?"
+20463,103,58,328000,Homer Simpson,Simpson Kitchen,"Yes, Lisa. Daddy's a teacher."
+20465,103,60,336000,Ned Flanders,Flanders Home,"Well, Homer, what a pleasant..."
+20466,103,61,340000,Homer Simpson,Flanders Home,"Can't talk now, Flanders. I've got a class to teach."
+20467,103,62,343000,Ned Flanders,Flanders Home,But you rang my...
+20469,103,64,347000,Squeaky-Voiced Teen,Street,Can I take your order?
+20470,103,65,347000,Homer Simpson,Street,"Nothing for me, today! I've got a class to teach!"
+20471,103,66,353000,SQUEAKY-VOICED TEENAGER,Street,"Sir, it's a felony to tease the order box."
+20472,103,67,358000,Homer Simpson,Street,It's all right! I'm a teacher.
+20473,103,68,362000,Miss Hoover,Street,I didn't know we could do that!
+20475,103,70,365000,Homer Simpson,CLASSROOM,"All right, the first thing they told me to do is make sure everyone here is in the right class."
+20476,103,71,375000,Homer Simpson,CLASSROOM,"Down the hall, room twelve."
+20477,103,72,375000,Man,CLASSROOM,Thank you.
+20478,103,73,381000,Homer Simpson,CLASSROOM,"Ew. Okay, let's get started."
+20479,103,74,381000,Homer Simpson,CLASSROOM,No talking.
+20480,103,75,411000,Seymour Skinner,CLASSROOM,"Um, how about if we tell you our problems with relationships?"
+20481,103,76,415000,Homer Simpson,CLASSROOM,"Yeah, yeah. That'll eat up some time. Uh, how 'bout you, Otto."
+20482,103,77,422000,Otto Mann,CLASSROOM,"My standards are just too high, you know. I feel like nobody's good enough for me."
+20483,103,78,430000,Otto Mann,CLASSROOM,Whoa. You think you got 'em all but you forget about the eggs.
+20484,103,79,434000,Lionel Hutz,CLASSROOM,"My problem is, I'm a real user of women. I move in right away and stay until the money's gone."
+20485,103,80,439000,Edna Krabappel-Flanders,CLASSROOM,"I'm a smart woman, but I make bad choices."
+20486,103,81,443000,Edna Krabappel-Flanders,CLASSROOM,Okay. Here's a set of house keys and my ATM card.
+20487,103,82,449000,Waylon Smithers,CLASSROOM,"Um, I was married once, but uh, I just didn't know how to keep it together."
+20489,103,84,457000,Smithers's Wife,OLD SOUTHERN MANSION,"C'mon, Waylon. Make love to me the way you used to."
+20490,103,85,459000,Waylon Smithers,OLD SOUTHERN MANSION,No.
+20491,103,86,462000,Smithers's Wife,OLD SOUTHERN MANSION,"It's that horrible Mr. Burns, isn't it?"
+20492,103,87,465000,Waylon Smithers,OLD SOUTHERN MANSION,You leave Mr. Burns out of this! You!
+20493,103,88,468000,C. Montgomery Burns,OLD SOUTHERN MANSION,Smithers!
+20494,103,89,475000,C. Montgomery Burns,OLD SOUTHERN MANSION,Smithers!
+20495,103,90,480000,Waylon Smithers,OLD SOUTHERN MANSION,"Mr. Simpson, are you listening?"
+20496,103,91,481000,Waylon Smithers,OLD SOUTHERN MANSION,Simpson!
+20497,103,92,484000,Homer Simpson,OLD SOUTHERN MANSION,"Huh? Yeah, I was listening. Very funny."
+20498,103,93,486000,Moe Szyslak,OLD SOUTHERN MANSION,You were not! You were just eating a damn orange!
+20499,103,94,489000,Homer Simpson,OLD SOUTHERN MANSION,"Uh, yes, yes. To the untrained eye I'm eating an orange. But to the eye that has brains, I am making a point about marriage. For you see, marriage is a lot like an orange."
+20500,103,95,502000,Homer Simpson,OLD SOUTHERN MANSION,"First you have the skin, then the sweet, sweet innards."
+20501,103,96,507000,Apu Nahasapeemapetilon,OLD SOUTHERN MANSION,I don't understand.
+20503,103,97,515000,Groundskeeper Willie,OLD SOUTHERN MANSION,"If I wanted to see a man eat an orange, I would have taken the orange eating class."
+20505,103,99,519000,Hans Moleman,CLASSROOM,The eating of an orange is a lot like a good marriage...
+20506,103,100,522000,Grampa Simpson,CLASSROOM,Just eat the damn oranges!
+20507,103,101,525000,Carl's Wife,CLASSROOM,This is terrible.
+20508,103,102,525000,Edna Krabappel-Flanders,CLASSROOM,Unbelievable.
+20509,103,103,530000,Groundskeeper Willie,CLASSROOM,Let's get out of here.
+20510,103,104,530000,Seymour Skinner,CLASSROOM,He's a horrible excuse for an educator.
+20511,103,105,534000,Homer Simpson,CLASSROOM,I told Marge this wouldn't work the other night in bed.
+20512,103,106,537000,Class,CLASSROOM,"""In bed?"" / ""What wouldn't work?"""
+20513,103,107,539000,Moe Szyslak,CLASSROOM,"So something wasn't working in bed, huh?"
+20514,103,108,542000,Homer Simpson,CLASSROOM,"No, that's not what I meant. Marge and I always talk things over in bed. Like the other night we were fighting about money."
+20515,103,109,549000,Seymour Skinner,CLASSROOM,"Ooh, a fight."
+20516,103,110,551000,Moe Szyslak,CLASSROOM,"Trouble in paradise, huh? DERISIVE LAUGH)"
+20517,103,111,554000,Homer Simpson,CLASSROOM,I was telling Marge that we could save some money if she only dyed her hair once a month.
+20518,103,112,559000,Edna Krabappel-Flanders,CLASSROOM,Marge dyes her hair?
+20519,103,113,559000,Homer Simpson,CLASSROOM,Oh yeah. She's been gray as a mule since she was seventeen.
+20520,103,114,564000,Sideshow Mel,CLASSROOM,"C'mon, tell us more!"
+20522,103,116,568000,Homer Simpson,Somewhere,I went on for hours and they were hanging on my every word. I really think I was born to teach.
+20523,103,117,572000,Chief Wiggum,Somewhere,"All right Simpson, you were warned about teasing the box."
+20525,103,119,577000,SQUEAKY-VOICED TEENAGER,Somewhere,Wait! I need closure on that anecdote.
+20527,103,121,589000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Uh, Mrs. Simpson, it may interest you to know we are having a sale on blue dye number fifty-two. It is your hair color, I believe."
+20528,103,122,601000,Marge Simpson,Kwik-E-Mart,Whatever do you mean? I don't dye my hair...
+20529,103,123,601000,Moe Szyslak,Kwik-E-Mart,"Nah, nah, nah, you got it wrong, Pu. She's blue fifty-six."
+20530,103,124,608000,Marge Simpson,Kwik-E-Mart,I don't know what you're talking about.
+20531,103,125,611000,Edna Krabappel-Flanders,Kwik-E-Mart,We just love your husband's class.
+20532,103,126,614000,Marge Simpson,Kwik-E-Mart,That's nice.
+20535,103,128,614000,Marge Simpson,Simpson Master Bedroom,"Homer, I really don't like you telling personal secrets in your class."
+20536,103,129,622000,Homer Simpson,Simpson Master Bedroom,"Marge, I didn't tell 'em personal stuff."
+20537,103,130,625000,Marge Simpson,Simpson Master Bedroom,Today at the Kwik-E-Mart everybody knew I dyed my hair.
+20538,103,131,625000,Homer Simpson,Simpson Master Bedroom,"Oh, you mean about you. All right, maybe I said some things -- some personal things. But, you should have seen 'em, Marge. They really wanted to hear what I had to say."
+20539,103,132,635000,Marge Simpson,Simpson Master Bedroom,"Mm-hmm. I'm happy about that. But, I think you can be a good teacher and still respect our privacy."
+20540,103,133,642000,Homer Simpson,Simpson Master Bedroom,"Look, Marge, you don't know what it's like. I'm the one there everyday, putting his ass on the line. And I'm not out of order. You're out of order. The whole freakin' system is out of order. You want the truth? You want the truth? You can't handle the truth. 'Cause when you reach over and put your hand into a pile of goo that was your best friend's face, you'll know what to do. Forget it, Marge - it's Chinatown."
+20541,103,134,668000,Marge Simpson,Simpson Master Bedroom,"Homer, don't ever tell them personal stuff about me again."
+20542,103,135,668000,Homer Simpson,Simpson Master Bedroom,Yes ma'am.
+20544,103,137,672000,Homer Simpson,CLASSROOM,"Now what is a wedding? Well, Webster's Dictionary describes a wedding as: 'The process of removing weeds from one's garden.'"
+20545,103,138,678000,Moe Szyslak,CLASSROOM,Tell us more about you and Marge.
+20546,103,139,685000,Homer Simpson,CLASSROOM,"This is a place of learning, not a house of... hearing about things."
+20547,103,140,689000,Carl's Wife,CLASSROOM,Guess he's run out of stories.
+20548,103,141,692000,Seymour Skinner,CLASSROOM,What a rip off.
+20549,103,142,692000,Otto Mann,CLASSROOM,I can't believe I paid ten thousand dollars for this course! What the heck was that lab fee for?
+20550,103,143,699000,Homer Simpson,CLASSROOM,"No, wait! Uh, uh, wait!... I, yes! I do have a story about two other young marrieds."
+20551,103,144,707000,Everyone,CLASSROOM,"Oh, all right. / Okay."
+20552,103,145,707000,Homer Simpson,CLASSROOM,"Now, the wife of this couple has an interesting quirk in the bedroom. It seems she goes wild with desire if her husband nibbles on her elbow."
+20553,103,146,720000,Edna Krabappel-Flanders,CLASSROOM,We need names!
+20554,103,147,720000,Homer Simpson,CLASSROOM,"Well let's just call 'em uh, ""Mr. X"" and ""Mrs. Y."" So anyway, Mr. X would say, 'Marge, If this doesn't get your motor running, my name isn't Homer J. Simpson.'"
+20556,103,149,720000,Marge Simpson,Simpson Kitchen,"Homer, don't you have to get to class?"
+20557,103,150,742000,Homer Simpson,Simpson Kitchen,"Not tonight, Marge. Tonight we can eat a nice, leisurely dinner at home."
+20558,103,151,747000,Marge Simpson,Simpson Kitchen,"Oh, well that will be..."
+20561,103,154,747000,Marge Simpson,Simpson Dining Room,What the darn...?
+20562,103,155,747000,Homer Simpson,Simpson Dining Room,"Marge, you'll never guess what. My whole class is here. They're going to observe the human peep show that is our lives."
+20563,103,156,760000,Sideshow Mel,Simpson Dining Room,Apparently that disturbing odor was the food.
+20564,103,157,764000,Homer Simpson,Simpson Dining Room,"So, little Lisa, apple of my eye. How are things down at the ol' schoolhouse?"
+20565,103,158,771000,Lisa Simpson,Simpson Dining Room,I find this demeaning and embarrassing beyond my worst nightmares.
+20566,103,159,775000,Homer Simpson,Simpson Dining Room,And how's my little major leaguer? Catch any Junebugs today?
+20567,103,160,782000,Bart Simpson,Simpson Dining Room,"Well, me and Milhouse took some mail from a mail truck and threw it down the sewer."
+20568,103,161,785000,Homer Simpson,Simpson Dining Room,"Son, I know you meant well, but that wasn't the right thing to do."
+20569,103,162,790000,Bart Simpson,Simpson Dining Room,What the hell are you talkin' about? You're the one who double dared us.
+20570,103,163,793000,Homer Simpson,Simpson Dining Room,Why you little...
+20571,103,164,795000,Marge Simpson,Simpson Dining Room,Homer!
+20572,103,165,795000,Bart Simpson,Simpson Dining Room,I'm outta here!
+20573,103,166,795000,Lisa Simpson,Simpson Dining Room,Me too.
+20574,103,167,798000,Homer Simpson,Simpson Dining Room,"Well, now that the little ones have toddled off to bed..."
+20575,103,168,805000,Marge Simpson,Simpson Dining Room,I want this to end now!
+20576,103,169,809000,Moe Szyslak,Simpson Dining Room,"Hey, Homer, why don't you just nibble her elbow. That always melts her butter, right?"
+20577,103,170,815000,Marge Simpson,Simpson Dining Room,All right. Okay. Everybody out!
+20578,103,171,820000,Apu Nahasapeemapetilon,Simpson Dining Room,"Ooh, she's gotta have it."
+20579,103,172,823000,Marge Simpson,Simpson Dining Room,Get out! Get out! Get out!
+20580,103,173,827000,Homer Simpson,Simpson Dining Room,"All right, we're breaking early tonight, class. For tomorrow, you should read pages seven through eighteen in Lisa's diary."
+20581,103,174,832000,Marge Simpson,Simpson Dining Room,"You, too."
+20582,103,175,833000,Homer Simpson,Simpson Dining Room,Huh?
+20583,103,176,833000,Marge Simpson,Simpson Dining Room,Get out!
+20584,103,177,833000,Homer Simpson,Simpson Dining Room,But I'm not in the cla...
+20586,103,179,838000,Otto Mann,Simpson Front Porch,Is any of this gonna be on the test? 'Cause I wasn't paying attention.
+20534,103,181,850000,Homer Simpson,Simpson Home,"Come on, Marge. Let me in! There's crickets out here."
+20588,103,182,857000,Homer Simpson,Simpson Home,"Okay, Marge, things were said, mistakes were made. Let's end this madness and get on with our lives."
+20589,103,183,863000,Marge Simpson,Simpson Home,"You just don't get it, do you, Homer? You told personal things about our lives even after you promised you wouldn't. I can't trust you anymore."
+20590,103,184,869000,Homer Simpson,Simpson Home,"But, I learned my lesson. It'll never happen again."
+20591,103,185,873000,Ned Flanders,Simpson Home,"Hey, Homer, what's the big brouhaha? Ha."
+20592,103,186,877000,Homer Simpson,Simpson Home,"Aw, Marge is throwing me out for blabbing about her elbow thing."
+20593,103,187,877000,Homer Simpson,Simpson Home,"Honey, the door blew shut! Oh. Fine. That's what you want? You got it. This scene is gettin' old, man. I'm hittin' the road. Maybe I'll drop you a line someday from wherever I wind up in this crazy old world."
+20596,103,190,902000,Marge Simpson,Simpson Kitchen,"Kids, your father and I are going through a really tough time right now. And I don't know what's going to happen, but just remember that both your mom and your dad love you very very much."
+20597,103,191,914000,Bart Simpson,Simpson Kitchen,"Wow, I've never seen Mom so mad at Homer before."
+20598,103,192,918000,Lisa Simpson,Simpson Kitchen,"I'll tell you a secret, Bart. Every time I'm worried about Mom and Dad, I go to the attic and add to my ball of string."
+20602,103,196,926000,Bart Simpson,Bart's Treehouse,"Earth base, this is commander Bart McCool. We are under attack by the Zorrinid Brain Changers! Quickly, into the safety dome, Milbot!"
+20603,103,197,937000,Milhouse Van Houten,Bart's Treehouse,"Affirmative, humanoid."
+20604,103,198,942000,Homer Simpson,Bart's Treehouse,"Don't mind me boys, just scrubbing my undies."
+20605,103,199,944000,Milhouse Van Houten,Bart's Treehouse,"Sorry, Bart, your dad kinda blew the fantasy. I only like it when I'm pretend scared."
+20606,103,200,951000,Homer Simpson,Bart's Treehouse,"Keep up the rough-housing, son. Without a strong male presence in the house, you could turn sissy overnight. Oh, these stubborn grass stains."
+20608,103,202,964000,Homer Simpson,Simpson Home,"Oh, good, Reverend Lovejoy will make Marge take me back. He has to push the sanctity of marriage or his God will punish him."
+20610,103,204,971000,Rev. Timothy Lovejoy,Simpson Living Room,Get a divorce.
+20611,103,205,971000,Helen Lovejoy,Simpson Living Room,Mm hm.
+20612,103,206,973000,Marge Simpson,Simpson Living Room,"But, isn't that a sin?"
+20613,103,207,973000,Rev. Timothy Lovejoy,Simpson Living Room,"Mm Marge, just about everything is a sin. Y'ever sat down and read this thing? Technically, we're not allowed to go to the bathroom."
+20618,103,212,983000,Homer Simpson,Bart's Treehouse,"Good night, Marge."
+20619,103,213,983000,Homer Simpson,Bart's Treehouse,Why didn't I take a picture? I had ten years to take a picture.
+20621,103,215,996000,Marge Simpson,Springfield Street,Funny... the way everything reminds me of Homer.
+20622,103,216,1010000,Homer Simpson,Springfield Street,"I love you... Will you marry me, Marge?... You mean I'm gonna be a daddy?... I hope we'll always be together... together... together..."
+20623,103,217,1022000,Homer Simpson,Springfield Street,Together?
+20626,103,220,1031000,Lisa Simpson,Bart's Treehouse,"Here, Dad. I brought you some nice..."
+20627,103,221,1031000,Homer Simpson,Bart's Treehouse,"Good news, Lisa. I don't need your mother anymore. I've created a replacement that's superior to her in almost every way."
+20628,103,222,1041000,Lisa Simpson,Bart's Treehouse,"Dad, that's just a plant."
+20629,103,223,1044000,Homer Simpson,Bart's Treehouse,"Lisa, you will respect your new mother. Now give her a kiss. Kisss herrr."
+20630,103,224,1047000,Homer Simpson,Bart's Treehouse,"OhmyGodohmyGodohmyGod. All right, let's get our stories straight. She tripped, right?"
+20631,103,225,1059000,Lisa Simpson,Bart's Treehouse,"Look, I brought you some nice pudding."
+20632,103,226,1061000,Homer Simpson,Bart's Treehouse,"Ah, your flesh mother used to bring me pudding. Oh, I miss Marge. Lisa you're smart. Help me trick her into taking me back."
+20633,103,227,1071000,Lisa Simpson,Bart's Treehouse,"Dad, you can't trick somebody into loving you. There's a reason two people come together and stay together. There's something they give each other that nobody else can give them. If you want to get Mom back, you just have to remember what you give her that nobody else can."
+20634,103,228,1084000,Homer Simpson,Bart's Treehouse,I'll pay you forty dollars if you think of it for me.
+20635,103,229,1087000,Lisa Simpson,Bart's Treehouse,No.
+20636,103,230,1087000,Homer Simpson,Bart's Treehouse,"Okay, thirty."
+20637,103,231,1091000,Lisa Simpson,Bart's Treehouse,"Good luck, Dad."
+20638,103,232,1093000,Homer Simpson,Bart's Treehouse,"All right, brain. It's all up to you. If you don't think of what it is, we'll lose Marge forever."
+148560,103,233,1099000,Homer's Brain,Bart's Treehouse,Eatthepuddingeatthepudding eatthepuddingeatthepuddingeatthepuddingeatthepuddingeatthepuddingeatthe pudding.
+20502,103,234,1100000,Homer Simpson,Bart's Treehouse,Okay. But then we've got to get to work.
+20639,103,236,1106000,Moe Szyslak,Simpson Home,"Oh, hi-hi, Marge. I heard you and Homer broke up so, um, I'm declaring my intentions to move in on his territory. Here, I uh, brung you some posies."
+20640,103,237,1123000,Marge Simpson,Simpson Home,"Oh my. I'm very flattered, but I'm not really interested."
+20641,103,238,1132000,Moe Szyslak,Simpson Home,"Geez, I come here, I get dressed up all nice-like, put my heart on the line and I make a fool of myself Oh boy, I'm gonna start bawling, here."
+20642,103,239,1144000,Marge Simpson,Simpson Home,Why don't you come inside for a drink of water?
+20643,103,240,1144000,Moe Szyslak,Simpson Home,'Kay.
+20644,103,241,1152000,Moe Szyslak,Simpson Home,"Clean house, no silverfish... I coulda been very happy here."
+20645,103,242,1155000,Moe Szyslak,Simpson Home,Homer!
+20646,103,243,1155000,Homer Simpson,Simpson Home,"Moe, what are you doing here?"
+20647,103,244,1162000,Moe Szyslak,Simpson Home,"I uh, well... I never touched her, Homer. Homer, I swear, I never touched her."
+20648,103,245,1166000,Marge Simpson,Simpson Home,"Here's your water, Moe."
+20649,103,246,1168000,Moe Szyslak,Simpson Home,"I didn't ask her for no water. She's lying, Homer, she's lyin'. She told me you were dead. That's the only reason I... I didn't do nothin'!"
+20650,103,247,1175000,Homer Simpson,Simpson Home,"Bye, Moe!"
+20651,103,248,1177000,Marge Simpson,Simpson Home,"Homer, what happened to you?"
+20652,103,249,1180000,Homer Simpson,Simpson Home,"Marge, I figured out what I can give you that no one else can."
+20653,103,250,1180000,Homer Simpson,Simpson Home,A bouquet of po...
+20654,103,251,1187000,Homer Simpson,Simpson Home,I give up. I don't deserve to live with you.
+20655,103,252,1194000,Homer Simpson,Simpson Home,My tattered rags are caught on your coffee table.
+20656,103,253,1204000,Marge Simpson,Simpson Home,"Oh, here, let me help you."
+20657,103,254,1212000,Homer Simpson,Simpson Home,"Wait a minute! Wait, that's it! I know now what I can offer you that no one else can. Complete and utter dependence."
+20658,103,255,1222000,Marge Simpson,Simpson Home,"Homer, that's not a good thing."
+20659,103,256,1224000,Homer Simpson,Simpson Home,"Are you kidding? It's a wondrous, marvelous thing. Marge, I need you more than anyone else on this entire planet could possibly ever need you. I need you to take care of me, to put up with me, and most of all, I need you to love me, because I love you."
+20660,103,257,1241000,Marge Simpson,Simpson Home,"But, how do I know I can trust you?"
+20661,103,258,1246000,Homer Simpson,Simpson Home,"Marge, look at me! We've been separated for a day, and I'm as dirty as a Frenchman. In another few hours, I'll be dead. I can't afford to lose your trust again."
+20662,103,259,1269000,Marge Simpson,Simpson Home,"I must admit, you really do make a gal feel needed."
+20664,103,260,1273000,Homer Simpson,Simpson Home,Wait until my class hears about this. Kidding!
+20666,103,262,1277000,Homer Simpson,Simpson Kitchen,It's great to be indoors with my family.
+20667,103,263,1282000,Lisa Simpson,Simpson Kitchen,"I'm really glad you're back, Dad. I knew you could do it. Now don't screw it up."
+20668,103,264,1288000,Bart Simpson,Simpson Kitchen,"Look, Dad. I missed you so much, I couldn't concentrate in school and I got an ""F""."
+20669,103,265,1288000,Homer Simpson,Simpson Kitchen,"Hey, this is dated two weeks ago."
+20670,103,266,1295000,Bart Simpson,Simpson Kitchen,"Oh, sorry. Here's a fresh one."
+20671,103,267,1297000,Marge Simpson,Simpson Kitchen,"And I have a special present for you, but I'll give it to you later tonight."
+20672,103,268,1302000,Homer Simpson,Simpson Kitchen,Special present?! I don't wanna wait! I want it now! I want the children to see. Oh. Right. Later.
+20673,103,269,1309000,Moe Szyslak,Simpson Kitchen,"So Marge, are you really happy, really?"
+20674,103,270,1315000,Homer Simpson,Simpson Kitchen,"Hey, Moe!"

@@ -1,0 +1,294 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+112,33,1,84000,Homer Simpson,Simpson Home,Mmm... hors doovers.
+113,33,2,84000,Marge Simpson,Simpson Home,Homer! You promised!
+114,33,3,89000,Homer Simpson,Simpson Home,I promised I wouldn't eat? Never! You lie!
+115,33,4,92000,Marge Simpson,Simpson Home,"Homer, please. We've never thrown a party. Now we're gonna pay back all the friends who've invited us to their homes."
+57,33,5,97000,Homer Simpson,Simpson Home,Never thrown a party? What about that big bash we had with all the champagne and musicians and holy men and everything?
+84,33,6,103000,Marge Simpson,Simpson Home,That was our wedding.
+85,33,7,103000,Homer Simpson,Simpson Home,Oh.
+86,33,8,105000,Marge Simpson,Simpson Home,"Children, it's time for you to go to bed."
+116,33,9,107000,Lisa Simpson,Simpson Home,"But Mom, I want to hear the witty banter of sophisticated adults."
+117,33,10,109000,Bart Simpson,Simpson Home,"Yeah, you can't have any fun in bed."
+118,33,11,113000,Homer Simpson,Simpson Home,"Oh son, when you're older, you'll know better."
+119,33,12,116000,Homer Simpson,Simpson Home,"Hmmm. Oh, baby! Mmmm. Yeah."
+120,33,13,122000,Marge Simpson,Simpson Home,Oh! They're here! How does everything look?
+121,33,14,124000,Homer Simpson,Simpson Home,How do I look?
+122,33,15,126000,Marge Simpson,Simpson Home,Do we have enough glasses?
+123,33,16,126000,Homer Simpson,Simpson Home,Do we have enough gag ice cubs?
+124,33,17,127000,Marge Simpson,Simpson Home,Homer! Homer! Put a record on!
+125,33,18,128000,Homer Simpson,Simpson Home,What are all our friends names again?
+126,33,19,129000,Marge Simpson,Simpson Home,Children! Go!
+127,33,20,139000,Ned Flanders,Simpson Home,"Hey, anybody mind if I serve as bartender? You know, I have a Ph.D in Mixology."
+128,33,21,143000,Moe Szyslak,Simpson Home,College boy.
+129,33,22,145000,Ned Flanders,Simpson Home,"Hey, Homer! Care to try some of my Flanders Planters punch?"
+130,33,23,148000,Homer Simpson,Simpson Home,Why not? I paid for it.
+131,33,24,153000,Homer Simpson,Simpson Home,"Hey, Flanders, next time why don't you put a little alcohol in it?"
+132,33,25,157000,Ned Flanders,Simpson Home,"Au contraire, Simpson! It has three shots of rum, a jigger of bourbon and just little dab-a-roo of creme de cassis for flavor."
+133,33,26,164000,Homer Simpson,Simpson Home,Really? Well I do have a warm sense of well-being and I seem to be ssslurring my shpeech... you're right! Give me another.
+134,33,27,171000,Marge Simpson,Simpson Home,"Now, Homer, go easy on the al-ky-hol. Remember last year at the Winfield's party when you threw up in the laundry hamper?"
+135,33,28,177000,Homer Simpson,Simpson Home,No.
+139,33,32,177000,Barney Gumble,Simpson Home,"Hi! You're Homer's sister-in-law, right? I remember you, but I don't remember you being so beau --tiful."
+140,33,33,193000,Barney Gumble,Simpson Home,Ow! Hey! Jeez!
+141,33,34,197000,Barney Gumble,Simpson Home,Is that a new kind of Mace? It's really painful.
+142,33,35,200000,Homer Simpson,Simpson Home,"Oh, Dr. Hibbert. Enjoying the party?"
+143,33,36,203000,Dr. Julius Hibbert,Simpson Home,"Uh, no, not really. Someone seems to have slipped one of those novelty ice cubes with a fake fly in my drink."
+144,33,37,211000,Homer Simpson,Simpson Home,It was me! You fell for it!
+145,33,38,214000,Dr. Julius Hibbert,Simpson Home,"Homer, these novelty ice cubes are often made from highly toxic chemicals. Ironically, a real fly would have been much more sanitary."
+147,33,39,221000,Homer Simpson,Simpson Home,You should see the look on your face. It's priceless.
+148,33,40,229000,Homer Simpson,Simpson Home,Bart! Come over here.
+149,33,41,231000,Bart Simpson,Simpson Home,What?
+150,33,42,231000,Homer Simpson,Simpson Home,"You little monkey... you're a little monkey, aren't you?"
+151,33,43,234000,Bart Simpson,Simpson Home,Yes sir.
+152,33,44,236000,Homer Simpson,Simpson Home,"Bart, do that thing you do that's so cute."
+153,33,45,237000,Bart Simpson,Simpson Home,What?
+154,33,46,238000,Homer Simpson,Simpson Home,That thing you know how to do.
+155,33,47,240000,Bart Simpson,Simpson Home,What?
+156,33,48,242000,Homer Simpson,Simpson Home,Go to bed.
+157,33,49,243000,Homer Simpson,Simpson Home,"Hey, everybody! Look, I'm the funniest guy in the world!"
+158,33,50,249000,Barney Gumble,Simpson Home,"Oh, Homer, you're the king!"
+159,33,51,266000,Homer Simpson,Simpson Home,"I've been wantin' to tell you off for years, but I've never had the nerve."
+160,33,52,272000,Husband Of Marge's Friend,Simpson Home,"Homer, I don't know you. My wife and your wife are friends. We met just three hours ago."
+161,33,53,276000,Homer Simpson,Simpson Home,You stink! You and your whole lousy operation stinks! I quit!
+162,33,54,283000,Husband Of Marge's Friend,Simpson Home,"Uh, gee Homer, don't quit..."
+163,33,55,284000,Homer Simpson,Simpson Home,All right then.
+164,33,56,288000,Homer Simpson,Simpson Home,Could you... give me a handful of peanuts... Maude?
+165,33,57,294000,Maude Flanders,Simpson Home,Oh sure.
+166,33,58,296000,Homer Simpson,Simpson Home,Not those peanuts. The ones at the bottom.
+169,33,61,305000,Barney Gumble,Simpson Home,"Hey, thanks for invitin' me. I had a wonderful time."
+170,33,62,309000,Marge Simpson,Simpson Home,I must apologize for my husband.
+171,33,63,311000,Dr. Julius Hibbert,Simpson Home,"If you want him to live through the night, I suggest you roll him onto his side."
+172,33,64,316000,Marge Simpson,Simpson Home,"Hmmm. thank you. I will, Dr. Hibbert. Thanks for coming."
+173,33,65,319000,Dr. Julius Hibbert,Simpson Home,"Remember, I said if."
+174,33,66,326000,Marge Simpson,Simpson Home,I have never been so embarrassed in my life.
+175,33,67,329000,Homer Simpson,Simpson Home,Why? What'd you do?
+176,33,68,343000,Homer Simpson,Simpson Home,Marge!
+177,33,69,343000,Marge Simpson,Simpson Home,Come here!
+178,33,70,346000,Homer Simpson,Simpson Home,Where-where are we going?
+179,33,71,347000,Marge Simpson,Simpson Home,Shhh.
+181,33,73,349000,Marge Simpson,Simpson Car,"I want to make sure the kids don't hear. When I was young, I always hated knowing my parents were fighting."
+183,33,75,355000,Bart Simpson,Simpson Home,They're fighting in the car again.
+184,33,76,357000,Lisa Simpson,Simpson Home,That music always sends a chill down my spine.
+186,33,78,360000,Marge Simpson,Simpson Car,"Homer, do you remember the way you acted at the party last night?"
+187,33,79,363000,Homer Simpson,Simpson Car,The way I acted?
+189,33,81,365000,Homer Simpson,Simpson Home,So I said: I must get out of these wet clothes and into a dry martini.
+190,33,82,371000,Sophisticate #1,Simpson Home,Good lord! There's a fly in my drink!
+191,33,83,373000,Homer Simpson,Simpson Home,I put it there.
+192,33,84,373000,Sophisticate #1,Simpson Home,You did?
+193,33,85,374000,Homer Simpson,Simpson Home,I slipped it into your glass as a gag.
+194,33,86,376000,Sophisticate #1,Simpson Home,Pure hilarity!
+195,33,87,377000,Sophisticate #2,Simpson Home,Pure Homer!
+196,33,88,378000,Sophisticate #3,Simpson Home,I pronounce it to be the most whimsical jape of the season!
+198,33,90,398000,Marge Simpson,Simpson Car,"Homer, I like to think that I'm a patient, tolerant woman, and that there was no line you could cross that could make me stop loving you. But last night, you didn't just cross that line, you threw up on it!"
+199,33,91,411000,Homer Simpson,Simpson Car,"I'm sorry, honey. Can't we just forget it and go to church."
+200,33,92,415000,Marge Simpson,Simpson Car,I'm going to church alone today. You're going to stay here and explain to Bart why you scarred him for life.
+201,33,93,421000,Homer Simpson,Simpson Car,"No, I didn't... I... Oh, you mean inside, don't you?"
+203,33,95,425000,Homer Simpson,Simpson Home,About last night... you might have noticed Daddy acting a little strange and you probably don't understand why.
+204,33,96,432000,Bart Simpson,Simpson Home,I understand why. You were wasted.
+205,33,97,433000,Homer Simpson,Simpson Home,I admit it. I didn't know when to say when. I'm sorry it happened and I just hope you didn't lose a lot of respect for me.
+206,33,98,440000,Bart Simpson,Simpson Home,"Dad, I have as much respect for you as I ever did or ever will."
+207,33,99,440000,Homer Simpson,Simpson Home,Aw.
+209,33,101,444000,Rev. Timothy Lovejoy,First Church of Springfield,"Now before I give you all a sneak preview of next week's sermon, I have some announcements to make. We have some new pamphlets available in our church newsrack including ""Bible Bafflers"", ""Satan's Boners,"" ""Good Grief! More Satan's Boners"" and, for the teens, ""It's Not Cool To Fry In Hell."""
+210,33,102,461000,Homer Simpson,First Church of Springfield,"Marge, Marge."
+211,33,103,465000,Rev. Timothy Lovejoy,First Church of Springfield,I'm sorry. The Lord and I can't compete with the squeaking of Homer Simpson's shoes. Why don't we just put everything on hold until he takes a seat?
+212,33,104,473000,Homer Simpson,First Church of Springfield,"Sorry, Reverend."
+213,33,105,474000,Rev. Timothy Lovejoy,First Church of Springfield,"Sit down, Homer."
+214,33,106,476000,Rev. Timothy Lovejoy,First Church of Springfield,Mrs. Lovejoy and myself will be holding our third annual marriage retreat next weekend at Catfish Lake. It's psychological counseling for couples whose marriages are hanging by a thread...
+216,33,108,482000,Rev. Timothy Lovejoy,First Church of Springfield,... or those just in need of a tune-up.
+217,33,109,482000,Homer Simpson,First Church of Springfield,Hmmmm.
+218,33,110,490000,Rev. Timothy Lovejoy,First Church of Springfield,"Now if you wish to participate, please sign up on your way out after the service is over."
+220,33,112,495000,Rev. Timothy Lovejoy,CHURCH FOYER,Will the Simpsons be attending our little retreat?
+221,33,113,497000,Homer Simpson,CHURCH FOYER,"Oh, well, it's very tempting. Really a wonderful idea."
+222,33,114,501000,Homer Simpson,CHURCH FOYER,Marge! What are you doing? Are you insane?!
+223,33,115,507000,Marge Simpson,CHURCH FOYER,We'll be there!
+226,33,118,513000,Homer Simpson,Simpson Home,"Marriage encounter weekend, here I come!"
+227,33,119,515000,Bart Simpson,Simpson Home,Now you wanna go?
+228,33,120,515000,Homer Simpson,Simpson Home,They're holding it at Catfish Lake. They couldn't call it Catfish Lake if it didn't have a catfish in it.
+229,33,121,524000,Marge Simpson,Simpson Home,We're going to this retreat to give our marriage a tune-up and that's all. No fishing.
+230,33,122,528000,Marge Simpson,Simpson Home,"Oh, that must be the babysitter."
+231,33,123,531000,Marge Simpson,Simpson Home,Hello. I'm Mrs. Simpson.
+232,33,124,532000,Sultan,Simpson Home,Simpson... Simpson...
+233,33,125,535000,Bart Simpson,Simpson Home,"Come back for more, eh?"
+234,33,126,551000,Marge Simpson,Simpson Home,Oh my. Where are we supposed to get a sitter on such short notice?
+235,33,127,554000,Homer Simpson,Simpson Home,"Oh dear. If we can't find a babysitter, we can't go. What a kick in the teeth."
+236,33,128,561000,Bart Simpson,Simpson Home,What do you need a babysitter for? I'm almost ten and a half.
+237,33,129,564000,Lisa Simpson,Simpson Home,Mom! You wouldn't dare.
+238,33,130,565000,Bart Simpson,Simpson Home,"Don't take that tone with me, young lady, or I'll give you a taste of the back of me hand."
+239,33,131,568000,Homer Simpson,Simpson Home,"No, you don't!"
+240,33,132,569000,Marge Simpson,Simpson Home,Grampa?
+241,33,133,570000,Grampa Simpson,Simpson Home,Huh... who?... what?
+242,33,134,572000,Marge Simpson,Simpson Home,"Grampa, could you do something?"
+243,33,135,573000,Grampa Simpson,Simpson Home,I can dress myself.
+244,33,136,574000,Marge Simpson,Simpson Home,"Well, I was wondering. Do you think you could babysit the kids this weekend? I wouldn't ask, except I'm desperate."
+245,33,137,581000,Grampa Simpson,Simpson Home,"Oh sure. Last resort... Old Grampa, the feeb. The guy who can't be counted on for nothing, no how, dagnabit. Everyone's agin me. I'll do it."
+246,33,138,594000,Homer Simpson,Simpson Home,"Marge, just puttin' a few last things in the trunk."
+247,33,139,599000,Marge Simpson,Simpson Home,"Now, if Maggie runs a fever, you call this number. If she sticks her finger in an electrical socket, call this number. And if she drinks pine cleanser, call this..."
+248,33,140,606000,Grampa Simpson,Simpson Home,Just give me the list. I can read.
+249,33,141,608000,Marge Simpson,Simpson Home,"All right. All right. Goodbye, children. And behave yourselves."
+250,33,142,612000,Marge Simpson,Simpson Home,Call this number if Grampa falls in the bathtub.
+251,33,143,618000,Grampa Simpson,Simpson Home,I heard that.
+252,33,144,620000,Bart Simpson,Simpson Home,"Grampa, Mom was in such a hurry, she forgot to give you this. It's a list of the things Lisa and I can and can't do."
+253,33,145,627000,Grampa Simpson,Simpson Home,Uh huh .. Uh-huh... You're allowed smoke cigars?
+255,33,147,634000,Homer Simpson,Mountain Road,"Hmmm, bait."
+257,33,149,639000,Homer Simpson,Simpson Car,"Whoa, better get some gas."
+258,33,150,641000,Homer Simpson,Simpson Car,Fill 'er up. I guess I'll go and stretch my legs.
+260,33,152,649000,Worm Man,CAFE,Where ya headed?
+261,33,153,651000,Homer Simpson,CAFE,Catfish Lake.
+262,33,154,652000,Worm Man,CAFE,"Oh, after General Sherman, are ya?"
+263,33,155,654000,Homer Simpson,CAFE,"Wait, wait a minute... wait a minute. Who's General Sherman?"
+264,33,156,656000,Worm Man,CAFE,He's only the biggest catfish in these parts...
+265,33,157,656000,Homer Simpson,CAFE,Oh yeah.
+266,33,158,658000,Worm Man,CAFE,... they say he weighs upwards of five hundred pounds.
+267,33,159,660000,Homer Simpson,CAFE,"Whoa, who says that?"
+268,33,160,661000,Worm Man,CAFE,They do.
+269,33,161,663000,Homer Simpson,CAFE,Oh.
+270,33,162,665000,Worm Man,CAFE,"Now, that there's the only known picture of the General. Can't see what he is, exactly. He's freakishly big, though."
+271,33,163,670000,Homer Simpson,CAFE,Hmmmm. Gentlemen: I am going to catch General Sherman!
+273,33,165,677000,Bart Simpson,Simpson Car,"After the supermarket, we'll go to the video store, grab a Krusty Burger and head for the arcade."
+274,33,166,683000,Lisa Simpson,Simpson Car,"Bart, Grampa's a kindly old man who trusts us. Are you sure it's right to take advantage of him?"
+275,33,167,689000,Bart Simpson,Simpson Car,"Lis, in these crazy, topsy-turvy times, who's to say what's right or wrong? But right now my gut's telling me... Bleed Gramps dry."
+278,33,170,694000,Rev. Timothy Lovejoy,Retreat Cabin,"Ah, Mr. and Mrs. Simpson. Welcome!"
+279,33,171,700000,Marge Simpson,Retreat Cabin,"Hello, Reverend. We're glad we could come. Oh, hello Helen."
+280,33,172,703000,HELEN,Retreat Cabin,Hel-lo Marge!
+281,33,173,704000,Ned Flanders,Retreat Cabin,"Why, Homer Simpson! Here to give your marriage a little spit shine?"
+282,33,174,708000,Homer Simpson,Retreat Cabin,"None of your business, Flanders."
+283,33,175,710000,Homer Simpson,Retreat Cabin,Uh say... uh... Reverend... are we gonna get a chance to do any fishing?
+284,33,176,713000,Rev. Timothy Lovejoy,Retreat Cabin,"Oh, I'm afraid not. A marriage can't be reconciled in a few hours, Homer. It takes a whole weekend to do that."
+285,33,177,717000,Homer Simpson,Retreat Cabin,Oh.
+286,33,178,719000,Rev. Timothy Lovejoy,Retreat Cabin,We must bait our hooks with honesty. That way a happy marriage won't be the one that got away.
+287,33,179,725000,Homer Simpson,Retreat Cabin,I see. I also understand bowling expressions.
+288,33,180,729000,Rev. Timothy Lovejoy,Retreat Cabin,"Ah, three couples... our best turnout yet. Why don't we go around the room and everyone can introduce themselves and tell us a little bit about why they're here. John... Gloria?"
+289,33,181,739000,Gloria,Retreat Cabin,"My name's Gloria. I'm here because Johnny boy hasn't been able to cut it, manwise, for some time. Not that I'd want his odor of gin and sour defeat pressed against me."
+290,33,182,750000,John,Retreat Cabin,"That's enough, Gloria!"
+291,33,183,752000,Rev. Timothy Lovejoy,Retreat Cabin,"Thank you, Gloria. John, why don't you tell us a little about why you're here?"
+292,33,184,756000,John,Retreat Cabin,"She never cooks, she keeps a filthy house and she talks profanely. She's the Queen of the Harpies."
+293,33,185,762000,Gloria,Retreat Cabin,"No, I'm not!"
+294,33,186,763000,John,Retreat Cabin,Queen of the Harpies!
+295,33,187,763000,Gloria,Retreat Cabin,"No, I'm not!"
+296,33,188,763000,John,Retreat Cabin,"Here's your crown, your Majesty."
+297,33,189,765000,Gloria,Retreat Cabin,"Get away from me, swine."
+298,33,190,767000,John,Retreat Cabin,Queen of the Harpies!
+299,33,191,767000,Rev. Timothy Lovejoy,Retreat Cabin,"You've come to the right place. First, I want you to look into each other's eyes."
+300,33,192,774000,John,Retreat Cabin,Your eyes? I'd forgotten how beautiful they are.
+301,33,193,779000,Gloria,Retreat Cabin,Let's never fight again.
+302,33,194,780000,John,Retreat Cabin,We were fools to argue.
+303,33,195,782000,Gloria,Retreat Cabin,Let's not talk about that.
+304,33,196,783000,John,Retreat Cabin,Let's not talk at all.
+305,33,197,784000,Rev. Timothy Lovejoy,Retreat Cabin,"Remember my saving your lives and bringing you happiness when we pass the collection plate next week. All right. Ned, Maude, what brings you here?"
+306,33,198,793000,Ned Flanders,Retreat Cabin,Well...
+307,33,199,794000,Maude Flanders,Retreat Cabin,"Go on, Neddie."
+308,33,200,795000,Ned Flanders,Retreat Cabin,"Sometimes Maude, God bless her, she underlines passages in my Bible because she can't find hers."
+309,33,201,800000,Homer Simpson,Retreat Cabin,Lucky you don't keep guns in the house.
+310,33,202,803000,Rev. Timothy Lovejoy,Retreat Cabin,"Homer, why are you here?"
+311,33,203,804000,Homer Simpson,Retreat Cabin,"Ohhh, because I got drunk and looked down her dress."
+312,33,204,808000,Rev. Timothy Lovejoy,Retreat Cabin,"No, no, Homer. Marge is going to tell us all your faults. Why don't you tell us about hers?"
+313,33,205,813000,Homer Simpson,Retreat Cabin,She's perfect.
+314,33,206,814000,Rev. Timothy Lovejoy,Retreat Cabin,"Come on, Homer. What are her faults?"
+315,33,207,816000,Homer Simpson,Retreat Cabin,"Well, sometimes that can be annoying."
+316,33,208,818000,Marge Simpson,Retreat Cabin,"Oh, Homer."
+317,33,209,819000,Rev. Timothy Lovejoy,Retreat Cabin,"Now, Marge. Don't interrupt. You'll get your turn."
+318,33,210,821000,Homer Simpson,Retreat Cabin,I'm done.
+319,33,211,822000,Rev. Timothy Lovejoy,Retreat Cabin,Okay. Marge?
+320,33,212,823000,Marge Simpson,Retreat Cabin,"Well, it's not that I don't love the guy. I'm always sticking up for him. It's just that he's so self-centered."
+321,33,213,832000,Rev. Timothy Lovejoy,Retreat Cabin,"Now, Homer."
+322,33,214,833000,Marge Simpson,Retreat Cabin,"He forgets birthdays, anniversaries, holidays -- both religious and secular -- he chews with his mouth open, he gambles, he hangs out at a seedy bar with bums and lowlifes..."
+323,33,215,844000,Homer Simpson,Retreat Cabin,It's true. It's all true.
+324,33,216,846000,Rev. Timothy Lovejoy,Retreat Cabin,"Homer, don't interrupt."
+325,33,217,846000,Homer Simpson,Retreat Cabin,Sorry.
+326,33,218,848000,Marge Simpson,Retreat Cabin,"He blows his nose on the towels, and puts them back in the middle..."
+327,33,219,851000,Homer Simpson,Retreat Cabin,I only did that a couple of times.
+329,33,221,854000,Lisa Simpson,Supermarket,Half a gallon of chocolate.
+330,33,222,855000,Bart Simpson,Supermarket,Check.
+331,33,223,856000,Lisa Simpson,Supermarket,Half a gallon of chocolate brownie fudge.
+332,33,224,858000,Bart Simpson,Supermarket,Check.
+333,33,225,858000,Lisa Simpson,Supermarket,"Half a gallon of chocolate, chocolate, chocolate, chocolate chip."
+334,33,226,858000,Bart Simpson,Supermarket,Check.
+335,33,227,860000,Grampa Simpson,Supermarket,Did your Mom really write that shopping list?
+336,33,228,862000,Lisa Simpson,Supermarket,"Grampa, what a question?"
+337,33,229,864000,Bart Simpson,Supermarket,"What's next, Lis?"
+338,33,230,865000,Lisa Simpson,Supermarket,Sprinkles and syrup.
+339,33,231,866000,Bart Simpson,Supermarket,"Hey, Grampa. Aisle six and step on it."
+340,33,232,868000,Grampa Simpson,Supermarket,"Well, all right, but put out that cigar."
+342,33,234,870000,Marge Simpson,RETREAT,"... He drinks out of the carton. He never changes the baby. When he goes to sleep, he makes chewing noises and when he wakes up he makes honking noises. Oh... oh... and he scratches himself with his keys. I guess that's it. Oh no. Wait. He kicks me in his sleep and his toenails are too long and yellow. That's all I can think of right now. I guess you're all tired and I want to thank you for letting me get some things off my chest."
+343,33,235,898000,Rev. Timothy Lovejoy,RETREAT,"Well, we've missed the luau. What say we call it a night?"
+147986,33,237,902000,McBain,Simpson Home,"But, Captain. I can't avenge my partner's death with this pea shooter."
+345,33,238,906000,Captain,Simpson Home,"I don't want to hear it, McBain. That cannon of yours is against regulations. In this department we go by the book."
+147987,33,239,914000,McBain,Simpson Home,"Bye, book."
+346,33,240,917000,Grampa Simpson,Simpson Home,"You know, kids, it's gettin' pretty late."
+347,33,241,919000,Bart Simpson,Simpson Home,"Yeah, you should go to bed, Grampa. We've had a big day."
+348,33,242,925000,Lisa Simpson,Simpson Home,It's no use kidding myself. I'm having an ethical crisis.
+350,33,244,928000,Homer Simpson,Dormitory Cabin,"Out at five, catch General Sherman at five-thirty, clean him at six, eat him at six-thirty, back in bed by seven with no incriminating evidence. . The perfect crime."
+351,33,245,941000,Marge Simpson,Dormitory Cabin,"Homer, you're sneaking out to go fishing? I can't believe your selfishness. You can go fishing anytime, but we're here trying to save our marriage. You're thinking about fishing, even when I'm talking... right now. Right?"
+352,33,246,957000,Homer Simpson,Dormitory Cabin,Would this be a good time to be honest?
+353,33,247,958000,Marge Simpson,Dormitory Cabin,Yes.
+354,33,248,959000,Homer Simpson,Dormitory Cabin,"You're right, I am. Help me, Marge. What do I do to be a good guy?"
+355,33,249,965000,Marge Simpson,Dormitory Cabin,Get back in bed.
+357,33,250,966000,Homer Simpson,Dormitory Cabin,All right. But I can't sleep. Can I take a walk?
+358,33,251,974000,Marge Simpson,Dormitory Cabin,Sure.
+360,33,253,975000,Homer Simpson,Lake,Gotta be a good husband... Gotta be a good husband... Gotta be a good husband.
+361,33,254,982000,Homer Simpson,Lake,"Hey, kid! You forgot your... WHOA!"
+363,33,256,993000,Homer Simpson,Catfish Lake,"Go ahead, General Sherman! Waste your strength, you big ugly catfish. I gotta skillet and a stick of butter with your name on it."
+365,33,258,1002000,Marge Simpson,Simpson Cabin,Homer?
+367,33,260,1009000,Grampa Simpson,Simpson Home,Sugar?
+368,33,261,1010000,Lisa Simpson,Simpson Home,Yes. Ten please.
+369,33,262,1011000,Bart Simpson,Simpson Home,"Hey Grampa, top me off."
+370,33,263,1012000,Grampa Simpson,Simpson Home,Are you sure your ma lets you kids drink coffee?
+371,33,264,1015000,Bart Simpson,Simpson Home,"For the last time, yes!"
+373,33,266,1016000,Homer Simpson,Catfish Lake,Good! Give up!
+374,33,267,1018000,Homer Simpson,Catfish Lake,Huh?
+377,33,270,1021000,Bart Simpson,Simpson Home,"Hey, Milhouse. Big blowout at Casa de Simpson. The only adult is frail and old."
+379,33,272,1025000,Milhouse Van Houten,Van Houten Home,"Bart's joint. Uh, twoish. Be there or be square."
+381,33,274,1029000,Otto Mann,School Bus Garage,"Tell my friends? All right, but I've got some pretty funky friends."
+383,33,276,1033000,Convict,Jail,All right! I get out at noon and I'm already invited to a party.
+385,33,278,1038000,Helen Lovejoy,RETREAT,"Now, this is a trust exercise. You fall backwards and rely on your spouse to catch you."
+386,33,279,1048000,Marge Simpson,RETREAT,Do I have to do this?
+387,33,280,1050000,Rev. Timothy Lovejoy,RETREAT,"No. Even if your husband were here, I wouldn't recommend it. Marge, as a trained marriage counselor, this is the first instance where I've ever told one partner that they were 100 percent right. It's all his fault, and I'm willing to put that in a certificate you can frame."
+389,33,282,1066000,Grampa Simpson,Simpson Home,Over there / Send the word / Send the word / Over there.
+390,33,283,1071000,Grampa Simpson,Simpson Home,That the Yanks are comin'...
+392,33,285,1078000,Homer Simpson,Catfish Lake,"Okay, fish, you're probably wondering why I'm still here. Catching you will make me the most famous fisherman there is, right up there with... that... the a... bald guy on that cable fishing show."
+393,33,286,1092000,Homer Simpson,Catfish Lake,Whoa! Holy mackerel!
+395,33,288,1098000,Bart Simpson,Simpson Home,"Milhouse, good to see you, pal. What's happening, man?"
+396,33,289,1101000,Otto Mann,Simpson Home,"Cherry party, Bart. Any chicks over eight?"
+397,33,290,1103000,Bart Simpson,Simpson Home,"Not yet, but the afternoon is young."
+398,33,291,1108000,Bart Simpson,Simpson Home,"Lisa, what's wrong?"
+399,33,292,1110000,Lisa Simpson,Simpson Home,Isn't it obvious? We've degraded ourselves and set back the children's rights movement for decades to come.
+400,33,293,1115000,Bart Simpson,Simpson Home,"You're great at a party, Lisa. Really great."
+401,33,294,1117000,Grampa Simpson,Simpson Home,"Hey you, no, shut that door! Stop it! Put that away! No, stop, oh!"
+402,33,295,1122000,Grampa Simpson,Simpson Home,OW!
+403,33,296,1124000,Nelson Muntz,Simpson Home,Haw haw haw!
+404,33,297,1126000,Grampa Simpson,Simpson Home,"You young hellion, do you want me to take off my belt?"
+405,33,298,1130000,Nelson Muntz,Simpson Home,Yeah.
+406,33,299,1131000,Grampa Simpson,Simpson Home,All right. I'll show you.
+407,33,300,1131000,Nelson Muntz,Simpson Home,Haw! Haw! Haw!
+408,33,301,1133000,Grampa Simpson,Simpson Home,Doggone it!
+410,33,303,1135000,Homer Simpson,Catfish Lake,"I love you, but I must kill you."
+412,33,305,1144000,Bart Simpson,Simpson Home,"Yeah, take care, man. Hey, thanks for coming. Hey, nice tie, Nelson.."
+413,33,306,1147000,Nelson Muntz,Simpson Home,"Ah, thanks, it's your dad's."
+414,33,307,1149000,Grampa Simpson,Simpson Home,"I tried to be a good baby-sitter, but I failed! I'm a feeb... a useless old... worn-out..."
+415,33,308,1162000,Bart Simpson,Simpson Home,"Lisa, I have this strong unpleasant feeling I've never had before."
+416,33,309,1166000,Lisa Simpson,Simpson Home,"It's called remorse, you vile burlesque of irrepressible youth."
+417,33,310,1169000,Bart Simpson,Simpson Home,"Well, how do you make this feeling go away?"
+418,33,311,1171000,Lisa Simpson,Simpson Home,You grab a bucket and a brush and clean harder and faster than you ever have before.
+420,33,313,1183000,Homer Simpson,Catfish Lake,I AM THE CHAMPIONS / I AM THE CHAMPIONS / NO TIME FOR LOSERS / CAUSE I AM THE CHAMPIONS / OF THE WORLLLLD!
+421,33,314,1196000,Homer Simpson,Catfish Lake,"Uh, oh."
+422,33,315,1199000,Homer Simpson,Catfish Lake,"Hi, honey. Uh, oh. How's the marriage retreat going?"
+424,33,316,1203000,Marge Simpson,Catfish Lake,"We came to this retreat because I thought our marriage was in trouble, but I never for a minute thought it was in this much trouble. Homer, how can you expect me to believe...."
+425,33,317,1210000,Homer Simpson,Catfish Lake,"Marge, you don't know what this fish means. This fish represents a better life for both of us. This fish makes me a champion and a hero."
+426,33,318,1217000,Marge Simpson,Catfish Lake,To who?
+427,33,319,1218000,Homer Simpson,Catfish Lake,To those weirdos in the worm store.
+428,33,320,1220000,Marge Simpson,Catfish Lake,All this fish represents is just how selfish you are.
+429,33,321,1222000,Homer Simpson,Catfish Lake,"Well, if that's the way you feel... I'll throw it back."
+430,33,322,1225000,Marge Simpson,Catfish Lake,"Oh yeah, sure."
+431,33,323,1226000,Homer Simpson,Catfish Lake,Watch.
+432,33,324,1229000,Homer Simpson,Catfish Lake,"Wow, I did it! I gave up fame and breakfast for my marriage. I fought it for six hours. She says one word and I toss it back. And you're telling me our marriage is in trouble? Come here, baby."
+433,33,325,1246000,Marge Simpson,Catfish Lake,"Ohhh, Homer."
+435,33,327,1272000,Homer Simpson,Simpson Home,We're back!
+436,33,328,1273000,Lisa Simpson,Simpson Home,How's your marriage?
+437,33,329,1274000,Homer Simpson,Simpson Home,Same as usual. Perfectomundo.
+438,33,330,1277000,Marge Simpson,Simpson Home,"Oh my, the house looks wonderful. Grampa, what's your secret?"
+439,33,331,1281000,Grampa Simpson,Simpson Home,"Pretending to cry. That's right, you heard me. Pretending to cry. I can turn it on and off like a fawcet. Boo-hoo, Oh, I'm crying, I'm so sad."
+440,33,332,1295000,Lisa Simpson,Simpson Home,"Way to go, Grampa."
+441,33,333,1296000,Bart Simpson,Simpson Home,I'll never trust another old person.
+442,33,334,1298000,Grampa Simpson,Simpson Home,I fooled you. So long suckers. Hee hee hee.
+444,33,336,1303000,Worm Man,BAIT SHOP,"Yup. General Sherman. They say he's 500 pounds of bottom-dwelling fury, don't you know? No one knows how old he is, but if you ask me, and most people do, he's a hundred years if he's a day."
+445,33,337,1313000,Customer,BAIT SHOP,"And uh, no one's ever caught him?"
+446,33,338,1314000,Worm Man,BAIT SHOP,"Well, one fella came close. Went by the name of Homer. Seven feet tall he was, with arms like tree trunks. And his eyes were like steel, cold and hard. Had a shock of hair, red, like the fires of hell."

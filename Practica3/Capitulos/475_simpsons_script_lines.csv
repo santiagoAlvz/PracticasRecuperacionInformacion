@@ -1,0 +1,227 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+123133,475,1,31000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey look, the late shift's leaving."
+123134,475,2,34000,Homer Simpson,Springfield Nuclear Power Plant,I don't like those guys.
+123135,475,3,36000,Lenny Leonard,Springfield Nuclear Power Plant,"Yeah, they think they're better than us just because their performance reviews reflect that fact."
+123136,475,4,40000,Homer Simpson,Springfield Nuclear Power Plant,Oh no. I left a candy bar in my desk.
+123137,475,5,42000,Fat Late Shift Worker,Springfield Nuclear Power Plant,"That's funny, 'cause I found this candy bar in my desk."
+123138,475,6,48000,Homer Simpson,Springfield Nuclear Power Plant,Time to punch in.
+123140,475,8,61000,Waylon Smithers,Burns's Office,"Sir, the shifts are fighting like Iran and Iraq."
+123141,475,9,64000,C. Montgomery Burns,Burns's Office,Who?
+123142,475,10,64000,Waylon Smithers,Burns's Office,Persia and Mesopotamia.
+123143,475,11,66000,C. Montgomery Burns,Burns's Office,Hush!
+123144,475,12,68000,Blue-Haired Lawyer,Burns's Office,Sign your full legal name here and your will shall be fully executed.
+123145,475,13,71000,C. Montgomery Burns,Burns's Office,Charles Montgomery Plantagenet... Schicklgruber... Burns.
+123146,475,14,77000,Waylon Smithers,Burns's Office,"Sir, is that your will?"
+123147,475,15,79000,C. Montgomery Burns,Burns's Office,It is. I know it's hard to see a young buck like me and think of a day when I'm no longer in the pink.
+123148,475,16,87000,Blue-Haired Lawyer,Burns's Office,"We just need one more set of initials here. Quickly, now, we're almost through the half hour per day where you're mentally competent."
+123149,475,17,93000,Blue-Haired Lawyer,Burns's Office,And... demented.
+123150,475,18,104000,C. Montgomery Burns,Burns's Office,Yah! Yah!
+123151,475,19,110000,C. Montgomery Burns,Burns's Office,Yoink! Yah! Yah!
+123152,475,20,113000,Homer Simpson,Burns's Office,A dinosaur!
+123157,475,23,126000,C. Montgomery Burns,Burns's Office,"I, C. Montgomery Burns... hereby divide my estate in equal shares to The Yale University Department of Applied Evil; Gary from Gary's Trapdoor Installation and Repair; and finally, my faithful and constant companion..."
+123159,475,25,126000,Waylon Smithers,Burns's Library,Your tortoise?!
+123160,475,26,126000,C. Montgomery Burns,Burns's Library,"Yes, it always saddens me that you and Sheldon have never gotten along."
+123161,475,27,150000,Waylon Smithers,Burns's Library,"Sir, how could you leave me out of your will? I'm your right-hand man, your guy Friday!"
+123162,475,28,155000,C. Montgomery Burns,Burns's Library,"Smithers, you are the campiest of my aides du camp, but I'm afraid my true admiration is reserved for the self-made man. No Steve Woz-ni-ak thee."
+123163,475,29,165000,Waylon Smithers,Burns's Library,So... you don't respect me?
+123164,475,30,167000,C. Montgomery Burns,Burns's Library,"No, not until you earn it. Until then, I will never see you as my equal."
+123165,475,31,176000,C. Montgomery Burns,Burns's Library,Smithers... wait!
+123166,475,32,177000,Waylon Smithers,Burns's Library,"Yes, sir?"
+123167,475,33,179000,C. Montgomery Burns,Burns's Library,"In case you didn't hear me, I said I will never see you as my equal."
+123168,475,34,182000,Waylon Smithers,Burns's Library,"I heard you very clearly, sir."
+123169,475,35,182000,C. Montgomery Burns,Burns's Library,Excellent.
+123171,475,37,190000,Waylon Smithers,Springfield Street,Hm... Here's a place I can feel wanted.
+123172,475,38,194000,Bouncer,Springfield Street,"You, with the six-pack -- you're in! You, with the Ben Affleck chin and the Matt Damon everything else -- guess what? You're in!"
+123173,475,39,200000,Bouncer,Springfield Street,"In, in, in, in your dreams."
+123174,475,40,204000,Waylon Smithers,Springfield Street,"Oh, c'mon. I've had a rough day."
+123175,475,41,206000,Bouncer,Springfield Street,"With the buzz cut and the bow tie? This is a nightclub, not a John F. Kennedy cabinet meeting!"
+123177,475,43,218000,Waylon Smithers,Moe's Tavern,Can I have a scotch and water?
+123178,475,44,220000,Moe Szyslak,Moe's Tavern,My scotch is a scotch and water.
+123179,475,45,226000,Waylon Smithers,Moe's Tavern,"Business is slow, huh?"
+123180,475,46,229000,Moe Szyslak,Moe's Tavern,"Yeah. Frankly, I'm surprised you're not across the street where they drink for fun, instead of here, where, uh, horrible addiction compels you."
+123181,475,47,237000,Waylon Smithers,Moe's Tavern,"They won't let me in -- no one wants an executive assistant who only works out six hours a day. If only this town had a ""men's bar"" for the average-looking fellow..."
+123183,475,48,246000,Mr. Burns Heads,Moe's Tavern,...True admiration... Self-made man... kill the other two heads... true admiration... self-made man... kill them before they suspect... suspect what?...
+123184,475,49,256000,Waylon Smithers,Moe's Tavern,"Huh? Huh? Listen, what if I helped you turn this bar into a hangout for guys like me?"
+123185,475,50,261000,Moe Szyslak,Moe's Tavern,Uh-huh...
+123186,475,51,263000,Waylon Smithers,Moe's Tavern,"Just so it's clear what I'm proposing, the men I'm talking about are..."
+123187,475,52,269000,Moe Szyslak,Moe's Tavern,"Whoa, whoa, whoa! No offense, uh, but uh, I just ain't comfortable hanging around all night with, uh, y'know whatchamacallit... uh, swishkabobs."
+123188,475,53,278000,Waylon Smithers,Moe's Tavern,"Yeah, right. It's too bad. Could have been fun. Could have made a little money."
+123189,475,54,283000,Moe Szyslak,Moe's Tavern,"Thank you, but I am very happy with my clientele as they are."
+123190,475,55,287000,Barney Gumble,Moe's Tavern,"Hey, Moe! Two more for me and my buddy."
+123191,475,56,290000,Moe Szyslak,Moe's Tavern,That was my grandmother's wedding urinal! That's it. We are changing this place up.
+123193,475,58,295000,Moe Szyslak,Moe's Tavern,"Whoa, check that out! / Stuff is getting' done! / Look at them renovations! / And... finished!"
+123194,475,59,301000,Moe Szyslak,Moe's Tavern,"After this, ain't no turning back."
+123196,475,61,308000,Grampa Simpson,Springfield Retirement Castle,B-E. Four points.
+123197,475,62,311000,Old Jewish Man,Springfield Retirement Castle,I challenge!
+123199,475,64,314000,Bouncer,LEAGUE OF EXTRA-HORNY GENTLEMEN,"Sorry, hobbits. It's back to the shire for you! Slam!"
+123200,475,65,320000,Waylon Smithers,LEAGUE OF EXTRA-HORNY GENTLEMEN,"Oh gentlemen, there is no need to head home so soon."
+123201,475,66,326000,Grady,LEAGUE OF EXTRA-HORNY GENTLEMEN,Ew! Isn't that the place where all those rats committed suicide?
+123202,475,67,330000,Waylon Smithers,LEAGUE OF EXTRA-HORNY GENTLEMEN,"Oh, it's totally different now. And it welcomes men with a few extra pounds or a little less hair."
+123203,475,68,337000,Grady,LEAGUE OF EXTRA-HORNY GENTLEMEN,/ What a great idea!
+123204,475,69,339000,Dewey Largo,LEAGUE OF EXTRA-HORNY GENTLEMEN,What about super-hairy Wonder Woman?
+123205,475,70,342000,Waylon Smithers,LEAGUE OF EXTRA-HORNY GENTLEMEN,No problem.
+123206,475,71,344000,Super-hairy Wonder Woman,LEAGUE OF EXTRA-HORNY GENTLEMEN,Thank you for humoring me.
+123208,475,73,354000,Moe Szyslak,MO'S TAVERN,"So, uh, what would you gentlemen like? I mean, I know what you'd like, and hey, why wouldn't you like it? Oh, ain't being comfortable with something weird the best? I'm gonna pour some beers now."
+123209,475,74,369000,Homer Simpson,MO'S TAVERN,Huh?
+123155,475,75,371000,Lenny Leonard,MO'S TAVERN,"Hey, something's different about Moe's. There's no chicks here."
+123156,475,76,374000,Carl Carlson,MO'S TAVERN,There's never any chicks here.
+123210,475,77,376000,Lenny Leonard,MO'S TAVERN,"Somehow, there's more no chicks here than usual. Somethin's changed. There's a sense of acceptance in the air."
+123211,475,78,383000,Carl Carlson,MO'S TAVERN,"Hey, what's that guy doing in the men's room?"
+123212,475,79,387000,Homer Simpson,MO'S TAVERN,He's washing his hands.
+123213,475,80,389000,Lenny Leonard,MO'S TAVERN,I am never gonna get that image out of my head.
+123214,475,81,391000,Moe Szyslak,MO'S TAVERN,"Look, I've turned this bar into every other kind of bar and it never worked."
+123215,475,82,395000,Moe Szyslak,MO'S TAVERN,"Total disaster. Complete bomb. Utter failure. Uh, dream I painted. And in this economy a man needs to find new customers while keeping his old best friends. So, whaddaya say?"
+123216,475,83,408000,Moe Szyslak,MO'S TAVERN,"Hey, there's nothing against it in the bible."
+123218,475,85,414000,Homer Simpson,MO'S TAVERN,Wait a minute! Your standard markup is four hundred percent?
+123219,475,86,418000,Moe Szyslak,MO'S TAVERN,Gimme that! Don't you dare question the gospel according to Dr. Swig McJigger. He's drinkin' his own brains.
+123221,475,88,432000,Dewey Largo,Springfield Elementary School,"Children, I have an announcement. Today is my last day as your music teacher."
+123222,475,89,441000,Lisa Simpson,Springfield Elementary School,"Come on, pretend he meant something to you."
+123223,475,90,444000,Kids,Springfield Elementary School,Stay / Please! / Don't go! / Too soon! / Stay! /
+123224,475,91,446000,Dewey Largo,Springfield Elementary School,"Oh, bless your little hearts. This is a happy thing. I met my soul mate at a local tavern."
+123225,475,92,452000,Milhouse Van Houten,Springfield Elementary School,There he is!
+123226,475,93,454000,Kids,Springfield Elementary School,Awww...
+123227,475,94,455000,Gary Chalmers,Springfield Elementary School,"I'm not the soul mate! I'm dating one of your mothers, I forget whose. Anyway, I'm here to introduce your new music teacher, Ms. Juniper!"
+123228,475,95,465000,Dewey Largo,Springfield Elementary School,"Honey, just teach the one with the starfish head and you'll be okay."
+123229,475,96,469000,Ms. Juniper,Springfield Elementary School,"Teach? You can't teach music. You embrace music, oh, you inhale music, you roll around in a pile of music until the scent of music is on you forever!"
+123230,475,97,482000,Dewey Largo,Springfield Elementary School,"Mmm, good luck with that."
+123231,475,98,482000,DISTINGUISHED OLDER GENTLEMEN,Springfield Elementary School,"Tick-tock, Dewey! Tanglewood beckons!"
+123232,475,99,488000,Dewey Largo,Springfield Elementary School,"Coming, Dewey! We're both named Dewey. Drum-roll, please!"
+123237,475,103,496000,Marge Simpson,MO'S,"You know, this is the first time I've ever been at Moe's without that little voice in the back of my head saying ""this is not a safe place to drink."""
+123238,475,104,496000,Homer Simpson,MO'S,"Check out my tolerance, Marge. I'm going to use the men's room."
+123239,475,105,510000,Homer Simpson,MO'S,"Hey, I didn't know you were... uh... you know, one of those--"
+123240,475,106,514000,Comic Book Gay,MO'S,"I am not Comic Book Guy. I am his cousin, Comic Book Gay."
+123241,475,107,518000,Homer Simpson,MO'S,But you do like comic books.
+123242,475,108,520000,Comic Book Gay,MO'S,Certain kinds.
+123243,475,109,522000,Tranny #1,MO'S,"Oh honey, no one's gonna believe that wig is real."
+123244,475,110,525000,Marge Simpson,MO'S,"What do you mean, wig?"
+123245,475,111,526000,Tranny #2,MO'S,And about that voice...
+123246,475,112,528000,Patty Bouvier,MO'S,What's wrong with her voice?
+123247,475,113,529000,Tranny #2,MO'S,"Steve, is that you?"
+123248,475,114,531000,Patty Bouvier,MO'S,I'm gonna knock you inside out.
+123249,475,115,532000,Tranny #2,MO'S,Doctor already did.
+123250,475,116,534000,Gays,MO'S,Hey Moe! / Lookin' good! Mm-hmm!
+123251,475,117,538000,Grady,MO'S,He is cute with a capital scrumptious.
+123252,475,118,540000,Grizzly Shawn,MO'S,"Uh, Moe... tomorrow's gay day at Krustyland... wanna come?"
+123253,475,119,544000,Moe Szyslak,MO'S,"Oh, oh, Grizzly Shawn, that's so nice of you to think of me. But... uh... the Tony Awards are that night and I'll be too keyed up to have fun."
+123254,475,120,553000,Grizzly Shawn,MO'S,Maybe some other time.
+123255,475,121,554000,Marge Simpson,MO'S,"Moe, do these guys think you're one of them?"
+123256,475,122,558000,Moe Szyslak,MO'S,Why would they think that?
+123257,475,123,560000,Moe Szyslak,MO'S,"Oh, I love you, Neil Patrick Hairless."
+123258,475,124,572000,Moe Szyslak,MO'S,Huh. Maybe I should clear the air.
+123259,475,125,578000,Moe Szyslak,MO'S,"Uh, excuse me, fellas. Excuse me. First of all... thank you. This bar was on its last legs. I was gonna have to move in with ma, who's dead and doesn't have a house. So, would not have been good."
+123260,475,126,589000,Bar Customers,MO'S,"/ No, no, no."
+123261,475,127,591000,Moe Szyslak,MO'S,Now there's somethin' I gotta tell yez.
+123262,475,128,599000,Devil Moe,MO'S,"If you tell 'em you're straight, they just might go somewhere else."
+123263,475,129,602000,Moe Szyslak,MO'S,"All right, all right, good point. But, uh, let's hear from Angel Moe."
+123264,475,130,606000,Devil Moe,MO'S,I am Angel Moe.
+123266,475,132,612000,Moe Szyslak,MO'S,"So, anyway, uh, what I wanted to say was... everybody vogue!"
+123269,475,134,632000,Ms. Juniper,Mt. Springfield,"Children, if I learned anything from my years as a groupie for the Dave Matthews Band, it was to listen. So now you listen... to the string quartet of birds, river, wind and..."
+123271,475,136,645000,Seymour Skinner,Mt. Springfield,We haven't met... but something terrible has happened... You misfiled the... permission slips. You keep the green... I need the white...
+123272,475,137,657000,Ms. Juniper,Mt. Springfield,"Hey, come back to Earth, Mr. Permission Man. You're all right."
+123273,475,138,666000,Seymour Skinner,Mt. Springfield,Strum... strum... strum...
+123275,475,140,703000,Waylon Smithers,MO'S TAVERN,"Well, sir, what do you think of my business?"
+123276,475,141,707000,C. Montgomery Burns,MO'S TAVERN,A splendid gentlemen's club. You've earned my respect.
+123277,475,142,715000,Grizzly Shawn,MO'S TAVERN,"Hey, Smithers, I didn't know you were a geezer-pleaser. Havin' a ""lemon party""?"
+123278,475,143,721000,C. Montgomery Burns,MO'S TAVERN,"Ooh, a good old-fashioned lemon party! I call first squeeze!"
+123279,475,144,727000,Waylon Smithers,MO'S TAVERN,"Sir, we are way past your bedtime."
+123280,475,145,730000,Grizzly Shawn,MO'S TAVERN,"So Moe, you wanna go to a Grease sing-along? You can be the Doody to my Frenchie."
+123281,475,146,736000,Moe Szyslak,MO'S TAVERN,"Oh, yeah, oh, I'm so sorry, uh, but tonight I've got a long-overdue manscaping. But have fun! 'Cause you're the one that I want."
+123282,475,147,744000,Grizzly Shawn,MO'S TAVERN,"Ooh, ooh, ooh."
+123283,475,148,749000,Waylon Smithers,MO'S TAVERN,"Pst. Moe, have you been telling the men here that you're... ""one of them?"""
+123284,475,149,756000,Moe Szyslak,MO'S TAVERN,"Hey, it's the bartender's job to agree with the customer. Now enough chitchat, I've gotta put up this new painting."
+123285,475,150,762000,Moe Szyslak,MO'S TAVERN,Um-hm.
+123286,475,151,764000,Waylon Smithers,MO'S TAVERN,A Tom of Shelbyville?
+123287,475,152,764000,Moe Szyslak,MO'S TAVERN,"Just relax there, Waylon. We got a great thing goin' on. Now we can afford real bowls of pretzels instead of trompe-l'oeil-ing 'em on the bar."
+123289,475,154,780000,Homer Simpson,MO'S TAVERN,Ah! Got one!
+123291,475,156,794000,Bart Simpson,Skinner's Office,"What am I doin' here, Seymour? The thing I'm planning hasn't even gone off yet."
+123293,475,158,797000,Bart Simpson,Skinner's Office,That wasn't me and you're my alibi.
+123294,475,159,800000,Seymour Skinner,Skinner's Office,"Yes, well. I might have a crush on the music sub, Ms. Juniper."
+123296,475,160,806000,Seymour Skinner,Skinner's Office,"Simpson, here's my plan. Ms. Juniper is divorced, and her daughter Melody is in the third grade."
+123297,475,161,812000,Bart Simpson,Skinner's Office,"Oh yeah, her. Classic space case."
+123298,475,162,816000,Seymour Skinner,Skinner's Office,"Well, if you took ""space case"" on a date... and brought me to chaperone along with her mother..."
+123299,475,163,823000,Bart Simpson,Skinner's Office,"I see how it is. You get a booty call and I get a cootie call. Well, it's gonna cost ya."
+123300,475,164,828000,Seymour Skinner,Skinner's Office,How would you like two weeks of spring break?
+123301,475,165,830000,Bart Simpson,Skinner's Office,Triple spring break plus four weeks at Christmas.
+123302,475,166,834000,Seymour Skinner,Skinner's Office,"No, if... if the state finds out they'll shut us down!"
+123303,475,167,837000,Bart Simpson,Skinner's Office,"Okay, have fun dying alone."
+123304,475,168,839000,Seymour Skinner,Skinner's Office,Deal.
+123307,475,171,843000,Melody,Noiseland Arcade,I can't believe I'm playing videogames with Bart Simpson. I've sketched you so many times in my dream journal.
+123308,475,172,850000,Bart Simpson,Noiseland Arcade,"Great, baby. Get me some more tokens."
+123309,475,173,855000,Ms. Juniper,Noiseland Arcade,Bart rides that board with the passion of an Arapaho ghost dancer.
+123310,475,174,861000,Seymour Skinner,Noiseland Arcade,"You know, passion has always been a passion of mine."
+123311,475,175,867000,Seymour Skinner,Noiseland Arcade,"Uh, something else about me is that I'm thinking of becoming an excellent cook."
+123312,475,176,876000,Ms. Juniper,Noiseland Arcade,Dance with me.
+123313,475,177,877000,Seymour Skinner,Noiseland Arcade,What? Here? Right next to the Nacho-cano?
+123314,475,178,880000,Ms. Juniper,Noiseland Arcade,"I like you, Seymour."
+123315,475,179,881000,Seymour Skinner,Noiseland Arcade,You do? But why? I mean... but why?
+123316,475,180,884000,Ms. Juniper,Noiseland Arcade,"Sh! Words are your enemy, my love. Melody is staying at her father's tonight and, well, I can't dance by myself... although I do."
+123318,475,182,898000,Grizzly Shawn,MO'S TAVERN,Can you believe it?
+123319,475,183,900000,Grady,MO'S TAVERN,This is an outrage!
+123320,475,184,902000,Julio,MO'S TAVERN,This morning I was like ding-a-ling-a-ling. Now I'm like dong-dong-dong.
+123321,475,185,908000,Moe Szyslak,MO'S TAVERN,"Boys, relax, have a drink and tell Mama Moe all about it."
+123322,475,186,912000,Patty Bouvier,MO'S TAVERN,The city won't let us march in the Springfield Founder's Parade.
+123323,475,187,917000,Moe Szyslak,MO'S TAVERN,Well who needs 'em? We can have your own parade.
+123324,475,188,919000,Julio,MO'S TAVERN,We do. We have like twenty of them.
+123325,475,189,922000,Grady,MO'S TAVERN,But we're sick of being second-class citizens! Things will never change until one of us is on the town council.
+123326,475,190,928000,Grizzly Shawn,MO'S TAVERN,Moe should run! He's the heart of this town's gay community.
+123327,475,191,934000,Grady,MO'S TAVERN,"Will you do it, Moe? Will you become Springfield's first openly-gay City Councilman?"
+123328,475,192,939000,Moe Szyslak,MO'S TAVERN,"Well, I think if you guys can manage to go into the voting booth one at a time, then I can manage to win!"
+123330,475,194,947000,Waylon Smithers,MO'S TAVERN,"Moe, can I discuss an inventory issue with you in the back room?"
+123333,475,197,954000,Waylon Smithers,Back Room of Moe's,You can't be these people's leader if you're lying to them about who you are. You're not gay!
+123334,475,198,960000,Moe Szyslak,Back Room of Moe's,"Whew! I thought it was an inventory issue. That's a big relief. Now don't worry, I'll let 'em down easy. In four years!"
+123335,475,199,970000,Moe Szyslak,Back Room of Moe's,Yes! Your queen is back!
+123337,475,201,977000,Seymour Skinner,Springfield Elementary School,I'M WALKING ON SUNSHINE / NOT LITERALLY / IT MEANS THAT I'M HAPPY / POST-COITALLY / IT WAS ON A SCHOOL NIGHT!
+123338,475,202,985000,Gary Chalmers,Springfield Elementary School,Skin-ner! That song needed no lyrical improvement.
+123339,475,203,989000,Seymour Skinner,Springfield Elementary School,"Gary... Gary, you know what you need?"
+123340,475,204,993000,Seymour Skinner,Springfield Elementary School,A little... honey in your yogurt.
+123341,475,205,995000,Gary Chalmers,Springfield Elementary School,"Skin-ner! You're a regular Casanova. Or in English, ""new house."""
+123342,475,206,998000,Bart Simpson,Springfield Elementary School,"Come on, come to life! I swear I'll be cool about it."
+123343,475,207,1005000,Melody,Springfield Elementary School,Can I do a handstand against you?
+123344,475,208,1007000,Bart Simpson,Springfield Elementary School,Sure.
+123345,475,209,1011000,Bart Simpson,Springfield Elementary School,"Melody, you're a great girl, but... I see you as more of a sister... and I don't like my sister."
+123346,475,210,1018000,Melody,Springfield Elementary School,You're breaking up with me... upside down?!
+123347,475,211,1022000,Melody,Springfield Elementary School,Raggedy Ann was so right about you!
+123349,475,213,1027000,Seymour Skinner,Skinner's Office,"Thanks to you, Melody's mother is so upset, she's moving them out of town!"
+123350,475,214,1031000,Ms. Juniper,Skinner's Office,"Goodbye, Seymour. Think of me whenever you see a tattoo you don't understand."
+123351,475,215,1036000,Seymour Skinner,Skinner's Office,"Calliope, is there anything I can say to make you stay?"
+123182,475,216,1039000,Ms. Juniper,Skinner's Office,No. But you can say you'll come with us.
+123295,475,217,1042000,Seymour Skinner,Skinner's Office,Leave with you? I'll have to check with mother.
+123352,475,218,1045000,Agnes Skinner,Skinner's Office,Seymour! I found a ticket stub for a James Bond movie in your pants! Explain yourself!
+123353,475,219,1051000,Seymour Skinner,Skinner's Office,"Well, it, it, uh... took place in a country we teach about."
+123354,475,220,1054000,Agnes Skinner,Skinner's Office,Fibs break Jesus' ribs!
+123355,475,221,1057000,Ms. Juniper,Skinner's Office,"Look, I don't know how long this will last. It could be a day. It could be the rest of our lives. But you'll never know unless you take this chance. Give yourself permission."
+123357,475,223,1079000,Gary Chalmers,Springfield Elementary School,"Willie, you're principal now."
+123358,475,224,1081000,Groundskeeper Willie,Springfield Elementary School,Really? Who's the new groundskeeper?
+123359,475,225,1084000,Gary Chalmers,Springfield Elementary School,"Also you, and you don't get more money."
+123360,475,226,1086000,Groundskeeper Willie,Springfield Elementary School,Ach.
+123361,475,227,1086000,Gary Chalmers,Springfield Elementary School,Yeah.
+123363,475,229,1097000,Moe Szyslak,Springfield Town Hall,"My name is Moe Szyslak, and I'm here to elect me!"
+123365,475,231,1102000,Waylon Smithers,Springfield Town Hall,"Hello, Moe."
+123366,475,232,1103000,Moe Szyslak,Springfield Town Hall,"Hey there, well... it's my business partner, Mr. Smithers. Nice of you to drop by and not say nothin' that costs nobody no election."
+123367,475,233,1112000,Waylon Smithers,Springfield Town Hall,"But Moe, how can you be their leader when you're not one of them?"
+123369,475,235,1118000,Moe Szyslak,Springfield Town Hall,"I am one of them! Hey, I only read Hustler to see the picture of Larry Flynt."
+123370,475,236,1122000,Waylon Smithers,Springfield Town Hall,"Sounds great. But first, answer me this: do you find me attractive?"
+123371,475,237,1126000,Moe Szyslak,Springfield Town Hall,"Oh yeah, yeah. Like all gays, I'm attracted to all men."
+123372,475,238,1131000,Comic Book Gay,Springfield Town Hall,Most. Insidious. Stereotype. Ever.
+123373,475,239,1134000,Julio,Springfield Town Hall,You're cute. You want to go out later?
+123374,475,240,1137000,Comic Book Gay,Springfield Town Hall,"Whoever said that, yes."
+123375,475,241,1139000,Waylon Smithers,Springfield Town Hall,"All right, if you're attracted to me... then kiss me, Moe."
+123376,475,242,1145000,Moe Szyslak,Springfield Town Hall,"Okay, okay, uh... prepare to be kissed... here we go... giving in to my natural urges... okay, a few jumping jacks just to warm up..."
+123377,475,243,1159000,Moe Szyslak,Springfield Town Hall,"Okay, here comes the airplane..."
+123378,475,244,1167000,Moe Szyslak,Springfield Town Hall,"I'm sorry, everyone. Oh, this is the most embarrassing thing I ever had to say, but... I ain't gay."
+123381,475,246,1175000,Grady,Springfield Town Hall,"Oh, Moe! How could you lie about who you are when who we are is all we are?"
+123382,475,247,1181000,Moe Szyslak,Springfield Town Hall,"I didn't mean to. At first, I was only gay for your money. And, and I had real, deep feelings for that money. But then I felt accepted by you in a way that I'd never been before. I just wish you people could know what it's like to want acceptance. Well, so who you gonna vote for? Me? Or a republican whose record is so anti-gay, he's clearly secretly super gay."
+123383,475,248,1206000,Julio,Springfield Town Hall,"Now we don't know who to vote for, the liar or the denier!"
+123384,475,249,1210000,Distinguished Older Gentleman,Springfield Town Hall,Once again the powers that be have spurned our request for basic human equality. Must not the heavens themselves cry with rage?!
+123385,475,250,1222000,Julio,Springfield Town Hall,How did you do that?
+123386,475,251,1224000,Distinguished Older Gentleman,Springfield Town Hall,Classical training!
+123387,475,252,1230000,Waylon Smithers,Springfield Town Hall,I'm very sorry. I... I had to do what I thought was right.
+123388,475,253,1234000,Moe Szyslak,Springfield Town Hall,"Well, long as I got nothin' to lose..."
+123389,475,254,1239000,Moe Szyslak,Springfield Town Hall,"Not bad. Like Frisbee golf, I'm glad I tried it once."
+123391,475,256,1248000,Bart Simpson,Springfield Elementary School,What happened?
+123392,475,257,1250000,Seymour Skinner,Springfield Elementary School,"Well, it could have been a day, it could have been the rest of my life."
+123393,475,258,1253000,Bart Simpson,Springfield Elementary School,And?
+123394,475,259,1255000,Seymour Skinner,Springfield Elementary School,It was only a day.
+123395,475,260,1257000,Bart Simpson,Springfield Elementary School,You've been gone for three months!
+123396,475,261,1259000,Seymour Skinner,Springfield Elementary School,Groovy.
+123397,475,262,1267000,Moe Szyslak,Springfield Elementary School,"Puttin' everything back. Undo. Undo. Undo. Sports page back over the urinal, and done."

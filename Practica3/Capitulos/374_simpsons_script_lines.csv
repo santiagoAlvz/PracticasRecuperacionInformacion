@@ -1,0 +1,234 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+96969,374,2,34000,Bart Simpson,The Frying Dutchman,When is our food gonna get here? I'm starved.
+96970,374,3,37000,Homer Simpson,The Frying Dutchman,"I'm so bored, I figured out where the wallpaper pattern repeats."
+96971,374,4,41000,Homer Simpson,The Frying Dutchman,"See, it goes: ship's wheel, Popeye tattoo, Gilligan hat, fish with boobs... and back to ship's wheel."
+96972,374,5,47000,Lisa Simpson,The Frying Dutchman,What about this swordfish?
+96973,374,6,49000,Homer Simpson,The Frying Dutchman,My life's work ruined.
+96974,374,7,52000,Captain Horatio McCallister,The Frying Dutchman,Arr... Sorry about the delay. The chef is having a bit of a problem with tonight's special.
+96975,374,8,60000,Captain Horatio McCallister,The Frying Dutchman,"Meanwhile, I can send a busboy out to get you somethin' from a better restaurant."
+96976,374,9,65000,Marge Simpson,The Frying Dutchman,Red Lobster?
+96977,374,10,66000,Captain Horatio McCallister,The Frying Dutchman,Not that good.
+96979,374,12,68000,Captain Horatio McCallister,The Frying Dutchman,"Until then, perhaps an old sea yarn might pass the time."
+96980,374,13,76000,Captain Horatio McCallister,The Frying Dutchman,Too bad I don't know any.
+96981,374,14,78000,Lisa Simpson,The Frying Dutchman,"I know one, about the most important sea voyage in American history. The journey of the Mayflower."
+96982,374,15,84000,Captain Horatio McCallister,The Frying Dutchman,"Ah yes, the ship that brought prostitutes to America."
+96983,374,16,88000,Lisa Simpson,The Frying Dutchman,"Not prostitutes, Protestants."
+96984,374,17,91000,Captain Horatio McCallister,The Frying Dutchman,Now who's being naive?
+96985,374,18,93000,Lisa Simpson,The Frying Dutchman,The year was sixteen twenty...
+96988,374,21,100000,Marge Simpson,DOCKS,"Hurry, my little Puritans -- we must flee England and its insufficiently Puritanical ways."
+96989,374,22,107000,Marge Simpson,DOCKS,Do you have your shipboard entertainments?
+96990,374,23,109000,Bart Simpson,DOCKS,I've got my toy wood lump!
+96991,374,24,113000,Bart Simpson,DOCKS,What jolly fun!
+96993,374,26,114000,Marge Simpson,DECK OF THE SHIP,"Finally, we shall bid goodbye to England and its drunken, decadent sinners."
+96994,374,27,120000,Homer Simpson,DECK OF THE SHIP,"Outta my way, you God-fearing Buckleheads!"
+96995,374,28,125000,Homer Simpson,DECK OF THE SHIP,Hide me!
+96996,374,29,128000,Homer Simpson,DECK OF THE SHIP,"Please, you've gotta help me! If they find me they'll kill me."
+96997,374,30,132000,Beefeater Lenny,DECK OF THE SHIP,Has anyone seen this knave?
+96998,374,31,134000,Beefeater Carl,DECK OF THE SHIP,He's wanted for daring to question why we call this the Jacobean era when the king's name is James and not Jacob!
+96999,374,32,142000,Lisa Simpson,DECK OF THE SHIP,"Mother, we must protect him. Look, he's praying."
+97000,374,33,146000,Homer Simpson,DECK OF THE SHIP,"Oh Lord, please let the soldiers kill this family instead of me."
+97001,374,34,149000,Marge Simpson,DECK OF THE SHIP,"Noble sir, you may accompany us to America in my late husband's clothing."
+97002,374,35,155000,Lisa Simpson,DECK OF THE SHIP,And I will make thee a hat from construction paper!
+97003,374,36,158000,Homer Simpson,DECK OF THE SHIP,"So, thou art a widow, eh?! Then the codpiece holds no terrors for thee."
+97004,374,37,165000,Marge Simpson,DECK OF THE SHIP,"Good sir, I do not approve of your fleshly gaze."
+97005,374,38,172000,Homer Simpson,DECK OF THE SHIP,Oh baby...
+97007,374,40,176000,Beefeater Carl,Harbor,Goodbye!
+97008,374,41,176000,Beefeater Lenny,Harbor,Don't come back!
+97010,374,43,179000,Homer Simpson,Mayflower,What kind of a booze cruise is this? Where's the hooch?
+97011,374,44,183000,FLANDISH,Mayflower,"We Puritans have no place for drunkenness... or colorful clothes, or dreaming, or poetry. So if you write a sonnet, keep it under your bonnet! Oh no, that was a poem!"
+97012,374,45,196000,FLANDISH,Mayflower,"Forgive me, Lord! Then, pour a little salt in the wounds... and I'm good."
+97013,374,46,201000,Marge Simpson,Mayflower,"I see you met our devout leader, Ned Flandish."
+97014,374,47,204000,Homer Simpson,Mayflower,"Stupid Flandish. Uh, listen, since all the other fun stuff is out of bounds, how 'bout a little Bible-thumping in the crow's nest? What do you say, Miss..."
+97015,374,48,214000,Marge Simpson,Mayflower,Constance Prudence Chastity Goodfaith.
+97017,374,50,217000,Marge Simpson,Mayflower,"My friends call me ""Marge""."
+97019,374,52,219000,Marge Simpson,Mayflower,Marge Obedience Temperance Sexwon't.
+97021,374,54,222000,Moezekiel,Mayflower,"Back off, newbie."
+97022,374,55,224000,Moezekiel,Mayflower,"We're engaged! I didn't kill her husband just so... I mean, I didn't kill her husband."
+97023,374,56,229000,Marge Simpson,Mayflower,We're not engaged.
+97024,374,57,230000,Marge Simpson,Mayflower,It's really more of an amiable concordance.
+97026,374,58,234000,FLANDISH,Mayflower,"Such language from a woman... Oh no, I just thought of you as a woman!"
+97027,374,59,241000,Rev. Timothy Lovejoy,Mayflower,"Lord we thank you for the many ways you show your love: the sun which bakes our lips to the point of bleeding, and your hilarious idea to surround us with water that would kill us if we drank it."
+97028,374,60,256000,Moezekiel,Mayflower,"Now I gotta warn ya, even for this day and age, I'm considered a bad husband."
+97029,374,61,261000,Homer Simpson,Mayflower,She's gonna marry him 'cause he wears boots instead of blackening his feet.
+97031,374,63,270000,Bart Simpson,Mayflower,"Well, I'm sure the way to win her heart is to be fat and crying."
+97032,374,64,274000,Homer Simpson,Mayflower,Why thee little...
+97035,374,67,281000,Marge Simpson,Mayflower,Oh don't stop -- you're choking him just the way his father used to.
+97036,374,68,285000,Marge Simpson,Mayflower,Good times.
+97038,374,70,289000,Marge Simpson,Mayflower,Perhaps thou wouldst make a good father!
+97039,374,71,293000,Homer Simpson,Mayflower,May I escort you to the railing?
+97040,374,72,297000,Moezekiel,Mayflower,"Oh my God, look at that hand-on-hand action! If I don't do somethin', soon they'll be exchanging pleasantries."
+97041,374,73,303000,Marge Simpson,Mayflower,"Yes, the weather is fair."
+97042,374,74,305000,Moezekiel,Mayflower,"Man, that guy sends my humors from sanguine to bilious! That's how we talk. Weird, huh?"
+97043,374,75,311000,Moezekiel,Mayflower,Time to think of a plan most sneaky.
+97044,374,76,314000,Moezekiel,Mayflower,"Anyways, I just wanted to let you know, that I'm throwin' a little party tonight to celebrate that only half of us have died so far."
+97046,374,78,325000,Homer Simpson,SHIP DECK,Beer? I thought you guys didn't drink on the Gayflower.
+97047,374,79,329000,Moezekiel,SHIP DECK,Stop callin' it that!
+97048,374,80,330000,Homer Simpson,SHIP DECK,What-ever.
+97049,374,81,331000,Moezekiel,SHIP DECK,"I was savin' this booze to mess up the Indians, but uh, seein' what good pals we are, I wanted to give you a taste."
+97050,374,82,338000,Moezekiel,SHIP DECK,"Say, I know a good drinking game: take a sip every time a wave hits the ship."
+97051,374,83,345000,Moezekiel,SHIP DECK,"Oh, you're good at this."
+97054,374,86,350000,Rev. Timothy Lovejoy,Mayflower,"Oh Lord, thank you for this generous rain and abundant lightning."
+97056,374,87,358000,Rev. Timothy Lovejoy,Mayflower,Obviously kissing your ass is getting me nowhere.
+97057,374,88,365000,FLANDISH,Mayflower,This storm's blown us off course! And where's our crew?
+97058,374,89,368000,Moezekiel,Mayflower,"I'll show you where they are. You don't wanna miss this, Marge."
+97059,374,90,374000,Mayflower Crew,Mayflower,Sin! Sin! Sin!
+97060,374,91,376000,FLANDISH,Mayflower,Horseplay? Roughhousing? Horse-housing?
+97061,374,92,381000,Moezekiel,Mayflower,And here's the knave what's responsible.
+97062,374,93,385000,Rev. Timothy Lovejoy,Mayflower,That's all I needed to hear.
+97064,374,95,390000,Marge Simpson,Mayflower,"Homer, I can't believe I was thinking of letting you touch my elbow through a cloth!"
+97065,374,96,395000,Homer Simpson,Mayflower,"But baby, a man has needs."
+97066,374,97,401000,Rev. Timothy Lovejoy,Mayflower,Our Captain's be-head-bumped!
+97067,374,98,403000,Rev. Timothy Lovejoy,Mayflower,I guess we'll never make it to the new world.
+97068,374,99,406000,Bart Simpson,Mayflower,"When we landed, I was gonna denounce my sister as a witch."
+97069,374,100,410000,Lisa Simpson,Mayflower,"I keep telling you, the ability to add two-digit numbers is not witchcraft!"
+97070,374,101,415000,Bart Simpson,Mayflower,Thirty-one plus forty-three.
+97071,374,102,416000,Lisa Simpson,Mayflower,Seventy-four.
+97072,374,103,417000,Pilgrims,Mayflower,Witch! Witch! Witch!
+97073,374,104,419000,Homer Simpson,Mayflower,"People, this is madness! We can burn the witch later! Right now, I've got to save this ship!"
+97074,374,105,426000,Homer Simpson,Mayflower,"Hey, I've been driving drunk since I was twelve! But first...who's gonna help me pee?"
+97075,374,106,432000,Pilgrim Smithers,Mayflower,They're looking at me 'cause I have the key to the stocks.
+97076,374,107,441000,Homer Simpson,Mayflower,"Don't worry, Marge. I'll see to it you fundamentalist Christians live to take over all America by the twenty-first century!"
+97077,374,108,452000,Marge Simpson,Mayflower,Look!
+97078,374,109,454000,Marge Simpson,Mayflower,An albatross! It can lead us to safety.
+97080,374,111,460000,Homer Simpson,Ocean,"Man, that bird did it all. Good guy."
+97082,374,113,463000,FLANDISH,Mayflower,I just thought of a name for where we're going: New England!
+97083,374,114,467000,Brother Willie,Mayflower,"Oh, that's real creative. Whaddaya call your foot? ""New Hand?"""
+97084,374,115,472000,FLANDISH,Mayflower,At least I'm pitching!
+97085,374,116,475000,Homer Simpson,Mayflower,Land ho!
+97086,374,117,477000,Marge Simpson,Mayflower,What'd you call me?
+97089,374,119,482000,FLANDISH,PLYMOUTH COLONY,"Great Chief Wig-gum, we could never have survived our first year in the New World without you. I almost regret what we Europeans are gonna do to ya."
+97090,374,120,490000,Chief Wiggum,PLYMOUTH COLONY,Wha-what are you gonna do?
+97091,374,121,492000,FLANDISH,PLYMOUTH COLONY,Give you the biggest slice of pumpkin pie!
+97092,374,122,496000,FLANDISH,PLYMOUTH COLONY,"Also, we're gonna take your land and wipe you out. Who wants whipped topping?"
+97094,374,124,507000,Captain Horatio McCallister,The Frying Dutchman,Here's your bill. And will there be anything else?
+97095,374,125,510000,Lisa Simpson,The Frying Dutchman,We haven't gotten our food yet!
+97096,374,126,512000,Captain Horatio McCallister,The Frying Dutchman,I'll look into it.
+97097,374,127,514000,Marge Simpson,The Frying Dutchman,Who else has a story?
+97098,374,128,517000,Homer Simpson,The Frying Dutchman,I do!
+97099,374,129,519000,Marge Simpson,The Frying Dutchman,"Homer, you can tell the third story. Bart will tell the second, which is usually the weakest."
+97100,374,130,521000,Bart Simpson,The Frying Dutchman,Hey!
+97101,374,131,525000,Marge Simpson,The Frying Dutchman,I'm just trying to take the pressure off of you.
+97102,374,132,528000,Bart Simpson,The Frying Dutchman,"Well, one time I read this boring comic book about a ship called ""The Bounty..."""
+97103,374,133,534000,Marge Simpson,The Frying Dutchman,"Ooh, like the paper towels. Go on..."
+97106,374,136,546000,Fletcher Christian,BOUNTY,Captain Bligh! There's a message from Admiral Nelson!
+97107,374,137,548000,Bligh,BOUNTY,"Thank you, Mr. Christian."
+97108,374,138,554000,Bligh,BOUNTY,"""Bligh"" ""eats""...""dolphin boogers""."
+97109,374,139,555000,Nelson Muntz,BOUNTY,Haw-haw!
+97110,374,140,558000,Bligh,BOUNTY,"Well, when you eat as much dolphin as I do, there's bound to be a booger or two in the mix."
+97113,374,143,565000,Bligh,BOUNTY,"Good morning, crew. Welcome to day seven eighteen of our voyage. Today's announcements:"
+97114,374,144,569000,Bligh,BOUNTY,"First of all, in an effort to save water, you will no longer be given any water."
+97115,374,145,575000,Bligh,BOUNTY,And because of a drawing of myself having romantic congress with a mer-man...
+97117,374,147,584000,Bligh,BOUNTY,I am dumping all your mail from home into the sea.
+97118,374,148,589000,Bligh,BOUNTY,"And I can assure you, there were cookies in there. Good cookies. The kind only a loving mother or Milhouse's father could make."
+97119,374,149,597000,Milhouse Van Houten,BOUNTY,My father's alive?
+97088,374,150,598000,Bligh,BOUNTY,"No, he died while baking. It's all in the letter."
+97121,374,152,603000,Jimbo Jones,BOUNTY,I'm getting pretty tired of that seawad!
+97122,374,153,606000,DOLPH,BOUNTY,This is nothing like the recruiting brochure!
+97123,374,154,611000,Kearney Zzyzwicz,BOUNTY,Maybe that's what happens on the last day.
+97124,374,155,615000,Bosun Willie,BOUNTY,"I warn ye, Captain, push this crew too far and there'll be mutiny."
+97125,374,156,620000,Bligh,BOUNTY,Mutiny? On The Bounty? What have you been smoking?
+97126,374,157,624000,Bosun Willie,BOUNTY,Opium.
+97127,374,158,624000,Bligh,BOUNTY,Besides that.
+97130,374,161,634000,King Homer,PALAPA,"Welcome to our tropical paradise. Enjoy our luaus, our lagoons and our ladies... and remember, what happens in Tahiti, stays in Tahiti."
+97131,374,162,644000,Queen Marge,PALAPA,"Because we have no way of communicating with the outside world! Tell me, has Robert Fulton invented the steamboat yet?"
+97132,374,163,651000,Jimbo Jones,PALAPA,Any day now!
+97134,374,165,674000,Tahitian Man,PALAPA,"I'm telling you, I don't look like that! Make another!"
+97135,374,166,678000,Sculptor,PALAPA,"Yes, Lord Ugly-Face."
+97136,374,167,683000,Tahitian Juggler,PALAPA,"Don't just sit there, help me!"
+97137,374,168,686000,King Homer,PALAPA,"Ba-bye. Bye, bye. Thanks for staying with us... we appreciate your putting cloth over our women's boobies... you'll receive an updated bill after you leave... Bye, bye."
+97140,374,171,697000,Milhouse Van Houten,BOUNTY,I wish we were back in Tahiti.
+97141,374,172,700000,Bligh,BOUNTY,"Why yes, it was truly an unforgettable vacation. I order you to forget it!"
+97143,374,174,706000,Bligh,BOUNTY,"And while you're working, I want to hear a sea chantey.... in a round!"
+97144,374,175,710000,Half Of Crew,BOUNTY,ROW ROW ROW YOUR BOAT / GENTLY DOWN THE STREAM...
+97145,374,176,716000,Bligh,BOUNTY,Rounder! I hear edges!
+97146,374,177,717000,Crew,BOUNTY,"GENTLY DOWN THE STREAM / ROW / GENTLY / ROW ROW / MERRILY, MERRILY, MERRILY / BOAT / DREAM / YOUR"
+97147,374,178,720000,Bligh,BOUNTY,You're off-key! Make that song your own! You don't sound like you've ever been on a boat in your life!
+97148,374,179,731000,Bligh,BOUNTY,What the?
+97149,374,180,732000,Fletcher Christian,BOUNTY,"Captain, this is a mutiny."
+97150,374,181,734000,Bligh,BOUNTY,"Well, let's not be hasty. What if I introduce a suggestion box?"
+97151,374,182,740000,DOLPH,BOUNTY,We have a suggestion box. You made it from the head of the last guy who had a suggestion.
+97025,374,184,749000,Bosun Willie,BOUNTY,I warned ye there'd be mutiny.
+97153,374,185,752000,Bligh,BOUNTY,"Just start rowing, Willie. And sing a round while you do."
+97154,374,186,756000,Bosun Willie,BOUNTY,"ROW, ROW / ROW YOUR BOAT / GENTLY / ROW ROW / MERRILY, MERRILY / BOUND THE DOWN THE / GENTLY DOWN THE, MERRILY DOWN THE-- I cannot do it. I'm only one man!"
+97155,374,187,769000,Bligh,BOUNTY,You'll sing or you'll mutiny. And you're too much of a spineless coward for that.
+97156,374,188,777000,Bligh,BOUNTY,Swim faster or I'll have you made into soup. What're you gonna do? Go underwater? I'd like to see that.
+97158,374,190,786000,Bligh,BOUNTY,You call this deep?
+97159,374,191,790000,Fletcher Christian,BOUNTY,"This is your new captain saying ""Next stop, Tahiti""!"
+97161,374,193,790000,Fletcher Christian,BOUNTY,"And we're gonna remove all evidence of the previous regime, starting with this stupid wheel."
+97162,374,194,805000,Bart Simpson,BOUNTY,Uh-oh.
+97163,374,195,810000,Fletcher Christian,BOUNTY,"Well, I know you had your doubts, men, but there they are: the most beautiful women in the world."
+97164,374,196,818000,Kearney Zzyzwicz,BOUNTY,Those are penguins.
+97165,374,197,820000,Fletcher Christian,BOUNTY,"Well, look at it this way. We're gonna discover the North Pole."
+97166,374,198,824000,Jimbo Jones,BOUNTY,South Pole.
+97167,374,199,825000,Fletcher Christian,BOUNTY,"Oh boy, do I suck."
+97168,374,200,826000,Jimbo Jones,BOUNTY,Yeah.
+97170,374,202,834000,Lisa Simpson,The Frying Dutchman,I'm starting to think the Sea Captain isn't coming back.
+97171,374,203,838000,Bart Simpson,The Frying Dutchman,He's out there playin' basketball!
+97172,374,204,843000,Captain Horatio McCallister,The Frying Dutchman,"In your face, Julio."
+97173,374,205,846000,Captain Horatio McCallister,The Frying Dutchman,I'll be fetchin' yer food right away. Six more games.
+97174,374,206,851000,Homer Simpson,The Frying Dutchman,"Well, I guess we have time for my tale of moist adventure. It takes place in a dark time for mankind when madness and ignorance ruled: ""the nineteen seventies."""
+97177,374,209,870000,Disco Stu,GRAND BALLROOM,Disco Stu has some troubling news.
+97179,374,211,875000,Disco Stu,GRAND BALLROOM,The ship's doctor has reported an outbreak of -- disco fever! The only cure is to do a little dance... make a little love... get down tonight!
+97180,374,212,885000,Lenny Leonard,GRAND BALLROOM,Wait a minute -- what was the second one?
+97181,374,213,886000,Disco Stu,GRAND BALLROOM,"And now let's welcome the Leroy Neiman of seamen, your Captain, Montgomery Burns!"
+97055,374,215,897000,Lenny Leonard,GRAND BALLROOM,"Ten-four, good buddy!"
+97183,374,216,899000,Carl Carlson,GRAND BALLROOM,I'm Chevy Chase and you're not!
+97184,374,217,901000,Barney Gumble,GRAND BALLROOM,Willie Stargell!
+97185,374,218,903000,Capt. Burns,GRAND BALLROOM,"Yes, welcome to the maiden voyage of the Neptune, the world's most unflippable luxury liner!"
+97186,374,219,909000,Capt. Burns,GRAND BALLROOM,Help yourselves to some pineapple upside-down cake and apple turnovers. And you'll all be getting free hats...so make sure to give us your cap size!
+97187,374,220,921000,Marge Simpson,GRAND BALLROOM,What a fascinating cross-section of humanity! You've got the lonely but loveable loser...
+97188,374,221,927000,Comic Book Guy,GRAND BALLROOM,"Hello, Angels. Your mission today involves going undercover at a wet t-shirt contest. Let's get you wet."
+97189,374,222,936000,Marge Simpson,GRAND BALLROOM,Maybe not so loveable...
+97190,374,223,938000,Lisa Simpson,GRAND BALLROOM,...and you've got the elderly Jewish couple making their first trip to Israel.
+97191,374,224,941000,Old Jewish Woman,GRAND BALLROOM,Our son Shlomo is working on a kibbutz in Haifa -- we're schlepping him some kreplach.
+97192,374,225,948000,Old Jewish Man,GRAND BALLROOM,We're Jewish all right!
+97193,374,226,950000,Bart Simpson,GRAND BALLROOM,What's our back story? What's our back story?
+97194,374,227,952000,Lisa Simpson,GRAND BALLROOM,We're the band. And we're on!
+97195,374,228,957000,Lisa Simpson,GRAND BALLROOM,I THINK WE'RE HEADING FOR DISASTER / AND MOST OF YOU WILL NOT BE SAVED...
+97197,374,230,966000,Lisa Simpson,Bridge,UNLESS THE CAPTAIN IS ATTENTIVE / WE'LL ALL BE CRUSHED BY A HUGE WAVE...
+97198,374,231,976000,Capt. Burns,Bridge,"I love the sea, Smithers. No earthquakes, towering infernos, China syndromes, apple dumpling gangs..."
+97200,374,233,996000,Homer Simpson,GRAND BALLROOM,"My wig! I mean, my natural hair!"
+97201,374,234,998000,Luigi,GRAND BALLROOM,"Mama Mia, what a time to be carrying the soup."
+97202,374,235,1001000,Bart Simpson,GRAND BALLROOM,Cool! No gravity!
+97203,374,236,1005000,Bart Simpson,GRAND BALLROOM,"Oh, there it is."
+97205,374,238,1010000,Krusty the Clown,Ship,"Hey, you schmuck -- get off-a me!"
+97206,374,239,1013000,Krusty the Clown,Ship,Goin' out with a sight gag. Nice.
+97207,374,240,1020000,Homer Simpson,Ship,I've got an idea: climb into my mouth.
+97208,374,241,1026000,Homer Simpson,Ship,Nooooo!
+97209,374,242,1030000,Homer Simpson,Ship,"Catch me, Flanders!"
+97210,374,243,1034000,Ned Flanders,Ship,"Lord, with you watching over me I shall feel no pain."
+97212,374,245,1041000,Homer Simpson,Ship,Woo hoo! It's almost New Year's! Ten... nine... eight...
+97213,374,246,1046000,Marge Simpson,Ship,"Homer, the ship's upside down and hundreds of people are dead!"
+97214,374,247,1049000,Homer Simpson,Ship,...three... two... one... Happy New Year! My resolution is to be more fun!
+97215,374,248,1058000,Selma Bouvier,Ship,"Attention, everyone! I've spent the entire cruise reading these maintenance brochures because as a lonely single woman, I've had nothing better to do."
+97217,374,250,1068000,Selma Bouvier,Ship,"Aws are cheap, I'm lookin' for some action."
+97218,374,251,1073000,Selma Bouvier,Ship,I thought so. It says here we should head upwards towards the hull before the ocean starts filling the ship.
+97219,374,252,1079000,CHIEF PETTY OFFICER WIGGUM,Ship,Don't listen to her! She'll get us all killed! The safest thing to do is to resume our normal activities. Now where is the rumba instructor?
+97220,374,253,1087000,C.P.O. Wiggum,Ship,"Okay, so that's left, left right. C'mon, people."
+97223,374,256,1098000,Old Jewish Man,Ship,"So, now which way do we go now in this fakakta flippity ship?"
+97224,374,257,1106000,Marge Simpson,Ship,"Homer, what should we do?"
+97225,374,258,1108000,Homer Simpson,Ship,"Uh, gimme a second, I'm in the bathroom."
+97226,374,259,1112000,Homer Simpson,Ship,What? I have great ass suction. Now how 'bout a little privacy?
+97227,374,260,1119000,Homer Simpson,Ship,My keys!
+97229,374,262,1122000,Lenny Leonard,UPSIDE DOWN SHIP,"Whatever you do, don't look down! I mean up! I can't do this anymore, it's too confusing!"
+97231,374,264,1130000,Carl Carlson,UPSIDE DOWN SHIP,Not that confusing.
+97232,374,265,1131000,Lisa Simpson,UPSIDE DOWN SHIP,This hatchway is jammed!
+97233,374,266,1134000,Sideshow Mel,UPSIDE DOWN SHIP,Move aside! I'll use my Swiss Army Bone!
+97235,374,268,1147000,Lisa Simpson,Ship,"Okay, the engine room is just through this flooded area. Somebody has to take the rope, swim through to the other side, and tie it off so we can use it as an underwater guide line."
+97236,374,269,1156000,Comic Book Guy,Ship,Stand aside. I shall perform the necessary heroics. Thank you!
+97237,374,270,1161000,Bart Simpson,Ship,You?
+97238,374,271,1162000,Comic Book Guy,Ship,Yes. All I need is some inspirational music...
+97239,374,272,1168000,Gilbert O. Sullivan,Ship,"AND WHEN SHE PASSED AWAY / I CRIED AND CRIED ALL DAY / ALONE AGAIN, NATURALLY / ALONE AGAIN..."
+97241,374,274,1178000,Homer Simpson,Ship,"All right, I can see this is all up to me."
+97242,374,275,1181000,Homer Simpson,Ship,"Swim, fatty, swim!"
+97243,374,276,1184000,Marge Simpson,Ship,"Oh, Homie, you did it!"
+97244,374,277,1205000,Comic Book Guy,Ship,I've tied it off. You're all going to make it. Tell the world... that I saved you all.
+97245,374,278,1213000,Homer Simpson,Ship,Don't tell me what to do.
+97247,374,280,1218000,Sideshow Mel,ENGINE ROOM,I hear knocking! We're saved!
+97248,374,281,1227000,Sideshow Mel,ENGINE ROOM,"I don't know which pains me more, the flame or the irony! Can you believe it's the irony?"
+97250,374,283,1240000,Homer Simpson,Ocean,"Oh my God, our boat is upside down!"
+97251,374,284,1250000,Fletcher Christian,Ocean,Do you guys know the way to Tahiti?
+97252,374,285,1252000,DOLPH,Ocean,"Way to go, genius. You sailed into someone else's tale of the sea."
+97253,374,286,1256000,Fletcher Christian,Ocean,At least I'm not gay for skeleton Kearney.
+97254,374,287,1259000,Jimbo Jones,Ocean,Our ribs got tangled seventy-five years ago. That's not gay!
+97255,374,288,1263000,Fletcher Christian,Ocean,"Right, you keep believin' that."

@@ -1,0 +1,198 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+21999,109,1,124000,Homer Simpson,Mountain Road,"Well, it was a long trip, but we're almost there."
+22000,109,2,127000,Marge Simpson,Mountain Road,"Homer, did you remember to lock the front door of the house?"
+22002,109,4,133000,Homer Simpson,Mountain Road,"Well, it's been two long trips, but we're finally almost there, again."
+22003,109,5,137000,Marge Simpson,Mountain Road,"When you locked the front door, did you remember to lock the back door?"
+22005,109,7,145000,Lisa Simpson,Mountain Road,Oh no! We left Grampa back at the gas station.
+22006,109,8,151000,Lisa Simpson,Mountain Road,What about Grampa?
+22008,109,10,157000,Lisa Simpson,BURNS' MOUNTAIN RETREAT,"""Hello."" ""We're here."" ""Hi."" etc."
+22009,109,11,159000,C. Montgomery Burns,BURNS' MOUNTAIN RETREAT,"Oh goody, the Sea Monkeys I ordered have arrived. Look at them cavort and caper."
+22010,109,12,165000,Waylon Smithers,BURNS' MOUNTAIN RETREAT,"Sir, they're the new winter caretakers for the lodge."
+22011,109,13,168000,C. Montgomery Burns,BURNS' MOUNTAIN RETREAT,"Yes, they work hard and they play hard."
+22013,109,15,172000,C. Montgomery Burns,RETREAT,"This house has quite a long and colorful history. It was built on an ancient Indian burial ground, and was the setting of satanic rituals, witch burnings, and five John Denver Christmas Specials."
+22014,109,16,184000,Homer Simpson,RETREAT,John Denver.
+22015,109,17,192000,C. Montgomery Burns,RETREAT,"Hmm, that's odd. Usually the blood gets off at the second floor."
+22016,109,18,203000,Bart Simpson,RETREAT,"Hey, I found a short cut through your hedgemaze."
+22018,109,20,206000,GROUNDSKEEPER WILLIE'S BRAIN,RETREAT,"Now, now. Go easy on the wee one. His father's gonna go crazy and chop them all into haggis."
+22019,109,21,214000,Bart Simpson,RETREAT,What's haggis?
+21988,109,22,215000,Groundskeeper Willie,RETREAT,"Boy, you read my thoughts! You've got the ""shinning."""
+21218,109,23,218000,Bart Simpson,RETREAT,"You mean ""shining."""
+22020,109,24,218000,Groundskeeper Willie,RETREAT,"Shhh! You wanna' get sued? Now look, boy. If your Da' goes ga-ga, you just use that ""shin"" of yours to call me and I'll come a-runnin'. But don't be readin' my mind between four and five. That's Willie's time."
+22021,109,25,238000,C. Montgomery Burns,RETREAT,"Yes, by cutting off cable TV and the beer supply, I can ensure an honest winter's work out of those low-lifes."
+22022,109,26,247000,Waylon Smithers,RETREAT,"Sir, did you ever stop to think that maybe it was doing this that caused the previous caretakers to go insane and murder their families?"
+22023,109,27,253000,C. Montgomery Burns,RETREAT,"Hmm, perhaps. Tell you what. We come back and everyone's slaughtered, I owe you a coke."
+22025,109,29,265000,Homer Simpson,Caretakers Quarters,"Hm, cable's out... Think I'll have a beer."
+22026,109,30,269000,Homer Simpson,Caretakers Quarters,"Hm, not a drop in the house. What do you know?"
+22027,109,31,272000,Marge Simpson,Caretakers Quarters,"Homer, I'm impressed. You're taking this quite well."
+22028,109,32,275000,Homer Simpson,Caretakers Quarters,I'll kill you! I'll kill all of you!
+22029,109,33,277000,Marge Simpson,Caretakers Quarters,Homer!
+22030,109,34,278000,Homer Simpson,Caretakers Quarters,"Sorry, sorry. Don't worry, there's plenty I can do to keep myself occupied. Maybe I'll check out that axe collection. See ya later."
+22031,109,35,287000,Lisa Simpson,Caretakers Quarters,"Mom, is Dad gonna kill us?"
+22032,109,36,290000,Marge Simpson,Caretakers Quarters,We're just gonna have to wait and see.
+22034,109,38,295000,Moe Szyslak,GRAND BALLROOM,"So what'll it be, Homer?"
+22035,109,39,297000,Homer Simpson,GRAND BALLROOM,Moe! Give me a beer!
+22036,109,40,298000,Moe Szyslak,GRAND BALLROOM,No. Not unless you kill your family.
+22037,109,41,301000,Homer Simpson,GRAND BALLROOM,Why should I kill my family?
+22038,109,42,302000,Moe Szyslak,GRAND BALLROOM,"Uh, they'd be much happier as ghosts."
+22039,109,43,304000,Homer Simpson,GRAND BALLROOM,You don't look so happy.
+22040,109,44,306000,Moe Szyslak,GRAND BALLROOM,"Oh, I'm happy. I'm very happy. La, la, la, la, la, la, la. See? Now waste your family and I'll give you a beer!"
+22042,109,46,311000,Marge Simpson,FIRST FLOOR,Homer! Homie? Hm... what he's typed will be a window into his madness.
+22043,109,47,323000,Marge Simpson,FIRST FLOOR,"Feelin' fine, well, that's a relief."
+22044,109,48,338000,Marge Simpson,FIRST FLOOR,This is less encouraging.
+22045,109,49,344000,Homer Simpson,FIRST FLOOR,"So, what do you think, Marge? All I need is a title. I was thinking along the lines of ""No TV and No Beer Make Homer..."" something something."
+22046,109,50,349000,Marge Simpson,FIRST FLOOR,Go crazy?
+21566,109,51,358000,Homer Simpson,FIRST FLOOR,Don't mind if I do.
+21692,109,52,369000,Marge Simpson,FIRST FLOOR,"Stay away from me, Homer!"
+22047,109,53,371000,Homer Simpson,FIRST FLOOR,"Gimme the bat, Marge. Gimme the bat! Gimme the bat! C'mon, gimme the bat. Gimme the bat ba-bat!"
+22048,109,54,380000,Homer Simpson,FIRST FLOOR,Heh-heh. Scaredy-cat...
+22051,109,57,387000,Marge Simpson,KITCHEN,"You stay here 'til you're no longer insane. Mmmm, chili would be good tonight."
+22053,109,59,396000,Moe Szyslak,PANTRY,"Homer, it's Moe. Ah, look, some of the ghouls and I are a little concerned the project isn't moving forward."
+22054,109,60,403000,Homer Simpson,PANTRY,Can't murder now. Eating.
+22055,109,61,404000,Moe Szyslak,PANTRY,"Oh, for cryin' out loud."
+22056,109,62,404000,Moe Szyslak,PANTRY,C'mon.
+22057,109,63,412000,Homer Simpson,PANTRY,Noooo!
+22059,109,65,412000,Homer Simpson,RETREAT,Heeeeere's Johnny.
+22061,109,67,416000,Homer Simpson,RETREAT,Daaaa-vid Lettermaaaan!
+22062,109,68,420000,Grampa Simpson,RETREAT,"Hi David, I'm Grampa."
+22064,109,70,423000,Homer Simpson,RETREAT,"I'm Mike Wallace. I'm Morley Safer. And I'm Ed Bradley. All this and Andy Rooney tonight on ""60 minutes."""
+22065,109,71,434000,Marge Simpson,RETREAT,"Hello, police? This is Marge Simpson. My husband is on a murderous rampage. Over."
+22067,109,73,439000,Chief Wiggum,Chief Wiggum's Office,"Oh, well thank God that's over. I was worried there for a second."
+22069,109,75,443000,Marge Simpson,RETREAT,No answer.
+22070,109,76,444000,Bart Simpson,RETREAT,"Don't worry, Mom. I can use my ""shinning"" to call Willie."
+22072,109,78,449000,Kent Brockman,Groundskeeper Willie's Shack,And that was the first time she'd ever flown a plane.
+22073,109,79,453000,Groundskeeper Willie,Groundskeeper Willie's Shack,Uh oh. The little fat boy an' his family're in trouble.
+22075,109,81,457000,Groundskeeper Willie,Shack,I'm comin' to rescue the lot o' ya.
+22076,109,82,460000,Groundskeeper Willie,Shack,"All right, looney! Show me what ya got."
+22077,109,83,465000,Groundskeeper Willie,Shack,"Heh, is that the best you can do?"
+22078,109,84,468000,Marge Simpson,Shack,"Oh my, I hope that rug was Scotchguarded."
+22079,109,85,471000,Homer Simpson,Shack,Must kill family. .
+22080,109,86,488000,Kent Brockman,Shack,"...have been given rifles, but no ammunition. Reportedly there was a hardware store along the..."
+22081,109,87,493000,Lisa Simpson,Shack,"Dad, look!"
+22082,109,88,494000,Homer Simpson,Shack,"Television! Teacher, mother, secret lover."
+22083,109,89,498000,Homer Simpson,Shack,"Urge to kill fading, fading..."
+22084,109,90,502000,Homer Simpson,Shack,Fading... Rising!
+22085,109,91,505000,Homer Simpson,Shack,"...Fading, fading, gone."
+22086,109,92,512000,Homer Simpson,Shack,"Come, family, sit in the snow with Daddy and let us all bask in television's warm glowing, warming glow."
+22088,109,94,522000,Announcer,RETREAT,"Live from Broadway, it's the Tony Awards! With your hosts, Tyne Daly and Hal Linden."
+22089,109,95,530000,Bart Simpson,RETREAT,"Homer, change channel!"
+22090,109,96,531000,Homer Simpson,RETREAT,Can't. Frozen.
+22091,109,97,533000,Chorus,RETREAT,One!...
+22093,109,99,536000,Chorus,RETREAT,ONE / SINGULAR SENSATION...
+22094,109,100,537000,Homer Simpson,RETREAT,Urge to kill rising.
+22096,109,102,544000,Homer Simpson,Simpson Kitchen,"Y'know, Marge, I've had my share of troubles but sitting here now with you and the kids, in our cozy home in this beautiful, free country, it just makes me feel that I'm really a lucky guy."
+22097,109,103,557000,Lisa Simpson,Simpson Kitchen,Dad!! Your hand is jammed in the toaster!!
+22098,109,104,565000,Marge Simpson,Simpson Kitchen,Dad!! Daaadd!! Homer!!
+22099,109,105,565000,Homer Simpson,Simpson Kitchen,Get it off! Get it off! Get it offf!!
+22101,109,107,573000,Bart Simpson,Simpson Kitchen,"Dad, it's in there again!"
+22103,109,109,581000,Homer Simpson,BASEMENT,"This shouldn't be too hard to fix, with the right tools."
+22106,109,112,590000,Homer Simpson,BASEMENT,There! Better than new! Now to take her for a test toast.
+22107,109,113,599000,Homer Simpson,BASEMENT,What the-?
+22109,109,115,607000,Homer Simpson,TIME VORTEX,Look at that! I'm the first non- Brazilian person to travel backwards through time!
+22110,109,116,612000,Mr. Peabody,TIME VORTEX,"Correction, Homer, you're the second."
+22111,109,117,615000,Sherman,TIME VORTEX,"That's right, Mr. Peabody."
+22112,109,118,616000,Mr. Peabody,TIME VORTEX,"Quiet, you."
+22114,109,120,622000,Homer Simpson,SPRINGFIELD JUNGLE,I've gone back to the time when dinosaurs weren't just confined to zoos. OK. Don't panic. Remember the advice your father gave you on your wedding day...
+22115,109,121,635000,Grampa Simpson,SPRINGFIELD JUNGLE,"If you ever travel back in time, don't step on anything, because even the tiniest change can alter the future in ways you can't imagine."
+22117,109,122,645000,Homer Simpson,SPRINGFIELD JUNGLE,"Fine. As long as I stand perfectly still and don't touch anything, I won't destroy the future."
+22118,109,123,652000,Homer Simpson,SPRINGFIELD JUNGLE,Stupid bug. You go squish now.
+22119,109,124,657000,Homer Simpson,SPRINGFIELD JUNGLE,"But that was just one little insignificant mosquito. That can't change the future, right? Right?"
+22122,109,127,670000,Homer Simpson,BASEMENT,Phew. I'm back.
+22124,109,129,676000,Homer Simpson,KITCHEN,"Oh, my loving family. Nothing's changed."
+22125,109,130,684000,Ned Flanders,KITCHEN,"Hidilly ho, slave-a-reenos."
+22126,109,131,686000,Lisa Simpson,KITCHEN,Okilly dokilly.
+22127,109,132,688000,Homer Simpson,KITCHEN,"Hey, what the hell is that geek Flanders doing on TV?"
+22128,109,133,693000,Ned Flanders,KITCHEN,"Oh, I see by the big board we've got a Negative Nellie in Sector Two. I'm afraid I'm going to have to ask the whole family to kinda freeze and prepare for re-Neducation."
+22129,109,134,702000,Bart Simpson,KITCHEN,"Don't you remember, Dad? Flanders is the unquestioned lord and master of the world."
+22134,109,139,719000,Ned Flanders,HIGH TECH ROOM,"Okay, everybody. Let's see some big smiles."
+22135,109,140,725000,Ned Flanders,HIGH TECH ROOM,"Just relax, let the hooks do their work."
+22136,109,141,729000,Homer Simpson,HIGH TECH ROOM,What the hell are you smiling at?
+22138,109,143,731000,Ned Flanders,CORRIDOR,"Now, in case all that smilin' didn't cheer ya up, there's one thing that never fails. A nice glass of warm milk, a little nap, and a total frontal lobotomy."
+22139,109,144,741000,Moe Szyslak,CORRIDOR,"It's not so bad, Homer. They go in through your nose. And they let you keep the piece of brain they cut out."
+22140,109,145,750000,Moe Szyslak,CORRIDOR,"Look. Oooo, hello. Hello there. Who's that big man there? Who's da?"
+22141,109,146,756000,Bart Simpson,CORRIDOR,"Join us, Father."
+22142,109,147,759000,Marge Simpson,CORRIDOR,It's Bliiiiisssss.
+22143,109,148,764000,Homer Simpson,CORRIDOR,Nooooo!
+22144,109,149,771000,Homer Simpson,CORRIDOR,"Oh no! They're gaining on me. Wait, I have an idea."
+22145,109,150,775000,Homer Simpson,CORRIDOR,These wieners will give me the quick energy I need to escape.
+22147,109,152,782000,Homer Simpson,KITCHEN,I gotta go back... Fix future...
+22149,109,154,789000,Homer Simpson,SPRINGFIELD PRIMEVAL JUNGLE,This time I'm not gonna touch a thing.
+22150,109,156,793000,Homer Simpson,SPRINGFIELD PRIMEVAL JUNGLE,Mustn't crush. Mustn't kill. Made it!
+22151,109,157,798000,Homer Simpson,SPRINGFIELD PRIMEVAL JUNGLE,"Oh, I wish I wish I hadn't killed that fish."
+22153,109,159,809000,Homer Simpson,KITCHEN,"Hey, where is everybody?"
+22154,109,160,814000,Bart Simpson,KITCHEN,"Hey, there's a bug that looks like dad. Let's kill it."
+22155,109,161,818000,Lisa Simpson,KITCHEN,Okay.
+22157,109,163,839000,Homer Simpson,SPRINGFIELD JUNGLE,This is gonna cost me.
+22159,109,165,848000,Homer Simpson,KITCHEN,"I mean, Heeeyy."
+22160,109,166,849000,Bart Simpson,KITCHEN,"Good morning, father dear. Hope you're well."
+22161,109,167,852000,Lisa Simpson,KITCHEN,Are we taking the new Lexus to Aunt Patty and Selma's funeral today?
+22162,109,168,855000,Homer Simpson,KITCHEN,"Hmm. Fabulous house. Well-behaved kids. Sisters-in-law dead. Luxury sedan. Woo hoo! I hit the jackpot. Marge, dear. Would you kindly pass me a donut?"
+22163,109,169,866000,Marge Simpson,KITCHEN,"""Donut?"" What's a donut?"
+22165,109,171,873000,Marge Simpson,KITCHEN,Hmph. It's raining again.
+22167,109,173,877000,Groundskeeper Willie,BASEMENT,"You're still not in your own world, Homer. I can get you home, but you have to do exactly as I tell..."
+22168,109,174,886000,Maggie Simpson,BASEMENT,This is indeed a disturbing universe.
+22170,109,176,890000,Homer Simpson,SPRINGFIELD JUNGLE,Don't touch anything?!! I'll... touch... whatever... I... feel like!!
+22173,109,179,906000,Kang,Simpson Home,Foolish earthling. Totally unprepared for the effects of time travel.
+22174,109,180,923000,Kang,Simpson Home,"What happened to us, Kodos?"
+22175,109,181,926000,Kodos,Simpson Home,Quiet you.
+22178,109,184,935000,Marge Simpson,KITCHEN,"Good morning, dear."
+22179,109,185,936000,Homer Simpson,KITCHEN,"What's my name?! What color is the sky?! What of donuts? WHAT?! For the love of God, tell meeeee!!!"
+22180,109,186,942000,Marge Simpson,KITCHEN,Homer! The sky is blue. Donuts are plentiful. Friday is TGIF night on ABC. What's gotten into you?
+22181,109,187,949000,Homer Simpson,KITCHEN,Nothing. Nothing at all. Let's just eat.
+22182,109,188,958000,Homer Simpson,KITCHEN,Eh. Close enough.
+22185,109,191,970000,Bart Simpson,Mrs. Krabappel's Classroom,Hey everybody! Let's all turn our desks backwards before Mrs. Krabappel shows up!
+22186,109,192,975000,Class,Mrs. Krabappel's Classroom,Yeah / Cool / Great idea/ etc.
+22188,109,194,981000,Bart Simpson,Hallway,Eh?
+22189,109,195,981000,Edna Krabappel-Flanders,Hallway,"Alright, backwards boy. Back your butt down to detention."
+22190,109,196,986000,Seymour Skinner,Hallway,"Over here, Simpson! The detention room is dangerously overcrowded, so you'll be serving your time in the cafeteria."
+22191,109,197,992000,Kid Behind Glass,Hallway,Oxygen running out...
+22192,109,198,994000,Seymour Skinner,Hallway,"Yes, you should have thought of that before you made that paper airplane."
+22194,109,200,999000,Seymour Skinner,CAFETERIA,This overcrowding in detention is becoming critical. It's a powder keg waiting to go off in an explosion of unacceptable behavior.
+22195,109,201,1005000,Lunchlady Doris,CAFETERIA,"Don't bitch to me, boss man. Thanks to the latest budget cuts, I'm down to using grade F meat."
+22197,109,203,1011000,Seymour Skinner,CAFETERIA STOREROOM,Wouldn't it be wonderful if there were some sort of common solution to both our problems?
+22198,109,204,1015000,Lunchlady Doris,CAFETERIA STOREROOM,That would be great!
+22199,109,205,1015000,Jimbo Jones,CAFETERIA STOREROOM,"Hey, Bart, watch this."
+22200,109,206,1019000,Lunchlady Doris,CAFETERIA STOREROOM,Drats.
+22201,109,207,1020000,Jimbo Jones,CAFETERIA STOREROOM,Oh no! My favorite outfit!
+22202,109,208,1023000,Seymour Skinner,CAFETERIA STOREROOM,"Jimbo, this is by far the worst..."
+22203,109,209,1023000,Seymour Skinner,CAFETERIA STOREROOM,Hmmm.
+22204,109,210,1028000,Seymour Skinner,CAFETERIA STOREROOM,"Hmmm. Uh, Jimbo, why don't you ""assist"" Lunchlady Doris in the kitchen."
+22205,109,211,1034000,Jimbo Jones,CAFETERIA STOREROOM,"Bite me, Skinner."
+22206,109,212,1035000,Seymour Skinner,CAFETERIA STOREROOM,Well might we.
+22208,109,214,1037000,Jimbo Jones,KITCHEN DOOR,It's hard for me to clean this giant pot when you keep spilling meat tenderizer all over me.
+22209,109,215,1042000,Jimbo Jones,KITCHEN DOOR,"Oh great, now I gotta work in the dark."
+22211,109,217,1050000,Edna Krabappel-Flanders,CAFETERIA,"Mmmm. Mm-mmm. This sandwich tastes so young and impudent. Seymour, what's with the good grub?"
+22212,109,218,1058000,Seymour Skinner,CAFETERIA,"Hmmm. Well, perhaps I ought to let you folks in on a secret. Do you remember me telling Jimbo Jones that I'd make something of him one day?"
+22213,109,219,1065000,Edna Krabappel-Flanders,CAFETERIA,"Are you saying you killed Jimbo, processed his carcass, and served him for lunch?"
+21964,109,220,1071000,Edna Krabappel-Flanders,CAFETERIA,Ha!
+22214,109,221,1076000,Bart Simpson,CAFETERIA,"Hmm, I wonder where Jimbo is today. He should've beaten us up for our lunch money an hour ago."
+22215,109,222,1082000,Üter,CAFETERIA,"Frau Lunchlady, please to have another Sloppy Jimbo. Das is good, nein?"
+22216,109,223,1087000,Seymour Skinner,CAFETERIA,"Now, that's your third helping, young man. It's making you fat and soft... and tender. Hmmm... Uh, you just cut in line, didn't you? Report to detention, Uter."
+22217,109,224,1099000,Üter,CAFETERIA,For how long?
+22218,109,225,1100000,Seymour Skinner,CAFETERIA,Oh about seven minutes a pound should do it.
+22219,109,226,1106000,Lunchlady Doris,CAFETERIA,"Okay, I got your German grub right here."
+22220,109,227,1110000,Lisa Simpson,CAFETERIA,"Bart, does it strike you as odd that Uter disappeared and suddenly they're serving us this mysterious food called Uterbräten?"
+22221,109,228,1118000,Seymour Skinner,CAFETERIA,"Oh relax, kids. I've got a gut feeling Uter's around here somewhere. After all, isn't there a little Uter in all of us? In fact, you might even say we just ate Uter and he's in our stomachs right now. Wait. Scratch that."
+22223,109,230,1142000,Lisa Simpson,Simpson Home,Mom! Mom! You've gotta help! They're cooking kids in the school cafeteria!
+22224,109,231,1146000,Marge Simpson,Simpson Home,"Listen, kids. You're eight and ten years old now. I can't be fighting all your battles for you."
+22225,109,232,1151000,Bart Simpson,Simpson Home,But Mom!
+22226,109,233,1152000,Marge Simpson,Simpson Home,"No buts. You march right back to that school, look them straight in the eye and say ""don't eat me."""
+22227,109,234,1152000,Lisa Simpson,Simpson Home,Okay.
+22229,109,236,1163000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"Since so many students have been put on ""permanent detention"" , we've merged everyone into a single class. I trust there are no objections?"
+22230,109,237,1182000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,Detention.
+22231,109,238,1194000,Milhouse Van Houten,Mrs. Krabappel's Classroom,"Uhm, uh..psst-- hey you guys, I was just thinkin' that any one of us could be next, so what d'ya say we make a break for it?"
+22234,109,241,1214000,Seymour Skinner,DETENTION ROOM,"Easy there, young man. You'll only make yourself tired and stringy."
+22235,109,242,1218000,Seymour Skinner,DETENTION ROOM,Now to check on the free-range children.
+22237,109,244,1225000,Groundskeeper Willie,DETENTION ROOM,Hold on kids! I'm comin' to rescue the lot of ye! I'll ju-
+22238,109,245,1230000,Groundskeeper Willie,DETENTION ROOM,"Oww! Ach, I'm bad at this."
+22240,109,247,1237000,Seymour Skinner,Hallway,"I'm going to enjoy devouring you, Bart Simpson. Yes... I believe I'll start, as you've so often suggested, by eating your shorts."
+22242,109,249,1262000,Bart Simpson,Hallway,"Don't worry, guys. Something always comes along to save us."
+22244,109,251,1267000,Bart Simpson,Hallway,"Nevertheless, I remain confident that something will come along and save the two Simpson children."
+22246,109,253,1279000,Marge Simpson,Simpson Home,"Relax, honey. You were just having a crazy nightmare. You're back with your family now, where there's nothing to be afraid of -- except that fog that turns people inside out."
+22247,109,254,1290000,Bart Simpson,Simpson Home,Huh?
+22248,109,255,1291000,Homer Simpson,Simpson Home,"Uh oh, it's seeping in! Stupid cheap weather stripping."
+22249,109,256,1306000,Lisa Simpson,Simpson Home,ONE --
+22250,109,257,1308000,Lisa Simpson,Simpson Home,CHORUS LINE OF PEOPLE / DANCIN' TILL THEY MAKE US STOP /
+22251,109,258,1313000,Groundskeeper Willie,Simpson Home,TWO --
+22252,109,259,1315000,All,Simpson Home,MANY DANCING PEOPLE/ COVERED WITH BLOODY GLOP.../
+22253,109,260,1321000,All,Simpson Home,JUST ONE SNIFF OF THAT FOG AND YOU'RE INSIDE OUT / IT'S WORSE THAN THAT FLESH EATING VIRUS YOU'VE READ ABOUT....
+22254,109,261,1336000,All,Simpson Home,VITAL ORGANS / THE FAMILY DOG IS EYEING BART'S INTESTINE/ HAPPY HALLOWEEN.

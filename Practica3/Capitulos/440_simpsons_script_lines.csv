@@ -1,0 +1,211 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+114149,440,2,30000,Marge Simpson,Beauty Salon,My daughter's here for her first mani-pedi.
+114150,440,3,33000,Lisa Simpson,Beauty Salon,"Mom, I'm glad you brought me here, but isn't it more important for a woman to be smart and powerful than beautiful?"
+114151,440,4,40000,Marge Simpson,Beauty Salon,"A woman can be smart, beautiful and powerful. Like Queen Elizabeth the First! She had it all, except the most important thing."
+114152,440,5,49000,Lisa Simpson,Beauty Salon,Please don't say a man.
+114153,440,6,49000,Marge Simpson,Beauty Salon,"No, a husband!"
+114154,440,7,53000,Marge Simpson,Beauty Salon,The year was 1588.
+114156,440,9,53000,Marge Simpson,DODGER STADIUM,Four hundred years before Kirk Gibson would hit his famous home run.
+114158,440,11,59000,Marge Simpson,RICHMOND PALACE,Queen Elizabeth ruled over all of England.
+114160,440,12,62000,Marge Simpson,RICHMOND PALACE,Every eligible bachelor in Europe wanted her hand in marriage.
+114161,440,13,66000,Walsingham,RICHMOND PALACE,"Majesty, thy suitors await."
+114162,440,14,68000,Queen Elizabeth,RICHMOND PALACE,I don't understand why I need a King.
+114163,440,15,70000,Walsingham,RICHMOND PALACE,So you can pump out a son and then I don't gotta work for no broad no more. Um... My liege.
+114164,440,16,76000,Herald Mel,RICHMOND PALACE,Announcing Prince Ralph of Austria!
+114165,440,17,80000,Prince Ralph,RICHMOND PALACE,Off with my head!
+114166,440,18,82000,Queen Elizabeth,RICHMOND PALACE,Pass.
+114167,440,19,83000,Herald Mel,RICHMOND PALACE,King Julio of Spain!
+114168,440,20,87000,King Julio,RICHMOND PALACE,"Hello, Queenie baby."
+114169,440,21,89000,Queen Elizabeth,RICHMOND PALACE,Forget it. I've seen you making goo-goo eyes at my court jester.
+114170,440,22,92000,King Julio,RICHMOND PALACE,"Well I like a man who can make me laugh. But for you, I'll make an exception."
+114171,440,23,98000,Queen Elizabeth,RICHMOND PALACE,Hands off my harlequin! This is fifteen eighty-eight and his material is fresh and hip.
+114172,440,24,103000,King Julio,RICHMOND PALACE,"You have made a big mistake, lady!"
+114173,440,25,106000,Herald Mel,RICHMOND PALACE,"His excellence, Sir Walter Raleigh."
+114175,440,27,113000,Sir Walter Raleigh,RICHMOND PALACE,"Your Majesty, I have returned from the New World with a gift -- this healthful and slimming herb...tobacco."
+114176,440,28,129000,Queen Elizabeth,RICHMOND PALACE,"If I ever have sex, this'll be great afterwards."
+114179,440,31,134000,King Julio,Throne Room,I'll show those uppity English food-boilers. What is the status of my armada?!
+114180,440,32,139000,Advisor,Throne Room,A hundred and twenty of the finest killing machines ever built.
+114181,440,33,142000,King Julio,Throne Room,"Ooo, not bad, not bad at all! Now, take me to the real ones."
+114182,440,34,146000,Advisor,Throne Room,Those are the real ones.
+114183,440,35,148000,Advisor,Throne Room,"Watch out, England! No, have mercy, M'Lord! Never!"
+114184,440,36,151000,King Julio,Throne Room,Guards! Take him away and put things inside of him!
+114185,440,37,154000,Guard,Throne Room,Nice things?
+114186,440,38,156000,King Julio,Throne Room,"No, not nice things!"
+114188,440,40,163000,Sir Walter Raleigh,ELIZABETH'S CASTLE,Allow me.
+114189,440,41,165000,Lady Marjorie,ELIZABETH'S CASTLE,"Ooo, you have the strength of a plow horse, but the charm of a cart horse!"
+114190,440,42,173000,Queen Elizabeth,ELIZABETH'S CASTLE,Treason!
+114193,440,43,174000,Queen Elizabeth,ELIZABETH'S CASTLE,How dare you make out under my crenellations while I make out not? Don't you know that I love you?! I've always loved you.
+114194,440,44,183000,Lady Marjorie,ELIZABETH'S CASTLE,"Um, which one of us are you talking to?"
+114195,440,45,187000,Queen Elizabeth,ELIZABETH'S CASTLE,"I'm not sure. Both, neither, what difference does it make? Take them to the tower!"
+114196,440,46,191000,Walsingham,ELIZABETH'S CASTLE,"Whoa, someone call Beowulf! Grendel got in again. Oh it's you, your Majesty. The uh, the Spanish armada sails for England!"
+114197,440,47,202000,Sir Walter Raleigh,ELIZABETH'S CASTLE,Armada? What's armada?
+114198,440,48,204000,Walsingham,ELIZABETH'S CASTLE,"Nothing. What's-armada with you? Seriously though, we're in real trouble here."
+114200,440,50,209000,Queen Elizabeth,ENGLISH BEACH,"Come, Tea Biscuit!"
+114202,440,52,220000,Queen Elizabeth,ENGLISH BEACH,The time of battle grows nigh.
+114203,440,53,224000,Walsingham,ENGLISH BEACH,"So, here's us...and a whole lotta them."
+114204,440,54,227000,Walsingham,ENGLISH BEACH,It's probably a little too early to be standing under this.
+114206,440,56,233000,Protestant Minister,ENGLISH SHIP,"Lord Jesus, although our country turned Protestant for the sole reason that our fat, mean king could dump his faithful wife, we know you're on our side. So please destroy these horrible monsters who believe your mother should be revered."
+114207,440,57,248000,Sir Walter Raleigh,ENGLISH SHIP,Amen.
+114208,440,58,256000,Sir Walter Raleigh,ENGLISH SHIP,Abandon ship!
+114210,440,60,262000,King Julio,DECK OF SPANISH SHIP,"Normally I love to see flaming dreamboats heading my way... but not like this, baby! Not like this!"
+114212,440,62,273000,Queen Elizabeth,ELIZABETH'S PALACE,For destroying the Spanish Armada...
+114213,440,63,273000,Queen Elizabeth,ELIZABETH'S PALACE,I dub thee Sir Sir Walter Raleigh.
+114214,440,64,280000,Queen Elizabeth,ELIZABETH'S PALACE,And I grant you two my blessing.
+114215,440,65,285000,Lady Marjorie,ELIZABETH'S PALACE,"Your Majesty, it's so kind of you to give up the one man you truly loved."
+114216,440,66,290000,Queen Elizabeth,ELIZABETH'S PALACE,I don't need a man...for I have... England!
+114217,440,67,293000,Walsingham,ELIZABETH'S PALACE,"Yeah, you keep telling yourself that."
+114219,440,69,299000,Vietnamese Manicurist,Finger-Looking Good Nail Salon,"You keep soaking. We're going to Koo Koo Roo, which in our language means nothing."
+114220,440,70,303000,Marge Simpson,Finger-Looking Good Nail Salon,"Lisa, you are going to look so pretty."
+114222,440,71,307000,Lisa Simpson,Finger-Looking Good Nail Salon,"Thank you, but I know a story of a dangerous obsession with female beauty. It's called ""Snow White and the Seven..."""
+114223,440,72,315000,Blue-Haired Lawyer,Finger-Looking Good Nail Salon,Excuse me! The story you're about to tell is the copyrighted property of The Walt Disney Corporation.
+114224,440,73,320000,Blue-Haired Lawyer,Finger-Looking Good Nail Salon,Can you sharpen these?
+114225,440,74,321000,Lisa Simpson,Finger-Looking Good Nail Salon,"Excuse me, but Snow White is a fairytale from hundreds of years ago. No one owns that."
+114226,440,75,326000,Blue-Haired Lawyer,Finger-Looking Good Nail Salon,Are there any dwarves in your story?
+114227,440,76,328000,Lisa Simpson,Finger-Looking Good Nail Salon,Yes. But they're my own original creation.
+114228,440,77,330000,Lisa Simpson,Finger-Looking Good Nail Salon,There's Crabby...Drunky...Hungry!
+114229,440,78,335000,Lisa Simpson,Finger-Looking Good Nail Salon,...Greedy!
+114230,440,79,336000,Lisa Simpson,Finger-Looking Good Nail Salon,...Lenny!
+114231,440,80,337000,Kearney Zzyzwicz,Finger-Looking Good Nail Salon,...Kearney!
+114232,440,81,338000,Lisa Simpson,Finger-Looking Good Nail Salon,...and Doc...tor Hibbert.
+114234,440,83,343000,Doc,Finger-Looking Good Nail Salon,HO-HI!
+114235,440,84,346000,Other Dwarves,Finger-Looking Good Nail Salon,HO-HI! HO-HI! / IT'S OFF TO WORK GO I / THIS SONG'S NOT LIKE / ANY SONG YOU KNOW / HO-HI! / HO-HI! / HO-HI! / HO-HI!...
+114237,440,86,360000,Lisa Simpson,MINE,"Little did they know, their lives are about to be changed forever by a wicked queen."
+114238,440,87,368000,Evil Queen,MINE,"HDTV on the wall, who's the fairest one of all?"
+114239,440,88,373000,Disembodied Face,MINE,"You would do in a pinch, my Queen. But Snow White's the fairest I have seen. Also, there's a weather girl on channel nine who's"
+114240,440,89,385000,Evil Queen,MINE,Bring me Snow White's heart in this box.
+114241,440,90,388000,Huntsman Willie,MINE,What'll I do with the rest of the body?
+114242,440,91,390000,Evil Queen,MINE,Put it in this box. Then you'll get your reward.
+114244,440,93,403000,Snow White,MINE,"Now turtle, I'll need you to get in the soup."
+114247,440,96,419000,Huntsman Willie,MINE,I... I... I canna do it!
+114248,440,97,422000,Huntsman Willie,MINE,"Run, lassie! Find wee little men and hide with them!"
+114249,440,98,426000,Huntsman Willie,MINE,Now to fool the queen with a pig's heart.
+114250,440,99,430000,Huntsman Willie,MINE,I... I canna do it.
+114251,440,100,434000,Huntsman Willie,MINE,Maybe I'll make her a heart out of construction paper.
+114252,440,101,438000,Huntsman Willie,MINE,I... I... I canna do it!
+114159,440,103,441000,Snow White,Woods,Let's see... Gingerbread House... Grandma's House...
+114191,440,104,449000,Snow White,Woods,"Ah, here we are."
+114254,440,105,453000,Snow White,Woods,All that walking made me sleepy.
+114255,440,106,461000,Snow White,Woods,This bed's too hard. This bed's too soft. And this bed is jusssst... like the first one: also too hard. I guess I'll sleep in the one that's too soft.
+114256,440,107,485000,Dwarves,Woods,HO-HI / HO-HI / IT'S TIME TO NOW GET HIGH / WE'LL TAKE SOME SHROOMS AND GO TO OUR ROOMS...
+114257,440,108,495000,Lenny Leonard,Woods,There's something in our house!
+114258,440,109,496000,Crabby,Woods,Let's put a pickaxe in its brain!
+114259,440,110,497000,Lenny Leonard,Woods,You're in marketing. Why do you even bring an axe?
+114260,440,111,500000,Crabby,Woods,"If you were in marketing, you'd know."
+114262,440,113,506000,Kearney Zzyzwicz,DWARVES' COTTAGE,She's be-yoo-tiful.
+114263,440,114,510000,Doc,DWARVES' COTTAGE,Maybe she's been placed under some kind of a curse.
+114264,440,115,513000,Crabby,DWARVES' COTTAGE,And all that will wake her is the kiss of a handsome...
+114265,440,116,516000,Snow White,DWARVES' COTTAGE,I'm awake! I'm awake already!
+114266,440,117,517000,Crabby,DWARVES' COTTAGE,"Guess it's you and me again, doorknob."
+114267,440,118,523000,Snow White,DWARVES' COTTAGE,Goodbye!
+114268,440,119,524000,Doc,DWARVES' COTTAGE,Now beware of the Evil Queen. She's a master of disguise. She could be anyone!
+114269,440,120,530000,Snow White,DWARVES' COTTAGE,I'll be careful.
+114271,440,122,543000,Snow White,DWARVES' COTTAGE,"No, no, no, that's too much! Go back outside!"
+114273,440,124,549000,Snow White,DWARVES' COTTAGE,Who are you?
+114274,440,125,550000,Evil Queen,DWARVES' COTTAGE,Care for an apple?
+114275,440,126,552000,Snow White,DWARVES' COTTAGE,Okay. Um... I'll take a green one.
+114276,440,127,555000,Evil Queen,DWARVES' COTTAGE,"No, take the red one."
+114278,440,129,561000,Evil Queen,DWARVES' COTTAGE,"Take a bite, dearie."
+114279,440,130,571000,Snow White,DWARVES' COTTAGE,No!
+114282,440,133,571000,Evil Queen,DWARVES' COTTAGE,Uh-oh. You'll never take me alive!
+114283,440,134,576000,Evil Queen,DWARVES' COTTAGE,"Ooh, herbivores. I'm so scared."
+114286,440,137,585000,Lisa Simpson,Hilltop,So Snow White slept and waited for her prince to come... but he never did.
+114288,440,139,592000,Lisa Simpson,Finger-Looking Good Nail Salon,"Because a woman shouldn't have to depend on a man. Snow White was brought back to life, by a lady doctor."
+114289,440,140,598000,Marge Simpson,Finger-Looking Good Nail Salon,And she lived happily ever after?
+114291,440,141,599000,Lisa Simpson,Finger-Looking Good Nail Salon,"Well, she couldn't indulge in strenuous activities like handball, but otherwise she was fine."
+114292,440,142,605000,Marge Simpson,Finger-Looking Good Nail Salon,That's nice.
+114294,440,144,609000,Homer Simpson,Finger-Looking Good Nail Salon,"Marge, I need some bribe money!"
+114295,440,145,610000,Chief Wiggum,Finger-Looking Good Nail Salon,"Well, don't say it so loud!"
+114296,440,146,613000,Marge Simpson,Finger-Looking Good Nail Salon,All I have are some dry-cleaning coupons.
+114297,440,147,616000,Chief Wiggum,Finger-Looking Good Nail Salon,Deal.
+114298,440,148,617000,Homer Simpson,Finger-Looking Good Nail Salon,"Thanks, Marge. But don't forget, there's still gonna be a civil suit."
+114299,440,149,621000,Marge Simpson,Finger-Looking Good Nail Salon,"Lisa, let me tell you the story of a great woman held back by a not-so-great husband."
+114300,440,150,629000,Marge Simpson,Finger-Looking Good Nail Salon,Macbeth!
+114302,440,152,630000,Marge Simpson,SCOTTISH CASTLE,"Out, damn'd spot! Out, I say!"
+114303,440,153,635000,Chazz Busby,SCOTTISH CASTLE,"Marge, please. If you don't like getting barbecue sauce out of a leotard, why'd you get into show business? Think before you do."
+114304,440,154,641000,Marge Simpson,SCOTTISH CASTLE,I wouldn't be stuck washing costumes if my husband had a better role.
+114305,440,155,647000,Homer Simpson,SCOTTISH CASTLE,"Well, I may be playing a tree but at least I'm getting my face out there."
+114307,440,157,653000,Marge Simpson,SCOTTISH CASTLE,I thought I was marrying a man who could play Macbeth.
+114308,440,158,656000,Homer Simpson,SCOTTISH CASTLE,"Hey, there's no way I could ever be as good as that guy."
+114309,440,159,659000,Sideshow Mel,SCOTTISH CASTLE,"Stars, hide your fires! / Let not light see my black and deep desires."
+114310,440,160,667000,Chazz Busby,SCOTTISH CASTLE,Mel's like the son Laurence Olivier and John Gielgud always wanted but never had. But oh how they tried.
+114311,440,161,674000,Marge Simpson,SCOTTISH CASTLE,I think Mel would be happier as an understudy. A six-feet-understudy.
+114312,440,162,681000,Homer Simpson,SCOTTISH CASTLE,You're not suggesting... murder.
+114313,440,163,683000,Marge Simpson,SCOTTISH CASTLE,"Wouldst thou live a coward in thine own esteem, letting ""I dare not"" wait upon ""I would?"""
+114314,440,164,683000,Homer Simpson,SCOTTISH CASTLE,"Whatever you say, sweetie."
+114317,440,167,695000,Sideshow Mel,Sideshow Mel's Dressing Room,Snore. Snore.
+114318,440,168,703000,Homer Simpson,Sideshow Mel's Dressing Room,A prop knife!
+114319,440,169,710000,Sideshow Mel,Sideshow Mel's Dressing Room,"Out, out, brief candle! / Life's but a walking shadow..."
+114321,440,170,715000,Homer Simpson,Sideshow Mel's Dressing Room,Why does everyone around here talk that crazy talk?
+114322,440,171,718000,Sideshow Mel,Sideshow Mel's Dressing Room,"That ""crazy talk"" is the work of the immortal Bard, William Shakespeare."
+114323,440,172,724000,Homer Simpson,Sideshow Mel's Dressing Room,"Well, if you see him in heaven, tell him he sucks."
+114325,440,174,731000,Chazz Busby,SPRINGFIELD THEATER,"As you all know, this afternoon, the bone fell out of Mel's hair and beat him to death. Let us observe a moment of silence. Moment over. Homer, you got the lead!"
+114328,440,177,746000,Homer Simpson,Theater,"Stay, you imperfect speakers, tell me more / By Sinel's death I know I am thane of Glamis... uh, To-morrow and to-morrow and to-morrow... today's Tuesday, so that would make it Friday, and then, uh... Shakespeare!"
+114329,440,178,764000,First Witch,Theater,You don't even know your lines!
+114330,440,179,767000,Homer Simpson,Theater,Conrad Birdie? Coming here to Sweet Apple?!
+114331,440,180,770000,Second Witch,Theater,"That's ""Bye-Bye Birdie""!"
+114332,440,181,773000,Homer Simpson,Theater,"""Dammit, Morpheus. Not everyone believes what you believe."""
+114333,440,182,775000,First Witch,Theater,"That's the screenplay for ""The Matrix Reloaded""."
+114336,440,185,782000,Homer Simpson,Moe's Tavern,I can't wait for the reviews!
+114337,440,186,787000,Marge Simpson,Moe's Tavern,Tonight the Springfield Community Playhouse was bathed in the light of a brilliant new star... Dr. Hibbert as Banquo?!
+114338,440,187,794000,Homer Simpson,Moe's Tavern,Who the hell is Banquo?
+114339,440,188,796000,Marge Simpson,Moe's Tavern,He's the one getting the good reviews! Which makes him the next one you've got to kill.
+114340,440,189,801000,Homer Simpson,Moe's Tavern,Wouldn't it be easier if I just took acting lessons?
+114341,440,190,803000,Marge Simpson,Moe's Tavern,Screw your courage to the sticking-place and we'll not fail.
+114342,440,191,808000,Homer Simpson,Moe's Tavern,That's inspiring. What's that from? X-Men 2?
+114343,440,192,811000,Marge Simpson,Moe's Tavern,Macbeth!
+114344,440,193,812000,Homer Simpson,Moe's Tavern,Mac-who?
+114350,440,199,840000,Lady 911 Operator,911 OPERATOR OFFICE,This number is for emergencies only.
+114320,440,202,846000,Homer Simpson,Dr. Hibbert's Office,"He who laughs last, laughs dead."
+114352,440,204,854000,Marge Simpson,Simpson Home,"""In last night's 'Macbeth,' the best performance was Barney Gumbel as Duncan, followed by Duffman as MacDuff, Lenny Leonard as Lennox, Eddie and Lou as the two soldiers without lines, then last and least, the lead, Homer Simpson."""
+114353,440,205,854000,Homer Simpson,Simpson Home,Why do they write a new review of this play every single day?
+114354,440,206,872000,Marge Simpson,Simpson Home,All I heard was more names of actors you haven't killed. Unless you're not man enough.
+114355,440,207,878000,Homer Simpson,Simpson Home,"No, dear. I'm a man, dear."
+114356,440,208,891000,Homer Simpson,Simpson Home,KILLING MAKES ME HUN-GRY
+114357,440,209,894000,Homer Simpson,Simpson Home,EATING MAKES ME THIRS-TY
+114358,440,210,897000,Homer Simpson,Simpson Home,DRINKING MAKES ME SLEE-PY
+114360,440,212,901000,Marge Simpson,Theater,Why did he have to kill everyone in their costumes?
+114361,440,213,905000,Dr. Julius Hibbert,Theater,It was you who killed us. You!
+114362,440,214,907000,Marge Simpson,Theater,"No, it was Homer!"
+114363,440,215,909000,Sideshow Mel,Theater,Your dark ambition guided his murderous hand!
+114364,440,216,913000,Marge Simpson,Theater,"No, I just encouraged him."
+114365,440,217,916000,Lenny Leonard,Theater,Encouraged by withholding sex! Sex!
+114369,440,221,931000,Homer Simpson,SPRINGFIELD THEATER,"Well, at least you can't nag me anymore."
+114370,440,222,935000,Ghost Marge,SPRINGFIELD THEATER,That's where you're wrong! Get out on that stage!
+114371,440,223,939000,Homer Simpson,SPRINGFIELD THEATER,Ow!
+114372,440,224,941000,Chazz Busby,SPRINGFIELD THEATER,"Okay Homer, it's our last performance, you're the only actor that's still alive, and there's nobody in the audience -- this is your moment. I'll be in my office going over the books on my Subway sandwich franchise. You call a sandwich maker an artist, it's like an invitation to steal! A guy's goin' nani-nooni bananas in there!"
+114373,440,225,959000,Homer Simpson,SPRINGFIELD THEATER,It's my moment.
+114375,440,227,965000,Homer Simpson,Theater,"To-morrow, and to-morrow, and to-morrow, creeps in this petty pace from day to day, to the last syllable of recorded time. And all our yesterdays have lighted fools. The way to dusty death. Out, out, brief candle! Life's but a walking shadow, a poor player. That struts and frets his hour upon the stage. And then is heard no more."
+114376,440,228,995000,Marge Simpson,Theater,"Oh Homie, you were brilliant. I knew you could do it. I knew it..."
+114378,440,229,1002000,Marge Simpson,Theater,Now nothing will stop you from taking on all of Shakespeare's greatest roles: King Lear... Hamlet...
+114379,440,230,1009000,Marge Simpson,Theater,Othello... Richard The Third...
+114380,440,231,1011000,Marge Simpson,Theater,"Henry the Fourth, Part One... Henry The Fourth, Part Two..."
+114381,440,232,1014000,Marge Simpson,Theater,Henry The Fifth... Titus Andronicus...
+114382,440,233,1018000,Homer Simpson,Theater,Me having to read all those plays would be the real tragedy.
+114385,440,236,1026000,Marge Simpson,Finger-Looking Good Nail Salon,"That's it, three stories. That's what we always tell."
+114386,440,237,1031000,Lisa Simpson,Finger-Looking Good Nail Salon,Looks like Maggie wants a story too.
+114387,440,238,1035000,Marge Simpson,Finger-Looking Good Nail Salon,"Ooo, ""The Fountainhead."""
+114388,440,239,1037000,Lisa Simpson,Finger-Looking Good Nail Salon,"Mom, isn't that book the bible of right-wing losers?"
+114389,440,240,1041000,Agnes Skinner,Finger-Looking Good Nail Salon,"Yeah, but the guy on the book jacket is one sexy slice of beefcake."
+114390,440,241,1048000,Marge Simpson,Finger-Looking Good Nail Salon,"So, anyway, this is the story of Maggie Roarke, an architect who refused to compromise."
+114393,440,244,1057000,Mr. Toohey,Day Care Center,"Now children, while I do traffic school online, you'll be playing with blocks."
+114394,440,245,1067000,Marge Simpson,Day Care Center,Maggie's genius and creativity far exceeded that of the others. And I'm not just saying that 'cause I'm her mother.
+114395,440,246,1073000,Marge Simpson,Day Care Center,"But her teacher, Mr. Ellsworth Toohey, wanted every child to conform."
+114396,440,247,1081000,Mr. Toohey,Day Care Center,"Banal. Very banal. Ooo, wonderfully pedestrian."
+114397,440,248,1084000,Mr. Toohey,Day Care Center,"Oh, oh, this isn't right. Maggie, dancers shouldn't kick too high, and buildings mustn't reach the sky."
+114398,440,249,1095000,Mr. Toohey,Day Care Center,"There. Well, hmm. Your rubble is still a little bit higher than the others. So let's just..."
+114399,440,250,1101000,Mr. Toohey,Day Care Center,"Welcome to the real world, baby."
+114400,440,251,1103000,Marge Simpson,Day Care Center,He would not let Maggie's creativity flower:
+114401,440,252,1141000,Mr. Toohey,Day Care Center,Mediocrity rules!
+114404,440,255,1147000,Mr. Toohey,Day Care Center,"Alright, Maggie. Today is parent-teacher day. So I want everyone to see how uncreative and beaten-down you've become. That's right, you're beaten-down. Yes, you are!"
+114407,440,256,1164000,Homer Simpson,Day Care Center,"I don't know how you put up with all these kids, Toohey. If I were you there'd be a lot of strangled babies."
+114408,440,257,1170000,Mr. Toohey,Day Care Center,"Now let's see what your children have done, shall we? Don't brace yourself, you will believe your eyes."
+114410,440,259,1179000,Mr. Toohey,Day Care Center,You will be tried as a toddler!
+114413,440,262,1189000,Mr. Toohey,Day Care Center,"Babies and gentlemen of the jury... this child's crime was to remind the rest of us that we are merely ordinary. When a blade of grass rises above the others do we applaud it -- no, we cut it down! I recommend nine time-outs: served consecutively!"
+114415,440,264,1213000,Maggie Simpson,Day Care Center,"Throughout the ages, the finger painter, the Play-Doh sculptor, the Lincoln-logger, stood alone against the daycare teacher of her time. She did not live to earn approval stickers. She lived for herself, that she might achieve things that are the glory of all humanity. These are my terms: I do not care to play by any other's. And now, if the court will allow me, it's nap time."
+114417,440,266,1239000,Marge Simpson,City Street,Maggie grew up to be a world-famous architect.
+114418,440,267,1242000,Marge Simpson,City Street,Her building became one of the wonders of the world.
+114419,440,268,1250000,Marge Simpson,City Street,And on the very top floor was a daycare center...
+114420,440,269,1250000,Marge Simpson,City Street,Where every child was free to follow their dream. Because nothing is... Maggie! Get away from there!
+114422,440,271,1262000,Marge Simpson,Finger-Looking Good Nail Salon,Bad baby!
+114423,440,272,1272000,Doc,Finger-Looking Good Nail Salon,HO-HI!
+114424,440,273,1275000,Dwarves,Finger-Looking Good Nail Salon,"HO-HI / HO-HI / IT'S TIME TO SAY GOODBYE / IF DISNEY SUES / WE'LL CLAIM ""FAIR USE"" / HO-HI / HO-HI, HO-HI, HO-HI.... HO-HI / HO-HI / THERE'S NOTHING WE WON'T TRY / WE'LL GET TAKE-OUT / AND THEN MAKE OUT / WE'RE BI / WE'RE BI WE'RE BI, WE'RE BI..."

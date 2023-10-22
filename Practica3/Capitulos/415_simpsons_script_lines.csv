@@ -1,0 +1,224 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+107695,415,3,46000,Homer Simpson,Simpson Home,"Bart, it's me!"
+107696,415,4,50000,Homer Simpson,Simpson Home,"I'm Lord Evilton from the ""Angelica Button"" books."
+107697,415,5,54000,Lisa Simpson,Simpson Home,"The last book in the series goes on sale at midnight, and we're gonna go stand in line."
+107698,415,6,58000,Bart Simpson,Simpson Home,"Wait in line for a book? You tell 'em Bart says ""Hey""."
+107699,415,7,62000,Homer Simpson,Simpson Home,"C'mon, boy. All the nerds are doin' it."
+107700,415,8,65000,Bart Simpson,Simpson Home,I'm not a nerd -- I'm a jock who's too cool for sports.
+107702,415,10,69000,Sherri Mackleberry,Bookaccino's,It's the final book!
+107703,415,11,69000,Terri Mackleberry,Bookaccino's,I wonder what happens!
+107704,415,12,72000,Database,Bookaccino's,Maybe the Sandrux is the Narcolops!
+107705,415,13,74000,Milhouse Van Houten,Bookaccino's,I read a rumor Spider-man's in it!
+107706,415,14,76000,Seymour Skinner,Bookaccino's,Shut up! Shut up! This is a spoiler-free zone!
+107707,415,15,83000,Comic Book Guy,Bookaccino's,"Nice Angelica Button costume, Lisa. Althooough... the gryphon on your coat of arms is facing left not right, and F.Y.I.: Angelica wears two tortoise-shell barrettes... nice try though."
+107708,415,16,95000,Lisa Simpson,Bookaccino's,"I based my costume on the books, not the movies."
+107709,415,17,105000,Store Manager,Bookaccino's,"Okay, I'm gonna hand out colored bracelets. The color on your bracelet will determine--"
+107710,415,18,110000,Homer Simpson,Bookaccino's,Move or die!
+107712,415,20,115000,Kirk Van Houten,Store,It's for my kid!
+107713,415,21,117000,Martin Prince,Store,Eureka!
+107714,415,22,117000,Nelson Muntz,Store,Now read it to me!
+107715,415,23,122000,Martin Prince,Store,"""The dark lord has summoned you,"" said the withered troll."
+107716,415,24,126000,Nelson Muntz,Store,Do the character voices!
+107717,415,25,129000,Martin Prince,Store,And bring your cloak. The torture room can be frightfully chilly.
+107720,415,28,131000,Lisa Simpson,Car,"Angelica's first kiss, da, da, da... Subplot about her cat, who cares?... Professor Skizzletwitch is a Were-bear... And, uh, no, no he's not... Maluicious Krubb is actually Kraluicious Mubb!"
+107723,415,30,146000,Lisa Simpson,Car,"All is lost... Angelica uses the spell she learned in chapter six... Magic, magic, magic... All is won!"
+107726,415,33,155000,Homer Simpson,Simpson Home,"Well, that's our book for the year -- I think we've earned some TV."
+107727,415,34,160000,Lisa Simpson,Simpson Home,TV! TV! TV!
+107728,415,35,162000,Homer Simpson,Simpson Home,"But kids, I want you in bed by three a.m."
+107730,415,37,165000,Homer Simpson,Simpson Home,"Hey, somebody's gotta be the bad guy."
+107731,415,38,168000,Bald Detective,Simpson Home,"But I don't understand, how could he have murdered his wife if he was making a phone call three thousand miles away?"
+107732,415,39,174000,Red-haired Detective,Simpson Home,Maybe he reached out... and killed someone.
+107734,415,41,183000,Bart Simpson,Simpson Home,I saw this. He trained his dog to do it.
+107737,415,44,187000,E.T. Reporter,Simpson Home,"Up next, which former ""Friends"" star is speaking out against adult illiteracy?"
+107739,415,46,193000,Bart Simpson,Simpson Home,It's Lisa Kudrow.
+107742,415,49,193000,Homer Simpson,Simpson Home,"Stop saying things, Bart! That's the TV's job!"
+107743,415,50,199000,Kent Brockman,Simpson Home,...and the First Lady has agreed to sit on the egg until it hatches. More after this.
+107744,415,51,208000,Chazz Busby,Simpson Home,See that? That's talent. You think you got it? You don't. 'Cause only I can teach it -- and I ain't taught you... so you don't.
+107745,415,52,213000,Chazz Busby,Simpson Home,The Chazz Busby Ballet Academy is coming to Springfield.
+107746,415,53,216000,Chazz Busby,Simpson Home,"Auditions are Monday. Callbacks are Tuesday. Wednesday you see I'm a heartless bastard. Thursday you realize you love me, dammit. Friday, we're closed."
+107747,415,54,224000,Chazz Busby,Simpson Home,"You're fired. You're her. Jump, dance, love."
+107748,415,55,227000,Marge Simpson,Simpson Home,"A ballet academy here in Springfield?! Move over, Europe!"
+107749,415,56,232000,Lisa Simpson,Simpson Home,I didn't know you cared about ballet.
+107750,415,57,234000,Marge Simpson,Simpson Home,"Lisa, have I ever shown you my Shattered Dreams Box?"
+107751,415,58,234000,Lisa Simpson,Simpson Home,No.
+107752,415,59,238000,Marge Simpson,Simpson Home,It's upstairs in my Disappointment Closet.
+107753,415,60,241000,Lisa Simpson,Simpson Home,Oh. Oh.
+107755,415,61,242000,Marge Simpson,Simpson Home,"There were so many things I wanted to do in life that I never got a chance to do: doctor , safecracker , stethoscope sales lady ... none came to pass. But the thing I really wanted to be, ever since I was little, was a ballerina!"
+107756,415,62,259000,Lisa Simpson,Simpson Home,So what happened?
+107757,415,63,260000,Marge Simpson,Simpson Home,My bosoms came in and ruined my balance.
+107758,415,64,263000,Lisa Simpson,Simpson Home,Really? How?
+107759,415,65,264000,Marge Simpson,Simpson Home,They came in one at a time.
+107760,415,66,266000,Lisa Simpson,Simpson Home,Do you think mine...
+107761,415,67,268000,Marge Simpson,Simpson Home,"No, I'm pretty sure you'll have your dad's boobs."
+107762,415,68,271000,Lisa Simpson,Simpson Home,Oh.
+107763,415,69,275000,Lisa Simpson,Simpson Home,"Mom, it's not too late to un-shatter your dream! Martha Graham danced well into her seventies."
+107764,415,70,280000,Marge Simpson,Simpson Home,"Wait, you mean she danced well, into her seventies? Or she danced, well into her seventies?"
+107765,415,71,285000,Lisa Simpson,Simpson Home,Well... she danced into her seventies.
+107766,415,72,287000,Marge Simpson,Simpson Home,"I think you've got a point! Homie, I'm gonna be a dancer!"
+107767,415,73,292000,Homer Simpson,Simpson Home,Go-go or boring?
+107768,415,74,293000,Marge Simpson,Simpson Home,Boring!
+107772,415,78,300000,Chazz Busby,BALLET ACADEMY,"Okay, ladies, listen up -- forget everything you've ever learned about ballet. Good. Now from Bolshoi Fifth Position, give me a Battement Glissé, a Double Changement, two Swan Lake Fouettés, then finish with a Grand Pas De Chat."
+107773,415,79,313000,Chazz Busby,BALLET ACADEMY,"Now show me what you got, uh... Simpson, comma, Marge!"
+107774,415,80,330000,Chazz Busby,BALLET ACADEMY,"I haven't seen dancing like that since my Broadway Show ""Dancing Like That."" Closed in a week. Too smart for the corndog crowd. Too dumb for the bagel bunch. You keep it up, kid. You got somethin'."
+107777,415,83,340000,Homer Simpson,Simpson Home,"Son, while your mother and little mother are out, I'm gonna let you in on a deep dark family secret."
+107778,415,84,347000,Bart Simpson,Simpson Home,You have a drinking problem?
+107779,415,85,349000,Homer Simpson,Simpson Home,I said secret.
+107780,415,86,352000,Homer Simpson,Simpson Home,Have you ever wondered what I do in that locked room?
+107781,415,87,355000,Bart Simpson,Simpson Home,Gay out?
+107782,415,88,356000,Homer Simpson,Simpson Home,Well wonder no more!
+107722,415,89,361000,Bart Simpson,Simpson Home,Beef jerky? The queen of all the jerkys!
+107754,415,90,364000,Homer Simpson,Simpson Home,That's right. Now I'll cut and you soak.
+107783,415,91,371000,Bart Simpson,Simpson Home,Dad... marinating with you is cool.
+107784,415,92,374000,Homer Simpson,Simpson Home,"Thanks, son."
+107786,415,94,377000,Homer Simpson,Simpson Home,Some of that is cow blood.
+107788,415,96,381000,Marge Simpson,BALLET ACADEMY,"Look, Lis! I'm as supple as ever!"
+107789,415,97,387000,Marge Simpson,BALLET ACADEMY,It won't go down!
+107791,415,99,390000,Marge Simpson,BALLET ACADEMY,Uh-oh.
+107792,415,100,394000,Chazz Busby,BALLET ACADEMY,"Marge, Marge, Marge -- you know what they say, those who cannot do..."
+107793,415,101,394000,Marge Simpson,BALLET ACADEMY,Teach?
+107794,415,102,398000,Chazz Busby,BALLET ACADEMY,No -- they go home. How can they teach if they can't do? Get out!
+107795,415,103,407000,Chazz Busby,BALLET ACADEMY,Who the hell...?
+107796,415,104,409000,Chazz Busby,BALLET ACADEMY,... taught you to stand like that?
+107797,415,105,410000,Lisa Simpson,BALLET ACADEMY,This is how I always stand when I tell adults what they should be doing.
+107798,415,106,414000,Chazz Busby,BALLET ACADEMY,"You have naturally perfect posture! I rarely say this, but, how would you like to become a paying student at my dance academy?"
+107799,415,107,420000,Lisa Simpson,BALLET ACADEMY,"Uh, I don't know I--"
+107800,415,108,423000,Marge Simpson,BALLET ACADEMY,We accept!
+107802,415,110,435000,Lisa Simpson,BALLET ACADEMY,"I'm sorry, I got confused."
+107803,415,111,437000,Chazz Busby,BALLET ACADEMY,"You don't get to be ""confused."" Not till you've won six Tonys, gone into rehab, married your plastic surgeon, retired, then un-retired in a special little show called ""Woman of the Year."" You can't, uh... yeah, I forget where I'm goin' with this. Take a break, people."
+107804,415,112,452000,Chazz Busby,BALLET ACADEMY,"Eh, eh, eh -- en pointe!"
+107806,415,114,458000,Lisa Simpson,Springfield Ballet Theater,This is so hard!
+107807,415,115,459000,Annette,Springfield Ballet Theater,"Get used to it. We ballerinas are under constant pressure to stay focused, skinny, graceful and skinny."
+107808,415,116,465000,Lisa Simpson,Springfield Ballet Theater,How do you cope with it?
+107809,415,117,467000,Annette,Springfield Ballet Theater,"You find out what works for you. For some people, it might be yoga, for others, meditation..."
+107811,415,119,472000,Annette,Springfield Ballet Theater,"But for every ballerina in the world, it's cigarettes."
+107812,415,120,478000,Lisa Simpson,Springfield Ballet Theater,"Cigarettes?! They could kill you. They did a whole episode about it on ""The Suite Life of Zach and Cody""! Zach tried to impress a girl by smoking. But she went for Cody instead! Zach's life wasn't so sweet then."
+107813,415,121,490000,Annette,Springfield Ballet Theater,"Hey, if God didn't want ballerinas to smoke, how come I can do this?"
+107814,415,122,500000,Lisa Simpson,Springfield Ballet Theater,Wowww... No! All I need to stay focused is good old-fashioned fresh air.
+107815,415,123,507000,Lisa Simpson,Springfield Ballet Theater,Nothing like fresh air.
+107816,415,124,511000,Lisa Simpson,Springfield Ballet Theater,Fresh air.
+107818,415,126,518000,Chazz Busby,BALLET ACADEMY,"Horrible, horrible, horrible... no longer describes your dancing, Lisa. You're good, kid!"
+107819,415,127,526000,Lisa Simpson,BALLET ACADEMY,I've gotten better since this morning. How could that have happened?
+107820,415,128,530000,Annette,BALLET ACADEMY,"Maybe it's all the secondhand ""focus"" and ""pep"" you're inhaling."
+107821,415,129,536000,Annette,BALLET ACADEMY,"They don't call these ""dancer sticks"" for nothin'."
+107822,415,130,538000,Lisa Simpson,BALLET ACADEMY,I thought they were cancer sticks.
+107823,415,131,542000,Annette,BALLET ACADEMY,I dan't dear dou!
+107825,415,133,544000,Homer Simpson,Simpson Home,"My Hindu friend, this is a chance for your Kwik-E-Mart to get in on the ground floor of a delicious new taste sensation."
+107826,415,134,551000,Apu Nahasapeemapetilon,Simpson Home,You talk a good game -- but do you have the product to back it up?
+107827,415,135,554000,Bart Simpson,Simpson Home,Step into our Jerkatorium.
+107828,415,136,559000,Bart Simpson,Simpson Home,What the?!
+107829,415,137,559000,Homer Simpson,Simpson Home,Where's our jerky?
+107830,415,138,561000,Apu Nahasapeemapetilon,Simpson Home,You have wasted my time! You have made a very powerless enemy. Good day and be well!
+107831,415,139,567000,Homer Simpson,Simpson Home,"Wait, wait, wait, wait! You haven't seen our Power Point presentation. Bart?"
+107832,415,140,573000,Bart Simpson,Simpson Home,J -- Just the product you need. E -- Excellent value. R -- Retailer's dream. K--
+107833,415,141,578000,Apu Nahasapeemapetilon,Simpson Home,"You can skip the ""K"" and the ""Y"" -- I do not thank you and I will not come again."
+107834,415,142,590000,Homer Simpson,Simpson Home,Who could have done this?!
+107835,415,143,591000,Bart Simpson,Simpson Home,"Well, something chewed through the cellar door... and the floor is covered with paw prints..."
+107836,415,144,596000,Homer Simpson,Simpson Home,This can only mean one thing.
+107837,415,145,596000,Homer Simpson,Simpson Home,Flanders! You ate my jerky!
+107838,415,146,600000,Ned Flanders,Simpson Home,"As the oak said to the beagle, you're barkin' up the wrong tree. I spent the whole morning blackin' out the ""goshes"" and ""darns"" in these Hardy Boys books."
+107839,415,147,607000,Homer Simpson,Simpson Home,I know you ate my jerky. Just like I ate your earthquake supplies!
+107633,415,148,612000,Bart Simpson,Simpson Home,"Dad, look! Raccoons!"
+107840,415,149,617000,Homer Simpson,Simpson Home,You stay right here.
+107841,415,150,619000,Ned Flanders,Simpson Home,Okily dokily!
+107842,415,151,623000,Ned Flanders,Simpson Home,"Ah, ""heck,"" ""darn"" -- I don't think so."
+107844,415,153,629000,Smoke Lisa,Lisa's Bedroom,Lisa... Lisa Simpson...
+107845,415,154,634000,Smoke Lisa,Lisa's Bedroom,Time for a smoke.
+107846,415,155,636000,Lisa Simpson,Lisa's Bedroom,"Look, everyone knows that cigarettes are where flavor lives and a cool choice for a hot night. But they're for losers!"
+107847,415,156,643000,Smoke Lisa,Lisa's Bedroom,Losers? You mean losers like...
+107848,415,157,646000,Smoke Lisa,Lisa's Bedroom,"Simone de Beauvoir, Margaret Mead, Queen Elizabeth the First, Lauren Bacall..."
+107849,415,158,652000,Lisa Simpson,Lisa's Bedroom,My feminist heroes!
+107850,415,159,653000,Lillian Hellman,Lisa's Bedroom,"Don't forget me, Lillian Hellman! Smoking gave me the energy I needed to write plays and invent mayonnaise! Bring out the Hellman's, and bring out the best."
+107851,415,160,664000,Smoke Historical Figures,Lisa's Bedroom,Puff with us! Puff with us! Puff with us!
+107853,415,162,679000,Homer Simpson,Simpson Home,"Yeah, that's it, don't be shy..."
+107854,415,163,683000,Homer Simpson,Simpson Home,"Enjoy your jerky laced with sleeping pills... nobody outwits Homer Simpson... Hey, they're not sleepy. They're just turning fuzzy..."
+107855,415,164,695000,Bart Simpson,Simpson Home,"Homer, you ate their jerky."
+107856,415,165,697000,Homer Simpson,Simpson Home,"I thought this might happen, so I brought the best weapon to operate while drugged: a crossbow."
+107857,415,166,716000,Truck Driver,Simpson Home,Nooo!
+107860,415,169,725000,Marge Simpson,Marge's Car,Chazz Busby says you're really making progress! Do you need more leg warmers?
+107861,415,170,731000,Lisa Simpson,Marge's Car,"No, stop buying me leg warmers! I'm already wearing six pairs!"
+107862,415,171,735000,Marge Simpson,Marge's Car,"Well, the important thing is, someday I'll be watching my little Marge dancing at Lincoln Center."
+107863,415,172,741000,Lisa Simpson,Marge's Car,"Lisa, Mom. I'm Lisa."
+107864,415,173,743000,Marge Simpson,Marge's Car,Of course -- you're Lisa. Lisa the dancing Marge girl.
+107866,415,175,749000,Bart Simpson,Simpson Backyard,"Dad, you never win a fight with animals. Remember when you lost that war with the worms?"
+107867,415,176,754000,Homer Simpson,Simpson Backyard,"That wasn't a defeat, it was a phased withdrawal."
+107868,415,177,756000,Bart Simpson,Simpson Backyard,Oh yeah? They made you build this statue.
+107871,415,178,761000,Homer Simpson,Simpson Backyard,When you cut 'em they multiply -- I can't fight that! Now let's take care of those raccoons.
+107873,415,180,774000,Homer Simpson,Raccoon Hutch,"Awww, they're using the jerky to feed their family! Look, there's a Homer and a Bart and a Marge and a Lisa. Aww... and they even share my views on parenting!"
+107875,415,182,785000,Homer Simpson,Simpson Home,"Enjoy your jerky, little critters, and one day you'll grow up to be people. Bart, get some more jerky for man's new best friend."
+107877,415,184,802000,Lisa Simpson,BALLET ACADEMY,When's our next break?
+107878,415,185,804000,Annette,BALLET ACADEMY,When the big cigarette hits nine.
+107880,415,187,807000,Chazz Busby,BALLET ACADEMY,"All right -- that was pretty good for uncoordinated hippopotamuses. Hit the river, ladies. Go ahead, have a wallow."
+107883,415,190,822000,Lisa Simpson,BALLET ACADEMY,What am I doing? I don't need secondhand smoke to do ballet.
+107884,415,191,828000,Lisa Simpson,BALLET ACADEMY,I need firsthand smoke!
+107885,415,192,833000,Homer Simpson,BALLET ACADEMY,Lisa!
+107886,415,193,835000,Homer Simpson,BALLET ACADEMY,Gimme that!
+107887,415,194,842000,Homer Simpson,BALLET ACADEMY,I can't believe how easy it is in this country to get cigarettes.
+107889,415,196,851000,Homer Simpson,Simpson Car,I can't believe you were smoking. Do you know the sturgeon general said you're not supposed to?
+107890,415,197,857000,Lisa Simpson,Simpson Car,A sturgeon is a fish.
+107891,415,198,859000,Homer Simpson,Simpson Car,And a very wise fish he is!
+107893,415,200,864000,Homer Simpson,Simpson Home,"Marge, I'm taking Lisa out of that stupid-- What the?"
+107894,415,201,869000,Marge Simpson,Simpson Home,"Oh Homie, I've been so happy lately. I'm completely fulfilled, both as a mother and a fan of youth ballet! Now what did you want to say to me?"
+107895,415,202,879000,Homer Simpson,Simpson Home,Uh... are you sure you want Lisa to keep dancing?
+107896,415,203,883000,Marge Simpson,Simpson Home,"There's nothing that makes a mother's heart soar more than seeing her child take wing. Look at me, I'm glowing!"
+107897,415,204,890000,Homer Simpson,Simpson Home,Maybe you're drunk.
+107898,415,205,891000,Marge Simpson,Simpson Home,"Homie, Lisa's dancing has made me really, really, happy."
+107899,415,206,900000,Homer Simpson,Simpson Home,Okay.
+107900,415,207,902000,Homer Simpson,Simpson Home,Fatherhood hurts my brain.
+107869,415,208,905000,Bart Simpson,Simpson Home,"Dad! Dad, a little help?"
+107870,415,209,908000,Homer Simpson,Simpson Home,You're on your own.
+107902,415,210,913000,Homer Simpson,Simpson Home,"Because it means so much to your mother, you can keep doing ballet. But you have to stop smoking -- including secondhand!"
+107903,415,211,920000,Lisa Simpson,Simpson Home,That's easy for you to say. You've never had to be thin and focused.
+107904,415,212,923000,Homer Simpson,Simpson Home,What'd you say?
+107905,415,213,925000,Lisa Simpson,Simpson Home,"I'm just saying it's gonna be hard for me to quit, especially before the recital."
+107906,415,214,930000,Homer Simpson,Simpson Home,I thought you might have trouble with this. That's why I'm assigning someone to keep watch over you. Someone you'd never expect.
+107907,415,215,937000,Lisa Simpson,Simpson Home,Is it Bart?
+107908,415,216,938000,Homer Simpson,Simpson Home,"Come on out, boy."
+107909,415,217,942000,Bart Simpson,Simpson Home,"For the next three days I'm gonna stick to you like waffle syrup on a shag rug. I'm gonna be on you like fish stink on a Gloucester dog. I'm gonna be all over you like-- Hey, where'd she go?"
+107911,415,219,956000,Chazz Busby,BALLET ACADEMY,"Okay, everybody! Dress rehearsal!"
+107912,415,220,964000,Male Dancer,BALLET ACADEMY,"Hey, I'm still paying for that nose!"
+107913,415,221,968000,Chazz Busby,BALLET ACADEMY,"Lisa, the last time I checked this was not Worldwide Wrestling. And I checked five minutes ago!"
+107914,415,222,977000,Annette,BALLET ACADEMY,"Hey Lisa, come on over."
+107915,415,223,979000,Lisa Simpson,BALLET ACADEMY,I can't -- I promised I wouldn't.
+107916,415,224,982000,Annette,BALLET ACADEMY,"If you don't breathe it, that smoke might go into a baby."
+107917,415,225,987000,Lisa Simpson,BALLET ACADEMY,"Well, since you cared enough to apply peer pressure..."
+107920,415,228,1006000,Homer Simpson,Simpson Home,"Y'ello. She what?! Oh, my God! Well I'm gonna settle this once and for all! Meet me at the place we discussed."
+107921,415,229,1015000,Marge Simpson,Simpson Home,Who was that?
+107922,415,230,1016000,Homer Simpson,Simpson Home,Wrong number.
+107924,415,232,1022000,Chazz Busby,Springfield Ballet Theater,"Five minutes, ladies."
+107925,415,233,1028000,Homer Simpson,Springfield Ballet Theater,"Okay, Bart, it's time for operation: crazy-plan. Step one: we chuck the raccoon in there."
+107926,415,234,1035000,Bart Simpson,Springfield Ballet Theater,What if someone catches him?
+107927,415,235,1036000,Homer Simpson,Springfield Ballet Theater,Don't worry. I have a perfect way to conceal his identity.
+107928,415,236,1045000,Homer Simpson,Springfield Ballet Theater,"See? Now go, boy!"
+107929,415,237,1061000,Homer Simpson,Springfield Ballet Theater,"Not keys, cigarettes!"
+107930,415,238,1067000,Homer Simpson,Springfield Ballet Theater,"Yeah, that's what I mean."
+107932,415,239,1074000,Homer Simpson,Springfield Ballet Theater,"Hee-hee. Okay, now we get rid of the cigarettes..."
+107934,415,241,1077000,Mayor Joe Quimby,Building,"Lord, I could use a smoke."
+107935,415,242,1081000,Mayor Joe Quimby,Building,"Thank you, God. Cigarette?"
+107936,415,243,1083000,Attractive Woman,Building,"Can't, I'm pregnant."
+107937,415,244,1086000,Mayor Joe Quimby,Building,Uh... One more favor?
+107939,415,246,1095000,Carl Carlson,Springfield Ballet Theater,"Wow, what a great first act."
+107940,415,247,1097000,Lenny Leonard,Springfield Ballet Theater,I hope Sleeping Beauty never wakes up.
+107941,415,248,1104000,Annette,Springfield Ballet Theater,My cigarettes! What happened to my cigarettes?!
+107942,415,249,1109000,Ballerina,Springfield Ballet Theater,Found one!
+107943,415,250,1111000,Annette,Springfield Ballet Theater,That's your finger!
+107944,415,251,1112000,Ballerina,Springfield Ballet Theater,I don't care!
+107945,415,252,1132000,Dancer Bumped Into,Springfield Ballet Theater,"Watch your hoof, you blue-ribbon sow!"
+107946,415,253,1135000,Dancer Who Bumped,Springfield Ballet Theater,"I'll spit on your grave, grandma!"
+107948,415,255,1139000,Annette,Springfield Ballet Theater,"Oh no, my appetite's coming back!"
+107951,415,258,1147000,Chazz Busby,Springfield Ballet Theater,"I haven't seen crap like this since my Broadway show ""Crap Like This."" Ran for five years."
+107952,415,259,1152000,2nd Ballerina,Springfield Ballet Theater,We can smoke the programs!
+107953,415,260,1158000,3rd Ballerina,Springfield Ballet Theater,I can smoke my hair!
+107954,415,261,1162000,4th Ballerina,Springfield Ballet Theater,Maybe there's gum under the seats!
+107955,415,262,1167000,Lisa Simpson,Springfield Ballet Theater,"All right, that's enough!"
+107956,415,263,1169000,Lisa Simpson,Springfield Ballet Theater,I want to talk about a horrible practice afflicting millions of Americans. For years we've known how dangerous it is. It stunts your growth. And it's marketed to children. I'm talking about ballet.
+107957,415,264,1181000,Patty Bouvier,Springfield Ballet Theater,I'll smoke to that!
+107958,415,265,1184000,Lisa Simpson,Springfield Ballet Theater,Ballet is unnatural and unfair to women. I shall now cast off the shoes of oppression!
+107959,415,266,1194000,Chazz Busby,Springfield Ballet Theater,You'll never take down big ballet! Never! Now good day.
+107962,415,269,1214000,Homer Simpson,Simpson Home,This is my favorite family tradition -- ice cream after a botched recital.
+107963,415,270,1220000,Lisa Simpson,Simpson Home,And I'm happy to be smoke-free -- thanks to these children's nicotine patches.
+107965,415,271,1224000,Marge Simpson,Simpson Home,And I realize it's wrong to try to live your career dreams through your children.
+107966,415,272,1229000,Bart Simpson,Simpson Home,Does that mean I can stop training to be a Mexican wrestler?
+107967,415,273,1232000,Homer Simpson,Simpson Home,No!
+107968,415,274,1234000,Homer Simpson,Simpson Home,"Now practice preening to the crowd, El Guapo."
+107969,415,275,1240000,Homer Simpson,Simpson Home,"Come on, preen harder! Make them hate you! You feed on their hatred... and you are so hungry!"
+107970,415,276,1253000,Bart Simpson,Simpson Home,No me gusto. Que lastima.

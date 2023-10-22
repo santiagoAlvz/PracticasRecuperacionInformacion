@@ -1,0 +1,207 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+36502,164,2,37000,Agnes Skinner,Municipal House of Pancakes,They say the pancakes here stink.
+36503,164,3,40000,Helen Lovejoy,Municipal House of Pancakes,"Thank you, Agnes. Let's begin. I'm happy to report that our shares in Dynaflux Unimatics are up a delicious 7 and 3/4! This means our investment club portfolio has nearly doubled in value!"
+36505,164,5,56000,Helen Lovejoy,Municipal House of Pancakes,"I suggest we pump our profits into some new, high-risk ventures."
+36506,164,6,60000,Edna Krabappel-Flanders,Municipal House of Pancakes,"Oh, oh! How about OklaSoft? It's Oklahoma's fastest-growing software company."
+36507,164,7,64000,Maude Flanders,Municipal House of Pancakes,Um -- cushions! Everybody likes to sit on cushions.
+36508,164,8,67000,Agnes Skinner,Municipal House of Pancakes,Children are so fat today. Isn't there some way we could make money off that?
+36509,164,9,71000,Helen Lovejoy,Municipal House of Pancakes,There's a Franchise Fair this weekend. Why don't we buy a business?
+36511,164,11,79000,Marge Simpson,Municipal House of Pancakes,I'm not wild about these high-risk ventures. They sound a little risky.
+36512,164,12,85000,Maude Flanders,Municipal House of Pancakes,"Oh, Marge, you are such a wet blanket..."
+36513,164,13,87000,Edna Krabappel-Flanders,Municipal House of Pancakes,"If we'd listened to you, we wouldn't have sponsored that Mexican wrestler!"
+36514,164,14,90000,Agnes Skinner,Municipal House of Pancakes,Yet she still gets to share in all the profits!
+36516,164,16,95000,Marge Simpson,Municipal House of Pancakes,"I guess I'm just not comfortable with the whole idea of ""investing""..."
+36517,164,17,95000,Luann Van Houten,Municipal House of Pancakes,"Mmm, face it. You can't keep up with the go-go 90's."
+36518,164,18,103000,Helen Lovejoy,Municipal House of Pancakes,"Well, Marge, you're about as popular as a rugburn! All in favor of expelling Marge from the Investorettes?"
+36519,164,19,110000,Women,Municipal House of Pancakes,Aye!
+36520,164,20,112000,Marge Simpson,Municipal House of Pancakes,"All right, Helen, if I'm not wanted, I'll leave."
+36521,164,21,117000,Helen Lovejoy,Municipal House of Pancakes,You'll get your pancakes in the mail.
+36523,164,23,118000,Marge Simpson,Simpson Home,...and then they gave me back my 500 dollar investment and kicked me out of the club.
+36524,164,24,125000,Homer Simpson,Simpson Home,"Wait, wait, wait, wait, wait -- back up a bit now. When are the pancakes coming in the mail?"
+36525,164,25,130000,Marge Simpson,Simpson Home,"Well, maybe it's all for the best..."
+36526,164,26,132000,Homer Simpson,Simpson Home,"What do you need to make money for anyway? As long as I have my earning power, this family's got nothing to worry about."
+36527,164,27,138000,Homer Simpson,Simpson Home,Ow! Oh! Call work and tell 'em I won't be in tomorrow.
+36528,164,28,143000,Lisa Simpson,Simpson Home,"Mom, this is no time to be conservative. Let's roll the dice here."
+36529,164,29,146000,Marge Simpson,Simpson Home,It would be nice to beat those women at their own game. Maybe I should look into a franchise.
+36531,164,31,157000,Robot,Springfield Convention Center,"Greetings, humans. I am Investo the Robot, from the planet Opportuniac. My superior brain advises you to enter the Franchise Fair."
+36532,164,32,167000,Marge Simpson,Springfield Convention Center,"Well, we're trying to, but you're blocking our way."
+36533,164,33,169000,Robot,Springfield Convention Center,Danger! Danger! Don't forget to pick up pamphlets!
+36534,164,34,173000,Bart Simpson,Springfield Convention Center,I'll handle this.
+36535,164,35,183000,Robot,Springfield Convention Center,"Help, help. Help. Security code 30."
+36536,164,36,187000,Motivational Man,Springfield Convention Center,"Well, that's the miracle of the franchise. You get all the equipment and know-how you need, plus a familiar brand name people trust. You'll be on a rocket ride to the moon. And while you're there, would you pick up some of that nice green moon money for me, Royce McCutcheon."
+36537,164,37,202000,Homer Simpson,Springfield Convention Center,"No deal, McCutcheon. That moon money is mine!"
+36538,164,38,204000,Picture Man,Springfield Convention Center,"Now folks, I don't want to alarm you, but scientists say 40% of America's pictures are hanging crooked."
+36540,164,40,213000,Picture Man,Springfield Convention Center,"Yeah, it's true. And I hear you asking, ""Well, who's going to straighten out all these artistic abominations?"" Your friends? A neighbor? Those fat-cats in Washington? Good luck. Hey, you know -- ""Maybe no one will notice. Maybe the problem will just fix itself."""
+36541,164,41,229000,Marge Simpson,Springfield Convention Center,Now you're the one who's being naive.
+36542,164,42,231000,Picture Man,Springfield Convention Center,"Okay, fair enough, but you sound like you're ready to become your own boss in the exciting world of frame nudging."
+36543,164,43,238000,Picture Man,Springfield Convention Center,"Yes, for a minimal franchise fee, you'll receive a pair of straightening gloves, a canister of wall lubricant, and a booklet of the most commonly asked questions you will hear, including ""Who are you?"" and ""What are you doing here?"""
+36544,164,44,238000,Marge Simpson,Springfield Convention Center,"Oh, I don't want to own my own business. I don't know why I came here in the first place."
+36545,164,45,258000,Marge Simpson,Springfield Convention Center,"Hello, Helen."
+36546,164,46,260000,Helen Lovejoy,Springfield Convention Center,Marge.
+36547,164,47,261000,Marge Simpson,Springfield Convention Center,Edna.
+36548,164,48,262000,Edna Krabappel-Flanders,Springfield Convention Center,Marge.
+36549,164,49,263000,Marge Simpson,Springfield Convention Center,Uh... oh...
+36550,164,50,265000,Agnes Skinner,Springfield Convention Center,"Oh, my name is Agnes and you know it's Agnes. It means ""lamb,"" ""lamb of God!"""
+36551,164,51,270000,Marge Simpson,Springfield Convention Center,"I'm sorry, Agnes."
+36552,164,52,272000,Agnes Skinner,Springfield Convention Center,Marge.
+36554,164,53,280000,Disco Stu,Springfield Convention Center,"Did you know that disco record sales were up 400% for the year ending 1976? If these trends continue, aaaayyyyyy..."
+36555,164,54,294000,Homer Simpson,Springfield Convention Center,"Uh, your fish are dead."
+36556,164,55,296000,Disco Stu,Springfield Convention Center,"Yeah, I know. I can't get them out of there."
+36557,164,56,304000,Helen Lovejoy,Springfield Convention Center,"Hmm, ""pita."" Well, I don't know about food from the Middle East. Isn't that whole area a little ""iffy""?"
+36558,164,57,313000,Pita Saleswoman,Springfield Convention Center,"Hey, I'm no geographer. You and I? Why don't we call it ""Pocket Bread,"" huh?"
+36559,164,58,318000,Maude Flanders,Springfield Convention Center,"Uh, what's ""ta-hi-ni?"""
+36560,164,59,320000,Pita Saleswoman,Springfield Convention Center,Flavor sauce.
+36561,164,60,321000,Edna Krabappel-Flanders,Springfield Convention Center,"And ""fa-la-fel?"""
+36562,164,61,322000,Pita Saleswoman,Springfield Convention Center,Crunch patties.
+36563,164,62,323000,Helen Lovejoy,Springfield Convention Center,So we'd be selling foreign foo--
+36564,164,63,325000,Pita Saleswoman,Springfield Convention Center,"Specialty foods. Here, try a Ben Franklin."
+36565,164,64,332000,Helen Lovejoy,Springfield Convention Center,"Mmm, that is good. What's in it?"
+36566,164,65,334000,Chef,Springfield Convention Center,Tabouleh and rezmi-kabob.
+36567,164,66,336000,Pita Saleswoman,Springfield Convention Center,"Um, that's our chef, Christopher."
+36569,164,68,344000,Helen Lovejoy,Springfield Convention Center,I could see eating this. I really could. And I am not kidding.
+36571,164,70,351000,Marge Simpson,Springfield Convention Center,Look at them. They've jumped on the one franchise I might possibly have considered thinking about becoming interested in. I'm not cut out for the world of business.
+36572,164,71,363000,Frank Ormand,Springfield Convention Center,"Oh, you sound like me. Well, the old me. Which was, ironically, the young me."
+36573,164,72,370000,Frank Ormand,Springfield Convention Center,"I was once like you were, young lady, like all these people, lost in a sea of flashy gimmicks and empty promises. Then God tossed me a life preserver."
+36574,164,73,380000,Frank Ormand,Springfield Convention Center,"A tasty, golden-brown life preserver. Here, try a pretzel."
+36575,164,74,389000,Marge Simpson,Springfield Convention Center,Mmm... hmm... That's not bad.
+36576,164,75,393000,Frank Ormand,Springfield Convention Center,"It is not only not bad, it's not bread. ""Knot bread,"" you get it, see? Heh, heh, you see?"
+36578,164,77,401000,Pita Saleswoman,Springfield Convention Center,Let's hear it for the newest members of the Fleet-A-Pita franchise!
+36579,164,78,409000,Pita Saleswoman,Springfield Convention Center,Maude! Helen! Agnes! LuAnn! Edna! Bart!
+36581,164,79,415000,Bart Simpson,Springfield Convention Center,Wooo! We're number one! We're number one!
+36582,164,80,418000,Bart Simpson,Springfield Convention Center,"Hey, what's going on?! Wait, wait! Hey, let go of me!..."
+36583,164,81,421000,Marge Simpson,Springfield Convention Center,"Your franchise, how much?"
+36584,164,82,423000,Frank Ormand,Springfield Convention Center,$500.
+36585,164,83,424000,Marge Simpson,Springfield Convention Center,I'll take it!
+36586,164,84,427000,Frank Ormand,Springfield Convention Center,Congratulations! And welcome to the dynamic world of mobile pretzel retailing.
+36587,164,85,432000,Marge Simpson,Springfield Convention Center,When can I start? What's my territory?
+36588,164,86,434000,Frank Ormand,Springfield Convention Center,"Your territory? Well, well, let me tell you. Wherever a young mother is ignorant of what to feed her baby, you'll be there. Wherever nacho penetration is less then total, you'll be there. Wherever a Bavarian is not quite full, you will be there."
+36589,164,87,451000,Marge Simpson,Springfield Convention Center,Don't forget fat people. They can't stop eating!
+36590,164,88,454000,Homer Simpson,Springfield Convention Center,"Hey, pretzels!"
+36592,164,90,468000,Frank Ormand,Simpson Home,"Oh, hello. I'm Frank Ormand, and if you're watching me, that means you've got pretzel fever, and not the kind that attacked my intestinal lining some years back. So let's get your franchise up and running."
+36593,164,91,484000,Frank Ormand,Simpson Home,Start by setting up an office in your basement or garage. An automatic garage door opener makes you feel like you're working in a futuristic wonderworld.
+36594,164,92,497000,Frank Ormand,Simpson Home,"Next, blanket your community with flyers. A phony ticker-tape parade will help you avoid littering laws."
+36595,164,93,509000,Chief Wiggum,Simpson Home,"Welcome back, Space Girl!"
+36596,164,94,513000,Frank Ormand,Simpson Home,"Now, you're ready to make pretzels. Open your bag of ingredients... ...check for millipedes... Eiw."
+36598,164,96,544000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, what's all that commotion outside? Why, it's one of those Pretzel Wagons the movie stars are always talking about."
+36599,164,97,551000,Lenny Leonard,Springfield Nuclear Power Plant,Here? Our plant?
+36600,164,98,553000,Homer Simpson,Springfield Nuclear Power Plant,"That's right, Lenny. Let's all give in to deliciousness, the Pretzel Wagon way."
+36601,164,99,560000,Workers,Springfield Nuclear Power Plant,"Yeah, let's do that! / Yay! / Homer's right! / Oh, yeah!"
+36602,164,100,566000,Lisa Simpson,Springfield Nuclear Power Plant,"Wow, Mom, look at all those customers!"
+36603,164,101,569000,Marge Simpson,Springfield Nuclear Power Plant,"Hairnets, everyone."
+36604,164,102,574000,Marge Simpson,Springfield Nuclear Power Plant,Welcome to Pretzel Wagon. May I take your order?
+36605,164,103,578000,Lenny Leonard,Springfield Nuclear Power Plant,"Uh, let's see... I'll have one... Uh..."
+36606,164,104,584000,Carl Carlson,Springfield Nuclear Power Plant,"Hey, hurry up. I wanna get my pretzel."
+36607,164,105,587000,Lenny Leonard,Springfield Nuclear Power Plant,One pretzel.
+36608,164,106,588000,Marge Simpson,Springfield Nuclear Power Plant,Thank you.
+36609,164,107,589000,Carl Carlson,Springfield Nuclear Power Plant,"Let's see... Um, I will have one of your... Uh..."
+36610,164,108,595000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Come on, come on, while we're young."
+36611,164,109,602000,Lenny Leonard,Springfield Nuclear Power Plant,"Wow, check out that van. It looks like it doesn't even need our business."
+36612,164,110,606000,Carl Carlson,Springfield Nuclear Power Plant,"Hey, let's go!"
+36613,164,111,615000,Marge Simpson,Springfield Nuclear Power Plant,Excuse me. I had this spot first.
+36614,164,112,617000,Edna Krabappel-Flanders,Springfield Nuclear Power Plant,"Oh, sorry, dear. Just business. Ha!"
+36615,164,113,620000,Marge Simpson,Springfield Nuclear Power Plant,"Well, I guess Macy's and Gimbel's learned to live side by side."
+36616,164,114,624000,Agnes Skinner,Springfield Nuclear Power Plant,"Gimbel's is gone, Marge. Long gone. You're Gimbel's."
+36617,164,115,628000,Marge Simpson,Springfield Nuclear Power Plant,Very well. There must be dozens of great locations in this town. Don't you worry about me.
+36619,164,117,637000,Cletus Spuckler,Springfield,Hey! Slow down! I wants to talk to you! Give us three hundred pretzels.
+36620,164,118,643000,Marge Simpson,Springfield,You see? A little persistence and patience paid off. That'll be 300 dollars.
+36621,164,119,648000,Cletus Spuckler,Springfield,"Hey, I don't think so. I got me three hunnert coupons."
+36622,164,120,652000,Marge Simpson,Springfield,"I should've said ""limit -- one per customer."""
+36623,164,121,652000,Cletus Spuckler,Springfield,"Shoulda, but didna. So hand 'em over. Hey, kids, we're eating dinner tonight! C'mon! Tiffany! Heather! Cody! Dylan! Dermutt! Jordan! Taylor! Brittany! Wesley! Rumer! Scout! Cassidy! Zoe! Chloe! Max! Hunter! Kendall! Caitlin! Noah! Sascha! Morgan! Kyra! Ian! Lauren! Q-Bert! Phil!"
+36626,164,124,691000,Marge Simpson,Simpson Home,"""Hang in there, baby."" You said it, kitty. Copyright 1968? Hmm. Determined or not, that cat must be long dead. That's kind of a downer."
+36627,164,125,705000,Lisa Simpson,Simpson Home,"They're good pretzels, Mom. But you've got to think big. Find a major public event and set up shop there."
+36629,164,127,715000,Marge Simpson,SPRINGFIELD BASEBALL STADIUM,Here you go -- free Pretzel Wagon pretzels for everyone! One bite and you'll be hooked!
+36630,164,128,722000,Seymour Skinner,SPRINGFIELD BASEBALL STADIUM,Thank you.
+36478,164,129,722000,Bumblebee Man,SPRINGFIELD BASEBALL STADIUM,Gracias.
+36631,164,130,723000,Homer Simpson,SPRINGFIELD BASEBALL STADIUM,"That means thank you, Marge."
+36632,164,131,726000,1st Sportscaster,SPRINGFIELD BASEBALL STADIUM,"Ladies and gentlemen, a winner has been chosen for today's giveaway. And the 1997 Pontiac AstroWagon goes to the fan sitting in seat number zero zero zero one... C. Montgomery Burns!"
+36634,164,133,748000,2nd Sportscaster,SPRINGFIELD BASEBALL STADIUM,And the fans do not like this one bit.
+36635,164,134,754000,1st Sportscaster,SPRINGFIELD BASEBALL STADIUM,And here come the pretzels!
+36636,164,135,759000,Marge Simpson,SPRINGFIELD BASEBALL STADIUM,"Oh, no! No! Don't do that! You're supposed to be tasting them!"
+36637,164,136,764000,2nd Sportscaster,SPRINGFIELD BASEBALL STADIUM,"Hall of Famer Whitey Ford now on the field, pleading with the crowd for... for some kind of sanity."
+36638,164,137,769000,1st Sportscaster,SPRINGFIELD BASEBALL STADIUM,"Uh-oh, and a barrage of pretzels now knocking Whitey unconscious."
+36639,164,138,775000,2nd Sportscaster,SPRINGFIELD BASEBALL STADIUM,"Wow, this is, uh, this is a black day for baseball."
+36641,164,140,780000,Bart Simpson,Simpson Home,"Oh, cheer up, Mom. You can't buy publicity like that. Thousands and thousands of people saw your pretzels injuring Whitey Ford."
+36642,164,141,788000,Homer Simpson,Simpson Home,You could call 'em Whitey Whackers.
+36643,164,142,790000,Marge Simpson,Simpson Home,"I was wrong to have a dream. Wrong as usual. I mean, if you're nothing special, why kid yourself?"
+36644,164,143,797000,Lisa Simpson,Simpson Home,"Oh, Mom, no!"
+36645,164,144,799000,Marge Simpson,Simpson Home,"Listen to your mother, kids: aim low. Aim so low, no one will even care if you succeed."
+36646,164,145,805000,Marge Simpson,Simpson Home,"Dinner's in the oven. If you want some butter, it's under my face."
+36648,164,147,812000,Homer Simpson,Simpson Car,"Marge needs help, and God knows, I'm not the man to provide it. But I know who can..."
+36650,164,149,825000,Homer Simpson,House,"Aw, looks like Mr. Pretzel Man is doing pretty well for himself."
+36651,164,150,831000,Homer Simpson,House,I'm here to see Mr. Ormand.
+36652,164,151,833000,Woman,House,Of course. Right this way.
+36653,164,152,838000,Homer Simpson,House,"Oh, I guess I should speak to the executor of his estate."
+36654,164,153,842000,Woman,House,He's right over there.
+36655,164,154,843000,Woman,House,They were in the same car.
+36657,164,156,846000,Homer Simpson,First Church of Springfield,"You're my last hope. I've never reached out to you before, but my wife is in her hour of need. Your help could make all the difference in the world."
+36658,164,157,856000,Fat Tony,First Church of Springfield,Okay.
+36659,164,158,857000,Louie,First Church of Springfield,"See, Boss? I told ya that ad in the Church Bulletin would pay off."
+36661,164,160,868000,Marge Simpson,Simpson Home,"Hello? Uh, no, Pretzel Wagon's no longer -- Three hundred pretzels?! Wait, wait, let me get this down. Mmm... Mmm... Meatpackers Union Hall... Batavia, New York... I'll send them right out! Homer, Homie, wake up! Wake up, I'm back in business!"
+36662,164,161,891000,Homer Simpson,Simpson Home,"I had a feeling things would work out for you, honey."
+36663,164,162,896000,Hans Moleman,Simpson Home,Hey! What are you doing!
+36664,164,163,898000,Fat Tony,Simpson Home,"This is a pretzel town, pretty boy."
+36666,164,165,950000,Marge Simpson,Springfield Elementary School,Are you sure the children will get enough nutrition from these pretzels?
+36667,164,166,954000,Seymour Skinner,Springfield Elementary School,"Yes, I am sure. Sure as sure can be."
+36668,164,167,958000,Marge Simpson,Springfield Elementary School,"Oh my God, what happened to your fingers?!"
+36669,164,168,961000,Mobster,Springfield Elementary School,Boating accident.
+36670,164,169,962000,Seymour Skinner,Springfield Elementary School,I believe it was a boking accident.
+36671,164,170,965000,Seymour Skinner,Springfield Elementary School,I have to go now.
+36673,164,172,968000,Helen Lovejoy,SPRINGFIELD DOCKS,I don't understand why they won't unload our falafel fixin's!
+36674,164,173,973000,Lou,SPRINGFIELD DOCKS,"Ship's impounded, Ma'am."
+36675,164,174,974000,Chief Wiggum,SPRINGFIELD DOCKS,"Yeah, we uh, found a couple o' barnacles on the hull. That, and uh, the deck was uh, wet."
+36676,164,175,979000,Helen Lovejoy,SPRINGFIELD DOCKS,That's crazy! And what are those men doing under my van?!!
+36677,164,176,985000,Chief Wiggum,SPRINGFIELD DOCKS,"Look, lady, if I was you, I would just leap into the air as I am preparing to do."
+36680,164,179,992000,Moe Szyslak,Moe's Tavern,"Here you go, Homer."
+36681,164,180,993000,Homer Simpson,Moe's Tavern,"Thanks, Moe."
+36682,164,181,996000,Moe Szyslak,Moe's Tavern,"Aw, Homer. You know your money's no good here."
+36683,164,182,999000,Moe Szyslak,Moe's Tavern,"Hey, wait a minute -- this is real money!"
+36684,164,183,1001000,Homer Simpson,Moe's Tavern,"Yeah, my wife is raking it in."
+36686,164,185,1012000,Fat Tony,Moe's Tavern,"Greetings, Homer."
+36687,164,186,1014000,Homer Simpson,Moe's Tavern,"Hey, Fat Tony! You still with the Mafia?"
+36688,164,187,1017000,Fat Tony,Moe's Tavern,"Uh, uh, yes. I am. Thank you for asking. Now Homer, as you no doubt recall, you were done a favor by our, uh... how shall I say, Mafia crime syndicate."
+36553,164,188,1029000,Homer Simpson,Moe's Tavern,Oh yeah.
+36689,164,189,1032000,Fat Tony,Moe's Tavern,"Now, the time has come for you to do us a favor."
+36690,164,190,1036000,Homer Simpson,Moe's Tavern,"You mean the mob only did me a favor to get something in return? Oh, Fat Tony... I will say good day to you, sir."
+36691,164,191,1045000,Fat Tony,Moe's Tavern,"Okay, I will go."
+36692,164,192,1051000,Fat Tony,Moe's Tavern,"Hey, wait a minute."
+36694,164,194,1057000,Marge Simpson,Deserted Stretch Of Highway,"Well, here I am -- 11905 Dead Weasel Road, but I don't see any apartment building, I just --"
+36695,164,195,1068000,Marge Simpson,Deserted Stretch Of Highway,"Hey, what's going on?"
+36696,164,196,1077000,Fat Tony,Deserted Stretch Of Highway,"Is, uh, there a button or a release for these keys?"
+36697,164,197,1081000,Marge Simpson,Deserted Stretch Of Highway,"Oh, oh, you have to push in as you turn."
+36698,164,198,1084000,Fat Tony,Deserted Stretch Of Highway,Oh.
+36699,164,199,1084000,Marge Simpson,Deserted Stretch Of Highway,"Yeah, that's it."
+36700,164,200,1086000,Marge Simpson,Deserted Stretch Of Highway,Who are you?
+36701,164,201,1087000,Fat Tony,Deserted Stretch Of Highway,"We are your business partners, and as such, we are entitled to a percentage of your profits. Something in the area of 100 per cent."
+36702,164,202,1096000,Marge Simpson,Deserted Stretch Of Highway,What are you talking about?
+36703,164,203,1098000,Fat Tony,Deserted Stretch Of Highway,We suggest you have a conversation with your husband. You have twenty-four hours to give us our money. And to show you we're serious... you have twelve hours.
+36704,164,204,1109000,Fat Tony,Deserted Stretch Of Highway,See you at six a.m.
+36706,164,206,1114000,Marge Simpson,Simpson Home,"Homer, did you tell the Mafia they could eliminate my competitors with savage beatings and attempted murder?"
+36707,164,207,1120000,Homer Simpson,Simpson Home,In those words? Yes.
+36708,164,208,1123000,Marge Simpson,Simpson Home,"Oh, it just sickens me. How could you do this to someone you love?"
+36709,164,209,1128000,Homer Simpson,Simpson Home,How could I not? I saw you pouring your heart and soul into this business and getting nowhere. I saw you desperately trying to cram one more salty treat into America's already bloated snack-hole. So I did what I could. I did what any loving husband would do: I reached out to some violent mobsters.
+36710,164,210,1146000,Marge Simpson,Simpson Home,"Oh, Homer, I know you were trying to shield me from failure, but this is my business, and the Mafia's not getting one cent of my money!"
+36711,164,211,1155000,Homer Simpson,Simpson Home,So what are we gonna do?
+36712,164,212,1156000,Marge Simpson,Simpson Home,We're going to do what we do every day. We're going to make pretzels.
+36713,164,213,1168000,Marge Simpson,Simpson Home,"There, that's the last one."
+36580,164,215,1183000,Grampa Simpson,Simpson Home,I had that dream again!
+36715,164,216,1186000,Homer Simpson,Simpson Home,"Oh, thank God. It's only Grampa."
+36716,164,217,1190000,Homer Simpson,Simpson Home,Now what?
+36718,164,219,1195000,Fat Tony,Simpson Home,Sorry we're late. Could we have the money now?
+36719,164,220,1198000,Marge Simpson,Simpson Home,The answer is no.
+36720,164,221,1200000,Fat Tony,Simpson Home,"I'm afraid I must insist. You see, my wife, she has been most vocal on the subject of the pretzel monies: ""Where's the money?,"" ""When are you going to get the money?,"" ""Why aren't you getting the money now?,"" and so on. So please, the money."
+36721,164,222,1216000,Homer Simpson,Simpson Home,"You heard her. She said ""no."""
+36722,164,223,1218000,Fat Tony,Simpson Home,"Legs, Louie, advance on them."
+36723,164,224,1223000,Helen Lovejoy,Simpson Home,There they are!
+36724,164,225,1228000,Edna Krabappel-Flanders,Simpson Home,"Well, well, if it isn't Marge Simpson and her gangland cronies."
+36725,164,226,1232000,Maude Flanders,Simpson Home,Your goon squad certainly gave you the edge in the mobile snack business. But I'm afraid we've outdone you once again. Hiroshi? Yukio?
+36726,164,227,1241000,Maude Flanders,Simpson Home,Perhaps you've heard of the Yakuza? The Poison Fists of the Pacific Rim? The Japanese Mafia?
+36727,164,228,1247000,Agnes Skinner,Simpson Home,They'll kill you five times before you hit the ground.
+36728,164,229,1268000,Fat Tony,Simpson Home,Take that! Take this! C'mere you little squirt.
+36729,164,230,1275000,Marge Simpson,Simpson Home,"Homie, maybe we should go inside."
+36730,164,231,1277000,Homer Simpson,Simpson Home,"But Marge, that little guy hasn't done anything yet."
+36731,164,232,1280000,Homer Simpson,Simpson Home,Look at him. He's gonna do something. And you know it's gonna be good!
+36734,164,235,1291000,Homer Simpson,Simpson Home,"You must hate me, Marge. Every time I try to help, I just fail miserably."
+36735,164,236,1295000,Marge Simpson,Simpson Home,"Oh, I don't hate you for failing. I love you for trying."
+36736,164,237,1301000,Lisa Simpson,Simpson Home,What's going on outside?
+36737,164,238,1303000,Marge Simpson,Simpson Home,"Oh, it's just a mob war. Go back to sleep, Honey."
+36738,164,239,1309000,Yakuza,Simpson Home,"Forgiveness, please."

@@ -1,0 +1,205 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+89493,346,1,79000,Seymour Skinner,Springfield Elementary School,"Happy three in the morning, everyone! In a mere five hours, we'll be gazing at Springfield's most exciting glacier, Springfield Glacier. I hope you're all wearing glacier-appropriate clothing."
+89494,346,2,90000,Nelson Muntz,Springfield Elementary School,"Hey, check out my T-shirt. It's wicked relevant!"
+89495,346,3,93000,Nelson Muntz,Springfield Elementary School,"It's part of my ""Things Suck"" line of clothing."
+89496,346,4,95000,Seymour Skinner,Springfield Elementary School,"Yes, well, while I disagree with your T-shirt's assertion, I do encourage anything that raises glacier awareness. Busward to adventure!"
+89498,346,6,109000,Bart Simpson,Bus,"So, Lis, ready for your trip?"
+89499,346,7,111000,Lisa Simpson,Bus,Sure am!
+89500,346,8,112000,Bart Simpson,Bus,See ya next fall.
+89501,346,9,116000,Lisa Simpson,Bus,You make those same stupid jokes every field trip!
+89502,346,10,119000,Bart Simpson,Bus,"Eh, you work in the business as long as I have, you're bound to repeat yourself."
+89503,346,11,124000,Bart Simpson,Bus,See you next fall!
+89507,346,15,138000,Seymour Skinner,School Bus,"So, Edna, I uh, I wrote up some possible discussion topics for this trip. Oh, here's one: I'm still in love with you. Discuss?"
+89508,346,16,147000,Edna Krabappel-Flanders,School Bus,"Seymour, I've moved on. Our romance is in the history books -- and there's nothing worth highlighting. Ha!"
+89509,346,17,153000,Seymour Skinner,School Bus,The Skin-man doesn't give up that easily.
+89510,346,18,158000,Otto Mann,School Bus,"Ooh, these icy roads are gettin' pretty gnarly."
+89512,346,20,162000,Kids,Mountain Road,Whoooa! Whoooa! Whoooa! Whoooa!
+89514,346,22,170000,Seymour Skinner,Bus,"Oh, I'm not worried."
+89515,346,23,173000,Seymour Skinner,Bus,My indemnity waivers! Stop the bus!
+89516,346,24,175000,Seymour Skinner,Bus,We'll just use the chains.
+89519,346,27,181000,Üter,Mountain Road,"I feel like I'm in ""Fitzcarraldo!"""
+89520,346,28,184000,Nelson Muntz,Mountain Road,That movie was flawed!
+89522,346,30,187000,Seymour Skinner,SPRINGFIELD GLACIER PARK,"Behold, children. The majesty of Springfield Glacier! Crane your necks skyward to behold its icy glory."
+89523,346,31,200000,Lisa Simpson,SPRINGFIELD GLACIER PARK,What happened to the glacier? It's nearly melted. This must be due to global warming!
+89524,346,32,206000,Ranger Johnson,SPRINGFIELD GLACIER PARK,"Young lady, the federal government's position on global warming is that it does not exist. This glacier is doing just fine."
+89525,346,33,212000,Lisa Simpson,SPRINGFIELD GLACIER PARK,No it isn't -- it's a lump of slush! Look at it!
+89526,346,34,215000,Ranger Johnson,SPRINGFIELD GLACIER PARK,I have a little girl like you at home. That's where she stays. At home.
+89528,346,36,223000,Homer Simpson,Springfield,"Oh, I just love it here. So many things, and so many things of each thing!"
+89530,346,38,229000,Grampa Simpson,SPRINGFIELD SPRAWL*MART,Welcome to Sprawl*Mart! Can I get you a cart or a basket?
+89531,346,39,233000,Marge Simpson,SPRINGFIELD SPRAWL*MART,"Grampa, you're a greet grater! I mean a great greeter! Now look who's senile!"
+89532,346,40,243000,Marge Simpson,SPRINGFIELD SPRAWL*MART,I'll take a cart.
+89533,346,41,245000,Grampa Simpson,SPRINGFIELD SPRAWL*MART,All right.
+89534,346,42,248000,Grampa Simpson,SPRINGFIELD SPRAWL*MART,Darn thing's stuck. I'll give it a good yank...
+89535,346,43,253000,Grampa Simpson,SPRINGFIELD SPRAWL*MART,Gnoooooo... mes!
+89536,346,44,263000,Homer Simpson,SPRINGFIELD SPRAWL*MART,"Oh, Dad. How I'll miss your cap, your walking stick, your plaster base..."
+89537,346,45,268000,Grampa Simpson,SPRINGFIELD SPRAWL*MART,"I'm down here, you idiot!"
+89538,346,46,270000,Homer Simpson,SPRINGFIELD SPRAWL*MART,"Dad, where's your base?!"
+89539,346,47,272000,Grampa Simpson,SPRINGFIELD SPRAWL*MART,Don't worry about that! Someone's gotta greet the customers!
+89540,346,48,277000,Homer Simpson,SPRINGFIELD SPRAWL*MART,"Eh, they'll be fine."
+89541,346,49,278000,Grampa Simpson,SPRINGFIELD SPRAWL*MART,No! They're helpless without a greeting -- look at 'em.
+89542,346,50,286000,Grampa Simpson,SPRINGFIELD SPRAWL*MART,Make me proud... or at least less ashamed.
+89544,346,52,294000,Milhouse Van Houten,SPRINGFIELD GLACIER VISITOR CENTER,"I'm gonna get a glacier postcard and send it to my Nanna! She'll be like ""no way!"""
+89545,346,53,298000,Milhouse Van Houten,SPRINGFIELD GLACIER VISITOR CENTER,Score!
+89546,346,54,302000,Seymour Skinner,SPRINGFIELD GLACIER VISITOR CENTER,I'm going to exchange this beach towel I bought at Sequoia National Park.
+89547,346,55,306000,Seymour Skinner,SPRINGFIELD GLACIER VISITOR CENTER,I learned too late that it implied tumescence.
+89548,346,56,313000,Lisa Simpson,SPRINGFIELD GLACIER VISITOR CENTER,"Ah, pre-modern man. If these wise warriors could speak, what would they tell us?"
+89549,346,57,317000,Bart Simpson,SPRINGFIELD GLACIER VISITOR CENTER,They left a message right here.
+89551,346,59,323000,Kearney Zzyzwicz,SPRINGFIELD GLACIER VISITOR CENTER,"Actually carved into the rock. Nice work, Simpson."
+89552,346,60,326000,Bart Simpson,SPRINGFIELD GLACIER VISITOR CENTER,Feel free to make a rubbing.
+89555,346,63,331000,Homer Simpson,SPRAWL*MART,"Welcome to Sprawl*Mart... Pimple cream in aisle five! Buenos nachos -- ask about our señor discount. Hey, Rabbi, Jesus loves ya. Just kidding."
+89556,346,64,341000,Store Manager,SPRAWL*MART,"Son, you are on fire! A million times better than that worthless old coot you replaced."
+89557,346,65,347000,Homer Simpson,SPRAWL*MART,That coot happens to be my father. Please continue.
+89558,346,66,350000,Store Manager,SPRAWL*MART,How would you like to be a full-time Sprawl*Mart greeter?
+89559,346,67,353000,Homer Simpson,SPRAWL*MART,Is there a chance for advancement?
+89560,346,68,353000,Store Manager,SPRAWL*MART,No.
+89561,346,69,355000,Homer Simpson,SPRAWL*MART,Woo hoo! No pressure!
+89563,346,71,356000,Ranger Johnson,GLACIER VISITOR CENTER,Evidence suggests that this ice-age female was alone when she fell into a crevasse.
+89564,346,72,361000,Seymour Skinner,GLACIER VISITOR CENTER,"Dying alone, huh? Terrible fate to befall any woman -- ice-age or modern-day."
+89565,346,73,368000,Edna Krabappel-Flanders,GLACIER VISITOR CENTER,"Seymour, I will now demonstrate how over you I am. See that man?"
+89566,346,74,373000,Edna Krabappel-Flanders,GLACIER VISITOR CENTER,Take note of how he's not you. Now watch.
+89567,346,75,377000,Edna Krabappel-Flanders,GLACIER VISITOR CENTER,"So, is there a Mrs. Park Ranger Johnson?"
+89568,346,76,381000,Ranger Johnson,GLACIER VISITOR CENTER,"No ma'am. I'm married to the glacier. But uh, it's an open marriage."
+89569,346,77,386000,Edna Krabappel-Flanders,GLACIER VISITOR CENTER,"Then bring it, fool!"
+89570,346,78,390000,Seymour Skinner,GLACIER VISITOR CENTER,"Oh for goodness sake. You've moved on, have you? Well, so have I."
+89571,346,79,398000,Seymour Skinner,GLACIER VISITOR CENTER,Just play along.
+89573,346,81,405000,Lisa Simpson,Springfield Glacier,"Listen, people!"
+89574,346,82,408000,Lisa Simpson,Springfield Glacier,"How can you stand there eating snacks and being children, when the world's glaciers are vanishing?"
+89575,346,83,413000,Lisa Simpson,Springfield Glacier,We have to do something about it!
+89576,346,84,415000,Lisa Simpson,Springfield Glacier,Glaciers are nature's alarm clock...and it's time for us to wake up. Can there be any doubt that the culprit is greenhouse gas produced by man?
+89578,346,86,426000,Bart Simpson,Springfield Glacier,The only gas is coming from Lisa's butt!
+89580,346,88,429000,Lisa Simpson,Springfield Glacier,"People, please! I'm talking about toxic vapors."
+87181,346,90,434000,Lisa Simpson,Springfield Glacier,Emanations!
+87693,346,92,436000,Lisa Simpson,Springfield Glacier,Miasmas!
+89582,346,93,440000,Chief Wiggum,Springfield Glacier,"Hey, whoever's doing that, get off the frequency."
+89584,346,95,442000,Chief Wiggum,Woods,We're combing the woods -- there's a killer loose out here.
+89585,346,96,445000,Lou,Woods,"Aw, let him do it, Chief. It lightens the mood."
+89586,346,97,449000,Lou,Woods,Oh my God!
+89588,346,99,452000,Lou,Springfield Glacier,That used to be a face!
+89589,346,100,452000,Lisa Simpson,Springfield Glacier,Baaart!
+89590,346,101,459000,Lisa Simpson,Springfield Glacier,Help! I'm sinking in the lake!
+89591,346,102,462000,Ranger Johnson,Springfield Glacier,"You mean, you're walking on the glacier!"
+89592,346,103,465000,Lisa Simpson,Springfield Glacier,Whatever!
+89593,346,104,472000,Bart Simpson,Springfield Glacier,Check it out -- that frog has a nerd on its butt!
+89596,346,107,485000,Lisa Simpson,School Bus,"Bart, you are the meanest, nastiest little boy that ever lived."
+89597,346,108,489000,Bart Simpson,School Bus,"Hey, there's a dog in the next car lookin' at me. Hey, dog."
+89598,346,109,493000,Lisa Simpson,School Bus,You don't even care how upset I am! But this time you have gone too far.
+89599,346,110,498000,Bart Simpson,School Bus,"What are you gonna do, tell Mom and Dad? They're powerless figureheads."
+89600,346,111,501000,Lisa Simpson,School Bus,"You'll see. Oh, you will see."
+89602,346,113,508000,Bart Simpson,Simpson Home,"Good morning, world! Eat my shorts!"
+89603,346,114,511000,Chief Wiggum,Simpson Home,"There'll be no shorts eaten today, young man."
+89604,346,115,514000,Chief Wiggum,Simpson Home,"Bart Simpson, this is your restraining order. From now on, you must stay at least twenty feet away from your sister."
+89605,346,116,519000,Bart Simpson,Simpson Home,Restraining order?! Bull spit! No piece of paper keeps me from whaling on my sister.
+89607,346,118,526000,Chief Wiggum,SPRINGFIELD JAIL,"So, you see what happens when you don't obey your restraining order?"
+89608,346,119,530000,Bart Simpson,SPRINGFIELD JAIL,"Yes, Chief Wiggum."
+89609,346,120,531000,Chief Wiggum,SPRINGFIELD JAIL,"And Snake, do you see what happens when you kidnap the President?"
+89610,346,121,535000,Snake Jailbird,SPRINGFIELD JAIL,"Yes, Chief Wiggum."
+89611,346,122,537000,Chief Wiggum,SPRINGFIELD JAIL,"And Lou, do you see what happens when my coffee comes back cold?"
+89612,346,123,541000,Lou,SPRINGFIELD JAIL,"Chief, you ordered an ice coffee."
+89613,346,124,543000,Chief Wiggum,SPRINGFIELD JAIL,I said a nice coffee. Nice.
+89616,346,126,550000,Marge Simpson,Simpson Home,"Lisa, you took out a restraining order against your own brother?"
+89617,346,127,553000,Lisa Simpson,Simpson Home,Yes. The clerk also gave me this bench warrant for Dad's arrest.
+89618,346,128,558000,Homer Simpson,Simpson Home,"Aw, dammit! Chief, how are we supposed to live with our kids constantly separated?"
+89619,346,129,563000,Chief Wiggum,Simpson Home,"Hey, I don't make the laws, I just... something with them."
+89620,346,130,567000,Chief Wiggum,Simpson Home,"Look, this videotape should answer all your questions."
+89621,346,131,581000,Announcer,Simpson Home,Get Out Of My Dreams And Also Out Of My Car: A Guide To Your Restraining Order
+89622,346,132,581000,Gary Busey,Simpson Home,"Hi, I'm Gary Busey. I'm here to explain about restraining orders. The answers to all your questions are in this video."
+89623,346,133,595000,Gary Busey,Simpson Home,"""So You've Got A Restraining Order."" Meet Joe. Last name: Spaghetti-o. One night, Joe went to a party and fell in love with a girl named Mary."
+89624,346,134,602000,Gary Busey,Simpson Home,"Oh man, I've been there."
+89625,346,135,604000,Gary Busey,Simpson Home,"At first Joe felt discouraged, but then he remembered what his father taught him: ""Never say die,"" ""Quitters never prosper"", and ""No means yes."""
+89626,346,136,609000,Gary Busey,Simpson Home,The next day Mary got a restraining order against Joe.
+89627,346,137,641000,Gary Busey,Simpson Home,Now Joe can't come within five hundred feet of Mary. He also can't call her or burn his name in gas on her lawn.
+89628,346,138,648000,Gary Busey,Simpson Home,"I'm gonna let you in on a little secret. Joe is me. And Mary is a composite of twelve different women and a small independent film company, all of whom couldn't deal with me because I'm too real."
+89629,346,139,665000,Marge Simpson,Simpson Home,I always hoped we wouldn't be one of those restraining order families.
+89630,346,140,671000,Bart Simpson,Simpson Home,How am I supposed to know if I'm twenty feet away?
+89631,346,141,674000,Homer Simpson,Simpson Home,"Don't worry, son -- no one's gonna make you count to twenty. I have a more humane solution."
+89632,346,142,683000,Homer Simpson,Simpson Home,"This twenty-foot pole will make Bart's restraining order oh-so-easy to enforce. And I used my Sprawl*Mart employee discount to buy this fancy pole cover. It'll keep your pole looking great, poke after poke after poke!"
+89634,346,144,698000,Lisa Simpson,Simpson Home,"Hey, this really works."
+89635,346,145,702000,Bart Simpson,Simpson Home,"Homer, why did you put the screwdriver at the end?"
+89636,346,146,705000,Homer Simpson,Simpson Home,Show you what it's like in the real world!
+89638,346,148,709000,Seymour Skinner,Springfield Elementary School,"Bart, because of your sister's restraining order, there is no place in this school you can legally occupy, without violating your order. Observe."
+89639,346,149,717000,Seymour Skinner,Springfield Elementary School,"A.m. kindergarten made the Bart doll. P.m. kindergarten made the Lisa. The point is, we're not allowed to have you in this building."
+89640,346,150,729000,Bart Simpson,Springfield Elementary School,"Well, I've never been one to break the law..."
+89641,346,151,731000,Bart Simpson,Springfield Elementary School,"So long, Seymour. Gimme a jingle sometime."
+89642,346,152,733000,Seymour Skinner,Springfield Elementary School,I will. But there is one place on school property that falls outside all laws of man or God.
+89643,346,153,741000,Bart Simpson,Springfield Elementary School,No... you don't mean...
+89645,346,155,744000,Bart Simpson,Groundskeeper Willie's Shack,"Oh, this place smells, and something's dripping on me."
+89646,346,156,747000,Groundskeeper Willie,Groundskeeper Willie's Shack,The smell is manure. And the drippin's manure. Now turn to chapter one of Math Safari.
+89647,346,157,754000,Bart Simpson,Groundskeeper Willie's Shack,But we're already on chapter seven.
+89648,346,158,756000,Groundskeeper Willie,Groundskeeper Willie's Shack,Then you'll be teachin' Willie.
+89650,346,160,786000,Dr. Julius Hibbert,Groundskeeper Willie's Shack,I'm afraid your arm has sustained extensive nerve damage. The only cure is this anti-poking potion.
+89651,346,161,794000,Dr. Julius Hibbert,Groundskeeper Willie's Shack,"Oops, missed the vein. Dang, missed it again. Sorry, I'm distracted. My housekeeper is suing me for sexual harassment. She hung the mistletoe. What was I supposed to do?"
+89653,346,163,811000,Lisa Simpson,SPRAWL*MART,"I like eating here with you, Dad. Especially without ""Don't have a cow, man."""
+89654,346,164,815000,Homer Simpson,SPRAWL*MART,"Yeah, he's all ""Cowabunga, dude!"" What's that mean? Nothing, I bet."
+89655,346,165,825000,Lisa Simpson,SPRAWL*MART,"Oops, need more soda."
+89656,346,166,827000,Store Manager,SPRAWL*MART,"Homer, would you be interested in the position of Executive Greeter?"
+89657,346,167,830000,Homer Simpson,SPRAWL*MART,Woo hoo! That's been my dream ever since I heard it existed right now. What do I get?
+89658,346,168,835000,Store Manager,SPRAWL*MART,You get to work overtime without us paying you extra.
+89659,346,169,838000,Homer Simpson,SPRAWL*MART,I won't do it.
+89660,346,170,840000,Store Manager,SPRAWL*MART,"If you don't, we'll ship you right back to Mexico."
+89661,346,171,842000,Homer Simpson,SPRAWL*MART,But I'm a U.S. citizen.
+89662,346,172,844000,Store Manager,SPRAWL*MART,Uh-huh. How sure of that are you?
+89663,346,173,849000,Homer Simpson,SPRAWL*MART,Dios mio!
+89664,346,175,852000,Bart Simpson,Simpson Home,"I can't take it anymore! Every time I try to relax, she-- ow, my neck!"
+89665,346,176,857000,Bart Simpson,Simpson Home,Can't I even finish my milk?
+89668,346,179,867000,Marge Simpson,FAMILY COURT,"Please lift this restraining order, Judge Harm. It's poking our family apart."
+89669,346,180,872000,Judge Harm,FAMILY COURT,"Bart, do you have anything to say?"
+89670,346,181,874000,Bart Simpson,FAMILY COURT,My sister has no sense of humor. I'm sure you understand. It's why you became a judge instead of finding a husband.
+89671,346,182,881000,Judge Harm,FAMILY COURT,I have a husband!
+89672,346,183,882000,Bart Simpson,FAMILY COURT,"What is he, blind and deaf?"
+89673,346,184,884000,Judge Harm,FAMILY COURT,"From now on, the restraining order is set at two hundred feet!"
+89675,346,186,890000,Judge Harm,FAMILY COURT,That's sixty-one meters!
+89677,346,188,893000,Frenchman,FAMILY COURT,Sacre bleu!
+89679,346,190,895000,Homer Simpson,Simpson Home,"Sorry, boy. This is the only place that's two hundred feet from Lisa but still on our property."
+89680,346,191,901000,Bart Simpson,Simpson Home,"It's pretty scary out here, Dad. Dad?"
+89681,346,192,912000,Bart Simpson,Simpson Home,"Well, I bet they miss me."
+89684,346,195,934000,Bart Simpson,Simpson Home,"Well, could be worse."
+89685,346,196,940000,Marge Simpson,Simpson Home,"Bart, Lisa went over to Janey's. Quick, run inside and go potty!"
+89686,346,197,946000,Bart Simpson,Simpson Home,Why should I go inside? The world is my toilet now.
+89689,346,200,967000,Homer Simpson,Store,"Hey, why'd you lock the door? We're still inside!"
+89690,346,201,970000,Store Manager,Store,It's a chance for you to catch up on all the work I'm assigning you now.
+89691,346,202,973000,Homer Simpson,Store,"I've never worked all night, never! And I worked at an all-night diner for three years! I slept on the grill."
+89692,346,203,980000,Store Manager,Store,See this? It's the bathroom key. See you in the morning.
+89693,346,204,985000,Homer Simpson,Store,You monster!
+89695,346,206,989000,Store Manager,Store,We placed a compliance chip in the back of your neck during the company physical.
+89696,346,207,995000,Homer Simpson,Store,"That's it, mister. I am disgruntled. And up until now, I was relatively gruntled!"
+89615,346,208,1001000,Store Manager,Store,"Oh, better increase the juice."
+89697,346,209,1010000,Homer Simpson,Store,I did it! I pulled it out! And with no brain damage-amage-amage-amage-amage-amage.
+89698,346,210,1015000,Homer Simpson,Store,"Now, we'll get all your chips out, go to the police, and shut this place down!"
+89699,346,211,1021000,Employee,Store,"Homer, we took our chips out years ago."
+89700,346,212,1023000,Homer Simpson,Store,Really? Then why do you still work here?!
+89701,346,213,1025000,Employee,Store,We've learned to accept the things we cannot change. And steal everything that's not nailed down.
+89702,346,214,1034000,Employee,Store,I hope you won't judge us harshly...
+89703,346,215,1037000,Homer Simpson,Store,I'll be back for tall kitchen bags!
+89706,346,218,1072000,Marge Simpson,Simpson Home,"Lisa, don't you think your brother's suffered enough?"
+89707,346,219,1076000,Lisa Simpson,Simpson Home,"Mom, I don't mean to be mean. But every time I think about forgiving him, I remember all the bad things he's done to me."
+89708,346,220,1082000,Marge Simpson,Simpson Home,He's done good things for you too.
+89709,346,221,1084000,Lisa Simpson,Simpson Home,Name three.
+89710,346,222,1086000,Marge Simpson,Simpson Home,He brought home your homework when you were sick.
+89711,346,223,1089000,Lisa Simpson,Simpson Home,"Yes, but he thought that was a bad thing."
+89712,346,224,1092000,Marge Simpson,Simpson Home,"Well, let's count that anyway."
+89713,346,225,1093000,Lisa Simpson,Simpson Home,He did try to cheer me up when my hamster died.
+89714,346,226,1103000,SIX-YEAR-OLD-BART,Simpson Home,"Homer, you forgot to eat your hot dog."
+89715,346,227,1107000,Homer Simpson,Simpson Home,"Mmm, hot dog."
+89719,346,231,1125000,Homer Simpson,Simpson Home,I just don't understand what the problem is.
+89721,346,233,1130000,Lisa Simpson,Simpson Home,"Okay, that's two... ...and that's it. If I think of another one, I'll let him back in."
+89723,346,235,1146000,Lisa Simpson,Simpson Home,"Stupid, selfish Bart. Like he's ever gonna do another nice thing for me..."
+89725,346,237,1157000,Lisa Simpson,Simpson Home,"He's building a me! Well, I mean, it's a little American-primitive... but who am I to dismiss outsider art? It shows he misses me... and this is the third thing!"
+89727,346,239,1171000,Bart Simpson,Bart's Sylvan Glade,"Lis, just let me be!"
+89728,346,240,1173000,Bart Simpson,Bart's Sylvan Glade,Look in your heart. I'm beggin' ya. Look in your heart.
+89729,346,241,1176000,Lisa Simpson,Bart's Sylvan Glade,"Bart, don't worry."
+89730,346,242,1176000,Lisa Simpson,Bart's Sylvan Glade,I'm relinquishing the poke-pole.
+89731,346,243,1179000,Bart Simpson,Bart's Sylvan Glade,What does that mean? You're sharpening it?
+89732,346,244,1180000,Bart Simpson,Bart's Sylvan Glade,Look in your heart. I'm beggin' ya. Look in your heart.
+89733,346,245,1183000,Lisa Simpson,Bart's Sylvan Glade,I'm not sharpening it!
+89734,346,246,1184000,Bart Simpson,Bart's Sylvan Glade,Are you putting feces on the tip?
+89735,346,247,1185000,Lisa Simpson,Bart's Sylvan Glade,"No, I'm giving it up!"
+89736,346,248,1190000,Lisa Simpson,Bart's Sylvan Glade,I've realized how much I missed you -- and I can see from this magnificent Lisa statue that you felt the same way.
+89737,346,249,1196000,Bart Simpson,Bart's Sylvan Glade,"Oh... uh... yeah. When you're right, you're right. Let's eat."
+89738,346,250,1201000,Jimbo Jones,Bart's Sylvan Glade,"Yo Bart, we're ready to torch the wicker witch of the west."
+89739,346,251,1205000,Kearney Zzyzwicz,Bart's Sylvan Glade,"Jimbo, the real one's here."
+89740,346,252,1207000,Jimbo Jones,Bart's Sylvan Glade,Oh man. This is every effigist's worst nightmare.
+89741,346,253,1212000,Lisa Simpson,Bart's Sylvan Glade,"Bart, you were gonna burn the third nice thing you've ever done for me?"
+89742,346,254,1217000,Bart Simpson,Bart's Sylvan Glade,"Well, you see... the fire represents... your musical ability?"
+89743,346,255,1224000,Lisa Simpson,Bart's Sylvan Glade,"Aww, Bart, I missed your lies... And I was kind of a pill. I guess."
+89744,346,256,1230000,Bart Simpson,Bart's Sylvan Glade,Lisa... you just poked my feelings. I'm sorry too.
+89745,346,257,1235000,Lisa Simpson,Bart's Sylvan Glade,Gimme that torch.
