@@ -9,7 +9,7 @@ import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 
-
+import com.opencsv.CSVReader;
 
 public class Practica3 {
     private static void readData(){
