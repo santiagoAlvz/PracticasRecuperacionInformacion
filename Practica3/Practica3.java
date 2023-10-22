@@ -6,10 +6,10 @@ import java.io.FileReader;
 import java.io.Reader;
 import java.io.IOException;
 
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVParser;
-import org.apache.commons.csv.CSVRecord;
-
+// import org.apache.commons.csv.CSVFormat;
+// import org.apache.commons.csv.CSVParser;
+// import org.apache.commons.csv.CSVRecord;
+import com.opencsv.CSVReader;
 
 public class Practica3 {
     private static void readData(){
