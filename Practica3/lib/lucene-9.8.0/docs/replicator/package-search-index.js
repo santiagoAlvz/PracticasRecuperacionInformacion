@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.apache.lucene.replicator"},{"l":"org.apache.lucene.replicator.http"},{"l":"org.apache.lucene.replicator.nrt"}]

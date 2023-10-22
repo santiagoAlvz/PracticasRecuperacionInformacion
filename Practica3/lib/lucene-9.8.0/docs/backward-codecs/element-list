@@ -1,0 +1,17 @@
+org.apache.lucene.backward_codecs
+org.apache.lucene.backward_codecs.compressing
+org.apache.lucene.backward_codecs.lucene40.blocktree
+org.apache.lucene.backward_codecs.lucene50
+org.apache.lucene.backward_codecs.lucene50.compressing
+org.apache.lucene.backward_codecs.lucene60
+org.apache.lucene.backward_codecs.lucene70
+org.apache.lucene.backward_codecs.lucene80
+org.apache.lucene.backward_codecs.lucene84
+org.apache.lucene.backward_codecs.lucene86
+org.apache.lucene.backward_codecs.lucene87
+org.apache.lucene.backward_codecs.lucene90
+org.apache.lucene.backward_codecs.lucene91
+org.apache.lucene.backward_codecs.lucene92
+org.apache.lucene.backward_codecs.lucene94
+org.apache.lucene.backward_codecs.packed
+org.apache.lucene.backward_codecs.store

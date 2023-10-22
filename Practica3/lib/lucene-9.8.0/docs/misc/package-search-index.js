@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.apache.lucene.misc"},{"l":"org.apache.lucene.misc.document"},{"l":"org.apache.lucene.misc.index"},{"l":"org.apache.lucene.misc.search"},{"l":"org.apache.lucene.misc.store"},{"l":"org.apache.lucene.misc.util"},{"l":"org.apache.lucene.misc.util.fst"}]

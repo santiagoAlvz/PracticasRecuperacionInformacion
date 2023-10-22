@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.apache.lucene.search.spell"},{"l":"org.apache.lucene.search.suggest"},{"l":"org.apache.lucene.search.suggest.analyzing"},{"l":"org.apache.lucene.search.suggest.document"},{"l":"org.apache.lucene.search.suggest.fst"},{"l":"org.apache.lucene.search.suggest.tst"}]

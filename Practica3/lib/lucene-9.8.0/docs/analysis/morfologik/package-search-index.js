@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.apache.lucene.analysis.morfologik"},{"l":"org.apache.lucene.analysis.uk"}]

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.apache.lucene.analysis.ja"},{"l":"org.apache.lucene.analysis.ja.completion"},{"l":"org.apache.lucene.analysis.ja.dict"},{"l":"org.apache.lucene.analysis.ja.tokenattributes"},{"l":"org.apache.lucene.analysis.ja.util"}]
