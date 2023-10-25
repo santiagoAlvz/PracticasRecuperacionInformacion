@@ -18,11 +18,20 @@ import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 
 public class Practica3 {
-    private static void readData(){
-        String folderPath = "CapitulosUnidos"; // Path to the folder containing the files
+    public static final int CAPITULOS_UNIDOS_RATING = 4;
+    public static final int CAPITULOS_UNIDOS_VOTES = 5;
+    public static final int CAPITULOS_CHARACTER = 4;
 
-        File folder = new File(folderPath);
-        File[] files = folder.listFiles();
+    private static void readData(){
+        File folder;
+        String folderPath;
+        File[] files;
+
+        //Obtaining average rating and votes
+        folderPath = "CapitulosUnidos"; // Path to the folder containing the files
+        folder = new File(folderPath);
+        files = folder.listFiles();
+
         Float sum_rating = 0.0f;
         Float sum_votes = 0.0f;
         int num_files = 0;
@@ -42,8 +51,8 @@ public class Practica3 {
                         int i = 1;
                         firstLine = csvReader.readNext();
                         while((nextRecord = csvReader.readNext()) != null){
-                            Float rating = Float.parseFloat(nextRecord[4]);
-                            Float vote = Float.parseFloat(nextRecord[5]);
+                            Float rating = Float.parseFloat(nextRecord[CAPITULOS_UNIDOS_RATING]);
+                            Float vote = Float.parseFloat(nextRecord[CAPITULOS_UNIDOS_VOTES]);
                             sum_rating += rating;
                             sum_votes += vote;
                             i++;
@@ -68,7 +77,6 @@ public class Practica3 {
 
         //Obtaining the average characters that have dialogue
         folderPath = "Capitulos"; // Path to the folder containing the files
-
         folder = new File(folderPath);
         files = folder.listFiles();
 
@@ -94,7 +102,7 @@ public class Practica3 {
                         firstLine = csvReader.readNext();
 
                         while((nextRecord = csvReader.readNext()) != null){
-                            characters.add(nextRecord[4]);
+                            characters.add(nextRecord[CAPITULOS_CHARACTER]);
                         }
                         
                         reader.close();
@@ -117,8 +125,10 @@ public class Practica3 {
 
 
     public static void main(String[] args) {
+        //Read csv files and obtain stats
         readData();
 
+        //Build and test the custom analyzer
         try {
 
             CharacterTextAnalyzer charAnalyzer = new CharacterTextAnalyzer();
