@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.apache.lucene.payloads"},{"l":"org.apache.lucene.sandbox.codecs.idversion"},{"l":"org.apache.lucene.sandbox.document"},{"l":"org.apache.lucene.sandbox.index"},{"l":"org.apache.lucene.sandbox.queries"},{"l":"org.apache.lucene.sandbox.search"}]

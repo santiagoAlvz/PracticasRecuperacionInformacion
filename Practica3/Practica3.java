@@ -10,6 +10,13 @@ import java.util.*;
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvValidationException;
 
+import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.pattern.SimplePatternSplitTokenizer;
+import org.apache.lucene.analysis.core.LowerCaseFilter;
+import org.apache.lucene.analysis.miscellaneous.TrimFilter;
+import org.apache.lucene.analysis.TokenStream;
+import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
+
 public class Practica3 {
     private static void readData(){
         String folderPath = "CapitulosUnidos"; // Path to the folder containing the files
@@ -111,6 +118,38 @@ public class Practica3 {
 
     public static void main(String[] args) {
         readData();
+
+        try {
+
+            CharacterTextAnalyzer charAnalyzer = new CharacterTextAnalyzer();
+            String text = "Ralph Wiggum, Miss Hoover, Chief Wiggum, Milhouse Van Houten, JANEY, Hayseed #2, Agnes Skinner, Apu Nahasapeemapetilon, Marge Simpson, Class, Nelson Muntz, Company, Homer Simpson, Sherri Mackleberry, Baby Bart, Lisa Simpson, Gary Chalmers, Seymour Skinner, Groundskeeper Willie, Rowdy Soldier, Colonel, Private, Ned Flanders, Martin Prince, Flanders's Beatnik Dad, Kearney Zzyzwicz, Hayseed #1, Leopold, Luigi, Jimbo Jones, Bart Simpson, Edna Krabappel-Flanders, Lunchlady Doris";
+
+            TokenStream sf = charAnalyzer.tokenStream(null, text);
+
+            System.out.println("\nCustom Analyzer demo: ");
+            System.out.println("Initial text: " + text);
+            System.out.println("Obtained tokens:");
+            
+            sf.reset();
+            while (sf.incrementToken()) {
+                System.out.println("\t" + sf.getAttribute(CharTermAttribute.class));
+            }
+            sf.end();
+            sf.close();
+
+        } catch (IOException e){
+            System.out.println(e.getMessage());
+        }
+    }  
+}
+
+public class CharacterTextAnalyzer extends Analyzer {
+
+    @Override
+    protected TokenStreamComponents createComponents(String fieldName) {
+        SimplePatternSplitTokenizer src = new SimplePatternSplitTokenizer(",");
+        TokenStream result = new LowerCaseFilter(src);
+        result = new TrimFilter(result);
+        return new TokenStreamComponents(src, result);
     }
-    
 }

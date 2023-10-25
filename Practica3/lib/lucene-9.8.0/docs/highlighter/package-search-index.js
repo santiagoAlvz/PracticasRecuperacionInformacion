@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.apache.lucene.search.highlight"},{"l":"org.apache.lucene.search.matchhighlight"},{"l":"org.apache.lucene.search.uhighlight"},{"l":"org.apache.lucene.search.vectorhighlight"}]

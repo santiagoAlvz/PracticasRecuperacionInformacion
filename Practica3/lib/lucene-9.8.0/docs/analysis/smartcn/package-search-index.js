@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.apache.lucene.analysis.cn.smart"},{"l":"org.apache.lucene.analysis.cn.smart.hhmm"}]
