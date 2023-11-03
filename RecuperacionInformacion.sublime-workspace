@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"inde",
+				"indexPath"
+			],
+			[
+				"Index",
+				"IndexWriter"
+			],
+			[
+				"ana",
+				"analyzer"
+			],
+			[
+				"Inde",
+				"IndexWriterConfig"
+			],
+			[
 				"pr",
 				"println"
 			],
@@ -498,27 +514,57 @@
 			[
 				"Fixed",
 				"FixedUpdate"
-			],
-			[
-				"border-c",
-				"border-collapse"
-			],
-			[
-				"light",
-				"lightblue"
-			],
-			[
-				"spac",
-				"space-around"
-			],
-			[
-				"input",
-				"inputFileObject"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "Practica4/CharacterTextAnalyzer.java",
+			"settings":
+			{
+				"buffer_size": 659,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Practica4/EpisodeIndexer.java",
+			"settings":
+			{
+				"buffer_size": 1317,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					2,
+					"right_delete",
+					null,
+					"AgAAAJgBAAAAAAAAmAEAAAAAAAAGAAAAaW1wb3J0mAEAAAAAAACYAQAAAAAAAAEAAAAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACYAQAAAAAAAJ4BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "ean"
+					},
+					"AwAAADACAAAAAAAAMQIAAAAAAAAAAAAAMQIAAAAAAAAyAgAAAAAAAAAAAAAyAgAAAAAAADMCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwAgAAAAAAADACAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "Practica4/Practica4.java",
+			"settings":
+			{
+				"buffer_size": 505,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -613,15 +659,27 @@
 	},
 	"expanded_folders":
 	[
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica2",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica3",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica3/lib",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/lib"
 	],
 	"file_history":
 	[
+		"/home/santiago/Descargas/eclipse-inst-jre-linux64/eclipse-installer/https",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/src/main/com/practica4/Practica4.java",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/src/main/com/practica4/EpisodeIndexer.java",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/CharacterTextAnalyzer.java",
 		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/EpisodeIndexer.java",
 		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/Practica4.java",
-		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/.gitignore",
 		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica3/CapitulosUnidos/100_All_simpsons_script_lines.csv",
-		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica2/Practica2.java",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica2/Practica2RI.pdf",
 		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica3/Practica3.java",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/.gitignore",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/RecuperacionInformacion.sublime-project",
+		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica2/Practica2.java",
 		"/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica3/lib/lucene-9.8.0/bin/luke.cmd",
 		"/home/santiago/Descargas/24_10_2023.html",
 		"/home/santiago/OneDrive/7moSemestre/LogicaProgramacion/Ejercicios/Practica2.hs",
@@ -737,13 +795,7 @@
 		"/var/www/html/styles/songs.css",
 		"/var/www/html/styles/index.css",
 		"/var/www/html/songs/index.php",
-		"/home/santiago/Proyectos/RankMaker/yarn-error.log",
-		"/var/www/env.php",
-		"/var/www/html/functions/getSongs.php",
-		"/var/www/html/functions/getSongArtists.php",
-		"/var/www/html/songs/info.php",
-		"/var/www/html/functions/getSongDetails.php",
-		"/home/santiago/OneDrive/6toSemestre/Implementacion/Project/IBM-CareerTracker/ibm_career/src/css/mainfooter.css"
+		"/home/santiago/Proyectos/RankMaker/yarn-error.log"
 	],
 	"find":
 	{
@@ -786,6 +838,103 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Practica4/CharacterTextAnalyzer.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/CharacterTextAnalyzer.java",
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Practica4/EpisodeIndexer.java",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								563,
+								563
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/EpisodeIndexer.java",
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 326.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Practica4/Practica4.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/Practica4.java",
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -826,7 +975,7 @@
 	},
 	"output.Terminus":
 	{
-		"height": 327.0
+		"height": 509.0
 	},
 	"output.diagnostics":
 	{
@@ -910,7 +1059,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 315.0,
+	"side_bar_width": 470.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
