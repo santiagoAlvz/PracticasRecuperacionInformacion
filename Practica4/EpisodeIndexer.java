@@ -55,6 +55,7 @@ public class EpisodeIndexer {
 		close();
 	}
 	
+	
 	public void close() {
 		try {
 			writer.commit();
