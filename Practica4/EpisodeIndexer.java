@@ -5,7 +5,7 @@ import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.search.similarities.Similarity;
 import org.apache.lucene.search.similarities.ClassicSimilarity;
-import import org.apache.lucene.index.IndexWriter;
+import org.apache.lucene.index.IndexWriter;
 
 import java.util.Map;
 import java.util.HashMap;
@@ -13,7 +13,7 @@ import java.util.HashMap;
 public class EpisodeIndexer {
 
 	private IndexWriter writer;
-	bool create = false;
+	boolean create = false;
 
 	EpisodeIndexer(boolean overwrite){
 		create = overwrite;
