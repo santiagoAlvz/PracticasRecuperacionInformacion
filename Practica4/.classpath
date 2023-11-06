@@ -8,5 +8,7 @@
 	<classpathentry kind="src" path=""/>
 	<classpathentry kind="lib" path="/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/lib/lucene-analysis-common-9.8.0.jar"/>
 	<classpathentry kind="lib" path="/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/lib/lucene-core-9.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/lib/commons-lang3-3.13.0.jar"/>
+	<classpathentry kind="lib" path="/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/lib/opencsv-5.8.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
