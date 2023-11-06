@@ -1,0 +1,234 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+35176,159,1,33000,Homer Simpson,Simpson Home,"Marge, can't we get some clear plates? I can't see the TV."
+35177,159,2,39000,Marge Simpson,Simpson Home,Is it really necessary to watch TV while we're eating? We're getting food all over.
+35178,159,3,60000,Homer Simpson,Simpson Home,Yoink.
+35179,159,4,63000,Bart Simpson,Simpson Home,"If you really wanted us to be neater, you'd serve us out of one long bowl."
+35180,159,5,66000,Marge Simpson,Simpson Home,You're talking about a trough! We're not going to eat from a trough! And another thing -- it's only 5:15. Why are you in your underwear?
+35181,159,6,75000,Bart Simpson,Simpson Home,"Hey, this ain't the Ritz."
+35182,159,7,77000,Marge Simpson,Simpson Home,"At least let's have a civilized conversation, shall we? Lisa, how was school?"
+35183,159,8,83000,Lisa Simpson,Simpson Home,How was what? What?
+35184,159,9,85000,Marge Simpson,Simpson Home,School. School.
+35185,159,10,86000,Lisa Simpson,Simpson Home,It's no time for school.
+35186,159,11,88000,Marge Simpson,Simpson Home,I know it's not! I'm going into the dining room to have a conversation. Anyone who wants to join me is welcome.
+35188,159,12,97000,Marge Simpson,Simpson Home,Hello Marge. How's the family? I don't want to talk about it. Mind your own business.
+35189,159,13,103000,Homer Simpson,Simpson Home,"Keep it down in there, everybody."
+35190,159,14,105000,Marge Simpson,Simpson Home,"Homer, is this the way you pictured married life?"
+35191,159,15,109000,Homer Simpson,Simpson Home,"Yup, pretty much. Except we drove around in a van solving mysteries."
+35192,159,16,113000,Marge Simpson,Simpson Home,"Well, I pictured cocktail parties and candle-lit dinners. I pictured napkins... Homer, I want to throw a dinner party."
+35193,159,17,120000,Homer Simpson,Simpson Home,"Oh, I hate having parties. The toilet always gets backed up."
+35194,159,18,124000,Marge Simpson,Simpson Home,"I don't care if the sink shoots sludge, we're having a party."
+35196,159,20,133000,Otto Mann,Upscale Kitchen Store,"Man, that is flagrant false advertising."
+35198,159,22,141000,Marge Simpson,Stoner's Pot Palace,"It's just not a dinner party without a melon baller. And we'll need a citrus zester... a ravioli crimper... Ooh, an oyster mallet! ""Made in U.S.A.""? Eh, no thank you!"
+35199,159,23,155000,Bart Simpson,Stoner's Pot Palace,Hey Lis -- check this out. Non-stick coating.
+35200,159,24,163000,Bart Simpson,Stoner's Pot Palace,"Oooh, a punch bowl like that just screams good taste. Wouldn't it be perfect for the dinner party?"
+35201,159,25,170000,Homer Simpson,Stoner's Pot Palace,"Oh, we can't afford that. Who do you think I am, Liz Taylor?"
+35202,159,26,174000,Marge Simpson,Stoner's Pot Palace,Well... maybe we could use it once and then return it.
+35203,159,27,178000,Homer Simpson,Stoner's Pot Palace,"Marge, we're not talking about a toothbrush here."
+35206,159,30,185000,Marge Simpson,Simpson Home,"Bart, company's coming. Go put doilies under the coasters. Hurry! Hurry!"
+35207,159,31,193000,Marge Simpson,Simpson Home,"Lisa, quick. Screw these back on."
+35208,159,32,195000,Lisa Simpson,Simpson Home,"Mom, calm down. The party's not for another three hours."
+35209,159,33,198000,Marge Simpson,Simpson Home,"Oh, good. That will give me time to add another coat of glaze to the ham."
+35210,159,34,222000,Marge Simpson,Simpson Home,Homer?!
+35211,159,35,224000,Homer Simpson,Simpson Home,Whaaaaaat?!
+35212,159,36,225000,Marge Simpson,Simpson Home,Are you ready?
+35213,159,37,226000,Homer Simpson,Simpson Home,I just gotta put my shoes on.
+35214,159,38,228000,Marge Simpson,Simpson Home,The only thing I asked you to do for this party was put on clothes. And you didn't do it.
+35215,159,39,233000,Marge Simpson,Simpson Home,"And now it's too late -- they're here. Bart, greet our guests and take their coats."
+35187,159,40,241000,Bart Simpson,Simpson Home,"Mom, Reverend Lovejoy doesn't have a coat. Should I let him in?"
+35216,159,41,245000,Rev. Timothy Lovejoy,Simpson Home,My coat was stolen at last week's interfaith banquet. So I helped myself to a few of the better umbrellas.
+35217,159,42,252000,Dr. Julius Hibbert,Simpson Home,"Well, as you can see, we don't believe fur is murder. But paying for it sure is."
+35219,159,44,259000,Kirk Van Houten,Simpson Home,"Uh, sorry we're late, but Luann had to put on her face. She doesn't want anyone to know she's got no eyebrows."
+35220,159,45,266000,Kirk Van Houten,Simpson Home,What? You don't!
+35221,159,46,273000,Marge Simpson,Simpson Home,"So, did anyone see that new Woodsy Allen movie?"
+35222,159,47,276000,Ned Flanders,Simpson Home,"Y'know, I like his films, except for that nervous fella who's always in 'em."
+35223,159,48,280000,Luann Van Houten,Simpson Home,"If you want to talk nervous, you should have seen Kirk deal with the high school boys who egged our Bonneville."
+35224,159,49,285000,Kirk Van Houten,Simpson Home,"Huh. I should have asked them to hurl some bacon, then maybe I coulda had a decent breakfast for once."
+35225,159,50,294000,Homer Simpson,Simpson Home,"You know what you two need? A little comic strip called ""Love Is."" It's about two naked eight year olds who are married."
+35226,159,51,308000,Dr. Julius Hibbert,Simpson Home,"Marge, if that was my last meal, I'd tell the warden ""Bring on the lethal injection."""
+35227,159,52,308000,Kirk Van Houten,Simpson Home,"Yeah. Marge, I know I haven't eaten that well since I was in the army."
+35228,159,53,318000,Luann Van Houten,Simpson Home,Or that noisily.
+35229,159,54,319000,Kirk Van Houten,Simpson Home,"All right, that's it!"
+35230,159,55,321000,Marge Simpson,Simpson Home,So who wants to play a game? Hmm? Hmm? Hmm?
+35231,159,56,324000,Ned Flanders,Simpson Home,"Oo, that's a noodle scratcher."
+35232,159,57,328000,Maude Flanders,Simpson Home,Corn starch!
+35233,159,58,331000,Ned Flanders,Simpson Home,"Oh, righty-o! It's good for keeping down the urges."
+35234,159,59,336000,Kirk Van Houten,Simpson Home,"Come on, Luann, you know what this is."
+35235,159,60,340000,Luann Van Houten,Simpson Home,"Kirk, I don't know what it is."
+35236,159,61,342000,Kirk Van Houten,Simpson Home,"It could not be more simple, Luann. You want me to show this to the cat and have the cat tell you what it is? 'Cause the cat's gonna get it."
+35237,159,62,351000,Luann Van Houten,Simpson Home,"I'm sorry I'm not as smart as you, Kirk. We didn't all go to Gudger College."
+35238,159,63,356000,Kirk Van Houten,Simpson Home,It's dignity! Gah! Don't you even know dignity when you see it?
+35239,159,64,361000,Luann Van Houten,Simpson Home,"Kirk, you're spitting."
+35240,159,65,362000,Kirk Van Houten,Simpson Home,"Okay, genius, why don't you draw dignity?!"
+35241,159,66,371000,All,Simpson Home,It's very good. /
+35122,159,67,371000,Ned Flanders,Simpson Home,"That's dignity, all right."
+35156,159,68,372000,Dr. Julius Hibbert,Simpson Home,Worthy of Webster's.
+35242,159,69,376000,Kirk Van Houten,Simpson Home,"Well, it's no wonder I can't draw dignity. I gave it up when I married her."
+35243,159,70,380000,Rev. Timothy Lovejoy,Simpson Home,"Now, Kirk, it's only a game. Sometimes we --"
+35244,159,71,383000,Kirk Van Houten,Simpson Home,"Oh, cram it, Churchy!"
+35245,159,72,385000,Marge Simpson,Simpson Home,Maybe we should all have a few drinks.
+35246,159,73,388000,Luann Van Houten,Simpson Home,"I'd have a drink, but it might loosen my tongue."
+35247,159,74,390000,Kirk Van Houten,Simpson Home,"You wanna talk? Go ahead, Luann, talk! Why don't you tell 'em one of your little bedtime stories, huh? Like the one about how rotten it is to be married to a loser; or how about the one about how I carry a change-purse? Yeah, a purse!"
+35248,159,75,404000,Homer Simpson,Simpson Home,Shut up and let the woman talk.
+35249,159,76,406000,Luann Van Houten,Simpson Home,"Okay, Kirk, I'll tell a story. It's about a man whose father-in-law gave him a sweet job as manager of a cracker factory..."
+35250,159,77,413000,Homer Simpson,Simpson Home,Boring!
+35251,159,78,414000,Luann Van Houten,Simpson Home,A man whose complete lack of business sense and managerial impotence...
+35252,159,79,418000,Homer Simpson,Simpson Home,"Ooh, here we go!"
+35253,159,80,419000,Luann Van Houten,Simpson Home,...sent the number one cracker factory in town into a tie for sixth with Table Time and Allied Biscuit.
+35254,159,81,424000,Kirk Van Houten,Simpson Home,"You wanna hear a secret, everybody? Luann loves it -- loves it! -- when I fail!"
+35255,159,82,430000,Luann Van Houten,Simpson Home,"Oh, yes, Kirk. I love having to borrow money from my sister! I love having to steal clothes from the church donation box!"
+35256,159,83,436000,Rev. Timothy Lovejoy,Simpson Home,"Oh, sweet Jesus!"
+35257,159,84,440000,Marge Simpson,Simpson Home,Lisa! Why don't you come sing for us!
+35258,159,85,442000,Lisa Simpson,Simpson Home,You're a grand old flag / You're a high flying flag / Etc...
+35259,159,86,444000,Kirk Van Houten,Simpson Home,"Oh, great. You got the kid singing! I hope you're happy now!"
+35260,159,87,447000,Luann Van Houten,Simpson Home,I am not happy. And I haven't been happy for a long time. I want a divorce!
+35261,159,88,456000,Kirk Van Houten,Simpson Home,"A divorce?! Sure, divorce. Hey, you got it, toots. And here's a picture even you can figure out."
+35262,159,89,468000,Kirk Van Houten,Simpson Home,It's a door. Use it!
+35263,159,90,470000,Homer Simpson,Simpson Home,That's a door?
+35264,159,91,474000,Bart Simpson,Simpson Home,"Hello, I'm Dr. Hibbert. I'm afraid I'm going to have to amputate your butt."
+35265,159,92,482000,Milhouse Van Houten,Simpson Home,"Alright, if you think you must."
+35266,159,93,485000,Luann Van Houten,Simpson Home,"Come on, Milhouse, we're going!"
+35267,159,94,487000,Milhouse Van Houten,Simpson Home,"Aw, can't I come home later?"
+35268,159,95,489000,Luann Van Houten,Simpson Home,There's not going to be a home later.
+35269,159,96,491000,Milhouse Van Houten,Simpson Home,"Oh, okay. Ta-ta, I'm off to the beauty salon."
+35270,159,97,496000,Homer Simpson,Simpson Home,"G'night... Thanks for coming... We'll see you... Ba-bye... Well, I think that went pretty well."
+35271,159,98,509000,Kirk Van Houten,Simpson Home,What?
+35272,159,99,515000,Marge Simpson,Simpson Home,I feel terrible. The Van Houtens split up at our party.
+35273,159,100,519000,Homer Simpson,Simpson Home,"Marge, please, that was twenty minutes ago."
+35274,159,101,522000,Marge Simpson,Simpson Home,"I shouldn't have served those North Korean fortune cookies. They were so insulting: ""You are a coward."" No one likes to hear that after a nice meal."
+35275,159,102,530000,Homer Simpson,Simpson Home,You can't keep blaming yourself. Just blame yourself once and move on.
+35276,159,103,535000,Marge Simpson,Simpson Home,You know who the real victim is in all this? Milhouse.
+35278,159,105,542000,Nelson Muntz,School Bus,"Hey, Van Houten! I heard your folks broke up."
+35279,159,106,546000,Milhouse Van Houten,School Bus,"Aren't you going to say ""Haw haw?"""
+35280,159,107,549000,Nelson Muntz,School Bus,"Oh, by no means."
+35281,159,108,551000,Nelson Muntz,School Bus,"My dad left my mom after she got hooked on cough drops. By the end, her breath was so fresh, she wasn't really my mother anymore."
+35282,159,109,561000,Milhouse Van Houten,School Bus,"Oh, so I guess I'm not alone."
+35283,159,110,564000,Kearney Zzyzwicz,School Bus,"Heh, you'll do fine. My divorce was tough on my kid, but he got over it."
+35284,159,111,569000,"Kearney, Jr.",School Bus,I sleep in a drawer.
+35286,159,113,573000,Luann Van Houten,Van Houten Home,I dig the nightlife... 'Got to boogie...
+35287,159,114,585000,Marge Simpson,Van Houten Home,"I must say, Luann, you're really handling this splendidly."
+35288,159,115,590000,Luann Van Houten,Van Houten Home,"From now on, forget everything you thought you knew about Luann Van Houten --"
+35289,159,116,595000,Marge Simpson,Van Houten Home,"Actually, Luann, I don't really know anything about yo--"
+35290,159,117,598000,Luann Van Houten,Van Houten Home,Forget it. She's gone. Presto change-o. Kaboom! Sweet Fannie Adams! Bye-bye!
+35293,159,120,607000,Kirk Van Houten,Casa Nova,"Uh, singles life is great, Homer. I can do whatever I want. Today I drank a beer in the bathroom."
+35294,159,121,614000,Homer Simpson,Casa Nova,The one down the hall.
+35295,159,122,616000,Kirk Van Houten,Casa Nova,Yeah. And another great thing: you get your own bed.
+35296,159,123,619000,Kirk Van Houten,Casa Nova,I sleep in a racing car. Do you?
+35297,159,124,622000,Homer Simpson,Casa Nova,I sleep in a big bed with my wife.
+35298,159,125,624000,Kirk Van Houten,Casa Nova,"Oh, yeah."
+35299,159,126,630000,Single Man,Casa Nova,"Hey there, Kirk."
+35300,159,127,631000,Kirk Van Houten,Casa Nova,"Oh boy, what's going on? Patio party?"
+35301,159,128,635000,Single Man,Casa Nova,"Nah, a possum drowned in the pool. Do you have any garbage bags?"
+35302,159,129,638000,Kirk Van Houten,Casa Nova,"Uh, just throw it over the fence. Let Arby's worry about it."
+35303,159,130,642000,Kirk Van Houten,Casa Nova,That's Jerry. He's a major player down at the sewing store.
+35304,159,131,646000,Homer Simpson,Casa Nova,Thanks for introducing me.
+35305,159,132,648000,Kirk Van Houten,Casa Nova,"Oh, don't worry, Homer. You know me. And I'm a superstar at the cracker factory."
+35307,159,134,653000,Kirk Van Houten,Cracker Factory,You're letting me go?
+35309,159,136,656000,Cracker Executive,Southern Cracker,"Kirk, crackers are a family food. Happy families. Maybe single people eat crackers -- we don't know. Frankly, we don't want to know. But, it's a market we can do without."
+35310,159,137,667000,Kirk Van Houten,Southern Cracker,"So that's it after twenty years? ""So long. Good luck?"""
+35311,159,138,670000,Cracker Executive,Southern Cracker,"I don't recall saying ""good luck."""
+35313,159,140,674000,Milhouse Van Houten,LUANN'S HOUSE,And the winner of the Milhouse 500 is... Milhouse!
+35314,159,141,680000,Luann Van Houten,LUANN'S HOUSE,"Milhouse, are you sure you want to drive that inside?"
+35315,159,142,684000,Milhouse Van Houten,LUANN'S HOUSE,Yes.
+35316,159,143,685000,Luann Van Houten,LUANN'S HOUSE,"Okay. Be careful, sweet, sweet treasure."
+35317,159,144,690000,Chase,LUANN'S HOUSE,"God I missed you, Lulu."
+35318,159,145,693000,Luann Van Houten,LUANN'S HOUSE,"Chase, it's only been three hours."
+35319,159,146,697000,Bart Simpson,LUANN'S HOUSE,Who's Chase?
+35320,159,147,698000,Milhouse Van Houten,LUANN'S HOUSE,"Oh, that's Mom's new boyfriend."
+35321,159,148,700000,Bart Simpson,LUANN'S HOUSE,"Hey, I know you from ""American Gladiators."" You're Pyro!"
+35322,159,149,704000,Chase,LUANN'S HOUSE,"Only on weekends. During the week, I'm just your average work-a-day stunt man."
+35323,159,150,709000,Bart Simpson,LUANN'S HOUSE,Really?
+35324,159,151,710000,Chase,LUANN'S HOUSE,"Go ahead, break a chair on me."
+35325,159,152,714000,Bart Simpson,LUANN'S HOUSE,"Wow, thanks!"
+35326,159,153,716000,Chase,LUANN'S HOUSE,"Okay, boys, I've gotta go. C'mon Lulu, let's roll."
+35329,159,156,736000,Homer Simpson,Simpson Home,What the hell is wrong with you?!!
+35331,159,157,738000,Bart Simpson,Simpson Home,"Jeez, sorry. It's a pretty standard stunt, Homer."
+35332,159,158,742000,Marge Simpson,Simpson Home,"Homer, get ready!"
+35333,159,159,744000,Homer Simpson,Simpson Home,For what?
+35334,159,160,745000,Marge Simpson,Simpson Home,Remember? Luann and Chase are taking us out to hear Spalding Gray.
+35335,159,161,749000,Homer Simpson,Simpson Home,I don't wanna go to that.
+35336,159,162,751000,Marge Simpson,Simpson Home,You said you'd do it as a favor to me.
+35337,159,163,753000,Homer Simpson,Simpson Home,That doesn't sound like something I'd say.
+35338,159,164,756000,Marge Simpson,Simpson Home,Fine. I'll go without you.
+35339,159,165,758000,Homer Simpson,Simpson Home,Okay. Love you.
+35341,159,167,764000,Kirk Van Houten,Moe's Tavern,Homer! I want you to meet my new special lady. Say hello to Starla.
+35342,159,168,771000,Starla,Moe's Tavern,"Can I have the keys to the car, lover? I feel like changing wigs."
+35343,159,169,776000,Kirk Van Houten,Moe's Tavern,Okay.
+35344,159,170,779000,Kirk Van Houten,Moe's Tavern,Starla's a temp at K-ZUG Radio 530. She's going to help me launch my singing career.
+35345,159,171,786000,Kirk Van Houten,Moe's Tavern,My car!
+35346,159,172,791000,Kirk Van Houten,Moe's Tavern,Oh! My demo tape!
+35347,159,173,796000,Homer Simpson,Moe's Tavern,"""Can I Borrow A Feeling?"" ""Can I Borrow A Feeling?"" There's your picture on the front."
+35348,159,174,806000,Kirk Van Houten,Moe's Tavern,"Go ahead, Homer. Laugh at me."
+35349,159,175,809000,Homer Simpson,Moe's Tavern,I already did.
+35350,159,176,811000,Kirk Van Houten,Moe's Tavern,"You know why all this happened, don't you? 'Cause I took my marriage for granted. Y'know, in twelve years, I never once helped out with the housework."
+35351,159,177,820000,Homer Simpson,Moe's Tavern,Oh yeah. You gotta do that.
+35352,159,178,821000,Kirk Van Houten,Moe's Tavern,I could've at least stayed in shape for her.
+35353,159,179,824000,Homer Simpson,Moe's Tavern,"Oh, and for yourself."
+35354,159,180,825000,Kirk Van Houten,Moe's Tavern,I could've taken just a little time to... to make her feel special.
+35355,159,181,829000,Homer Simpson,Moe's Tavern,It can't just be sex. It can't.
+35356,159,182,830000,Kirk Van Houten,Moe's Tavern,"God, I was so self-centered. No wonder I didn't see it coming. That's how it is, though: one day your wife is making you your favorite meal, the next day you're thawing a hot dog in a gas station sink."
+35357,159,183,843000,Homer Simpson,Moe's Tavern,"Ooh, that's tough, pal. But it's never going to happen to me."
+35358,159,184,847000,Kirk Van Houten,Moe's Tavern,"Oh, how do you know? What makes you guys so special?"
+35359,159,185,851000,Homer Simpson,Moe's Tavern,'Cause Marge and I have one thing that can never be broken: a strong marriage built on a solid foundation of routine.
+35360,159,187,860000,Homer Simpson,Simpson Home,"Marge, I'm home! Where are you? Are you okay? I don't smell dinner!"
+35361,159,188,866000,Homer Simpson,Simpson Home,"""Dear Homer,"" aww. ""Sorry you didn't want to join me tonight. I left you hot dogs for dinner. They're thawing in the sink."""
+35363,159,190,873000,Lisa Simpson,Simpson Home,"Hi, Dad. You know, there's buns in the cabinet."
+35364,159,191,890000,Homer Simpson,Simpson Home,"Lisa, wait! I know you're only eight years old and I don't wanna put a lot of pressure on you, but you've got to save my marriage."
+35365,159,192,897000,Lisa Simpson,Simpson Home,"Oh, okay. Can I stay up?"
+35366,159,193,900000,Homer Simpson,Simpson Home,All right.
+35367,159,194,905000,Homer Simpson,Simpson Home,"As you know, there's been a lot of talk about divorce lately, and I think your mom might not be happy with me."
+35368,159,195,911000,Lisa Simpson,Simpson Home,You've done a lot of crazy stuff over the years and she's stood by you. Why would she leave you now?
+35369,159,196,916000,Homer Simpson,Simpson Home,'Cause there's lots of stuff she doesn't know about.
+35370,159,197,918000,Lisa Simpson,Simpson Home,You mean like your poker shack out in the swamp?
+35371,159,198,920000,Homer Simpson,Simpson Home,Mm-hm.
+35372,159,199,921000,Lisa Simpson,Simpson Home,She knows.
+35373,159,200,922000,Homer Simpson,Simpson Home,"Oh, I knew this would happen. Our whole marriage started off on the wrong foot."
+35375,159,202,928000,Flashback Homer,Las Vegas,See? You don't have to spend a lot of money to have a first-class wedding reception.
+35376,159,203,958000,Flashback Marge,Las Vegas,"It's getting less and less likely you're going to yell ""Surprise"" and have all my friends jump out..."
+35377,159,204,965000,Flashback Homer,Las Vegas,"""Levi's."" Hey, you think that truck is full of jeans?"
+35378,159,205,972000,Lisa Simpson,Las Vegas,You're very lucky to have Mom.
+35379,159,206,977000,Homer Simpson,Las Vegas,That's your advice?! Go to bed!
+35381,159,208,984000,Homer Simpson,Simpson Home,"Good morning. You know, Marge, I was thinking about how much I enjoy your interests, so I wandered over to that theater you went to last night. And I bought tickets to their entire season."
+35382,159,209,996000,Homer Simpson,Simpson Home,"Look -- ""Mostly Madrigals."" Hey, that might be good. Ooh, ooh, ""An Evening With Philip Glass."" Just an evening? ""Voices of the Elderly Poor."""
+35383,159,210,1012000,Marge Simpson,Simpson Home,"Homie, I appreciate this, but I'd really like to get some sleep."
+35384,159,211,1018000,Homer Simpson,Simpson Home,"Oh, of course, my sweet. I'll just make some soothing ocean sounds for you."
+34591,159,212,1035000,Homer Simpson,Simpson Home,"Aaar, matey."
+35387,159,215,1047000,Marge Simpson,Beauty Salon,"Edmondo, don't you think you're taking a lot off -- Ah!... Homer! What are you doing?!"
+35388,159,216,1053000,Homer Simpson,Beauty Salon,I wanted to surprise you with a kicky summer 'do. How many husbands would do that for their wives?
+35389,159,217,1058000,Marge Simpson,Beauty Salon,None! They would have more sense than that.
+35390,159,218,1060000,Homer Simpson,Beauty Salon,Ooh! You're feisty. I'm gonna give you a Madonna cut.
+35391,159,219,1065000,Marge Simpson,Beauty Salon,"Homer, I don't need you around me 24 hours a day. I'm a grown woman -- I can take care of myself. Now, will you please just go away!"
+35393,159,221,1076000,Homer Simpson,Springfield,"Oh, I've just made things worse. A few clumsy gestures aren't going to make up for 10 years of neglect. Marge deserves someone who will treat her right. Marge deserves a fresh start."
+35395,159,223,1095000,Homer Simpson,County Court House,"I'd like to file, for divorce."
+35396,159,224,1101000,Clerk,County Court House,These things happen eight dollars.
+35398,159,226,1104000,Marge Simpson,Simpson Home,"Only three cavities, Bart. Your best check-up ever. I'm going to make you my specialty -- butterscotch chicken."
+35399,159,227,1111000,Homer Simpson,Simpson Home,Marge? Can you come in here? We need to talk.
+35400,159,228,1122000,Crowd,Simpson Home,Surprise!
+35402,159,230,1130000,Homer Simpson,Simpson Home,"Marge, will you marry me?"
+35403,159,231,1132000,Marge Simpson,Simpson Home,Why? Am I pregnant?
+35404,159,232,1135000,Homer Simpson,Simpson Home,"No, it's a second wedding, Honey. Our first one was so crummy, I had to make it up to you. I really love you."
+35405,159,233,1143000,Marge Simpson,Simpson Home,"Oh, Homie. I know you love me. We don't need to get married again."
+35406,159,234,1148000,Homer Simpson,Simpson Home,"Yes, we do. I got us a divorce this afternoon."
+35407,159,235,1152000,Marge Simpson,Simpson Home,What?
+35408,159,236,1153000,Homer Simpson,Simpson Home,"I didn't want a hokey second wedding like those ones on TV. This one is for real. I want our marriage to be perfect, right from the start, so we don't end up like Kirk and Luann."
+35409,159,237,1164000,Marge Simpson,Simpson Home,We never will.
+35410,159,238,1168000,Rev. Timothy Lovejoy,Simpson Home,Dearly beloved --
+35411,159,239,1169000,Homer Simpson,Simpson Home,Wait! I want one last chance to enjoy single life.
+35412,159,240,1176000,Homer Simpson,Simpson Home,"Okay, ready."
+35414,159,241,1177000,Rev. Timothy Lovejoy,Simpson Home,"I will now read the special vows which Homer has prepared for this occasion. Do you Marge take Homer, in richness and in poorness?... Poorness is underlined... In impotence and in potence? In quiet solitude or blasting across the alkali flats in a jet-powered monkey-navigated -- And it goes on like this."
+35415,159,242,1201000,Homer Simpson,Simpson Home,It doesn't matter. All I want to know is: Will you make me the luckiest guy in the world... again?
+35416,159,243,1209000,Marge Simpson,Simpson Home,"I will. Oh Homie, of course I will."
+35417,159,244,1215000,Rev. Timothy Lovejoy,Simpson Home,"By the power vested in me, I now pronounce you husband and wife."
+35418,159,245,1228000,Marge Simpson,Simpson Home,It's the most perfect wedding I could ever ask for. You even got a hip rock 'n' roll combo.
+35419,159,246,1234000,COMBO FRONTMAN,Simpson Home,"Okay, everybody. Who likes the Doobie Brothers? 'Cause we got one of them."
+35420,159,247,1244000,Marge Simpson,Simpson Home,What a wonderful evening! A magical way for two people to renew their love.
+35421,159,248,1252000,Kirk Van Houten,Simpson Home,Marge is right.
+35422,159,249,1254000,Kirk Van Houten,Simpson Home,I've got something I'd like to say.
+35423,159,250,1256000,Kirk Van Houten,Simpson Home,Would you guys do a favor for a guy in love?
+35424,159,251,1259000,Bandmembers,Simpson Home,Sure! / Yeah! / That's why we're here.
+35425,159,252,1262000,Kirk Van Houten,Simpson Home,"Hi everybody. Uh, hi. And hit it! CAN I BORROW A FEELING? / COULD YOU LEND ME A JAR OF LOVE? / HURTIN' HEARTS NEED SOME HEALIN' / TAKE MY HAND WITH YOUR GLOVE OF LOVE."
+35426,159,253,1295000,Kirk Van Houten,Simpson Home,"How about it, Luann? Will you marry me... again?"
+35427,159,254,1299000,Luann Van Houten,Simpson Home,Ewwwww! No!
+35428,159,255,1301000,Kirk Van Houten,Simpson Home,"Oh. Well, uh, can I have my shirts back, at least?"
+35429,159,256,1305000,Chase,Simpson Home,"Okay, you heard the lady. Why don't you take it outside, all right?"
+35430,159,257,1309000,Kirk Van Houten,Simpson Home,"Uh, I'll be back."
+35431,159,258,1312000,Kirk Van Houten,Simpson Home,Probably.

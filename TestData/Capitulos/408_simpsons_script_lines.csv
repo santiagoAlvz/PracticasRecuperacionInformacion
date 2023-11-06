@@ -1,0 +1,250 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+105861,408,1,33000,Latino Male Clerk,SHOPPING CENTER,"Can I help you with that, sir?"
+105862,408,2,35000,Moe Szyslak,SHOPPING CENTER,Oh no. I ain't tippin' some jerk two bucks to tie a TV to my car. Mama Moe didn't raise no fools.
+105863,408,3,45000,Moe Szyslak,SHOPPING CENTER,"Well, I guess I can just keep watching DVDs by following family vans around."
+105864,408,4,53000,Moe Szyslak,SHOPPING CENTER,Big Bird in China? Won't Grover get lonely?
+105865,408,5,55000,Moe Szyslak,SHOPPING CENTER,"Oh no, wait. He's hangin' out with Derek Jeter."
+105867,408,7,59000,Homer Simpson,GADGET GULCH,"Now ignore all the fancy-shmancy thingamajigs, boy. We're just gonna get a camera battery and go home."
+105868,408,8,65000,Salesman #1,GADGET GULCH,Interested in a car stereo?
+105869,408,9,66000,Homer Simpson,GADGET GULCH,No thanks -- just here for a battery.
+105870,408,10,68000,Salesman #2,GADGET GULCH,Big special on camcorders!
+105871,408,11,69000,Homer Simpson,GADGET GULCH,All I want is a battery.
+105872,408,12,71000,Sexy Saleswoman,GADGET GULCH,"Care to make love, sir?"
+105873,408,13,72000,Homer Simpson,GADGET GULCH,"Battery, battery, battery!"
+105874,408,14,74000,Homer Simpson,GADGET GULCH,Hmm...
+105875,408,15,76000,Homer Simpson,GADGET GULCH,No...
+105876,408,16,78000,Homer Simpson,GADGET GULCH,Bingo!
+105877,408,17,79000,Homer Simpson,GADGET GULCH,"One battery, please."
+105878,408,18,81000,Cashier,GADGET GULCH,"That'll be fifty cents -- or free, with the purchase of a $200 TiVO plus a two-year contract."
+105879,408,19,87000,Homer Simpson,GADGET GULCH,Sold! Sucker.
+105880,408,20,93000,Cashier,GADGET GULCH,"Sir, your TiVO?"
+105881,408,21,95000,Homer Simpson,GADGET GULCH,My what now?
+105884,408,23,98000,Homer Simpson,Simpson Home,"C'mon, Lisa! The TV's been off for five whole minutes!"
+105885,408,24,105000,Lisa Simpson,Simpson Home,"The TiVo is installed! Now we can watch shows, and skip the commercials!"
+105888,408,27,134000,Krusty the Clown,The Krusty the Clown Show,"Will Itchy win again? Or will somethin' else happen? We'll find out, right after these ten commercials."
+105889,408,28,139000,Lisa Simpson,The Krusty the Clown Show,Oh no we won't!
+105891,408,30,146000,Homer Simpson,The Krusty the Clown Show,"I spit on your corpse, advertiser-supported television!"
+105892,408,31,152000,Krusty the Clown,The Krusty the Clown Show,And now for the exciting conclusion!
+105893,408,32,159000,Itchy,The Krusty the Clown Show,Oh the hilarity!
+105894,408,33,167000,Marge Simpson,The Krusty the Clown Show,"Without the commercial interruption, I could really follow the story. TiVo, you've got a season pass to my heart."
+105896,408,35,178000,Marge Simpson,Simpson Home,"Ooo, Opal!"
+105897,408,36,183000,Opal,Simpson Home,Sounds like you've given us some words to eat by. Doctor Chef will be back after these messages!
+105898,408,37,190000,Marge Simpson,Simpson Home,"Here's a message for you: Ba-doop, ba-doop, ba-doop!"
+105899,408,38,195000,Opal,Simpson Home,"Welcome back. I have some big, big news: my boyfriend Straightman just proposed..."
+105901,408,40,201000,Opal,Simpson Home,...that we go on separate vacations again this year!
+105903,408,42,206000,Marge Simpson,Simpson Home,I think I'll speed through the cheering.
+105905,408,44,215000,Marge Simpson,Simpson Home,"Oh TiVo remote, you've changed my life."
+105906,408,45,219000,Marge Simpson,Simpson Home,"I've gotten so much accomplished: I saved ""Lost"", watched all of ""Rome"" in a day, and got through ""Two and a Half Men"" in two and a half minutes. Then I ran out of space and had to choose between ""Sophie's Choice"" and ""Schindler's List."""
+105907,408,46,233000,Homer Simpson,Simpson Home,Why is everything Hollywood makes so excellent? Whyyyy?
+105908,408,47,239000,Keith Olbermann,Simpson Home,Marge Simpson!
+105909,408,48,243000,Marge Simpson,Simpson Home,Keith Olbermann?!
+105910,408,49,244000,Keith Olbermann,Simpson Home,"That's right, content burglar Marge Simpson! You've been watching TV shows, but skipping the commercials that pay for them. That makes you... the worst person in the world!"
+105911,408,50,258000,Marge Simpson,Simpson Home,"Oh, lighten up. You TV fat cats have plenty of money. My cousin Maureen saw you flying in Business Class!"
+105912,408,51,265000,Keith Olbermann,Simpson Home,"I was upgraded against my will! Look Marge, you think I'm handsome, don't you?"
+105913,408,52,270000,Marge Simpson,Simpson Home,Of course.
+105914,408,53,271000,Keith Olbermann,Simpson Home,"Well, it takes a team of twenty people to keep me that way! Without ad money, I'd look like a swamp monster from a child's nightmare!"
+105915,408,54,279000,Keith Olbermann,Simpson Home,And under here I look even worse.
+105916,408,55,281000,Keith Olbermann,Simpson Home,Then it gets better...then even worse!
+105917,408,56,285000,Marge Simpson,Simpson Home,Stop it! Stop it!!! I'll watch the commercials!
+105919,408,58,293000,Football Player,LIVING ROOM SET (COMMERCIAL),"That's why this is the only mop endorsed by me, former NFL draft pick, Ryan Leaf."
+105920,408,59,299000,Lisa Simpson,LIVING ROOM SET (COMMERCIAL),"Mom, what are you doing?"
+105921,408,60,300000,Marge Simpson,LIVING ROOM SET (COMMERCIAL),"I'm honoring America's advertisers. Then we're going to buy some toothpaste, lease a new car, and vote ""yes"" on Prop Eighty-Seven."
+105922,408,61,307000,Lisa Simpson,LIVING ROOM SET (COMMERCIAL),No! No! Prop Eighty-Seven lets big polluters off the hook!
+105923,408,62,311000,Marge Simpson,LIVING ROOM SET (COMMERCIAL),Impossible! Their commercial featured a talking frog.
+105924,408,63,315000,Talking Frog,LIVING ROOM SET (COMMERCIAL),So tell those idiots in the state capital to let Union Carbide do their thing.
+105925,408,64,320000,Disclaimer Announcer,LIVING ROOM SET (COMMERCIAL),Paid for by cartoon frogs for wetlands destruction.
+105926,408,65,326000,Tall Cowboy,LIVING ROOM SET (COMMERCIAL),"Howdy, folks! Are you tired of family arguments over where to go to dinner?"
+105927,408,66,330000,Homer Simpson,LIVING ROOM SET (COMMERCIAL),Sometimes I think about gettin' on a bus and never comin' back.
+105928,408,67,334000,Tall Cowboy,LIVING ROOM SET (COMMERCIAL),Why not try Wes Doobner's World Famous Family Style Rib Huts! The rib joint with something for everyone.
+105929,408,68,340000,Homer Simpson,LIVING ROOM SET (COMMERCIAL),"Good luck, with my finicky appetite."
+105930,408,69,343000,Wes Doobner,LIVING ROOM SET (COMMERCIAL),We've got ribs...
+105931,408,70,343000,Homer Simpson,LIVING ROOM SET (COMMERCIAL),Sold!
+105932,408,71,344000,Wes Doobner,LIVING ROOM SET (COMMERCIAL),Plain noodles...
+105933,408,72,345000,Marge Simpson,LIVING ROOM SET (COMMERCIAL),Eh.
+105934,408,73,345000,Wes Doobner,LIVING ROOM SET (COMMERCIAL),With butter...
+105935,408,74,347000,Marge Simpson,LIVING ROOM SET (COMMERCIAL),Yowza!
+105936,408,75,348000,Wes Doobner,LIVING ROOM SET (COMMERCIAL),Texas tofu!
+105937,408,76,348000,Lisa Simpson,LIVING ROOM SET (COMMERCIAL),"Yummy, yumma!"
+105938,408,77,350000,Wes Doobner,LIVING ROOM SET (COMMERCIAL),And the easiest placemat puzzle in the state...
+105939,408,78,353000,Bart Simpson,LIVING ROOM SET (COMMERCIAL),Lemme at it!
+105942,408,80,355000,Lisa Simpson,Freeway,WE'RE GOING TO A REST'RANT GRAND OP'NING / WE'RE GOING TO A REST'RANT GRAND OP'NING...
+105944,408,82,360000,Lisa Simpson,Car,WE'RE GOING TO A REST'RANT GRAND OP'NIIIIIIIING... / BUT DON'T FILL UP ON BREAD!
+105945,408,83,367000,Homer Simpson,Car,THAT'S HOW THEY GETCHA!
+105947,408,85,370000,Marge Simpson,FREEWAY OFFRAMP,That's odd -- there doesn't seem to be anyone here.
+105949,408,87,373000,Homer Simpson,Simpson Car,More ribs for me!
+105951,408,89,375000,Bart Simpson,RIB RESTAURANT,There aren't any tables or chairs.
+105952,408,90,377000,Homer Simpson,RIB RESTAURANT,More ribs for me!
+105953,408,91,379000,Lisa Simpson,RIB RESTAURANT,"I see no grill, oven, or food of any kind."
+105954,408,92,382000,Homer Simpson,RIB RESTAURANT,More ribs for me?
+105956,408,94,386000,Wes Doobner,RIB RESTAURANT,"Hello, Simpsons."
+105957,408,95,392000,Homer Simpson,RIB RESTAURANT,"Finally, some service. Now listen. We wanna sit under a cool state license plate -- Michigan or better."
+105958,408,96,398000,Wes Doobner,RIB RESTAURANT,Silence! You've all stumbled into my ingenious trap.
+105959,408,97,402000,Lisa Simpson,RIB RESTAURANT,That voice!
+105960,408,98,404000,Lisa Simpson,RIB RESTAURANT,That commercial was a trick -- specifically designed to lure our family here!
+105961,408,99,409000,Lisa Simpson,RIB RESTAURANT,"And ""Wes Doobner's World Famous Family Style Rib Huts"" is actually an anagram!"
+105962,408,100,414000,Sideshow Bob,RIB RESTAURANT,"Welcome to ""Sideshow Bob's World Famous Family Style Return!"""
+105963,408,101,422000,Lisa Simpson,RIB RESTAURANT,Sideshow Bob!
+105964,408,102,423000,Sideshow Bob,RIB RESTAURANT,And now you're all going to die -- just because you watched a television commercial!
+105965,408,103,427000,Homer Simpson,RIB RESTAURANT,"Next time a commercial comes on, I'm gonna close my eyes, cover my ears and scream as loud as I can."
+105967,408,105,438000,Sideshow Bob,RIB RESTAURANT,"Before you die, perhaps you'd like to know how I engineered my ultimate revenge."
+105968,408,106,443000,Homer Simpson,RIB RESTAURANT,I'd like to know if Wes Doobner is aware of what you're doing in his restaurant.
+105969,408,107,447000,Sideshow Bob,RIB RESTAURANT,I'm Wes Doobner.
+105970,408,108,449000,Homer Simpson,RIB RESTAURANT,"Mr. Doobner, I have a complaint: I work hard, and when I go out with my family, I expect a certain level of basic--"
+105971,408,109,449000,Sideshow Bob,RIB RESTAURANT,"Shut up! Now, since last we met..."
+105973,408,110,457000,Bart Simpson,RIB RESTAURANT,"Oh great, here it comes -- all the boring things you've done since the last time you didn't kill us."
+105974,408,111,462000,Lisa Simpson,RIB RESTAURANT,You never ask what we've been up to. We went to the strawberry patch and I picked the most strawberries!
+105975,408,112,467000,Sideshow Bob,RIB RESTAURANT,"Shut up! This time, to liven up my tale, I brought along some visual aides. Just call me... Slideshow Bob!"
+105976,408,113,475000,Homer Simpson,RIB RESTAURANT,Nobody do it.
+105977,408,114,477000,Sideshow Bob,RIB RESTAURANT,"Here, we see Krusty helping you escape my clutches in Rome. After that, my family and I fled to England, where I found work as a chimney brush."
+105978,408,115,486000,Sideshow Bob,RIB RESTAURANT,Here's Buckingham Palace...
+105979,408,116,490000,Sideshow Bob,RIB RESTAURANT,"Sorry, there's a lot of these..."
+105980,408,117,492000,Sideshow Bob,RIB RESTAURANT,Bear with me...
+105981,408,118,498000,Bart Simpson,RIB RESTAURANT,"Yeah, yeah, we've all been to England. Is this going somewhere?"
+105982,408,119,501000,Sideshow Bob,RIB RESTAURANT,I never stopped plotting my revenge.
+105983,408,120,504000,Sideshow Bob,RIB RESTAURANT,"I snuck into America amidst a bunch of undocumented Canadian comedy writers for The Jimmy Kimmel Show, whatever that is."
+105984,408,121,511000,Sideshow Bob,RIB RESTAURANT,"Then, it was merely a matter of constructing my trap...and producing the commercial that lured you to your dooms. Which, by the way, got me an offer to direct a feature."
+105985,408,122,521000,Lisa Simpson,RIB RESTAURANT,Which one?
+105986,408,123,522000,Sideshow Bob,RIB RESTAURANT,"""The Hills Have Eyes Three: The Hills Still Have Eyes"". And now, the moment we've all been waiting for..."
+105987,408,124,526000,Homer Simpson,RIB RESTAURANT,"Finally, the ribs."
+105988,408,125,528000,Sideshow Bob,RIB RESTAURANT,"You shall all perish in a tragic accident caused by a defective laptop battery, that will overheat, then explode, setting off this TNT."
+105990,408,127,539000,Sideshow Bob,RIB RESTAURANT,"Let's not tarry -- As Shakespeare said, ""If it were done when 'tis done, then 'twere best it were done quickly."""
+105991,408,128,540000,Sideshow Bob,RIB RESTAURANT,Power on...
+105993,408,130,551000,Sideshow Bob,RIB RESTAURANT,"This time, I've made no mistakes."
+105994,408,131,555000,Lisa Simpson,RIB RESTAURANT,"Actually, you made one. What Shakespeare really said was ""'twere well it were done quickly."""
+105995,408,132,557000,Sideshow Bob,RIB RESTAURANT,"Yes, I'm sure you've studied the Immortal Bard extensively under your Miss Hoover."
+105996,408,133,568000,Lisa Simpson,RIB RESTAURANT,"Macbeth, act one, scene seven. Look it up!"
+105997,408,134,574000,Sideshow Bob,RIB RESTAURANT,I shall.
+105941,408,135,581000,Sideshow Bob,RIB RESTAURANT,"Come on, Wikipedia, load, you unwieldy behemoth--"
+105972,408,136,587000,Sideshow Bob,RIB RESTAURANT,"Oh dear -- Sideshow Bob, ""hoist on his own petard."""
+105852,408,137,588000,Lisa Simpson,RIB RESTAURANT,"It's ""hoist with his own petard."""
+105790,408,138,588000,Sideshow Bob,RIB RESTAURANT,"Oh, get a life."
+105999,408,139,597000,Homer Simpson,RIB RESTAURANT,Yet another new restaurant fails.
+106001,408,141,600000,Kent Brockman,Wes Doobner's Restaurant,Ten time attempted murderer and celebrity Jeopardy runner-up Sideshow Bob is in custody again.
+106003,408,143,615000,Bailiff,Courthouse,Next case: People versus Sideshow Bob.
+106005,408,145,619000,Judge Snyder,Courtroom,Is the defendant's attorney present?
+106006,408,146,621000,Sideshow Bob,Courtroom,"Your honor, I choose to represent myself. And let me say... I did try to kill the Simpsons. I truly did."
+106008,408,148,627000,District Attorney,Courtroom,"Okay, if he doesn't say ""but"" right now, we are home free."
+106009,408,149,631000,Sideshow Bob,Courtroom,But...
+106010,408,150,631000,District Attorney,Courtroom,Damn!
+106011,408,151,633000,Sideshow Bob,Courtroom,"...I plead not guilty, by reason of insanity! Insanity caused by my persecution at the hands of this young boy."
+106012,408,152,641000,Bart Simpson,Courtroom,Young? I'm the oldest kid in my class! By like two years.
+106013,408,153,645000,Sideshow Bob,Courtroom,"For my first witness I call my father, Dr. Robert Terwilliger, Senior."
+106014,408,154,649000,Lisa Simpson,Courtroom,"Look, that's Sideshow Bob's mother -- Dame Judith Underdunk! She's the greatest classical actress of her generation."
+106015,408,155,656000,Lenny Leonard,Courtroom,"Dame Judith, you were brilliant in ""Troilus and Cressida."" Did they name the Toyota Cressida after the play, or the play after the car?"
+106016,408,156,663000,Sideshow Bob's Mother,Courtroom,My son is on trial for his life.
+106017,408,157,666000,Lenny Leonard,Courtroom,"I'm sorry, I know this is a terrible time. So just answer quick."
+106018,408,158,669000,Sideshow Bob's Mother,Courtroom,"Play first, then car."
+106019,408,159,670000,Lenny Leonard,Courtroom,I just lost a thousand dollars.
+106020,408,160,673000,Sideshow Bob's Father,Courtroom,"Robert was a peaceful boy, sickly and weak from a congenital heart defect."
+106021,408,161,678000,Jury,Courtroom,Awwww...
+106022,408,162,679000,Sideshow Bob's Father,Courtroom,But then that Simpson boy started tormenting him and he crossed over into dementia.
+106023,408,163,685000,Sideshow Bob,Courtroom,To what degree was this dementia blown?
+106024,408,164,688000,Sideshow Bob's Father,Courtroom,Full.
+106026,408,166,690000,Bart Simpson,Courtroom,Stop feeling sorry for him! He's a homicidal maniac! He deserves to fry!
+106028,408,168,694000,Sideshow Bob,Courtroom,"You see? He knows I'm going through a rough patch, still he harangues me."
+106030,408,169,701000,Sideshow Bob,Courtroom,Who among you have not suffered at the hands of this demon scamp and felt the urge for retribution?
+106031,408,170,709000,Luigi,Courtroom,He ordered prank pizzas to eight eight eight Poopy Pants Lane! Poopy Pants Lane ends in the seven-hundred block!
+106032,408,171,717000,Cletus Spuckler,Courtroom,He mocked my folksy ways!
+106033,408,172,719000,Homer Simpson,Courtroom,He cheats at Uno!
+106034,408,173,728000,Bart Simpson,Courtroom,Bob's playing all of you like saps. This man's a killer!
+106035,408,174,730000,Sideshow Bob,Courtroom,"See how he accuses me -- at my very own trial! I can take no more! I didn't want to use this, but you've left me no choice!"
+106036,408,175,743000,Sideshow Bob,Courtroom,Nitroglycerin! Everybody panic!
+106038,408,177,747000,Bart Simpson,Courtroom,"Yoink! Foiled again, freak!"
+106039,408,178,752000,Sideshow Bob,Courtroom,You don't understand! I... I...
+106040,408,179,765000,Sideshow Bob's Mother,Courtroom,That nitroglycerin was medicine for Robert's congenital heart defect!
+106041,408,180,769000,Sideshow Bob's Father,Courtroom,To which my earlier testimony referred.
+106042,408,181,774000,Dr. Julius Hibbert,Courtroom,This man is dead. And you killed him.
+106044,408,183,778000,Dr. Julius Hibbert,Courtroom,"Ew, gross -- I'm touching a dead guy!"
+106046,408,185,787000,Kent Brockman,Springfield,"America has a tradition of turning outlaws into legends after their deaths. Billy the Kid. Bonnie and Clyde. Jesus Christ. Joining them now is Robert ""Sideshow Bob"" Terwilliger, whose funeral we're presenting with live shovel-to-shovel coverage."
+106047,408,186,801000,Kent Brockman,Springfield,"And there we see Bob's grieving parents, his brother Cecil -- let out of prison for the occasion -- his widow, Francesca, and his son, Gino."
+106048,408,187,809000,Kent Brockman,Springfield,Also in attendance are Bob's colleagues from the world of clowning. A veritable who's who of ha-ha.
+106050,408,189,827000,Krusty the Clown,First Church of Springfield,"FAREWELL, SIDESHOW BOB / YOUR SHOES ARE EMPTY AND THE STAGE IS DARK / BART STOLE YOUR NITROGLYCERIN / AND THEN YOUR HEART INFARCKED..."
+106051,408,190,849000,Krusty the Clown,First Church of Springfield,AND IT SEEMS TO ME YOUR LOYAL FANS / OUGHTA BUY THIS DVD...
+106052,408,191,857000,Krusty the Clown,First Church of Springfield,OF ALL YOUR BEST-LOVED SKETCHES / ON THE KRUSTY SHOW...
+106053,408,192,865000,Krusty the Clown,First Church of Springfield,"IT'S FULL OF EXTRA FEATURES / AND DELETED SCENES / LIKE WHEN YOU FELL AND SPLIT YOUR PANTS / AND WE SAW YOUR ""FRANK AND BEANS."""
+106055,408,193,888000,Krusty the Clown,First Church of Springfield,There's the kid who killed my best friend! Buy my DVD.
+106056,408,194,898000,Marge Simpson,First Church of Springfield,"Bart, I know this is nuts, but try to look sad."
+106057,408,195,901000,Bart Simpson,First Church of Springfield,I'm not sad. I have nothing to be sad about. Nothing!
+106058,408,196,905000,Marge Simpson,First Church of Springfield,"Well, I guess the rest of us should pay our respects."
+106059,408,197,908000,Homer Simpson,First Church of Springfield,"Yeah, well, between you and me, I still can't stand him."
+106060,408,198,913000,Homer Simpson,First Church of Springfield,I still can't stand him... I still can't stand him... I still can't stand him...
+106061,408,199,918000,Homer Simpson,First Church of Springfield,I don't care about these church jerks... church jerks... church jerks...
+106062,408,200,923000,Marge Simpson,First Church of Springfield,"Homer, your behavior is heinous."
+106063,408,201,926000,Marge Simpson,First Church of Springfield,...anus! ...anus! ...anus!
+106065,408,203,929000,Bart Simpson,Springfield Sidewalk,Stupid Sideshow Bob. Even when he's dead he wrecks my life. I hope he's in hell eating a barf burger.
+106066,408,204,935000,Cecil Terwilliger,Springfield Sidewalk,"I once felt that way, too."
+106067,408,205,937000,Bart Simpson,Springfield Sidewalk,"Hey, aren't you Bob's brother?"
+106068,408,206,939000,Cecil Terwilliger,Springfield Sidewalk,"Biologically, yes, but we never got along. He was always zigging when I zagged. That summer when he wanted to tour the castles of Italy, I wanted to tour the castles of France. So we went to Spain, a compromise that satisfied no one."
+106069,408,207,950000,Bart Simpson,Springfield Sidewalk,"That's stupid. You talk like you're smart, but you're stupid."
+106070,408,208,953000,Cecil Terwilliger,Springfield Sidewalk,"Anyway, I choose to remember Bob as the big brother who taught me to play ""Botticelli."""
+106071,408,209,958000,Bart Simpson,Springfield Sidewalk,Sounds boring.
+106072,408,210,959000,Cecil Terwilliger,Springfield Sidewalk,"Oh, you'd love it! It's a guessing game in which one player adopts the guise of a noteworthy-- you're right, it is boring. But the only way you'll find happiness is by making your peace with Bob."
+106073,408,211,970000,Bart Simpson,Springfield Sidewalk,"Well, I guess I could say goodbye."
+106074,408,212,973000,Cecil Terwilliger,Springfield Sidewalk,"You'd better make it snappy. They're cremating him in thirty minutes. I'll be scattering his ashes over the castles of France! Take that, ashes!"
+106076,408,214,986000,Milhouse Van Houten,Street,Hey Bart! You're on the front page of the paper.
+106077,408,215,989000,Bart Simpson,Street,I'm going to set things right. Wanna come with me?
+106079,408,216,992000,Milhouse Van Houten,Street,"I would, but tonight my dad's taking me to the batting cage. He's gonna teach me to umpire! Check it out -- an official Major League ball/strike counter!"
+106080,408,217,1001000,Milhouse Van Houten,Street,"Ball one, ball two, strike one... Bart? Bart?"
+106082,408,219,1014000,Milhouse Van Houten,Simpson Home,"Hi, Lisa. Hate to mix B with P, but your family owes me for two weeks."
+106083,408,220,1019000,Marge Simpson,Simpson Home,"Milhouse, have you seen Bart?"
+106084,408,221,1021000,Milhouse Van Houten,Simpson Home,Bart Simpson? I think he went to pay his respects to Sideshow Bob. Mind if I sit down for a second?
+106085,408,222,1027000,Milhouse Van Houten,Simpson Home,My feet are killing me.
+106086,408,223,1029000,Lisa Simpson,Simpson Home,Feet? Killing?! We gotta save Bart!
+106087,408,224,1033000,Homer Simpson,Simpson Home,Now?
+106088,408,225,1033000,Homer Simpson,Simpson Home,But I'm getting a home perm!
+106089,408,226,1033000,Lisa Simpson,Simpson Home,Now!
+106091,408,228,1042000,Bart Simpson,Funeral Home,"Bob, it's me, Bart. I came here to tell you I never meant for you to die. I just wanted you to go to jail and get beat up a lot. Now everyone wishes I was dead..."
+106092,408,229,1052000,Sideshow Bob,Funeral Home,Then let's give the people what they want!
+106093,408,230,1057000,Bart Simpson,Funeral Home,Ahhhhh! Sideshow Bob!
+106097,408,234,1077000,Lisa Simpson,Simpson Car,Bob planned this from the beginning --
+106098,408,235,1077000,Homer Simpson,Simpson Car,Uh-huh.
+106099,408,236,1079000,Lisa Simpson,Simpson Car,He wanted to be captured at the restaurant!
+106100,408,237,1079000,Homer Simpson,Simpson Car,Yes.
+106101,408,238,1081000,Lisa Simpson,Simpson Car,He would never get a Shakespeare quote wrong --
+106102,408,239,1081000,Homer Simpson,Simpson Car,No.
+106103,408,240,1083000,Lisa Simpson,Simpson Car,His mother was a Shakespearean actress!
+106104,408,241,1083000,Homer Simpson,Simpson Car,Oh yeah!
+106105,408,242,1085000,Lisa Simpson,Simpson Car,His father is a doctor...
+106106,408,243,1085000,Homer Simpson,Simpson Car,"A doctor, huh?"
+106107,408,244,1087000,Lisa Simpson,Simpson Car,...so when Bob collapsed in the courtroom...
+106108,408,245,1087000,Homer Simpson,Simpson Car,I remember.
+106109,408,246,1089000,Lisa Simpson,Simpson Car,...his father could take that opportunity to inject Bob with a powerful drug that simulated death.
+106110,408,247,1095000,Homer Simpson,Simpson Car,Uh-huh.
+106111,408,248,1095000,Lisa Simpson,Simpson Car,"It was a diabolical scheme, and every member of his family played a part!"
+106112,408,249,1100000,Homer Simpson,Simpson Car,Are you done? 'Cause I've been circling the funeral home for ten minutes.
+105821,408,250,1100000,Lisa Simpson,Simpson Car,Yes.
+106078,408,253,1107000,Bart Simpson,CASKET,"Cool, I found a trapdoor that leads to an underground city. Here I go!"
+106054,408,254,1117000,Bart Simpson,CASKET,"Oh my God, it's beautiful! Are you buying this?"
+106113,408,255,1120000,Sideshow Bob,CASKET,"When they find your ashes, they'll think it's me. And I'll be far away with my loving family."
+106114,408,256,1127000,Sideshow Bob,CASKET,It's the perfect crime.
+106115,408,257,1129000,Cecil Terwilliger,CASKET,And it was my flawless performance as the grieving brother that sealed the deal.
+106116,408,258,1133000,Sideshow Bob,CASKET,"Yes, and ""Hamlet"" is all about Laertes."
+106117,408,259,1136000,Cecil Terwilliger,CASKET,Would you please stop comparing me to Laertes!
+106118,408,260,1139000,Sideshow Bob,CASKET,If the doublet fits...
+106120,408,262,1147000,Lisa Simpson,CASKET,Stop that cremation!
+106121,408,263,1147000,Homer Simpson,CASKET,"Hey, what smells so good?"
+106122,408,264,1151000,Sideshow Bob,CASKET,Zeus's pimples!
+106123,408,265,1157000,Bart Simpson,CASKET,Hot! Hot! Hot!
+106124,408,266,1159000,Sideshow Bob,CASKET,"You're too late, Simpsons!"
+106125,408,267,1161000,Homer Simpson,CASKET,Eat hobo remains!
+106127,408,269,1165000,Bart Simpson,CASKET,Get me outta here. What are you doing? I can't breathe!
+106128,408,270,1169000,Homer Simpson,CASKET,"Marge, he's got to get over his fear of coffins."
+106129,408,271,1174000,Chief Wiggum,CASKET,"Freeze, Sideshow Snobs! You're all under arrest. You have the right to remain silent, but I hope you don't -- it's a long way to jail, and I like to chitchat."
+106130,408,272,1187000,Sideshow Bob,CASKET,"Wait, I must know -- how did you loosen the tiles of my mosaic of murder?"
+106131,408,273,1192000,Lisa Simpson,CASKET,I grew suspicious when I saw the casket had extra room built in for your feet.
+106132,408,274,1197000,Lisa Simpson,CASKET,Why would your family pay all that extra money for the comfort of a dead man?
+106133,408,275,1202000,Sideshow Bob,CASKET,Damn these glorious gunboats!
+106134,408,276,1205000,Bart Simpson,CASKET,"Nice try, Bob -- but you didn't count on one thing."
+106135,408,277,1209000,Sideshow Bob,CASKET,What's that?
+106136,408,278,1209000,Bart Simpson,CASKET,You stink like my butt! Take him away!
+106137,408,279,1215000,Sideshow Bob,CASKET,Oh why must I feed him straight lines?!
+106139,408,281,1224000,Marge Simpson,Simpson Home,"Well, this time I think Sideshow Bob is finally locked up for good."
+106140,408,282,1229000,Homer Simpson,Simpson Home,Yeah. The only thing that's gonna be hacked to pieces now is this celebratory cake!
+106141,408,283,1235000,Sideshow Bob,Simpson Home,So... who wants a nice big slice!
+106143,408,285,1239000,Sideshow Bob,Prison Cell,Slash! Hack! Die!
+106144,408,286,1249000,Sideshow Bob's Father,Prison Cell,There he goes again.
+106146,408,287,1251000,Cecil Terwilliger,Prison Cell,"You have eighty-seven years to get used to it, father."
+106147,408,288,1253000,Sideshow Bob's Father,Prison Cell,East bids two hearts.
+106148,408,289,1256000,Gino,Prison Cell,Three diamonds.
+106149,408,290,1258000,Snake Jailbird,Prison Cell,Three clubs.
+106150,408,291,1262000,Cecil Terwilliger,Prison Cell,The joke's not funny and the bid's not sufficient.

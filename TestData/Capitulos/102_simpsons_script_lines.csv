@@ -1,0 +1,223 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+20151,102,6,42000,Homer Simpson,Simpson Home,"Maggie, can you point to the monkey?"
+20152,102,7,66000,Homer Simpson,Simpson Home,Pfft. What do babies know?
+20153,102,8,68000,Lisa Simpson,Simpson Home,"Maggie, can you point to the credenza?"
+20155,102,10,72000,Marge Simpson,Simpson Home,"Homer, you didn't do a very good job frosting Maggie's birthday cake."
+20156,102,11,76000,Homer Simpson,Simpson Home,What? It's not Magaggie's birthday? Oh.
+20157,102,12,80000,Marge Simpson,Simpson Home,"Hey, hey, hey hey, stop it! I made a special cake for you to ruin. It's over there."
+20158,102,13,89000,Homer Simpson,Simpson Home,Ooh.
+20159,102,14,91000,Patty Bouvier,Simpson Home,"Hello, everyone except Homer."
+20160,102,15,98000,Jacqueline Bouvier,Simpson Home,"Happy birthday, granddaughter!"
+20161,102,16,101000,Patty Bouvier,Simpson Home,"Marge, I think that's your father-in-law across the street."
+20162,102,17,106000,Grampa Simpson,Simpson Home,Hap-py Birthday!
+20163,102,18,110000,Marge Simpson,Simpson Home,Everybody get ready! Here comes the birthday girl in her very first dress!
+20164,102,19,117000,Everyone,Simpson Home,Aww!
+20165,102,20,117000,Patty Bouvier,Simpson Home,She's a little angel!
+20166,102,21,120000,Selma Bouvier,Simpson Home,Yeah. I wanna put a hook in her and hang her from our Christmas tree.
+20167,102,22,125000,Grampa Simpson,Simpson Home,Whaaaat smells?!
+20168,102,23,125000,Marge Simpson,Simpson Home,Uh-oh.
+20169,102,24,132000,Bart Simpson,Simpson Home,Shouldn't we wait for the other babies before we open the presents?
+20171,102,25,135000,Lisa Simpson,Simpson Home,We didn't invite the other babies. Maggie doesn't seem to get along with the other babies.
+20172,102,26,145000,Marge Simpson,Simpson Home,"Maggie, we have a surprise for you."
+20174,102,28,152000,Grampa Simpson,Simpson Home,Oo! Put some Lister's Carbolic Unguent on a wad of cotton. Put the cotton in her ear. That'll stop them shakes.
+20175,102,29,166000,Jacqueline Bouvier,Simpson Home,"No, no. What she needs is a Balsam Specific."
+20176,102,30,169000,Grampa Simpson,Simpson Home,"Balsam Specific? While we're burning money, why don't we give her a Curative Galvanic Belt, too?"
+20177,102,31,176000,Bart Simpson,Simpson Home,Don't forget to give her Smeckler's Powder!
+20178,102,32,176000,Jacqueline Bouvier,Simpson Home,Don't make fun.
+20179,102,33,183000,Jacqueline Bouvier,Simpson Home,I remember Lisa's third birthday. She and Bart did this adorable little song and dance routine.
+20180,102,34,190000,Grampa Simpson,Simpson Home,"Oh, that was a real horn-honker! Let's see it!"
+20182,102,36,193000,Grampa Simpson,Simpson Home,Now! Do it!
+20184,102,38,199000,Grampa Simpson,Simpson Home,Do it!
+20185,102,39,203000,Lisa Simpson,Simpson Home,HOT DOGS / ARMOUR HOT DOGS...
+20186,102,40,203000,Grampa Simpson,Simpson Home,Sing it like you mean it!
+20187,102,41,208000,Lisa Simpson,Simpson Home,WHAT KINDS OF KIDS EAT ARMOUR HOT DOGS?
+20188,102,42,211000,Bart Simpson,Simpson Home,FAT KIDS...
+20189,102,43,211000,Lisa Simpson,Simpson Home,SKINNY KIDS...
+20190,102,44,213000,Bart Simpson,Simpson Home,KIDS WHO CLIMB ON ROCKS...
+20191,102,45,215000,Lisa Simpson,Simpson Home,TOUGH KIDS...
+20192,102,46,215000,Bart Simpson,Simpson Home,SISSY KIDS...
+20193,102,47,217000,Milhouse Van Houten,Simpson Home,EVEN KIDS WITH CHICKEN POX!
+20194,102,48,217000,Everyone,Simpson Home,LOVE HOT DOGS / ARRR-MOUR HOT DOGS THE DOGS KIDS LOVE TO BITE!
+20195,102,49,231000,Lisa Simpson,Simpson Home,Doesn't this family know any songs that aren't commercials?
+20196,102,50,237000,Everyone,Simpson Home,I FEEL LIKE CHICKEN TONIGHT! / LIKE CHICKEN TONIGHT! / LIKE CHICKEN TONIGHT!
+20197,102,51,244000,Jacqueline Bouvier,Simpson Home,It's been great spending time with my family again. I guess the next time I see you won't be until Thanksgiving.
+20198,102,52,252000,Homer Simpson,Simpson Home,"Or, if not then, Christmas."
+20199,102,53,255000,Grampa Simpson,Simpson Home,"I suppose I'll be gettin' home, too. At least I got Matlock to keep me company. Ooh! He's on in five minutes!"
+20200,102,54,261000,Jacqueline Bouvier,Simpson Home,He is?! Step on it!
+20201,102,55,265000,Old Jewish Man,Simpson Home,Hurry up! Hurry! Each Matlock could be our last!
+20202,102,56,269000,Marge Simpson,Simpson Home,"Homey, you know, it's funny -- both my mother and your father seem pretty lonely."
+20203,102,57,275000,Homer Simpson,Simpson Home,"Hee, hee, hee, hee. That is funny."
+20204,102,58,277000,Marge Simpson,Simpson Home,"Yeah. Anyway, maybe they could go to a matinee together, or shopping, or to that room in the library that's always full of old people. ""Periodicals,"" that's it."
+20205,102,59,286000,Homer Simpson,Simpson Home,"Marge, please. Old people don't need companionship. They need to be isolated and studied, so it can be determined what nutrients they have that might be extracted for our personal use."
+20206,102,60,296000,Marge Simpson,Simpson Home,"Homer, would you please stop reading that Ross Perot pamphlet?!"
+20207,102,61,298000,Homer Simpson,Simpson Home,Oh.
+20209,102,63,304000,Marge Simpson,Homer's Car,"Say! I've got a neat idea. Why don't you go in and pick up my mother, and we'll all go out to dinner."
+20210,102,64,310000,Grampa Simpson,Homer's Car,I'll be back in a jiffy.
+20211,102,65,317000,Marge Simpson,Homer's Car,That's not my mother.
+20212,102,66,317000,Grampa Simpson,Homer's Car,I'll be back in a jiffy.
+20213,102,67,322000,Old Woman,Homer's Car,"Can I come, too?"
+20216,102,70,327000,Marge Simpson,Restaurant,"You know, Mom, you and Abe have a lot in common. Umm, you both got swindled by that telemarketing scam."
+20217,102,71,343000,Grampa Simpson,Restaurant,"Oh, it's not a swindle. What you do is, see, you give 'em all your credit card numbers, and if one of them is lucky, they'll send you a prize!"
+20218,102,72,352000,Jacqueline Bouvier,Restaurant,I was just happy to talk to someone on the phone.
+20219,102,73,356000,Grampa Simpson,Restaurant,"Aw, feelin' blue, eh? I got somethin' that'll cheer you up."
+20220,102,74,360000,Lawyer,Restaurant,"Sir, I represent the estate of Charles Chaplin. I have a court order demanding an immediate halt to this unauthorized imitation. Boys?"
+20222,102,76,380000,Jacqueline Bouvier,Bouvier Apartment,And here's a picture of me getting arrested for indecent exposure. It was the most embarrassing day of my life.
+20223,102,77,394000,Grampa Simpson,Bouvier Apartment,Lamp those gams! You were one nifty number!
+20224,102,78,400000,Jacqueline Bouvier,Bouvier Apartment,Boys all paid attention to me and it drove my friends crazy.
+20225,102,79,404000,Grampa Simpson,Bouvier Apartment,Oh? Who were your friends?
+20226,102,80,404000,Jacqueline Bouvier,Bouvier Apartment,"Oh, Zelda Fitzgerald... Frances Farmer... and little Sylvia Plath..."
+20228,102,81,410000,Grampa Simpson,Bouvier Apartment,"Y'know, you remind me of a poem I can't remember... and a song that may never have existed... and a place I'm not sure I've ever been to."
+20229,102,82,421000,Jacqueline Bouvier,Bouvier Apartment,You're so sweet.
+20230,102,83,421000,Grampa's Brain,Bouvier Apartment,"I feel all funny! I'm in love! No, wait, it's a stroke!"
+20232,102,85,432000,Grampa Simpson,Street,"No, wait. It is love!"
+20233,102,86,438000,Grampa Simpson,Street,I'm in looove!
+20235,102,88,438000,Troy McClure,Simpson Home,"Hello, I'm Troy McClure. You might remember me from such films as ""The Boatjacking of Super-Ship '79"" and ""Hydro: The Man with the Hydraulic Arms."" Coming up this hour on the Impulse Buying Network -- your chance to own a piece of Itchy and Scratchy, the Toontown twosome beloved by everyone, even cynical members of Generation X!"
+20237,102,90,468000,Generation X Guy,GENERATION X GROUP HOUSE,"Yeah, ""groovy."""
+20238,102,91,468000,"Roger Meyers, Jr.",GENERATION X GROUP HOUSE,"Troy, I'm proud to offer your viewers these hand-drawn Itchy and Scratchy animation cels. Each one is absolutely, positively one hundred percent guaranteed to increase in value!"
+20239,102,92,479000,Announcer,GENERATION X GROUP HOUSE,Not a guarantee.
+20240,102,93,481000,Bart Simpson,GENERATION X GROUP HOUSE,Ooh.
+20242,102,95,484000,Bart Simpson,Simpson Home,"Pardon me, sir. Forgive my clumsiness."
+20243,102,96,484000,Homer Simpson,Simpson Home,Not at all.
+20244,102,97,489000,Bart Simpson,Simpson Home,"Ah, yes, my name is Homer Simpson, and I'd like to order an Itchy an Scratchy cel. My credit card? Ah, do you accept the Federal Breast Inspector's card? License to Ogle? Viza?... Oh yes, of course, that's what I meant, Visa. It's these new dentures."
+20245,102,98,509000,Marge Simpson,Simpson Home,"Well, I think it's wonderful that your father has fallen in love with my mother."
+20246,102,99,516000,Homer Simpson,Simpson Home,"Well, I'm opposed to the whole thing! Damn opposed!"
+20247,102,100,519000,Bart Simpson,Simpson Home,He's damn opposed! Damn! Damn! Damn opposed!
+20248,102,101,522000,Marge Simpson,Simpson Home,"Bart! Homer, what possible reason could you have against Grampa being in love?"
+20249,102,102,527000,Homer Simpson,Simpson Home,"If he marries your mother, Marge, we'll be brother and sister! And then our kids, they'll be horrible freaks with pink skin, no overbites, and five fingers on each hand!"
+20250,102,103,539000,Marge Simpson,Simpson Home,"Hello, Mom? Fine. You know, Abe had a very nice time with you last Sunday..."
+20251,102,104,548000,Grampa Simpson,Simpson Home,Tell her I love her!!!
+20252,102,105,548000,Marge Simpson,Simpson Home,"Grampa, sssh! I know my mother. If you come on too strong, she's going to get scared away."
+20253,102,106,553000,Grampa Simpson,Simpson Home,I love ya!
+20254,102,107,553000,Jacqueline Bouvier,Simpson Home,What?
+20255,102,108,555000,Marge Simpson,Simpson Home,"Uh... I love ya, Mom!"
+20256,102,109,558000,Marge Simpson,Simpson Home,I love ya! I love ya! I love ya!
+20257,102,110,558000,Marge Simpson,Simpson Home,"I love ya! I love ya! I love ya! I love ya, Mom! Gotta go!"
+20258,102,111,562000,Man,Simpson Home,"Yeah, hi! I got a special delivery for Homer Simpson."
+20259,102,112,568000,Bart Simpson,Simpson Home,That's me.
+20260,102,113,568000,Man,Simpson Home,Don't write no more letters to Mr. Sinatra.
+20261,102,114,568000,Teenager,Simpson Home,I've got a special delivery for Homer Simpson.
+20262,102,115,578000,Bart Simpson,Simpson Home,Um... that's me.
+20263,102,116,578000,Teenager,Simpson Home,Stop stealing golf balls from the driving range!
+20264,102,117,584000,Wiseguy,Simpson Home,"Homer Simpson? I've got a uh, ""special delivery"" for ya."
+20265,102,118,590000,Bart Simpson,Simpson Home,Go away!
+20266,102,119,590000,Wiseguy,Simpson Home,"If you do not open the door, Mr. Simpson, I cannot give you your ""special delivery."""
+20267,102,120,599000,Delivery Man,Simpson Home,Here's your special delivery.
+20268,102,121,604000,Bart Simpson,Simpson Home,Thanks.
+20269,102,122,604000,Delivery Man,Simpson Home,That's for keepin' me waitin'!
+20270,102,123,609000,Bart Simpson,Simpson Home,"Hey, Lis, guess who's got a genuine Itchy and Scratchy animation cel?!"
+20271,102,124,613000,Lisa Simpson,Simpson Home,"Oh. That is so cool, that is so exciting, that is so... crappy."
+20272,102,125,620000,Lisa Simpson,Simpson Home,It looks like part of Scratchy's arm.
+20273,102,126,622000,Bart Simpson,Simpson Home,"Oh, no. I used Dad's credit card to buy this?"
+20274,102,127,626000,Lisa Simpson,Simpson Home,Yeesh. How much was it?
+20275,102,128,630000,Bart Simpson,Simpson Home,Three hundred fifty dollars.
+20276,102,129,633000,Lisa Simpson,Simpson Home,Oooh.
+20277,102,130,633000,Nelson Apparition,Simpson Home,Haw haw!
+20279,102,132,633000,Apu Nahasapeemapetilon,Kwik-E-Mart,Oh my God! This boy is having an out-of-body experience! This is very bad for business!
+20281,102,134,640000,Grampa Simpson,Simpson Home,Hot diggity! I'm gonna smooch her like a mule eatin' an apple! I even bought me some special novelty dentures.
+20282,102,135,653000,Homer Simpson,Simpson Home,"Dad, that will never work. If you want to make your move, you've gotta play it... cool."
+20283,102,136,662000,Homer Simpson,Simpson Home,"NOW, WHAT YOU GOTTA DO / IF YOU WANT TO GET A KISS / IS ACT REAL SMOOTH / AND MAKE YOUR MOVE LIKE THIS."
+20284,102,137,671000,Grampa Simpson,Simpson Home,"Oh, I see. SO IF I TAKE YOUR ADVICE / AND MAKE YOUR PATENTED MOVE / THEN MY CHANCES FOR LOVE / WILL SLIGHTLY IMPROVE?"
+20285,102,138,685000,Homer Simpson,Simpson Home,NOW WHAT'S THAT RULE?
+20286,102,139,685000,Grampa Simpson,Simpson Home,PLAY IT COOOOL.
+20290,102,143,696000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Is this cel worth anything?
+20291,102,144,710000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Let me show you something.
+20292,102,145,712000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"This, this is a Snagglepuss drawn by Hig Heisler. It is worth something. This, this is an arm drawn by nobody. It is worth nothing."
+20293,102,146,721000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Can't you give me anything for it?
+20294,102,147,723000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,I can give you this telephone. It is shaped like Mary Worth.
+20295,102,148,726000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,No groaning in my store.
+20298,102,151,729000,Jacqueline Bouvier,COMMUNITY CENTER,"Oh, my favorite song. This is so nice."
+20299,102,152,740000,Grampa Simpson,COMMUNITY CENTER,I can't remember when I felt this young. I really can't.
+20300,102,153,749000,C. Montgomery Burns,COMMUNITY CENTER,"Say, sport, mind if I have the next dance?"
+20301,102,154,755000,Grampa Simpson,COMMUNITY CENTER,Don't sneak up on a...
+20302,102,155,757000,C. Montgomery Burns,COMMUNITY CENTER,"No need for the blown gasket, Charlie! I'll have her back in one piece."
+20303,102,156,761000,Grampa Simpson,COMMUNITY CENTER,"Grrr. That big ape thinks he can muscle in on my girl, does he? I'll show him. I'm gonna give him the frowning of a lifetime."
+20304,102,157,783000,Jacqueline Bouvier,COMMUNITY CENTER,"I swear, Monty, you are the devil himself."
+20305,102,158,803000,C. Montgomery Burns,COMMUNITY CENTER,"Who told y-- ?! Yesss. Well, I'd say you were an angel, but angels don't dance like that."
+20306,102,159,812000,Grampa Simpson,COMMUNITY CENTER,"Goodnight, Mrs. Bouvier... Wherever you are."
+20307,102,160,832000,Lawyer,COMMUNITY CENTER,"Mr. Simpson, I represent the estate of Jimmy Durante. I have a court order demanding an immediate halt to this unauthorized imitation. Boys?"
+20308,102,161,846000,Lawyer,COMMUNITY CENTER,Well would it be alright with you if I just laid down in the street and died?
+20309,102,162,854000,Lawyer,COMMUNITY CENTER,Yes. That would be acceptable.
+20311,102,164,860000,C. Montgomery Burns,Springfield Nuclear Power Plant,Smithers...
+20170,102,165,860000,C. Montgomery Burns,Springfield Nuclear Power Plant,Guess what happened to me last night!
+20227,102,166,863000,Waylon Smithers,Springfield Nuclear Power Plant,"I don't know, Sir. You had sex with that old woman?"
+20312,102,167,866000,C. Montgomery Burns,Springfield Nuclear Power Plant,"She said ""no"" to me. Do you know how many women have said ""no"" to me? One hundred thirty. But only one since I've become a billionaire. And she's the one for me. I'm in love!"
+20313,102,168,876000,Waylon Smithers,Springfield Nuclear Power Plant,"Whoop-de-doo, Sir."
+20314,102,169,876000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Yes, whoop-de-doo! Whoop-de-doo to the world!"
+20315,102,170,879000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Whooop de-doo, Mr. Florist! Whoop de-doo, Mr. Physical Trainer! Whoop-de-doo, Mr. President!"
+20316,102,171,884000,Bill Clinton,Springfield Nuclear Power Plant,I'm happy you finally found love.
+20317,102,172,886000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Whoop-de-doo, Tarantula Town!"
+20318,102,173,888000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Whoop-de-doo, employees! Everyone who's found true love may leave early today!"
+20319,102,174,893000,Homer Simpson,Springfield Nuclear Power Plant,All right!
+20320,102,175,895000,C. Montgomery Burns,Springfield Nuclear Power Plant,"""Memorandum to: Mrs. Bouvier. Re: Delineation of Romantic Intentions..."" Pfffft, too sappy. Smithers, come over here and help me write a mash note to my girlfriend!"
+20321,102,176,907000,Waylon Smithers,Springfield Nuclear Power Plant,"Fine. ""Darling One, Read my words and hear my heart speak of a love soft and undying. A love that will be with you always. Sincerely, yadda yadda yadda."""
+20322,102,177,920000,C. Montgomery Burns,Springfield Nuclear Power Plant,That's marvelous. How did you think of that so fast?
+20323,102,178,922000,Waylon Smithers,Springfield Nuclear Power Plant,"I sent it to you on your birthday. Excuse me, I have something in my eye."
+20325,102,180,929000,Marge Simpson,Simpson Home,Mom's almost ready for her date. She sure seems taken by this new beau. I feel so bad for Grampa.
+20326,102,181,937000,Homer Simpson,Simpson Home,"Dad says this new guy is a repulsive, obnoxious old billionaire, so let's all be extra-nice to him."
+20328,102,183,943000,C. Montgomery Burns,Simpson Home,Hello! Why it's... it's uh... oh it's...
+20329,102,184,951000,C. Montgomery Burns,Simpson Home,"Why it's Fred Flintstone and his lovely wife, Wilma! Oh, and this must be little Pebbles! Mind if I come in? I brought chocolates."
+20330,102,185,960000,Homer Simpson,Simpson Home,Yabba-dabba-doo!
+20331,102,186,964000,Marge Simpson,Simpson Home,"He's an awful, awful, awful man, but I guess if he makes Mom happy, that's all that really matters."
+20332,102,187,970000,Homer Simpson,Simpson Home,"That's right, money. Your money's happiness is all that moneys."
+20333,102,188,978000,Bart Simpson,Simpson Home,"Hi. You know, Gramma really likes it when her boyfriends are nice to me. She especially likes it when they give me money."
+20335,102,189,987000,C. Montgomery Burns,Simpson Home,"Run along, Pee-Wee. Baby gets nothing."
+20336,102,190,989000,Bart Simpson,Simpson Home,"Very well, you leave me no choice."
+20337,102,191,989000,Bart Simpson,Simpson Home,This gun is filled with ketchup. This one with mustard. Now give me three hundred fifty bucks or you're gonna be a mess for your date.
+20338,102,192,999000,C. Montgomery Burns,Simpson Home,You don't have the guts.
+20339,102,193,1004000,C. Montgomery Burns,Simpson Home,"Aaagh! Here, take your money! Take it!"
+20340,102,194,1009000,C. Montgomery Burns,Simpson Home,"Now, the tables have turned, haven't they?"
+20341,102,195,1012000,Jacqueline Bouvier,Simpson Home,"Monty, I'm ready."
+20343,102,197,1020000,Grampa Simpson,Springfield Retirement Castle,"Oh, why'd she have to leave me?"
+20344,102,198,1020000,Jasper Beardly,Springfield Retirement Castle,"Hi, Abe. We heard you was in need of some cheerin' up, so we got you a special cake."
+20346,102,200,1027000,Jasper Beardly,Springfield Retirement Castle,Uh-oh. Better call the nurse.
+20348,102,202,1035000,C. Montgomery Burns,ITALIAN RESTAURANT,"Bravissimo, Luigi. Bring us your finest bottle of vino."
+20349,102,203,1040000,Luigi,ITALIAN RESTAURANT,"Ay, you trust-a-Luigi, ah? He knows-a what for to make-a real nice the amoré."
+20350,102,204,1045000,Jacqueline Bouvier,ITALIAN RESTAURANT,"Oh, Monty, I've never been to a more romantic restaurant."
+20351,102,205,1050000,Luigi,ITALIAN RESTAURANT,"Ay, Salvatore! Break out the cheap-a-hooch for Mr. No-Tip and the dried up-a zombie he's-a captured!"
+20353,102,207,1055000,Bart Simpson,Simpson Home,"Dad, I'm really sorry, but I charged three hundred fifty dollars on your credit card."
+20354,102,208,1060000,Homer Simpson,Simpson Home,What?!
+20355,102,209,1060000,Bart Simpson,Simpson Home,"Don't worry, here's the cash."
+20356,102,210,1062000,Homer Simpson,Simpson Home,"Woo hoo! Three hundred fifty dollars!! Now I can buy seventy transcripts of ""Nightline""!"
+20357,102,211,1068000,Bart Simpson,Simpson Home,But Dad...
+20358,102,212,1068000,Homer Simpson,Simpson Home,Woo hoo!
+20359,102,213,1068000,Bart Simpson,Simpson Home,"Oh well, he's happy. I'm gonna keep this Mary Worth phone right here. Her stern but sensible face will remind me never to do anything so stupid again."
+20360,102,214,1080000,Milhouse Van Houten,Simpson Home,"Hey, Bart. You wanna go play with that x-ray machine in the abandoned hospital?"
+20361,102,215,1086000,Bart Simpson,Simpson Home,Sure!
+20363,102,217,1090000,C. Montgomery Burns,MOUNTAINTOP,"Now, my dear, if you look in your champagne, I think you'll find a little surprise..."
+20364,102,218,1095000,Jacqueline Bouvier,MOUNTAINTOP,Huh?
+20365,102,219,1095000,C. Montgomery Burns,MOUNTAINTOP,"Not to worry. I believe there's another one around here, somewhere."
+20366,102,220,1103000,C. Montgomery Burns,MOUNTAINTOP,"My darling, since my kneecaps are filling with fluid as we speak, I'll be brief. Will you marry me?"
+20368,102,222,1115000,Marge Simpson,Simpson Home,"Mom, you can't marry Mr. Burns! He's an evil man!"
+20369,102,223,1119000,Jacqueline Bouvier,Simpson Home,"Evil-schmevil, Marge. Monty can provide for me, and besides, he's a great kisser."
+20370,102,224,1122000,Homer Simpson,Simpson Home,Ew yuuuuck!
+20371,102,225,1126000,Marge Simpson,Simpson Home,What about Abe Simpson? Don't you have any feelings for him?
+20372,102,226,1130000,Jacqueline Bouvier,Simpson Home,"Ah, he's a dear, but he's too much of an old fusspot."
+20373,102,227,1134000,Marge Simpson,Simpson Home,"We're all aware of Grampa's problems, but compared to Mr. Burns, he's Judge freaking Reinhold!"
+20374,102,228,1141000,Jacqueline Bouvier,Simpson Home,I don't know who that is.
+20376,102,230,1143000,Grampa Simpson,Street,"Aw, who needs her? Now I'll have more time to read things I find on the ground. ""Lay-tex Con-do..."" Boy, I'd like to live in one of those."
+20379,102,233,1162000,Homer Simpson,First Church of Springfield,"Hey, Barney, why don't you fill out the groom's side."
+20380,102,234,1174000,Barney Gumble,First Church of Springfield,"Hey, down in front."
+20381,102,235,1174000,Kaiser Wilhelm Guy,First Church of Springfield,Nein!
+20382,102,236,1177000,Lisa Simpson,First Church of Springfield,Where's Grampa? Wasn't he invited?
+20383,102,237,1183000,Bart Simpson,First Church of Springfield,"Yeah, but his reply envelope just had a check to the Gas Company in it."
+20384,102,238,1191000,Rev. Timothy Lovejoy,First Church of Springfield,"...and so, when Eliphaz came down from Mt. Hebron bearing figs, he offered them to Moham, who you will remember as the father of Shecham, and to Hazar on the occasion of their matrimony. Much in the same--"
+20385,102,239,1217000,C. Montgomery Burns,First Church of Springfield,We've heard enough about Blizblaz and Himham already! Get to the bloody point!
+20386,102,240,1219000,Marge Simpson,First Church of Springfield,Hm? Hm?
+20387,102,241,1219000,Rev. Timothy Lovejoy,First Church of Springfield,"Do you, Charles Montgomery Burns, take this woman to be your lawfully wedded wife?"
+20388,102,242,1229000,C. Montgomery Burns,First Church of Springfield,I do.
+20389,102,243,1231000,C. Montgomery Burns,First Church of Springfield,"The ring, you little imbecile! Before I really lose my temper!"
+20390,102,244,1235000,Jacqueline Bouvier,First Church of Springfield,"I know, I know."
+20391,102,245,1246000,Rev. Timothy Lovejoy,First Church of Springfield,"Do you, Jacqueline Bouvier, take this man to be your lawfully wedded husband?"
+20392,102,246,1253000,Jacqueline Bouvier,First Church of Springfield,"Oh, Monty! My favorite song. How did--"
+20393,102,247,1257000,C. Montgomery Burns,First Church of Springfield,I specifically requested no romantic music!
+20394,102,248,1259000,Grampa Simpson,First Church of Springfield,Mrs. Bouvier! Mrs. Bouvier!
+20395,102,249,1262000,Grampa Simpson,First Church of Springfield,Mrs. Bouvier!
+20396,102,250,1270000,Grampa Simpson,First Church of Springfield,"Honey, are ya sure ya wanna be Mrs. Montgomery Burns? Wouldn't ya rather be Mrs. Abraham J. Simpson?"
+20397,102,251,1278000,Jacqueline Bouvier,First Church of Springfield,No!
+20399,102,253,1278000,Jacqueline Bouvier,First Church of Springfield,I don't want to be either.
+20400,102,254,1278000,Grampa Simpson,First Church of Springfield,Hot ziggity zam! That's good enough for me!
+20402,102,256,1284000,Grampa Simpson,SENIOR CITIZEN'S MINIBUS,Turn off that racket!
+20403,102,257,1307000,Otto Mann,SENIOR CITIZEN'S MINIBUS,"Yeah, fat chance, pops."
+20404,102,258,1309000,Singers,SENIOR CITIZEN'S MINIBUS,HELLO GRAMPA MY OLD FRIEND / YOUR BUSY DAY IS AT AN END / YOUR EXPLOITS HAVE BEEN SAD AND BORING / THEY TELL A TALE THAT'S WORTH IGNOR-ING / WHEN YOU'RE ALONE / THE WORDS OF YOUR STORY WILL ECHO DOWN THE RESTROOM HALL / 'CAUSE NO ONE AT ALL / CAN STAND THE SOUND OF GRAM-PAAA....
+20405,102,259,1345000,Grampa Simpson,SENIOR CITIZEN'S MINIBUS,"I first took a fancy to Mrs. Bouvier because her raspy voice reminded me of my old Victrola. Oh, it was a fine machine. When the vulcanized rubber listening tube was just crammed in your ear. The tube would go in easier with some sort of lubricant like Linseed oil or Dr. Some..."
+20406,102,260,1371000,Grampa Simpson,SENIOR CITIZEN'S MINIBUS,I'm sorry.

@@ -1,0 +1,216 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+19894,101,1,11000,Bart Simpson,Simpson Home,How can they imprison kids in school on a beautiful day like this?
+19895,101,2,66000,Lisa Simpson,Simpson Home,"They're not ""imprisoning us,"" Bart. They're..."
+19897,101,4,71000,Bart Simpson,Prison Bus,"A prison bus, Otto?"
+19898,101,5,71000,Otto Mann,Prison Bus,"The regular school bus broke down, so take a seat before I blow your heads off."
+19899,101,6,76000,Lisa Simpson,Prison Bus,Otto!
+19900,101,7,76000,Otto Mann,Prison Bus,"Oh, sorry. This bus and I have sort of a ""Shining"" thing goin' on."
+19901,101,8,84000,Bart Simpson,Prison Bus,"Ah! This is what being a kid is all about. Hey, Huck. What's L-I-N-C-O-N doin' here?"
+19902,101,9,113000,Huck,Prison Bus,I dunno. It's your fantasy.
+19903,101,10,115000,Bart Simpson,Prison Bus,"Hi, Abe."
+19904,101,11,115000,Abraham Lincoln,Prison Bus,"Hello, Bart."
+19909,101,13,125000,Edna Krabappel-Flanders,Springfield Elementary School,"Well, children, our new ultra-hard Posturific chairs have arrived. They've been designed by eminent posturologists to eliminate slouching by the year three thousand."
+19910,101,14,133000,Martin Prince,Springfield Elementary School,"Ms. Krabappel, I'm having back spasms."
+19911,101,15,137000,Edna Krabappel-Flanders,Springfield Elementary School,"I know they seem a little uncomfortable right now, but eventually your bones will change shape."
+19912,101,16,143000,Milhouse Van Houten,Springfield Elementary School,I've lost all feeling in the left side of my body.
+19913,101,17,148000,Edna Krabappel-Flanders,Springfield Elementary School,"Yeah, yeah. Now, unfortunately, our school clocks have been running fast all semester. So today we all have to stay two extra hours to make up for the time we lost. Ha!"
+19914,101,18,156000,Freddy,Springfield Elementary School,"And to think I got all this after dropping out of the fourth grade! Ha, ha!"
+19915,101,19,177000,Bart Simpson,Springfield Elementary School,That does it. I'm outta here.
+19916,101,20,182000,Bart Simpson,Springfield Elementary School,"Mrs. Krabappel, I have to go to the dentist. I have a caraway seed caught under my bridgework."
+19917,101,21,189000,Bart Simpson,Springfield Elementary School,My mom's number is on there if you want to check up on me.
+19918,101,22,191000,Edna Krabappel-Flanders,Springfield Elementary School,"That's okay, Bart. I trust you."
+19920,101,24,195000,Seymour Skinner,Skinner's Office,"""Please excuse my handwriting. I busted whichever hand it is I write with. Signed, Mrs. Simpson."" You were right to be suspicious, Edna. To the crime lab."
+19922,101,26,207000,Seymour Skinner,Springfield Elementary School Crime Lab,"Hmm, inconclusive."
+19923,101,27,207000,Seymour Skinner,Springfield Elementary School Crime Lab,I wish more students had agreed to these electronic tracking implants. We only had one volunteer.
+19925,101,29,219000,Groundskeeper Willie,Springfield Elementary School,Spill it! Where's yer brither?
+19926,101,30,222000,Seymour Skinner,Springfield Elementary School,"You'd better answer him, Lisa. He's a bad man."
+19927,101,31,224000,Seymour Skinner,Springfield Elementary School,What are you laughing about?
+19928,101,32,227000,Lisa Simpson,Springfield Elementary School,You started off as the bad cop. But now you're the good one. You and Willie got mixed up about ten minutes ago.
+19929,101,33,233000,Seymour Skinner,Springfield Elementary School,We did not! Now where's Bart? You better tell me!
+19930,101,34,236000,Groundskeeper Willie,Springfield Elementary School,"Ach. You'd better tell him, lassie. I canna control him when he gets like this."
+19931,101,35,239000,Lisa Simpson,Springfield Elementary School,Now you're the good cop.
+19932,101,36,242000,Groundskeeper Willie,Springfield Elementary School,Whut?
+19906,101,38,244000,Bart Simpson,Riverbank,"Ah, the joys of mortgaging your future."
+19907,101,39,253000,Bart Simpson,Riverbank,My fantasy's come true.
+19908,101,40,258000,Lincoln Hobo,Riverbank,Hey kid. Wanna see a dead body?
+19934,101,42,261000,Seymour Skinner,Somewhere,If I were a truant boy out for a good time I'd be right here. The Springfield Natural History Museum.
+19935,101,43,271000,Seymour Skinner,Somewhere,"You're mine, Simpson."
+19937,101,45,276000,Bart Simpson,Aztec Theater,"Look, if I was under seventeen, I'd be in school, right?"
+19938,101,46,279000,Ticket Seller,Aztec Theater,"Yeah, I guess you're right. Enjoy ""Booborama,"" sir."
+19940,101,48,283000,Seymour Skinner,Old Abandoned Club House,"Why, there are no children here at the Four 'H' Club either! Am I so out of touch? No. It's the children who are wrong."
+19942,101,50,294000,Auctioneer,AUCTION HOUSE,Sold to the small man with the runny nose for two point three million.
+19943,101,51,297000,Auctioneer,AUCTION HOUSE,"Our next highest bid, uh I believe, was yours sir? For 2.1 million?"
+19944,101,52,304000,Auctioneer,AUCTION HOUSE,"Yes, were there any serious bids for this painting?"
+19946,101,54,311000,Bart Simpson,Springfield Street,Can't let Dad see me playing hooky.
+19947,101,55,319000,Homer Simpson,Springfield Street,I can't let the boy see me skipping work.
+19948,101,56,324000,Bart Simpson,Springfield Street,Good afternoon.
+19949,101,57,324000,Homer Simpson,Springfield Street,"How do you do, sir?"
+19950,101,58,326000,Homer Simpson,Springfield Street,Sucker.
+19951,101,59,332000,Seymour Skinner,Springfield Street,A Spoor!
+19952,101,60,332000,Seymour Skinner,Springfield Street,"Hmm. His brand of gum--Doublemint. Trying to double your fun, eh, Bart? Well, I'll double your detention. I wish someone was around to hear that. And so we enter end game."
+19953,101,61,354000,Bart Simpson,Springfield Street,Aye carumba!
+19955,101,63,359000,Bart Simpson,Field,Let's see him track me now.
+19956,101,64,386000,Bart Simpson,Field,"Oh, my God, he is like some sort of non... giving up... school guy."
+19958,101,66,410000,Seymour Skinner,DESOLATE ROAD,"Oh, he's close. I can taste his fear."
+19959,101,67,433000,Seymour Skinner,DESOLATE ROAD,What the...?
+19961,101,69,437000,Girl,DESOLATE ROAD,"Freddy honey, I think something just dropped into the back seat."
+19962,101,70,443000,Freddy,DESOLATE ROAD,I'm not paying you to talk.
+19965,101,73,457000,Freddy,QUIMBY COMPOUND FRONT YARD,Gimme the ball!
+19966,101,74,461000,Freddy,QUIMBY COMPOUND FRONT YARD,"People, the punch has been spiked."
+19968,101,75,461000,Mayor Joe Quimby,QUIMBY COMPOUND FRONT YARD,"Ha, ha, ha! That's my nephew, displaying the Quimby wit that's won the public's heart. Happy birthday, Freddy, and may all your disgraces be uh private."
+19969,101,76,476000,Various Quimbys,QUIMBY COMPOUND FRONT YARD,Here here.
+19970,101,77,484000,Mayor Joe Quimby,QUIMBY COMPOUND FRONT YARD,"And who are you, little boy?"
+19971,101,78,486000,Bart Simpson,QUIMBY COMPOUND FRONT YARD,I'm one of your nephews you don't see very often. Bart-Bart.
+19973,101,80,492000,Bart Simpson,QUIMBY MANSION,"Hey McBain, I'm a big fan, but your last movie really sucked."
+19974,101,81,496000,Rainier Wolfcastle,QUIMBY MANSION,I know. There were script problems from day one.
+19975,101,82,500000,Chief Wiggum,QUIMBY MANSION,"Yeah, I'll say. Magic ticket my ass, McBain."
+19976,101,83,504000,Rainier Wolfcastle,QUIMBY MANSION,"Maria, my mighty heart is breaking. I'll be in the Humvee."
+19977,101,84,510000,Freddy,QUIMBY MANSION,"Hey, what the hell is this?"
+19978,101,85,514000,French Waiter,QUIMBY MANSION,"It's a bowl of show-dair, sir."
+19979,101,86,516000,Freddy,QUIMBY MANSION,Wait a minute. Come here. What did you call it? Say it loud enough for everyone to hear. Come on! Say it.
+19980,101,87,522000,French Waiter,QUIMBY MANSION,Show-dair.
+19981,101,88,522000,Freddy,QUIMBY MANSION,"""Show-dair?"" ""Show-dair?"" It's ""chowda."" Say it right."
+19982,101,89,533000,French Waiter,QUIMBY MANSION,Show-der.
+19983,101,90,533000,Freddy,QUIMBY MANSION,Come back here! I'm not through demeaning you.
+19984,101,91,544000,Bart Simpson,QUIMBY MANSION,"Wow! This is the biggest Rice Krispy square I've ever seen. Boy, the rich sure know how to live."
+19985,101,92,554000,Freddy,QUIMBY MANSION,"Say it, Frenchie! Say chowda!"
+19986,101,93,554000,French Waiter,QUIMBY MANSION,Ne-verr!
+19987,101,94,557000,Freddy,QUIMBY MANSION,"Okay, you asked for it."
+19988,101,95,557000,Freddy,QUIMBY MANSION,I'm gonna enjoy this.
+19990,101,97,561000,Bart Simpson,QUIMBY MANSION,"Ah, that's gotta hoit!"
+19991,101,98,575000,Chief Wiggum,QUIMBY MANSION,"Oh my God, someone's taken a bite outta the big Rice Krispy Square. Oh, yeah. And the waiter's been brutally beaten."
+19993,101,100,581000,Marge Simpson,Simpson Home,It says Freddy Quimby beat a waiter half to death. Those Quimby children are so wild and rich. I hope he finally gets what's coming to him.
+19994,101,101,597000,Bart Simpson,Simpson Home,But Freddy Quimby's innocent.
+19995,101,102,597000,Lisa Simpson,Simpson Home,How do you know? There weren't any witnesses.
+19996,101,103,601000,Bart Simpson,Simpson Home,"Oh, yeah. Right."
+19997,101,104,604000,Lisa Simpson,Simpson Home,You'd think someone would have seen something at a crowded party like that.
+19999,101,105,607000,Bart Simpson,Simpson Home,"Well they didn't, okay? They didn't! It says right here in black and white, no witnesses. Case closed. Now let's all read the funnies."
+20000,101,106,615000,Bart Simpson,Simpson Home,"Oh look, Charlie Brown said ""Good grief."" I didn't see that comin'."
+20002,101,108,621000,Bart Simpson,School Bus,"Lisa, I gotta tell somebody. I was at the Quimby compound yesterday when that frog waiter got whacked. I know that Freddy Quimby is innocent."
+20003,101,109,630000,Lisa Simpson,School Bus,"You're a witness? Bart, you have to tell the police."
+20004,101,110,633000,Bart Simpson,School Bus,I can't.
+20005,101,111,633000,Lisa Simpson,School Bus,Why?
+20006,101,112,636000,Seymour Skinner,School Bus,"Bart Simpson, I know you cut school yesterday. And as soon as I can prove it, I'm shipping you off to the Christian Military Reform School."
+20007,101,113,645000,Bart Simpson,School Bus,What he said.
+20008,101,114,647000,Lisa Simpson,School Bus,"Oh, I see. If you testify, Skinner will know you skipped school. Well, if Freddy Quimby didn't do it, I'm sure he'll be found innocent by a fair and impartial jury."
+20010,101,116,658000,Homer Simpson,Simpson Home,Jury duty. I'll see that Quimby kid hang for this.
+20012,101,118,662000,Lisa Simpson,Simpson Home,I knew it was a bad idea to watch him open the mail.
+20013,101,119,666000,Announcer #2,Simpson Home,Let's go over to the county courthouse live to Kent Brockman.
+20014,101,120,670000,Kent Brockman,Simpson Home,"Brockman, just outside the county courtroom where an argument about chowder has spilled over into the biggest trial in Springfield history. Behind these doors, a Federal judge will ladle out steaming bowls of rich, creamy justice in a case the media have dubbed... ""Beat Up Waiter."" This reporter suggested ""Waiter Gate"" but was shouted down at the press club. Now it's illegal to televise court proceedings in this state, so we'll have to be quiet."
+20016,101,122,700000,Seymour Skinner,Courtroom,"I know you can read my thoughts, Bart. Just a little reminder: if I find out you cut class, your ass is mine. Yes, you heard me. I think words I would never say."
+20017,101,123,715000,Homer Simpson,Courtroom,"I know you can read my thoughts, boy. Meow, meow, meow, meow, meow, meow, meow, meow/ meow, meow, meow, meow, meow, meow, meow, meow."
+20018,101,124,724000,Quimby's Lawyer,Courtroom,"I intend to prove that Freddy Quimby is totally innocent. First of all, his accuser is a very shady character. That waiter, Mr. LaCoste not only wasn't born in Springfield. He wasn't even born in this country!"
+19967,101,125,741000,Lionel Hutz,Courtroom,"From now on, you tell me everything."
+20019,101,126,748000,Moe Szyslak,Courtroom,"Uh, Freddy Quimby was with me the entire night in question. We were collecting canned goods for the starving people in, ah... you know, one of them loser countries."
+20020,101,127,758000,Audience,Courtroom,He's clearly innocent.
+20021,101,128,761000,Moe Szyslak,Courtroom,"Oh, good. My laundry is done."
+20022,101,129,764000,Bart Simpson,Courtroom,"Ya see, Lisa? They don't need my testimony."
+20023,101,130,766000,Lisa Simpson,Courtroom,Only because Mayor Quimby's buying his nephew's freedom.
+20024,101,131,769000,Bart Simpson,Courtroom,The system works. Just ask Claus Von Bulow.
+20025,101,132,773000,Lionel Hutz,Courtroom,"Ladies and gentlemen, I'm going to prove to you not only that Freddy Quimby is guilty, but that he is also innocent of not being guilty. I refer you to my expert witness, Doctor Hibbert."
+20026,101,133,784000,Dr. Julius Hibbert,Courtroom,"Well, only one in two million people has what we call the ""evil gene."" Hitler had it. Walt Disney had it. And Freddy Quimby has it."
+20027,101,134,793000,Lionel Hutz,Courtroom,"Thank you, Doctor Hibbert. I rest my case."
+20028,101,135,799000,Judge Snyder,Courtroom,You rest your case?
+20029,101,136,801000,Lionel Hutz,Courtroom,"What? Oh, no. I thought that was just a figure of speech. Case closed."
+20030,101,137,806000,Apu Nahasapeemapetilon,Courtroom,"Excuse me, your honor. Yes, I'd like to bring something to the court's attention."
+20032,101,139,811000,Homer Simpson,Courtroom,Huh?
+20033,101,140,811000,Judge Snyder,Courtroom,Give those glasses to the bailiff.
+20034,101,141,819000,Homer Simpson,Courtroom,All right.
+20035,101,142,823000,Judge Snyder,Courtroom,And those.
+20036,101,143,825000,Quimby's Lawyer,Courtroom,"Your honor, even though I've proven my client's innocence, I'd still like to call Freddy Quimby to the stand so that we can all bask in his gentle decency."
+20037,101,144,835000,Audience,Courtroom,"""He's wealthy, therefore inherently good."" ""He's definitely innocent."""
+20038,101,145,839000,Quimby's Lawyer,Courtroom,"Mr. Quimby, did you assault Mr. LaCoste?"
+20039,101,146,843000,Freddy,Courtroom,Of course not. I love each and every uh living thing on God's green earth.
+20040,101,147,847000,Quimby's Lawyer,Courtroom,"Therefore, you certainly would never lose your temper over something as trivial as the pronunciation of ""chowder."""
+20041,101,148,850000,Freddy,Courtroom,That's chowda. Chowda! I'll kill you. I'll kill all of you - especially those of you in the jury.
+20042,101,149,861000,Quimby's Lawyer,Courtroom,"Wow, that didn't go well. The defense rests."
+20043,101,150,865000,Judge Snyder,Courtroom,Will the jury retire and come to its decision?
+20045,101,151,867000,Helen Lovejoy,Courtroom,This won't take long. He's clearly guilty. We'll probably be home by dinnertime.
+20046,101,152,872000,Jasper Beardly,Courtroom,"Good. I heard the dog from ""Frasier"" is gonna ride the dolphin on ""Seaquest."""
+20047,101,153,877000,Lisa Simpson,Courtroom,"Well Bart, because of you, a horrible, yet innocent person is going to jail."
+20048,101,154,883000,Bart Simpson,Courtroom,Maybe I should come forward.
+20049,101,155,886000,Seymour Skinner,Courtroom,I can't wait 'til the sentencing part. That's where I really shine.
+20050,101,156,892000,Seymour Skinner,Courtroom,"Bart Simpson, for the heinous crime of hooky, I sentence you to a lifetime of hard labor in the cafeteria."
+20051,101,157,901000,Lunchlady Bart,Courtroom,"More creamed corn, Jimbo Junior?"
+20052,101,158,903000,JIMBO JR.,Courtroom,This creamed corn tastes like creamed crap.
+20053,101,159,907000,Lunchlady Bart,Courtroom,"Watch the potty mouth, honey."
+20054,101,160,911000,Judge Snyder,Courtroom,Your sister says you have something to tell me.
+20055,101,161,915000,Bart Simpson,Courtroom,"What? Uh, um, yeah. Uh, I just want to say how great it is to finally see some chicks on the bench."
+20056,101,162,924000,Judge Snyder,Courtroom,Hm.
+20057,101,163,924000,Bart Simpson,Courtroom,"Keep up the good work, toots."
+20058,101,164,926000,Lisa Simpson,Courtroom,Chicks on the bench...
+20060,101,166,943000,Jasper Beardly,JURY ROOM,Why bother votin'? He's guilty.
+20061,101,167,945000,Ned Flanders,JURY ROOM,We might as well make it official.
+20062,101,168,947000,Homer Simpson,JURY ROOM,What does sequestered mean?
+20063,101,169,947000,Seymour Skinner,JURY ROOM,"If the jury is deadlocked, they're put up in a hotel together so they can't communicate with the outside world."
+20064,101,170,952000,Homer Simpson,JURY ROOM,What does deadlocked mean?
+20065,101,171,952000,Seymour Skinner,JURY ROOM,It's when the jury can't agree on a verdict.
+20066,101,172,956000,Homer Simpson,JURY ROOM,"Uh-huh. And ""if""?"
+20067,101,173,956000,Seymour Skinner,JURY ROOM,"A conjunction meaning ""in the event that"" or ""on condition that."""
+20068,101,174,959000,Homer Simpson,JURY ROOM,"So ""if"" we don't all vote the same way, we'll be ""deadlocked"" and have to be ""sequestered"" in the Springfield Palace Hotel."
+20069,101,175,973000,Patty Bouvier,JURY ROOM,"That's not gonna happen, Homer."
+20070,101,176,975000,Jasper Beardly,JURY ROOM,Let's vote. My liver is failing.
+20071,101,177,977000,Homer Simpson,JURY ROOM,"Where we'll get... a free room, free food, free swimming pool, free HBO - Oooh, ""Free Willy!"""
+20072,101,178,982000,Seymour Skinner,JURY ROOM,"Justice is not a frivolous thing, Simpson. It has little, if anything, to do with a disobedient whale. Now let's vote."
+20073,101,179,987000,Homer Simpson,JURY ROOM,"Uh, how are the rest of you voting?"
+19998,101,180,989000,Everyone,JURY ROOM,Guilty.
+20044,101,181,989000,Homer Simpson,JURY ROOM,"Okay, fine."
+19751,101,182,992000,Homer Simpson,JURY ROOM,"How many ""s""'s in ""innocent""?"
+20074,101,184,992000,Homer Simpson,JURY ROOM,I'm only doing what I think is right. I believe Freddie Quimby should walk out of here a free hotel.
+20077,101,187,1006000,Homer Simpson,Hotel,"Oh, I miss you too, Marge. But the law needs me. I'll be home as soon as I can."
+20078,101,188,1013000,Homer Simpson,Hotel,Room service? Send up two more pot roasts and three more pillows with mints on 'em.
+20079,101,189,1019000,Seymour Skinner,Hotel,"You know, we're kind of like the original ""Odd Couple."" You're the messy one and I'm..."
+20080,101,190,1026000,Homer Simpson,Hotel,Shut up.
+20081,101,191,1026000,Seymour Skinner,Hotel,"Oh yes, very well."
+20083,101,193,1028000,Lisa Simpson,Simpson Home,"So Bart, have your insides been gnawed away by guilt, yet?"
+20084,101,194,1033000,Bart Simpson,Simpson Home,"Sell it to Hallmark, sis. You're lookin' at cucumber boy. As in ""cool as a."""
+20085,101,195,1035000,Announcer,Simpson Home,Next on McGarnigal - McGarnigal is framed for a crime he didn't commit. And only one witness can clear his name - a little sissy boy who's too scared to come forward.
+20086,101,196,1050000,MCGARNIGAL,Simpson Home,"You gotta tell 'em what you saw, Billy."
+20087,101,197,1052000,Billy,Simpson Home,"But I'm so scared, McGarnigal."
+20088,101,198,1055000,MCGARNIGAL,Simpson Home,"You gotta do this one for me, Billy. McGarnigal."
+20089,101,199,1058000,Billy,Simpson Home,Okay. For you. McGarnigal.
+20090,101,200,1062000,Chief Wiggum,Simpson Home,"Well, McGarnigal, Billy is dead. They slit his throat from ear to ear."
+20091,101,201,1068000,MCGARNIGAL,Simpson Home,"Hey, I'm tryin' to eat lunch here!"
+20093,101,203,1075000,Homer Simpson,Hotel,"Jump, Free Willy, jump! Jump with all your might!"
+20094,101,204,1085000,Mother,Hotel,"Oh, no. Willie didn't make it. And he crushed our boy."
+20095,101,205,1093000,Man,Hotel,"Ew, What a mess."
+20096,101,206,1095000,Homer Simpson,Hotel,I don't like this new director's cut.
+20098,101,208,1098000,Homer Simpson,Homer's Room,"Got it, Barn?"
+20099,101,209,1098000,Barney Gumble,Homer's Room,Got what?
+20100,101,210,1103000,Barney Gumble,Homer's Room,Ow!
+20101,101,211,1105000,Seymour Skinner,Homer's Room,You're stealing a table?
+20102,101,212,1105000,Homer Simpson,Homer's Room,I'm not stealing it. Hotels expect you to take a few things. It's a souvenir.
+20103,101,213,1110000,Seymour Skinner,Homer's Room,Ah. Is that my necktie you're wearing?
+20104,101,214,1110000,Homer Simpson,Homer's Room,Souvenir.
+20106,101,216,1113000,Bart Simpson,Simpson Home,"Mom, what if there's a really bad, crummy guy who's going to jail, but I know he's innocent?"
+20107,101,217,1119000,Marge Simpson,Simpson Home,"Well, Bart, your Uncle Arthur used to have a saying, ""Shoot 'em all and let God sort 'em out."" Unfortunately, one day he put his theory into practice. It took seventy-five Federal marshals to bring him down. Now, let's never speak of him again."
+20108,101,218,1132000,Bart Simpson,Simpson Home,"Mom, Mom, Mom!"
+20109,101,219,1138000,Marge Simpson,Simpson Home,Hmm?
+20110,101,220,1140000,Bart Simpson,Simpson Home,What if I can get this guy off the hook. Sh-should I do it?
+20111,101,221,1145000,Marge Simpson,Simpson Home,"Honey, you should listen to your heart, and not the voices in your head, like a certain uncle did one grey December morn."
+20113,101,223,1153000,Judge Snyder,Courtroom,"Even though reopening a trial at this point is illegal and grossly unconstitutional, I just can't say no to kids."
+20114,101,224,1167000,Quimby's Lawyer,Courtroom,"So, young man. If Freddy Quimby didn't inflict these injuries on Mr. LaCoste, just who did?"
+20115,101,225,1176000,Bart Simpson,Courtroom,"Well, I was hiding in the kitchen when it all happened..."
+20116,101,226,1180000,Freddy,Courtroom,"Say it, Frenchie! Say chowder!"
+20117,101,227,1182000,French Waiter,Courtroom,Ne-verr!
+20118,101,228,1182000,Freddy,Courtroom,"Okay, you asked for it. I'm gonna enjoy this."
+20119,101,229,1214000,Bart Simpson,Courtroom,And that's what really happened.
+20120,101,230,1214000,French Waiter,Courtroom,I keel you! I am not a clumsy Clouseau-esque waiter. I will...
+20121,101,231,1228000,French Waiter,Courtroom,At least there were no big traps.
+20123,101,233,1232000,Lionel Hutz,Courtroom,"How could you have seen all this, Bart? Weren't you supposed to be in school?"
+20124,101,234,1235000,Bart Simpson,Courtroom,I sorta skipped school.
+20125,101,235,1240000,Seymour Skinner,Courtroom,"I knew it! I knew you'd slip up sooner or later, Simpson."
+20126,101,236,1243000,Apu Nahasapeemapetilon,Courtroom,What slip up? What are you talking about? He confessed it.
+20127,101,237,1245000,Seymour Skinner,Courtroom,Quiet. I need this.
+20128,101,238,1247000,Judge Snyder,Courtroom,This court finds Freddy Quimby innocent of all charges. Case dismissed.
+20130,101,240,1253000,Seymour Skinner,Courthouse,"Bart, I'm impressed with what you did in there. You testified for the Quimby boy even though it was putting your own head in a noose. On the other hand, you skipped school."
+20131,101,241,1267000,Bart Simpson,Courthouse,"I guess the two things cancel each other out, huh?"
+20132,101,242,1270000,Seymour Skinner,Courthouse,"I'm a small man in some ways, Bart. A small, petty man. Three months detention."
+20133,101,243,1277000,Seymour Skinner,Courthouse,"Wait a minute, Bart."
+20134,101,244,1283000,Seymour Skinner,Courthouse,Make that four months detention.
+20136,101,246,1289000,Homer Simpson,Simpson Home,"Well, Marge, it was horrible. Everyone was against me in that jury room. But I stood by the courage of my convictions and I prevailed. And that's why we had Chinese food for lunch."
+20137,101,247,1301000,Marge Simpson,Simpson Home,"Good for you, Homie. You know, a lot of things happened around here while you were gone."
+20138,101,248,1306000,Homer Simpson,Simpson Home,"Great, Marge. I wanna hear all about it."
+20139,101,249,1306000,Marge Simpson,Simpson Home,Give me those...
+20141,101,251,1306000,Marge Simpson,Simpson Home,And those.
+20143,101,253,1306000,Marge Simpson,Simpson Home,And those!

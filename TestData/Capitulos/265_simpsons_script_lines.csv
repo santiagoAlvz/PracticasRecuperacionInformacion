@@ -1,0 +1,264 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+66372,265,1,102000,Homer Simpson,Supermarket,"""Olive oil?"" ""Asparagus?"" If your mother wasn't so fancy, we could shop at the gas station like normal people."
+66373,265,2,110000,Bart Simpson,Supermarket,I need this candy for school.
+66374,265,3,112000,Bart Simpson,Supermarket,Candy Class.
+66375,265,4,113000,Homer Simpson,Supermarket,"Well, okay, but get five bags in case we eat four on the way home."
+66376,265,5,117000,Lisa Simpson,Supermarket,My teacher said I need cupcakes. Cupcakes to learn.
+66377,265,6,120000,Homer Simpson,Supermarket,In the cart.
+66378,265,7,123000,Bart Simpson,Supermarket,I'm out of wine.
+66379,265,8,124000,Homer Simpson,Supermarket,Cart.
+66380,265,9,128000,Lisa Simpson,Supermarket,We need these because we have... to...
+66381,265,10,132000,Homer Simpson,Supermarket,"My doctor says, and my garage mechanic agrees, that..."
+66382,265,11,135000,Bart Simpson,Supermarket,In the cart.
+66383,265,12,135000,Homer Simpson,Supermarket,Woo hoo!
+66384,265,13,136000,Homer Simpson,Supermarket,"Y'know, I always felt sorry for Marge, having to do the shopping, but this is kind of fun."
+66385,265,14,143000,Bart Simpson,Supermarket,Yeah. I wish Maggie had to go to the emergency room more often.
+66386,265,16,148000,Dr. Julius Hibbert,Emergency Room,Hm... I never heard of a baby swallowing a magazine before.
+66387,265,17,148000,Dr. Julius Hibbert,Emergency Room,And I'm a doctor.
+66388,265,18,153000,Marge Simpson,Emergency Room,"I don't know if it matters, but it was a Time Magazine. Does that matter?"
+66389,265,19,159000,Dr. Julius Hibbert,Emergency Room,Uh-oh. This could be dangerous.
+66390,265,20,161000,Marge Simpson,Emergency Room,What? What?
+66391,265,21,162000,Dr. Julius Hibbert,Emergency Room,Syrian hard-liners are gaining influence.
+66393,265,23,162000,Homer Simpson,Supermarket,"Wait, I changed my mind."
+66394,265,24,171000,Homer Simpson,Supermarket,Stack it in the order I'll eat it driving home.
+66395,265,25,174000,Bag Boy,Supermarket,"Sir, please. I've already bagged it by color, and in order of each item's discovery by man."
+66396,265,26,180000,Homer Simpson,Supermarket,The customer's always right. That's what everybody likes about us. Now mush!
+66397,265,27,184000,Agnes Skinner,Supermarket,"You tell 'im, Jumbo! And you, start over. I want everything in one bag."
+66398,265,28,190000,Squeaky-Voiced Teen,Supermarket,Yes ma'am.
+66399,265,29,191000,Agnes Skinner,Supermarket,But I don't want the bag to be heavy.
+66400,265,30,192000,Squeaky-Voiced Teen,Supermarket,I don't think that's possible.
+66401,265,31,195000,Agnes Skinner,Supermarket,"What are you, the Possible Police? Just do it!"
+66402,265,32,199000,Moe Szyslak,Supermarket,"Hey, hey, watch what you're doin' there, sack monkey. You're bruisin' my DuraLog."
+66403,265,33,203000,Homer Simpson,Supermarket,Hurry up. I can't stand here jabbing you all day.
+66404,265,34,207000,Bag Boy,Supermarket,"Please. Ow. Stop. Bag boys have feelings, too, you know."
+66405,265,35,211000,Homer Simpson,Supermarket,No you don't...
+66406,265,36,213000,Manager,Supermarket,Excuse me? Is there a problem here?
+66407,265,37,214000,Homer Simpson,Supermarket,"No, I can handle it. I'll get you, squealer."
+66408,265,38,217000,Bag Boy,Supermarket,"Ow! Ok-- That's it. On behalf of Sack Stuffers Local 199, I'm calling a strike!"
+66409,265,39,225000,Bag Boy,Supermarket,Strike! Strike!
+66410,265,40,229000,Bag Boys,Supermarket,Strike! Strike! Strike!
+66411,265,41,232000,Homer Simpson,Supermarket,"Oh, the bag boys are on strike! I'm shaking."
+66412,265,42,237000,Manager,Supermarket,"Mr. Simpson, please. Will you go home?"
+66413,265,43,239000,Homer Simpson,Supermarket,If I can have this rubber stick.
+66414,265,44,243000,Kent Brockman,Supermarket,"Pledging to honor the bag boy strike are the Brotherhood of Fruit Packers And Unpackers, the Shelf Dusters Union, and the Unattractive Waitresses Of America."
+66415,265,45,252000,Unattractive Waitress,Supermarket,Kiss my grits!
+66416,265,46,253000,Kent Brockman,Supermarket,Indeed.
+66288,265,47,254000,Manager,Supermarket,"Good luck, sir."
+66417,265,48,256000,Lenny Leonard,Supermarket,No bag boys are gonna stop Lenny from hosting a casual get-together.
+66418,265,49,260000,Carl Carlson,Supermarket,Casual?!
+66419,265,50,262000,Lenny Leonard,Supermarket,"Uh, I can taste that get-together now..."
+66420,265,51,264000,Lenny Leonard,Supermarket,"Hey, I was holdin' that!"
+66421,265,52,266000,Bag Boy,Supermarket,"Next time I'll knock your hat off, scab!"
+66424,265,55,274000,Homer Simpson,Simpson Home,So hungry... There's gotta be some food left. Sulfur jerky... Cream of toast... Where did we get all this crap?
+66425,265,56,284000,Marge Simpson,Simpson Home,Most of it was sent by relatives who couldn't see very well.
+66426,265,57,287000,Bart Simpson,Simpson Home,"Hey, I found some eggs! The mother abandoned her nest."
+66428,265,59,296000,Lisa Simpson,Simpson Home,There's gotta be something to eat in this house.
+66429,265,60,305000,Marge Simpson,Simpson Home,"Hey, the dog smells something!"
+66430,265,61,307000,Homer Simpson,Simpson Home,Good boy. Good boy. Show us where the food is.
+66431,265,62,312000,Homer Simpson,Simpson Home,Where? Over there?
+66432,265,63,316000,Homer Simpson,Simpson Home,Hey!
+66433,265,64,326000,Homer Simpson,Simpson Home,Yoink.
+66434,265,65,329000,Homer Simpson,Simpson Home,My old lunch box!
+66435,265,66,330000,Homer Simpson,Simpson Home,That Amos Burke made his own rules.
+66436,265,67,337000,Homer Simpson,Simpson Home,Very old animal crackers!
+66437,265,68,341000,Marge Simpson,Simpson Home,"Homer, no! Those were made in the Sixties."
+66438,265,69,345000,Homer Simpson,Simpson Home,Mmmm... turbulent.
+66439,265,70,350000,Homer Simpson,Simpson Home,Ow! What the hell?
+66440,265,71,353000,Bart Simpson,Simpson Home,"Whoa, a solid gold animal cracker."
+66441,265,72,356000,Lisa Simpson,Simpson Home,"""Find the golden giraffe, and we'll send you and your family to Africa."""
+66442,265,73,356000,Homer Simpson,Simpson Home,Africa? They're bound to have food there!
+66445,265,76,368000,Homer Simpson,Kitchen-Maid Plant,"And on my free African safari, I want to do everything on this box."
+66446,265,77,372000,Homer Simpson,Kitchen-Maid Plant,"I want to shoot a lion in the face, fight Muhammad Ali, and ride in a convertible with two happy zebras."
+66447,265,78,377000,Executive,Kitchen-Maid Plant,"Sir, that contest ended thirty years ago. We don't even make animal crackers anymore."
+66448,265,79,382000,Female Lawyer,Kitchen-Maid Plant,We make household poisons and Christmas lights.
+66449,265,80,385000,Homer Simpson,Kitchen-Maid Plant,Your box made promises of a vacational nature. And I expect you to live up to them.
+66322,265,81,390000,Male Lawyer,Kitchen-Maid Plant,"We won't, though."
+66450,265,82,392000,Executive,Kitchen-Maid Plant,"Sir, with all due respect..."
+66451,265,83,392000,Executive,Kitchen-Maid Plant,An old box of cookies is not a legal contract.
+66452,265,84,397000,Homer Simpson,Kitchen-Maid Plant,Ow! My eye!
+66453,265,85,398000,Female Lawyer,Kitchen-Maid Plant,He could sue us...
+66454,265,86,401000,Male Lawyer,Kitchen-Maid Plant,Defective string...
+66455,265,87,402000,Executive,Kitchen-Maid Plant,Sharp corners...
+66456,265,88,405000,Executive,Kitchen-Maid Plant,"Mr. Simpson, we've decided to make good on your vacation."
+66457,265,89,407000,Homer Simpson,Kitchen-Maid Plant,Woo hoo!
+66458,265,90,408000,Homer Simpson,Kitchen-Maid Plant,"Hey, mister?"
+66459,265,91,410000,Executive,Kitchen-Maid Plant,"Uh, yes?"
+66460,265,92,411000,Homer Simpson,Kitchen-Maid Plant,"On the plane, I'm gonna need two seats... for the twins."
+66462,265,94,418000,Homer Simpson,Simpson Home,The Simpsons are going to Africa!
+66463,265,95,422000,Lisa Simpson,Simpson Home,Yayyy!
+66465,265,97,427000,Villager,African Village,"What is it, Ngongo?"
+66466,265,98,428000,Ngongo,African Village,Evil is coming.
+66467,265,99,431000,Villager,African Village,"What shall we do, Ngongo?"
+66468,265,100,433000,Ngongo,African Village,Eh... You are Ngongo now.
+66471,265,103,445000,Lisa Simpson,Airplane,Africa looks like a beautiful jewel.
+66472,265,104,447000,Marge Simpson,Airplane,And these musical garment bags aren't bad either.
+66473,265,105,450000,African Flight Attendant,Airplane,"Attention, passengers. Please prepare for our landing in Tanzania."
+66474,265,106,455000,African Flight Attendant,Airplane,"I'm sorry, it is now called New Zanzibar. Excuse me. It is now called Pepsi Presents New Zanzibar."
+66476,265,108,461000,Kitenge,Airstrip,"Hello, hello, Simpsons! Welcome to Africa. I am your guide, Kitenge."
+66477,265,109,474000,Lisa Simpson,Airstrip,"Hey, how ya doin' there? / Hi! / Hello. / Yo, Kitenge! What's going on?"
+66478,265,110,477000,Lisa Simpson,Airstrip,Isn't that cute? A bush-baby.
+66479,265,111,481000,Kitenge,Airstrip,Where? Ah! Shoo! Shoo!
+66480,265,112,483000,Kitenge,Airstrip,"Oh, man. I just bought this shirt."
+66482,265,114,495000,Marge Simpson,African City,Who's Muntu?
+66483,265,115,496000,Kitenge,African City,He is our leader. He seized power in a bloodless coup. All smotherings.
+66484,265,116,502000,Homer Simpson,African City,Just like Jimmy Carter.
+66486,265,118,507000,Kitenge,WILDERNESS AREA,"Okay, you'll be sleeping here tonight..."
+66487,265,119,510000,Marge Simpson,WILDERNESS AREA,On the ground?
+66488,265,120,511000,Lisa Simpson,WILDERNESS AREA,"No, Mom."
+66489,265,121,514000,Marge Simpson,WILDERNESS AREA,Ohhhhhhhhh.
+66490,265,122,516000,Doorman,WILDERNESS AREA,I will come down for your bags.
+66491,265,123,518000,Homer Simpson,WILDERNESS AREA,That's okay. I got 'em.
+66492,265,124,528000,Homer Simpson,WILDERNESS AREA,"Eh, bound to happen."
+66494,265,126,534000,Bart Simpson,Hotel,Help! This mosquito net's not working.
+66495,265,127,537000,Kitenge,Hotel,"No, no. You have it inside out."
+66496,265,128,541000,Kitenge,Hotel,There.
+66497,265,129,544000,Lisa Simpson,Hotel,When do we get to see the animals?
+66498,265,130,546000,Kitenge,Hotel,"In the morning, little one. Now goodnight, and don't let the bedbugs paralyze."
+66499,265,131,552000,Marge Simpson,Hotel,"Homie, did you remember to tip Kitenge?"
+66500,265,132,555000,Kitenge,Hotel,No. He did not.
+66503,265,135,559000,Bart Simpson,SAFARI VEHICLE,"All right, I got another one!"
+66504,265,136,562000,Lisa Simpson,SAFARI VEHICLE,"Hey, you didn't see a warthog!"
+66505,265,137,564000,Bart Simpson,SAFARI VEHICLE,I'm looking at one right now.
+66506,265,138,567000,Lisa Simpson,SAFARI VEHICLE,Mom! Bart implied I was a warthog!
+66507,265,139,569000,Marge Simpson,SAFARI VEHICLE,Nobody's a warthog.
+66508,265,140,571000,Bart Simpson,SAFARI VEHICLE,What about him?
+66512,265,144,581000,Marge Simpson,Savannah,"Ooh, look, everybody!"
+66513,265,145,590000,Homer Simpson,Savannah,Wowww... It just rolled over to ten thousand.
+66515,265,147,601000,Kitenge,WILDLIFE RESERVE,"Now we sit quietly, and wait for nature to unveil herself."
+66517,265,149,613000,Lisa Simpson,WILDLIFE RESERVE,"Wait, rhinos don't come from eggs."
+66518,265,150,616000,Homer Simpson,WILDLIFE RESERVE,"What did you just see, Lisa?"
+66519,265,151,618000,Lisa Simpson,WILDLIFE RESERVE,"I know, but..."
+66520,265,152,620000,Homer Simpson,WILDLIFE RESERVE,What did you just see?
+66521,265,153,625000,Lisa Simpson,WILDLIFE RESERVE,"Oh, now come on..."
+66522,265,154,627000,Kitenge,WILDLIFE RESERVE,"Look, Mother. By that tree... Cheetah."
+66523,265,155,631000,Marge Simpson,WILDLIFE RESERVE,He doesn't look so fast to me.
+66526,265,158,646000,Kitenge,WILDLIFE RESERVE,"BA HOOLIE GANGA / HEELIE DOO / MA HOOLIE WAPPA / IMBATU Take it, Homer!"
+66528,265,159,647000,Homer Simpson,WILDLIFE RESERVE,GLIBBIE GLOP GLOOPIE / NIBBIE NABBIE NOOBIE / LA LE LO LO LO.
+66529,265,160,655000,Marge Simpson,WILDLIFE RESERVE,What? What is it?
+66530,265,161,656000,Kitenge,WILDLIFE RESERVE,Mm. Poachers.
+66531,265,162,664000,Lisa Simpson,WILDLIFE RESERVE,That's terrible!
+66532,265,163,666000,Homer Simpson,WILDLIFE RESERVE,"Now, honey, poachers are nature's way of keeping the balance. Whenever there are so many species that people get confused and angry, a poacher is born."
+66533,265,164,676000,Lisa Simpson,WILDLIFE RESERVE,I don't care. I hate them.
+66534,265,165,685000,Kitenge,WILDLIFE RESERVE,They'll be back. They left their cargo pants.
+66536,265,167,692000,Kitenge,ARCHAEOLOGICAL SITE,This is the earliest known fossil of a human being. It's over two million years old.
+66537,265,168,701000,Homer Simpson,ARCHAEOLOGICAL SITE,"I've got more bones than that guy. If you're trying to impress me, you've failed."
+66538,265,169,705000,Kitenge,ARCHAEOLOGICAL SITE,"It's not the number of bones, sir, it's the..."
+66539,265,170,708000,Homer Simpson,ARCHAEOLOGICAL SITE,You have failed.
+66542,265,173,715000,Kitenge,Masai Village,The Masai chief welcomes you to his village.
+66543,265,174,718000,Marge Simpson,Masai Village,"Oh, thank you. Your ground is so comfortable."
+66544,265,175,722000,Homer Simpson,Masai Village,"By the way, what kind of blood is this?"
+66545,265,176,725000,Kitenge,Masai Village,Cow.
+66548,265,179,729000,Lisa Simpson,Masai Village,"Hey, Mom."
+66549,265,180,729000,Lisa Simpson,Masai Village,Look what Mbali gave me.
+66550,265,181,733000,Bart Simpson,Masai Village,"Hey, check it out."
+66551,265,182,734000,Marge Simpson,Masai Village,"Bart, I told you not to get your lip disked."
+66552,265,183,738000,Bart Simpson,Masai Village,All right.
+66553,265,184,740000,Bart Simpson,Masai Village,Uh-oh-boh-boh.
+66554,265,185,748000,Kitenge,Masai Village,"That's it. Get into a frenzy! Ha, ha!"
+66557,265,188,760000,Marge Simpson,Masai Village,This song has been going on for hours.
+66558,265,189,763000,Homer Simpson,Masai Village,"Yeah, it's like the Allman Brothers!"
+66560,265,191,769000,Kitenge,Masai Village,"Homer, no!"
+66562,265,193,773000,Homer Simpson,Masai Village,"A hungry, hungry hippo!"
+66563,265,194,777000,Homer Simpson,Masai Village,Help! Kitenge!
+66564,265,195,781000,Kitenge,Masai Village,"Now, Simpsons! Run for it!"
+66565,265,196,790000,Homer Simpson,Masai Village,Good ol' Kitenge.
+66566,265,198,802000,Homer Simpson,Masai Village,Quick! Into the river! Hippos hate water.
+66567,265,199,805000,Lisa Simpson,Masai Village,No they don't. They--
+66569,265,201,814000,Kitenge,River,Shaka Zulu!
+66570,265,202,817000,Bart Simpson,River,Which way should we go?
+66571,265,203,829000,Lisa Simpson,River,The left! Go to the left!
+66572,265,204,834000,Homer Simpson,River,It's working!
+66573,265,205,835000,Homer Simpson,River,Leeches!
+66577,265,209,855000,Homer Simpson,River,"Okay, here's the situation: We're hopelessly lost and about to die."
+66579,265,211,863000,Homer Simpson,River,Don't worry. Being eaten by a crocodile is just like going to sleep... in a giant blender.
+66580,265,212,870000,Marge Simpson,River,Wonder where this river goes.
+66581,265,213,872000,Homer Simpson,River,I've got a map!
+66582,265,214,874000,Homer Simpson,River,"Monkey. Now, according to Animal Crackers, there's no river here."
+66583,265,215,879000,Marge Simpson,River,"Stay in the boat, Homer."
+66584,265,216,887000,Marge Simpson,River,Look!
+66588,265,220,900000,Marge Simpson,River,Let's just float by quietly...
+66591,265,223,912000,Homer Simpson,River,"So, you think they settled that bag boy strike yet?"
+66592,265,224,917000,Lisa Simpson,River,"Oh, no! We're headed for Victoria Falls!"
+66593,265,225,921000,Homer Simpson,River,Here's why they shouldn't get anything. One...
+66596,265,228,931000,Homer Simpson,River,This flower saved our lives.
+66597,265,229,936000,Marge Simpson,River,"Oh, no! It's eating us!"
+66598,265,230,939000,Homer Simpson,River,Not a chance.
+66599,265,231,943000,Bart Simpson,River,"Wow, Dad. How did you do that?"
+66600,265,232,944000,Homer Simpson,River,It's a flower.
+66602,265,234,948000,Lisa Simpson,JUNGLE,Are we insane yet? Are we insane yet? Are we insane yet?
+66603,265,235,952000,Homer Simpson,JUNGLE,"I told you, yes. Now Bart, go to the top of that hill and see if you can spot our hotel."
+66604,265,236,958000,Bart Simpson,JUNGLE,Mount Kilimanjaro?
+66605,265,237,960000,Homer Simpson,JUNGLE,Go.
+66606,265,238,961000,Bart Simpson,JUNGLE,Okay.
+66608,265,241,965000,Marge Simpson,JUNGLE,A chimp!
+66609,265,242,966000,Lisa Simpson,JUNGLE,"Hello, little fella."
+66610,265,243,967000,Bart Simpson,JUNGLE,"Hey, maybe it'll lead us to bananas."
+66611,265,244,970000,Homer Simpson,JUNGLE,Or... more mouthwatering monkeys.
+66612,265,245,972000,Homer Simpson,JUNGLE,Overtime for bag boys? Ridiculous!
+66614,265,247,983000,Lisa Simpson,JUNGLE COMPOUND,This is the place I've read about! Where Dr. Bushwell lives among the chimps!
+66615,265,248,987000,Marge Simpson,JUNGLE COMPOUND,"Oh, isn't that sweet? He named it after his wife."
+66616,265,249,991000,Lisa Simpson,JUNGLE COMPOUND,"No, Dr. Bushwell is a woman."
+66617,265,250,992000,Marge Simpson,JUNGLE COMPOUND,"Well, now I've heard everything."
+66619,265,252,997000,Marge Simpson,Joan Bushwell's Hut,"It's kind of you to take us in, Dr. Bushwell."
+66620,265,253,999000,Bart Simpson,Joan Bushwell's Hut,"Yeah, thanks for the grub."
+66621,265,254,1002000,Joan Bushwell,Joan Bushwell's Hut,Grubs.
+66622,265,255,1003000,Bart Simpson,Joan Bushwell's Hut,Whatever.
+66623,265,256,1004000,Bart Simpson,Joan Bushwell's Hut,"Ah, there's a burst of flavor."
+66624,265,257,1007000,Lisa Simpson,Joan Bushwell's Hut,"Your work has really inspired me, Doctor. And I love your sensible ponytail."
+66625,265,258,1012000,Joan Bushwell,Joan Bushwell's Hut,"Thank you. See, Jojo, she likes it."
+66626,265,259,1017000,Homer Simpson,Joan Bushwell's Hut,"So, I notice your home smells of feces."
+66627,265,260,1020000,Joan Bushwell,Joan Bushwell's Hut,Yes.
+66628,265,261,1021000,Homer Simpson,Joan Bushwell's Hut,And not just monkey feces either.
+66629,265,262,1023000,Joan Bushwell,Joan Bushwell's Hut,Could we talk about something else?
+66630,265,263,1025000,Marge Simpson,Joan Bushwell's Hut,I-I love what you've done with these poles.
+66633,265,266,1035000,Joan Bushwell,CHIMP REFUGE,"Every day I get up at five-thirty, watch the chimps, eat a quick lunch of roots and water, then more chimp-watching. After dark I come home and think about chimps until it's time for bed."
+66634,265,267,1046000,Homer Simpson,CHIMP REFUGE,You must be the most boring woman on earth.
+66635,265,268,1049000,Joan Bushwell,CHIMP REFUGE,"Possibly, but..."
+66636,265,269,1051000,Homer Simpson,CHIMP REFUGE,"I mean I knew scientists wasted their lives, but geez."
+66637,265,270,1054000,Marge Simpson,CHIMP REFUGE,Ho-mer.
+66638,265,271,1056000,Joan Bushwell,CHIMP REFUGE,"What? What is it, Pointy?"
+66639,265,272,1069000,Lisa Simpson,CHIMP REFUGE,Oh no! It's the poachers!
+66640,265,273,1072000,POACHER,CHIMP REFUGE,Give us the chimps and no one gets hurt!
+66641,265,274,1075000,Joan Bushwell,CHIMP REFUGE,Absolutely not! Will you help me defend the refuge?
+66642,265,275,1079000,Homer Simpson,CHIMP REFUGE,Anything for these noble animals.
+66643,265,277,1085000,Homer Simpson,CHIMP REFUGE,So like us...
+66644,265,278,1097000,Bart Simpson,CHIMP REFUGE,Yes!
+66646,265,280,1112000,Homer Simpson,CHIMP REFUGE,Somebody light this monkey.
+66647,265,281,1114000,Homer Simpson,CHIMP REFUGE,Help! Bad monkey!
+66648,265,282,1124000,Lisa Simpson,CHIMP REFUGE,"Hey! Ah! Stop it, you creep!"
+66649,265,283,1130000,Lisa Simpson,CHIMP REFUGE,Greenpeace?
+66650,265,284,1131000,ANIMAL ACTIVIST,CHIMP REFUGE,That's right. And we're not leaving till we rescue every animal here.
+66651,265,285,1135000,Lisa Simpson,CHIMP REFUGE,"Well, if you really cared about chimps, you'd know that Dr. Bushwell is their best friend."
+66652,265,286,1141000,ANIMAL ACTIVIST,CHIMP REFUGE,"Oh is that right? Why don't you tell her about the diamond mine, Doctor."
+66653,265,287,1146000,Joan Bushwell,CHIMP REFUGE,Diamond mine? What are you talking about?
+66654,265,288,1150000,ANIMAL ACTIVIST,CHIMP REFUGE,I'm talking about this.
+66655,265,289,1161000,Lisa Simpson,CHIMP REFUGE,The chimps are running a diamond mine?!
+66656,265,290,1163000,Joan Bushwell,CHIMP REFUGE,"Why, what fascinating behavior. I... I must document this new activity."
+66657,265,291,1171000,Lisa Simpson,CHIMP REFUGE,Dr. Bushwell!
+66658,265,292,1173000,Joan Bushwell,CHIMP REFUGE,"What? These? Well, they were a graduation present."
+66659,265,293,1178000,ANIMAL ACTIVIST,CHIMP REFUGE,Unbelievable. The shaft must be five miles deep.
+66664,265,298,1193000,Activists,Joan Bushwell's Hut,"/ Oh, for-- / Lookit. There's more over here!"
+66665,265,299,1195000,ANIMAL ACTIVIST,Joan Bushwell's Hut,She's hidden diamonds everywhere.
+66666,265,300,1197000,Marge Simpson,Joan Bushwell's Hut,Even on the soles of her shoes.
+66667,265,301,1199000,ANIMAL ACTIVIST,Joan Bushwell's Hut,She's one of the ten richest chimp researchers in the world.
+66668,265,302,1205000,Homer Simpson,Joan Bushwell's Hut,"Look at me, I'm a scientist!"
+66669,265,303,1211000,Lisa Simpson,Joan Bushwell's Hut,How could you exploit your beloved chimps like this?
+66670,265,304,1215000,Bart Simpson,Joan Bushwell's Hut,I think we should look at her research before we condemn her entirely.
+66671,265,305,1221000,Bart Simpson,Joan Bushwell's Hut,I haven't said anything for a while.
+66672,265,306,1226000,Lisa Simpson,Joan Bushwell's Hut,These are just pictures of monkeys from famous movies.
+66673,265,307,1234000,Joan Bushwell,Joan Bushwell's Hut,"All right, so I snapped. You don't understand the crushing loneliness and greed."
+66674,265,308,1240000,Marge Simpson,Joan Bushwell's Hut,"Don't worry, Doctor. We'll get you all the help you need."
+66676,265,309,1244000,Joan Bushwell,Joan Bushwell's Hut,No! Don't put me away! I'll give you diamonds!
+66677,265,310,1249000,Joan Bushwell,Joan Bushwell's Hut,Everybody wants diamonds! Diamonds will make everything all better! Diamonds! Diamonds!
+66679,265,312,1259000,Homer Simpson,Airplane,What a nice lady.
+66680,265,313,1261000,Marge Simpson,Airplane,Very nice.
+66681,265,314,1262000,Bart Simpson,Airplane,"Hey, Lis, check it out."
+66682,265,315,1264000,Bart Simpson,Airplane,Diamond Vision.
+66683,265,316,1265000,Lisa Simpson,Airplane,Buzz off.
+66684,265,317,1267000,Homer Simpson,Airplane,"Hey, look! Our tour guide got a new job."
+66685,265,318,1270000,Marge Simpson,Airplane,"Hm, quite a promotion."
+66686,265,319,1272000,Homer Simpson,Airplane,I was wondering what became of him.
+66687,265,320,1274000,Marge Simpson,Airplane,What happened to President Muntu?
+66688,265,321,1276000,Muntu,Airplane,I don't want to talk about it.
+66689,265,322,1282000,Lisa Simpson,Airplane,"/ Oh, he got overthrown!"
+66690,265,323,1286000,Homer Simpson,Airplane,"Now he's just a stinking flight attendant! Hey, where's my pillow?"

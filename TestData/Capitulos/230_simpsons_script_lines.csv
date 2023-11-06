@@ -1,0 +1,253 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+55592,230,1,75000,Lisa Simpson,COASTAL ROAD,I still can't believe we escaped from those horrible vampires.
+55593,230,2,78000,Homer Simpson,COASTAL ROAD,But it was worth it to get back our super Sugar Crisp cereal.
+55594,230,3,83000,Homer Simpson,COASTAL ROAD,Can't get enough of that Sugar Crisp...
+55595,230,4,86000,Marge Simpson,COASTAL ROAD,"I'm having a hard time seeing. Homer, did you remember to put the fog lights in?"
+55596,230,5,91000,Homer Simpson,COASTAL ROAD,Guess I forgot to put the fog lights in...
+55597,230,6,93000,Marge Simpson,COASTAL ROAD,I better pull over and play it safe.
+55598,230,7,98000,Marge Simpson,COASTAL ROAD,Please be a dog.
+55600,230,9,103000,Marge Simpson,Roadside,"Oh, no!"
+55601,230,10,106000,Bart Simpson,Roadside,Ned Flanders!
+55602,230,11,108000,Homer Simpson,Roadside,He's dead!
+55603,230,12,111000,Homer Simpson,Roadside,He's definitely dead!
+55604,230,13,114000,Marge Simpson,Roadside,"Oh my God, we killed Ned Flanders!"
+55605,230,14,118000,Bart Simpson,Roadside,You mean you killed Ned Flanders.
+55606,230,15,120000,Marge Simpson,Roadside,"Oh, it was an accident! An accident!"
+55607,230,16,122000,Lisa Simpson,Roadside,We've got to go to the police.
+55608,230,17,124000,Bart Simpson,Roadside,They'll never believe a Simpson killed a Flanders by accident. Even I have my doubts.
+55609,230,18,129000,Homer Simpson,Roadside,"Don't worry. I've got a plan. Okay, Ned, the first thing we have to do is..."
+55610,230,19,130000,Homer Simpson,Roadside,To make sure that no one knows that you're dead. And if anyone asks... you're not dead.
+55612,230,21,141000,Homer Simpson,Simpson Home,Hey Maude! Look who's helping me clean the chimney.
+55613,230,22,148000,Maude Flanders,Simpson Home,Neddy? Where have you been?
+55614,230,23,151000,Homer Simpson,Simpson Home,"Hi, Maude. Diddily. I've been having fun with my pal Homer. Diddily."
+55615,230,24,159000,Maude Flanders,Simpson Home,"Oh, I'm so relieved. Whenever you go on one of your late night fog walks, I get so worried."
+55616,230,25,166000,Homer Simpson,Simpson Home,"Relax, I'm fine. But when I do die, I don't want any autopsies."
+55617,230,26,172000,Maude Flanders,Simpson Home,"Well, come on down, you goofy roofy."
+55618,230,27,175000,Homer Simpson,Simpson Home,"Wow, it sure is slippery up here."
+55619,230,28,178000,Maude Flanders,Simpson Home,My pies are done!
+55620,230,29,181000,Homer Simpson,Simpson Home,"Aww, she missed it."
+55622,230,31,183000,Homer Simpson,Flanders Home,"Hey Maude, I'm home. Uh-oh. I think I'm having a heart attack."
+55624,230,33,194000,Homer Simpson,Flanders Home,And that's the end of that chapter.
+55626,230,35,206000,Homer Simpson,First Church of Springfield,Try not to look too sad -- it'll seem suspicious.
+55627,230,36,212000,Rev. Timothy Lovejoy,First Church of Springfield,... And now Ned's best friend will say a few words. Homer?
+55628,230,37,218000,Homer Simpson,First Church of Springfield,"When I think about Ned, I can't help but remember the look on his face when Marge drove over..."
+55629,230,38,224000,Marge Simpson,First Church of Springfield,Shut up! Shut up! Shut up!
+55630,230,39,225000,Homer Simpson,First Church of Springfield,"Oh, wait... What I'd like to say is, we're still looking for the real killers. Anyway, in conclusion, a man cannot be forced to testify against his wife."
+55631,230,40,236000,Marge Simpson,First Church of Springfield,Stop winking.
+55632,230,41,238000,Homer Simpson,First Church of Springfield,"We'll miss you, buddy."
+55634,230,43,242000,Homer Simpson,Simpson Home,"Hey, we just got away with murder. And it was so easy."
+55635,230,44,246000,Homer Simpson,Simpson Home,"You know, I've never liked that little wiener Milhouse."
+55636,230,45,251000,Marge Simpson,Simpson Home,No more murders.
+55637,230,46,253000,Homer Simpson,Simpson Home,But you got to kill...
+55638,230,47,254000,Marge Simpson,Simpson Home,No.
+55639,230,48,258000,Marge Simpson,Simpson Home,Someone saw us.
+55640,230,49,260000,Bart Simpson,Simpson Home,But who?
+55641,230,50,269000,Marge Simpson,Simpson Home,Homer! Stop that!
+55643,230,52,277000,Marge Simpson,Simpson Home,Who could be calling at this hour?
+55644,230,53,280000,Homer Simpson,Simpson Home,Y'ello?
+55645,230,54,282000,CREEPY VOICE,Simpson Home,I know you're alone.
+55646,230,55,283000,Homer Simpson,Simpson Home,Who is this?
+55647,230,56,286000,CREEPY VOICE,Simpson Home,Is this Maude Flanders?
+55648,230,57,288000,Homer Simpson,Simpson Home,"No, it's Homer."
+55649,230,58,290000,CREEPY VOICE,Simpson Home,"Oh, hey Homer, it's Moe. I must have dialed the wrong number."
+55653,230,62,315000,Homer Simpson,Simpson Car,"Dear God, it's Homer. If you really love me, you'll save my life now."
+55655,230,64,324000,Lisa Simpson,Simpson Car,He's getting closer!
+55657,230,66,330000,Homer Simpson,Simpson Car,"Okay, Marge, you hide in the abandoned amusement park."
+55658,230,67,333000,Homer Simpson,Simpson Car,"Lisa, the pet cemetery."
+55659,230,68,335000,Homer Simpson,Simpson Car,"Bart, spooky roller disco."
+55660,230,69,338000,Homer Simpson,Simpson Car,And I'll go skinny dipping in that lake where the sexy teens were killed a hundred years ago tonight.
+55661,230,70,343000,Homer Simpson,Simpson Car,"Now, Flanders, I want you to..."
+55663,230,72,348000,Marge Simpson,Simpson Car,It's impossible. I killed you.
+55664,230,73,352000,Ned Flanders,Simpson Car,"You can't kill the undead, silly."
+55665,230,74,355000,Homer Simpson,Simpson Car,"He's undead, all right."
+55666,230,75,356000,Bart Simpson,Simpson Car,Are you a zombie?
+55667,230,76,357000,Ned Flanders,Simpson Car,"Oh, I wish. You see, that night when you hit me with your car..."
+55669,230,78,362000,Ned Flanders,COASTAL ROAD,I'm making record time on this fog walk!
+55670,230,79,367000,Ned Flanders,COASTAL ROAD,"Ooo, better pick up the pace."
+55672,230,81,378000,Homer Simpson,COASTAL ROAD,Guess I forgot to put the fog lights in...
+55673,230,82,381000,Marge Simpson,COASTAL ROAD,I better pull over and play it safe.
+55675,230,84,388000,Lisa Simpson,COASTAL ROAD,So you were going to kill us.
+55676,230,85,391000,Ned Flanders,COASTAL ROAD,Yeah...
+55677,230,87,399000,Homer Simpson,COASTAL ROAD,"Hey, Foamy, I want the news, not the weather. Marge, did you hear me zing Werewolf Flanders?"
+55681,230,91,420000,Homer Simpson,COASTAL ROAD,"Flanders, stop that."
+55683,230,93,423000,Homer Simpson,COASTAL ROAD,"Eyes bigger than your stomach, eh, wolfie?"
+55688,230,98,445000,Chief Wiggum,Springfield Elementary School Gym,"Well, well, well, if it isn't the cutest police officer in Springfield."
+55689,230,99,450000,Lou,Springfield Elementary School Gym,"Hey, you know, we got feelin's too, Chief."
+55690,230,100,452000,Chief Wiggum,Springfield Elementary School Gym,"Just dump your candy on the X-ray belt, Ralphie. There's a good boy."
+55691,230,101,457000,Chief Wiggum,Springfield Elementary School Gym,"Safe... safe... razor blade... syringe... ooh, white chocolate!"
+55692,230,102,463000,Milhouse Van Houten,Springfield Elementary School Gym,"Check it out, Lisa. I'm Radioactive Man."
+55693,230,103,466000,Lisa Simpson,Springfield Elementary School Gym,I don't think the real Radioactive Man wears a plastic smock with a picture of himself on it.
+55694,230,104,471000,Milhouse Van Houten,Springfield Elementary School Gym,He would on Halloween.
+55695,230,105,476000,Nelson Muntz,Springfield Elementary School Gym,"Get in there, you stupid pillowcase."
+55696,230,106,479000,Chief Wiggum,Springfield Elementary School Gym,Stop it! You'll jam the machine!
+55697,230,107,482000,Seymour Skinner,Springfield Elementary School Gym,Uh-oh. Radiation! Duck and cover!
+55698,230,108,486000,Bart Simpson,Springfield Elementary School Gym,Cool...
+55699,230,109,487000,Lisa Simpson,Springfield Elementary School Gym,Bart!
+55700,230,110,491000,Seymour Skinner,Springfield Elementary School Gym,"Oh, my God! Lisa!"
+55701,230,111,493000,Seymour Skinner,Springfield Elementary School Gym,She's been crushed! And so have the hopes of our mathletics team.
+55702,230,112,499000,Lisa Simpson,Springfield Elementary School Gym,"Hold the funeral, Poindexter."
+55703,230,113,501000,Seymour Skinner,Springfield Elementary School Gym,Poindexter?!
+55704,230,114,501000,Bart Simpson,Springfield Elementary School Gym,"Whoa, Lis, those X-rays must've given you super strength. I wonder if I got any powers..."
+55705,230,115,512000,Bart Simpson,Springfield Elementary School Gym,"Nope, looks normal... Wait a minute."
+55706,230,116,514000,Bart Simpson,Springfield Elementary School Gym,I can stretch!
+55707,230,117,517000,Bart Simpson,Springfield Elementary School Gym,Look at me!
+55708,230,118,517000,Bart Simpson,Springfield Elementary School Gym,Ow! Hot-hot-hot!
+55709,230,119,521000,Bart Simpson,Springfield Elementary School Gym,I must only use this power to annoy.
+55711,230,120,527000,Seymour Skinner,Springfield Elementary School Gym,"Now, who could that be at this hour?"
+55712,230,121,529000,Seymour Skinner,Springfield Elementary School Gym,"Yes, yes... Up, down... Side-to-side... What's your point?"
+55713,230,122,533000,Seymour Skinner,Springfield Elementary School Gym,Ow!
+55714,230,123,536000,Bart Simpson,Springfield Elementary School Gym,Gotcha.
+55715,230,124,537000,Lisa Simpson,Springfield Elementary School Gym,"Bart, with these powers, we can become superheroes!"
+55716,230,125,541000,Chief Wiggum,Springfield Elementary School Gym,"Okay, so do it already!"
+55717,230,126,542000,Singers,Springfield Elementary School Gym,STRETCH DUDE AND CLOBBER GIRL / HE'S A HUMAN RUBBER BAND AND SHE'S THE HULK IN PEARLS!
+55718,230,127,550000,Singers,Springfield Elementary School Gym,HE'S A LIMBER LAD...
+55719,230,128,553000,Singers,Springfield Elementary School Gym,SHE'S A POWERFUL LASS...
+55720,230,129,555000,Singers,Springfield Elementary School Gym,"HE'LL WRING YOUR NECK, AND SHE'LL KICK YOUR ASS!"
+55721,230,130,558000,Singers,Springfield Elementary School Gym,THEY'RE STRETCH DUDE! AND CLOBBER GIRL! / STRETCH DUDE! CLOBBER GIRL! / STRETCH DUDE! CLOBBER GIRL!
+55722,230,131,567000,Announcer,Springfield Elementary School Gym,"Tonight's episode: ""Enter the Collector."""
+55724,230,133,567000,Lucy Lawless,Bookstore,"... But I'm sure that once girls get to know the real you, you'll get plenty of dates. Next question."
+55725,230,134,576000,Professor Jonathan Frink,Bookstore,"Yes, over here. In episode BF12 you were battling barbarians while riding a wing-ed Appaloosa. Yet in the very next scene, my dear, you're clearly atop a wing-ed Arabian. Please to explain it."
+55726,230,135,590000,Lucy Lawless,Bookstore,"Uhh, yeah, whenever you notice something like that, a wizard did it."
+55727,230,136,595000,Professor Jonathan Frink,Bookstore,"I see, all right, yes. But in episode AG4..."
+55728,230,137,598000,Lucy Lawless,Bookstore,Wizard.
+55729,230,138,599000,Professor Jonathan Frink,Bookstore,"Oh, for glayvin out loud."
+55730,230,139,602000,Comic Book Guy,Bookstore,Behold! I am the Collector... and I'm here to add you to my collection!
+55731,230,140,614000,Lucy Lawless,Bookstore,Must remove... my breastplate... Maybe later.
+55733,230,142,623000,Comic Book Guy,Springfield Street,"Care for a Rollo, sweet Xena?"
+55734,230,143,624000,Lucy Lawless,Springfield Street,"All right, ""Collector,"" stick this in your tweezers! I'm not Xena! I'm an actress, you lunatic."
+55735,230,144,630000,Comic Book Guy,Springfield Street,"Oh, please. I'm not insane. I simply wish to take you back to my lair and make you my bride."
+55736,230,145,636000,Lucy Lawless,Springfield Street,"Oh, dear God!"
+55738,230,147,642000,Bart Simpson,SIMPSONS FRONT YARD,Clobber Girl?
+55739,230,148,648000,Lucy Lawless,SIMPSONS FRONT YARD,Help!
+55740,230,149,651000,Bart Simpson,SIMPSONS FRONT YARD,It's Xena! She's been kidnapped! Come on!
+55741,230,150,657000,Marge Simpson,SIMPSONS FRONT YARD,"Remember, you're vulnerable to Kryptonite!"
+55742,230,151,660000,Homer Simpson,SIMPSONS FRONT YARD,"Geez, Marge, tell the neighborhood."
+55744,230,153,667000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Fear not, my syndicated sweetie. You'll be preserved in this Mylar pouch. Forever remaining in near-mint condition between Dr. Who and, of course, Yasmine Bleeth."
+55745,230,154,679000,Lisa Simpson,The Android's Dungeon & Baseball Card Shop,I don't think so!
+55746,230,155,682000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"I don't think so, either."
+55747,230,156,687000,Lisa Simpson,The Android's Dungeon & Baseball Card Shop,"Your collecting days are over, Collector..."
+55748,230,157,691000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Stop right there! I have here the only working phaser ever built. It was fired only once -- to keep William Shatner from making another album.
+55749,230,158,700000,Lisa Simpson,The Android's Dungeon & Baseball Card Shop,Stretch Dude! Help!
+55750,230,159,702000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Just a sec.
+55751,230,160,711000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Whoa! Hey, phaser, phaser, phaser -- zing!"
+55752,230,161,723000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Goodnight, Retch Dude and Slobber Girl. Sweet screams."
+55753,230,162,728000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,I'm unbelievably rude.
+55754,230,163,728000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Soon, those bratty buttinskis will be encased in Lucite for all eternity. While we're waiting, here are some names you may call me on our wedding night: Obi-Wan, Iron Man, Mr. Mxyzptlk, and, of course, Big Papa Smurf."
+55755,230,164,741000,Lucy Lawless,The Android's Dungeon & Baseball Card Shop,What do you need me for? You could have your choice of any of the women in these bags.
+55756,230,165,750000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"You would think so, but no."
+55757,230,166,751000,Lucy Lawless,The Android's Dungeon & Baseball Card Shop,"Really? Well, I mean, maybe we are meant for each other. Growing up, I was always tall for my age, and the other kids made fun of me. I... I always hoped for another misunderstood soul to share my pain and... you could be that soul, Collector."
+55759,230,168,769000,Lucy Lawless,The Android's Dungeon & Baseball Card Shop,"Come here, you. Xena needs xex."
+55760,230,169,777000,Lucy Lawless,The Android's Dungeon & Baseball Card Shop,Got your lips!
+55762,230,171,783000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,You tricked me with a ruse so hackneyed it would make Stan Lee blush.
+55763,230,172,789000,Lucy Lawless,The Android's Dungeon & Baseball Card Shop,Shut up.
+55765,230,174,795000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Ooh! Ow! Oh, that hurts!"
+55766,230,175,801000,Lisa Simpson,The Android's Dungeon & Baseball Card Shop,"Bart, just let me drop and save yourself!"
+55767,230,176,804000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,What d'you think I've been tryin' to do?
+55768,230,177,806000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Aha! Not even Xena is a match for the limited-edition, double-edged light saber from ""Star Wars -- Episode 1... The Phantom Menace""."
+55769,230,178,820000,Lucy Lawless,The Android's Dungeon & Baseball Card Shop,You removed it from its original packaging!
+55770,230,179,823000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Nooo! It's no longer a collectible!
+55773,230,182,831000,Lucy Lawless,The Android's Dungeon & Baseball Card Shop,What a nerd.
+55774,230,183,833000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Lucite hardening...
+55775,230,184,834000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Must end life in classic Lorne Greene pose from ""Battlestar Galactica""..."
+55776,230,185,842000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Best... death... ever.
+55777,230,186,847000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Wow, thanks for saving us."
+55778,230,187,849000,Lucy Lawless,The Android's Dungeon & Baseball Card Shop,No problem. Now let's get you kids home.
+55779,230,188,853000,Lisa Simpson,The Android's Dungeon & Baseball Card Shop,"Wait a minute, Xena can't fly."
+55780,230,189,855000,Lucy Lawless,The Android's Dungeon & Baseball Card Shop,I told you. I'm not Xena. I'm Lucy Lawless.
+55781,230,190,858000,Lisa Simpson,The Android's Dungeon & Baseball Card Shop,Oh.
+55782,230,191,859000,Singers,The Android's Dungeon & Baseball Card Shop,STRETCH DUDE! AND CLOBBER GIRL!
+55784,230,193,873000,Dick Clark,Springfield County Court House,"This is Dick Clark, rockin' down to the year 2000... and that was Whitesnake!"
+55785,230,194,877000,Band Member #1,Springfield County Court House,"We're not Whitesnake, dude, we're Poison."
+55786,230,195,880000,Band Member #2,Springfield County Court House,I thought we were Quiet Riot.
+55787,230,196,882000,Band Member #3,Springfield County Court House,"Well, it says here we're Ratt."
+55789,230,198,886000,Grampa Simpson,Simpson Home,"Man alive, what a stinko thousand years! Blimp wrecks, teen-agers... then again, we had two TV shows with Andy Griffith."
+55790,230,199,895000,Marge Simpson,Simpson Home,And eleven with Robert Urich.
+55791,230,200,898000,Rick James,Simpson Home,SUPER FREAK! SUPER FREAK! I'M SUPER FREAKIN'! YOWWWL!
+55792,230,201,903000,Rick James,Simpson Home,"Aw, man. What'd I do now?"
+55793,230,202,904000,Dick Clark,Simpson Home,Wonderful. Now that song is dedicated to all you super geeks who rocked around the clock to exterminate America's Y2K bugs. Slammin'!
+55794,230,203,913000,Lenny Leonard,Simpson Home,"Hey, Homer. Weren't you the plant's Y2K Compliance Officer?"
+55795,230,204,916000,Homer Simpson,Simpson Home,Absolutely.
+55796,230,205,918000,Carl Carlson,Simpson Home,"It musta been hard debugging all those computers, huh Homer?"
+55797,230,206,921000,Homer Simpson,Simpson Home,Doin' what now?
+55798,230,207,922000,Lisa Simpson,Simpson Home,"You did fix them, right Dad? Because even a single faulty unit could corrupt every other computer in the world."
+55799,230,208,929000,Homer Simpson,Simpson Home,"That can't be true, honey. If it were, I'd be terrified."
+55800,230,209,934000,Dick Clark,Simpson Home,"... EIGHT... SEVEN... SIX... we wanna thank Dixie Brand Mayonnaise... Whoo Lawdy, what a mayonnaise! THREE... TWO..."
+55802,230,211,945000,Technician #1,HIGH TECH BUILDING,That's Homer Simpson's computer.
+55803,230,212,946000,Technician,HIGH TECH BUILDING,Oh God! It's spreading!
+55805,230,214,948000,Crowd,Springfield County Court House,Happy New--
+55806,230,215,951000,Crowd,Springfield County Court House,Wha?!
+55807,230,216,952000,Dick Clark,Springfield County Court House,"Oh, no. It's happening."
+55808,230,217,962000,Homer Simpson,Springfield County Court House,Uh-oh.
+55811,230,220,976000,Nelson Muntz,Springfield Elementary School,Ha...
+55812,230,221,977000,Nelson Muntz,Springfield Elementary School,... Wha?!
+55814,230,223,986000,Marge Simpson,Simpson Home,Who's going to clean up all those jets?
+55815,230,224,991000,Marge Simpson,Simpson Home,There goes the clothesline.
+55816,230,225,993000,Homer Simpson,Simpson Home,"Well, those ivory tower eggheads have screwed us again. Let's just have some milk and go to bed..."
+55817,230,226,1000000,Homer Simpson,Simpson Home,"Hey, this milk's broken."
+55818,230,227,1002000,Lisa Simpson,Simpson Home,It's got a computer chip in it. Everything does.
+55819,230,228,1010000,Homer Simpson,Simpson Home,Stop! Ow!
+55824,230,233,1020000,Rev. Timothy Lovejoy,First Church of Springfield,"... Judgment Day is upon us. I warned you the Lord wouldn't stand for your mini-dresses, and Beatle boots..."
+55825,230,234,1029000,Ned Flanders,First Church of Springfield,I resisted these for thirty-five years! Why did I wear them today?
+55826,230,235,1032000,Rev. Timothy Lovejoy,First Church of Springfield,But it's not too late to repent your sins and be embraced by the Almighty --
+55827,230,236,1038000,Chief Wiggum,First Church of Springfield,"Hey, everybody!"
+55828,230,237,1038000,Chief Wiggum,First Church of Springfield,They're looting the mall. Hurry! I got nine shoe buffers!
+55829,230,238,1046000,Homer Simpson,First Church of Springfield,I'm caught on something!
+55830,230,239,1048000,Marge Simpson,First Church of Springfield,I don't want you looting!
+55831,230,240,1050000,Homer Simpson,First Church of Springfield,But I was gonna loot you a present!
+55832,230,241,1052000,Marge Simpson,First Church of Springfield,"Oh, all right."
+55836,230,245,1061000,Marge Simpson,Downtown Springfield,"Oh, thank you, Homie. A Lady Remington."
+55839,230,248,1077000,Lisa Simpson,Springfield Street,"Well, look at the wonders of the computer age now."
+55840,230,249,1081000,Homer Simpson,Springfield Street,"Wonders, Lisa? Or blunders?"
+55841,230,250,1085000,Lisa Simpson,Springfield Street,I think that was implied by what I said.
+55842,230,251,1087000,Homer Simpson,Springfield Street,"Implied, Lisa? Or implode?"
+55843,230,252,1091000,Lisa Simpson,Springfield Street,"Mom, make him stop."
+55845,230,254,1094000,Bart Simpson,Springfield Street,"Oh, no! Krusty!"
+55846,230,255,1097000,Krusty the Clown,Springfield Street,My pacemaker... it's stuck on hummingbird!
+55847,230,256,1100000,Krusty the Clown,Springfield Street,Nectar! Nectar! I need to drink my weight in nectar!
+55848,230,257,1104000,Bart Simpson,Springfield Street,"Krus-tyyyyyy! Hey, a note."
+55849,230,258,1111000,Bart Simpson,Springfield Street,You have been selected for Operation Exodus...
+55850,230,259,1111000,Lisa Simpson,Springfield Street,They're evacuating the Earth! We're saved!
+55851,230,260,1118000,Homer Simpson,Springfield Street,"Thank you, sweet clown."
+55852,230,261,1122000,Homer Simpson,Springfield Street,In death you saved us all.
+55853,230,262,1125000,Krusty the Clown,Springfield Street,I'm not dead!
+55854,230,263,1128000,Homer Simpson,Springfield Street,I can still hear his voice on the wind.
+55856,230,265,1132000,Bart Simpson,Springfield,There it is!
+55857,230,266,1134000,Homer Simpson,Springfield,Just like the dead clown promised.
+55859,230,268,1139000,Bart Simpson,SPACESHIP LAUNCH AREA,"Wow, there's Bill Gates, Stephen Hawking, Paul McCartney, Michael Jordan, Michelle Kwan..."
+55860,230,269,1146000,Lisa Simpson,SPACESHIP LAUNCH AREA,They must be starting a new civilization on Mars with our best and brightest.
+55861,230,270,1150000,Homer Simpson,SPACESHIP LAUNCH AREA,That's us!
+55862,230,271,1151000,Guard,SPACESHIP LAUNCH AREA,Name please.
+55863,230,272,1153000,Homer Simpson,SPACESHIP LAUNCH AREA,"Certainly. I am... the, ah, piano genius from the movie ""Shine."""
+55864,230,273,1158000,Guard,SPACESHIP LAUNCH AREA,Uh-huh. And your name is?
+55865,230,274,1160000,Homer Simpson,SPACESHIP LAUNCH AREA,Uh... Shiny McShine?
+55867,230,275,1163000,Lisa Simpson,SPACESHIP LAUNCH AREA,"Actually, he's Homer Simpson. That's Bart. I'm Lisa..."
+55868,230,276,1166000,Guard,SPACESHIP LAUNCH AREA,"Lisa Simpson? Ah, you're the ship's proofreader. Welcome aboard!"
+55869,230,277,1170000,Guard,SPACESHIP LAUNCH AREA,"Now before you enter, you're going to have to make a very difficult choice. You're only allowed to take one parent with you--"
+55870,230,278,1176000,Lisa Simpson,SPACESHIP LAUNCH AREA,Mom.
+55871,230,279,1179000,Marge Simpson,SPACESHIP LAUNCH AREA,Love ya lots!
+55872,230,280,1180000,Homer Simpson,SPACESHIP LAUNCH AREA,"Good-bye Lisa, remember me as I am... filled with murderous rage."
+55874,230,282,1189000,Homer Simpson,Spaceship,"Well, son. I guess this is the end. But we've both had long, full lives. Oh, right."
+55875,230,283,1198000,Bart Simpson,Spaceship,"Hey, look, another spaceship!"
+55876,230,284,1199000,Homer Simpson,Spaceship,And there's nobody guarding it. Let's go!
+55879,230,287,1206000,Homer Simpson,Spaceship,I can't believe I destroyed the Earth.
+55880,230,288,1209000,Bart Simpson,Spaceship,Are you still talking about the Earth?
+55881,230,289,1211000,Homer Simpson,Spaceship,You're right. I gotta let it go. All that counts is we're alive and rubbing elbows with the greats.
+55882,230,290,1217000,Homer Simpson,Spaceship,"Ooh, there's Ross Perot, Dr. Laura, Spike Lee..."
+55883,230,291,1223000,Bart Simpson,Spaceship,Wait a minute. They're not so great.
+55884,230,292,1225000,Homer Simpson,Spaceship,"Okay, but there's... Dan Quayle and Courtney Love... Tanya Harding... Al Sharpton...?"
+55885,230,293,1232000,Homer Simpson,Spaceship,Tom Arnold?! What the hell's going on?!
+55886,230,294,1235000,Bart Simpson,Spaceship,Wait. Only that ship is going to Mars. Our's is headed for the sun.
+55887,230,295,1240000,Tom Arnold,Spaceship,"Yeah, ain't that a kick in the teeth? I mean, my shows weren't great, but I never tied people up and forced 'em to watch. And I could've. 'Cause I'm a big guy. And I'm good with knots."
+55888,230,296,1247000,Homer Simpson,Spaceship,So we're all gonna die?
+55889,230,297,1249000,Tom Arnold,Spaceship,"'Fraid so. But hey, the grub's pretty good, huh?"
+55890,230,298,1254000,Homer Simpson,Spaceship,The sun? That's the hottest place on Earth!
+55891,230,299,1257000,Pauly Shore,Spaceship,"Gonna work on my tannage, buuuh-ddy."
+55892,230,300,1261000,Tom Arnold,Spaceship,"Pauly Shore? Wow! Hey, we should do a show together, man. That's a sure cure for the blues!"
+55893,230,301,1268000,Rosie O'Donnell,Spaceship,"Hey, turn those frowns around!"
+55894,230,302,1270000,Homer Simpson,Spaceship,"Oh no, Rosie O'Donnell."
+55896,230,303,1273000,Rosie O'Donnell,Spaceship,"C'mon everybody, sing along! ""CLANG CLANG CLANG WENT THE TROLLEY!"" This side only!"
+55897,230,304,1280000,Terrible Celebrities,Spaceship,DING DING DING WENT THE BELL! / ZING ZING ZING WENT MY HEARTSTRINGS / FROM THE MOMENT I SAW HIM I FELL!
+55898,230,305,1290000,Rosie O'Donnell,Spaceship,"""CLANG CLANG CLANG WENT THE TROLLEY!"" / ""DING DING DING WENT THE BELL!"
+55899,230,306,1290000,Bart Simpson,Spaceship,"Don't worry, Dad. We'll be dead in five minutes."
+55900,230,307,1292000,Homer Simpson,Spaceship,Not fast enough!
+55902,230,309,1292000,ROSIE O'DONNEL,Spaceship,"FROM THE MOMENT I SAW HIM I FELL!"""

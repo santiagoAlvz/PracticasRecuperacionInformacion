@@ -1,0 +1,254 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+11696,72,1,66000,Lance Murdock,Simpson Home,"Hey, hey!"
+11697,72,2,95000,Announcer,Simpson Home,Hey Lance Murdock! You just jumped 16 blazing school buses. What are you going to do now?
+11698,72,3,101000,Lance Murdock,Simpson Home,I'm going to Duff Gardens.
+11699,72,4,104000,Announcer,Simpson Home,"Duff Gardens! Home of ""The Whiplash."""
+11700,72,5,109000,2nd Announcer,Simpson Home,To be completed in 1994.
+11703,72,8,118000,Announcer,Simpson Home,"And ""The Washing Machine""!"
+11704,72,9,122000,Homer Simpson,Simpson Home,Wowww.
+11705,72,10,125000,Announcer,Simpson Home,See the happiest fish in the world at our fabulous Beerquarium!
+11706,72,11,141000,Homer Simpson,Simpson Home,"Bart, warm up the car. We're going to Duff Gardens."
+11707,72,12,145000,Lisa Simpson,Simpson Home,Yayyy!
+11708,72,13,146000,Homer Simpson,Simpson Home,"Now, what do we say when we get to the ticket booth?"
+11709,72,14,149000,Lisa Simpson,Simpson Home,We're under six!
+11710,72,15,151000,Homer Simpson,Simpson Home,"And I'm a college student! Heh, heh."
+11711,72,16,153000,Marge Simpson,Simpson Home,"Kids, I have some bad news. Your Great Aunt Gladys has... passed on."
+11712,72,17,159000,Bart Simpson,Simpson Home,"Gladys, Gladys... `bout yay high, blue hair, big dent in her forehead?"
+11713,72,18,165000,Marge Simpson,Simpson Home,"No honey, Gladys looked more like your Aunt Patty."
+11714,72,19,170000,Bart Simpson,Simpson Home,"Oh yeah, there she is."
+11715,72,20,172000,Marge Simpson,Simpson Home,The funeral's in Little Neck Falls. Looks like we'll have to go to Duff Gardens another time.
+11716,72,21,177000,Lisa Simpson,Simpson Home,We understand.
+11717,72,22,178000,Bart Simpson,Simpson Home,No use complaining about something you can't change.
+11718,72,23,180000,Homer Simpson,Simpson Home,But I wanna go to Duff Gardens. Right now!
+11719,72,24,184000,Marge Simpson,Simpson Home,"Oh Homer, quit pouting."
+11720,72,25,186000,Homer Simpson,Simpson Home,I'm not pouting. I'm... mourning. Stupid dead woman.
+11722,72,27,191000,Bart Simpson,SIMPSON STATION WAGON,ON TOP OF SPAGHETTI... ALL COVERED WITH CHEESE... I LOST MY POOR MEATBALL...
+11723,72,28,196000,Marge Simpson,SIMPSON STATION WAGON,If you don't mind! We're on our way to a funeral.
+11724,72,29,200000,Homer Simpson,SIMPSON STATION WAGON,"Ding-dong, the witch is dead."
+11725,72,30,202000,Bart Simpson,SIMPSON STATION WAGON,WHICH OLD WITCH?
+11548,72,31,204000,Homer Simpson,SIMPSON STATION WAGON,THE WICKED WITCH.
+11582,72,32,205000,Marge Simpson,SIMPSON STATION WAGON,Homer.
+11726,72,33,210000,Homer Simpson,SIMPSON STATION WAGON,Patty. Selma. I'm sorry.
+11727,72,34,214000,Selma Bouvier,SIMPSON STATION WAGON,He's hugging us. What do we do?
+11728,72,35,216000,Patty Bouvier,SIMPSON STATION WAGON,Just close your eyes and think of MacGyver.
+11729,72,36,222000,Bart Simpson,SIMPSON STATION WAGON,"Hey Homer, this luggage is crushing me."
+11730,72,37,225000,Homer Simpson,SIMPSON STATION WAGON,Hey you don't hear Lisa complaining.
+11733,72,40,235000,Selma Bouvier,SIMPSON STATION WAGON,I can't believe Auntie Gladys is really gone.
+11734,72,41,238000,Patty Bouvier,SIMPSON STATION WAGON,Her legend will live forever.
+11735,72,42,241000,Homer's Thought Bubble,SIMPSON STATION WAGON,"Yeah, the legend of the dog-faced woman!"
+11736,72,43,244000,Homer Simpson,SIMPSON STATION WAGON,"Legend of the dog-faced woman! Oh, that's good."
+11737,72,44,249000,Marge Simpson,SIMPSON STATION WAGON,"Homer, that's very rude of you."
+11738,72,45,252000,Homer Simpson,SIMPSON STATION WAGON,What?
+11739,72,46,253000,Selma Bouvier,SIMPSON STATION WAGON,Could we please stop somewhere? My butt's asleep.
+11741,72,48,269000,Homer Simpson,Diner,"All right, I'm almost there."
+11742,72,49,276000,Waitress,Diner,"Another placemat, sir?"
+11743,72,50,278000,Homer Simpson,Diner,Please.
+11744,72,51,279000,Marge Simpson,Diner,"While we're waiting for our pie, let's take a minute to remember Great Aunt Gladys."
+11745,72,52,294000,Marge Simpson,Diner,"Wait a minute. That was ""Prince of Tides."""
+11747,72,54,298000,Lisa Simpson,SIMPSON STATION WAGON,Five... six... seven... eight...
+11748,72,55,300000,Marge Simpson,SIMPSON STATION WAGON,What are you kids playing?
+11749,72,56,305000,Bart Simpson,SIMPSON STATION WAGON,Counting game.
+11750,72,57,306000,Marge Simpson,SIMPSON STATION WAGON,That's nice.
+11751,72,58,307000,Lisa Simpson,SIMPSON STATION WAGON,... Nine... ten...
+11753,72,60,310000,Reverend,"""the Lucky Stiff"" Funeral Home",He was a good man. He was a kind man. He gave to his community and asked little in return. He never...
+11754,72,61,321000,Reverend,"""the Lucky Stiff"" Funeral Home","That's a woman? Dear Lord. Well, I guess most of what I said can be salvaged."
+11755,72,62,329000,Patty Bouvier,"""the Lucky Stiff"" Funeral Home","Take a seat, bozo. And that ""eulogy"" better not show up on the bill."
+11756,72,63,334000,Patty Bouvier,"""the Lucky Stiff"" Funeral Home",I'll keep this short. Gladys lived alone. Died alone. I guess you could say she was a role model for Selma and me. She wasn't a rich woman... but she was rich in spirit.
+11757,72,64,349000,Man,"""the Lucky Stiff"" Funeral Home",Forgot my hat.
+11760,72,66,358000,Homer Simpson,FUNERAL PARLOR,"Don't hassle the dead, boy. They have eerie powers."
+11761,72,67,360000,Bart Simpson,FUNERAL PARLOR,Eh.
+148534,72,68,365000,Homer's Brain,FUNERAL PARLOR,"I thought this thing was going to be catered. Boy, am I hungry. I mean I'm really, really hungry."
+11762,72,69,373000,Homer Simpson,FUNERAL PARLOR,"It's just not fair, dammit!"
+11763,72,70,382000,Lisa Simpson,FUNERAL PARLOR,"Goodbye, Great Aunt Gladys. I wish I had made more of an effort to get to know you these last few years."
+11764,72,71,390000,Aunt Gladys's Corpse,FUNERAL PARLOR,Don't worry about it.
+11767,72,74,400000,Lionel Hutz,FUNERAL PARLOR OFFICE,"I'm Lionel Hutz, executor of Ms. Bouvier's estate. She left a video will, so I earn my fee simply by pressing this ""Play"" button. Pretty sweet, eh?"
+11768,72,75,410000,Aunt Gladys,FUNERAL PARLOR OFFICE,"I would like to start by reading a passage from Robert Frost. ""Two roads diverged in a yellow wood, and..."
+11769,72,76,415000,Marge Simpson,FUNERAL PARLOR OFFICE,Homer!
+11770,72,77,421000,Homer Simpson,FUNERAL PARLOR OFFICE,All in favor of skipping the poem?
+11771,72,78,425000,Homer Simpson,FUNERAL PARLOR OFFICE,Thank you.
+11772,72,79,427000,Aunt Gladys,FUNERAL PARLOR OFFICE,"And that has made all the difference... Now, let's get down to business."
+11773,72,80,434000,HUTZ' VOICE,FUNERAL PARLOR OFFICE,"To my executor, Lionel Hutz, I leave fifty thousand dollars."
+11774,72,81,438000,Marge Simpson,FUNERAL PARLOR OFFICE,Mr. Hutz!
+11775,72,82,440000,MR. HUTZ,FUNERAL PARLOR OFFICE,You'd be surprised how often that works. You really would!
+11776,72,83,443000,Aunt Gladys,FUNERAL PARLOR OFFICE,"To Marge, I leave my collection of potato chips that resemble celebrities. They're all here. Otto Von Bismarck. Maurice Chevalier. Right up to Jay Leno."
+11777,72,84,454000,Aunt Gladys,FUNERAL PARLOR OFFICE,"These chips were my children, Marjorie. Take special care of them."
+11778,72,85,461000,Homer Simpson,FUNERAL PARLOR OFFICE,"Uh, oh."
+11779,72,86,466000,Aunt Gladys,FUNERAL PARLOR OFFICE,"To my sister Jackie, I leave my pet iguana, Jubjub."
+11780,72,87,469000,Jacqueline Bouvier,FUNERAL PARLOR OFFICE,Why didn't she just leave me the bowel obstruction that killed her?
+11781,72,88,474000,Aunt Gladys,FUNERAL PARLOR OFFICE,"To my dear, childless nieces, Patty and Selma, I leave my grandfather clock and these words: Don't die lonely, like me. Raise a family. And do it now. Now. Now! Now! NOW!"
+11782,72,89,490000,Patty Bouvier,FUNERAL PARLOR OFFICE,"Hey, a grandfather clock, not bad."
+11784,72,91,505000,Selma Bouvier,SIMPSON STATION WAGON,Aunt Gladys was right. There's something missing in our lives.
+11785,72,92,510000,Patty Bouvier,SIMPSON STATION WAGON,Don't worry. We'll get that Barking Dog record tomorrow.
+11759,72,93,513000,Selma Bouvier,SIMPSON STATION WAGON,"Patty, I want a baby."
+11786,72,95,530000,Selma Bouvier,DATING SERVICE,What do I do here?
+11787,72,96,532000,Interviewer,DATING SERVICE,Just tell us about yourself.
+11788,72,97,534000,Selma Bouvier,DATING SERVICE,"Well, I want to have a baby before it's too late You're looking at a free lunch, boys. Come and get it."
+11789,72,98,547000,Groundskeeper Willie,DATING SERVICE,"Ach! Back to the Loch with ye, Nessie!"
+11791,72,100,551000,Princess Opal,GYPSY SHACK,One drop of this love potion and you will have any man you desire.
+11792,72,101,559000,Selma Bouvier,GYPSY SHACK,Really? What are the magical ingredients?
+11793,72,102,562000,Princess Opal,GYPSY SHACK,"Mostly corn syrup, a little rubbing alcohol... you'll be lucky if it doesn't make your hair fall out, actually."
+11796,72,105,574000,Bag Boy,Supermarket,Paper or plastic?
+11797,72,106,576000,Selma Bouvier,Supermarket,You decide.
+11798,72,107,578000,Selma Bouvier,Supermarket,"So, wearing a belt, are ya?"
+11799,72,108,581000,Bag Boy,Supermarket,Yep.
+11800,72,109,582000,Selma Bouvier,Supermarket,No suspenders for you.
+11801,72,110,583000,Bag Boy,Supermarket,I guess not.
+11802,72,111,586000,Selma Bouvier,Supermarket,Orange is really your color.
+11803,72,112,588000,Bag Boy,Supermarket,They make us wear this.
+11804,72,113,589000,Selma Bouvier,Supermarket,Shall we continue this conversation over dinner?
+11805,72,114,592000,Bag Boy,Supermarket,Uh... I'm not allowed to date customers... it's store policy.
+11806,72,115,596000,Cashier,Supermarket,No it isn't.
+11807,72,116,597000,Cashier,Supermarket,Ow.
+11808,72,117,598000,Bag Boy,Supermarket,"Shut up, Arnold."
+11809,72,118,599000,Cashier,Supermarket,"No, go for it, man."
+11811,72,120,601000,Hans Moleman,Department of Motor Vehicles,R... F... J... question mark... smiley face...
+11812,72,121,611000,Selma Bouvier,Department of Motor Vehicles,Next! Wait a minute. It says here you're single.
+11813,72,122,617000,Hans Moleman,Department of Motor Vehicles,Did I do wrong?
+11815,72,124,619000,Hans Moleman,Restaurant,Combed... biscuits... chicken... yellow... mailman...
+11816,72,125,627000,Waitress #2,Restaurant,"You're reading the wine list, sir."
+11817,72,126,630000,Hans Moleman,Restaurant,Very good.
+11819,72,128,633000,Hans Moleman,Selma's Car,I don't know how to thank you for dinner.
+11820,72,129,637000,Selma Bouvier,Selma's Car,Use your imagination.
+11821,72,130,654000,Selma Bouvier,Selma's Car,Ehh! Get out of my car.
+11822,72,131,660000,Hans Moleman,Selma's Car,This isn't my house.
+11824,72,133,662000,Announcer,Simpson Home,"Come to Duff Gardens, where roaming gangs aren't a big problem anymore. Now featuring the clean-shaven sounds of ""Hooray for Everything!"""
+11825,72,134,667000,Singers,Simpson Home,HEY KIDS / TAKE A WALK ON THE WILD SIDE / AND ALL THE RACES SING: / DOO DOO DOO / SHOO-BEE DOOBEE DOO...DO DO DO... SHOO-BEE DOOBEE DOO... YEAH!
+11826,72,135,683000,Bart Simpson,Simpson Home,Can we go to Duff Gardens this weekend?
+11827,72,136,685000,Homer Simpson,Simpson Home,Sure... unless another aunt dies.
+11828,72,137,688000,Marge Simpson,Simpson Home,Selma! Your date's over already?
+11829,72,138,691000,Selma Bouvier,Simpson Home,Yeah. I was so depressed I ate a jar of expired olives. I guess I'll never have a baby.
+11830,72,139,700000,Lisa Simpson,Simpson Home,"Aunt Selma, this may be presumptuous, but have you ever considered artificial insemination?"
+11831,72,140,705000,Homer Simpson,Simpson Home,"Boy, I don't know. You gotta be pretty desperate to make it with a robot."
+11832,72,141,713000,Homer Simpson,Simpson Home,I knew that.
+11835,72,144,714000,Selma Bouvier,SPERM BANK,How do I know I'm getting quality?
+11836,72,145,718000,Sperm Doctor,SPERM BANK,Don't worry. Our donors have to pass a rigorous screening process.
+11837,72,146,723000,Barney Gumble,SPERM BANK,All done!
+11838,72,147,724000,Nurse,SPERM BANK,Thank you.
+11839,72,148,725000,Barney Gumble,SPERM BANK,Always a pleasure.
+11840,72,149,727000,Barney Gumble,SPERM BANK,What a beautiful little girl.
+11844,72,153,735000,Marge Simpson,SELMA'S HOUSE,"A hundred and one frozen pops. A Nobel Prize winner... an NBA All-Star... Ooh, one of the ""Sweathogs!"""
+11845,72,154,746000,Selma Bouvier,SELMA'S HOUSE,"I checked, it's not Horshack."
+11846,72,155,750000,Marge Simpson,SELMA'S HOUSE,Oh. Are you sure you wanna have a baby this way?
+11847,72,156,753000,Patty Bouvier,SELMA'S HOUSE,"Yeah, you've had some pretty bad experiences ordering out of catalogs. Remember that mail order husband?"
+11849,72,158,763000,Selma Bouvier,Selma's Apartment,Ooh! You look just like your picture.
+11850,72,159,767000,Selma Bouvier,Selma's Apartment,Sorry. My mind's made up. I wanna have a kid and this is the only way I can do it.
+11851,72,160,773000,Patty Bouvier,Selma's Apartment,Why do you wanna have a baby so bad?
+11852,72,161,775000,Selma Bouvier,Selma's Apartment,I gotta lot of love to give. And right now my only outlet is my ham radio.
+11853,72,162,782000,MAN ON RADIO,Selma's Apartment,Modgreb ebn ljuobvitcher!
+11855,72,163,785000,Marge Simpson,Selma's Apartment,Are you sure you've thought this through? A child can really change your life.
+11856,72,164,788000,Patty Bouvier,Selma's Apartment,You'll have to give up smoking.
+11857,72,165,790000,Selma Bouvier,Selma's Apartment,I'll chew.
+11858,72,166,791000,Patty Bouvier,Selma's Apartment,No man'll want you.
+11859,72,167,793000,Selma Bouvier,Selma's Apartment,All I got now is sperm in a cup.
+11862,72,170,808000,Bart Simpson,Simpson Home,Oh great. Dad's dead.
+11864,72,172,814000,Marge Simpson,Simpson Home,Have you been eating that sandwich again?
+11865,72,173,817000,Homer Simpson,Simpson Home,Sand... wich...
+11866,72,174,821000,Carl Carlson,Simpson Home,"Geez, we hardly made a dent in that ten-foot hoagie."
+11867,72,175,825000,Homer Simpson,Simpson Home,I'll give it a good home.
+11868,72,176,827000,Marge Simpson,Simpson Home,You've been eating that thing for a week. I think the mayonnaise is starting to turn.
+11869,72,177,833000,Homer Simpson,Simpson Home,Two more feet and I can fit it in the fridge.
+11870,72,178,836000,Marge Simpson,Simpson Home,"Homer, I found this behind the radiator. I really think you should throw it away."
+11871,72,179,840000,Homer Simpson,Simpson Home,Suggestion noted.
+11872,72,180,845000,Homer Simpson,Simpson Home,"Marge, I'd like to be alone with the sandwich for a moment."
+11873,72,181,848000,Marge Simpson,Simpson Home,Are you going to eat it?
+11874,72,182,851000,Homer Simpson,Simpson Home,Yes.
+11875,72,183,855000,Marge Simpson,Simpson Home,You look terrible.
+11876,72,184,857000,Homer Simpson,Simpson Home,I don't care. I'm going to Duff Gardens.
+11878,72,186,866000,Homer Simpson,Simpson Driveway,S-s-o cold.
+11879,72,187,868000,Marge Simpson,Simpson Driveway,Your lips are turning blue. I think you'd better stay home.
+11880,72,188,873000,Homer Simpson,Simpson Driveway,No! Duff... Gardens... hurrah!
+11881,72,189,879000,Marge Simpson,Simpson Driveway,... We really appreciate your taking the children on such short notice.
+11882,72,190,883000,Selma Bouvier,Simpson Driveway,"We'll have fun, won't we kids?"
+11883,72,191,885000,Bart Simpson,Simpson Driveway,"To get to Duff Gardens, I'd ride with Satan himself."
+11884,72,192,888000,Selma Bouvier,Simpson Driveway,That's the spirit! See ya tonight.
+11885,72,193,891000,Lisa Simpson,Simpson Driveway,Goodbye Dad! Don't eat any solids.
+11886,72,194,894000,Homer Simpson,Simpson Driveway,But I love solids.
+11887,72,195,895000,Bart Simpson,Simpson Driveway,"It won't be any fun without you, Dad."
+11888,72,196,898000,Lisa Simpson,Simpson Driveway,Yayyy!
+11889,72,197,900000,Homer Simpson,Simpson Driveway,"This is all your fault! Oh, how can I stay mad at you?"
+11890,72,199,915000,Lisa Simpson,Simpson Car,There it is!
+11891,72,200,917000,Bart Simpson,Simpson Car,The Duff Beeramid.
+11892,72,201,921000,Lisa Simpson,Simpson Car,The Beeramid contains so much aluminum it would take five men to lift it. Twenty-two immigrant laborers died during its construction...
+11893,72,202,926000,Selma Bouvier,Simpson Car,"Ah, plenty more where that came from."
+11895,72,204,935000,Lisa Simpson,Duff Gardens Entrance,Look! It's the Seven Duffs!
+11896,72,205,937000,Bart Simpson,Duff Gardens Entrance,"There's ""Tipsy""! And there's ""Queasy""!"
+11897,72,206,940000,Lisa Simpson,Duff Gardens Entrance,"There's ""Surly""... and ""Remorseful""."
+11898,72,207,942000,Surly,Duff Gardens Entrance,Hey!
+11899,72,208,944000,Surly,Duff Gardens Entrance,Take a picture. It'll last longer. Get outta here.
+11901,72,210,950000,Abraham Lincoln,BEER HALL OF THE PRESIDENTS,"Four score and seven years ago, we took the finest hops and barley to brew a refreshing, full-bodied lager."
+11902,72,211,960000,Abraham Lincoln,BEER HALL OF THE PRESIDENTS,Ahhh. BOOM-CHA-CHA-BOOM. I'M RAPPIN' ABIE AND I'M HERE TO SAY / IF YOU WANNA DRINK BEER DUFF'S THE ONLY WAY. I SAID THE ONLY WAY... BREAKDOWN!
+11903,72,212,974000,Lisa Simpson,BEER HALL OF THE PRESIDENTS,This is a disgrace.
+11904,72,213,976000,Selma Bouvier,BEER HALL OF THE PRESIDENTS,Settle down. Anything this bad has to be educational. Bart!
+11905,72,214,982000,Bart Simpson,BEER HALL OF THE PRESIDENTS,Let's see if they wore underwear back then.
+11906,72,215,984000,Bart Simpson,BEER HALL OF THE PRESIDENTS,Yeah!
+11908,72,217,987000,Marge Simpson,Simpson Home,Do you feel any better?
+11909,72,218,989000,Homer Simpson,Simpson Home,No. What are the odds of getting sick on a Saturday? A thousand to one.
+11910,72,219,994000,Marge Simpson,Simpson Home,"Well, to cheer you up I rented a couple of videos. ""Boxing's Greatest Weigh-Ins"" and ""Yentl""."
+11911,72,220,999000,Homer Simpson,Simpson Home,Yentl? Whuzzat?
+11912,72,221,1001000,Marge Simpson,Simpson Home,It deals with a bookish young woman's efforts to enter Rabbinical school.
+11913,72,222,1005000,Homer Simpson,Simpson Home,Sounds great!
+11914,72,223,1006000,Marge Simpson,Simpson Home,"Oh my God, you're delirious."
+11916,72,225,1009000,Bart Simpson,Duff Garden Souvenir Shop,Beer Goggles - See the World Through the Eyes of a Drunk.
+11917,72,226,1020000,Bart Simpson,Duff Garden Souvenir Shop,Wow!
+11918,72,227,1021000,Attractive Woman,Duff Garden Souvenir Shop,You're charming the pants off of me.
+11919,72,228,1023000,Bart Simpson,Duff Garden Souvenir Shop,"What'd you say, Aunt Selma?"
+11920,72,229,1025000,Selma Bouvier,Duff Garden Souvenir Shop,I said take off those damn glasses!
+11921,72,230,1027000,Selma Bouvier,Duff Garden Souvenir Shop,"Oooh, this looks like fun..."
+11922,72,231,1030000,Selma Bouvier,Duff Garden Souvenir Shop,"A bench! Kids, what do you say you go get your Aunt Selma a beer smoothie?"
+11924,72,233,1046000,Bart Simpson,Duff Garden Souvenir Shop,"Hey man, if the line's this long, it's gotta be good."
+11925,72,234,1052000,Worker,Duff Garden Souvenir Shop,Get bent.
+11927,72,236,1054000,Man On Tv,Simpson Home,"What's going on here? Oh, Yentl. I might have known."
+11928,72,237,1059000,Homer Simpson,Simpson Home,"That Yentl puts the ""she"" in Yeshiva."
+11929,72,238,1062000,Marge Simpson,Simpson Home,"Hmmm, well, you've cooled down."
+11930,72,239,1064000,Homer Simpson,Simpson Home,That's what you think .
+11931,72,240,1068000,Marge Simpson,Simpson Home,"You know, I rented another tape... in case you felt better."
+11932,72,241,1073000,Homer Simpson,Simpson Home,The Erotic Adventures of Hercules.
+11933,72,242,1076000,Marge Simpson,Simpson Home,With Norman Fell as Zeus!
+11934,72,243,1078000,Homer Simpson,Simpson Home,Woo hoo!
+11936,72,245,1080000,Beer Singers,Little Land Of Duff,DUFF BEER FOR ME/ DUFF BEER FOR YOU/ I'LL HAVE A DUFF/ YOU HAVE ONE TOO/ DUFF BEER FOR ME/ DUFF BEER FOR YOU/ I'LL HAVE A DUFF/ YOU HAVE ONE TOO/
+11937,72,246,1099000,Bart Simpson,Little Land Of Duff,I want to get off.
+11938,72,247,1100000,Selma Bouvier,Little Land Of Duff,You can't get off. We have five more continents to visit.
+11939,72,248,1103000,Bart Simpson,Little Land Of Duff,Hey Lis. I dare you to drink the water.
+11940,72,249,1106000,Lisa Simpson,Little Land Of Duff,I'm not sure that is water.
+11941,72,250,1108000,Bart Simpson,Little Land Of Duff,Chicken?
+11942,72,251,1111000,Lisa Simpson,Little Land Of Duff,"Bart, quit it, Bart. Quit it, quit it, quit it!"
+11943,72,252,1115000,Selma Bouvier,Little Land Of Duff,"Bart, be quiet. Lisa, drink the water."
+11945,72,254,1131000,Lisa Simpson,Little Land Of Duff,They're all around me. No way out. No way out I tell you!
+11946,72,255,1139000,Selma Bouvier,Little Land Of Duff,What's wrong?
+11947,72,256,1140000,Selma Bouvier,Little Land Of Duff,"Well, you just put your head right here."
+11948,72,257,1151000,Lisa Simpson,Little Land Of Duff,Aaaahhhh!!!
+11950,72,259,1151000,Woman,Simpson Master Bedroom,"Hercules, the cyclops tore off my clothes."
+11953,72,262,1166000,Selma Bouvier,Little Land Of Duff,Bart! Lisa!
+11955,72,264,1171000,Selma Bouvier,Duff Gardens,Lisa!!
+11956,72,265,1181000,Lisa Simpson,Duff Gardens,"Ahhh, I can see the music."
+11957,72,266,1188000,Bart Simpson,Duff Gardens,"Mitch, you're doing a bang-up job."
+11958,72,267,1190000,Attendant,Duff Gardens,"Thank you, sir."
+11960,72,269,1198000,Bart Simpson,Duff Gardens,Whoa. That isn't good.
+11962,72,271,1203000,Bart Simpson,Duff Gardens,STOP THE RIDE!!!
+11963,72,272,1205000,Attendant,Duff Gardens,I'll have to ask my supervisor.
+11964,72,273,1208000,Kid,Duff Gardens,Better stop it.
+11965,72,274,1214000,Selma Bouvier,Duff Gardens,Can't you do something?
+11966,72,275,1215000,Surly,Duff Gardens,Surly only looks out for one guy. Surly.
+11967,72,276,1218000,Selma Bouvier,Duff Gardens,"Sorry, Surly."
+11968,72,277,1220000,Surly,Duff Gardens,Shut up.
+11971,72,280,1221000,Selma Bouvier,Duff Gardens,Don't blame these kids. It's not their fault. I think their father is missing a chromosome.
+11972,72,281,1228000,Security Man,Duff Gardens,"Ms. Bouvier, while we were rescuing this boy, hoodlums made off with three bumper cars."
+11975,72,284,1241000,Security Man,Freeway,And I don't think George Washington will never be the same.
+11976,72,285,1245000,Washington,Freeway,"Ai yi, yi, yi, yi..."
+11977,72,286,1247000,Guard,Freeway,We found this one swimming naked in the Fermentarium.
+11978,72,287,1251000,Lisa Simpson,Freeway,I am the Lizard Queen!
+11979,72,288,1254000,Man In White Coat,Freeway,Give her this... and this... and then these.
+11980,72,289,1259000,Selma Bouvier,Freeway,"Thank you, Doctor."
+11981,72,290,1261000,Man In White Coat,Freeway,"Oh, I'm not a doctor."
+11983,72,292,1262000,Homer Simpson,Simpson Home,Come to Homercles.
+11984,72,293,1267000,Marge Simpson,Simpson Home,I can't. The beans'll burn.
+11985,72,294,1269000,Homer Simpson,Simpson Home,Homercles cares not for beans.
+11986,72,295,1274000,Homer Simpson,Simpson Home,"Hi, kids. How was Duff Gardens?"
+11987,72,296,1277000,Lisa Simpson,Simpson Home,Can't talk. Comin' down.
+11988,72,297,1280000,Selma Bouvier,Simpson Home,"How do you do it, Homer?"
+11989,72,298,1284000,Homer Simpson,Simpson Home,"You take an ordinary bed sheet, fold it around like this..."
+11990,72,299,1287000,Selma Bouvier,Simpson Home,"No, I mean raising kids. I just couldn't cut it today. All I wanted was a little version of me that I could hold in my arms..."
+11991,72,300,1298000,Selma Bouvier,Simpson Home,"Oh, Jubjub."
+11993,72,302,1303000,Patty Bouvier,Patty and Selma's Apartment,"When I went to pick him up, Mom was trying to stab him with a hat pin."
+11994,72,303,1308000,Selma Bouvier,Patty and Selma's Apartment,Shh!
+11996,72,304,1310000,Selma Bouvier,Patty and Selma's Apartment,You make me feel. You make me feel like a natural woman...

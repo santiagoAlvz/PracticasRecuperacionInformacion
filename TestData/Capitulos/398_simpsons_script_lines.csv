@@ -1,0 +1,187 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+103241,398,1,73000,Homer Simpson,OUTDOOR FAIRGROUNDS,"Oh man, I love Oktoberfest. Oktoberfest!"
+103242,398,2,82000,Farmer,OUTDOOR FAIRGROUNDS,"Sorry sir, this is a harvest festival -- no alcohol. I'm gonna have to confiscate those steins."
+103245,398,5,99000,Lisa Simpson,OCTOBER HARVEST FESTIVAL,Springfield squash -- the most fibrous variety of yellow squash!
+103246,398,6,103000,Bart Simpson,OCTOBER HARVEST FESTIVAL,We drove fifty miles to look at a stupid pile of vegetables?
+103247,398,7,106000,Marge Simpson,OCTOBER HARVEST FESTIVAL,"That's it, buster -- you just bought yourself ten minutes watching that man make a wagon wheel."
+103248,398,8,111000,Bart Simpson,OCTOBER HARVEST FESTIVAL,Yes'm.
+103249,398,9,113000,Wagon Wheel Demonstrator,OCTOBER HARVEST FESTIVAL,Wagon wheels were the internet of the nineteenth century!
+103250,398,10,117000,Bart Simpson,OCTOBER HARVEST FESTIVAL,Really?
+103251,398,11,118000,Wagon Wheel Demonstrator,OCTOBER HARVEST FESTIVAL,No.
+103252,398,12,122000,Marge Simpson,OCTOBER HARVEST FESTIVAL,This winning cornucopia is magnificent.
+103253,398,13,127000,Marge Simpson,OCTOBER HARVEST FESTIVAL,Styrofoam?
+103254,398,14,129000,Homer Simpson,OCTOBER HARVEST FESTIVAL,You stuffed your horn?!
+103255,398,15,131000,Winning Farmer,OCTOBER HARVEST FESTIVAL,What? Everybody does it...
+103257,398,17,139000,Marge Simpson,OCTOBER HARVEST FESTIVAL,I can testify at the trial.
+103258,398,18,142000,Grim Farmer,OCTOBER HARVEST FESTIVAL,Ain't gon' be no trial.
+103260,398,20,146000,Marge Simpson,HARVEST FESTIVAL,"Ooh, look! Pine-cone first ladies!"
+103261,398,21,148000,Homer Simpson,HARVEST FESTIVAL,"Where the hell is Abigail Adams?! Oh, there she is. Where the hell is Mary Todd Lincoln?! Oh, she's right there. Where the hell is Ida Saxton McKinley?! Oh I see. Where the hell is--"
+103262,398,22,157000,Bart Simpson,HARVEST FESTIVAL,"Dad, look, a corn maze!"
+103263,398,23,162000,Homer Simpson,HARVEST FESTIVAL,"""Betcha can't solve our maze?"" I didn't come here to be insulted. We're leaving!"
+103264,398,24,172000,Homer Simpson,HARVEST FESTIVAL,Sure is a lot of corn in this parking lot.
+103265,398,25,174000,Lisa Simpson,HARVEST FESTIVAL,"Dad, we're in the maze."
+103268,398,28,183000,Lisa Simpson,CORN MAZE,"Dad, why don't you throw me in the air, and I can see which way is out."
+103269,398,29,187000,Lisa Simpson,CORN MAZE,"Corn... More corn... Another kid getting' thrown in the air... witch's coven... Seattle Space Needle... Amateur production of ""You Can't Take It With You""... I'm getting dizzy... And corn again."
+103270,398,30,203000,Marge Simpson,CORN MAZE,Maybe we should split up.
+103271,398,31,205000,Homer Simpson,CORN MAZE,"Split up?! Marge, no! We can fix this marriage!"
+103272,398,32,208000,Marge Simpson,CORN MAZE,"No, no, I didn't mean--"
+103273,398,33,210000,Homer Simpson,CORN MAZE,"Fine, you want out? Then go! I can make it on my own! Before I met you I had friends and dreams!"
+103274,398,34,216000,Marge Simpson,CORN MAZE,I was talking about--
+103275,398,35,217000,Homer Simpson,CORN MAZE,Oh please take me back. The dating scene is a nightmare. I'm begging you!
+103276,398,36,223000,Marge Simpson,CORN MAZE,I just meant we should split up to get out of this corn maze.
+103277,398,37,228000,Homer Simpson,CORN MAZE,"Deep down, I... I guess I knew that."
+103278,398,38,231000,Marge Simpson,CORN MAZE,Now there must be a way out!
+103279,398,39,234000,Homer Simpson,CORN MAZE,Of our marriage?! I don't want to live!
+103280,398,40,242000,Homer Simpson,CORN MAZE,"Hey, this maze is made of corn!"
+103281,398,41,249000,Homer Simpson,CORN MAZE,I'm so sick of being lost. To hell with maze etiquette! I'm walking straight outta here!
+103283,398,43,261000,Homer Simpson,CORN MAZE,Dammit!
+103285,398,44,265000,Homer Simpson,CORN MAZE,How come things that happen to stupid people keep happening to me?
+103286,398,45,272000,Lisa Simpson,CORN MAZE,Finally! I knew we could solve that maze using Tremaux's algorithm.
+103287,398,46,276000,Bart Simpson,CORN MAZE,Told you.
+103288,398,47,277000,Lisa Simpson,CORN MAZE,No you didn't -- your plan was to burn the corn.
+103289,398,48,280000,Bart Simpson,CORN MAZE,That was never my plan.
+103290,398,49,284000,Homer Simpson,CORN MAZE,I'm lost and I'm starving!
+103291,398,50,289000,Marge Simpson,CORN MAZE,Eat some corn!
+103292,398,51,291000,Homer Simpson,CORN MAZE,I don't have any holders!
+103293,398,52,294000,Chief Wiggum,CORN MAZE,"Now don't worry, ma'am, we'll send a member of our elite canine unit in to find your husband's corpse. Living corpse."
+103294,398,53,302000,Chief Wiggum,CORN MAZE,Say hello to Officer Jaws!
+103295,398,54,306000,Lou,CORN MAZE,"Uh Chief, I'm afraid Officer Jaws is guilty of littering -- and here's the litter!"
+103296,398,55,312000,Chief Wiggum,CORN MAZE,"Okay, everyone -- puppy party at my house!"
+103298,398,57,319000,Bart Simpson,CORN MAZE,"Don't worry! Our dog'll find my Dad! We need you, boy!"
+103300,398,59,324000,Bart Simpson,Simpson Car,We need you!
+103302,398,61,335000,Bart Simpson,CORN MAZE,Good boy! Now go find Homer!
+103303,398,62,339000,Marge Simpson,CORN MAZE,He needs something with your father's scent.
+103304,398,63,341000,Lisa Simpson,CORN MAZE,Maybe there's something in Dad's backpack.
+103305,398,64,345000,Lisa Simpson,CORN MAZE,A sports bra?
+103306,398,65,347000,Marge Simpson,CORN MAZE,He just needs it for walking upstairs.
+103307,398,66,374000,Dr. Stephen Hawking,CORN MAZE,This maze is too hard for me.
+103308,398,67,384000,Homer Simpson,CORN MAZE,"""To my wife Marge -- in case I don't make it, here are my Oscar picks for next year: Best Sound Effects Editing, the team from--"""
+103309,398,68,401000,Lisa Simpson,CORN MAZE,Dad!
+103310,398,69,403000,Lou,CORN MAZE,Your dog's quite a tracker.
+103311,398,70,405000,Chief Wiggum,CORN MAZE,Say... has he ever thought about a career in law enforcement?
+103312,398,71,414000,Lisa Simpson,CORN MAZE,Um... I don't think he's ever thought about anything.
+103313,398,72,417000,Bart Simpson,CORN MAZE,"Santa's Little Helper would be an awesome police dog! Can he, Dad? Can he?"
+103314,398,73,422000,Homer Simpson,CORN MAZE,No. And never bring it up again.
+103315,398,74,424000,Bart Simpson,CORN MAZE,"Please, can he?"
+103316,398,75,424000,Homer Simpson,CORN MAZE,All right.
+103319,398,77,435000,Bart Simpson,Springfield Animal Police Academy,"Boy, it is gonna be so cool when you're a police dog..."
+103320,398,78,456000,Bart Simpson,Springfield Animal Police Academy,"Good boy! Now, transform!"
+103322,398,80,465000,Bart Simpson,Springfield Animal Police Academy,Cool.
+103324,398,82,469000,Chief Wiggum,Springfield Animal Police Academy,"All right, listen up!"
+103325,398,83,471000,Chief Wiggum,Springfield Animal Police Academy,"For the next two weeks, I'm gonna be your worst enemy. Except this Thursday is the fourth of July, so we'll take Friday off as well. Well, I guess Wednesday everybody's gonna be thinking about the long weekend, so, meh, what the hell? Why don't we just take the whole week off?"
+103326,398,84,485000,Chief Wiggum,Springfield Animal Police Academy,Why'd you let me do that? We are so far behind.
+103327,398,85,493000,Chief Wiggum,Springfield Animal Police Academy,"Nice work, K-9s. Bring in the next group!"
+103328,398,86,518000,Lou,Springfield Animal Police Academy,"Uh, should I get this blow back to the cage, Chief?"
+103329,398,87,520000,Chief Wiggum,Springfield Animal Police Academy,"Whoa, whoa, whoa: ""Blow?"" ""Cage?"" You're in uniform, Lou. Don't slang it up."
+103330,398,88,527000,Chief Wiggum,Springfield Animal Police Academy,It is my privilege to welcome this fine group of animals into the Springfield police force.
+103331,398,89,532000,Chief Wiggum,Springfield Animal Police Academy,"Keep your noses clean, and your hearts free of worms."
+103333,398,91,559000,Lou,Springfield Street,"Listen to me, rook. These streets are hard. It ain't like ""Air Bud Five -- Strong Arm of the Paw""!"
+103334,398,92,565000,Dispatch Operator,Springfield Street,Attention all units! Domestic disturbance in progress at Rural Route Twenty-seven...
+103335,398,93,569000,Lou,Springfield Street,"Domestic disturbance? You're gonna have one helluva first day, boy. Squeak 'em if you got 'em."
+103337,398,95,577000,Brandine Del Roy,Cletus's Shack,"You gave that hog a day of beauty, and I didn't get nothin'!"
+103338,398,96,582000,Brandine Del Roy,Cletus's Shack,Manicure! Pedicure!
+103339,398,97,584000,Brandine Del Roy,Cletus's Shack,Exfoliation!
+103341,398,99,588000,Lou,Cletus's Shack,"Don't worry, boy. She just knocked a few fleas off ya. You're gonna be okay."
+103342,398,100,592000,Lou,Cletus's Shack,We need backup! Now!
+103343,398,101,597000,Brandine Del Roy,Cletus's Shack,"Cletus, you coward! Is you man or turtle?"
+103344,398,102,601000,Cletus Spuckler,Cletus's Shack,Here's your answer.
+103345,398,103,602000,Cletus Spuckler,Cletus's Shack,"Skittle, skittle, scurry, skittle."
+103347,398,105,604000,Bart Simpson,Simpson Home,"Okay, since the dog's not here, I'm gonna take you for a walk."
+103318,398,107,617000,Lisa Simpson,Simpson Home,"What's the matter, Bart?"
+103348,398,108,619000,Bart Simpson,Simpson Home,"I miss Santa's Little Helper. I wanted him to be a police dog, but now he has no time for me. I even have to eat my own homework!"
+103351,398,111,640000,Lou,Cop Bar,"Hey, could you set us up down here?"
+103352,398,112,648000,Lou,Cop Bar,"Go easy there, pal. We just started our shift."
+103354,398,114,653000,Chief Wiggum,Cop Bar,Attention K-9 unit. We got an eight sixty-six in progress at the park. Over.
+103355,398,115,657000,Lou,Cop Bar,"Chief, why you using the walkie-talkie? I can hear you fine."
+103356,398,116,661000,Chief Wiggum,Cop Bar,Fine. Let's not use any of our police equipment.
+103358,398,118,666000,Jimbo Jones,Springfield Park,"So, uh... you got any steroids?"
+103359,398,119,669000,Snake Jailbird,Springfield Park,"Oh, you know it. I can make you huge."
+103361,398,121,673000,Jimbo Jones,Springfield Park,I want to pump my guns.
+103362,398,122,675000,Kearney Zzyzwicz,Springfield Park,I want to rip my pecs.
+103363,398,123,676000,DOLPH,Springfield Park,I want to shriv my nards.
+103364,398,124,678000,Lou,Springfield Park,Nards -- that's what we needed to hear.
+103365,398,125,681000,Lou,Springfield Park,Freeze!
+103366,398,126,684000,Lou,Springfield Park,"Nobody ever freezes. I might as well just say ""run""."
+103367,398,127,684000,Snake Jailbird,Springfield Park,"Catch me if you can, little bow wow. Ha-ha!"
+103368,398,128,705000,Snake Jailbird,Springfield Park,Noooo!
+103369,398,129,714000,Lou,Springfield Park,Nice work... partner.
+103372,398,132,731000,Judge Snyder,Courtroom,You stand accused of giving hope to scrawny young men. How do you plead?
+103373,398,133,735000,Snake Jailbird,Courtroom,Guilty... of being innocent.
+103376,398,136,742000,Judge Snyder,Courtroom,"Well, I'm afraid because of this improperly filled-out police report...I have no choice but to let you go. Case dismissed!"
+103377,398,137,749000,Snake Jailbird,Courtroom,"Don't worry, dude, I'm goin' straight. Straight to my customers to sell more drugs!"
+103380,398,140,758000,Lou,Lou's Police Cruiser,"Listen man, you gotta let it go. Relax for a couple days with your family. Come back fresh on Monday."
+103381,398,141,770000,Bart Simpson,Lou's Police Cruiser,"Boy, you're back!"
+103382,398,142,773000,Bart Simpson,Lou's Police Cruiser,Ow! You bit me! My own dog bit me.
+103384,398,145,788000,Bart Simpson,Simpson Home,I can't believe it. My own dog bit me.
+103385,398,146,791000,Homer Simpson,Simpson Home,"Now that he's had a taste of human flesh, the dog will be a slave to its succulence! Look at him eyeing me -- he knows I taste best."
+103386,398,147,798000,Chief Wiggum,Simpson Home,"Don't blame the dog, folks. A cop's life is so intense, he has to channel it somewhere. Me, I knit violent imagery."
+103387,398,148,806000,Chief Wiggum,Simpson Home,"Pretty grim, huh?"
+103388,398,149,809000,Marge Simpson,Simpson Home,"I love Santa's Little Helper, but I don't know if we can have him in our home anymore."
+103389,398,150,814000,Bart Simpson,Simpson Home,"Mom, you can't send him away! He's a dog, not Grampa!"
+103390,398,151,817000,Lisa Simpson,Simpson Home,"What if Santa's Little Helper stops being a police dog? Then he can get a non-violent job, like barking songs on novelty Christmas records. You can do it, boy!"
+103392,398,153,830000,Lisa Simpson,Simpson Home,"No, boy, that's Hanukah."
+103393,398,154,832000,Chief Wiggum,Simpson Home,"Forget it, kid -- he's a cop now."
+103394,398,155,834000,Bart Simpson,Simpson Home,"Well, I bet he can't resist this."
+103395,398,156,836000,Bart Simpson,Simpson Home,"Fetch, boy!"
+103396,398,157,841000,Bart Simpson,Simpson Home,My God. I've lost him.
+103398,398,159,845000,Marge Simpson,Simpson Home,Homer!
+103399,398,160,847000,Homer Simpson,Simpson Home,"Oh relax, Marge, I'm just messin' with ya. I know I'm not a dog. I'm a people, like you."
+103401,398,162,855000,Marge Simpson,Simpson Home,It's just Flanders. You know him.
+103404,398,165,864000,Lou,LOU'S TOWNHOUSE,"You're gonna live with me now, 'cause only cops understand cops."
+103405,398,166,868000,Sharquelle,LOU'S TOWNHOUSE,Hey Lou... wanna party tonight?
+103406,398,167,870000,Lou,LOU'S TOWNHOUSE,"Oh not tonight, Sharquelle. I'm uh, hangin' out with my new roommate."
+103407,398,168,873000,Sharquelle,LOU'S TOWNHOUSE,"Oh my God, a police dog! Oh, I have a friend who would love him!"
+103408,398,169,884000,Lou,LOU'S TOWNHOUSE,"Okay, but uh, just remember: they don't love us, they just love the uniform."
+103409,398,170,890000,Lou,LOU'S TOWNHOUSE,"All right, now uh, who's goin' with who?"
+103412,398,173,895000,Bart Simpson,Pet Store,"I don't want a new dog. I want my old dog, the one who bit me."
+103413,398,174,898000,Homer Simpson,Pet Store,"Cheer up, boy. We'll get you their most vicious street cur! He'll bite your ass raw!"
+103414,398,175,904000,Marge Simpson,Pet Store,No street curs!
+103415,398,176,908000,Bart Simpson,Pet Store,That's it! I want a snake!
+103416,398,177,911000,Owner,Pet Store,"Oh, no problem, pally -- our pythons cost five dollars a foot."
+103417,398,178,919000,Homer Simpson,Pet Store,"Whoa, whoa, whoa, we're not made of money!"
+103418,398,179,922000,Owner,Pet Store,All right.
+103420,398,181,931000,Bart Simpson,Simpson Home,He is so awesome. I already love him more than I love Lisa.
+103421,398,182,935000,Marge Simpson,Simpson Home,It says here don't bother naming them. Snakes have poor hearing and only live to strangle.
+103422,398,183,941000,Bart Simpson,Simpson Home,"I like it -- ""Strangles."" Hey Lis, wanna touch Strangles? He's not slimy at all. He's scaly."
+103423,398,184,949000,Lisa Simpson,Simpson Home,Ew! He is slimy!
+103424,398,185,951000,Bart Simpson,Simpson Home,That's because I soaked him in slime!
+103425,398,186,954000,Homer Simpson,Simpson Home,Why you little... I'll teach you to trick your sister!
+103427,398,188,965000,Marge Simpson,Simpson Home,"Homer, can you breathe?!"
+103428,398,189,967000,Homer Simpson,Simpson Home,"Well, I can breathe out okay."
+103429,398,190,972000,Homer Simpson,Simpson Home,Don't... give snake... attention... it's what... he really... wants.
+103430,398,191,982000,Homer Simpson,Simpson Home,I'm okay.
+103432,398,193,985000,Martin Prince,Springfield Elementary School,"After months of practice, I have trained my rabbit to hop in perfect tempo to Mussorgsky's immortal ""Pictures at an Exhibition."""
+103433,398,194,994000,Martin Prince,Springfield Elementary School,"Now for some ""hip hop"" we can all get down with!"
+103435,398,196,1006000,Edna Krabappel-Flanders,Springfield Elementary School,"Bart Simpson, you can't bring a python to school!"
+103436,398,197,1009000,Bart Simpson,Springfield Elementary School,"Hey, don't ask me to show if you can't handle the tell."
+103438,398,199,1012000,Edna Krabappel-Flanders,Springfield Elementary School,Well I'm gonna show you to the principal and tell him all about it.
+103439,398,200,1022000,Edna Krabappel-Flanders,Springfield Elementary School,Mine was as funny as his!
+103440,398,201,1024000,Nelson Muntz,Springfield Elementary School,"No one's arguing with you, lady. Now can we just learn something?"
+103441,398,202,1028000,Martin Prince,Springfield Elementary School,The snake's getting away!
+103443,398,204,1051000,Lou,Springfield Elementary School,The snake must be in there!
+103444,398,205,1063000,Lou,Springfield Elementary School,"You miss him, don'tcha?"
+103445,398,206,1065000,Chief Wiggum,Springfield Elementary School,"Lou, he's gotta get over it. I miss Shamrock Shakes, but they ain't comin' back till March!"
+103446,398,207,1070000,Lou,Springfield Elementary School,"You know, Chief, Shamrock Shakes are just vanilla shakes colored green."
+103447,398,208,1073000,Chief Wiggum,Springfield Elementary School,I taste the flavor -- it's a very mild mint.
+103448,398,209,1076000,Lou,Springfield Elementary School,"Well, maybe because it's a minty color, your mind is fooling your tongue."
+103449,398,210,1079000,Chief Wiggum,Springfield Elementary School,I know what I taste!
+103450,398,211,1080000,Eddie,Springfield Elementary School,I gotta go with the Chief on this one.
+103451,398,212,1082000,Lou,Springfield Elementary School,"Oh, there's a big surprise."
+103453,398,214,1120000,Chief Wiggum,Springfield Elementary School,"Hey Lou, what's your favorite thing in the world so I can dump all over that?"
+103455,398,216,1130000,Seymour Skinner,Springfield Elementary School,"Time for a head count. Children, line up according to height... no, weight... no, the sum total of the letters in your last names if each letter is assigned a numeric value according to its place in the alphabet! Quickly now!"
+103456,398,217,1142000,Chief Wiggum,Springfield Elementary School,Deadly toxic cloud! Deadly toxic cloud!
+103457,398,218,1147000,Seymour Skinner,Springfield Elementary School,Bart's missing! He must still be in the school!
+103459,398,220,1153000,Lou,Springfield Elementary School,"No, boy! It's too dangerous!"
+103460,398,221,1154000,Chief Wiggum,Springfield Elementary School,"Let him go, Lou. He's not following his nose this time -- he's following his heart."
+103461,398,222,1160000,Lou,Springfield Elementary School,"Sometimes I forget why you're chief... but I remember now! You follow your heart, boy!"
+103462,398,223,1168000,Bart Simpson,Springfield Elementary School,"Here, Strangles! Strangles?"
+103464,398,225,1176000,Bart Simpson,Springfield Elementary School,"Aw man, it's like some chemicals cut one."
+103465,398,226,1182000,Bart Simpson,Springfield Elementary School,"Strangles, you came to save me!"
+103466,398,227,1185000,Bart Simpson,Springfield Elementary School,"Santa's Little Helper, you came too!"
+103467,398,228,1196000,Bart Simpson,Springfield Elementary School,Sorry... but a boy's gotta go with his dog.
+103470,398,231,1209000,Chief Wiggum,Springfield Elementary School,And... saved!
+103471,398,232,1212000,Chief Wiggum,Springfield Elementary School,Hero cop saves boy! Hero cop saves boy!
+103473,398,234,1225000,Bart Simpson,Springfield Elementary School,"Oh, I knew you loved me boy! Now you can be my dog again."
+103474,398,235,1236000,Groundskeeper Willie,Springfield Elementary School,Don't worry. I'll give ya a home.
+103476,398,237,1242000,Groundskeeper Willie,Springfield Elementary School,"That'll do, snake."
+103477,398,239,1245000,Groundskeeper Willie,Springfield Elementary School,That'll do.

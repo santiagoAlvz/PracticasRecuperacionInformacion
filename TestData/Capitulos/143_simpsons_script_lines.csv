@@ -1,0 +1,183 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+31088,143,1,29000,Mr. Dewey,LAW FIRM,"May I offer my condolences on the untimely passing of your Great Aunt Hortense. As her only living heirs, you stand to inherit her entire estate."
+31089,143,2,39000,Homer Simpson,LAW FIRM,Poor Aunt Hortense... woo-hoo... woo-hoo...
+31090,143,3,46000,Mr. Dewey,LAW FIRM,The only stipulation is that you spend one night in a haunted house.
+31091,143,4,52000,Marge Simpson,LAW FIRM,"Oh, isn't that somewhat unusual?"
+31092,143,5,53000,Mr. Dewey,LAW FIRM,"No, it's a standard clause."
+31093,143,6,56000,Homer Simpson,LAW FIRM,"Well, luckily, there's no such thing as ghosts."
+31095,143,8,63000,Homer Simpson,Haunted House,"Yes, there's no such thing as ghosts."
+31096,143,9,77000,Homer Simpson,Haunted House,Best night's sleep I ever had.
+31097,143,10,79000,Lisa Simpson,Haunted House,Their tap water tasted better than ours!
+31098,143,11,82000,Mr. Dewey,Haunted House,"Here you go. One hundred dollars each... The rest goes to Ann Landers, as was stipulated in your aunt's will."
+31100,143,13,91000,Mr. Dewey,Haunted House,"Oh, I'm sorry, I must have continued talking after you left the office. I do that sometimes."
+31102,143,15,105000,Marge Simpson,Simpson Car,"What are you going to spend your money on, kids?"
+31103,143,16,107000,Bart Simpson,Simpson Car,There's a special on tacos down at the The TacoMat. A hundred tacos for a hundred dollars. I'm gonna get that.
+31104,143,17,112000,Lisa Simpson,Simpson Car,I'm going to contribute my money to the Corporation for Public Broadcasting.
+31105,143,18,115000,Marge Simpson,Simpson Car,Tacos! Public Broadcasting! I won't have you kids throwing your money away like that. You're both coming downtown with me and you're gonna put that money in the bank.
+31107,143,20,130000,Bart Simpson,DOWNTOWN,"Boy, I sure could go for a hundred tacos right about now."
+31108,143,21,133000,Marge Simpson,DOWNTOWN,No.
+31109,143,22,135000,Comic Book Guy,DOWNTOWN,"Yes, this should provide adequate sustenance for the ""Dr. Who"" marathon."
+31111,143,24,142000,Marge Simpson,First National Bank of Springfield,You'll feel better knowing your money's in the hands of professionals.
+31112,143,25,145000,Teller,First National Bank of Springfield,"Ook, ook. Are you folks ready to go ape?"
+31113,143,26,148000,Lisa Simpson,First National Bank of Springfield,Mom?
+31114,143,27,149000,Marge Simpson,First National Bank of Springfield,A professional in an ape mask is still a professional.
+31115,143,28,152000,Bank Employee,First National Bank of Springfield,... and you'll find that saving for your future is far more thrilling than any rollercoaster.
+31116,143,29,158000,Bart Simpson,First National Bank of Springfield,"Really?! Wow, I should've started a long time ago!"
+31117,143,30,161000,Bank Employee,First National Bank of Springfield,Mmm-hmm. Now fill out these forms. I'm sure you'll find them more exciting than a weekend with Batman.
+31119,143,32,168000,Lisa Simpson,Simpson Car,I got their new Thrifty Saver Savings account. 2.3% annual interest instead of the normal 2.25. So a year from now I'll have an extra nickel.
+31120,143,33,176000,Bart Simpson,Simpson Car,I got the account where you get free customized checks. I chose the Hindenberg flip-book series.
+31121,143,34,181000,Bart Simpson,Simpson Car,Coooool.
+31122,143,35,183000,Marge Simpson,Simpson Car,"Checking accounts aren't really for children, Bart."
+31125,143,36,186000,Bart Simpson,Simpson Car,"No, Mom, I can handle it. Let's see... Pay to the order of... Lisa. One cent... and no cents. And now the old John Hancock... Here you go."
+31126,143,37,198000,Lisa Simpson,Simpson Car,Thank you.
+31128,143,39,199000,Milhouse Van Houten,Springfield Elementary School,"A million dollars! Thanks, Bart! I owe you one."
+31129,143,40,203000,Bart Simpson,Springfield Elementary School,"Uh, that's a post-dated check, remember. Don't cash it 'til the year ten thousand."
+31130,143,41,206000,Milhouse Van Houten,Springfield Elementary School,Okay.
+31132,143,43,215000,Jimbo Jones,Somewhere,"Excellent. As soon as the check clears, I'll let you go."
+31134,143,45,222000,Kids,Krustylu Studios,"Can I get your autograph, Krusty? / Me first! / Me third! / etc."
+31135,143,46,225000,Krusty the Clown,Krustylu Studios,That's it. No more autographs. I gotta go. They're naming a new sandwich after me at my restaurant.
+31137,143,48,232000,Milhouse Van Houten,Krustylu Studios,"It's okay, Bart. You can share mine."
+31138,143,49,234000,Milhouse Van Houten,Krustylu Studios,Quick -- press against me while the ink's still wet!
+31139,143,50,237000,Bart Simpson,Krustylu Studios,No need. I'm going to get Krusty's autograph the easy way.
+31140,143,51,241000,Bart Simpson,Krustylu Studios,"If he wants these 25 cents, he'll have to endorse the check by signing it on the back. Then when my monthly bank statement comes, I'll get the check back complete with autograph. No fuss, no muss."
+31141,143,52,254000,Milhouse Van Houten,Krustylu Studios,That's a good plan. But it won't impress girls like this.
+31142,143,53,258000,Girls,Krustylu Studios,Ewwww!
+31145,143,56,265000,Bart Simpson,Simpson Home,"Lisa's autograph... Apu's autograph... Oh, whaddaya know, Jimbo's real name is Corky... Aannnnd Krusty... Hey! ""Cayman Islands Offshore Holding Corporation""?"
+31147,143,58,281000,Bart Simpson,First National Bank of Springfield,Krusty was supposed to sign this. Take it back and make him sign it.
+31148,143,59,283000,Teller #2,First National Bank of Springfield,"Uh, no, no. Stamping the back of a check is perfectly legal, little boy. Many people do it to save time. You see in this case, instead of writing out his name, Krusty has stamped the name of his Cayman Islands holding corporation on... Hmm... excuse me a minute..."
+31150,143,60,309000,Cayman Islands Bank Guy,First National Bank of Springfield,"Oh, I'm sorry. I can't divulge information about that customer's secret illegal account. Oh, crap, I shouldn't have said he was a customer... Oh, crap, I shouldn't have said it was a secret... Oh, crap, I certainly shouldn't have said it was illegal! It's too hot today."
+31151,143,61,338000,Krusty the Clown,First National Bank of Springfield,Hey-hey-hey-hey-hey! I bought this popcorn fair and square!
+31152,143,62,343000,Teller #2,First National Bank of Springfield,"Sorry, the bank is close-- Oh, kid, gosh, I meant to tell you: Turns out that Krusty is one of the biggest tax cheats in history. And they nailed him, all thanks to you."
+31154,143,64,354000,Teller #2,First National Bank of Springfield,"Some might say you're a hero, kid. Not me, however. I love Krusty."
+31156,143,66,368000,Kent Brockman,Simpson Home,"Ladies and gentlemen: Krusty the Clown!... was arrested today for massive tax fraud. Krusty's years of tax avoision would never have -- ""Avoision"" -- it's a crime. Look it up! ... would never have... I don't say ""evasion,"" I say ""avoision."" ... would never have come to light if not for a crafty little boy named Bart Simpson."
+31157,143,67,389000,Bart Simpson,Simpson Home,Krusty's my hero! How could I do this to him?
+31158,143,68,392000,Lisa Simpson,Simpson Home,"It is a tragedy for all us kids. But, Bart, you can't beat yourself up."
+31159,143,69,396000,Bart Simpson,Simpson Home,"Yeah, there'll be enough people to do that for me at recess tomorrow."
+31162,143,72,404000,Krusty the Clown,IRS Building,"Oh, I can't go to jail! I got a swanky lifestyle! I'm used to the best!"
+31163,143,73,410000,Chief Agent,IRS Building,"Krusty, this is America. We don't send our celebrities to jail. We're just going to garnish your salary."
+31164,143,74,415000,Krusty the Clown,IRS Building,Garnish my celery?
+31165,143,75,417000,Chief Agent,IRS Building,"Please Krusty, no jokes."
+31166,143,76,419000,Krusty the Clown,IRS Building,"Who's joking?!! Oh, I don't know what you're saying! It all sounds so crazy to me!!"
+31167,143,77,425000,2ND IRS AGENT,IRS Building,It simply means we'll be taking part of your salary until your debt is repaid. Say 75% for forty years.
+31168,143,78,432000,Krusty the Clown,IRS Building,But I don't plan to live that long!
+31169,143,79,433000,Chief Agent,IRS Building,"Well, then, we'd better make it 95%."
+31149,143,82,437000,Announcer,Simpson Home,The Internal Revenue Service presents Herschel Krustofsky's Clown-related Entertainment Show.
+31173,143,83,437000,Krusty the Clown,Simpson Home,"Hey, hey, kids! Now that the Feds are calling the shots, this show's gotta be a lot more cost-effective. So we had to cut down on the frills -- like sets, props, costumes, and Sideshow Mel. But that doesn't mean we can't have fun. For example... I sure wish somebody would give me a banana cream pie... Yeah?!..."
+31174,143,84,467000,Krusty the Clown,Simpson Home,"I guess we can't afford pies right now. Well, throw something!"
+31177,143,87,482000,Homer Simpson,Krusty Burger,"Um, I'll have four Tax Burgers, one IRS-Wich -- withhold the lettuce -- three dependent-sized sodas and a FICAccino."
+31178,143,88,493000,Squeaky-Voiced Teen,Krusty Burger,Fill out schedule B. You should receive your burgers in six to eight weeks.
+31179,143,89,505000,Homer Simpson,Krusty Burger,Hey Marge -- what were your gambling losses last year?
+31180,143,90,508000,Marge Simpson,Krusty Burger,Seven hundred dollars.
+31182,143,92,513000,Krusty the Clown,Krusty's Street,"They took my money, they wrecked my show, they buried a bunch of stinking veterans in my family plot -- but at least I still got my memories. Those are locked up safe in my fabulous mansion."
+31184,143,94,527000,Auctioneer,Krusty's Mansion,And now lot number 66: a handmade leather suitcase. Carried by the Krustofsky family upon their arrival at Ellis Island in 1902. A priceless heirloom and historic piece of Krustiana. What am I bid?
+31185,143,95,538000,Selma Bouvier,Krusty's Mansion,40 cents!
+31186,143,96,539000,Auctioneer,Krusty's Mansion,I got 40 cents... Sold for 40 cents!
+31187,143,97,548000,Krusty the Clown,Krusty's Mansion,"40 cents? Ach, my Grampa Zev would turn over in his grave if it wasn't filled with some veteran!"
+31188,143,98,555000,Auctioneer,Krusty's Mansion,Lot 67: 32 cartons of pornography.
+31189,143,99,558000,Jasper Beardly,Krusty's Mansion,10 cents!
+31190,143,100,558000,Phone Bid Taker,Krusty's Mansion,12!
+31191,143,101,560000,Auctioneer,Krusty's Mansion,12 cents to our phone bidder in Japan. Any advance?
+31192,143,102,563000,Jasper Beardly,Krusty's Mansion,All I brought is a dime. I didn't know there'd be pornography.
+31193,143,103,567000,Auctioneer,Krusty's Mansion,Sold for 12 cents.
+31194,143,104,569000,Krusty the Clown,Krusty's Mansion,"Oh, my beloved pornography! I can't watch this anymore. I'm going to bed."
+31195,143,105,574000,Auctioneer,Krusty's Mansion,How much for Krusty's bed?
+31196,143,106,576000,Moe Szyslak,Krusty's Mansion,Half a buck!
+31197,143,107,576000,Auctioneer,Krusty's Mansion,Sold.
+31198,143,108,577000,Moe Szyslak,Krusty's Mansion,"Goodnight, everybody!"
+31172,143,109,579000,All,Krusty's Mansion,"Goodnight, Moe!"
+31199,143,112,582000,Auctioneer,Krusty's House,"And now, lot 2,380: Krusty's private plane, the ""I'M-ON-A-ROLLA GAY."""
+31200,143,113,586000,Krusty the Clown,Krusty's House,"But I love that plane! I used to fly to Vegas in it with Dean Martin. One night he looked out the window and the moon hit his eye like a big pizza pie. We wrote a song about it, but it ended up infringing on one he recorded years before."
+31201,143,114,600000,Patty Bouvier,Krusty's House,"Hey, Selma, that plane would go great with your new suitcase."
+31202,143,115,604000,Selma Bouvier,Krusty's House,Nah. I just bought it to soak my feet in.
+31204,143,117,616000,Bart Simpson,Krusty's House,Krusty? Hi. Is it okay if I sit down here?
+31205,143,118,619000,Krusty the Clown,Krusty's House,"Go ahead, kid. Knock yourself out."
+31206,143,119,622000,Bart Simpson,Krusty's House,"I'm sorry for all the trouble I've caused you, Krusty. But, you know, my mom says God never closes a door without opening a window."
+31207,143,120,629000,Krusty the Clown,Krusty's House,"No offense, kid, but your mom's a dingbat. There's no silver lining here. I was a big cheese -- a huge cheese! But now look at me! I gotta ride the bus like a schnook! I gotta live in an apartment like an idiot! I gotta wait in line with nobodies to buy groceries from a failure!"
+31208,143,121,650000,Bart Simpson,Krusty's House,"It doesn't matter how you live or what you did wrong. As long as you're on TV, people will respect you."
+31209,143,122,655000,Krusty the Clown,Krusty's House,"Respect?! What good is respect without the moolah to back it up? Everywhere I go I see teachers in Ferraris, research scientists drinking champagne. I tried to drink a Coke on the bus and they took away my pass! That's no life for a famous clown!"
+31210,143,123,674000,Bart Simpson,Krusty's House,"Well, if it'll make you feel any better, Krusty, you can punch me in the face."
+31211,143,124,680000,Krusty the Clown,Krusty's House,"Nah, forget it. Go home, kid."
+31213,143,126,689000,Apu Nahasapeemapetilon,Kwik-E-Mart,Shiva H. Vishnu! Where is that noise coming from?
+31216,143,129,697000,Man's Voice,Skinner Home,"I must say, I've had a lovely evening, Agnes. I don't suppose I could come in for a cup of--"
+31217,143,130,703000,Agnes Skinner,Skinner Home,Seymour!
+31218,143,131,704000,Seymour Skinner,Skinner Home,Mother?! Superintendent Chalmers?!!
+31219,143,132,706000,Gary Chalmers,Skinner Home,Skinner!
+31220,143,133,707000,Seymour Skinner,Skinner Home,What I wouldn't give for something to interrupt this awkward moment.
+31222,143,135,714000,Seymour Skinner,Skinner Home,That'll do nicely.
+31225,143,138,721000,Lisa Simpson,Simpson Home,You gotta hand it to Krusty.
+31226,143,139,722000,Homer Simpson,Simpson Home,"Yeah, even with all his problems, he's still willing to do something unbelievably dangerous just to entertain his fans."
+31227,143,140,730000,Homer Simpson,Simpson Home,Wow.
+31228,143,141,730000,Bart Simpson,Simpson Home,"Aw, that's my Krusty. I got a feeling he'll be allll-right."
+31230,143,143,746000,Lisa Simpson,Base Of Mountain,Oh my God! Krusty's shoes!
+31231,143,144,749000,Chief Wiggum,Base Of Mountain,"Okay, folks, show's over. Nothing to see here, show's... Oh my God! A horrible plane crash! Hey everybody, get a load of this flaming wreckage! Come on, crowd around, crowd around! Don't be shy, crowd around!"
+31232,143,145,764000,Chief Wiggum,Base Of Mountain,Ladies and gentlemen... Krusty the Clown is dead!
+31234,143,147,778000,Bart Simpson,Springfield Cemetery,I can't believe Krusty is really gone.
+31235,143,148,780000,Homer Simpson,Springfield Cemetery,"Don't worry, son. I'm sure he's up in Heaven right now, laughing it up with all the other celebrities -- John Dillinger, Ty Cobb, Joseph Stalin... I wish I were dead."
+31236,143,149,795000,Troy McClure,Springfield Cemetery,"We're gathered to mourn the passing of Herschel Shmoikel Krustofsky, beloved entertainer and dear friend. Hello, I'm Troy McClure. You might remember me from such show business funerals as ""Andre the Giant, We Hardly Knew Ye,"" and ""Shemp Howard: Today We Mourn a Stooge."" Now... Krusty's closest friend and sidekick, Sideshow Mel."
+31237,143,150,817000,Sideshow Mel,Springfield Cemetery,"I'll miss you, Krusty -- I and all the other Sideshows... except Sideshow Bob. But in the midst of our sorrow, we can take comfort in the fact that your elevated blood alcohol level probably helped you burn up quicker. Since you left us no earthly remains, it is my sad duty to unveil this simple memorial."
+31238,143,151,842000,Troy McClure,Springfield Cemetery,Next in our cavalcade of celebrity mourners: Bob Newhart.
+31239,143,152,851000,Bob Newhart,Springfield Cemetery,"See... to tell you the truth, I'm just... I'm killing time here, I was waiting for uh, for a different funeral to start."
+31240,143,153,861000,Troy McClure,Springfield Cemetery,I'll handle it. Bob Newhart everybody!
+31243,143,154,867000,Bob Newhart,Springfield Cemetery,"Uh... um, though I started my career several years before uh, Krusty, so I could never really have learned anything directly from him, still... I think... in a way, in a very meaningful way, that I... all of us... have learned from him. in that is... by being a clown on television for so many years... even though you know, many of us, we didn't watch his show... Thank you."
+31244,143,155,912000,Troy McClure,Springfield Cemetery,"Well, that's the funeral, folks. We'll be sitting shiva at the Friar's Club at 7 p.m. and again at 10. You must be over 18 for the 10 o'clock -- It gets a little blue."
+31246,143,157,929000,Kent Brockman,Simpson Home,And so Herschel Krustofsky is gone. But not forgotten. Today was the unveiling of the new Krusty stamp. Postal patrons were asked to choose between two competing designs: One of Krusty's heartwarming smile... and one of his fiery death.
+31247,143,158,944000,Kent Brockman,Simpson Home,"By a nearly 2 to 1 vote, the smiling Krusty was chosen."
+31249,143,160,955000,Homer Simpson,Simpson Home,"Don't let Krusty's death get you down, boy. People die all the time. Just like that. Why, you could wake up dead tomorrow. Well, good night."
+31250,143,161,977000,Bart Simpson,Simpson Home,Krusty!
+31251,143,162,980000,Bart Simpson,Simpson Home,Mom! I just saw Krusty!
+31252,143,163,981000,Marge Simpson,Simpson Home,"Yes, dear. In your mind."
+31253,143,164,983000,Bart Simpson,Simpson Home,"No, on the street."
+31254,143,165,984000,Marge Simpson,Simpson Home,On the street in your mind.
+31255,143,166,986000,Bart Simpson,Simpson Home,Why won't you believe me?!
+31256,143,167,987000,Marge Simpson,Simpson Home,"Sweetheart, maybe you just want Krusty to be alive so badly, you think you see him everywhere. I went through the same thing when Lyndon Johnson died."
+31258,143,169,997000,Dr. Julius Hibbert,Dr. Hibbert's Office,...and these pills will help with the queasiness.
+31259,143,170,1003000,Bart Simpson,Dr. Hibbert's Office,"Krusty?! Doctor Hibbert, who was that man?"
+31260,143,171,1006000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Now Bart, telling you would violate the patient/doctor privilege, just as if I were to tell you that Jaspser here has five seconds to live."
+31261,143,172,1015000,Jasper Beardly,Dr. Hibbert's Office,What'd he say?
+31262,143,173,1016000,Mrs. Glick,Dr. Hibbert's Office,He said I'm next!
+31264,143,175,1019000,Bart Simpson,SPRINGFIELD SHORES,Am I going crazy? I'm seeing Krusty everywhere.
+31241,143,177,1033000,Lisa Simpson,Simpson Home,"Bart, you're seeing Krusty everywhere because you want to tell him you're sorry for causing his death. Would it help if I told you you're not responsible for Krusty's death?"
+31242,143,178,1041000,Bart Simpson,Simpson Home,Yes. Yes it would.
+31267,143,179,1042000,Lisa Simpson,Simpson Home,Well I can't. You'll just have to learn to live with your mental problem.
+31268,143,180,1045000,Bart Simpson,Simpson Home,"Wait a minute! All those things I saw -- there's a connection! The truck full of nets and buckets, the queasy guy, the lobsters... they all point to one thing. Follow me."
+31271,143,183,1061000,Captain Horatio McCallister,BAIT & TACKLE SHOP,"Arrr, I've got some customers. Call me back, Ishmael. Ahoy there, minnows."
+31272,143,184,1067000,Bart Simpson,BAIT & TACKLE SHOP,Ahoy! Have you seen this man?
+31273,143,185,1072000,Captain Horatio McCallister,BAIT & TACKLE SHOP,"Arrr, that's Handsome Pete. He dances for nickels. Pete! Ye got some customers!"
+31274,143,186,1083000,Lisa Simpson,BAIT & TACKLE SHOP,"No. We're looking for this man, Krusty the Clown."
+31275,143,187,1088000,Captain Horatio McCallister,BAIT & TACKLE SHOP,"Narrr, narrr, narrr."
+31276,143,188,1090000,Lisa Simpson,BAIT & TACKLE SHOP,"It's hopeless, Bart. We've searched up and down these docks, from Pier One to that Pier 1 by Pier Seventeen."
+31277,143,189,1101000,Bart Simpson,BAIT & TACKLE SHOP,"Lisa! Look! A signature with stars around it, just like Krusty's!"
+31278,143,190,1105000,Lisa Simpson,BAIT & TACKLE SHOP,"""Rory B. Bellows, Slip Eight!"" Let's go!"
+31279,143,191,1111000,Captain Horatio McCallister,BAIT & TACKLE SHOP,"Not a quarter!! Arrr, he'll be dancing for hours!"
+31281,143,193,1120000,Bart Simpson,SPRINGFIELD MARINA - SLIP 8,Are you Rory B. Bellows?
+31282,143,194,1121000,Rory,SPRINGFIELD MARINA - SLIP 8,Yes.
+31283,143,195,1122000,Bart Simpson,SPRINGFIELD MARINA - SLIP 8,How about Krusty the Clown?
+31284,143,196,1125000,Rory,SPRINGFIELD MARINA - SLIP 8,Sorry. I don't do impressions.
+31285,143,197,1127000,Bart Simpson,SPRINGFIELD MARINA - SLIP 8,"Well, if you're not Krusty, how come you have the exact same signature as him?"
+31286,143,198,1131000,Rory,SPRINGFIELD MARINA - SLIP 8,"I'm Rory Bellows, I tell you. And I've got a lot of corroborating evidence... over here... by the throttle."
+31288,143,200,1144000,Rory,SPRINGFIELD MARINA - SLIP 8,"You know, you two coulda said something 'steada letting me make an ass of myself."
+31289,143,201,1149000,Lisa Simpson,SPRINGFIELD MARINA - SLIP 8,Hey! You've got a pacemaker scar just like Krusty!
+31290,143,202,1152000,Bart Simpson,SPRINGFIELD MARINA - SLIP 8,And Krusty's superfluous third nipple!
+31291,143,203,1156000,Rory,SPRINGFIELD MARINA - SLIP 8,"Why won't you leave me alone, kid? Can't you see I don't want to be Krusty anymore? That's why I faked my death."
+31292,143,204,1161000,Lisa Simpson,SPRINGFIELD MARINA - SLIP 8,But we saw your plane crash...
+31293,143,205,1163000,Krusty the Clown,SPRINGFIELD MARINA - SLIP 8,"Yeah, but I wasn't in it..."
+31294,143,206,1165000,Krusty the Clown,SPRINGFIELD MARINA - SLIP 8,"Just before I hit the mountain, I jumped out of the plane into a carefully placed net."
+31296,143,208,1173000,Bart Simpson,SPRINGFIELD MARINA - SLIP 8,"So now that we've blown your cover, I guess you've gotta come back and do your show again!"
+31297,143,209,1177000,Lisa Simpson,SPRINGFIELD MARINA - SLIP 8,Or kill us.
+31299,143,211,1179000,Krusty the Clown,SPRINGFIELD MARINA - SLIP 8,"I won't be coming back, kids. I've got a sweet life here. The sea air is clearing my lungs, the sun is toasting my pale skin a healthy brown, and most important, I learned that I don't need money to be happy. All that high living just distracted me from my true calling in life: salvaging sunken barges for scrap iron. Sorry, kids, there's nothing left for me on dry land anymore."
+31300,143,212,1203000,Bart Simpson,SPRINGFIELD MARINA - SLIP 8,"But Krusty, what about all the kids who depend on you to brighten up their afternoons? Are you going to turn your back on them?"
+31301,143,213,1210000,Krusty the Clown,SPRINGFIELD MARINA - SLIP 8,Yes.
+31302,143,214,1214000,Bart Simpson,SPRINGFIELD MARINA - SLIP 8,"C'mon, Lis, Krusty doesn't want our attention anymore. Let's go worship somebody who has the guts to be a celebrity."
+31303,143,215,1220000,Lisa Simpson,SPRINGFIELD MARINA - SLIP 8,"Yeah, Krusty doesn't want to be a clown. He's happy just being another blue-collar bozo."
+31304,143,216,1226000,Krusty the Clown,SPRINGFIELD MARINA - SLIP 8,Meh.
+31305,143,217,1228000,Bart Simpson,SPRINGFIELD MARINA - SLIP 8,"Krusty's tired of having phonies around, pretending to be his friends. I'm sure he'll find plenty of people who'll like him for who he is."
+31306,143,218,1236000,Krusty the Clown,SPRINGFIELD MARINA - SLIP 8,It could happen. Who needs friends? The incessant beep of the Global Positioning System is all the companionship I need.
+31309,143,221,1250000,Krusty the Clown,SPRINGFIELD MARINA - SLIP 8,"Tell me where you are now, you bastard!"
+31310,143,222,1252000,Krusty the Clown,SPRINGFIELD MARINA - SLIP 8,"All right, I admit it. I miss the phonies -- but that's all I miss. That and the Shirley Jones/Marty Engles New Years Eve Party."
+31311,143,223,1261000,Lisa Simpson,SPRINGFIELD MARINA - SLIP 8,What about that great feeling you get from knowing you're better than regular people?
+31312,143,224,1265000,Bart Simpson,SPRINGFIELD MARINA - SLIP 8,"What about: being an illiterate TV clown who's still more respected than all the scientists, doctors and educators in the country put together?"
+31313,143,225,1276000,Krusty the Clown,SPRINGFIELD MARINA - SLIP 8,"Yeahhhh, I'm not gonna let those guys hog all the respect while I'm out here on some stinkin' tub."
+31314,143,226,1284000,Krusty the Clown,SPRINGFIELD MARINA - SLIP 8,"That's just what those eggheads want. Well, forget it, Poindexter, 'cause Krusty's back in town!"
+31315,143,227,1298000,Lisa Simpson,SPRINGFIELD MARINA - SLIP 8,Yay!
+31317,143,229,1298000,Bart Simpson,BEACH - A WHILE LATER,"So Krusty, what are you gonna do about your tax problem?"
+31318,143,230,1302000,Krusty the Clown,BEACH - A WHILE LATER,"Don't sweat it. The life of ""Rory B. Bellows"" is insured for a surprisingly large amount."

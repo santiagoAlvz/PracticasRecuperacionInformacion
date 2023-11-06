@@ -1,0 +1,247 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+77216,302,1,80000,Walter Cronkite,Kennedy Center,"Today we honor three great Americans: Jazz legend Ornette Coleman...playwright Arthur Miller...and all-around genius, Lisa Simpson."
+77217,302,2,96000,Ornette Coleman,Kennedy Center,We're not worthy! / We're not worthy!
+77218,302,3,101000,Lisa Simpson,Kennedy Center,"Thank you, Mr. Cronkite."
+77219,302,4,104000,Walter Cronkite,Kennedy Center,She knows my name!
+77220,302,5,107000,Lisa Simpson,Kennedy Center,"Ladies and Gentlemen. Tonight, I'd like to harangue you about the plight of--"
+77222,302,7,118000,Lisa Simpson,Simpson Home,"Mom, why did you wake me up? I dreamt I was at the Kennedy Center Honors."
+77223,302,8,124000,Marge Simpson,Simpson Home,Well here's another low-rated annual event -- Spring Cleaning!
+77224,302,9,129000,Marge Simpson,Simpson Home,"Come on, everyone's helping."
+77225,302,10,138000,Marge Simpson,Simpson Home,You've gotta get rid of those Furbies. They've turned feral!
+77227,302,12,144000,Lisa Simpson,Simpson Home,"Hmm, this is an interesting old book."
+77228,302,13,147000,Lisa Simpson,Simpson Home,"""Molochai desiratum maledictu... nosferatu ascendum corporalis...,molochai desiratum maledictu nosferatu ascendum corporalis,6
+87171,302,14,Lisa Simpson: (READING) Diabolicus abominabolis...,147000,true,9,5,Lisa Simpson,Simpson Home,Diabolicus abominabolis...,diabolicus abominabolis,2
+87172,302,15,""Lisa Simpson: Ooh"
+77229,302,16,160000,Bart Simpson,Simpson Home,"Hey, a box of old videotapes."
+77230,302,17,162000,Bart Simpson,Simpson Home,"Hm, ""Marge and Homer Get Dirty."""
+77231,302,18,162000,Bart Simpson,Simpson Home,"Hey, Lis! Think you're well adjusted? I've got something to show you."
+77232,302,19,172000,Marge Simpson,Simpson Home,I can't believe you talked me into this.
+77233,302,20,175000,Homer Simpson,Simpson Home,It's such a mess. Watch the teeth!
+77234,302,21,179000,Marge Simpson,Simpson Home,Don't go telling your buddies at work about this.
+77235,302,22,182000,Bart Simpson,Simpson Home,Every tape is pumpkin carving.
+77236,302,23,185000,Lisa Simpson,Simpson Home,"Hey, what's this?"
+77237,302,24,186000,Lisa Simpson,Simpson Home,BART SAD.
+77238,302,25,186000,Lisa Simpson,Simpson Home,"If I ever needed proof of the existence of God, here it is."
+77239,302,26,194000,Larry,Simpson Home,"Balki, you're dancing in the toilet."
+77240,302,27,197000,Balki,Simpson Home,"What? You never heard of ""Flush Dance""?"
+77241,302,28,203000,Announcer #2,Simpson Home,Perfect Strangers will return after these commercials.
+77242,302,29,208000,Old Lady,Simpson Home,What a beautiful baby...
+77243,302,30,211000,Old Lady,Simpson Home,What horrible breath!
+77244,302,31,213000,Jingle Singers,Simpson Home,HE'S THE BABY WHOSE MOUTH / SMELLS LIKE DEATH / RUN FOR YOUR LIFE / IT'S BABY STINK-BREATH!
+77246,302,33,223000,Bart Simpson,Simpson Home,"Oh my God, that's me!"
+77247,302,34,225000,Lisa Simpson,Simpson Home,"This isn't ""BART SAD."" It's ""BART'S AD."""
+77248,302,35,229000,Bart Simpson,Simpson Home,"Wait, I was in a commercial? I don't remember this at all."
+77249,302,36,236000,Old Lady,Simpson Home,No more Baby Stink-Breath!
+77250,302,37,238000,Mother,Simpson Home,Thanks to the Baby-So-Fresh tri-patch system! These soothing chemical patches alter your baby's DNA... while leaving the RNA untouched!
+77252,302,39,249000,Happy Face,Simpson Home,Not safe for babies under two.
+77253,302,40,252000,Lisa Simpson,Simpson Home,You're Baby Stink-Breath! You're Baby Stink-Breath! En Francais! Vous Etes L'enfant Stink-Breath!
+77255,302,42,261000,Bart Simpson,Simpson Home,How could you make me Baby Stink Breath and not even tell me?
+77256,302,43,265000,Homer Simpson,Simpson Home,I was going to tell you on my deathbed.
+77257,302,44,268000,Marge Simpson,Simpson Home,"Honey, you did have a great time doing those commercials. And you made a lot of money."
+77258,302,45,273000,Bart Simpson,Simpson Home,I did? Where is it?
+77259,302,46,274000,Marge Simpson,Simpson Home,"Your father invested it in a college trust fund, which today must be worth a..."
+77260,302,47,279000,Homer Simpson,Simpson Home,La la la la la la la la la.
+77261,302,48,281000,Marge Simpson,Simpson Home,"Of course, the stock market's been down lately."
+77262,302,49,284000,Marge Simpson,Simpson Home,But there must be some sort...
+77263,302,50,285000,Homer Simpson,Simpson Home,La la la la la la la. Nothing left. La la la... la... la.
+77264,302,51,289000,Bart Simpson,Simpson Home,You spent all the money I earned?!
+77265,302,52,291000,Homer Simpson,Simpson Home,I needed it. I had to buy back some incriminating photos.
+77266,302,53,295000,Homer Simpson,Simpson Home,Look. See. You're fine. And then--oops! Uh-oh. Look out...
+77267,302,54,303000,Homer Simpson,Simpson Home,"I know this looks bad, but if you reverse it, Daddy's a hero!"
+77268,302,55,308000,Homer Simpson,Simpson Home,"See, Bart. I saved you."
+77269,302,56,311000,Bart Simpson,Simpson Home,You stole my money!
+77270,302,57,313000,Marge Simpson,Simpson Home,"Bart, stop that!"
+77271,302,58,314000,Homer Simpson,Simpson Home,That's okay. His cute little hands can't even fit around my neck.
+77272,302,59,318000,Homer Simpson,Simpson Home,Now he's got it.
+77273,302,60,318000,Marge Simpson,Simpson Home,"Bart, the larynx is not a plaything."
+77274,302,61,326000,Bart Simpson,Simpson Home,"Mom, I am sick of the way he treats me. He disrespects me and I'm just supposed to accept it?"
+77275,302,62,332000,Homer Simpson,Simpson Home,"That's right. You're mine till you're eighteen. And when you're seventeen I'm gonna know the end is near, so I'm gonna work you like a dog."
+77277,302,64,340000,Bart Simpson,Park,So my Dad blew all the money I made from that embarrassing commercial. Promise me you won't tell anyone about it.
+77278,302,65,346000,Milhouse Van Houten,Park,"I won't, but these things have a way of getting out."
+77279,302,66,350000,Nelson Muntz,Park,Haw haw! Baby Stink Breath!
+77280,302,67,354000,Nelson Muntz,Park,It was worth it.
+77281,302,68,355000,Bart Simpson,Park,I just wish there was some way to get back at my Dad.
+77282,302,69,358000,Milhouse Van Houten,Park,"When my Mom wants to get back at my Dad, she uses her lawyer."
+77283,302,70,362000,Bart Simpson,Park,Does it make him cry?
+77284,302,71,362000,Milhouse Van Houten,Park,More than normal.
+77285,302,72,364000,Kirk Van Houten,Park,"Hey, son. I've got tickets for the circus."
+77288,302,75,371000,Bart Simpson,Building,"Hmmm. Badger, Haggle and Bill,"" ""Luvum and Burnham, Family Law,"" ""Hackey, Joke and Dunnit."" Bingo!"
+77290,302,77,380000,Bart Simpson,LAW OFFICE,I want a divorce from my parents.
+77291,302,78,382000,Blue-Haired Lawyer,LAW OFFICE,You whaaa?!
+77292,302,79,383000,Bart Simpson,LAW OFFICE,I said I want a divorce from my parents.
+77293,302,80,383000,Blue-Haired Lawyer,LAW OFFICE,"Yes, I heard you. I was just calling my secretary."
+77294,302,81,388000,Blue-Haired Lawyer,LAW OFFICE,"Uwa, get me the standard child- divorcing-parent form."
+77295,302,82,392000,Uwa,LAW OFFICE,Yes sir.
+77297,302,84,405000,Marge Simpson,Simpson Home,"I heard a wonderful saying today: ""forgive and forget."""
+77298,302,85,411000,Homer Simpson,Simpson Home,"Yes, son. At times like this I just look at my bracelet."
+77299,302,86,415000,Lisa Simpson,Simpson Home,"Good point, Dad. What would Jesus do?"
+77300,302,87,417000,Homer Simpson,Simpson Home,Jesus?! I thought it was Gepetto!
+77301,302,88,423000,Homer Simpson,Simpson Home,Who is it?
+77303,302,90,424000,Blue-Haired Lawyer,DOOR,I'm here to serve you with a subpoena.
+77304,302,91,426000,Homer Simpson,DOOR,"Well, I'm not opening the door."
+77305,302,92,427000,Blue-Haired Lawyer,DOOR,It comes with a side of bacon.
+77306,302,93,429000,Homer Simpson,DOOR,Is it crispy?
+77307,302,94,431000,Blue-Haired Lawyer,DOOR,Yes.
+77308,302,95,432000,Homer Simpson,DOOR,But not too crispy.
+77092,302,96,434000,Blue-Haired Lawyer,DOOR,No.
+77309,302,97,436000,Homer Simpson,DOOR,See you in court.
+77311,302,99,438000,Marge Simpson,Simpson Home,"Bart, you're suing us?!"
+77312,302,100,441000,Bart Simpson,Simpson Home,"Yes, I want to be emancipated."
+77313,302,101,443000,Homer Simpson,Simpson Home,Emancipated? Don't you like being a dude?
+77314,302,102,446000,Lisa Simpson,Simpson Home,"No Dad, it means Bart would be a legal adult and free to move out of the house."
+77315,302,103,451000,Marge Simpson,Simpson Home,I wanted a sewing room. But not like this. Not like this!
+77316,302,104,455000,Bart Simpson,Simpson Home,"Mom, you've always been cool to me. But Homer is a lousy dad and I'm not gonna take it anymore."
+77317,302,105,461000,Homer Simpson,Simpson Home,"Hey, my dad was lousy and I didn't sue him. I just dumped him in the cheapest home I could find."
+77319,302,107,469000,Grampa Simpson,Springfield Retirement Castle,My IV is empty and my catheter is full!
+77320,302,108,478000,Orderly,Springfield Retirement Castle,See you tomorrow.
+77324,302,112,484000,Blue-Haired Lawyer,Courtroom,"Bart, using this doll, tell the court where your father took money from you."
+77325,302,113,489000,Bart Simpson,Courtroom,Here... and here.
+77326,302,114,492000,Blue-Haired Lawyer,Courtroom,Let the record show that he pulled out the little pockets of the doll.
+77328,302,116,498000,Blue-Haired Lawyer,Courthouse,Mr. Simpson. Your son alleges that you have an anger management problem...
+77329,302,117,503000,Homer Simpson,Courthouse,"Why you little...! Um, I'm sorry, Judge. That's a rare lapse in my normally calm demeanor."
+77330,302,118,511000,Judge Harm,Courthouse,Could the stenographer please read back the previous statement?
+77331,302,119,514000,Stenographer,Courthouse,Why you little...!
+77332,302,120,514000,Homer Simpson,Courthouse,Why you little...!
+77334,302,122,518000,Homer Simpson,Courthouse,Why you little...! Why you little...!
+77336,302,124,526000,Bailiff,Courtroom,All rise for the verdict.
+77337,302,125,529000,Homer Simpson,Courtroom,"Son, I just want you to know, whatever that judge decides, I'm gonna be the best dad I can."
+77338,302,126,536000,Judge Harm,Courtroom,No judge would send a pre-teen out on his own...
+77339,302,127,539000,Homer Simpson,Courtroom,Woo hoo! You're still mine! And you thought I was a bad dad before.
+77340,302,128,544000,Judge Harm,Courtroom,Except in this case.
+77342,302,130,546000,Judge Harm,Courtroom,"That boy's about as safe living with you as a crawdad in a gumbo shack. Bart Simpson, I declare you emancipated!"
+77343,302,131,554000,Judge Harm,Courtroom,"Further, I hereby garnish Homer's wages until Bart is fully repaid."
+77344,302,132,558000,Homer Simpson,Courtroom,Mmmmm... garnish.
+77345,302,133,561000,Judge Harm,Courtroom,That means half your paycheck goes to Bart!
+77346,302,134,563000,Homer Simpson,Courtroom,What the--? Half goes to Bart. Half goes to my Vegas wife. What's left for Moe?
+77347,302,135,569000,Marge Simpson,Courtroom,"Homer, don't make things worse."
+77348,302,136,571000,Homer Simpson,Courtroom,I'll show you worse!
+77349,302,137,577000,Homer Simpson,Courtroom,I was told this would be televised!
+77351,302,139,582000,Bart Simpson,Simpson Home,How can I fit my whole life into a suitcase? Maybe if I move that thing there... perfect.
+77352,302,140,589000,Lisa Simpson,Simpson Home,"Bart, where are you gonna live?"
+77353,302,141,591000,Bart Simpson,Simpson Home,"With the money Dad's paying me, I rented a loft downtown."
+77354,302,142,594000,Lisa Simpson,Simpson Home,Do you even know what a loft is?
+77355,302,143,596000,Bart Simpson,Simpson Home,No. I assume it has hay.
+77356,302,144,598000,Lisa Simpson,Simpson Home,"Oh, I'm gonna miss you."
+77357,302,145,601000,Bart Simpson,Simpson Home,Here's something to remember me by.
+77358,302,146,603000,Lisa Simpson,Simpson Home,Ow! Indian burn!
+77359,302,147,605000,Bart Simpson,Simpson Home,Look at it.
+77360,302,148,606000,Lisa Simpson,Simpson Home,"Aw, that's so sweet."
+77361,302,149,608000,Bart Simpson,Simpson Home,"If I did it right, it's permanent."
+77362,302,150,613000,Marge Simpson,Simpson Home,"Please don't go, Bart. I'll let you swear in the house. Everything but the big three."
+77363,302,151,619000,Bart Simpson,Simpson Home,Sorry Mom. I just can't. Not as long as he's here.
+77364,302,152,624000,Marge Simpson,Simpson Home,"Oh honey, I can't believe this is happening. I'll miss you so much."
+77365,302,153,631000,Cab Driver,Simpson Home,"Either give me some of that, or let's get going."
+77366,302,154,633000,Bart Simpson,Simpson Home,Sorry Mom. I gotta go.
+77367,302,155,639000,Homer Simpson,Simpson Home,"Go ahead, leave. You'll come crawling back."
+77368,302,156,644000,Homer Simpson,Simpson Home,That's right! Crawling on your knees!
+77369,302,157,650000,Homer Simpson,Simpson Home,"Crawling! Oh, he's really gone. He's gone!"
+77372,302,160,672000,Bart Simpson,LOFT BUILDING,"Well here I am, on my own. And I'm gonna make it, world!"
+77373,302,161,679000,Man,LOFT BUILDING,Be quiet in there! Some of us are tryin' to sell drugs!
+77375,302,163,682000,Homer Simpson,Simpson Home,"Look out, son. This one's got a little mustard on it!"
+77376,302,164,687000,Homer Simpson,Simpson Home,Attaboy! We just won the World Series! You and me together! Yeah!
+77379,302,167,695000,Marge Simpson,Simpson Home,He should have done that with the real Bart when he had the chance.
+77381,302,169,702000,Bart Simpson,LOFT,"Being a free man is great, Milhouse. I can draw on myself with a magic marker."
+77382,302,170,707000,Milhouse Van Houten,LOFT,"Boy, I wish I was a free man. Mom, where's Puppy Goo Goo?"
+77383,302,171,713000,Milhouse Van Houten,LOFT,"Oh, Puppy Goo Goo, fetch me a dream."
+77384,302,172,727000,Bart Simpson,LOFT,"Boy, it's really empty in here."
+77385,302,173,738000,Bart Simpson,LOFT,Now calm down. I'm perfectly safe. Murder's illegal in this state.
+77387,302,175,750000,Bart Simpson,LOFT,"Okay, that was just my imagination."
+77388,302,176,753000,Bart Simpson,LOFT,Mommy!
+77390,302,178,762000,Bart Simpson,Elevator,Not up! Down!
+77391,302,179,767000,Bart Simpson,Elevator,I'm gonna die in my jammies!
+77392,302,180,782000,Tony Hawk,Elevator,"Hey, it's an emancipated minor! What's your name?"
+77393,302,181,785000,Bart Simpson,Elevator,"I'm-I'm Bart Simpson, and-- Hey, are you skateboarding legend Tony Hawk?"
+77394,302,182,790000,Tony Hawk,Elevator,That's what my business cards say.
+77395,302,183,795000,Tony Hawk,Elevator,Oh wait. That's my old phone number.
+77396,302,184,802000,Bart Simpson,Elevator,You live in this building?
+77397,302,185,804000,Tony Hawk,Elevator,When I'm not on the road or in rehab for my shattered pelvis. I hope you don't mind living below a bunch of pro skaters who like to party.
+77398,302,186,811000,Bart Simpson,Elevator,I'll adjust.
+77399,302,187,812000,Tony Hawk,Elevator,"Hey, Blink 182!"
+77400,302,188,814000,Tom DeLonge,Elevator,"We have names, you know."
+77401,302,189,815000,Tony Hawk,Elevator,Whatever. You can crank it up!
+77402,302,190,816000,Mark Hoppus,Elevator,"Dude, let's trash this place."
+77403,302,191,818000,Travis Barker,Elevator,After we get paid.
+77404,302,192,820000,Mark Hoppus,Elevator,Nice.
+77405,302,193,823000,Bart Simpson,Elevator,"Oh man, this is the greatest night of my life. If my Dad could see this he'd be so mad."
+77406,302,194,829000,Tony Hawk,Elevator,He can. There's a web cam right there.
+77408,302,196,832000,Homer Simpson,Simpson Home,"Of all the sites on all the web, I had to click onto his."
+77410,302,198,853000,Marge Simpson,Simpson Kitchen,Darn it! I keep pouring juice for five.
+77411,302,199,859000,Homer Simpson,Simpson Kitchen,"Did you see that, boy? Your mom thinks you're still here!"
+77412,302,200,862000,Lisa Simpson,Simpson Kitchen,"Oh, tomorrow's the day the judge said we can visit Bart."
+77413,302,201,865000,Marge Simpson,Simpson Kitchen,I think he might come home if we can show him we can treat him better.
+77414,302,202,869000,Homer Simpson,Simpson Kitchen,"For your information, I've been taking steps to become a better father."
+77415,302,203,873000,Homer Simpson,Simpson Kitchen,For the past week I've been carrying around this bag of sugar. It's taught me how to love and care for a child.
+77416,302,204,880000,Homer Simpson,Simpson Kitchen,What the-- where the hell is my sugar?!
+77418,302,206,883000,Cletus Spuckler,Cletus's Shack,Condoleeza-Marie ain't too playful tonight.
+77419,302,207,887000,Brandine Del Roy,Cletus's Shack,And I don't remember her being this granulated.
+77420,302,208,890000,Dia-Betty,Cletus's Shack,Can I put your baby in my coffee?
+77421,302,209,892000,Cletus Spuckler,Cletus's Shack,"Well, the doctor said you eat any more baby, they gonna take your foot."
+77423,302,211,903000,Bart Simpson,Springfield Elementary School,"Thanks for the lift, Tony Hawk. I've gotta go now, Tony Hawk."
+77424,302,212,906000,Bart Simpson,Springfield Elementary School,"Cool guy, Tony Hawk."
+77425,302,213,907000,Milhouse Van Houten,Springfield Elementary School,"Bart, you know Tony Hawk?"
+77426,302,214,910000,Bart Simpson,Springfield Elementary School,"Please, I'm trying to keep it quiet. Catch ya later, Tony Hawk."
+77427,302,215,914000,Tony Hawk,Springfield Elementary School,"Stay cool, Brett."
+77429,302,217,920000,Marge Simpson,Bart's Loft Building,I don't think this is a good place for a ten-year-old boy.
+77430,302,218,924000,Marge Simpson,Bart's Loft Building,Here's five dollars. Buy yourself a suit and get busy.
+77431,302,219,928000,Bum,Bart's Loft Building,I'll buy a suit... of drugs!
+77433,302,221,941000,Bart Simpson,Bart's Loft,Hi guys... Dad.
+77434,302,222,943000,Homer Simpson,Bart's Loft,"Hello, son. You're looking well."
+77435,302,223,946000,Lisa Simpson,Bart's Loft,"Wow, this place is great. That couch looks really pricey."
+77436,302,224,951000,Bart Simpson,Bart's Loft,"Well, you need an expensive couch to watch an expensive TV."
+77437,302,225,954000,Homer Simpson,Bart's Loft,"Of course, because you wouldn't want to... I paid for your splendor, you...!"
+77438,302,226,962000,Bart Simpson,Bart's Loft,"...And for every syringe I find, I get a dollar."
+77439,302,227,965000,Marge Simpson,Bart's Loft,"Well, that's great, honey."
+77441,302,228,968000,Homer Simpson,Bart's Loft,"You know son, I've been doing a lot of thinking. I was wrong to exploit you, and I won't do it again."
+77442,302,229,973000,Bart Simpson,Bart's Loft,"Thanks Dad, that means a lot to me."
+77443,302,230,976000,Homer Simpson,Bart's Loft,"So, do you think you might see your way clear to moving back in with your maw and me?"
+77444,302,231,982000,Bart Simpson,Bart's Loft,"Sorry, no can do. I'm taking off for six months to join the Skewed Tour."
+77445,302,232,986000,Lisa Simpson,Bart's Loft,"Skewed Tour? The traveling festival of rock 'n' roll, skateboarding and extreme sports?"
+77446,302,233,991000,Bart Simpson,Bart's Loft,And nipple piercing.
+77448,302,235,993000,Bart Simpson,Bart's Loft,"Don't worry, they're clip-ons."
+77450,302,237,998000,Martin Prince,SKEWED TOUR,"Behold, the delightful unicorn I got at the face-painting pavilion."
+77451,302,238,1002000,Jimbo Jones,SKEWED TOUR,"Dude, that was a tattoo parlor."
+77453,302,240,1007000,DOLPH,SKEWED TOUR,He's suffered enough.
+77454,302,241,1009000,Kearney Zzyzwicz,SKEWED TOUR,"Yeah, but on the other hand..."
+77455,302,242,1013000,Event Announcer,SKEWED TOUR,"Just a reminder: If you're getting bogus returns on your investments...contact Goldman Sachs, the skewwwed financial planners. Up next on the half-pipe, boarding legend Tony Hawk."
+77456,302,243,1032000,Homer Simpson,SKEWED TOUR,"Psst, Mr. Hawk. May I have a word with you?"
+77457,302,244,1035000,Tony Hawk,SKEWED TOUR,An extreme word?
+77458,302,245,1035000,Homer Simpson,SKEWED TOUR,Sure. My son is Bart Simpson and...
+77459,302,246,1039000,Tony Hawk,SKEWED TOUR,I didn't say extreme to the max.
+77460,302,247,1039000,Homer Simpson,SKEWED TOUR,Sorry. I just wanna win my son back so badly.
+77461,302,248,1044000,Tony Hawk,SKEWED TOUR,I can relate. I'm a father myself. One day they're little shredders. And the next day they're grinding and gnashing their way to college.
+77462,302,249,1051000,Homer Simpson,SKEWED TOUR,"Yeah, I make up words too. Anyway, I was wondering if you could pretend to lose to me in a skateboarding contest so I can be a hero to my boy again."
+77463,302,250,1059000,Tony Hawk,SKEWED TOUR,"I'll lose millions in endorsements, but, okay."
+77464,302,251,1062000,Tony Hawk,SKEWED TOUR,This board represents the ultimate in poser technology. It gives people the illusion they have talent.
+77465,302,252,1068000,Homer Simpson,SKEWED TOUR,Groovy.
+77466,302,253,1069000,Tony Hawk,SKEWED TOUR,Just lock your feet in and the board does all the work.
+77467,302,254,1072000,Homer Simpson,SKEWED TOUR,All the work?
+77468,302,255,1074000,Tony Hawk,SKEWED TOUR,"Fine. I'll lift you onto the board, too."
+77440,302,256,1080000,Homer Simpson,SKEWED TOUR,Do it without the attitude or don't do it at all.
+77470,302,258,1083000,Event Announcer,HALF-PIPE,Now the portion of our event where champion Tony Hawk may be challenged by any unknown member of the audience.
+77471,302,259,1090000,Homer Simpson,HALF-PIPE,"I'm challenging you, Hawk. In front of all these outcasts and dreamers, who can't even get into the army, if you can believe it."
+77472,302,260,1097000,Bart Simpson,HALF-PIPE,"Dad, how drunk are you?"
+77473,302,261,1099000,Homer Simpson,HALF-PIPE,Not very!
+77474,302,262,1101000,Tony Hawk,HALF-PIPE,"You're going down, Homer. Then back up. Then down and back up again. That's how the game is played."
+77475,302,263,1106000,Marge Simpson,HALF-PIPE,I can't count how many times your father's done something crazy like this.
+77476,302,264,1111000,Lisa Simpson,HALF-PIPE,"It's three hundred, Mom."
+77477,302,265,1114000,Marge Simpson,HALF-PIPE,I could have sworn it was three hundred and two.
+77478,302,266,1116000,Lisa Simpson,HALF-PIPE,Shhh.
+77479,302,267,1125000,Homer Simpson,HALF-PIPE,Now to win back my son in comfort and style.
+77480,302,268,1140000,Homer Simpson,HALF-PIPE,"You know, I could save money by buying separate nuts and mixing them at home."
+77482,302,270,1152000,Tony Hawk,HALF-PIPE,"Man, I wanted him to look good. But not to show me up. It's time to take out the thrash."
+77485,302,273,1180000,Homer Simpson,HALF-PIPE,"Woo hoo! I rule this pseudo sport! Come back to me, boy!"
+77486,302,274,1185000,Bart Simpson,HALF-PIPE,"Dad, you don't understand. This was never about being cool. It was about you not caring how I felt."
+77487,302,275,1191000,Homer Simpson,HALF-PIPE,"Aw, that's the dumbest thing I ever heard, you stupid little kid."
+77488,302,276,1195000,Tony Hawk,HALF-PIPE,"Homer, you're heading for a parental face plant. Do a 180 emotional ollie."
+77490,302,278,1201000,Homer Simpson,HALF-PIPE,"Finally, someone explains it to me in words I can understand. Look, boy. I know I did wrong and I am truly sorry."
+77491,302,279,1210000,Homer Simpson,HALF-PIPE,"I put you in humiliating commercials for money, which I spent on myself. I just wish I had an opportunity to make things right."
+77492,302,280,1218000,Lindsay Naegle,HALF-PIPE,"Mr. Simpson, I like the way you handled yourself on that board. Would you like to do a commercial for us?"
+77493,302,281,1224000,Homer Simpson,HALF-PIPE,Anything... as long as I can give the money to my son.
+77494,302,282,1228000,Lindsay Naegle,HALF-PIPE,"Excellent. I represent Viagrogaine, the topical rub for bald, impotent men."
+77495,302,283,1233000,Homer Simpson,HALF-PIPE,Well... I am bald and important. Where do I sign?
+77496,302,284,1238000,Commercial Actress,HALF-PIPE,"Oh, Steve. You're everything a girl could want. What's your secret?"
+77497,302,285,1243000,Homer Simpson,HALF-PIPE,"Well, Kathy, I'll tell you. It's Viagrogaine. It gives you lots of hair and what you need down there. What are you waiting for, loser?"
+77498,302,286,1251000,Announcer,HALF-PIPE,Possible side effects include loss of scalp and penis.
+77500,302,288,1254000,Homer Simpson,Simpson Home,What did they say about my scalp?
+77501,302,289,1255000,Bart Simpson,Simpson Home,"Don't worry, Dad, it's just a commercial. No one will remember this in fifty years."
+77503,302,291,1262000,60-Year-Old Nelson,Springfield Cemetery,Haw haw.

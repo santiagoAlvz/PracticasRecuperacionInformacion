@@ -1,0 +1,277 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+157467,30,1,86000,Homer Simpson,Springfield Retirement Castle,"Dad, the next time we see you we'll do something more fun."
+157469,30,2,90000,Grampa Simpson,Springfield Retirement Castle,"Oh, what could be more fun than today's trip to the liquor store. Thanks for the beef jerky."
+157470,30,3,97000,Marge Simpson,Springfield Retirement Castle,"Say goodbye to Grampa, everyone."
+157471,30,4,98000,Bart Simpson,Springfield Retirement Castle,'Bye.
+157472,30,5,98000,Grampa Simpson,Springfield Retirement Castle,Goodb--
+157474,30,7,102000,Bart Simpson,Simpson Car,"You know, Grampa kinda smells like that trunk in the garage where the bottom's all wet."
+157475,30,8,105000,Lisa Simpson,Simpson Car,"Huh uh, he smells more like a photo lab."
+157476,30,9,107000,Homer Simpson,Simpson Car,"Stop it, both of you. Grampa smells like a regular old man, which is more like a hallway in a hospital."
+157477,30,10,114000,Marge Simpson,Simpson Car,"Homer, that's terrible. We should be teaching the children to treasure the elderly. You know, we'll be old someday."
+157478,30,11,121000,Homer Simpson,Simpson Car,"My God, you're right, Marge. You kids wouldn't put me in a home like I did to my dad, would you?"
+157479,30,12,125000,Bart Simpson,Simpson Car,Well...
+157480,30,13,127000,Homer Simpson,Simpson Car,"Marge, what do we do?"
+157481,30,14,129000,Marge Simpson,Simpson Car,"Well, I think we better set an example."
+157482,30,15,131000,Homer Simpson,Simpson Car,"Absolutely. Our third Sunday of every month should be a pleasure, not a chore. Where's some place fun we can take Grampa next time?"
+157483,30,16,139000,Lisa Simpson,Simpson Car,To the pony rides.
+157484,30,17,140000,Homer Simpson,Simpson Car,No.
+157485,30,18,140000,Lisa Simpson,Simpson Car,Yes!
+157486,30,19,140000,Bart Simpson,Simpson Car,Bo-ring.
+157487,30,20,140000,Homer Simpson,Simpson Car,He can't ride ponies.
+157488,30,21,143000,Marge Simpson,Simpson Car,"Well, I always enjoy the glass blower at Old Springfield Towne."
+157489,30,22,143000,Homer Simpson,Simpson Car,"Oh, we saw that."
+157490,30,23,149000,Bart Simpson,Simpson Car,The Museum of Barnyard Oddities.
+157491,30,24,151000,Homer Simpson,Simpson Car,"No, Bart. No!"
+157492,30,25,152000,Lisa Simpson,Simpson Car,That's gross.
+157493,30,26,153000,Homer Simpson,Simpson Car,I got it. The Springfield Mystery Spot.
+157494,30,27,156000,Lisa Simpson,Simpson Car,"Dad, it's just a dumb mud puddle."
+157495,30,28,160000,Lisa Simpson,Simpson Car,Discount Lion Safari!
+157497,30,30,175000,Grampa Simpson,Springfield Retirement Castle,Like I'm going to wreck 600 dollars worth of teeth on forty cents worth of old beef.
+157498,30,31,175000,Grampa Simpson,Springfield Retirement Castle,"Hey, these aren't my pills."
+157499,30,32,177000,Nurse,Springfield Retirement Castle,"Now, now, Mr. Simmons. Don't make me call Nurse Bronski."
+157500,30,33,180000,Grampa Simpson,Springfield Retirement Castle,"It's Simpson, dammit, and these aren't my pills."
+157502,30,34,184000,BEA,Springfield Retirement Castle,"Excuse me, Nurse. My name is Simmons and I think I have the wrong pills."
+157503,30,35,189000,Grampa Simpson,Springfield Retirement Castle,"I get two red ones for my back spasms, a yellow one for my arrythmia, and two of the blue... ... est eyes I've ever seen in my life."
+157504,30,36,198000,BEA,Springfield Retirement Castle,"Then, these must be..."
+157505,30,37,200000,Grampa Simpson,Springfield Retirement Castle,And I have your...
+157506,30,38,201000,Grampa Simpson,Springfield Retirement Castle,They must have...
+157507,30,39,215000,Grampa Simpson,Springfield Retirement Castle,Look at us. We're starin' at each other like a couple of stupid punk teenagers.
+157508,30,40,221000,BEA,Springfield Retirement Castle,"I wasn't staring; it's my lazy eye. I'm Beatrice Simmons, but my friends call me Bea."
+157509,30,41,228000,Grampa Simpson,Springfield Retirement Castle,We'll I'm Abraham J. Simpson. Care to tip the wrist with me?
+157510,30,42,233000,BEA,Springfield Retirement Castle,I would be delighted.
+157511,30,43,235000,BEA,Springfield Retirement Castle,"So, tell me about yourself."
+157512,30,44,241000,Grampa Simpson,Springfield Retirement Castle,"Eh, widower, one son, one working kidney. And you?"
+157513,30,45,244000,BEA,Springfield Retirement Castle,"Widowed, bad hip and liver disorder."
+157514,30,46,247000,Grampa Simpson,Springfield Retirement Castle,You left something out. Ravishing!
+157515,30,47,270000,Grampa Simpson,Springfield Retirement Castle,"And, what are you eh, doing tonight?"
+157516,30,48,274000,BEA,Springfield Retirement Castle,Sitting alone in my room.
+157517,30,49,276000,Grampa Simpson,Springfield Retirement Castle,"Oh. Well, if you've got plans already..."
+157518,30,50,278000,BEA,Springfield Retirement Castle,"No, what were you going to say?"
+157519,30,51,280000,Grampa Simpson,Springfield Retirement Castle,"Ah, nothin'."
+157520,30,52,281000,BEA,Springfield Retirement Castle,"Oh, Abe, you were going to say something."
+157521,30,53,284000,Grampa Simpson,Springfield Retirement Castle,"Well, I was wondering if you and I, you know, might go to the same place at the same time and ... Geez, you'd think this would get easier with time."
+157522,30,54,293000,BEA,Springfield Retirement Castle,I'd love to.
+157523,30,55,301000,Grampa Simpson,Springfield Retirement Castle,"Okay, now, where's that pomade?"
+157524,30,56,305000,Grampa Simpson,Springfield Retirement Castle,"Ah, damn, out of pomade. Oh, well."
+157525,30,57,318000,Grampa Simpson,Springfield Retirement Castle,"Ooh, hello, young lady, is your grandmother home?"
+157526,30,58,323000,BEA,Springfield Retirement Castle,"Oh, oh, oh, Abe. I can tell I better keep my good eye on you."
+157527,30,59,328000,Grampa Simpson,Springfield Retirement Castle,Damn straight.
+157529,30,61,333000,BEA,SPRINGFIELD STARDUST BALLROOM,"EMBRACE ME, MY SWEET EMBRACEABLE YOU."
+157530,30,62,340000,Grampa Simpson,SPRINGFIELD STARDUST BALLROOM,"Embrace me, you irreplaceable you."
+157531,30,63,347000,BEA,SPRINGFIELD STARDUST BALLROOM,DON'T BE A NAUGHTY BABY...
+157468,30,64,351000,Grampa Simpson,SPRINGFIELD STARDUST BALLROOM,"COME TO PAPA, COME TO PAPA, DO..."
+157533,30,65,357000,Grampa Simpson,SPRINGFIELD STARDUST BALLROOM,MY SWEET EMBRACEABLE YOU.
+157538,30,70,368000,Grampa Simpson,Springfield Retirement Castle,MY SWEET EMBRACEABLE YOU.
+157539,30,71,368000,Grampa Simpson,Springfield Retirement Castle,"Herman, a very special lady is having a birthday tomorrow."
+157540,30,72,371000,Herman Hermann,Springfield Retirement Castle,"Ah, the Battleship New Jersey."
+157541,30,73,374000,Grampa Simpson,Springfield Retirement Castle,"No, you idiot. My girlfriend Bea. And since this is the only store I know --"
+157542,30,74,379000,Herman Hermann,Springfield Retirement Castle,"Ah, Grampa, nothing says ""I love you"" better than a military antique."
+157543,30,75,383000,Herman Hermann,Springfield Retirement Castle,Let's take a look at the bayonet case. Huh?
+157544,30,76,385000,Grampa Simpson,Springfield Retirement Castle,"Hey, what's that?"
+157545,30,77,387000,Herman Hermann,Springfield Retirement Castle,"That, my friend, was Napoleon's hat."
+157546,30,78,389000,Grampa Simpson,Springfield Retirement Castle,It doesn't look like Napoleon's hat.
+157547,30,79,392000,Herman Hermann,Springfield Retirement Castle,"Well, it's not the famous hat. It's the one he wore for a week in April, 1796, just before he defeated the Sardinians."
+157548,30,80,398000,Grampa Simpson,Springfield Retirement Castle,Ooh. How much?
+157549,30,81,399000,Herman Hermann,Springfield Retirement Castle,Four hundred dollars.
+157550,30,82,401000,Grampa Simpson,Springfield Retirement Castle,I'll give you five bucks.
+157551,30,83,402000,Herman Hermann,Springfield Retirement Castle,That's not the kind of offer you should make to a man with a Gattling gun under the counter. Why don't you try Grandma's World.
+157553,30,85,408000,Checker,Grandma's World,"Yo, active wear... I need a price check on a wool shawl."
+157555,30,87,414000,Homer Simpson,Grampa's Room at Springfield Retirement Castle,Dad! It's the third Sunday of the month. You know what that means.
+157556,30,88,418000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,Go away.
+157557,30,89,419000,Homer Simpson,Grampa's Room at Springfield Retirement Castle,"Oh, come on, Dad, I promise we'll have more fun this time. We're gonna see lions."
+157558,30,90,424000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,I can't go. It's my girlfriend Bea's birthday.
+157559,30,91,427000,Homer Simpson,Grampa's Room at Springfield Retirement Castle,"Oh, you have a girlfriend. Heh, heh, heh."
+157560,30,92,431000,Homer Simpson,Grampa's Room at Springfield Retirement Castle,"Well, Happy Birthday, Bea. She can come with us. Hey, there's room for all your friends in the car."
+157561,30,93,440000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,"No, she's not invisible, you idiot. See, it's her birthday tonight."
+157562,30,94,444000,Homer Simpson,Grampa's Room at Springfield Retirement Castle,"Yeah, right."
+157563,30,96,445000,Homer Simpson,Car,"Hey you kids, stop kicking the seat!"
+157564,30,97,447000,Grampa Simpson,Car,I'm kicking the seat!
+157565,30,98,449000,Marge Simpson,Car,"Dad, don't you want to know where we're going?"
+157566,30,99,451000,Grampa Simpson,Car,No.
+157567,30,100,452000,Lisa Simpson,Car,Discount Lion Safari!
+157568,30,101,454000,Grampa Simpson,Car,Damn these childproof doors.
+157570,30,103,461000,Marge Simpson,Discount Lion Safari,Hello.
+157571,30,104,462000,Guard,Discount Lion Safari,That'll be eighteen fifty.
+157573,30,106,464000,Lisa Simpson,Simpson Car,Do not feed animals. Do not allow animals in the car. Do not make eye contact with animals.
+157574,30,107,464000,Grampa Simpson,Simpson Car,Are we in Africa yet?
+157577,30,110,473000,Bart Simpson,Simpson Car,"Hey, didn't anybody notice this place sucks?"
+157578,30,111,475000,Lisa Simpson,Simpson Car,It seems that most of the animals are sleeping.
+157579,30,112,477000,Homer Simpson,Simpson Car,"Well, let 'em sleep on their own time!"
+157580,30,113,485000,Marge Simpson,Simpson Car,"Homer, are you sure this is the right way? The road seems to have gotten awfully bumpy."
+157582,30,115,494000,Grampa Simpson,Simpson Car,What a wing ding. This is much better than my girlfriend's birthday party.
+157583,30,116,499000,Marge Simpson,Simpson Car,Homer?
+157584,30,117,499000,Homer Simpson,Simpson Car,"Bart, get out and push."
+157585,30,118,501000,Lisa Simpson,Simpson Car,"Yeah, Bart, get out and push."
+157586,30,119,503000,Bart Simpson,Simpson Car,"No way, José."
+157587,30,120,504000,Grampa Simpson,Simpson Car,"Okay, we've seen a lion. Can we go now?"
+157589,30,122,522000,Grampa Simpson,Discount Lion Safari,"Oh, Beeeeeaaa!"
+157590,30,123,533000,Tracker,Discount Lion Safari,"Mr. Simpson, I presume."
+157592,30,125,538000,Grampa Simpson,Springfield Retirement Castle,"Out of my way, I gotta date with an angel."
+157593,30,126,542000,Jasper Beardly,Springfield Retirement Castle,"You don't know how right you are, Abe."
+157594,30,127,544000,Grampa Simpson,Springfield Retirement Castle,What?
+157595,30,128,546000,Jasper Beardly,Springfield Retirement Castle,"I'm sorry to be the one to tell you this, but Bea passed away last night."
+157596,30,129,551000,Grampa Simpson,Springfield Retirement Castle,"Ohhhhh, noooo."
+157597,30,130,552000,Jasper Beardly,Springfield Retirement Castle,It was her ticker. The Doc said her left ventricle burst.
+157598,30,131,556000,Grampa Simpson,Springfield Retirement Castle,"Ohhh. No, Jasper. They may say she died of a burst ventricle, but I know she died of a broken heart."
+157600,30,133,574000,Grampa Simpson,Cemetery,I can tell she really cared for me. She didn't make me a pall bearer.
+157601,30,134,581000,Homer Simpson,Cemetery,"I can't tell you how sorry I am, Dad."
+157602,30,135,584000,Grampa Simpson,Cemetery,Is someone talking to me? I didn't hear anything.
+157603,30,136,588000,Homer Simpson,Cemetery,Oh no! Dad's lost his hearing.
+157604,30,137,591000,Grampa Simpson,Cemetery,"No, you idiot. I'm ignoring you. You made me miss the last precious moments of Bea's life. I'll never speak to you again."
+157605,30,138,600000,Grampa Simpson,Cemetery,I have no son!!!
+157607,30,140,608000,Grampa Simpson,Springfield Retirement Castle,"Oh, Bea."
+157608,30,141,616000,Lionel Hutz,Springfield Retirement Castle,"It was a beautiful service, wasn't it, Mr. Simpson?"
+157609,30,142,620000,Grampa Simpson,Springfield Retirement Castle,Who the hell are you?
+157610,30,143,622000,Lionel Hutz,Springfield Retirement Castle,"Lionel Hutz, attorney-at-law. I'm the executor of Beatrice Simmons' estate. Mr. Simpson, Bea was a wealthy woman and, surprise, surprise, she left everything to you."
+157611,30,144,632000,Grampa Simpson,Springfield Retirement Castle,Really?
+157612,30,145,633000,Lionel Hutz,Springfield Retirement Castle,There is one catch: You must spend one night in... a haunted house.
+157613,30,146,639000,Lionel Hutz,Springfield Retirement Castle,"Just kidding. Just kidding. Here's a check for one hundred and six thousand dollars, ""to enjoy as you see fit."" Ah, I'm touched."
+157614,30,147,648000,Grampa Simpson,Springfield Retirement Castle,A hundred and six thousand dollars?
+157615,30,148,650000,Lionel Hutz,Springfield Retirement Castle,"Ta-ta, Mr. Simpson. By the way, old timer, I do wills. Why don't I just give you this pen with my phone number on it. It looks just like a cigar! Isn't that something!"
+157616,30,149,660000,Homer Simpson,Springfield Retirement Castle,Yell-o.
+157617,30,150,661000,Grampa Simpson,Springfield Retirement Castle,"Hello, Homer?"
+157618,30,151,663000,Homer Simpson,Springfield Retirement Castle,Whoo-hoo. It's Dad. Dad's on the phone. He's calling me.
+157619,30,152,666000,Homer Simpson,Springfield Retirement Castle,"Oh Dad. Oh, I knew you'd forgive me."
+157620,30,153,669000,Grampa Simpson,Springfield Retirement Castle,"I haven't forgiven you. I just inherited a hundred and six thousand dollars and I just had to tell you that you're not getting one thin dime. Heh, heh."
+157622,30,155,682000,Mr. Hazelwood,Springfield Retirement Castle,Mr. Simpson?
+157623,30,156,683000,Grampa Simpson,Springfield Retirement Castle,What is it?
+157624,30,157,684000,Mr. Hazelwood,Springfield Retirement Castle,"I couldn't help overhearing about your new-found fortune, and uh let me assure you that here at the Springfield Retirement Castle, money does make a difference."
+157625,30,158,693000,Grampa Simpson,Springfield Retirement Castle,Huh?
+157627,30,159,693000,Mr. Hazelwood,Springfield Retirement Castle,"I mean, there are rub-downs and then there are rub-downs."
+157628,30,160,698000,Grampa Simpson,Springfield Retirement Castle,"Listen, you bloodsucker. Has it ever occurred to you that old folks deserve to be treated like human beings whether they have money or not?"
+157629,30,161,707000,Mr. Hazelwood,Springfield Retirement Castle,"Yes, but it passes."
+157630,30,162,708000,Grampa Simpson,Springfield Retirement Castle,You...oh you lousy son of a...
+157632,30,164,711000,Grampa Simpson,Herman's Military Antiques,I'll take it.
+157633,30,165,714000,Herman Hermann,Herman's Military Antiques,"Hey, big spender. Why the change of heart?"
+157634,30,166,716000,Grampa Simpson,Herman's Military Antiques,"Bea told me to enjoy my moola and I'm going to, dagnabit!"
+157636,30,168,727000,Cabbie,Taxi,So where to Pappy?
+157637,30,169,729000,Grampa Simpson,Taxi,Take me someplace fun.
+157638,30,170,730000,Cabbie,Taxi,You're the boss. Next stop funsville!
+157640,30,172,736000,Grampa Simpson,Club Mud,Eh.
+157642,30,174,740000,Grampa Simpson,Lake,Eh.
+157644,30,176,745000,Grampa Simpson,Amusement Park,Eh.
+157645,30,177,750000,Grampa Simpson,Amusement Park,I miss Bea.
+157646,30,178,752000,BEA,Amusement Park,"I miss you, too."
+157647,30,179,756000,BEA,Amusement Park,"Oh Abraham, calm down. I'm not here to scare you. They've got me haunting a family in Texas."
+157648,30,180,762000,Grampa Simpson,Amusement Park,"Oh, I'm glad you're keepin' busy."
+157649,30,181,765000,BEA,Amusement Park,"Now, listen Abe. I want to know why my money isn't bringing you happiness."
+157650,30,182,769000,Grampa Simpson,Amusement Park,"Oh, Bea, I'm not cut out for the high life."
+157651,30,183,773000,BEA,Amusement Park,"Abraham. If you're not happy with the money, why don't you spread it around? Make other people as happy as you made me."
+157652,30,184,781000,Grampa Simpson,Amusement Park,"Oh, thanks Bea, I will."
+157653,30,185,783000,BEA,Amusement Park,And go see your son -- he misses you.
+157654,30,186,786000,Grampa Simpson,Amusement Park,"Aw, I miss him, too, the big fat dickens. Hey, Bea, I've got to ask you, what was death like?"
+157655,30,187,795000,BEA,Amusement Park,Not as scary as this!
+157658,30,190,799000,Homer Simpson,Simpson Home,I miss my Daddy.
+157659,30,191,803000,Marge Simpson,Simpson Home,"Homer, this thing with your Dad has had you moping around the house for days. I think it's time for you to talk to someone who understands."
+157663,30,192,811000,Dr. Marvin Monroe,Simpson Home,"Hi ya, you have reached Dr. Marvin Monroe's Anxiety Line. If you have a sullen teenager, press one, now. If you're estranged from your spouse, press two, now. If you have trouble maintaining an..."
+157664,30,193,823000,Bart Simpson,Simpson Home,Grampa!
+157665,30,194,824000,Homer Simpson,Simpson Home,Huh?
+157666,30,195,825000,Homer Simpson,Simpson Home,Dad!
+157667,30,196,826000,Grampa Simpson,Simpson Home,Sonny boy!
+157668,30,197,829000,Grampa Simpson,Simpson Home,Is there room at your table for a foolish old man?
+157669,30,198,832000,Homer Simpson,Simpson Home,"Well... sure. We'll have to move a chair in from the den, but it's no problem. Bart!"
+157670,30,199,839000,Bart Simpson,Simpson Home,Choose your corncob! En garde!
+157671,30,200,842000,Lisa Simpson,Simpson Home,Challenge accepted!
+157672,30,201,843000,Grampa Simpson,Simpson Home,All my precious sacks of gold...
+157674,30,203,847000,Grampa Simpson,Simpson Home,...couldn't buy me the pleasures of a simple family meal.
+157675,30,204,850000,Homer Simpson,Simpson Home,"Pass the bug juice, Dad."
+157676,30,205,851000,Grampa Simpson,Simpson Home,"Wait your turn, you pig. I have an announcement to make. I have decided to give Bea's money away. There are people who really need it. I'm gonna let them come to me and plead their case, and then I'll decide who needs it most."
+157677,30,206,867000,Lisa Simpson,Simpson Home,"Grampa, that's the noblest thought that's ever been expressed at this table."
+157678,30,207,870000,Bart Simpson,Simpson Home,"Give it to us, Grampa."
+157679,30,208,871000,Homer Simpson,Simpson Home,"Bart! Forgive him, Dad. He's just a stupid little kid who says the first thing that pops into his head. But, you know, there's wisdom in his innocence."
+157680,30,209,880000,Grampa Simpson,Simpson Home,You don't want it.
+157681,30,210,881000,Homer Simpson,Simpson Home,"Yes, I do."
+157682,30,211,882000,Grampa Simpson,Simpson Home,Too bad. You ain't getting it.
+157684,30,213,887000,KENT,Springfield Retirement Castle,"Not since this reporter's marriage to Stephanie, the weather lady, has this town been so consumed with rumor and innuendo. All because of this man."
+157685,30,214,895000,KENT,Springfield Retirement Castle,"Today, one Abraham ""Grampa"" Simpson announced that he will give away over a hundred thousand dollars to the person - or persons - he finds most deserving."
+157686,30,215,905000,KENT,Springfield Retirement Castle,"Is Grampa Simpson a modern day saint, a rich nut, or both? Only time will tell."
+157687,30,216,911000,KENT,Springfield Retirement Castle,This is Kent Brockman on line for an old man's money.
+157691,30,217,914000,Otto Mann,Springfield Retirement Castle,"Now you see, Gramps, I want to customize the bus. Y'know, chop the top, jack it up, put mag wheels on it, psychedelic paint job, from hell, man. Jam the kids to school at 150 miles an hour. Here's an artist's rendering. Note the cobra wrapped around the naked chick..."
+157692,30,218,932000,Grampa Simpson,Springfield Retirement Castle,Next!
+157693,30,219,935000,C. Montgomery Burns,Springfield Retirement Castle,"Grampa -- I can call you Grampa, can't I?"
+157694,30,220,938000,Grampa Simpson,Springfield Retirement Castle,"Yeah, yeah... go ahead."
+157695,30,221,939000,C. Montgomery Burns,Springfield Retirement Castle,"I need that money. Please, please..."
+157696,30,222,942000,Grampa Simpson,Springfield Retirement Castle,Wait... wait a minute... wait. You're the guy who owns the nuclear power plant.
+157697,30,223,947000,C. Montgomery Burns,Springfield Retirement Castle,"Well, the ownership is divided."
+157698,30,224,948000,Grampa Simpson,Springfield Retirement Castle,What the hell do you think you're doing?
+157699,30,225,949000,C. Montgomery Burns,Springfield Retirement Castle,"Mr. Simpson, I dread the day when a hundred thousand dollars isn't worth groveling for."
+157700,30,226,954000,Grampa Simpson,Springfield Retirement Castle,Get outta here.
+157701,30,227,956000,C. Montgomery Burns,Springfield Retirement Castle,"You just made yourself a very powerful enemy, old man."
+157702,30,228,960000,Moe Szyslak,Springfield Retirement Castle,"Here's the deal, Grampa. A guy, I think was an explorer, left this in the bar one night. It may be a map to ancient treasure, or directions to some guy's house, but to find out, we'll need money, we'll need provisions, and a two man diving bell."
+157703,30,229,976000,Grampa Simpson,Springfield Retirement Castle,"It's pretty stupid, but so far you're the front runner."
+157705,30,231,980000,MONROE,Springfield Retirement Castle,It's a special isolation chamber. The subject pulls levers to receive food and warmth. The floor can become electrified and showers of icy water randomly fall on the subject. I call it the Monroe Box.
+157706,30,232,991000,Grampa Simpson,Springfield Retirement Castle,"Huh, uh. Well, it sounds interesting."
+157707,30,233,991000,MONROE,Springfield Retirement Castle,Huh uh.
+157708,30,234,996000,Grampa Simpson,Springfield Retirement Castle,How much will it cost to build?
+157709,30,235,998000,MONROE,Springfield Retirement Castle,"Oh, that's the beauty part, it's already built. I need the money to buy a baby to raise in the box until the age of thirty."
+157710,30,236,1004000,Grampa Simpson,Springfield Retirement Castle,What are you trying to prove?
+157711,30,237,1005000,MONROE,Springfield Retirement Castle,Well my theory is that the subject will be socially maladjusted and will harbor a deep resentment towards me.
+157712,30,238,1011000,Grampa Simpson,Springfield Retirement Castle,"Hm, interesting."
+157713,30,239,1013000,Bart Simpson,Springfield Retirement Castle,"Let's see, I want a teargas can, a blue gun with paralyzer darts..."
+157532,30,240,1017000,Grampa Simpson,Springfield Retirement Castle,Oh no.
+157660,30,241,1018000,Bart Simpson,Springfield Retirement Castle,Nunchucks.
+157661,30,242,1019000,Grampa Simpson,Springfield Retirement Castle,Nunchucks?
+157688,30,243,1019000,Bart Simpson,Springfield Retirement Castle,Yeah.
+157689,30,244,1020000,Grampa Simpson,Springfield Retirement Castle,I don't know.
+157714,30,245,1021000,Bart Simpson,Springfield Retirement Castle,A copy of Radioactive Man number 27. That's the first time he fights Dr. Crab. Then I wanna buy that baseball card where the guy is flippin' the bird.
+157715,30,246,1029000,Grampa Simpson,Springfield Retirement Castle,"Oh yeah, I've seen that one."
+157716,30,247,1030000,Bart Simpson,Springfield Retirement Castle,Oh and the
+157717,30,248,1031000,Grampa Simpson,Springfield Retirement Castle,What the hell is that?
+157718,30,249,1034000,Professor Jonathan Frink,Springfield Retirement Castle,"Why, it's a death ray, my good man. Behold!"
+157719,30,250,1037000,Grampa Simpson,Springfield Retirement Castle,"Hey, feels warm. Kinda nice."
+157720,30,251,1041000,Professor Jonathan Frink,Springfield Retirement Castle,"Well, it's just the prototype. With proper funding, I'm confident this little baby could destroy an area the size of New York City."
+157721,30,252,1047000,Grampa Simpson,Springfield Retirement Castle,"But I want to help people, not kill 'em."
+157722,30,253,1050000,Professor Jonathan Frink,Springfield Retirement Castle,"Oh. To be honest, the ray only has evil applications."
+157723,30,254,1054000,Professor Jonathan Frink,Springfield Retirement Castle,"You know, my wife will be happy. She's hated this whole death ray thing from day one."
+157724,30,255,1059000,Grampa Simpson,Springfield Retirement Castle,Oh Lisa. What makes you think you deserve all that money?
+157725,30,256,1065000,Lisa Simpson,Springfield Retirement Castle,"I don't deserve it, Grampa. No one here does. The people who deserve it are on the streets and they're in the slums. They're little children who need more library books and families who can't make ends meet. Of course, if you really wanted to, you could buy me a pony."
+157726,30,257,1080000,Grampa Simpson,Springfield Retirement Castle,You're right.
+157727,30,258,1081000,Lisa Simpson,Springfield Retirement Castle,I'll name her Princess and I'll ride her every day.
+157728,30,259,1085000,Grampa Simpson,Springfield Retirement Castle,"No, you're right about all the poor souls who need a helping hand. I need to take a walk to clear my head."
+157729,30,260,1094000,Grampa Simpson,Springfield Retirement Castle,"Oh, I'm exhausted."
+157730,30,261,1105000,Jasper Beardly,Springfield Retirement Castle,"Oh, poor baby. Been lifting your wallet?"
+157731,30,262,1108000,Grampa Simpson,Springfield Retirement Castle,"No, I'll have you know, I've decided to give my money away to truly needy causes. But a hundred thousand dollars just isn't enough. I need more."
+157732,30,263,1119000,Jasper Beardly,Springfield Retirement Castle,"Well, why don't you go on the seniors gambling junket? I bet you could double your money or even triple it."
+157733,30,264,1125000,Grampa Simpson,Springfield Retirement Castle,"Well, it's tempting."
+157734,30,265,1126000,Jasper Beardly,Springfield Retirement Castle,"Plus, they've got a ninety-nine cent shrimp cocktail."
+157735,30,266,1128000,Grampa Simpson,Springfield Retirement Castle,You've sold me.
+157737,30,268,1131000,Old Man Daly,Bus,Slow down. Are you trying to get us killed?
+157738,30,269,1135000,Old Man McGrath,Bus,"It's too hot, you maniac. Turn on the air, already."
+157739,30,270,1137000,Otto Mann,Bus,"Hey, mellow out old dudes, or I'll jam this baby into a river."
+157741,30,272,1146000,Homer Simpson,Springfield Retirement Castle,"Miss, I'm looking for Abe Simpson."
+157742,30,273,1148000,Receptionist,Springfield Retirement Castle,Huh uh.
+157743,30,274,1148000,Homer Simpson,Springfield Retirement Castle,It's important I get a hold of him. I have to tell him I don't care about his money and I love him.
+157744,30,275,1153000,Receptionist,Springfield Retirement Castle,We get that a lot.
+157745,30,276,1155000,Receptionist,Springfield Retirement Castle,He left this morning with the senior casino junket.
+157746,30,277,1157000,Homer Simpson,Springfield Retirement Castle,Casino?
+157748,30,279,1163000,Otto Mann,Highway,"C'mon, everybody."
+157750,30,281,1173000,Plato,Casino,"Hello, I am Plato. Please partake of Keno, craps and the loosest slots in town. My philosophy is ""Enjoy."""
+157751,30,282,1180000,Grampa Simpson,Casino,"Change, please."
+157753,30,284,1192000,Homer Simpson,Highway,"A double cheese burger, onion rings, large strawberry shake, and for God's sakes, hurry!"
+157755,30,286,1197000,Grampa Simpson,Casino,"Five thousand dollars on, hmmmm, hmmm, let's see...a... what century is this?"
+157756,30,287,1201000,Croupier,Casino,The twentieth.
+157757,30,288,1202000,Grampa Simpson,Casino,Great! Put it on number twenty.
+157758,30,289,1203000,Homer Simpson,Casino,"Excuse me. Excuse me, have you seen an old man with a lot of money? He looks like me, but he's wrinkled? Hello, have you seen a..."
+157759,30,290,1208000,Homer Simpson,Casino,Dad! Noooooooooo!
+157760,30,291,1214000,Croupier,Casino,"Twenty, black."
+157761,30,292,1214000,Homer Simpson,Casino,Holy Moly! You're winning!
+157762,30,293,1217000,Grampa Simpson,Casino,"Beat it, boy, you're crampin' my style."
+157763,30,294,1220000,Homer Simpson,Casino,"Dad! Please, you gotta quit while you're ahead. You understand that, take all your money and leave now."
+157764,30,295,1223000,Grampa Simpson,Casino,"Sorry, boy, I have to get enough to help everybody."
+157765,30,296,1226000,Homer Simpson,Casino,But you could lose everything. Come on.
+157766,30,297,1228000,Grampa Simpson,Casino,"Homer, I think Rudyard Kipling said it best: ""If you can make one heap of all your winnings and risk it on one turn of pitch and toss and lose, and start again at your beginnings and never breathe a word about your loss... Yours is the earth and everything that's in it. And -- which is more -- you'll be a man, my son."""
+157767,30,298,1253000,Homer Simpson,Casino,You'll be a bonehead. Come on.
+157769,30,299,1258000,Grampa Simpson,Casino,Put it all on forty-one. I've got a feeling about that number.
+157770,30,300,1262000,Croupier,Casino,"The wheel only goes to thirty-six, sir."
+157771,30,301,1263000,Grampa Simpson,Casino,"Okay, put it all on thirty-six. I've got a feeling about that number."
+157772,30,302,1267000,Homer Simpson,Casino,"Dad, no! Gimme that."
+157773,30,303,1267000,Grampa Simpson,Casino,Get your clammy paws off my money.
+157774,30,304,1270000,Homer Simpson,Casino,Gimme me that money. Ow! You're hurting me.
+157775,30,305,1273000,Grampa Simpson,Casino,"Thirty-six, no!"
+157776,30,306,1274000,Croupier,Casino,No more bets.
+157777,30,307,1276000,Grampa Simpson,Casino,"Son, if this lands on thirty-six, I'll..."
+157778,30,308,1280000,Croupier,Casino,Double zero.
+157779,30,309,1281000,Grampa Simpson,Casino,"Son, you saved me from losing all my money. For the first time in my life I'm glad I had children."
+157781,30,311,1288000,Homer Simpson,PLATO'S REPUBLIC,"So, have you figured out who gets the money?"
+157782,30,312,1300000,Grampa Simpson,PLATO'S REPUBLIC,"Yes, Homer, I have."
+157784,30,314,1316000,Grampa Simpson,Home,"Come on in. Dignity's on me, friends."

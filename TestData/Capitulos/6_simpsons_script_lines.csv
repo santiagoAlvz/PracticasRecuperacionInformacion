@@ -1,0 +1,228 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+150366,6,1,107000,Homer Simpson,Simpson Bathroom,"Lisa! Lisa, are you still in there? What's the problem? Did you fall in? Lisa!"
+150369,6,4,116000,Bart Simpson,Bathroom,"Sorry, Dad. Women and children first."
+150370,6,5,119000,Homer Simpson,Bathroom,Wha' th--
+150373,6,8,125000,Homer Simpson,KITCHEN,"Where the hell are my keys? Who stole my keys? Come on, I'm late for work."
+150374,6,9,131000,Marge Simpson,KITCHEN,"Oh, Homer, you'd lose your head if it weren't securely fastened to your neck."
+150375,6,10,134000,Bart Simpson,KITCHEN,Did you check the den?
+150376,6,11,135000,Homer Simpson,KITCHEN,The den! Great idea!
+150378,6,13,145000,Bart Simpson,DEN,"Warm... no, cold... colder... Ice cold."
+150379,6,14,149000,Homer Simpson,DEN,Do you know where my keys are?
+150380,6,15,151000,Bart Simpson,DEN,No. I'm talking about your breakfast.
+150381,6,16,154000,Bart Simpson,DEN,Did you try the rumpus room?
+150382,6,17,155000,Homer Simpson,DEN,Rumpus room. Great idea!
+150384,6,19,158000,Lisa Simpson,FOYER,"Oh, Dad..."
+150386,6,21,163000,Lisa Simpson,FOYER,Here.
+150387,6,22,164000,Marge Simpson,FOYER,"I'm sorry, everybody. But I've only got two cupcakes for the three of you."
+150388,6,23,169000,Bart Simpson,FOYER,"Well, Mom, one of us has scarfed down more than enough cupcakes over the past three decades to keep him..."
+150389,6,24,174000,Homer Simpson,FOYER,Bart!
+150390,6,25,174000,Lisa Simpson,FOYER,Just take mine. A simple cupcake will bring me no pleasure.
+150391,6,26,180000,Bart Simpson,FOYER,Oh yeah!
+150392,6,27,180000,Homer Simpson,FOYER,"All right. Hey, hey!"
+150394,6,29,183000,Dewey Largo,Music Class,"All right, class, from the top. One and two and... three and."
+150395,6,30,207000,Dewey Largo,Music Class,Lisa...
+150396,6,31,209000,Dewey Largo,Music Class,Lisa Simpson!
+150397,6,32,211000,Dewey Largo,Music Class,"Lisa, there's no room for crazy bebop in ""My Country 'Tis Of Thee."""
+150361,6,33,211000,Lisa Simpson,Music Class,"But, Mr. Largo, that's what my country's all about."
+150362,6,34,217000,Dewey Largo,Music Class,What?
+150398,6,35,218000,Lisa Simpson,Music Class,"I'm wailing out for the homeless family living out of its car. The Iowa farmer whose land has been taken away by unfeeling bureaucrats. The West Virginia coal miner, coughing up his..."
+150399,6,36,229000,Dewey Largo,Music Class,"Well, that's all fine and good, but Lisa, none of those unpleasant people are going to be at the recital next week."
+150400,6,37,234000,Dewey Largo,Music Class,"Now, class. From the top. Five, six, seven..."
+150402,6,39,248000,Lisa Simpson,LUNCHROOM,"Every day at noon a bell rings and they herd us in here for feeding time. And we sit around like cattle, chewing our cuds, dreading the inevitable..."
+150403,6,40,256000,Bart Simpson,LUNCHROOM,Food fight!
+150404,6,41,260000,JANEY,LUNCHROOM,"C'mon, Lees, what are you waiting for?"
+150405,6,42,262000,JANEY,LUNCHROOM,Chuck that spaghetti!
+150406,6,43,263000,Lisa Simpson,LUNCHROOM,I choose not to participate.
+150408,6,45,271000,Ms. Barr,EXERCISE ROOM,"Lisa, we are playing dodge ball here. The object of the game is to avoid the ball by weaving or ducking out of its path."
+150409,6,46,278000,Lisa Simpson,EXERCISE ROOM,"In other words, to dodge the ball."
+150410,6,47,281000,Ms. Barr,EXERCISE ROOM,"Listen, missy, just tell me why you weren't getting out of the way of those balls."
+150411,6,48,284000,Lisa Simpson,EXERCISE ROOM,I'm too sad.
+150412,6,49,287000,Ms. Barr,EXERCISE ROOM,"Too sad to play dodge ball? That's ridiculous. Now, let's see some enthusiasm! Play ball!"
+150414,6,51,300000,Homer Simpson,Simpson Living Room,"Come on, come on. Let's go."
+150415,6,52,306000,Bart Simpson,Simpson Living Room,"In the red trunks, with a record of forty-eight wins and no losses, the undisputed champ of this house, Battling Bart Simpson. Whoopee! Whoo! Whoo! Whoo! And in the lavender trunks, with a record of zero wins and forty-eight defeats -- oh, correction, humiliating defeats -- all of them by knockout..."
+150416,6,53,328000,Homer Simpson,Simpson Living Room,Must you do this every time?
+150417,6,54,330000,Bart Simpson,Simpson Living Room,"...Homer ""The Human Punching Bag"" Simpson. Boo! Boo! Hiss!"
+150418,6,55,338000,Bart Simpson,Simpson Living Room,"And Homer is down! Three seconds, folks -- a new record!"
+150419,6,56,342000,Homer Simpson,Simpson Living Room,"Oh, no! I'm not down, I'm -- get up, you! Get up! Come on!"
+150420,6,57,346000,Homer Simpson,Simpson Living Room,Okay. Here we go.
+150421,6,58,346000,Bart Simpson,Simpson Living Room,"Yo, chump, you back again?"
+150422,6,59,349000,Homer Simpson,Simpson Living Room,"Get out of the way! How come he's not ducking? Ugh! Wait a minute, I can't get my... Get out of the way, stupid!"
+150423,6,60,356000,Marge Simpson,Simpson Living Room,Homer?
+150363,6,61,358000,Homer Simpson,Simpson Living Room,"Not now, Marge."
+150424,6,62,359000,Homer Simpson,Simpson Living Room,Ohhh... get out of the corner!
+150425,6,63,360000,Marge Simpson,Simpson Living Room,But they sent a note from school.
+150426,6,64,362000,Homer Simpson,Simpson Living Room,"What did you do this time, you little hoodlum? Oop. Get out of the way."
+150427,6,65,365000,Bart Simpson,Simpson Living Room,I didn't do it. Nobody saw me do it. There's no way they can prove anything.
+150428,6,66,367000,Marge Simpson,Simpson Living Room,"No, Bart. This note isn't about you."
+150429,6,67,370000,Bart Simpson,Simpson Living Room,It isn't? There must be some mistake.
+150430,6,68,373000,Bart Simpson,Simpson Living Room,"Hey, you're right. This note's about Lisa."
+150431,6,69,375000,Homer Simpson,Simpson Living Room,Lisa?
+150432,6,70,396000,Homer Simpson,Simpson Living Room,"""Lisa refuses to play dodge ball because she is sad."" Well, she doesn't look sad. I don't see any tears in her eyes."
+150433,6,71,400000,Lisa Simpson,Simpson Living Room,"It's not that kind of sad. I'm sorry, Dad, but you wouldn't understand."
+150434,6,72,404000,Homer Simpson,Simpson Living Room,"Oh, sure I would, princess. I have feelings, too. You know, like ""my stomach hurts"" or ""I'm going crazy"". Why don't you climb up on Daddy's knee and tell him all about it?"
+150435,6,73,416000,Lisa Simpson,Simpson Living Room,"I'm just wondering, what's the point? Would it make any difference at all if I never existed? How can we sleep at night when there's so much suffering in the world?"
+150436,6,74,426000,Homer Simpson,Simpson Living Room,Well... eh... er...eh...
+150437,6,75,429000,Homer Simpson,Simpson Living Room,"Come on, Lisa... ride the Homer horsey. Giddiyap! Whee!"
+150438,6,76,434000,Marge Simpson,Simpson Living Room,"Lisa, honey, why don't we go upstairs and I'll draw you a nice hot bath? That helps me when I feel sad."
+150439,6,77,440000,Lisa Simpson,Simpson Living Room,"Sorry, Dad. I know you mean well."
+150440,6,78,442000,Homer Simpson,Simpson Living Room,Thanks for knowing I mean well.
+150441,6,79,444000,Bart Simpson,Simpson Living Room,"Gee, Homer. Looks like you got yourself a real problem on your hands."
+150442,6,80,447000,Homer Simpson,Simpson Living Room,"You're right. Bart, vacuum this floor!"
+150443,6,81,450000,Bart Simpson,Simpson Living Room,"Hey, man, I didn't do anything wrong."
+150444,6,82,452000,Homer Simpson,Simpson Living Room,"In times of trouble, you got to go with what you know. Now hop to it, boy!"
+150446,6,84,462000,Bart Simpson,LIVING ROOM,Stupid Homer... Thinks he's so big... Stupid Homer... Stupid Homer. I'll show him.
+150447,6,85,468000,Bart Simpson,LIVING ROOM,Enjoy your bath?
+150448,6,86,470000,Lisa Simpson,LIVING ROOM,No. Not really.
+150449,6,87,472000,Bart Simpson,LIVING ROOM,"Oh. Too bad. Well, I certainly had fun vacuuming. Maybe now I'll get the pleasure of scrubbing your tub."
+150451,6,88,478000,Lisa Simpson,LIVING ROOM,So typical of Bart. All he thinks about is himself.
+150452,6,89,481000,Bart Simpson,LIVING ROOM,"Hey, don't say stuff like that about me to Maggie. She's on my side, anyway."
+150453,6,90,486000,Lisa Simpson,LIVING ROOM,Is not.
+150454,6,91,487000,Bart Simpson,LIVING ROOM,"Is, too."
+150455,6,92,488000,Lisa Simpson,LIVING ROOM,Is not.
+150456,6,93,489000,Bart Simpson,LIVING ROOM,"Is, too."
+150457,6,94,490000,Lisa Simpson,LIVING ROOM,Is not.
+150458,6,95,490000,Bart Simpson,LIVING ROOM,"Is, too. Watch, I'll prove it. Maggie, come to the one you love best."
+150459,6,96,497000,Lisa Simpson,LIVING ROOM,"No, Maggie! Come here, girl. Come to me."
+150460,6,97,500000,Bart Simpson,LIVING ROOM,"Come on, Maggie. The choice is obvious."
+150461,6,98,502000,Lisa Simpson,LIVING ROOM,"No, Maggie, don't go for the glitter. Look for substance."
+150462,6,99,509000,Lisa Simpson,LIVING ROOM,"All right Maggie, just go to Bart."
+150463,6,100,512000,Bart Simpson,LIVING ROOM,"Exactly, come to the one you love."
+150464,6,101,523000,Homer Simpson,LIVING ROOM,"Oh, no, come on! Don't let that boy -- get out of the... Oh, no, not again! Don't. Don't. Don't. Great, get over. Oh, geeze."
+150465,6,102,541000,Bart Simpson,LIVING ROOM,"Gee, Dad, you're really bad at this."
+150466,6,103,544000,Homer Simpson,LIVING ROOM,I am not. It's just that I couldn't concentrate with that infernal racket. Lisa! Lisa!
+150468,6,105,558000,Homer Simpson,Lisa's Bedroom,"Lisa, what did I tell you about playing that saxamathing in the house?"
+150469,6,106,561000,Lisa Simpson,Lisa's Bedroom,I was just playing the blues... ...Dad.
+150470,6,107,568000,Homer Simpson,Lisa's Bedroom,"Lisa, I'm sorry. I didn't mean to yell. Go ahead -- play your blues if it'll make you happy."
+150471,6,108,574000,Lisa Simpson,Lisa's Bedroom,"No, that's okay, Dad. I'll just work on my fingering. Unless my fingers clacking on the keys is too loud for you."
+150472,6,109,583000,Homer Simpson,Lisa's Bedroom,Let's hear it.
+150473,6,110,588000,Homer Simpson,Lisa's Bedroom,You just clack as loud as you want. Lis.
+150474,6,111,601000,Lisa Simpson,Lisa's Bedroom,I've got to find that sound.
+150478,6,115,622000,Lisa Simpson,Bridge,That was beautiful. What's it called?
+150479,6,116,626000,Bleeding Gums Murphy,Bridge,"It's a little tune that I call the ""I Never Had An Italian Suit Blues."""
+150481,6,118,626000,Jacqueline Bouvier,Simpson Master Bedroom,"Wait, Margie. Before you go out that door, let's put our happy face on. Because people know how good a mommy you have by the size of your smile."
+150482,6,119,662000,Homer Simpson,Simpson Master Bedroom,What th...
+150483,6,120,665000,Bart Simpson,Simpson Master Bedroom,"Put up your dukes, Homer."
+150485,6,122,667000,Homer Simpson,Simpson Master Bedroom,"Bart, go easy on me. I'm your Dad."
+150486,6,123,671000,Bart Simpson,Simpson Master Bedroom,"I am going easy on you, but you're just so old and slow and weak and pathetic."
+150487,6,124,679000,Homer Simpson,Simpson Master Bedroom,"No, Bart, no."
+150488,6,125,688000,Marge Simpson,Simpson Master Bedroom,"Homer, wake up! Wake up! Oh my, here let me wipe off that drool."
+150489,6,126,695000,Homer Simpson,Simpson Master Bedroom,"You know Marge, getting old is a terrible thing. I think the saddest day of my life is when I realized I could beat my dad at most things. And Bart experienced that at the age of four. So why are you still awake?"
+150490,6,127,708000,Marge Simpson,Simpson Master Bedroom,"Well, I'm still trying to figure out what's bothering Lisa. I don't know, Bart's such a handful, and Maggie needs attention, but all the while our little Lisa's becoming a young woman."
+150491,6,128,719000,Homer Simpson,Simpson Master Bedroom,"Oh, so that's it. This is some kind of underwear thing."
+150492,6,129,723000,Marge Simpson,Simpson Master Bedroom,"Good night, Homer."
+150494,6,131,732000,Bleeding Gums Murphy,Bridge,Now -- low B-flat.
+150495,6,132,737000,Bleeding Gums Murphy,Bridge,"Okay, Lisa -- altissimo register."
+150496,6,133,745000,Bleeding Gums Murphy,Bridge,"Very nice, very nice. I once ruptured myself doing that."
+150497,6,134,750000,Lisa Simpson,Bridge,"Thanks, Mr. Murphy."
+150498,6,135,751000,Bleeding Gums Murphy,Bridge,My friends call me Bleeding Gums.
+150499,6,136,753000,Lisa Simpson,Bridge,Ew! How'd you get a name like that?
+150500,6,137,755000,Bleeding Gums Murphy,Bridge,"Well, let me put it this way. You ever been to the dentist?"
+150501,6,138,759000,Lisa Simpson,Bridge,Yeah.
+150502,6,139,759000,Bleeding Gums Murphy,Bridge,"Not me. I suppose I should go to one, but I got enough pain in my life as it is."
+150503,6,140,765000,Lisa Simpson,Bridge,"I have problems, too."
+150504,6,141,767000,Bleeding Gums Murphy,Bridge,"Well, I can't help you, kid. I'm just a terrific horn player with tons of soul. But I can jam with you."
+150505,6,142,773000,Lisa Simpson,Bridge,Okay.
+150506,6,143,787000,Bleeding Gums Murphy,Bridge,"OH I'M SO LONELY, SINCE MY BABY LEFT ME / I GOT NO MONEY, AND NOTHING IS FREE / OH I BEEN SO LONELY, SINCE THE DAY I WAS BORN / ALL I GOT IS THIS RUSTY... THIS RUSTY OLD HORN."
+150507,6,144,809000,Lisa Simpson,Bridge,"""I got a bratty brother / He bugs me every day / And this mornin' my own mother, she gave my last cupcake away! / My Dad acts like he belongs... he belongs in the zoo / I'm the sa...dest kid in grade number two."""
+150509,6,145,837000,Bleeding Gums Murphy,Bridge,"You know, you play pretty well for someone with no real problems."
+150510,6,146,842000,Lisa Simpson,Bridge,"Yeah, but I don't feel any better."
+150511,6,147,844000,Bleeding Gums Murphy,Bridge,"The blues isn't about feeling better. It's about making other people feel worse and making a few bucks while you're at it. Which reminds me, if you're ever in the neighborhood, I'm playing at a little club called the Jazz Hole..."
+150512,6,148,856000,Marge Simpson,Bridge,"Lisa, get away from that jazzman!"
+150513,6,149,859000,Lisa Simpson,Bridge,"But Mom, can't I... stay a little longer?"
+150514,6,150,860000,Marge Simpson,Bridge,"Come on, come on. We were worried about you. Nothing personal. I just fear the unfamiliar."
+150516,6,152,886000,Newsman,Simpson Living Room,"Today's fire raced through downtown Springfield gutting Symphony Hall, the Springfield Museum of Natural History, the Springfield Arts Center..."
+150517,6,153,886000,Newsman,Simpson Living Room,And Barney's Bowl-a-Rama.
+150518,6,154,892000,Newsman,Simpson Living Room,Fire officials said the two-alarm blaze took them more than an hour to get under control.
+150519,6,155,894000,Homer Simpson,Simpson Living Room,"Oh, no, Marge!"
+150521,6,157,898000,Homer Simpson,KITCHEN,"Marge, are you all right?"
+150522,6,158,899000,Marge Simpson,KITCHEN,"No, I'm very upset."
+150523,6,159,901000,Homer Simpson,KITCHEN,"Then you've heard. Oh, God. What are we doing to do? The lanes were kinda warped but, oh, the food!"
+150524,6,160,907000,Marge Simpson,KITCHEN,I'm upset about Lisa.
+150525,6,161,908000,Homer Simpson,KITCHEN,"Oh. Me, too."
+150526,6,162,909000,Bart Simpson,KITCHEN,Me three. What are we talking about?
+150527,6,163,911000,Homer Simpson,KITCHEN,Bart!
+150528,6,164,911000,Marge Simpson,KITCHEN,"Do you think you're being nice enough to your sister, Bart?"
+150529,6,165,915000,Bart Simpson,KITCHEN,"Oh, yeah. Easy."
+150530,6,166,917000,Marge Simpson,KITCHEN,"You do love her, don't you?"
+150531,6,167,919000,Bart Simpson,KITCHEN,"Oh, Mom."
+150532,6,168,920000,Marge Simpson,KITCHEN,"Well you do, don't you?"
+150533,6,169,921000,Bart Simpson,KITCHEN,"Don't make me say it. I know the answer, you know the answer, he knows the answer, let's just drop it. Okay?"
+150534,6,170,927000,Marge Simpson,KITCHEN,"Okay, Bart, you don't have to say it, but you do have to have a loving attitude. Be nice to your sister."
+150535,6,171,934000,Bart Simpson,KITCHEN,Okey-dokey.
+150536,6,172,936000,Marge Simpson,KITCHEN,"Go on, Bart. No time like the present."
+150538,6,174,941000,Bart Simpson,FOYER,"Hi, man."
+150539,6,175,942000,Lisa Simpson,FOYER,I don't want your pity.
+150508,6,176,944000,Bart Simpson,FOYER,"Aw come on, I'll cheer you up."
+150540,6,177,947000,Lisa Simpson,FOYER,How?
+150541,6,179,947000,Moe Szyslak,Moe's Tavern,Yeah! Moe's Tavern. Moe speaking.
+150542,6,180,948000,Bart Simpson,Moe's Tavern,Is Jacques there?
+150543,6,181,950000,Moe Szyslak,Moe's Tavern,Who?
+150544,6,182,951000,Bart Simpson,Moe's Tavern,Jacques. Last name Strap.
+150545,6,183,954000,Moe Szyslak,Moe's Tavern,"Hold on. Uh..Jacques Strap! Hey, guys, I'm looking for a Jacques Strap!"
+150547,6,185,964000,Moe Szyslak,Moe's Tavern,"What -- oh! Wait a minute -- Jacques Strap? It's you, isn't it? You cowardly little runt. When I get hold of you I am gonna gut you like a fish and drink your blood."
+150549,6,187,978000,Bart Simpson,Simpson Home,"Where's your sense of humor, man?"
+150551,6,189,981000,Marge Simpson,Simpson Home,"Lisa, you'll be late for band practice. Let's go."
+150553,6,191,998000,Homer Simpson,Noiseland Arcade,Gimme some quarters. I'm doing my laundry.
+150554,6,192,1003000,Cashier,Noiseland Arcade,"Yeah, right."
+150555,6,193,1009000,Homer Simpson,Noiseland Arcade,Where's the video boxing?
+150556,6,194,1011000,Cashier,Noiseland Arcade,"It's over there in the corner, but if I were you, I really would use those quarters for laundry."
+150557,6,195,1020000,Homer Simpson,Noiseland Arcade,"Hey, that kid's pretty good."
+150558,6,196,1022000,Boy Onlooker,Noiseland Arcade,"Good? Are you kidding? Over two thousand fights, and he's still on his original quarter."
+150559,6,197,1027000,Champ,Noiseland Arcade,Okay? Who's next?
+150560,6,198,1029000,Kids,Noiseland Arcade,Me! Me! Me! Me! Me! Me!
+150561,6,199,1031000,Homer Simpson,Noiseland Arcade,"No, me! No, Me!"
+150562,6,200,1032000,Homer Simpson,Noiseland Arcade,Listen -- can you teach me to fight like you do?
+150563,6,201,1034000,Champ,Noiseland Arcade,I don't think so.
+150564,6,202,1036000,Homer Simpson,Noiseland Arcade,"Aw, come on."
+150565,6,203,1036000,Champ,Noiseland Arcade,"I'll tell you what, I'll do it if you bark like a dog."
+150566,6,204,1038000,Homer Simpson,Noiseland Arcade,You little... Ruff! Ruff! Ruff!
+150567,6,205,1042000,Champ,Noiseland Arcade,"You got yourself a deal, Fido."
+150569,6,207,1047000,Champ,Noiseland Arcade,"Well, looks like you're all out of quarters, old man."
+150570,6,208,1051000,Homer Simpson,Noiseland Arcade,"That's okay. With the tips you've given me, I'm going to pound the tar out of a certain little smarty pants tonight."
+150571,6,209,1059000,Woman,Noiseland Arcade,Howie! I thought I told you to stop wasting your money in this stupid place.
+150572,6,210,1063000,Champ,Noiseland Arcade,"Uh-oh. Sorry, Mom."
+150573,6,211,1065000,Woman,Noiseland Arcade,And you! A man of your age! You should be ashamed of yourself!
+150574,6,212,1070000,Homer Simpson,Noiseland Arcade,Excuse me. I think I hear my wife calling.
+150577,6,215,1082000,Marge Simpson,Marge's Car,"Now, Lisa, listen to me. This is important. I want you to smile today."
+150578,6,216,1088000,Lisa Simpson,Marge's Car,But I don't feel like smiling.
+150579,6,217,1090000,Marge Simpson,Marge's Car,"Well, it doesn't matter how you feel inside, you know. It's what shows up on the surface that counts. That's what my mother taught me. Take all your bad feelings and push them down, all the way down, past your knees, until you're almost walking on them. And then you'll fit in, and you'll be invited to parties, and boys will like you... and happiness will follow."
+150580,6,218,1114000,Marge Simpson,Marge's Car,Come on. You can do better than that.
+150581,6,219,1118000,Marge Simpson,Marge's Car,"Ah, that's my girl."
+150582,6,220,1120000,Lisa Simpson,Marge's Car,I feel more popular already.
+150584,6,222,1125000,Ralph Wiggum,Springfield Elementary School Yard,"Hey, nice smile."
+150585,6,223,1127000,Lisa Simpson,Springfield Elementary School Yard,Thanks.
+150586,6,224,1128000,Stan,Springfield Elementary School Yard,Hey! What are you talking to her for? She's just going to say something weird.
+150587,6,225,1131000,Lisa Simpson,Springfield Elementary School Yard,Not me.
+150588,6,226,1133000,Ralph Wiggum,Springfield Elementary School Yard,"You know, I used to think you were some sort of a brainiac, but... I guess you're okay."
+150589,6,227,1137000,Lisa Simpson,Springfield Elementary School Yard,Uh-huh.
+150590,6,228,1139000,Stan,Springfield Elementary School Yard,"Hey, why don't come over to my house after practice? You can do my homework."
+150591,6,229,1143000,Lisa Simpson,Springfield Elementary School Yard,Okay.
+150593,6,231,1146000,Dewey Largo,Springfield Elementary School Yard,"Five minutes, people. Five minutes. Now, Miss Simpson, I hope we won't have a repeat of yesterday's outburst of unbridled... creativity."
+150595,6,233,1154000,Lisa Simpson,Springfield Elementary School Yard,"No, sir."
+150596,6,234,1162000,Lisa Simpson,Springfield Elementary School Yard,"Wow, Mom."
+150597,6,235,1163000,Dewey Largo,Springfield Elementary School Yard,So that's where she gets it.
+150598,6,236,1166000,Marge Simpson,Springfield Elementary School Yard,"Lisa, I apologize to you. I was wrong. I take it all back. Always be yourself. You want to be sad, honey, be sad. We'll ride it out with you. And when you get finished feeling sad, we'll still be there. From now on, let me do the smiling for both of us."
+150599,6,237,1185000,Lisa Simpson,Springfield Elementary School Yard,"Okay, Mom."
+150600,6,238,1186000,Marge Simpson,Springfield Elementary School Yard,"I said you could stop smiling, Lisa."
+150601,6,239,1190000,Lisa Simpson,Springfield Elementary School Yard,I feel like smiling.
+150602,6,241,1193000,Bart Simpson,Simpson Living Room,"I'm going to knock you out one more time and that's it. This is getting boring, man."
+150603,6,242,1198000,Homer Simpson,Simpson Living Room,"Just try not to kill me too hard, son. Heh-heh-heh."
+150604,6,243,1204000,Bart Simpson,Simpson Living Room,Whoa!
+150605,6,244,1205000,Homer Simpson,Simpson Living Room,"Kid, tonight's not your night."
+150606,6,245,1207000,Bart Simpson,Simpson Living Room,"All right, man. You asked for it. No more Mr. Nice Guy."
+150607,6,246,1210000,Homer Simpson,Simpson Living Room,Oh! Oh! Block it.
+150608,6,247,1211000,Bart Simpson,Simpson Living Room,Wha' the...
+150609,6,248,1211000,Homer Simpson,Simpson Living Room,Uh-oh. You missed me.
+150610,6,249,1213000,Homer Simpson,Simpson Living Room,Ha ha! I got you. Don't try that. I got ya. I'll block you. And the crowd is on its feet as Hurricane Homer moves in for the kill.
+150611,6,250,1223000,Marge Simpson,Simpson Living Room,"Boys, I'd like your attention, please."
+150612,6,251,1225000,Homer Simpson,Simpson Living Room,"Quiet, Marge. This is my big moment."
+150613,6,252,1227000,Homer Simpson,Simpson Living Room,"Bart-the-bloody-pulp Simpson is on the ropes. He's hoping I'll put him out of his misery. Well, you're in luck, Bart, here comes my right."
+150614,6,253,1235000,Homer Simpson,Simpson Living Room,"Oh, noooo!"
+150615,6,254,1238000,Homer Simpson,Simpson Living Room,"My game! My game! I coulda beat the boy! Marge, how could you? I was so close."
+150616,6,255,1245000,Marge Simpson,Simpson Living Room,"I'm sorry, but this is more important than that silly, loud game."
+150617,6,256,1249000,Bart Simpson,Simpson Living Room,"You're right, Mom. I'd just like to use this occasion to announce my retirement, undefeated, from the world of video boxing."
+150619,6,258,1256000,Marge Simpson,Simpson Living Room,"Oh, calm down, Homer. Lisa has an idea that she thinks would be fun for the whole family."
+150621,6,260,1263000,Bleeding Gums Murphy,JAZZ HOLE NIGHTCLUB,"This next song was written by a friend of mine, one of the great little ladies of jazz."
+150622,6,261,1287000,Bleeding Gums Murphy,JAZZ HOLE NIGHTCLUB,"""I got this bratty brother / He bugs me every day / And this mornin' my own mother, gave my last cupcake away! / My Dad acts like he belongs... he belongs in the zoo."""
+150623,6,262,1309000,Homer Simpson,JAZZ HOLE NIGHTCLUB,What?
+150624,6,263,1310000,Bleeding Gums Murphy,JAZZ HOLE NIGHTCLUB,I'm the saddest kid in grade number two.

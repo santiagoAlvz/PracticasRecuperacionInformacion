@@ -1,0 +1,268 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+56560,233,2,86000,Marge Simpson,SH_P,"These Swedish furniture designers sure have some far-out ideas. I mean, a green table! I wouldn't have thought of that in my wildest dreams."
+56561,233,3,95000,Homer Simpson,SH_P,And these bean bag chairs look so comfortable.
+56562,233,4,99000,Homer Simpson,SH_P,"Hey, there's someone else in here."
+56563,233,5,101000,Captain Horatio McCallister,SH_P,Arr. She swallowed me whole.
+56565,233,7,103000,Allen,SHOWROOM,"You put it together yourself. All you need is me, Allen Wrench."
+56566,233,8,108000,Homer Simpson,SHOWROOM,He's named after what he is.
+56567,233,9,110000,Bart Simpson,SHOWROOM,Cool costume!
+56568,233,10,112000,Allen,SHOWROOM,It's not a costume. They found me inside a meteor.
+56569,233,11,116000,Marge Simpson,SHOWROOM,"Excuse me, where are your hamper lids?"
+56570,233,12,119000,Allen,SHOWROOM,"Hamper lids? Uh, third floor. Help. I need tungsten to live."
+56571,233,13,124000,Allen,SHOWROOM,Tung-stennn!
+56574,233,16,128000,Marge Simpson,SHOP,"Oooh, look at all these clever pencil holders."
+56575,233,17,131000,Lisa Simpson,SHOP,"Ooh, I want to get the ""Kr_nk""!"
+56576,233,18,133000,Marge Simpson,SHOP,You don't want something that overshadows the pencils.
+56577,233,19,138000,Marge Simpson,SHOP,"How about this ""Pöpli""?"
+56578,233,20,140000,Lisa Simpson,SHOP,"Mom, no! Everyone at school picks on the ""Pöpli"" kids. Even I do. I just hate them so much."
+56581,233,22,148000,Homer Simpson,SH_P,"Yes, I will have the... Pl_penlügen. And don't skimp on the D__dlemünch."
+56582,233,23,154000,Marge Simpson,SH_P,How ingenious. The forks are made out of Lego.
+56584,233,25,162000,Apu Nahasapeemapetilon,SH_P,"Hello, Simpsons!"
+56585,233,26,163000,Homer Simpson,SH_P,"Hey, Apu, Manjula. You guys are still married?"
+56586,233,27,167000,Apu Nahasapeemapetilon,SH_P,"Oh, yes sir. Quite happily."
+56587,233,28,168000,Homer Simpson,SH_P,"Pay up, Marge."
+56588,233,29,169000,Marge Simpson,SH_P,"Say, whatcha got there?"
+56589,233,30,171000,Apu Nahasapeemapetilon,SH_P,I don't know exactly. It's from the room of lamps that do not look like lamps.
+56590,233,31,178000,Manjula Nahasapeemapetilon,SH_P,"Ohhh, little Maggie!"
+56591,233,32,178000,Manjula Nahasapeemapetilon,SH_P,Aren't you cute with your little bow?!
+56592,233,33,187000,Marge Simpson,SH_P,Maggie loves baby talk.
+56593,233,34,189000,Manjula Nahasapeemapetilon,SH_P,That was Hindi.
+56594,233,35,190000,Marge Simpson,SH_P,Oh. Sorry. So have you two thought about kids?
+56595,233,36,193000,Apu Nahasapeemapetilon,SH_P,"Well, sure we have, but the decision to have a child is not to be made lightly."
+56596,233,37,201000,Apu Nahasapeemapetilon,SH_P,"Mm. On the other hand, monkey see, monkey do!"
+56597,233,38,203000,Homer Simpson,SH_P,"Kids are the best, Apu. You can teach them to hate the things you hate. And they practically raise themselves, what with the Internet and all."
+56598,233,39,210000,Apu Nahasapeemapetilon,SH_P,"Well, perhaps it is time. I've noticed this country is dangerously underpopulated."
+56600,233,41,217000,Manjula Nahasapeemapetilon,Apu's Apartment,"Are you sure you want a child, Apu?"
+56601,233,42,219000,Apu Nahasapeemapetilon,Apu's Apartment,"You know... I do. I mean, there comes a time in a man's life when he asks himself, ""Who will float my corpse down the Ganges?"""
+56602,233,43,221000,Manjula Nahasapeemapetilon,Apu's Apartment,"Oh, Apu! Take me now."
+56603,233,44,229000,Apu Nahasapeemapetilon,Apu's Apartment,"Oh, Calcutta!"
+56605,233,46,233000,Homer Simpson,Kwik-E-Mart,"Hey Apu. Sittin' in the ice cream cooler, eh?"
+56606,233,47,236000,Apu Nahasapeemapetilon,Kwik-E-Mart,"By chilling my loins, I increase the chances of impregnating my wife."
+56607,233,48,240000,Homer Simpson,Kwik-E-Mart,"Whoa, too much information! Thanks for the mental picture. Why don't you tell us what you really think?"
+56608,233,49,247000,Apu Nahasapeemapetilon,Kwik-E-Mart,Just stop spouting those hackneyed quips.
+56609,233,50,249000,Homer Simpson,Kwik-E-Mart,"Could you be any more...? Hel-lo! Look, just give me some ice cream."
+56397,233,51,258000,Homer Simpson,Kwik-E-Mart,"Um, how 'bout one not touching your ass?"
+56580,233,52,263000,Apu Nahasapeemapetilon,Kwik-E-Mart,Oh! Manjula has begun to ovulate.
+56425,233,53,265000,Homer Simpson,Kwik-E-Mart,"Eww, thanks for sharing!"
+56610,233,54,268000,Homer Simpson,Kwik-E-Mart,More than I wanted to knoooow!
+56612,233,56,274000,Apu Nahasapeemapetilon,Apu's Apartment,Here goes nothing...
+56613,233,57,276000,Manjula Nahasapeemapetilon,Apu's Apartment,Baby...
+56614,233,58,279000,Manjula Nahasapeemapetilon,Apu's Apartment,Baby...!
+56615,233,59,280000,Manjula Nahasapeemapetilon,Apu's Apartment,Oh... lemon.
+56616,233,60,282000,Manjula Nahasapeemapetilon,Apu's Apartment,All that sex for nothing!
+56617,233,61,285000,Apu Nahasapeemapetilon,Apu's Apartment,"Well, that is a pretty grim assessment."
+56619,233,63,289000,Apu Nahasapeemapetilon,Simpson Home,"You know, Homer, you might want to open those cans before they explode."
+56620,233,64,293000,Homer Simpson,Simpson Home,But the cans seal in the flavor.
+56621,233,65,296000,Apu Nahasapeemapetilon,Simpson Home,O-kay.
+56622,233,66,297000,Homer Simpson,Simpson Home,"So, how's the tribe comin' along? Any papooses?"
+56623,233,67,302000,Apu Nahasapeemapetilon,Simpson Home,"No, still no luck. Tell me, Homer, did you have to take any special steps when you decided to have children?"
+56624,233,68,309000,Homer Simpson,Simpson Home,Decided? That's classic. Decided. Babies just happen.
+56625,233,69,316000,Apu Nahasapeemapetilon,Simpson Home,"Well, not to us they don't. Oh Homer, we have tried everything! Oysters, gravity boots, Sanjay's bed, every possible position..."
+56626,233,70,326000,Homer Simpson,Simpson Home,Really? On top and underneath?
+56627,233,71,329000,Apu Nahasapeemapetilon,Simpson Home,"Eh, yes."
+56628,233,72,331000,Homer Simpson,Simpson Home,"Well, don't worry, I can help ya. I'm all about ideas."
+56629,233,73,335000,Homer Simpson,Simpson Home,"Kids, come and get it!"
+56631,233,75,339000,Homer Simpson,LOOKOUT POINT,"Now, this situation is guaranteed to end in pregnancy."
+56632,233,76,343000,Apu Nahasapeemapetilon,LOOKOUT POINT,"I'm willing to play the high school jock, but did you have to cut the roof off my car?"
+56633,233,77,347000,Homer Simpson,LOOKOUT POINT,"Up-bup-bup-bup! That's an Apu question. You're ""Greg."""
+56634,233,78,350000,Apu Nahasapeemapetilon,LOOKOUT POINT,"""Uh, gee, Betsy. It's such a nice night. Why don't we go all the way?"""
+56635,233,79,354000,Manjula Nahasapeemapetilon,LOOKOUT POINT,"""But Greg, my Dad will kill me. And you have that scholarship to Ivy League State."""
+56636,233,80,358000,Apu Nahasapeemapetilon,LOOKOUT POINT,"""Loosen up, baby. Tomorrow I'm shipping off to Vietnam."" I... I thought I was going to Ivy League State."
+56637,233,81,369000,Homer Simpson,LOOKOUT POINT,My mistake. Stay in the moment.
+56638,233,82,371000,Manjula Nahasapeemapetilon,LOOKOUT POINT,Just promise not to forget me on your dinosaur-bone-digging-up trip...
+56639,233,83,371000,Homer Simpson,LOOKOUT POINT,And that's my cue to exit.
+56640,233,84,387000,Apu Nahasapeemapetilon,LOOKOUT POINT,Homer!
+56641,233,85,388000,Homer Simpson,LOOKOUT POINT,I just wanted to invite you to the wrap party. And that's my cue to exit.
+56643,233,87,397000,Manjula Nahasapeemapetilon,Apu's Apartment,Baby... Baby... Pirate?
+56645,233,89,404000,Apu Nahasapeemapetilon,Apu's Apartment,"No, no, wait a minute. Pirates are wild!"
+56646,233,90,407000,Manjula Nahasapeemapetilon,Apu's Apartment,We are pregnant!
+56648,233,92,412000,Apu Nahasapeemapetilon,Apu's Apartment,"Oh, get lost."
+56650,233,94,415000,Homer Simpson,Springfield Streets,"Man, the last nine months sure were crazy."
+56651,233,95,419000,Bart Simpson,Springfield Streets,I'll say. I learned the true meaning of Columbus Day.
+56652,233,96,422000,Marge Simpson,Springfield Streets,"I enjoyed a brief but memorable stint as ""Sideshow Marge."""
+56653,233,97,426000,Lisa Simpson,Springfield Streets,"I became the most popular girl in school, but blew it by being conceited."
+56654,233,98,430000,Bart Simpson,Springfield Streets,And then I learned the true meaning of winter.
+56656,233,100,435000,Manjula Nahasapeemapetilon,Kwik-E-Mart,"Apu, do you still find me attractive?"
+56657,233,101,438000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Of course I do, sweetheart. You're beautiful and silky and manageable."
+56658,233,102,443000,Manjula Nahasapeemapetilon,Kwik-E-Mart,You're reading that off a conditioner bottle.
+56659,233,103,446000,Apu Nahasapeemapetilon,Kwik-E-Mart,That's true. But you still have a...
+56660,233,104,452000,Manjula Nahasapeemapetilon,Kwik-E-Mart,My water broke!
+56661,233,105,453000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Oh, we must drive to the hospital!"
+56662,233,106,456000,Apu Nahasapeemapetilon,Kwik-E-Mart,Cleanup in aisle three.
+56663,233,107,459000,Gil Gunderson,Kwik-E-Mart,"Aw, finally. Gil's movin' up to the big leagues, boy!"
+56665,233,109,465000,Gil Gunderson,Kwik-E-Mart,My back!
+56668,233,112,472000,Marge Simpson,Hospital,"Apu, come quick! You're missing the miracle!"
+56669,233,113,475000,Apu Nahasapeemapetilon,Hospital,Oh!
+56670,233,114,477000,Manjula Nahasapeemapetilon,Hospital,"Oh, my sweet husband. Say hello to your first-born child."
+56671,233,115,483000,Apu Nahasapeemapetilon,Hospital,"Oh, you shall be the jewel of our lives."
+56672,233,116,486000,Dr. Julius Hibbert,Hospital,"Aww, now say hello to your other seven children."
+56674,233,117,489000,Apu Nahasapeemapetilon,Hospital,My... Whaa...?!
+56675,233,118,491000,Dr. Julius Hibbert,Hospital,We had quite a discussion about the funniest way to reveal them to you.
+56676,233,119,496000,Marge Simpson,Hospital,You have octuplets. It rolls off your tongue and into your heart: octuplets.
+56677,233,120,497000,Homer Simpson,Hospital,"Apu, you shoulda seen your face when they showed you those babies."
+56678,233,121,509000,Homer Simpson,Hospital,Yeah. It looked just like that.
+56679,233,122,517000,Manjula Nahasapeemapetilon,Hospital,"Apu, say hello to Poonam, Sashi, Pria, Uma, Anoop, Sandeep, Nabendu, and Mama's clear favorite, Gheet."
+56680,233,123,525000,Apu Nahasapeemapetilon,Hospital,How did we get eight?
+56681,233,124,526000,Manjula Nahasapeemapetilon,Hospital,"Apu, I must confess. When we were having trouble conceiving, I took fertility drugs."
+56682,233,125,532000,Apu Nahasapeemapetilon,Hospital,"I too, I am afraid, am guilty of monkeying with nature. I slipped fertility drugs into your breakfast Squishee."
+56683,233,126,540000,Dr. Julius Hibbert,Hospital,"Mm-hmm. Well, that would only account for quintuplets. Did anyone else slip this woman fertility drugs?"
+56684,233,127,549000,Homer Simpson,Hospital,Mine tasted like strawberry.
+56685,233,128,550000,Homer Simpson,Hospital,Mmm... Ovulicious.
+56686,233,129,557000,Reporter,Hospital,"Would you say you and your babies have a ""love-eight"" relationship?"
+56688,233,131,562000,Apu Nahasapeemapetilon,Hospital,Absolutely. Yes.
+56689,233,132,564000,Reporter,Hospital,"No, say it. We need a sound bite."
+56690,233,133,566000,Apu Nahasapeemapetilon,Hospital,"We have a ""love-eight"" relationship."
+56691,233,134,569000,Reporters,Hospital,Awwww.
+56692,233,135,570000,Kent Brockman,Hospital,"Yes, Kent Brockman, Channel 6. How would you respond to people who say this kind of multiple birth is more suited to, say, a possum, than a human being?"
+56693,233,136,579000,Manjula Nahasapeemapetilon,Hospital,Who would say such a thing?
+56694,233,137,582000,Kent Brockman,Hospital,Well... Pundits... Wags... I'm not the one on trial here.
+56695,233,138,586000,Apu Nahasapeemapetilon,Hospital,No one is on trial. This is a joyous occasion for all. And the outpouring of support has been so lucrative.
+56696,233,139,591000,Manjula Nahasapeemapetilon,Hospital,"Yes, we have already received lifetime supplies of baby powder and Pepsi-B."
+56698,233,141,597000,Homer Simpson,Simpson Home,"Free baby cola? Apu hits the jackpot, and I'm stuck with these useless one-tuplets."
+56699,233,142,603000,Bart Simpson,Simpson Home,"Gee, sorry for being born."
+56700,233,143,605000,Homer Simpson,Simpson Home,I've been waiting so long to hear that.
+56701,233,145,615000,Kent Brockman,Apu's Apartment,How do you feel about this avalanche of free merchandise?
+56702,233,146,619000,Manjula Nahasapeemapetilon,Apu's Apartment,"Oh, the companies are so generous. Except the Q-Tip people -- they only gave us three crates. They can rot in hell."
+56703,233,147,626000,Apu Nahasapeemapetilon,Apu's Apartment,But the good folks at Sony... ! Their giant TV will really help us love our babies.
+56704,233,148,634000,Reporter,Apu's Apartment,"I'm here at Shelbyville Hospital where a local woman has just given birth to nine, that's right, nine babies."
+56706,233,150,641000,Shelbyville Father,Apu's Apartment,Some say eight babies is a blessing. But they don't know the joy of nine.
+56707,233,151,645000,Reporter,Apu's Apartment,"Would you say you're on ""Cloud Nine?"""
+56708,233,152,648000,SHELBYVILLE FATHER AND MOTHER,Apu's Apartment,We're on Cloud Nine!
+56709,233,153,650000,Reporters,Apu's Apartment,Awww...
+56710,233,154,651000,Apu Nahasapeemapetilon,Apu's Apartment,"Oh, they even have a better sound bite than us."
+56711,233,155,653000,Manjula Nahasapeemapetilon,Apu's Apartment,Nine babies? That's barbaric.
+56712,233,156,656000,Forklift Driver,Apu's Apartment,Nonuplets? Now that's something you don't see every day.
+56713,233,157,659000,Workman,Apu's Apartment,Let's get this stuff to the real heroes: The Shelbyville Nine.
+56714,233,158,669000,Manjula Nahasapeemapetilon,Apu's Apartment,"Wait, that's our ottoman."
+56715,233,159,675000,Apu Nahasapeemapetilon,Apu's Apartment,"Don't worry, my little Curry-Face. We don't need corporate handouts. Our children will live on love."
+56720,233,164,695000,Manjula Nahasapeemapetilon,Apu's Apartment,Apu! It's four A.M. You are late for work!
+56721,233,165,700000,Apu Nahasapeemapetilon,Apu's Apartment,I just had the most beautiful dream where I died.
+56722,233,166,703000,Manjula Nahasapeemapetilon,Apu's Apartment,Oh no you don't. Not till they're out of college.
+56723,233,167,706000,Apu Nahasapeemapetilon,Apu's Apartment,"Listen, I'll die when I want to."
+56725,233,169,711000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Thank you, steal again."
+56726,233,170,715000,Ned Flanders,Kwik-E-Mart,"We-ell, morning, Apu. How are the little blessings?"
+56727,233,171,719000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Ooh, they're a ravenous swarm of locusts, just eating and screaming and grabbing and poking and pulling and drooling and two have cradle rash! How do you get cradle rash when you sleep in a suitcase?"
+56728,233,172,730000,Ned Flanders,Kwik-E-Mart,They can be a handful... of joy.
+56729,233,173,732000,Apu Nahasapeemapetilon,Kwik-E-Mart,Shut up!
+56730,233,174,734000,Ned Flanders,Kwik-E-Mart,... They'll fill your lives with...
+56731,233,175,735000,Apu Nahasapeemapetilon,Kwik-E-Mart,Just shut up!
+56732,233,176,736000,Ned Flanders,Kwik-E-Mart,... can't put a price on a miracle...
+56733,233,177,737000,Apu Nahasapeemapetilon,Kwik-E-Mart,I can't believe you don't shut up.
+56735,233,179,739000,Homer Simpson,Simpson Home,"Ooh, look at that. Ooh, gingerbread house. Hansel and Gretel are set for life."
+56736,233,180,746000,Marge Simpson,Simpson Home,"You know, I saw Apu today. He's really frazzled."
+56737,233,181,750000,Homer Simpson,Simpson Home,"Boy, that Hansel sure can eat."
+56738,233,182,753000,Homer Simpson,Simpson Home,My corneas! You were saying?
+56739,233,183,756000,Marge Simpson,Simpson Home,Apu told me all eight babies have colic. Although he thinks one or two might just be going along with the crowd.
+56740,233,184,763000,Homer Simpson,Simpson Home,"Eight kids. Hm, I'm sterile, right baby doll?"
+56741,233,185,767000,Marge Simpson,Simpson Home,"Yes, dear. From the nuclear plant."
+56742,233,186,770000,Homer Simpson,Simpson Home,Beautiful.
+56744,233,188,775000,Marge Simpson,Apu's Apartment,"Knock, knock!"
+56745,233,189,779000,Homer Simpson,Apu's Apartment,"Apu? Manjula? Marge, I've got a bad feeling about this."
+56746,233,190,788000,Apu Nahasapeemapetilon,Apu's Apartment,Welcome to my nightmare.
+56747,233,191,790000,Marge Simpson,Apu's Apartment,"I knew you had your hands full with the babies, so I baked you some banana bread."
+56748,233,192,795000,Apu Nahasapeemapetilon,Apu's Apartment,"Oh hallelujah, our problems are solved. We have banana bread."
+56749,233,193,799000,Marge Simpson,Apu's Apartment,"Well, you don't have to be sarcastic."
+56750,233,194,801000,Manjula Nahasapeemapetilon,Apu's Apartment,"Oh look who's here, the family with one baby. How do you manage?"
+56751,233,195,807000,Homer Simpson,Apu's Apartment,Marge... They've turned into jerks.
+56752,233,196,810000,Apu Nahasapeemapetilon,Apu's Apartment,"I'm very sorry, we've been rude. Can I offer you something to drink?"
+56753,233,197,815000,Marge Simpson,Apu's Apartment,Uh... no thanks.
+56754,233,198,816000,Manjula Nahasapeemapetilon,Apu's Apartment,"Apu, they're doing it again!"
+56755,233,199,818000,Apu Nahasapeemapetilon,Apu's Apartment,"Okay, break it up."
+56756,233,200,821000,Marge Simpson,Apu's Apartment,Maybe you two should get a nanny.
+56757,233,201,823000,Apu Nahasapeemapetilon,Apu's Apartment,"Yes, and what would I pay her with, banana bread? Sorry. Sorry. It's just we haven't slept in days and we're running out of money and... Banana bread! What the hell were you thinking? Banana bread. I apologize, apologize again. As a token of forgiveness, please take this baby."
+56759,233,203,838000,Homer Simpson,Apu's Apartment,"No, Marge. No!"
+56760,233,204,844000,Businessman,Apu's Apartment,"Well, Mr. Nahasa... pasa... Ah, forget it. Listen, you look like you could use some help. Come with me."
+56761,233,205,849000,Apu Nahasapeemapetilon,Apu's Apartment,Okay.
+56762,233,206,851000,Manjula Nahasapeemapetilon,Apu's Apartment,But you don't know who he is.
+56763,233,207,853000,Apu Nahasapeemapetilon,Apu's Apartment,Who cares? There's only one of him!
+56766,233,210,856000,Businessman,Canyonero,"What if your babies could live in a place with 'round-the-clock child care, all expenses paid, full medical, dental, tutors, the works?"
+56767,233,211,865000,Apu Nahasapeemapetilon,Canyonero,I would say that there must be some sort of horrible catch.
+56768,233,212,871000,Apu Nahasapeemapetilon,Canyonero,The zoo?!
+56769,233,213,873000,Businessman,Canyonero,What? Everybody loves my zoo. You don't love my zoo? I dare you to look at a kangaroo and not laugh. I dare you.
+56770,233,214,883000,Businessman,Canyonero,"Well, they're usually funnier."
+56772,233,216,887000,Apu Nahasapeemapetilon,Springfield Zoo,"Look, I'm not going to put my babies in a zoo."
+56773,233,217,890000,ZOO OWNER,Springfield Zoo,Don't say no 'til you see the habitat.
+56774,233,218,892000,Apu Nahasapeemapetilon,Springfield Zoo,The habitat?
+56775,233,219,893000,ZOO OWNER,Springfield Zoo,I mean the nursery.
+56777,233,221,893000,Apu Nahasapeemapetilon,Springfield Zoo,"Oh, my goodness!"
+56778,233,222,898000,ZOO OWNER,Springfield Zoo,"Not too shabby, eh? They'll have the best of care. And all I ask is that you let the local folks share a little glimpse of your blessing."
+56779,233,223,907000,Apu Nahasapeemapetilon,Springfield Zoo,But is it right to put such young children on display?
+56780,233,224,910000,Voice,Springfield Zoo,Sure it is!
+56781,233,225,912000,Apu Nahasapeemapetilon,Springfield Zoo,Butch Patrick?!
+56782,233,226,913000,Butch Patrick,Springfield Zoo,That's right. I was TV's Eddie Munster. And being in the public eye didn't mess me up one bit.
+56783,233,227,920000,Apu Nahasapeemapetilon,Springfield Zoo,"Well, obviously. Hey, one question, Eddie."
+56784,233,228,923000,Butch Patrick,Springfield Zoo,Butch.
+56785,233,229,924000,Apu Nahasapeemapetilon,Springfield Zoo,"Eh, right, right. If your mother was a vampire and your father was a Frankenstein, how come you are a werewolf?"
+56786,233,230,930000,Butch Patrick,Springfield Zoo,"Huh, I never thought of that. Doesn't make sense, does it? But what does make sense is putting your children in the hands of Mr. Kidkill here."
+56787,233,231,937000,ZOO OWNER,Springfield Zoo,"Please, please... Larry. Larry Kidkill."
+56789,233,233,942000,Manjula Nahasapeemapetilon,Apu's Apartment,I don't care what Butch Patrick says. It just doesn't seem right.
+56790,233,234,947000,Apu Nahasapeemapetilon,Apu's Apartment,We wouldn't be giving the babies away. We'd be moving in with them. They'll have a traditional zooish upbringing.
+56791,233,235,958000,Manjula Nahasapeemapetilon,Apu's Apartment,"Well, maybe we could try it."
+56792,233,236,961000,Manjula Nahasapeemapetilon,Apu's Apartment,Woo!
+56793,233,237,963000,Apu Nahasapeemapetilon,Apu's Apartment,"Hey, what the..."
+56794,233,238,963000,Butch Patrick,Apu's Apartment,"Hey, I'm a notary. So I got that goin' too!"
+56797,233,241,976000,Manjula Nahasapeemapetilon,Springfield Zoo,"Ohh, you like that, don't you, Poonam? Yeah, who's a clean baby, huh?"
+56799,233,243,983000,ZOO OWNER,Springfield Zoo,"Aww, now this is a happy family! You likin' this thing? How's the humidity, good? Why am I asking, I can see on the meter it's good."
+56800,233,244,992000,Apu Nahasapeemapetilon,Springfield Zoo,"Oh, everything is perfect."
+56801,233,245,994000,ZOO OWNER,Springfield Zoo,"Yeah, nothing's too good for my little angels. Up, it's almost showtime."
+56802,233,246,999000,Apu Nahasapeemapetilon,Springfield Zoo,Showtime?
+56803,233,247,1003000,Flamboyant Theater-type,Springfield Zoo,"All right, people... If you're not in a diaper, get off my stage."
+56804,233,248,1007000,Flamboyant Theater-type,Springfield Zoo,Off! Off! Off! Off!
+56805,233,249,1011000,Bart Simpson,Springfield Zoo,I can't believe we're gonna see the octuplets.
+56806,233,250,1013000,Lisa Simpson,Springfield Zoo,You already saw them.
+56807,233,251,1015000,Bart Simpson,Springfield Zoo,"Yeah, but now their umbilical cords have fallen off!"
+56808,233,252,1018000,ZOO OWNER,Springfield Zoo,Ladies and gentlemen... Get ready for the eight wonders of the Third World! Welcome to... Octopia!
+56809,233,253,1032000,ZOO OWNER,Springfield Zoo,"He can't talk, but, man, can he rock! Say hello to the baddest baby in the whole damn town... Animal!"
+56810,233,254,1041000,Audience,Springfield Zoo,Awww...
+56811,233,255,1045000,Lisa Simpson,Springfield Zoo,How can he rebel? He doesn't even know where he is.
+56812,233,256,1049000,ZOO OWNER,Springfield Zoo,"Uh-oh, sounds like one of the babies has a fever!"
+56814,233,258,1054000,ZOO OWNER,Springfield Zoo,... Dance fever that is!
+56815,233,259,1055000,Marge Simpson,Springfield Zoo,Ohhhhh.
+56816,233,260,1057000,ZOO OWNER,Springfield Zoo,Let's hear it for Dazzle!
+56817,233,261,1062000,Homer Simpson,Springfield Zoo,"She's no Liza, but it works."
+56818,233,262,1065000,ZOO OWNER,Springfield Zoo,And now the standup who can't even sit up... give it up for Punchline!
+56819,233,263,1077000,Lenny Leonard,Springfield Zoo,He's thinkin' what we're all sayin'.
+56820,233,264,1079000,ZOO OWNER,Springfield Zoo,But all the laughs in the world won't protect you from the stern discipline of... The Baron.
+56822,233,266,1094000,Bart Simpson,Springfield Zoo,"Boo, Baron!"
+56823,233,267,1094000,ZOO OWNER,Springfield Zoo,And... the rest!
+56824,233,268,1102000,Uncle Sam,Springfield Zoo,"Goodbye, Springfield! We'll be back in an hour!"
+56825,233,269,1111000,Flamboyant Theater-type,Springfield Zoo,"Good babies! Good, good babies! Work with Dazzle. She's a lox out there."
+56826,233,270,1117000,Manjula Nahasapeemapetilon,Springfield Zoo,How could you do this to our children?
+56827,233,271,1119000,ZOO OWNER,Springfield Zoo,"I know, the lighting cues were a mess. Don't worry. The guy's been fired."
+56828,233,272,1123000,Apu Nahasapeemapetilon,Springfield Zoo,Our babies are not circus freaks! We're taking them home now!
+56829,233,273,1127000,ZOO OWNER,Springfield Zoo,"Hold on, Alpo. We got a contract."
+56830,233,274,1129000,Apu Nahasapeemapetilon,Springfield Zoo,Not any more!
+56831,233,275,1132000,Apu Nahasapeemapetilon,Springfield Zoo,Laminated! You monster!
+56832,233,276,1135000,ZOO OWNER,Springfield Zoo,Terence? Christopher? Will you show these two to the exit?
+56833,233,277,1139000,Christopher,Springfield Zoo,Avec plaisir!
+56835,233,279,1142000,Chief Wiggum,Springfield Police Station,I'm afraid there's nothing I can do.
+56836,233,280,1144000,Apu Nahasapeemapetilon,Springfield Police Station,"The zookeeper paid you off, didn't he?"
+56837,233,281,1146000,Chief Wiggum,Springfield Police Station,"Paid me off? What are you, crazy?"
+56838,233,282,1152000,Manjula Nahasapeemapetilon,Springfield Police Station,So we'll never see our children again?
+56839,233,283,1154000,Chief Wiggum,Springfield Police Station,"Well, they might give Dazzle back. Ah, the buzz is she's got one more show to turn it around."
+56840,233,284,1159000,Apu Nahasapeemapetilon,Springfield Police Station,"Well, if the police won't help us, we'll simply have to take the law into our own hands."
+56841,233,285,1163000,Chief Wiggum,Springfield Police Station,"Yeah, yeah, a lot of people are doing that these days."
+56843,233,287,1175000,Apu Nahasapeemapetilon,Springfield Zoo,These animals certainly act different at night.
+56846,233,290,1189000,Apu Nahasapeemapetilon,Springfield Zoo,"Oh, my little treasures. We'll get you out of this terrible place."
+56847,233,291,1196000,Apu Nahasapeemapetilon,Springfield Zoo,She's waking up!
+56848,233,292,1197000,Homer Simpson,Springfield Zoo,Don't worry. I brought some chloroform.
+56849,233,293,1201000,Homer Simpson,Springfield Zoo,There... and... there...
+56850,233,294,1202000,Apu Nahasapeemapetilon,Springfield Zoo,"You idiot, those are Colorforms."
+56852,233,296,1208000,Apu Nahasapeemapetilon,Springfield Zoo,Nabendu... Pria... and Sashi... Now let's go!
+56854,233,298,1220000,Homer Simpson,Springfield Zoo,"Okay, this is gettin' weird."
+56856,233,300,1227000,Manjula Nahasapeemapetilon,Simpson Living Room,"Oh, my precious babies! We'll never let you go."
+56857,233,301,1231000,Apu Nahasapeemapetilon,Simpson Living Room,"Oh, let's get that awful thing off!"
+56858,233,302,1234000,Apu Nahasapeemapetilon,Simpson Living Room,"Okay, whatever."
+56859,233,303,1236000,Christopher,Simpson Living Room,"Hold it right there, scumbags!"
+56861,233,305,1241000,Homer Simpson,Simpson Living Room,"Please, Mr. Kidkill, look into your heart. I know these babies have a lifetime contract. But what if I put together an even better act for you? Something sensational!"
+56862,233,306,1252000,ZOO OWNER,Simpson Living Room,"It's not just you prancin' around in a monkey suit, is it?"
+56863,233,307,1255000,Homer Simpson,Simpson Living Room,Not any more!
+56864,233,308,1257000,ZOO OWNER,Simpson Living Room,You got yourself a deal.
+56867,233,311,1264000,Butch Patrick,Springfield Zoo,Quiet! You're breaking character.
+56868,233,312,1269000,Lisa Simpson,Springfield Zoo,Are those real cobras?
+56869,233,313,1271000,Bart Simpson,Springfield Zoo,"Some are real, some are just robots filled with venom."
+56870,233,314,1271000,Apu Nahasapeemapetilon,Springfield Zoo,"Now, that is a true friend."
+56871,233,315,1276000,Manjula Nahasapeemapetilon,Springfield Zoo,"You know, if he can handle that, maybe we can handle this bunch."
+56872,233,316,1280000,Apu Nahasapeemapetilon,Springfield Zoo,"We'll do our best, Chutney-Butt."
+56873,233,317,1284000,Homer Simpson,Springfield Zoo,"Okay, okay... don't panic. Release the mongoose!"
+56875,233,319,1301000,Homer Simpson,Springfield Zoo,Stupid mongoose! get the snake! The snake! Do I look like a snake? Ow! Ow! He bit me Show's over! Show's over! Next show is eight o'clock and ten!

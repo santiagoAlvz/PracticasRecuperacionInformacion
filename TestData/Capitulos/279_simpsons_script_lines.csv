@@ -1,0 +1,218 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+70652,279,2,64000,Comic Book Guy,Bedroom,"Oh Jar Jar, everyone hates you but me."
+70658,279,7,110000,Bart Simpson,Simpson Home,"Cool, Mom's on drugs. If we turn her in we get a form letter from Dick Cheney!"
+70659,279,8,115000,Lisa Simpson,Simpson Home,She's not on drugs. She couldn't sleep because of Dad's chronic snoring.
+70660,279,9,119000,Marge Simpson,Simpson Home,I'm taking him to Dr. Hibbert's this afternoon. You know how hard it is to get a doctor on Wednesday morning.
+70664,279,13,135000,Marge Simpson,Dr. Hibbert's Office,I haven't lost so much sleep since little Barty had the scoots.
+70665,279,14,138000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Well, there's a surgical option, but it's not cheap. Here's what it costs."
+70666,279,15,144000,Dr. Julius Hibbert,Dr. Hibbert's Office,Interesting. Here's my counter-offer.
+70667,279,16,152000,Dr. Julius Hibbert,Dr. Hibbert's Office,Get out.
+70672,279,21,179000,Marge Simpson,Simpson Car,I'll get it!
+70676,279,25,187000,Bart Simpson,Simpson Car,"Pedals, people."
+70677,279,26,191000,Milhouse Van Houten,Simpson Car,"So Lisa, do you have a date for the Harvest Dance?"
+70678,279,27,195000,Lisa Simpson,Simpson Car,This is not a good time.
+70679,279,28,196000,Milhouse Van Houten,Simpson Car,It's never a good time!
+70682,279,31,201000,Milhouse Van Houten,Patty and Selma's Doorway,Overnight bag... No husband in sight! It's happened!
+70683,279,32,207000,Selma Bouvier,Patty and Selma's Doorway,She left Homer? I'll get the Champale.
+70684,279,33,209000,Patty Bouvier,Patty and Selma's Doorway,And let's get that ring off.
+70685,279,34,211000,Patty Bouvier,Patty and Selma's Doorway,"Whoa, whoa, whoa, Delilah! I didn't leave Homer, and I never will. I just need one night away from his snoring."
+70686,279,35,223000,Patty Bouvier,Patty and Selma's Doorway,"Great, we'll have a girls' night."
+70687,279,36,226000,Patty Bouvier,Patty and Selma's Doorway,No bras!
+70690,279,39,234000,Selma Bouvier,Patty and Selma's Living Room,"Let's catch the tail end of ""Nooky In New York""."
+70691,279,40,237000,Marge Simpson,Patty and Selma's Living Room,Nooky In New York?
+70692,279,41,239000,Patty Bouvier,Patty and Selma's Living Room,It's a cable show about four single women who act like gay men.
+70657,279,42,244000,Marge Simpson,Patty and Selma's Living Room,That sounds great.
+70693,279,43,249000,Marge Simpson,Patty and Selma's Living Room,"If I'm not having sex by the end of this goat-cheese quesadilla, I'm gonna scream."
+70694,279,44,253000,Kristen Davis,Patty and Selma's Living Room,I also enjoy sex.
+70695,279,45,255000,Kim Catrall,Patty and Selma's Living Room,"Since this morning, I've had sex with a New York Knick, two subway cops, and a guy who works on Wall Street."
+70696,279,46,260000,Kristen Davis,Patty and Selma's Living Room,Broker?
+70697,279,47,261000,Sarah Jessica Parker,Patty and Selma's Living Room,"Nah, she's just really sore."
+70698,279,48,267000,Sarah Jessica Parker,Patty and Selma's Living Room,This is so like our lives.
+70699,279,49,269000,Sarah Jessica Parker,Patty and Selma's Living Room,It's like they hid a camera in our apartment.
+70700,279,50,272000,Sarah Jessica Parker,Patty and Selma's Living Room,"Coming up on BHO... it's ""Arli$$!"""
+70702,279,52,277000,Kent Brockman,Patty and Selma's Living Room,"Gentlemen, start your envy. ""Men's Wealth"" Magazine has listed the one hundred richest men in the country. And coming in at number five is Springfield native Artie Ziff!"
+70703,279,53,287000,Patty Bouvier,Patty and Selma's Living Room,Whoa! Your old boyfriend!
+70704,279,54,290000,Marge Simpson,Patty and Selma's Living Room,Please. We went out once.
+70705,279,55,293000,Marge Simpson,Patty and Selma's Living Room,Artie made mega-bucks with a revolutionary invention -- a converter that changes that horrible modem noise into easy-listening music.
+70706,279,56,304000,ARTIE,Patty and Selma's Living Room,Also available with lyrics!
+70707,279,57,306000,ARTIE,Patty and Selma's Living Room,HEY COMPUTER GEEK / YOU WILL BE CONNECTED IN NO TIME!
+70709,279,59,312000,ARTIE,Patty and Selma's Apartment,What a catch. Why didn't ya sink your claws into him at the prom?
+70710,279,60,316000,Selma Bouvier,Patty and Selma's Apartment,"Yeah, he was warm for your form."
+70711,279,61,318000,Selma Bouvier,Patty and Selma's Apartment,"Well, he seemed like a sweet little shrimp..."
+70712,279,62,321000,Marge Simpson,Patty and Selma's Apartment,...but then he turned into an octopus!
+70713,279,63,325000,Marge Simpson,Patty and Selma's Apartment,"Artie. Artie, no. Stop."
+70714,279,64,326000,ARTIE,Patty and Selma's Apartment,"Marge, Marge, you know you can't resist my busy hands."
+70715,279,65,329000,Marge Simpson,Patty and Selma's Apartment,"Artie, get off of me."
+70716,279,66,333000,Marge Simpson,Patty and Selma's Apartment,"Well, I think you should get in touch with him. You know, just to congratulate him on his success."
+70717,279,67,340000,Marge Simpson,Patty and Selma's Apartment,"Well, I suppose I could write him a letter..."
+70718,279,68,344000,Patty Bouvier,Patty and Selma's Apartment,"Are you nuts? E-mail, female."
+70719,279,69,348000,Selma Bouvier,Patty and Selma's Apartment,You just tell us what you wanna say.
+70720,279,70,352000,Marge Simpson,Patty and Selma's Apartment,"Okay, hold onto your hats. ""Dear Artie..."""
+70721,279,71,358000,Patty Bouvier,Patty and Selma's Apartment,Dear Hottie...
+70722,279,72,359000,Marge Simpson,Patty and Selma's Apartment,Congratulations on your recent TV appearance.
+70723,279,73,363000,Patty Bouvier,Patty and Selma's Apartment,"""I wanna sex you up. Your love slave, Marge."""
+70724,279,74,368000,Marge Simpson,Patty and Selma's Apartment,"You can't use the word ""sex"" on the internet."
+70725,279,75,370000,Patty Bouvier,Patty and Selma's Apartment,Watch me.
+70728,279,78,386000,Marge Simpson,ARTIE ZIFF'S MANSION,"Anti-trust suit... anti-trust suit... A note from Marge Simpson? Well, isn't that a coincidence? I was just thinking about her..."
+70729,279,79,398000,Marge Simpson,ARTIE ZIFF'S MANSION,For the last twenty years!
+70732,279,82,409000,Lisa Simpson,Simpson Home,"Mom, did you sleep well at your sisters'?"
+70733,279,83,415000,Marge Simpson,Simpson Home,Mm-hmmm!
+70735,279,85,415000,Lisa Simpson,Simpson Home,Mmmmm.
+70736,279,86,415000,Marge Simpson,Simpson Home,For you. For you.
+70737,279,87,417000,Bart Simpson,Simpson Home,Ooooh.
+70738,279,88,420000,Homer Simpson,Simpson Home,"Here's to a happy, well-rested Marge!"
+70739,279,89,426000,Lisa Simpson,Simpson Home,"Hey, a helicopter's landing on our lawn!"
+70740,279,90,429000,Bart Simpson,Simpson Home,Let's approach with caution!
+70741,279,91,435000,Homer Simpson,Simpson Home,Unguarded breakfasts -- the sweetest taboo.
+70743,279,93,446000,ARTIE,Simpson Home,"Well, well, Marge Bouvier."
+70744,279,94,449000,Marge Simpson,Simpson Home,"Artie Ziff? Ohh, oh, that e-mail. Look, I got a little drunk and we..."
+70745,279,95,454000,ARTIE,Simpson Home,I'm not surprised you want me back in your life. You can't spell party without Artie... if you misspell party... or Artie. How ya doin'?
+70746,279,96,464000,Marge Simpson,Simpson Home,"Look, it's great to see you, but you should know I'm happily married."
+70747,279,97,468000,ARTIE,Simpson Home,Married?! Was it consummated?
+70748,279,98,470000,Marge Simpson,Simpson Home,Pretty much. Yeah.
+70749,279,99,474000,Homer Simpson,Simpson Home,What's goin' on?
+70750,279,100,475000,Marge Simpson,Simpson Home,"Homer, don't talk with your mouth full. I've told you before, it's rude."
+70751,279,101,478000,ARTIE,Simpson Home,Oho! Trouble in paradise.
+70752,279,102,483000,Homer Simpson,Simpson Home,"Hey Marge, it's that guy who couldn't get any off ya."
+70753,279,103,487000,ARTIE,Simpson Home,How would you all like to take a ride with me?
+70754,279,104,489000,ARTIE,Simpson Home,"Eh, you're the old flame."
+70757,279,107,494000,ARTIE,STERN OF A YACHT,"Homer, Marge, I have a rather delicate proposition."
+70758,279,108,498000,Homer Simpson,STERN OF A YACHT,"Spill it, moneybags."
+70759,279,109,501000,ARTIE,STERN OF A YACHT,"Yes, I do have everything. But yet I often wonder what life with Marge would have been like."
+70760,279,110,507000,Homer Simpson,STERN OF A YACHT,"It's like being married to my best friend, and he lets me feel his boobs."
+70761,279,111,512000,Marge Simpson,STERN OF A YACHT,Homie!
+70762,279,112,513000,ARTIE,STERN OF A YACHT,"Homer, I will give you one million dollars to let me spend a weekend alone with your wife."
+70763,279,113,520000,Homer Simpson,STERN OF A YACHT,"Hm, a million dollars? Wait a minute. How much sex would be involved? 'Cause if it's ""some""..."
+70764,279,114,528000,ARTIE,STERN OF A YACHT,"No, no, no. All I want is to show her what life would be like had she chosen me."
+70765,279,115,534000,Marge Simpson,STERN OF A YACHT,"Artie, that's a sick idea. Come on, Homer, we're leaving."
+70766,279,116,541000,ARTIE,STERN OF A YACHT,Just think about it!
+70767,279,117,545000,Captain Horatio McCallister,STERN OF A YACHT,"You'll win her yet, Artie. I mean, eh, Arr-tie."
+70768,279,118,552000,Lisa Simpson,STERN OF A YACHT,"Hey, where's our parents?"
+70770,279,120,558000,Homer Simpson,Simpson Home,"Hey Marge, I just thought of something."
+70771,279,121,561000,Marge Simpson,Simpson Home,What?
+70772,279,122,562000,Homer Simpson,Simpson Home,"If we had Artie's money, I could get that snoring surgery. Plus at least two of those other surgeries I desperately need."
+70773,279,123,569000,Marge Simpson,Simpson Home,"No way, no how! I'll get used to the snoring, just like I got used to saying ""Courtney Cox-Arquette""."
+70774,279,124,577000,Marge Simpson,Simpson Home,"Besides, I like some of the noises you make in bed."
+70775,279,125,585000,Homer Simpson,Simpson Home,One squeaking-spring symphony coming up.
+70777,279,127,594000,Marge Simpson,Master Bedroom,"Wow! Homer, that was amazing."
+70778,279,128,598000,Homer Simpson,Master Bedroom,"Yeah, I..."
+70779,279,129,610000,Homer Simpson,Master Bedroom,"Honey, did you get any sleep?"
+70780,279,130,614000,Homer Simpson,Master Bedroom,"Oh, I'm so sorry."
+70781,279,131,618000,Marge Simpson,Master Bedroom,Are you snoring while you're awake?
+70782,279,132,621000,Homer Simpson,Master Bedroom,Uh huh.
+70783,279,133,624000,Marge Simpson,Master Bedroom,You need that surgery. We'll have to call Artie.
+70785,279,135,630000,Homer Simpson,Simpson Backyard,"Okay Ziff, you get her for the weekend, but no funny stuff."
+70786,279,136,630000,Homer Simpson,Simpson Backyard,"And by funny stuff I mean handholding, goo goo eyes, misdirected woo -- which is pretty much any John Woo film--"
+70787,279,137,643000,ARTIE,Simpson Backyard,Your wife's virtue shall remain as untouched as Bill Gates' weight room.
+70788,279,138,649000,Marge Simpson,Simpson Backyard,"Remember, Homie. I'm doing this for us. See you on Monday."
+70791,279,141,670000,Homer Simpson,Moe's Tavern,"This round's on me, Moe. I got a big payday comin'."
+70792,279,142,674000,Homer Simpson,Moe's Tavern,Yeah. Homer sold his wife for a million bucks.
+70793,279,143,677000,Homer Simpson,Moe's Tavern,I didn't sell her. I just rented her to an old boyfriend.
+70794,279,144,682000,Homer Simpson,Moe's Tavern,"Gee, a million bucks, that's gonna buy him a lot of, uh... Swings in the old battin' cage."
+70795,279,145,689000,Lenny Leonard,Moe's Tavern,Looks like everyone's a winner. Marge gets a great new life...
+70796,279,146,693000,Carl Carlson,Moe's Tavern,And you get more sprawl space on the bed.
+70797,279,147,696000,Homer Simpson,Moe's Tavern,"Wait, you really think Marge is gonna fall for this guy? Even after I bought her that hockey-fight tape?"
+70798,279,148,702000,Carl Carlson,Moe's Tavern,I'd dump your ass.
+70799,279,149,703000,Lenny Leonard,Moe's Tavern,Me too.
+70800,279,150,704000,Moe Szyslak,Moe's Tavern,"Yeah, I can't get Artie out of my head. He's like a spy in the house of Moe."
+70801,279,151,708000,Homer Simpson,Moe's Tavern,"Oh God, you're right. I've gotta get her back before it's too late."
+70802,279,152,721000,Homer Simpson,Moe's Tavern,That's enough running.
+70804,279,154,721000,Marge Simpson,ARTIE ZIFF'S ESTATE,"Hello, Artie."
+70805,279,155,722000,Marge Simpson,ARTIE ZIFF'S ESTATE,Where are you taking me?
+70806,279,156,724000,ARTIE,ARTIE ZIFF'S ESTATE,We're taking a trip through time.
+70807,279,157,727000,Marge Simpson,ARTIE ZIFF'S ESTATE,Forwards?
+70808,279,158,728000,ARTIE,ARTIE ZIFF'S ESTATE,No.
+70809,279,159,731000,ARTIE,ARTIE ZIFF'S ESTATE,Backwards! To the sexy '70s...
+70810,279,160,734000,ARTIE,ARTIE ZIFF'S ESTATE,"Oh my God! Artie, it's our senior prom!"
+70811,279,161,746000,Chief Wiggum,ARTIE ZIFF'S ESTATE,I can't believe he's paying us a thousand bucks to pretend it's the seventies.
+70812,279,162,749000,Disco Stu,ARTIE ZIFF'S ESTATE,Disco Stu is working pro bono.
+70813,279,163,754000,ARTIE,ARTIE ZIFF'S ESTATE,"Marge, many years ago, I turned a groovy night into a complete bummer. Tonight, you get the prom you always deserved."
+70814,279,164,765000,Marge Simpson,ARTIE ZIFF'S ESTATE,"Oh, that's very sweet, Artie."
+70815,279,165,768000,ARTIE,ARTIE ZIFF'S ESTATE,"Come, dear. We can dance all night. The band hasn't worked since the wrap party for ""James at 16"". Some say they're cursed!"
+70817,279,167,787000,Homer Simpson,ZIFF ESTATE,"Oh my God, it's our high school prom! And once again I have no date!"
+70622,279,168,793000,Principal Dondelinger,ZIFF ESTATE,Simpson!
+70818,279,169,794000,Homer Simpson,ZIFF ESTATE,"Hello, Dondelinger."
+70819,279,170,795000,Principal Dondelinger,ZIFF ESTATE,"You're not on the guest list, Simpson. Orders of Prom King Ziff. And have you been drinking?"
+70820,279,171,801000,Homer Simpson,ZIFF ESTATE,Just for twenty-five years.
+70821,279,172,803000,Principal Dondelinger,ZIFF ESTATE,"Let's go, mister."
+70823,279,174,808000,Principal Dondelinger,Ballroom,You're very sweet... but no fake prom could make me forget my husband. Sorry.
+70824,279,175,816000,Principal Dondelinger,Ballroom,"Very well, Marge. I see you'll never feel about moi the way I feel about toi. But, before the evening ends, may I request an innocent peck on the cheek?"
+70825,279,176,827000,Principal Dondelinger,Ballroom,Okay.
+70826,279,177,837000,Homer Simpson,Ballroom,"Oh no. If Marge marries Artie, I'll never be born!"
+70828,279,179,852000,Marge Simpson,ARTIE'S HOUSE,"Get off me, you little... nerd!"
+70830,279,181,858000,Marge Simpson,ARTIE'S HOUSE,I knew this weekend was just an excuse to get in my mouth. Keep your money. I'm going home.
+70831,279,182,872000,ARTIE,ARTIE'S HOUSE,Stop looking at me! Keep dancing! Don't you know how to dance? Watch me.
+70832,279,183,888000,Chief Wiggum,ARTIE'S HOUSE,"Ah, he's gonna sleep tonight."
+70834,279,185,892000,Homer Simpson,Moe's Tavern,"Oh guys, it was horrible. I saw Marge kissing a far superior man."
+70835,279,186,898000,Moe Szyslak,Moe's Tavern,"Ah, well if it makes you feel any better, he's probably doin' her right now."
+70836,279,187,904000,Moe Szyslak,Moe's Tavern,"Oh yeah, make me the bad guy."
+70837,279,188,905000,Homer Simpson,Moe's Tavern,"My life here is over. Lenny, how'd you like to leave town with me, and never come back?"
+70838,279,189,913000,Lenny Leonard,Moe's Tavern,Sounds like a plan.
+70839,279,190,914000,Homer Simpson,Moe's Tavern,Then it's settled. We leave Springfield forever.
+70840,279,191,920000,Carl Carlson,Moe's Tavern,What'd I miss? Anything good?
+70842,279,193,927000,Taxi Driver,Simpson Home,That's nine hundred and twelve dollars.
+70843,279,194,929000,Marge Simpson,Simpson Home,Send the bill to Baron Von Kiss-a-lot.
+70844,279,195,931000,Taxi Driver,Simpson Home,No problemo.
+70846,279,197,935000,Butler,German Castle,"This arrived, Herr Baron."
+70847,279,198,938000,German Baron,German Castle,"Okay, who's der vise guy?"
+70849,279,200,942000,Marge Simpson,Simpson Home,"Oh Homie, I'm so glad to see... A tape on the bed?!"
+70852,279,202,952000,Marge Simpson,Bedroom,"Marge, if you're watching this, then it means I've figured out how to work the camera. Last night I crashed a certain fake prom. That's right, Artie Ziff's fake prom."
+70853,279,203,965000,Marge Simpson,Bedroom,Homer was there?
+70854,279,204,966000,Homer Simpson,Bedroom,"I saw something terrible, and I can't even say it so I'll have these two dolls do it for me."
+70855,279,205,972000,Dinosaur Doll,Bedroom,"Kiss me, Artie."
+70856,279,206,975000,Funzo,Bedroom,With pleasure. Homer's a big jerk.
+70857,279,207,981000,Marge Simpson,Bedroom,But I can explain!
+70858,279,208,984000,Homer Simpson,Bedroom,"I'm leaving you, Marge. The next time you see my name will be in the hobo obituaries. Don't worry about the kids -- I'll drop 'em off with Patty and Selma."
+70859,279,209,992000,Homer Simpson,Bedroom,Patty and Selma? Screw that!
+70860,279,210,994000,Homer Simpson,Bedroom,"Just run the camera, you little..."
+70861,279,211,999000,Homer Simpson,Bedroom,"Goodbye, my darling."
+70864,279,214,1019000,Homer Simpson,Bus,"Oh, it's no good. Everything reminds me of Marge."
+70865,279,215,1029000,Lenny Leonard,Bus,I know what you're going through. We're coming up on Mount Carlmore.
+70866,279,216,1036000,Lenny Leonard,Bus,I carved that one wonderful summer.
+70867,279,217,1038000,Homer Simpson,Bus,What did Carl think?
+70868,279,218,1040000,Lenny Leonard,Bus,"You know, we've never discussed it."
+70870,279,220,1059000,Homer Simpson,Highway,Do you have any jobs for a man who wants to die? Something indoorsy.
+70871,279,221,1063000,Lenny Leonard,Highway,Close to a bathroom.
+70872,279,222,1064000,One-armed Man,Highway,"I'll put you on rig thirteen, as soon as they burn off the corpses."
+70873,279,223,1069000,Homer Simpson,Highway,"This job'll be perfect. I'm gonna leave this world the way I entered it -- dirty, screaming and torn away from the woman I love."
+70874,279,224,1077000,Lenny Leonard,Highway,"Ho, ho. Quick and pointless, that's the death for me."
+70876,279,226,1081000,Bart Simpson,Simpson Home,"Thank you, you've been very helpful."
+70877,279,227,1083000,Bart Simpson,Simpson Home,"Dad just got a library card in West Springfield. He checked out ten books on oil rigging and a book called ""Dying for Dummies."""
+70878,279,228,1090000,Lisa Simpson,Simpson Home,He must have taken a job in the West Springfield oil patch. That's practically a death sentence!
+70879,279,229,1095000,Grampa Simpson,Simpson Home,What happened now? Homer bowled a three hundred game?
+70881,279,230,1099000,Marge Simpson,Simpson Home,"Grampa, that happened a year and a half ago! We have to go save Homer."
+70882,279,231,1104000,Lisa Simpson,Simpson Home,But West Springfield's three times the size of Texas. We'll never find him there.
+70883,279,232,1110000,Marge Simpson,Simpson Home,Unless...
+70886,279,235,1115000,Marge Simpson,Helicopter,I really appreciate you helping me find Homer.
+70887,279,236,1117000,ARTIE,Helicopter,"Think nothing of it, Marge. I hope we can always be friends."
+70888,279,237,1121000,Marge Simpson,Helicopter,Of course.
+70889,279,238,1122000,ARTIE,Helicopter,With privileges?
+70890,279,239,1126000,Marge Simpson,Helicopter,Does that work on anyone?
+70891,279,240,1128000,ARTIE,Helicopter,No. But when it does... hello!
+70894,279,243,1141000,Homer Simpson,BOTTOM OF OIL DERRICK,Another oil well successfully capped.
+70895,279,244,1144000,Lenny Leonard,BOTTOM OF OIL DERRICK,Let's raise our goggles in triumph!
+70898,279,247,1164000,Homer Simpson,BOTTOM OF OIL DERRICK,Oh no! This is how Faceless Joe lost his legs!
+70899,279,248,1174000,Lenny Leonard,BOTTOM OF OIL DERRICK,"Looks like we're goners. Oh well, circle of life."
+70900,279,249,1180000,Homer Simpson,BOTTOM OF OIL DERRICK,Marge?!
+70901,279,250,1185000,Marge Simpson,BOTTOM OF OIL DERRICK,Climb up!
+70902,279,251,1188000,Lenny Leonard,BOTTOM OF OIL DERRICK,"Ain't ya comin', Homer?"
+70903,279,252,1190000,Homer Simpson,BOTTOM OF OIL DERRICK,Why? So I can watch my wife spend the rest of her life in the arms of another man? I don't think so. Good day.
+70904,279,253,1197000,Marge Simpson,BOTTOM OF OIL DERRICK,"But, Homer..."
+70905,279,254,1198000,Homer Simpson,BOTTOM OF OIL DERRICK,"We said ""Good day""!"
+70906,279,255,1207000,ARTIE,BOTTOM OF OIL DERRICK,"Listen to me, Homer. You've won. You own Marge's heart. And that's something I could never buy."
+70907,279,256,1213000,Homer Simpson,BOTTOM OF OIL DERRICK,Woo hoo!
+70908,279,257,1216000,Lenny Leonard,BOTTOM OF OIL DERRICK,There's nothing on that helicopter for me.
+70909,279,258,1218000,Carl Carlson,BOTTOM OF OIL DERRICK,Don't be so sure.
+70910,279,259,1221000,Lenny Leonard,BOTTOM OF OIL DERRICK,Carl Carlson!
+70912,279,261,1230000,Homer Simpson,Simpson Home,"Artie, thanks for saving my life. Now, I believe there's a little matter of the million dollars..."
+70913,279,262,1236000,Marge Simpson,Simpson Home,We can't take his money.
+70914,279,263,1239000,Homer Simpson,Simpson Home,"Oh, I can't take his money... I can't print my own money... I have to work for money... Why don't I just lie down and die?"
+70916,279,264,1247000,ARTIE,Simpson Home,"Now Homer, if there's one thing you should have learned from all this, it's that I'm rich, rich, rich! And now, I bid you adieu!"
+70918,279,266,1262000,ARTIE,Helicopter,I'm Artie Ziff!
+70920,279,268,1266000,Homer Simpson,Simpson Home,"I gotta hand it to Artie Ziff, Marge. That little nerd saved my life."
+70921,279,269,1271000,Marge Simpson,Simpson Home,"And our marriage, with his latest invention -- the snore converter."
+70922,279,270,1277000,Marge Simpson,Simpson Home,"Goodnight, Homie."
+70923,279,271,1279000,Homer Simpson,Simpson Home,"Goodnight, honey."
+70924,279,272,1293000,ARTIE,Simpson Home,"He's a loser, Marge, dump him."
+70925,279,273,1295000,ARTIE,Simpson Home,I TRAVELED THE WORLD AND THE SEVEN SEAS
+70926,279,274,1299000,ARTIE,Simpson Home,I AM WATCHING YOU THROUGH A CAMERA!

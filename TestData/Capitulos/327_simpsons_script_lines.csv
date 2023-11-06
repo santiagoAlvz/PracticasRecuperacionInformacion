@@ -1,0 +1,218 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+84231,327,2,81000,Homer Simpson,GOOGOLPLEX TICKET WINDOW,The Wild Dingleberries?
+84232,327,3,83000,Lisa Simpson,GOOGOLPLEX TICKET WINDOW,It's a movie version of a cartoon family you can see for free on TV.
+84233,327,4,88000,Bart Simpson,GOOGOLPLEX TICKET WINDOW,But they stretched out the plot and added a wildebeest... from the hood!
+84234,327,5,91000,Homer Simpson,GOOGOLPLEX TICKET WINDOW,I am so there!
+84235,327,6,92000,Ticket Vendor,GOOGOLPLEX TICKET WINDOW,"Sorry, pally, the Dingleberries are sold out. But looking at you, I'm sure your kids are used to disappointment."
+84236,327,7,98000,Homer Simpson,GOOGOLPLEX TICKET WINDOW,"How 'bout ""Diet Coke -- the Movie?""... ""President Air Bud: Tail To The Chief?""... ""My Big Fat Greek Salad?"""
+84237,327,8,104000,Ticket Vendor,GOOGOLPLEX TICKET WINDOW,"Sold out... Sorry... Not a movie. The only movies starting now are ""The Re-deadening"" and ""Teenage Sex Wager."""
+84238,327,9,109000,Homer Simpson,GOOGOLPLEX TICKET WINDOW,"Ooh, well, I am curious to see if those teens lose their virginity. And the wager only sweetens the deal."
+84239,327,10,115000,Rod Flanders,GOOGOLPLEX TICKET WINDOW,"Mr. Simpson, that movie is condemned by our church's movie guide."
+84240,327,11,119000,Homer Simpson,GOOGOLPLEX TICKET WINDOW,What Would Jesus View?
+84241,327,12,121000,Bart Simpson,GOOGOLPLEX TICKET WINDOW,Refresh my memory. These dweebs are with us why?
+84242,327,13,124000,Lisa Simpson,GOOGOLPLEX TICKET WINDOW,Because Mr. Flanders volunteered to take the senior citizens out for ice cream.
+84244,327,15,131000,Grampa Simpson,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,"This ice cream's too cold! Oh, I cut myself on the cone!"
+84245,327,16,137000,Ned Flanders,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,"Now now, remember why we're here: to celebrate Jasper's birthday."
+84246,327,17,143000,Squeaky-Voiced Teen,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,Birthday?
+84247,327,18,148000,M.C. Safety,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,"Yo, yo, yo give it up for M.C. Birthday! I SAY A BIRTH, A DAY, A BIRTH-A-DEE-DAY! / NOW MY GOOD-TIME GANG WILL BLOW YOU AWAY!"
+84250,327,20,158000,Grampa Simpson,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,Never leave the day room! Never leave the day room! Never leave the day room!
+84252,327,22,164000,Homer Simpson,GOOGLEPLEX,"Okay kids, forget the movie. We'll just go to the furniture store and sit down."
+84253,327,23,168000,Carl Carlson,GOOGLEPLEX,"Ah, two for ""The Re-deadening,"" please."
+84254,327,24,171000,Homer Simpson,GOOGLEPLEX,"""The Re-deadening""? Is that any good?"
+84255,327,25,173000,Lenny Leonard,GOOGLEPLEX,Good? I'm in it! I had a small speaking role.
+84256,327,26,176000,Carl Carlson,GOOGLEPLEX,"Yeah, I went to visit him and was banned from the set!"
+84257,327,27,179000,Lisa Simpson,GOOGLEPLEX,"Mr. Leonard, how'd you get in a movie?"
+84258,327,28,181000,Lenny Leonard,GOOGLEPLEX,Classic Hollywood story -- the director saw my photo in a medical book.
+84259,327,29,186000,Homer Simpson,GOOGLEPLEX,"Hey Lenny, is your film appropriate for kids?"
+84260,327,30,188000,Lenny Leonard,GOOGLEPLEX,"Oh yeah, there are lots of kids in it! They fall victim to a vicious--"
+84261,327,31,192000,Homer Simpson,GOOGLEPLEX,"Don't ruin it for me! One adult and four children for ""The Re-deadening."""
+84264,327,34,205000,Creepy Little Girl,DARK HALLWAY,"What's that, Baby Button-Eyes...? You want me to kill Mummy?"
+84265,327,35,211000,Creepy Little Girl,DARK HALLWAY,But Mummy is ever so kind... What? Your buttons came from the trousers of a psychotic killer? Then I have no choice.
+84267,327,37,227000,Homer Simpson,DARK HALLWAY,"Hey, I paid for this popcorn and I'm eating it."
+84268,327,38,231000,Todd Flanders,DARK HALLWAY,"Mr. Simpson, I'm scared."
+84269,327,39,234000,Homer Simpson,DARK HALLWAY,"Relax, stupid. Everything you see is make believe. Although it is based on a true story. Some of which happened in this very theater."
+84272,327,42,249000,Lenny Leonard,Theater,"Ooh, ooh, here comes my part."
+84274,327,44,254000,Lenny Leonard,CREEPY GARDEN,Baby Button-Eyes? What are you doing possessed at this hour? I'd better tell the governess.
+84275,327,45,262000,Lenny Leonard,CREEPY GARDEN,"Oh God, the prophecy has been fulfilled!"
+84276,327,46,270000,Lenny Leonard,CREEPY GARDEN,"The buttons look like they're sewn to my eyes, but they're really held on with hot wax."
+84277,327,47,274000,Lisa Simpson,CREEPY GARDEN,"Dad, I don't like this movie. Can we go home?"
+84278,327,48,278000,Homer Simpson,CREEPY GARDEN,"Oh honey, don't be scared. Look, they killed the evil doll."
+84280,327,50,285000,Homer Simpson,CREEPY GARDEN,"Well, what do you know? It's unkillable."
+84281,327,51,289000,Homer Simpson,CREEPY GARDEN,"Honey, can daddy rest his soda on your head?"
+84282,327,52,292000,Homer Simpson,CREEPY GARDEN,That's my girl.
+84284,327,54,301000,Marge Simpson,Simpson Home,"You took little children to ""The Re-Deadening""?!"
+84286,327,56,304000,Marge Simpson,Dining Room,"Homer, this is a rare lapse in judgment for you."
+84287,327,57,308000,Homer Simpson,Dining Room,But scaring kids is good for them. It hardens them against future terrors -- like roofing and driveway scams.
+84289,327,59,318000,Homer Simpson,Dining Room,Sorry. I forgot I bought the soundtrack album.
+84291,327,61,324000,Marge Simpson,Simpson Home,"Honey, I know you're scared. But there's no boogie woogies or wooly bullies out there."
+84292,327,62,333000,Marge Simpson,Simpson Home,"Oh, your nightlight's burned out. And the only bulbs we have left are these red ones."
+84294,327,64,345000,Lisa Simpson,Lisa's Bedroom,"It was only a movie, filmed in Vancouver, with Donald Sutherland as the priest who stopped believing..."
+84297,327,67,357000,Mysterious Noise,Bart's Bedroom,Achem! Achem! ACHEM!
+84299,327,69,362000,Lisa Simpson,Simpson Home,Both of us heard mysterious noises coming from this very spot.
+84300,327,70,366000,Lisa Simpson,Simpson Home,Bart and I will explore the attic until we find their source.
+84301,327,71,372000,Lisa Simpson,Simpson Home,"Must be the pipes. What do you think, Bart?"
+84302,327,72,375000,Bart Simpson,Simpson Home,"I think you're on your own, toots!"
+84303,327,73,378000,Lisa Simpson,Simpson Home,Okay. I'll just stay calm and approach this scientifically.
+84304,327,74,384000,Lisa Simpson,Simpson Home,"Oh God, oh God. Oh nooo. If I don't make it out alive, I love you, Mom and Dad. Maggie, you can have my books. And Bart, I'll see you in Hell, you booger-eating wuss. That's right, we all know!"
+84305,327,75,401000,Lisa Simpson,Simpson Home,Bones!
+84306,327,76,407000,Lisa Simpson,Simpson Home,Copyright Pink Pony Productions. Visit us on the web at Lisathemovie.com.
+84307,327,77,417000,Marge Simpson,Simpson Home,"Homie, that Kojak is sexier than Cannon and Barnaby Jones put together. I think he looks a little like you."
+84308,327,78,427000,Homer Simpson,Simpson Home,"Who loves ya, baby?"
+84309,327,79,430000,Marge Simpson,Simpson Home,"How about a little ""interrogation?"""
+84310,327,80,434000,Homer Simpson,Simpson Home,Okay. You have the right to remain sexy. Anything you touch can and will be held against you in a court of sex. If you cannot afford a sex-torney--
+84311,327,81,445000,Lisa Simpson,Simpson Home,Mom! Dad! There's a ghost in the house!
+84312,327,82,448000,Marge Simpson,Simpson Home,Good. Can you play with him for half an hour?
+84314,327,84,453000,Homer Simpson,Simpson Home,"I don't see any ghost. I did find this Newsweek from 1986: ""Why America Loves Saddam Hussein."""
+84315,327,85,455000,Homer Simpson,Simpson Home,"That's it. It's one thing for a ghost to terrorize my children, but quite another for him to play my theremin."
+84316,327,86,489000,Artie Ziff,Simpson Home,"Hello, Simpsons!"
+84317,327,87,491000,Marge Simpson,Simpson Home,Artie Ziff!
+84318,327,88,493000,Artie Ziff,Simpson Home,None other! I've been hiding in your attic -- living off the moisture I can suck from the rafters!
+84319,327,89,501000,Homer Simpson,Simpson Home,I thought we killed him!
+84320,327,90,502000,Marge Simpson,Simpson Home,No we didn't.
+84321,327,91,503000,Homer Simpson,Simpson Home,But I did delete him from my bulk email list.
+84322,327,92,506000,Marge Simpson,Simpson Home,No you didn't.
+84323,327,93,507000,Artie Ziff,Simpson Home,That's right. Twice a week I get your email of the monkey peeing in his own mouth.
+84324,327,94,511000,Homer Simpson,Simpson Home,Oh yeah. That monkey got America through some tough times.
+84326,327,96,522000,Marge Simpson,Simpson Living Room,Artie Ziff! Why are you living in our attic?
+84327,327,97,527000,Artie Ziff,Simpson Living Room,Let me explain. I was an internet billionaire.
+84328,327,98,530000,Bart Simpson,Simpson Living Room,Say no more.
+84329,327,99,531000,Artie Ziff,Simpson Living Room,"I would stop, but I love my voice!"
+84330,327,100,534000,Artie Ziff,Simpson Living Room,"It was the go-go nineties...and I was partying with Newt Gingrich, Janeane Garofalo and Scottie Pippen."
+84331,327,101,547000,Artie Ziff,Simpson Living Room,Everyone loved my corporation. And then the bubble burst.
+84332,327,102,555000,Artie Ziff,Simpson Living Room,Wait! Don't go! My stock will have a slight rebound in two thousand three!
+84333,327,103,559000,Artie Ziff,Simpson Living Room,I had nothing...
+84335,327,105,569000,Artie Ziff,ARTIE ZIFF'S MANSION,They even took my repo vans.
+84336,327,106,572000,Artie Ziff,ARTIE ZIFF'S MANSION,I had nowhere to go. So I came here because Marge is the closest thing I've ever had to true love.
+84337,327,107,578000,Marge Simpson,ARTIE ZIFF'S MANSION,We had one date. And you were not a gentleman.
+84338,327,108,584000,Artie Ziff,ARTIE ZIFF'S MANSION,"Don't worry, if you let me stay, I'll be on my best behavior. Not even a fresh remark. Except this one: wowie wow, wow, wow! Zazooga!"
+84339,327,109,595000,Marge Simpson,ARTIE ZIFF'S MANSION,"I don't know, Artie..."
+84340,327,110,597000,Artie Ziff,ARTIE ZIFF'S MANSION,"Forgive me. I'm just so envious of the happiness you all have. Can I please be part of it, just 'til I get back on my feet?"
+84341,327,111,606000,Homer Simpson,ARTIE ZIFF'S MANSION,No way! He's an annoying sneak who's out to steal my wife.
+84342,327,112,609000,Bart Simpson,ARTIE ZIFF'S MANSION,"Come on, Dad. With his brains and your musky smell, I've got a full male role model."
+84343,327,113,613000,Lisa Simpson,ARTIE ZIFF'S MANSION,And it would be nice to have someone here I can beat up.
+84344,327,114,615000,Artie Ziff,ARTIE ZIFF'S MANSION,No fair! I'm telling!
+84346,327,116,620000,Homer Simpson,ARTIE ZIFF'S MANSION,"Okay kids, you can keep him."
+84347,327,117,622000,Lisa Simpson,ARTIE ZIFF'S MANSION,Yay!
+84350,327,120,625000,Artie Ziff,Simpson Home,"""When she pressed her lips to his forehead and walked out with Denise and Gary into the warm spring night, she felt that nothing could kill her hope now. Nothing."""
+84351,327,121,635000,Lisa Simpson,Simpson Home,"Thanks for reading me ""The Corrections."" It makes me feel better about my own family."
+84352,327,122,642000,Artie Ziff,Simpson Home,Doesn't your father ever read to you?
+84353,327,123,643000,Lisa Simpson,Simpson Home,"He tried once, but he got confused and thought the book was real. He's still looking for that chocolate factory. It consumes him."
+84354,327,124,654000,Bart Simpson,Simpson Home,"Hey, Mom. Can I sleep over at Milhouse's?"
+84355,327,125,656000,Marge Simpson,Simpson Home,I thought you were playing catch with Artie.
+84356,327,126,658000,Bart Simpson,Simpson Home,"Yeah, but after the ice cream man cut up his credit card, he got a little depressed."
+84357,327,127,665000,Marge Simpson,Simpson Home,"Oh my. Well, Homer, maybe you should take him to Moe's."
+84358,327,128,670000,Homer Simpson,Simpson Home,"C'mon, little fella. You're hangin' with me tonight."
+84360,327,130,677000,Homer Simpson,Moe's Tavern,"Guys, I'd like you to meet Artie Ziff."
+84361,327,131,681000,Aristotle,Moe's Tavern,"Hello, handsome!"
+84362,327,132,683000,Artie Ziff,Moe's Tavern,Hello... losers.
+84364,327,134,685000,Kent Brockman,Simpson Home,Coming up: can yodeling cure cancer?
+84365,327,135,688000,Kent Brockman,Simpson Home,"Of course not. But first, where is Artie Ziff?"
+84366,327,136,692000,Kent Brockman,Simpson Home,The S.E.C. wants to know! It seems Ziffcorp spent stockholders' money on everything from marble toothbrushes to solid gold underpants.
+84367,327,137,704000,Kent Brockman,Simpson Home,Small investors have been wiped out.
+84369,327,138,707000,Groundskeeper Willie,Simpson Home,"I lost all me ""screw you"" money."
+84370,327,139,709000,Seymour Skinner,Simpson Home,"I'm very sorry to hear that, Willie."
+84371,327,140,711000,Groundskeeper Willie,Simpson Home,Screw you!
+84372,327,141,712000,Kent Brockman,Simpson Home,Authorities are currently operating under the theory that Ziff is living in a cave somewhere.
+84374,327,143,718000,Lou,PARK AREA,"He's not in here, Chief."
+84375,327,144,720000,Chief Wiggum,PARK AREA,"That's some good spelunking, Lou. Mighty fine spelunkin'."
+84377,327,146,729000,Lenny Leonard,Moe's Tavern,"Okay, read 'em and weep."
+84378,327,147,731000,Artie Ziff,Moe's Tavern,"I don't know why I'm losing. Maybe I have some kind of ""tell."" Hot mamma, I'm livin' in flush-town, population Artie!"
+84379,327,148,741000,Artie Ziff,Moe's Tavern,I guess I'm in for fifty cents.
+84380,327,149,744000,Barney Gumble,Moe's Tavern,I fold. / Me too. / I'm out. / I'm done.
+84381,327,150,747000,Homer Simpson,Moe's Tavern,I'll see your fifty cents and raise you one dollar.
+84383,327,152,755000,Artie Ziff,Moe's Tavern,"Well, I'm out of cash. But would you accept ninety-eight per cent of the outstanding shares of ZiffCorp stock?"
+84384,327,153,760000,Homer Simpson,Moe's Tavern,And the peanuts in your mouth.
+84385,327,154,763000,Artie Ziff,Moe's Tavern,Very well.
+84386,327,155,764000,Artie Ziff,Moe's Tavern,Achem!
+84387,327,156,765000,Homer Simpson,Moe's Tavern,All of them.
+84388,327,157,767000,Artie Ziff,Moe's Tavern,Achem!
+84389,327,158,768000,Artie Ziff,Moe's Tavern,Flush. What have you got?
+84390,327,159,771000,Homer Simpson,Moe's Tavern,Four jacks.
+84391,327,160,777000,Homer Simpson,Moe's Tavern,Check it out! I own a multi-national corporation. I always knew some day I'd be a C.O.D.
+84392,327,161,786000,Sec Agent #1,Moe's Tavern,Freeze! Securities and Exchange Commission!
+84393,327,162,789000,Sec Agent #2,Moe's Tavern,"Artie Ziff, you're wanted for stock manipulation and securities fraud."
+84394,327,163,794000,Sec Agent #1,Moe's Tavern,It's scum like you that undermine investor confidence.
+84395,327,164,797000,Homer Simpson,Moe's Tavern,Investor confidence? Perhaps this affects me -- I own two hundred and thirty million shares of ZiffCorp stock.
+84396,327,165,803000,Sec Agent #1,Moe's Tavern,You're the majority shareholder?
+84397,327,166,804000,Homer Simpson,Moe's Tavern,I sure am -- with all the inherent legal liability.
+84399,327,168,809000,Sec Agent #2,Moe's Tavern,You're under arrest!
+84400,327,169,811000,Moe Szyslak,Moe's Tavern,Wait a minute. How can you arrest Homer? This guy's the one what done the thing that why you're here for. I'm talkin' malfeasance here.
+84401,327,170,818000,Artie Ziff,Moe's Tavern,"All right, I admit it. I did run ZiffCorp into the ground. Then this man took me into his home when no one else would. And now, as a result of his brilliant card playing he's the one you want! Tape his mouth so he can't deny it!"
+84402,327,171,833000,Homer Simpson,Moe's Tavern,Don't tell my kids I'm going to jail! Tell them I've joined the Blue Man Group! I'm the fat one!
+84405,327,174,847000,Committee Chairwoman,CONGRESSIONAL HEARING ROOM,"Homer Simpson, how do you respond to the charge that your company has betrayed the public trust?"
+84406,327,175,853000,Homer Simpson,CONGRESSIONAL HEARING ROOM,Plead the fifth amend-what?
+84407,327,176,856000,Homer Simpson,CONGRESSIONAL HEARING ROOM,Refuse to answer on the grounds that I what?
+84408,327,177,858000,Homer Simpson,CONGRESSIONAL HEARING ROOM,"Inseminate myself? Dudes, I think this guy's comin' on to me."
+84409,327,178,865000,Blue-Haired Lawyer,CONGRESSIONAL HEARING ROOM,"You sir, are a moron."
+84410,327,179,869000,Blue-Haired Lawyer,CONGRESSIONAL HEARING ROOM,"Oh, for heaven's sakes!"
+84411,327,180,870000,Homer Simpson,CONGRESSIONAL HEARING ROOM,"Your majesty, can I go home now?"
+84412,327,181,873000,Committee Chairwoman,CONGRESSIONAL HEARING ROOM,Your company's crimes have left a scar on this great nation. And she was so beautiful. But what man would want her now?
+84414,327,183,882000,Krusty the Clown,CONGRESSIONAL HEARING ROOM,Yeah. She was hot.
+84415,327,184,884000,Marge Simpson,CONGRESSIONAL HEARING ROOM,My husband's going to jail and it's all your fault! Do you know why no one likes you?
+84416,327,185,890000,Artie Ziff,CONGRESSIONAL HEARING ROOM,Anti-Semitism?
+84417,327,186,892000,Marge Simpson,CONGRESSIONAL HEARING ROOM,No. Your problem is you never think of anyone besides yourself.
+84418,327,187,897000,Artie Ziff,CONGRESSIONAL HEARING ROOM,"Marge, I think about a lot more than just moi."
+84419,327,188,900000,Arties,CONGRESSIONAL HEARING ROOM,ARTIE / ARTIE ARTIE / ARTIE / ARTIE ARTIE / ARTIE / ARTIE ARTIE / ZIFF ZIFF ZIFF ZIFF ZIFF ZIFF ZIFF.
+84420,327,189,907000,Artie Ziff,CONGRESSIONAL HEARING ROOM,"Oh my God, she's right."
+84422,327,191,916000,Marge Simpson,Simpson Home,I never want you in this house again!
+84423,327,192,919000,Grampa Simpson,Simpson Home,"If he's out, can I move back in?"
+84424,327,193,921000,Marge Simpson,Simpson Home,"Oh, what do you think?"
+84425,327,194,923000,Grampa Simpson,Simpson Home,And she's the nice one.
+84427,327,196,933000,Marge Simpson,Springfield Prison,"Okay kids, this book should help you deal with your feelings."
+84428,327,197,938000,Lisa Simpson,Springfield Prison,"Look Maggie, it's a pop up! ""Daddy's made a shiv. Can you help him ice Johnny Shakes, the jailhouse stoolie?"""
+84429,327,199,949000,Bart Simpson,Springfield Prison,"Hey, let me read it to her. ""Johnny's friends get some payback on daddy while he's sleeping..."""
+84430,327,200,951000,Bart Simpson,Springfield Prison,Daddy's on fire. Daddy's not on fire. Daddy's on fire. Daddy's not on fire. Daddy's on fire...
+84431,327,201,961000,Marge Simpson,Springfield Prison,Daddy's not on fire.
+84433,327,203,962000,Marge Simpson,Springfield Prison,"Okay, fine, he is."
+84435,327,205,967000,Homer Simpson,Prison Visiting Cubicle,"I miss you guys so much. The smell of Marge's pork chops... the way you kids kiss my ""owies"" when I go boom... This place has become like a prison to me!"
+84436,327,206,980000,Bart Simpson,Prison Visiting Cubicle,"Hey Dad, maybe this'll cheer you up. Why you little..."
+84438,327,208,988000,Homer Simpson,Prison Visiting Cubicle,"Aw, it's no use, son. By the time I get out of here you'll be grown. TURN AROUND / TURN AROUND / TURN AROUND AND YOU'RE A YOUNG MAN / AND YOU'RE TOO BIG TO CHOKE."
+84440,327,210,1011000,Moe Szyslak,Moe's Tavern,"Well, well look who showed his face. The louse who sold out his only friend. You've got a lot of nerve comin' here... but since you did, what'll it be? First one's on the house."
+84441,327,211,1023000,Patty Bouvier,Moe's Tavern,Is this dump open? We were jogging and we ran out of cigarettes.
+84442,327,212,1026000,Artie Ziff,Moe's Tavern,"Pardon me for intruding, but I believe teenage girls shouldn't smoke."
+84444,327,214,1039000,Selma Bouvier,Moe's Tavern,Are you still livin' with Marge?
+84445,327,215,1041000,Artie Ziff,Moe's Tavern,No. She kicked me out for sending her husband to prison.
+84446,327,216,1045000,Selma Bouvier,Moe's Tavern,You put Homer in jail? The hair is standing up on the back of my knees.
+84447,327,217,1051000,Patty Bouvier,Moe's Tavern,"Keep your Odor Eaters on, Selma. I've seen you get hurt too many times."
+84448,327,218,1056000,Selma Bouvier,Moe's Tavern,"I'm not gonna let him into my heart, or my bedroom. Just ten minutes on the beanbag. C'mon, Short Round. We're goin' back to my Temple of Doom."
+84449,327,219,1065000,Artie Ziff,Moe's Tavern,Be gentle!
+84450,327,220,1067000,Moe Szyslak,Moe's Tavern,"You know, they say that the love of a good woman can save any man."
+84451,327,221,1073000,Patty Bouvier,Moe's Tavern,"Except you, freak."
+84452,327,222,1074000,Moe Szyslak,Moe's Tavern,"Well, if you change your mind, you know where I am."
+84453,327,223,1077000,Patty Bouvier,Moe's Tavern,In my nightmares.
+84454,327,224,1079000,Moe Szyslak,Moe's Tavern,I'm gonna stop now.
+84456,327,227,1086000,Selma Bouvier,Patty and Selma's Apartment Building,What the Hell are you doing?
+84458,327,229,1088000,Artie Ziff,Patty and Selma's Apartment,I can't get my socks off.
+84459,327,230,1090000,Selma Bouvier,Patty and Selma's Apartment,Leave 'em on. I like a man with a little mystery.
+84460,327,231,1095000,Artie Ziff,Patty and Selma's Apartment,I'm done.
+84461,327,232,1097000,Selma Bouvier,Patty and Selma's Apartment,My kinda man.
+84462,327,233,1097000,Artie Ziff,Patty and Selma's Apartment,"Wonderful, glorious, magnificent. And you were pretty good, too."
+84464,327,235,1110000,Artie Ziff,Patty and Selma's Apartment,"Selma, you've made a new man of me. Thanks to your angry love I can no longer sit by selfishly while another suffers for my book-cooking."
+84465,327,236,1120000,Selma Bouvier,Patty and Selma's Apartment,What are you gonna do?
+84466,327,237,1121000,Artie Ziff,Patty and Selma's Apartment,"First I'm gonna read the paper, have a little nosh, then I'm gonna rinse out a few things. And then, finally, I will get an innocent man out of jail!"
+84467,327,238,1133000,Selma Bouvier,Patty and Selma's Apartment,"Well, he can't break my heart 'cause he kinda makes me sick. This could work!"
+84468,327,239,1139000,Kent Brockman,Patty and Selma's Apartment,"Artie Ziff shocked investigators today by turning over a second set of books, detailing his own financial culpability, and exonerating stumbling, bumbling boob Homer Simpson. Simpson's grateful family had this to say:"
+84469,327,240,1152000,Marge Simpson,Patty and Selma's Apartment,I'm so happy to be getting my husband back.
+84470,327,241,1155000,Bart Simpson,Patty and Selma's Apartment,And I'm happy to listen to F.M. ninety-five point three. Home of Boomer and the Diz!
+84471,327,242,1160000,Marge Simpson,Patty and Selma's Apartment,Bart!
+84472,327,243,1160000,Bart Simpson,Patty and Selma's Apartment,"Chill out, Mom. They gave me this hat."
+84474,327,245,1167000,Guard,Country Club Prison,"Sorry you were wrongfully imprisoned, Simpson."
+84475,327,246,1169000,Homer Simpson,Country Club Prison,Can I apply my time toward a future crime?
+84476,327,247,1171000,Guard,Country Club Prison,You can either steal a car or kick me in the crotch.
+84477,327,248,1174000,Guard,Country Club Prison,No one ever chooses the car.
+84478,327,249,1178000,Lisa Simpson,Country Club Prison,"Oh Dad, I missed you so much."
+84479,327,250,1184000,Homer Simpson,Country Club Prison,"Oh my God! Maggie, you're talking!"
+84480,327,251,1186000,Artie Ziff,Country Club Prison,"Homer, I believe that's Lisa."
+84481,327,252,1189000,Homer Simpson,Country Club Prison,"Oh Bart, what a man you've become."
+84482,327,253,1193000,Marge Simpson,Country Club Prison,"Artie, thank you for doing the right thing. Eventually."
+84483,327,254,1197000,Artie Ziff,Country Club Prison,All I needed was the love of a good woman. And since you're not interested...
+84368,327,255,1204000,Marge Simpson,Country Club Prison,I'm not.
+84484,327,256,1205000,Artie Ziff,Country Club Prison,Merely checking. Because I'm into that.
+84485,327,257,1209000,Selma Bouvier,Country Club Prison,I'll visit you in two weeks.
+84486,327,258,1219000,Lisa Simpson,Country Club Prison,"I have to admit, I'll miss having him around."
+84487,327,259,1221000,Homer Simpson,Country Club Prison,I don't think we've seen the last of Artie Ziff.
+84488,327,260,1226000,Snake Jailbird,Country Club Prison,"Yo, hobbit. I'm, like, your roommate."
+84489,327,261,1231000,Artie Ziff,Country Club Prison,"Oh, smoker, eh? Well, I have ways of dealing with you."
+84490,327,262,1235000,Artie Ziff,Country Club Prison,"Squirt, squirt, squirt. Your lungs will thank me!"
+84491,327,263,1241000,Marge Simpson,Country Club Prison,"Kids, you'd better take your last look at Uncle Artie."
+84492,327,264,1244000,Artie Ziff,Country Club Prison,"Oh look, there's a whole bunch of you! Squirt, squirt, squirt! That's it, circle around me. Squirt, squirt, squirt, squirt, squirt, squirt, squirt. Oh, I'm gonna need more water!"

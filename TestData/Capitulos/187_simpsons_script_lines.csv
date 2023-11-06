@@ -1,0 +1,276 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+42747,187,1,35000,Homer Simpson,Simpson Home,"Ahh, I love these lazy Saturdays."
+42748,187,2,40000,Marge Simpson,Simpson Home,"It's Wednesday, Homer."
+42749,187,3,42000,Homer Simpson,Simpson Home,Work!
+42750,187,4,46000,Homer Simpson,Simpson Home,"Ahh, I love these real Saturdays. They're so relaxing. Not like that fake Saturday that almost got me fired."
+42751,187,5,59000,Marge Simpson,Simpson Home,Is this all we're going to do today?
+42752,187,6,62000,Homer Simpson,Simpson Home,Absolutely.
+42753,187,7,73000,Marge Simpson,Simpson Home,"You know, Homer, I'm starting to realize life is short."
+42754,187,8,77000,Homer Simpson,Simpson Home,It is?
+42755,187,9,79000,Marge Simpson,Simpson Home,We have to make the most of the time we have.
+42756,187,10,81000,Homer Simpson,Simpson Home,We do?
+42757,187,11,82000,Marge Simpson,Simpson Home,"Otherwise, we could wake up one day and realize we've wasted our whole lives."
+42758,187,12,87000,Homer Simpson,Simpson Home,"Oh, that."
+42759,187,13,94000,Homer Simpson,Simpson Home,Ah.
+42760,187,14,94000,Marge Simpson,Simpson Home,Friends of the Library is holding an historic manuscript viewing.
+42761,187,15,100000,Homer Simpson,Simpson Home,Pfft. Friends of the library?
+42762,187,16,103000,Marge Simpson,Simpson Home,Ooo... Oo! There's an Azalea festival at the public garden!
+42763,187,17,107000,Homer Simpson,Simpson Home,I went yesterday.
+42765,187,19,110000,Homer Simpson,Simpson Home,Lenny really wanted to go.
+42766,187,20,112000,Marge Simpson,Simpson Home,I'm tired of being cooped up in this house all the time!
+42767,187,21,115000,Homer Simpson,Simpson Home,Open a window.
+42769,187,23,118000,Homer Simpson,Simpson Home,"Allll right, I hear ya, honey. Change into something nice. We're steppin' out!"
+42542,187,25,127000,Marge Simpson,Parking Lot,The police auction...
+42770,187,26,130000,Homer Simpson,Parking Lot,Can you believe it? It's already been a year.
+42772,187,28,134000,Homer Simpson,IMPOUND YARD,"Wow, sweetheart. Look at all this seized booty. We could find the drug boat of our dreams!"
+42773,187,29,141000,Marge Simpson,IMPOUND YARD,I don't want a drug boat.
+42774,187,30,143000,Homer Simpson,IMPOUND YARD,"Well, I bet there's drug dresses and drug vacuum cleaners, too!"
+42775,187,31,147000,Chief Wiggum,IMPOUND YARD,"All right, listen up. L-listen up! These prestigious wrought-iron security gates are bullet-proof, bomb-proof, and battering ram-resistant. Now..."
+42776,187,32,158000,Seymour Skinner,IMPOUND YARD,Then what happened to Johnny D?
+42777,187,33,159000,Chief Wiggum,IMPOUND YARD,"He forgot to lock 'em. Now, what am I bid?"
+42778,187,34,162000,SOUTH AMERICAN BIDDER,IMPOUND YARD,One kilo.
+42779,187,35,162000,Chief Wiggum,IMPOUND YARD,Sold!
+42780,187,36,165000,Johnny D,IMPOUND YARD,Aye-aye-aye! My gates! Aye! Johnny C gave me those.
+42781,187,37,170000,Snake Jailbird,IMPOUND YARD,"Tough break, amigo."
+42782,187,38,173000,Chief Wiggum,IMPOUND YARD,Next item up for bids...
+42784,187,40,177000,Snake Jailbird,IMPOUND YARD,Ohhh nooo.
+42785,187,41,180000,Johnny D,IMPOUND YARD,"Oh, hey, look. They're selling your car, man. Boy, it's nice."
+42786,187,42,185000,Snake Jailbird,IMPOUND YARD,"Oh, I will totally kill whoever buys Li'l Bandit!"
+42787,187,43,189000,Chief Wiggum,IMPOUND YARD,Sold!
+42788,187,44,190000,Homer Simpson,IMPOUND YARD,Woo hoo!
+42789,187,45,194000,Marge Simpson,IMPOUND YARD,You bought a car?! Without consulting me?!
+42790,187,46,197000,Homer Simpson,IMPOUND YARD,I don't recall being consulted when you bought that hat.
+42791,187,47,200000,Marge Simpson,IMPOUND YARD,I found this hat!
+42792,187,48,202000,Homer Simpson,IMPOUND YARD,Then what are you complaining about? You got yours. Mm-hm-hm.
+42794,187,50,212000,Marge Simpson,Springfield Streets,"Homer, be careful..."
+42795,187,51,215000,Homer Simpson,Springfield Streets,"Oh, yeah. You've gotta be careful when you do a trick like this...."
+42796,187,52,220000,Marge Simpson,Springfield Streets,"Stop, Homer! Stop it! Let me out!"
+42797,187,53,222000,Homer Simpson,Springfield Streets,You're the boss.
+42798,187,54,226000,Marge Simpson,Springfield Streets,I'm not getting back in this car until you drive like a sane person.
+42799,187,55,230000,Homer Simpson,Springfield Streets,Okay-bye-love-you.
+42800,187,56,238000,Lionel Hutz,Springfield Streets,"You know, if you lived here, you'd be home by now."
+42801,187,57,242000,Marge Simpson,Springfield Streets,Mr. Hutz! I didn't know you sold real estate.
+42802,187,58,245000,Lionel Hutz,Springfield Streets,"You didn't? We should talk more often, Marge."
+42803,187,59,249000,Lionel Hutz,Springfield Streets,"You see, the law business is a little slow, and since most of my clients wind up losing their houses, this was a natural move for me."
+42804,187,60,257000,Marge Simpson,Springfield Streets,Helping people find homes... That must be really rewarding.
+42805,187,61,261000,Lionel Hutz,Springfield Streets,"Yes, the money is good. But the beauty is you get to stay in the house until it's sold."
+42806,187,62,267000,Lionel Hutz,Springfield Streets,"C'mon, guys. Let's go for a swim."
+42808,187,64,272000,Moe Szyslak,Moe's Tavern,"Geez, this hot-rod is souped up six ways from Sunday. Never had you figured for a gear-head, Homer."
+42809,187,65,278000,Homer Simpson,Moe's Tavern,"Oh, yeah. I'm a real expert."
+42810,187,66,281000,Moe Szyslak,Moe's Tavern,What is that? A six-barrel Hollye carb?
+42811,187,67,282000,Homer Simpson,Moe's Tavern,You betcha.
+42812,187,68,282000,Moe Szyslak,Moe's Tavern,Edelbrock intakes...
+42813,187,69,285000,Homer Simpson,Moe's Tavern,Nothin' but.
+42814,187,70,285000,Moe Szyslak,Moe's Tavern,Meyerhof lifters...
+42815,187,71,287000,Homer Simpson,Moe's Tavern,Oh yeah.
+42816,187,72,288000,Moe Szyslak,Moe's Tavern,I made that last one up.
+42817,187,73,289000,Homer Simpson,Moe's Tavern,I see.
+42819,187,75,292000,Marge Simpson,Simpson Home,Selling real estate could be just what I'm looking for. I'd really like to give it a try.
+42820,187,76,297000,Homer Simpson,Simpson Home,"I don't know, Marge. Trying is the first step toward failure."
+42821,187,77,303000,Marge Simpson,Simpson Home,"Oh boy, I've got a lot to learn before that license test."
+42822,187,78,307000,Lisa Simpson,Simpson Home,"Don't worry, Mom. We'll help you study."
+42823,187,79,309000,Bart Simpson,Simpson Home,"'Course, we'll have to cut back on our own homework."
+42824,187,80,311000,Marge Simpson,Simpson Home,"What in the heck is a ""dwelling""?"
+42825,187,81,315000,Marge Simpson,Simpson Home,"So, you're married and you're looking for your first house, Mr. and Mrs..."
+42826,187,82,319000,Bart Simpson,Simpson Home,Superman.
+42827,187,83,320000,Lisa Simpson,Simpson Home,"Oh, don't listen to my husband. He's just an idiot. Now, I'm a veterinarian and I need to keep lots of sick animals in my house. Is that permitted?"
+42828,187,84,330000,Bart Simpson,Simpson Home,Not in my damn house.
+42829,187,85,331000,Marge Simpson,Simpson Home,"Well, this neighborhood is zoned R-3, which allows dogs, cats, phone-answering monkeys, and, oh... Oh I'll never memorize all this."
+42830,187,86,344000,Lisa Simpson,Simpson Home,"When I had to learn about the Magna Carta, I made up a song. ""In 1215 at Runnymede!/ Doo dah, doo dah/ The nobles and the King agreed!/ Oh, d-doo dah day..."""
+42653,187,87,355000,Bart Simpson,Simpson Home,We should have lived together first.
+42832,187,88,357000,Lisa Simpson,Simpson Home,"""On the closing day!/ The escrow agents pay!/ Taxes, liens, and interest, too, thanks to Fannie Mae!"""
+42833,187,89,365000,Bart Simpson,Simpson Home,They back your baaaannk!
+42834,187,90,368000,Homer Simpson,Simpson Home,You're all nuts.
+42837,187,93,380000,Marge Simpson,TEST ROOM,Easement!
+42838,187,94,382000,City Clerk,TEST ROOM,Time's up. You may now undermine each other's confidence.
+42839,187,95,385000,Captain Horatio McCallister,TEST ROOM,Yarrr. I nailed that one about houseboats! Did you?
+42841,187,97,390000,Marge Simpson,Simpson Home,I passed!
+42842,187,98,392000,Lisa Simpson,Simpson Home,Yay!/ Way to go!
+42843,187,99,397000,Marge Simpson,Simpson Home,"Oh, thank you Bart, thank you Lisa, for all your help!"
+42844,187,100,401000,Homer Simpson,Simpson Home,What about me? You didn't thank me.
+42845,187,101,403000,Bart Simpson,Simpson Home,You didn't do anything.
+42846,187,102,404000,Homer Simpson,Simpson Home,I like being thanked.
+42848,187,104,411000,Lionel Hutz,REAL ESTATE OFFICE,"Welcome to the big leagues, Marge. There's over 50 years of real estate experience right in this room. And 42 of those years are Gil's."
+42849,187,105,419000,Gil Gunderson,REAL ESTATE OFFICE,"Marge, it's a real pleasure. You got any leads? I need some leads. Please, help me."
+42850,187,106,425000,Lionel Hutz,REAL ESTATE OFFICE,"That's enough, Gil. Don't drag her down with you."
+42851,187,107,430000,Lionel Hutz,REAL ESTATE OFFICE,That's Cookie Kwan. She's number one on the west side.
+42852,187,108,434000,Cookie,REAL ESTATE OFFICE,"Hi, Marge. Stay off the west side."
+42853,187,109,438000,Lionel Hutz,REAL ESTATE OFFICE,And there's Nick Callahan.
+42854,187,110,440000,Marge Simpson,REAL ESTATE OFFICE,A headset telephone?! I thought those only existed in the movies!
+42855,187,111,447000,Nick,REAL ESTATE OFFICE,Boo-ya! Guess who sold the Whitman place?!
+42856,187,112,450000,Assorted Agents,REAL ESTATE OFFICE,"Good for you, Nick! / H-h-hey! Way to go! / Way to go!"
+42857,187,113,452000,Gil Gunderson,REAL ESTATE OFFICE,I've been working on the Whitman place for 21 years.
+42858,187,114,455000,Lionel Hutz,REAL ESTATE OFFICE,"And now, Marge, I'd like to welcome you to the family, with your very own red blazer."
+42859,187,115,461000,Marge Simpson,REAL ESTATE OFFICE,For me?
+42860,187,116,473000,Assorted Agents,REAL ESTATE OFFICE,"Whoa-ho-ho! / Hey! / Go, Marge!"
+42861,187,117,473000,Marge Simpson,REAL ESTATE OFFICE,"Thank you. Thank you, everybody. I'm going to do my darndest to uphold the principles and ideals this jacket represents."
+42862,187,118,485000,Nick,REAL ESTATE OFFICE,I give her a week.
+42863,187,119,486000,Cookie,REAL ESTATE OFFICE,Are you guys talking about the west side?
+42864,187,120,488000,Gil Gunderson,REAL ESTATE OFFICE,"No, Cookie. I swear it. I'm scared of you."
+42866,187,122,494000,Lisa Simpson,Springfield Street,Ah! Dad! Doesn't this car have seat belts?
+42867,187,123,497000,Homer Simpson,Springfield Street,Seat belts?! Pfft! They kill more people than they save.
+42868,187,124,501000,Lisa Simpson,Springfield Street,That's not true. You're thinking of airbags.
+42869,187,125,504000,Marge Simpson,Springfield Street,There it is!
+42870,187,126,508000,Lisa Simpson,Springfield Street,Wow! / Your own billboard! / Check it out!
+42871,187,127,512000,Homer Simpson,Springfield Street,"Gee, that picture makes your butt look big."
+42872,187,128,515000,Marge Simpson,Springfield Street,"I thought so too, but they said it sells."
+42873,187,129,518000,Bart Simpson,Springfield Street,Works for the Lumber King.
+42874,187,130,522000,Homer Simpson,Springfield Street,Lumber. We need lumber.
+42876,187,132,525000,Marge Simpson,Springfield,"Excuse me, Mr. Szyslak, have you ever considered selling your home?"
+42877,187,133,530000,Moe Szyslak,Springfield,What? No. Why? What? Why? What have you heard? Are you implyin' I'm in some sort of financial trouble?
+42878,187,134,535000,Marge Simpson,Springfield,No.
+42879,187,135,536000,Moe Szyslak,Springfield,"Well, I am. Let me have that card."
+42881,187,137,542000,Marge Simpson,House,"And here we have a lovely gourmet kitchen, with gas range, central can-opener, and foam under-flooring for enhanced standability."
+42882,187,138,551000,Dr. Julius Hibbert,House,"Why, isn't this kitchen horribly cramped?"
+42883,187,139,556000,Marge Simpson,House,"Why, yes it is..."
+42884,187,140,557000,Dr. Julius Hibbert,House,"Well, I suppose we could get used to it."
+42885,187,141,560000,Marge Simpson,House,"Yeah, but you shouldn't have to settle. You know, I've always loved the house you're in now."
+42886,187,142,566000,Dr. Julius Hibbert,House,"Really? Well, maybe we should stay put. Thanks for your honesty, Marge."
+42887,187,143,572000,Marge Simpson,House,My pleasure.
+42888,187,144,573000,Dr. Julius Hibbert,House,"If you ever need a prescription, no questions asked..."
+42889,187,145,584000,Sideshow Mel,House,"Good shot, Barbara! I can't believe it. A house with a bowling alley!"
+42890,187,146,589000,Marge Simpson,House,Do you bowl often?
+42891,187,147,591000,Sideshow Mel,House,"Actually, this is our first time. And I didn't really care for it."
+42892,187,148,595000,Marge Simpson,House,"Oh. Well, then you have to ask yourself, is this the right house for you?"
+42894,187,149,600000,Sideshow Mel,House,I suppose not. I guess we were just captivated by this delightful plaque.
+42897,187,152,611000,Homer Simpson,Street,"Hey, Skinner! Wanna drag race?"
+42898,187,153,614000,Seymour Skinner,Street,My high school sweetheart was killed in a drag racing accident.
+42899,187,154,618000,Homer Simpson,Street,Come on! It'll be fun!
+42900,187,155,620000,Seymour Skinner,Street,That's what Debbie Sue said...
+42901,187,156,625000,Homer Simpson,Street,Come on... you... stupid... car... you... get... goin'...
+42902,187,157,631000,Snake Jailbird,Street,"Oh, that's Li'l Bandit! And she's in pain!"
+42903,187,158,638000,Snake Jailbird,Street,Screw the honor system. My car needs me.
+42904,187,159,642000,Kearney Zzyzwicz,Street,"Hey, you're ruinin' it for the rest of us."
+42905,187,160,646000,Snake Jailbird,Street,Stop! That's my car!
+42906,187,161,651000,Snake Jailbird,Street,"Hey, that smells like regular. She needs premium, dude! Premium! Dude!"
+42908,187,163,659000,Lionel Hutz,REAL ESTATE OFFICE,"Marge, I had a lot of calls about you. Customers love your no-pressure approach."
+42909,187,164,666000,Marge Simpson,REAL ESTATE OFFICE,"Well, like we say, the right house for the right person!"
+42910,187,165,666000,Lionel Hutz,REAL ESTATE OFFICE,"Listen, it's time I let you in on a little secret, Marge: the right house is the house that's for sale. The right person is anyone."
+42911,187,166,679000,Marge Simpson,REAL ESTATE OFFICE,But... all I did was tell the truth.
+42912,187,167,682000,Lionel Hutz,REAL ESTATE OFFICE,Of course you did. But there's the truth and the truth. Let me show you.
+42913,187,168,691000,Marge Simpson,REAL ESTATE OFFICE,It's awfully small.
+42914,187,169,693000,Lionel Hutz,REAL ESTATE OFFICE,"I'd say it's awfully ""cozy."""
+42915,187,170,697000,Marge Simpson,REAL ESTATE OFFICE,That's dilapidated.
+42916,187,171,699000,Lionel Hutz,REAL ESTATE OFFICE,Rustic.
+42917,187,172,700000,Marge Simpson,REAL ESTATE OFFICE,That house is on fire.
+42918,187,173,702000,Lionel Hutz,REAL ESTATE OFFICE,Motivated seller.
+42919,187,174,704000,Marge Simpson,REAL ESTATE OFFICE,That's a beauty.
+42920,187,175,707000,Lionel Hutz,REAL ESTATE OFFICE,Forget about that house. That's the murder house.
+42921,187,176,709000,Marge Simpson,REAL ESTATE OFFICE,"Ooo, I remember. Mrs. Astor was very lucky."
+42922,187,177,714000,Lionel Hutz,REAL ESTATE OFFICE,"Well, no one expects you to sell that house. But you better sell something."
+42923,187,178,714000,Lionel Hutz,REAL ESTATE OFFICE,"Because cubicles are for closers, Marge. Anybody who doesn't sell a house their first week gets fired. I probably should have mentioned that earlier."
+42926,187,180,731000,Marge Simpson,Simpson Home,I thought I'd do anything to succeed in business. But bending the truth... I don't know.
+42927,187,181,736000,Lisa Simpson,Simpson Home,"Ah, so you don't have that killer instinct. Big deal."
+42928,187,182,740000,Homer Simpson,Simpson Home,"Yeah, honey. Even if you don't succeed in the business world, you're still the world's greatest wife and mother."
+42929,187,183,746000,Marge Simpson,Simpson Home,"So that's how you see me? As a spineless, potato-cooking housewife who can't compete in the real world?"
+42930,187,184,753000,Lisa Simpson,Simpson Home,Um-hmmm.
+42931,187,185,754000,Marge Simpson,Simpson Home,"Well, I can too compete. And I'm going to sell a house. End of story."
+42932,187,186,759000,Homer Simpson,Simpson Home,"Kids, your mother's under a lot of pressure. Why don't we let her clear the table in peace?"
+42935,187,189,771000,Marge Simpson,RUN-DOWN HOUSE,"The first house I have to show you is, uhm, a handyman's dream."
+42936,187,190,779000,Marge Simpson,RUN-DOWN HOUSE,Because it's so dilapidated.
+42937,187,191,782000,Ned Flanders,RUN-DOWN HOUSE,"Well, nothing's perfect, I sure hate to make you come out here and not buy a house."
+42938,187,192,786000,Maude Flanders,RUN-DOWN HOUSE,"Now, slow down Neddy. The home-buyers course said always look inside the house before buying."
+42939,187,193,794000,Marge Simpson,RUN-DOWN HOUSE,"Well, there it is..."
+42940,187,194,796000,Lenny Leonard,RUN-DOWN HOUSE,Please don't tell anyone how I live.
+42942,187,196,801000,Maude Flanders,Small House,"Hm, it's awfully small."
+42943,187,197,803000,Marge Simpson,Small House,"Some people would call it ""cozy."""
+42944,187,198,806000,Ned Flanders,Small House,I guess it is sorta cute...
+42945,187,199,807000,Marge Simpson,Small House,"But small. Really, really small."
+42946,187,200,810000,Ned Flanders,Small House,"Hm. Wh-when you put it that way, it does seem a bit small."
+42948,187,202,816000,Marge Simpson,Small House,"Well, that about does it for houses in this area..."
+42949,187,203,819000,Maude Flanders,Small House,"Oh, wait, what about that house? That has a ""For Sale"" sign."
+42950,187,204,826000,Ned Flanders,Small House,"Oooo, that's a dilly. How 'bout it, Marge?"
+42953,187,207,838000,Ned Flanders,Murder House,"Oh, my-diddily-i. Will you look at this place! And the price has been slashed repeatedly!"
+42954,187,208,846000,Maude Flanders,Murder House,It's sure built solid. The kids could scream bloody murder and no one would hear.
+42956,187,209,850000,Ned Flanders,Murder House,"Well, I'm just gonna spill my guts: I love it to death! I'm gonna give you a deposit this minute."
+42957,187,210,857000,Ned Flanders,Murder House,Unless you can give me a reason not to?
+42958,187,211,860000,Maude Flanders,Murder House,"Is there anything else we should know, Marge?"
+42959,187,212,862000,Lionel Hutz's Head,Murder House,There's the truth and the truth...
+42960,187,213,866000,Female Victim,Murder House,No! Noooo!
+42961,187,214,867000,Lionel Hutz's Head,Murder House,If you don't sell a house you're fired... Fired... Fired...
+42963,187,216,874000,Ned Flanders,Murder House,"Well, Marge?"
+42964,187,217,882000,Marge Simpson,Murder House,No. There is absolutely nothing else to tell you about this house.
+42965,187,218,886000,Ned Flanders,Murder House,That's good enough for me.
+42966,187,219,889000,Ned Flanders,Murder House,Purple drapes! All my life I've wanted purple drapes!
+42968,187,221,898000,Lionel Hutz,REAL ESTATE OFFICE,Attention...
+42969,187,222,901000,Lionel Hutz,REAL ESTATE OFFICE,"Ding-ding. Ding-ding. Ding-ding. Listen up, everybody. Marge Simpson sold her first house!"
+42970,187,223,907000,Other Realtors,REAL ESTATE OFFICE,"Oh, that's very nice. / How 'bout that. / How nice."
+42971,187,224,908000,Lionel Hutz,REAL ESTATE OFFICE,The murder house!
+42972,187,225,910000,Other Realtors,REAL ESTATE OFFICE,"Whoa! / Wow! / Oh, my goodness. / Now that's something. / Boo-ya!"
+42973,187,226,913000,Nick,REAL ESTATE OFFICE,"Wow, you must have told a whopper to unload that death trap."
+42974,187,227,917000,Gil Gunderson,REAL ESTATE OFFICE,"What'd you use, Marge, huh? The old ""Buff 'n' Bluff?"" The ""Hail Murray?"" ""The Susquehanna Shuffle?"" Huh? Huh?"
+42975,187,228,923000,Marge Simpson,REAL ESTATE OFFICE,"No, no. No tricks. It was salesmanship, that's all."
+42976,187,229,930000,Lionel Hutz,REAL ESTATE OFFICE,"Sure, Marge. ""Salesmanship."""
+42977,187,230,931000,Marge Simpson,REAL ESTATE OFFICE,But it was!
+42978,187,231,934000,Lionel Hutz,REAL ESTATE OFFICE,"Sure, Marge. ""Was."""
+42979,187,232,934000,Marge Simpson,REAL ESTATE OFFICE,"Look, just because everyone who lived in that house was hacked to bits, doesn't mean the Flanders will be."
+42980,187,233,942000,Other Realtors,REAL ESTATE OFFICE,"Eh, guess you're right. / Probably not. / Who cares?"
+42981,187,234,944000,Lionel Hutz,REAL ESTATE OFFICE,"Well, whatever happens, as our newest closer, you're entitled to wear the coveted closing blazer..."
+42982,187,235,951000,Lionel Hutz,REAL ESTATE OFFICE,And you get a third wall for your cubicle.
+42983,187,236,956000,Gil Gunderson,REAL ESTATE OFFICE,But I earned that wall.
+42984,187,237,958000,Lionel Hutz,REAL ESTATE OFFICE,"Don't push your luck, pal. You're hanging on by a thread."
+42985,187,238,961000,Gil Gunderson,REAL ESTATE OFFICE,I brought this wall from home.
+42986,187,240,969000,Snake Jailbird,Street,"Ho-ho. Okay. Baldy boy hits wire, head comes off, Li'l Bandit rolls to a gentle stop. Everybody wins."
+42987,187,241,981000,Homer Simpson,Street,"Man, the air feels good on my neck!"
+42988,187,242,991000,Homer Simpson,Street,"Ooo, gumball."
+42989,187,243,995000,Snake Jailbird,Street,"Oh, why do I even bother?"
+42990,187,244,1000000,Kirk Van Houten,Street,I told that idiot to slice my sandwich!
+42991,187,245,1004000,Kirk Van Houten,Street,Oww!
+42993,187,247,1005000,Homer Simpson,Flanders Home,"Wow, honey, you sold a house and got rid of the Flanders. What's for dinner?"
+42994,187,248,1010000,Ned Flanders,Flanders Home,"Well, neighborinos, I guess this is goodbye... I better make this quick or I'm gonna start blubbering like a baby."
+42995,187,249,1018000,Homer Simpson,Flanders Home,"Yeah, me too. Let me know if you need any help."
+42996,187,250,1020000,Ned Flanders,Flanders Home,"Uh, now that you mention it, we could use..."
+42997,187,251,1022000,Homer Simpson,Flanders Home,It was just an expression.
+42998,187,252,1024000,Marge Simpson,Flanders Home,"Mmmm. Goodbye, Ned. If the slightest thing goes wrong with that house, I want you to call me right away. Or you can beep me. In fact, why don't you just stay here tonight? We'll go to a hotel."
+42999,187,253,1036000,Ned Flanders,Flanders Home,"Oh, you're sweet to offer, but, uh, we're all just so tired, we just want to get to our new house and rest in peace."
+43000,187,254,1043000,Ned Flanders,Flanders Home,"So long, Simpsons!"
+43001,187,255,1044000,Bart Simpson,Flanders Home,So long! / Good-bye! / Good luck!
+43002,187,256,1050000,Homer Simpson,Flanders Home,That old Flanders place gives me the creeps.
+43004,187,258,1055000,Homer Simpson,Street,"""MY NAME IS LUKA, / I LIVE ON THE SECOND FLOOR..."""
+43006,187,260,1059000,Snake Jailbird,Street,"Gimme my car, fatty."
+43007,187,261,1063000,Homer Simpson,Street,"This is my car! And I'm not fat, it's glandular!"
+43008,187,262,1066000,Snake Jailbird,Street,Right.
+43011,187,265,1078000,Dove,Murder House,"You've got to tell them the truth, Marge. The truuuuth."
+43012,187,266,1090000,Marge Simpson,Murder House,Hello? Anyone home?
+43014,187,268,1103000,Ned Flanders,Murder House,"Oh, hi, Marge. Heh-heh. Guess we gave you quite a start. We were painting Todd's room red -- pretty messy work -- and then we came out here to take a break. Must've dozed off."
+43015,187,269,1113000,Todd Flanders,Murder House,Red room. Red room. Over here.
+43018,187,270,1118000,Marge Simpson,Murder House,"Well, I'm just glad you're okay. And I have something to tell you..."
+43020,187,272,1131000,Homer Simpson,Road,Stop it!
+43021,187,273,1134000,Snake Jailbird,Road,Come on... Let's hear that snap!
+43022,187,274,1149000,Snake Jailbird,Road,Ow!
+43023,187,275,1150000,Homer Simpson,Road,You're...
+43024,187,276,1150000,Snake Jailbird,Road,Ow!
+43025,187,277,1151000,Homer Simpson,Road,...going...
+43026,187,278,1152000,Snake Jailbird,Road,Ow!
+43027,187,279,1152000,Homer Simpson,Road,...down...
+43028,187,280,1153000,Snake Jailbird,Road,Ow!
+43029,187,281,1153000,Homer Simpson,Road,...punk!
+43030,187,282,1157000,Snake Jailbird,Road,Aw!
+43031,187,283,1157000,Snake Jailbird,Road,Whoa! This is sooo dangerous.
+43032,187,284,1160000,Homer Simpson,Road,"Yeah, you're right."
+43033,187,285,1165000,Chief Wiggum,Road,What the...? This is Wiggum reporting a 318 -- waking a police officer.
+43035,187,287,1174000,Ned Flanders,Murder House,This is the murder house?!
+43036,187,288,1177000,Marge Simpson,Murder House,Mm-hmm.
+43037,187,289,1178000,Maude Flanders,Murder House,"You mean the infamous ""Jealous Jockey Murders""?"
+43038,187,290,1182000,Marge Simpson,Murder House,Mm-hmm.
+43039,187,291,1185000,Ned Flanders,Murder House,"Ahh, of course! This must be where he dropped the dagger. And this is the butler's pantry where Mrs. Astor concealed herself. And right here's where they found the torso heap! In front of our very own fireplace!"
+43040,187,292,1197000,Maude Flanders,Murder House,"Oh just think, Neddy. We're part of Springfield history!"
+43041,187,293,1201000,Rod Flanders,Murder House,"Look, Daddy. I'm the Jealous Jockey!"
+43042,187,294,1204000,Todd Flanders,Murder House,I'm a torso!
+43043,187,295,1205000,Marge Simpson,Murder House,"I'm glad you're not mad, but I lied to you! And I won't feel right until I return your deposit."
+43044,187,296,1212000,Ned Flanders,Murder House,"We appreciate the offer, Marge, but I think we're going to be very happy here."
+43047,187,299,1232000,Ned Flanders,Murder House,"Uh, Marge? Still got that deposit check?"
+43048,187,300,1241000,Homer Simpson,Murder House,"Oh. Oh, wow, lucky thing we landed on this bubble wrap."
+43049,187,301,1245000,Chief Wiggum,Murder House,"Hey, quit hoggin'!"
+43050,187,302,1247000,Snake Jailbird,Murder House,"Ohh, I'm badly hurt."
+43052,187,304,1250000,Lionel Hutz,REAL ESTATE OFFICE,"A smashed hot rod?! A wrecked police cruiser?! A destroyed house?! I've had it with your renegade ways, Simpson! You're a loose cannon!"
+43053,187,305,1257000,Marge Simpson,REAL ESTATE OFFICE,But I...
+42893,187,306,1259000,Lionel Hutz,REAL ESTATE OFFICE,And what really fries me is you returned his check!
+42955,187,307,1262000,Marge Simpson,REAL ESTATE OFFICE,"I'm sorry, Mr. Hutz, but I just can't lie to people."
+43055,187,308,1268000,Lionel Hutz,REAL ESTATE OFFICE,"You're one of a kind, Marge. And nobody deserves this more than you."
+43058,187,311,1277000,Lisa Simpson,Simpson Car,"Well, I'm proud of you, Mom. You refused to compromise your integrity."
+43059,187,312,1281000,Bart Simpson,Simpson Car,"Yeah, you did the right thing... eventually."
+43060,187,313,1284000,Marge Simpson,Simpson Car,"Still, it would have been nice to bring home at least one paycheck."
+43061,187,314,1288000,Homer Simpson,Simpson Car,"Oh, you will, honey. You will."
+43063,187,316,1297000,Marge Simpson,UNEMPLOYMENT OFFICE,$300 for doing nothing?! I feel like such a crook.
+43064,187,317,1302000,George H.W. Bush,UNEMPLOYMENT OFFICE,Don't worry. Gets easier every week.

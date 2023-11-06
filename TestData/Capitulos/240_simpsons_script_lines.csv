@@ -1,0 +1,258 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+58724,240,1,88000,Lisa Simpson,WILDERNESS AREA,"Now remember, we have to leave nature just the way we found it. Everything we pack in, we pack out."
+58725,240,2,95000,Homer Simpson,WILDERNESS AREA,But what if I have to do my business?
+58726,240,3,97000,Lisa Simpson,WILDERNESS AREA,Use this plastic bag.
+58727,240,4,99000,Homer Simpson,WILDERNESS AREA,How come bears can crap in the woods and I can't?
+58728,240,5,107000,Lisa Simpson,WILDERNESS AREA,"Ah, we're so lucky to have this untouched piece of paradise so close to Springfield."
+58729,240,6,114000,Homer Simpson,WILDERNESS AREA,Bees!
+58730,240,7,115000,Marge Simpson,WILDERNESS AREA,They sound angry... and Africanized.
+58731,240,8,118000,Homer Simpson,WILDERNESS AREA,"Okay, nobody panic. There's plenty of spray for me."
+58732,240,9,128000,Lisa Simpson,WILDERNESS AREA,That doesn't sound like bees.
+58733,240,10,130000,Bart Simpson,WILDERNESS AREA,"Oh my God, it's a racetrack!"
+58734,240,11,137000,Lisa Simpson,WILDERNESS AREA,The Bird Sanctuary -- they ruined it!
+58735,240,12,138000,Homer Simpson,WILDERNESS AREA,"No they didn't. They just surrounded it with something wonderful -- like a raisin covered in chocolate, or a monkey in a cowboy suit."
+58738,240,15,143000,Homer Simpson,INFIELD,See? Animals can get used to anything.
+58739,240,16,163000,FIRST PARROT,INFIELD,Start your engines.
+58740,240,17,165000,SECOND PARROT,INFIELD,"Show us your boobs, show us your boobs."
+58741,240,18,173000,Homer Simpson,INFIELD,"Better do what he says, Marge."
+58742,240,19,173000,Bart Simpson,INFIELD,"Cool! Way to adapt, little guy."
+58743,240,20,177000,Lisa Simpson,INFIELD,Why do jerks think everyone wants to see their stupid name?
+58745,240,22,192000,Driver,INFIELD,"Sorry to break up your picnic, folks. I'm 2-time FASCAR champ Clay Babcock."
+58746,240,23,196000,Marge Simpson,INFIELD,You're on fire!
+58747,240,24,197000,Clay Babcock,INFIELD,"Yeah, I have won a lot of races, but it's all thanks to my crew, really."
+58748,240,25,201000,Clay Babcock,INFIELD,"Eh, ah, woo. There it is."
+58749,240,26,202000,Bart Simpson,INFIELD,"Mr. Babcock, can I take a ride in your car?"
+58750,240,27,204000,Clay Babcock,INFIELD,"Well, my ""A"" car was just incinerated. But, uh, you could ride in my ""B"" car."
+58751,240,28,207000,Marge Simpson,INFIELD,I don't see why not.
+58753,240,30,214000,Clay Babcock,CLAY BABCOCK'S RACE CAR,"Bart, these are the ""time trials"" that determine the ""pole position""..."
+58754,240,31,214000,Bart Simpson,CLAY BABCOCK'S RACE CAR,Shouldn't you be keeping your hands on the wheel?
+58755,240,32,218000,Clay Babcock,CLAY BABCOCK'S RACE CAR,"Sure, if you want to drive the ""traditional"" way."
+58756,240,33,222000,Bart Simpson,CLAY BABCOCK'S RACE CAR,Whoa!
+58757,240,34,222000,Clay Babcock,CLAY BABCOCK'S RACE CAR,Sorry.
+58758,240,35,223000,Bart Simpson,CLAY BABCOCK'S RACE CAR,"Boy, these cars are surprisingly roomy."
+58759,240,36,225000,Clay Babcock,CLAY BABCOCK'S RACE CAR,"Yeah, we like to bring our families along on the longer races. If I get tired, I let my wife drive. She's good."
+58760,240,37,232000,Mrs. Babcock,CLAY BABCOCK'S RACE CAR,Get your feet off the upholstery.
+58762,240,39,236000,Clay Babcock,INFIELD,"Folks, I've got some spare tickets if you'd like to stick around for the race."
+58763,240,40,239000,Lisa Simpson,INFIELD,"That's very sweet, but we have a full day of hiking planned."
+58764,240,41,242000,Homer Simpson,INFIELD,We can hike anytime. This is our chance to see cars driving.
+58765,240,42,250000,Ned Flanders,INFIELD,"Hi-diddly-ho, pedal-to-the-metal-o-philes!"
+58766,240,43,252000,Homer Simpson,INFIELD,Flanders? Since when do you like anything cool?
+58767,240,44,255000,Ned Flanders,INFIELD,"Well, I don't care for the speed, but I can't get enough of that safety gear. Helmets, roll-bars, caution flags..."
+58768,240,45,261000,Maude Flanders,INFIELD,I like the fresh air. And looking at the poor people in the infield.
+58769,240,46,268000,Brandine Del Roy,INFIELD,"Dang, Cletus, why'd you have to park by my parents?"
+58770,240,47,272000,Cletus Spuckler,INFIELD,"Now honey, they's my parents too."
+58771,240,48,277000,Track Announcer,INFIELD,Gentlemen... start your engines!
+58772,240,49,282000,Rod Flanders,INFIELD,"Daddy, can we move closer?"
+58773,240,50,283000,Ned Flanders,INFIELD,"Abso-not-ly, hot Roddy. We're up here, out of range of the crashes and the drivers' cussing."
+58774,240,51,287000,Bart Simpson,INFIELD,Move your damn butt.
+58775,240,52,289000,Lisa Simpson,INFIELD,Bite me.
+58782,240,59,302000,Bart Simpson,Track,C'mon! Somebody crash!
+58783,240,60,304000,Homer Simpson,Track,"Be patient, son. A rushed car never crashes."
+58784,240,61,310000,Homer Simpson,Track,"Oh, I missed one!"
+58785,240,62,313000,Clay Babcock,Track,Let's go! Let's go!
+58786,240,63,318000,Clay Babcock,Track,The dice! The dice! The dice!
+58787,240,64,322000,Clay Babcock,Track,"Eight seconds! Great job, boys!"
+58788,240,65,330000,Homer Simpson,Track,"Let's go! New tires! C'mon, c'mon!"
+58789,240,66,332000,Crew Chief,Track,"We're going as fast as we can, ma -- Hey, who are you?"
+58790,240,67,335000,Homer Simpson,Track,"Oh, how rude of me. My name is..."
+58791,240,68,341000,Homer Simpson,Track,My bad.
+58792,240,69,342000,Track Announcer,Track,"And now, here's something for the guys..."
+58793,240,70,347000,Homer Simpson,Track,Finally!
+58794,240,71,347000,Track Announcer,Track,...Let's hear it for Fan-Demonium!
+58795,240,72,360000,Cheerleader,Track,Hey racing fans! Who wants a free T-shirt?
+58796,240,73,360000,Crowd,Track,Me! Me! / Over here! / etc.
+58797,240,74,360000,Marge Simpson,Track,"I do! I do! Wait, no I don't."
+58798,240,75,369000,Dr. Julius Hibbert,Track,"Hmm, a Ford urinating on a Chevrolet."
+58799,240,76,372000,Bernice Hibbert,Track,Don't you usually laugh at everything?
+58800,240,77,375000,Dr. Julius Hibbert,Track,"Yes. Yes, I do."
+58801,240,78,377000,Lenny Leonard,Track,C'mon! Right here!
+58803,240,80,380000,Lenny Leonard,Track,"I'm okay, folks."
+58805,240,82,383000,Homer Simpson,Track,I need a shirt! Gimme a shirt!
+58806,240,83,386000,Ralph Wiggum,Track,Mommy has bosoms like that!
+58807,240,84,388000,Chief Wiggum,Track,"Yeah, I wish."
+58808,240,85,389000,Maude Flanders,Track,"Neddy, I've had about all I can take of Homer Simpson's torso. I'll get some hot dogs."
+58809,240,86,395000,Ned Flanders,Track,No foot-longs!
+58810,240,87,395000,Maude Flanders,Track,I know. They make you uncomfortable.
+58811,240,88,400000,Cheerleader,Track,"Well, I guess no one else wants a T-shirt!"
+58812,240,89,403000,Homer Simpson,Track,"That's a damn lie, and you know it! Gimme a shirt!"
+58813,240,90,406000,Cheerleader,Track,"You heard him, girls."
+58814,240,91,410000,Homer Simpson,Track,"Hey, T-shirt- T-shirt-T-shirt!"
+58815,240,92,414000,Cheerleader,Track,Fire!
+58816,240,93,416000,Homer Simpson,Track,"Oooh, a bobby pin."
+58817,240,94,421000,Ned Flanders,Track,Maude?
+58819,240,96,428000,Dr. Julius Hibbert,Track,"Oh, my Lord. She's dead."
+58822,240,99,429000,Marge Simpson,Simpson Home,It's hard to believe we're never going to see Maude again.
+58824,240,100,441000,Homer Simpson,Simpson Home,"And poor Ned didn't get a chance to say goodbye. Well, from now on I'm never gonna let you leave the room without telling you how much I love you and how truly special... this is really eating up a lot of time. Maybe just a pat on the butt. Yeah, that works."
+58825,240,101,455000,Marge Simpson,Simpson Home,"Now Homey, you know, Ned and the boys need us. And you know what that means."
+58826,240,102,460000,Homer Simpson,Simpson Home,I know. No more being a jerk.
+58827,240,103,464000,Marge Simpson,Simpson Home,That's right.
+58829,240,105,477000,Rev. Timothy Lovejoy,Springfield Cemetery,"In many ways, Maude Flanders was a supporting player in our lives. She didn't grab our attention with memorable catch phrases or comical accents."
+58830,240,106,490000,Groundskeeper Willie,Springfield Cemetery,Aye.
+58831,240,107,491000,Captain Horatio McCallister,Springfield Cemetery,Arr.
+58832,240,108,491000,Professor Jonathan Frink,Springfield Cemetery,Glayvin.
+58833,240,109,494000,Rev. Timothy Lovejoy,Springfield Cemetery,"...But whether you noticed her or not, Maude was always there, and we thought she always would be. My friends, life is about change -- just yesterday, Apu was a lonely bachelor..."
+58834,240,110,509000,Apu Nahasapeemapetilon,Springfield Cemetery,"Yes, thank God those days are over."
+58835,240,111,511000,Rev. Timothy Lovejoy,Springfield Cemetery,...and the Van Houtens were enjoying a storybook marriage...
+58836,240,112,515000,Kirk Van Houten,Springfield Cemetery,"Yeah, lots of storybooks have witches."
+58837,240,113,520000,Pyro,Springfield Cemetery,"Shut up, Kirk."
+58838,240,114,520000,Kirk Van Houten,Springfield Cemetery,Sorry.
+58839,240,115,520000,Rev. Timothy Lovejoy,Springfield Cemetery,"And now, the good people at Fan-Demonium, as part of a generous settlement, will fire a 21-T-shirt salute."
+58840,240,116,537000,Homer Simpson,Springfield Cemetery,Finally.
+58842,240,118,544000,Apu Nahasapeemapetilon,Simpson Home,"Ned, my friend, please know that the Kwik-E-Mart is there for you, twenty-four hours a day."
+58843,240,119,549000,Ned Flanders,Simpson Home,"Oh, thank you, Apu."
+58844,240,120,552000,Apu Nahasapeemapetilon,Simpson Home,"And I'm going to give you all of Maude's frequent-Squishee points. The boys at headquarters will not like it, but I'm getting pretty sick of them and their Bombay attitude..."
+58845,240,121,560000,Moe Szyslak,Simpson Home,"Yeah, that's enough there, 'Pu. Look, Ned, I know we ain't hung out much, what with your insane fear of drinking and me being banned from the church and all, but ah... but that Maude, she was really something."
+58846,240,122,571000,Ned Flanders,Simpson Home,"Oh, wasn't she? Thank you, Moe. I appreciate that."
+58823,240,123,573000,Moe Szyslak,Simpson Home,"No, I really mean it, though. I mean if it was you that died, I would have been on her so fast..."
+58847,240,124,574000,Ned Flanders,Simpson Home,What are you saying?
+58848,240,125,578000,Moe Szyslak,Simpson Home,"What? Nothing. She was hot. What, you can't take a compliment?"
+58849,240,126,583000,Ned Flanders,Simpson Home,You monster!
+58850,240,127,584000,Moe Szyslak,Simpson Home,"That's good, no. Let it out. That's it. Let it out. Send me to Maude. That's it. Oh, here I come, baby. Oh, yeah."
+58852,240,129,599000,Marge Simpson,Simpson Home,"Bart? Honey, I think you should go play with Rod and Todd."
+58853,240,130,601000,Bart Simpson,Simpson Home,"Oh, man. Why does everything bad have to happen to me?"
+58856,240,133,605000,Bart Simpson,ROD AND TODD'S ROOM,"When I'm feeling low, you know what always cheers me up?"
+58857,240,134,608000,Todd Flanders,ROD AND TODD'S ROOM,Is it love?
+58858,240,135,610000,Rod Flanders,ROD AND TODD'S ROOM,Kindness?
+58859,240,136,611000,Bart Simpson,ROD AND TODD'S ROOM,"Oo, tough room. Video games. Whaddaya got? ""Billy Graham's Bible Blaster""?!"
+58861,240,138,617000,Rod Flanders,Flanders Home,Keep firing! Convert the heathens.
+58862,240,139,627000,Bart Simpson,Flanders Home,Got 'im!
+58863,240,140,627000,Rod Flanders,Flanders Home,"No, you just winged him and made him a Unitarian!"
+58864,240,141,628000,Todd Flanders,Flanders Home,"Look out, Bart! The gentle Baha'i!"
+58865,240,142,632000,Bart Simpson,Flanders Home,All right! Full Conversion! Thanks guys. This really cheered me up.
+58866,240,143,638000,Video Game Voice,Flanders Home,Second coming! Reload! Reload!
+58867,240,144,638000,Todd Flanders,Flanders Home,Can we play now?
+58868,240,145,641000,Bart Simpson,Flanders Home,You are playing. We're a team.
+58869,240,146,644000,Todd Flanders,Flanders Home,Yay!
+58871,240,148,648000,Marge Simpson,Simpson Home,"Now if there's anything, anything at all I can do to help out..."
+58872,240,149,648000,Homer Simpson,Simpson Home,Quit hogging Flanders. I want to comfort him.
+58873,240,150,655000,Ned Flanders,Simpson Home,"That's nice of you Homer, but I think I'll just go to bed."
+58874,240,151,659000,Homer Simpson,Simpson Home,Then I insist on walking you home.
+58875,240,152,662000,Ned Flanders,Simpson Home,"Homer, this really isn't necessary..."
+58876,240,153,666000,Homer Simpson,Simpson Home,"Those feelings are normal, Ned. They're part of the process. Watch the sprinkler."
+58877,240,154,669000,Ned Flanders,Simpson Home,"Hey, that's my sprinkler."
+58878,240,155,670000,Homer Simpson,Simpson Home,"It's natural to feel that way, but the sprinkler is gone. It's time to let go."
+58879,240,156,675000,Ned Flanders,Simpson Home,I just bought that...
+58880,240,157,677000,Homer Simpson,Simpson Home,"I know, I know. It's never easy."
+58882,240,159,680000,Homer Simpson,Flanders Home,You want anything else? Water? Chili fries? How about some white noise?
+58883,240,160,685000,Ned Flanders,Flanders Home,"Aw, Homer. You don't have to..."
+58884,240,161,691000,Homer Simpson,Flanders Home,"Sleep tight, Neddie."
+58886,240,163,702000,Homer Simpson,Simpson Home,"What the... Oh, you want a rock fight, eh?"
+58887,240,164,707000,Ned Flanders,Simpson Home,"No, Homer! I just need to talk."
+58888,240,165,710000,Homer Simpson,Simpson Home,"Okay, be right down."
+58891,240,168,715000,Ned Flanders,Simpson Backyard,"I just keep replaying the whole thing in my head. I can't believe my last words to Maude were ""No foot-longs."""
+58892,240,169,718000,Homer Simpson,Simpson Backyard,"Yep, it would've been a lot better if you'd said ""I love you,"" or ""you're special."" You know, something sweet instead of that hot dog crack."
+58893,240,170,730000,Ned Flanders,Simpson Backyard,"If I'd only been a gentleman and got the hot dogs myself, she'd still be here."
+58894,240,171,730000,Homer Simpson,Simpson Backyard,"Now, now, now. Don't beat yourself up. I'm the one who drove her out of her seat. I'm the one who provoked the lethal barrage of t-shirts. I'm the one who parked in the ambulance zone preventing any possible resuscitation..."
+58895,240,172,744000,Homer Simpson,Simpson Backyard,"But, uh, there's no point in playing the blame game."
+58896,240,173,751000,Ned Flanders,Simpson Backyard,"Ah, you're right. I've just got to work through the grief. There's not gonna be an easy answer."
+58897,240,174,758000,Homer Simpson,Simpson Backyard,"Easy answer, eh?"
+58899,240,176,764000,Homer Simpson,FLANDERS YARD,"Oh, yeah. That's it, baby, that's the money shot. Yeah, the camera loves you. Oh-ho-ho, you tease, you."
+58900,240,177,771000,Bart Simpson,FLANDERS YARD,"Why are you taping Flanders, Dad?"
+58901,240,178,773000,Homer Simpson,FLANDERS YARD,You'll see...
+58902,240,179,774000,Bart Simpson,FLANDERS YARD,Do you even have a job anymore?
+58903,240,180,776000,Homer Simpson,FLANDERS YARD,I think it's pretty obvious that I don't.
+58905,240,182,780000,Lisa Simpson,Simpson Living Room,"Okay, I finished the gardening sequence."
+58906,240,183,782000,Homer Simpson,Simpson Living Room,"Okay, from here we star-wipe to a glamour shot of Flanders paying his bills..."
+58907,240,184,787000,Homer Simpson,Simpson Living Room,Then we star-wipe to Flanders brushing his...
+58908,240,185,790000,Lisa Simpson,Simpson Living Room,"Dad, there are other wipes besides star-wipes."
+58909,240,186,793000,Homer Simpson,Simpson Living Room,Why eat hamburger when you can have steak?
+58911,240,187,795000,Lisa Simpson,Simpson Living Room,I'm taking my name off this thing.
+58913,240,189,798000,Homer Simpson,Flanders Home,"So, how're you doing, Ned?"
+58914,240,190,799000,Ned Flanders,Flanders Home,"Oh, it's been a hard couple of months, but I feel like I've turned a corner."
+58915,240,191,804000,Homer Simpson,Flanders Home,"Well, that's all gonna change, thanks to this tape..."
+58916,240,192,807000,Ned Flanders,Flanders Home,Tape?
+58917,240,193,808000,Homer Simpson,Flanders Home,"Now, the audio needs some tweaking, and there's some footage of Maggie being born that I couldn't get rid of... Anyway, enjoy."
+58918,240,194,815000,Homer Simpson,Flanders Home,"Single women of Springfield, your prayers have been Flanswered."
+58919,240,195,822000,Homer Simpson,Flanders Home,"Ned Flanswered, that is."
+58920,240,196,822000,Ned Flanders,Flanders Home,Is this a dating video?
+58921,240,197,823000,Homer Simpson,Flanders Home,Shush.
+58922,240,198,825000,Homer Simpson,Flanders Home,What would you say about a man who owns his own house...
+58923,240,199,825000,Homer Simpson,Flanders Home,And his own car? That's Ned Flanders.
+58924,240,200,829000,Homer Simpson,Flanders Home,A man who's not afraid to cry.
+58925,240,201,834000,Homer Simpson,Flanders Home,"Hey, Ned."
+58927,240,203,838000,Ned Flanders,LIVING ROOM,So that's why you maced me.
+58928,240,204,838000,Homer Simpson,LIVING ROOM,Yeah.
+58929,240,205,840000,Homer Simpson,LIVING ROOM,Ned does everything with class. Whether he's punching in his ATM code...or keeping clean in the shower...
+58930,240,206,849000,Ned Flanders,LIVING ROOM,Homer!
+58931,240,207,850000,Homer Simpson,LIVING ROOM,But don't take my word for it. Listen to this testimonial.
+58932,240,208,854000,Chief Wiggum,LIVING ROOM,"Oh I would date Ned in a second, if I was a woman, or gay. He looks like a cuddler, that Ned. I, I like that. I like to be held. I like to be pampered."
+58933,240,209,865000,Homer Simpson,LIVING ROOM,So if you're tired of dating the same old losers...
+58934,240,210,868000,Carl Carlson,LIVING ROOM,"What are you doing, Homer?"
+58935,240,211,871000,Homer Simpson,LIVING ROOM,"...Step up to the best. Ned Flanders, the man with the chest."
+58936,240,212,878000,Ned Flanders,LIVING ROOM,Ewwww.
+58937,240,213,879000,Homer Simpson,LIVING ROOM,"Now, we'll just send this to the dating service, the chicks'll fall for you, and bam! The healing begins."
+58938,240,214,886000,Ned Flanders,LIVING ROOM,"Homer, you obviously went to a lot of trouble, but dating? It just feels way too soon."
+58939,240,215,892000,Homer Simpson,LIVING ROOM,"Oh-ho-ho-ho, that's great. Chicks really dig sensitivity. Did you get that, Bart?"
+58940,240,216,898000,Bart Simpson,LIVING ROOM,Got it.
+58941,240,217,899000,Homer Simpson,LIVING ROOM,"Beautiful! And star-wipe, aaaand we're out."
+58910,240,218,902000,Ned Flanders,LIVING ROOM,Hmm.
+58942,240,220,906000,Ned Flanders,Flanders Home,"Well, with triple word score, that's ninety! Ha-ha, I guess my luck is starting to even out."
+58943,240,221,913000,Ned Flanders,Flanders Home,I'm just a Q without a U.
+58945,240,223,934000,Homer Simpson,Sidewalk Near Flanders House,Hello? Mailman?
+58947,240,225,942000,Manager,Video Dating Service Office,These are the women who saw your videotape and are interested. And feel free to root around in the one-nighter bin.
+58948,240,226,948000,Comic Book Guy,Video Dating Service Office,The bin is spoken for.
+58949,240,227,950000,Manager,Video Dating Service Office,Are you going to call all those women?
+58950,240,228,952000,Comic Book Guy,Video Dating Service Office,"No, the tapes will do just fine, thank you."
+58951,240,229,954000,Ned Flanders,Video Dating Service Office,"Homer, I'm having second thoughts. This feels so disloyal to Maude."
+58952,240,230,958000,Homer Simpson,Video Dating Service Office,"Oh, wake up, Ned. You think Maude isn't dating in heaven?"
+58953,240,231,962000,Ned Flanders,Video Dating Service Office,You think she would?
+58954,240,232,963000,Homer Simpson,Video Dating Service Office,"How could she not? The place is full of eligible bachelors -- John Wayne, Tupac Shakur, Sherlock Holmes..."
+58955,240,233,970000,Ned Flanders,Video Dating Service Office,Sherlock Holmes is a character.
+58956,240,234,977000,Homer Simpson,Video Dating Service Office,He sure is!
+58958,240,236,977000,Ned Flanders,Flanders Home,"Okay, here goes nothin'."
+58959,240,237,977000,LINDSAY,Flanders Home,"If you select me, you'll get a lot more than a Wharton MBA pulling in 200K. You'll get a woman who's poised, articulate..."
+58961,240,239,982000,LINDSAY,EXPENSIVE RESTAURANT,"...sophisticated, confident and highly sexual. Hang on, I'm getting a fax."
+58962,240,240,991000,LINDSAY,EXPENSIVE RESTAURANT,"Damn, I've just been indicted. Looks like we're going to have to reschedule. How's your July?"
+58963,240,241,994000,Ned Flanders,EXPENSIVE RESTAURANT,"Well, I..."
+58964,240,242,996000,LINDSAY,EXPENSIVE RESTAURANT,Mine's terrible. Let's talk in August.
+58966,240,244,1001000,Ned Flanders,Edna's Apartment,"Mmm. Dinner was delicious, Edna, but I can't shake the feeling that you're just using me to get Principal Skinner jealous."
+58967,240,245,1010000,Edna Krabappel-Flanders,Edna's Apartment,"Oh, please! I don't care what Mr. Engaged-To-Be-Engaged thinks."
+58968,240,246,1015000,Edna Krabappel-Flanders,Edna's Apartment,"Hear that, Seymour?"
+58969,240,247,1016000,Seymour Skinner,Edna's Apartment,"Edna, this is childish."
+58970,240,248,1017000,Edna Krabappel-Flanders,Edna's Apartment,"Fine, then hang up."
+58971,240,249,1018000,Seymour Skinner,Edna's Apartment,I will hang up when he leaves.
+58973,240,251,1023000,Ned Flanders,DUCK POND,"Well, Diane, I've sure enjoyed chatting with you about your problems with your mother."
+58974,240,252,1027000,Attractive Woman,DUCK POND,"Did you hear that, Foofie? Sounds like somebody wuvs us. Yes it does."
+58975,240,253,1033000,Ned Flanders,DUCK POND,"Yeah, well, maybe I'll call you again."
+58976,240,254,1036000,Attractive Woman,DUCK POND,"Ooo, Foofie doesn't like the sound of that ""maybe."" 'Cause him's a commitment dog. Isn't him?"
+58978,240,256,1050000,Homer Simpson,Simpson Home,"So how'd you do tonight, Romeo?"
+58979,240,257,1052000,Ned Flanders,Simpson Home,"Well, I just can't relate to the women of today, Homer. Ah, it's probably me. I'm about as exciting as a baked potato."
+58980,240,258,1058000,Marge Simpson,Simpson Home,"You're darn right you are! And you've got lots of other great qualities, too."
+58981,240,259,1063000,Homer Simpson,Simpson Home,"That's right, Ned. Those floozies we married in Vegas were crazy about you."
+58982,240,260,1067000,Marge Simpson,Simpson Home,What floozies? What are you talking...
+58983,240,261,1069000,Homer Simpson,Simpson Home,"Marge, we're trying to help Ned."
+58985,240,263,1072000,Ned Flanders,Flanders Home,"Lord, I never question you... but I've been wondering if your decision to take Maude was, well, wrong... Unless this is part of your divine plan... Could you just give me some kinda sign? Anything? And after all that church chocolate I bought. Which, by the way, was gritty and had that white stuff on it. Well, I've had it."
+58986,240,264,1105000,Todd Flanders,Flanders Home,"Daddy, get up. You'll be late for church."
+58987,240,265,1109000,Ned Flanders,Flanders Home,"Eh, you boys can go with the Simpsons. I'm not going to church today."
+58989,240,267,1113000,Ned Flanders,Flanders Home,That's right. And I may not go to church tomorrow.
+58990,240,268,1118000,Ned Flanders,Flanders Home,"No, I'm not kidding. I am gonna sit right here and miss church. You just watch."
+58992,240,270,1126000,Ned Flanders,Springfield Streets,Sorry sorry sorry sorry sorry sorry...
+58994,240,272,1129000,Rev. Timothy Lovejoy,First Church of Springfield,"While our organist is on a much-needed vacation, we thought we'd try something new. So get down and put your knees together for the Christian rock stylings of ""Kovenant""!"
+58995,240,273,1144000,Lisa Simpson,First Church of Springfield,"Hey, isn't that the bass player from ""Satanica""?"
+58996,240,274,1152000,Marge Simpson,First Church of Springfield,I think it is!
+58999,240,276,1152000,Ned Flanders,First Church of Springfield,"Electric guitars in church? Oh, my gosh. Some dropouts must have overpowered the Reverend!"
+59001,240,278,1161000,Rachel,First Church of Springfield,"This is a love song, about a dude I met in a sleazy motel..."
+59003,240,280,1166000,Rachel,First Church of Springfield,...A dude named God.
+59004,240,281,1168000,Ned Flanders,First Church of Springfield,Ohhhhh.
+59005,240,282,1170000,Rachel,First Church of Springfield,"IN A MOTEL ROOM IN DELACROIX I WAS DRINKIN' LIKE A DARTMOUTH BOY AND THINKIN' BOUT THE WRONG TURNS THAT I'D TOOK WELL I WOKE UP ON THE PUKE-GREEN FLOOR, AND OPENED UP A DRESSER DRAWER, A-LOOKIN' FOR A BOTTLE, BUT INSTEAD I FOUND A BOOK."
+59006,240,283,1190000,Lenny Leonard,First Church of Springfield,She's talking about the Bible.
+59007,240,284,1193000,Carl Carlson,First Church of Springfield,So? She's good-looking. Shut up.
+59008,240,285,1193000,Lenny Leonard,First Church of Springfield,You shut up.
+59009,240,286,1196000,Rachel,First Church of Springfield,"A BOOK ABOUT A MAN A BOOK ABOUT THE DUDE WHO LIVES ABOVE A BOOK ABOUT A MAN WHO DRIVES A PICKUP FULL OF SWEET, SWEET LOVE."
+59011,240,288,1210000,Rachel,First Church of Springfield,NOW IF YOU THINK HE DOESN'T CARE OR MAYBE THAT HE ISN'T THERE IT'S NOT TOO LATE TO SEE HOW WRONG YOU ARE
+59012,240,289,1220000,Rachel,First Church of Springfield,SO WHEN YOUR SOUL HAS GONE ASTRAY JUST LET GOD BE YOUR TRIPLE-A HE'LL TOW YOU TO SALVATION AND HE'LL OVERHAUL YOUR HEART
+59014,240,291,1235000,Marge Simpson,Parking Lot,"Glad you made it, Ned."
+59015,240,292,1237000,Todd Flanders,Parking Lot,I knew he would.
+59016,240,293,1242000,Ned Flanders,Parking Lot,"I'll be right back, boys. I'm going to go help that lady."
+59017,240,294,1246000,Marge Simpson,Parking Lot,"Homer, you help too."
+59018,240,295,1247000,Homer Simpson,Parking Lot,"I toileth not on ye Sabbath, woman! A pox on thee."
+59020,240,297,1257000,Ned Flanders,Parking Lot,"Uh, that was a lovely song. It really got to me."
+59021,240,298,1261000,Rachel,Parking Lot,Been through some rough times yourself?
+59022,240,299,1263000,Ned Flanders,Parking Lot,I-I recently lost my wife.
+59023,240,300,1265000,Rachel,Parking Lot,"I'm real sorry to hear that. We just lost our drummer to a Pentecostal ska band. I know it's not the same, but..."
+59024,240,301,1273000,Ned Flanders,Parking Lot,"No, I hear what you're saying. It's always hard to replace someone."
+59025,240,302,1277000,Rachel,Parking Lot,"Yeah. My name's Rachel Jordan. If you feel like talking, maybe we could grab a coffee."
+59026,240,303,1284000,Ned Flanders,Parking Lot,"Well, that, that sounds real nice, Rachel, but a... I'm a... I'm not quite..."
+59027,240,304,1287000,Rachel,Parking Lot,"I understand. Listen, we're heading out on tour with the Monsters of Christian Rock. Maybe when we get back, you and I could get together."
+59028,240,305,1296000,Ned Flanders,Parking Lot,"Maybe we can. My name's Ned Flanders, and I'm here every week. Rain or shine."
+59029,240,306,1309000,Rachel,Parking Lot,IT'S A SHOW ABOUT NED ABOUT HIM LOSING HIS SWEET WIFE SHE LANDED ON HER HEAD BUT NOW IT'S TIME TO GET ON WITH HIS LIFE.

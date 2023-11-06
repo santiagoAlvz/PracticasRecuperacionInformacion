@@ -1,0 +1,245 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+17439,92,1,10000,Bart Simpson,Simpson Home,Dad! We've been robbed!
+17440,92,2,96000,Lisa Simpson,Simpson Home,"Wake up, Dad! Wake up! There was a burglar and he took my saxophone."
+17441,92,3,137000,Homer Simpson,Simpson Home,Woo hoo!
+17442,92,4,140000,Bart Simpson,Simpson Home,And our portable TV!
+17444,92,6,142000,Marge Simpson,Simpson Home,And my necklace.
+17445,92,7,142000,Homer Simpson,Simpson Home,"Eh, that's no big loss."
+17446,92,8,144000,Marge Simpson,Simpson Home,Homer! That necklace was a priceless Bouvier family heirloom.
+17447,92,9,148000,Homer Simpson,Simpson Home,"Oh, you've probably got a whole drawer full of 'em."
+17448,92,10,150000,Marge Simpson,Simpson Home,"Well... Yes, I do. But they're all heirlooms, too."
+17449,92,11,155000,Bart Simpson,Simpson Home,The burglar even took my stamp collection.
+17450,92,12,157000,Lisa Simpson,Simpson Home,YOU had a stamp collection?
+17452,92,14,164000,Nelson Muntz,Simpson Home,Stamp collection. Haw haw!
+17453,92,15,168000,Lisa Simpson,Simpson Home,"Bart's pain is funny, but mine isn't. That saxophone was my one creative outlet. It was the only way I could truly express myself."
+17454,92,16,175000,Homer Simpson,Simpson Home,"Shhh, quiet Lisa."
+17455,92,17,179000,Bart Simpson,Simpson Home,"Hey, the burglar left his calling card."
+17456,92,18,181000,Marge Simpson,Simpson Home,"""You have just been robbed by The Springfield Cat Burglar""... Cute."
+17457,92,19,181000,Ned Flanders,Simpson Home,"Hidilly ho, neighboreenos."
+17424,92,20,188000,Homer Simpson,Simpson Home,Can't talk. Robbed. Go hell.
+17458,92,21,191000,Ned Flanders,Simpson Home,You folks got robbed too? The burglar took my Shroud of Turin beach towels.
+17459,92,22,195000,Bart Simpson,Simpson Home,Wow. It's a crime wave.
+17461,92,24,197000,Seymour Skinner,Skinner's Living Room,Good Lord! My Stormin' Norman Commemorative Plates stolen... again.
+17463,92,26,204000,Barney Gumble,Barney's Apartment,Hey! I thought I had more stuff than this.
+17465,92,28,207000,Lisa Simpson,Simpson Home,"We are insured, aren't we, Mom?"
+17466,92,29,209000,Marge Simpson,Simpson Home,"Homer, tell your child what you bought when I sent you to town to get some insurance."
+17467,92,30,213000,Homer Simpson,Simpson Home,"Curse you, Magic Beans."
+17468,92,31,213000,Marge Simpson,Simpson Home,"Oh, stop blaming the beans."
+17469,92,32,217000,Homer Simpson,Simpson Home,"Hello, police? Are you sitting down? Good. I wish to report a robbery!"
+17471,92,34,221000,Chief Wiggum,Springfield Police Station,"A robbery, right. Thanks for the report."
+17472,92,35,224000,Chief Wiggum,Springfield Police Station,"Another one, Lou. 723 Evergreen Terrace."
+17473,92,36,228000,Chief Wiggum,Springfield Police Station,"Well, there doesn't seem to be any pattern, yet. But if I take this one and move it here, and move these over here... Hello... It almost looks like an arrow."
+17474,92,37,241000,Lou,Springfield Police Station,"Hey look, Chief. It's pointing right at this police station."
+17475,92,38,244000,Chief Wiggum,Springfield Police Station,Let's get outta here!
+17476,92,39,244000,Kent Brockman,Springfield Police Station,"When cat burglaries start, can mass murders be far behind? This reporter isn't saying that the burglar is an inhuman monster like the Wolfman, but he very well could be."
+17477,92,40,260000,Kent Brockman,Springfield Police Station,"So, professor, would you say it's time for everyone to panic?"
+17478,92,41,262000,Professor,Springfield Police Station,"Yes I would, Kent."
+17479,92,42,264000,Chief Wiggum,Springfield Police Station,"Ladies and gentlemen, ladies and gentlemen please, we have a major break in the case. We recovered the burglar's handkerchief from one of the crime scenes. Now one sniff of this baby and our tracking dog will be hot on his trail. Gosh, look at me, I'm sweating like a pig here..."
+17480,92,43,282000,Chief Wiggum,Springfield Police Station,Ahhh. Aw man... that's better.
+17481,92,44,286000,Chief Wiggum,Springfield Police Station,"Alright, get the scent, boy. Come on. Get the scent. Now kill! Go on."
+17482,92,45,288000,Chief Wiggum,Springfield Police Station,"Ow, my jugular! Any questions?"
+17485,92,46,298000,Professor Jonathan Frink,Springfield Police Station,"Well, as you can see, when the burglar trips the alarm, the house raises from its foundations and runs down the street and around a corner to safety."
+17486,92,47,309000,Professor Jonathan Frink,Springfield Police Station,"Well, the the real humans won't uh.. won't burn quite so fast there."
+17488,92,49,320000,Bart Simpson,Suburban Springfield Street,Cool! High-tech security system.
+17490,92,51,331000,Otto Mann,Springfield Street,"Alright, free laserium. All the colors of the bow, man."
+17491,92,52,340000,Jasper Beardly,Springfield Street,My cataracts are gone! I can see again! All the beauty of nat...
+17492,92,53,349000,Jasper Beardly,Springfield Street,"I'm blind! Oh well, easy come easy go."
+17494,92,55,351000,Grampa Simpson,Springfield Retirement Castle,"It's the cat burglar! Please, don't kill me!"
+17495,92,56,360000,Molloy,Springfield Retirement Castle,"Abe, can I use your ointment?"
+17496,92,57,360000,Grampa Simpson,Springfield Retirement Castle,"Oh, it's you, Molloy. Alright. But this time clean off the applicator."
+17498,92,59,371000,Apu Nahasapeemapetilon,Kwik-E-Mart,Thank you for coming. I'll see you in Hell.
+17500,92,61,376000,Homer Simpson,Simpson Home,"Alright, these are our new family security rules: Be home before dark, and make sure you're not followed, lock all doors and windows."
+17501,92,62,384000,Marge Simpson,Simpson Home,And don't take candy from strangers.
+17502,92,63,384000,Homer Simpson,Simpson Home,"Marge, they're only human."
+17503,92,64,388000,Lisa Simpson,Simpson Home,What's the point of all these precautions? I've already lost the only thing that matters to me.
+17504,92,65,393000,Homer Simpson,Simpson Home,"Oh Lisa, stop pining for your saxophone. I got you another instrument."
+17505,92,66,397000,Lisa Simpson,Simpson Home,"What, this jug?"
+17506,92,67,406000,Homer Simpson,Simpson Home,"Lisa, never, ever stop in the middle of a hoe-down."
+17508,92,69,410000,Homer Simpson,Simpson Home,"Aw, honey. I didn't realize how much that horn meant to you. Don't worry. Daddy's gonna get it back. I don't know how, but I'll figure out something."
+17509,92,70,424000,Lisa Simpson,Simpson Home,Thank you.
+17510,92,71,426000,Homer Simpson,Simpson Home,"You know Lisa, music helps daddy think."
+17515,92,73,429000,Ned Flanders,Flanders Home,"Welcome, neighbors... since the police can't seem to get off their dufferoonies to do something about this burglarino, I think it's time we start our own neighborhood watch... arooni!"
+17517,92,75,450000,Ned Flanders,Flanders Home,"Now, who should lead the group?"
+17518,92,76,452000,Voice From The Back,Flanders Home,You!
+17519,92,77,452000,Everyone,Flanders Home,Yeah! Flanders! Flanders! Flanders!
+17520,92,78,457000,Ned Flanders,Flanders Home,"I don't really have very much experience, but I'll be---"
+17521,92,79,459000,Moe Szyslak,Flanders Home,Someone else!
+17522,92,80,459000,Crowd,Flanders Home,Yeah! Someone else! Someone else! Someone else!
+17523,92,81,465000,Homer Simpson,Flanders Home,I'm someone else!
+17524,92,82,465000,Lenny Leonard,Flanders Home,He's right!
+17525,92,83,467000,Homer Simpson,Flanders Home,"We don't need a thinker, we need a doer. Someone who'll act without considering the consequences."
+17526,92,84,472000,Crowd,Flanders Home,Homer! Homer! Homer!
+17527,92,85,474000,Barney Gumble,Flanders Home,"I'm with you, Homer."
+17528,92,86,474000,Captain Horatio McCallister,Flanders Home,"I be with ya too, matey."
+17529,92,87,477000,Seymour Skinner,Flanders Home,"I'm with you, Homer."
+17530,92,88,477000,Moe Szyslak,Flanders Home,"You're the man, Homer."
+17531,92,89,479000,Apu Nahasapeemapetilon,Flanders Home,You're so good.
+17532,92,90,479000,Otto Mann,Flanders Home,"You're the man, man."
+17533,92,91,482000,Grampa Simpson,Flanders Home,I'll join! I'm filled with piss and vinegar. At first I was just filled with vinegar...
+17534,92,92,487000,Homer Simpson,Flanders Home,"Sorry, Dad. You're too old."
+17535,92,93,489000,Grampa Simpson,Flanders Home,"Too old! Why that just means I have experience. Who chased the Irish out of Springfield Village in ought four? Me, that's who!"
+17536,92,94,500000,IRISH PETE,Flanders Home,And a fine job ye did too!
+17537,92,95,502000,Homer Simpson,Flanders Home,"Aw, Dad, you've done a lot of great things, but you're a very old man now, and old people are useless. Aren't they? Aren't they? Huh? Yes they are. Yes they are..."
+17538,92,96,511000,Grampa Simpson,Flanders Home,Stop it! It's a form of abuse!
+17539,92,97,525000,Marge Simpson,Flanders Home,"I don't think the guns are a good idea, Homer."
+17540,92,98,527000,Homer Simpson,Flanders Home,"Marge, we're responsible adults and..."
+17541,92,99,529000,Moe Szyslak,Flanders Home,Oops.
+17542,92,100,531000,Homer Simpson,Flanders Home,... and if a group of responsible adults can't handle firearms in a responsible way...
+17543,92,101,531000,Captain Horatio McCallister,Flanders Home,Sorry.
+17544,92,102,537000,Seymour Skinner,Flanders Home,Uh-oh!
+17545,92,103,538000,Moe Szyslak,Flanders Home,Me again.
+17546,92,104,539000,Bart Simpson,Flanders Home,Sorry.
+17548,92,106,546000,Homer Simpson,Moe's Tavern,"Okay, we've got the secret vigilante handshake. Now we need code names. I'll be ""Cueball."" Skinner can be ""Eightball"", Barney will be ""Twelveball,"" and Moe, you can be ""Cueball."""
+17549,92,107,550000,Moe Szyslak,Moe's Tavern,You're an idiot.
+17551,92,109,559000,Herman Hermann,Herman's Military Antiques,"So, wedding, huh?"
+17552,92,110,562000,Homer Simpson,Herman's Military Antiques,"No, we're forming a vigilante group."
+17553,92,111,565000,Herman Hermann,Herman's Military Antiques,Come with me.
+17555,92,113,567000,Herman Hermann,Herman's Military Antiques,"See, it's a miniature version of the A-bomb. The government built it in the fifties to drop on beatniks."
+17556,92,114,574000,Beatnik Poet,Herman's Military Antiques,Radiant cool crazy nightmare. Zen New Jersey nowhere.
+17557,92,115,577000,Homer Simpson,Herman's Military Antiques,Put this in your pipe and smoke it.
+17558,92,116,586000,Beatnik Poet,Herman's Military Antiques,How now brown bureaucrats.
+17559,92,117,586000,Homer Simpson,Herman's Military Antiques,Woo Hoo! Woo hoo hoo hoo!
+17560,92,118,602000,Homer Simpson,Herman's Military Antiques,"Woo hoo, hoo! Take that Maynard G. Krebs!"
+17561,92,119,607000,Herman Hermann,Herman's Military Antiques,"Hey, see this sign?"
+17562,92,120,607000,Homer Simpson,Herman's Military Antiques,Sorry.
+17563,92,121,614000,Homer Simpson,Herman's Military Antiques,"Okay, men, it's time to clean up this town."
+17564,92,122,618000,Seymour Skinner,Herman's Military Antiques,Meaning what exactly?
+17565,92,123,620000,Homer Simpson,Herman's Military Antiques,"You know, push people around, make ourselves feel big."
+17566,92,124,623000,Homer Simpson,Herman's Military Antiques,"Bart, give me that megaphone of yours."
+17567,92,125,625000,Bart Simpson,Herman's Military Antiques,"It's not just a megaphone, Dad. It's a RapMaster 2000."
+17568,92,126,629000,Homer Simpson,Herman's Military Antiques,Never mind the commercials. Just give it to me. I've got to whip this neighborhood into shape.
+17569,92,127,636000,Homer Simpson,Herman's Military Antiques,Move along there.
+17570,92,128,636000,Twelve-year-old,Herman's Military Antiques,It's Hammer!
+17571,92,129,639000,Homer Simpson,Herman's Military Antiques,Return to your homes and places of businesses!
+17572,92,130,645000,Homer Simpson,Herman's Military Antiques,"Hey you, where'd you get that saxophone?"
+17573,92,131,657000,Student,Herman's Military Antiques,Sears.
+17574,92,132,659000,Homer Simpson,Herman's Military Antiques,Get him!
+17576,92,134,663000,Homer Simpson,Suburban Home,No burning leaves without a permit!
+17577,92,135,666000,Man,Suburban Home,I got one.
+17578,92,136,666000,Homer Simpson,Suburban Home,Too late.
+17579,92,137,673000,Homer Simpson,Suburban Home,"You better have a good reason for doing that, boy."
+17580,92,138,678000,Jimbo Jones,Suburban Home,It makes me feel like a big man.
+17483,92,139,681000,Homer Simpson,Suburban Home,Let me check my reason list.
+17484,92,140,681000,Homer Simpson,Suburban Home,Yep. It's on here.
+17512,92,141,685000,Jimbo Jones,Suburban Home,"Hey, you're that drunken posse. Wow, can I join you?"
+17513,92,142,691000,Homer Simpson,Suburban Home,I dunno. Can you swing a sack of door knobs?
+17514,92,143,693000,Jimbo Jones,Suburban Home,Can I?!
+17581,92,144,693000,Homer Simpson,Suburban Home,You're in. Here's the sack.
+17582,92,145,696000,Moe Szyslak,Suburban Home,But you gotta supply your own knobs.
+17584,92,147,698000,Homer Simpson,Simpson Home,"So I said to him, ""Look buddy, your car was upside down when we got here. And as for your Grandma, she shouldn't have mouthed off like that."""
+17585,92,148,703000,Lisa Simpson,Simpson Home,"Dad, don't you see you're abusing your power like all vigilantes? I mean, if you're the police, who will police the police?"
+17586,92,149,714000,Homer Simpson,Simpson Home,I 'unno. Coast Guard?
+17587,92,150,716000,Marge Simpson,Simpson Home,"Homer, wasn't the whole point to catch the cat burglar?"
+17588,92,151,719000,Lisa Simpson,Simpson Home,And I still don't have my saxophone.
+17589,92,152,721000,Homer Simpson,Simpson Home,"Lisa, the mob is working on getting your saxophone back, but we've also expanded into other important areas."
+17590,92,153,727000,Homer Simpson,Simpson Home,Literacy programs... preserving our beloved covered bridges... world domination...
+17591,92,154,733000,Lisa Simpson,Simpson Home,World domination?
+17592,92,155,733000,Homer Simpson,Simpson Home,"Oh, that might be a typo."
+148557,92,156,736000,Homer's Brain,Simpson Home,"Mental note: ""The girl knows too much."""
+17594,92,158,740000,Kent Brockman,Smartline Studio,"Mr. Simpson, how do you respond to the charge that petty vandalism such as graffiti is down 80 percent, while heavy sack beatings are up a shocking 900 percent?"
+17595,92,159,749000,Homer Simpson,Smartline Studio,"Aw, people can come up with statistics to prove anything, Kent. Forty percent of all people know that."
+17596,92,160,755000,Kent Brockman,Smartline Studio,"I see. Well, what do you say to the accusation that your group has been causing more crimes than it's been preventing?"
+17597,92,161,760000,Homer Simpson,Smartline Studio,"Oh, Kent, I'd be lying if I said my men weren't committing crimes."
+17598,92,162,765000,Kent Brockman,Smartline Studio,Touché.
+17599,92,163,767000,Kent Brockman,Smartline Studio,"Well, it looks like we have our first caller. And I mean ever, because this is not a call-in show. Hello, you're on the air."
+17600,92,164,774000,Cat Burglar,Smartline Studio,"Hello, Kent. Hello, Homer, my arch nemesis."
+17601,92,165,779000,Homer Simpson,Smartline Studio,Y'ello.
+17602,92,166,781000,Cat Burglar,Smartline Studio,"Uh, you do realize who this is..."
+17603,92,167,784000,Homer Simpson,Smartline Studio,Uh... Marge?
+17604,92,168,786000,Cat Burglar,Smartline Studio,"No, Homer, I'm not your wife, although I do enjoy her pearls. As a matter of fact, I'm holding them right now. Listen."
+17605,92,169,794000,Homer Simpson,Smartline Studio,Why you monster! And you have my daughter's saxophone too!
+17606,92,170,799000,Kent Brockman,Smartline Studio,"Homer, that's our stage manager!"
+17607,92,171,804000,Homer Simpson,Smartline Studio,Oh sorry. I'm a little nervous.
+17608,92,172,807000,Cat Burglar,Smartline Studio,"It may interest you to know that for my next crime I'll be pinching the pride and joy of the Springfield Museum, the world's largest cubic zirconia."
+17609,92,173,815000,Homer Simpson,Smartline Studio,"Listen, Mr. Cat Burglar, I vow to go without sleep and guard the Springfield museum day and night for as long as it takes, from now on unless you want to taunt me more by giving me an approximate time."
+17610,92,174,828000,Homer Simpson,Smartline Studio,We'll be right back.
+17611,92,175,828000,Kent Brockman,Smartline Studio,I get to say that.
+17613,92,177,832000,Grampa Simpson,Springfield Museum,"Son, we wanna help you catch that plug-ugly-yegg."
+17614,92,178,836000,Homer Simpson,Springfield Museum,"Dad, the best way for you to help is to set a good example. Just stand around and don't steal anything."
+17615,92,179,845000,Homer Simpson,Springfield Museum,Hey!
+17616,92,180,845000,Grampa Simpson,Springfield Museum,We're on our break!
+17617,92,181,848000,Seymour Skinner,Springfield Museum,Any sign of the burglar yet?
+17618,92,182,848000,Homer Simpson,Springfield Museum,He'll show.
+17619,92,183,851000,Seymour Skinner,Springfield Museum,How's that?
+17620,92,184,851000,Homer Simpson,Springfield Museum,It's his job.
+17621,92,185,852000,Seymour Skinner,Springfield Museum,How's that?
+17622,92,186,852000,Homer Simpson,Springfield Museum,He's a burglar.
+17623,92,187,855000,Homer Simpson,Springfield Museum,"Well, Mr. Cat Burglar, you'd like to get in here, wouldn't you? There's just one little problem. Thirty-six years ago some lady gave birth to a man named Homer J. Sim -- Oh my God! Underage kids drinking beer without a permit!"
+17624,92,188,889000,Kids,Springfield Museum,Chug! Chug! Chug! Chug! Chug!
+17626,92,190,897000,Homer Simpson,Simpson Home,Asleep at the switch! I wasn't asleep! I was drunk!
+17627,92,191,901000,Bart Simpson,Simpson Home,"I believe you, Dad."
+17628,92,192,903000,Homer Simpson,Simpson Home,"Well, no matter what the paper says, I still have a job to do."
+17630,92,194,907000,Barney Gumble,Simpson Home,"Go home, Simpson."
+17631,92,195,914000,Jimbo Jones,Simpson Home,"You let me down, man. Now I don't believe in nothing no more. I'm going to law school."
+17632,92,196,921000,Homer Simpson,Simpson Home,Nooooo!
+17633,92,197,924000,Lisa Simpson,Simpson Home,"Dad, maybe this will cheer you up."
+17634,92,198,927000,Homer Simpson,Simpson Home,"Oh, this doesn't work any more."
+17635,92,199,932000,Homer Simpson,Simpson Home,I didn't say stop.
+17637,92,201,938000,Marge Simpson,Simpson Home,Oh my! I had no idea how much this town loved that zirconia.
+17638,92,202,941000,Grampa Simpson,Simpson Home,Let me through! Coming through!
+17639,92,203,944000,Lisa Simpson,Simpson Home,"Oh, Grampa. They pelted you too?"
+17640,92,204,946000,Grampa Simpson,Simpson Home,No. Actually I fell down at the Big Boy.
+17641,92,205,949000,Grampa Simpson,Simpson Home,"Son, I've come to help you. I know who the cat burglar is."
+17642,92,206,954000,Lisa Simpson,Simpson Home,What? Who? Huh? What?
+17643,92,207,956000,Grampa Simpson,Simpson Home,"Well, well, well. Before I was too old and no one wanted my help. Suddenly, look who comes to old Grampa for--wait! Where're you going?"
+17644,92,208,966000,Grampa Simpson,Simpson Home,Come back. I'll tell you.
+17645,92,209,969000,Grampa Simpson,Simpson Home,He was right under my nose the whole time. He lives in my retirement home. His name is Molloy.
+17646,92,210,977000,Lisa Simpson,Simpson Home,"Wow! How'd you track him down, Grampa?"
+17647,92,211,979000,Grampa Simpson,Simpson Home,Good question.
+17649,92,213,981000,Grampa Simpson,Hallway,On one of my frequent trips to the ground... I noticed Molloy wore sneakers.
+17650,92,214,989000,Grampa Simpson,Hallway,For sneaking! My next clue came just yesterday at the museum. We felt slighted by your age-bashing and started home.
+17652,92,216,998000,Grampa Simpson,Museum,"Molloy said, 'I'll catch up with you.'"
+17653,92,217,998000,Grampa Simpson,Museum,"I couldn't quite put my finger on it. There was something strange about the way he walked. Much more vertical than usual. And finally, Molloy, unlike most retired people, has the world's largest cubic zirconia on his coffee table."
+17654,92,218,1023000,Homer Simpson,Museum,"Aw, Dad, I could kiss you."
+17655,92,219,1025000,Grampa Simpson,Museum,Well kiss me right here. It's the only part that still has feeling.
+17657,92,221,1029000,Homer Simpson,Simpson Home,No wait! I know where the burglar is!
+17658,92,222,1033000,Grampa Simpson,Simpson Home,To the retirement home!
+17659,92,223,1033000,Crowd,Simpson Home,Hooray!
+17661,92,225,1037000,Seymour Skinner,Springfield Retirement Castle,And there she is: the world's largest cubic zirconia.
+17662,92,226,1046000,Moe Szyslak,Springfield Retirement Castle,What an eyesore.
+17663,92,227,1048000,Homer Simpson,Springfield Retirement Castle,"So, Mr. Molloy. It seems that the cat has been caught by the very person that was trying to catch him."
+17664,92,228,1056000,Seymour Skinner,Springfield Retirement Castle,How ironic.
+17665,92,229,1056000,Molloy,Springfield Retirement Castle,"Homer old chum. Well done. If anyone was going to catch me, I'm glad it was you."
+17666,92,230,1062000,Homer Simpson,Springfield Retirement Castle,"Actually, it wasn't me. It was my Dad, Grampa."
+17667,92,231,1066000,Grampa Simpson,Springfield Retirement Castle,"Thanks, son. So you see old people aren't so useless after all. Molloy's old and he outsmarted the lot of ya. And I'm even older and I outsmarted him."
+17668,92,232,1078000,Moe Szyslak,Springfield Retirement Castle,Shut up.
+17669,92,233,1078000,Grampa Simpson,Springfield Retirement Castle,I've had my moment.
+17670,92,234,1082000,Molloy,Springfield Retirement Castle,"And of course, I'm happy to return all of your treasured possessions."
+17671,92,235,1086000,Molloy,Springfield Retirement Castle,"Selma, my dear, your lock of MacGyver's hair."
+17672,92,236,1092000,Selma Bouvier,Springfield Retirement Castle,Thank you. I'll add it to the ball.
+17673,92,237,1096000,Molloy,Springfield Retirement Castle,"And little Lisa, here's your saxophone."
+17674,92,238,1099000,Lisa Simpson,Springfield Retirement Castle,"Thank you. And thank you, Dad. You got it back, just like you said you would."
+17675,92,239,1106000,Molloy,Springfield Retirement Castle,"I sincerely regret any inconvenience I may have caused. And although I have stolen your material goods, let me assure you that your dear town has stolen my heart."
+17676,92,240,1115000,Crowd,Springfield Retirement Castle,Awwwww.
+17677,92,241,1117000,Seymour Skinner,Springfield Retirement Castle,"Oh, he's so charming!"
+17678,92,242,1117000,Barney Gumble,Springfield Retirement Castle,Let's let him go.
+17679,92,243,1120000,Crowd,Springfield Retirement Castle,Yeah!
+17680,92,244,1120000,Chief Wiggum,Springfield Retirement Castle,"Oh, sorry, folks. Gee, I really hate to spoil this little love-in, but Mr. Molloy broke the law. And when you break the law, you gotta go to jail."
+17681,92,245,1130000,Mayor Joe Quimby,Springfield Retirement Castle,"Uh, that reminds me, uh, here's your monthly kickback."
+17682,92,246,1133000,Chief Wiggum,Springfield Retirement Castle,"You just, you couldn't have picked a worse time."
+17684,92,248,1136000,Homer Simpson,Springfield Police Station,I caught the cat burglar. I caught the cat burglar. That means you. You are the cat burglar.
+17685,92,249,1144000,Molloy,Springfield Police Station,I suppose you're wondering where I hid all the millions of dollars I stole over the years.
+17686,92,250,1147000,Homer Simpson,Springfield Police Station,Shut up.
+17687,92,251,1147000,Chief Wiggum,Springfield Police Station,"Oh, wait a minute. Maybe we should uh, hear him out. Where'd you hide the loot, Molloy?"
+17688,92,252,1152000,Molloy,Springfield Police Station,"It's buried right here in Springfield, under a Big T."
+17689,92,253,1152000,Homer Simpson,Springfield Police Station,No kidding.
+17690,92,254,1158000,Chief Wiggum,Springfield Police Station,"Big T, huh?"
+17691,92,255,1160000,Homer Simpson,Springfield Police Station,"Well, I guess I'll be going to my home now and... sleep."
+17692,92,256,1166000,Chief Wiggum,Springfield Police Station,"Yeah, me too. I will also go home for sleep."
+17694,92,258,1169000,Homer Simpson,Downtown Springfield,Lemme through! I gotta find a Big T. There's millions of dollars buried under a Big T!
+17696,92,260,1180000,Chief Wiggum,Springfield Police Station,We need more information.
+17697,92,261,1193000,Molloy,Springfield Police Station,It's buried at 4723 Maple Valley Road.
+17698,92,262,1198000,Molloy,Springfield Police Station,"Ah, you take highway 201 south for 15 minutes... take a left at the left."
+17699,92,263,1205000,Barney Gumble,Springfield Police Station,"Oh, that was fun, ladies!"
+17700,92,264,1222000,Driver,Springfield Police Station,"Whatsa matter with you, kid? You told me the stream was shallow. Why you... oh kid... I'll kill you..."
+17701,92,265,1238000,Kent Brockman,Springfield Police Station,"Hordes of panicky people seem to be evacuating the town for some unknown reason. Professor, without knowing precisely what the danger is, would you say it's time for our viewers to crack each other's heads open and feast on the goo inside?"
+17702,92,266,1253000,Professor,Springfield Police Station,"Yes I would, Kent."
+17704,92,268,1256000,Otto Mann,Park,"Whoa, I found something!"
+17705,92,269,1290000,Chief Wiggum,Park,It's just a piece of paper.
+17706,92,270,1290000,Homer Simpson,Park,It's mine!
+17707,92,271,1292000,Homer Simpson,Park,"""Frightfully sorry, but there is no hidden treasure. I have already used this time to escape from your jail. Fondest wishes."" Oh, I can't make out this signature."
+17708,92,272,1303000,Mayor Joe Quimby,Park,Keep digging. We're bound to find something.
+17709,92,273,1307000,Mayor Joe Quimby,Park,Hmmm. I guess we're not gonna find anything.
+17710,92,274,1310000,Otto Mann,Park,"Uh, how're we gonna get outta here?"
+17711,92,275,1312000,Homer Simpson,Park,We'll dig our way out!
+17712,92,276,1312000,Chief Wiggum,Park,"No, no! Dig up, stupid!"

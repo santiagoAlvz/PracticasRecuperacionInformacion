@@ -1,0 +1,254 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+79712,311,1,31000,Marge Simpson,Springfield Aquarium,"Okay kids, stay together!"
+79713,311,2,33000,Seymour Skinner,Springfield Aquarium,I certainly appreciate you helping us out with this field trip.
+79714,311,3,37000,Marge Simpson,Springfield Aquarium,"Oh, a mom's work is never done."
+79715,311,4,39000,Seymour Skinner,Springfield Aquarium,I thought I was being kicked exceptionally hard lately.
+79716,311,5,43000,Bart Simpson,Springfield Aquarium,"If I could be any type of shark, I'd be a tiger shark. How 'bout you, Milhouse?"
+79717,311,6,48000,Milhouse Van Houten,Springfield Aquarium,I guess a nurse shark. I mean--
+79718,311,7,52000,Tour Guide,Springfield Aquarium,"Well, looks like Mr. Walrus and his family are enjoying their Sunday brunch!"
+79719,311,8,59000,Tour Guide,Springfield Aquarium,"Shut up! Am I some sort of joke to you people? Now over here is our newest exhibit, ""Wonders of the Gulf Coast."""
+79720,311,9,65000,Kids,Springfield Aquarium,Oooh...
+79721,311,10,68000,Tour Guide,Springfield Aquarium,Shut up! It's not that exciting.
+79722,311,11,70000,Tour Guide,Springfield Aquarium,"The Gulf is home to a breathtaking array of sea life. But, oil spills are threatening the delicate eco-system."
+79723,311,12,78000,The Rich Texan,Springfield Aquarium,"Hey, without oil, you wouldn't have your fancy four-wheel drives! You wanna go back to two-wheel drive? Well do ya?"
+79724,311,13,88000,The Rich Texan,Springfield Aquarium,I didn't mean to steal focus.
+79726,311,15,90000,Male Narrator,AQUARIUM,Antarctic life is a constant struggle. These sea lions survive by eating the leftovers of the various film crews that plague the continent.
+79731,311,20,115000,Female Tour Guide,AQUARIUM,"This tank is for our Pacific Habitat, which is currently being remodeled."
+79732,311,21,120000,Lisa Simpson,AQUARIUM,Where do you keep the fish 'til it's done?
+79733,311,22,122000,Female Tour Guide,AQUARIUM,"Oh, they're well taken care of, in our storage facility."
+79734,311,23,129000,Tour Guide,AQUARIUM,"In this tank, we see some of the most exotic species of the coral reef."
+79735,311,24,134000,Seymour Skinner,AQUARIUM,"Look children, that giant clam appears to be opening. This could be a wonderful journal entry!"
+79737,311,26,142000,Seymour Skinner,AQUARIUM,Look at the size of those flawless pearls!
+79738,311,27,149000,Seymour Skinner,AQUARIUM,I might have known... but I didn't.
+79739,311,28,152000,Marge Simpson,AQUARIUM,"Bart, get out of there!"
+79741,311,30,160000,Marge Simpson,Springfield General Hospital,My poor boy. Will he be all right?
+79742,311,31,163000,Dr. Julius Hibbert,Springfield General Hospital,"Marge, this kind of injury is surprisingly routine."
+79743,311,32,170000,Dr. Julius Hibbert,Springfield General Hospital,Bart will be up and underachieving in no time. All I need is your insurance card...
+79744,311,33,176000,Marge Simpson,Springfield General Hospital,My husband has our card...
+79745,311,34,178000,Dr. Julius Hibbert,Springfield General Hospital,No problem.
+79746,311,35,181000,Dr. Julius Hibbert,Springfield General Hospital,Now you stay shackled to that radiator until you come up with some insurance.
+79747,311,36,186000,Marge Simpson,Springfield General Hospital,"Well, it's eleven a.m. on a workday, so he must be at that stupid bar."
+79748,311,37,193000,Marge Simpson,Springfield General Hospital,Is my husband there?
+79750,311,39,194000,Moe Szyslak,Moe's Tavern,"I don't think he's here... hang on, let me check."
+79751,311,40,200000,Moe Szyslak,Moe's Tavern,Nope. Whatcha wearin'?
+79756,311,44,210000,Bart Simpson,SPRINGFIELD HOSPITAL WAITING ROOM,"Okay, five more minutes and I'm chewing my hand off."
+79757,311,45,213000,Homer Simpson,SPRINGFIELD HOSPITAL WAITING ROOM,"Bart, are you okay?"
+79758,311,46,214000,Marge Simpson,SPRINGFIELD HOSPITAL WAITING ROOM,"Homie, where have you been? I've been calling all over for you!"
+79759,311,47,218000,Homer Simpson,SPRINGFIELD HOSPITAL WAITING ROOM,"Hey, take it easy. I went to the video store, to rent a movie for the family..."
+79761,311,49,223000,Announcer,Video Store,"He's got a nose for news, and a diaper full of headlines..."
+79762,311,50,229000,Reporter,Video Store,Hey Chief!
+79763,311,51,231000,Announcer,Video Store,He's Editor-In-Chimp!
+79764,311,52,234000,Homer Simpson,Video Store,That monkey's wearin' a hat.
+79765,311,53,237000,Female,Video Store,"Lifetime Films presents, ""Buttercups of Autumn."""
+79766,311,54,241000,Southern Woman,Video Store,I fear I have become a buttercup of winter.
+79767,311,55,244000,Woman's Daughter,Video Store,"Hush up, Nana. That's fool talk."
+79770,311,58,265000,Homer Simpson,Video Store,"Look, he's misspelling words."
+79771,311,59,267000,Woman,Video Store,Nana...
+79773,311,61,271000,Marge Simpson,Springfield General Hospital,"Well from now on, you need to get a cell phone so I can reach you."
+79774,311,62,275000,Homer Simpson,Springfield General Hospital,"You can't just ""get"" a cell phone."
+79775,311,63,277000,Lindsay Naegle,Springfield General Hospital,Lindsay Naegle -- Veriqual Cellular. And I can offer you a whole range of cellular solutions.
+79776,311,64,283000,Homer Simpson,Springfield General Hospital,Can I get a phone that plays the Mexican Hat Dance?
+79777,311,65,285000,Lindsay Naegle,Springfield General Hospital,I insist on it.
+79778,311,66,287000,Homer Simpson,Springfield General Hospital,"I DANCE, I DANCE, I DANCE / AROUND A MEXICAN HAT / I DANCE, I DANCE, I DANCE / AND THAT'S THE END OF THAT / OR IS IT I GUESS I'LL KEEP SINGING / MY CELL PHONE APPEARS TO BE RINGING..."
+79781,311,69,300000,Homer Simpson,Homer's Car,"Barney, you ever notice how hard it is to drive with your knees?"
+79782,311,70,303000,Barney Gumble,Homer's Car,Why don't you get one of those hands-free phones? It's the next best thing to paying attention to the road.
+79783,311,71,309000,Homer Simpson,Homer's Car,"Hands-free, eh? Then I could give the brothers the black power salute."
+79784,311,72,314000,Homer Simpson,Homer's Car,Black power! Black power!
+79785,311,73,318000,Carl Carlson,Homer's Car,Was that Al Roker?
+79786,311,74,319000,Drederick Tatum,Homer's Car,His exuberance is perplexing.
+79788,311,77,322000,Armando,Try-N-Save,Of course we have headsets. But you would be mad to stop there. Tell me -- what is currently plugged into your car's cigarette lighter?
+79789,311,78,329000,Homer Simpson,Try-N-Save,Uh... a lighter.
+79790,311,79,331000,Armando,Try-N-Save,"I weep for you. These days, everything from fax machines to coffee makers can be plugged into your ""dash hole."""
+79791,311,80,332000,Homer Simpson,Try-N-Save,I'll take 'em.
+79793,311,82,340000,Homer Simpson,Simpson Car,DVD player? Check. Snow-cone machine? Check. Lite Brite?
+79794,311,83,344000,Homer Simpson,Simpson Car,Check. Fog machine?
+79795,311,84,349000,Homer Simpson,Simpson Car,Even I think this is crazy.
+79797,311,86,353000,Homer Simpson,Homer's Car,"CHAKA KHAN, LET ME ROCK YOU / LET ME ROCK YOU, CHAKA KHAN / CHAKA KHAN CHAKA KHAN..."
+79798,311,87,358000,Tv Chef,Homer's Car,Whisk the egg whites into the batter mixture while scraping the edges with a stiff rubber spatula. Now let's look in on our hushpuppies.
+79800,311,89,380000,Homer Simpson,Homer's Car,Oh my God! I've got to do something.
+79801,311,90,384000,Homer Simpson,Homer's Car,"Come on, transmit. Transmit!"
+79802,311,91,389000,Homer Simpson,Homer's Car,Save me Chaka Khan! Chaka Khannnn!
+79804,311,93,400000,Homer Simpson,SPRINGFIELD PIER,I'll never mock the Coast Guard again. You Navy rejects are all right!
+79806,311,95,405000,Judge Harm,JUDGE HARM'S COURTROOM,"Mr. Simpson, give me your license."
+79807,311,96,417000,Judge Harm,JUDGE HARM'S COURTROOM,Burn their poop.
+79809,311,98,419000,Homer Simpson,Simpson Car,"I am so screwed. I can't drive to work, I can't drive to the store, and I certainly can't drive to the store at work."
+79810,311,99,428000,Marge Simpson,Simpson Car,I guess I'll have to do all your driving chores. That's what a good wife does -- picks up the slack.
+79811,311,100,434000,Homer Simpson,Simpson Car,"That reminds me, we gotta pick up my slacks at that dry cleaner in Shelbyville."
+79812,311,101,437000,Marge Simpson,Simpson Car,Why can't you use the local dry cleaner?
+79813,311,102,440000,Homer Simpson,Simpson Car,I didn't want them to know my size.
+79814,311,103,443000,Homer Simpson,Simpson Car,"Thanks for picking my friends up from the strip club, Marge."
+79815,311,104,446000,Lenny Leonard,Simpson Car,Can we stop for ice cream?
+79816,311,105,448000,Carl Carlson,Simpson Car,Homer always stops for ice cream.
+79817,311,106,449000,Marge Simpson,Simpson Car,We'll see.
+79818,311,107,451000,Lenny Leonard,Simpson Car,That always means no.
+79820,311,109,455000,Homer Simpson,Simpson Home,Where is your mother? I've gotta get to Moe's.
+79821,311,110,457000,Lisa Simpson,Simpson Home,"Dad, mom's been driving everyone everywhere. Why don't you take public transportation?"
+79822,311,111,462000,Homer Simpson,Simpson Home,Public transportation is for jerks and lesbians. I guess I'll walk.
+79824,311,113,467000,Homer Simpson,Evergreen Terrace,"Stupid walking, thighs chafing horribly, no drink holder. I miss my car so much -- everyone's driving but me!"
+79825,311,114,478000,Comic Book Guy,Evergreen Terrace,I can't drive fifty-five! 'Cause it only goes thirty-eight.
+79826,311,115,484000,Ralph Wiggum,Evergreen Terrace,I let go of the parking brake!
+79827,311,116,486000,Chief Wiggum,Evergreen Terrace,"Ralphie, if you stop the car, I'll let you play with my gun."
+79829,311,118,493000,Homer Simpson,Moe's Tavern,I did it. I walked all the way to Moe's from my house.
+79830,311,119,496000,Bart Simpson,Moe's Tavern,"Way to go, Dad!"
+79831,311,120,499000,Homer Simpson,Moe's Tavern,"You know, I feel pretty good. Maybe I should just keep walking instead of going into a dark, dreary bar."
+79832,311,121,505000,Moe Szyslak,Moe's Tavern,"Get in here, boozy. You're late for your drunkening."
+79833,311,122,508000,Homer Simpson,Moe's Tavern,"No. From now on, walking is my beer. And feeling good is my hangover."
+79834,311,123,512000,Moe Szyslak,Moe's Tavern,Huh. Hey maybe this is a sign. Maybe it's time for me to get out of the alcohol business. Give barber college another try -- and this time I won't join a frat.
+79835,311,124,525000,Moe Szyslak,Moe's Tavern,Who the hell am I talkin' to?
+79837,311,126,527000,Homer Simpson,Simpson Home,"You know, all this walking is paying off -- look how healthy I am."
+79838,311,127,532000,Homer Simpson,Simpson Home,You see? I'm finally thin enough to wrap this thing around my arm.
+79839,311,128,537000,Lisa Simpson,Simpson Home,"Good for you, Dad. Could you get me some syrup?"
+79840,311,129,542000,Homer Simpson,Simpson Home,"You see? Before, I probably would have driven to the syrup."
+79841,311,130,545000,Marge Simpson,Simpson Home,"Kids, hurry up and eat! We have to leave for the dentist five minutes ago!"
+79843,311,132,553000,Marge Simpson,Simpson Home,We don't have time for choking!
+79844,311,133,555000,Homer Simpson,Simpson Home,"Calm down, Stresserella!"
+79845,311,134,557000,Marge Simpson,Simpson Home,"I'm stressed because now that you've lost your license, I'm a full-time family chauffeur!"
+79846,311,135,563000,Homer Simpson,Simpson Home,"Now now, honey. We all appreciate what you do. But real chauffeurs have uniforms and licenses. You could get in a lot of trouble with the Livery Commission."
+79847,311,136,572000,Marge Simpson,Simpson Home,To hell with the Livery Commission!
+79848,311,137,575000,Homer Simpson,Simpson Home,"Marge, you don't know what you're saying!"
+79850,311,139,579000,Homer Simpson,Springfield Sidewalk,What a day for a stroll.
+79851,311,140,584000,Edna Krabappel-Flanders,Springfield Sidewalk,"Seymour, the two of us could make good use of this time."
+79852,311,141,588000,Seymour Skinner,Springfield Sidewalk,Indeed. You take this teacher evaluation test. I'll proctor.
+79853,311,142,592000,Seymour Skinner,Springfield Sidewalk,Read the directions silently as I read them aloud to you.
+79854,311,143,595000,Homer Simpson,Springfield Sidewalk,Look at those suckers in their metal coffins. I can go to work any way I want.
+79856,311,145,603000,Homer Simpson,Springfield Park,Psst. Bishop to queen four.
+79857,311,146,605000,Old Jewish Man,Springfield Park,We're playing dominoes.
+79858,311,147,606000,Homer Simpson,Springfield Park,"I said, ""Bishop to queen four."""
+79859,311,148,606000,Old Jewish Man,Springfield Park,"All right, all right."
+79861,311,150,616000,Grouchy Old Man,Springfield Street,"Simpson, you're a menace!"
+79862,311,151,617000,Sweet Old Lady,Springfield Street,"Oh George, leave the boy be."
+79863,311,152,620000,Grouchy Old Man,Springfield Street,"Martha, I want a divorce."
+79864,311,153,621000,Sweet Old Lady,Springfield Street,"Oh George, you've made me so happy."
+79866,311,155,627000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Why, you're the first one here! Please accept this free ticket to the 1939 World's Fair."
+79867,311,156,633000,Homer Simpson,Springfield Nuclear Power Plant,"Thanks, Mr. Burns. I owe it all to walking."
+79868,311,157,636000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Walking, eh? Let me give it a try."
+79869,311,158,642000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Well, I'd better drag myself to the hospital."
+79870,311,159,647000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh dear. Smithers, scoop me up."
+79872,311,161,653000,Marge Simpson,Marge's Car,How could you both miss the bus to school?
+79873,311,162,656000,Bart Simpson,Marge's Car,We touched hands and then we had to wash the cooties off.
+79875,311,164,661000,Marge Simpson,Marge's Car,What's all that rustling?
+79876,311,165,663000,Milhouse Van Houten,Marge's Car,My show and tell project... a Peruvian fighting frog.
+79877,311,166,667000,Bart Simpson,Marge's Car,Hey! I brought a Peruvian fighting frog!
+79879,311,168,678000,Marge Simpson,Marge's Car,When will they stop?
+79880,311,169,680000,Milhouse Van Houten,Marge's Car,Come nightfall.
+79882,311,171,683000,Homer Simpson,Simpson Home,How 'bout we take a family walk around the block?
+79883,311,172,686000,Lisa Simpson,Simpson Home,Yay! I wanna amble!
+79884,311,173,687000,Bart Simpson,Simpson Home,I wanna saunter!
+79885,311,174,688000,Lisa Simpson,Simpson Home,Amble!
+79886,311,175,688000,Bart Simpson,Simpson Home,Saunter!
+79887,311,176,690000,Lisa Simpson,Simpson Home,Amble!
+79888,311,177,690000,Bart Simpson,Simpson Home,Saunter!
+79889,311,178,691000,Marge Simpson,Simpson Home,Stop saying things!
+79890,311,179,692000,Homer Simpson,Simpson Home,"Honey, you seem frazzled. Why don't you come with us?"
+79891,311,180,696000,Marge Simpson,Simpson Home,"Hey, I'd like that. I can't. I have to go pick up Grampa... he proposed to another hooker at the bus station."
+79892,311,181,705000,Homer Simpson,Simpson Home,You sure love driving.
+79895,311,184,720000,Lenny Leonard,Springfield,"Morning, Homer. Lookin' good."
+79896,311,185,722000,Carl Carlson,Springfield,"Yeah, walking's made a new man out of you."
+79897,311,186,724000,Homer Simpson,Springfield,It sure has. You see this bulge back here?
+79898,311,187,727000,Homer Simpson,Springfield,Now it actually is a fanny pack.
+79899,311,188,731000,Homer Simpson,Springfield,"No, wait. It's still my ass. But your point is well taken. You see..."
+79900,311,189,736000,Homer Simpson,Springfield,I LIKE TO WALK DOWN THE AVENUE / BUST A MOVE WITH DISCO STU...
+79901,311,190,744000,Disco Stu,Springfield,YOU SHAKE ME FROM MY BOOTY TO MY 'FRO...
+79902,311,191,747000,Homer Simpson,Springfield,"YES, I STRUT DOWN THE BOULEVARD / BURNING OFF MY EXCESS LARD..."
+79903,311,192,753000,Homer Simpson,Springfield,I RARELY FEEL THE NEED TO UTTER D'OH!
+79904,311,193,757000,Homer Simpson,Springfield,"Top of the mornin', ladies."
+79905,311,194,758000,Patty Bouvier,Springfield,Bite us.
+79906,311,195,760000,Homer Simpson,Springfield,I CAN WALK FROM SPRINGFIELD TO ALASKA / THEN HOBNOB WITH THE STARS IN MALIBU...
+79907,311,196,768000,Steve Buscemi,Springfield,Hi Homer. I'm actor Steve Buscemi.
+79908,311,197,770000,Homer Simpson,Springfield,"The guy who got fed into the wood chipper in ""Fargo""?"
+79909,311,198,774000,Homer Simpson,Springfield,AND WHEN I HEAR...
+79910,311,199,775000,Turks,Springfield,YOU CAN'T WALK TO TURKMENISTAN!
+79911,311,200,778000,Homer Simpson,Springfield,"I SAY ""OF COURSE I CAN -- SCREW YOU!"""
+79912,311,201,781000,Steve Buscemi,Springfield,"Hey, would you guys like tickets to the Independent Film Awards?"
+79913,311,202,786000,Turks,Springfield,Would we!
+79914,311,203,790000,Homer Simpson,Springfield,"OH, I LOVE TO PERAMBULATE / IT'S STANDING STILL I REALLY HATE / SO LET ME PLEASE REITERATE / I LOVE TO..."
+79916,311,205,802000,Homer Simpson,Springfield,My feet are inside me.
+79918,311,207,810000,Marge Simpson,Simpson Home,"I am so sorry, Homie. How is your crushed pelvis?"
+79919,311,208,814000,Homer Simpson,Simpson Home,Pretty good. Thanks for asking.
+79920,311,209,816000,Marge Simpson,Simpson Home,I don't know what happened. I saw you and I went for the brake but I hit the accelerator!
+79921,311,210,822000,Homer Simpson,Simpson Home,"It's okay, Marge. It would have been a lot worse if I hadn't been carrying this Bible in my crotch."
+79922,311,211,827000,Dr. Julius Hibbert,Simpson Home,"Now Marge, while Homer recuperates, I'm afraid you'll pretty much have to do everything for him."
+79923,311,212,832000,Marge Simpson,Simpson Home,"That's okay. I can handle it. Homie, why don't you just relax and have a little soup?"
+79924,311,213,840000,Homer Simpson,Simpson Home,Too hot! Too hot!
+79925,311,214,841000,Marge Simpson,Simpson Home,I'm sorry! I'm sorry!
+79926,311,215,843000,Homer Simpson,Simpson Home,"Hot! Hot! Hot! Warm, tepid, cool, cold... so cold!"
+79927,311,216,852000,Marge Simpson,Simpson Home,"Oh, you're really coming along, Homie."
+79928,311,217,855000,Homer Simpson,Simpson Home,"Yeah, the doctor says that soon my pelvis will actually be stronger and more beautiful than ever."
+79929,311,218,866000,Marge Simpson,Simpson Home,"Gee, everything always works out for you."
+79930,311,219,870000,Marge Simpson,Simpson Home,Oh my God! Let me help you up!
+79931,311,220,872000,Homer Simpson,Simpson Home,"Marge, you're trying to hurt me!"
+79932,311,221,876000,Marge Simpson,Simpson Home,What? That's crazy.
+79933,311,222,879000,Homer Simpson,Simpson Home,"No, it's true. The car, the soup... It's like you hate me... your own husband..."
+79934,311,223,885000,Marge Simpson,Simpson Home,"That's ridiculous. I don't like you. I mean hate you, hate you, hate you! I hate you!"
+79935,311,224,891000,Homer Simpson,Simpson Home,"I've heard that from co-workers, strangers on the street, even my own children... but I never thought I'd hear it from you."
+79936,311,225,900000,Marge Simpson,Simpson Home,Maybe we should see a counselor.
+79937,311,226,902000,Homer Simpson,Simpson Home,"Who's ""we""? Got a mouse in your purse?"
+79940,311,229,909000,Apu Nahasapeemapetilon,Waiting Room,"Manjula, I'm so glad you have finally forgiven me for having an affair."
+79941,311,230,914000,Apu Nahasapeemapetilon,Waiting Room,She used to elbow me in the face!
+79942,311,231,918000,Counselor,Waiting Room,"Next, please."
+79944,311,233,921000,Marge Simpson,COUNSELOR'S OFFICE,I've been married to my husband for ten years and part of me wants to kill him.
+79946,311,234,926000,Marriage Counselor,COUNSELOR'S OFFICE,Perhaps you feel that your husband sees you as less of a partner and more of a doormat.
+79947,311,235,930000,Homer Simpson,COUNSELOR'S OFFICE,Nothing could be farther from the...
+79948,311,236,934000,Homer Simpson,COUNSELOR'S OFFICE,"You could be on to something there, Doc..."
+79949,311,237,941000,Homer Simpson,COUNSELOR'S OFFICE,"Sorry, I got a lot on my mind."
+79950,311,238,943000,Marriage Counselor,COUNSELOR'S OFFICE,"That's okay, take your time."
+79951,311,239,947000,Marriage Counselor,COUNSELOR'S OFFICE,"All right, before you came in, I asked you each to make a list of the people that are most important to you. Homer, you first."
+79952,311,240,954000,Homer Simpson,COUNSELOR'S OFFICE,"There's Homer... Homer J. Simpson... and Commander Cool, a/k/a me."
+79953,311,241,960000,Marge Simpson,COUNSELOR'S OFFICE,"That's us in a nutshell. I care so much about you, Homer, but I'm not even on your list. Excuse me."
+79954,311,242,970000,Homer Simpson,COUNSELOR'S OFFICE,"We've gotta help her. If Marge isn't happy, I'm not happy. And if I'm not happy Moe is very happy. But for once, this isn't about Moe. What should I do, Dr. Hot Dog?"
+79955,311,243,982000,Marriage Counselor,COUNSELOR'S OFFICE,All right. I have an answer. You must perform for her one completely unselfish gesture.
+79956,311,244,988000,Homer Simpson,COUNSELOR'S OFFICE,You mean... like give her full custody of the kids?
+79957,311,245,991000,Marriage Counselor,COUNSELOR'S OFFICE,"Yeah, full custody, that's exactly what I... you're an idiot."
+79958,311,246,996000,Marriage Counselor,COUNSELOR'S OFFICE,You gotta knock her off her feet with something utterly romantic... something that says I care about you.
+79959,311,247,1000000,Homer Simpson,COUNSELOR'S OFFICE,I see. Do you have any suggestions?
+79960,311,248,1005000,Marriage Counselor,COUNSELOR'S OFFICE,"I do, but the hour is over."
+79961,311,249,1007000,Homer Simpson,COUNSELOR'S OFFICE,Here's a dollar.
+79962,311,250,1008000,Marriage Counselor,COUNSELOR'S OFFICE,Romantic dinner.
+79963,311,251,1009000,Homer Simpson,COUNSELOR'S OFFICE,Gotta go.
+79965,311,253,1010000,Lisa Simpson,Moe's Tavern,"You know what Mom really loves? Julienne potatoes. And for dessert, peach crumble."
+79966,311,254,1017000,Moe Szyslak,Moe's Tavern,"You wanna know how to make a peach crumble? Kick it in the groin. Ha, anyway, what's goin' on?"
+79967,311,255,1022000,Homer Simpson,Moe's Tavern,"I'm gonna treat Marge to a romantic dinner, to make up for all my shortcomings."
+79968,311,256,1027000,Lenny Leonard,Moe's Tavern,"Hey, Homer. If you're havin' a banquet for Marge, I'd like to help."
+79969,311,257,1030000,Carl Carlson,Moe's Tavern,"Hey, me too. I could whip up my famous poulet au vin avec champignons à la Carl."
+79970,311,258,1037000,Homer Simpson,Moe's Tavern,You can bring a bag of ice.
+79973,311,260,1040000,Marge Simpson,Springfield Street,Lousy Homer... I'll show him... tonight his beloved mock apple pie will have real apples.
+79974,311,261,1047000,Marge Simpson,Springfield Street,Wha...?!
+79976,311,263,1054000,Marge Simpson,Simpson Home,Oh my God. It's so beautiful.
+79977,311,264,1057000,Carl Carlson,Simpson Home,"Hey look, everybody, Marge is here!"
+79979,311,266,1062000,Marge Simpson,Simpson Home,"Oh Homie, you got everyone in Springfield here for me!"
+79980,311,267,1066000,Homer Simpson,Simpson Home,"Honey, I couldn't keep 'em away if I tried. Except for Flanders. He was mysteriously called out of town."
+79983,311,270,1080000,Ned Flanders,Train,"I got your letter, Jesus and I'm coming as fast as I can."
+79985,311,272,1084000,Homer Simpson,Simpson Home,"Tonight, we're here to serve you. Sit back and enjoy the finest foods Springfield has to offer."
+79986,311,273,1090000,Captain Horatio McCallister,Simpson Home,I brought you me finest catch of the day. We lost a dozen good men. But it's worth it just to see you smile.
+79988,311,275,1099000,Captain Horatio McCallister,Simpson Home,"That's it, eh? Twelve men. Well, I've got some families to inform."
+79989,311,276,1108000,Marge Simpson,Simpson Home,What?
+79990,311,277,1109000,Captain Horatio McCallister,Simpson Home,Nothing. Just a curse on your very soul.
+79991,311,278,1112000,Luigi,Simpson Home,"And now Marge, I bringa you the main course."
+79992,311,279,1116000,Luigi,Simpson Home,"Electra recording artist slash political activist, Jackson Browne!"
+79993,311,280,1121000,Marge Simpson,Simpson Home,"Ooo, the Pretender!"
+79994,311,281,1123000,Jackson Browne,Simpson Home,"When Homer told me about this special night, I just had to be a part of it. I'm here to serenade you with a song..."
+79996,311,283,1131000,Jackson Browne,Simpson Home,...from my latest album.
+79998,311,285,1134000,Jackson Browne,Simpson Home,Just kidding. Here's one of my many classics.
+79999,311,286,1138000,Homer Simpson,Simpson Home,That I fixed with new words!
+80000,311,287,1142000,Jackson Browne,Simpson Home,YOU HOOKED UP IN HIGH SCHOOL / NOW YOU'VE COME SO FAR / THEN YOU STARTED TO HATE HIM / AND HIT HIM WITH YOUR CAR.
+80001,311,288,1158000,Homer Simpson,Simpson Home,SO I THREW YOU A FANCY BANQUET / AND NOW YOU CAN'T STAY MAD / HOW 'BOUT A MAKE-UP SNUGGLE? / IT WOULD BE SO RAD.
+80002,311,289,1172000,Jackson Browne,Simpson Home,MARGIE YOU'RE ALL RIGHT / YOU WEAR MY RING / WHEN YOU HOLD ME TIGHT / MARGIE THAT'S MY THING...
+79945,311,290,1172000,Marge Simpson,Simpson Home,I'm really touched by how much you care.
+80004,311,291,1175000,Marge Simpson,Simpson Home,"I love you, too."
+80005,311,292,1177000,Homer Simpson,Simpson Home,So you don't want to kill me anymore?
+80006,311,293,1179000,Marge Simpson,Simpson Home,Only with kisses.
+80008,311,295,1183000,Marge Simpson,Simpson Home,"Oh, don't be a wuss."
+80009,311,296,1185000,Jackson Browne,Simpson Home,WHEN YOU TURN OUT THE LIGHT / I'VE GOT TO HAND IT TO ME / LOOKS LIKE IT'S ME AND YOU AGAIN TONIGHT / MARJORIE.
+80011,311,298,1204000,Homer Simpson,Simpson Backyard,Now I'd like to propose a toast: to a woman who's done so much for us without getting anything in return.
+80012,311,299,1210000,Bart Simpson,Simpson Backyard,Except a place to live and free food.
+80013,311,300,1212000,Homer Simpson,Simpson Backyard,Why you little...
+80014,311,301,1215000,Homer Simpson,Simpson Backyard,"Now, let's all raise our wine boxes... to Marge!"
+80015,311,302,1221000,Townspeople,Simpson Backyard,"Hear, hear!"
+80016,311,303,1222000,Townspeople,Simpson Backyard,To Marge!
+80018,311,305,1231000,Patty Bouvier,Simpson Home,I'm so full. My control top panel is in shards.
+80019,311,306,1236000,Marge Simpson,Simpson Home,I want to thank you all so much.
+80020,311,307,1238000,Homer Simpson,Simpson Home,"You're welcome. And now Marge, we cooked, you clean."
+80021,311,308,1243000,Marge Simpson,Simpson Home,What?!
+80022,311,309,1244000,Homer Simpson,Simpson Home,"Only teasing. We've flown in the finest busboys from France... I mean, America!"
+80023,311,310,1250000,Busboys,Simpson Home,Vite! Vite!
+80024,311,311,1254000,Homer Simpson,Simpson Home,"And now, to all my dear friends, I say... get the Hell out of my yard."

@@ -1,0 +1,286 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+4451,47,1,45000,Marge Simpson,Simpson Home,"""Barnacle Bill's Home Pregnancy Test""? Homer, shouldn't we have gone with a better-known brand?"
+4452,47,2,89000,Homer Simpson,Simpson Home,"But Marge, this one came with a free corncob pipe."
+4453,47,3,92000,Marge Simpson,Simpson Home,"Okay, let's see... ""Ahoy maties! If the water turns blue, a baby for you. If purple ye see, no baby thar be""."
+4454,47,4,99000,Homer Simpson,Simpson Home,"Well, what color is it? Blue or purple?"
+4455,47,5,104000,Marge Simpson,Simpson Home,Pink.
+4457,47,7,106000,Marge Simpson,Simpson Home,"""If ye test should fail, to a doctor set sail"". Well, I guess I'd better go see Dr. Hibbert."
+4458,47,8,113000,Homer Simpson,Simpson Home,"Oh honey, do you really think you're pregnant?"
+4459,47,9,116000,Marge Simpson,Simpson Home,"Well, I have the same nausea and craving for pancake mix I did with the other kids."
+4460,47,10,122000,Homer Simpson,Simpson Home,"Yeah, and I have the same tightness in my chest and profuse sweating I always get."
+4461,47,11,126000,Marge Simpson,Simpson Home,"Well, I'll let you know."
+4462,47,12,135000,Bart Simpson,Simpson Home,"Hey, Homer, how come Mom's going to the doctor?"
+4463,47,13,136000,Lisa Simpson,Simpson Home,Is anything wrong?
+4464,47,14,138000,Homer Simpson,Simpson Home,"No, everything's fine. Your mother uh, just, broke her leg."
+4465,47,15,141000,Lisa Simpson,Simpson Home,What?
+4466,47,16,141000,Bart Simpson,Simpson Home,I smell a bun in the oven.
+4467,47,17,143000,Lisa Simpson,Simpson Home,"Is Mom gonna have another baby, Dad?"
+4468,47,18,146000,Homer Simpson,Simpson Home,Maybe.
+4469,47,19,150000,Bart Simpson,Simpson Home,"You're a machine, Homer."
+4470,47,20,152000,Lisa Simpson,Simpson Home,Did you hear that Maggie? Another baby in the house.
+4471,47,21,155000,Bart Simpson,Simpson Home,"Ohhh, cool, we can race them."
+4472,47,22,157000,Homer Simpson,Simpson Home,"Yeah, sure, for you a baby's all fun and games. For me, it's diaper changes and midnight feedings."
+4473,47,23,163000,Lisa Simpson,Simpson Home,Doesn't Mom do that stuff?
+4474,47,24,164000,Homer Simpson,Simpson Home,"Yeah, but I have to hear about it."
+4475,47,25,165000,Bart Simpson,Simpson Home,Were you like this when Mom was pregnant with me?
+4476,47,26,168000,Homer Simpson,Simpson Home,"Actually, Bart, I threw up more than your mother. ... It all happened at the beginning of that turbulent decade known as the '80s."
+4478,47,27,174000,Homer Simpson,Simpson Home,"Those were idealistic days... The candidacy of John Anderson, the rise of Supertramp... It was an exciting time to be young!"
+4480,47,29,186000,Homer Simpson,FUN CENTER,For several years I'd been dating your mother and working at the local fun center.
+4481,47,30,192000,Mr. Thorson,FUN CENTER,"Homer, you're turning the blades too fast. The golfers are complaining. Slow down!"
+4482,47,31,199000,Mr. Thorson,FUN CENTER,"That's better. Ah, beautiful. Keep this up and someday you'll be the guy who hands out the putters."
+4483,47,32,205000,Homer Simpson,FUN CENTER,"Yes, sir."
+4485,47,34,207000,Homer Simpson,Simpson Home,"I was 24 years old, with a beautiful girlfriend and a job with a future..."
+4486,47,35,214000,Homer Simpson,Simpson Home,"Hey, you're supposed to be listening to my story!"
+4487,47,36,217000,Bart Simpson,Simpson Home,"I thought it was over. You had a problem turning a blade, you overcame it. The feel-good story of the year."
+4488,47,37,223000,Lisa Simpson,Simpson Home,"It's not our fault our generation has short attention spans, Dad. We watch an appalling amount of TV."
+4489,47,38,228000,Homer Simpson,Simpson Home,"Don't you ever, ever talk that way about television. Lousy, ungrateful... Can't keep their, whaddyacallit... minds... on any uh..."
+4490,47,39,239000,Homer Simpson,Simpson Home,Where do you think you're going? You're gonna listen to my story.
+4491,47,40,243000,Homer Simpson,Simpson Home,Your mother was living with her two wicked sisters.
+4493,47,42,250000,Mother,Bouvier House,"Okay girls, you can smoke now."
+4494,47,43,254000,Selma Bouvier,Bouvier House,Umm... Oh yeah...
+4495,47,44,259000,Marge Simpson,Bouvier House,It's Homer!
+4496,47,45,260000,Patty Bouvier,Bouvier House,I don't know what you see in that ugly meatball.
+4497,47,46,264000,Selma Bouvier,Bouvier House,"Uh-huh. If you like being pawed by something fat and lazy, we could get a cat."
+4498,47,47,270000,Mother,Bouvier House,It would leave less hair on the couch.
+4499,47,48,273000,Marge Simpson,Bouvier House,You don't know Homer like I do. He's sensitive and sweet.
+4502,47,51,283000,Marge Simpson,Aztec Theater,"Homer, do you ever think about the future?"
+4503,47,52,286000,Homer Simpson,Aztec Theater,You mean like will apes be our masters?
+4504,47,53,289000,Marge Simpson,Aztec Theater,"No, I mean how you plan to earn a living. I can't imagine that job of yours is very stimulating."
+4505,47,54,294000,Homer Simpson,Aztec Theater,But it gives me time to think.
+4477,47,55,296000,Marge Simpson,Aztec Theater,"Hmmm, what do you think about?"
+4506,47,56,298000,Homer Simpson,Aztec Theater,"Well, girls I mean I mean boys. I, I mean you!"
+4507,47,57,301000,Marge Simpson,Aztec Theater,"I think about you, too."
+4508,47,58,308000,Homer Simpson,Aztec Theater,"Wow, what an ending? Who'd have thought Darth Vader was Luke Skywalker's father."
+4509,47,59,317000,Homer Simpson,Aztec Theater,"Marge, you're as pretty as Princess Leia and as smart as Yoda."
+4510,47,60,321000,Marge Simpson,Aztec Theater,"Oh, Homer."
+4512,47,62,325000,Marge Simpson,Homer's Car,YOU LIGHT UP MY DAYS / AND FILL MY NIGHTS / WITH SONG.... IT CAN'T BE WRONG / WHEN IT FEELS SO GOO/RIGHT / CAUSE YOU -- YOU
+4513,47,63,365000,Marge Simpson,Homer's Car,Our song.
+4514,47,64,366000,Homer Simpson,Homer's Car,I'll bet the guy she was singing that about was real happy.
+4515,47,65,371000,Marge Simpson,Homer's Car,"Actually, she was singing about God."
+4516,47,66,374000,Homer Simpson,Homer's Car,"Oh. Well he's always happy. No, wait. He's always mad."
+4519,47,69,379000,Homer Simpson,FREE GAME CASTLE,Someday I'll buy you a real castle.
+4520,47,70,381000,Marge Simpson,FREE GAME CASTLE,You don't have to do that.
+4521,47,71,383000,Homer Simpson,FREE GAME CASTLE,"Phew, good."
+4522,47,72,384000,Marge Simpson,FREE GAME CASTLE,"Homer, maybe it's the Champale talking, but I think you're pretty sexy."
+4523,47,73,391000,Homer Simpson,FREE GAME CASTLE,Really? It must be the Champale talking.
+4524,47,74,395000,Marge Simpson,FREE GAME CASTLE,What if we get caught?
+4525,47,75,397000,Homer Simpson,FREE GAME CASTLE,Don't worry. This castle is impregnable!
+4527,47,77,407000,Homer Simpson,Barney's Apartment,Pass the cookie dough.
+4528,47,78,409000,Charlie,Barney's Apartment,"Dust off your hula skirts, Angels, I'm afraid there's been a murder - in Hawaii!"
+4529,47,79,414000,Angel,Barney's Apartment,"Hawaii it is, Charlie."
+4531,47,81,420000,Homer Simpson,Barney's Apartment,"Y'ello... Oh, hi Marge..."
+4533,47,83,422000,Marge Simpson,Berger's Burgers,"I need you to drive me to the doctor, Homer."
+4534,47,84,424000,Homer Simpson,Berger's Burgers,Why? What's wrong?
+4535,47,85,425000,Marge Simpson,Berger's Burgers,"Well, that unforgettable night we... joined the Castle Club..."
+4536,47,86,431000,Homer Simpson,Berger's Burgers,Oh.
+4538,47,88,432000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Well, Miss Bouvier. I... I think we found the reason why you've been throwing up in the morning. Congratulations."
+2585,47,91,444000,Patient,Hospital Room,Poor guy.
+4541,47,93,446000,Dr. Julius Hibbert,Dr. Hibbert's Office,Perhaps this pamphlet will prove helpful.
+4542,47,94,448000,Marge Simpson,Dr. Hibbert's Office,"""So You've Ruined Your Life""."
+4544,47,96,451000,Grampa Simpson,Grampa's House,"Son, you gotta marry that girl!"
+4545,47,97,453000,Homer Simpson,Grampa's House,Because it's the honorable thing to do?
+4546,47,98,456000,Grampa Simpson,Grampa's House,"No, because you'll never do any better. You lucky bum! The fish jumped right in the boat. All you gotta do is whack her with the oar."
+4548,47,100,467000,Homer Simpson,Homer's Car,"Marge, there's something I want to ask you. But I'm afraid, because if you say no it'll destroy me and make me a criminal."
+4549,47,101,475000,Marge Simpson,Homer's Car,"Well, I haven't said no to you lately, have I?"
+4550,47,102,478000,Homer Simpson,Homer's Car,"Marge, I... Damn it, where's that card?"
+4551,47,103,482000,Marge Simpson,Homer's Car,What card?
+4552,47,104,483000,Homer Simpson,Homer's Car,"Oh, I wrote down what I was gonna say on a card. Stupid thing must have fallen out of my pocket."
+4553,47,105,491000,Marge Simpson,Homer's Car,Is this it?
+4554,47,106,492000,Homer Simpson,Homer's Car,What's it say?
+4555,47,107,494000,Marge Simpson,Homer's Car,"""Marge, from the first moment I saw you I never wanted to be with anyone else. I don't have much to offer you... except all my love. Will you marry me?"""
+4556,47,108,504000,Homer Simpson,Homer's Car,That's the card. Give it here.
+4557,47,109,508000,Marge Simpson,Homer's Car,"Oh, Homer, this is the most beautiful moment of my life!"
+4558,47,110,513000,Homer Simpson,Homer's Car,So... will you marry me?
+4559,47,111,516000,Marge Simpson,Homer's Car,Yes.
+4560,47,112,518000,Homer Simpson,Homer's Car,"Woo hoo! Woo hoo! Yeah! She's gonna marry me. In your face, everybody... Woo hoo!"
+4562,47,114,524000,Lisa Simpson,Simpson Home,"Dad, if the new baby is a girl, can we name her Ariel?"
+4563,47,115,533000,Bart Simpson,Simpson Home,"I'm sorry, the baby's name will be Kool Moe Dee Simpson."
+4564,47,116,535000,Lisa Simpson,Simpson Home,Ariel.
+4565,47,117,536000,Bart Simpson,Simpson Home,Kool Moe Dee.
+4566,47,118,537000,Lisa Simpson,Simpson Home,Ariel.
+4567,47,119,537000,Bart Simpson,Simpson Home,Kool Moe Dee.
+4568,47,120,537000,Lisa Simpson,Simpson Home,Ariel.
+4569,47,121,537000,Bart Simpson,Simpson Home,Kool Moe Dee.
+4570,47,122,539000,Homer Simpson,Simpson Home,"You know, I had this very same discussion with your mother ten years ago."
+4572,47,124,547000,Marge Simpson,Jewelry Store,"Homer, I've been thinking. If the baby's a boy, what do you think of the name Larry?"
+4573,47,125,551000,Homer Simpson,Jewelry Store,"Marge, we can't do that! All the kids'll call him Larry Fairy."
+4574,47,126,555000,Marge Simpson,Jewelry Store,"Well, how about Louie?"
+4575,47,127,557000,Homer Simpson,Jewelry Store,They'll call him Screwy Louie.
+4576,47,128,559000,Marge Simpson,Jewelry Store,Bob?
+4577,47,129,559000,Homer Simpson,Jewelry Store,Slob.
+4578,47,130,560000,Marge Simpson,Jewelry Store,Luke?
+4579,47,131,560000,Homer Simpson,Jewelry Store,Puke.
+4580,47,132,560000,Marge Simpson,Jewelry Store,Marcus?
+4581,47,133,560000,Homer Simpson,Jewelry Store,Mucous.
+4582,47,134,562000,Marge Simpson,Jewelry Store,What about Bart?
+4583,47,135,563000,Homer Simpson,Jewelry Store,"Let's see... Bart, Cart, Dart, Eeart... Nope, can't see any problem with that. Wow! I'll take that ring!"
+4584,47,136,571000,Clerk,Jewelry Store,"Yes sir, and how will you be paying for it?"
+4585,47,137,574000,Homer Simpson,Jewelry Store,I don't know.
+4587,47,139,575000,Homer Simpson,Highway,"Finally, the big day came. We didn't have much money, so we went to a quaint little chapel just across the state line."
+4589,47,141,587000,Lunchlady Doris,WEDDING CHAPEL,Basic ceremony's twenty bucks. Here's your license.
+4590,47,142,590000,Lunchlady Doris,WEDDING CHAPEL,Be sure to get this punched every time. The tenth wedding is on the house.
+4591,47,143,594000,Homer Simpson,WEDDING CHAPEL,Hey! This marriage is gonna last forever.
+4592,47,144,596000,Lunchlady Doris,WEDDING CHAPEL,"No matter how many times I hear that, it always makes me laugh."
+4594,47,146,600000,Justice Of The Peace,Chapel,"Cletus, do you take Aline to be your lawful wedded wife?"
+4595,47,147,605000,Groom,Chapel,Yup.
+4596,47,148,606000,Justice Of The Peace,Chapel,Done. Next.
+4597,47,149,613000,Marge Simpson,Chapel,There certainly are a lot of stains on the ceiling.
+4598,47,150,616000,Homer Simpson,Chapel,"Marge, I'm sorry. I wish I could afford a better place."
+4599,47,151,619000,Marge Simpson,Chapel,"Homer, I'd be lying if I said that this is how I pictured my wedding day... But you are how I pictured my husband."
+4600,47,152,627000,Homer Simpson,Chapel,I am?
+4601,47,153,627000,Marge Simpson,Chapel,"Well, you may not look like Ted Bessell, but you're just as nice."
+4603,47,155,635000,Justice Of The Peace,Chapel,"Dearly beloved, we are gathered here in the sight of God and this casino to join..."
+4604,47,156,639000,Homer Simpson,Chapel,Homer.
+4605,47,157,639000,Justice Of The Peace,Chapel,... and...
+4606,47,158,640000,Marge Simpson,Chapel,Marge.
+4607,47,159,641000,Justice Of The Peace,Chapel,... in holy matrimony. Beautiful.
+4609,47,160,645000,Justice Of The Peace,Chapel,"Do you, Marjorie Bouvier, take Homer J. Simpson to be your lawful wedded husband?"
+4610,47,161,650000,Marge Simpson,Chapel,I do.
+4611,47,162,651000,Justice Of The Peace,Chapel,"Homer, same question, names reversed."
+4612,47,163,652000,Homer Simpson,Chapel,I do.
+4613,47,164,653000,Justice Of The Peace,Chapel,"Then, by the power vested in me by the state gaming commission, I pronounce you man and wife. Here's ten dollars worth of chips, you may kiss the bride."
+4614,47,165,661000,Justice Of The Peace,Chapel,Next!
+4616,47,167,666000,Marge Simpson,Darkened Room,What a perfect day.
+4617,47,168,668000,Homer Simpson,Darkened Room,Our first night together as man and wife.
+4618,47,169,675000,Patty Bouvier,Darkened Room,Hey! Lovebirds! Keep it down!
+4620,47,171,681000,Homer Simpson,Bouvier House,"Look what I got, Marge, a baby monitor."
+4621,47,172,685000,Homer Simpson,Bouvier House,Baby to Marge. Baby to Marge. Wah! Wah! Over.
+4622,47,173,688000,Marge Simpson,Bouvier House,"Homer, I don't know how we can afford all these things on your salary."
+4623,47,174,693000,Homer Simpson,Bouvier House,"Hey, why don't I apply at the nuclear power plant? I hear they pay pretty well."
+4624,47,175,698000,Marge Simpson,Bouvier House,I don't know. I heard radiation can make you sterile.
+4625,47,176,702000,Homer Simpson,Bouvier House,Pfft. Now you tell me.
+4627,47,178,706000,Waylon Smithers,Springfield Nuclear Power Plant,"We only have two openings, so I'm afraid one of you will have to go home empty-handed... But it won't be my old frat buddy, Lou Collier. How ya doin', you old Alpha Tau!"
+4628,47,179,718000,Applicant #1,Springfield Nuclear Power Plant,"Smithers, you keg-meister, you."
+4629,47,180,723000,Applicant #2,Springfield Nuclear Power Plant,"Well, hey, I'm from Alabama Chapter!"
+4630,47,181,726000,Waylon Smithers,Springfield Nuclear Power Plant,I'll be.
+4631,47,182,730000,Waylon Smithers,Springfield Nuclear Power Plant,"Well, let's get on with the testing."
+4632,47,183,732000,Applicants,Springfield Nuclear Power Plant,"Roll on, roll on, Alpha Tau -- Bow wow wow wow Bow wow wow wow..."
+4634,47,185,746000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Hmmm, if I didn't know better, I'd swear he was trying to moon us."
+4636,47,187,750000,Waylon Smithers,Springfield Nuclear Power Plant,What would each of you say is your worst quality?
+4637,47,188,752000,Applicant #1,Springfield Nuclear Power Plant,"Well, I am a workaholic."
+4638,47,189,754000,Applicant #2,Springfield Nuclear Power Plant,I push myself too hard.
+4640,47,190,756000,Homer Simpson,Springfield Nuclear Power Plant,Well... It takes me a long time to learn anything... I'm kind of a goof-off...
+4641,47,191,760000,Waylon Smithers,Springfield Nuclear Power Plant,"Okay, that'll do."
+4642,47,192,761000,Homer Simpson,Springfield Nuclear Power Plant,... Little stuff starts disappearing from the workplace.
+4643,47,193,761000,Waylon Smithers,Springfield Nuclear Power Plant,"That's enough! Next: there's a problem with the reactor, what do you do?"
+4644,47,194,767000,Homer Simpson,Springfield Nuclear Power Plant,There's a problem with the reactor?! We're all gonna die!!!
+4646,47,196,776000,Marge Simpson,Bouvier House,Did you get the job?
+4647,47,197,777000,Homer Simpson,Bouvier House,"Nah, they wanted someone good. Story of my life."
+4648,47,198,781000,Marge Simpson,Bouvier House,"Oh, Homie. Hey, come over here and feel our baby kicking."
+4649,47,199,786000,Homer Simpson,Bouvier House,"Wow! Kid, I won't let you down."
+4650,47,200,790000,Homer Simpson,Bouvier House,"I swear to you, when you come out of there, the first thing you're gonna see is a man with a good job."
+4651,47,201,797000,Patty Bouvier,Bouvier House,"Yeah, the doctor."
+4654,47,204,806000,Homer Simpson,YE OLD CANDLEMAKER SHOP,"... And when ye tallow hardens, we remove it from yon mold."
+4655,47,205,812000,Tourist Kid,YE OLD CANDLEMAKER SHOP,What a crappy candle!
+4656,47,206,815000,Tourist Dad,YE OLD CANDLEMAKER SHOP,You've ruined our vacation!
+4658,47,208,817000,Boss,Olde Springfield Towne,"... You, gentle sir, are fired!"
+4659,47,209,821000,Homer Simpson,Olde Springfield Towne,Oh!
+4661,47,211,826000,Elderly Lady,Suburban Home,"Oh, hello, young man."
+4662,47,212,828000,Homer Simpson,Suburban Home,"Good evening, Madame. You have been selected by the good people of Slash-Co to reap the benefits of their new Nev-R-Dull knife-edge. Here... shake hands with the Slash-Co."
+4663,47,213,840000,Homer Simpson,Suburban Home,"Handle first, handle first..."
+4665,47,215,850000,Homer Simpson,Pitiless Pup Attack Dog School,I quit! I quit!
+4666,47,216,851000,Boss,Pitiless Pup Attack Dog School,I thought you said you liked dogs.
+4668,47,218,859000,Speaker,Meeting Room,"Hey, who wants to get rich today?"
+4669,47,219,863000,Homer Simpson,Meeting Room,Me! Me! Me! Me! Me! I said it first!
+4670,47,220,866000,Speaker,Meeting Room,"First, let me assure you that this is not one of those shady ""pyramid schemes"" you've been hearing about."
+4673,47,221,872000,Speaker,Meeting Room,No sir. Our model is the trapezoid that guarantees each investor an 800% return within hours of your initial...
+4674,47,222,880000,Speaker,Meeting Room,Uh-oh! The cops!
+4676,47,224,883000,Marge Simpson,Bouvier House,"""Fourth Notice""... ""90 Days Overdue""... ""We Break Thumbs""... Homer, what are we going to do?"
+4677,47,225,890000,Homer Simpson,Bouvier House,"I don't know, I don't know --"
+4678,47,226,893000,Repo Man,Bouvier House,Repo Man! I'm here for the baby's things.
+4680,47,228,896000,Repo Man,Bouvier House,"Crib, mobile, monitor... oh, and the lady's ring, I'm afraid."
+4681,47,229,901000,Marge Simpson,Bouvier House,Oh dear...
+4682,47,230,904000,Repo Man,Bouvier House,Repossessing stuff is the hardest part of my job.
+4683,47,231,915000,Homer Simpson,Bouvier House,"""Dear Marge... By the time you read this, I will be gone. You deserve all the finest things in the world. And although I can give them to you, they will be repossessed and I will be hunted down like a dog. Also, it has become clear that your family doesn't want me here."""
+4684,47,232,932000,Patty Bouvier,Bouvier House,Shut up with that pen-scratching down there!
+4685,47,233,935000,Homer Simpson,Bouvier House,I will send you every cent I earn for the baby. But you will not see me again until I am a man.
+4687,47,235,955000,Lisa Simpson,Simpson Home,That is so sad.
+4688,47,236,957000,Homer Simpson,Simpson Home,"Oh, c'mon, honey. You know how it turns out. After all, you wouldn't be here today if I hadn't become the responsible head of a household."
+4689,47,237,967000,Bart Simpson,Simpson Home,"Hey Homer, can we have a can of frosting for lunch?"
+4690,47,238,970000,Homer Simpson,Simpson Home,Okay.
+4692,47,240,975000,Marge Simpson,Bouvier House,"""You will not see me again until I am a man."" Oh, Homer, Homer."
+4693,47,241,983000,Patty Bouvier,Bouvier House,"There, there, dear. We're all in shock. I thought he'd two-time you for a while first."
+4695,47,243,996000,Patty Bouvier,Gulp 'N' Blow,This taco is full of hair.
+4696,47,244,998000,Selma Bouvier,Gulp 'N' Blow,Uh huh. There's your explanation.
+4697,47,245,1005000,Patty Bouvier,Gulp 'N' Blow,Ahh!
+4698,47,246,1005000,Selma Bouvier,Gulp 'N' Blow,Should we tell Marge where he is?
+4699,47,247,1007000,Patty Bouvier,Gulp 'N' Blow,Nah. Let her read about it in the Society page.
+4701,47,249,1012000,Marge Simpson,Bouvier House,Homer ?!
+4702,47,250,1015000,Selma Bouvier,Bouvier House,"Marge, listen... We just saw..."
+4608,47,251,1017000,Patty Bouvier,Bouvier House,Don't be stupid.
+4639,47,252,1024000,Homer Simpson,Bouvier House,"Dear Marge, XXX. Homer."
+4703,47,254,1031000,Homer Simpson,Springfield Nuclear Power Plant,Big shots with their stainless steel lunchboxes...
+4704,47,255,1040000,Homer Simpson,Springfield Nuclear Power Plant,They get donuts?
+4705,47,256,1041000,Driver,Springfield Nuclear Power Plant,That's right. All the colors of the rainbow.
+4706,47,257,1046000,Homer Simpson,Springfield Nuclear Power Plant,Wowww.
+4708,47,259,1049000,Selma Bouvier,Bouvier House,"Marge, what are you doing up? You need your rest, dear."
+4709,47,260,1053000,Marge Simpson,Bouvier House,I heard a noise outside and thought it might be Homer.
+4710,47,261,1056000,Selma Bouvier,Bouvier House,What the hell. Marge I've got two-and-a-half words for you. Gulp 'N' Blow.
+4712,47,263,1065000,Homer Simpson,Gulp 'N' Blow,"Yeah, what do you want?"
+4713,47,264,1066000,Marge Simpson,Gulp 'N' Blow,My husband by my side.
+4714,47,265,1068000,Homer Simpson,Gulp 'N' Blow,You want fries with that?
+4715,47,266,1070000,Marge Simpson,Gulp 'N' Blow,Homer?
+4716,47,267,1071000,Homer Simpson,Gulp 'N' Blow,Marge?
+4717,47,268,1073000,Marge Simpson,Gulp 'N' Blow,Homer!
+4718,47,269,1075000,Homer Simpson,Gulp 'N' Blow,Marge!
+4719,47,270,1077000,Homer Simpson,Gulp 'N' Blow,"Holy cow, you're as big as a house."
+4720,47,271,1080000,Marge Simpson,Gulp 'N' Blow,Homer... Come home with me.
+4721,47,272,1083000,Homer Simpson,Gulp 'N' Blow,"No, Marge, I just can't. I mean, look at me. I'm a Trainee... They won't even tell me what's in the secret sauce. But I can't buy you a decent wedding ring."
+4722,47,273,1093000,Marge Simpson,Gulp 'N' Blow,Any ring is fine as long as it's from you.
+4723,47,274,1100000,Homer Simpson,Gulp 'N' Blow,"Marge, for you."
+4724,47,275,1103000,Marge Simpson,Gulp 'N' Blow,Aww...
+4725,47,276,1108000,Marge Simpson,Gulp 'N' Blow,Would you mind if I took it off now? The oil is burning my finger.
+4726,47,277,1111000,Homer Simpson,Gulp 'N' Blow,"Oh, sure."
+4727,47,278,1115000,Marge Simpson,Gulp 'N' Blow,"Homer, do you know why I married you?"
+4728,47,279,1118000,Homer Simpson,Gulp 'N' Blow,Because I knocked you up?
+4729,47,280,1119000,Marge Simpson,Gulp 'N' Blow,"No, because I love you."
+4730,47,281,1123000,Marge Simpson,Gulp 'N' Blow,Come home soon.
+4732,47,283,1141000,C. Montgomery Burns,Springfield Nuclear Power Plant,That's it. That's it. Come closer...
+4733,47,284,1149000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ironic, isn't it. The hunter has become the hunted. Oh God, Smithers, I feel so alive."
+4734,47,285,1158000,Homer Simpson,Springfield Nuclear Power Plant,You the boss?
+4735,47,286,1159000,C. Montgomery Burns,Springfield Nuclear Power Plant,Yes.
+4736,47,287,1159000,Waylon Smithers,Springfield Nuclear Power Plant,"I'll call security, sir."
+4738,47,288,1160000,Homer Simpson,Springfield Nuclear Power Plant,"Well, listen to me, Mr. Bigshot... if you're looking for the kind of employee who takes abuse and never sticks up for himself... I'm your man. You can treat me like dirt and I'll still kiss your butt and call it ice cream. And if you don't like it... I can change!!"
+4739,47,289,1176000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Hold the phone, Smithers... I like your attitude. Feisty yet spineless."
+4740,47,290,1182000,Waylon Smithers,Springfield Nuclear Power Plant,"Sir, this man not only failed the aptitude test, he got trapped in a closet on his way out."
+4741,47,291,1186000,C. Montgomery Burns,Springfield Nuclear Power Plant,I don't care. I haven't been this impressed since I first laid eyes on a young boot-lick named Waylon Smithers.
+4742,47,292,1192000,Homer Simpson,Springfield Nuclear Power Plant,You mean?
+4743,47,293,1193000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Welcome aboard, son."
+4744,47,294,1195000,Homer Simpson,Springfield Nuclear Power Plant,I got the job. I got the job! Whoo hoo! Only in America could I get a job!
+4745,47,295,1201000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Who was that young hellcat, Smithers?"
+4746,47,296,1203000,Waylon Smithers,Springfield Nuclear Power Plant,"Homer Simpson, sir."
+4747,47,297,1204000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Simpson, eh? I'll remember that name."
+4749,47,299,1207000,Homer Simpson,Bouvier House,Marge!... Marge!...
+4750,47,300,1209000,Mother,Bouvier House,You're a little late. She's gone to the hospital.
+4751,47,301,1211000,Homer Simpson,Bouvier House,The hospital?
+4752,47,302,1213000,Mother,Bouvier House,I'll drive you.
+4753,47,303,1214000,Homer Simpson,Bouvier House,"Thanks, mom."
+4754,47,304,1215000,Mother,Bouvier House,Don't ever call me that.
+4756,47,306,1217000,Homer Simpson,Hospital,"Marge! Marge, where's the baby?"
+4757,47,307,1219000,Patty Bouvier,Hospital,Right where you left it.
+4758,47,308,1220000,Homer Simpson,Hospital,Shut up!
+4759,47,309,1221000,Patty Bouvier,Hospital,"Hey, listen fatboy --"
+4760,47,310,1222000,Homer Simpson,Hospital,"No, you listen! This is my wife and this is my kid, and I'm paying for this delivery, so if you want to stay, you better give me some respect!"
+4761,47,311,1230000,Marge Simpson,Hospital,"Homer, does this mean --"
+4762,47,312,1232000,Homer Simpson,Hospital,"Starting tomorrow, I'm a nuclear technician!"
+4763,47,313,1234000,Dr. Julius Hibbert,Hospital,Good God.
+4764,47,314,1236000,Homer Simpson,Hospital,"And tomorrow morning, I'm gonna buy your ring back! Then I'm going house-hunting!"
+4765,47,315,1239000,Marge Simpson,Hospital,Doesn't your job start tomorrow?
+4766,47,316,1241000,Homer Simpson,Hospital,"Eh, somebody'll cover for me."
+4767,47,317,1243000,Marge Simpson,Hospital,"Homer, that's -- Ohh!"
+4737,47,318,1245000,Homer Simpson,Hospital,Step aside! I'll deliver this baby!
+4768,47,319,1247000,Dr. Julius Hibbert,Hospital,"Uh, why don't you let me handle it, Homer?"
+4769,47,320,1250000,Homer Simpson,Hospital,"Oh, college boy, eh?"
+4770,47,321,1251000,Marge Simpson,Hospital,"Homer, for God's sakes, let him deliver the baby!"
+4772,47,323,1254000,Marge Simpson,Hospital Room,"Homie, isn't he beautiful?"
+4773,47,324,1257000,Homer Simpson,Hospital Room,"Hey, as long as he's got eight fingers and eight toes, he's fine by me."
+4774,47,325,1262000,Homer Simpson,Hospital Room,"Ahh, Bart. Daddy's little angel."
+4775,47,326,1269000,Homer Simpson,Hospital Room,Why you little... He did that on purpose!
+4776,47,327,1272000,Marge Simpson,Hospital Room,How could he? He's only ten minutes old.
+4778,47,329,1277000,Homer Simpson,Simpson Home,"Bart, Lisa. Come here for a minute..."
+4779,47,330,1280000,Homer Simpson,Simpson Home,"Y'know, son, the day you were born I received the greatest gift a man could have."
+4780,47,331,1287000,Homer Simpson,Simpson Home,"As the years went by, your mother and I were blessed twice more."
+4781,47,332,1287000,Homer Simpson,Simpson Home,And not a day goes by that we don't thank God for all three of you.
+4782,47,333,1295000,Marge Simpson,Simpson Home,"Homer, I'm not pregnant."
+4783,47,334,1297000,Homer Simpson,Simpson Home,"Yeah!!! Whoa! Excellent, Marge!"
+4784,47,335,1301000,Marge Simpson,Simpson Home,Yes!

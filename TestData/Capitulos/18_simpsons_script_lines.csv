@@ -1,0 +1,249 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+153885,18,1,8000,Barney Gumble,Moe's Tavern,"So, Homer. What happened in Capitol City?"
+153886,18,2,87000,Homer Simpson,Moe's Tavern,"Aw, Barney."
+153887,18,3,89000,Moe Szyslak,Moe's Tavern,"Come on, Homer. We're dyin' of curiosity."
+153888,18,4,91000,Homer Simpson,Moe's Tavern,"Look, there's only one thing worse than being a loser. It's being one of those guys who sits in a bar telling the story of how he became a loser. And I never want that to happen to me."
+153889,18,5,102000,Barney Gumble,Moe's Tavern,"Please, Homer."
+153890,18,6,102000,Moe Szyslak,Moe's Tavern,"C'mom, Homer."
+153891,18,7,103000,Homer Simpson,Moe's Tavern,"Well, okay. It all started on ""Nuclear Plant Employees, Spouses, and No More Than Three Children Night,"" down at Springfield stadium."
+153893,18,9,115000,Otto Mann,STADIUM,"Oooh, well, I think we lost 'em. Hey, and we're at the ball park. All right! Two birds with one stone. Okay, everybody out!"
+153896,18,11,127000,Homer Simpson,Bus,"You know, boy, some of the players you see tonight may make it to the big leagues, one day."
+153897,18,12,132000,Bart Simpson,Bus,What? Aren't we gonna see any washed-up major leaguers?
+153898,18,13,135000,Homer Simpson,Bus,"Sure, we get a nice mix here."
+153899,18,14,137000,Lisa Simpson,Bus,"I can't think of a better place to spend a balmy summer's night than the old ball yard. There's just the green grass of the outfield, the crushed brick of the infield, and the white chalk lines that divide the man from the little boy."
+153900,18,15,149000,Homer Simpson,Bus,"Lisa, honey, you're forgetting the beer. It comes in seventy-two ounce tubs here."
+153901,18,16,155000,Marge Simpson,Bus,"I hope you'll space out the tubs this year, Homer."
+153902,18,17,158000,Homer Simpson,Bus,What are you getting at?
+153903,18,18,159000,Marge Simpson,Bus,"Well, last year you got a little rambunctious and mooned the poor umpire."
+153904,18,19,163000,Homer Simpson,Bus,"Marge, this ticket doesn't just give me a seat, it also gives me the right - no, the duty, to make a complete ass of myself."
+153906,18,21,173000,C. Montgomery Burns,Bus,"Ah, the Gammills. Good to see you."
+153907,18,22,176000,GAMMILL,Bus,"You're an inspiration to all of us in waste management, sir."
+153908,18,23,180000,C. Montgomery Burns,Bus,"Well, take your mind off contaminates for one night and have a hot dog."
+153909,18,24,184000,C. Montgomery Burns,Bus,"Put a little smile on his card, Smithers."
+153910,18,25,187000,Waylon Smithers,Bus,"Already there, sir."
+153911,18,26,190000,Waylon Smithers,Bus,"The Simpsons, sir."
+153912,18,27,191000,C. Montgomery Burns,Bus,"Ah, well, if it isn't the Simps."
+153913,18,28,194000,Homer Simpson,Bus,"Uh... Simp-sons, sir."
+153914,18,29,197000,C. Montgomery Burns,Bus,"Huh? Hmmm, oh, oh yes... Homer and Marge Simpson. Oh, and these must be Bart, Lisa and uh, ""Expecting""."
+153915,18,30,205000,Waylon Smithers,Bus,"The card needs to be updated, sir."
+153917,18,32,208000,Homer Simpson,Bus,"Oh, that's okay. The baby's name isn't important. Let's go, Marge."
+153919,18,34,218000,Bart Simpson,Park,"Oh, wow -- there's Flash Bailor! I gotta get his autograph! He used to be a star!"
+153920,18,35,224000,Bart Simpson,Park,"Hey, Flash! Will ya sign my ball?"
+153921,18,36,226000,FLASH,Park,No.
+153922,18,37,227000,Bart Simpson,Park,"Lousy, washed-up, broken-down... old tub of guts... who does he think he is anyway..."
+153923,18,38,233000,Homer Simpson,Park,"What's the matter, boy?"
+153924,18,39,234000,Bart Simpson,Park,He wouldn't sign my ball.
+153925,18,40,235000,Marge Simpson,Park,"Well, he's a fine role model. Bart, give me that ball!"
+153926,18,41,240000,Player #1,Park,"Hey, Flash, check out the mature quail headin' this way."
+153927,18,42,243000,FLASH,Park,"Hey there, little lady. What can Flash do for ya?"
+153928,18,43,247000,Marge Simpson,Park,"Here you go, Bart."
+153929,18,44,249000,Bart Simpson,Park,"""Hmmm, Springfield Kozy Kort Motel, Room 26... How 'bout it? -- Flash."""
+153930,18,45,253000,Homer Simpson,Park,"Wow! Flash Bailor came on to my wife! You've still got the magic, Marge."
+153933,18,48,262000,Bart Simpson,BALL PARK,"Hey, Dad, look, you're on JumboVision!"
+153934,18,49,265000,Homer Simpson,BALL PARK,Whoa!
+153935,18,50,266000,Homer Simpson,BALL PARK,Hey everybody! How you doin'? Look at me! I'm Homer Simpson! Heh...heh.
+153936,18,51,274000,Marge Simpson,BALL PARK,Homer... Homer... X.Y.Z.
+153937,18,52,277000,Homer Simpson,BALL PARK,Examine my zipper? Why? Whoops!
+153938,18,53,281000,Homer Simpson,BALL PARK,"Thanks, everybody."
+153939,18,54,283000,P.A. Announcer,BALL PARK,"Ladies and gentlemen, throwing out tonight's first ball, the man whose name is synonymous with our nation's safest and cleanest energy source, Mr. Montgomery Burns!"
+153940,18,55,295000,Waylon Smithers,BALL PARK,"Ah, they love you, sir."
+153941,18,56,297000,C. Montgomery Burns,BALL PARK,"Heh, heh. As well they might. You know, Smithers, when I was a young buck, my patented fadeaway pitch was compared by many to the ""trouble ball"" of the late great Satchel Paige. Spit on this for me, Smithers."
+153942,18,57,308000,Waylon Smithers,BALL PARK,"One hocker coming up, sir."
+153943,18,58,315000,Bart Simpson,BALL PARK,What a lame-o!
+153944,18,59,318000,Waylon Smithers,BALL PARK,"I could actually hear the air being torn, sir."
+153945,18,60,321000,C. Montgomery Burns,BALL PARK,"Oh, shut up."
+153946,18,61,322000,Homer Simpson,BALL PARK,"Hey, Burns! Hey, ""Rag Arm""!"
+153947,18,62,324000,Bart Simpson,BALL PARK,"You throw like my sister, man!"
+153948,18,63,326000,Lisa Simpson,BALL PARK,"Yeah, you throw like me."
+153949,18,64,328000,P.A. Announcer,BALL PARK,"Ladies and gentlemen, to honor America, will you please rise for our National Anthem...sung tonight by Springfield's rhythm `n' blues sensation, ""Bleeding Gums"" Murphy."
+148015,18,65,338000,BLEEDING GUMS,BALL PARK,"""O-oo-hhhhhhh... Oh Saaayyyyy can you..."" -- I'm askin' -- ""Can you s-e-e-e? ...By the d-a-a-a-w-wn's"""
+148016,18,66,363000,BLEEDING GUMS,BALL PARK,...and the rockets' red glareeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee... The bombs burstin'... shoot it out... poppin' way up in the air...rrrrrrrrr.
+148017,18,67,380000,BLEEDING GUMS,BALL PARK,And... the home... of the-e-e-e-e-e-e-e-e-e-e... brave-e-e-e-e!
+153950,18,69,403000,Dan Hoard,PRESS BOX,"Hi-de-hi, Springfield! Dan Hoard, mikeside. Tonight -- our Isotopes take on the pesky Shelbyville Shelbyvillians. The 'Topes are looking to snap that darn twenty-six game losing streak, longest in professional baseball. How 'bout that? -- Our sleepy town is in the record book!"
+153951,18,70,417000,C. Montgomery Burns,PRESS BOX,"Ah, sitting with the employees. I guess this proves I'm their friend. You did get me something on an aisle, Smithers? I don't want to be surrounded by them."
+153952,18,71,425000,Homer Simpson,PRESS BOX,"Let's go now... Sa-winggg, batter!"
+153953,18,72,427000,Bart Simpson,PRESS BOX,We want a pitcher / Not a belly itcher!
+153954,18,73,430000,Lisa Simpson,PRESS BOX,We want a catcher / Not a belly scratcher!
+153955,18,74,433000,Waylon Smithers,PRESS BOX,"Here we are, sir."
+153956,18,75,434000,Homer Simpson,PRESS BOX,"Oh, no. Marge, sitting next to the boss -- the best night of the year, and it's ruined! Of all the lousy, rotten... this stinks..."
+153957,18,76,446000,Marge Simpson,PRESS BOX,All this means is you can't wave your fanny in public.
+153958,18,77,449000,Homer Simpson,PRESS BOX,Rub it in.
+153959,18,78,454000,Vendor,PRESS BOX,Beeer heah! Duff Beeer
+153960,18,79,454000,Vendor,PRESS BOX,VENDOR HOMER
+153961,18,80,456000,Vendor,PRESS BOX,Get your Duff Beer
+153962,18,81,456000,Vendor,PRESS BOX,"heah! Beer, right Beer. Didja hear"
+153963,18,82,457000,Vendor,PRESS BOX,"here! Duff Beer! that, Marge?"
+153964,18,83,459000,Homer Simpson,PRESS BOX,"Delicious frosty beer. Fat lot of good that does me, sitting next to old man Burns."
+153965,18,84,465000,Marge Simpson,PRESS BOX,"Now, Homer."
+153966,18,85,466000,C. Montgomery Burns,PRESS BOX,I suppose you want a beer?
+153967,18,86,468000,Homer Simpson,PRESS BOX,"Me, sir? Oh, no. Not a chance. Only idiots drink beer."
+153968,18,87,472000,C. Montgomery Burns,PRESS BOX,"Actually, I was wondering if you'd join me. My treat."
+153969,18,88,475000,Homer Simpson,PRESS BOX,"Ohhh. Well, if someone of your stature can enjoy a beer, maybe I'm all turned around on the subject. Wait a minute, we're not having a drug test tomorrow, are we?"
+153970,18,89,485000,C. Montgomery Burns,PRESS BOX,"No. Vendor, two, please."
+153971,18,90,488000,VENDER,PRESS BOX,Two-fifty.
+153973,18,92,492000,C. Montgomery Burns,BALL PARK,THE HITTER'S OFF HIS ROCKER / KISSING BETTY CROCKER!
+153974,18,93,495000,Homer Simpson,BALL PARK,"Good one, sir."
+153975,18,94,498000,C. Montgomery Burns,BALL PARK,"Oh well, I used to rile the late, great Connie Mack with that one at old Shibe Park."
+153976,18,95,503000,Homer Simpson,BALL PARK,LITTLE BABY BATTER / CAN'T CONTROL HIS BLADDER!
+153978,18,96,506000,C. Montgomery Burns,BALL PARK,"Hmmm. Crude, but I like it. What do you say we freshen up our little drinkie poos?"
+153979,18,97,513000,Homer Simpson,BALL PARK,Don't mind if I do.
+153980,18,98,518000,C. Montgomery Burns,BALL PARK,"Well, Simpsie, you up for another wave?"
+153981,18,99,521000,Homer Simpson,BALL PARK,"All right, Burnsie."
+153982,18,100,528000,Dan Hoard,BALL PARK,"Bases loaded. 'Topes have one out, down by three. Here's the pitch. Swung on and missed! Strike three. Of course."
+153983,18,101,535000,C. Montgomery Burns,BALL PARK,Damnation! These banjos couldn't carry Pie Traynor's glove.
+153984,18,102,539000,Dan Hoard,BALL PARK,"Big Bill McCloskey coming up. As soon as he pops out, we'll go right to the post-game show."
+153985,18,103,544000,Homer Simpson,BALL PARK,C'mon! All we need is a grand slam.
+153986,18,104,549000,C. Montgomery Burns,BALL PARK,My one game of the year... ruined by pathetic incompetence.
+153987,18,105,555000,Homer Simpson,BALL PARK,"What's wrong with you people? Let's show some spirit! Come on, get up!"
+153988,18,106,559000,Homer Simpson,BALL PARK,Your team needs you! C'mon!!!
+153989,18,107,562000,Homer Simpson,BALL PARK,"As I got up in front of them, I felt an intoxication that had nothing to do with alcohol. It was the intoxication of being a public spectacle."
+153990,18,108,571000,Dan Hoard,BALL PARK,"... There's some nut down in right field, dancin' up a storm! He's really got the crowd goin'. Let's see if he can shake up mediocre slugger ""Big Bill"" McCloskey."
+153991,18,109,584000,Dan Hoard,BALL PARK,Swung on and belted to deep left field! It's going... going...
+153992,18,110,590000,Dan Hoard,BALL PARK,"It's gone! It's outta here! Oh, my God, the Isotopes win a game! The Isotopes win a game! The Isotopes win a game!"
+153993,18,111,597000,Waylon Smithers,BALL PARK,"Well, that was certainly exciting."
+153994,18,112,599000,C. Montgomery Burns,BALL PARK,"Yes. Unfortunately, Homer Simpson's shameless display of exhibitionism tainted the entire evening. I want him banned for life from all company outings."
+153997,18,115,614000,Homer Simpson,Parking Lot,"I thank you. You're too kind. Glad you enjoyed it, but I can't take all the credit. The batter did his part, too."
+153998,18,116,622000,MR. O'HARA,Parking Lot,"Excuse me... You, sir -- the dancing fella. I'm Antoine ""Tex"" O'Hara. I own the Isotopes. Would you be interested in becoming our official mascot?"
+153999,18,117,630000,Homer Simpson,Parking Lot,M-- me? A mascot for a bush league team?
+154000,18,118,635000,Homer Simpson,Parking Lot,"I should have slept on it. Or at least stared blankly for a while. Perhaps if I'd been unable to think of a nickname, all our lives might have been spared."
+153895,18,119,644000,Man On Bus,Parking Lot,"Hey, get on the bus, dancin' Homer."
+153977,18,120,646000,Homer Simpson,Parking Lot,"Will you shut up, I'm trying to think of a name."
+154001,18,122,654000,Homer Simpson,Simpson Dining Room,"Well, I'm ready to punch in."
+154002,18,123,656000,Bart Simpson,Simpson Dining Room,"Oh, oh. Hey, cool, man."
+154003,18,124,659000,Lisa Simpson,Simpson Dining Room,Our lives have taken an odd turn.
+154004,18,125,661000,Marge Simpson,Simpson Dining Room,"Did the team ask you to dress like that, Homer?"
+154005,18,126,664000,Homer Simpson,Simpson Dining Room,"Nope, this was my own bright idea. C'mon, we gotta hurry. Don't fill up on those vegetables, kids. Save room for your nachos."
+154006,18,127,672000,Homer Simpson,Simpson Dining Room,"For the first time in my life, people weren't laughing at me, they were laughing towards me."
+154007,18,128,680000,Dan Hoard,Simpson Dining Room,'Topes win! 'Topes win! Two in a row! Two in a row!
+154008,18,129,694000,Marge Simpson,Simpson Dining Room,A Simpson on a T-shirt. I never thought I'd see the day.
+154009,18,130,698000,Homer Simpson,Simpson Dining Room,"Oooh, boogie, boogie, boogie, boogie, boogie. Woo, boogie, boogie, boogie, boogie, boogie, boogie."
+154010,18,131,702000,Player #2,Simpson Dining Room,"Hey, knock that off or I'll stick this bat where the sun don't shine."
+154011,18,132,705000,Homer Simpson,Simpson Dining Room,Oh yeah? And where might that be? Oh.
+154012,18,133,717000,Homer Simpson,Simpson Dining Room,"Helen, I'm in a Caribbean mood tonight. How 'bout giving me ""Baby Elephant Walk"" with a little reggae kinda beat?"
+154013,18,134,731000,Rasta #1,Simpson Dining Room,"Go, ""Dancin' Homer""! Git up man, git up!"
+154014,18,135,733000,Rasta #2,Simpson Dining Room,"Lively up yourself, Dancin' Homer."
+154016,18,137,742000,Dan Hoard,BALLPARK,"Bases loaded, two outs. The good guys trail by a run."
+154017,18,138,760000,Dan Hoard,BALLPARK,Here's the pitch... swung on and missed -- strike three. 'Topes lose... 'Topes lose...'Topes lose...
+154019,18,140,774000,Homer Simpson,OWNER'S OFFICE,"You wanted to see me, ""Tex""?"
+154020,18,141,776000,MR. O'HARA,OWNER'S OFFICE,"Homer, now we both knew when you began doing this you weren't gonna be here forever..."
+154021,18,142,780000,Homer Simpson,OWNER'S OFFICE,"Oh, oh, oh, I get it. You can't fire the players, so you fire the mascot. You make me sick."
+154022,18,143,787000,MR. O'HARA,OWNER'S OFFICE,"Homer, I'm not firing you. I just got the word -- You've been called up to Capital City."
+154023,18,144,792000,Homer Simpson,OWNER'S OFFICE,Me? In the majors?
+154024,18,145,794000,MR. O'HARA,OWNER'S OFFICE,That's right.
+154025,18,146,795000,Homer Simpson,OWNER'S OFFICE,"Wait a minute, Capital City has a mascot. The greatest mascot there is: The Capital City ""Goofball""."
+154026,18,147,802000,MR. O'HARA,OWNER'S OFFICE,"Yeah, but he's getting on in years and he needs someone to fill in for a couple of innings a night. Could be a big opportunity for you."
+154027,18,148,809000,Homer Simpson,OWNER'S OFFICE,I'll say!
+154028,18,149,810000,MR. O'HARA,OWNER'S OFFICE,Why don't you talk it over with your family?
+154029,18,150,811000,Homer Simpson,OWNER'S OFFICE,Because they might say no.
+154031,18,152,814000,Homer Simpson,Moe's Tavern,This was the biggest decision the Simpsons ever faced. I should've listened to the kids instead of my big dumb wife.
+154032,18,153,820000,Homer Simpson,Moe's Tavern,I shouldn't have called her that. Bite my tongue. Bite my tongue. Oooh.
+154034,18,155,824000,Lisa Simpson,Simpson Home,I can't leave Springfield. I was born here and I thought I would die here.
+154035,18,156,828000,Homer Simpson,Simpson Home,It won't be so bad. You'll die someplace else.
+154036,18,157,831000,Bart Simpson,Simpson Home,"Well, what am I supposed to do about friends?"
+154037,18,158,834000,Homer Simpson,Simpson Home,Phfft. You'll make new and better friends.
+154038,18,159,837000,Lisa Simpson,Simpson Home,"But, Dad. We're simple people with simple values. Capital City is too big and too complex. Everyone in Springfield knows us and has forgiven us."
+154039,18,160,846000,Marge Simpson,Simpson Home,"Homer, I'd be lying if I didn't say that this scares me a little. But we all have a calling, a reason The Almighty put us on this Earth. And yours might be to dance on dugouts."
+154040,18,161,857000,Homer Simpson,Simpson Home,You mean -- ?
+154041,18,162,858000,Marge Simpson,Simpson Home,"Let's do it, Homer!"
+154042,18,163,859000,Bart Simpson,Simpson Home,"Yeah, let's blow this pop stand and never look back."
+154043,18,164,862000,Lisa Simpson,Simpson Home,Whatever doesn't kill me can only make me stronger.
+154044,18,165,866000,Homer Simpson,Simpson Home,It's not that simple. I've got to convince my supervisor to give me a leave of absence.
+154046,18,167,870000,Supervisor,Springfield Nuclear Power Plant,Sure. What would you like -- four years? Five years?
+154048,18,169,874000,NED,Simpson Home,"So, Simpson. You're really moving to Capital City?"
+154049,18,170,877000,Homer Simpson,Simpson Home,"That's right, Ned."
+154050,18,171,878000,NED,Simpson Home,"Uh huh. And all this stuff is for sale, huh? You know, I-I-I... don't know how to say this, but, well..."
+154051,18,172,883000,Homer Simpson,Simpson Home,"Oh, knock it off, Flanders! Don't start blubbering on me. I'm gonna miss you too... not."
+154053,18,174,889000,Milhouse Van Houten,Bart's Treehouse,"I don't know, Bart. I mean, I'm gonna miss you and all, but..."
+154054,18,175,894000,Bart Simpson,Bart's Treehouse,"Come on, Milhouse. This way we'll be friends forever."
+154055,18,176,897000,Milhouse Van Houten,Bart's Treehouse,"Well, okay."
+154056,18,177,899000,Milhouse Van Houten,Bart's Treehouse,Ewww!
+154057,18,178,901000,Bart Simpson,Bart's Treehouse,"I'm gonna miss you, spit brother."
+154058,18,179,903000,Milhouse Van Houten,Bart's Treehouse,"I'm gonna miss you, spit brother."
+154060,18,181,905000,Lisa Simpson,Springfield Elementary School Yard,"I can't help but feel that if we had gotten to know each other better, my leaving would actually have meant something."
+154062,18,183,915000,Marge Simpson,Simpson Home,"Well, we have one quick stop and then it's on to Capital City."
+154063,18,184,919000,Patty Bouvier,Simpson Home,I can't believe it. Our baby sister in the big city.
+154064,18,185,923000,Selma Bouvier,Simpson Home,I'll call you every day.
+154065,18,186,923000,Patty Bouvier,Simpson Home,"I'll call you, too."
+154066,18,187,926000,Patty Bouvier,Simpson Home,"Look, he can use a horn."
+154067,18,188,930000,Selma Bouvier,Simpson Home,"Oh, shut up."
+154069,18,190,932000,Homer Simpson,BALLPARK,"... Some may say that I have been given a bad break in life -- little education, bald as a cue ball, ten years on the same job for the same salary -- but today, as I leave for Capital City, I consider myself the luckiest mascot on the face of the Earth!"
+154070,18,191,964000,Homer Simpson,BALLPARK,"With the fickle fans already forgetting me, I was ready to take the biggest step of my life."
+154074,18,195,980000,Homer Simpson,Capital City,"Well kids, there it is, Capital City."
+154075,18,196,984000,Marge Simpson,Capital City,Look! The Crosstown Bridge!
+154076,18,197,987000,Bart Simpson,Capital City,Wow!
+154077,18,198,988000,Homer Simpson,Capital City,Wow!
+154078,18,199,993000,Tony Bennett,Capital City,"THERE'S A SWINGIN' TOWN I KNOW /,theres a swingin town i know,6
+5346,18,200,Tony Bennett: CALLED CAPITAL CITY..."
+154079,18,201,999000,Lisa Simpson,Capital City,The Pennyloafer!
+154080,18,202,1001000,Tony Bennett,Capital City,"PEOPLE STOP AND SCREAM HELLO /,people stop and scream hello,5
+5349,18,203,Tony Bennett: IN CAPITAL CITY..."
+154081,18,204,1007000,Homer Simpson,Capital City,"Kids, look! Street crime!"
+154082,18,205,1009000,Tony Bennett,Capital City,"IT'S THE KIND OF PLACE THAT MAKES,its the kind of place that makes,7
+5352,18,206,Tony Bennett: A BUM / FEEL LIKE A KING..."
+154083,18,207,1014000,Homer Simpson,Capital City,Wow! That's service!
+154084,18,208,1016000,Tony Bennett,Capital City,"AND IT MAKES A KING FEEL LIKE/,and it makes a king feel like,7
+5355,18,209,Tony Bennett: SOME NUTTY KOO-KOO SUPER-KING..."
+154085,18,210,1023000,Marge Simpson,Capital City,"Look, it's Tony Bennett!"
+154086,18,211,1025000,Tony Bennett,Capital City,"Hey, good to see you."
+154087,18,212,1028000,Tony Bennett,Capital City,"""IT'S AGAINST THE LAW TO FROWN /,its against the law to frown,6
+5443,19,16,""Marge Simpson: Oh"
+154088,18,213,1028000,Tony Bennett,Capital City,"IN CAPITAL CITY. ""YOU'LL CAPER LIKE A STUPID CLOWN / WHEN YOU CHANCE TO SEE..."""
+154089,18,214,1040000,Marge Simpson,Capital City,Fourth Street and D!
+154090,18,215,1041000,Tony Bennett,Capital City,...FOURTH STREET AND D!/ YEAH!/ ONCE YOU GET A WHIFF OF IT...YOU'LL NEVER WANT TO ROAM.
+154091,18,216,1048000,Homer Simpson,Capital City,The Duff Brewery!
+154092,18,217,1051000,Tony Bennett,Capital City,"FROM CAPITAL CITY, MY HOME SWEET HOME / CAPITAL CITY... THAT HAPPYTOWN CITY / IT'S CAPITAL CITY, MY HOME, SWEET, SWINGIN' HOME"""
+154093,18,218,1068000,Lisa Simpson,Capital City,Capital City -- yeah!
+154095,18,220,1075000,Marge Simpson,Hotel Room,"Awww. Come to bed, Homie."
+154096,18,221,1083000,Homer Simpson,Hotel Room,"Sorry, honey. I'm just a little nervous."
+154097,18,222,1089000,Homer Simpson,Hotel Room,"We would talk about it always. For the first time in our lives, Marge fell asleep before I did."
+154099,18,224,1099000,Homer Simpson,Capital City Cap Dome,"Okay, here are your tickets. They're supposed to be good. You're sitting with the player's wives. And don't forget to cheer for me."
+154100,18,225,1105000,Marge Simpson,Capital City Cap Dome,"See you after the game, when you're a big star."
+154101,18,226,1108000,Homer Simpson,Capital City Cap Dome,Bart was strangely quiet. Later he explained he was confused by feelings of respect for me. That wouldn't last.
+154103,18,228,1115000,Homer Simpson,CAP CITY DOME,Wow.
+154104,18,229,1121000,Homer Simpson,CAP CITY DOME,"Omigod! I don't believe it. It's really you, the Capital City ""Goofball."""
+154105,18,230,1126000,Capital City Goofball,CAP CITY DOME,"Hello, Dancin' Homer. Glad to have you aboard. If there's anything I can do for you just squeeze the wheeze."
+154107,18,232,1133000,Capital City Goofball,Locker Room,"The fifth inning will be yours. Everyone is settled in, they've had a coupla beers; the game is official. It's a pretty important inning."
+154108,18,233,1141000,Homer Simpson,Locker Room,"Wow, the fifth."
+154109,18,234,1142000,Capital City Goofball,Locker Room,"It's also the inning I wish I had a zipper on the front of this thing, if you know what I mean."
+154110,18,235,1147000,Homer Simpson,Locker Room,"Right, Mr. Goofball."
+154111,18,236,1148000,Capital City Goofball,Locker Room,"Hey, call me plain ol' ""Goof"". So what exactly do you have planned for us?"
+154112,18,237,1152000,Homer Simpson,Locker Room,"Well, I get up, I dance, I spell out the name of the city... all to the tune of Baby Elephant Walk."
+154113,18,238,1152000,Capital City Goofball,Locker Room,"Aah, Mancini. The mascot's best friend. Well, see you on that field. I'll set 'em up, you knock 'em down."
+154115,18,240,1167000,Dave Glass,CAP DOME,"Well, hello, everybody. Dave Glass talkin' at ya. We've got great weather here tonight under the Dome."
+154116,18,241,1173000,Marge Simpson,CAP DOME,"Let's see. Upper, upper, upper mezzanine. Hmmm. Yes, these must be ours."
+154117,18,242,1182000,Bart Simpson,CAP DOME,These seats stink!
+154118,18,243,1183000,Marge Simpson,CAP DOME,You'd think the player's wives would be a little closer to the action.
+154119,18,244,1186000,First Wife #3,CAP DOME,"Actually, this section is for the player's ex-wives."
+154120,18,245,1189000,First Wife #1,CAP DOME,And then I found out that all the while there was this bimbo in Kansas City.
+154121,18,246,1194000,First Wife #3,CAP DOME,Throw at his head!
+154122,18,247,1197000,Homer Simpson,CAP DOME,Who'd've thought it? A free ticket to a big league park but I was too tense to enjoy the game. Every ounce of concentration I possessed was focused on the task at hand.
+154123,18,248,1206000,Hot Dog Man,CAP DOME,Red hots! Get your read hots here!
+154124,18,249,1208000,Homer Simpson,CAP DOME,"Oooh, red hots."
+154125,18,250,1209000,Announcer,CAP DOME,"Ladies and gentlemen. Capital City's newest sensation, Dancin' Homer!"
+154126,18,251,1216000,Homer Simpson,CAP DOME,"Mmm, these do taste better at the ballpark. Uh oh."
+154127,18,252,1222000,Lisa Simpson,CAP DOME,There he is!
+154128,18,253,1224000,Homer Simpson,CAP DOME,"I was graceful. I was witty. Brother, I was somethin'."
+154129,18,254,1229000,Homer Simpson,CAP DOME,But they didn't care.
+154130,18,255,1233000,Bart Simpson,CAP DOME,What's with these people? Why are they sitting on their hands?
+154131,18,256,1236000,Lisa Simpson,CAP DOME,"Mom, what's he doing wrong?"
+154132,18,257,1237000,Marge Simpson,CAP DOME,I don't know.
+154133,18,258,1239000,Homer Simpson,CAP DOME,It was so quiet you could hear each individual smart-ass remark.
+154134,18,259,1243000,Spectator #1,CAP DOME,This guy doesn't make me want to cheer.
+154135,18,260,1245000,Spectator #2,CAP DOME,"Gee, I really pity him. Making a fool of himself in front of so many people."
+154136,18,261,1249000,Spectator #3,CAP DOME,"These cornball antics may play in the sticks, but this is Capital City!"
+154137,18,262,1253000,Homer Simpson,CAP DOME,The only applause I got was for dragging my carcass out of there.
+154138,18,263,1257000,Clubhouse Attendant,CAP DOME,"Hey, Mr. Showmanship! The owner wants to see you in his office right now."
+154139,18,264,1262000,Dave Rosenfield,CAP DOME,"I'm sorry, young man; you're just not ready. Pick up your check at the front office... and for God's sake, put some clothes on!"
+154141,18,266,1267000,Bart Simpson,STADIUM,"Well, I guess it's back to good old Springfield."
+154144,18,267,1269000,Lisa Simpson,STADIUM,But I can't go back! Not after I've seen the bright lights of Capital City. I'll wither and die like a hothouse flower.
+154145,18,268,1276000,Marge Simpson,STADIUM,Now stop it you two. And don't look too down. I'm sure this is hard enough for your father.
+154146,18,269,1284000,Homer Simpson,STADIUM,What a family.
+154148,18,271,1286000,Homer Simpson,Freeway,My wife and kids stood by me. On the way home I realized how little that helped.
+154150,18,273,1292000,Homer Simpson,Moe's Tavern,"So that's it. The costume's buried now. As my son would say, I'm one sad ape-like dude."
+154151,18,274,1299000,Barney Gumble,Moe's Tavern,Wow.
+154152,18,275,1300000,Moe Szyslak,Moe's Tavern,What a saga.
+154153,18,276,1301000,Homer Simpson,Moe's Tavern,"Hey, you guys are hanging on my every word. I've become the center of attention."
+154154,18,277,1307000,Barney Gumble,Moe's Tavern,"Yeah, it's riveting."
+154155,18,278,1308000,Moe Szyslak,Moe's Tavern,"Tell it again, Homer."
+154156,18,279,1309000,Homer Simpson,Moe's Tavern,Okay. I wonder why stories of degradation and humiliation make you more popular.
+154157,18,280,1315000,Moe Szyslak,Moe's Tavern,I don't know. They just do.

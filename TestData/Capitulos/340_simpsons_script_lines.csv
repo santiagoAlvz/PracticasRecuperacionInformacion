@@ -1,0 +1,253 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+87852,340,1,30000,Lisa Simpson,Simpson Home,MISS LUCY HAD A STEAMBOAT / THE STEAMBOAT HAD A BELL...
+87853,340,2,32000,Lisa Simpson,Simpson Home,MISS LUCY WENT TO HEAVEN AND THE STEAMBOAT WENT TO...
+87855,340,4,36000,Lisa Simpson,Simpson Home,... HELL-O OPERATOR...
+87857,340,6,38000,Lisa Simpson,Simpson Home,GET ME NUMBER NINE / AND IF YOU DISCONNECT ME / I'LL CHOP OFF YOUR BE...
+87859,340,8,44000,Lisa Simpson,Simpson Home,...HIND THE 'FRIDGERATOR...
+87860,340,9,46000,Homer Simpson,Simpson Home,Whew!
+87861,340,10,46000,Lisa Simpson,Simpson Home,THERE WAS A PIECE OF GLASS / MISS LUCY SAT UPON IT / AND IT CUT HER BIG FAT...
+87863,340,12,54000,Lisa Simpson,Simpson Home,...ASK ME NO MORE QUESTIONS / I'LL TELL YOU NO MORE--
+87864,340,13,57000,Lisa Simpson,Simpson Home,Ow!
+87865,340,14,61000,Lisa Simpson,Simpson Home,Spitballs!
+87867,340,16,70000,Bart Simpson,Bart's Treehouse,I'm using your unfinished novel!
+87868,340,17,80000,Lisa Simpson,Bart's Treehouse,Oh!
+87869,340,18,80000,Lisa Simpson,Bart's Treehouse,No!
+87870,340,19,85000,Lisa Simpson,Bart's Treehouse,"You're in big trouble, mister. I'm bleeding!"
+87871,340,20,90000,Bart Simpson,Bart's Treehouse,There's no cut on your cheek...
+87872,340,21,93000,Bart Simpson,Bart's Treehouse,Where'd the blood come from?
+87873,340,22,96000,Bart Simpson,Bart's Treehouse,"Hey, I got a loose tooth."
+87874,340,23,99000,Lisa Simpson,Bart's Treehouse,"Eww, gross! I bet you can't twist it."
+87875,340,24,104000,Bart Simpson,Bart's Treehouse,"Of course I can twist it, I'm great."
+87879,340,28,112000,Bart Simpson,Springfield Elementary School,This is my last baby tooth.
+87880,340,29,114000,Milhouse Van Houten,Springfield Elementary School,That's the money tooth -- I heard the Tooth Fairy pays triple for it.
+87881,340,30,119000,Bart Simpson,Springfield Elementary School,Then let's hurry up and rip it out of my head.
+87883,340,31,126000,Gary Chalmers,Springfield Elementary School,Skinner! Your bus driver just totaled my Camry!
+87884,340,32,130000,Seymour Skinner,Springfield Elementary School,Can I offer you the use of my Merkur?
+87885,340,33,132000,Gary Chalmers,Springfield Elementary School,Filled with your Burger King cups and wrappers? No thank you.
+87887,340,35,138000,Marge Simpson,Simpson Home,Lousy drawer... potato masher stuck in small spoon slot... what kind of madman would do that?
+87888,340,36,151000,Marge Simpson,Simpson Home,"Oh, Bart, honey I'm so sorry."
+87889,340,37,154000,Bart Simpson,Simpson Home,No problem.
+87890,340,38,158000,Marge Simpson,Simpson Home,No harm done.
+87891,340,39,159000,Homer Simpson,Simpson Home,I wouldn't say that.
+87892,340,40,161000,Bart Simpson,Simpson Home,Um-huh.
+87893,340,41,163000,Bart Simpson,Simpson Home,"God, please give your daughter the Tooth Fairy the strength to carry my cash, and the integrity not to dip her wand in the till."
+87895,340,43,179000,Bart Simpson,Bart's Bedroom,What the?!
+87897,340,45,180000,Bart Simpson,Simpson Home,"""The Tooth Fairy has made a donation in my name to the ­United Way""?! That gossamer witch."
+87898,340,46,185000,Marge Simpson,Simpson Home,"Maybe when the Tooth Fairy saw it was your last baby tooth, she realized you're not a little boy anymore. So she gave you a grown-up gift."
+87899,340,47,194000,Bart Simpson,Simpson Home,I'm not gonna grow up!
+87900,340,48,195000,Homer Simpson,Simpson Home,"Oh yes you are. Why, in the right light, you're starting to get your own muzzle."
+87901,340,49,200000,Bart Simpson,Simpson Home,I thought it was chocolate milk!
+87902,340,50,201000,Homer Simpson,Simpson Home,"Yeah, that's how it starts."
+87903,340,51,203000,Bart Simpson,Simpson Home,Nooo!
+87905,340,53,206000,Bart Simpson,Try-N-Save,"I'm still a kid. And what do kids love? Kid stuff, like this."
+87906,340,54,212000,Bart Simpson,Try-N-Save,"Vroom vroom. Vroom vroom... Vroom, vroom."
+87907,340,55,220000,Jimbo Jones,Try-N-Save,"What'cha realizing, jerk?"
+87908,340,56,222000,Bart Simpson,Try-N-Save,That I'm not a kid anymore.
+87910,340,58,224000,Jimbo Jones,Try-N-Save,That's harsh.
+87911,340,59,225000,Kearney Zzyzwicz,Try-N-Save,"I knew I was an adult the day the judge said ""we're trying you as an adult."""
+87913,340,61,225000,Bart Simpson,Simpson Home,"Well, there's one thing no one can take away: my childlike imagination."
+87914,340,62,234000,Bart Simpson,Simpson Home,"Sergeant Activity, your mission is to scale the icy walls of Mount Bloodkill!"
+87916,340,63,242000,Sgt. Activity,Simpson Home,Must... defeat... Doctor Blizzard... and the Avalanche-oids.
+87917,340,64,250000,Sgt. Activity,Simpson Home,"Lieutenant Adventure, what are you doing here?"
+87918,340,65,253000,Lt. Adventure,Simpson Home,"You're quite the daredevil, Sergeant Activity. It's high time you protected yourself with supplemental disability insurance."
+87919,340,66,260000,Sgt. Activity,Simpson Home,"At my age, can I qualify?"
+87920,340,67,263000,Lt. Adventure,Simpson Home,"You'd be surprised -- if you're a nonsmoker, it can cost just a few dollars a month."
+87921,340,68,268000,Bart Simpson,Simpson Home,What's happening to me? Maybe I'm not a kid anymore.
+87923,340,70,273000,Bart Simpson,Bart's Bedroom,"Goodbye, Spirogram. Goodbye, Sketch 'n' Etch. Goodbye Ravenous Ravenous Rhinos, Duopoly, Parchoosey, Humor Putty and Sock 'em Knock 'em Cyborgs. Goodbye, childhood."
+87926,340,73,297000,Bart Simpson,Lake Springfield,"Goodbye, friends."
+87927,340,74,308000,Captain Horatio McCallister,Lake Springfield,"""So Eden sank to grief, / So dawn goes down to day, / Nothing gold can stay."" Yarr."
+87928,340,75,317000,Bart Simpson,Lake Springfield,"Hey, Sea Captain."
+87929,340,76,319000,Captain Horatio McCallister,Lake Springfield,"Givin' your toys a Viking funeral, eh?"
+87930,340,77,322000,Bart Simpson,Lake Springfield,I really don't want to talk about it.
+87931,340,78,323000,Captain Horatio McCallister,Lake Springfield,"If you change your mind, I won't be farrr."
+87932,340,79,327000,Bart Simpson,Lake Springfield,"Thanks, but--"
+87933,340,80,328000,Captain Horatio McCallister,Lake Springfield,"I've been told I'm a good listener. But when you're a captain, you never know when people are just flatterin' ya. Yarr."
+87934,340,81,336000,Captain Horatio McCallister,Lake Springfield,He's gone. Darn it! I just want a friend who isn't a work friend.
+87936,340,83,346000,Lisa Simpson,Simpson Home,"Bart, if you don't get up now, good luck getting a pancake. Dad's pulled his chair right up to the stove."
+87937,340,84,351000,Bart Simpson,Simpson Home,"Lis, I think I'm having a midlife crisis."
+87938,340,85,354000,Lisa Simpson,Simpson Home,"If you're feeling depressed, do what I do and write something. A novel, a play..."
+87939,340,86,359000,Bart Simpson,Simpson Home,"Or, I could write something that's not gay."
+87940,340,87,363000,Marge Simpson,Simpson Home,"Bart, someone wrote something cynical on your shirt!"
+87941,340,88,363000,Bart Simpson,Simpson Home,Um-hmm.
+87942,340,89,368000,Marge Simpson,Simpson Home,Let me wash it off.
+87943,340,90,368000,Bart Simpson,Simpson Home,Leave me alone -- this expresses my rage at the machine.
+87945,340,91,372000,Marge Simpson,Simpson Home,"Well, I like T-shirts with a nice joke, like ""support our troops."""
+87946,340,92,375000,Homer Simpson,Simpson Home,"Bart's shirt is a classic, Marge. Just like ""Keep On Truckin'"". As if I would ever want to stop truckin'."
+87948,340,94,386000,Otto Mann,School Bus,Whoa.
+87949,340,95,390000,Database,School Bus,"I wish I had that shirt. It's clever, funny and would cover my boy boobs nicely."
+87952,340,98,408000,Milhouse Van Houten,Springfield Elementary School,"Bart, I need that shirt. I'll trade you Puppy Goo Goo for it."
+87953,340,99,412000,Milhouse Van Houten,Springfield Elementary School,She still has a lot of her original strawberry scent.
+87954,340,100,416000,Bart Simpson,Springfield Elementary School,Forget it. My attitude isn't for sale! What am I saying? Of course it is!
+87956,340,102,422000,Bart Simpson,Simpson Home,"T-shirts! Get your sassy T-shirts! Fifty percent cotton, one hundred percent awesome!"
+87957,340,103,428000,Rod Flanders,Simpson Home,"Daddy, can I buy this one?"
+87958,340,104,429000,Ned Flanders,Simpson Home,"Let's see... ""Get Bent."" Well, the only thing that could mean is kneel down and pray. We'll take the whole box. Get bent, everyone!"
+87959,340,105,438000,Dr. Julius Hibbert,Simpson Home,This could get me out of a lot of sticky situations. I'll take a dozen.
+87960,340,106,444000,Moe Szyslak,Simpson Home,Do you have a T-shirt with Calvin peeing on Hobbes?
+87961,340,107,446000,Bart Simpson,Simpson Home,Sorry.
+87962,340,108,447000,Moe Szyslak,Simpson Home,"Well, what do ya got him peein' on?"
+87963,340,109,452000,Chief Wiggum,Simpson Home,Well well well. Selling T-shirts without a permit.
+87964,340,110,453000,Chief Wiggum,Simpson Home,And it looks like one of the lights in your sneakers is out.
+87965,340,111,460000,Bart Simpson,Simpson Home,"Come on, Chief. I can't afford to pay protection to you and Nelson."
+87966,340,112,464000,Nelson Muntz,Simpson Home,Um-hmmm.
+87967,340,113,465000,Chief Wiggum,Simpson Home,"Well then you're out of business. Let's go, boys -- confiscate his merchandise."
+87968,340,114,471000,Chief Wiggum,Simpson Home,Are any of those my size? Extra extra extra extra extra extra extra large.
+87969,340,115,477000,Eddie,Simpson Home,"Here you go, Chief."
+87970,340,116,478000,Chief Wiggum,Simpson Home,"""Proud Nubian Princess."" Score!"
+87971,340,117,485000,Bart Simpson,Simpson Home,It's no fair -- I just started and I'm out of business.
+87972,340,118,488000,Lisa Simpson,Simpson Home,Why don't you go legit and sell your shirts in stores?
+87973,340,119,492000,Bart Simpson,Simpson Home,But I'm just a kid.
+87975,340,120,494000,Sgt. Activity,Simpson Home,"You're a kid no longer, Bart. You've become a man."
+87976,340,121,497000,Bart Simpson,Simpson Home,"Hey, you're right, I am."
+87977,340,122,500000,Lt. Adventure,Simpson Home,"And as an adult, you'll be needing comprehensive insurance."
+87978,340,123,504000,Lt. Adventure,Simpson Home,I'll just leave these brochures!
+87979,340,124,507000,Bart Simpson,Simpson Home,So how can I get my shirts in stores?
+87980,340,125,510000,Lisa Simpson,Simpson Home,I bet you could find a distributor at the Springfield Novelty Expo.
+87981,340,126,514000,Bart Simpson,Simpson Home,That's right -- it's tomorrow!
+87983,340,128,526000,Exhibitor #1,Springfield Convention Center,"Oh my God, it's a small retailer! He could make or break us!"
+87984,340,129,529000,Exhibitor #3,Springfield Convention Center,"Mr. Retailer -- over here! Your customers will love these ""Mood Lollipops!"" Every lick reveals your mood!"
+87985,340,130,539000,Apu Nahasapeemapetilon,Springfield Convention Center,It works!... If blue is the color for unimpressed.
+87986,340,131,540000,Bart Simpson,Springfield Convention Center,T-shirts! Come order my homemade T-shirts. My Mom thinks they're good.
+87987,340,132,554000,Bart Simpson,Springfield Convention Center,Hey!
+87988,340,133,555000,Krusty the Clown,Springfield Convention Center,"Hey hey! Krusty Show T-shirts are made for kids, by kids! And we pass the slavings onto you!"
+87989,340,134,565000,Krusty the Clown,Springfield Convention Center,"We've got all your favorite characters -- Itchy, Scratchy, Poochie, Austin Powers Itchy, Itchy Poochie, Scratchbob Itchpants, Confederate Itchy and Osama Bin Scratchy."
+87992,340,137,579000,Bart Simpson,Springfield Convention Center,"That sucked. Well, at least I've still got my health."
+87993,340,138,586000,Goose Gladwell,Springfield Convention Center,"Oh, my golly graciousness! Bad car! Apologize to the poor little boy."
+87995,340,140,596000,Goose Gladwell,Springfield Convention Center,This shirt is humor-larious! Let's see what else you've got.
+87996,340,141,599000,Goose Gladwell,Springfield Convention Center,Amazing! Trail-blazing! Insightful! Delightful! Hysterical! A miracle! The kids'll go cuckoo for these!
+87998,340,143,610000,Goose Gladwell,Springfield Convention Center,The name's Goose Gladwell.
+87999,340,144,611000,Bart Simpson,Springfield Convention Center,Of Goose's Gags and Gifts?
+88000,340,145,613000,Goose Gladwell,Springfield Convention Center,That's right! I've got twenty stores in thirty states. And I want to sell your shirts in most of them!
+88001,340,146,619000,Bart Simpson,Springfield Convention Center,You really think my shirts will sell?
+88002,340,147,621000,Goose Gladwell,Springfield Convention Center,"Abso-tively. Here, take my card."
+88003,340,148,628000,Goose Gladwell,Springfield Convention Center,"Sorry, that's my old number. Let me give you the new one."
+88004,340,149,631000,Goose Gladwell,Springfield Convention Center,"Darn. It's out of ink. But my phone number's on the pen. Oh, but it's my old phone number. I'll call you."
+88006,340,151,648000,Homer Simpson,Simpson Home,"I've been reading this magazine for years, but I never dreamed my son would be on the cover."
+88007,340,152,657000,Bart Simpson,Simpson Home,It's Goose!
+88009,340,154,662000,Goose Gladwell,Simpson Home,"Hello, Simpsons."
+88010,340,155,665000,Bart Simpson,Simpson Home,Ooh!
+88011,340,156,667000,Homer Simpson,Simpson Home,You broke in!
+88012,340,157,668000,Marge Simpson,Simpson Home,"We're big fans, Mr. Gladwell."
+88013,340,158,670000,Homer Simpson,Simpson Home,Yeah. Nothing makes parents happier than when an eccentric single man takes an interest in their child.
+88014,340,159,677000,Goose Gladwell,Simpson Home,"Bart, that's your share of the T-shirt profits so far."
+88016,340,161,683000,Homer Simpson,Simpson Home,Look at all that cash.
+88017,340,162,685000,Goose Gladwell,Simpson Home,"And now, it's time for me to leave."
+88018,340,163,694000,Marge Simpson,Simpson Home,What a delightful sprite.
+88020,340,165,704000,C. Montgomery Burns,Springfield Nuclear Power Plant,Smithers! There seems to be some sort of communiqué on that man's blouse.
+88021,340,166,708000,Waylon Smithers,Springfield Nuclear Power Plant,"I believe it says ""Don't wake me, I'm working."""
+88022,340,167,708000,C. Montgomery Burns,Springfield Nuclear Power Plant,Bolshevism! Sheer Bolshevism! Ripe for the quashing!
+88024,340,169,717000,C. Montgomery Burns,Springfield Nuclear Power Plant,You're suspended without pay! Take your clacking balls and go.
+88025,340,170,724000,C. Montgomery Burns,Springfield Nuclear Power Plant,"And on your way out, remove all the fillings you got under our dental plan."
+88026,340,171,729000,Homer Simpson,Springfield Nuclear Power Plant,"You know what, Mr. Burns? I'm never comin' back. My son's making so much cash in the T-shirt game, that I don't have to work another day in my life -- assuming my health does not deteriorate as I age."
+88027,340,172,742000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Good riddance to bad blubber. Smithers, want to go get a cup of coffee?"
+88028,340,173,746000,Waylon Smithers,Springfield Nuclear Power Plant,"I just had one, sir."
+88029,340,174,747000,C. Montgomery Burns,Springfield Nuclear Power Plant,What the?! Why is everyone so insolent today?
+88030,340,175,751000,Waylon Smithers,Springfield Nuclear Power Plant,"Well, today is Christmas, sir."
+88031,340,176,753000,C. Montgomery Burns,Springfield Nuclear Power Plant,I say when it's Christmas!
+87944,340,178,757000,Announcer,Simpson Home,Too much change around the house got you down?
+87882,340,179,761000,Man,Simpson Home,"Help me, Romco Change Magician!"
+88033,340,180,764000,Announcer,Simpson Home,The Change Magician will change your life... for the better! Results may vary. Machine does not actually sort change. Order today!
+88034,340,181,775000,Homer Simpson,Simpson Home,"Bart, can I ask you an important question?"
+88035,340,182,776000,Bart Simpson,Simpson Home,How much?
+88036,340,183,777000,Homer Simpson,Simpson Home,Twenty-nine ninety-nine.
+88037,340,184,779000,Bart Simpson,Simpson Home,Here's fifty.
+88038,340,185,779000,Homer Simpson,Simpson Home,Woo hoo!
+88039,340,186,780000,Bart Simpson,Simpson Home,"That's your donut money too, mister!"
+88042,340,189,786000,Homer Simpson,The Gilded Truffle Restaurant,"Lenny, Carl! How ya doin'?"
+88043,340,190,788000,Lenny Leonard,The Gilded Truffle Restaurant,"Hey, Homer, how's retirement?"
+88044,340,191,790000,Homer Simpson,The Gilded Truffle Restaurant,It's awesome. You know what I've gotten into? Sleeping 'til noon.
+88045,340,192,795000,Carl Carlson,The Gilded Truffle Restaurant,"Yeah, well, we'd better get goin'."
+88046,340,193,797000,Lenny Leonard,The Gilded Truffle Restaurant,Some of us have to get up for work tomorrow.
+88047,340,194,799000,Homer Simpson,The Gilded Truffle Restaurant,"Hey, just 'cause I'm not working doesn't mean I can't gripe like you guys. Don't you hate it when people steal your lunch out of the break-room fridge?"
+88048,340,195,806000,Carl Carlson,The Gilded Truffle Restaurant,"Actually, that stopped after you left, Homer."
+88049,340,196,808000,Lenny Leonard,The Gilded Truffle Restaurant,"Yeah. Well, enjoy the autumn of your years, jerk."
+88050,340,197,813000,Homer Simpson,The Gilded Truffle Restaurant,"Oh, I see what's goin' on. You can't stand to be around a guy who's got total financial independence."
+88051,340,198,823000,Waiter,The Gilded Truffle Restaurant,"Your bill, sir."
+88052,340,199,823000,Homer Simpson,The Gilded Truffle Restaurant,"No problem. Bart, I need two hundred dollars."
+88053,340,200,826000,Bart Simpson,The Gilded Truffle Restaurant,"Dad, the bill's only a hundred."
+88054,340,201,828000,Homer Simpson,The Gilded Truffle Restaurant,I broke some bathroom fixtures.
+88055,340,202,832000,Waiter,The Gilded Truffle Restaurant,Pathetic.
+88056,340,203,833000,Homer Simpson,The Gilded Truffle Restaurant,"I'm pathetic? Because I take money from my ten-year-old son? Well, let me tell you something: I still call the shots around here!"
+88057,340,204,842000,Marge Simpson,The Gilded Truffle Restaurant,"Homer, use your inside voice."
+88058,340,205,844000,Homer Simpson,The Gilded Truffle Restaurant,I don't have an inside voice!
+88060,340,207,850000,Declan Desmond,Simpson Home,The wild Serengeti. Home of Africa's equivalent to the mountain lion -- the regular lion.
+88061,340,208,857000,Declan Desmond,Simpson Home,"These toothy Tarzan-munchers have a rigid hierarchy, with a single alpha-male ruling the pride."
+88063,340,210,870000,Declan Desmond,Simpson Home,"Until a younger, more aggressive lion challenges his power..."
+88065,340,212,879000,Homer Simpson,Simpson Home,The couch is like that tree!
+88066,340,213,882000,Declan Desmond,Simpson Home,"The displaced male has two choices: either, spend the rest of his days among the other broken-down old lions..."
+88067,340,214,891000,Grampa Simpson,Simpson Home,All the good graves are taken.
+88068,340,215,894000,Declan Desmond,Simpson Home,...or find inclusion in the tribe by caring for vulnerable young cubs.
+88069,340,216,902000,Homer Simpson,Simpson Home,"Lisa, basic cable said I should nurture you."
+88070,340,217,905000,Lisa Simpson,Simpson Home,Great! Will you play Malibu Stacy with me?
+88071,340,218,908000,Homer Simpson,Simpson Home,"Okay! You be the girl, and I'll be the car."
+88072,340,219,913000,Lisa Simpson,Simpson Home,Done and done. I'm going to the organic market!
+88073,340,220,921000,Homer Simpson,Simpson Home,"Screw the market, we're going to Mexico!"
+88075,340,222,924000,Lisa Simpson,Simpson Home,Wheeee!
+88076,340,223,927000,Homer Simpson,Simpson Home,It's El Flanderito! Run him down!
+88077,340,224,928000,Ned Flanders,Simpson Home,"I can't run, I'm wearing flip-flops!"
+88078,340,225,937000,Homer Simpson,Simpson Home,"Hey, what's that dealy?"
+88079,340,226,939000,Lisa Simpson,Simpson Home,It's my entry for the all-school science fair.
+88080,340,227,941000,Lisa Simpson,Simpson Home,"It shows the history of nuclear physics, from Marie Curie's laboratory to a scale model of the first nuclear reactor."
+88081,340,228,948000,Homer Simpson,Simpson Home,"Oh, you'll win for sure. You and science go together like Lenny and Carl. The science is Carl."
+88082,340,229,954000,Martin Prince,Simpson Home,"Oh, Lisa!"
+88083,340,230,956000,Martin Prince,Simpson Home,I'd like to introduce you to the next winner of the science fair.
+88084,340,231,960000,Martin Prince,Simpson Home,"Behold my project: ""Childlike Humanoid Urban Muchacho,"" or CHUM!"
+88085,340,232,968000,Chum,Simpson Home,"Don't hold my hand, it's creepy."
+88086,340,233,971000,Martin Prince,Simpson Home,"Hush, my pet. Now let us gather our rosebuds while we may."
+88088,340,235,978000,Lisa Simpson,Simpson Home,A robot?! Last year the winner was a jar of owl pellets. I don't have a chance now.
+88089,340,236,986000,Homer Simpson,Simpson Home,"Honey, all you need's a little help from your dad. Remember, I did used to work at a science factory."
+88090,340,237,991000,Lisa Simpson,Simpson Home,"Well, we're supposed to do this without parental help."
+88091,340,238,995000,Homer Simpson,Simpson Home,"Sweetie, that's orphan talk."
+88093,340,239,999000,Homer Simpson,Simpson Home,Stupid atomic pile. How hard could it be to build a reactor? Korea did it. And look at the quality of their animation.
+88094,340,240,1008000,Homer's Muzzle,Simpson Home,"Hm... what to do, what to do?"
+88095,340,241,1011000,Homer Simpson,Simpson Home,"Hey, maybe the internet has the information I need! It certainly answered a lot of my questions about wang enhancement."
+88096,340,242,1018000,Homer Simpson,Simpson Home,www.nuclear-secrets.com.
+88097,340,243,1023000,Homer Simpson,Simpson Home,"""Are you a terrorist?"" No. ""Would you like to meet someone special but are tired of the bar scene?"" No. I will never tire of the bar scene!"
+88098,340,244,1033000,Homer Simpson,Simpson Home,"Let's see, I can make that... you can get that by smashing open a golf ball... that you can find in any player piano..."
+88099,340,245,1041000,Homer Simpson,Simpson Home,All I need is some plutonium and I know just the place to get it.
+88104,340,250,1072000,Lisa Simpson,Simpson Home,Dad?...
+88105,340,251,1073000,Homer Simpson,Simpson Home,"Up-bup-bup-bup-bup, don't look!"
+88106,340,252,1075000,Lisa Simpson,Simpson Home,"Dad, what did you do?"
+88107,340,253,1077000,Homer Simpson,Simpson Home,"Sweetie, your Daddy's gonna show you just how much he loves you. You know that non-functioning nuclear reactor you built?"
+88108,340,254,1084000,Lisa Simpson,Simpson Home,Yes...
+88109,340,255,1086000,Homer Simpson,Simpson Home,I juiced it up a little.
+88110,340,256,1088000,Lisa Simpson,Simpson Home,"Dad, that could explode!"
+88111,340,257,1090000,Homer Simpson,Simpson Home,"Oh, that's madiculous."
+88112,340,258,1094000,Krusty the Clown,Simpson Home,That thing's gonna blow! Drop this toy and run!
+88113,340,259,1097000,Lisa Simpson,Simpson Home,Mom! Dad built a device that would be deadly in the wrong hands! And he's holding it!
+88114,340,260,1103000,Marge Simpson,Simpson Home,"Homer, I want you to get that gamma radiating what's-it out of my home!"
+88115,340,261,1108000,Homer Simpson,Simpson Home,I never complain about your frilly pillows.
+88118,340,264,1116000,Bart Simpson,Store,How many T-shirts do you have here?
+88119,340,265,1118000,Comic Book Guy,Store,Just one.
+88120,340,266,1119000,Comic Book Guy,Store,It takes a Marine honor guard to fold it. It used to be a dust cover for a Hummer. I could go on and on.
+88121,340,267,1128000,Goose Gladwell,Store,"Gravies and Lentilmen, I have an exciting announcement: I have sold the rights to the Bart Simpson T-shirt line..."
+88122,340,269,1136000,Goose Gladwell,Store,"...to the Disney Company, which will turn each one into a movie."
+88123,340,270,1140000,Bart Simpson,Store,Really? How much money do I get?
+88124,340,271,1142000,Goose Gladwell,Store,"You get nothing. In fact, thanks to my team of loopy lawyers...I never have to give you another penny. All you get is a very valuable lesson: never trust a weirdo. A-zoot!"
+88125,340,272,1158000,Goose Gladwell,Store,I'm stuck on a nail. God that's painful.
+88126,340,273,1165000,Goose Gladwell,Store,I can't feel my
+88128,340,275,1168000,Homer Simpson,Springfield Street,"What's the matter, boy?"
+88129,340,276,1169000,Bart Simpson,Springfield Street,Goose Gladwell ripped me off and there's nothin' I can do about it. I'm just a stupid kid.
+88130,340,277,1176000,Homer Simpson,Springfield Street,"Son, when you grew up, I grew down. But now I can see you need your Dad more than ever."
+88131,340,278,1182000,Grampa Simpson,Springfield Street,"And Homer, I can see you need me more than ever."
+88132,340,279,1186000,Homer Simpson,Springfield Street,"Get back in the garage, old man."
+88133,340,280,1188000,Grampa Simpson,Springfield Street,But there's spiders in the boxes.
+88134,340,281,1190000,Homer Simpson,Springfield Street,Stay out of my boxes!
+88136,340,283,1191000,Homer Simpson,GOOSE'S GAGS AND GIFTS,"You give my son what he deserves, or I'll knock you on your delightfully offbeat ass!"
+88137,340,284,1196000,Goose Gladwell,GOOSE'S GAGS AND GIFTS,"I must warn you, sir, I was a Green Beret in Vietnam."
+88138,340,285,1202000,Goose Gladwell,GOOSE'S GAGS AND GIFTS,The things I saw there are what made me crazy.
+88139,340,286,1208000,Homer Simpson,GOOSE'S GAGS AND GIFTS,"Sir, this is a class two plutonium fission reactor. If I turn this dial..."
+88140,340,287,1212000,Homer Simpson,GOOSE'S GAGS AND GIFTS,"The resulting blast would destroy the entire tri-city area, including that guy who sells those Blu-Blocker sunglasses people sometimes wear."
+88141,340,288,1225000,Homer Simpson,GOOSE'S GAGS AND GIFTS,Damn him to hell.
+88142,340,289,1226000,Goose Gladwell,GOOSE'S GAGS AND GIFTS,You can't be serious.
+88143,340,290,1228000,Homer Simpson,GOOSE'S GAGS AND GIFTS,Are you prepared to take that chance?
+88144,340,291,1235000,Goose Gladwell,GOOSE'S GAGS AND GIFTS,"Okay, okay. Here's all the money I've got."
+88145,340,292,1237000,Homer Simpson,GOOSE'S GAGS AND GIFTS,"Not so fast. I also want some dribble glasses, fake boobs, two of Bart's T-shirts, and that rapping toilet seat."
+88146,340,293,1246000,Homer Simpson,GOOSE'S GAGS AND GIFTS,"Yo, yo, yo! Keep it on the low flow!"
+88147,340,294,1250000,Homer Simpson,GOOSE'S GAGS AND GIFTS,I'm hangin' this over the mantel.
+88149,340,296,1251000,Bart Simpson,Springfield Street,"Thanks, Dad."
+88150,340,297,1252000,Homer Simpson,Springfield Street,"Well, I'm just glad we're back to me being the father and you being the son."
+88151,340,298,1258000,Bart Simpson,Springfield Street,Are you sure that thing could really explode?
+88152,340,299,1260000,Homer Simpson,Springfield Street,"Oh, I doubt it. But we'll let the seagulls at the dump figure it out."
+88154,340,301,1272000,Bart Simpson,Springfield Street,There's more than one way to lose a tooth.
+88155,340,302,1274000,Bart Simpson,Springfield Street,"Hey, idiot. You're fat, and your Mom's naked on the internet. You also smell."
+88156,340,303,1282000,Nelson Muntz,Springfield Street,Hmmm. You've given me a lot to think about.

@@ -1,0 +1,236 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+87570,339,1,55000,Bart Simpson,Simpson Home,"C'mon, boy. Take your pill."
+87571,339,3,62000,Bart Simpson,Simpson Home,"Mom, the dog won't take his medicine!"
+87572,339,4,64000,Marge Simpson,Simpson Home,Perhaps if you wrap it in a slice of cheese.
+87573,339,5,70000,Homer Simpson,Simpson Home,Woo hoo! Free cheese!
+87574,339,6,72000,Marge Simpson,Simpson Home,"Homer, that was for the dog."
+87575,339,7,74000,Homer Simpson,Simpson Home,"What's happened to us, Marge? We used to feed each other cheese and laugh all night. Then came the heart attacks."
+87576,339,8,83000,Marge Simpson,Simpson Home,What's that rumble?
+87578,339,10,85000,Lisa Simpson,WINDOW,It's a media circus!
+87579,339,11,87000,Homer Simpson,WINDOW,Woo hoo! The circus!
+87580,339,12,88000,Lisa Simpson,WINDOW,A media circus.
+87581,339,13,90000,Homer Simpson,WINDOW,Woo hoo! I don't know the difference!
+87583,339,15,92000,Lisa Simpson,Street,"ABC, CBS... uh-oh, the Christian Science Monitor has a flat tire!"
+87584,339,16,98000,News Crew Member #1,Street,I'll get the spare.
+87585,339,17,99000,News Crew Member #2,Street,No. We must wait for God to jack us.
+87587,339,19,102000,Kent Brockman,Simpson Home,"In Springfield today, a sex scandal has brought in reporters from around the world. Why, here's Fox News!"
+87588,339,20,115000,Kent Brockman,Simpson Home,"The cause of all this commotion is Mayor and suspected illegal immigrant Joe Quimby, named today in paternity suits by twenty-seven different women."
+87590,339,22,128000,Cookie Kwan,Simpson Living Room,"Joe, why won't you acknowledge our love child?!"
+87591,339,23,131000,Mayor Joe Quimby,Simpson Living Room,"Er, uh... that is not my baby."
+87592,339,24,134000,Baby,Simpson Living Room,"Er, ah, waaaaah!"
+87593,339,25,136000,Mayor Joe Quimby,Simpson Living Room,Raise this as your own.
+87595,339,27,141000,Marge Simpson,Simpson Home,This is the most exciting scandal since the Juice was on the loose.
+87596,339,28,146000,Lisa Simpson,Simpson Home,The Juice is still on the loose.
+87598,339,30,149000,Kent Brockman,Simpson Home,"Mr. Mayor, just how many illegitimate children are you hiding?"
+87599,339,31,152000,Mayor Joe Quimby,Simpson Home,"Kent, I'm hiding nothing -- except this puppy."
+87601,339,33,158000,Mayor Joe Quimby,Simpson Home,Look into his eyes and tell me I'm lying.
+87602,339,34,161000,Kent Brockman,Simpson Home,"Well, I'm placated - and so are all my friends in the local media!"
+87603,339,35,166000,CHLOE,Simpson Home,"I have a question. Chloe Talbot, Global News Network."
+87605,339,36,170000,Kent Brockman,Simpson Home,"Oh, it seems a big shot reporter from some major news outlet isn't satisfied."
+87606,339,37,175000,CHLOE,Simpson Home,"Well, if it isn't local news legend Kent Brockman. Hey Kent, run over any more pedestrians?"
+87607,339,38,181000,Kent Brockman,Simpson Home,Those records are sealed.
+87608,339,39,184000,Marge Simpson,Simpson Home,She's from Springfield! I knew her in high school.
+87609,339,40,187000,Bart Simpson,Simpson Home,I didn't think anyone successful came from Springfield.
+87610,339,41,190000,Homer Simpson,Simpson Home,What about that two-headed goat?
+87611,339,42,191000,Lisa Simpson,Simpson Home,Technically he was born in Shelbyville.
+87612,339,43,194000,Homer Simpson,Simpson Home,"Yes, but he came here to die."
+87613,339,44,197000,Homer Simpson,Simpson Home,"One of you ate tin cans, one of you ate health food. How you solved crimes I'll never know."
+87614,339,45,204000,CHLOE,Simpson Home,"Mr. Mayor, you claim to be faithful to your wife, but I have obtained this exclusive video tape."
+87616,339,47,212000,Mayor Joe Quimby,Simpson Home,"C'mon baby, read my sash."
+87617,339,48,215000,Miss Springfield,Simpson Home,You're the major?
+87618,339,49,217000,Mayor Joe Quimby,Simpson Home,"That's mayor, you fertile moron."
+87619,339,50,220000,CHLOE,Simpson Home,"Two things are certain -- the mayor is in deep trouble, and the local newsmen in this town are idiots."
+87620,339,51,226000,Kent Brockman,Simpson Home,"Channel Six News rocks! A car chase every night or the weathergirl wears a tube top. And if she doesn't, you win a pizza!"
+87621,339,52,236000,Marge Simpson,Simpson Home,Chloe sure turned out successful.
+87622,339,53,239000,Lisa Simpson,Simpson Home,"You're successful too, Mom. You made a chore wheel that's both fair and wise."
+87623,339,54,254000,Homer Simpson,Simpson Home,"Marge! I figured out a way we can get in on this Quimby lawsuit! Bart, go ahead."
+87624,339,55,258000,Bart Simpson,Simpson Home,"Mayah Quimby is my er ah, fathah. Give me one million dollahs!"
+87625,339,56,263000,Homer Simpson,Simpson Home,Huh? Huh?
+87628,339,59,266000,Crowd,Springfield Town Hall,"Diamond Joe, gotta go! Diamond Joe, gotta go!"
+87629,339,60,272000,CHLOE,Springfield Town Hall,"Mr. Mayor, will you answer one question?"
+87630,339,61,275000,Mayor Joe Quimby,Springfield Town Hall,Only if it's submitted in writing.
+87631,339,62,279000,Mayor Joe Quimby,Springfield Town Hall,Checkmate.
+87632,339,63,280000,CHLOE,Springfield Town Hall,Marge? Marge Simpson?
+87633,339,64,283000,Marge Simpson,Springfield Town Hall,"Chloe, hi!"
+87634,339,65,286000,CHLOE,Springfield Town Hall,"Marge, where are you living now?"
+87635,339,66,290000,Marge Simpson,Springfield Town Hall,Evergreen Terrace.
+87604,339,67,291000,CHLOE,Springfield Town Hall,Paris? Just like you always dreamed!
+87636,339,68,295000,Marge Simpson,Springfield Town Hall,"Terrace. Evergreen Terrace. The street that smells like pee. This is my daughter, Lisa."
+87637,339,69,302000,Lisa Simpson,Springfield Town Hall,"Chloe, I really admire how you got out of Springfield and became such a success."
+87638,339,70,307000,CHLOE,Springfield Town Hall,"Hey, only the lame-os stay. And your mother. Super lady."
+87639,339,71,313000,Marge Simpson,Springfield Town Hall,"Well, it is good to see you, Chloe. Would you like to come over for dinner tomorrow?"
+87640,339,72,318000,CHLOE,Springfield Town Hall,"Oh, I'd love to! I'm getting so sick of these greasy catered meals."
+87641,339,73,323000,Luigi,Springfield Town Hall,"You insult me, you insult Italy."
+87642,339,74,326000,Luigi,Springfield Town Hall,Which is shaped like a boot?! Who knew?
+87644,339,76,334000,CHLOE,Simpson Home,Homer Simpson.
+87645,339,77,335000,Homer Simpson,Simpson Home,I sawed you on the television.
+87646,339,78,339000,CHLOE,Simpson Home,I remember you from high school. You barfed in my tuba.
+87647,339,79,343000,Homer Simpson,Simpson Home,I believe it was the school's tuba.
+87649,339,81,350000,Homer Simpson,Simpson Dining Room,"Chloe, these kebabs you made are as good or better than anything I've ever had at this table."
+87650,339,82,355000,Marge Simpson,Simpson Dining Room,Homer.
+87651,339,83,357000,Homer Simpson,Simpson Dining Room,"Oh Marge, I'm just being polite."
+87653,339,85,363000,Grampa Simpson,Simpson Home,Hm... My back pain's completely cured.
+87654,339,86,368000,Grampa Simpson,Simpson Home,That was one too man.
+87655,339,87,371000,CHLOE,Simpson Home,I got the recipe for these in Istanbul.
+87656,339,88,374000,Homer Simpson,Simpson Home,More!
+87657,339,89,377000,CHLOE,Simpson Home,I was writing a story for Harper's Magazine.
+87658,339,90,379000,Lisa Simpson,Simpson Home,Harper's Magazine! I have a picture of Lewis Lapham on my binder.
+87659,339,91,385000,CHLOE,Simpson Home,"Oh, but I've been yapping about myself all night. Marge, what's exciting in your life lately?"
+87660,339,92,392000,Marge Simpson,Simpson Home,Well... Oh. We finally found out why the dog was scooting around on his butt all day. Turns out he had an impacted anal gland.
+87661,339,93,407000,Marge Simpson,Simpson Home,"The excitement never stops. Chloe, would you like to see slides of our trip to Athens... Boulevard Recreational Center?"
+87662,339,94,415000,CHLOE,Simpson Home,"I'd love to... Ooh, my show's on. Mind if I watch a little?"
+87663,339,95,419000,Marge Simpson,Simpson Home,I guess.
+87664,339,96,421000,Announcer,Simpson Home,"The Talbot Report with Chloe Talbot. Tonight, Chloe interviews Bob Dylan."
+87666,339,97,429000,CHLOE,Simpson Home,"So Bob, what religion are you converting to now?"
+87668,339,99,441000,Announcer,Simpson Home,Followed by Chloe's triumphant return to her depressing little hometown: Springfield.
+87669,339,100,447000,CHLOE,Simpson Home,"Hello, Ned. Hey, Comic Book Guy, Krusty the Clown... I thought he was dead."
+87670,339,101,453000,Krusty the Clown,Simpson Home,Yeah? I guess you ain't been to too many supermarket openings lately.
+87671,339,102,459000,Marge Simpson,Simpson Home,"You know, Chloe, some of us stayed in this town and made it a better place."
+87672,339,103,463000,Homer Simpson,Simpson Home,"Oh come on, Marge. The only reason we don't move out of this dunghill is because of my court-ordered ankle bracelet."
+87673,339,104,471000,Homer Simpson,Simpson Home,I'm here! I'm here! Quit buggin' me!
+87674,339,105,472000,Marge Simpson,Simpson Home,"Homer, why do you always have to show that to company?"
+87675,339,106,475000,Homer Simpson,Simpson Home,It's a conversation starter!
+87677,339,108,483000,CHLOE,Simpson Home,This is the dance the Chinese government makes dissidents perform before they shoot them.
+87679,339,110,496000,Marge Simpson,Simpson Home,"Homer, what are you doing?"
+87680,339,111,498000,Homer Simpson,Simpson Home,I swallowed a chicken bone.
+87681,339,112,504000,Lisa Simpson,Simpson Home,"Chloe, you've lived so many fascinating places."
+87682,339,113,507000,CHLOE,Simpson Home,"Yes, but down deep in my heart, I'll always be the girl who wanted to leave Springfield."
+87683,339,114,512000,Marge Simpson,Simpson Home,"Gee, with all that travel, you probably haven't had much time to find that special someone."
+87684,339,115,517000,CHLOE,Simpson Home,"Oh, I've had a few flings. Excuse me. But not all of us can be as lucky as you, Marge - Homer's a wonderful man."
+87686,339,117,531000,Marge Simpson,Simpson Home,Did you just swallow another bone?
+87687,339,118,533000,Homer Simpson,Simpson Home,Same one.
+87688,339,119,534000,Lisa Simpson,Simpson Home,Chloe is amazing -- even her serving bowl smells glamorous.
+87689,339,120,541000,Marge Simpson,Simpson Home,That's ridiculous. No one's bowl smells... it's like Christmas in Aspen.
+87690,339,121,551000,Lisa Simpson,Simpson Home,Did you know back in high school that she'd be such a star?
+87691,339,122,554000,Marge Simpson,Simpson Home,"Back then, we were both stars - in the thrill-a-minute world of high school journalism."
+87692,339,123,562000,Marge Simpson,Simpson Home,Together we broke the biggest story of the semester -- one of the cafeteria workers was spitting in the soup.
+87694,339,124,570000,Teenage Moe,Simpson Home,I'll teach you to give me my first job out of prison.
+87695,339,125,574000,Marge Simpson,Simpson Home,"When we published the story, we received the school's highest award."
+87697,339,127,580000,Principal Dondelinger,Springfield High School,"Ladies, it is my great pleasure to award you these certificates of merit. In this box marked ""honoree,"" fill in your names. And over here, write in what you did."
+87698,339,128,588000,Teenage Moe,Springfield High School,I'll be back. You ain't tasted the last of my spit.
+87699,339,129,593000,Lisa Simpson,Springfield High School,"Oh, that Moe. But good for you, Mom! Why didn't you follow Chloe into journalism?"
+87700,339,130,599000,Marge Simpson,Springfield High School,"Well, we both faced a tough decision...go off to journalism school, or stay in Springfield with our sweethearts?"
+148283,339,131,611000,Teenage Homer,Springfield High School,"Stay with me, Marge, and I promise we'll travel the world... and perhaps outer space."
+87701,339,132,630000,Teenage Barney,Springfield High School,"I love you, Chloe... and I love you too, brake fluid."
+87702,339,133,638000,Marge Simpson,Springfield High School,"Chloe left town as soon as Barney proposed. I would've followed her, but my plans changed when God brought me a wonderful little boy... Bart, stop that!"
+87703,339,134,650000,Bart Simpson,Springfield High School,This isn't what it looks like.
+87705,339,136,656000,Marge Simpson,Simpson Home,Why would Homer write his name in grime?
+87706,339,137,662000,Marge Simpson,Simpson Home,That's better.
+87707,339,138,665000,Lisa's Reflection,Simpson Home,"Mom, Chloe just won the Peabody Award!"
+87708,339,139,668000,Marge Simpson,Simpson Home,"Well, I just made the bathroom floor smell like lemons. Where's the award for that?"
+87709,339,140,674000,Lisa Simpson,Simpson Home,"Oh, Mom, don't feel bad. Everybody appreciates your... uh-oh, I'm late for my dinner... with Chloe!"
+87710,339,141,686000,Homer Simpson,Simpson Home,"Good news, Marge!"
+87711,339,142,687000,Homer Simpson,Simpson Home,I've learned to walk naked on stilts!
+87715,339,146,697000,Lisa Simpson,Springfield Press Club,"There's ""Dan Rather"" and ""Tom Brokaw"", hanging out with Kent Brockman!"
+87716,339,147,701000,Tom Brokaw,Springfield Press Club,"You want your mic back, local anchor?"
+87717,339,148,703000,Kent Brockman,Springfield Press Club,This just in - I'm pissed off!
+87718,339,149,706000,CHLOE,Springfield Press Club,"Hi, fellas!"
+87719,339,150,707000,Tom Brokaw,Springfield Press Club,"Chloe, wanna feel my muscle?"
+87722,339,152,710000,Marge Simpson,Simpson Home,Chloe has such an amazing life. I wonder what would have happened if I'd stuck with journalism.
+87723,339,153,719000,Homer Simpson,Simpson Home,"Oh Honey, her life can't compare to yours. You've got three kids, a TV tray from Expo sixty-seven, and you're married to King Stink!"
+87724,339,154,728000,Marge Simpson,Simpson Home,"Yeah, I guess."
+87725,339,155,730000,Homer Simpson,Simpson Home,"Marge, listen to me. Chloe may have a flashy job, but you're the backbone of this family. You're like the electrical tape that holds the two halves of my car together."
+87726,339,156,738000,Marge Simpson,Simpson Home,"That's a sweet thought, Homie."
+87727,339,157,741000,Homer Simpson,Simpson Home,"I just hate to see you upset, honey. You know what would be a good name for Maggie? Chloe."
+87730,339,160,750000,Lisa Simpson,Chloe's Car,That was such an exciting night. Morley Safer has the biggest head I've ever seen.
+87731,339,161,757000,CHLOE,Chloe's Car,I really had fun.
+87732,339,162,758000,Lisa Simpson,Chloe's Car,It's gonna be a let-down going to school tomorrow. We have to make a pilgrim out of felt.
+87733,339,163,765000,CHLOE,Chloe's Car,"Hey, I'm covering the U.N. Women's Conference in Capital City tomorrow. You want to come with me?"
+87734,339,164,771000,Lisa Simpson,Chloe's Car,Oh! That'd be wonderful! Oh I'd -- I'd have to ask my Mom.
+87735,339,165,776000,CHLOE,Chloe's Car,Well you can ask her right now. She's glaring at us from the front lawn.
+87736,339,166,782000,CHLOE,Chloe's Car,"Marge, it's my fault we're a little late."
+87737,339,167,784000,Marge Simpson,Chloe's Car,How dare you show my daughter a life of fun and possibility?
+87738,339,168,788000,CHLOE,Chloe's Car,Hey! Keep your dishwashing hands off the Armani!
+87739,339,169,792000,Marge Simpson,Chloe's Car,"For your information, our electric dishwasher is on the fritz."
+87740,339,170,798000,Marge Simpson,Chloe's Car,"Not that you care about the ups and downs of my appliances. Do ya? Huh, do ya?"
+87741,339,171,804000,CHLOE,Chloe's Car,"Ohh, that's it! I'm going to show you some moves I learned from G. Gordon Liddy!"
+87742,339,172,808000,Marge Simpson,Chloe's Car,I'm so sick of names!
+87745,339,175,818000,Homer Simpson,Chloe's Car,Ladies! There's no need to fight over me.
+87746,339,176,823000,Marge Simpson,Chloe's Car,No one's fighting over you!
+87747,339,177,825000,Homer Simpson,Chloe's Car,"Oh. Well then, carry on."
+87748,339,178,828000,CHLOE,Chloe's Car,You don't know when to quit.
+87750,339,180,837000,Marge Simpson,Simpson Home,SHINER BE GONE.
+87751,339,182,858000,Marge Simpson,Lisa's Bedroom,"Lisa, let me explain what happened tonight. Sometimes when your Mom has half a glass of wine, she goes cuckoo bananas."
+87752,339,183,867000,Lisa Simpson,Lisa's Bedroom,Hmmm. So... is it okay if I go to the women's conference with Chloe?
+87753,339,184,872000,Marge Simpson,Lisa's Bedroom,Let me think about it. No.
+87756,339,187,888000,Lisa Simpson,Simpson Home,"I've never disobeyed Mom before. Is this a step I'm really willing to take? I don't know. The more I think about it, the..."
+87757,339,188,897000,Bart Simpson,Simpson Home,Thinking is for losers!
+87758,339,189,899000,Lisa Simpson,Simpson Home,Bart! Thanks for helping me make up my mind.
+87759,339,190,902000,Bart Simpson,Simpson Home,Thanks for cushioning my fall.
+87760,339,191,904000,Lisa Simpson,Simpson Home,I didn't cushion your...
+87762,339,193,908000,Tom Brokaw,Springfield Four Seasons,Chloe! I saw your report on Kuala Lumpur. Truly hard-hitting.
+87763,339,194,913000,CHLOE,Springfield Four Seasons,"Thanks, Tom. I really appreciate that."
+87764,339,195,916000,Tom Brokaw,Springfield Four Seasons,"So, uh... you know I was wondering..."
+87765,339,196,918000,CHLOE,Springfield Four Seasons,Yes?
+87766,339,197,920000,Tom Brokaw,Springfield Four Seasons,"Uh, would you like to come to my celebrity racquetball tournament?"
+87767,339,198,923000,CHLOE,Springfield Four Seasons,I'll have to check my schedule.
+87769,339,200,927000,Tom Brokaw,Springfield Four Seasons,I'll give you a first-round bye.
+87770,339,201,929000,CHLOE,Springfield Four Seasons,"Gotta go, Tom. I'll think about it."
+87772,339,203,934000,Marge Simpson,Simpson Home,"Lisa -- breakfast! I know you're mad at me, but I hope you're not mad at Cap'n Crunch..."
+87774,339,205,947000,Marge Simpson,Simpson Living Room,"Homer, we've gotta get Lisa!"
+87775,339,206,949000,Homer Simpson,Simpson Living Room,"All right. But while I'm gone, boy, you think about what you did."
+87776,339,207,953000,Bart Simpson,Simpson Living Room,What did I do?
+87777,339,208,955000,Homer Simpson,Simpson Living Room,You uh...
+87778,339,209,957000,Homer Simpson,Simpson Living Room,"Why you little... need a reason for strangling, do ya... I'll fix your wagon!"
+87780,339,211,967000,CHLOE,Highway Outside Capital City,Hello.
+87781,339,212,969000,Producer,Highway Outside Capital City,Chloe! Forget about the women's conference! I need you to get over to Mount Springfield -- it's about to erupt!
+87782,339,213,974000,CHLOE,Highway Outside Capital City,Don't we have a reporter who specializes in natural disasters?
+87783,339,214,977000,Producer,Highway Outside Capital City,"Yeah, he's busy covering Julia Roberts' last haircut. But seriously, he's dead. Now get going!"
+87785,339,216,993000,Hard-bitten Man,Base Of The Springfield Volcano Site,"Hey there! My name's Chet, I'm your cameraman for this here 'cano story. Let's see, I've been to Afghanistan, Serbia, Lebanon..."
+87786,339,217,1005000,Hard-bitten Man,Base Of The Springfield Volcano Site,"Okay, okay I lied. I-I shoot wedding videos in Dallas-Ft. Worth."
+87787,339,218,1010000,Hard-bitten Man,Base Of The Springfield Volcano Site,"Okay, okay! Just Ft. Worth!"
+87788,339,219,1014000,Lisa Simpson,Base Of The Springfield Volcano Site,"Hello, U. N. Women's Conference!"
+87789,339,220,1017000,Lisa Simpson,Base Of The Springfield Volcano Site,Wha--?!
+87790,339,221,1029000,Lisa Simpson,Base Of The Springfield Volcano Site,We're trapped!
+87791,339,222,1030000,CHLOE,Base Of The Springfield Volcano Site,"Lisa, we may not make it, but at least we can go out as the great journalists we are."
+87792,339,223,1035000,Lisa Simpson,Base Of The Springfield Volcano Site,I'm not a journalist.
+87793,339,224,1037000,CHLOE,Base Of The Springfield Volcano Site,You are now.
+87794,339,225,1038000,CHLOE,Base Of The Springfield Volcano Site,"Remember to keep my boobs in the shot. And we're on in five, four, three..."
+87797,339,228,1047000,Marge Simpson,WOMEN'S CONFERENCE,I don't see Lisa in any of the seminars!
+87798,339,229,1050000,Homer Simpson,WOMEN'S CONFERENCE,And I'm growing ashamed of my penis.
+87799,339,230,1053000,Marge Simpson,WOMEN'S CONFERENCE,"Homer, look!"
+87800,339,231,1054000,CHLOE,WOMEN'S CONFERENCE,"I'm here at the long-dormant Springfield Volcano, which is now spewing noxious debris into the air."
+87801,339,232,1060000,Conf. Delegate,WOMEN'S CONFERENCE,How male.
+87803,339,234,1063000,CHLOE,WOMEN'S CONFERENCE,"With me is my eight-year-old cameragirl, Lisa Simpson."
+87804,339,235,1067000,Marge Simpson,WOMEN'S CONFERENCE,She's taken my daughter to an erupting volcano? That's it! She is off the Christmas card list.
+87805,339,236,1075000,Homer Simpson,WOMEN'S CONFERENCE,"Marge, that's crazy talk. Now look, I'll save Lisa. Your place is here with the women."
+87806,339,237,1079000,Women,WOMEN'S CONFERENCE,Booo!
+87807,339,238,1081000,Homer Simpson,WOMEN'S CONFERENCE,"Okay, you go save Lisa. I'll stay here with the women."
+87808,339,239,1084000,Women,WOMEN'S CONFERENCE,Booo!
+87809,339,240,1085000,Homer Simpson,WOMEN'S CONFERENCE,What do women want?!
+87810,339,241,1089000,Marge Simpson,WOMEN'S CONFERENCE,We've gotta go now!
+87811,339,242,1091000,Homer Simpson,WOMEN'S CONFERENCE,"Okay. I'll run as fast as I can, but I'm full of potato salad."
+87814,339,244,1100000,Chief Wiggum,SPRINGFIELD VOLCANO,"I'm sorry, folks. You're not allowed to go up there. In fact, I don't even know why I'm here. This lava's not a criminal. It hasn't hurt anybody."
+87816,339,246,1112000,Chief Wiggum,SPRINGFIELD VOLCANO,Anybody I know.
+87817,339,247,1114000,Homer Simpson,SPRINGFIELD VOLCANO,"Chief, my daughter's up there. You're a father too."
+87818,339,248,1117000,Chief Wiggum,SPRINGFIELD VOLCANO,"Yeah, but I'm a cop first... then a boat enthusiast... amateur historian... yo-yo dieter... then I'm a cop again..."
+87819,339,249,1124000,Lisa Simpson,SPRINGFIELD VOLCANO,Help... Help... So much sulfur dioxide!
+87820,339,250,1129000,Marge Simpson,SPRINGFIELD VOLCANO,"I'm coming, sweetheart!"
+87822,339,252,1138000,Marge Simpson,BASE OF THE VOLCANO,"I'll save you, Lisa! Whoa."
+87823,339,253,1146000,Lisa Simpson,BASE OF THE VOLCANO,"Be careful, Mom! There's hot lava under the ground!"
+87824,339,254,1150000,CHLOE,BASE OF THE VOLCANO,"Actually, when it's underground, lava is called magma."
+87825,339,255,1155000,Lisa Simpson,BASE OF THE VOLCANO,"You're so smart, Chloe!"
+87826,339,256,1157000,CHLOE,BASE OF THE VOLCANO,Walter Cronkite told me the same thing.
+87827,339,257,1160000,Marge Simpson,BASE OF THE VOLCANO,Shut up!
+87828,339,258,1175000,Lisa Simpson,BASE OF THE VOLCANO,"Mom, that was incredible!"
+87829,339,259,1177000,Marge Simpson,BASE OF THE VOLCANO,Nothing's more powerful than a mother's love.
+87830,339,260,1181000,Lisa Simpson,BASE OF THE VOLCANO,"Mom, your hair."
+87831,339,261,1182000,Marge Simpson,BASE OF THE VOLCANO,Don't worry. We've got two hours before it burns down to my head.
+87832,339,262,1186000,CHLOE,BASE OF THE VOLCANO,Our top story tonight... I'm about to die!
+87834,339,264,1195000,CHLOE,Barney's Helicopter,Barney -- you saved my life.
+87835,339,265,1198000,Barney Gumble,Barney's Helicopter,"Chloe, when you left me I was devastated. But I sobered up long enough to become a pilot. And with you beside me, I think I could make it work."
+87836,339,266,1208000,CHLOE,Barney's Helicopter,How 'bout a half hour of pity sex?
+87837,339,267,1210000,Barney Gumble,Barney's Helicopter,Is there any other kind?
+87840,339,270,1220000,Kent Brockman,Simpson Home,"In the wake of the devastating eruption, one Springfielder proved herself a hero: Marge Simpson. She's won herself a free hero... sandwich at Springfield Sub Shops."
+87841,339,271,1231000,Squeaky-Voiced Teen,Simpson Home,Extra charge for warm-ups!
+87842,339,272,1232000,Bart Simpson,Simpson Home,"Mom, I wanna be just like you. I mean the lava part, not saving Lisa."
+87843,339,273,1237000,Homer Simpson,Simpson Home,Pretend to care!
+87844,339,274,1240000,Marge Simpson,Simpson Home,"Well, looking at you kids, I know I made the right choice in life."
+87813,339,275,1245000,Lisa Simpson,Simpson Home,"I'm sure you did. But still, don't you ever wonder what might have happened if things had gone differently?"
+87154,339,276,1251000,Marge Simpson,Simpson Home,Well...
+87845,339,277,1253000,Marge Simpson,Simpson Home,"This is Marge Simpson, reporting from Lake Placid where the miracle on ice never happened."
+87846,339,278,1261000,Marge Simpson,Simpson Home,Nooooo!
+87847,339,279,1272000,CHLOE,Simpson Home,"Lisa, what are you doing in there?"
+87848,339,280,1274000,Lisa Simpson,Simpson Home,"Praying to Buddha, Jesus, Sponge Bob. There's no time to be picky."
+87849,339,281,1279000,Buddha,Simpson Home,Perhaps we should help.
+87850,339,282,1281000,SPONGE BOB,Simpson Home,Screw her!

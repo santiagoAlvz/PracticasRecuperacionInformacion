@@ -1,0 +1,253 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+7450,57,1,83000,Bart Simpson,Simpson Home,"Hey Homer, let's book! I want to get there in time to whip eggs at the warm-up act."
+7451,57,2,87000,Homer Simpson,Simpson Home,"Wow, my concert going jacket still fits. And this is where I used to hide my beer."
+7452,57,3,95000,Homer Simpson,Simpson Home,Billy Beer!
+7453,57,4,99000,Marge Simpson,Simpson Home,My little guy's first rock concert. I hope the Spinal Taps don't play too loud.
+7454,57,5,105000,Homer Simpson,Simpson Home,"Oh Marge, I went to thousands of heavy metal concerts and it never hurt me."
+7455,57,6,118000,Marge Simpson,Simpson Home,"Hmmm, well, all right, but make sure they don't pick up any of the band's attitudes towards women... liquor... religion... politics... really anything."
+7456,57,7,119000,Homer Simpson,Simpson Home,I hear ya. Come on boy.
+7457,57,8,120000,Selma Bouvier,Simpson Home,There goes Davy Crocket in his bald skin cap.
+7460,57,11,127000,Bill,Simpson Car,"In other Spinal Tap news, Mayor Quimby honored the aging super group in a ceremony at City Hall."
+7461,57,12,133000,Marty,Simpson Car,"I guess you could say he was trying to tap into the spines of the young voters, huh?"
+7462,57,13,136000,Bill,Simpson Car,... Yeah... Let's play the tape.
+7463,57,14,142000,Bart Simpson,Simpson Car,"Hey Milhouse, cool jacket!"
+7464,57,15,145000,Milhouse Van Houten,Simpson Car,"It cost me 50,000 Bazooka Joe Comics."
+7466,57,17,151000,Homer Simpson,Springfield Coliseum,"Now, just meet me back here after the show."
+7467,57,18,153000,Bart Simpson,Springfield Coliseum,"Thanks, Dad. Sure you're not gonna be bored?"
+7468,57,19,155000,Homer Simpson,Springfield Coliseum,"Boy, some of the best times I've ever had were in the back seat of a car."
+7471,57,22,165000,Homer Simpson,Homer's Car,"Oh, Baby!"
+7472,57,23,174000,T-shirt Guy,Homer's Car,"Official ""Tour '92"" T-shirts, thirty-one dollars."
+7474,57,24,177000,Comic Book Guy,Homer's Car,"Check it out. Spinal Tap kicking Mo-mar Kadaffy in the butt. The timeless classic, now two for a dollar."
+7476,57,26,183000,Marty,COLISEUM,"Hey hey hey, Bill and Marty here."
+7477,57,27,185000,Bill,COLISEUM,And we're backstage rappin' with the Tap.
+7478,57,28,187000,Marty,COLISEUM,"Fellows, I'm gonna hit you with a phrase that has dogged you throughout your career: washed-up."
+7479,57,29,191000,Bill,COLISEUM,Yet here you are among the top one hundred and five concert acts today. What's your secret guys?
+7480,57,30,198000,David,COLISEUM,"Well, after the Berlin Wall fell, our records started selling on the dismal side of the Iron Curtain, and naturally that gave us a boost."
+7481,57,31,205000,Nigel Bakerbutcher,COLISEUM,"We're very big in Bulgaria, and wassisname, the other garia."
+7482,57,32,208000,David,COLISEUM,Hungaria.
+7483,57,33,208000,Nigel Bakerbutcher,COLISEUM,"Yeah, whoever."
+7484,57,34,210000,DEREK,COLISEUM,I can't think of anyone who's benefited more from the death of Communism than us.
+7485,57,35,214000,Nigel Bakerbutcher,COLISEUM,"Oh, maybe the people who actually live in the Communist countries."
+7486,57,36,216000,DEREK,COLISEUM,"Oh yeah, hadn't thought of that. I bet you're right."
+7487,57,37,219000,Nigel Bakerbutcher,COLISEUM,"Yeah, on the other hand, each of us just bought out own soccer team. How many Hungarias can say that, eh?"
+7488,57,38,224000,Roadie,COLISEUM,Test... test...
+7489,57,39,229000,Bart Simpson,COLISEUM,"Gee, I'm sorry, man."
+7490,57,40,231000,Stoned Guy,COLISEUM,Huh?
+7491,57,41,232000,Bart Simpson,COLISEUM,About the frisbee.
+7492,57,42,234000,Stoned Guy,COLISEUM,Frisbee?
+7493,57,43,235000,Bill,COLISEUM,"Say guys, I wonder if you'd mind recording a couple of promos for us."
+7494,57,44,238000,Nigel Bakerbutcher,COLISEUM,"Well, like what?"
+7495,57,45,239000,Marty,COLISEUM,"Maybe you could say, ""Nobody rocks like Bill and Marty on KBBL."""
+7496,57,46,239000,David,COLISEUM,"Well, we don't know that, do we?"
+7497,57,47,245000,Nigel Bakerbutcher,COLISEUM,What if somebody rocks as good as you?
+7498,57,48,246000,DEREK,COLISEUM,"Or better. I mean, we don't want to look stupid."
+7499,57,49,250000,Bill,COLISEUM,"Okay, we can respect that."
+7500,57,50,251000,Marty,COLISEUM,"How about ""Rock-a-doodle-do, you're listening to Bill and Marty."""
+7501,57,51,254000,David,COLISEUM,"Yeah, sure."
+7502,57,52,254000,Nigel Bakerbutcher,COLISEUM,That's good... yeah.
+7504,57,54,256000,Crowd,CONCERT ARENA,Tap! Tap! Tap! Tap! Tap! Tap!
+7505,57,55,258000,David,CONCERT ARENA,"I just looked out, and there's puddles of water all over the freakin' stage!"
+7473,57,56,262000,Promoter,CONCERT ARENA,"Uh, yeah, I don't wanna lie to you boys. Six days a week, the place is a hockey rink."
+7507,57,57,267000,David,CONCERT ARENA,"Yeah, well this is a rock concert, not the bleedin' ...Splish Splash show!"
+7509,57,59,272000,Announcer,Arena,"Ladies and gentlemen, boys and girls. Duff Beer, in association with Laramie Cigarettes, is proud to welcome... SPINAL TAP!"
+7510,57,60,282000,David,Arena,WE ARE THE CHILDREN WHO GREW TOO FAST...
+7511,57,61,291000,DAVID/NIGEL,Arena,WE ARE THE DUST OF THE FUTURE PAST...
+7512,57,62,301000,DAVID/NIGEL/DEREK,Arena,WE RAISE OUR VOICES IN THE NIGHT/ CRYING TO HEAVEN...
+7513,57,63,312000,David,Arena,AND WILL OUR VOICES BE HEARD/ OR WILL THEY BREAK LIKE THE WIND!
+7514,57,64,321000,David,Arena,Medium setting!
+7517,57,67,344000,Nigel Bakerbutcher,COLISEUM,Thank you!
+7518,57,68,351000,David,COLISEUM,All riiiight! This morning we were driving down... Route 401...
+7519,57,69,359000,Bart Simpson,COLISEUM,That's only four miles from my house!
+7520,57,70,362000,Nigel Bakerbutcher,COLISEUM,And we thought they knew how to rock in Shelbyville...
+7521,57,71,366000,DEREK,COLISEUM,But nobody rocks like...Springfield!
+7522,57,72,386000,Nigel Bakerbutcher,COLISEUM,"Well, it seems some silly twit did not get a big enough oxygen pump, but that's supposed to be a devil."
+7523,57,73,393000,David,COLISEUM,"Filled up with air, it's very evil and impressive."
+7524,57,74,396000,DEREK,COLISEUM,"We salute you, our half-inflated Dark Lord."
+7525,57,75,401000,DEREK,COLISEUM,"Y'know, people think there are only five members of Spinal Tap, but they're wrong."
+7526,57,76,419000,David,COLISEUM,"Could we turn up the house lights please? That was the cue to turn up the house lights, so we can tell the audience they're the sixth member of the freakin' group."
+7527,57,77,426000,Nigel Bakerbutcher,COLISEUM,"We are trying to put a tiny thrill into their gray little lives. Oh, forget it, turn on the lasers."
+7528,57,78,435000,Nigel Bakerbutcher,COLISEUM,Aagh! My vision!
+7529,57,79,436000,Nigel Bakerbutcher,COLISEUM,That's it. Show's over.
+7530,57,80,439000,David,COLISEUM,"Goodnight, Springton. There will be no encores."
+7531,57,81,446000,Milhouse Van Houten,COLISEUM,They were only on for twenty minutes!
+7532,57,82,449000,Bart Simpson,COLISEUM,What a gyp!
+7533,57,83,451000,Otto Mann,COLISEUM,"Gnarly show, man."
+7534,57,84,453000,Snake Jailbird,COLISEUM,Wanna trash the stage?
+7535,57,85,455000,Otto Mann,COLISEUM,Okay.
+7540,57,87,458000,Homer Simpson,Simpson Car,THERE WAS A LITTLE SPANISH FLEA... A RECORD STAR HE THOUGHT HE'D BE... HE HEARD OF SINGERS LIKE BEATLES... THE CHIPMUNKS HE'D SEEN ON TV... WHY NOT A LITTLE SPANISH FLEA? AND SO HE HID... INSIDE A DOG...
+7543,57,90,475000,Kent Brockman,Simpson Living Room,"Tonight a city weeps as, for the first time ever, a hockey arena becomes a scene of violence --following a concert by Spinal Tap."
+7544,57,91,484000,Marge Simpson,Simpson Living Room,"Hmmm, I hope my poor little baby's okay."
+7545,57,92,486000,Lisa Simpson,Simpson Living Room,See for yourself.
+7547,57,94,492000,Kent Brockman,Simpson Living Room,"Of course, it would be wrong to suggest that this sort of mayhem began with rock and roll. After all, there were riots at the premiere of Mozart's ""The Magic Flute"". So what's the answer? Ban all music? In this reporter's opinion the answer, sadly, is yes."
+7548,57,95,506000,Bart Simpson,Simpson Living Room,"Hi, Mom."
+7549,57,96,507000,Marge Simpson,Simpson Living Room,"Oh, oh... thank God!"
+7550,57,97,510000,Bart Simpson,Simpson Living Room,"Mom, I want to be a rock star."
+7551,57,98,512000,Marge Simpson,Simpson Living Room,We'll discuss it later. Is Milhouse okay?
+7552,57,99,518000,Homer Simpson,Simpson Living Room,I'll be right back.
+7554,57,101,522000,Milhouse Van Houten,CONCERT ARENA,Help! Help!
+7556,57,103,532000,Marge Simpson,Simpson Home,"Homer, I've been thinking about what Bart said. If he's really interested in being a musician, maybe we should BUY him A GUITAR."
+7557,57,104,539000,Homer Simpson,Simpson Home,"Well, that's a waste of money. We already have a guitar."
+7558,57,105,545000,Marge Simpson,Simpson Home,I meant a real guitar.
+7559,57,106,547000,Homer Simpson,Simpson Home,This is real.
+7560,57,107,550000,Bart Simpson,Simpson Home,Wow!
+7561,57,108,553000,Marge Simpson,Simpson Home,And it came with a free instruction book.
+7562,57,109,555000,Homer Simpson,Simpson Home,"Now boy, we spent a lot of money. So you better get real good real fast or pow!"
+7563,57,110,560000,Marge Simpson,Simpson Home,Homer!
+7564,57,111,561000,Homer Simpson,Simpson Home,"Hey, I thought I was supposed to encourage him."
+7565,57,112,566000,Bart Simpson,Simpson Home,"I'd like to play me latest chart-topper. It's called ""Me Fans Are Stupid Pigs."""
+7568,57,115,569000,Manager,Hotel,"Bart, you've got to go on."
+7569,57,116,578000,Bart Simpson,Hotel,Slag off!
+7570,57,117,579000,Milhouse Van Houten,Hotel,"You've changed, man. You used to be about the music."
+7506,57,118,584000,Bart Simpson,Hotel,I said slag off!
+7537,57,119,589000,Bart Simpson,Hotel,Cool.
+7539,57,121,596000,Bart Simpson,Simpson Home,Knock it off.
+7155,57,122,598000,Lisa Simpson,Simpson Home,I'm sorry?
+7245,57,123,604000,Bart Simpson,Simpson Home,Knock it off.
+7571,57,124,606000,Lisa Simpson,Simpson Home,I'se just jammin' with you.
+7573,57,126,611000,Nelson Muntz,EXT. SCHOOL BUS STOP,"Hey, Simpson, what are you trying to play?"
+7574,57,127,614000,Bart Simpson,EXT. SCHOOL BUS STOP,Polly Wolly Doodle.
+7575,57,128,614000,Nelson Muntz,EXT. SCHOOL BUS STOP,"Oh yeah, well it sounds Polly Wolly Crappy. Haw haw! Burn."
+7576,57,129,623000,Otto Mann,EXT. SCHOOL BUS STOP,"Hey, cherry axe, Bart-dude."
+7577,57,130,625000,Bart Simpson,EXT. SCHOOL BUS STOP,I think it's broken.
+7578,57,131,627000,Otto Mann,EXT. SCHOOL BUS STOP,"Oh, really? Give it here."
+7579,57,132,641000,Bart Simpson,EXT. SCHOOL BUS STOP,"I didn't know you played the guitar, Otto-man!"
+7580,57,133,645000,Otto Mann,EXT. SCHOOL BUS STOP,"Hey, that's all I did in high school. My old man said I was wasting my time and I'd never amount to anything."
+7581,57,134,655000,Otto Mann,EXT. SCHOOL BUS STOP,Now I'd like to slow things down a little bit...
+7582,57,135,658000,Otto Mann,EXT. SCHOOL BUS STOP,IF I LEAVE HERE TOMORROW... WOULD YOU STILL REMEMBER ME?
+7584,57,137,669000,Otto Mann,Bus,...CANNOT CHAEAEAEANGE... WAOWAOWAOWAOW...
+7585,57,138,673000,Martin Prince,Bus,"Although I'm sure I will receive a severe wedgie from my bus mates, I must remind you we should have been at school ten minutes ago."
+7586,57,139,673000,Martin Prince,Bus,Whoooa!
+7587,57,140,681000,Otto Mann,Bus,"Uh oh. Better fasten your seatbelts, little dudes."
+7588,57,141,684000,Lisa Simpson,Bus,We don't have seatbelts.
+7589,57,142,685000,Otto Mann,Bus,"Huh... well then, just try to go limp."
+7590,57,143,690000,Otto Mann,Bus,Better take a shortcut.
+7594,57,147,698000,David,Spinal Tap Tour Bus,Good show last night.
+7595,57,148,699000,Nigel Bakerbutcher,Spinal Tap Tour Bus,"Yeah, quite good."
+7598,57,151,711000,Chief Wiggum,CITY PARK,Good Lord! Did anyone get the license number?
+7601,57,154,714000,Seymour Skinner,Skinner's Office,"Oh, it's a miracle no one was hurt."
+7602,57,155,730000,Otto Mann,Skinner's Office,I stand on my record. Fifteen crashes and not a single fatality.
+7603,57,156,734000,Lou,Skinner's Office,"Let's see your license, pal."
+7604,57,157,736000,Otto Mann,Skinner's Office,"No can do. Never got one. But if you need proof of my identity, I wrote my name on my underwear."
+7605,57,158,742000,Otto Mann,Skinner's Office,"Oh, wait, these aren't mine."
+7607,57,159,744000,Seymour Skinner,Skinner's Office,"Well, that tears it. Until you get a license and wear your own underwear, mister, you are suspended without pay."
+7608,57,160,750000,Otto Mann,Skinner's Office,Who's gonna drive the bus?
+7609,57,161,751000,Seymour Skinner,Skinner's Office,I drove an all-terrain vehicle in Da Nang. I think I can handle it.
+7611,57,163,757000,Bart Simpson,School Bus,Where's Otto?
+7612,57,164,759000,Seymour Skinner,School Bus,Otto. That's one palindrome you won't be hearing for awhile.
+7614,57,166,765000,Seymour Skinner,School Bus,Off we go!
+7615,57,167,766000,Kids,School Bus,"HAIL TO THE BUS DRIVER, BUS DRIVER, BUS DRIVER / HAIL TO THE BUS DRIVER, BUS DRIVER MAN."
+7616,57,168,773000,Seymour Skinner,School Bus,"HE DRINKS AND HE CUSSES / HE STINKS UP THE BUSSES/HAIL TO THE BUS DRIVER, BUS DRIVER MAN! HA HA!"
+7617,57,169,784000,Seymour Skinner,School Bus,Dum de dum... There's an opening. Too late!... Nope... Nope... That'd be cutting it a little close.
+7618,57,170,791000,Lisa Simpson,School Bus,"I think you have to be more aggressive, sir."
+7619,57,171,793000,Seymour Skinner,School Bus,Nonsense. One of our good citizens will slow down and wave me in.
+7622,57,174,809000,Selma Bouvier,Department of Motor Vehicles,What's so funny?
+7623,57,175,810000,Patty Bouvier,Department of Motor Vehicles,I was just thinking about the time Homer got his nose caught in the toaster.
+7624,57,176,814000,Selma Bouvier,Department of Motor Vehicles,"We'll watch the tape tonight. Oh look, you've got someone at your window."
+7625,57,177,818000,Otto Mann,Department of Motor Vehicles,Dododo do do do.
+7626,57,178,818000,Patty Bouvier,Department of Motor Vehicles,"My name's Patty. I'll be testing you. When you do good, I use the green pen. When you do bad, I use the red pen. Any questions?"
+7627,57,179,827000,Otto Mann,Department of Motor Vehicles,"Yeah, one. Have you always been a chick? I mean, I don't want to offend you but you were born a man, weren't you? You can tell me, I'm open-minded."
+7628,57,180,836000,Patty Bouvier,Department of Motor Vehicles,I won't be needing this.
+7630,57,182,847000,Otto Mann,SERPENTINE COURSE,"All right! Yeah!... So, how'd I do?"
+7631,57,183,851000,Patty Bouvier,SERPENTINE COURSE,"Well, you failed every segment and misspelled ""bus"" on your application."
+7632,57,184,856000,Otto Mann,SERPENTINE COURSE,Drag.
+7634,57,186,858000,Seymour Skinner,Springfield Elementary School Parking Lot,Let me in! Let me in!
+7635,57,187,860000,Ralph Wiggum,Springfield Elementary School Parking Lot,"HE STEPS ON THE CLUTCH, AND THE TOILET GOES FLUSH / HAIL TO THE--"
+7356,57,188,865000,Seymour Skinner,Springfield Elementary School Parking Lot,SHUDDUP!
+7636,57,190,875000,Otto Mann,Apartment Building,"Hey Landlord, some clown changed my locks, padlocked the door and put up an eviction notice."
+7637,57,191,881000,Landlord,Apartment Building,"Yeah, that was me."
+7638,57,192,883000,Otto Mann,Apartment Building,You! But... but why?
+7639,57,193,886000,Landlord,Apartment Building,Because you haven't paid your rent.
+7640,57,194,888000,Otto Mann,Apartment Building,"Well, can I at least get my stuff?"
+7641,57,195,890000,Landlord,Apartment Building,All I found in there was a jar of mustard and a couple of old cycle magazines.
+7642,57,196,895000,Otto Mann,Apartment Building,"Wow, I had mustard?"
+7644,57,198,897000,Bart Simpson,Kwik-E-Mart,"Rough day, Apu. Pump me a Squishee and don't spare the syrup."
+7645,57,199,901000,Apu Nahasapeemapetilon,Kwik-E-Mart,Perhaps you'd like to try an experimental flavor of my own concoction. A delicious Chutney-Squishee.
+7646,57,200,907000,Bart Simpson,Kwik-E-Mart,Uh... okay.
+7647,57,201,911000,Apu Nahasapeemapetilon,Kwik-E-Mart,You can really taste the chutney.
+7648,57,202,918000,Bart Simpson,Kwik-E-Mart,Uggh...
+7649,57,203,918000,Otto Mann,Kwik-E-Mart,Ow!
+7650,57,204,919000,Bart Simpson,Kwik-E-Mart,Otto-man?
+7651,57,205,920000,Bart Simpson,Kwik-E-Mart,You're living in a dumpster?
+7652,57,206,922000,Otto Mann,Kwik-E-Mart,"Oh, man, I wish. ""Dumpster"" brand trash bins are top of the line. This is just a ""Trash-Co"" waste disposal unit."
+7653,57,207,930000,Bart Simpson,Kwik-E-Mart,"Otto, why don't you come home with me? You can stay in our garage."
+7654,57,208,934000,Otto Mann,Kwik-E-Mart,"A garage?! Oh, somebody up there likes me."
+7658,57,212,952000,Otto Mann,Simpson Garage,"I FEEL LIKE ROCKIN' SO I THINK I WILL / I'LL ROCK IT, ROCK IT, ROCK IT 'TIL I GET MY FILL... YEAH!"
+7659,57,213,964000,Otto Mann,Simpson Garage,Ooh! Hey.
+7660,57,214,969000,Marge Simpson,Simpson Garage,"Bart, what's going on?"
+7661,57,215,971000,Bart Simpson,Simpson Garage,"Mom, I thought you might forget our little conversation this afternoon, so I took the precaution of recording it."
+7662,57,216,977000,Marge Simpson,Simpson Garage,What conversation?
+7663,57,217,978000,Bart Simpson,Simpson Garage,"Mom, can Otto live in our garage for as long as he wants? He sure can!"
+7664,57,218,983000,Homer Simpson,Simpson Garage,"Marge, what were you thinking?"
+7665,57,219,985000,Marge Simpson,Simpson Garage,That's not my voice!
+7666,57,220,987000,Homer Simpson,Simpson Garage,"Oh, everybody says that when they hear themselves on tape."
+7668,57,222,990000,Marge Simpson,Simpson Home,I don't understand this. Why can't you stay with your parents?
+7669,57,223,995000,Otto Mann,Simpson Home,The admiral and I don't get along. Please let me stay here. I've got nowhere else to go.
+7670,57,224,1001000,Homer Simpson,Simpson Home,Forget it. That line didn't work for my dad and it's not gonna work for you.
+7671,57,225,1004000,Bart Simpson,Simpson Home,"Dad, Otto's going through a real tough time. Can't he stay with us for awhile?"
+7672,57,226,1009000,Marge Simpson,Simpson Home,"I know we didn't ask for this, Homer, but doesn't the Bible say, ""Whatsoever you do to the least of my brothers, that you do unto me...?"""
+7673,57,227,1017000,Homer Simpson,Simpson Home,"Yes, but doesn't the Bible also say, ""Thou shalt not take moochers into thy... hut""?"
+7674,57,228,1022000,Bart Simpson,Simpson Home,"Please, Dad. If you let Otto stay, he'll help around the house, and chip in a few bucks whenever he can."
+7675,57,229,1028000,Homer Simpson,Simpson Home,All right. He can stay. But I get to treat him like garbage.
+7676,57,230,1033000,Otto Mann,Simpson Home,"Wow, what's the catch?"
+7678,57,232,1034000,Tv Host,Simpson Living Room,A can of corn costs... fifty-seven cents!
+7679,57,233,1038000,Otto Mann,Simpson Living Room,I could sure go for a can of corn.
+7680,57,234,1040000,Marge Simpson,Simpson Living Room,"Otto, you can't just sit there watching TV all day."
+7681,57,235,1044000,Otto Mann,Simpson Living Room,"You know, you're right. I should do a little reading. You got any of those ""Where's Waldo"" books?"
+7682,57,236,1047000,Marge Simpson,Simpson Living Room,No.
+7683,57,237,1051000,Otto Mann,Simpson Living Room,How about anything written from the Vampire's point of view?
+7684,57,238,1051000,Marge Simpson,Simpson Living Room,No.
+7685,57,239,1054000,Otto Mann,Simpson Living Room,"Well, how 'bout anything where guys send in naked pictures of their chicks?"
+7686,57,240,1057000,Marge Simpson,Simpson Living Room,"Otto, I think you should get a job."
+7687,57,241,1059000,Otto Mann,Simpson Living Room,"Look, the only thing I was ever good at was driving a bus and now ""the man"" says I need a piece of paper to do that."
+7688,57,242,1065000,Marge Simpson,Simpson Living Room,So get that piece of paper!
+7689,57,243,1067000,Otto Mann,Simpson Living Room,"I tried -- Oh, Lord, how I did try."
+7691,57,245,1074000,Homer Simpson,GARAGE,Will you knock it off! I can't hear myself think.
+148529,57,246,1079000,Homer's Brain,GARAGE,I want some peanuts.
+7692,57,247,1080000,Homer Simpson,GARAGE,"That's better. Hey, how come you never play your guitar anymore?"
+7693,57,248,1084000,Bart Simpson,GARAGE,"I'll tell you the truth, Dad. I wasn't good at it right away, so I quit. I hope you're not mad."
+7696,57,249,1089000,Homer Simpson,GARAGE,"Son, come here. Heh, heh, heh. Of course I'm not mad. If something's hard to do, then it's not worth doing. You just stick that guitar in the closet next to your short wave radio, your karate outfit, and your unicycle and we'll go inside and watch TV."
+7697,57,250,1108000,Bart Simpson,GARAGE,What's on?
+7698,57,251,1109000,Homer Simpson,GARAGE,It doesn't matter.
+7700,57,253,1112000,Homer Simpson,Simpson Bathroom,Open up! Open up! I gotta go and no fooling.
+7701,57,254,1115000,Otto Mann,Simpson Bathroom,"Hey, Pop 'N'Fresh. You're supposed to giggle."
+7705,57,258,1126000,Homer Simpson,Simpson Home,That guy has gotta go.
+7706,57,259,1128000,Marge Simpson,Simpson Home,"I know how you feel, but he is good with the kids."
+7707,57,260,1134000,Otto Mann,Simpson Home,"... So the lady drove faster, but the strange car kept banging into her from behind."
+7709,57,262,1141000,Otto Mann,Simpson Home,"So finally she swerves off the road into the woods and lost the other car. And that's when she realized the man in the other car wasn't trying to hurt her. No, he was trying to warn her... about the ax-wielding maniac hiding in her back seat!"
+7710,57,263,1157000,Lisa Simpson,Simpson Home,Did the maniac kill her?
+7711,57,264,1160000,Otto Mann,Simpson Home,Natch! And you know how I know?
+7712,57,265,1162000,Lisa Simpson,Simpson Home,How?
+7713,57,266,1163000,Otto Mann,Simpson Home,Because... I was that maniac!
+7714,57,267,1169000,Otto Mann,Simpson Home,"Hey, hey, I was just kidding."
+7715,57,268,1172000,Homer Simpson,Simpson Home,That's it. He's outta here.
+7716,57,269,1173000,Marge Simpson,Simpson Home,"But Homer, we're the only family he's got..."
+7717,57,270,1176000,Homer Simpson,Simpson Home,"I don't care. This is not ""Happy Days"" and he is not the Fonz."
+7718,57,271,1179000,Otto Mann,Simpson Home,"Heyyy, Mr. S..."
+7719,57,272,1181000,Homer Simpson,Simpson Home,"Listen you drain clogging, last cookie-eating, collect call-getting sponge, I want you out of my house!"
+7720,57,273,1188000,Otto Mann,Simpson Home,Heavy.
+7721,57,274,1189000,Bart Simpson,Simpson Home,"What are you going to do, Otto?"
+7722,57,275,1191000,Otto Mann,Simpson Home,"Oh, don't worry. There's plenty of money out there for a guy who knows how to fake his own death."
+7723,57,276,1196000,Marge Simpson,Simpson Home,"Well, before you do that, maybe you should take the driving test again."
+7724,57,277,1201000,Otto Mann,Simpson Home,"Oh, I can't pass that thing. I got a zero last time; this time I'm hung over."
+7694,57,278,1206000,Bart Simpson,Simpson Home,"You can do it, Otto. You're the coolest adult I ever met."
+7725,57,279,1209000,Otto Mann,Simpson Home,Wow! I've never been called an adult before. I've been tried as one but... I'll do it!
+7727,57,281,1217000,Otto Mann,Simpson Garage,"""Alcohol increases your ability to drive."" False? Oh, man."
+7729,57,283,1226000,Otto Mann,Department of Motor Vehicles,"I don't know about this Bart dude. Your dad is right, I am a bum."
+7730,57,284,1231000,Bart Simpson,Department of Motor Vehicles,"He didn't call you a bum, he called you a sponge."
+7731,57,285,1234000,Otto Mann,Department of Motor Vehicles,Sponge?!
+7732,57,286,1237000,Otto Mann,Department of Motor Vehicles,Does this look like something a sponge would do I'll show him who's a sponge.
+7733,57,287,1244000,Patty Bouvier,Department of Motor Vehicles,"Well, if it isn't Wee Willy Washout."
+7734,57,288,1248000,Otto Mann,Department of Motor Vehicles,I want to take the test again.
+7735,57,289,1248000,Patty Bouvier,Department of Motor Vehicles,Why?
+7736,57,290,1250000,Otto Mann,Department of Motor Vehicles,So I can staple my license to Homer Simpson's big bald head.
+7737,57,291,1254000,Patty Bouvier,Department of Motor Vehicles,"Really? Well, here's your written test."
+7738,57,292,1257000,Patty Bouvier,Department of Motor Vehicles,"I'll get you started. B, C, D, A, B."
+7740,57,294,1259000,Otto Mann,TESTING COURSE,Homer had a piece of food on his face for three days.
+7742,57,296,1268000,Otto Mann,TESTING COURSE,It wasn't little either. It was a chicken wing.
+7743,57,297,1272000,Patty Bouvier,TESTING COURSE,Wing.
+7744,57,298,1273000,Otto Mann,TESTING COURSE,What was that?
+7745,57,299,1275000,Patty Bouvier,TESTING COURSE,It doesn't matter. Let's get some Margaritas. I'm buyin'!
+7747,57,301,1284000,Bart Simpson,Springfield Elementary School,Otto!
+7748,57,302,1285000,Otto Mann,Springfield Elementary School,That's what my driver's license says.
+7749,57,303,1290000,Kids,Springfield Elementary School,"HAIL TO THE BUS DRIVER, BUS DRIVER, BUS DRIVER..."
+7750,57,304,1294000,Seymour Skinner,Springfield Elementary School,"Yes, hail to the bus driver... Bus Driver Man!"

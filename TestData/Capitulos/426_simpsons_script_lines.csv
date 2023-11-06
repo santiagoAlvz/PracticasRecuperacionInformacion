@@ -1,0 +1,238 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+110419,426,1,28000,Bart Simpson,Simpson Home,Lemonade! Sweet sunshine in your mouth! Buy a cup or I punch my sister!
+110420,426,2,33000,Lisa Simpson,Simpson Home,It's true! He's not bluffing!
+110423,426,5,38000,Lisa Simpson,Simpson Home,Ow.
+110424,426,6,40000,Bart Simpson,Simpson Home,Maybe we should put a dollar in the jar. Prime the pump.
+110425,426,7,43000,Lisa Simpson,Simpson Home,"What are we, a piano bar?"
+110426,426,8,48000,Cletus Spuckler,Simpson Home,I'll take fifteen lemonades.
+110427,426,9,51000,Brandine Del Roy,Simpson Home,Make that sixteen.
+110428,426,10,53000,Brandine Del Roy,Simpson Home,"Lousy dog. If you had your way, I'd walk you every day."
+110429,426,11,58000,Homer Simpson,Simpson Home,Lemonade!
+110430,426,12,62000,Homer Simpson,Simpson Home,"Six cups, please. And put it on my tab."
+110431,426,13,66000,Homer Simpson,Simpson Home,"Keep moving, deadbeat -- cash only."
+110432,426,14,68000,Homer Simpson,Simpson Home,"Fine, lemonade's for babies anyway! I'm going to Moe's, for beer! Have fun drinking your lemonade, babies!"
+110433,426,15,81000,Homer Simpson,Simpson Home,"Lisa, can Daddy borrow your bike?"
+110434,426,16,84000,Lisa Simpson,Simpson Home,I guess.
+110437,426,19,106000,Homer Simpson,Moe's Tavern,"Hey Moe, gimme a--"
+110438,426,20,107000,Moe Szyslak,Moe's Tavern,"Homer, shush! We're watching Krabappel try to break up with Skinner."
+110439,426,21,111000,Edna Krabappel-Flanders,Moe's Tavern,"Seymour, I have something difficult I want to say to you."
+110440,426,22,114000,Seymour Skinner,Moe's Tavern,I understand. It can be very difficult for a woman to propose marriage. But I am willing to go halvsies on a ring.
+110441,426,23,122000,Edna Krabappel-Flanders,Moe's Tavern,Seymour... Excuse me.
+110443,426,24,125000,Edna Krabappel-Flanders,Moe's Tavern,Any of you lugs wanna break up with my boyfriend for me? I'll buy you a beer!
+110444,426,25,130000,Homer Simpson,Moe's Tavern,Seymour... Edna asked me to talk to you.
+110445,426,26,132000,Seymour Skinner,Moe's Tavern,"Splendid! Shall we discuss music, or the weather?"
+110446,426,27,135000,Homer Simpson,Moe's Tavern,"No, this is about you. Edna wants to break up."
+110447,426,28,139000,Seymour Skinner,Moe's Tavern,She wants to break up?
+110448,426,29,141000,Homer Simpson,Moe's Tavern,Yeah.
+110449,426,30,141000,Seymour Skinner,Moe's Tavern,With me?
+110450,426,31,142000,Homer Simpson,Moe's Tavern,Yeah.
+110451,426,32,144000,Homer Simpson,Moe's Tavern,"Look at it this way: you're a free man... unlike me. You have all your hair... unlike me. No kids tying you down, or a crippling mortgage that you refinanced at twenty-six percent because a dancing internet cowboy told you to... Oh, God, I hate my life!"
+110452,426,33,164000,Seymour Skinner,Moe's Tavern,"Gee. Compared to you, my life is one big half-day!"
+110453,426,34,168000,Homer Simpson,Moe's Tavern,"Exactly. You're good looking, have a decent job... what lonely widow wouldn't consider you an option?"
+110454,426,35,175000,Seymour Skinner,Moe's Tavern,"Thanks, Homer. I don't think the school pep squad could've cheered me up more. And they were state runners up in nineteen ninety-seven!"
+110455,426,36,184000,Carl Carlson,Moe's Tavern,"Homer, that was amazing -- he actually felt better comin' outta the break-up than he did goin' in."
+110456,426,37,188000,Lenny Leonard,Moe's Tavern,"Say Homer, you're real good at this. Think you could dump my girlfriend Doreen for me?"
+110457,426,38,191000,Moe Szyslak,Moe's Tavern,"Doreen? She's cheated on you with everyone -- well, except for me. And I've showered her with gifts! Fancy soaps and massage oils and uh... what have ya..."
+110458,426,39,201000,Lenny Leonard,Moe's Tavern,"Ooh, here she comes -- work your magic, Homer!"
+110459,426,40,204000,Doreen,Moe's Tavern,Is Lenny here?
+110460,426,41,205000,Homer Simpson,Moe's Tavern,"Oh, I'm afraid Lenny's dead."
+110461,426,42,207000,Doreen,Moe's Tavern,What? I just talked to him.
+110462,426,43,210000,Homer Simpson,Moe's Tavern,And you will again. Because he isn't really dead. And now this next piece of news won't seem so bad...
+110464,426,45,216000,Kids,Simpson Home,Lemonade! We want lemonade!
+110465,426,46,218000,Bart Simpson,Simpson Home,"Don't worry, folks. Our master chef is stirring up a fresh batch."
+110468,426,49,227000,Bureaucrat,Simpson Home,Stop that transaction!
+110469,426,50,228000,Bureaucrat,Simpson Home,I'm a part-time field agent with the Springfield Department of Commerce!
+110377,426,51,232000,Bart Simpson,Simpson Home,Great gig.
+110442,426,52,233000,Bureaucrat,Simpson Home,It is a great gig. May I see your vendor's license?
+110470,426,53,236000,Lisa Simpson,Simpson Home,Um... I think it's... we don't have one.
+110471,426,54,240000,Bart Simpson,Simpson Home,Thirty-five cents? Where did that come from? Can't be mine -- must be yours.
+110472,426,55,245000,Bureaucrat,Simpson Home,"I don't care if it's forty-five cents. I don't want it! Submit this form to the License Bureau. Until then, this stand is closed! Boys?"
+110473,426,56,257000,Cop,Simpson Home,"Geez, I'm thirsty. Y'got any lemonade?"
+110474,426,57,260000,Lisa Simpson,Simpson Home,Not anymore!
+110477,426,60,268000,Dr. Julius Hibbert,LICENSE BUREAU,"Come on, come on! I was halfway through an operation when my license expired!"
+110478,426,61,273000,Wiseguy,LICENSE BUREAU,I'll get to ya... just as soon as I finish this crossword puzzle.
+110479,426,62,277000,People In Line,LICENSE BUREAU,/ C'mon!
+110480,426,63,278000,Kirk Van Houten,LICENSE BUREAU,"Let's go, buddy."
+110481,426,64,279000,Lindsay Naegle,LICENSE BUREAU,I left bananas in my car!
+110482,426,65,281000,Wiseguy,LICENSE BUREAU,"Let's see, uh... ten across: ""Franklin Roosevelt's middle name""? ""EXCITEMENT."" Uh, wait, that don't fit..."
+110483,426,66,290000,Lisa Simpson,LICENSE BUREAU,Maybe you could use some help.
+110484,426,67,295000,Lisa Simpson,LICENSE BUREAU,": FDR's middle name... ""DELANO."" ""Oxidized surface""... Well that's ""RUSTY."" ""Bartenders serve them 'dirty'""..."
+110485,426,68,295000,Moe Szyslak,LICENSE BUREAU,Ham sandwiches!
+110486,426,69,302000,Lisa Simpson,LICENSE BUREAU,"No, ""MARTINIS""."
+110487,426,70,302000,Moe Szyslak,LICENSE BUREAU,Oh right.
+110488,426,71,302000,Lisa Simpson,LICENSE BUREAU,One more word!
+110489,426,72,302000,Lisa Simpson,LICENSE BUREAU,"""Singer of Yentl"", thirteen letters... um..."
+110490,426,73,310000,Lisa Simpson,LICENSE BUREAU,"I've got it! ""ISAAC BASHEVIS!"""
+110491,426,74,311000,Lisa Simpson,LICENSE BUREAU,Now gimme my license! Give everyone their license!
+110492,426,75,318000,Apu Nahasapeemapetilon,LICENSE BUREAU,"What is a four-letter word for ""hero?"""
+110493,426,76,320000,Moe Szyslak,LICENSE BUREAU,Hero.
+110494,426,77,320000,Apu Nahasapeemapetilon,LICENSE BUREAU,"Yes, but I meant ""Lisa!"""
+110495,426,78,320000,People In Line,LICENSE BUREAU,Lisa! Lisa! Lisa!
+110497,426,80,327000,Homer Simpson,Simpson Home,Y'ello!
+110498,426,81,327000,Grady,Simpson Home,"Homer? It's your old roommate, Grady."
+110499,426,82,330000,Homer Simpson,Simpson Home,The gay guy?
+110500,426,83,331000,Grady,Simpson Home,"That's not all I am! Well, it's a lot of what I am. Anyhoo, I heard how good you are at breaking up couples. I need your help to break up with Julio, 'cause I met someone new..."
+110501,426,84,338000,Grady,Simpson Home,Someone much more cool and refreshing.
+110503,426,85,344000,Homer Simpson,Simpson Home,"Uh-huh, got it. Marge, I'm going to a hardcore gay club, and I won't be home till three in the morning!"
+110504,426,86,352000,Marge Simpson,Simpson Home,Have fun!
+110505,426,87,358000,Bart Simpson,Simpson Home,Ay Carumba!
+110506,426,88,359000,Lisa Simpson,Simpson Home,"Bart, I've fallen in love with crosswords!"
+110507,426,89,363000,Bart Simpson,Simpson Home,It finally happened -- you've gone completely fruit loops.
+110508,426,90,366000,Lisa Simpson,Simpson Home,"""FRUIT LOOPS?"" That's the answer to thirty-eight down: ""toucan's delight!"""
+110509,426,91,366000,Bart Simpson,Simpson Home,"No, I mean you're loco in the coco!"
+110510,426,92,372000,Lisa Simpson,Simpson Home,"""COCOA!"" ""Ice rink drink!"""
+110511,426,93,372000,Bart Simpson,Simpson Home,You're losin' it!
+110512,426,94,372000,Lisa Simpson,Simpson Home,"""LOSIN' IT!"" ""Risqué '80s teen flick!"""
+110513,426,95,372000,Bart Simpson,Simpson Home,"Fine, go nuts -- see if I care!"
+110514,426,96,379000,Lisa Simpson,Simpson Home,"""EYE CARE!"" ""Optician's concern."" Oh, thanks for your help, Bart! ""BART?"" ""San Francisco people mover!"""
+110515,426,97,383000,Bart Simpson,Simpson Home,Speaking of San Francisco people mover:
+110517,426,99,393000,Julio,GAY DANCE CLUB,Grady is breaking up with me?!
+110518,426,100,395000,Homer Simpson,GAY DANCE CLUB,You'll always have a special place in his heart!
+110519,426,101,399000,Julio,GAY DANCE CLUB,In his what?
+110520,426,102,403000,Julio,GAY DANCE CLUB,Awww.
+110521,426,103,405000,Julio,GAY DANCE CLUB,"Oh, baby, you are the breakup king. You have made the seven minutes that I'm gonna go without love so much more bearable."
+110522,426,104,412000,Homer Simpson,GAY DANCE CLUB,Anyone else want me to get rid of that special someone?
+110523,426,105,416000,Homer Simpson,GAY DANCE CLUB,"Okay, everyone. Rotate one to your right."
+110525,426,107,426000,Lisa Simpson,Simpson Home,"Guess what, Mom? I'm a cruciverbalist!"
+110526,426,108,428000,Marge Simpson,Simpson Home,"Another religion? You know, you're just gonna drop the whole thing when you go to college and get a Jewish boyfriend."
+110527,426,109,435000,Lisa Simpson,Simpson Home,"Probably, but a cruciverbalist is a fan of crossword puzzles -- which I am!"
+110528,426,110,440000,Grampa Simpson,Simpson Home,"Me too! I been doin' 'em since Nineteen fifty-eight -- back then we called 'em ""Alphabet Hotels"", 'cause every letter gets its own little room. I still do the Springfield Shopper puzzle every day!"
+110529,426,111,457000,Lisa Simpson,Simpson Home,"Grampa, everyone knows that the only real test of skill is the New York Times puzzle, edited by Will Shortz!"
+110531,426,112,463000,Grampa Simpson,Simpson Home,"""Will"" and ""Shorts"". Two things I'm no longer allowed to change by myself."
+110533,426,114,474000,Lisa Simpson,School Bus,"Okay, back to the real world."
+110534,426,115,492000,Lisa Simpson,School Bus,Isn't it beautiful?
+110535,426,116,494000,Otto Mann,School Bus,Sure is.
+110536,426,117,495000,Bart Simpson,School Bus,Who's driving the bus?
+110537,426,118,496000,Otto Mann,School Bus,What bus?
+110541,426,122,499000,Homer Simpson,Springfield Nuclear Power Plant,"Sweet Conclusions Break-Up Service. Oh yes, we dispose of your loved one humanely - thanks to our patented TenderDump System."
+110542,426,123,509000,Homer Simpson,Springfield Nuclear Power Plant,I'll be there in thirty minutes... or your breakup is freeee!
+110545,426,126,552000,Gary Chalmers,Springfield Elementary School,Simp-son! What in the blue blazes are you doing to my hopscotching grids?
+110546,426,127,558000,Lisa Simpson,Springfield Elementary School,I... I made them into a crossword.
+110547,426,128,560000,Gary Chalmers,Springfield Elementary School,"Well, I'm a bit of a puzzlehead myself -- they uh, help me wind down after a day of dealing with SKIN-NER!"
+110548,426,129,569000,Seymour Skinner,Springfield Elementary School,You called?
+110549,426,130,570000,Gary Chalmers,Springfield Elementary School,Made reference.
+110550,426,131,571000,Seymour Skinner,Springfield Elementary School,My mistake.
+110551,426,132,572000,Gary Chalmers,Springfield Elementary School,"Lisa, I think you might be ready for this."
+110552,426,133,575000,Lisa Simpson,Springfield Elementary School,"""Bald Man's Basketball League""?"
+110553,426,134,577000,Gary Chalmers,Springfield Elementary School,"Sorry, wrong flier. I meant this!"
+110554,426,135,581000,Lisa Simpson,Springfield Elementary School,Citywide crossword tournament!
+110555,426,136,583000,Lisa Simpson,Springfield Elementary School,"Ooh, thank you!"
+110556,426,137,584000,Gary Chalmers,Springfield Elementary School,"You're welcome. Now uh, I have to go home and make sure my pool boy is using his skim-mer!"
+110557,426,138,591000,Seymour Skinner,Springfield Elementary School,You called?
+110558,426,139,592000,Gary Chalmers,Springfield Elementary School,You misheard.
+110559,426,140,593000,Seymour Skinner,Springfield Elementary School,My mistake.
+110561,426,142,596000,Homer Simpson,Simpson Home,"Marge, if I had a hundred dollars for every customer I'd broken up, I'd have exactly this amount. 'Cause that's what I charge!"
+110562,426,143,603000,Marge Simpson,Simpson Home,Homie... I'm not sure about this new business of yours. You're making it too easy for couples to break up just because they hit a rough patch.
+110564,426,144,611000,Homer Simpson,Simpson Home,"I know this is hard on you, but in time you'll come to see it's for the best."
+110565,426,145,615000,Marge Simpson,Simpson Home,That's one of your breakup lines!
+110566,426,146,618000,Marge Simpson,Simpson Home,What would have happened if there was someone who could break us up every time I had my doubts about you?
+110567,426,147,641000,Homer Simpson,Simpson Home,Who are you?
+110568,426,148,642000,Ghost Julio,Simpson Home,We are the spirits of the relationships you killed!
+110569,426,149,651000,Ghost Toddler,Simpson Home,We're the babies those couples would have had!
+110570,426,150,655000,Talking Credenza,Simpson Home,And we're the antiques those couples would have bought together!
+110571,426,151,662000,Ghost Julio,Simpson Home,"Get him, chairs and babies!"
+110572,426,152,669000,Marge Simpson,Simpson Home,Homie?
+110573,426,153,670000,Homer Simpson,Simpson Home,"Marge, I'm getting' out of the break-up business and I don't know if I'll ever sleep soundly again."
+110574,426,154,675000,Marge Simpson,Simpson Home,Well maybe...
+110576,426,156,688000,Homer Simpson,Springfield Hyatt,"Wow, so this is what this is."
+110577,426,157,690000,Lisa Simpson,Springfield Hyatt,Cruciverbalists from far and wide have gathered here for a no-holds-barred test of skill.
+110578,426,158,696000,Homer Simpson,Springfield Hyatt,Surely some holds are barred.
+110579,426,159,698000,Lisa Simpson,Springfield Hyatt,"No, none."
+110580,426,160,699000,Homer Simpson,Springfield Hyatt,"Well, it sounds really exciting and you're a delightful young lady. Now if you'll excuse me..."
+110582,426,162,709000,Homer Simpson,Hotel,"Hey, what's going on?"
+110583,426,163,710000,Man In Bar,Hotel,"It's kind of a secret, so shut the door most of the way."
+110584,426,164,717000,Man In Bar,Hotel,We found a way to make this tournament interesting. We bet on the matches.
+110585,426,165,722000,Homer Simpson,Hotel,"Really? Well, I did bring this envelope full of money."
+110586,426,166,725000,Homer Simpson,Hotel,"And these days, betting in a bar is safer than any stock, bond or real estate investment."
+110587,426,167,730000,Bartender,Hotel,"Agreed. So, who are you gonna bet on?"
+110588,426,168,732000,Homer Simpson,Hotel,I want you to put it all on my little girl. And parlay with the Asian kid.
+110589,426,169,737000,Asian Man,Hotel,"He has a name, you know!"
+110590,426,170,738000,Homer Simpson,Hotel,What is it?
+110591,426,171,740000,Asian Man,Hotel,I don't know. He's not my kid.
+110593,426,173,744000,Lisa Simpson,Ballroom,I win!
+110594,426,174,745000,Homer Simpson,Ballroom,"She won! And like any prudent gambler, I know when to walk away: never!"
+110595,426,175,793000,Referee,Ballroom,"Okay, everybody, take a break."
+110596,426,177,796000,Lisa Simpson,Springfield Hyatt,"Dad, I could actually win this thing!"
+110597,426,178,799000,Homer Simpson,Springfield Hyatt,"And when you win, I win. I'll explain that to you on your deathbed."
+110598,426,179,805000,Lisa Simpson,Springfield Hyatt,"My only fear is, I always sabotage myself when I'm on the verge of happiness."
+110599,426,180,810000,Homer Simpson,Springfield Hyatt,You what?
+110600,426,181,810000,Lisa Simpson,Springfield Hyatt,"In my young life I've seen that every time I'm about to achieve true happiness, some little piece of me says ""you don't deserve this."" And another little piece says ""I agree."""
+110601,426,182,810000,Homer Simpson,Springfield Hyatt,"Right, right. But will it happen this time?"
+110602,426,183,824000,Lisa Simpson,Springfield Hyatt,"With my luck, I bet it will. It's practically a sure thing."
+110604,426,185,831000,Female Event Host,Springfield Hyatt,Contestants to your boards.
+110605,426,186,832000,Lisa Simpson,Springfield Hyatt,Wish me luck.
+110606,426,187,833000,Homer Simpson,Springfield Hyatt,Just be yourself.
+110607,426,188,836000,Homer Simpson,Springfield Hyatt,I wanna change my bet... I'm going against my daughter.
+110608,426,189,840000,Bartender,Springfield Hyatt,I'll take your money. But I won't look you in the eye.
+110609,426,190,844000,Homer Simpson,Springfield Hyatt,Fine. I won't look you in the eye.
+110610,426,191,851000,Homer Simpson,Springfield Hyatt,Have I made the bet yet?
+110611,426,192,853000,Bartender,Springfield Hyatt,I got it.
+110612,426,193,854000,Announcer,Springfield Hyatt,"We're down to our final two contestants. But before they compete, we would like to pay tribute to all the words that have been removed from the dictionary in the past year."
+110613,426,194,882000,Gil Gunderson,Springfield Hyatt,"You know, my wife Shirley, she's the real crossword ace in our family. Fills in those letters fast as hail on a tin roof: ping-ping-ping, she's done. Shirley passed away two years ago. But I'm still not over it."
+110614,426,195,895000,Lisa Simpson,Springfield Hyatt,"Oh, that's so sad!"
+110615,426,196,896000,Gil Gunderson,Springfield Hyatt,"Hey, what can you do? Life keeps changing the music, but you gotta keep up the cha-cha-cha, huh?"
+110616,426,197,908000,Gil Gunderson,Springfield Hyatt,"Let's see, I'll spread some Q's around. That'll get my brain goin'."
+110617,426,198,910000,Gil Gunderson,Springfield Hyatt,"Aw, I dropped my glasses! Shirley, baby, I let you down."
+110618,426,199,925000,Lisa Simpson,Springfield Hyatt,"Hey, there are no lenses in these glasses..."
+110619,426,200,928000,Gil Gunderson,Springfield Hyatt,"Let's see, that's ""ENRICO FERMI"", and there you've got the ""PET SHOP BOYS"", and cross the T and zing the Z and skit skat skoodily I'm all the way home."
+110620,426,201,937000,Bart Simpson,Springfield Hyatt,Lisa got hustled!
+110621,426,202,940000,Lisa Simpson,Springfield Hyatt,I blew it again.
+110407,426,204,943000,Homer Simpson,Bar,She blew it again! Woo-hoo!
+110622,426,205,945000,Bartender,Bar,Here's your money. Drenched in your daughter's tears.
+110623,426,206,948000,Homer Simpson,Bar,"You know, for a bartender-bookie you're awfully judgmental."
+110625,426,208,959000,Bart Simpson,Simpson Home,"Boy, Dad seems awfully happy."
+110626,426,209,961000,Lisa Simpson,Simpson Home,And there's something different about him.
+110627,426,210,965000,Lisa Simpson,Simpson Home,He bought new shoelaces. With fancy metal tips!
+110628,426,211,973000,Lisa Simpson,Simpson Home,Dad? Did you come into some money we don't know about?
+110629,426,212,976000,Homer Simpson,Simpson Home,No.
+110630,426,213,977000,Lisa Simpson,Simpson Home,You got highlights in your hair!
+110631,426,214,980000,Homer Simpson,Simpson Home,Uh... the sun did that.
+110632,426,215,982000,Lisa Simpson,Simpson Home,And your car antenna has been straightened and re-balled.
+110633,426,216,986000,Lisa Simpson,Simpson Home,What's goin' on?
+110634,426,217,989000,Homer Simpson,Simpson Home,"Well, sweetie, Daddy made a little extra money betting against you in the crossword tournament. You'll understand when you're a parent placing large wagers against your own children. I hope you're not mad."
+110635,426,218,1002000,Lisa Simpson,Simpson Home,"No, I'm not mad."
+110636,426,219,1010000,Homer Simpson,Simpson Home,You sure you're not mad?
+110637,426,220,1012000,Lisa Simpson,Simpson Home,"No, I'm not mad."
+110639,426,222,1017000,Homer Simpson,PLAYGROUND,You sure you're not mad?
+110640,426,223,1019000,Lisa Simpson,PLAYGROUND,"No, I'm not mad."
+110642,426,225,1022000,Homer Simpson,Simpson Home,"Mr. Teddy, can you ask Lisa if she's mad? What's that, Mr. Teddy? You're saying that you know women? And that when women say they're not mad, they're madder than ever?"
+110643,426,226,1033000,Homer Simpson,Simpson Home,She's gone. Can you drive me home? I'm a little drunk.
+110645,426,228,1038000,Homer Simpson,Springfield Elementary School,Lisa? Lisa?
+110646,426,229,1043000,Homer Simpson,Springfield Elementary School,"Lisa, sweetie... please, look at your Daddy."
+110647,426,230,1046000,Lisa Simpson,Springfield Elementary School,"You stopped being my Daddy as soon as you bet against me! All I have now is a mom, which is why I'm taking her maiden name! From now on, I'm..."
+110648,426,231,1055000,Lisa Simpson,Springfield Elementary School,Lisa Bouvier!
+110649,426,232,1061000,Nelson Muntz,Springfield Elementary School,"Hey, Mr. S... Lisa B..."
+110650,426,233,1064000,Homer Simpson,Springfield Elementary School,Nooooooooooooooooo!
+110651,426,234,1067000,JANEY,Springfield Elementary School,Would you like to buy some band candy?
+110652,426,235,1069000,Homer Simpson,Springfield Elementary School,Yessssssssssssssss!
+110654,426,237,1073000,Homer Simpson,Moe's Tavern,"Lisa's mad at me, and now she's using Marge's maiden name instead of mine."
+110655,426,238,1078000,Moe Szyslak,Moe's Tavern,"Homer, whatever you done to that little girl, you just gotta do something even nicer to win her back."
+110656,426,239,1083000,Carl Carlson,Moe's Tavern,"She may never take back your name, but there's still a chance she'll take you back as a Daddy."
+110657,426,240,1087000,Homer Simpson,Moe's Tavern,Wow... nobody gives better parenting advice than childless drunks.
+110658,426,241,1092000,Moe Szyslak,Moe's Tavern,"So the name ""Lisa Simpson"" is available, huh? Lotta goodwill attached to that name... I'm gonna take it."
+110659,426,242,1099000,Moe Szyslak,Moe's Tavern,"Lisa's Tavern, Lisa speaking."
+110661,426,244,1107000,Marge Simpson,Simpson Home,"Lisa, sweetie, I'm honored that you choose my name, but it's not that great. Back in high school, the boys used to call me Marge ""BOOB""-ier."
+110662,426,245,1113000,Lisa Simpson,Simpson Home,"Hey, Bouvier was Jackie Kennedy's maiden name."
+110663,426,246,1119000,Marge Simpson,Simpson Home,Really? I never knew that.
+110664,426,247,1121000,Lisa Simpson,Simpson Home,Well what did you think her name was before it was Kennedy?
+110665,426,248,1124000,Marge Simpson,Simpson Home,"Jackie ""O."" Like Spaghetti-o's. I thought that was where her money came from. Look, why don't you cheer up by doing a New York Times crossword puzzle, huh?"
+110666,426,249,1134000,Lisa Simpson,Simpson Home,I'm through with crosswords! My innocence died in those four hundred and forty-one little boxes.
+110667,426,250,1139000,Marge Simpson,Simpson Home,It might be a fun way to kill a couple hours.
+110668,426,251,1142000,Lisa Simpson,Simpson Home,A couple hours? I can do the Sunday puzzle in less than one hour!
+110669,426,252,1147000,Lisa Simpson,Simpson Home,A couple of hours...
+110670,426,253,1149000,Lisa Simpson,Simpson Home,"""Last clue: ""Loses on purpose"". Hmmm... ""DIETS!"" Oh, Will Shortz, you clever rascal."
+110671,426,254,1160000,Lisa Simpson,Simpson Home,And a new record time! Wait a second...
+110672,426,255,1164000,Lisa Simpson,Simpson Home,"""DUMB DAD SORRY FOR HIS BET."" Wow, it's almost as if Dad planted that message. No, it must just be a weird coincidence...but what if it's not? Oh, it must be...or mustn't it not?"
+110673,426,256,1190000,Lisa Simpson,Simpson Home,"Dad, I know this is crazy, but did you plant a message to me in the New York Times crossword puzzle?"
+110674,426,257,1195000,Homer Simpson,Simpson Home,"Well, I had a little help from this guy."
+110675,426,258,1198000,Lisa Simpson,Simpson Home,New York Times Crossword Editor Will Shortz!
+110676,426,259,1201000,Lisa Simpson,Simpson Home,And master puzzle constructor Merl Reagle?!
+110677,426,260,1205000,Merl Reagle,Simpson Home,I actually wrote that crossword.
+110678,426,261,1207000,Will Shortz,Simpson Home,And I edited it. Now get back to cross-wording!
+110679,426,262,1210000,Merl Reagle,Simpson Home,Yes sir.
+110680,426,263,1212000,Lisa Simpson,Simpson Home,"Well I must admit, I'm kind of touched. ""DUMB DAD SORRY FOR HIS BET."" Nice."
+110681,426,264,1219000,Will Shortz,Simpson Home,"You didn't get Homer's whole message, Lisa."
+110682,426,265,1221000,Lisa Simpson,Simpson Home,I didn't?!
+110683,426,266,1222000,Will Shortz,Simpson Home,Take a look at the first letters of all the clues.
+110684,426,267,1228000,Homer Simpson,Simpson Home,"Dear Lisa, you make me so happy... really, really, really happy. Sorry, he told me I needed a hundred and forty-four letters. What was my point again? Oh right. Bouvier or Simpson, I cherish you."
+110685,426,268,1247000,Lisa Simpson,Simpson Home,"Oh, Dad."

@@ -1,0 +1,196 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+21748,108,1,14000,Jingle Singers,Springfield Nuclear Power Plant,"NO SPORTS, NO ROCK, NO INFORMATION / FOR MINDLESS CHATTER, WE'RE YOUR STATION!"
+21750,108,2,18000,Radio Announcer,Springfield Nuclear Power Plant,"KBBL Talk Radio. And now, Springfield's favorite conservative, and author of the well-selling book ""Only Turkeys Have Left Wings,"" ladies and gentlemen, Birch Barlow!"
+21752,108,4,29000,Carl Carlson,Springfield Nuclear Power Plant,Ugh. That Barlow's a right-wing crackpot! He said Ted Kennedy lacked integrity. Can you believe that?!
+21753,108,5,36000,Lenny Leonard,Springfield Nuclear Power Plant,"Yeah, switch the station. I consider myself politically correct, and his views make me uncomfortable."
+21754,108,6,41000,Homer Simpson,Springfield Nuclear Power Plant,"Nuh-nuh-nuh-nuh, guys. Now, I'm not very political -- I usually think people who vote are a bit ""fruit-y"" -- but, for some reason, this Birch Barlow really speaks to me..."
+21756,108,8,57000,Birch Barlow,KBBL Studios,"Good morning, fellow freedom-likers. Birch Barlow, the fourth branch of government, the fifty-first state. You know, there are three things we're never gonna get rid of here in Springfield. One: the bats in the Public Library..."
+21758,108,10,69000,Birch Barlow,Public Library,Two: Mrs. McFearly's compost heap.
+21760,108,12,76000,Birch Barlow,MRS. MCFEARLY'S HOUSE,"And three: our six-term mayor, the illiterate, tax-cheating, wife-swapping, pot-smoking Spend-o-crat -- Diamond Joe Quimby!"
+21762,108,14,85000,Mayor Joe Quimby,Springfield Town Hall,"Hey, I am no longer illiterate."
+21764,108,16,87000,Birch Barlow,KBBL,"Now why are we doomed to this Quimby quagmire, you ask, o reasonable listener? Because this town is under the stranglehold of a few tie-dyed tree huggers who would rather play hackey-sack than lock up the homeless."
+21766,108,18,101000,Marge Simpson,Simpson Home,"This sounds awfully controversial. Lisa, you know I don't like controversy in this house."
+21767,108,19,107000,Lisa Simpson,Simpson Home,"I don't like him either Mom, but I'm doing a report on local politics for my school project."
+21768,108,20,112000,Bart Simpson,Simpson Home,"You think you're so big 'cause your class always gets to do projects. Well, um... I'm doing a school project on, uh, fireworks!"
+21769,108,21,122000,Marge Simpson,Simpson Home,"Bart, I wish you wouldn't lie like that."
+21773,108,23,127000,Seymour Skinner,Springfield Elementary School,"Now, as a special send-off and a way to say ""Gung hay fat choy"" to our visiting Chinese principals, Bart Simpson has promised us a fireworks display!"
+21775,108,25,143000,Chinese Principal #1,Springfield Elementary School,All week he promise big firework display!
+21776,108,26,146000,Chinese Principal #2,Springfield Elementary School,Bad student.
+21777,108,27,147000,Chinese Principal #1,Springfield Elementary School,Bad principal.
+21779,108,29,151000,Birch Barlow,Homer's Car,"...so my friends, let's just junk those Dumb-o-crats and their bleeding heart smell-fare program!"
+21780,108,30,156000,Lisa Simpson,Homer's Car,"Dad, I had to listen to this jerk all morning. Can we listen to something else?"
+21781,108,31,161000,Homer Simpson,Homer's Car,"When I'm driving the car, I get to choose the radio station. When you're driving, we'll listen to your radio station."
+21782,108,32,168000,Homer Simpson,Homer's Car,I can't take this anymore. Let's switch back.
+21783,108,33,175000,Birch Barlow,Homer's Car,"Alright my friends, now let's go to the phones. First up is Bob, from South Springfield. Welcome to you, sir."
+21784,108,34,180000,Sideshow Bob,Homer's Car,"Hello, Birch. Long-time listener, first-time caller. Kudos for bringing the ""public"" back to the Re""public""an party! It's high time people realized we conservatives aren't all Johnny Hate-mongers and Charlie Bible-thumps, or even -- God forbid -- George Bushes!"
+21785,108,35,195000,Lisa Simpson,Homer's Car,That sounds like Sideshow Bob!
+21786,108,36,198000,Homer Simpson,Homer's Car,"Yes, ma'am. Sideshow Bob. Yakkin' it up on the ol' yak-box."
+21787,108,37,202000,Lisa Simpson,Homer's Car,"Dad, I'll spare you the embarrassment of admitting you don't know who Sideshow Bob is."
+21788,108,38,208000,Homer Simpson,Homer's Car,Phew.
+21789,108,39,209000,Lisa Simpson,Homer's Car,"Sideshow Bob used to be Krusty the Clown's sidekick. But in 1990, he framed Krusty for armed robbery and Bart got him put in jail."
+21790,108,40,216000,Homer Simpson,Homer's Car,Uh-huh.
+21791,108,41,216000,Lisa Simpson,Homer's Car,"When he got out, he married Aunt Selma and tried to murder her."
+21792,108,42,220000,Homer Simpson,Homer's Car,"Oh, Sideshow Bob."
+21794,108,44,222000,Lisa Simpson,Simpson Home,Bart! Your mortal enemy is on the radio!
+21795,108,45,225000,Dr. Demento,Simpson Home,It's time for more deeee-mentia with Dr. Demento!
+21797,108,47,231000,DR. DEMEMTO,Simpson Home,"And now the ""Funny Five..."""
+21798,108,48,234000,Lisa Simpson,Simpson Home,"I meant your other mortal enemy, Sideshow Bob."
+21723,108,49,240000,Bart Simpson,Simpson Home,Sideshow Bob! I'm only ten and I already got two mortal enemies.
+21771,108,51,245000,Mayor Joe Quimby,Springfield Retirement Castle,...and uh this proposed expressway will bring increased commerce to our local merchants.
+21799,108,53,253000,Grampa Simpson,Springfield Retirement Castle,What's in it for us?
+21800,108,54,254000,Jasper Beardly,Springfield Retirement Castle,"Yeah, give us something we like, or we'll ride ya out of town on a rail!"
+21801,108,55,258000,Mayor Joe Quimby,Springfield Retirement Castle,"Well uh, what do you, er, people like?"
+21802,108,56,260000,Jasper Beardly,Springfield Retirement Castle,Sleep.
+21803,108,57,261000,Old Jewish Man,Springfield Retirement Castle,"Sexy dames, and plenty of 'em!"
+21804,108,58,263000,Grampa Simpson,Springfield Retirement Castle,Matlock!!
+21805,108,59,267000,Mayor Joe Quimby,Springfield Retirement Castle,"Well, uh, I suppose I could name it the uh, ""Matlock Expressway."""
+21807,108,61,276000,Sideshow Bob,Springfield Elementary School,...but it would be terribly myopic of me to blame all my current woes on one spikey-haired little simpleton.
+21808,108,62,285000,Birch Barlow,Springfield Elementary School,"Mm hm. Myopic, or to say the least, intransigent. Now, you mentioned some ""woes"" there..."
+21809,108,63,290000,Sideshow Bob,Springfield Elementary School,"Well -- you see, Birch, I'm presently incarcerated."
+21811,108,65,296000,Sideshow Bob,Springfield Prison,"Convicted of a crime I didn't even commit. ""Attempted"" murder. Now, honestly, what is that? Do they give a Nobel Prize for ""Attempted"" Chemistry? Do they --"
+21812,108,66,307000,Sideshow Bob,Springfield Prison,"Oh really, now! This is a personal call!"
+21813,108,67,310000,Birch Barlow,Springfield Prison,"Now, m-m-my Friends, isn't this just typical? Another intelligent conservative here railroaded by our liberal justice system -- just like Colonel Oliver North, Officer Stacey Koon, and cartoon smokesperson Joe Camel. Well, I've had it!!"
+21815,108,69,328000,Birch Barlow,Bart's Classroom,I am gonna make it my mission to see that our friend Bob is set free!
+21816,108,70,333000,Bart Simpson,Bart's Classroom,Nooooo!!
+21817,108,71,336000,Edna Krabappel-Flanders,Bart's Classroom,"Well, despite Bart's objections, the people of South Africa can now vote in free Democratic elections."
+21818,108,72,342000,Birch Barlow,Bart's Classroom,"My friends, Bob is a political prisoner. I want every loyal listener to do everything they can to get him out of jail!"
+21819,108,73,351000,Moe Szyslak,Bart's Classroom,"All right, you heard the man. One grenade each."
+21820,108,74,355000,Barney Gumble,Bart's Classroom,"Moe, I think he meant through non-violent grass-roots political action."
+21821,108,75,361000,Moe Szyslak,Bart's Classroom,"Aw, geez... really ya think so? All right, give 'em back. Come on, everybody give 'em back."
+21822,108,76,367000,Moe Szyslak,Bart's Classroom,"Hey, hey, who pulled the pin on this one?"
+21824,108,78,368000,Protesters,Springfield Town Hall,Free Bob! Free Bob!
+21826,108,79,373000,Mayor Joe Quimby,Springfield Town Hall,"Very well. If that is the way the winds are blowing, let no one say I don't also blow."
+21828,108,81,380000,Mayor Joe Quimby,Springfield Prison,"By special order of the Mayor of Springfield, you are hereby granted a full and complete pardon. Congratulations, Robert Onderdonk Terwilliger."
+21829,108,82,396000,Guard,Springfield Prison,Boat's on the other side.
+21830,108,83,398000,Sideshow Bob,Springfield Prison,Yes! Thank you!
+21832,108,85,421000,C. Montgomery Burns,REPUBLICAN HQ,"Hail, brothers! Quoronon cillairia ozu mahoq!"
+21833,108,86,426000,Others,REPUBLICAN HQ,Mahoq! Mahoq!
+21834,108,87,427000,C. Montgomery Burns,REPUBLICAN HQ,"Now, then. Gentlemen, the mayoral campaign is upon us and if we hope to defeat this Joe Quimby we need a candidate with name recognition and media savvy. A true leader who will do exactly as he's told."
+21835,108,88,439000,Birch Barlow,REPUBLICAN HQ,"Monty, I'm way ahead of you. If you'll just open that door you'll see the next mayor of Springfield."
+21836,108,89,452000,The Rich Texan,REPUBLICAN HQ,Whu'd it say?
+21837,108,90,453000,Birch Barlow,REPUBLICAN HQ,"No, no. Bob! Bob, come in!"
+21838,108,91,458000,Sideshow Bob,REPUBLICAN HQ,"A fine ""Mahoq"" to you all."
+21839,108,92,460000,Dr. Julius Hibbert,REPUBLICAN HQ,"Why, he's even better."
+21840,108,93,462000,Rainier Wolfcastle,REPUBLICAN HQ,I agree. I like the human touch.
+21842,108,95,465000,Seymour Skinner,Springfield Elementary School,"Now, students, I want you to be on your best behavior for this carefully-choreographed media event. Now this means there is to be no wising-off, no face-making, and no grass-eating. This means you, Ralph."
+21843,108,96,477000,Ralph Wiggum,Springfield Elementary School,"Yes, sir."
+21844,108,97,478000,Sideshow Bob,Springfield Elementary School,"Hello, children. Hello, Bart."
+21845,108,98,481000,Bart Simpson,Springfield Elementary School,Eep.
+21846,108,99,482000,Sideshow Bob,Springfield Elementary School,"Young friends, my opponent Joe Quimby is confused about your school system. Do you know what he does? He flip-flops."
+21847,108,100,493000,Sideshow Bob,Springfield Elementary School,Sometimes he doesn't know whether he's coming or going.
+21848,108,101,501000,Sideshow Bob,Springfield Elementary School,He wants to sell your future short!
+21849,108,102,510000,Sideshow Bob,Springfield Elementary School,"Hmm. Bart, we can't let Bob steal the spotlight. We're gonna have to stoop to the lowest common denominator."
+21850,108,103,515000,Bart Simpson,Springfield Elementary School,I can do that.
+21851,108,104,518000,Mayor Joe Quimby,Springfield Elementary School,Ack! Help! I'm being attacked by uh things!
+21853,108,105,523000,Lisa Simpson,Springfield Elementary School,Uncle Mayor was just saying that us kids are the most important natural resource we have!
+21854,108,106,529000,Kent Brockman,Springfield Elementary School,More important than coal?
+21855,108,107,530000,Mayor Joe Quimby,Springfield Elementary School,"Er, uh, er yes."
+21858,108,110,537000,Sideshow Bob,Sideshow Bob's Limousine,"Ohh, that was a big mistake, Bart! No children have ever meddled with the Republican Party and lived to tell about it!"
+21860,108,112,556000,Big Moose,Simpson Home,Stay out of Riverdale!
+21861,108,113,559000,Singers,Simpson Home,WITHOUT A MAYOR QUIMBY / OUR TOWN WOULD REALLY STINK! / WE WOULDN'T HAVE A TIRE YARD / OR A MID-SIZE ROLLER RINK! / WE WOULDN'T HAVE OUR GALLOWS / OR OUR SHINY BIGFOOT TRAPS! / IT'S NOT THE MAYOR'S FAULT / THAT THE STADIUM COLLAPSED.
+21862,108,114,574000,Announcer,Simpson Home,"Quimby. If you were running for Mayor, he'd vote for you."
+21863,108,115,577000,Announcer #2,Simpson Home,Paid for by the Mayor Quimby for Mayor Mayoral Committee.
+21865,108,117,579000,Bart Simpson,Street,"Hey, Four-eyes! Vote Quimby! Hey, Beard-o! Vote Quimby!"
+21866,108,118,583000,Lisa Simpson,Street,"This time, he's the lesser of two evils."
+21867,108,119,586000,Jimbo Jones,Street,"Uh, yeah, yeah. I love Grimby. Uh, could I have some more bumper stickers, please dude?"
+21868,108,120,595000,Jimbo Jones,Street,All right! The mummy's ready for his mystical journey!
+21869,108,121,604000,Milhouse Van Houten,Street,What's haaappening?!
+21871,108,123,606000,Grampa Simpson,LUNCHEONETTE,"That Quimby fella promised to build us a Matlock Expressway! How you gonna top that, smart guy?"
+21872,108,124,616000,Sideshow Bob,LUNCHEONETTE,"Hmm. Oh how's this? I'll not only build the Expressway, I will spend the remainder of this afternoon patiently listening to your interminable anecdotes."
+21874,108,126,625000,Grampa Simpson,LUNCHEONETTE,"Hot ziggity zam! Me first! Not many people know I owned the first radio in Springfield. Warn't much on the air then, just Edison reciting the alphabet over and over. ""A"" he'd say, then ""B""; ""C"" would usually follow..."
+21876,108,128,651000,Scary Announcer,LUNCHEONETTE,"Mayor Quimby supports revolving-door prisons. Mayor Quimby even released Sideshow Bob, a man twice convicted of attempted murder. Can you trust a man like Mayor Quimby? Vote Sideshow Bob for Mayor."
+21879,108,130,670000,Larry King,Springfield Civic Center,"The League of Uninformed Voters presents the Springfield Mayoral Debates. I'm your moderator, Larry King. Now, a word to our audience: Even though we're being broadcast on Fox, there is no need for obnoxious hooting and hollering."
+21882,108,133,694000,Mayor Joe Quimby,Springfield Civic Center,I shouldn't have shaken hands with those old people.
+21883,108,134,702000,Lisa Simpson,Springfield Civic Center,I hope that flu doesn't affect his performance out there.
+21884,108,135,705000,Bart Simpson,Springfield Civic Center,Don't worry. He's taken a million of these capsules.
+21887,108,138,714000,Birch Barlow,CIVIC CENTER,"Sideshow Bob: Councilman Les Wynan says that you're not experienced enough to be mayor. Sir, what do you have to say about that?"
+21888,108,139,723000,Sideshow Bob,CIVIC CENTER,I'd say that Les Wynan ought to do more thinkin' and less whinin'!
+21889,108,140,731000,Lisa Simpson,CIVIC CENTER,There's no Councilman Les Wynan.
+21890,108,141,734000,Bart Simpson,CIVIC CENTER,"Good line, though."
+21891,108,142,735000,Birch Barlow,CIVIC CENTER,"Mayor Quimby, you are well-known, sir, for your lenient stance on crime. But suppose for a second that your house was ransacked by thugs, your family tied up in the basement with socks in their mouths. You try to open the door -- but there's too much blood on the knob--"
+21892,108,143,751000,Mayor Joe Quimby,CIVIC CENTER,What is your question?
+21893,108,144,752000,Birch Barlow,CIVIC CENTER,"My question is about the budget, sir..."
+21896,108,147,767000,Homer Simpson,POLLING PLACE,"Hmm. I don't agree with his Bart-killing policy, but I do approve of his Selma-killing policy."
+21897,108,148,768000,Krusty the Clown,POLLING PLACE,"Well, he framed me for armed robbery, but man, I'm achin' for that upper-class tax cut."
+21899,108,150,785000,Everyone,Springfield Town Hall,Shh!
+21900,108,151,787000,Kent Brockman,Springfield Town Hall,And the results are in. For Sideshow Bob -- one hundred per cent. For Joe Quimby -- one per cent. And we remind you there is a one per cent margin of error.
+21902,108,153,799000,Kent Brockman,Springfield Town Hall,"All right let's go, live, to Bob Headquarters now, for Mayor Terwilliger's victory speech."
+21904,108,155,818000,Kent Brockman,Springfield Town Hall,And just look how happy he is!
+21852,108,158,835000,Homer Simpson,Simpson Home,"It's the Rapture! Quick, get Bart out of the house before God comes!"
+21906,108,159,842000,Sideshow Bob,Simpson Home,"So sorry, Mr. Simpson. Your house is blocking construction of our new Matlock Expressway."
+21907,108,160,850000,Sideshow Bob,Simpson Home,"Now, I am a fair man. You will have seventy-two hours to vacate. At that time, we will blow up your house and any remaining Simpsons."
+21908,108,161,858000,Marge Simpson,Simpson Home,"Homer, we've got to stop them."
+21909,108,162,860000,Homer Simpson,Simpson Home,"I know what you're up to, Mayor Terwigajer. And no one in my family's gonna stand for it!"
+21910,108,163,867000,Grampa Simpson,Simpson Home,"Move your god darned house, Son!"
+21912,108,165,872000,Seymour Skinner,Springfield Elementary School,"Bart, by special request of the Mayor's office, you are going to be left back."
+21913,108,166,878000,Bart Simpson,Springfield Elementary School,You mean I have to repeat the fourth grade?
+21914,108,167,881000,Seymour Skinner,Springfield Elementary School,"Well, yes... but, not for four or five years. Bart, you're going to kindergarten."
+21915,108,168,885000,Bart Simpson,Springfield Elementary School,Kindergarten?
+21916,108,169,887000,Edna Krabappel-Flanders,Springfield Elementary School,Ha!
+21917,108,170,888000,Kindergarten Teacher,Springfield Elementary School,"Now boys and girls, who knows what this is?"
+21918,108,171,892000,Bart Simpson,Springfield Elementary School,Triangle.
+21919,108,172,892000,Kindergarten Teacher,Springfield Elementary School,"Very good, Bart. You have first choice of toys for free play."
+21920,108,173,897000,Bart Simpson,Springfield Elementary School,Cool! I call the Flintstone Phone!
+21921,108,174,901000,FRED FLINTSTONE,Springfield Elementary School,Yabba dabba doo! I like talking to you!
+21924,108,177,908000,Homer Simpson,Simpson Home,We're gonna lose our house and end up living under a bridge like common trolls.
+21925,108,178,912000,Lisa Simpson,Simpson Home,I don't think Bob won that election legally. I can't believe a convicted felon would get so many votes and another convicted felon would get so few.
+21927,108,180,924000,Clerk,HALL OF RECORDS,Here you go. The results of last month's mayoral election. All forty-eight thousand voters and who each one of them voted for.
+21928,108,181,931000,Lisa Simpson,HALL OF RECORDS,I thought this was a secret ballot.
+21929,108,182,932000,Clerk,HALL OF RECORDS,Meh.
+21930,108,183,939000,Lisa Simpson,HALL OF RECORDS,"Okay, Aaron A. Aaronson voted for... Bob. Aaron L. Aaronson voted for... Bob. Arthur B. Ablabab voted for... Bob."
+21931,108,184,963000,Lisa Simpson,HALL OF RECORDS,Hey!
+21933,108,186,969000,Bart Simpson,PARKING STRUCTURE,So whoever it is who wrote that note wants to meet us here tonight?
+21934,108,187,973000,Lisa Simpson,PARKING STRUCTURE,"This is so cool, Bart. We're just like Woodward and Bernstein!"
+21935,108,188,976000,Bart Simpson,PARKING STRUCTURE,"Yeah, except their dad wasn't waiting in the car reading Archie comics."
+21936,108,189,980000,Homer Simpson,PARKING STRUCTURE,Stuck-up Riverdale punks. Think they're too good for me.
+21937,108,190,985000,Shadowy Figure,PARKING STRUCTURE,You're on the right track. Follow the names.
+21938,108,191,988000,Bart Simpson,PARKING STRUCTURE,How the hell do you know?
+21939,108,192,992000,Shadowy Figure,PARKING STRUCTURE,"I can't tell you who I am, but I worked on the campaign."
+21940,108,193,999000,Homer Simpson,PARKING STRUCTURE,"Hey, Mr. Smithers!"
+21941,108,194,1000000,Waylon Smithers,PARKING STRUCTURE,"Well, you might as well give me a ride home now!"
+21943,108,196,1005000,Waylon Smithers,Homer's Car,"I've never gone behind Mr. Burns' back before, but Sideshow Bob's ultra-conservative views conflict with my, choice of lifestyle."
+21944,108,197,1015000,Waylon Smithers,Homer's Car,All I can do is give you one name. Edgar Neubauer. Find him and you'll find your answer.
+21945,108,198,1027000,Lisa Simpson,Homer's Car,No Edgar Neubauer.
+21947,108,200,1038000,Lisa Simpson,Street,This is hopeless. They're gonna demolish our house for sure. We're gonna have to move into a Motel 6.
+21948,108,201,1044000,Bart Simpson,Street,But dad can't afford six dollars a night.
+21949,108,202,1047000,Bart Simpson,Street,Heyyy...
+21950,108,203,1047000,Bart Simpson,Street,Lis! Lis! C'mere! I found him! I found Edgar Neubauer!
+21951,108,204,1051000,Bart Simpson,Street,Oh my God! The dead have risen and they're voting Republican!
+21952,108,205,1059000,Lisa Simpson,Street,"No, Bart, don't you see? Dead people can't vote!"
+21953,108,206,1064000,Lisa Simpson,Street,"Look! Prudence Goodwyfe, died 1641. She voted for Bob, too! So did Buddy Holly, Richie Valens, and the Big Bopper!"
+21955,108,208,1075000,Lisa Simpson,PET CEMETERY,Even the pet cemetery voted for Bob! Look! Mr. and Mrs. Bananas! Humphrey Boa-gart!
+21956,108,209,1077000,Lisa Simpson,PET CEMETERY,"Oh, my poor dead kitty! Please, not you too!"
+21957,108,210,1087000,Lisa Simpson,PET CEMETERY,"All right, Bob! Now it's personal!!"
+21958,108,211,1090000,Bart Simpson,PET CEMETERY,"Hey, uh, he did try to kill me..."
+21961,108,214,1122000,Lionel Hutz,Springfield Town Hall,"Mr. Mayor, is it true you rigged the election?"
+21962,108,215,1125000,Sideshow Bob,Springfield Town Hall,"No, I did not."
+21963,108,216,1127000,Lionel Hutz,Springfield Town Hall,"Kids, help."
+21965,108,217,1132000,Sideshow Bob,Springfield Town Hall,"Oh, I don't mind. We want these children to feel justice has been served. That way, they can sleep soundly tonight on their hard, feculent motel pillows. Well, Bart, Lisa, here I am."
+21966,108,218,1148000,Lisa Simpson,Springfield Town Hall,I have a plan. I think we can trap him.
+21967,108,219,1156000,Lisa Simpson,Springfield Town Hall,"You know, Sideshow Bob, I believe you when you say you're innocent..."
+21968,108,220,1159000,Sideshow Bob,Springfield Town Hall,Indeed I am.
+21969,108,221,1161000,Lisa Simpson,Springfield Town Hall,"Because we all know you're a naive pawn, puppet, if you will, of the most diabolical political genius Springfield has ever known -- Birchibald T. Barlow!"
+21971,108,223,1176000,Lisa Simpson,Springfield Town Hall,"You don't have the intelligence to rig an election by yourself, do you?"
+21972,108,224,1180000,Bart Simpson,Springfield Town Hall,You were just Barlow's lackey!
+21973,108,225,1182000,Lisa Simpson,Springfield Town Hall,You were Ronnie to his Nancy!
+21974,108,226,1183000,Bart Simpson,Springfield Town Hall,Sonny to his Cher!
+21975,108,227,1184000,Lisa Simpson,Springfield Town Hall,Ringo to his rest of the Beatles!
+21976,108,228,1186000,Sideshow Bob,Springfield Town Hall,"Enough! Lies, lies, lies! I did it! I did it all!"
+21978,108,230,1193000,Sideshow Bob,Springfield Town Hall,"There! Is that what you want, you smarmy little bastards?!"
+21979,108,231,1198000,Bart Simpson,Springfield Town Hall,We want the truth!
+21980,108,232,1199000,Sideshow Bob,Springfield Town Hall,"You want the truth?! You can't handle the truth! No truth-handler, you! Bah! I deride your truth-handling abilities!"
+21981,108,233,1208000,Judge Snyder,Springfield Town Hall,Would you get to the point?
+21982,108,234,1211000,Sideshow Bob,Springfield Town Hall,"Yes. Only I could have executed such a masterpiece of electoral fraud. And I have the records to prove it! Here, just look at these! Each one a work of Machiavellian art!"
+21983,108,235,1227000,Judge Snyder,Springfield Town Hall,But why?
+21984,108,236,1228000,Sideshow Bob,Springfield Town Hall,"Because you need me, Springfield! Your guilty conscience may force you to vote Democratic, but deep down inside, you secretly long for a cold-hearted Republican to lower taxes, brutalize criminals, and rule you like a king! That's why I did this -- to protect you from yourselves! Now, if you don't mind, I have a city to run."
+21985,108,237,1249000,Judge Snyder,Springfield Town Hall,Bailiffs! Place the Mayor under arrest!
+21986,108,238,1251000,Sideshow Bob,Springfield Town Hall,"What? Oh, yes. All that stuff I did..."
+21987,108,239,1256000,Lisa Simpson,Springfield Town Hall,"Bart! We did it! Now we get to keep our house, and you get to go back to fourth grade!"
+21989,108,240,1261000,Bart Simpson,Springfield Town Hall,Aww. Tomorrow we were gonna find out who the dish ran away with.
+21990,108,241,1265000,Lisa Simpson,Springfield Town Hall,"The spoon, Bart."
+21991,108,242,1266000,Bart Simpson,Springfield Town Hall,Of course!
+21993,108,244,1272000,Sideshow Bob,Somewhere,"Someday, I'll have my vengeance. Someday, when I find my way out of this savage, roach-ridden cesspool..."
+21994,108,245,1282000,Prisoner #1,Somewhere,"Say, Terwilliger's a Yalie."
+21995,108,246,1284000,Prisoner #2,Somewhere,"Bob, come along! We need an eighth to row against the Princeton alums!"
+21996,108,247,1289000,Sideshow Bob,Somewhere,Princeton?
+21997,108,248,1294000,Prisoner #2,Somewhere,Row. Row. Row.

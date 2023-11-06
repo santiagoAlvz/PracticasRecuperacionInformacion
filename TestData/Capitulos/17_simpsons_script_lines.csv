@@ -1,0 +1,243 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+153613,17,1,8000,Dave Shutton,SUNNY SKY,"So kids, caught anything?"
+153614,17,2,107000,Lisa Simpson,SUNNY SKY,"Not yet, sir."
+153615,17,3,108000,Dave Shutton,SUNNY SKY,"Uh-huh. Ah, What are you using for bait?"
+153616,17,4,110000,Lisa Simpson,SUNNY SKY,"My brother's using worms but I who feel that tranquility far outweighs the actual catching of fish, am using nothing."
+153617,17,5,116000,Dave Shutton,SUNNY SKY,"I see. And uh, what's your name, son?"
+153618,17,6,119000,Bart Simpson,SUNNY SKY,I'm Bart Simpson. Who the hell are you?
+153619,17,7,121000,Dave Shutton,SUNNY SKY,"I'm Dave Shutton. I'm an investigative reporter who's on the road a lot, and uh, I must say that in my day we didn't talk that way to our elders."
+153620,17,8,129000,Bart Simpson,SUNNY SKY,"Well, this is my day and we do, sir."
+153621,17,9,132000,Bart Simpson,SUNNY SKY,All right! We eat tonight!
+153622,17,10,137000,Dave Shutton,SUNNY SKY,"Wait a minute. One, two, three."
+153624,17,12,159000,Marge Simpson,Simpson Kitchen,Well leave it to good old Mary Bailey to finally step in and do something about that hideous genetic mutation.
+153625,17,13,165000,Homer Simpson,Simpson Kitchen,"Mary Bailey. Well, if I was governor, I'd sure find better things to do with my time."
+153539,17,14,169000,Marge Simpson,Simpson Kitchen,Like what?
+153626,17,15,170000,Homer Simpson,Simpson Kitchen,Like getting Washington's birthday and Lincoln's birthday back as separate paid holidays. President's Day! Pfft. What a rip-off! I bust my butt day in and day out --
+153627,17,16,181000,Marge Simpson,Simpson Kitchen,"You're late for work, Homer."
+153628,17,17,182000,Homer Simpson,Simpson Kitchen,So... Someone will punch in for me.
+153629,17,18,183000,Lisa Simpson,Simpson Kitchen,"Try not to spill anything, Dad."
+153630,17,19,186000,Bart Simpson,Simpson Kitchen,"Keep those mutants comin', Homer."
+153631,17,20,187000,Homer Simpson,Simpson Kitchen,I'll mutant you.
+153633,17,22,192000,Homer Simpson,Springfield Nuclear Power Plant,"Oh, man. Plain cake donuts? Thanks for taking all the fancies, guys. Why can't I ever get here on time?"
+153634,17,23,201000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Hi, ho, faceless employees. In a few moments the government inspection team will be touring your plant so look busy and keep your mouths shut. That is all."
+153636,17,25,212000,Waylon Smithers,SECURITY CLEARANCE BOOTH AT POWER PLANT,"Very stirring, sir."
+153637,17,26,212000,Waylon Smithers,SECURITY CLEARANCE BOOTH AT POWER PLANT,Uh oh. Here they come.
+153638,17,27,215000,C. Montgomery Burns,SECURITY CLEARANCE BOOTH AT POWER PLANT,"Hold me, Smithers."
+153639,17,28,221000,Chief Inspector,SECURITY CLEARANCE BOOTH AT POWER PLANT,"Okay men, Geiger counters on."
+153640,17,29,226000,C. Montgomery Burns,SECURITY CLEARANCE BOOTH AT POWER PLANT,"I suppose that's normal background radiation? The kind you would find in any well-maintained nuclear facility? Or, for that matter, playgrounds and hospitals."
+153641,17,30,234000,Chief Inspector,SECURITY CLEARANCE BOOTH AT POWER PLANT,Sorry.
+153643,17,32,235000,Chief Inspector,COOLING TOWER,Gum used to seal crack in cooling tower.
+153644,17,33,239000,C. Montgomery Burns,COOLING TOWER,I'm as shocked as you are.
+153646,17,35,241000,Chief Inspector,Springfield Nuclear Power Plant,Plutonium rod used as paperweight.
+153647,17,36,244000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Now, that shouldn't be."
+153648,17,37,249000,C. Montgomery Burns,Springfield Nuclear Power Plant,Yeah. Well that's always been like that.
+153649,17,38,254000,Homer Simpson,Springfield Nuclear Power Plant,"Uh, uh, just resting my eyes."
+153650,17,39,256000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ah, well done. A rested employee is a vigilant employee."
+153651,17,40,260000,Chief Inspector,Springfield Nuclear Power Plant,Monitoring station unmanned.
+153653,17,42,262000,C. Montgomery Burns,Other Part of Nuclear Plant,"Look here, Inspector. Could I speak to you privately I-in my office?"
+153567,17,44,268000,Chief Inspector,Burns's Office,"Mr. Burns in twenty years I have never seen such a shoddy, deplorable --"
+153656,17,45,274000,C. Montgomery Burns,Burns's Office,"Oh, look! Some careless person has left thousands and thousands of dollars just lying here on my coffee table. Uh, Smithers, why don't we leave the room and hopefully, when we return the pile of money will be gone."
+153657,17,46,293000,C. Montgomery Burns,Burns's Office,"Look Smithers, the money and a very stupid man are still here."
+153658,17,47,298000,Chief Inspector,Burns's Office,"Burns, if I didn't know better I'd think you were trying to bribe me."
+153659,17,48,301000,C. Montgomery Burns,Burns's Office,Is there some confusion about this?
+153660,17,49,304000,C. Montgomery Burns,Burns's Office,"Take it! Take it, take it, you poor schmoe."
+153661,17,50,306000,Chief Inspector,Burns's Office,"Mr. Burns, I am going to overlook this felony. However, I will not overlook the three hundred and forty-two violations I have observed at your plant today. Either bring this place up to code or we'll shut it down. Good-day."
+153662,17,51,322000,C. Montgomery Burns,Burns's Office,"Oh, well... a little dab of paint here, a little spackle there... how much could it possibly cost to fix this place up?"
+153663,17,52,333000,Waylon Smithers,Burns's Office,"Hmmm, approximately fifty-six million dollars, sir."
+153664,17,53,335000,C. Montgomery Burns,Burns's Office,Fifty-six million!
+153665,17,54,336000,Waylon Smithers,Burns's Office,"Don't hit me, sir."
+153666,17,55,337000,C. Montgomery Burns,Burns's Office,"Oh, that I had the strength to take it out on you, Smithers. Now please go. I would be alone."
+153667,17,56,359000,C. Montgomery Burns,Burns's Office,ONCE I BUILT A RAILROAD / MADE IT RUN / MADE IT RACE AGAINST TIME/ ONCE I BUILT A RAILROAD / NOW IT'S DONE / BROTHER CAN YOU SPARE A DIME./ HALF A MILLION BOOTS WENT SLOGGING THROUGH HELL / I WAS THE KID WITH THE DRUM.
+153669,17,58,385000,C. Montgomery Burns,Springfield Nuclear Power Plant,Empty! Bah!!
+153670,17,59,387000,Homer Simpson,Springfield Nuclear Power Plant,Ah! Uh... I'm just resting my eyes. Holy moly! Nine-thirty.
+153671,17,60,393000,Homer Simpson,Springfield Nuclear Power Plant,"Hello, Marge. Sorry I didn't call but it's been a madhouse down here... Yeah, these twelve hour days are killin' me."
+153672,17,61,401000,Homer Simpson,Springfield Nuclear Power Plant,"Echo, echo..."
+153673,17,62,407000,C. Montgomery Burns,Springfield Nuclear Power Plant,"HEY DON'T YOU REMEMBER / THEY CALLED ME AL / IT WAS AL ALL THE TIME / HEY DON'T YOU REMEMBER / I'M YOUR PAL / BUDDY, CAN'T YOU SPARE A DIME."
+153675,17,64,431000,Homer Simpson,ROLLS ROYCE,"Huh? What th... Uh, Mr. Burns?"
+153676,17,65,436000,C. Montgomery Burns,ROLLS ROYCE,Ah!
+153677,17,66,436000,Homer Simpson,ROLLS ROYCE,"Sorry, sir. It's just me, Homer Simpson. Is everything all right?"
+153678,17,67,440000,C. Montgomery Burns,ROLLS ROYCE,"Working late, Simpson?"
+153679,17,68,443000,Homer Simpson,ROLLS ROYCE,"Uh... uh yes, sir."
+153680,17,69,444000,C. Montgomery Burns,ROLLS ROYCE,"You and I are a dying breed, Simpson. I'm going to share something with you. Hop in."
+153681,17,70,453000,Homer Simpson,ROLLS ROYCE,"Ooooh, cushy."
+153682,17,71,454000,C. Montgomery Burns,ROLLS ROYCE,"Homer, they're trying to shut us down."
+153683,17,72,457000,C. Montgomery Burns,ROLLS ROYCE,They say we're contaminating the planet.
+153684,17,73,459000,Homer Simpson,ROLLS ROYCE,"Well, nobody's perfect."
+153685,17,74,461000,C. Montgomery Burns,ROLLS ROYCE,Why can't the government just get off our backs?
+153686,17,75,464000,Homer Simpson,ROLLS ROYCE,"You know, I was just telling the wife that if I was governor, I'd do things a lot differently."
+153687,17,76,468000,C. Montgomery Burns,ROLLS ROYCE,"Oh, get off your soapbox, Simpson! Do you realize how much it costs to run for office? More than any honest man can afford."
+153688,17,77,473000,Homer Simpson,ROLLS ROYCE,"I bet you could afford it, though."
+153689,17,78,475000,Homer Simpson,ROLLS ROYCE,"Uh... don't get me wrong. I mean you're an honest man. I just meant that you could afford to run for governor, if you felt like it. 'Course I'm just rambling because... uh... because you keep staring at me like that, but, but it's true. I mean, if you were governor, you could decide what's safe and what isn't."
+153690,17,79,491000,Homer Simpson,ROLLS ROYCE,"Where are we going, sir?"
+153691,17,80,493000,C. Montgomery Burns,ROLLS ROYCE,To create a new and better world.
+153692,17,81,496000,Homer Simpson,ROLLS ROYCE,"If it's on the way, could you drop me off at my house?"
+153693,17,82,504000,Homer Simpson,ROLLS ROYCE,"Well, he's got my vote."
+153694,17,83,505000,Marge Simpson,ROLLS ROYCE,"Homer, we're a Mary Bailey family."
+153695,17,84,508000,Homer Simpson,ROLLS ROYCE,Mary Bailey isn't going to fire me if I don't vote for her. I'm for Monty Burns.
+153696,17,85,513000,Lisa Simpson,ROLLS ROYCE,"Oooo, a political discussion at our table. I feel like a Kennedy."
+153697,17,86,517000,Marge Simpson,ROLLS ROYCE,"Well, frankly, I don't see how one of the most despicable men who ever lived has a chance against Mary Bailey, the most beloved governor our great state has ever known."
+153699,17,88,526000,Dean Danielson,Burns's Office,"Now, here's the problem as I see it: While Governor Bailey is beloved by all, ninety-eight percent of the voters rate you as despicable or worse. That's why we've assembled the finest campaign team money can buy. This is your speech writer..."
+153700,17,89,539000,C. Montgomery Burns,Burns's Office,Huh uh.
+153701,17,90,539000,Dean Danielson,Burns's Office,your joke writer...
+153702,17,91,539000,C. Montgomery Burns,Burns's Office,Huh uh.
+153703,17,92,539000,Dean Danielson,Burns's Office,your spin doctor...
+153704,17,93,539000,C. Montgomery Burns,Burns's Office,Huh uh.
+153705,17,94,539000,Dean Danielson,Burns's Office,your make-up man...
+153706,17,95,539000,C. Montgomery Burns,Burns's Office,Yeah.
+153707,17,96,539000,Dean Danielson,Burns's Office,and your personal trainer.
+153708,17,97,545000,C. Montgomery Burns,Burns's Office,Oooo!
+153709,17,98,545000,Dean Danielson,Burns's Office,Their job... to turn this Mr. Burns...
+153710,17,99,549000,DANIELSON,Burns's Office,...into this.
+153711,17,100,550000,C. Montgomery Burns,Burns's Office,Why are my teeth showing like that?
+153712,17,101,552000,DANIELSON,Burns's Office,Because you're smiling.
+153713,17,102,554000,C. Montgomery Burns,Burns's Office,"Ah. Excellent. This is exactly the kind of trickery I'm paying you for. But, but how do we turn your average Joe Sixpack against Mary Bailey?"
+153714,17,103,563000,DANIELSON,Burns's Office,With this team of investigators: your muckraker...
+153715,17,104,566000,C. Montgomery Burns,Burns's Office,How do you do.
+153716,17,105,566000,DANEILSON,Burns's Office,Your character assassin...
+153717,17,106,566000,C. Montgomery Burns,Burns's Office,Nice to meet you.
+153718,17,107,566000,DANEILSON,Burns's Office,your mudslinger...
+153719,17,108,566000,C. Montgomery Burns,Burns's Office,Ah...
+153720,17,109,566000,DANIELSON,Burns's Office,your garbologist.
+153721,17,110,570000,C. Montgomery Burns,Burns's Office,Hello!
+153722,17,111,571000,DANIELSON,Burns's Office,Their job is to turn Mary Bailey from this...into this.
+153723,17,112,577000,C. Montgomery Burns,Burns's Office,Visual aids help so much. Thank you.
+153724,17,113,578000,DANIELSON,Burns's Office,"But first, there's a burning issue that we need to address and neutralize immediately."
+153725,17,114,586000,C. Montgomery Burns,Burns's Office,I hate that fish!
+153727,17,116,588000,TV Announcer,Springfield Retirement Castle,Thank you for watching Movie for a Dreary Afternoon. Please stay tuned for a paid political announcement brought to you by the Friends of Montgomery Burns.
+153728,17,117,596000,Grampa Simpson,Springfield Retirement Castle,Burns! Change the channel.
+153729,17,118,598000,Jasper Beardly,Springfield Retirement Castle,You change it.
+153730,17,119,598000,Grampa Simpson,Springfield Retirement Castle,"No, you change it."
+153731,17,120,599000,OLD BEARDED GUY,Springfield Retirement Castle,I changed it last week.
+153732,17,121,601000,Grampa Simpson,Springfield Retirement Castle,Fine. Be a jerk. Then we'll just sit here and watch it.
+153734,17,123,604000,Barney Gumble,Moe's Tavern,"Oh, no. An election! That's one of those deals where they close the bars, isn't it?"
+153735,17,124,610000,Moe Szyslak,Moe's Tavern,"Sorry, Barney."
+153737,17,126,612000,Marge Simpson,Simpson Home,I wonder if he's going to say anything about that horrible fish.
+153738,17,127,615000,Homer Simpson,Simpson Home,"Oh, Marge. What's the big deal? I bet before the papers blew this out of proportion, you didn't even know how many eyes a fish had."
+153741,17,130,623000,Waylon Smithers,TV Studio,"Thirty seconds to air, Mr. Burns."
+153742,17,131,625000,DANIELSON,TV Studio,"Now, remember to smile."
+153743,17,132,626000,C. Montgomery Burns,TV Studio,I am smiling.
+153744,17,133,627000,DANIELSON,TV Studio,You'll have to do better than that.
+153745,17,134,631000,C. Montgomery Burns,TV Studio,How's this?
+153746,17,135,632000,DANIELSON,TV Studio,There you go.
+153747,17,136,633000,C. Montgomery Burns,TV Studio,I'm going to be sore tomorrow.
+153748,17,137,635000,DANIELSON,TV Studio,"Well, we've done all we can, Mr. Burns. The rest is up to you."
+153749,17,138,638000,C. Montgomery Burns,TV Studio,"Oh, don't worry --"
+153750,17,139,638000,C. Montgomery Burns,TV Studio,"-- by the time this paid political announcement is done, every Johnny Lunchpail in this whole stupid state will be eating out of my hand."
+153755,17,144,647000,C. Montgomery Burns,Studio,"Oh, hello friends. I'm Montgomery Burns, your next governor, and I'm here to talk to you about my little friend, here. Blinky."
+153756,17,145,655000,C. Montgomery Burns,Studio,Many of you consider him to be a hideous genetic mutation. Nothing could be further from the truth. But don't take my word for it. Let's ask an actor portraying Charles Darwin what he thinks.
+153757,17,146,666000,Charles Darwin,Studio,"Hello, Mr. Burns."
+153758,17,147,667000,C. Montgomery Burns,Studio,"Oh hello, Charles. Be a good fellow and tell our viewers about your theory of natural selection."
+153759,17,148,672000,Charles Darwin,Studio,"Glad to, Mr. Burns. You see, every so often Mother Nature changes her animals giving them bigger teeth, sharper claws, longer legs or, in this case, a third eye. And if these variations turn out to be an improvement, the new animals thrive and multiply and spread across the face of the earth."
+153760,17,149,691000,C. Montgomery Burns,Studio,"So... you're saying this fish might have an advantage over other fish. It may, in fact, be a kind of super fish!"
+153761,17,150,698000,Charles Darwin,Studio,"I wouldn't mind having a third eye, would you?"
+153762,17,151,700000,C. Montgomery Burns,Studio,"No. You see, friends... if our anti-nuclear naysayers and choose-up-siders were to come upon an elephant frolicking in the waters next to our nuclear power plant, they'd probably blame his ridiculous nose on the nuclear bogeyman."
+153763,17,152,715000,C. Montgomery Burns,Studio,"The truth is this fish is a miracle of nature with a taste that can't be beat. Mmmm mmmm. So, to summarize: Say what you want about me. I can take the slings and arrows. But stop slandering poor, defenseless Blinky. Good night and God bless."
+153764,17,153,735000,Singers,Studio,ONLY A MORON/ WOULDN'T CAST HIS VOTE/FOR MONTY BURNS.
+153766,17,155,742000,Barney Gumble,Moe's Tavern,Wow! Super fish!
+153767,17,156,744000,Moe Szyslak,Moe's Tavern,I wish the government would get off his back.
+153769,17,158,747000,Grampa Simpson,Springfield Retirement Castle,That Burns is just what this state needs... young blood.
+153771,17,160,752000,Homer Simpson,Simpson Home,"I hope Burns and I can count on your support, honey."
+153772,17,161,755000,Marge Simpson,Simpson Home,Homer... I'm a Bailey Booster.
+153773,17,162,757000,Homer Simpson,Simpson Home,"Oh, yeah? Well, I'm a Burns Booster. Ow!"
+153775,17,164,761000,DANIELSON,Burns's Office,"Congratulations, Mr. Burns. The latest polls show you're up six points."
+153776,17,165,765000,C. Montgomery Burns,Burns's Office,Giving me a total of...
+153777,17,166,767000,DANIELSON,Burns's Office,Six. But we're on our way!
+153778,17,167,769000,MARY BAILEY,Burns's Office,"My worthy opponent seems to think that the voters of this state are gullible fools. I, however, prefer to rely on their intelligence and good judgment."
+153779,17,168,780000,C. Montgomery Burns,Burns's Office,And I say taxes are too high!
+153780,17,169,810000,C. Montgomery Burns,Burns's Office,Have you found any dirt on Mary Bailey?
+153781,17,170,812000,Investigator #1,Burns's Office,"Well, we've gone through her garbage..."
+153782,17,171,813000,Investigator #2,Burns's Office,We've talked to her maid...
+153783,17,172,815000,Investigator #1,Burns's Office,"And so far, the only negative thing we have found is from some guy who dated her when she was sixteen."
+153784,17,173,819000,C. Montgomery Burns,Burns's Office,"Ah, and?"
+153785,17,174,820000,Investigator #3,Burns's Office,He felt her up.
+153786,17,175,822000,C. Montgomery Burns,Burns's Office,Bah! Not good enough!
+153787,17,176,823000,C. Montgomery Burns,Burns's Office,We're gonna send - a message - to those bureaucrats - down there in the State Capital!
+153788,17,177,833000,Bart Simpson,Burns's Office,Is your boss Governor yet?
+153789,17,178,835000,Homer Simpson,Burns's Office,"Not yet, son. Not yet."
+153790,17,179,838000,DANIELSON,Burns's Office,The voters now see you as imperial and God-like.
+153791,17,180,841000,C. Montgomery Burns,Burns's Office,Hot dog!
+153792,17,181,843000,DANIELSON,Burns's Office,But there's a downside to it. The latest polls indicate you're in danger of losing touch with the common man.
+153793,17,182,847000,C. Montgomery Burns,Burns's Office,"Oh, dear. Heaven forefend."
+153794,17,183,848000,DANIELSON,Burns's Office,"Which is why the night before the election, we want you to have dinner at the home of one of your workers."
+153795,17,184,855000,C. Montgomery Burns,Burns's Office,Oh. I get your angle. Every Joe Meatball and Sally Housecoat in this God-forsaken state will see me hunkering down for chow with Eddie Punchclock. The media will have a field day!
+153796,17,185,867000,DANIELSON,Burns's Office,The only question is -- can we find someone common enough...
+153797,17,186,881000,C. Montgomery Burns,Burns's Office,"Well, I... I knew there would be sacrifices."
+153799,17,188,894000,Homer Simpson,Simpson Home,"Ah... great toast, Marge. Hmmm. Oh, by the way, the night before the election Mr. Burns is coming over for dinner."
+153800,17,189,901000,Marge Simpson,Simpson Home,What!
+153801,17,190,903000,Homer Simpson,Simpson Home,"And some reporters and camera crews, but you don't need to feed them."
+153802,17,191,905000,Bart Simpson,Simpson Home,Cool man! A media circus.
+153803,17,192,906000,Marge Simpson,Simpson Home,Absolutely not!
+153804,17,193,907000,Homer Simpson,Simpson Home,"Come on, Marge."
+153805,17,194,909000,Marge Simpson,Simpson Home,Huh uh. I'm going to be ringing doorbells for Mary Bailey that night.
+153806,17,195,913000,Homer Simpson,Simpson Home,"Kids, please leave the room. I don't want you to see this."
+153807,17,196,917000,Bart Simpson,Simpson Home,Uh oh.
+153808,17,197,918000,Homer Simpson,Simpson Home,"Please, please, please, please, please, please, please, please, please, please."
+153810,17,199,924000,DANIELSON,Simpson Home,"We're hoping that one of the children might pop up with a question about the upcoming election. Little girl, do you think you can memorize this by dinner time tomorrow?"
+153811,17,200,930000,Lisa Simpson,Simpson Home,"""Mr. Burns, your campaign seems to have the momentum of a runaway freight train. Why are you so popular?"""
+153812,17,201,935000,DANIELSON,Simpson Home,Very good.
+153813,17,202,938000,Lisa Simpson,Simpson Home,"Hmmm. Well as long as I'm asking something, can I ask him to assuage my fears that he's contaminating the planet in a manner that may one day render it uninhabitable?"
+153814,17,203,945000,DANIELSON,Simpson Home,"No, dear. The card question will be fine."
+153815,17,204,947000,Marge Simpson,Simpson Home,Well I think the non-card question is a valid one.
+153816,17,205,948000,Homer Simpson,Simpson Home,"Marge! Don't worry. My daughter's very bright, I'm sure she'll be able to memorize your question by dinner time tomorrow."
+153818,17,206,954000,DANIELSON,Simpson Home,"And finally, Mr. Burns wants you to appear very affectionate to him. But we must remind you, he hates being touched."
+153821,17,209,967000,Homer Simpson,Simpson Home,"Marge, get back in bed."
+153822,17,210,971000,Marge Simpson,Simpson Home,"No, I'm just fine right here."
+153823,17,211,973000,Homer Simpson,Simpson Home,What's wrong? I just want to snuggle.
+153824,17,212,975000,Marge Simpson,Simpson Home,"Well, I don't feel like snuggling."
+153825,17,213,976000,Homer Simpson,Simpson Home,What's that got to do with it?
+153826,17,214,978000,Marge Simpson,Simpson Home,I don't want to snuggle with anybody who's not letting me express myself.
+153827,17,215,981000,Homer Simpson,Simpson Home,"But you do get to express yourself. In the lovely home you keep, and the food you serve."
+153828,17,216,986000,Marge Simpson,Simpson Home,"Okay, Homer. Fair enough. You got it! All right! Good! That's it. That's how I'm gonna express myself. That's right. Goodnight."
+153829,17,217,997000,Homer Simpson,Simpson Home,Huh?
+153830,17,218,1009000,Make-up Man,Simpson Home,"Well, what do we think?"
+153831,17,219,1011000,Homer Simpson,Simpson Home,"Hey! Hello, handsome!"
+153832,17,220,1014000,DANIELSON,Simpson Home,"Hey, get that stuff off his face. We're here to have dinner with the common man, not Tyrone Power."
+153833,17,221,1020000,Gregor,Simpson Home,The latest polls are in. It's dead even -- fifty-fifty. This cornball stunt is gonna put us over the top.
+153834,17,222,1029000,Bart Simpson,Simpson Home,Whoa! He's here!
+153836,17,224,1034000,C. Montgomery Burns,House,"Hello, Homer. Marge, you look dazzling. Oh, and look, I've brought noodle kugel."
+153837,17,225,1045000,Homer Simpson,House,"Bad dog! Bad neighbor dog! Here, let me help you up, Mr. Burns."
+153838,17,226,1051000,C. Montgomery Burns,House,"I love dogs... babies, too."
+153839,17,227,1056000,C. Montgomery Burns,House,"Aaaah... kitty, kitty."
+153840,17,228,1058000,Homer Simpson,House,"Are you all right, Mr. Burns?"
+153841,17,229,1060000,C. Montgomery Burns,House,"Oh, of course. A little roughhousing with the pets is good for a man's appetite."
+153843,17,231,1070000,DANIELSON,Simpson Home,"The latest polls are in. The statesman-like way you handled the pet incident has put you over the top. You're ahead fifty-one to forty-nine. Congratulations, Mr. Governor!"
+153844,17,232,1076000,C. Montgomery Burns,Simpson Home,Excellent.
+153845,17,233,1080000,Homer Simpson,Simpson Home,"Bart, would you like to say grace?"
+153846,17,234,1083000,Bart Simpson,Simpson Home,"Dear God, we paid for all this stuff ourselves, so thanks for nothin'."
+153817,17,235,1088000,C. Montgomery Burns,Simpson Home,Only an innocent child could get away with such blasphemy. God bless them all. Amen.
+153848,17,236,1096000,DANIELSON,Simpson Home,He's smokin'. He's smokin'.
+153849,17,237,1100000,Homer Simpson,Simpson Home,"""You know, Mr. Burns, my family and I feel that taxes are too high. Where do you stand on this highly controversial issue?"""
+153850,17,238,1112000,C. Montgomery Burns,Simpson Home,Goodness! I didn't realize this casual dinner was going to turn into a charged political debate.
+153851,17,239,1117000,Homer Simpson,Simpson Home,I was only reading what the card...
+153852,17,240,1118000,C. Montgomery Burns,Simpson Home,"Homer, I agree with you and, if I'm elected governor , I will lower taxes whether those bureaucrats in the State capital like it or not."
+153853,17,241,1127000,C. Montgomery Burns,Simpson Home,"Lisa, do you have a question you would like to ask your Uncle Montgomery?"
+153854,17,242,1131000,Lisa Simpson,Simpson Home,"Yes, sir. A very inane one. Mr. Burns, your campaign seems to have the momentum of a runaway freight train. Why are you so popular?"
+153855,17,243,1141000,C. Montgomery Burns,Simpson Home,"Oooh, a tough question, but a fair one. Lisa, there's no single answer. Some voters respond to my integrity. Others are more impressed with my incorruptibility... still others by my determination to lower taxes, and the bureaucrats in the state capital can put that in their pipes and smoke it."
+153856,17,244,1159000,Lisa Simpson,Simpson Home,"Oh Mom, that felt awful."
+153857,17,245,1161000,Marge Simpson,Simpson Home,"I'm sorry, dear. It will all be over soon."
+153858,17,246,1164000,Lisa Simpson,Simpson Home,"But Mom, we've become the tools of evil."
+153859,17,247,1166000,Marge Simpson,Simpson Home,"Lisa, you're learning many lessons tonight and one of them is to always give your mother the benefit of the doubt."
+153860,17,248,1174000,C. Montgomery Burns,Simpson Home,"...some can't even get a fair shake, or even a square deal... Ummmm, smells delightful."
+153861,17,249,1185000,Bart Simpson,Simpson Home,All right! Three eyed fish!
+153862,17,250,1188000,Marge Simpson,Simpson Home,"Can I have your plate, Mr. Burns?"
+153863,17,251,1225000,DANIELSON,Simpson Home,Ruined before it hit the ground.
+153864,17,252,1227000,Reporter #1,Simpson Home,Get me the city desk...
+153865,17,253,1228000,Reporter #2,Simpson Home,"Here's your headline, Phil: ""Burns Can't Swallow Own Story."""
+153866,17,254,1229000,Scott Christian,Simpson Home,The latest polls indicate Burns' popularity has plummeted to earth like so much half-chewed fish.
+153867,17,255,1236000,C. Montgomery Burns,Simpson Home,"You must have a few tricks left up your sleeves. Smithers, boil some coffee. We're not licked yet."
+153868,17,256,1242000,DANIELSON,Simpson Home,"Yes, we are. Come on boys, the old guy's finished."
+153869,17,257,1244000,C. Montgomery Burns,Simpson Home,Wait! Come back! You can't do this to me! I'm Charles Montgomery Burns!
+153870,17,258,1259000,C. Montgomery Burns,Simpson Home,"Smithers, tip over this table for me!"
+153871,17,259,1262000,Waylon Smithers,Simpson Home,Yes sir.
+153872,17,260,1263000,Marge Simpson,Simpson Home,Homer... Homer... make them stop.
+153873,17,261,1267000,Homer Simpson,Simpson Home,"Uh, Mr. Burns... Uh, Mr. Burns..."
+153874,17,262,1270000,C. Montgomery Burns,Simpson Home,Shut up and wreck something.
+153875,17,263,1272000,Lisa Simpson,Simpson Home,"Mr. Burns, I hardly see what destroying our meager possessions is going to accomplish."
+153876,17,264,1277000,C. Montgomery Burns,Simpson Home,"She's right. Take me home, Smithers. We'll destroy something tasteful."
+153877,17,265,1286000,C. Montgomery Burns,Simpson Home,"Ironic, isn't it Smithers? This anonymous clan of slack-jawed troglodytes has cost me the election, and yet if I were to have them killed, I would be the one to go to jail. That's democracy for you."
+153878,17,266,1299000,Waylon Smithers,Simpson Home,"You are noble and poetic in defeat, sir."
+153879,17,267,1301000,C. Montgomery Burns,Simpson Home,"Simpson, I shall make it the focus of my remaining years that your dreams will go unfulfilled."
+153880,17,268,1308000,Bart Simpson,Simpson Home,"Uh oh. You're busted, Dad."
+153881,17,269,1310000,Homer Simpson,Simpson Home,"Oh. My dreams will go unfulfilled! Oh no. I don't like the sound of that one bit. That means I have nothing to hope for. Marge, make it better. Please. Can't you make it better, huh?"
+153882,17,270,1321000,Marge Simpson,Simpson Home,"Homer, when a man's biggest dreams include seconds on dessert, occasional snuggling, and sleeping till noon on weekends, no one man can destroy them."
+153883,17,271,1332000,Homer Simpson,Simpson Home,"Hey, you did it!"

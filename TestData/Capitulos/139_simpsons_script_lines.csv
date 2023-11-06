@@ -1,0 +1,229 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+30007,139,9,81000,Lisa Simpson,Simpson Home,"Hey, I thought Krusty was Jewish..."
+30009,139,10,83000,Lisa Simpson,Simpson Home,Christmas is a time when people of all religions come together to worship Jesus Christ.
+30010,139,11,94000,Kids,Simpson Home,Bo-ring!
+30011,139,12,100000,Kids,Simpson Home,Help!
+30012,139,13,101000,Santa Claus,Simpson Home,Ya want excitement?! Shove this up yer stocking!!
+30013,139,14,106000,Bart Simpson,Simpson Home,Whoa!!
+30014,139,15,115000,Lisa Simpson,Simpson Home,Hmm. That looks entertaining.
+30015,139,16,117000,Bart Simpson,Simpson Home,"Oh, yeah."
+30016,139,17,118000,Santa Claus,Simpson Home,"So tell your folks: Buy me ""BoneStorm"" or go to hell!"
+30017,139,18,121000,Bart Simpson,Simpson Home,Buy me BoneStorm or go to hell!!
+30018,139,19,127000,Marge Simpson,Simpson Home,Bart!
+30019,139,20,127000,Homer Simpson,Simpson Home,"Young man, in this house, we use a little word called ""please""..."
+30020,139,21,127000,Bart Simpson,Simpson Home,It's the coolest video game ever!
+30021,139,22,133000,Marge Simpson,Simpson Home,"I'm sorry, honey, but those games cost up to and including seventy dollars. And they're violent and they distract you from your schoolwork."
+30022,139,23,140000,Bart Simpson,Simpson Home,"Those are all good points, but the problem is they don't result in me getting the game."
+30023,139,24,143000,Homer Simpson,Simpson Home,"I know how you feel, Bart. When I was your age, I wanted an electric football game more than anything in the world, and my parents bought it for me, and it was the happiest day of my life. Well, goodnight."
+30024,139,25,157000,Bart Simpson,Simpson Home,"Oh, I'll never get that game."
+30025,139,26,158000,Marge Simpson,Simpson Home,Tuck-in time!
+30026,139,27,160000,Marge Simpson,Simpson Home,ALL ABOARD THE SLEEPY TRAIN / TO VISIT MOTHER GOOSE / BARTY'S STOP IS SNOOZY LANE / TO REST HIS SWEET CABOOSE.
+30027,139,28,170000,Bart Simpson,Simpson Home,"Mo-om, I'm not a little kid anymore. Tuck-in Time is lame."
+30028,139,29,176000,Marge Simpson,Simpson Home,"Well, if loving my kids is ""lame,"" then I guess I'm just a big lame."
+30029,139,30,181000,Bart Simpson,Simpson Home,"Mom, it's lame to be proud of being lame."
+30030,139,31,184000,Marge Simpson,Simpson Home,"Well, life is like a box of chocolates --"
+30031,139,32,187000,Bart Simpson,Simpson Home,"Mom! No, Mom!"
+30032,139,33,191000,Marge Simpson,Simpson Home,-- You never know what --
+30033,139,34,191000,Marge Simpson,Simpson Home,--- you're gonna get...
+30035,139,36,197000,Marge Simpson,Street,Ninety-nine cents!
+30037,139,38,201000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,I want to buy a copy of BoneStorm. Here's ninety-nine cents.
+30039,139,39,205000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,Allow me to summarize the proposed transaction: you wish to purchase BoneStorm for ninety-nine cents. Net profit to me: negative fifty-nine dollars.
+30040,139,40,213000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Oh, oh please take my fifty-nine dollars. I don't want it. It's yours."
+30041,139,41,219000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"Seeing as we are unfamiliar with sarcasm, I shall close the register at this point... ... and state that ninety-nine cents is the rental price."
+30042,139,42,226000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Then may I please rent it, please?"
+30043,139,43,229000,Comic Book Guy,The Android's Dungeon & Baseball Card Shop,"No, you may not. I am all out. Though I do have a surprising abundance of Lee Carvallo's Putting Challenge."
+30046,139,46,241000,Bart Simpson,Sidewalk,Milhouse has BoneStorm!
+30048,139,48,245000,Milhouse Van Houten,Van Houten Home,"This is great! And all I've done is enter my name! ""Thrillhouse!"""
+30049,139,49,252000,Bart Simpson,Van Houten Home,"Say, Cool Dude, can I play, too?"
+30050,139,50,255000,Milhouse Van Houten,Van Houten Home,"Uh, uh... it's only a one player game."
+30051,139,51,257000,Bart Simpson,Van Houten Home,"Then how come it says ""2nd Player Score""?!"
+30052,139,52,260000,Milhouse Van Houten,Van Houten Home,Mom! Bart's swearing!
+30055,139,55,264000,Bart Simpson,Store,"Hmmm. Maybe if I stand next to the games looking sad, someone will feel sorry for me and buy me one."
+30057,139,57,290000,Rich Suburban Mom,Try-N-Save,"Gavin, don't you already have this game?"
+30058,139,58,293000,SPOILED LITTLE BOY,Try-N-Save,"No, Mom, you idiot. I have BloodStorm and BoneSquad and BloodStorm II, stupid."
+30059,139,59,299000,Rich Suburban Mom,Try-N-Save,"Oh, I'm sorry, honey. We'll take a BoneStorm."
+30060,139,60,302000,Gavin,Try-N-Save,Get two. I'm not sharing with Caitlin.
+30061,139,61,307000,Bart Simpson,Try-N-Save,That must be the happiest kid in the world.
+30062,139,62,311000,Jimbo Jones,Try-N-Save,"Psst. Hey, Simpson! Check this out."
+30063,139,63,315000,Nelson Muntz,Try-N-Save,Look what I got!
+30064,139,64,317000,Nelson Muntz,Try-N-Save,It's the kind I like!
+30065,139,65,319000,Bart Simpson,Try-N-Save,Are you guys shoplifting?
+30066,139,66,321000,Jimbo Jones,Try-N-Save,"Four finger discount, dude."
+30067,139,67,324000,Nelson Muntz,Try-N-Save,"Shoplifting is a victimless crime, like punching someone in the dark."
+30068,139,68,347000,Mario,Try-N-Save,"Go ahead-a, Bart. Take-a the BoneStorm!"
+29934,139,69,352000,"""Mario"" #2",Try-N-Save,"The store is-a so rich, she'll-a never notice."
+30038,139,70,355000,Donkey Kong,Try-N-Save,It's the company's fault for making you want it so much.
+29861,139,71,359000,Lee Carvallo,Try-N-Save,"Don't do it, son. How's that game gonna help your putting?"
+30070,139,72,363000,Sonic the Hedgehog,Try-N-Save,Just take it! TakeItTakeItTakeItTakeItTakeIt! TAKE IT!
+30071,139,73,383000,Bart Simpson,Try-N-Save,I'm outside. I got away with it! I'm free!
+30072,139,74,389000,Detective,Try-N-Save,"Sir, would you open your coat please?"
+30073,139,75,392000,Bart Simpson,Try-N-Save,Uh... I don't think this is the kind of coat that opens.
+30074,139,76,396000,Detective,Try-N-Save,"Please step back into the store, sir."
+30076,139,78,401000,Rich Suburban Mom,Try-N-Save,"Tut, tut, tut. That boy's parents must've made some terrible mistakes."
+30077,139,79,404000,Gavin,Try-N-Save,"Shut up, Mom."
+30078,139,80,410000,Santa Claus,Try-N-Save,"Ho ho ho! Here you go, li'l fella!"
+30079,139,81,414000,Detective,Try-N-Save,No. Not for him.
+30080,139,82,415000,Santa Claus,Try-N-Save,Oh. I see.
+30081,139,83,438000,Troy McClure,Try-N-Save,"Hi, I'm Troy McClure. You might remember me from such public-service videos as ""Designated Drivers: The Life-Saving Nerds"" and ""Phony Tornado Alarms Reduce Readiness."" I'm here today to give you the skinny on shoplifting, thereby completing my plea bargain with the good people at Foot Locker of Beverly Hills."
+30082,139,84,455000,Troy McClure,Try-N-Save,"Shoplifting began here, in ancient Phoenicia. Thieves would literally lift the corner of a shop in order to snatch the sweet, sweet olives within. Oh, Sheheqazaramesh , will you ever learn? Flash forward to ancient Babylonia --"
+30083,139,85,470000,Detective,Try-N-Save,"Alright, show's over."
+30084,139,86,471000,Bart Simpson,Try-N-Save,E-excuse me?
+30085,139,87,473000,Detective,Try-N-Save,"You think you're pretty smart, don't you?"
+30086,139,88,475000,Bart Simpson,Try-N-Save,No.
+30087,139,89,476000,Detective,Try-N-Save,"Don't smart off to me, smart guy."
+30088,139,90,477000,Bart Simpson,Try-N-Save,I-I-I could pay for the game. I'll pay for it.
+30089,139,91,480000,Detective,Try-N-Save,"That kind of mush might fly at Lamps Plus, but don't peddle it here. If I wanted smoke blown up my ass, I'd be at home with a pack of cigarettes and a short length of hose."
+30091,139,93,490000,Detective,Try-N-Save,"That's it, Mr. Comedian. I'm calling your parents."
+30093,139,95,497000,Detective,Try-N-Save,"Hello, Mr. and Mrs. Simpson, this is Detective Don Brodka from Try-N-Save security. That's right, Don Brodka. Your son Bart has been caught shoplifting. Uh-huh."
+30094,139,96,509000,Detective,Try-N-Save,"It's a shame, I know. But try to have a merry Christmas."
+30095,139,97,515000,Detective,Try-N-Save,They weren't home. Uh-huh. But I left a message on their answering machine. That's right.
+30096,139,98,520000,Bart Simpson,Try-N-Save,"Um, okay, I've really really really learned my lesson. Can I please go now?"
+30097,139,99,524000,Detective,Try-N-Save,"Yeah, get out of my sight."
+30098,139,100,527000,Detective,Try-N-Save,"Hey kid, one more thing: if you ever set foot in this store again, you'll be spending Christmas in Juvenile Hall, capiche?"
+30099,139,101,537000,Detective,Try-N-Save,"Well, do you understand?!"
+30100,139,102,539000,Bart Simpson,Try-N-Save,"Everything except ""capiche""..."
+30103,139,105,550000,Bart Simpson,Street,"Gotta change that answering machine tape! Oh God, I gotta change that tape!"
+30104,139,106,555000,Homer Simpson,Street,"Gotta change Maggie! Dear God, we gotta change Maggie!"
+30106,139,108,565000,Homer Simpson,Simpson Home,Hmmm. We didn't have a message when we left. How very odd.
+30107,139,109,570000,Answering Machine,Simpson Home,"Hello, Muddah. Hello, Faddah. Here I am, at Camp Granada..."
+30108,139,110,577000,Homer Simpson,Simpson Home,"Marge, is Lisa at Camp Granada?"
+30109,139,111,583000,Bart Simpson,Simpson Home,Now to put this tape where no one will ever listen to it.
+30110,139,112,589000,Marge Simpson,Simpson Home,"Homer, didn't you get any milk? All I see is egg nog."
+30111,139,113,592000,Homer Simpson,Simpson Home,"'Tis the season, Marge! We only get thirty sweet, noggy days, then the government takes it away again!"
+30112,139,114,600000,Lisa Simpson,Simpson Home,I think I'm having chest pains.
+30113,139,115,605000,Marge Simpson,Simpson Home,"Bart, get your suit on."
+30114,139,116,606000,Bart Simpson,Simpson Home,What for?
+30115,139,117,607000,Marge Simpson,Simpson Home,We're getting our Christmas picture taken.
+30116,139,118,610000,Bart Simpson,Simpson Home,"Well, you lucked out, Marge my man, 'cause I'm in a smiling mood today."
+30117,139,119,615000,Marge Simpson,Simpson Home,"Oh, good. So get ready, and before you know it we'll be at the Try-N-Save."
+30118,139,120,619000,Bart Simpson,Simpson Home,Try-N-Save?!
+30119,139,121,622000,Marge Simpson,Simpson Home,"Ahh, my teapots are ready."
+30120,139,122,624000,Detective,Simpson Home,"If you ever set foot in this store again, you'll be spending Christmas in Juvenile Hall... Juvenile Hall... Juvenile Hall..."
+30121,139,123,633000,Guard,Simpson Home,"Stand behind the yellow line! You will now receive your Christmas presents, donated by the Port Authority Lost & Found Office. Pass your chit to Santa to receive your gift! If you do not have a chit, you will not receive a gift!"
+30122,139,124,647000,Jimbo Jones,Simpson Home,Wow! The March 8th newspaper!
+30123,139,125,651000,Nelson Muntz,Simpson Home,Cool! A book of carpet samples!
+30124,139,126,655000,Bart Simpson,Simpson Home,"Come on, new bike!"
+29909,139,127,660000,Bart Simpson,Simpson Home,Oh. A soiled wig.
+30008,139,128,662000,Mangy Santa,Simpson Home,Morry Hasshass ana Offy Ew Ear.
+30125,139,130,667000,Marge Simpson,Simpson Home,"Bart, what's taking so long? If you're having that problem with your zipper, I can send your father up."
+30126,139,131,672000,Homer Simpson,Simpson Home,"Oh, no, I'm not."
+30127,139,132,675000,Marge Simpson,Simpson Home,What's the matter with your face? Is that a fake nose? Are you wearing chin putty?
+30128,139,133,681000,Bart Simpson,Simpson Home,I don't have to listen to these wild allegations.
+30129,139,134,687000,Marge Simpson,Simpson Home,"Please, Bart, no more pranks. It would mean so much to me if we could have just one nice family photo."
+30130,139,135,699000,Homer Simpson,Simpson Home,Hey! I don't remember saying that!
+30132,139,137,703000,Marge Simpson,Simpson Car,Uh-oh. Almost forgot to lock the doors.
+30133,139,138,710000,Detective,Simpson Car,"I hope you're going to the Valley Vista Try-N-Save, kid, 'cause you don't want to come to my store. Cat-feesh?"
+30135,139,140,724000,Bart Simpson,Try-N-Save,"So we're just going to do this photo and get out, right? Ba-da-bing ba-da-boom?"
+30136,139,141,728000,Lisa Simpson,Try-N-Save,I wanna look at the pets and write things on the typewriters and see if the new dictionaries are in!
+30137,139,142,732000,Marge Simpson,Try-N-Save,Okay.
+30138,139,143,733000,Homer Simpson,Try-N-Save,I wanna price some flip-flops and smell the new tires and consult the pharmacist for some free medical advice!
+30139,139,144,738000,Marge Simpson,Try-N-Save,"Sure. We're gonna have a great day. Ba-da-bing ba-da-boom, right Bart? Bart?"
+30140,139,145,744000,Marge Simpson,Try-N-Save,"What's wrong, honey?"
+30141,139,146,745000,Homer Simpson,Try-N-Save,Uh-oh. Somebody's got tired little legs.
+30142,139,147,756000,Homer Simpson,Try-N-Save,"Hmm. Wonder where the flip-flops are.... ""Menswear?"""
+30143,139,148,760000,Homer Simpson,Try-N-Save,"Maybe it's ""Sporting Goods""... Wait, no, ""Sleepwear""... Oh, probably ""Better Living."""
+30146,139,151,769000,Marge Simpson,Try-N-Save,"Oh, Homie. Look at that watch. I've always wanted a watch like that."
+30147,139,152,773000,Homer Simpson,Try-N-Save,"Well, maybe someone will give you one for Christmas..."
+148569,139,153,778000,Homer's Brain,Try-N-Save,Now she'll really be surprised when she opens that ironing board cover!
+30148,139,154,786000,Homer Simpson,Try-N-Save,Pfft. Must have been a pretty slow century.
+30149,139,155,793000,Bart Simpson,Try-N-Save,The store detective!
+30150,139,156,795000,Bart Simpson,Try-N-Save,"Hey Assel Adams, let's go! Take the photo!"
+30151,139,157,798000,Marge Simpson,Try-N-Save,Wait! Wait! I don't want Maggie's face hidden behind that pacifier.
+30152,139,159,805000,Photographer,Try-N-Save,"Don't worry, Momma. I can put a smile on Baby's face."
+30153,139,160,807000,Photographer,Try-N-Save,"Okay, Sugarplum, it's time to meet Mr. Funny-Voice. Helloooo-- --oooh, it's just air."
+30154,139,161,818000,Bart Simpson,Try-N-Save,"Well, c'mon! Hurry up!"
+30155,139,162,819000,Photographer,Try-N-Save,"Okay, people."
+30156,139,163,819000,Photographer,Try-N-Save,"One, two, three."
+30157,139,164,823000,Detective,Try-N-Save,I thought I told you: no returns for busted merchandise.
+30158,139,165,827000,Homer Simpson,Try-N-Save,What are you doing to my son?!!
+30159,139,166,829000,Detective,Try-N-Save,I'm afraid your son broke the Eleventh Commandment: Thou shalt not steal.
+30160,139,167,834000,Marge Simpson,Try-N-Save,That's crazy! Bart's not a shoplifter! He's just a little boy!
+30161,139,168,838000,Detective,Try-N-Save,"Oh sure, now he's just a little boy stealing little toys, but someday he'll be a grown man stealing stadiums... And quarries."
+30162,139,169,847000,Marge Simpson,Try-N-Save,"My son may not be perfect, but I know in my heart he's not a shoplifter."
+30163,139,170,854000,Marge Simpson,Try-N-Save,Fine. Play the tape. Then everyone can see you've got the wrong boy.
+30164,139,171,859000,Bart Simpson,Try-N-Save,"Wait! Mom, I don't want you to see this."
+30165,139,172,864000,Bart Simpson,Try-N-Save,I did it.
+30167,139,174,874000,Marge Simpson,Try-N-Save,"Oh, Bart."
+30169,139,176,883000,Homer Simpson,Simpson Home,"Stealing?! How could you?! Haven't you learned anything from that guy who gives those sermons at church? Captain what's-his-name? We live in a society of laws. Why do you think I took you to all those ""Police Academy"" movies? For fun? Well, I didn't hear anybody laughing, did you? Except at that guy who made sound effects. Where was I? Oh yeah, stay out of my booze!"
+30170,139,177,915000,Bart Simpson,Simpson Home,"Mom, I'm really sorry."
+30171,139,178,918000,Marge Simpson,Simpson Home,I know you are...
+30172,139,179,920000,Bart Simpson,Simpson Home,Is there anything I can do?
+30173,139,180,922000,Marge Simpson,Simpson Home,I don't know. Why don't you go to bed?
+30174,139,181,926000,Bart Simpson,Simpson Home,Okay.
+30176,139,183,937000,Bart Simpson,Simpson Home,"Man, I thought Mom was gonna scream me stupid. She didn't even raise her voice."
+30177,139,184,942000,Lisa Simpson,Simpson Home,"I admit I haven't known Mom as long as you have, but I know when she's really upset. Her heart won't just wipe clean like this bathroom counter-top. It absorbs everything that touches it, like this bathroom rug."
+30179,139,185,953000,Bart Simpson,Simpson Home,Really? You think this might be one of those forever-type things?
+30180,139,186,963000,Marge Simpson,Simpson Home,Lisa's on the sleepy train / To rest her weary head / Her ticket is a candy cane / Made out of gingerbread.
+30181,139,187,974000,Lisa Simpson,Simpson Home,"Goodnight, Mom."
+30182,139,188,975000,Marge Simpson,Simpson Home,"Goodnight, sweetheart."
+30183,139,189,978000,Bart Simpson,Simpson Home,"Oh great, the tuck-in express in right on time."
+30184,139,190,984000,Marge Simpson,Simpson Home,Goodnight.
+30185,139,191,991000,Homer Simpson,Simpson Home,"I've figured out the boy's punishment. First: he's grounded. No leaving the house, not even for school. Second: No eggnog. In fact, no nog period. And third, absolutely no stealing for three months."
+30186,139,192,1003000,Marge Simpson,Simpson Home,"I always thought I understood my special little guy. But somewhere along the road, his hand slipped away from mine."
+30187,139,193,1011000,Homer Simpson,Simpson Home,"Eh, what are you gonna do?"
+30188,139,194,1016000,Marge Simpson,Simpson Home,He's not my little baby anymore. Maybe I mother him too much.
+30189,139,195,1034000,Bart Simpson,Simpson Home,"Hey, Mom. You didn't wake me up."
+30190,139,196,1037000,Marge Simpson,Simpson Home,Here's your hot chocolate.
+30191,139,197,1039000,Bart Simpson,Simpson Home,You didn't put my marshmallow in.
+30192,139,198,1041000,Marge Simpson,Simpson Home,I think you're old enough to do it yourself now.
+30193,139,199,1044000,Bart Simpson,Simpson Home,Okay. I can handle that.
+30194,139,200,1054000,Grampa Simpson,Simpson Home,"Hey, give me a slice!"
+30197,139,203,1059000,Bart Simpson,Milhouse's Bedroom,"Milhouse, do you ever worry that your mom might stop loving you?"
+30198,139,204,1063000,Milhouse Van Houten,Milhouse's Bedroom,"What? I'm more worried about piranhas. Did you see that movie where they send a nuclear submarine to fight the piranhas and one of them swims right down the periscope and bites the guy in the eye and he goes ""Aaaaaagh! Aaaagh! Aaaagh!"" and that old lady told 'em it would happen?!"
+30199,139,205,1078000,Bart Simpson,Milhouse's Bedroom,"Yeah, that was pretty good."
+30200,139,206,1080000,Bart Simpson,Milhouse's Bedroom,"Hey, how come you're not playing BoneStorm?"
+30201,139,207,1082000,Milhouse Van Houten,Milhouse's Bedroom,"Ehh, it got boring. I'm really into this cup and ball now."
+30202,139,208,1086000,Milhouse Van Houten,Milhouse's Bedroom,"Whoa! Wow! Man, you never know which way this crazy ball is going to go!"
+30203,139,209,1091000,Bart Simpson,Milhouse's Bedroom,"Yeah, right. You're just trying to trick me because you don't want me playing with your videogame."
+30204,139,210,1097000,Milhouse Van Houten,Milhouse's Bedroom,Here. Go ahead.
+29961,139,211,1098000,Bart Simpson,Milhouse's Bedroom,"No, let me try the cup and ball."
+29986,139,212,1100000,Milhouse Van Houten,Milhouse's Bedroom,Get your own!!
+30205,139,213,1101000,Bart Simpson,Milhouse's Bedroom,"C'mon, don't be a cup and ball hog!"
+30206,139,214,1108000,Milhouse Van Houten,Milhouse's Bedroom,Mom! Bart's smoking!
+30208,139,216,1114000,Bart Simpson,Van Houten Home,"Okay, okay, I won't bug Milhouse... But... Well, Mrs. Van Houten, this is gonna sound kinda dumb, but can I hang out with you while you do mom stuff?"
+30209,139,217,1132000,Bart Simpson,Van Houten Home,Who are Dan and Sherry Adler?
+30210,139,218,1135000,Luann Van Houten,Van Houten Home,Just friends of ours.
+30211,139,219,1136000,Bart Simpson,Van Houten Home,Oh. And who is Warren Burke?
+30212,139,220,1138000,Luann Van Houten,Van Houten Home,He used to tune our piano before we got rid of it. He grew up in Mechanicsburg.
+30213,139,221,1144000,Bart Simpson,Van Houten Home,Really.
+30214,139,222,1146000,Luann Van Houten,Van Houten Home,Mmmm-hmmm.
+30215,139,223,1147000,Bart Simpson,Van Houten Home,Tell me I'm good.
+30217,139,225,1152000,Bart Simpson,Evergreen Terrace,"Hey, that's Mom! She's happy again!"
+30218,139,226,1158000,Bart Simpson,Evergreen Terrace,You guys made a snowman family?
+30219,139,227,1161000,Homer Simpson,Evergreen Terrace,"Check it out, boy! It's like looking into a living snow mirror!"
+30220,139,228,1165000,Bart Simpson,Evergreen Terrace,Why didn't you wait for me?
+30221,139,229,1167000,Marge Simpson,Evergreen Terrace,I didn't think you'd mind. I figured you were getting a little too old for this. But you can still make one. There's some snow left under the car.
+30225,139,233,1192000,Bart Simpson,Springfield,Stupid family...
+30226,139,234,1194000,Nelson Muntz,Springfield,"Hey, Simpson. Look what I swiped from Try-N-Save."
+30227,139,235,1198000,Nelson Muntz,Springfield,It's a replacement tire for a wheelbarrow.
+30228,139,236,1201000,Bart Simpson,Springfield,Huh.
+30229,139,237,1202000,Nelson Muntz,Springfield,I knew you'd like it.
+30230,139,238,1207000,Bart Simpson,Springfield,"Everybody thinks I'm the black sheep. Well, I'll show them what a black sheep can do."
+30232,139,240,1218000,Lisa Simpson,Simpson Home,"Mom, this fake snow is making me dizzy!"
+30233,139,241,1222000,Marge Simpson,Simpson Home,We're almost finished. There's just a little bit of green left.
+30234,139,242,1228000,Marge Simpson,Simpson Home,There you are! You can help me spray the cookies...
+30235,139,243,1231000,Marge Simpson,Simpson Home,Are you hiding something? What do you have under your jacket?
+30236,139,244,1235000,Bart Simpson,Simpson Home,Nothing.
+30237,139,245,1236000,Marge Simpson,Simpson Home,"Oh, Bart, not again... Give it to me."
+30238,139,246,1239000,Bart Simpson,Simpson Home,I told you I don't have anything.
+30239,139,247,1240000,Marge Simpson,Simpson Home,"You can't hide from me in this house, Bart! I spend 23 hours a day here!"
+30240,139,248,1249000,Homer Simpson,Simpson Home,"Get 'im, Ma!"
+30241,139,249,1250000,Marge Simpson,Simpson Home,"There's no place left to run, Bart. Hand it over."
+30242,139,250,1255000,Marge Simpson,Simpson Home,"Oh, Bart. I can't believe you did this."
+30243,139,251,1261000,Bart Simpson,Simpson Home,I wanted to surprise you for Christmas...
+30244,139,252,1263000,Marge Simpson,Simpson Home,"Oh, Sweetie. This is the best present a mother could get."
+30245,139,253,1270000,Marge Simpson,Simpson Home,"I love you so much, my little Bitty Barty."
+30246,139,254,1276000,Bart Simpson,Simpson Home,Mo-ommm...
+30247,139,255,1282000,Marge Simpson,Simpson Home,"Since I got my present early, I think you should get yours early too."
+30248,139,256,1286000,Lisa Simpson,Simpson Home,Bart got a present early? Then I should get a present early! I want a present!
+30249,139,257,1290000,Marge Simpson,Simpson Home,"Lisa, you have to wait."
+30250,139,258,1292000,Lisa Simpson,Simpson Home,This is the worst Christmas ever.
+30251,139,259,1295000,Marge Simpson,Simpson Home,"Now, I know you love video games, and I asked the clerk which is the one every boy wants..."
+30252,139,260,1301000,Bart Simpson,Simpson Home,You got me...?
+30253,139,261,1306000,Bart Simpson,Simpson Home,"Uh, yeahhh! Thanks, Mom."
+30254,139,262,1323000,Lee Carvallo,Simpson Home,"Welcome to Lee Carvallo's Putting Challenge. I am Carvallo. Now, choose a club."
+30255,139,263,1330000,Lee Carvallo,Simpson Home,You have chosen a three-wood. May I suggest a putter?
+30256,139,264,1335000,Lee Carvallo,Simpson Home,"Three-wood. Now enter the force of your swing. I suggest ""feather touch."""
+30257,139,265,1342000,Lee Carvallo,Simpson Home,"You have entered ""power drive."" Now push 7-8-7 to swing."
+30258,139,266,1355000,Lee Carvallo,Simpson Home,Ball is in... parking lot. Would you like to play again?
+30259,139,267,1360000,Lee Carvallo,Simpson Home,"You have selected ""no."""

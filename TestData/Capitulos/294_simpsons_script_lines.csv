@@ -1,0 +1,225 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+74920,294,5,117000,Homer Simpson,Simpson Home,I hate reality shows...
+74921,294,6,119000,Marge Simpson,Simpson Home,A year ago you said they were the greatest thing that ever happened to us.
+74922,294,7,123000,Homer Simpson,Simpson Home,"I've grown, you haven't."
+74923,294,8,127000,Announcer,Simpson Home,"And now we're back to ""Touch the Stove."""
+74924,294,9,129000,Male Game Show Host,Simpson Home,"So Kevin, I hear you collect amusing postcards."
+74925,294,10,133000,Contestant,Simpson Home,"Uh, yeah, it all started when--"
+74926,294,11,135000,Male Game Show Host,Simpson Home,Touch the stove!
+74928,294,13,137000,Homer Simpson,Simpson Home,"I can't take any more of these shows. If I wanted reality, I'd finally have this lump looked at."
+74929,294,14,145000,Lisa Simpson,Simpson Home,Networks love reality shows because they don't have to pay writers or actors.
+74930,294,15,149000,Homer Simpson,Simpson Home,"Stupid writers and actors, priced yourselves right out of the business. Nice going, geniuses."
+74931,294,16,155000,Bart Simpson,Simpson Home,"Hey, let's get one of those home satellite dishes! Then we can stop suckling on the six-network teat."
+74932,294,17,159000,Marge Simpson,Simpson Home,"Get back, honky cat! Those systems are too expensive."
+74933,294,18,164000,Homer Simpson,Simpson Home,"Marge, we can't pinch pennies on the machine that's going to be raising our children."
+74934,294,19,168000,Homer Simpson,Simpson Home,"Come on, kids. Daddy knows a way to get the money... with no risk."
+74936,294,21,177000,Race Track Announcer,Race Track,"And the winner by a nose is ""No Risk""!"
+74937,294,22,177000,Homer Simpson,Race Track,Woo hoo!
+74940,294,25,184000,Cashier,Store,"Okay, now all we have to do is install your satellite dish. Can you be home from eight AM Monday morning, through June?"
+74941,294,26,192000,Homer Simpson,Store,No problem.
+74943,294,28,195000,Homer Simpson,Simpson Home,"Hey, Flanders -- check out my new satellite dish!"
+74944,294,29,200000,Ned Flanders,Simpson Home,"Boy, that's Jim Dandy roof candy! I'd love to come over some time and watch that Church Channel."
+74945,294,30,205000,Homer Simpson,Simpson Home,I bet you would.
+74946,294,31,206000,Ned Flanders,Simpson Home,"Oh, you'd win that bet. Seems like I'm spending all my money on religious pay-per-view. Or as I like to call it, ""pray-per-view."""
+74947,294,32,211000,Homer Simpson,Simpson Home,Damn your sparkling wordplay!
+74949,294,33,216000,Ned Flanders,Simpson Home,And bless your humble home.
+74951,294,35,219000,Homer Simpson,Simpson Home,"Oh, it's red wire to red wire. What idiot dreamed that up?"
+74952,294,36,226000,Bart Simpson,Simpson Home,"And the Lord said, ""Let there be crap."""
+74956,294,40,226000,Tom Brokaw,Simpson Home,... and thereby reducing the number of states to forty-nine.
+74957,294,41,253000,Bart Simpson,Simpson Home,Cool! It's the NBC news feed!
+74958,294,42,255000,Homer Simpson,Simpson Home,Mmm... feed...
+74959,294,43,258000,Bart Simpson,Simpson Home,You get to see what they do during commercial breaks.
+74960,294,44,260000,Tom Brokaw,Simpson Home,We'll be right back with a special report on soccer moms who hate soccer.
+74961,294,45,265000,Stagehand,Simpson Home,Clear!
+74962,294,46,266000,Tom Brokaw,Simpson Home,"Oh Lord, I'm so fat."
+74963,294,47,275000,Bart Simpson,Simpson Home,"Hey Lis, wanna try some satellite TV? We've got Japanese Friends."
+74965,294,49,283000,Japanese Joey,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,"Do you like my new shirt? It says ""Reggae Hairstyle Rock 'N' Roll."" primo Japanese!"
+74966,294,50,290000,Japanese Phoebe,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,You are the Emperor of last year.
+74967,294,51,293000,Japanese Joey,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,Your comeback shames me.
+74968,294,52,295000,Bart Simpson,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,How about the Clock Channel?
+74969,294,53,296000,Clock Announcer,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,Coming up on the Clock Channel... six o'clock!
+74970,294,54,299000,Bart Simpson,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,"Wait a minute, I saw this one."
+74971,294,55,300000,Lisa Simpson,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,"Bart, I have to study for the Elementary School Achievement Test. And so do you."
+74972,294,56,305000,Bart Simpson,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,"Hey, I don't have to study on the weekend."
+74973,294,57,308000,Lisa Simpson,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,It's Wednesday night!
+74974,294,58,309000,Homer Simpson,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,"Kids, kids, you're both right."
+74975,294,59,315000,Announcer,CENTRAL PERK-STYLE COFFEE SHOP WITH JAPANESE DÉCOR,"We're back with ""Who Wants to Marry An Internet Billionaire!"" Uh, no, Millionaire! Oh well, now he's broke."
+74979,294,63,331000,Marge Simpson,Simpson Home,Why don't you turn off the TV and join us for dessert? I made a pie.
+74980,294,64,337000,Homer Simpson,Simpson Home,Put pie here.
+74983,294,66,343000,Marge Simpson,Simpson Home,Would you like some ice cream with that?
+74984,294,67,345000,Homer Simpson,Simpson Home,Me not pig.
+74985,294,68,349000,Announcer,Simpson Home,"We now return to ""Robo Trumble."" Oh, I'm sorry, I mean ""Robot Rumble."""
+74986,294,69,358000,Robot #1,Simpson Home,Why are we fighting each other? Together we can defeat the humans and rule the Earth.
+74987,294,70,364000,Robot #2,Simpson Home,I agree.
+74989,294,72,371000,Robot #1,Simpson Home,Sucker.
+74990,294,73,375000,Homer Simpson,Simpson Home,Homicidal robots... so like us.
+74991,294,74,380000,Lisa Simpson,Simpson Home,"Bart, the test is in two hours. And you haven't slept in a fortnight."
+74992,294,75,385000,Bart Simpson,Simpson Home,What's a fortnight?
+74993,294,76,386000,Lisa Simpson,Simpson Home,"You should know, it's on the test!"
+74995,294,78,393000,Edna Krabappel-Flanders,Springfield Elementary School,"No pressure, children, but these test results will follow you... for the rest of your life and beyond the grave."
+148675,294,79,401000,Bart's Thoughts,Springfield Elementary School,This test is boring. What else is on?
+74996,294,80,424000,Clown,Springfield Elementary School,"It's finally happened, Bart. You've lost your mind."
+74997,294,81,433000,Characters,Springfield Elementary School,HAVA NAGILA / HAVA NAGILA / HAVA NAGILA / VE NES MECHAH / HAVA NA RA NANA / HAVA NA RA NANA / HAVA NA RA NANA / VE NES MECHAH...
+74999,294,83,451000,Seymour Skinner,Springfield Elementary School,Now let's raise the roof for the bland informative rap of M. C. Safety and the Caution Crew!
+75000,294,84,457000,M.C. Safety,Springfield Elementary School,"Yo! Yo! Yo! Y'all feelin' cautious? / I SAY A CROSS, WALK, A CROSS-ITY WALK / AND YOU DON'T STOP CROSSIN' 'TIL YOU'RE ON THE NEXT BLOCK / FIRST YOU LOOK BOTH WAYS, THEN YOU WALK NOT RUN / OBEYING SAFETY RULES IS ACCEPTABLE FUN / BREAK IT DOWN NOW."
+75001,294,85,469000,Caution Crew Member,Springfield Elementary School,"JUST WALK, DON'T RUN, DRINK JUICE, YUM YUM."
+75002,294,86,475000,Seymour Skinner,Springfield Elementary School,"Heh-heh-heh, watch out Beatles! Now I have one more important announcement to share with you. Would Lisa Simpson join me on stage?"
+75004,294,88,483000,Seymour Skinner,Springfield Elementary School,"Lisa, because of your outstanding score on yesterday's big test, you're being immediately moved up to... the third grade!"
+75005,294,89,494000,Bart Simpson,Springfield Elementary School,She's not so great! She got diarrhea when we went to Carlsbad Caverns!
+75006,294,90,504000,Seymour Skinner,Springfield Elementary School,"Okay Bart, since you like attention so much, I have a second announcement."
+75008,294,92,510000,Seymour Skinner,Springfield Elementary School,"I was going to tell you this privately, but... because of your incredibly low test score, we're sending you back to third grade."
+75010,294,94,522000,Bart Simpson,Springfield Elementary School,What? I've gotta be in the same class as her?
+75011,294,95,525000,Lisa Simpson,Springfield Elementary School,What? I've gotta be in the same class as him?
+75013,294,97,530000,Homer Simpson,Simpson Home,They're gonna be in the same class as each other?
+75014,294,98,534000,Homer Simpson,Simpson Home,An old army buddy is visiting Mannix?
+75016,294,100,540000,Mrs. McConnell,Springfield Elementary School,"Class, meet our newest third graders -- Lisa and Bart Simpson."
+75017,294,101,545000,Mrs. McConnell,Springfield Elementary School,Lisa comes to us from Miss Hoover ...While Bart was taught by Mrs. Krabappel .
+75018,294,102,553000,Third-grade Class,Springfield Elementary School,Hi Bart and Lisa!
+75020,294,104,555000,Mrs. McConnell,THIRD-GRADE CLASS,"A rooster sits on a roof, facing north. It lays an egg. Which way does it roll?"
+75021,294,105,561000,Lisa Simpson,THIRD-GRADE CLASS,"Okay, the sun rises in the east, so the rooster would probably want to lay it on the cool side..."
+75022,294,106,567000,Bart Simpson,THIRD-GRADE CLASS,Roosters don't lay eggs. They're boys.
+75023,294,107,570000,Mrs. McConnell,THIRD-GRADE CLASS,"Very good, Bart."
+75024,294,108,571000,Bart Simpson,THIRD-GRADE CLASS,Mm-hm.
+75025,294,109,572000,Mrs. McConnell,THIRD-GRADE CLASS,"Lisa, I want you to stick close to your big brother until you catch up."
+75027,294,111,582000,Nelson Muntz,THIRD-GRADE CLASS,Haw haw.
+75028,294,112,584000,Mrs. McConnell,THIRD-GRADE CLASS,"Young man, you're not in this class. What are you doing here?"
+75029,294,113,588000,Nelson Muntz,THIRD-GRADE CLASS,Laughin' at jerks.
+75031,294,115,595000,Bart Simpson,Simpson Home,Quiet nerds burp only near school.
+75032,294,116,595000,Lisa Simpson,Simpson Home,"Bart, I'm doing my geography homework."
+75033,294,117,600000,Bart Simpson,Simpson Home,"I know. That's how you remember the four original provinces of Canada: Quebec, New Brunswick, Ontario, Nova Scotia -- ""Quiet nerds burp only near school."" And here's how you remember the principal exports: ""Dogs eat barf solely on Wednesday, Mabel."""
+75034,294,118,606000,Lisa Simpson,Simpson Home,"Stop, I want to learn on my own!"
+75036,294,120,617000,Bart Simpson,Lisa's Bedroom,"Canada's Governors General: ""Clowns love haircuts; so should Lee Marvin's valet."""
+75037,294,121,617000,Lisa Simpson,Lisa's Bedroom,Get out!
+75038,294,123,624000,Mrs. McConnell,Springfield Elementary School,"Here are your math tests. Morgan, Dakota, Ashley, Dakota, Tyler, Tyler... Lisa."
+75039,294,124,634000,Lisa Simpson,Springfield Elementary School,"What's this weird mark next to my ""A""?"
+75040,294,125,637000,Mrs. McConnell,Springfield Elementary School,That's an A-minus.
+75041,294,126,638000,Lisa Simpson,Springfield Elementary School,M-m-minus?!
+75042,294,127,640000,Mrs. McConnell,Springfield Elementary School,"Nice work, Bart."
+75043,294,128,641000,Bart Simpson,Springfield Elementary School,"An ""A""? Copacetic."
+75044,294,129,644000,Lisa Simpson,Springfield Elementary School,You did better than me?!
+75045,294,130,646000,Bart Simpson,Springfield Elementary School,"Eh, I took this test last year. The answer key never changes. B-C-B-C-A-A-B-B-C-C-D-False-False-True-William Jennings Bryan."
+75046,294,131,649000,Lisa Simpson,Springfield Elementary School,That's cheating! Bart cheated!
+75047,294,132,656000,Mrs. McConnell,Springfield Elementary School,"Young lady, in the third grade, we don't care for tattletales."
+75049,294,134,661000,Mrs. McConnell,Springfield Elementary School,"And we don't care for moaners, either."
+75050,294,135,665000,Mrs. McConnell,Springfield Elementary School,Sobbing only pushes Bart's grade higher.
+75051,294,136,671000,Otto Mann,Springfield Elementary School,Pukers in back!
+75052,294,137,674000,Marge Simpson,Springfield Elementary School,"Kids, look what I got you for your third grade field trip -- matching fanny packs!"
+75053,294,138,680000,Marge Simpson,Springfield Elementary School,Now your fannies match.
+75055,294,140,685000,Bart Simpson,Springfield Elementary School,"Hey, get away from me! / Quit it! Ow! / Ew! / Quit it! / Stop! / Ow! / Let go!"
+75056,294,141,689000,Marge Simpson,Springfield Elementary School,Stop! You'll crush your juice boxes!
+75057,294,142,699000,Mrs. McConnell,Springfield Elementary School,"All right, everybody choose a buddy for the field trip."
+75058,294,143,702000,Bart Simpson,Springfield Elementary School,I'll take Kyle!
+75059,294,144,703000,Lisa Simpson,Springfield Elementary School,I'll take Ashley!
+75060,294,145,704000,Mrs. McConnell,Springfield Elementary School,Saying your buddy's name out loud is a security risk. I'll just put you two together.
+75062,294,147,721000,Bart Simpson,Bus,Punch buggy red!
+75063,294,148,723000,Lisa Simpson,Bus,Ow! You are such an immature-- punch buggy white!
+75064,294,149,726000,Bart Simpson,Bus,Ow!
+75065,294,150,727000,Mrs. McConnell,Bus,Stop fighting!
+75066,294,151,728000,Lisa Simpson,Bus,He started it! He did Punch Buggy first!
+75067,294,152,731000,Third-grade Girl,Bus,"What's ""Punch Buggy?"""
+75068,294,153,732000,Bart Simpson,Bus,"When you see a Volkswagen Bug, you punch somebody and yell the color."
+75073,294,156,738000,Kids,Highway,Punch buggy blue! / Ow! / Punch buggy green! / Ow! / Punch buggy taupe! / Ow! / / That really hurt!
+75074,294,157,747000,Otto Mann,Highway,Two for flinchin'!
+75077,294,160,754000,Mrs. McConnell,Capital City,"Now as we cross the street, I want you to hold hands with your buddy."
+75078,294,161,763000,Teenage Boy,Capital City,"Hey dude, who's your girlfriend?"
+75080,294,163,772000,Teenage Boy,Capital City,"What happened, dude? Did your girlfriend dump ya?"
+75083,294,166,781000,Mrs. McConnell,STATE LEGISLATURE,"Now children, if you look up at the capitol dome, you'll see a mural of our state bird, the Pot-bellied Sparrow, eating our state pasta, bow-tie."
+75085,294,168,791000,Senate Chairman,STATE LEGISLATURE,"Order, order, order! The chair recognizes the esteemed representative from Capital City..."
+75086,294,169,798000,Bart Simpson,STATE LEGISLATURE,The Capital City Goofball?
+75087,294,170,801000,Mrs. McConnell,STATE LEGISLATURE,That's right. To win he spent eighty million from his own pocket.
+75088,294,171,805000,Capital City Goofball,STATE LEGISLATURE,"Mr. Speaker, the time has come to redesign our state flag."
+75089,294,172,809000,Capital City Goofball,STATE LEGISLATURE,This confederate symbol is an embarrassment... particularly as we are a northern state.
+75090,294,173,816000,Mrs. McConnell,STATE LEGISLATURE,"This lively debate has given me an idea. Tonight, each buddy team is going to design a new state flag..."
+75091,294,174,823000,Bart Simpson,STATE LEGISLATURE,Homework on a field trip? What have you been huffin'?
+75094,294,177,828000,Lisa Simpson,Hotel Room,"Well, Bart's being his usual jerky self... but Mom, I'm really excited about this new flag design. Oh, and the hotel gives you a free USA Today outside your room... No, I'm sure it's free... Okay, I won't touch it."
+75095,294,178,842000,Marge Simpson,Hotel Room,"Well, make sure you don't. And try not to let your brother get under your skin."
+75096,294,179,847000,Lisa Simpson,Hotel Room,"Believe me, he doesn't. His act is getting old fast."
+75098,294,181,851000,Lisa Simpson,Hotel Bathroom,"He thinks he's really cool, but frankly the other kids are starting to wake up and smell the cooties."
+75100,294,183,859000,Lisa Simpson,Hotel Room,One last sunbeam... and we're done.
+75101,294,184,862000,Lisa Simpson,Hotel Room,"""To Fraternal Love""."
+75103,294,185,862000,Bart Simpson,Hotel Room,"When I get through with that flag, it's gonna be a Bart Mangled Banner."
+75105,294,187,869000,Governor Mary Bailey,Capitol Building,"So, I understand you children have some state flags for me. Who would like to go first?"
+75106,294,188,875000,Bart Simpson,Capitol Building,"We would, Governor Bailey! Team Simpson!"
+75107,294,189,878000,Lisa Simpson,Capitol Building,I spearheaded this one.
+75108,294,190,880000,Governor Mary Bailey,Capitol Building,I'll just unfurl this...
+75110,294,192,889000,Governor Mary Bailey,Capitol Building,That was my worst unfurling ever!
+75111,294,193,892000,Bart Simpson,Capitol Building,"Lisa, how could you? The governor is crying."
+75113,294,195,899000,Nelson Muntz,Capitol Building,Haw haw!
+75114,294,196,903000,Mrs. McConnell,Capitol Building,You weren't on this field trip. How did you get here?
+75115,294,197,905000,Nelson Muntz,Capitol Building,Biked.
+75117,294,199,911000,Lisa Simpson,Capital City Street,"Bart, I am so mad at you!"
+75118,294,200,915000,Bart Simpson,Capital City Street,You should have seen the look on your face. It was something like this.
+75123,294,205,934000,Lisa Simpson,River,The bus!
+75125,294,207,939000,Mrs. McConnell,School Bus,"Okay children, before we leave, is anyone missing their buddy?"
+75126,294,208,943000,Third-grade Class,School Bus,No.
+75127,294,209,944000,Mrs. McConnell,School Bus,"Ah the buddy system... foolproof. Floor it, Otto."
+75128,294,210,953000,Lisa Simpson,School Bus,Wait! Wait!
+75130,294,212,956000,Bart Simpson,WOODED AREA BELOW HIGHWAY,"Ha-ha, they left without you."
+75131,294,213,958000,Lisa Simpson,WOODED AREA BELOW HIGHWAY,"They left without you too, you idiot."
+75132,294,214,961000,Bart Simpson,WOODED AREA BELOW HIGHWAY,"If I'm such an idiot, how come I'm the smartest kid in the third grade?"
+75133,294,215,964000,Lisa Simpson,WOODED AREA BELOW HIGHWAY,Because you've already done it once.
+75134,294,216,967000,Bart Simpson,WOODED AREA BELOW HIGHWAY,You've lost me.
+75135,294,217,969000,Lisa Simpson,WOODED AREA BELOW HIGHWAY,"Oh, forget it. Hey, how do we get back?"
+75136,294,218,973000,Bart Simpson,WOODED AREA BELOW HIGHWAY,"No problem. We'll just circle around like those kids in ""The Blair Witch Project."""
+75137,294,219,981000,Bart Simpson,WOODED AREA BELOW HIGHWAY,I must be getting close! I recognize that girl.
+75139,294,221,988000,Lisa Simpson,THICK WOODS,"Oh Bart, I think we're lost."
+75140,294,222,990000,Bart Simpson,THICK WOODS,"I used to be lost. Until a friend turned me onto a book. A book that changed my life. It's called ""Lisa is Stupid."""
+75141,294,223,998000,Lisa Simpson,THICK WOODS,You die now!
+75142,294,224,1002000,Lisa Simpson,THICK WOODS,Hey!
+75144,294,226,1006000,Mrs. McConnell,Springfield Elementary School,"They're gone. I don't know what happened... If the buddy system can fail, I don't know what to believe in."
+75145,294,227,1014000,Seymour Skinner,Springfield Elementary School,"There, there, Audrey. It's happened to all of us."
+75146,294,228,1018000,Seymour Skinner,Springfield Elementary School,"Willie, we have two more names for the wall."
+75147,294,229,1023000,Groundskeeper Willie,Springfield Elementary School,Ach... Why is it always the kids with the long names?
+75149,294,231,1036000,Marge Simpson,Simpson Home,"Hello, Principal Skinner."
+75150,294,232,1038000,Seymour Skinner,Simpson Home,A-parent-who-waives-her-right-to-sue-says-what?
+75151,294,233,1038000,Marge Simpson,Simpson Home,What?
+75152,294,234,1041000,Seymour Skinner,Simpson Home,Got it.
+75153,294,235,1042000,Homer Simpson,Simpson Home,"Hey, you can't fool us. We're from the ""Learn to Fart"" state."
+75154,294,236,1046000,Seymour Skinner,Simpson Home,Bart and Lisa are lost in Capital City and presumed crying.
+75155,294,237,1051000,Marge Simpson,Simpson Home,My poor babies!
+75156,294,238,1052000,Seymour Skinner,Simpson Home,"I'm so sorry. Lisa's a very special little girl, and we'll spare no expense in finding her."
+75157,294,239,1059000,Homer Simpson,Simpson Home,"Well, what about Bart?"
+75158,294,240,1061000,Seymour Skinner,Simpson Home,"We're looking. But in the meantime, the Class Clown Pro Tem will take his place."
+75159,294,241,1065000,Milhouse Van Houten,Simpson Home,Cowabungaaa!
+75161,294,243,1073000,Bart Simpson,THICK WOODS,You cold?
+75162,294,244,1074000,Lisa Simpson,THICK WOODS,What do you care?
+75163,294,245,1077000,Bart Simpson,THICK WOODS,Here.
+75164,294,246,1078000,Lisa Simpson,THICK WOODS,Thanks. Where'd you get?...
+75165,294,247,1080000,Lisa Simpson,THICK WOODS,Oh.
+75166,294,248,1082000,Lisa Simpson,THICK WOODS,"Bart, you're my big brother. You should act like it more often. You know, protect me from the bad things in the world."
+75167,294,249,1089000,Bart Simpson,THICK WOODS,"Well, as far as nerdy little sisters go, you're the coolest."
+75168,294,250,1094000,Lisa Simpson,THICK WOODS,"Thanks, Bart."
+75169,294,251,1095000,Bart Simpson,THICK WOODS,And I'm sorry I sabotaged your flag.
+75170,294,252,1097000,Lisa Simpson,THICK WOODS,I'm sorry I got us lost out here.
+75171,294,253,1099000,Bart Simpson,THICK WOODS,"Oh, and I'm sorry I sawed the heads off your Malibu Stacy dolls. Okay, you go."
+75172,294,254,1104000,Lisa Simpson,THICK WOODS,I don't think I've done anything else.
+75173,294,255,1106000,Bart Simpson,THICK WOODS,"Okay, I'll go again. Remember when your bike was mangled by ""gypsies?"""
+75174,294,256,1109000,Lisa Simpson,THICK WOODS,Yes.
+75175,294,257,1110000,Bart Simpson,THICK WOODS,"Yeah, funny story. One day, I was really bored. And Dad had left the steam roller idling in the driveway..."
+75177,294,259,1117000,Homer Simpson,Capitol Building,This is where the kids were last seen.
+75178,294,260,1121000,Marge Simpson,Capitol Building,The plastic casing from the tip of Bart's shoelace! A mother knows!
+75179,294,261,1126000,Homer Simpson,Capitol Building,"Well, he's not gonna get very far without that."
+75180,294,262,1129000,Homer Simpson,Capitol Building,"Bart, is that you?"
+75181,294,263,1131000,Homeless Man,Capitol Building,No.
+75184,294,266,1138000,Mountain Man,Forest,Say your prayers.
+75185,294,267,1140000,Bart Simpson,Forest,"Oh Lord, please strike these mountain folk dead--"
+75186,294,268,1143000,Lisa Simpson,Forest,Bart!
+75187,294,269,1144000,Lisa Simpson,Forest,"Listen, we're really sorry. We got lost on a field trip from Springfield Elementary!"
+75188,294,270,1148000,Mountain Man,Forest,"Lost on a field trip? Heck, whyn't you say so? That's how Grandpappy wound up in these parts."
+75189,294,271,1154000,Grandpappy,Forest,"They wuz takin' us to Capital City to see ""The Nutcracker,"" and I wandered away from the group. Married a bear and I started up a family."
+75190,294,272,1166000,Mountain Woman,Forest,"I told you, I ain't a bear!"
+75191,294,273,1167000,Grandpappy,Forest,"Rar, rar, rar. No one understands you, she-bear."
+75193,294,275,1178000,Bart Simpson,Mountain Road,Thanks for driving us back to town.
+75194,294,276,1180000,Mountain Man,Mountain Road,No problem. We were goin' there anyway to pick up the new Spy Magazine.
+75195,294,277,1184000,Lisa Simpson,Mountain Road,I'm sorry. They don't publish that any more.
+75196,294,278,1187000,Mountain Man,Mountain Road,The world I grewed up in is gone.
+75198,294,280,1193000,Marge Simpson,Capital City,"Oh my special little guys. You're okay, you're okay!"
+75199,294,281,1199000,Homer Simpson,Capital City,"And Maggie, you no longer have to live with the burden of replacing Bart and Lisa."
+75200,294,282,1207000,Seymour Skinner,Capital City,"Well, if this episode has taught us anything, it's that nothing works better than the status quo. Bart, you're promoted back to the fourth grade."
+75201,294,283,1212000,Bart Simpson,Capital City,Yay!
+75202,294,284,1215000,Seymour Skinner,Capital City,"And Lisa, you have a choice. You may continue to be challenged in third grade, or return to second grade and be merely a big fish in a small pond--"
+75071,294,285,1223000,Lisa Simpson,Capital City,Big fish! Big fish!
+75072,294,286,1224000,Everyone,Capital City,Aw...
+75102,294,287,1226000,Homer Simpson,Capital City,The status quo.
+75203,294,288,1228000,Milhouse Van Houten,Capital City,The status quo? Ay carumba!
+75204,294,289,1233000,Seymour Skinner,Capital City,That's just sad.

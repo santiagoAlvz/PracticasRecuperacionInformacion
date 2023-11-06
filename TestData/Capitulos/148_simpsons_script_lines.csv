@@ -1,0 +1,253 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+32254,148,1,31000,Seymour Skinner,Springfield Elementary School,"Ah, Spring Break in Hong Kong. Custom-made suits at slave-labor prices..."
+32255,148,2,35000,Seymour Skinner,Springfield Elementary School,"Good lord, they've got this all wrong."
+32256,148,3,40000,Seymour Skinner,Springfield Elementary School,"Yes, this is Principal Seymour Skinner."
+32257,148,4,42000,Ticketing Agent,Springfield Elementary School,"How can I help you, Principal?"
+32258,148,5,43000,Seymour Skinner,Springfield Elementary School,"I'm afraid there are some problems with my tickets. I asked for a center seat, not an aisle seat. I specifically requested not to have the kosher meal. And I booked the flight leaving Saturday morning, not Friday morning!"
+32259,148,6,54000,Ticketing Agent,Springfield Elementary School,"Okay, I've gone ahead and made those changes. And with the one-day advance purchase price, it's just an extra... $7,830."
+32260,148,7,61000,Seymour Skinner,Springfield Elementary School,"G.M. Chrysler!! I can't afford that! But I can't close the school a day early just to suit my vacation. Or can I? Think, Seymour, think..."
+32262,148,9,73000,Bart Simpson,Bart's Classroom,Go to Work with Your Parents Day?
+32263,148,10,76000,Seymour Skinner,Bart's Classroom,"Yes, Go to Work with Your Parents Day! Tomorrow, you will learn by doing and apply your knowledge of fractions and gym to real-world situations!"
+32265,148,12,85000,Lisa Simpson,Simpson Home,I still don't understand why you get to stay home and watch Mom work.
+32266,148,13,88000,Bart Simpson,Simpson Home,"Because I've always been an advocate of women in the workplace, Lis."
+32267,148,14,92000,Bart Simpson,Simpson Home,I can't help it if Mom's workplace contains our TV.
+32270,148,15,95000,Marge Simpson,Simpson Home,"I'm honored, Bart. And Lisa, you'll have a fine time at the plant with Dad. You've been interested in nuclear power for years."
+32271,148,16,102000,Lisa Simpson,Simpson Home,I've signed numerous petitions to shut down that plant.
+32272,148,17,105000,Marge Simpson,Simpson Home,"Well, there you go."
+32273,148,18,106000,Bart Simpson,Simpson Home,"Mom, you're blocking the TV. If you need something to do, you can fill out my form. Here."
+32274,148,19,110000,Marge Simpson,Simpson Home,"""Parent's occupation... Please note: Homemaker is not allowed, as it is not real work. That's why you don't get paid for it."""
+32275,148,20,117000,Lisa Simpson,Simpson Home,Bart can take my place at the plant!
+32276,148,21,122000,Marge Simpson,Simpson Home,"Oh, but he so wanted to see women in the workplace..."
+32277,148,22,124000,Lisa Simpson,Simpson Home,"Well, how about Aunt Patty and Aunt Selma at the D.M.V.?"
+32279,148,24,127000,Marge Simpson,Simpson Home,"Of course! Of course! I would never, ever have thought of that!"
+32281,148,26,135000,Patty Bouvier,Department of Motor Vehicles,Some days we don't let the line move at all.
+32282,148,27,139000,Selma Bouvier,Department of Motor Vehicles,"We call those ""weekdays."""
+32283,148,28,142000,Selma Bouvier,Department of Motor Vehicles,Good one.
+32284,148,29,143000,Bart Simpson,Department of Motor Vehicles,"Well, at least I'm not stuck at the cracker factory like Milhouse."
+32286,148,31,148000,Milhouse Van Houten,Cracker Factory,Wow!
+32287,148,32,153000,Kirk Van Houten,Cracker Factory,Ever wonder how crackers get salted?
+32288,148,33,156000,Milhouse Van Houten,Cracker Factory,Have I?!
+32290,148,35,159000,Milhouse Van Houten,SALTING ROOM,Wow!
+32291,148,36,161000,Crackerman,SALTING ROOM,Crackers Ho!
+32292,148,37,163000,Milhouse Van Houten,SALTING ROOM,I never knew cracker production could be so exciting! But where do they make those crackers with the peanut butter already inside?
+32293,148,38,170000,Kirk Van Houten,SALTING ROOM,"Ah, put this on and come with me, Son."
+32295,148,40,177000,Homer Simpson,Springfield Nuclear Power Plant,Donut?
+32296,148,41,179000,Lisa Simpson,Springfield Nuclear Power Plant,"No, thanks. Do you have any fruit?"
+32297,148,42,182000,Homer Simpson,Springfield Nuclear Power Plant,This has purple stuff inside. Purple is a fruit.
+32298,148,43,185000,Homer Simpson,Springfield Nuclear Power Plant,"Uh... Oh -- this is a map of nuclear sites around the country. As a safety inspector, I am responsible for changing most of these light bulbs."
+32299,148,44,194000,Lisa Simpson,Springfield Nuclear Power Plant,Why are there so many burnt-out ones?
+32268,148,45,197000,Homer Simpson,Springfield Nuclear Power Plant,'Cause they won't hire an assistant.
+32301,148,47,201000,"Martin Prince, Sr.",Springfield Commodities Exchange,"Martin, here's ten dollars to invest in"
+32302,148,48,201000,"Martin Prince, Sr.",Springfield Commodities Exchange,the futures market.
+32303,148,49,204000,Martin Prince,Springfield Commodities Exchange,Soy! Soy! Soy!
+32304,148,50,206000,Other Traders,Springfield Commodities Exchange,Soy! Soy! Soy!
+32305,148,51,209000,"Martin Prince, Sr.",Springfield Commodities Exchange,"Martin, you're up one million dollars."
+32306,148,52,212000,Martin Prince,Springfield Commodities Exchange,Yes!
+32307,148,53,215000,"Martin Prince, Sr.",Springfield Commodities Exchange,"And now you've lost all but $600. You got greedy, Martin."
+32309,148,55,221000,Homer Simpson,Springfield Nuclear Power Plant,I'm sorry. I guess watching me isn't any more exciting than being me.
+32310,148,56,225000,Lisa Simpson,Springfield Nuclear Power Plant,Maybe we can make your job more fun... What are those?
+32311,148,57,229000,Homer Simpson,Springfield Nuclear Power Plant,I don't know.
+32312,148,58,231000,Lisa Simpson,Springfield Nuclear Power Plant,"Well, what if we used our imaginations...?"
+32313,148,59,233000,Lisa Simpson,Springfield Nuclear Power Plant,"Houston, we have a problem. Homer 13 is spinning out of control!"
+32314,148,60,239000,Lisa Simpson,Springfield Nuclear Power Plant,I'm going after him!
+32315,148,61,245000,Homer Simpson,Springfield Nuclear Power Plant,"Boy, this is a lot more fun with a second person!"
+32317,148,63,253000,Selma Bouvier,Department of Motor Vehicles,"Okay, one more step. I just gotta go laminate your license. You'll get it in two to three weeks."
+32318,148,64,259000,Cletus Spuckler,Department of Motor Vehicles,Hot damn! No more sittin' in the dirt at the drive-in!
+32319,148,65,263000,Selma Bouvier,Department of Motor Vehicles,"Bart, I left the driver's-license-making machine on. Turn it off."
+32321,148,67,276000,Milhouse Van Houten,Kwik-E-Mart,25 years old?! You're not 25 years old! This I.D. is completely fake!
+32322,148,68,283000,Bart Simpson,Kwik-E-Mart,"Yes. You are right, Milhouse. It is a fake. Which makes it a fake I.D."
+32323,148,69,288000,Milhouse Van Houten,Kwik-E-Mart,A fake I.D.?! Cool!!
+32324,148,70,291000,Bart Simpson,Kwik-E-Mart,And it's our ticket to the best Spring Break of our lives!
+32326,148,72,295000,Bart Simpson,Springfield Art-house Theater,"One adult and two children, please."
+32327,148,73,302000,Nelson Muntz,Springfield Art-house Theater,I can think of at least two things wrong with that title.
+32329,148,75,308000,Moe Szyslak,Moe's Tavern,"Twenty-five? Whoa! Oh, I'm sorry, Mr. S., but you know, I gotta check everybody."
+32330,148,76,313000,Bart Simpson,Moe's Tavern,"Are you kidding? I take it as a compliment! Three beers, please!"
+32331,148,77,320000,Barney Gumble,Moe's Tavern,"Hey, join the party!"
+32332,148,80,328000,Milhouse Van Houten,STREET OUTSIDE MOE'S,"Spring breeeaaak! Yeah! Well, when are we gonna get rowdy?"
+32333,148,81,336000,Bart Simpson,STREET OUTSIDE MOE'S,Maybe when we find something decent to do with this I.D.
+32334,148,82,339000,Nelson Muntz,STREET OUTSIDE MOE'S,We could go rent a carpet shampooer...
+32335,148,83,343000,Martin Prince,STREET OUTSIDE MOE'S,"Greetings, chums! Were your days at work as profitable as mine? I just had a sinful shopping spree at Wee World."
+32336,148,84,352000,Bart Simpson,STREET OUTSIDE MOE'S,"Well, we're having the best Spring Break of our lives, and we don't need you around nerding it up."
+32337,148,85,356000,Milhouse Van Houten,STREET OUTSIDE MOE'S,That job is taken.
+32338,148,86,358000,Martin Prince,STREET OUTSIDE MOE'S,But surely I and my $600 could play some small part in your vacation fun.
+32339,148,87,363000,Bart Simpson,STREET OUTSIDE MOE'S,"Oh yeah, right. Like there's any way to get some kicks with a big wad of cash and a license to drive..."
+32340,148,88,372000,Milhouse Van Houten,STREET OUTSIDE MOE'S,Wow!
+32342,148,90,378000,Martin Prince,Car,"Oh, boy, Flipsy! You and I are going on a road trip!"
+32343,148,91,388000,Nelson Muntz,Car,Haw haw!
+32344,148,92,388000,Nelson Muntz,Car,Haw haw!
+32346,148,94,394000,Bart Simpson,Bart's Car,"Gentlemen, for our road trip, I have taken the liberty of preparing an airtight and utterly plausible alibi for use on our parents..."
+32348,148,96,403000,Milhouse Van Houten,Van Houten Home,I've been selected to represent the school at the National Grammar Rodeo at the Sheraton Hotel in Canada.
+32350,148,98,410000,Martin Prince,MARTIN'S HOUSE,I've been selected to represent the school at the National Grammar Rodeo at the Sheraton Hotel in Canada.
+32352,148,100,416000,Nelson Muntz,NELSON'S HOUSE,I'm goin' away for a week. See ya.
+32354,148,102,421000,Marge Simpson,Simpson Home,"The National Grammar Rodeo! I wish I were going. Oh, wait, wait -- I mean, I wish I was going. Is that right, Bart?"
+32355,148,103,428000,Lisa Simpson,Simpson Home,It's not fair! I'm the best student in school. How come I never heard about this competition?
+32356,148,104,435000,Bart Simpson,Simpson Home,"Maybe because you are, as we say in Latin, a Dorkus Malorkus."
+32357,148,105,440000,Lisa Simpson,Simpson Home,"That's not Latin. Mom, Bart's faking it."
+32358,148,106,443000,Marge Simpson,Simpson Home,"Oh, honey, you've had your glory. Now it's Bart's turn."
+32361,148,108,454000,Milhouse Van Houten,HIGHWAY OUT OF SPRINGFIELD,"No... Oh, oh, cool... No, no, wait..."
+32362,148,109,473000,Milhouse Van Houten,HIGHWAY OUT OF SPRINGFIELD,"Ow! Bart, Nelson hit me!"
+32363,148,110,477000,Bart Simpson,HIGHWAY OUT OF SPRINGFIELD,He sure did.
+32364,148,111,481000,Milhouse Van Houten,HIGHWAY OUT OF SPRINGFIELD,"A cup holder?!! Bart, we've gotta stop and get a cup! Uh... Bart?"
+32365,148,112,487000,Bart Simpson,HIGHWAY OUT OF SPRINGFIELD,"Cruise control, my good man. Everybody all set back here? Nelson, good to see you! Martin, always a pleasure..."
+32369,148,116,503000,Homer Simpson,Springfield Nuclear Power Plant,"Oh, Diablo Canyon 2... Why can't you be more like Diablo Canyon 1?"
+32371,148,118,515000,Marge Simpson,Simpson Home,"Hello?... Oh, Homie, hello! I can't remember the last time you called me from -- Oh, you want to speak to Lisa?"
+32372,148,119,527000,Homer Simpson,Simpson Home,"Hi, Lisa. How's your Spring Break going?"
+32373,148,120,530000,Lisa Simpson,Simpson Home,I'm learning about owls.
+32374,148,121,532000,Homer Simpson,Simpson Home,"Oh, owls, eh? So you probably wouldn't want to spend another day at work with me..."
+32375,148,122,537000,Lisa Simpson,Simpson Home,Sure I would! I can always learn about owls this summer at Bird Camp.
+32377,148,124,547000,Martin Prince,Bart's Car,"Ah, we've arrived in the vast cornfields of Canada! How much farther to the Grammar Rodeo?"
+32378,148,125,553000,Nelson Muntz,Bart's Car,Grammar Rodeo?! We're goin' to a Grammar Rodeo?!
+32379,148,126,557000,Bart Simpson,Bart's Car,"We're not going to a Grammar Rodeo! That was just an alibi, Milton!!"
+32380,148,127,561000,Milhouse Van Houten,Bart's Car,Martin.
+32381,148,128,562000,Bart Simpson,Bart's Car,Martin.
+32382,148,129,563000,Martin Prince,Bart's Car,Fellows?
+32383,148,130,564000,Nelson Muntz,Bart's Car,What?
+32384,148,131,565000,Martin Prince,Bart's Car,Where are we going?
+32385,148,132,568000,Martin Prince,Bart's Car,"Well, I realize it's trite, but we could tour the bridges of Madison County..."
+32386,148,133,573000,Milhouse Van Houten,Bart's Car,"Hey, who has better vacation ideas than Triple-A? According to the publisher of this Triple-A guidebook, no one."
+32387,148,134,580000,Nelson Muntz,Bart's Car,"I've always wanted to see Macon, Georgia."
+32388,148,135,582000,Milhouse Van Houten,Bart's Car,"Wait! How about a fair? Not just a county fair. Not just a Europe fair. But a WORLD'S Fair! The World's Fair in Knoxville, Tennessee!"
+32389,148,136,593000,Bart Simpson,Bart's Car,Keep reading...
+32391,148,137,594000,Milhouse Van Houten,Bart's Car,"The Hungarians have built a giant, motorized Rubik's Cube! And the fair's symbol is the Sunsphere, which sits atop a 266 foot tall steel shaft!"
+32392,148,138,604000,Bart Simpson,Bart's Car,What's inside?
+32393,148,139,605000,Milhouse Van Houten,Bart's Car,An information desk!
+32394,148,140,607000,Martin Prince,Bart's Car,Coooool!
+32395,148,141,609000,Bart Simpson,Bart's Car,So it's a choice between Disneyworld and Knoxville.
+32396,148,142,612000,Martin Prince,Bart's Car,Knoxville! Knoxville! Knoxville!
+32397,148,143,615000,Bart Simpson,Bart's Car,I concur.
+32399,148,145,622000,Homer Simpson,Springfield Nuclear Power Plant,You made it! Did you have any trouble getting past the security guards?
+32400,148,146,625000,Lisa Simpson,Springfield Nuclear Power Plant,Security guards?
+32401,148,147,626000,Homer Simpson,Springfield Nuclear Power Plant,Great! Ya wanna get some lunch?
+32402,148,148,628000,Lisa Simpson,Springfield Nuclear Power Plant,Sure!
+32403,148,149,629000,Homer Simpson,Springfield Nuclear Power Plant,"The way I figure it, if the candy stays in the machine for more than a year, it's up for grabs."
+32404,148,150,636000,Lisa Simpson,Springfield Nuclear Power Plant,Why do you need me?
+32405,148,151,637000,Homer Simpson,Springfield Nuclear Power Plant,"Well, it's a two-man operation, and you're the only man here I trust. Ready?"
+32406,148,152,641000,Lisa Simpson,Springfield Nuclear Power Plant,Ready!
+32407,148,153,644000,Lisa Simpson,Springfield Nuclear Power Plant,Woo hoo!
+32408,148,154,645000,Waylon Smithers,Springfield Nuclear Power Plant,Simpson! What in God's name are you--
+32409,148,155,647000,Lisa Simpson,Springfield Nuclear Power Plant,"Zagnut bar, Mr. Smithers? Razzles? Skittles? Whatchamacallit? Twizzlers?"
+32410,148,156,651000,Homer Simpson,Springfield Nuclear Power Plant,They all have hilarious names and are delicious.
+32411,148,157,654000,Waylon Smithers,Springfield Nuclear Power Plant,"Well, I am partial to Jolly Ranchers... Mmmmmm. Good work, Simpson. Simpsons."
+32413,148,159,662000,Homer Simpson,Homer's Workstation,"Boy, Lisa, with you here this hardly seems like work at all. I don't know how I'm gonna make it through my nightshift without you."
+32414,148,160,669000,Lisa Simpson,Homer's Workstation,We could have a slumber party.
+32415,148,161,670000,Homer Simpson,Homer's Workstation,"Oh, that'd be great! Sleeping bags on the floor, a roaring fire... It'll be just like the time they kicked me out of the sporting-goods store."
+32417,148,163,679000,Angry Dad,Bart's Car,"If you kids can't keep your hands to yourselves, I'm going to turn this car around, and there'll be no Cape Canaveral for anybody!"
+32418,148,164,690000,Angry Dad,Bart's Car,That's it! Back to Winnipeg!
+32419,148,165,695000,Martin Prince,Bart's Car,"Bart, can we stop for ice cream?"
+31469,148,166,697000,Bart Simpson,Bart's Car,Yes.
+32390,148,167,698000,Nelson Muntz,Bart's Car,"Bart, can we weigh the car at that Weigh Station?"
+154536,148,168,702000,Bart Simpson,Bart's Car,Yeah.
+32420,148,169,704000,Milhouse Van Houten,Bart's Car,"Bart, can we pick up that hitchhiker?"
+32421,148,170,706000,Bart Simpson,Bart's Car,I don't see why not.
+32422,148,171,708000,Deranged-looking Hitchhiker,Bart's Car,"Bart, can we stop for ice cream?"
+32423,148,172,710000,Bart Simpson,Bart's Car,Yes.
+32424,148,173,712000,Deranged-looking Hitchhiker,Bart's Car,"...well, I didn't think I was rehabilitated, but I guess they needed the extra bed..."
+32426,148,175,721000,Marge Simpson,Simpson Home,"With Bart gone, and now you and your father, I'm not going to have anyone to--"
+32427,148,176,724000,Lisa Simpson,Simpson Home,ThanksMombye!
+32428,148,177,726000,Marge Simpson,Simpson Home,--talk to.
+32430,148,179,732000,Nelson Muntz,Country Road,What is this place?
+32431,148,180,734000,Bart Simpson,Country Road,"Branson, Missouri. My dad says it's like Vegas if it were run by Ned Flanders."
+32432,148,181,741000,Nelson Muntz,Country Road,Andy Williams?!
+32433,148,182,743000,Bart Simpson,Country Road,"Uh, we don't need to stop here."
+32434,148,183,745000,Nelson Muntz,Country Road,Yes we do.
+32436,148,185,749000,Andy Williams,Theater,...MY HUCKLEBERRY FRIEND / MOON RIVER AND ME!
+32437,148,186,765000,Nelson Muntz,Theater,"Wow! I didn't think he was going to do ""Moon River"" but then -- Bam! -- second encore!"
+32439,148,188,772000,Lisa Simpson,Springfield Nuclear Power Plant,Okay. Time for truth or dare. You go first.
+32440,148,189,775000,Homer Simpson,Springfield Nuclear Power Plant,Eh... Truth. Ask me anything.
+32441,148,190,777000,Lisa Simpson,Springfield Nuclear Power Plant,"Who do you love most: me, Bart, or Maggie?"
+32442,148,191,782000,Homer Simpson,Springfield Nuclear Power Plant,"All right, dare."
+32443,148,192,784000,Lisa Simpson,Springfield Nuclear Power Plant,Okay... Why don't you...
+32444,148,193,787000,Homer Simpson,Springfield Nuclear Power Plant,"Hello, I'd like to speak with a Mr. Snotball? First name, Ura?"
+32446,148,195,792000,Moe Szyslak,Moe's Tavern,Ura Snotball?
+32448,148,197,794000,Homer Simpson,Springfield Nuclear Power Plant,"What?! How dare you! If I find out who this is, I'll staple a flag to your butt and mail you to Iran!"
+32449,148,198,801000,Homer Simpson,Springfield Nuclear Power Plant,"Okay, your turn."
+32450,148,199,803000,Lisa Simpson,Springfield Nuclear Power Plant,Hmmm... Truth.
+32451,148,200,804000,Homer Simpson,Springfield Nuclear Power Plant,Ummm... Do you have a crush on anyone?
+32452,148,201,808000,Lisa Simpson,Springfield Nuclear Power Plant,Da-ad!
+32453,148,202,809000,Homer Simpson,Springfield Nuclear Power Plant,I won't tell anybody.
+32454,148,203,811000,Lisa Simpson,Springfield Nuclear Power Plant,"Dad, you tell everybody everything. Even Moe knew when I threw up on the dentist."
+32455,148,204,815000,Homer Simpson,Springfield Nuclear Power Plant,"Moe thinks he knows a lot more than Moe knows! Well, just give me another chance, and I'll prove I can keep your secrets."
+32456,148,205,822000,Lisa Simpson,Springfield Nuclear Power Plant,Okay. I like...
+32457,148,206,826000,Lisa Simpson,Springfield Nuclear Power Plant,Langdon Alger.
+32458,148,207,828000,Homer Simpson,Springfield Nuclear Power Plant,I have no idea who that is.
+32459,148,208,831000,Lisa Simpson,Springfield Nuclear Power Plant,Nobody does! He's very quiet and enjoys puzzles. But that still doesn't mean you can tell anyone!
+32460,148,209,837000,Homer Simpson,Springfield Nuclear Power Plant,"I've already forgotten his name. It was Larsen something, right?"
+32461,148,210,844000,Lisa Simpson,Springfield Nuclear Power Plant,"Thanks, Dad. Oh, this has been the best Spring Break ever!"
+32463,148,212,848000,Commanding-voiced Man,Simpson Home,"--and with my patented seminar, you will learn how to corner the real estate market through hypnosis. Why waste your hypnotic powers on neighbors and co-workers, when you can be using them to get ahead of..."
+32464,148,213,857000,Marge Simpson,Simpson Home,I can't take this anymore!
+32466,148,215,877000,Marge Simpson,Simpson Home,"Aw, aw, there, there, oh, Maggie... There..."
+32468,148,217,888000,Bart Simpson,Bart's Car,We're on the home stretch!
+32469,148,218,890000,Milhouse Van Houten,Bart's Car,"Next stop, the Knoxville World's Fair and its fabulous Sunsphere!"
+32471,148,220,900000,Bart Simpson,SITE OF THE WORLD'S FAIR,"Hurry up! We've only got four days to spend at the... ""Wod Fir?"""
+32472,148,221,911000,Bart Simpson,SITE OF THE WORLD'S FAIR,"Uh, excuse me... Is this the World's Fair Visitors Center?"
+32473,148,222,915000,Proprietor,SITE OF THE WORLD'S FAIR,Used to be. Back in 1982. You're fourteen years too late.
+32474,148,223,921000,Milhouse Van Houten,SITE OF THE WORLD'S FAIR,"But there's another World's Fair coming soon, right? Before Friday?"
+32475,148,224,928000,Bart Simpson,SITE OF THE WORLD'S FAIR,What about the Sunsphere?
+32476,148,225,929000,Proprietor,SITE OF THE WORLD'S FAIR,"You mean the Wigsphere. You're welcome to go up there, if you wanna see 16,000 boxes of unsold wigs. Now, you gentlemen gonna buy some wigs or ain't ya?"
+32478,148,227,941000,Milhouse Van Houten,DOWNTOWN KNOXVILLE,"I guess fate was against us. It's really nobody's fault. Right? Uh, right?"
+32479,148,228,949000,Bart Simpson,DOWNTOWN KNOXVILLE,"Well, we've still got a car and a wad of cash."
+32480,148,229,952000,Martin Prince,DOWNTOWN KNOXVILLE,"Er, no we don't. I must've spent our last ten dollars on this Al Gore doll."
+32481,148,230,958000,Al Gore Doll,DOWNTOWN KNOXVILLE,You are hearing me talk.
+32360,148,231,961000,Nelson Muntz,DOWNTOWN KNOXVILLE,I hate this place!
+32482,148,232,968000,Bart Simpson,DOWNTOWN KNOXVILLE,We've got no car!
+32483,148,233,969000,Martin Prince,DOWNTOWN KNOXVILLE,We've got no money!
+32484,148,234,971000,Milhouse Van Houten,DOWNTOWN KNOXVILLE,And no one knows we're here!
+32485,148,235,972000,Martin Prince,DOWNTOWN KNOXVILLE,We're stranded!
+32487,148,237,975000,Nelson Muntz,DOWNTOWN KNOXVILLE,"But on the plus side, I knocked over the Sunsphere."
+32488,148,238,982000,Nelson Muntz,DOWNTOWN KNOXVILLE,Haw haw!
+32489,148,239,987000,Nelson Muntz,DOWNTOWN KNOXVILLE,"This never would've happened if we'd gone to Macon, Georgia. I'm just sayin', is all."
+32490,148,240,994000,Martin Prince,DOWNTOWN KNOXVILLE,"Fellows, I think perhaps the time has come to call our parents."
+32491,148,241,998000,Bart Simpson,DOWNTOWN KNOXVILLE,"No!! They'd kill us! Look, we got here on our own, so we can survive here on our own. All we need is money, food, and a way to get home. Follow me."
+32492,148,242,1006000,Bart Simpson,DOWNTOWN KNOXVILLE,Everybody remember: we're parked under the Sunsphere.
+32494,148,244,1013000,Milhouse Van Houten,PAWN SHOP,Hey! I need those to see!
+32495,148,245,1016000,Pawn Shop Clerk,PAWN SHOP,"Ah, these lenses are perfect. Now I can re-bottom those antique Coke bottles."
+32496,148,246,1021000,Pawn Shop Clerk,PAWN SHOP,Three hundred...
+32497,148,247,1022000,Milhouse Van Houten,PAWN SHOP,Hey!...
+32498,148,248,1022000,Pawn Shop Clerk,PAWN SHOP,Four hundred...
+32499,148,249,1022000,Milhouse Van Houten,PAWN SHOP,Come back!...
+32500,148,250,1024000,Pawn Shop Clerk,PAWN SHOP,Five hundred... Six hundred.
+32501,148,251,1027000,Milhouse Van Houten,PAWN SHOP,Wh... wh... Oh!... Oh... Ow!... Oh...
+32502,148,252,1029000,Pawn Shop Clerk,PAWN SHOP,Five hundred. Four hundred. Three hundred. Two hundred. One hundred. Zero...
+32503,148,253,1033000,Bart Simpson,PAWN SHOP,Come on! This train goes right through Springfield!
+32506,148,256,1049000,Marge Simpson,Simpson Home,Of course I'll accept! Bart! I've missed you so mu-- You want to speak to Lisa?
+32507,148,257,1058000,Lisa Simpson,Simpson Home,"So how's the National Grammar Rodeo, Bart?"
+32508,148,258,1061000,Bart Simpson,Simpson Home,"Lisa, I really need your help, so I'm gonna let you in on a secret. There's no such thing."
+32509,148,259,1065000,Lisa Simpson,Simpson Home,"I knew it! I knew it because why would they have our National Grammar Rodeo in another nation?! Oh, Bart, you're going to be in sooo much trouble when--"
+32510,148,260,1071000,Bart Simpson,Simpson Home,I'm in trouble already. Here's what happened...So you've got to think of a way I can come home for free.
+32512,148,261,1081000,Lisa Simpson,Simpson Home,"Hmm... You could travel for free if you were a stewardess. Well, how badly do you want to get home? All right, all right, how about a courier? They travel for free, too. No, that's a terrier. They're dogs."
+32515,148,264,1096000,Owner,Knoxville Bonded Courier Service,"Well, you sure don't look 25, but your unlaminated, out-of-state driver's license is proof enough for me. Here's your first assignment."
+32517,148,266,1116000,Bart Simpson,Hong Kong International Airport,Zhè shì nide yánjing.
+32518,148,267,1116000,Chinese Doctor,Hong Kong International Airport,Xiè xiè.
+32519,148,268,1116000,Seymour Skinner,Hong Kong International Airport,What the...?
+32521,148,270,1122000,Milhouse Van Houten,Knoxville Bonded Courier Service,"Can we call our parents yet, Bart?"
+32522,148,271,1127000,Bart Simpson,Knoxville Bonded Courier Service,"Lisa? This isn't working. I've got to courier something to Springfield. And it's gotta be big enough to fit Milhouse, Martin, and Nelson inside."
+32523,148,272,1133000,Lisa Simpson,Knoxville Bonded Courier Service,"But Bart, that'll cost a fortune."
+32524,148,273,1136000,Owner,Knoxville Bonded Courier Service,"Simpson, how'd you like to escort 500 Big Macs to Marlon Brando's island?"
+32525,148,274,1140000,Bart Simpson,Knoxville Bonded Courier Service,"Oh, I can't take much more of this. I'm counting on you, Lis."
+32527,148,276,1150000,Lisa Simpson,Springfield Nuclear Power Plant,Whee.
+32528,148,277,1151000,Homer Simpson,Springfield Nuclear Power Plant,"What's wrong, honey?"
+32529,148,278,1153000,Lisa Simpson,Springfield Nuclear Power Plant,"There's something troubling me, Dad...but I don't think I can tell you because it's a secret."
+32530,148,279,1157000,Homer Simpson,Springfield Nuclear Power Plant,"Uh, you don't have to tell me, but I thought we trusted each other with our secrets now. I mean, I haven't told a soul about your new boyfriend."
+32531,148,280,1164000,Lisa Simpson,Springfield Nuclear Power Plant,"Langdon Alger? Oh, I don't like him anymore... Okay, but you've got to promise you won't get mad or tell anyone, especially Bart."
+32532,148,281,1171000,Homer Simpson,Springfield Nuclear Power Plant,I promise.
+32533,148,282,1173000,Lisa Simpson,Springfield Nuclear Power Plant,"Bart rented a car with a phony driver's license and drove Milhouse, Nelson, and Martin to a wig outlet in Knoxville and the car got crushed and they're out of money and they can't get home and Bart's working as a courier and just came back from Hong Kong."
+32534,148,283,1182000,Homer Simpson,Springfield Nuclear Power Plant,"Yes, that's a real pickle. Would you excuse me for a moment?"
+32536,148,285,1199000,Homer Simpson,Springfield Nuclear Power Plant,"All right, I have thought this through. I will send Bart the money to fly home, and then I will murder him."
+32537,148,286,1206000,Lisa Simpson,Springfield Nuclear Power Plant,"No, no! Then he'll know I told! Dad, you said I could trust you."
+32538,148,287,1213000,Homer Simpson,Springfield Nuclear Power Plant,"Okay, we'll work this out together. First things first: where is Knoxville?"
+32539,148,288,1218000,Lisa Simpson,Springfield Nuclear Power Plant,"It's in Tennessee, right next to the Oak Ridge Nuclear Facility, birthplace of the atomic bomb."
+32540,148,289,1224000,Homer Simpson,Springfield Nuclear Power Plant,"Well, maybe we could order something from Oak Ridge..."
+32541,148,290,1226000,Lisa Simpson,Springfield Nuclear Power Plant,...and Bart could be the courier!
+32542,148,291,1230000,Homer Simpson,Springfield Nuclear Power Plant,"Y'ello, Oak Ridge? This is Springfield Nuclear. We need to order a... uh...T-437 Safety Command Console."
+32543,148,292,1242000,Oak Ridge Engineer,Springfield Nuclear Power Plant,"Uh, Springfield, my computer shows your T-437 is fully operational."
+32544,148,293,1246000,Oak Ridge Engineer,Springfield Nuclear Power Plant,"Uh, I suggest you... Oh my God! Oh, God, no! Oh! This can't be happening! This... You're operating without a T-437, Springfield!! Oh, Sweet Mother of Mercy! I mean... I mean... My God!..."
+32545,148,294,1259000,Homer Simpson,Springfield Nuclear Power Plant,"And have it sent to the Springfield Nuclear Power Plant, care of Homer J.--"
+32546,148,295,1264000,Lisa Simpson,Springfield Nuclear Power Plant,"No! Don't use your real name, or Bart will know!"
+32547,148,296,1267000,Homer Simpson,Springfield Nuclear Power Plant,Forget the name Homer Simpson. Have it sent care of... Langdon Alger.
+32549,148,298,1274000,Milhouse Van Houten,Cargo Plane,"Uh, Bart... Bart, we really could use another air hole."
+32550,148,299,1280000,Bart Simpson,Cargo Plane,Ssshh! They'll know you're in there!
+32552,148,301,1286000,Bart Simpson,Simpson Home,...but I don't think I'd go back again next year. It's getting too commercial. They've forgotten it's supposed to be about the grammar.
+32553,148,302,1301000,Marge Simpson,Simpson Home,"Hello? Oh, hello, Principal Skinner... No, Bart has never been to Hong Kong... Goodnight."
+32554,148,303,1312000,Marge Simpson,Simpson Home,"Hello? Tennessee State Police? No, my son's car was not crushed in Knoxville. I don't know where to begin telling you what's wrong with that."
+32555,148,304,1323000,Marge Simpson,Simpson Home,"Hello? No, Bart is not available tomorrow to deliver a human kidney to Amsterdam!"
+32557,148,306,1332000,Marge Simpson,Simpson Home,"Homer, are you laughing at me?"

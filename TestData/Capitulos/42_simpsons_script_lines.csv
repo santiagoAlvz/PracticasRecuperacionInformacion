@@ -1,0 +1,254 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+2947,42,1,55000,Kent Brockman,Simpson Home,"And, to conclude this Halloween newscast on a scary note, remember: The presidential primaries are only a few months away."
+2948,42,2,66000,Homer Simpson,Simpson Home,"Hey, if you don't like it, go to Russia."
+2949,42,3,71000,Kearney Zzyzwicz,Simpson Home,"Trick or treat, man."
+2950,42,4,73000,Homer Simpson,Simpson Home,"Hey, aren't you a little old for this? You're not even wearing costumes."
+2951,42,5,76000,Kearney Zzyzwicz,Simpson Home,"Hand over the candy, old dude, or we egg your house back to the stone age."
+2952,42,6,80000,Homer Simpson,Simpson Home,"Here you go, kids. Lousy punks..."
+2954,42,8,89000,Marge Simpson,Simpson Home,We're home!
+2955,42,9,95000,Homer Simpson,Simpson Home,Get a good haul this year?
+2956,42,10,97000,Bart Simpson,Simpson Home,Heh heh heh...Jackpot!
+2957,42,11,98000,Homer Simpson,Simpson Home,"I am very, very proud of you kids."
+2958,42,12,101000,Bart Simpson,Simpson Home,We would have gotten even more if Lisa could walk faster.
+2959,42,13,104000,Lisa Simpson,Simpson Home,I didn't select this costume for mobility. I wore it to salute the noble native American of the Pacific Northwests...
+2960,42,14,110000,Lisa Simpson,Simpson Home,YAHHH!
+2961,42,15,112000,Marge Simpson,Simpson Home,"Now children, you can have one piece of candy tonight and save the rest for..."
+2962,42,16,119000,Marge Simpson,Simpson Home,If you eat too much you'll have nightmares.
+2963,42,17,122000,Bart Simpson,Simpson Home,"Oh, yeah. Everybody in the family is gonna have a bad nightmare tonight."
+2964,42,18,126000,Lisa Simpson,Simpson Home,"Oh yeah, three bad nightmares."
+2965,42,19,128000,Homer Simpson,Simpson Home,I'd like to see that.
+2967,42,21,148000,Homer Simpson,MARRAKESH,What a dump. Why would Princess Grace live in a place like this?
+2968,42,22,152000,Lisa Simpson,MARRAKESH,"Dad, that's Monaco."
+2971,42,25,157000,Bart Simpson,BAZAAR AREA,I can do that but I don't wanna.
+2972,42,26,161000,Homer Simpson,BAZAAR AREA,Eeuhgh. What is this thing?
+2973,42,27,162000,Merchant,BAZAAR AREA,"It is a monkey's paw, dating back to Allal ben Abdallah. It has the power to grant wishes to its owner."
+2974,42,28,169000,Homer Simpson,BAZAAR AREA,Oh yeah? How much?
+2976,42,29,171000,Merchant,BAZAAR AREA,"Sir, I must strongly advise you do not purchase this. Behind every wish lurks grave misfortune. I myself was once President of Algeria..."
+2977,42,30,178000,Homer Simpson,BAZAAR AREA,"C'mom pal, I don't wanna hear your life story. Paw me!"
+2979,42,32,183000,Marge Simpson,CAMEL STALL,"Ugghh, Homer. Where did you get that ugly thing?"
+2980,42,33,187000,Homer Simpson,CAMEL STALL,"Why at that little shop, right over... there."
+2981,42,34,192000,Homer Simpson,CAMEL STALL,"Oh no, wait, it was over there."
+2982,42,35,193000,Merchant,CAMEL STALL,You'll be sorry.
+2984,42,37,195000,Airport Announcer,MARRAKESH AIRPORT,"Flight seven, Marakesh to Springfield now boarding."
+2985,42,38,198000,Customs Agent,MARRAKESH AIRPORT,Just a moment...
+2987,42,40,205000,Homer Simpson,MARRAKESH AIRPORT,"Don't shoot, Don't shoot. They're souvenirs."
+2988,42,41,208000,Customs Agent,MARRAKESH AIRPORT,You must pay a fine of two American dollars.
+2989,42,42,211000,Homer Simpson,MARRAKESH AIRPORT,Okay.
+2991,42,44,212000,Bart Simpson,Simpson Home,Let's wish for x-ray specs that really work.
+2992,42,45,215000,Lisa Simpson,Simpson Home,"No, Bart. Peace on Earth."
+2993,42,46,216000,Bart Simpson,Simpson Home,X-ray specs.
+2994,42,47,216000,Lisa Simpson,Simpson Home,Peace on Earth.
+2995,42,48,217000,Bart Simpson,Simpson Home,X-ray specs.
+2996,42,49,217000,Lisa Simpson,Simpson Home,Peace on Earth.
+2997,42,50,217000,Bart Simpson,Simpson Home,X-ray specs.
+2998,42,51,218000,Lisa Simpson,Simpson Home,Peace on Earth.
+2999,42,52,218000,Bart Simpson,Simpson Home,X-ray spects.
+3000,42,53,218000,Lisa Simpson,Simpson Home,Peace on Earth.
+3001,42,54,219000,Homer Simpson,Simpson Home,"Forget it, you two. As the pants- wearer of this house, I get the first wish."
+3002,42,55,223000,Marge Simpson,Simpson Home,"Homer, there's something I don't like about that severed hand."
+3003,42,56,227000,Homer Simpson,Simpson Home,"Marge, don't flake out on me. That monkey's paw is gonna make our dreams come true."
+3004,42,57,235000,Lisa Simpson,Simpson Home,"Oh, no! Maggie made a wish!"
+3005,42,58,239000,Marge Simpson,Simpson Home,"Oh, my land!"
+3006,42,59,241000,Homer Simpson,Simpson Home,"Ooh, a luxury car. Good baby. Good Maggie."
+3007,42,60,248000,Marge Simpson,Simpson Home,"Ooh, a new pacifier."
+3009,42,62,250000,Bart Simpson,Simpson Home,"Okay, no more fooling around. Paw, this is Bart. I wish for the Simpsons to be rich and famous."
+3010,42,63,257000,Homer Simpson,Simpson Home,Now you're talkin'!
+3011,42,64,261000,Lisa Simpson,Simpson Home,Yaaayyy!!
+3012,42,65,262000,Homer Simpson,Simpson Home,Woo hoo!
+2975,42,66,264000,Marge Simpson,Simpson Home,Look everybody! My purse exploded!
+3013,42,67,267000,Homer Simpson,Simpson Home,"C'mon, everybody. We're going to the fanciest restaurant in town!"
+3015,42,69,272000,Maitre D',Restaurant,I'm terribly sorry. I have absolutely nothing until June.
+3016,42,70,276000,Maitre D',Restaurant,"Ah, the Simpsons! Right this way, please."
+3017,42,71,280000,Marge Simpson,Restaurant,"Homer, maybe fame and fortune aren't as bad as they say."
+3018,42,72,284000,Woman #1,Restaurant,"If I hear one more thing about the Simpsons, I swear I'm going to scream."
+3019,42,73,288000,Woman #2,Restaurant,"At first they were cute and funny, but now they're just annoying."
+3021,42,75,291000,Customer,Simpsons Store,Eighteen bucks for this? What a rip-off!
+3023,42,77,295000,Otto Mann,Record Store,"Man, this thing's really gettin' outta hand."
+3025,42,79,305000,Helen Lovejoy,Street,"Oh, is there anything they won't do?"
+3027,42,81,308000,Marge Simpson,Simpson Home,"Oh Homer, this is awful."
+3028,42,82,310000,Homer Simpson,Simpson Home,"Come to think of it, the guy that sold me this thing did say the wishes would bring grave misfortune. I thought he was just being colorful."
+3029,42,83,317000,Lisa Simpson,Simpson Home,I wish for world peace.
+3030,42,84,320000,Homer Simpson,Simpson Home,"Lisa, that was very selfish of you."
+3031,42,85,327000,English Diplomat,Simpson Home,"Sorry about the Falklands, old boy."
+3032,42,86,329000,Argentine Diplomat,Simpson Home,"Ah, forget it. We kind of knew they were yours."
+3033,42,87,340000,Krusty the Clown,Simpson Home,Won't be needing these anymore.
+3034,42,88,353000,Singers,Simpson Home,"C'MON PEOPLE, NOW / SMILE ON YOUR BROTHER / EVERYBODY GET TOGETHER / TRY TO LOVE ONE ANOTHER RIGHT NOW..."
+3036,42,90,363000,Kodos,Spaceship,Foolish humans.
+3037,42,91,365000,Kang,Spaceship,"Oh yes, Kodos. Earth is now ripe for the plucking."
+3040,42,94,387000,Kang,Spaceship,People of earth. We come to you in the spirit of hostility and menace.
+3041,42,95,392000,Mayor Joe Quimby,Spaceship,"Now, let's be reasonable. We can resolve our differences peacefully."
+3042,42,96,395000,Mayor Joe Quimby,Spaceship,Ow!
+3043,42,97,396000,Kodos,Spaceship,Your superior intellect is no match for our puny weapons.
+3044,42,98,400000,Apu Nahasapeemapetilon,Spaceship,Colonel! You've got to do something!
+3045,42,99,401000,Colonel,Spaceship,What do you want me to do? I'm a baker now.
+3047,42,100,404000,Lenny Leonard,Spaceship,They're konking us with a club. Wished we saved an A-bomb or two.
+3048,42,101,407000,Kodos,Spaceship,Move along humans.
+3049,42,102,410000,Female Office Worker,Spaceship,This is all the Simpsons' fault.
+3050,42,103,412000,Male Office Worker,Spaceship,Before I was just bored with their antics and their merchandise. Now I wish they were dead.
+3052,42,105,416000,Bart Simpson,Simpson Home,"Jeez, now we're slaves. This paw sucks."
+3053,42,106,418000,Homer Simpson,Simpson Home,"Ok, Ok. I'll make a wish that can't backfire. I wish for a turkey sandwich, on rye bread, with lettuce and mustard, And...AND! I don't want any zombie turkeys, I don't want to turn into a turkey myself, and I don't want any other weird surprises. You got it?"
+3054,42,107,437000,Homer Simpson,Simpson Home,"Hey... Hmm. Not bad. Nice hot mustard... good bread... Turkey's a little dry. The turkey's a little dry?! Oh foul, accursed thing! What demon from the depths of hell created thee?!"
+3055,42,108,455000,Ned Flanders,Simpson Home,"Hey, fellow slave, is that one of those monkey paw dealies that lets you wish for things?"
+3056,42,109,460000,Homer Simpson,Simpson Home,"Yeah, but I gotta warn you that this thing is ee ... Yeah, that's what it is. Wanna try it? Heh, heh, heh."
+3057,42,110,467000,Ned Flanders,Simpson Home,Okely-dokely.
+3058,42,111,468000,Ned Flanders,Simpson Home,"Ohh, would ya look at that?"
+3059,42,112,472000,Kodos,Simpson Home,"Kneel before my slingshot, puny earthling."
+3060,42,113,475000,Ned Flanders,Simpson Home,"Well, I guess my first wish is to get rid of those awful aliens."
+3061,42,114,479000,Kodos,Simpson Home,Aarsh. He's got a board with a nail in it!
+3062,42,115,482000,Moe Szyslak,Simpson Home,And save humanity will ya.
+3063,42,116,483000,Kang,Simpson Home,"RUN, KODOS!"
+3065,42,118,489000,Kodos,Spaceship,"Well, Kang, it seems the Earthlings won."
+3066,42,119,492000,Kang,Spaceship,"Did they?... That board with the nail in it may have defeated us. But the humans won't stop there. They'll make bigger boards and bigger nails. Soon, they will make a board with a nail so big it will destroy them all."
+3068,42,121,516000,Ned Flanders,Flanders Home,"Hey, Homer! This little thing-a-ma-jig really works great. Now that I've saved the earth, maybe I oughtta spruce up the ol' homestead."
+3069,42,122,525000,Homer Simpson,Flanders Home,I wish I had a Monkey's Paw.
+3071,42,124,532000,Lisa Simpson,Simpson Home,Bart... Bart...
+3072,42,125,535000,Bart Simpson,Simpson Home,Huh?... S'matter?
+3046,42,126,536000,Lisa Simpson,Simpson Home,I had a bad dream. Could I sleep in your bed?
+3073,42,127,539000,Bart Simpson,Simpson Home,No.
+3074,42,128,541000,Lisa Simpson,Simpson Home,I'll give you a candy necklace.
+3075,42,129,547000,Bart Simpson,Simpson Home,Climb aboard.
+3076,42,130,550000,Lisa Simpson,Simpson Home,"Thanks, Bart."
+3077,42,131,551000,Bart Simpson,Simpson Home,"Less talk, more sleep."
+3079,42,133,560000,Narrator,AERIAL VIEW OF SPRINGFIELD,"Presented for your consideration, Springfield, an average little town... with a not-so-average monster."
+3081,42,135,565000,Townspeople,Main Street,Happy thoughts... happy thoughts... what a good day... happy thoughts...
+3082,42,136,567000,Narrator,Main Street,"The people of Springfield have to make sure they think happy thoughts and say happy things, because this particular monster can read minds. And if displeased, can turn people into grotesque walking terrors."
+3083,42,137,581000,Jasper Beardly,Main Street,"Happy thoughts... happy thoughts... Boy, I'm gettin' mighty sick of this."
+3084,42,138,587000,Jasper Beardly,Main Street,Ruff... ruff... ruff. Bow-wow!
+3086,42,140,589000,Narrator,Simpson Home,"And did I mention that the monster is a 10 year old boy? Quite a twist, eh? Bet you didn't see that one coming."
+3087,42,141,597000,Bart Simpson,Simpson Home,Good morning.
+3088,42,142,600000,Lisa Simpson,Simpson Home,Morning.
+3089,42,143,601000,Marge Simpson,Simpson Home,"Good morning, dear."
+3090,42,144,603000,Homer Simpson,Simpson Home,Hiya Bart!!! How's my boy! Heh heh. Heh heh.
+3091,42,145,607000,Bart Simpson,Simpson Home,"Every day, same old cat. I'll make him more interesting."
+3092,42,146,617000,Bart Simpson,Simpson Home,"Oh, there. That's better."
+3093,42,147,619000,Marge Simpson,Simpson Home,"Much better! Oh good, the curtains are on fire!"
+3094,42,148,623000,Homer Simpson,Simpson Home,"It's good that you made that awful thing, Bart. It's real good."
+3095,42,149,627000,Marge Simpson,Simpson Home,Now hadn't you better get ready for school?
+3096,42,150,629000,Bart Simpson,Simpson Home,Okay.
+3097,42,151,630000,Homer Simpson,Simpson Home,"He gets it from your side of the family, you know. No monsters on my side."
+3099,42,153,638000,Bart Simpson,School Bus,Hi guys. Hi Otto. Move over. I'm driving.
+3100,42,154,642000,Otto Mann,School Bus,"No can do, little buddy. See, there's a rule that... oh wait... you're the little dude with all the gnarly powers."
+3103,42,157,653000,Bart Simpson,School Bus,"Quit riding the brake, Otto. Give it some gas, man."
+3104,42,158,656000,Otto Mann,School Bus,"Hey, this is fun, isn't it? We're going to die, aren't we?"
+3105,42,159,662000,Lou,School Bus,"Hi ya, Bart!"
+3107,42,161,665000,Edna Krabappel-Flanders,Springfield Elementary School,"Well class, the history of our country has been changed again, huh, to correspond with Bart's answers on yesterday's test."
+3108,42,162,674000,Edna Krabappel-Flanders,Springfield Elementary School,"America was now discovered in 1942 by...""Some Guy""... And our country isn't called ""America"" anymore, it's ""Bonerland."""
+3109,42,163,684000,Seymour Skinner,Springfield Elementary School,"Your attention please. This is Principal Skinner. Bart, this one's for you. Hello ma baby, hello ma honey, hello my ragtime gal... Send me a kiss by wire.."
+3110,42,164,698000,Bart Simpson,Springfield Elementary School,Phone.
+3112,42,166,700000,Patrons,Moe's Tavern,Happy thoughts... happy thoughts... we love that boy.
+3113,42,167,703000,Moe Szyslak,Moe's Tavern,"Moe's Tavern. Hold on, I'll check. ... Hey everybody! I'm a stupid moron with an ugly face and a big butt, and my butt smells, and I like to kiss my own butt."
+3114,42,168,718000,Barney Gumble,Moe's Tavern,That's a new one .
+3115,42,169,720000,Moe Szyslak,Moe's Tavern,Now wait a minute...
+3117,42,171,726000,Seymour Skinner,Springfield Elementary School,"One... more... time! HELLO MA BABY... HELLO MA HONEY... HELLO MY RAGTIME GAL. DOUBLETIME, NOW. SEND ME A KISS BY WIRE..."
+3118,42,172,734000,Bart Simpson,Springfield Elementary School,I love school.
+3120,42,174,738000,Homer Simpson,Simpson Home,Come on... make it... make it... make it... please... please... please.
+3121,42,175,742000,Bart Simpson,Simpson Home,I want to watch Krusty.
+3122,42,176,744000,Homer Simpson,Simpson Home,Shut up boy. If they make this field goal I win fifty bucks.
+3123,42,177,750000,Vin Scully,Simpson Home,The kick is up...it's looking good... the ball is turning into a fat bald guy...
+3125,42,179,756000,Vin Scully,Simpson Home,"...and it's no good. And you know what we say everytime something strange happens: ""It's good that Bart did that. It's very good...."""
+3126,42,180,769000,Krusty the Clown,Simpson Home,"Well, we're still on. Three hundred and forty-six consecutive hours. And all because of one little boy who... who won't let me stop! Anyway... now let's go over and see if Sideshow Mel has any more of those legal, over-the-counter wake-up drugs of his."
+3127,42,181,794000,Kids In Audience,Simpson Home,Yayy!
+3128,42,182,794000,Homer Simpson,Simpson Home,"Slowly... slowly... don't make a sound... don't even think, because he can hear your thoughts... then, when he's least expecting it, bash his head in with a chair. End of monster. Heh heh heh."
+3106,42,184,810000,Marge Simpson,Simpson Home,Bart!
+1101,42,185,811000,Bart Simpson,Simpson Home,Lisa did it.
+3130,42,186,812000,Marge Simpson,Simpson Home,"That's it, young man. You're coming with me..."
+3131,42,187,816000,Marge Simpson,Simpson Home,Please?
+3133,42,189,817000,Dr. Marvin Monroe,Marvin Monroe's Office,"You like attention, don't you Bart?"
+3134,42,190,821000,Bart Simpson,Marvin Monroe's Office,Do I ever!
+3135,42,191,822000,DR MONROE,Marvin Monroe's Office,"Well we all do. The problem is that you don't care whether you get good attention, for say getting good marks in school, or bad attention for .. say.. turning your father into a Jack-in-the-box."
+3136,42,192,832000,Dr. Marvin Monroe,Marvin Monroe's Office,"Homer, I see you agree with my theory."
+3137,42,193,833000,Homer Simpson,Marvin Monroe's Office,I'm not nodding. It's the air conditioning.
+3138,42,194,836000,Dr. Marvin Monroe,Marvin Monroe's Office,Well that's too bad because the attention the boy craves should be coming from you. I want you to spend some quality time with him. Get to know him. Maybe even love him.
+3139,42,195,849000,Homer Simpson,Marvin Monroe's Office,Ouch!
+3140,42,196,874000,Homer Simpson,Marvin Monroe's Office,"Good night, son."
+3141,42,197,875000,Bart Simpson,Marvin Monroe's Office,"Good night, dad. You know, these last few days have been really swell. I wish there was something I could do to repay you."
+3142,42,198,882000,Homer Simpson,Marvin Monroe's Office,"Well, if you wanted to, you could give me my body back."
+3143,42,199,886000,Bart Simpson,Marvin Monroe's Office,You got it.
+3144,42,200,889000,Homer Simpson,Marvin Monroe's Office,"Oh, ah, thanks boy."
+3145,42,201,895000,Bart Simpson,Marvin Monroe's Office,"I love you, dad."
+3146,42,202,896000,Homer Simpson,Marvin Monroe's Office,"I love you, son."
+3148,42,204,900000,Bart Simpson,Simpson Home,Yaahhh!
+3149,42,205,907000,Lisa Simpson,Simpson Home,Mom! Dad!
+3150,42,206,909000,Marge Simpson,Simpson Home,"My goodness, what's wrong?"
+3151,42,207,911000,Bart Simpson,Simpson Home,We both had nightmares.
+3152,42,208,912000,Lisa Simpson,Simpson Home,Can we sleep with you?
+3153,42,209,913000,Homer Simpson,Simpson Home,You both toilet-trained?
+3154,42,210,915000,BART & LISA,Simpson Home,Yes!
+3155,42,211,915000,Homer Simpson,Simpson Home,"Well, okay then... ... Four o'clock... Coupla hours I have to get up and go to work... gotta go to work... go to work."
+3156,42,212,925000,C. Montgomery Burns,Simpson Home,"Look at them, Smithers. Goldbrickers, lay-abouts, slug-a-beds..."
+3158,42,214,933000,C. Montgomery Burns,Burns's Office,Little do they realize their days of suckling at my teat are numbered.
+3159,42,215,938000,Waylon Smithers,Burns's Office,"Oh, in the meantime, sir, may I suggest a random firing... just to throw the fear of God into them."
+3160,42,216,944000,C. Montgomery Burns,Burns's Office,Very well.
+3161,42,217,946000,C. Montgomery Burns,Burns's Office,"Eeney, meany, miney... ugh, him."
+3163,42,219,948000,Waylon Smithers,Springfield Nuclear Power Plant,"Attention Homer Simpson. Attention Homer Simpson. Wake up, Homer."
+3164,42,220,955000,Homer Simpson,Springfield Nuclear Power Plant,Huh? What?
+3165,42,221,956000,Waylon Smithers,Springfield Nuclear Power Plant,You're fired.
+3166,42,222,957000,Homer Simpson,Springfield Nuclear Power Plant,For what?
+3167,42,223,958000,Waylon Smithers,Springfield Nuclear Power Plant,For sleeping on the job.
+3168,42,224,959000,Homer Simpson,Springfield Nuclear Power Plant,How do you know I was sleeping?
+3169,42,225,961000,Waylon Smithers,Springfield Nuclear Power Plant,We've been watching you on the surveillance camera.
+3170,42,226,964000,Homer Simpson,Springfield Nuclear Power Plant,Camera?
+3173,42,229,966000,C. Montgomery Burns,Burns's Office,"Smithers, to the laboratory."
+3176,42,232,974000,C. Montgomery Burns,Laboratory,"You know Smithers, I've always despised the laziness of the common worker. Then I realized his spirit was willing, but the flesh was weak. So I replaced the flesh -- which is weak -- with steel, which is strong. Behold, the greatest breakthrough in labor relations since the cat o' nine tails."
+3177,42,233,997000,Waylon Smithers,Laboratory,"How long till it's up and running, sir?"
+3178,42,234,999000,C. Montgomery Burns,Laboratory,"Keep your pants on, Smithers. First, we need... The human brain."
+3180,42,236,1005000,Lisa Simpson,Simpson Home,"Hey, here's a good job, Dad. Oh wait, you have to know how to operate a ultrasonic lithotryptor."
+3181,42,237,1010000,Homer Simpson,Simpson Home,How hard can it be?
+3182,42,238,1011000,Bart Simpson,Simpson Home,"Hey, Dad. Here's one. Twenty-eight dollars an hour, plenty of fresh air... and you get to meet lots of interesting people."
+3183,42,239,1018000,Homer Simpson,Simpson Home,"Ooo, what job is that?"
+3184,42,240,1020000,Bart Simpson,Simpson Home,Grave digger.
+3186,42,242,1027000,Crypt Keeper Willie,Cemetery,"Deeper. Wider. Faster. I wouldn't bury me turtle in that mud puddle. Ah, what's the use?"
+3187,42,243,1033000,Homer Simpson,Cemetery,Sheesh. What a slave driver.
+3188,42,244,1045000,Waylon Smithers,Cemetery,"What corpse should we unearth, sir?"
+3189,42,245,1048000,C. Montgomery Burns,Cemetery,I don't know. I feel like a kid in a candy store.
+3190,42,246,1052000,C. Montgomery Burns,Cemetery,"Hello! An open grave. Smithers, get him out quickly, the stench is overpowering."
+3192,42,247,1058000,Waylon Smithers,Cemetery,"What a minute, sir. That's Homer Simpson. He wasn't exactly a model employee."
+3193,42,248,1063000,C. Montgomery Burns,Cemetery,"Well, who is a model ... employee?"
+3194,42,249,1066000,Waylon Smithers,Cemetery,"Ehhh... Simpson will do just fine, sir."
+3195,42,250,1072000,Waylon Smithers,Cemetery,"Did you hear that, sir?"
+3196,42,251,1074000,C. Montgomery Burns,Cemetery,"No, I didn't. Who is it? Frankenstein? The Booger Man?"
+3197,42,252,1079000,Waylon Smithers,Cemetery,"It's the man in the bag, sir. I think he's alive."
+3198,42,253,1082000,C. Montgomery Burns,Cemetery,Oh... bad corpse. Bad corpse. Stop scaring Smithers. Satisfied?
+3199,42,254,1088000,Waylon Smithers,Cemetery,"Thank you, sir."
+3201,42,256,1097000,C. Montgomery Burns,Laboratory,Excellent.
+3202,42,257,1099000,C. Montgomery Burns,Laboratory,"Smithers, hand me that ice cream scoop."
+3203,42,258,1101000,Waylon Smithers,Laboratory,Ice cream scoop?
+3204,42,259,1102000,C. Montgomery Burns,Laboratory,"Damn it, Smithers. This isn't rocket science, it's brain surgery."
+3205,42,260,1111000,C. Montgomery Burns,Laboratory,"Hel-lo. Look at me, I'm Davey Crockett."
+3206,42,261,1137000,C. Montgomery Burns,Laboratory,"Look, Smithers, a twitch... it's moving. It's alive! Oh, that fellow at Radio Shack said I was mad... well who's mad now?!"
+3207,42,262,1149000,C. Montgomery Burns,Laboratory,Hi there. I'm your dad-dy.
+3208,42,263,1170000,Robot,Laboratory,Mmm... sprinkles.
+3210,42,265,1172000,Tv Host,Simpson Home,"Geraldo Rivera, Madonna and a diseased Yak."
+3211,42,266,1176000,Lisa Simpson,Simpson Home,"Mom, what's wrong?"
+3212,42,267,1178000,Marge Simpson,Simpson Home,"It's your father, he's missing."
+3213,42,268,1179000,Bart Simpson,Simpson Home,Dad's missing? Get outta here.
+3214,42,269,1181000,Marge Simpson,Simpson Home,He's been gone for two days.
+3215,42,270,1183000,Lisa Simpson,Simpson Home,"Whayda ya know, she's right."
+3217,42,272,1186000,C. Montgomery Burns,Springfield Nuclear Power Plant,"It wasn't suppose to be this way. It was supposed to be a thing of beauty, not this abomination."
+3218,42,273,1197000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh Smithers, I was wrong to play god. Life is precious, not a thing to be toyed with. Now, take out that brain and flush it down the toilet."
+3219,42,274,1206000,Waylon Smithers,Springfield Nuclear Power Plant,"Sir, his family might appreciate it if you returned the brain to his body."
+3220,42,275,1210000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, come on. It's 11:45."
+3221,42,276,1214000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, Smithers, when you look at me with those puppy dog eyes... all right."
+1794,42,278,1222000,Homer Simpson,Laboratory,Ow. Ow. Ow. Ow.
+3191,42,279,1224000,C. Montgomery Burns,Laboratory,"Oh, will you quit your complaining."
+3223,42,280,1226000,Waylon Smithers,Laboratory,"Sir, do you know what this means? He is alive."
+3224,42,281,1229000,C. Montgomery Burns,Laboratory,"Oh you're right, Smithers. I guess I owe you a coke."
+3225,42,282,1233000,C. Montgomery Burns,Laboratory,"And as for you, you clinking, clattering, cacophony of colligenous cogs and camshafts, take that."
+3226,42,283,1241000,C. Montgomery Burns,Laboratory,Ahhh!
+3227,42,284,1243000,Waylon Smithers,Laboratory,"Run, sir!"
+3228,42,285,1247000,C. Montgomery Burns,Laboratory,"Every bone... shattered... organs... leaking vital fluids. Slight headache... loss of appetite. Smithers, I'm going to die."
+3229,42,286,1259000,Waylon Smithers,Laboratory,"Sir, is there nothing I can do?"
+3230,42,287,1261000,C. Montgomery Burns,Laboratory,"Well, perhaps. Smithers go to my office. In the third drawer of my desk are surgical tools and some ether..."
+3232,42,289,1272000,Marge Simpson,Simpson Home,"Did you have a nightmare, Homie?"
+3233,42,290,1274000,Homer Simpson,Simpson Home,No. Bart bit me.
+3234,42,291,1275000,Bart Simpson,Simpson Home,"Hey, man, you were crushing me. I tried to scream, but my mouth was full of flab."
+3235,42,292,1279000,Homer Simpson,Simpson Home,I gotta go shake the dew off the lilly.
+3237,42,294,1284000,C. Montgomery Burns,Simpson Home,Perhaps you're wondering why you have two heads? Well my body was crushed so I had my head grafted on to or shall we say ample frame.
+3238,42,295,1292000,Homer Simpson,Simpson Home,I didn't wake up. It's all a dream. It's just a dream!
+3239,42,296,1296000,C. Montgomery Burns,Simpson Home,Oh that's right. It's all a dream.
+3240,42,297,1303000,C. Montgomery Burns,Simpson Home,Or is it?
+3241,42,298,1303000,TV Announcer,Simpson Home,Next week on The Simpsons.
+3243,42,300,1304000,Lisa Simpson,Simpson Kitchen,"Don't forget dad, tonight my class is having an all you can eat spaghetti dinner."
+3244,42,301,1309000,Homer Simpson,Simpson Kitchen,Umm. Spaghetti.
+3245,42,302,1310000,C. Montgomery Burns,Simpson Kitchen,"But Homer, tonight's our reception for Queen Beatrice of the Netherlands."
+3246,42,303,1314000,Homer Simpson,Simpson Kitchen,"Oh, I hate having two heads."

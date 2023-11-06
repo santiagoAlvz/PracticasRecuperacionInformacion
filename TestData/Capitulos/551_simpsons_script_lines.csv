@@ -1,0 +1,208 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+143112,551,2,115000,Bart Simpson,KITCHEN,Mom! It's not funny if I can't hear the cats drown in their own barf!
+143114,551,5,126000,Marge Simpson,KITCHEN,Why can't kids still watch Captain Kangaroo?
+143115,551,6,129000,Bart Simpson,KITCHEN,Culture's in decline! Deal with it!
+143117,551,8,134000,Bart Simpson,KITCHEN,Yay! A mess!
+143118,551,9,136000,Homer Simpson,KITCHEN,Ooh! Can I lick the ceiling?
+143119,551,10,139000,Marge Simpson,KITCHEN,I was making that cake for the block party today! Now there's no choice but to go... store-bought!
+143122,551,13,155000,Shauna Chalmers,Supermarket,I need a price check on Gramma Shortcut's Store-bought Bundt Cake.
+143123,551,14,164000,Marge Simpson,Supermarket,Keep it! Let's go!
+143124,551,15,168000,Shauna Chalmers,Supermarket,We got some put-backs.
+143125,551,16,170000,Gil Gunderson,Supermarket,"Roger dodger, boss!"
+143126,551,17,172000,Shauna Chalmers,Supermarket,"Hey, don't turn old man on me!"
+143127,551,18,174000,Gil Gunderson,Supermarket,"You know, I used to be the buyer for the whole chain. Seventy-one stores... you heard of the A. and P.? Well, we were the J. and G. YOU'LL LIKE WHAT YOU SEE AT THE J. AND G.! / THERE USED TO BE THREE BUT WE LOST THE Z. and--!"
+143128,551,19,188000,Shauna Chalmers,Supermarket,If I make out with you will you shut up?
+143129,551,20,190000,Gil Gunderson,Supermarket,"Eh, give it a shot."
+143130,551,21,190000,Gil Gunderson,Supermarket,"/ You know, we used to give out gray stamps. Remember green stamps? Ours was gray."
+143132,551,23,202000,Kearney Zzyzwicz,Evergreen Terrace,"Attention block party losers -- we are ""Ear Poison""!"
+143133,551,24,210000,DOLPH,Evergreen Terrace,"THERE WERE BELLS ON A HILL / BUT I NEVER HEARD THEM RINGING / NO, I NEVER HEARD THEM AT ALL /"
+143135,551,26,223000,BRITISH MAN,Evergreen Terrace,"We must have the same recipe. ""Drive to store. Buy cheap cake. Serves them right."" Booth Wilkes-John. My wife and I just moved here from London."
+143136,551,27,231000,Marge Simpson,Evergreen Terrace,Marge Simpson. Congratulations on little King George.
+143137,551,28,235000,Booth,Evergreen Terrace,"Well, Marge. My wife and I are hosting a get-to-know-you game night on Saturday next. Or as you call it ""next Saturday."""
+143138,551,29,242000,Marge Simpson,Evergreen Terrace,Ooh! Game night?
+143139,551,30,244000,Booth,Evergreen Terrace,"You know, adult games. Well not ""adult"" games. Fun games like ""Charades"" . Or as you call it, ""Pictionary."""
+143140,551,31,252000,Marge Simpson,Evergreen Terrace,That sounds like fun. I'll just tell Homer and--
+143141,551,32,257000,Dr. Julius Hibbert,Evergreen Terrace,"Homer! For the last time, do not drink the Yahtzee dice!"
+143142,551,33,260000,Homer Simpson,Evergreen Terrace,Fine.
+143143,551,34,263000,Homer Simpson,Evergreen Terrace,"Ooh, doubles!"
+143144,551,35,264000,Marge Simpson,Evergreen Terrace,I don't know... we have church the next morning... starts at eleven...
+143145,551,36,270000,Rev. Timothy Lovejoy,Evergreen Terrace,"Oh, we're going to the game night. Moving church to Monday afternoon."
+143147,551,38,275000,Booth,Evergreen Terrace,"Well, if you change your mind, please let us know. We could become couples friends. Now let me try some of Ned Flanders' ""no-alarm chili."""
+143148,551,39,283000,Ned Flanders,Evergreen Terrace,You'll only taste the spoon!
+143149,551,40,285000,Booth,Evergreen Terrace,Brilliant!
+143151,551,42,289000,Marge Simpson,Simpson Home,Why don't we have any couples friends?
+143152,551,43,292000,Homer Simpson,Simpson Home,"Because couples friends are a myth, started by restaurants with tables for four."
+143153,551,44,298000,Marge Simpson,Simpson Home,I want friends. Any friends.
+143154,551,45,301000,Homer Simpson,Simpson Home,"Okay, sweetie, I'll call the Van Houtens."
+143155,551,46,304000,Marge Simpson,Simpson Home,Not the Van Houtens.
+143156,551,47,304000,Homer Simpson,Simpson Home,But...
+143157,551,48,305000,Marge Simpson,Simpson Home,They're always bragging about their trip to Rome. It was twelve years ago and it was a layover. I want new friends!
+143158,551,49,312000,Lisa Simpson,Simpson Home,Can I make an observation?
+143159,551,50,314000,Lisa Simpson,Simpson Home,I'm okay with no friends. It's easier to focus and it'll give me great material for whatever art form I choose. Right now I'm thinking long novella. Goodnight!
+143160,551,51,325000,Marge Simpson,Simpson Home,"""Okay with no friends."" That's the saddest thing I can imagine my daughter saying to me."
+143161,551,52,331000,Bart Simpson,Simpson Home,I can think of worse.
+143162,551,53,333000,Bart Simpson,Simpson Home,"The saddest thing would be if you were driving and texting Lisa, and you hit her. And the last thing she texted, before she died, was ""I got your message."" G'night."
+143163,551,54,346000,Homer Simpson,Simpson Home,They all make good points.
+143164,551,55,348000,Announcer,Simpson Home,"And now, the moment of truth on ""Topiary Wars."""
+143165,551,56,362000,Snooty Judge,Simpson Home,"This ""Taj Mahal"" should be floated down the Ganges."
+143166,551,57,366000,Host,Simpson Home,"I'm sorry, Cathy. Turn in your shears and ladders."
+143167,551,58,369000,Cathy,Simpson Home,Come and get 'em!
+143168,551,59,369000,Homer Simpson,Simpson Home,Oh. Thank you. Why was that on the Military History Channel?
+143169,551,60,377000,Marge Simpson,Simpson Home,We're going to that game party and we're going to be charming and witty.
+143170,551,61,381000,Marge Simpson,Simpson Home,"You're not going to eat too much, and we're not going to stay too late."
+143171,551,62,386000,Marge Simpson,Simpson Home,"You will not sing unless there's a sing-along, and never take the tray out of the caterer's hand."
+143172,551,63,393000,Marge Simpson,Simpson Home,"Don't be too loud and don't be too quiet. When you're too quiet, you get that psycho look."
+143174,551,65,399000,Marge Simpson,Simpson Home,And stay in the living room. Don't go to their kids' room and watch a basketball game.
+143175,551,66,404000,Homer Simpson,Simpson Home,Can I check out what toys they have?
+143176,551,67,405000,Marge Simpson,Simpson Home,No.
+143177,551,68,407000,Homer Simpson,Simpson Home,Dinner party at the neighbors'. At least I can drink.
+143178,551,69,411000,Marge Simpson,Simpson Home,One drink.
+143179,551,70,413000,Homer Simpson,Simpson Home,"Walking distance, Marge. I've been looking forward to this all week!"
+143180,551,71,420000,Duffman,Simpson Home,Don't show your wife this app! Oh no!
+143181,551,72,425000,Marge Simpson,Simpson Home,"You were charming enough to win me, and that day you didn't have a drink in you."
+143183,551,74,437000,Booth,(WILKES-JOHN) HOUSE,"Marge, Homer!"
+143184,551,75,441000,Marge Simpson,(WILKES-JOHN) HOUSE,Homer!
+143185,551,76,443000,Homer Simpson,(WILKES-JOHN) HOUSE,"You know, I have more cheeks."
+143186,551,77,443000,Booth,(WILKES-JOHN) HOUSE,"I'd like you to meet my wife, Wallis."
+143187,551,78,449000,Wallis,(WILKES-JOHN) HOUSE,Howya doin'?
+143188,551,79,450000,Booth,(WILKES-JOHN) HOUSE,Wallis has unearthed the most delightful entertainment to thrill us for hours on end -- it's a murder mystery and we're all suspects!
+143190,551,81,460000,Chief Wiggum,(WILKES-JOHN) HOUSE,Great. I always wanted to try and solve a crime.
+143192,551,83,465000,Booth,(WILKES-JOHN) HOUSE,"Please, everyone read your bio."
+143193,551,84,469000,Sideshow Mel,(WILKES-JOHN) HOUSE,I am a humble farmer from Yorkshire. Humble I can be!
+143194,551,85,475000,Booth,(WILKES-JOHN) HOUSE,"That's the spirit! Wallis and I have found this game to provide a full evening of divertissement, building in suspense to a masterful climax. We've rented costumes you'll find accurate to period and conducive to character. We will serve food and wine appropriate to period and palette."
+143195,551,86,495000,Booth,(WILKES-JOHN) HOUSE,We've programmed music to cover every dramatic event!
+143196,551,87,498000,Booth,(WILKES-JOHN) HOUSE,Hired a Foley artist...
+143197,551,88,502000,Booth,(WILKES-JOHN) HOUSE,I believe the mare has a slight limp.
+143198,551,89,506000,Booth,(WILKES-JOHN) HOUSE,"Yes. Yes! So for the next three hours, I welcome you to the moors of--"
+143200,551,90,513000,Homer Simpson,(WILKES-JOHN) HOUSE,Question. It says here the murderer is Admiral Wainsworth. Who's that?
+143201,551,91,519000,Booth,(WILKES-JOHN) HOUSE,You've... you... you've given away the game.
+143202,551,92,522000,Homer Simpson,(WILKES-JOHN) HOUSE,"Well, you know--"
+143204,551,94,523000,Homer Simpson,(WILKES-JOHN) HOUSE,Why you--
+143206,551,96,528000,Booth,(WILKES-JOHN) HOUSE,Thank you so much! Now Wallis will once again withdraw into melancholia.
+143207,551,97,534000,Wallis,(WILKES-JOHN) HOUSE,"Birth, school, work, death. Worth, drool, shirk, breath. Mirth, cruel, quirk, meth..."
+143208,551,98,542000,Booth,(WILKES-JOHN) HOUSE,"Just so you know, Homer, you were going to be a dashing Russian Count with multiple lovers!"
+143209,551,99,547000,Homer Simpson,(WILKES-JOHN) HOUSE,"Well, as we say in Russia: ""Goodbye in Russian""!"
+143211,551,101,560000,Homer Simpson,Evergreen Terrace,"Uh, nice night for a walk."
+143212,551,102,565000,Marge Simpson,Evergreen Terrace,I'd like to be alone for a while.
+143213,551,103,568000,Homer Simpson,Evergreen Terrace,Do you want to be more alone?
+143214,551,104,570000,Marge Simpson,Evergreen Terrace,Yes.
+143215,551,105,576000,Homer Simpson,Evergreen Terrace,More?
+143216,551,106,576000,Marge Simpson,Evergreen Terrace,"Mm, hm."
+143217,551,107,580000,Homer Simpson,Evergreen Terrace,What the?
+143218,551,108,583000,Marge Simpson,Evergreen Terrace,That's good.
+143220,551,110,588000,Homer Simpson,Simpson Home,"Okay, I slept on the couch, and I flipped the sweaty cushions over. What else can I do?"
+143221,551,111,592000,Marge Simpson,Simpson Home,"It's okay. I mean, those people didn't even want us at that party in the first place. I think it's time we learned to live with being ostracized."
+143222,551,112,603000,Homer Simpson,Simpson Home,Mmmm--
+143223,551,113,604000,Marge Simpson,Simpson Home,"Don't you dare say ""ostrich eyes."""
+143224,551,114,607000,Homer Simpson,Simpson Home,"Because... Oh. Oh, okay, okay. What should we do?"
+143225,551,115,612000,Marge Simpson,Simpson Home,Nothing. I give up. No more dinner parties. Our whole social life will be us watching TV and you going to Moe's.
+143226,551,116,621000,Homer Simpson,Simpson Home,I see.
+143227,551,117,623000,Homer Simpson,Simpson Home,Woo-hoo!
+143228,551,118,628000,Homer Simpson,Simpson Home,"Well, if that's how you think it has to be."
+143229,551,119,631000,Marge Simpson,Simpson Home,"Yes, for us. But not for Lisa! Never for Lisa. We're going to help her make friends."
+143230,551,120,638000,Homer Simpson,Simpson Home,It might be easier with Maggie. She's always getting letters from the Daycare center.
+143231,551,121,642000,Marge Simpson,Simpson Home,Those are past-due bills.
+143199,551,122,644000,Homer Simpson,Simpson Home,They'll get their blood money.
+143232,551,123,646000,Marge Simpson,Simpson Home,And Lisa will get a friend.
+143233,551,124,650000,Lisa Simpson,Simpson Home,After this we'll do makeovers!
+143234,551,125,657000,Homer Simpson,Simpson Home,So... where are all the friends?
+143235,551,126,659000,Marge Simpson,Simpson Home,I don't know! I invited everyone that Lisa's ever met.
+143236,551,127,663000,Homer Simpson,Simpson Home,Who are you?
+143237,551,128,663000,WISEGUY BOY,Simpson Home,Gus Huebner. I was on Lisa's coed soccer team two years ago.
+143238,551,129,669000,Homer Simpson,Simpson Home,"Well, Lisa's going to be here in five minutes, and the only kid who showed up is Gus Frickin' Huebner!"
+143239,551,130,674000,GUS HUEBNER,Simpson Home,Watch your mouth.
+143240,551,131,674000,Marge Simpson,Simpson Home,"Oh! Oh no, you're right, Homer! Abort! Abort!"
+143241,551,132,679000,GUS HUEBNER,Simpson Home,"Oh, no. I was the only chump who showed up at this train wreck. Well, I'm not leaving till I get a party."
+143242,551,133,685000,Marge Simpson,Simpson Home,"Fine, fine! Homer! Give him a party!"
+143243,551,134,717000,Lisa Simpson,Simpson Home,Gus Huebner? Is that you?
+143244,551,135,722000,GUS HUEBNER,Simpson Home,I wish. That kid could play youth soccer.
+143245,551,136,731000,Lisa Simpson,Simpson Home,Are you guys okay?
+143246,551,137,733000,Marge Simpson,Simpson Home,"Yeah, yeah, yeah, sure. I'm fine."
+143247,551,138,734000,Homer Simpson,Simpson Home,Yeah. Nothin-- Nothing's going on.
+143248,551,139,736000,Marge Simpson,Simpson Home,"Right. Right, nothing."
+143249,551,140,738000,Lisa Simpson,Simpson Home,What's for dinner?
+143250,551,141,738000,Marge Simpson,Simpson Home,Pizza. Mmmm.
+143251,551,142,740000,Homer Simpson,Simpson Home,Lots of pizza.
+143254,551,145,752000,Marge Simpson,Miss Hoover's Classroom,"So as her teacher, I was wondering if you could tell me why Lisa has such trouble making friends."
+143255,551,146,758000,Miss Hoover,Miss Hoover's Classroom,"Marge, this is when I normally eat lunch...so I'll just tell you Lisa is unique...and we're done."
+143257,551,148,771000,Coach Krupt,Springfield Elementary School,"All right. For some reason, square-dancing is a part of the gym curriculum. Now I'm gonna open the divider to the girls' gym and if you don't find a dance partner within ten seconds, there is something very wrong with you."
+143258,551,149,804000,Coach Krupt,Springfield Elementary School,"That's tough luck, Lisa. Looks like you're dancin' with Groundskeeper Willie."
+143259,551,150,808000,Groundskeeper Willie,Springfield Elementary School,Careful of your toes. I've got me cleats on!
+143260,551,151,812000,Tumi,Springfield Elementary School,I'll dance with Lisa.
+143261,551,152,814000,Lisa Simpson,Springfield Elementary School,Tumi? But you're from the other second grade. We only come together for tornado drills.
+143262,551,153,821000,Coach Krupt,Springfield Elementary School,"God, I hate square-dancing. It ain't gym class if a fat kid's not crying. Let's do this thing."
+143263,551,154,835000,Coach Krupt,Springfield Elementary School,SWING YOUR PARTNER / SWING HER HARD / DO-SI-DO WHILE I BOMBARD
+143264,551,155,843000,Coach Krupt,Springfield Elementary School,OH THANK GOD / THE CLOCK SAYS THREE / 'CAUSE I HAVE TO TAKE A PEE
+143265,551,156,848000,Coach Krupt,Springfield Elementary School,Finally!
+143266,551,157,850000,Tumi,Springfield Elementary School,That was fun.
+143267,551,158,850000,Lisa Simpson,Springfield Elementary School,"Yeah, it kind of was. But I won't push it, I promise. See ya!"
+143268,551,159,855000,Tumi,Springfield Elementary School,"Oh, wait, wait, wait! Um... I was going to ""All Sales Vinyl"" after school."
+143269,551,160,859000,Lisa Simpson,Springfield Elementary School,The vintage record store?
+143270,551,161,861000,Tumi,Springfield Elementary School,Yeah. You want to come with me?
+143271,551,162,862000,Lisa Simpson,Springfield Elementary School,"At the risk of sounding like a broken record, yes, yes, yes!"
+143273,551,164,871000,Comic Book Guy,ALL SALES VINYL,They will fit. They will fit.
+143274,551,165,873000,Comic Book Guy,ALL SALES VINYL,Yes!
+143275,551,166,879000,Bart Simpson,ALL SALES VINYL,Hmm. Nobody likes jazz that much. Even the guy playin' it had to take drugs.
+143277,551,168,885000,Lisa Simpson,Simpson Home,"It's so much fun to finally have a friend who likes the NPR show ""Wait Wait, Don't Tell Me"" as much as I do."
+143278,551,169,891000,Peter Sagal,Simpson Home,"So, Carl Kasell, how did the House Minority Whip do on our news quiz?"
+143279,551,170,895000,Carl Kasell,Simpson Home,"Well Peter, he got two out of three right, so he wins me, recording his outgoing message."
+143280,551,171,901000,Minority Whip,Simpson Home,"Uh, that's okay, really. No. No, no. Please don't."
+143281,551,172,903000,Carl Kasell,Simpson Home,It's not optional.
+143282,551,173,908000,Homer Simpson,Simpson Home,"See, Marge. Problems will work themselves out if you just leave them alone."
+143284,551,175,915000,Lisa Simpson,Simpson Home,Want some more smoothie?
+143285,551,176,916000,Tumi,Simpson Home,As long as you load up on the kale and chia.
+143286,551,177,921000,Bart Simpson,Simpson Home,"No one likes veggie smoothies that much. Or at all. Something's fishy about that girl, and I'm gonna follow her till I find out what."
+143287,551,178,930000,Milhouse Van Houten,Simpson Home,And I'm gonna help you.
+143288,551,179,932000,Bart Simpson,Simpson Home,I think I'll need you back at headquarters manning the phones.
+143289,551,180,935000,Milhouse Van Houten,Simpson Home,Great. What do I say?
+143290,551,181,937000,Bart Simpson,Simpson Home,Just let 'em ring.
+143291,551,182,938000,Milhouse Van Houten,Simpson Home,Got it!
+143292,551,184,979000,Lisa Simpson,Lisa's Bedroom,What do you want?
+143293,551,185,981000,Bart Simpson,Lisa's Bedroom,"I've got two things for you: this envelope will change your life for the low, low price of five dollars, and I'll throw in a piece of great advice. Tempted?"
+143294,551,186,992000,Lisa Simpson,Lisa's Bedroom,What's the advice?
+143295,551,187,994000,Bart Simpson,Lisa's Bedroom,Don't open the envelope.
+143296,551,188,1000000,Lisa Simpson,Lisa's Bedroom,"Oh God, I'm gonna be sick!"
+143297,551,189,1010000,Lisa Simpson,Lisa's Bedroom,Mom paid her to be my friend?
+143298,551,190,1018000,Bart Simpson,Lisa's Bedroom,That's mine. It's for my library card.
+143300,551,192,1028000,Lisa Simpson,Simpson Home,You don't want to be here.
+143301,551,193,1030000,Lisa Simpson,Simpson Home,Neither do you!
+143302,551,194,1036000,Lisa Simpson,Simpson Home,"Mom, how could you pay someone to be my friend?!"
+143303,551,195,1041000,Lisa Simpson,Simpson Home,Answer me!
+143304,551,196,1043000,Marge Simpson,Simpson Home,I wouldn't say I paid someone to be your friend. I just gave her money for records and ice cream.
+143305,551,197,1049000,Homer Simpson,Simpson Home,You gave away ice cream?!
+143306,551,198,1051000,Lisa Simpson,Simpson Home,I would've found a friend eventually. You couldn't wait a damn decade until I got into college?
+143307,551,199,1059000,Marge Simpson,Simpson Home,"Lisa. Lisa, wait..."
+143308,551,200,1063000,Homer Simpson,Simpson Home,"Oh God, oh God, I'm the smart parent."
+143309,551,201,1069000,Homer Simpson,Simpson Home,"I'm sorry she rejected your ""I'm Sorry,"" cake, but in a way, I'm not. I guess what I'm trying to say is I like cake."
+143310,551,202,1076000,Grampa Simpson,Simpson Home,"Marge, don't feel bad. You did what any parent would do."
+143311,551,203,1081000,Marge Simpson,Simpson Home,No. I think I went too far.
+143312,551,204,1083000,Grampa Simpson,Simpson Home,"Let me tell you a little story about a chubby, unpopular boy named Homer."
+143313,551,205,1089000,Homer Simpson,Simpson Home,Is that the boy you named me after?
+143314,551,206,1091000,Grampa Simpson,Simpson Home,"It is you, you idjit! Little Homer had a devil of a time making friends. No one wanted to come visit him..."
+143315,551,207,1098000,Grampa Simpson,Simpson Home,So I decided to take matters into my own hands.
+143316,551,208,1102000,Grampa Simpson,Simpson Home,"I paid a couple boys, Lenny and Carl, to make my Homer feel loved."
+143317,551,209,1108000,Grampa Simpson,Simpson Home,A relationship I continued to this day.
+143318,551,210,1112000,Homer Simpson,Simpson Home,You pay Lenny and Carl to be my friends?
+143319,551,211,1114000,Grampa Simpson,Simpson Home,"Yes, but Barney's yours for nothin'."
+143321,551,213,1117000,Marge Simpson,Simpson Home,"Hm. Well, that makes me feel better."
+143322,551,214,1122000,Marge Simpson,Simpson Home,Lisa's door's unlocked!
+143323,551,215,1125000,Homer Simpson,Simpson Home,"Dad, is that story really true?"
+143324,551,216,1129000,Grampa Simpson,Simpson Home,I wouldn't pay ten cents to a lion to stop him from eatin' ya!
+143326,551,218,1136000,Marge Simpson,Lisa's Bedroom,"Lisa, just say something to me."
+143327,551,219,1139000,Lisa Simpson,Lisa's Bedroom,I'm gonna tell every psychiatrist I ever go to what you did.
+143328,551,220,1143000,Marge Simpson,Lisa's Bedroom,A mother's greatest fear.
+148729,551,222,1148000,Lisa's Thoughts,Lisa's Bedroom,"Wow, I made Mom cry. What unimaginable power! I can use this to get anything I want. But right now, all I want is for Mom to stop crying."
+143330,551,223,1162000,Lisa Simpson,Lisa's Bedroom,"Mom, stop! Stop! Stop! I'm sorry!"
+143332,551,225,1167000,Lisa Simpson,Lisa's Bedroom,Please stop!
+143335,551,228,1172000,Marge Simpson,Lisa's Bedroom,You're not mad anymore?
+143336,551,229,1174000,Lisa Simpson,Lisa's Bedroom,"I'm fine. Fine! It's funny, but... hurting your feelings made me feel better."
+143337,551,230,1180000,Marge Simpson,Lisa's Bedroom,Try to forget that.
+143338,551,231,1182000,Lisa Simpson,Lisa's Bedroom,"But when I grow up, I'll find other weird kids and we will have the most intense relationships ever. And I'll always love you."
+143339,551,232,1190000,Marge Simpson,Lisa's Bedroom,Awww.
+143340,551,233,1191000,Lisa Simpson,Lisa's Bedroom,Happy Mother's Day.
+143341,551,234,1193000,Bart Simpson,Lisa's Bedroom,Mother's Day?!
+143342,551,235,1193000,Homer Simpson,Lisa's Bedroom,Crap!
+143344,551,237,1199000,Tumi,Springfield Elementary School Playground,"Okay, initially I was just gonna be your friend till I could afford a nice belt. But I like you, Lisa. And I want to keep being friends with you."
+143345,551,238,1208000,Lisa Simpson,Springfield Elementary School Playground,"Great! But from now on, we have to be totally honest with each other."
+143346,551,239,1212000,Tumi,Springfield Elementary School Playground,You're absolutely right.
+143347,551,240,1214000,Tumi,Springfield Elementary School Playground,"I'm not really a vegetarian. Have you ever tried horse meat? They eat it raw in Japan, and--"

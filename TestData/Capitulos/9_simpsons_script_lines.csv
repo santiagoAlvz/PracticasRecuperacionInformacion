@@ -1,0 +1,301 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+151212,9,1,20000,Bart Simpson,Simpson Kitchen,"Whoops! Whoops! Oh, whoops... whoops!"
+151213,9,2,24000,Lisa Simpson,Simpson Kitchen,This is gonna be the best birthday breakfast Mom ever had.
+151214,9,3,27000,Bart Simpson,Simpson Kitchen,"Hey Lis, you think that's enough for her?"
+151215,9,4,29000,Lisa Simpson,Simpson Kitchen,Maybe one more.
+151216,9,5,30000,Lisa Simpson,Simpson Kitchen,I hope she likes the presents we got her.
+151218,9,6,33000,Bart Simpson,Simpson Kitchen,"Well, I know she'll like mine. Who wouldn't like a bottle of real French perfume?"
+151219,9,7,34000,Bart Simpson,Simpson Kitchen,"All the way from Gay Paree. Four bucks, plus tax."
+151220,9,8,40000,Lisa Simpson,Simpson Kitchen,"Well, I think she's gonna like my hand-made birthday card better."
+151221,9,9,43000,Bart Simpson,Simpson Kitchen,"Whoa, big deal... dry macaroni... spray paint and glue. Whoopee!"
+151223,9,11,51000,Bart Simpson,Simpson Kitchen,"Dibs! First dibs, I get to lick the beaters."
+151224,9,12,54000,Bart Simpson,Simpson Kitchen,Hep! Hep! Lisa! My ungue is stuck in the eater. Hep-hep!
+151226,9,14,66000,Lisa Simpson,Master Bedroom,Happy birthday!
+151227,9,15,70000,Homer Simpson,Master Bedroom,Huh? Whuh?
+151228,9,16,71000,Lisa Simpson,Master Bedroom,Here's your birthday breakfast!
+151229,9,17,74000,Marge Simpson,Master Bedroom,"Well, isn't this nice?"
+151230,9,18,76000,Homer Simpson,Master Bedroom,My birthday?
+151231,9,19,77000,Lisa Simpson,Master Bedroom,No!
+151232,9,20,78000,Homer Simpson,Master Bedroom,It's my birthday? What did I get? I love birthdays.
+151233,9,21,82000,Marge Simpson,Master Bedroom,"No, Homer. It's mine."
+151234,9,22,84000,Bart Simpson,Master Bedroom,You don't even know your own wife's birthday?
+151235,9,23,85000,Homer Simpson,Master Bedroom,"Of course I know! Sure! You really thought I forgot, didn't you?"
+151236,9,24,91000,Bart Simpson,Master Bedroom,"Oh, right. What'd you get her, Dad?"
+151237,9,25,93000,Lisa Simpson,Master Bedroom,"Yeah, what'd you get?"
+151238,9,26,94000,Homer Simpson,Master Bedroom,"Huh... a very thoughtful gift. But it's a surprise. You know, it's such a beautiful morning, I think I'll take a little stroll around the block."
+151239,9,27,110000,Lisa Simpson,Master Bedroom,"I think he forgot, Mom."
+151240,9,28,112000,Marge Simpson,Master Bedroom,Umm-hmm.
+151242,9,30,116000,Homer Simpson,Springfield Mall,"Oh, no. Come on, come on! Open up!"
+151243,9,31,120000,Security Guard,Springfield Mall,"Good morning, consumers. The Springfield Mall is now open for your spending needs."
+151245,9,33,129000,Homer Simpson,Springfield Mall,Ah... no.
+151246,9,34,130000,Homer Simpson,Springfield Mall,Too salty...
+151247,9,35,133000,Homer Simpson,Springfield Mall,"Ummm, nah..."
+151248,9,36,135000,Homer Simpson,Springfield Mall,"Hmmm. Nah, too corny..."
+151249,9,37,139000,Homer Simpson,Springfield Mall,Too exciting.
+151252,9,40,140000,Marge Simpson,Simpson Living Room,"Patty, he's out buying me something right now."
+151253,9,41,144000,Patty Bouvier,Simpson Living Room,"Oh, Marge. He never gets you anything you want. He always gets something for himself."
+151254,9,42,148000,Selma Bouvier,Simpson Living Room,Like the tackle box.
+151255,9,43,149000,Patty Bouvier,Simpson Living Room,Remember when he got you the tackle box?
+151256,9,44,151000,Selma Bouvier,Simpson Living Room,And Connie Chung.
+151257,9,45,152000,Patty Bouvier,Simpson Living Room,"And when he ""surprised"" you with the Connie Chung calendar?"
+151258,9,46,156000,Marge Simpson,Simpson Living Room,I'm sure he doesn't do it deliberately.
+151260,9,48,158000,Homer Simpson,THE JOCK SHOPPE,Hmmmm!
+151262,9,50,162000,Marge Simpson,Simpson Living Room,"Well, Homer and I had a lovely dining experience at Chez Pierre... or the Rusty Barnacle is nice..."
+151263,9,51,169000,Patty Bouvier,Simpson Living Room,"No, no, no. We want to take you someplace fun. The Singing Sirloin."
+151264,9,52,173000,Marge Simpson,Simpson Living Room,The place where the waiters sing.
+151265,9,53,176000,Selma Bouvier,Simpson Living Room,Umm-hmm.
+151267,9,55,179000,Marge Simpson,Simpson Home,Homer?
+151268,9,56,180000,Homer Simpson,Simpson Home,Be right there.
+151269,9,57,185000,Marge Simpson,Simpson Home,"Homer, we're having dinner tonight at the Singing Sirloin."
+151270,9,58,189000,Homer Simpson,Simpson Home,"Ah, sounds delightful. Just you and me and the balladeers."
+151271,9,59,192000,Marge Simpson,Simpson Home,And the kids.
+151272,9,60,193000,Homer Simpson,Simpson Home,Fair enough.
+151273,9,61,194000,Marge Simpson,Simpson Home,...And my sisters.
+151277,9,65,201000,1st Waiter Quartet,The Singing Sirloin,"""HOW WE DANCED, ON THE NIGHT WE WERE WED..."""
+151278,9,66,206000,2nd Waiter Quartet,The Singing Sirloin,HAVING MY BABY / WHAT A LOVELY WAY TO SAY HOW MUCH I LOVE YOU...
+151279,9,67,211000,3rd Waiter Quartet,The Singing Sirloin,"""NEARER MY GOD TO THEE, NEARER TO THEE..."""
+151280,9,68,222000,Marge Simpson,The Singing Sirloin,"Oh, perfume."
+151281,9,69,224000,Marge Simpson,The Singing Sirloin,"Whoa... hmmm. Thank you, Bart."
+151282,9,70,227000,Bart Simpson,The Singing Sirloin,"You're welcome, Mom."
+151283,9,71,228000,Patty Bouvier,The Singing Sirloin,Thirty-four years old.
+151284,9,72,230000,Selma Bouvier,The Singing Sirloin,Time enough to start over with a new man.
+151285,9,73,233000,Patty Bouvier,The Singing Sirloin,Someone who eats with his mouth shut.
+151286,9,74,235000,Homer Simpson,The Singing Sirloin,"What's that, Patty?"
+151287,9,75,236000,Patty Bouvier,The Singing Sirloin,Nothing. Finish your steak. Look at him wolf down that gristle.
+151182,9,76,241000,Selma Bouvier,The Singing Sirloin,Um-hm. It's an accident waiting to happen.
+151217,9,77,243000,Patty Bouvier,The Singing Sirloin,Do you know the Heimlich Maneuver?
+149893,9,78,245000,Selma Bouvier,The Singing Sirloin,No.
+150011,9,79,246000,Patty Bouvier,The Singing Sirloin,Good.
+151125,9,80,250000,Lisa Simpson,The Singing Sirloin,I think she likes my present better.
+150082,9,81,252000,Bart Simpson,The Singing Sirloin,Does not.
+150119,9,82,253000,Lisa Simpson,The Singing Sirloin,"Does, too."
+151289,9,83,253000,Bart Simpson,The Singing Sirloin,Does not.
+151290,9,84,253000,Lisa Simpson,The Singing Sirloin,"Does, too."
+151291,9,85,254000,Bart Simpson,The Singing Sirloin,Does not.
+151292,9,86,254000,Lisa Simpson,The Singing Sirloin,Then how comes she's not putting on any of your perfume?
+151293,9,87,257000,Bart Simpson,The Singing Sirloin,"Yeah. Hey, Mom. How come you're not putting on any of my perfume?"
+151294,9,88,262000,Marge Simpson,The Singing Sirloin,Uh... I-I'm saving it... for a special occasion.
+151295,9,89,268000,Bart Simpson,The Singing Sirloin,What the hell are you talking about? There's gallons of it.
+151296,9,90,270000,Homer Simpson,The Singing Sirloin,Bart!
+151297,9,91,270000,Marge Simpson,The Singing Sirloin,"But this occasion is already so special if we made it any more special, we might end up making it less special."
+151298,9,92,277000,Bart Simpson,The Singing Sirloin,Gotcha. I told you she liked mine better.
+151299,9,93,279000,Lisa Simpson,The Singing Sirloin,"Oh, brother."
+151300,9,94,280000,Homer Simpson,The Singing Sirloin,Hold on! Hold on now! Your mother hasn't opened my present yet.
+151301,9,95,285000,4TH QUARTET OF WAITERS,The Singing Sirloin,"HAPPY BIRTHDAY TO YOU! / HAPPY BIRTHDAY TO YOU! / HAPPY THIRTY-FOURTH BIRTHDAY, MRS. HOMER SIMPSON... / HAPPY BIRTHDAY TO YOOOOO!"
+151302,9,96,303000,Homer Simpson,The Singing Sirloin,"Whoop! Don't worry, this frosting'll come right off. Beauty, isn't she?"
+151303,9,97,309000,Marge Simpson,The Singing Sirloin,"Well, it's hard for me to judge since I've never bowled in my life."
+151304,9,98,313000,Homer Simpson,The Singing Sirloin,"Well, if you don't want it, I know someone who does."
+151306,9,100,323000,Homer Simpson,Simpson Master Bedroom,"You always say we should talk. I'm talking right now, as a matter of fact. But I'm going to stop in a second. So, please say something back, Marge, please. I'm gonna stop talking... now."
+151307,9,101,334000,Marge Simpson,Simpson Master Bedroom,"You bought that bowling ball for you, not for me."
+151308,9,102,338000,Homer Simpson,Simpson Master Bedroom,What? No...
+151309,9,103,339000,Marge Simpson,Simpson Master Bedroom,The holes were drilled for your fingers.
+151310,9,104,341000,Homer Simpson,Simpson Master Bedroom,"I wanted to surprise you. I couldn't very well chop your hand off and bring it to the store, could I?"
+151311,9,105,346000,Marge Simpson,Simpson Master Bedroom,You never intended for me to use that ball.
+151312,9,106,349000,Homer Simpson,Simpson Master Bedroom,"Well, if that's how you feel, I'll take it back."
+151313,9,107,350000,Marge Simpson,Simpson Master Bedroom,You can't take it back. You had your name engraved on it.
+151314,9,108,353000,Homer Simpson,Simpson Master Bedroom,So you'd know it's from me!
+151315,9,109,354000,Marge Simpson,Simpson Master Bedroom,"Homer, I'm keeping the ball. For myself."
+151317,9,110,358000,Homer Simpson,Simpson Master Bedroom,What? But you don't know how to bowl!... whoops.
+151318,9,111,361000,Marge Simpson,Simpson Master Bedroom,"I'm keeping it and I'm going to use it. Thank you for the present, Homer."
+151319,9,112,366000,Homer Simpson,Simpson Master Bedroom,Well... you're welcome.
+151321,9,114,377000,Marge Simpson,Barney's Bowlarama,Excuse me... where do I throw this?
+151322,9,115,380000,Counter Guy,Barney's Bowlarama,Over there.
+151323,9,116,381000,Marge Simpson,Barney's Bowlarama,Thank you.
+151324,9,117,381000,Counter Guy,Barney's Bowlarama,"Hey, wait, wait a minute. You're gonna need a lane."
+151325,9,118,383000,Marge Simpson,Barney's Bowlarama,"No, thanks. I'm just here out of spite."
+151326,9,119,385000,Counter Guy,Barney's Bowlarama,Can't bowl without a lane.
+151327,9,120,386000,Marge Simpson,Barney's Bowlarama,Hm. Well... all right.
+151328,9,121,387000,Counter Guy,Barney's Bowlarama,"Okay, here you go. You keep score on this. What size shoes you wear?"
+151329,9,122,391000,Marge Simpson,Barney's Bowlarama,Never you mind.
+151330,9,123,392000,Counter Guy,Barney's Bowlarama,"Can't wear street shoes on the lanes. You gotta wear bowling shoes. What size, please?"
+151331,9,124,397000,Marge Simpson,Barney's Bowlarama,Thirteen. Double A.
+151332,9,125,398000,Counter Guy,Barney's Bowlarama,Thirteen double A.
+151334,9,127,401000,Counter Guy,Barney's Bowlarama,This is the closest I've got.
+151336,9,129,401000,Counter Guy,Barney's Bowlarama,A nine and a fifteen.
+151337,9,130,405000,Marge Simpson,Barney's Bowlarama,Thank you.
+151338,9,131,409000,Marge Simpson,Barney's Bowlarama,A little warm and moist.
+151340,9,133,428000,Jacques,Barney's Bowlarama,"So -- one hundred and twenty pins later, I am the better man."
+151341,9,134,436000,Marge Simpson,Barney's Bowlarama,I don't see what he's doing that's so different from what I'm doing.
+151342,9,135,444000,Marge Simpson,Barney's Bowlarama,Oh!
+151343,9,136,447000,Marge Simpson,Barney's Bowlarama,I'm awfully sorry.
+151344,9,137,449000,Jacques,Barney's Bowlarama,Entirely my fault. It is nice to meet you... ... Homer.
+151345,9,138,456000,Marge Simpson,Barney's Bowlarama,"Oh, no, no. Homer is my... ball's name. I'm Marge."
+151347,9,140,466000,Jacques,Barney's Bowlarama,"Your fingers are so slender, so feminine. They are far too tapered for the ball you are using. You need something lighter, more delicate. Here, use my ball."
+151348,9,141,477000,Marge Simpson,Barney's Bowlarama,"No... no, thank you, Mr... uh... ... Brunswick."
+151349,9,142,480000,Jacques,Barney's Bowlarama,Call me Jacques.
+151350,9,143,482000,Marge Simpson,Barney's Bowlarama,Jacques.
+151351,9,144,483000,Jacques,Barney's Bowlarama,Marge.
+151316,9,145,484000,Marge Simpson,Barney's Bowlarama,Hmmm. I'll just use my ball.
+151352,9,146,487000,Jacques,Barney's Bowlarama,"As you wish. Many people have senseless attachments to heavy, clumsy things such as this ""Homer"" of yours."
+151353,9,147,494000,Marge Simpson,Barney's Bowlarama,Hmmm.
+151354,9,148,494000,Jacques,Barney's Bowlarama,May I ask you a bold question?
+151355,9,149,497000,Marge Simpson,Barney's Bowlarama,Sure.
+151356,9,150,498000,Jacques,Barney's Bowlarama,You've never bowled before?
+151357,9,151,499000,Marge Simpson,Barney's Bowlarama,Never.
+151358,9,152,500000,Jacques,Barney's Bowlarama,No?
+151359,9,153,500000,Marge Simpson,Barney's Bowlarama,No.
+151360,9,154,501000,Jacques,Barney's Bowlarama,Then I will teach you.
+151361,9,155,503000,Marge Simpson,Barney's Bowlarama,"Oh, I don't want to trouble you."
+151362,9,156,504000,Jacques,Barney's Bowlarama,"Not at all. I am a professional. Roll the ball for me, Marge. Let me see your form."
+151363,9,157,509000,Marge Simpson,Barney's Bowlarama,All right. But I'm not very good.
+151364,9,158,515000,Marge Simpson,Barney's Bowlarama,I can hit that one pin all right. But the rest of them don't even wobble.
+151365,9,159,518000,Jacques,Barney's Bowlarama,"I can help you, Marge. Pick up the ball. Pick up Homer. Pick him up."
+151366,9,160,524000,Marge Simpson,Barney's Bowlarama,Oh!
+151367,9,161,525000,Jacques,Barney's Bowlarama,"Now, throw!"
+151368,9,162,526000,Marge Simpson,Barney's Bowlarama,But...
+151369,9,163,527000,Jacques,Barney's Bowlarama,"Throw, damn you!"
+151370,9,164,533000,Marge Simpson,Barney's Bowlarama,You're a very good teacher!
+151371,9,165,536000,Jacques,Barney's Bowlarama,"Yes, I am a very good teacher and I can teach you everything. I can tell you what the little arrows on the wood floor mean. Which frame is the beer frame. I bet you don't know how to make a five-seven-ten split, do you, Marge?"
+151372,9,166,548000,Marge Simpson,Barney's Bowlarama,No.
+151373,9,167,549000,Jacques,Barney's Bowlarama,"But first of all, you yell.. the eight pin is a cop."
+151375,9,169,549000,Jacques,Barney's Bowlarama,"Let it out, Marge. Laugh loud. Laugh out loud. You'll lose weight."
+151376,9,170,556000,Marge Simpson,Barney's Bowlarama,"Oh, that's very funny."
+151377,9,171,557000,Jacques,Barney's Bowlarama,Feels good.
+151378,9,172,558000,Marge Simpson,Barney's Bowlarama,"Oh, dear, I didn't realize there was so much to this game. What do you charge for lessons?"
+151379,9,173,563000,Jacques,Barney's Bowlarama,Twenty-five dollars.
+151380,9,174,564000,Marge Simpson,Barney's Bowlarama,Twenty-five dollars!
+151381,9,175,565000,Jacques,Barney's Bowlarama,It's a forty-dollar value.
+151382,9,176,567000,Marge Simpson,Barney's Bowlarama,Oh. Well... all right. When do we start?
+151383,9,177,570000,Jacques,Barney's Bowlarama,We have already begun.
+151385,9,179,576000,Homer Simpson,Simpson Kitchen,"Now this is living, eh, kids? Hot pizza... the food of kings."
+151387,9,180,581000,Lisa Simpson,Simpson Kitchen,"Don't be scared, Dad. It's not so hard taking care of us."
+151388,9,181,584000,Homer Simpson,Simpson Kitchen,"Lisa, I'm not scared. I think it's a great chance to spend some time with you kids. Your mother always gets to be alone with you, and now it's my turn. Does the time always drag like this?"
+151390,9,183,597000,Jacques,Barney's Bowlarama,"First you must get to know your lane. Feel the slickness. Feel the satiny finish. Caress it. Experience it. Quite smooth, isn't it?"
+151391,9,184,608000,Marge Simpson,Barney's Bowlarama,"Hm, very smooth."
+151392,9,185,609000,Jacques,Barney's Bowlarama,Smooth?
+151393,9,186,610000,Marge Simpson,Barney's Bowlarama,"Yes, very."
+151394,9,187,611000,Jacques,Barney's Bowlarama,Yes?
+151395,9,188,612000,Marge Simpson,Barney's Bowlarama,Yes.
+151396,9,189,612000,Jacques,Barney's Bowlarama,Yes.
+151397,9,190,612000,Marge Simpson,Barney's Bowlarama,Smooth.
+151398,9,191,613000,Jacques,Barney's Bowlarama,Smooth?
+151399,9,192,613000,Marge Simpson,Barney's Bowlarama,Yes.
+151400,9,193,613000,Jacques,Barney's Bowlarama,Yes. You could eat off of it.
+151401,9,194,613000,Marge Simpson,Barney's Bowlarama,Hmmm.
+151402,9,195,615000,Jacques,Barney's Bowlarama,You hungry?
+151403,9,196,617000,Marge Simpson,Barney's Bowlarama,Yes.
+151404,9,197,618000,Jacques,Barney's Bowlarama,Four onion rings!
+151406,9,199,621000,Lisa Simpson,Simpson Kitchen,Mm! Delicioso!
+151407,9,200,622000,Bart Simpson,Simpson Kitchen,My compliments to the delivery boy.
+151408,9,201,623000,Homer Simpson,Simpson Kitchen,"Okay. We've eaten, and eaten well. Now, what else do we have to do? Well, let's check the list your mom left us."
+151409,9,202,631000,Homer Simpson,Simpson Kitchen,"Eat, mm-hm."
+151410,9,203,632000,Homer Simpson,Simpson Kitchen,"Ooh. Clean up. Now don't worry, everybody, this'll be a breeze if we all pitch in."
+151411,9,204,641000,Homer Simpson,Simpson Kitchen,"All right, we're clean. Now we'll... put Maggie to bed."
+151413,9,206,648000,Lisa Simpson,Maggie's Bedroom,"""LULLABY AND GOOD NIGHT / GO TO BED AND SLEEP TIGHT / CLOSE YOUR EYES, START TO YAWN / PLEASANT DREAMS UNTIL THE DAWN."""
+151416,9,209,668000,Marge Simpson,Simpson Home,Homer... Homer.
+151417,9,210,670000,Homer Simpson,Simpson Home,"Ahhh... ahhh... Oh, how was bowling?"
+151418,9,211,674000,Marge Simpson,Simpson Home,It's a very challenging hobby.
+151419,9,212,676000,Homer Simpson,Simpson Home,"Sport, dear, it's a sport, you silly thing."
+151420,9,213,679000,Marge Simpson,Simpson Home,Umm-hmm. But I think I'll do much better tomorrow night.
+151421,9,214,683000,Homer Simpson,Simpson Home,Oh? You're going back?
+151423,9,215,686000,Marge Simpson,Simpson Home,"Well, sure, if you don't mind taking care of the kids again?"
+151424,9,216,690000,Homer Simpson,Simpson Home,"Uh, no, I don't mind."
+151425,9,217,692000,Marge Simpson,Simpson Home,"Good night, Homer."
+151426,9,218,694000,Homer Simpson,Simpson Home,'Night.
+151428,9,220,697000,Jacques,Barney's Bowlarama,It is for you.
+151429,9,221,699000,Marge Simpson,Barney's Bowlarama,"Oh, Jacques! It fits. You got it in my size and it has my name on it. It's really for me."
+151430,9,222,707000,Jacques,Barney's Bowlarama,Seventeen fifty. Enjoy it my darling.
+151432,9,224,740000,Jacques,Simpson Home,Here we are.
+151433,9,225,741000,Marge Simpson,Simpson Home,You didn't have to drop me off.
+151434,9,226,744000,Jacques,Simpson Home,But I wanted to. Marge... Do you know how beautiful you look in the moonlight?
+151435,9,227,750000,Marge Simpson,Simpson Home,"Oh, Jacques, I'm a married woman."
+151436,9,228,752000,Jacques,Simpson Home,"I know, I know. My mind says stop, but my heart and my hips cry proceed."
+151438,9,230,753000,Jacques,Simpson Home,"Marge, darling, I-I want to see you tomorrow. Not at Barney's Bowl-A-Rama. Away from the thunderous folly of clattering pins. Meet me tomorrow for brunch."
+151439,9,231,768000,Marge Simpson,Simpson Home,What's brunch?
+151440,9,232,769000,Jacques,Simpson Home,"You'd love it. It's not quite breakfast, it's not quite lunch, but it comes with a slice of cantaloupe at the end. You don't get completely what you would at breakfast, but you get a good meal."
+151441,9,233,779000,Marge Simpson,Simpson Home,I don't think so.
+151442,9,234,780000,Jacques,Simpson Home,"Marge, darling, there are ten pins in my heart. You've knocked over eight. Won't you please pick up that spare?"
+151443,9,235,790000,Marge Simpson,Simpson Home,"Oh! Oh! Well, all right."
+151444,9,236,800000,Homer Simpson,Simpson Home,Marge?
+151445,9,237,801000,Marge Simpson,Simpson Home,"What, Homer?"
+151446,9,238,804000,Homer Simpson,Simpson Home,Nothing.
+151448,9,240,815000,Bart Simpson,Simpson Foyer,Uh-oh. School bus.
+151449,9,241,817000,Marge Simpson,Simpson Foyer,"Here you go, kids. Special lunches. Lots of good things for growing bodies and some treats just for fun."
+151450,9,242,825000,Bart Simpson,Simpson Foyer,Whoa. Aye carumba!
+151451,9,243,826000,Lisa Simpson,Simpson Foyer,"Are you going bowling again tonight, Mom?"
+151452,9,244,828000,Marge Simpson,Simpson Foyer,"Hm, yes, I am, as a matter of fact. Here's more treats. But don't worry, your dad will take care of dinner."
+151453,9,245,834000,Bart Simpson,Simpson Foyer,Mmm. Wednesday -- hoagie night.
+151454,9,246,838000,Marge Simpson,Simpson Foyer,"Goodbye, Lisa. My darling little Lisa."
+151455,9,247,845000,Marge Simpson,Simpson Foyer,"Goodbye, Bart. My special little guy."
+151457,9,249,850000,Bart Simpson,School Bus,"Mmmm. Great lunches, eh, Lis?"
+151458,9,250,852000,Lisa Simpson,School Bus,"Oh, Bart, don't you see? This is what psychologists call over-compensation. Mom is racked with guilt because her marriage is failing."
+151459,9,251,860000,Bart Simpson,School Bus,"Hey, don't rock the boat, man. Whatever it is, we're making out like bandits."
+151460,9,252,865000,Lisa Simpson,School Bus,"Bart, I read about what happens to kids whose parents no longer love and cherish each other. They go through eight separate stages. Right now, I'm in Stage Three, fear. You're in Stage Two, denial."
+151461,9,253,877000,Bart Simpson,School Bus,"No, I'm not."
+151462,9,254,877000,Lisa Simpson,School Bus,"Yes, you are."
+151463,9,255,878000,Bart Simpson,School Bus,"No, I'm not."
+151464,9,256,879000,Lisa Simpson,School Bus,"Yes, you are."
+151465,9,257,880000,Bart Simpson,School Bus,"Am not, am not, am not!"
+151466,9,258,882000,Lisa Simpson,School Bus,I stand corrected.
+151468,9,260,887000,Jacques,Coffee Shop,Mimosa?
+151469,9,261,888000,Marge Simpson,Coffee Shop,I'm a married woman. Please don't call me that.
+151470,9,262,892000,Jacques,Coffee Shop,"No, no, no, no, no. Mimosa is the name of the drink. It's orange juice and champagne. You're so wonderful that you thought it was something offensive."
+151471,9,263,902000,Marge Simpson,Coffee Shop,"Oh. Well, thank you."
+151472,9,264,904000,HELEN,Coffee Shop,"Marge! Marge Simpson! You remember me, don't you? I'm Helen Lovejoy, the gossipy wife of the minister."
+151473,9,265,910000,Marge Simpson,Coffee Shop,"Oh... yes, hello, Helen."
+151474,9,266,915000,HELEN,Coffee Shop,"Well, I had just finished eating and was about to leave when I looked over this way and said to myself, ""Why, isn't that Marge Simpson over there? Having brunch with a man who isn't her husband?"" And I just had to come over and say hello."
+151475,9,267,924000,Marge Simpson,Coffee Shop,We're... uh...
+151476,9,268,925000,HELEN,Coffee Shop,"Oh, don't squirm on my account."
+151477,9,269,926000,Jacques,Coffee Shop,"I am giving her a bowling lesson, thank you."
+151478,9,270,929000,Jacques,Coffee Shop,"Now, Marge. Uh, the pins on the three-seven-ten split would be here. We'll make this little piece of food the ball. The ball's bigger, you know that..."
+151479,9,271,938000,Marge Simpson,Coffee Shop,Hmm-hmm.
+151480,9,272,938000,Jacques,Coffee Shop,"But for food, this is a good ball."
+151481,9,273,940000,HELEN,Coffee Shop,"Well, 'bye-bye. See you in church on Sunday, Marge."
+151482,9,274,944000,Marge Simpson,Coffee Shop,"Goodbye, Helen."
+151483,9,275,945000,Jacques,Coffee Shop,"Goodbye, Helen."
+151485,9,276,947000,Jacques,Coffee Shop,"You have a lovely friend, there. Let's hope something runs over her."
+151487,9,278,954000,Jacques,Coffee Shop,"Your laughter is like music to me. But if you laugh at what I say next I will die, for I am about to say something very serious... perhaps shocking. Marge, my darling, I want you to meet with me again."
+151488,9,279,966000,Marge Simpson,Coffee Shop,That doesn't shock me.
+151489,9,280,967000,Jacques,Coffee Shop,"Away from prying eyes. Away from the Helens of the world. At my apartment, the Fiesta Terrace."
+151490,9,281,984000,Jacques,Coffee Shop,"I've been waiting for you. Come in, my captivating one."
+151491,9,282,990000,Jacques,Coffee Shop,May I have this dance?
+151492,9,283,993000,Marge Simpson,Coffee Shop,Sure.
+151493,9,284,1010000,Marge Simpson,Coffee Shop,You certainly have a lot of bowling trophies.
+151494,9,285,1014000,Jacques,Coffee Shop,I like you so much. They're not for bowling. You are so naive. They're for lovemaking.
+151495,9,286,1021000,Marge Simpson,Coffee Shop,Really!?
+151496,9,287,1021000,Jacques,Coffee Shop,Yes... Champagne?
+151497,9,288,1031000,Marge Simpson,Coffee Shop,Please.
+151498,9,289,1032000,Jacques,Coffee Shop,"There, my darling."
+151499,9,290,1033000,Marge Simpson,Coffee Shop,Thank you.
+151500,9,291,1038000,Jacques,Coffee Shop,"What cosmic force brought us together, Marge?"
+151501,9,292,1041000,Marge Simpson,Coffee Shop,Destiny?
+151502,9,293,1042000,Jacques,Coffee Shop,Yes... Some divine pin-spotter must have placed us side by side.
+151503,9,294,1049000,Marge Simpson,Coffee Shop,Like two fragile bowling pins...
+151504,9,295,1052000,Jacques,Coffee Shop,Standing bravely...
+151505,9,296,1053000,Marge Simpson,Coffee Shop,Until inevitably...
+151506,9,297,1054000,Jacques,Coffee Shop,We must topple.
+151507,9,298,1061000,Jacques,Coffee Shop,"Marge, speak to me."
+151508,9,299,1064000,Marge Simpson,Coffee Shop,Is Thursday okay?
+151509,9,300,1066000,Jacques,Coffee Shop,It's okay indeed.
+151511,9,302,1080000,Homer Simpson,Simpson Home,For Marge?
+151512,9,303,1090000,Bart Simpson,Simpson Home,"Hey, Dad. What do you say we toss the ol' apple around, huh? Sound like fun?"
+151513,9,304,1095000,Homer Simpson,Simpson Home,"Son, I don't know if I can lift my head, let alone a ball."
+151514,9,305,1100000,Bart Simpson,Simpson Home,"Aw, come on, Dad. Get the lead out."
+151516,9,307,1102000,Bart Simpson,YARD,Simpson checks the runner on first. He's cool. He's fine. Here's the windup and... here's the pitch.
+151517,9,308,1110000,Bart Simpson,YARD,"Dad, you didn't even say ouch."
+151518,9,309,1113000,Homer Simpson,YARD,"Oh, sorry... ouch!"
+151519,9,310,1117000,Bart Simpson,YARD,"Lisa, Lisa! I think you're right about Dad. Something's very, very wrong here."
+151520,9,311,1120000,Lisa Simpson,YARD,"Frightened, Bart? Welcome to Stage Three: Fear."
+151521,9,312,1123000,Bart Simpson,YARD,"Well, come on. We gotta do something, man."
+151522,9,313,1125000,Lisa Simpson,YARD,"Sorry, Bart. I'd love to help you but I'm mired in Stage Five, self-pity."
+151523,9,314,1130000,Bart Simpson,YARD,"Look, Dad. I don't know what's going on, but once you gave me some advice that might help."
+151524,9,315,1134000,Homer Simpson,YARD,I gave you advice? Get outta here.
+151525,9,316,1136000,Bart Simpson,YARD,"Yeah. You did! You told me when something's bothering you, and you're too damn stupid to know what to do, just keep your fool mouth shut. At least that way you won't make things worse."
+151526,9,317,1146000,Homer Simpson,YARD,Hmm. Good advice.
+151528,9,319,1159000,Homer Simpson,Simpson Kitchen,"Marge, may I speak to you?"
+151529,9,320,1162000,Marge Simpson,Simpson Kitchen,Sure.
+151530,9,321,1162000,Homer Simpson,Simpson Kitchen,"You know, I've been thinking... Everyone makes peanut butter and jelly sandwiches, but usually the jelly drips out over the sides and a guy's hands get all sticky. But your jelly stays right in the middle where it's supposed to. I don't know how you do it. You've just got a gift, I guess. I've always thought so. I just never mentioned it. But it's time you knew how I feel. I don't believe in keeping feelings bottled up. ...Goodbye, my wife."
+151531,9,322,1193000,Marge Simpson,Simpson Kitchen,"Goodbye, Homer."
+151533,9,324,1202000,Jacques,Jacques's Apartment,"To the most beautiful moment in life... better than the deed, better than the memory... the moment of anticipation."
+151534,9,325,1210000,Jacques,Jacques's Apartment,"Oh, Jacques, you handsome devil. Look at you. You are really going to strike out tonight."
+151536,9,327,1222000,Lenny Leonard,LUNCHROOM AT THE POWER PLANT,"Ain't you hungry, Homer?"
+151537,9,328,1224000,Homer Simpson,LUNCHROOM AT THE POWER PLANT,Starving.
+151538,9,329,1225000,Lenny Leonard,LUNCHROOM AT THE POWER PLANT,Then why aren't you eating your sandwich?
+151539,9,330,1227000,Homer Simpson,LUNCHROOM AT THE POWER PLANT,How can I eat it? She made it. It's all I have left.
+151540,9,331,1232000,Another Worker,LUNCHROOM AT THE POWER PLANT,Domestic situation.
+151543,9,334,1295000,Homer Simpson,Springfield Nuclear Power Plant,Marge!
+151544,9,335,1296000,Homer Simpson,Springfield Nuclear Power Plant,"What a lovely surprise! You're here to see me, right?"
+151545,9,336,1300000,Marge Simpson,Springfield Nuclear Power Plant,Of course.
+151546,9,337,1311000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey! Way to go, Homer. Way to go."
+151548,9,338,1314000,Another Worker,Springfield Nuclear Power Plant,"Hey, what'll I tell the boss?"
+151549,9,339,1316000,Homer Simpson,Springfield Nuclear Power Plant,Tell him I'm going to the back seat of my car with the woman I love. And I won't be back for ten minutes.

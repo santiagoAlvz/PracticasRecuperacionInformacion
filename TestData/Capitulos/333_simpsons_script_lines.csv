@@ -1,0 +1,229 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+85900,333,1,11000,Milhouse Van Houten,Simpson Home,"I don't understand this game, Bart. How come we have to rake your lawn, while you just get to sit there?"
+85901,333,2,33000,Bart Simpson,Simpson Home,"Because I'm ""it."""
+85902,333,3,33000,Bart Simpson,Simpson Home,"Now, whoever finishes first gets a lemonade..."
+85903,333,4,38000,Milhouse Van Houten,Simpson Home,Yay!
+85904,333,5,38000,Bart Simpson,Simpson Home,...for me.
+85905,333,6,40000,Milhouse Van Houten,Simpson Home,"Later, when we wash his bike, I'm not gonna do a good job."
+85906,333,7,45000,Ralph Wiggum,Simpson Home,I'm telling Mr. Bart!
+85907,333,8,46000,Milhouse Van Houten,Simpson Home,Shhh!
+85908,333,9,49000,Sherri Mackleberry,Simpson Home,"Hey, guys."
+85909,333,10,52000,Bart Simpson,Simpson Home,Uh-oh. Girls. You guys need your cootie shots.
+85910,333,11,57000,Milhouse Van Houten,Simpson Home,"Well, I hate this job, but I love the health plan."
+85911,333,12,61000,Bart Simpson,Simpson Home,"Okay, ladies. Don't you have a poodle to dress up?"
+85912,333,13,64000,Terri Mackleberry,Simpson Home,"Fine, we'll go. We'll find some other way to entertain our boy-crazy cousin who thinks you're cute."
+85913,333,14,73000,Bart Simpson,Simpson Home,I wouldn't mind pushin' that in the mud.
+85916,333,17,81000,Homer Simpson,Simpson Home,Homer drunk... but how? Hmmm...
+85918,333,19,88000,Milhouse Van Houten,Bart's Treehouse,"'Round and 'round the bottle twirls, I hope it stops on one of the girls."
+85919,333,20,96000,Milhouse Van Houten,Bart's Treehouse,I hope you like the taste of ringworm medicine.
+85921,333,22,106000,Homer Simpson,Bart's Treehouse,"Eww! I kissed that sad, weird kid!"
+85922,333,23,109000,Homer Simpson,Bart's Treehouse,My beer! You never had a chance to become my urine! Why you little...
+85923,333,24,122000,Milhouse Van Houten,Bart's Treehouse,My first kiss...
+85925,333,26,128000,Marge Simpson,Backyard,"Stop it, Homer! There's only one way to settle this -- in Simpson family court."
+85926,333,27,132000,Bart Simpson,Backyard,What the hell's that?
+85927,333,28,134000,Marge Simpson,Backyard,I got the idea from a now-discredited book on raising children.
+85928,333,30,140000,Lisa Simpson,Simpson Home,"Now up, the case of Simpson v. Simpson."
+85929,333,31,143000,Homer Simpson,Simpson Home,"Mr. Simpson, do you think it's appropriate for a ten-year-old boy to steal a beer with intent to kiss?"
+85930,333,32,149000,Bart Simpson,Simpson Home,Do you think it was appropriate to bet against your son's little league team?
+85931,333,33,153000,Homer Simpson,Simpson Home,Permission to treat this witness as hostile.
+85932,333,34,156000,Bart Simpson,Simpson Home,"Homer, I'll bet when you were ten you were stealing beers, kissin' girls and tippin' dinosaurs."
+85933,333,35,160000,Marge Simpson,Simpson Home,Your father's first kiss was in high school -- with me.
+85934,333,36,164000,Homer Simpson,Simpson Home,"Actually, Marge... uh... there uh, was someone before you."
+85936,333,38,172000,Homer Simpson,Simpson Home,"It was years ago, when I was ten. Back in the '60s, or '50s, or maybe it was the early '70s..."
+85938,333,40,181000,10-Year-Old Homer,SUMMER CAMP,"""Underprivileged?"" You pretended we were poor just to get me into camp?"
+85939,333,41,184000,Grampa Simpson,SUMMER CAMP,"Uh, yeah, pretended."
+85941,333,43,191000,10-Year-Old Lenny,Homer's Cabin,"Hey, you must be Homer! I'm Lenny, and this is Carl."
+85942,333,44,195000,10-Year-Old Homer,Homer's Cabin,"Wow, a Negro!"
+85943,333,45,196000,10-Year-Old Carl,Homer's Cabin,"We prefer the term ""black."""
+85944,333,46,196000,10-Year-Old Homer,Homer's Cabin,So cool.
+85945,333,47,199000,Moe Szyslak,Homer's Cabin,"Heya, fellas! I'm Moe. I'm your junior counselor."
+85946,333,48,204000,T.J.,Homer's Cabin,"Moe's not really a counselor. His parents dropped him off here like, two years ago and they never came back for him."
+85947,333,49,209000,Moe Szyslak,Homer's Cabin,I sleep under upside-down canoes.
+85949,333,51,239000,T.J.,Motorboat,"That's the girls' camp, right over there."
+85952,333,54,246000,10-Year-Old Homer,Motorboat,I can't wait to meet the girls!
+85953,333,55,252000,Boys,Motorboat,Whaa?!
+85954,333,56,252000,Moe Szyslak,Motorboat,"That's right, you're workin' in the kitchen. That's how our camp pays the bills."
+85955,333,57,258000,10-Year-Old Carl,Motorboat,"What bills? We got no water, no heat... we catch our own breakfast..."
+85956,333,58,262000,Moe Szyslak,Motorboat,Twelve kids died at our camp. We need the money to pay lawyers.
+85959,333,61,273000,Homer Simpson,GIRLS' KITCHEN,I thought we were gonna play fun games at camp.
+85960,333,62,276000,Moe Szyslak,GIRLS' KITCHEN,"Oh, here's one."
+85961,333,63,278000,Moe Szyslak,GIRLS' KITCHEN,"It's called ""Stay Outta My Way."" Idiot."
+85962,333,64,282000,Girl,GIRLS' KITCHEN,"Oh, no! My retainer!"
+85963,333,65,287000,10-Year-Old Homer,GIRLS' KITCHEN,I got it!
+85964,333,66,288000,10-Year-Old Homer,GIRLS' KITCHEN,"Ooo la la, a girl with teeth. Me like!"
+85965,333,67,296000,Girl,GIRLS' KITCHEN,"Oh, thank you! You sound so sweet."
+85966,333,68,301000,10-Year-Old Homer,GIRLS' KITCHEN,That's 'cause I've eaten sixteen pieces of pie.
+85969,333,71,307000,10-Year-Old Homer,GIRLS' KITCHEN,"You know, doing dishes has been the best part of camp."
+85970,333,72,310000,Girl,GIRLS' KITCHEN,Really? Why?
+85971,333,73,312000,10-Year-Old Homer,GIRLS' KITCHEN,Because I talked to you.
+85974,333,76,316000,10-Year-Old Homer,Cabin,I couldn't see her through the flaps. But she's my kinda girl...
+85975,333,77,320000,10-Year-Old Lenny,Cabin,Tell us more about the flaps.
+85976,333,78,322000,10-Year-Old Homer,Cabin,"To me they were the rubbery gates of heaven, because behind them was the girl of my dreams."
+85977,333,79,327000,10-Year-Old Carl,Cabin,"Oh man, some day love will come slidin' down my chute."
+85978,333,80,331000,10-Year-Old Homer,Cabin,"Well, I can ask if she has any friends, 'cause she wants to meet me tonight."
+85979,333,81,335000,10-Year-Old Lenny,Cabin,Way to go.
+85980,333,82,335000,10-Year-Old Carl,Cabin,Outta sight!
+85981,333,83,337000,10-Year-Old Lenny,Cabin,"Now Homer, if you're gonna go, you'd better take some protection."
+85982,333,84,340000,10-Year-Old Homer,Cabin,"Ooh, a switchblade. I see the switch, but where's the blade?"
+85983,333,85,346000,10-Year-Old Homer,Cabin,Found it.
+85985,333,87,348000,10-Year-Old Homer,Camp Infirmary,An eye patch? But I've got a date tonight!
+85986,333,88,350000,Moe Szyslak,Camp Infirmary,"Don't worry, chicks love that kind of thing -- patches, scars, stumps... Everything but zits."
+85988,333,90,357000,10-Year-Old Homer,LAKESHORE,"All right, how should I get there?"
+85989,333,91,361000,10-Year-Old Homer,LAKESHORE,"Hm, I guess it's row versus wade. And it's my right to choose."
+85990,333,92,366000,Captain Horatio McCallister,LAKESHORE,Are ye lookin' to cross the lake which separates ye from she?
+85991,333,93,370000,10-Year-Old Homer,LAKESHORE,Who are you?
+85992,333,94,371000,Captain Horatio McCallister,LAKESHORE,"The sailing instruct-arrr! And on movie night I run the project-arrr! Only P.G., nothin' R. Yarrr."
+85994,333,96,388000,Homer Simpson,GIRLS' BEACH,I couldn't believe my eye.
+85996,333,98,392000,Homer Simpson,Simpson Home,"She was the prettiest girl I'd ever seen. Uh... until I met your mother, who made that girl look like a Godzilla made of garbage."
+85997,333,99,402000,Marge Simpson,Simpson Home,"Homer, that girl was me!"
+85999,333,101,405000,Lisa Simpson,Simpson Home,How romantic. You and Dad were drawn to each other as kids and you didn't even realize it.
+86000,333,102,411000,Marge Simpson,Simpson Home,"Yes... and then your father broke my heart. And if I'd known he was you, I never would have married you!"
+86001,333,103,418000,Homer Simpson,Simpson Home,"Oh, this is so confusing. I'd like a brief recess."
+86002,333,104,423000,Lisa Simpson,Simpson Home,Granted.
+86003,333,105,424000,Homer Simpson,Simpson Home,Whee! Recess!
+86005,333,107,428000,Bart Simpson,Simpson Home,"Let me get this straight. When you were my age, you had the hots for Mom and didn't even know it? That's cool. Or is it lame? I guess I'll go with lame. You're lame."
+86006,333,108,443000,Homer Simpson,Simpson Home,Why? Because I only kissed one girl in my whole life? That's still one more than you.
+86007,333,109,448000,Bart Simpson,Simpson Home,I've kissed three girls.
+86008,333,110,451000,Homer Simpson,Simpson Home,I'm so lame!
+86009,333,111,452000,Marge Simpson,Simpson Home,You're not gonna be kissing anybody for a while.
+86010,333,112,455000,Homer Simpson,Simpson Home,"Well, that stinks. But I still get to kiss you, right?"
+86012,333,114,459000,Lisa Simpson,Simpson Home,"Mom, why are you so mad?"
+86013,333,115,461000,Marge Simpson,Simpson Home,"I'll start from the beginning. The girls' camp was focused on teaching etiquette and deportment. Now that I've captured your interest, let me continue..."
+86015,333,117,474000,Ms. Killebrew,GIRLS' CAMP,"By summer's end, I promise you will all walk like ladies, talk like ladies, and hold your liquor like ladies. Now, chin up. Head back. Legs together..."
+86016,333,118,485000,Ms. Killebrew,GIRLS' CAMP,"Excellent. Girls, see how Marge's legs are slanted? You make Jackie O. look like a splay-legged milk-horse. Now stand and walk."
+86018,333,120,497000,Ms. Killebrew,GIRLS' CAMP,Well done! I'd be proud if you grew up to be my husband's mistress.
+86019,333,121,502000,TEN-YEAR-OLD MARGE,GIRLS' CAMP,Thank you.
+86021,333,123,504000,Marge Simpson,Simpson Home,I used to walk like this all the time... until my tendon snapped. They heard it in Shelbyville!
+86022,333,124,512000,Marge Simpson,Simpson Home,Anyhoo... one night we had a special dinner.
+86024,333,126,515000,Marge Simpson,GIRLS DINING HALL,We were learning to use all thirty-three forks.
+86025,333,127,521000,Ms. Killebrew,GIRLS DINING HALL,"Young lady, that is not an olive fork. Here's a simple trick to help you remember."
+86027,333,129,530000,Ms. Killebrew,GIRLS DINING HALL,"Knife and fork together, denied yourself dessert... nice work, Marge. Really."
+86028,333,130,538000,TEN-YEAR-OLD MARGE,GIRLS DINING HALL,"Oh, no! My retainer!"
+86029,333,131,540000,10-Year-Old Homer,GIRLS DINING HALL,I got it!
+86032,333,134,547000,TEN-YEAR-OLD MARGE,GIRLS' DINING HALL,"I'd thank you, but I don't even know your name."
+86033,333,135,550000,Young Helen,GIRLS' DINING HALL,I bet it's something low-rent -- like Billy Bob!
+86034,333,136,553000,Patty Bouvier,GIRLS' DINING HALL,Or Homer.
+86035,333,137,555000,Cookie Kwan,GIRLS' DINING HALL,"Big, ugly Homer!"
+86037,333,139,559000,TEN-YEAR-OLD MARGE,GIRLS' DINING HALL,"Oh, I'm sure it's a much nicer name than Homer."
+86038,333,140,561000,Homer Simpson,GIRLS' DINING HALL,"Think, Homer, think."
+86039,333,141,564000,TEN-YEAR-OLD MARGE,GIRLS' DINING HALL,What did you say?
+86040,333,142,565000,Homer Simpson,GIRLS' DINING HALL,I'm Elvis. Elvis Jagger. Elvis Jagger Abdul-Jabbar.
+86043,333,145,573000,Marge Simpson,Simpson Home,I told my friends I had a date...
+86045,333,147,575000,TEN-YEAR-OLD MARGE,Marge's Cabin,What should I wear? Should I paint my toes? And what should I do with my hair?
+86046,333,148,580000,HELEN,Marge's Cabin,You could iron it.
+86047,333,149,582000,TEN-YEAR-OLD MARGE,Marge's Cabin,Iron my hair? That's what Leslie Uggams does!
+86048,333,150,585000,Bart Simpson,Marge's Cabin,Leslie who?
+86049,333,151,587000,Marge Simpson,Marge's Cabin,Uggams!
+86050,333,152,588000,TEN-YEAR-OLD MARGE,Marge's Cabin,"Ooh, it's really straightening out."
+86051,333,153,593000,TEN-YEAR-OLD MARGE,Marge's Cabin,I guess I'm going to have to be a brunette tonight.
+86052,333,154,596000,Cookie Kwan,Marge's Cabin,"Oh, dear me. One day as a straight-haired brunette. I feel so bad for you. Stupid girl."
+86054,333,156,605000,TEN-YEAR-OLD MARGE,GIRLS' BEACH,"Please don't be a freak, please don't be a freak--"
+86055,333,157,608000,Captain Horatio McCallister,GIRLS' BEACH,"I MET HER ON THE MOUNTAIN, THERE I TOOK HER LIFE / MET HER ON THE MOUNTAIN, STABBED HER WITH MY KNIFE..."
+86057,333,159,623000,10-Year-Old Homer,GIRLS' BEACH,Hi.
+86058,333,160,627000,TEN-YEAR-OLD MARGE,GIRLS' BEACH,He's cute. And he's got an eye patch. I've never seen a boy so mysterious.
+86059,333,161,633000,TEN-YEAR-OLD MARGE,GIRLS' BEACH,You must be Elvis.
+86060,333,162,635000,10-Year-Old Homer,GIRLS' BEACH,"Elvis? What the Hell kind of name is... oh yeah, right."
+86062,333,164,639000,Bart Simpson,Simpson Home,We've heard the same story two times now. Whose side are we gonna hear next? The Sea Captain's?
+86063,333,165,645000,Captain Horatio McCallister,Simpson Home,"No, no, I'd best be on me way. I'll just take some Teddy Grahams for the road."
+86064,333,166,650000,Homer Simpson,Simpson Home,There goes a good friend.
+86065,333,167,653000,Marge Simpson,Simpson Home,"Now, I'm gonna warn you kids: the next part of the story gets a little ""W-B""..."
+86067,333,169,660000,Homer's Mind,PROMONTORY,"Oh man, I want to kiss her. Wait -- I just thought of the greatest move ever!"
+86068,333,170,673000,Marge's Mind,PROMONTORY,"Oh no, he yawned -- I'm boring him!"
+86069,333,171,677000,TEN-YEAR-OLD MARGE,PROMONTORY,"Do you like music? I do. I like Bobby Goldsboro, Gilbert O'Sullivan, Terry Jacks, Parliament but not Funkadelic..."
+86070,333,172,685000,Homer's Mind,PROMONTORY,How am I supposed to kiss those things? Interrupt her with something witty!
+86071,333,173,688000,10-Year-Old Homer,PROMONTORY,Uhhhh... Ummmm...
+86072,333,174,691000,TEN-YEAR-OLD MARGE,PROMONTORY,Yes?
+86073,333,175,693000,Homer's Mind,PROMONTORY,"Kiss her already. What, are you chicken? Bok-bok-bok-bok-bok-bok-bok-bok!"
+86074,333,176,739000,Marge's Mind,PROMONTORY,Is he making chicken noises?
+86078,333,180,769000,Bart Simpson,Simpson Home,"Way to go, Dad!"
+86079,333,181,771000,Lisa Simpson,Simpson Home,The perfect kiss!
+86080,333,182,772000,Homer Simpson,Simpson Home,It was pretty delicious.
+86081,333,183,774000,Marge Simpson,Simpson Home,It was as satisfying as a million Hallmark cards with all the right-sized envelopes.
+86083,333,185,781000,Homer Simpson,Simpson Home,It felt like a cluster bomb wiping out a graveyard full of zombies.
+86085,333,187,788000,Marge Simpson,Simpson Home,But then your father showed his true colors.
+86086,333,188,790000,Homer Simpson,Simpson Home,Whuh-oh.
+86088,333,190,793000,TEN-YEAR-OLD MARGE,PROMONTORY,Will I see you again tomorrow?
+86089,333,191,795000,10-Year-Old Homer,PROMONTORY,Absolutely. Or my name isn't... whatever I told you it was.
+86090,333,192,802000,Marge Simpson,PROMONTORY,"So we arranged to meet again at ""Second Date Rock."""
+86093,333,195,818000,TEN-YEAR-OLD MARGE,SECOND DATE ROCK,I guess he's not coming.
+86095,333,197,824000,Marge Simpson,Simpson Home,It was years before I could trust a boy again.
+86096,333,198,830000,Lisa Simpson,Simpson Home,"That's horrible. How could you, Dad?"
+86097,333,199,833000,Milhouse Van Houten,Simpson Home,Because he's the kind who kisses and leaves you!
+86098,333,200,842000,Lisa Simpson,Simpson Home,I can't believe you stood Mom up.
+86099,333,201,844000,Bart Simpson,Simpson Home,"Face it, Lis -- men are dogs. The worse we treat you, the more you want us."
+86100,333,202,848000,Lisa Simpson,Simpson Home,That's not what dogs do.
+86101,333,203,851000,Bart Simpson,Simpson Home,"Ha ha! You said ""dog doo""!"
+86102,333,204,854000,Homer Simpson,Simpson Home,"She sure did. Now if Lisa is finished with her shenanigans, I'll tell you why I didn't show up..."
+86104,333,206,860000,Homer Simpson,PROMONTORY,We had just finished our first smooch. And I felt a feeling I'd never felt before:
+86105,333,207,866000,10-Year-Old Homer,PROMONTORY,I found this stone earlier. I was gonna use it as a nerd-smasher... but I want you to have it.
+86106,333,208,873000,TEN-YEAR-OLD MARGE,PROMONTORY,Oooh! It looks like a heart.
+86107,333,209,876000,10-Year-Old Homer,PROMONTORY,"Hey, you're right. Give it back! No, I still want you to have it. But every time you smash a nerd with it, think of me."
+86108,333,210,885000,TEN-YEAR-OLD MARGE,PROMONTORY,I will.
+86109,333,211,889000,TEN-YEAR-OLD MARGE,PROMONTORY,"See you tomorrow night, okay?"
+86110,333,212,893000,10-Year-Old Homer,PROMONTORY,"What a kiss. If I died now, I'd die happy."
+86111,333,213,900000,10-Year-Old Homer,PROMONTORY,"...ooh, what a view..."
+86112,333,214,906000,10-Year-Old Homer,PROMONTORY,"Good ol' patch, you saved my life!"
+86115,333,217,919000,Security Guard,LAKESHORE,"So, you thought you could make a break for it, didya? Well, no one ever escapes from fat camp."
+86116,333,218,926000,Security Guard,LAKESHORE,'Cause the only way out is up a gentle slope.
+86117,333,219,932000,10-Year-Old Homer,LAKESHORE,What the? Fat camp?
+86118,333,220,941000,10-Year-Old Homer,LAKESHORE,I don't belong here!
+86119,333,221,943000,Security Guard,LAKESHORE,Your boy bosoms tell a different tale.
+86121,333,223,951000,Security Guard,Fat Camp,"Okay, take a break, ladies."
+86122,333,224,957000,Security Guard,Fat Camp,No eating the grass!
+86123,333,225,960000,Chief Wiggum,Fat Camp,He didn't say nothin' about this poison oak.
+86124,333,226,964000,Chief Wiggum,Fat Camp,"Sweet, sweet poison. Uh-oh."
+86126,333,227,973000,10-Year-Old Homer,Fat Camp,"I've gotta go, I've got a date!"
+86127,333,228,978000,Security Guard,Fat Camp,"Yeah, you've got a date... with a skinless chicken breast."
+86128,333,229,985000,10-Year-Old Homer,Fat Camp,Somewhere out there she's waiting for me.
+86130,333,231,992000,TEN-YEAR-OLD MARGE,GIRLS' CAMP PAY PHONE,Hello... I'd like to speak to Elvis Jagger Abdul-Jabbar.
+86132,333,233,997000,Moe Szyslak,BOYS' CAMP PAYPHONE,"Hey, don't you try and prank me with a fake name -- I'll rip out your intestines and use 'em to make a lanyard... Hello? Hello?"
+86133,333,234,1006000,Moe Szyslak,BOYS' CAMP PAYPHONE,And that's the origin of that.
+86135,333,236,1011000,TEN-YEAR-OLD MARGE,GIRLS' PAYPHONE,That boy I kissed wouldn't even tell me his real name!
+86136,333,237,1014000,Patty Bouvier,GIRLS' PAYPHONE,"Typical. All boys want the same thing -- to kiss until they're hot and heavy, then vamoose."
+86137,333,238,1021000,Selma Bouvier,GIRLS' PAYPHONE,Trust us. We know everything about boys. Except what they look like below the waist.
+86138,333,239,1026000,Patty Bouvier,GIRLS' PAYPHONE,I have some theories based on a G.I. Joe I bought.
+86139,333,240,1029000,TEN-YEAR-OLD MARGE,GIRLS' PAYPHONE,"Well, I never want to date a boy again!"
+86143,333,244,1038000,Cookie Kwan,Marge's Cabin,Are you leaving camp because of that boy? 'Cause that's what I've been telling everybody. You're also pregnant.
+86144,333,245,1044000,TEN-YEAR-OLD MARGE,Marge's Cabin,I just can't stay here -- everything reminds me of him.
+86147,333,248,1058000,Comic Book Guy,Fat Camp,"Oh, the pain. Man was not meant to sit up."
+86148,333,249,1064000,Security Guard,Fat Camp,"We've got an emergency here. We need ten CCs, pronto. And by CCs I mean cupcakes."
+86149,333,250,1071000,Guard On Walkie-talkie,Fat Camp,"I know what you mean, Bill. I've worked here longer than you."
+86150,333,251,1078000,10-Year-Old Homer,Fat Camp,Now's my chance.
+86151,333,252,1087000,10-Year-Old Homer,Fat Camp,Love... conquers... all.
+86152,333,253,1093000,10-Year-Old Homer,Fat Camp,Snake!
+86154,333,255,1101000,Patty Bouvier,GIRLS' CAMP,Bye-bye! Thank God they're gone.
+86155,333,256,1105000,Selma Bouvier,GIRLS' CAMP,I can't believe I went five minutes without one of these dream sticks.
+86156,333,257,1114000,Homer Simpson,GIRLS' CAMP,"Hey, have you two longshoremen seen a pretty girl?"
+86158,333,258,1117000,Selma Bouvier,GIRLS' CAMP,"If you are who I think you are, that girl is gone and she never wants to see you again."
+86159,333,259,1123000,Homer Simpson,GIRLS' CAMP,She wouldn't do that -- we shared something special.
+86160,333,260,1126000,Patty Bouvier,GIRLS' CAMP,"What, just 'cause she smooched you?"
+86161,333,261,1133000,Patty Bouvier,GIRLS' CAMP,Was that special?
+86162,333,262,1135000,Homer Simpson,GIRLS' CAMP,No.
+86163,333,263,1143000,Homer Simpson,GIRLS' CAMP,I just blew my first chance at true love.
+86165,333,265,1147000,Homer Simpson,Simpson Home,"And now that my special girl has heard the truth, I know she'll forgive me."
+86166,333,266,1152000,Homer Simpson,Simpson Home,"Earth to special girl? You forgive me, right?"
+86167,333,267,1155000,Marge Simpson,Simpson Home,I guess so.
+86168,333,268,1157000,Lisa Simpson,Simpson Home,"Uh, I think we'll go to bed now."
+86169,333,269,1159000,Bart Simpson,Simpson Home,"What are you doing? If they fight in front of us, we might get new bikes!"
+86170,333,270,1165000,Marge Simpson,Simpson Home,"Homer, when you nurse a hurt for thirty years, it doesn't go away in an instant."
+86171,333,271,1171000,Homer Simpson,Simpson Home,What about now?
+86173,333,273,1174000,Homer Simpson,Simpson Home,What about now?
+86174,333,274,1176000,Marge Simpson,Simpson Home,"No, Homer."
+86175,333,275,1179000,Homer Simpson,Simpson Home,What about now?
+86176,333,276,1181000,Marge Simpson,Simpson Home,"No, Homer."
+86177,333,277,1182000,Homer Simpson,Simpson Home,What about now?
+86178,333,278,1183000,Marge Simpson,Simpson Home,"No, Homer."
+86179,333,279,1185000,Homer Simpson,Simpson Home,"Marge, I'm really sorry I hurt you. But I've done way worse stuff since then: there was the gun I hid from you, the time I sued the church, ruining Lisa's wedding in the future... remember that?"
+86180,333,280,1198000,Marge Simpson,Simpson Home,"Homie, I know this shouldn't bother me, but a girl only has one first love. I guess it didn't mean that much to you."
+86181,333,281,1206000,Homer Simpson,Simpson Home,That's not true! I thought about that girl every day of my life... until I met you.
+86182,333,282,1212000,Marge Simpson,Simpson Home,I wish there was some way I could believe that.
+86183,333,283,1215000,Homer Simpson,Simpson Home,All right. This is my memory box. I haven't opened it in thirty years.
+86184,333,284,1221000,Homer Simpson,Simpson Home,"Ooh, a letter from my old pen pal. Someday I'll write you back, Osama. Ah, here's what I'm lookin' for."
+86185,333,285,1230000,Marge Simpson,Simpson Home,"Oh, Homie! You did care."
+86186,333,286,1233000,Homer Simpson,Simpson Home,I sure did. I kept it right next to my IBM stock... king.
+86187,333,287,1240000,Marge Simpson,Simpson Home,I kept my heart too.
+86189,333,288,1242000,Homer Simpson,Simpson Home,Because somehow you realized I was a good guy after all?
+86190,333,289,1246000,Marge Simpson,Simpson Home,"No, as a reminder of the hurtful things men can do."
+86192,333,291,1251000,Marge Simpson,Simpson Home,But now it can have a second meaning.
+86193,333,292,1257000,Marge Simpson,Simpson Home,"Oh, Elvis."
+86194,333,293,1259000,Homer Simpson,Simpson Home,"Oh, anonymous girl who turned out to be Marge."

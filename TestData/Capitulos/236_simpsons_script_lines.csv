@@ -1,0 +1,291 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+57497,236,1,95000,Itchy,Funeral Home,He was sooo young.
+57499,236,3,101000,Itchy,Itchy's Apartment,Aw. So sad.
+57500,236,4,109000,Itchy,Itchy's Apartment,Ooh.
+57505,236,9,149000,Marge Simpson,Simpson Home,"Okay, here goes..."
+57506,236,10,154000,Bart Simpson,Simpson Home,Cloning is a troubling issue.
+57507,236,11,156000,Homer Simpson,Simpson Home,I like the ones where the mouse kills the cat.
+57508,236,12,159000,Lisa Simpson,Simpson Home,"What's in the box, Mom?"
+57509,236,13,161000,Marge Simpson,Simpson Home,"This box? Oh, nothing."
+57510,236,14,163000,Bart Simpson,Simpson Home,Are you sure? You sound nervous.
+57511,236,15,165000,Marge Simpson,Simpson Home,"Well, anyone would be nervous with all the economic turmoil you read about in the..."
+57512,236,16,170000,Homer Simpson,Simpson Home,Get her! She's doing something!
+57514,236,18,176000,Bart Simpson,Simpson Home,It's the Goodwill truck!
+57515,236,19,177000,Lisa Simpson,Simpson Home,She cleaned out the attic!
+57516,236,20,180000,Homer Simpson,Simpson Home,Our junk!
+57517,236,21,182000,Homer Simpson,Simpson Home,And the exits are sealed! Go to plan B!
+57518,236,22,186000,Lisa Simpson,Simpson Home,/ Push! /
+57519,236,23,190000,Homer Simpson,Simpson Home,Come on!
+57520,236,24,195000,Marge Simpson,Simpson Home,Go! Go!
+57521,236,25,197000,Goodwill Driver,Simpson Home,I'm tryin'! Stop yellin' at me!
+57523,236,27,202000,Homer Simpson,Street,Oh no you don't!
+57524,236,28,206000,Homer Simpson,Street,"Oh, precious heirlooms! Daddy would never let them take you."
+57527,236,31,219000,Homer Simpson,Simpson Home,Oh. That was scary. We came this close to losing our spare Christmas tree stand. You monster.
+57528,236,32,226000,Bart Simpson,Simpson Home,"Look, here's the box for my Pitchback. If I still had it, I could put it in here."
+57529,236,33,230000,Marge Simpson,Simpson Home,I'll never get rid of this useless junk.
+57530,236,34,233000,Homer Simpson,Simpson Home,Useless? This flash cube has two flashes left!
+57531,236,35,237000,Marge Simpson,Simpson Home,You guys never use any of this stuff.
+57532,236,36,239000,Marge Simpson,Simpson Home,"Look at these. You bought them after the Nagano Olympics, and never skied once. If you would just stop being so impulsive, maybe..."
+57533,236,37,247000,Homer Simpson,Simpson Home,"Hey, let's go skiing right now!"
+57534,236,38,249000,Bart Simpson,Simpson Home,"Yeah! Let's go skiing! / Yeah, Dad. Let's go!"
+57535,236,39,253000,Homer Simpson,Simpson Home,Woo hoo!
+57539,236,43,258000,Chair Lift Operator,SKI AREA,"Okay, here it comes. Keep your eyes on the chair."
+57540,236,44,261000,Bart Simpson,SKI AREA,"Look Dad, it's the drummer from Bread!"
+57541,236,45,263000,Homer Simpson,SKI AREA,Where?!
+57547,236,51,277000,Marge Simpson,Mountain,This chair lift sure goes high...
+57548,236,52,281000,Marge Simpson,Mountain,Finally...
+57550,236,54,288000,Bart Simpson,Mountain,"Some gentle rocking will relax you, Mom."
+57551,236,55,292000,Marge Simpson,Mountain,Stop it!
+57553,236,56,302000,Lisa Simpson,Mountain,See Mom? You conquered your fears and now you're ready to sk--
+57554,236,57,307000,Marge Simpson,Mountain,I'm sorry!
+57555,236,58,308000,Homer Simpson,Mountain,"Hmmm... ""The Widowmaker,"" Oh, that one's for the ladies. ""Spinebuster,"" boring. Ooh, ""Colostomizer."""
+57556,236,59,317000,Homer Simpson,Mountain,Don't hurt me! Here's my wallet.
+57557,236,60,324000,Ned Flanders,Mountain,"Hi-didly-ho, Schuss in Boots."
+57558,236,61,326000,Homer Simpson,Mountain,Flanders!
+57559,236,62,328000,Homer Simpson,Mountain,"That suit's a little revealing, isn't it?"
+57560,236,63,330000,Ned Flanders,Mountain,"Well, it allows for maximum mobility."
+57561,236,64,332000,Ned Flanders,Mountain,Feels like I'm wearing nothin' at all!
+57562,236,65,335000,Homer Simpson,Mountain,Quit it! Must wash eyes! J--
+57563,236,66,339000,Homer Simpson,Mountain,Uh-oh.
+57564,236,67,341000,Homer Simpson,Mountain,"Okay, don't panic. Remember what the instructor said..."
+57565,236,68,346000,Ski Instructor,Mountain,"If you ever get into trouble, all you need to do is..."
+57566,236,69,349000,Ned Flanders,Mountain,"Feels like I'm wearin' nothin' at all. Nothin' at all, nothin' at all..."
+57567,236,70,354000,Homer Simpson,Mountain,Stupid sexy Flanders!
+57568,236,71,356000,Homer Simpson,Mountain,"Ow, my legs! This is the worst pain ever..."
+57570,236,73,374000,Homer Simpson,Mountain,Single.
+57572,236,75,381000,Lisa Simpson,SKI RESORT,"So hard, but so rewarding... Downhill skiers missing fun... Oh, who am I kidding?"
+57573,236,76,393000,Lisa Simpson,SKI RESORT,"Wow, what a perfect scene. This was so worth it..."
+57574,236,77,400000,Lisa Simpson,SKI RESORT,"Don't worry, little friends. I won't hurt you."
+57575,236,78,414000,Lisa Simpson,SKI RESORT,Eep.
+57578,236,81,414000,Ranger,SKI RESORT,Leave those deer alone!
+57579,236,82,417000,Lisa Simpson,SKI RESORT,But they were trying to eat me!
+57580,236,83,418000,Ranger,SKI RESORT,Ha! Those deer?
+57581,236,84,421000,Lisa Simpson,SKI RESORT,But they...
+57582,236,85,423000,Ranger,SKI RESORT,"Come on, I'll drop you off at the lodge."
+57585,236,88,430000,DOLPH,Mountain,Whoa! Fat 540!
+57586,236,89,432000,Nelson Muntz,Mountain,I'm gettin' aggro on this kicker!
+57587,236,90,434000,Bart Simpson,Mountain,Stomp that pickle revert!
+57588,236,91,436000,Otto Mann,Mountain,Excellent. Your lingo is progressing nicely.
+57589,236,92,439000,Bart Simpson,Mountain,Can I go to the bathroom?
+57590,236,93,441000,Otto Mann,Mountain,"Ah-ah. Say it in ""Snowboard."""
+57552,236,94,441000,Bart Simpson,Mountain,Um... I gotta blast a dookie.
+157087,236,95,444000,Otto Mann,Mountain,Dook on!
+57592,236,97,449000,Disco Stu,SKI LODGE,Snow fox at five o'clock.
+57593,236,98,451000,Disco Stu,SKI LODGE,"""Move it in, shove it out, disco lady..."""
+57594,236,99,456000,Disco Stu,SKI LODGE,Is this seat taken?
+57595,236,100,458000,Marge Simpson,SKI LODGE,I think that's an arm rest.
+57596,236,101,460000,Disco Stu,SKI LODGE,So... Do you party?
+57597,236,102,462000,Marge Simpson,SKI LODGE,You mean like a hats and noisemakers kind of party?
+57598,236,103,465000,Disco Stu,SKI LODGE,"Sure, baby, whatever your trip is. Disco Stu wants you to be comfortable while he does his thing."
+57599,236,104,472000,Marge Simpson,SKI LODGE,Who's Disco Stu?
+57600,236,105,472000,Lisa Simpson,SKI LODGE,"Hey, Mom!"
+57601,236,106,474000,Marge Simpson,SKI LODGE,"Hi, pumpkins!"
+57602,236,107,476000,Disco Stu,SKI LODGE,Kids?
+57603,236,108,477000,Disco Stu,SKI LODGE,"""Back away, not today, disco lady..."""
+57604,236,109,480000,Lisa Simpson,SKI LODGE,Have you been in here all day?
+57605,236,110,482000,Homer Simpson,SKI LODGE,You missed all the fun.
+57606,236,111,484000,Marge Simpson,SKI LODGE,Skiing fanny-first into a crevasse isn't my idea of fun. The only risk I'm taking is running out of marshmallows!
+57607,236,112,493000,Marge Simpson,SKI LODGE,Owww!!
+57608,236,113,496000,Family,SKI LODGE,"Oh, Mom! / Mom, are you all right? / Somebody get a doctor!"
+57609,236,114,496000,Lodge Employee #1,SKI LODGE,"Oh man, another clock accident."
+57610,236,115,499000,Lodge Employee #2,SKI LODGE,No wonder. Look at this.
+57611,236,116,505000,Lodge Employee #2,SKI LODGE,That oughta hold it.
+57612,236,117,511000,Homer Simpson,SKI LODGE,I want my wife to get the best treatment money can buy.
+57613,236,118,514000,Homer Simpson,SKI LODGE,Whoa-whoa-whoa! Don't go nuts.
+57614,236,119,518000,Homer Simpson,SKI LODGE,Uh... better than that.
+57615,236,120,519000,Homer Simpson,SKI LODGE,Perfect.
+57616,236,121,525000,Disco Stu,SKI LODGE,"Yeesh, I can't believe she went home with those guys."
+57618,236,123,535000,Dr. Julius Hibbert,Marge's Hospital Room,"Well, as you can see, it's a compound fracture. The leg must remain motionless, otherwise a hunk of bone could zoom right to her brain."
+57619,236,124,544000,Marge Simpson,Marge's Hospital Room,I can't be in the hospital! Tomorrow is laundry day. And I've gotta de-meat Lisa's baloney.
+57620,236,125,551000,Homer Simpson,Marge's Hospital Room,"We'll be fine, honey. The main thing is for you to get better."
+57621,236,126,554000,Bart Simpson,Marge's Hospital Room,"And don't worry, all the laundry and dirty dishes'll be there when you get back."
+57622,236,127,558000,Lisa Simpson,Marge's Hospital Room,"No they won't. We'll all pitch in on the housework, right guys? Guys...?"
+57623,236,128,564000,Homer Simpson,Marge's Hospital Room,Take that! Woo! Woo! H-Hey! Hey!
+57624,236,129,567000,Marge Simpson,Marge's Hospital Room,"Sweetie, it's nice that you want to take charge around the house, but don't be a hero. Just make sure your father eats all his meals over a tarp. But not the good tarp. I want you to get married on that some day!"
+57625,236,130,580000,Lisa Simpson,Marge's Hospital Room,"Oh, Mom. I've seen what you do around the house, and I can handle it. Maybe I can even make things more efficient."
+57626,236,131,587000,Marge Simpson,Marge's Hospital Room,"Oh, really? Well, knock yourself out. Just don't expect any miracles from those two."
+57627,236,132,593000,Homer Simpson,Marge's Hospital Room,Gotcha! Gotcha! / I'll show you!
+57628,236,133,594000,Dr. Julius Hibbert,Marge's Hospital Room,Good Lord! You're wasting thousands of dollars worth of Interferon.
+57629,236,134,598000,Homer Simpson,Marge's Hospital Room,"And you're ""interferon"" with our good time!"
+57631,236,136,603000,Dr. Julius Hibbert,Marge's Hospital Room,Well I'll be. That cured my canker sores.
+57633,236,138,611000,Homer Simpson,Simpson Home,'Mornin'...
+57634,236,139,613000,Lisa Simpson,Simpson Home,"Dad, where are your clothes?"
+57635,236,140,615000,Homer Simpson,Simpson Home,I don't know.
+57636,236,141,617000,Lisa Simpson,Simpson Home,Don't tell me Mom dresses you.
+57637,236,142,619000,Homer Simpson,Simpson Home,"I guess, or one of her friends."
+57638,236,143,624000,Lisa Simpson,Simpson Home,"Okay, now we're gonna draw jobs from the chore hat."
+57639,236,144,628000,Homer Simpson,Simpson Home,"Come on, ""bikini inspector!"" ""Scrub toilet?"" Okay, that was a practice. Practice... Practice... Okay, here we go. ""Feed fish."""
+57640,236,145,639000,Bart Simpson,Simpson Home,I'll supervise.
+57641,236,146,641000,Lisa Simpson,Simpson Home,"You know, the reason for the hat..."
+57642,236,147,643000,Homer Simpson,Simpson Home,"Oh, it's a great hat. No one's questioning the hat."
+57643,236,148,645000,Lisa Simpson,Simpson Home,Will you at least do the dishes?
+57644,236,149,647000,Homer Simpson,Simpson Home,"Lisa, I'll do the dishes when I pick it out of the chore hat, and it's not a practice. See, there it is. But that was a practice. The system works!"
+57645,236,150,659000,Homer Simpson,Simpson Home,"C'mon, eat, you lazy fish."
+57646,236,151,662000,Lisa Simpson,Simpson Home,Oh! You're gonna be late.
+57647,236,152,665000,Lisa Simpson,Simpson Home,Here are your lunches. And no trading your fruit for firecrackers.
+57648,236,153,669000,Homer Simpson,Simpson Home,"Oh, but Lenny just got some bottle rockets."
+57649,236,154,671000,Lisa Simpson,Simpson Home,"You stay away from Lenny. And where's your sweater, Bart?"
+57650,236,155,675000,Bart Simpson,Simpson Home,It unraveled on a nail.
+57652,236,156,677000,Homer Simpson,Simpson Home,"That's not true, he left it on the bus."
+57653,236,157,679000,Bart Simpson,Simpson Home,"You're dead, squealer."
+57654,236,158,681000,Homer Simpson,Simpson Home,"Lisa, help!"
+57655,236,159,681000,Lisa Simpson,Simpson Home,Those boys of mine.
+57658,236,162,684000,Nurse,Hospital Room,Mrs. Simpson! What are you doing?
+57659,236,163,687000,Marge Simpson,Hospital Room,I couldn't sleep knowing that window had a smudge on it.
+57660,236,164,691000,Nurse,Hospital Room,"You're here to rest. If you want the window cleaned, just push the call button."
+57661,236,165,695000,Marge Simpson,Hospital Room,"Oh, I don't want to be a bother."
+57662,236,166,697000,Nurse,Hospital Room,Wouldn't bother us. It just turns up your morphine.
+57663,236,167,701000,Marge Simpson,Hospital Room,So it does.
+57664,236,168,704000,Nurse,Hospital Room,Stop pushing that.
+57665,236,169,705000,Nurse,Hospital Room,Mr. Sakamoto is here for your accupressure.
+57666,236,170,707000,Mr. Sakamoto,Hospital Room,"Now Mrs. Simpson, just lie back and relax. Mr. Sakamoto wants you to be comfortable while he does his thing."
+57667,236,171,717000,Marge Simpson,Hospital Room,"Oh, I don't think I need any... Oh, wow..."
+57669,236,173,726000,Lisa Simpson,Simpson Home,"Okay, guys, dinner's ready..."
+57670,236,174,731000,Lisa Simpson,Simpson Home,"Oop, the cheese isn't quite melted. Let me just pop it back in the..."
+57672,236,176,736000,Lisa Simpson,Simpson Home,Here you go.
+57673,236,177,739000,Lisa Simpson,Simpson Home,Slivered almonds for the green beans! I'll be right back.
+57674,236,178,753000,Lisa Simpson,Simpson Home,"So, how was your day?"
+57676,236,180,761000,Lisa Simpson,Simpson Home,"Bart, you were supposed to scour the pans!"
+57677,236,181,764000,Bart Simpson,Simpson Home,They need to soak.
+57678,236,182,765000,Lisa Simpson,Simpson Home,You said that four days ago.
+57679,236,183,767000,Lisa Simpson,Simpson Home,"Look, they're rusted through."
+57680,236,184,769000,Bart Simpson,Simpson Home,It's an illusion.
+57681,236,185,771000,Lisa Simpson,Simpson Home,No it's not!
+57682,236,186,772000,Homer Simpson,Simpson Home,I got the groceries!
+57683,236,187,773000,Lisa Simpson,Simpson Home,Good. Maple soda?... A cell phone full of candy?... Astronaut bread?
+57684,236,188,781000,Homer Simpson,Simpson Home,It's the bread of astronauts.
+57685,236,189,783000,Bart Simpson,Simpson Home,I didn't know Aerosmith made a cereal.
+57686,236,190,786000,Lisa Simpson,Simpson Home,"Dad, I gave you a list!"
+57687,236,191,788000,Homer Simpson,Simpson Home,Oh yeah. You were way off.
+57688,236,193,793000,Homer Simpson,Simpson Home,"Hello, Lollipop Island? There's a little girl here who had too many sourballs."
+57690,236,195,800000,Homer Simpson,Simpson Home,"Anyway, where were we? Hello? Hello? They hung up."
+57693,236,198,808000,Marge Simpson,Hospital,Talk to me.
+57695,236,200,810000,Lisa Simpson,Simpson Home,"Hey Mom, how's the leg?..."
+57696,236,201,813000,Marge Simpson,Simpson Home,"Leg? Oh, oh, that. It's pretty great. How are things at home?"
+57697,236,202,818000,Lisa Simpson,Simpson Home,"Oh, couldn't be better."
+57698,236,203,820000,Homer Simpson,Simpson Home,Marco!
+57699,236,204,821000,Bart Simpson,Simpson Home,Polo!
+57700,236,205,822000,Homer Simpson,Simpson Home,Marco!
+57701,236,206,822000,Bart Simpson,Simpson Home,Polo!
+57702,236,207,823000,Homer Simpson,Simpson Home,Marc--
+57703,236,208,823000,Bart Simpson,Simpson Home,Polo!
+57704,236,209,826000,Lisa Simpson,Simpson Home,So Mom... You think you'll be getting out of there soon?
+57705,236,210,830000,Marge Simpson,Simpson Home,"Oh, I don't know, honey. I've got a lot of therapy left."
+57706,236,211,834000,Lisa Simpson,Simpson Home,"I really thought I could handle this, but..."
+57707,236,212,836000,Marge Simpson,Simpson Home,I think so too. Bye!
+57709,236,214,841000,Ricky,Simpson Home,Looosy!
+57710,236,215,843000,Lucy,Simpson Home,Waaaaaah!
+57711,236,216,844000,Fred,Simpson Home,"You hit her pretty hard there, Rick."
+57713,236,218,855000,John Wayne,Simpson Home,"Say, folks, what's all the ruckus?"
+57714,236,219,855000,Fred,Simpson Home,John Wayne?!
+57717,236,222,855000,Lisa Simpson,Simpson Home,Will you guys turn that thing down?
+57718,236,223,857000,Homer Simpson,Simpson Home,"Sweetie, if we didn't turn it down for the cops, what chance do you have? He hit her again."
+57719,236,224,868000,Lisa Simpson,Simpson Home,"Stupid, inconsiderate bunch of jerks... I can't believe, after I..."
+57720,236,225,871000,RASPY VOICE,Simpson Home,"Losing your marbles, huh, kid?"
+57721,236,226,875000,Lisa Simpson,Simpson Home,Lucy?
+57722,236,227,876000,Lucy,Simpson Home,Lucy McGillicuddy Ricardo Carmichael. And I think there's some more.
+57723,236,228,881000,Lisa Simpson,Simpson Home,What are you doing here?
+57724,236,229,883000,Lucy,Simpson Home,I came from Heaven to help you get revenge on these bums. Is there an ashtray around here?
+57725,236,230,888000,Lisa Simpson,Simpson Home,Will this do?
+57727,236,231,890000,Lucy,Simpson Home,"Thanks, doll. Now, we need a scheme to teach those slobs a lesson..."
+57728,236,232,895000,Lisa Simpson,Simpson Home,You mean like when you hid inside the conga drum to scare Ricky?
+57729,236,233,898000,Lucy,Simpson Home,"Hey, stay away from the drums, that's my bit. I got it! Here's what you do..."
+57730,236,234,905000,Lucy,Simpson Home,"Wait until they fall asleep, then you sneak into their rooms, and make sure they're fast asleep because of..."
+57732,236,236,931000,Bart Simpson,Simpson Home,My skin! My beautiful skin!
+57734,236,238,935000,Homer Simpson,Simpson Home,"Lisa, help!"
+57735,236,239,940000,Homer Simpson,Simpson Home,What's wrong with us?!
+57736,236,240,943000,Lisa Simpson,Simpson Home,"Ohh, I don't like the looks of this."
+57737,236,241,945000,Homer Simpson,Simpson Home,"You don't? 'Cause that's what I said! Tell her, Bart."
+57738,236,242,948000,Bart Simpson,Simpson Home,Shut up! Shut up!
+57739,236,243,949000,Lisa Simpson,Simpson Home,We better check with a doctor.
+57740,236,244,953000,Left Snake,Simpson Home,Welcome to Virtual Doctor.
+57741,236,245,956000,Right Snake,Simpson Home,"From the makers of ""DragonQuest"", and ""Sim-Sandwich""."
+57742,236,246,959000,Both Snakes,Simpson Home,Enter symptoms now!
+57743,236,247,960000,Lisa Simpson,Simpson Home,Let's see... Crusty sores...
+57744,236,248,962000,Homer Simpson,Simpson Home,Yes...
+57745,236,249,963000,Lisa Simpson,Simpson Home,... Horrible wailing...
+57746,236,250,964000,Homer Simpson,Simpson Home,Yes! Yesssss!
+57747,236,251,966000,Lisa Simpson,Simpson Home,Any exposure to unsanitary conditions?
+57748,236,252,969000,Bart Simpson,Simpson Home,Duh! We're pigs!
+57749,236,253,971000,Lisa Simpson,Simpson Home,"Okay, and... ""diagnose""."
+57750,236,254,974000,Virtual Doctor,Simpson Home,You've got leprosy.
+57751,236,255,976000,Bart Simpson,Simpson Home,Leprosy?!
+57752,236,256,979000,Bart Simpson,Simpson Home,Aahhh! Unclean! Unclean!
+57753,236,257,983000,Homer Simpson,Simpson Home,"Help us, Virtual Doc! Look at me! I'm on my knees!"
+57754,236,258,986000,Virtual Doctor,Simpson Home,Good-bye.
+57756,236,260,991000,Lisa Simpson,Simpson Home,Excellent.
+57757,236,261,996000,Homer Simpson,Simpson Home,Leprosy? I can't believe it! That fortune cookie was right.
+57758,236,262,999000,Bart Simpson,Simpson Home,"Why would God punish a kid? I mean, an American kid?"
+57759,236,263,1003000,Lisa Simpson,Simpson Home,"Now guys, leprosy thrives in filthy conditions, so your only chance is to clean up the house. I'll get you a couple of mops."
+57760,236,264,1010000,Homer Simpson,Simpson Home,Mops? The cure sounds worse than the disease.
+57761,236,265,1013000,Bart Simpson,Simpson Home,At Sunday School they said the lepers were cured by some bearded dude.
+57726,236,266,1016000,Homer Simpson,Simpson Home,Jesus?
+57762,236,267,1016000,Bart Simpson,Simpson Home,"Yeah, that sounds right."
+57763,236,268,1018000,Homer Simpson,Simpson Home,"Well, I think we're on the outs with Him, but I know someone who's even holier than Jesus."
+57765,236,270,1024000,Ned Flanders,Flanders Home,"Hi-didly-ho, I..."
+57767,236,272,1030000,Ned Flanders,Flanders Home,"Maude, come quick! The Simpsons are covered with cooties!"
+57768,236,273,1033000,Bart Simpson,Flanders Home,/ Help us. / We're diseased.
+57769,236,274,1036000,Maude Flanders,Flanders Home,"Oh no, that's leprosy! Remember those scary lepers in ""Ben-Hur""?"
+57770,236,275,1040000,Ned Flanders,Flanders Home,"You saw ""Ben-Hur"" without me?"
+57771,236,276,1042000,Maude Flanders,Flanders Home,We were broken up then.
+57772,236,277,1043000,Ned Flanders,Flanders Home,"Well, that's no..."
+57774,236,279,1046000,Bart Simpson,Flanders Home,Brains... Brains...
+57775,236,280,1049000,Homer Simpson,Flanders Home,Use your brains to help us. Your delicious brains.
+57776,236,281,1053000,Ned Flanders,Flanders Home,"Oh, those poor souls. What's the Christian thing to do?"
+57777,236,282,1058000,Homer Simpson,Flanders Home,"Oh, thank you, thank you, thank you! You wonderful man!"
+57779,236,284,1065000,Bart Simpson,Flanders Home,"All right, food!"
+57780,236,285,1071000,Homer Simpson,Flanders Home,Bart! Leave some for Rod and Todd!
+57781,236,286,1073000,Homer Simpson,Flanders Home,"Here you go, lad."
+57782,236,287,1074000,Ned Flanders,Flanders Home,"Uh, listen, Homer, we'd love to help you, but we're not really set up for lepers."
+57783,236,288,1085000,Homer Simpson,Flanders Home,So you're shunning us.
+57784,236,289,1087000,Ned Flanders,Flanders Home,"No, no, no, no, no, no, no. I'm just thinking we could send you to a better place... you know, a place where they can really take care of you."
+57785,236,290,1093000,Homer Simpson,Flanders Home,"Oh, thank you good sir."
+57786,236,291,1101000,Ned Flanders,Flanders Home,"Ooh, that smarts. Boys, get the alcohol-free alcohol."
+57789,236,294,1106000,Dr. Julius Hibbert,Hospital,"Marge, we'll just get this cast off, and you can go home to y-- Oh, my Lord!"
+57790,236,295,1110000,Marge Simpson,Hospital,"Well, it has been a week."
+57791,236,296,1113000,Dr. Julius Hibbert,Hospital,"Code blue! A thousand CC's of leg wax, stat!"
+57793,236,298,1116000,Lisa Simpson,Simpson Home,"Lazy, no-good lepers... Making me clean everything myself..."
+57794,236,299,1122000,Moe Szyslak,Simpson Home,"Hey, uh, is Homer there?"
+57795,236,300,1123000,Lisa Simpson,Simpson Home,"No, he isn't. I don't know where he is."
+57796,236,301,1126000,Moe Szyslak,Simpson Home,I'm a little worried. He usually stops in for an eye-opener on the way to work.
+57797,236,302,1129000,Lisa Simpson,Simpson Home,He told us he'd been going to the gym.
+57798,236,303,1132000,Moe Szyslak,Simpson Home,"Wow. Anyway, you don't think he could be at another bar, do you? Because I couldn't take that! I... uh... I-I just couldn't! I..."
+57799,236,304,1140000,Moe Szyslak,Simpson Home,Don't-hang-up-on-me!
+57800,236,305,1142000,Marge Simpson,Simpson Home,"I'm home, everybody! Gee, the house looks great!"
+57801,236,306,1147000,Lisa Simpson,Simpson Home,"Mom, I lost Dad and Bart."
+57802,236,307,1149000,Marge Simpson,Simpson Home,Lost them? What do you mean?
+57803,236,308,1151000,Lisa Simpson,Simpson Home,I tricked them into thinking they had leprosy.
+57804,236,309,1154000,Marge Simpson,Simpson Home,"Hansen's Disease. You know, like that horrible cream soda?"
+57805,236,310,1158000,Lisa Simpson,Simpson Home,"Well, Dad and Bart ran away and no one seems to know where they went."
+57806,236,311,1162000,Marge Simpson,Simpson Home,"Okay, okay calm down. They couldn't have gone too far."
+57807,236,312,1165000,Marge Simpson,Simpson Home,Molokai?!
+57808,236,313,1167000,Lisa Simpson,Simpson Home,You mean Hawaii?
+57809,236,314,1168000,Ned Flanders,Simpson Home,"Mm-hm. That's the one! They've got a top-notch leper colony there, so we shipped 'em right off. Ooh, cost us a bundle, too. I guess we'll have an ""Imagination Christmas"" this year."
+57810,236,315,1178000,Todd Flanders,Simpson Home,Yayyy! Imagination Christmas!
+57811,236,316,1180000,Rod Flanders,Simpson Home,I got a pogo stick!
+57812,236,317,1182000,Todd Flanders,Simpson Home,I got a Hula-Hoop!
+57814,236,319,1194000,Bart Simpson,LEPER COLONY,Whoa! This is a hospital?
+57815,236,320,1197000,Homer Simpson,LEPER COLONY,"That it is. We'll take the cure, bag a few lobsters, then watch some gay guys get married."
+57816,236,321,1206000,Orderly,LEPER COLONY,"Ah, you must be the Simpsons."
+57817,236,322,1208000,Homer Simpson,LEPER COLONY,Howdy. And thanks for not recoiling in horror.
+57818,236,323,1211000,Orderly,LEPER COLONY,"Thank you for the friendly ""howdy."""
+57819,236,324,1213000,Bart Simpson,LEPER COLONY,Can we get a room with a view?
+57820,236,325,1214000,Orderly,LEPER COLONY,"Oh, you'll have a great view of the whole beach... from the electric needle room."
+57821,236,326,1218000,Homer Simpson,LEPER COLONY,Really? The whole beach?
+57822,236,327,1221000,Orderly,LEPER COLONY,"Yes, from the electric needle room."
+57823,236,328,1222000,Homer Simpson,LEPER COLONY,Electric needle room?!
+57827,236,332,1236000,Bart Simpson,ELECTRIC NEEDLE ROOM,Glad that's not me.
+57829,236,334,1244000,Bart Simpson,Island,Time to turn over.
+57830,236,335,1248000,Marge Simpson,Island,"Oh, thank God you're all right!"
+57831,236,336,1251000,Lisa Simpson,Island,"Dad, Bart, I played a horrible trick on you and I'm really sorry. You don't have leprosy. It's just oatmeal."
+57832,236,337,1258000,Bart Simpson,Island,"Yeah, we know."
+57833,236,338,1259000,Homer Simpson,Island,I figured it out after I ate one of my chest sores.
+57834,236,339,1261000,Marge Simpson,Island,"Well, then let's get out of here."
+57835,236,340,1263000,Bart Simpson,Island,No way. We scored a free Hawaiian vacation.
+57836,236,341,1266000,Homer Simpson,Island,"This place is a blast. All we have to do is endure two hours of blinding pain, then it's nothin' but shopping and surfing."
+57837,236,342,1273000,Bart Simpson,Island,"Tonight we're gonna put our fake sores back on, then jump the fence at Club Med, and scare the normals."
+57838,236,343,1277000,Marge Simpson,Island,"Well, it all sounds lovely, but..."
+57839,236,344,1280000,Homer Simpson,Island,"Come on, loosen up. This is paradise."
+57840,236,345,1286000,Orderly,Island,"Number one, report to the Dermabrasion Hut."
+57841,236,346,1288000,Homer Simpson,Island,That's me!
+57842,236,347,1292000,Homer Simpson,Island,Aloha / Aloha Until we meet a-

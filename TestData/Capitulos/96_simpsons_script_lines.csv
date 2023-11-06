@@ -1,0 +1,198 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+18552,96,1,8000,Waylon Smithers,Springfield Nuclear Power Plant,Attention! All workers trudge immediately to the main yard for the mandatory Worker of the Week award festivities.
+18553,96,2,34000,Guard #1,Springfield Nuclear Power Plant,"Clean, clean, pistol, uzi, two kids posing as an adult..."
+18554,96,3,40000,Guard #1,Springfield Nuclear Power Plant,"Hey, Homer."
+18555,96,4,40000,Homer Simpson,Springfield Nuclear Power Plant,Hey.
+18556,96,5,43000,Carl Carlson,Springfield Nuclear Power Plant,I hate these Worker of the Week award ceremonies.
+18557,96,6,48000,Lenny Leonard,Springfield Nuclear Power Plant,Who even cares anymore? Everyone that works here has already got one.
+18558,96,7,51000,Carl Carlson,Springfield Nuclear Power Plant,Except forrrrr...
+18559,96,8,51000,Homer Simpson,Springfield Nuclear Power Plant,"Hello. Well, today's the day for Homer J. I know I'm gonna win this time."
+18560,96,9,61000,Lenny Leonard,Springfield Nuclear Power Plant,"Yeah, how come?"
+18561,96,10,61000,Homer Simpson,Springfield Nuclear Power Plant,"Union rule twenty-six - ""Every employee must win worker of the week at least once, regardless of gross incompetence, obesity, or rank odor."""
+18562,96,11,64000,Waylon Smithers,Springfield Nuclear Power Plant,"Attention, everyone. Let's have an awed hush please for Mr. Burns."
+18564,96,12,73000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Compadres, it is imperative that we crush the freedom fighters before the start of the rainy season. And remember, a shiny new donkey for whoever brings me the head of Colonel Montoya."
+18565,96,13,90000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Huh? What? And by that I mean, of course, it's time for the Worker of the Week Award. I can't believe we've overlooked this week's winner for so very very long. We simply could not function without his tireless efforts. So, a round of applause for... this inanimate carbon rod."
+18567,96,15,110000,Homer Simpson,Springfield Nuclear Power Plant,Inanimate huh? I'll show him inanimate!
+18569,96,17,110000,Homer Simpson,Simpson Home,Stupid carbon rod. It's all just a popularity contest.
+18570,96,18,127000,Bart Simpson,Simpson Home,Wow! Did you actually get to see the rod?
+18571,96,19,130000,Marge Simpson,Simpson Home,"I'm sorry, Homie."
+18572,96,20,130000,Homer Simpson,Simpson Home,Nobody respects me at work.
+18573,96,21,134000,Marge Simpson,Simpson Home,"Well, we respect you."
+18574,96,22,134000,Marge Simpson,Simpson Home,"Bart, I told you, don't draw on your father's skull."
+18575,96,23,134000,Homer Simpson,Simpson Home,"What, what does it say? I want to see."
+18577,96,25,145000,Homer Simpson,Simpson Home,"Ah, TV respects me. It laughs with me, not at me."
+18578,96,26,166000,Man,Simpson Home,Stupid...
+18580,96,28,171000,Nasa Announcer #1,Simpson Home,"It's a lovely day for a launch here live at Cape Canaveral at the lower end of the Florida peninsula. And the purpose of today's mission is truly, really electrifying."
+18581,96,29,181000,Nasa Announcer #2,Simpson Home,"That's correct, Tom. The lion share of this flight will be devoted to the study of the effects of weightlessness on tiny screws."
+18582,96,30,187000,Nasa Announcer #1,Simpson Home,Unbelievable! And just imagine the logistics of weightlessness. And of course this could have literally millions of applications here on Earth... in everything from watch making to watch repair.
+18583,96,31,197000,Homer Simpson,Simpson Home,Boring.
+18584,96,32,197000,Homer Simpson,Simpson Home,"No, the batteries!"
+18585,96,33,200000,Nasa Announcer #1,Simpson Home,Now let's look at the crew a little.
+18586,96,34,200000,Nasa Announcer #2,Simpson Home,"They're a colorful bunch; they've been dubbed the ""Three Musketeers."""
+18587,96,35,204000,Nasa Announcer #1,Simpson Home,"And we laugh legitimately. There's a mathematician, a different kind of mathematician and a statistician."
+18588,96,36,213000,Homer Simpson,Simpson Home,Make it stop!
+18589,96,37,213000,Bart Simpson,Simpson Home,"Oh no, not another boring space launch! Change the channel! Change the channel!"
+18590,96,38,218000,Homer Simpson,Simpson Home,I can't! I can't!
+18593,96,41,220000,Dr. Babcock,MISSION CONTROL,"Sir, we've run into a serious problem with the mission. These Nielsen ratings are the lowest ever."
+18594,96,42,232000,STILLWATER,MISSION CONTROL,"Oh my God! We've been beaten by ""A Connie Chung Christmas."""
+18596,96,44,238000,STILLWATER,Nasa,"People, we're in danger of losing our funding. America isn't interested in space exploration anymore."
+18597,96,45,244000,Dr. Babcock,Nasa,"Maybe we should finally tell them the big secret, that all the chimps we sent into space came back super intelligent."
+18598,96,46,249000,Chimp,Nasa,"No, I don't think we'll be telling them that."
+18599,96,47,253000,STILLWATER,Nasa,We need a fresh angle to get the public interested.
+18600,96,48,259000,Dr. Babcock,Nasa,"The public see our astronauts as clean-cut, athletic go-getters. They hate people like that."
+18601,96,49,263000,Female Scientist,Nasa,Well who do they like?
+18602,96,50,266000,Dr. Babcock,Nasa,"Well, here are the most popular personalities on televison or TV."
+18603,96,51,266000,TIM ALLEN-TYPE,Nasa,I did it! I supercharged my riding mower.
+18604,96,52,274000,TIM ALLEN-TYPE,Nasa,Oh no! I've killed Wilson. Looks like it's back to jail for me.
+18605,96,53,283000,Peg,Nasa,"Al, let's have sex."
+18606,96,54,289000,Al,Nasa,"Uh, no Peg."
+18607,96,55,291000,Nerdy Scientist,Nasa,"Why, they're all a bunch of blue collar slobs."
+18608,96,56,308000,STILLWATER,Nasa,"People, that's who we need for our next astronaut."
+18609,96,57,311000,Dr. Babcock,Nasa,"I suggest a lengthy, inefficient search, at the tax payers expense, of course."
+18610,96,58,315000,STILLWATER,Nasa,"God, I wish there was an easier way."
+18611,96,59,317000,Homer Simpson,Nasa,"Hello, is this NASA?"
+18612,96,60,317000,STILLWATER,Nasa,Yes.
+18613,96,61,321000,Homer Simpson,Nasa,"Good. Listen, I'm sick of your boring space launches. Now I'm just an ordinary blue collar slob, but I know what I likes on TV..."
+18614,96,62,329000,STILLWATER,Nasa,How did you get this number?
+18615,96,63,329000,Homer Simpson,Nasa,Shut up. And another thing - how come I can't get no Tang 'round here? And also... hold on a second.
+18616,96,64,335000,STILLWATER,Nasa,"People, our long search is over."
+18618,96,66,347000,Homer Simpson,Moe's Tavern,"Hello, is this President Clinton? Good. I figured if anyone knew where to get some Tang it'd be you... shut up!"
+18480,96,67,353000,Dr. Babcock,Moe's Tavern,Excuse me?
+18619,96,68,355000,Dr. Babcock,Moe's Tavern,Are you the person that called NASA yesterday?
+18620,96,69,358000,Homer Simpson,Moe's Tavern,"No. It wasn't me, I swear. It was... him."
+18621,96,70,362000,STILLWATER,Moe's Tavern,"Sir, how would you like to get higher than you've ever been in your life?"
+18622,96,71,366000,Barney Gumble,Moe's Tavern,Be an astronaut? Sure.
+18623,96,72,366000,STILLWATER,Moe's Tavern,"Well, welcome aboard. I think you'll find that this will win you the respect of your family and friends."
+18624,96,73,373000,Homer Simpson,Moe's Tavern,"Respect?! Nooo! It was me! I made the crank call. I do it all the time. Check with the FBI, I have a file. I HAVE A FIIIIILE."
+18625,96,74,382000,STILLWATER,Moe's Tavern,"Eh, better take both of them."
+18626,96,75,386000,STILLWATER,Moe's Tavern,I don't really think that was necessary. They wanted to be astronauts.
+18627,96,76,388000,Dr. Babcock,Moe's Tavern,I know.
+18630,96,79,392000,STILLWATER,Hotel Banquet Room,"Ladies and gentlemen and members of the press, I'd like to present the new generation of NASA astronaut, the average American."
+18631,96,80,411000,Jim Wallace,Hotel Banquet Room,"Jim Wallace, Associated Press. Is this a joke?"
+18632,96,81,417000,STILLWATER,Hotel Banquet Room,"Far from it, Jim. One of these men will prove space travel is within the reach of the common man."
+18633,96,82,423000,Toby Hunter,Hotel Banquet Room,"Toby Hunter, Minneapolis Star. No, really. Is this a joke?"
+18634,96,83,428000,STILLWATER,Hotel Banquet Room,No Toby. And no more questions about whether this is a joke.
+18635,96,84,433000,Reporter #1,Hotel Banquet Room,Uh... question for the barbecue chef: don't you think there is an inherent danger in sending under-qualified civilians into space?
+18636,96,85,443000,Homer Simpson,Hotel Banquet Room,"I'll field this one. The only danger is if they send us to that terrible Planet of the Apes. ...Wait a minute, Statue of Liberty... That was our planet. You maniacs! You blew it up! Damn you! Damn you all to hell."
+18637,96,86,465000,STILLWATER,Hotel Banquet Room,"Thank you, I'm afraid that's all we have time for."
+18639,96,88,475000,STILLWATER,Nasa,"Now of course only one of you will be chosen to go into space, so the next few weeks will be a grueling series of tests to determine which one of you is most qualified."
+18640,96,89,486000,Dr. Babcock,Nasa,"Oh, and Mr. Gumbel - for the duration of the training, there'll be no more beer."
+18641,96,90,489000,Barney Gumble,Nasa,What? Three whole weeks with only wine? I'll go crazy?
+18644,96,91,492000,Homer Simpson,Nasa,And may the best man win. He's got a big drinking problem - could embarrass the program. Meet me up in that tree later and I'll tell you more.
+18646,96,93,500000,Bart Simpson,SIMPSONS' BASE KITCHEN,"Wow! My father, an astronaut! I feel so full of... what's the opposite of shame?"
+18647,96,94,507000,Marge Simpson,SIMPSONS' BASE KITCHEN,Pride?
+18648,96,95,509000,Bart Simpson,SIMPSONS' BASE KITCHEN,"No, not that far from shame."
+18649,96,96,511000,Homer Simpson,SIMPSONS' BASE KITCHEN,Less shame?
+18650,96,97,511000,Bart Simpson,SIMPSONS' BASE KITCHEN,Yeah.
+18651,96,98,513000,Marge Simpson,SIMPSONS' BASE KITCHEN,"You know, Homer, when I found out about this I went through a wide range of emotions. First I was nervous, then anxious, then wary, then apprehensive, then kinda sleepy, then worried, and then concerned. But now I realize that being a spaceman is something you have to do."
+18652,96,99,531000,Homer Simpson,SIMPSONS' BASE KITCHEN,Who's doin' what now?
+18654,96,101,535000,Homer Simpson,NASA Training Facility,"Well here I am, right on time. I don't see Barney ""Let's-crash-the-rocket-into-the-White-House-and-kill-the-President"" Gumbel."
+18655,96,102,541000,Dr. Babcock,NASA Training Facility,Actually he's been here since sunrise.
+18656,96,103,544000,Barney Gumble,NASA Training Facility,"Hi Homer, since they made me stop drinking, I've regained my balance and diction. Observe."
+18657,96,104,550000,Barney Gumble,NASA Training Facility,"I AM THE VERY MODEL OF A MODERN MAJOR GENERAL / I'VE INFORMATION VEGETABLE, ANIMAL, AND MINERAL."
+18658,96,105,556000,Homer Simpson,NASA Training Facility,"Aw, that's nothin'. Watch this. There once was a man from Nantucket"
+18659,96,106,559000,Homer Simpson,NASA Training Facility,I can't stands no more.
+18660,96,107,581000,Homer Simpson,NASA Training Facility,Mmmmm. Mediciney.
+18661,96,108,594000,Dr. Babcock,NASA Training Facility,I wager 400 quatloos on the newcomer.
+18663,96,110,600000,STILLWATER,Locker Room,"Gentlemen, I'd like you to meet the two experienced astronauts who will accompany the winner into space. Race Banyon and Buzz Aldrin, the second man on the moon."
+18664,96,111,609000,BUZZ,Locker Room,Second comes right after first.
+18665,96,112,616000,BUZZ,Locker Room,"So Barney, we hear you're kickin' ass."
+18666,96,113,618000,Homer Simpson,Locker Room,"Ahem... I uh... don't think this contest is over yet, Buzz. If that is your real name. I believe there Is still a little something called the swimsuit competition."
+18667,96,114,629000,STILLWATER,Locker Room,"There's no swimsuit competition, Homer."
+18668,96,115,633000,Homer Simpson,Locker Room,You mean I shaved my bikini zone for nothing?!
+18669,96,117,636000,STILLWATER,NASA Gym,"Gentlemen, you've both worked very hard, and in a way you're both winners. But in another more accurate way, Barney is the winner."
+18670,96,118,647000,Homer Simpson,NASA Gym,"Congratulations, Barney."
+18671,96,119,650000,STILLWATER,NASA Gym,"That's very gracious of you, Homer. Please join us in a toast."
+18672,96,120,654000,Dr. Babcock,NASA Gym,To the mission.
+18673,96,121,660000,Barney Gumble,NASA Gym,It begins.
+18674,96,122,660000,Barney Gumble,NASA Gym,"Gimme that! / Stop it, Barney no! / No! / Please! / For God sake! / Stop!"
+18675,96,123,675000,Barney Gumble,NASA Gym,Ta da da dum da do!
+18679,96,127,681000,Dr. Babcock,NASA Gym,I don't understand it. That was non-alcoholic champagne.
+18680,96,128,687000,STILLWATER,NASA Gym,"Well, Homer. I guess you're the winner by default."
+18681,96,129,692000,Homer Simpson,NASA Gym,Default? Woo hoo! The two sweetest words in the English language. De-fault! De-fault! De-
+18682,96,130,697000,STILLWATER,NASA Gym,"Where'd you get that, anyway?"
+18683,96,131,697000,Dr. Babcock,NASA Gym,Sent away.
+18687,96,135,713000,Announcer,Space,The preceding program contained scenes of extreme violence and should not have been viewed by young children.
+18690,96,138,749000,Homer Simpson,NASA Corridor,Nooooo!
+18693,96,141,779000,Homer Simpson,Gas Station,"Marge, I don't really want to go through with this... But being an astronaut is how I got you to respect me."
+18694,96,142,788000,Marge Simpson,Gas Station,"Homer, when I met you, you weren't an astronaut. You didn't even know how to use a Touchtone. But I still respected you, and I always will, no matter what."
+18695,96,143,797000,Marge Simpson,Gas Station,"Homer, you already dialed."
+18696,96,144,797000,Homer Simpson,Gas Station,Oh.
+18697,96,145,802000,Marge Simpson,Gas Station,"But on the other hand, when you don't take advantage of an opportunity, you can end up regretting it for the rest of your life."
+18705,96,146,808000,Homer Simpson,Gas Station,"You're right, Marge. Just like the time I could've met Mr. T at the mall. The entire day, I kept saying, I'll go a little later, I'll go a little later.' And then when I got there, they told me he just left. And when I asked the mall guy if he would ever come back again, he said he didn't know. Well, I'm never gonna let something like that happen again. I'm going into space, right now."
+18706,96,147,833000,Marge Simpson,Gas Station,"Oh, I am so proud of you. And I know it's going to go just fine..."
+18708,96,149,837000,Mission Control,Cape Canaveral,T-minus three minutes 'til lift off and counting.
+18710,96,151,842000,BUZZ,Spacecraft,"Mission control, this is Corvair, launch sequence initiated. All systems go."
+18711,96,152,846000,Homer Simpson,Spacecraft,Are we there yet? I'm thirsty.
+18712,96,153,846000,Race,Spacecraft,"Mission Control, request permission to sedate cargo ahead of schedule."
+18713,96,154,852000,Mission Control,Spacecraft,Permission denied.
+18714,96,155,852000,Race,Spacecraft,Payload checklist. IRS surveillance satellite.
+18715,96,156,855000,BUZZ,Spacecraft,Check!
+18716,96,157,857000,Race,Spacecraft,Ant farm.
+18717,96,158,857000,BUZZ,Spacecraft,Check!
+18718,96,159,859000,Race,Spacecraft,Children's letters to God.
+18719,96,160,859000,BUZZ,Spacecraft,Check!
+18721,96,162,862000,Mission Control,LAUNCH PAD,"Three, two, one, make rocket go now."
+18725,96,166,870000,Bart Simpson,SIMPSONS' BASE HOUSE LIVING ROOM,"Go, Dad! Go!"
+18726,96,167,870000,Lisa Simpson,SIMPSONS' BASE HOUSE LIVING ROOM,"How doth the hero, strong and brave, a celestial path in the heavens pave!"
+18727,96,168,884000,Lisa Simpson,SIMPSONS' BASE HOUSE LIVING ROOM,"Go, Dad, go."
+18729,96,170,886000,Dr. Babcock,NASA Mission Control,"Sir, the TV ratings for the launch are the highest in ten years."
+18731,96,172,890000,STILLWATER,NASA Mission Control,And how's the spacecraft doing?
+18732,96,173,890000,Dr. Babcock,NASA Mission Control,I don't know. All this equipment is just used to measure TV ratings.
+18734,96,175,897000,Homer Simpson,Space,It's beautiful. It's the most awe inspiring sight I have ever seen.
+18736,96,177,904000,Homer Simpson,Spaceship,"... giver of life, mother of us all."
+18737,96,178,908000,Homer Simpson,Spaceship,"Hey guys, look what I smuggled aboard."
+18738,96,179,910000,BUZZ,Spaceship,"Homer, no!"
+18563,96,180,913000,Race,Spaceship,They'll clog the instruments!
+18642,96,181,913000,BUZZ,Spaceship,"Careful, they're ruffled!"
+18643,96,182,916000,Homer Simpson,Spaceship,I'll take care of this.
+18698,96,183,918000,Homer Simpson,Spaceship,Ants!
+18700,96,185,918000,Ant #1,Spaceship,SUBTITLE: PROTECT THE QUEEN!
+18701,96,186,918000,Ant #2,Spaceship,SUBTITLE: WHICH ONE'S THE QUEEN?
+18702,96,187,951000,Ant #3,Spaceship,SUBTITLE: I'M THE QUEEN.
+18703,96,188,951000,Ant #4,Spaceship,SUBTITLE: NO YOU'RE NOT.
+18739,96,190,951000,BUZZ,Spaceship,"You fool, now we may never know if ants can be trained to sort tiny screws in space."
+18740,96,191,966000,Mission Control,Spaceship,"Some good news, gentlemen, we have quite a treat for ya. We've been able to coax superstar James Taylor in here at mission control to wish you well and play a little of his own brand of laid back adult contemporary music."
+18741,96,192,977000,Homer Simpson,Spaceship,Wow! Former president James Taylor.
+18742,96,193,980000,James Taylor,Spaceship,"How ya doin', fellas?"
+18743,96,194,980000,BUZZ,Spaceship,"With all due respect, Mr. Taylor, this isn't the best time for your unique brand of bittersweet folk rock. We have a potentially critical situation here. I'm sure you'll understand."
+18744,96,195,990000,James Taylor,Spaceship,"Listen, Aldrin, I'm not as laid back as people think. Now here's the deal: I'm gonna play and you're gonna float there and like it."
+18745,96,196,1000000,James Taylor,Spaceship,"WHEN YOU'RE DOWN AND TROUBLED AND YOU NEED A HELPING HAND.../ AND NOTHING, OH NOTHING IS GOING RIGHT..."
+18747,96,198,1018000,Kent Brockman,SIMPSONS' BASE HOUSING LIVING ROOM,"We're just about to get our first pictures from inside the spacecraft with ""Average-naut"" Homer Simpson. And we'd like to..."
+18748,96,199,1024000,Kent Brockman,SIMPSONS' BASE HOUSING LIVING ROOM,"Ladies and gentlemen, we've just lost the picture, but uh, what we've seen speaks for itself. The Corvair spacecraft has apparently been taken over, conquered, if you will, by a master race of giant space ants. It's difficult to tell from this vantage point whether they will consume the captive Earthmen or merely enslave them. One thing is for certain, there is no stopping them; the ants will soon be here. And I, for one, welcome our new insect overlords. I'd like to remind them that as a trusted TV personality, I can be helpful in rounding up others to toil in their underground sugar caves."
+18749,96,200,1066000,Marge Simpson,SIMPSONS' BASE HOUSING LIVING ROOM,"Don't worry, kids, I'm sure your father's all right."
+18750,96,201,1070000,Lisa Simpson,SIMPSONS' BASE HOUSING LIVING ROOM,"What are you basing that on, Mom?"
+18751,96,202,1073000,Marge Simpson,SIMPSONS' BASE HOUSING LIVING ROOM,Who wants ginger snaps?
+18753,96,204,1075000,James Taylor,Spacecraft,"HOURS OF TIME ON THE TELEPHONE LINE / TALKIN' 'BOUT THINGS TO COME. / SWEET DREAMS, AND FLYING MACHINES, IN PIECES ON THE GROUND... UM... SWEET DREAMS AND FLYING MACHINES FLYING SAFELY THROUGH THE AIR. / I'VE SEEN FIRE AND I'VE SEEN RAIN..."
+18754,96,205,1097000,Race,Spacecraft,Oh my God! The ants are shorting out our navigation system!
+18756,96,207,1104000,James Taylor,MISSION CONTROL,"Ants, huh? We had quite a severe ant problem at the Vineyard this year. I had Art Garfunkel come by with his compressor and we created a total vacuum outside the house and we blew the ants out the front door. But I'm sure you high-tech NASA people could care less about our resort town ways."
+18757,96,208,1122000,Dr. Babcock,MISSION CONTROL,"Quiet, you."
+18758,96,209,1122000,STILLWATER,MISSION CONTROL,"Wait a minute, this unkempt youngster just might be on to something."
+18760,96,211,1127000,Race,Spacecraft,"Okay, everybody grab on to something."
+18761,96,212,1129000,BUZZ,Spacecraft,"All right, here we go: three, two, one, make hatch blow...now!"
+18762,96,213,1133000,Homer Simpson,Spacecraft,And that is that.
+18763,96,214,1133000,Homer Simpson,Spacecraft,No!
+18765,96,216,1140000,STILLWATER,NASA Mission Control,Oh my God! This is a disaster.
+18766,96,217,1140000,James Taylor,NASA Mission Control,Gotta go!
+18768,96,219,1153000,BUZZ,Spacecraft,"Homer, you broke the handle."
+18769,96,220,1158000,Race,Spacecraft,"With that hatch open, we'll burn up on reentry. That's it! If I go, I'm taking you to hell with me."
+18770,96,221,1164000,Homer Simpson,Spacecraft,Wait a minute Race! Wait a minute. Wait!...Ah-ha! Now I'll bust that pretty face of yours.
+18771,96,222,1170000,Homer Simpson,Spacecraft,Stupid bar.
+18772,96,223,1174000,BUZZ,Spacecraft,"Wait, Homer. If that bar holds, we just might make it back to earth."
+18773,96,224,1179000,Homer Simpson,Spacecraft,I'll bash you good.
+18774,96,225,1182000,Kent Brockman,Spacecraft,"Well, this reporter was possibly a little hasty earlier and would like to reaffirm his allegiance to this country and its human president. It may not be perfect, but it's still the best government we have. For now. Hmm? Oh, yeAH..."
+18775,96,226,1202000,Kent Brockman,Spacecraft,"By the way, the spacecraft is still in extreme danger. May not make it back. Attempting risky reentry... Blah blah blah blah blah. We'll see you after the movie."
+18778,96,229,1213000,Homer Simpson,Spacecraft,"OH, THOSE GOLDEN GRAHAMS/ OH, THOSE GOLDEN GRAHAMS/ CRISPY CRUNCHY GRAHAM CEREAL BRAND NEW BREAKFAST TREAT."
+18780,96,231,1228000,Lisa Simpson,Simpson Home,"Come on, Dad, you can make it."
+18781,96,232,1232000,Grampa Simpson,Simpson Home,Of course he'll make it. It's TV.
+18785,96,236,1242000,Reporter,Spacecraft,How'd you solve the door dilemma?
+18786,96,237,1246000,BUZZ,Spacecraft,Homer Simpson was the real hero here. He jury-rigged the door closed using this.
+18787,96,238,1250000,Reporter,Spacecraft,"Hey, what is that?"
+18788,96,239,1250000,RERPORTER #4,Spacecraft,It's an inanimate carbon rod.
+18789,96,240,1252000,Bart Simpson,Spacecraft,"Aww, they were just about to show some close-ups of the rod."
+18790,96,241,1266000,Homer Simpson,Spacecraft,Stupid rod. I got gypped.
+18791,96,242,1266000,Marge Simpson,Spacecraft,"Homie, you should be proud. Only a handful of people have done what you've done."
+18792,96,243,1273000,Lisa Simpson,Spacecraft,"Yeah, Dad. How many people have seen the ice caps and the deserts all at once, or the majesty of the northern lights from one hundred miles above?"
+18793,96,244,1281000,Homer Simpson,Spacecraft,"Yeah, maybe I do have the right... what's that stuff? Anyway, thanks, Marge, Lisa."
+18794,96,245,1288000,Marge Simpson,Spacecraft,"Bart, do you have something nice to say to your father?"
+18795,96,246,1291000,Bart Simpson,Spacecraft,"Eh, he knows how I feel."

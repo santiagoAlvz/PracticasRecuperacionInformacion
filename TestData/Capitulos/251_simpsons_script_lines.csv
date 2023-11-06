@@ -1,0 +1,270 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+62031,251,1,85000,Homer Simpson,Simpson Home,This watermelon won't know what hit it.
+62032,251,2,87000,Bart Simpson,Simpson Home,"I love our Tuesdays together, Dad."
+62033,251,3,96000,Marge Simpson,Simpson Home,Don't you two have a list of chores to do?
+62034,251,4,98000,Bart Simpson,Simpson Home,"Hey, we just took care of that dangerous melon that was threatening our garden."
+62035,251,5,102000,Homer Simpson,Simpson Home,"Yeah, we're heroes... But where's our parade?"
+62037,251,7,106000,Homer Simpson,Simpson Home,"All right. ""Open stuck drawer..."" All-righty."
+62038,251,8,113000,Homer Simpson,Simpson Home,"Eh, it's hopeless."
+62039,251,9,114000,Bart Simpson,Simpson Home,Or is it?
+62040,251,10,115000,Homer Simpson,Simpson Home,"Yeah, it's hopeless."
+62041,251,11,116000,Bart Simpson,Simpson Home,"I said, or is it?"
+62042,251,12,116000,Homer Simpson,Simpson Home,"I said, it's... Ohhh..."
+62043,251,13,123000,Marge Simpson,Simpson Home,"Homer, what are you doing?!"
+62044,251,14,125000,Homer Simpson,Simpson Home,"Listen, do you want the job done right or do you want it done fast?"
+62045,251,15,129000,Marge Simpson,Simpson Home,"Well, like all Americans, fast."
+62046,251,16,131000,Bart Simpson,Simpson Home,Clear!
+62047,251,17,137000,Marge Simpson,Simpson Home,"Well, you can't argue with results..."
+62049,251,19,141000,Bart Simpson,Backyard,"Ooo, baby."
+62050,251,20,148000,Homer Simpson,Backyard,"Oh, don't worry. You'll be sleeping in this beautiful new doghouse. Target date: January, 2007."
+62053,251,23,159000,Homer Simpson,Simpson Home,"And now, the grand finale... ""Get Lisa's jammed tape out of VCR."""
+62054,251,24,161000,Homer Simpson,Simpson Home,"Oop, wait a minute..."
+62055,251,25,166000,Homer Simpson,Simpson Home,There.
+62056,251,26,168000,Homer Simpson,Simpson Home,Fire in the hole!
+62057,251,27,173000,Homer Simpson,Simpson Home,Hmm. It's gonna take a lot of fireworks to clean this place up.
+62058,251,28,176000,Lisa Simpson,Simpson Home,What's going on here?
+62059,251,29,178000,Homer Simpson,Simpson Home,"Uh, honey, there's a point in every father's life when he blows up his daughter's room."
+62060,251,30,184000,Lisa Simpson,Simpson Home,"Oh, yeah? You didn't blow up Maggie's room."
+62061,251,31,188000,Homer Simpson,Simpson Home,"Oh Lisa, this must be a rough time for you. Do you have any friends or family you can stay with?"
+62062,251,32,194000,Lisa Simpson,Simpson Home,You've ruined all my stuff.
+62063,251,33,196000,Homer Simpson,Simpson Home,"Oh, come on. Tell us how we can make it up to you. Hey, pretend it's your birthday."
+62064,251,34,200000,Lisa Simpson,Simpson Home,It is my birthday.
+62065,251,35,202000,Bart Simpson,Simpson Home,"That's the spirit. Now, what do you want to do?"
+62066,251,36,204000,Lisa Simpson,Simpson Home,"Well, the Book Festival starts today..."
+62067,251,37,206000,Homer Simpson,Simpson Home,Anything at all. You name it. What do you want to do?
+62069,251,39,210000,Homer Simpson,Springfield Festival of Books,Stupid Lisa.
+62070,251,40,215000,Milhouse Van Houten,Springfield Festival of Books,"Hear ye, hear ye! One dollar off on all poetry books!"
+62071,251,41,223000,Milhouse Van Houten,Springfield Festival of Books,Their hands were everywhere.
+62072,251,42,225000,Rev. Timothy Lovejoy,Springfield Festival of Books,"Hello, Simpsons. Care to try a sample from my new cookbook... ""Someone's in the Kitchen with Jesus""?"
+62073,251,43,233000,Marge Simpson,Springfield Festival of Books,"Mmmm, these StigMuffins are to die for!"
+62075,251,44,237000,Rev. Timothy Lovejoy,Springfield Festival of Books,"Ooh, if you like that, you should try Mary Magdalene's Chocolate Orgasm."
+62076,251,45,241000,Marge Simpson,Springfield Festival of Books,Mmmm.
+62077,251,46,241000,Homer Simpson,Springfield Festival of Books,okay.
+62079,251,48,247000,Marge Simpson,STEPHEN KING'S BOOTH,"So, Mr. King, what tale of horror and the macabre are you working on now?"
+62080,251,49,252000,Stephen King,STEPHEN KING'S BOOTH,"Oh, I don't feel like writing horror right now."
+62081,251,50,254000,Marge Simpson,STEPHEN KING'S BOOTH,"Oh, that's too bad."
+62082,251,51,256000,Stephen King,STEPHEN KING'S BOOTH,I'm working on a biography of Benjamin Franklin. He's a fascinating man. He discovered electricity and used it to torture small animals and Green Mountain men... and that key he tied to the end of a kite? It opened the gates of Hell!
+62083,251,52,271000,Marge Simpson,STEPHEN KING'S BOOTH,"Well, let me know when you get back to horror."
+62084,251,53,273000,Stephen King,STEPHEN KING'S BOOTH,Will do.
+62086,251,55,277000,Professor Jonathan Frink,PROF. FRINK'S BOOTH,"With my ""Info-Cram 6000"", you can absorb books instantly by attaching this electrode to the brainpan and this one to the... loins."
+62087,251,56,289000,Professor Jonathan Frink,PROF. FRINK'S BOOTH,Tolstoy... searing... brain... Isaac...
+62089,251,58,292000,Dr. Nick Riviera,Dr. Nick Riviera's Booth,"With my diet, you can eat all you want, any time you want."
+62090,251,59,296000,Marge Simpson,Dr. Nick Riviera's Booth,And you'll lose weight?
+62091,251,60,298000,Dr. Nick Riviera,Dr. Nick Riviera's Booth,You might! It's a free country!
+62093,251,62,304000,Bart Simpson,"""BOOKS FOR DUMMIES"" SECTION","Finally, books for today's busy idiot. ""Network Programming for Dummies""... ""Christianity for Dummies""... ""Mo""-- ""Moby Dick?""... ""Call me Ishmael, Dummy."""
+62094,251,63,311000,Bart Simpson,"""BOOKS FOR DUMMIES"" SECTION",How did you write all these books?
+62095,251,64,316000,"""For Dummies"" Author","""BOOKS FOR DUMMIES"" SECTION","Duh, I dunno. Me gotta go to bank now."
+62097,251,66,320000,Marge Simpson,CHILDREN'S STAGE,"Look, Maggie. Christopher Walken's reading ""Goodnight Moon!"""
+62098,251,67,324000,Christopher Walken,CHILDREN'S STAGE,...Goodnight room... Goodnight moon... Goodnight cow jumping over the moon...
+62099,251,68,328000,Christopher Walken,CHILDREN'S STAGE,"Please, children, scooch closer. Don't make me tell you again about the scooching. You in the red, chop, chop."
+62101,251,70,348000,Bart Simpson,PANEL DISCUSSION TENT,Eh.
+62103,251,71,349000,Kent Brockman,PANEL DISCUSSION TENT,"All right, does anyone have a question for our panel that's not about how much money they make?"
+62104,251,72,353000,Lenny Leonard,PANEL DISCUSSION TENT,"Uh, yeah, I'm a techno-thriller junkie, and I'd like to know: is the B-2 bomber more detectable when it rains?"
+62105,251,73,359000,Kent Brockman,PANEL DISCUSSION TENT,"Ho, ho, what do you think, Tom Clancy?"
+62106,251,74,361000,Tom Clancy,PANEL DISCUSSION TENT,"Well, the B-2..."
+62107,251,75,362000,Lenny Leonard,PANEL DISCUSSION TENT,"No, no, no. I was asking Maya Angelou."
+62108,251,76,365000,Maya Angelou,PANEL DISCUSSION TENT,The ebony fighter awakens / Dappled with the dewy beads of morn.
+62109,251,77,369000,Moe Szyslak,PANEL DISCUSSION TENT,Maya Angelou is black?!
+62110,251,78,371000,Maya Angelou,PANEL DISCUSSION TENT,"It is a Mach 5 child, forever bound to suckle / From the shriveled breast of Congress."
+62111,251,79,377000,Lenny Leonard,PANEL DISCUSSION TENT,"Oh, Maya, you're a national treasure!"
+62112,251,80,382000,Lisa Simpson,PANEL DISCUSSION TENT,"Ms. Tan, I loved ""The Joy Luck Club"". It really showed me how the mother-daughter bond can triumph over adversity."
+62113,251,81,388000,Amy Tan,PANEL DISCUSSION TENT,No. That's not what I meant at all. You couldn't have gotten it more wrong.
+62114,251,82,391000,Lisa Simpson,PANEL DISCUSSION TENT,But...
+62115,251,83,392000,Amy Tan,PANEL DISCUSSION TENT,"Please, just sit down. I'm embarrassed for both of us."
+62117,251,85,406000,Krusty the Clown,Krusty's Booth,"Book writing, what a scam, huh! It's only twenty pages long, and this guy wrote it for me!"
+62118,251,86,411000,Krusty the Clown,Krusty's Booth,What's your name again?
+62119,251,87,413000,AUTHOR,Krusty's Booth,John Updike.
+62120,251,88,414000,Krusty the Clown,Krusty's Booth,"Whoa, whoa. I didn't ask for your life story."
+62121,251,89,416000,Girl,Krusty's Booth,"So, you really know Krusty? What's he like?"
+62122,251,90,420000,Bart Simpson,Krusty's Booth,"Oh, he's wonderful. He would do anything for his fans."
+62123,251,91,423000,Krusty the Clown,Krusty's Booth,"Hurry up, kid!"
+62124,251,92,426000,Krusty the Clown,Krusty's Booth,Name.
+62125,251,93,427000,Bart Simpson,Krusty's Booth,"Hey, it's me, Bart. Your biggest fan?"
+62126,251,94,431000,Krusty the Clown,Krusty's Booth,"Hey, good for you, 'cause I wanna..."
+62127,251,95,433000,Bart Simpson,Krusty's Booth,"""K. the C.""?"
+62128,251,96,438000,Krusty the Clown,Krusty's Booth,"Hey, this pen's gotta last me all day. Now, if you could, up bup bup bup bup bup bup... ...Yeah."
+62129,251,97,443000,Krusty the Clown,Krusty's Booth,Name.
+62130,251,98,444000,Girl,Krusty's Booth,My name is Sophie.
+62131,251,99,445000,Krusty the Clown,Krusty's Booth,"Hey, good luck with that."
+62132,251,100,447000,Sophie,Krusty's Booth,I'm your daughter!
+62133,251,101,448000,Krusty the Clown,Krusty's Booth,Whaaa?!
+62074,251,102,449000,Sophie,Krusty's Booth,I finally found my daddy.
+62102,251,103,452000,Krusty the Clown,Krusty's Booth,I think I just seltzered myself.
+62135,251,104,456000,Krusty the Clown,Krusty's Booth,"Shut up, Updike."
+62137,251,106,461000,Krusty the Clown,CITY PARK,"Listen, honey, a lot of kids think of me as their daddy. But I'm just a simple TV legend. Here, have a keychain."
+62138,251,107,469000,Sophie,CITY PARK,"No, I'm sure you're my father. You met my mom during the Gulf War."
+62139,251,108,473000,Krusty the Clown,CITY PARK,"Uh, was your mother an Israeli flight attendant?"
+62140,251,109,476000,Sophie,CITY PARK,No.
+62141,251,110,477000,Krusty the Clown,CITY PARK,Cokie Roberts?
+62142,251,111,478000,Sophie,CITY PARK,"No, she was a soldier. Chestnut brown hair, kind of shy, thirty-two confirmed kills..."
+62143,251,112,483000,Krusty the Clown,CITY PARK,"Oh, boy. Now it's comin' back to me."
+62144,251,113,491000,Krusty the Clown,CITY PARK,Saddam Hussein? They should call him So-damn Insane!
+62145,251,114,493000,Soldier #1,CITY PARK,Hey! You're just fanning the flames of hatred!
+62146,251,115,498000,Krusty the Clown,CITY PARK,"Yeah, yeah. Heh, heh, heh... Now, just when you thought the desert couldn't get any hotter: It's the Cincinnati Bengal cheerleaders!"
+62147,251,116,507000,Soldier #2,CITY PARK,"Hey, I can't look at that! I have a girlfriend back home!"
+62148,251,117,510000,Soldier #3,CITY PARK,This is an insult to our Muslim hosts!
+62149,251,118,512000,Krusty the Clown,CITY PARK,"During the show, a desert wind kicked up."
+62151,251,120,519000,Krusty the Clown,Desert,I sought shelter in a nearby tent.
+62153,251,122,524000,Krusty the Clown,Tent,"There was your mother, looking like a beautiful mirage."
+62154,251,123,528000,Krusty the Clown,Tent,"Maybe it was the anthrax in the air. Maybe it was the fact the Arab women weren't bitin'. Whatever it was, it was magic..."
+62155,251,124,542000,Krusty the Clown,Tent,We slept late into the morning. And then...
+62156,251,125,545000,FEMALE SOLDIER,Tent,My God! I'm late for my mission!
+62157,251,126,547000,Krusty the Clown,Tent,Here's your mission: get down with the clown!
+62158,251,127,552000,FEMALE SOLDIER,Tent,"No, not now! I'm supposed to assassinate Saddam!"
+62159,251,128,555000,Krusty the Clown,Tent,Wait a minute! You can't kill Saddam! He's half my act!
+62161,251,130,567000,Krusty the Clown,SAND DUNE,Stop!
+62163,251,132,579000,Krusty the Clown,SAND DUNE,"I just saved my baseball bit. ""Who's Sayin's"" on first, ""Iya Tol'ya's"" on second and..."
+62164,251,133,586000,FEMALE SOLDIER,SAND DUNE,You - stupid - clown!
+62165,251,134,589000,Krusty the Clown,SAND DUNE,"When I came to, she was gone and the war had been over for eight months. Anyway, how'd you finally find me?"
+62166,251,135,596000,Sophie,SAND DUNE,"All Mom ever said was my father was some pathetic clown. So I typed ""pathetic clown"" into a search engine, and your name popped right up."
+62167,251,136,604000,Sophie,SAND DUNE,It's Mom.
+62168,251,137,605000,Krusty the Clown,SAND DUNE,"Hey, how ya been? Remember me?"
+62169,251,138,609000,Krusty the Clown,SAND DUNE,You'd better get going. It was nice meeting ya. Thanks for coming out.
+62170,251,139,613000,Sophie,SAND DUNE,"But I was hoping, maybe we could do some stuff together, like go to the beach and junk."
+62171,251,140,619000,Krusty the Clown,SAND DUNE,"Look, you're a sweet kid, but I'm not exactly father material. I curse, I gamble, I pick fights with homeless people... I..."
+62172,251,141,623000,Krusty the Clown,SAND DUNE,What's wrong with your eyes? You need a Claritin or something?
+62173,251,142,631000,Krusty the Clown,SAND DUNE,All right. You get one trip to the beach... with my assistant.
+62174,251,143,638000,Krusty the Clown,SAND DUNE,"Okay, I'll take you."
+62175,251,144,639000,Sophie,SAND DUNE,Yay!
+62177,251,146,642000,Homer Simpson,Simpson Home,"Dear Lord, bless this humble meal, and did you hear about Krusty? Whoa, man! I mean, I knew he was a player, but geez, a kid?"
+62178,251,147,651000,Marge Simpson,Simpson Home,"Homer, that's not a prayer, that's gossip."
+62179,251,148,653000,Homer Simpson,Simpson Home,"Fine, I'll just discuss heavenly matters. So, how's Maude Flanders doin' up there? She playin' the field? Ooh... yeah, really? All those guys? Amen."
+62181,251,150,677000,Krusty the Clown,Beach,"Okay, kid. There's the water, knock yourself out."
+62182,251,151,679000,Sophie,Beach,"C'mon, Dad. Let's go body surfing. Or boogie boarding."
+62183,251,152,683000,Krusty the Clown,Beach,"Listen, kid. I'm not the kind of dad who you know, does things, or says stuff, or looks at you. But the love is there."
+62184,251,153,690000,Krusty the Clown,Beach,Where are you? Give Daddy a clue...
+62185,251,154,693000,Krusty the Clown,Beach,"Oh, that's my girl."
+62186,251,155,695000,Sophie,Beach,"Okay, you just sit there and I'll throw the Frisbee to you."
+62187,251,156,700000,Krusty the Clown,Beach,"I gotta sit up now? What am I, Baryshnikov?"
+62188,251,157,707000,Krusty the Clown,Beach,"Hey, you beat me. What a great day we've had, huh?"
+62189,251,158,711000,Sophie,Beach,"You know, for a clown, you're not really a lot of fun."
+62190,251,159,718000,Krusty the Clown,Beach,"Boy, fatherhood is one tough gig. I don't get how other guys do it."
+62191,251,160,724000,Apu Nahasapeemapetilon,Beach,"Ready, switch!"
+62192,251,161,728000,Ned Flanders,Beach,"Hey, uh, careful, boys. That arch is lookin' a little Romanesque."
+62193,251,162,731000,Rod Flanders,Beach,"Sorry, Daddy. How should I punish myself?"
+62194,251,163,734000,Kearney Zzyzwicz,Beach,"No, son. You let 'em finish, then you smash it."
+62195,251,164,738000,Kearney Zzyzwicz,Beach,That's a good boy.
+62196,251,165,739000,Bart Simpson,Beach,"Mush, Homer, mush!"
+62197,251,166,740000,Lisa Simpson,Beach,"Catch, Dad, catch!"
+62198,251,167,743000,Homer Simpson,Beach,"Okay, that stings Daddy's eyes, honey."
+62199,251,168,746000,Krusty the Clown,Beach,"Mm, I think I've found my mentor."
+62200,251,169,751000,Krusty the Clown,Beach,"You know, Homer, I've spent my whole life entertaining kids, and I just realized I don't know the first thing about 'em."
+62201,251,170,758000,Homer Simpson,Beach,"Well, I won't lie. Fatherhood isn't easy like motherhood. But I wouldn't trade it for anything. Except for some mag wheels. Oh, man, that would be sweet."
+62202,251,171,769000,Lisa Simpson,Beach,Dad! Dad!
+62203,251,172,770000,Homer Simpson,Beach,"Just a second, honey. Daddy's on his high horse."
+62204,251,173,773000,Lisa Simpson,Beach,Daaaad!
+62205,251,174,775000,Homer Simpson,Beach,"Yeah, I'm watching, honey. Nice cannonball. Anyhoo, the key to fathering is don't over-think. 'Cause over-thinking is... What were we talking about? Ooh, a clown."
+62206,251,175,791000,Krusty the Clown,Beach,"Kid, I gotta admit, you're startin' to grow on me."
+62207,251,176,820000,Sophie,Beach,"Same here, Dad. It's nice that you don't always have to be ""on."""
+62208,251,177,824000,Krusty the Clown,Beach,"I thought I was on. When was I off? That bit about the tide pool? I tell ya, it killed at Jacque Cousteau's funeral.."
+62209,251,178,831000,Sophie,Beach,"Dad, relax. Just enjoy the sunset."
+62210,251,179,837000,Krusty the Clown,Beach,"Hey, I know that song. My dad used to play that when I was a boy. It's beautiful."
+62211,251,180,845000,Sophie,Beach,Do you play?
+62212,251,181,846000,Krusty the Clown,Beach,"Nah. I guess musical talent skips a generation... like diabetes. You might want to watch out for that, too."
+62214,251,183,852000,Sophie,Apartment Building,"Mom, I had the best time. Can Dad come in for milk and cookies?"
+62215,251,184,857000,Krusty the Clown,Apartment Building,Why I'd love to...
+62216,251,185,857000,Krusty the Clown,Apartment Building,Hasta la mocha... That's okay. I think I'll go somewhere friendlier. Like beautiful downtown Grozny.
+62217,251,186,872000,Krusty the Clown,Apartment Building,Zoom!
+62219,251,188,875000,Krusty the Clown,Back Room of Moe's,"My little girl's sharp as a tack. I tried the ""got your nose"" bit on her -- didn't fool her for a second."
+62220,251,189,882000,Homer Simpson,Back Room of Moe's,My uncle still has my nose.
+62222,251,191,889000,Krusty the Clown,Back Room of Moe's,"Oh, what a lousy hand. I'll stand."
+62223,251,192,892000,Fat Tony,Back Room of Moe's,I raise two G's.
+62224,251,193,894000,Moe Szyslak,Back Room of Moe's,I'm out.
+62225,251,194,895000,Snake Jailbird,Back Room of Moe's,Fold-o-rama.
+62226,251,195,896000,Homer Simpson,Back Room of Moe's,Can we make this hand high-low?
+62227,251,196,898000,Fat Tony,Back Room of Moe's,No.
+62228,251,197,899000,Homer Simpson,Back Room of Moe's,I fold.
+62229,251,198,901000,Fat Tony,Back Room of Moe's,"Krusty, are you in or are you out?"
+62230,251,199,902000,Krusty the Clown,Back Room of Moe's,"Oh man, I'm totally tapped. Would you consider taking my Rolex?"
+62231,251,200,906000,Fat Tony,Back Room of Moe's,You mean this one?
+62232,251,201,908000,Krusty the Clown,Back Room of Moe's,"Oh yeah, right. Just let me go to my car."
+62233,251,202,913000,Homer Simpson,Back Room of Moe's,"A WEEMA-WAY, A WEEMA-WAY, A WEEMA-WAY, A WEEMA-WAY, A-WEEM..."
+62234,251,203,917000,Fat Tony,Back Room of Moe's,Don't do that.
+62236,251,205,920000,Krusty the Clown,Krusty's Car,"Let's see, sweater... custom floor mat... the stereo!"
+62237,251,206,927000,Stereo Voice,Krusty's Car,Theft alert. Deploy airbag.
+62238,251,207,932000,Krusty the Clown,Krusty's Car,"Best hand of my life, and I can't even... Huh?"
+62239,251,208,935000,Krusty the Clown,Krusty's Car,Sophie's violin!
+62240,251,209,935000,Krusty the Clown,Krusty's Car,"Oh no, I couldn't..."
+62241,251,210,938000,Ace of Hearts,Krusty's Car,DO IT...
+62242,251,211,938000,Ace of Clubs,Krusty's Car,DO IT...
+62243,251,212,938000,Ace of Diamonds,Krusty's Car,DO IT...
+62244,251,213,938000,Ace of Spades,Krusty's Car,DO IT...
+62245,251,214,944000,ALL FOUR ACES,Krusty's Car,SHE'LL NEVER KNOW...
+62247,251,216,954000,MAN WITH JEWELER'S LOUPE,Back Room of Moe's,"Well, it won't bring much cash, but its sentimental value is through the roof."
+62248,251,217,960000,Fat Tony,Back Room of Moe's,It is acceptable.
+62249,251,218,961000,Krusty the Clown,Back Room of Moe's,"Then I'm in, and I call!"
+62250,251,219,964000,Krusty the Clown,Back Room of Moe's,Four aces. Read 'em and we...
+62251,251,220,967000,Fat Tony,Back Room of Moe's,Straight flush.
+62252,251,221,970000,Krusty the Clown,Back Room of Moe's,"Oh, no, no. You can't! My daughter will never forgive me!"
+62253,251,222,979000,Fat Tony,Back Room of Moe's,"Oh, wait. Now I can do it for real."
+62256,251,225,1000000,Sophie,SOPHIE'S LOFT,"Hey, hey, Dad!"
+62257,251,226,1008000,Krusty the Clown,SOPHIE'S LOFT,"Hey-hey! Now, look, Sophie. I know you think your daddy's perfect..."
+62258,251,227,1013000,Sophie,SOPHIE'S LOFT,No I don't.
+62260,251,228,1014000,Krusty the Clown,SOPHIE'S LOFT,...but I did a bad thing. I lost your violin in a poker game.
+62261,251,229,1017000,Sophie,SOPHIE'S LOFT,You what?
+62262,251,230,1018000,Krusty the Clown,SOPHIE'S LOFT,But don't worry. I got you an even better one!
+62263,251,231,1021000,Sophie,SOPHIE'S LOFT,This is a ukulele!
+62264,251,232,1023000,Krusty the Clown,SOPHIE'S LOFT,"Yeah, the thinking man's violin. Check it out!"
+62265,251,233,1026000,Krusty the Clown,SOPHIE'S LOFT,"I WANNA GO BACK / TO MY LITTLE GRASS SHACK / IN KAY-A-LA-KE-KUA, HAWAII!"
+62266,251,234,1030000,Sophie,SOPHIE'S LOFT,I want my violin.
+62267,251,235,1031000,Krusty the Clown,SOPHIE'S LOFT,"But honey, I..."
+62268,251,236,1034000,Sophie,SOPHIE'S LOFT,I can't believe you would gamble with something that meant so much to me.
+62269,251,237,1038000,Krusty the Clown,SOPHIE'S LOFT,"Wait, time out. Four aces is not a gamble."
+62270,251,238,1043000,Sophie,SOPHIE'S LOFT,Mom was right. I was better off not knowing you.
+62272,251,240,1051000,Female Teen #1,Simpson Home,Word on the street is you dumped Dawson.
+62273,251,241,1053000,Female Teen #2,Simpson Home,"He's history, Jenda. Wait'll he sees me with that new exchange student."
+62274,251,242,1057000,Bumblebee Man,Simpson Home,"Hola, Harmony. Que es el dilly-yo?"
+62275,251,243,1060000,Lisa Simpson,Simpson Home,"I'm all for ethnic diversity, but this is just pandering."
+62276,251,244,1063000,Homer Simpson,Simpson Home,"Maybe so, but Dawson's gonna be bummed."
+62277,251,245,1066000,Krusty the Clown,Simpson Home,You gotta help me! My daughter found out I'm a jerk!
+62278,251,246,1070000,Marge Simpson,Simpson Home,"Oh, Krusty. I'm sure she just needs time to get used to you."
+62279,251,247,1073000,Homer Simpson,Simpson Home,"Marge, may I play devil's advocate for a moment?"
+62280,251,248,1076000,Marge Simpson,Simpson Home,"Sure, go ahead."
+62282,251,250,1078000,Homer Simpson,Kwik-E-Mart,C'mon! Get in there!
+62283,251,251,1081000,Homer Simpson,Kwik-E-Mart,"Stupid game! Now, what were we talking about?"
+62284,251,252,1084000,Krusty the Clown,Kwik-E-Mart,My daughter's violin!
+62285,251,253,1084000,Homer Simpson,Kwik-E-Mart,"Oh, right. Why don't we just break into Fat Tony's compound and get it back?"
+62286,251,254,1090000,Krusty the Clown,Kwik-E-Mart,Really? You'd help me take on the mob?
+62287,251,255,1093000,Homer Simpson,Kwik-E-Mart,For a casual acquaintance like you? Absolutely.
+62289,251,257,1109000,Krusty the Clown,Fat Tony's Compound,"It's some kinda mafia summit! Every mob family in the country's here: the Cuomos, the Travoltas, the Lasordas, the Boy-ar-dees..."
+62290,251,258,1119000,Homer Simpson,Fat Tony's Compound,"This is perfect! If I know Fat Tony, which I don't, he'll be distracted by his hosting duties. Come on."
+62134,251,259,1131000,Homer Simpson,Fat Tony's Compound,Idiots.
+62291,251,260,1137000,Louie,Fat Tony's Compound,"Hey, I heard there's a lunar eclipse tonight. Maybe we should look up."
+62292,251,261,1142000,Legs,Fat Tony's Compound,"Nah, for me it's solar or nothin'."
+62293,251,262,1142000,Fat Tony,Fat Tony's Compound,"Welcome to my home. To answer your first question... yes, we do have pasta."
+62294,251,263,1154000,Mobsters,Fat Tony's Compound,"Hey, all right. / I like pasta. / That's good."
+62295,251,264,1157000,Fat Tony,Fat Tony's Compound,"If you need money laundered, just set it outside your door. You can pick it up in the morning."
+62296,251,265,1161000,Mobsters,Fat Tony's Compound,"Whoa, hey. / Good. /"
+62297,251,266,1163000,Fat Tony,Fat Tony's Compound,"Now, some unpleasant news. I have learned that someone in this room is a squealer."
+62298,251,267,1170000,Louie,Fat Tony's Compound,We've narrowed it down to either Johnny Tightlips or Frankie the Squealer.
+62299,251,268,1174000,Squealer,Fat Tony's Compound,"Okay, it's me... I can't help it. I just like squealin'. It makes me feel big!"
+62300,251,269,1179000,Louie,Fat Tony's Compound,"All right. / Come on, you're history."
+62302,251,271,1184000,Homer Simpson,Hallway,That violin's gotta be around here somewhere.
+62303,251,272,1189000,Louie,Hallway,"Had enough, Squealer?"
+62304,251,273,1191000,Squealer,Hallway,Did you know Fat Tony's real name is Marion?
+62305,251,274,1193000,Louie,Hallway,"You just don't get it, do ya?"
+62307,251,276,1200000,Krusty the Clown,Fat Tony's Bedroom,Bingo!
+62309,251,278,1206000,Krusty the Clown,Fat Tony's Bedroom,It's gonna take forever to go through all these!
+62310,251,279,1209000,Homer Simpson,Fat Tony's Bedroom,I have a plan.
+62312,251,281,1213000,Homer Simpson,FAT TONY'S HOUSE,"Well, that didn't work."
+62313,251,282,1214000,Louie,FAT TONY'S HOUSE,"Hey Legs, let's go jump on Tony's bed."
+62315,251,284,1218000,Krusty the Clown,FAT TONY'S HOUSE,We gotta get outta here. Just take 'em all!
+62317,251,286,1220000,Fat Tony,Meeting Room,Then it's decided. Our website name will be crime dot org.
+62318,251,287,1224000,Homer Simpson,Meeting Room,I think we're in the clear.
+62320,251,289,1237000,Krusty the Clown,Meeting Room,"Homer, I've got it!"
+62321,251,290,1239000,Louie,Meeting Room,"Johnny Tightlips, where'd they hit ya?"
+62322,251,291,1240000,Johnny Tightlips,Meeting Room,I ain't sayin' nuthin'.
+62323,251,292,1242000,Louie,Meeting Room,But what do I tell the doctor?
+62324,251,293,1243000,Johnny Tightlips,Meeting Room,Tell him to suck a lemon.
+62327,251,296,1251000,Krusty the Clown,SOPHIE'S LOFT,Hey!
+62328,251,298,1254000,Sophie,SOPHIE'S BUILDING,You did it! You got it back!
+62329,251,299,1257000,Sophie,SOPHIE'S BUILDING,"Thanks, Dad."
+62330,251,300,1259000,Krusty the Clown,SOPHIE'S BUILDING,"""Dad."" That still sounds weird to me. But I'm glad we're friends again."
+62331,251,301,1265000,Sophie,SOPHIE'S BUILDING,"And you've lined the case with money! Small bills, unmarked and non-sequential."
+62332,251,302,1271000,Krusty the Clown,SOPHIE'S BUILDING,"Holy simoleons, there must be five grand in there! Oh, which I intentionally put in for you, you lucky little homantashen..."
+62333,251,303,1282000,Krusty the Clown,SOPHIE'S BUILDING,"Come on, how about a tune for the old man?"
+62334,251,304,1289000,Squealer,SOPHIE'S BUILDING,That's him! That's the one! Homer Simpson!
+62335,251,305,1292000,Homer Simpson,SOPHIE'S BUILDING,I said I was sorry.
+62336,251,306,1294000,Mobsters,SOPHIE'S BUILDING,"Oh, all right. / Fair enough. / He's a class act."
+62337,251,307,1297000,Homer Simpson,SOPHIE'S BUILDING,"Sorry you're such jerks! Ha, ha!"
+62338,251,308,1304000,Homer Simpson,SOPHIE'S BUILDING,Ow! That Bullet went in.

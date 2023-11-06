@@ -1,0 +1,205 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+67634,269,1,91000,Marge Simpson,Airport,I can't believe it. We won another contest!
+67635,269,2,94000,Homer Simpson,Airport,The Simpsons are going to Delaware!
+67636,269,3,97000,Lisa Simpson,Airport,I wanna see Wilmington!
+67637,269,4,99000,Bart Simpson,Airport,I wanna visit a screen door factory!
+67638,269,5,101000,Marge Simpson,Airport,"Yup, Delaware's got it all."
+67639,269,6,104000,Airline Rep,Airport,"You're next, Mr. Simpson."
+67640,269,7,107000,Homer Simpson,Airport,"Hey, wait a minute. ""Airport tax, five dollars?"""
+67641,269,8,111000,Airline Rep,Airport,"Sir, it's a standard fee."
+67642,269,9,112000,Homer Simpson,Airport,"Well, we are not boarding that plane unless you waive that tax. Waive it..."
+67644,269,11,119000,Homer Simpson,Railroad Tracks,Stupid anti-fist-shaking laws.
+67646,269,13,128000,Homer Simpson,Boxcar,The Simpsons are ridin' the rails!
+67647,269,14,130000,Bart Simpson,Boxcar,Cool. A dead hobo.
+67649,269,16,136000,Hobo,Boxcar,"Mornin', folks."
+67650,269,17,137000,Homer Simpson,Boxcar,What are you gonna do to us?
+67651,269,18,139000,Hobo,Boxcar,"Now, don't worry, I'm not a stabbin' hobo, I'm a singin' hobo."
+67653,269,20,143000,Hobo,Boxcar,NOTHIN' BEATS THE HOBO LIFE / STABBIN' FOLKS WITH MY HOBO KNIFE-- I GOUGED...
+67654,269,21,152000,Marge Simpson,Boxcar,"Excuse me, hobo. Can you play something a little less unnerving?"
+67655,269,22,156000,Hobo,Boxcar,"Well, sure, ah... I was just havin' a little fun with you no-bos. Ah, here's a ballad that'll set fire to your trash can."
+67656,269,23,167000,Hobo,Boxcar,"WON'T YOU LISTEN TO MY TALE THAT'S TEN STORIES TALL / 'BOUT A KING-SIZED WOODSMAN NAME-A BUNYAN, COMMA, PAUL..."
+67657,269,25,178000,Country Doctor,Forest,"Congratulations, Mister Bunyan."
+67659,269,27,180000,Country Doctor,Log Cabin,It's a boy.
+67661,269,29,182000,Abe Bunyan,Bedroom,Jeezum crow!
+67662,269,30,185000,Abe Bunyan,Bedroom,"How was it, honey?"
+67663,269,31,186000,Mrs. Abe Bunyan,Bedroom,Whiskey please.
+67665,269,33,188000,Paul Bunyan,Field,Me hungee.
+67666,269,34,193000,Hobo,Field,"BORN MIGHTY BIG, HE CONTINUED TO EXPAND / THANKS TO A HOPPED-UP PITUITARY GLAND..."
+67668,269,36,200000,Hobo,Forest,"HIS BODY GREW BIG, BUT HIS BRAIN STAYED SMALL / HE WAS TREE-CHOPPIN', FRIEND-STOMPIN', HOUSE-CRUSHING PAUL..."
+67669,269,37,219000,Paul Bunyan,Forest,Me hungee.
+67671,269,39,220000,Sourdough Moe,Logging Village,Time to make Paul's breakfast.
+67672,269,40,225000,Sourdough Moe,Logging Village,"Hey, Paul, flapjacks!"
+67673,269,41,231000,Paul Bunyan,Logging Village,Flapjacks.
+67674,269,42,236000,Barney Gumble,Logging Village,Outta the fryin' pan!
+67675,269,43,241000,Sourdough Moe,Logging Village,"All right, uh, let's get started on lunch, and, uh... wait, where's Lenny?"
+67676,269,44,246000,Lenny Leonard,Logging Village,Hello?
+67677,269,45,247000,Lenny Leonard,Logging Village,Can anybody hear me?
+67678,269,46,250000,Groundskeeper Willie,Logging Village,"I think I found a way oot. It's not pretty, but it'll do."
+67680,269,48,256000,Sourdough Moe,Springfield Town Square,"All right. Look, we gotta do something about Bunyan. We're goin' bankrupt just feedin' and clothin' the guy. Not to mention the crushings."
+67681,269,49,266000,Crowd,Springfield Town Square,"/ Aw, yeah."
+67682,269,50,266000,Carl Carlson,Springfield Town Square,"Hey, I say we get him drunk and drag him outta town. Same way we got rid of Laura Ingalls Wilder."
+67683,269,51,272000,Crowd,Springfield Town Square,"/ Oh, yeah. That was classic. / Yeah, that's a good idea."
+67685,269,53,273000,Sourdough Moe,Town,"Uh, hey Paulie, uh, what say we buy ya a beer?"
+67686,269,54,288000,Paul Bunyan,Town,"Aw, you guys are the greatest friends a giant doofus could have."
+67687,269,55,300000,Seymour Skinner,Town,Good Lord. Brought down by one beer?
+67688,269,56,302000,Sourdough Moe,Town,And a couple of these babies.
+67689,269,57,304000,Sourdough Moe,Town,"Now if you'll excuse me, I'm off to the barn dance."
+67691,269,59,312000,Paul Bunyan,Field,Where am I?
+67692,269,60,319000,PUAL BUNYAN,Field,They don't want me anymore.
+67694,269,61,326000,Hobo,Field,PAUL WAS JUST AS LONELY AS A MAN COULD GET / SO HE TOOK OUT HIS AX AND HE CARVED HIMSELF A PET.
+67697,269,64,336000,Paul Bunyan,COBALT MOUNTAIN,"Boy, I wish you were real."
+67698,269,65,351000,Paul Bunyan,COBALT MOUNTAIN,"Hey! What the--? Oh, it's a miracle! I'll call you Babe! You'll be my best friend."
+67699,269,66,361000,Hobo,COBALT MOUNTAIN,"So Paul and his blue ox Babe traveled all across this great land, leaving their mark..."
+67700,269,67,388000,Lisa Simpson,COBALT MOUNTAIN,Excuse me...
+67702,269,69,390000,Lisa Simpson,Boxcar,"Paul Bunyan never fought Rodan. And his size seems to be really inconsistent. I mean, one minute he's ten feet tall, the next his feet are as big as a lake..."
+67703,269,70,400000,Hobo,Boxcar,"Hey, hey, hey, who's the hobo here?"
+67704,269,71,402000,Lisa Simpson,Boxcar,I'm just sayin'...
+67706,269,73,407000,Hobo,Clearing,NOW PAUL AND BABE WERE A MIGHTY FINE MATCH...
+67707,269,74,410000,Hobo,Clearing,BUT THE MAN HAD AN ITCH THAT AN OX COULDN'T SCRATCH...
+67708,269,75,417000,Paul Bunyan,Clearing,She's purty...
+67709,269,76,419000,Marge Simpson,Clearing,"Ooh, what a handsome man!"
+67710,269,77,434000,Paul Bunyan,Clearing,Gotcha! Don't worry. I won't smoosh you. You're cute.
+67711,269,78,445000,Marge Simpson,Clearing,"Ohhh, thank you."
+67713,269,80,449000,Marge Simpson,Clearing,"Hey, what are you doing?"
+67714,269,81,450000,Paul Bunyan,Clearing,I just want to spruce up for our date.
+67715,269,82,453000,Marge Simpson,Clearing,Ohhh!
+67719,269,86,481000,Paul Bunyan,MARGE'S FARMHOUSE,"We've been together a long time now. When are we gonna, y'know...?"
+67720,269,87,488000,Marge Simpson,MARGE'S FARMHOUSE,Soon. I just need a few more yoga classes.
+67721,269,88,492000,Marge Simpson,MARGE'S FARMHOUSE,"Oh, look! A shooting star!"
+67723,269,90,497000,Professor Jonathan Frink,Logging Village,"That meteor's headed straight for us, with the fire and the impact and the hundred per cent chance of pain... Pain in the glayvin!"
+67724,269,91,504000,Rev. Timothy Lovejoy,Logging Village,God has sent this fiery killrock to show us his love.
+67725,269,92,508000,Villagers,Logging Village,"No, we're gonna die! / Oh no! /"
+67726,269,93,512000,Mayor Joe Quimby,Logging Village,There's only one man who can save us...
+67729,269,95,514000,Paul Bunyan,MARGE'S FARMHOUSE,"Oh, I get it. When I'm crushing and killing you, you don't like me. But when I can save your life, suddenly I'm Mister Popular."
+67730,269,96,522000,Lenny Leonard,MARGE'S FARMHOUSE,"Yeah, that's pretty much it."
+67731,269,97,524000,Paul Bunyan,MARGE'S FARMHOUSE,Woo hoo! I'm Mister Popular!
+67735,269,101,534000,Paul Bunyan,ON A HILL NEARBY,"C'mon, right across the plate... Let's see what you got, huh? This one's for the little crippled boy... That I crippled."
+67736,269,102,542000,Marge Simpson,ON A HILL NEARBY,"You can do it, Paul."
+67737,269,103,544000,Paul Bunyan,ON A HILL NEARBY,Gimme a kiss for luck.
+67741,269,107,562000,Hobo,Logging Village,And that's how Paul Bunyan started the Great Chicago Fire.
+67743,269,109,567000,Bart Simpson,Boxcar,"Boy, that story had everything, a giant, house crushing, meteor..."
+67744,269,110,572000,Marge Simpson,Boxcar,Townspeople...
+67745,269,111,573000,Lisa Simpson,Boxcar,Got any more tall tales?
+67746,269,112,575000,Hobo,Boxcar,"Well, I s'pose I could spin ya a few more yarns... But first, who wants to give me a sponge bath? I'm filthy."
+67747,269,113,584000,Homer Simpson,Boxcar,"All right, but your next story better be worth it."
+67748,269,114,591000,Hobo,Boxcar,"Git in there good. Yeah, that's it. Don't be shy. There you go."
+67751,269,117,601000,Hobo,Boxcar,"Okay, ready for another impression? This is Southside Jake tearin' into Tin Can Tillie."
+67752,269,118,607000,Homer Simpson,Boxcar,"Oh, this'll be good."
+67753,269,119,609000,Hobo,Boxcar,"Who put the beans in my bindle? Oh, I am so tired of you sayin' that I put beans in your bindle! It just makes me so... Do you ever shut up? Kiss me, you fool."
+67754,269,120,627000,Lisa Simpson,Boxcar,"Uhhh, could we hear another tall tale?"
+67755,269,121,630000,Hobo,Boxcar,In a sec.
+67756,269,122,635000,Hobo,Boxcar,"All righty. Here's a story just for you, little girl. It's the tale of Johnnie... No, Connie Appleseed."
+67759,269,125,661000,Homer Simpson,GREAT PLAINS,Whoopsie.
+67760,269,126,666000,Connie Appleseed,GREAT PLAINS,"Dad, you just killed a poor, defenseless buffalo!"
+67761,269,127,668000,Homer Simpson,GREAT PLAINS,A poor delicious buffalo. He'll be dinner for the whole wagon train.
+67693,269,129,686000,Bart Simpson,Campsite,"Hey, I found a bullet."
+67728,269,130,691000,Homer Simpson,Campsite,"Man, buffalo are easy to kill."
+67765,269,133,697000,FAINT VOICE,Prairie,Connn-nnniiiie!
+67767,269,135,723000,FAINT VOICE,Prairie,Connn-nnniiiie!
+67768,269,136,734000,Connie Appleseed,Prairie,"Of course, apples!"
+67769,269,137,736000,Hans Moleman,Prairie,"No, Con-nie! Over here! Help me!"
+67772,269,140,750000,Connie Appleseed,Campsite,"No Dad, they're apples."
+67773,269,141,755000,Connie Appleseed,Campsite,"Well that's it. I don't want anything to do with this wagon train of death. Either switch to apples, or go on without me."
+67774,269,142,767000,Connie Appleseed,Campsite,You'll be sorry!
+67777,269,145,782000,Hobo,Prairie,"She even changed her last name to ""Appleseed."""
+67778,269,146,782000,Hobo,Prairie,"And her family changed theirs to ""Buffelkill."""
+67779,269,147,782000,Homer Simpson,Prairie,"I haven't had buffalo in six hours. Marge, how 'bout whipping up some buffalo sausage, huevos buffaleros, and some fresh-squeezed buffal-O.J."
+67780,269,148,812000,Marge Simpson,Prairie,The buffalo are gone. I think you shot them all.
+67781,269,149,823000,Homer Simpson,Prairie,What have I done? What have I done?!
+67784,269,152,845000,Chief Wiggum,MOUNTAIN PASS,"You're the fattest, Buffelkill. Okay everybody, dig in."
+67786,269,154,853000,Connie Appleseed,MOUNTAIN PASS,"Stop! I've got apples! Delicious, nutritious apples! And there's enough for everyone!"
+67787,269,155,863000,Sideshow Mel,MOUNTAIN PASS,Sweet... It's like a hootenanny in my mouth!
+67788,269,156,867000,Pioneers,MOUNTAIN PASS,We're saved! / It's a miracle! / Hooray for Connie Buffelkill!
+67789,269,157,872000,Moe Szyslak,MOUNTAIN PASS,What? So now we're not eating Homer?
+67791,269,159,875000,Hobo,Boxcar,"And thanks to that little girl, today you can find apples in everything that's good. Apple wine, apple whiskey, apple schnapps, apple martinis, Snapple with vodka in it, apple nail polish remover..."
+67792,269,160,892000,Lisa Simpson,Boxcar,Don't forget apple sauce.
+67793,269,161,894000,Hobo,Boxcar,"Yeah, I suppose you could grind some pills into it."
+67794,269,162,898000,Homer Simpson,Boxcar,Aww...
+67795,269,163,905000,Hobo,Boxcar,"Ooh, look out there, folks. That's the mighty Mississip."
+67796,269,164,907000,Homer Simpson,Boxcar,Big deal.
+67799,269,165,910000,Hobo,Boxcar,Reminds me of a tall tale about two scalawags raftin' down the Big Muddy: Tom Sawyer and Huck Finn.
+67800,269,166,918000,Lisa Simpson,Boxcar,That's not a tall tale. It's a book by Mark Twain.
+67801,269,167,922000,Hobo,Boxcar,"Look, let's just do this thing."
+67803,269,169,928000,Huck Finn,PICTURESQUE STREET,"Whitewashin' sucks, Tom. It powerful sucks."
+67804,269,170,931000,Tom Sawyer,PICTURESQUE STREET,"Mornin', friend. Want your turn at whitewashin'? It's powerful fun."
+67805,269,171,936000,Milhouse Van Houten,PICTURESQUE STREET,"Why, you ain't foolin' me again, Tom Sawyer."
+67806,269,172,939000,Huck Finn,PICTURESQUE STREET,If I may...
+67808,269,174,942000,Huck Finn,PICTURESQUE STREET,Now get to work!
+67809,269,175,947000,Tom Sawyer,PICTURESQUE STREET,I still got it.
+67810,269,176,951000,Becky Thatcher,PICTURESQUE STREET,"Why Huckleberry Finn, you get down from there. A body could break his neck."
+67811,269,177,957000,Huck Finn,PICTURESQUE STREET,"I ain't afeared o' that. I'd just get a new neck, off'n a cat."
+67813,269,179,962000,Becky Thatcher,PICTURESQUE STREET,Huck!
+67814,269,180,963000,Becky Thatcher,PICTURESQUE STREET,"Oh, Huck, you gave your bones an awful rattling."
+67815,269,181,968000,Huck Finn,PICTURESQUE STREET,Yeah... but I'm feelin' better right now.
+67816,269,182,974000,Judge Thatcher,PICTURESQUE STREET,Aha!
+67817,269,183,975000,Becky Thatcher,PICTURESQUE STREET,Papa!
+67818,269,184,976000,Judge Thatcher,PICTURESQUE STREET,"Hold my daughter's hand, will ye?"
+67819,269,185,979000,Huck Finn,PICTURESQUE STREET,"I was gonna let go, by and by!"
+67820,269,186,981000,Judge Thatcher,PICTURESQUE STREET,"Well, I guess there's no harm done... as long as it was going to be by and by, but just to play it safe..."
+67822,269,188,988000,Parson Lovejoy,First Church of Springfield,"We are gathered here today to force this man, Huckleberry Finn, into holy matrimony."
+67823,269,189,995000,Marge Simpson,First Church of Springfield,How romantic!
+67824,269,190,998000,Marge Simpson,First Church of Springfield,This reminds me of our shotgun wedding.
+67825,269,191,1001000,Marge Simpson,First Church of Springfield,"Grampa, we've been married for years. When are you gonna put down that gun?"
+67826,269,192,1005000,Grampa Simpson,First Church of Springfield,"Well, I reckon you're right."
+67827,269,193,1007000,Grampa Simpson,First Church of Springfield,Hang it all!
+67828,269,194,1009000,Parson Lovejoy,First Church of Springfield,"Do you, Huck, take Becky as your wife?"
+67831,269,197,1015000,Grampa Simpson,First Church of Springfield,"Hey, they done switched the groom with a pig!"
+67832,269,198,1019000,Judge Thatcher,First Church of Springfield,No wonder he was poopin' so much.
+67797,269,199,1021000,Huck Finn,First Church of Springfield,Haw haw.
+67833,269,201,1025000,Sheriff Wiggum,First Church of Springfield,"Come on, let's get those polecats!"
+67835,269,203,1033000,Sheriff Wiggum,Bank Of Mississippi River,"Aw, judge. Now we'll never catch 'em!"
+67837,269,205,1039000,Tom Sawyer,Mississippi River,I reckon we're safe now. There's the state line.
+67838,269,206,1048000,Tom Sawyer,Mississippi River,Uh-oh. Rapids!
+67841,269,209,1054000,Voice,BOTTOM OF RAPIDS,Please do not exit the raft until it has come to a complete stop.
+67842,269,210,1060000,Voice,BOTTOM OF RAPIDS,"Mr. Silas, this young lady's flashing her privates."
+67843,269,211,1065000,Photographer,BOTTOM OF RAPIDS,"Oh, well, I'll dispose of this. All for Silas. All for Silas."
+67845,269,213,1076000,Photographer,Mississippi River,I'm considerable hungry. We got any food left?
+67846,269,214,1079000,Tom Sawyer,Mississippi River,"Hm. Looks like we're out of cornpone, fatback, hardtack, fatpone, corntack..."
+67847,269,215,1084000,Huck Finn,Mississippi River,Any tackback?
+67848,269,216,1085000,Tom Sawyer,Mississippi River,Tackback?
+67849,269,217,1086000,Huck Finn,Mississippi River,I mean backtack.
+67850,269,218,1086000,Tom Sawyer,Mississippi River,Plumb out.
+67853,269,221,1091000,Apu Nahasapeemapetilon,General Store,"One jug of whiskey... three plugs of tobacky... and some extra-strength opium. That will be two cents, boys."
+67854,269,222,1098000,Huck Finn,General Store,Two cents?!
+67855,269,223,1100000,Apu Nahasapeemapetilon,General Store,"Hey, if you think my prices are high, go across the street."
+67856,269,224,1106000,Apu Nahasapeemapetilon,General Store,"Thank you, come again."
+67857,269,225,1108000,Tom Sawyer,General Store,He put the lardpone on top of the eggpone.
+67858,269,226,1110000,Huck Finn,General Store,Dang!
+67859,269,227,1114000,Tom Sawyer,General Store,Double dang!
+67860,269,228,1118000,Huck Finn,General Store,"Aw, donkey butter!"
+67863,269,231,1128000,HUCK/TOM,River,"Oh, it's no use."
+67864,269,232,1129000,Tom Sawyer,River,I got an idea.
+67866,269,234,1136000,Judge Thatcher,Riverboat,Well dog my cats. They's dis-apporated.
+67867,269,235,1141000,Judge Thatcher,Riverboat,"Keep quiet, Huck. They won't look up here if nothin' draws their attention."
+67868,269,236,1146000,Dr. Julius Hibbert,Riverboat,OLD MAN RIVER / THAT OLD MAN RI-VERRR...
+67869,269,237,1153000,Dr. Julius Hibbert,Riverboat,HE JUST KEEPS ROLLIN'...
+67872,269,239,1161000,HUCK/TOM,Riverboat,"Well, I see President Fillmore's in the news again..."
+67873,269,240,1169000,Moe Szyslak,Riverboat,"What'll it be, boys?"
+67874,269,241,1171000,Tom Sawyer,Riverboat,Just three X's for me.
+67875,269,242,1173000,Huck Finn,Riverboat,Gimme five.
+67876,269,243,1180000,Huck Finn,Riverboat,This ain't no five-X whiskey! I can still see. That barkeep's a no-good cheat!
+67877,269,244,1185000,Huck Finn,Riverboat,Cheat?!
+67878,269,245,1193000,Huck Finn,Riverboat,"All right, we've all got derringers. Now let's just put 'em away."
+67879,269,246,1198000,Moe Szyslak,Riverboat,Nobody here is a cheat.
+67880,269,247,1199000,Moe Szyslak,Riverboat,Cheat?!
+67881,269,248,1206000,Huck Finn,Riverboat,"Man, those derringer bullets are weak."
+67882,269,249,1209000,Tom Sawyer,Riverboat,Powerful weak.
+67883,269,250,1211000,Moe Szyslak,Riverboat,Light out and stay lit-out!
+67887,269,254,1219000,Tom Sawyer,Underwater,"Aw, catfish!"
+67889,269,256,1221000,Parson Lovejoy,First Church of Springfield,"Let us pray for the souls of these dearly departed young men, Huckleberry Finn and Thomas Sawyer."
+67890,269,257,1233000,Parson Lovejoy,First Church of Springfield,Now for the traditional lowering of the bodies into the coffins.
+67891,269,258,1243000,Hobo,First Church of Springfield,And that was Tom and Huck's last adventure.
+67892,269,259,1246000,Homer Simpson,First Church of Springfield,I liked that story 'cause I was a Judge.
+67893,269,260,1249000,Conductor,First Church of Springfield,Delaware!
+67894,269,261,1251000,Marge Simpson,First Church of Springfield,"Oh well, this is our stop."
+67895,269,262,1253000,Marge Simpson,First Church of Springfield,Would you like to come sightseeing with us?
+67896,269,263,1255000,Lisa Simpson,First Church of Springfield,We're gonna visit the place where J.C. Penney sends their damaged merchandise.
+67897,269,264,1260000,Hobo,First Church of Springfield,"No thanks. I'm gonna keep on ridin' the rails, swappin' stories for sponge baths."
+67900,269,267,1269000,Hobo,First Church of Springfield,I believe I told three stories.
+67901,269,268,1275000,Homer Simpson,First Church of Springfield,I'll meet you in Wilmington.
+67902,269,269,1280000,Hobo,First Church of Springfield,Close the door.
+67904,269,271,1283000,Homer Simpson,Boxcar,"Raise your arm... Okay, the other one..."
+67905,269,272,1287000,Hobo,Boxcar,"You know, I do four hundred sit-ups a day."
+67906,269,273,1290000,Homer Simpson,Boxcar,"Oh, it shows. I was gonna say something, but I thought it might sound you know, weird."
+67909,269,274,1295000,Hobo,Boxcar,"Oh, not at all. I like when people say nice things about my body."
+67910,269,275,1299000,Homer Simpson,Boxcar,"And it's important to feel good about yourself... Okay, spread your toes. Do you know how much glass is in here?"

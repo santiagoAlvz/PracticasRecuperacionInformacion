@@ -1,0 +1,225 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+34611,157,1,40000,Lisa Simpson,HISTORIC MILL,What a perfect outing for a beautiful autumn day!
+34612,157,2,42000,Marge Simpson,HISTORIC MILL,I feel sorry for everyone who's cooped up inside watching the seventh game of the World Series!
+34613,157,3,47000,Homer Simpson,HISTORIC MILL,"Yeah, they won't learn anything about apples today."
+34614,157,4,52000,Park Ranger,HISTORIC MILL,"...And the cider mill operated continuously until 1941, when its workers left to fight in the Second World War. When they returned, the old girl was just as they'd left her -- only now, she was infested with thousands upon thousands of rats."
+34616,157,6,69000,Park Ranger,HISTORIC MILL,"Right. And if you listen real carefully, you can still hear them gnawing away at the apples and splashing around in the toilets. And that concludes this portion of the tour."
+34618,157,7,81000,Park Ranger,HISTORIC MILL,"...one of the most historically significant fruit presses in this part of the state. Based on a German design, but modified for the larger American apples..."
+34619,157,8,90000,Ned Flanders,HISTORIC MILL,"Well, if God didn't make little green apples -- it's Homer Simpson! How long have you been here?"
+34620,157,9,95000,Homer Simpson,HISTORIC MILL,Twenty of the suckiest minutes of my life.
+34621,157,10,98000,Ned Flanders,HISTORIC MILL,"Oh, suckin' down the cider, eh? Hey, word to the wise... season pass!"
+34622,157,11,103000,Ned Flanders,HISTORIC MILL,"Pays for itself after the 16th visit. You know, most people don't know the difference between apple cider and apple juice. But I do. Now here's a little trick to help you remember..."
+34623,157,12,111000,Ned Flanders,HISTORIC MILL,"If it's clear and yellow, you've got juice there, fellow! If it's tangy and brown, you're in Cider Town! Now there's two exceptions, and it gets kinda tricky here..."
+148573,157,13,118000,Homer's Brain,HISTORIC MILL,"You can stay, but I'm leaving."
+34624,157,14,121000,Ned Flanders,HISTORIC MILL,"...Adirondack cider can be yellow if they're using late-season apples. And, of course, in Canada the whole thing's flip-flopped..."
+34625,157,15,127000,Ned Flanders,HISTORIC MILL,"Oh, my. I better get you some cider."
+34626,157,16,132000,Marge Simpson,HISTORIC MILL,"Next to spring and winter, fall is my absolute favorite season. Just look at all this beautiful foilage."
+34627,157,17,140000,Lisa Simpson,HISTORIC MILL,"It's not foilage, Mom. It's foliage. Fo-li-age."
+34628,157,18,140000,Marge Simpson,HISTORIC MILL,"That's what I said, foilage . It doesn't take a nucular scientist to pronounce foilage."
+34631,157,21,161000,C. Montgomery Burns,New Haven Station,"Honestly, Smithers, I don't know why Harvard even bothers to show up. Heh. They barely even won."
+34632,157,22,167000,Waylon Smithers,New Haven Station,"Their cheating was even more rampant than last year, sir."
+34634,157,24,176000,C. Montgomery Burns,Burns's Private Railroad Car,"Well, I say let Harvard have its football and academics. Yale will always be first in gentlemanly club-life. Why, every friend I have I made right here."
+34635,157,25,185000,Old Preppie,Burns's Private Railroad Car,"Hallo, Burnsie! It's your old roomie, Dink!"
+34639,157,29,196000,C. Montgomery Burns,Burns's Private Railroad Car,Steady... steady...
+34640,157,30,201000,Waylon Smithers,Burns's Private Railroad Car,"Oh-ho, nicely played, sir."
+34617,157,31,202000,Conductor,Burns's Private Railroad Car,"Attention, passengers. The train has been temporarily delayed because of a discarded couch on the tracks."
+34641,157,32,214000,C. Montgomery Burns,Burns's Private Railroad Car,"This may take a while, Smithers. Why don't you get drunk and stumble around comically for my amusement?"
+34642,157,33,218000,Waylon Smithers,Burns's Private Railroad Car,I'll be a one-man conga line.
+34643,157,34,226000,Larry,Burns's Private Railroad Car,"Hey, customers! Thank God! Papa needs a new pair of everything!"
+34644,157,35,230000,Larry,Burns's Private Railroad Car,"Hey, how ya doin'? Welcome to scenic Waynesport. And remember your visit with a googly-eyed walnut."
+34645,157,36,236000,Larry,Burns's Private Railroad Car,"How 'bout a googly-eyed rock? Some nice local squash candy? A stretched-out Pepsi bottle? Come on! If this stuff is too nice for ya, I've got some crap!"
+34646,157,37,268000,Waylon Smithers,Burns's Private Railroad Car,"Da, da, da ... Whoa-- Ow-- Where'd that lamp come from?... Whoa..."
+34647,157,38,268000,Larry,Burns's Private Railroad Car,"Hey, Casey Jones, where's this train headed?"
+34648,157,39,270000,Conductor,Burns's Private Railroad Car,Springfield.
+34649,157,40,271000,Larry,Burns's Private Railroad Car,"Yeah, yeah, what state?"
+34651,157,42,279000,Marge Simpson,Simpson Car,"I can honestly say that was the most fun I've ever had. The mill, the history, all that gorgeous foliage."
+34652,157,43,287000,Marge Simpson,Simpson Car,"I can't excape Lisa, our little walking libary!"
+34653,157,44,295000,Homer Simpson,Simpson Car,Can't they get a pole for that sign?
+34654,157,45,297000,Bart Simpson,Simpson Car,"That's a hitchhiker, Homer."
+34655,157,46,298000,Homer Simpson,Simpson Car,"Ooh, let's pick him up!"
+34656,157,47,300000,Marge Simpson,Simpson Car,No! What if he's crazy?
+34657,157,48,301000,Homer Simpson,Simpson Car,And what if he's not? Then we'd look like idiots.
+34658,157,49,304000,Marge Simpson,Simpson Car,We're not picking him up!
+34659,157,50,305000,Homer Simpson,Simpson Car,"Oh, yes we are!"
+34660,157,51,305000,Marge Simpson,Simpson Car,There's not enough room!
+34661,157,52,305000,Homer Simpson,Simpson Car,"Oh, yes, there is!"
+34662,157,53,308000,Marge Simpson,Simpson Car,I just don't think it's a good idea.
+34663,157,54,310000,Homer Simpson,Simpson Car,"And I think it's the best idea I've ever had! We're picking up the weirdo, and that's final."
+34665,157,56,322000,Larry,RURAL ROADSIDE,"Hey, you folks are all right. Man, it was rough gettin' a ride out there. The only car that stopped was a hearse that thought I fell out. It was rough, I tell ya."
+34666,157,57,332000,Marge Simpson,RURAL ROADSIDE,Careful of the apple pie on the seat.
+34667,157,58,334000,Grampa Simpson,RURAL ROADSIDE,Uh-ohhh.
+34668,157,59,335000,Marge Simpson,RURAL ROADSIDE,"Grampa, are you sitting on the pie?"
+34669,157,60,338000,Grampa Simpson,RURAL ROADSIDE,I sure hope so.
+34671,157,62,342000,Larry,Simpson Car,"Hey, I'm looking for this guy. Anybody know who he is?"
+34672,157,63,344000,Bart Simpson,Simpson Car,"Yeah, sure, we know him. That's Mr. Burns."
+34673,157,64,346000,Lisa Simpson,Simpson Car,He tried to kill our puppies.
+34674,157,65,347000,Marge Simpson,Simpson Car,He sexually harassed me.
+34675,157,66,349000,Grampa Simpson,Simpson Car,He stole my fiancée.
+34676,157,67,351000,Homer Simpson,Simpson Car,He made fun of my weight.
+34677,157,68,354000,Larry,Simpson Car,"Okay, so there's been a little friction. Know his address?"
+34679,157,70,361000,Larry,Burns Manor,"Whoa, this guy's got more bread than a prison meatloaf. He's rich, I tell ya. I never seen a place with a walk-in mailbox. Hey, who am I talkin' to?"
+34680,157,71,376000,Waylon Smithers,Burns Manor,Yes?
+34681,157,72,377000,Larry,Burns Manor,"Yeah, uh, hi, my name is Larry. I'm here to see Mr. Burns."
+34682,157,73,381000,Waylon Smithers,Burns Manor,"Well, I hate to break it to you, ""Larry,"" but if Mr. Burns ever wants to see a stranger, he will observe him through a powerful telescope. Now if you'll --"
+34683,157,74,389000,C. Montgomery Burns,Burns Manor,"Smithers, what's going on? How dare you interrupt my lime rickey? State your business."
+34684,157,75,396000,Larry,Burns Manor,"Well, uh... sheesh, I-- I'm a little nervous here... What I'm trying to say is, I'm..."
+34685,157,76,401000,C. Montgomery Burns,Burns Manor,You're what? Selling light bulbs? Worried about the whales? Keen on Jesus? Out with it!
+34686,157,77,406000,Larry,Burns Manor,"Oh, Mr. Burns... I'm your son."
+34687,157,78,410000,Larry,Burns Manor,"Oh, and I stepped on one of your peacocks. You got a paper towel?"
+34688,157,79,418000,C. Montgomery Burns,Burns Manor,It's true. He is my son.
+34689,157,80,421000,Larry,Burns Manor,"Hey, now you're talking!"
+34690,157,81,423000,Waylon Smithers,Burns Manor,Good God!
+34691,157,82,424000,Larry,Burns Manor,"Ah, Pop, don't get me wrong, it's great to be here, but how's a guy like you wind up with a son like me?"
+34692,157,83,430000,C. Montgomery Burns,Burns Manor,"Ah, Larry, my lad, I've gone over this story in my mind a million times. It was 1941 -- the -- no, '39 -- my 25th Yale reunion..."
+34693,157,84,445000,C. Montgomery Burns,Burns Manor,"Who should appear but the unrequited love of my college years, Mimsy Bancroft...Of course, by then Mimsy had her share of wrinkles and a gray hair or two, but my adoring eyes saw past those minor imperfections to her 21-year-old daughter, Lily."
+34694,157,85,460000,C. Montgomery Burns,Burns Manor,I took Lily to the local cinematorium...
+34697,157,87,460000,C. Montgomery Burns,Movie Theater,"...where our passions were inflamed by Clark Gable's reckless use of the word ""damn."""
+34699,157,89,460000,C. Montgomery Burns,NATURAL HISTORY MUSEUM,"We sneaked into the nearby Peabody Museum. There under the smiling eyes of four stuffed Eskimos, we expressed our love physically, as was the style at the time."
+34700,157,90,482000,Larry,NATURAL HISTORY MUSEUM,"Well, how do you like that? I have been in a museum! So what happened with you and Ma?"
+34701,157,91,486000,C. Montgomery Burns,NATURAL HISTORY MUSEUM,"Oh, there was a terrible scandal. Lily's family forced her to give you up and bundled her off to a convent in the South Seas. I never heard from her again. But I prattle on -- tell me everything about your life."
+34702,157,92,498000,Larry,NATURAL HISTORY MUSEUM,"Oh, what's to tell? I was at the orphanage till I was 18, then I got my job at the souvenir stand. Oh, and once I saw a blimp."
+34703,157,93,509000,C. Montgomery Burns,NATURAL HISTORY MUSEUM,Well. You must be tired. Let me show you your room.
+34705,157,95,514000,Larry,Burns Manor,"Well, is this posh! Aw, Pop, nobody's ever been so nice to me!"
+34706,157,96,519000,C. Montgomery Burns,Burns Manor,"Yes... All right... Uh-huh... It's good to see you, too... Now then, in case you get bored, here's the playroom."
+34707,157,97,530000,Willy Loman,Burns Manor,You can't just eat the orange and throw the peel away -- a man's not a piece of fruit!
+34708,157,98,535000,C. Montgomery Burns,Burns Manor,"This show was supposed to close last week! Close this show! Close it, I say!"
+34709,157,99,541000,Larry,Burns Manor,"Hey, don't worry about it. You're all right."
+34713,157,103,551000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, you're that hitchhiker! What are you doing here?"
+34714,157,104,554000,Larry,Springfield Nuclear Power Plant,"Learnin' the family business. I'm Larry Burns, the boss's son."
+34716,157,106,560000,Larry,Springfield Nuclear Power Plant,"Hey, relax. I don't wanna work. I'm so lazy, I took lessons on the player piano."
+34717,157,107,565000,Homer Simpson,Springfield Nuclear Power Plant,"Wow, that's really lazy."
+34718,157,108,567000,Larry,Springfield Nuclear Power Plant,"Lazy? You're not kidding. I'm like a rug on Valium, I'm talkin' lazy."
+34719,157,109,571000,Homer Simpson,Springfield Nuclear Power Plant,So lazy.
+34722,157,111,573000,Homer Simpson,Simpson Home,"...and Larry and I have so much in common, Marge, way more than you and me. If I could be stranded on an island with anyone, it would definitely be Larry!"
+34723,157,112,582000,Marge Simpson,Simpson Home,I think we heard enough about Larry Burns for one evening.
+34724,157,113,586000,Homer Simpson,Simpson Home,Why? It's not like anything interesting happened to anyone else today.
+34727,157,116,596000,Larry,Springfield Glen Country Club,"Hey, Pop, this crowd is pretty swanky. I'm not gonna fit in here."
+34728,157,117,601000,C. Montgomery Burns,Springfield Glen Country Club,"Nonsense, Larry, your blood is bluer than any of theirs! Just give them a snootful of the old Burns charm!"
+34729,157,118,607000,C. Montgomery Burns,Springfield Glen Country Club,"Ooh, Admiral Carstairs, I'd like you to meet my son, Larry."
+34730,157,119,611000,Larry,Springfield Glen Country Club,"Hey, Skipper, good to meet you. Where'd you start out, on the Merrimac? Hey, I should talk, I hope I look that good when I'm 200."
+34731,157,120,619000,C. Montgomery Burns,Springfield Glen Country Club,"Larry, please, he's very sensitive about his age."
+34732,157,121,623000,Wealthy Dowager,Springfield Glen Country Club,"Oh, Monty, this must be the son I've heard so much about! Larry, you must meet our daughter, the debutante. She came out last spring."
+34733,157,122,632000,Larry,Springfield Glen Country Club,"Whoa! Put her back in, she's not done yet!"
+34734,157,123,639000,C. Montgomery Burns,Springfield Glen Country Club,"Smithers, there's something a bit odd about young Larry. I can't quite put my finger on it."
+34735,157,124,645000,Waylon Smithers,Springfield Glen Country Club,"Well, he is a bit rough around the edges, sir. One might blame his truly heroic intake of cocktails."
+34736,157,125,651000,Larry,Springfield Glen Country Club,"Pull up a seat, Pop! You too, Chuckles! I mean, the food ain't great, but the portions are terrific."
+34737,157,126,656000,Larry,Springfield Glen Country Club,"Hey, I'm kidding, relax. Hey, give my regards to Mrs. Boy-ar-dee."
+34738,157,127,662000,C. Montgomery Burns,Springfield Glen Country Club,"A total lack of refinement. Smithers, send for the boys at Yale Admissions, huh?"
+34740,157,129,668000,C. Montgomery Burns,Burns's Office,"Well, did you meet Larry?"
+34741,157,130,671000,Male Admissions Officer,Burns's Office,"Oh, yes. He made light of my weight problem, then suggested my motto should be ""Semper Fudge."" At that point, he told me to ""relax."""
+34742,157,131,674000,C. Montgomery Burns,Burns's Office,How were his test scores?
+34743,157,132,681000,Female Admissions Officer,Burns's Office,"Let's just say this. He spelled ""Yale"" with a six."
+34721,157,133,685000,C. Montgomery Burns,Burns's Office,"I see. Well, I... Oh, you know, I just remembered it's time for my annual donation. I wonder how much I should give..."
+34744,157,134,693000,Male Admissions Officer,Burns's Office,"Well, frankly, test scores like Larry's would call for a very generous contribution..."
+34745,157,135,697000,Male Admissions Officer,Burns's Office,"For example, a score of 400 would require a donation of new football uniforms... 300: a new dormitory. And in Larry's case, we would need an international airport."
+34746,157,136,707000,Female Admissions Officer,Burns's Office,"Yale could use an international airport, Mr. Burns."
+34747,157,137,711000,C. Montgomery Burns,Burns's Office,Are you mad? I'm not made of airports! Get out!
+34748,157,138,715000,C. Montgomery Burns,Burns's Office,Summon my son at once!
+34749,157,139,718000,Waylon Smithers,Burns's Office,"Uh, it appears he's ""gone drinkin',"" sir."
+34752,157,142,724000,Larry,Moe's Tavern,"Everybody go nuts, I'm buyin'! Hey, Handsome, send the bill to my dad."
+34753,157,143,729000,Moe Szyslak,Moe's Tavern,"Okay, but the last guy who charged a drink to Burns turned up in a landfill."
+34754,157,144,733000,Barney Gumble,Moe's Tavern,Yeah. But it was worth it!
+34755,157,145,736000,Larry,Moe's Tavern,"What's everybody in this burg have against my Dad? He's a pussycat. I tell ya, he's a doll-baby. Come on over, I'll show ya!"
+34757,157,147,752000,Larry,Burns Manor,"Oh, this is some party. If it gets any livelier, a funeral's gonna break out."
+34758,157,148,756000,C. Montgomery Burns,Burns Manor,"Quiet, you! Nobody likes a comedian!"
+34759,157,149,759000,Larry,Burns Manor,"Geez, come on, Dad, we got company. Make with the yakkety-yak-yak."
+34760,157,150,763000,C. Montgomery Burns,Burns Manor,"Oh, ""yakkety-yak-yak""... You, Foodbag -- do you have a son?"
+34761,157,151,769000,Homer Simpson,Burns Manor,"Yes, sir. I do."
+34762,157,152,770000,C. Montgomery Burns,Burns Manor,And is he a constant disappointment? Does he bring home nitwits and make you talk to them?
+34763,157,153,774000,Homer Simpson,Burns Manor,"Oh, all the time! Have you ever heard of this kid Milhouse? He's a little wiener who..."
+34764,157,154,779000,C. Montgomery Burns,Burns Manor,Fascinating. Goodnight.
+34765,157,155,780000,Larry,Burns Manor,"Dad, what's with you tonight? I mean, I'm gettin' frostbite over here..."
+34766,157,156,785000,C. Montgomery Burns,Burns Manor,"I'll tell you what's with me -- the humiliation of having a coarse, boorish, ignoramus for a son!"
+34767,157,157,793000,Homer Simpson,Burns Manor,"Eh, I should go."
+34768,157,158,797000,Larry,Burns Manor,"What's the matter, Pop? Don't you love me anymore?"
+34769,157,159,807000,Larry,Burns Manor,"Sheesh, Dad and I, we started out great, but now it's fallin' apart, like a Chinese motorcycle."
+34770,157,160,812000,Homer Simpson,Burns Manor,It's so unfair. You're everything a dad could hope for.
+34771,157,161,815000,Larry,Burns Manor,"Yeah. I tell ya, I don't get no regard, no regard at all. No esteem, either."
+34772,157,162,820000,Homer Simpson,Burns Manor,"Larry, there's only one sure way to make him realize how much he loves you. And that... is a phony kidnapping."
+34773,157,163,828000,Larry,Burns Manor,"Yeah, right. I dunno, maybe I should just leave town."
+34774,157,164,832000,Homer Simpson,Burns Manor,Pho-ny kid-napping...
+34775,157,165,834000,Larry,Burns Manor,"Nah, I know what I gotta do..."
+34776,157,166,837000,Larry,Burns Manor,"I gotta clean up my act: no more jokin' around all the time, no more slackin' off at work, and most important, no more booze. I know I can do it."
+34777,157,167,850000,C. Montgomery Burns,Burns Manor,Your son has been kidnapped...
+34778,157,168,850000,C. Montgomery Burns,Burns Manor,I can't believe someone would kidnap my Larry. I won't rest until he's returned to me!
+34779,157,169,863000,Waylon Smithers,Burns Manor,"Not to be impertinent, sir, but didn't you want Larry out of your life as recently as two hours ago?"
+34780,157,170,868000,C. Montgomery Burns,Burns Manor,"It's the principle, Smithers! Nobody steals from Montgomery Burns, whether it be my Sunday newspaper or my loutish oaf of a son."
+34781,157,171,875000,Chief Wiggum,Burns Manor,"All right, Mr. B, when the kidnappers call with the ransom demand, you tell them you'll leave the money under the big net in the park."
+34782,157,172,883000,Lou,Burns Manor,"And then down comes the net! Right, Chief?"
+34783,157,173,886000,Chief Wiggum,Burns Manor,"Heyyyy, I like it! I like it a lot!"
+34786,157,176,902000,Marge Simpson,Simpson Home,What are you doing in the basement? It's like you're hiding out down here.
+34787,157,177,906000,Homer Simpson,Simpson Home,"Hiding out? Marge, you've been reading too many hideout books."
+34788,157,178,911000,Marge Simpson,Simpson Home,And what's that hitchhiker doing here? Is every drifter we meet going to move in with us?
+34789,157,179,915000,Homer Simpson,Simpson Home,Of course not. We'll decide that on a drifter-by-drifter basis.
+34790,157,180,919000,Lisa Simpson,Simpson Home,"He's not a drifter, Mom. That's Mr. Burns's son, Larry."
+34791,157,181,922000,Bart Simpson,Simpson Home,He's great at pointing out everyone's foibles!
+34792,157,182,924000,Larry,Simpson Home,"Hey, how ya doin'? Whoo, look at your hair. What happened? -- You saw yourself in the mirror?"
+34793,157,183,929000,Bart Simpson,Simpson Home,"He's kidding, Mom. But seriously, I'd love to have hair like yours -- I just can't get the zoning permits."
+34794,157,184,934000,Lisa Simpson,Simpson Home,"Hey, that reminds me, Mom -- Buckingham Palace called. They want their hat back."
+34795,157,185,940000,Larry,Simpson Home,"Hey, kids, how 'bout a hand for your Mom? She's all right!"
+34696,157,186,943000,Marge Simpson,Simpson Home,"Yay, Mom! All right, Mom!"
+34797,157,187,945000,Marge Simpson,Simpson Home,Oh. Yeah. Thank you.
+34799,157,189,952000,C. Montgomery Burns,Burns Manor,Ahoy-hoy?
+34800,157,190,953000,Homer Simpson,Burns Manor,"Hello, Mr. Burns, this is the kidnapper. Do you miss your son?"
+34801,157,191,959000,C. Montgomery Burns,Burns Manor,Yes! I'm missing one son! Return it immediately!
+34802,157,192,962000,Homer Simpson,Burns Manor,"If you really love Larry, prove it and you can have him back today."
+34803,157,193,966000,C. Montgomery Burns,Burns Manor,"Oh, how much proof do you need? Five thousand? Six thousand? I swear, that's all I've got."
+34804,157,194,972000,Homer Simpson,Burns Manor,Don't you care about your son? This is more important than money!
+34805,157,195,976000,C. Montgomery Burns,Burns Manor,More important than money? Who is this?
+34806,157,196,979000,Homer Simpson,Burns Manor,Just a second.
+34807,157,197,984000,Chief Wiggum,Burns Manor,"Beautiful. Eddie, did you trace the phone number?"
+34808,157,198,986000,Eddie,Burns Manor,"Sure did, Chief."
+34809,157,199,987000,Chief Wiggum,Burns Manor,"""5-5-5..."" Aw, geez, that's gotta be phony!"
+34811,157,201,996000,Lisa Simpson,Simpson Home,"Hey, I think I got a Pai Gow!"
+34812,157,202,998000,Bart Simpson,Simpson Home,I hate Pai Gow. Can't we just play Quang Jong?
+34813,157,203,1001000,Marge Simpson,Simpson Home,Can't we just go upstairs?
+34814,157,204,1002000,Homer Simpson,Simpson Home,No!
+34815,157,205,1004000,Kent Brockman,Simpson Home,This is Kent Brockman in ChopperCopter 6 with a special report. Montgomery Burns's son has been kidnapped.
+34816,157,206,1010000,Marge Simpson,Simpson Home,Kidnapped?!
+34817,157,207,1012000,Homer Simpson,Simpson Home,"Marge, it's not a real kidnapping. It's a simple hoax to win a father's love."
+34818,157,208,1017000,Marge Simpson,Simpson Home,You know how I feel about hoaxes!
+34819,157,209,1019000,Homer Simpson,Simpson Home,Still?
+34820,157,210,1020000,Marge Simpson,Simpson Home,"I want you to take Larry back to Mr. Burns right now, before you get in a lot of trouble."
+34821,157,211,1024000,Homer Simpson,Simpson Home,"What... But... Marge, it's broad daylight and there's cops everywhere!"
+34822,157,212,1029000,Marge Simpson,Simpson Home,No excuses! Just do it!
+34824,157,214,1037000,Kent Brockman,Simpson Home,"Of course we'll bring you updates as soon as they... Oh, wait a minute! There they are! Larry Burns and his kidnapper!"
+34826,157,216,1048000,Kent Brockman,Simpson Home,"Appearing in broad daylight, with police everywhere... Ladies and gentlemen, there's only one word for that: idiocy!"
+34829,157,219,1065000,Larry,Downtown Springfield,We gotta find someplace to hide!
+34830,157,220,1067000,Homer Simpson,Downtown Springfield,The abandoned warehouse!
+34832,157,222,1073000,Homer Simpson,Warehouse,Stupid economic recovery!
+34834,157,224,1085000,Costume Shop Clerk,COSTUME SHOP,"Hey, buy a costume or get out, Fellas!"
+34836,157,226,1090000,Homer Simpson,Downtown Street,We've gotta find someplace no one will ever go. Hel-lo!
+34838,157,228,1097000,Child's Voice,Aztec Theater,"Drive faster, Grandma! Grandma's gaining on us!"
+34839,157,229,1101000,Homer Simpson,Aztec Theater,"Heh-heh, they'll never look for us here."
+34840,157,230,1104000,Larry,Aztec Theater,"Yeah, this place is emptier than a Scottish pay toilet."
+34841,157,231,1107000,Hans Moleman,Aztec Theater,Shhhhh!
+34842,157,232,1108000,Hans Moleman,Aztec Theater,Some people are trying to watch the movie!
+34843,157,233,1111000,Homer Simpson,Aztec Theater,"You don't like it, call the cops!"
+34845,157,235,1124000,Kent Brockman,Aztec Theater,"This is Kent Brockman, live from the Aztec Theater, where police have learned that kidnapper Homer Simpson and hostage Larry Burns are inside, talking loudly..."
+34847,157,237,1133000,Marge Simpson,Simpson Home,"Ohhh! Give yourself up, Homie!"
+34848,157,238,1135000,Bart Simpson,Simpson Home,"No, Dad! Shoot your way out!"
+34850,157,240,1142000,Kent Brockman,Simpson Home,"A bloody end for Homer Simpson...is just one of several possible outcomes, according to our computer simulation. Now, here's how it would look if the police killed him with a barrage of baseballs..."
+34851,157,241,1153000,Lisa Simpson,Simpson Home,We've got to go down there and help Dad!
+34852,157,242,1155000,Simulated Homer,Simpson Home,"Ouch! Oooch! Eeech! Ouch! Ooch! Oh, stop it!!"
+34854,157,244,1170000,Chief Wiggum,Aztec Theater,"Hmm, still warm. They can't be far."
+34855,157,245,1172000,Lou,Aztec Theater,Chief!
+34856,157,246,1182000,Chief Wiggum,Aztec Theater,"Don't be a fool, Simpson! Let the kid go!"
+34857,157,247,1185000,C. Montgomery Burns,Aztec Theater,The negotiations have failed! Shoot him!
+34858,157,248,1190000,Larry,Aztec Theater,Wait!
+34859,157,249,1192000,Crowd,Aztec Theater,Wait! Wait...
+34860,157,250,1193000,Larry,Aztec Theater,"I mean, Homer's no kidnapper. He's the best friend I ever had! We faked the whole thing."
+34863,157,252,1201000,C. Montgomery Burns,Aztec Theater,"I should've known. You're the only one stupid enough to kidnap you. Now get down here so I can spank you in front of this gawking rabble. Smithers, take off my belt."
+34864,157,253,1210000,Waylon Smithers,Aztec Theater,"With pleasure, sir."
+34865,157,254,1211000,Homer Simpson,Aztec Theater,"Hold on, Mr. Burns. Maybe we did fake a kidnapping, but is that really such a crime? All your son wanted was a little attention, a little love."
+34866,157,255,1221000,Homer Simpson,Aztec Theater,"I'm a father myself, sir. And sure, sometimes my kids can be obnoxious... or boring... or stinky --"
+34867,157,256,1223000,Homer Simpson,Aztec Theater,-- but they can always count on one thing: their father's unconditional love.
+34868,157,257,1239000,Larry,Aztec Theater,"How 'bout it, Pop? I know it's tough, but can ya love me for what I am?"
+34870,157,259,1250000,C. Montgomery Burns,Aztec Theater,"There, there, sonny-boy. I suppose I have been a bit... Oh, no, I can't do it. It's just not me."
+34871,157,260,1259000,C. Montgomery Burns,Aztec Theater,"I'm sorry, Larry, I can't be the family that you need."
+34872,157,261,1264000,Larry,Aztec Theater,"Aw, that's okay, I got a wife and kids. Ooh, that reminds me. They're probably wonderin' where I went. I told them I was going for coffee. That was a week ago."
+34873,157,262,1273000,C. Montgomery Burns,Aztec Theater,"Well, son, delighted to have met you. It's good to know that there's another kidney out there for me."
+34874,157,263,1280000,Larry,Aztec Theater,"You got it, Pop. Just let me run a few pints through it first!"
+34875,157,264,1284000,Larry,Aztec Theater,As long as everybody's here... LET'S PARTY!!
+34877,157,266,1299000,Lisa Simpson,Aztec Theater,Who's playing that music?
+34878,157,267,1300000,Marge Simpson,Aztec Theater,And where is all that liquor coming from?
+34879,157,268,1303000,Homer Simpson,Aztec Theater,"It's a party, Marge. It doesn't have to make sense."

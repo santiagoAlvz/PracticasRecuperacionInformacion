@@ -1,0 +1,199 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+40028,177,1,9000,Troy McClure,Museum,"""Spin-off!""... Is there any word more thrilling to the human soul? Hi, I'm Troy McClure! You may remember me from such TV spin-offs as ""Son of Sanford and Son"" and ""AfterMANNIX."""
+40029,177,2,21000,Troy McClure,Museum,"I'm here at the Museum of TV and Television with a real treat for ""Simpsons"" fans, if any, because tonight we present... ""The Simpsons Spin-off Showcase!"""
+40030,177,3,42000,Troy McClure,Museum,"Not long ago, the FOX network approached the producers of ""The Simpsons"" with a simple request: thirty-five new shows to fill a few holes in their programming line-up."
+40031,177,4,50000,Troy McClure,Museum,"That's a pretty daunting task! And the producers weren't up to it. Instead, they churned out three ""Simpsons"" spin-offs, transplanting already popular characters into new locales and situations. First up: a gritty crime drama starring Springfield's beloved Police Chief Wiggum. Keep at least one eye open, 'cause his best friends the Simpsons just might pop in to wish him luck. Let's us wish him luck, too! Good luck, Wiggum!"
+40033,177,6,111000,Chief Wiggum,Chief Wiggum's Office,"Ahhh, New Orleans. The Big Easy. Sweet Lady Gumbo. Old Swampy..."
+40034,177,7,119000,Seymour Skinner,Chief Wiggum's Office,"I still don't understand, Clancy. Why give up your job as a small town police chief to set up a detective shop in New Orleans?"
+40035,177,8,126000,Chief Wiggum,Chief Wiggum's Office,"Oh, lotsa reasons, I s'pose. Got kicked off the force, for one thing."
+40036,177,9,130000,Seymour Skinner,Chief Wiggum's Office,For massive corruption.
+40037,177,10,132000,Chief Wiggum,Chief Wiggum's Office,For massive corr... Exactly.
+40038,177,11,134000,Seymour Skinner,Chief Wiggum's Office,"Yeah. As for me, I was born and bred here in the mean streets of ""N'Awlins."" Oh, sure, I left briefly to take that principal's job in Springfield, but in my heart I... I've always been a small-time hustler."
+40039,177,12,145000,Chief Wiggum,Chief Wiggum's Office,"I know. That's precisely why I hired you as my leg man, Skinny Boy. I want you to put the word out: Chief Wiggum is here to clean up this crime dump!"
+40040,177,13,155000,Chief Wiggum,Chief Wiggum's Office,Bleh.
+40041,177,14,156000,Seymour Skinner,Chief Wiggum's Office,"Hmm. Looks like you've already got an enemy, Chief. Y'know, folks 'round here don't much care for law and order types."
+40042,177,15,163000,Chief Wiggum,Chief Wiggum's Office,Is that right? Well maybe they'll change their minds once I arrest them for throwing skulls all over my floor.
+40043,177,18,174000,Chief Wiggum,Houseboat,"Aw, man, what a day. It's no cakewalk being a single parent, juggling a career and a family like so many juggling balls -- two, I s'pose."
+40044,177,19,184000,Ralph Wiggum,Houseboat,"Daddy, these rubber pants are hot."
+40045,177,20,187000,Chief Wiggum,Houseboat,"You wear 'em until you learn, son."
+40047,177,22,196000,Portly Chef,CAJUN RESTAURANT,I gar-ohn-tee!
+40048,177,23,198000,Seymour Skinner,CAJUN RESTAURANT,Will you stop saying that.
+40049,177,24,199000,Chief Wiggum,CAJUN RESTAURANT,"So, Skinner, who do you figure threw that skull through my window? What's the word on the street?"
+40050,177,25,204000,Seymour Skinner,CAJUN RESTAURANT,"Well, to be honest, Chief, I haven't lived in New Orleans for 42 years. Although... according to an article I read in Parade Magazine, a criminal by the name of ""Big Daddy"" runs this town."
+40051,177,26,216000,Chief Wiggum,CAJUN RESTAURANT,"Big Daddy, eh? Well, he won't feel so big if he messes with Chief Wiggum, P.I., again. Which I sincerely doubt he will."
+40054,177,29,243000,Chief Wiggum,Houseboat,"Hey... Oh, God!"
+40055,177,30,259000,Seymour Skinner,Houseboat,"Lucky for you, this was just a warning gator. The next one won't be corked."
+40056,177,31,263000,Chief Wiggum,Houseboat,"Listen up, Big Daddy! You don't scare me! I'm three steps ahead of you--"
+40057,177,32,269000,Seymour Skinner,Houseboat,"Oh, Chief? Your boy's been kidnapped."
+40058,177,33,271000,Chief Wiggum,Houseboat,"Oh, God!"
+40059,177,34,276000,Seymour Skinner,Houseboat,"Big Daddy's trademark calling card. See, it's right here inside the skull."
+40060,177,35,284000,Chief Wiggum,Houseboat,"Looks like we've got our first case ever, Skinny Boy. And this time, it's personal!"
+40061,177,36,291000,Announcer,Houseboat,"""Chief Wiggum, P.I."" will return... right now."
+40063,177,38,297000,Chief Wiggum,Chief Wiggum's Office,Who is this?
+40064,177,39,299000,Seymour Skinner,Chief Wiggum's Office,"It's me, Chief. I'm on the other extension."
+40065,177,40,301000,Big Daddy,Chief Wiggum's Office,"Now you listen up, mon ami, and you listen good, heah? De name's Daddy. Charles Daddy."
+40066,177,41,306000,Chief Wiggum,Chief Wiggum's Office,"Big Daddy! What've you done with my boy, Daddy?"
+40067,177,42,309000,Big Daddy,Chief Wiggum's Office,"Ah, de boy's fine, so far. I taught him to play de spoons."
+40068,177,43,314000,Big Daddy,Chief Wiggum's Office,"...If y'evah want to see dat boy again, I suggest y' leave town today, heah?"
+40069,177,44,320000,Chief Wiggum,Chief Wiggum's Office,"Heh... Sounded like some sort of party going on in the background. Are there any parties today, Skinner?"
+40071,177,45,326000,Seymour Skinner,Chief Wiggum's Office,"Eh, it's not really a party town. Though if I remember correctly, they occasionally hold a function called Mardi... something."
+40075,177,49,355000,Chief Wiggum,Bourbon Street,"Well, if it isn't my old friends from Springfield, the Simpsons! What brings you folks to New Orleans?"
+40076,177,50,361000,Bart Simpson,Bourbon Street,"Mardi Gras, man! When the Big Easy calls, ya gotta accept the charges!"
+40077,177,51,365000,Lisa Simpson,Bourbon Street,"Chief Wiggum, I can't wait to hear about all the exciting, sexy adventures you're sure to have against this colorful backdrop!"
+40078,177,52,371000,Chief Wiggum,Bourbon Street,"Well, golly, I'd love to chat, but my son's been kidnapped. You haven't seen him, have you? Caucasian male, between the ages of six and ten, thinning hair?"
+40079,177,53,380000,Homer Simpson,Bourbon Street,Over there.
+40080,177,54,382000,Ralph Wiggum,Bourbon Street,"Look, Big Daddy! It's regular daddy!"
+40081,177,55,386000,Big Daddy,Bourbon Street,"De Chief! Ooh. I suppose I best to run. Lord o' mercy, I wish I weren't so fat."
+40085,177,59,408000,Chief Wiggum,BAYOU,Police business!
+40086,177,60,419000,Chief Wiggum,BAYOU,"Hang on, son! I'm coming to-- OW!!! Ow. Geez, my tongue!"
+40087,177,61,432000,Chief Wiggum,BAYOU,"Hah, hah, nyah, nyah."
+40089,177,63,437000,Chief Wiggum,ANOTHER PART OF THE BAYOU,Whaddya suppose the rent is on a hideout like that?
+40090,177,64,440000,Seymour Skinner,ANOTHER PART OF THE BAYOU,"Ah, it's not rented, Chief -- it's stolen. That's the Louisiana Governor's mansion. It's been missing for eight months."
+40092,177,66,457000,Chief Wiggum,Mansion,You!!
+40093,177,67,458000,Big Daddy,Mansion,"Welcome to ma maison, Chief. Ah've been expecting you."
+40094,177,68,462000,Chief Wiggum,Mansion,"Is that so, Big Daddy? Well expect this: the arrest of you by me."
+40095,177,69,468000,Big Daddy,Mansion,"Mais cher, New Orleans is ma town! Won't nobody gonna mess with me. I got interests, and I ain't talking 'bout stamp collecting. Though I do find that extremely interesting."
+40096,177,70,479000,Seymour Skinner,Mansion,"Oh, yeah? Well that makes two of us."
+40097,177,71,481000,Big Daddy,Mansion,"Y'know, boys, dere's an old sayin' down on de bayou dat, um -- BLAH!"
+40098,177,72,490000,Seymour Skinner,Mansion,"He's gradually getting away, Chief."
+40100,177,73,493000,Chief Wiggum,Mansion,"Ah, let him go. I have a feeling we'll meet again, each and every week. Always in more sexy and exciting ways."
+40101,177,74,502000,Ralph Wiggum,Mansion,"Daddy, when I grow up, I wanna be just like you."
+40102,177,75,505000,Seymour Skinner,Mansion,"Better start eating, kid."
+40103,177,76,507000,Chief Wiggum,Mansion,"""Start eating""?!"
+40105,177,78,509000,Ralph Wiggum,Mansion,I didn't mean it that way...
+40108,177,81,521000,Troy McClure,Museum of TV and Television,"Oh, hi! Welcome back to our Spin-off Showcase. Could ""The Simpsons"" ever have maintained its popularity without Moe the Bartender? Let's hope so, because Moe's leaving to do his own sitcom. But don't panic: he's taking a familiar sidekick with him, and his best friend Homer might just pop in to wish him luck. Let's take a peek..."
+40110,177,83,546000,Barney Gumble,Moe's Tavern,"Well, ah, I better go. I've got a date with that lady in front of the drug store who's always yelling things."
+40111,177,84,554000,Moe Szyslak,Moe's Tavern,She told me she was washin' her hair tonight. I'm so desperately lonely.
+40112,177,85,563000,Grampa Simpson,Moe's Tavern,"Ah, quit your belly-aching, ya big loser!"
+40113,177,86,566000,Moe Szyslak,Moe's Tavern,Wh... who said that?
+40114,177,87,567000,Grampa Simpson,Moe's Tavern,"I did. It's me, Abe Simpson."
+40115,177,88,570000,Moe Szyslak,Moe's Tavern,But you're dea-d-d-dead.
+40116,177,89,572000,Grampa Simpson,Moe's Tavern,I was! But I've come back... as your love testing machine!
+40117,177,90,578000,Grampa Simpson,Moe's Tavern,I'm the love-matic Grampa!
+40119,177,92,586000,Singers,Moe's Tavern,WHILE SHOPPING FOR SOME CANS / AN OLD MAN PASSED AWAY / HE FLOATED UP TOWARD HEAVEN / BUT GOT LOST ALONG THE WAY...
+40120,177,93,599000,Singers,Moe's Tavern,NOW HE'S THE LOVE-MATIC GRAMPA! / THE WISE SOCRATIC GRAMPA! / AND HE'LL FILL OUR HEARTS WITH LOVE!
+40121,177,94,619000,Grampa Simpson,Moe's Tavern,"Don't be afraid, Moe. I'm here to help you with your romantic problems."
+40122,177,95,624000,Moe Szyslak,Moe's Tavern,"Hey, I don't need no advice from no pinball machine. I'll have you know I wrote the book on love."
+40123,177,96,630000,Grampa Simpson,Moe's Tavern,"Yeah -- ""All Quiet On The Western Front!"""
+40124,177,97,635000,Moe Szyslak,Moe's Tavern,"Ahh, kiss my dishrag!"
+40125,177,98,639000,Grampa Simpson,Moe's Tavern,See? That's your problem. You're a crab. Ladies like sweet talkers.
+40126,177,99,644000,Moe Szyslak,Moe's Tavern,"Hey, I'm sweet. I'm sweeter than Jewish wine."
+40128,177,100,647000,Grampa Simpson,Moe's Tavern,Then prove it. I want you to charm the next pretty young thing that walks through that door.
+40129,177,101,653000,Homer Simpson,Moe's Tavern,"Ah, grrrreetings!"
+40130,177,102,659000,Grampa Simpson,Moe's Tavern,"Son, it's me! I floated up toward heaven, but got lost along the way!"
+40131,177,103,665000,Homer Simpson,Moe's Tavern,Dad? Is that really you?
+40132,177,104,668000,Grampa Simpson,Moe's Tavern,"Darn tootin', ya lousy fink! You buried me naked and sold my suit to buy a ping-pong table! What kind of a son--"
+40133,177,105,676000,Homer Simpson,Moe's Tavern,Call me when you get a karaoke machine.
+40134,177,106,682000,Grampa Simpson,Moe's Tavern,That's the second time he pulled the plug on me.
+40135,177,107,686000,Betty,Moe's Tavern,I was just in a car accident. Can I use your phone?
+40136,177,108,688000,Moe Szyslak,Moe's Tavern,"Uh, usin' the phone's a four-drink minimum."
+40138,177,110,692000,Moe Szyslak,Moe's Tavern,What's the matter? I'm making as nice as I can.
+40139,177,111,694000,Grampa Simpson,Moe's Tavern,Test- lady. Test-lady.
+40140,177,112,697000,Moe Szyslak,Moe's Tavern,G'ahead. Give it a try.
+40141,177,113,698000,Moe Szyslak,Moe's Tavern,It goes by how clammy your hands are.
+40142,177,114,701000,Betty,Moe's Tavern,"Well, I suppose I could use a laugh after that accident."
+40143,177,115,709000,Grampa Simpson,Moe's Tavern,Lovelorn. You-need-man. Moe-near-now. Go-near- Moe.
+40144,177,116,715000,Betty,Moe's Tavern,What?
+40145,177,117,716000,Moe Szyslak,Moe's Tavern,"""Go near Moe."" I'd say that's a pretty strong endorsement. So, how about you and me go out sometime? You know, out back."
+40147,177,119,723000,Moe Szyslak,Moe's Tavern,"I mean, uh, out to dinner at a fancy French restaurant?"
+40149,177,121,728000,Betty,Moe's Tavern,"Sounds great. And if this Love Tester's as accurate as it looks, maybe we'll be having breakfast, too."
+40150,177,122,736000,Moe Szyslak,Moe's Tavern,"You did it, Grampa! You really are a love expert."
+40151,177,123,740000,Grampa Simpson,Moe's Tavern,"Dang right! Fact is, I invented kissing. It was during World War One, and they were looking for a new way to spread germs..."
+40153,177,125,758000,Moe Szyslak,FRENCH RESTAURANT,"Sorry, Grampa, but I gotta stash you in the bathroom so Betty won't get wise to us."
+40154,177,126,765000,Grampa Simpson,FRENCH RESTAURANT,This is not the evening I envisioned.
+40155,177,127,768000,Moe Szyslak,FRENCH RESTAURANT,"Whoa, she just got here. Give me some advice, quick."
+40156,177,128,771000,Grampa Simpson,FRENCH RESTAURANT,"Well, uh, y'know, just be sweet. Pour on the honey. You know."
+40157,177,129,774000,Moe Szyslak,FRENCH RESTAURANT,"Yeah, yeah, yeah, romantic. ""Ain't sunshine pretty?"" ""Ain't flowers stupid?"" I gotcha."
+40158,177,130,782000,Grampa Simpson,FRENCH RESTAURANT,I've suffered so long. Why can't I die?
+40160,177,132,785000,Moe Szyslak,Restaurant,"You know what's great about you, Betty, is you're letting your looks go gracefully. You're not all hung up on looking ""attractive"" and ""desirable"". It's just so rare and refreshing."
+40161,177,133,795000,Betty,Restaurant,"So, Moe, tell me a little about yourself."
+40162,177,134,798000,Moe Szyslak,Restaurant,"Myself? Oh, geez. Um, I gotta go to the can again. I got the runs."
+40164,177,136,810000,Moe Szyslak,Men's Room,"Hey, get away from that! Leave him alone!"
+40165,177,137,812000,Kearney Zzyzwicz,Men's Room,It said I was gay!
+40166,177,138,814000,Moe Szyslak,Men's Room,"You all right, Grampa?"
+40167,177,139,817000,Grampa Simpson,Men's Room,"Ohh... ""Daisy, Daisy, give me your answer true..."""
+40168,177,140,825000,Moe Szyslak,Men's Room,Willya quit yer clownin'?! I need help here.
+40169,177,141,827000,Grampa Simpson,Men's Room,"Well, tell her her rump's as big as a queen's and twice as fragrant."
+40170,177,142,838000,Moe Szyslak,Men's Room,Okay...
+40171,177,143,842000,Moe Szyslak,Men's Room,"You are absolutely, positively the dumbest haunted love tester that I have ever met!"
+40172,177,144,850000,Betty,Men's Room,What is going on in here?
+40173,177,145,852000,Moe Szyslak,Men's Room,"Um, ah, oh, g... I might as well come clean with ya. I ain't too good at talking to women, and... and I really wanted to do ya, so I brought along the love tester to help me. As you may have guessed, it's inhabited by the ghost of my friend's dead father."
+40174,177,146,869000,Betty,Men's Room,"Why you conniving, devious, monstrous, despicable, sweet little angel."
+40175,177,147,877000,Moe Szyslak,Men's Room,"Look, Betty, if you just give me a chance... Whh-aaaattt??!!"
+40176,177,148,880000,Betty,Men's Room,I can't believe you went to all that trouble for me!
+40178,177,150,888000,BETTY & MOE,Men's Room,"Thanks, Grampa!"
+40179,177,151,891000,Grampa Simpson,Men's Room,"Yeah, yeah. Now howzabout introducin' me to that cute little pay phone out front?"
+40181,177,153,905000,Singers,Men's Room,HE'S THE LOVE-MATIC GRAMPA / AND HE FILLED OUR HEARTS WITH LOOOVE!
+40183,177,155,926000,Troy McClure,Museum of TV and Television,"Welcome back. I'm talking with the Curator of the Museum of TV and Television, Mr. John Winslow."
+40185,177,156,932000,Troy McClure,Museum of TV and Television,"In our final spin-off tonight, the Simpson family finally gets the chance to show off the full range of their talents. Unfortunately, one family member didn't want that chance and refused to participate, but thanks to some creative casting, you won't even notice. Show us what ya got, TV!"
+147941,177,158,949000,BROCKMAN,Broadcast Booth,"Live, from Radio City Music Room in downtown Springfield -- it's ""The Simpson Family Smile-Time Variety Hour!"""
+147942,177,160,949000,BROCKMAN,VARIETY SHOW SOUND STAGE,"Featuring ""The Waylon Smithers Dancers!"""
+147943,177,161,949000,BROCKMAN,VARIETY SHOW SOUND STAGE,And the Springfield Baggy-Pants Players!
+147944,177,162,965000,BROCKMAN,VARIETY SHOW SOUND STAGE,"And now, a family that doesn't know the meaning of the word ""cancelled"" -- The Simpsons!"
+40188,177,163,972000,Family,VARIETY SHOW SOUND STAGE,COME ALONG AND BRING THE FAMILY / COME ALONG AND JOIN THE FUN / COME ALONG AND JOIN THE FAMILY / JOIN THE FAMILY SIMP-SON! ROLL CALL!!
+40189,177,164,988000,Marge Simpson,VARIETY SHOW SOUND STAGE,REMEMBER ME? MY NAME IS MARGE! / THE TV MOM WHOSE HAIR IS LARGE!
+40190,177,165,995000,Bart Simpson,VARIETY SHOW SOUND STAGE,"STEP BACK, MOM! IT'S BART'S TURN NOW! / EAT MY SHORTS! DON'T HAVE A COW!"
+40191,177,166,1001000,Lisa,VARIETY SHOW SOUND STAGE,"I'M LISA -- PEPPY, BLONDE, AND STUNNING! / SOPHOMORE PROM QUEEN FIVE YEARS RUNNING! GOOOOOO LISA!"
+40192,177,167,1011000,Bart Simpson,VARIETY SHOW SOUND STAGE,"Wait a minute! Whoa, whoa! Stop the music! Where's Dad?"
+40193,177,168,1019000,Lisa,VARIETY SHOW SOUND STAGE,Here he is!
+40194,177,169,1020000,Homer Simpson,VARIETY SHOW SOUND STAGE,I'm hiding from th-th-th-th-the ghost.
+40195,177,170,1024000,Marge Simpson,VARIETY SHOW SOUND STAGE,Ghost? What ghost?
+40196,177,171,1025000,Homer Simpson,VARIETY SHOW SOUND STAGE,"B-b-before the show, you said we were having a Special Ghost tonight!"
+40197,177,172,1030000,Marge Simpson,VARIETY SHOW SOUND STAGE,I said we were having a special guest tonight -- Mr. Tim Conway.
+40199,177,174,1037000,Homer Simpson,VARIETY SHOW SOUND STAGE,What's a Tim Conway?
+40200,177,175,1038000,Tim Conway,VARIETY SHOW SOUND STAGE,"Oh, about 120 pounds!"
+40202,177,177,1043000,Family,VARIETY SHOW SOUND STAGE,IT'S THE SIMPSON FAMILY SMILE-TIME VARIETY HOOOOUR!
+40203,177,178,1062000,Marge Simpson,VARIETY SHOW SOUND STAGE,"You know Homer, we've all been busy as beavers preparing for our very own show."
+40204,177,179,1067000,Homer Simpson,VARIETY SHOW SOUND STAGE,"Marge, have you ever imagined what it would be like if we really were beavers?"
+40205,177,180,1072000,Marge Simpson,VARIETY SHOW SOUND STAGE,Yes! And it might look something like this...
+40206,177,181,1080000,Homer Simpson,VARIETY SHOW SOUND STAGE,"Honey, I'm home!"
+40184,177,182,1085000,Marge Simpson,VARIETY SHOW SOUND STAGE,"Hello, dear. How was work at the plant?"
+40207,177,183,1088000,Homer Simpson,VARIETY SHOW SOUND STAGE,"It's not a plant, Marge, it's a tree, and I've nearly chewed through it. Now remember, my new boss is coming home for dinner tonight."
+40208,177,184,1096000,Marge Simpson,VARIETY SHOW SOUND STAGE,I know. And I made your favorite --
+40209,177,185,1096000,Marge Simpson,VARIETY SHOW SOUND STAGE,Stakes!
+40210,177,186,1102000,Bart Simpson,VARIETY SHOW SOUND STAGE,"Hey, would you two close the dam door?"
+40211,177,187,1104000,Marge Simpson,VARIETY SHOW SOUND STAGE,Bart!
+40212,177,188,1105000,Bart Simpson,VARIETY SHOW SOUND STAGE,But that's where we live -- a dam.
+40214,177,190,1109000,Lisa,VARIETY SHOW SOUND STAGE,"Look everybody, Maggie got her first tooth!"
+40216,177,192,1117000,Homer Simpson,VARIETY SHOW SOUND STAGE,"Okay. Now, before my boss comes, there's something important you should know --"
+40217,177,193,1123000,Marge Simpson,VARIETY SHOW SOUND STAGE,"In a minute, Homie. I have to get the door."
+40218,177,194,1125000,Homer Simpson,VARIETY SHOW SOUND STAGE,"But, Marge...!"
+40221,177,197,1132000,Tim Conway,VARIETY SHOW SOUND STAGE,"Oh, was it something I said?"
+40222,177,198,1134000,Captain Horatio McCallister,VARIETY SHOW SOUND STAGE,Arr! Someone should be keel-hauled for that one!
+40223,177,199,1140000,Judge Snyder,VARIETY SHOW SOUND STAGE,I move that the last sketch be stricken from the record. Now bring in the next offender...
+40225,177,201,1147000,Marge Simpson,50'S ICE CREAM PARLOR,"Inflation, trade deficit, horrible war atrocities... how are we supposed to do our big musical number with so many problems in the world?"
+40226,177,202,1155000,Homer Simpson,50'S ICE CREAM PARLOR,"Well, I know one thing in this world that's still pure and good."
+40227,177,203,1158000,Marge Simpson,50'S ICE CREAM PARLOR,Christian love?
+40228,177,204,1160000,Homer Simpson,50'S ICE CREAM PARLOR,"No... Candy! Sweet, sweet candy."
+40229,177,205,1169000,Homer Simpson,50'S ICE CREAM PARLOR,I WANT CANDY!
+40230,177,206,1171000,Marge Simpson,50'S ICE CREAM PARLOR,But don't you want to end world famine?
+40231,177,207,1174000,Bart Simpson,50'S ICE CREAM PARLOR,I WANT CANDY!
+40232,177,208,1176000,Marge Simpson,50'S ICE CREAM PARLOR,Or save the endangered Alaskan salmon?
+40233,177,209,1179000,Lisa,50'S ICE CREAM PARLOR,I WANT CANDY!
+40234,177,210,1181000,Marge Simpson,50'S ICE CREAM PARLOR,"Well, if you won't think of society's ills..."
+40235,177,211,1183000,Homer Simpson,50'S ICE CREAM PARLOR,I WANT CANDY!
+40236,177,212,1185000,Marge Simpson,50'S ICE CREAM PARLOR,At least think of our dentist bills!
+40237,177,213,1193000,Lisa,50'S ICE CREAM PARLOR,GOT A NEW DANCE AND IT GOES LIKE THIS / AND THE NAME OF THE DANCE IS THE PEPPERMINT TWIST! YEAH!
+40238,177,214,1205000,Jasper Beardly,50'S ICE CREAM PARLOR,"LOLLIPOP, LOLLIPOP, OH LOLLY-LOLLYPOP. LOLLIPOP!"
+39080,177,215,1212000,Jasper Beardly,50'S ICE CREAM PARLOR,Ow.
+40239,177,216,1215000,Waylon Smithers,50'S ICE CREAM PARLOR,CRACK THAT WHIP! LICORICE WHIP! I SAID WHIP IT! LICORICE WHIP!
+40240,177,217,1234000,All,50'S ICE CREAM PARLOR,WE WANT CANDY! / WE WANT CANDY!
+40241,177,218,1243000,All,50'S ICE CREAM PARLOR,CANDY!!
+40244,177,221,1250000,Hans Moleman,50'S ICE CREAM PARLOR,A Poem. By Hans Moleman. I think that I shall never see / My cataracts are blinding me.
+40245,177,222,1261000,Tim Conway,50'S ICE CREAM PARLOR,And they thought I stunk!
+40246,177,223,1265000,Marge Simpson,50'S ICE CREAM PARLOR,"Well, it's time to say ""good night."""
+40247,177,224,1268000,Homer Simpson,50'S ICE CREAM PARLOR,I wish our special guest Tim Conway didn't have to leave so soon.
+40248,177,225,1272000,Tim Conway,50'S ICE CREAM PARLOR,I'm still here. FOX wouldn't spring for a decent hotel room.
+40250,177,227,1277000,Marge Simpson,50'S ICE CREAM PARLOR,"He's just kidding. We'd like to thank FOX, and the good people at Budget Lodge."
+40251,177,228,1283000,Homer Simpson,50'S ICE CREAM PARLOR,"Well, that's all the time we have. So this is the Simpson family saying: ""As you walk down the road of life..."""
+40252,177,229,1283000,Bart Simpson,50'S ICE CREAM PARLOR,Hitchhike -- it's faster!
+40253,177,230,1291000,Lisa,50'S ICE CREAM PARLOR,Ba-art!
+40254,177,231,1293000,Marge Simpson,50'S ICE CREAM PARLOR,We're like this all the time!
+40255,177,232,1296000,Family,50'S ICE CREAM PARLOR,"Good night, everybody!"
+40257,177,234,1303000,Troy McClure,Museum of TV and Television,"And that's it for our Spin-off Showcase. But what about the show that started it all? How do you keep ""The Simpsons"" fresh and funny after eight long years? Well, here's what's on tap for Season Nine:"
+40258,177,235,1313000,Troy McClure,Museum of TV and Television,Magic powers!
+40259,177,236,1318000,Troy McClure,Museum of TV and Television,Wedding after wedding after wedding!
+40260,177,237,1321000,Troy McClure,Museum of TV and Television,"And did someone say ""long-lost triplets""?"
+40261,177,238,1324000,Troy McClure,Museum of TV and Television,"So join America's favorite TV family... and a tiny green space alien named Osmodiar that only Homer can see...on FOX this fall. It'll be out-of-this-world! Right, Osmodiar?"
+40262,177,239,1339000,Ozmodiar,Museum of TV and Television,"Damn straight, Troy, my man!"
+40263,177,240,1341000,OSMODIAR AND TROY,Museum of TV and Television,"Goodnight, America!"

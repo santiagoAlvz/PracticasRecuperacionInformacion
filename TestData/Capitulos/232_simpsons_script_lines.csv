@@ -1,0 +1,233 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+56274,232,1,86000,Homer Simpson,Simpson Home,Snooze... need more snooze.
+56275,232,2,111000,Marge Simpson,Simpson Home,"Num num, Maggie. Num num."
+56276,232,3,114000,Homer Simpson,Simpson Home,Did somebody say num num?
+56277,232,4,117000,Marge Simpson,Simpson Home,I can't get Maggie to eat. Maybe if you try...
+56278,232,5,121000,Homer Simpson,Simpson Home,"Oh, I'm twenty-six hours late for work. No time for Maggie."
+56279,232,6,124000,Homer Simpson,Simpson Home,"Oooh, where's Waldo?"
+56280,232,7,124000,Homer Simpson,Simpson Home,"Nope. Nope. This would be a lot easier without all these people. Nope. Nope. It's there-- Uh, nope."
+56281,232,8,132000,Marge Simpson,Simpson Home,Homer!
+56282,232,9,133000,Homer Simpson,Simpson Home,"Waldo, where are you?!"
+56284,232,11,140000,Dj,Freeway,"And it is a nightmare out there on the freeways today, with surface streets jammed and the sidewalks filled with pushy New Yorkers."
+56285,232,12,149000,New Yorker,Freeway,"Hey! How'd you like a ""Details"" magazine up the wazoo?"
+56287,232,14,159000,Homer Simpson,Freeway,Oh sure. Single me out.
+56288,232,15,162000,Chief Wiggum,Freeway,"All right, smart guy. Where's the fire?"
+56289,232,16,165000,Homer Simpson,Freeway,Over there.
+56290,232,17,169000,Chief Wiggum,Freeway,"Okay, you just bought yourself a 3-17: pointing out police stupidity. Or is that a 3-14? Nah, nah, a 3-14 is a dog, ah in... no, or is that a 3-15? You're in trouble, pal."
+56292,232,19,186000,Homer Simpson,Springfield Nuclear Power Plant,"Heh, heh. I'd hate to see the look on ol' Burnsie's face if he knew I was just gettin' in. Hee hee."
+56294,232,21,194000,Homer Simpson,Springfield Nuclear Power Plant,"Mmm, who is that? Big ugly nose... bald... liver spot... liver spot... Mmmm."
+56296,232,23,210000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Turn around, Simpson."
+56297,232,24,211000,Homer Simpson,Springfield Nuclear Power Plant,No! I can't get in trouble if I can't see you.
+56298,232,25,214000,Waylon Smithers,Springfield Nuclear Power Plant,"I'm afraid he's got us, sir."
+56300,232,27,223000,Homer Simpson,Springfield Nuclear Power Plant,Safe in the core. And now...
+56301,232,28,227000,Waylon Smithers,Springfield Nuclear Power Plant,"Don't forget the leg protectors, sir."
+56302,232,29,227000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ah, yes."
+56304,232,31,233000,C. Montgomery Burns,Springfield Nuclear Power Plant,I knew I had those installed for a reason.
+56306,232,33,244000,Homer Simpson,Springfield Nuclear Power Plant,This is the worst day ever.
+56307,232,34,247000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey Homer, what gives?"
+56308,232,35,248000,Homer Simpson,Springfield Nuclear Power Plant,Mr. Burns is making me eat all these drums of toxic waste.
+56309,232,36,252000,Carl Carlson,Springfield Nuclear Power Plant,"Geez, that's rough. There must be two, three hundred gallons in here."
+56310,232,37,255000,Lenny Leonard,Springfield Nuclear Power Plant,"Yeah, and even a teaspoon could cause a fatal tumor."
+56311,232,38,259000,Carl Carlson,Springfield Nuclear Power Plant,"Hey, you wanna come bowling with us tonight?"
+56312,232,39,261000,Homer Simpson,Springfield Nuclear Power Plant,Okay.
+56314,232,41,266000,Marge Simpson,Simpson Home,Hello? Homer? Where are you? You promised you were going to have a tea party with Maggie.
+56317,232,44,274000,Homer Simpson,Simpson Living Room,"Oh, Marge, I'm sorry. I can't make it."
+56319,232,46,276000,Homer Simpson,Barney's Bowlarama,The cooling tank just blew and they're taking Lenny to the hospital.
+56320,232,47,280000,Marge Simpson,Barney's Bowlarama,"Oh no, not Lenny. Not Lenny!"
+56321,232,48,284000,Homer Simpson,Barney's Bowlarama,"Yeah, so I'm going to have to work late, instead of seeing you and the kids, which is what I really want."
+56322,232,49,289000,Marge Simpson,Barney's Bowlarama,"Okay, sure."
+56323,232,50,291000,Marge Simpson,Barney's Bowlarama,"Kids, turn off the TV. I have some bad news about Lenny."
+56324,232,51,297000,Lisa Simpson,Barney's Bowlarama,Not Lenny!
+56325,232,52,300000,Lenny Leonard,Barney's Bowlarama,"Hey, Carl. Check out the overhead scoreboard."
+56326,232,53,305000,Carl Carlson,Barney's Bowlarama,"Poo. Uh, Homer, what wacky name do you want?"
+56327,232,54,308000,Homer Simpson,Barney's Bowlarama,Are poo and ass taken?
+56328,232,55,310000,Carl Carlson,Barney's Bowlarama,Yeah.
+56329,232,56,310000,Homer Simpson,Barney's Bowlarama,Damn! Could my life get any worse?!
+56330,232,57,314000,Burns Ball,Barney's Bowlarama,"Simpson! Even for a bowler, you're fat!"
+56331,232,58,318000,Homer Simpson,Barney's Bowlarama,"Hey, guys. Is it normal to see Burns' face on a bowling ball?"
+56332,232,59,322000,Lenny Leonard,Barney's Bowlarama,"Uhh, actually, I'd say you're having a severe psychotic episode."
+56333,232,60,324000,Homer Simpson,Barney's Bowlarama,What a rotten day!
+56335,232,61,330000,Lenny Leonard,Barney's Bowlarama,"Wow, a strike. Hey, if that's psychotic, then why am I taking these?"
+56338,232,64,339000,Milhouse Van Houten,Barney's Bowlarama,You're polishing bone!
+56339,232,65,347000,Lenny Leonard,Barney's Bowlarama,"Hey, Homer. That's four strikes in a row. You got a perfect game going!"
+56340,232,66,349000,Homer Simpson,Barney's Bowlarama,Really?
+56341,232,67,351000,Carl Carlson,Barney's Bowlarama,"Careful what you say, Lenny. You'll jinx it."
+56342,232,68,353000,Lenny Leonard,Barney's Bowlarama,"Oh, right. Sorry."
+56343,232,69,355000,Lenny Leonard,Barney's Bowlarama,Miss! Miss!
+56344,232,70,358000,Lenny Leonard,Barney's Bowlarama,"Sorry, I was calling the waitress."
+56345,232,71,360000,Lenny Leonard,Barney's Bowlarama,"Ah, this split you sold me is making me choke."
+56346,232,72,363000,Homer Simpson,Barney's Bowlarama,Lenny...
+56347,232,73,364000,Lenny Leonard,Barney's Bowlarama,What? I paid seven-ten for this split.
+56348,232,74,366000,Carl Carlson,Barney's Bowlarama,"Will you at least call it a banana split, you dumbwad?"
+56349,232,75,369000,Lenny Leonard,Barney's Bowlarama,"Hey, spare me your gutter mouth."
+56350,232,76,372000,Lenny Leonard,Barney's Bowlarama,Ow!
+56351,232,77,383000,Homer Simpson,Barney's Bowlarama,Practice ball! Practice ball!
+56352,232,78,386000,Homer Simpson,Barney's Bowlarama,Real real real real real!
+56353,232,79,388000,Homer Simpson,Barney's Bowlarama,Woo hoo!
+56355,232,81,392000,Krusty the Clown,Simpson Home,"Kids, today we have to talk about Krusty Brand Chew-Goo gum-like substance."
+56356,232,82,396000,Krusty the Clown,Simpson Home,"We knew it contained spider eggs, but the Hantavirus, well, that really came out of left field."
+56357,232,83,402000,Krusty the Clown,Simpson Home,"So if any of you have experienced numbness, or comas, send proof of purchase and five dollars to..."
+56358,232,84,402000,Krusty the Clown,Simpson Home,"""ANTIDOTE, P.O. BOX 14..."""
+56359,232,85,412000,Kent Brockman,Simpson Home,"This is Kent Brockman live from Barney's Bowlarama, where local ""pin-head"" Homer Simpson is on the verge of a perfect game."
+56360,232,86,419000,Lisa Simpson,Simpson Home,"Hey, there was no accident at the plant. Dad just wanted to go bowling!"
+56361,232,87,424000,Marge Simpson,Simpson Home,"He shouldn't have deceived me, but I'm just so relieved Lenny's okay."
+56362,232,88,430000,Kent Brockman,Simpson Home,"This could be the greatest individual achievement in the history of Springfield, which proves just how pitiful this town is."
+56363,232,89,438000,Kent Brockman,Simpson Home,Morons.
+56365,232,91,439000,Crowd,Barney's Bowlarama,Ho-mer! Ho-mer! Ho-mer!
+56367,232,92,447000,Homer Simpson,Barney's Bowlarama,Woo hoo! I'm ten pins away from perfection.
+56368,232,93,453000,Marge Simpson,Barney's Bowlarama,"Now listen, your father really needs to concentrate. So we'll just stay here and not disturb him."
+56369,232,94,459000,Homer Simpson,Barney's Bowlarama,Why won't they come over? I'm so lonely.
+56370,232,95,463000,Kent Brockman,Barney's Bowlarama,"This is it, folks. The ball that will determine whether Homer Simpson rolls a perfect game or a pathetic two-ninety-something."
+56371,232,96,477000,Grampa Simpson,Barney's Bowlarama,Yay! Yay!
+56372,232,97,478000,Dr. Julius Hibbert,Barney's Bowlarama,"What's wrong, Abe?"
+56373,232,98,480000,Grampa Simpson,Barney's Bowlarama,This is as fast as I move now.
+56375,232,100,495000,Homer Simpson,Barney's Bowlarama,"Get down, get down, get down!"
+56377,232,102,520000,Homer Simpson,Alley,Woo hoo! This is the greatest day of my life!
+56379,232,104,532000,Marge Simpson,Barney's Bowlarama,"You did it, Homie!"
+56380,232,105,535000,Homer Simpson,Barney's Bowlarama,"In your face, to-do list!"
+56381,232,106,537000,Crowd,Barney's Bowlarama,Ho-mer! Ho-mer!
+56382,232,107,538000,Homer Simpson,Barney's Bowlarama,"Thank you! Thank you! But there was someone else with me on that alley. I'm talkin' about the big man, Carl."
+56383,232,108,547000,Carl Carlson,Barney's Bowlarama,"Aw, can the corn, bonehead."
+56386,232,111,553000,Edna Krabappel-Flanders,Springfield Elementary School,"Children, today's Local Hero is Homer Simpson."
+56388,232,113,558000,Edna Krabappel-Flanders,Springfield Elementary School,"Mr. Simpson bowled a perfect game without the aid of steroids, crack, angel dust, or the other narcotics that are synonymous with pro bowling."
+56389,232,114,567000,Homer Simpson,Springfield Elementary School,"Thank you, Bart's teacher. You know, kids, my teachers said I would never amount to anything. And until last week, they were dead right. But now I've achieved perfection."
+56390,232,115,585000,Homer Simpson,Springfield Elementary School,Any questions?
+56391,232,116,587000,Homer Simpson,Springfield Elementary School,"Yes, Bart's weird friend."
+56392,232,117,588000,Milhouse Van Houten,Springfield Elementary School,Will you be my Dad?
+56393,232,118,590000,Homer Simpson,Springfield Elementary School,You've got a father. He's just a dud.
+56394,232,119,592000,Homer Simpson,Springfield Elementary School,Next question.
+56395,232,120,594000,Homer Simpson,Springfield Elementary School,"Yes, the girl Bart has a crush on."
+56396,232,121,594000,Sherri Mackleberry,Springfield Elementary School,Do you think I could grow up to be a doctor?
+56398,232,122,599000,Homer Simpson,Springfield Elementary School,"Hey, this was supposed to be about me. Now, any other questions? Pumpkin face? Headgear? Chicken pox? Smelly? Lazy eye? Spikey head? Okay, class dismissed. Rock on!"
+56399,232,123,615000,Kids,Springfield Elementary School,Hurray! / Yayyy! / Woooo!
+56400,232,124,615000,Edna Krabappel-Flanders,Springfield Elementary School,Wanna split the birthday cupcakes?
+56402,232,126,617000,Announcer,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Live from Shelbyville, it's the Springfield Squares! Featuring our new center square, Homer ""Perfect Game"" Simpson!"
+56403,232,127,629000,Ron Howard,"""SPRINGFIELD SQUARES"" GAMESHOW SET","There's a stairway, dumbass!"
+56404,232,128,632000,Kent Brockman,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Okay, we'll start with our returning champion, Disco Stu."
+56405,232,129,635000,Disco Stu,"""SPRINGFIELD SQUARES"" GAMESHOW SET",Disco Stu's gonna groove up some dough playin' Tic Tac Toe!
+56406,232,130,640000,Kent Brockman,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Uh, Stu, we like to downplay the resemblance to ""Tic Tac Toe."""
+56407,232,131,643000,Disco Stu,"""SPRINGFIELD SQUARES"" GAMESHOW SET",I can dig it. Hit me with the center square.
+56408,232,132,646000,Kent Brockman,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Uhhh, Homer..."
+56409,232,133,647000,Homer Simpson,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Yes, Kent?"
+56410,232,134,648000,Kent Brockman,"""SPRINGFIELD SQUARES"" GAMESHOW SET","According to Redbook Magazine, what is the speed of light?"
+56411,232,135,652000,Homer Simpson,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Well... that would... uh, wait... uh... do I read from the sheet labeled ""Jokes"" or ""Answers?"""
+56412,232,136,658000,Kent Brockman,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Oh, for the l... stop tape!"
+56413,232,137,660000,Ron Howard,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Make me center square, Kent! I'm ready. I can handle it."
+56414,232,138,663000,Homer Simpson,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Dream on, Drunky!"
+56415,232,139,663000,Ron Howard,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Oh, that's it! You're going down!"
+56416,232,140,669000,Itchy,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Stop it, you two! You're making Scratchy cry."
+56417,232,141,672000,Kent Brockman,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Ohh, we've got to stop putting these flavors of the month on."
+56418,232,142,675000,Homer Simpson,"""SPRINGFIELD SQUARES"" GAMESHOW SET",Flavor of the month? Me?
+56419,232,143,677000,Ron Howard,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Yeah, Homer, you can't just ride one accomplishment forever. Why do you think I stopped acting and became a director?"
+56420,232,144,683000,Homer Simpson,"""SPRINGFIELD SQUARES"" GAMESHOW SET",I 'unno... Because you weren't cute anymore?
+56421,232,145,686000,Disco Stu,"""SPRINGFIELD SQUARES"" GAMESHOW SET",Mmm... I'll agree.
+56422,232,146,688000,Kent Brockman,"""SPRINGFIELD SQUARES"" GAMESHOW SET","Circle gets the square. Goodnight, everyone."
+56426,232,149,695000,PENN,Springfield Civic Center,"Now before my partner Teller hits the shark-infested water, I'll need to borrow someone's crossbow."
+56427,232,150,702000,PENN,Springfield Civic Center,I only need one.
+56428,232,151,707000,PENN,Springfield Civic Center,"Now to save my partner's life, I'll need complete..."
+56429,232,152,709000,Homer Simpson,Springfield Civic Center,"Hello, everybody!"
+56430,232,153,711000,Homer Simpson,Springfield Civic Center,Did somebody say a perfect game?
+56431,232,154,714000,PENN,Springfield Civic Center,You idiot! You'll ruin everything!
+56432,232,155,717000,Homer Simpson,Springfield Civic Center,I'm doing a walk-on. It's a show business thing. So how y'all doin'? Let's see... What's in the news today?
+56433,232,156,724000,Teller,Springfield Civic Center,Would you shut up?!
+56434,232,157,726000,Homer Simpson,Springfield Civic Center,"Hey, I thought you never talked."
+56435,232,158,727000,Teller,Springfield Civic Center,"Uh, I didn't mean to! Huh. It just slipped out! Oh God, now Penn's gonna beat me!"
+56436,232,159,733000,PENN,Springfield Civic Center,"Folks, it's all part of the act."
+56437,232,160,735000,Teller,Springfield Civic Center,"No, it isn't! Don't leave me alone with him!"
+56438,232,161,738000,PENN,Springfield Civic Center,You've ruined the act! I'm gonna kill you!
+56439,232,162,740000,Teller,Springfield Civic Center,He'll do it! I'm not the first Teller!
+56440,232,163,742000,Homer Simpson,Springfield Civic Center,"Remember Springfield, keep on swinging!"
+56441,232,164,745000,PENN,Springfield Civic Center,"Hey, come here! I, I just wanna talk to ya! Come here! Come here!"
+56442,232,165,749000,Teller,Springfield Civic Center,Ooh! Ooh! Guys?
+56444,232,167,752000,Smiley the Elf,Simpson Living Room,"Remember: in the whole world, there's nobody like you. You're special."
+56445,232,168,759000,Happy The Elf,Simpson Living Room,Who's special?
+56446,232,169,761000,Giggly The Elf,Simpson Living Room,That's right! You are!
+56447,232,170,763000,Homer Simpson,Simpson Living Room,"Hey, everybody! I'm gonna be on TV again."
+56448,232,171,771000,Homer Simpson,Simpson Living Room,That's right. You've got a special daddy.
+56449,232,172,776000,Pat O'Brien,Simpson Living Room,"Burt Reynolds apologized to the Pope, and promised to replace the windshield."
+56450,232,173,780000,Nancy O'Dell,Simpson Living Room,"Burt Reynolds, class act. Well now, for our segment, ""Yesterday's News""... featuring Homer Simpson. Are you as bored as I am with the antics of this warmed-over Fred Flintstone? I say it's time to put this one-trick pony out to stud."
+56451,232,174,793000,Homer Simpson,Simpson Living Room,"Woo hoo! First stop, Maude Flanders."
+56452,232,175,796000,Marge Simpson,Simpson Living Room,Homer!
+56453,232,176,797000,Homer Simpson,Simpson Living Room,But she said I...
+56454,232,177,798000,Lisa Simpson,Simpson Living Room,"Dad, what she's saying is you've had your moment in the sun and now it's time for you to gracefully step aside."
+56455,232,178,804000,Homer Simpson,Simpson Living Room,"Lisa, I know what's going on here. They did it to Jesus and now they're doing it to me."
+56456,232,179,809000,Marge Simpson,Simpson Living Room,Are you comparing yourself to our Lord?
+56457,232,180,812000,Homer Simpson,Simpson Living Room,"Well, in bowling ability."
+56459,232,182,815000,Homer Simpson,Simpson Home,Sweet bowling alley balloon. You're my only friend.
+56460,232,183,823000,Homer Simpson,Simpson Home,What was that about?
+56461,232,184,827000,Homer Simpson,Simpson Home,"Marge, has my life peaked?"
+56462,232,185,828000,Marge Simpson,Simpson Home,"Ohhh, Homey, is that what's bothering you?"
+56463,232,186,832000,Homer Simpson,Simpson Home,Mm-hmmm.
+56464,232,187,833000,Marge Simpson,Simpson Home,Well the one sure cure for the blues is to talk it over with your life partner.
+56465,232,188,839000,Homer Simpson,Simpson Home,You're right!
+56467,232,190,840000,Homer Simpson,Moe's Tavern,"I can't believe it, Moe. The greatest feat of my life is already forgotten."
+56468,232,191,845000,Moe Szyslak,Moe's Tavern,"Geez, Homer. I never seen you so depressed. As your life partner, I'm very worried."
+56469,232,192,850000,Homer Simpson,Moe's Tavern,"Save your tears, Moe. Save 'em in a shot glass for someone who still has a shred of hope."
+56470,232,193,857000,Moe Szyslak,Moe's Tavern,"A shreda what? Uh, sorry, I was countin' the cocktail radishes."
+56471,232,194,862000,Moe Szyslak,Moe's Tavern,"Now where was I? Uh, two... three... Three radishes. Three big radishes."
+56473,232,196,869000,Homer Simpson,Springfield Streets,"THIS IS THE END / MY ONLY FRIEND, THE END / WEIRD SCENES INSIDE THE GOLD MINE..."
+56475,232,198,904000,Homer Simpson,SPRINGFIELD STATE BUILDING,"Well, world, this is it. You know, I always thought you'd die before me. But now as I prepare my soul for an eternity of fire and poking..."
+56476,232,199,913000,Man In Line,SPRINGFIELD STATE BUILDING,"Yeah, less chat, more splat, pal!"
+56479,232,202,924000,Otto Mann,Springfield Trade Center,"Hey, Mr. S. I didn't know you bungeed."
+56480,232,203,927000,Homer Simpson,Springfield Trade Center,I wanna live!
+56481,232,204,929000,Otto Mann,Springfield Trade Center,"No, no! You're too heavy!"
+56482,232,205,930000,Homer Simpson,Springfield Trade Center,It's a glandular problemmmm!
+56484,232,207,933000,Homer Simpson,Underground Chamber,"Oooh, Morlocks... CHUDS... Mole People!"
+56485,232,208,941000,Hans Moleman,Underground Chamber,There is no escape from the Fortress of the Moles.
+56486,232,209,945000,Hans Moleman,Underground Chamber,"Well, except that."
+56366,232,211,947000,Homer Simpson,Street,Ow!
+56487,232,212,951000,Homer Simpson,Street,"Oh, Lord... you saved me. I guess you had some higher purpose in mind."
+56488,232,213,957000,Ron Howard,Street,"Hey, look out!"
+56489,232,214,958000,Ron Howard,Street,"Oh, dumbass, trying to get yourself killed?"
+56490,232,215,961000,Homer Simpson,Street,"Not anymore, Ron. Now, I'm looking for something to dedicate my life to. Something noble, but easy."
+56491,232,216,967000,Boy In Car,Street,"Daddy, stop talking to that bum."
+56492,232,217,970000,Ron Howard,Street,"Look, I'd love to help you out, Homer, but I'm taking my kids to the zoo."
+56493,232,218,973000,Homer Simpson,Street,That's great. Even big stars take their kids to the zoo.
+56494,232,219,978000,Ron Howard,Street,"Well, it's a different zoo, containing animals you've never heard of."
+56495,232,220,982000,Girl In Car,Street,"Daddy, we're missing the fantasti-potamus. She only sings twice a day!"
+56496,232,221,987000,Homer Simpson,Street,That's it! Kids are the answer! I'll dedicate my life to my children.
+56497,232,222,993000,Ron Howard,Street,"Really? You have children? Oh, well look, here's some money."
+56498,232,223,997000,Homer Simpson,Street,No. I don't want your pity or your money.
+56499,232,224,1002000,Ron Howard,Street,"Usually when you say that, you give the money back."
+56500,232,225,1005000,Homer Simpson,Street,I do what now?
+56501,232,226,1006000,Ron Howard,Street,Yoink!
+56503,232,228,1007000,Homer Simpson,Bart's Bedroom,"Listen, boy... I was wondering if you could use a little more fatherly attention."
+56504,232,229,1012000,Bart Simpson,Bart's Bedroom,"No need, Dad. Over the years I've learned to find father figures wherever I can... construction workers, the internet... and Nelson, here."
+56505,232,230,1019000,Nelson Muntz,Bart's Bedroom,"If you tie a string around your finger real tight, you can make it turn purple."
+56506,232,231,1024000,Homer Simpson,Bart's Bedroom,I can see I'm not needed here.
+56508,232,233,1028000,Homer Simpson,Lisa's Bedroom,"Lisa, honey, do you need any help with your homework?"
+56509,232,234,1031000,Lisa Simpson,Lisa's Bedroom,"Sure! You can help me find three words where ""y"" is the vowel."
+56511,232,236,1039000,Homer Simpson,Simpson Home,"I've been so blind. I'll lavish my attention on Maggie, the forgotten Simpson."
+56512,232,237,1044000,Homer Simpson,Simpson Home,"Mag-gie. It's me, Dad-dy!"
+56513,232,238,1048000,Homer Simpson,Simpson Home,Daddy's gonna spend a lot more time with you. Yes he is. Yes he is.
+56515,232,240,1060000,Homer Simpson,Simpson Home,"Where's Mag-gie? Where's Mag-gie? Hey, where is she?"
+56516,232,241,1065000,Homer Simpson,Simpson Home,There you are.
+56517,232,242,1069000,Homer Simpson,Simpson Home,"Hi Maggie! I'm Homie-Womie, the Teletubby. And I'm all man, in case you've heard otherwise. Let's see what's on Tummy-vision!"
+56518,232,243,1078000,Homer Simpson,Simpson Home,"Ow! Ow, that hurts! Owww! Ohhh!"
+56520,232,245,1082000,Homer Simpson,Backyard,"Whee! Whee! Don't be scared, Maggie. Daddy won't drop you. Whee!"
+56521,232,246,1100000,Homer Simpson,Backyard,"You're a tough cookie, Maggie, but I'm gonna win you over. Just like I did with Lisa."
+56522,232,247,1105000,Homer Simpson,Backyard,"Hi, honey!"
+56524,232,249,1110000,Instructor,Springfield YMCA,"Okay, Dads. This is where your child's trust in you really pays off."
+56527,232,252,1118000,Homer Simpson,Springfield YMCA,"C'mon, Maggie. You can trust me."
+56528,232,253,1120000,Homer Simpson,Springfield YMCA,Come to Daddy! Come to Daddy!
+56531,232,256,1129000,Homer Simpson,Homer's Car,"I'm sorry, Maggie. I never realized things between us had gotten this bad."
+56532,232,257,1137000,Homer Simpson,Homer's Car,What are you pointing at? The ocean?
+56533,232,258,1142000,Homer Simpson,Homer's Car,That's a great idea. We'll swim in the ocean.
+56535,232,260,1147000,Homer Simpson,Beach,"See, Maggie. The ocean is just like a bathtub. Except instead of rubber ducks, it has barracudas and moray eels."
+56536,232,261,1160000,Homer Simpson,Beach,Nothing to worry about. Just a little wave.
+56537,232,262,1162000,Homer Simpson,Beach,"And this riptide is certainly nothing Daddy can't struggle against. Help! Help! Somebody, help!"
+56538,232,263,1170000,Homer Simpson,Beach,"Oh, current... too strong... I know! If I sink to the bottom I can run to the shore."
+56539,232,264,1188000,Homer Simpson,Beach,Maggie! Call Aquaman!
+56542,232,267,1214000,Homer Simpson,Ocean,"Maggie, you're swimming! You swam out to save me."
+56543,232,268,1221000,Homer Simpson,Ocean,"Oh, you do love me!"
+56545,232,270,1229000,Dr. Julius Hibbert,Beach,"Mr. Simpson, you're going to be fine. Although you do seem to have swallowed a number of shark eggs."
+56546,232,271,1234000,Homer Simpson,Beach,"Actually, that was before I went in the ocean."
+56547,232,272,1237000,Dr. Julius Hibbert,Beach,"Well, I don't want to pry into your personal life..."
+56548,232,273,1239000,Homer Simpson,Beach,Then don't.
+56549,232,274,1240000,Marge Simpson,Beach,"Doctor, how could a little baby save a full-grown man from drowning?"
+56550,232,275,1246000,Dr. Julius Hibbert,Beach,"It's quite simple -- When a parent's life is in danger, a child can summon superhuman strength."
+56551,232,276,1251000,Homer Simpson,Beach,"Well, all I care about is that my little girl loves me. And we're gonna spend a lot more time together from now on."
+56553,232,278,1271000,Homer Simpson,Barney's Bowlarama,"Good girl, Maggie. You knocked down all the pins. But you stepped over the line just a little bit, so I'll have to give you a five."
+56554,232,279,1278000,Homer Simpson,Barney's Bowlarama,And that gives you a final score of... two ninety-five.
+56555,232,280,1284000,Homer Simpson,Barney's Bowlarama,"Looks like Daddy won, but two ninety-five is awfully good for a baby."
+56557,232,282,1290000,Homer Simpson,Barney's Bowlarama,Yes it is. It's very good and you're a good little baby. Yes you are.

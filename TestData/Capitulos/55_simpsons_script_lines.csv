@@ -1,0 +1,249 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+6900,55,1,87000,Lisa Simpson,Movie Theatre,"Look dad, there's a spot."
+6902,55,3,90000,Marge Simpson,Movie Theatre,"Oh, there's a spot, dear."
+6903,55,4,94000,Homer Simpson,Movie Theatre,"Oooh, there's a good one."
+6904,55,5,96000,Marge Simpson,Movie Theatre,"That spot says ""compact only""."
+6905,55,6,96000,Homer Simpson,Movie Theatre,"Marge, that's just a suggested car size."
+6906,55,7,105000,Homer Simpson,Movie Theatre,Easy... easy... How'm I doing on the right?
+6907,55,8,110000,Lisa Simpson,Movie Theatre,"Uh, we're getting a lot of sparks over here, dad."
+6908,55,9,112000,Homer Simpson,Movie Theatre,"Uh huh... easy... easy... perfect. All right, everybody out the window."
+6910,55,11,120000,Homer Simpson,Springfield Googolplex Theatres,"Ooh, they all look great."
+6911,55,12,122000,Marge Simpson,Springfield Googolplex Theatres,"So, what are we going to see?"
+6912,55,13,124000,Bart Simpson,Springfield Googolplex Theatres,"""Ernest Cuts The Cheese""!"
+6913,55,14,125000,Lisa Simpson,Springfield Googolplex Theatres,"""Honey, I Hit A School Bus""!"
+6914,55,15,126000,Homer Simpson,Springfield Googolplex Theatres,"""Look Who's Oinking""! ""Look Who's Oinking""!"
+6915,55,16,128000,Marge Simpson,Springfield Googolplex Theatres,"Well, since we'll never agree, why don't you kids pick a movie, your dad and I will pick a movie, then we'll all meet in the lobby later. Hmm?"
+6763,55,17,135000,Lisa Simpson,Springfield Googolplex Theatres,"Thanks, Mom."
+6881,55,19,137000,Homer Simpson,Springfield Googolplex Theatres,Two tickets for...
+6882,55,20,138000,Ticket Man,Springfield Googolplex Theatres,"Let me guess. ""Look Who's Oinking""?"
+6916,55,21,139000,Homer Simpson,Springfield Googolplex Theatres,That's right.
+6917,55,22,140000,Ticket Man,Springfield Googolplex Theatres,Sold out.
+6919,55,24,142000,Marge Simpson,Springfield Googolplex Theatres,Maybe we could see something a little more adult.
+6920,55,25,144000,Homer Simpson,Springfield Googolplex Theatres,"Why Marge, you frisky little devil."
+6921,55,26,148000,Homer Simpson,Springfield Googolplex Theatres,"We'll take two tickets to ""The Stockholm Affair."""
+6922,55,27,152000,Marge Simpson,Springfield Googolplex Theatres,"Ooh! The paper called it a ""taut political thriller""."
+6923,55,28,155000,Homer Simpson,Springfield Googolplex Theatres,"""Political""!"
+6925,55,30,157000,General,MOVIE THEATRE #1,"Mr. President, disturbing news. Serious cracks are developing in the Greco-Bolivian Alliance."
+6926,55,31,162000,President,MOVIE THEATRE #1,Get me Jed Kolick!
+6927,55,32,181000,Homer Simpson,MOVIE THEATRE #1,"Ah, this movie's too complicated... Hey, the floor's sticky..."
+6928,55,33,186000,Homer Simpson,MOVIE THEATRE #1,"Who's that guy?... What did that guy say when I said, ""Who's that guy?"""
+6929,55,34,188000,Homer Simpson,MOVIE THEATRE #1,"Oh, that submarine's so fake... Look, you can see the strings... Ooh! An octopus!"
+6930,55,35,200000,Homer Simpson,MOVIE THEATRE #1,What?
+6932,55,37,208000,Bart Simpson,MOVIE THEATRE #6,"If you don't watch the violence, you'll never get desensitized to it."
+6933,55,38,211000,Lisa Simpson,MOVIE THEATRE #6,Just tell me when the scary part's over.
+6934,55,39,213000,Bart Simpson,MOVIE THEATRE #6,It's over.
+6936,55,41,218000,Homer Simpson,MOVIE THEATRE #1,I think that guy's a spy.
+6937,55,42,220000,Marge Simpson,MOVIE THEATRE #1,Well of course he's a spy. You just saw him go through spy school!
+6938,55,43,225000,Homer Simpson,MOVIE THEATRE #1,"Oh wait, I heard how this ends. It turns out the secret code was the same nursery rhyme he told his daughter."
+6939,55,44,232000,Homer Simpson,MOVIE THEATRE #1,"Hey, it's pretty obvious if you think about it."
+6940,55,45,235000,Marge Simpson,MOVIE THEATRE #1,"Oh, shut up, Homer! No one wants to hear what you think!"
+6942,55,47,245000,Marge Simpson,Car,"Homer, if it makes you feel any better, most of what they threw at you splattered on me. Homer?..."
+6943,55,48,252000,Bart Simpson,Car,"Forget it, mom. Dad's really mad. The tendons are throbbing at the base of his neck..."
+6944,55,49,256000,Bart Simpson,Car,And stress is collecting in the trouble spots here... here... and here... Making for one unhappy pappy.
+6947,55,52,264000,Marge Simpson,Simpson Home,"Homie, aren't you coming inside?"
+6948,55,53,266000,Homer Simpson,Simpson Home,"Marge, I have always carried myself with a certain quiet dignity. Tonight you robbed me of it. I'm going now and I don't know when you'll see me again."
+6949,55,54,283000,Lisa Simpson,Simpson Home,I guess that executive stress ball we got him for Christmas isn't working.
+6951,55,56,291000,Homer Simpson,Simpson Car,Mmm...
+6952,55,57,309000,Homer Simpson,Simpson Car,"Ew, a skunk!"
+6953,55,58,329000,Homer Simpson,Simpson Car,Oh no.
+6955,55,60,332000,Homer Simpson,COUNTRY BAR,"Ooh, a redneck bar."
+6957,55,62,339000,Cowboy #1,The Beer -N- Brawl,"Hey, you, let's fight!"
+6958,55,63,341000,Cowboy #2,The Beer -N- Brawl,Them's fightin' words!
+6959,55,64,344000,Homer Simpson,The Beer -N- Brawl,Duff please.
+6960,55,65,345000,Bartender,The Beer -N- Brawl,We don't sell Duff. We sell Fudd.
+6961,55,66,349000,Homer Simpson,The Beer -N- Brawl,"Okay, Fudd me."
+6962,55,67,351000,Bar Owner,The Beer -N- Brawl,"All right, all right, uh, ladies and gentlemen, he's all healed up and he's back for more. Let's give a big drunken welcome to Yodelin' Zeke!"
+6963,55,68,360000,Yodelin' Zeke,The Beer -N- Brawl,Yodel-lay-hee... Yodel-lay-hee... Yodel-lay-hee -- Arrgh!
+6964,55,69,373000,Bar Owner,The Beer -N- Brawl,"Our next act is our very own singin' waitress, Lurleen!"
+6965,55,70,379000,Bar Owner,The Beer -N- Brawl,"... So, I'm afraid drink service will stop for just a few moments while she --"
+6966,55,71,385000,Bar Owner,The Beer -N- Brawl,They're all yours.
+6967,55,72,386000,Homer Simpson,The Beer -N- Brawl,Stupid Marge tell me to shut up.
+6968,55,73,388000,Lurleen Lumpkin,The Beer -N- Brawl,Thank you. Tonight I'd like to try something a little different. It's a song I wrote while I was moppin' up your dried blood and teeth.
+6969,55,74,399000,Lurleen Lumpkin,The Beer -N- Brawl,YOU WORK ALL DAY FOR SOME OLD MAN/ SWEAT AND BREAK YOUR BACK/
+6970,55,75,404000,Homer Simpson,The Beer -N- Brawl,Yeah...
+6971,55,76,405000,Lurleen Lumpkin,The Beer -N- Brawl,THEN YOU GO HOME TO YOUR CASTLE/ BUT YOUR QUEEN WON'T CUT YOU SLACK/
+6972,55,77,411000,Homer Simpson,The Beer -N- Brawl,... that's true.
+6973,55,78,412000,Lurleen Lumpkin,The Beer -N- Brawl,THAT'S WHY YOU'RE LOSIN' ALL YOUR HAIR/... THAT'S WHY YOU'RE OVERWEIGHT/...
+6974,55,79,417000,Homer Simpson,The Beer -N- Brawl,Uh-huh.
+6975,55,80,419000,Lurleen Lumpkin,The Beer -N- Brawl,THAT'S WHY YOU FLIPPED YOUR PICK-UP TRUCK RIGHT OFF THE INTERSTATE/...
+6976,55,81,424000,Homer Simpson,The Beer -N- Brawl,"That's right, except for the pick-up truck."
+6979,55,82,426000,Lurleen Lumpkin,The Beer -N- Brawl,"THERE'S A LOT OF BULL THEY HAND YOU/ THERE'S NOTHIN' YOU CAN DO/ YOUR WIFE DON'T UNDERSTAND YOU/ BUT I DO/ NO, YOUR WIFE DON'T UNDERSTAND YOU/ BUT I DO/ I SAID NO ONE UNDERSTANDS YOU/ BUT I DO/"
+6980,55,83,459000,Homer Simpson,The Beer -N- Brawl,"Hey... Hey, Lurleen! I've gotta say somethin' to ya."
+6981,55,84,462000,Lurleen Lumpkin,The Beer -N- Brawl,I'm listenin'.
+6982,55,85,463000,Homer Simpson,The Beer -N- Brawl,Your song touched me in a way I've never felt before. And which way to the can?
+6984,55,87,474000,Lurleen Lumpkin,The Beer -N- Brawl,"So what's your name, stranger?"
+6985,55,88,476000,Homer Simpson,The Beer -N- Brawl,Homer J. Simpson.
+6986,55,89,477000,Lurleen Lumpkin,The Beer -N- Brawl,My name's Lurleen Lumpkin.
+6987,55,90,479000,Homer Simpson,The Beer -N- Brawl,That's a pretty name.
+6988,55,91,480000,Lurleen Lumpkin,The Beer -N- Brawl,"Oh, you think so?"
+6989,55,92,481000,Homer Simpson,The Beer -N- Brawl,Maybe. I'm not sure. I forgot it.
+6990,55,93,486000,Homer Simpson,The Beer -N- Brawl,Bye Lurleen.
+6991,55,94,487000,Lurleen Lumpkin,The Beer -N- Brawl,"So long, Homer J. Simpson."
+6993,55,96,495000,Homer Simpson,Simpson Home,Y'ello.
+6994,55,97,496000,Marge Simpson,Simpson Home,Where were you all night?
+6995,55,98,498000,Homer Simpson,Simpson Home,I was just up at this bar in Spittle County.
+6996,55,99,500000,Marge Simpson,Simpson Home,You should have called. I was very worried.
+6997,55,100,501000,Homer Simpson,Simpson Home,"Marge, let's end this feudin' and a fussin' and get down to some lovin'."
+7000,55,103,506000,Homer Simpson,Springfield Nuclear Power Plant,I WORK ALL DAY FOR SOME OLD MAN/ I SWEAT AND BREAK MY BACK/
+7003,55,106,519000,Nurse,HOSPITAL OPERATING ROOM,"Doctor, you weren't supposed to remove his gall bladder."
+7004,55,107,521000,Male Nurse,HOSPITAL OPERATING ROOM,Put it back! Put it back!
+7006,55,109,522000,Homer Simpson,Barney's Bowlarama,YOUR WIFE DON'T UNDERSTAND YOU/ BUT I DO...
+7007,55,110,527000,Lenny Leonard,Barney's Bowlarama,Gheee... Homer's singing to his ball again.
+7008,55,111,530000,Carl Carlson,Barney's Bowlarama,"Yeah, and he's bowling a two-eighty."
+7009,55,112,531000,Lenny Leonard,Barney's Bowlarama,Oh yeah. THERE'S A KIND OF HUSH/ ALL OVER THE WORLD TONIGHT...
+7011,55,114,542000,Homer Simpson,Moe's Tavern,"Hey Moe, you got any Fudd?"
+7012,55,115,544000,Moe Szyslak,Moe's Tavern,Fudd? I thought they took that off the market after all those hillbillies went blind.
+6977,55,116,549000,Homer Simpson,Moe's Tavern,"Oh, no. I went to this bar the other night, and they..."
+6978,55,117,551000,Moe Szyslak,Moe's Tavern,Wha...wha... Wait a minute. You went to another bar?
+7013,55,118,554000,Homer Simpson,Moe's Tavern,"Moe, I was a hundred miles outta town."
+7014,55,119,557000,Moe Szyslak,Moe's Tavern,"Oh, Homer."
+7017,55,122,567000,Lurleen Lumpkin,TRAILER PARK,"Well, if it isn't Homer J. Simpson."
+7018,55,123,571000,Homer Simpson,TRAILER PARK,"Lurleen, I can't get your song outta my mind. I haven't felt this way since ""Funky Town."""
+7019,55,124,573000,Lurleen Lumpkin,TRAILER PARK,"Oh, aren't you sweet."
+7020,55,125,577000,Homer Simpson,TRAILER PARK,Do you think I could get a copy of it?
+7021,55,126,579000,Lurleen Lumpkin,TRAILER PARK,"Sorry, darlin', all my songs are up here. ""I'm Bastin' a Turkey With My Tears"", ""Don't Look Up My Dress Unless You Mean It"", ""I'm Sick of Your Lyin' Lips and False Teeth""..."
+7022,55,127,581000,Homer Simpson,TRAILER PARK,"Lurleen, we've gotta crack open your head and scoop out those songs!"
+7023,55,128,593000,Lurleen Lumpkin,TRAILER PARK,"Well, I don't know."
+7024,55,129,594000,Homer Simpson,TRAILER PARK,Come with me!
+7025,55,130,597000,Lurleen Lumpkin,TRAILER PARK,Oh!
+7027,55,132,597000,Lurleen Lumpkin,Record Store,"I SAID NO ONE UNDERSTANDS YOU, BUT I DOOO."
+7028,55,133,608000,Music Store Owner,Record Store,"Listen ma'am, my brother owns a radio station over in Weevilville, and with your permission, I'd like to take your CD to him."
+7029,55,134,616000,Lurleen Lumpkin,Record Store,"Homer, it's your quarter, what do you say?"
+7030,55,135,622000,Homer Simpson,Record Store,I guess so.
+7032,55,137,623000,D.J.,KUDD RADIO STATION,This is K-U-D-D five seventy A.M.
+7033,55,138,626000,D.J.,KUDD RADIO STATION,"Hey, don't touch that dial -- you've got KUDD on it."
+7034,55,139,634000,Moe Szyslak,KUDD RADIO STATION,"For the next half hour, beer's on the house."
+7035,55,140,637000,Barney Gumble,KUDD RADIO STATION,"What'd you say, Moe?"
+7036,55,141,637000,Moe Szyslak,KUDD RADIO STATION,Nothin'.
+7037,55,142,639000,Krusty the Clown,KUDD RADIO STATION,I thought I told you to stay away from my sister!
+7038,55,143,646000,Krusty the Clown,KUDD RADIO STATION,"Oh, here's fifty bucks. Take her to the Copa."
+7039,55,144,653000,Snake Jailbird,KUDD RADIO STATION,It's payback time!
+7040,55,145,662000,Snake Jailbird,KUDD RADIO STATION,"Aww... puts this whole riot into perspective, doesn't it?"
+7042,55,147,673000,Lisa Simpson,Simpson Home,She's wonderful. I could feel her sweet country soul in every digitally-encoded bit.
+7043,55,148,679000,Bart Simpson,Simpson Home,Country music sucks. All it does is take precious air space away from shock DJ's whose cruelty and profanity amuse us all.
+7044,55,149,686000,Homer Simpson,Simpson Home,"Shut up, boy. Marge, what do you think?"
+7045,55,150,689000,Marge Simpson,Simpson Home,"Well, it's nice. But who is this woman?"
+7046,55,151,692000,Homer Simpson,Simpson Home,"Well, right now she's an out-of-work cocktail waitress. But she's going to be a country music superstar like... uh... that jerk in the cowboy hat... and that dead lady."
+7047,55,152,701000,Marge Simpson,Simpson Home,I don't like you hanging around with some cocktail waitress!
+7048,55,153,704000,Homer Simpson,Simpson Home,"Marge, you make it sound so seamy. All I did was spend the afternoon in her trailer watching her try on some outfits."
+7050,55,155,714000,Homer Simpson,Simpson Home,"Well hi, Lurleen. We were just talking about you. Uh... I think I can come over. Let me ask my wife."
+7052,55,157,723000,Homer Simpson,Simpson Home,It's a date!
+7054,55,159,727000,Lurleen Lumpkin,TRAILER PARK,"Oh Homer, everybody's been callin'! Mamma, Daddy, the triplets, Vonda Mae, Piney Jo... and I owe it all to you."
+7055,55,160,738000,Homer Simpson,TRAILER PARK,"Don't thank me, Lurleen, you should be thanking your brain."
+7056,55,161,741000,Lurleen Lumpkin,TRAILER PARK,"Oh Homer, no man has ever been this nice to me without... you know, wantin' somethin' in return."
+7057,55,162,749000,Homer Simpson,TRAILER PARK,"Well, I was going to ask you for a glass of water, but now I feel kinda guilty about it."
+7058,55,163,752000,Lurleen Lumpkin,TRAILER PARK,"Homer, you're just a big sack of sugar."
+7059,55,164,756000,Homer Simpson,TRAILER PARK,"Thanks. You did say sugar, right?"
+7060,55,165,759000,Lurleen Lumpkin,TRAILER PARK,"Uh-huh. Now, Homer, I want you to be my manager."
+7061,55,166,763000,Homer Simpson,TRAILER PARK,"Really? Well, I should warn you... I'm not great with figures..."
+7062,55,167,766000,Lurleen Lumpkin,TRAILER PARK,That's okay.
+7063,55,168,767000,Homer Simpson,TRAILER PARK,I make a lot of stupid decisions...
+7064,55,169,769000,Lurleen Lumpkin,TRAILER PARK,Nobody's perfect.
+7065,55,170,770000,Homer Simpson,TRAILER PARK,I did bad in school.
+7066,55,171,771000,Lurleen Lumpkin,TRAILER PARK,I didn't even go.
+7067,55,172,772000,Homer Simpson,TRAILER PARK,My personal hygiene has been described as...
+7068,55,173,773000,Lurleen Lumpkin,TRAILER PARK,"Homer, Homer, you'll be a great manager. There's only one thing you need."
+7071,55,176,778000,Salesman,Store,Now this is made from a space-age fabric developed especially for Elvis. Sweat actually cleans this suit!
+7073,55,178,794000,Homer Simpson,Simpson Home,"Marge, look at me."
+7074,55,179,796000,Marge Simpson,Simpson Home,I don't want to. I'm mad at you.
+7075,55,180,798000,Marge Simpson,Simpson Home,"I'm sick of that waitress and all the time you've been spending with her, and this whole country music thing."
+7076,55,181,802000,Homer Simpson,Simpson Home,"Uh, then maybe you better not look at me."
+7077,55,182,806000,Marge Simpson,Simpson Home,Homer! Where did you get that suit?
+7078,55,183,808000,Homer Simpson,Simpson Home,A friend bought it for me.
+7079,55,184,810000,Marge Simpson,Simpson Home,Was it Lurleen?
+7080,55,185,812000,Homer Simpson,Simpson Home,No... I think it was Lenny.
+7081,55,186,814000,Marge Simpson,Simpson Home,Don't lie to me. Are you having an affair with this woman?
+7082,55,187,817000,Homer Simpson,Simpson Home,No!
+7083,55,188,817000,Marge Simpson,Simpson Home,Have you kissed her?
+7084,55,189,818000,Homer Simpson,Simpson Home,No!
+7085,55,190,819000,Marge Simpson,Simpson Home,Has she kissed you?
+7086,55,191,819000,Homer Simpson,Simpson Home,A coupla times.
+7087,55,192,821000,Marge Simpson,Simpson Home,I want you to stop seeing her.
+7088,55,193,823000,Homer Simpson,Simpson Home,I can't. I'm her manager.
+7089,55,194,824000,Marge Simpson,Simpson Home,Her manager? That's ridiculous. I won't allow you to spend any more time away from your family.
+7090,55,195,829000,Homer Simpson,Simpson Home,"Marge, you're standing in the way of my boyhood dream of managing a beautiful country singer."
+7091,55,196,834000,Marge Simpson,Simpson Home,Your boyhood dream was to eat the world's biggest hoagie. And you did it at the county fair last year. Remember?
+7092,55,197,841000,Homer Simpson,Simpson Home,"Marge, Lurleen's gonna be a big success and whether you like it or not, I'm going to be there."
+7093,55,198,844000,Marge Simpson,Simpson Home,Fine. See if I care.
+7095,55,200,855000,Mr. Boylan,Recording Studio,"This studio has a lot of history. Buddy Holly stood on this spot in 1958 and said, ""There is no way in hell that I'm gonna record in this dump""."
+7096,55,201,857000,Homer Simpson,Recording Studio,I'm sure Lurleen will love it.
+7097,55,202,865000,Marge Simpson,Recording Studio,"Homer, how much did you just give that man?"
+7098,55,203,867000,Homer Simpson,Recording Studio,"Calm down, Marge, it's just our life savings. I'm not going to go into hock for this."
+7099,55,204,872000,Lurleen Lumpkin,Recording Studio,"Hey, Colonel Homer. And you must be..."
+7100,55,205,876000,Marge Simpson,Recording Studio,Mrs. Homer Simpson.
+7101,55,206,878000,Lurleen Lumpkin,Recording Studio,Charmed.
+7102,55,207,879000,Marge Simpson,Recording Studio,Hmmm. I thought you said she was overweight!
+7103,55,208,882000,Homer Simpson,Recording Studio,"Marge, it takes two to lie. One to lie and one to listen."
+7104,55,209,885000,Marge Simpson,Recording Studio,What does that mean?
+7106,55,210,887000,Homer Simpson,Recording Studio,"I don't have time to answer all these questions. Uh, time is money. Come on, people!"
+7107,55,211,891000,Lurleen Lumpkin,Recording Studio,"Well, c'mon boys. Let's break some hearts."
+7108,55,212,898000,Lurleen Lumpkin,Recording Studio,"OH THE BASES WERE EMPTY ON THE DIAMOND OF MY HEART/ WHEN THE COACH CALLED ME UP TO THE PLATE/ I'D BEEN SWINGIN' AND MISSIN' AND LOVIN' AND KISSIN'/ MY AVERAGE WAS POINT DOUBLE AUGHT EIGHT/ SO I SPIT ON MY HANDS/ KNOCKED THE DIRT FROM MY SPIKES/ AND POINTED RIGHT TOWARD CENTER FIELD/ THIS TIME I'M HITTIN' A HOME RUN/ THIS TIME LOVE IS FOR REAL/ I'LL SLIDE, I'LL STEAL,"
+7109,55,213,924000,Bart Simpson,Recording Studio,"Hey Dad, can I do a ham-bone solo?"
+7110,55,214,928000,Homer Simpson,Recording Studio,Stop it.
+7111,55,215,929000,Lurleen Lumpkin,Recording Studio,I'LL SACRIFICE/ A LOVING FLY FOR YOU/ I'VE BEEN SLUMPING ALL SEASON/ BUT NOW I'VE FOUND A REASON/ I STRUCK ON A LOVE THAT IS TRUE/ I USED TO PLAY THE FIELD/ I USED TO BE A ROAMER/ BUT THE SEASON'S TURNIN' 'ROUND FOR ME NOW/ I FINALLY BAGGED ME A HOMER.
+7112,55,216,950000,Lurleen Lumpkin,Recording Studio,THAT'S RIGHT! I FINALLY BAGGED ME A HOMER.
+7113,55,217,954000,Mr. Boylan,Recording Studio,"Lurleen, we're gonna have to cut you off. We're getting some kind of grinding noise on the track."
+7114,55,218,971000,Homer Simpson,Recording Studio,"You, off the bench."
+7116,55,220,983000,Homer Simpson,Lurleen's Trailer,"Guess what, Lurleen, I got you a gig on TV."
+7117,55,221,986000,Lurleen Lumpkin,Lurleen's Trailer,Oh Homer! You're as smart as you are handsome.
+7118,55,222,989000,Homer Simpson,Lurleen's Trailer,"Hey! Oh, you meant that as a compliment. Now on this show, they want you to sing two songs. Maybe we should give them something new."
+7119,55,223,997000,Lurleen Lumpkin,Lurleen's Trailer,"Well, I have been working on something that could really heat things up."
+7120,55,224,1002000,Homer Simpson,Lurleen's Trailer,Let's hear it.
+7121,55,225,1005000,Lurleen Lumpkin,Lurleen's Trailer,"IN THIS TRAILER, I GET SO COLD AND LONELY/ LYIN' THERE AWAKE AT NIGHT/ MUTTERING IF ONLY YOU WEREN'T MARRIED/ SO I MIGHT ASK YOU TO BUNK WITH ME TONIGHT/ BUNK WITH ME TONIGHT/ OH BUNK WITH ME TONIGHT/ I'M ASKIN' WILL YOU BUNK WITH ME TONIGHT?"
+7122,55,226,1041000,Homer Simpson,Lurleen's Trailer,"Oh, that's hot. There isn't a man alive who wouldn't get turned on by that. Well, g'bye."
+7123,55,227,1049000,Lurleen Lumpkin,Lurleen's Trailer,"Uh, Homer, there's a hidden message to this song that you may have missed. Really listen. BUNK WITH ME TONIGHT..."
+7124,55,228,1060000,Homer Simpson,Lurleen's Trailer,Uh-huh...
+7125,55,229,1061000,Lurleen Lumpkin,Lurleen's Trailer,BUNK WITH ME TONIGHT...
+7126,55,230,1066000,Homer Simpson,Lurleen's Trailer,Right...
+7105,55,231,1066000,Lurleen Lumpkin,Lurleen's Trailer,I'M ASKIN' WILL YOU BUNK WITH ME TONIGHT?
+6318,55,232,1076000,Homer Simpson,Lurleen's Trailer,Lurleen.
+7127,55,233,1077000,Lurleen Lumpkin,Lurleen's Trailer,That's right Homer J.
+7128,55,234,1080000,Homer Simpson,Lurleen's Trailer,Uh... I gotta think about this.
+7131,55,237,1085000,Marge Simpson,Simpson Home,"All our money's tied up in this woman. If she fails, we're broke. If she succeeds, I have no husband. I don't know what to root for."
+7132,55,238,1094000,Patty Bouvier,Simpson Home,You don't?
+7133,55,239,1095000,Marge Simpson,Simpson Home,I gotta go. Homer...
+7134,55,240,1097000,Homer Simpson,Simpson Home,"Later, Marge. Lurleen's on TV tonight. I gotta get ready."
+7135,55,241,1105000,Marge Simpson,Simpson Home,"Just so you know, while you and Lurleen were out judging that greased pig contest, Maggie cut her first tooth."
+7136,55,242,1111000,Homer Simpson,Simpson Home,"That's great, honey. Say, have you seen my rattlesnake hatband?"
+7137,55,243,1115000,Marge Simpson,Simpson Home,You're not even listening to me!
+7138,55,244,1117000,Homer Simpson,Simpson Home,Sure they will.
+7139,55,245,1119000,Marge Simpson,Simpson Home,"Kids, will you come in here?"
+7140,55,246,1122000,Marge Simpson,Simpson Home,"You've got a wonderful family, Homer. Please don't forget it when you walk out that door tonight."
+7141,55,247,1129000,Homer Simpson,Simpson Home,Uh... I gotta go.
+7142,55,248,1132000,Bart Simpson,Simpson Home,"As much as I hate that man right now, you gotta love that suit."
+7143,55,249,1135000,Announcer,Simpson Home,Hold onto your pitch forks everybody! It's time again for...
+7144,55,250,1137000,Mule,Simpson Home,Ya - hooooooo!
+7145,55,251,1142000,Announcer,Simpson Home,"Starring, in alphabetical order... Yodelin' Zeke... Butterball Jackson... Freddy-boy and Yuma... Cloris Mozelle... Big Shirtless Ron... Orville and Hurley... Cathy May... Hip Diddler... Rooney!... ... The Ya-Hoo Recovering Alcoholic Jug Band... and tonight, in her syndicated TV debut... Lurleen!"
+7146,55,252,1166000,Lurleen Lumpkin,Simpson Home,OH THE BASES WERE EMPTY...
+7147,55,253,1169000,Executive,Simpson Home,"Excuse me, are you Colonel Homer Simpson?"
+7148,55,254,1170000,Homer Simpson,Simpson Home,Yes I am.
+7149,55,255,1172000,Executive,Simpson Home,"I'm from Rebel Yell Records, a division of Togasaki Corp. I'm interested in buying Lurleen's contract."
+7150,55,256,1176000,Homer Simpson,Simpson Home,"Forget it, pal. They don't call me Colonel Homer because I'm some dumb-ass army guy."
+7152,55,258,1183000,Homer Simpson,LURLEEN'S DRESSING ROOM,"Lurleen, they loved you."
+7153,55,259,1185000,Lurleen Lumpkin,LURLEEN'S DRESSING ROOM,Well thank you -- I'm still a little itchy from that fiberglass hay.
+7154,55,260,1188000,Homer Simpson,LURLEEN'S DRESSING ROOM,Is there anything you need?
+7156,55,261,1192000,Lurleen Lumpkin,LURLEEN'S DRESSING ROOM,Well... you could make my evening complete.
+7157,55,262,1199000,Lurleen Lumpkin,LURLEEN'S DRESSING ROOM,What's wrong?
+7158,55,263,1200000,Homer Simpson,LURLEEN'S DRESSING ROOM,My whole romantic life is flashing before my eyes.
+7159,55,264,1206000,Young Girl,LURLEEN'S DRESSING ROOM,Gross!
+7160,55,265,1209000,Girl,LURLEEN'S DRESSING ROOM,Thanks for dinner!
+7161,55,266,1213000,Pretty Girl,LURLEEN'S DRESSING ROOM,No!
+7162,55,267,1215000,Homer Simpson,LURLEEN'S DRESSING ROOM,At least could I have my dollar ba...
+7163,55,268,1216000,Marge Simpson,LURLEEN'S DRESSING ROOM,I'll love you for the rest of my life.
+7164,55,269,1224000,Homer Simpson,LURLEEN'S DRESSING ROOM,I'm sorry Lurleen. All I wanted to do was share your beautiful voice with other people and I've done that. Now I better get out of here before I lose my family.
+7165,55,270,1237000,Homer Simpson,LURLEEN'S DRESSING ROOM,"Just so I don't wonder... You would've gone all the way with me, wouldn't you?"
+7166,55,271,1241000,Lurleen Lumpkin,LURLEEN'S DRESSING ROOM,Uh-huh.
+7167,55,272,1242000,Homer Simpson,LURLEEN'S DRESSING ROOM,Okay.
+7168,55,273,1244000,Homer Simpson,LURLEEN'S DRESSING ROOM,"Now before we negotiate, I have to tell you I'm desperate to unload Lurleen. And I'll take any offer."
+7169,55,274,1250000,Executive,LURLEEN'S DRESSING ROOM,I'll give you fifty bucks.
+7170,55,275,1251000,Homer Simpson,LURLEEN'S DRESSING ROOM,You son of a... Sold!
+7172,55,277,1256000,Orville,Simpson Home,I caught my wife in bed with my best friend.
+7173,55,278,1260000,Hurley,Simpson Home,You bitter?
+7174,55,279,1261000,Orville,Simpson Home,Yeah. Bit him too.
+7175,55,280,1268000,M.C.,Simpson Home,"And now, once again, Lurleen."
+7176,55,281,1270000,Marge Simpson,Simpson Home,Homer?
+7177,55,282,1272000,Homer Simpson,Simpson Home,Is there any room in that bed for a dad-burn fool?
+7178,55,283,1275000,Marge Simpson,Simpson Home,Always has been.
+7179,55,284,1277000,Lurleen Lumpkin,Simpson Home,"Now I'd like to play a song I wrote just this minute. It's called ""Stand By Your Manager"". HIS NAME IS HOMER/ HE'S QUITE A MAN/ I TRIED TO KISS HIM/ BUT HOMER RAN."
+7180,55,285,1300000,Lurleen Lumpkin,Simpson Home,SURE WISH I COULD SAY/ THAT I WAS HIS/ I HOPE THAT MARGE KNOWS/ JUST HOW LUCKY SHE IS.
+7181,55,286,1320000,Marge Simpson,Simpson Home,I do.

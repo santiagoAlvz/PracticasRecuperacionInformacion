@@ -1,0 +1,319 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+448,34,1,83000,Lisa Simpson,Simpson Car,"Hurry, Mom! If we don't get to the convention soon, all the good comics will be gone."
+450,34,2,86000,Bart Simpson,Simpson Car,What do you care about good comics? All you ever buy is Casper the Wimpy Ghost.
+451,34,3,91000,Lisa Simpson,Simpson Car,"I think it's sad that you equate friendliness from wimpiness, and I hope it will keep you from ever achieving true popularity."
+452,34,4,97000,Bart Simpson,Simpson Car,"Well, you know what I think? I think Casper's the ghost of Richie Rich."
+453,34,5,100000,Lisa Simpson,Simpson Car,"Hey, they do look alike!"
+454,34,6,102000,Bart Simpson,Simpson Car,I wonder how Richie died?
+455,34,7,104000,Lisa Simpson,Simpson Car,"Perhaps he realized how hollow the pursuit of money is, and took his own life."
+456,34,8,108000,Marge Simpson,Simpson Car,"Kids, could you lighten up a little?"
+457,34,9,110000,Bart Simpson,Simpson Car,"Now, Radioactive Man: He rules! Never punches a bad guy without saying something cool."
+458,34,10,115000,Lisa Simpson,Simpson Car,He's no wittier than the next superhero.
+459,34,11,117000,Bart Simpson,Simpson Car,"Oh, yeah? Look. He knocks a guy into the sun and says, ""Hot enough for ya?"""
+460,34,12,124000,Lisa Simpson,Simpson Car,I stand corrected.
+461,34,13,126000,Marge Simpson,Simpson Car,We're here!
+464,34,16,130000,Lisa Simpson,Springfield Convention Center,Too bad we didn't come dressed as popular cartoon characters.
+465,34,17,134000,Bart Simpson,Springfield Convention Center,This looks like a discount for...
+466,34,18,137000,Bart Simpson,Springfield Convention Center,Bartman!
+467,34,19,140000,Ticket Seller,Springfield Convention Center,Who are you supposed to be?
+468,34,20,142000,Bart Simpson,Springfield Convention Center,I'm Bartman!
+469,34,21,144000,Ticket Seller,Springfield Convention Center,Never heard of him. Full price.
+470,34,22,146000,Bart Simpson,Springfield Convention Center,Lousy rip off...
+471,34,23,148000,DIAMOND JOE,Springfield Convention Center,"Is uh, this on?... Ahem, young people of Springfield: As your Mayor, I'd like to welcome you to our annual funny book convention, and thank you for pumping almost three hundred dollars into the local economy."
+472,34,24,160000,DIAMOND JOE,Springfield Convention Center,Your youthful high spirits have imparted a glow to this old war-horse. You might say I feel like Radiation Man!
+473,34,25,169000,Jimbo Jones,Springfield Convention Center,"That's Radioactive Man, jerk!"
+474,34,26,172000,DIAMOND JOE,Springfield Convention Center,"I stand corrected... Well, have fun and be sure to clear out by six for the Shriners. Get that punk's name. No one makes a fool out of Diamond Joe Quimby."
+475,34,27,182000,Martin Prince,Springfield Convention Center,"Excuse me, sir. Has anyone turned in a left Vulcan ear?"
+477,34,28,186000,Lost And Found Guy,Springfield Convention Center,"Let's see, we've got a utility belt, a couple of tricorders, a light saber... Sorry, kid."
+478,34,29,193000,Otto Mann,Springfield Convention Center,"Hey, Bart-dude!"
+479,34,30,200000,Bart Simpson,Springfield Convention Center,"Hey, Otto-man! Oooh, what's that?"
+480,34,31,203000,Otto Mann,Springfield Convention Center,"My very own idea for a comic book, little man. It's about a dude who drives a school bus by day, but by night, fights vampires in a post-apocalyptic warzone!"
+481,34,32,213000,Bart Simpson,Springfield Convention Center,Cool!
+482,34,33,214000,Milhouse Van Houten,Springfield Convention Center,"C'mon, Bart. We're going to see Buddy Hodges."
+483,34,34,217000,Bart Simpson,Springfield Convention Center,The guy who played Fallout Boy on TV?
+484,34,35,217000,Milhouse Van Houten,Springfield Convention Center,Yep.
+485,34,36,220000,Bart Simpson,Springfield Convention Center,"Wow, I guess he wasn't killed in Vietnam."
+486,34,37,223000,Radioactive Man,Springfield Convention Center,Aaahh... These Laramie cigarettes give me the steady nerves I need to combat evil.
+487,34,38,230000,Fallout Boy,Springfield Convention Center,"Gee whillikers, Radioactive Man. Wisht I was old enough to smoke Laramies."
+488,34,39,233000,Radioactive Man,Springfield Convention Center,"Sorry, Fallout Boy, not until you're sixteen."
+489,34,40,236000,Radioactive Man,Springfield Convention Center,Look out!
+490,34,41,239000,Announcer,Springfield Convention Center,Will Radioactive Man act in time to save the earth?
+491,34,42,245000,Convention Director,Springfield Convention Center,"Well, wasn't that great?... Y'know, kids, I'm sure we'd all like to remember actor Dirk Richter for his portrayal of Radioactive Man, and not the sordid details of his final years, so let's keep the questions tasteful, okay? Now how about a big welcome for Buddy ""Fallout Boy"" Hodges!"
+492,34,43,264000,BUDDY,Springfield Convention Center,Any questions?
+493,34,44,266000,Milhouse Van Houten,Springfield Convention Center,"When Radioactive Man got injected with shrinking serum in issue two-thirty-four, how come his costume shrinks, too?"
+494,34,45,272000,BUDDY,Springfield Convention Center,"I am sure I don't know. But I did just finish playing Rum Tum Tugger in the second national touring company of ""Cats"" -- anybody see it?"
+495,34,46,279000,Bart Simpson,Springfield Convention Center,"Ooh. Ooh. Ooh. Ooh. Over here, Fallout Boy! Oh, oh, me... me... me... me, me."
+496,34,47,281000,BUDDY,Springfield Convention Center,"Yes, you, the masked boy."
+497,34,48,282000,Bart Simpson,Springfield Convention Center,Do you think the ghost of Dirk Richter haunts the bordello where his bullet-riddled body was found?
+498,34,49,287000,BUDDY,Springfield Convention Center,Dirk Richter was a beautiful man. Can't you little vultures leave him alone?
+499,34,50,297000,Nelson Muntz,Springfield Convention Center,"Hey, Radioactive Man number seventy-two! It's the imaginary tale where Radioactive Man marries Larva Girl."
+449,34,51,305000,Bart Simpson,Springfield Convention Center,Wow! Number nine! That's before Fallout Boy became his ward.
+500,34,52,309000,Dealer,Springfield Convention Center,Tell you what. I'll show you something very special if you promise to put your grubby little hands behind your back and keep 'em there.
+501,34,53,317000,Dealer,Springfield Convention Center,Behold!
+502,34,54,318000,Bart Simpson,Springfield Convention Center,Wow. Radioactive Man Number One.
+503,34,55,322000,Dealer,Springfield Convention Center,None other.
+504,34,56,323000,Bart Simpson,Springfield Convention Center,I bet it's worth a million bucks!
+505,34,57,324000,Dealer,Springfield Convention Center,"It is, my lad. But I'll let you have it for a hundred because you remind me of me."
+506,34,58,328000,Bart Simpson,Springfield Convention Center,All I got is thirty.
+507,34,59,330000,Dealer,Springfield Convention Center,Then you cannot have it.
+508,34,60,331000,Bart Simpson,Springfield Convention Center,"But I must. Until this moment, I never knew why God put me on this earth, but now I know... to buy that comic book."
+509,34,61,338000,Dealer,Springfield Convention Center,"Your emotion is out of place here, son."
+511,34,63,344000,Marge Simpson,Simpson Car,"So, did you kids have fun?"
+512,34,64,346000,Lisa Simpson,Simpson Car,"Yeah, Mom! Guess what? For a dollar a man sold me thirty-five Caspers and a dozen Lois Lanes."
+513,34,65,351000,Marge Simpson,Simpson Car,Ohhh.
+514,34,66,351000,Homer Simpson,Simpson Car,I never knew what Superman saw in her. Give me Wonder Woman! And that golden lariat. She can tie me up any time.
+515,34,67,365000,Marge Simpson,Simpson Car,Homer!
+516,34,68,366000,Homer Simpson,Simpson Car,"I was just kidding, Marge. Hey, what does everyone say to dinner at Krusty Burger? My treat!"
+517,34,69,372000,Bart Simpson,Simpson Car,"All right, Homer. Whoa, you really are a sport, Dad, taking us out to a fine restaurant like Krusty Burger!"
+518,34,70,378000,Homer Simpson,Simpson Car,"All right, what are you getting at?"
+519,34,71,380000,Bart Simpson,Simpson Car,I need a hundred dollars for a comic book.
+520,34,72,382000,Homer Simpson,Simpson Car,"A hundred bucks?! For a comic book? Who drew it, Micha-ma-langelo?"
+521,34,73,384000,Bart Simpson,Simpson Car,"Oh please, Dad. I want this more than anything in the world."
+522,34,74,388000,Homer Simpson,Simpson Car,"Well, t.s."
+524,34,76,390000,Bart Simpson,Krusty Burger,Please Dad.
+525,34,77,390000,Homer Simpson,Krusty Burger,No.
+526,34,78,390000,Bart Simpson,Krusty Burger,Please Dad.
+527,34,79,390000,Homer Simpson,Krusty Burger,No.
+528,34,80,392000,Bart Simpson,Krusty Burger,Please Dad.
+529,34,81,392000,Homer Simpson,Krusty Burger,No.
+530,34,82,392000,Bart Simpson,Krusty Burger,Please Dad.
+531,34,83,392000,Homer Simpson,Krusty Burger,No.
+532,34,84,392000,Bart Simpson,Krusty Burger,Please Dad.
+533,34,85,392000,Homer Simpson,Krusty Burger,No.
+476,34,86,392000,Bart Simpson,Krusty Burger,Please Dad.
+150047,34,87,395000,Homer Simpson,Krusty Burger,No.
+146,34,88,395000,Bart Simpson,Krusty Burger,Please Dad.
+356,34,89,395000,Homer Simpson,Krusty Burger,No.
+423,34,90,395000,Bart Simpson,Krusty Burger,Please Dad.
+150450,34,91,395000,Homer Simpson,Krusty Burger,No.
+534,34,92,395000,Bart Simpson,Krusty Burger,Please Dad.
+535,34,93,395000,Homer Simpson,Krusty Burger,No.
+536,34,94,395000,Bart Simpson,Krusty Burger,Please Dad.
+537,34,95,395000,Homer Simpson,Krusty Burger,No.
+538,34,96,395000,Bart Simpson,Krusty Burger,Please Dad.
+539,34,97,396000,Homer Simpson,Krusty Burger,"No! Now, look, son, we all know that usually when you bug me like this, I give in, so I'm not mad at you for trying. It shows you've been paying attention. But we all know I'm not gonna give you a hundred dollars. Now are you gonna stop bugging me?"
+540,34,98,410000,Bart Simpson,Krusty Burger,No.
+541,34,99,410000,Homer Simpson,Krusty Burger,Are you?
+542,34,100,410000,Bart Simpson,Krusty Burger,No.
+543,34,101,410000,Homer Simpson,Krusty Burger,Are you?
+544,34,102,410000,Bart Simpson,Krusty Burger,No.
+545,34,103,410000,Homer Simpson,Krusty Burger,Are you?
+546,34,104,411000,Bart Simpson,Krusty Burger,No.
+547,34,105,411000,Homer Simpson,Krusty Burger,Are you?
+548,34,106,411000,Bart Simpson,Krusty Burger,No.
+549,34,107,411000,Homer Simpson,Krusty Burger,Are you?
+550,34,108,411000,Bart Simpson,Krusty Burger,No.
+551,34,109,411000,Homer Simpson,Krusty Burger,Are you?
+552,34,110,411000,Bart Simpson,Krusty Burger,No.
+553,34,111,413000,Homer Simpson,Krusty Burger,Are you?
+554,34,112,413000,Bart Simpson,Krusty Burger,No.
+555,34,113,413000,Homer Simpson,Krusty Burger,Are you?
+556,34,114,413000,Bart Simpson,Krusty Burger,No.
+557,34,115,413000,Homer Simpson,Krusty Burger,Are you?
+558,34,116,413000,Bart Simpson,Krusty Burger,No.
+559,34,117,413000,Homer Simpson,Krusty Burger,Are you?
+560,34,118,415000,Bart Simpson,Krusty Burger,Okay.
+561,34,119,416000,Homer Simpson,Krusty Burger,"Hee hee, I win! In your face! Yeah! How do you like them apples? Woo hoo hoo!"
+562,34,120,422000,Marge Simpson,Krusty Burger,"Don't gloat, Homer. You know, Bart, when I was your age, the one thing I wanted more than anything in the world was a Child-sized Electric Lightbulb Oven. My parents wouldn't give me the money, so I went to my sisters, Patty and Selma..."
+564,34,122,435000,Young Patty,Bouvier House,We'll give you half our allowance.
+565,34,123,436000,Young Selma,Bouvier House,Uh-huh. But you have to be our slave.
+148217,34,124,439000,Young Marge,Bouvier House,Okay.
+566,34,125,440000,Young Patty,Bouvier House,This gives us a lot more free time.
+567,34,126,440000,Young Selma,Bouvier House,Uh-huh. Let's take up smoking.
+568,34,127,444000,Marge Simpson,Bouvier House,"For months, I worked and worked, while my sisters smoked and smoked..."
+569,34,128,449000,Older Patty,Bouvier House,"Venus... Oh, Venus..."
+570,34,129,455000,Older Selma,Bouvier House,We want those dress-shields hand-washed and drip-dried.
+573,34,130,461000,Marge Simpson,Bouvier House,"But the big day finally came. And because I'd worked for it, all those lightbulb-warmed treats always tasted extra-good."
+575,34,132,469000,Marge Simpson,Krusty Burger,So maybe a part-time job is the answer.
+576,34,133,472000,Bart Simpson,Krusty Burger,"Aw, Mom, I couldn't ask you to do that. You're already taking care of Maggie, and Lisa is such a handful --"
+577,34,134,477000,Lisa Simpson,Krusty Burger,"She means you should get a job, stupid."
+578,34,135,479000,Bart Simpson,Krusty Burger,Me?
+579,34,136,481000,Adult Narrator,Krusty Burger,"Get a job! Were they serious? I didn't realize it at the time, but a little piece of my childhood had slipped away... forever."
+580,34,137,491000,Homer Simpson,Krusty Burger,Bart! What are you staring at?
+581,34,138,492000,Bart Simpson,Krusty Burger,Uh... nothing.
+582,34,139,494000,Adult Narrator,Krusty Burger,"He didn't say it, and neither did I, but at that moment my dad and I were closer than we ever..."
+583,34,140,499000,Homer Simpson,Krusty Burger,Bart! Stop it!
+584,34,141,500000,Bart Simpson,Krusty Burger,Sorry.
+586,34,143,507000,Bart Simpson,Simpson Home,"""I NEED SOME MONEY / A LOT OF MONEY..."" AHH"
+587,34,144,510000,Bart Simpson,Simpson Home,Empty bottles... empty bottles...
+588,34,145,514000,Bart Simpson,Simpson Home,"Hm... well, it's practically empty."
+590,34,147,516000,Bart Simpson,QUIK-E-MART,"Here you go, Apu."
+591,34,148,517000,Apu Nahasapeemapetilon,QUIK-E-MART,"Ooh, very good. Would you like the deposit defrayed from the cost of a Jumbo Cherry Squishie?"
+592,34,149,521000,Bart Simpson,QUIK-E-MART,"No, not today. I need the dime."
+593,34,150,523000,Apu Nahasapeemapetilon,QUIK-E-MART,"Oh, it is good to see you are learning a trade."
+595,34,152,529000,Bart Simpson,Simpson Home,Ah-ha!
+597,34,154,531000,Bart Simpson,Springfield Bank,"Americanize this, my good man."
+598,34,155,533000,Teller,Springfield Bank,Okey dokey.
+599,34,156,535000,Bart Simpson,Springfield Bank,All those coins were only worth three lousy cents?
+600,34,157,538000,Teller,Springfield Bank,Let the good times roll.
+602,34,159,540000,Bart Simpson,Simpson Home,"Oh, this is so humiliating... I feel like such a geek."
+603,34,160,544000,Lisa Simpson,Simpson Home,"How's it going, Bart?"
+604,34,161,545000,Bart Simpson,Simpson Home,"Terrible. Cars slow down to laugh at me, but no one's buying."
+605,34,162,548000,Lisa Simpson,Simpson Home,Maybe you need to play on their sympathies more. Lets see...
+606,34,163,556000,Lisa Simpson,Simpson Home,"Ah ha, now you look pathetic."
+571,34,164,559000,Nelson Muntz,Simpson Home,Haw haw!
+607,34,165,561000,Bart Simpson,Simpson Home,Lemonade sucks. I need a new product. Let's see... ... Ah!
+608,34,166,566000,Bart Simpson,Simpson Home,"Form a line, no crowding. Cheap beer and a sympathetic ear... Step right up."
+609,34,167,571000,Barney Gumble,Simpson Home,"Ah, Bart could you give me one on credit? I'm a little short this week."
+610,34,168,574000,Bart Simpson,Simpson Home,Beat it.
+611,34,169,575000,Eddie,Simpson Home,"Say, uh, you got a liquor license there, young fella?"
+612,34,170,577000,Bart Simpson,Simpson Home,"Ugh, my dog ate it."
+613,34,171,579000,Lou,Simpson Home,Gotta have a license to sell beer.
+614,34,172,581000,Bart Simpson,Simpson Home,Say... writing all those tickets must make you guys thirsty. How about a couple on the house?
+615,34,173,587000,Eddie,Simpson Home,"We-ell, seeing as how it's a first offense..."
+616,34,174,589000,Lou,Simpson Home,I guess we can overlook this.
+617,34,175,591000,Bart Simpson,Simpson Home,"So long, officers. Uh-oh."
+618,34,176,595000,Homer Simpson,Simpson Home,"Hey, what's all the --"
+619,34,177,597000,Homer Simpson,Simpson Home,My beer... my beer... my beautiful beer.
+621,34,179,601000,Marge Simpson,Beauty Parlor,The poor boy is so desperate. He wants to earn money to buy a comic book.
+622,34,180,608000,Mrs. Glick,Beauty Parlor,"A comic book! Oh, my, boys never change. Which one is it, ""Nazi Smasher""?"
+623,34,181,614000,Marge Simpson,Beauty Parlor,I don't think so.
+624,34,182,616000,Mrs. Glick,Beauty Parlor,"Send him over to my house, I got a few chores he could do. He knows how to mix whitewash, don't he?"
+626,34,184,624000,Bart Simpson,MRS. GLICK'S HOUSE,Mrs. Glick?
+627,34,185,627000,Mrs. Glick,MRS. GLICK'S HOUSE,"Eh, you must be Burt Simpson! Well, you look like you've got a strong young back!"
+628,34,186,632000,Mrs. Glick,MRS. GLICK'S HOUSE,"Would you like something to eat? I've got dried apricots... almond paste, sauerkraut candy."
+629,34,187,640000,Bart Simpson,MRS. GLICK'S HOUSE,"No, thanks. Who's that?"
+630,34,188,642000,Mrs. Glick,MRS. GLICK'S HOUSE,"Oh, that's my brother, Asa. He was killed in the Great War. Held a grenade too long."
+632,34,190,651000,Asa,WORLD WORLD I BATTLEFIELD,"This one's for you Kaiser Bill. Special delivery from Uncle Sam and all the boys in D Company: Yeah! Johnny, Harrison, Brooklyn Bob and Reggie. Yeah, even Reggie. He ain't so stuck-up once you get to know..."
+633,34,191,666000,Mrs. Glick,WORLD WORLD I BATTLEFIELD,"Here, have some ribbon candy. Boys love candy."
+634,34,192,670000,Bart Simpson,WORLD WORLD I BATTLEFIELD,"No, thanks."
+635,34,193,671000,Mrs. Glick,WORLD WORLD I BATTLEFIELD,Boys love candy.
+637,34,194,674000,Bart Simpson,WORLD WORLD I BATTLEFIELD,"Ugh, I think I'd rather just get to work, Ma'am."
+638,34,195,675000,Mrs. Glick,WORLD WORLD I BATTLEFIELD,"We'll start with a little light yard work. And when you're done, you can have a nice barley pop."
+640,34,197,681000,Mrs. Glick,GLICK HOUSE,I want you to clear out all the weeds. You do know which ones are weeds?
+641,34,198,687000,Bart Simpson,GLICK HOUSE,All of 'em?
+642,34,199,688000,Mrs. Glick,GLICK HOUSE,Good boy.
+643,34,200,689000,Mrs. Glick,GLICK HOUSE,Now be careful with these. I'll be inside watching my stories.
+644,34,201,698000,Bart Simpson,GLICK HOUSE,Ow!. . .Ow!
+645,34,202,703000,Soap Actress,GLICK HOUSE,"Jack, please. I'm married."
+646,34,203,706000,Soap Actor,GLICK HOUSE,That must be what's turning me on.
+647,34,204,708000,Soap Actress,GLICK HOUSE,Oh... Stop it... some more.
+648,34,205,711000,Mrs. Glick,GLICK HOUSE,"Filthy, but genuinely arousing."
+649,34,206,716000,Bart Simpson,GLICK HOUSE,Finished.
+650,34,207,717000,Mrs. Glick,GLICK HOUSE,"Merciful heavens, you're bleeding! I'll get the iodine."
+651,34,208,722000,Mrs. Glick,GLICK HOUSE,"Now, don't fidget."
+652,34,209,728000,Bart Simpson,GLICK HOUSE,"Listen, lady, you don't have to -- YAAAUUUUGGGHHH!"
+653,34,210,732000,Mrs. Glick,GLICK HOUSE,They've never improved on iodine.
+655,34,212,735000,Bart Simpson,Simpson Home,"Hi, Mom."
+656,34,213,736000,Marge Simpson,Simpson Home,Did you make any money?
+657,34,214,738000,Bart Simpson,Simpson Home,"Not yet, but at least I'm in a lot of pain."
+658,34,215,741000,Marge Simpson,Simpson Home,"Well, I think what you're doing for Mrs. Glick is very nice. The poor old thing doesn't have anybody."
+659,34,216,746000,Bart Simpson,Simpson Home,There's a reason.
+660,34,217,748000,Mrs. Glick,Simpson Home,"The sludge certainly collects around those downspouts, don't it?"
+661,34,218,754000,Bart Simpson,Simpson Home,"I'll sludge you, you old bat."
+662,34,219,756000,Mrs. Glick,Simpson Home,"Today, we wash Beulah. Do you know what that is?"
+663,34,220,760000,Bart Simpson,Simpson Home,"Some old lady thing, nobody's heard about for fifty years?"
+664,34,221,763000,Mrs. Glick,Simpson Home,"No, it was my wedding dress, but then I dyed it black and it became my mourning dress."
+665,34,222,772000,Bart Simpson,Simpson Home,"Great story, lady."
+666,34,223,781000,Bart Simpson,Simpson Home,Last night I dreamed I held you in my arms.
+667,34,224,789000,Bart Simpson,Simpson Home,"No! No, not the iodine! Burn the germs off with a torch, amputate my arm, but not the -- YAAAUUUGGGHHH!"
+669,34,226,797000,Mrs. Glick,GLICK HOUSE,"Well, it's payday. I'll wager you've been looking forward to this."
+636,34,227,803000,Bart Simpson,GLICK HOUSE,"Oh, yes, ma'am!"
+572,34,228,804000,Mrs. Glick,GLICK HOUSE,Here we are.
+671,34,229,804000,Mrs. Glick,GLICK HOUSE,Two quarters.
+672,34,230,806000,Bart Simpson,GLICK HOUSE,Two quarters?
+673,34,231,807000,Mrs. Glick,GLICK HOUSE,"You deserve every penny. You know, I've told a lot of my girlfriends about you and they have chores too."
+674,34,232,815000,Bart Simpson,GLICK HOUSE,Two quarters!
+675,34,233,816000,Mrs. Glick,GLICK HOUSE,"Bart, you didn't say thank you."
+676,34,234,819000,Bart Simpson,GLICK HOUSE,"Listen lady, I can leave without screaming, and I can leave without saying a bad word, but there's no way that I am saying thank you."
+677,34,235,826000,Mrs. Glick,GLICK HOUSE,"You're welcome. All right then, off you go, to spend it on penny whistles and moon pies."
+679,34,237,835000,Bart Simpson,Simpson Home,"Moon pies, my butt... Somebody oughta moon pie her..."
+680,34,238,838000,Homer Simpson,Simpson Home,"What's the problem, boy?"
+681,34,239,839000,Bart Simpson,Simpson Home,"I've been bustin' my hump all week for that withered old clam, and all I got was fifty cents."
+682,34,240,844000,Homer Simpson,Simpson Home,"Hey, when I was your age, fifty cents was a lot of money."
+683,34,241,847000,Bart Simpson,Simpson Home,Really?
+684,34,242,848000,Homer Simpson,Simpson Home,Nah.
+685,34,243,849000,Bart Simpson,Simpson Home,"Dad, I've done everything I could and I've only got thirty-five bucks. Ugh.. I am through with working. Working is for chumps."
+686,34,244,857000,Homer Simpson,Simpson Home,"Son, I'm proud of you. I was twice your age before I figured that out."
+688,34,246,867000,Martin Prince,The Android's Dungeon & Baseball Card Shop,Can you let me have it for forty dollars?
+689,34,247,868000,Dealer,The Android's Dungeon & Baseball Card Shop,Forty bucks? Forget it! You made me get off my stool for that?
+690,34,248,871000,Martin Prince,The Android's Dungeon & Baseball Card Shop,"It's all I've got. I sold seeds. I visited my aunt in the nursing home. I fished a dime out of the sewer, for God's sake!"
+691,34,249,879000,Dealer,The Android's Dungeon & Baseball Card Shop,No way. What do you want?
+692,34,250,882000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Can I have it for thirty-five?
+693,34,251,883000,Dealer,The Android's Dungeon & Baseball Card Shop,"No!... No!... Freakin' kids. I do not need this, I've got a Masters degree in folklore and mythology."
+694,34,252,889000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,"Excuse me, do you have the Carl Yastrzemski baseball card from 1973, when he had big sideburns?"
+695,34,253,894000,Dealer,The Android's Dungeon & Baseball Card Shop,"Show me the thirty bucks, because if you ain't got it, I ain't gettin' off the stool."
+696,34,254,900000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Wait a minute, Martin. If you, Milhouse and I went in together, we could buy a copy of ""Radioactive Man No. 1"" right now!"
+697,34,255,908000,Martin Prince,The Android's Dungeon & Baseball Card Shop,Wow!
+698,34,256,909000,Dealer,The Android's Dungeon & Baseball Card Shop,"Here you go. ""Muttonchop Yaz."""
+699,34,257,909000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,I don't want it.
+700,34,258,911000,Dealer,The Android's Dungeon & Baseball Card Shop,Freakin' kids!
+701,34,259,912000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Look, pal. We've got a hundred bucks and we'd like to buy ""Radioactive Man No. 1"". So why don't you just waddle over there and get it."
+702,34,260,920000,Dealer,The Android's Dungeon & Baseball Card Shop,Yes sir.
+703,34,261,924000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Wow! Breathe it in, boys!"
+704,34,262,928000,Martin Prince,The Android's Dungeon & Baseball Card Shop,This is the stuff dreams are made of.
+705,34,263,932000,Milhouse Van Houten,The Android's Dungeon & Baseball Card Shop,It smells like my grandpa.
+706,34,264,934000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,"Uh-oh, looks like rain. We better get this baby home."
+707,34,265,939000,Bart Simpson,The Android's Dungeon & Baseball Card Shop,Uh-oh.
+708,34,266,940000,Dealer,The Android's Dungeon & Baseball Card Shop,Looks like you bought more than you bargained for.
+710,34,268,954000,Radioactive Man,Bart's Treehouse,My pants... caught on barbed wire... Good Lord Choke... an A-bomb!
+711,34,269,961000,Radioactive Man,Bart's Treehouse,Yaarrgh!
+712,34,270,966000,Radioactive Man,Bart's Treehouse,"I'm becoming radioactive. From this day forward, I shall call myself Radioactive Man."
+713,34,271,975000,Milhouse Van Houten,Bart's Treehouse,So that's how it happened!
+714,34,272,977000,Martin Prince,Bart's Treehouse,I would've thought being hit by an atomic bomb would have killed him.
+715,34,273,981000,Bart Simpson,Bart's Treehouse,Now you know better.
+716,34,274,982000,Milhouse Van Houten,Bart's Treehouse,"Turn the page, Bart."
+717,34,275,992000,Bart Simpson,Bart's Treehouse,"Listen, you guys are welcome to come over and read it any time you like."
+718,34,276,995000,Milhouse Van Houten,Bart's Treehouse,Why can't we keep it at my house?
+719,34,277,996000,Bart Simpson,Bart's Treehouse,Your house? That's crazy talk!
+720,34,278,998000,Milhouse Van Houten,Bart's Treehouse,"Well, the comic's ours as much as it is yours."
+721,34,279,1000000,Martin Prince,Bart's Treehouse,"How about this, guys. Bart can have it Mondays and Thursdays. Milhouse will get it Tuesdays and Fridays. And yours truly will take it Wednesdays and Saturdays."
+722,34,280,1008000,Bart Simpson,Bart's Treehouse,Perfect.
+723,34,281,1009000,Milhouse Van Houten,Bart's Treehouse,Wait a minute. What about Sunday?
+724,34,282,1011000,Bart Simpson,Bart's Treehouse,Yeah. What about Sunday?
+725,34,283,1013000,Martin Prince,Bart's Treehouse,"Well, Sunday possession will be determined by a random number generator. I will take the digits one through three. Milhouse will have four through six. And Bart will have seven through nine."
+726,34,284,1017000,Bart Simpson,Bart's Treehouse,Perfect.
+727,34,285,1023000,Milhouse Van Houten,Bart's Treehouse,Wait a minute. What about zero?
+728,34,286,1026000,Bart Simpson,Bart's Treehouse,Yeah! What about zero?
+729,34,287,1028000,Milhouse Van Houten,Bart's Treehouse,Yeah.
+730,34,288,1028000,Martin Prince,Bart's Treehouse,"Well, in the unlikely event of a zero, possession will be determined by ""Rock, Scissor, Paper"" competition. Best three out of five, how's that?"
+731,34,289,1037000,Martin Prince,Bart's Treehouse,"Excellent! Well, today being Saturday, Gentlemen, I guess I'll be taking my comic and..."
+732,34,290,1042000,Bart Simpson,Bart's Treehouse,"Uh, uh, uh, ah nice try, Martin. It almost worked. But tonight, this comic book stays right here."
+733,34,291,1049000,Martin Prince,Bart's Treehouse,"If the comic book stays right here, then so do I."
+734,34,292,1051000,Milhouse Van Houten,Bart's Treehouse,Me too!
+735,34,293,1052000,Bart Simpson,Bart's Treehouse,"Fine. We're all going to stay here with the comic book. It'll be like a sleep-over. Yeah, a sleep-over. That's what pals do, right? Real friendly-like."
+736,34,294,1067000,Milhouse Van Houten,Bart's Treehouse,I want to read it again.
+737,34,295,1069000,Bart Simpson,Bart's Treehouse,"Nice try, mister."
+738,34,296,1070000,Martin Prince,Bart's Treehouse,"Milhouse, the acids in your hands could damage the newsprint. We want to keep this comic forever, so the last one alive will have the honor of being buried with it."
+739,34,297,1080000,Bart Simpson,Bart's Treehouse,"What do you mean, the last one alive?"
+740,34,298,1083000,Martin Prince,Bart's Treehouse,I meant years from now.
+741,34,299,1084000,Bart Simpson,Bart's Treehouse,"Yeah, sure you did."
+742,34,300,1085000,Milhouse Van Houten,Bart's Treehouse,"Bart, don't push him!"
+743,34,301,1087000,Bart Simpson,Bart's Treehouse,"I knew it. You're both against me! Well, nobody makes a sap out of Bartholemew J. Simpson."
+744,34,302,1102000,Marge Simpson,Bart's Treehouse,I thought you boys might like some milk and microwave s'mores.
+745,34,303,1107000,Milhouse Van Houten,Bart's Treehouse,"Thank you, Mrs. Simpson."
+746,34,304,1110000,Bart Simpson,Bart's Treehouse,"Sweet dreams, boys."
+749,34,307,1128000,Bart Simpson,Bart's Treehouse,One more step and you're a dead man.
+750,34,308,1131000,Martin Prince,Bart's Treehouse,"I have to go to the bathroom, Bart."
+751,34,309,1133000,Bart Simpson,Bart's Treehouse,"Yeah, right, so do I, but you don't see me gettin' up."
+752,34,310,1135000,Milhouse Van Houten,Bart's Treehouse,"Hey, what's going on?"
+753,34,311,1137000,Bart Simpson,Bart's Treehouse,Our dear friend Martin was trying to steal the comic book.
+754,34,312,1140000,Milhouse Van Houten,Bart's Treehouse,Let's tie him up!
+755,34,313,1144000,Martin Prince,Bart's Treehouse,"Bart, is this how you treat all your guests?"
+757,34,314,1145000,Bart Simpson,Bart's Treehouse,"Quiet, Piggy, or we'll stick an apple in your mouth. We can't take any chances. We'll have to take turns watching him."
+758,34,315,1149000,Milhouse Van Houten,Bart's Treehouse,Okay. I'll go first.
+759,34,316,1152000,Bart Simpson,Bart's Treehouse,"Oh, so that's your little game. Let old Bart get nice and drowsy, then, when his back is turned... wham!"
+760,34,317,1159000,Bart Simpson,Bart's Treehouse,"Well, it is not going to happen, see?"
+761,34,318,1161000,Milhouse Van Houten,Bart's Treehouse,"You're going crazy, Bart. I'm telling your mom!"
+762,34,319,1164000,Bart Simpson,Bart's Treehouse,"Hey Martin, tell him what we do with squealers."
+763,34,320,1165000,Martin Prince,Bart's Treehouse,I don't know. Is it worse than what you do with people that have to go to the bathroom?
+764,34,321,1169000,Milhouse Van Houten,Bart's Treehouse,You can't stop me.
+765,34,322,1170000,Bart Simpson,Bart's Treehouse,The hell I can't!
+767,34,324,1176000,Marge Simpson,Simpson Home,"Homer, it's really coming down. Could you check on the boys?"
+768,34,325,1183000,Homer Simpson,Simpson Home,They're fine.
+770,34,327,1193000,Martin Prince,Bart's Treehouse,"Bart, the comic!"
+771,34,328,1196000,Milhouse Van Houten,Bart's Treehouse,Don't let go of me Bart!
+772,34,329,1198000,Bart Simpson,Bart's Treehouse,"Milhouse, it's not that far to the ground. And the rain has probably softened it up a bit."
+773,34,330,1204000,Milhouse Van Houten,Bart's Treehouse,"No, Bart! No!"
+774,34,331,1208000,Martin Prince,Bart's Treehouse,"You know, if you guys hadn't tied me up, I could be saving the comic as we speak."
+775,34,332,1212000,Bart Simpson,Bart's Treehouse,Shut up! Shut up!
+776,34,333,1214000,Milhouse Van Houten,Bart's Treehouse,"Help me, Bart! I didn't even want the comic. I wanted Carl Yastrzemski with the big side-burns."
+777,34,334,1245000,Marge Simpson,Bart's Treehouse,"Boys, you better come in the house. You don't want to get the sniffles."
+778,34,335,1250000,Bart Simpson,Bart's Treehouse,"Aw, Mom."
+779,34,336,1251000,Marge Simpson,Bart's Treehouse,Now come on... You can play your little tie-up game inside. I've got some cocoa on the stove. Who wants imitation marshmallows?
+780,34,337,1261000,Martin Prince,Bart's Treehouse,"I'd raise my hand, Mrs. Simpson, if I could."
+783,34,340,1273000,Martin Prince,Simpson Home,"It's no use, fellows. Another comic book has returned to the earth from whence it came."
+784,34,341,1280000,Bart Simpson,Simpson Home,We worked so hard and now it's all gone... We ended up with nothing because the three of us can't share.
+785,34,342,1287000,Milhouse Van Houten,Simpson Home,What's your point?
+786,34,343,1289000,Bart Simpson,Simpson Home,Nothing. It just kind of ticks me off.
+787,34,344,1296000,Radioactive Man,Simpson Home,"Well, the world is safe again... but for how long?"

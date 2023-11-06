@@ -1,0 +1,223 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+106653,411,1,40000,Lisa Simpson,Simpson Home,"Dad, I'm freezing."
+106654,411,2,42000,Homer Simpson,Simpson Home,"Don't worry, kids. These wool socks and down parkas will keep you warm."
+106656,411,4,50000,Marge Simpson,Simpson Home,We wouldn't be in this trouble if you'd just paid the heating bill!
+106657,411,5,54000,Homer Simpson,Simpson Home,I thought global warming would take care of it. Al Gore can't do anything right.
+106658,411,6,58000,Bart Simpson,Simpson Home,"I got some old magazines to burn. ""Popular Science,"" ""Redbook"", ""Big and Tall Halloween Costume"" catalogue..."
+106659,411,7,67000,Bart Simpson,Simpson Home,Next item...
+106660,411,8,69000,Marge Simpson,Simpson Home,No!!! That's my memory box!
+106661,411,9,75000,Lisa Simpson,Simpson Home,"Mom, I didn't know you went to college!"
+106662,411,10,79000,Bart Simpson,Simpson Home,"Yeah, you always said that after high school, Dad ""blessed you with the unplanned miracle of me."""
+106663,411,11,83000,Marge Simpson,Simpson Home,"Hey, parents are allowed to keep some secrets."
+106664,411,12,87000,Homer Simpson,Simpson Home,Like which kid's their favorite! It's Lisa.
+106665,411,13,90000,Lisa Simpson,Simpson Home,"You know, Mom and Dad are almost forty, and Bart is ten. That means you didn't have him until way after high school."
+106666,411,14,100000,Bart Simpson,Simpson Home,"Yeah, what happened while I was chillin' in Dad's junk?"
+106667,411,15,103000,Marge Simpson,Simpson Home,There is a part of our past that we haven't told you kids about. A turbulent part.
+106668,411,16,109000,Bart Simpson,Simpson Home,C'mon. More turbulent than now?
+106669,411,17,111000,Lisa Simpson,Simpson Home,We're in every kind of therapy!
+106670,411,18,113000,Homer Simpson,Simpson Home,Things happened between your mother and me that we're not proud of. It was the middle of a wild decade known as the nineteen nineties.
+106671,411,19,120000,Bart Simpson,Simpson Home,The nineties? Never heard of it.
+106672,411,20,122000,Homer Simpson,Simpson Home,"Oh, it was a wonderful time. The Iraq war was over once and for all, a struggling Matt Groening created ""Futurama,"" and young people believed in their dreams, thanks to a TV show called ""Melrose Place""..."
+106674,411,22,136000,Homer Simpson,Apartment Complex,Your mother and I were dating and we had just moved into our first apartment together.
+106675,411,23,144000,Kirk Van Houten,Apartment Complex,"Luann, a picture of you cheating on me is downloading onto my computer. I'll know who you were with in less than six hours! Unless someone picks up the phone."
+106678,411,26,156000,Homer Simpson,Apartment,"We didn't have a lot of money, but we were young and in love."
+106688,411,27,161000,Young Marge,Apartment,I'm afraid it's Top Ramen again.
+148094,411,28,164000,Young Homer,Apartment,"With you, baby, Top Ramen tastes like Cup O' Noodles."
+148095,411,30,170000,Young Homer,Apartment,You know these IKEA foam futons do Velcro together.
+106690,411,31,175000,Young Marge,Apartment,"I'm sorry, I'm not ready to do that yet. I want to wait until I'm married, or at least really drunk."
+148096,411,32,182000,Young Homer,Apartment,I understand. We should follow the lead of today's celebrity role models.
+106680,411,34,188000,Homer Simpson,King Toot's Music Store,"Like all young people, I had a musical dream."
+106681,411,35,188000,Homer Simpson,King Toot's Music Store,A dream called inoffensive urban light hip-hop smooth grooves.
+148097,411,36,194000,Young Homer,King Toot's Music Store,"Okay everyone, let's warm up our harmonies. HOMER..."
+106682,411,37,198000,Young Lenny,King Toot's Music Store,LENNY...
+106683,411,38,199000,Young Carl,King Toot's Music Store,CARL...
+106684,411,39,200000,Young Lou,King Toot's Music Store,LOU THE COP...
+106685,411,40,204000,Band,King Toot's Music Store,I'LL MAKE RUB TO YOU / SHOW RESPECT FOR YOU / HUG SO SAFE AND STRONG / BACKRUB ALL NIGHT LONG! / I'LL MAKE RUB TO YOU!
+106691,411,42,216000,Marge Simpson,Apartment Building,But our happiness was about to unravel just like Kevin Costner's career: because of the postman.
+148098,411,44,224000,Young Homer,Apartment,You applied to college? Why didn't you tell me?
+106710,411,45,227000,Young Marge,Apartment,I did tell you.
+148099,411,46,228000,Young Homer,Apartment,"I thought you were telling me you wanted to apply yourself to making a collage. And as I recall, I was against it."
+106711,411,47,234000,Young Marge,Apartment,I can't believe I got in. It's like a dream come true. An expensive dream.
+148100,411,49,245000,Young Homer,Apartment,"Oh baby, you deserve every last bit of it! I can get the money. But it'll mean swallowing my pride and working for my Dad..."
+106708,411,51,255000,Young Grampa,Warehouse,"Well, well, well, look who's come crawling back to work for your old man. What do you need the money for? Medicine?"
+148101,411,52,263000,Young Homer,Warehouse,None of your business. Now give me a job at your business.
+106694,411,53,267000,Kids,Warehouse,Die! Die! Die!
+148102,411,54,270000,Young Homer,Warehouse,"Okay, all right! Time's up!"
+106709,411,55,279000,Young Grampa,Warehouse,This counts as your break.
+106696,411,57,281000,Homer Simpson,Springfield University,But Marge's education was worth all the pistol whipping in the world.
+106713,411,58,286000,Young Marge,Springfield University,This place is just like the brochure... autumn leaves...bull sessions...
+106697,411,59,292000,Young Comic Book Guy,Springfield University,And that is why the Lord of the Rings can never be filmed.
+148227,411,60,296000,Young Marge,Springfield University,Fraternity pledges in their beanies...
+148228,411,61,299000,Young Marge,Springfield University,I think I'm gonna like it here.
+106699,411,63,304000,Prof. August,CLASSROOM,"So, have you all bought the required textbooks for this class?"
+106700,411,64,309000,Prof. August,CLASSROOM,Good. Now throw them all away!
+106702,411,66,316000,Prof. August,CLASSROOM,Everything you think you know about history is a lie. For example: the Founding Fathers.
+106703,411,67,321000,Prof. August,CLASSROOM,What did they have in common?
+106704,411,68,323000,Male Student,CLASSROOM,They defied a king?
+106705,411,69,324000,Female Student,CLASSROOM,They created a system of checks and balances?
+106706,411,70,326000,Prof. August,CLASSROOM,"Wrong! They were all white, Protestant, property-owning males!"
+148229,411,72,336000,Young Marge,CLASSROOM,Are you saying that America was founded on... misconceptions?
+106687,411,73,342000,Prof. August,CLASSROOM,Who said that?
+106714,411,74,348000,Prof. August,CLASSROOM,"Hm, that is exactly what I'm saying."
+106715,411,75,353000,Prof. August's Thoughts,CLASSROOM,"Fall Semester, you just got... interesting."
+148103,411,77,361000,Young Homer,Springfield University,This book sucks so much.
+106732,411,78,363000,Young Marge,Springfield University,"Homie, my mind has been opened in so many ways! Did you know that every U.S. president has been a straight white man?"
+148104,411,79,370000,Young Homer,Springfield University,Even Walt Disney?
+106733,411,80,371000,Young Marge,Springfield University,And did you also know that history is written by the winners?
+148105,411,81,375000,Young Homer,Springfield University,Really? I thought it was written by losers.
+106734,411,82,381000,Young Marge,Springfield University,"If you think that, you should meet my new professor. Professor August has shown me a side of the world I never knew."
+148106,411,83,387000,Young Homer,Springfield University,"Professor August, eh? Who is he, some grey-haired old bookworm?"
+106735,411,84,391000,Young Marge,Springfield University,Uhhh... not exactly.
+106717,411,85,393000,Prof. August,Springfield University,Marge?
+106718,411,86,393000,Prof. August,Springfield University,I hope I'll be seeing you tomorrow during office hours.
+148230,411,87,398000,Young Marge,Springfield University,"Three to five, right?"
+106719,411,88,400000,Prof. August,Springfield University,"If my beads are parted, come right in."
+148231,411,89,403000,Young Marge,Springfield University,I will!
+106720,411,90,407000,Prof. August,Springfield University,To the faculty club!
+148107,411,92,413000,Young Homer,Springfield University,I've never heard that noise before. Are you sick?
+148108,411,94,417000,Young Homer,Springfield University,Hm... I wonder what's on your mind...
+106722,411,96,428000,Gas Man,Simpson Home,"Okay, I relit your pilot light. Now I just need to do a little work on the thermostat."
+106723,411,97,433000,Gas Man,Simpson Home,Would you like me to tell you a story while I work? One about a woman I loved and lost?
+106724,411,98,437000,Lisa Simpson,Simpson Home,"We're in the middle of our own story, thank you."
+106725,411,99,439000,Gas Man,Simpson Home,"Right. No one wants to hear about the gas man's girl. Just shut up, monkey man, and make the gas flow."
+106726,411,100,442000,Marge Simpson,Simpson Home,"Anyway, I was growing to admire my professor more and more..."
+106728,411,102,450000,Prof. August,PROF. AUGUST'S CLASS,"...so that's why instead of ""X-X"", I think of the female genes in a more positive light..."
+106729,411,103,457000,Prof. August,PROF. AUGUST'S CLASS,Plus-plus.
+106747,411,104,457000,Young Marge,PROF. AUGUST'S CLASS,"Professor, do you think white male scientists have marginalized the contributions of the third world?"
+106736,411,105,467000,Prof. August,PROF. AUGUST'S CLASS,"Great question. And the answer is ""of course."" Could a tribe of bushmen have invented penicillin? Maybe they already have. But no one asked them. No one asked them."
+148109,411,108,483000,Young Homer,Apartment,"Oh Elaine, will you ever find someone who's sponge-worthy?"
+106749,411,109,488000,Young Marge,Apartment,Professor August says the situation comedy is a doomed genre.
+148110,411,110,492000,Young Homer,Apartment,"Here's what I say to that: no soup for you! Because I am ""master of my domain."" Newman."
+106750,411,111,499000,Young Marge,Apartment,I wish you would support my comments.
+148111,411,112,501000,Young Homer,Apartment,"Hey, I worked hard all day to pay for your education. Can't I get all Zima-ed up and have my best girl put salve on my laser burns?"
+106751,411,113,508000,Young Marge,Apartment,Are the lasers supposed to burn you?
+148112,411,114,511000,Young Homer,Apartment,"Apparently if all the kids fire at your stomach at once, it adds up."
+106739,411,118,542000,Prof. August,COLLEGE,"Marge, your art project for ""protest studies"" is very impressive."
+148235,411,119,548000,Young Marge,COLLEGE,"Thank you, Professor August."
+106740,411,120,551000,Prof. August,COLLEGE,"Oh please, I'm your advisor. Call me Steffan."
+148236,411,121,556000,Young Marge,COLLEGE,"Oh, thanks. It's just a note from my boyfriend."
+106741,411,122,560000,Prof. August,COLLEGE,Let me guess: he's a high school flame who's preventing you from flowering.
+106742,411,123,564000,Marge Simpson,COLLEGE,"Homer's perfect for me! Just look at this note: ""I miss you."" Aww..."
+106743,411,124,569000,Prof. August,COLLEGE,"Actually, Marge, if I may deconstruct that letter... When he writes ""I miss you,"" ""I"" is the subject and ""you"" is the object. You are his object."
+148237,411,125,578000,Young Marge,COLLEGE,But Homer's so supportive. He's paying for me to go to college.
+106744,411,126,582000,Prof. August,COLLEGE,"He's paying for you? Like he owns you? I'm sorry, but that is oppression."
+148238,411,127,587000,Young Marge,COLLEGE,"Well, I know you'd never say anything that isn't objective..."
+106745,411,128,590000,Prof. August,COLLEGE,"Marge, your assignment is to think about what I've said about your relationship."
+148239,411,129,594000,Young Marge,COLLEGE,When is it due?
+106746,411,130,595000,Prof. August,COLLEGE,Before it's too late.
+148240,411,131,597000,Young Marge,COLLEGE,Steffan!
+106753,411,133,599000,Homer Simpson,College Campus,Marge! Marge! Where are you?!
+148113,411,134,603000,Young Homer,College Campus,Are you by that Joan Miro statue?
+106754,411,135,606000,College Kid,College Campus,"It's ""Juan"" Miró!"
+106755,411,136,608000,2nd College Kid,College Campus,Stupid townie!
+148114,411,137,611000,Young Homer,College Campus,"Hey, it's townies like me that cook your food and clean your bathrooms!"
+106756,411,138,615000,Dean,College Campus,If you did the former better we'd use the latter less.
+106757,411,139,620000,Dean,College Campus,"That's it, townie! Run! Run back to your town!"
+106759,411,141,624000,Prof. August,PROFESSOR AUGUST'S OFFICE,"Marge, this dreamcatcher was given to me by a warrior of the La-ko-pa-NEY tribe. A tribe ruled by women."
+106760,411,142,630000,Prof. August,PROFESSOR AUGUST'S OFFICE,I think it has already caught my dream.
+148115,411,143,635000,Young Homer,PROFESSOR AUGUST'S OFFICE,What the hell is going on here? Chanting?!
+106767,411,144,639000,Young Marge,PROFESSOR AUGUST'S OFFICE,Homer! You're embarrassing me!
+148116,411,145,641000,Young Homer,PROFESSOR AUGUST'S OFFICE,"Marge, what are you doing in this crazy college? This place is nothing like ""Animal House""! I smashed a beatnik's guitar and he sued me for damages! Successfully!"
+106768,411,146,651000,Young Marge,PROFESSOR AUGUST'S OFFICE,"Homie, go home. We'll talk about this later."
+106766,411,147,654000,Young Homer,PROFESSOR AUGUST'S OFFICE,Fine!
+148117,411,148,657000,Young Homer,PROFESSOR AUGUST'S OFFICE,Slam!
+148118,411,151,665000,Young Homer,King Toot's Music Store,"I can't do it! Our harmony-laden R&B doesn't make sense in this cruel world. I'm taking our music to the next level: Guitar Rock Utilizing Nihilist Grunge Energies. Or, as I call it: GRUNGE."
+148119,411,153,679000,Young Homer,COLLEGE GREEN,"We are Sadgasm, and this song is called... ""Politically Incorrect."""
+148120,411,155,694000,Young Homer,COLLEGE GREEN,PAIN IS BROWN / HATE IS WHITE / LOVE IS BLACK / STAB THE NIGHT /
+148121,411,156,711000,Young Homer,COLLEGE GREEN,KINGDOM OF NUMB / CLOSET OF HURT / FEELINGS ARE DUMB / KISSES ARE DIRT...
+106765,411,157,726000,Man,COLLEGE GREEN,"Kurt? Kurt? It's Marvin! Your cousin, Marvin Cobain! You know that new sound you're looking for? Well listen to this!"
+148122,411,158,736000,Young Homer,COLLEGE GREEN,Marge!
+148123,411,159,742000,Young Homer,COLLEGE GREEN,Hey Marge.
+106769,411,160,744000,Young Marge,COLLEGE GREEN,"Homer, your music is so angry and bitter."
+148124,411,161,746000,Young Homer,COLLEGE GREEN,Now why would I be angry and bitter? Because I'm paying for you to make goo-goo eyes at some smooth-talking professor?
+106792,411,162,752000,Young Marge,COLLEGE GREEN,Well here's a question for you: why should I stay with a man who resents how I've flowered?
+148125,411,163,757000,Young Homer,COLLEGE GREEN,"Well if you feel that way, maybe you can find someone who wants to nurture the new you, maybe someone a little older and more sophisticated, who can take you to Europe during the summer."
+106770,411,164,767000,Prof. August,COLLEGE GREEN,Fine by me.
+106771,411,166,772000,Buxom Coed,COLLEGE GREEN,Will you sign my boobs?
+148127,411,167,775000,Young Homer,COLLEGE GREEN,Yeah.
+106773,411,169,785000,Bart Simpson,Simpson Home,"Mom, why'd you stop talking for two and a half minutes?"
+106774,411,170,788000,Lisa Simpson,Simpson Home,It seemed like twenty.
+106775,411,171,789000,Marge Simpson,Simpson Home,"Whatever, Homer and I had the wrenching task of dividing up a shared life..."
+148128,411,173,796000,Young Homer,Apartment,"Okay, I'll keep the L.P.s and you take the C.D.s. I'll take the typewriter, you take the computer. I'll take the Enron stock, you take the Microsoft stock. And um..."
+106793,411,174,805000,Young Marge,Apartment,Who gets... Cutie-puss?
+148129,411,175,809000,Young Homer,Apartment,I just want a tentacle.
+106778,411,177,824000,Homer Simpson,Street,"I was so depressed, I spent all my time in a bar."
+148130,411,179,829000,Young Homer,Bar,"Gimme a beer, Moe."
+106780,411,180,830000,Young Moe,Bar,I don't sell booze no more. This is a cigar bar now.
+148131,411,181,835000,Young Homer,Bar,Fine. Cohiba me.
+148132,411,182,838000,Young Homer,Bar,Leave the humidor.
+106781,411,183,844000,Young Barney,Bar,I don't feel so good.
+106782,411,184,851000,Young Moe,Bar,I wasn't tryin' to steal your watch. I-I-I-I was just comin' on to ya.
+106783,411,185,855000,Patron,Bar,"Okay, let's go back to my place."
+106784,411,186,859000,Young Moe,Bar,"Oh, boy."
+106786,411,188,860000,Prof. August,Springfield,Ready to take my personal tour of Springfield's wheelchair unfriendly restaurants?
+106794,411,189,865000,Young Marge,Springfield,I sure am! I want your knowledge inside me!
+148133,411,190,876000,Young Homer,Springfield,Seeing Marge always reminds me of Marge.
+106787,411,191,882000,Krusty the Clown,Springfield,Now where will I get my oxygen?
+148134,411,193,891000,Young Homer,GRUNGE CLUB,"RAZORBLADE OF APATHY / SHAVE ME WITH YOUR IRONY / SHAVE ME, SHAVE ME..."
+106813,411,197,907000,Young Marge,BROWNSTONE,Have you really read all these books?
+106795,411,198,910000,Prof. August,BROWNSTONE,"Morally, I couldn't display them on shelves if I hadn't. But I watch sports as well, just like a regular man."
+106796,411,199,917000,Prof. August,BROWNSTONE,"Good Goddess! The ""Patriots"" are deep in ""Redskin"" territory. This isn't entertainment, it's genocide."
+106814,411,200,929000,Young Marge,BROWNSTONE,Why don't we put on some music?
+106797,411,201,933000,Prof. August,BROWNSTONE,No! No! I need whale songs!
+106798,411,202,943000,Prof. August,BROWNSTONE,"Marge, may I compliment your appearance?"
+106815,411,203,945000,Young Marge,BROWNSTONE,"Yeah, sure."
+106799,411,204,946000,Prof. August,BROWNSTONE,"You look lovely. If I were to approach you for a kiss, would you construe that as harassment or give your willing consent?"
+148241,411,205,954000,Young Marge,BROWNSTONE,"Consent, of course."
+106800,411,206,956000,Prof. August,BROWNSTONE,"Ah. Continuing in that line of thought, may I kiss your mouth with my mouth?"
+148242,411,207,961000,Young Marge,BROWNSTONE,Just do it already!
+106802,411,209,964000,Homer Simpson,Springfield,I had finally realized every rock star's dream...
+106804,411,211,964000,Homer Simpson,Victorian Mansion,...hating being famous.
+148135,411,212,964000,Young Homer,Victorian Mansion,"Why aren't I happy? I'm the hottest grunge artist on Mucous Records, Weird Al is doing a parody of my song..."
+106805,411,213,983000,Weird Al,Victorian Mansion,"RAISIN BREAD WITH APPLESAUCE / TONY DANZA HE'S THE BOSS / BRAIN FREEZE, BRAIN FREEZE / BRAIN FREEZE, BRAIN FREEZE..."
+148136,411,214,1000000,Young Homer,Victorian Mansion,He who is tired of Weird Al is tired of life.
+106807,411,216,1007000,Prof. August,Beach,"Look at that lighthouse. That's the ultimate expression of phallo-centric technocracy, violating mother sky."
+148243,411,217,1015000,Young Marge,Beach,I thought they were just tall so boats could see them.
+106808,411,218,1017000,Prof. August,Beach,"No, Marge. Everything penis-shaped is bad."
+148244,411,219,1022000,Young Marge,Beach,"Look, a wedding!"
+106809,411,220,1024000,Prof. August,Beach,Slavery is alive and well in Springfield.
+148245,411,221,1027000,Young Marge,Beach,You oppose marriage?
+106810,411,222,1029000,Prof. August,Beach,"Marge, marriage has oppressed women for centuries."
+148246,411,223,1032000,Young Marge,Beach,"But Steffan, I would like to get married some day."
+106811,411,224,1036000,Prof. August,Beach,"Oh Marge, it's statements like that that make people say women are stupid."
+148247,411,225,1040000,Young Marge,Beach,It's statements like that that... are mean!
+106816,411,226,1043000,Prof. August,Beach,"Well it may sound mean, but I'm just trying to help you evolve!"
+106834,411,227,1046000,Young Marge,Beach,"Oh, evolve yourself, Professor Jerk -- or should I say, Associate Professor Jerk!"
+106818,411,229,1056000,Prof. August,Beach,I only got denied tenure because my department head is an idiot.
+106819,411,230,1059000,MUSCLE-BOUND IDIOT DEPARTMENT HEAD,Beach,"Der, duh, what did you say about me?"
+106820,411,231,1063000,Prof. August,Beach,"I'm sorry, Professor Moose."
+106821,411,232,1064000,MUSCLE-BOUND IDIOT DEPARTMENT HEAD,Beach,You're about to get your PhD -- Pound Head Down.
+148137,411,235,1079000,Young Homer,STUDENT UNION,SPREAD YELLOW GUNK / ON MY PANCAKE HEART / COUNTRY-CHURNED GIRL / IN MY GROCERY CART
+106835,411,236,1087000,Young Marge,STUDENT UNION,Could he be singing about me?
+106836,411,237,1091000,Young Marge,STUDENT UNION,He is!
+148138,411,238,1093000,Young Homer,STUDENT UNION,I PAID FOR HER DREAMS / SHE TAUGHT ME TO CRY / LIKE WATERY KNIVES / LIKE RAIN FROM MY EYES / I CAN'T BELIEVE YOU'RE NOT MINE / I CAN'T BELIEVE YOU'RE NOT MINE...
+148139,411,239,1114000,Young Homer,STUDENT UNION,MARGE-A-RINE / MARGE-A-RINE / MARGE-A-RINE / MARGE-A-RINE / MARGE-A-RINE...
+106837,411,240,1131000,Young Marge,STUDENT UNION,He loves me so much... after what I did to him!
+106824,411,241,1137000,Kurt Loder,STUDENT UNION,"We interrupt this ""Bleak Block"" to bring you a breaking story. Grunge trailblazers Sadgasm have broken up."
+106826,411,243,1146000,Kurt Loder,STUDENT UNION,"Reclusive front man Homer Simpson has holed himself up in his mansion, as rumors swirl about an out-of-control narcotics addiction. This is Kurt Loder reporting from... the nineties."
+106838,411,244,1155000,Young Marge,STUDENT UNION,"Oh no, narcotics!"
+106839,411,247,1164000,Young Marge,Victorian Mansion,"Oh my God, you're a junkie!"
+148140,411,248,1166000,Young Homer,Victorian Mansion,I need it...
+106840,411,249,1167000,Young Marge,Victorian Mansion,I'm getting you off this stuff.
+148141,411,250,1169000,Young Homer,Victorian Mansion,But I need it...
+148248,411,251,1170000,Young Marge,Victorian Mansion,No you don't!
+106829,411,252,1176000,Marge Simpson,Victorian Mansion,"Unfortunately, as I later learned, that wasn't heroin. It was insulin."
+106830,411,253,1181000,Marge Simpson,Victorian Mansion,Homer really did need those injections.
+106831,411,254,1183000,Homer Simpson,Victorian Mansion,I had become diabetic from drinking too many Frappuccinos.
+106866,411,256,1188000,Young Marge,Hospital,"Homie, I got so caught up in the world of college that I forgot how important your love was. Can you find it in your heart to take me back?"
+148142,411,257,1196000,Young Homer,Hospital,Of course. The thing that stood between us -- the nineties -- is almost over.
+106867,411,258,1201000,Young Marge,Hospital,"You're right. But I'm worried about what's on the horizon: reality shows, Britney Spears, the suspicious number of home runs being hit."
+148143,411,259,1209000,Young Homer,Hospital,"At least we know there'll never be a president worse than Bill Clinton. Imagine, lying in a deposition in a civil lawsuit. That's the worst sin a president could commit."
+148249,411,260,1218000,Young Marge,Hospital,There'll never be a worse president. Never.
+148144,411,261,1220000,Young Homer,Hospital,Never.
+106842,411,263,1222000,Homer Simpson,Classic Simpsons Mini-golf Course,"With the nineties drawing to a close, and the Sydney Olympics to look forward to, our love rekindled..."
+106843,411,264,1228000,Homer Simpson,Classic Simpsons Mini-golf Course,"And one moonlit night, I finally had fun at a mini-golf course."
+106845,411,267,1236000,Marge Simpson,Castle,"Homer, stop!"
+106846,411,268,1238000,Marge Simpson,Castle,You don't have to tell the kids everything!
+106847,411,269,1241000,Lisa Simpson,Castle,What did I miss? How did it end?
+106848,411,270,1243000,Bart Simpson,Castle,Did you two ever get back together?
+106849,411,271,1244000,Homer Simpson,Castle,"Yep, that professor couldn't keep me and Marge apart."
+106850,411,272,1247000,Homer Simpson,Castle,"I mean, unless he had been a little nicer at the beach."
+106852,411,274,1251000,Marge Simpson,Castle,Well that professor did teach me one good lesson -- Homie is where my heart is.
+106853,411,275,1258000,Homer Simpson,Castle,"And once we were back together, I was too happy ever to grunge again."
+106854,411,276,1264000,Dean,Castle,Townies.

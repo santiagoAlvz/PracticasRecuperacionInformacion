@@ -1,0 +1,250 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+73958,291,3,46000,Krusty Clock,Simpson Home,Hey hey! Hey hey! Hey hey!
+73959,291,4,49000,Krusty Clock,Simpson Home,Hey hey! Hey...
+73960,291,5,51000,Homer Simpson,Simpson Home,"So hot, so sticky..."
+73961,291,6,60000,Homer Simpson,Simpson Home,Marge?!
+73962,291,7,61000,Marge Simpson,Simpson Home,I'm back here.
+73964,291,9,69000,Dr. Julius Hibbert,CITY MORGUE,"Ah, the old folks. It happens every heat wave."
+73965,291,10,72000,Dr. Julius Hibbert,CITY MORGUE,"Okay people, out of my freezer!"
+73966,291,11,72000,Grampa Simpson,CITY MORGUE,/ / Oy.
+73967,291,12,76000,Grampa Simpson,CITY MORGUE,But we're hot and elderly.
+73968,291,13,78000,Dr. Julius Hibbert,CITY MORGUE,"I'm sorry, these are reserved for the recently deceased."
+73969,291,14,81000,Dr. Julius Hibbert,CITY MORGUE,Hm... Don't you go too far.
+73971,291,16,88000,Seymour Skinner,Springfield Elementary School,This air conditioning is better than any truant officer. I'm seeing students I haven't seen in years.
+73972,291,17,99000,Fonzie,Springfield Elementary School,"Eyy, Mrs. K."
+73973,291,18,102000,Edna Krabappel-Flanders,Springfield Elementary School,"Oh, Arthur."
+73975,291,20,115000,Groundskeeper Willie,Springfield Elementary School Roof,We're wasting more energy than Ricky Martin's girlfriend. Hey-oh!
+73978,291,23,131000,Mayor Joe Quimby,Springfield Nuclear Power Plant,"Gentlemen, our city's sucking down the juice like my wife at an open bar. Mr. Burns, can your plant handle it?"
+73979,291,24,139000,C. Montgomery Burns,Springfield Nuclear Power Plant,No problem. We've siphoned off extra power from the orphanage. Who are they going to complain to -- their parents?
+73980,291,25,144000,Waylon Smithers,Springfield Nuclear Power Plant,"But sir, we're at full capacity. One more appliance could overload the system."
+73981,291,26,149000,Mayor Joe Quimby,Springfield Nuclear Power Plant,Fear not. Our town has dodged disaster and I have come out smelling like guestroom soap.
+73984,291,29,163000,Homer Simpson,Simpson Home,You know what will cool this place down? A little touch of winter.
+73985,291,30,170000,Lisa Simpson,Simpson Home,"Dad, no. We're trying to conserve energy."
+73986,291,31,173000,Homer Simpson,Simpson Home,"Lisa, if we start conserving, the environmentalists win!"
+73987,291,32,184000,Santa Claus,Simpson Home,"JINGLE BELL, JINGLE BELL, JINGLE BELL RO..."
+73988,291,33,191000,Homer Simpson,Simpson Home,Jingle bell what?
+73989,291,34,192000,Lisa Simpson,Simpson Home,"Dad, it's a blackout."
+73990,291,35,194000,Homer Simpson,Simpson Home,A blackout?! Every time Santa and I get together it's a disaster.
+73992,291,37,199000,Moe Szyslak,Springfield,Oh no! The power's out! We'll miss Fox Celebrity Boxing!
+73993,291,38,203000,Barney Gumble,Springfield,I heard tonight they have Ed Bradley versus Mr. Ed.
+73995,291,40,206000,Lenny Leonard,Springfield Streets,It's terrible -- all the traffic lights are out. Driving sure is dangerous.
+73996,291,41,211000,Carl Carlson,Springfield Streets,"Yeah, tell me about it. I got some yuppie jerkoff headed right for me, yakkin' away on his cell phone."
+73997,291,42,217000,Lenny Leonard,Springfield Streets,"Huh, I hear that. I got some big shot barreling down on me. Hey! Who're you talkin' to, your boyfriend?"
+73999,291,43,222000,Carl Carlson,Springfield Streets,"Hey, jackass, your voice sounds familiar!"
+74003,291,47,232000,Lenny Leonard,Costington's Front Window,I don't hear an alarm. Let's take stuff.
+74004,291,48,234000,Carl Carlson,Costington's Front Window,"Wow, isn't that stealing?"
+74005,291,49,235000,Lenny Leonard,Costington's Front Window,"No, it's just looting."
+74006,291,50,237000,Carl Carlson,Costington's Front Window,Sweet. Let's go nuts.
+74007,291,51,245000,Barney Gumble,Costington's Front Window,"Mannequins, you can't buy these!"
+74008,291,52,247000,Groundskeeper Willie,Costington's Front Window,"Oh, look at all these tube socks!"
+74010,291,54,249000,Moe Szyslak,Springfield,"Aw, crap."
+74013,291,57,279000,Arnie,Helicopter,"Kent, this city has exploded in a fireball of pent-up rage."
+74014,291,58,282000,Kent Brockman,Helicopter,"I think what the viewers want to know, Arnie, is: ""Is my house okay?"""
+74015,291,59,282000,Arnie,Helicopter,"You mean, is your giant castle okay, Kent?"
+74016,291,60,290000,Kent Brockman,Helicopter,"Don't hate me because I bought at the right time, Arnie."
+74017,291,61,292000,Arnie,Helicopter,"When's my right time, Kent? When's my right time?"
+74019,291,63,302000,Homer Simpson,Simpson Home,"Oh, no! They're stealing the tire fire!"
+74020,291,64,304000,Looters,Simpson Home,Ow! Ow! Ah! Ah! / Ooh! Ooh! Ooh! Ooh! / Ee! / Hot! / Ooh!
+74021,291,65,306000,Marge Simpson,Simpson Home,"Finally, some repression."
+74023,291,67,313000,Chief Wiggum,Street,"All right, everyone. Disperse immediately. We are prepared to use force and-- What? What? We're not prepared, Eddie? Uh-oh."
+74024,291,68,323000,Chief Wiggum,Street,Someone call 911!
+74025,291,69,325000,Lou,Street,"Aw, they never come."
+74026,291,70,328000,Lisa Simpson,Street,Thus ends the Rule of Law.
+74027,291,71,331000,Bart Simpson,Street,"Look at those looters breaking windows, setting fires... They're living my dream, and you won't let me join them. Please can I throw one little..."
+74028,291,72,340000,Homer Simpson,Street,No.
+74029,291,73,341000,Bart Simpson,Street,What if I just burn down a...
+74030,291,74,341000,Homer Simpson,Street,No.
+74031,291,75,343000,Bart Simpson,Street,Can't I at least incite further...
+74032,291,76,344000,Homer Simpson,Street,No! I've caused enough trouble already by plugging in that Santa Claus. No more irresponsible behavior.
+74033,291,77,350000,Bart Simpson,Street,Can I have a beer?
+74034,291,78,351000,Homer Simpson,Street,"All right, but not the imported."
+73998,291,79,352000,Marge Simpson,Street,Homer!
+74035,291,80,354000,Homer Simpson,Street,"You've got to set limits, Marge."
+74036,291,81,355000,Marge Simpson,Street,No beer!
+74038,291,83,366000,Vendor,Springfield,"Get your T-shirts here. ""I survived the Springfield riot!"""
+74039,291,84,368000,Vendor,Springfield,Remember me as a hero.
+74042,291,87,377000,Captain Horatio McCallister,TOWN MEETING,Yarr. The looters stole me glass eye.
+74043,291,88,382000,Captain Horatio McCallister,TOWN MEETING,This be a superball.
+74044,291,89,385000,Agnes Skinner,TOWN MEETING,"Back in my day, we had people who stood up to ruffians. We called them men."
+74045,291,90,389000,Sideshow Mel,TOWN MEETING,I agree with the hideous crone!
+74046,291,91,394000,Crowd,TOWN MEETING,"Hear, hear! / Yeah! Yeah! Yeah! Oh, yeah! / She's ugly!"
+74047,291,92,396000,Drederick Tatum,TOWN MEETING,"I think I speak for myself, Comic Book Guy and Bumblebee Man when I say, ""I blame Chief Clancy Wiggum?"""
+74048,291,93,403000,Crowd,TOWN MEETING,Yeah! /
+74049,291,94,403000,Chief Wiggum,TOWN MEETING,"You know, it's not just my fault. You were the ones doing all the looting."
+74050,291,95,408000,Cletus Spuckler,TOWN MEETING,Oh sure. Blame the victims. Throw some Nikes at his head.
+74051,291,96,412000,Brandine Del Roy,TOWN MEETING,What size?
+74052,291,97,413000,Mayor Joe Quimby,TOWN MEETING,"People, rest assured -- the Police Department's ineptitude shall not stand! I am announcing the formation of a blue-ribbon committee."
+74054,291,99,422000,Moe Szyslak,TOWN MEETING,A committee?
+74055,291,100,424000,Seymour Skinner,TOWN MEETING,Did he say blue ribbon?
+74056,291,101,425000,Lenny Leonard,TOWN MEETING,Committees don't get any better than that.
+74057,291,102,428000,Carl Carlson,TOWN MEETING,"Man, am I appeased."
+74058,291,103,431000,Otto Mann,TOWN MEETING,"So, uh... can we keep the stuff we stole?"
+74059,291,104,432000,Dr. Julius Hibbert,TOWN MEETING,I think that's implied.
+74061,291,106,436000,Marge Simpson,Simpson Home,I don't care what they say. I won't feel safe in this town until we have better police.
+74062,291,107,441000,Homer Simpson,Simpson Home,Yeah. Wiggum couldn't catch cooties at Milhouse's birthday party.
+74063,291,108,445000,Bart Simpson,Simpson Home,Dad...
+74064,291,109,447000,Homer Simpson,Simpson Home,"Oh. Seriously, everyone says your parties rock."
+74065,291,110,450000,Marge Simpson,Simpson Home,"Homer, this is all your fault. If you hadn't plugged in your dancing Santa, none of this would have happened."
+74066,291,111,456000,Homer Simpson,Simpson Home,"I admit it. I did screw up, but I won't feel guilty until I can put a human face on this."
+74068,291,112,462000,Lisa Simpson,Simpson Home,"Mom, Dad, someone stole my Malibu Stacy collection!"
+74069,291,113,466000,Homer Simpson,Simpson Home,"Marge, doesn't Lisa have a human face?"
+74070,291,114,469000,Marge Simpson,Simpson Home,"Yes, and she's crying."
+74072,291,116,473000,Homer Simpson,Simpson Home,That's it. Nobody messes with my little girl. I'm gonna find those dolls.
+74073,291,117,480000,Lisa Simpson,Simpson Home,Are you gonna call the police?
+74074,291,118,481000,Marge Simpson,Simpson Home,"Oh, forget it. They couldn't catch a cold with a... a, a cold-catching thing."
+74075,291,119,488000,Homer Simpson,Simpson Home,"See, when you don't use Milhouse, it's hard. I love this kid."
+74077,291,121,493000,Homer Simpson,Lisa's Bedroom,"Interesting. All right, I've come up with a composite sketch of my prime suspect."
+74078,291,122,503000,Lisa Simpson,Lisa's Bedroom,"Dad, that's Bart."
+74079,291,123,505000,Homer Simpson,Lisa's Bedroom,Exactly.
+74080,291,124,506000,Homer Simpson,Lisa's Bedroom,"Look at him over there, eating that apple. What's he planning? What?!"
+74081,291,125,513000,Lisa Simpson,Lisa's Bedroom,Maybe we should look for clues.
+74082,291,126,516000,Homer Simpson,Lisa's Bedroom,You're right. What's this?
+74083,291,127,519000,Homer Simpson,Lisa's Bedroom,A cap!
+74084,291,128,521000,Homer Simpson,Lisa's Bedroom,"From ""The Woolly Bully."""
+74087,291,131,527000,Homer Simpson,Hat Store,Do you sell hats?
+74088,291,132,528000,Beatnik,Hat Store,Yeah.
+74089,291,133,528000,Homer Simpson,Hat Store,To people?
+74090,291,134,529000,Beatnik,Hat Store,Maybe.
+74091,291,135,529000,Homer Simpson,Hat Store,People with heads?
+74092,291,136,530000,Beatnik,Hat Store,Sometimes.
+74093,291,137,531000,Jimbo Jones,Hat Store,Dude... I need a new cap.
+74094,291,138,536000,Homer Simpson,Hat Store,Did you steal dolls from my daughter?
+74095,291,139,541000,Jimbo Jones,Hat Store,I think they demean women.
+74096,291,140,543000,Homer Simpson,Hat Store,"Well think again. Son, you're going to juvie."
+74097,291,141,547000,Jimbo Jones,Hat Store,But I just got out of juvie.
+74098,291,142,549000,Homer Simpson,Hat Store,"Good, 'cause I need directions."
+74100,291,144,555000,Lisa Simpson,Simpson Home,"Well, you'll be happy to know Malibu Stacey's fine. I really appreciate what you did, Dad."
+74101,291,145,561000,Homer Simpson,Simpson Home,Aw...
+74102,291,146,563000,Marge Simpson,Simpson Home,"You said you'd do something, and you followed through on it."
+74103,291,147,566000,Homer Simpson,Simpson Home,"Hey, you know, stopping criminals is fun. And I felt like a big man pushing that kid around."
+74105,291,149,574000,Snake Jailbird,Kwik-E-Mart,"Yo, empty the register, dude."
+74106,291,150,577000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Okay, okay, you're the boss."
+74107,291,151,580000,Man,Kwik-E-Mart,Silent alarm activated.
+74108,291,152,582000,Snake Jailbird,Kwik-E-Mart,"Oh, that's it."
+148615,291,153,587000,Homer's Thoughts,Kwik-E-Mart,"No cops in sight. If I'm gonna save that clerk, I'm gonna have to take the law into my own hands again."
+74109,291,154,595000,Homer Simpson,Kwik-E-Mart,Cheese!
+74110,291,155,596000,Snake Jailbird,Kwik-E-Mart,That's muy picante!
+74111,291,156,602000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Homer, you are so brave. If anyone deserves to take a penny, it is you."
+74112,291,157,606000,Homer Simpson,Kwik-E-Mart,"Oh, well... Heh, heh. Hm... oh, I'll... no...."
+74113,291,158,611000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Come on, come on. There's only one in there."
+74115,291,160,615000,Homer Simpson,Simpson Home,"You know, I've had a lot of jobs: boxer, mascot, astronaut, imitation Krusty, baby proofer, trucker, hippy, plow driver, food critic, conceptual artist, grease salesman, carny, Mayor, grifter, bodyguard for the Mayor, country western manager, garbage commissioner, mountain climber, farmer, inventor, Smithers, Poochie, celebrity assistant, power plant worker, fortune cookie writer, beer baron, Kwik-E-Mart clerk, homophobe, and missionary. But protecting Springfield, that gives me the best feeling of all."
+74116,291,161,640000,Marge Simpson,Simpson Home,"If you like protecting people, you could make that your job. You know, start a security company."
+74117,291,162,650000,Homer Simpson,Simpson Home,"Finally, a way to combine my love of helping people with my love of hurting people."
+74119,291,164,656000,Homer Simpson,Moe's Tavern,"Fellas, I'm starting my own private police force. Will you join me?"
+74120,291,165,661000,Carl Carlson,Moe's Tavern,"Well, who would my partner be?"
+74121,291,166,663000,Homer Simpson,Moe's Tavern,How 'bout Lenny?
+74122,291,167,664000,Lenny Leonard,Moe's Tavern,Him?
+74123,291,168,664000,Lenny Leonard,Moe's Tavern,No way!
+74124,291,169,666000,Homer Simpson,Moe's Tavern,You'll do as I say or I'll have your badges. Once I make and give you your badges.
+74126,291,171,672000,Homer Simpson,Flanders Home,"Flanders, I was able to find your missing leaf blower, belt sander and morning newspapers."
+74127,291,172,678000,Ned Flanders,Flanders Home,"Well, nice work, Inspector Find-It. Did you catch the thief?"
+74128,291,173,681000,Homer Simpson,Flanders Home,Who said it was a he?
+74129,291,174,683000,Ned Flanders,Flanders Home,"Well, I sure didn't."
+74130,291,175,684000,Homer Simpson,Flanders Home,Who said you did?
+74131,291,176,684000,Ned Flanders,Flanders Home,Nobody.
+74067,291,177,686000,Homer Simpson,Flanders Home,Wrong answer.
+73180,291,178,686000,Homer Simpson,Flanders Home,Let's go.
+74132,291,179,688000,Ned Flanders,Flanders Home,Okely-dokely.
+74133,291,180,689000,Homer Simpson,Flanders Home,"You're pushing your luck, pal."
+74135,291,182,691000,Homer Simpson,Simpson Home,"Ooh, ooh! Here's my commercial!"
+74136,291,183,698000,Woman,Simpson Home,A monster!
+74137,291,184,700000,Homer Simpson,Simpson Home,"Is this you? If it is, don't dial nine one one. Simply dial six three six five five five three four seven two."
+74138,291,185,713000,Elderly Woman,Simpson Home,"Help me, SpringShield!"
+74139,291,186,715000,Homer Simpson,Simpson Home,"Have no fear, SpringShield's present!"
+74141,291,188,726000,Elderly Woman,Simpson Home,"Thank you, SpringShield."
+74142,291,189,729000,Monster,Simpson Home,Friend?
+74143,291,190,731000,Homer Simpson,Simpson Home,The only friend you need is SpringShield.
+74144,291,191,735000,Monster,Simpson Home,Monster put in wallet.
+74145,291,192,739000,Marge Simpson,Simpson Home,That commercial is very effective.
+74146,291,193,742000,Homer Simpson,Simpson Home,"You know, the old lady's apartment was actually Lenny's. We just used a different duvet cover."
+74147,291,194,748000,Marge Simpson,Simpson Home,"Well, they're both lovely."
+74149,291,196,754000,Newsie,Springfield,"Hey officer Homer, how'd you get so big and strong?"
+74150,291,197,758000,Homer Simpson,Springfield,Green vegetables and homework.
+74151,291,198,761000,Newsie,Springfield,"Aw, shucks."
+74152,291,199,763000,Luigi,Springfield,"Hey, officer Homer. You look-a hungry. I shine-a you up a nice big pizza."
+74153,291,200,770000,Lisa Simpson,Springfield,Wow. Look at Dad. People really respect him.
+74154,291,201,773000,Marge Simpson,Springfield,"Hold your heads up high, kids."
+74155,291,202,777000,Bart Simpson,Springfield,I didn't know my chin went that far up.
+74156,291,203,782000,Lisa Simpson,Springfield,"Oh yeah, that's the pride."
+74158,291,205,785000,Marge Simpson,Simpson Home,"Homie, to honor Springfield's newest hero, I made you your favorite dinner. All three courses are dessert."
+74159,291,206,792000,Homer Simpson,Simpson Home,Even dessert?
+74160,291,207,794000,Marge Simpson,Simpson Home,Dessert is three desserts.
+74161,291,208,795000,Marge Simpson,Simpson Home,Huh?
+74163,291,210,798000,Kent Brockman,Springfield Police Station,"Mr. Mayor, you've been unflinching in your support of Chief Wiggum."
+74164,291,211,800000,Mayor Joe Quimby,Springfield Police Station,"Yes, I still believe in our duly-appointed police force. Behind these doors are the finest cops ever to wriggle into size forty-six pants. Wiggum?"
+74165,291,212,813000,Chief Wiggum,Springfield Police Station,Am I getting warmer?
+74166,291,213,815000,Mayor Joe Quimby,Springfield Police Station,"Clancy, you're a disgrace."
+74167,291,214,818000,Mayor Joe Quimby,Springfield Police Station,"And in my blind rage, I hereby turn over all this town's police duties to Homer Simpson and SpringShield."
+74169,291,216,825000,Homer Simpson,Moe's Tavern,Woo hoo! I'm Chief of Police.
+74170,291,217,828000,Moe Szyslak,Moe's Tavern,Police? Uh-oh.
+74171,291,218,836000,Moe Szyslak,Moe's Tavern,"Oh, wait. It was better the other way."
+74173,291,220,845000,Homer Simpson,Springfield Police Station,"Now that I am the law, I'm gonna make a lot of changes around here. First, I'm gonna cut overhead by freeing Otis, the lovable town drunk."
+74174,291,221,854000,Otis,Springfield Police Station,"You can let me go, but I'll just keep exposing myself at the mall."
+74175,291,222,861000,Homer Simpson,Springfield Police Station,What a character.
+74176,291,223,863000,Bart Simpson,Springfield Police Station,"Cool, a lie detector."
+74177,291,224,866000,Bart Simpson,Springfield Police Station,Lisa is a dork. Lisa is a dork.
+74178,291,225,869000,Lisa Simpson,Springfield Police Station,"Dad, make him stop!"
+74179,291,226,870000,Homer Simpson,Springfield Police Station,"Well, according to this, he's tellin' the truth."
+74182,291,229,881000,Fat Tony,Club,"Hurry up, boys. We gotta get these ""toy poodles"" to the pet shop."
+74183,291,230,887000,Homer Simpson,Club,"All right, Fat Tony. Your little game is over."
+74184,291,231,890000,Louie,Club,"Hey, how'd you find us?"
+74185,291,232,891000,Carl Carlson,Club,One of these ferrets is wearing a wire.
+74186,291,233,895000,Fat Tony,Club,You're not a pet and you're not a friend. You're nothing to me.
+74187,291,234,901000,Kent Brockman,Club,"With this latest arrest, Springfield is now free of crime, although overrun with ferrets."
+74189,291,236,906000,Kent Brockman,Wiggum Home,"Happy days, people. Truly happy days."
+74190,291,237,910000,Ralph Wiggum,Wiggum Home,"Daddy, how come you're not at work?"
+74191,291,238,912000,Chief Wiggum,Wiggum Home,"I don't know, how come you're not at school?"
+74192,291,239,915000,Ralph Wiggum,Wiggum Home,My teacher says she's tired of trying.
+74193,291,240,918000,Chief Wiggum,Wiggum Home,"Yeah, well, so am I, Ralphie, so am I."
+74194,291,241,921000,Marty,Wiggum Home,"Hey, it's Bill and Marty on the line right now with Springfield's very own Fat Tony."
+74195,291,242,926000,Fat Tony,Wiggum Home,I wish to announce that my associates and I will gun down Homer Simpson if he has not left town by noon tomorrow.
+74197,291,244,935000,Bill,Wiggum Home,"Wow, that's quite a threat. Do you have a song request?"
+74198,291,245,939000,Fat Tony,Wiggum Home,Radar Love.
+74199,291,246,939000,Homer Simpson,Wiggum Home,"If that thug thinks he can run me out of town... oh man, I love this song."
+74200,291,247,945000,Homer Simpson,Wiggum Home,"I'VE BEEN DRIVING ALL NIGHT, HAND'S WET ON THE WHEEL... THERE'S A VOICE IN MY HEAD THAT DRIVES MY HEEL... IT'S MY BABY CALLIN' ON THE TELEPHONE... I GOT SOME PIZZA AND I'M BRINGIN' IT HOME..."
+74203,291,250,965000,Homer Simpson,First Church of Springfield,"You all know me. I've kept the streets safe for you and your children. I've tricked or treated at many of your houses. Last year I was Jar Jar Binks. Now, who will stand and fight with me?"
+74204,291,251,979000,Ned Flanders,First Church of Springfield,"I'm with you, Homer."
+74205,291,252,980000,Homer Simpson,First Church of Springfield,"Shut up, Flanders. Anyone else? What about you, Dr. Hibbert?"
+74206,291,253,983000,Dr. Julius Hibbert,First Church of Springfield,"Oh, uh, well I'd, I'd love to help you, Homer. But I have too darn much to live for. I-I just discovered Thai food."
+74207,291,254,992000,Comic Book Guy,First Church of Springfield,"I'd help you, but I have yet to kiss a human girl."
+74208,291,255,995000,Captain Horatio McCallister,First Church of Springfield,"And I've got a TiVo full of unwatched ""Dharrr-ma and Gregs."""
+74209,291,256,1000000,Barney Gumble,First Church of Springfield,"Sorry Homer. I'm a coward now, like all recovering alcoholics."
+74210,291,257,1004000,Homer Simpson,First Church of Springfield,After everything I did you're going to abandon me?
+74211,291,258,1009000,Marge Simpson,First Church of Springfield,"Homie, please. Why don't you just leave town?"
+74212,291,259,1012000,Homer Simpson,First Church of Springfield,"What, and let them come after you and the kids?"
+74213,291,260,1015000,Lisa Simpson,First Church of Springfield,We could come with you.
+74214,291,261,1016000,Homer Simpson,First Church of Springfield,In one car? With no air conditioning? And the little poop machine going every twenty minutes?
+74216,291,263,1027000,Homer Simpson,Springfield Police Station,I need you guys to help me. Why'd you lock yourselves in?
+74217,291,264,1031000,Lenny Leonard,Springfield Police Station,"Hey, why does anyone do anything?"
+74218,291,265,1033000,Carl Carlson,Springfield Police Station,"The point is, what's done is done."
+74220,291,267,1038000,Fat Tony,Legitimate Businessman's Social Club,"Ah, my Jersey muscle. It's so good to see you. Did you have a nice flight, Johnny Tightlips?"
+74221,291,268,1045000,Johnny Tightlips,Legitimate Businessman's Social Club,I ain't sayin' nothin'.
+74222,291,269,1046000,Fat Tony,Legitimate Businessman's Social Club,I understand. How is your mother?
+74223,291,270,1049000,Johnny Tightlips,Legitimate Businessman's Social Club,"Ooh, wee, who says I have a mother?"
+74224,291,271,1051000,Fat Tony,Legitimate Businessman's Social Club,Very well. Let's do this thing.
+74225,291,274,1109000,Fat Tony,Simpson Home,Is your husband at home?
+74226,291,275,1110000,Marge Simpson,Simpson Home,"Fat Tony, how can you do this?"
+74227,291,276,1113000,Fat Tony,Simpson Home,"Sorry, but this is the business we've chosen."
+74228,291,277,1116000,Marge Simpson,Simpson Home,"But you're just perpetuating a negative Italian-American stereotype. I mean, you could be a pizza man, organ grinder, uh... leaning tower maker... and... did I say pizza man?"
+74229,291,278,1131000,Fat Tony,Simpson Home,You are listing my broken dreams.
+74230,291,279,1134000,Homer Simpson,Simpson Home,"I don't get it. I finally did a job where I wasn't lazy, stupid, or corrupt -- and now I'm gonna get killed for it."
+74231,291,280,1157000,Fat Tony,Simpson Home,"Any last words, Simpson?"
+74232,291,281,1159000,Homer Simpson,Simpson Home,"Yeah, you can kill me, but someone'll take my place. And if you kill him, someone'll take his place. And that's pretty much the end of it. The town'll be yours."
+74233,291,282,1170000,Fat Tony,Simpson Home,"All right, let's do it."
+74234,291,283,1172000,Louie,Simpson Home,Dibs on the crotch.
+74236,291,285,1187000,Fat Tony,Simpson Home,He's got backup!
+74237,291,286,1188000,Marge Simpson,Simpson Home,Somebody does care!
+74238,291,287,1192000,Fat Tony,Simpson Home,"Johnny Tightlips, can you see the shooter?"
+74239,291,288,1194000,Johnny Tightlips,Simpson Home,I see a lot of things.
+74240,291,289,1195000,Fat Tony,Simpson Home,"You know, you could be a little more helpful."
+74241,291,290,1202000,Marge Simpson,Simpson Home,"Oh Homie, I'm so glad you're alive!"
+74242,291,291,1206000,Homer Simpson,Simpson Home,"Yeah, but this town doesn't deserve me. I'm giving this badge to the next guy I see."
+74243,291,292,1213000,Chief Wiggum,Simpson Home,That's funny. 'Cause this is how I got the job the first time.
+74244,291,293,1218000,Marge Simpson,Simpson Home,"I'm so glad this all worked out. Thanks for saving my husband, Chief."
+74245,291,294,1222000,Chief Wiggum,Simpson Home,"Hey, I didn't shoot anybody. They took my gun, they took my badge... hell, they would have taken my squad car if I hadn't hid it under some hay."
+74246,291,295,1229000,Marge Simpson,Simpson Home,"Well then, who shot all the gangsters?"
+74247,291,296,1231000,Homer Simpson,Simpson Home,I must have a guardian angel -- with a rifle.
+74248,291,297,1237000,Marge Simpson,Simpson Home,Hm. Time to check in on our little sweetie pie.
+74249,291,298,1241000,Homer Simpson,Simpson Home,"Aw, she's taking a nap."
+74250,291,299,1243000,Marge Simpson,Simpson Home,"Yeah, probably dreaming about the time she shot Mr. Burns."
+74251,291,300,1250000,Homer Simpson,Simpson Home,"She's just like Clark Kent. When there's lots of excitement, she's nowhere to be found. Nighty-night, sweetie."

@@ -1,0 +1,251 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+18009,94,1,5000,Customer #1,Kwik-E-Mart,I need one twenty-nine cent stamp.
+18010,94,2,11000,Apu Nahasapeemapetilon,Kwik-E-Mart,That's a dollar eighty-five.
+18011,94,3,64000,Customer #2,Kwik-E-Mart,"I want two dollars worth of gas, please."
+18012,94,4,66000,Apu Nahasapeemapetilon,Kwik-E-Mart,Four-twenty.
+18013,94,5,66000,Martin Prince,Kwik-E-Mart,How much is your penny candy?
+18014,94,6,68000,Apu Nahasapeemapetilon,Kwik-E-Mart,Surprisingly expensive.
+18015,94,7,68000,Martin Prince,Kwik-E-Mart,What a rip-off.
+18016,94,8,72000,Customer #1,Kwik-E-Mart,This is what I think of your store.
+18017,94,9,75000,Apu Nahasapeemapetilon,Kwik-E-Mart,Silly customer! You cannot hurt a Twinkie!
+18018,94,10,83000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Jiminy cricket, whew, expired ham!"
+18019,94,11,94000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Well, this time I've gone too far. No, no one will fall for..."
+18020,94,12,98000,Homer Simpson,Kwik-E-Mart,Woo hoo! Cheap meat!
+18021,94,13,100000,Homer Simpson,Kwik-E-Mart,"Oooh, this one's open!"
+18023,94,15,100000,Homer Simpson,Simpson Home,"Oh, stomach churning... Bowels clenching... Not much time. Must finish."
+18026,94,18,113000,Dr. Julius Hibbert,Homer's Hospital Room,"Well, sir, Homer's illness was either caused by ingesting spoiled food or uh, some sort of voodoo curse."
+18027,94,19,129000,Patty Bouvier,Homer's Hospital Room,"Hey, we've just been workin' the eyes."
+18029,94,21,134000,Homer Simpson,Kwik-E-Mart,Your old meat made me sick!
+18030,94,22,137000,Apu Nahasapeemapetilon,Kwik-E-Mart,I'm so sorry. Please accept five pounds of frozen shrimp.
+18031,94,23,140000,Homer Simpson,Kwik-E-Mart,This shrimp isn't frozen and it smells funny.
+18032,94,24,145000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Okay, ten pounds."
+18033,94,25,145000,Homer Simpson,Kwik-E-Mart,Woo hoo!
+17938,94,28,147000,Announcer,Simpson Home,Brought to you by...
+17970,94,30,147000,Homer Simpson,Simpson Home,That dog can sell anything.
+18036,94,31,166000,Kent Brockman,Simpson Home,"Good evening. Here's an update on last week's nursing home expose: ""Geezers in Freezers."" It turns out the rest home was adequately heated, the footage you saw was of a fur storage facility. We've also been told to apologize for using the term ""Geezers."" Now coming up next, ""The Case of the Cantankerous Old Geezer."""
+18037,94,32,176000,Homer Simpson,Simpson Home,Ooh. Rancid meat attack. Stupid parasites. Is there no way I can find justice?
+18038,94,33,192000,Kent Brockman,Simpson Home,"If you have a consumer complaint, just call this number..."
+18039,94,34,196000,Homer Simpson,Simpson Home,Bor-ing.
+18040,94,35,196000,Lisa Simpson,Simpson Home,"Dad, you should blow the whistle on the Kwik-E-Mart."
+18041,94,36,199000,Kent Brockman,Simpson Home,...and now a message from the Church of Latter Day Saints.
+18043,94,38,202000,Lisa Simpson,Simpson Home,"Dad, are you listening to me?"
+18044,94,39,202000,Homer Simpson,Simpson Home,"Shhhh, Lisa. The dog is barking."
+18046,94,41,210000,Kent Brockman,CHANNEL 6 TV STATION,"All right, are you willing to go undercover to nail this creep?"
+18047,94,42,213000,Homer Simpson,CHANNEL 6 TV STATION,"No way, man No way, man. Get yourself another patsy, man. No way am I wearing a freakin' wire."
+18048,94,43,218000,Kent Brockman,CHANNEL 6 TV STATION,"All right, all right, all right. Would you be willing to wear a hidden camera and microphone?"
+18049,94,44,221000,Homer Simpson,CHANNEL 6 TV STATION,"Oh, that I'll wear."
+18052,94,47,227000,Kent Brockman,THE VAN,We've come up with a camera so tiny it fits into this oversized novelty hat.
+18053,94,48,231000,Kent Brockman,THE VAN,"Now, go get us some incriminating footage. And remember, you have to get in and out in ten minutes, or you'll suffer permanent neck damage."
+18054,94,49,231000,Technician,THE VAN,He's not kiddin'.
+18056,94,51,242000,Homer Simpson,Kwik-E-Mart,"Don't be alarmed, Apu. Just go about your daily routine like I'm not wearing the hat."
+18057,94,52,261000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Your headgear seems to be emitting a buzzing noise, sir. Perhaps you have a bee in your bonnet."
+18058,94,53,267000,Homer Simpson,Kwik-E-Mart,Bee? Aah!
+18060,94,55,267000,Kent Brockman,Van,"Homer, that hat's been with the station for twenty years. He had one day left 'til retirement."
+18061,94,56,280000,Apu Nahasapeemapetilon,Van,"La, la, la, la, la."
+18062,94,57,280000,Apu Nahasapeemapetilon,Van,"Well, time to replenish the hot dog roller."
+18063,94,58,284000,Apu Nahasapeemapetilon,Van,"La, la, l- Oop."
+17996,94,59,289000,Apu Nahasapeemapetilon,Van,"Oh no, it is encrusted with filth."
+18064,94,60,292000,Apu Nahasapeemapetilon,Van,"Oh, well... let's sell it anyway."
+18065,94,61,295000,Apu Nahasapeemapetilon,Van,"Now this is just between me and you, smashed hat."
+18066,94,62,295000,Kent Brockman,Van,"Hot diggity dog! We've got him, Mr. Simpson. Now lets -- Mr. Simpson?"
+18067,94,63,306000,Homer Simpson,Van,One hot dog please.
+18070,94,66,308000,Kent Brockman,Simpsons,"Apu, will you ever stop selling spoiled meat?"
+18071,94,67,314000,Apu Nahasapeemapetilon,Simpsons,"No! I mean, yes! I mean... uh-oh."
+18073,94,69,317000,Apu Nahasapeemapetilon,Kwik-E-Mart,I think I come off very well.
+18074,94,70,317000,Woman,Kwik-E-Mart,"Monster! Run, children!"
+18075,94,71,322000,Manager,Kwik-E-Mart,"Apu Nahasapeemapetilan, you have disgraced the Kwik-E-Mart corporation."
+18076,94,72,328000,Apu Nahasapeemapetilon,Kwik-E-Mart,"But sir, I was only following standard procedure."
+18077,94,73,330000,Manager,Kwik-E-Mart,"Ah, true. But it's also standard procedure to blame any problems on a scapegoat, or ""sacrificial lamb."""
+18078,94,74,336000,Apu Nahasapeemapetilon,Kwik-E-Mart,Uh huh. And if I can obtain for you these animals...
+18079,94,75,339000,Manager,Kwik-E-Mart,"I'm sorry, Apu, I have no choice. You can no longer wear this name patch."
+18081,94,77,341000,Manager,Kwik-E-Mart,And you can no longer tell people about our fried pickles.
+18082,94,78,348000,Manager,Kwik-E-Mart,Now turn in your pricing gun.
+18083,94,79,352000,Apu Nahasapeemapetilon,Kwik-E-Mart,Ooh.
+18084,94,80,356000,Manager,Kwik-E-Mart,The other one too.
+18085,94,81,363000,Apu Nahasapeemapetilon,Kwik-E-Mart,Fired after all these years of loyal service. I don't want to live anymore!
+18086,94,82,368000,Manager,Kwik-E-Mart,Give me that wiener.
+18087,94,83,371000,Apu Nahasapeemapetilon,Kwik-E-Mart,"No, I don't want to live, sir."
+18088,94,84,371000,Manager,Kwik-E-Mart,"Give me that wiener! No, Apu, it's not worth it!"
+18090,94,86,376000,Apu Nahasapeemapetilon,Bridge,What do I do now? I've been drummed out of my profession. I am a disgrace.
+18091,94,87,383000,Apu Nahasapeemapetilon,Bridge,Even this babbling brook sounds almost like mocking laughter.
+18092,94,88,387000,Bum #1,Bridge,Who needs money when we got feathers?
+18095,94,91,405000,Apu Nahasapeemapetilon,Springfield,This is all because of Homer Simpson.
+18097,94,93,416000,Comedian,Simpson Home,"Yo, check this out. Black guys drive a car like this. Yeah, but white guys, see they drive a car like this."
+18098,94,94,419000,Homer Simpson,Simpson Home,"It's true, it's true. We're so lame."
+18099,94,95,432000,Apu Nahasapeemapetilon,Simpson Home,It is time to settle the score.
+18102,94,98,440000,Homer Simpson,Simpson Home,"No, don't kill me! I didn't know there was film in that camera in that hat! I was unaware! I WAS UNAWAAARE!"
+18103,94,99,462000,Apu Nahasapeemapetilon,Simpson Home,"Mr. Simpson, you misunderstand me. In my village this is the traditional pose of apology."
+18104,94,100,468000,Homer Simpson,Simpson Home,Oh.
+18105,94,101,468000,Apu Nahasapeemapetilon,Simpson Home,"You know, now that I think about it, it may be a little confusing. Many have died needlessly. I have come to make amends. At first I blamed you for squealing, but then I realized it was I who wronged you. So I have come to work off my debt. I am at your service."
+18106,94,102,484000,Homer Simpson,Simpson Home,You're selling what now?
+18107,94,103,487000,Apu Nahasapeemapetilon,Simpson Home,I am selling only the concept of karmic realignment.
+18108,94,104,490000,Homer Simpson,Simpson Home,You can't sell that. Karma can only be portioned out by the cosmos.
+18109,94,105,494000,Apu Nahasapeemapetilon,Simpson Home,He's got me there.
+18111,94,107,498000,Homer Simpson,Simpson Home,Is he still out there?
+18112,94,108,498000,Marge Simpson,Simpson Home,"Yes, he's raking leaves."
+18113,94,109,502000,Homer Simpson,Simpson Home,What? That's your job. If he starts doing Lisa's wood chopping...
+18114,94,110,506000,Marge Simpson,Simpson Home,"If he wants to make it up to you so badly, I think you should let him."
+18115,94,111,509000,Homer Simpson,Simpson Home,"Okay, okay I'll let him. But then I get a chipwich, okay?"
+18117,94,113,513000,Apu Nahasapeemapetilon,Simpsons,"It is an honor to begin repaying my debt to you. Back in Rhamatpur, I was considered quite the gourmet."
+18118,94,114,520000,Marge Simpson,Simpsons,It certainly is exotic.
+18119,94,115,524000,Marge Simpson,Simpsons,"Lisa, is that too spicy for you?"
+18120,94,116,526000,Lisa Simpson,Simpsons,I can see through time.
+18121,94,117,528000,Homer Simpson,Simpsons,"Stop being such babies. You can't be afraid to try new things. For instance, tonight I'm using a... Apu, what do you call this thing again?"
+18122,94,118,537000,Apu Nahasapeemapetilon,Simpsons,A napkin.
+18123,94,119,537000,Homer Simpson,Simpsons,Outrageous.
+18125,94,121,543000,Manager,Kwik-E-Mart,"Alright, why do you want to become part of the Kwik-E-Mart family?"
+18126,94,122,547000,Barney Gumble,Kwik-E-Mart,"Because I like people, and I need a place where I'll be out of the sun."
+17186,94,123,550000,Female Executive,Kwik-E-Mart,Thank you.
+18127,94,124,550000,Manager,Kwik-E-Mart,"Hm, he's head and shoulders above everyone else."
+18128,94,125,555000,Female Executive,Kwik-E-Mart,Wait. There's one more applicant.
+18129,94,126,555000,Manager,Kwik-E-Mart,Name?
+18130,94,127,558000,James Woods,Kwik-E-Mart,James Woods.
+18131,94,128,558000,Female Executive,Kwik-E-Mart,Previous job experience?
+18132,94,129,561000,James Woods,Kwik-E-Mart,"Ooh, uh, ""True Believer,"" uh, ""Salvador,"" ""Onion Field,"" ""The Hard Way..."""
+18133,94,130,566000,Manager,Kwik-E-Mart,"Wait, wait a minute -- those aren't convenience stores. That sounds like the resume of a Hollywood movie star."
+18134,94,131,568000,James Woods,Kwik-E-Mart,Well.
+18135,94,132,572000,Manager,Kwik-E-Mart,James Woods!
+18136,94,133,574000,Female Executive,Kwik-E-Mart,Why would you want to work at a Kwik-E-Mart?
+18137,94,134,577000,James Woods,Kwik-E-Mart,"Well, to be honest, in my upcoming movie I'm gonna be playing this tightly-wound convenience store clerk and you know, I, kinda like to research my roles and really get into it. For instance, ""True Believer,"" I actually worked in a law firm for two months. And then the film ""Chaplin,"" I had a little cameo in that, I actually traveled in time back to the 1920s where... I've, uh, said too much."
+18138,94,135,596000,Manager,Kwik-E-Mart,Welcome aboard.
+18141,94,138,605000,Apu Nahasapeemapetilon,Simpson Bathroom,"Good morning, sir!"
+18143,94,140,605000,Apu Nahasapeemapetilon,Simpson Bathroom,"Relax, please. You do not have anything I have not seen before. What the...?"
+18144,94,141,612000,Homer Simpson,Simpson Bathroom,"Uh, I like to keep a lollipop there."
+18146,94,143,617000,Marge Simpson,Simpsons,"Apu, We usually store our cans in the cupboard."
+18147,94,144,617000,Apu Nahasapeemapetilon,Simpsons,"Well, they'll never move that way."
+18148,94,145,625000,Lisa Simpson,Simpsons,Mmm corn. Haven't had that in awhile.
+18149,94,146,628000,Bart Simpson,Simpsons,"Yeah, delicious corn."
+18150,94,147,630000,Lisa Simpson,Simpsons,Bye!
+18151,94,148,630000,Marge Simpson,Simpsons,"Hmm. Oh, we're low on milk for Maggie. You wanna come with me to the Kwik-E-Mart?"
+18152,94,149,637000,Apu Nahasapeemapetilon,Simpsons,"Please, Mrs. Simpson. I... I can not go there. That is the scene of my spiritual depantsing."
+18153,94,150,644000,Marge Simpson,Simpsons,"Well, I guess we could go to that new Monstromart..."
+18155,94,152,651000,Marge Simpson,Monstromart,Ooh. That's a good price for twelve pounds of nutmeg.
+18156,94,153,661000,Apu Nahasapeemapetilon,Monstromart,Great selection and rock bottom prices. But where is the love?
+18157,94,154,666000,Announcer,Monstromart,Attention Monstromart shoppers. Just a reminder that we love each and every one of you.
+18158,94,155,676000,Barney Gumble,Monstromart,"Excuse me, ma'am, where are the lampshades? Ma'am?"
+18159,94,156,683000,Barney Gumble,Monstromart,"Oh, I've killed her. It's all happening again."
+18160,94,157,694000,Stockboy,Monstromart,"Help me! Help m-- Mmm, it's crantastic!"
+18161,94,158,705000,Apu Nahasapeemapetilon,Monstromart,"Oh, Mrs. Simpson, the Express Line is the fastest line - not always. That old man up front, he is starved for attention. He will talk the cashier's head off."
+18162,94,159,715000,Grampa Simpson,Monstromart,"Ah, there's an interesting story behind this nickel. In 1957, I remember it was. I got up in the morning and made myself a piece of toast. I set the toaster to ""three,"" medium brown..."
+18163,94,160,733000,Apu Nahasapeemapetilon,Monstromart,Let's go to that line.
+18164,94,161,733000,Marge Simpson,Monstromart,But that's the longest.
+18165,94,162,736000,Apu Nahasapeemapetilon,Monstromart,"Yes, but look - all pathetic, single men - only cash, no chit-chat."
+18168,94,165,747000,James Woods,Kwik-E-Mart,"Seventy-five, eighty-five, ninety and a dollar. Thank you and come again."
+18169,94,166,750000,James Woods,Kwik-E-Mart,"Hey! Wait a minute. Hey, can I just ask you a question?"
+18170,94,167,756000,James Woods,Kwik-E-Mart,"Did you, did you believe that?... I mean the way I gave you the change... Did I sound like a real Kwik-E-Mart, you know, kinda guy?"
+18171,94,168,765000,Jimbo Jones,Kwik-E-Mart,"Actually, I thought it was a little labored."
+18172,94,169,765000,James Woods,Kwik-E-Mart,Huh?
+18173,94,170,768000,Jimbo Jones,Kwik-E-Mart,"You gotta lose yourself in the moment, man."
+18174,94,171,771000,James Woods,Kwik-E-Mart,"Yeah, like... Yeah, okay, great. Okay, let's let's just try that again, okay? C'mon! Hey, c'mon. Hey, hey, hey. Hey! Get over here. Okay. Now you're you I'm me."
+18175,94,172,779000,Jimbo Jones,Kwik-E-Mart,I'm me?
+18176,94,173,779000,James Woods,Kwik-E-Mart,"Hey, don't jerk me around, fella."
+18178,94,175,783000,Homer Simpson,Simpsons,Pass the chutney.
+18179,94,176,783000,Marge Simpson,Simpsons,"Apu, you've been so helpful. If it weren't for him, we'd still be in line at the Monstromart."
+18180,94,177,793000,Lisa Simpson,Simpsons,And he taught me how to play the shenai.
+18181,94,178,793000,Homer Simpson,Simpsons,That's even worse than the album Grampa released.
+18182,94,179,800000,Bart Simpson,Simpsons,And he taught me how to do this.
+18183,94,180,800000,Bart Simpson,Simpsons,I got out of school because I told them I was mangled in a car wreck.
+18184,94,181,807000,Apu Nahasapeemapetilon,Simpsons,Thank you all for the kind praise.
+18185,94,182,807000,Homer Simpson,Simpsons,Well you deserve it. All these vegetables are really clearing the cholesterol out of the old heart.
+18186,94,183,815000,Homer Simpson,Simpsons,Ub. Apu friend me good.
+18187,94,184,824000,Lisa Simpson,Simpsons,I think what my father's saying is you're like a member of the family now.
+18188,94,185,827000,Apu Nahasapeemapetilon,Simpsons,"I feel that way too. You see, whether igloo, hut, or lean-to/ or a geodesic dome / There's no structure I have been to / which I'd rather call my home..."
+18189,94,186,839000,Grampa Simpson,Simpsons,Hello.
+18190,94,187,841000,Apu Nahasapeemapetilon,Simpsons,WHEN I FIRST ARRIVED YOU WERE ALL SUCH JERKS / BUT NOW I'VE COME TO LOOOVE YOUR QUIRKS/
+18191,94,188,847000,Apu Nahasapeemapetilon,Simpsons,MAGGIE WITH HER EYES SO BRIGHT / MARGE WITH HAIR BY FRANK LLOYD WRIGHT / LISA CAN PHILOSOPHIZE / BART'S ADEPT AT SPINNING LIES / HOMER'S A DELIGHTFUL FELLA / SORRY 'BOUT THE SALMONELLA.
+18192,94,189,858000,Homer Simpson,Simpsons,That's okay.
+18193,94,190,861000,Apu Nahasapeemapetilon,Simpsons,WHO NEEDS THE KWIK-E-MART?/ NOW HERE'S THE TRICKY PART / OH WON'T YOU RHYME WITH ME? / WHO NEEDS THE KWIK-E-MART...
+18194,94,191,873000,Marge Simpson,Simpsons,THEIR FLOORS ARE STICKY-MART.
+18195,94,192,875000,Lisa Simpson,Simpsons,THEY MADE DAD SICKY-MART.
+18196,94,193,877000,Bart Simpson,Simpsons,LET'S HURL A BRICKY-MART!
+18197,94,194,880000,Homer Simpson,Simpsons,THAT KWIK-E-MART'S A REAL... .
+18198,94,195,883000,All,Simpsons,WHO NEEDS THE KWIK-E-MART?
+18199,94,196,887000,Apu Nahasapeemapetilon,Simpsons,NOT ME!
+18200,94,197,887000,All,Simpsons,FORGET THE KWIK-E-MART! / GOODBYE TO KWIK-E-MART! / WHO NEEDS THE KWIK-E-MART?
+18201,94,198,895000,Apu Nahasapeemapetilon,Simpsons,NOT ME!
+18202,94,199,901000,Homer Simpson,Simpsons,Everything really wrapped up nicely. Much quicker than usual.
+18203,94,200,906000,Marge Simpson,Simpsons,I guess we've learned that happiness is wherever you find it.
+18204,94,201,909000,Homer Simpson,Simpsons,And we've all found happiness... Every one of us.
+18205,94,202,914000,Homer Simpson,Simpsons,"Hey, what's that sound?"
+18207,94,204,920000,Apu Nahasapeemapetilon,Simpson Home,WHO NEEDS THE KWIK-E-MART? I DO.
+18208,94,205,933000,Homer Simpson,Simpson Home,"Hey, he's not happy at all. He lied to us through song. I hate when people do that."
+18210,94,207,945000,Apu Nahasapeemapetilon,Simpson Home,"I can't lie to myself, you know... I do miss my Kwik-E-Mart."
+18211,94,208,949000,Lisa Simpson,Simpson Home,Isn't there anything you can do to get your job back?
+18212,94,209,952000,Apu Nahasapeemapetilon,Simpson Home,I must go to the head office and appeal my case.
+18213,94,210,952000,Homer Simpson,Simpson Home,"I'm coming with you. I got you fired, it's the least I can do... Well, the least I can do is absolutely nothing. But I'll go you one better and come along."
+18214,94,211,965000,Apu Nahasapeemapetilon,Simpson Home,"But, sir, the head office is in India."
+18215,94,212,965000,Homer Simpson,Simpson Home,Okay.
+18216,94,213,968000,Lisa Simpson,Simpson Home,Dad... That's over ten thousand miles away.
+18217,94,214,968000,Homer Simpson,Simpson Home,I'm aware of that.
+18218,94,215,972000,Lisa Simpson,Simpson Home,That's over sixteen thousand kilometers.
+18221,94,218,986000,Apu Nahasapeemapetilon,DESOLATE SCRUBLAND,"I'm sorry we couldn't take a cab, but I spent my last dollar on the plane tickets."
+18223,94,220,990000,Homer Simpson,Himalayas,Are we in India yet?
+18224,94,221,990000,Apu Nahasapeemapetilon,Himalayas,No.
+18225,94,222,992000,Homer Simpson,Himalayas,Are we in India yet?
+18226,94,223,992000,Apu Nahasapeemapetilon,Himalayas,No.
+18227,94,224,993000,Homer Simpson,Himalayas,Are we in India yet?
+18228,94,225,993000,Apu Nahasapeemapetilon,Himalayas,No.
+18229,94,226,995000,Homer Simpson,Himalayas,Are we in India yet?
+18230,94,227,995000,Apu Nahasapeemapetilon,Himalayas,No. Oh wait. Nnnnow we are.
+18232,94,229,1002000,James Woods,Kwik-E-Mart,"To-Toni, Toni, do-- you're my agent, you have to do something about this. Uh, how can it be the same movie if they've changed my character from a tightly-wound convenience store clerk to a jittery Eskimo fire fighter? Uh-huh... uh-huh... um-hm... Well actually, that's a pretty good explanation. Now this gross, this'll be gross points, right, and there's no... okay, yeah, 'cause those mon... yeah, okay, great. Okay, good. Book me a flight, rent me an igloo, and tell those dorks at the Kwik-E-Mart that boom, I am outta here. I'm a dot. I'm gone, okay? Whaddaya mean I gotta give two weeks notice? Damn. Freakin'..."
+18233,94,230,1034000,James Woods,Kwik-E-Mart,...no good motha... cheese. Not you... just talkin' to my oven.
+18236,94,233,1042000,Christians,AIRPORT IN INDIA,"IF YOU'RE SAVED AND YOU KNOW IT, CLAP YOUR HANDS! / IF YOU'RE SAVED AND YOU KNOW IT CLAP YOUR HANDS! / IF YOU'RE SAVED AND YOU KNOW IT, AND..."
+18237,94,234,1048000,Robed Indian,AIRPORT IN INDIA,Oh great. Christians.
+18239,94,236,1052000,Conductor,INDIAN PLAIN,"Attention passengers, dinner is now being served in the dining car."
+18241,94,239,1056000,Apu Nahasapeemapetilon,MOUNTAIN TRAIL,"There she is, there she is, the world's first convenience store."
+18242,94,240,1078000,Homer Simpson,MOUNTAIN TRAIL,This isn't very convenient.
+18243,94,241,1078000,Apu Nahasapeemapetilon,MOUNTAIN TRAIL,Must you dump on everything we do?
+18245,94,243,1081000,Apu Nahasapeemapetilon,Kwik-E-Mart Birthplace,"He is the benevolent, enlightened president and CEO of Kwik-E-Mart, and in Ohio, Stop-O-Mart. He is the one I must ask for my job back."
+18246,94,244,1099000,Aged Man,Kwik-E-Mart Birthplace,"Approach, my sons."
+18247,94,245,1102000,Aged Man,Kwik-E-Mart Birthplace,You may ask me three questions.
+18248,94,246,1108000,Apu Nahasapeemapetilon,Kwik-E-Mart Birthplace,"That's great, because all I need is one."
+18249,94,247,1110000,Homer Simpson,Kwik-E-Mart Birthplace,Are you really the head of the Kwik-E-Mart?
+18250,94,248,1110000,Aged Man,Kwik-E-Mart Birthplace,Yes.
+18251,94,249,1113000,Homer Simpson,Kwik-E-Mart Birthplace,Really?
+18252,94,250,1113000,Aged Man,Kwik-E-Mart Birthplace,Yes.
+18253,94,251,1113000,Homer Simpson,Kwik-E-Mart Birthplace,You?
+18254,94,252,1115000,Aged Man,Kwik-E-Mart Birthplace,Yes. I hope this has been enlightening for you.
+18255,94,253,1119000,Apu Nahasapeemapetilon,Kwik-E-Mart Birthplace,"But, I must --"
+18256,94,254,1119000,Aged Man,Kwik-E-Mart Birthplace,"Thank you, come again."
+18257,94,255,1121000,Apu Nahasapeemapetilon,Kwik-E-Mart Birthplace,But...
+18258,94,256,1121000,Aged Man,Kwik-E-Mart Birthplace,"Thank you, come again."
+18259,94,257,1123000,Homer Simpson,Kwik-E-Mart Birthplace,Well that was a big bust... is he really the head of the Kwik-E-Mart?
+18260,94,258,1129000,Homer Simpson,Kwik-E-Mart Birthplace,"No need to apologize, Apu. It was as much my fault as it was yours."
+18261,94,259,1134000,Homer Simpson,Kwik-E-Mart Birthplace,"Okay, Apu, I accept your apology."
+18263,94,261,1140000,Lisa Simpson,Simpson Home,"Dad, Dad!"
+18264,94,262,1140000,Lisa Simpson,Simpson Home,What'd ya bring? What'd ya bring?
+18265,94,263,1146000,Marge Simpson,Simpson Home,How did it go?
+18266,94,264,1146000,Homer Simpson,Simpson Home,"Fine. Oh, I mean not good."
+18267,94,265,1149000,Lisa Simpson,Simpson Home,"I'm sorry, Apu. But remember, Who needs a Kwik-E-Mart--"
+18268,94,266,1154000,Apu Nahasapeemapetilon,Simpson Home,Do you mind? I'm not in the mood.
+18269,94,267,1156000,Homer Simpson,Simpson Home,"Apu, if it'll make you feel any better, I've learned that life is one crushing defeat after another until you just wish Flanders was dead."
+18270,94,268,1165000,Apu Nahasapeemapetilon,Simpson Home,"Yes, yes you are right, sir. I've got to accept my fate. I have feared it for long enough now. I'm going to go down to the Kwik-E-Mart and I'm going to face my demon."
+18271,94,269,1175000,Marge Simpson,Simpson Home,"Oh, that'll work out great. We're out of Lucky Charms."
+18272,94,271,1185000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Ah, my old Squishee machine."
+18273,94,272,1194000,Apu Nahasapeemapetilon,Kwik-E-Mart,And my scumbucket with fly.
+18274,94,273,1199000,Apu Nahasapeemapetilon,Kwik-E-Mart,And the hot check list.
+18275,94,274,1202000,James Woods,Kwik-E-Mart,"Hey! Hey, you're Apu Nahasapeemapetilan, aren't you? You're the... you're like the guy... You're a legend around here. Can I ask you, is it, is it true you once worked ninety-six hours straight?"
+18276,94,275,1213000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Oh, yes. It was horrible. I'll tell you. By the end I thought I was a hummingbird of some kind."
+18277,94,276,1219000,James Woods,Kwik-E-Mart,"Oh, yeah. You know, I studied your old security tapes."
+18278,94,277,1228000,Apu Nahasapeemapetilon,Kwik-E-Mart,"In a few minutes, I try to drink nectar out of Sanjay's head."
+18279,94,278,1232000,ROBBER,Kwik-E-Mart,"All right, you. Hand over the cash. And don't try any funny stuff."
+18280,94,279,1236000,James Woods,Kwik-E-Mart,"Hey pal, I assure you if I tried any funny stuff, you would be in hysterics."
+18281,94,280,1241000,ROBBER,Kwik-E-Mart,"Hey, you're James Woods."
+18282,94,281,1241000,James Woods,Kwik-E-Mart,"Oh, thank you. Yes, thank you."
+18283,94,282,1244000,ROBBER,Kwik-E-Mart,"Well, Mr. Woods, your new song is gonna be number three with a bullet."
+18284,94,283,1244000,James Woods,Kwik-E-Mart,"Uh, I'm not a singer."
+18285,94,284,1244000,ROBBER,Kwik-E-Mart,Shut up!
+18286,94,285,1253000,Apu Nahasapeemapetilon,Kwik-E-Mart,Noooooo!
+18287,94,286,1259000,James Woods,Kwik-E-Mart,Apu!
+18288,94,287,1259000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Ah! The searing kiss of hot lead--how I missed you! I mean, I think I'm dying."
+18289,94,288,1268000,James Woods,Kwik-E-Mart,Oi!
+18291,94,290,1271000,Dr. Julius Hibbert,Hospital,"Well, you are a very lucky man, Apu. You see, the bullet ricocheted off another bullet that was lodged in your chest from a previous robbery."
+18292,94,291,1282000,James Woods,Hospital,"Apu, you saved my life. And as a small token of my appreciation, I got you your job back at the Kwik-E-Mart."
+18293,94,292,1291000,Apu Nahasapeemapetilon,Hospital,"Oh, oh, Mr. Woods, you're..."
+18294,94,293,1293000,James Woods,Hospital,"As for me, I'm off to battle aliens on a faraway planet."
+18295,94,294,1297000,Marge Simpson,Hospital,That sounds like a good movie.
+18296,94,295,1297000,James Woods,Hospital,"Yes... yes, a movie, yes."
+18297,94,296,1305000,Homer Simpson,Hospital,"Hey, let's all hug Apu."
+18298,94,297,1308000,Lisa Simpson,Hospital,Awww.
+18299,94,298,1315000,Homer Simpson,Hospital,"Hey, there's still time. Let's hug him again."
+18300,94,299,1318000,Lisa Simpson,Hospital,Awww.

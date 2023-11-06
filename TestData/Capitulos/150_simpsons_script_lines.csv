@@ -1,0 +1,198 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+32832,150,1,35000,Bart Simpson,Bart's Classroom,"Grampa! I don't mind when you spit at home, but I have to work with these people."
+32833,150,2,40000,Grampa Simpson,Bart's Classroom,"Aw, jabberjack! Schoolhouse don't put out spittoons, I ain't responsible."
+32834,150,3,45000,Edna Krabappel-Flanders,Bart's Classroom,"All right, seniors, we'd all love to share in your wisdom, experience, yadda yadda yadda. Let's start with Milhouse's grandfather."
+32835,150,4,53000,Grampa Van Houten,Bart's Classroom,How many of you have a house?
+32836,150,5,56000,Grampa Van Houten,Bart's Classroom,"All right. Now, how many of you drove your house to school today?"
+32838,150,7,62000,Grampa Van Houten,Bart's Classroom,"Well, I did. No, I'm not Superman, I just own an R.V."
+32839,150,8,69000,Grampa Van Houten,Bart's Classroom,"Me and the new wife travel the country searching for adventure. Last fall we won a chili cook-off in Beaumont, Texas."
+32841,150,10,78000,Grampa Simpson,Bart's Classroom,"You're living in a fool's paradise, Van Houten. If you fell down in the shower, that thing'd be your tomb!"
+32842,150,11,84000,Bart Simpson,Bart's Classroom,"Grampa, hush."
+32843,150,12,86000,Bart Simpson,Bart's Classroom,"Here, why don't you spit some more."
+32844,150,13,90000,Judge Grandfather,Bart's Classroom,"No, I'm not Superman, I'm a judge. Why just this morning, I sentenced my 46th man to death. No, 47th!"
+32845,150,14,100000,Nelson Muntz,Bart's Classroom,"Wow, 47. I love you, Grampa."
+32846,150,15,104000,Grampa Simpson,Bart's Classroom,"Yeah, well, I may not have a fancy black bathrobe and a hammer like Snooty, but I do have slippers and an oatmeal spoon. Look!"
+32847,150,16,113000,Edna Krabappel-Flanders,Bart's Classroom,"Bart, perhaps your grandfather would like to come up front now and give someone else a chance to interrupt."
+32848,150,17,119000,Bart Simpson,Bart's Classroom,"Oh, please, no."
+32825,150,18,121000,Grampa Simpson,Bart's Classroom,"'Bout time, Knothead."
+32849,150,20,124000,Grampa Simpson,Bart's Classroom,"Now... hey, listen! Now, my story begins in 19-dickety-two. We had to say ""dickety"" 'cause the Kaiser had stolen our word ""twenty."" I chased that rascal to get it back, but gave up after dickety-six miles."
+32850,150,21,143000,Martin Prince,Bart's Classroom,"""Dickity?"" Highly dubious."
+32851,150,22,145000,Grampa Simpson,Bart's Classroom,"What're you cackling at, Fatty? Too much pie, that's your problem!"
+32852,150,23,149000,Grampa Simpson,Bart's Classroom,"Now, I'd like to digress from my prepared remarks to discuss how I invented the terlet."
+32853,150,24,156000,Edna Krabappel-Flanders,Bart's Classroom,Terlet. Ha!
+32855,150,26,159000,Grampa Simpson,Bart's Classroom,Stop yer snickering! I spent three years on that terlet!
+32857,150,28,170000,Bart Simpson,Simpson Home,...And then he claimed he was the one who turned cats and dogs against each other. Why is he always making up those crazy stories?
+32858,150,29,178000,Homer Simpson,Simpson Home,Maybe it's time we put Grampa in a home.
+32859,150,30,180000,Lisa Simpson,Simpson Home,You already put him in a home.
+32860,150,31,181000,Bart Simpson,Simpson Home,Maybe it's time to put him in one where he can't get out.
+32861,150,32,183000,Lisa Simpson,Simpson Home,No! Old people deserve our respect! Look at Jacques Cousteau and Goldie Hawn. You wouldn't shut them away like second-class citizens.
+32862,150,33,190000,Homer Simpson,Simpson Home,"Second class? What about Social Security, bus discounts, Medic-Alert jewelry, Gold Bond powder, pants all the way up to your armpits, and all those other senior perks? Oh, if you ask me, old folks have it pretty sweet."
+32864,150,35,220000,Grampa Simpson,Springfield Retirement Castle,"Ehh, this junk was hardly worth getting up for. Maybe if I go back to sleep for a few days, some good mail will build up."
+32865,150,36,226000,Grampa Simpson,Springfield Retirement Castle,"Hey, what's this?"
+32866,150,37,229000,Grampa Simpson,Springfield Retirement Castle,Asa Phelps has-- The seventh Hellfish is dead! That means the fortune's almost mine!
+32869,150,40,245000,Rev. Timothy Lovejoy,GRAVESITE,"Asa Phelps spent his entire life in Springfield. Except for four years' service in World War II and one high school day-trip. He worked at the United Strut and Bracing Works as a molder's boy, until he was replaced by a Molder-Matic and died."
+32871,150,42,279000,C. Montgomery Burns,CEMETERY GATE,Would you do the honors...?
+32873,150,43,287000,C. Montgomery Burns,CEMETERY GATE,"Well, Simpson, seven gone. As soon as you're in your pressboard coffin, I'll be the sole survivor, and the treasure will be mine!"
+32874,150,44,295000,Grampa Simpson,CEMETERY GATE,Over my dead body it will!
+32875,150,45,297000,C. Montgomery Burns,CEMETERY GATE,"That's exactly the poi-- Oh, Simpson, can't you go five seconds without humiliating yourself?"
+32876,150,46,307000,Grampa Simpson,CEMETERY GATE,How long was that?
+32877,150,47,310000,C. Montgomery Burns,CEMETERY GATE,"Your clownish behavior notwithstanding, we have made a gentleman's agreement and sworn on our lives to honor it."
+32878,150,48,317000,C. Montgomery Burns,CEMETERY GATE,"Smithers, I want that man killed."
+32880,150,50,327000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Let's see... ""Mesmerists,"" ""Dowsers,"" ""Luddites,"" ""Alienists,"" ""Zoroastrians,"" ""Alphabetizers,""... Aha! ""Assassins!"""
+32881,150,51,327000,Waylon Smithers,Springfield Nuclear Power Plant,"I was wondering, Sir, do we really need to, uh... ""settle"" Abe Simpson? I mean, I'm familiar with his physical state, and perhaps if we wait, nature will assassinate him for us."
+32882,150,52,344000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Well, I can't risk it. I won't allow that Simpson boy to take the Hellfish Bonanza, and I can't get it without his key!"
+32883,150,53,351000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ah, just the man I need. Fernando Vidal, the world's most devious assassin."
+32886,150,56,361000,VIDAL,Villa,Hola.
+32887,150,57,362000,C. Montgomery Burns,Villa,"Fernando, it's ""M.B."""
+32888,150,58,364000,VIDAL,Villa,"Ah, Marion Barry... Is it time for another shipment already?"
+32889,150,59,369000,C. Montgomery Burns,Villa,This is Montgomery Burns.
+32890,150,60,371000,VIDAL,Villa,"Oh, caramba."
+32891,150,61,372000,C. Montgomery Burns,Villa,I'm sending you a photo over the Faxtrola. I need you to fly to Springfield and assassinate this man post-haste.
+32892,150,62,384000,VIDAL,Villa,"Ah, Del Monte. Enjoy them, old man, they will be your last."
+32895,150,65,404000,Grampa Simpson,Springfield Retirement Castle,I'm up! I'm up!
+32896,150,66,410000,VIDAL,Springfield Retirement Castle,"Ah, he's more clever than he looks."
+32897,150,67,417000,Voice On Intercom,Springfield Retirement Castle,"Abraham Simpson, your family is here to visit you."
+32898,150,68,420000,Grampa Simpson,Springfield Retirement Castle,Hot diggity! My family's come to visit me!
+32899,150,69,424000,Grampa Simpson,Springfield Retirement Castle,Waaait a minute! My family never comes to vis--
+32900,150,70,431000,Phony Homer,Springfield Retirement Castle,Not again.
+32901,150,71,433000,Phony Marge,Springfield Retirement Castle,I can't take much more of your blundering numskullery.
+32902,150,72,436000,Waylon Smithers,Springfield Retirement Castle,"I'll be in the car, dudes."
+32904,150,74,443000,VIDAL,Burns's Limo,"There is one more way to kill a man, but it is as intricate and precise as a well-played game of chess..."
+32906,150,76,456000,Jasper Beardly,Springfield Retirement Castle,Was that me or was that you?
+32907,150,77,465000,Grampa Simpson,Springfield Retirement Castle,Nurse! Someone's trying to kill me!
+32908,150,78,468000,Nurse,Springfield Retirement Castle,Okay. We'll do something about that right away. Let's start by doubling your medication.
+32909,150,79,477000,Nurse,Springfield Retirement Castle,Our residents... are trying... to nap!
+32911,150,81,484000,Grampa Simpson,Simpson Home,"Lemme in! Someone's trying to kill me! Sweet Merciful McGillicuddy, ya gotta open the door!"
+32912,150,82,491000,Homer Simpson,Simpson Home,Who is it?
+32913,150,83,492000,Marge Simpson,Simpson Home,It's Grampa. And it sounds like he's gotten into the horseradish again.
+32914,150,84,498000,Grampa Simpson,Simpson Home,...and then a knife flew at my head! And you were there... And you were there...
+32915,150,85,505000,Lisa Simpson,Simpson Home,"Uh, Grampa, maybe I should moisten your washcloth..."
+32916,150,86,508000,Grampa Simpson,Simpson Home,"It's plenty moist! Listen, Monty Burns is tryin' to kill me and it's all because of um... I can't tell you why."
+32917,150,87,516000,Bart Simpson,Simpson Home,"Well, I'm sure you'll make up something. Maybe you just need more of my classmates around."
+32918,150,88,521000,Grampa Simpson,Simpson Home,I gotta hole up here for awhile. They might still be after me.
+32919,150,89,525000,Lisa Simpson,Simpson Home,"Wow, he's even more agitated than usual. Maybe we should let him stay."
+32920,150,90,529000,Marge Simpson,Simpson Home,But where are we going to put him?
+32921,150,91,530000,Homer Simpson,Simpson Home,Bart's room.
+32922,150,92,531000,Lisa Simpson,Simpson Home,Bart's room.
+32923,150,93,532000,Marge Simpson,Simpson Home,Bart's room.
+32924,150,94,532000,Bart Simpson,Simpson Home,Dumpster.
+32926,150,96,538000,Grampa Simpson,Bart's Bedroom,"Sorry to crowd ya, boy, but I'll let you in on a secret. Burns is after me 'cause he wants the Hellfish Bonanza."
+32927,150,97,546000,Bart Simpson,Bart's Bedroom,"Look, if you're going to stay in my room, could you at least stop making up gibberish?"
+32928,150,98,551000,Grampa Simpson,Bart's Bedroom,"Gibberish, eh? Then what's this?"
+32929,150,99,554000,Bart Simpson,Bart's Bedroom,Wrinkly gibberish?
+32872,150,100,557000,Grampa Simpson,Bart's Bedroom,I got this in the second World War Two!
+32931,150,102,562000,Grampa Simpson,Forest,"Back then, I was known as Sgt. Simpson, and I commanded the Flying Hellfish -- the fightingest squad in the fightingest company in the third fightingest battalion in the army. And we were all from Springfield. There was Police Chief Wiggum's father, Iggy Wiggum..."
+32932,150,103,581000,Iggy Wiggum,Forest,"Um, if anybody finds a grenade without a pin, that's mine."
+32933,150,104,586000,Grampa Simpson,Forest,"...our radio-man, Sheldon Skinner..."
+32934,150,105,589000,Sheldon Skinner,Forest,"All right. Very funny. Well, I didn't join the service to make friends."
+32935,150,106,595000,Grampa Simpson,Forest,...and watchin' our backs was Private Fifth-Class Arnie Gumble.
+32937,150,108,601000,Grampa Simpson,Forest,"Then there was also Griff, Asa, Ox and Etch."
+32938,150,109,604000,Grampa Simpson,Forest,But every unit has a troublemaker. Ours was a cocky little private named Montgomery Burns.
+32939,150,110,612000,C. Montgomery Burns,Forest,Haven't you won the war yet?
+32940,150,111,614000,Ox,Forest,"Uh, hey, you said you was dead!"
+32941,150,112,617000,C. Montgomery Burns,Forest,"""Dead -- tired,"" but I'm quite refreshed now, thank you."
+32942,150,113,622000,Bart Simpson,Forest,"Mmm-hmm. You bossed around the richest, most powerful guy in town. How come you were a sergeant and he was only a private?"
+32943,150,114,630000,Grampa Simpson,Forest,"Well, he got busted down for obstructing a probe from J. Edgar Hoover. And we got stuck with him..."
+32944,150,115,639000,Grampa Simpson,Forest,"Heh, heh, heh. Now they'll never save your brain, Hitler..."
+32945,150,116,646000,C. Montgomery Burns,Forest,Little help?
+32947,150,118,654000,Grampa Simpson,Forest,"Boom! Boom, it went! Boom! Just like that! They took a photo of my keister for Stars & Stripes. At least they told me it was for Stars & Stripes."
+32948,150,119,663000,Bart Simpson,Forest,"Well, if you saved Burns' life, why does he want to kill you?"
+32949,150,120,666000,Grampa Simpson,Forest,It was the closing days of the war. We had just flushed some Germans out of an abandoned castle...
+32952,150,123,677000,Arnie Gumble,Castle,Hey! Burnsie found some pictures!
+32953,150,124,680000,Iggy Wiggum,Castle,"Wait a minute, we ain't supposed to steal from civilians."
+32954,150,125,683000,Grampa Simpson,Castle,"You want me to report ya to Commander Flanders? Just leave 'em, Burnsie."
+32955,150,126,687000,C. Montgomery Burns,Castle,Leave them for whom? The Germans? The folks who shoot at us all day? Let's just take them. We'll all be rich! Rich as Nazis!
+32956,150,128,697000,Etch,Castle,Think of what a guy could get himself with that kind of scratch.
+32957,150,129,701000,Sheldon Skinner,Castle,"Eh, I could buy chicken dinners, three times a day!"
+32958,150,130,703000,Iggy Wiggum,Castle,I could buy a brand new Studebaker with a fan on the dashboard!
+32959,150,131,706000,Arnie Gumble,Castle,I could buy my way into high society!
+32960,150,132,710000,Grampa Simpson,Castle,"Well, I don't feel right about it... but I could use a nest egg for retirement. I'd hate to wind up in one of them old folks homes."
+32961,150,133,717000,C. Montgomery Burns,Castle,"Then it's agreed. Of course, we can't sell the paintings now. We'd be caught. How many of you are familiar with the concept of a ""tontine?"""
+32962,150,134,729000,C. Montgomery Burns,Castle,"All right, Ox. Why don't you take us through it?"
+32963,150,135,731000,Ox,Castle,"Uh, essentially, we all enter into a contract whereby the last surviving participant becomes the sole possessor of all them purty pitchers."
+32964,150,136,740000,C. Montgomery Burns,Castle,"Well put, Oxford. Now remember, you can't all sign with an X..."
+32965,150,137,742000,Grampa Simpson,Castle,"So we sealed up the paintings, knowing only one of us would ever look upon them again."
+32966,150,138,757000,Grampa Simpson,Castle,"Ox was the first to go -- he got a hernia carrying the crate out of the castle. Five more men died in the Veterans' Day float disaster of '79. Now with Asa gone, it's down to me and Burns."
+32967,150,139,770000,Bart Simpson,Castle,"Great story, Grampa. Coulda used a vampire, though. 'Night."
+32968,150,140,774000,Grampa Simpson,Castle,My own grandson thinks I'm a liar.
+32969,150,141,782000,Grampa Simpson,Castle,Aghhh! Don't kill me!
+32970,150,142,784000,C. Montgomery Burns,Castle,"I've tried to meet you halfway on this, Simpson, but you had to be Little Johnny Live-a-lot. Now give me your key to the Hellfish Bonanza."
+32971,150,143,793000,Bart Simpson,Castle,"Oh wow! There really is a treasure! Whatever you do, don't give him the key, Grampa!"
+32972,150,144,797000,Grampa Simpson,Castle,Here's the key.
+32973,150,145,798000,Bart Simpson,Castle,"Figures... Hey, Mr. Burns!"
+32974,150,146,800000,Bart Simpson,Castle,Can I go with you to get the treasure? I won't eat much and I don't know the difference between right and wrong.
+32975,150,147,806000,C. Montgomery Burns,Castle,"Oh, you're a good boy. But the child labor people have been watching me like a hawk."
+32976,150,148,811000,C. Montgomery Burns,Castle,"Well, I'm off to get the paintings. As they say, time is Monets. As you were, Sergeant."
+32977,150,149,819000,C. Montgomery Burns,Castle,"Oh, terribly sorry. Back to sleep,"
+32978,150,150,819000,C. Montgomery Burns,Castle,little girl.
+32231,150,151,821000,Lisa Simpson,Castle,Santa?
+32979,150,152,828000,Grampa Simpson,Castle,I guess Burns is finally gonna be rich.
+32980,150,153,831000,Bart Simpson,Castle,"Not without the keys, he isn't."
+32981,150,154,835000,Grampa Simpson,Castle,"Hey, you got the keys!"
+32982,150,155,836000,Bart Simpson,Castle,Now we can get the treasure!
+32983,150,156,838000,Grampa Simpson,Castle,"Oh, what's the use? Burns would still find some way to take it from me."
+32984,150,157,843000,Bart Simpson,Castle,"I can't believe you, Grampa. The sergeant in that story you told would never be scared of a dork like Burns! You gotta get that treasure! You gotta do it for Ox and Asa and Griff and Burnsie... Well, not so much Burnsie."
+32985,150,158,856000,Grampa Simpson,Castle,You really think I can do it?
+32986,150,159,859000,Bart Simpson,Castle,"Uh, yes. But we gotta act fast!"
+32987,150,160,863000,Homer Simpson,Castle,Where are you two going at this hour?
+32988,150,161,865000,Bart Simpson,Castle,On a treasure hunt.
+32989,150,162,866000,Homer Simpson,Castle,"Oh, can I come?"
+32990,150,163,868000,Grampa Simpson,Castle,"Only if you're ready to stare danger in the face, put your manhood to the ultimate test, and take--"
+32991,150,164,874000,Homer Simpson,Castle,Pass.
+32993,150,166,879000,Bart Simpson,Cemetery,"Hey, Grampa, do you think your dead buddies get up and walk around at night?"
+32994,150,167,883000,Grampa Simpson,Cemetery,"If they're anything like me, they have to get up twice. Okay, hold up here."
+32995,150,168,886000,Grampa Simpson,Cemetery,"Fellas, it's me, Sarge. At ease. I know I'm bendin' the rules tonight, but I also know none of you wants that skunk Burns to take our treasure. And I want you to know that when I die, you're all welcome to visit me in rich man's heaven."
+32996,150,169,925000,Grampa Simpson,Cemetery,Now it's gonna show us exactly where to dig!
+32999,150,172,939000,Grampa Simpson,Lake Springfield,"Boy, you borrow us some diving equipment while I borrow this boat."
+33000,150,173,943000,Ned Flanders,Lake Springfield,"Well, howdilly-doodily, stranger! Couldn't help but notice you stealing my boat."
+33001,150,174,947000,Grampa Simpson,Lake Springfield,I'll bring it back.
+33002,150,175,949000,Ned Flanders,Lake Springfield,You ever operated a power boat?
+33003,150,176,951000,Grampa Simpson,Lake Springfield,No.
+33004,150,177,952000,Ned Flanders,Lake Springfield,Know anything about water safety?
+33005,150,178,953000,Grampa Simpson,Lake Springfield,No.
+33006,150,179,954000,Ned Flanders,Lake Springfield,What do you need it for?
+33007,150,180,956000,Grampa Simpson,Lake Springfield,It's a secret.
+33008,150,181,958000,Ned Flanders,Lake Springfield,"Ooh, sounds spine-tingly-dingling. Just promise you'll have a good time."
+33009,150,182,962000,Ned Flanders,Lake Springfield,Maude? Boys? Come on up! We're gonna have a little camp-out in the dinghy.
+33010,150,183,967000,ROD/TODD,Lake Springfield,Yayyy!
+33011,150,184,972000,Grampa Simpson,Lake Springfield,"Now remember the plan, boy. If you run out of air, tug on the rope--"
+33012,150,185,978000,Bart Simpson,Lake Springfield,"--sixty-four times. No more, no less. Got it."
+33013,150,186,980000,Grampa Simpson,Lake Springfield,"No, no. Sixty-three times if you're out of air. Sixty-four is if you found the treasure."
+33014,150,187,985000,Bart Simpson,Lake Springfield,"Gotcha. Hey, Grampa, do you think I could've been a Flying Hellfish?"
+33015,150,188,990000,Grampa Simpson,Lake Springfield,You're a gutsy daredevil with a give-'em-hell attitude and a fourth-grade education. You coulda made sergeant.
+33016,150,189,1013000,Bart Simpson,Lake Springfield,Wo-o-o-ow!
+33017,150,190,1028000,Grampa Simpson,Lake Springfield,"61... 62... 63... Oh, no, 63?! He's out of air! I've sent my only grandson to a watery gra... !"
+33018,150,191,1043000,Grampa Simpson,Lake Springfield,64?! He found the treasure! I'm rich!
+33019,150,192,1052000,Grampa Simpson,Lake Springfield,"You're one heckuva grandson, boy! Now, let's break 'er open and have a look-see."
+33020,150,193,1069000,Bart Simpson,Lake Springfield,Huh. The light must've burned out.
+33021,150,194,1074000,C. Montgomery Burns,Lake Springfield,I'll thank you to stop pinching my Botticelli.
+33022,150,195,1076000,C. Montgomery Burns,Lake Springfield,"Looks like I didn't need the keys after all. I'll take the masterpieces, thank you."
+33023,150,196,1082000,Grampa Simpson,Lake Springfield,Consarn it!
+33024,150,197,1088000,Bart Simpson,Lake Springfield,"You coward! You're an embarrassment to the name ""Hellfish!"""
+33025,150,198,1092000,C. Montgomery Burns,Lake Springfield,"Oh, am I?"
+33026,150,199,1093000,Grampa Simpson,Lake Springfield,"No! Look, take the art if you want. Just don't hurt the boy."
+33027,150,200,1098000,C. Montgomery Burns,Lake Springfield,Hmm. I'd rather do both.
+33028,150,201,1109000,C. Montgomery Burns,Lake Springfield,"So long, Sarge. See you at the reunion in November."
+33031,150,204,1151000,Bart Simpson,Lake Springfield,"I'm sorry I cost you your fortune, Grampa."
+33032,150,205,1154000,Grampa Simpson,Lake Springfield,"Ah, the fortune doesn't matter, boy. The important thing is you're safe. Now let's get that fortune!"
+33033,150,206,1164000,Waylon Smithers,Lake Springfield,"They're gaining on us, sir. We'll have to jettison something."
+33034,150,207,1168000,Waylon Smithers,Lake Springfield,"It's been an honor to serve you, sir."
+33035,150,208,1173000,Bart Simpson,Lake Springfield,"Consarn it, he's getting away!"
+33036,150,209,1175000,Grampa Simpson,Lake Springfield,In a pig's eye he is!
+33037,150,210,1186000,C. Montgomery Burns,Lake Springfield,"Act your age, Simpson! You look foolish!"
+33038,150,211,1205000,C. Montgomery Burns,Lake Springfield,Agh! Don't kill me!
+33039,150,212,1207000,Grampa Simpson,Lake Springfield,I ain't gonna kill ya. That'd be cowardly. Monty Burns cowardly. I just wanna watch you squirm.
+33040,150,213,1215000,C. Montgomery Burns,Lake Springfield,"Yes, sir! Is this to your liking?"
+33041,150,214,1223000,Grampa Simpson,Lake Springfield,"Now, Burnsie, there's one thing we don't stand for in the Hellfish, and that's trying to kill your commanding officer. So consider this your dishonorable discharge. You're outta my unit. You're outta the tontine. And that means the paintings are mine. Private, you are dismissed."
+33042,150,215,1244000,Bart Simpson,Lake Springfield,"You're rich, Grampa! You did it! And Burns can never take that away from you!"
+33043,150,216,1251000,State Dept. Man #1,Lake Springfield,Freeze! U.S. State Department! We'll take those.
+33044,150,217,1255000,State Dept. Man #2,Lake Springfield,We've been helping the German government search for this stolen art for 50 years.
+33045,150,218,1259000,State Dept. Man #1,Lake Springfield,"To avoid an international incident, we'll be returning it to the descendant of its rightful owner."
+33046,150,219,1265000,State Dept. Man #2,Lake Springfield,"Baron Von Wörtzenburger, on behalf of the American people, I apologize for--"
+33047,150,220,1270000,Von Wörtzenburger,Lake Springfield,"Ja, ja, ja. Mach schnell mit der art things, huh?. I must get back to DanceCentrum in Stuttgart in time to see Kraftwerk."
+33048,150,221,1278000,VON WÖRTZENURGER,Lake Springfield,"Hey, and Dummkopf! Watch out for the CD changer in my trunk, huh?! Idiot!"
+33049,150,222,1288000,Grampa Simpson,Lake Springfield,"I guess he deserves it more than I do... Well, at least I got to show you I wasn't always a pathetic old kook."
+33050,150,223,1298000,Bart Simpson,Lake Springfield,"You never were, Grampa."
+33051,150,224,1300000,Grampa Simpson,Lake Springfield,"Aw, I'd hug ya, but I know you'd just get embarrassed."
+33052,150,225,1306000,Bart Simpson,Lake Springfield,I won't get embarrassed. I don't care who knows I love my Grampa.
+33053,150,226,1311000,Von Wörtzenburger,Lake Springfield,"Hey, funboys! Get a room!"

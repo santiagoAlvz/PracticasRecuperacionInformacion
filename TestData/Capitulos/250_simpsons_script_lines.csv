@@ -1,0 +1,275 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+61704,250,1,66000,Bart Simpson,Simpson Backyard,"Here you go, boy. Soup's on."
+61705,250,2,94000,Bart Simpson,Simpson Backyard,"Hey, if you're out here, then who's in there?"
+61706,250,3,99000,Bart Simpson,Simpson Backyard,"Whoa, a badger! Sorry man, you can't crash here. C'mon, let's go."
+61707,250,4,107000,Bart Simpson,Simpson Backyard,"Well boy, looks like you've got yourself a roommate."
+61710,250,7,113000,Bart Simpson,Simpson Home,"C'mon, Lis. There's gotta be a way to lure that badger out."
+61711,250,8,117000,Lisa Simpson,Simpson Home,"Well, according to WhatBadgersEat.Com, ""Badgers subsist primarily on a diet of stoats, voles and marmots."""
+61712,250,9,119000,Bart Simpson,Simpson Home,"Hmm... stoats, stoats..."
+61713,250,10,126000,Lisa Simpson,Simpson Home,"Stoats are weasels, Bart. They don't come in cans."
+61714,250,11,128000,Bart Simpson,Simpson Home,Then what's this?
+61715,250,12,131000,Lisa Simpson,Simpson Home,"That says ""corn,"" Bart."
+61716,250,13,132000,Bart Simpson,Simpson Home,Must you embarrass me?
+61717,250,14,134000,Lisa Simpson,Simpson Home,"Here we are. ""In a pinch, badgers have even been known to eat woodpeckers."""
+60751,250,15,136000,Bart Simpson,Simpson Home,Perfect.
+61718,250,16,140000,Bart Simpson,Simpson Home,"Hey, Todd! Can we borrow your woodpecker?"
+61719,250,17,142000,Todd Flanders,Simpson Home,I guess so. But we need him back by six. It's his birthday.
+61720,250,18,146000,Bart Simpson,Simpson Home,Okay.
+61721,250,19,152000,Woodpecker,Simpson Home,Ha ha ha ha ha.
+61723,250,21,164000,Homer Simpson,Simpson Home,Television broken?
+61724,250,22,165000,Bart Simpson,Simpson Home,"No, there's a badger in there."
+61725,250,23,167000,Homer Simpson,Simpson Home,"Badger, my ass. It's probably Milhouse."
+61726,250,24,170000,Homer Simpson,Simpson Home,Milhouse? Milhouse?
+61728,250,26,181000,Homer Simpson,Simpson Home,"It's a badger all right... Or possibly a griffin. Bart, do you have any dynamite in your room?"
+61729,250,27,185000,Bart Simpson,Simpson Home,Tons.
+61730,250,28,185000,Homer Simpson,Simpson Home,Get it.
+61731,250,29,186000,Lisa Simpson,Simpson Home,"No, Dad! We don't want to kill him! Let's call animal control."
+61732,250,30,189000,Homer Simpson,Simpson Home,Great idea. Then we should call the doctor about this.
+61733,250,31,193000,Lisa Simpson,Simpson Home,How did the badger do that without ripping your shirt?
+61734,250,32,196000,Homer Simpson,Simpson Home,"What am I, a tailor?"
+61735,250,33,203000,Phone Recording,Simpson Home,Your call cannot be completed as dialed. Please make sure you have the correct area code.
+61736,250,34,207000,Homer Simpson,Simpson Home,Area code? But it's a local call.
+61737,250,35,210000,Marge Simpson,Simpson Home,"The phone company ran out of numbers, so they split the city into two area codes. Half the town keeps the old 636 area code and our half gets 939."
+61738,250,36,220000,Homer Simpson,Simpson Home,"939?! What the hell is that? Oh, my life is ruined."
+61739,250,37,225000,Marge Simpson,Simpson Home,"Geez, you just have to remember three extra numbers."
+61740,250,38,228000,Homer Simpson,Simpson Home,"Oh, if only it were that easy, Marge."
+61741,250,39,230000,Homer Simpson,Simpson Home,Go away. We've got bigger problems now.
+61742,250,40,233000,Homer Simpson,Simpson Home,"I'm not gonna stand for this. I'm gonna call the newspapers, the TV stations, the gas stations, everybody."
+61745,250,43,254000,Homer Simpson,Springfield Nuclear Power Plant,I hate this new area code. Like I don't have enough to remember already.
+61746,250,44,260000,Homer Simpson,Springfield Nuclear Power Plant,"Don't you miss the old 636, Carl?"
+61747,250,45,263000,Carl Carlson,Springfield Nuclear Power Plant,"I'm not sure which one's better. The 6 is closer to the 3, so you've got convenience there, but the 9 has less to do with Satan, which is a plus in this religious world of ours."
+61748,250,46,272000,Homer Simpson,Springfield Nuclear Power Plant,What really burns me up is they didn't give us one word of warning.
+61749,250,47,276000,Carl Carlson,Springfield Nuclear Power Plant,What do you mean? They ran those TV commercials about it. And that big radio campaign.
+61750,250,48,279000,Lenny Leonard,Springfield Nuclear Power Plant,Don't forget the leaflets they dropped from the space shuttle. And the two weeks we all spent at Area Code Camp.
+61751,250,49,284000,Homer Simpson,Springfield Nuclear Power Plant,Not a single word of warning.
+61753,250,51,287000,Bill,KBBL,"... and traffic's all backed up, due to a mattress on the freeway."
+61754,250,52,290000,Marty,KBBL,A mattress?! Uh-oh. Joan Collins must be in town!
+61756,250,54,297000,BAD AUSTIN POWERS IMPRESSION,KBBL,"Oh, behave!"
+61758,250,56,299000,Homer Simpson,Simpson Home,Joan Collins? That girl sleeps with everybody!
+61760,250,58,302000,Marty,Radio Station,"Okay, time to give away freeeee concert tickets!"
+61761,250,59,306000,Gary Coleman,Radio Station,Whachu talkin' 'bout?
+61762,250,60,308000,Marty,Radio Station,"What we're talkin' 'bout, Gary, is the Who."
+61763,250,61,310000,Bill,Radio Station,We're giving away tickets to next week's concert at Springfield's historic Yahoo Search Engine Arena.
+61765,250,63,317000,Homer Simpson,Simpson Home,The Who? I love bands!
+61767,250,65,320000,Bill,KBBL,And now we'll dial our big winner at random.
+61768,250,66,323000,Jingle Singers,KBBL,DIALING... AT... RANDOMMM!
+61769,250,67,326000,Marty,KBBL,"Okay, let's start with 5-5-5..."
+61771,250,69,331000,Marty,Simpson Home,"... 0, 1, 1... aaannnd 3."
+61772,250,70,334000,Homer Simpson,Simpson Home,That's my number!
+61773,250,71,337000,C. Montgomery Burns,Simpson Home,Ahoy hoy.
+61774,250,72,338000,Homer Simpson,Simpson Home,"Hey, that's not me!"
+61775,250,73,341000,Bart Simpson,Simpson Home,"Dad, we're not in their area code anymore."
+61776,250,74,343000,Bill,Simpson Home,"Congratulations, you're gonna rendezvous with the Who!"
+61777,250,75,347000,Homer Simpson,Simpson Home,"It's not fair! I've been a fan of the Who since the very beginning, when they were the Hillbilly Bugger Boys."
+61778,250,76,354000,Bart Simpson,Simpson Home,You should call that radio station and let 'em have it.
+61779,250,77,357000,Homer Simpson,Simpson Home,Good idea.
+61781,250,79,361000,Homer Simpson,Simpson Home,Why you little...
+61784,250,81,375000,Phone Company Lady,Springfield Town Hall,I know that some of you are upset about the area code change... especially those of you covered with dynamite...
+61785,250,82,382000,Phone Company Lady,Springfield Town Hall,"First, let me reassure you your fears are groundless, and your complaints moronic."
+61787,250,84,387000,Moe Szyslak,Springfield Town Hall,That's good.
+61788,250,85,389000,Phone Company Lady,Springfield Town Hall,This film will explain everything to you in words that you can understand.
+61789,250,86,397000,CARTOON MAN,Springfield Town Hall,"Hi. I'm Phoney McRingring, mascot and president of the telephone company. And I'm here to explain why the convenience of one area code in..."
+61790,250,87,405000,Computer Voice,Springfield Town Hall,Your town.
+61791,250,88,406000,CARTOON MAN,Springfield Town Hall,... has been replaced by the convenience of two area codes.
+61792,250,89,409000,Homer Simpson,Springfield Town Hall,"Uh, I have a question, Phoney."
+61793,250,90,411000,Lisa Simpson,Springfield Town Hall,"It's a movie, Dad."
+61794,250,91,412000,Homer Simpson,Springfield Town Hall,"Quiet, honey. Daddy's asking the man a question."
+61795,250,92,415000,PHONEY,Springfield Town Hall,"You're probably thinking, ""Sure, more area codes are great, and I don't mind paying the extra hidden fees, but how will I remember all those numbers?"""
+61796,250,93,415000,PHONEY,Springfield Town Hall,"Well, scientists have discovered that even monkeys can memorize ten numbers. Are you stupider than a monkey?"
+61797,250,94,432000,Chief Wiggum,Springfield Town Hall,How big of a monkey?
+61798,250,95,434000,PHONEY,Springfield Town Hall,Of course you're not.
+61799,250,96,437000,Lenny Leonard,Springfield Town Hall,Well I'm convinced. A professional- looking film like that has gotta be right.
+61800,250,97,441000,Dr. Julius Hibbert,Springfield Town Hall,I agree. Two area codes is more convenient.
+61801,250,98,444000,Grampa Simpson,Springfield Town Hall,I like it.
+61802,250,99,444000,Homer Simpson,Springfield Town Hall,Wait a minute! We haven't heard from me yet. The nut with the dynamite. The phone company is bamboozling you!
+61804,250,101,453000,Homer Simpson,Springfield Town Hall,I accuse the phone company of making that film on purpose!
+61805,250,102,456000,Phone Company Lady,Springfield Town Hall,Well of course we did...
+61807,250,104,459000,Homer Simpson,Springfield Town Hall,"Now, I'm not one to make trouble... but it seems to me that everyone who got to keep the old, or ""classic"" 636 area code, lives on... the rich side of town!"
+61808,250,105,470000,C. Montgomery Burns,Springfield Town Hall,Poppycock!
+61809,250,106,471000,Wealthy Dowager,Springfield Town Hall,I never!
+61810,250,107,473000,Homer Simpson,Springfield Town Hall,"And as usual, we Joe Twelve-Packs get the royal screw job."
+61812,250,108,479000,Moe Szyslak,Springfield Town Hall,Homer's right! We're gettin' the Joan Collins special.
+61813,250,109,483000,939'ers,Springfield Town Hall,/ He's right. / We're gettin' it but good.
+61814,250,110,485000,Homer Simpson,Springfield Town Hall,"Well, I've had it! You rich snobs aren't pushin' us around anymore!"
+61816,250,112,490000,Kent Brockman,Springfield Town Hall,What are you pathetic slobs gonna do about it?
+61817,250,113,493000,Homer Simpson,Springfield Town Hall,"Well, I..."
+61818,250,114,499000,Homer Simpson,Springfield Town Hall,"Nice wiring, Bart."
+61819,250,115,501000,Bart Simpson,Springfield Town Hall,It worked on the test-corpse.
+61820,250,116,502000,Homer Simpson,Springfield Town Hall,"Okay, Plan B. Fellow 9-3-9'ers, I say we break off and form our own city!"
+61821,250,117,512000,939'ers,Springfield Town Hall,"Yeah! / Our own city! / Screw the snobs! / Yeah, let's go!"
+61822,250,118,514000,Bumblebee Man,Springfield Town Hall,Viva la revolución!
+61823,250,119,516000,Homer Simpson,Springfield Town Hall,Now who's stupid?
+61825,250,121,522000,Homer Simpson,Main Street,There. We're officially a city. Now we just sit back and wait for an NFL franchise.
+61826,250,122,531000,Businessman,Main Street,"Say, I couldn't help but overhear. I represent the Arizona Cardinals..."
+61827,250,123,534000,Homer Simpson,Main Street,Keep walkin'
+61829,250,125,537000,Moe Szyslak,Main Street,"Good decision there, Homer. You showed a lot of poise."
+61830,250,126,540000,Carl Carlson,Main Street,"Yeah, maybe you oughta be Mayor of New Springfield."
+61831,250,127,542000,Homer Simpson,Main Street,"Mayor, eh?"
+61832,250,128,554000,Announcer,Main Street,The Mayor... Starring Homer Simpson.
+61833,250,129,554000,Homer Simpson,Main Street,"I reluctantly accept this highly-paid, glamorous job."
+61834,250,130,560000,Mayor Joe Quimby,Main Street,Presenting our new plaque. I say the time for bitterness has passed. Let us extend to our brothers in New Springfield the olive branch of...
+61835,250,131,569000,Homer Simpson,Main Street,New Springfield rocks!
+61836,250,132,572000,Seymour Skinner,Main Street,Go ahead and laugh! We have a better town bird!
+61837,250,133,575000,Homer Simpson,Main Street,Oh yeah? What is it?
+61838,250,134,578000,Seymour Skinner,Main Street,The bluebird.
+61839,250,135,579000,Homer Simpson,Main Street,Damnit!
+61841,250,137,580000,Marge Simpson,Simpson Home,"More wheat cakes, Mr. Mayor?"
+61842,250,138,582000,Homer Simpson,Simpson Home,Read my lips: Yes.
+61843,250,139,585000,Bart Simpson,Simpson Home,"Dad, you got syrup on your sash."
+61844,250,140,587000,Homer Simpson,Simpson Home,No problem.
+61845,250,141,590000,Lisa Simpson,Simpson Home,If you ask me...
+61846,250,142,591000,Homer Simpson,Simpson Home,Stop right there.
+61847,250,143,592000,Lisa Simpson,Simpson Home,... it's stupid to divide the city over something as silly as an area code. It would be like you and mom splitting up every time you have a fight.
+61848,250,144,597000,Homer Simpson,Simpson Home,"Sweetie, you know your mother and I only stay together for the sake of my political career."
+61849,250,145,602000,Marge Simpson,Simpson Home,That's not true.
+61850,250,146,603000,Homer Simpson,Simpson Home,Big grins!
+61851,250,147,605000,Homer Simpson,Simpson Home,That'll play great in the sticks.
+61852,250,148,611000,Homer Simpson,Simpson Home,"Oh, that was fifty already?"
+61854,250,150,614000,Milhouse Van Houten,Park,Go long!
+61855,250,151,621000,Jimbo Jones,Park,"Hey, look what I found! A novelty flying disc!"
+61856,250,152,625000,Bart Simpson,Park,Give it back! That's my novelty flying disc.
+61857,250,153,628000,Jimbo Jones,Park,You're in Olde Springfield now. Everything on this side of the park belongs to us.
+61858,250,154,634000,Kearney Zzyzwicz,Park,"Hey, his pants are in our park, too."
+61859,250,155,636000,DOLPH,Park,Get 'em!
+61860,250,156,643000,Bart Simpson,Park,My homework is in your park.
+61861,250,157,645000,Kearney Zzyzwicz,Park,Let's do it!
+61862,250,158,648000,DOLPH,Park,What does freedom mean to me?
+61864,250,160,650000,Apu Nahasapeemapetilon,Kwik-E-Mart,"All right, root beer, bananas and toilet paper... Fifty percent Out-of-towners' Tax..."
+61865,250,161,655000,Marge Simpson,Kwik-E-Mart,Out-of-towner Tax?!
+61866,250,162,657000,Apu Nahasapeemapetilon,Kwik-E-Mart,"I'm sorry Mrs. Simpson, but we have to charge you foreign devils more."
+61867,250,163,661000,Marge Simpson,Kwik-E-Mart,"All right, but this better be the best toilet paper I've ever had."
+61868,250,164,665000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Oh, no worries there. That's Henderson's Toilet Paper!"
+61869,250,165,668000,Marge Simpson,Kwik-E-Mart,"Ooh, why didn't you say so? Hey, is there a bathroom here?"
+61870,250,166,672000,Apu Nahasapeemapetilon,Kwik-E-Mart,Not for you.
+61872,250,168,675000,Marge Simpson,Simpson Home,"I don't know why, but I just didn't feel comfortable until I was back here in New Springfield, with my own kind."
+61873,250,169,682000,Lisa Simpson,Simpson Home,Mom!
+61874,250,170,683000,Marge Simpson,Simpson Home,They were looking at me. With their eyes.
+61875,250,171,687000,Kent Brockman,Simpson Home,"As expected, New Springfield's bold experiment in slob rule is a disaster."
+61876,250,172,692000,Homer Simpson,Simpson Home,"Hey, the TV man is talking about us!"
+61877,250,173,695000,Kent Brockman,Simpson Home,A study shows their crumbling economy is due to their lazy attitude and shoddy work.
+61783,250,174,699000,Homer Simpson,Simpson Home,How the hell did they find that out?
+61879,250,175,701000,Kent Brockman,Simpson Home,"Scientists say they are also less attractive physically. And while we speak in a well-educated manner, they tend to use lowbrow expressions, like ""oh yeah?"" and ""c'mere a minute."""
+61880,250,176,701000,Homer Simpson,Simpson Home,"Oh yeah? They think they're better than us, huh? Bart, c'mere a minute."
+61881,250,177,713000,Bart Simpson,Simpson Home,You c'mere a minute.
+61882,250,178,713000,Homer Simpson,Simpson Home,Oh yeah?
+61884,250,180,721000,Bart Simpson,Springfield Nuclear Power Plant,"Dad, I don't think this is such a good idea."
+61885,250,181,724000,Homer Simpson,Springfield Nuclear Power Plant,"Thank you, Marge. Now, let's see how Olde Snobfield does without electricity."
+61886,250,182,732000,Homer Simpson,Springfield Nuclear Power Plant,Woo hoo!
+61889,250,185,735000,Nurse,Hospital,"Oh no, you can't do heart surgery in the dark."
+61890,250,186,738000,Dr. Julius Hibbert,Hospital,Sounds like a wager to me.
+61891,250,187,740000,Krusty the Clown,Hospital,I'll take a piece of that.
+61893,250,189,741000,Professor Jonathan Frink,Professor Frink's Lab,I will now transport Sir Isaac Newton into the modern day.
+61894,250,190,747000,TRANSPORTER,Professor Frink's Lab,Warning. Power failure.
+61895,250,191,750000,Professor Jonathan Frink,Professor Frink's Lab,"Oh, sweet glayvin!"
+61896,250,192,754000,Professor Jonathan Frink,Professor Frink's Lab,Sir Isaac's legs are hurting.
+61898,250,194,757000,Kent Brockman,Simpson Home,"In retaliation for the power outage, Olde Springfield patriots have intercepted a beer truck bound for New Springfield and dumped all the beer in the river."
+61899,250,195,766000,Homer Simpson,Simpson Home,"Those rich, snobby Indians."
+61901,250,197,771000,Lenny Leonard,River,"Oh, there's nothing like revenge for getting back at people."
+61902,250,198,774000,Carl Carlson,River,I don't know. Vengeance is pretty good.
+61903,250,199,777000,Homer Simpson,River,Woo hoo! Flood from water!
+61905,250,201,779000,Mayor Joe Quimby,Olde Springfield Towne,"They've got us now. Without water, we're doomed."
+61906,250,202,782000,Seymour Skinner,Olde Springfield Towne,Wait a minute. That gold-colored substance in the riverbed...
+61907,250,203,786000,Dr. Julius Hibbert,Olde Springfield Towne,Why that's gold!
+61908,250,204,789000,C. Montgomery Burns,Olde Springfield Towne,We're slightly richer!
+61909,250,205,793000,Prospector,Olde Springfield Towne,Eureka!
+61910,250,206,794000,Kent Brockman,Olde Springfield Towne,"With the money made from the gold, Olde Springfield was able to buy the Evian water factory and fly it over here from France."
+61911,250,209,802000,Kent Brockman,Simpson Home,"Thanks, Mayor Simpson. Because of you, we're all taking golden showers."
+61912,250,210,808000,Kent Brockman,Simpson Home,What?
+61913,250,211,809000,Marge Simpson,Simpson Home,We can't go on fighting with Olde Springfield. These people are our neighbors. We see them every day.
+61914,250,212,815000,Homer Simpson,Simpson Home,You're right. We've got to block them from our sight with a giant wall.
+61915,250,213,819000,Marge Simpson,Simpson Home,Like the one in Berlin?
+61916,250,214,821000,Homer Simpson,Simpson Home,Good idea. We should call the guys they used.
+61917,250,215,828000,Marge Simpson,Simpson Home,Homer...
+61918,250,216,830000,Homer Simpson,Simpson Home,It's ringing.
+61921,250,219,835000,Homer Simpson,Main Street,And I'd like to thank Low Ball Construction for building this amazing wall... From ninety percent recycled materials.
+61922,250,220,845000,Lisa Simpson,Main Street,I'm so conflicted.
+61923,250,221,846000,Bart Simpson,Main Street,'Bout what?
+61924,250,222,847000,Homer Simpson,Main Street,"Loyal citizens of New Springfield. You stayed on my side of town despite a total lack of hospitals and schools, and a sewage nightmare that threatens to consume us all."
+61925,250,223,860000,Carl Carlson,Main Street,How will we get our food? All the roads are blocked.
+61927,250,225,864000,Homer Simpson,Main Street,"Don't worry, we have plenty of supplies to get through tomorrow. And then a wave of disease should help to -- hey!"
+61928,250,226,872000,Homer Simpson,Main Street,Stop streaming over the wall! At least wait till I'm through talking.
+61929,250,227,877000,Homer Simpson,Main Street,"Okay, now as for food, the following breeds of dog are edible..."
+61930,250,228,881000,Townspeople,Main Street,Bye Homer.
+61931,250,229,884000,Homer Simpson,Main Street,I can't believe all those rats fled my town.
+61932,250,230,888000,Homer Simpson,Main Street,Guess it's just us and the tumbleweeds.
+61935,250,233,899000,Bart Simpson,Street,"Well, Dad, you're mayor of a ghost town."
+61936,250,234,902000,Homer Simpson,Street,I can't believe those traitors abandoned us. They couldn't take one lousy famine.
+61937,250,235,909000,Lisa Simpson,Street,"Dad, you're bleeding."
+61938,250,236,911000,Homer Simpson,Street,No problem.
+61939,250,237,915000,Homer Simpson,Street,"Anyhow, those rats'll come crawling back..."
+61940,250,238,920000,Homer Simpson,Street,We've got the Who playing here tonight.
+61941,250,239,922000,Lisa Simpson,Street,"Dad, the arena's in Olde Springfield."
+61943,250,241,926000,Bart Simpson,Street,"Don't give up, Dad. Maybe we can get The Who to play here instead."
+61944,250,242,930000,Homer Simpson,Street,"Hey, maybe we could. But we'll need some liquid persuasion."
+61945,250,243,939000,Homer Simpson,Street,"C'mon, Bart. We're gonna bring back The Who."
+61947,250,245,956000,Security Guard,Hotel,Can I help you?
+61948,250,246,957000,Homer Simpson,Hotel,Uh...
+61949,250,247,958000,Bart Simpson,Hotel,"Dad, the chloroform!"
+61950,250,248,960000,Homer Simpson,Hotel,"Huh? Oh, right."
+61951,250,249,963000,Homer Simpson,Hotel,I'll give you this bottle of chloroform if you'll take us to The Who.
+61953,250,251,967000,Security Guard,Hotel,"Oh, so you want to see The Who, huh? Well I'll take you to The Who."
+61955,250,253,970000,Security Guard,Hallway,Here's your Who.
+61958,250,256,974000,Roger Daltrey,Hotel Room,I thought we fired that guard.
+61959,250,257,977000,Security Guard,Hotel Room,"Oh, yeah, right. I got fired by The Who. Whatever you say, pal. Wack-o..."
+61960,250,258,983000,Homer Simpson,Hotel Room,"Wow, The Who!"
+61961,250,259,987000,Homer Simpson,Hotel Room,Woo! Rock 'n' roll!
+61962,250,260,992000,John Entwistle,Hotel Room,What the hell are you doing?!
+61963,250,261,993000,Bart Simpson,Hotel Room,Duh. Trashin' the hotel room.
+61964,250,262,996000,Pete Townshend,Hotel Room,But we promised the desk clerk we'd be good.
+61965,250,263,998000,Roger Daltrey,Hotel Room,"Yeah, we don't want to lose our pool privileges."
+61966,250,264,1000000,Homer Simpson,Hotel Room,"Whatever. The point is, I'm Homer Simpson."
+61967,250,265,1003000,John Entwistle,Hotel Room,The mayor of New Springfield?
+61968,250,266,1005000,Homer Simpson,Hotel Room,That's right.
+61969,250,267,1006000,Roger Daltrey,Hotel Room,The crazy mayor of New Springfield?
+61970,250,268,1008000,Homer Simpson,Hotel Room,"That's right. And I implore you to move your concert to our town. Don't play Olde Springfield, or as it is sometimes known, Sun City."
+61971,250,269,1018000,Roger Daltrey,Hotel Room,But we have a handshake agreement with a concert promoter. And that's a sacred bond.
+61972,250,270,1023000,PETE/ROGER/JOHN,Hotel Room,Sacred bond.
+61973,250,271,1025000,Homer Simpson,Hotel Room,"C'mon, what happened to the angry, defiant Who of ""My Generation,"" ""Won't Get Fooled Again,"" and ""Mama's Got a Squeeze Box""?"
+61974,250,272,1032000,John Entwistle,Hotel Room,"We know our songs, Homer."
+61975,250,273,1034000,Homer Simpson,Hotel Room,"But those Olde Springfield squares are just gonna make you cut your hair, turn down your music and wear frilly shirts like Keith Partridge."
+61976,250,274,1041000,Roger Daltrey,Hotel Room,Keith Partridge?
+61977,250,275,1043000,Roger Daltrey,Hotel Room,Who Huddle.
+61979,250,277,1048000,John Entwistle,Hotel Room,We'll do it.
+61980,250,278,1051000,John Entwistle,Hotel Room,Just send a cab for us.
+61981,250,279,1052000,Homer Simpson,Hotel Room,Somethin' wrong with your legs?
+61982,250,280,1053000,Roger Daltrey,Hotel Room,You're right. The walk will do us good.
+61984,250,282,1058000,Krusty the Clown,Olde Springfield Arena,"I opened for the Who at Woodstock! I came out in a Beatle wig with a ukulele. Hendrix said he almost plotzed, his exact words."
+61985,250,283,1067000,Sideshow Mel,Olde Springfield Arena,I never tire of that story.
+61986,250,284,1070000,C. Montgomery Burns,Olde Springfield Arena,"Smithers, why did you iron a crease in these dungarees? I look like a square."
+61987,250,285,1074000,Waylon Smithers,Olde Springfield Arena,"Uh, that crease is in your leg, Sir."
+61988,250,286,1076000,C. Montgomery Burns,Olde Springfield Arena,"Oh, so it is."
+61989,250,287,1078000,C. Montgomery Burns,Olde Springfield Arena,Yes...
+61991,250,289,1081000,Seymour Skinner,Olde Springfield Arena,"Hmm, it's not like the Who to be tardy. I'm worried."
+61992,250,290,1085000,Edna Krabappel-Flanders,Olde Springfield Arena,What's that?
+61993,250,291,1087000,Captain Horatio McCallister,Olde Springfield Arena,Yarrr! 'Tis the Who! By my reckoning they're in the scurvy depths of New Springfield.
+61994,250,292,1094000,Moe Szyslak,Olde Springfield Arena,"Homer stole our rock performance. That fat, dumb and bald guy sure plays some real hardball."
+61995,250,293,1100000,Sideshow Mel,Olde Springfield Arena,Who's ready to riot?!
+61997,250,295,1105000,Roger Daltrey,Olde Springfield Arena,I WON'T GET TO GET WHAT I'M AFTER / 'TIL THE DAY I DIE!
+61998,250,296,1114000,Roger Daltrey,Olde Springfield Arena,"How ya doin' out there, New Springfield?"
+61999,250,297,1118000,Marge Simpson,Olde Springfield Arena,"To be honest, it's a little chilly."
+62001,250,299,1121000,Roger Daltrey,Olde Springfield Arena,"Get outta the way, Marge."
+62002,250,300,1123000,Pete Townshend,Olde Springfield Arena,We were expecting a bigger crowd.
+62003,250,301,1125000,Homer Simpson,Olde Springfield Arena,"Oh, don't worry. They'll be here soon. And then they'll see who's got the better town."
+62004,250,302,1129000,Homer Simpson,Olde Springfield Arena,Now these are the tunes I want you boys to play.
+62005,250,303,1132000,Roger Daltrey,Olde Springfield Arena,"Wait a minute. Homer, a lot of these are Grand Funk Railroad songs."
+62006,250,304,1137000,John Entwistle,Olde Springfield Arena,"And we don't know ""Pacman Fever."""
+62007,250,305,1137000,Homer Simpson,Olde Springfield Arena,"Oh, c'mon, it plays itself. ""Pacman Fever / A do do do do / It's driving me crazy."" Look Lisa, Daddy's in the Who!"
+62008,250,306,1158000,Mayor Joe Quimby,Olde Springfield Arena,"Give us back our concert, Simpson!"
+62009,250,307,1160000,Homer Simpson,Olde Springfield Arena,"So, New Springfield's lookin' pretty good now, isn't it? With our ample parking and daily Who concerts."
+62010,250,308,1168000,Roger Daltrey,Olde Springfield Arena,Daily?
+62011,250,309,1168000,Homer Simpson,Olde Springfield Arena,We'll talk.
+62012,250,310,1169000,Moe Szyslak,Olde Springfield Arena,"All right, enough chit chat. Let's see how ya like flaming garbage!"
+62013,250,311,1178000,Homer Simpson,Olde Springfield Arena,Ha-ha. You hit the tire fire! You'll have to do...
+62014,250,312,1183000,Homer Simpson,Olde Springfield Arena,Why me?
+62015,250,313,1187000,John Entwistle,Olde Springfield Arena,"People, please! What's all this fightin' about?"
+62016,250,314,1189000,Pete Townshend,Olde Springfield Arena,"Apparently, they have two different area codes."
+62017,250,315,1192000,Roger Daltrey,Olde Springfield Arena,"Well, I'll be chuggered! That's the sticky wicket? Why not just buy telephones with auto ring-up? Or as you Yanks call it, speed-dial."
+62019,250,317,1201000,Roger Daltrey,Olde Springfield Arena,Radio Shack has some great ones.
+62020,250,318,1203000,Pete Townshend,Olde Springfield Arena,"Uh, says you."
+62021,250,319,1204000,Homer Simpson,Olde Springfield Arena,"""Magic Bus""!"
+62022,250,320,1206000,Olde Springfielders,Olde Springfield Arena,"Yeah! / ""Magic Bus""!"
+62023,250,321,1207000,Roger Daltrey,Olde Springfield Arena,"Okay, we'll play ""Magic Bus"" if you tear down this wall."
+62024,250,322,1212000,Homer Simpson,Olde Springfield Arena,"""Pinball Wizard""!"
+62025,250,323,1215000,Pete Townshend,Olde Springfield Arena,"Oh hell, I'll do it myself..."
+62026,250,324,1232000,Homer Simpson,Olde Springfield Arena,"Well Marge, looks like your insane experiment is over."
+62027,250,325,1244000,Marge Simpson,Olde Springfield Arena,My experiment? You're the one who came up with this whole idea...

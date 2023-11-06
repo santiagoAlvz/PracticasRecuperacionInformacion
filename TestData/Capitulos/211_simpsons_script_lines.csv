@@ -1,0 +1,260 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+49687,211,1,85000,Bart Simpson,Simpson Car,This ghost town is gonna be great. Now with 30 percent more gunfights!
+49688,211,2,89000,Marge Simpson,Simpson Car,And 40 percent more rootin' tootin'!
+49689,211,3,91000,Lisa Simpson,Simpson Car,"And the tumbleweeds tumble at 2, 4 and 6! Plus a midnight tumbling on weekends."
+49690,211,4,95000,Marge Simpson,Simpson Car,"It's so sweet of you to take us out like this, Homie. Come on, kids, three cheers for your father! Hip hip--"
+49691,211,5,102000,Lisa Simpson,Simpson Car,"Mom, don't."
+49692,211,6,103000,Marge Simpson,Simpson Car,Hip hip--
+49693,211,7,104000,Bart Simpson,Simpson Car,We heard you the first time.
+49694,211,8,105000,Marge Simpson,Simpson Car,Hip hip--
+49695,211,9,106000,Homer Simpson,Simpson Car,"Hey, I'm trying to drive here!"
+49696,211,10,108000,Lisa Simpson,Simpson Car,"Hey, Dad, that light says, ""Check Engine."""
+49697,211,11,108000,Homer Simpson,Simpson Car,Uh-oh. Tape must have fallen off.
+49698,211,12,115000,Homer Simpson,Simpson Car,"There, problem solved."
+49699,211,13,118000,Lisa Simpson,Simpson Car,"Oh, come on."
+49700,211,14,120000,Homer Simpson,Simpson Car,"Relax, she just needs a little lovin'."
+49701,211,17,127000,Grampa Simpson,Springfield Retirement Castle,"Aw, they remembered my birthday."
+49703,211,19,131000,Homer Simpson,Simpson Car,"Come on, come on, come on. Start, damn you. Start!"
+49704,211,20,135000,Grampa Simpson,Simpson Car,Happy birthday to me. Happy birthday to me...
+49708,211,24,147000,Homer Simpson,Simpson Car,Two hours? Why'd they build this ghost town so far away?
+49709,211,25,152000,Lisa Simpson,Simpson Car,Because they discovered gold right over there--
+49710,211,26,154000,Homer Simpson,Simpson Car,"It's because they're stupid, that's why. That's why everybody does everything."
+49713,211,29,167000,Marge Simpson,Bloodbath Gulch,This should be very educational. I want you kids to pay attention.
+49714,211,30,172000,Tour Guide,Bloodbath Gulch,"Founded by prostitutes in 1849, and serviced by prostitute express riders who could bring in a fresh prostitute from St. Joe in three days, Bloodbath Gulch quickly became known as a place where a trail hand could spend a month's pay in three minutes."
+49715,211,31,189000,Homer Simpson,Bloodbath Gulch,Three minutes?
+49716,211,32,191000,Marge Simpson,Bloodbath Gulch,I never realized history was so filthy.
+49717,211,33,194000,Tour Guide,Bloodbath Gulch,"First on our tour is the whorehouse. Then we'll visit the cat house, the brothel, the bordello, and finally, the old mission."
+49718,211,34,202000,Marge Simpson,Bloodbath Gulch,"Oh, thank heaven."
+49719,211,35,204000,Tour Guide,Bloodbath Gulch,Lots of prostitutes in there.
+49721,211,37,211000,Tour Guide,Bloodbath Gulch,"But there was more to the old west than just sex, folks. A-A lot more. If you look off to your left, you'll see a real old west hitching post, possibly used by bandits, possibly during some exciting adventure."
+49723,211,39,226000,Tour Guide,Bloodbath Gulch,And these planks below us were often used as a sidewalk by people who may or may not have been bandits.
+49725,211,41,237000,Marge Simpson,Bloodbath Gulch,That's a keeper!
+49726,211,42,239000,Tour Guide,Bloodbath Gulch,"Uh, yes, sir?"
+49727,211,43,240000,Homer Simpson,Bloodbath Gulch,Do we have to listen to you?
+49728,211,44,241000,Tour Guide,Bloodbath Gulch,"Oh, well... no, you don't... but if you have any interest in history..."
+49729,211,45,245000,Homer Simpson,Bloodbath Gulch,I'm done.
+49730,211,46,252000,Bart Simpson,Bloodbath Gulch,Wow! Have you ever seen so many robot cowboys?
+49731,211,47,260000,Homer Simpson,Bloodbath Gulch,"Hey robot, get your fat, metal ass down here!"
+49732,211,48,265000,Bartender,Bloodbath Gulch,"First of all, I'm not a robot. And second, I got this metal ass in 'Nam, defending this country for lazy jerks like you. Now, what'll you have, partner?"
+49733,211,49,275000,Homer Simpson,Bloodbath Gulch,"Let's see. One, two, three... six whiskeys!"
+49734,211,50,278000,Bart Simpson,Bloodbath Gulch,All right!
+49735,211,51,279000,Bartender,Bloodbath Gulch,"We only serve sarsparilla, Mac. No alcohol."
+49737,211,53,282000,Marge Simpson,Bloodbath Gulch,You can get drunk when we get home.
+49738,211,54,282000,Homer Simpson,Bloodbath Gulch,Duh.
+49739,211,55,285000,Robot Cowboy #1,Bloodbath Gulch,"Hey, these cards are marked."
+49740,211,56,289000,Robot Cowboy #2,Bloodbath Gulch,Now look what you've done.
+49741,211,57,291000,Robot Cowboy #1,Bloodbath Gulch,I'm sorry. I don't know what came over me.
+49742,211,58,295000,Robot Cowboy #3,Bloodbath Gulch,Let's forget this whole thing happened.
+49743,211,59,297000,Homer Simpson,Bloodbath Gulch,"What the heck is this, a tea party? Somebody kill somebody!"
+49744,211,60,306000,Marge Simpson,Bloodbath Gulch,What is it with you and robots?
+49745,211,61,321000,Grampa Simpson,Bloodbath Gulch,"Ooh, hello, sweet cheeks."
+49746,211,62,327000,Marge Simpson,Bloodbath Gulch,Look who's a little cowgirl!
+49747,211,63,330000,Bart Simpson,Bloodbath Gulch,"Hey, Mom, look what I got."
+49748,211,64,332000,Marge Simpson,Bloodbath Gulch,"Oh, that's cute. Did you get it in the souvenir shop?"
+49749,211,65,336000,Bart Simpson,Bloodbath Gulch,"No, that security guard is handing them out."
+49750,211,66,351000,Tour Guide,Bloodbath Gulch,"Uh-oh, better run for cover, pardners. Some varmints are havin' a shootout!"
+49751,211,67,356000,Cowboys,Bloodbath Gulch,"You stole my prostitute! / Missed me! / C'mon, yellow belly!"
+49752,211,68,373000,Curly,Bloodbath Gulch,Which way's the gunfight?
+49753,211,69,378000,Tour Guide,Bloodbath Gulch,"There's Old Curly. He played the town preacher until we laid him off, but he still hangs around."
+49754,211,70,385000,Old Curly,Bloodbath Gulch,"Help me, please. I'm sick."
+49756,211,72,389000,Marge Simpson,Bloodbath Gulch,Homer!
+49757,211,73,390000,Homer Simpson,Bloodbath Gulch,"But it's funny, Marge. The guy's sick."
+49758,211,74,398000,Lisa Simpson,Bloodbath Gulch,"Uh, should we help him?"
+49759,211,75,399000,Bart Simpson,Bloodbath Gulch,He knows what he's doing.
+49760,211,76,406000,Grampa Simpson,Bloodbath Gulch,Can't get a good sarsaparilla like this back in Springfield. It angries up the blood.
+49761,211,77,412000,Bartender,Bloodbath Gulch,"You like it, huh?"
+49762,211,78,413000,Grampa Simpson,Bloodbath Gulch,Up yours!
+49763,211,79,418000,Grampa Simpson,Bloodbath Gulch,Can I go to the bathroom before we leave?
+49764,211,80,421000,Homer Simpson,Bloodbath Gulch,"Oh, we've gotta get home. I don't wanna miss, ""Inside the Actor's Studio."" Tonight it's F. Murray Abraham."
+49765,211,81,428000,Grampa Simpson,Bloodbath Gulch,But I really need to--
+49766,211,82,429000,Homer Simpson,Bloodbath Gulch,F. Murray Abraham.
+49768,211,84,437000,Grampa Simpson,Simpson Car,There's a rest area. Pull over.
+49769,211,85,439000,Homer Simpson,Simpson Car,Can't stop now. We're making great time.
+49770,211,86,443000,Grampa Simpson,Simpson Car,Can I go behind a tree?
+49771,211,87,446000,Homer Simpson,Simpson Car,"What are you, an animal?"
+49773,211,89,447000,Homer Simpson,Freeway,"Whoever keeps saying ""please stop"" back there, better quit it."
+49776,211,92,452000,Homer Simpson,Simpson Car,"Wow, get a load of that toilet."
+49777,211,93,455000,Grampa Simpson,Simpson Car,Please go back! You can make it my birthday present.
+49778,211,94,459000,Homer Simpson,Simpson Car,"We're almost home, Dad. Only a couple more times over the horizon."
+49779,211,95,463000,Grampa Simpson,Simpson Car,But I might explode.
+49780,211,96,465000,Homer Simpson,Simpson Car,You just sit back and relax. I'm not gonna let anything happen to my old dad.
+49782,211,98,471000,Dr. Julius Hibbert,Dr. Hibbert's Office,Oh dear God!
+49783,211,99,473000,Dr. Julius Hibbert,Dr. Hibbert's Office,This man's kidneys have exploded. There's nothing left.
+49784,211,100,476000,Marge Simpson,Dr. Hibbert's Office,"Oh, no!"
+49785,211,101,478000,Homer Simpson,Dr. Hibbert's Office,"Yep, that's what happens when you get older. It's one of those natural things. Beautiful in its way."
+49786,211,102,483000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Uh, actually, his kidneys were fine yesterday when he had his annual checkup."
+49787,211,103,487000,Homer Simpson,Dr. Hibbert's Office,"Excuse me, doctor. I think I know a little something about medicine..."
+49788,211,104,491000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Homer, with all due respect, this x-ray reveals a textbook kidney blow-out -- which would explain those loud pops you heard."
+49789,211,105,499000,Homer Simpson,Dr. Hibbert's Office,So... you're saying I don't need a new muffler?
+49790,211,106,502000,Grampa Simpson,Dr. Hibbert's Office,I don't feel so good. Maybe I oughta eat something.
+49791,211,107,506000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Oh, I'm afraid your eating days are over."
+49793,211,109,519000,Grampa Simpson,Dr. Hibbert's Office,"How long do I have to live, Doc?"
+49794,211,110,522000,Dr. Julius Hibbert,Dr. Hibbert's Office,I'm amazed you're alive now.
+49795,211,111,524000,Homer Simpson,Dr. Hibbert's Office,"Oh, I blame myself for this."
+49253,211,112,527000,Marge Simpson,Dr. Hibbert's Office,We all blame you.
+49796,211,113,529000,Homer Simpson,Dr. Hibbert's Office,"C'mon, Doc. There's gotta be something I can do to help my dad."
+49797,211,114,533000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Well, you could give him a kidney."
+49798,211,115,534000,Homer Simpson,Dr. Hibbert's Office,"A kidney? Okay, fine."
+49799,211,116,537000,Dr. Julius Hibbert,Dr. Hibbert's Office,"You see, the waiting list for a kidney is very long and..."
+49800,211,117,541000,Homer Simpson,Dr. Hibbert's Office,"I said ""fine."" What is it about the word ""sure"" you don't understand?"
+49801,211,118,545000,Grampa Simpson,Dr. Hibbert's Office,"Oh, thank you, son."
+49802,211,119,548000,Grampa Simpson,Dr. Hibbert's Office,"Hmm, I'll take the left one -- it's good and springy. Though the right one's not without its charm."
+49804,211,121,558000,Homer Simpson,Simpson Home,"Pork chops, sloppy joes, hot dogs, and pork chops?"
+49805,211,122,562000,Marge Simpson,Simpson Home,"Well, Doctor Hibbert said you have to build up your strength."
+49806,211,123,565000,Lisa Simpson,Simpson Home,"Besides, nothing's too good for a wonderful, generous man like you."
+49807,211,124,569000,Homer Simpson,Simpson Home,"Well now that's what I always thought, but somehow..."
+49808,211,125,571000,Bart Simpson,Simpson Home,"Check it out, Dad. I rented all your favorite gorilla movies. ""Gorilla Squadron,"" ""Gorilla Island VI,""..."
+49809,211,126,577000,Homer Simpson,Simpson Home,"""Apes-A-Poppin'!"" Oooh, the airline version!"
+49810,211,127,581000,Lisa Simpson,Simpson Home,Can I fluff your pillow?
+49811,211,128,582000,Homer Simpson,Simpson Home,Nothing's too good for me.
+49812,211,129,584000,Homer Simpson,Simpson Home,"Ahhh. I'm the luckiest man in the world, now that Lou Gehrig's dead."
+49814,211,131,592000,Moe Szyslak,Moe's Tavern,"Well, I gotta hand it to you, Homer. You're really brave to go through with this operation."
+49815,211,132,596000,Homer Simpson,Moe's Tavern,"It's not an operation, Moe. The doctor says it's just a procedure."
+49816,211,133,600000,Moe Szyslak,Moe's Tavern,"Nah, nah, no. Makin' polenta, that's a procedure. You're talkin' about deadly, life-threatening surgery, here."
+49817,211,134,605000,Homer Simpson,Moe's Tavern,Really? You think it's dangerous?
+49818,211,135,608000,Carl Carlson,Moe's Tavern,"Oh, yeah. And, and even if you survive the operation --"
+49819,211,136,611000,Homer Simpson,Moe's Tavern,Procedure. Deadly procedure.
+49820,211,137,614000,Carl Carlson,Moe's Tavern,"Whatever. The point is, with only one kidney, you won't be able to drink yourself stupid no more."
+49821,211,138,619000,Homer Simpson,Moe's Tavern,Now you're just tryin' to scare me.
+49822,211,139,620000,Lenny Leonard,Moe's Tavern,Plus they'll put you on one of those organ donor sucker lists. Everybody who wants an eyeball or a spine or a vestigial tail will be after you.
+49823,211,140,628000,Homer Simpson,Moe's Tavern,But I don't want that.
+49824,211,141,630000,Moe Szyslak,Moe's Tavern,"Listen, I'm just gonna get right to the point, here. Can I have your buttocks? I mean, if you die. They look pretty comfortable."
+49825,211,142,636000,Homer Simpson,Moe's Tavern,"Yeah, I guess."
+49826,211,143,638000,Carl Carlson,Moe's Tavern,"And, uh, are those your original lips?"
+49827,211,144,640000,Homer Simpson,Moe's Tavern,"Well, actually I-- Hey! Quit harvesting me with your eyes!"
+49828,211,145,645000,Moe Szyslak,Moe's Tavern,"Oh yeah, that would look so good on me."
+49830,211,147,649000,Homer Simpson,Simpson Home,"Marge, I've been thinking. What if, instead of donating one of my old, worn-out kidneys, I gave Grampa that artificial kidney I invented?"
+49831,211,148,657000,Marge Simpson,Simpson Home,"Oh, Homer, that was just a beer can with a whistle glued to it."
+49832,211,149,660000,Homer Simpson,Simpson Home,"But I don't want them cutting up my soft, supple body. Why didn't somebody tell me what I was volunteering for? This is everybody's fault but mine."
+49833,211,150,670000,Marge Simpson,Simpson Home,"Oh, I know you're scared, Homie. But remember why you're doing this. It's for your father. The man who raised you and nurtured you."
+49834,211,151,680000,Grampa Simpson,Simpson Home,Jack and Jill went up the hill aaaand... Jill came tumbling after. The end. Good night.
+49835,211,152,686000,3-Year-Old Homer,Simpson Home,"Is that the same Jack from ""Jack and the Beanstalk""?"
+49836,211,153,689000,Grampa Simpson,Simpson Home,"You know, son, I believe it is."
+49837,211,154,691000,3-Year-Old Homer,Simpson Home,"And Jack Sprat? Is that him, too?"
+49838,211,155,694000,Grampa Simpson,Simpson Home,"Sure, why not... good night."
+49839,211,156,695000,3-Year-Old Homer,Simpson Home,Is he the same as Jack be nimble? And Jack Frost? And little Jack Horner?
+49840,211,157,700000,Grampa Simpson,Simpson Home,"Say, how 'bout a little NyQuil?"
+49841,211,158,704000,3-Year-Old Homer,Simpson Home,All gone!
+49842,211,159,706000,Grampa Simpson,Simpson Home,"I love you, son."
+49843,211,160,709000,Homer Simpson,Simpson Home,I owe Dad so much. Those bedtime stories began my lifelong love affair with the printed word.
+49844,211,161,717000,Marge Simpson,Simpson Home,"Well, giving him a kidney is a wonderful way to show him how you feel."
+49845,211,162,721000,Homer Simpson,Simpson Home,"You're right, Marge. I'll do it. But if I die during the operation, will you do one thing for me?"
+49846,211,163,727000,Marge Simpson,Simpson Home,"Ohh, anything, sweetheart."
+49847,211,164,730000,Homer Simpson,Simpson Home,Blow up the hospital.
+49848,211,165,731000,Marge Simpson,Simpson Home,"Well... I said I'd do it, so I guess I'll have to."
+49849,211,166,737000,Homer Simpson,Simpson Home,That's my girl.
+49852,211,169,744000,Voice,Hospital,Dr. Martins to podiatry.
+49853,211,170,745000,Homer Simpson,Hospital,Liability waiver?
+49854,211,171,747000,Admitting Nurse,Hospital,Don't read it. Just sign it.
+49855,211,172,749000,Homer Simpson,Hospital,"Yeah, but all these skulls and crossbones on here... I don't usually sign stuff like that."
+49856,211,173,753000,Admitting Nurse,Hospital,It simply says you won't hold us responsible if you die as a result of gross negligence. It's a standard form.
+49857,211,174,761000,Homer Simpson,Hospital,Oh.
+49858,211,175,766000,Grampa Simpson,Hospital,"I love you, son."
+49859,211,176,767000,Homer Simpson,Hospital,"I love you, Dad."
+49860,211,177,773000,Dr. Julius Hibbert,Hospital,"Now, don't you fellas worry. This'll all be over soon. And..."
+49861,211,178,777000,Dr. Julius Hibbert,Hospital,What the...?!
+49862,211,179,780000,Dr. Julius Hibbert,Hospital,We gotta get rid of that window.
+49863,211,180,782000,Grampa Simpson,Hospital,Where'd he go?
+49867,211,184,793000,Lisa Simpson,Hospital,I can't imagine Dad running away like this. Leaving his father to die.
+49868,211,185,797000,Bart Simpson,Hospital,Even I wouldn't do that. And I'm America's Bad Boy.
+49869,211,186,799000,Dr. Julius Hibbert,Hospital,It's a heartbreaking situation.
+49870,211,187,804000,Grampa Simpson,Hospital,Am I dead yet?
+49871,211,188,806000,Marge Simpson,Hospital,No.
+49872,211,189,807000,Grampa Simpson,Hospital,How 'bout now?
+49873,211,190,808000,Marge Simpson,Hospital,No.
+49874,211,191,808000,Grampa Simpson,Hospital,Now?
+49875,211,192,810000,Marge Simpson,Hospital,"I'll tell you when you're dead, Grampa."
+49876,211,193,812000,Grampa Simpson,Hospital,Thank you.
+49878,211,195,830000,Homer Simpson,Waterfront,I'm not worthy to live among civilized people.
+49879,211,196,837000,Homer Simpson,Waterfront,Even those guys look too civilized for me.
+49880,211,197,844000,Homer Simpson,Waterfront,I could live at sea! The sea forgives all. Not like those mean old mountains. I hate them so much.
+49881,211,198,855000,Homer Simpson,Waterfront,Hmmm... the sea won't stand for this.
+49883,211,200,861000,Homer Simpson,Clothing Store,"Uh, excuse me, I'm fleeing in shame and I'd like to look my best."
+49885,211,202,869000,Homer Simpson,Ship,"Um, can I be a mate on your ship? Preferably First Mate."
+49886,211,203,873000,Taffy Shop Clerk,Ship,"Well, if you look closely, you'll see this is a taffy shop shaped like a ship."
+49887,211,204,878000,Homer Simpson,Ship,"Oh, I like taffy, but I don't deserve taffy."
+49889,211,206,884000,Krusty the Clown,Hospital Room,"Hey, hey!"
+49891,211,208,887000,Krusty the Clown,Hospital Room,"Krusty here to cheer you up as part of the hospital's ""Last Laugh Program."""
+49892,211,209,893000,Grampa Simpson,Hospital Room,Last laugh?
+49893,211,210,894000,Krusty the Clown,Hospital Room,"So, how 'bout that hospital food? Uh?"
+49894,211,211,898000,Grampa Simpson,Hospital Room,I wouldn't know. I'm not allowed to eat.
+49895,211,212,901000,Krusty the Clown,Hospital Room,"Okayyyy... well, let's have a look at the old chart. Uh-- Ho ho, boy. Looks like we're both short on time so I'll go to the big finish. ""You are so beautiful to... meee!"""
+49896,211,213,919000,Krusty the Clown,Hospital Room,Feel better!
+49897,211,214,920000,Grampa Simpson,Hospital Room,"Come back, doctor."
+49899,211,216,927000,Homer Simpson,Waterfront,A tramp steamer! That's perfect!
+49901,211,218,935000,Homer Simpson,TRAMP STEAMER,"Oh, I'd like to apply for a job. Any job. If you don't have a captain, I could be that."
+49902,211,219,940000,Captain Horatio McCallister,TRAMP STEAMER,"Arr, what other ships have ye been on?"
+49903,211,220,943000,Homer Simpson,TRAMP STEAMER,I've been on that one. The taffy shop.
+49904,211,221,946000,Captain Horatio McCallister,TRAMP STEAMER,Good enough.
+49905,211,222,951000,Captain Horatio McCallister,TRAMP STEAMER,"Welcome aboard ""The Ship Of Lost Souls""."
+49906,211,223,957000,Homer Simpson,TRAMP STEAMER,"The name on the back says ""Honeybunch."""
+49907,211,224,958000,Captain Horatio McCallister,TRAMP STEAMER,"Arr, I've been meaning to paint over that. Now come and meet the rest of the damned. Did I mention they're lost souls?"
+49908,211,225,968000,Homer Simpson,TRAMP STEAMER,"Well, actually, you did..."
+49909,211,226,969000,Captain Horatio McCallister,TRAMP STEAMER,Arr.
+49910,211,227,977000,Sad-looking Frenchman,TRAMP STEAMER,"Ahh, another lost soul has joined our world-weary ensemble."
+49911,211,228,983000,Homer Simpson,TRAMP STEAMER,"Say, who are you guys?"
+49912,211,229,987000,Man In Dinner Jacket,TRAMP STEAMER,Who are we? No one. Where are we sailing? Nowhere. Do we even exist? Who knows?
+49913,211,230,994000,Homer Simpson,TRAMP STEAMER,"H-Heyy, let me off this thing."
+49914,211,231,996000,British Raj Man,TRAMP STEAMER,"Oh, don't listen to him. We exist all right."
+49915,211,232,999000,Homer Simpson,TRAMP STEAMER,Whew.
+49916,211,233,1000000,Woman In Wedding Dress,TRAMP STEAMER,"We wander the seven seas, trying to forget."
+49917,211,234,1004000,Homer Simpson,TRAMP STEAMER,Forget what?
+49918,211,235,1005000,British Raj Man,TRAMP STEAMER,"Oh boy, here we go."
+49919,211,236,1007000,Woman In Wedding Dress,TRAMP STEAMER,"My story of jilted love is long and bittersweet. If anyone has to go to the bathroom, go now. I don't want you walking around during my story."
+49920,211,237,1015000,British Raj Man,TRAMP STEAMER,My story's better. It has tigers.
+49921,211,238,1018000,Woman In Wedding Dress,TRAMP STEAMER,"I was born into wretched poverty. So one day I stole a loaf of bread, put it in the freezer until it was very hard, then robbed a bank with it."
+49922,211,239,1031000,Man In Dinner Jacket,TRAMP STEAMER,"... And when Mr. Dinkley saw what I had done, I was banned from the car wash forever."
+49923,211,240,1038000,Woman In Wedding Dress,TRAMP STEAMER,Forever? How awful.
+49924,211,241,1040000,Sad-looking Frenchman,TRAMP STEAMER,I would have killed Dinkley for that.
+49925,211,242,1042000,British Raj Man,TRAMP STEAMER,"As you can see, we're a contemptible lot of cads, bounders, and tiger stabbers."
+49926,211,243,1047000,Sad-looking Frenchman,TRAMP STEAMER,"Come, stranger, join our circle of infamy. Tell us your story of en-nui."
+49927,211,244,1054000,Homer Simpson,TRAMP STEAMER,"Well, back on land, my name was Homer Simpson. And I guess it is here, too. I promised my Dad one of my kidneys, but I chickened out at the last minute and left him on his deathbed."
+49928,211,245,1066000,Caribbean Outcast,TRAMP STEAMER,Good Lord!
+49929,211,246,1068000,Woman In Wedding Dress,TRAMP STEAMER,"Oh, how could you?"
+49930,211,247,1069000,British Raj Man,TRAMP STEAMER,I think I'm going to be sick.
+49931,211,248,1070000,Sad-looking Frenchman,TRAMP STEAMER,"I stole this accordion from a blind monkey, but you... you disgust even me."
+49932,211,249,1077000,Homer Simpson,TRAMP STEAMER,"Well, yeah, I know..."
+49934,211,251,1087000,Homer Simpson,TRAMP STEAMER,That's the last time I trust the strangest people on earth.
+49936,211,253,1098000,Homer Simpson,Waterfront,Even the sea won't forgive me.
+49937,211,254,1100000,Son,Waterfront,"That's the best sandcastle we've ever built, Dad."
+49938,211,255,1103000,Father,Waterfront,"We make a great team, son."
+49939,211,256,1106000,Homer Simpson,Waterfront,"Oh, I wish I had that kind of relationship with my father... or my kids. Well, I guess it's up to me to take the first step."
+49940,211,257,1122000,Father,Waterfront,Hey!
+49942,211,259,1124000,Homer Simpson,Springfield General Hospital,"All right, this is it. No more living in shame. I'm going to show my family the kind of man I really am."
+49943,211,260,1135000,Homer Simpson,Springfield General Hospital,"All right, I'm gonna..."
+49944,211,261,1146000,Marge Simpson,Springfield General Hospital,Aren't you going to give him the last rites?
+49946,211,262,1149000,Rev. Timothy Lovejoy,Springfield General Hospital,"That's Catholic, Marge. You might as well ask me to do a voodoo dance."
+49947,211,263,1154000,Lisa Simpson,Springfield General Hospital,"Doctor Hibbert, I thought you'd located another kidney for Grampa."
+49948,211,264,1157000,Dr. Julius Hibbert,Springfield General Hospital,"Larry Hagman took it. He's got five of them now. And three hearts. We didn't want to give them to him, but he overpowered us."
+49949,211,265,1164000,Grampa Simpson,Springfield General Hospital,Don't worry about old Grampa. I'm goin' to a better place. Shelbyville Hospital!
+49950,211,266,1172000,Grampa Simpson,Springfield General Hospital,"Oh, who'm I kiddin'? I'm a goner."
+49951,211,267,1176000,Homer Simpson,Springfield General Hospital,"No you're not, Dad."
+49952,211,268,1178000,Marge Simpson,Springfield General Hospital,Homer!
+49953,211,269,1178000,Lisa Simpson,Springfield General Hospital,Dad!
+49954,211,270,1179000,Grampa Simpson,Springfield General Hospital,Son!
+49956,211,272,1181000,Homer Simpson,Hospital,"I'm sorry, Dad. The way I behaved was shameful. I guess fear made me run away. But love made me come back."
+49957,211,273,1189000,Grampa Simpson,Hospital,"Bless you, son. I knew you'd come through for me."
+49958,211,274,1195000,Dr. Julius Hibbert,Hospital,"Now, Homer, this may sting just a tiny bit, b--"
+49959,211,275,1202000,Grampa Simpson,Hospital,"Aw, son of a--!"
+49962,211,278,1208000,Hans Moleman,Street,"Oh, dear."
+49963,211,279,1215000,Homer Simpson,Street,"Boy, that..."
+49964,211,280,1215000,Homer Simpson,Street,Ow!
+49966,211,282,1220000,Lisa Simpson,Hospital,He's waking up!
+49967,211,283,1222000,Marge Simpson,Hospital,"Oh, Homie. I'm so glad you're all right."
+49969,211,285,1227000,Bart Simpson,Hospital,"Try not to move, Dad. You swallowed a lot of motor oil."
+49970,211,286,1231000,Homer Simpson,Hospital,"I'm sorry I ran off again. Oh, I guess Dad must be dead by now. When I get better, and after I've built those shelves for the kitchen, we'll visit his grave..."
+49971,211,287,1243000,Grampa Simpson,Hospital,Grave nothin'!
+49972,211,288,1244000,Grampa Simpson,Hospital,I never felt more alive!
+49973,211,289,1248000,Grampa Simpson,Hospital,"Oh! Boy, I shouldn'ta done that."
+49974,211,290,1251000,Homer Simpson,Hospital,It's a miracle! You recovered!
+49975,211,291,1258000,Homer Simpson,Hospital,What? What? Hey!
+49976,211,292,1263000,Dr. Julius Hibbert,Hospital,"While we were setting your broken bones and putting your blood back in, we helped ourselves to a kidney and gave it to your father."
+49977,211,293,1270000,Homer Simpson,Hospital,You butchers! Give it back! Gimme that! Gim--
+49979,211,295,1277000,Homer Simpson,Hospital,"Don't you dance out that door you... I'll get my kidney back, old man! You have to sleep sometime!"
+49980,211,296,1283000,Lisa Simpson,Hospital,"I know you're a little peeved at Grampa, Dad, but you've done a wonderful thing."
+49981,211,297,1288000,Marge Simpson,Hospital,"Yes. You've shortened your life significantly, so someone else can have a slight extension of theirs."
+49982,211,298,1294000,Homer Simpson,Hospital,"Yeah, I guess you're right. Gimme a hug."
+49983,211,299,1299000,Homer Simpson,Hospital,I don't need two kidneys. I have everything I need right here...
+49984,211,300,1305000,Homer Simpson,Hospital,Hmmm...
+49985,211,301,1306000,Bart Simpson,Hospital,"Dad, you're tickling me."
+49986,211,302,1308000,Homer Simpson,Hospital,"Yesss, tickling."

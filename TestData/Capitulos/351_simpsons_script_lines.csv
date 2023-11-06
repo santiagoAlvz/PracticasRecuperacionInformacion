@@ -1,0 +1,283 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+90808,351,3,45000,Moe Szyslak,Moe's Tavern,"Hey, hey, hey, no enjoyin' it!"
+90810,351,5,46000,Kent Brockman,Springfield Street,"Kent Brockman here with Stormwatch Six. Professor Frink, what's the scientific explanation for this unusually severe thunderstorm?"
+90811,351,6,54000,Professor Jonathan Frink,Springfield Street,"Well Kent, we are uh exploring two theories at this point: a) either we have a supercell of high pressure fronts or b) God is bowl-ing! With the balls and the pins and the rental shoes and the very bad cheese pizza that comes in squares."
+90812,351,7,74000,Kent Brockman,Springfield Street,"Krusty, what's your light-hearted take on our recent bad weather?"
+90813,351,8,78000,Krusty the Clown,Springfield Street,"Sorry Kent, I sold all my ""bad weather"" jokes to Jay Mohr. But I can make funny sounds in your microphone."
+90814,351,9,84000,Kent Brockman,Springfield Street,Fine.
+90816,351,11,90000,Kent Brockman,Springfield Street,There you have it.
+90818,351,13,101000,Marge Simpson,Simpson Home,"Homer, do something about this leak!"
+90819,351,14,104000,Homer Simpson,Simpson Home,"Don't worry, Marge -- Hot Wheels to the rescue!"
+90820,351,15,108000,Homer Simpson,Simpson Home,"The water flows down here, through the straightaway, a couple of wicked S-turns..."
+90821,351,16,108000,Homer Simpson,Simpson Home,Around the loop of death...And out the mail slot! Then it's the yard's problem.
+90822,351,17,118000,Lisa Simpson,Simpson Home,My hamster!
+90825,351,20,132000,Marge Simpson,UPSTAIRS HALLWAY,"You know Homer, I let a lot of things slide, but when you can't keep a roof over your family's head, you're just not much of a father."
+90826,351,21,140000,Bart Simpson,UPSTAIRS HALLWAY,"I was gonna have my classmates over for a homework party, but now my refreshments are ruined."
+90827,351,22,146000,Bart Simpson,UPSTAIRS HALLWAY,"Goodbye, college!"
+90828,351,23,149000,Lisa Simpson,UPSTAIRS HALLWAY,He was supposed to be in a show-and-tell this week. That's not gonna happen!
+90829,351,24,161000,Marge Simpson,UPSTAIRS HALLWAY,"That teddy bear survived three safety recalls, but it couldn't survive you!"
+90830,351,25,166000,Homer Simpson,UPSTAIRS HALLWAY,"Aw, that's it. I'm going to Moe's!"
+90831,351,26,168000,Homer Simpson,UPSTAIRS HALLWAY,It's raining outside.
+90832,351,27,171000,Marge Simpson,UPSTAIRS HALLWAY,It's raining inside!
+90835,351,30,177000,Homer Simpson,KITCHEN,Lousy cat.
+90837,351,32,181000,Homer Simpson,Springfield Street,Stupid Homer-hating family. At least there's one place I'm always welcome.
+90838,351,33,185000,Barflies,Springfield Street,FOR HE'S A JOLLY GOOD FELLOW...
+90839,351,34,188000,Homer Simpson,Springfield Street,"Aw, guys. This is just what I needed."
+90840,351,35,191000,Moe Szyslak,Springfield Street,"This ain't for you, sweat stain. It's a surprise party for Lenny, thrown by his closest friends."
+90841,351,36,196000,Homer Simpson,Springfield Street,So what's Stephen Hawking doing here?
+90842,351,37,198000,Dr. Stephen Hawking,Springfield Street,"I live here now. You're looking at the new owner of the Little Caesar's down the street. Pizza, pizza. Pizza, pizza, pizza, pizza, pizza, pizza. Sorry. That button sticks."
+90843,351,38,210000,Homer Simpson,Springfield Street,So why didn't you invite me?
+90844,351,39,212000,Carl Carlson,Springfield Street,"We couldn't tell you ahead of time, because you'd spill the beans."
+90845,351,40,215000,Homer Simpson,Springfield Street,I wouldn't ruin a surprise for Lenny.
+90846,351,41,217000,Lenny Leonard,Springfield Street,Surprise? What surprise?
+90848,351,43,221000,Barney Gumble,Springfield Street,Way to go
+90849,351,44,223000,Moe Szyslak,Springfield Street,Six years' planning down the drain!
+90850,351,45,226000,Homer Simpson,Springfield Street,I'm sorry. I'll just sit over here until you stop being mad at me.
+90852,351,46,230000,Carl Carlson,Springfield Street,"Oh great, Homer! I bake a cake shaped like Lenny's favorite barstool, and you wreck it."
+90853,351,47,241000,Homer Simpson,Springfield Street,"Well, I can see I'm not wanted here."
+90854,351,48,245000,Moe Szyslak,Springfield Street,"Wait, Homer! Don't go."
+90855,351,49,249000,Moe Szyslak,Springfield Street,"Okay, beat it."
+90856,351,50,251000,Moe Szyslak,Springfield Street,Who wants ass frosting?
+90857,351,51,253000,Dr. Stephen Hawking,Springfield Street,"No thanks, I'm on Atkins."
+90859,351,53,255000,Homer Simpson,Homer's Car,My family hates me... my stupid friends kick me out of their stupid party! They'll all be sorry when I invent the world's best-tasting cola... and share it with no one!
+90861,351,55,282000,Homer Simpson,Homer's Car,A sign!
+90862,351,56,289000,Homer Simpson,Homer's Car,"Finally, a bar for men who like to drink and look at sexy women."
+90864,351,58,297000,Knockers Waitress,Knockers,"Welcome to Knockers, hon."
+90865,351,59,298000,Knockers Waitress,Knockers,Let me know if you see anything you like.
+90866,351,60,303000,Knockers Waitress,Knockers,"Read the sign, pre-vert."
+90867,351,61,308000,Homer Simpson,Knockers,I'd like a beer and a sympathetic ear.
+90868,351,62,311000,Bartender,Knockers,I got my own problems. I just lost this eye last night.
+90869,351,63,314000,Homer Simpson,Knockers,How did it ever come to this? I'm the first man ever to feel depressed in a bar. I don't have a friend in the world.
+90870,351,64,322000,Man,Knockers,Look at the size of that nacho plate!
+90871,351,65,325000,Man,Knockers,I haven't seen this much melted cheese since I left my Billy Joel albums out in the sun.
+90872,351,66,332000,Homer Simpson,Knockers,The sun.
+90873,351,67,334000,Man,Knockers,"Hey, you wanna split this?"
+90874,351,68,335000,Homer Simpson,Knockers,"Wow, it's been so long since I've been with someone who doesn't know what a selfish pig I am."
+90875,351,69,342000,Homer Simpson,Knockers,"Mine. Oh, move your hand. I get this!"
+90876,351,70,347000,Man,Knockers,"Hey, my name's Ray -- Ray Magini."
+90877,351,71,349000,Homer Simpson,Knockers,"Ray, you know me better than anyone. How can I get my wife to love me again?"
+90878,351,72,354000,Ray Magini,Knockers,Beats me -- I'm no marriage counselor. Just a licensed and bonded roofer.
+90879,351,73,363000,Homer Simpson,Knockers,"Ray, will you help me fix my roof?"
+90880,351,74,365000,Ray Magini,Knockers,"Sure, I'll help ya, under one condition -- you gotta help me finish this pitcher of beer."
+90881,351,75,372000,Homer Simpson,Knockers,"Wait, did I add that right?"
+90882,351,76,379000,President Homer,Knockers,"Now, for my first act as President..."
+90504,351,78,390000,Homer Simpson,Knockers,Deal!
+90883,351,79,391000,Homer Simpson,Knockers,To my new buddy. Now all we need is an awesome theme song. Whatever plays next on the jukebox.
+90884,351,80,400000,Ray Magini,Knockers,Deal.
+90885,351,81,401000,Record,Knockers,DO THAT TO ME ONE MORE TIME / ONCE IS NEVER ENOUGH / WITH A MAN LIKE YOU...
+90886,351,82,407000,Homer Simpson,Knockers,Next song. / That's what I meant. / Absolutely.
+90888,351,84,417000,Marge Simpson,Simpson Home,Homer! I woke up to find an owl eating a mouse on the pillow next to me.
+90889,351,85,422000,Homer Simpson,Simpson Home,I think that means six more weeks of Autumn.
+90890,351,86,424000,Marge Simpson,Simpson Home,It means you have to fix the roof!
+90891,351,87,426000,Homer Simpson,Simpson Home,"Don't worry, honey. I found us a roofer last night, and you'll never guess where."
+90892,351,88,430000,Marge Simpson,Simpson Home,Knockers on route 98.
+90893,351,89,432000,Homer Simpson,Simpson Home,How did you know?
+90894,351,90,433000,Marge Simpson,Simpson Home,"I'm psychic. Look, I don't know if I want a roofer who hangs out in bars."
+90895,351,91,438000,Homer Simpson,Simpson Home,"You're right, Marge -- I guess I should look for roofers at poetry slams and yoga retreats."
+90896,351,92,444000,Homer Simpson,Simpson Home,High-five!
+90897,351,93,446000,Bart Simpson,Simpson Home,"Eh, I got standards. I don't hand out high-fives like Chiclets."
+90898,351,94,449000,Homer Simpson,Simpson Home,Ray would high-five me.
+90899,351,95,451000,Marge Simpson,Simpson Home,"Well, he better high-five our roof!"
+90900,351,96,454000,Lisa Simpson,Simpson Home,"Yay, Mom!"
+90901,351,97,454000,Bart Simpson,Simpson Home,Zing!
+90903,351,99,456000,Marge Simpson,Simpson Home,"Come on, kids! We're gonna visit Grampa. Then we're gonna take the dog to the V-E-T..."
+90905,351,101,463000,Marge Simpson,Simpson Home,...then take Bart to get C-I-R-C-U-M-C-I-S-E-D.
+90907,351,103,469000,Marge Simpson,Simpson Home,I'll tell you what it means when it's over.
+90908,351,104,477000,Ray Magini,Simpson Home,"Hey, Homer."
+90909,351,105,478000,Homer Simpson,Simpson Home,Oh Ray! You came at the agreed-upon time.
+90910,351,106,482000,Ray Magini,Simpson Home,"That's what I like about you, Homer. Everything impresses you."
+90911,351,107,484000,Homer Simpson,Simpson Home,"""Impresses."" What a big word! I'm gonna look that up."
+90912,351,108,491000,Ray Magini,Simpson Home,"Ah, this is gonna take some work. Tell me, was the roof in good condition when you bought the house?"
+90913,351,109,496000,Homer Simpson,Simpson Home,I didn't really check. I mainly bought this house for the view.
+90914,351,110,501000,Homer Simpson,Simpson Home,"Some day that bowl will overflow, and I'll be there."
+90915,351,113,506000,Marge Simpson,Car,"Okay kids, we only have time for a quick visit to Grampa, so as soon as he feels loved, we're outta there."
+90916,351,114,516000,Marge Simpson,Car,"Oh, he must smell leftovers."
+90917,351,115,518000,Nurse,Car,"Please, we call them ""senior citizens."""
+90919,351,117,524000,Grampa Simpson,Springfield Retirement Castle,A dog? What a nice surprise! I'm gonna pet you raw!
+90920,351,118,533000,Jasper Beardly,Springfield Retirement Castle,Can we keep your dog? Please?
+90921,351,119,536000,Bart Simpson,Springfield Retirement Castle,Keep my dog? Till when?
+90922,351,120,538000,Grampa Simpson,Springfield Retirement Castle,"Not too long, just till we die."
+90923,351,121,546000,Marge Simpson,Springfield Retirement Castle,"Well, he does seem happy here..."
+90924,351,122,548000,Lisa Simpson,Springfield Retirement Castle,"Also, gerontological studies have demonstrated that animal companions can slow the inevitable decline of--"
+90925,351,123,553000,Jasper Beardly,Springfield Retirement Castle,"Yeah, okay, thank you. Why don't you go find a parade and rain on it?"
+90927,351,125,565000,Homer Simpson,Simpson Home,"Sorry about that, pal."
+90928,351,126,566000,Ray Magini,Simpson Home,No problem. Accidents happen.
+90929,351,127,572000,Homer Simpson,Simpson Home,"One, two, three, four -- I declare a nail war!"
+90930,351,128,576000,Ray Magini,Simpson Home,This is why I got into roofing!
+90932,351,130,582000,Ned Flanders,Simpson Home,Hey Homer!
+90933,351,131,584000,Homer Simpson,Simpson Home,"Ned, are you okay?"
+90934,351,132,585000,Ned Flanders,Simpson Home,Yes... but my mower can't get much lower!
+90935,351,133,588000,Ned Flanders,Simpson Home,I was wrong!
+90937,351,135,594000,Homer Simpson,Simpson Home,That's Ned Flanders. There's one in every neighborhood.
+90938,351,136,600000,Ray Magini,Simpson Home,"Oh sorry man, I gotta go. This says my kid attempted something. I hate the way these things cut off."
+90939,351,137,611000,Homer Simpson,Simpson Home,"Goodbye, Ray! Bye! Oh, he turned the corner. Ooh! Now I see him again!"
+90944,351,142,623000,Marge Simpson,Simpson Home,Homer!
+90946,351,144,627000,Marge Simpson,Simpson Home,You're drooling on my Goodwill pile!
+90947,351,145,631000,Marge Simpson,Simpson Home,And why is the hole in the roof even bigger?
+90948,351,146,634000,Homer Simpson,Simpson Home,Don't worry -- Ray'll be back any minute.
+90949,351,147,637000,Marge Simpson,Simpson Home,It's after six -- he's not coming back. He's a lousy roofer and a flake!
+90851,351,148,642000,Homer Simpson,Simpson Home,"Hey, watch what you say about him. I think Ray could be the one."
+90721,351,149,645000,Marge Simpson,Simpson Home,The one what?
+90950,351,150,646000,Homer Simpson,Simpson Home,"My new best friend. We think alike, we act alike, we finish each other's sandwiches..."
+90951,351,151,651000,Marge Simpson,Simpson Home,I don't want to hear any more about Ray. Tomorrow morning you buy some shingles and fix that roof yourself.
+90952,351,152,657000,Homer Simpson,Simpson Home,Ray's not gonna like that.
+90953,351,153,658000,Marge Simpson,Simpson Home,You're not married to Ray!
+90954,351,154,660000,Homer Simpson,Simpson Home,"Well if I was, we'd have taller kids!"
+90956,351,156,665000,Lisa Simpson,Springfield Retirement Castle,I'm sure everyone's happier with Santa's Little Helper here to love them.
+90957,351,157,670000,Marge Simpson,Springfield Retirement Castle,"Yeah, I bet the old people will be acting like young people, like in those cell phone ads everyone hates."
+90959,351,159,684000,Marge Simpson,Springfield Retirement Castle,He's become one of them!
+90960,351,160,686000,Marge Simpson,Springfield Retirement Castle,"Hey boy, want a treat?"
+90962,351,162,690000,Marge Simpson,Springfield Retirement Castle,"We better get you home. Come on, Lisa."
+90963,351,163,692000,Lisa Simpson,Springfield Retirement Castle,Right after Pat Sajak.
+90964,351,164,695000,Marge Simpson,Springfield Retirement Castle,Geez Louise...
+90965,351,165,700000,Old Jewish Man,Springfield Retirement Castle,You know it's too bad. We've had that dog as long as I can remember.
+90966,351,166,705000,Grampa Simpson,Springfield Retirement Castle,What dog?
+90967,351,167,706000,Old Jewish Man,Springfield Retirement Castle,Who the hell are you?
+90968,351,168,707000,Grampa Simpson,Springfield Retirement Castle,I wish I knew.
+90970,351,170,710000,Homer Simpson,Builder's Barn,"You know son, my dad used to take me down to Johnson's Hardware. Old man Johnson knew everything about fixin' stuff. When they built this place, he hung himself."
+90972,351,172,726000,Homer Simpson,Builder's Barn,"Oh sorry, son. I wanted you to bring me the stack of tiles from the top shelf. Hey, Ray's here!"
+90973,351,173,734000,Ray Magini,Builder's Barn,"Hey Homer! Look, I just came down with a case of shingles."
+90974,351,174,740000,Homer Simpson,Builder's Barn,What's in the box?
+90975,351,175,741000,Ray Magini,Builder's Barn,"Hey, I'm real sorry I never made it back yesterday. I hope we're still friends?"
+90976,351,176,745000,Homer Simpson,Builder's Barn,Of course we are! If you wanna be.
+90977,351,177,749000,Ray Magini,Builder's Barn,"Well, I wanna be if you wanna be."
+90978,351,178,755000,Ray Magini,Builder's Barn,"I tell you what, let me get a few more supplies, then I'll come right over and finish your roof."
+90980,351,179,761000,Bart Simpson,Builder's Barn,"Hey Dad, remember when you said if I used a chainsaw unsupervised I'd hurt myself? Well, you were wrong. I hurt someone else."
+90981,351,180,768000,Squeaky-Voiced Teen,Builder's Barn,I have forty-five minutes to get ready for the prom.
+90983,351,182,774000,Marge Simpson,Simpson Home,What are you doing? Why aren't you fixing the roof?
+90984,351,183,777000,Homer Simpson,Simpson Home,I don't have to -- Ray's gonna be here any minute.
+90985,351,184,780000,Marge Simpson,Simpson Home,"I'm so sick of hearing about that stupid, unreliable Ray! Who, by the way, I've never even met!"
+90986,351,185,786000,Homer Simpson,Simpson Home,"All right, then you can just look at the portrait I painted of him."
+90987,351,186,792000,Marge Simpson,Simpson Home,"Homer, how did you think I'd feel when I saw that?"
+90988,351,187,796000,Homer Simpson,Simpson Home,Something like that.
+90992,351,191,809000,Marge Simpson,Simpson Home,"Homer, come down for dinner."
+90993,351,192,811000,Homer Simpson,Simpson Home,Did you make enough for Ray?
+90994,351,193,812000,Marge Simpson,Simpson Home,Ray's not coming!
+90995,351,194,814000,Homer Simpson,Simpson Home,He is too! His truck's gonna come around the corner riiight now. Right now. Right now. Now. Now. Nnnnnnnnow. Now.
+90996,351,195,834000,Homer Simpson,Simpson Home,Now. Now. Nnnow.
+90997,351,196,839000,Marge Simpson,Simpson Home,"Homer, I know where Ray is."
+90998,351,197,844000,Homer Simpson,Simpson Home,Oh thank God. Where is he? Tell me!
+90999,351,198,846000,Marge Simpson,Simpson Home,"Sweetheart, your friend Ray is in your head."
+91000,351,199,849000,Homer Simpson,Simpson Home,Ray wouldn't fit in my head -- he's a human man.
+91001,351,200,852000,Marge Simpson,Simpson Home,You have to understand -- Ray doesn't exist.
+91002,351,201,859000,Homer Simpson,Simpson Home,"Yes he does. He's on his way and when he gets here, we'll have ever so much fun! You'll see!"
+91003,351,202,869000,Homer Simpson,Simpson Home,"Ha-ha-ha-ha-ha, how we'll laugh!"
+91004,351,203,874000,Marge Simpson,Simpson Home,Homer!
+91005,351,204,891000,Homer Simpson,Simpson Home,Ha-ha-ha-ha-ha! Ha-ha-ha-ha-ha...
+91008,351,207,892000,Homer Simpson,MENTAL HOSPITAL,What's going on? Where are my shoes?
+91009,351,208,898000,Dr. Julius Hibbert,MENTAL HOSPITAL,"Struggle all you want, Homer. There's nothing you can do."
+91010,351,209,903000,Dr. Julius Hibbert,MENTAL HOSPITAL,Excuse us for a moment.
+91011,351,210,909000,Homer Simpson,MENTAL HOSPITAL,What am I doing here? Let me go!
+91012,351,211,912000,Dr. Julius Hibbert,MENTAL HOSPITAL,We'll let you go when you admit there is no Ray Magini.
+91013,351,212,916000,Homer Simpson,MENTAL HOSPITAL,"Fine, I admit it. Help me, Ray! Appear and strike them down!"
+91014,351,213,919000,Marge Simpson,MENTAL HOSPITAL,"Homer, no one has ever seen Ray but you."
+91015,351,214,922000,Homer Simpson,MENTAL HOSPITAL,"But that's not true, Bart saw him at the Builder's Barn."
+91016,351,215,926000,Bart Simpson,MENTAL HOSPITAL,"No I didn't, Dad."
+91017,351,216,928000,Bart Simpson,MENTAL HOSPITAL,I saw you talking to yourself.
+91018,351,217,931000,Homer Simpson,MENTAL HOSPITAL,"Flanders, you saw Ray on the roof with me!"
+91019,351,218,934000,Ned Flanders,MENTAL HOSPITAL,"Sorry, Homer. You'll have to call me a Ray-theist, 'cause I don't believe I saw him."
+91020,351,219,939000,Homer Simpson,MENTAL HOSPITAL,"Ned, are you okay?"
+91021,351,220,942000,Homer Simpson,MENTAL HOSPITAL,There has to be someone who saw him -- someone who doesn't hate me like Flanders and Bart... Wait! The bartender at Knockers.
+91022,351,221,951000,Marge Simpson,MENTAL HOSPITAL,I called that bosom bar. The bartender said you were there alone.
+91023,351,222,956000,Dr. Julius Hibbert,MENTAL HOSPITAL,"Ray's a figment of your imagination, Homer. You felt lonely and unappreciated, so you made him up."
+91024,351,223,962000,Lisa Simpson,MENTAL HOSPITAL,"And here's the clincher... Ray Magini is an anagram for ""imaginary."""
+91025,351,224,964000,Homer Simpson,MENTAL HOSPITAL,"Wow. My subconscious is a genius. Well, that's all very convincing, and..."
+91027,351,226,988000,Dr. Julius Hibbert,MENTAL HOSPITAL,I'm afraid this calls for electro-shock.
+91028,351,227,992000,Marge Simpson,MENTAL HOSPITAL,Electro-shock?
+91029,351,228,993000,Dr. Julius Hibbert,MENTAL HOSPITAL,"Actually, the technical term is electroconvulsive therapy."
+91030,351,229,996000,Homer Simpson,MENTAL HOSPITAL,"Well, that's a world of difference. Light me up, doc!"
+91031,351,230,999000,Bart Simpson,MENTAL HOSPITAL,"When you're gettin' juiced, can you hold my turtle? I wanna bring him back to life."
+91032,351,231,1003000,Homer Simpson,MENTAL HOSPITAL,"Aw, what did he die of?"
+91033,351,232,1004000,Bart Simpson,MENTAL HOSPITAL,I'unno. He was dead when I found him.
+91035,351,234,1013000,Dr. Julius Hibbert,ELECTRO-SHOCK ROOM,"Homer, that's just to bite on, not to eat--"
+91036,351,235,1017000,Homer Simpson,ELECTRO-SHOCK ROOM,Sorry. Give me one that doesn't taste so good.
+91037,351,236,1020000,Dr. Julius Hibbert,ELECTRO-SHOCK ROOM,That was rubber covered in Vaseline!
+91038,351,237,1021000,Homer Simpson,ELECTRO-SHOCK ROOM,"Marge, write that down so we can have it at home."
+91039,351,238,1024000,Dr. Julius Hibbert,ELECTRO-SHOCK ROOM,We can't begin this treatment soon enough.
+90979,351,242,1034000,Marge Simpson,CALMWOOD,"How you feeling, sweetie?"
+90745,351,243,1036000,Homer Simpson,CALMWOOD,Much better.
+91042,351,244,1037000,Dr. Julius Hibbert,CALMWOOD,Do you see anyone here who isn't here?
+91043,351,245,1040000,Homer Simpson,CALMWOOD,"Nope, just you, Marge and Yogi Bear. Kidding!"
+91044,351,246,1044000,Dr. Julius Hibbert,CALMWOOD,"Well, I see your sense of humor's not affected. That's a very bad sign."
+91046,351,248,1057000,Homer Simpson,CALMWOOD,Real.
+91047,351,249,1059000,Homer Simpson,CALMWOOD,Not real.
+91048,351,250,1061000,Homer Simpson,CALMWOOD,Real.
+91049,351,251,1062000,Homer Simpson,CALMWOOD,Real.
+91050,351,252,1063000,Dr. Julius Hibbert,CALMWOOD,"Oh sorry, Homer. But recent historical evidence indicates that Robin Hood did not actually exist."
+91051,351,253,1071000,Homer Simpson,CALMWOOD,Fascinating!
+91052,351,254,1076000,Dr. Julius Hibbert,CALMWOOD,You kids can relax. Your father is fine now.
+91053,351,255,1079000,Bart Simpson,CALMWOOD,Fine and dandy?
+91054,351,256,1081000,Dr. Julius Hibbert,CALMWOOD,"Well, his dandiness will slowly return, with time."
+91055,351,257,1083000,Lisa Simpson,CALMWOOD,Dad!
+91056,351,258,1087000,Homer Simpson,CALMWOOD,"Oh kids, I heart you, too!"
+91057,351,259,1090000,Homer Simpson,CALMWOOD,"Man, I'm glad to be off that electro-shock table. Although to be honest, I did enjoy lying down."
+91058,351,260,1096000,Ray Magini,CALMWOOD,"Hello, Homer."
+91059,351,261,1097000,Homer Simpson,CALMWOOD,It's Ray! I see him again! Monster! You don't exist.
+91060,351,262,1104000,Ray Magini,CALMWOOD,"Hey, no one calls me a monster and questions my existence!"
+91061,351,263,1109000,Homer Simpson,CALMWOOD,The awesome power of the human mind.
+91062,351,264,1113000,Marge Simpson,CALMWOOD,I see Ray too.
+91063,351,265,1114000,Bart Simpson,CALMWOOD,So do I.
+91064,351,266,1115000,Dr. Julius Hibbert,CALMWOOD,"Uh-oh. Well, I'm not worried. You've already agreed not to sue me for anything."
+91065,351,267,1120000,Marge Simpson,CALMWOOD,When did I agree to that?
+91066,351,268,1121000,Dr. Julius Hibbert,CALMWOOD,You did when I validated your parking.
+91067,351,269,1123000,Marge Simpson,CALMWOOD,You didn't validate my parking.
+91068,351,270,1125000,Dr. Julius Hibbert,CALMWOOD,Check and mate.
+91069,351,271,1129000,Homer Simpson,CALMWOOD,"So, Ray does exist?!"
+91070,351,272,1131000,Ray Magini,CALMWOOD,"That's right. Now let's explore the improbable series of events that led to this amusing, yet tragic farce."
+91071,351,273,1138000,Bartender,CALMWOOD,"On account of my eye patch, I couldn't see Ray sitting at the bar."
+91072,351,274,1142000,Bartender,CALMWOOD,"All I saw was you, eatin' and drinkin' and talkin' to yourself."
+91073,351,275,1146000,Ray Magini,CALMWOOD,"And Ned, you didn't see me because I was hiding behind the chimney."
+91074,351,276,1150000,Ned Flanders,CALMWOOD,"Gee, I thought my vision was perfect. And here I was, worshiping false eyeballs."
+91075,351,277,1154000,Bart Simpson,CALMWOOD,"Wait, wait, wait, wait. How come at Builder's Barn I saw Homer talking to thin air?"
+91076,351,278,1159000,Ray Magini,CALMWOOD,"Well, that... hm."
+91077,351,279,1161000,Dr. Stephen Hawking,CALMWOOD,I can answer that.
+91078,351,280,1163000,Dr. Stephen Hawking,CALMWOOD,"I've been tracking a tear in the fabric of space-time, which combined with airborne pieces of metal at Builder's Barn, to create a miniature black hole. This anomaly interposed itself between Homer and Bart, causing a gravitational lens which absorbed the light reflected from Ray the roofer."
+91079,351,281,1187000,Lisa Simpson,CALMWOOD,That seems... feasible.
+91081,351,283,1192000,Marge Simpson,CALMWOOD,"Wait, there's still one last thing that doesn't make sense. Why did you start fixing our roof and then just disappear?"
+91082,351,284,1199000,Ray Magini,CALMWOOD,That's easy -- I'm a contractor.
+91084,351,286,1204000,Marge Simpson,CALMWOOD,That's right -- you're all crooks!
+91086,351,288,1209000,Ray Magini,CALMWOOD,"Yeah, yeah, yeah, we're all crooks. It's true."
+91087,351,289,1213000,Homer Simpson,CALMWOOD,Wait a minute. I went through a lot of pain and suffering because of this little misunderstanding. Somebody owes me big!
+91088,351,290,1220000,Dr. Julius Hibbert,CALMWOOD,"Well, Homer, I could make it up to you... maybe a free eye-scraping."
+91089,351,291,1224000,Homer Simpson,CALMWOOD,That's a given! There's something else. Something much more else.
+91091,351,293,1233000,Dr. Julius Hibbert,Simpson Home,"Homer, can I please knock off? I've got surgery in the morning."
+91092,351,294,1236000,Homer Simpson,Simpson Home,"Not if those gutters aren't clean, you don't."
+91094,351,296,1241000,Ray Magini,Simpson Home,"So as I was saying, Homer, Mondays, nine o'clock, CBS. They say everybody loves that guy, but I don't get it."
+91095,351,297,1247000,Homer Simpson,Simpson Home,What are you talking about?
+91096,351,298,1248000,Ray Magini,Simpson Home,"Hey, I'm just sayin', catch it while you still can."
+91097,351,299,1305000,Homer Simpson,Simpson Home,What time's the show on?
+91098,351,300,1305000,Ray Magini,Simpson Home,"It's Monday, nine o'clock, CBS."
+91099,351,301,1305000,Homer Simpson,Simpson Home,And what's the network?
+91100,351,302,1305000,Ray Magini,Simpson Home,CBS.
+91101,351,303,1305000,Homer Simpson,Simpson Home,At what time?
+91102,351,304,1305000,Ray Magini,Simpson Home,Nine o'clock.
+91103,351,305,1305000,Homer Simpson,Simpson Home,"And if I wanna watch it, what day?"
+91104,351,306,1305000,Ray Magini,Simpson Home,"Monday. Monday, nine o'clock."
+91105,351,307,1305000,Homer Simpson,Simpson Home,And this is on the radio?
+91106,351,308,1305000,Ray Magini,Simpson Home,"No, television. Mondays at nine. On CBS."
+91107,351,309,1305000,Homer Simpson,Simpson Home,"And if I wanna see it, what time should I watch it?"
+91108,351,310,1305000,Ray Magini,Simpson Home,Nine o'clock.
+91109,351,311,1305000,Homer Simpson,Simpson Home,On what channel?
+91110,351,312,1305000,Ray Magini,Simpson Home,CBS.
+91111,351,313,1305000,Homer Simpson,Simpson Home,What day?
+91112,351,314,1305000,Ray Magini,Simpson Home,Monday.
+91113,351,315,1305000,Homer Simpson,Simpson Home,On the radio?
+91114,351,316,1305000,Ray Magini,Simpson Home,Television.
+91115,351,317,1305000,Homer Simpson,Simpson Home,Turn the television to what channel?
+91116,351,318,1305000,Ray Magini,Simpson Home,CBS.
+91117,351,319,1305000,Homer Simpson,Simpson Home,At what time?
+91118,351,320,1305000,Ray Magini,Simpson Home,Nine o'clock on Monday.
+91119,351,321,1305000,Homer Simpson,Simpson Home,"Now if I wanted to see it on a certain day, what would be the best day to see it?"
+91120,351,322,1305000,Ray Magini,Simpson Home,It's only on on Monday.
+91121,351,323,1305000,Homer Simpson,Simpson Home,And what time? Would be a good time to see it?
+91122,351,324,1305000,Ray Magini,Simpson Home,Nine o'clock. It's from nine to nine thirty.
+91123,351,325,1305000,Homer Simpson,Simpson Home,So if I turn my radio on at nine o'clock...
+91124,351,326,1305000,Ray Magini,Simpson Home,"Not the radio, television."
+91125,351,327,1305000,Homer Simpson,Simpson Home,"So it's Mondays at nine, on NBC."
+91126,351,328,1305000,Ray Magini,Simpson Home,CBS.
+91127,351,329,1305000,Homer Simpson,Simpson Home,CBS.
+91128,351,330,1305000,Ray Magini,Simpson Home,Nine o'clock.
+91129,351,331,1305000,Homer Simpson,Simpson Home,On the radio.
+91130,351,332,1305000,Ray Magini,Simpson Home,Television.
+91131,351,333,1305000,Homer Simpson,Simpson Home,Television at three o'clock.
+91132,351,334,1305000,Dr. Stephen Hawking,Simpson Home,And we are done.

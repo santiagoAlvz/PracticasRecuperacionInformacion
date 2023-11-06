@@ -1,0 +1,312 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+68221,271,2,84000,Homer Simpson,Simpson Car,"WON'T YOU MARRY ME, BI-ILL? / I GOT THE WEDDING GOWN BI-ILL / 'CAUSE WEDDINGS ARE NI-ICE..."
+68222,271,3,92000,Bart Simpson,Simpson Car,Let's never miss the school bus again.
+68223,271,4,95000,Marty,Simpson Car,"That was the Fifth Dimension, with ""Weddings Are Nice""."
+68225,271,6,95000,Bill,KBBL,"You know what else is nice, Marty?"
+68226,271,7,100000,Marty,KBBL,"What's that, Bill?"
+68227,271,8,101000,Bill,KBBL,The KBBL Prize Posse!
+68228,271,9,103000,CAMPY 40'S MOVIE DETECTIVE,KBBL,Damn dirty ape!
+68229,271,10,105000,Marty,KBBL,"Oh-ho-ho. If our Wampum Wagon spots your KBBL Party Penguin, you'll win forty dollars!"
+68230,271,11,113000,Homer Simpson,KBBL,"Didja hear that, Pengy? Forty dollars!"
+68231,271,12,116000,Milhouse Van Houten,KBBL,"Hey, there's the Wampum Wagon!"
+68232,271,13,120000,Homer Simpson,KBBL,"End of the line, boys."
+68233,271,14,124000,Professor Jonathan Frink,KBBL,Look out because of...
+68234,271,15,127000,Milhouse Van Houten,KBBL,"If we're late for school, we'll miss our free federal breakfast!"
+68235,271,16,131000,Bart Simpson,KBBL,Big deal. It's just saltines and fig paste.
+68236,271,17,133000,Milhouse Van Houten,KBBL,"Ew, saltines."
+68239,271,20,143000,Chief Wiggum,DONUT SHOP,"Hey, Cora. I heard science is working on a donut that actually burns off calories. Uh, how's that goin'?"
+68240,271,21,151000,Cora,DONUT SHOP,What?
+68241,271,22,152000,Chief Wiggum,DONUT SHOP,"Ah, never mind. Just refill this with jelly, will ya?"
+68242,271,23,158000,Chief Wiggum,DONUT SHOP,Thanks. You're an angel.
+68243,271,24,159000,Cora,DONUT SHOP,What?
+68245,271,26,160000,Bart Simpson,Street,"Hey, check it out. Wiggum's cruiser."
+68246,271,27,164000,Bart Simpson,Street,"Wow, tear gas, riot club, police hat..."
+68247,271,28,168000,Milhouse Van Houten,Street,...with rain baggie!
+68248,271,29,170000,Bart Simpson,Street,"Ah, man, that would really keep your head dry."
+68249,271,30,173000,Milhouse Van Houten,Street,Have you ever been in a police car?
+68250,271,31,175000,Bart Simpson,Street,Not in the front.
+68251,271,32,176000,Milhouse Van Houten,Street,"Hey, I just had this crazy idea."
+68252,271,33,180000,Bart Simpson,Street,Really? What?
+68254,271,35,182000,Milhouse Van Houten,WIGGUM'S CAR,"What's this thing? ""Miranda Rights Teleprompter?"""
+68255,271,36,188000,Bart Simpson,WIGGUM'S CAR,Check this out!
+68256,271,37,189000,Bart Simpson,WIGGUM'S CAR,"You, there. Put your hands up."
+68257,271,38,192000,Ned Flanders,WIGGUM'S CAR,Me? Okay.
+68258,271,39,194000,Bart Simpson,WIGGUM'S CAR,"Now, drop your pants."
+68259,271,40,195000,Ned Flanders,WIGGUM'S CAR,"Yeah, b-but my hands are up."
+68260,271,41,197000,Bart Simpson,WIGGUM'S CAR,Hula out of them.
+68261,271,42,199000,Ned Flanders,WIGGUM'S CAR,All right officer.
+68264,271,46,208000,Chief Wiggum,DONUT SHOP,"What the heck is goin' on out there? Officer Sniffy! Come in, Sniffy. Do you read me?"
+68266,271,48,215000,Chief Wiggum,Police Car,"It's me, Clancy."
+68267,271,49,217000,Bart Simpson,Police Car,No! Get away!
+68268,271,50,220000,Bart Simpson,Police Car,Uh-oh.
+68270,271,52,221000,Chief Wiggum,DONUT SHOP,"Hey, somebody's stealing my car!"
+68271,271,53,223000,Cora,DONUT SHOP,What?
+68273,271,55,226000,Bart Simpson,Street,Look out!
+68274,271,56,228000,Milhouse Van Houten,Street,Sooouuup!
+68276,271,58,235000,Coach,Street,"... that's why you young athletes are so promising. Now, who'd like to buy a trophy?"
+68277,271,59,249000,Hobo,Street,"Finally, some recognition."
+68278,271,60,254000,Chief Wiggum,Street,"All right, you two are under arrest for joy ridin'. You have the right to remain, um... uh..."
+68279,271,61,260000,Chief Wiggum,Street,"""Silent?"" That doesn't sound right."
+68282,271,64,265000,Homer Simpson,Court,I love our court days.
+68283,271,65,269000,Marge Simpson,Court,It's about the only thing we do as a family anymore.
+68284,271,66,272000,Lisa Simpson,Court,"Hey, Karie."
+68285,271,67,273000,Bailiff,Court,"Hey, Lisa."
+68287,271,69,274000,Kirk Van Houten,Courtroom,"Uh, your Honor, please don't send my son to Juvie. He's basically a good kid. He's just weak. Morally, and in the upper body."
+68288,271,70,284000,Milhouse Van Houten,Courtroom,Please let me slip through the cracks.
+68289,271,71,287000,Judge Snyder,Courtroom,"Well, you look like a good student, well with those glasses... and I suppose boys will be boys... Case dismissed."
+68290,271,72,297000,Bart Simpson,Courtroom,Good 'ol Judge Snyder.
+68291,271,73,298000,Bailiff,Courtroom,"Next defendant, Bartholomew J. Simpson."
+68292,271,74,301000,Bart Simpson,Courtroom,"Well, it's showtime."
+68293,271,75,306000,Judge Snyder,Courtroom,"Why, hello, Bart. Say, are those new shoes?"
+68294,271,76,310000,Bart Simpson,Courtroom,"Yes they are, Roy."
+68295,271,77,312000,Homer Simpson,Courtroom,Judge Snyder? While we're young?
+68296,271,78,314000,Judge Snyder,Courtroom,"Oh, sorry."
+68297,271,79,315000,Judge Snyder,Courtroom,Oh my! Looks like you were the ringleader in this car theft. And that's a felony.
+68298,271,80,321000,Bart Simpson,Courtroom,"Yes, sir."
+68299,271,81,324000,Judge Snyder,Courtroom,"On the other hand, I was young once."
+68300,271,82,327000,Homer Simpson,Courtroom,I'll bring the car around.
+68301,271,83,328000,Judge Snyder,Courtroom,And I suppose boys will be...
+68302,271,84,331000,Judge Snyder,Courtroom,Oh. Oops. My vacation just started.
+68303,271,85,337000,Bailiff,Courtroom,All rise for the Honorable Judge Constance Harm.
+68304,271,86,345000,Marge Simpson,Courtroom,Uh-oh.
+68305,271,87,347000,Judge Harm,Courtroom,Silence in my courtroom.
+68306,271,88,350000,Judge Harm,Courtroom,Grand theft auto?!
+68307,271,89,352000,Bart Simpson,Courtroom,"It was an accident, ma'am."
+68308,271,90,354000,Judge Harm,Courtroom,Don't spit on my cupcake and tell me it's frosting.
+68309,271,91,357000,Homer Simpson,Courtroom,What'd she say about cupcakes?
+68310,271,92,360000,Judge Harm,Courtroom,"According to this, your father was driving you to school? Then where was he when you stole the police car?"
+68311,271,93,365000,Homer Simpson,Courtroom,"Uh, your Honor, I was chasing the KBBL Party Penguin Prize Patrol."
+68312,271,94,370000,Judge Harm,Courtroom,You abandoned your son to win forty dollars?
+68313,271,95,373000,Homer Simpson,Courtroom,And a Blue Oyster Cult medallion.
+68314,271,96,375000,Homer Simpson,Courtroom,Coooool.
+68315,271,97,378000,Judge Harm,Courtroom,And that was more important than keeping your son out of trouble?
+68316,271,98,380000,Homer Simpson,Courtroom,"Your Honor, if I may sing a little bit of ""Don't Fear the Reaper"", I think you'll agree that..."
+68317,271,99,385000,Judge Harm,Courtroom,I'm familiar with B.O.C. But you have got a boy here who is crying out for adult supervision.
+68318,271,100,391000,Homer Simpson,Courtroom,I couldn't agree more. Perhaps some sort of court-appointed baby-sitter or au pair.
+68319,271,101,396000,Judge Harm,Courtroom,"Sorry, Bub. That crow won't caw."
+68320,271,102,398000,Homer Simpson,Courtroom,It won't?
+68321,271,103,399000,Judge Harm,Courtroom,I hereby order you to be tethered to your son.
+68322,271,104,402000,Homer Simpson,Courtroom,Tethered?!
+68323,271,105,403000,Judge Harm,Courtroom,Tethered. Report to room five.
+68324,271,106,405000,Homer Simpson,Courtroom,Room five?!
+68327,271,109,411000,Employee,ROOM FIVE,There we go. How's that?
+68328,271,110,413000,Homer Simpson,ROOM FIVE,It's a little tight.
+68329,271,111,415000,Employee,ROOM FIVE,"Sir, you are not a size four."
+68330,271,112,418000,Homer Simpson,ROOM FIVE,I used to be.
+68332,271,114,432000,Homer Simpson,Simpson Home,"Oh, this punishment is so cruel."
+68333,271,115,435000,Marge Simpson,Simpson Home,And unusual.
+68334,271,116,436000,Bart Simpson,Simpson Home,Can that judge do this to us?
+68336,271,117,438000,Lisa Simpson,Simpson Home,Creative sentencing is common these days. That's why Bill Clinton is our new mailman.
+68337,271,118,445000,Bill Clinton,Simpson Home,Dang magazines...
+68338,271,119,447000,Marge Simpson,Simpson Home,"Well, maybe it'll be fun. You'll get to spend more time together. Make sure your father takes his mood medication."
+68339,271,120,453000,Homer Simpson,Simpson Home,I'll medicate you...
+68340,271,121,456000,Homer Simpson,Simpson Home,"...honey. You know, this could be fun. Race you to the kitchen, my little tether ball."
+68341,271,122,461000,Bart Simpson,Simpson Home,"You're on, Rope-a-dope!"
+68342,271,123,461000,Lisa Simpson,Simpson Home,Ack!
+68345,271,126,466000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,Today we're going to talk about predicates and predicate nominatives.
+68346,271,127,470000,Homer Simpson,Mrs. Krabappel's Classroom,Bo-ring.
+68347,271,128,471000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"Mr. Simpson, I'm trying to teach."
+68348,271,129,474000,Homer Simpson,Mrs. Krabappel's Classroom,"Come on, these kids are never gonna use that stuff."
+68349,271,130,476000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,Will you please just go back to sleep?
+68350,271,131,478000,Homer Simpson,Mrs. Krabappel's Classroom,Fine.
+68352,271,133,485000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"All right, now who can pick out the predicate in this sentence?"
+68354,271,135,491000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"What's wrong with him now, Bart?"
+68355,271,136,493000,Bart Simpson,Mrs. Krabappel's Classroom,"Night terrors, ma'am."
+68356,271,137,495000,Homer Simpson,Mrs. Krabappel's Classroom,Cobras!
+68358,271,139,498000,Homer Simpson,Springfield Elementary School,"Okay, son. Concentrate... Shut out everything but the sound of my criticism."
+68359,271,140,505000,Homer Simpson,Springfield Elementary School,Swing!
+68360,271,141,505000,Homer Simpson,Springfield Elementary School,"Run, Bart! Pump your thighs! Pump them..."
+68361,271,142,514000,Bart Simpson,Springfield Elementary School,"Hurry up, Dad!"
+68362,271,143,516000,Homer Simpson,Springfield Elementary School,"I'm with you, son!"
+68363,271,144,526000,Seymour Skinner,Springfield Elementary School,Safe!
+68364,271,145,527000,Bart Simpson,Springfield Elementary School,"Wow, my first home run."
+68365,271,146,529000,Homer Simpson,Springfield Elementary School,That's my boy...
+68367,271,148,532000,Homer Simpson,Springfield Elementary School,"C'mon, hug me..."
+68368,271,149,538000,Homer Simpson,Springfield Elementary School,Cobras! Cobras!
+68371,271,151,546000,Homer Simpson,Springfield Nuclear Power Plant,I thought I would hate working nights. But it's so peaceful. And there's no one here to squeal on me for shootin' mice.
+68372,271,152,553000,Bart Simpson,Springfield Nuclear Power Plant,"Can I ask you something, Dad?"
+68373,271,153,554000,Homer Simpson,Springfield Nuclear Power Plant,"Sure, boy."
+68374,271,154,555000,Bart Simpson,Springfield Nuclear Power Plant,The town keeps getting bigger. Will there always be enough electricity?
+68375,271,155,558000,Homer Simpson,Springfield Nuclear Power Plant,"Oh, son. You know that's none of your business. Say, is that our house?"
+68376,271,156,566000,Bart Simpson,Springfield Nuclear Power Plant,"Uh, I don't think Lenny's house has a steeple."
+68377,271,157,569000,Homer Simpson,Springfield Nuclear Power Plant,"Oh, yeah... I forget things sometimes..."
+68379,271,159,576000,Homer Simpson,Street,Really. You like skateboards? We're sure learning a lot about each other.
+68380,271,160,581000,Bart Simpson,Street,"Yeah, this tether has some pluses."
+68382,271,162,586000,Homer Simpson,Street,"Ow, my head... Oh. I need a beer."
+68384,271,164,592000,Homer Simpson,Moe's Tavern,"I hit my head, Moe."
+68385,271,165,594000,Moe Szyslak,Moe's Tavern,"One beer, comin' up."
+68386,271,166,597000,Moe Szyslak,Moe's Tavern,"Hey, hey. No kids in the bar."
+68387,271,167,599000,Homer Simpson,Moe's Tavern,Since when?
+68388,271,168,600000,Moe Szyslak,Moe's Tavern,"Oh, the heat's been on since them Bush girls were in here."
+68389,271,169,603000,Homer Simpson,Moe's Tavern,"All right, all right. Come on, Bart."
+68391,271,171,609000,Bart Simpson,Moe's Tavern,I'm cold and scared.
+68392,271,172,611000,Homer Simpson,Moe's Tavern,That's my little slugger.
+68393,271,173,613000,Bart Simpson,Moe's Tavern,"C'mon, Dad. Let's go."
+68394,271,174,616000,Homer Simpson,Moe's Tavern,"Hey, knock it off! These pants cost six hundred dollars!"
+68395,271,175,620000,Moe Szyslak,Moe's Tavern,Really?
+68396,271,176,621000,Homer Simpson,Moe's Tavern,"Yeah, they're Italian."
+68397,271,177,622000,Moe Szyslak,Moe's Tavern,All right. Hand 'em over.
+68398,271,178,624000,Homer Simpson,Moe's Tavern,Moe? What the?...
+68399,271,179,626000,Moe Szyslak,Moe's Tavern,"Yeah, I rob now."
+68401,271,181,627000,Kent Brockman,Simpson Home,There's a new judge in town with a hard-nosed approach to juvenile crime: punish the parents.
+68402,271,182,634000,Homer Simpson,Simpson Home,It's about time. Oh.
+68403,271,183,638000,Judge Harm,Simpson Home,"Kids are running wild, Kent. And I blame Mr. and Mrs. Neverspank."
+68404,271,184,642000,Kent Brockman,Simpson Home,Uh-oh. We'll have to bleep their names.
+68406,271,185,645000,Judge Harm,Simpson Home,"You'll bleep nothing. Parents, it's time to take control. If you can't cope, you'll wear the rope."
+68407,271,186,652000,Marge Simpson,Simpson Home,"Well, you can tell she's never had kids. Look how high and firm her breasts are."
+68408,271,187,657000,Lisa Simpson,Simpson Home,"Granted. But you gotta admit, constant supervision has been good for Bart. He might even make the honor roll, if Dad can control his night terrors."
+68409,271,188,665000,Homer Simpson,Simpson Home,"Well, that's a pretty big ""if,"" honey."
+68410,271,189,668000,Bart Simpson,Simpson Home,"C'mon, Dad. I gotta go to the bathroom."
+68411,271,190,670000,Homer Simpson,Simpson Home,"Oh, I just got comfortable. Use the bottle."
+68412,271,191,672000,Marge Simpson,Simpson Home,No! I don't want you going in a bottle. That's what hobos do.
+68413,271,192,677000,Bart Simpson,Simpson Home,"Come on, Homer."
+68414,271,193,677000,Homer Simpson,Simpson Home,No!
+68415,271,194,679000,Bart Simpson,Simpson Home,Mo-om!
+68416,271,195,681000,Marge Simpson,Simpson Home,"Homer, just take him to the bathroom."
+68417,271,196,684000,Homer Simpson,Simpson Home,Fine. I don't even know why we have a bottle. Somebody tell me!
+68419,271,198,695000,Bart Simpson,Simpson Home,Would you mind? I'm trying to do my homework.
+68420,271,199,698000,Homer Simpson,Simpson Home,"Ah, son, it's a little chilly. Maybe you should wrap a blanket around your head."
+68421,271,200,703000,Marge Simpson,Simpson Home,"Oh, Homie, no. We can't."
+68422,271,201,705000,Homer Simpson,Simpson Home,What's the big deal? He sees a thousand times worse on that animal channel.
+68423,271,202,711000,Marge Simpson,Simpson Home,I don't want him to see us expressing our love.
+68424,271,203,716000,Homer Simpson,Simpson Home,Why not? Kids are very visual these days.
+68425,271,204,719000,Marge Simpson,Simpson Home,No!
+68426,271,205,719000,Homer Simpson,Simpson Home,But...
+68427,271,206,720000,Bart Simpson,Simpson Home,The lady said no.
+68428,271,207,721000,Homer Simpson,Simpson Home,"Hey, shut up."
+68429,271,208,722000,Bart Simpson,Simpson Home,You shut up.
+68430,271,209,724000,Homer Simpson,Simpson Home,Ow! Why you--!
+68431,271,210,726000,Bart Simpson,Simpson Home,What'd you do that for?
+68432,271,211,728000,Homer Simpson,Simpson Home,Because I... Ow! You--!
+68433,271,212,729000,Bart Simpson,Simpson Home,Ah!
+68434,271,213,729000,Homer Simpson,Simpson Home,Ow!
+68436,271,215,730000,Homer Simpson,Simpson Home,Ow!
+68438,271,217,730000,Homer Simpson,Simpson Home,Ow!
+68439,271,218,735000,Marge Simpson,Simpson Home,I'm sleeping in the bathtub.
+68440,271,219,738000,Homer Simpson,Simpson Home,Why you little...
+68370,271,220,742000,Homer Simpson,Simpson Home,Ow! Ow! Ow! Oh! Ah! Ow! Ow! Owww! That really hurt.
+68405,271,221,750000,Marge Simpson,Simpson Home,I can't take it anymore!
+68335,271,222,756000,Bart Simpson,Simpson Home,"Mom, you cut the tether."
+68442,271,223,758000,Homer Simpson,Simpson Home,We're free! Your mother set us free!
+68443,271,224,762000,Homer Simpson,Simpson Home,Woo hoo!
+68444,271,225,764000,Judge Harm,Simpson Home,Don't celebrate too much.
+68446,271,227,768000,Bart Simpson,Simpson Home,Who said that?
+68448,271,229,771000,Judge Harm,Simpson Home,"That's right. It's me, Judge Harm, through the magic of fiber optics."
+68449,271,230,775000,Homer Simpson,Simpson Home,"Heyyy, how 'bout that? Ha, ha."
+68450,271,231,778000,Judge Harm,Simpson Home,"Quiet, Tubsy. You violated my order."
+68451,271,232,781000,Homer Simpson,Simpson Home,"But, Constance, it only happened because..."
+68452,271,233,784000,Judge Harm,Simpson Home,"Hey, hey. If I want a cock 'n' bull story, I'll read Hemingway."
+68453,271,234,788000,Marge Simpson,Simpson Home,Don't be mad at Homer. I was the one who cut the rope.
+68454,271,235,792000,Judge Harm,Simpson Home,Are you threatening me with that knife?
+68455,271,236,793000,Marge Simpson,Simpson Home,No!
+68456,271,237,794000,Homer Simpson,Simpson Home,"Wait. I'm to blame, Judge. You see, I was pressuring my wife to make love in front of our son... you're gonna laugh when you hear this... when suddenly..."
+68459,271,240,806000,Judge Harm,Courtroom,"Well, I thought Dad was the problem, but apparently Mom is no prize pig herself."
+68460,271,241,811000,Judge Harm,Courtroom,It's a miracle poor Bartholomew isn't robbing banks and chasing Sweet Lady H.
+68461,271,242,815000,Bart Simpson,Courtroom,I'm a latchkey kid.
+68462,271,243,817000,Lisa Simpson,Courtroom,You are not.
+68463,271,244,818000,Judge Harm,Courtroom,"Quiet, little girl."
+68464,271,245,820000,Judge Harm,Courtroom,You two need to wake up and smell the java. And the first step is to admit that you're bad parents.
+68465,271,246,826000,Homer Simpson,Courtroom,I admit it.
+68466,271,247,827000,Marge Simpson,Courtroom,"Homer, no! We're not bad parents."
+68467,271,248,829000,Judge Harm,Courtroom,"Yes, you are. Just say it."
+68468,271,249,831000,Marge Simpson,Courtroom,"No, I won't. And frankly, Judge, I think you're a bully."
+68469,271,250,835000,Judge Harm,Courtroom,"You do, huh?"
+68470,271,251,838000,Marge Simpson,Courtroom,"You're so busy thinking up crazy ways to punish people, you can't see how much I love my kids."
+68471,271,252,845000,Homer Simpson,Courtroom,"Your Honor, I'd like to be tried separately."
+68472,271,253,847000,Marge Simpson,Courtroom,"I don't mean to be disrespectful, Judge Harm, but we are not bad parents. And there isn't a tether in this world with enough fiber optics to make me say we are."
+68473,271,254,857000,Judge Harm,Courtroom,Hmmm.
+68441,271,255,861000,Marge Simpson,Courtroom,She's such a butthole.
+68477,271,259,870000,Homer Simpson,KITCHEN,Sorry.
+68478,271,260,871000,Marge Simpson,KITCHEN,"Just, just let me get--"
+68480,271,262,882000,Homer Simpson,KITCHEN,Dammit!
+68481,271,263,884000,Lisa Simpson,KITCHEN,"Oh, poor Mom and Dad."
+68483,271,265,885000,Lisa Simpson,TV ROOM,"Do you think it's fair that you're always getting into trouble, yet Mom and Dad are being punished?"
+68484,271,266,890000,Bart Simpson,TV ROOM,"No, it's terrible."
+68485,271,267,894000,Lisa Simpson,TV ROOM,"Well, why don't you do something about it?"
+68486,271,268,895000,Bart Simpson,TV ROOM,After wrestling.
+68487,271,269,897000,Announcer,TV ROOM,"Ladies and Gentlemen, I don't believe what I am seeing. Dr. Hombre just married Rumblina and they're already whaling at each other."
+68488,271,270,906000,Lisa Simpson,TV ROOM,When are you gonna start taking responsibility for your actions?
+68489,271,271,910000,Bart Simpson,TV ROOM,'Cuz I felt like it.
+68490,271,272,911000,Lisa Simpson,TV ROOM,You're not even listening!
+68491,271,273,913000,Bart Simpson,TV ROOM,"I know you are, but what am I?"
+68494,271,276,918000,Marge Simpson,Springfield,Haven't we been humiliated enough?
+68495,271,277,921000,Chief Wiggum,Springfield,Not yet. No. Today the judge wants you to bend over so people can spank you from their cars.
+68496,271,278,925000,Homer Simpson,Springfield,"Well, that explains the sign."
+68497,271,279,927000,Chief Wiggum,Springfield,"Yeah. Oo, here comes a car!"
+68498,271,280,931000,Captain Horatio McCallister,Springfield,"Arrr, ya scurvy dogs!"
+68500,271,282,933000,Comic Book Guy,Springfield,Worst parents ever.
+68502,271,284,935000,Nelson Muntz,Springfield,Haw haw.
+68504,271,286,937000,Chief Wiggum,Springfield,"Hey, no extension cords!"
+68506,271,288,941000,Homer Simpson,Simpson Home,"You know, we could get out of these stupid things if you'd just tell the judge you're a bad mother. And you don't even have to say ""bad."" It could be ""negligent"" or ""unfit"" or ""drugged-up."""
+68507,271,289,945000,Marge Simpson,Simpson Home,"I just can't do that, Homer. It's a matter of principle. And I need you to support me in this."
+68508,271,290,963000,Homer Simpson,Simpson Home,You're right. It's time to stand up to that firm-breasted judge.
+68509,271,291,967000,Marge Simpson,Simpson Home,But first we gotta break out of these stocks.
+68512,271,294,973000,Homer Simpson,Flanders Garage,Easy... easy...
+68513,271,295,975000,Marge Simpson,Flanders Garage,"I want goggles, too."
+68514,271,296,976000,Homer Simpson,Flanders Garage,"Shhh, you'll wake up Flanders..."
+68515,271,297,980000,Ned Flanders,Flanders Garage,What the...?!
+68516,271,298,980000,Marge Simpson,Flanders Garage,Ahh!!
+68517,271,299,984000,Homer Simpson,Flanders Garage,"Hey, Marge, surf's up!"
+68518,271,300,986000,Ned Flanders,Flanders Garage,You're using my table saw to violate a court order?
+68519,271,301,989000,Homer Simpson,Flanders Garage,"Well, we tried all those other tools."
+68520,271,302,995000,Ned Flanders,Flanders Garage,"Gee, I always like to help you, Homer, but I don't want to be an accessory to some sort of shady doin's. And it does raise a whole host of ethical questions, such as..."
+68521,271,303,1003000,Homer Simpson,Flanders Garage,Woo hoo!
+68524,271,306,1011000,Homer Simpson,Springfield,"Now, time for ""Operation: Judge-Get-Back-At."""
+68525,271,307,1014000,Marge Simpson,Springfield,"If that costume shop knew we were using these burglar outfits for real, they'd be furious."
+68526,271,308,1019000,Homer Simpson,Springfield,"Okay, she lives at one Ocean View Drive. Let's start skulking."
+68527,271,309,1034000,Homer Simpson,Springfield,"It's only the milkman. Hey, maybe I should be a milkman."
+68528,271,310,1040000,Marge Simpson,Springfield,"Concentrate, Homer."
+68529,271,311,1048000,Homer Simpson,Springfield,This address must be wrong.
+68530,271,312,1049000,Marge Simpson,Springfield,"No. No, there it is!"
+68531,271,313,1053000,Homer Simpson,Springfield,"She lives in a houseboat? Wow, she is so cool."
+68532,271,314,1058000,Marge Simpson,Springfield,"We hate her, Homer."
+68533,271,315,1060000,Homer Simpson,Springfield,"I know, I know. Fight the power."
+68534,271,316,1062000,Marge Simpson,Springfield,Let's do this thing.
+68535,271,317,1067000,Homer Simpson,Springfield,Cops!
+68536,271,318,1073000,Lou,Springfield,"Aw, ain't that sweet, Chief?"
+68537,271,319,1075000,Chief Wiggum,Springfield,"Sure is, Lou. Those two longshoremen found love."
+68538,271,320,1081000,Marge Simpson,Springfield,Let's go.
+68540,271,322,1093000,Homer Simpson,Houseboat,"Look at her in there, washing her body..."
+68541,271,323,1096000,Marge Simpson,Houseboat,Get away from that window!
+68542,271,324,1096000,Marge Simpson,Houseboat,And help me with this banner.
+68543,271,325,1104000,Homer Simpson,Houseboat,"I hate to call a judge dirty names, but there's only one way to describe a nasty super witch like her."
+68544,271,326,1109000,Marge Simpson,Houseboat,Let's get out of here.
+68546,271,328,1117000,Homer Simpson,Houseboat,"Oh, it's just a friendly seal."
+68548,271,330,1121000,Marge Simpson,Houseboat,"Shh. No, we can't play now."
+68550,271,332,1127000,Homer Simpson,Houseboat,Shut-uuuup...
+68552,271,334,1131000,Judge Harm,Houseboat,"What is it, Pancho? Is someone out there?"
+68554,271,336,1139000,Judge Harm,Houseboat,You can't hide from me.
+68555,271,337,1141000,Marge Simpson,Houseboat,She's gonna find us!
+68556,271,338,1142000,Homer Simpson,Houseboat,"Oh Lord, guide this cinder block..."
+68557,271,339,1145000,Marge Simpson,Houseboat,"Homer, no!"
+68558,271,340,1145000,Homer Simpson,Houseboat,Uh-oh.
+68559,271,341,1150000,Judge Harm,Houseboat,My house!
+68560,271,342,1157000,Homer Simpson,Houseboat,"Hey, how ya doin'?"
+68561,271,343,1166000,Judge Harm,Houseboat,That quilt was made by my grandmother.
+68562,271,344,1170000,Homer Simpson,Houseboat,So... it cost you nothin'.
+68563,271,345,1174000,Judge Harm,Houseboat,"Shut up. You two are not only horrible parents, you're violent criminals. And I'm gonna lock you up till frogs do fractions."
+68564,271,346,1186000,Bart Simpson,Houseboat,Your Honor! May I say something?
+68565,271,347,1188000,Judge Harm,Houseboat,"Well, it is highly unorthodox... so no."
+68566,271,348,1192000,Bart Simpson,Houseboat,"Please, your Honor?"
+68567,271,349,1194000,Judge Harm,Houseboat,"Oh, I can't resist that look. You remind me of me, when I was a little boy."
+68568,271,350,1200000,Bart Simpson,Houseboat,"Your Honor, it's not easy being my parents. I'm always screwing up in school, and getting in trouble with the law. But if I grow up to be a halfway decent person, I know it'll be because of my Mom and Dad."
+68569,271,351,1214000,Bart Simpson,Houseboat,"Everyone else might give up on me, but my parents never will."
+68570,271,352,1219000,Lisa Simpson,Houseboat,That's my brother.
+68571,271,353,1221000,Snake Jailbird,Houseboat,"Um, did she say she used to be a dude?"
+68572,271,354,1225000,Bart Simpson,Houseboat,"So, your honor, if you're going to punish anyone in this courtroom today, I ask that you punish me."
+68573,271,355,1231000,Judge Harm,Houseboat,Okay I will.
+68574,271,356,1235000,Judge Harm,Houseboat,Bartholomew Simpson I hereby sentence you to five years in Juvenile Hall.
+68576,271,358,1240000,Judge Snyder,Houseboat,"Well, I'm back from vacation."
+68577,271,359,1242000,Judge Harm,Houseboat,"But I was just about to bang my gavel, making the sentence official."
+68578,271,360,1245000,Judge Snyder,Houseboat,"Sorry, I've already put my clown down."
+68579,271,361,1249000,Judge Harm,Houseboat,But I was just going to...
+68580,271,362,1250000,Judge Snyder,Houseboat,The clown is down.
+68582,271,364,1255000,Lisa Simpson,Houseboat,"Judge Snyder? Motion to declare a writ of ""boys will be boys."""
+68583,271,365,1259000,Judge Snyder,Houseboat,Motion granted. Case dismissed.
+68584,271,366,1261000,Lisa Simpson,Houseboat,Woo hoo!
+68586,271,368,1265000,Marge Simpson,Simpson Car,"All right, we got lucky that time, but I want everyone in this family to raise your hand and promise not to break the law for one full year."
+68587,271,369,1276000,Lisa Simpson,Simpson Car,We promise.
+68588,271,370,1280000,Homer Simpson,Simpson Car,That was close.
+68589,271,371,1283000,Hans Moleman,Simpson Car,Please drive off me...
+68591,271,373,1286000,Marge Simpson,Simpson Car,What's that noise?
+68592,271,374,1288000,Homer Simpson,Simpson Car,"Just the radio, dear."

@@ -1,0 +1,244 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+53651,224,1,101000,Male Host,Simpson Home,"And welcome back now to ""Cash in Your Legacy."" This week we're appraising antiques in Springfield."
+53652,224,2,107000,Appraiser,Simpson Home,"This gentleman's beer tap dates back to the turn of the century, and remarkably, seems to have never been washed."
+53653,224,3,113000,Moe Szyslak,Simpson Home,"Yeah, yeah, I been meanin' to wash that, but, uh, you know, it's been such a century..."
+53654,224,4,117000,Appraiser,Simpson Home,"At auction, I'd expect this to bring twenty to thirty thousand dollars..."
+53655,224,5,121000,Appraiser,Simpson Home,"Except that on the handle somebody's carved ""HOMER ROCKS."""
+53657,224,7,121000,Homer Simpson,Simpson Living Room,And I do! Woo!
+53658,224,8,127000,Appraiser,Simpson Living Room,Appraised value: fifteen dollars.
+53659,224,9,129000,Moe Szyslak,Simpson Living Room,I'm gonna kill him! I'm gonna kill him! Hey... Aw geez.
+53660,224,10,134000,Marge Simpson,Simpson Living Room,I don't know how you can all just lay around the house on a nice day like this. When was the last time we went for a good old-fashioned family walk?
+53661,224,11,142000,Homer Simpson,Simpson Living Room,"Oh, we stopped those when the kids said I was too fat to carry."
+53662,224,12,146000,Marge Simpson,Simpson Living Room,"Oh, come on, let's go for a walk! This family's getting so lazy."
+53663,224,13,151000,Bart Simpson,Simpson Living Room,"I'm not lazy, I'm just um, uhh... Lisa, finish my sentence for me."
+53664,224,14,158000,Lisa Simpson,Simpson Living Room,Why don't you finish your own darn...
+53665,224,15,162000,Marge Simpson,Simpson Living Room,"Fine. If we're not going for a walk, we'll just talk about our day. I wrote another poem about a duck."
+53667,224,17,169000,Homer Simpson,Evergreen Terrace,Can't we go home yet? My feet hurt. All this fresh air is making my hair move. And I don't know how much longer I can complain.
+53668,224,18,180000,Barney Gumble,Evergreen Terrace,Get a horse!
+53669,224,19,182000,Homer Simpson,Evergreen Terrace,"Could we, Marge? Could we get a horse?"
+53670,224,20,184000,Marge Simpson,Evergreen Terrace,"We're walking, Homer."
+53671,224,21,185000,Homer Simpson,Evergreen Terrace,There are some dogs. We could all ride dogs.
+53672,224,22,188000,Marge Simpson,Evergreen Terrace,Forget it. Nobody's riding any...
+53673,224,23,189000,Bart Simpson,Evergreen Terrace,"Hi-yo Silver, away!"
+53675,224,25,195000,Marge Simpson,Street,"Oh, look! There's the store where I buy my yarn. But you don't want to buy your buttons there."
+53676,224,26,202000,Homer Simpson,Street,"Pew, well, I dodged a bullet."
+53677,224,27,203000,Marge Simpson,Street,Now there's the place you want to buy your buttons.
+53679,224,28,207000,Marge Simpson,Street,And that's where the bookmobile lady used to live!
+53680,224,29,210000,Bart Simpson,Street,"If you love me, you'll kill me."
+53681,224,30,212000,Lisa Simpson,Street,"Hey, Mom, look!"
+53682,224,31,214000,Marge Simpson,Street,"Ooo, looks like something exciting's happening. Well, we'll have to read about it in tomorrow's paper."
+53683,224,32,220000,Lisa Simpson,Street,Why can't we see it now?
+53684,224,33,221000,Marge Simpson,Street,"Well, it's not really on our walking route..."
+53687,224,36,230000,Marge Simpson,Store,Where'd you get that champagne?
+53688,224,37,232000,Homer Simpson,Store,Clown.
+53689,224,38,235000,Homer Simpson,Store,"Thanks, Noodles."
+53690,224,39,236000,Marge Simpson,Store,All this commotion just for a store?
+53691,224,40,239000,Homer Simpson,Store,"Hey, it's not just a store. It's a ""mega"" store. ""Mega"" means ""good."" And ""store"" means ""thing."""
+53693,224,42,242000,Homer Simpson,Megastore,"Wow, what a high-tech wonderland. Oop, got an itch."
+53694,224,43,261000,Everyone In Store,Megastore,Ew!
+53695,224,44,262000,Bart Simpson,Megastore,Whoa! This place has everything! Even a shoplifting department.
+53696,224,45,267000,Jimbo Jones,Megastore,What convenience!
+53697,224,46,269000,Nelson Muntz,Megastore,I'm doing all my thieving here!
+53698,224,47,271000,Marge Simpson,Megastore,This is so much nicer than the Kwik-E-Mart.
+53699,224,48,275000,Apu Nahasapeemapetilon,Megastore,Oh.
+53700,224,49,277000,Marge Simpson,Megastore,"Oh, I'm sorry, but... oh, it really is."
+53701,224,50,280000,Apu Nahasapeemapetilon,Megastore,"Yes, I know, but... still."
+53702,224,51,285000,Bart Simpson,Megastore,"Hey, Dad, gimme fifty bucks. I gotta buy some things. Uh, better make it a hundred."
+53704,224,53,289000,Lisa Simpson,Megastore,"Yeah, me too."
+53706,224,55,290000,Marge Simpson,Megastore,Homer! Don't you think you're spoiling...
+53708,224,57,297000,Otto Mann,Megastore,"New music? Man, all these bands are just rippin' off Judas Priest!"
+53709,224,58,305000,Lisa Simpson,Megastore,"Ooh, I hear this really sucks. Hm, ""Director's Commentary""."
+53710,224,59,307000,Kevin Costner,Megastore,"I'm sorry. I am really sorry. I don't know what I was thinking. But, uh, ""Field of Dreams"" was good, wasn't it? Made us all believe again..."
+53711,224,60,318000,Lisa Simpson,Megastore,"Ohh, poor Mr. Costner. He tries so hard."
+53712,224,61,322000,Kevin Costner,Megastore,"Aw, thanks. You're sweet to say that."
+53713,224,62,324000,Lisa Simpson,Megastore,Uh... Where are you?
+53650,224,63,327000,Kevin Costner,Megastore,I'm back here.
+53714,224,64,329000,Kevin Costner,Megastore,Hi. W-Will you bring me a sandwich? Please? No-no crust.
+53716,224,66,344000,Bart Simpson,Supermegastore,Cool!
+53719,224,69,348000,C. Montgomery Burns,Burns's Car,"Step lively, Smithers. That orphanage won't demolish itself!"
+53720,224,70,353000,Waylon Smithers,Burns's Car,"Sir, ah, although I do enjoy your loud, excessive honking, it doesn't seem to be moving the crowd."
+53721,224,71,358000,C. Montgomery Burns,Burns's Car,Deploy the cow catcher.
+53723,224,73,368000,Comic Book Guy,Burns's Car,Once again my underwear has become tangled on a cow catcher. Ooo.
+53724,224,74,372000,C. Montgomery Burns,Burns's Car,"Oh, tarnation! I've got to see what the excitement's about. Make way! Doctor coming through."
+53726,224,76,379000,C. Montgomery Burns,Burns's Car,Excuse me.
+53728,224,78,380000,C. Montgomery Burns,Burns's Car,So sorry.
+53730,224,80,382000,C. Montgomery Burns,Burns's Car,"Pardon me, good sir."
+53731,224,81,382000,Ned Flanders,Burns's Car,"Well, hi-diddly..."
+53732,224,82,384000,C. Montgomery Burns,Burns's Car,That's a good lad.
+53734,224,84,388000,C. Montgomery Burns,Megastore,Books and cocoa in the same store? What's next? A talking banana?
+53735,224,85,390000,C. Montgomery Burns,Megastore,Hm?
+53736,224,86,394000,Waylon Smithers,Megastore,"Uh, I don't see one, sir."
+53737,224,87,396000,C. Montgomery Burns,Megastore,"No, of course not. The very notion of a talking banana is absurd! Still."
+53738,224,88,408000,Mayor Joe Quimby,Megastore,"Attention, good shoppers of Springfield. Someone very special has just entered the store. The world's most popular billionaire..."
+53739,224,89,417000,C. Montgomery Burns,Megastore,"Ohhh, please. All this fuss for little ol' me?"
+53740,224,90,421000,Mayor Joe Quimby,Megastore,"Please welcome the owner of Fortune Megastores, Arthur Fortune!"
+53741,224,91,426000,C. Montgomery Burns,Megastore,Whaaa?!!
+53742,224,92,431000,Arthur Fortune,Megastore,"Hello, Springfield!"
+53743,224,93,433000,Crowd,Megastore,"Hello, Arthur!"
+53744,224,94,436000,Arthur Fortune,Megastore,"You know, I've done a lot of exciting things in my life."
+53745,224,95,439000,Arthur Fortune,Megastore,I went down Mt. Everest on a boogie board...
+53747,224,97,443000,Arthur Fortune,Megastore,Climbed Niagara Falls...
+53750,224,99,446000,Arthur Fortune,Megastore,"And, just last month, I knocked out Muhammad Ali."
+53751,224,100,453000,Marge Simpson,Megastore,"Oh, how awful."
+53752,224,101,454000,Arthur Fortune,Megastore,But this is the biggest thrill ever -- the opening of my one hundred and twelfth store.
+53753,224,102,461000,Arthur Fortune,Megastore,Now I'm afraid I've got some bad news from my accountant today. It seems I have too much money. Who wants a dollar?
+53754,224,103,469000,Crowd,Megastore,I do! I do! / Right here!
+53755,224,104,471000,Homer Simpson,Megastore,I DO!
+53756,224,105,472000,Arthur Fortune,Megastore,"Ha! All right. What's your name, young man?"
+53757,224,106,475000,Homer Simpson,Megastore,I don't know. Just give me the dollar.
+53758,224,107,477000,Arthur Fortune,Megastore,"Well, I hope this starts you on your way to a great fortune. Now, who wants the second dollar?"
+53759,224,108,482000,Homer Simpson,Megastore,I do!
+53760,224,109,483000,Arthur Fortune,Megastore,Uh... well... all right. Here.
+53761,224,110,484000,Arthur Fortune,Megastore,Now...
+53762,224,111,484000,Homer Simpson,Megastore,I do.
+53763,224,112,485000,Arthur Fortune,Megastore,"Oh, the heck with it. Dollars for everyone!"
+53764,224,113,490000,Crowd,Megastore,For-tune! For-tune! For-tune! For-tune! For-tune! For-tune!
+53765,224,114,497000,C. Montgomery Burns,Megastore,That man's totally insane!
+53766,224,115,499000,Ned Flanders,Megastore,"Well, this goes right into the old poor box."
+53767,224,116,502000,C. Montgomery Burns,Megastore,"Not so fast, old chum."
+53769,224,118,507000,Conga Line,Megastore,We love Arthur Fortune / He gave us a dollar / We love Arthur Fortune / He gave us a dollar...
+53770,224,119,512000,C. Montgomery Burns,Megastore,That flamboyant fop! He's got them eating out of his hand.
+53771,224,120,515000,Waylon Smithers,Megastore,"Well, you have to admit, he is charismatic, sir."
+53772,224,121,517000,C. Montgomery Burns,Megastore,"Oh, bosh. Anyone can lead a conga line. Hop to it, Smithers. Con-ga, con-ga, con-ga!"
+53773,224,122,523000,C. Montgomery Burns,Megastore,We love Monty Burns more. / Con-ga like you mean it. / Please don't make me shock you...
+53774,224,123,530000,Kent Brockman,Megastore,Springfield is still swooning from the whirlwind visit of playful plutocrat Arthur Fortune.
+53776,224,125,536000,C. Montgomery Burns,Burns Manor,The man has no idea how to behave like a billionaire. Where's the dignity? Where's the contempt for the common man?
+53777,224,126,544000,Kent Brockman,Burns Manor,"This new breed of fun-loving billionaire is a welcome change from the classic joyless miser, brooding in his cavernous mansion..."
+53778,224,127,552000,C. Montgomery Burns,Burns Manor,Bah!
+53779,224,128,556000,Kent Brockman,Burns Manor,"...grasping a glass of brandy with his thin, claw-like fingers...and a superior smirk on his greedy, soulless face."
+53780,224,129,565000,C. Montgomery Burns,Burns Manor,"I thought I had everything. Money, good looks, strong sharp teeth... But what's it all worth when nobody likes you?"
+53781,224,130,576000,Waylon Smithers,Burns Manor,"I like you, sir."
+53782,224,131,577000,C. Montgomery Burns,Burns Manor,Are you still here?
+53784,224,133,582000,Homer Simpson,Springfield Nuclear Power Plant,Easy... easyyy...
+53785,224,134,589000,Homer Simpson,Springfield Nuclear Power Plant,"Woo hoo! Look at me, I can juggle!"
+53786,224,135,591000,C. Montgomery Burns,Springfield Nuclear Power Plant,Mm... Simpson!
+53788,224,137,594000,C. Montgomery Burns,Springfield Nuclear Power Plant,I need your help. I want to be loved.
+53789,224,138,597000,Homer Simpson,Springfield Nuclear Power Plant,"I see. Well, I'll need some beer."
+53790,224,139,602000,C. Montgomery Burns,Springfield Nuclear Power Plant,I want you to look at me the way I saw you look at Arthur Fortune.
+53791,224,140,606000,Homer Simpson,Springfield Nuclear Power Plant,"Oh, Arthur Fortune!"
+53792,224,141,610000,C. Montgomery Burns,Springfield Nuclear Power Plant,Yes! That's the look I'm looking for. What would make you and your slovenly kind look at me that way?
+53793,224,142,616000,Homer Simpson,Springfield Nuclear Power Plant,"Well, you don't have to call me slovenly."
+53794,224,143,618000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Yes, exactly. That's the kind of pointer I need."
+53795,224,144,621000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Tell me more, fatty."
+53797,224,146,625000,C. Montgomery Burns,Roof Of Building In Downtown Springfield,"Ah-ha! This is a great idea, Simpson. Free silver dollars! Compliments of C. Montgomery Burns!"
+53799,224,148,637000,PEDESTRIANS,Base Of Building,Stop it!
+53800,224,149,637000,Lenny Leonard,Base Of Building,Ow! Ow! Take it out! Take it out!
+53801,224,150,641000,Lenny Leonard,Base Of Building,Oh! Ooh! Put it back! Put it back!
+53802,224,151,644000,Lenny Leonard,Base Of Building,That was a close one. Wanna go bowling?
+53803,224,152,647000,Carl Carlson,Base Of Building,Maybe you should see a doctor about that coin in your brain.
+53804,224,153,650000,Lenny Leonard,Base Of Building,Maybe you should mind your own business.
+53805,224,154,652000,Lenny Leonard,Base Of Building,"Afternoon, Miss."
+53808,224,157,656000,C. Montgomery Burns,Springfield Nuclear Power Plant,"I can't believe it. I'm still not among the hundred most popular billionaires. I'm behind Adam Sandler, for God's sake!"
+53810,224,158,664000,Homer Simpson,Springfield Nuclear Power Plant,"Well, how 'bout donating money to charity? Lots of crazy old coots do that."
+53811,224,159,669000,C. Montgomery Burns,Springfield Nuclear Power Plant,"A charitable donation, eh? Well, there's a first time for everything."
+53812,224,160,676000,C. Montgomery Burns,Springfield Nuclear Power Plant,Take this check for two hundred thousand dollars to the Springfield Hospital.
+53813,224,161,681000,Homer Simpson,Springfield Nuclear Power Plant,Can do.
+53814,224,162,689000,C. Montgomery Burns,Springfield Nuclear Power Plant,Now there's nothing to do now but sit back and wait for the kudos to roll in.
+53817,224,165,706000,C. Montgomery Burns,Springfield General Hospital,Where are my kudos?
+53818,224,166,709000,Receptionist,Springfield General Hospital,"Mm... No, we don't have any record of you giving the hospital any money, Mr. Burns. Oh, but we did get a very generous donation from a Mr. Homer Simpson."
+53819,224,167,718000,C. Montgomery Burns,Springfield General Hospital,What?!
+53820,224,168,725000,C. Montgomery Burns,Springfield General Hospital,It's not fair! It's not fair!
+53821,224,169,729000,C. Montgomery Burns,Springfield General Hospital,"Morphine, please."
+53823,224,171,731000,Homer Simpson,Simpson Home,"Wait a minute... because I brought the check, they named a wing after me? Oh, you must be mad."
+53824,224,172,741000,C. Montgomery Burns,Simpson Home,"Well, I will be when the morphine wears off, but until then, Teedily deedily dee dee. Teedily dee dee dee. Woo hoo hoo. Hee hee hee."
+53825,224,173,749000,Homer Simpson,Simpson Home,"Gee, I feel bad. If people knew the real Monty Burns, and not the silver-dollar-throwing morphine addict you've become, they might like you."
+53826,224,174,757000,Lisa Simpson,Simpson Home,"Yeah, if you want to change your image, you've got to get your face out there..."
+53827,224,175,760000,Lisa Simpson,Simpson Home,Oh! ... on the radio.
+53828,224,176,763000,C. Montgomery Burns,Simpson Home,"That's it, the radio! I'll go on the most popular program of the day. I assume that's still Don MacNeil and his Breakfast Club."
+53829,224,177,771000,Bart Simpson,Simpson Home,"Oh, get with the times, man. It's Jerry Rude and the Bathroom Bunch."
+53830,224,178,775000,Marge Simpson,Simpson Home,"Oh, I don't think Mr. Burns would like that show."
+53831,224,179,778000,C. Montgomery Burns,Simpson Home,What's the matter? Think I'm not hip? I don't have enough vo-dee-oh-doh?
+53833,224,181,787000,Jerry Rude,Radio Station,"Thank you, Knick-Knack and Paddy-Whack, the Siamese midgets. We'll be sure to catch your new series on Fox."
+53835,224,182,792000,Homer Simpson,Radio Station,"Good luck, Mr. Burns. And if you get in trouble, I wrote some jokes about how white people are different from black people."
+53837,224,184,799000,Jerry Rude,Radio Station,"How you doing, Mr. Burns? Jerry Rude. Welcome to the show."
+53838,224,185,803000,C. Montgomery Burns,Radio Station,I'm pleased to...
+53839,224,186,804000,Jerry Rude,Radio Station,"All right, let's get this geezer out quick so we can bring in the lesbian gladiators."
+53840,224,187,808000,Homer Simpson,Radio Station,"You see white people have names like ""Lenny,"" whereas, black people have names like ""Carl."""
+53842,224,189,816000,C. Montgomery Burns,Radio Station,"Now, Mr. Rude, I just want you to know I'm a good sport. If you want to make fun of my legendary love of cashews, you have at it."
+53843,224,190,825000,Jerry Rude,Radio Station,Uh-huh. All right. How many times a day do you go to the can?
+53844,224,191,828000,C. Montgomery Burns,Radio Station,"Oh, about forty, I suppose. When are we going on the air?"
+53845,224,192,831000,Jerry Rude,Radio Station,"We're on the air now, Skeletor."
+53846,224,193,832000,C. Montgomery Burns,Radio Station,What!?
+53847,224,194,834000,Jerry Rude,Radio Station,Question Two: How long is your wiener? Seriously.
+53848,224,195,836000,C. Montgomery Burns,Radio Station,Great heavens! What kind of radiola show is this?
+53849,224,196,839000,Jerry Rude,Radio Station,How 'bout this? When was your first gay experience?
+53850,224,197,842000,C. Montgomery Burns,Radio Station,"Oh, well, when I was six, my father took me on a picnic. That was a gay old time. Oh-ho, I ate my share of wieners that day."
+53851,224,198,851000,Jerry Rude,Radio Station,"Oh, that sounds lovely. Queer. Queer. Umm... ever murder anybody?"
+53852,224,199,856000,C. Montgomery Burns,Radio Station,"Murder?! Well, mistakes have been made..."
+53853,224,200,860000,Jerry Rude,Radio Station,"Monty, I've heard you're a pretty flatulent guy. Any comment on that?"
+53854,224,201,863000,C. Montgomery Burns,Radio Station,"Now, now, see here..."
+53855,224,202,865000,C. Montgomery Burns,Radio Station,Stop that! Attention wireless listeners! Most of the sounds you are now hearing are not being made by me.
+53856,224,203,870000,C. Montgomery Burns,Radio Station,"Oh, stop! Stop! Won't someone please stop the farting?"
+53857,224,204,876000,Jerry Rude,Radio Station,"Don't worry, folks. He's not dead. I still hear some faint sounds of life."
+53859,224,206,883000,C. Montgomery Burns,Homer's Car,"That didn't go well, did it?"
+53860,224,207,885000,Homer Simpson,Homer's Car,Good thing those lesbians knew CPR.
+53862,224,208,887000,C. Montgomery Burns,Homer's Car,"Oh... What's the use? I'll never be a popular, beloved billionaire like Arthur Fortune."
+53863,224,209,892000,Homer Simpson,Homer's Car,"Ooo, Arthur Fortune. You know what that fabulous man just did? He gave the Springfield zoo two male Pandas, and got them to mate successfully."
+53864,224,210,906000,C. Montgomery Burns,Homer's Car,And a stunt like that impresses people?
+53865,224,211,908000,Homer Simpson,Homer's Car,"Oh, yeah! And I'm not easily impressed. Wow! A blue car!"
+53866,224,212,914000,C. Montgomery Burns,Homer's Car,"Well, if a couple of Chinese bamboo gobblers can win people's hearts, I'm gonna bring them something that man has searched for since the dawn of time."
+53867,224,213,923000,Homer Simpson,Homer's Car,A sober Irishman?
+53868,224,214,924000,C. Montgomery Burns,Homer's Car,Even rarer.
+53870,224,216,932000,Homer Simpson,Scotland,"Whew, that was one long helicopter ride."
+53872,224,218,944000,Homer Simpson,Loch Ness,"Do you really think you can capture the Loch Ness Monster? I mean, he's eluded Leonard Nimoy and Peter Graves."
+53873,224,219,951000,C. Montgomery Burns,Loch Ness,Peter Graves couldn't find ugly at a Radcliffe mixer!
+53874,224,220,955000,Professor Jonathan Frink,Loch Ness,"Hey, hey. Let's see now... we have the Monster-ometer, Flipper-Finder, Hoaxiscope... which is important for the looking and the finding."
+53875,224,221,962000,Groundskeeper Willie,Loch Ness,Ach. The whole town's turned out. I've never seen them so excited.
+53876,224,222,969000,Homer Simpson,Loch Ness,"Hey, Willie. That old couple looks just like you."
+53877,224,223,972000,Groundskeeper Willie,Loch Ness,"Aye, 'tis my ma and pa. They own a tavern hereabouts. They still have the same pool table on which I was conceived, born, and educated."
+53878,224,224,983000,Mother,Loch Ness,"So you're back, son."
+53879,224,225,984000,Groundskeeper Willie,Loch Ness,Aye.
+53880,224,226,985000,Father,Loch Ness,I suppose you'll be leaving soon?
+53881,224,227,988000,Groundskeeper Willie,Loch Ness,Aye.
+53882,224,228,993000,Homer Simpson,Loch Ness,Good. Good. One more.
+53883,224,229,997000,C. Montgomery Burns,Loch Ness,"Where's my monster, Tubby? What do you people think I'm paying you for?"
+53884,224,230,1001000,Homer Simpson,Loch Ness,"Uh, to work in your power plant?"
+53885,224,231,1003000,Groundskeeper Willie,Loch Ness,You're not paying me anything.
+53886,224,232,1004000,Professor Jonathan Frink,Loch Ness,"You kidnapped me. I remember it distinctly, with the grabbing and the duct taping and the tennis ball in the mouth... it hurt me."
+53887,224,233,1010000,C. Montgomery Burns,Loch Ness,"The beast looks something like this, only without the saucy t-shirt."
+53888,224,234,1016000,Homer Simpson,Loch Ness,Check.
+53889,224,235,1027000,Groundskeeper Willie,Loch Ness,He's been down in that icy water for hours! How can the lad survive such brutal punishment?
+53891,224,237,1043000,Homer Simpson,Pub,Tilt? You monster!
+53893,224,239,1049000,Professor Jonathan Frink,Loch Ness,"Oh my, great good God. Gentlemen, your attention please. I am detecting a gigantic amphibious lifeform! It's 80 meters long and it's headed this way! Oh, good glayvin! It's on my shoe! It's, ah... a small frog. Just get off of there. Just get off! Get off! Get off!"
+53894,224,240,1066000,Professor Jonathan Frink,Loch Ness,"Stupid machine. Oh, wait a minute. This isn't the monster-ometer -- it's the frog exaggerator."
+53895,224,241,1072000,C. Montgomery Burns,Loch Ness,We're the laughingstock of the town.
+53896,224,242,1076000,Homer Simpson,Loch Ness,"Don't worry, Mr. Burns. We're gonna find that monster, no matter how long it takes. Besides, I'm getting kind of used to wearing a kilt!"
+53897,224,243,1083000,Homer Simpson,Loch Ness,Can you believe I'm a size four? Woo!
+53898,224,244,1088000,C. Montgomery Burns,Loch Ness,"Oh, it's pointless hunting for an animal that has 24 miles of water to hide in. Drain the lake."
+53899,224,245,1094000,Groundskeeper Willie,Loch Ness,Whut?!
+53900,224,246,1096000,C. Montgomery Burns,Loch Ness,You heard me. Deploy the de-lochinator.
+53904,224,250,1100000,Professor Jonathan Frink,Loch Ness,Pumping is hard. Glayvin.
+53905,224,251,1118000,Local,Loch Ness,We've lost our homes and everything we hold dear.
+53906,224,252,1120000,3rd Local,Loch Ness,Aye.
+53907,224,253,1124000,C. Montgomery Burns,Loch Ness,I see it! I see the monster!
+53908,224,254,1128000,Groundskeeper Willie,Loch Ness,Nay. 'Tis merely Loch Ness High School's discarded Homecoming float.
+53909,224,255,1135000,Homer Simpson,Loch Ness,No way! Aberdeen rules!
+53912,224,258,1148000,Homer Simpson,Loch Ness,God! It's him!
+53913,224,259,1149000,C. Montgomery Burns,Loch Ness,"C'mon, boys, overpower it!"
+53915,224,261,1152000,C. Montgomery Burns,Loch Ness,Fine. I'll do it myself.
+53916,224,262,1159000,Groundskeeper Willie,Loch Ness,"That was amazing, Mr. Burns."
+53917,224,263,1162000,C. Montgomery Burns,Loch Ness,"I was a little worried when he swallowed me, but... well, you know the rest. And now for my triumphant return to Springfield."
+53920,224,265,1177000,Kent Brockman,Springfield Harbor,"Monster fever has gripped Springfield by the throat and it's all thanks to one man. Montgomery Burns has captured not only a legendary monster, but also our hearts. And by the way, girls, he's single."
+53921,224,266,1189000,Selma Bouvier,Springfield Harbor,"Single? Well, he passes the Selma test."
+53922,224,267,1195000,C. Montgomery Burns,Springfield Harbor,"Thank you, thank you everyone. And now, presenting the ninth wonder of the world, the eighth being Gomer Pyle's heavenly singing voice... I give you! -- the Loch Ness Monster!"
+53923,224,268,1211000,Crowd,Springfield Harbor,"Oh, my God!"
+53924,224,269,1211000,C. Montgomery Burns,Springfield Harbor,"Thank you, you're too kind. Yes, that's it, let it all out. Clutch me to your common bosom."
+53925,224,270,1218000,Milhouse Van Houten,Springfield Harbor,"Hey, look. He's getting up!"
+53926,224,271,1225000,Crowd,Springfield Harbor,"/ Oh, my God!"
+53927,224,272,1225000,C. Montgomery Burns,Springfield Harbor,"No, no! Stop it! Stop it! You'll enrage the beast!"
+53929,224,274,1229000,C. Montgomery Burns,Springfield Harbor,No more pictures! You're driving him mad!
+53931,224,276,1238000,C. Montgomery Burns,Springfield Harbor,"Ahhh!! Stop it! You're blinding me! No, I can't see!"
+53932,224,277,1246000,Marge Simpson,Springfield Harbor,Run!
+53933,224,278,1248000,Man,Springfield Harbor,Mr. Burns will kill us all!
+53934,224,279,1252000,C. Montgomery Burns,Springfield Harbor,Wait! Don't go!
+53935,224,280,1254000,C. Montgomery Burns,Springfield Harbor,LOVE MEEEE!
+53937,224,282,1259000,Homer Simpson,Harbor,"Well, if you wanted people to love you, you sure blew it with that insane rampage."
+53938,224,283,1264000,Homer Simpson,Harbor,"But you know what? To be loved you have to be nice to people. Every day! But, to be hated, you don't have to do squat."
+53939,224,284,1273000,C. Montgomery Burns,Harbor,"You know, perhaps you're right. I got so swept up with the notion of being liked, I completely forgot who I am. I'm a selfish old crank and that fits me like a Speedo."
+53941,224,286,1288000,Homer Simpson,Harbor,"So what do we do with our friend here? Uh, throw him in the dumpster?"
+53942,224,287,1292000,C. Montgomery Burns,Harbor,"No, no, no, I really want to give the lovable scamp a good home."
+53945,224,290,1304000,C. Montgomery Burns,Las Vegas Casino,"Tough luck, Simpson."
+53946,224,291,1305000,Homer Simpson,Las Vegas Casino,"Come on, Nessie. One more pull."
+53948,224,293,1309000,Homer Simpson,Las Vegas Casino,"Okay, okay... You want a shrimp cocktail?"
+53749,224,295,1313000,Homer Simpson,Las Vegas Casino,"Yeah, they're not great."
+53834,224,296,1366000,Lisa Simpson,Las Vegas Casino,"Oh, I think this really sucks."

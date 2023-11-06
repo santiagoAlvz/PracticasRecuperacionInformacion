@@ -1,0 +1,291 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+48780,208,1,25000,Homie Bear,Forest,"Heyyy, Bart Bart, looks like a beautiful day to swipe some pic-i-nic baskets."
+48781,208,2,92000,BART BART,Forest,"But, Homie, Ranger Ned's not gonna like that."
+48782,208,3,94000,Homie Bear,Forest,"I'llll handle Ranger Ned. After all, I'm smarter than the a-ver-age bear."
+48783,208,4,100000,Ranger Ned,Forest,"Wellll, hello there Ho-diddily-omie. Well, I'm afraid I'm gonna have to ask you to hand over that pic..."
+48785,208,7,107000,BART BART,Forest,"Gee, Homie, it's not very nice to maul Ranger Ned."
+48786,208,8,111000,Homie Bear,Forest,You want some of this?!
+48788,208,10,117000,Lisa Simpson,Simpson Home,Dad! Wake up! Wake up! Wake up!
+48789,208,11,119000,Homer Simpson,Simpson Home,"Oh, I was having the most wonderful dream. I had a hat, and a tie with no pants on."
+48790,208,12,126000,Lisa Simpson,Simpson Home,"Yeah, yeah. Anyway, you promised to take us to the lake."
+48791,208,13,129000,Homer Simpson,Simpson Home,I promise you kids lots of things. That's what makes me such a good father.
+48792,208,14,132000,Lisa Simpson,Simpson Home,"Actually, keeping promises would make you a good father."
+48793,208,15,134000,Homer Simpson,Simpson Home,"No, that would make me a great father."
+48794,208,16,136000,Bart Simpson,Simpson Home,So are we going to the lake or what?
+48795,208,17,137000,Marge Simpson,Simpson Home,"Yes, we'll go to the darn lake! Now go back to bed. It's four A.M.!"
+48796,208,18,144000,Homer Simpson,Simpson Home,"Aw, four A.M. Now I'll never get back to..."
+48797,208,19,148000,Homer Simpson,Simpson Home,"""Magilla Gorilla, gorilla for sale..."" Hey, you shouldn'ta oughta taken my banana, Mr. Peebles."
+48799,208,21,163000,Marge Simpson,Springfield,"Well, it looks like the lake is the place to be, huh?"
+48800,208,22,165000,Bart Simpson,Springfield,"Well, if we'd left at four A.M. like I wanted to..."
+48801,208,23,169000,Lisa Simpson,Springfield,"Dad, you really should be watching the road."
+48802,208,24,171000,Lenny Leonard,Springfield,"Hey, Homer, enough traffic for ya?"
+48803,208,25,173000,Marge Simpson,Springfield,"Homer, your spine!"
+48804,208,26,177000,Homer Simpson,Springfield,"Screw this. Hang on, everyone. We're takin' the ol' Simpson shortcut."
+48805,208,27,182000,Bart Simpson,Springfield,Whooa!
+48806,208,28,182000,Homer Simpson,Springfield,"So long, suckers!"
+48808,208,30,187000,Homer Simpson,GRASSY AREA,"Eat my dust, suckers!"
+48809,208,31,189000,Marge Simpson,GRASSY AREA,Stop calling everyone suckers!
+48810,208,32,192000,Homer Simpson,GRASSY AREA,"Mmmm. Ugh, pesticides! Carbomate, if I'm not mistaken. Yep, Carbomate."
+48811,208,33,204000,Marge Simpson,GRASSY AREA,Tree!
+48812,208,34,204000,Homer Simpson,GRASSY AREA,I see it.
+48814,208,36,207000,Marge Simpson,CORN FIELD,This is such a secluded area. I wonder who lives in that house?
+48815,208,37,213000,Homer Simpson,CORN FIELD,"Well, way out in the sticks like this, it could only be hillbillies."
+48816,208,38,217000,Bart Simpson,CORN FIELD,"So, I suppose that's a hillbilly Jacuzzi?"
+48818,208,39,219000,Homer Simpson,CORN FIELD,"Yep. That's where they cook up their ""vittles."""
+48820,208,41,230000,Ned Flanders,Lake Springfield,"Hey, here come the Simpsons. N-Now be careful, Homer. There's a fella in the sand right in front of ya..."
+48821,208,42,239000,Homer Simpson,Lake Springfield,"Okay, remember where we parked."
+48822,208,43,241000,Ned Flanders,Lake Springfield,"Homer, is that my muffler?"
+48823,208,44,243000,Clerk,Lake Springfield,There you go. And I assume you've read the boat safety manual.
+48824,208,45,247000,Homer Simpson,Lake Springfield,"Oh yeah, couldn't put it down."
+48825,208,46,248000,Homer Simpson,Lake Springfield,"C'mon boy, let's get me a six-pack."
+48826,208,47,250000,Clerk,Lake Springfield,"Uh sir, you can't operate a boat under the influence of alcohol."
+48827,208,48,254000,Homer Simpson,Lake Springfield,"Ohhh, that sounds like a wager to me."
+48828,208,49,256000,Homer Simpson,Lake Springfield,Life jackets?
+48829,208,50,257000,Bart Simpson,Lake Springfield,Check.
+48830,208,51,259000,Homer Simpson,Lake Springfield,Tow rope?
+48831,208,52,259000,Marge Simpson,Lake Springfield,Secure.
+48832,208,53,260000,Homer Simpson,Lake Springfield,Skier?
+48833,208,54,261000,Lisa Simpson,Lake Springfield,Ready.
+48834,208,55,262000,Homer Simpson,Lake Springfield,Here we go!
+48835,208,56,263000,Bart Simpson,Lake Springfield,She's down.
+48836,208,57,266000,Homer Simpson,Lake Springfield,"Ooh, look at it go."
+48837,208,58,268000,Marge Simpson,Lake Springfield,"Stay there, honey. We'll come back for you."
+48838,208,59,280000,Marge Simpson,Lake Springfield,How's he doing?
+48839,208,60,280000,Bart Simpson,Lake Springfield,I don't know... I think Dad might be a little heavy for parasailing.
+48840,208,61,285000,Homer Simpson,Lake Springfield,"Faster, Marge! Faster! The snapping turtles are massing!"
+48841,208,62,288000,Homer Simpson,Lake Springfield,"Heads up. Comin' through. Look out! Hey, volley ball. Can I play later? Hi, Apu."
+48842,208,63,295000,Apu Nahasapeemapetilon,Lake Springfield,"Oh, dear. You've ruined my work! You flying fat man!"
+48845,208,66,306000,Lisa Simpson,Lake Springfield,"Step on it, Mom. Dad's signaling that he wants to go higher."
+48846,208,67,310000,Homer Simpson,Lake Springfield,Higher!
+48847,208,68,313000,Homer Simpson,Lake Springfield,"Bye-bye, fishies! Higher! Higherrr!"
+48848,208,69,318000,Homer Simpson,Lake Springfield,"I'm soaring! Soaring majestically like a candy wrapper caught in an updraft! Higher, Marge! Higher!"
+48849,208,70,325000,Marge Simpson,Lake Springfield,It won't go any --
+48850,208,71,326000,Homer Simpson,Lake Springfield,"Higher, I say! I want to soar higher than any man has ever soared! I want to look down on the clouds with contempt! I want to sneer at God's creation and spit on his -- uh-oh."
+48817,208,72,340000,Homer Simpson,Lake Springfield,Lower! Lower!
+48851,208,73,343000,Bart Simpson,Lake Springfield,There goes my turn.
+48852,208,74,347000,Homer Simpson,Lake Springfield,"Oh, this is not good."
+48853,208,75,351000,Homer Simpson,Lake Springfield,"Aw, nuts."
+48855,208,77,359000,Homer Simpson,House,"What? Oh, already?"
+48856,208,78,364000,Kim Basinger,House,What the hell?!
+48857,208,79,365000,Homer Simpson,House,"Sorry, lady. I know you. You're Kim Basinger"
+48858,208,80,369000,Kim Basinger,House,It's Basinger.
+48859,208,81,370000,Homer Simpson,House,"Ohhh my God, I am such a huge, huge fan of yours, Miss Basinger."
+48860,208,82,373000,Kim Basinger,House,"Thanks. Listen, you think you could slide over a little?"
+48861,208,83,377000,Homer Simpson,House,"Well, I am a married man..."
+48862,208,84,379000,Kim Basinger,House,You're crushing my husband.
+48864,208,86,383000,Homer Simpson,House,Billy Baldwin!
+48865,208,87,384000,Alec Baldwin,House,I'm Alec Baldwin. Could you get off me?
+48866,208,88,387000,Homer Simpson,House,"So, what are you two kids doin' in my neck of the woods?"
+48867,208,89,390000,Kim Basinger,House,Well...
+48868,208,90,391000,Homer Simpson,House,Wait! Tell me over breakfast. Who's for pancakes?
+48870,208,92,399000,Alec Baldwin,Alec and Kim's House,"Are you sure you don't want to go to the hospital, Mr. Simpson? You had an awful lot of glass in you."
+48871,208,93,403000,Homer Simpson,Alec and Kim's House,"Oh, I don't want to be a bother. Anyway, what are you two big Hollywood stars doing in good ol' Springfield?"
+48872,208,94,409000,Kim Basinger,Alec and Kim's House,"Hm, Sometimes we need to get away from Hollywood. L.A. is just so phony."
+48873,208,95,413000,Homer Simpson,Alec and Kim's House,"Oh, why didn't you move to, sayyy... Bethesda?"
+48874,208,96,416000,Alec Baldwin,Alec and Kim's House,Not phony enough.
+48875,208,97,417000,Kim Basinger,Alec and Kim's House,What we really like here is the privacy. Most people don't even know where Springfield is.
+48876,208,98,421000,Homer Simpson,Alec and Kim's House,"Yeah, tell you the truth, I'm not even sure."
+48877,208,99,425000,Kim Basinger,Alec and Kim's House,We're trying to keep a low profile. We don't even go to the supermarket.
+48878,208,100,428000,Alec Baldwin,Alec and Kim's House,"Yeah, we've been living off congratulatory muffin baskets."
+48879,208,101,432000,Alec Baldwin,Alec and Kim's House,Zucchini.
+48880,208,102,434000,Kim Basinger,Alec and Kim's House,Don't just put that back in the basket.
+48881,208,103,437000,Alec Baldwin,Alec and Kim's House,I'm gonna eat it later.
+48883,208,104,438000,Homer Simpson,Alec and Kim's House,You shouldn't have to survive on dry crumbly muffins from... the Gersh Agency. You should let me do your shopping. I know where I can get you some great muffins.
+48884,208,105,448000,Kim Basinger,Alec and Kim's House,No more muffins.
+48885,208,106,450000,Homer Simpson,Alec and Kim's House,"Okay, fine. But I could do all kinds of stuff for you. I noticed that skylight in your bedroom's broken."
+48886,208,107,455000,Alec Baldwin,Alec and Kim's House,"Yeah, I'm not sure we need an assistant, Mr. Simpson."
+48887,208,108,458000,Homer Simpson,Alec and Kim's House,"Please, Homer. C'mon, if you let me hang around a while, I can do all kinds of stuff for ya."
+48888,208,109,464000,Kim Basinger,Alec and Kim's House,"Well, we are down to our last roll of toilet paper..."
+48889,208,110,466000,Alec Baldwin,Alec and Kim's House,And I have been brushing my teeth with hair gel for a week.
+48890,208,111,470000,Kim Basinger,Alec and Kim's House,I suppose we could give it a try.
+48891,208,112,471000,Homer Simpson,Alec and Kim's House,"Yeah, you owe me that much."
+48892,208,113,473000,Alec Baldwin,Alec and Kim's House,"Okay, you're on. But look, nobody knows we're in Springfield, and we want to keep it that way."
+48893,208,114,477000,Kim Basinger,Alec and Kim's House,Will you promise to keep our secret?
+48894,208,115,479000,Homer Simpson,Alec and Kim's House,Absolutely. If you promise to keep mine.
+48895,208,116,481000,Alec Baldwin,Alec and Kim's House,"Okay, what is it?"
+48896,208,117,482000,Homer Simpson,Alec and Kim's House,I can't read.
+48897,208,118,484000,Kim Basinger,Alec and Kim's House,But you just read that card from the Gersh Agency.
+48898,208,119,486000,Homer Simpson,Alec and Kim's House,I recognized the logo.
+48900,208,121,492000,Marge Simpson,Wooded Area,"Homie, are you okay?"
+48901,208,122,493000,Bart Simpson,Wooded Area,"We've been looking all over for you, Dad. Where did you land?"
+48902,208,123,496000,Homer Simpson,Wooded Area,Nowhere famous.
+48903,208,124,498000,Lisa Simpson,Wooded Area,Where'd you get that muffin?
+48904,208,125,500000,Homer Simpson,Wooded Area,Gersh Agency.
+48906,208,127,507000,Homer Simpson,Kwik-E-Mart,"Apu, I'm about to purchase some weird and fruity items, and I don't want any guff. First of all, I'll need the following mushrooms: portobello --"
+48907,208,128,511000,Apu Nahasapeemapetilon,Kwik-E-Mart,Yes.
+48908,208,129,515000,Homer Simpson,Kwik-E-Mart,Porcini --
+48909,208,130,515000,Apu Nahasapeemapetilon,Kwik-E-Mart,Right.
+48910,208,131,516000,Homer Simpson,Kwik-E-Mart,Chanterelle --
+48911,208,132,516000,Apu Nahasapeemapetilon,Kwik-E-Mart,Uh-huh.
+48912,208,133,517000,Homer Simpson,Kwik-E-Mart,AAAnd Shiitake.
+48913,208,134,518000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Okay, we have none of those. What is next?"
+48882,208,135,521000,Homer Simpson,Kwik-E-Mart,"A gallon of wheat grass juice, a five pound wad of tofu, some jellied zinc, and a couple-a pairs of $600 sunglasses."
+48915,208,136,528000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Mister Simpson, these exotic items are suspiciously different from your usual order of beer and pork. What gives?"
+48916,208,137,535000,Homer Simpson,Kwik-E-Mart,"Nothing, nothing. I'm just broadening my horizons. Uh, by the way, do you have extra-wide bumper stickers for a Humvee?"
+48918,208,139,544000,Kim Basinger,Alec and Kim's House,"Wow, you got everything, Homer. Even the Oscar polish."
+48919,208,140,551000,Alec Baldwin,Alec and Kim's House,"Honey, why don't you give that thing a rest? You're taking the finish off."
+48920,208,141,555000,Kim Basinger,Alec and Kim's House,"When you win one, you can take care of it however you want."
+48921,208,142,559000,Homer Simpson,Alec and Kim's House,"Ooo, me-ow."
+48922,208,143,562000,Homer Simpson,Alec and Kim's House,I'll get it! I'll get it!
+48923,208,144,565000,Homer Simpson,Alec and Kim's House,Yes?
+48924,208,145,567000,Ron Howard,Alec and Kim's House,"Hi, I'm Ron Howard."
+48925,208,146,568000,Homer Simpson,Alec and Kim's House,Ron Howard?!
+48926,208,147,570000,Ron Howard,Alec and Kim's House,"Yeah, I'm lookin' for Alec Baldwin and Kim Basinger."
+48927,208,148,572000,Homer Simpson,Alec and Kim's House,Alec Baldwin and Kim Basinger?!
+48928,208,149,575000,Alec Baldwin,Alec and Kim's House,"Oh, hey, Ron! We heard you were looking for a place in Springfield."
+48929,208,150,578000,Ron Howard,Alec and Kim's House,"Yeah, well, it's the only town in America that'll let me fish with dynamite."
+48930,208,151,582000,Ron Howard,Alec and Kim's House,Uh... What's with him?
+48931,208,152,584000,Kim Basinger,Alec and Kim's House,"Oh, that's just Homer. He's a new friend of ours."
+48932,208,153,587000,Homer Simpson,Alec and Kim's House,"Really? You giant stars consider me a friend? Well, for the first time in my life I feel like I'm somebody. Ronny, are you also my close friend?"
+48933,208,154,597000,Ron Howard,Alec and Kim's House,Do I smell vodka... and wheat grass?
+48934,208,155,601000,Homer Simpson,Alec and Kim's House,It's called a Lawnmower. I invented it. You want one?
+48935,208,156,604000,Ron Howard,Alec and Kim's House,"Yeah, okay."
+48936,208,157,605000,Kim Basinger,Alec and Kim's House,And I'll have a rum and zinc.
+48937,208,158,606000,Ron Howard,Alec and Kim's House,"Ooh, I'll have one of those, too. Hey, can I crash here tonight?"
+48938,208,159,609000,Homer Simpson,Alec and Kim's House,Sure. We'll all stay.
+48940,208,161,615000,Marge Simpson,Simpson Home,"A cell phone? Last Thursday's ""Variety""?"
+48941,208,162,621000,Homer Simpson,Simpson Home,I'll do that! You go upstairs and have a beer.
+48942,208,163,624000,Marge Simpson,Simpson Home,"Homer, when did you become a member of P.E.T.A.?"
+48945,208,164,627000,Homer Simpson,Simpson Home,"Well, you know me. I love animals. Beef, chicken, veal... if you're not part of the solution, Marge, you're part of the problem."
+48946,208,165,635000,Marge Simpson,Simpson Home,But that's not what P.E.T.A. stands--
+48947,208,166,638000,Homer Simpson,Simpson Home,Imagine Films.
+48949,208,168,640000,Homer Simpson,Simpson Home,"A, uh... division of, um... Homer-Co."
+48951,208,170,644000,Homer Simpson,Alec and Kim's House,"And lift, and strain, and hy-per-extend, keep those knees rigid, jerk that lower back..."
+48952,208,171,651000,Kim Basinger,Alec and Kim's House,"Homer, I'm feeling some sharp pains in my neck."
+48953,208,172,654000,Homer Simpson,Alec and Kim's House,"That's right, force it. Whip that neck."
+48954,208,173,656000,Alec Baldwin,Alec and Kim's House,"Um, does anybody know where this came from?"
+48955,208,174,659000,Homer Simpson,Alec and Kim's House,"Oh, there's that movie script I wrote. Where did you find it?"
+48956,208,175,666000,Alec Baldwin,Alec and Kim's House,On my pillow.
+48957,208,176,667000,Homer Simpson,Alec and Kim's House,"The important thing is, it's got the perfect part for you. Either one of you. It's about a killer robot driving instructor who travels back in time for some reason. Ron Howard's attached to direct."
+48958,208,177,678000,Ron Howard,Alec and Kim's House,I am not!
+48959,208,178,679000,Homer Simpson,Alec and Kim's House,"Well, he expressed an interest."
+48960,208,179,681000,Ron Howard,Alec and Kim's House,"No, I didn't!"
+48961,208,180,681000,Homer Simpson,Alec and Kim's House,Did too!
+48962,208,181,682000,Ron Howard,Alec and Kim's House,I did not!
+48963,208,182,682000,Homer Simpson,Alec and Kim's House,You lie!
+48964,208,183,685000,Alec Baldwin,Alec and Kim's House,"Yeah, Homer, um, most movie scripts are 120 pages. This is only seventeen. Annnd several of the pages are just drawings of the time machine."
+48965,208,184,693000,Homer Simpson,Alec and Kim's House,So you're saying you don't want to star in my movie?
+48966,208,185,696000,Alec Baldwin,Alec and Kim's House,"I'm sorry, Homer."
+48967,208,186,697000,Homer Simpson,Alec and Kim's House,"Well, if Alec is out, I'm out too. You're on your own, Potsie."
+48968,208,187,701000,Ron Howard,Alec and Kim's House,"""The Terminizor: An Erotic Thriller""?"
+48970,208,189,706000,Moe Szyslak,Moe's Tavern,"So, I'm in the grocery store the other day buyin' some cotton balls..."
+48971,208,190,709000,Carl Carlson,Moe's Tavern,The absorbent kind?
+48972,208,191,710000,Moe Szyslak,Moe's Tavern,"Youuu got that right, my friend!"
+48973,208,192,713000,Moe Szyslak,Moe's Tavern,"So, I round the corner and head down the ointment aisle, when who should I spot? None other than Kent Brockman!"
+48974,208,193,720000,Lenny Leonard,Moe's Tavern,The local news guy? Mister Channel 6?
+48914,208,194,724000,Barflies,Moe's Tavern,"/ My God, what I'd give to meet him."
+48943,208,195,725000,Carl Carlson,Moe's Tavern,"Oh, they don't come much bigger than that."
+48944,208,196,728000,Homer Simpson,Moe's Tavern,Kent Brockman. Please.
+48975,208,197,731000,Moe Szyslak,Moe's Tavern,"Oh, what? I suppose you've seen a bigger star?"
+48976,208,198,733000,Homer Simpson,Moe's Tavern,I might have.
+48977,208,199,735000,Lenny Leonard,Moe's Tavern,"Come on, make with a name."
+48978,208,200,737000,Homer Simpson,Moe's Tavern,"Oh, I can't. I promised I wouldn't."
+48979,208,201,740000,Moe Szyslak,Moe's Tavern,"Aw, yeah right. You ain't seen nobody."
+48980,208,202,743000,Barney Gumble,Moe's Tavern,"Another good one, Moe."
+48981,208,203,745000,Kim Basinger,Moe's Tavern,Please don't tell anyone we're here.
+48982,208,204,747000,Alec Baldwin,Moe's Tavern,"You've got to keep our secret, Homer."
+48983,208,205,750000,Ron Howard,Moe's Tavern,"Homer, we're out of vodka."
+48984,208,206,752000,Gentleman,Moe's Tavern,"Tell the people, Homer. They have a right to know about the celebrity summer house."
+48985,208,207,756000,Homer Simpson,Moe's Tavern,Who the hell are you?
+48986,208,208,757000,Gentleman,Moe's Tavern,What do you care? I'm telling you what you want to hear.
+48987,208,209,761000,Homer Simpson,Moe's Tavern,"All right, I'm gonna let you guys in on something. But you've got to keep it much more secret than I did."
+48989,208,211,772000,Kim Basinger,Alec and Kim's House,"Yess! In your freckled face, Howard!"
+48990,208,212,776000,Homer Simpson,Alec and Kim's House,Unbelievable?
+48991,208,213,778000,Ron Howard,Alec and Kim's House,What?
+48992,208,214,779000,Homer Simpson,Alec and Kim's House,"Nothing, nothing. Good hustle."
+48993,208,215,784000,Ron Howard,Alec and Kim's House,My God. The lemonade. Look at the lemonade!
+48994,208,216,791000,Homer Simpson,Alec and Kim's House,Uh-oh.
+48995,208,217,798000,Kim Basinger,Alec and Kim's House,"Quick, everybody inside!"
+48996,208,218,802000,Alec Baldwin,Alec and Kim's House,The shuttlecock! Where's the shuttlecock?!
+48997,208,219,814000,Captain Horatio McCallister,Alec and Kim's House,"Arr, I loved ""Splash, Mr. Howard!"" It was totally... Um... Arrrr!"
+48998,208,220,820000,Waylon Smithers,Alec and Kim's House,"Uh, Miss Basinger, those red pumps you wore in ""L.A. Confidential"" were fabulous. Where can I get a pair for my, uh, mother? She wears a 12 double ""E."""
+48999,208,221,826000,Comic Book Guy,Alec and Kim's House,"Alec, Alec, regarding that so-called silent propulsion system in ""The Hunt for Red October,"" I printed out a list of technical errors which I think you'd enjoy discussing--"
+49000,208,222,839000,Alec Baldwin,Alec and Kim's House,Somebody must have told them we live here.
+49001,208,223,842000,Homer Simpson,Alec and Kim's House,"I'm looking at you, Horshak."
+49002,208,224,843000,Kim Basinger,Alec and Kim's House,"Homer, how could you?"
+49003,208,225,846000,Homer Simpson,Alec and Kim's House,"Okay, okay, it was me. I'm sorry I blew your secret. But you don't know what it's like to be a nobody. I just wanted to bask in your reflected glory. Reflected glory!"
+49004,208,226,856000,Kim Basinger,Alec and Kim's House,"Homer, you betrayed our confidence. I just don't think we can be friends anymore."
+49005,208,227,862000,Homer Simpson,Alec and Kim's House,But where will I bask?
+49006,208,228,865000,Alec Baldwin,Alec and Kim's House,Anywhere but here.
+49007,208,229,866000,Homer Simpson,Alec and Kim's House,"Come on, Ron, we're not wanted here."
+49008,208,230,871000,Homer Simpson,Alec and Kim's House,"All right, I'll go. But the next time you want someone to remind you which brother is which, or smell your hair while you're sleeping, just remember, old Homer won't be here anymore."
+49009,208,231,884000,Sideshow Mel,Alec and Kim's House,Wait a minute. Somebody's coming out!
+49010,208,232,887000,Moe Szyslak,Alec and Kim's House,Who is it? Is it anybody?
+49011,208,233,889000,Chief Wiggum,Alec and Kim's House,"Nah, nah, it's nobody."
+49012,208,234,891000,Moe Szyslak,Alec and Kim's House,Throw your stones. It's nobody.
+49014,208,236,902000,Homer Simpson,Simpson Home,"Oh, how could Alec and Kim just cut me out of their lives?"
+49015,208,237,907000,Marge Simpson,Simpson Home,"Homer, you haven't touched your food."
+49016,208,238,911000,Homer Simpson,Simpson Home,"When Kim makes a Manwhich, she uses foccacia bread. And would it kill you to put some fennel in it?"
+49017,208,239,917000,Bart Simpson,Simpson Home,"Alec Baldwin, wow. That is the coolest person you've ever been fired by. What was it like at their house?"
+49018,208,240,923000,Homer Simpson,Simpson Home,"Oh, it was so great. I didn't have to fake it with them. I was actually excited to hear about their day."
+49019,208,241,929000,Lisa Simpson,Simpson Home,I washed the dog today.
+49020,208,242,930000,Homer Simpson,Simpson Home,Was it the dog from the Beethoven movies?
+49021,208,243,932000,Lisa Simpson,Simpson Home,Of course not.
+49022,208,244,933000,Homer Simpson,Simpson Home,Our dog isn't famous. And you kids aren't exactly John and Joan Cusack. And you. You couldn't open a movie if your life depended on it. I'm about ready to ankle this family.
+49023,208,245,944000,Marge Simpson,Simpson Home,"""Ankle""? ""Foccacia""? What are you talking about?"
+49024,208,246,948000,Homer Simpson,Simpson Home,See? It's like we don't even speak the same language anymore. The only one who understands me is that guy who married Martha Raye.
+49025,208,247,956000,Lisa Simpson,Simpson Home,"Don't blame us, Dad. The celebrities are the ones who canned you."
+49026,208,248,959000,Homer Simpson,Simpson Home,"Hmmm... She may not be famous, but she's right. Those big shot stars used me up and spit me out. I did their laundry, got their pictures developed, took their garbage to the dump... And I've still got a car full of their crap. Crap, eh...?"
+49028,208,250,980000,Kirk Van Houten,Alec and Kim's House,"Hey, is it too late to see the movie stars?"
+49029,208,251,982000,Moe Szyslak,Alec and Kim's House,"Nah. Nah. Just, uh, hop that fence, sneak up and, uh, peek in the window there."
+49030,208,252,987000,Kirk Van Houten,Alec and Kim's House,All right.
+49031,208,253,992000,Moe Szyslak,Alec and Kim's House,I never get tired of that.
+49032,208,254,994000,Homer Simpson,Alec and Kim's House,Attention starstruck fools!
+49033,208,255,997000,Homer Simpson,Alec and Kim's House,Step right up and see the world's greatest mobile collection of Alec-and-Ron-and-Kim-arabilia.
+49034,208,256,1005000,Homer Simpson,Alec and Kim's House,"Only 5, no wait 10 dollars. You heard right, 20 dollars."
+49036,208,258,1015000,Chief Wiggum,WINNEBAGO,"Hey, it's Alec Baldwin's medic-alert bracelet."
+49037,208,259,1018000,Homer Simpson,WINNEBAGO,"That's right, Mister Tough Guy can't handle a little penicillin. Oh, and look at this. We can't even pay our bills and they're drinking Royal Crown Cola."
+49038,208,260,1029000,Carl Carlson,WINNEBAGO,"Hey, hey, go easy on the celebrities, huh?"
+49039,208,261,1032000,Krusty the Clown,WINNEBAGO,"Yeah, what gives you the right?"
+49040,208,262,1033000,Barney Gumble,WINNEBAGO,We love celebrities!
+49041,208,263,1035000,Homer Simpson,WINNEBAGO,"Oh, yeah? What have they ever done for you? When was the last time Barbra Streisand cleaned out your garage? And when it's time to do the dishes, where's Ray Bolger? I'll tell ya. Ray Bolger is lookin' out for Ray Bolger!"
+49043,208,265,1054000,Kim Basinger,Alec and Kim's House,"Oh, look. Wasn't that a fun weekend?"
+49044,208,266,1057000,Alec Baldwin,Alec and Kim's House,"Yeah, Homer was a pretty good guy. And we just tossed him out like a Golden Globe Award... I've got to admit, I miss the way he used to tuck us in and kiss us on the forehead."
+49045,208,267,1067000,Kim Basinger,Alec and Kim's House,Forehead?
+49046,208,268,1069000,Alec Baldwin,Alec and Kim's House,"Aw, maybe I should've made his movie."
+49047,208,269,1071000,Kim Basinger,Alec and Kim's House,"Yeah, it wasn't that bad. I mean, the script might even work if you got rid of the talking pie."
+49048,208,270,1076000,Alec Baldwin,Alec and Kim's House,"What're you, crazy? It's a buddy picture. Without the pie, it would just be me on screen for two hours!"
+49049,208,271,1082000,Kim Basinger,Alec and Kim's House,"Oh, yeah, and you'd hate that."
+49050,208,272,1083000,Ron Howard,Alec and Kim's House,"No, no, no, you can't lose the pie. The pie's your heart."
+49051,208,273,1087000,Kim Basinger,Alec and Kim's House,"Okay, okay. Keep the damn pie! The point is, we weren't fair to Homer. He screwed up, but he deserves another chance."
+49054,208,274,1095000,Alec Baldwin,Alec and Kim's House,"Yeah, everyone makes mistakes. I mean, we'd want another chance if one of us ever made a bad film, right?"
+49055,208,275,1111000,Kim Basinger,Alec and Kim's House,I'm really looking forward to seeing Homer again. He always has the most interesting odors.
+49056,208,276,1118000,Homer Simpson,Alec and Kim's House,"Ooh, look at me! I'm Kim Basinger, the big movie star! I'm so beautiful! I think I'm so great! I'm too important to take Homer to the Oscars."
+49057,208,277,1130000,Alec Baldwin,Alec and Kim's House,What the -- ?
+49058,208,278,1130000,Homer Simpson,Alec and Kim's House,Gotta-go-thank-you-for-supporting-the-Museum-of-Hollywood-Jerks.
+49059,208,279,1135000,Ron Howard,Alec and Kim's House,Let's get him!
+49060,208,280,1137000,Alec Baldwin,Alec and Kim's House,This time it's personal!
+49061,208,281,1140000,Alec Baldwin,Alec and Kim's House,What? It is personal. He's got our underpants.
+49063,208,283,1150000,Homer Simpson,WINNEBAGO,"Oh, I'll never outrun them in a museum!"
+49064,208,284,1152000,Alec Baldwin,WINNEBAGO,"Pull over, you maniac!"
+49065,208,285,1154000,Homer Simpson,WINNEBAGO,No!
+49066,208,286,1155000,Kim Basinger,WINNEBAGO,"Just jump over there, Alec. It's not that far."
+49067,208,287,1158000,Ron Howard,WINNEBAGO,"Yeah, you're a big screen tough guy."
+49068,208,288,1160000,Alec Baldwin,WINNEBAGO,"Gee, I'd love to, but I'm not really wearing the right shoes."
+49070,208,290,1166000,Alec Baldwin,WINNEBAGO,Fine.
+49072,208,292,1174000,Alec Baldwin,WINNEBAGO,"Heh. I made it! All by myself! Hey, were you watching, sweetheart? I made it!"
+49073,208,293,1178000,Alec Baldwin,WINNEBAGO,Ow!
+49074,208,294,1180000,Alec Baldwin,WINNEBAGO,My watch is caught!
+49075,208,295,1182000,Kim Basinger,WINNEBAGO,"Oh, for the love of... Hold on. Can you drive?"
+49076,208,296,1187000,Ron Howard,WINNEBAGO,Not well. But I'll give it a shot.
+49077,208,297,1194000,Homer Simpson,WINNEBAGO,"Oh, God."
+49079,208,299,1201000,Ron Howard,WINNEBAGO,I guess it's up to me.
+49081,208,301,1208000,ALEC/KIM,WINNEBAGO,Ron!
+49082,208,302,1211000,Kim Basinger,WINNEBAGO,You killed Ron Howard!
+49083,208,303,1213000,Homer Simpson,WINNEBAGO,"Okay, I'll stop."
+49085,208,305,1220000,Judge Snyder,Courtroom,"Mr. Simpson, do you have anything to say for yourself?"
+49086,208,306,1223000,Homer Simpson,Courtroom,"Yes, I do."
+49087,208,307,1224000,Homer Simpson,Courtroom,"I believe that famous people have a debt to everyone. If celebrities didn't want people pawing through their garbage and saying they're gay, they shouldn't have tried to express themselves creatively."
+49088,208,308,1236000,Homer Simpson,Courtroom,"In closing, you people must realize that the public owns you for life. And when you're dead, you'll all be in commercials, dancing with vacuum cleaners. Thank you, Your Honor."
+49089,208,309,1250000,Judge Snyder,Courtroom,"Mr. Simpson, you are forbidden to come within five hundred miles of any celebrity, living or dead."
+49090,208,310,1256000,ALEC/KIM/RON,Courtroom,Woo hoo!
+49091,208,311,1259000,Homer Simpson,Courtroom,"Well, I'll always have my crank calls. Hello, old lady from ""Titanic""? You stink!"
+49094,208,314,1271000,Ron Howard,FOX EXECUTIVE'S OFFICE,"And it grows to a powerful, emotional climax when the father has to choose, which one of his children will live and which one will die..."
+49095,208,315,1285000,STUDIO EXECUTIVE,FOX EXECUTIVE'S OFFICE,Pass.
+49097,208,317,1287000,STUDIO EXECUTIVE,FOX EXECUTIVE'S OFFICE,What else you got?
+49098,208,318,1288000,Ron Howard,FOX EXECUTIVE'S OFFICE,"Uhh... Well, well, there is this one thing. It's about a killer robot driving instructor that travels back in time for some reason."
+49099,208,319,1297000,STUDIO EXECUTIVE,FOX EXECUTIVE'S OFFICE,I'm listening.
+49100,208,320,1298000,Ron Howard,FOX EXECUTIVE'S OFFICE,"Okay, okay. Well, you see this robot, he's got a heartbreaking decision to make, about whether his best friend lives... or dies."
+49102,208,322,1309000,Ron Howard,FOX EXECUTIVE'S OFFICE,His best friend's a talking pie.
+49103,208,323,1312000,STUDIO EXECUTIVE,FOX EXECUTIVE'S OFFICE,"Sold! Howard, you've done it again!"
+49104,208,324,1366000,Ron Howard,FOX EXECUTIVE'S OFFICE,"Homer, We're out of vodka."

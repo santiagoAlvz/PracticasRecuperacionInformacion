@@ -1,0 +1,229 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+86196,334,1,28000,Marge Simpson,Simpson Car,"How's the ice cream, kids?"
+86197,334,2,29000,Lisa Simpson,Simpson Car,Great!
+86198,334,3,30000,Marge Simpson,Simpson Car,Who's ready for a kitten?
+86199,334,4,32000,Bart Simpson,Simpson Car,I am!
+86200,334,5,32000,Lisa Simpson,Simpson Car,Make mine calico!
+86201,334,6,34000,Homer Simpson,Simpson Car,Here you go.
+86202,334,7,34000,Lisa Simpson,Simpson Car,This whole morning has been wonderful. Too wonderful.
+86203,334,8,42000,Bart Simpson,Simpson Car,"You're right, this is it. They're selling us to be crash test dummies."
+86204,334,9,45000,Lisa Simpson,Simpson Car,"Oh, please let it be Volvo."
+86205,334,10,47000,Marge Simpson,Simpson Car,"Oh, you children are too suspicious. It's go time."
+86207,334,12,58000,Bart Simpson,Simpson Car,It's shot day!
+86209,334,14,61000,Dr. Julius Hibbert,Simpson Car,Welcome to Hell...man Avenue Medical Plaza.
+86211,334,16,67000,Dr. Julius Hibbert,CHILDREN'S EXAM ROOM,"Children, you should be grateful you live in a country where childhood diseases have been practically..."
+86212,334,17,72000,Bart Simpson,CHILDREN'S EXAM ROOM,Karaté!
+86214,334,19,79000,Marge Simpson,CHILDREN'S EXAM ROOM,Bart! That hobo skeleton is not a toy!
+86215,334,20,82000,Lisa Simpson,CHILDREN'S EXAM ROOM,"This is ridiculous. Only babies and ex-junkies are afraid of needles. Stick me, Chuckles!"
+86216,334,21,90000,Lisa Simpson,CHILDREN'S EXAM ROOM,Can I have a lollipop?
+86217,334,22,94000,Dr. Julius Hibbert,CHILDREN'S EXAM ROOM,"Well, that just leaves Bart."
+86218,334,23,96000,Homer Simpson,CHILDREN'S EXAM ROOM,Don't forget Maggie!
+86219,334,24,97000,Dr. Julius Hibbert,CHILDREN'S EXAM ROOM,"Oh, I got her when your heads were turned. Got her good!"
+86220,334,25,101000,Dr. Julius Hibbert,CHILDREN'S EXAM ROOM,"Now Bart, just look out the window. It'll take your mind off the pain."
+86221,334,26,106000,Dr. Julius Hibbert,CHILDREN'S EXAM ROOM,"And when you're done, I've got more lollies!"
+86222,334,27,109000,Bart Simpson,CHILDREN'S EXAM ROOM,No thanks. I already helped myself.
+86223,334,28,115000,Bart Simpson,CHILDREN'S EXAM ROOM,"See ya later, inoculator!"
+86224,334,29,119000,Dr. Julius Hibbert,CHILDREN'S EXAM ROOM,"He can run, but nobody escapes the needle."
+86225,334,30,122000,Dr. Julius Hibbert,CHILDREN'S EXAM ROOM,"Darlene, cancel all my appointments."
+86226,334,31,124000,Hans Moleman,CHILDREN'S EXAM ROOM,But I need that kidney now.
+86228,334,33,154000,Drederick Tatum,CHILDREN'S EXAM ROOM,Black-on-black violence must end.
+86229,334,34,158000,Drederick Tatum,CHILDREN'S EXAM ROOM,That was for Dr. King.
+86231,334,36,164000,Bart Simpson,Simpson Home,"Don't feel bad, Doc. I won't even let my Mom clip my toenails."
+86232,334,37,169000,Barney's Voice,Simpson Home,"I guess you're just too smart for me, Bart."
+86234,334,39,183000,Dr. Julius Hibbert,Simpson Home,"Thanks, Barney. Moe, we won't need you now."
+86235,334,40,188000,Moe Szyslak,Simpson Home,"Okay, well, I really enjoyed being you, Dr. Hibbert. Uh, oh by the way, you're not welcome in the library no more. I'm sorry."
+86236,334,41,196000,Marge Simpson,Simpson Home,"Now, that wasn't so bad, was it Bart? You know, sometimes the fear of some..."
+86237,334,42,203000,Bart Simpson,Simpson Home,"Whoa, something's wrong! Ah, ah, I can't hear!"
+86238,334,43,206000,Homer Simpson,Simpson Home,Doctor! Perform a diagnosis!
+86239,334,44,211000,Dr. Julius Hibbert,Simpson Home,I'm afraid the inoculation has swollen his ear holes shut! Maybe this would be a good time to talk about side effects.
+86240,334,45,218000,Dr. Julius Hibbert,Simpson Home,"The boy's hearing should clear up in a day. If it doesn't, call me in the Bahamas. For now, he can express himself with this complimentary pen."
+86241,334,46,225000,Homer Simpson,Simpson Home,Cool!
+86242,334,47,228000,Dr. Julius Hibbert,Simpson Home,"Oh, it's a good pen. Try it out."
+86243,334,48,232000,Dr. Julius Hibbert,Simpson Home,"That was a malpractice waiver, fool!"
+86244,334,49,253000,Marge Simpson,Simpson Home,"Stop it, Homer!"
+86247,334,52,256000,Jimbo Jones,Springfield Elementary School,"Gimme your wallet, kid. We're gonna identity theft your ass!"
+86248,334,53,264000,Kearney Zzyzwicz,Springfield Elementary School,He's just standing his ground!
+86249,334,54,265000,DOLPH,Springfield Elementary School,"He knows that deep down, all bullies are cowards!"
+86250,334,55,268000,Jimbo Jones,Springfield Elementary School,We're undone!
+86251,334,56,271000,Groundskeeper Willie,Springfield Elementary School,"I know what you're hiding, lad. Willie's been deaf since the boiler explosion of eighty-eight. But I taught meself to read lips."
+86252,334,57,278000,Mailman,Springfield Elementary School,Mornin' Willie!
+86255,334,58,280000,Groundskeeper Willie,Springfield Elementary School,"What'd you say about me mother?! For your information, her feet stank 'cause she works in manure all day! But it's still the best darn Starbucks in Glasgow!"
+86257,334,60,293000,Homer Simpson,Simpson Home,"Bart, pass the ketchup. Bart, pass the ketchup!"
+86258,334,61,297000,Lisa Simpson,Simpson Home,"Dad, he's deaf."
+86259,334,62,298000,Homer Simpson,Simpson Home,"Oh, sorry, right."
+86260,334,63,300000,Homer Simpson,Simpson Home,"Bart, pass the corn. Bart, pass the corn!"
+86261,334,64,306000,Marge Simpson,Simpson Home,I THINK YOU SHOULD STAY HOME FROM SCHOOL TOMORROW.
+86262,334,65,310000,Bart Simpson,Simpson Home,But Mom... tomorrow's the big donkey basketball game.
+86263,334,66,313000,Bart Simpson,Simpson Home,The kids are gonna play the teachers!
+86264,334,67,315000,Bart Simpson,Simpson Home,Donkey Basketball? Now I've heard everything! Unlike you!
+86265,334,68,323000,Homer Simpson,Simpson Home,Everybody remember that for when his hearing comes back.
+86267,334,70,325000,Nelson Muntz,Springfield Elementary School,Swish!
+86268,334,71,332000,Gary Chalmers,Springfield Elementary School,"Welcome, everyone, to the annual Donkey Basketball Classic. I'm sure that mule enjoy it."
+86269,334,72,343000,Seymour Skinner,Springfield Elementary School,"Hm, tough crowd. Uh, would everyone just rise for our National Anthem?"
+86270,334,73,357000,Bart Simpson,Springfield Elementary School,"Hey, donkey, want a carrot?"
+86271,334,74,361000,Bart Simpson,Springfield Elementary School,Psyche!
+86272,334,75,373000,Seymour Skinner,Springfield Elementary School,Good Lord! Bart's mooning the flag!
+86273,334,76,377000,Seymour Skinner,Springfield Elementary School,"Don't look, Buttermilk."
+86275,334,78,381000,The Rich Texan,Springfield Elementary School,How dare he?! That's the flag my grandpappy rebelled against!
+86276,334,79,386000,Lenny Leonard,Springfield Elementary School,"When you insult the flag, you insult my flag tattoo!"
+86277,334,80,396000,Bart Simpson,Springfield Elementary School,Uh-oh.
+86278,334,81,403000,Groundskeeper Willie,Springfield Elementary School,What did ye say about me mother?
+86279,334,82,410000,Groundskeeper Willie,Springfield Elementary School,You'll fry up nice tonight!
+86281,334,84,415000,Seymour Skinner,Skinner's Office,"Your child's behavior appalls me, not just as a principal, but as a veteran of America's only losing war."
+86282,334,85,421000,Homer Simpson,Skinner's Office,To date!
+86283,334,86,422000,Marge Simpson,Skinner's Office,I swear Bart didn't know what he was doing. He was deaf!
+86284,334,87,426000,Seymour Skinner,Skinner's Office,"Oh sure, Marge. Just like ""blind Bart,"" ""wheelchair Bart,"" ""pregnant Bart"" and my personal favorite, ""railroad spike through head Bart."""
+86125,334,88,426000,Homer Simpson,Skinner's Office,Kids love trains.
+86253,334,90,437000,Bart Simpson,Springfield Elementary School,"Hey, fellas! My hearing's back."
+86286,334,91,438000,Kearney Zzyzwicz,Springfield Elementary School,"Congratulations, traitor."
+86287,334,92,441000,Bart Simpson,Springfield Elementary School,"Thank you. And let me say I missed your sweet, sweet voices."
+86288,334,93,444000,Kearney Zzyzwicz,Springfield Elementary School,"Cram it, Iraqi!"
+86289,334,94,444000,DOLPH,Springfield Elementary School,Why'd you dis the flag? It partied on the moon!
+86290,334,95,452000,Kearney Zzyzwicz,Springfield Elementary School,Weren't we afraid of him just a few days ago?
+86291,334,96,454000,DOLPH,Springfield Elementary School,We're complex!
+86294,334,99,457000,Managing Editor,Springfield Shopper,Who can take a story and blow it way out of proportion?
+86295,334,100,460000,Eager Young Reporter,Springfield Shopper,"I'm your man, boss!"
+86296,334,101,461000,Managing Editor,Springfield Shopper,"I want you to over-hype this story so much, it makes the New York Post look like the New York Times. Or the New York Times look like the New York Post. I forget which one the good one is."
+86298,334,103,476000,Apu Nahasapeemapetilon,When You Wash Upon a Car Wash,I did not come to this country illegally to see it mocked.
+86299,334,104,480000,Sideshow Mel,When You Wash Upon a Car Wash,There's the boy who bared his bottom to Old Glory. And the family that applauds his every moonery!
+86300,334,105,486000,Dewey Largo,When You Wash Upon a Car Wash,"They hate our country, but they love our soapy water!"
+86302,334,107,494000,GOLF-COURSE EMPLOYEE,MINI-GOLF COURSE,"Hey, Benedict Arnold. Our cups don't want your colorful balls."
+86304,334,109,499000,Homer Simpson,MINI-GOLF COURSE,No one calls me unpatriotic.
+86305,334,110,503000,Homer Simpson,MINI-GOLF COURSE,Uh-oh.
+86307,334,112,516000,Homer Simpson,Moe's Tavern,"Hey, guys."
+86308,334,113,522000,Homer Simpson,Moe's Tavern,"Oh, cold shoulder, huh? Well, I'll just talk to myself. Hey, how ya doin', Homer? Oh, not too bad, how about you? Oh I'm fine. Your wife was great in bed last night. You keep your hands off my wife! Oh yeah? Well I give her what she needs. And she likes..."
+86309,334,114,536000,Homer Simpson,Moe's Tavern,"Oh, Homer, stop it!"
+86310,334,115,536000,Moe Szyslak,Moe's Tavern,"Homer... this bar's only for real Americans. And people on permanent visas, like me. What? What are you all lookin' at? I'm Dutch. Eh, forget all of you."
+86311,334,116,554000,Lenny Leonard,Moe's Tavern,"I'm leavin', too. I'm gonna go listen to the President's weekly radio address. And not the rebuttal!"
+86312,334,117,560000,Carl Carlson,Moe's Tavern,"Goodbye, Homer. I can't get drunk and vomit next to a guy I don't respect."
+86313,334,118,567000,Homer Simpson,Moe's Tavern,Even my best friends have left me! I'm all alone!
+86316,334,121,583000,Lisa Simpson,Simpson Home,We've become pariahs! In the last two hours I've gotten one thousand hate spams.
+86317,334,122,591000,Homer Simpson,Simpson Home,Y'ello. Appear on your TV show?! Tell our side of the story?! You'll see us there?! Goodbye?! Dial tone?!
+86319,334,124,602000,Marge Simpson,TV Studio,"If there's one way to get the truth out, it's on a cable news channel."
+86321,334,126,606000,Marge Simpson,Green Room,"When we explain our side of the story, the hate calls will end. I won't have to hear ""suck my such and such"" or ""hell this"" and ""bitch that..."""
+86322,334,127,616000,Lisa Simpson,Green Room,"We get it, Mom."
+86323,334,128,617000,Homer Simpson,Green Room,"No, no, no, let her finish."
+86324,334,129,619000,Bart Simpson,Green Room,"Look, what should I say to make people not hate me?"
+86325,334,130,621000,Homer Simpson,Green Room,"Son, I've learned one thing in this life: to stay out of trouble, just say nothing. Don't rock the boat. Don't even get in the boat."
+86326,334,131,629000,Homer Simpson,Green Room,"Just buy some ice cream and walk around the pier. But don't go in the bathrooms, they're filthy."
+86327,334,132,634000,Bart Simpson,Green Room,"Dad, I am going on a talk show. I have to say something!"
+86328,334,133,637000,Homer Simpson,Green Room,"Talk about boats! Then when he asks you if you hate this country, you just start crying and pretend you don't."
+86329,334,134,643000,Bart Simpson,Green Room,But I don't hate this country.
+86330,334,135,646000,Homer Simpson,Green Room,"There there, save your lies for the American public."
+86332,334,137,648000,Nash Castor,"""HEADBUTT"" SET","I'm Nash Castor and it's time to butt heads. Bart Simpson, what do you hate most about this country? Is it the freedom?"
+86333,334,138,655000,Bart Simpson,"""HEADBUTT"" SET","Nash, I've realized something. I'm the worst kid in the world, and the last thing I deserve is forgiveness. But with a little help from Jesus and our fighting men and women overseas--"
+86334,334,139,667000,Nash Castor,"""HEADBUTT"" SET","So if I hear you correctly, you're saying America's better than Jesus. Do you agree? Before he can answer -- do you?"
+86335,334,140,673000,Marge Simpson,"""HEADBUTT"" SET","Well, America's not perfect--"
+86336,334,141,675000,Nash Castor,"""HEADBUTT"" SET","So, America isn't perfect. Is that why you and your son hate us?"
+86339,334,142,679000,Marge Simpson,"""HEADBUTT"" SET","If by us you mean loud-mouthed talk show hosts, which everyone seems to be in this country, then yes, I do hate Americans!"
+86340,334,143,693000,Homer Simpson,"""HEADBUTT"" SET",What'd you say?
+86341,334,144,694000,Nash Castor,"""HEADBUTT"" SET","Wow, Marge, I'm surprised you haven't been run out of town."
+86342,334,145,697000,Marge Simpson,"""HEADBUTT"" SET",I'll have you know I am very well liked in Springfield.
+86343,334,146,701000,Nash Castor,"""HEADBUTT"" SET","There you have it... Springfield hates America. Now, comin' up after this commercial, I'll be talking even louder. Don't miss it!"
+86345,334,148,709000,Tom Brokaw,Springfield Town Hall,"All over the country tonight, patriotic Americans are denouncing Springfield and its official spokesmen, the Simpsons."
+86346,334,149,716000,Elderly Southern Senator,Springfield Town Hall,"I declare today, December 25th, ""We Hate Springfield Day."""
+86348,334,151,723000,Tom Brokaw,Springfield Town Hall,Overseas the reaction tonight is decidedly different.
+86349,334,152,726000,Arab Woman,Springfield Town Hall,Simpsons be praised! Praise be to Springfield!
+86350,334,153,731000,Tom Brokaw,Springfield Town Hall,But not everyone is ululating tonight. The President announced today he is pointing warheads at--
+86351,334,154,737000,Mayor Joe Quimby,Springfield Town Hall,Turn that off!
+86352,334,155,738000,Mayor Joe Quimby,Springfield Town Hall,"This could destroy our town! Look what happened to Hitler City, North Carolina -- if they hadn't changed their name to Charlotte, they'd be sunk."
+86353,334,156,746000,Aide #1,Springfield Town Hall,"Sir, conventions are pulling out of Springfield left and right. The Paprika Festival... Bandana Days..."
+86354,334,157,750000,Aide #2,Springfield Town Hall,"Sir, we just lost the Adult Video Awards."
+86355,334,158,753000,Mayor Joe Quimby,Springfield Town Hall,Not the Boneys!
+86356,334,159,756000,Mayor Joe Quimby,Springfield Town Hall,I am honored to announce that we are changing the name of our town to Liberty-ville!
+86357,334,160,762000,Cookie Kwan,Springfield Town Hall,"""Seventeen seventy-six?"" I can't afford to sell a Westside home for that!"
+86358,334,161,767000,Luigi,Springfield Town Hall,"But what a fantastical year for pizza by the slice! / CHARGE A-MONEY FOR THE PIZZA, BUY MYSELF A BIG-A NEW CAR."
+86360,334,163,778000,Lisa Simpson,LIBERTYVILLE,"I'm as patriotic as the next person, but changing the traffic lights to red, white and blue just seems dangerous."
+86361,334,164,785000,Gil Gunderson,LIBERTYVILLE,"C'mon kid, go! You've got the red!"
+86362,334,165,789000,Gil Gunderson,LIBERTYVILLE,Oh no!
+86363,334,166,790000,Krusty the Clown,LIBERTYVILLE,"Okay, Mr. Teeny. Before the cops come, swallow all these illegal pills, then run to the vet."
+86364,334,169,803000,Marge Simpson,Kwik-E-Mart,"Homeland Noodles with Uncle Sam balls? Apu, aren't you going a bit overboard with the patriotism?"
+86365,334,170,810000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Oh I don't think so, it is a heartfelt expression of my true desire to protect my mahogany noggin."
+86366,334,171,816000,Marge Simpson,Kwik-E-Mart,Uh oh. Poonam and Uma are fighting!
+86367,334,172,819000,Apu Nahasapeemapetilon,Kwik-E-Mart,"No, no. Those are their pre-witch hunt names. Their new names are Freedom, Lincoln, Condoleeza, Coke, Pepsi, Manifest Destiny, Apple Pie and Superman. And together we're the MacGillicuddys."
+86369,334,174,833000,Rev. Timothy Lovejoy,First Church of Libertyville,"Lord, give us the courage to worship the American flag. Be it on a car, a belt buckle, or on your holy person."
+86370,334,175,842000,Bart Simpson,First Church of Libertyville,Ay carumba!
+86371,334,176,844000,Lisa Simpson,First Church of Libertyville,I'd like to say something about the current climate of repression and fear.
+86373,334,178,848000,Seymour Skinner,First Church of Libertyville,"Ah, put a book in it."
+86374,334,179,849000,The Rich Texan,First Church of Libertyville,"Sit down, Saddam!"
+86375,334,180,851000,Lisa Simpson,First Church of Libertyville,"""Congress shall make no law... abridging the freedom of speech, or of the press."""
+86376,334,181,851000,Lisa Simpson,First Church of Libertyville,That's from the first Amendment to the Constitution. Thank you.
+86377,334,182,861000,Rev. Timothy Lovejoy,First Church of Libertyville,"Thank you, Lisa. I'm sure your opinion will not go unnoticed."
+86378,334,183,870000,Swat Team Leader,First Church of Libertyville,"Simpsons, you're under arrest for the violation of the Government Knows Best Act."
+86379,334,184,875000,Rev. Timothy Lovejoy,First Church of Libertyville,Martha! Play something to lighten the mood!
+86380,334,185,884000,Homer Simpson,First Church of Libertyville,BUY ME SOME PEANUTS AND CRACKERJACK... / I DON'T CARE IF... OW!
+86382,334,187,896000,Marge Simpson,Prison Cell,I can't believe they put us in jail.
+86383,334,188,898000,Lisa Simpson,Prison Cell,"It's not a jail, it's a ""reeducation center."""
+86384,334,189,899000,Bart Simpson,Prison Cell,"Well, where do you think we are?"
+86385,334,190,903000,Marge Simpson,Prison Cell,"Well, let's see, after they blindfolded us, it was left, right, left... then a three hour plane ride."
+86386,334,191,911000,Homer Simpson,Prison Cell,Do you get time off for snitching on your cellmates?
+86387,334,192,917000,Marge Simpson,Prison Cell,"You were right, Homie. We shouldn't have rocked the boat. Then none of this would have ever happened."
+86388,334,193,922000,Lisa Simpson,Prison Cell,"Well, we're not the only ones to be unjustly imprisoned. Check out all the left-wing celebrities."
+86254,334,194,930000,Elmo,Prison Cell,Elmo go to wrong fundraiser.
+86389,334,195,933000,Homer Simpson,Prison Cell,Bill Clinton? What are you doin' here?
+86390,334,196,936000,Bill Clinton,Prison Cell,I called the Republican tax cuts unwise. And I stand by it! They're unwise!
+86391,334,197,941000,Bill Clinton,Prison Cell,I want my Washington Post!
+86392,334,198,942000,Guard #1,Prison Cell,Here's your Washington Post!
+86393,334,199,944000,Guard #1,Prison Cell,"You like that, Clinton?"
+86394,334,200,945000,Guard #2,Prison Cell,You traitors pipe down! You're all here because you hate freedom!
+86395,334,201,948000,Detainee #1,Prison Cell,I'm here because I said imported wines are better than Napa Valley.
+86396,334,202,952000,Guard #2,Prison Cell,Yeah? Well why don't you take a nap-a?
+86397,334,203,955000,Detainee #3,Prison Cell,My only crime was driving a truck full of explosives in from Canada.
+86398,334,204,961000,Marge Simpson,Prison Cell,I don't know why they put the real ones in with the joke ones.
+86401,334,207,971000,U.S. Constitution,Ronald Reagan Reeducation Center,"Hello. I'm the U.S. Constitution and I'm over two hundred years old, but I'm feeling fine! I wish I could say the same for my crazy cousin, Bill O' Rights."
+86402,334,208,982000,Bill O' Rights,Ronald Reagan Reeducation Center,What I do? What I do?
+86404,334,210,988000,Marge Simpson,Ronald Reagan Reeducation Center,"Lisa, that's not funny. You believe in the Bill of Rights."
+86405,334,211,993000,Lisa Simpson,Ronald Reagan Reeducation Center,"I don't know whether it's the lack of sleep, the sodium pentathol, or that it's the only cartoon I've seen in two months. But this is what I believe in now."
+86406,334,212,1001000,Marge Simpson,Ronald Reagan Reeducation Center,"Homer, we've got to get outta here."
+86407,334,213,1003000,Homer Simpson,Ronald Reagan Reeducation Center,"Yeah, yeah. Next commercial."
+86408,334,214,1005000,Old Coot,Ronald Reagan Reeducation Center,I know a way out.
+86409,334,215,1007000,Homer Simpson,Ronald Reagan Reeducation Center,Who are you?
+86410,334,216,1008000,Old Coot,Ronald Reagan Reeducation Center,"I'm the last registered democrat. Tax and spend! Tax and spend! Now, if you want to escape, you can do it during the prison talent show tomorrow night."
+86411,334,217,1020000,Homer Simpson,Ronald Reagan Reeducation Center,I don't want to be in any stupid talent show. Not without my Tennessee walking horses.
+86412,334,218,1025000,Old Coot,Ronald Reagan Reeducation Center,"Well, you've got no choice. It's the only way you'll achieve your goal. Goal! Sweet, sweet goal!"
+86414,334,220,1038000,Bill Clinton,Prison Auditorium,"Nineety-seven, Ninety-eight, ninety-nine, one hundred."
+86415,334,221,1043000,Bill Clinton,Prison Auditorium,"Thank you. Vote for me for ""Best In Show""!"
+86417,334,222,1045000,Old Coot,Prison Auditorium,"You guys are on after Al Franken, so the guards will have used up most of their bullets. Make your break at the end of your act."
+86418,334,223,1056000,Homer Simpson,Prison Auditorium,"Now, people have accused this family of not loving our country. But you can't spell U.S.A. without us... eh?"
+86419,334,224,1066000,Lisa Simpson,Prison Auditorium,O BEAUTIFUL / FOR SPACIOUS SKIES / FOR AMBER WAVES OF GRAIN...
+86420,334,225,1082000,Homer Simpson,Prison Auditorium,FIFTY STARS AND THIRTEEN STRIPES...
+86421,334,226,1085000,Marge Simpson,Prison Auditorium,"OKAY, KIDS SHOW OFF YOUR PIPES..."
+86422,334,227,1088000,Bart Simpson,Prison Auditorium,"AMERICANS ARE / BRAVE AND LOYAL / SO C'MON JERKS, GIVE US YOUR OIL..."
+86423,334,228,1094000,Lisa Simpson,Prison Auditorium,"MY CARD HERE SAYS ""ACLU"" / NOW LOOK WHAT I'M GOING TO DO..."
+86424,334,229,1104000,Homer Simpson,Prison Auditorium,TO LOVE OUR COUNTRY IS NO CHORE...
+86425,334,230,1108000,Marge Simpson,Prison Auditorium,WAIT RIGHT HERE FOR OUR ENCORE...
+86426,334,231,1117000,Homer Simpson,Prison Auditorium,"We mean it, don't move."
+86427,334,232,1121000,Young Guard,Prison Auditorium,They've escaped!
+86429,334,234,1123000,Homer Simpson,Tunnel,"OKAY, KIDS SHOW OFF YOUR PIPES..."
+86430,334,235,1126000,Bart Simpson,Tunnel,"Dad, why are you still singing that stupid song?"
+86431,334,236,1129000,Homer Simpson,Tunnel,"Because if they catch us, we may have to do it again. And this time I want it tight!"
+86433,334,238,1137000,Homer Simpson,Springfield Prison,What genius put a prison on the middle of an island?
+86434,334,239,1140000,Marge Simpson,Springfield Prison,Does everyone remember their swimming lessons?
+86435,334,240,1142000,Homer Simpson,Springfield Prison,Yes.
+86436,334,241,1142000,Lisa Simpson,Springfield Prison,Yes.
+86437,334,242,1143000,Bart Simpson,Springfield Prison,No.
+86438,334,243,1144000,Homer Simpson,Springfield Prison,"Great, dive in."
+86439,334,244,1150000,Guard #1,Springfield Prison,Hold your fire -- that walrus will eat them.
+86440,334,245,1153000,Guard #2,Springfield Prison,"No, that's the dad."
+86441,334,246,1154000,Guard #1,Springfield Prison,But he's eating a seal.
+86443,334,248,1158000,Lisa Simpson,Ocean,Swim toward San Francisco!
+86444,334,249,1161000,Homer Simpson,Ocean,I'm not made of money! We'll swim to Oakland.
+86445,334,250,1165000,Marge Simpson,Ocean,There's a ship! We're saved!
+86446,334,251,1167000,Homer Simpson,Ocean,"Oh, what's the use? Even if they pick us up, we'll go back to jail 'cause they think we hate America. I don't want to end up like Elmo, hanging himself in prison."
+86447,334,252,1176000,Captain,Ocean,"Mes amis, we hate America too! Come to France and we shall mock the country that saved us twice from the Germans."
+86449,334,253,1187000,Marge Simpson,Ocean,"Oh, I've always wanted to go to France. Your women don't age -- like Catherine Deneuve."
+86450,334,254,1192000,Captain,Ocean,"Eh, you wait 'til you see her up close. Then you tell me."
+86452,334,256,1198000,Lisa Simpson,Eiffel Tower,"Maman, please pass ze baguette."
+86453,334,257,1200000,Marge Simpson,Eiffel Tower,The food is so delicious here. And these Chanel suits are five for a dollar! I'm using a jacket as a napkin.
+86454,334,258,1209000,Homer Simpson,Eiffel Tower,And here no one calls me a fat jerk... I'm a gourmand!
+86455,334,259,1216000,Marge Simpson,Eiffel Tower,"And yet, I miss America."
+86456,334,260,1219000,Lisa Simpson,Eiffel Tower,"I miss America, too. The United States has its grandeur and its follies, but mostly it's the place where all our stuff is."
+86457,334,261,1227000,Marge Simpson,Eiffel Tower,"I wish we could go back, but I don't think we're welcome there."
+86458,334,262,1231000,Homer Simpson,Eiffel Tower,"No, Marge, there's one group that's always welcome in America: immigrants without I.D."
+86461,334,265,1239000,Homer Simpson,Ship,"Well, kids, this is the first chapter of our brand new lives... in America."
+86462,334,266,1245000,Immigration Officer,Ship,Name?
+86463,334,267,1245000,Homer Simpson,Ship,Simpson.
+86464,334,268,1246000,Immigration Officer,Ship,"From now on, you're the Simps!"
+86465,334,269,1248000,Homer Simpson,Ship,"Ooh, that'll save some time."
+86466,334,270,1249000,Homer Simpson,Ship,"Now, kids, it'll take us a while to assimilate. I'll start out as a cop, and then, with time, become a dirty cop."
+86467,334,271,1255000,Marge Simpson,Ship,"I think I'm going to like this ""America."""

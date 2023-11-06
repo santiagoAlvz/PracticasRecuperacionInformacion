@@ -1,0 +1,228 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+18802,97,5,71000,Homer Simpson,Simpson Home,"See because of me, now they have a warning."
+18803,97,6,74000,Bart Simpson,Simpson Home,"Hey, Dad... sell you these for fifty bucks."
+18804,97,7,76000,Homer Simpson,Simpson Home,Woo hoo! Sold!
+18805,97,8,79000,Marge Simpson,Simpson Home,"Those aren't tickets to the game, Homer."
+18806,97,9,81000,Homer Simpson,Simpson Home,"What do you mean? It says right here: ""Free wig with every purchase of large wig. Downtown Wig Center."" Why you little... Hmmm... Free wig."
+18807,97,10,92000,Homer Simpson,Simpson Home,"I love you, Homey. Heh, heh, heh. I don't need her at all anymore."
+18809,97,12,99000,Homer Simpson,STADIUM BOX OFFICE,"Heh-heh-heh, I did it. Second in line and all I had to do was miss eight days of work."
+18811,97,13,117000,"""Just Stamp the Ticket"" Man",STADIUM BOX OFFICE,"With the money you would have made working, you could've bought tickets from a scalper."
+18812,97,14,119000,Homer Simpson,STADIUM BOX OFFICE,"In theory, yes. Jerk."
+18813,97,15,121000,First Guy In Line,STADIUM BOX OFFICE,"Give me uh, thirty-thousand tickets."
+18814,97,16,124000,Ticket Seller,STADIUM BOX OFFICE,"That'll be nine hundred and fifty thousand dollars, please."
+18815,97,17,127000,First Guy In Line,STADIUM BOX OFFICE,"Look, the thing about that is, I only got ten dollars on me. Can I pay you the rest later?"
+18816,97,18,130000,Ticket Seller,STADIUM BOX OFFICE,Sure.
+18818,97,20,137000,Bill,Springfield Street,"That was Bobby McFerrin's new one, ""I'm Worried, Need Money!"" Okay, if you want two tickets to the big Pigskin Classic just get to a phone and be our thirteenth caller!"
+18819,97,21,153000,Homer Simpson,Springfield Street,Get tickets. Must get tickets. Find phone. Yes!
+18820,97,22,160000,Homer Simpson,Springfield Street,Oh stupid sheep.
+18823,97,25,164000,Bill,Springfield Nuclear Power Plant,Still waiting for that caller.
+18824,97,26,164000,Marty,Springfield Nuclear Power Plant,"Oh, we have a winner! What's your name, sir?"
+18825,97,27,171000,Ned Flanders,Springfield Nuclear Power Plant,Ned Flanders...
+18826,97,28,171000,Homer Simpson,Springfield Nuclear Power Plant,"Not Flanders. Anybody, but Flanders."
+18827,97,29,174000,Ned Flanders,Springfield Nuclear Power Plant,"Oh golly, if that doesn't put the shaz in shazam. Oh listen, what's the cash value of those tickets so I can report it on my income tax?"
+18828,97,30,181000,Eddie Money,Springfield Nuclear Power Plant,I'VE GOT TWO TICKETS TO PARADISE / WON'T YOU PACK YOUR BAGS TO LEAVE TONIGHT /
+18829,97,31,190000,Homer Simpson,Springfield Nuclear Power Plant,I'VE GOT TWO TICKETS TO PARADISE / I'VE GOT TWO TICKETS TO PARADISE...
+18830,97,32,199000,Homer Simpson,Springfield Nuclear Power Plant,Excellent guitar riff.
+18832,97,34,213000,Homer Simpson,Simpson Home,Why am I such a loser? Why?
+18833,97,35,216000,Bart Simpson,Simpson Home,"Well, your father was a loser. And his father. And his father. It's genetic, man."
+18834,97,36,222000,Lisa Simpson,Simpson Home,What's so special about this game anyway? It's just another chapter in the pointless rivalry between Springfield and Shelbyville. They built a mini mall so we built a bigger mini mall. They made the world's largest pizza so we burnt down their city hall.
+18835,97,37,235000,Homer Simpson,Simpson Home,"Heh, heh, heh. Yeah they swore they'd get us back by spiking our water supply. But they didn't have the guts."
+18837,97,39,244000,Marge Simpson,KITCHEN,"Oooh, the walls are melting again."
+18810,97,40,248000,Chicken,KITCHEN,"Personally, I think I'm overdone."
+18838,97,42,256000,Homer Simpson,Simpson Living Room,"God, if you really are God, you'll get me tickets to that game."
+18839,97,43,256000,Ned Flanders,Simpson Living Room,"Hidilly ho, neighbor. Wanna go to the game with me? I got two tic..."
+18840,97,44,266000,Homer Simpson,Simpson Living Room,"Why do you mock me, oh Lord?"
+18841,97,45,269000,Marge Simpson,Simpson Living Room,"Homer, that's not God, that's just a waffle that Bart tossed up there."
+18842,97,46,274000,Homer Simpson,Simpson Living Room,I know I shouldn't eat thee but... Mmmm... sacri-licious.
+18844,97,48,278000,Marge Simpson,Flanders Home,Homer!
+18845,97,49,288000,Homer Simpson,Flanders Home,Huh?
+18846,97,50,288000,Marge Simpson,Flanders Home,Are you planning to hit Ned Flanders with that pipe and take his tickets?
+18847,97,51,291000,Homer Simpson,Flanders Home,Y- No.
+18848,97,52,296000,Homer Simpson,Flanders Home,"Flanders, I decided I'd like to go to the game with you."
+18849,97,53,300000,Ned Flanders,Flanders Home,"Well, get out the Crayolas and color me tickled pink! Oh, what's with the lead pipe? Were you gonna give my noggin a floggin'?"
+18850,97,54,307000,Homer Simpson,Flanders Home,"Well, yeah."
+18852,97,56,307000,Homer Simpson,Parking Lot,Duck! I can't let the boys see me with you!
+18853,97,57,317000,Ned Flanders,Parking Lot,What?
+18854,97,58,317000,Homer Simpson,Parking Lot,Hi.
+18855,97,59,320000,Lenny Leonard,Parking Lot,"Hey look, Homer's got one of those robot cars."
+18856,97,60,323000,Carl Carlson,Parking Lot,One of those American robot cars.
+18859,97,63,328000,C. Montgomery Burns,SPRINGFIELD LOCKER ROOM,"Men, there's a little crippled boy sitting in the hospital who wants you to win this game. I know because I crippled him myself to inspire you."
+18861,97,65,338000,Milhouse Van Houten,Hospital,"Well I hope they win, or Mr. Burns said he's coming back."
+18863,97,67,346000,Ned Flanders,STADIUM,"Wow, these are amazing seats, huh Homer?"
+18864,97,68,349000,Homer Simpson,STADIUM,Yeah.
+18865,97,69,353000,Homer Simpson,STADIUM,"Hey everybody, here comes fun!"
+18866,97,70,355000,Homer Simpson,STADIUM,Heh heh. Ow.
+18867,97,71,358000,Mayor Joe Quimby,STADIUM,"I'll take two dogs, two sodas and uh two ice cream bars."
+18868,97,72,369000,Mayor Joe Quimby,STADIUM,What the hell happened to my dogs? I want answers.
+18869,97,73,375000,Homer Simpson,STADIUM,"Well, I guess I should pay my share..."
+18870,97,74,377000,Ned Flanders,STADIUM,"Relax, Homer, I keep tellin' ya, you're my guest."
+18871,97,75,381000,Homer Simpson,STADIUM,"Ooh, you brought me a nacho hat. Thanks, Ned."
+18872,97,76,388000,Homer Simpson,STADIUM,"NACHO, NACHO MAN / I WANT TO BE A NACHO MAN."
+18873,97,77,405000,Homer Simpson,STADIUM,"If anyone can pull it off, it's Stan ""The Boy"" Taylor."
+18874,97,78,408000,Crowd,STADIUM,"Stan, Stan, he's our boy, if he can't do it, no one ...will."
+18875,97,79,419000,Homer Simpson,STADIUM,"We won! We won! Flanders, we won!"
+18876,97,80,432000,Ned Flanders,STADIUM,"Heh-heh, yeah."
+18877,97,81,437000,Homer Simpson,STADIUM,"Losers! Losers! Kiss my big Springfield behind, Shelbyville!"
+18878,97,82,442000,Homer Simpson,STADIUM,I am invincible! Invincible!
+18879,97,83,447000,Homer Simpson,STADIUM,Ow!
+18881,97,85,450000,Homer Simpson,LOCKER ROOM EXIT,"Hey, somebody sign an autograph. Please, somebody!? Sign an autograph. Hey, would you sign... You fat, stupid jerks!"
+18882,97,86,460000,Homer Simpson,LOCKER ROOM EXIT,It was him!
+18883,97,87,462000,Stan,LOCKER ROOM EXIT,Ned? Is that...? Ned Flanders?
+18884,97,88,465000,Ned Flanders,LOCKER ROOM EXIT,"Hidilly ho, Stanster."
+18885,97,89,467000,Homer Simpson,LOCKER ROOM EXIT,You know Stan Taylor?
+18886,97,90,469000,Stan,LOCKER ROOM EXIT,"Know me? Ned Flanders saved me. I used to party all night and sleep with lingerie models, until Ned and his Bible group showed me that I could have more."
+18887,97,91,479000,Homer Simpson,LOCKER ROOM EXIT,Professional athletes. Always wantin' more.
+18888,97,92,483000,Stan,LOCKER ROOM EXIT,"Ned, they gave me the game ball. I want you to have it."
+18889,97,93,486000,Ned Flanders,LOCKER ROOM EXIT,"Stan, tell you what -- Homer Simpson here is just about the biggest Atom fan that's ever graced God's green earth. I bet he'd enjoy it, even more than me."
+18890,97,94,494000,Stan,LOCKER ROOM EXIT,Sure. Anything for Neddie. Here you go.
+18891,97,95,496000,Homer Simpson,LOCKER ROOM EXIT,"Wow, thanks. Now I have four children. You will be called ""Stitch-face."" Wow, Flanders, this is about the nicest thing anyone's ever done for me."
+18893,97,97,510000,Ned Flanders,Parking Lot,"Ooo, I guess it's time for me to duck again."
+18894,97,98,513000,Homer Simpson,Parking Lot,No! I want everyone to know that this is Ned Flanders... my friend!
+18895,97,99,519000,Lenny Leonard,Parking Lot,What'd he say?
+18896,97,100,519000,Carl Carlson,Parking Lot,I dunno. Somethin' about being gay.
+18899,97,103,531000,Marge Simpson,Simpson Living Room,"Homer, that's our wedding photo."
+18900,97,104,533000,Homer Simpson,Simpson Living Room,"Marge, quit livin' in the past."
+18903,97,106,533000,Ned Flanders,Simpson Living Room,"Heydilly ho, window buddy. Just wonderin' if you'd like to come over and give the new pool table a whirl."
+18904,97,107,540000,Homer Simpson,Simpson Living Room,I'll be there. And this time you can be the nacho man.
+18905,97,108,547000,Lisa Simpson,Simpson Living Room,"Dad and Ned Flanders friends? What's next... ""A's"" on Bart's report card?"
+18906,97,109,556000,Bart Simpson,Simpson Living Room,Hey.
+18908,97,111,560000,Ned Flanders,FLANDERS' REC ROOM,"Uh, be careful there, Homer. That is sort of a new table."
+18909,97,112,563000,Homer Simpson,FLANDERS' REC ROOM,"Watch this, Ned. They don't call me Springfield Fats just because I'm morbidly obese."
+18910,97,113,569000,Homer Simpson,FLANDERS' REC ROOM,Now you got a law suit on your hands. Just kidding.
+18911,97,114,576000,Father,FLANDERS' REC ROOM,"What's wrong, Jeremiah?"
+18912,97,115,576000,Jeremiah,FLANDERS' REC ROOM,It's not fair. My brother Joseph has a sin to confess. I wish I had one too.
+18913,97,116,584000,Father,FLANDERS' REC ROOM,Oh don't you see? You do have a sin to confess - the sin of envy.
+18914,97,117,591000,Todd Flanders,FLANDERS' REC ROOM,"That's all well and good for sheep, but what are we to do?"
+18915,97,118,598000,Homer Simpson,FLANDERS' REC ROOM,Boring. Let's watch something else.
+18916,97,119,598000,Todd Flanders,FLANDERS' REC ROOM,Aw.
+18917,97,120,601000,Ned Flanders,FLANDERS' REC ROOM,"Now, boys, Mr. Simpson is the guest. He gets to decide what to watch."
+18918,97,121,605000,Homer Simpson,FLANDERS' REC ROOM,Yeah.
+18919,97,122,605000,Homer Simpson,FLANDERS' REC ROOM,Hey what gives? I thought you had a satellite dish.
+18920,97,123,611000,Ned Flanders,FLANDERS' REC ROOM,Sure didilly do. Over two hundred and thirty channels locked out.
+18921,97,124,615000,Maude Flanders,FLANDERS' REC ROOM,"Okay, boys, time for bed. Say good night."
+18922,97,125,618000,Todd Flanders,FLANDERS' REC ROOM,"Good night, Daddy. Good night, Uncle Homer."
+18923,97,126,621000,Homer Simpson,FLANDERS' REC ROOM,"Aw, Uncle Homer. Ned, since you've let me spend time with your family, I want you to get to know my family."
+18925,97,128,634000,Homer Simpson,Moe's Tavern,Hey everyone!
+18927,97,130,636000,Homer Simpson,Moe's Tavern,"I'd like to introduce Ned Flanders, my best friend."
+18928,97,131,640000,Moe Szyslak,Moe's Tavern,"Hey, I don't want no people in here with their evils of alcohol rap."
+18929,97,132,643000,Ned Flanders,Moe's Tavern,Wait a second. You're the man at the hospital who reads to sick children.
+18931,97,134,649000,Moe Szyslak,Hospital Room,... And truly she was my friend Flicka.
+18932,97,135,649000,Moe Szyslak,Hospital Room,"If this gets out, the next words you say will be muffled by your own butt."
+18934,97,138,659000,Marge Simpson,Simpson Home,"Honey, I'm so glad you're home--"
+18935,97,139,659000,Homer Simpson,Simpson Home,Can't talk... see Flanders... later sex.
+18938,97,142,663000,Ned Flanders,Flanders' Dining Room,"...Bless the grocer for this wonderful meat, the middlemen who jacked up the price, and let's not forget the humane but determined boys over at the slaughter house."
+18939,97,143,674000,Homer Simpson,Flanders' Dining Room,"Hiya, Flanders! Oooh... dinner! May I join you?"
+18940,97,144,682000,Ned Flanders,Flanders' Dining Room,"Homer, I-I'd love to chitty-chat, but tonight's the night I do my charity work."
+18941,97,145,688000,Homer Simpson,Flanders' Dining Room,"Oh, yeah. A judge made me do that once, too. Stupid lack of public urinals. Hey, just so you don't have to suffer alone, I'm comin' with ya."
+18942,97,146,697000,Ned Flanders,Flanders' Dining Room,Oh... well... that sounds super duper.
+18944,97,148,708000,Priest,SHELTER,"Oh, you poor, unfortunate man. Let's get you out of those clothes immediately. And we'll do whatever we can about the smell."
+18945,97,149,715000,Homer Simpson,SHELTER,But... all right.
+18946,97,150,717000,Homer Simpson,SHELTER,C'mon! We've been here for fifteen minutes. Can't you see they're sucking the life out of us?
+18947,97,151,724000,Ned Flanders,SHELTER,"Homer, maybe you'd have had more fun at Moe's tonight."
+18948,97,152,728000,Homer Simpson,SHELTER,"Ah, for some reason, Moe's is always closed on Wednesdays."
+18949,97,153,732000,Moe Szyslak,SHELTER,"...And then they realized they were no longer little girls, they were little women."
+18950,97,154,737000,Homer Simpson,SHELTER,"Come on, come on, just give 'em the slop and lets get out of here. Oh, I can do it faster that that."
+18951,97,155,753000,Reporter,SHELTER,Wow! Look at that enthusiasm! This is front page material!
+18953,97,157,760000,Marge Simpson,Simpson Living Room,"Homey, I'm very proud of you, but don't you think you're spending too much time with Ned? Your family needs you too."
+18954,97,158,767000,Homer Simpson,Simpson Living Room,"Oh of course you'd say something like that, Marge. You've hated Ned for years. In fact, you wanted to bash his head in with a pipe."
+18955,97,159,774000,Marge Simpson,Simpson Living Room,That was you!
+18956,97,160,774000,Homer Simpson,Simpson Living Room,"Love, Marge. Don't hate. Love."
+18957,97,161,778000,Bart Simpson,Simpson Living Room,"The Flanders are a buncha geeks, man."
+18959,97,162,780000,Homer Simpson,Simpson Living Room,"The Flanderses are not geeks! Okay, Rod and Todd are... and the wife has a thing for me, but she hides it behind a mask of low key hostility. But we've got to give this thing a chance. I want the two families to take a trip together this weekend."
+18960,97,163,794000,Bart Simpson,Simpson Living Room,"No way, José !"
+18961,97,164,794000,Homer Simpson,Simpson Living Room,Yes way.
+18962,97,165,796000,Lisa Simpson,Simpson Living Room,"Don't worry, Bart. It seems like every week something odd happens to the Simpsons. My advice is to ride it out, make an occasional smart-alec quip and by next week we'll be back to where we started from, ready for another wacky adventure."
+18963,97,166,807000,Bart Simpson,Simpson Living Room,Ay caramba!
+18964,97,167,807000,Lisa Simpson,Simpson Living Room,That's the spirit.
+18967,97,170,811000,Homer Simpson,FLANDERS' STATION WAGON- DAY,"Don't worry, I brought my Rappin' Ronnie Reagan tape. It always makes the trip go faster."
+18968,97,171,817000,Rappin' Ronnie,FLANDERS' STATION WAGON- DAY,WELL\WELL\WELL...W-W-W-WELL\WELL\WELL...
+18969,97,172,821000,Homer Simpson,FLANDERS' STATION WAGON- DAY,"Ha, ha. You know something, he did say 'well' a lot."
+18970,97,173,826000,Rappin' Ronnie,FLANDERS' STATION WAGON- DAY,WELL\WELL\WELL\ W-W-W-\WELL\ WELL\WELL\WELL\WELL\WELL
+18973,97,176,833000,Homer Simpson,Boat Launch,"More. No, no, keep comin'. More... more... right there! Let her go!"
+18974,97,177,841000,Homer Simpson,Boat Launch,"Okay, let's go boating!"
+18976,97,179,845000,Ned Flanders,Lake,"How are my boys doin', Homer?"
+18977,97,180,845000,Homer Simpson,Lake,They're fine.
+18979,97,182,849000,Marge Simpson,Campsite,There. I hope the children enjoy my special fruit punch.
+18980,97,183,853000,Lisa Simpson,Campsite,We got the recipe from the Fruit Punch Advisory Board.
+18981,97,184,856000,Maude Flanders,Campsite,"Oh gosh, I'm sorry, our boys don't eat sugar."
+18982,97,185,858000,Marge Simpson,Campsite,"But, why would the Advisory Board give us bad advice?"
+18983,97,186,862000,Maude Flanders,Campsite,No sugar!
+18985,97,188,862000,Rod Flanders,Campsite,"Thank you, but we're not allowed."
+18986,97,189,867000,Bart Simpson,Campsite,"Aw it's okay, there's no sugar in pixie sticks. Trust me."
+18987,97,190,871000,Rod Flanders,Campsite,Okay.
+18988,97,191,875000,Rod Flanders,Campsite,"Don't hog it all, smellyhead!"
+18989,97,192,875000,Todd Flanders,Campsite,"Go to hell, zit face!"
+18992,97,194,878000,Homer Simpson,Campsite,"I'd like to propose a toast to the coming together of the Simpsons and the Flanders. If this were a more perfect world, we'd all be known as the Flimpsons."
+18993,97,195,895000,Homer Simpson,Campsite,"So, here's to my best friend, Ned."
+18994,97,196,900000,Ned Flanders,Campsite,"Eh, well sir. My entire family is very touched and--"
+18995,97,197,906000,Homer Simpson,Campsite,Food fight!
+18996,97,198,906000,Bart Simpson,Campsite,Yeah!
+18998,97,200,916000,Homer Simpson,Parking Lot,Whatcha doin'?
+18999,97,201,916000,Ned Flanders,Parking Lot,We're headin' back. Todd's got Zesty Italian in his eye.
+19000,97,202,922000,Homer Simpson,Parking Lot,Okay. But at least let me take the boat out for one last spin!
+19001,97,203,926000,Ned Flanders,Parking Lot,"Oh, I don't know..."
+19002,97,204,926000,Homer Simpson,Parking Lot,Too late.
+19003,97,205,928000,Ned Flanders,Parking Lot,"Oh Lord, please give me the strength to endure Homer Simpson's friendship."
+19004,97,206,932000,Homer Simpson,Parking Lot,"Humph, your car. Boy, what are the odds, huh?"
+19005,97,207,940000,Dr. Julius Hibbert,Parking Lot,Cheers to Homer Simpson for all his recent charity work.
+19006,97,208,947000,Dr. Julius Hibbert,Parking Lot,Jeers to this rusty tailgate.
+19008,97,210,951000,Ned Flanders,UNIVERSITY CLOCK TOWER,There's Homer. There's Homer too. That's also Homer. That's Homer.
+19010,97,212,971000,Maude Flanders,Flanders Master Bedroom,"What's the matter, Ned?"
+19011,97,213,976000,Ned Flanders,Flanders Master Bedroom,I -- I think I hate Homer Simpson.
+19014,97,216,976000,Homer Simpson,Simpson Master Bedroom,"Marge! I think I hate Ted Koppel. No wait, I find him informative and witty. 'Nite."
+19016,97,218,989000,Todd Flanders,FLANDERS' DRIVEWAY,Off the rim!
+19017,97,219,989000,Ned Flanders,FLANDERS' DRIVEWAY,Oh! Almost. Boy that was close.
+19018,97,220,999000,Homer Simpson,FLANDERS' DRIVEWAY,"Hey, what's up for today, Neddie?"
+19019,97,221,1002000,Ned Flanders,FLANDERS' DRIVEWAY,"Ah, uh, Homer, we're gonna visit the boys' grandmother. Family only. You know?"
+19020,97,222,1008000,Homer Simpson,FLANDERS' DRIVEWAY,"Right, no reporters."
+19021,97,223,1010000,Ned Flanders,FLANDERS' DRIVEWAY,"No, I-I mean just the Flanders family."
+19022,97,224,1014000,Homer Simpson,FLANDERS' DRIVEWAY,O-okay.
+19023,97,225,1019000,Rod Flanders,FLANDERS' DRIVEWAY,Oh boy! Gramma!
+19024,97,226,1022000,Ned Flanders,FLANDERS' DRIVEWAY,We're not going anywhere.
+19025,97,227,1022000,Todd Flanders,FLANDERS' DRIVEWAY,But you said.
+18958,97,228,1024000,Ned Flanders,FLANDERS' DRIVEWAY,"Sometimes to keep from hurting someone's feelings, we have to say things that aren't exactly..."
+18991,97,229,1029000,Todd Flanders,FLANDERS' DRIVEWAY,Lies made baby Jesus cry.
+19028,97,231,1029000,Homer Simpson,Flanders Home,"Neddie, Neddie... Let's get in a quick nine down at the pitch and putt."
+19029,97,232,1043000,Homer Simpson,Flanders Home,Neddie? NEDDDDIEEE!
+19031,97,234,1049000,Rod Flanders,Springfield Street,He's gaining on us!
+19032,97,235,1051000,Todd Flanders,Springfield Street,I'm scared!
+19033,97,236,1051000,Maude Flanders,Springfield Street,C'mon Ned! Move this thing!
+19034,97,237,1055000,Ned Flanders,Springfield Street,"I can't, it's a Geo!"
+19035,97,238,1057000,Homer Simpson,Springfield Street,Hmmm. Guess he didn't see me.
+19036,97,239,1069000,Ned Flanders,Springfield Street,"We did it, we got rid of..."
+19038,97,241,1072000,Ned Flanders,Roadside,"I told you, officer. I'm not ""hepped up"" on ""goof balls."""
+19039,97,242,1081000,Chief Wiggum,Roadside,Yeah right.
+19040,97,243,1083000,Rev. Timothy Lovejoy,Roadside,"Ned Flanders, I never would have imagined."
+19041,97,244,1092000,Chief Wiggum,Roadside,"High as a kite, everybody! Goofballs--"
+19042,97,245,1098000,Chief Wiggum,Roadside,"Where's your messiah now, Flanders?"
+19044,97,247,1101000,Ned Flanders,FIRST CHURCH,"I can't do it, Maude. I can't face their accusing eyes."
+19045,97,248,1111000,Maude Flanders,FIRST CHURCH,"Oh don't worry, Ned, this is a house of love and forgiveness."
+19046,97,249,1117000,Voice #1,FIRST CHURCH,"There he is, Ned Flanders."
+19047,97,250,1117000,Voice #2,FIRST CHURCH,The fallen one.
+19048,97,251,1120000,Voice #3,FIRST CHURCH,The evil one.
+19049,97,252,1120000,Voice #4,FIRST CHURCH,"I'll bet he's the one who wrote ""Homer"" all over the bathroom."
+19050,97,253,1123000,Ned Flanders,FIRST CHURCH,I think we should leave.
+19051,97,254,1125000,Homer Simpson,FIRST CHURCH,"Hey Flanders, over here. I got us some kick-ass seats."
+19052,97,255,1129000,Rev. Timothy Lovejoy,FIRST CHURCH,"Before I get started on today's sermon entitled , ""What Ned Did,"" I'd like to publicly congratulate Homer Simpson on his recent charity work."
+19053,97,256,1147000,Homer Simpson,FIRST CHURCH,I live to give.
+19054,97,257,1152000,Rev. Timothy Lovejoy,FIRST CHURCH,"That's beautiful. We appreciate the kisses. Now, let us bow our heads in a silent prayer of thanksgiving."
+19055,97,258,1164000,Ned Flanders,FIRST CHURCH,Stop it! Breathe through your damn mouth!
+19056,97,259,1179000,Ned Flanders,FIRST CHURCH,"Oh can't you see this man isn't a hero! He's annoying. He's very, very annoying!"
+19057,97,260,1187000,Helen Lovejoy,FIRST CHURCH,Well Ned Flanders is just jealous!
+19058,97,261,1189000,Moe Szyslak,FIRST CHURCH,"Aw, the guy's hepped up on ""goof balls!"""
+19059,97,262,1191000,Grampa Simpson,FIRST CHURCH,"Let's sacrifice him to our god! C'mon, we did it all the time in the thirties."
+19061,97,264,1198000,Homer Simpson,FIRST CHURCH,"Stop it! Stop it! Stop it! How dare you talk about Ned Flanders like that! He's a wonderful, kind, caring man. Maybe even more so than me. There have been times when I've lost patience with him, even lashed out at him. But this man has turned every cheek on his body. If everyone here were like Ned Flanders, there'd be no need for heaven. We'd already be there."
+19062,97,265,1234000,Rev. Timothy Lovejoy,FIRST CHURCH,Um... Well I think we all owe Ned a heartfelt apology. We were wrong to doubt him.
+19063,97,266,1246000,Lenny Leonard,FIRST CHURCH,"Hey, that guy's right!"
+19065,97,268,1248000,Marge Simpson,FIRST CHURCH,"That was a very nice thing you did, Homey."
+19066,97,269,1256000,Ned Flanders,FIRST CHURCH,"Thank you. Thank you so much, Homer. You really are a you're a true friend."
+19067,97,270,1262000,Homer Simpson,FIRST CHURCH,"Right back atcha, buddy."
+19068,97,271,1270000,Homer Simpson,FIRST CHURCH,Now how 'bout that game at the Pitch 'n Putt?
+19069,97,272,1273000,Ned Flanders,FIRST CHURCH,Just try and stop me.
+19070,97,273,1275000,Bart Simpson,FIRST CHURCH,"I don't get it, Lis. You said everything would be back to normal, but Homer and Flanders are still friends."
+19071,97,274,1281000,Lisa Simpson,FIRST CHURCH,Yeah. Maybe this means the end of our wacky adventures.
+19073,97,276,1289000,Homer Simpson,Simpson Home,"Guess what, everyone?! My great uncle Boris died and left us his old country house. There's only one catch they say - it's haunted. But I'm sure we can prove him wrong by spending the weekend there."
+19074,97,277,1300000,Ned Flanders,Simpson Home,"Hi-diddly ho, neighbor."
+19075,97,278,1300000,Homer Simpson,Simpson Home,"Get lost, Flanders."
+19076,97,279,1303000,Ned Flanders,Simpson Home,Okilly-dokilly.
+19077,97,280,1307000,Homer Simpson,Simpson Home,"See, I told ya. There's nothin' to worry about. This place isn't..."

@@ -1,0 +1,221 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+104033,401,2,28000,C. Montgomery Burns,Springfield Mall,"All right, next on my shopping list...a new phone!"
+104034,401,3,64000,Store Announcer,Springfield Mall,Attention shoppers: iPhones now twenty cents.
+104035,401,4,66000,Waylon Smithers,Springfield Mall,"What happened to that mini-cell phone I gave you, sir?"
+104036,401,5,70000,C. Montgomery Burns,Springfield Mall,"Ooh, I thought that was a lemon drop."
+104037,401,6,75000,Waylon Smithers,Springfield Mall,I'll go get the number de-listed.
+104038,401,7,82000,C. Montgomery Burns,Springfield Mall,"Well, well. What have we here?"
+104039,401,8,88000,C. Montgomery Burns,Springfield Mall,"Why do I need another penny? I have billions. Still, if I don't take it, that hoodlum over there might."
+104041,401,10,96000,C. Montgomery Burns,Springfield Mall,"All right penny, prepare to be pinched!"
+104042,401,11,99000,C. Montgomery Burns,Springfield Mall,Come to papa!
+104043,401,12,105000,C. Montgomery Burns,Springfield Mall,Help... me! Help... me! Help... me!
+104045,401,14,115000,Mr. Burns's Thoughts,Springfield Mall,I guess this is the end. I just wish I'd spent more time at the office.
+104046,401,15,122000,Homer Simpson,Springfield Mall,"Hey, you're not a penny."
+104047,401,16,130000,C. Montgomery Burns,Springfield Mall,You saved my life. There must be something I can do for you...
+148587,401,17,133000,Homer's Brain,Springfield Mall,"A cookie! No, a car! No, a cookie!"
+104048,401,18,135000,C. Montgomery Burns,Springfield Mall,You're getting a free dinner...
+104050,401,20,137000,C. Montgomery Burns,Springfield Mall,...with...
+104052,401,22,138000,C. Montgomery Burns,Springfield Mall,...me!
+104053,401,23,139000,Homer Simpson,Springfield Mall,"""Me?"" But that's you!"
+104054,401,24,141000,C. Montgomery Burns,Springfield Mall,I'll pick you up at five tomorrow. And I'll pick you up right now.
+104055,401,25,149000,C. Montgomery Burns,Springfield Mall,Got it!
+104056,401,26,150000,Homer Simpson,Springfield Mall,Uh-huh. See you at five then.
+104058,401,28,154000,Homer Simpson,Simpson Home,"Dinner with Mr. Burns! What a waste of my precious, precious Saturday night."
+104059,401,29,159000,Bart Simpson,Simpson Home,"Hey Dad, have fun with your boyfriend."
+104060,401,30,161000,Homer Simpson,Simpson Home,He is not my boyfriend!
+104062,401,32,164000,C. Montgomery Burns,Burns's Car,"So Simpson, I hear you like pizza pie."
+104063,401,33,168000,Homer Simpson,Burns's Car,I do.
+104064,401,34,169000,Homer Simpson,Burns's Car,My favorite is Chicago deep dish.
+104065,401,35,171000,C. Montgomery Burns,Burns's Car,"Chicago, eh? Well what if I took us there now?"
+104066,401,36,175000,Homer Simpson,Burns's Car,Drive to Chicago? I don't have time for that. I have to be back at work on Monday. And my boss is a total jerk.
+104067,401,37,181000,C. Montgomery Burns,Burns's Car,Who said anything about drive?
+104069,401,39,183000,Homer Simpson,Car,A P-P-P-P-P-Private jet!
+104072,401,42,190000,C. Montgomery Burns,Burns's Plane,"Now, would you care for some sushi?"
+104074,401,43,193000,Homer Simpson,Burns's Plane,"Yeah, but I'm on a plane, idiot."
+104075,401,44,199000,Flight Attendant,Burns's Plane,"My name is Svetlana. But you can call me ""Hey, Baby""."
+104076,401,45,199000,C. Montgomery Burns,Burns's Plane,"And just so you know, she'll do anything for you. Anything except sex. And I do mean anything."
+104077,401,46,215000,Homer Simpson,Burns's Plane,I'm aroused and confused.
+104079,401,48,218000,Itchy,Plane,"Sorry, everyone. Air traffic control says we have to spend another three hours on the tarmac."
+104080,401,49,252000,Scratchy,Plane,Nooooo!
+104082,401,51,252000,Homer Simpson,Plane,This is wonderful.
+104083,401,52,254000,C. Montgomery Burns,Plane,"Now, why don't you listen to the musical stylings of Mr. Lionel Richie."
+104084,401,53,258000,Homer Simpson,Plane,"Oh my God... Lionel Richie?! Can you sing ""Say You Say me,"" but make it about beer?"
+104085,401,54,263000,Lionel Richie,Plane,"Sure, I guess. HEY YOU, BEER ME / BEER ME FOR ALWAYS, THAT'S THE WAY IT SHOULD BE / HEY YOU, BEER ME / BEER US TOGETHER, NATURALLY"
+104086,401,55,279000,Homer Simpson,Plane,"Now make every word ""beer."""
+104087,401,56,279000,Homer Simpson,Plane,"BEER BEER, BEER BEER / BEER BEER BEER BEER BEER..."
+104088,401,57,288000,Homer Simpson,Plane,"Um, wait, I forgot the words."
+104091,401,60,297000,Flight Attendant,CHICAGO'S MIDWAY AIRPORT,Love you.
+104093,401,62,301000,Homer Simpson,Plane,"No! If I leave the plane, I'll be just like everyone else!"
+104094,401,63,308000,Pilot,Plane,"Ground control, this is November five four three Charlie. We're gonna need the extractor."
+104096,401,65,324000,Homer Simpson,Airport,I wanna be back on the plane.
+104097,401,66,326000,C. Montgomery Burns,Airport,We'll be back before you know it.
+104098,401,67,329000,Homer Simpson,Airport,Svetlana! Svetlana!
+104100,401,69,333000,C. Montgomery Burns,Airport,Oh hush! Now let's enjoy the Miami of Canada -- Chicago!
+104102,401,71,356000,Improv Actor,Second City Theater,"Okay folks, for our first improv, we're gonna need an occupation."
+104103,401,72,360000,C. Montgomery Burns,Second City Theater,Billionaire!
+104104,401,73,360000,Improv Actor,Second City Theater,Nice job -- where do I apply?
+104105,401,74,364000,Improv Actor,Second City Theater,Now I need a location.
+104106,401,75,365000,Homer Simpson,Second City Theater,I came to relax -- you think of it!
+104107,401,76,368000,Improv Actor,Second City Theater,"I heard ""a Starbucks... in Siberia!"""
+104073,401,77,368000,Audience,Second City Theater,/ Killer premise!
+104108,401,78,372000,Improv Actor,Second City Theater,"Finally, an emotion."
+104109,401,79,374000,Homer Simpson,Second City Theater,Drunk!
+104110,401,80,375000,Improv Actor,Second City Theater,"Okay, ""drunk."" And now we take you to a drunken billionaire, at a Starbucks in Siberia."
+104111,401,81,384000,Improv Actor,Second City Theater,"Uh, excuse me -- I need a -- I need a coffee -- can you change a billion-dollar bill?"
+104112,401,82,391000,Improv Actress,Second City Theater,Our coffee costs a billion dollars. This is Starbucks! In Siberia!
+104114,401,84,400000,Homer Simpson,Second City Theater,Why are you applauding them? We wrote it!
+104116,401,86,407000,Man In Crowd,Midway Airport,"While you were here, we felt like New York!"
+104117,401,87,412000,Homer Simpson,Midway Airport,I'm so happy!
+104119,401,89,425000,Marge Simpson,Simpson Home,"Homer, you smell like Chicago. Did you fly there on a commercial airline?"
+104120,401,90,430000,Homer Simpson,Simpson Home,No way -- commercial is for losers and terrorists! I flew on a private plane.
+104121,401,91,434000,Marge Simpson,Simpson Home,Wow. Is it much different from a normal plane?
+104122,401,92,438000,Homer Simpson,Simpson Home,Please tell me you're joking -- it's the difference between champagne and carbonated pee.
+104123,401,93,444000,Marge Simpson,Simpson Home,"Homie, what's wrong?"
+104124,401,94,446000,Homer Simpson,Simpson Home,"I had it all for one night. Now for the rest of my life I'll know what I'm missing. And all I have to remember it by is that my ears haven't popped. Well, I'll make sure that I never yawn again."
+104125,401,95,456000,Ned Flanders,Simpson Home,Hey Homer!
+104127,401,97,470000,Lisa Simpson,Simpson Home,"Hi, Dad."
+104128,401,98,470000,Homer Simpson,Simpson Home,"""High?"" High like a private plane? The kind I'll never be invited to ride on again."
+104129,401,99,477000,Man,Simpson Home,"That's where you're wrong, Homer."
+104130,401,100,480000,Homer Simpson,Simpson Home,A fresh face!
+104131,401,101,481000,Marge Simpson,Simpson Home,This is Colby Krause. I hired him to help you improve your life. He'll get you back on a private plane in no time!
+104132,401,102,489000,Homer Simpson,Simpson Home,"No way. I don't need any shrink, therapist, counselor, motivational speaker or ""guru""."
+104133,401,103,490000,Colby,Simpson Home,I'm a life coach.
+104134,401,104,496000,Homer Simpson,Simpson Home,"Oh, tell me more!"
+104135,401,105,498000,Colby,Simpson Home,The first step in self-improvement is to take a thorough look at your life.
+104136,401,106,502000,Homer Simpson,Simpson Home,"If you're gonna film me, I insist on a body double."
+104137,401,107,505000,Bart Simpson,Simpson Home,Is Uncle Fester still alive?
+104138,401,108,506000,Homer Simpson,Simpson Home,"The camera's not on yet, right?"
+104139,401,109,508000,Colby,Simpson Home,No.
+104140,401,110,511000,Colby,Simpson Home,"Okay, now I just want you to do what you normally do."
+104141,401,111,516000,Homer Simpson,Simpson Home,"Okay. Uh... well uh... hm, I just uh. I forget what I do."
+104142,401,112,523000,Homer Simpson,Simpson Home,"Wait, wait. Uh, this is some of what I do, I think. Sometimes I go places."
+104143,401,113,532000,Homer Simpson,Simpson Home,This is our relish tray. I'd like you to film it for insurance purposes.
+104144,401,114,535000,Homer Simpson,Simpson Home,What's the point of putting my socks on? I just have to take them off again a week later.
+104145,401,115,542000,Colby,Simpson Home,"Homer, before you even head out the door in the morning, you're already a loser."
+104146,401,116,547000,Homer Simpson,Simpson Home,"Fine, I'll show you a winner, just you watch."
+104147,401,117,553000,Homer Simpson,Simpson Home,Think positive. Think positive.
+104148,401,118,560000,Homer Simpson,Simpson Home,You were saying...
+104149,401,119,562000,Colby,Simpson Home,"Homer, your journey downstairs would've been a lot safer if you'd remembered the N.D.C.'s of concentration: Never Don't Concentrate."
+104150,401,120,571000,Homer Simpson,Simpson Home,Will you shut up? I can't hear the song in my head!
+104151,401,121,576000,Bart Simpson,Simpson Home,Do you wanna get a reaction shot of his ass?
+104152,401,122,578000,Colby,Simpson Home,"No, but we should get some background noise."
+104153,401,123,580000,Colby,Simpson Home,"Everyone quiet for four seconds. Thank you, people. Moving on."
+104157,401,127,595000,Colby,Springfield Nuclear Power Plant,Here's an important tip: stop doing that.
+104160,401,130,600000,Homer Simpson,Barney's,I've really enjoyed paying you to yell at me and say I suck. But it's no use -- I'm a hopeless loser and always will be.
+104161,401,131,607000,Carl Carlson,Barney's,"Homer, you're up!"
+104162,401,132,608000,Homer Simpson,Barney's,This I can do!
+104163,401,133,626000,Homer Simpson,Barney's,Behold my two-seventeen average... and weep!
+104164,401,134,629000,Homer Simpson,Barney's,"As I said, I've lost all hope."
+104165,401,135,632000,Colby,Barney's,"Homer, here in the bowling alley, you're a totally different man: relaxed, confident..."
+104166,401,136,637000,Homer Simpson,Barney's,Is this going somewhere?
+104167,401,137,640000,Colby,Barney's,"What we have to do is figure a way to make ""bowling alley Homer"" into ""everyday Homer""."
+104168,401,138,640000,Lenny Leonard,Barney's,I have an aunt who became an uncle. Is it like that?
+104169,401,139,650000,Colby,Barney's,"I want you to wear those bowling shoes out the door and everywhere you go. It's crazy, but it just might work."
+104170,401,140,658000,Homer Simpson,Barney's,"Dr. Fredrick J. Waxman, you're a genius!"
+104171,401,141,661000,Colby,Barney's,That's not my name.
+104172,401,142,662000,Homer Simpson,Barney's,I wasn't talking to you.
+104173,401,143,676000,Colby,Barney's,"Homer, your shoe attitude is bowling people over. These are letters from companies interested in interviewing you!"
+104174,401,144,683000,Homer Simpson,Barney's,How many of those have private planes?
+104175,401,145,685000,Colby,Barney's,This one.
+104176,401,146,686000,Homer Simpson,Barney's,Handyman's Choice Copper Tubing?
+104177,401,147,690000,Colby,Barney's,They need a safety inspector to fly between their North American plants.
+104178,401,148,693000,Homer Simpson,Barney's,"I'm gettin' that job. Bart, I'll need some clean urine. Stat."
+104180,401,150,697000,Colby,Handyman's Choice Factory,"Now to make sure you're motivated to get this job, you have to quit your old one. I'll call your boss right now."
+104182,401,152,708000,Waylon Smithers,Burns's Office,"I'll get it, sir."
+104183,401,153,709000,C. Montgomery Burns,Burns's Office,Just set it to voice mail.
+104186,401,156,715000,The Rich Texan,HANDYMAN'S CHOICE,You here for the safety inspector job?
+104187,401,157,718000,Homer Simpson,HANDYMAN'S CHOICE,"Well, I can see the position of handsomest C.E.O. is already taken."
+104188,401,158,723000,The Rich Texan,HANDYMAN'S CHOICE,"I like you already. If you can write your name so I can read it, you're in."
+104190,401,160,729000,Homer Simpson,Simpson Home,I got the job!
+104191,401,161,731000,Lisa Simpson,Simpson Home,"Yay, Dad!"
+104192,401,162,733000,Bart Simpson,Simpson Home,We knew you could do it!
+104193,401,163,742000,Lisa Simpson,Simpson Home,"Good luck on your first day, Dad."
+104194,401,164,744000,Bart Simpson,Simpson Home,"Give 'em hell, Homer."
+104195,401,165,746000,Marge Simpson,Simpson Home,"We're all so proud of you, sweetie."
+104196,401,166,751000,Homer Simpson,Simpson Home,"I'm gonna get there early, so I can get in good with the lunch truck guy."
+104197,401,167,755000,Marge Simpson,Simpson Home,Find out if he has a wife! We could double date!
+104198,401,168,760000,Bart Simpson,Simpson Home,"Yay, Dad!"
+104199,401,169,760000,Lisa Simpson,Simpson Home,You're our hero!
+104202,401,172,774000,Squeaky-Voiced Teen,Krusty Burger,Can I help you?
+104204,401,173,776000,Homer Simpson,Krusty Burger,"Uh, yeah -- I have no job and nowhere to go. What do I have to buy so I can sit here all day?"
+104205,401,174,782000,Squeaky-Voiced Teen,Krusty Burger,"Well, with a coffee you can stay till lunch. Then you have to order a solid."
+104206,401,175,787000,Homer Simpson,Krusty Burger,"One small coffee, please. And a dozen of those placemats with the maze on it."
+104207,401,176,792000,Squeaky-Voiced Teen,Krusty Burger,They're all the same maze.
+104208,401,177,794000,Homer Simpson,Krusty Burger,Somebody's gotta do 'em.
+104210,401,179,830000,Homer Simpson,Simpson Home,Look happy.
+104211,401,180,836000,Marge Simpson,Simpson Home,"So, how was your first day at your new job?"
+104212,401,181,839000,Homer Simpson,Simpson Home,"Oh, it was great! Flew to Tulsa on the company jet. Did my job in a way consistent with what I already told you. Because that's what you do. When you have a job."
+104213,401,182,850000,Lisa Simpson,Simpson Home,"I'm so proud of you, Dad!"
+104214,401,183,851000,Homer Simpson,Simpson Home,Stop peppering me with questions!
+104216,401,185,856000,Milhouse Van Houten,Krusty Burger,"Principal Skinner, why did we have to leave the Learn and Touch Reptile Zoo so early?"
+104217,401,186,861000,Seymour Skinner,Krusty Burger,"Well, it seems someone was riding the giant tortoise naked."
+104218,401,187,865000,Otto Mann,Krusty Burger,"It's not my fault, the drinking fountain dared me to do it."
+104219,401,188,871000,Nelson Muntz,Krusty Burger,Freak fry!
+104220,401,189,873000,Milhouse Van Houten,Krusty Burger,"Look out! If it touches you, you die of suicide!"
+104222,401,191,878000,Milhouse Van Houten,Krusty Burger,Don't do it! Don't do it!
+104223,401,192,883000,Bart Simpson,Krusty Burger,Dad?
+104225,401,194,893000,Bart Simpson,Krusty Burger,"I know it's you, Homer."
+104227,401,196,898000,Bart Simpson,Krusty Burger,Why aren't you at your new job?
+104228,401,197,900000,Homer Simpson,Krusty Burger,"Well, explanation-wise, the fact is that... I lied. I didn't get the job. You see when I got there..."
+104230,401,199,908000,Homer Simpson,HANDYMAN'S CHOICE CORPORATION,"So she said that's not my ""in box"" and he said that's not the Johnson Report!"
+104231,401,200,908000,The Rich Texan,HANDYMAN'S CHOICE CORPORATION,You sure know how to repeat the joke I just told ya. But as a formality I must ask: do you know anything about copper tubing?
+104232,401,201,927000,Homer Simpson,HANDYMAN'S CHOICE CORPORATION,"Um... um...c'mon, say ""you're hired""!"
+104233,401,202,933000,The Rich Texan,HANDYMAN'S CHOICE CORPORATION,No.
+104234,401,203,934000,Homer Simpson,HANDYMAN'S CHOICE CORPORATION,Say it!
+104235,401,204,935000,The Rich Texan,HANDYMAN'S CHOICE CORPORATION,Leave your resume with Cheryl!
+104236,401,205,938000,Homer Simpson,HANDYMAN'S CHOICE CORPORATION,Say it!
+104237,401,206,939000,The Rich Texan,HANDYMAN'S CHOICE CORPORATION,Security! Security!
+104238,401,207,939000,Homer Simpson,HANDYMAN'S CHOICE CORPORATION,"Stop saying ""security""!"
+104239,401,208,943000,The Rich Texan,HANDYMAN'S CHOICE CORPORATION,"C'mon, just gimme the..."
+104241,401,210,952000,Homer Simpson,Krusty Burger,"I couldn't bear to tell your mother, so I hang out here all day."
+104242,401,211,956000,Bart Simpson,Krusty Burger,"But Dad, you've gotta tell her. She's been buying brand-name groceries."
+104243,401,212,960000,Homer Simpson,Krusty Burger,"Brands like ""Miser's Choice"" and ""Day-Old Delights?"""
+104244,401,213,963000,Bart Simpson,Krusty Burger,"No, things rich people buy, like Campbell's Soup and Pepsodent."
+104246,401,215,973000,Marge Simpson,Simpson Home,Hello?
+104247,401,216,974000,Homer Simpson,Simpson Home,"Honey, there's something I have to tell you..."
+104248,401,217,977000,Marge Simpson,Simpson Home,"It's bad news, isn't it? I should never get my hopes up. Nothing ever works out for us."
+104249,401,218,984000,Homer Simpson,Simpson Home,"No, it's, uh... good news!"
+104250,401,219,986000,Marge Simpson,Simpson Home,Really?
+104251,401,220,988000,Homer Simpson,Simpson Home,"We're manufacturing a new pipe diameter, five-eighths inch. The company wants you and me to take the private plane to New York for the premiere! So meet me at Shelbyville Airport in an hour."
+104252,401,221,1001000,Homer Simpson,Simpson Home,"If I'm gonna tell that woman the truth, I'm gonna do it in the one place no one can ever be sad."
+104254,401,223,1007000,Homer Simpson,Shelbyville Airport,"Okay, so this should be enough money to get me up in the air, have a frank talk with Marge then maybe eat a devilled egg."
+104255,401,224,1014000,Pilot,Shelbyville Airport,"Well, anything for a fellow marine."
+104256,401,225,1016000,Homer Simpson,Shelbyville Airport,"Yeah, uh... semper fudge!"
+104257,401,226,1018000,Pilot,Shelbyville Airport,"Uh, did you just say ""semper fudge""?"
+104258,401,227,1020000,Homer Simpson,Shelbyville Airport,"No, I said the right thing."
+104260,401,229,1022000,Marge Simpson,Burns's Plane,"Look at this business center -- fax, Wi-Fi, teleconferencing capabilities... I'm gonna remember this day for the rest of my life!"
+104261,401,230,1032000,Homer Simpson,Burns's Plane,Honey... don't try to remember the whole day. Just what you're feeling this second.
+104262,401,231,1039000,Marge Simpson,Burns's Plane,"Sweetheart, what do you mean?"
+104263,401,232,1041000,Homer Simpson,Burns's Plane,Marge... I've gotta be honest...
+104264,401,233,1044000,Marge Simpson,Burns's Plane,What was that?
+104265,401,234,1045000,Homer Simpson,Burns's Plane,I don't know. Maybe we flew through a rainbow.
+104267,401,236,1052000,Pilot,Cockpit,I didn't think I would be flying today so I was doing heroin.
+104268,401,237,1059000,Marge Simpson,Cockpit,"Homie, what are you doing? You don't know how to fly!"
+104269,401,238,1062000,Homer Simpson,Cockpit,I drove a car over a cliff once. How different could it be?
+104270,401,239,1065000,Homer Simpson,Cockpit,"Hm, what's the ocean doing in the sky?"
+104272,401,241,1073000,Marge Simpson,Cockpit,There's only one man who could help us now.
+104273,401,242,1076000,Colby,Cockpit,"Hello, and welcome to success."
+104274,401,243,1078000,Marge Simpson,Cockpit,It's Marge Simpson. I need you to coach like you've never coached before.
+104275,401,244,1082000,Colby,Cockpit,"Marge please, I'm with a client."
+104276,401,245,1086000,Marge Simpson,Cockpit,"Now you listen here, Bub. We paid you all the savings we had in the world. You could at least tell my husband something encouraging."
+104277,401,246,1094000,Colby,Cockpit,"All right, Homer. What is it you're attempting to do? Win over a difficult client?"
+104278,401,247,1098000,Homer Simpson,Cockpit,I'm trying to land a plane with no experience.
+104279,401,248,1100000,Colby,Cockpit,"Homer, I've gotta tell you, I'm not very good. I went to the Harvard of the South."
+104280,401,249,1105000,Homer Simpson,Cockpit,Duke? That's good.
+104281,401,250,1106000,Colby,Cockpit,Not Duke.
+104282,401,251,1106000,Homer Simpson,Cockpit,Vanderbilt?
+104283,401,252,1108000,Colby,Cockpit,A little further south. Don't make me say it.
+104285,401,254,1115000,Duffman,Cockpit,Duffman has reported you to the F.A.A. This near-miss will be investigated by a board of three retired pilots.
+104286,401,255,1123000,Colby,Cockpit,"Okay, Homer. I don't know anything about planes, but I know about you. You have what made America great: no understanding of the limits of your power, and a complete lack of concern for what anyone thinks of you. So you'll land that plane. And do you know why? Because I heard some guy say you couldn't."
+104287,401,256,1142000,Homer Simpson,Cockpit,What? I'll show him. I'll show that guy!
+104289,401,258,1150000,Plane Computer,Plane,Elevation three hundred feet... two hundred feet... fifty--
+104292,401,261,1158000,Marge Simpson,Airport,"Homer, you did it! You landed a jet!"
+104293,401,262,1161000,Homer Simpson,Airport,"And now, to taxi to the terminal."
+104296,401,264,1174000,Homer Simpson,Airport,"Marge, flying in private jets is great and all, but it's just too dangerous. That's why I've decided to go to the plant and beg Mr. Burns for my old job back."
+104297,401,265,1184000,Marge Simpson,Airport,"I understand, Homie."
+104298,401,266,1186000,Lisa Simpson,Airport,And at least we can take the extra income you've earned in the last few months and set it aside for a rainy day.
+104299,401,267,1192000,Homer Simpson,Airport,"You'd think so, but no."
+104300,401,268,1195000,Pilot,Airport,"Mr. Richie, your American Music Awards are weighing us down! Let them go!"
+104301,401,269,1200000,Lionel Richie,Airport,You let yours go!
+104302,401,270,1201000,Pilot,Airport,I don't have any.
+104303,401,271,1202000,Lionel Richie,Airport,"That's right, you don't!"

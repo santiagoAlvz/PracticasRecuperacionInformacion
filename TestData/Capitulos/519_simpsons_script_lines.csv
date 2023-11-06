@@ -1,0 +1,257 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+134770,519,2,31000,Marge Simpson,Simpson Home,"""In this exciting strategy game, you amass resources -- timber, salt fish, and wax -- to fund a syndicate to gain influence with the Doges of Venice."
+134771,519,3,37000,Bart Simpson,Simpson Home,Doges?! Why do we have to play this stupid game Lisa likes?
+134772,519,4,44000,Lisa Simpson,Simpson Home,I don't like this game! Nobody likes this game! Even the kids on the box look bored!
+134773,519,5,49000,Lisa Simpson,Simpson Home,They're miserable.
+134774,519,6,51000,Marge Simpson,Simpson Home,We have to do something until the storm passes. Now just fill out these customs forms and we can get started.
+134775,519,7,58000,Lisa Simpson,Simpson Home,Twister!
+134776,519,8,59000,Bart Simpson,Simpson Home,"No! Whenever we play that, my elbow touches Dad's junk."
+134777,519,9,62000,Lisa Simpson,Simpson Home,No! Outside the house!
+134779,519,11,78000,Homer Simpson,Simpson Home,You live like this?
+134780,519,12,82000,Homer Simpson,Simpson Home,"Dear Lord, if thy tornado must take me, please let it take me to Oz, but don't let Flanders be the Scarecrow!"
+134781,519,13,91000,Homer Simpson,Simpson Home,"We made it, boy!"
+134783,519,15,94000,Homer Simpson,Simpson Home,Oh my God. Oh my God. This counts as a walk!
+134784,519,16,100000,Homer Simpson,Simpson Home,The tornado took old what's-his-name! I'm going after him!
+134785,519,17,103000,Marge Simpson,Simpson Home,"No, Homie! It's too dangerous!"
+134786,519,18,106000,Lenny Leonard,Simpson Home,"Hey, Homer! We were just doin' a little storm chasing."
+134787,519,19,109000,Homer Simpson,Simpson Home,"Lenny, take us with you to find our dog! It's okay, Marge, they're professionals."
+134788,519,20,113000,Marge Simpson,Simpson Home,"What, 'cause they rented a van and taped an antenna to the top?"
+134789,519,21,117000,Lenny Leonard,Simpson Home,"Not just any tape, duct tape."
+134790,519,22,120000,Marge Simpson,Simpson Home,"All right, but I'm coming with you to make sure no one does anything stupid."
+134791,519,23,124000,Lenny Leonard,Simpson Home,"Don't worry, Marge. We bought a ton of safety gear from a highly-respected storm-chaser's widow. It's not what you're thinking. He died of a heart attack."
+134792,519,24,133000,Carl Carlson,Simpson Home,"Yeah, eighty feet up in the air!"
+134794,519,26,135000,Carl Carlson,Springfield Street,Behold the awesome nonsense of nature!
+134796,519,28,145000,Lenny Leonard,Lenny's Van,"Okay, the tornado that took your dog looked like an F-3, moving westerly."
+134797,519,29,150000,Marge Simpson,Lenny's Van,I guess you do know your weather.
+134798,519,30,152000,Lenny Leonard,Lenny's Van,That means a lot coming from such an attractive woman as you.
+134799,519,31,155000,Carl Carlson,Lenny's Van,I'd say she's prettier than a surface hoar.
+134800,519,32,155000,Homer Simpson,Lenny's Van,Hey!
+134801,519,33,158000,Carl Carlson,Lenny's Van,"Surely you didn't misunderstand my usage of ""surface hoar""--"
+134802,519,34,158000,Carl Carlson,Lenny's Van,--the sublimation of ice crystals that's colder than the frost point?
+134805,519,35,164000,Homer Simpson,Lenny's Van,"Maybe! Look, you guys obviously know about weather, but I understand something much more predictable: women."
+134806,519,36,172000,Homer Simpson,Lenny's Van,What women really want is a guy who's confident enough to go completely downhill after marriage and know she'll still love him.
+134807,519,37,180000,Lenny Leonard,Lenny's Van,I'll tell you what women really want: a man who can hold a note the longest.
+134808,519,38,184000,Homer Simpson,Lenny's Van,That is the stupidest...
+134809,519,39,185000,Carl Carlson,Lenny's Van,One-two-three-go!
+134811,519,41,198000,Marge Simpson,Lenny's Van,"Homer, you do not have to compete with your friends for me."
+134812,519,42,201000,Homer Simpson,Lenny's Van,I would never do that.
+134813,519,43,205000,Marge Simpson,Lenny's Van,Enough with the singing!
+134814,519,44,205000,Homer Simpson,Lenny's Van,Fine. But I swear: I will win you back from Lenny.
+134815,519,45,210000,Carl Carlson,Lenny's Van,'Nado!
+134816,519,46,213000,Marge Simpson,Lenny's Van,It's like God's vacuum cleaner!
+134818,519,48,230000,Carl Carlson,Lenny's Van,We're cuttin' it kinda close.
+134819,519,49,232000,Lenny Leonard,Lenny's Van,"Not to worry, we're safe in the van."
+134820,519,50,239000,Lenny Leonard,Lenny's Van,Anyone want their seat warmer?
+134821,519,51,241000,Lenny Leonard,Lenny's Van,It's gone!
+134822,519,52,253000,Homer Simpson,Lenny's Van,"Help me, God! What is it I'm paying you for every Sunday?"
+134823,519,53,264000,Homer Simpson,Lenny's Van,Can always use... a good babysitter.
+134824,519,54,269000,Carl Carlson,Lenny's Van,I was just twenty-seven years from retirement!
+134826,519,56,272000,Lenny Leonard,Field,"Oh my God! The twister got Carl, my best friend in the world! I can barely remember what he looks like."
+134827,519,57,279000,Homer Simpson,Field,He was a black guy but his voice sounded like a white guy.
+134828,519,58,283000,Carl Carlson,Field,Excuse me for wanting to fit in.
+134829,519,59,285000,Marge Simpson,Field,And here comes Santa's Little Helper!
+134830,519,60,292000,Marge Simpson,Field,"Homie, we made it!"
+134832,519,62,296000,Carl Carlson,Field,Oh my God!
+134833,519,63,297000,Nelson Muntz,Field,Haw haw!
+134834,519,64,298000,Lenny Leonard,Field,You're trapped in there good. Once again the big banks stick it to the little guy.
+134836,519,66,306000,Marge Simpson,Field,Are you pushing?
+134837,519,67,307000,Homer Simpson,Field,"Yes, it won't give!"
+134838,519,68,311000,Marge Simpson,Field,I don't know if we're gonna be able to get out. What are you writing?
+134803,519,69,316000,Homer Simpson,Field,Maybe the last words I'll ever write.
+134804,519,70,318000,Marge Simpson,Field,Aw.
+134839,519,71,321000,Carl Carlson,Field,"Lenny, you calling for help?"
+134840,519,72,322000,Lenny Leonard,Field,Let them have their moment.
+134841,519,73,329000,Kent Brockman,Field,Kent Brockman here at death's revolving door. Police have arrived on the scene after having fled the state at the first sign of the storm.
+134842,519,74,337000,Chief Wiggum,Field,Bulletproof. As I somewhat suspected. But don't you worry. We're having a very expensive crane brought in from Shelbyville.
+134843,519,75,346000,Chief Wiggum,Field,"What's this, a bird?"
+134844,519,76,347000,Bird Wrangler,Field,It's a bird known as a crane. And it got very sick on the way over.
+134845,519,77,352000,Chief Wiggum,Field,"Well, our top priority is making sure that bird gets well."
+134846,519,78,355000,Marge Simpson,Field,Hey! Hello!
+134847,519,79,358000,Chief Wiggum,Field,"As for you, your only hope is this glass-cutting guy from the hardware store."
+134848,519,80,362000,Worker,Field,"You guys wanna come out in a plain circle, or kind of a rosette shape?"
+134849,519,81,366000,Marge Simpson,Field,Just cut the glass!
+134850,519,82,368000,Worker,Field,Everybody wants it done yesterday.
+134852,519,84,368000,Chief Wiggum,Field,Now we're ordering lunch. Wanna go halvesies on a pizza?
+134853,519,85,377000,Lou,Field,"FYI, that means you get one slice."
+134854,519,86,379000,Chief Wiggum,Field,"Okay, wise guy. You get to pull out the two corpses when we're done."
+134856,519,88,384000,Marge Simpson,Simpson Home,"Except for the face full of glass when the door finally collapsed, he did a pretty good job."
+134857,519,89,390000,Homer Simpson,Simpson Home,Found another one.
+134858,519,90,393000,Lisa Simpson,Simpson Home,It was so scary thinking something might happen to you guys.
+134859,519,91,399000,Bart Simpson,Simpson Home,"Mom, I am so glad you're alive."
+134860,519,92,402000,Homer Simpson,Simpson Home,"Were you worried about me, boy?"
+134861,519,93,403000,Bart Simpson,Simpson Home,"Sure, why not?"
+134862,519,94,406000,Homer Simpson,Simpson Home,Clearly the boy's in shock.
+134863,519,95,409000,Bart Simpson,Simpson Home,"Oh yeah, I'm a wreck."
+134864,519,96,411000,Homer Simpson,Simpson Home,Stop being blasé!
+134865,519,97,411000,Bart Simpson,Simpson Home,Never!
+134866,519,98,413000,Homer Simpson,Simpson Home,"Now I know you kids are scared by what happened, but it's bedtime. Just go into your dark rooms and shut your eyes."
+134867,519,99,421000,Marge Simpson,Simpson Home,"Homie, if we did both die, we've never named guardians. The kids could end up wards of the state."
+134868,519,100,428000,Homer Simpson,Simpson Home,Connecticut?
+134869,519,101,429000,Marge Simpson,Simpson Home,"No, our state."
+134870,519,102,431000,Homer Simpson,Simpson Home,"Okay, you're right. It's hard to imagine anyone else bringing up our kids, but I think the choice is obvious -- my dad."
+134871,519,103,440000,Grampa Simpson,Simpson Home,You'd let me have another chance after the way I screwed things up with you?
+134872,519,104,446000,Homer Simpson,Simpson Home,Good point. We'll find somebody else.
+134873,519,105,448000,Grampa Simpson,Simpson Home,"Yup, you're a big bag of blubber soaked in worthless juice."
+134874,519,106,453000,Homer Simpson,Simpson Home,"I got it, Dad."
+134875,519,107,455000,Grampa Simpson,Simpson Home,Why I married you I'll never know.
+134876,519,108,457000,Homer Simpson,Simpson Home,"Oh yeah? The tornado was more of a father to me than you! Okay, how about my brother? He's rich."
+134877,519,109,466000,Herb Powell,Simpson Home,"Hi, you've reached Herb Powell. I'm poor again--"
+134878,519,110,471000,Marge Simpson,Simpson Home,There's really only one choice. Or should I say two identical choices?
+134880,519,112,476000,Selma Bouvier,Patty and Selma's Apartment,Sugar?
+134881,519,113,478000,Homer Simpson,Patty and Selma's Apartment,"Oh, how very kind of you. I am not giving our kids to these gravelly-voiced super hags! One lump, please."
+134882,519,114,484000,Marge Simpson,Patty and Selma's Apartment,"Homer, my sisters adopted Ling and she's doing great."
+134883,519,115,487000,Selma Bouvier,Patty and Selma's Apartment,We've been tiger-mothering her.
+134884,519,116,490000,Patty Bouvier,Patty and Selma's Apartment,"Ling, music time!"
+134885,519,117,493000,Selma Bouvier,Patty and Selma's Apartment,"Ling, floor routine!"
+134886,519,118,498000,Patty Bouvier,Patty and Selma's Apartment,More syncopated! Stick the landing!
+134887,519,119,500000,Selma Bouvier,Patty and Selma's Apartment,And no resenting us ever!
+134888,519,120,502000,Homer Simpson,Patty and Selma's Apartment,That's some impressive flute-nastics.
+134889,519,121,504000,Selma Bouvier,Patty and Selma's Apartment,Shut up! You can't praise her!
+134890,519,122,506000,Patty Bouvier,Patty and Selma's Apartment,She'll think she's smart and slack off.
+134891,519,123,508000,Selma Bouvier,Patty and Selma's Apartment,Then all our loving would be for nothing!
+134892,519,124,513000,Marge Simpson,Patty and Selma's Apartment,Maybe we'd better go.
+134893,519,125,515000,Patty Bouvier,Patty and Selma's Apartment,Didn't you want to ask us something?
+134894,519,126,517000,Homer Simpson,Patty and Selma's Apartment,Goodbye forever!
+134895,519,127,519000,Ling,Patty and Selma's Apartment,Help me.
+134896,519,128,520000,Marge Simpson,Patty and Selma's Apartment,"I think it's time to go ""off family."""
+134898,519,130,523000,Kirk Van Houten,Van Houten Home,"Luanne and I have gone through some rough patches, so to be seen as stable enough to raise your kids -- well... It would be an honor."
+134901,519,131,532000,Luann Van Houten,Van Houten Home,You know what else would be an honor? Having a husband who asks my opinion before inviting in three more mouths he can't feed!
+134902,519,132,539000,Kirk Van Houten,Van Houten Home,Hey Luanne! You always asked me what I saw in Vicky at the Walgreens -- well I'll tell you what I saw: not you!
+134903,519,133,546000,Luann Van Houten,Van Houten Home,You told me you didn't even know her name!
+134904,519,134,549000,Kirk Van Houten,Van Houten Home,"Well, that's her name, okay?"
+134906,519,136,550000,Brandine Del Roy,Cletus's Front Porch,Let me get this straight: we have seventeen kids and you want us to take three more?
+134907,519,137,555000,Cletus Spuckler,Cletus's Front Porch,Anything new that wanders into this house winds up in the stew pot.
+134910,519,140,560000,Julio,GRADY AND JULIO'S HOUSE,"I am so sorry, but we just adopted a baby."
+134911,519,141,563000,Grizzly Shawn,GRADY AND JULIO'S HOUSE,Give me back my pants! I've gotta get back to my unit.
+134912,519,142,566000,Julio,GRADY AND JULIO'S HOUSE,Someone's cranky.
+134913,519,143,568000,Homer Simpson,GRADY AND JULIO'S HOUSE,"All right, Marge. Maybe we're being a little too choosy about who our kids spend the rest of their lives with. We'll take what we can get."
+134915,519,145,579000,Marge Simpson,Springfield Street,Uh oh. I wonder if word has gotten out that we're looking for guardians.
+134916,519,146,595000,Snake Jailbird,Springfield Street,Go! Go!
+134917,519,147,631000,Dr. Julius Hibbert,Springfield Street,"All right, the coast is clear."
+134918,519,148,637000,Gil Gunderson,Springfield Street,"Wait a minute, I live here."
+134921,519,151,650000,Lisa Simpson,Simpson Car,Where are we going?
+134922,519,152,651000,Bart Simpson,Simpson Car,And why are we wearing our good clothes?
+134923,519,153,652000,Lisa Simpson,Simpson Car,With nametags on them?
+134924,519,154,656000,Homer Simpson,Simpson Car,"Kids, there's nothing to worry about...but we're looking at replacements for your Mom and me if we should fail to die together as a family."
+134925,519,155,667000,Bart Simpson,Simpson Car,"Oh, I see. You guys are trying to find a couple of saps to take us when dad has a coronary in the dead of night, rolls over, and crushes mom."
+134926,519,156,674000,Homer Simpson,Simpson Car,This is not that! And that smart-alecky attitude is exactly why no one wants you!
+134927,519,157,679000,Marge Simpson,Simpson Car,"Homer! Dual incomes, no kids at two o'clock!"
+134928,519,158,685000,Homer Simpson,Simpson Car,"Okay, I'll nudge 'em with the car. We'll get a whole ""meet cute"" thing going."
+134899,519,159,692000,Man,Simpson Car,What the hell are you doing?
+134929,519,160,693000,Wife,Simpson Car,"Keith, relax. Look at those adorable children!"
+134930,519,161,698000,Marge Simpson,Simpson Car,I think I hear a slight accent.
+134931,519,162,701000,Wife,Simpson Car,Mid-Atlantic!
+134932,519,163,702000,Marge Simpson,Simpson Car,"That's where they filmed ""The Wire""! Step on it!"
+134933,519,164,707000,Lisa Simpson,Simpson Car,This is a pretty important decision.
+134934,519,165,709000,Bart Simpson,Simpson Car,How 'bout asking that Japanese guy who set the world record for eating hot dogs? He's like a successful version of dad.
+134935,519,166,716000,Marge Simpson,Simpson Car,"Maybe we should just give up for now, have some fried clams and collect sea glass."
+134936,519,167,721000,Homer Simpson,Simpson Car,Wait! What about that couple? They look pretty cozy.
+134937,519,168,725000,Marge Simpson,Simpson Car,That's Moe and a bag of garbage.
+134938,519,169,728000,Moe Szyslak,Simpson Car,Cats sure breed a lot.
+134939,519,170,728000,Moe Szyslak,Simpson Car,"Why would you do that to me, after I thought about feedin' you?"
+134941,519,172,744000,Bart Simpson,Beach,Whoa! Look at that guy!
+134942,519,173,758000,Mav,Beach,Yo. I'm Mav.
+134943,519,174,760000,Bart Simpson,Beach,"Wow, a man's stomach can be flat?"
+134944,519,175,763000,Mav,Beach,It's one of the like awesome side effects of being a pro surfer.
+134946,519,177,768000,Lisa Simpson,Beach,Someone's smitten.
+134947,519,178,770000,Portia,Beach,"Whoa, way to shralp the crispies, babe."
+134948,519,179,772000,Mav,Beach,"My wife, Portia."
+134949,519,180,774000,Lisa Simpson,Beach,Another surfer?
+134950,519,181,775000,Portia,Beach,Environmental lawyer.
+134952,519,183,779000,Portia,Beach,And in my free time I prosecute record companies who withhold royalties from elderly blues musicians.
+134954,519,185,790000,Bart Simpson,Beach,Um... why don't we discuss it over dinner?
+134955,519,186,793000,Mav,Beach,Discuss what?
+134956,519,187,794000,Lisa Simpson,Beach,Things that you're desperately missing from your life that you never knew you needed.
+134957,519,188,797000,Mav,Beach,Cool! See you at six.
+134959,519,190,801000,Marge Simpson,MAV AND PORTIA'S BACK YARD,"So, surfing is really your job?"
+134960,519,191,804000,Mav,MAV AND PORTIA'S BACK YARD,"Yeah, I earned a couple million on the tour last year."
+134961,519,192,806000,Marge Simpson,MAV AND PORTIA'S BACK YARD,Just for standing on a thing?
+134962,519,193,809000,Homer Simpson,MAV AND PORTIA'S BACK YARD,"Wowww. Your house is perfect. No sharp corners, no unsafe balconies, a cool Grampa..."
+134964,519,194,818000,Mav's Dad,MAV AND PORTIA'S BACK YARD,I love two things: shutting up and giving away money.
+134965,519,195,822000,Homer Simpson,MAV AND PORTIA'S BACK YARD,"Ooh, Thanks, Dad."
+134966,519,196,825000,Lisa Simpson,MAV AND PORTIA'S BACK YARD,What's that stone around your neck?
+134967,519,197,827000,Mav's Dad,MAV AND PORTIA'S BACK YARD,"It's a promise stone. It signifies that if I ever get to be a burden, I just jump in a volcano."
+134968,519,198,832000,Homer Simpson,MAV AND PORTIA'S BACK YARD,"Wow. I assumed The Jackson Five were the only perfect family, but now I see there's another."
+134970,519,200,839000,Lisa Simpson,Portia's Home Office,"Princeton, B.A., Oxford, M.A. -- I smell a Rhodes."
+134971,519,201,843000,Portia,Portia's Home Office,"Nah, I turned it down because Cecil Rhodes was such a racist."
+134973,519,203,848000,Homer Simpson,Portia's Home Office,"Uh, say, listen, Portia. How would you and Mav feel about... um, swinging?"
+134974,519,204,855000,Portia,Portia's Home Office,With you guys? Uh... seems like my husband would be getting the much better deal.
+134975,519,205,860000,Homer Simpson,Portia's Home Office,"No, no, no. I meant pushing kids on swings."
+134976,519,206,863000,Portia,Portia's Home Office,Give me a minute to get some images out of my mind.
+134977,519,207,866000,Homer Simpson,Portia's Home Office,"Okay, take whatever time you need. I just want to know if you'd like to be their guardians."
+134978,519,208,871000,Portia,Portia's Home Office,"Wow. Wow, that's quite an offer."
+134979,519,209,874000,Portia,Portia's Home Office,This is so fast... it's so hard to get to know a child after just one day I...
+134980,519,210,879000,Bart Simpson,Portia's Home Office,All you need to know is I'm a politeness monster who eats please and farts thank yous. Ma'am.
+134981,519,211,884000,Lisa Simpson,Portia's Home Office,I'm exactly the kind of kid he's pretending to be.
+134982,519,212,893000,Mav,Portia's Home Office,"Babe, when a killer wave hits, you can't spend your whole life deciding if you want to drop in or not. It just might be the most righteous tube we ever shot."
+134983,519,213,900000,Homer Simpson,Portia's Home Office,"Man, you sure can talk surfer talk."
+134984,519,214,903000,Portia,Portia's Home Office,"Okay, we'll give some serious thought to taking them."
+134985,519,215,906000,Homer Simpson,Portia's Home Office,Maybe this'll help you make up your mind.
+134986,519,216,910000,Portia,Portia's Home Office,It's empty.
+134987,519,217,912000,Homer Simpson,Portia's Home Office,You never know when you might wanna mail something.
+134989,519,219,916000,Marge Simpson,PORTIA AND MAV'S HOUSE,Homie... it's been a wonderful day... but do you think maybe we're moving a little too quickly?
+134990,519,220,924000,Homer Simpson,PORTIA AND MAV'S HOUSE,Worrywart Marge. You don't look a Trojan Horse in the mouth.
+134991,519,222,932000,Marge Simpson,PORTIA AND MAV'S HOUSE,But we know so little about them.
+134992,519,223,934000,Homer Simpson,PORTIA AND MAV'S HOUSE,"I swear to you, Marge, when I have the time, I will Google them both."
+134994,519,225,942000,Mav,Simpson Home,"S'all good, bra."
+134995,519,226,944000,Portia,Simpson Home,"Hey, where's Bart?"
+134996,519,227,946000,Homer Simpson,Simpson Home,"Oh, uh, well, he wanted to be here, but I'm gonna decrease the volume of my voice and mumble so you can't really understand what I'm saying..."
+134998,519,229,955000,Captain Horatio McCallister,Sea Captain's Boat,Your father says I need to keep you lashed to the mast for five more arrrs.
+134999,519,230,960000,Bart Simpson,Sea Captain's Boat,Is that arrrs or hours?
+135000,519,231,960000,Captain Horatio McCallister,Sea Captain's Boat,Both.
+135002,519,233,963000,Homer Simpson,Simpson Home,Great. And now my Dad can notarize.
+135003,519,234,966000,Grampa Simpson,Simpson Home,I still have my uses!
+135004,519,235,970000,Homer Simpson,Simpson Home,Name another.
+135006,519,237,973000,Marge Simpson,Simpson Home,"Well, I must admit it's a relief to get that taken care of."
+135007,519,238,977000,Homer Simpson,Simpson Home,Now I can finally complete my bucket list.
+135008,519,239,982000,Portia,Simpson Home,"Homer, Marge... we have a favor to ask."
+135009,519,240,986000,Homer Simpson,Simpson Home,"Too late! You already signed! Oh wait, there's one more."
+135010,519,241,992000,Homer Simpson,Simpson Home,"Suckers!!! Oh wait, you've gotta initial this."
+135011,519,242,998000,Homer Simpson,Simpson Home,Check mate.
+135012,519,243,1000000,Portia,Simpson Home,"Listen, Homer, we just wanted to know if we could borrow the kids for a weekend at our ski house. We thought they could pick out their bedrooms..."
+135013,519,244,1006000,Marge Simpson,Simpson Home,A whole weekend? I don't know...
+135014,519,245,1009000,Homer Simpson,Simpson Home,"Hey, if they can watch 'em for the rest of their lives they can certainly do it for a weekend."
+135015,519,246,1014000,Marge Simpson,Simpson Home,I guess. As long as we don't make it a habit.
+135016,519,247,1017000,Homer Simpson,Simpson Home,"Marge, no indulgence of mine ever becomes a habit."
+135017,519,248,1026000,Marge Simpson,Simpson Home,Do you have to do that in front of people?
+135018,519,249,1029000,Homer Simpson,Simpson Home,It helps me write.
+135020,519,251,1041000,Homer Simpson,Springfield Street,"Marge, this has been great couples time. The one thing people with kids desperately need is no kids!"
+135021,519,252,1047000,Marge Simpson,Springfield Street,"Well, at least we have time to get the pets' Christmas presents."
+135023,519,253,1051000,Homer Simpson,Springfield Street,I don't like the way they just rip the paper off. Santa's Little Helper my ass.
+135025,519,255,1057000,Marge Simpson,Springfield Street,Oh God! They want to steal our kids!
+135026,519,256,1066000,Homer Simpson,Springfield Street,No one steals my kids... except me... from that theme park jail... that I never told you about... except I guess I just did... we're all caught up now... let's go!
+135027,519,257,1079000,Marge Simpson,Springfield Street,It all makes sense now.
+135028,519,258,1082000,Marge Simpson,Springfield Street,That's why they took our kids so quick.
+135029,519,259,1084000,Homer Simpson,Springfield Street,"Like all childless couples, they troll the beaches waiting for the egg-layers to wander off from their young."
+135030,519,260,1091000,Marge Simpson,Springfield Street,She's gonna raise three kids without wrecking that perfect figure.
+135031,519,261,1094000,Homer Simpson,Springfield Street,"Oh yeah, man."
+135032,519,262,1097000,Homer Simpson,Springfield Street,"Don't worry, Marge. We'll get 'em. Unless we die on this icy mountain road. Then they've won forever."
+135033,519,263,1103000,Marge Simpson,Springfield Street,"Homie, I just had a horrible thought."
+135034,519,264,1107000,Homer Simpson,Springfield Street,Women and their horrible thoughts.
+135035,519,265,1109000,Marge Simpson,Springfield Street,What if they are better for the kids than us?
+135036,519,266,1112000,Homer Simpson,Springfield Street,"Marge, let me set your mind straight about something -- that spectacular young couple is definitely better for the kids. But those kids are ours, because we made them, by accident. And now, we're gonna take them back because we love them, especially now that we've had a little time apart from them."
+135037,519,267,1132000,Homer Simpson,Springfield Street,"I've got a bone to pick with you! Then, an apology to make. Then, we exchange insurance information. Then, more bone picking!"
+135039,519,269,1143000,Mav,Mav and Portia's Ski House,"Homer, Marge... I understand your anger, but your kids are more awesome than the breaks at Waimea."
+135040,519,270,1150000,Homer Simpson,Mav and Portia's Ski House,Those better be good breaks.
+135041,519,271,1152000,Mav,Mav and Portia's Ski House,"Honestly, we fell in love with 'em and it seemed like you guys didn't really want 'em."
+135042,519,272,1158000,Homer Simpson,Mav and Portia's Ski House,"Sure you wanted the fun parts, but do you want to go to their little league games and recitals?"
+135043,519,273,1163000,Mav,Mav and Portia's Ski House,We totally have.
+135044,519,274,1164000,Portia,Mav and Portia's Ski House,Like clockwork.
+135045,519,275,1166000,Homer Simpson,Mav and Portia's Ski House,"Well, I'm glad someone has."
+135046,519,276,1167000,Marge Simpson,Mav and Portia's Ski House,"Look, before anyone says anything else, how could you possibly think you could get our kids?"
+135047,519,277,1173000,Portia,Mav and Portia's Ski House,"It happens more than you know, Marge. I'm a lawyer, he's a surfer, that combination's pretty unstoppable."
+135048,519,278,1178000,Bart Simpson,Mav and Portia's Ski House,Well I'm afraid that we don't want to be with anyone but Mom and whoever she chooses to be with.
+135049,519,279,1184000,Lisa Simpson,Mav and Portia's Ski House,"Portia, you're the woman I dream of becoming, but Mom is my Mom."
+135050,519,280,1187000,Portia,Mav and Portia's Ski House,"Fine. But you're leaving a gap in our lives that can only be filled by foreign travel, sleeping late and gourmet food."
+135051,519,281,1194000,Mav,Mav and Portia's Ski House,You guys lock up. We're goin' to Bali.
+135052,519,282,1196000,Portia,Mav and Portia's Ski House,Again?
+135053,519,283,1198000,Homer Simpson,Mav and Portia's Ski House,We've won. Woo hoo.
+135056,519,286,1203000,Marge Simpson,Simpson Kitchen,"Kids, your father and I have decided we're not in such a hurry to get you guardians."
+135057,519,287,1208000,Homer Simpson,Simpson Kitchen,"Instead of concentrating on dying, we're going to concentrate on living."
+135058,519,288,1213000,Bart Simpson,Simpson Kitchen,If you call this living.
+135059,519,289,1214000,Homer Simpson,Simpson Kitchen,Why you little...
+135060,519,290,1217000,Homer Simpson,Simpson Kitchen,I do call this living! Living the way kids in India can only dream of!
+135061,519,291,1223000,Lisa Simpson,Simpson Kitchen,There is nothing like your biological family.
+135063,519,293,1246000,Homer Simpson,Simpson Kitchen,I win!
+135064,519,294,1246000,Lenny Leonard,Simpson Kitchen,Win what?
+135065,519,295,1247000,Homer Simpson,Simpson Kitchen,I forget.

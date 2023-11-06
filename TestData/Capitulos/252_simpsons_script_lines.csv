@@ -1,0 +1,232 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+62340,252,1,84000,Krusty the Clown,Simpson Home,"Five... four...three... two... one. Well, that's all the time we have. So long, kids!"
+62341,252,2,93000,Announcer,Simpson Home,"""Krusty the Clown"" is brought to you by the new GameStation 256. It's slightly faster... to the maaaaax!"
+62342,252,3,102000,Bart Simpson,Simpson Home,Two-fifty-six?
+62343,252,4,104000,Bart Simpson,Simpson Home,And I'm stuck with this useless two-fifty-two?
+62344,252,5,109000,Video Game,Simpson Home,Don't destroy me! I can still make you happy! To the maxxx!
+62346,252,7,115000,Marge Simpson,Simpson Kitchen,"Here's a headline for Jay. ""Ketchup Truck Hits Hamburger Stand."""
+62347,252,8,115000,Bart Simpson,Simpson Kitchen,"Mom, can I have two hundred bucks for a two-fifty-six K GameStation? That's less than a dollar a K!"
+62348,252,9,128000,Marge Simpson,Simpson Kitchen,"Oh, I might be able to help you..."
+62349,252,10,131000,Marge Simpson,Simpson Kitchen,With a song about thrift!
+62350,252,11,134000,Marge Simpson,Simpson Kitchen,WHEN YOU GET A PENNY FROM A CHUM / DON'T JUST BUY SOME BUBBLE GUM! PUT IT IN YOUR CAP! PUT IT IN YOUR CAP! WHEN YOU FIND A NICKEL IN THE SNOW / DON'T JUST BLOW IT ON A PICTURE SHOW PUT IT IN YOUR CAP / PUT IT IN YOUR CAP...
+62351,252,12,150000,Bart Simpson,Simpson Kitchen,I don't have a cap.
+62352,252,13,151000,Marge Simpson,Simpson Kitchen,WHEN YOU SPY A QUARTER IN A PIE...
+62355,252,16,155000,Homer Simpson,Simpson Home,"You want money? Get a job, like your old man."
+62356,252,17,158000,Bart Simpson,Simpson Home,"Well, maybe I should."
+62357,252,18,160000,Homer Simpson,Simpson Home,"So, now you're smarter than your old man, eh?"
+62358,252,19,163000,Bart Simpson,Simpson Home,I guess.
+62359,252,20,163000,Homer Simpson,Simpson Home,I like your attitude. Take what you need.
+62361,252,22,174000,Old Barber,BARBERSHOP,"Nice day's work, kid. This is for you..."
+62362,252,23,179000,Bart Simpson,BARBERSHOP,You're paying me in hair?
+62363,252,24,179000,Bart Simpson,BARBERSHOP,"What are you, insane?"
+62366,252,27,187000,Bart Simpson,Street,Man I need a job.
+62367,252,28,190000,Mr. Thai,Street,You need job? I have job for you.
+62369,252,30,195000,Mr. Thai,Restaurant,You take these.
+62370,252,31,197000,Mr. Thai,Restaurant,"You hang Thai menu on door. I get more business. Send daughters to small liberal arts college. Swarthmore, maybe Sarah Lawrence. Call professors by first name... Ha! Dynamite!"
+62371,252,32,208000,Bart Simpson,Restaurant,Hang 'em on the door. Got it.
+62373,252,34,212000,Moe Szyslak,Springfield,"Hey, hey, no menus! Or I'll cut ya like a box -- along the flaps!"
+62374,252,35,220000,Mr. Thai,Springfield,You quitta! Quitta boy! Quitta boy!
+62375,252,36,224000,Bart Simpson,Springfield,I'm sorry.
+62376,252,37,225000,Mr. Thai,Springfield,Now restaurant fail. Children go to state college. Serious students powerless against drunken jockocracy. Baseball hats everywhere!
+62377,252,38,235000,Bart Simpson,Springfield,"Hey man, this job is too dangerous."
+62378,252,39,237000,Mr. Thai,Springfield,"Menu boy no be coward, like shrimp. Menu boy be brave, like prawn."
+62380,252,41,245000,Mr. Thai,THAI RESTAURANT,"Menu boy must move silently, like ghost. Leave no footprint, only lunch specials."
+62384,252,45,286000,Lisa Simpson,Evergreen Terrace,What a waste...
+62385,252,46,293000,Lisa Simpson,Evergreen Terrace,"There you go, little fish."
+62387,252,48,296000,Lisa Simpson,Simpson Home,"Bart, do you know how many trees died to make those menus?"
+62388,252,49,300000,Bart Simpson,Simpson Home,I'unno. A million?
+62389,252,50,302000,Lisa Simpson,Simpson Home,You're ruining the earth.
+62390,252,51,304000,Bart Simpson,Simpson Home,"True, but I gots to get paid. Money equals funny, sister."
+62391,252,52,308000,Bart Simpson,Simpson Home,Betty.
+62394,252,54,312000,Marge Simpson,Springfield Street,"Bart, it's so sweet of you to take the family out to Krustyburger."
+62395,252,55,316000,Bart Simpson,Springfield Street,"Hey, some people in this family are do-ers, and some are don't-ers."
+62396,252,56,320000,Lisa Simpson,Springfield Street,Don't you call me a--
+62397,252,57,323000,Homer Simpson,Springfield Street,"Take that, Lisa's beliefs."
+62399,252,59,328000,Marge Simpson,Krusty Burger,"Oh, how cute! Kids, look who's on the roof!"
+62400,252,60,334000,Homer Simpson,Krusty Burger,I knew this day would come. The cows are taking back what's theirs.
+62401,252,61,338000,Lisa Simpson,Krusty Burger,"No, I think they're protesters."
+62402,252,62,341000,Krusty the Clown,Krusty Burger,"Hey, there are cows on the roof. I thought my pager was busted."
+62403,252,63,348000,Krusty the Clown,Krusty Burger,Get back in. It's only funny with a small car.
+62404,252,64,356000,Protesters,Krusty Burger,Take down the clown! / Take down the clown!
+62405,252,65,360000,Krusty the Clown,Krusty Burger,"Listen, I'm on your side! Let's get a dialogue going!"
+62406,252,66,364000,Krusty the Clown,Krusty Burger,Take out the mother cow. The rest will follow.
+62407,252,67,368000,LEAD PROTESTER,Krusty Burger,Your corporation cuts down the rainforest to create grazing land for cattle!
+62408,252,68,372000,Krusty the Clown,Krusty Burger,"Oh, for the luvva... gimme that!"
+62409,252,69,376000,Lisa Simpson,Krusty Burger,"No, you can't!"
+62410,252,70,377000,Chief Wiggum,Krusty Burger,"Don't worry honey, they're just firing beanbags."
+62412,252,72,382000,LEAD PROTESTER,KRUSTYBURGER ROOF,You can't silence the truth with beanbags!
+62413,252,73,387000,Chief Wiggum,KRUSTYBURGER ROOF,That's nice work with the bag-zooka.
+62414,252,74,389000,Eddie,KRUSTYBURGER ROOF,"You gotta love what you do, Chief."
+62415,252,75,392000,Lisa Simpson,KRUSTYBURGER ROOF,Are you all right?
+62416,252,76,396000,LEAD PROTESTER,KRUSTYBURGER ROOF,I've had worse.
+62418,252,78,399000,LEAD PROTESTER,KRUSTYBURGER ROOF,"In New Orleans, they hosed us with Tabasco."
+62419,252,79,401000,Lisa Simpson,KRUSTYBURGER ROOF,"Oh, you're so heroic."
+62420,252,80,403000,Chief Wiggum,KRUSTYBURGER ROOF,"All right, cow-boy. I'll see you in mooo-nicipal court."
+62421,252,81,408000,Lou,KRUSTYBURGER ROOF,"Good one, chief."
+62422,252,82,410000,Chief Wiggum,KRUSTYBURGER ROOF,What? What'd I say?
+62423,252,83,411000,Marge Simpson,KRUSTYBURGER ROOF,I can't believe how young he is. He'd be cute if he weren't so idealistic.
+62424,252,84,421000,Homer Simpson,KRUSTYBURGER ROOF,"Look, Marge! I'm in a limo! The Simpsons are going to Paris!"
+62427,252,86,431000,Kent Brockman,Simpson Home,"The eco-radical group ""Dirt First"" staged a daring protest today at Krustyburger. Krusty the Clown has issued the following statement: ""This, I don't need."""
+62428,252,87,436000,Kent Brockman,Simpson Home,The group is led by teenage activist Jesse Grass -- a dreadlocked dreamboat who's Birken-stock is on the rise.
+62430,252,89,451000,Homer Simpson,Simpson Home,Bor-ing!
+62432,252,91,454000,Homer Simpson,Simpson Living Room,"Ah, the Luftwaffe. The Washington Generals of the History Channel."
+62433,252,92,459000,Lisa Simpson,Simpson Living Room,"Dad, change it back!"
+62434,252,93,461000,Marge Simpson,Simpson Living Room,"Yeah, that was the boy Lisa likes."
+62435,252,94,462000,Lisa Simpson,Simpson Living Room,No I don't!
+62436,252,95,464000,Bart Simpson,Simpson Living Room,"Lisa and Jesse, sittin' in a tree, k-i-s-s-i-n-g!"
+62437,252,96,468000,Lisa Simpson,Simpson Living Room,Shut up!
+62438,252,97,469000,Homer Simpson,Simpson Living Room,"First comes love, then comes, um... Dammit, I know this."
+62441,252,100,476000,Lisa Simpson,Springfield Police Station,I'd like to visit a prisoner.
+62442,252,101,478000,Chief Wiggum,Springfield Police Station,"Yeah, sure."
+62443,252,102,481000,Lisa Simpson,Springfield Police Station,Aren't you coming with me?
+62444,252,103,482000,Chief Wiggum,Springfield Police Station,"Hey, I get enough flaming toilet paper thrown on me at home."
+62445,252,104,488000,Convict,Springfield Police Station,Fire in the hole!
+62446,252,105,492000,Lisa Simpson,Springfield Police Station,Jesse?
+62447,252,106,495000,Lisa Simpson,Springfield Police Station,You do yoga?
+62448,252,107,496000,Jesse Grass,Springfield Police Station,"Yeah, but I started before it was cool."
+62449,252,108,498000,Lisa Simpson,Springfield Police Station,My name's Lisa Simpson. I think your protest was incredibly brave.
+62450,252,109,502000,Jesse Grass,Springfield Police Station,Thank you. This planet needs every friend it can get.
+62451,252,110,505000,Lisa Simpson,Springfield Police Station,"Oh, the earth is the best. That's why I'm a vegetarian."
+62452,252,111,509000,Jesse Grass,Springfield Police Station,"Well, that's a start."
+62453,252,112,512000,Lisa Simpson,Springfield Police Station,"Well, um, I was thinking of going vegan!"
+62454,252,113,514000,Jesse Grass,Springfield Police Station,"Uh, yeah, I'm a level five vegan. I won't eat anything that casts a shadow."
+62455,252,114,518000,Lisa Simpson,Springfield Police Station,Wow. Um... I started an organic compost pile at home.
+62456,252,115,524000,Jesse Grass,Springfield Police Station,Only at home? You mean you don't pocket-mulch?
+62457,252,116,527000,Lisa Simpson,Springfield Police Station,"Oh, it's so decomposed! Do you think I could join Dirt First?"
+62426,252,117,532000,Jesse Grass,Springfield Police Station,"Well, we might have an opening at the Poser level..."
+62458,252,118,536000,Lisa Simpson,Springfield Police Station,"Oh, thank you, thank you!"
+62459,252,120,540000,Homer Simpson,Abandoned Warehouse,Have a good time at your hippie club.
+62460,252,121,542000,Lisa Simpson,Abandoned Warehouse,"You're welcome to come, too."
+62461,252,122,544000,Homer Simpson,Abandoned Warehouse,"No, I like to save the environment in my own way."
+62462,252,123,553000,Homer Simpson,Abandoned Warehouse,Mmm... donuts.
+62464,252,125,556000,Jesse Grass,Warehouse,"I am happy to report we've succeeded in blocking the St. Patrick's Day Parade, which every year, steps on several lizards."
+62465,252,126,562000,Activists,Warehouse,Right on! / Yeah! /
+62466,252,127,564000,Jesse Grass,Warehouse,Don't celebrate yet. The mayor had a secret tree auction last night.
+62468,252,129,569000,Mayor Joe Quimby,Springfield Town Hall,What am I bid for the logging rights to Springfield's oldest redwood tree?
+62469,252,130,575000,Businessman,Springfield Town Hall,Thirty thousand dollars. To make cages for animal experimentation.
+62470,252,131,578000,Mr. Thai,Springfield Town Hall,Fifty thousand. For Thai menus. Daughter on wait list at Bennington.
+62471,252,132,583000,The Rich Texan,Springfield Town Hall,A hundred thousand simoleons. To make the world's first drive-thru humidor.
+62472,252,133,590000,Mayor Joe Quimby,Springfield Town Hall,"Uh, sold! To the Rich Texan!"
+62473,252,134,592000,The Rich Texan,Springfield Town Hall,Yee haw / Yippee / Yi ki yi yaa / Woo doggie! / Ya-ha-hoo! / Etc.
+62474,252,135,600000,Jesse Grass,Springfield Town Hall,Thanks to Caleb for the tape. How'd you sneak that camera in?
+62475,252,136,603000,Caleb,Springfield Town Hall,I got my ways.
+62476,252,137,606000,Jesse Grass,Springfield Town Hall,They can't cut down that sequoia if one of us is living in it! Any volunteers?
+62477,252,138,611000,Activists,Springfield Town Hall,I'll do it! / Yeah! / I am so there. / Etc.
+62478,252,139,614000,Jesse Grass,Springfield Town Hall,"Whoa, hold on. Once you're up there, you can't come down. Not for a Phish concert... Not even for Burning Man."
+62480,252,141,623000,Jesse Grass,Springfield Town Hall,"Well, someone will hear the call."
+62481,252,142,627000,Jesse Grass,Springfield Town Hall,And whoever does will have a place in my heart.
+62483,252,144,634000,Homer Simpson,Simpson Home,"Sheesh, look at these refugees. How 'bout a smile?"
+62484,252,145,638000,Marge Simpson,Simpson Home,They've undergone terrible hardships.
+62485,252,146,641000,Homer Simpson,Simpson Home,"Well, moping won't make it better."
+62486,252,147,643000,Lisa Simpson,Simpson Home,"Mom, Dad, there's something I have to do. You're not gonna like it, but I really believe it's the right thing."
+62487,252,148,651000,Homer Simpson,Simpson Home,"Marge, she's gonna narc on our stash."
+62488,252,149,655000,Marge Simpson,Simpson Home,We don't have a stash.
+62393,252,150,657000,Homer Simpson,Simpson Home,"No, of course not."
+61267,252,153,670000,Lisa Simpson,Hill,Wow...
+62489,252,154,673000,Lisa Simpson,Hill,"Oh, I didn't think it would be so high... Maybe I could just circulate a petition..."
+62491,252,156,683000,Lisa Simpson,Hill,"Oh, I'll show you."
+62493,252,158,699000,Lisa Simpson,TREE,"Well, this looks like a good place to set up camp."
+62494,252,159,710000,Lisa Simpson,TREE,"Wow, what a view."
+62496,252,161,721000,The Rich Texan,Hillside,"Gentlemen, start your chain saws."
+62497,252,162,726000,Lisa Simpson,Hillside,Not so fast!
+62498,252,163,731000,The Rich Texan,Hillside,"Now you come down from there, Missy!"
+62499,252,164,734000,Lisa Simpson,Hillside,I won't come down till you spare this tree!
+62500,252,165,741000,Jesse Grass,Hillside,"Hang in there, Laura!"
+62501,252,166,743000,Lisa Simpson,Hillside,It's Lisa!
+62502,252,167,745000,Jesse Grass,Hillside,"Right, Lisa! You're hard core!"
+62503,252,168,748000,Lisa Simpson,Hillside,He said I was hard core.
+62505,252,170,760000,Marge Simpson,Hillside,"Oh, no. My baby's up there!"
+62506,252,171,763000,Lisa Simpson,Hillside,"It's okay, Mom! I have a safety line!"
+62507,252,172,766000,Homer Simpson,Hillside,"This is your fault, with your non-threatening Bobby Sherman-style good looks. No girl could resist your charms."
+62508,252,173,773000,Jesse Grass,Hillside,"This was her choice, Mr. Simpson."
+62509,252,174,774000,Homer Simpson,Hillside,"I'm sorry, I wasn't listening. I was lost in your eyes."
+62510,252,175,780000,Lisa Simpson,Hillside,All right! A care bucket.
+62512,252,177,785000,Lisa Simpson,TREE,"Hot Thai soup! Ohhh, Bart... ""Dear Lisa. You rock! Mom is calling rescue agencies. Dad is building a giant ladder, but it is of poor quality. We miss you, Bart."" Awww."
+62514,252,179,801000,Kent Brockman,TV Studio,"It's day four for Springfield's li'l-est tree hugger. Excuse me, that's littlest tree hugger. And whether you love or hate her politics, you've gotta go gawk at this crazy, idiot."
+62517,252,182,814000,Lisa Simpson,REDWOOD TREE,"Oh, seven o'clock. The family's just sitting down to dinner."
+62518,252,183,822000,Lisa Simpson,REDWOOD TREE,Awww.
+62520,252,185,823000,Homer Simpson,Simpson Home,You call that saying grace?!
+62523,252,188,836000,Lisa Simpson,MOON,Now they're making popcorn...
+62524,252,189,836000,Lisa Simpson,MOON,And hanging Christmas stockings!
+62525,252,190,836000,Lisa Simpson,MOON,And coloring Easter eggs!
+62526,252,191,844000,Lisa Simpson,MOON,"Oh, I can't take it! Would it be so bad if I just went home for an hour?"
+62529,252,194,858000,Lisa Simpson,Hill,"Don't worry, I'll be right back."
+62530,252,195,862000,Lisa Simpson,Hill,"Ew, someone's been marking their territory."
+62532,252,197,868000,Lisa Simpson,Simpson Home,"Hey, everybody! I..."
+62533,252,198,874000,Lisa Simpson,Simpson Home,Aww.
+62534,252,199,878000,Lisa Simpson,Simpson Home,I'll just rest here for a minute.
+62536,252,201,895000,Lisa Simpson,Simpson Home,"Ooh, it's morning. I gotta get back!"
+62538,252,203,904000,Lisa Simpson,Hill,"Oh, no."
+62540,252,205,911000,Lisa Simpson,Simpson Home,"Oh Mom, those loggers chopped down the tree! Why did I have to leave my post?"
+62541,252,206,917000,Marge Simpson,Simpson Home,"Now honey, let's turn on the news and forget our troubles."
+62542,252,207,921000,Kent Brockman,Simpson Home,"Springfield's oldest resident has died. No, it wasn't Mr. Burns... it was this majestic old redwood, which was brutally cut down last night. Not by loggers, but by lightning."
+62543,252,208,936000,Lisa Simpson,Simpson Home,"Lightning?! Well, at least it wasn't my fault."
+62544,252,209,940000,Kent Brockman,Simpson Home,Lightning attracted by this metal bucket.
+62546,252,211,944000,Kent Brockman,Simpson Home,Still unknown is the fate of tree-sitter Lisa Simpson.
+62547,252,212,947000,Chief Wiggum,Simpson Home,"I'm afraid it doesn't look good, Kent. We found her sleeping bag."
+62548,252,213,949000,Chief Wiggum,Simpson Home,"Right here. Our working theory is that the lightning exploded her. Back to you, Kent."
+62549,252,214,956000,Kent Brockman,Simpson Home,You don't get to say that.
+62550,252,215,957000,Kent Brockman,Simpson Home,"Goodbye, Lisa. We'll miss you."
+62552,252,217,960000,Homer Simpson,Simpson Living Room,"Oh no, Lisa's gone! And nothing will bring her back. Unless..."
+62553,252,218,967000,Lisa Simpson,Simpson Living Room,"Dad, I'm not dead!"
+62554,252,219,968000,Homer Simpson,Simpson Living Room,"Oh, praise God, you're alive! Unless..."
+62555,252,220,972000,Marge Simpson,Simpson Living Room,"Oh my, they made you a shrine!"
+62557,252,222,978000,Jesse Grass,Simpson Living Room,"I loved Lisa Simpson, loved her like a shrub. And I would give anything to see her sweet face again."
+62559,252,224,987000,Jesse Grass,Simpson Living Room,"But in death, she will do more for our cause than she ever could have done in life."
+62560,252,225,992000,The Rich Texan,Simpson Living Room,"Uh-huh. In Texas, we do tragedy right. That's why, in memory of that poor little girl, I'm turning this entire forest into the ""Lisa Simpson Wilderness Preserve."""
+62561,252,226,1002000,Jesse Grass,Simpson Living Room,"We won, Lisa. We finally won! This is for you."
+62562,252,227,1014000,Lisa Simpson,Simpson Living Room,He cut off his favorite dread!
+62563,252,228,1017000,Marge Simpson,Simpson Living Room,We have to tell them you're not dead.
+62564,252,229,1020000,Lisa Simpson,Simpson Living Room,"No, Mom. It's a memorial forest now. If I'm alive, they'll cut it down!"
+62565,252,230,1026000,Marge Simpson,Simpson Living Room,"You are not pretending to be dead, young lady. This family has had nothing but bad luck when it comes to farce."
+62566,252,231,1033000,Ned Flanders,Simpson Living Room,"Homer, it's Neddy. I baked you a little something to ease the pain."
+62567,252,232,1036000,Homer Simpson,Simpson Living Room,"Oh, must hide Lisa...!"
+62568,252,233,1041000,Homer Simpson,Simpson Living Room,Come i-in!
+62570,252,235,1045000,Seymour Skinner,Springfield Elementary School,"So Bart, our school policy is to give students in your situation straight A's."
+62571,252,236,1050000,Bart Simpson,Springfield Elementary School,Get out! What's the catch?
+62572,252,237,1051000,Seymour Skinner,Springfield Elementary School,The tragic loss of your sister.
+62573,252,238,1053000,Bart Simpson,Springfield Elementary School,"Ah, yes. Ghastly business, that."
+62575,252,240,1061000,Homer Simpson,Moe's Tavern,"Grieving father, comin' through..."
+62576,252,241,1063000,Moe Szyslak,Moe's Tavern,"Homer, ah, booze is on the house, seeing as how Lisa is, ah,... how do I put this... uh, ridin' the midnight train to slab city."
+62577,252,242,1073000,Homer Simpson,Moe's Tavern,"Thanks for the beer, Moe. But before Lisa died, she made this tape that I think you should hear."
+62578,252,243,1079000,Lisa Simpson,Moe's Tavern,"Dear Moe, if anything should ever happen to me, I want you to tear up my dad's tab, and pour cocktail onions... Dad, I can't--"
+62579,252,244,1088000,Homer Simpson,Moe's Tavern,Read it!
+62580,252,245,1090000,Lisa Simpson,Moe's Tavern,... pour cocktail onions down your pants.
+62581,252,246,1094000,Moe Szyslak,Moe's Tavern,"Well, I ain't never said no to a dead girl yet."
+62583,252,248,1101000,Mayor Joe Quimby,Springfield Forest,"And now, Branford Marsalis will play, using Lisa's very own saxophone."
+62584,252,249,1106000,Milhouse Van Houten,Springfield Forest,Don't touch it! They can clone her from the spit!
+62585,252,250,1110000,Mayor Joe Quimby,Springfield Forest,"Good luck, Milhouse."
+62586,252,251,1112000,Mayor Joe Quimby,Springfield Forest,"And finally, an exciting announcement from our good friends at Omni-Pave."
+62587,252,252,1118000,The Rich Texan,Springfield Forest,"Folks, last night the dear, departed Lisa came to me in a dream. And she told me her fondest wish was that this forest would become the world's rootin'est, tootin'est, pollutin'est amusement park!"
+62588,252,253,1135000,Apu Nahasapeemapetilon,Springfield Forest,That was Lisa's tree!
+62589,252,254,1135000,Springfielders,Springfield Forest,/ Amusement park?!
+62590,252,255,1135000,Jesse Grass,Springfield Forest,You promised us a nature preserve!
+62591,252,256,1138000,The Rich Texan,Springfield Forest,"Now, don't you fret. We're sensitive to all your eco-concerns."
+62592,252,257,1143000,The Rich Texan,Springfield Forest,"That's it, boys! The gift shop will go right there. Yee-ha, cut it down! Ha ha."
+62593,252,258,1149000,Lisa Simpson,Springfield Forest,Nooo!
+62595,252,260,1156000,Comic Book Guy,Springfield Forest,A g-g-g-girl!
+62596,252,261,1158000,Lisa Simpson,Springfield Forest,I'm not dead! And neither is my sense of moral outrage.
+62597,252,262,1163000,Homer Simpson,Springfield Forest,"Oh, here we go."
+62598,252,263,1164000,Lisa Simpson,Springfield Forest,"Sir, have you no shame?"
+62599,252,264,1166000,The Rich Texan,Springfield Forest,"Clearly, I don't."
+62600,252,265,1170000,The Rich Texan,Springfield Forest,"Now, get your heinie offa Lisa Land!"
+62601,252,266,1173000,Jesse Grass,Springfield Forest,A redwood is not a promotional tool!
+62602,252,267,1178000,Sideshow Mel,Springfield Forest,Good Lord! He's cutting the guide wire!
+62605,252,270,1197000,Jesse Grass,Springfield Forest,"Nice work, tree! Now, return to me!"
+62606,252,271,1204000,Jesse Grass,Springfield Forest,"Oh, right. I don't have super powers. Just yet."
+62607,252,272,1208000,Male Activist,Springfield Forest,Sweet! It's headed for the business district!
+62609,252,274,1215000,The Rich Texan,SPRINGFIELD BUSINESS DISTRICT,Not my company!
+62611,252,276,1226000,Homer Simpson,SPRINGFIELD BUSINESS DISTRICT,Nooo! It was finger Ling-Ling good!
+62614,252,279,1237000,The Rich Texan,HEMP CITY,Yee ha! Score one for the bad guys!
+62616,252,281,1244000,Jesse Grass,SPRINGFIELD JAIL,"Hey, Lisa!"
+62617,252,282,1246000,Lisa Simpson,SPRINGFIELD JAIL,"Aw, Jesse. They locked you up again."
+62618,252,283,1248000,Jesse Grass,SPRINGFIELD JAIL,"Yeah, but I'm still fightin' for the earth. I even got 'em to install a solar-powered electric chair."
+62620,252,284,1253000,Snake Jailbird,SPRINGFIELD JAIL,"Dude, we've been here all morning. Could you at least re-moisten my head sponge?"
+62621,252,285,1258000,Lisa Simpson,SPRINGFIELD JAIL,"Well, I'll write you letters. On rice paper, with a soy pencil!"
+62622,252,286,1263000,Jesse Grass,SPRINGFIELD JAIL,"Aw, you're sweet."
+62623,252,287,1266000,Jesse Grass,SPRINGFIELD JAIL,"Hey, did they ever stop that log?"
+62624,252,288,1268000,Lisa Simpson,SPRINGFIELD JAIL,Not yet.
+62625,252,289,1268000,Jesse Grass,SPRINGFIELD JAIL,Wassup wi' that?
+62626,252,290,1272000,Singers,SPRINGFIELD JAIL,THIS LOG IS YOUR LOG / THIS LOG IS MY LOG / WHEN LIGHTNING STRUCK IT / IT KICKED THE BUCKET...
+62627,252,291,1280000,Moe Szyslak,SPRINGFIELD JAIL,I POURED SOME ONIONS / INSIDE MY TROUSERS...
+62628,252,292,1286000,Singers,SPRINGFIELD JAIL,THIS LOG IT USED TO BE A TREE. NOW IT SPREADS LOVE TO YOU AND ME. HEY LOOK IT'S HEADING OUT TO SEA...

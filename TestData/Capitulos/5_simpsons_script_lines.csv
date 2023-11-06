@@ -1,0 +1,284 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+150039,5,1,18000,Homer Simpson,Simpson Home,Do I smell cupcakes?
+150040,5,2,20000,Homer Simpson,Simpson Home,"Oooo, Do I ever!"
+150041,5,3,22000,Marge Simpson,Simpson Home,"Uh-uh, Homer. Lisa's making these for her teacher."
+150042,5,4,26000,Homer Simpson,Simpson Home,Ah. Say no more.
+150043,5,5,28000,Bart Simpson,Simpson Home,Yum. Don't mind if I do!
+150044,5,6,30000,Marge Simpson,Simpson Home,Bart!
+150045,5,7,31000,Bart Simpson,Simpson Home,"Oh, man."
+150046,5,8,32000,Lisa Simpson,Simpson Home,Keep your greasy mitts outta there.
+150010,5,9,34000,Marge Simpson,Simpson Home,These are for Lisa's class.
+150048,5,10,36000,Lisa Simpson,Simpson Home,It's Mrs. Hoover's birthday!
+150049,5,11,38000,Bart Simpson,Simpson Home,"You know, there are names for people like you."
+150050,5,12,40000,Lisa Simpson,Simpson Home,No there aren't.
+150051,5,13,40000,Bart Simpson,Simpson Home,"Teacher's pet, apple polisher, butt kisser..."
+150052,5,14,44000,Homer Simpson,Simpson Home,"Bart, you're saying butt kisser like it's a bad thing."
+150053,5,15,49000,Bart Simpson,Simpson Home,Huh?
+150054,5,16,49000,Homer Simpson,Simpson Home,"Well, you see, boy. It never hurts to grease the wheels a little."
+150055,5,17,53000,Lisa Simpson,Simpson Home,"I'm not greasing the wheels, Dad. I like my teacher."
+150056,5,18,56000,Homer Simpson,Simpson Home,"Surely, Lisa. You see how it works, Bart? A cupcake here, a good grade there."
+150057,5,19,61000,Lisa Simpson,Simpson Home,"Dad, I get good grades 'cause I'm smart and I pay attention and I study hard."
+150058,5,20,65000,Homer Simpson,Simpson Home,"Yeah, right, Lis. It's the three roads to success, Bart. Work, brains, and..."
+150059,5,21,72000,Lisa Simpson,Simpson Home,"Oh, brother."
+150060,5,22,74000,Bart Simpson,Simpson Home,"Uh oh, school bus! Gotta go."
+150064,5,26,80000,Bart Simpson,School Bus,"Yo, Otto-man."
+150065,5,27,82000,Otto Mann,School Bus,"Yo, Bart-dude."
+150066,5,28,84000,Bart Simpson,School Bus,"Hey, can you believe it, man? My sister here made a whole pile of cupcakes to butter up her teacher, and she won't give anybody else even one measly little crumb!"
+150067,5,29,92000,Otto Mann,School Bus,"That's bad news, man."
+150068,5,30,94000,Lisa Simpson,School Bus,"Here, Otto, I made an extra one for you."
+150069,5,31,96000,Otto Mann,School Bus,"Oh, thanks, little lady."
+150070,5,32,98000,Lisa Simpson,School Bus,You're welcome.
+150071,5,33,102000,Bart Simpson,School Bus,"Better let me hold these, Lis."
+150072,5,34,103000,Lisa Simpson,School Bus,Forget it.
+150073,5,35,104000,Bart Simpson,School Bus,You sniveling toad! You little egg sucker!
+150074,5,36,106000,Lisa Simpson,School Bus,Tell me more.
+150075,5,37,107000,Bart Simpson,School Bus,Backscratcher! Foot licker! Honor student!
+150076,5,38,110000,Lisa Simpson,School Bus,"You'll never get one now, Mr. Name-caller."
+150077,5,39,113000,Bart Simpson,School Bus,"All right, all right. Look. I'm sorry. I-I got upset. In the heat of the moment, I said some things I didn't mean."
+150078,5,40,120000,Lisa Simpson,School Bus,"You weren't thinking, were you?"
+150079,5,41,121000,Bart Simpson,School Bus,No.
+150080,5,42,122000,Lisa Simpson,School Bus,"I'm not a sniveling toad, am I?"
+150081,5,43,124000,Bart Simpson,School Bus,Not really.
+150083,5,44,125000,Lisa Simpson,School Bus,"I'm not a little egg sucker, am I?"
+150084,5,45,127000,Bart Simpson,School Bus,Of course not.
+150085,5,46,128000,Lisa Simpson,School Bus,Then what am I?
+150086,5,47,129000,Bart Simpson,School Bus,A beautiful human being.
+150087,5,48,132000,Lisa Simpson,School Bus,What do you like best about me?
+150088,5,49,134000,Bart Simpson,School Bus,"Well, I'd have to say... your generous nature, your spirit of giving."
+150089,5,50,139000,Lisa Simpson,School Bus,Well... hm...
+150090,5,51,141000,Lisa Simpson,School Bus,"Open your mouth, and close your eyes, and you will get a big surprise."
+150091,5,52,152000,Bart Simpson,School Bus,"Thanks, Lis. You're the best."
+150093,5,54,157000,Lisa Simpson,NEAR SCHOOL ENTRANCE,"Look, Janey, cupcakes."
+150094,5,55,159000,Weasel #1,NEAR SCHOOL ENTRANCE,Gimme that!
+150095,5,56,160000,Lisa Simpson,NEAR SCHOOL ENTRANCE,Hey! Give those back!
+150096,5,57,162000,Bart Simpson,NEAR SCHOOL ENTRANCE,"Hey, what's the big idea? That's my sister, man!"
+150097,5,58,165000,Weasel #1,NEAR SCHOOL ENTRANCE,So what?
+150098,5,59,166000,Bart Simpson,NEAR SCHOOL ENTRANCE,So give her back those cupcakes before I knock your block off.
+150099,5,60,169000,Lisa Simpson,NEAR SCHOOL ENTRANCE,Don't Bart! He's a friend of Nelson Muntz.
+150100,5,61,187000,Weasel #1,NEAR SCHOOL ENTRANCE,"Nelson, you're bleeding."
+150101,5,62,189000,Nelson Muntz,NEAR SCHOOL ENTRANCE,Nah. This happens all the time. Somebody else's blood splatters on me.
+150102,5,63,194000,Nelson Muntz,NEAR SCHOOL ENTRANCE,"Hey, wait a minute. You're right. You made me bleed my own blood."
+150103,5,64,201000,Bart Simpson,NEAR SCHOOL ENTRANCE,"Uh, it was an ACCIDENT, man. A terrible ghastly mistake! Ask anybody!"
+150104,5,65,209000,Bart Simpson,NEAR SCHOOL ENTRANCE,"Uh, oh. A cold wind!"
+150105,5,66,211000,Seymour Skinner,NEAR SCHOOL ENTRANCE,"Hello, kids. Everything above the board here? Good. Play friendly, children."
+150106,5,67,217000,Seymour Skinner,NEAR SCHOOL ENTRANCE,"Uh, oh. There's your bell. Come along now, all of you."
+150107,5,68,219000,Seymour Skinner,NEAR SCHOOL ENTRANCE,"No dawdling, now."
+150108,5,69,221000,Nelson Muntz,NEAR SCHOOL ENTRANCE,"I'll get you after school, man."
+150109,5,70,224000,Bart Simpson,NEAR SCHOOL ENTRANCE,But...
+150110,5,71,225000,Seymour Skinner,NEAR SCHOOL ENTRANCE,"Oh, no no no. He'll get you after school, son. Now hurry up. It's time for class."
+150111,5,72,229000,Bart Simpson,NEAR SCHOOL ENTRANCE,But...
+150112,5,73,230000,Seymour Skinner,NEAR SCHOOL ENTRANCE,"Scoot, young Simpson. There's learning afoot."
+150115,5,76,242000,Bart Simpson,PLAYGROUND,"Okay, Nelson. Put up your dukes."
+150118,5,79,252000,Bart Simpson,STAIRCASE,"Uh, oh!"
+150120,5,80,269000,Nelson Muntz,STAIRCASE,Hmmm. Lunchtime. Lunchtime.
+150121,5,81,279000,Milhouse Van Houten,STAIRCASE,Bart. It's lunchtime.
+150122,5,82,283000,Bart Simpson,STAIRCASE,I ain't gonna get outta the fourth grade alive.
+150124,5,84,286000,Milhouse Van Houten,Springfield Elementary School Hallway,"You've gotta tell Principal Skinner, Bart."
+150125,5,85,289000,Bart Simpson,Springfield Elementary School Hallway,But I can't squeal. It would violate the code of the school yard.
+150127,5,87,293000,Lisa Simpson,Springfield Elementary School Cafeteria,"Hey, everybody. Here comes my brother, Bart the bully­ killer!"
+150128,5,88,299000,ALL AT THE TABLE,Springfield Elementary School Cafeteria,Yay!!!
+150129,5,89,299000,Bart Simpson,Springfield Elementary School Cafeteria,"Look, everybody. I would just as soon not make a big deal out of this. I'm not saying I'm not a hero. I'm just saying that I fear for my safety."
+150130,5,90,313000,Kid,Springfield Elementary School Cafeteria,Look out!
+150131,5,91,316000,Bart Simpson,Springfield Elementary School Cafeteria,"Nelson, it was all a mistake. This is how it happened, man -- Listen up, you may get a kick out of it. -- My sister was baking cupcakes this morning and..."
+150132,5,92,325000,Nelson Muntz,Springfield Elementary School Cafeteria,I'll see you at the flagpole at three fifteen.
+150133,5,93,328000,Weasel #1,Springfield Elementary School Cafeteria,And you better be prompt.
+150134,5,94,329000,Weasel #2,Springfield Elementary School Cafeteria,He has four other beatings scheduled for this afternoon.
+150137,5,97,340000,Otto Mann,MORTUARY,"Goodbye, little dude. He looks so life-like, man."
+150138,5,98,344000,Seymour Skinner,MORTUARY,"Yes, the school nurse did a wonderful job reconstructing his little face after the fight. Goodbye, son. I guess you were right. All that homework was a waste of your time."
+150139,5,99,355000,Milhouse Van Houten,MORTUARY,"Thanks, Bart. We got the day off from school for this."
+150140,5,100,357000,Homer Simpson,MORTUARY,"Yeah, and I got the day off from work."
+150141,5,101,359000,Marge Simpson,MORTUARY,Homer!
+150142,5,102,360000,Homer Simpson,MORTUARY,"But what's a day off from work when I'm never gonna see my beloved son again. Oh, Bart. Oh, Bart."
+150143,5,103,368000,Marge Simpson,MORTUARY,"That's better, Homer. Be brave. Bye bye, Bart. You were always my special little guy."
+150145,5,105,380000,Lisa Simpson,MORTUARY,"Bart, here's that cupcake you wanted. I can't help but think if I had just given it to you in the first place, this whole horrible tragedy could have been avoided. I know you can't eat it now, so I'll just place it lovingly on your forehead. ."
+150146,5,106,396000,Nelson Muntz,MORTUARY,"Hey, look! They got food at this thing. And here's one for the road, dude. ."
+150149,5,109,415000,Nelson Muntz,PLAYGROUND,Put 'em up!
+150150,5,110,426000,Bart Simpson,PLAYGROUND,"Boy, you sure taught me a lesson. Whew! Thanks guys. I guess now all that's left is a hearty handshake. Right guys?"
+150151,5,111,436000,Nelson Muntz,PLAYGROUND,"I'm gonna get you again tomorrow, Simpson."
+150152,5,112,442000,Weasel #1,PLAYGROUND,Is three fifteen good for ya?
+150153,5,113,444000,Bart Simpson,PLAYGROUND,"Uh, not really."
+150154,5,114,445000,Weasel #2,PLAYGROUND,Too bad.
+150155,5,115,448000,Bart Simpson,PLAYGROUND,Oh no.
+150156,5,116,450000,Bart Simpson,PLAYGROUND,"Oh man, that guy's tough to love."
+150158,5,118,472000,Bart Simpson,Simpson Home,"Hi, Mom. Hi, Dad."
+150159,5,119,474000,Homer Simpson,Simpson Home,"Tough day at school, boy?"
+150160,5,120,475000,Marge Simpson,Simpson Home,"Bart, what happened to you?"
+150161,5,121,477000,Bart Simpson,Simpson Home,Let's just say I paid the inevitable price for helping out my sister.
+150162,5,122,481000,Homer Simpson,Simpson Home,"So you had a little scuffle, eh? Hope you won."
+150164,5,124,488000,Bart Simpson,Simpson Home,"I'm gonna miss you, big guy."
+150165,5,125,494000,Homer Simpson,Simpson Home,"Bart, your mother has the fool idea that you're upset about something."
+150166,5,126,500000,Bart Simpson,Simpson Home,Dad... I need help... Please...
+150167,5,127,504000,Homer Simpson,Simpson Home,"Come on, Bart, we don't want your mother to see you crying. Here, let me help you dry those tears."
+150168,5,128,516000,Homer Simpson,Simpson Home,"So, what's the problem, son?"
+150169,5,129,518000,Bart Simpson,Simpson Home,I had a run-in with a bully.
+150170,5,130,521000,Marge Simpson,Simpson Home,A bully?!
+150171,5,131,523000,Homer Simpson,Simpson Home,"Come on, Marge. I don't bug you when you're helping Lisa."
+150172,5,132,525000,Marge Simpson,Simpson Home,"Well, Bart, I hope you're going straight to the principal about this."
+150173,5,133,528000,Bart Simpson,Simpson Home,I guess I could do that.
+150174,5,134,530000,Homer Simpson,Simpson Home,What? And violate the code of the school yard? I'd rather Bart died.
+150175,5,135,535000,Marge Simpson,Simpson Home,"What on earth are you talking about, Homer?"
+150176,5,136,536000,Homer Simpson,Simpson Home,"The code of the School yard, Marge! The rules that teach a boy to be a man. Let's see... Don't tattle... Always make fun of those different from you... Never say anything unless you're sure everyone feels exactly the same way you do... Hmmm, what else... ?"
+150178,5,137,552000,Marge Simpson,Simpson Home,"Oh Homer, that's ridiculous. Bart, instead of fighting, why don't you try a little understanding?"
+150179,5,138,558000,Bart Simpson,Simpson Home,"What do you mean, Mom?"
+150180,5,139,560000,Homer Simpson,Simpson Home,"Yeah, right! This ought to be good for a laugh."
+150181,5,140,562000,Marge Simpson,Simpson Home,Shh! This bully friend of yours... Is he a little on the chunky side?
+150182,5,141,566000,Bart Simpson,Simpson Home,"Yeah, - he's pretty chunkified, all right."
+150183,5,142,568000,Marge Simpson,Simpson Home,Huh huh. And I'll bet he doesn't do well in his studies either.
+150184,5,143,572000,Bart Simpson,Simpson Home,No. He's pretty dumb. He's in all the same special classes I am.
+150185,5,144,575000,Marge Simpson,Simpson Home,That's why he lashes out at the world.
+150186,5,145,578000,Homer Simpson,Simpson Home,"Aw, Marge."
+150187,5,146,578000,Marge Simpson,Simpson Home,"So tomorrow, instead of bickering with this boy, talk to him. You'll be surprised how far a little understanding will go."
+150188,5,147,584000,Homer Simpson,Simpson Home,"Well, thank you very much, Mrs. Maharishi Gandhi. Let's go, boy."
+150190,5,149,590000,Homer Simpson,Simpson Home,Now here's that bully of yours. Show me your stuff.
+150191,5,150,593000,Homer Simpson,Simpson Home,"No, no! Not like that! Like this!"
+150192,5,151,608000,Homer Simpson,Simpson Home,"See, that boy? You didn't expect that, did you? And neither will he."
+150193,5,152,612000,Bart Simpson,Simpson Home,"You mean I should fight dirty, Dad?"
+150194,5,153,614000,Homer Simpson,Simpson Home,"Unfortunately, son, we Simpsons sometimes have to bend the rules a little in order to hold our own."
+150195,5,154,614000,Bart Simpson,Simpson Home,Amen.
+150196,5,155,619000,Homer Simpson,Simpson Home,"So the next time this bully thinks you're gonna throw a punch, you throw a glob of mud in his eyes, and then you sock him when he's staggering around, blinded..."
+150197,5,156,628000,Bart Simpson,Simpson Home,Yeah!
+150198,5,157,629000,Homer Simpson,Simpson Home,And there's nothing wrong with hitting someone when his back is turned.
+150199,5,158,632000,Bart Simpson,Simpson Home,Gotcha.
+150200,5,159,634000,Homer Simpson,Simpson Home,"And if you get the chance, get 'em right in the family jewels. That little doozy's been a Simpson trademark for generations."
+150201,5,160,641000,Bart Simpson,Simpson Home,"Thanks, Pop."
+150203,5,162,647000,Nelson Muntz,PLAYGROUND,Put 'em up.
+150204,5,163,653000,Homer's Image,PLAYGROUND,"Remember the family jewels, son."
+150205,5,164,662000,Bart Simpson,PLAYGROUND,"Whoa! Ouch! Ow! Ooh! Oh no, boys, not the can, please."
+150207,5,166,673000,Lisa Simpson,Simpson Home,"Bart, you can't go on like this."
+150177,5,167,676000,Bart Simpson,Simpson Home,I know.
+150208,5,168,677000,Lisa Simpson,Simpson Home,Why don't you go see Grampa?
+150209,5,169,679000,Bart Simpson,Simpson Home,What can he do?
+150210,5,170,680000,Lisa Simpson,Simpson Home,He'll give you good advice. He's the toughest Simpson alive.
+150211,5,171,683000,Bart Simpson,Simpson Home,He is?
+150212,5,172,685000,Lisa Simpson,Simpson Home,"Yeah, remember the fight he put up when we put him in the home?"
+150214,5,174,690000,Bart Simpson,Springfield Retirement Castle,I'm here to see Grampa.
+150215,5,175,693000,Receptionist,Springfield Retirement Castle,Half the people here are named Grampa.
+150216,5,176,693000,Bart Simpson,Springfield Retirement Castle,"Well, Grampa Simpson then."
+150217,5,177,699000,Receptionist,Springfield Retirement Castle,"Second floor, third dank room on the left."
+150218,5,178,702000,Bart Simpson,Springfield Retirement Castle,Thanks lady.
+150220,5,180,705000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,"Dear Advertisers: I am disgusted with the way old people are depicted on television. We are not all vibrant, fun-loving sex maniacs. Many of us are bitter, resentful individuals who remember the good old days when entertainment was bland and inoffensive. The following is a list of words I never want to hear on television again. Number one: Bra. Number two: Horny. Number three: Family jewels."
+150221,5,181,739000,Bart Simpson,Grampa's Room at Springfield Retirement Castle,"Hi, Grampa!"
+150222,5,182,740000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,Bart! What brings you here?
+150223,5,183,742000,Bart Simpson,Grampa's Room at Springfield Retirement Castle,"I need some advice, Grampa. See, there's this bully at school who keeps beating me up."
+150224,5,184,748000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,"Well, let me tell you something, boy. If you don't stand up for yourself, bullies are gonna be picking on you for the rest of your life."
+150225,5,185,755000,Elderly Gentleman,Grampa's Room at Springfield Retirement Castle,"Simpson, gimme your newspaper."
+150226,5,186,756000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,Why should I?
+150227,5,187,758000,Elderly Gentleman,Grampa's Room at Springfield Retirement Castle,I want to do the crossword puzzle.
+150228,5,188,759000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,"No, I want to do the crossword puzzle."
+150229,5,189,762000,Elderly Gentleman,Grampa's Room at Springfield Retirement Castle,I said gimme that puzzle!
+150230,5,190,763000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,No.
+150231,5,191,764000,Elderly Gentleman,Grampa's Room at Springfield Retirement Castle,Gimme!
+150232,5,192,765000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,No.
+150233,5,193,766000,Elderly Gentleman,Grampa's Room at Springfield Retirement Castle,Gimme!
+150234,5,194,772000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,No.
+150235,5,195,774000,Grampa Simpson,Grampa's Room at Springfield Retirement Castle,"I guess I can't help you, but I know someone who can."
+148988,5,197,780000,Bart Simpson,Outside Herman's Military Antiques,Here?
+150237,5,198,782000,Grampa Simpson,Outside Herman's Military Antiques,Yep. This is it.
+150238,5,199,783000,Herman Hermann,Outside Herman's Military Antiques,What's the password?
+150239,5,200,785000,Grampa Simpson,Outside Herman's Military Antiques,"Let me in, you idiot."
+150240,5,201,787000,Herman Hermann,Outside Herman's Military Antiques,Right you are.
+150242,5,203,788000,Grampa Simpson,Herman's Military Antiques,"So Herman, has the large-type edition of this month's Soldier of Fortune come in yet?"
+150243,5,204,794000,Herman Hermann,Herman's Military Antiques,Not yet. Can I interest you in some authentic Nazi underpants?
+150244,5,205,800000,Grampa Simpson,Herman's Military Antiques,"No. Actually, we came over because I want you to meet my grandson, Bart."
+150245,5,206,805000,Herman Hermann,Herman's Military Antiques,"Hello, young American."
+150246,5,207,806000,Bart Simpson,Herman's Military Antiques,"Hello, sir. Uh... Mr. Herman, did you lose your arm in the war?"
+150247,5,208,814000,Herman Hermann,Herman's Military Antiques,"My arm? Well, let me put it this way. Next time your teacher tells you to keep your arm inside the bus window, you do it."
+150248,5,209,821000,Bart Simpson,Herman's Military Antiques,"Yes, sir. I will."
+150249,5,210,823000,Grampa Simpson,Herman's Military Antiques,Bart's got a problem with a local young bully named Nelson. I thought you could help him with some kind of strategy.
+150250,5,211,829000,Herman Hermann,Herman's Military Antiques,Strategy? Hmmm. How many men do you have?
+150251,5,212,832000,Bart Simpson,Herman's Military Antiques,None.
+150252,5,213,834000,Herman Hermann,Herman's Military Antiques,"You'll need more. And you'll need to train them, hard. Now let's see..."
+150253,5,214,839000,Herman Hermann,Herman's Military Antiques,"Okay... The key to Springfield has always been Elm Street: The Greeks knew it. The Carthaginians knew it. Now you know it. First, you'll need a declaration of war."
+150254,5,215,852000,Herman Hermann,Herman's Military Antiques,"That way everything you do will be nice and legal. Okay, I can use this one from the Franco­ Prusssian War. I'll just change Otto von Bismark to read Bart Simpson and..."
+150255,5,216,865000,Bart Simpson,Herman's Military Antiques,Psst! Grampa! I think this guy's a little nuts.
+150256,5,217,868000,Grampa Simpson,Herman's Military Antiques,"Oh yeah? Well, General George S. Patton was a little nuts. And this guy is completely out of his mind. We can't fail!"
+150258,5,219,892000,Lewis Clark,Bart's Class In School,Pass it on.
+150260,5,221,900000,Grampa Simpson,Bart's Treehouse,I wonder where Bart is?
+150261,5,222,902000,Herman Hermann,Bart's Treehouse,"Yeah, it's way past fifteen hundred hours."
+150262,5,223,909000,Bart Simpson,Bart's Treehouse,"Okay. We all know why we're here, right?"
+150263,5,224,912000,Milhouse Van Houten,Bart's Treehouse,"No, why?"
+150264,5,225,913000,Bart Simpson,Bart's Treehouse,"To fight Nelson, the bully."
+150265,5,226,915000,Bart Simpson,Bart's Treehouse,That guy's been tormenting all of us for years. And I for one am sick of it.
+150266,5,227,919000,Bart Simpson,Bart's Treehouse,"I can't promise you victory. I can't promise you good times, but the one thing I do know..."
+150267,5,228,925000,Bart Simpson,Bart's Treehouse,"Whoa! Whoa! All right, okay. I promise you victory. I promise you good times."
+150269,5,230,934000,Bart Simpson,CITY PARK,I got a B in arithmetic.
+150270,5,231,936000,All,CITY PARK,I got a B in arithmetic.
+150271,5,232,938000,Bart Simpson,CITY PARK,Woulda got an A but I was sick!
+150272,5,233,940000,All,CITY PARK,Woulda got an A but I was sick!
+150275,5,236,951000,Bart Simpson,ANOTHER NEIGHBORHOOD STREET,"We are rubber, you are glue."
+150276,5,237,953000,All,ANOTHER NEIGHBORHOOD STREET,"We are rubber, you are glue."
+150277,5,238,955000,Bart Simpson,ANOTHER NEIGHBORHOOD STREET,It bounces off us and sticks to you.
+150278,5,239,957000,All,ANOTHER NEIGHBORHOOD STREET,It bounces off us and sticks to you.
+150279,5,240,959000,Bart Simpson,ANOTHER NEIGHBORHOOD STREET,Sound off!
+150280,5,241,960000,All,ANOTHER NEIGHBORHOOD STREET,"One, two."
+150281,5,242,961000,Bart Simpson,ANOTHER NEIGHBORHOOD STREET,Sound off!
+150282,5,243,962000,All,ANOTHER NEIGHBORHOOD STREET,"Three, four."
+150284,5,245,975000,Bart Simpson,NEIGHBORHOOD STREET,Go! Go!
+150286,5,247,988000,Bart Simpson,Park,"What's the matter with you, soldier?"
+150287,5,248,990000,Small Boy,Park,"It's my nerves, sir. I just can't stand the barking anymore."
+150288,5,249,993000,Bart Simpson,Park,Your nerves!
+150289,5,250,995000,Bart Simpson,Park,I won't have cowards in my army.
+150290,5,251,997000,Bart Simpson,Park,Ow!
+150291,5,252,998000,Grampa Simpson,Park,"Sorry, Bart. You can push them out of a plane, you can march them off a cliff, you can send them off to die on some God-forsaken rock. But, for some reason, you can't slap 'em. Now, apologize to that boy right now."
+150292,5,253,1013000,Bart Simpson,Park,"Sorry, man."
+150293,5,254,1014000,Small Boy,Park,It's cool.
+150294,5,255,1015000,Bart Simpson,Park,In English class I did the best.
+150295,5,256,1017000,All,Park,In English class I did the best.
+150296,5,257,1020000,Bart Simpson,Park,Because I cheated on the test.
+150297,5,258,1022000,All,Park,Because I cheated on the test.
+150298,5,259,1024000,Bart Simpson,Park,Sound off!
+150299,5,260,1025000,All,Park,"One, two."
+150300,5,261,1026000,Bart Simpson,Park,I can't hear you.
+150301,5,262,1027000,All,Park,Three four.
+150302,5,263,1028000,Bart Simpson,Park,"All right, there's your enemy! Now hit him! Hit him! Let's go, next group! Martinez! Steinberg! O'Hara! Chang! Olajuwon! Herman!"
+150303,5,264,1044000,Bart Simpson,Park,We are happy. We are merry.
+150304,5,265,1046000,All,Park,We are happy. We are merry.
+150305,5,266,1048000,Bart Simpson,Park,We got a rhyming dictionary.
+150306,5,267,1050000,All,Park,We got a rhyming dictionary.
+150307,5,268,1053000,Bart Simpson,Park,Sound off!
+150308,5,269,1054000,All,Park,One two.
+150309,5,270,1055000,Bart Simpson,Park,One more time.
+150310,5,271,1056000,All,Park,Three four.
+150311,5,272,1057000,Bart Simpson,Park,Bring it on home now.
+150312,5,273,1058000,All,Park,"One, two, three, four. One, two, three four."
+150314,5,275,1064000,Milhouse Van Houten,Bart's Treehouse,Nelson's at the Elm Street Video Arcade.
+150315,5,276,1065000,Bart Simpson,Bart's Treehouse,"Intelligence indicates he shakes down kids for quarters at the Arcade, then heads to the Kwik-E-Mart for a cherry Squishee."
+150316,5,277,1071000,Herman Hermann,Bart's Treehouse,"And that's where we'll hit him. When he leaves the Kwik-E-Mart, we'll start the saturation-bombing. We got the water balloons?"
+150317,5,278,1078000,Bart Simpson,Bart's Treehouse,"Two hundred rounds, sir. Is it okay if they say ""Happy Birthday"" on the side?"
+150318,5,279,1081000,Herman Hermann,Bart's Treehouse,"Well, I'd rather they say ""Death From Above,"" but I guess we're stuck."
+150319,5,280,1086000,Herman Hermann,Bart's Treehouse,"Okay, our main force will be split into two groups. One will circle around this way to cut off the enemy's retreat. The other will drive in this way closing the trap. It's a classic pincers movement. It can't fail against a ten-year-old."
+150321,5,282,1101000,Lewis Clark,Bart's Treehouse,"Nelson's at the arcade, General."
+150322,5,283,1103000,Bart Simpson,Bart's Treehouse,Battle stations!
+150323,5,284,1104000,Herman Hermann,Bart's Treehouse,I feel so alive!
+150324,5,285,1105000,Grampa Simpson,Bart's Treehouse,"You know, I thought I was too old, I thought my time had passed. I thought I'd never hear the screams of pain or see the look of terror in a young man's eyes. Thank heaven for children."
+150325,5,286,1120000,Weasel #1,Bart's Treehouse,Hey. Good Squishees.
+150326,5,287,1122000,Nelson Muntz,Bart's Treehouse,What flavor did you get?
+150327,5,288,1123000,Weasel #1,Bart's Treehouse,Blue.
+150328,5,289,1124000,Nelson Muntz,Bart's Treehouse,"Hey, you two birds. You're gonna be sucking all your meals through straws if you two don't shut your traps."
+150329,5,290,1130000,Nelson Muntz,Bart's Treehouse,"Well, looky here. Little Bart Simpson."
+150330,5,291,1134000,Bart Simpson,Bart's Treehouse,"Nelson, I'm afraid I'm going to have to teach you a lesson."
+150331,5,292,1137000,Nelson Muntz,Bart's Treehouse,Ha! Oh yeah? You and what army?
+150332,5,293,1139000,Bart Simpson,Bart's Treehouse,This one. Artillery...commence saturation bombing.
+150334,5,295,1169000,Homer Simpson,Simpson Home,"Awright, you kids, keep it down! Am I making myself... ?"
+150336,5,297,1174000,Grampa Simpson,Bart's Treehouse,I got 'im.
+150337,5,298,1176000,Homer Simpson,Bart's Treehouse,"You, up in the tree! The tall gray­ haired kid! Get your butt down here right now!"
+150339,5,300,1185000,Weasel #1,Street,Please don't hurt us!
+150340,5,301,1187000,Weasel #2,Street,We surrender!
+150341,5,302,1188000,Weasel #1,Street,We were only following orders!
+150343,5,304,1202000,Lisa Simpson,PARADING DOWN ELM STREET,Eww! Knock it off!
+150345,5,306,1206000,Bart Simpson,Base Of Tree Below Bart's Treehouse,"Well, I guess you learned your lesson, so now I'll untie ya."
+150346,5,307,1209000,Nelson Muntz,Base Of Tree Below Bart's Treehouse,"The second you untie me, I'm going to beat you to death, man."
+150347,5,308,1214000,Bart Simpson,Base Of Tree Below Bart's Treehouse,"Well... if that's going to be your attitude, I'm not going to untie you."
+150348,5,309,1217000,Nelson Muntz,Base Of Tree Below Bart's Treehouse,Hah! You're gonna have to sometime.
+150349,5,310,1221000,Bart Simpson,Base Of Tree Below Bart's Treehouse,"Uh oh, he's right!"
+150350,5,311,1223000,Herman Hermann,Base Of Tree Below Bart's Treehouse,"Don't you worry. I was ready for this eventuality. Armistice Treaty. Article Four. Nelson is never again to raise his fists in anger... Article Five... Nelson recognizes Bart's right to exist. Article Six... although Nelson shall have no official power, he shall remain a figurehead of menace in the neighborhood."
+150351,5,312,1239000,Bart Simpson,Base Of Tree Below Bart's Treehouse,"Wow, sounds good to me. Okay. I'll sign."
+150352,5,313,1249000,Homer Simpson,Base Of Tree Below Bart's Treehouse,"What about you, boy?"
+150353,5,314,1250000,Nelson Muntz,Base Of Tree Below Bart's Treehouse,"All right, I'll sign."
+150354,5,315,1251000,Marge Simpson,Base Of Tree Below Bart's Treehouse,Are you boys through playing war?
+150355,5,316,1253000,Bart Simpson,Base Of Tree Below Bart's Treehouse,Yeah.
+150356,5,317,1253000,Nelson Muntz,Base Of Tree Below Bart's Treehouse,"Yes, Mrs. Simpson."
+150357,5,318,1255000,Marge Simpson,Base Of Tree Below Bart's Treehouse,Good. Then here are some cupcakes.
+150358,5,319,1256000,Bart Simpson,Base Of Tree Below Bart's Treehouse,"Oh, boy!"
+150359,5,320,1258000,Homer Simpson,Base Of Tree Below Bart's Treehouse,Cupcakes.
+150364,5,322,1263000,Bart Simpson,Springfield Library,"Ladies and gentlemen, boys and girls. Contrary to what you've just seen, war is neither glamorous nor fun. There are no winners, only losers. There are no good wars, with the following exceptions: the American Revolution, World War II, and the Star Wars Trilogy. If you'd like to learn more about war, there's lots of books in your local library -- many of them with cool, gory pictures. Well, good night, everybody. Peace, man."

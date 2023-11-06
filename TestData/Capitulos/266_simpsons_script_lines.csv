@@ -1,0 +1,266 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+66692,266,1,94000,Ned Flanders,Evergreen Terrace,Son of a diddly!
+66695,266,4,106000,Marge Simpson,Simpson Home,Breakfast!
+66696,266,5,109000,Homer Simpson,Simpson Home,Breakfast!
+66697,266,6,117000,Homer Simpson,Simpson Home,Aww... Cereal? You know I like my breakfast fried or chicken-fried!
+66698,266,7,122000,Marge Simpson,Simpson Home,"It's a healthy cereal from Europe: ""Meus-lix."""
+66700,266,9,126000,Marge Simpson,Simpson Home,"They also make ""Juice-lix."""
+66701,266,10,132000,Bart Simpson,Simpson Home,That's Milhouse.
+66702,266,11,134000,Bart Simpson,Simpson Home,And it sounds like he has big news!
+66703,266,12,139000,Lisa Simpson,Simpson Home,"I'll get us out of this. Say Dad, want to go see my project for the school science fair?"
+66704,266,13,145000,Homer Simpson,Simpson Home,"No, Lisa, but I sure don't want to eat this crappy breakfast."
+66705,266,14,155000,Lisa Simpson,Simpson Home,"Meet Linguo, the grammar robot. I built him all by myself. If you misuse language, he'll correct you."
+66706,266,15,162000,Homer Simpson,Simpson Home,"Well, let's put him to the test. Me love beer."
+66707,266,16,167000,Linguo,Simpson Home,I love beer.
+66708,266,17,169000,Homer Simpson,Simpson Home,"Aw, he loves beer."
+66709,266,18,171000,Homer Simpson,Simpson Home,"Here, little fella."
+66710,266,19,172000,Lisa Simpson,Simpson Home,"Dad, no!"
+66712,266,21,175000,Homer Simpson,Simpson Home,I'm sorry. I thought he was a party robot.
+66713,266,22,177000,Lisa Simpson,Simpson Home,This is why I can't have nice things.
+66714,266,23,187000,Homer Simpson,Simpson Home,"Ooo, can I have a brownie?"
+66715,266,24,188000,Marge Simpson,Simpson Home,They're for after dinner.
+66716,266,25,190000,Homer Simpson,Simpson Home,"Ooo, can I have dinner?"
+66717,266,26,191000,Marge Simpson,Simpson Home,You can't have a brownie. Period.
+66718,266,27,195000,Homer Simpson,Simpson Home,Homer wants a brownie! I'm gonna get one!
+66719,266,28,196000,Marge Simpson,Simpson Home,No!
+66720,266,29,197000,Homer Simpson,Simpson Home,Comin' in from the left.
+66721,266,30,197000,Marge Simpson,Simpson Home,Stop it!
+66722,266,31,199000,Homer Simpson,Simpson Home,Or is it the right?
+66723,266,32,199000,Marge Simpson,Simpson Home,Homer!
+66724,266,33,200000,Homer Simpson,Simpson Home,Look out for the reach-around!
+66725,266,34,202000,Homer Simpson,Simpson Home,"He shoots, he sco-- My thumb!"
+66726,266,35,207000,Homer Simpson,Simpson Home,Oh God oh God oh God!
+66727,266,36,208000,Marge Simpson,Simpson Home,I'm sorry! I'm so sorry!
+66728,266,37,210000,Homer Simpson,Simpson Home,"Sorry doesn't put thumbs on the hand, Marge!"
+66729,266,38,213000,Marge Simpson,Simpson Home,"Calm down! If we hurry, they can reattach your thumb."
+66730,266,39,217000,Homer Simpson,Simpson Home,"Reattach a thumb? This isn't ""Gattaca."""
+66731,266,40,219000,Marge Simpson,Simpson Home,We've just gotta get your thumb to the--
+66732,266,41,221000,Marge Simpson,Simpson Home,Where did it go?
+66734,266,43,226000,Homer Simpson,Simpson Home,"Okay boy, drop the thumb..."
+66735,266,44,230000,Homer Simpson,Simpson Home,Nobody's gonna tackle you.
+66736,266,45,234000,Homer Simpson,Simpson Home,Come back with my thumb!
+66737,266,46,237000,Chief Wiggum,Simpson Home,"911, this better be good."
+66738,266,47,239000,Marge Simpson,Simpson Home,I cut off my husband's thumb!
+66739,266,48,241000,Chief Wiggum,Simpson Home,Attempted murder? You'll burn for this. Burn in jail.
+66740,266,49,246000,Marge Simpson,Simpson Home,It was an accident!
+66741,266,50,248000,Chief Wiggum,Simpson Home,"Yeah, yeah. Save it for Dateline Tuesday. Ah, what's your address, so I can come arrest you?"
+66742,266,51,253000,Marge Simpson,Simpson Home,"Arrest me?! Um, my address, it's, um... 1-2-3... Fake Street."
+66743,266,52,261000,Chief Wiggum,Simpson Home,123 Fake Street. Got it.
+66744,266,53,263000,Homer Simpson,Simpson Home,"Come on! Come on, boy! Oh, please give it back. You want people food? I can get you people food."
+66745,266,54,272000,Homer Simpson,Simpson Home,I have nothing he wants.
+66747,266,56,275000,Ned Flanders,Flanders Living Room,...and Harry Potter and all his wizard friends went straight to hell for practicing witchcraft.
+66675,266,57,282000,Todd Flanders,Flanders Living Room,Yay!
+66748,266,58,283000,Ned Flanders,Flanders Living Room,What the diddly-yo?!
+66749,266,59,286000,Homer Simpson,Flanders Living Room,Give me back my thumb!
+66750,266,60,298000,Homer Simpson,Flanders Living Room,Gaa!
+66753,266,63,298000,Marge Simpson,Simpson Car,"We've gotta get to the hospital, Homer!"
+66754,266,64,300000,Homer Simpson,Simpson Car,"Okay, if the doctor asks why you cut it off, you caught me in bed with four beautiful women."
+66755,266,65,305000,Marge Simpson,Simpson Car,Let's just say that Bart did it.
+66757,266,67,309000,Marge Simpson,Simpson Car,Doodlebugs!
+66758,266,68,310000,Rainier Wolfcastle,Simpson Car,My Ferrari! I had to do awful things to pay for her.
+66759,266,69,317000,Marge Simpson,Simpson Car,"Homer, help!"
+66760,266,70,320000,Homer Simpson,Simpson Car,"Marge, over here."
+66762,266,72,333000,Dr. Julius Hibbert,Springfield General Hospital,"I'm sorry, Homer. Your H.M.O. doesn't cover this type of injury."
+66763,266,73,337000,Homer Simpson,Springfield General Hospital,But I have finger insurance!
+66764,266,74,339000,Dr. Julius Hibbert,Springfield General Hospital,A thumb is not a finger.
+66765,266,75,341000,Marge Simpson,Springfield General Hospital,Isn't there anything you can do?
+66766,266,76,342000,Dr. Julius Hibbert,Springfield General Hospital,"Well, I could cut off the other thumb for a sense of symmetry."
+66767,266,77,346000,Homer Simpson,Springfield General Hospital,"Symmetry, eh?"
+66769,266,79,347000,Marge Simpson,FERRARI,Hibbert's really losing it. We're going to Dr. Nick's.
+66772,266,82,351000,Homer Simpson,FERRARI,We need more ice! My thumb is fading fast.
+66774,266,84,355000,Homer Simpson,Moe's Tavern,"Quick, Moe! Marge cut off my thumb!"
+66775,266,85,358000,Moe Szyslak,Moe's Tavern,No problem. Just stick the ol' eye-gouger in the pickle brine. That'll keep your thumb fresh and delicious.
+66776,266,86,364000,Homer Simpson,Moe's Tavern,"Thanks, Moe."
+66777,266,87,366000,Moe Szyslak,Moe's Tavern,"Hey, ah, hey, ain't you gonna have a beer?"
+66778,266,88,368000,Homer Simpson,Moe's Tavern,"Well, I really shouldn't, what with my massive blood loss and all... Although I do like the occasional beer..."
+66780,266,90,376000,Homer Simpson,Moe's Tavern,"Did you ever see that ""Blue Man Group?"" Total rip-off of the Smurfs. And the Smurfs? They suck."
+66781,266,91,385000,Moe Szyslak,Moe's Tavern,Uh-oh. I smell gangrene. We gotta wake him up.
+66782,266,92,388000,Barney Gumble,Moe's Tavern,A little coffee'll do the trick.
+66784,266,93,394000,Homer Simpson,Moe's Tavern,I've gotta get to Dr. Nick's!
+66786,266,95,396000,Homer Simpson,Moe's Tavern,"Where's Marge?! That is so rude. I know, I'll hitchhike."
+66788,266,97,409000,Homer Simpson,Street,"Oh, why isn't this working?"
+66789,266,98,417000,Homer Simpson,Street,"Hey, thanks for stopping."
+66790,266,99,419000,Cletus Spuckler,Street,'Tain't nothin' You 'n' me share a common infirmity.
+66791,266,100,423000,Cletus Spuckler,Street,"If anyone ever tells you a hog won't eat a finger, they's lyin'."
+66793,266,102,434000,Homer Simpson,Dr. Nick Rivera's Walk-In Clinic,"Oh, crap. It's on fire!"
+66794,266,103,437000,Dr. Nick Riviera,Dr. Nick Rivera's Walk-In Clinic,Inflammable means flammable? What a country!
+66795,266,104,441000,Homer Simpson,Dr. Nick Rivera's Walk-In Clinic,Can you drive me to Shelbyville Hospital?
+66796,266,105,443000,Cletus Spuckler,Dr. Nick Rivera's Walk-In Clinic,I reckon so.
+66797,266,106,444000,Cletus Spuckler,Dr. Nick Rivera's Walk-In Clinic,"Hey, somebody done stoleded my wheels."
+66798,266,107,448000,Homer Simpson,Dr. Nick Rivera's Walk-In Clinic,Thanks a lot. Now I gotta walk to Shelbyville.
+66800,266,109,455000,Homer Simpson,Outskirts Of Town,It's too late.
+66801,266,110,461000,Homer Simpson,Outskirts Of Town,"Well, old friend, we always knew this day would come."
+66802,266,111,465000,Homer Simpson,Outskirts Of Town,Say goodbye to your brother.
+66803,266,112,468000,Homer Simpson,Outskirts Of Town,What in the hell was that?
+66804,266,113,472000,Homer Simpson,Outskirts Of Town,"Linguo, dead!"
+66805,266,114,474000,Linguo,Outskirts Of Town,Linguo is dead.
+66807,266,116,498000,Ned Flanders,Evergreen Terrace,Son of a diddly!
+66809,266,118,511000,Marge Simpson,Simpson Home,Breakfast!
+66810,266,119,514000,Bart Simpson,Simpson Home,That's Milhouse.
+66811,266,120,516000,Bart Simpson,Simpson Home,And it sounds like he has big news!
+66812,266,121,521000,Lisa Simpson,Simpson Home,"I'll get us out of this. Say Dad, want to go see my project for the school science fair?"
+66813,266,122,528000,Homer Simpson,Simpson Home,"No, Lisa, but I sure don't want to eat this crappy breakfast."
+66815,266,124,536000,Homer Simpson,LIVING ROOM,"Here, little fella."
+66816,266,125,537000,Lisa Simpson,LIVING ROOM,"Dad, no!"
+66817,266,126,539000,Homer Simpson,LIVING ROOM,"I'm sorry. I thought he was a party robot, like in that play I wrote."
+66818,266,127,542000,Lisa Simpson,LIVING ROOM,This is why I can't have nice things.
+66821,266,129,554000,Lisa Simpson,Lisa's Bedroom,"Hang on, Linguo. You'll be up and conjugating in no time."
+66822,266,130,559000,Homer Simpson,Lisa's Bedroom,My thumb!
+66823,266,131,560000,Lisa Simpson,Lisa's Bedroom,"Quiet, please! Some of us are trying to weld! Almost done. Just lay still."
+66824,266,132,566000,Linguo,Lisa's Bedroom,Lie still.
+66825,266,133,567000,Lisa Simpson,Lisa's Bedroom,I knew that. Just testing.
+66826,266,134,569000,Linguo,Lisa's Bedroom,Sentence fragment.
+66827,266,135,570000,Lisa Simpson,Lisa's Bedroom,"""Sentence fragment"" is also a sentence fragment."
+66828,266,136,575000,Linguo,Lisa's Bedroom,Must conserve battery power.
+66829,266,137,577000,Lisa Simpson,Lisa's Bedroom,Just come on.
+66830,266,138,580000,Lisa Simpson,Lisa's Bedroom,"Uh-oh, the bus!"
+66832,266,140,582000,Lisa Simpson,Simpson Home,"Hey, stop! Wait! Oh, any day but science project day!"
+66833,266,141,588000,Martin Prince,Simpson Home,"Kiss first place goodbye, Lisa."
+66834,266,142,597000,Lisa Simpson,Simpson Home,"Oh no! Somebody took my bike?! Mom, I need a ride to school."
+66835,266,143,603000,Marge Simpson,Simpson Home,"We've got to get to the hospital, Homer!"
+66837,266,145,621000,Krusty the Clown,Simpson Home,"Idiot! You almost ran over a viewer! And she's in our key demo! Sorry about that, kid. Need a ride?"
+66838,266,146,628000,Lisa Simpson,Simpson Home,"Can you take me to school, Krusty?"
+66839,266,147,629000,Krusty the Clown,Simpson Home,Hop in.
+66840,266,148,632000,Krusty the Clown,Simpson Home,"Hey, moron! Springfield Elementary, and step on it."
+66842,266,150,641000,Chief Wiggum,Simpson Home,"Hey Teeny, you know where 123 Fake Street is?"
+66844,266,152,646000,Chief Wiggum,Simpson Home,"Ah, that's okay. Hey, we have the same hat."
+66846,266,154,651000,Lisa Simpson,Springfield Elementary School,"Thanks, Mr. Teeny!"
+66849,266,157,660000,Teacher,CLASSROOM,La grenouille mange le pamplemousse.
+66850,266,158,663000,Class,CLASSROOM,La grenouille mange le pamplemousse.
+66851,266,159,668000,Lisa Simpson,CLASSROOM,Huh? This isn't Miss Hoover's class.
+66852,266,160,671000,Teacher,CLASSROOM,"I do not know this Mademoiselle ""'oovair"" of which you speak."
+66853,266,161,675000,Lisa Simpson,CLASSROOM,What's happening? Where am I?
+66854,266,162,678000,Teacher,CLASSROOM,Sacré bleu! What a foolish question. You are at West Springfield Elementary School.
+66855,266,163,684000,Lisa Simpson,CLASSROOM,West Springfield?
+66856,266,164,686000,Lisa Simpson,CLASSROOM,I'm at the wrong school!
+66820,266,166,692000,Teacher,CLASSROOM,En Français.
+66859,266,170,697000,Lisa Simpson,West Springfield Elementary School,Sorry. I was rushing because I'm in the wrong school. Can you believe that?
+66860,266,171,702000,BOOKISH BOY,West Springfield Elementary School,It's understandable. All the schools in this area were built from identical plans. I guess they didn't have enough money to hire I.M. Pei.
+66861,266,172,710000,Lisa Simpson,West Springfield Elementary School,You know about I.M. Pei? I.M. impressed.
+66862,266,173,718000,BOOKISH BOY,West Springfield Elementary School,My name's Thelonious.
+66863,266,174,720000,Lisa Simpson,West Springfield Elementary School,As in Monk?
+66864,266,175,721000,Thelonious,West Springfield Elementary School,"Yes, the esoteric appeal is worth the beatings."
+66865,266,176,725000,Lisa Simpson,West Springfield Elementary School,What do your friends call you?
+66866,266,177,726000,Thelonious,West Springfield Elementary School,I don't really have any friends.
+66867,266,178,729000,Lisa Simpson,West Springfield Elementary School,Just like me!
+66869,266,180,740000,Lisa Simpson,PLAYGROUND,"Oh my God, it's 11:15!"
+66870,266,181,744000,Lisa Simpson,PLAYGROUND,"We've been spinning for hours! I've got to get to my school and hand in Linguo. Oh, but I don't want to leave you."
+66871,266,182,752000,Thelonious,PLAYGROUND,You must. You can't sacrifice grades for romance. That's not the girl I fell for.
+66872,266,183,756000,Lisa Simpson,PLAYGROUND,Will I ever see you again?
+66873,266,184,758000,Thelonious,PLAYGROUND,Of course you will... at the Magnet High School. Now go.
+66875,266,186,767000,Lisa Simpson,Springfield,Hmmm... It's noon -- that's about when Dad gets the brew-shakes.
+66877,266,188,774000,Lisa Simpson,Moe's Tavern,My Dad's not here? I need a ride to school.
+66878,266,189,777000,Moe Szyslak,Moe's Tavern,"Yeah, yeah. We all got problems."
+66879,266,190,781000,Lisa Simpson,Moe's Tavern,"Chief Wiggum, can you drive me to school? It's an emergency."
+66880,266,191,784000,Chief Wiggum,Moe's Tavern,"Ah, no can do, Dollface. I've got an informant wearing a wire."
+66881,266,192,787000,Chief Wiggum,Moe's Tavern,"Heh, just like on ""Nash Bridges."" We're tryin' to get the goods on some smugglers."
+66882,266,193,792000,VOICE ON TRANSMITTER,Moe's Tavern,"Why, I'd be delighted to sell you some illegally smuggled goods."
+66883,266,194,796000,Lisa Simpson,Moe's Tavern,That sounds like Fat Tony.
+66884,266,195,797000,Chief Wiggum,Moe's Tavern,"Hm, only one way to be sure."
+66885,266,196,799000,Chief Wiggum,Moe's Tavern,"Fat Tony, is that you? Fat Tony?"
+66886,266,197,802000,2ND VOICE ON TRANSMITTER,Moe's Tavern,"Hey, where's that voice comin' from?"
+66887,266,198,803000,3RD VOICE,Moe's Tavern,This guy's wearing a wire!
+66888,266,199,805000,VOICE ON TRANSMITTER,Moe's Tavern,Take him out!
+66889,266,200,808000,Chief Wiggum,Moe's Tavern,"My bad. I can't work my answering machine either. Now I need a new informant. Say, Lisa, people trust you. How'd you like to be a snitch? The pay stinks, but--"
+66890,266,201,819000,Chief Wiggum,Moe's Tavern,Oh.
+66891,266,202,821000,Homer Simpson,Moe's Tavern,"Quick, Moe! Marge cut off my thumb."
+66892,266,203,827000,Marge Simpson,Moe's Tavern,Lisa!
+66893,266,204,829000,Lisa Simpson,Moe's Tavern,Mom? Where'd you get that car?
+66894,266,205,831000,Marge Simpson,Moe's Tavern,I stole it from McBain after I cut off your father's thumb.
+66895,266,206,834000,Lisa Simpson,Moe's Tavern,Can you take me to school? Please?
+66896,266,207,836000,Marge Simpson,Moe's Tavern,Not right now. Your father's in there and --
+66897,266,208,839000,Homer Simpson,Moe's Tavern,"Did you ever see that ""Blue Man Group?"""
+66898,266,209,841000,Marge Simpson,Moe's Tavern,"Oh, he's on the Blue Man group again. C'mon, we've got lotsa time."
+66900,266,211,853000,Marge Simpson,Springfield Street,"Oh, no. We're out of gas. I couldn't figure out this stupid Italian gas gauge."
+66901,266,212,859000,Lisa Simpson,Springfield Street,I've gotta get to school.
+66902,266,213,864000,Marge Simpson,Springfield Street,"Hm, let's hitch a ride with that hick."
+66904,266,215,872000,Homer Simpson,Cab Of Truck,Abra-ca-thumbra.
+66905,266,216,876000,Cletus Spuckler,Cab Of Truck,"Dang, you could be one of them TV magic queers."
+66907,266,218,888000,Marge Simpson,Dr. Nick Rivera's Walk-In Clinic,Shoo!
+66908,266,219,890000,Lisa Simpson,Dr. Nick Rivera's Walk-In Clinic,"Mom, I have to get to school. It's ten to three!"
+66909,266,220,895000,Marge Simpson,Dr. Nick Rivera's Walk-In Clinic,"Well, I've already borrowed one car. Let's go!"
+66910,266,221,902000,Cletus Spuckler,Dr. Nick Rivera's Walk-In Clinic,"Hey, somebody done stoleded my wheels."
+66911,266,222,905000,Homer Simpson,Dr. Nick Rivera's Walk-In Clinic,Thanks a lot. Now I gotta walk to Shelbyville.
+66913,266,224,909000,Lisa Simpson,Springfield Street,There's the school!
+66914,266,225,912000,Lisa Simpson,Springfield Street,"First place, here I come. Look out!"
+66915,266,226,918000,Marge Simpson,Springfield Street,Bart!!!
+66918,266,229,935000,Ned Flanders,Evergreen Terrace,Son of a diddly!
+66920,266,231,940000,Krusty Clock,Simpson Home,Hey hey! Hey hey! Hey hey!
+66921,266,232,944000,Krusty Clock,Simpson Home,"Lazy, huh? Get 'im, boys."
+66922,266,233,948000,Bart Simpson,Simpson Home,"Okay, okay."
+66923,266,234,954000,Marge Simpson,Simpson Home,Breakfast!
+66924,266,235,956000,Bart Simpson,Simpson Home,That's Milhouse.
+66925,266,236,959000,Bart Simpson,Simpson Home,And it sounds like he has big news!
+66926,266,237,964000,Milhouse Van Houten,Simpson Home,I found something awesome in the woods.
+66927,266,238,967000,Bart Simpson,Simpson Home,Is it a dead body?
+66928,266,239,968000,Milhouse Van Houten,Simpson Home,It's cooler than a million dead bodies.
+66929,266,240,972000,Bart Simpson,Simpson Home,You take my sister's bike.
+66930,266,241,974000,Bart Simpson,Simpson Home,"Let's see, front door, back door, Skinner's, Flanders', your house... ah, Lisa's bike."
+66932,266,243,984000,Bart Simpson,Outskirts Of Town,What's it like riding a girl's bike?
+66933,266,244,986000,Milhouse Van Houten,Outskirts Of Town,It's disturbingly comfortable.
+66934,266,245,992000,Bart Simpson,Outskirts Of Town,Whoa. How'd you find it?
+66935,266,246,995000,Milhouse Van Houten,Outskirts Of Town,This is where I come to cry.
+66936,266,247,998000,Bart Simpson,Outskirts Of Town,Cool.
+66938,266,249,1002000,Bart Simpson,Cave,"Wow, sacks! Burlap sacks!"
+66939,266,250,1007000,Milhouse Van Houten,Cave,It gets better. They're full of fireworks.
+66940,266,251,1010000,Bart Simpson,Cave,"Bottle rockets, Frog-Launchers, Weeping Mommas... Tijuana Toilet Crackers!"
+66941,266,252,1030000,Soldier,Cave,We're not ready!
+66942,266,253,1036000,Bart Simpson,Cave,Uh-oh.
+66945,266,256,1039000,Dr. Nick Riviera,DR. NICK'S OPERATING ROOM,"So, what are we doing? A lengthening or a widening?"
+66946,266,257,1042000,Captain Horatio McCallister,DR. NICK'S OPERATING ROOM,"Arrr, uh... let's make it both."
+66947,266,258,1046000,Captain Horatio McCallister,DR. NICK'S OPERATING ROOM,Arr!
+66948,266,259,1047000,Dr. Nick Riviera,DR. NICK'S OPERATING ROOM,Don't worry. It's inflammable!
+66949,266,260,1051000,Dr. Nick Riviera,DR. NICK'S OPERATING ROOM,Let's keep this our little secret.
+66951,266,262,1055000,Milhouse Van Houten,Springfield Street,We gotta hide.
+66952,266,263,1057000,Bart Simpson,Springfield Street,We'll be safe in here!
+66953,266,264,1065000,Chief Wiggum,Springfield Street,"Here we are, 123 Fake Street. The home of knifey wifey."
+66954,266,265,1070000,Lou,Springfield Street,"Hey Chief, can I hold my gun sideways? It looks so cool."
+66955,266,266,1074000,Chief Wiggum,Springfield Street,"Ahh, sure. Whatever you want, birthday boy."
+66957,266,268,1079000,Chief Wiggum,Abandoned Building,"Okay, drop the knife, Stabatha. I-- Great Grucci's ghost! We've uncovered a hard-core cracker house."
+66958,266,269,1087000,Lou,Abandoned Building,There's enough Chinese sky candy here to put you boys away for a long time.
+66959,266,270,1091000,Milhouse Van Houten,Abandoned Building,I can't go to juvie. They use guys like me as currency.
+66960,266,271,1095000,Chief Wiggum,Abandoned Building,"Yeah, they'll pass you around like... well, like currency, like you said. Maybe we can make you boys a deal."
+66962,266,273,1105000,Chief Wiggum,Moe's Tavern,Your mission is to find the fireworks smugglers and get them to say something incriminating on this tape.
+66963,266,274,1111000,Bart Simpson,Moe's Tavern,Hootie and the Blowfish?
+66964,266,275,1113000,Chief Wiggum,Moe's Tavern,Yeah. It's cheaper than blank tape.
+66966,266,277,1115000,Legs,Cave,"Great idea to smuggle fireworks, boss."
+66967,266,278,1119000,Louie,Cave,"Yeah, I was gettin' sick of runnin' those unions."
+66968,266,279,1121000,Legs,Cave,So much paperwork.
+66969,266,280,1123000,Bart Simpson,Cave,"Knock, knock."
+66970,266,281,1124000,Bart Simpson,Cave,"Excuse me, my friend and I were interested in purchasing quality fireworks."
+66971,266,282,1129000,Milhouse Van Houten,Cave,"Yes, we are."
+66972,266,283,1131000,Fat Tony,Cave,"Why, I'd be delighted to sell you some illegally smuggled goods."
+66973,266,284,1135000,Chief Wiggum,Cave,"Fat Tony, is that you? Fat Tony?"
+66974,266,285,1138000,Legs,Cave,"Hey, where's that voice comin' from?"
+66975,266,286,1140000,Louie,Cave,This guy's wearing a wire!
+66976,266,287,1142000,Fat Tony,Cave,Take him out!
+66977,266,288,1148000,Chief Wiggum,Cave,My bad.
+66979,266,290,1156000,Louie,DEEP IN CAVE,Hey! There they are!
+66980,266,291,1158000,Fat Tony,DEEP IN CAVE,"Gentlemen, remove your guns from your holsters."
+66981,266,292,1161000,Louie,DEEP IN CAVE,Shoulder or ankle?
+66982,266,293,1162000,Fat Tony,DEEP IN CAVE,Surprise me.
+66983,266,294,1169000,Bart Simpson,DEEP IN CAVE,"Milhouse, quick!"
+66985,266,296,1174000,Lisa Simpson,Springfield,Look out!
+66986,266,297,1176000,Marge Simpson,Springfield,Bart!!!
+66988,266,299,1180000,Bart Simpson,Springfield,Ow! Mo-om...
+66989,266,300,1182000,Milhouse Van Houten,Springfield,"Hurry up, Bart!"
+66992,266,303,1202000,Louie,Springfield Street,You ain't goin' nowhere.
+66993,266,304,1204000,Marge Simpson,Springfield Street,You leave those boys alone!
+66994,266,305,1210000,Louie,Springfield Street,"Hey, they's throwin' robots!"
+66995,266,306,1213000,Linguo,Springfield Street,They are throwing robots.
+66996,266,307,1216000,Legs,Springfield Street,It's disrespecting us. Shutuppayouface!
+66997,266,308,1219000,Linguo,Springfield Street,Shut up your face.
+66998,266,309,1221000,Louie,Springfield Street,Whatsamattayou?! / You ain't so big! / Me and him a-gonna whack you inna Labonza.
+67000,266,310,1228000,Linguo,Springfield Street,Bad grammar overload. Error! Error!
+67001,266,311,1234000,Homer Simpson,Springfield Street,What the hell...?
+67002,266,312,1239000,Homer Simpson,Springfield Street,"Linguo, dead!"
+67004,266,314,1247000,Marge Simpson,Alley,"It's all right, boys."
+67005,266,315,1249000,Homer Simpson,Alley,"Oh, thank goodness everyone's okay!"
+67006,266,316,1251000,Marge Simpson,Alley,Except your thumb! And Lisa's science project!
+67007,266,317,1255000,Fat Tony,Alley,I couldn't help but notice your respective predicaments. Perhaps I may offer a bipartite solution.
+67010,266,320,1266000,Legs,Miss Hoover's Classroom,There you go. Enjoy your thumb.
+67011,266,321,1268000,Lisa Simpson,Miss Hoover's Classroom,"...As the circulation returns, the subject prepares for a long and painful recovery."
+67012,266,322,1276000,Lisa Simpson,Miss Hoover's Classroom,It's lucky for me that Legs was an experienced mob doctor.
+67013,266,323,1279000,Fat Tony,Miss Hoover's Classroom,He once pulled a slug out of my arm and inserted it into a stoolie's brain.
+67014,266,324,1284000,Miss Hoover,Miss Hoover's Classroom,"That's a First Place science project, Lisa."
+67015,266,325,1290000,Marge Simpson,Miss Hoover's Classroom,"Boy, this sure was one crazy day...Right, Mr. Teeny?"

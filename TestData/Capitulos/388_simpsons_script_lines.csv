@@ -1,0 +1,184 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+100657,388,1,32000,Marge Simpson,Springfield Park,This is so exciting -- watching a movie outside with the whole town.
+100658,388,2,36000,Comic Book Guy,Springfield Park,"Yes, thank you for talking to all of us like we just tuned in."
+100659,388,3,40000,Comic Book Guy,Springfield Park,"Ooh, a fat man falls. Real original."
+100660,388,4,45000,Lisa Simpson,Springfield Park,"Dad, there aren't any places left to sit."
+100661,388,5,51000,Bart Simpson,Springfield Park,There's a spot!
+100662,388,6,52000,Milhouse Van Houten,Springfield Park,"Hurry, Dad!"
+100663,388,7,54000,Milhouse Van Houten,Springfield Park,We gotta get that space!
+100664,388,8,75000,Marge Simpson,Springfield Park,We're not gonna make it!
+100537,388,9,77000,Homer Simpson,Springfield Park,Yes we are.
+100665,388,12,87000,Ned Flanders,Springfield Park,"Tonight's G-rated gem is a silent film from my favorite year -- yester! And while you enjoy this quiet riot, I'll be slipping these religious pamphlets on your windshields."
+100666,388,13,98000,Ned Flanders,Springfield Park,"Start 'er up, boys!"
+100668,388,15,114000,Carl Carlson,Springfield Park,Hey can you fix the sound?!
+100669,388,16,115000,Lenny Leonard,Springfield Park,And the color!
+100670,388,17,117000,Moe Szyslak,Springfield Park,And show it in a regular theater!
+100671,388,18,173000,Nelson Muntz,Springfield Park,Haw haw!
+100672,388,19,173000,Kearney Zzyzwicz,Springfield Park,This movie isn't silent -- I can hear it sucking.
+100673,388,20,177000,Jimbo Jones,Springfield Park,"And all the snacks we stole are ""heart-smart."""
+100674,388,21,177000,DOLPH,Springfield Park,"What the hell is a ""radish"" anyway? It's like an apple did it with an onion."
+100675,388,22,183000,Jimbo Jones,Springfield Park,"Dude, shut up and huck!"
+100676,388,23,188000,Todd Flanders,Springfield Park,Radishes!
+100678,388,25,193000,Sideshow Mel,Springfield Park,I demand entertainment!
+100679,388,26,195000,Audience,Springfield Park,"Yeah, show the movie! / Yeah, let's go!"
+100680,388,27,198000,Selma Bouvier,Springfield Park,This is our chance.
+100681,388,28,200000,Selma Bouvier,Springfield Park,"We've been carrying these home movies around for years, just waiting for a moment like this."
+100682,388,29,205000,Patty Bouvier,Springfield Park,"Calm down, everybody -- here's a movie of us!"
+100683,388,30,212000,Moe Szyslak,Springfield Park,"Wow, even I ain't hopin' for porn."
+100684,388,31,222000,Marge Simpson,Springfield Park,"Ooh, this is one of our trips to Barnacle Bay! We used to rent a beach house there every summer."
+100685,388,32,249000,Marge Simpson,Springfield Park,I was so happy on that island...
+100686,388,33,252000,Homer Simpson,Springfield Park,I've never seen Marge want to go somewhere so badly. I'm gonna take her back there... by burning that home movie onto a DVD.
+100688,388,35,265000,Homer Simpson,Simpson Home,I've never seen Marge like a DVD about a place so much. I'm gonna make her dream come true... by downloading that movie onto her iPod.
+100690,388,37,274000,Homer Simpson,Simpson Car,"Marge, I'm sorry I couldn't figure out how to get that movie onto your iPod... so I'm taking the family on a surprise vacation to Barnacle Bay!"
+100691,388,38,282000,Lisa Simpson,Simpson Car,Ta-da!
+100692,388,39,285000,Marge Simpson,Simpson Car,Where's Maggie?
+100693,388,40,286000,Lisa Simpson,Simpson Car,Ta-da!
+100695,388,42,291000,Homer Simpson,FERRY DOCK,We left plenty of food so you won't starve.
+100633,388,43,293000,Grampa Simpson,FERRY DOCK,"Oh, thank you!"
+100696,388,44,295000,Homer Simpson,FERRY DOCK,I was talking to the cat!
+100698,388,46,302000,Marge Simpson,Ferry Boat,"It's the famous Barnacle Bay fog! There's even a poem about it! ""Oh cotton candy in gossamer light / Thy soft gray kiss upon my cheek"" It smells like heinie!"
+100700,388,48,322000,Marge Simpson,Barnacle Bay,My childhood paradise -- it's a dump!
+100701,388,49,329000,Lisa Simpson,Barnacle Bay,Ugh. This is the most disgusting place we've ever gone.
+100702,388,50,334000,Bart Simpson,Barnacle Bay,What about Brazil?
+100703,388,51,335000,Lisa Simpson,Barnacle Bay,After Brazil.
+100704,388,52,343000,Marge Simpson,Barnacle Bay,"This was my favorite seahorse. I called him Mr. Funnygoodfeeling... Oh God, someone carved swastikas on your eyes!"
+100705,388,53,353000,Homer Simpson,Barnacle Bay,"Oh Marge, I'm sure it was just some guy filled with hate."
+100706,388,54,360000,Female Candy Worker,Barnacle Bay,"Oh my God, tourists! We haven't seen their kind in years!"
+100707,388,55,366000,Candy Workers,Barnacle Bay,Dip your berries? / Powder your jellies?
+100708,388,56,368000,Homer Simpson,Barnacle Bay,You could caramel my arm...
+100709,388,57,370000,Male Candy Worker,Barnacle Bay,"I make it nice and sticky, heh?"
+100710,388,58,378000,Homer Simpson,Barnacle Bay,"I didn't say ""stop."""
+100711,388,59,383000,Marge Simpson,Barnacle Bay,"Homer, that's too much sugar!"
+100712,388,60,386000,Homer Simpson,Barnacle Bay,"It's not sugar, it's caramel!"
+100713,388,61,394000,Marge Simpson,Barnacle Bay,"Excuse me, skipper -- this island used to be a paradise. What happened?"
+100714,388,62,399000,Homer Simpson,Barnacle Bay,I bet it was Bill Clinton's fault.
+100715,388,63,402000,Captain Jack,Barnacle Bay,"No, no, it was long before him."
+100716,388,64,403000,Homer Simpson,Barnacle Bay,Slick Willie wiggles out of another one.
+100717,388,65,407000,Captain Jack,Barnacle Bay,"This island's been on hard times since, well, since the yum-yum fish disappeared."
+100718,388,66,412000,Lisa Simpson,Barnacle Bay,Yum-yum fish?
+100719,388,67,413000,Marge Simpson,Barnacle Bay,Yum-yum fish are all we used to eat here. They're the most delicious fish in the ocean.
+100720,388,68,418000,Bart Simpson,Barnacle Bay,Better than cod?
+100721,388,69,419000,Marge Simpson,Barnacle Bay,Much better.
+100722,388,70,420000,Bart Simpson,Barnacle Bay,"Oh, baby!"
+100723,388,71,422000,Captain Jack,Barnacle Bay,"We brought them in by the boatload, day and night. And then one day they... well, they were gone."
+100724,388,72,427000,Lisa Simpson,Barnacle Bay,Maybe you just overfished them.
+100725,388,73,429000,Captain Jack,Barnacle Bay,Maybe they under-spawned.
+100726,388,74,430000,Lisa Simpson,Barnacle Bay,Maybe you killed them all.
+100727,388,75,432000,Captain Jack,Barnacle Bay,Maybe the fish killed themselves.
+100728,388,76,434000,Lisa Simpson,Barnacle Bay,Maybe you should be ashamed of yourself!
+100729,388,77,436000,Captain Jack,Barnacle Bay,Well maybe you should marry Milhouse!
+100731,388,79,439000,Captain Jack,Barnacle Bay,"Yeah, that's right, I know about Milhouse."
+100734,388,82,449000,Marge Simpson,Hotel Room,"I guess in the end, nothing's as good as you remember."
+100735,388,83,457000,Homer Simpson,Hotel Room,"Oh, I can't stand to see your mother unhappy. But this town could be great for your mother again. And I know three people who can make it happen."
+100737,388,85,471000,Homer Simpson,Boardwalk,"Nice brush work, Emily. Nathaniel, you could learn a lot from her."
+100738,388,86,477000,Emily,Boardwalk,"Mr. Simpson, we'd do anything to help a stranger who claimed to vacation here thirty years ago."
+100739,388,87,482000,Zeke,Boardwalk,And make a little meth money on the side!
+100742,388,90,488000,Homer Simpson,LOW-QUALITY INN,"Oh Ma-arge, we have a surpri-ise! Come to the win-dow! And look down at the stre-et!"
+100743,388,91,503000,Marge Simpson,LOW-QUALITY INN,Homer! You made an effort!
+100745,388,93,511000,Marge Simpson,Boardwalk,"Homer, this is wonderful. Where are the kids?"
+100746,388,94,515000,Homer Simpson,Boardwalk,"Oh, they're getting a little exercise."
+100747,388,95,519000,Marge Simpson,Boardwalk,Can I go again?
+100748,388,96,521000,Homer Simpson,Boardwalk,"All night long, baby."
+100750,388,98,527000,Marge Simpson,Boardwalk,What a great day.
+100751,388,99,529000,Lisa Simpson,Boardwalk,It's not over yet!
+100753,388,101,538000,Homer Simpson,Boardwalk,"Blue pinwheel, red pinwheel, big white ball, wait for the ""aaahhh..."""
+100754,388,102,543000,Townspeople,Boardwalk,Aaahhh!
+100755,388,103,546000,Homer Simpson,Boardwalk,"A green spinner to build suspense... and then the big finale, the:"
+100757,388,105,578000,Homer Simpson,Boardwalk,"Oh, so, forming an angry mob, eh? Who we goin' after?"
+100759,388,107,585000,Marge Simpson,Dock,"Well, at least they left your underwear on. That was nice of them."
+100760,388,108,589000,Homer Simpson,Dock,I think the hook is touching my brain. .
+100761,388,109,601000,Marge Simpson,Dock,My husband meant no harm. There must be some way he can pay for what he did. He's good at opening jars.
+100763,388,110,608000,Grizzled Old Salt,Dock,"I say let him fish it off. These waters are so barren, by the time he pays the debt, he'll be as old and as queer as I am!"
+100764,388,111,617000,Homer Simpson,Dock,Queer strange or queer gay?
+100765,388,112,619000,Grizzled Old Salt,Dock,A touch of both.
+100767,388,114,622000,Captain Jack,THE ROTTING PELICAN,"Homer, I want you to meet my crew. This is my first mate, Billy."
+100768,388,115,641000,Captain Jack,THE ROTTING PELICAN,And this is Fausto.
+100769,388,116,643000,Captain Jack,THE ROTTING PELICAN,"Yeah, he just plays with that knife, all day and night."
+100770,388,117,646000,Fausto,THE ROTTING PELICAN,Ees my thing.
+100771,388,118,649000,Fausto,THE ROTTING PELICAN,"Great man, now I need a new thing."
+100773,388,120,659000,Homer Simpson,Ship,How many yum-yum fish did we get?
+100774,388,121,662000,Captain Jack,Ship,None. Just a few slarg fish.
+100775,388,122,665000,Homer Simpson,Ship,"Ew, it tastes terrible!"
+100776,388,123,667000,Captain Jack,Ship,"No, you don't eat it. Its oil is used to polish stripper poles."
+100777,388,124,671000,Homer Simpson,Ship,"Finally. Something even I wouldn't eat. Well, maybe a little more."
+100778,388,125,677000,Homer Simpson,Ship,Terrible.
+100781,388,128,682000,Homer Simpson,Ship,Here you go -- beer-battered shrimp.
+100782,388,129,688000,Captain Jack,Ship,"Wait, this is bait! Homer, I told you to beer batter the shrimp and bait the hooks. Did you do the opposite?"
+100783,388,130,694000,Homer Simpson,Ship,"Uh... I thought today was Opposite Day. By the way, you're very ugly. It's Opposite Day."
+100784,388,131,700000,Fausto,Ship,"Hey captain, we should not go out and check the hooks."
+100785,388,132,704000,Captain Jack,Ship,It's not Opposite Day!
+100786,388,133,707000,Homer Simpson,Ship,So that means... it is Opposite Day.
+100787,388,134,711000,Captain Jack,Ship,It's not opposite day!
+100788,388,135,724000,Captain Jack,Ship,The yum-yum fish! They're back!
+100789,388,136,728000,Captain Jack,Ship,"We're gonna be rich! And it's all thanks to you, Homer! Or should I say... Chief Fish Clubber Homer!"
+100790,388,137,736000,Homer Simpson,Ship,I don't know what to say.
+100791,388,138,738000,Captain Jack,Ship,Let your club do the talking.
+100793,388,140,751000,Lisa Simpson,Barnacle Bay,"Oooh, an institute!"
+100795,388,142,778000,Voice From Diorama,Oceanographic Institute,Press button to see what global warming will do in the next three years.
+100796,388,143,787000,Marge Simpson,Oceanographic Institute,Three years is a long ways away.
+100797,388,144,790000,Weather Forecaster,Oceanographic Institute,Oh my God!
+100798,388,145,791000,Weather Forecaster,Oceanographic Institute,A perfect storm.
+100799,388,146,793000,Marge Simpson,Oceanographic Institute,My husband is out there!
+100800,388,147,795000,Weather Forecaster,Oceanographic Institute,I won't lie to you. It's the most powerful storm I've ever seen. And I've seen three storms.
+100802,388,149,812000,Fausto,Ship,Captain... I don't like the look of the western sky. Let us head back -- I'm sure our TiVos are groaning with great shows!
+100803,388,150,820000,Captain Jack,Ship,We're not leavin' while there's still fish to be air-drowned.
+100804,388,151,823000,Billy,Ship,"Are you sure, Captain? The barometer don't lie."
+100805,388,152,828000,Captain Jack,Ship,"All right, now listen. If a storm were comin', my trick knee would be acting up."
+100806,388,153,835000,Captain Jack,Ship,Dear God.
+100808,388,155,852000,Marge Simpson,Old New England Lighthouse,"Oh Homie, I'm so worried. But if I concentrate, our love is so strong, I know I can hear your thoughts."
+100809,388,156,860000,Homer Simpson,Old New England Lighthouse,"Dear Marge, how are you? I am fine. The waves here are way bigger than the ones at home. And the salt water is rising. What's next? Pepper water? Ha ha. Love ya, Homer Simpson."
+100813,388,160,891000,Captain Jack,CAPTAIN'S BRIDGE,This old barge can't take much more! Take out the life raft!
+100815,388,162,898000,Homer Simpson,Ship,Bart!? What the hell are you doing in there?!
+100816,388,163,901000,Bart Simpson,Ship,Dad... I couldn't stay with Mom and Lisa while you were out here.
+100817,388,164,904000,Homer Simpson,Ship,"Aw, son."
+100818,388,165,906000,Bart Simpson,Ship,"They were gonna go to the Folk Art Museum, then they were gonna paint crab shells. Not crush them, paint them."
+100819,388,166,912000,Homer Simpson,Ship,"You did the right thing, boy."
+100822,388,169,919000,Carl Carlson,Moe's Tavern,"What is it, Moe?"
+100823,388,170,920000,Moe Szyslak,Moe's Tavern,"I just had this awful feeling that uh, Homer's in terrible trouble."
+100824,388,171,923000,Lenny Leonard,Moe's Tavern,"Oh, that's funny. I just had a feeling that some guy I don't know named Fausto is in trouble."
+100825,388,172,928000,Moe Szyslak,Moe's Tavern,"Come on, we've gotta go help Homer!"
+100826,388,173,929000,Lenny Leonard,Moe's Tavern,And Fausto!
+100827,388,174,932000,Moe Szyslak,Moe's Tavern,"Whoa, whoa, it's really comin' down out there."
+100828,388,175,935000,Lenny Leonard,Moe's Tavern,We could run to the car.
+100829,388,176,937000,Moe Szyslak,Moe's Tavern,"Yeah, but then we'd have to stand there while we get the doors unlocked."
+100830,388,177,940000,Lenny Leonard,Moe's Tavern,Don't you have one of them keys that beeps the doors open?
+100831,388,178,943000,Moe Szyslak,Moe's Tavern,"Yeah, but still..."
+100833,388,180,961000,Homer Simpson,STORMY SEAS,Watch me drive a golf ball off the bow!
+100834,388,181,972000,Homer Simpson,STORMY SEAS,Yeahhhh!
+100836,388,183,986000,Homer Simpson,Bridge,Shiiiii... pwreck!
+100837,388,184,1000000,Bart Simpson,Bridge,"We're still gonna make it, aren't we Dad?"
+100838,388,185,1002000,Homer Simpson,Bridge,"Uh... sure we will, son. Right, Captain?"
+100839,388,186,1005000,Captain Jack,Bridge,"Absolutely. Bart, the sea wouldn't dare take the life of an apple-cheeked young lad like yourself."
+100840,388,187,1010000,Homer Simpson,Bridge,Should I hit him with a shovel to spare him the pain of drowning?
+100841,388,188,1015000,Captain Jack,Bridge,Not yet.
+100842,388,189,1017000,Homer Simpson,Bridge,What's the code word?
+100843,388,190,1024000,Homer Simpson,Bridge,"Oh mother sea -- giver of fish, taker of boats, toilet to the world, the Greeks called you Poseidon, the Romans... Aquaman. Look into thy starfish heart and protect our souls, so we might live to go tubing on thee again."
+100844,388,191,1044000,Homer Simpson,Bridge,Do you think your Mother will ever remarry?
+100845,388,192,1046000,Bart Simpson,Bridge,In about two seconds.
+100846,388,193,1048000,Homer Simpson,Bridge,Why you little...
+100850,388,197,1068000,Marge Simpson,First Church of Springfield,Bart was on the boat?!
+100851,388,198,1073000,Preacher,First Church of Springfield,"We'll never know how that brave crew spent their final moments. Maybe a boiler blew up, sheared their faces clean off."
+100852,388,199,1082000,Preacher,First Church of Springfield,"All we do know is they're in Heaven now, hanging their lines off a cloud, and fishin' for airplanes."
+100853,388,200,1090000,Homer Simpson,First Church of Springfield,The hell we are!
+100854,388,201,1093000,Marge Simpson,First Church of Springfield,Homer!
+100855,388,202,1094000,Lisa Simpson,First Church of Springfield,Bart!
+100856,388,203,1095000,Man In I.N.S. Jacket,First Church of Springfield,Portuguese Fausto!
+100857,388,204,1097000,Fausto,First Church of Springfield,Yi yo yu!
+100858,388,205,1101000,Marge Simpson,First Church of Springfield,How did you make it?
+100859,388,206,1103000,Homer Simpson,First Church of Springfield,"Well, handsome here was in big trouble...when suddenly..."
+100860,388,207,1116000,Homer Simpson,First Church of Springfield,Oh my God! It's beautiful!
+100861,388,208,1132000,Mermaid,First Church of Springfield,"Welcome, Homer, to our watery realm."
+100862,388,209,1136000,Homer Simpson,First Church of Springfield,Wait a minute. How am I breathing?
+100863,388,210,1138000,Mermaid,First Church of Springfield,You're not!
+100864,388,211,1140000,Homer Simpson,First Church of Springfield,Then when all seemed lost...
+100866,388,213,1153000,GRUFF JAPANESE SAILOR,JAPANESE FISHING TRAWLER,Lot of garbage fish today.
+100867,388,214,1157000,Homer Simpson,JAPANESE FISHING TRAWLER,I can't go back to living on the surface world! I can't!
+100868,388,215,1163000,Homer Simpson,JAPANESE FISHING TRAWLER,Then they brought us home...
+100870,388,217,1165000,Homer Simpson,Chapel,"So, that's our story. Oh wait, we were attacked by a giant whale. He turned out to be pretty cool."
+100871,388,218,1170000,Captain Jack,Chapel,"Come on, boys. Let's grab our nets and go fish us some yum-yums!"
+100873,388,220,1174000,Lisa Simpson,Chapel,Wait! Haven't you learned a lesson here? Over-fishing and greed have brought this town nothing but rack and ruin.
+100875,388,222,1183000,Lisa Simpson,Chapel,Repent! Repent! Before it's too late! I always wanted to do that in a New England church.
+100876,388,223,1192000,Captain Jack,Chapel,The little she-nag has a point. There's got to be some way we can make money without depleting our precious oceans.
+100878,388,225,1207000,Bart Simpson,NEW ENGLAND FOREST,"Nicely done, Lis. Instead of killing living things, they're just killing trees."
+100879,388,226,1211000,Lumberjack,NEW ENGLAND FOREST,"Step aside, please. These logs have to go to Larry Flynt's paper mill, where they'll be made into ""Hustler"" and ""Barely Legal"" magazines."
+100880,388,227,1222000,Lisa Simpson,NEW ENGLAND FOREST,This is not what I wanted at all!

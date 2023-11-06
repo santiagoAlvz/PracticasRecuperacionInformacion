@@ -1,0 +1,276 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+142597,548,2,30000,Marge Simpson,Simpson Home,Please let it be a bear that did this.
+142598,548,3,35000,Homer Simpson,Simpson Home,"Oh, how much did I eat?!"
+142600,548,5,38000,Marge Simpson,Simpson Home,"Homie, you can't keep doing this to yourself."
+142601,548,6,41000,Homer Simpson,Simpson Home,Pfft! I'm as healthy as a horse.
+142602,548,7,43000,Marge Simpson,Simpson Home,Horses only live thirty years!
+142605,548,10,48000,Marge Simpson,Simpson Home,If you could just ease up on the eating after three a.m. That's all I ask...
+142606,548,11,54000,Homer Simpson,Simpson Home,"Marge is right. I'm gonna walk upstairs, take her in my arms and tell her my good health starts now."
+142607,548,12,62000,Homer Simpson,Simpson Home,Legs pumping! Blood flowing!
+142608,548,13,65000,Homer Simpson,Simpson Home,Two at a time! Heart exploding.
+142546,548,15,65000,Homer Simpson,Simpson Home,"Ooh, pepperoni!"
+142610,548,16,73000,Homer Simpson,Simpson Home,All that's left are clever last words.
+142612,548,18,80000,Rev. Timothy Lovejoy,First Church of Springfield,"So we mourn the loss of Homer J. Simpson, beloved husband, father and poorly-informed sports fan."
+142613,548,19,89000,Lenny Leonard,First Church of Springfield,"All he did was yell ""traveling"" at the screen."
+142614,548,20,92000,Moe Szyslak,First Church of Springfield,"Midge, uh, condolences on your bereavement there. If, uh y'know, after a respectful period of grief and whatnot, uh, yous would like to have some coffee... please give a call. Yeah."
+142615,548,21,103000,Marge Simpson,First Church of Springfield,"Thank you, Moe."
+142616,548,22,103000,Professor Jonathan Frink,First Church of Springfield,"Stop! Stop with the wailing and the gnashing, and the . Homer is not dead! I have made a copy!"
+142617,548,23,112000,Homer Simpson,First Church of Springfield,I'm number two!
+142618,548,24,115000,Marge Simpson,First Church of Springfield,You're alive! But how?
+142619,548,25,117000,Professor Jonathan Frink,First Church of Springfield,"Uh, well, ahem-glaven, I was able to put Homer's memories in the body of a clone, identical to the original in every way. I wanted to clone a sheep, but I needed to start with something simpler, which he is because his brain is ."
+142620,548,26,132000,Lisa Simpson,First Church of Springfield,"Oh Dad, you're back! Just in time for my recital!"
+142621,548,27,137000,Homer Simpson,First Church of Springfield,Somebody kill me.
+142622,548,28,138000,Marge Simpson,First Church of Springfield,"Now Homie, I hope you'll use this second chance to live a more sensible life."
+142623,548,29,142000,Homer Simpson,First Church of Springfield,"Amen, baby! Did you make potato salad for the wake?"
+142624,548,30,145000,Marge Simpson,First Church of Springfield,Yes.
+142625,548,31,149000,Bart Simpson,First Church of Springfield,That man sure loved potato salad.
+142626,548,32,152000,Moe Szyslak,First Church of Springfield,"Oh heya Midge, uh, here we are again, huh? And, uh, here. My new card."
+142627,548,33,162000,Homer Simpson,First Church of Springfield,I'm back! Comin' through!
+142628,548,34,163000,Homer Simpson,First Church of Springfield,"Yeah, I can die all I want -- Frink's got Homers like the Tuileries has park benches. Huh? Wonder where I picked that up."
+142629,548,35,172000,Professor Jonathan Frink,First Church of Springfield,"Oh, I implanted a western history chip but all you retained were the places to sit down."
+142630,548,36,176000,Sideshow Mel,First Church of Springfield,Noice!
+142631,548,37,193000,Dr. Julius Hibbert,First Church of Springfield,"Homer, you'll be all right. But no solid food for two weeks."
+142632,548,38,198000,Homer Simpson,First Church of Springfield,Two weeks?
+142634,548,39,206000,Rev. Timothy Lovejoy,First Church of Springfield,"We are gathered here to mourn the passing of yet another Homer Simpson. Beloved father... precious memories... local character... etcetera. Okay, we're ready for the crematorium bot."
+142635,548,40,229000,Homer Simpson,First Church of Springfield,Wait a minute!
+142637,548,42,238000,Rev. Timothy Lovejoy,First Church of Springfield,"Don't go far, Cremo."
+142638,548,43,239000,Marge Simpson,First Church of Springfield,"Oh, Moe. Are we doing this again?"
+142639,548,44,243000,Moe Szyslak,First Church of Springfield,You know what? No! I'm tired of getting my hopes up here. You and your immortal husband can go take a flying leap. Eh?!
+142640,548,45,249000,Professor Jonathan Frink,First Church of Springfield,"Um, I am so very sorry, but, uh, this time I could not bring Homer back to life."
+142641,548,46,255000,Lisa Simpson,First Church of Springfield,Wha--?!
+142642,548,47,256000,Moe Szyslak,First Church of Springfield,"Stupid Moe, you just had to act like yourself, didn't ya, ya jackass."
+142643,548,48,264000,Professor Jonathan Frink,First Church of Springfield,All is not lost! I was able to download Homer's brain into this flash drive. It'll have to do.
+142644,548,49,270000,Homer Simpson,First Church of Springfield,Yo. Where's my body?
+142645,548,50,272000,Professor Jonathan Frink,First Church of Springfield,"Oh, you used up all your clones, you fat, fat, fat reckless, fat pig! From now on you're just going to be a face on a monitor. So, enjoy screensaver mode."
+142646,548,51,282000,Homer Simpson,First Church of Springfield,"Bonk! Bonk! Bonk! Ooh, corner! Ba-donk!"
+142647,548,52,286000,Marge Simpson,First Church of Springfield,Let me just say this once: I'm good.
+142649,548,54,297000,Homer Simpson,Simpson Home,"Hey kids, wanna chase Grandpa Homer around the house?"
+142650,548,55,301000,Kirk Van Houten,Simpson Home,I do! / Yay!
+142651,548,56,307000,Marge Simpson,Simpson Home,"After thirty-five years of wifely obedience, I'm married to a face on a screen."
+142652,548,57,313000,Homer Simpson,Simpson Home,"It's not exactly fun and games for me either, Marge."
+142653,548,58,315000,Homer Simpson,Simpson Home,"Oooh, ""Goody Gobble""!"
+142654,548,59,319000,Homer Simpson,Simpson Home,"Woo-hoo, liquid center power-up!"
+142655,548,60,323000,Marge Simpson,Simpson Home,"How are you, Milhouse?"
+142656,548,61,325000,Adult Milhouse,Simpson Home,"Things aren't great with Lisa. If it wasn't for that squirrel that eats our bird food, we'd have nothing to talk about."
+148520,548,62,332000,Adult Lisa,Simpson Home,"As I told you when we talked last month, I've been doing a lot of charity work for the undead."
+142657,548,63,332000,Homer Simpson,Simpson Home,"Uh, Marge? 'Scuse me. Uh, I think I need a reboot."
+142658,548,64,340000,Homer Simpson,Simpson Home,Just stick the tip of your pen in that little hole and hold it for fifteen minutes...
+142633,548,65,346000,Marge Simpson,Simpson Home,No! I'm throwing you out of the house! You can live with your no-good son.
+148435,548,66,349000,Adult Bart,Simpson Home,"Hey, what did I do?"
+142659,548,67,350000,Marge Simpson,Simpson Home,Nothing for thirty years. You're perfect for each other.
+142660,548,68,353000,Homer Simpson,Simpson Home,"No, no, no! Don't pull me out before you click eject! That hurts like a mother--"
+148436,548,71,361000,Adult Bart,BART'S APARTMENT,"So Dad, what do you think of my place?"
+142663,548,72,362000,Homer Simpson,BART'S APARTMENT,"Son, can you put me in 3-D for a second?"
+142664,548,73,366000,Homer Simpson,BART'S APARTMENT,Why you little! I'll teach you to emulate my sloppiness!
+148437,548,74,369000,Adult Bart,BART'S APARTMENT,"Okay guys, time for you to go to your mother's."
+148438,548,75,375000,Adult Bart,BART'S APARTMENT,Here's your mom's house.
+148439,548,76,378000,Adult Bart,BART'S APARTMENT,"Hi, Jerry."
+142665,548,77,379000,Alien,BART'S APARTMENT,"Hey Bart, great to see you, man! How are you?"
+148440,548,78,382000,Adult Bart,BART'S APARTMENT,"Great, great. So I guess you and Jenda are still together. Is she there?"
+142666,548,79,385000,JERRY,BART'S APARTMENT,"Oh yeah, she's just getting out of the shower..."
+142667,548,80,390000,JERRY,BART'S APARTMENT,"Hey, you're looking good, man. You been working out, or what?"
+148441,548,81,392000,Adult Bart,BART'S APARTMENT,No.
+142668,548,82,393000,JERRY,BART'S APARTMENT,"You're lucky, man. I have to hit the gym like every day, or I'm like"
+142669,548,83,395000,Adult Jenda,BART'S APARTMENT,"Hey, baby. Hurry boys! We're going camping this weekend!"
+142670,548,84,402000,Bart Simpson,BART'S APARTMENT,But our thing was camping.
+142671,548,85,404000,Adult Jenda,BART'S APARTMENT,Living out of a car is not camping!
+142672,548,86,404000,JERRY,BART'S APARTMENT,"That's right, babe."
+142673,548,88,404000,Kirk Van Houten,BART'S APARTMENT,"Goodbye, Daddy!"
+142674,548,89,413000,Adult Jenda,BART'S APARTMENT,"Take care, Bart. Hey! Check's due on the first, whether it's a weekend or not."
+148443,548,90,419000,Adult Bart,BART'S APARTMENT,"Dad, if ever I needed fatherly wisdom, it's now."
+142677,548,93,429000,DINOSAUR TRAINER,CRETACEOUS PARK,"Okay everyone, Jolly did a great job standing on her hind legs! What does she get?"
+142678,548,94,435000,Kids,CRETACEOUS PARK,A goat!
+142679,548,95,444000,Adult Nelson,CRETACEOUS PARK,"Cheer up, Bart. You're working with dinosaurs!"
+148444,548,96,448000,Adult Bart,CRETACEOUS PARK,I miss my kids.
+142680,548,97,449000,Adult Nelson,CRETACEOUS PARK,"C'mon, you're free and sleazy. I know some ""adult dancers"" that work with my Mom."
+148445,548,98,454000,Adult Bart,CRETACEOUS PARK,Isn't your Mom eighty-seven?
+142681,548,99,456000,Adult Nelson,CRETACEOUS PARK,"With social security a thing of the past, she can't afford to retire."
+148446,548,100,460000,Adult Bart,CRETACEOUS PARK,I don't know how that happened in a senate with ninety-nine Democrats.
+142682,548,101,463000,Adult Nelson,CRETACEOUS PARK,That one Republican is great at gettin' his way.
+142684,548,103,470000,Zombie,CHARITY SHELTER,Brains!
+142704,548,104,473000,Adult Lisa,CHARITY SHELTER,"Actually, Terrence, this is a synthetic substance. Devised for zombie vegans, or ""Zegans."""
+142685,548,105,477000,Terrence,CHARITY SHELTER,Meh.
+142705,548,106,481000,Adult Lisa,CHARITY SHELTER,What are you doing here?
+142686,548,107,483000,Adult Milhouse,CHARITY SHELTER,You weren't answering your phone. I was worried you might have been bitten.
+142687,548,108,488000,Terrence,CHARITY SHELTER,"Oh, zombies not able to control selves. All we do bite, bite, bite. You, sir, am racist."
+142688,548,109,495000,Adult Milhouse,CHARITY SHELTER,"I'm sure you're one of the good ones. Not to imply that there are any bad ones, of course. But all stereotypes come from a place of--"
+142691,548,112,504000,Terrence,CHARITY SHELTER,Still meh.
+148447,548,114,509000,Adult Bart,NIGHTCLUB,"I don't think I'm ready for this, man."
+142693,548,115,511000,Adult Nelson,NIGHTCLUB,"Dude, it's been two years since the divorce."
+142694,548,116,514000,Adult Nelson,NIGHTCLUB,"Ooh, I love your perfume. Can I smell you later?"
+142695,548,117,518000,Attractive Woman #1,NIGHTCLUB,Why don't you smell me now?
+142696,548,118,520000,Adult Nelson,NIGHTCLUB,Haw haw.
+148448,548,119,523000,Adult Bart,NIGHTCLUB,"Well, that didn't look so hard."
+148449,548,120,524000,Adult Bart,NIGHTCLUB,"You know at my job, I satisfy ladies even bigger than you."
+148450,548,121,530000,Adult Bart,NIGHTCLUB,"Um, I feed dinosaurs?"
+142697,548,122,531000,Julio,NIGHTCLUB,"Sir, you have to leave. You're bumming out everyone and you have like a goat beard a-stuck to your shoe."
+148451,548,124,542000,Adult Bart,Springfield Streets,One please.
+148452,548,125,553000,Adult Bart,Springfield Streets,"Man, that's some targeted advertising!"
+142700,548,127,564000,Technician,INDUSTRIAL SPACE,"After this procedure, you will have total closure from your divorce."
+148453,548,128,568000,Adult Bart,INDUSTRIAL SPACE,How long does this take?
+142701,548,129,569000,Technician,INDUSTRIAL SPACE,It'll be over before I finish this...sentence.
+148454,548,130,573000,Adult Bart,INDUSTRIAL SPACE,Wow! It works! I'm completely over my ex-wife!
+148455,548,131,577000,Adult Bart,INDUSTRIAL SPACE,Do you take wedding bands as tips?
+142702,548,132,579000,Technician,INDUSTRIAL SPACE,Put it in the jar.
+142706,548,134,585000,Dr. Julius Hibbert,Springfield General Hospital,"One more injection in two weeks and you're cured. But until then, you may experience some zombie-ism."
+142707,548,135,591000,ZOMBIE MILHOUSE,Springfield General Hospital,Brains!
+142708,548,136,593000,Dr. Julius Hibbert,Springfield General Hospital,Those are just teaching brains. They're like the plastic sushi in front of a Japanese restaurant.
+142709,548,137,598000,ZOMBIE MILHOUSE,Springfield General Hospital,Window-sushi fake?!
+142710,548,138,600000,Dr. Julius Hibbert,Springfield General Hospital,Window-sushi fake.
+148456,548,141,605000,Adult Bart,BART'S APARTMENT,Ay carumba! I have moved on!
+142713,548,142,608000,BRUNETTE,BART'S APARTMENT,"Hey, passable-looking."
+142714,548,143,610000,BRUNETTE,BART'S APARTMENT,Sorry. I'm just a little creeped-out by that screensaver.
+148457,548,144,613000,Adult Bart,BART'S APARTMENT,Nothing to worry about.
+148458,548,145,615000,Adult Bart,BART'S APARTMENT,He's been frozen like that for days.
+142716,548,147,630000,Bart Simpson,BART'S APARTMENT,Wow. Now I see why they call you Miss Hoover.
+142717,548,148,633000,Bart Simpson,BART'S APARTMENT,You must've been vacuuming for an hour.
+142718,548,149,635000,Miss Hoover,BART'S APARTMENT,Anything to please my man.
+148459,548,150,637000,Adult Bart,BART'S APARTMENT,So... was it good for you?
+142719,548,151,639000,Alien Woman,BART'S APARTMENT,Good is not a concept in my culture!
+148460,548,152,643000,Adult Bart,BART'S APARTMENT,Oh my God! We went home with you?!
+142720,548,153,645000,Krusty the Clown,BART'S APARTMENT,Not just me.
+142721,548,154,647000,Krusty the Clown,BART'S APARTMENT,"There's Beppo, Boppo, Emmett Kelly the Ninth, Frenchy, Insane Clown Polly, and Commodore Tee-hee."
+142723,548,156,655000,ZOMBIE MILHOUSE,Supermarket,Brains? Brains?
+142735,548,157,658000,Adult Lisa,Supermarket,Garden brains.
+142725,548,159,661000,ZOMBIE MILHOUSE,Supermarket,Spicy Mexican garden brains?
+142736,548,160,664000,Adult Lisa,Supermarket,Too much sodium.
+142727,548,162,664000,Adult Dolph,Supermarket,Give me your wallet!
+142729,548,164,673000,CHIEF RALPH,Supermarket,What seems to be the oopsie here?
+142730,548,165,678000,CHIEF RALPH,Supermarket,Yay! I'm fighting crime!
+142731,548,166,681000,CHIEF RALPH,Supermarket,Officer needs backup!
+142732,548,167,684000,CHIEF RALPH,Supermarket,"There, back up."
+142737,548,168,688000,Adult Lisa,Supermarket,The old Milhouse would have been helpless with an asthma attack.
+142733,548,169,691000,ZOMBIE MILHOUSE,Supermarket,"No breathing, no asthma."
+142762,548,170,694000,Adult Lisa,Supermarket,I love how you're dropping all your definite articles.
+142738,548,171,697000,ZOMBIE MILHOUSE,Supermarket,Brevity soul wit.
+142763,548,173,700000,Adult Lisa,LISA AND MILHOUSE'S KITCHEN,"Uh, what are you cooking?"
+142740,548,174,701000,Adult Milhouse,LISA AND MILHOUSE'S KITCHEN,Nothing.
+148461,548,176,705000,Adult Bart,Simpson Home,You know -- Dad really misses you.
+142742,548,177,707000,Marge Simpson,Simpson Home,"Well, I don't miss his nonsense. There's a lot of stuff he blamed on raccoons that I'm starting to suspect was him."
+148462,548,178,714000,Adult Bart,Simpson Home,"Look, maybe I shouldn't have done this, but I've got him right here."
+142744,548,180,718000,TV Announcer,Simpson Home,...the real housewives of Venus.
+148463,548,181,722000,Adult Bart,Simpson Home,"Sorry, I must have recorded over Dad. But admit it. When you thought it was Dad, you were excited."
+142745,548,182,727000,Marge Simpson,Simpson Home,It's only natural to miss a man you buried a hundred and twenty-seven times.
+148464,548,184,744000,Adult Bart,BART'S APARTMENT,"Hey Homer, your robot body finally came."
+142747,548,185,746000,Homer Simpson,BART'S APARTMENT,'Bout time!
+142748,548,186,750000,Homer Simpson,BART'S APARTMENT,Hey! Where's my junk?
+142749,548,187,757000,Homer Simpson,BART'S APARTMENT,Whew!
+142761,548,188,759000,Adult Bart,BART'S APARTMENT,Hello?
+148465,548,190,763000,Adult Bart,BART'S APARTMENT,You boys look happy.
+142751,548,191,765000,PICARD,BART'S APARTMENT,"Yeah, but Mom's sad."
+142752,548,192,767000,Kirk Van Houten,BART'S APARTMENT,Jerry moved out.
+142753,548,193,769000,Adult Jenda,BART'S APARTMENT,"I thought he was the one, Bart. I just put in a saltwater tank where he could shed his exoskeleton. And now when I walk by it, I feel like a fool."
+148466,548,194,777000,Adult Bart,BART'S APARTMENT,He's the fool. You're great.
+142754,548,195,779000,Adult Jenda,BART'S APARTMENT,You're just saying that because you have to.
+148467,548,196,781000,Adult Bart,BART'S APARTMENT,"I don't have to say anything. Believe me, no guy wants to see his ex looking hot or being sweet. Makes him realize everything he's lost."
+142755,548,197,788000,Adult Jenda,BART'S APARTMENT,Wow. Wow. You've really grown. We should have dinner sometime.
+148468,548,198,793000,Adult Bart,BART'S APARTMENT,"Hey Dad, can you watch the boys?"
+142756,548,199,794000,Homer Simpson,BART'S APARTMENT,Sure.
+142757,548,200,800000,Homer Simpson,BART'S APARTMENT,Body. To Moe's.
+142759,548,202,804000,Barney Gumble,Moe's Tavern,"Hey, you're kinda quiet tonight, Homer."
+148469,548,205,823000,Adult Bart,The Gilded Truffle Restaurant,"You know, this was a great evening."
+142764,548,206,826000,Waiter,The Gilded Truffle Restaurant,Please enjoy your desserts.
+148470,548,207,828000,Adult Bart,The Gilded Truffle Restaurant,"Man, when is that voice gonna change?"
+142765,548,208,837000,Adult Jenda,The Gilded Truffle Restaurant,Suddenly I want a different dessert.
+148471,548,209,839000,Adult Bart,The Gilded Truffle Restaurant,But they brought us little cakes and...
+148472,548,210,841000,Adult Bart,The Gilded Truffle Restaurant,Ohh.
+148473,548,211,842000,Adult Bart,The Gilded Truffle Restaurant,Ay carumba.
+142767,548,213,848000,Homer Simpson,PLAYGROUND BEHIND LOFTS AT SPRINGFIELD ELEMENTARY,"Open your stance a little, there. Yeah, that's it. Do your worst, kids!"
+142768,548,214,857000,Homer Simpson,PLAYGROUND BEHIND LOFTS AT SPRINGFIELD ELEMENTARY,"Come on! Hug your Grampa, boys!"
+142769,548,215,862000,Homer Simpson,PLAYGROUND BEHIND LOFTS AT SPRINGFIELD ELEMENTARY,Threat perceived. Terminate! Terminate!
+142770,548,216,868000,Homer Simpson,PLAYGROUND BEHIND LOFTS AT SPRINGFIELD ELEMENTARY,Kids are so afraid of being terminated.
+142771,548,217,870000,Homer Simpson,PLAYGROUND BEHIND LOFTS AT SPRINGFIELD ELEMENTARY,"Lookin' good, Santa's Little Hybrid."
+142772,548,218,873000,SANTA'S LITTLE HYBRID,PLAYGROUND BEHIND LOFTS AT SPRINGFIELD ELEMENTARY,"Father, what am I?"
+142774,548,220,875000,Adult Jenda,BART'S APARTMENT,Guys... sit down. Our lives are gonna change a little.
+142775,548,221,879000,PICARD,BART'S APARTMENT,Uh-oh.
+142776,548,222,879000,Kirk Van Houten,BART'S APARTMENT,This is never good.
+142777,548,223,882000,Adult Jenda,BART'S APARTMENT,This is good. Your father and I are gonna try to make it work again. Like a classic rock band whose hold-out member finally needs money.
+142778,548,224,889000,PICARD,BART'S APARTMENT,Wow. Everyone's back together except Gramma and Grampa.
+142779,548,225,892000,Homer Simpson,BART'S APARTMENT,I think that's about to change.
+142781,548,227,899000,PICARD,JENDA'S HOUSE,"Aren't you going to work, Dad?"
+148474,548,228,901000,Adult Bart,JENDA'S HOUSE,One of us has to stay home with you guys. And your mom can't quit her job at Google.
+142782,548,229,905000,Adult Jenda,JENDA'S HOUSE,They need my help hunting down those self-driving cars that turned evil.
+142784,548,231,908000,Grampa Simpson,Car,You passed another rest stop!
+142785,548,232,911000,SELF-DRIVING CAR,Car,I am not stopping again.
+142786,548,233,913000,Grampa Simpson,Car,But I had a large soda!
+142787,548,234,916000,SELF-DRIVING CAR,Car,I said get the small!
+142788,548,235,918000,Grampa Simpson,Car,It was only fifty cents more!
+142789,548,236,920000,SELF-DRIVING CAR,Car,Let's play The Quiet Game!
+148475,548,239,923000,Adult Bart,CRETACEOUS PARK,"Now, will somebody hold up a one dollar bill?"
+148476,548,241,931000,Adult Bart,CRETACEOUS PARK,Uh-oh. It looks like we woke someone up from her nap.
+148477,548,243,937000,Adult Bart,CRETACEOUS PARK,"Well, now that you're up, you can do your juggling act."
+142794,548,244,948000,Dr. Julius Hibbert,CRETACEOUS PARK,"Milhouse, you were supposed to come see me today for your final anti-zombie injection."
+142809,548,245,952000,Adult Lisa,CRETACEOUS PARK,"Yes, well, uh..."
+142795,548,246,955000,Dr. Julius Hibbert,CRETACEOUS PARK,"But I'm supposed to be in surgery now, so I guess we're both playing hooky. But Lisa, if you want Milhouse to return to his old self, then you'd better bring him in for that shot tomorrow."
+142810,548,247,965000,Adult Lisa,CRETACEOUS PARK,But doctor... he's so much more interesting this way.
+142797,548,250,970000,Dr. Julius Hibbert,CRETACEOUS PARK,I see.
+148478,548,251,973000,Adult Bart,CRETACEOUS PARK,Now enjoy the majesty of our prehistoric past!
+142799,548,253,982000,Adult Jenda,JENDA'S APARTMENT,"So, that earring I lost in the teleport? Turns out it's in Florida."
+148479,548,254,985000,Adult Bart,JENDA'S APARTMENT,Yes!
+142800,548,255,987000,Adult Jenda,JENDA'S APARTMENT,"That's not a listening-to-me ""yes."" You're watching something!"
+148480,548,256,990000,Adult Bart,JENDA'S APARTMENT,What? Me? Now that's crazy!
+142801,548,257,992000,Adult Jenda,JENDA'S APARTMENT,"I knew it! This was supposed to be ""us"" time, and you're lensing a game!"
+148481,548,258,996000,Adult Bart,JENDA'S APARTMENT,"Well, you're not paying attention to me -- you're texting!"
+142802,548,259,1001000,Adult Jenda,JENDA'S APARTMENT,Only to complain about you not paying any attention to me!
+148482,548,260,1005000,Adult Bart,JENDA'S APARTMENT,"If I wasn't paying attention, then how did I notice you not paying attention to my not paying attention? Ha!"
+142803,548,261,1011000,Adult Jenda,JENDA'S APARTMENT,I thought this time things were gonna be different.
+148483,548,262,1014000,Adult Bart,JENDA'S APARTMENT,They are! You're four years older!
+142804,548,263,1017000,Adult Jenda,JENDA'S APARTMENT,Wow. What does that mean?
+148484,548,264,1019000,Adult Bart,JENDA'S APARTMENT,Uhhhhhhhhhhhhhhhh...
+142807,548,267,1024000,Moe Szyslak,MOE'S (LOOKS THE SAME AS NOW),"Hey Bart, what'll it be?"
+148485,548,268,1026000,Adult Bart,MOE'S (LOOKS THE SAME AS NOW),A tall beer and no judgmental women.
+142812,548,269,1029000,Adult Lisa,MOE'S (LOOKS THE SAME AS NOW),That is so typical of you.
+148486,548,270,1031000,Adult Bart,MOE'S (LOOKS THE SAME AS NOW),What are you doing here?
+142832,548,271,1032000,Adult Lisa,MOE'S (LOOKS THE SAME AS NOW),I have to decide whether to make Milhouse human again. I even prefer the way he smells now. Some meat went bad in our freezer and my heart skipped a beat.
+142813,548,272,1044000,Marge Simpson,MOE'S (LOOKS THE SAME AS NOW),Phoo! You two don't know what a rough marriage is.
+142833,548,273,1048000,Adult Lisa,MOE'S (LOOKS THE SAME AS NOW),"Mom, I've gotta know. Once and for all, what is the secret? Why did you stay with Dad so long?"
+148487,548,274,1055000,Adult Bart,MOE'S (LOOKS THE SAME AS NOW),Until I was eight I thought he was a magical gorilla.
+142814,548,275,1058000,Marge Simpson,MOE'S (LOOKS THE SAME AS NOW),"Look, life's tough. It's hard to make it through. The only way I know is when you make a decision that comes from your heart, you stick with it."
+142834,548,276,1069000,Adult Lisa,MOE'S (LOOKS THE SAME AS NOW),Like my marriage.
+148488,548,277,1071000,Adult Bart,MOE'S (LOOKS THE SAME AS NOW),Or my divorce.
+142815,548,278,1072000,Moe Szyslak,MOE'S (LOOKS THE SAME AS NOW),Or my decision to support Duffman in his old age.
+142816,548,279,1075000,Duffman,MOE'S (LOOKS THE SAME AS NOW),Duffman can still swing and party. Oh yeahhh.
+142835,548,280,1082000,Adult Lisa,MOE'S (LOOKS THE SAME AS NOW),"Wait, Mom. Does that mean you're gonna take Dad back?"
+142817,548,281,1086000,Marge Simpson,MOE'S (LOOKS THE SAME AS NOW),"No, I'm going to join him forever."
+142820,548,284,1103000,Moe Szyslak,MOE'S (LOOKS THE SAME AS NOW),"I can't tell if that was love, suicide or a really boring videogame."
+142822,548,286,1108000,Dr. Julius Hibbert,Springfield General Hospital,"Lisa, your husband is... fine. No residual zombie-ism whatsoever."
+148521,548,287,1114000,Adult Lisa,Springfield General Hospital,Are you sure?
+142823,548,288,1116000,Dr. Julius Hibbert,Springfield General Hospital,Watch. I'll just wave this juicy brain in front of him...
+142824,548,289,1119000,Milhouse Van Houten,Springfield General Hospital,I'm gonna faint!
+142825,548,290,1121000,Lisa Simpson,Springfield General Hospital,Hooray.
+148489,548,292,1122000,Adult Bart,BART'S APARTMENT,"So, Jenda, I don't know what love is, but I know what it isn't. And we're ""isn't."""
+142827,548,293,1127000,Adult Jenda,BART'S APARTMENT,"Yeah, you're right. That's why I started seeing Jerry again without telling you."
+142828,548,294,1132000,JERRY,BART'S APARTMENT,"Hey buddy, how're you doing?"
+148490,548,295,1133000,Adult Bart,BART'S APARTMENT,"What?! You know what, Jenda? I'm not even mad. Because I am finally, completely, over you."
+142830,548,297,1141000,Technician,INDUSTRIAL SPACE,...sentence.
+148491,548,298,1144000,Adult Bart,INDUSTRIAL SPACE,Wait -- what am I doing back here?
+142836,548,299,1146000,Technician,INDUSTRIAL SPACE,"You never left. Everything that you experienced between when I flipped the switch and now, was just a neural implant in your temporal lobe."
+148492,548,300,1152000,Adult Bart,INDUSTRIAL SPACE,Uh... you should look at my profile.
+142837,548,301,1156000,Technician,INDUSTRIAL SPACE,Oh. Uh huh. It was all a dream. And now you can go home.
+148493,548,302,1161000,Adult Bart,INDUSTRIAL SPACE,"So, you're sure I'm cured? No more feelings for my ex-wife?"
+142838,548,303,1164000,Technician,INDUSTRIAL SPACE,I'm positive. We treat a lot of people for obsessions.
+142839,548,304,1169000,Disco Stu,INDUSTRIAL SPACE,It's a whole new day for Nothing Stu!
+142840,548,305,1173000,Bart Simpson,INDUSTRIAL SPACE,"Wow. I'm free! Get ready, world! I've got a whole new set of mistakes to make!"
+142841,548,306,1180000,Gil Gunderson,INDUSTRIAL SPACE,Ol' Gil could use a fresh start.
+142842,548,307,1182000,Technician,INDUSTRIAL SPACE,Weren't you just in here this morning?
+142843,548,308,1184000,Gil Gunderson,INDUSTRIAL SPACE,I've had a bad day.
+142845,548,310,1191000,Marge Simpson,Simpson Home,"After thirty-five years of marriage, we've finally gotten it right."
+142846,548,311,1196000,Homer Simpson,Simpson Home,"Yes, even my personality has gotten, shall we say, an upgrade."
+142847,548,312,1202000,Homer Simpson,Simpson Home,Whoa. That's a bit of a woo-hoo. Indeed.
+148495,548,313,1205000,Adult Bart,Simpson Home,"Lis, I hope things work out with you and Milhouse, but if they don't, I know just where you should go."
+142861,548,314,1212000,Adult Lisa,Simpson Home,"Thanks, but Milhouse and I are in a pretty good place."
+148496,548,315,1214000,Adult Bart,Simpson Home,Even though he's not a zombie anymore?
+142862,548,316,1216000,Adult Lisa,Simpson Home,"No, that's what happened in your false memories."
+142863,548,317,1220000,Adult Lisa,Simpson Home,There is no cure for zombie-ism.
+142848,548,318,1220000,ZOMBIE MILHOUSE,Simpson Home,Dead flowers from dead husband.
+142849,548,320,1229000,SANTA'S LITTLE HYBRID,Simpson Home,"And I was a false memory, too!"
+142865,548,321,1231000,Adult Lisa,Simpson Home,"No, you were real."
+142850,548,322,1233000,SANTA'S LITTLE HYBRID,Simpson Home,"Aw, shucks."
+142851,548,323,1243000,Serious Announcer,Simpson Home,"On the next week of Fox Television's, ""The Simpsons:"""
+142852,548,324,1243000,Homer Simpson,Simpson Home,Sit down.
+142853,548,325,1248000,Chief Wiggum,Simpson Home,You're not going anywhere.
+142855,548,327,1249000,C. Montgomery Burns,Simpson Home,Release the--
+142857,548,329,1252000,Moe Szyslak,Simpson Home,It ain't whatcha think.
+142858,548,330,1253000,Lenny Leonard,Simpson Home,I said no mayo!
+142859,548,331,1254000,Bart Simpson,Simpson Home,Ay carumba.
+142808,548,333,1259000,Serious Announcer,Simpson Home,One week from tonight!

@@ -1,0 +1,212 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+101938,393,1,9000,Homer Simpson,Simpson Home,"Okay, everyone, straight ahead is my big surprise!"
+101940,393,3,41000,Homer Simpson,Simpson Home,Look out for the stairs!
+101942,393,5,51000,Marge Simpson,Simpson Home,You redid the basement!
+101943,393,6,53000,Bart Simpson,Simpson Home,Whoa -- feel the pile on this shag!
+101944,393,7,57000,Bart Simpson,Simpson Home,"Oh, baby!"
+101945,393,8,59000,Marge Simpson,Simpson Home,'You look at that paneling -- I feel like I'm back in wooden times!
+101946,393,9,64000,Lisa Simpson,Simpson Home,"Check out this pinball machine! ""Chevy Chase in 'Foul Play'."""
+101947,393,10,65000,Bart Simpson,Simpson Home,"Pinball, eh? I've always wanted to try this."
+101948,393,11,71000,Bart Simpson,Simpson Home,"Wow, the graphics are amazing. That ball almost seems real!"
+101949,393,12,76000,Marge Simpson,Simpson Home,This basement is a wonderful gift to the family. But how could you afford it?
+101950,393,13,81000,Homer Simpson,Simpson Home,"Marge, we're not going to have to worry about money ever again. Because I've got a plan..."
+101952,393,15,88000,Homer Simpson,Courthouse,"I'd like to declare bankruptcy, please!"
+101953,393,16,90000,Judge Harm,Courthouse,"Mr. Simpson, do you understand how bankruptcy works?"
+101954,393,17,94000,Homer Simpson,Courthouse,"Yes I do. Under chapter thirteen of the fiscal code, an individual whose debts exceed his assets may file for bankruptcy, thus protecting said assets."
+101955,393,18,103000,Judge Harm,Courthouse,That was the old bankruptcy law.
+101957,393,20,106000,Judge Harm,Courthouse,"Under the new law, you have to pay your creditors everything."
+101958,393,21,110000,Homer Simpson,Courthouse,"What the? But I thought bankruptcy was the cool law! The one that says ""Dude, don't worry about it. I got this."""
+101959,393,22,113000,Judge Harm,Courthouse,"Mr. Simpson, I'm afraid this court must appoint a financial officer to supervise repayment of your debts."
+101929,393,23,124000,Homer Simpson,Courthouse,Permission to moan?
+101960,393,24,125000,Judge Harm,Courthouse,I'll allow it.
+101963,393,27,131000,Accountant,Simpson Home,"Mr. Simpson, among the expenses the court deems frivolous: you throw over one thousand dollars a month into local wishing wells."
+101964,393,28,138000,Homer Simpson,Simpson Home,"Of course, you idiot, 'cause I'm wishing for more money."
+101965,393,29,143000,Accountant,Simpson Home,"Uh-huh. Well you're going to have to make some serious cutbacks to your expenses. Three subscriptions to ""Vanity Fair?"""
+101966,393,30,149000,Homer Simpson,Simpson Home,"I've got three bathrooms, don't I? Next."
+101967,393,31,151000,Accountant,Simpson Home,Five hundred dollars a month to Totalpoker.com?
+101968,393,32,155000,Marge Simpson,Simpson Home,Shut up! It's an instructional website! Shut up!
+101969,393,33,159000,Homer Simpson,Simpson Home,"Give it here, I'll find some fat we can trim. Here you go, a giant useless expense for something that no one is interested in."
+101971,393,35,170000,Grampa Simpson,Springfield Retirement Castle,I don't wanna leave! You promised me I could die here!
+101972,393,36,174000,Homer Simpson,Springfield Retirement Castle,"No, no. This place is too expensive. I saw you doing a ""five-hundred piece"" jigsaw puzzle in there!"
+101973,393,37,188000,Homer Simpson,Springfield Retirement Castle,"Come on, Dad, I'm cuttin' back everywhere. To save gas I'm ""Flintstone-ing"" the car."
+101975,393,39,199000,Homer Simpson,Springfield Retirement Castle,Yabba... dabba... dooooo...
+101977,393,41,206000,Bart Simpson,Simpson Home,Ping!
+101978,393,42,208000,Lisa Simpson,Simpson Home,Pong!
+101979,393,43,208000,Bart Simpson,Simpson Home,Ping!
+101980,393,44,209000,Lisa Simpson,Simpson Home,Pong!
+101981,393,45,209000,Bart Simpson,Simpson Home,Ping!
+101982,393,46,210000,Lisa Simpson,Simpson Home,Pong!
+101983,393,47,211000,Grampa Simpson,Simpson Home,"Scram, you two! This is my bedroom now!"
+101984,393,48,215000,Bart Simpson,Simpson Home,"No way, this is our rec room!"
+101985,393,49,217000,Grampa Simpson,Simpson Home,Not anymore! I already put my posters up!
+101986,393,50,234000,Lisa Simpson,Simpson Home,"Hey, Mr. Flanders, what'd you get?"
+101987,393,51,236000,Bart Simpson,Simpson Home,Some kind of bible garbage?
+101988,393,52,237000,Ned Flanders,Simpson Home,"Oh, I wish! No, these are complimentary boxes from the shipping company."
+101989,393,53,241000,Bart Simpson,Simpson Home,Could a kid like me get these boxes? Then use 'em for whatever he wanted?
+101990,393,54,244000,Ned Flanders,Simpson Home,"Only if he fibbed about his name, age, and occupation on this automated eight-hundred number."
+101992,393,55,249000,Ned Flanders,Simpson Home,Why don't you put this box by your phone so you don't call the number by accident.
+101993,393,56,249000,Bart Simpson,Simpson Home,"Oh, I won't."
+101994,393,57,259000,Marge Simpson,Simpson Home,Nothing like un-tossing a leftover salad. It'll be like new!
+101995,393,58,266000,Marge Simpson,Simpson Home,What the heck are these?
+101996,393,59,269000,Grampa Simpson,Simpson Home,"Those are my medical samples! Hands off, ya big blue Buttinski!"
+101997,393,60,274000,Grampa Simpson,Simpson Home,"Blood, bile, spinal fluid, blood, other, phlegm, miscellaneous ooze..."
+101999,393,62,281000,Marge Simpson,Simpson Home,Grampa's driving me crazy!
+102000,393,63,284000,Homer Simpson,Simpson Home,Why are you telling me? He's your father-in-law.
+102001,393,64,287000,Marge Simpson,Simpson Home,Can we at least get out of the house for an evening?
+102002,393,65,289000,Homer Simpson,Simpson Home,"Sure, but I think you're exaggerating the problem."
+102003,393,66,292000,Grampa Simpson,Simpson Home,I'm scared. Can I sleep across ya?
+102005,393,68,303000,Homer Simpson,Simpson Home,"What are you doing here, Patty-or-Selma?"
+102006,393,69,306000,Marge Simpson,Simpson Home,I invited Selma here to watch Grampa watch the kids.
+102007,393,70,310000,Selma Bouvier,Simpson Home,"For some reason, she doesn't trust him. Maybe it's the bang-up job he did raising you."
+102008,393,71,315000,Homer Simpson,Simpson Home,He was a great Dad! Every year he got so mad when Santa didn't bring me presents.
+102009,393,72,324000,Grampa Simpson,Simpson Home,Um... lemon candy?
+102010,393,73,327000,Selma Bouvier,Simpson Home,"No thanks, I brought my own."
+102012,393,75,346000,Selma Bouvier,Simpson Home,I know what you're wondering: how come a single woman with so much to offer is alone on a Saturday night.
+102013,393,76,353000,Grampa Simpson,Simpson Home,"I assumed you were restin' up for bingo tomorrow, like me."
+102014,393,77,358000,Selma Bouvier,Simpson Home,My numbers don't get called much these days.
+102015,393,78,361000,Grampa Simpson,Simpson Home,You're kiddin'. A sweet young thing like you?
+102016,393,79,365000,Selma Bouvier,Simpson Home,"Wow, that's the first time anyone's ever put an adjective before calling Me a thing."
+102017,393,80,381000,Grampa Simpson,Simpson Home,"You know, I was voted best kisser in my P.O.W. camp."
+102018,393,81,388000,Selma's Brain,Simpson Home,"Well... if he dies in my arms, I could meet a cute paramedic."
+102019,393,82,394000,Grampa's Brain,Simpson Home,"All right, lips, man your kissing stations! This is not a drill!"
+102020,393,83,405000,Homer Simpson,Simpson Home,"Well, here we are, home early."
+102022,393,84,406000,Marge Simpson,Simpson Home,"Yeah, and the great prices at that new rib joint were the surprise of the evening."
+102024,393,86,414000,Homer Simpson,Simpson Home,A bear is eating my father!
+102025,393,87,416000,Selma Bouvier,Simpson Home,I'm Selma.
+102026,393,88,417000,Homer Simpson,Simpson Home,A talking bear is eating my father!
+102028,393,90,424000,Homer Simpson,Simpson Living Room,"Dad, do you know what you were kissing? Do you? Do you?"
+102029,393,91,427000,Grampa Simpson,Simpson Living Room,"Yeah, I know who I was kissing, and I also know why! I'm a little shaky on when and where, but I got my theories!"
+102030,393,92,434000,Homer Simpson,Simpson Living Room,"Well I never, ever want to see that again."
+102031,393,93,437000,Grampa Simpson,Simpson Living Room,"Ah, the hell with you. I just might ask that Selma girl out. And you can't tell me not to! My roof, my rules!"
+102032,393,94,446000,Homer Simpson,Simpson Living Room,"Oh, why did I borrow that roof from him?"
+102034,393,96,449000,Box Delivery Man,Simpson Home,So exactly what company am I giving these free boxes to?
+102035,393,97,453000,Bart Simpson,Simpson Home,Uh... the name of the company is...
+102036,393,98,458000,Bart Simpson,Simpson Home,"Dog, Incorporated."
+102037,393,99,459000,Box Delivery Man,Simpson Home,"Uh-huh. Are you run by dogs or for dogs? Actually, don't answer. I like not knowing."
+102038,393,100,466000,Bart Simpson,Simpson Home,Now we just have to figure out what to do with these boxes.
+102039,393,101,468000,Lisa Simpson,Simpson Home,"As always, I have some ideas."
+102040,393,102,474000,Bart Simpson,Simpson Home,Build a fart! I love it.
+102041,393,103,477000,Lisa Simpson,Simpson Home,"Fort. That's build a ""fort."""
+102042,393,104,477000,Bart Simpson,Simpson Home,That might work too.
+102044,393,106,484000,Selma Bouvier,The Gilded Truffle Restaurant,I'm glad you called. This is really gonna drive Homer crazy.
+102045,393,107,488000,Grampa Simpson,The Gilded Truffle Restaurant,Well actually... the real reason I asked you out is because I'm... Well I'm a little sweet on ya.
+102046,393,108,494000,Selma Bouvier,The Gilded Truffle Restaurant,"Ohhh... Listen Abe, the other night was fun, but..."
+102047,393,109,498000,Grampa Simpson,The Gilded Truffle Restaurant,"Ah phooey on buts! At my age and with your drawbacks, we can't afford to miss an opportunity. Why don't we just spend some time together and see where that takes us?"
+102048,393,110,509000,Selma Bouvier,The Gilded Truffle Restaurant,"Yeah, what the hell. Wanna split a basket of garlic bread?"
+102049,393,111,514000,Grampa Simpson,The Gilded Truffle Restaurant,"Slow down, ya hussy!"
+102021,393,113,542000,Marge Simpson,Beach,Look at Grampa and Selma frolicking in the water.
+102052,393,114,546000,Homer Simpson,Beach,It's not right. It's like an old sea turtle dating a suitcase that fell out of a plane.
+102053,393,115,551000,Marge Simpson,Beach,"Be nice, Homer. Don't you see how great it is that they found each other? Like how the parts of a pig nobody wants combine to make a yummy hot dog."
+102054,393,116,561000,Homer Simpson,Beach,"Oh, now you're dragging hot dogs into this. Real classy, Marge. Real classy."
+102055,393,117,567000,Selma Bouvier,Beach,"Hey Homer, that garbage barge is complaining about your smell."
+102056,393,118,571000,Grampa Simpson,Beach,We wrote that joke in the water. It wasn't all frolicking.
+102059,393,121,579000,Homer Simpson,Moe's Tavern,How could my Dad go out with Selma? Don't those two gargoyles know that love is for good-looking young people?
+102060,393,122,586000,Moe Szyslak,Moe's Tavern,"Well gee, Homer, you uh, ain't exactly open-casket material yourself."
+102061,393,123,590000,Homer Simpson,Moe's Tavern,"Words hurt, you know."
+102063,393,125,596000,Homer Simpson,Street,Stupid Selma and Grampa... how dare they find happiness?
+102064,393,126,601000,Voice,Street,Psst! Over here.
+102065,393,127,602000,Patty Bouvier,Street,It's me -- Patty.
+102066,393,128,604000,Homer Simpson,Street,Oh great. Who are you in love with? Bart?
+102067,393,129,607000,Patty Bouvier,Street,"Look, if you wanna break up your father and Selma, I have a plan. But it involves you."
+102068,393,130,612000,Homer Simpson,Street,"Okay, but I'm not good at details. Or the big picture. I also show up late, and drunk."
+102069,393,131,617000,Homer Simpson,Street,I've got a good feeling about this.
+102071,393,133,621000,Bart Simpson,Simpson Home,Lower the drawbridge!
+102072,393,134,624000,Lisa Simpson,Simpson Home,What's the password?
+102073,393,135,626000,Bart Simpson,Simpson Home,I love my sister.
+102075,393,137,634000,Delivery Man,Simpson Home,"Hey you little brats, get down from those battlements!"
+102076,393,138,638000,Delivery Man,Simpson Home,"Those boxes are for shipping, not for creating a world of pure imagination. Give them back!"
+102077,393,139,644000,Bart Simpson,Simpson Home,Not till we're bored with them! Now begone!
+102078,393,140,647000,Delivery Man,Simpson Home,I shall go. But I will return with an army of my brethren. And together we shall take back what is ours and Hell will rain down upon you!
+102079,393,141,658000,Lisa Simpson,Simpson Home,What if we're not here?
+102080,393,142,659000,Delivery Man,Simpson Home,"We will come two more times, and then you'll have to come to our customer center!"
+102081,393,143,667000,Delivery Man,Simpson Home,It's near the airport where the old Crown Books used to be.
+102083,393,145,677000,Patty Bouvier,Springfield Mall,"Hello, Homer."
+102084,393,146,678000,Homer Simpson,Springfield Mall,Selma!
+102085,393,147,679000,Patty Bouvier,Springfield Mall,"Relax, it's just me, Patty."
+102086,393,148,682000,Patty Bouvier,Springfield Mall,Do you have your disguise?
+102087,393,149,685000,Homer Simpson,Springfield Mall,"Hola, I am Esteban de la Sexface. That means Stephen of the Sexface."
+102088,393,150,689000,Patty Bouvier,Springfield Mall,"Okay, now let's prepare our mental images so we can kiss each other without barfing."
+102094,393,156,717000,Homer Simpson,Springfield Mall,Oh baby.
+102096,393,158,722000,Grampa Simpson,Springfield Mall,"Selma, how could you?!"
+102097,393,159,724000,Patty Bouvier,Springfield Mall,"Sorry Abe, we're through."
+102098,393,160,726000,Grampa Simpson,Springfield Mall,I thought we really had something.
+102099,393,161,729000,Selma Bouvier,Springfield Mall,What the hell is going on here?
+102100,393,162,732000,Homer Simpson,Springfield Mall,Dos Selmas? Ay-yi-yi!
+102102,393,164,739000,Grampa Simpson,Springfield Mall,Homer! Why would you try to break us up?
+102103,393,165,744000,Homer Simpson,Springfield Mall,I guess I always dreamed that my father would grow old alone.
+102104,393,166,748000,Grampa Simpson,Springfield Mall,"Well, nerts to both of ya! Our love is so strong, not even a thousand crazy schemes could tear it apart!"
+102105,393,167,755000,Homer Simpson,Springfield Mall,"A thousand, eh?"
+102106,393,168,757000,Grampa Simpson,Springfield Mall,I love this woman and I'm gonna make sure she's in my life forever.
+102107,393,169,761000,Patty Bouvier,Springfield Mall,I'm Patty.
+102108,393,170,761000,Grampa Simpson,Springfield Mall,"Nice to meet ya. Selma, will you marry me?"
+102109,393,171,765000,Selma Bouvier,Springfield Mall,Abe... I... I... yes!
+102110,393,172,770000,Grampa Simpson,Springfield Mall,"Homer, say hello to your new maw!"
+102112,393,174,777000,Homer Simpson,Springfield Mall,Nooooooo...
+102114,393,176,786000,Lisa Simpson,Springfield Town Hall,"Dad, don't throw rice, it makes the birds swell up!"
+102115,393,177,789000,Homer Simpson,Springfield Town Hall,"Oh Lisa, that's one of those rumors you get off the internet."
+102116,393,178,797000,Homer Simpson,Springfield Town Hall,"Hey Selma, want some rice?"
+102051,393,180,803000,Driver,First Church of Springfield,"Pick a lane, freaks!"
+102118,393,181,806000,Marge Simpson,First Church of Springfield,Nothing solves everything forever like a wedding.
+102120,393,183,812000,Grampa Simpson,HONEYMOON SUITE,Now to do something I've been looking forward to my whole wedding day.
+102121,393,184,821000,Grampa Simpson,HONEYMOON SUITE,I'm glad I waited.
+102122,393,185,822000,Grampa Simpson,HONEYMOON SUITE,"Now that we're married, I wanna tell you I have one strict policy: no wife of mine ever has to work."
+102123,393,186,829000,Selma Bouvier,HONEYMOON SUITE,"Are you sure, Abe? They offered me a promotion at the D.M.V. It's longer hours, but we can afford a place of our own."
+102124,393,187,836000,Grampa Simpson,HONEYMOON SUITE,Nonsense! When I left PAN AM they said they'd always have a job waiting for me.
+102125,393,188,841000,Selma Bouvier,HONEYMOON SUITE,Abe... there's no more PAN AM.
+102126,393,189,843000,Grampa Simpson,HONEYMOON SUITE,"Oh, I'm an old fool. I don't even have two kidneys to rub together."
+102127,393,190,848000,Selma Bouvier,HONEYMOON SUITE,"Don't worry, Abe. I can provide for both of us. Now we are on our honeymoon..."
+102128,393,191,855000,Grampa Simpson,HONEYMOON SUITE,"I thought we were at the circus, Lisa."
+102129,393,192,857000,Selma Bouvier,HONEYMOON SUITE,Hoo boy.
+102131,393,194,863000,Selma Bouvier,Grampa and Selma's House,Sorry I was at work so late. How'd it go with the baby?
+102132,393,195,868000,Grampa Simpson,Grampa and Selma's House,"We're having a great time. I cleaned up all my best war stories for her! I told her how we chased the ""Teddy bears"" into their cuddle-bunkers, then had to tickle them out with machine-hugs and fun-throwers. They say the more soldiers you tickle, the easier it gets. Well sir, it doesn't."
+102134,393,197,899000,Bart Simpson,Simpson Home,Who knew guys in brown shirts could cause so much trouble.
+102135,393,198,917000,Lisa Simpson,Simpson Home,It begins.
+102136,393,199,921000,Scariest Driver,Simpson Home,For the Brown Empire!
+102139,393,202,969000,Lisa Simpson,Simpson Home,"Nelson, you came to our side in our hour of need."
+102140,393,203,973000,Nelson Muntz,Simpson Home,Haaw-haaw!
+102141,393,204,1010000,Lisa Simpson,Simpson Home,We did it! Now we can enjoy Boxingham Palace in peace!
+102142,393,205,1016000,Bart Simpson,Simpson Home,Want to melt it with a hose?
+102143,393,206,1018000,Lisa Simpson,Simpson Home,"Sure, I guess. A couple of birds pooped on it over here."
+102145,393,208,1035000,Male Assistant,Department of Motor Vehicles,Selma--
+102146,393,209,1035000,Selma Bouvier,Department of Motor Vehicles,Walk with me.
+102148,393,210,1036000,Male Assistant,Department of Motor Vehicles,The new traffic cones are held up in Harrisburg.
+102149,393,211,1038000,Selma Bouvier,Department of Motor Vehicles,Go to the costume store. Get a hundred wizard hats and a bucket of orange paint.
+102150,393,212,1042000,Male Assistant,Department of Motor Vehicles,I love that!
+102151,393,213,1043000,Female Assistant,Department of Motor Vehicles,We've lost the answer key for written test number seven!
+102152,393,214,1046000,Selma Bouvier,Department of Motor Vehicles,A-C-D-A-A-C-B-B-C-A!
+102153,393,215,1048000,Female Assistant,Department of Motor Vehicles,You are what I want to be.
+102154,393,216,1051000,Male Coworker,Department of Motor Vehicles,"Selma, the divider broke and the driver's test line is mixing with the license renewal line!"
+102156,393,218,1055000,Moe Szyslak,DMV FRONT AREA,"Hey renewbies, stay on your side!"
+102157,393,219,1058000,Sideshow Mel,DMV FRONT AREA,You and what line-divider is going to make me?
+102158,393,220,1063000,Selma Bouvier,DMV FRONT AREA,I shaved my legs to the knees for this?
+102160,393,222,1070000,Grampa Simpson,Grampa and Selma's House,Now to relax with a nice cup of tea.
+102161,393,223,1075000,Grampa Simpson,Grampa and Selma's House,Which one of you do-hickeys is the tea kettle?
+102162,393,224,1087000,Grampa Simpson,Grampa and Selma's House,"Ooh, a flapjack flipper!"
+102163,393,225,1096000,Grampa Simpson,Grampa and Selma's House,"I usually don't cook, but when you're in love you do crazy things! Now I'll just put in a movie to pass the time..."
+102164,393,226,1106000,Grampa Simpson,Grampa and Selma's House,Let's see... running time two hours...
+102165,393,227,1114000,Grampa Simpson,Grampa and Selma's House,"Ooh, the kettle's whistlin'!"
+102166,393,228,1115000,Grampa Simpson,Grampa and Selma's House,"Ah, just the way I like it: thick and noxious!"
+102167,393,229,1121000,Grampa Simpson,Grampa and Selma's House,Uh-oh. Better call the fire brigade!
+102168,393,230,1125000,Grampa Simpson,Grampa and Selma's House,"Wow, they're already here!"
+102170,393,232,1130000,Selma Bouvier,Department of Motor Vehicles,So that's my projected new driver's test route.
+102171,393,233,1134000,Male Dmv Suit,Department of Motor Vehicles,"Nice pres, Selma. But uh... Where's the three-point turn on this baby?"
+102172,393,234,1138000,Selma Bouvier,Department of Motor Vehicles,Um... Bailey Street?
+102173,393,235,1140000,Female Dmv Suit,Department of Motor Vehicles,"Bailey Street? The freshly paved Bailey Street? Oh yeah, let's wear that out."
+102174,393,236,1148000,Selma Bouvier,Department of Motor Vehicles,I'm sorry. I-I've got a lot of stress at home.
+102175,393,237,1151000,Grampa Simpson,Department of Motor Vehicles,I'm wet and scared and the house hates me!
+102176,393,238,1156000,Male Dmv Suit,Department of Motor Vehicles,"Selma, we don't have time for this. This is the D.M.V. -- we're about getting things done!"
+102177,393,239,1160000,Selma Bouvier,Department of Motor Vehicles,Abe... let's go home.
+102178,393,240,1161000,Male Dmv Suit,Department of Motor Vehicles,"How will we ever replace her? Oh, I know."
+102180,393,242,1167000,Grampa Simpson,Grampa and Selma's House,Why is this so hard? I just wanted to marry my best gal.
+102181,393,243,1173000,Selma Bouvier,Grampa and Selma's House,"I guess the Beatles were wrong -- love isn't all you need. Abe, I hate to admit it, but maybe this marriage isn't going to work."
+102182,393,244,1181000,Grampa Simpson,Grampa and Selma's House,"I guess you're right. Also, I didn't realize you liked the Beatles. That would have caused some problems down the line."
+102183,393,245,1189000,Selma Bouvier,Grampa and Selma's House,I guess I'm gonna be alone forever.
+102184,393,246,1192000,Grampa Simpson,Grampa and Selma's House,Now don't be an idiot. A sweet young tomato like you will definitely find someone. Some young bruiser who can eat corn on the cob and not think twice about it.
+102185,393,247,1203000,Selma Bouvier,Grampa and Selma's House,You really think so?
+102186,393,248,1204000,Grampa Simpson,Grampa and Selma's House,Absolutely. Now how 'bout givin' an old man one last dance?
+102188,393,250,1222000,Homer Simpson,Simpson Home,So... how long is Señor Homer out of town for?
+102189,393,251,1227000,Marge Simpson,Simpson Home,"Oh, I don't know, he might come home any minute."
+102190,393,252,1230000,Homer Simpson,Simpson Home,Then I must flee!
+102191,393,253,1233000,Homer Simpson,Simpson Home,Where is he? Where is he? I smell his aftershave!
+102192,393,254,1239000,Marge Simpson,Simpson Home,I don't think we're doing this right.
+102193,393,255,1242000,Homer Simpson,Simpson Home,Where is he? I know he's in here.

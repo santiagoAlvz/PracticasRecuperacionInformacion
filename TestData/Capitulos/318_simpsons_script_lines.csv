@@ -1,0 +1,181 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+81727,318,1,50000,Homer Simpson,Simpson Home,"Okay, Mother's Day gift check. Let's see what you got."
+81728,318,2,53000,Lisa Simpson,Simpson Home,I picked Mom a bouquet of Erigeron
+81729,318,3,53000,Lisa Simpson,Simpson Home,elatiors.
+81730,318,4,58000,Lisa Simpson,Simpson Home,Daisies.
+81731,318,5,60000,Lisa Simpson,Simpson Home,Flowers.
+81732,318,6,64000,Homer Simpson,Simpson Home,Flow... yeah.
+81733,318,7,66000,Bart Simpson,Simpson Home,"Lis, your stupid present will only last a week. Mine will sit in a closet for years."
+81734,318,8,72000,Homer Simpson,Simpson Home,"Bart, we made her the same thing!"
+81735,318,9,74000,Lisa Simpson,Simpson Home,This is even worse than you think -- look!
+81736,318,10,78000,Homer Simpson,Simpson Home,"Kids, we're going Mother's Day shopping! I'm glad this holiday only comes every four years."
+81738,318,12,84000,Homer Simpson,Springfield Street,"Let's see, what would she like?"
+81739,318,13,88000,Homer Simpson,Springfield Street,Twenty on the trifecta?
+81740,318,14,90000,Homer Simpson,Springfield Street,Her wedding china back?
+81742,318,16,96000,Homer Simpson,Springfield Street,"I could get Marge a new window, just like this one."
+81683,318,17,101000,Bart Simpson,Springfield Street,"Hey, Dad, why don't we try the ""Sprawl-Mart""?"
+81743,318,18,103000,Homer Simpson,Springfield Street,"Yeah, I love Sprawl-Mart. They've got everything. Even Christian videos with talking vegetables."
+81744,318,19,110000,Cucumber Moses,Springfield Street,"Mighty Yamses, we are weary of building your food pyramid. Let my pickles go!"
+81745,318,20,118000,Homer Simpson,Springfield Street,"Mmm, Moses."
+81747,318,22,125000,Grampa Simpson,Sprawl-Mart,Welcome to Sprawl-Mart!
+81748,318,23,127000,Lisa Simpson,Sprawl-Mart,Grampa! You have a job?
+81749,318,24,129000,Homer Simpson,Sprawl-Mart,How dare you challenge my perceptions of what old people can do?
+81750,318,25,132000,Grampa Simpson,Sprawl-Mart,I'm a Greeter! I'm here to make every visit special! And to size up potential shoplifters!
+81751,318,26,140000,Nelson Muntz,Sprawl-Mart,Like I can't shoplift with my mouth.
+81752,318,27,142000,Nelson Muntz,Sprawl-Mart,Haw haw!
+81753,318,28,146000,Lisa Simpson,Sprawl-Mart,"Wow, look at all this stuff."
+81754,318,29,150000,Bart Simpson,Sprawl-Mart,"Oh look, Jaclyn Smith has her own line of axe heads!"
+81755,318,30,154000,Homer Simpson,Sprawl-Mart,"Yeah, it's impressive. But I still haven't found the perfect gift for Marge. Only imperfect stuff for me."
+81756,318,31,161000,Patty Bouvier,Sprawl-Mart,"Hey look, it's Hairy Ass Tubman."
+81758,318,33,165000,Homer Simpson,Sprawl-Mart,"Well, well, if it isn't Fatty and Smell-ma."
+81759,318,34,169000,Selma Bouvier,Sprawl-Mart,Your names can't hurt us.
+81761,318,36,174000,Lisa Simpson,Sprawl-Mart,"Aunts Patty and Selma, can you help us pick out a Mother's Day gift?"
+81762,318,37,179000,Selma Bouvier,Sprawl-Mart,You could give her one of these.
+81763,318,38,180000,Patty Bouvier,Sprawl-Mart,"A Kitchen Carnival. We got one when we appeared on an episode of ""The Price Is Right"" which the network refused to air."
+81764,318,39,189000,Selma Bouvier,Sprawl-Mart,Apparently we're not TV pretty.
+81765,318,40,189000,Bart Simpson,Sprawl-Mart,Wow! It's a machine that makes carnival food at home.
+81766,318,41,195000,Lisa Simpson,Sprawl-Mart,Endorsed by the American Carny Association.
+81767,318,42,195000,Homer Simpson,Sprawl-Mart,"Wow! I never thought I'd say this, but you slags are all right."
+81769,318,44,206000,Marge Simpson,Simpson Home,All this attention! I feel like a secretary on Administrative Professionals Day!
+81770,318,45,212000,Homer Simpson,Simpson Home,"Marge, you're gonna love my present. It is so thoughtful it makes the kids' gifts look like crap."
+81771,318,46,221000,Marge Simpson,Simpson Home,"""Kitchen Carnival?"" I love it! Thank you, Homie."
+81772,318,47,228000,Homer Simpson,Simpson Home,"Whoa, Marge, get a room!"
+81710,318,48,255000,Homer Simpson,Simpson Home,Only my hairdresser knows for sure.
+81773,318,49,267000,Homer Simpson,Simpson Home,"Hmm, dare I pour caramel over the cotton candy?"
+81777,318,53,286000,Bart Simpson,Simpson Home,"I'm gonna pour caramel on my clothes. And then, finally, I can eat my shorts."
+81779,318,55,294000,Lisa Simpson,Simpson Home,What is that?!
+81780,318,56,295000,Homer Simpson,Simpson Home,This is eighty-five pounds of tooth-melting sugar. Dig in!
+81781,318,57,304000,Homer Simpson,Simpson Home,"That's it, kids. Suckle Daddy's sugar ball."
+81783,318,59,326000,Lou,Simpson Car,"Chief, that guy shouldn't be in the carpool lane. His passenger is just a big piece of candy."
+81784,318,60,331000,Chief Wiggum,Simpson Car,I wish mine was.
+81785,318,61,332000,Lou,Simpson Car,What?
+81786,318,62,332000,Chief Wiggum,Simpson Car,Nothin'
+81788,318,64,339000,Marge Simpson,Simpson Home,"Homer, are you spooning that snack?"
+81789,318,65,341000,Homer Simpson,Simpson Home,That's my old lady.
+81790,318,66,349000,Homer Simpson,Simpson Home,Ants!
+81791,318,67,352000,Homer Simpson,Simpson Home,Birds!
+81792,318,68,354000,Homer Simpson,Simpson Home,Cats!
+81793,318,69,357000,Homer Simpson,Simpson Home,Flanderses!
+81794,318,70,362000,Rod Flanders,Simpson Home,I was saving sugar for my wedding night!
+81795,318,71,366000,Marge Simpson,Simpson Home,"Homie, it's time you got rid of that thing. All that candy is rotting your brain."
+81796,318,72,372000,Candy Ball,Simpson Home,I think you should get rid of her. Then we can be together... forever!
+81797,318,73,378000,Homer Simpson,Simpson Home,"Maybe you're right, Marge. Or maybe you're right, candy ball. No, Marge. Then again... No, Marge. Definitely Marge."
+81799,318,75,399000,Homer Simpson,SPRINGFIELD DUMP,"Goodbye, old friend. I'll think of you whenever I have a stroke or a heart attack."
+81801,318,77,411000,Homer Simpson,SPRINGFIELD DUMP,"Oh my God, I'm gonna be killed by a bear! Well, I guess I don't have to worry anymore about the dangers of smoking."
+81802,318,78,418000,Homer Simpson,SPRINGFIELD DUMP,Smooth.
+81806,318,82,432000,Marge Simpson,Simpson Home,Homie! What happened to you?
+81807,318,83,435000,Homer Simpson,Simpson Home,"Marge, please. I'm too upset to talk about it."
+81808,318,84,437000,Marge Simpson,Simpson Home,But seeing you like this is more than I can bear.
+81128,318,85,441000,Homer Simpson,Simpson Home,Bear?!
+81809,318,86,443000,Kent Brockman,Simpson Home,"... the angry president woke up, crawled out of his grave, and went back to work."
+81810,318,87,449000,Kent Brockman,Simpson Home,"That sound can mean only one thing -- it's time for another installment of ""Kent's Cowards."""
+81811,318,88,452000,Kent Brockman,Simpson Home,Today's clip comes straight from the Springfield dump.
+81812,318,89,461000,Bart Simpson,Simpson Home,"Dad, you got attacked by a bear?!"
+81813,318,90,464000,Homer Simpson,Simpson Home,"I did a lot of stuff today. I went to Starbucks, but you didn't see that on tape."
+81816,318,93,497000,Kent Brockman,Simpson Home,"That hilarious footage was shot by local hunter, Grant Connor -- not with a gun, but with a camera!"
+81817,318,94,504000,Grant Connor,Simpson Home,"That's right, Kent. I often get guns and cameras confused. One time, tragically, at a wedding."
+81818,318,95,510000,Lisa Simpson,Simpson Home,"I don't care if they think you're a coward, Dad. You did the right thing, hiding and crying."
+81819,318,96,516000,Bart Simpson,Simpson Home,"Yeah, we'd rather have a live sissy mincing around the house than some dead hero any day."
+81820,318,97,521000,Homer Simpson,Simpson Home,Choke on your candor!
+81821,318,98,526000,Lisa Simpson,Simpson Home,"You can strangle Bart, but you can't strangle your humiliation."
+81822,318,99,530000,Homer Simpson,Simpson Home,It's a deal!
+81824,318,101,535000,Jimbo Jones,Springfield Elementary School,"Hey Simpson, I heard your Dad is afraid of a little old giant grizzly bear."
+81825,318,102,541000,Kearney Zzyzwicz,Springfield Elementary School,The only thing my Dad's afraid of is paying child support.
+81826,318,103,545000,DOLPH,Springfield Elementary School,My Dad once beat up six employees at KFC. And he'd been up for three days.
+81828,318,105,550000,Waylon Smithers,Springfield Nuclear Power Plant,"Homer Simpson, report to Mr. Burns' office immediately."
+81830,318,107,563000,C. Montgomery Burns,Springfield Nuclear Power Plant,What a delightful practically-based joke.
+81833,318,110,571000,Homer Simpson,Simpson Home,Hello? Anyone home?
+81834,318,111,574000,Homer Simpson,Simpson Home,Marge? Maggie?
+81836,318,113,584000,Homer Simpson,Simpson Home,"""The Bear Went Over The Mountain""?! ""The Berenstain Bears""?! Ahhh, Goldilocks... and the Three Bears!"
+81837,318,114,599000,Homer Simpson,Simpson Home,"Oh God, they're in our food! Teddy Grahams, Gummi Bears..."
+81838,318,115,613000,Homer Simpson,Simpson Home,Are you a Care Bear?
+81839,318,116,615000,Care Bear,Simpson Home,I'm an intensive care bear.
+81840,318,117,617000,Homer Simpson,Simpson Home,Why does a bear need a crowbar?
+81841,318,118,620000,Care Bear,Simpson Home,I don't like to get my hands dirty.
+81844,318,121,629000,Grampa Simpson,Simpson Home,Crying in the corner huh? Mind if I join you?
+81845,318,122,632000,Homer Simpson,Simpson Home,"No, go ahead."
+81847,318,124,639000,Grampa Simpson,Simpson Home,"All right. That's enough, Fraidy Sue. Here's what you gotta do: find that bear what whupped you, and whup him back."
+81848,318,125,646000,Homer Simpson,Simpson Home,Can I fight human-style? By slowly poisoning his environment until he loses his fur and becomes sterile?
+81849,318,126,653000,Homer Simpson,Simpson Home,"You cowardly Swede! You face that bear like a man, or I'll never speak to you again."
+81850,318,127,659000,Homer Simpson,Simpson Home,But how will I find out what you had for lunch in nineteen twenty-eight?
+81851,318,128,663000,Grampa Simpson,Simpson Home,I have a web site.
+81852,318,129,665000,Grampa Simpson,Simpson Home,Welcome to my homepage. Why don't you visit more often?
+81854,318,131,673000,Grant Connor,GRANT CONNOR'S HOUSE,"Mr. Simpson, if you want to find that bear that attacked you, use this."
+81855,318,132,678000,Grant Connor,GRANT CONNOR'S HOUSE,It tracks an electronic tag I stuck in the bear's ear. It's the same technology they use to keep tabs on Gary Busey.
+81856,318,133,685000,Homer Simpson,GRANT CONNOR'S HOUSE,"Finally, science has joined forces with revenge."
+81857,318,134,689000,Grant Connor,GRANT CONNOR'S HOUSE,"Now, listen. The bull grizzly is seven feet tall, weighs more than a Mazda Miata, and can tear through a tree like a Jewish mother through self-esteem. Next time you face him, you better have some way to protect yourself."
+81859,318,136,716000,Homer Simpson,Simpson Garage,Lookin' good. And I did it all without wasting money on one of those stupid welder's masks.
+81861,318,138,724000,Bart Simpson,Simpson Home,Behold! The ultimate in anti-bear technology: The Bear Buster Five Thousand. Available wherever fat men dream.
+81862,318,139,740000,Marge Simpson,Simpson Home,"Oh, dear Lord."
+81863,318,140,742000,Homer Simpson,Simpson Home,"Check it out, ladies. The suit that makes me completely invulnerable to bear attack."
+81864,318,141,748000,Marge Simpson,Simpson Home,"Homer, there's no rear on that thing."
+81865,318,142,750000,Homer Simpson,Simpson Home,"I know. If I get really scared, I don't want to ruin the suit."
+81867,318,143,754000,Marge Simpson,Simpson Home,"Now look here, mister. I forbid you to fight a bear."
+81868,318,144,757000,Homer Simpson,Simpson Home,What kind of an example would I be if I didn't take revenge on things?
+81869,318,145,761000,Lisa Simpson,Simpson Home,"Dad, you can't get revenge on an animal. That's the whole point of Moby Dick."
+81870,318,146,765000,Homer Simpson,Simpson Home,"Lisa, the point of Moby Dick is ""be yourself."""
+81871,318,147,765000,Marge Simpson,Simpson Home,"You're not going, and that's final."
+81872,318,148,772000,Homer Simpson,Simpson Home,Fine. But do you know how ridiculous you look right now?
+81873,318,149,784000,Homer Simpson,Simpson Home,"Marge, you awake? Marge?"
+81875,318,151,804000,Lenny Leonard,Simpson Home,Marge is sure gonna be steamed when she finds you missing.
+81876,318,152,804000,Carl Carlson,Simpson Home,Or dead.
+81877,318,153,809000,Homer Simpson,Simpson Home,"Gentlemen, sometimes a man must put his marriage at risk for reasons that are confusing even to him."
+81878,318,154,816000,Bart Simpson,Simpson Home,You're sneakin' out to fight that bear. I wanna go too.
+81879,318,155,821000,Homer Simpson,Simpson Home,"No way. If something happens to me, you have to carry on the Simpson name."
+81880,318,156,825000,Bart Simpson,Simpson Home,"Screw that. When I grow up, I'm legally changing my name to Joe Kickass."
+81881,318,157,828000,Homer Simpson,Simpson Home,"That is so cool. All right, you can come."
+81882,318,158,832000,Marge Simpson,Simpson Home,"Lisa, I think your father just left!"
+81883,318,159,835000,Lisa Simpson,Simpson Home,And Bart's missing too!
+81884,318,160,837000,Marge Simpson,Simpson Home,I've got a bad feeling about this. Let's check the suit closet.
+81886,318,162,841000,Lisa Simpson,SUIT CLOSET,Zoot suit... astronaut outfit... Southern belle... Renaissance dandy... Country-western octopus...
+81887,318,163,848000,Lisa Simpson,SUIT CLOSET,It's gone!
+81888,318,164,850000,Marge Simpson,SUIT CLOSET,That man and his foolish pride! We've gotta go follow him.
+81889,318,165,855000,Lisa Simpson,SUIT CLOSET,"I just wanted to see what it was like. Howdy, y'all. If you don't like mah song, I'll spray ya with ink!"
+81891,318,167,866000,Homer Simpson,Woods,I never realized how hot this suit is. I'm sweating out all my blood-lust!
+81892,318,168,872000,Bart Simpson,Woods,Why don't you take a bath in the river? This bear tracker stopped beeping a half hour ago.
+81893,318,169,877000,Homer Simpson,Woods,Suh-weet.
+81894,318,170,882000,Bart Simpson,Woods,"Hey, the batteries are missing from this thing."
+81895,318,171,884000,Lenny Leonard,Woods,"Yeah, we borrowed 'em for the radio."
+81896,318,172,887000,Carl Carlson,Woods,SKYROCKETS IN FLIGHT / AFTERNOON DELIGHT...
+81866,318,174,892000,Homer Simpson,Riverbank,"Rub a dub dub, I'm washin' the blub."
+81897,318,176,900000,Homer Simpson,Riverbank,Oh my God! Lenny! Carl! Bart?
+81899,318,178,903000,Bart Simpson,Campsite,RUBBING STICKS TOGETHER MAKES THE SPARKS IGNITE / AND THE THOUGHT OF LOVING YOU IS GETTIN' SO EXCITING...
+81903,318,182,919000,Marge Simpson,FOREST ROAD,"Mr. Connor, thank you for helping find my husband. I don't want my last words to him to be ""clip your toenails, they look like Fritos."""
+81904,318,183,922000,Bart Simpson,FOREST ROAD,Mom! Mom! Stop the car!
+81905,318,184,930000,Bart Simpson,FOREST ROAD,Dad went to take a bath and the bear carried him off!
+81906,318,185,933000,Carl Carlson,FOREST ROAD,"Yeah, it almost wrecked the whole trip."
+81907,318,186,935000,Grant Connor,FOREST ROAD,"Ma'am, I will find your husband before that bear kills him. But first, a snack."
+81909,318,188,951000,Homer Simpson,Cave,"I guess this is it. If I'm gonna die, I'm gonna die a man."
+81910,318,189,962000,Homer Simpson,Cave,Is this thing hurting you?
+81912,318,191,977000,Homer Simpson,Cave,"Okay, it's probably the tag. But just to be sure..."
+81913,318,192,991000,Homer Simpson,Cave,"Hey, you're not mean. It was just this tag that made you go ape-scat. We're not so different. Give me a hug."
+81914,318,193,1003000,Homer Simpson,Cave,Jeez! I don't know why bear hugs enjoy such a great reputation.
+81918,318,197,1027000,Homer Simpson,Field,That's funny.
+81919,318,198,1033000,Homer Simpson,Field,"Oh no, the hunter has become the hunter!"
+81920,318,199,1037000,Homer Simpson,Field,He must be following this thing. Well I'm gonna make sure it never harms another living creature.
+81922,318,201,1050000,Radio Announcer,CAMPGROUND,"A killer bear is on the loose in Springfield Forest, and local laughingstock Homer Simpson is missing and presumed mauled."
+81923,318,202,1057000,Homer Simpson,CAMPGROUND,"Wrong again, liberal media."
+81924,318,203,1061000,Radio Announcer,CAMPGROUND,A bounty has been placed on the rogue bear in the amount of ten thousand dollars.
+81925,318,204,1066000,Homer Simpson,CAMPGROUND,"Don't worry, I'll find you someplace safe."
+81927,318,206,1072000,Grant Connor,Woods,The bear is no longer wearing his tracking device. And it looks like he's headed toward that wildlife sanctuary.
+81928,318,207,1079000,Marge Simpson,Woods,Is there any sign of my husband?
+81929,318,208,1081000,Grant Connor,Woods,"Your husband appears to be traveling with the bear, either as hostage or as what we call a ""Forest Bride."""
+81932,318,211,1091000,Homer Simpson,OPEN FIELD,"Okay, you wanna go over there."
+81933,318,212,1098000,Homer Simpson,OPEN FIELD,Hold on. Something doesn't feel right.
+81935,318,214,1108000,Homer Simpson,OPEN FIELD,Wait! Stop! I know bullets can be scary sometimes. But I have an idea. First we pull off all of your fur.
+81937,318,216,1118000,Homer Simpson,OPEN FIELD,"All right, all right I'm still thinking!"
+81938,318,217,1120000,Homer Simpson,OPEN FIELD,"They're looking for a male bear, right?"
+81940,318,219,1126000,Homer Simpson,OPEN FIELD,"It's so easy to condemn, so hard to create."
+81941,318,220,1129000,Grant Connor,OPEN FIELD,"Okay boys, that bear's gonna make a dash for freedom. Unless we take him down."
+81942,318,221,1135000,Cletus Spuckler,OPEN FIELD,"Yeah, all the way down."
+81943,318,222,1138000,Grant Connor,OPEN FIELD,What you said didn't really add much.
+81944,318,223,1142000,Cletus Spuckler,OPEN FIELD,"I know, I just wanted to belong."
+81945,318,224,1146000,Grant Connor,OPEN FIELD,"Well, we all feel that way sometimes."
+81947,318,226,1155000,Marge Simpson,Field,"It's Homer, don't shoot!"
+81948,318,227,1163000,Grant Connor,Field,It's that bear! Aim for the holes in the colander!
+81949,318,228,1174000,Lisa Simpson,Field,He made it! He's finally protected from man.
+81950,318,229,1177000,Bart Simpson,Field,"Yeah, but now he's being attacked by an elephant."
+81952,318,231,1184000,Marge Simpson,WILDLIFE SANCTUARY,"Well, I'm proud of you, Homie."
+81953,318,232,1187000,Marge Simpson,WILDLIFE SANCTUARY,You set out to fight an animal and you ended up saving its life.
+81954,318,233,1192000,Homer Simpson,WILDLIFE SANCTUARY,What can I say? I love nature...
+81955,318,234,1197000,Homer Simpson,WILDLIFE SANCTUARY,Circle of life.

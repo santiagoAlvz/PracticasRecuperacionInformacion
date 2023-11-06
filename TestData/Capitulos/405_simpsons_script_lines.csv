@@ -1,0 +1,201 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+105094,405,1,7000,Marge Simpson,Therapist's Office,"You see, the problem is, we've grown apart."
+105095,405,2,7000,Homer Simpson,Therapist's Office,"The problem is, you don't share my interest in not being with you."
+105096,405,3,7000,Marge Simpson,Therapist's Office,Another thing... I don't know where you go at night.
+105099,405,6,10000,C. Montgomery Burns,Upstairs Hallway Bathroom,"Greetings, Two Forty-One."
+105100,405,7,10000,Homer Simpson,Upstairs Hallway Bathroom,Why does he always bring up my weight?
+105101,405,8,10000,C. Montgomery Burns,Upstairs Hallway Bathroom,I want you to eliminate this reporter: Kent Brockman. He found the gully where I dump electricity every summer to jack up prices.
+105102,405,9,10000,Homer Simpson,Upstairs Hallway Bathroom,"Don't worry, sir. I'll handle this cleanly, quietly and Bart!"
+105103,405,10,10000,Bart Simpson,Upstairs Hallway Bathroom,What?
+105105,405,12,10000,Homer Simpson,Simpson Home,"Marge, I'm gonna be home late tonight. I'm going to... Midnight Monkey Madness at the zoo."
+105106,405,13,15000,Marge Simpson,Simpson Home,"Well I won't be home either. I'm, uh... flipping over wheelbarrows in case it rains."
+105107,405,14,15000,Homer Simpson,Simpson Home,Have fun at your crazy-sounding thing.
+105108,405,15,20000,Marge Simpson,Simpson Home,And you have fun at your ridiculous event.
+105109,405,16,20000,Marge Simpson,Simpson Home,Love ya.
+105112,405,19,20000,Elevator Voice,CONSTRUCTION SITE OVERLOOKING MUSEUM,Ninth floor -- assassin's perch.
+105113,405,20,23000,Homer Simpson,CONSTRUCTION SITE OVERLOOKING MUSEUM,"Now all I have to do is think of a clever line before I pull the trigger. Oh, that's a perfect one. But I don't need to say it out loud, 'cause I'm by myself."
+105114,405,21,23000,Homer Simpson,CONSTRUCTION SITE OVERLOOKING MUSEUM,"Out of my way, mystery skank!"
+105115,405,22,26000,Homer Simpson,CONSTRUCTION SITE OVERLOOKING MUSEUM,Hey! Now I don't get paid!
+105116,405,23,30000,MEN IN CROWD,CONSTRUCTION SITE OVERLOOKING MUSEUM,Hey baby! / How ya doin'?! / Hello!
+105118,405,25,31000,Homer Simpson,GIRDER,Now I'm mad!
+105119,405,26,31000,Homer Simpson,GIRDER,Now I'm .
+105120,405,27,31000,Homer Simpson,GIRDER,Marge is a professional assassin!
+105122,405,29,32000,Marge Simpson,Simpson Home,You just can't get Russian gangster blood out. Must be something they eat.
+105123,405,30,32000,Homer Simpson,Simpson Home,"Hey, what's that?"
+105124,405,31,32000,Marge Simpson,Simpson Home,Uh... a blender cozy.
+105125,405,32,32000,Marge Simpson,Simpson Home,How was your night?
+105126,405,33,32000,Homer Simpson,Simpson Home,"Great, great -- I turned over so many wheelbarrows... Wait, that was your thing."
+105127,405,34,50000,Marge Simpson,Simpson Home,"Homie, I made you my ""killer"" lasagna."
+148626,405,35,52000,Homer's Thoughts,Simpson Home,"It's poison! Whatever you do, don't eat it."
+148627,405,36,52000,Homer's Thoughts,Simpson Home,"Okay, you're already eating it, but don't finish it. Okay, you finished it, but don't ask for--"
+105128,405,37,52000,Homer Simpson,Simpson Home,"Seconds, please."
+148628,405,38,69000,Homer's Thoughts,Simpson Home,You moron! Just kill her!
+105129,405,39,69000,Homer Simpson,Simpson Home,I'll kill her after dessert!
+105130,405,40,69000,Marge Simpson,Simpson Home,You're a killer for hire!
+105131,405,41,69000,Homer Simpson,Simpson Home,You ruined that pie!
+105132,405,42,69000,Marge Simpson,Simpson Home,How could you not tell me you were an assassin?
+105133,405,43,81000,Homer Simpson,Simpson Home,How could you not tell me?
+105134,405,44,81000,Marge Simpson,Simpson Home,I told you twenty times! You never listen!
+105135,405,45,81000,Homer Simpson,Simpson Home,"Well, they're not as pretty as you, Marge."
+105136,405,46,81000,Grampa Simpson,Simpson Home,"Listen, I..."
+105137,405,47,84000,Homer Simpson,Simpson Home,"Okay, here's the deal, I'll do the killing for hire, and you stay home with the kids."
+105138,405,48,84000,Marge Simpson,Simpson Home,I get fifty thousand dollars a hit -- how much do you make?
+105139,405,49,84000,Homer Simpson,Simpson Home,I just get to keep whatever's in the guy's wallet.
+105140,405,50,87000,Marge Simpson,Simpson Home,"All those nights I thought you were out getting drunk, you were out killing people?!"
+105141,405,51,87000,Homer Simpson,Simpson Home,"I was out getting drunk, then killing people!"
+105142,405,52,87000,Marge Simpson,Simpson Home,Stop it! That's my favorite couch!
+105143,405,53,87000,Homer Simpson,Simpson Home,Why do you think I'm kicking it?
+105144,405,54,87000,Bart Simpson,Simpson Home,Are you guys fighting over us?
+105145,405,55,87000,Lisa Simpson,Simpson Home,"Whatever we did, we're sorry."
+105146,405,56,91000,Marge Simpson,Simpson Home,"Sweeties, we weren't fighting..."
+105147,405,57,91000,Lisa Simpson,Simpson Home,It sounded like you were.
+105148,405,58,91000,Homer Simpson,Simpson Home,"Hey, who wants ice cream in bed?"
+105149,405,59,91000,Lisa Simpson,Simpson Home,Ice cream! Ice cream! / Dad's the best!
+105150,405,60,91000,Marge Simpson,Simpson Home,"Great. Now they're gonna have tummy aches tomorrow, and where will ""super dad"" be then?"
+105151,405,61,91000,Homer Simpson,Simpson Home,At your funeral.
+105152,405,62,91000,Chief Wiggum,Simpson Home,"We got a complaint from an anonymous ""neighboreeno"" about an elaborately-choreographed high-octane ultra-fight."
+105153,405,63,104000,Chief Wiggum,Simpson Home,I would have taken a bribe!
+105154,405,64,104000,Homer Simpson,Simpson Home,"Oh, that was so hot! I love watching you do other guys!"
+105155,405,65,104000,Marge Simpson,Simpson Home,I'd like to see you do a guy sometime.
+105156,405,66,106000,Homer Simpson,Simpson Home,That can be arranged.
+105159,405,69,106000,Marge Simpson,Simpson Home,"Oh, what a wonderful night."
+105161,405,71,106000,Homer Simpson,What Looks Like Couples Therapist's Office,"...so, killing people together has really spiced things up in the bedroom."
+105162,405,72,106000,Seymour Skinner,What Looks Like Couples Therapist's Office,"That's terrific, but I called you here to discuss your son's misbehavior on the school bus."
+105164,405,74,106000,Homer Simpson,Simpson Home,Crème brûlée! Crème brûlée! Or in English: Burnt Cream! Burnt Cream!
+105165,405,75,106000,Marge Simpson,Simpson Home,Hold on -- I still have to caramelize.
+105166,405,76,112000,Marge Simpson,Simpson Home,"Bart, go out to the shed and get some more butane!"
+105169,405,79,119000,Bart Simpson,Simpson Backyard,Oh my God. An alien... in our butane storage shed!
+105171,405,81,125000,Bart Simpson,Simpson Backyard,Wow! Is that your space name?
+105172,405,82,126000,Kodos,Simpson Backyard,No. You hit me in my seven hundred testicles.
+105173,405,83,131000,Bart Simpson,Simpson Backyard,Why did you come to our world?
+105174,405,84,133000,Kodos,Simpson Backyard,"My friends and I came in peace to find your vulnerabilities and, um, shore them up with more peace. Yes. Then I was accidentally left behind... in a spirit of peace."
+105175,405,85,146000,Bart Simpson,Simpson Backyard,Whoa. Is that a ray gun?
+105176,405,86,148000,Kodos,Simpson Backyard,"No, it's a... deodorant applicator. I'll just..."
+105177,405,87,159000,Kodos,Simpson Backyard,Smells like a summer breeze.
+105179,405,89,163000,Bart Simpson,Bart's Bedroom,"So, this is my Krusty doll, Funzo, Linguo, Iraq War Sergeant Activity with insufficient armor, Phonic Frog, cat skull, Jim Halterman bobble-head doll -- he's a local car dealer..."
+105180,405,90,174000,Kodos,Bart's Bedroom,"Hm... do all humans have such weak necks? Or just the one you call ""Jim Halterman?"""
+105181,405,91,181000,Lisa Simpson,Bart's Bedroom,"Oh my God, an alien! I'm gonna blow Rachel Goodman away at show-and-tell!"
+105182,405,92,185000,Bart Simpson,Bart's Bedroom,"No! If the government finds out he's here, they'll dissect him!"
+105183,405,93,188000,Kodos,Bart's Bedroom,"I only hope those scientists leave me my mouth, so I may spread my message of peace through song. PEACE, PEACE, PEACE, PEACE FROM SPACE /"
+105184,405,94,202000,Lisa Simpson,Bart's Bedroom,"As this month's rotating president of the Springfield Future Scientists Club, may I say: I'm sorry. And is there anything we can do to help?"
+105185,405,95,211000,Kodos,Bart's Bedroom,Well... I would like to phone home. To tell my family I'm okay...
+105187,405,97,218000,Kodos,Bart's Bedroom,"To do so, I would need the following items."
+105188,405,98,220000,Lisa Simpson,Bart's Bedroom,"Fiber-optic cable, Uranium two thirty-five, two tickets to ""Avenue Q"", seven billion body bags..."
+105190,405,100,229000,Bart Simpson,Simpson Backyard,Can I hammer that?
+105191,405,101,229000,Kodos,Simpson Backyard,No.
+105192,405,102,231000,Lisa Simpson,Simpson Backyard,Can I weld that?
+105193,405,103,231000,Kodos,Simpson Backyard,No.
+105194,405,104,232000,Bart Simpson,Simpson Backyard,Can I tighten the--
+105195,405,105,232000,Kodos,Simpson Backyard,I said no!
+105196,405,106,234000,Bart Simpson,Simpson Backyard,I thought we were supposed to do this together.
+105197,405,107,236000,Kodos,Simpson Backyard,"Actually, I do have an important job for you. You can go get the wrench I dropped."
+105198,405,108,242000,Bart Simpson,Simpson Backyard,I'm helping! I'm helping!
+105199,405,109,244000,Lisa Simpson,Simpson Backyard,Way to get rid of Bart. He can be such a pest.
+105200,405,110,248000,Kodos,Simpson Backyard,"You are very observant, Lisa -- that's why I have a special job for you. Go find out the secret locations of your country's missile defense facilities."
+105201,405,111,258000,Lisa Simpson,Simpson Backyard,They were in yesterday's New York Times!
+105203,405,113,261000,Kodos,Simpson Home,WE'LL BE KILLING EVERY HUMAN IN TWO DAYS / WE'LL BE KILLING EVERY HUMAN IN TWO DAYS / WE WILL COOK THEM / WE WILL EAT THEM / 'CAUSE THAT'S THE WAY TO TREAT THEM...
+105204,405,114,272000,Homer Simpson,Simpson Home,"Oh Ma-arge! Want some com-pany? As always, silence means yes."
+105205,405,115,280000,Homer Simpson,Simpson Home,"How about a little neck rub, baby?"
+105206,405,116,284000,Homer Simpson,Simpson Home,"Now, how 'bout the neck of my butt..."
+105207,405,117,288000,Homer Simpson,Simpson Home,"Oh Marge, your tentacles feel so good. Wait a minute... why am I getting words in edgewise?"
+105210,405,120,303000,Marge Simpson,LIVING ROOM,We can't have a space creature living in our house.
+105211,405,121,306000,Kodos,LIVING ROOM,"Go ahead, say it! It's because I'm Jewish."
+105212,405,122,310000,Marge Simpson,LIVING ROOM,"But some of my best friends are... fine, you can stay."
+105213,405,123,315000,Bart Simpson,LIVING ROOM,Look!
+105214,405,124,315000,Bart Simpson,LIVING ROOM,They're coming for-- What's your name?
+105215,405,125,318000,Kodos,LIVING ROOM,Kodos the Destroyer!
+105216,405,126,320000,Homer Simpson,LIVING ROOM,"Don't worry, son -- I've got a plan to save your space doggy."
+105218,405,128,324000,Homer Simpson,Simpson Home,Who is it?
+105219,405,129,326000,Agent #1,Simpson Home,"Ma'am, we have reason to believe that you're harboring an alien."
+105220,405,130,329000,Agent #2,Simpson Home,Open this door at once!
+105221,405,131,330000,Homer Simpson,Simpson Home,"Oh, I'm not decent. Let me throw something on!"
+105222,405,132,334000,Homer Simpson,Simpson Home,"Can I help you, gentlemen?"
+105223,405,133,338000,Agent #2,Simpson Home,"We know it's you, Mr. Simpson. Now where's the alien?"
+105224,405,134,341000,Homer Simpson,Simpson Home,"Wow, you guys are good. The alien's right here in the living room."
+105225,405,135,347000,Lisa Simpson,Simpson Home,"Ha, you missed them! Bart and our alien friend are hundreds of miles away by now."
+105226,405,136,355000,Bart Simpson,Simpson Home,What do you weigh? Like a million pounds?
+105227,405,137,358000,Kodos,Simpson Home,More of me to love!
+105228,405,138,360000,Agent #2,Simpson Home,After them!
+105230,405,140,378000,Bart Simpson,Deserted Street,"We can fly over them with the power of love, right?"
+105231,405,141,380000,Kodos,Deserted Street,We could... or...
+105232,405,142,388000,Bart Simpson,Deserted Street,You killed them.
+105233,405,143,389000,Kodos,Deserted Street,"Well done, Columbo. That's right, we watch Columbo. It's on during rainouts of Gleep-Glop games."
+105235,405,145,399000,Bart Simpson,Forest,I'm just gonna take off now. I'm sure you have a lot of calls to make...
+105236,405,146,402000,Kodos,Forest,Foolish biped -- it's not a phone! It's a space portal. Our shock troops will teleport in and eat everyone's heads... all thanks to you!
+104610,405,148,439000,Kang,Forest,What'd I miss?
+105238,405,149,443000,Homer Simpson,Forest,"Hop in, Bart, they're gonna let us kill one!"
+105239,405,150,452000,Kodos,Forest,Bart... friend?
+105240,405,151,461000,Homer Simpson,Forest,Homer -- bored!
+105243,405,154,467000,Lisa Simpson,GOVERNMENT LAB,I can't believe that an alien who looked so evil turned out to be bad.
+105244,405,155,471000,Marge Simpson,GOVERNMENT LAB,I guess you should judge a book by its cover.
+105245,405,156,475000,General,GOVERNMENT LAB,Definitely -- especially if you count the inside flap as part of the cover. It usually gives you a great idea of what the book's about.
+105246,405,157,482000,Homer Simpson,GOVERNMENT LAB,Quiet -- we're missing the dissection!
+105247,405,158,484000,Kodos,GOVERNMENT LAB,"Actually, I'm still alive, so technically it's vivisection."
+105248,405,159,488000,Homer Simpson,GOVERNMENT LAB,No one likes a know-it-all.
+105250,405,161,497000,Homer Simpson,GOVERNMENT LAB,"Shh, shh, shh, shh, shh..."
+105252,405,163,549000,Milhouse Van Houten,Springfield Streets,Trick or treat!
+105253,405,164,566000,Agnes Skinner,Springfield Streets,"Beat it, weirdoes! I don't do Halloween!"
+105254,405,165,684000,Milhouse Van Houten,Springfield Streets,You're supposed to give us candy.
+105255,405,166,808000,Agnes Skinner,Springfield Streets,I got yer candy right here.
+105256,405,167,910000,Nelson Muntz,Springfield Streets,She empty-bagged us!
+105257,405,168,911000,Lisa Simpson,Springfield Streets,What do we do now?
+105258,405,169,913000,Bart Simpson,Springfield Streets,"Hear me out. It seems to me we gave her a choice: trick or treat. She didn't give us a treat, so..."
+105259,405,170,919000,Milhouse Van Houten,Springfield Streets,"Bart, where are you heading with this?"
+105260,405,171,921000,Bart Simpson,Springfield Streets,"""Trick or Treat"" isn't just some phrase you chant mindlessly like ""The Lord's Prayer."" It's an oral contract!"
+105261,405,172,927000,Nelson Muntz,Springfield Streets,"You're right -- we've forgotten the old ways. The ways of rotten eggs, and soaped-up windows. I say we trick her! Trick her good!"
+105263,405,174,935000,Milhouse Van Houten,Springfield Streets,Peer pressure!
+105265,405,176,944000,Agnes Skinner,MRS. SKINNER'S FRONT DOOR,May I remind you that I'm your principal's mother?!
+105269,405,180,955000,Milhouse Van Houten,Street,I hope the next people don't give us anything so we can trick them too!
+105271,405,181,959000,Bart Simpson,Street,Why give 'em the choice? That trick was sweeter than any treat we'll get tonight.
+105272,405,182,963000,Lisa Simpson,Street,"I'm concerned we might be heading down a slippery slope. What do you think, Nelson?"
+105273,405,183,967000,Nelson Muntz,Street,Can't talk. Lighting poo.
+105275,405,185,1001000,Moe Szyslak,Evergreen Terrace,"Excuse me, but this is not good!"
+105276,405,186,1003000,Homer Simpson,Evergreen Terrace,"Oh, lighten up. It's Halloween -- a night for mischief and merriment."
+105277,405,187,1009000,Bart Simpson,Evergreen Terrace,Trick-or-treat! Lick my feet! Your head smells like pig-butt meat!
+105278,405,188,1013000,Sideshow Mel,Evergreen Terrace,Those monsters must be stopped!
+105279,405,189,1016000,Ned Flanders,Evergreen Terrace,Perhaps I can be of some assistance.
+105280,405,190,1022000,Ned Flanders,Evergreen Terrace,I've got something that will scare the H-E-double sippy straws out of them.
+105281,405,191,1029000,Homer Simpson,Evergreen Terrace,Hold still! I'm trying to eat my way out from the inside!
+105282,405,192,1035000,Lenny Leonard,Evergreen Terrace,How is this a prank? Give me back my TV!
+105283,405,193,1037000,Lisa Simpson,Evergreen Terrace,I fed your fish.
+105284,405,194,1039000,Lenny Leonard,Evergreen Terrace,You over-fed them! You're the worst one of all!
+105285,405,195,1044000,Bart Simpson,Evergreen Terrace,Whoa! They turned the church into a haunted house!
+105286,405,196,1052000,Nelson Muntz,Evergreen Terrace,Scaredy cats not wanted? Then I am wanted!
+105288,405,198,1060000,Ned Flanders,Heck House,Welcome to Heck House! You're about to discover what a life of sin will get you!
+105289,405,199,1065000,Bart Simpson,Heck House,Sin gets us something? Awesome!
+105290,405,200,1068000,Nelson Muntz,Heck House,I was just in it for the sin.
+105291,405,201,1069000,Ned Flanders,Heck House,Just get in there!
+105293,405,203,1073000,Ned Flanders,CORRIDOR,Welcome to eternal darnation!
+105294,405,204,1076000,Seymour Skinner,CORRIDOR,"May I have a clean American newspaper, please, no ""Doonesbury?"""
+105295,405,205,1076000,Rev. Timothy Lovejoy,CORRIDOR,Wouldn't you rather have a bikini magazine?
+105296,405,206,1084000,Seymour Skinner,CORRIDOR,I guess a little peek won't hurt me.
+105297,405,207,1086000,Seymour Skinner,CORRIDOR,Nooo!
+105298,405,208,1088000,Bart Simpson,CORRIDOR,He died as he lived -- like a dork.
+105300,405,210,1092000,Ned Flanders,CORRIDOR,"No, the lesson here is he's being punished for thinking women are beautiful."
+105301,405,211,1099000,Ned Flanders,CORRIDOR,"Please, Lord, grant me the power to psychologically torture them into loving you."
+105304,405,213,1109000,Ned Flanders,First Church of Springfield,"Behold, the las-diddily-ast room of Ned Flanders's hell house!"
+105306,405,215,1118000,Lisa Simpson,First Church of Springfield,I warned ya. And yet my punishment is no less severe. That's odd.
+105307,405,216,1133000,Ned Flanders,First Church of Springfield,Springfield is rife with the seven deadly sins! Starting with... GLUTTONY!
+105310,405,219,1148000,Homer Simpson,Luigi's,More bread please.
+105311,405,220,1151000,Ned Flanders,Luigi's,Anger!
+105312,405,221,1154000,Groundskeeper Willie,Luigi's,"Why won't you work, you stupid piece of junk!"
+105313,405,222,1163000,Groundskeeper Willie,Luigi's,"I said, why won't you work?!"
+105314,405,223,1169000,Ned Flanders,Luigi's,Pride!
+105315,405,224,1173000,Dr. Julius Hibbert,Luigi's,"Oh, why did I take pride in my child's accomplishments?"
+105316,405,225,1177000,Ned Flanders,Luigi's,Sloth!
+105317,405,226,1180000,Homer Simpson,Luigi's,"Hm, I thought I was killed by that magic spaghetti!"
+105319,405,228,1186000,Ned Flanders,Luigi's,And the rest!
+105320,405,229,1188000,Ned Flanders,Luigi's,Lust!
+105321,405,230,1191000,Ned Flanders,Luigi's,Greed!
+105322,405,231,1195000,Ned Flanders,Luigi's,And envy!
+105323,405,232,1197000,Moe Szyslak,Luigi's,"Oh, how I envy the crotchless."
+105325,405,234,1199000,Ned Flanders,HELL,And this is where sinners spend all of eternity!
+105326,405,235,1206000,Apu Nahasapeemapetilon,HELL,"I keep telling you, I'm Hindu!"
+105327,405,236,1206000,Krusty the Clown,HELL,This is what you get for stealing jokes?
+105328,405,237,1209000,C. Montgomery Burns,HELL,I regret nothing.
+105329,405,238,1213000,DOLPH,HELL,Stop lickin' my Junk.
+105330,405,239,1215000,Kearney Zzyzwicz,HELL,It's my junk too!
+105332,405,241,1218000,Milhouse Van Houten,HELL,"We'll never do any of those sins, I promise!"
+105333,405,242,1221000,Nelson Muntz,HELL,All we'll do from now on is pray and fight in wars.
+105334,405,243,1226000,Ned Flanders,HELL,"Well then, my work is done."
+105335,405,244,1228000,Ned Flanders,HELL,"That concludes our Halloween show for this year. I just want to say that for watching this network, you're all going to Hell. And that includes FX, Fox Sports and our newest Devil's portal, The Wall Street Journal! Welcome to the club!"

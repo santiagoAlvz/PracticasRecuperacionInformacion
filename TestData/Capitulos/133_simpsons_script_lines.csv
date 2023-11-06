@@ -1,0 +1,234 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+28447,133,1,35000,Grampa Simpson,Car,Are we there yet?
+28448,133,2,35000,Homer Simpson,Car,No.
+28449,133,3,36000,Grampa Simpson,Car,Are we there yet?
+28450,133,4,36000,Homer Simpson,Car,No.
+28451,133,5,37000,Grampa Simpson,Car,Are we there yet?
+28452,133,6,37000,Homer Simpson,Car,No.
+28453,133,7,39000,Grampa Simpson,Car,Where are we going?
+28454,133,8,40000,Lisa Simpson,Car,"We're going to Storytown Village, Grampa. It's an amusement park for babies."
+28455,133,9,45000,Grampa Simpson,Car,Just leave me in the car with the window open a crack.
+28456,133,10,49000,Homer Simpson,Car,That's the plan.
+28457,133,11,50000,Marge Simpson,Car,"I think it's nice we're doing something Maggie will enjoy for once. Besides, I'm sure Storytown Village is also fun for everyone... from 8, to... God only knows."
+28460,133,14,70000,Wolf,Storytown Village,"Come out, come out, or I'll blow your house in."
+28461,133,15,74000,Pigs,Storytown Village,Not by the hairs of our chinny-chinny-chin.
+28462,133,16,77000,Bart Simpson,Storytown Village,What a load of crappy-crap-crap.
+28463,133,17,79000,Homer Simpson,Storytown Village,"Quiet, boy. I have a feeling some bad stuff is about to go down."
+28464,133,18,83000,Marge Simpson,Storytown Village,This is where the wolf blows down the pigs' house!
+28465,133,19,85000,Bart Simpson,Storytown Village,He blows all right. He blows big time.
+28466,133,20,88000,Marge Simpson,Storytown Village,"That's it, Honey. Get into the spirit."
+28467,133,21,97000,Homer Simpson,Storytown Village,"It was good, but not great."
+28469,133,23,101000,Papa Bear,THE THREE BEARS' HOUSE,Somebody's been sleeping in MY bed.
+28470,133,24,104000,Mama Bear,THE THREE BEARS' HOUSE,Somebody's been sleeping in MY bed.
+28471,133,25,107000,Baby Bear,THE THREE BEARS' HOUSE,Somebody's been sleeping in MY bed.
+28472,133,26,111000,Grampa Simpson,THE THREE BEARS' HOUSE,"Well, I'm sorry, but it was 150 degrees in the car."
+28475,133,29,127000,Bart Simpson,TRAIN RIDE,"So long, suck--"
+28478,133,32,143000,Homer Simpson,PETTING ZOO,"Come on, eat the can. Come on."
+28479,133,33,148000,Marge Simpson,PETTING ZOO,You're supposed to feed them pellets from the machine over there.
+28480,133,34,158000,Marge Simpson,PETTING ZOO,Oh my.
+28482,133,36,168000,Lisa Simpson,SHEEP PEN,Awwww.
+28483,133,37,170000,Lisa Simpson,SHEEP PEN,Awwww.
+28484,133,38,173000,Lisa Simpson,SHEEP PEN,AWWWW.
+28485,133,39,177000,Homer Simpson,SHEEP PEN,"Out of the way, you."
+28486,133,40,178000,Homer Simpson,SHEEP PEN,Aww.
+28487,133,41,181000,Lisa Simpson,SHEEP PEN,"Oh, you are so cute! Yes you are! You are! I just love you."
+28488,133,42,188000,Marge Simpson,SHEEP PEN,See? It was a good idea to come here after all.
+28489,133,43,191000,Mother Goose,SHEEP PEN,"Attention, families. This is Mother Goose. The following cars have been broken into..."
+28491,133,45,215000,Homer Simpson,Simpson Home,Hey Flanders!
+28492,133,46,216000,100 Flanderses,Simpson Home,"Hidilly ho, neighboreeno!"
+28493,133,47,218000,Homer Simpson,Simpson Home,Shut up.
+28426,133,48,219000,100 Flanderses,Simpson Home,Okily dokily.
+28494,133,49,220000,Homer Simpson,Simpson Home,"So, Ned, you're having a family reunion and you didn't invite me?"
+28495,133,50,224000,Ned Flanders,Simpson Home,"Oh, gosh, Homer, this is strictly a Flanders affair. I've got family here from around the globe! Here's José Flanders..."
+28496,133,51,231000,Jose Flanders,Simpson Home,"Buenas ding-dong-diddly-dias, señor."
+28497,133,52,232000,Ned Flanders,Simpson Home,And this is Lord Thistlewick Flanders...
+28498,133,53,235000,Thistlewick Flanders,Simpson Home,Charmed.
+28499,133,54,237000,Thistlewick Flanders,Simpson Home,"Eh, a-googily-doogily."
+28501,133,56,241000,Homer Simpson,Simpson Home,I can't believe you didn't invite me after I painted those cool stripes all over your car. I know! I'll throw my own barbecue - the greatest barbecue this town has ever seen! And I'll only invite who I want. That'll show ya.
+28502,133,57,257000,Ned Flanders,Simpson Home,Can I come?
+28503,133,58,258000,Homer Simpson,Simpson Home,Sure.
+28504,133,59,259000,Homer Simpson,Simpson Home,"This barbecue will be hard, thankless work, but I'm sure you're up to it, Marge."
+28505,133,60,263000,Marge Simpson,Simpson Home,"Well, it could be a good chance to get to know our neighbors outside of a courtroom setting."
+28506,133,61,267000,Homer Simpson,Simpson Home,"You know what you should serve, Marge? More of these lamb chops. These are the best ever."
+28507,133,62,272000,Marge Simpson,Simpson Home,"Why thank you, Homie. You might say the extra ingredient is salt."
+28508,133,63,290000,Lamb,Simpson Home,"Please, Lisa. I thought you lo-o-o-ved me. Lo-o-o-ved me!"
+28509,133,64,296000,Marge Simpson,Simpson Home,What's wrong Lisa? Didn't you get enough lamb chops?
+28510,133,65,299000,Lisa Simpson,Simpson Home,I can't eat this. I can't eat a poor little lamb!
+28511,133,66,302000,Homer Simpson,Simpson Home,"Lisa, get a hold of yourself. This is LAMB... not A lamb."
+28512,133,67,304000,Lisa Simpson,Simpson Home,What's the difference between this lamb and the one that kissed me?
+28513,133,68,309000,Bart Simpson,Simpson Home,This one spent two hours in the broiler.
+28514,133,69,311000,Marge Simpson,Simpson Home,"Bart, sensible bites! All right Lisa. If you don't want lamb chops, there's lots of other things I can make: chicken breast, rump roast, hot dogs..."
+28515,133,70,323000,Lisa Simpson,Simpson Home,"No, I can't! I can't eat any of them!"
+28516,133,71,325000,Homer Simpson,Simpson Home,"Wait a minute, wait a minute, wait a minute. Lisa, honey -- are you saying you're never going to eat any animal again? What about bacon?"
+28517,133,72,331000,Lisa Simpson,Simpson Home,No.
+28518,133,73,332000,Homer Simpson,Simpson Home,Ham?
+28519,133,74,332000,Lisa Simpson,Simpson Home,NO!
+28520,133,75,332000,Homer Simpson,Simpson Home,Pork chops?
+28521,133,76,334000,Lisa Simpson,Simpson Home,Dad... those all come from the same animal.
+28522,133,77,336000,Homer Simpson,Simpson Home,"Yeah, right, Lisa. A wonderful, MAGICAL animal."
+28523,133,78,343000,Bart Simpson,Simpson Home,"I think Lisa's right, dad. Eating meat is ba-a-a-ad."
+28524,133,79,348000,Bart Simpson,Simpson Home,"Hey, that's my chop!"
+28528,133,83,360000,Lisa Simpson,Miss Hoover's Classroom,"Oh, my family just doesn't understand my newfound vegetarianism."
+28529,133,84,364000,Lisa Simpson,Miss Hoover's Classroom,"Compared to them, the public schools are a haven of enlightenment."
+28530,133,85,368000,Miss Hoover,Miss Hoover's Classroom,"Okay class, time to dissect our worms."
+28531,133,86,370000,Class,Miss Hoover's Classroom,Yay!
+28532,133,87,376000,Miss Hoover,Miss Hoover's Classroom,"First, pin them down so they don't fly up and hit you in the eye."
+28533,133,88,379000,Ralph Wiggum,Miss Hoover's Classroom,"Ah, Ms. Hoover?"
+28534,133,89,380000,MS. HOOVER,Miss Hoover's Classroom,"Yes, Ralph? What is it?"
+28535,133,90,382000,Ralph Wiggum,Miss Hoover's Classroom,My worm went in my mouth and then I ate it. Can I have a new one?
+28536,133,91,385000,Miss Hoover,Miss Hoover's Classroom,No Ralph. There aren't any more. Just try to sleep while the other children are learning.
+28537,133,92,390000,Ralph Wiggum,Miss Hoover's Classroom,"Oh boy, sleep! That's where I'm a Viking."
+28538,133,93,396000,Worm,Miss Hoover's Classroom,"Lisa, what did I ever do to yo-o-o-ou?"
+28539,133,94,400000,Lisa Simpson,Miss Hoover's Classroom,Why does it talk like a lamb?
+28540,133,95,410000,Lisa Simpson,Miss Hoover's Classroom,Ah... Miss Hoover? I don't think I can dissect an animal. I think it's wrong.
+28541,133,96,415000,Miss Hoover,Miss Hoover's Classroom,"Okay, Lisa. I respect your moral objection."
+28543,133,98,427000,Lisa Simpson,Springfield Elementary School Cafeteria,"Ah, excuse me? Isn't there anything here that doesn't have meat in it?"
+28544,133,99,431000,Lunchlady Doris,Springfield Elementary School Cafeteria,Possibly the meat loaf.
+28545,133,100,432000,Lisa Simpson,Springfield Elementary School Cafeteria,Well I believe you're required to provide a vegetarian alternative.
+28546,133,101,440000,Lunchlady Doris,Springfield Elementary School Cafeteria,Mmmm. It's rich in bunly goodness.
+28547,133,102,442000,Lisa Simpson,Springfield Elementary School Cafeteria,Do you remember when you lost your passion for this work?
+28549,133,104,449000,Seymour Skinner,Skinner's Office,"Uh-oh. Two independent thought alarms in one day. The students are over stimulated. Willie, remove all the colored chalk from the classrooms."
+28550,133,105,455000,Groundskeeper Willie,Skinner's Office,I warned ya -- Didn't I warn ya? -- That colored chalk was forged by Lucifer himself.
+28552,133,107,505000,Lisa Simpson,Simpson Home,"I never realized before, but some Itchy and Scratchy cartoons send the message that violence against animals is funny."
+28553,133,108,511000,Bart Simpson,Simpson Home,"Say what? Cartoons don't have messages, Lisa. They're just a bunch of hilarious stuff, you know, like people getting hurt and stuff. Stuff like that."
+28554,133,109,519000,Homer Simpson,Simpson Home,"Look, kids! I just got my party invitations back from the printer's."
+28555,133,110,530000,Lisa Simpson,Simpson Home,Come to Homer's BBBQ. The Extra B is for BYOBB.
+28556,133,111,530000,Bart Simpson,Simpson Home,What's that extra b for?
+28557,133,112,531000,Homer Simpson,Simpson Home,That's a typo.
+28558,133,113,532000,Lisa Simpson,Simpson Home,"Dad, can't you have some other kind of party? One where you don't serve meat?"
+28559,133,114,536000,Homer Simpson,Simpson Home,"But all normal people love meat. If I went to a barbecue and there was no meat, I would say, ""Yo, Goober! Where's the meat?"" I'm trying to impress people here, Lisa. You don't win friends with salad."
+28560,133,115,547000,Bart Simpson,Simpson Home,YOU DON'T WIN FRIENDS WITH SAL-AD / YOU DON'T WIN FRIENDS WITH SAL-AD...
+28561,133,116,552000,Bart Simpson,Simpson Home,YOU DON'T WIN FRIENDS WITH SAL-AD / YOU DON'T WIN FRIENDS WITH SAL-AD / YOU DON'T WIN FRIENDS WITH SAL-AD / YOU DON'T WIN FRIENDS WITH SAL-AD...
+28562,133,117,559000,Marge Simpson,Simpson Home,YOU DON'T WIN FRIENDS WITH SAL-AD / YOU DON'T WIN FRIENDS WITH SAL-AD...
+28563,133,118,563000,Lisa Simpson,Simpson Home,Mom.
+28564,133,119,564000,Marge Simpson,Simpson Home,I didn't mean to take sides. I just got caught up in the rhythm.
+28566,133,121,567000,Seymour Skinner,Springfield Elementary School,"Good morning class. A certain agitator -- for privacy's sake let's call her Lisa S. -- No, that's too obvious. Uh, let's say L. Simpson -- has raised questions about certain school policies. So in the interest of creating an open dialogue, sit silently and watch this film."
+28568,133,123,591000,Troy McClure,Field,Nothing beats a stroll in cattle country.
+28569,133,124,596000,Troy McClure,Field,"Hi, I'm Troy McClure. You may remember me from such educational films as ""Two Minus Three Equals Negative FUN!"" and ""Firecrackers: The Silent Killer."""
+28570,133,125,606000,Child Voice,Field,Mr. McClure?
+28571,133,126,607000,Troy McClure,Field,"Oh, hello, Bobby."
+28572,133,127,608000,JIMMY,Field,Jimmy. I'm curious as to how meat gets from the ranch to my stomach.
+28575,133,128,612000,Troy McClure,Field,"Whoa, whoa, whoa -- slow down, Jimmy! You just asked a mouthful. It all starts here in the high-density feed lot. Then when the cattle are just right...it's time for them to ""graduate"" from ""Bovine University."""
+28576,133,129,632000,Troy McClure,Field,"C'mon, Jimmy. Let's take a peek at the killing floor."
+28578,133,131,636000,Troy McClure,Field,"Don't let the name throw you, Jimmy. It's not really a floor. It's more of a steel grating that allows material to sluice through so it can be collected and exported."
+28580,133,133,657000,Troy McClure,Slaughterhouse Exit,"Gettin' hungry, Jimmy?"
+28581,133,134,660000,JIMMY,Slaughterhouse Exit,"Ahh, Mr. McClure? I have a crazy friend who says it's wrong to eat meat. Is he crazy?"
+28582,133,135,668000,Troy McClure,Slaughterhouse Exit,"No, just ignorant. You see, your crazy friend never heard of the ""food chain."""
+28583,133,136,670000,Troy McClure,Slaughterhouse Exit,Just ask this scientician.
+28584,133,137,677000,Scientist,Slaughterhouse Exit,Uhhh --
+28585,133,138,678000,Troy McClure,Slaughterhouse Exit,"He'll tell you that in nature, one creature invariably eats another to survive."
+28586,133,139,689000,Troy McClure,Slaughterhouse Exit,"Don't kid yourself, Jimmy. If a cow ever got the chance, he'd eat you and everyone you care about."
+28587,133,140,698000,JIMMY,Slaughterhouse Exit,"Wow, Mr. McClure, I was a Grade-A moron to ever question eating meat."
+28588,133,141,705000,Troy McClure,Slaughterhouse Exit,"Yes you were, Jimmy. Yes you were."
+28589,133,142,708000,JIMMY,Slaughterhouse Exit,You're hurting me.
+28590,133,143,714000,Lisa Simpson,Slaughterhouse Exit,They can't seriously expect us to swallow that tripe!
+28591,133,144,716000,Seymour Skinner,Slaughterhouse Exit,"Now as a special treat courtesy of our friends at the Meat Council, please help yourselves to this tripe."
+28592,133,145,725000,Lisa Simpson,Slaughterhouse Exit,Stop it! Stop it! Don't you realize you've just been brainwashed by corporate propaganda?
+28593,133,146,730000,JANEY,Slaughterhouse Exit,Apparently my crazy friend here hasn't heard of the food chain.
+28594,133,147,734000,Ham,Slaughterhouse Exit,Yeah. Lisa's a Grade-A moron.
+28595,133,148,737000,Ralph Wiggum,Slaughterhouse Exit,When I grow up I'm going to Bovine University.
+28597,133,150,745000,Barney Gumble,Simpson Home,"Hey, Homer. Thanks for inviting me to your barbecue."
+28598,133,151,748000,Homer Simpson,Simpson Home,"Wow, Barney! You brought a whole beer keg."
+28599,133,152,751000,Barney Gumble,Simpson Home,Yeah. Where can I fill it up?
+28601,133,154,786000,Lisa Simpson,Backyard,"Wait Dad! Good news, everyone! You don't have to eat meat. I made enough Gazpacho for all!"
+28573,133,155,794000,Everybody,Backyard,Huh? / What? / Gazpacho? / Etc.
+28574,133,156,795000,Lisa Simpson,Backyard,It's tomato soup served ice cold!
+28602,133,157,802000,Barney Gumble,Backyard,Go back to Russia!
+28605,133,160,814000,Dr. Julius Hibbert,Backyard,Ahh. Diagnosis: delicious.
+28606,133,161,818000,Homer Simpson,Backyard,"I've got the prescription for you, doctor: another hot beef injection."
+28608,133,163,826000,Chief Wiggum,Backyard,"Hey Homer, wing me another one of them burgers, would ya? I can't quite seem to stand up under my own power anymore."
+28609,133,164,835000,Homer Simpson,Backyard,One whopper for the copper.
+28610,133,165,838000,Bart Simpson,Backyard,"Can I have a burger, dad?"
+28611,133,166,840000,Homer Simpson,Backyard,Here ya go!
+28613,133,168,841000,Lisa Simpson,Lisa's Bedroom,It's bad enough they're all eating meat. They don't have to rub it in my face.
+28615,133,170,851000,Homer Simpson,Backyard,"Okay, everybody. It's the moment you've all been waiting for! The pig de résistance!"
+28616,133,171,862000,Chief Wiggum,Backyard,Look at his nose!
+28617,133,172,863000,Ned Flanders,Backyard,"Congratulations, Homer. Your Q is a huge success. A toast to the host who can boast the most roast."
+28618,133,173,870000,Homer Simpson,Backyard,Thanks Flanders. I have to agree that everything certainly... huh?
+28619,133,174,878000,Marge Simpson,Backyard,"Bart, no!"
+28620,133,175,880000,Bart Simpson,Backyard,What?
+28621,133,176,881000,Marge Simpson,Backyard,"Sorry, force of habit. Lisa, no!"
+28623,133,178,899000,Homer Simpson,Street,It's just a little dirty -- It's still good! It's still good!
+28624,133,179,906000,Homer Simpson,Street,It's just a little slimy! It's still good! It's still good!
+28625,133,180,919000,Homer Simpson,Street,It's just a little airborne! It's still good! It's still good!
+28626,133,181,922000,Bart Simpson,Street,It's gone.
+28627,133,182,922000,Homer Simpson,Street,I know.
+28629,133,184,923000,C. Montgomery Burns,Springfield Nuclear Power Plant,"You know, Smithers, I think I'll donate a million dollars to the local orphanage... when pigs fly!"
+28630,133,185,935000,Waylon Smithers,Springfield Nuclear Power Plant,"Will you be donating that million dollars now, Sir?"
+28631,133,186,937000,C. Montgomery Burns,Springfield Nuclear Power Plant,"No, I'd still prefer not."
+28633,133,188,945000,Bart Simpson,Simpson Home,"Give it up, dad. Piggy ain't comin' back."
+28634,133,189,949000,Homer Simpson,Simpson Home,"Lisa, you ruined my barbecue. I demand you apologize this second!"
+28636,133,190,954000,Lisa Simpson,Simpson Home,"I'm never ever apologizing because I was standing up for a just cause and you were wrong, wrong, wrong! Now if you'll excuse me, I'm going to my room."
+28637,133,191,963000,Homer Simpson,Simpson Home,That's it! Go to your room!
+28638,133,192,966000,Homer Simpson,Simpson Home,"Marge, since I'm not talking to Lisa, would you please ask her to pass me the syrup?"
+28639,133,193,972000,Marge Simpson,Simpson Home,"Please pass your father the syrup, Lisa."
+28640,133,194,974000,Lisa Simpson,Simpson Home,"Bart, tell Dad I'll only pass the syrup if it won't be used on any meat product."
+28641,133,195,980000,Bart Simpson,Simpson Home,"You dunkin' your sausages in that syrup, homeboy?"
+28642,133,196,981000,Homer Simpson,Simpson Home,"Marge, tell Bart I just want to drink a nice glass of syrup like I do every morning."
+28643,133,197,986000,Marge Simpson,Simpson Home,"Tell him yourself. You're ignoring Lisa, not Bart."
+28644,133,198,989000,Homer Simpson,Simpson Home,"Bart, thank your mother for pointing that out."
+28645,133,199,991000,Marge Simpson,Simpson Home,"Homer, you're not not talking to me. And secondly, I heard what you said."
+28646,133,200,994000,Homer Simpson,Simpson Home,"Lisa, tell your mother to get off my case."
+28647,133,201,997000,Bart Simpson,Simpson Home,"Uh, Dad, Lisa's the one you're not talking to."
+28648,133,202,999000,Homer Simpson,Simpson Home,"Bart, go to your room!"
+28649,133,203,1000000,Lisa Simpson,Simpson Home,"Why don't you just eat him, Dad."
+28650,133,204,1002000,Homer Simpson,Simpson Home,"I don't need any serving suggestions from you, you barbecue-wrecking know-nothing know-it-all."
+28651,133,205,1007000,Lisa Simpson,Simpson Home,That's it. I can't live in a house with this prehistoric carnivore. I am out of here.
+28652,133,206,1016000,Homer Simpson,Simpson Home,That's it. Go to your room.
+28654,133,208,1020000,Sherri Mackleberry,Street,"Look, it's Mrs. Potato Head!"
+28655,133,209,1022000,Terri Mackleberry,Street,She has a head made out of lettuce.
+28656,133,210,1026000,Ralph Wiggum,Street,I can't believe I used to go out with you.
+28657,133,211,1029000,JANEY,Street,"Are you gonna marry a carrot, Lisa?"
+28658,133,212,1031000,Lisa Simpson,Street,Yes. I'm gonna marry a carrot.
+28659,133,213,1034000,Kids,Street,She admitted it! / She admitted she's gonna marry a carrot! / I can't believe it!
+28660,133,214,1063000,Lisa Simpson,Street,The whole world wants me to eat meat. I can't fight it anymore.
+28661,133,215,1080000,Lisa Simpson,Street,THERE! IS EVERYBODY HAPPY NOW?!
+28662,133,216,1083000,Apu Nahasapeemapetilon,Street,I take it from your yelling that you like my tofu dogs.
+28663,133,217,1086000,Lisa Simpson,Street,Tofu?
+28665,133,218,1087000,Apu Nahasapeemapetilon,Street,"Oh, yes. No meat whatsoever, and only thrice the fat of a normal hot dog. I made the switch and nobody noticed."
+28666,133,219,1093000,Lisa Simpson,Street,"But why, Apu?"
+28667,133,220,1095000,Apu Nahasapeemapetilon,Street,Because I'm a vegetarian. Haven't you ever seen my T-shirt?
+28668,133,221,1100000,Lisa Simpson,Street,That's cute.
+28669,133,222,1102000,Apu Nahasapeemapetilon,Street,"Yeah. Let me show you something, Lisa."
+28670,133,223,1108000,Lisa Simpson,Street,"Wow, a secret staircase? But what do you do if somebody wants a non-alcoholic beer?"
+28671,133,224,1113000,Apu Nahasapeemapetilon,Street,"You know, it's never come up."
+28673,133,226,1121000,Lisa Simpson,Kwik-E-Mart Roof,"Oh, Apu! It's beautiful!"
+28674,133,227,1124000,Apu Nahasapeemapetilon,Kwik-E-Mart Roof,"Yes, this is where I come when I need some refuge from the modern world. Or when I want to see drive-in movies for free."
+28675,133,228,1131000,Apu Nahasapeemapetilon,Kwik-E-Mart Roof,"I know it is not easy to be a vegetarian, Lisa."
+28676,133,229,1134000,Lisa Simpson,Kwik-E-Mart Roof,That's why I ran away from home.
+28677,133,230,1135000,Voice,Kwik-E-Mart Roof,What? She's leaving home?
+28678,133,231,1139000,Lisa Simpson,Kwik-E-Mart Roof,"Wow, Paul McCartney! I read about you in history class. But where's your wife, Linda?"
+28679,133,232,1144000,Linda McCartney,Kwik-E-Mart Roof,"Right here, Lisa. Whenever we're in Springfield, we like to hang out in Apu's garden in the shade."
+28680,133,233,1149000,Paul McCartney,Kwik-E-Mart Roof,We met him in India years ago during the Maharishi days.
+28681,133,234,1153000,Apu Nahasapeemapetilon,Kwik-E-Mart Roof,Back then I was known as the fifth Beatle.
+28682,133,235,1155000,Paul McCartney,Kwik-E-Mart Roof,"Sure you were, Apu."
+28683,133,236,1157000,Apu Nahasapeemapetilon,Kwik-E-Mart Roof,"You know what, Lisa, Paul and Linda are vegetarians too. In fact, Linda has her own line of vegetarian entrees."
+28684,133,237,1164000,Lisa Simpson,Kwik-E-Mart Roof,"Apu, I'm sure the last thing they want to talk about is..."
+28685,133,238,1166000,Linda McCartney,Kwik-E-Mart Roof,We weren't satisfied with the other vegetarian meals on the market. You'd be surprised how often you find a big hunk of pork in 'em.
+28686,133,239,1173000,Lisa Simpson,Kwik-E-Mart Roof,Ewwww.
+28687,133,240,1174000,Paul McCartney,Kwik-E-Mart Roof,"Linda and I both feel strongly about animal rights. In fact, if you play ""Maybe I'm Amazed"" backwards, you'll hear a recipe for a really ripping lentil soup."
+28688,133,241,1183000,Lisa Simpson,Kwik-E-Mart Roof,"When will all those fools learn that you can be perfectly healthy simply eating vegetables, fruits, grains, and cheese?"
+28689,133,242,1190000,Apu Nahasapeemapetilon,Kwik-E-Mart Roof,Cheese?!
+28690,133,243,1191000,Lisa Simpson,Kwik-E-Mart Roof,"You don't eat cheese, Apu?"
+28664,133,244,1193000,Apu Nahasapeemapetilon,Kwik-E-Mart Roof,"No, I don't eat any food that comes from an animal."
+28635,133,245,1197000,Lisa Simpson,Kwik-E-Mart Roof,"Oh, then you must think I'm a monster."
+28692,133,246,1201000,Apu Nahasapeemapetilon,Kwik-E-Mart Roof,"Yes, indeed I do think that. But, I learned long ago, Lisa, to tolerate others rather than forcing my beliefs on them. You know you can influence people without badgering them always. It's like Paul's song, ""Live and Let Live."""
+28693,133,247,1211000,Paul McCartney,Kwik-E-Mart Roof,"Actually, it was ""Live and Let Die."""
+28694,133,248,1211000,Apu Nahasapeemapetilon,Kwik-E-Mart Roof,"Well, whatever, whatever. It had a good rhythm."
+28695,133,249,1217000,Lisa Simpson,Kwik-E-Mart Roof,"I guess I have been pretty hard on a lot of people. Especially my dad. Thanks, you guys."
+28696,133,250,1223000,Paul McCartney,Kwik-E-Mart Roof,"Lisa, before you go, would you like to hear a song?"
+28697,133,251,1226000,Lisa Simpson,Kwik-E-Mart Roof,"Wow, that'd be great!"
+28698,133,252,1228000,Paul McCartney,Kwik-E-Mart Roof,Okay. Take it Apu.
+28699,133,253,1231000,Apu Nahasapeemapetilon,Kwik-E-Mart Roof,I'm Sergeant Pepper's Lonely Hearts Club Man... I hope I will enjoy my show...
+28701,133,255,1243000,Homer Simpson,Kwik-E-Mart,Lisa! Lisa!
+28702,133,256,1249000,Homer Simpson,Kwik-E-Mart,"Lisa! Lisa, come back before everyone finds out what a horrible father I am!"
+28703,133,257,1253000,Lisa Simpson,Kwik-E-Mart,"Hi, Dad. Looking for me?"
+28704,133,258,1255000,Homer Simpson,Kwik-E-Mart,I dunno. Were you looking for me?
+28706,133,260,1259000,Homer Simpson,Kwik-E-Mart,"Oh, Lisa, I was looking for you. I wanted to apologize. I don't know exactly what went wrong, but I know it's always my fault."
+28707,133,261,1267000,Lisa Simpson,Kwik-E-Mart,"Actually Dad, this time I was wrong..."
+28709,133,263,1270000,Lisa Simpson,Kwik-E-Mart,...too.
+28711,133,265,1271000,Lisa Simpson,Kwik-E-Mart,"While I was gone, I got some really good advice from Paul and Linda McCartney."
+28712,133,266,1274000,Homer Simpson,Kwik-E-Mart,Rock stars. Is there anything they don't know?
+28713,133,267,1278000,Lisa Simpson,Kwik-E-Mart,"I still stand by my beliefs, but I can't defend what I did. I'm sorry I messed up your barbecue."
+28714,133,268,1285000,Homer Simpson,Kwik-E-Mart,"I understand, honey. I used to believe in things when I was a kid."
+28715,133,269,1291000,Homer Simpson,Kwik-E-Mart,"C'mon, I'll give you a piggy-back ride, oops, I mean a veggie-back ride home."

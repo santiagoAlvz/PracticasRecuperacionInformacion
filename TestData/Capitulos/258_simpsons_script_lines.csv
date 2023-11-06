@@ -1,0 +1,286 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+64222,258,1,85000,Marge Simpson,Simpson Home,"Homer, get up! Up, up, up!"
+64223,258,2,98000,Marge Simpson,Simpson Home,Oh no!
+64224,258,3,104000,Homer Simpson,Simpson Home,Whuzzit... My juice box!
+64225,258,4,107000,Marge Simpson,Simpson Home,"Sorry, Homie, but you promised to take me to the Apron Expo today."
+64226,258,5,112000,Homer Simpson,Simpson Home,Just give me ten more hours.
+64227,258,6,114000,Marge Simpson,Simpson Home,"C'mon. You and the kids always wanna do fun stuff, but today we're doing something I like."
+64229,258,8,121000,Marge Simpson,Simpson Home,"They're unveiling a combination apron/smock. It's called a ""Smapron."""
+64230,258,9,127000,Homer Simpson,Simpson Home,"Did you say ""Smockron""?"
+64231,258,10,128000,Marge Simpson,Simpson Home,"No, ""Smapron."""
+64232,258,11,128000,Homer Simpson,Simpson Home,Oh.
+64233,258,12,131000,Marge Simpson,Simpson Home,"C'mon, it'll be fun."
+64235,258,14,131000,Homer Simpson,Homer's Car,"Man, that was a good Apron Expo."
+64236,258,15,138000,Lisa Simpson,Homer's Car,I'm gonna wear my apron on the Fourth of July.
+64237,258,16,141000,Bart Simpson,Homer's Car,And this lead apron will keep me safe downstairs.
+64238,258,17,145000,Homer Simpson,Homer's Car,"Heh, heh. ""Grill Power."""
+64239,258,18,145000,Marge Simpson,Homer's Car,I'm a little disappointed. There were too many aprons.
+64240,258,19,150000,Homer Simpson,Homer's Car,"It was great, all right. But all I wanna do right now is hit the adjustable sack with a good juice box. Because when all is said and done... Prison rodeo!?"
+64242,258,21,152000,Homer Simpson,Springfield Prison,Today!
+64244,258,23,163000,Warden,Prison Rodeo Arena,Welcome to Waterville State Penitentiary.
+64246,258,25,166000,Warden,Arena,"The contestants you'll see today are actual prisoners on a break from their telemarketing duties. Now, here comes our first outlaw!"
+64247,258,26,177000,Convict,Arena,Yee-ha!
+64249,258,28,181000,Warden,Arena,"Ooo, doggie! Well, don't feel too bad for him, folks. He's in here for erecting a Nativity scene on city property."
+64250,258,29,190000,Marge Simpson,Arena,There's so much evil in the world.
+64251,258,30,197000,Warden,Arena,Nexxxxt!
+64252,258,31,197000,Warden,Arena,"No, Delbert. We're not slaughtering the animals."
+64253,258,32,200000,Prisoner,Arena,"It's not like that, Warden."
+64254,258,33,202000,Prisoner,Arena,We was just havin' a conversation. Ain't that right?
+64256,258,35,206000,Warden,Prison Rodeo Arena,Next up's a real lowlife.
+64257,258,36,208000,Warden,Prison Rodeo Arena,Bob Dylan wrote a song to keep him in prison... Say hello to Jack Crowley.
+64258,258,37,215000,Jack,Prison Rodeo Arena,Yee-ha!
+64259,258,38,217000,Bart Simpson,Prison Rodeo Arena,"Go, bull! Toss his salad!"
+64260,258,39,223000,Warden,Prison Rodeo Arena,"Oooh, he's down. And it looks like Ol' Tornado wants to caramelize his creme brulée."
+64261,258,40,229000,Moe Szyslak,Prison Rodeo Arena,Yeah! Do that!
+64262,258,41,231000,Marge Simpson,Prison Rodeo Arena,Somebody help him!
+64263,258,42,232000,Homer Simpson,Prison Rodeo Arena,"Relax, they've got rodeo clowns."
+64265,258,44,235000,Rodeo Clown #1,CLOWN DRESSING ROOM,Is my lipstick even?
+64266,258,45,237000,Rodeo Clown #2,CLOWN DRESSING ROOM,Go like this.
+64267,258,46,239000,Marge Simpson,CLOWN DRESSING ROOM,"Hey! Hey, over here! Here, bully, bully, bully, bully, bully!"
+64268,258,47,243000,Homer Simpson,CLOWN DRESSING ROOM,"That's not gonna do it, Marge. You need something red."
+64269,258,48,247000,Homer Simpson,CLOWN DRESSING ROOM,"Hey, Toro! Here's something to gore!"
+64270,258,49,250000,Lisa Simpson,CLOWN DRESSING ROOM,Da-ad!
+64271,258,50,251000,Homer Simpson,CLOWN DRESSING ROOM,"Not now, honey. Daddy's busy."
+64272,258,51,257000,Homer Simpson,CLOWN DRESSING ROOM,"Now, for a little calming blue."
+64273,258,52,259000,Homer Simpson,CLOWN DRESSING ROOM,"Hey, where's your blue shirt?"
+64274,258,53,261000,Bart Simpson,CLOWN DRESSING ROOM,I don't have a blue shirt.
+64275,258,54,274000,Warden,CLOWN DRESSING ROOM,Maybe it's the tear gas or maybe this was the best damned prison rodeo ever.
+64277,258,56,287000,Marge Simpson,Prison Infirmary,"How's your back, Homie?"
+64278,258,57,288000,Homer Simpson,Prison Infirmary,I can't complain.
+64279,258,58,292000,Warden,Prison Infirmary,"Naw, that's for the prisoners. You can complain all you want."
+64280,258,59,295000,Homer Simpson,Prison Infirmary,"Oh God, my back! It hurts so much, and my job is so unfulfilling!"
+64281,258,60,302000,Marge Simpson,Prison Infirmary,"Try to focus on something else. Umm... You like Jimi Hendrix, right?"
+64282,258,61,307000,Homer Simpson,Prison Infirmary,Uh-huh.
+64284,258,62,308000,Marge Simpson,Prison Infirmary,"Well, look at that painting."
+64285,258,63,310000,Marge Simpson,Prison Infirmary,Wow. The artist really captured Jimi's passion and intensity.
+64286,258,64,314000,Homer Simpson,Prison Infirmary,And his fondness for the guitar.
+64287,258,65,316000,Jack,Prison Infirmary,"Thank you kindly, ma'am. They won't give us art supplies, so I had to paint it with pudding."
+64288,258,66,321000,Marge Simpson,Prison Infirmary,A convict painted that?
+64289,258,67,323000,Warden,Prison Infirmary,Yep.
+64290,258,68,324000,Marge Simpson,Prison Infirmary,"Well, I studied art, and this guy's got a real gift."
+64291,258,69,328000,Warden,Prison Infirmary,You kiddin'?
+64292,258,70,330000,Warden,Prison Infirmary,"Look, he painted a unicorn in outer space. I'm askin' you, what's it breathin'?"
+64293,258,71,335000,Homer Simpson,Prison Infirmary,Air?
+64294,258,72,336000,Warden,Prison Infirmary,Ain't no air in space.
+64295,258,73,338000,Homer Simpson,Prison Infirmary,There's an Air in Space Museum.
+64297,258,75,340000,Homer Simpson,Prison Gate,"Oh God, my back..."
+64298,258,76,343000,Marge Simpson,Prison Gate,Let's get outta this gosh-forsaken heck-hole.
+64299,258,77,349000,Marge Simpson,Prison Gate,What a waste of talent.
+64300,258,78,355000,Marge Simpson,Prison Gate,A sunset!
+64302,258,80,374000,Lisa Simpson,PRISON WEIGHT YARD,"They are coming back for us, aren't they?"
+64303,258,81,377000,Bart Simpson,PRISON WEIGHT YARD,I'unno.
+64306,258,84,384000,Lisa Simpson,Simpson Home,"How's your back, Dad?"
+64307,258,85,386000,Homer Simpson,Simpson Home,"Well, there's a dull ache, certainly. And overlaid on that is a club sandwich of pain. Only instead of bacon, there's agony. Marge, can I have a BLT?"
+64308,258,86,396000,Homer Simpson,Simpson Home,What are you looking at?
+64309,258,87,400000,Marge Simpson,Simpson Home,"Oh, nothing... How would you feel if I did some volunteer work at the prison?"
+64310,258,88,405000,Homer Simpson,Simpson Home,"First I'd feel like having a BLT, then proud of you."
+64311,258,89,410000,Marge Simpson,Simpson Home,"Oh, Homie. I knew you'd support me."
+64312,258,90,415000,Homer Simpson,Simpson Home,My back!
+64314,258,92,422000,Marge Simpson,Springfield Prison,Mrs. Marge Simpson. I'm here to teach an art class.
+64315,258,93,427000,Guard #1,Springfield Prison,"Ooh, art class. La dee dah."
+64316,258,94,433000,Guard #2,Springfield Prison,This is Ike Pross. He's going to solitary.
+64317,258,95,436000,Guard #1,Springfield Prison,"Ooh, solitary. La dee dah."
+64318,258,96,441000,Marge Simpson,Springfield Prison,"Welcome to ""Freeing the Artist Within."" Not literally, of course."
+64319,258,97,449000,Marge Simpson,Springfield Prison,"Okay. Now, I wanted to paint fresh fruit, but the prison cafeteria would only give me sauerkraut."
+64320,258,98,457000,Marge Simpson,Springfield Prison,That's depressing.
+64321,258,99,459000,Marge Simpson,Springfield Prison,Let's let a little sunshine in.
+64323,258,101,464000,Marge Simpson,Springfield Prison,Question?
+64324,258,102,466000,Convict,Springfield Prison,Can I smell your dress?
+64325,258,103,469000,Jack,Springfield Prison,"Hey, you show some respect. This one here is not for smellin'."
+64326,258,104,474000,Marge Simpson,Springfield Prison,"Why, thank you, Jack."
+64327,258,105,476000,Jack,Springfield Prison,"No problem. Now, let's paint."
+64328,258,106,479000,Convict,Springfield Prison,"Hey, can I smell your clothes?"
+64330,258,108,483000,Dr. Julius Hibbert,Dr. Hibbert's Office,Your spine is more twisted than Sinbad's take on marriage.
+64331,258,109,487000,Homer Simpson,Dr. Hibbert's Office,So? Just gimme some drugs and surgery.
+64332,258,110,490000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Oh, I'd love to. But, ah, to be honest, modern medicine has a lousy record of treating the back. We spend too much time on the front."
+64333,258,111,499000,Homer Simpson,Dr. Hibbert's Office,"Yeah, there's some neat stuff on the front."
+64334,258,112,501000,Dr. Julius Hibbert,Dr. Hibbert's Office,I'm gonna send you to my chiropractor.
+64335,258,113,503000,Homer Simpson,Dr. Hibbert's Office,"Hey, I thought real doctors hated chiropractors."
+64336,258,114,507000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Well, that is our official stance. But between you, me and my golf clubs, they're miracle workers."
+64337,258,115,515000,Marge Simpson,Dr. Hibbert's Office,"That's charming, Sardonicus, but try to use less of a stabbing action and more of a brushing stroke."
+64338,258,116,523000,Marge Simpson,Dr. Hibbert's Office,"Yeah, see how much better that feels?"
+64339,258,117,526000,Sardonicus,Dr. Hibbert's Office,Yes. Much better.
+64340,258,118,529000,Marge Simpson,Dr. Hibbert's Office,"Oh Jack, that's so soulful. How did someone so sensitive end up here?"
+64341,258,119,536000,Jack,Dr. Hibbert's Office,"Well, if you really gotta know, I shot a guy named Apu."
+64342,258,120,541000,Marge Simpson,Dr. Hibbert's Office,"Oh. Well, you know, lots of people shoot Apu. It's just a hundred-dollar fine now."
+64343,258,121,549000,Jack,Dr. Hibbert's Office,Maybe I belong in here. I got a lotta anger.
+64344,258,122,552000,Marge Simpson,Dr. Hibbert's Office,"I don't see any anger. I see a yearning for freedom... Um, do you have a title?"
+64345,258,123,560000,Jack,Dr. Hibbert's Office,A Time to Kill.
+64346,258,124,560000,Marge Simpson,Dr. Hibbert's Office,Titles are hard.
+64348,258,126,566000,Dr. Steve,CHIROPRACTOR'S EXAMINING ROOM,"Hello, Homer. I'm Doctor Steve. Please lie down."
+64117,258,127,576000,Dr. Steve,CHIROPRACTOR'S EXAMINING ROOM,"Wake up, Homer."
+64349,258,128,577000,Homer Simpson,CHIROPRACTOR'S EXAMINING ROOM,"Less yakkin', more crackin'."
+64350,258,129,579000,Dr. Steve,CHIROPRACTOR'S EXAMINING ROOM,"Now Homer, we don't actually ""crack"" backs. It's merely an adjustment. Okay, you're gonna hear a loud cracking sound."
+64351,258,130,587000,Dr. Steve,CHIROPRACTOR'S EXAMINING ROOM,There we go.
+64352,258,131,588000,Homer Simpson,CHIROPRACTOR'S EXAMINING ROOM,"Hey, it feels a little better."
+64353,258,132,591000,Dr. Steve,CHIROPRACTOR'S EXAMINING ROOM,"Mm-hmm, I thought it might. Now, I'll need to see you three times a week for... many years."
+64355,258,134,600000,Lisa Simpson,Simpson Kitchen,"So, how was it in the slammer?"
+64356,258,135,602000,Marge Simpson,Simpson Kitchen,"Terrific. Bart, Sideshow Bob says he'll be seeing you real soon."
+64357,258,136,607000,Bart Simpson,Simpson Kitchen,That Bob.
+64358,258,137,609000,Marge Simpson,Simpson Kitchen,"Oh, and guess who's up for parole? My diamond-in-the-rough."
+64359,258,138,613000,Lisa Simpson,Simpson Kitchen,That scary guy?
+64360,258,139,615000,Marge Simpson,Simpson Kitchen,Scary talented. And I'm gonna make sure the parole board knows it.
+64361,258,140,619000,Bart Simpson,Simpson Kitchen,You gonna bribe 'em?
+64362,258,141,620000,Marge Simpson,Simpson Kitchen,I might grease the wheels of justice with some cookies.
+64363,258,142,624000,Bart Simpson,Simpson Kitchen,"Oh, can I have some?"
+64364,258,143,626000,Marge Simpson,Simpson Kitchen,Not till you finish your sundae.
+64366,258,145,631000,Bart Simpson,Simpson Kitchen,Is that enough?
+64367,258,146,632000,Marge Simpson,Simpson Kitchen,Two more bites.
+64369,258,148,637000,Jack,Springfield Prison,"I'm sure your macaroons are scrumptious, Marge. But I've seen this warden turn down brownies. Honest to goodness brownies."
+64370,258,149,643000,Warden,Springfield Prison,Next.
+64371,258,150,647000,Warden,Springfield Prison,"Oh, it's you. Well, just let me ink up my old ""denied"" stamp."
+64372,258,151,652000,Marge Simpson,Springfield Prison,"Warden, please. This man is a gentle soul. I know he's made mistakes, but someone with his talent belongs on a boardwalk doing caricatures. Not behind bars."
+64373,258,152,664000,Warden,Springfield Prison,"Lady, I know he charmed you with some ""pleases"" and ""thank yous"", but he wasn't so polite to the guy he shot."
+64374,258,153,670000,Apu Nahasapeemapetilon,Springfield Prison,"Actually, he was. He waited with me till the ambulance came, then ran like a deer."
+64375,258,154,675000,Warden,Springfield Prison,"Well, that's mighty nice. But, if I let this creep out, would you like him skulking around your neighborhood?"
+64376,258,155,681000,Marge Simpson,Springfield Prison,"Honestly, it wouldn't bother me."
+64378,258,156,685000,Warden,Springfield Prison,"Well lady, I'm gonna call your bluff. The prisoner is hereby paroled into your custody."
+64379,258,157,692000,Marge Simpson,Springfield Prison,"Oh, my Goodness!"
+64380,258,158,693000,Jack,Springfield Prison,"I'm free? Oh, Mrs. Simpson..."
+64382,258,160,697000,Jack,Springfield Prison,"Oh. Geez, I'm sorry. Sorry."
+64383,258,161,702000,Jack,Springfield Prison,You won't regret this.
+64385,258,163,707000,Marge Simpson,Simpson Home,I hope this is okay. It's not very prison-y.
+64386,258,164,710000,Jack,Simpson Home,"It's more than I deserve, ma'am. Now, which way is Mecca, 'cause I gotta do a little prayin'."
+64387,258,165,715000,Marge Simpson,Simpson Home,"Uh, Mecca? Well, let's..."
+64388,258,166,719000,Jack,Simpson Home,I'm just yankin' your chain. I'm Jewish.
+64389,258,167,727000,Homer Simpson,Simpson Home,"Ow! Owww, my back. Dr. Steve didn't do anything."
+64390,258,168,732000,Bart Simpson,Simpson Home,Did you do those exercises he gave you?
+64391,258,169,733000,Homer Simpson,Simpson Home,"Yeah, right. I did 'em while you were studying."
+64393,258,171,740000,Bart Simpson,Simpson Home,Dad!
+64394,258,172,740000,Bart Simpson,Simpson Home,Are you okay?
+64395,258,173,742000,Homer Simpson,Simpson Home,Yeah... In fact...
+64396,258,174,744000,Homer Simpson,Simpson Home,I feel fantastic!
+64397,258,175,748000,Bart Simpson,Simpson Home,That trash can must have unkinked your back.
+64398,258,176,750000,Homer Simpson,Simpson Home,"Not ""trash can,"" son. Dr. Homer's Miracle Spine-O-Cylinder! Patent pending."
+64399,258,177,756000,Bart Simpson,Simpson Home,"Okay, okay."
+64400,258,178,758000,Homer Simpson,Simpson Home,"And as you can see, the unique dents in my invention perfectly match the contours of the human vertebrains."
+64401,258,179,765000,Homer Simpson,Simpson Home,"Patent pending... Patent pending... Patent pending... Hey, who's this guy?"
+64402,258,180,769000,Marge Simpson,Simpson Home,You remember Jack... He's that talented painter who had a little brush with the law.
+64403,258,181,776000,Homer Simpson,Simpson Home,"You brought a convict to live here, near my unpatented idea?"
+64404,258,182,780000,Jack,Simpson Home,I seen your idea and I don't want it. All I need is three squares and a job.
+64405,258,183,784000,Marge Simpson,Simpson Home,"That's right, a job."
+64406,258,184,790000,Marge Simpson,Simpson Home,I know just where you can get one.
+64408,258,186,792000,Lenny Leonard,Simpson Garage,"So, Homer, you think you can fix my sciatica?"
+64409,258,187,796000,Homer Simpson,Simpson Garage,"Hmm. I don't know what that is, so I'm gonna say yes. Now, go limp."
+64410,258,188,800000,Lenny Leonard,Simpson Garage,I'm limp.
+64377,258,189,801000,Homer Simpson,Simpson Garage,"One, two, better-not-sue..."
+64411,258,190,805000,Lenny Leonard,Simpson Garage,"Hey, it worked! My searing leg pain is now a gentle numbness."
+64412,258,191,810000,Homer Simpson,Simpson Garage,Next!
+64413,258,192,811000,Professor Jonathan Frink,Simpson Garage,"Yes, uh, my car seems to have broken down and I was wondering if I could use your..."
+64414,258,193,816000,Professor Jonathan Frink,Simpson Garage,That's a forcing motion...
+64415,258,194,818000,Dr. Steve,Simpson Garage,"Simpson, you're not a licensed chiropractor. And you're stealing patients from me and Dr. Steffi!"
+64416,258,195,823000,Homer Simpson,Simpson Garage,"Boy, talk about irony. The AMA tries to drive you guys out of business. Now you're doing the same to me. Think about the irony..."
+64417,258,196,834000,Dr. Steve,Simpson Garage,You've been warned. Stop chiropracting.
+64418,258,197,837000,Homer Simpson,Simpson Garage,Not unless you think about the irony.
+64420,258,199,841000,Marge Simpson,Springfield Elementary School,I read in the Daily Fourth Gradian that you need someone to paint a mural.
+64421,258,200,844000,Seymour Skinner,Springfield Elementary School,"Yes, school spirit is down 3.4 percent!"
+64422,258,201,847000,Marge Simpson,Springfield Elementary School,"Well, Jack here will do great work for you."
+64423,258,202,850000,Seymour Skinner,Springfield Elementary School,"Oh, any references?"
+64424,258,203,851000,Jack,Springfield Elementary School,"Well... to be honest with ya, I've spent the last six years in Waterville State..."
+64425,258,204,855000,Marge Simpson,Springfield Elementary School,It's a small liberal arts college. Very law-abiding. No convicts at all.
+64426,258,205,860000,Seymour Skinner,Springfield Elementary School,"Well, the only other one to apply was Moe Syszlak, and his stuff scares the hell out of me."
+64427,258,206,864000,Seymour Skinner,Springfield Elementary School,"How could anyone consider that making love? All right, Jack, you're hired. I'll clear you out a cubby."
+64428,258,207,873000,Jack,Springfield Elementary School,You told a lie for me.
+64429,258,208,874000,Marge Simpson,Springfield Elementary School,I know... But the Lord will forgive me if it helps you get a second chance.
+64430,258,209,879000,Jack,Springfield Elementary School,"Actually, Marge, it's the third if you count that farm couple."
+64431,258,210,883000,Marge Simpson,Springfield Elementary School,Farm couple?!
+64432,258,211,884000,Jack,Springfield Elementary School,"But I got a good feelin' about this one, Marge. I really do."
+64434,258,213,893000,Nelson Muntz,Springfield Elementary School,"That is awesome. Finally, art that doesn't suck!"
+64435,258,214,897000,Seymour Skinner,Springfield Elementary School,Dear Lord! What are you doing?
+64436,258,215,899000,Jack,Springfield Elementary School,You don't like it?
+64437,258,216,900000,Seymour Skinner,Springfield Elementary School,"No, no, it's all wrong. The shapely female form has no place in art."
+64438,258,217,905000,Jack,Springfield Elementary School,"But, uh, what I thought is..."
+64439,258,218,906000,Seymour Skinner,Springfield Elementary School,I sketched out exactly what I wanted.
+64440,258,219,909000,Jack,Springfield Elementary School,"Yeah, I know. But see what I was going for here..."
+64441,258,220,910000,Seymour Skinner,Springfield Elementary School,Did you even look at the napkin?
+64442,258,221,913000,Seymour Skinner,Springfield Elementary School,"Oh, I was in the zone that day."
+64443,258,222,917000,Jack,Springfield Elementary School,"Yeah, ya see, I didn't wanna go so cutesy wootsy..."
+64444,258,223,920000,Seymour Skinner,Springfield Elementary School,Because...?
+64445,258,224,921000,Jack,Springfield Elementary School,Because it's not my style.
+64446,258,225,923000,Seymour Skinner,Springfield Elementary School,"Well, if you want to keep this job, you'll make it your style."
+64447,258,226,927000,Jack,Springfield Elementary School,"All right. You're the bossman, ain't ya."
+64448,258,227,930000,Seymour Skinner,Springfield Elementary School,"Darn right, I'm the boss. Don't forget, I can send you back where you came from... college boy."
+64450,258,229,942000,Jack,Simpson Home,That punk Skinner. I had more freedom back at the joint.
+64451,258,230,948000,Marge Simpson,Simpson Home,"Oh, Jack. I know you hate to betray your artistic vision, but just do it."
+64452,258,231,953000,Jack,Simpson Home,I guess I could bend a little.
+64453,258,232,955000,Marge Simpson,Simpson Home,"Just till you make it. Remember, I believe in you."
+64454,258,233,962000,Jack,Simpson Home,"Thanks, Marge. Listen, if you're done with that washing machine, can I make some booze in it?"
+64455,258,234,967000,Marge Simpson,Simpson Home,Not until you finish your sundae.
+64456,258,235,969000,Jack,Simpson Home,"Yes, ma'am."
+64458,258,237,973000,Marge Simpson,Simpson Home,What's wrong with my sundaes?
+64459,258,238,976000,Moe Szyslak,Simpson Home,"Careful, I'm frail."
+64460,258,239,981000,Homer Simpson,Simpson Home,"Okay, that should do it, Moe."
+64461,258,240,983000,Moe Szyslak,Simpson Home,"Hey, it don't hurt no more. Heh. Now I can focus on my crippling emotional pain. Oh, Daddy, Daddy, why? Why won't you hug me? You hug the mailman."
+64462,258,241,992000,Man #1,Simpson Home,"Excuse me, sir."
+64463,258,242,994000,Man #1,Simpson Home,Is this El Clínico Magnífico?
+64464,258,243,996000,Homer Simpson,Simpson Home,"Ah, you saw our bus ad."
+64465,258,244,998000,Man #2,Simpson Home,"We'd, uh, like to invest in your spinal adjustment device."
+64466,258,245,1001000,Homer Simpson,Simpson Home,We might be able to do business.
+64468,258,247,1005000,Man #1,Simpson Home,We'll need to take some photographs.
+64469,258,248,1007000,Homer Simpson,Simpson Home,"Hey, where're you going with that?"
+64471,258,249,1013000,Homer Simpson,Simpson Home,"Wait a minute, no investor could bend like that."
+64472,258,250,1016000,Moe Szyslak,Simpson Home,They're chiropractors!
+64474,258,252,1019000,Dr. Steve,Street In Front Of Homer's House,"C'mon, c'mon, let's go!"
+64475,258,253,1022000,Homer Simpson,Street In Front Of Homer's House,Nooo! My Spine-O-Cylinder!
+64476,258,254,1026000,Homer Simpson,Street In Front Of Homer's House,They'll pay for what they did to my can.
+64477,258,255,1031000,Moe Szyslak,Street In Front Of Homer's House,"Forget it, Homer. It's Chiro-town."
+64479,258,257,1037000,Seymour Skinner,Springfield Elementary School,"You know, when Superintendent Chalmers suggested a school mural, I almost thought he said a school Muriel. Muriel's his sister. And uh... Thank you, Bruce Vilanch."
+64480,258,258,1053000,Bruce Vilanch,Springfield Elementary School,Whoopi would have made it work.
+64481,258,259,1055000,Seymour Skinner,Springfield Elementary School,"And now, I present ""Puma Pride"" by a college-educated artist..."
+64483,258,261,1061000,Seymour Skinner,Springfield Elementary School,Jack Crowley.
+64484,258,262,1066000,Bart Simpson,Springfield Elementary School,"Man, is that wimpy!"
+64485,258,263,1068000,Nelson Muntz,Springfield Elementary School,What happened to the cool one?
+64486,258,264,1070000,Jack,Springfield Elementary School,"Well, my original idea was..."
+64487,258,265,1071000,Ned Flanders,Springfield Elementary School,"Jeepers, that's sugary, even for my taste."
+64488,258,266,1074000,Jack,Springfield Elementary School,"Yeah, but Skinner said I had to..."
+64489,258,267,1076000,Gary Chalmers,Springfield Elementary School,Skinner! How are we going to raise school spirit with this sappy hokum?
+64490,258,268,1082000,Seymour Skinner,Springfield Elementary School,"I know, sir. It's an embarrassment."
+64491,258,269,1084000,Seymour Skinner,Springfield Elementary School,This isn't what I wanted! Where's the edge?
+64492,258,270,1087000,Jack,Springfield Elementary School,I followed your napkin...
+64493,258,271,1089000,Seymour Skinner,Springfield Elementary School,No napkin could wipe the crumbs of failure from your mouth.
+64494,258,272,1094000,Marge Simpson,Springfield Elementary School,"Oh, don't fight. All great art is controversial at first. But years from now, people will point to these cuddly little creatures, and say, ""That's a Jack Crowley."""
+64495,258,273,1096000,Seymour Skinner,Springfield Elementary School,"Now, ah, pizza's working well on Thursday, but I think the kids will follow it to Tuesday."
+64496,258,274,1115000,Groundskeeper Willie,Springfield Elementary School,"That's what you said about the stuffed peppers, and ye lost the young males."
+64497,258,275,1119000,Milhouse Van Houten,Springfield Elementary School,Principal Skinner! The school's on fire!
+64499,258,277,1123000,Kids,Springfield Elementary School,Spread! Spread! Spread! Spread! Spread! Spread!
+64500,258,278,1125000,Seymour Skinner,Springfield Elementary School,It's crystal clear who did this: Jack Crowley.
+64501,258,279,1129000,Marge Simpson,Springfield Elementary School,"Now wait, you don't know that Jack did this. Just because he's an ex-con..."
+64502,258,280,1134000,Seymour Skinner,Springfield Elementary School,"Crowley's an ex-con?! Dear Lord, I've peed in front of him!"
+64503,258,281,1139000,Bart Simpson,Springfield Elementary School,"Hey, check it out!"
+64505,258,283,1144000,Edna Krabappel-Flanders,Springfield Elementary School,Ha! Now that's a mural!
+64506,258,284,1145000,Lisa Simpson,Springfield Elementary School,It's so passionate. It almost leaps off the wall.
+64508,258,286,1152000,Seymour Skinner,Springfield Elementary School,That felon could have torched the whole school... were it not stuffed with asbestos.
+64509,258,287,1156000,Chief Wiggum,Springfield Elementary School,"We'll catch Crowley. And then he'll learn the ""fine art"" of police brutality."
+64510,258,288,1166000,Jack,Springfield Elementary School,"Psst. Marge, over here."
+64511,258,289,1171000,Marge Simpson,Springfield Elementary School,"Oh, Jack... You threw it all away, over a stupid feud with Skinner."
+64512,258,290,1177000,Jack,Springfield Elementary School,"Look, I'll admit I hate Skinner. But I didn't start that fire."
+64513,258,291,1181000,Marge Simpson,Springfield Elementary School,Then why are you hiding?
+64514,258,292,1182000,Jack,Springfield Elementary School,"C'mon, Marge. With my rap sheet, they can't wait to send me back to prison. And you can't believe the foul language in that place."
+64515,258,293,1189000,Marge Simpson,Springfield Elementary School,So you really didn't do it?
+64516,258,294,1192000,Jack,Springfield Elementary School,"Marge, look in my eyes. I swear to you, I did not do it."
+64517,258,295,1197000,Marge Simpson,Springfield Elementary School,"I believe you, Jack. Now let's get you out of here... Wait for my signal."
+64518,258,296,1206000,Marge Simpson,Springfield Elementary School,"Oh, Chief! I found some evidence that points to the real arsonist."
+64519,258,297,1211000,Chief Wiggum,Springfield Elementary School,"Well, let's see it."
+64520,258,298,1212000,Marge Simpson,Springfield Elementary School,Not yet. You have to guess what it is.
+64521,258,299,1215000,Seymour Skinner,Springfield Elementary School,We don't have time for guessing games.
+64522,258,300,1217000,Chief Wiggum,Springfield Elementary School,"Nah, let's try it. It might be fun. Is it DNA?"
+64524,258,302,1222000,Chief Wiggum,Springfield Elementary School,"So, it's like DNA... Umm... A hatchet?"
+64525,258,303,1224000,Seymour Skinner,Springfield Elementary School,You had a turn. I want to guess.
+64526,258,304,1227000,Marge Simpson,Springfield Elementary School,"Oh, geez..."
+64527,258,305,1229000,Seymour Skinner,Springfield Elementary School,My car!
+64528,258,306,1234000,Jack,Springfield Elementary School,"Puma pride! Puma pride! Catch the fever, Skinner!"
+64530,258,307,1247000,Marge Simpson,Springfield Elementary School,You crumb-bum. You looked me right in the eye and lied to me.
+64531,258,308,1252000,Jack,Springfield Elementary School,"Marge, this is the God's truth. I burned the mural, but I did not burn Skinner's car."
+64532,258,309,1258000,Marge Simpson,Springfield Elementary School,"I just saw you! Get him outta here, Chief!"
+64533,258,310,1262000,Chief Wiggum,Springfield Elementary School,Yes ma'am.
+64535,258,312,1264000,Chief Wiggum,Police Car,"My wife and I like watching that ""Oz"" show on HBO. Uh, is prison really like that?"
+64536,258,313,1270000,Jack,Police Car,"Wouldn't know, we only get basic cable."
+64537,258,314,1273000,Chief Wiggum,Police Car,"Ouch! I also like that ""Sex and the City."" None of those girls look like my wife."
+64538,258,315,1280000,Jack,Police Car,Sportscenter's not bad.
+64539,258,316,1282000,Chief Wiggum,Police Car,"Eh, I never got that show."
+64540,258,317,1283000,Jack,Police Car,What's to get? They just tell the scores.
+64541,258,318,1286000,Chief Wiggum,Police Car,"Yeah, I s'pose. Hey, you ever meet any mob guys? Are they really like ""The Sopranos""?"
+64542,258,319,1291000,Jack,Police Car,"I told you, we just get basic cable."
+64543,258,320,1294000,Chief Wiggum,Police Car,"Oh, right, right, right."
+64544,258,321,1295000,Chief Wiggum,Police Car,"Listen, if I'm gettin' too chatty, just uh, just tell me to shut up."
+64545,258,322,1299000,Jack,Police Car,"Nah, I'm enjoying it. Hey, you ever watch that strong man contest? They're pretty good. Those guys look strong. All the guys in prison say they're gay. But I don't know. They look strong to me."

@@ -1,0 +1,276 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+1697,38,1,89000,Ned Flanders,Simpson Home,"Why Homer, you silly goose! The weed whacker's just for the edges! You're gonna be out here all day!"
+1698,38,2,94000,Homer Simpson,Simpson Home,I'm almost done.
+1699,38,3,95000,Ned Flanders,Simpson Home,"You are a picture and a half! Well -- hee hee! -- if you're finished by tomorrow, come on over and strap on the feed bag. We're gonna fire up old Propane Elaine and put the heat to the meat! Nummy nummy num!"
+1700,38,4,105000,Homer Simpson,Simpson Home,I'll be there. Not-y not-y not.
+1701,38,5,107000,Lisa Simpson,Simpson Home,"""The Flanders are having a beef-a-thon! Incredible Ned-ibles! Maude-acious vittles!""."
+1703,38,6,110000,Marge Simpson,Simpson Home,I think it means he's having a barbecue.
+1704,38,7,115000,Homer Simpson,Simpson Home,"Well, why doesn't he just say so?"
+1705,38,8,117000,Marge Simpson,Simpson Home,"He's trying to be friendly. You know, if you gave Ned Flanders a chance --"
+1706,38,9,120000,Homer Simpson,Simpson Home,"Oh, here we go again. Look, I don't care if Ned Flanders is the nicest guy in the world, he's a jerk. End of story."
+1707,38,10,126000,Marge Simpson,Simpson Home,"We can't hold it against him, just because he has things a little better than we do --"
+1708,38,11,131000,Homer Simpson,Simpson Home,"Excuse me? Better? Thanks a lot, Marge, you really put me in my place."
+1709,38,12,135000,Marge Simpson,Simpson Home,"Oh, Homer."
+1710,38,13,137000,Homer Simpson,Simpson Home,"Don't get me wrong, it's worth feeling three inches tall to find out what kind of a person you really are. Marge Simpson... President of the International We Love Flanders Fan Club..."
+1713,38,16,147000,Ned Flanders,Flanders Home,Fee fi fo fum! I smell the potatoes au gratin of Marge Simp-son! Mmmm- mmm!
+1714,38,17,154000,Marge Simpson,Flanders Home,"Hi, Ned. Homer sends his apologies, but uh... there was some important work at the plant that only he could take care of."
+1716,38,19,163000,Announcer,Simpson Home,We now return you to the exciting fifteenth round action at the Canadian Football League draft.
+1717,38,20,166000,Sportscaster #1,Simpson Home,"And so the Saskatchewan Rough Riders, who scored only four rouges all last season, Jack, get the kicker they so sorely need..."
+1718,38,21,171000,Homer Simpson,Simpson Home,"Stupid Flanders... always showing off. Go ahead, Marge, have a ball... What if they game back and I was dead from not eating? They'd cry their eyes out. We should have never gone to the Flanders'. Oh, why did we go to the Flanders' house and leave Homer all alone with no food. And I'd be laughing. Laughing from my grave."
+1719,38,22,199000,Homer Simpson,Simpson Home,"What is it, boy? What? Mmmmmmmm... bar-b-que."
+1720,38,23,221000,Homer Simpson,Simpson Home,"Hey, everyone, I'm back! Great to see ya! Nice seein' ya!"
+1721,38,24,223000,Ned Flanders,Simpson Home,"Heya, Homer!"
+1722,38,25,229000,Ned Flanders,Simpson Home,"Okay, thanks for comin'!"
+1724,38,27,230000,Bart Simpson,FLANDERS' YARD,"You're ""it""!"
+1725,38,28,231000,Girl,FLANDERS' YARD,Electricity!
+1726,38,29,232000,Bart Simpson,FLANDERS' YARD,No electricity. Electricity only in freeze tag.
+1727,38,30,235000,Girl,FLANDERS' YARD,"Okay... Now you're ""it""!"
+1729,38,31,237000,Homer Simpson,FLANDERS' YARD,"Hey, no tagbacks."
+1730,38,32,238000,Bart Simpson,FLANDERS' YARD,"Yeah, you cheater!"
+1731,38,33,239000,Girl,FLANDERS' YARD,You lie like a fly with a booger in its eye.
+1732,38,34,241000,Homer Simpson,FLANDERS' YARD,The fly was funny and a booger was the icing on the cake...
+1733,38,35,245000,Ned Flanders,FLANDERS' YARD,"Friends, we love you all, but I also have a ""sinister"" motive for asking you all here -- ""sinister"" being Latin for ""left-handed."" But enough joking."
+1734,38,36,255000,Homer Simpson,FLANDERS' YARD,That was a joke?
+1735,38,37,256000,Ned Flanders,FLANDERS' YARD,"As of Friday, I'm saying toodle-oo to the pharmaceutical game."
+1736,38,38,264000,Ned Flanders,FLANDERS' YARD,"No, I kid you not. Here's the noose I had to wear for ten years."
+1737,38,39,270000,Neighborhood Guy,FLANDERS' YARD,"What are you going to do, Ned?"
+1738,38,40,271000,Ned Flanders,FLANDERS' YARD,"Well sir, like one out of every nine Americans, I'm left-handed. And let me tell you, it ain't all peaches and cream. Your writing gets smeared. Lord help you if you want to drive a standard transmission."
+1739,38,41,278000,Ned Flanders,FLANDERS' YARD,"Well sir, I'm opening a one-stop store for Southpaws. Everything from left-handed apple peelers to left-handed zithers. I'm gonna call it the Leftorium."
+1740,38,42,290000,Ned Flanders,FLANDERS' YARD,"So Homer, I'm dyin' to know. What do you think of the Leftorium?"
+1741,38,43,300000,Homer Simpson,FLANDERS' YARD,Uh... Sounds like a pretty dumb idea to me.
+1742,38,44,303000,Ned Flanders,FLANDERS' YARD,"Well, I know it's a little risky and it's gonna be a lot of hard work, but gosh darn it, it's gonna be a lot of fun, too."
+1743,38,45,310000,Homer Simpson,FLANDERS' YARD,"Fun? Where is this store, Flanders? The merry old land of Oz?"
+1744,38,46,314000,Ned Flanders,FLANDERS' YARD,"Oh, no. The Springfield Mall."
+1745,38,47,316000,Maude Flanders,FLANDERS' YARD,"Oh, here, you two. Make a wish."
+1746,38,48,317000,Homer Simpson,FLANDERS' YARD,Nah.
+1747,38,49,318000,Maude Flanders,FLANDERS' YARD,It's fun.
+1748,38,50,318000,Homer Simpson,FLANDERS' YARD,"No, it isn't."
+1749,38,51,320000,Ned Flanders,FLANDERS' YARD,"You must have something you want to wish for, Homer."
+1750,38,52,323000,Homer Simpson,FLANDERS' YARD,"Hmm, let's see."
+1751,38,53,326000,Homer Simpson,FLANDERS' YARD,Nah.
+1752,38,54,327000,Homer Simpson,FLANDERS' YARD,Hmmm.
+1753,38,55,330000,Homer Simpson,FLANDERS' YARD,Heyyyy.
+1754,38,56,331000,Ned Flanders,FLANDERS' YARD,"Come on, Homer! I got an ambition to do some wishin'!"
+1755,38,57,334000,Homer Simpson,FLANDERS' YARD,"Keep your pants on, Flanders! I'm wishing as fast as I can!"
+1756,38,58,338000,Homer Simpson,FLANDERS' YARD,Ooooh.
+1758,38,60,345000,Homer Simpson,FLANDERS' YARD,Mmmm -- too far.
+1759,38,61,348000,Homer Simpson,FLANDERS' YARD,Okay. Ready.
+1760,38,62,351000,Homer Simpson,FLANDERS' YARD,Yesssss! Oh yessss! Read it and weep. In your face. I've got more chicken bone!
+1761,38,63,357000,Maude Flanders,FLANDERS' YARD,"What'd you wish for, Homer?"
+1762,38,64,359000,Ned Flanders,FLANDERS' YARD,"No, no, no, don't say. Otherwise it won't come true."
+1763,38,65,362000,Homer Simpson,FLANDERS' YARD,Oooh. That would be a shame.
+1764,38,66,366000,Homer Simpson,FLANDERS' YARD,"Wouldn't it, Flanders?"
+1767,38,69,414000,Marge Simpson,Simpson Home,"Bart, how many hours a day do you watch TV?"
+1768,38,70,418000,Bart Simpson,Simpson Home,Six. Seven if there's something good on.
+1769,38,71,421000,Marge Simpson,Simpson Home,Don't you think you should get a little fresh air and maybe some exercise?
+1770,38,72,424000,Bart Simpson,Simpson Home,"Yeah, but what are ya gonna do?"
+1771,38,73,427000,Homer Simpson,Simpson Home,"Marge, TV gives so much and asks so little. It's a boy's best friend."
+1772,38,74,430000,Marge Simpson,Simpson Home,"That's the problem. Even as we speak, millions of children are staring at the TV instead of getting some much-needed exercise. Those children's parents should be ashamed of themselves."
+1773,38,75,443000,Akira,Simpson Home,"Hello, I am Akira. HA!"
+1774,38,76,446000,Akira,Simpson Home,That didn't hurt very much because I know the ancient art of karate.
+1775,38,77,451000,Akira,Simpson Home,Karate focuses the mind and gives one self-confidence.
+1776,38,78,455000,Akira,Simpson Home,People from all walks of life... doctors...
+1777,38,79,455000,Doctor,Simpson Home,Hii--ya!
+1778,38,80,459000,Akira,Simpson Home,... homemakers...
+1779,38,81,459000,Homemaker,Simpson Home,Hoo--yea!
+1780,38,82,460000,Akira,Simpson Home,... landscape architects...
+1781,38,83,460000,Landscaper,Simpson Home,Ugh--ya!
+1782,38,84,463000,Akira,Simpson Home,... choreographers...
+1783,38,85,463000,Choreographer,Simpson Home,Haa!
+1784,38,86,464000,Akira,Simpson Home,"High karate at low, low prices."
+1785,38,87,467000,George Washington,Simpson Home,"I cannot tell a lie, this is a great deal."
+1786,38,88,469000,Akira,Simpson Home,HA!
+1787,38,89,472000,Bart Simpson,Simpson Home,"Hey Mom, how 'bout if I learn karate? Will that we make you happy?"
+1788,38,90,476000,Marge Simpson,Simpson Home,"That sounds fine, Bart."
+1789,38,91,477000,Homer Simpson,Simpson Home,"See, Marge? You knock TV and then it helps you out. I think you owe somebody a little apology."
+1792,38,94,490000,Homer Simpson,Springfield Mall,"Well, if it isn't the Leftorium."
+1795,38,96,493000,Homer Simpson,Store,"Hey Flanders, how's business?"
+1796,38,97,496000,Ned Flanders,Store,"Oh, a little pokey, but things are gonna pick up."
+1797,38,98,500000,Woman,Store,I am so sorry. How much do I owe you?
+1798,38,99,503000,Ned Flanders,Store,"Now, you put that money away. That was an accident."
+1799,38,100,506000,Woman,Store,"Really? Well, thanks. Could you validate my parking?"
+1800,38,101,510000,Ned Flanders,Store,Absotively posilutely.
+1801,38,102,512000,Homer Simpson,Store,"So, Flanders, have you sold anything?"
+1802,38,103,516000,Ned Flanders,Store,N-Not yet. But one of the mall security guards took a good long look at a left-handed ice cream scoop.
+1804,38,105,522000,Akira,KARATE SCHOOL,"Greetings. I am Akira, your guide on the path to true karate. And this is our map, the Art of War by Sun Tzu. It will teach us our most important lesson: we learn karate so that we need never use it."
+1805,38,106,535000,Bart Simpson,KARATE SCHOOL,"Um, excuse me, sir. I already know how not to hit a guy. Can we break out the nunchucks?"
+1806,38,107,540000,Akira,KARATE SCHOOL,"Ah, yes, the impetuousness of youth! For now, let us read."
+1807,38,108,545000,Bart Simpson,KARATE SCHOOL,"Akira, my good man. When do we break blocks of ice with our heads?"
+1808,38,109,548000,Akira,KARATE SCHOOL,First you must fill your head with wisdom. Then you can hit ice with it.
+1809,38,110,552000,Bart Simpson,KARATE SCHOOL,"Yo, sensei, can I go to the bathroom?"
+1810,38,111,553000,Akira,KARATE SCHOOL,"You can, if you believe you can."
+1811,38,112,555000,Bart Simpson,KARATE SCHOOL,Paying money to read books... the hell with this.
+1813,38,114,562000,Bart Simpson,Noiseland Arcade,"Come on, Touch of death. Touch of death. Touch of death."
+1814,38,115,569000,Video Voice,Noiseland Arcade,Touch of death!
+1816,38,117,572000,Homer Simpson,Simpson Home,"I'm telling you, Flanders' store was dee-serted. So what do you think of your bestest buddy now, Marge?"
+1817,38,118,579000,Lisa Simpson,Simpson Home,"Dad, do you know what Schadenfreude is?"
+1818,38,119,582000,Homer Simpson,Simpson Home,"No, I do not know what Schadenfreude is. Please tell me, because I'm dying to know."
+1819,38,120,588000,Lisa Simpson,Simpson Home,"It's the German term for ""shameful joy"" -- taking pleasure in the suffering of others."
+1820,38,121,593000,Homer Simpson,Simpson Home,"Oh, come on, Lisa. I'm just glad to see him fall flat on his butt. He's usually all happy and comfortable and surrounded by loved ones, and it makes me feel... What's the opposite of that shameful joy thing of yours?"
+1821,38,122,605000,Lisa Simpson,Simpson Home,Sour grapes.
+1822,38,123,606000,Homer Simpson,Simpson Home,"Boy, those Germans have a word for everything."
+1823,38,124,609000,Marge Simpson,Simpson Home,"So Bart, what did you learn in karate school today?"
+1824,38,125,611000,Homer Simpson,Simpson Home,"Yeah, come on boy, this better be worth my ten bucks."
+1825,38,126,614000,Bart Simpson,Simpson Home,"Uh, I learned the touch of death."
+1826,38,127,616000,Homer Simpson,Simpson Home,"Ooh, the touch of death."
+1827,38,128,618000,Bart Simpson,Simpson Home,"Permit me to demonstrate. Lisa, shut your eyes. Soon you will be at peace."
+1828,38,129,623000,Lisa Simpson,Simpson Home,"Hey, quit it, Bart. Quit it! Hey, quit it, quit it, quit it! M-o-o-o-m!"
+1829,38,130,627000,Marge Simpson,Simpson Home,"Bart, don't use the touch of death on your sister."
+1831,38,132,632000,Bart Simpson,Springfield Mall,Uh-oh. Gotta get back to karate class.
+1832,38,133,643000,Bart Simpson,Springfield Mall,You missed a spot.
+1833,38,134,647000,Bart Simpson,Springfield Mall,"All right. Comin' through. Outta my way. Move it along. Step aside, lady."
+1834,38,135,653000,Homer Simpson,Springfield Mall,"Hey, boy. How was class?"
+1835,38,136,655000,Bart Simpson,Springfield Mall,Today we learned how to rip a man's heart out and show it to him before he dies.
+1836,38,137,659000,Homer Simpson,Springfield Mall,"Oh, that'll learn 'im."
+1838,38,139,663000,Jimbo Jones,Leftorium,What'd ya swipe?
+1839,38,140,664000,DOLPH,Leftorium,"An ""I Love Lefties"" shot glass."
+1840,38,141,666000,Kearney Zzyzwicz,Leftorium,Left-handed pinking shears.
+1841,38,142,667000,Jimbo Jones,Leftorium,Pinking shears? Let's go to the Food Court and steal some baked potatoes.
+1842,38,143,673000,Homer Simpson,Leftorium,"Hey Flanders, when are your busy hours?"
+1843,38,144,676000,Ned Flanders,Leftorium,"Oh, oh, oh, I expect things to start picking up soon. I think word of mouth is startin' to spread."
+1844,38,145,681000,Man Shopper,Leftorium,"Hey, I hear you validate parking tickets without purchase."
+1845,38,146,685000,Ned Flanders,Leftorium,"Oh, right as rain. Or, as we say around here, left as rain."
+1846,38,147,686000,Man Shopper,Leftorium,Just stamp the ticket.
+1847,38,148,690000,Ned Flanders,Leftorium,"Uh, okay."
+1849,38,150,694000,Barney Gumble,Moe's Tavern,"Hey Homer, how's your neighbor's store doing?"
+1850,38,151,697000,Homer Simpson,Moe's Tavern,Lousy. He just sits there all day. He'd have a great job if he didn't own the place.
+1851,38,152,705000,Moe Szyslak,Moe's Tavern,Crummy right-handed corkscrews! What does he sell?
+1852,38,153,709000,Homer Simpson,Moe's Tavern,"Uh, well actually, Moe..."
+1853,38,154,713000,HOMER (CONT'D,Moe's Tavern,I dunno.
+1855,38,156,716000,Bart Simpson,Simpson Home,"Hey, Lis. Change the channel."
+1856,38,157,718000,Lisa Simpson,Simpson Home,You change it.
+1857,38,158,720000,Lisa Simpson,Simpson Home,"Okay, okay."
+1858,38,159,725000,Bart Simpson,Simpson Home,I grow weary of this new channel. Change it back.
+1859,38,160,728000,Lisa Simpson,Simpson Home,But Bart --
+1861,38,162,731000,Homer Simpson,Springfield Nuclear Power Plant,"Apple, apple, apple... Come on candy bar. Hey, I know you! You're that first apple I didn't want. That sinks it. I'm really gonna let 'em have it this time!"
+1863,38,164,749000,Waylon Smithers,Springfield Nuclear Power Plant,"Simpson, put that box on Mr. Burns' desk. Chop, chop!"
+1864,38,165,755000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ah! Look, Smithers, another member of our nuclear family, with some helpful suggestions. And what's your name?"
+1865,38,166,763000,Homer Simpson,Springfield Nuclear Power Plant,"Homer Simpson, sir."
+1866,38,167,764000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Simpson, eh? Hmm hmmm. I'm Monty Burns."
+1867,38,168,770000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Hm. ""Keep that handsome owner out of sight. He's distracting the female employees."" Smithers..."
+1868,38,169,776000,Waylon Smithers,Springfield Nuclear Power Plant,"Got me, sir."
+1869,38,170,778000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh! It's a real one! ""No more apples in the vending machine, please."" Well, that's almost a sentence!"
+1870,38,171,786000,Homer Simpson,Springfield Nuclear Power Plant,"Can I leave, Mr. Burns?"
+1871,38,172,787000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, of course. And don't worry, there'll be plenty of apples for you. Nobody will take away your precious apples."
+1872,38,173,795000,Homer Simpson,Springfield Nuclear Power Plant,But the note was asking you to --
+1873,38,174,797000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Now, now, now. Tell my secretary I said you could have a free apple. She'll make everything all right, I promise."
+1874,38,175,807000,C. Montgomery Burns,Springfield Nuclear Power Plant,Damned infernal gizmo. My kingdom for a left-handed can opener!
+1875,38,176,811000,Homer Simpson,Springfield Nuclear Power Plant,"Um, Mr. Burns..."
+1876,38,177,814000,Ned Flanders,Springfield Nuclear Power Plant,"Come on, Homer. Tell him about the store. I'm dyin' out here."
+1877,38,178,818000,Homer Simpson,Springfield Nuclear Power Plant,"Sorry, Flanders."
+1879,38,180,821000,Homer Simpson,Street,Huh?
+1880,38,181,822000,Ned Flanders,Street,Are you sure you're not interested? Two hundred dollars is only the asking price.
+1881,38,182,828000,Man,Street,"Sorry, Ned."
+1882,38,183,829000,Ned Flanders,Street,"Hey, I'm flexible! You don't have to pay all at once. I'll be here all night if you change your mind."
+1883,38,184,836000,Homer Simpson,Street,"Hey, Flanders. Is everything okay?"
+1884,38,185,838000,Ned Flanders,Street,"Oh, yeah. Sure. Thought I'd just get rid of some of the clutter. See anything you like?"
+1885,38,186,842000,Homer Simpson,Street,"Oh, I get it. It's not good enough for you, but it's good enough for me! Well, I wouldn't be caught dead buying this... Hello!"
+1886,38,187,849000,Ned Flanders,Street,"Ah, got your eye on the gas grill. She's a butane beaut."
+1887,38,188,852000,Homer Simpson,Street,I'll give you twenty bucks for it.
+1888,38,189,854000,Ned Flanders,Street,"Twenty? Homer, I paid three hundred dollars for this just last year."
+1889,38,190,858000,Homer Simpson,Street,"You were swindled, my friend. Twenty bucks. Take it or leave it."
+1890,38,191,860000,Ned Flanders,Street,"Oh, Homer, be reasonable."
+1891,38,192,863000,Homer Simpson,Street,Sorry! No cash for Neddie! Homer keep all money! Bye bye Neddie! Bye bye!
+1892,38,193,868000,Ned Flanders,Street,"All right, Homer."
+1893,38,194,869000,Homer Simpson,Street,Twenty dollars?
+1894,38,195,870000,Ned Flanders,Street,Twenty dollars.
+1895,38,196,871000,Homer Simpson,Street,Now I don't want it.
+1896,38,197,872000,Ned Flanders,Street,What?
+1897,38,198,872000,Homer Simpson,Street,"I changed my mind. It was a passing fancy. Although perhaps if you threw in a few lawn chairs, maybe that tool bench, it might rekindle my interest."
+1899,38,200,881000,Homer Simpson,Simpson Home,"Hey, Bartle- eeboobely, care for a steak-a-rooney?"
+1900,38,201,886000,Bart Simpson,Simpson Home,"Sounds scrump-didly-umptious, dear old Daddly-doodly."
+1901,38,202,889000,Homer Simpson,Simpson Home,Daddly-doodly.
+1903,38,204,889000,Marge Simpson,Simpson Home,"Homer, this is the Flanders' entire living room set. How much did you pay for this?"
+1904,38,205,896000,Homer Simpson,Simpson Home,Only seventy-five beans!
+1905,38,206,898000,Marge Simpson,Simpson Home,Seventy-five dollars? Ned must be desperate!
+1906,38,207,901000,Lisa Simpson,Simpson Home,"I'm sure you did nothing to discourage this, you scavenger of human misery."
+1907,38,208,906000,Bart Simpson,Simpson Home,"Hey, keep your hands off my china hutch."
+1908,38,209,914000,Collection Agent,Simpson Home,"Good afternoon, sir, I'm Chuck Ellis from the Springfield Collection Agency, and I'm here to ask you why you don't think you need to pay your bills."
+1909,38,210,922000,Homer Simpson,Simpson Home,"Oh, I know I need to pay them. But there's just so many."
+1910,38,211,925000,Collection Agent,Simpson Home,"Does it make you feel good about yourself to owe people money? We've been very patient with you, Mr. Flanders."
+1912,38,212,930000,Homer Simpson,Simpson Home,"I know, but... Wait a minute. I'm Homer Simpson. Ned Flanders lives over there."
+1913,38,213,936000,Collection Agent,Simpson Home,Oh.
+1914,38,214,937000,Homer Simpson,Simpson Home,Flanders is in debt? Are you sure?
+1915,38,215,939000,Collection Agent,Simpson Home,We don't make mistakes.
+1916,38,216,941000,Collection Agent,Simpson Home,Damn right-handed ledgers... can't write in these things...
+1917,38,217,946000,Homer Simpson,Simpson Home,"Uh, there's a store where..."
+1918,38,218,947000,Collection Agent,Simpson Home,"Hey, you said you're Homer Simpson?"
+1919,38,219,948000,Homer Simpson,Simpson Home,Yeah.
+1920,38,220,948000,Collection Agent,Simpson Home,See you on Thursday.
+1923,38,223,950000,Homer Simpson,Springfield Mall,"Knock 'em dead, boy! Kid's gonna be a black belt in no time."
+1926,38,226,971000,Kearney Zzyzwicz,Springfield Elementary School,"Hey, check out the saxophone!"
+1927,38,227,973000,DOLPH,Springfield Elementary School,"Pretty boss, but there's something stuck on it."
+1928,38,228,976000,Lisa Simpson,Springfield Elementary School,Hey!!
+1929,38,229,978000,DOLPH,Springfield Elementary School,"Hey, look at me -- I'm Elvis, man."
+1930,38,230,981000,Lisa Simpson,Springfield Elementary School,You give that back. That belongs to me! That's mine!
+1931,38,231,984000,DOLPH,Springfield Elementary School,"If you want it, just take it."
+1932,38,232,987000,DOLPH,Springfield Elementary School,Okay. We're sorry. This time we're really gonna give it to you.
+1933,38,233,993000,Lisa Simpson,Springfield Elementary School,"Hey, stop that."
+1934,38,234,1000000,Bart Simpson,Springfield Elementary School,"Hey Lis, something wrong?"
+1935,38,235,1002000,Lisa Simpson,Springfield Elementary School,Not any more. You punks are about to get a taste of your own medicine. This is my brother... and he knows Karate.
+1936,38,236,1011000,Bart Simpson,Springfield Elementary School,Uh oh.
+1937,38,237,1012000,DOLPH,Springfield Elementary School,"Oh, we're real scared."
+1938,38,238,1014000,Kearney Zzyzwicz,Springfield Elementary School,"Please don't hurt us, Bart!"
+1939,38,239,1017000,Jimbo Jones,Springfield Elementary School,"What are you gonna do, throw your diapers at us?"
+1940,38,240,1022000,Lisa Simpson,Springfield Elementary School,"Yeah, just keep laughing, it only makes him madder. Come on, Bart, start them off with the touch of death and go from there."
+1941,38,241,1029000,Bart Simpson,Springfield Elementary School,"I think they've learned their lesson already, Lis."
+1942,38,242,1032000,DOLPH,Springfield Elementary School,"No, we want to see the touch of death."
+1943,38,243,1034000,Kearney Zzyzwicz,Springfield Elementary School,"Yeah, come on Karate kid. Waste me!"
+1944,38,244,1043000,Lisa Simpson,Springfield Elementary School,It's funny how two wrongs sometimes make a right.
+1946,38,246,1051000,Ned Flanders,Simpson Home,Homer! Over here!
+1947,38,247,1056000,Homer Simpson,Simpson Home,"Oh, Flanders, I, uh, want to give you your stuff back."
+1948,38,248,1059000,Ned Flanders,Simpson Home,"Well, there's no house to put it in, Homer, not since that nice fellow from the bank, who was only doing his job, came and locked it up."
+1949,38,249,1068000,Homer Simpson,Simpson Home,You're gonna live in your car?
+1950,38,250,1070000,Ned Flanders,Simpson Home,"Oh, oh, no, it's just a little campout tonight, then off to my sister's apartment in Capital City. Hey what do think, kids? The big city!"
+1951,38,251,1080000,Rod Flanders,Simpson Home,Yay!
+1952,38,252,1080000,Ned Flanders,Simpson Home,"Say, Todd, I want to talk to your Uncle Homer. You're head of the car till I get back."
+1953,38,253,1085000,Todd Flanders,Simpson Home,"Okay, Dad. GRAY SKIES ARE GONNA CLEAR UP /"
+1954,38,254,1089000,Maude Flanders,Simpson Home,PUT ON A HAPPY FACE / BRUSH OFF THE CLOUDS AND CHEER UP / PUT ON A HAPPY FACE /
+1955,38,255,1094000,Maude Flanders,Simpson Home,TAKE OFF THE GLOOMY MASK OF TRAGEDY / IT'S NOT YOUR STYLE / YOU'LL LOOK SO GOOD THAT YOU'LL BE GLAD YOU DECIDED TO SMILE / TAKE OUT A PLEASANT OUTLOOK / STICK OUT THAT NOBLE CHIN / WIPE OUT THAT FULL OF DOUBT LOOK / PUT ON A HAPPY GRIN / AND SPREAD SUNSHINE / ALL OVER THE PLACE / JUST PUT ON A HAPPY FACE.
+1956,38,256,1096000,Ned Flanders,Simpson Home,"Listen to that singing... those poor fools. Homer, I'm ruined."
+1957,38,257,1104000,Homer Simpson,Simpson Home,I know!
+1958,38,258,1106000,Ned Flanders,Simpson Home,"You know at times like these, I-I used to turn to the Bible and find solace. But even the good book can't help me now."
+1959,38,259,1114000,Homer Simpson,Simpson Home,Why not?
+1960,38,260,1115000,Ned Flanders,Simpson Home,I sold it to you for seven cents.
+1961,38,261,1118000,Homer Simpson,Simpson Home,Oh.
+1962,38,262,1118000,Ned Flanders,Simpson Home,"You know, ever since that barbecue, nothing's gone right. It's like there's been a-a curse on me."
+1963,38,263,1128000,Homer Simpson,Simpson Home,"Oh, it's all my fault."
+1964,38,264,1130000,Ned Flanders,Simpson Home,No it's not.
+1965,38,265,1131000,Homer Simpson,Simpson Home,Yes it is.
+1966,38,266,1132000,Ned Flanders,Simpson Home,"No! You tried to warn me about gambling my family's future on some pig in a poke... I didn't listen. Homer, you were a true friend."
+1967,38,267,1142000,Homer Simpson,Simpson Home,"No, I was a swine."
+1968,38,268,1144000,Homer Simpson,Simpson Home,"Listen, Flanders, do you still have that store?"
+1969,38,269,1148000,Ned Flanders,Simpson Home,For two more days. Then it becomes Libertarian Party headquarters. I hope they have better luck than I did.
+1970,38,270,1154000,Homer Simpson,Simpson Home,"Flanders, you open that store tomorrow!"
+1972,38,271,1157000,Ned Flanders,Simpson Home,"Oh, Homer, there's no point..."
+1973,38,272,1158000,Homer Simpson,Simpson Home,I SAID DO IT!
+1974,38,273,1163000,Homer Simpson,Simpson Home,"Hello, Jerry? Homer Simpson. Remember last month, when I paid back that loan? Well, now I need you to do a favor for me."
+1975,38,274,1171000,Moe Szyslak,Simpson Home,"A left-handed corkscrew? Oh, baby!"
+1976,38,275,1175000,Barney Gumble,Simpson Home,"""Kiss Me, I'm Left-Handed""? That's a classic!"
+1977,38,276,1181000,Barney Gumble,Simpson Home,Whoa!
+1978,38,277,1182000,Wife,Simpson Home,Homer Simpson's on the phone.
+1979,38,278,1183000,Neighborhood Guy,Simpson Home,Tell him I went out.
+1980,38,279,1185000,Wife,Simpson Home,He needs you to help Ned Flanders.
+1981,38,280,1187000,Neighborhood Guy,Simpson Home,Ned Flanders is in trouble!?
+1983,38,282,1189000,C. Montgomery Burns,Burns's Office,"Smithers, I'm licked. You open this can."
+1984,38,283,1193000,Waylon Smithers,Burns's Office,"Okay, but you softened it up for me, sir."
+1985,38,284,1196000,C. Montgomery Burns,Burns's Office,"Hold it, Smithers! I'll open the can!"
+1986,38,285,1198000,Waylon Smithers,Burns's Office,"But sir, how?"
+1987,38,286,1199000,C. Montgomery Burns,Burns's Office,To the mall! I'll explain on the way!
+1989,38,288,1208000,Maude Flanders,Springfield Mall,"Hurry, Neddie, hurry! Oh golly, it's a miracle!"
+1990,38,289,1212000,Homer Simpson,Springfield Mall,"C'mon, you lefties. What'd I tell you?"
+1991,38,290,1215000,Ned Flanders,Springfield Mall,Homer?
+1992,38,291,1217000,Homer Simpson,Springfield Mall,"It's all here, and it's all backwards. That's right."
+1993,38,292,1228000,C. Montgomery Burns,Springfield Mall,"The world has turned has it not my tin-plated friend? Look at you -- you, who were once so proud -- Feel the wrath of the left hand of Burns!"
+1994,38,293,1239000,Moe Szyslak,Springfield Mall,My life begins today!
+1995,38,294,1242000,Barney Gumble,Springfield Mall,Wow! What an icebreaker!
+1996,38,295,1244000,Collection Agent,Springfield Mall,Left-handed ledgers! Now I can write all the way to the edge!
+1997,38,296,1248000,Akira,Springfield Mall,Ah ha ha... left-handed Nunchuks.
+1998,38,297,1251000,Todd Flanders,Springfield Mall,Wow.
+1999,38,298,1254000,C. Montgomery Burns,Springfield Mall,"The boys at the Diners Club will think I've gone quite mad. Oh, and I'll have that roadster in the corner as well."
+2000,38,299,1262000,Ned Flanders,Springfield Mall,"Yes, sir!"
+2001,38,300,1264000,C. Montgomery Burns,Springfield Mall,Huzzah for the shopkeep!
+2002,38,301,1268000,Ned Flanders,Springfield Mall,"Homer, affordable tract housing made us neighbors. But you made us friends."
+2003,38,302,1273000,Homer Simpson,Springfield Mall,To Ned Flanders... the richest left- handed man in town.
+2004,38,303,1277000,Todd Flanders,Springfield Mall,Everybody! GREY SKIES ARE GONNA CLEAR UP /
+2005,38,304,1281000,Shoppers,Springfield Mall,STICK OUT THAT NOBLE CHIN / WIPE OFF THAT FULL OF DOUBT LOOK / SLAP ON A HAPPY GRIN / AND SPREAD SUNSHINE ALL OVER THE PLACE / JUST PUT ON A HAPPY FACE!

@@ -1,0 +1,174 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+123881,478,2,10000,Itchy,RICE PADDY,"Lao ren, gei wo ni de maoze."
+123882,478,3,10000,Scratchy's Father,RICE PADDY,"Danshi, wo xu yao tou maoze dang tai yang."
+123883,478,4,82000,Itchy,RICE PADDY,Wo zhe daole.
+123887,478,8,82000,Itchy,NOBLEMAN'S FORTRESS,Jin ru si.
+123889,478,10,82000,Cat Monk,COURTYARD OF FORTRESS,Zui da wu qi shi lian min.
+123890,478,11,82000,Scratchy,COURTYARD OF FORTRESS,"Xie xie xi fu. Ni gei wo zi you, bu fu chou nuli zhidu."
+123891,478,12,82000,Cat Monk,COURTYARD OF FORTRESS,Bai chi.
+123892,478,13,125000,Bart Simpson,COURTYARD OF FORTRESS,"So, the family's still gone. What do I do now?"
+123893,478,14,131000,Crazy Clown,COURTYARD OF FORTRESS,Let's get this party started.
+123896,478,17,139000,Marge Simpson,Yogurt Nook,"Bart's been alone for twenty-three minutes! Let's get this yo on the road, people!"
+123897,478,18,144000,Homer Simpson,Yogurt Nook,Wait! I haven't chosen my mix-in!
+123898,478,19,147000,Homer Simpson,Yogurt Nook,Okay... I'll take some of... that.
+123899,478,20,150000,Squeaky-Voiced Teen,Yogurt Nook,Well that's my tip jar!
+123900,478,21,152000,Homer Simpson,Yogurt Nook,Mix it in.
+123902,478,23,162000,Bart Simpson,Simpson Home,"Whoa, mama!"
+123904,478,25,176000,Bart Simpson,Simpson Home,Let me freshen that up for ya.
+123905,478,26,185000,Bart Simpson,Simpson Home,I love Saturdays!
+123907,478,28,191000,Crazy Clown,Simpson Home,"I'm gonna kill ya, boy!"
+123908,478,29,198000,Bart Simpson,Simpson Home,I'm bored.
+123909,478,30,200000,Homer Simpson,Simpson Home,"That's it, boy! I'm eating your yogurt!"
+123910,478,31,203000,Marge Simpson,Simpson Home,You ate his yogurt in the car.
+123911,478,32,205000,Homer Simpson,Simpson Home,He didn't know that!
+123912,478,33,207000,Homer Simpson,Simpson Home,Stupid kid. All you do is cost me money. Money I could be wasting!
+123913,478,34,213000,Herman Millwood,Simpson Home,Is Bart Simpson here? Because I'm about to make him and his family very wealthy!
+123914,478,35,218000,Homer Simpson,Simpson Home,"Wealthy? Hey, remember the guy who drove you to school that one time. Eh?"
+123915,478,36,226000,Herman Millwood,Simpson Home,"I should introduce myself. My name is Herman Millwood, and my company makes..."
+123917,478,38,230000,Herman Millwood,LIVING ROOM,"...the ""Aero"" chair."
+123918,478,39,232000,Lisa Simpson,LIVING ROOM,The most comfortable ergonomic chair there is.
+123919,478,40,235000,Homer Simpson,LIVING ROOM,"So, what brings you here, Mr. Chair?"
+123920,478,41,237000,Herman Millwood,LIVING ROOM,"Bart, do you remember this?"
+123921,478,42,245000,Bart Simpson,LIVING ROOM,"That's ""Angry Dad""! The semi-autobiographical web cartoon I created!"
+123922,478,43,249000,Homer Simpson,LIVING ROOM,"I legally forced him to say ""semi""."
+123923,478,44,251000,Herman Millwood,LIVING ROOM,"The multi-million-dollar internet startup that put ""Angry Dad"" on the net ordered a lot of my chairs..."
+123925,478,46,257000,Herman Millwood,LATE '90S-ERA INTERNET START-UP OFFICE,...but when the tech bubble popped...
+123927,478,48,267000,Herman Millwood,LATE '90S-ERA INTERNET START-UP OFFICE,"...the chairs were never paid for, so we repossessed the only thing they had left -- the cartoons: ""Space Penis,"" ""Geena Davis Internet Project 1999,"" ""John Stankworth, Fart Detective,"" ""The Adventures Of Parody Man..."""
+123928,478,49,279000,Herman Millwood,LATE '90S-ERA INTERNET START-UP OFFICE,"...and most importantly, ""Angry Dad."" Because now I want to make it into a movie."
+123929,478,50,284000,Bart Simpson,LATE '90S-ERA INTERNET START-UP OFFICE,My stupid cartoon a movie? Thank you!
+123930,478,51,288000,Herman Millwood,LATE '90S-ERA INTERNET START-UP OFFICE,"Don't thank me, thank Hollywood for being completely out of good ideas."
+123931,478,52,292000,Homer Simpson,LATE '90S-ERA INTERNET START-UP OFFICE,My little Roman Polanski!
+123932,478,53,294000,Marge Simpson,LATE '90S-ERA INTERNET START-UP OFFICE,Homer!
+123933,478,54,294000,Homer Simpson,LATE '90S-ERA INTERNET START-UP OFFICE,What?! What's wrong with being Roman Polanski?
+123934,478,55,298000,Homer Simpson,LATE '90S-ERA INTERNET START-UP OFFICE,He what?...
+123935,478,56,299000,Homer Simpson,LATE '90S-ERA INTERNET START-UP OFFICE,You monster!
+123937,478,58,308000,Bart Simpson,Animation Studios,"Thanks for letting me make this movie, Mr. Millwood! I've always loved cartoons, going way back to the real early SpongeBobs."
+123938,478,59,314000,Herman Millwood,Animation Studios,"Well, I think your movie has real potential. Everyone has an angry dad, even me."
+123939,478,60,319000,Father,Animation Studios,"What the hell are you making chairs for? In this family, we sit on the ground!"
+123940,478,61,325000,Herman Millwood,Animation Studios,"Now Bart, this is where we will help bring your vision to life."
+123941,478,62,332000,Male Animator,Animation Studios,"Oh my God, that's Bart Simpson!"
+123942,478,63,333000,Female Animator,Animation Studios,And Angry Dad himself!
+123943,478,64,335000,Male Animator,Animation Studios,It's like meeting Mickey Mouse and Walt Disney at the same time!
+123947,478,67,340000,2nd Male Animator,BULLPEN,"Mr. Simpson, I'm in charge of the team that animates your ass..."
+123948,478,68,345000,2nd Male Animator,BULLPEN,Anything you can give us from real life?
+123949,478,69,347000,Homer Simpson,BULLPEN,Observe.
+123951,478,71,360000,Homer Simpson,BULLPEN,Soda?
+123952,478,72,360000,2nd Male Animator,BULLPEN,No thanks.
+123953,478,73,363000,Homer Simpson,BULLPEN,More for me.
+123955,478,75,367000,Female Animator,Animation Studios,"Bart, we've got some bad news -- the actor who did the original voice of Angry Dad can't do the movie. He blew out his voice screaming about how he never got paid the first time around."
+123956,478,76,377000,Bart Simpson,Animation Studios,"Oh, man. What can we do?"
+123957,478,77,379000,Female Animator,Animation Studios,"Well, the cartoon's based on your dad -- maybe he can do the voice. Can he get angry on cue?"
+123960,478,80,393000,Bart Simpson,Animation Studios,Hey Homer! You want to be the voice of Angry Dad?
+123961,478,81,402000,Homer Simpson,Animation Studios,It would be an honor!
+123963,478,83,407000,Bart Simpson,BUILDING 1,Thanks for coming out -- one announcement: the voice of Angry Dad will be on a speakerphone today.
+123964,478,84,412000,Homer Simpson,BUILDING 1,"There's something going on at the nuclear plant that's a little more important that your ""table read."""
+123965,478,85,418000,Lisa Simpson,BUILDING 1,"""'Angry Dad: The Movie.' ""Angry Dad addresses the family from the top of the stairs."""
+123966,478,86,420000,Homer Simpson,BUILDING 1,"""Family, today I graduate from my anger management class."""
+123967,478,87,429000,Lisa Simpson,BUILDING 1,Angry Dad slips and crashes down the stairs.
+123968,478,88,429000,Homer Simpson,BUILDING 1,Pained noises.
+123969,478,89,429000,Lisa Simpson,BUILDING 1,"No Dad, don't say ""pained noises,"" you make pained noises."
+123970,478,90,438000,Homer Simpson,BUILDING 1,"Oh okay, uh, Lenny, hit me with that chair."
+123971,478,91,441000,Lenny Leonard,BUILDING 1,Okay.
+123973,478,93,447000,Bart Simpson,Studio,"Hi, everyone. I'm Bart Simpson, the creator of ""Angry Dad."" To make this film, I had to miss countless hours of school, and there was also some hardship. I hope you like it as much as I do."
+123974,478,94,461000,Angry Dad,Studio,The movie!
+123976,478,96,466000,Bart Simpson,PROJECTION ROOM,What did they think?
+123977,478,97,466000,Herman Millwood,PROJECTION ROOM,"Well, let's not jump to conclusions. We'll look at the tape of the audience watching the movie."
+123978,478,98,475000,Herman Millwood,PROJECTION ROOM,Now comes the part where the movie actually starts.
+123979,478,99,479000,MAN IN THE AUDIENCE,PROJECTION ROOM,"For God's sake, turn it off! Turn it offfff!"
+123981,478,101,485000,Homer Simpson,PROJECTION ROOM,"Don't feel bad, boy. Everyone makes mistakes. Yours is just public and expensive."
+123982,478,102,490000,Lisa Simpson,PROJECTION ROOM,"You know, your movie's not all bad. If you cut out the stuff that didn't work, it would make a great short film."
+123983,478,103,497000,Bart Simpson,PROJECTION ROOM,A short film?
+123984,478,104,498000,Lisa Simpson,PROJECTION ROOM,"Many great directors, like Wes Anderson, Frank Tashlin, and Tim Burton started with short films."
+123985,478,105,504000,Bart Simpson,PROJECTION ROOM,Name one more.
+123986,478,106,504000,Lisa Simpson,PROJECTION ROOM,Taylor Hackford.
+123987,478,107,506000,Bart Simpson,PROJECTION ROOM,"I don't know who that is, but I'm convinced. Let's start cutting."
+123989,478,109,517000,Luigi,Simpson Home,Buon Giorno! Where is-a the Bart Simpson?
+123990,478,110,520000,Bart Simpson,Simpson Home,I am the Bart.
+123991,478,111,520000,Luigi,Simpson Home,"Bravissimo! You know me as Luigi the spaghetti guy, but I am here in my capacity as a member of the Hollywood Foreign Press. Your animated short, ""Angry Dad"" or, as we call it in the Pizza English, ""Papa Apoplectic-a"", she has-a been nominated for a Golden Globe."
+123993,478,113,543000,Luigi,Simpson Home,"Now if you'll excuse me, I have-a some unhappy news to deliver to Sir Anthony Hopkins."
+123994,478,114,549000,Luigi,Simpson Home,Sir Anthony! Your pizza! She's-a gonna be late!
+123995,478,115,552000,Sir Anthony Hopkins,Simpson Home,Damn you. Damn you to Hell!
+123997,478,117,572000,Lisa Simpson,BEVERLY HILTON-TYPE HOTEL,"The creative team from Mixar! Pardon me. I've seen all of your movies except ""Cars,"" and I can't believe my brother is in the same category as the digital Rembrandts of my generation!"
+123998,478,118,583000,John Lassiter,BEVERLY HILTON-TYPE HOTEL,So... that makes your brother the competition.
+123999,478,119,586000,John Lassiter,BEVERLY HILTON-TYPE HOTEL,"Randy, tell her how we feel about that."
+124000,478,120,592000,Randy Newman,BEVERLY HILTON-TYPE HOTEL,"YOU'VE GOT AN EN-E-MY / YOU'VE GOT AN EN-E-MY / YOU BETTER HAVE NINE LIVES / BECAUSE WE HAVE EIGHT KNIVES / YES, YOU'VE GOT AN EN-E-MY. / YOU'VE GOT AN EN-E-MY. HATE YOUR GUTS"
+124001,478,121,622000,Randy Newman,BEVERLY HILTON-TYPE HOTEL,"Hi. Yeah, it is me, Ricky Gervais. Uh, Tanqueray gin and tonic, please. I'm paid to drink that in my movies. The amount isn't important. A lot to you, but to be honest, not so much to me."
+124002,478,122,637000,Randy Newman,BEVERLY HILTON-TYPE HOTEL,"Ah, okay, you missed it, but I just put a tip in there. A big one. Double digits. Ten. The lowest of the double digits. But nevertheless, ten dollars, so, a lot of money... to you. Less to me. Uh, but ten dollars, nonetheless. Look at it."
+124003,478,123,653000,Randy Newman,BEVERLY HILTON-TYPE HOTEL,The ten? That was there before.
+124004,478,124,654000,Randy Newman,BEVERLY HILTON-TYPE HOTEL,"It was not! Who else in here's gonna tip ten dollars? Keith Urban, Helen Mirren? I don't think so. They don't have the common touch, do they? Like me. You've seen that. We've bonded, you're thinking ""Wow, he's rich, he's famous, he's got great abs."" Personal trainer, you couldn't afford that. I used to be fat. I used to eat junk food. You probably still do. But you're going ""Wow, look at him. How much did that suit cost him?"" Nothing. I got it for free. That's what happens when you're a celebrity. Helen! Helen! She can't hear me. Helen--Mirren! Who does she think she is? Fur coat, no knickers. Anyway, mate, your ice is dripping."
+124005,478,125,689000,Announcer,BEVERLY HILTON-TYPE HOTEL,"And now, to present the Golden Globe for Best Animated Short..."
+124006,478,126,689000,Announcer,BEVERLY HILTON-TYPE HOTEL,Russell Brand!
+124007,478,127,695000,Russell Brand,BEVERLY HILTON-TYPE HOTEL,"It's great to be here with all the old friends I haven't seen since rehab. No, no, I'm just kidding -- none of you are my friends. And now the nominees for Best Animated Short: ""The Brothers Of Beauville."""
+124008,478,128,738000,Russell Brand,BEVERLY HILTON-TYPE HOTEL,Saakashvili Spring.
+124009,478,129,783000,Russell Brand,BEVERLY HILTON-TYPE HOTEL,"""Condiments"" by Mixar...and Angry Dad."
+124010,478,130,792000,Homer Simpson,BEVERLY HILTON-TYPE HOTEL,Woo hoo!
+124011,478,131,792000,Russell Brand,BEVERLY HILTON-TYPE HOTEL,"And the globe goes to: ""Angry Dad""!"
+124013,478,133,804000,Homer Simpson,BEVERLY HILTON-TYPE HOTEL,I have many people to thank...
+124014,478,134,807000,Homer Simpson,BEVERLY HILTON-TYPE HOTEL,"Angry Dad's voice is part Walter Matthau... Hey, Felix!... part Little Richard Whoooo! ...and a little bit of Snoopy when he cries."
+124016,478,136,813000,Bart Simpson,BEVERLY HILTON-TYPE HOTEL,"This is insane! He didn't show up for work, he bad-mouthed the movie on Jimmy Fallon, and now he's hoggin' all the credit!"
+124017,478,137,826000,Marge Simpson,BEVERLY HILTON-TYPE HOTEL,"Don't worry, sweetie, this is just the first of way too many awards shows. You'll get your chance to say ridiculous things."
+124020,478,138,834000,Homer Simpson,BEVERLY HILTON-TYPE HOTEL,I'd like to thank Mr. Speedy Pants Repair for sewing up my pants just before the ceremony...and the woman who has inspired me everyday for the past twenty-five years... the cute one from the Bangles. See you at the cool party!
+124023,478,141,872000,Bart Simpson,Bart and Lisa's Bedroom,'Old on -- I'm 'earing my 'etainer.
+124024,478,142,875000,Bart Simpson,Bart and Lisa's Bedroom,Angry Dad got an Oscar nomination?!
+124025,478,143,877000,Bart Simpson,Bart and Lisa's Bedroom,I'M GOING TO THE OS-CARS! NOT AS A SEAT FILL-ER! I'LL GET A GIFT BAS-KET! BUT I WON'T DE-CLARE IT!
+124026,478,144,884000,Homer Simpson,Bart and Lisa's Bedroom,Hey! Don't you know it's awards season? Who's calling you at five in the morning anyway?
+124027,478,145,890000,Bart Simpson,Bart and Lisa's Bedroom,Uh... nobody. Wrong number.
+124028,478,146,892000,Homer Simpson,Bart and Lisa's Bedroom,"If I find out it's a right number, you're in big trouble."
+124031,478,149,901000,Celebrity Reporter,Kodak Theater,"It's Bart Simpson, writer-director of ""Angry Dad,"" and you are with..."
+124032,478,150,906000,Bart Simpson,Kodak Theater,"My lame-o sister, Lisa."
+124033,478,151,908000,Celebrity Reporter,Kodak Theater,"And Lisa, who are you wearing?"
+124034,478,152,910000,Lisa Simpson,Kodak Theater,I believe it's from Lamps Plus.
+124035,478,153,912000,Celebrity Reporter,Kodak Theater,"And where's the ""Angry Dad"" himself? Where's Homer Simpson?"
+124036,478,154,916000,Bart Simpson,Kodak Theater,"Homer? Well, I don't know. L.A.'s a world-class city with a lot to offer. He's probably enjoying the sights..."
+124038,478,156,930000,Homer Simpson,WATTS TOWERS - MEANWHILE,Uh-oh.
+124039,478,157,932000,D.J. Kwanzaa,WATTS TOWERS - MEANWHILE,"Yo, yo, yo! Why you messin' with Simon Rodia's folk art masterpiece?"
+124040,478,158,936000,Ice Mocha,WATTS TOWERS - MEANWHILE,"Check it out, that's Angry Dad!"
+124041,478,159,938000,D.J. Kwanzaa,WATTS TOWERS - MEANWHILE,"Say, why ain't you at the Oscars, A.D.?"
+124042,478,160,940000,Homer Simpson,WATTS TOWERS - MEANWHILE,Oscars? What are you talking about? My son gave me this list of awesome things to do in L.A.
+124043,478,161,945000,D.J. Kwanzaa,WATTS TOWERS - MEANWHILE,"Chatsworth?! That's where the one-eighteen meets Topanga Canyon, fool!"
+124044,478,162,950000,Ice Mocha,WATTS TOWERS - MEANWHILE,"Someone must not want you at that kudo-cast, yo!"
+124045,478,163,953000,D.J. Kwanzaa,WATTS TOWERS - MEANWHILE,"Damn, Home-Simp -- you've been Oscar-blocked! What do you think about that, Nasty J?"
+124046,478,164,958000,Nasty J,WATTS TOWERS - MEANWHILE,That's cold.
+124047,478,165,960000,Homer Simpson,WATTS TOWERS - MEANWHILE,Hmm... Who could possibly want to stop me from accepting an award?
+124018,478,167,965000,Bart Simpson,Kodak Theater,My category comes up pretty soon. I'm home free as long as this Oscar show is tight and fast-paced.
+124019,478,168,970000,Actor,Kodak Theater,"Sound mixers may not be glamorous, but they make us sound so good."
+124048,478,169,975000,Actress,Kodak Theater,Without them we'd be up a creek without a decibel.
+124051,478,172,985000,D.J. Kwanzaa,L.A. FREEWAY,"No worries, A.D., we'll get you to your venue and pick up some dim sum on the way. According to this live blog, Ben Stiller and Jack Black are doing a bit that will not end."
+124053,478,174,999000,Man In Audience,Kodak Theater,"Turn it off! Turn it off! For God's sake, turn it off!"
+124054,478,175,1002000,Announcer,Kodak Theater,"And now please welcome, Academy Award winner Halle Berry!"
+124055,478,176,1009000,Halle Berry,Kodak Theater,"When most people think of animated movies, they think of forty minutes or more. But there is another type of animated film -- forty minutes or less!"
+124056,478,177,1019000,Bart Simpson,Kodak Theater,"Conductor, get ready to play my song!"
+124057,478,178,1021000,Halle Berry,Kodak Theater,"And the winner is... not going to be announced until we watch a lengthy clip from each short. ""Condiments"" by Mixar."
+124058,478,179,1033000,Cowboy Ketchup,Kodak Theater,The Tabasco brothers got Frenchie! We're gonna have to... leave the kitchen.
+124059,478,180,1040000,Waffle,Kodak Theater,I don't wanna go! I don't wanna go!
+124060,478,181,1043000,Waffle,Kodak Theater,Wake me for the syrupy ending.
+124061,478,182,1045000,Cowboy Ketchup,Kodak Theater,Timmy's comin'! Assume your positions!
+124062,478,183,1054000,Peanut Butter,Kodak Theater,My God! I'm empty! Don't let 'em... put pencils in me.
+124064,478,185,1057000,Marge Simpson,HOLLYWOOD BLVD. - A LITTLE LATER,"Thanks, Rollin' Eighties."
+124065,478,186,1067000,D.J. Kwanzaa,HOLLYWOOD BLVD. - A LITTLE LATER,"Hey, you two are honorary members for life."
+124066,478,187,1069000,D.J. Kwanzaa,HOLLYWOOD BLVD. - A LITTLE LATER,"That means if another gang sees you, they'll kill you."
+124067,478,188,1072000,Homer Simpson,HOLLYWOOD BLVD. - A LITTLE LATER,"I was born a Rollin' Eighty, and I'll die a Rollin' Eighty."
+124069,478,190,1076000,Halle Berry,Kodak Theater,"""Willis and Crumble in 'Better Gnomes And Gardens'""."
+124071,478,192,1079000,Willis,English Village,"Not to worry, Miss Pennyfarthing. Crumble will soon have your garden gnomes back in tip-top condition."
+124072,478,193,1101000,Miss Pennyfarthing,English Village,He's good as new! You must come in for a spot of tea and a homemade marmite sandwich.
+124073,478,194,1109000,Willis,English Village,"Homemade marmite, and made by a woman with such gentle hands..."
+124075,478,196,1142000,Willis,COTTAGE,Crumble! Crumble! Where has that silly dog got to?
+114839,478,198,1150000,Willis,COTTAGE,Oh my.
+124077,478,199,1153000,Lisa Simpson,COTTAGE,"Good luck, Mr. Park. There'd be no shame in losing to you."
+124078,478,200,1157000,Nick Park,COTTAGE,"Oh, that's very sweet of you. Thank you for saying so."
+124080,478,202,1161000,Nick Park,COTTAGE,No worries. I'll just stick them back on.
+124081,478,203,1163000,Nick Park,COTTAGE,I'm more clay than man now.
+124082,478,204,1165000,Halle Berry,COTTAGE,"And finally... ""Angry Dad."""
+124083,478,205,1171000,Squeaky-Voiced Teen,COTTAGE,No free refills.
+124085,478,207,1185000,Angry Dad,COTTAGE,"Damn, that's good!"
+124086,478,208,1188000,Halle Berry,COTTAGE,"And for Best Animated Short, the Oscar goes to... wait, one last moment about me... every night I dream my teeth fly out of my mouth. ""Angry Dad""!"
+124087,478,209,1199000,Bart Simpson,COTTAGE,Yes!
+124088,478,210,1207000,Bart Simpson,COTTAGE,This is it... I finally get to accept an award for my movie...except it's not just my movie. It was my sister's idea to make this into a short. And so many animators... every day was somebody's birthday. And you know what? It was my Dad's movie too. I only wish he were here and not at Cerritos Auto Square.
+124089,478,211,1228000,Homer Simpson,COTTAGE,"You got your wish, boy. I'm proud of ya. I'm sorry I took all the credit."
+124090,478,212,1232000,Bart Simpson,COTTAGE,"This whole thing is silly. I mean, isn't the idea of one person taking credit for an entire movie the stupidest thing you ever heard?"
+124091,478,213,1240000,Martin Scorsese,COTTAGE,"You make a lot of good points, Bart. A lot of good points. You're a very thoughtful kid, you remind me of Deborah Kerr in ""Black Narcissus."" Anyway, granted, despite what André Bazin might say, films are a collaborative art form, but, hey, you can't give an Oscar to everyone."
+124093,478,215,1259000,Bart Simpson,Simpson Home,"We can still order a replacement from the academy, right?"
+124094,478,216,1262000,Homer Simpson,Simpson Home,"Hey, they're like five bucks on eBay."
+124096,478,218,1265000,Homer Simpson,BEVERLY HILTON-TYPE HOTEL,"Oh, hi! Ricky Gervais, umm such an honor to meet you, Sir Ridley. I love your movies. Or as I call them, ""films."" Umm, glad I bumped into you, actually. Because, uh, I'm looking to expand beyond comedy. I know what you're thinking, Sir Ridley. You're thinking ""Oh my word, he's been making me laugh all these years, but now he's moving me as well. I'm gonna have to put him in my new film. What do you think?"
+124097,478,219,1301000,Homer Simpson,BEVERLY HILTON-TYPE HOTEL,I'm a seat filler.
+124099,478,220,1308000,Homer Simpson,BEVERLY HILTON-TYPE HOTEL,Well why couldn't you have said that a minute ago? Don't take any of my ideas.

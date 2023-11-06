@@ -1,0 +1,254 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+20918,105,2,37000,Bart Simpson,Lisa's Bedroom,"Lisa, will you keep it down!? I'm making a crank phone call to Principal Skinner."
+20919,105,3,41000,Seymour Skinner,Lisa's Bedroom,"Uh, well, as a matter of fact, my refrigerator wasn't running. You spared me quite a bit of spoilage. Thank you, anonymous young man."
+20921,105,5,48000,Lisa Simpson,Lisa's Bedroom,It's my room and I can do what I want.
+20922,105,6,50000,Bart Simpson,Lisa's Bedroom,"Oh, yeah? Well, I can do what I want in my room."
+20923,105,7,57000,Lisa Simpson,Lisa's Bedroom,"Bart, quit it!"
+20924,105,8,60000,Bart Simpson,Lisa's Bedroom,I can keep this up all day.
+20927,105,11,72000,Homer Simpson,GARAGE,"Lisa, stop the racket. I'm trying to fix your mother's camera. Now easy... easy."
+20928,105,12,80000,Homer Simpson,GARAGE,"Hm, I'm gonna need a bigger drill."
+20930,105,14,92000,Marge Simpson,Simpson Home,"My, these seas are certainly heaving."
+20931,105,15,95000,Swashbuckler,Simpson Home,"Well, no more than your bountiful bosom... M'lady."
+20932,105,16,101000,Marge Simpson,Simpson Home,Does that earring mean you're a pirate?
+20933,105,17,103000,Swashbuckler,Simpson Home,"Kinda... Ahhh, the seas have quieted... And only in the sweet embrace of quietude can two lovers truly be as..."
+20934,105,18,114000,Swashbuckler,Simpson Home,"Ooo, such noise. Ooo, well, I'm done for the evening."
+20935,105,19,120000,Marge Simpson,Simpson Home,"Lisa, stop blowing my sex! I mean, stop blowing your sax. Your sax. Stop it."
+20936,105,20,125000,Lisa Simpson,Simpson Home,"Mom, I'm auditioning for first chair in the school band and I've got to practice!"
+20937,105,21,129000,Marge Simpson,Simpson Home,"I'm sorry, but I sacrificed a very expensive camera just to get some quiet time."
+20938,105,22,138000,Lisa Simpson,Simpson Home,Fine. I'll play outside.
+20940,105,24,142000,Ned Flanders,FLANDERS' LIVING ROOM,"Hey, why that sounds like Gabriel's trumpet. You know what that means, kids?"
+20941,105,25,146000,Todd Flanders,FLANDERS' LIVING ROOM,Yay! Judgment day!
+20943,105,27,151000,Miss Hoover,Lisa's Classroom,"Forty-five seconds 'til ""pencils-down."""
+20944,105,28,154000,Ralph Wiggum,Lisa's Classroom,"Lisa, what's the answer to number seven?"
+20945,105,29,156000,Lisa Simpson,Lisa's Classroom,"Sorry, Ralph. That would defeat the purpose of testing as a means of student evaluation."
+20946,105,30,162000,Ralph Wiggum,Lisa's Classroom,My cat's name is Mittens.
+20947,105,31,163000,Miss Hoover,Lisa's Classroom,"Threee, twoo, onne and that's ""pencils- down."""
+20949,105,33,168000,Miss Hoover,Lisa's Classroom,"Now, here's an oral extra credit question: What was Christopher Columbus actually looking for when he discovered America?"
+20950,105,34,175000,Lisa Simpson,Lisa's Classroom,Ooh! Ooh!
+20951,105,35,177000,Miss Hoover,Lisa's Classroom,Anyone besides Lisa for a change?
+20952,105,36,180000,Ralph Wiggum,Lisa's Classroom,Oh! Eh! Eh!
+20953,105,37,180000,Miss Hoover,Lisa's Classroom,"Ralph, this better not be about your cat."
+20954,105,38,184000,Miss Hoover,Lisa's Classroom,"Oh, aLl right, Li..."
+20955,105,39,185000,Allison,Lisa's Classroom,Columbus was looking for a passage to India.
+20956,105,40,187000,Miss Hoover,Lisa's Classroom,"Correct, Allison! And on your very first day in our class!"
+20957,105,41,191000,Allison,Lisa's Classroom,"And during a subsequent voyage, Columbus found what is now the continent of South America."
+20958,105,42,195000,Miss Hoover,Lisa's Classroom,Yow-wee.
+20959,105,43,196000,Lisa Simpson,Lisa's Classroom,I never made Miss Hoover yow-wee.
+20961,105,45,196000,Lisa Simpson,Springfield Elementary School Yard,"Hi, Allison? I'm Lisa Simpson. Oh, it's great to finally meet someone who converses above the normal eight-year-old-level."
+20962,105,46,208000,Allison,Springfield Elementary School Yard,"Actually, I'm seven. I was just skipped ahead because I was getting bored with the first grade."
+20963,105,47,213000,Lisa Simpson,Springfield Elementary School Yard,"You're younger than me, too?"
+20964,105,48,220000,Allison,Springfield Elementary School Yard,Are you hyperventilating?
+20965,105,49,221000,Lisa Simpson,Springfield Elementary School Yard,"No. I just like to smell my lunch... Gee, I never met anyone who skipped a grade before."
+20966,105,50,227000,Allison,Springfield Elementary School Yard,I'm surprised you haven't been skipped. You're obviously smart enough.
+20967,105,51,230000,Lisa Simpson,Springfield Elementary School Yard,"Well, I'm sure I could have, but I'd hate to leave behind all my wonderful friends."
+20968,105,52,236000,Girl #1,Springfield Elementary School Yard,"Out of the way, brain queen."
+20969,105,53,238000,Lisa Simpson,Springfield Elementary School Yard,"Uh! Hey, Sara! Well, I gotta go. I have to practice for band auditions."
+20970,105,54,245000,Allison,Springfield Elementary School Yard,"Me, too! Hey, what instrument do you play?"
+20971,105,55,247000,Lisa Simpson,Springfield Elementary School Yard,The sax.
+20972,105,56,248000,Allison,Springfield Elementary School Yard,Me too!
+20973,105,57,249000,Lisa Simpson,Springfield Elementary School Yard,I'm going for first chair this year.
+20974,105,58,251000,Allison,Springfield Elementary School Yard,"Me, too!"
+20975,105,59,252000,Lisa Simpson,Springfield Elementary School Yard,"Wow, with so much in common, I'm sure we'll be the best of friends."
+20976,105,60,256000,Allison,Springfield Elementary School Yard,"Me, too."
+20977,105,61,257000,Lisa Simpson,Springfield Elementary School Yard,"Me, too."
+20979,105,63,262000,Bart Simpson,Homer's Car,Hurry up and finish eating!
+20980,105,64,263000,Homer Simpson,Homer's Car,"You're steerin' fine, boy... Hard to the right!"
+20981,105,65,266000,Bart Simpson,Homer's Car,Oh!
+20982,105,66,266000,Homer Simpson,Homer's Car,Hard to the left!
+20983,105,67,267000,Bart Simpson,Homer's Car,Whoa!
+20984,105,68,267000,Homer Simpson,Homer's Car,Cat!... Deer!... Old Man!
+20986,105,70,270000,Homer Simpson,Homer's Car,Jackknifed sugar truck. Sugar?
+20987,105,71,278000,Homer Simpson,Homer's Car,"Don't worry, buddy. Here's a quarter. Call for help at the nearest phone... I'll keep an eye on things here."
+20988,105,72,282000,Hans Moleman,Homer's Car,If only this sugar were as sweet as you sir.
+20989,105,73,286000,Bart Simpson,Homer's Car,"Homer, that was downright decent of you."
+20990,105,74,288000,Homer Simpson,Homer's Car,"We hit the jackpot, here! White gold! Texas tea... sweetener."
+20991,105,75,297000,Bart Simpson,Homer's Car,"Dad, isn't this stealing?"
+20992,105,76,299000,Homer Simpson,Homer's Car,"Read your town charter, boy. ""If food stuffs should touch the ground, said food stuffs shall be turned over to the village idiot."" Since I don't see him around, start shoveling."
+20995,105,79,314000,Lisa Simpson,Simpson Living Room,Mom.
+20996,105,80,315000,Marge Simpson,Simpson Living Room,What! What?
+20997,105,81,316000,Lisa Simpson,Simpson Living Room,Why am I still rotting away in the second grade instead of being skipped ahead?
+20998,105,82,320000,Marge Simpson,Simpson Living Room,"I don't know, honey. I guess that's the school's decision to make."
+20999,105,83,323000,Lisa Simpson,Simpson Living Room,"Well, did you ever talk to anyone at the school? Make a few calls on my behalf? Maybe you could've been ""nicer"" to Principal Skinner, if you know what I mean."
+21000,105,84,330000,Marge Simpson,Simpson Living Room,Lisa! I am nice.
+21002,105,86,335000,Marge Simpson,Simpson Kitchen,"Homer, I really appreciate you making dinner, but this food tastes a little strange."
+21003,105,87,340000,Lisa Simpson,Simpson Kitchen,It hurts my teeth.
+21004,105,88,341000,Homer Simpson,Simpson Kitchen,"That's because I've loaded it with sugar!!... Marge, our ship has come in! I found five hundred pounds of sugar -- in the forest -- that I'm gonna sell directly to the consumer. And all for a low, low price of one dollar per pound."
+21005,105,89,355000,Marge Simpson,Simpson Kitchen,But the grocery store sells sugar for thirty-five cents a pound.
+21006,105,90,358000,Lisa Simpson,Simpson Kitchen,And it doesn't have nails and broken glass in it...
+21007,105,91,360000,Homer Simpson,Simpson Kitchen,"Those are prizes. Ooo, a blasting cap!"
+21009,105,93,371000,Dewey Largo,Springfield Elementary School Band Room,"It's your turn, Jimbo."
+21010,105,94,374000,Dewey Largo,Springfield Elementary School Band Room,"Hm, someone's been practicing over the summer. Welcome aboard!"
+21011,105,95,379000,Jimbo Jones,Springfield Elementary School Band Room,Yes!
+21012,105,96,380000,Martin Prince,Springfield Elementary School Band Room,"Ow, my lute."
+21013,105,97,383000,Dewey Largo,Springfield Elementary School Band Room,"Um, hum, Lisa Simpson, trying for first chair saxophone."
+21014,105,98,395000,Dewey Largo,Springfield Elementary School Band Room,"Hm, very nice. Now, Allison Taylor, also trying for first chair saxophone."
+21015,105,99,409000,Dewey Largo,Springfield Elementary School Band Room,"Oh ho ho! This is a very tough decision, girls. You're both very good."
+21016,105,100,422000,Dewey Largo,Springfield Elementary School Band Room,"Well, I guess that clinches it..."
+21018,105,102,451000,Dewey Largo,Music Class,"Oh, that was a close one, Lisa, but you made it!"
+21019,105,103,455000,Lisa Simpson,Music Class,I won first chair?
+21020,105,104,456000,Dewey Largo,Music Class,"No, you regained consciousness... Allison got first chair."
+21021,105,105,459000,Lisa Simpson,Music Class,What's happening... Oh... it was just a dream.
+21022,105,106,468000,Dewey Largo,Music Class,"Oh, that was a close one, Lisa, but you made it!"
+21023,105,107,471000,Lisa Simpson,Music Class,I won first chair?
+21024,105,108,473000,Dewey Largo,Music Class,"No, you regained consciousness... Allison got first chair. And believe me, this is not a dream."
+21028,105,111,484000,Lisa Simpson,Simpson Kitchen,"I need help, Mom. There's another girl at school who's smarter, younger, and a better sax player than me. Oh I feel so average."
+21029,105,112,490000,Marge Simpson,Simpson Kitchen,"Well, you'll always be number one to me..."
+21030,105,113,493000,Bart Simpson,Simpson Kitchen,Hell-o. First born within earshot.
+21031,105,114,497000,Marge Simpson,Simpson Kitchen,"Uh... I meant, my number one girl."
+21032,105,115,501000,Marge Simpson,Simpson Kitchen,"Oh, for Chri..."
+21033,105,116,503000,Marge Simpson,Simpson Kitchen,"Honey, if you get too competitive you'll never be happy. No matter how good you are there's always gonna be someone better than you. I always thought I had the tallest hair. But that trip to Graceland really opened my eyes."
+21034,105,117,515000,Lisa Simpson,Simpson Kitchen,But she's better than me at everything that makes me special.
+21035,105,118,518000,Marge Simpson,Simpson Kitchen,"Believe me, honey. She's more scared of you than you are of her."
+21036,105,119,522000,Lisa Simpson,Simpson Kitchen,"You're thinking of bears, Mom."
+21038,105,121,526000,Homer Simpson,Skinner Home,Sugar Man!!
+21039,105,122,530000,Seymour Skinner,Skinner Home,"Door to door sugar? What a marvelous idea! What's that, mother? I'm just talking to the sugar man. Mother, I'm a big boy. I can do as I wish. Excuse me."
+21040,105,123,544000,Seymour Skinner,Skinner Home,"Thanks a lot, Simpson! Now I'm grounded!"
+21042,105,125,548000,Ralph Wiggum,Lisa's Classroom,"Hey, Allison, what's the answer to number nine?"
+21043,105,126,550000,Allison,Lisa's Classroom,"I can't tell you, Ralph!"
+21044,105,127,552000,Lisa Simpson,Lisa's Classroom,"I can't tell you either, Ralph."
+21045,105,128,554000,Ralph Wiggum,Lisa's Classroom,Leave me alone.
+21047,105,130,556000,Girls,Springfield Elementary School Yard,"""Brainiac,"" ""Nerd,"" ""You're such a geek-zoid,"" etc."
+21048,105,131,559000,Allison,Springfield Elementary School Yard,Leave me alone.
+21049,105,132,563000,Lisa Simpson,Springfield Elementary School Yard,"Ah, that used to be my face in the mud..."
+21050,105,133,567000,Bart Simpson,Springfield Elementary School Yard,"I can't stand to see you so miserable, Lis, unless it's from a rubber spider down your dress. Hmmm. That gives me an idea."
+21051,105,134,575000,Bart Simpson,Springfield Elementary School Yard,Note for later. Put rubber spider down Lisa's dress.
+21053,105,136,586000,Bart Simpson,Springfield Elementary School Yard,"Hey, I know... How about if I dig up some dirt on Allison? Remember how I got Milhouse's picture on America's Most Wanted?"
+21054,105,137,594000,Fbi #1,Springfield Elementary School Yard,There he is on the monkey bars.
+21055,105,138,595000,Fbi #2,Springfield Elementary School Yard,Try to take him alive.
+21027,105,139,598000,Milhouse Van Houten,Springfield Elementary School Yard,"Oh no, not again."
+21056,105,140,602000,Lisa Simpson,Springfield Elementary School Yard,"I appreciate the offer, but it goes against every moral fiber in my body."
+21057,105,141,606000,Bart Simpson,Springfield Elementary School Yard,"Suit yourself. But if you change your mind, here's my card."
+21058,105,142,609000,Lisa Simpson,Springfield Elementary School Yard,I don't need a card. You live in the room next to me.
+21059,105,143,611000,Bart Simpson,Springfield Elementary School Yard,Note: Next year order fewer cards.
+21061,105,145,614000,Homer Simpson,Simpson Kitchen,And you didn't think I'd make any money. I found a dollar while I was waiting for the bus.
+21062,105,146,619000,Marge Simpson,Simpson Kitchen,"While you were out ""earning"" that dollar, you lost forty dollars by not going to work. The plant called and said if you don't come in tomorrow, don't bother coming in Monday."
+21063,105,147,628000,Homer Simpson,Simpson Kitchen,Woo hoo! A four day weekend!
+21065,105,149,636000,Lisa Simpson,Lisa's Bedroom,"Hey, I am above average! So what if Allison's ahead of me? There's no shame in being second."
+21066,105,150,643000,Announcer,Lisa's Bedroom,"And now, Avis Rent-A-Car is proud to present the second best band in America. Will you welcome Garfunkel, Messina, Oates, and Lisa, singing their number two hit, ""Born To Runner Up."""
+21067,105,151,649000,Lisa Simpson,Lisa's Bedroom,Why would they come to our concert just to boo us?
+21068,105,152,665000,Bart Simpson,Lisa's Bedroom,"Lis, I did some checkin' on this Allison character and I know it's against all your moral fibers..."
+21069,105,153,670000,Lisa Simpson,Lisa's Bedroom,"Give it to me! Hey wait, there's nothing bad here."
+21070,105,154,674000,Bart Simpson,Lisa's Bedroom,"Yep, she's clean as a bean. But, I did tip off the Feds as to the whereabouts of our good friend, Milhouse."
+21072,105,156,682000,Milhouse Van Houten,DRAINAGE TUNNEL,"I'm telling you, I didn't do anything."
+21073,105,157,685000,Agent,DRAINAGE TUNNEL,I don't care.
+21074,105,158,693000,Milhouse Van Houten,DRAINAGE TUNNEL,My glasses!
+21075,105,159,697000,Lisa Simpson,DRAINAGE TUNNEL,"I've got to stop being so petty. I should be Allison's friend, not her competitor. I mean, she is a wonderful person."
+21076,105,160,709000,Bart Simpson,DRAINAGE TUNNEL,"Way to go, Lis. I mean, why compete with someone who's just gonna kick your butt anyway?"
+21077,105,161,714000,Lisa Simpson,DRAINAGE TUNNEL,I prefer my phrasing.
+21079,105,163,718000,Allison,Allison's Living Room,"It's great of you to come over, Lisa. I really want us to be friends."
+21080,105,164,722000,Lisa Simpson,Allison's Living Room,You're a wonderful person.
+21082,105,165,724000,Professor Taylor,Allison's Living Room,"Hi, Lisa. I'm Allison's father, Professor Taylor. I've heard great things about you."
+21083,105,166,728000,Lisa Simpson,Allison's Living Room,Oh really? I...
+21084,105,167,730000,Professor Taylor,Allison's Living Room,Don't be modest. I'm glad we have someone who can join us in our anagram games.
+21085,105,168,734000,Allison,Allison's Living Room,We take proper names and rearrange the letters to form a description of that person.
+21086,105,169,738000,Professor Taylor,Allison's Living Room,"Like, oh, I dunno, Alec Guiness."
+21087,105,170,743000,Allison,Allison's Living Room,Genuine class.
+21088,105,171,744000,Professor Taylor,Allison's Living Room,"Very good. All right, Lisa. Jeremy Irons."
+21089,105,172,753000,Lisa Simpson,Allison's Living Room,Jeremy's Iron.
+21090,105,173,756000,Professor Taylor,Allison's Living Room,"Uh huh. Well, that's very good for a first try. You know, I have a ball. Perhaps you'd like to bounce it."
+21092,105,175,774000,Lisa Simpson,Allison's Playroom,What's this?
+21093,105,176,775000,Allison,Allison's Playroom,"Oh, it's for the school diorama competition."
+21094,105,177,777000,Lisa Simpson,Allison's Playroom,You're finished already? But the competition isn't for weeks.
+21095,105,178,780000,Allison,Allison's Playroom,"Lisa, we're talking dioramas, who could wait? I chose the ""The Telltale Heart,"" by Edgar Allan Poe. See, this is the bedroom where the old man was murdered. And he's buried here, under the floorboards. And look, I used an old metronome to simulate the heartbeat that drove the killer insane. Neat, huh?"
+21096,105,179,803000,Lisa Simpson,Allison's Playroom,It's great. It's really great.
+21097,105,180,812000,Professor Taylor,Allison's Playroom,"Oh! Got away from you, huh? Well you keep at it."
+21099,105,182,826000,Homer Simpson,Simpson Backyard,Must... protect... sugar... Thieves everywhere... The strong must protect the sweet... the sweet
+21100,105,183,838000,Marge Simpson,Simpson Backyard,Homer?
+21101,105,184,839000,Homer Simpson,Simpson Backyard,"In America, first you get the sugar, then you get the power, then you get the women."
+21102,105,185,849000,Marge Simpson,Simpson Backyard,"Homer, Homer!"
+21103,105,186,851000,Homer Simpson,Simpson Backyard,"Huh, wha?"
+21104,105,187,852000,Marge Simpson,Simpson Backyard,I want you to forget about guarding this stupid sugar. You're being completely paranoid.
+21105,105,188,857000,Homer Simpson,Simpson Backyard,"Oh am I, Am I really?"
+21106,105,189,860000,Homer Simpson,Simpson Backyard,A-ha!
+21107,105,190,861000,Englishman,Simpson Backyard,Hello.
+21108,105,191,863000,Homer Simpson,Simpson Backyard,"All right, pal. Where'd you get the sugar for that tea?"
+21109,105,192,865000,Englishman,Simpson Backyard,I nicked it when you let your guard down for that split second. And I'd do it again.
+21081,105,193,872000,Englishman,Simpson Backyard,Goodbye.
+20873,105,194,873000,Homer Simpson,Simpson Backyard,"You see, Marge? You see?"
+21110,105,195,875000,Marge Simpson,Simpson Backyard,"Homer, when are you gonna give up this crazy sugar scheme?"
+21111,105,196,877000,Homer Simpson,Simpson Backyard,"Never! Never, Marge! I can't live the buttoned-down life like you. I want it all: the terrifying lows, the dizzying highs, the creamy middles. Sure I might offend a few of the bluenoses with my cocky-stride and musky odors. Oh, I'll never be the darling of the so called ""City Fathers"" who cluck their tongues, stroke their beards, and talk about what's to be done with this Homer Simpson."
+21112,105,197,888000,Marge Simpson,Simpson Backyard,"Look, just get rid of the sugar, okay?"
+21113,105,198,908000,Homer Simpson,Simpson Backyard,No!
+21114,105,199,916000,Homer Simpson,Simpson Backyard,Hey! Get off my sugar! Bad bees! Bad!
+21115,105,200,919000,Homer Simpson,Simpson Backyard,"Ow! Ow! Oh, they're defending themselves somehow!"
+21117,105,202,925000,Lisa Simpson,Lisa's Bedroom,"Look, Bart. It almost killed me, but I hand-crafted all seventy-five characters from Oliver Twist. And now the coup de grace - a bitter snowstorm."
+21118,105,203,942000,Bart Simpson,Lisa's Bedroom,Uh oh!
+21119,105,204,944000,Lisa Simpson,Lisa's Bedroom,Is it okay?!
+21120,105,205,946000,Bart Simpson,Lisa's Bedroom,"Well, the important thing is that we survived."
+21121,105,206,950000,Lisa Simpson,Lisa's Bedroom,Oh who am I kidding? There's no way I'm ever gonna beat Allison!
+21122,105,207,955000,Bart Simpson,Lisa's Bedroom,"Well sure there is... ... but it involves being a bit underhanded, a bit devious, a bit, as the French say, ""Bartesque."""
+21123,105,208,966000,Lisa Simpson,Lisa's Bedroom,I'll do whatever it takes.
+21124,105,209,968000,Bart Simpson,Lisa's Bedroom,"Then welcome to the nether regions of the soul. Now here's what we do. Tomorrow morning when Allison comes out of her house, we spray her with the hose, soaking her from head to toe, leaving us relatively dry."
+21125,105,210,984000,Lisa Simpson,Lisa's Bedroom,Relatively?
+21126,105,211,985000,Bart Simpson,Lisa's Bedroom,"Well, there's bound to be some splashback."
+21127,105,212,987000,Lisa Simpson,Lisa's Bedroom,"Bart, her being wet won't help me win the competition."
+21128,105,213,990000,Bart Simpson,Lisa's Bedroom,"Well, we could just sabotage her diorama, humiliating her in front of the students and faculty."
+21129,105,214,995000,Lisa Simpson,Lisa's Bedroom,Perfect!
+21130,105,215,996000,Bart Simpson,Lisa's Bedroom,Leaving her primed for the most traumatic hose-soaking of her life.
+21131,105,216,1000000,Lisa Simpson,Lisa's Bedroom,Enough with the hose!
+21133,105,218,1004000,Beekeeper #1,Honey Factory,Sure is quiet in here today.
+21134,105,219,1007000,Beekeeper #2,Honey Factory,"Yes, a little too quiet, if you know what I mean."
+21135,105,220,1011000,Beekeeper #1,Honey Factory,"Hm, I'm afraid I don't."
+21136,105,221,1012000,Beekeeper #2,Honey Factory,"You see, bees usually make a lot of noise. No noise suggests no bees."
+21137,105,222,1019000,Beekeeper #1,Honey Factory,"Hm, I understand now."
+21138,105,223,1021000,Beekeeper #1,Honey Factory,"Oh look, there goes one!"
+21139,105,224,1022000,Beekeeper #2,Honey Factory,To the Beemobile!
+21140,105,225,1023000,Beekeeper #1,Honey Factory,You mean your chevy?
+21141,105,226,1025000,Beekeeper #2,Honey Factory,Yes.
+21143,105,228,1027000,Beekeeper #1,Simpson Backyard,"Ah, very clever, Simpson. Luring our bees to your sugar pile and then selling them back to us at an inflated price."
+21144,105,229,1033000,Homer Simpson,Simpson Backyard,"Bees are on the what, now?"
+21145,105,230,1034000,Beekeeper #2,Simpson Backyard,"Simpson, you diobolical... we're willing to pay you two thousand dollars for the swarm."
+21146,105,231,1041000,Homer Simpson,Simpson Backyard,Deal!
+21147,105,232,1044000,Beekeeper #1,Simpson Backyard,"Oh, wait a minute. The bees are leaving."
+21148,105,233,1048000,Homer Simpson,Simpson Backyard,Nooooooo! My sugar is melting! Melting! Oh what a world!
+21150,105,235,1056000,Homer Simpson,Simpson Backyard,Oh sugar!
+21151,105,236,1060000,Marge Simpson,Simpson Backyard,"I'm sorry, Homie."
+21152,105,237,1062000,Homer Simpson,Simpson Backyard,"It's okay, Marge. I've learned my lesson. A mountain of sugar is too much for one man. It's clear now why God portions it out in those tiny packets and why he lives on a plantation in Hawaii."
+21154,105,239,1076000,Seymour Skinner,Springfield Elementary School Auditorium,"Ah, Diorama-rama. My favorite school event next to Hearing Test Thursday."
+21155,105,240,1076000,Miss Hoover,Springfield Elementary School Auditorium,"""The Grapes of Wrath""? I don't get it."
+21156,105,241,1085000,Nelson Muntz,Springfield Elementary School Auditorium,Here's the grapes. And here's the wrath!!
+21157,105,242,1090000,Nelson Muntz,Springfield Elementary School Auditorium,"Haw, haw!"
+21158,105,243,1091000,Seymour Skinner,Springfield Elementary School Auditorium,"Yes, yes. Very good wrath. Ah, let's see, our foreign exchange student, Uter, has chosen ""Charlie and the Chocolate Factory"". Eh... But this is just an empty box!"
+21159,105,244,1104000,Üter,Springfield Elementary School Auditorium,I begged you to look at mine first! I begged you!
+21160,105,245,1109000,Bart Simpson,Springfield Elementary School Auditorium,"Lisa, here is as the French say, ""le fake diorama."" I'll create a diversion and you make the switch."
+21161,105,246,1117000,Bart Simpson,Springfield Elementary School Auditorium,"Hey, everybody, whoa, look at me. I'm over here. Turn this way right now."
+21162,105,247,1122000,Sherry,Springfield Elementary School Auditorium,"Hey, it's Bart!"
+21163,105,248,1124000,Milhouse Van Houten,Springfield Elementary School Auditorium,And he's doin' stuff.
+21164,105,249,1132000,Various Kids,Springfield Elementary School Auditorium,Fascinating! Wow! Can't take my eyes off him...etc.
+21165,105,250,1132000,Seymour Skinner,Springfield Elementary School Auditorium,"Bart, stop creating a diversion and get out of here!"
+21167,105,252,1132000,Miss Hoover,Springfield Elementary School Auditorium,"Okay, our next entry is, ""The Telltale Heart"" from Allison Taylor."
+21168,105,253,1143000,Seymour Skinner,Springfield Elementary School Auditorium,"Mm, I can't wait to see this. Be ready with the ribbon."
+21169,105,254,1147000,Children,Springfield Elementary School Auditorium,Eew!
+21170,105,255,1148000,Miss Hoover,Springfield Elementary School Auditorium,What is it?
+21171,105,256,1150000,Bart Simpson,Springfield Elementary School Auditorium,It's a cow's heart. They're trying to make a monkey outta you!
+21172,105,257,1156000,Seymour Skinner,Springfield Elementary School Auditorium,"Allison, is this supposed to be some kind of joke?!"
+21173,105,258,1161000,Allison,Springfield Elementary School Auditorium,I didn't do that! I made a different one!
+21174,105,259,1164000,Seymour Skinner,Springfield Elementary School Auditorium,"Oh is that so, young lady? Well, where is this phantom diorama?"
+21175,105,260,1167000,Allison,Springfield Elementary School Auditorium,"Well, I don't know."
+21176,105,261,1177000,Seymour Skinner,Springfield Elementary School Auditorium,"Ah, at least have the guts to take the blame, girl. You're only compounding your folly by lying about it."
+21177,105,262,1181000,Bart Simpson,Springfield Elementary School Auditorium,Right on!
+21178,105,263,1182000,Seymour Skinner,Springfield Elementary School Auditorium,"Young lady, cow hearts belong in a butcher's window, not the classroom. Well, maybe in an older student's biology classroom, but that's none of my business. Elementary school is where I wound up and it's too late to do anything about that. Frankly, I'm starting to regret skipping you ahead."
+21180,105,265,1212000,Lisa Simpson,Springfield Elementary School Auditorium,"It's the beating of that hideous heart! I mean, I think I hear something."
+21181,105,266,1221000,Lisa Simpson,Springfield Elementary School Auditorium,"Why, here's Allison's real diorama. It got misplaced, ...or so it would seem."
+21182,105,267,1227000,Seymour Skinner,Springfield Elementary School Auditorium,"Oh, well, that changes everything. Let's have a look. Get the ribbon ready."
+21183,105,268,1233000,Seymour Skinner,Springfield Elementary School Auditorium,"Oh. A little sterile... no real insight. What do you think, Miss Hoover?"
+21184,105,269,1239000,Miss Hoover,Springfield Elementary School Auditorium,Eh.
+21185,105,270,1242000,Seymour Skinner,Springfield Elementary School Auditorium,"This has been a very disappointing day. All right, on to Lisa Simpson."
+21186,105,271,1246000,Bart Simpson,Springfield Elementary School Auditorium,"You're a shoo-in now, Lis."
+21187,105,272,1248000,Lisa Simpson,Springfield Elementary School Auditorium,"After the way I've behaved, I don't deserve to win."
+21188,105,273,1251000,Seymour Skinner,Springfield Elementary School Auditorium,"Well, this doesn't deserve to win."
+21189,105,274,1252000,Lisa Simpson,Springfield Elementary School Auditorium,What?
+21191,105,275,1253000,Seymour Skinner,Springfield Elementary School Auditorium,"Oh noW, we're into the dregs. Here's Ralph Wiggum's entry."
+21192,105,276,1257000,Seymour Skinner,Springfield Elementary School Auditorium,"Prepackaged ""Star Wars"" characters still in their display box?! Are those the limited edition action figures?"
+21193,105,277,1263000,Ralph Wiggum,Springfield Elementary School Auditorium,What's a diorama?
+21194,105,278,1264000,Seymour Skinner,Springfield Elementary School Auditorium,"Why, it's Luke, and Obie-Wan... and my favorite, Chewie. They're all here! What do you think?"
+21195,105,279,1270000,Miss Hoover,Springfield Elementary School Auditorium,I think it's lunchtime.
+21196,105,280,1271000,Seymour Skinner,Springfield Elementary School Auditorium,We have a winner!
+21198,105,282,1279000,Lisa Simpson,Springfield Elementary School,"I'm really sorry about what I did, Allison. It's no shame being second to you."
+21199,105,283,1285000,Allison,Springfield Elementary School,"Thank you, Lisa. You know, I'm actually kinda glad I lost. Now I know losing isn't the end of the world. Hey, you still think we can be friends?"
+21200,105,284,1294000,Lisa Simpson,Springfield Elementary School,Only if we're the best.
+21201,105,285,1296000,Ralph Wiggum,Springfield Elementary School,"I beat the smart kids, I beat the smart kids..."
+21202,105,286,1301000,Ralph Wiggum,Springfield Elementary School,I bent my Wookies!
+21203,105,287,1303000,Lisa Simpson,Springfield Elementary School,"Hey, Ralph. Want to come with me and Allison to play anagrams?"
+21204,105,288,1306000,Allison,Springfield Elementary School,We take proper names and rearrange the letters to form a description of that person.
+21205,105,289,1310000,Ralph Wiggum,Springfield Elementary School,My cat's breath smells like cat food.

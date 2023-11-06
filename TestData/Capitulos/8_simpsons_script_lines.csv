@@ -1,0 +1,274 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+150894,8,1,93000,Homer Simpson,Streets,"You know, Bart, when I was your age, I pulled a few boners, but I think you'll find that people are pretty decent if you give them half... Oh, oh."
+150895,8,2,101000,C. Montgomery Burns,Streets,"Look, there it is! The head!"
+150896,8,3,103000,Krusty the Clown,Streets,Kill him!
+150899,8,6,124000,Homer Simpson,Park,"They've got us cornered, boy. We'll never get away. Give me the head."
+150900,8,7,127000,Bart Simpson,Park,"No, dad. This whole thing was my fault. You run along."
+150902,8,8,130000,Homer Simpson,Park,"Son, we're in this mess together. No matter how tempting it might be, I can't let my only boy get ripped limb from limb by a blood-thirsty mob."
+150903,8,9,138000,Bart Simpson,Park,"Aw, dad."
+150904,8,10,139000,Homer Simpson,Park,"We'll die together, like a father and son should."
+150905,8,11,142000,Rev. Timothy Lovejoy,Park,"Look, now we've got 'em."
+150906,8,12,143000,Barney Gumble,Park,"Hey, it's Homer Simpson."
+150907,8,13,145000,Seymour Skinner,Park,"And his kid, Bart."
+150908,8,14,153000,Bart Simpson,Park,Murderous mob. I beg you to spare our lives. At least until you've heard the story of how we ended up with the head of our beloved town founder.
+150909,8,15,162000,Barney Gumble,Park,How long will this story take?
+150910,8,16,164000,Bart Simpson,Park,Ah... about twenty three minutes and five seconds.
+150911,8,17,170000,Krusty the Clown,Park,"Well, all right, go ahead."
+150912,8,18,172000,Bart Simpson,Park,Okay. It all started Sunday morning...
+150914,8,20,175000,Marge Simpson,Simpson Home,"Kids, we're late for church. Get your butts down here right now."
+150915,8,21,186000,Lisa Simpson,Simpson Home,"Ready for inspection, Mom."
+150916,8,22,187000,Marge Simpson,Simpson Home,"Very nice, Maggie. And Lisa you look lovely. Bart, assume the position."
+150917,8,23,198000,Marge Simpson,Simpson Home,"Oh, Bart. Now where's your father?"
+150919,8,25,204000,Homer Simpson,LIVING ROOM,Get him!
+150920,8,26,205000,Tv Announcer #1,LIVING ROOM,"Phillips has broken free. He's at the 45, 50, the 40, the 30, the 20, the 10."
+150921,8,27,208000,Homer Simpson,LIVING ROOM,Oh no.
+150922,8,28,208000,Tv Announcer #1,LIVING ROOM,Touchdown.
+150923,8,29,209000,Homer Simpson,LIVING ROOM,No!
+150924,8,30,209000,Announcer,LIVING ROOM,A 64 yard run. We've got an upset in the making!
+150925,8,31,211000,Homer Simpson,LIVING ROOM,No we don't. Try being objective for once in your... oooh!
+150926,8,32,214000,Marge Simpson,LIVING ROOM,"Let's go, Homer."
+150927,8,33,216000,Homer Simpson,LIVING ROOM,"But you don't understand, Marge. I have fifty bucks riding on this game."
+150928,8,34,220000,Announcer #1,LIVING ROOM,"Don't forget, big double header action this Sunday, beginning at 12:30 eastern. Spend the whole day with us."
+150929,8,35,220000,Marge Simpson,LIVING ROOM,"Oh Homer, you promised me..."
+150930,8,36,223000,Homer Simpson,LIVING ROOM,"This isn't gambling, Marge. It's a lead pipe cinch."
+150931,8,37,228000,Tv Announcer #1,LIVING ROOM,They're kicking off. Wolodarsky takes it to the five and -- Oh my! He fumbles.
+150932,8,38,230000,Homer Simpson,LIVING ROOM,Oh no!
+150933,8,39,232000,Tv Announcer #1,LIVING ROOM,It's recovered in the end zone. Another touchdown!
+150901,8,40,238000,Homer Simpson,LIVING ROOM,No!
+150934,8,41,238000,Tv Announcer #1,LIVING ROOM,This is going to send the whole standings topsy turvy.
+150936,8,43,238000,Marge Simpson,Car,Why should I feel like a traffic cop every Sunday morning when I'm just trying to get a little goodness into the family.
+150937,8,44,245000,Homer Simpson,Car,Where is it. The game... where is it?
+150940,8,47,247000,Homer Simpson,Car,Ah!
+150941,8,48,248000,Radio Announcer #1,Car,All right Kogen's got Wolodarsky open in the end zone. He throws it.
+150942,8,49,252000,Homer Simpson,Car,Catch it! catch it!
+150943,8,50,253000,Radio Announcer #1,Car,It's complete. Touchdown!
+150944,8,51,254000,Homer Simpson,Car,All right!
+150945,8,52,259000,Radio Announcer #1,Car,"Oh Doctor, we got a barn burner here."
+150946,8,53,259000,Radio Announcer #1,Car,This could be the most remarkable comeback since Lazarus rose from the dead.
+150947,8,54,265000,Homer Simpson,Car,Lazar who?
+150949,8,56,266000,Marge Simpson,First Church of Springfield,"C'mon everybody, we're late. Bart, I want you to promise me you'll pay attention in Sunday school. Bart? Bart? BART!!"
+150950,8,57,276000,Bart Simpson,First Church of Springfield,Whoa! Are you talking to me?
+150951,8,58,278000,Marge Simpson,First Church of Springfield,What's this? A personal stereo? Were you going to listen to rock music in Sunday school?
+150952,8,59,286000,Bart Simpson,First Church of Springfield,Maybe.
+150953,8,60,288000,Marge Simpson,First Church of Springfield,"Can you believe this, Homer? ... Homer? ... Homer?"
+150954,8,61,291000,Homer Simpson,First Church of Springfield,"Oh no, no. We stink, we stink!"
+150955,8,62,294000,Marge Simpson,First Church of Springfield,Homer! Were you planning on sitting in the car till the game was over?
+150956,8,63,299000,Homer Simpson,First Church of Springfield,Maybe.
+150957,8,64,300000,Marge Simpson,First Church of Springfield,It's because of your irreverent attitude that Bart thinks he can sneak headphones into Sunday school.
+150958,8,65,305000,Marge Simpson,First Church of Springfield,"Now, move it!"
+150959,8,66,307000,Radio Announcer #1,First Church of Springfield,"Now, here's the kick-off. Wolodarsky takes it to the five -- Oh, my! He fumbles."
+150961,8,68,311000,JANEY,Sunday School Classroom,"Will my dog, Pepper, be there?"
+150962,8,69,313000,Teacher,Sunday School Classroom,I'm sorry but the answer is no.
+150963,8,70,316000,JANEY,Sunday School Classroom,Why not?
+150964,8,71,317000,Teacher,Sunday School Classroom,Because heaven is for people.
+150965,8,72,318000,Lisa Simpson,Sunday School Classroom,"What about my cat, Snowball?"
+150966,8,73,320000,Teacher,Sunday School Classroom,I'm sorry but the answer is no.
+150968,8,74,322000,Milhouse Van Houten,Sunday School Classroom,Will there be cavemen in heaven?
+150969,8,75,323000,Teacher,Sunday School Classroom,Certainly not.
+150970,8,76,325000,Bart Simpson,Sunday School Classroom,"Uh ma'am, what if you're a really good person but you're in a really, really bad fight and your leg gets gangrene and it has to be amputated; will it be waiting for you in heaven?"
+150971,8,77,334000,Teacher,Sunday School Classroom,"For the last time Bart, yes!"
+150973,8,79,336000,Rev. Timothy Lovejoy,First Church of Springfield,"And now I'd like to begin today's sermon which I have entitled, ""Gambling, the 8th Deadly Sin."" Today is Sunday, the Lord's day and yet, at this very moment, millions of Americans are not in the Lord's house. They're in their own house worshipping a false idol, professional football. Oh Lord..."
+150974,8,80,357000,Radio Announcer #1,First Church of Springfield,"It's a beautiful Sunday. Perfect football weather for this incredible game. And by the way, this game is being brought to you by the good people at Duff Beer. You can't get enough of that wonderful Duff."
+150975,8,81,369000,Radio Announcer #1,First Church of Springfield,"Now, they're lining up for this crucial kick. One final tick of the clock remains. If they win, it will cap an amazing comeback. But it's a 49 yard field goal into the wind."
+150976,8,82,379000,Homer Simpson,First Church of Springfield,"Make it, make it, make it, make it."
+150977,8,83,380000,Radio Announcer #1,First Church of Springfield,"The kick is up. It's got the distance. Holy toledo, it's good!"
+150978,8,84,386000,Homer Simpson,First Church of Springfield,"Oh please, please, please, please, please, please, please, please."
+150979,8,85,386000,Homer Simpson,First Church of Springfield,It's good! It's good! It's good!
+150980,8,86,391000,Homer Simpson,First Church of Springfield,It's good to see you all in church.
+150981,8,87,394000,Rev. Timothy Lovejoy,First Church of Springfield,"Please be seated, Homer."
+150982,8,88,396000,Marge Simpson,First Church of Springfield,"Yeah. Sit down, Homer."
+150984,8,90,399000,Teacher,Sunday School Classroom,"The ventriloquist goes to heaven, but the dummy doesn't."
+150985,8,91,403000,Bart Simpson,Sunday School Classroom,"Oh, oh, oh, me."
+150986,8,92,404000,Teacher,Sunday School Classroom,Bart.
+150987,8,93,406000,Bart Simpson,Sunday School Classroom,What about a robot with a human brain?
+150988,8,94,408000,Teacher,Sunday School Classroom,I don't know. All these questions... Is a little blind faith too much to ask?
+150989,8,95,415000,Teacher,Sunday School Classroom,Don't forget next week... remember to read...
+150991,8,97,418000,Churchgoing Woman,First Church of Springfield,That was very nice father.
+150993,8,98,421000,Rev. Timothy Lovejoy,First Church of Springfield,"I was pleased you enjoyed it. I seem to have struck a cord with you today, Homer."
+150994,8,99,427000,Homer Simpson,First Church of Springfield,What? Oh yeah. You were great.
+150997,8,102,430000,Marge Simpson,Car,"Homer, you embarrassed us in front of the whole congregation, and today's sermon was one you should have really listened to."
+150998,8,103,438000,Homer Simpson,Car,What was it about?
+150999,8,104,439000,Marge Simpson,Car,Gambling.
+151000,8,105,439000,Homer Simpson,Car,"Oh! He didn't by any chance say that under certain circumstances it was all right, did he?"
+151001,8,106,444000,Marge Simpson,Car,"No! Look, I don't want to talk about this anymore in front of the kids. Lisa, Bart, what did you two learn in Sunday school today?"
+151002,8,107,452000,Lisa Simpson,Car,The answers to deep theological questions..
+151003,8,108,454000,Bart Simpson,Car,"Yeah. Among other things, apes can't get into heaven."
+151004,8,109,458000,Homer Simpson,Car,What! Those cute little monkeys? That's terrible. Who told you that?
+151005,8,110,462000,Bart Simpson,Car,Our teacher.
+151006,8,111,463000,Homer Simpson,Car,"I can understand how they wouldn't let in those wild jungle apes, but what about those really smart ones who live among us -- who roller skate and smoke cigars?"
+151007,8,112,472000,Bart Simpson,Car,"Ah, cool, man. Space Mutants 4. Drop me off! Drop me off!"
+151008,8,113,477000,Marge Simpson,Car,"No way, Jose."
+151009,8,114,478000,Homer Simpson,Car,Marge. They're only space mutants.
+151010,8,115,478000,Marge Simpson,Car,"Um mmm. I know what those movies are like. Killing innocent people, eating human flesh. You just get a lot of bad ideas."
+151012,8,117,489000,Bart Simpson,House,"Hey, Dad. Can I have five bucks?"
+151013,8,118,491000,Homer Simpson,House,I hope you're not planning to see a certain movie starring certain space mutants that a certain mother didn't want you to see?
+151014,8,119,499000,Bart Simpson,House,Perish the thought.
+151015,8,120,501000,Homer Simpson,House,"Here you go, son. Share the wealth, that's what I always say."
+151017,8,122,517000,Bart Simpson,Simpson Home,"Da da da da da da de de de Whoa! Ugh, Cowabunga!"
+151019,8,124,523000,Jimbo Jones,Movie Theatre,"Hey, hot dog!"
+151020,8,125,526000,Bart Simpson,Movie Theatre,What?
+151021,8,126,527000,Jimbo Jones,Movie Theatre,"Nice dismount, man."
+151022,8,127,529000,Bart Simpson,Movie Theatre,It didn't hurt.
+151023,8,128,531000,Kearney Zzyzwicz,Movie Theatre,"Oh yeah? Well, do it again."
+151024,8,129,533000,Bart Simpson,Movie Theatre,Nah. I might land on my face and end up lookin' like you.
+151025,8,130,537000,Kearney Zzyzwicz,Movie Theatre,You little punk.
+151026,8,131,538000,Jimbo Jones,Movie Theatre,"Hey man, leave the kid alone. I like him."
+151027,8,132,541000,Bart Simpson,Movie Theatre,You do?
+151028,8,133,542000,Jimbo Jones,Movie Theatre,"Yeah! You're witty. So what's your name, man?"
+151029,8,134,544000,Bart Simpson,Movie Theatre,I'm Bart Simpson.
+151030,8,135,545000,Jimbo Jones,Movie Theatre,This here's KEARNEY and I'm Jimbo.
+151031,8,136,547000,Bart Simpson,Movie Theatre,You don't need an introduction. You're the worst kid in school.
+151032,8,137,550000,Jimbo Jones,Movie Theatre,Thanks.
+151033,8,138,552000,DOLPH,Movie Theatre,Psst. Coast is clear.
+151034,8,139,554000,Bart Simpson,Movie Theatre,You guys are sneakin' in?
+151035,8,140,556000,Kearney Zzyzwicz,Movie Theatre,Yeah. Only saps pay to see movies.
+151036,8,141,559000,Jimbo Jones,Movie Theatre,"Hey Bart, come on."
+151037,8,142,560000,Bart Simpson,Movie Theatre,But sneaking into a movie is practically stealing man.
+151038,8,143,564000,DOLPH,Movie Theatre,Practically?
+151039,8,144,565000,Jimbo Jones,Movie Theatre,It is stealing.
+151040,8,145,566000,Bart Simpson,Movie Theatre,"Well, okay. I just wanted to make sure we weren't deluding ourselves."
+151042,8,147,584000,Girl On Screen,Theatre,"Wait, I think I hear something."
+151043,8,148,586000,Boy On Screen,Theatre,"Come on, loosen up, baby. There's nobody here but you and me."
+151044,8,149,591000,Girl On Screen,Theatre,"No. Stop it, I think I hear something... not human."
+151045,8,150,602000,Boy On Screen,Theatre,Let's get romantic.
+151046,8,151,605000,Girl On Screen,Theatre,"Well, okay."
+151048,8,153,610000,Usher,Theatre,You little sneaks. You're comin' with me.
+151049,8,154,612000,Usher,Theatre,"Next time you little hoodlums try this, I'm calling your parents."
+151050,8,155,616000,Kearney Zzyzwicz,Theatre,"Oh yeah? Well, we don't want to see your crummy movie, anyway."
+151051,8,156,619000,DOLPH,Theatre,Yeah! We'll take our business elsewhere.
+151052,8,157,621000,Jimbo Jones,Theatre,"You know, Bart, I've been kicked out of all four space mutants movies."
+151053,8,158,626000,Bart Simpson,Theatre,"Wow, man!"
+151055,8,160,632000,Bart Simpson,Kwik-E-Mart,"Three jumbo cherry Squishees and one double jumbo original flavor, sir."
+151056,8,161,637000,Clerk,Kwik-E-Mart,"Okay. But, don't you kids take anything. I'm watching you. I've got eyes in the back of my head."
+151057,8,162,645000,Clerk,Kwik-E-Mart,Four fifty-two.
+151058,8,163,646000,Bart Simpson,Kwik-E-Mart,"Don't worry, guys. It's on me. Share the wealth, that's what I always say."
+151059,8,164,651000,Bart Simpson,Kwik-E-Mart,Guys? Guys!
+150992,8,166,655000,Bart Simpson,Street,"Hey, guys, where'd you get all that great stuff?"
+150751,8,167,658000,DOLPH,Street,"Five finger discount, man."
+151060,8,168,660000,Bart Simpson,Street,You ripped it off?
+151061,8,169,661000,Jimbo Jones,Street,"Yeah! Thanks for coverin' for us, man."
+151062,8,170,675000,Jimbo Jones,Street,"Ugh! Go on, Bart."
+151063,8,171,676000,Bart Simpson,Street,But that guy founded Springfield. He built our first hospital out of logs and mud. If it weren't for him all the settlers would have died in the great blizzard of forty eight.
+151064,8,172,686000,Kearney Zzyzwicz,Street,So...?
+151065,8,173,691000,Bart Simpson,Street,So... watch me hit him right between the eyes.
+151066,8,174,697000,Mr. Dandy,Street,"Hey. What are you doing there? Show a little respect, you insolent little thugs."
+151067,8,175,701000,DOLPH,Street,Oooh.
+151068,8,176,702000,Jimbo Jones,Street,We're really scared.
+151069,8,177,704000,Mr. Dandy,Street,"Hey, hey, you! Hey! Hey you!"
+151071,8,179,711000,Kearney Zzyzwicz,Park,"You know, when you look up at clouds in the sky they start lookin' like stuff."
+151072,8,180,717000,DOLPH,Park,"No, they don't."
+151073,8,181,718000,Kearney Zzyzwicz,Park,"Yeah, they do. Like that one over there looks just like a cherry bomb."
+151074,8,182,723000,DOLPH,Park,"Hey, you're right. And look at that one. It looks like a guy with a switchblade stuck in his back."
+151075,8,183,730000,Jimbo Jones,Park,Yeah! That one looks like a school bus going over a cliff in flames with kids inside screaming.
+151076,8,184,736000,Bart Simpson,Park,"That one looks like the statue of our town founder, Jebediah Springfield."
+151077,8,185,740000,DOLPH,Park,Does not.
+151078,8,186,742000,Bart Simpson,Park,"Does too. I mean without the head, of course."
+151079,8,187,745000,DOLPH,Park,"Oh, yeah."
+151080,8,188,746000,Jimbo Jones,Park,I wish someone really would cut his ugly old head off.
+151081,8,189,749000,Bart Simpson,Park,You do?
+151082,8,190,750000,Kearney Zzyzwicz,Park,Yeah. That'd be cool.
+151083,8,191,752000,DOLPH,Park,Sure would cheese everybody off.
+151084,8,192,753000,Bart Simpson,Park,"But guys, come on. Don't you remember history class? Jebediah once killed a bear with his bare hands."
+151085,8,193,760000,DOLPH,Park,Oh. Sorry.
+151086,8,194,762000,Kearney Zzyzwicz,Park,We forgot how much you love Jebediah Springfield.
+151087,8,195,765000,Jimbo Jones,Park,Yeah. He's your boyfriend.
+151088,8,196,768000,Bart Simpson,Park,"C'mon guys, knock it off!"
+151089,8,197,770000,Jimbo Jones,Park,"Beat it, Simpson. Man, I thought you were cool."
+151090,8,198,783000,Jimbo Jones,Park,"Beat it, Simpson. I thought you were cool."
+151091,8,199,790000,Bart Simpson,Park,Ah!
+151094,8,201,795000,Homer Simpson,Simpson Home,"Wow! Look at these bowling balls, Maggie. Can you think of a better way for Daddy to spend his hard won fifty bucks?"
+151096,8,203,806000,Homer Simpson,Simpson Home,"Now I've seen everything. Black marbleized with a liquid center. The ""Stealth Bowler"" -- the pins don't know what hit 'em."
+151097,8,204,811000,Bart Simpson,Simpson Home,"Dad, can I talk to you about something?"
+151098,8,205,816000,Homer Simpson,Simpson Home,"Sure, boy. What's on your mind?"
+151099,8,206,818000,Bart Simpson,Simpson Home,Well... I was wondering... how important is it to be popular?
+151100,8,207,823000,Homer Simpson,Simpson Home,"I'm glad you asked, son. Being popular is the most important thing in the world."
+151101,8,208,828000,Bart Simpson,Simpson Home,So like sometimes you could do stuff that you think is pretty bad so other kids will like you better?
+151102,8,209,833000,Homer Simpson,Simpson Home,"You're not talking about killing anyone, are you?"
+151103,8,210,835000,Bart Simpson,Simpson Home,No.
+151104,8,211,835000,Homer Simpson,Simpson Home,Are you?
+151105,8,212,836000,Bart Simpson,Simpson Home,No.
+151106,8,213,836000,Homer Simpson,Simpson Home,Then run along you little scamp. A boy without mischief is like a bowling ball without a liquid center.
+151111,8,218,904000,Bart Simpson,Various Street Locations,What have I done?
+151113,8,220,917000,Marge Simpson,Simpson Home,"Bart, are you all right?"
+151114,8,221,919000,Bart Simpson,Simpson Home,"Oh yeah. Top of the world, Ma."
+151115,8,222,922000,Marge Simpson,Simpson Home,Well then come down for breakfast.
+151117,8,224,924000,Homer Simpson,KITCHEN,"Oooh. Look at this one. ""The Hammer of Thor. It will send your pins to Valhalla."" Lisa?"
+151118,8,225,933000,Lisa Simpson,KITCHEN,Valhalla is where Vikings go when they die.
+151119,8,226,936000,Homer Simpson,KITCHEN,"Ooooh, that's some ball."
+151120,8,227,937000,Bart Simpson,KITCHEN,"G-o-o-o-d morning, everybody."
+151121,8,228,941000,Radio Announcer #3,KITCHEN,"We interrupt Mambo in the Morning to bring you this special news bulletin. The statue of Jebediah Springfield, our illustrious town founder, was brutally decapitated last night in an act of senseless vandalism. We now go to Police Chief Wiggum at City Hall."
+151126,8,230,959000,Chief Wiggum,Springfield Town Hall,"Well, we have no witnesses, no suspects and no leads. If anyone has any information please dial ""oh"" and ask for the police. That number again, ""oh."""
+151127,8,231,971000,Radio Announcer #3,Springfield Town Hall,Stay tuned to this station for further developments as they break.
+151128,8,232,977000,Bart Simpson,Springfield Town Hall,It's just a statue.
+151129,8,233,979000,Marge Simpson,Springfield Town Hall,It's a statue of the trailblazing founder of our town.
+151130,8,234,982000,Lisa Simpson,Springfield Town Hall,It's a symbol of what we can all do if we put our minds to it.
+151131,8,235,985000,Homer Simpson,Springfield Town Hall,Just a statue? Is the Statue of Liberty just a statue? Is the Leaning Tower of Piza just a statue?
+151132,8,236,992000,Bart Simpson,Springfield Town Hall,Uh-oh. School bus.
+151133,8,237,994000,Bart Simpson,Springfield Town Hall,C'mon Lis. School bus.
+151134,8,238,996000,Marge Simpson,Springfield Town Hall,"Go on, Lisa. We've all got to be brave just like Jebediah when he killed that bear."
+151135,8,239,1001000,Lisa Simpson,Springfield Town Hall,It's so awful.
+151137,8,241,1003000,Moe Szyslak,Moe's Tavern,"Okay, come on, come on everybody. We've got to get on with our lives. Let's try and put this tragedy behind us."
+151138,8,242,1010000,Barney Gumble,Moe's Tavern,"You're right, Moe. A beer, please, and make sure there's a head on it."
+151139,8,243,1016000,Moe Szyslak,Moe's Tavern,Ohhhh.
+151141,8,245,1016000,Grampa Simpson,Old Folk's Home,I've said it before and I'll say it again: Hell in a handbasket. I hope they find the punk who did this and I hope they cut his head off.
+151143,8,247,1029000,Bart Simpson,Park,Hi guys. What's up?
+151144,8,248,1031000,Jimbo Jones,Park,We were just saying we'd love to meet the guy who cut off the head of that statue.
+151145,8,249,1035000,DOLPH,Park,"Yeah, we wish he were here right now."
+151146,8,250,1038000,Bart Simpson,Park,"Oh, really?"
+151147,8,251,1040000,Kearney Zzyzwicz,Park,"Yeah, we'd break every bone in his stupid little body."
+151148,8,252,1045000,DOLPH,Park,"Yeah, that's right, man. Limb by limb."
+151149,8,253,1046000,Jimbo Jones,Park,"Yeah, man."
+151150,8,254,1046000,Bart Simpson,Park,"What? But, but yesterday didn't you say it would be cool to cut off the head and really cheese everybody off?"
+151151,8,255,1054000,Kearney Zzyzwicz,Park,"That was just cloud talk, man."
+151152,8,256,1056000,Jimbo Jones,Park,"Yeah! I mean throwin' rocks is one thing, but I would never cut the head off of a guy who iced a bear with his bare hands? So what's in the bag, Bart?"
+151153,8,257,1064000,Jebediah Springfield,Park,My head.
+151154,8,258,1066000,Jimbo Jones,Park,"I said, what's in the bag, Bart?"
+151093,8,259,1068000,Jebediah Springfield,Park,"Go ahead, Bart. Tell them. It's the head of Jebediah Springfield."
+151123,8,260,1077000,Bart Simpson,Park,I gotta go.
+151155,8,262,1078000,Jebediah Springfield,Street,Look what you've done. You want to be popular. Now you're the most hated boy in town.
+151156,8,263,1087000,Bart Simpson,Street,You're not really talking to me. You're just my overactive imagination.
+151157,8,264,1090000,Jebediah Springfield,Street,"Oh, I am, am I?"
+151158,8,265,1092000,Bart Simpson,Street,Shut up... I wanted them to like me.
+151159,8,266,1095000,C. Montgomery Burns,Street,"Ummm, the child seems rattled."
+151160,8,267,1097000,Moe Szyslak,Street,Can you blame him?
+151161,8,268,1099000,C. Montgomery Burns,Street,"No, no I can't."
+151162,8,269,1103000,Waylon Smithers,Street,"There, there, Mr. Burns. Blow, sir."
+151164,8,271,1110000,Lisa Simpson,Simpson Home,"Hey Bart, where you going?"
+151165,8,272,1111000,Bart Simpson,Simpson Home,To my room.
+151166,8,273,1112000,Lisa Simpson,Simpson Home,"Why don't you watch ""Krusty The Clown""?"
+151167,8,274,1116000,Krusty the Clown,Simpson Home,"There is someone out there, in Krustyland who has committed an atrocity. If you know who cut off Jebediah's head, I don't care if it's your brother, your sister, your daddy, or your mommy turn them in... and Krusty will send you a free slide whistle just like Sideshow Bob's."
+151169,8,276,1136000,Jebediah Springfield,Simpson Home,Wait a minute. I hope you're not planning to do what I think you're doing.
+151170,8,277,1141000,Bart Simpson,Simpson Home,"Sorry, man. It's either you or me."
+151171,8,278,1144000,Jebediah Springfield,Simpson Home,"You know, Bart, you don't have to found a town to be a hero. Sometimes a hero can be a young boy with the courage to stand up and admit he's made a mistake."
+151172,8,279,1155000,Bart Simpson,Simpson Home,"Yeah, well I'm running a little short on courage right now."
+151173,8,280,1159000,Jebediah Springfield,Simpson Home,"Anyway, think about. Will you, son?"
+151176,8,283,1166000,Bart Simpson,Simpson Living Room,Jebediah Obediah Zachariah Jedediah Springfield came West in 1838.
+151177,8,284,1171000,TV ANNOUNCER #3 CONT'D,Simpson Living Room,"Along the way he met a ferocious bear and killed him with his bare that's b-a-r-e hands. Although modern historians recently uncovered evidence that the bear, in fact, probably killed him. But whether bear killed man, or man killed bear, a burgeoning town, Springfield, was born."
+151178,8,285,1184000,Bart Simpson,Simpson Living Room,"Mom, Dad."
+151179,8,286,1187000,Homer Simpson,Simpson Living Room,I knew it all along.
+151180,8,287,1189000,Marge Simpson,Simpson Living Room,"Why, Bart, why?"
+151181,8,288,1191000,Homer Simpson,Simpson Living Room,Yeah? Why you little...
+151183,8,289,1193000,Bart Simpson,Simpson Living Room,'Cause I wanted some really bad kids to like me. Somehow I got the idea that being popular was the most important thing in the world.
+151185,8,291,1202000,Marge Simpson,Simpson Living Room,Where did you get a ridiculous idea like that?
+151186,8,292,1205000,Homer Simpson,Simpson Living Room,"Lay off the boy, Marge. He's a good kid. Quit givin' him the third degree."
+151187,8,293,1210000,Marge Simpson,Simpson Living Room,"Homer, did you have something to do with this?"
+151188,8,294,1213000,Homer Simpson,Simpson Living Room,"Well, maybe I am a little responsible."
+151189,8,295,1216000,Marge Simpson,Simpson Living Room,A little?
+151190,8,296,1217000,Homer Simpson,Simpson Living Room,"C'mon, son. Let's take the head thing back to the authorities."
+151192,8,298,1222000,Homer Simpson,Streets,"You know, Bart, when I was your age, I pulled a few boners, but I think you'll find that people are pretty decent if you give them half... Oh, oh."
+151193,8,299,1232000,C. Montgomery Burns,Streets,"Look, there it is! The head!"
+151194,8,300,1244000,Krusty the Clown,Streets,Kill him!
+151196,8,302,1246000,Krusty the Clown,Street,We know this part.
+151197,8,303,1247000,Bart Simpson,Street,"Oh yeah, right..."
+151199,8,305,1250000,Bart Simpson,Park,"Well, that's my story. And if you still want to tear apart this young Sunday school student as he stands on the brink of salvation, I await your wrath."
+151200,8,306,1260000,Mob,Park,Oohhh!
+151201,8,307,1261000,Krusty the Clown,Park,Somehow I don't feel like killing anymore.
+151202,8,308,1265000,Edna Krabappel-Flanders,Park,Neither do I.
+151203,8,309,1266000,Bart Simpson,Park,Dad?
+151204,8,310,1270000,Bart Simpson,Park,"Forgive me, sir."
+151205,8,311,1272000,Jebediah Springfield,Park,"No problem, Bart."
+151206,8,312,1274000,Seymour Skinner,Park,Look. It's glorious
+151207,8,313,1276000,Otto Mann,Park,"It's beautiful, man."
+151208,8,314,1277000,C. Montgomery Burns,Park,"I love you, Smithers."
+151209,8,315,1279000,Waylon Smithers,Park,"The feeling is more than mutual, sir."
+151210,8,316,1285000,Homer Simpson,Park,"Good going, son. But remember, most lynch mobs aren't this nice."

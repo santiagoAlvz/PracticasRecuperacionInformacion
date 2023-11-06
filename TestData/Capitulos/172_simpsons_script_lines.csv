@@ -1,0 +1,246 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+38692,172,1,27000,Seymour Skinner,Springfield Elementary School,"And finally, the bake sale to raise money for the car wash has been canceled, due to confusion. Well, that concludes this morning's announcements. I'm Seymour Skinner and stand by to resume learning in five, four, three, two, one..."
+38693,172,2,44000,Edna Krabappel-Flanders,Springfield Elementary School,"It's hard enough to keep the kids awake without you, Seymour."
+38694,172,3,53000,Martin Prince,Springfield Elementary School,"M... Mrs. Krabappel, I also have an announcement to make!"
+38695,172,4,56000,Edna Krabappel-Flanders,Springfield Elementary School,Can't it wait 'til I retire?
+38696,172,5,59000,Martin Prince,Springfield Elementary School,"I want one and all to join me in celebrating the anniversary of my portentous birth! Here you are, Nelson."
+38697,172,6,65000,Nelson Muntz,Springfield Elementary School,A birthday party?
+38698,172,7,68000,Martin Prince,Springfield Elementary School,"Here you are, Nelson."
+38700,172,9,72000,Martin Prince,Springfield Elementary School,"Here you are, Nelson."
+38701,172,10,73000,Nelson Muntz,Springfield Elementary School,I said !
+38703,172,12,73000,Homer Simpson,Simpson Home,"Alright, men. Get ready to blast off!"
+38704,172,13,79000,Homer Simpson,Simpson Home,"Wooo, we're in orbit now! What's that? A call from the president? Hello?... Uh, yes. ""Let me just say this about that."" Okay, Mr. President..."
+38705,172,14,91000,Milhouse Van Houten,Simpson Home,"Bart, this is boring."
+38706,172,15,95000,Bart Simpson,Simpson Home,I guess we could go to Martin's party...
+38707,172,16,96000,Milhouse Van Houten,Simpson Home,"I don't know. If we're seen there, it'll definitely take our social standing down a notch."
+38708,172,17,101000,Bart Simpson,Simpson Home,"We're at what now, three?"
+38709,172,18,102000,Milhouse Van Houten,Simpson Home,"Three and a half. We get beat up, but we get an explanation."
+38710,172,19,109000,Homer Simpson,Simpson Home,Mayday! Mayday!
+38713,172,22,122000,Edna Krabappel-Flanders,MARTIN'S BIRTHDAY PARTY,Bart!
+38714,172,23,123000,Bart Simpson,MARTIN'S BIRTHDAY PARTY,"Uh -- Mrs. K! Hey, it's Saturday! Your powers are useless against me."
+38715,172,24,127000,Edna Krabappel-Flanders,MARTIN'S BIRTHDAY PARTY,"Relax, I'm just here to have fun like everybody else. Don't think of me as a teacher."
+38716,172,25,131000,Bart Simpson,MARTIN'S BIRTHDAY PARTY,Okay. So...
+38717,172,26,135000,Edna Krabappel-Flanders,MARTIN'S BIRTHDAY PARTY,Mmmm-hmmm?
+38719,172,28,141000,Bart Simpson,MARTIN'S BIRTHDAY PARTY,Excuse me.
+38722,172,31,152000,Bart Simpson,MARTIN'S HOUSE,"Hey, Houdini, why don't you saw Martin in half?"
+38723,172,32,155000,Magician,MARTIN'S HOUSE,"Oh, I'm not the kind of magician who does tricks. I'm a MATH-e-magician!"
+38725,172,34,160000,Bart Simpson,MARTIN'S HOUSE,"Oh, man."
+38726,172,35,161000,Magician,MARTIN'S HOUSE,"Now, prepare to marvel at the mysteries of the universe as I make this remainder... disappear."
+38727,172,36,169000,Lisa Simpson,MARTIN'S HOUSE,But 7 goes into 28 4 times.
+38728,172,37,172000,Magician,MARTIN'S HOUSE,"Uh, this is a magic 7."
+38610,172,38,182000,Seymour Skinner,MARTIN'S HOUSE,Edna!
+38729,172,39,183000,Edna Krabappel-Flanders,MARTIN'S HOUSE,Seymour.
+38730,172,40,184000,Seymour Skinner,MARTIN'S HOUSE,'Mind if I sit down?
+38731,172,41,186000,Edna Krabappel-Flanders,MARTIN'S HOUSE,"Eh, it's a free country."
+38732,172,42,187000,Seymour Skinner,MARTIN'S HOUSE,"I, I don't follow you."
+38733,172,43,189000,Edna Krabappel-Flanders,MARTIN'S HOUSE,"Oh, just sit down, Seymour. It might be nice to talk to a grown-up for a change. Heh."
+38734,172,44,194000,Seymour Skinner,MARTIN'S HOUSE,"Well, this party is certainly a break in my routine. You know, normally I spend my Saturdays carefully laying out my clothes for the following week, and then I stroll down to the car wash to see if Gus is there..."
+38735,172,45,205000,Edna Krabappel-Flanders,MARTIN'S HOUSE,"Oh yeah, you gotta keep busy. I collect matchbooks from glamorous nightclubs. It's amazing. If you just write to them and ask them nicely..."
+38736,172,46,217000,Seymour Skinner,MARTIN'S HOUSE,"Is this how you imagined your life, Edna?"
+38737,172,47,219000,Edna Krabappel-Flanders,MARTIN'S HOUSE,"Well, yes, but then I was a very depressed child."
+38738,172,48,223000,Seymour Skinner,MARTIN'S HOUSE,To poor decisions.
+38739,172,49,225000,Edna Krabappel-Flanders,MARTIN'S HOUSE,"Here, here."
+38740,172,50,227000,Agnes Skinner,MARTIN'S HOUSE,Seymour!
+38741,172,51,227000,Agnes Skinner,MARTIN'S HOUSE,I told you not to play in the neighbors' yard!
+38742,172,52,231000,Seymour Skinner,MARTIN'S HOUSE,"It's a party, mother. I was invited."
+38743,172,53,233000,Agnes Skinner,MARTIN'S HOUSE,"Well... Then I must've been invited, too."
+38744,172,54,237000,Seymour Skinner,MARTIN'S HOUSE,"Help me, Edna."
+38745,172,55,243000,Edna Krabappel-Flanders,MARTIN'S HOUSE,I know where we can hole up for a while.
+38747,172,57,251000,Bart Simpson,MARTIN'S BIRTHDAY PARTY,That's it. Looking good. Getting warm...
+38748,172,58,254000,Milhouse Van Houten,MARTIN'S BIRTHDAY PARTY,I feel queasy.
+38749,172,59,258000,Bart Simpson,MARTIN'S BIRTHDAY PARTY,"Don't stop, Milhouse. You're so close!"
+38750,172,60,260000,Milhouse Van Houten,MARTIN'S BIRTHDAY PARTY,I gotta barf! Where's the bathroom?!
+38751,172,61,270000,Kids,MARTIN'S BIRTHDAY PARTY,I feel sick. / My tummy hurts! / ETC.
+38752,172,62,273000,"Martin Prince, Sr.",MARTIN'S BIRTHDAY PARTY,I told you we should've served cake instead of oysters!
+38753,172,63,276000,Martin Prince,MARTIN'S BIRTHDAY PARTY,I'm ruined!
+38754,172,64,278000,Nelson Muntz,MARTIN'S BIRTHDAY PARTY,Haw haw!...
+38755,172,65,288000,Lisa Simpson,MARTIN'S BIRTHDAY PARTY,"Bart, how come you're not sick?"
+38756,172,66,290000,Bart Simpson,MARTIN'S BIRTHDAY PARTY,"Eh, I gave my oysters to the cat."
+38757,172,67,294000,Bart Simpson,MARTIN'S BIRTHDAY PARTY,"Hey, why'd you eat them? I thought you were a vegetarian."
+38758,172,68,297000,Lisa Simpson,MARTIN'S BIRTHDAY PARTY,I didn't. I just wanted to leave.
+38760,172,70,302000,Seymour Skinner,Martin's Playhouse,"More tea, Edna?"
+38761,172,71,303000,Edna Krabappel-Flanders,Martin's Playhouse,What kind of little boy has a tea set?
+38762,172,72,306000,Seymour Skinner,Martin's Playhouse,Huh. I think we both know the answer to that... a lucky boy.
+38763,172,73,310000,Edna Krabappel-Flanders,Martin's Playhouse,"You know, Seymour, there's an innocence about you that can be quite charming."
+38764,172,74,315000,Seymour Skinner,Martin's Playhouse,"Oh? Well, I've always admired your tart honesty and ability to be personally offended by broad social trends."
+38765,172,75,323000,Edna Krabappel-Flanders,Martin's Playhouse,Really?...
+38766,172,76,324000,Seymour Skinner,Martin's Playhouse,Mmm-hmm. Very much. And your laugh...
+38767,172,77,326000,Edna Krabappel-Flanders,Martin's Playhouse,"You mean ""ha""?"
+38768,172,78,328000,Seymour Skinner,Martin's Playhouse,"Mmm-hmm. That's the one that makes me feel... H... H... Hoo, boy. You, ah, have a breath mint I could borrow?"
+38769,172,79,337000,Edna Krabappel-Flanders,Martin's Playhouse,I've got some menthol cigarettes.
+38770,172,80,339000,Seymour Skinner,Martin's Playhouse,"Oh, the heck with it!"
+38771,172,81,359000,Seymour Skinner,Martin's Playhouse,Mmmmm.
+38773,172,83,359000,Bart Simpson,Springfield Elementary School,"You are never going to guess what I saw at Martin's party after you guys left! You know that playhouse? Well, I..."
+38774,172,84,363000,Seymour Skinner,Springfield Elementary School,Good gravy!
+38775,172,85,363000,Cafeteria Worker,Springfield Elementary School,"Oh, thank you. It's just brown and water."
+38776,172,86,368000,Bart Simpson,Springfield Elementary School,"So I looked in the window and there it was, the grossest sight I have ever..."
+38777,172,87,373000,Seymour Skinner,Springfield Elementary School,"Bart Simpson, report to the Principal's Office immediately!"
+38778,172,88,375000,Seymour Skinner,Springfield Elementary School,"Now, Bart... son... I don't know what you think you saw, but, uh, let me assure you..."
+38779,172,89,382000,Edna Krabappel-Flanders,Springfield Elementary School,"What Seymour... Oh... What Principal Skinner means to say, Bart, is that sometimes a little boy's imagination can run away with him."
+38780,172,90,388000,Bart Simpson,Springfield Elementary School,That's the best you can do? You could've at least said you were giving her CPR or rehearsing a play.
+38781,172,91,394000,Seymour Skinner,Springfield Elementary School,Is it too late to say that?
+38782,172,92,398000,Edna Krabappel-Flanders,Springfield Elementary School,"We're just a little concerned. If people were to find out the principal was dating a teacher, they might see it as a conflict of interest."
+38784,172,94,406000,Seymour Skinner,Springfield Elementary School,And there are those who might try to use it against us for their own advantage.
+38785,172,95,411000,Bart Simpson,Springfield Elementary School,Like me for one.
+38786,172,96,411000,Seymour Skinner,Springfield Elementary School,"Like you for... Bart, if life has taught me one lesson repeatedly, it's to know when I'm beaten. Let's talk deal."
+38787,172,97,433000,Edna Krabappel-Flanders,Springfield Elementary School,"As you know, Bart, your permanent record will one day disqualify you from all but the hottest and noisiest jobs."
+38788,172,98,438000,Seymour Skinner,Springfield Elementary School,"What do you say, son? You keep our secret and some other student can inherit your gloomy, windblown future."
+38789,172,99,446000,Bart Simpson,Springfield Elementary School,Deal.
+38790,172,100,448000,Seymour Skinner,Springfield Elementary School,This is a great day for forbidden love.
+38792,172,102,457000,Seymour Skinner,Edna's Apartment,Mmmm. This dessert is exquisite. What do you call it?
+38793,172,103,460000,Edna Krabappel-Flanders,Edna's Apartment,Applesauce.
+38794,172,104,461000,Seymour Skinner,Edna's Apartment,"Oh, of course. I'm sorry, I... I don't get out to restaurants much."
+38795,172,105,466000,Edna Krabappel-Flanders,Edna's Apartment,"That's okay, I don't entertain much. Usually it's just soup for one, salad for one, wine for three..."
+38796,172,106,473000,Seymour Skinner,Edna's Apartment,"You know, I always thought I'd fall for a woman just like Mother... even though I didn't want to. And now that I haven't, I've discovered what true happiness can be, Edna."
+38797,172,107,487000,Edna Krabappel-Flanders,Edna's Apartment,"Seymour, swallow that applesauce and kiss me."
+38798,172,108,491000,Seymour Skinner,Edna's Apartment,I'm afraid I already swallowed it while you were talking.
+38799,172,109,496000,Seymour Skinner,Edna's Apartment,Mmm... / Oh... / / ETC.
+38801,172,111,502000,Seymour Skinner,Springfield Elementary School,"Good morning, students. Way to go there, Wendell. There's Ralph -- he knows the score. Jimbo, how's that hat today? Janey, Janey, bo-faney!"
+38802,172,112,512000,Edna Krabappel-Flanders,Springfield Elementary School,"""The only way to survive a deadly blaze is..."" Oh heck, life is too short for fire safety. Let's go outside and pick wildflowers."
+38803,172,113,522000,Kids,Springfield Elementary School,Yayyy!!
+38804,172,114,522000,Seymour Skinner,Springfield Elementary School,Bart Simpson to the Principal's Office. Post haste.
+38805,172,115,532000,Seymour Skinner,Springfield Elementary School,"Bart, so good to see you! I have a little favor to ask you."
+38806,172,116,535000,Seymour Skinner,Springfield Elementary School,I'd like you to give this note to Edna when you get back to class. I don't think I have to tell you it's for her eyes only.
+38808,172,118,552000,Seymour Skinner,Springfield Elementary School,I hear reading...
+38811,172,121,575000,Edna Krabappel-Flanders,Aztec Theater,Do you think anyone saw us?
+38812,172,122,576000,Seymour Skinner,Aztec Theater,"No. It went just as we planned, except they confiscated my thermos of cola at the door."
+38813,172,123,582000,Edna Krabappel-Flanders,Aztec Theater,Oh.
+38814,172,124,583000,Gary Chalmers,Aztec Theater,Skinner. Krabappel. What are you two doing here?
+38815,172,125,586000,Edna Krabappel-Flanders,Aztec Theater,Superintendent Chalmers!
+38816,172,126,587000,Seymour Skinner,Aztec Theater,"Uh, why, we're... We're, uh, on a... a, uh Uh, uh, what do you call... uh, field trip."
+38817,172,127,592000,Edna Krabappel-Flanders,Aztec Theater,"Uh, with a student."
+38818,172,128,593000,Seymour Skinner,Aztec Theater,"Yes! He's, uh..."
+38819,172,129,595000,Edna Krabappel-Flanders,Aztec Theater,"He's, uh, he's... purchasing refreshments in the lobby."
+38820,172,130,597000,Seymour Skinner,Aztec Theater,"I'll... I'll... I'll go get him right now. Car keys, car keys, car keys."
+38821,172,131,608000,Bart Simpson,Aztec Theater,Stop pushing me. What's going on?
+38822,172,132,611000,Seymour Skinner,Aztec Theater,Just enjoy the movie. It has Tom Berenger.
+38823,172,133,619000,Gary Chalmers,Aztec Theater,Do you think they actually filmed this in Atlanta?
+38824,172,134,622000,Bart Simpson,Aztec Theater,I don't know. I don't think it's important.
+38825,172,135,625000,Gary Chalmers,Aztec Theater,Yeah.
+38827,172,137,632000,Seymour Skinner,Skinner Home,"Mother doesn't approve of me dating, so I need you to keep her busy for a few hours while Edna and I sneak out."
+38828,172,138,642000,Bart Simpson,Skinner Home,"Oh, I can't take much more of this."
+38829,172,139,644000,Agnes Skinner,Skinner Home,"I collect pictures of cakes that I clip out of the magazines. It all started in 1941, when Good Housekeeping featured a photo of a lovely cake."
+38830,172,140,654000,Bart Simpson,Skinner Home,"You wouldn't happen to have any real cakes around here, would you?"
+38831,172,141,657000,Agnes Skinner,Skinner Home,"Oh, my, no. I don't care for cake. Too sweet. Now -- this is called a Lady Baltimore cake. At my age, I don't have much saliva left, so you'll have to lick my thumb before I can turn the page."
+38832,172,142,668000,Bart Simpson,Skinner Home,"Oh, can't I just turn the page for you?"
+38833,172,143,670000,Agnes Skinner,Skinner Home,No. But you can pick out any picture you want to take home with you.
+38834,172,144,675000,Bart Simpson,Skinner Home,Okay. That one.
+38835,172,145,677000,Agnes Skinner,Skinner Home,No!
+38836,172,146,677000,Bart Simpson,Skinner Home,Ow!
+38837,172,147,678000,Agnes Skinner,Skinner Home,You can't have that one! That's a coconut cake.
+38839,172,149,684000,Edna Krabappel-Flanders,Springfield Elementary School,"Bart Simpson! How many times do I have to tell you, no talking! Report to the principal's office!"
+38840,172,150,691000,Bart Simpson,Springfield Elementary School,But... But I wasn't...
+38841,172,151,692000,Edna Krabappel-Flanders,Springfield Elementary School,"And here, take this with you."
+38843,172,153,695000,Seymour Skinner,Springfield Elementary School,"Mrs. Krabappel, Bart has something he wants to say to you."
+38844,172,154,698000,Bart Simpson,Springfield Elementary School,I won't say it!
+38845,172,155,698000,Seymour Skinner,Springfield Elementary School,Bart!
+38846,172,156,700000,Bart Simpson,Springfield Elementary School,"Oh... I love you, Edna Krabappel."
+38848,172,158,709000,Terri Mackleberry,Springfield Elementary School,Bart's going to marry the teacher!
+38849,172,159,711000,Nelson Muntz,Springfield Elementary School,"Where are you registered, Simpson?"
+38851,172,161,714000,Edna Krabappel-Flanders,Springfield Elementary School,"Thank you, Bart. That was very sweet. You may sit down now."
+38852,172,162,719000,Bart Simpson,Springfield Elementary School,They're not going to get away with this.
+38853,172,163,721000,Edna Krabappel-Flanders,Springfield Elementary School,"I'm going to step out for a few minutes, class. Martin, you're in charge."
+38854,172,164,726000,Martin Prince,Springfield Elementary School,"Now, Bart, uh, you must promise not to fall in love with me."
+38856,172,166,734000,Bart Simpson,Springfield Elementary School,"Oh, now Martin's scoring off of me. Oh, that is it. Listen up, everybody! Follow me!"
+38857,172,167,749000,Bart Simpson,Springfield Elementary School,"Okay crew, set your faces to stunned."
+38859,172,169,761000,Seymour Skinner,Springfield Elementary School,Um... Um.. School dismissed.
+38861,172,171,769000,Milhouse Van Houten,Van Houten Home,...And then Bart opened the door and Principal Skinner and Mrs. Krabappel were kissing... and swearing!
+38863,172,173,775000,Pahasatira,Kwik-E-Mart,Father! Uncle Apu! A teacher was in the closet with the principal and he had as many arms as Vishnu and they were all very busy!
+38865,172,175,783000,Apu Nahasapeemapetilon,Kwik-E-Mart,Wow!
+38867,172,177,785000,Lisa Simpson,Simpson Home,"I was in the library at the time, but Janey told me that Principal Skinner and Bart's teacher, Mrs.... What's her name?"
+38868,172,178,791000,Marge Simpson,Simpson Home,Krabappel?
+38869,172,179,792000,Lisa Simpson,Simpson Home,"Yeah, Krabappel. They were naked in the closet together."
+38870,172,180,795000,Marge Simpson,Simpson Home,"Oh, my goodness."
+38871,172,181,797000,Homer Simpson,Simpson Home,"Wait a minute. Bart's teacher's name is ""Krabappel?"" I've been calling her ""Crandall."" Why didn't someone tell me? Oh, I've been making an idiot out of myself."
+38873,172,183,808000,Ralph Wiggum,Wiggum Home,Mrs. Krabappel and Principal Skinner were in the closet making babies and I saw one of the babies. And the baby looked at me.
+38874,172,184,816000,Chief Wiggum,Wiggum Home,"The baby looked at you? Sara, get me Superintendent Chalmers."
+38875,172,185,823000,Chief Wiggum,Wiggum Home,"Thank you, Sara."
+38878,172,188,826000,Gary Chalmers,Skinner's Office,Skin-ner!!!
+38879,172,189,827000,Seymour Skinner,Skinner's Office,Superintendent Chalmers!
+38880,172,190,828000,Gary Chalmers,Skinner's Office,"The whole town's in an uproar about your sleazy shenanigans! Now I'm going to give you a choice. You can give up this tawdry, fulfilling relationship, or you two will be out of here so fast your mortarboards will spin. And where is your mortarboard, anyway?"
+38881,172,191,842000,Seymour Skinner,Skinner's Office,"Uh, right here, sir!"
+38882,172,192,845000,Gary Chalmers,Skinner's Office,"So what'll it be, Seymour?"
+38883,172,193,847000,Seymour Skinner,Skinner's Office,"Well... I'm sorry, but, ah, I can't give up the woman I love."
+38884,172,194,853000,Gary Chalmers,Skinner's Office,"Well then, I'm afraid you leave me no choice. I want you out of the building by three o'clock. You're fired. Edna, too."
+38886,172,196,865000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"Well, it's going to be hard to say good-bye to all of you. We've had a lot of fun together."
+38887,172,197,873000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"Nelson, Nelson, Nelson. Oh, how many kids have you beaten up this year?"
+38888,172,198,877000,Nelson Muntz,Mrs. Krabappel's Classroom,I 'unno. Fifty.
+38889,172,199,879000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"Ah, fifty... Where does the time go?"
+38891,172,201,887000,Bart Simpson,Skinner's Office,"You, you, uh, wanted to see me, Principal Skinner?"
+38892,172,202,889000,Seymour Skinner,Skinner's Office,"Mmm-hmm, it's Mr. Skinner now. I'm just a man. Bart, I want to apologize for the awkward position Edna and I put you in. Your... your help made our love possible. I don't know what we'll do without you. Well, so long."
+38893,172,203,909000,Bart Simpson,Skinner's Office,Wait a second. You don't have to leave just because Superintendent Chalmers told you to.
+38894,172,204,913000,Seymour Skinner,Skinner's Office,What are you getting at?
+38895,172,205,914000,Bart Simpson,Skinner's Office,"You've spent your whole life following orders -- from your mother, the army, Superintendent Chalmers. Just this once, man, stand up for yourself."
+38896,172,206,923000,Seymour Skinner,Skinner's Office,"Okay, Bart."
+38897,172,207,924000,Edna Krabappel-Flanders,Skinner's Office,"Let's go, Seymour."
+38898,172,208,925000,Seymour Skinner,Skinner's Office,"Okay, Edna."
+38899,172,209,927000,Seymour Skinner,Skinner's Office,"I... No, wait! We're not going anywhere. I'm going to do what Bart should have told me to do a long time ago!"
+38901,172,211,938000,Seymour Skinner,Springfield Elementary School,"Attention, Springfield. We have barricaded ourselves in the school and are not coming down until our demands are met."
+38902,172,212,946000,Groundskeeper Willie,Springfield Elementary School,"Willie hears ya, Willie don't care."
+38903,172,213,949000,Bart Simpson,Springfield Elementary School,"Obviously, you two have no experience causing a scene."
+38905,172,215,958000,Kent Brockman,CHANNEL SIX NEWSROOM,I'll be right there.
+38906,172,216,959000,Kent Brockman,CHANNEL SIX NEWSROOM,"Alright, people! We've got an escaped octopus on the roof of Springfield Elementary! Let's roll! Two cameras!"
+38908,172,218,967000,Kent Brockman,Springfield Elementary School,"...and so once again, I've been had. But an even more interesting story has developed high atop this two story school. A love story..."
+38909,172,219,976000,Gary Chalmers,Springfield Elementary School,Skinner!! Get off of my school!
+38910,172,220,978000,Seymour Skinner,Springfield Elementary School,No! You get off of my school!
+38911,172,221,981000,Marge Simpson,Springfield Elementary School,"Homer, Bart's up there!"
+38912,172,222,982000,Homer Simpson,Springfield Elementary School,"Give me that! Bart, this is your father. Do you know where the remote is? I looked all over the house."
+38913,172,223,992000,Bart Simpson,Springfield Elementary School,Did you check your pocket?
+38914,172,224,996000,Homer Simpson,Springfield Elementary School,It was in... It was in my pocket.
+38915,172,225,1006000,Chief Wiggum,Springfield Elementary School,Fine. Stay in the school. We don't want you to come out.
+38916,172,226,1010000,Bart Simpson,Springfield Elementary School,You got it!
+38917,172,227,1011000,Chief Wiggum,Springfield Elementary School,"Damn. All right, boys, roll up the sound truck. We'll blast 'em out with music."
+38918,172,228,1034000,Seymour Skinner,Springfield Elementary School,"Oh, Edna, I hope this siege never ends."
+38919,172,229,1038000,Edna Krabappel-Flanders,Springfield Elementary School,"Seymour, you're heaven in Hush Puppies."
+38920,172,230,1042000,Bart Simpson,Springfield Elementary School,Turn the music off!
+38921,172,231,1044000,Chief Wiggum,Springfield Elementary School,"Heh, it's working like a charm, boys! Now cut the power and hit 'em with the lights!"
+38923,172,233,1071000,Seymour Skinner,Springfield Elementary School,I'll get it. Talk to me.
+38924,172,234,1074000,Gary Chalmers,Springfield Elementary School,"You have got to end this thing, Seymour."
+38925,172,235,1076000,Seymour Skinner,Springfield Elementary School,We're not coming down until our jobs are reinstated and you acknowledge and celebrate our love.
+38926,172,236,1081000,Gary Chalmers,Springfield Elementary School,"No one would like to celebrate your love more than I, but I am a public servant and not permitted to use my own judgment in any way."
+38927,172,237,1088000,Edna Krabappel-Flanders,Springfield Elementary School,Then let us take our case directly to the townspeople!
+38928,172,238,1090000,Gary Chalmers,Springfield Elementary School,"Oh yeah, that'll be real productive. Who do you wanna talk to first? The guy in the bumblebee suit or the one with the bone through his hair?"
+38929,172,239,1096000,Sideshow Mel,Springfield Elementary School,My opinions are as valid as the next man's.
+38930,172,240,1100000,Gary Chalmers,Springfield Elementary School,"Yeah, all right. Just come on down."
+38931,172,241,1102000,Seymour Skinner,Springfield Elementary School,"Well, this is it."
+38932,172,242,1104000,Edna Krabappel-Flanders,Springfield Elementary School,What are you going to do?
+38933,172,243,1105000,Seymour Skinner,Springfield Elementary School,"I'm going to go out there, and tell every man, woman and child that I love Edna Krabappel."
+38934,172,244,1111000,Bart Simpson,Springfield Elementary School,"Well, that's nice. But first, you've gotta grab their attention. And I think I know how..."
+38935,172,245,1117000,Seymour Skinner,Springfield Elementary School,I... have a bomb.
+38937,172,247,1123000,Chief Wiggum,Springfield Elementary School,"Hey, wait a minute. Those are hot dogs. Armour Hot dogs."
+38938,172,248,1128000,Gary Chalmers,Springfield Elementary School,What kind of man wears Armour Hot Dogs?
+38939,172,249,1131000,Seymour Skinner,Springfield Elementary School,"It was a good idea, Bart. But it's just not working."
+38940,172,250,1134000,Edna Krabappel-Flanders,Springfield Elementary School,"Just speak from the heart, Seymour. Tell them how we brought a little happiness into each other's lives. Ask them why they're forcing two dedicated people to choose between their careers and their hearts..."
+38941,172,251,1146000,Maude Flanders,Springfield Elementary School,"Huh, excuse me, Edna. I don't think we're talking about ""love"" here, we're talking about S-E-X in front of the C-H-I-L-D-R-E-N."
+38942,172,252,1156000,Krusty the Clown,Springfield Elementary School,"""Sex Cauldron?"" I thought they closed that place down."
+38943,172,253,1159000,Seymour Skinner,Springfield Elementary School,What are you people talking about?
+38944,172,254,1161000,Dr. Julius Hibbert,Springfield Elementary School,My child told me you two were having sex in the school janitor's closet.
+38945,172,255,1165000,Chief Wiggum,Springfield Elementary School,"You know, ""making babies""?"
+38946,172,256,1167000,Crowd,Springfield Elementary School,"Yes, illicit sex! / Doing it! It! It! / Sordid public sexual congress! / Sex! /"
+38947,172,257,1172000,Seymour Skinner,Springfield Elementary School,"This is absurd. I did not have relations in that closet. And the fact is, I haven't... ...uh..."
+38948,172,258,1183000,Gary Chalmers,Springfield Elementary School,Yes?
+38949,172,259,1186000,Edna Krabappel-Flanders,Springfield Elementary School,"Seymour, I think you'd better tell them. It's the only way to clear our names."
+38950,172,260,1194000,Seymour Skinner,Springfield Elementary School,"Well, everyone, the fact is: I haven't ever had relations. I am a virgin."
+38951,172,261,1204000,Nelson Muntz,Springfield Elementary School,Haw haw!
+38953,172,263,1210000,Homer Simpson,Springfield Elementary School,"Hey, does this mean that Mrs. Krabappel is a virgin, too?"
+38954,172,264,1213000,Edna Krabappel-Flanders,Springfield Elementary School,Ha!
+38955,172,265,1215000,Gary Chalmers,Springfield Elementary School,"Well, Seymour, it's clear you've been falsely accused, because no one... anywhere... ever... would pretend to be a forty-four-year-old virgin."
+38956,172,266,1225000,Krusty the Clown,Springfield Elementary School,"Oh, that's for sure!"
+38957,172,267,1227000,Dr. Julius Hibbert,Springfield Elementary School,I'm inclined to agree.
+38958,172,268,1230000,Groundskeeper Willie,Springfield Elementary School,Ach. I'll never look at him the same again.
+38959,172,269,1232000,Lenny Leonard,Springfield Elementary School,That was more than I wanted to know.
+38960,172,270,1235000,Gary Chalmers,Springfield Elementary School,"Okay, well, um, Edna, Seymour... in light of these, er, er, revelations, I, uh, suppose we, uh, overreacted."
+38961,172,271,1244000,Edna Krabappel-Flanders,Springfield Elementary School,Do we have our jobs back?
+38962,172,272,1245000,Gary Chalmers,Springfield Elementary School,"What? Oh, yes, yes, yes. Sure. Just, um, you know, keep the lewdness to a minimum."
+38963,172,273,1257000,Bart Simpson,Springfield Elementary School,"I'm outta here. Skinny, Krabby, catch ya later."
+38964,172,274,1261000,Seymour Skinner,Springfield Elementary School,"Uh -- Hold on, Bart. May we have a word with you?"
+38965,172,275,1264000,Edna Krabappel-Flanders,Springfield Elementary School,We want to thank you for helping us through a difficult period.
+38966,172,276,1266000,Bart Simpson,Springfield Elementary School,"Oh, no problemo. So, I guess now you'll be getting married or something, huh?"
+38967,172,277,1271000,Edna Krabappel-Flanders,Springfield Elementary School,"Well, actually, Seymour and I have decided to break up."
+38968,172,278,1274000,Bart Simpson,Springfield Elementary School,Huh?
+38969,172,279,1275000,Seymour Skinner,Springfield Elementary School,"We can't continue on like this, trying to build a private relationship in public -- the whole town watching our every move with a fine-tooth comb."
+38970,172,280,1282000,Edna Krabappel-Flanders,Springfield Elementary School,"Mm-hmm. I'm used to humiliation, but not in front of a crowd that size."
+38972,172,281,1286000,Bart Simpson,Springfield Elementary School,"Aw, but you seemed like such a good couple."
+38973,172,282,1288000,Edna Krabappel-Flanders,Springfield Elementary School,"Bart, when you get a little older, you're going to learn that sometimes romances don't turn out exactly the way you'd like them to..."
+38974,172,283,1299000,Seymour Skinner,Springfield Elementary School,"That's why I love elementary school, Edna. The children believe anything you tell them."
+38976,172,285,1311000,Edna Krabappel-Flanders,Springfield Elementary School,"Whoo!... Oh, Seymour...!"

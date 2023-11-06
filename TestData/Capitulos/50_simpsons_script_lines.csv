@@ -1,0 +1,230 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+5405,50,4,104000,Marge Simpson,Simpson Home,"I am not cleaning that... Ah, who am I kidding?"
+5407,50,5,113000,Marge Simpson,Simpson Home,"Now Maggie, when you grow up you can suck your pacifier all you want."
+5409,50,7,128000,Marge Simpson,Simpson Home,"Extra mustard for Bart, sliced diagonally not lengthwise... Light mayo for Lisa, cut off the crust... Double bologna for Homer...."
+5410,50,8,135000,Homer Simpson,Simpson Home,"Marge, I split my pants again. Oooh, can I have two sandwiches today? Make them bologna sandwiches too. Can I have two slices of bologna and cheese..."
+5411,50,9,148000,Marge Simpson,Simpson Home,One at a time! One at a time!
+5412,50,10,152000,Lisa Simpson,Simpson Home,"Don't even bother with the raisins. I'm not gonna eat 'em... Double bologna! Double bologna!... I don't ask for much, just no pimento. Don't forget to make it double bologna 'cause I can hardly..."
+5413,50,11,157000,Marge Simpson,Simpson Home,That's enough!
+5414,50,12,159000,Marge Simpson,Simpson Home,"There you go, Lisa. No pimentos. Bart, your hat's where you left it, behind the toilet. Homer, I'll sew your pants but I'm out of bologna."
+5415,50,13,166000,Bart Simpson,Simpson Home,Thanks mom.
+5416,50,14,166000,Lisa Simpson,Simpson Home,Thanks mom.
+5418,50,16,168000,Marge Simpson,Simpson Home,"Videos to return, grocery list, flea dip for the cat, Homer's dry-cleaning -- I think that's everything."
+5419,50,17,175000,Homer Simpson,Simpson Home,"Marge, can you take my ball to Nick's today? A bottle cap got lodged in the finger hole."
+5420,50,18,179000,Marge Simpson,Simpson Home,"Homer, I'm running late as it is. Can't you just use one of the balls at the alley?"
+5421,50,19,183000,Homer Simpson,Simpson Home,Alley balls?
+5422,50,20,185000,Marge Simpson,Simpson Home,"Alright, don't whine. Just put it in my left hand."
+5423,50,21,190000,Marge Simpson,Simpson Home,Kids! Hurry up or you're going to miss your bus!
+5424,50,22,194000,Lisa Simpson,Simpson Home,No way.
+5425,50,23,194000,Bart Simpson,Simpson Home,Never happen.
+5426,50,24,198000,Bart Simpson,Simpson Home,"Well, I'll be damned."
+5428,50,26,205000,Lisa Simpson,Marge's Car,"Mom, Bart's making faces at me."
+5429,50,27,207000,Bart Simpson,Marge's Car,It's a nervous twitch and I'm a little sensitive about it if you don't mind.
+5430,50,28,212000,Lisa Simpson,Marge's Car,"Mom, he's doing it again. Bart, quit it! Quit it! Hey quit it! Quit it! Quit it! Quit it! Quit it! Mommmmm!!"
+5431,50,29,220000,Marge Simpson,Marge's Car,Get out.
+5433,50,31,227000,Marge Simpson,Supermarket,Fruit leather... Tree Fresh Imitation Orange Drink... Krusty brand duck sausage pizza...
+5435,50,33,239000,Nick,Nick's Bowling Shop,"Sorry lady, you've got the wrong Nick's. You want Nick's on the other side of town."
+5437,50,35,244000,Nick #2,THE OTHER NICKS,"Eh, I don't know what Nicky's telling you. I haven't flushed a ball in years."
+5439,50,37,255000,Commercial Guy,Marge's Car,"Oh, this miserable stress headache. Feels like there's a rat in my brain."
+5440,50,38,260000,Bill,Marge's Car,It's time for another Bill and Marty Classic Crank Call.
+5441,50,39,265000,Marty,Marge's Car,"Hello, is this Mr. Justin Sherman?"
+5442,50,40,267000,Man On Phone,Marge's Car,Yes?
+5443,50,41,268000,Marty,Marge's Car,"Sir, your wife is dead."
+5444,50,42,270000,Man On Phone,Marge's Car,Oh God! No!
+5445,50,43,272000,Marty,Marge's Car,That's right. She just walked through a plate glass window. There's blood everywhere.
+5446,50,44,278000,Man On Phone,Marge's Car,And I just talked to her!
+5447,50,45,278000,Marge Simpson,Marge's Car,AHHH!!
+5450,50,48,288000,Lisa Simpson,Marge's Station Wagon,Bart's making faces.
+5451,50,49,290000,Bart Simpson,Marge's Station Wagon,Where's my lucky red cap?
+5452,50,50,291000,Homer Simpson,Marge's Station Wagon,Alley balls...
+5453,50,51,292000,Marty,Marge's Station Wagon,Your wife is dead.
+5454,50,52,293000,Nick,Marge's Station Wagon,I haven't flushed a ball in years.
+5455,50,53,299000,Marge Simpson,Marge's Station Wagon,NOOOOOOOO!!
+5459,50,57,315000,Bus Driver,Bus,"Look, lady, this better be good."
+5462,50,60,323000,Arnie Pye,TRAFFIC COPTER,"This is Arnie Pie with ""Arnie in the Sky"". We've got big problems on the Springfield Memorial Bridge, people. Traffic goin' wa-ay back in both directions. And look out at the corner of fourteenth and Elm 'cause I just dropped my bagel."
+5463,50,61,336000,Eddie,TRAFFIC COPTER,She's locked in the car and refuses to move.
+5464,50,62,339000,Chief Wiggum,TRAFFIC COPTER,Did you flash your lights?
+5465,50,63,340000,Lou,TRAFFIC COPTER,Yes.
+5466,50,64,342000,Chief Wiggum,TRAFFIC COPTER,"Well, I'm fresh out of ideas."
+5467,50,65,344000,Otto Mann,TRAFFIC COPTER,All right! A chance to catch some rays.
+5468,50,66,350000,Rival Gang Leader,TRAFFIC COPTER,"C'mon, c'mon, I got a body in the trunk!"
+5469,50,67,356000,Krusty the Clown,TRAFFIC COPTER,"Mr. Teeny, stop fiddling with the buttons! Oh, now you've gotten chocolate all over everything."
+5470,50,68,362000,Kent Brockman,TRAFFIC COPTER,"This is Kent Brockman, reporting live from Arnie Pie's traffic copter. But I can assure you, this is no mere morning traffic report."
+5471,50,69,369000,Arnie Pye,TRAFFIC COPTER,Hey.
+5472,50,70,370000,Kent Brockman,TRAFFIC COPTER,"Face the facts, Arnie. An overworked and under-appreciated housewife has snapped and parked her car on the bridge refusing to budge. This reporter is now going to be lowered down in the Channel Six Sky Harness for an exclusive interview."
+5474,50,72,393000,Homer Simpson,Springfield Nuclear Power Plant,"Hey sweetheart, what's the matter?! Not gettin' enough of the good stuff at home?"
+5477,50,75,399000,Homer Simpson,Springfield Memorial Bridge,Let me through! Let me through! I'm her husband!
+5478,50,76,410000,Eddie,Springfield Memorial Bridge,"Well, that explains a lot."
+5479,50,77,414000,Chief Wiggum,Springfield Memorial Bridge,Try to talk her out of there.
+5480,50,78,414000,Chief Wiggum,Springfield Memorial Bridge,But don't put your lips on it or anything.
+5481,50,79,417000,Homer Simpson,Springfield Memorial Bridge,Hello? Hello? Is this thing on? Hello?
+5482,50,80,422000,Marge Simpson,Springfield Memorial Bridge,Homer? Is that you?
+5483,50,81,423000,Homer Simpson,Springfield Memorial Bridge,What should I say?
+5484,50,82,424000,Chief Wiggum,Springfield Memorial Bridge,"How about, ""Yes, it's me""."
+5485,50,83,426000,Homer Simpson,Springfield Memorial Bridge,Yes it's me!
+5486,50,84,428000,Chief Wiggum,Springfield Memorial Bridge,Tell her you love her.
+5487,50,85,429000,Homer Simpson,Springfield Memorial Bridge,I love you very much.
+5488,50,86,432000,Homer Simpson,Springfield Memorial Bridge,"And uh... later tonight I think you and I should uh, snuggle."
+5489,50,87,441000,Nelson Muntz,Springfield Memorial Bridge,Haw haw!
+5490,50,88,442000,Chief Wiggum,Springfield Memorial Bridge,Why don't you just wrap it up?
+5491,50,89,445000,Homer Simpson,Springfield Memorial Bridge,"Look Marge, I can tell something's bothering you. But if you come out of that car, I promise to do whatever it takes to make it better. Please, honey?"
+5492,50,90,455000,Marge Simpson,Springfield Memorial Bridge,Okay.
+5493,50,91,462000,Chief Wiggum,Springfield Memorial Bridge,Cuff her boys.
+5495,50,93,472000,Policewoman,Springfield Police Station,"Off the record, ma'am, all the gals on the force knew just how you felt."
+5496,50,94,472000,Marge Simpson,Springfield Police Station,That's nice. Do you think you could loosen my cuffs?
+5497,50,95,479000,Policewoman,Springfield Police Station,No.
+5499,50,97,480000,Chief Wiggum,SMOKE FILLED ROOM,"Don't you worry, Mr. Mayor, this little bird will be crackin' rocks by the end of the week."
+5500,50,98,485000,Mayor Joe Quimby,SMOKE FILLED ROOM,"Wiggum, you glorified night watchman, let her go!"
+5501,50,99,487000,Chief Wiggum,SMOKE FILLED ROOM,But she broke the law.
+5502,50,100,488000,Mayor Joe Quimby,SMOKE FILLED ROOM,"Thanks for the civics lesson. Now listen to me. If Marge Simpson goes to jail, I can kiss the chick vote goodbye. And if I go down, you're gonna break my fall!"
+5503,50,101,497000,Chief Wiggum,SMOKE FILLED ROOM,"Word to the wise, Quimby. Don't write checks your butt can't cash."
+5504,50,102,501000,Mayor Joe Quimby,SMOKE FILLED ROOM,"Hear me loud and clear, Wiggum. You bite me, I'll bite back."
+5505,50,103,503000,Chief Wiggum,SMOKE FILLED ROOM,"You talk the talk, Quimby. But do you walk the walk?"
+5507,50,105,507000,Mayor Joe Quimby,PRESS CONFERENCE,"I hereby declare today to be ""Marge Simpson Day"" in the city of Springfield."
+5508,50,106,515000,Mayor Joe Quimby,PRESS CONFERENCE,They're like trained seals. Toss 'em a fish and watch 'em slap their fins together.
+5510,50,108,522000,Homer Simpson,Simpson Home,"Well, all's well that ends well. Goodnight, Marge."
+5512,50,110,532000,Announcer,Simpson Home,"Many years ago, the Spanish explorers discovered a little piece of heaven nestled in the Springfield Mountains. They called it ""Rancho Relaxo,"" and so do we. Today it's Springfield's only two-star health spa."
+5513,50,111,546000,Announcer,Simpson Home,"Swim, play tennis or just sit and stare at the walls. At Rancho Relaxo, you're the boss."
+5514,50,112,553000,Announcer,Simpson Home,"Remember, you can't spell ""Relaxo"" without ""relax""."
+5517,50,115,560000,Marge Simpson,Simpson Home,Homer
+5518,50,116,562000,Homer Simpson,Simpson Home,Whaa...
+5519,50,117,564000,Marge Simpson,Simpson Home,I need a vacation.
+5520,50,118,565000,Homer Simpson,Simpson Home,"What? But Marge, we just had a vacation. Remember Mystic Caverns?"
+5522,50,120,572000,Marge Simpson,Simpson Home,I need to unwind.
+5523,50,121,573000,Homer Simpson,Simpson Home,"I know you do, Marge. But come on, you know what our vacations are like. Those three monsters in the back seat. ""Are we there yet? Are we there yet?"" And let's face it, I'm no day at the beach either. ""Marge, can I have another sandwich? Marge, can I have another sandwich?"""
+5524,50,122,586000,Marge Simpson,Simpson Home,No. I mean a vacation by myself.
+5525,50,123,591000,Homer Simpson,Simpson Home,"What? You mean we're getting a divorce? Marge, I can change!"
+5526,50,124,595000,Marge Simpson,Simpson Home,"No Homie, no. I still love you. A lot of couples take separate vacations."
+5527,50,125,601000,Homer Simpson,Simpson Home,"Well, okay. But you have to swear you're comin' back."
+5528,50,126,604000,Marge Simpson,Simpson Home,I swear.
+5529,50,127,605000,Homer Simpson,Simpson Home,All right then.
+5530,50,128,612000,Marge Simpson,Simpson Home,Thanks again for taking the children while I'm away.
+5531,50,129,614000,Selma Bouvier,Simpson Home,Don't worry yourself.
+5532,50,130,614000,Patty Bouvier,Simpson Home,Uh-huh. We've got six months of maternity leave we're never gonna use anyway.
+5533,50,131,619000,Marge Simpson,Simpson Home,"Homer, can you bring Maggie out?"
+5535,50,133,628000,Lisa Simpson,Patty and Selma's Car,Wish I'd thought of that.
+5536,50,134,633000,Homer Simpson,Patty and Selma's Car,She's startin' to give.
+5537,50,135,635000,Marge Simpson,Patty and Selma's Car,Homer! If Maggie really doesn't want to leave the house maybe she should just stay with you.
+5538,50,136,639000,Selma Bouvier,Patty and Selma's Car,Are you sure that's wise?
+5539,50,137,642000,Patty Bouvier,Patty and Selma's Car,Uh-huh. He'll probably trade her for a beer and a nudie magazine.
+5540,50,138,647000,Homer Simpson,Patty and Selma's Car,"For your information, I can take care of my --"
+5541,50,139,650000,Homer Simpson,Patty and Selma's Car,See? Got her on the first bounce.
+5543,50,141,652000,Track Announcer,Train Station,"All aboard for Shelbyville, Badwater, Cattle Skull Testing Grounds and Rancho Relaxo."
+5544,50,142,659000,Marge Simpson,Train Station,"Goodbye, Homie."
+5545,50,143,661000,Homer Simpson,Train Station,Good bye? Where's my clean underwear?
+5546,50,144,663000,Marge Simpson,Train Station,Check the dryer!
+5547,50,145,664000,Homer Simpson,Train Station,How often should I change Maggie?
+5548,50,146,666000,Marge Simpson,Train Station,Whenever she needs it.
+5549,50,147,667000,Homer Simpson,Train Station,"Marge, Marge, how do I use the pressure cooker?"
+5550,50,148,669000,Marge Simpson,Train Station,Don't.
+5552,50,150,677000,D.J.,Rancho Relaxo,"This is Coma -- WKOMA. Restful, easy listening. Coming up next, a super set of songs about clouds."
+5554,50,152,694000,Homer Simpson,Simpson Home,Hello Maggie.
+5555,50,153,697000,Homer Simpson,Simpson Home,"Sorry, honey, mommy went crazy...And went far, far away..."
+5556,50,154,702000,Homer Simpson,Simpson Home,"So, it's going to be just you and me for awhile. Just you and me."
+5558,50,156,709000,Patty Bouvier,Patty and Selma's Apartment,"Kids, you haven't touched your tongue sandwiches. You need something to drink?"
+5559,50,157,714000,Selma Bouvier,Patty and Selma's Apartment,"We've got Clamato, Mr. Pibb and soy milk."
+5561,50,158,716000,Lisa Simpson,Patty and Selma's Apartment,That's alright. I think I'll just hit the hay.
+5562,50,159,721000,Selma Bouvier,Patty and Selma's Apartment,It's 12:30 in the afternoon.
+5563,50,160,722000,Lisa Simpson,Patty and Selma's Apartment,I'm aware of the time.
+5564,50,161,724000,Selma Bouvier,Patty and Selma's Apartment,"Lisa, you'll sleep in my bed. Bart, you'll be sleeping with your Aunt Patty."
+5565,50,162,728000,Bart Simpson,Patty and Selma's Apartment,In your bed?
+5566,50,163,728000,Patty Bouvier,Patty and Selma's Apartment,"Uh huh. And I should warn you, I'm told I snore."
+5567,50,164,734000,Selma Bouvier,Patty and Selma's Apartment,"Move, Divorce Court's on in fifteen minutes."
+5568,50,165,736000,Bart Simpson,Patty and Selma's Apartment,"I'm scared, Lisa."
+5569,50,166,739000,Lisa Simpson,Patty and Selma's Apartment,"You think you know fear? Well, I've seen them naked."
+5570,50,167,748000,Bart Simpson,Patty and Selma's Apartment,Aaah!
+5572,50,169,748000,Troy McClure,Rancho Relaxo,"Oh, hello! And welcome to Rancho Relaxo!"
+5573,50,170,754000,Troy McClure,Rancho Relaxo,"I'm Troy Mc Clure. You might remember me from such films as ""Today We Kill, Tomorrow We Die,"" and ""Gladys, The Groovy Mule."" But today you'll see me in my greatest role -- your video tour guide to Rancho Relaxo!"
+5574,50,171,768000,Troy McClure,Rancho Relaxo,"Our tour starts in your very own room, where Relaxo Vision offers you the latest Hollywood hits. And after midnight, the finest ""R"" rated movies Europe has to offer. Ooh-la-la! Today's selections are..."
+5575,50,172,781000,Different Announcer,Rancho Relaxo,"""Thelma and Louise,"" ""The Happy Little Elves Meet Fuzzy Snuggleduck,"" and ""The Erotic Awakening of S""."
+5576,50,173,781000,Troy McClure,Rancho Relaxo,"Chef Rodrigo, what are you up to?"
+5577,50,174,791000,Chef Rodrigo,Rancho Relaxo,"Well, taste for yourself, Troy."
+5578,50,175,792000,Troy McClure,Rancho Relaxo,Mmm-mmm-mmm! That can't be good for me -- it tastes too good!
+5579,50,176,796000,Chef Rodrigo,Rancho Relaxo,"That's where you're wrong, Troy. This whole pot is only fourteen calories."
+5580,50,177,804000,Troy McClure,Rancho Relaxo,"Ahh... Ahh... Gregory, where have you been all my life?"
+5581,50,178,809000,Troy McClure,Rancho Relaxo,Feeling tense?
+5582,50,179,810000,Marge Simpson,Rancho Relaxo,Uh-huh.
+5583,50,180,811000,Troy McClure,Rancho Relaxo,Then just push nine on your phone. Then the pound sign. Then four-eight-three. We'll do the rest.
+5584,50,181,822000,Homer Simpson,Rancho Relaxo,"C'mon, Maggie. Nummy, nummy num."
+5585,50,182,832000,Homer Simpson,Rancho Relaxo,Mmm. Strained peas.
+5586,50,183,849000,Homer Simpson,Rancho Relaxo,Let go!
+5587,50,184,851000,Gregory,Rancho Relaxo,"Marge, it's times like this I'm glad I flunked out of that Mexican med school."
+5590,50,186,860000,Homer Simpson,Moe's Tavern,Hi Barney. Thanks for keeping me company.
+5591,50,187,863000,Barney Gumble,Moe's Tavern,"No problem. Well, well, if it isn't little Bart. Remember your Uncle Barney? Hey Homer, let me hold him."
+5592,50,188,872000,Homer Simpson,Moe's Tavern,"All right, but just be careful."
+5593,50,189,874000,Barney Gumble,Moe's Tavern,"Whoa... someone smells stinky. Oh, it's me."
+5595,50,191,881000,Lisa Simpson,Patty and Selma's Bedroom,Bart you really shouldn't be looking through other people's things. Find anything good?
+5596,50,192,887000,Bart Simpson,Patty and Selma's Bedroom,I've said it before and I'll say it again... Aye carumba!
+5597,50,193,892000,Bart Simpson,Patty and Selma's Bedroom,"Hey, Lis -- Bang! Bang!"
+5598,50,194,893000,Lisa Simpson,Patty and Selma's Bedroom,"Ah, Bart! That's a black-head gun!"
+5599,50,195,896000,Bart Simpson,Patty and Selma's Bedroom,Eew!
+5600,50,196,900000,Patty Bouvier,Patty and Selma's Bedroom,Best MacGyver ever.
+5601,50,197,902000,Selma Bouvier,Patty and Selma's Bedroom,Mm-hmm. Richard Dean Anderson will be in my dreams tonight.
+5604,50,200,924000,Homer Simpson,Simpson Home,"GO TO SLEEP AND GOODNIGHT/ DA DA DA / DA DA DA DA DA DA DA DA/ DEE DEE DEE / DEE DEE / May your Christmas day be nice. Goodnight, my little pork chop."
+5608,50,204,990000,Homer Simpson,Simpson Home,"Oh Maggie, time for your nine a.m. feeding."
+5609,50,205,994000,Homer Simpson,Simpson Home,"Heh, heh, heh."
+5611,50,207,1002000,Homer Simpson,Simpson Home,Maggie?
+5612,50,208,1003000,Homer Simpson,Simpson Home,Maggie?
+5613,50,209,1005000,Homer Simpson,Simpson Home,Maggie?
+5614,50,210,1008000,Homer Simpson,Simpson Home,Maggie?
+5615,50,211,1011000,Homer Simpson,Simpson Home,Maggieeee!!!!
+5616,50,212,1012000,Barney Gumble,Simpson Home,"Oh man, you want a bad night, try sleeping on one of these."
+5617,50,213,1018000,Homer Simpson,Simpson Home,"Barney, I've lost the baby. It's the worst thing I've ever done."
+5618,50,214,1021000,Barney Gumble,Simpson Home,"Don't worry, don't worry. You know what I'm gonna do? I'm gonna make you an omlette."
+5619,50,215,1026000,Homer Simpson,Simpson Home,Just help me look!
+5620,50,216,1027000,Barney Gumble,Simpson Home,Are you sure? I make 'em with two kinds of cheese.
+5621,50,217,1028000,Homer Simpson,Simpson Home,C'mon!
+5622,50,218,1032000,Barney Gumble,Simpson Home,"Hey, Homer. I think I've got her."
+5623,50,219,1035000,Barney Gumble,Simpson Home,Come on!
+5624,50,220,1037000,Homer Simpson,Simpson Home,Barney! You're gonna pull her arm off.
+5625,50,221,1039000,Barney Gumble,Simpson Home,"The sooner I get her out, the sooner we can have omlettes."
+5628,50,224,1061000,FABRIZIO,HAIR SALON,"So, what's the verdict?"
+5629,50,225,1062000,Woman,HAIR SALON,"Oh, dear God! I can't even put a bag over my head!"
+5630,50,226,1066000,FABRIZIO,HAIR SALON,"Yes, you can."
+5632,50,228,1070000,Homer Simpson,Simpson Home,Hello... I'd like the department of missing babies.
+5633,50,229,1072000,Voice,Simpson Home,Please hold.
+5635,50,231,1074000,Marge Simpson,Rancho Relaxo,"""Bungee jumping, kayaking, calligraphy, cigar making, hula dancing... hmm... I guess I've done everything."
+5636,50,232,1096000,Troy McClure,Rancho Relaxo,By now you've seen what Rancho Relaxo has to offer.
+5637,50,233,1099000,Marge Simpson,Rancho Relaxo,Uh-huh.
+5638,50,234,1101000,Troy McClure,Rancho Relaxo,"But remember, we can't tell you how to have a good time. You have to tell us."
+5639,50,235,1105000,Marge Simpson,Rancho Relaxo,Oh.
+5640,50,236,1106000,Troy McClure,Rancho Relaxo,"As I said to Dolores Montenegro in ""Calling All Quakers"": ""Have it your way, baby."""
+5641,50,237,1110000,Marge Simpson,Rancho Relaxo,"Hello, room service? This is Marge Simpson. I'd like a hot fudge sundae. With whipped cream. And some chocolate chip cheesecake. And a bottle of tequila."
+5642,50,238,1129000,Woman On Tv #1,Rancho Relaxo,"Let's get outta here, Thelma."
+5643,50,239,1131000,Woman On Tv #2,Rancho Relaxo,Okay Louise.
+5646,50,242,1148000,Patty Bouvier,Patty and Selma's Apartment,What do you want?
+5647,50,243,1149000,Homer Simpson,Patty and Selma's Apartment,I came to see the kids.
+5648,50,244,1151000,Patty Bouvier,Patty and Selma's Apartment,Wait here. And don't steal any light bulbs.
+5649,50,245,1154000,Homer Simpson,Patty and Selma's Apartment,Hmmm.
+5650,50,246,1156000,Lisa Simpson,Patty and Selma's Apartment,Dad!
+5651,50,247,1157000,Homer Simpson,Patty and Selma's Apartment,Hey kids... uh... you haven't seen Maggie around anyplace have you?
+5652,50,248,1162000,Lisa Simpson,Patty and Selma's Apartment,Uh-um.
+5653,50,249,1164000,Homer Simpson,Patty and Selma's Apartment,"Well, I gotta go."
+5654,50,250,1169000,Patty Bouvier,Patty and Selma's Apartment,"C'mon kids, it's time to rub Aunt Patty's feet."
+5657,50,253,1177000,Teenage Boy,GARAGE,Hello Guv'nor. Lube job while you wait?
+5658,50,254,1181000,Man Shopper,GARAGE,Don't touch me.
+5660,50,256,1190000,Homer Simpson,Simpson Home,Y'ello.
+5589,50,258,1191000,Marge Simpson,Rancho Relaxo,Hi Homie. I feel much better.
+5662,50,260,1194000,Homer Simpson,Simpson Home,"Listen, Marge, uh, how would you feel if I told you the dog ran away?"
+5663,50,261,1200000,Marge Simpson,Simpson Home,"Homer, that's awful!"
+5664,50,262,1201000,Homer Simpson,Simpson Home,"Oh. Well, I've got good news for you. The dog didn't run away."
+5665,50,263,1205000,Marge Simpson,Simpson Home,"Well, good. I'm coming home, honey. You can pick me up at the train station in an hour. And bring the kids. Bye!"
+5668,50,266,1214000,Chief Wiggum,Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor,"Please, don't jump. I know you're going through some tough times, but you have your whole life ahead of you!"
+5670,50,268,1223000,Homer Simpson,Simpson Home,"Now, Marge. Maggie was very young. It's not like we got so attached to her. No. Marge, isn't life funny? One day they're babies, the next thing you know, they're off on their own. Oh."
+5671,50,269,1239000,Chief Wiggum,Simpson Home,You the man who reported the lost baby?
+5672,50,270,1241000,Homer Simpson,Simpson Home,Yes.
+5673,50,271,1241000,CHIF WIGGUM,Simpson Home,Can you describe her?
+5674,50,272,1242000,Homer Simpson,Simpson Home,Uh... she's small... she's a girl...
+5675,50,273,1246000,Chief Wiggum,Simpson Home,Bingo!
+5676,50,274,1247000,Homer Simpson,Simpson Home,Oh Maggie!
+5677,50,275,1248000,Chief Wiggum,Simpson Home,Not so fast! You're wanted on three counts of criminal neglect.
+5678,50,276,1252000,Homer Simpson,Simpson Home,"You found my baby. Oh, thank you, thank you, thank you!"
+5679,50,277,1258000,Chief Wiggum,Simpson Home,"Ah, shucks. Just don't do it again, you big lug."
+5681,50,279,1263000,Homer Simpson,Homer's Car,You're not going anywhere.
+5684,50,282,1288000,Marge Simpson,Marge's Train,"Hi, did you miss me?"
+5685,50,283,1292000,Homer Simpson,Marge's Train,Never leave again... never leave again... never leave again.
+5686,50,284,1296000,Marge Simpson,Marge's Train,I missed you too.
+5688,50,286,1298000,Marge Simpson,Simpson Home,And from now on I hope you'll help me out a little more than you're used to.
+5689,50,287,1301000,Homer Simpson,Simpson Home,"You got it, sweetheart. You have enough blanket there?"
+5690,50,288,1304000,Marge Simpson,Simpson Home,"Well, I could use a little more. And sometimes I want a little time to myself, and I expect you to help --"
+5692,50,289,1311000,Bart Simpson,Simpson Home,"Mom, I think I speak for everyone in this bed when I say you have nothing to worry about. Now let's just try and get a little shut eye, okay?"

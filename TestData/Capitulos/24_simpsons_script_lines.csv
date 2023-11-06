@@ -1,0 +1,291 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+155586,24,1,32000,Homer Simpson,Simpson Kitchen,Is it done yet? Is it done yet?
+155587,24,2,61000,Marge Simpson,Simpson Kitchen,"Your meatloaf will be ready in eight seconds, Homer."
+155588,24,3,64000,Homer Simpson,Simpson Kitchen,"Isn't there anything faster than a microwave? Four, three, two, one, ping!"
+155589,24,4,71000,Homer Simpson,Simpson Kitchen,We have meatloaf!
+155590,24,5,72000,Marge Simpson,Simpson Kitchen,"Get it while it's unbelievably hot, kids!"
+155591,24,6,76000,Homer Simpson,Simpson Kitchen,"Yum. I've got a dried out end-piece with your name on it, Lisa."
+155592,24,7,81000,Lisa Simpson,Simpson Kitchen,"Thursday -- meatloaf night. As it was, is now, and ever shall be."
+155593,24,8,86000,Homer Simpson,Simpson Kitchen,What are you getting at?
+155594,24,9,87000,Lisa Simpson,Simpson Kitchen,"Well, you're always trying to teach me to be opened-minded, try new things, live life to the..."
+155595,24,10,91000,Homer Simpson,Simpson Kitchen,What are you talking about? Nobody's trying to teach you that.
+155596,24,11,95000,Homer Simpson,Simpson Kitchen,"Shut up, boy."
+155597,24,12,95000,Marge Simpson,Simpson Kitchen,"Well, maybe Lisa's right. Tomorrow night it might be nice to go out for dinner."
+155598,24,13,100000,Homer Simpson,Simpson Kitchen,"Tomorrow night!? Friday!? Pork chop night!? Marge, we haven't missed pork chop night since the great pig scare in '87."
+155599,24,14,107000,Lisa Simpson,Simpson Kitchen,"Friday night, pork chops. From cradle to grave... etched in stone in God's library somewhere..."
+155600,24,15,113000,Homer Simpson,Simpson Kitchen,"Okay, okay, okay, okay. Where do you want to go?"
+155601,24,16,116000,Lisa Simpson,Simpson Kitchen,"Anywhere but hamburgers, pizza or fried chicken."
+155602,24,17,118000,Homer Simpson,Simpson Kitchen,Fine. We'll go to Mars.
+155603,24,18,120000,Marge Simpson,Simpson Kitchen,There's that new sushi restaurant on Elm Street.
+155604,24,19,122000,Bart Simpson,Simpson Kitchen,"Sushi? Hey, maybe this is just one of those things you hear on the playground... but, isn't that raw fish?"
+155605,24,20,128000,Lisa Simpson,Simpson Kitchen,"As usual, the playground has the facts right, but missed the point entirely. Sushi is considered quite a delicacy."
+155606,24,21,134000,Marge Simpson,Simpson Kitchen,"Please, Homer. Can't we try it?"
+155607,24,22,134000,Homer Simpson,Simpson Kitchen,No!
+155608,24,23,136000,Lisa Simpson,Simpson Kitchen,"Please, Dad. This argument humiliates us both."
+155609,24,24,138000,Homer Simpson,Simpson Kitchen,"If I said no the first time, what makes you think I'm gonna say yes the second time?"
+155610,24,25,143000,Lisa Simpson,Simpson Kitchen,"Nothing, but you might say yes the ninety-ninth time."
+155611,24,26,145000,Homer Simpson,Simpson Kitchen,"Oh, try me."
+155612,24,27,146000,Lisa Simpson,Simpson Kitchen,"Please, Dad."
+155613,24,28,146000,Homer Simpson,Simpson Kitchen,No.
+155614,24,29,146000,Lisa Simpson,Simpson Kitchen,"Please, Dad."
+155615,24,30,146000,Homer Simpson,Simpson Kitchen,No.
+155616,24,31,147000,Lisa Simpson,Simpson Kitchen,"Please, Dad."
+155617,24,32,147000,Homer Simpson,Simpson Kitchen,No!
+155618,24,33,148000,Lisa Simpson,Simpson Kitchen,"Please, Dad."
+155619,24,34,148000,Homer Simpson,Simpson Kitchen,No!
+155620,24,35,148000,Lisa Simpson,Simpson Kitchen,"Please, Dad."
+155621,24,36,148000,Homer Simpson,Simpson Kitchen,No!
+155622,24,37,149000,Lisa Simpson,Simpson Kitchen,"Please, Dad...please"
+155623,24,38,150000,Homer Simpson,Simpson Kitchen,"Oh, okay, okay!"
+155625,24,40,156000,Sushi Bar Chefs,The Happy Sumo,Irashiya!
+155626,24,41,156000,Hostess,The Happy Sumo,"Please, do not be alarmed. Our chefs are just saying hello."
+155627,24,42,162000,Homer Simpson,The Happy Sumo,"Oh, okay. HELLO!"
+155629,24,44,165000,Hostess,THE HAPPY SUMO CORRIDOR,"This is our karioke bar. Now it is empty, but soon it will be hopping with drunken Japanese businessmen."
+155631,24,46,173000,Akira,TATAMI ROOM,"I am Akira, your waiter. May I take your order?"
+155632,24,47,176000,Marge Simpson,TATAMI ROOM,What would you recommend for a family that's not sure they should be here?
+155633,24,48,180000,Akira,TATAMI ROOM,The sushi sampler has a little bit of everything. It is very non-threatening.
+155634,24,49,185000,Marge Simpson,TATAMI ROOM,I'll have one of those.
+155635,24,50,186000,Lisa Simpson,TATAMI ROOM,Make it two.
+155636,24,51,187000,Bart Simpson,TATAMI ROOM,"Akira, my good man, I'd like two sharks, an octopus and an eel."
+155637,24,52,190000,Akira,TATAMI ROOM,Very good.
+155638,24,53,191000,Bart Simpson,TATAMI ROOM,Do you have any giant squid? The kind that drags men to their deaths?
+155639,24,54,194000,Akira,TATAMI ROOM,Not today. And sir?
+155640,24,55,196000,Homer Simpson,TATAMI ROOM,"It's so hard to choose. It all looks so terrible. Just bring me one of these, and one of these, and one of those."
+155642,24,57,211000,Toshiro,The Happy Sumo,"What do you think, Master?"
+155643,24,58,213000,Master,The Happy Sumo,"No, no, no. Toshiro, the squid looks like it's been hacked by a blind woodsman. Hang your head in shame."
+155644,24,59,227000,Homer Simpson,The Happy Sumo,Good thing I'm open-minded.
+155645,24,60,231000,Homer Simpson,The Happy Sumo,Hmmm. Hmmm. Not bad. Interesting.
+155646,24,61,234000,Homer Simpson,The Happy Sumo,"I'll try this little pink one, here. Hmmm, very good. Another one."
+155647,24,62,239000,Homer Simpson,The Happy Sumo,"Oh boy, this fish is dee-lish!"
+155648,24,63,245000,Richie Sakai,The Happy Sumo,Hi. My name is Richie Sakai. I'm an anesthesiologist.
+155649,24,64,249000,Richie Sakai,The Happy Sumo,"And I'd like to dedi-cate this next song to my wife, Patti. ""I WAS BORN IN THE WAGON OF A TRAVELLING SHOW / MAMA USED TO DANCE FOR THE MONEY THEY'D THROW / PAPA WOULD DO WHATEVER HE COULD..."""
+155650,24,65,268000,Homer Simpson,The Happy Sumo,"... oh, oh, and two of these things."
+155651,24,66,271000,Akira,The Happy Sumo,Two uni.
+155652,24,67,272000,Homer Simpson,The Happy Sumo,"And, Oh, Oh, I don't believe I've tried the flying fish roe..."
+155653,24,68,275000,Akira,The Happy Sumo,I recommend it with a raw quail egg on top.
+155654,24,69,278000,Homer Simpson,The Happy Sumo,You're the doctor!
+155655,24,70,283000,Bart Simpson,The Happy Sumo,WHO'S THE BLACK PRIVATE DICK THAT'S THE SEX MACHINE TO ALL THE CHICKS?
+155656,24,71,287000,Lisa Simpson,The Happy Sumo,Shaft.
+155657,24,72,288000,Bart Simpson,The Happy Sumo,You're damn right. WHO'S THE CAT THAT WON'T COP OUT / WHEN THERE'S DANGER ALL ABOUT?
+155658,24,73,295000,Lisa Simpson,The Happy Sumo,Shaft.
+155659,24,74,297000,Bart Simpson,The Happy Sumo,Right on.
+155660,24,75,298000,Homer Simpson,The Happy Sumo,There's gotta be something I haven't tried. Huh? Hey! What's this? Fugu!
+155661,24,76,304000,Akira,The Happy Sumo,"It is blowfish, sir. But I should warn you that one..."
+155662,24,77,308000,Homer Simpson,The Happy Sumo,"Come on, pal! Fugu me!"
+155663,24,78,312000,Bart Simpson,The Happy Sumo,THEY SAY THIS CAT SHAFT IS A BAD MOTHER...
+155664,24,79,315000,Lisa Simpson,The Happy Sumo,Shut your mouth!
+155665,24,80,316000,Bart Simpson,The Happy Sumo,But I'm talkin' about Shaft.
+155666,24,81,318000,Lisa Simpson,The Happy Sumo,I can dig it!
+155667,24,82,320000,Bart Simpson,The Happy Sumo,HE'S A COMPLICATED MAN BUT NO ONE UNDERSTANDS HIM BUT HIS WOMAN.
+155668,24,83,326000,Lisa Simpson,The Happy Sumo,John Shaft.
+155669,24,84,327000,Master,The Happy Sumo,"Oh, she's here. Cover for me."
+155670,24,85,332000,Akira,The Happy Sumo,One fugu.
+155671,24,86,333000,Toshiro,The Happy Sumo,Not fugu! If it is cut improperly it's... it's...
+155672,24,87,336000,Akira,The Happy Sumo,"Yes, yes, it is poisonous, potentially fatal, but if sliced properly, it can be quite tasty."
+155673,24,88,342000,Toshiro,The Happy Sumo,I must get the Master.
+155674,24,89,345000,Master,The Happy Sumo,"Oh, Miss Krabappel, your hair smells so clean."
+155675,24,90,352000,Toshiro,The Happy Sumo,"Master, you are needed in the kitchen."
+155676,24,91,355000,Master,The Happy Sumo,"I said cover for me, damn it!"
+155677,24,92,357000,Toshiro,The Happy Sumo,"But Master, we need your skilled hands."
+155678,24,93,360000,Master,The Happy Sumo,My skilled hands are busy. You do it!
+155679,24,94,368000,Toshiro,The Happy Sumo,"Poison, poison, tasty fish."
+155680,24,95,374000,Toshiro,The Happy Sumo,Concentrate. Concentrate...
+155681,24,96,378000,Homer Simpson,The Happy Sumo,I want fugu!
+155682,24,97,383000,Homer Simpson,The Happy Sumo,Mmmm. Fan-fugu-tastic.
+155683,24,98,397000,Homer Simpson,The Happy Sumo,"Beautiful language, isn't it, Marge?"
+155684,24,99,400000,Toshiro,The Happy Sumo,"For God's sake, don't eat another bite!"
+155685,24,100,403000,Homer Simpson,The Happy Sumo,"Oh, I couldn't possibly."
+155686,24,101,404000,Toshiro,The Happy Sumo,Mr. Simpson-san. I shall be blunt. We have reason to believe you have eaten poison.
+155687,24,102,410000,Homer Simpson,The Happy Sumo,Poison! What should I do? What should I do? Tell me quick!
+155688,24,103,413000,Toshiro,The Happy Sumo,"Oh, no need to panic. There's a map to the hospital on the back of the menu."
+155690,24,105,420000,Homer Simpson,Hospital,"""Try something new, Homer. What'll it hurt you, Homer?"" I never heard of a poison pork chop."
+155691,24,106,426000,Dr. Julius Hibbert,Hospital,"Hmmm, your wife agreed that I should break this to you."
+155692,24,107,429000,Homer Simpson,Hospital,"No need, Doc. I can read Marge like a book."
+155693,24,108,434000,Homer Simpson,Hospital,"Oooh! It's good news, isn't it?"
+155694,24,109,436000,Dr. Julius Hibbert,Hospital,"No, Mr. Simpson. If in fact, you've consumed the venom of the blowfish -- and from what the chef has told me, it's quite probable, you have twenty-four hours to live."
+155695,24,110,446000,Homer Simpson,Hospital,Twenty-four hours?
+155696,24,111,447000,Dr. Julius Hibbert,Hospital,"Well, twenty-two. I'm sorry I kept you waiting so long."
+155697,24,112,450000,Homer Simpson,Hospital,"Oh Marge, I'm gonna die. I'm gonna die."
+155698,24,113,454000,Dr. Julius Hibbert,Hospital,"Well, if there's one consolation it's that you will feel no pain at all until some time tomorrow evening when your heart suddenly explodes."
+155699,24,114,462000,Dr. Julius Hibbert,Hospital,"Now, a little death anxiety is normal. You can expect to go through five stages. The first is denial."
+155700,24,115,468000,Homer Simpson,Hospital,No way! Because I'm not dying.
+155701,24,116,470000,Dr. Julius Hibbert,Hospital,The second is anger.
+155702,24,117,471000,Homer Simpson,Hospital,Why you little --
+155703,24,118,472000,Dr. Julius Hibbert,Hospital,And after that comes fear.
+155704,24,119,474000,Homer Simpson,Hospital,What's after fear? What's after fear?
+155705,24,120,475000,Dr. Julius Hibbert,Hospital,Bargaining.
+155706,24,121,477000,Homer Simpson,Hospital,"Doc, you gotta get me out of this. I'll make it worth your while."
+155707,24,122,479000,Dr. Julius Hibbert,Hospital,"Finally, acceptance."
+155708,24,123,481000,Homer Simpson,Hospital,"Well, we all gotta go some time."
+155710,24,124,483000,Dr. Julius Hibbert,Hospital,"Mr. Simpson, your progress astounds me. I-I should leave you two alone. Perhaps this pamphlet will be helpful."
+155711,24,125,502000,Homer Simpson,Hospital,So you're going to die... 
+155713,24,127,502000,Homer Simpson,Bedroom,"Hello, Marge? Hello? I'm the one who's dying, not you."
+155714,24,128,507000,Marge Simpson,Bedroom,"I'm sorry, Homer. Have you thought about what you want to tell the kids?"
+155715,24,129,513000,Homer Simpson,Bedroom,Nothing. It'll just upset them. I want my last hours of family life to be happy ones.
+155716,24,130,519000,Marge Simpson,Bedroom,"Well, have you decided what you want to do tomorrow?"
+155717,24,131,522000,Homer Simpson,Bedroom,Almost.
+155718,24,132,528000,Homer Simpson,Bedroom,"I'm not done yet, Marge. What's that word you use for when you and I... you know..."
+155719,24,133,536000,Marge Simpson,Bedroom,When we're intimate?
+155720,24,134,538000,Homer Simpson,Bedroom,Be intimate with Marge.
+155721,24,135,541000,Marge Simpson,Bedroom,Can I just make one suggestion? Can we get up early and watch the sunrise together?
+155722,24,136,545000,Homer Simpson,Bedroom,"Ah, watch the sunrise."
+155723,24,137,551000,Homer Simpson,Bedroom,"Till six a.m., my dearest darling and my last day on earth."
+155724,24,138,567000,Homer Simpson,Bedroom,"Eleven-thirty! Oh, that's just great."
+155726,24,140,570000,Homer Simpson,KITCHEN,"Marge, why did you let me sleep so late?"
+155727,24,141,572000,Marge Simpson,KITCHEN,You looked so peaceful lying there.
+155728,24,142,574000,Homer Simpson,KITCHEN,There'll be plenty of time for that! I've got tons of important stuff to do.
+155729,24,143,578000,Homer Simpson,KITCHEN,Bart! Bart!
+155731,24,145,579000,Homer Simpson,Bart's Bedroom,Have man-to-man with Bart.
+155732,24,146,579000,Homer Simpson,Bart's Bedroom,"Come here, boy."
+155733,24,147,585000,Bart Simpson,Bart's Bedroom,"Oh, man."
+155734,24,148,588000,Homer Simpson,Bart's Bedroom,"Nooo, I just want to have a heart-to-heart talk."
+155735,24,149,591000,Bart Simpson,Bart's Bedroom,Oh.
+155736,24,150,593000,Homer Simpson,Bart's Bedroom,"You know, Bart, after me, you're the man around the house, and that means you're gonna have to help out with --"
+155737,24,151,598000,Bart Simpson,Bart's Bedroom,"Oh, come on, I do plenty around here! Lisa never lifts a finger. Why don't you go yell at her?"
+155738,24,152,601000,Homer Simpson,Bart's Bedroom,"Shut up! Bart, this is good stuff. I want to share something with you -- the three little sentences that will get you through life. Number one, ""cover for me."" Number two, ""oh, good idea, boss."" Number three, ""it was like that when I got here."""
+155739,24,153,618000,Bart Simpson,Bart's Bedroom,"Hey, this is good stuff."
+155709,24,154,619000,Homer Simpson,Bart's Bedroom,"Told ya. Now, come on. You're gonna learn how to shave."
+155740,24,156,622000,Homer Simpson,Bathroom,"...and, finally, the little spot under your nose. Next, we take some toilet paper, tear off some teensy little squares, and stick one there, and there, and any place you're bleeding. There and there. Don't worry, the blood will hold it right on your face. Now, some aftershave."
+155741,24,157,645000,Homer Simpson,Bathroom,Ah! Ooh! Arg! Son of a -- ! Ah! And that's how we shave.
+155742,24,158,654000,Homer Simpson,Bathroom,"Oh, Why you little --"
+155743,24,159,656000,Bart Simpson,Bathroom,It was like that when I got here.
+155744,24,160,658000,Homer Simpson,Bathroom,"Oh, that's my boy."
+155745,24,161,661000,Homer Simpson,Bathroom,Listen to Lisa play her sax.
+155747,24,163,661000,Lisa Simpson,Lisa's Bedroom,"Hi, Dad. Want me to cut out this infernal racket?"
+155748,24,164,669000,Homer Simpson,Lisa's Bedroom,No. Let me hear you play.
+155749,24,165,671000,Lisa Simpson,Lisa's Bedroom,Why?
+155750,24,166,673000,Homer Simpson,Lisa's Bedroom,"Does a father have to explain? Let's just share your gift, okay?"
+155751,24,167,690000,Homer Simpson,Lisa's Bedroom,"Yeah, that's more like it! ""OH, I WANT TO BE IN THAT RUMBA / WHEN THE SAINTS GO OVER THERE.... OVER THERE... OVER THERE."""
+155753,24,169,712000,Ned Flanders,Flanders Home,"Simpson, what a pleasant surprise. We were just pulling taffy."
+155754,24,170,719000,Homer Simpson,Flanders Home,"Gee, the fun never stops at the Flanders house, does it?"
+155755,24,171,722000,Ned Flanders,Flanders Home,No-sirree-Bob!
+155756,24,172,724000,Homer Simpson,Flanders Home,"Hey, Flanders, could I borrow your camcorder?"
+155757,24,173,726000,Ned Flanders,Flanders Home,"Okey-dokel. Hey, why don't you and your family come over for a barbecue tomorrow?"
+155758,24,174,731000,Homer Simpson,Flanders Home,"No, thanks."
+155759,24,175,733000,Ned Flanders,Flanders Home,"Oh, are you sure? We got that new propane beauty just sittin' in the back yard."
+155760,24,176,736000,Homer Simpson,Flanders Home,"No, I don't want-a..."
+155761,24,177,738000,Ned Flanders,Flanders Home,"Oh, it's crying out to cook up some good eatin'."
+155762,24,178,740000,Homer Simpson,Flanders Home,"Flanders, I said I didn't -- Tomorrow? Sure, what the hey. I'd love to come to your barbecue. I'll even bring the thickest, juiciest T-bones you've ever seen."
+155763,24,179,755000,Ned Flanders,Flanders Home,"Mmm Mm, sounds terriff!"
+155765,24,181,757000,Homer Simpson,FLANDERS DOOR,"Heh-heh. The joke's on him, I'll be dead by then."
+155769,24,183,764000,Homer Simpson,Simpson Living Room,"This is a videotape for my daughter, Maggie. Hi, Maggie. I'm speaking to you from beyond the grave. Oooooooh. Hope that didn't scare you. Well, you're a grown-up now, and unless you've taped over this, you're probably wondering what kind of man your father was... He was a simple man. A kind man. A gentle man who loved his children and..."
+155770,24,184,791000,Homer Simpson,Simpson Living Room,Hello? Yeah he's here who is this? Bart's friend Milhouse. Bart! Get your butt down here!
+155772,24,186,803000,Homer Simpson,Springfield Retirement Castle,Dad --
+155773,24,187,804000,Grampa Simpson,Springfield Retirement Castle,"Huh? Oh, it's you. What do you want?"
+155774,24,188,807000,Homer Simpson,Springfield Retirement Castle,"Dad, we've never been too close, have we?"
+155775,24,189,809000,Grampa Simpson,Springfield Retirement Castle,Not to my knowledge.
+155776,24,190,811000,Homer Simpson,Springfield Retirement Castle,"Never went fishing, or played catch, or even hugged each other."
+155777,24,191,814000,Grampa Simpson,Springfield Retirement Castle,"We never danced the Hoochy-Koo, either. What's your point?"
+155778,24,192,817000,Homer Simpson,Springfield Retirement Castle,"I just want you to know that I love you, Dad."
+155779,24,193,821000,Grampa Simpson,Springfield Retirement Castle,You do?
+155780,24,194,822000,Homer Simpson,Springfield Retirement Castle,Huh uh.
+155781,24,195,824000,Grampa Simpson,Springfield Retirement Castle,"Oh, son, I love you, too. Hey, how about a hug?"
+155782,24,196,828000,Homer Simpson,Springfield Retirement Castle,Dad!
+155783,24,197,829000,Grampa Simpson,Springfield Retirement Castle,Sonny boy!
+155784,24,198,829000,Homer Simpson,Springfield Retirement Castle,Papa!
+155785,24,199,830000,Grampa Simpson,Springfield Retirement Castle,Junior!
+155786,24,200,830000,Homer Simpson,Springfield Retirement Castle,"My old man. Well, I gotta go."
+155787,24,201,836000,Grampa Simpson,Springfield Retirement Castle,"Oh, son, no. We've got a lotta catchin' up to do. What do you say... we go fishin'?"
+155788,24,202,841000,Homer Simpson,Springfield Retirement Castle,"Well, gee, Dad, if I wasn't on such a tight schedule--"
+155789,24,203,844000,Homer Simpson,Springfield Retirement Castle,"Well, I ... Oh, let's get some worms."
+155790,24,204,852000,Homer Simpson,Springfield Retirement Castle,"Well, no time for that."
+155791,24,205,860000,Homer Simpson,Springfield Retirement Castle,"Oh, I really wanted to do that one."
+155792,24,206,866000,Homer Simpson,Springfield Retirement Castle,"Gee, Dad. Way to hog my last moments."
+155794,24,208,868000,Grampa Simpson,Parking Lot,Just a quick game of hacky-sack.
+155795,24,209,874000,Grampa Simpson,Parking Lot,"I love you, son!"
+155796,24,210,875000,Homer Simpson,Parking Lot,"Yeah, yeah. The old guy's a little love-starved."
+155798,24,212,879000,Homer Simpson,Car,"Get moving, you hunk of junk. I gotta make up for lost time."
+155767,24,215,887000,Homer Simpson,SIDE OF THE HIGHWAY,"I'm sorry, Officer. I know I was going too fast. Just give me a ticket."
+155768,24,216,891000,Eddie,SIDE OF THE HIGHWAY,I beg your pardon?
+155420,24,217,892000,Homer Simpson,SIDE OF THE HIGHWAY,Just give me a ticket.
+155800,24,218,894000,Lou,SIDE OF THE HIGHWAY,"Whoa! Well, that sounded like an order."
+155801,24,219,896000,Homer Simpson,SIDE OF THE HIGHWAY,"I pay my taxes and they pay your salary, so when I say ""give me a ticket"", just give me a ticket."
+155802,24,220,904000,Eddie,SIDE OF THE HIGHWAY,Uh huh. Maybe we don't want to give you a ticket.
+155803,24,221,906000,Lou,SIDE OF THE HIGHWAY,"Maybe we want to haul your butt in, wiseguy."
+155805,24,223,911000,Eddie,JAIL CELLBLOCK,"Hey, look what else your tax dollars pay for, huh."
+155807,24,225,925000,Homer Simpson,Jail,That's sorta nice. What are you in for?
+155808,24,226,927000,Cellmate,Jail,Atmosphere.
+155809,24,227,929000,Eddie,Jail,"Okay, Flash. You get one phone call."
+155810,24,228,932000,Homer Simpson,Jail,Wait! I can't call Marge. It's our last day on earth together. I can't drag her into this mess. I know! I'll call Barney.
+155812,24,230,944000,Crazy Calls,Barney's Apartment,Nobody's here... nobody's here... nobody'sherenobody'sherenobody's here...
+155814,24,232,947000,Homer Simpson,Jail,Damn those novelty telephone answering machine tapes!
+155816,24,234,950000,Homer Simpson,Barney's Apartment,"Thanks a lot, Barney. I just wasted my one phone call on your stupid ma--"
+155817,24,235,954000,Barney Gumble,Barney's Apartment,"What? I'm home. I'm home. Hi, Homer."
+155818,24,236,958000,Homer Simpson,Barney's Apartment,"You gotta help me, Barney. I'm in jail."
+155819,24,237,960000,Barney Gumble,Barney's Apartment,"You are? Hey, Homer. Go to the window."
+155821,24,239,963000,Barney Gumble,View Out Barney's Window,"Hiya, neighbor. I can see you."
+155822,24,240,966000,Homer Simpson,View Out Barney's Window,Ju... ju....just get over here and bring fifty bucks for bail.
+155823,24,241,969000,Barney Gumble,View Out Barney's Window,Fifty bucks! What'd you do -- kill a judge? Where am I gonna get fifty bucks?
+155824,24,242,979000,Barney Gumble,View Out Barney's Window,"Mmmm, pizza."
+155826,24,244,984000,Bart Simpson,Simpson Home,Why are we all dressed up?
+155827,24,245,986000,Marge Simpson,Simpson Home,Because sometimes it's fun to dress up for dinner.
+155828,24,246,989000,Lisa Simpson,Simpson Home,Why are we using the good china?
+155829,24,247,991000,Marge Simpson,Simpson Home,Because sometimes it's fun to use the good china.
+155830,24,248,994000,Bart Simpson,Simpson Home,What's with the candles?
+155831,24,249,995000,Marge Simpson,Simpson Home,Sometimes it's fun to use candles.
+155832,24,250,997000,Lisa Simpson,Simpson Home,Why are we waiting for Dad?
+155834,24,251,998000,Marge Simpson,Simpson Home,Because we love your father and enjoy his company.
+155835,24,252,1002000,Bart Simpson,Simpson Home,Why are we really waiting for Dad?
+155837,24,254,1006000,Chief Wiggum,Jail,"Heh, forty-eight dollars and seventy cents... You know we don't usually take rusty money."
+155839,24,256,1013000,Barney Gumble,Barney's Car,You're dyin' and you weren't even gonna stop at Moe's for a last beer with your buddies?
+155840,24,257,1021000,Homer Simpson,Barney's Car,"Hey, Barney, look. It was on my list, along with a lot of other things I didn't get to do today. Hey, my boss!"
+155842,24,259,1029000,C. Montgomery Burns,Park,"Smithers, check out the luscious pair on that red-head. That's it, baby. Work those ankles."
+155843,24,260,1035000,Waylon Smithers,Park,"Ring-a-ding-ding, sir."
+155844,24,261,1036000,Homer Simpson,Park,"Hey, Burns! Eat my shorts!"
+155845,24,262,1039000,C. Montgomery Burns,Park,Who the Sam Hill was that?
+155846,24,263,1041000,Waylon Smithers,Park,"Why, it's Homer Simpson, sir. One of the schmos from Sector 7G."
+155847,24,264,1045000,C. Montgomery Burns,Park,"Simpson, eh? I want him in my office at nine o'clock Monday morning. We'll see who eats whose shorts!"
+155849,24,266,1052000,Homer Simpson,Barney's Car,Wow! Of all the luck! To think I almost died without telling the boss to eat my shorts.
+155850,24,267,1058000,Barney Gumble,Barney's Car,"Ah, Homer. Come on. You got time for one last beer. Please."
+155852,24,269,1065000,Homer Simpson,Moe's Tavern,I gotta call Marge.
+155853,24,270,1067000,Barney Gumble,Moe's Tavern,Ha!
+155854,24,271,1067000,Moe Szyslak,Moe's Tavern,"Hello, Moe's Tavern -- birthplace of the Rob Roy."
+155856,24,273,1073000,Bart Simpson,Simpson Home,"Is Seymour there? Last name, Butts."
+155858,24,275,1075000,Moe Szyslak,Moe's Tavern,"Just a sec. Hey, is there a Butts here? Seymour Butts? Hey, everybody. I wanna Seymour Butts!"
+155859,24,276,1087000,Moe Szyslak,Moe's Tavern,"Oh, wait a minute. Listen, you little scum-sucking pus-bucket. When I get my hands on you, I'm gonna pull out your eyeballs with a corkscrew."
+155860,24,277,1098000,Homer Simpson,Moe's Tavern,"Oh, it was busy. Moe, another last beer, please."
+155861,24,278,1103000,Homer Simpson,Moe's Tavern,"Guys, keep it down. I got some last words. I never told you this before, but sometimes when I'm at work, I think of you and smile. So often I think that ... oh, words won't do it. I love you, Moe."
+155862,24,279,1119000,Moe Szyslak,Moe's Tavern,"Please, not in public."
+155500,24,280,1121000,Smitty,Moe's Tavern,You better be dyin'!
+155863,24,281,1122000,Homer Simpson,Moe's Tavern,"I love you, Barney."
+155864,24,282,1123000,Barney Gumble,Moe's Tavern,"Oh, how European."
+155865,24,283,1127000,Homer Simpson,Moe's Tavern,"Come on, Barney, I gotta get home."
+155867,24,285,1131000,Homer Simpson,Barney's Car,"Faster, Barney, faster."
+155868,24,286,1132000,Barney Gumble,Barney's Car,I'm twirling as fast as I can.
+155869,24,287,1137000,Homer Simpson,Barney's Car,"Oh, I can't wait any longer. Hold on, Marge. I'm comin' home, baby."
+155871,24,289,1147000,Marge Simpson,Simpson Home,"Oh, where can he be?"
+155872,24,290,1150000,Homer Simpson,Simpson Home,Marge! Marge!
+155873,24,291,1153000,Marge Simpson,Simpson Home,Homer!
+155874,24,292,1154000,Homer Simpson,Simpson Home,There's no time to explain.
+155875,24,293,1156000,Homer Simpson,Simpson Home,Love you. Love you. Love you.
+155876,24,294,1160000,Marge Simpson,Simpson Home,"I wrote a poem for you this afternoon, Homer. It's called, ""To A Husband."""
+155877,24,295,1162000,Homer Simpson,Simpson Home,"Okay, okay."
+155878,24,296,1165000,Marge Simpson,Simpson Home,"Ahem. ""The blackened clouds are forming ..."""
+155879,24,297,1165000,Homer Simpson,Simpson Home,"Oh, gimme a break, Marge."
+155880,24,298,1170000,Marge Simpson,Simpson Home,"""... Soon the rain will fall / My dear one is departing/ But first please heed this call / That always will I love you / My one, my love, my all."""
+155881,24,299,1172000,Homer Simpson,Simpson Home,That was beautiful.
+155882,24,300,1200000,Homer Simpson,Simpson Home,"Goodbye, Maggie -- stay as sweet as you are."
+155883,24,301,1207000,Homer Simpson,Simpson Home,"Goodbye, Lisa -- I know you'll make me proud."
+155884,24,302,1214000,Homer Simpson,Simpson Home,"Goodbye, Bart -- I like your sheets."
+155885,24,303,1222000,Homer Simpson,Simpson Home,The Good Book...
+155886,24,304,1224000,Homer Simpson,Simpson Home, ... on tape... 
+155887,24,305,1226000,Homer Simpson,Simpson Home,"""Oooo, as read by Larry King."""
+155888,24,306,1233000,Larry King,Simpson Home,"Hi, I'm Larry King. ""In the beginning God created the heaven and the earth. And the earth was without form, and void..."
+155889,24,307,1240000,LARRY KING V.O.,Simpson Home,"""Eleazar begat Phinehas, Phinehas begat Abishua. And Abishua"
+155890,24,308,1245000,LARRY KING V.O.,Simpson Home,...begat Ahimaaz. Ahimaaz begat
+155891,24,309,1248000,LARRY KING V.O.,Simpson Home,"And Amariah onward, and Amariah begat Ahitub. And Ahitub begat"
+155893,24,310,1253000,LARRY KING V.O.,Simpson Home,"Shallum begat Hilkiah, and Hilkiah begat Azariah. And he shall turn the heart of the Fathers to the children, and the heart of the children to their Fathers, less I come and smite the earth with a curse."" Well, that's it. Oh, friend Duke Zeevers standing by. We'll get some coffee... we'll get some matzo-ball soup. I love the San Antonio Spurs, by the way. If you're bettin' in the NBA this year, I think they're going to win it all. So I guess there's nothing more to say but..."
+155894,24,311,1272000,Marge Simpson,Simpson Home,Homer? Homer?
+155895,24,312,1293000,Marge Simpson,Simpson Home,"Oh, Homer, Homer."
+155896,24,313,1300000,Marge Simpson,Simpson Home,"His drool! It's warm! He's alive! Homer, Homer, wake up, you're alive!"
+155897,24,314,1310000,Homer Simpson,Simpson Home,All right. Stop it! Cut it out!
+155898,24,315,1311000,Marge Simpson,Simpson Home,Wake up! You're alive! You're alive!
+155899,24,316,1313000,Homer Simpson,Simpson Home,What are you talking about?
+155900,24,317,1314000,Marge Simpson,Simpson Home,You're alive!
+155901,24,318,1316000,Homer Simpson,Simpson Home,"I'm alive! I'm alive. And I couldn't be happier. From this day forward, I vow to live life to its fullest!"
+155902,24,319,1328000,Announcer,Simpson Home,"Strike, that's two in a row... Let's see that one again. Here it comes... excellent... Just about to go into the... My, my. Well if he makes this, he'll be down by 40 pins. This match though is far from over though, as you know."
+155903,24,320,1356000,Announcer #2,Simpson Home,"Yeah, it is far from over, but uh his approach has been wrong from the beginning as far as I'm concerned."
+155904,24,321,1356000,Announcer,Simpson Home,"Well, he's an erratic bowler, Chad. He tends to explode in the seven eight nine frame... Though I remember... in Boline, Illinois."
+155905,24,322,1356000,Announcer #2,Simpson Home,"Actually that, actually that was Pontiac, Michigan."
+155906,24,323,1356000,Announcer,Simpson Home,"Oh, thirty-eight pins going into the..."
+155907,24,324,1356000,Announcer #2,Simpson Home,Well he's stepping up now and he needs to get at least a spare...

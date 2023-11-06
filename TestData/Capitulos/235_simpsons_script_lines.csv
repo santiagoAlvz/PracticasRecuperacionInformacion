@@ -1,0 +1,288 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+57160,235,1,66000,Kent Brockman,Simpson Home,Our top story: The ozone hole that devastated Brazil last summer is apparently wintering in Springfield.
+57161,235,2,90000,Bart Simpson,Simpson Home,Woo! Springfield rocks!
+57162,235,3,91000,Kent Brockman,Simpson Home,"Residents are advised to stay inside, unless you wear sunscreen or are very, very, hairy. Experts recommend a Class Nine or Robin Williams level of hair coverage."
+57163,235,4,101000,Milhouse Van Houten,Simpson Home,Help! Somebody!
+57164,235,5,108000,Milhouse Van Houten,Simpson Home,"Let me in, for the love of...!"
+57165,235,6,113000,Lisa Simpson,Simpson Home,Are you okay?
+57064,235,7,114000,Milhouse Van Houten,Simpson Home,I've been better.
+57129,235,8,117000,Bart Simpson,Simpson Home,"Oh, I am so bored."
+57166,235,9,119000,Milhouse Van Houten,Simpson Home,I can't wait till we're teenagers. Then we'll be happy.
+57167,235,10,123000,Lisa Simpson,Simpson Home,"Well, we could play Clam Traffic Jam... Or the game of County Seats!"
+57168,235,11,123000,Lisa Simpson,Simpson Home,"Aw, the zoning disk is warped..."
+57169,235,12,133000,Bart Simpson,Simpson Home,"All right, Silly String!"
+57170,235,13,138000,Bart Simpson,Simpson Home,"Look, you're Milhouse."
+57171,235,14,139000,Milhouse Van Houten,Simpson Home,"Who wets their bed now, Milhouse?"
+57172,235,15,143000,Lisa Simpson,Simpson Home,I'll be in my room.
+57173,235,16,145000,Bart Simpson,Simpson Home,There's gotta be something fun in my parents' closet.
+57174,235,17,147000,Milhouse Van Houten,Simpson Home,Wanna dress up like ladies?
+57175,235,18,149000,Bart Simpson,Simpson Home,"Uh, wouldn't that make us kinda... fruity?"
+57176,235,19,153000,Milhouse Van Houten,Simpson Home,"What's the matter, scared you might like it?"
+57177,235,20,156000,Bart Simpson,Simpson Home,"I'll show you who's scared. Oh, wow, this really hides my thighs."
+57178,235,21,166000,Milhouse Van Houten,Simpson Home,Sis-ters are doin' it for themselves!
+57179,235,22,170000,Homer Simpson,Simpson Home,"Hey, why is this door locked?"
+57180,235,23,171000,Bart Simpson,Simpson Home,"Oh, no! It's Dad!"
+57182,235,25,177000,Homer Simpson,Simpson Home,What's going on? And I want the non-gay explanation.
+57183,235,26,182000,Milhouse Van Houten,Simpson Home,"Uh, we're drunk. Really drunk!"
+57184,235,27,185000,Homer Simpson,Simpson Home,"Oh, thank God."
+57187,235,30,191000,Dr. Julius Hibbert,Hospital Room,Clear!
+57188,235,31,192000,Marge Simpson,Hospital Room,Why are you doing that?
+57189,235,32,194000,Dr. Julius Hibbert,Hospital Room,"Oh, it's good for the batteries. Now, I'm afraid your son has cracked his coccyx."
+57190,235,33,200000,Marge Simpson,Hospital Room,"Sorry, how long will he take to recover?"
+57191,235,34,203000,Dr. Julius Hibbert,Hospital Room,He'll have to wear this fanny cast for quite some time.
+57192,235,35,206000,Dr. Julius Hibbert,Hospital Room,"But don't worry, son. It fits snugly under your clothes."
+57193,235,36,211000,Bart Simpson,Hospital Room,Do all these people have to watch me?
+57194,235,37,214000,Dr. Julius Hibbert,Hospital Room,"Now, son, this is a teaching hospital, which is why I equipped the seat of your cast with a viewing window."
+57197,235,40,222000,Bart Simpson,Springfield Elementary School,"Uhh, little help?"
+57198,235,41,231000,Seymour Skinner,Springfield Elementary School,"Bart, stop fooling around."
+57200,235,42,233000,Lisa Simpson,Springfield Elementary School,"Principal Skinner, I thought public schools were required to have access ramps for the disabled."
+57201,235,43,239000,Seymour Skinner,Springfield Elementary School,"Technically, yes. But the building costs would be astronomical."
+57202,235,44,242000,Fat Tony,Springfield Elementary School,"Did I hear the word ""astronomical""? If so, my construction outfit, Valdazzo Brothers Olive Oil, is poised to help."
+57203,235,45,250000,Seymour Skinner,Springfield Elementary School,"No, no, no, no. We're not building anything."
+57204,235,46,252000,Fat Tony,Springfield Elementary School,How can you say that when construction has already begun?
+57205,235,47,257000,Seymour Skinner,Springfield Elementary School,How did those trucks get here so fast?
+57206,235,48,260000,Fat Tony,Springfield Elementary School,"In order to avoid certain legal complications, the trucks are always rolling. Now, for the ground-breaking ceremony..."
+57207,235,49,269000,Seymour Skinner,Springfield Elementary School,Good Lord! Do we really need all those ramps?
+57208,235,50,272000,Fat Tony,Springfield Elementary School,Who's to say? Does a peacock need all those feathers?
+57209,235,51,276000,Seymour Skinner,Springfield Elementary School,"Look, you're getting a little philosophical for me."
+57210,235,52,277000,Fat Tony,Springfield Elementary School,I suppose so. They say it happens in the autumn years.
+57211,235,53,281000,Seymour Skinner,Springfield Elementary School,"Well, be that as it may..."
+57212,235,54,282000,Fat Tony,Springfield Elementary School,Get your hand off my car.
+57214,235,56,285000,Seymour Skinner,Springfield Elementary School,"This is a proud day. Now, when people ask if we're in compliance with the Americans with Disabilities Act of 1975, I can say, ""We are closer than ever before!"""
+57216,235,58,298000,Seymour Skinner,Springfield Elementary School,"Thank you. To inaugurate our ramp system, here's the first of what I hope will be many disabled students. Bart Simpson!"
+57217,235,59,304000,Crowd,Springfield Elementary School,"/ I'm proud of you, boy."
+57218,235,60,307000,Seymour Skinner,Springfield Elementary School,"What the...? Bart, where's your wheelchair?"
+57219,235,61,309000,Bart Simpson,Springfield Elementary School,Don't need it anymore. Doctor says my butt-bone's stronger than ever.
+57220,235,62,315000,Bart Simpson,Springfield Elementary School,Tah dah!
+57221,235,63,319000,Seymour Skinner,Springfield Elementary School,"Well, at least we're prepared for the new millennium."
+57222,235,64,326000,Seymour Skinner,Springfield Elementary School,"My God, the whole thing's made of breadsticks!"
+57223,235,65,329000,Fat Tony,Springfield Elementary School,"... And paint, and shellac. It's all itemized in this bill."
+57224,235,66,333000,Seymour Skinner,Springfield Elementary School,Two hundred thousand dollars! Are you mad?
+57225,235,67,335000,Fat Tony,Springfield Elementary School,I don't get mad. I get stabby.
+57227,235,68,340000,Seymour Skinner,Springfield Elementary School,"The good news is, we need no longer fear vicious mob reprisals."
+57228,235,69,351000,Seymour Skinner,Springfield Elementary School,"But due to lack of funds, Springfield Elementary is closed forever."
+57230,235,71,358000,Seymour Skinner,Springfield Elementary School,"Oh, you're cheering now, but some day you'll..."
+57232,235,73,362000,Seymour Skinner,Springfield Elementary School,I'm just gonna stop trying.
+57235,235,76,370000,Dr. Julius Hibbert,Skinner Home,How could you close the school?
+57236,235,77,372000,Marge Simpson,Skinner Home,What will become of our kids?
+57237,235,78,373000,Homer Simpson,Skinner Home,Where are the refreshments?
+57238,235,79,374000,Seymour Skinner,Skinner Home,"Now, you keep asking me that. And I keep telling you, over there."
+57239,235,80,374000,Seymour Skinner,Skinner Home,"As for the school, we are exploring various options to raise the two hundred thousand dollars we need."
+57240,235,81,384000,Ned Flanders,Skinner Home,I've got a motorhome I never use. Maybe we should raffle it off.
+57241,235,82,387000,Homer Simpson,Skinner Home,Maybe you should shut up.
+57242,235,83,389000,Ned Flanders,Skinner Home,Well I... Okay.
+57243,235,84,390000,Moe Szyslak,Skinner Home,We could try sellin' liquor. I'm doin' great!
+57244,235,85,394000,Seymour Skinner,Skinner Home,"Please, sir. Put some shoes on."
+57245,235,86,396000,Moe Szyslak,Skinner Home,"What, you don't like my bags?"
+57246,235,87,398000,Seymour Skinner,Skinner Home,"People, these are all good ideas..."
+57247,235,88,400000,Marge Simpson,Skinner Home,"No, they're not. They're terrible, terrible ideas."
+57248,235,89,403000,Seymour Skinner,Skinner Home,You're right. It's hopeless. No one has that kind of money.
+57249,235,90,406000,Marge Simpson,Skinner Home,What about Mr. Burns? Maybe he'll help us out.
+57250,235,91,409000,Homer Simpson,Skinner Home,"Forget it. He releases the hounds on every charity that comes to his door: Feed the Children, Save the Whales, even Release the Hounds."
+57251,235,92,416000,Seymour Skinner,Skinner Home,"Uh, well, maybe we can pry open his wallet with a slick, professional pitch. A school play!"
+57253,235,94,426000,Seymour Skinner,Burns Manor,"Welcome to the world premiere of ""The Nice Man Giveth."""
+57254,235,95,430000,C. Montgomery Burns,Burns Manor,Focus!
+57255,235,96,431000,Waylon Smithers,Burns Manor,"It's a play, sir."
+57256,235,97,434000,Nelson Muntz,Burns Manor,"Hmmm, which one of these is the salt? Too bad I'm an idiot 'cause my school closed. Oh, well."
+57257,235,98,442000,C. Montgomery Burns,Burns Manor,"No, that's the rat poison!"
+57258,235,99,444000,Seymour Skinner,Burns Manor,"Aaaaaand freeze! Now, who in Springfield will eat the poisoned broth? Whoo, it could be anyone, even Mr. Burns."
+57259,235,100,453000,C. Montgomery Burns,Burns Manor,This play really speaks to me.
+57260,235,101,459000,Bart Simpson,Burns Manor,"I can't take Mr. Burns to the ho'pital 'cause I'm too dumb to read a map. Oh, why did my school have to close?"
+57261,235,102,469000,Ralph Wiggum,Burns Manor,"Hello, I'm Doctor Stupid. I'm going to take out your liver bones."
+57262,235,103,474000,Ralph Wiggum,Burns Manor,"Oops, you're dead."
+57263,235,104,475000,C. Montgomery Burns,Burns Manor,I never liked that Dr. Stupid.
+57264,235,105,479000,Seymour Skinner,Burns Manor,"Mr. Burns, I'll be honest. We had a hidden agenda tonight."
+57265,235,106,482000,C. Montgomery Burns,Burns Manor,No!!
+57266,235,107,484000,Seymour Skinner,Burns Manor,The holiday season is approaching and these children need a school...
+57267,235,108,487000,C. Montgomery Burns,Burns Manor,"Charity, eh? Yes, I'd be more than happy to..."
+57268,235,109,494000,C. Montgomery Burns,Burns Manor,"Oh, it's doing that thing again."
+57270,235,111,496000,TV Announcer,Simpson Home,"We now return to ""Donde Esta Justice?"""
+57271,235,112,500000,Plaintiff,Simpson Home,El Ford Escort que me vendio es un limón!
+57272,235,113,503000,Defendant,Simpson Home,"No, no, no, no, no. No es un limón. Es un carro fuerte!"
+57273,235,114,506000,Bumblebee Man,Simpson Home,Hmm. Limón -- fuerte. Limón -- fuerte. Limón. F-- Ay yi yi yi yi! Mi estómago.
+57274,235,115,513000,Bart Simpson,Simpson Home,Daytime TV is muy estupido.
+57275,235,116,517000,Bart Simpson,Simpson Home,"Hey, our school's on TV."
+57276,235,117,519000,Kent Brockman,Simpson Home,Springfield Elementary has reopened its doors!
+57277,235,118,524000,Kent Brockman,Simpson Home,"I'm with Jim Hope of Kid First Industries, which has generously stepped in to educate our children."
+57278,235,119,529000,Jim Hope,Simpson Home,"That's right, Kent. Ya know, when public schools drop the ball, it's up to the private sector to fall on that fumble and run for the end zone."
+57279,235,120,536000,Kent Brockman,Simpson Home,Will you be replacing the current teachers and administrators?
+57280,235,121,538000,Jim Hope,Simpson Home,"Very much so, Kent. But they've already received an extremely generous severance package."
+57282,235,123,543000,Seymour Skinner,Skinner's Living Room,Valencia?! These are juice oranges!
+57284,235,125,548000,Jim Hope,Springfield Elementary School,"Howdy, children. I'd like to welcome you back to school."
+57286,235,127,551000,Jim Hope,Springfield Elementary School,You know what. I agree.
+57287,235,128,552000,Kids,Springfield Elementary School,Wha?
+57288,235,129,553000,Jim Hope,Springfield Elementary School,"Your old school was boring. That's why it failed, right? Well, we're not gonna make you memorize facts and dates. No, no, no. I'm gonna find out what you really love in life and teach to that."
+57289,235,130,563000,Jim Hope,Springfield Elementary School,"What are you passionate about, partner?"
+57290,235,131,565000,Bart Simpson,Springfield Elementary School,Boogers.
+57291,235,132,568000,Jim Hope,Springfield Elementary School,"Boogers. That was great. You know, humor is a sign of intelligence."
+57292,235,133,573000,Bart Simpson,Springfield Elementary School,You're not mad?
+57293,235,134,575000,Jim Hope,Springfield Elementary School,"Hey, I'm here to make sure that you get a ""kick"" out of education."
+57295,235,136,581000,Nelson Muntz,Springfield Elementary School,He's rekindled my love affair with books!
+57297,235,138,588000,Bart Simpson,Simpson Home,Check it out. I'm breaking books at a sixth-grade level.
+57298,235,139,591000,Homer Simpson,Simpson Home,"Get 'em, boy. Hit those smart-ass books."
+57299,235,140,594000,Marge Simpson,Simpson Home,"Why don't you kick some books, Lisa?"
+57300,235,141,596000,Lisa Simpson,Simpson Home,Bart broke all my books.
+57301,235,142,598000,Bart Simpson,Simpson Home,You know what our homework is? Find a toy and bring it to class!
+57302,235,143,602000,Marge Simpson,Simpson Home,"Boy, that sounds fun."
+57303,235,144,603000,Bart Simpson,Simpson Home,"I know, but I'm still not gonna do it."
+57305,235,146,607000,Jim Hope,Springfield Elementary School,"Since Christmas is coming soon, I thought we could talk about our favorite toys. Milhouse, what've you got there?"
+57306,235,147,613000,Milhouse Van Houten,Springfield Elementary School,"My Busy Box. It's got everything! Vroom, vroom, vroom. I'm calling Daddy."
+57307,235,148,619000,Jim Hope,Springfield Elementary School,"Good for you, not being bound by the ""recommended"" age."
+57308,235,149,623000,Milhouse Van Houten,Springfield Elementary School,"What are you talking about? Oh, geez."
+57309,235,150,627000,Jim Hope,Springfield Elementary School,How 'bout the rest of you? What do you like about those toys of yours?
+57310,235,151,631000,Sherri Mackleberry,Springfield Elementary School,They're special.
+57311,235,152,632000,Nelson Muntz,Springfield Elementary School,They're challenging.
+57312,235,153,640000,Jim Hope,Springfield Elementary School,"Very good. Now, I want you all to imagine the perfect toy. What would it be like?"
+57313,235,154,645000,Terri Mackleberry,Springfield Elementary School,It should be soft and cuddly.
+57314,235,155,647000,Bart Simpson,Springfield Elementary School,Yeah. With lots of firepower!
+57315,235,156,649000,Milhouse Van Houten,Springfield Elementary School,"Its eyes should be telescopes. No, periscopes! No, microscopes! Can you come back to me?"
+57199,235,158,654000,Nelson Muntz,ROOM BEHIND CHALKBOARD,It should be full of surprises.
+57317,235,159,657000,Milhouse Van Houten,ROOM BEHIND CHALKBOARD,It should never stop dancing.
+57318,235,160,658000,Martin Prince,ROOM BEHIND CHALKBOARD,It should need accessories.
+57319,235,161,660000,LINDSEY,ROOM BEHIND CHALKBOARD,Now that's market research you can take to the bank. The money bank.
+57320,235,162,664000,Male Executive,ROOM BEHIND CHALKBOARD,I just wish those second graders would stop jerkin' us around.
+57322,235,164,668000,Ralph Wiggum,Miss Hoover's Classroom,Fun toys are fun.
+57323,235,165,670000,teacher,Miss Hoover's Classroom,"Well said, Ralph. But we're trying to come up with the name for a toy."
+57324,235,166,674000,JANEY,Miss Hoover's Classroom,Mrs. Fun?
+57325,235,167,674000,teacher,Miss Hoover's Classroom,Not bad.
+57326,235,168,676000,Ralph Wiggum,Miss Hoover's Classroom,Fun?
+57327,235,169,677000,teacher,Miss Hoover's Classroom,"Ralph, there are no right or wrong answers, but if you don't pipe down I'm giving you an ""F""."
+57328,235,170,677000,Ralph Wiggum,Miss Hoover's Classroom,"The before teacher yelled at me, too."
+57329,235,171,684000,teacher,Miss Hoover's Classroom,"No one's yelling. We're just brainstorming names... Lisa, any ideas?"
+57330,235,172,688000,Lisa Simpson,Miss Hoover's Classroom,"Oh, a name with ""fun""? Um... Fungus, Funzo, Attila the Fun..."
+57331,235,173,694000,teacher,Miss Hoover's Classroom,"Lisa, are you doing math?"
+57332,235,174,695000,Lisa Simpson,Miss Hoover's Classroom,"Uh, just a few Venn diagrams."
+57333,235,175,697000,Ralph Wiggum,Miss Hoover's Classroom,There's more under her chair!
+57336,235,178,702000,Bart Simpson,Lisa's Classroom,Lisa in trouble. Ha! The ironing is delicious.
+57337,235,179,705000,Lisa Simpson,Lisa's Classroom,"The word is ""irony."""
+57338,235,180,705000,Bart Simpson,Lisa's Classroom,Huh?
+57339,235,181,708000,Lisa Simpson,Lisa's Classroom,"Don't you think there's something weird going on here? We spent all day selecting fabric swatches, and then our guest speaker was ""Phil from Marketing""."
+57340,235,182,716000,Bart Simpson,Lisa's Classroom,"Alls I know is I'm gettin' straight ""A's"". And that ain't not bad."
+57342,235,184,722000,Lisa Simpson,Lisa's Classroom,That's not funny... Huh?
+57347,235,189,738000,Lisa Simpson,Research Room,They're spying on us. Why would they do that?
+57348,235,190,749000,Voice,Research Room,I see you!
+57350,235,192,749000,Doll,Research Room,Give me a hug....
+57353,235,194,749000,Chief Wiggum,Springfield Elementary School,"This better be important, Lisa. I left Ralphie alone in the bathtub."
+57354,235,195,752000,Ralph Wiggum,Springfield Elementary School,"Daddy, I'm ready to get out now. Over."
+57355,235,196,757000,Lisa Simpson,Springfield Elementary School,"This broom closet is not what it seems. It's a secret surveillance room, guarded by a tiny, evil robot."
+57356,235,197,763000,Homer Simpson,Springfield Elementary School,"Uhh. Is this gonna be like one of those horror movies where we open the door and everything's normal, and we think you're crazy, but then there really is a killer robot and the next morning you find me impaled on a weather vane? Is that what this is, Lisa?"
+57357,235,198,777000,Marge Simpson,Springfield Elementary School,"To be fair, not all evil robots are killers."
+57358,235,199,780000,Lisa Simpson,Springfield Elementary School,"Listen, when you see what's inside this..."
+57359,235,200,784000,Lisa Simpson,Springfield Elementary School,I don't understand. I could swear it was right here.
+57360,235,201,787000,Chief Wiggum,Springfield Elementary School,"Yeah, right, mop top, and I'm Ed Sullivan. Really big shew. No, no, I can do it better. Really big shew. Really. That's it."
+57362,235,203,797000,Krusty the Clown,Simpson Home,"Well, folks, that's the end of Krusty's Nondenominational Holiday Fun Fest. I wanna thank my guests Tea Leoni..."
+57363,235,204,804000,Krusty the Clown,Simpson Home,Beck...
+57364,235,205,807000,Krusty the Clown,Simpson Home,The Dixie Chicks...
+57365,235,206,808000,Dixie Chicks,Simpson Home,"Merry Christmas, y'all!"
+57366,235,207,810000,Krusty the Clown,Simpson Home,And Patrick Ewing as the Genie.
+57367,235,208,813000,Krusty the Clown,Simpson Home,"So have a Merry Christmas, Happy Hanukkah, Kwazy Kwanzaa, a Tip-Top Tet, and a Solemn, Dignified Ramadan."
+57368,235,209,823000,Krusty the Clown,Simpson Home,"And now a word from my God, our sponsor."
+57370,235,211,827000,Doll,SUBURBAN LIVING ROOM,I see you.
+57371,235,212,831000,Doll,SUBURBAN LIVING ROOM,Give me a hug.
+57372,235,213,834000,Lisa Simpson,SUBURBAN LIVING ROOM,That's the doll that attacked me!
+57373,235,214,837000,Announcer,SUBURBAN LIVING ROOM,"This Christmas, everybody wants Funzo!"
+57374,235,215,840000,Lisa Simpson,SUBURBAN LIVING ROOM,Funzo? I said that name in class.
+57375,235,216,843000,Girl,SUBURBAN LIVING ROOM,Funzo's soft and cuddly!
+57376,235,217,845000,Boy,SUBURBAN LIVING ROOM,With lots of firepower!
+57377,235,218,849000,Funzo,SUBURBAN LIVING ROOM,Haw haw!
+57378,235,219,851000,Announcer,SUBURBAN LIVING ROOM,"Funzo! Funzo! Funzo! If you don't have Funzo, you're nothin'!"
+57380,235,221,857000,Bart Simpson,Simpson Home,Mom! I know what I want for Christmas.
+57382,235,222,859000,Lisa Simpson,Simpson Home,"Bart, they lied to us. Instead of giving us an education, they tricked us into designing a toy. Aren't you outraged?"
+57383,235,223,865000,Bart Simpson,Simpson Home,"No, but if you're gonna throw a spaz, I'll come with."
+57384,235,224,869000,Lisa Simpson,Simpson Home,Good. Saddle up the bikes.
+57387,235,227,875000,Lisa Simpson,Kid First Industries,Get down. Security guard.
+57388,235,228,880000,Bart Simpson,Kid First Industries,"Hey, it's Gary Coleman."
+57389,235,229,882000,Gary Coleman,Kid First Industries,But the menu said Galaxy of Prawns. Three prawns are hardly a galaxy... Whaddaya mean your hands are tied? Let me talk to Mr. Kwan.
+57390,235,230,891000,Bart Simpson,Kid First Industries,I want to see how this turns out.
+57391,235,231,893000,Lisa Simpson,Kid First Industries,The phone's not even plugged in!
+57392,235,232,895000,Gary Coleman,Kid First Industries,"All right, you listen to me, Kwan... Hang on. I got another call. Yes, Mr. President. I can be in Washington right away."
+57393,235,233,906000,Lisa Simpson,Kid First Industries,You people took advantage of trusting schoolchildren!
+57394,235,234,910000,Jim Hope,Kid First Industries,How did you get past Gary Coleman?
+57395,235,235,911000,Bart Simpson,Kid First Industries,Let's just say he's a few prawns short of a galaxy.
+57397,235,237,917000,LINDSEY,Office,"I'm sorry, Gary. There's no longer a place for you here."
+57398,235,238,921000,Gary Coleman,Office,"Whatchu talkin' 'bout, Ms. Naegle?!"
+57399,235,239,923000,LINDSEY,Office,That is so adorable. You're rehired.
+57400,235,240,926000,Gary Coleman,Office,Sucker. I knew exactly what she was talking about.
+57402,235,242,935000,LINDSEY,LINDSEY NAEGLE'S OFFICE,"Lisa, I know you're mad, but just for a damn minute try to see this from a product positioning standpoint."
+57403,235,243,941000,Jim Hope,LINDSEY NAEGLE'S OFFICE,"Do you have any idea how much pressure we're under to come up with the new Furby or Tickle-Me-Elmo? And thanks to you, Funzo is the first doll designed by children, for children with all the profits going to children."
+57404,235,244,951000,Lisa Simpson,LINDSEY NAEGLE'S OFFICE,Really?
+57405,235,245,953000,Jim Hope,LINDSEY NAEGLE'S OFFICE,"Yeah, well, we're all somebody's children."
+57406,235,246,954000,LINDSEY,LINDSEY NAEGLE'S OFFICE,"But hey, we did screw you a little. So here's a free Funzo."
+57407,235,247,958000,Bart Simpson,LINDSEY NAEGLE'S OFFICE,Deal!
+57408,235,248,959000,Lisa Simpson,LINDSEY NAEGLE'S OFFICE,"Oh, brother."
+57410,235,250,962000,Bart Simpson,Simpson Home,"And I want Funzo's dream fortress, Funzo's lower-back-pain chair, Funzo's European voltage converter..."
+57226,235,251,970000,Funzo,Simpson Home,Why not get three?!
+57352,235,252,971000,Bart Simpson,Simpson Home,"Ah, three it is."
+57381,235,253,976000,Bart Simpson,Simpson Home,"Thanks, Funzo. You rock!"
+57411,235,254,978000,Funzo,Simpson Home,All righty!
+57412,235,255,982000,Bart Simpson,Simpson Home,It's always a party with Funzo!
+57413,235,256,984000,Lisa Simpson,Simpson Home,"I admit it's kind of cute, but it'll never take the place of Malibu Stacy."
+57414,235,257,994000,Lisa Simpson,Simpson Home,Did you see that?
+57415,235,258,996000,Bart Simpson,Simpson Home,Yeah. Funzo makes playtime fun!
+57416,235,259,999000,Krusty Doll,Simpson Home,"Hey, kids! It's..."
+57418,235,261,1002000,Bart Simpson,Simpson Home,Hey! Why is it destroying other toys?
+57419,235,262,1004000,Lisa Simpson,Simpson Home,They must have programmed it to eliminate the competition.
+57420,235,263,1007000,Bart Simpson,Simpson Home,You mean like Microsoft?
+57421,235,264,1009000,Lisa Simpson,Simpson Home,"Exactly. Come on, Bart, we've got to warn everyone."
+57423,235,266,1018000,Lisa Simpson,Try-N-Save,Boycott Funzo. He's a toy-killing machine!
+57424,235,267,1023000,Ned Flanders,Try-N-Save,That shy little imp?
+57425,235,268,1025000,Funzo,Try-N-Save,I have a flower for 'oo.
+57426,235,269,1028000,Shoppers,Try-N-Save,Awwww...
+57427,235,270,1029000,Carl Carlson,Try-N-Save,"Oh, man. I've gotta get me one of those!"
+57428,235,271,1031000,Lenny Leonard,Try-N-Save,"Hey, I'm not waitin' till the store opens."
+57430,235,273,1036000,Jim Hope,Kid First Industries,"Wow, only twenty-two seconds from muttering to door smash."
+57431,235,274,1040000,LINDSEY,Kid First Industries,That projects to a profit of three hundred and seventy million dollars.
+57432,235,275,1044000,Jim Hope,Kid First Industries,I'd still sleep a little easier if I saw some trampling.
+57434,235,277,1046000,Moe Szyslak,Try-N-Save,Ow! Ow! Ow! Now why would you wear cleats to a store?
+57435,235,278,1052000,Lisa Simpson,Try-N-Save,"Well, I guess that's it. Come Christmas Eve, there'll be a Funzo under every tree."
+57436,235,279,1058000,Bart Simpson,Try-N-Save,Unless...
+57439,235,282,1061000,Homer Simpson,Simpson Car,"So, who am I beating up?"
+57440,235,283,1063000,Lisa Simpson,Simpson Car,Nobody! You're just gonna break into everyone's house and steal their favorite toy.
+57441,235,284,1068000,Bart Simpson,Simpson Car,Thus saving Christmas.
+57442,235,285,1069000,Homer Simpson,Simpson Car,"Now, let's see. This will make three Christmases I saved versus eight I ruined... two were kind of a draw..."
+57443,235,286,1076000,Lisa Simpson,Simpson Car,"Dad, Dad, you're driving on the sidewalk."
+57445,235,288,1078000,Homer Simpson,Simpson Car,Sorry.
+57447,235,290,1083000,Lisa Simpson,Wiggum Home,Joy to the world / the Lord is come. / Let Earth receive her King...
+57448,235,291,1091000,Lisa Simpson,Wiggum Home,Let ev-ry...
+57449,235,292,1092000,Lisa Simpson,Wiggum Home,Season's Greetings.
+57450,235,293,1093000,Bart Simpson,Wiggum Home,Peace out!
+57451,235,294,1101000,Lisa Simpson,Wiggum Home,Si-lent night...
+57452,235,295,1105000,Lisa Simpson,Wiggum Home,Ho-ly night...
+57453,235,296,1111000,Lisa Simpson,Wiggum Home,All is calm / All is bright / Round...
+57455,235,298,1124000,Homer Simpson,SPRINGFIELD TIRE FIRE,Writhing Funzos / In my sack / Makes me happy / Makes me hurt my back...
+57456,235,299,1130000,Bart Simpson,SPRINGFIELD TIRE FIRE,"Just dump 'em in the fire, Dad."
+57457,235,300,1132000,Lisa Simpson,SPRINGFIELD TIRE FIRE,Yes. The madness ends here.
+57458,235,301,1134000,Homer Simpson,SPRINGFIELD TIRE FIRE,Hah! If I had a nickel for every time I've heard that...
+57459,235,302,1142000,Funzo,SPRINGFIELD TIRE FIRE,I'm vewy mad at 'oo.
+57460,235,303,1153000,Gary Coleman,SPRINGFIELD TIRE FIRE,"Well, what do we have here? Looks like the biggest rip-off since ""Webster."""
+57461,235,304,1158000,Homer Simpson,SPRINGFIELD TIRE FIRE,"Please, Mr. Coleman. We can explain."
+57462,235,305,1161000,Gary Coleman,SPRINGFIELD TIRE FIRE,I'm listening.
+57463,235,306,1162000,Lisa Simpson,SPRINGFIELD TIRE FIRE,Your toy company is evil.
+57464,235,307,1164000,Gary Coleman,SPRINGFIELD TIRE FIRE,"Well, isn't it possible for an evil company to make people happy?"
+57465,235,308,1168000,Lisa Simpson,SPRINGFIELD TIRE FIRE,Are you saying the end justifies the means?
+57466,235,309,1171000,Gary Coleman,SPRINGFIELD TIRE FIRE,That's a very glib interpretation.
+57467,235,310,1173000,Bart Simpson,SPRINGFIELD TIRE FIRE,"Hey, don't talk to my sister that way."
+57468,235,311,1175000,Lisa Simpson,SPRINGFIELD TIRE FIRE,"No, Bart, he's right. I did oversimplify."
+57469,235,312,1179000,Homer Simpson,SPRINGFIELD TIRE FIRE,"Perhaps, but let's not get bogged down in semantics."
+57470,235,313,1182000,Homer Simpson,SPRINGFIELD TIRE FIRE,I think what Lisa meant to say is...
+57471,235,314,1184000,Narrator,SPRINGFIELD TIRE FIRE,"And so, Gary Coleman and the Simpsons argued long into the night..."
+57472,235,315,1190000,Narrator,SPRINGFIELD TIRE FIRE,"And then, as day broke, the spirit of the season entered their hearts."
+57473,235,316,1196000,Lisa Simpson,SPRINGFIELD TIRE FIRE,Let's just agree that the commercialization of Christmas is at best a mixed blessing.
+57474,235,317,1201000,Gary Coleman,SPRINGFIELD TIRE FIRE,A-men.
+57475,235,318,1202000,Funzo,SPRINGFIELD TIRE FIRE,L-U-V-V-V! KILL!
+57476,235,319,1206000,Gary Coleman,SPRINGFIELD TIRE FIRE,"Hey, look out!"
+57478,235,321,1214000,Bart Simpson,SPRINGFIELD TIRE FIRE,"Well, there's something you don't see every Christmas."
+57479,235,322,1217000,Homer Simpson,SPRINGFIELD TIRE FIRE,"Hey, it is Christmas. We'd better get home."
+57480,235,323,1223000,Bart Simpson,SPRINGFIELD TIRE FIRE,"Hey, Dad... What if we..."
+57481,235,324,1230000,Homer Simpson,SPRINGFIELD TIRE FIRE,"Um, uh... Mr. Coleman, I've been thinking... My wife always makes too much stuffing and sweet p'taters and all, and... Aw, heck! Would you like to spend Christmas with us?"
+57482,235,325,1242000,Gary Coleman,SPRINGFIELD TIRE FIRE,No way! I'm having Christmas at George Clooney's house.
+57483,235,326,1246000,Lisa Simpson,SPRINGFIELD TIRE FIRE,Gary...
+57484,235,327,1248000,Gary Coleman,SPRINGFIELD TIRE FIRE,All right. I'll come.
+57486,235,329,1251000,Narrator,Simpson Home,"And Gary Coleman was as good as his word. As for old Mr. Burns, he was visited by three ghosts during the night, and agreed to fund the school with some money he found in his tuxedo pants."
+57487,235,330,1263000,C. Montgomery Burns,Simpson Home,"Thank you, thank you. Humbug."
+57489,235,332,1265000,Narrator,Moe's Apartment,"While Moe, seeing what the world would be like if he had never been born, pulled his head out of the oven...and replaced it with a plump Christmas goose."
+57491,235,334,1275000,Moe Szyslak,Simpson Dining Room,"Here, Happy Holidays, there."
+57492,235,335,1277000,Gary Coleman,Simpson Dining Room,"Merry Christmas, Moe!"
+57493,235,336,1280000,Moe Szyslak,Simpson Dining Room,"Uh, listen, I kinda banged up that Jeep in the driveway."
+57494,235,337,1283000,Gary Coleman,Simpson Dining Room,"Whatchu talkin' 'bout, Moe?"
+57495,235,338,1287000,Gary Coleman,Simpson Dining Room,"Whatchu talkin' 'bout, every one."

@@ -1,0 +1,234 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+71239,281,1,88000,Bart Simpson,Springfield Street,Aha! A free baseball.
+71240,281,2,92000,Bart Simpson,Springfield Street,A shiny new dime!
+71241,281,3,95000,Bart Simpson,Springfield Street,A shinier new dime!
+71242,281,4,97000,Ice Cream Man,Springfield Street,"Excuse me, my refrigeration unit is broken. Could you possibly eat some free ice cream?"
+71243,281,5,105000,Bart Simpson,Springfield Street,What flavor?
+71244,281,6,106000,Ice Cream Man,Springfield Street,"Why, super chocolate, of course. Oh yes."
+71245,281,7,111000,Bart Simpson,Springfield Street,This day just keeps getting better and better.
+71246,281,8,113000,Bart Simpson,Springfield Street,And here's a new four-legged friend for me. Hiya boy. Haven't seen you around here before.
+71250,281,12,128000,Bart Simpson,Simpson Home,"Mom, a dog ate my clothes!"
+71251,281,13,131000,Marge Simpson,Simpson Home,"Nice try. But we're still going to ""Riverdance""."
+71254,281,16,135000,Lisa Simpson,Street,You know that new baby brother Ralph's been bragging about? It's just a pinecone.
+71258,281,20,150000,Lisa Simpson,Street,Let's go where it's quiet.
+71260,281,22,151000,Bart Simpson,Street,Help!
+71261,281,23,153000,JANEY,Street,Isn't that your brother?
+71262,281,24,155000,Lisa Simpson,Street,"I said ""let's go""."
+71264,281,26,157000,Homer Simpson,Simpson Home,"Eh, I'm sick of this Tarzan movie."
+71265,281,27,160000,Lisa Simpson,Simpson Home,"Dad, it's a documentary on the homeless."
+71266,281,28,163000,Homer Simpson,Simpson Home,"Oh, right."
+71267,281,29,165000,Bart Simpson,Simpson Home,A crazy dog's trying to kill me!
+71268,281,30,167000,Homer Simpson,Simpson Home,"Really? Ooh, this I gotta see."
+71269,281,31,171000,Homer Simpson,Simpson Home,"Oh, he just wants to make friends."
+71270,281,32,175000,Homer Simpson,Simpson Home,"Ooh, who's a good dog? What a goody doggie! Oh what dee de bobo! Echee chee googie!"
+71271,281,33,182000,Lisa Simpson,Simpson Home,"So Bart, when does the killing start?"
+71272,281,34,185000,Homer Simpson,Simpson Home,He's a good doggie!
+71274,281,36,185000,Homer Simpson,Simpson Home,Ooh it-it ooh googie googie!
+71275,281,37,197000,Homer Simpson,Simpson Home,"Look Bart, sometimes dogs, or people, hate you for no reason."
+71278,281,40,221000,Milhouse Van Houten,Bus,Bart's a goner. Anyone want to be my new best friend?
+71279,281,41,225000,Ralph Wiggum,Bus,I will.
+71280,281,42,226000,Milhouse Van Houten,Bus,"Great. Finally, I'll be the dominant one."
+71281,281,43,230000,Ralph Wiggum,Bus,Be quiet.
+71282,281,44,231000,Milhouse Van Houten,Bus,"Yes, sir."
+71284,281,46,235000,Nelson Muntz,Springfield Elementary School,Ha ha! Bart's family is poor!
+71286,281,48,250000,Marge Simpson,Simpson Home,"Hurry up, Bart, or you'll be late to be killed by the dog."
+71287,281,49,253000,Bart Simpson,Simpson Home,What?
+71288,281,50,254000,Marge Simpson,Simpson Home,I said you'll be late for school.
+71291,281,53,264000,Bart Simpson,Springfield,Eat my short stories!
+71296,281,58,299000,Bart Simpson,Mansion,Whew. Safe at last. Now I'll just turn around and confirm that safety.
+71298,281,60,313000,Bart Simpson,Mansion,"Hey, wait a minute. These animals are stuffed."
+71300,281,62,315000,Bart Simpson,Mansion,Ow! Except that one.
+71301,281,63,321000,COWBOY,Mansion,Don't worry about these critters. They're just props from my movies.
+71302,281,64,324000,COWBOY,Mansion,"This one's from ""Gunfight at the Museum of Natural History."""
+71303,281,65,328000,Bart Simpson,Mansion,You were in movies?
+71304,281,66,330000,BUCK,Mansion,"Hold onto your hat, son. You're talkin' to Buck McCoy."
+71305,281,67,334000,Bart Simpson,Mansion,Who?
+71306,281,68,336000,BUCK,Mansion,"Yeah, that's right. Buck McCoy. The most famous movie cowboy in the world."
+71307,281,69,342000,Bart Simpson,Mansion,"No kiddin'. Anyway, I climbed over your gate. A dog was after me."
+71308,281,70,347000,BUCK,Mansion,I'll show you a trick that you can use on dogs. Also worked on David O. Selznick.
+71309,281,71,352000,Bart Simpson,Mansion,Who?
+71310,281,72,355000,BUCK,Mansion,"Yeah, that's right. The David O. Selznick."
+71311,281,73,361000,Bart Simpson,Mansion,Keep him away from me.
+71312,281,74,363000,BUCK,Mansion,"Trust me, son. You'll be fine."
+71313,281,75,366000,BUCK,Mansion,"Now, lean down and put your arms across his neck."
+71314,281,76,374000,Bart Simpson,Mansion,"Whoa, it worked!"
+71315,281,77,378000,Bart Simpson,Mansion,Where did you learn that?
+71316,281,78,380000,BUCK,Mansion,"Ah, you pick things up. Do you know how to catch a wild boar with a teaspoon?"
+71317,281,79,386000,Bart Simpson,Mansion,No.
+71318,281,80,387000,BUCK,Mansion,Well what do you kids do all day?
+71319,281,81,390000,Bart Simpson,Mansion,"Well, right now, I'm supposed to be in school."
+71321,281,82,391000,BUCK,Mansion,"School? Huh, why bother? I quit after fourth grade and I ain't not no un-dummy."
+71323,281,84,399000,Bart Simpson,BUCK'S MANSION,It's like you're living in a steakhouse!
+71324,281,85,402000,BUCK,BUCK'S MANSION,Why thank you! Most people just mutter that.
+71325,281,86,408000,Bart Simpson,BUCK'S MANSION,Is that horse vacuuming?
+71326,281,87,409000,BUCK,BUCK'S MANSION,If you can call it that. He soils as much as he cleans. Frank the Wonder Horse was in twenty-four of my pictures.
+71327,281,88,419000,BUCK,BUCK'S MANSION,And directed one.
+71328,281,89,422000,BUCK,BUCK'S MANSION,"And he got the ""film by"" credit."
+71329,281,90,432000,Bart Simpson,BUCK'S MANSION,Five o'clock? I better get home for dinner.
+71330,281,91,435000,BUCK,BUCK'S MANSION,"Well, come back anytime, pardner. To the laundry room!"
+71331,281,92,441000,BUCK,BUCK'S MANSION,Yee-ha. Here we are.
+71333,281,94,446000,Marge Simpson,Simpson Home,"Hi, honey. Where's that vicious dog? I made him a biscuit."
+71334,281,95,451000,Bart Simpson,Simpson Home,"Oh, he's not bothering me any more. Buck McCoy helped me."
+71335,281,96,453000,Grampa Simpson,Simpson Home,Buck McCoy? He was the greatest of them all. He was bigger than opium!
+71336,281,97,459000,Lisa Simpson,Simpson Home,I met one of my heroes today. She started the f--
+71337,281,98,462000,Grampa Simpson,Simpson Home,Buck McCoy! I still carry this.
+71338,281,99,465000,Grampa Simpson,Simpson Home,Junior Buckaroo 2nd Class. Little Grampa Simpson.
+71339,281,100,469000,Bart Simpson,Simpson Home,Cool.
+71342,281,103,472000,BUCK,BUCK'S HOUSE,"After that, I starred in ""Wyatt Earp Meets the Mummy,"" then ""Six Brides for Seven Brothers..."""
+71343,281,104,480000,BUCK,BUCK'S HOUSE,"They were pictures that the whole family could enjoy. No drugs, no nudity, no cussin'. Just drinkin', fightin' and trippin' horses with wires."
+71344,281,105,490000,Bart Simpson,BUCK'S HOUSE,What's this lunchbox made of?
+71345,281,106,492000,BUCK,BUCK'S HOUSE,"Well back in my day we had a thing called metal. Everything was made of it. Lunchboxes, cars, you name it."
+71346,281,107,500000,Bart Simpson,BUCK'S HOUSE,"Met-tal. Hey, can you still do cowboy tricks?"
+71347,281,108,506000,BUCK,BUCK'S HOUSE,"Here's one I did in ""The Wild Lunch""."
+71348,281,109,514000,Bart Simpson,BUCK'S HOUSE,Everything tastes better when it's lassoed.
+71349,281,110,517000,Milhouse Van Houten,BUCK'S HOUSE,Would you lasso me a banana?
+71350,281,111,519000,BUCK,BUCK'S HOUSE,Now how the hell would I do that?
+71352,281,113,524000,Marge Simpson,Simpson Home,I guess you're not going to have an adventure this week.
+71320,281,114,527000,Homer Simpson,Simpson Home,Just you wait!
+71353,281,115,529000,Homer Simpson,Simpson Home,"Hey boy, where'd you get that hat?"
+71354,281,116,531000,Bart Simpson,Simpson Home,Buck gave it to me. He's just about the greatest guy who ever lived. I wanna grow up to be just like him.
+71355,281,117,537000,Homer Simpson,Simpson Home,"No kidding? Hey, speaking of achievers, they're thinking of spraying your old man's work space for ticks."
+71356,281,118,544000,Bart Simpson,Simpson Home,"That's great, champ. I know you've been wantin' that. Well, gotta mosey. Homer. Ma'am."
+71357,281,119,552000,Marge Simpson,Simpson Home,Bart sure is fond of that cow gentleman.
+71358,281,120,554000,Homer Simpson,Simpson Home,"It's just not fair. This Buck fella's had all the advantages --horse-riding lessons, the finest makeup, delicious studio food..."
+71359,281,121,563000,Marge Simpson,Simpson Home,"Aw, Homie, you'll always be my western hero."
+71360,281,122,566000,Homer Simpson,Simpson Home,Swell.
+71361,281,123,570000,Bart Simpson,Simpson Home,I can't wait till I get good.
+71362,281,124,574000,Bart Simpson,Simpson Home,Buck's here!
+71363,281,125,576000,Bart Simpson,Simpson Home,"Dad, why are you wearing that?"
+71364,281,126,578000,Homer Simpson,Simpson Home,Because I want to be your hero. On top of which I don't look bald.
+71365,281,127,582000,Marge Simpson,Simpson Home,"Thanks for coming, Mr. McCoy. We cooked your favorites: rattleJailbird meat, varmint kabobs, and refried whiskey."
+71366,281,128,590000,BUCK,Simpson Home,I like the sound of that last one.
+71367,281,129,593000,Grampa Simpson,Simpson Home,"Don't listen to 'em, Buck. It's an ambush. They're trying to jump your claim!"
+71368,281,130,598000,Marge Simpson,Simpson Home,Take him outside.
+71369,281,131,601000,Grampa Simpson,Simpson Home,"I love you, Buuuck!"
+71370,281,132,608000,Lisa Simpson,Simpson Home,"Gee Buck, your old films are as violent as today's!"
+71371,281,133,611000,Homer Simpson,Simpson Home,One of the wheels broke off my chair today. But I didn't make a movie about it.
+71373,281,135,618000,BUCK,Simpson Home,"In the '50s, I did a TV show."
+71374,281,136,620000,BUCK,Simpson Home,"It only lasted a year, but we did three hundred and sixty episodes. All of them great. I did the commercials myself."
+71375,281,137,628000,BUCK,Simpson Home,"Remember kids, Drunken Cowboy Brand Whiskey is smooth as milk."
+71376,281,138,634000,Marge Simpson,Simpson Home,I'm not sure I approve of selling whiskey to children.
+71377,281,139,637000,BUCK,Simpson Home,"Well, that ad was aimed at children who were already heavy drinkers."
+71378,281,140,640000,Marge Simpson,Simpson Home,Oh.
+71379,281,141,646000,Announcer,Simpson Home,"Tonight's episode: ""'Scuse Me While I Kill The Sky."""
+71380,281,142,648000,Lisa Simpson,Simpson Home,Why are you driving a car?
+71382,281,143,652000,BUCK,Simpson Home,"Yeah, in the seventies, westerns were out and detective shows were in. It seems like all I did was shoot hippies."
+71383,281,144,665000,BUCK,Simpson Home,They wrote me out of the show and it became Room 222.
+71384,281,145,670000,Bart Simpson,Simpson Home,So that's how you ended your career?
+71385,281,146,671000,BUCK,Simpson Home,"Yeah, well what can you do? The western went the way of the evening newspaper and polio."
+71386,281,147,678000,Marge Simpson,Simpson Home,"Well, I think westerns are due for a comeback."
+71387,281,148,680000,Bart Simpson,Simpson Home,"Yeah, we can have showdowns at the schoolyard and use nerds as Indians!"
+71390,281,151,696000,Milhouse Van Houten,Springfield Elementary School,"Bart, you look so cool."
+71391,281,152,699000,Bart Simpson,Springfield Elementary School,I was thinkin' this could be A new fad.
+71392,281,153,701000,Martin Prince,Springfield Elementary School,What about Hawaiian shirts?
+71393,281,154,704000,Milhouse Van Houten,Springfield Elementary School,"Hey, you're not fun, you're fat."
+71394,281,155,707000,Bart Simpson,Springfield Elementary School,"Now, listen up. When I come back tomorrow you'd better have cowboy suits. And they'd better be adorable."
+71396,281,157,717000,Kent Brockman,Springfield Elementary School Yard,"This is Kent Brockman, here at Springfield Elementary where a new Western ""craze"" is sweeping the campus."
+71397,281,158,723000,Lisa Simpson,Springfield Elementary School Yard,I'm Annie Oakley!
+71398,281,159,724000,Nelson Muntz,Springfield Elementary School Yard,I'm Kevin Costner in one of his western roles!
+71399,281,160,728000,Ralph Wiggum,Springfield Elementary School Yard,I'm a gulch!
+71400,281,161,730000,Kent Brockman,Springfield Elementary School Yard,So I guess you could say this barely qualifies as news. I'm Kent Brockman.
+71402,281,163,735000,Apu Nahasapeemapetilon,Kwik-E-Mart,"OH, GIVE ME LAND, LOTS OF LAND / UNDER STARRY SKIES ABOVE..."
+71403,281,164,743000,Milhouse Van Houten,Kwik-E-Mart,DON'T FENCE ME IN...
+71404,281,165,746000,Apu Nahasapeemapetilon,Kwik-E-Mart,SIR YOU CANNOT PEE / UNLESS YOU ARE AN EMPLOYEE...
+71405,281,166,752000,Homer Simpson,Kwik-E-Mart,CAN'T KEEP IT IN...
+71408,281,169,762000,Bart Simpson,Krusty's Dressing Room,"Krusty, how do you feel about putting Buck McCoy on your show?"
+71409,281,170,766000,Krusty the Clown,Krusty's Dressing Room,Pass.
+71410,281,171,767000,Lisa Simpson,Krusty's Dressing Room,We also represent Billy Joel.
+71411,281,172,769000,Krusty the Clown,Krusty's Dressing Room,Who's the first one again?
+71412,281,173,771000,Bart Simpson,Krusty's Dressing Room,Buck McCoy.
+71414,281,174,772000,Krusty the Clown,Krusty's Dressing Room,"Forget it. I'm not putting some western star on, just 'cause it's the flavor of the month. I want my show to have a timeless quality."
+71415,281,175,780000,Writer,Krusty's Dressing Room,"Here's your hanging chad sketch, Krusty."
+71416,281,176,783000,Krusty the Clown,Krusty's Dressing Room,"Oh, good, you worked in Judge Ito."
+71417,281,177,785000,Bart Simpson,Krusty's Dressing Room,Please put Buck on. He's my hero.
+71418,281,178,788000,Lisa Simpson,Krusty's Dressing Room,Plus he'll work for scale.
+71419,281,179,790000,Krusty the Clown,Krusty's Dressing Room,Scale minus ten.
+71421,281,181,793000,BUCK,BUCK'S MANSION,I ain't going on some clown show. I'm retired.
+71422,281,182,796000,Lisa Simpson,BUCK'S MANSION,No one expects you to do anything difficult. They understand you're too old.
+71423,281,183,801000,BUCK,BUCK'S MANSION,"Listen, missy. The last two city-slickers who used reverse psychology on me are pushing up daisies."
+71424,281,184,808000,Bart Simpson,BUCK'S MANSION,They're dead?
+71425,281,185,809000,BUCK,BUCK'S MANSION,"No, they've just got lousy jobs."
+71426,281,186,811000,Lisa Simpson,BUCK'S MANSION,You know what? I bet he can't even fit into his old costume.
+71427,281,187,815000,BUCK,BUCK'S MANSION,"I can't, eh? You two wait right here."
+71428,281,188,826000,BUCK,BUCK'S MANSION,"Let's see, Texas or Massachusetts?"
+71429,281,189,829000,Lisa Simpson,BUCK'S MANSION,Texas.
+71430,281,190,831000,BUCK,BUCK'S MANSION,I like the way you think.
+71432,281,192,854000,Bart Simpson,Krustylu Studios,"Boy, that's some fancy shootin'."
+71433,281,193,855000,Homer Simpson,Krustylu Studios,I've seen fancier.
+71434,281,194,861000,Krusty the Clown,Krustylu Studios,"Oooh, right in the Panhandle! Write that down."
+71435,281,195,864000,Krusty the Clown,Krustylu Studios,"Buck, this is a real honor. I grew up watching your horse operas down at the Bijou."
+71436,281,196,874000,BUCK,Krustylu Studios,"Yeah, things sure have changed since the '50s."
+71437,281,197,877000,Krusty the Clown,Krustylu Studios,I don't care.
+71438,281,198,878000,BUCK,Krustylu Studios,"You know, it's been a long time since I performed live."
+71439,281,199,882000,Krusty the Clown,Krustylu Studios,You'll do fine. Just remember there'll be millions of people watching you.
+71440,281,200,890000,Krusty the Clown,Krustylu Studios,Millions!
+71441,281,201,894000,Krusty the Clown,Krustylu Studios,"And TV Guide's ""Cheers and Jeers"" editor. And he's already given out all his ""Cheers."""
+71442,281,202,898000,Announcer,Krustylu Studios,"Live, from the corner of Zany Avenue and Martin Luther King Boulevard, it's the Krusty the Clown show. With special guest Buck McCoy. And now, here's Krusty!"
+71444,281,203,912000,Krusty the Clown,Krustylu Studios,"We've got such a great show tonight. I won't be doing a monologue, because my feet hurt. And now, our opening sketch."
+71445,281,204,922000,Sideshow Mel,Krustylu Studios,We don't take kindly to transvestite chimpanzees here in Pine Corners. No one can save you now.
+71446,281,205,932000,Sideshow Mel,Krustylu Studios,"I said, ""no one can save you now."""
+71447,281,206,937000,BUCK,Krustylu Studios,"Shut up, I'm comin'."
+71448,281,207,942000,BUCK,Krustylu Studios,"Oh, like you're so perfect with your plastic mane and your painted-on spot. What's real on you? Nothin'!"
+71449,281,208,950000,Bart Simpson,Krustylu Studios,He's drunk!
+71450,281,209,952000,Homer Simpson,Krustylu Studios,I've seen drunker.
+71451,281,210,954000,BUCK,Krustylu Studios,"Oh right, yeah, the guns."
+71452,281,211,966000,Nelson Muntz,Krustylu Studios,We're free!
+71454,281,213,976000,Krusty the Clown,Krustylu Studios,These hilarious health professionals will cut me out of my clothes after this commercial.
+71455,281,214,982000,Bart Simpson,Krustylu Studios,"What happened, Buck?"
+71456,281,215,984000,BUCK,Krustylu Studios,Did I forget to mention I'm an alcoholic?
+71457,281,216,993000,Homer Simpson,Krustylu Studios,For shame!
+71459,281,218,998000,Krusty the Clown,The Krusty the Clown Show,"Oh, this is horrible. My spit-takes all have blood in 'em."
+71460,281,219,1002000,BUCK,The Krusty the Clown Show,"Look, I'm really sorry."
+71461,281,220,1004000,Krusty the Clown,The Krusty the Clown Show,Sorry don't suture my colon. And you're off my show forever!
+71463,281,222,1017000,Homer Simpson,Simpson Home,"Bart, I couldn't help noticing Buck is a total fraud. So I took the liberty of creating a new hero for your wall."
+71465,281,224,1026000,Bart Simpson,Simpson Home,That is just grotesque.
+71466,281,225,1028000,Homer Simpson,Simpson Home,"Well, I thought if you were looking to worship someone, maybe it could be your old man?"
+71467,281,226,1032000,Bart Simpson,Simpson Home,"Eh, we could try it."
+71468,281,227,1034000,Homer Simpson,Simpson Home,Yes!
+71469,281,228,1039000,Homer Simpson,Simpson Home,My son lost his hero. This should be the greatest night of my life. How come I'm not happy?
+71470,281,229,1045000,Marge Simpson,Simpson Home,You care about Bart's feelings.
+71471,281,230,1047000,Homer Simpson,Simpson Home,Stop saying that.
+71472,281,231,1048000,Marge Simpson,Simpson Home,I think we should try to restore Bart's faith in Buck. And we could start by getting Buck to quit drinking.
+71474,281,233,1060000,BUCK,BUCK'S MANSION,"I'm sorry I let your son down, but I'm too old to change."
+71443,281,234,1065000,Homer Simpson,BUCK'S MANSION,"Oh, listen to you. ""Ooh, ooh, I'm too old to change. "" How old are you?"
+71475,281,235,1071000,BUCK,BUCK'S MANSION,Seventy-six.
+71476,281,236,1074000,Homer Simpson,BUCK'S MANSION,Nice old man. Don't break a hip.
+71477,281,237,1077000,Marge Simpson,BUCK'S MANSION,Have we gotten all the liquor?
+71478,281,238,1079000,BUCK,BUCK'S MANSION,That painting is made of liquor.
+71480,281,240,1086000,Sad Cowboy,Clinic,I was drinking so much I forgot what life was about -- gold!
+71481,281,241,1093000,Sad Cowboy,Clinic,He does a crazy dance.
+71482,281,242,1093000,Sad Cowboy,Clinic,Gold! Beautiful gold! Nuggets as big as your fist!
+71483,281,243,1097000,BUCK,Clinic,You guys are sick. I don't belong here.
+71484,281,244,1101000,Doctor,Clinic,"Buck, if you walk out that door, you'll be branded a quitter forever."
+71485,281,245,1110000,Homer Simpson,Clinic,"Mmmm, something smells delicious."
+71486,281,246,1113000,BUCK,Clinic,"Well, that's it. This place ain't for me."
+71487,281,247,1116000,Marge Simpson,Clinic,"Well, we're not giving up. We're going to cure you of drinking."
+71488,281,248,1120000,BUCK,Clinic,"Look, I worked long and hard, got rich, and now I'm retired. Why shouldn't I be able to drink all I want?"
+71489,281,249,1127000,Marge Simpson,Clinic,"Well, I don't know. I just naturally assumed it was some of my business."
+71490,281,250,1131000,BUCK,Clinic,"Well, I don't see how it is. Nobody's even told me your name yet."
+71492,281,252,1136000,Homer Simpson,Simpson Home,I'm still not givin' up on Buck. There must be some hare-brained half-assed way...
+71493,281,253,1142000,Kent Brockman,Simpson Home,This just in: a robbery is in progress at the National Bank of Springfield. The robbers are equipped with the latest in high-tech weaponry and body armor.
+71494,281,254,1152000,Snake Jailbird,Simpson Home,Stay back coppers!
+71495,281,255,1156000,Chief Wiggum,Simpson Home,"Ah, please, everyone, stay away. We don't want anyone to be a hero. A hero. A hero!"
+71496,281,256,1164000,Homer Simpson,Simpson Home,Get me Buck McCoy.
+71497,281,257,1167000,Lisa Simpson,Simpson Home,"Dad, I'm on the LINE."
+71499,281,259,1169000,Homer Simpson,Bank,Here you go. Just stop this bank robbery and you'll be a hero again. I'll wait in the car.
+71500,281,260,1174000,BUCK,Bank,Are you crazy? I'm a movie cowboy. And you're no Howard Hawks.
+71501,281,261,1179000,Homer Simpson,Bank,That hurts. But I just have one question: do you want my son to be disappointed in you?
+71502,281,262,1187000,BUCK,Bank,Fine.
+71503,281,263,1191000,Homer Simpson,Bank,You don't need that.
+71504,281,264,1195000,Bart Simpson,Bank,"Way to go, Buck. I feel my faith growing anew."
+71505,281,265,1198000,BUCK,Bank,Better get rid of this too.
+71506,281,266,1200000,BUCK,Bank,Not to mention this.
+71508,281,267,1202000,Homer Simpson,Bank,Whoa. There's nothing wrong with a little hey-hey!
+71509,281,268,1208000,BUCK,Bank,"Fun's over, boys. Now drop the hardware and mosey."
+71510,281,269,1215000,Bank Robber,Bank,"I'm firing at the lasso, but the bullets just go through the middle."
+71511,281,270,1220000,Snake Jailbird,Bank,It's the ultimate weapon!
+71512,281,271,1234000,Lou,Bank,"Wow, that sure made us look bad."
+71513,281,272,1238000,Chief Wiggum,Bank,"Slink away, boys. Slink away."
+71515,281,274,1243000,Bart Simpson,Street,"Buck, you're my hero again."
+71516,281,275,1245000,Homer Simpson,Street,Aren't you forgettin' someone?
+71517,281,276,1247000,Bart Simpson,Street,"Well, there's Krusty, Itchy, Scratchy, Poochie, America's firefighters and then you, Dad."
+71518,281,277,1254000,Homer Simpson,Street,And don't you forget it.
+71519,281,278,1259000,BUCK,Street,Goodbye Bart!
+71520,281,279,1261000,BUCK,Street,Never bother me again! Yee-ha!

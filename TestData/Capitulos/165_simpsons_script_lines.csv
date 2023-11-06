@@ -1,0 +1,228 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+36740,165,1,36000,Waylon Smithers,Springfield Nuclear Power Plant,"Good morning, Sir. Care for some coffee?"
+36741,165,2,38000,C. Montgomery Burns,Springfield Nuclear Power Plant,"No, the promise of a new day is more than enough exhilaration for me."
+36742,165,3,54000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Smithers, coffee..."
+36743,165,4,57000,C. Montgomery Burns,Springfield Nuclear Power Plant,Ah! We need some excitement around here!
+36744,165,5,60000,Waylon Smithers,Springfield Nuclear Power Plant,"Chinese checkers or domestic, sir?"
+36745,165,6,63000,C. Montgomery Burns,Springfield Nuclear Power Plant,"No, no, something fun. Something the men will enjoy like a safety drill! But what kind?"
+36746,165,7,69000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Eh, meltdown alert? Mad dog drill? Blimp attack? Ah, I think a good old fashioned fire drill today."
+36747,165,8,79000,Carl Carlson,Springfield Nuclear Power Plant,"Alright, popcorn's ready!"
+36748,165,9,82000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, that's the fire alarm!"
+36749,165,10,86000,Carl Carlson,Springfield Nuclear Power Plant,We gotta get outta here!
+36750,165,11,88000,Lenny Leonard,Springfield Nuclear Power Plant,"Wait for me! C'mon, c'mon, c'mon!"
+36751,165,12,93000,1st Panicked Employee,Springfield Nuclear Power Plant,Get out of my way!
+36752,165,13,106000,2nd Panicked Employee,Springfield Nuclear Power Plant,Fire! Fire! Fire! Fire!
+36753,165,14,110000,C. Montgomery Burns,Springfield Nuclear Power Plant,Is it supposed to take this long? What's a good time for a mass evacuation of the entire plant?
+36754,165,15,116000,Waylon Smithers,Springfield Nuclear Power Plant,45 seconds.
+36755,165,16,118000,C. Montgomery Burns,Springfield Nuclear Power Plant,And what's our time so far?
+36756,165,17,119000,Waylon Smithers,Springfield Nuclear Power Plant,"I don't know, sir. The... this stopwatch only goes up to fifteen minutes."
+36757,165,18,123000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Damnation! What kind of slowcoaches do I have working for me? Ah, here comes one of our fellows now."
+36758,165,19,132000,Homer Simpson,Springfield Nuclear Power Plant,"I think I won, Mr. Burns."
+36759,165,20,134000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Yes, you won all right. You won more than you bargained for."
+36760,165,21,140000,Homer Simpson,Springfield Nuclear Power Plant,Woo hoo!
+36762,165,23,141000,C. Montgomery Burns,PLANT,What a disgraceful display. I've seen more orderly behavior in a Ritz Brothers film. You all need a serious lesson in teamwork.
+36763,165,24,149000,Carl Carlson,PLANT,"Maybe he does, but I don't."
+36764,165,25,151000,Lenny Leonard,PLANT,"Hey, you take that back!"
+36765,165,26,153000,Carl Carlson,PLANT,"No, you take that back!"
+36766,165,27,156000,Homer Simpson,PLANT,"Hit 'em, Carl! You too, Lenny!"
+36768,165,29,161000,Homer Simpson,Simpson Home,So Burns is going to make us all go on a stupid corporate retreat up in the mountains to learn about teamwork. Which means we'll have to cancel our plans to hang around here.
+36769,165,30,170000,Bart Simpson,Simpson Home,Teamwork is overrated.
+36770,165,31,171000,Homer Simpson,Simpson Home,Huh?
+36771,165,32,173000,Bart Simpson,Simpson Home,"Think about it. I mean, what ""team"" was Babe Ruth on? Who knows?"
+36772,165,33,177000,Lisa Simpson,Simpson Home,Yankees.
+36774,165,34,178000,Bart Simpson,Simpson Home,Sharing is a bunch of bull too. And helping others. And what's all this crap I've been hearing about tolerance?
+36775,165,35,184000,Homer Simpson,Simpson Home,"Hmmm. Your ideas are intriguing to me, and I wish to subscribe to your newsletter, but I think we have to go on the retreat anyway."
+36779,165,39,216000,Homer Simpson,Mountain,"Well, here we are."
+36781,165,41,219000,C. Montgomery Burns,NEARBY PICNIC AREA,"All right. Let me start off by telling you this will not be a walk in the park. This will be the most arduous and backbreaking weekend of your life. I cannot overemphasize the dangers which... did you bring your family, Simpson?"
+36782,165,42,232000,Homer Simpson,NEARBY PICNIC AREA,Uh... yes sir. I thought I was supposed to.
+36783,165,43,235000,C. Montgomery Burns,NEARBY PICNIC AREA,"Imbecile. Simpson, your family will have to remain here."
+36785,165,45,240000,Marge Simpson,NEARBY PICNIC AREA,"Don't worry, kids. This is a national park. We can have lots of fun."
+36786,165,46,244000,Ranger,NEARBY PICNIC AREA,"I'm afraid that's no longer true, ma'am. Budget cutbacks have forced us to eliminate anything the least bit entertaining."
+36787,165,47,255000,Ranger,NEARBY PICNIC AREA,"Well, see ya."
+36789,165,49,259000,Waylon Smithers,Mountain,"Each two-man team will work its way through the wilderness to a cabin hidden somewhere on this mountain. The routes are treacherous, so use your maps."
+36790,165,50,268000,Homer Simpson,Mountain,"Uh, I lost my map."
+36791,165,51,269000,Waylon Smithers,Mountain,"You haven't been issued a map yet. When you arrive at the cabin, there will be a congratulatory party with sandwiches and moderately priced champagne."
+36792,165,52,281000,C. Montgomery Burns,Mountain,"Now as an added incentive, the second to last team to arrive at the cabin will receive an hilarious ""World's Worst Employee"" trophy."
+36793,165,53,289000,Homer Simpson,Mountain,"Hey, this sounds like fun."
+36794,165,54,291000,C. Montgomery Burns,Mountain,And the last team to arrive will be fired.
+36795,165,55,293000,Homer Simpson,Mountain,Uh-oh.
+36796,165,56,295000,C. Montgomery Burns,Mountain,"And to show that I'm not playing favorites, both Smithers and I will be participating. Who knows? I might be the unlucky one who gets fired. Not bloody likely."
+36797,165,57,304000,Waylon Smithers,Mountain,I've placed all your names in this hat--
+36798,165,58,307000,Homer Simpson,Mountain,Oooh.
+36773,165,59,307000,Waylon Smithers,Mountain,Thank you. Now pair off as I draw your names. Lenny and... Carl.
+36800,165,60,314000,Carl Carlson,Mountain,"Aw, nuts-- I mean, uh... Aw, nuts."
+36801,165,61,318000,Waylon Smithers,Mountain,Fong and... Zutroy... Kimball and... Dawson... Haney and... Drucker...
+36802,165,62,328000,Waylon Smithers,Mountain,Simpson and... Burns?
+148574,165,64,333000,Homer's Brain,Mountain,"Quiet, you fool. You're on the one team that can't possibly be fired."
+36805,165,66,339000,Waylon Smithers,Mountain,"Sir, this can't be right. You assured me this drawing was rigged so we'd be teammates."
+36806,165,67,343000,C. Montgomery Burns,Mountain,"Yes, well, frankly, you've been a bit of a pill lately."
+36807,165,68,346000,Waylon Smithers,Mountain,Why do we always fight on vacation? Now there's only one name left. Whoever it is will be paired with me. And that person is... ...Waylon Smithers. Perfect. That's just perfect.
+36809,165,70,359000,C. Montgomery Burns,MOUNTAIN BASE,"Prepare for the adventure of a lifetime as you fight for survival against the merciless forces of nature! Toe your marks, get set, go!"
+36810,165,71,373000,C. Montgomery Burns,MOUNTAIN BASE,"Ready, Mr. Burns?"
+36811,165,72,376000,C. Montgomery Burns,MOUNTAIN BASE,One moment.
+36813,165,74,392000,Smokey Bear,NATURE CENTER,Only who can prevent forest fires?
+36814,165,75,396000,Smokey Bear,NATURE CENTER,"You pressed ""you"", referring to me. That is incorrect. The correct answer is you."
+36815,165,76,404000,Bart Simpson,NATURE CENTER,"Mom, can Lisa and I play outside, away from the bear?"
+36816,165,77,407000,Marge Simpson,NATURE CENTER,"Okay, but when you start getting apple-cheeked, it's time to come in."
+36818,165,79,420000,Waylon Smithers,Mountain,"How could you do this to me, Mr. Burns? After all I've done for you. Why, if you were here, I'd kick you right in your bony old behind!"
+36819,165,80,428000,Smithers's Echo,Mountain,Bony old behind! Bony old behind! Bony old behind!
+36820,165,81,431000,Smithers's Echo,Mountain,Bony old behind!
+36821,165,82,434000,C. Montgomery Burns,Mountain,"Why, thank you, Simpson. I have been watching my figure."
+36822,165,83,439000,Bart Simpson,Mountain,"Lis, Lis, come here! I found two snowflakes that are exactly alike!"
+36823,165,84,443000,Lisa Simpson,Mountain,Really? Let me see!
+36826,165,87,451000,Bart Simpson,Mountain,Oops. Sorry.
+36827,165,88,452000,Lisa Simpson,Mountain,"Hi, Mr. Smithers!"
+36828,165,89,454000,Waylon Smithers,Mountain,"Oh great, it's the Bobbsey twins. Well, take your prying eyes elsewhere."
+36829,165,90,459000,Waylon Smithers,Mountain,"Oh, I'm sorry. It hasn't been a good day. If I don't get to the top of the mountain real soon, I could get fired."
+36830,165,91,465000,Lisa Simpson,Mountain,We'll help you.
+36831,165,92,466000,Bart Simpson,Mountain,I have a watch with a minute hand.
+36832,165,93,468000,Waylon Smithers,Mountain,All right. You can come. What time is it?
+36833,165,94,471000,Bart Simpson,Mountain,"12:80. No, wait. Wait. Wh-- what comes after twelve?"
+36834,165,95,477000,Waylon Smithers,Mountain,One.
+36835,165,96,478000,Bart Simpson,Mountain,"No, after twelve."
+36837,165,98,480000,C. Montgomery Burns,Mountain,"Tell me, Simpson, if an opportunity arose for taking a small shortcut, you wouldn't be averse to taking it would you?"
+36838,165,99,489000,Homer Simpson,Mountain,"Uh, not as such."
+36839,165,100,491000,C. Montgomery Burns,Mountain,"Neither would I. I've always felt that there's far too much hysteria these days about so-called ""cheating""."
+36840,165,101,496000,Homer Simpson,Mountain,"Yes, lotta hysteria..."
+36841,165,102,500000,C. Montgomery Burns,Mountain,"Mmm-hmm. If you can take advantage of a situation in some way, it's your duty as an American to do it. Why should the race always be to the swift or the Jumble to the quick-witted? Should they be allowed to win merely because of the gifts God gave them? Well, I say, cheating is the gift Man gives himself."
+36842,165,103,514000,Homer Simpson,Mountain,"Mr. Burns, I insist that we cheat!"
+36843,165,104,517000,C. Montgomery Burns,Mountain,Excellent.
+36844,165,105,518000,C. Montgomery Burns,Mountain,"And to do so, I propose we travel by..."
+36845,165,106,522000,C. Montgomery Burns,Mountain,Horseless sleigh.
+36846,165,107,524000,Homer Simpson,Mountain,"Wow. You sure know how to cheat, Mr. Burns."
+36847,165,108,527000,C. Montgomery Burns,Mountain,"Yes, well, I'm older than you. You know, Simpson, you're not as objectionable as you seemed when we first met."
+36848,165,109,533000,Homer Simpson,Mountain,No sir. I am not.
+36850,165,111,543000,Marge Simpson,MOUNTAIN BASE,Bart? Lisa?
+36851,165,112,548000,Marge Simpson,MOUNTAIN BASE,Hello?
+36852,165,113,552000,Narrator,MOUNTAIN BASE,The story of our National Parks begins in 1872. Perhaps we should let John Muir tell the tale.
+36854,165,115,572000,Marge Simpson,MOUNTAIN BASE,"Excuse me, sir. I can't find my children."
+36855,165,116,575000,Ranger,MOUNTAIN BASE,Have you checked the woods?
+36856,165,117,576000,Marge Simpson,MOUNTAIN BASE,No.
+36857,165,118,578000,Ranger,MOUNTAIN BASE,Hmm. Follow me.
+36860,165,120,581000,Ranger,NATURE CENTER,We'll take the chair-lift. It'll give us an eagle-eye view of the area directly beneath the chair-lift.
+36862,165,122,587000,Ranger,NATURE CENTER,"Well, I won't lie to you, ma'am. Our chances of finding your children are slim to nil."
+36863,165,123,593000,Lisa Simpson,NATURE CENTER,"Hi, Mom!"
+36864,165,124,595000,Marge Simpson,NATURE CENTER,There they are! Let me down here.
+36865,165,125,598000,Ranger,NATURE CENTER,"Uh, sorry. There's no way off 'til we get to the top, and even then it's sort of tricky."
+36866,165,126,603000,Marge Simpson,NATURE CENTER,"All right, kids. We'll meet you at the top. Just be careful!"
+36867,165,127,608000,Ranger,NATURE CENTER,"Eh, I'm actually a little more concerned about us. Um, do you know how to weld?"
+36869,165,129,617000,Homer Simpson,MOUNTAIN TOP,That worked sooo well.
+36870,165,130,621000,C. Montgomery Burns,MOUNTAIN TOP,We have several hours before the others arrive. What say we get comfy?
+36871,165,131,625000,C. Montgomery Burns,MOUNTAIN TOP,"Now we have electricity. This propane tank will supply us with heat, and this doorknob, properly turned, will allow us access to the cabin."
+36872,165,132,636000,Homer Simpson,MOUNTAIN TOP,No going through the window for us!
+36874,165,134,638000,Bart Simpson,Mountain,Is there maple syrup in this one?
+36875,165,135,641000,Waylon Smithers,Mountain,"There isn't any food in any of these trees. Please Bart, we've got to hurry. I can't be the last one to reach the cabin."
+36876,165,136,646000,Bart Simpson,Mountain,"Hey, I'm not gonna get fired. Is there any gold in this mountain?"
+36877,165,137,650000,Waylon Smithers,Mountain,It doesn't matter.
+36878,165,138,652000,Bart Simpson,Mountain,I'll check.
+36879,165,139,654000,Lisa Simpson,Mountain,Mr. Smithers! Mr. Smithers! I found another hurt shrew! I think this one has a twisted ankle!
+36880,165,140,662000,Waylon Smithers,Mountain,Twisted a... Aren't there any healthy animals in this forest?
+36882,165,142,665000,C. Montgomery Burns,MOUNTAIN TOP,"Well, I don't suppose the others will mind us starting the party early, Homie old boy. More champagne?"
+36883,165,143,673000,Homer Simpson,MOUNTAIN TOP,"You know, Mr. Burns, you're the richest guy I know. Way richer than Lenny."
+36884,165,144,678000,C. Montgomery Burns,MOUNTAIN TOP,"Oh, yes, but I'd trade it all for a little more."
+36885,165,145,682000,Homer Simpson,MOUNTAIN TOP,"Oh, these sure are comfortable chairs."
+36886,165,146,684000,C. Montgomery Burns,MOUNTAIN TOP,"Oh, yes, sitting. The great leveler. From the mightiest Pharaoh to the lowliest peasant, who doesn't enjoy a good sit?"
+36887,165,147,692000,Homer Simpson,MOUNTAIN TOP,"Oh, man, you are so right. Did you ever sit like this?"
+36888,165,148,697000,C. Montgomery Burns,MOUNTAIN TOP,"Yes, yes! That's it! Oh, I could go for one of those right now!"
+36889,165,149,705000,C. Montgomery Burns,MOUNTAIN TOP,The only hard part is getting up.
+36890,165,150,710000,Homer Simpson,MOUNTAIN TOP,Why get up? Here's a little move I've been tinkering with. Say I want that bowl of dip.
+36891,165,151,716000,C. Montgomery Burns,MOUNTAIN TOP,"Why, you'd have to get up."
+36892,165,152,718000,Homer Simpson,MOUNTAIN TOP,Oh?
+36893,165,153,725000,C. Montgomery Burns,MOUNTAIN TOP,"Sir, I am in your debt."
+36894,165,154,729000,Homer Simpson,MOUNTAIN TOP,"Use it wisely, my friend."
+36897,165,157,741000,Lenny Leonard,Mountain,"Hey, did you hear something?"
+36898,165,158,744000,Carl Carlson,Mountain,No.
+36899,165,159,744000,Lenny Leonard,Mountain,Hmm. Did I?
+36900,165,160,746000,Carl Carlson,Mountain,I don't know.
+36902,165,162,748000,C. Montgomery Burns,Cabin,Hope that wasn't an avalanche. Be a chum and have a look-see.
+36903,165,163,752000,Homer Simpson,Cabin,"You got it, buddy."
+36904,165,164,766000,C. Montgomery Burns,Cabin,Isn't there any way out of here?
+36905,165,165,769000,Homer Simpson,Cabin,"Um, I don't see one. Unless..."
+36906,165,166,775000,Homer Simpson,Cabin,No. There's no way out.
+36907,165,167,777000,C. Montgomery Burns,Cabin,"There must be some way to contact the outside world. Ah, the telegraph."
+36908,165,168,786000,C. Montgomery Burns,Cabin,S-O-S. Avalanche... Send... Help...
+36911,165,171,811000,Carl Carlson,Snowbank Above Buried Cabin,"According to the map, the cabin should be right here."
+36912,165,172,815000,Lenny Leonard,Snowbank Above Buried Cabin,"Hey, maybe there is no cabin. Maybe it's one of them um, metaphorical things."
+36913,165,173,821000,Carl Carlson,Snowbank Above Buried Cabin,"Oh, yeah, yeah. Like maybe the ""cabin"" is the place inside each of us created by our goodwill and teamwork."
+36914,165,174,828000,Lenny Leonard,Snowbank Above Buried Cabin,"Ohhhh. Nah, they said there'd be sandwiches."
+36916,165,176,843000,C. Montgomery Burns,Cabin,"Simpson, I have a confession. I'm not quite the tunnel digger I made myself out to be."
+36917,165,177,848000,Homer Simpson,Cabin,You can supervise me.
+36918,165,178,850000,C. Montgomery Burns,Cabin,"All right, good. Let's dig... That's right, dig some more... Oh, we make quite a duo: Burns and associate. No, no, what am I thinking? Burns and... teammate."
+36859,165,180,870000,C. Montgomery Burns,Tunnel,"We made it, old friend!"
+36920,165,181,871000,Homer Simpson,Tunnel,We sure did!
+36799,165,182,873000,C. Montgomery Burns,Tunnel,Woooo-hoooo! / Huzzah!
+36925,165,187,891000,C. Montgomery Burns,Buried Cabin,What happened?
+36926,165,188,894000,Homer Simpson,Buried Cabin,I think when we yelled we caused another avalanche.
+36927,165,189,900000,C. Montgomery Burns,Buried Cabin,We... should... be... careful... not... to... speak... unless... it's... absolutely... positively... necessary.
+36928,165,190,920000,Homer Simpson,Buried Cabin,Shhh! You're causing more avalanches. .
+36929,165,191,930000,Homer Simpson,Buried Cabin,I think they've stopped. .
+36930,165,192,937000,C. Montgomery Burns,Buried Cabin,Let's go.
+36931,165,193,952000,C. Montgomery Burns,Buried Cabin,"Those last three avalanches were your fault, Simpson."
+36932,165,194,955000,Homer Simpson,Buried Cabin,So what?
+36933,165,195,956000,C. Montgomery Burns,Buried Cabin,Sew buttons.
+36935,165,197,962000,Carl Carlson,MOUNTAIN TOP,"Oh, there's not another place for miles. This must be the cabin Burns was talking about."
+36936,165,198,968000,Lenny Leonard,MOUNTAIN TOP,"Well, we made it here first, all thanks to teamwork."
+36937,165,199,972000,Carl Carlson,MOUNTAIN TOP,"Yeah, my teamwork."
+36939,165,201,973000,C. Montgomery Burns,Buried Cabin,We must be covered by a thousand feet of snow.
+36940,165,202,977000,Homer Simpson,Buried Cabin,It could be days before they find us.
+36941,165,203,979000,C. Montgomery Burns,Buried Cabin,"Hmmm... no books, no radio, no board games. Ah! A Bazooka Joe comic."
+36942,165,204,985000,C. Montgomery Burns,Buried Cabin,Ech! I heard that one 75 years ago.
+36943,165,205,988000,Homer Simpson,Buried Cabin,We could build snowmen.
+36944,165,206,991000,C. Montgomery Burns,Buried Cabin,"No, I have a better idea! We could build real men. Out of snow."
+36945,165,207,996000,Homer Simpson,Buried Cabin,Oh... Okay.
+36947,165,209,1008000,Lisa Simpson,MOUNTAIN TOP,Mr. Smithers! Mr. Smithers! That moose is on fire!
+36948,165,210,1011000,Waylon Smithers,MOUNTAIN TOP,Fine. Good. I don't care anymore. I'm the last one here. You kids cost me my job.
+36949,165,211,1016000,Lenny Leonard,MOUNTAIN TOP,"You ain't last, Mr. Smithers."
+36950,165,212,1018000,Waylon Smithers,MOUNTAIN TOP,"Oh, thank goodness."
+36951,165,213,1020000,Carl Carlson,MOUNTAIN TOP,Yeah. Burnsie and Homer never made it.
+36952,165,214,1022000,Waylon Smithers,MOUNTAIN TOP,Mr. Burns is still out there?
+36953,165,215,1024000,Lisa Simpson,MOUNTAIN TOP,What about our dad?!
+36956,165,217,1026000,C. Montgomery Burns,Buried Cabin,"Ah. 206 bones... fifty miles of small intestine... full, pouting lips. Why, this fellow is less a snowman than a god."
+36957,165,218,1038000,C. Montgomery Burns,Buried Cabin,"Well, we've managed to stave off cabin fever for a few hours."
+36958,165,219,1044000,C. Montgomery Burns,Buried Cabin,I... I think we should dress the snowmen.
+36959,165,220,1047000,Homer Simpson,Buried Cabin,Agreed.
+36960,165,221,1052000,C. Montgomery Burns,Buried Cabin,Look at them. Smug and secure in their finery. Mocking us.
+36961,165,222,1057000,Homer Simpson,Buried Cabin,"Uh, they're just snowmen, Mr. Burns."
+36962,165,223,1059000,C. Montgomery Burns,Buried Cabin,"Ah, snowmen have peepers. Peepers to watch. To watch for our moment of weakness and then baff! comes the knock on the head and we're down."
+36963,165,224,1067000,Homer Simpson,Buried Cabin,What do we do?
+36964,165,225,1068000,C. Montgomery Burns,Buried Cabin,"Oh, wouldn't you like to know."
+36966,165,227,1075000,Ranger,MOUNTAIN TOP,"Hey, what is going on here? Who are you people? This is a lookout post. Where's Ranger McFadden?"
+36967,165,228,1081000,Drunk Man,MOUNTAIN TOP,I was jush happy to see so many nice people...
+36968,165,229,1085000,Ranger,MOUNTAIN TOP,"Quiet, you drunk. Where's Ranger McFadden?"
+36969,165,230,1088000,McFadden,MOUNTAIN TOP,"Right here, sir. Right behind the drunk."
+36970,165,231,1089000,Waylon Smithers,MOUNTAIN TOP,"Wait a minute. If this is a ranger station, we must be in the wrong place."
+36971,165,232,1094000,Ranger,MOUNTAIN TOP,The only other cabin is right over there. Huh...
+36972,165,233,1101000,McFadden,MOUNTAIN TOP,Look at all these avalanches. Do you think they could've buried the cabin?
+36973,165,234,1105000,Ranger,MOUNTAIN TOP,Well I'll tell ya one thing: They didn't come here for the Mountain Music Festival. March 14-18.
+36974,165,235,1110000,Lisa Simpson,MOUNTAIN TOP,"Mom, Dad and Mr. Burns could be trapped in there!"
+36977,165,238,1117000,Mr. Burns's Thoughts,Buried Cabin,"I'm trapped with a madman. Look at him, staring into me, filling my mind with paranoid thoughts."
+148575,165,239,1131000,Homer's Brain,Buried Cabin,"Mmm. Look at his eyes. He's trying to hypnotize me, but not in the good Las Vegas way."
+36978,165,240,1137000,Mr. Burns's Thoughts,Buried Cabin,"I know what he's up to! He's thinking of killing me, then riding my carcass down the mountain to safety. He's truly gone mad if he's thinking that. Well, he can't kill me if I kill him first."
+36979,165,241,1151000,C. Montgomery Burns,Buried Cabin,"I'll kill you, you bloated museum of treachery."
+36980,165,242,1154000,Homer Simpson,Buried Cabin,You and what army?
+36955,165,243,1158000,Homer Simpson,Buried Cabin,"Stay back! I have powers! Uh, political powers!"
+36982,165,245,1168000,Abraham Lincoln,Buried Cabin,It's showtime!
+36983,165,246,1193000,C. Montgomery Burns,Buried Cabin,Homer!
+36984,165,247,1194000,Homer Simpson,Buried Cabin,Burnsie!
+36988,165,251,1200000,Ranger,Ranger Station,"Okay, search party. Before we set out, let's take a moment to humor the children. Kids, your father's gonna be just fine. Okay, everybody, put on your corpse handling gloves. We've got two frozen bodies buried somewhere in this mountain."
+36989,165,252,1214000,Bart Simpson,Ranger Station,"Did you hear that, Lis? Dad's gonna be just fine."
+36990,165,253,1219000,Lisa Simpson,Ranger Station,Look! What's that?!!
+36992,165,255,1225000,C. Montgomery Burns,Rocket Cabin,We'll be dashed to pieces.
+36993,165,256,1227000,Homer Simpson,Rocket Cabin,"Oh Lord, protect this rocket house and all who dwell within the rocket house."
+36995,165,258,1230000,Waylon Smithers,Ranger Station,It's them all right.
+36996,165,259,1232000,Marge Simpson,Ranger Station,"We're over here, Homie!"
+36997,165,260,1234000,Lenny Leonard,Ranger Station,"Oh, something's wrong with its brakes! Gangway!"
+36998,165,261,1251000,Homer Simpson,Ranger Station,"Marge, kids."
+37000,165,263,1257000,C. Montgomery Burns,Ranger Station,Have you people forgotten our little competition? Last one in the cabin is fired.
+37001,165,264,1265000,Employees,Ranger Station,"Me first! / No, me! / Out my way! / Etc."
+37002,165,265,1265000,C. Montgomery Burns,Ranger Station,"You're fired, Lenny."
+37003,165,266,1267000,Lenny Leonard,Ranger Station,"Aw, nuts."
+37004,165,267,1270000,C. Montgomery Burns,Ranger Station,So how did we do?
+37005,165,268,1271000,Waylon Smithers,Ranger Station,"It's a new record, sir."
+37006,165,269,1273000,C. Montgomery Burns,Ranger Station,"Outstanding. Well, perhaps all of this has been worthwhile. Did you all learn about teamwork?"
+37007,165,270,1279000,Employees,Ranger Station,Yes.
+37008,165,271,1280000,C. Montgomery Burns,Ranger Station,"Excellent. In that case, no one will be fired after all."
+37009,165,272,1285000,Lenny Leonard,Ranger Station,That old goat can't fire me. I'm going to give him a piece of my...
+37011,165,274,1296000,Lenny Leonard,Ranger Station,"Aw, nuts."
+37012,165,275,1297000,C. Montgomery Burns,Ranger Station,"Well, Simpson, I must say, once you've been through something like that with a person, you never want to see that person again."
+37013,165,276,1305000,Homer Simpson,Ranger Station,"You said it, ya weirdo."

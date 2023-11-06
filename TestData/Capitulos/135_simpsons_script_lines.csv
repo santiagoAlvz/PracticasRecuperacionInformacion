@@ -1,0 +1,230 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+28986,135,1,35000,Waylon Smithers,Springfield Nuclear Power Plant,"C'mon, Simpson! Open up! We know you're in there!"
+28988,135,3,44000,Waylon Smithers,Springfield Nuclear Power Plant,Hmm... That one!
+28989,135,4,47000,Homer Simpson,Springfield Nuclear Power Plant,Someone's in here.
+28990,135,5,50000,Homer Simpson,Springfield Nuclear Power Plant,Nooo! Nooo! Nooo! Nooo!
+28991,135,6,56000,Waylon Smithers,Springfield Nuclear Power Plant,"Boy, I've never seen a man so desperate to get out of five minutes of calisthenics."
+28992,135,7,60000,C. Montgomery Burns,Springfield Nuclear Power Plant,"One, two, three, four! Up, down, three, four..."
+28993,135,8,66000,Carl Carlson,Springfield Nuclear Power Plant,This new exercise program is great!
+28994,135,9,68000,Lenny Leonard,Springfield Nuclear Power Plant,Yeah. Every muscle in my body's gettin' a workout. Especially my big fat mouth.
+28995,135,10,73000,Homer Simpson,Springfield Nuclear Power Plant,"Yeah! Especially your big fat... Oh, wait."
+28996,135,11,76000,C. Montgomery Burns,Springfield Nuclear Power Plant,Raise your right hock. Aerate! Raise your left hock. Aerate! I want to see more Teddy Roosevelts and less Franklin Roosevelts!
+28997,135,12,86000,Homer Simpson,Springfield Nuclear Power Plant,TWO!
+28998,135,13,87000,Lenny Leonard,Springfield Nuclear Power Plant,"Actually, Homer, that's just one. See, each push-up includes both an ""up"" part and a ""down"" part."
+28999,135,14,93000,Homer Simpson,Springfield Nuclear Power Plant,Arrgh!
+29000,135,15,94000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, where's Charlie? How'd he get out of this?"
+29001,135,16,98000,Carl Carlson,Springfield Nuclear Power Plant,"Aw, he's at home on disability."
+29002,135,17,100000,Lenny Leonard,Springfield Nuclear Power Plant,"Yeah, he got injured on the job and they sent him home with pay. Pfft. It's like a lottery that rewards stupidity."
+29003,135,18,105000,Homer Simpson,Springfield Nuclear Power Plant,"Stupidity, eh?"
+29004,135,19,107000,Homer Simpson,Springfield Nuclear Power Plant,Must hurt self. Must hurt self. Must hurt self.
+29006,135,21,121000,Homer Simpson,Springfield Nuclear Power Plant,"Hmm, probably better that didn't hit me."
+29007,135,22,134000,C. Montgomery Burns,Springfield Nuclear Power Plant,Yes?
+29008,135,23,136000,Homer Simpson,Springfield Nuclear Power Plant,Hello.
+29009,135,24,137000,C. Montgomery Burns,Springfield Nuclear Power Plant,May I help you?
+29010,135,25,139000,Homer Simpson,Springfield Nuclear Power Plant,"Um, could you give me a little push in the opposite direction?"
+29011,135,26,143000,C. Montgomery Burns,Springfield Nuclear Power Plant,Okay.
+29012,135,27,147000,Homer Simpson,Springfield Nuclear Power Plant,Thank you.
+29013,135,28,148000,Homer Simpson,Springfield Nuclear Power Plant,"Carpal Tunnel Syndrome? No. Lumber Lung? No. Juggler's Despair? No. Achy-Breaky Pelvis? No. Oh, I'm never gonna be disabled. I'm sick of being so healthy!"
+29014,135,29,161000,Homer Simpson,Springfield Nuclear Power Plant,"Hey, wait... ""Hyper-Obesity."" ""If you weigh more than 300 pounds, you qualify as disabled."""
+29015,135,30,165000,Pig,Springfield Nuclear Power Plant,"You can do it, old boy!"
+29016,135,31,179000,Homer Simpson,Springfield Nuclear Power Plant,Yes I can.
+29017,135,32,184000,Pig,Springfield Nuclear Power Plant,"Yes, yes. That's the spirit!"
+29019,135,34,189000,Bart Simpson,Simpson Home,"If you gain 61 pounds, they'll let you work at home?"
+29020,135,35,192000,Homer Simpson,Simpson Home,"Yuh-huh, that's the deal. No more exercise program! No more traffic! No more blood drives or charity walks!"
+29021,135,36,198000,Bart Simpson,Simpson Home,"Dad, I know we don't do a lot together, but helping you gain 61 pounds is something I want to be a part of."
+29022,135,37,205000,Lisa Simpson,Simpson Home,Dad--
+29024,135,39,206000,Lisa Simpson,Simpson Home,I must protest. You're abusing a program intended to help the unfortunate.
+29025,135,40,210000,Homer Simpson,Simpson Home,"I'm not saying it isn't sleazy, honey. But try to see it my way. All my life I've been an obese man trapped inside a fat man's body."
+29026,135,41,219000,Lisa Simpson,Simpson Home,Have you told mom about this?
+29027,135,42,220000,Homer Simpson,Simpson Home,"No. It would only worry her. If you want to add to her worries, go ahead. I guess I'm just a little more grateful for all she's done for us."
+29028,135,43,227000,Lisa Simpson,Simpson Home,Da-ad!
+29029,135,44,228000,Homer Simpson,Simpson Home,"Yes, sweetheart?"
+29030,135,45,229000,Lisa Simpson,Simpson Home,Obesity is really unhealthy. Any doctor will tell you that.
+29031,135,46,232000,Homer Simpson,Simpson Home,"Oh yeah? Well, we'll just see about that, Little Miss Smart Guy."
+29033,135,48,237000,Dr. Julius Hibbert,Dr. Hibbert's Office,"My God, that's monstrous... I've never heard of anything so neglige-- I'll have no part of it."
+29034,135,49,244000,Homer Simpson,Dr. Hibbert's Office,Can you recommend a doctor who will?
+29035,135,50,246000,Dr. Julius Hibbert,Dr. Hibbert's Office,Yes.
+29037,135,52,247000,Dr. Nick Riviera,Dr. Nick Rivera's Office,"Hi, everybody!"
+29038,135,53,249000,Bart Simpson,Dr. Nick Rivera's Office,"Hi, Doctor Nick!"
+29039,135,54,251000,Dr. Nick Riviera,Dr. Nick Rivera's Office,"Now there are many options available for dangerously underweight individuals like yourself. I recommend a slow, steady gorging process, combined with assal horizontology."
+29040,135,55,264000,Homer Simpson,Dr. Nick Rivera's Office,Of course.
+29041,135,56,266000,Dr. Nick Riviera,Dr. Nick Rivera's Office,"You'll want to focus on the neglected food groups, such as the whipped group, the congealed group, and the choc-o-tastic."
+29042,135,57,274000,Homer Simpson,Dr. Nick Rivera's Office,"What can I do to speed the whole thing up, Doctor?"
+29043,135,58,277000,Dr. Nick Riviera,Dr. Nick Rivera's Office,"Be creative. Instead of making sandwiches with bread, use Pop-Tarts. Instead of chewing gum, chew bacon."
+29044,135,59,284000,Bart Simpson,Dr. Nick Rivera's Office,You could brush your teeth with milkshakes!
+29045,135,60,286000,Dr. Nick Riviera,Dr. Nick Rivera's Office,"Hey, did you go to Hollywood Upstairs Medical College, too?"
+29047,135,62,291000,Dr. Nick Riviera,Dr. Nick Rivera's Outer Office,"And remember, if you're not sure about something, rub it against a piece of paper."
+29048,135,63,297000,Dr. Nick Riviera,Dr. Nick Rivera's Outer Office,"If the paper turns clear, it's your window to weight gain."
+29049,135,64,301000,Dr. Nick Riviera,Dr. Nick Rivera's Outer Office,"Bye-bye, everybody!"
+29051,135,66,305000,Homer Simpson,Supermarket,"Oh, it's a dream come true, boy! I can, nay, I must, eat everything I've always wanted. Now c'mon! Every second I'm out of bed, I'm burning precious calories. Now get grabbin'!"
+29052,135,67,330000,Bart Simpson,Supermarket,"Eat around the banana, Dad, it's just empty vitamins."
+29053,135,68,347000,Muscular Guy,Supermarket,"Lucky for you, this stuff doesn't work."
+29054,135,69,355000,Homer Simpson,Supermarket,I don't know... fish sandwich? Are you sure?
+29055,135,70,365000,Homer Simpson,Supermarket,"Oh, two-twenty-five?! That means I lost weight!"
+29056,135,71,370000,Bart Simpson,Supermarket,"Homer, you're... um... on the towel rack."
+29057,135,72,376000,Homer Simpson,Supermarket,Woo hoo! Four more pounds and my dream comes true: Working at home...
+29058,135,73,388000,Marge Simpson,Supermarket,Here's your lemonade and here's your beer.
+29059,135,74,390000,Marge Simpson,Supermarket,"Oh, you're such a vigorous young go-getter. When's your next coffee break?"
+29060,135,75,396000,Homer Simpson,Supermarket,Any time I want.
+29061,135,76,409000,Homer Simpson,Supermarket,"Hey, Flanders, bad day at the rat races?"
+29062,135,77,412000,Ned Flanders,Supermarket,Yeah. A crazy guy shot a bunch of people and the subway ran over my hat.
+29063,135,78,420000,Bart Simpson,Supermarket,"Hey, Lis, come look at this."
+29064,135,79,422000,Lisa Simpson,Supermarket,Neat!
+29066,135,81,430000,Homer Simpson,Simpson Home,"Hello, honey."
+29067,135,82,431000,Marge Simpson,Simpson Home,"Hi. Ah, er, there's something I've been meaning to ask you. Did you put on a little weight this week?"
+29068,135,83,438000,Homer Simpson,Simpson Home,"I was going to surprise you, but what the heck -- Honey, I'm purposely gaining sixty-one pounds to get on disability."
+29069,135,84,447000,Marge Simpson,Simpson Home,Have you lost your mind?! Have you thought about your health?... Or your appearance?
+29070,135,85,452000,Homer Simpson,Simpson Home,"So that's it, isn't it, Marge? Looks. I didn't know you were so shallow."
+29071,135,86,457000,Marge Simpson,Simpson Home,"Oh please, I would love you if you weighed 1,000 pounds but--"
+29072,135,87,460000,Homer Simpson,Simpson Home,Beautiful. G'night.
+29073,135,88,464000,Homer Simpson,Simpson Home,I've got fifteen minutes to gain a pound or I gotta face another day at work.
+29074,135,89,468000,Bart Simpson,Simpson Home,"Bad news, Dad, we're out of food. We're even out of the basic elements of food. You ate all the tarragon and you drank all the soy sauce."
+29075,135,90,474000,Homer Simpson,Simpson Home,I need a miracle.
+29076,135,91,483000,Homer Simpson,Simpson Home,"Oh, honey, that looks just like a real donut..."
+29077,135,92,487000,Bart Simpson,Simpson Home,"Dad? It says ""Non-Toxic."""
+29078,135,93,487000,Homer Simpson,Simpson Home,"Well, that's a plus."
+29079,135,94,496000,Homer Simpson,Simpson Home,Woo hoo hoo hoo! I did it!
+29080,135,95,499000,Bart Simpson,Simpson Home,"Ah, Dad? Towel rack...?"
+29081,135,96,507000,Homer Simpson,Simpson Home,Oh my.
+29083,135,97,513000,C. Montgomery Burns,Simpson Home,"I am pleased to dedicate this remote work terminal. It will allow our safety inspector here to perform his duties from home. And so, excelsior to you, Mr. What's the name of this gastropod?"
+29084,135,98,525000,Waylon Smithers,Simpson Home,"Simpson, Sir. One of your chair-moisteners from Sector Seven-G."
+29085,135,99,528000,C. Montgomery Burns,Simpson Home,"... Yes, Simpson."
+29086,135,100,533000,Homer Simpson,Simpson Home,Thank you for your pity.
+29087,135,101,535000,Lisa Simpson,Simpson Home,"Mom, were you ever planning to step in and put a stop to this?"
+29088,135,102,539000,Marge Simpson,Simpson Home,Normally your father's crackpot schemes fizzle out as soon as he finds something good on TV. But this season...
+29092,135,106,559000,Homer Simpson,VAST WAISTBAND,I'm looking for something loose and billowy. Something comfortable for my first day of work.
+29093,135,107,562000,Salesman,VAST WAISTBAND,"Work, huh? Let me guess: Computer programmer? Computer magazine columnist? Something with computers."
+29094,135,108,568000,Homer Simpson,VAST WAISTBAND,"Well, I use a computer!"
+29095,135,109,570000,Salesman,VAST WAISTBAND,"What's the connection? Must be the non-stop sitting and snacking. Well, sir, many of our clients find pants confining. So we offer a range of alternatives for the ample gentleman: ponchos, muu-muus, capes, jumpsuits, uni-sheets, muslin body rolls, academic and judicial robes..."
+29096,135,110,586000,Homer Simpson,VAST WAISTBAND,I don't want to look like a weirdo. I'll just go with a muu-muu.
+29099,135,113,598000,Arnie Pye,Simpson Home,"Arnie Pie in the Sky with the morning commute! Traffic this morning is as bad as it gets! Due to a fire at the Army Testing Lab, a bunch of escaped infected monkeys are roaming the Expressway! Despite the sweltering heat, don't unroll your windows, 'cause those monkeys seem confused and irritable!"
+29100,135,114,615000,Homer Simpson,Simpson Home,I pity those poor suckers on the freeway. Gas-brake-honk. Gas-brake-honk. Honk-honk-punch. Gas-gas-gas.
+29101,135,115,627000,Homer Simpson,Simpson Home,Eight fifty-eight. First time I've ever been early for work. Except for all those daylight savings days. Lousy farmers.
+29102,135,116,637000,Homer Simpson,Simpson Home,"""To start, press any key."" Where's the ""any"" key?"
+29103,135,117,641000,Homer Simpson,Simpson Home,"I see essc, ctarl, and pig-up. There doesn't seem to be any ""any"" key. All this computer hacking is making me thirsty. I think I'll order a Tab."
+29082,135,118,654000,Homer Simpson,Simpson Home,"Oops, no time for that now -- the computer's starting."
+29104,135,119,657000,Homer Simpson,Simpson Home,"""Check core temperature? Yes-slash-No."" Yes."
+29105,135,120,663000,Homer Simpson,Simpson Home,"""Core temperature normal."" Not too shabby. ""Vent radioactive gas?"" N-O."
+29106,135,121,671000,Homer Simpson,Simpson Home,"""Venting prevents explo-si-on."" This is hard. Where's my Tab? Okay then -- yes. Vent the stupid gas."
+29109,135,124,689000,Farmer,REMOTE IDYLLIC CORN FIELD,"Aw no, the corn! Paul Newman's gonna have my legs broke."
+29111,135,126,694000,Homer Simpson,Simpson Home,Bart and Lisa have to go to school while I get to stay home. Nyah nyah nyah nyah nyah nyah.
+29112,135,127,700000,Lisa Simpson,Simpson Home,I like school.
+29113,135,128,701000,Homer Simpson,Simpson Home,"Well, why don't you live in it then?"
+29114,135,129,702000,Lisa Simpson,Simpson Home,I would if I could.
+29115,135,130,704000,Bart Simpson,Simpson Home,"Not me, sister. When I grow up I wanna be a lardo on workman's comp, just like Dad."
+29116,135,131,713000,Bart Simpson,Simpson Home,I wash myself with a rag on a stick.
+29119,135,134,724000,Lisa Simpson,Simpson Home,Eww! Mo-om!
+29120,135,135,726000,Lisa Simpson,Simpson Home,This whole thing is really creepy. Are you sure you won't talk to dad?
+29121,135,136,730000,Marge Simpson,Simpson Home,"I'd like to, honey, but I'm not sure how. Your father can be surprisingly sensitive. Remember when I giggled at his Sherlock Holmes hat? He sulked for a week and then closed his detective agency."
+29122,135,137,741000,Lisa Simpson,Simpson Home,"Well, maybe you'll have to hurt his feelings. The longer he lives like this, the harder it'll be to go back."
+29123,135,138,746000,Marge Simpson,Simpson Home,"You're right. Maybe if I use my least nagging tone of voice. Homer? Homer! Homer! That's it. That's the one. All right, send him on in."
+29124,135,139,760000,Lisa Simpson,Simpson Home,Dad?
+29125,135,140,761000,Homer Simpson,Simpson Home,"Yes, honey?"
+29126,135,141,762000,Lisa Simpson,Simpson Home,Umm... Mom just baked a cake.
+29127,135,142,768000,Marge Simpson,Simpson Home,"Homer, we need to have a serious talk."
+29128,135,143,770000,Homer Simpson,Simpson Home,You dragged me all the way from work for that?
+29129,135,144,772000,Marge Simpson,Simpson Home,"Let's quietly and calmly discuss the pros and cons of your controversial plan, shall we?"
+29130,135,145,778000,Homer Simpson,Simpson Home,I...
+29131,135,146,778000,Marge Simpson,Simpson Home,Con: You're endangering your health.
+29132,135,147,781000,Homer Simpson,Simpson Home,Pro: I'm drought and famine resistant.
+29133,135,148,784000,Marge Simpson,Simpson Home,Con: You're setting a bad example for the children.
+29134,135,149,786000,Homer Simpson,Simpson Home,"Pro: I, uh... don't have to go to work."
+29135,135,150,788000,Marge Simpson,Simpson Home,Con: You're running the air conditioner non-stop. It's freezing in here.
+29136,135,151,792000,Homer Simpson,Simpson Home,Pro: Uhh... uhh... I love you?
+29137,135,152,796000,Marge Simpson,Simpson Home,Con: I am finding myself less attracted to you physically.
+29138,135,153,804000,Homer Simpson,Simpson Home,"Marge, this is everything I've ever dreamed of, right here."
+29139,135,154,804000,Homer Simpson,Simpson Home,"And nobody's gonna take it away from me! You never had faith in me before. But let me tell you, the slim, lazy Homer you knew is dead. Now I'm a big fat dynamo. And where's that cake?"
+29140,135,155,822000,Marge Simpson,Simpson Home,There's no cake.
+29142,135,157,826000,Homer Simpson,Simpson Home,"""Vent radioactive gas?..."" Y-E-S."
+29143,135,158,830000,Homer Simpson,Simpson Home,"""Sound alertness horn?"" Y-E-S."
+29144,135,159,834000,Homer Simpson,Simpson Home,"""Decalcify calcium ducts?"" Well, gimme a Y. Gimme a--"
+29145,135,160,838000,Homer Simpson,Simpson Home,"Hey, all I have to type is ""Y."""
+29146,135,161,841000,Homer Simpson,Simpson Home,"Hey, Miss Doesn't-Find-Me-Attractive Sexually-Anymore. I just tripled my productivity."
+29147,135,162,849000,Marge Simpson,Simpson Home,Good. Good for you.
+29148,135,163,851000,Homer Simpson,Simpson Home,"Y... Y... Y... Let's see, so many letters to choose from. I'll pick Y."
+29149,135,164,855000,Homer Simpson,Simpson Home,"Y, Y... What the heck are you doing over there?"
+29150,135,165,863000,Homer Simpson,Simpson Home,There. There. You found the floor.
+29151,135,166,866000,Homer Simpson,Simpson Home,YYY... Y... Y... Y...
+29152,135,167,866000,Marge Simpson,Simpson Home,I'm going out. I run errands during the day.
+29153,135,168,873000,Homer Simpson,Simpson Home,Could you pick me up a lemonade and a beer--
+29155,135,170,882000,Homer Simpson,Simpson Home,The mail! The mail is here!
+29156,135,171,884000,Homer Simpson,Simpson Home,"Oooo! ""An Urgent Plea From Edward James Olmos!"" ""Lisa Simpson: Can you afford to miss another issue of The Utne Reader?"" Kids."
+29157,135,172,897000,Homer Simpson,Simpson Home,Free sample of fabric softener? Woo hoo!
+29158,135,173,908000,Homer Simpson,Simpson Home,"Hmmm, I can feel three kinds of softness."
+29159,135,174,910000,Lisa Simpson,Simpson Home,"Dad, what are you doing down there?"
+29160,135,175,912000,Homer Simpson,Simpson Home,"Washing my fat guy hat, honey."
+29161,135,176,915000,Announcer,Simpson Home,"We now return to ""Search for the Sun."""
+29163,135,177,919000,Glamorous Woman,Simpson Home,"According to Daddy's will, I inherit the entire plantation."
+29164,135,178,924000,Rugged Man,Simpson Home,I'll see to it you don't get apricot one.
+29165,135,179,933000,Milhouse Van Houten,Simpson Home,Uh... What's your dad's job again?
+29166,135,180,936000,Bart Simpson,Simpson Home,He's a Nuclear Safety Technician.
+29167,135,181,939000,Nelson Muntz,Simpson Home,What's he doin' with that broom?
+29168,135,182,941000,Bart Simpson,Simpson Home,What isn't he doing?
+29169,135,183,943000,Jimbo Jones,Simpson Home,I heard that guy's ass has its own congressman.
+29170,135,184,949000,Lisa Simpson,Simpson Home,"Hey, leave my dad alone. Just because he's overweight doesn't mean he's bad. He's a sweet man and he has real feelings."
+29171,135,185,957000,Homer Simpson,Simpson Home,"Hey, what are you kids looking at?"
+29172,135,186,959000,Milhouse Van Houten,Simpson Home,"Hey, look. He's trying to get up to yell at us."
+29173,135,187,962000,Homer Simpson,Simpson Home,Don't make me close the shade!
+29174,135,188,968000,Bart Simpson,Simpson Home,"Hey, Homer, you promised Mom you wouldn't wear your dress outside."
+29175,135,189,971000,Homer Simpson,Simpson Home,Nuts to that. I'm going to the movies.
+29176,135,190,973000,Lisa Simpson,Simpson Home,Shouldn't you be working?
+29177,135,191,974000,Homer Simpson,Simpson Home,I got someone to cover for me.
+29179,135,193,982000,Homer Simpson,Aztec Theater,"One for ""Honk,"" please."
+29180,135,194,984000,Ticket Seller,Aztec Theater,Uh... Gee...Uh... Just a minute. I have to check with the manager.
+29182,135,196,994000,Manager,Aztec Theater,"I'm terribly sorry, sir. But I'm afraid our facilities are not equipped to meet your needs."
+29183,135,197,998000,Homer Simpson,Aztec Theater,What are you talking about?
+29184,135,198,1000000,Manager,Aztec Theater,"Well, what I'm saying, sir, is that a man of your carriage couldn't possibly fit in our seats."
+29185,135,199,1004000,Homer Simpson,Aztec Theater,I could sit in the aisle.
+29186,135,200,1005000,Manager,Aztec Theater,I'm afraid that would violate the fire code.
+29187,135,201,1008000,Moviegoer,Aztec Theater,"Hey, Fatty! I got a movie for ya -- ""A Fridge Too Far."""
+29188,135,202,1015000,Homer Simpson,Aztec Theater,"Shame on all of you. Give me my dignity! I just came here to see ""Honk If You're Horny"" in peace."
+29189,135,203,1021000,Manager,Aztec Theater,"Sir, if you'd just quiet down, I'd be happy to treat you to a garbage bag full of popcorn."
+29194,135,204,1025000,Homer Simpson,Aztec Theater,"This may surprise you, but you can't buy me off with food! I'm sick of all your stereotypes and cheap jokes! The overweight individuals in this country are just as smart and talented and hard-working as everybody else. And they're gonna make their voices heard! All they need is a leader!"
+29196,135,206,1043000,Homer Simpson,Simpson Home,"I'll work harder than ever before, and show the world overweight people aren't undisciplined, lazy, and irresponsible! What happened to my bird?"
+29197,135,207,1054000,Homer Simpson,Simpson Home,Marge?... Lisa?... Flanders?...
+29198,135,208,1065000,Homer Simpson,Simpson Home,Explosion imminent?!
+29199,135,209,1068000,Homer Simpson,Simpson Home,"Omigod, the plant's gonna explode!"
+29201,135,211,1074000,Carl Carlson,Springfield Nuclear Power Plant,"Hey, that thing's going kah-kah koo-koo."
+29202,135,212,1076000,Lenny Leonard,Springfield Nuclear Power Plant,Who cares? It's Homer's problem.
+29203,135,213,1078000,Homer Simpson,Springfield Nuclear Power Plant,"Wait, I know! ""Vent Gas."""
+29204,135,214,1079000,Homer Simpson,Springfield Nuclear Power Plant,Pressure too high?
+29205,135,215,1084000,Homer Simpson,Springfield Nuclear Power Plant,"""Tank must be shut down manually?!"" Stupid bird! I never should have put you in charge! Why you..."
+29206,135,216,1093000,Homer Simpson,Springfield Nuclear Power Plant,"Oh, who am I kidding? It's all my fault."
+29207,135,217,1097000,Homer Simpson,Springfield Nuclear Power Plant,Shut up!
+29208,135,218,1097000,Homer Simpson,Springfield Nuclear Power Plant,I gotta call the plant and warn them!
+29209,135,219,1101000,Recorded Voice,Springfield Nuclear Power Plant,"The fingers you have used to dial... are too fat. To obtain a special dialing wand, please mash the keypad with your palm now."
+29212,135,222,1112000,Homer Simpson,Simpson Home,"I'm gonna have to shut it down myself. Fat, don't fail me now."
+29215,135,225,1135000,Homer Simpson,Simpson Home,The ice cream man!
+29217,135,227,1140000,Ice Cream Man,Simpson Home,"Take anything you want, man. Take it all."
+29219,135,229,1146000,C. Montgomery Burns,Springfield Nuclear Power Plant,Push out the jive... Bring in the love...
+29221,135,231,1153000,Ralph Wiggum,School Bus,"I heard your dad went into a restaurant, and ate everything in the restaurant, and they had to close the restaurant."
+29190,135,232,1160000,Lisa Simpson,School Bus,"Hey, my dad may have gained a little weight, but he's not some kind of food-crazed maniac."
+29191,135,233,1166000,Homer Simpson,School Bus,"Oh, that's raspberry."
+29222,135,236,1167000,Workers,Springfield Nuclear Power Plant,Yay! Ice cream man!
+29223,135,237,1175000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Workers, please! There'll be time for the frozen pudding wagon later! You still owe me ten more Iroquois twists!"
+29224,135,238,1181000,C. Montgomery Burns,Springfield Nuclear Power Plant,Ten hi-ya-ya! And nine hi-ya-ya..!
+29225,135,239,1189000,Homer Simpson,Springfield Nuclear Power Plant,"Get away, dammit! Run for your lives!"
+29226,135,240,1191000,Worker #1,Springfield Nuclear Power Plant,I'll take a rocket pop.
+29227,135,241,1193000,Worker #2,Springfield Nuclear Power Plant,What can I get for thirty cents?
+29228,135,242,1194000,Homer Simpson,Springfield Nuclear Power Plant,Let go! I gotta get to the tank!
+29229,135,243,1202000,Worker #3,Springfield Nuclear Power Plant,Heck! I can't decide without the pictures.
+29230,135,244,1204000,Workers,Springfield Nuclear Power Plant,... Six hi-ya-ya..!
+29231,135,245,1211000,Workers,Springfield Nuclear Power Plant,... Four hi-ya-ya..!
+29232,135,246,1220000,Workers,Springfield Nuclear Power Plant,... Three hi-ya-ya..!
+29233,135,247,1229000,Workers,Springfield Nuclear Power Plant,... Two hi-ya-ya..!
+29235,135,249,1236000,Homer Simpson,Springfield Nuclear Power Plant,Stupid switch! I wish I had my reaching-broom!
+29236,135,250,1239000,Workers,Springfield Nuclear Power Plant,... One hi-ya-ya!
+29237,135,251,1244000,Homer Simpson,Springfield Nuclear Power Plant,Wait a minute! There's probably a --
+29239,135,253,1254000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Homer, your bravery and quick thinking have turned a potential Chernobyl into a mere Three-Mile Island. Bravo!"
+29240,135,254,1264000,Marge Simpson,Springfield Nuclear Power Plant,I'm so proud. That's my husband wedged in that hatch.
+29241,135,255,1264000,Lisa Simpson,Springfield Nuclear Power Plant,"I think it's ironic that Dad saved the day, while a slimmer man would have fallen to his death."
+29242,135,256,1269000,Bart Simpson,Springfield Nuclear Power Plant,And I think it's ironic that for once Dad's butt prevented the release of toxic ga--
+29243,135,257,1273000,Marge Simpson,Springfield Nuclear Power Plant,Bart!
+29244,135,258,1274000,C. Montgomery Burns,Springfield Nuclear Power Plant,We'll have you out of there as soon as our tech boys get you decontaminated.
+29245,135,259,1278000,Homer Simpson,Springfield Nuclear Power Plant,"Thank you, Mr. Burns. It was pretty scary up there. But... For a while I feared for my life."
+29246,135,260,1290000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Now Homer, if there's anything else I can do for you, please don't hesitate to ask."
+29247,135,261,1300000,Homer Simpson,Springfield Nuclear Power Plant,Mr. Burns... Can you make me thin again?
+29248,135,262,1304000,C. Montgomery Burns,Springfield Nuclear Power Plant,I guarantee it.
+29249,135,263,1306000,C. Montgomery Burns,Springfield Nuclear Power Plant,One... One... One...
+29250,135,264,1311000,C. Montgomery Burns,Springfield Nuclear Power Plant,Bah! I'll just pay for the blasted liposuction.
+29251,135,265,1314000,Homer Simpson,Springfield Nuclear Power Plant,Woo hoo!

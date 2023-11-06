@@ -1,0 +1,223 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+89240,345,1,33000,Bart Simpson,Sidewalk,"Some sucker will think he's getting beer, but he's really gonna get a face full of melon!"
+89185,345,2,39000,Milhouse Van Houten,Sidewalk,Seedless melon!
+89241,345,3,42000,Bart Simpson,Sidewalk,Shhh. Don't ruin the moment.
+89242,345,4,46000,Barney Gumble,Sidewalk,"Oh boy, free beer!"
+89243,345,5,48000,Milhouse Van Houten,Sidewalk,Oh man!
+89244,345,6,49000,Barney Gumble,Sidewalk,"Easy, Barney... easy..."
+89245,345,7,53000,Barney Gumble,Sidewalk,Remember the twelve steps.
+89246,345,8,55000,Barney Gumble,Sidewalk,One-two-three-four-five-six-seven-eight-nine-ten-eleven-twelve!
+89247,345,9,62000,Barney Gumble,Sidewalk,"Nice try, boys. Now, as the Roadrunner said to the Coyote, ""meep meep""!"
+89248,345,10,69000,Bart Simpson,Sidewalk,Everyone in town is wise to us. We need someone new we can prank.
+89249,345,11,80000,Bart Simpson,Sidewalk,Sweet. Fresh meat.
+89250,345,12,82000,Milhouse Van Houten,Sidewalk,Meat's not sweet. It's savory.
+89251,345,13,85000,Tourist,Sidewalk,"Hi, bean sprouts! The name's Howell Huser. I travel the country gawkin' and talkin', and I was hopin' to take in your town."
+89252,345,14,94000,Bart Simpson,Sidewalk,We can show you around. If you don't mind a heapin' helpin' of local color.
+89253,345,15,99000,HOWELL HUSER,Sidewalk,Why my favorite color is local!
+89254,345,16,102000,HOWELL HUSER,Sidewalk,"Ooh, watermelon. Want to plant the seeds?"
+89255,345,17,105000,Milhouse Van Houten,Sidewalk,It's seedless.
+89258,345,20,110000,HOWELL HUSER,Lake,Radioactivity?
+89259,345,21,112000,Bart Simpson,Lake,That means it's a place where we do radio... activities.
+89260,345,22,121000,HOWELL HUSER,Lake,I'm happy to be exposed to that kind of radioactivity.
+89261,345,23,127000,Milhouse Van Houten,Lake,"Ya know, the fish here are so friendly, you can walk right up and feed 'em."
+89262,345,24,131000,HOWELL HUSER,Lake,Hmm...
+89263,345,25,135000,HOWELL HUSER,Lake,"Well howdy, little feller."
+89264,345,26,139000,HOWELL HUSER,Lake,Ow! Oh! Ow! Oh! I can't wait till this is over! Ow!
+89266,345,28,147000,HOWELL HUSER,Springfield Street,I was thinking maybe we could visit the hospital now.
+89267,345,29,151000,Milhouse Van Houten,Springfield Street,Perhaps a stick of gum will lighten your mood.
+89268,345,30,154000,HOWELL HUSER,Springfield Street,It always has in the past.
+89269,345,31,159000,HOWELL HUSER,Springfield Street,Finger pain?! I thought I had gum comin'! That tears it!
+89270,345,32,165000,HOWELL HUSER,Springfield Street,"I've been smilin' for forty-seven years, and you two broke my streak!"
+89271,345,33,171000,HOWELL HUSER,Springfield Street,Shame on you. And shame on you.
+89272,345,34,173000,HOWELL HUSER,Springfield Street,And shame on your whole ill-mannered town!
+89273,345,35,177000,Jimbo Jones,Springfield Street,"Hey, that guy's shaming us."
+89274,345,36,180000,Kearney Zzyzwicz,Springfield Street,My self-esteem sure didn't need that!
+89275,345,37,183000,Kearney Zzyzwicz,Springfield Street,Loser!
+89276,345,38,188000,Jimbo Jones,Springfield Street,"Yeah, get out, shamey!"
+89277,345,39,190000,Bart Simpson,Springfield Street,I don't think we'll be hearing from him again.
+89279,345,41,196000,Female Host,Simpson Home,"So, kitchen wizard. I understand you have a book coming out."
+89280,345,42,199000,Kitchen Wizard,Simpson Home,"Yes, it's about Winston Churchill's life between the wars."
+89281,345,43,202000,Female Host,Simpson Home,"Up next on the Soft News Network, let's hear from our own wide-eyed wanderer, Howell Huser."
+89282,345,44,209000,Bart Simpson,Simpson Home,Uh-oh.
+89283,345,45,210000,HOWELL HUSER,Simpson Home,"I've ambled and rambled across this country, and never found a town I didn't like... till now."
+89284,345,46,210000,HOWELL HUSER,Simpson Home,"And the name of that town, is Springfield."
+89286,345,48,223000,HOWELL HUSER,Simpson Home,"I was attacked, humiliated, and fed misleading gum. I give Springfield the lowest rating I've ever given a city: a six out of ten."
+89288,345,50,234000,Lisa Simpson,Simpson Living Room,I hope this bad publicity doesn't affect tourism.
+89289,345,51,238000,Homer Simpson,Simpson Living Room,"Eh, who needs tourists? They never buy my maps to stars' homes, anyway."
+89290,345,52,248000,Homer Simpson,Simpson Living Room,"Have you read them all? Okay, good."
+89293,345,55,257000,Mayor Joe Quimby,Springfield Town Hall,"We need to bring...tourism back to Springfield. As usual, I will open the floor to all crazy ideas that jump to people's minds."
+89294,345,56,265000,Barney Gumble,Springfield Town Hall,Stronger beer! / Gladiator fights! / Poetry slam! / Giant rats!
+89295,345,57,270000,Lisa Simpson,Springfield Town Hall,I have a real suggestion.
+89296,345,58,272000,Captain Horatio McCallister,Springfield Town Hall,Y'arrr.
+89297,345,59,275000,Lisa Simpson,Springfield Town Hall,"Why don't we legalize same-sex marriage? We can attract a growing segment of the marriage market, and strike a blow for civil rights."
+89298,345,60,283000,Moe Szyslak,Springfield Town Hall,"Yeah, them gay guys got lots of disposable income. I can serve fancy drinks and charge ten bucks a pop. What's in a martini?"
+89299,345,61,291000,Sideshow Mel,Springfield Town Hall,Gin and vermouth.
+89300,345,62,293000,Moe Szyslak,Springfield Town Hall,And that makes a what?
+89301,345,63,294000,Sideshow Mel,Springfield Town Hall,A martini.
+89302,345,64,295000,Moe Szyslak,Springfield Town Hall,Never heard of it. But I'm still in favor of that same-sex marriage deal.
+89303,345,65,299000,Mayor Joe Quimby,Springfield Town Hall,Then it's settled. We'll legalize gay money -- I mean uh gay marriage!
+89304,345,66,305000,Nelson Muntz,Springfield Town Hall,I propose we also legalize gay funerals -- starting with this guy.
+89305,345,67,310000,Martin Prince,Springfield Town Hall,I'm not gay. I'm nothing yet!
+89306,345,68,313000,Moe Szyslak,Springfield Town Hall,"Okay, now let's say I put a Lean Cuisine in a blender and I pour some beer on it. What do you call that?"
+89307,345,69,319000,Sideshow Mel,Springfield Town Hall,A Lean Cuisini?
+89308,345,70,319000,Moe Szyslak,Springfield Town Hall,Wrong.
+89309,345,71,325000,Calypso Singer,Springfield Town Hall,"WHEN MY MAN AND I SHOPPED FOR WEDDING GOWNS / WE WERE MOCKED AND SHUNNED AND PUSHED AROUND / BUT YESTERDAY, WE FOUND A PLACE TO BE GAY / I'M GOING TO MARRY MY HARRY IN SPRINGFIELD TOWN..."
+89310,345,72,337000,Calypso Chorus,Springfield Town Hall,GAY-O / IT'S OKAAAAY-O / TIE THE KNOT AND SPEND ALL YOUR DOUGH. / GAY-O / COME STAAAAY-O / VISIT OUR WEBSITE FOR FURTHER IN-FO.
+89311,345,73,350000,Mayor Joe Quimby,Springfield Town Hall,"Springfield -- a place where everyone can marry. Even dudes. We're just off route two oh two. Do not take the Jefferson Avenue Exit. For God's sake, do not take that exit."
+89314,345,76,370000,Rev. Timothy Lovejoy,First Church of Springfield,"While I have no opinion for or against your sinful lifestyles, I cannot marry two people of the same sex any more than I can put a hamburger on a hot dog bun. Now go back to working behind the scenes in every facet of entertainment!"
+89315,345,77,386000,Marge Simpson,First Church of Springfield,"Excuse me, Reverend."
+89316,345,78,387000,Rev. Timothy Lovejoy,First Church of Springfield,Yes.
+89317,345,79,389000,Marge Simpson,First Church of Springfield,"As long as two people love each other, I don't think God cares whether they both have the same hoo-hoo or ha-ha."
+89318,345,80,395000,Nelson Muntz,First Church of Springfield,Haw-haw!
+89319,345,81,397000,Rev. Timothy Lovejoy,First Church of Springfield,The Bible forbids same-sex relations.
+89320,345,82,401000,Marge Simpson,First Church of Springfield,Which book?
+89321,345,83,402000,Rev. Timothy Lovejoy,First Church of Springfield,Which book? The Bible!
+89322,345,84,403000,Marge Simpson,First Church of Springfield,But Reverend... Scriptural scholars disagree on the significance for Christians of many of the Old Testament's proscriptions.
+89323,345,85,405000,Marge Simpson,First Church of Springfield,Jesus' teachings stressed inclusiveness and compassion...
+89324,345,86,419000,Mayor Joe Quimby,First Church of Springfield,Lovejoy's an idiot -- his church is giving up hot gobs of gay green. He could get two hundred bucks a couple.
+89325,345,87,426000,Homer Simpson,First Church of Springfield,"Two hundred bucks a couple, eh?"
+89326,345,88,434000,Homer Simpson,First Church of Springfield,"Hey, I gotta get in on this! These people have rights! The right to buy me a sixty-two inch TV!"
+89328,345,90,447000,Homer Simpson,Simpson Home,Now begins the long and spiritual journey to becoming an ordained minister.
+89329,345,91,453000,Homer Simpson,Simpson Home,"Let's see, ""Name"" ""Homer Simpson""."
+89330,345,92,456000,Computer Voice,Simpson Home,You are now an ordained minister.
+89331,345,93,464000,Homer Simpson,Simpson Home,"Now to answer all the pop-ups. Ooh, a talking moose wants my credit card number. That's only fair."
+89334,345,96,487000,Homer Simpson,GARAGE,"...And do you, Julio, take Thad to be your lawful wedded life partner, in Massachusetts and Vermont... maybe Canada... stay outta Texas... as long as you both are gay?"
+89335,345,97,498000,Julio,GARAGE,I do.
+89336,345,98,500000,Homer Simpson,GARAGE,It brings me great joy to unite two such loving people. Photo mouse pads for sale out back.
+89338,345,100,510000,Homer Simpson,Simpson Home,"Okay, what's next? Adam and Steve or Madam and Eve?"
+89339,345,101,513000,Marge Simpson,Simpson Home,"Homer, you married every gay couple in town."
+89340,345,102,516000,Homer Simpson,Simpson Home,"Hey, what can I say? I love love."
+89341,345,103,518000,Bart Simpson,Simpson Home,"Well, all you can do now is wait for some other guys to turn."
+89342,345,104,521000,Homer Simpson,Simpson Home,Hm... where's Lenny and Carl?
+89343,345,105,523000,Marge Simpson,Simpson Home,Don't you push them! They've gotta work that out for themselves.
+89344,345,106,527000,Homer Simpson,Simpson Home,"But I'm only two hundred dollars short of fourteen thousand, eight hundred dollars."
+89345,345,107,531000,Lisa Simpson,Simpson Home,"Well, what about people of the opposite sex who want to get married?"
+89346,345,108,535000,Homer Simpson,Simpson Home,Opposite? Yuck!!
+89347,345,109,536000,Lisa Simpson,Simpson Home,I mean a man and a woman.
+89348,345,110,539000,Homer Simpson,Simpson Home,"Hm. Well, maybe marriage isn't just for gays. What's that thing called when a guy is gay for a girl?"
+89349,345,111,545000,Marge Simpson,Simpson Home,Straight.
+89350,345,112,546000,Homer Simpson,Simpson Home,"Ooh, look at me. I'm straight as a one dollar bill. La de da. Ooh."
+89352,345,114,562000,Homer Simpson,Simpson Garage,Do you Cletus take Brandine to be...
+89353,345,115,565000,Homer Simpson,Simpson Garage,Wait a minute! Are you two brother and sister?
+89354,345,116,568000,Brandine Del Roy,Simpson Garage,We's all kinda things!
+89356,345,117,573000,Kent Brockman,Simpson Garage,A new epidemic is raging through Springfield -- and this one didn't start with Krustyburger's Whatchamacarcass Sandwich. I'm talking about an outbreak of marriage fever!
+89357,345,118,583000,Kent Brockman,Simpson Garage,Reverend Simpson...
+89358,345,119,583000,Homer Simpson,Simpson Garage,"Please, Kent. Call me Your Holiness."
+89359,345,120,586000,Kent Brockman,Simpson Garage,"I can't. I just can't. Homer, have we started down a slippery slope, where marriage becomes so meaningless that anyone could marry anything?"
+89360,345,121,594000,Homer Simpson,Simpson Garage,"Oh Kent, not anything. It has to exist. Or does it?"
+89361,345,122,600000,Rev. Timothy Lovejoy,Simpson Garage,"Well, call me old fashioned, but I believe that marriage described in the Bible--"
+89362,345,123,604000,Homer Simpson,Simpson Garage,"If you love the Bible so much, why don't you marry it? In fact, I now pronounce you and the Bible man and wife. And you're the wife. You owe me two hundred bucks."
+89363,345,124,615000,Rev. Timothy Lovejoy,Simpson Garage,"Homer, your impulsive marriages are gonna lead to a lot of divorces."
+89364,345,125,618000,Homer Simpson,Simpson Garage,Which will lead to a lot more impulsive marriages. Which will put more green in the blue. The blue being my pants.
+89365,345,126,627000,Rev. Timothy Lovejoy,Simpson Garage,"I'm sorry, Homer. But I'm gonna have to leave you hanging there."
+89366,345,127,630000,Krusty the Clown,Simpson Garage,If I may say a word.
+89367,345,128,631000,Kent Brockman,Simpson Garage,"Why, we're joined live now by Krusty the clown. Krusty?"
+89368,345,129,635000,Krusty the Clown,Simpson Garage,I want to clear up a misconception about the Whatchamacarcass Sandwich. I used non-diseased meat from diseased animals. Everyone does it.
+89370,345,131,648000,Marge Simpson,Simpson Home,"Oh Homie, I'm so proud of you. You stood up for people's right to express love in its most perfect form, a binding legal contract."
+89371,345,132,660000,Patty Bouvier,Simpson Home,"Hey Saturated Fats, I came to ask you a favor."
+89372,345,133,663000,Homer Simpson,Simpson Home,Lemme get my belt sander. Maybe I can grind the ugly off your face.
+89373,345,134,666000,Patty Bouvier,Simpson Home,Very funny.
+89374,345,135,666000,Homer Simpson,Simpson Home,I wasn't joking.
+89375,345,136,670000,Patty Bouvier,Simpson Home,"I'm getting married, and I need you to perform the ceremony."
+89376,345,137,673000,Marge Simpson,Simpson Home,"You're getting married?! Patty, that's wonderful!"
+89377,345,138,677000,Marge Simpson,Simpson Home,"So tell, tell. Who's the lucky man? What does he do? Let me guess: does he work in Customer Support?"
+89378,345,139,684000,Patty Bouvier,Simpson Home,You can guess all night and never get it. Her name's Veronica.
+89355,345,140,690000,Marge Simpson,Simpson Home,But Veronica's a girl's name. Did you know that?
+89379,345,141,694000,Patty Bouvier,Simpson Home,I'm marrying a woman. I'm... I'm gay.
+89380,345,142,701000,Patty Bouvier,Simpson Home,"You're not disappointed, are you?"
+89381,345,143,702000,Marge Simpson,Simpson Home,Oh no. No no. No. I'm just... surprised.
+89382,345,144,707000,Homer Simpson,Simpson Home,"Yeah, big surprise. Hey Marge, here's another bomb: I like beer."
+89383,345,145,718000,Marge Simpson,Simpson Home,So Patty. You're a woman who likes women. I guess that fear I always had of you stealing Homer away is unfounded.
+89385,345,147,727000,Homer Simpson,Simpson Home,"Marge, I'd be a lot more worried about me leaving you for a sausage patty than your sister Patty."
+89387,345,149,734000,Patty Bouvier,Simpson Home,"Next time it'll be your eye. Marge, did you really think I was straight?"
+89388,345,150,738000,Marge Simpson,Simpson Home,"Well, I guess I could have seen the signs."
+89389,345,151,759000,Patty Bouvier,Simpson Home,"You could see it from space, Marge. This isn't a problem for you, is it?"
+89390,345,152,764000,Marge Simpson,Simpson Home,"Oh no. Oh no. Why would it be? I love you and I love gay marriage, so I'd be a super-hypocrite if I didn't love your gay marriage. Right?"
+89391,345,153,773000,Homer Simpson,Simpson Home,"Now Patty, here's a veil I picked out just for you."
+89392,345,154,779000,Patty Bouvier,Simpson Home,It smells like cheeseburgers.
+89393,345,155,781000,Homer Simpson,Simpson Home,Give it back!
+89394,345,156,783000,Lisa Simpson,Simpson Home,Why are we dressed as Sunday Best Simpsons for dinner with Aunt Patty?
+89395,345,157,787000,Marge Simpson,Simpson Home,Because she's bringing over someone very special. Her fiancée.
+89396,345,158,793000,Bart Simpson,Simpson Home,Is this one of those reality deals where a guy gets a million bucks for marrying Aunt Patty? But they have to honeymoon in a box full of snakes?
+89397,345,159,800000,Homer Simpson,Simpson Home,"Son, that's the stupidest idea I ever heard. And I know exactly who would pay top dollar for it."
+89398,345,160,807000,Woman,Simpson Home,"You've reached Fox. If you're pitching a show where gold-digging skanks get what's coming to them, press one. If you're pitching a rip-off of another network's reality show, press two."
+89399,345,161,818000,Woman,Simpson Home,Please stay on the line. Your half-baked ideas are all we've got.
+89400,345,162,822000,Marge Simpson,Simpson Home,Actually your aunt is marrying a very lucky... woman.
+89401,345,163,828000,Lisa Simpson,Simpson Home,I thought you said Aunt Patty was just waiting for the right man.
+89402,345,164,832000,Bart Simpson,Simpson Home,"As opposed to you, who grabbed the first blimp that floated by."
+89403,345,165,835000,Homer Simpson,Simpson Home,Correction. The first blimp that got her pregnant.
+89404,345,166,839000,Bart Simpson,Simpson Home,"Seriously Dad, I'm worried. You should go on a diet."
+89405,345,167,842000,Homer Simpson,Simpson Home,Why you little...
+89406,345,168,846000,Homer Simpson,Simpson Home,Save my place.
+89407,345,169,853000,Patty Bouvier,Simpson Home,"This is my fiancée, Veronica."
+89408,345,170,855000,Veronica,Simpson Home,It's a pleasure to meet you all.
+89409,345,171,857000,Marge Simpson,Simpson Home,"So Veronica, what do you do?"
+89410,345,172,860000,Veronica,Simpson Home,I'm a pro golfer.
+89411,345,173,861000,Marge Simpson,Simpson Home,No surprises there.
+89412,345,174,864000,Lisa Simpson,Simpson Home,"Aunt Patty, where did you two meet? Alternative book store? Ethiopian restaurant?"
+89413,345,175,869000,Patty Bouvier,Simpson Home,It was so romantic -- like a scene from a Hollywood movie...
+89414,345,176,873000,Homer Simpson,Simpson Home,"Yeah, ""Bride of the Monster."""
+89416,345,178,877000,Patty Bouvier,Simpson Home,I was at the LPGA Ritz Bitz Celebrity Pro-Am...
+89418,345,180,882000,Krusty the Clown,Golf Course,"Lady golfers? I thought we played this stupid game to get away from the women. With the yak, yak, yak and the spend, spend, spend! Am I right?"
+89420,345,182,891000,Veronica,Golf Course,"Hey, clown. Watch out for this lady driver."
+89421,345,183,897000,Veronica,Golf Course,Are you all right?
+89422,345,184,899000,Patty Bouvier,Golf Course,Never better.
+89423,345,185,907000,Veronica,Golf Course,I'll bet that's how angels cough.
+89424,345,186,910000,Patty Bouvier,Golf Course,I've been wearing that three wood ever since.
+89425,345,187,916000,Marge Simpson,Golf Course,Whoa! Save something for your wedding night.
+89426,345,188,919000,Veronica,Golf Course,"Oh, we're saving everything for our wedding night."
+89427,345,189,922000,Patty Bouvier,Golf Course,That's what Mom would want.
+89428,345,190,924000,Marge Simpson,Golf Course,I don't think it's exactly what Mom would want.
+89429,345,191,927000,Patty Bouvier,Golf Course,"Marge, are you sure you're okay with this?"
+89430,345,192,930000,Marge Simpson,Golf Course,Of course. Everyone should do whatever they want. Take a bear to church! Read a book with your feet! Change your name to Gooble-Glop!
+89431,345,193,937000,Patty Bouvier,Golf Course,"Oh, I get it. You act all liberal, but you can't handle it when your sister finds love in her own locker room."
+89432,345,194,947000,Patty Bouvier,Golf Course,"Marge, if you can find it in your heart to accept me for who I am, I would love to see you at the ceremony. If not, I'll see you at Homer's funeral...which should be pretty soon."
+89433,345,195,961000,Homer Simpson,Golf Course,Got him! Uh-oh.
+89435,345,197,967000,Grampa Simpson,Simpson Home,What am I not invited to this time?
+89436,345,198,969000,Bart Simpson,Simpson Home,Gay wedding. But I can get you in.
+89437,345,199,971000,Grampa Simpson,Simpson Home,You can? Is there an open bar?
+89438,345,200,973000,Bart Simpson,Simpson Home,"No, cash."
+89439,345,201,975000,Grampa Simpson,Simpson Home,"Well, I say this whole thing is against nature!"
+89440,345,202,979000,Selma Bouvier,Simpson Home,"So, wanna do a jigsaw puzzle tonight?"
+89441,345,203,982000,Patty Bouvier,Simpson Home,"Selma, I'm getting married in an hour."
+89442,345,204,984000,Selma Bouvier,Simpson Home,"I know, I know. I'm just having trouble getting used to the idea of being alone."
+89443,345,205,989000,Patty Bouvier,Simpson Home,Don't lay that on me. You got married three times.
+89444,345,206,993000,Selma Bouvier,Simpson Home,"Actually, four. You see, last week..."
+89445,345,207,997000,Disco Stu,Simpson Home,Disco Stu just got an annulment from John Paul Two. Boogie down!
+89446,345,208,1003000,Patty Bouvier,Simpson Home,"Selma, we'll always be there for each other. I don't know about Marge, though. If she doesn't show up today...I have no non-identical sister!"
+89447,345,209,1016000,Homer Simpson,Simpson Home,"Oh Lord, please help me say the right words this afternoon, as I consecrate another gay union that angers you so."
+89448,345,210,1023000,Homer Simpson,Simpson Home,And please let thy Holy Spirit open the heart of my wife. Amen.
+89449,345,211,1028000,Marge Simpson,Simpson Home,"I just can't believe my sister would keep me in the dark all these years, then expect complete acceptance on the day she gets married."
+89450,345,212,1040000,Homer Simpson,Simpson Home,You handsome devil. Someday they'll let you and me get married! Can you imagine the children?
+89451,345,213,1049000,Homers,Simpson Home,"I love you, Homer... I love you too, Homer... Oh, Homer."
+89454,345,216,1065000,Marge Simpson,Simpson Home,The toilet seat's up!
+89455,345,217,1066000,Marge Simpson,Simpson Home,But that wouldn't happen unless...
+89456,345,218,1070000,Veronica,Simpson Home,DUDE LOOKS LIKE A LADY... DUDE LOOKS LIKE A LADY...
+89457,345,219,1077000,Marge Simpson,Simpson Home,She's a man! Looks like Patty's gonna get something she didn't register for.
+89460,345,222,1095000,Homer Simpson,Simpson Garage,"Queerly beloved, we're here to join Veronica and Patty in matrimony. But the news isn't all good. They've written their own vows. Patty?"
+89461,345,223,1105000,Patty Bouvier,Simpson Garage,"Veronica, in you I have found a soul mate. You are the perfect woman for me: truthful, honest, hiding nothing."
+89463,345,224,1114000,Patty Bouvier,Simpson Garage,At last I have found the yin to my yin.
+89464,345,225,1120000,Homer Simpson,Simpson Garage,"If anyone knows a reason why these two should not be joined, let them speak now... or forever hold their peace."
+89465,345,226,1126000,Marge Simpson,Simpson Garage,No! I can't let this happen!
+89466,345,227,1128000,Patty Bouvier,Simpson Garage,I knew it! You think everyone in the world should have a big dumb man like you!
+89467,345,228,1133000,Homer Simpson,Simpson Garage,"People please, can we wrap this up? It's gonna rain and I've gotta get the bikes in here."
+89469,345,230,1137000,Marge Simpson,GARAGE,"Patty, it's not what you think. Veronica is a man!"
+89471,345,232,1146000,Sideshow Mel,GARAGE,Look at the size of that Adam's apple!
+89472,345,233,1149000,Patty Bouvier,GARAGE,"Veronica, how could you?"
+89473,345,234,1152000,Veronica,GARAGE,"Patty, I love you. But long before we met, I disguised myself as a woman, and lied my way onto the LPGA tour."
+89474,345,235,1159000,Patty Bouvier,GARAGE,"I can see why you lied to other golfers, caddies, fans and officials, but how could you lie to me and the sponsors?"
+89475,345,236,1167000,Veronica,GARAGE,"Because you fell in love with me as a woman, and I didn't want to lose you. But now I'm asking you, not as Veronica, but as the man I am: Leslie Robin Swisher."
+89476,345,237,1177000,Leslie,GARAGE,"Patty, will you marry the real me?"
+89477,345,238,1184000,Patty Bouvier,GARAGE,"Hell no, I like girls!"
+89478,345,239,1193000,Patty Bouvier,GARAGE,"Marge, thank you for accepting me for who I am."
+89479,345,240,1196000,Marge Simpson,GARAGE,"Well, I've learned a lesson. Just because you're a lesbian, it doesn't make you less of a bein'."
+89480,345,241,1203000,Homer Simpson,GARAGE,"Patty, I admire your decision. It takes courage to follow your heart and walk out on a non-refundable wedding ceremony. So I'm gonna waive the rose petal removal fee and prorate the cake-handling surcharge."
+89481,345,242,1216000,Patty Bouvier,GARAGE,Thanks.
+89482,345,243,1218000,Lisa Simpson,GARAGE,"Well, that's the end of Dad's wedding business."
+89483,345,244,1220000,Bart Simpson,GARAGE,Why?
+89484,345,245,1222000,Patty Bouvier,GARAGE,"Hey, twisted sister. You still have that jigsaw puzzle?"
+89485,345,246,1226000,Selma Bouvier,GARAGE,There never was a jigsaw puzzle. I was trying to make you jealous.
+89486,345,247,1230000,Patty Bouvier,GARAGE,"Hey, wanna go to the airport and leave a bag unattended?"
+89487,345,248,1233000,Selma Bouvier,GARAGE,It is a good way to meet security personnel. Let's go.
+89462,345,252,1252000,Homer Simpson,Simpson Garage,Next!
+89491,345,253,1254000,Captain Horatio McCallister,Simpson Garage,Hurry! Before she changes her mind!

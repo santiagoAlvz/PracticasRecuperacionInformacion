@@ -1,0 +1,255 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+154478,20,1,70000,Lisa Simpson,Simpson Home,"Bart, cut it out!"
+154479,20,2,104000,Homer Simpson,Simpson Home,Bart! Stop fighting with your sister!
+154480,20,3,107000,Bart Simpson,Simpson Home,She took my glue!
+154481,20,4,108000,Lisa Simpson,Simpson Home,"It's not yours, Bart! This is family glue!"
+154482,20,5,112000,Homer Simpson,Simpson Home,"Stop it, you two! This is Thanksgiving! So glue friendly, or I'll take your glue away and then no one will have any glue to glue with!"
+154483,20,6,118000,Lisa Simpson,Simpson Home,"Dad, this isn't about glue. It's about territoriality. He only wants the glue because I'm using it."
+154484,20,7,124000,Bart Simpson,Simpson Home,Oh yeah? Prove it!
+154485,20,8,125000,Lisa Simpson,Simpson Home,Here.
+154486,20,9,126000,Bart Simpson,Simpson Home,"Hey, man, I don't want your stupid glue."
+154487,20,10,133000,Marty,Simpson Home,"Uh-oh. Here comes our friend, Bullwinkle J. Moose..."
+154488,20,11,136000,Homer Simpson,Simpson Home,Heh... heh... heh. Bullwinkle's antler sprung a leak.
+154489,20,12,138000,Bill,Simpson Home,Uh-oh... it looks like ol' Bullwinkle's kinda got a taste of his own medicine!
+154490,20,13,142000,Marty,Simpson Home,"He certainly did, Bill!"
+154491,20,14,144000,Bill,Simpson Home,"Wait, what did that mean? Did what I say make sense?"
+154492,20,15,147000,Marty,Simpson Home,"Well... no... not really, Bill!"
+154493,20,16,148000,Bill,Simpson Home,"Boy, now I know how the Pilgrims felt."
+154494,20,17,150000,Marty,Simpson Home,"What're you talking about, Bill?"
+154495,20,18,152000,Bart Simpson,Simpson Home,Who the hell is that?
+154496,20,19,153000,Homer Simpson,Simpson Home,Bullwinkle.
+154497,20,20,153000,Bart Simpson,Simpson Home,"Who? Wait a minute, who's that?"
+154498,20,21,157000,Homer Simpson,Simpson Home,Underdog! Don't you know anything?
+154499,20,22,159000,Bart Simpson,Simpson Home,"Well, I know it wouldn't hurt 'em to use some cartoons made in the last fifty years."
+154500,20,23,162000,Homer Simpson,Simpson Home,"Son, this is a tradition. If you start building a balloon for every flash-in-the-pan cartoon character, you'd turn the parade into a farce."
+154501,20,24,181000,Lisa Simpson,Simpson Home,"Maggie, I'm about to unveil my centerpiece to the family!"
+154507,20,25,185000,Lisa Simpson,Simpson Home,"It's a tribute to the trailblazing women who made our country great... See, there's Georgia O'Keefe... Susan B. Anthony... and this is Marjorie Stoneman Douglas. I'm sure you haven't heard of her, but she worked her whole life to preserve the Florida Everglades."
+154509,20,27,201000,Lisa Simpson,Simpson Home,"As one of the Simpson women, would you like to contribute something to it?"
+154510,20,28,208000,Lisa Simpson,Simpson Home,"Oh, thank you."
+154511,20,29,211000,Marge Simpson,Simpson Home,"Honey, please. You're in the way."
+154512,20,30,213000,Bart Simpson,Simpson Home,"Can't I help you, Mom?"
+154513,20,31,215000,Marge Simpson,Simpson Home,"Well, okay. Let's see... Can you do the cranberry sauce?"
+154514,20,32,218000,Bart Simpson,Simpson Home,Yeah! Where is it?
+154515,20,33,220000,Marge Simpson,Simpson Home,The can is in the cupboard on the bottom shelf.
+154516,20,34,221000,Bart Simpson,Simpson Home,Here?
+154517,20,35,223000,Marge Simpson,Simpson Home,"No, no, no, the other shelf."
+154518,20,36,224000,Bart Simpson,Simpson Home,Got it. Now what?
+154519,20,37,226000,Marge Simpson,Simpson Home,Open the can.
+154520,20,38,228000,Bart Simpson,Simpson Home,No problemo. Where's the can opener?
+154521,20,39,230000,Marge Simpson,Simpson Home,It's in the second drawer from the right.
+154522,20,40,233000,Marge Simpson,Simpson Home,"No, no, no, no, the other one."
+154523,20,41,235000,Bart Simpson,Simpson Home,"Oh, I got ya."
+154524,20,42,238000,Bart Simpson,Simpson Home,"It's broken, Mom. Mom, it's broken. Mom, it's broken. Mom, it's broken. Mom, it's broken. Mom, it's broken."
+154525,20,43,246000,Marge Simpson,Simpson Home,"I don't think that it's broken, honey. Here, let me try."
+154526,20,44,250000,Marge Simpson,Simpson Home,Here you go.
+154527,20,45,255000,Bart Simpson,Simpson Home,"Ah, cranberry sauce à la Bart."
+154528,20,46,257000,Marge Simpson,Simpson Home,Just stick it in the refrigerator when you're done. Bart. Bart?
+154529,20,47,266000,Homer Simpson,Simpson Home,"See, Maggie? Those silver and blue guys are the Dallas Cowboys. They're Daddy's favorite team, and he wants them to lose by less than five and a half points. Understand?"
+154530,20,48,276000,Announcer #1,Simpson Home,"Oh, Kogen's got Wolodarsky open way down field, and it's complete!... Ooooh, what a hit!"
+154531,20,49,281000,Announcer #2,Simpson Home,"Oh yeah, he's out cold, Gil."
+154532,20,50,283000,Announcer #1,Simpson Home,"Oh, yes sir. Looks like they'll be feeding him Thanksgiving dinner through a tube."
+154533,20,51,287000,Announcer #2,Simpson Home,Heh... heh. Hope they can fit a turkey in there!
+154534,20,52,289000,ANNOUNCER #,Simpson Home,"Get on with it, Gil."
+154535,20,53,290000,Marge Simpson,Simpson Home,"Homer, shouldn't you go pick up Grampa?"
+154473,20,54,292000,Homer Simpson,Simpson Home,"Halftime, Marge, halftime."
+154474,20,55,294000,Patty Bouvier,Simpson Home,Ding-dong!
+154502,20,56,294000,Selma Bouvier,Simpson Home,Here comes the cavalry!
+154504,20,58,296000,Marge Simpson,Simpson Home,"Homer, you promised to be nice to my sisters."
+154505,20,59,299000,Homer Simpson,Simpson Home,"I know, I will."
+154291,20,60,305000,Marge Simpson,Simpson Home,You brought food...
+154537,20,61,307000,Patty Bouvier,Simpson Home,Just a few things... Swedish meatballs...
+154538,20,62,309000,Selma Bouvier,Simpson Home,"Mmm-hmmm, and my trout almondine."
+154539,20,63,311000,Marge Simpson,Simpson Home,You knew that I was cooking a turkey.
+154540,20,64,314000,Patty Bouvier,Simpson Home,Which is fine!
+154541,20,65,315000,Selma Bouvier,Simpson Home,More power to ya!
+154542,20,66,317000,Patty Bouvier,Simpson Home,It's just that some people find your turkey a little dry.
+154543,20,67,320000,Selma Bouvier,Simpson Home,"Mmm-hmm, and if they want an option... they'll have it."
+154545,20,69,323000,Homer Simpson,Simpson Home,"Hi, Patty. Hi, Selma."
+154546,20,70,327000,Homer Simpson,Simpson Home,"Good to see ya. Well, gotta pick up my old man! 'Bye!"
+154547,20,71,333000,Selma Bouvier,Simpson Home,So insincere.
+154548,20,72,334000,Patty Bouvier,Simpson Home,I don't know how she puts up with him.
+154550,20,74,342000,Radio Announcer,Car,"And now, get set for our fabulous half-time show, featuring the well-groomed young go-getters of ""Hurray for Everything!"""
+154551,20,75,351000,Homer Simpson,Car,"Oh, I love those kids! They've got such a great attitude!"
+154552,20,76,356000,Radio Announcer,Car,"Ladies and gentlemen... ""Hurray for Everything"" invites you to join them in a salute to the greatest hemisphere on earth... the Western hemisphere! The dancin'-est hemisphere of all!"
+154555,20,79,382000,Supervisor,Springfield Retirement Castle,"Now, before we sit down to our delicious turkey puree, I have some happy news. The following people have relatives who wish they could be here today: Antonowski, Conroy, Falcone, Martin, Thorsen and Walsh."
+154556,20,80,401000,Supervisor,Springfield Retirement Castle,"Oh, and Mrs. Spencer... you, too."
+154557,20,81,404000,Mrs. Spencer,Springfield Retirement Castle,"Oh, I knew they wouldn't forget me!"
+154558,20,82,407000,Homer Simpson,Springfield Retirement Castle,"Come on, Dad. Let's get outta here."
+154559,20,83,408000,Grampa Simpson,Springfield Retirement Castle,"Slow down, boy. What's your hurry?"
+154560,20,84,410000,Homer Simpson,Springfield Retirement Castle,This place is depressing.
+154561,20,85,412000,Grampa Simpson,Springfield Retirement Castle,"Hey, I live here!"
+154562,20,86,414000,Homer Simpson,Springfield Retirement Castle,"Oh, well, I'm sure it's a blast once you get used to it. Let's go."
+154564,20,88,429000,Marge Simpson,Simpson Home,Mom! You made it! How are you!
+154565,20,89,433000,Jacqueline Bouvier,Simpson Home,"I have laryngitis and it hurts to talk, so I'll just say one thing: You never do anything right."
+154567,20,90,449000,Announcer,Simpson Home,"And the Silverdome, now ablaze with flashbulbs, as ""Hurray for Everything"" leaves the field! Of course, a stadium's much too big for flash pictures to work, but nobody seems to care!"
+154568,20,91,469000,Grampa Simpson,Simpson Home,That's no way to lay a fire! Where's your kindling?
+154569,20,92,472000,Homer Simpson,Simpson Home,This thing's gonna be roaring any time now!
+154570,20,93,475000,Selma Bouvier,Simpson Home,Even a caveman could start a fire.
+154572,20,95,477000,Marge Simpson,Simpson Home,"Dinner! Dinner time, everybody! Dinner!"
+154573,20,96,481000,Homer Simpson,Simpson Home,The hell with this.
+154574,20,97,483000,Marge Simpson,Simpson Home,"Okay, Lisa, we're ready for your centerpiece!"
+154575,20,98,489000,Marge Simpson,Simpson Home,Lisa! My goodness! That's very impressive!
+154576,20,99,494000,Homer Simpson,Simpson Home,Holy moly! That's the biggest... one of those I ever saw.
+154577,20,100,501000,Patty Bouvier,Simpson Home,"I always said she was gifted. Definitely from our side of the family. Right, Mom?"
+154578,20,101,505000,Jacqueline Bouvier,Simpson Home,Leave me alone.
+154579,20,102,507000,Selma Bouvier,Simpson Home,"How long did that take you, honey?"
+154580,20,103,508000,Lisa Simpson,Simpson Home,"I couldn't tell you how many hours. It was a labor of love. It's my homage to some American heroes who may not have fought in any wars, but who nevertheless..."
+154581,20,104,512000,Bart Simpson,Simpson Home,Da da daah da da dah daaahhh...
+154582,20,105,520000,Homer Simpson,Simpson Home,"Speaking of heroes, here's mine... Tom Turkey!"
+154583,20,106,525000,Bart Simpson,Simpson Home,Yikes! What is that?
+154584,20,107,527000,Lisa Simpson,Simpson Home,"It's the centerpiece, Bart!"
+154585,20,108,528000,Bart Simpson,Simpson Home,"Well, it's taking up valuable real estate."
+154586,20,109,530000,Lisa Simpson,Simpson Home,"Hey, Bart, stop it!"
+154587,20,110,531000,Bart Simpson,Simpson Home,"Move it or lose it, toots!"
+154588,20,111,532000,Lisa Simpson,Simpson Home,Mom!
+154589,20,112,533000,Marge Simpson,Simpson Home,"Now, just wait a minute! I'm sure there's room for both."
+154590,20,113,538000,Lisa Simpson,Simpson Home,Baaart! You're wrecking it! LET GO! I worked forever on this!
+154592,20,115,551000,Grampa Simpson,Simpson Home,Hey! That got 'er goin'!
+154593,20,116,553000,Bart Simpson,Simpson Home,Bitchin'!
+154594,20,117,555000,Lisa Simpson,Simpson Home,BAAARRTT!
+154595,20,118,558000,Lisa Simpson,Simpson Home,You don't even care! You don't even care!
+154596,20,119,567000,Homer Simpson,Simpson Home,"All right, Bart that's it! Go to your room NOW!"
+154597,20,120,571000,Bart Simpson,Simpson Home,"Okay. I'll take some white meat and stuffing to go... and, send up the pumpkin pie in about twenty minutes."
+154357,20,121,576000,Homer Simpson,Simpson Home,I said NOW!
+154422,20,122,577000,Bart Simpson,Simpson Home,"Mom, do I have to?"
+154598,20,123,578000,Marge Simpson,Simpson Home,"Yes, you do! I hope you're happy, Bart! You've RUINED THANKSGIVING!"
+154599,20,124,589000,Bart Simpson,Simpson Home,I didn't ruin Thanksgiving! She did... Buncha jerks... I always get blamed for everything...
+154600,20,125,594000,Homer Simpson,Simpson Home,"...And, Lord, we're especially thankful for nuclear power, the cleanest, safest energy source there is, except for solar, which is just a pipe dream. Anyway, we'd like to thank you for the occasional moments of peace and love our family's experienced... well, not today. You saw what happened. Oh, Lord, be honest. Are we the most pathetic family in the universe, or what?"
+154601,20,126,619000,Patty Bouvier,Simpson Home,Worst prayer yet.
+154603,20,128,623000,Marge Simpson,Simpson Home,"Oh, why don't I go talk to her?"
+154604,20,129,627000,Homer Simpson,Simpson Home,"Don't worry, Marge'll fix everything."
+154605,20,130,637000,Marge Simpson,Simpson Home,"Honey, your food is getting cold."
+154606,20,131,642000,Lisa Simpson,Simpson Home,That's all right.
+154607,20,132,643000,Marge Simpson,Simpson Home,"Lisa, I'm very sorry about what happened."
+154608,20,133,647000,Lisa Simpson,Simpson Home,"Mom, I poured my heart into that centerpiece! Things like that always happen in this family!"
+154609,20,134,652000,Marge Simpson,Simpson Home,"I've noticed that, too. Well, when you feel like coming down, we'll be there."
+154610,20,135,663000,Marge Simpson,Simpson Home,"Bart, you can come down to dinner as soon as you're ready to apologize to your sister. And it's going to be a real apology in front of everybody, and you have to mean it."
+154612,20,137,674000,Bart Simpson,Bart's Bedroom,Apologize! For what?! Clearing the table? Having a sense of humor? They think they can starve an apology out of me. Ha!
+154614,20,139,687000,Bart Simpson,Simpson Home,"Uh-oh!... I mean, good!"
+154615,20,140,691000,Homer Simpson,Simpson Home,"Hey, what are you doing?! No! Drop that drumstick! Bad dog! Bad Santa's Little Helper. Come on... gimme that. Gimme that."
+154616,20,141,700000,Homer Simpson,Simpson Home,"Okay, out you go!"
+154617,20,142,703000,Bart Simpson,Simpson Home,"Hey boy, come here! You're a good dog! Come on, we don't need them to get a Thanksgiving dinner!"
+154619,20,144,718000,Bart Simpson,NEIGHBORHOOD,Wow! Swan-ky!
+154621,20,146,726000,C. Montgomery Burns,Burns Manor,"Mmmm, delicious. Smithers, every year you outstrip yourself in succulence."
+154622,20,147,731000,Waylon Smithers,Burns Manor,"Thank you, sir. Oh, would you like some candied yams?"
+154625,20,148,735000,C. Montgomery Burns,Burns Manor,"Oh, no! I couldn't eat another bite. Dispose of all this. I did, however, save room for your special pumpkin pie."
+154626,20,149,743000,Waylon Smithers,Burns Manor,"It's cooling on the windowsill, sir."
+154628,20,151,745000,Bart Simpson,Burns Manor,"Mmmm. Stay here, boy."
+154629,20,152,758000,Bart Simpson,Burns Manor,Uh-oh!
+154630,20,153,769000,Security Guard #1,Burns Manor,Mr. Burns! This is Base Command!
+154632,20,155,771000,Security Guard #1,Burns Manor,"...The intruder appears to be a young male, age nine to eleven."
+154633,20,156,774000,C. Montgomery Burns,Burns Manor,Release the hounds!
+154638,20,161,789000,Lisa Simpson,Simpson Home,I saw the best meals of my generation destroyed by the madness of my brother / My soul carved in slices by spikey-haired demons...
+154640,20,163,799000,Bart Simpson,RICH NEIGHBORHOOD,"Don't worry, boy. We'll get some grub. Even if we have to pay for it."
+154641,20,164,823000,Bart Simpson,RICH NEIGHBORHOOD,Cool! The wrong side of the tracks.
+154644,20,167,834000,Bart Simpson,Springfield Plasma Center,"Twelve bucks! Hey, I can bleed!"
+154646,20,169,841000,Nurse,PLASMA CENTER,"Hey, you gotta be eighteen to sell your blood. Let's see some I.D."
+154647,20,170,844000,Bart Simpson,PLASMA CENTER,"Here you go, doll face."
+154648,20,171,846000,Nurse,PLASMA CENTER,"Hmmm... Okay, Homer, just relax."
+154649,20,172,849000,Bart Simpson,PLASMA CENTER,Ow.
+154651,20,174,850000,Jacqueline Bouvier,Simpson Home,"At the risk of losing my voice, let me just say one more thing: I'm sorry I came."
+154652,20,175,859000,Selma Bouvier,Simpson Home,When is that boy going to apologize?
+154653,20,176,860000,Patty Bouvier,Simpson Home,He sure is stubborn.
+154654,20,177,861000,Grampa Simpson,Simpson Home,"Homer was never stubborn. He always folded instantly over anything. It was as if he had no will of his own. Isn't that true, Homer?"
+154655,20,178,871000,Homer Simpson,Simpson Home,"Yes, Dad."
+154657,20,180,874000,Bart Simpson,PLASMA CENTER,Twelve bucks and a free cookie... what a country!
+154658,20,181,891000,Casey,PLASMA CENTER,Cute little guy.
+154659,20,182,892000,Rory,PLASMA CENTER,He's startin' to come around.
+154660,20,183,894000,Casey,PLASMA CENTER,"You look a little pale, son."
+154566,20,184,896000,Rory,PLASMA CENTER,We better get you some food.
+154624,20,186,899000,Rory,RESCUE MISSION,Here we are!
+154662,20,187,908000,Bart Simpson,RESCUE MISSION,"All right. Twelve big ones and free grub to boot. Viva skid row. Hey, it's that anchor dude from channel six."
+154663,20,188,915000,Casey,RESCUE MISSION,Oh yeah. He's doing one of those be thankful for what you got stories.
+154664,20,189,919000,Kent Brockman,RESCUE MISSION,"Oh, we have lots of names for these people... Bums... Deadbeats. Losers. Scums of the earth. We'd like to sweep these people into the gutter. Or, if they're already in the gutter, to some other out-of-the-way place. Oh, we have our ""reasons"": They're depressing. They wear ragged clothes. They're ""crazy"". They smell bad..."
+154665,20,190,937000,Transient,RESCUE MISSION,"Hey, listen, man..."
+154666,20,191,941000,Kent Brockman,RESCUE MISSION,"Wait, I'm going somewhere with this. So every year one lone conscience-salving day -- we toss these people a bone. A turkey bone. And that's supposed to make it all better."
+154668,20,193,954000,Kent Brockman,Simpson Home,"...No, you won't find Freddie the Freeloader, or Emmett Kelly, or even Charlie Chaplin's beloved Little Tramp down here."
+154669,20,194,961000,Grampa Simpson,Simpson Home,"Pompous, blow-dried, college boy!"
+154670,20,195,963000,Homer Simpson,Simpson Home,"You know, his girlfriend is the weather lady."
+154671,20,196,966000,Grampa Simpson,Simpson Home,You don't say.
+154672,20,197,967000,Marge Simpson,Simpson Home,"Everyone, Lisa wants to read us a poem she's written."
+154673,20,198,973000,Lisa Simpson,Simpson Home,"""Howl of the Unappreciated"", by Lisa Simpson. ""I saw the best meal""..."
+154674,20,199,981000,Grampa Simpson,Simpson Home,It's Bart!
+154675,20,200,982000,Homer Simpson,Simpson Home,What show is this?
+154676,20,201,983000,Kent Brockman,Simpson Home,And how long have you been on the streets?
+154677,20,202,985000,Bart Simpson,Simpson Home,"Goin' on five years, Kent."
+154678,20,203,987000,Kent Brockman,Simpson Home,"Son, your family may be watching, is there anything you'd like to say?"
+154679,20,204,990000,Bart Simpson,Simpson Home,"Yes, there is, Kent. Ha! Ha! I didn't apologize!"
+154680,20,205,994000,Marge Simpson,Simpson Home,"Oh, no! My sweet little Bart!"
+154681,20,206,999000,Homer Simpson,Simpson Home,"Hello, operator? Gimme the number for 911!"
+154683,20,208,1004000,Kent Brockman,MISSION,"Hey, thanks for your help, fellas. This reporter smells another local Emmy."
+154684,20,209,1009000,Casey,MISSION,"Yeah, we're rootin' for you, guy."
+154685,20,210,1011000,Casey,MISSION,"Hey, you got some place to sleep tonight, Bart?"
+154686,20,211,1014000,Bart Simpson,MISSION,"Yeah, there's this family I kind of hang out with."
+154687,20,212,1018000,Casey,MISSION,Sounds pretty sweet.
+154688,20,213,1019000,Bart Simpson,MISSION,"Yeah, I guess it is."
+154689,20,214,1021000,Transient,MISSION,See you at Christmas.
+154690,20,215,1029000,Bart Simpson,MISSION,"A...listen, guys I was thinking, uh... unless you'd feel weird about taking money from a kid...I thought maybe..."
+154691,20,216,1036000,Rory,MISSION,I wouldn't feel weird. Would you?
+154692,20,217,1038000,Casey,MISSION,"No, I'm comfortable with it."
+154694,20,219,1043000,Homer Simpson,Simpson Home,Will you forget the report! He's down at the rescue mission!
+154695,20,220,1047000,Eddie,Simpson Home,"Nah, we checked. He's long gone."
+154696,20,221,1048000,Lou,Simpson Home,Can you think of any reason he might have run away? Anything at all?
+154697,20,222,1051000,Homer Simpson,Simpson Home,"Well uh, we did kinda yell at him... and sent him to his room... and tried to force him to apologize to his sister."
+154698,20,223,1060000,Lou,Simpson Home,"Uh, huh."
+154699,20,224,1061000,Marge Simpson,Simpson Home,And I said he ruined Thanksgiving...
+154700,20,225,1064000,Eddie,Simpson Home,Oh... I see.
+154702,20,227,1069000,Bart Simpson,Street,"Best Thanksgiving ever, eh boy?"
+154704,20,229,1072000,Patty Bouvier,Simpson Home,Goodbye. Sorry.
+154705,20,230,1074000,Selma Bouvier,Simpson Home,I'm sure Bart will be back.
+154706,20,231,1076000,Jacqueline Bouvier,Simpson Home,"I'd say something comforting. But, you know, my voice."
+154707,20,232,1080000,Grampa Simpson,Simpson Home,"Let's go. If I'm not back at the home by nine, they declare me legally dead and collect my insurance."
+154708,20,233,1087000,Marge Simpson,Simpson Home,"Homer, this is a terrible thing that's happened, but we can't blame ourselves."
+154709,20,234,1092000,Homer Simpson,Simpson Home,"We can, and will!"
+154710,20,235,1093000,Marge Simpson,Simpson Home,Children need discipline. You can ask any syndicated advice columnist.
+154711,20,236,1097000,Homer Simpson,Simpson Home,"Marge, are we ever gonna see him again?"
+154712,20,237,1104000,Bart Simpson,Simpson Home,Hmmm... should I... or shouldn't I...
+154713,20,238,1108000,Bart Simpson,Simpson Home,"Hey, everybody. I'm home."
+154714,20,239,1109000,Marge Simpson,Simpson Home,Bart? You're home!
+154715,20,240,1112000,Marge Simpson,Simpson Home,"Oh, my special little guy! We were so worried!"
+154716,20,241,1116000,Homer Simpson,Simpson Home,"Oh it's great to have you back, boy! We were afraid we'd lost you!"
+154717,20,242,1120000,Lisa Simpson,Simpson Home,Welcome back. Bart! I'm sorry we had such a terrible fight.
+154718,20,243,1124000,Marge Simpson,Simpson Home,"Bart, isn't there something you'd like to say to your sister?"
+154719,20,244,1129000,Bart Simpson,Simpson Home,"Okay. I'm sorry, too."
+154720,20,245,1131000,Marge Simpson,Simpson Home,"No, no, no! That won't do at all!"
+154721,20,246,1133000,Homer Simpson,Simpson Home,"Yeah, boy. Get down on your knees and beg for forgiveness."
+154722,20,247,1137000,Lisa Simpson,Simpson Home,"Yeah, beg me, Bart. Beg me!"
+154723,20,248,1140000,Bart Simpson,Simpson Home,"Lisa, I beg of you. Please forgive me."
+154724,20,249,1149000,Marge Simpson,Simpson Home,Now we can blame him for everything.
+154725,20,250,1152000,Homer Simpson,Simpson Home,It's your fault I'm bald!
+154726,20,251,1153000,Bart Simpson,Simpson Home,I'm sorry.
+154727,20,252,1154000,Grampa Simpson,Simpson Home,It's your fault I'm old!
+154728,20,253,1156000,Bart Simpson,Simpson Home,I'm sorry.
+154729,20,254,1156000,Maggie Simpson,Simpson Home,It's your fault I can't talk.
+154730,20,255,1159000,Uncle Sam,Simpson Home,It's your fault America has lost its way.
+154731,20,256,1162000,Bart Simpson,Simpson Home,I'm sorry. I'm sorry.
+154732,20,257,1163000,Bart Simpson,Simpson Home,"I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry..."
+154733,20,258,1168000,Bart Simpson,Simpson Home,I'm sorry all right! Sorry I came back here!
+154734,20,259,1174000,Bart Simpson,Simpson Home,Aha.
+154735,20,260,1183000,Bart Simpson,Simpson Home,Whoa!!
+154736,20,261,1185000,Bart Simpson,Simpson Home,"My wiffle balls, my frisbees, my water rockets... I've hit the jackpot!"
+154737,20,262,1191000,Bart Simpson,Simpson Home,"A sellout crowd at the Super Bowl, Simpson down by six with two seconds left! Simpson fades back. He's got Simpson in the open..."
+154738,20,263,1199000,Bart Simpson,Simpson Home,"Touchdown, Simpson! The boy nobody wanted just won the Superbowl!!!"
+154739,20,264,1210000,Lisa Simpson,Simpson Home,"Dear Log, my brother is still missing, and maybe it's my fault because I failed to take his abuse with good humor. I miss him so much already, that I don't know..."
+154740,20,265,1229000,Bart Simpson,Simpson Home,"Hey, Lis! Lisa! It's me, Bart!"
+154741,20,266,1233000,Lisa Simpson,Simpson Home,Bart...?! Where are you?
+154742,20,267,1235000,Bart Simpson,Simpson Home,Shh! I'm on the roof!
+154743,20,268,1245000,Lisa Simpson,Simpson Home,"Bart, what are you doing up here? Everybody's worried."
+154744,20,269,1248000,Bart Simpson,Simpson Home,Really? Did they cry?
+154745,20,270,1249000,Lisa Simpson,Simpson Home,Yes.
+154746,20,271,1250000,Bart Simpson,Simpson Home,Bulls-eye!
+154747,20,272,1251000,Lisa Simpson,Simpson Home,"Bart, why did you burn my centerpiece?"
+154748,20,273,1254000,Bart Simpson,Simpson Home,"Ah, come on..."
+154749,20,274,1255000,Lisa Simpson,Simpson Home,"Was it because you hate me, or because you're bad?"
+154750,20,275,1255000,Bart Simpson,Simpson Home,I don't know! I don't know why I did it! I don't know why I enjoyed it! And I don't know why I'll do it again!
+154751,20,276,1265000,Lisa Simpson,Simpson Home,Just tell me you're sorry.
+154752,20,277,1266000,Bart Simpson,Simpson Home,Why should I?
+154756,20,278,1267000,Lisa Simpson,Simpson Home,"Bart, the only reason to apologize is if you look deep down inside yourself and you find a spot, something you wish wasn't there, because you feel bad you hurt your sister's feelings."
+154757,20,279,1280000,Bart Simpson,Simpson Home,Leave me alone!
+154758,20,280,1281000,Lisa Simpson,Simpson Home,Just look!
+154759,20,281,1283000,Bart Simpson,Simpson Home,Okay... okay.
+154760,20,282,1284000,Bart Simpson,Simpson Home,"Hmmm, hmmm. Looking for the spot... Hmmm, hmmm, hmmm... Still checking. This is so stupid... I'm not gonna find anything... Just because I wrecked something she worked really hard on and I made her cr... Uh-oh!"
+154761,20,283,1301000,Bart Simpson,Simpson Home,"I'm sorry, Lisa."
+154762,20,284,1303000,Lisa Simpson,Simpson Home,Apology accepted.
+154763,20,285,1309000,Homer Simpson,Simpson Home,"You know Marge, we're great parents!"
+154764,20,286,1313000,Homer Simpson,Simpson Home,"Oh Lord, on this blessed day, we thank thee for giving our family one more crack at togetherness. Amen."

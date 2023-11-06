@@ -1,0 +1,281 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+10755,69,1,99000,Marge Simpson,Simpson Home,"Maggie, can you say ba-ba? Can you say Ma-ma?"
+10756,69,2,105000,Bart Simpson,Simpson Home,"Can you say ""get bent""?"
+10757,69,3,107000,Marge Simpson,Simpson Home,Bart!
+10758,69,4,108000,Bart Simpson,Simpson Home,Mr. Rogers says it all the time.
+10759,69,5,110000,Marge Simpson,Simpson Home,He does not.
+10760,69,6,111000,Homer Simpson,Simpson Home,"Maggie, can you say ""daddy""? Dad-dy?"
+10761,69,7,114000,Marge Simpson,Simpson Home,"""Kit-ty""? ""Kit-ty""?"
+10762,69,8,115000,Lisa Simpson,Simpson Home,"""Be-bop""? ""Be-bop""?"
+10763,69,9,118000,Bart Simpson,Simpson Home,"""Shove it?"" ""Shove it?"""
+10765,69,11,126000,Homer Simpson,Simpson Home,"Did you hear that? She said ""burlap."""
+10766,69,12,126000,Marge Simpson,Simpson Home,"Hmmm, I don't think so. Oh, Maggie, when are you going to talk?"
+10767,69,13,133000,Lisa Simpson,Simpson Home,"Well, don't push her. Remember, ""Tis better to remain silent and be thought a fool than to open your mouth and remove all doubt."""
+148532,69,14,133000,Homer's Brain,Simpson Home,What does that mean? Better say something or they'll think you're stupid.
+10768,69,15,145000,Homer Simpson,Simpson Home,Takes one to know one!
+148533,69,16,146000,Homer's Brain,Simpson Home,Swish!
+10769,69,17,148000,Marge Simpson,Simpson Home,"According to 'Fretful Mother' magazine, if Maggie doesn't talk by age one, we should consider a corrective tongue extender."
+10770,69,18,155000,Bart Simpson,Simpson Home,"Hey, what was my first word?"
+10771,69,19,157000,Marge Simpson,Simpson Home,"Uh, well..."
+10773,69,21,161000,Bart Simpson,Small Apartment,Aye carumba!
+10774,69,22,167000,Marge Simpson,Small Apartment,"You know, I don't think I remember... But the story of Lisa's first word is very cute."
+10775,69,23,174000,Lisa Simpson,Small Apartment,"Tell it, Mom. Tell, it Mom."
+10776,69,24,176000,Homer Simpson,Small Apartment,"Yeah, tell it, Mom."
+10777,69,25,177000,Marge Simpson,Small Apartment,"Well, this story begins in this unforgettable spring of 1983: Ms. Pac-man struck a blow for women's rights... a young Joe Piscopo taught us how to laugh. Before Lisa was born, we lived in a tiny apartment on the Lower East side of Springfield."
+10749,69,27,195000,Fruit Vendor,Lower East Side of Springfield,Chipwich for sale! Chocolate chip or oatmeal raisin. Chipawich for sale!
+10779,69,28,202000,Boy,Lower East Side of Springfield,Youse guys wanna play stickball?
+10780,69,29,204000,Kids,Lower East Side of Springfield,"Soitenly. Yeah, sure. Over here."
+10781,69,30,211000,Marge Simpson,Lower East Side of Springfield,Did you girls watch the last episode of MASH?
+10782,69,31,213000,Irish Lady,Lower East Side of Springfield,That Mike Farrell really boils my p'tata.
+10783,69,32,217000,Italian Lady,Lower East Side of Springfield,I miss-a da Klinger already.
+10784,69,33,219000,Homer Simpson,Lower East Side of Springfield,WHEN THE WORKING DAY IS DONE / GIRLS JUST WANNA HAVE FU-UN / THAT'S ALL WE REALLY WANNNNT...
+10785,69,34,228000,Bart Simpson,Lower East Side of Springfield,Homer!
+10786,69,35,231000,Homer Simpson,Lower East Side of Springfield,Homer is what grown ups call me. Call me Daddy.
+10787,69,36,234000,Bart Simpson,Lower East Side of Springfield,Homer.
+10788,69,37,234000,Homer Simpson,Lower East Side of Springfield,Daddy.
+10789,69,38,236000,Bart Simpson,Lower East Side of Springfield,Homer.
+10790,69,39,237000,Homer Simpson,Lower East Side of Springfield,Daddy.
+10791,69,40,238000,Bart Simpson,Lower East Side of Springfield,Da... da... da...
+10792,69,41,240000,Homer Simpson,Lower East Side of Springfield,Ye-esss...
+10793,69,42,242000,Bart Simpson,Lower East Side of Springfield,Domer.
+10794,69,43,244000,Homer Simpson,Lower East Side of Springfield,Why you little...
+10795,69,44,265000,Homer Simpson,Lower East Side of Springfield,He'll tire himself out soon.
+10797,69,46,273000,Marge Simpson,Apartment,Then the prince and the princess got married and lived happily ever after.
+10798,69,47,279000,Bart Simpson,Apartment,Then what happened?
+10799,69,48,280000,Marge Simpson,Apartment,"Uh, They had 30 sons and 30 daughters."
+10800,69,49,286000,Bart Simpson,Apartment,What were their names?
+10801,69,50,287000,Marge Simpson,Apartment,Dennis... Brad... Mavis... Brad...
+10802,69,51,303000,Talk Show Host,Apartment,"No, this is true. The Coast Guard arrested Boy George for scraping the barnacles off his dinghy."
+10803,69,52,310000,Sidekick,Apartment,Hi yo!
+10804,69,53,311000,Bart Simpson,Apartment,Hi yo!
+10805,69,54,311000,Homer Simpson,Apartment,"Heh, heh. Got your nose."
+10806,69,55,317000,Bart Simpson,Apartment,Got your wallet.
+10807,69,56,320000,Homer Simpson,Apartment,"Nooo! Bart, don't you ever do that again. Understand?"
+10808,69,57,325000,Bart Simpson,Apartment,Beep.
+10809,69,58,327000,Marge Simpson,Apartment,"Guess what, Homie... There's going to be twice as much love in this house as there is now."
+10810,69,59,332000,Homer Simpson,Apartment,We're gonna start doin' it in the morning?
+10811,69,60,334000,Marge Simpson,Apartment,No.
+10812,69,61,335000,Homer Simpson,Apartment,Oh.
+10813,69,62,336000,Marge Simpson,Apartment,We're going to have another baby.
+10814,69,63,338000,Homer Simpson,Apartment,Marge that's...
+10815,69,64,340000,Bart Simpson,Apartment,"Bye-bye, keys."
+10817,69,65,343000,Marge Simpson,Apartment,"Hear that, Bart? You're going to have a little brother or sister to play with!"
+10818,69,66,353000,Marge Simpson,Apartment,Who did this?
+10819,69,67,355000,Bart Simpson,Apartment,Baby.
+10820,69,68,356000,Marge Simpson,Apartment,Bad baby!
+10821,69,69,369000,Bart Simpson,Apartment,"Heh, heh, heh."
+10822,69,70,369000,Bart Simpson,Apartment,Uh-oh.
+10823,69,71,378000,Marge Simpson,Apartment,I'm afraid we're going to need a bigger place.
+10824,69,72,380000,Homer Simpson,Apartment,"No, we won't. I've got it all figured out. The baby can have Bart's crib and Bart can sleep with us until he's 21!"
+10825,69,73,388000,Marge Simpson,Apartment,Won't that warp him?
+10826,69,74,389000,Homer Simpson,Apartment,My cousin Frank did it.
+10827,69,75,391000,Marge Simpson,Apartment,You don't have a cousin Frank.
+10828,69,76,392000,Homer Simpson,Apartment,"He became Francine back in '76. Then he joined that cult. I think his name is Mother Shabubu, now."
+10831,69,79,401000,Marge Simpson,Simpson Home,"That afternoon, we left Bart with my sisters and went househunting."
+10833,69,81,407000,Patty Bouvier,Patty and Selma's Apartment,"Hey, Bart, want a dollar? Uh, uh, uh, you know what I want to hear."
+10834,69,82,412000,Bart Simpson,Patty and Selma's Apartment,"I'M A LITTLE TEAPOT, SHORT AND STOUT / THIS IS MY HANDLE/ THIS IS MY SPOUT... THE ITSY-BITSY SPIDER WENT UP THE WATER SPOUT, ETC..."
+10835,69,83,422000,Patty Bouvier,Patty and Selma's Apartment,Oh yeah.
+10836,69,84,424000,Bart Simpson,Patty and Selma's Apartment,"DOWN CAME THE RAIN, AND WASHED THE SPIDER OUT."
+10837,69,85,424000,Selma Bouvier,Patty and Selma's Apartment,Love that spout medley.
+10839,69,87,426000,Realtor,REALTOR'S OFFICE,"Now, Mr. and Mrs. Simpson, the only houses I have in your price range are in the neighborhood colorfully referred to as the ""Rat's Nest."""
+10841,69,89,441000,Realtor,Home,This one just came on the market.
+10842,69,90,443000,Marge Simpson,Home,Oh dear.
+10844,69,92,446000,Realtor,Another House,"Now, here we have beautiful hardwood floors, track lighting..."
+10845,69,93,452000,Marge Simpson,Another House,What's that stench?
+10846,69,94,456000,Realtor,Another House,"Once you get used to the smell of melted hog fat, you'll wonder how you ever did without it."
+10847,69,95,461000,Homer Simpson,Another House,Mmmm. Hog fat.
+10848,69,96,463000,Marge Simpson,Another House,Let's keep looking.
+10850,69,98,467000,Worker,Rendering Plant,Ew. Do you smell something?
+10851,69,100,470000,Captain Horatio McCallister,Harbor,Arrr! Why buy a house when ye can buy a house boat?
+10852,69,101,476000,Captain Horatio McCallister,Harbor,Excuse me.
+10853,69,102,481000,Captain Horatio McCallister,Harbor,Don't forget to check out the galley -- that's real shag carpeting. Arrr.
+10855,69,104,489000,Homer Simpson,YET ANOTHER HOUSE,Once we get these cats out of the way it won't be too bad.
+10856,69,105,493000,Realtor,YET ANOTHER HOUSE,"Actually, according to the will, the cats own the house. You'd be their tenants."
+10858,69,107,500000,Lisa Simpson,Simpson Home,I wish we lived in the kitty house.
+10859,69,108,502000,Bart Simpson,Simpson Home,"I could have trained them to be my unholy army of the night. Go my pretties... kill, kill!"
+10860,69,109,509000,Marge Simpson,Simpson Home,"We were about to give up, when we found a house that was perfect..."
+10861,69,110,513000,Marge Simpson,Simpson Home,Just imagine what we can do with this place.
+10862,69,111,518000,Homer Simpson,Simpson Home,Wow. How much? How much?
+10863,69,112,521000,Realtor,Simpson Home,"Well, here's what they're asking."
+10864,69,113,523000,Homer Simpson,Simpson Home,I can't afford that!
+10866,69,115,526000,Homer Simpson,Grampa's House,"Dad, I have a problem."
+10867,69,116,528000,Grampa Simpson,Grampa's House,Why'd you come to me. I don't know nothing. I used to get by on my looks. Now they're gone -- withered away like an old piece of fruit.
+10868,69,117,540000,Homer Simpson,Grampa's House,Are you done?
+10869,69,118,541000,Grampa Simpson,Grampa's House,"No, not yet. I was voted the handsomest boy in Albany, New York."
+10870,69,119,547000,Homer Simpson,Grampa's House,"Dad, I don't need advice, I need $15,000 to buy a home."
+10871,69,120,551000,Grampa Simpson,Grampa's House,"Oh! Well, all I own is this house, that I built with my own two hands."
+10872,69,121,557000,Homer Simpson,Grampa's House,You didn't build this house. You won
+10873,69,122,558000,Homer Simpson,Grampa's House,it on a crooked '50's game show!
+10874,69,123,561000,Grampa Simpson,Grampa's House,I ratted on everybody and got off scot free!
+10875,69,124,565000,Grampa Simpson,Grampa's House,"All right, son. I'll sell this dump and write you a check."
+10876,69,125,570000,Homer Simpson,Grampa's House,"Dad, first you gave me life, now you've given me a home for my family. I'd be honored if you came to live with us."
+10877,69,126,577000,Grampa Simpson,Grampa's House,Thank you.
+10879,69,128,583000,Bart Simpson,Simpson Home,"So, how long before you shipped Grampa off to the old folks home?"
+10880,69,129,585000,Homer Simpson,Simpson Home,About three weeks.
+10882,69,130,596000,Homer Simpson,Simpson Home,Maggie I'll give you this cookie if you talk.
+10883,69,131,599000,Homer Simpson,Simpson Home,What? What?
+10884,69,132,602000,Homer Simpson,Simpson Home,"All right, you win round seven."
+10885,69,133,604000,Lisa Simpson,Simpson Home,When are we going to get to my first word?
+10886,69,134,606000,Homer Simpson,Simpson Home,Your what-what?
+10887,69,135,607000,Lisa Simpson,Simpson Home,My first word.
+10888,69,136,609000,Homer Simpson,Simpson Home,"Eh, you don't want to hear that story. I know! I'll tell you about the time I got locked in the bank vault with Mr. Mooney. It was another one of my hair-brained schemes."
+10889,69,137,617000,Lisa Simpson,Simpson Home,Daaad!
+10890,69,138,618000,Homer Simpson,Simpson Home,"Wait a minute. That was a ""Lucy"" show... Okay, where were we?"
+10891,69,139,622000,Bart Simpson,Simpson Home,Mom was pregnant and Dad just threw our money down the sink hole.
+10892,69,140,624000,Homer Simpson,Simpson Home,Ah yes. I remember the day we moved in...
+10893,69,141,634000,Bart Simpson,Simpson Home,"Hey, Homer. This house sucks."
+10894,69,142,636000,Homer Simpson,Simpson Home,"Bart, I told you not to use that word. Call me ""Daddy."""
+10895,69,143,641000,Bart Simpson,Simpson Home,Homer. Nyahhh.
+10896,69,144,645000,Todd Flanders,Simpson Home,WE WELCOME YOU TO THE NEIGHBORHOOD / SING FA LA LA LA LA LA LA LA LA LA LA...
+10897,69,145,650000,Todd Flanders,Simpson Home,Fa la la la la la la!
+10898,69,146,653000,Todd Flanders,Simpson Home,"FROM NOW ON, YOU'LL BE HISTORY..."
+10899,69,147,655000,Ned Flanders,Simpson Home,you'll be hist...
+10900,69,148,655000,Todd Flanders,Simpson Home,You'll be hist...
+10901,69,149,657000,Ned Flanders,Simpson Home,You'll be history!
+10902,69,150,658000,Ned Flanders,Simpson Home,"Buenos dias, neighboritos. The handle's Flanders, but my friends call me Ned."
+10903,69,151,663000,Homer Simpson,Simpson Home,"Hi, Flanders."
+10904,69,152,664000,Bart Simpson,Simpson Home,Who the Hell are you?
+10905,69,153,665000,Todd Flanders,Simpson Home,My name's Todd. Would you be my friend?
+10906,69,154,669000,Todd Flanders,Simpson Home,You're funny!
+10907,69,155,671000,Ned Flanders,Simpson Home,"If you need anything, just give a whistle."
+10908,69,156,673000,Homer Simpson,Simpson Home,I could use a TV tray.
+10909,69,157,675000,Ned Flanders,Simpson Home,"Well, gee, I..."
+10910,69,158,676000,Homer Simpson,Simpson Home,Whaat?
+10911,69,159,677000,Ned Flanders,Simpson Home,I just this minute bought it at the hardware st...
+10912,69,160,679000,Homer Simpson,Simpson Home,"You said, anything."
+10913,69,161,681000,Ned Flanders,Simpson Home,"Sure, you can borrow it for a little while."
+10914,69,162,684000,Homer Simpson,Simpson Home,"And that ""little while"" is now eight years and counting. Heh heh heh."
+10915,69,163,690000,Marge Simpson,Simpson Home,"Anyway, Bart had just entered the ""terrible twos."""
+10916,69,164,693000,Bart Simpson,Simpson Home,I AM SO GREAT / I AM SO GREAT / EVERYBODY LOVES ME / I AM SO GREAT... / EVERYBODY LOVES ME...
+10917,69,165,699000,Marge Simpson,Simpson Home,"Oh, honey... honey... honey... HONEY. Could you please be quiet?"
+10918,69,166,703000,Bart Simpson,Simpson Home,"QUIET, BIET, DIET, ZIET, FIET..."
+10919,69,167,707000,Marge Simpson,Simpson Home,"Bart, get out!"
+10920,69,168,710000,Homer Simpson,Simpson Home,"Not easy to juggle a pregnant wife and a troubled child, but somehow I managed to fit in eight hours of TV a day."
+10921,69,169,739000,Krusty the Clown,Simpson Home,"Heyyy, kids! Summer's just around the corner, and Krusty Burger is the official meat-flavored sandwich of the 1984 Olympics!"
+10922,69,170,754000,Krusty the Clown,Simpson Home,"Coochy, coochy, coo!"
+10924,69,172,758000,Bart Simpson,Simpson Home,Krusty funny.
+10925,69,173,759000,Homer Simpson,Simpson Home,Duh.
+10926,69,174,760000,Krusty the Clown,Simpson Home,"It's all a part of our Krusty Burger Olympic Sweepstakes. Just scratch off the name of the Olympic event on your gamecard... and if America wins a gold medal, you win a free Krustyburger!"
+10927,69,175,772000,Krusty the Clown,Simpson Home,Mmm... Mmm... Mmm!
+10928,69,176,774000,Director,Simpson Home,And... cut!
+10929,69,177,775000,Krusty the Clown,Simpson Home,Bleh! I almost swallowed some of the juice.
+10930,69,178,782000,Krusty the Clown,Simpson Home,Uhh. I'll be tasting that for weeks.
+10931,69,179,785000,Ad Man,Simpson Home,"Great spot, K.C.!"
+10932,69,180,786000,Krusty the Clown,Simpson Home,"Put a sock in it, preppy. How much are these free burgers gonna cost me?"
+10933,69,181,791000,Ad Man,Simpson Home,"Not to worry, Mr. K. We've rigged the cards. They're all in events that Communists never lose."
+10934,69,182,796000,Krusty the Clown,Simpson Home,"I like, I like."
+10935,69,183,798000,Female Messenger,Simpson Home,"This just came over the wires, Big K."
+10936,69,184,800000,Krusty the Clown,Simpson Home,Uh huh... Soviet boycott... U.S. unopposed in most events... how does this affect our give-away?
+10937,69,185,806000,Ad Man,Simpson Home,Let's see...You personally stand to lose 44 million dollars.
+10939,69,187,819000,Marge Simpson,Simpson Home,"Bart, from now on, the baby sleeps in the crib."
+10940,69,188,823000,Bart Simpson,Simpson Home,Crib! Crib! I'm a baby!
+10941,69,189,826000,Homer Simpson,Simpson Home,"All right, I know how to handle this. Just use a little reverse psychology. Let's go, Marge. Leave the baby with his little crib."
+10942,69,190,850000,Homer Simpson,Simpson Home,"Ah, Homer J. Simpson, you're a genius."
+10943,69,191,855000,Homer Simpson,Simpson Home,"I know you like clowns, so I made you this bed. Now you can laugh yourself to sleep."
+10944,69,192,866000,Clown Bed,Simpson Home,If you should die before you wake...
+10945,69,193,874000,Bart Simpson,Simpson Home,Can't sleep... Clown'll eat me... Can't sleep... Clown'll eat me...
+10946,69,194,880000,Announcer,Simpson Home,"Oh, doctor! We are seconds away from the 100-meter Butterfly, and with the East German ""women"" shaving their backs 9,000 miles away."
+10947,69,195,886000,Announcer,Simpson Home,... The Americans are heavy favorites.
+10948,69,196,893000,Homer Simpson,Simpson Home,"Patience, my pet."
+10949,69,197,896000,Announcer,Simpson Home,And the Americans jump out to an early lead.
+10951,69,199,900000,Female Announcer,TV Studio,"Although, we should point out that many of the other women represent countries that don't have swimming pools."
+10952,69,200,906000,Announcer,TV Studio,Boo hoo! You're breaking my heart.
+10953,69,201,909000,Marge Simpson,TV Studio,Homie... I think the baby's coming.
+10954,69,202,912000,Homer Simpson,TV Studio,Wow. A baby and a free burger. Could this be the best day of my life?
+10955,69,203,918000,Announcer,TV Studio,"Coming up next, an hour-long episode of Mama's Family."
+10956,69,204,922000,Homer Simpson,TV Studio,Yes!
+10958,69,206,923000,Ned Flanders,Flanders Home,"We'll take good care of your boy, Simpson. Enjoy the miracle of creation."
+10959,69,207,928000,Homer Simpson,Flanders Home,"Shut up, Flanders."
+10960,69,208,929000,Ned Flanders,Flanders Home,"So, kids, what do you want to play?"
+10961,69,209,933000,Todd Flanders,Flanders Home,Good Samaritan!
+10962,69,210,939000,Rod Flanders,Flanders Home,I get to clothe the leper.
+10963,69,211,942000,Todd Flanders,Flanders Home,Lucky!
+10964,69,212,943000,Ned Flanders,Flanders Home,"Suppertime, boys."
+10965,69,213,944000,Rod Flanders,Flanders Home,Oh boy! Liver!
+10966,69,214,946000,Todd Flanders,Flanders Home,Iron helps us play!
+10967,69,215,950000,Bart Simpson,Flanders Home,I want to go home.
+10968,69,216,953000,Bart Simpson,Flanders Home,No I don't.
+10969,69,217,954000,Todd Flanders,Flanders Home,"I GOT THE JOY, JOY, JOY, JOY, DOWN IN MY HEART --"
+10970,69,218,958000,Rod Flanders,Flanders Home,Where?
+10971,69,219,960000,Todd Flanders,Flanders Home,DOWN IN MY HEART TO STAY / AND IF THE DEVIL DOESN'T LIKE IT HE CAN SIT ON A TACK --
+10972,69,220,966000,Rod Flanders,Flanders Home,Ouch!
+10973,69,221,967000,Todd Flanders,Flanders Home,Sit on a tack...
+10974,69,222,967000,Rod Flanders,Flanders Home,Ouch!
+10975,69,223,973000,Old Woman,Flanders Home,Paw! Can ye help me with my sums?
+10976,69,224,976000,Ned Flanders,Flanders Home,"Oh Bart, you met Grandma Flanders. Hope she didn't scare ya."
+10977,69,225,981000,Old Woman,Flanders Home,"Hello, Joe!"
+10980,69,227,985000,Homer Simpson,Hospital,Little Lisa. I've already started you a college fund at Lincoln Savings and Loan.
+10981,69,228,991000,Marge Simpson,Hospital,"According to this magazine, Bart might be jealous of her."
+10982,69,229,995000,Homer Simpson,Hospital,"Yeah, well Bart can kiss my hairy yellow butt."
+10984,69,231,1014000,Homer Simpson,Simpson Home,"Bart, there's someone in here who wants to meet you."
+10985,69,232,1027000,Marge Simpson,Simpson Home,"Well, Bart, what do you think of little Lisa?"
+10986,69,233,1031000,Bart Simpson,Simpson Home,I hate you.
+10987,69,234,1037000,Marge Simpson,Simpson Home,I saved this newspaper from the day Lisa was born.
+10988,69,235,1039000,Lisa Simpson,Simpson Home,Mondale to Hart: Where's the Beef?
+10989,69,236,1039000,Bart Simpson,Simpson Home,"""Where's the beef?"" What the hell's that supposed to mean?"
+10990,69,237,1047000,Homer Simpson,Simpson Home,"""Where's the beef?"" No wonder he won Minnesota."
+10991,69,238,1050000,Marge Simpson,Simpson Home,Everyone agreed that Lisa was a beautiful baby...
+10992,69,239,1057000,Marge Simpson,Simpson Home,Here she is!
+10994,69,241,1064000,Selma Bouvier,Simpson Home,Isn't that cute -- she's coughing.
+10995,69,242,1067000,Patty Bouvier,Simpson Home,Aw. I'm gonna give her a kiss.
+10996,69,243,1075000,Bart Simpson,Simpson Home,I know a new song.
+10997,69,244,1077000,Patty Bouvier,Simpson Home,You still here?
+10998,69,245,1078000,Bart Simpson,Simpson Home,"Allouetty, jaunty allouetty, allouetty... ...Hmm. Allouetty..."
+10999,69,246,1087000,Patty Bouvier,Simpson Home,You already sang that part!
+11000,69,247,1089000,Selma Bouvier,Simpson Home,"The older they get, the cuter they ain't. Hey, the baby just spit up!"
+11001,69,248,1095000,Patty Bouvier,Simpson Home,"Oh, wooja, wooja, wooja wu."
+11002,69,249,1097000,Selma Bouvier,Simpson Home,"Uh, wooja, wooja, wooja, wooja, wu."
+11003,69,250,1100000,Announcer,Simpson Home,"Welcome back to the final day of this, the 23rd Olympiad. Brought to you by Krustyburger."
+11004,69,251,1105000,Krusty the Clown,Simpson Home,You people are pigs! I personally am gonna spit in every 50th burger.
+11005,69,252,1114000,Homer Simpson,Simpson Home,I like those odds.
+11006,69,253,1116000,Announcer,Simpson Home,"In a moment, we'll look at the courageous Korean gymnast Kim Hwan, who made a perfect dismount on what was later revealed to be a broken leg."
+11007,69,254,1131000,Korean Gymnast,Simpson Home,Aaaaaaaaaaaaaaaaaaaaaa uuuuuuuuuuuuuuuuuuuuugggggggggg....
+11008,69,255,1131000,Announcer,Simpson Home,"Ouch! But first, let's go to the boxing venue."
+11009,69,256,1133000,Homer Simpson,Simpson Home,"Please, please, please, please, please..."
+11012,69,257,1135000,Sportscaster,Simpson Home,The American Drederick Tatum does a triumphant turkey trot over the supine Swede. One's thoughts turn to Alexander of Macedon's victory at Granicus and Issus.
+11014,69,259,1152000,Homer Simpson,Krusty Burger,U.S.A.! U.S.A.! U.S.A.!...
+11015,69,260,1156000,Chief Wiggum,Krusty Burger,"Carl Lewis, I could kiss you."
+11017,69,262,1161000,Dr. Julius Hibbert,Dr. Hibbert's Office,She has the reflexes of a young Mary Lou Retton. Have a wowwy-pop.
+11018,69,263,1167000,Bart Simpson,Dr. Hibbert's Office,Can I have a lolly-pop?
+11019,69,264,1169000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Oh Bart, I'm afraid that was the last one. But I've got something even better for you -- a rubella inoculation."
+11021,69,266,1183000,Bart Simpson,Simpson Home,I wanna hold the baby. I wanna hold the baby.
+11022,69,267,1185000,Marge Simpson,Simpson Home,"I'm sorry, Bart, you're too little."
+11023,69,268,1188000,Homer Simpson,Simpson Home,"Here, Bart, you can hold my beer."
+11024,69,269,1191000,Marge Simpson,Simpson Home,Homer!
+11025,69,270,1192000,Homer Simpson,Simpson Home,What?
+11026,69,271,1194000,Homer Simpson,Simpson Home,"Goodnight, honey."
+11027,69,272,1200000,Bart Simpson,Simpson Home,"Hello, Lisa."
+11028,69,273,1202000,Marge Simpson,Simpson Home,"Lisa, time for your feed --"
+11029,69,274,1208000,Bart Simpson,Simpson Home,Who's cuter now?
+11030,69,275,1212000,Bart Simpson,Simpson Home,She started it... came at me with a pipe...
+11031,69,276,1218000,Bart Simpson,Simpson Home,Stupid mailman... squeal on me...
+11032,69,277,1223000,Ned Flanders,Simpson Home,"Heidy-ho, Simpson. Your son shoved this through our doggie door."
+11033,69,278,1227000,Ned Flanders,Simpson Home,"And since we're returning your second born, do you think you could see your way to returning my TV tr..."
+11034,69,279,1232000,Homer Simpson,Simpson Home,"Boy, you get over to the corner and you ... yeah."
+11035,69,280,1240000,Bart Simpson,Simpson Home,"I liked it when it was me, Mom and Homer. You wrecked everything. I'm leaving. Goodbye."
+11036,69,281,1248000,Lisa Simpson,Simpson Home,Bart.
+11037,69,282,1250000,Bart Simpson,Simpson Home,What did you say?
+11038,69,283,1251000,Lisa Simpson,Simpson Home,Bart!
+11039,69,284,1252000,Bart Simpson,Simpson Home,Sufferin' succotash! You can talk!
+11040,69,285,1256000,Bart Simpson,Simpson Home,"Mom, Dad, she can talk! Say it again, Lis."
+11041,69,286,1259000,Lisa Simpson,Simpson Home,Bart. Bart Bart Bart Bart Bart.
+11042,69,287,1262000,Bart Simpson,Simpson Home,I'm her first word!
+11043,69,288,1264000,Marge Simpson,Simpson Home,"Well, I'm not surprised. Lisa's crazy about you. She thinks you hung the moon."
+11044,69,289,1270000,Bart Simpson,Simpson Home,"Wow! Lisa, can you say ""Mommy""?"
+10881,69,290,1274000,Lisa Simpson,Simpson Home,Mommy.
+10979,69,291,1275000,Bart Simpson,Simpson Home,"Can you say ""David Hasselhoff""?"
+11010,69,292,1278000,Lisa Simpson,Simpson Home,Davah Hassahoff.
+11011,69,293,1280000,Homer Simpson,Simpson Home,"Can you say ""Daddy""?"
+10280,69,294,1280000,Lisa Simpson,Simpson Home,Homer.
+11045,69,295,1283000,Homer Simpson,Simpson Home,"No, sweetie. ""Daddy."""
+11046,69,296,1283000,Lisa Simpson,Simpson Home,Homer.
+11048,69,298,1294000,Bart Simpson,Simpson Home,I was sitting there!
+11049,69,299,1296000,Lisa Simpson,Simpson Home,I don't see your name on it.
+11050,69,300,1297000,Bart Simpson,Simpson Home,It's right there.
+11051,69,301,1298000,Marge Simpson,Simpson Home,Bart! Don't write on the rug!
+11052,69,302,1300000,Lisa Simpson,Simpson Home,"Ha, ha. Mom yelled at you."
+11053,69,303,1302000,Bart Simpson,Simpson Home,Did not.
+11054,69,304,1302000,Lisa Simpson,Simpson Home,Did too.
+11055,69,305,1303000,Homer Simpson,Simpson Home,"Y'know, Maggie, the sooner kids talk, the sooner they talk back."
+11056,69,306,1309000,Homer Simpson,Simpson Home,I hope you never say a word.
+11057,69,307,1318000,Maggie Simpson,Simpson Home,Daddy.

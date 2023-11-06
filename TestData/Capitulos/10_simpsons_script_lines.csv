@@ -1,0 +1,253 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+151552,10,2,97000,Marge Simpson,Simpson Bathroom,So how was the office birthday party?
+151553,10,3,100000,Homer Simpson,Simpson Bathroom,"Oh, it was delightful. The frosting on the cake was this thick. And Eugene Fisk, my poor sucker of an assistant, didn't know the fruit punch was spiked. And he really made an ass of himself putting the moves on the new girl in Valve Maintenance."
+151554,10,4,115000,Marge Simpson,Simpson Bathroom,Does this girl like him?
+151555,10,5,117000,Homer Simpson,Simpson Bathroom,"Pffft. I have to warn you, Marge -- I think the poor young thing has the hots for yours truly."
+151556,10,6,122000,Marge Simpson,Simpson Bathroom,Homer!
+151557,10,7,123000,Homer Simpson,Simpson Bathroom,"Just keepin' you on your toes, babe."
+151558,10,8,128000,Homer Simpson,Simpson Bathroom,"Two-hundred and thirty-nine pounds?! I'm a blimp! Why are all the good things so tasty? From now on, exercise every morning."
+151559,10,9,139000,Marge Simpson,Simpson Bathroom,"You are not a blimp, Homer. You're my big cuddly teddy bear."
+151561,10,11,146000,Bart Simpson,Bart's Bedroom,"Ah, baloney."
+151562,10,12,147000,Bart Simpson,Bart's Bedroom,"Yeah, right."
+151563,10,13,150000,Bart Simpson,Bart's Bedroom,"Oh, gimme a break."
+151564,10,14,152000,Bart Simpson,Bart's Bedroom,"Wow! Cool, man!"
+151568,10,18,157000,Homer Simpson,Master Bathroom,"Oh no! Two-hundred and thirty-nine pounds. I'm a whale. Why was I was cursed with this weakness for snack treats? Well, from now on, exercise every morning, Homer."
+151569,10,19,187000,Marge Simpson,Master Bathroom,"Don't strain yourself, dear."
+151570,10,20,190000,Homer Simpson,Master Bathroom,"Good idea, Marge. By the way, this Friday night I'm gonna be attending a little get-together with the boys at work. Eugene Fisk is marrying some girl in Valve Maintenance."
+151571,10,21,199000,Marge Simpson,Master Bathroom,"Homer, is this some kind of stag party?"
+151572,10,22,202000,Homer Simpson,Master Bathroom,"No, no, Marge. It's gonna be very classy, a tea-and-crumpets kind of thing."
+151573,10,23,208000,Marge Simpson,Master Bathroom,Eugene Fisk? Isn't he your assistant?
+151574,10,24,210000,Homer Simpson,Master Bathroom,"No, my supervisor."
+151575,10,25,212000,Marge Simpson,Master Bathroom,Didn't he used to be your assistant?
+151577,10,26,214000,Homer Simpson,Master Bathroom,"Hey, what is this? The Spanish Exposition?"
+151578,10,27,216000,Marge Simpson,Master Bathroom,"Sorry, Homer."
+151580,10,29,219000,Bart Simpson,Simpson Home,"Uh oh, it's the fe-mail man."
+151581,10,30,221000,Lisa Simpson,Simpson Home,"Female carrier, Bart."
+151582,10,31,224000,Bart Simpson,Simpson Home,"Lady, where's my spy camera? Where's my spy camera? Where is my spy camera, lady? Where is my spy camera? Where's my spy camera? Where's my spy camera?"
+151583,10,32,228000,Female Mail Carrier,Simpson Home,Where's my spy camera? Every day for the last six months. Where's my spy camera? Where's my spy camera? Where's my spy camera? Here's your stupid spy camera!
+151584,10,33,237000,Bart Simpson,Simpson Home,"Oh, thanks, man. Whoa, look at the size of this thing. I wonder if it really works."
+151585,10,34,249000,Bart Simpson,Simpson Home,...'cause I got a lotta spyin' to do.
+151587,10,36,258000,Homer Simpson,Simpson Bathroom,Bart! What are you doing?
+151588,10,37,261000,Bart Simpson,Simpson Bathroom,"Sorry, Dad. The answer to that is top secret."
+151590,10,39,270000,Marge Simpson,Master Bedroom,Bart.
+151591,10,40,270000,Bart Simpson,Master Bedroom,What?
+151592,10,41,271000,Marge Simpson,Master Bedroom,Go take some wildlife pictures or something.
+151594,10,43,276000,Bart Simpson,Street,Aha!
+151596,10,45,279000,Lisa Simpson,Bart's Bedroom,"Ewww, gross."
+151598,10,47,281000,Lisa Simpson,Simpson Home,"Mom, Bart was taking a picture of his butt."
+151599,10,48,285000,Bart Simpson,Simpson Home,Oh sure. Like I'm really gonna take a picture of my butt.
+151600,10,49,288000,Marge Simpson,Simpson Home,"Stop it, you two, and put on some nice clothes. Since it's just the four of us tonight, we're having dinner at the Rusty Barnacle."
+151601,10,50,294000,Lisa Simpson,Simpson Home,Yay! Fried shrimp!
+151602,10,51,296000,Bart Simpson,Simpson Home,"Aw, Mom. Can't we just grab a burger and... Only four of us? Who escaped?"
+151603,10,52,302000,Marge Simpson,Simpson Home,Your father. He's having a boys' night out.
+151605,10,54,305000,Mr. Fisk,PARTY ROOM,"And just as I was asking myself, ""Where did my seven-year-old boy get the money for a Father's Day present?"", I opened the box, and inside was little Eugene's baseball glove. He had given me the one thing that mattered most to him in the whole world. And Eugene, when I see you, the one thing that matters most to me in the whole world, married tomorrow, I'm going to know just how you felt that day."
+151386,10,55,333000,Eugene Fisk,PARTY ROOM,"I love you, Dad."
+151484,10,56,335000,Mr. Fisk,PARTY ROOM,"I love you, son."
+151607,10,57,336000,Homer Simpson,PARTY ROOM,Where am I... the Planet Cornball?
+151608,10,58,339000,Carl Carlson,PARTY ROOM,Hey don't worry. Things are gonna pick up once the... entertainment gets here.
+151609,10,59,342000,Homer Simpson,PARTY ROOM,Oooh... entertainment.
+151610,10,60,344000,Carl Carlson,PARTY ROOM,Yessir.
+151612,10,62,351000,Waiter,The Rusty Barnacle,"Ahoy, I spy the children's menu!"
+151613,10,63,354000,Bart Simpson,The Rusty Barnacle,"Ahoy, this place bites."
+151614,10,64,354000,Marge Simpson,The Rusty Barnacle,Bart!
+151615,10,65,357000,Waiter,The Rusty Barnacle,"So, what's it gonna be, me little bucko?"
+151616,10,66,361000,Bart Simpson,The Rusty Barnacle,Hmmmm... let's see. This evening I shall go for the squid platter.
+151617,10,67,366000,Lisa Simpson,The Rusty Barnacle,Ewwwww!
+151618,10,68,367000,Bart Simpson,The Rusty Barnacle,"Extra tentacles, please."
+151619,10,69,369000,Marge Simpson,The Rusty Barnacle,"Oh, Bart. Excuse me, sir. The party next door seems to be a little raucous. Could you please ask them to quiet down a little bit, please?"
+151620,10,70,378000,Waiter,The Rusty Barnacle,Aye aye.
+151621,10,71,379000,Workers,The Rusty Barnacle,"""Open the door, and lie on the floor,"" said Barnacle Bill the sailor! ""Open the door and lie on the floor,"" said Barnacle Bill the Sailor!"
+151623,10,73,388000,Waiter,PARTY ROOM,"Hey, try and keep it down guys, okay?"
+151624,10,74,390000,Homer Simpson,PARTY ROOM,"Hey, shut up!"
+151625,10,75,400000,Workers,PARTY ROOM,"""Open the door, and lie on the floor,"" said Barnacle Bill the sailor!"
+151627,10,77,400000,Waiter,The Rusty Barnacle,"Here you go... There you are. ... for the baby... and one squid platter, extra tentacles."
+151628,10,78,410000,Marge Simpson,The Rusty Barnacle,Bart! Quit fooling around and eat your dinner.
+151629,10,79,413000,Lisa Simpson,The Rusty Barnacle,"Yeah. Eat it, Bart."
+151630,10,80,414000,Bart Simpson,The Rusty Barnacle,May I please be excused for a minute?
+151631,10,81,417000,Marge Simpson,The Rusty Barnacle,"Okay, but don't dawdle. Your food will get cold."
+151633,10,83,421000,Carl Carlson,PARTY ROOM,"Okay, Eugene. One last taste of bachelor freedom."
+151634,10,84,431000,Lenny Leonard,PARTY ROOM,"Presenting Princess Kashmir, Queen of the Mysterious East!"
+151635,10,85,440000,Carl Carlson,PARTY ROOM,Now this is what I call a party.
+151636,10,86,447000,Mr. Fisk,PARTY ROOM,"How do I tell you this, my boy? We're in hell."
+151637,10,87,450000,Homer Simpson,PARTY ROOM,"Ooh, look at him squirm."
+151638,10,88,454000,Princess Kashmir,PARTY ROOM,Care to dance?
+151640,10,90,455000,Lenny Leonard,PARTY ROOM,She wants you!
+151641,10,91,457000,Hoyt,PARTY ROOM,"Go for it, Homer!"
+151642,10,93,470000,Homer Simpson,The Rusty Barnacle,"I'm sorry, I don't usually laugh like this."
+151643,10,94,475000,Bart Simpson,The Rusty Barnacle,Aye carumba!
+151645,10,96,477000,Bart Simpson,PARTY ROOM,"Wow, man."
+151646,10,97,481000,Homer Simpson,PARTY ROOM,"Oh, this is the most fun I've had in my whole life."
+151648,10,99,492000,Martin Prince,Springfield Elementary School,The meeting of the Future Photographers of America is now in session.
+151649,10,100,495000,Martin Prince,Springfield Elementary School,"We would like to welcome our new member, Bart Simpson."
+151650,10,101,499000,Bart Simpson,Springfield Elementary School,"Oh, people, people. Don't applaud. Let's get to work."
+151651,10,102,507000,Martin Prince,Springfield Elementary School,My goodness! Quite exciting.
+151652,10,103,508000,Girl #1,Springfield Elementary School,Extremely sensual.
+151653,10,104,510000,Boy #1,Springfield Elementary School,The subtle gray tones recall the work of Helmut Newton.
+151654,10,105,513000,Martin Prince,Springfield Elementary School,"Who's the sexy lady, Bart?"
+151655,10,106,514000,Bart Simpson,Springfield Elementary School,"Beats me, but the guy dancing with her is my Pop."
+151656,10,107,517000,All Kids,Springfield Elementary School,Wow!
+151657,10,108,518000,Girl #1,Springfield Elementary School,He brings to mind the later work of Diane Arbus.
+151658,10,109,521000,Martin Prince,Springfield Elementary School,"Bart, I'd really appreciate a print of your masterwork."
+151659,10,110,525000,Bart Simpson,Springfield Elementary School,Sorry guys. No can do.
+151660,10,111,529000,Milhouse Van Houten,Springfield Elementary School,"Come on, Bart. You're gonna make me a print, aren't you?"
+151661,10,112,532000,Bart Simpson,Springfield Elementary School,Will you swear not to let another living soul get a copy of this photo?
+151662,10,113,535000,Milhouse Van Houten,Springfield Elementary School,Okay.
+151663,10,114,535000,Bart Simpson,Springfield Elementary School,Cross your heart and hope to die?
+151664,10,115,536000,Milhouse Van Houten,Springfield Elementary School,Yep.
+151665,10,116,536000,Bart Simpson,Springfield Elementary School,Stick a needle in your eye?
+151666,10,117,538000,Milhouse Van Houten,Springfield Elementary School,Yep.
+151667,10,118,538000,Bart Simpson,Springfield Elementary School,Jam a dagger in your thigh?
+151668,10,119,539000,Milhouse Van Houten,Springfield Elementary School,Yep.
+151669,10,120,539000,Bart Simpson,Springfield Elementary School,Eat a horse manure pie?
+151670,10,121,541000,Milhouse Van Houten,Springfield Elementary School,Yep.
+151671,10,122,542000,Bart Simpson,Springfield Elementary School,"Well, okay."
+151673,10,124,544000,Milhouse Van Houten,Springfield Elementary School Library,Psst. Look what I got.
+151674,10,125,544000,Freddie,Springfield Elementary School Library,Woo! I got to have a copy of that.
+151675,10,126,547000,Milhouse Van Houten,Springfield Elementary School Library,Sorry.
+151676,10,127,547000,Freddie,Springfield Elementary School Library,"Aw, come on."
+151677,10,128,549000,Milhouse Van Houten,Springfield Elementary School Library,"Well, okay."
+151679,10,130,555000,Lewis Clark,Springfield Elementary School Playground,"Hey, Bart, how come Milhouse gets a copy of your girlie picture and I don't? I thought I was your friend, too."
+151680,10,131,560000,Bart Simpson,Springfield Elementary School Playground,"Well, okay."
+151683,10,134,582000,Lewis's Dad,LEWIS' HOUSE,"Son, why are you wasting your time with this sleazy trash?"
+151684,10,135,586000,Lewis Clark,LEWIS' HOUSE,"Sorry, Dad."
+151685,10,136,588000,Lewis's Dad,LEWIS' HOUSE,Wait 'till I show the guys at work this little doozy.
+151687,10,138,594000,Al,EXECUTIVE OFFICE,"Mike? This is Al. Just wanted to thank you for the ""informative memo"" you faxed me. Whoops, here comes the boss. Gotta go. ."
+151689,10,140,603000,Secretary,Rev. Lovejoy's Study,"Reverend Lovejoy, your wife confiscated this from one of the boys in the choir."
+151690,10,141,608000,Rev. Timothy Lovejoy,Rev. Lovejoy's Study,"Why, this sheep has strayed from my own flock. His name's..."
+151692,10,143,611000,Waylon Smithers,Springfield Nuclear Power Plant,"Homer Simpson, sir. A low-level employee in sector 7-G."
+151693,10,144,614000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Simpson, eh? A family man?"
+151694,10,145,616000,Waylon Smithers,Springfield Nuclear Power Plant,"Wife and three kids, sir."
+151695,10,146,617000,C. Montgomery Burns,Springfield Nuclear Power Plant,"I'd like to see our self-styled Valentino tomorrow morning, Smithers."
+151697,10,148,626000,Marge Simpson,AEROBIC STUDIO,What are we laughing at?
+151699,10,150,635000,Homer Simpson,QUICK-E-MART,"One glazed and one scratch-and-win, please."
+151700,10,151,638000,Clerk,QUICK-E-MART,"You look familiar, sir. Are you on the television or something?"
+151701,10,152,640000,Homer Simpson,QUICK-E-MART,"Sorry, buddy. You got me confused with Fred Flintstone."
+151702,10,153,644000,Homer Simpson,QUICK-E-MART,"Oooh, Liberty bell! Another liberty bell! One more and I'm a millionaire. Come on, Liberty bell! Please, please, please please, please please. That purple fruit thing! Where were you yesterday?"
+151703,10,154,658000,Happy Man,QUICK-E-MART,"Hey, hey! Lookin' good!"
+151704,10,155,659000,Homer Simpson,QUICK-E-MART,"What are you on, pal?"
+151705,10,156,661000,Little Boy,QUICK-E-MART,"Hey, mister! Doo doo doo doo doo, doo dee doo dee doo dee doo..."
+151706,10,157,666000,Homer Simpson,QUICK-E-MART,"Well, a doo dee doo doo to you, too, pint size!"
+151707,10,158,670000,Homer Simpson,QUICK-E-MART,"Man, you get a lot of nutcases in here."
+151708,10,159,671000,Clerk,QUICK-E-MART,"Well sir, I've seen things you can't imagine."
+151710,10,161,674000,Funky Guy,Kwik-E-Mart Parking Lot,Hey hey hey!
+151711,10,162,676000,Homer Simpson,Kwik-E-Mart Parking Lot,"I hear ya, buddy! Whew! Full moon!"
+151713,10,164,682000,Homer Simpson,INTERSECTION,Hmmm... still got it!
+151715,10,166,692000,Marge Simpson,Simpson Home,What is the meaning of this?
+151716,10,167,694000,Homer Simpson,Simpson Home,"I-it's meaningless, Marge. Don't even attempt to find meaning in it. There's nothing between me and Princess Kashmir."
+151717,10,168,702000,Marge Simpson,Simpson Home,Princess who?
+151718,10,169,703000,Bart Simpson,Simpson Home,"Hey, my photo!"
+151719,10,170,704000,Homer Simpson,Simpson Home,Your photo?
+151720,10,171,704000,Bart Simpson,Simpson Home,Uh oh.
+151721,10,172,706000,Homer Simpson,Simpson Home,Why you little --
+151722,10,173,706000,Marge Simpson,Simpson Home,Why you big...
+151724,10,175,707000,Marge Simpson,Simpson Home,"Bart, go to your room!"
+151725,10,176,709000,Bart Simpson,Simpson Home,I'm outta here.
+151726,10,177,709000,Homer Simpson,Simpson Home,Look Marge... honey... baby doll... I...
+151727,10,178,712000,Marge Simpson,Simpson Home,"Homer, I don't even want to look at you right now."
+151728,10,179,716000,Homer Simpson,Simpson Home,"What are you saying, Honey?"
+151729,10,180,718000,Homer Simpson,Simpson Home,But where will I sleep?
+151730,10,181,719000,Marge Simpson,Simpson Home,My suggestion is for you to sleep in the filth you created.
+151731,10,182,723000,Homer Simpson,Simpson Home,Would a motel be okay?
+151733,10,184,733000,Homer Simpson,Simpson Front Yard,"Aw, I knew you'd come to your..."
+151734,10,185,737000,Marge Simpson,Simpson Front Yard,"Here, if you have any soul left, you'll need these. I know I will."
+151736,10,187,756000,Moe Szyslak,Moe's Tavern,"What's the matter, Homer? Hottest Ladies Night in months and you're not even checking out the action."
+151737,10,188,757000,Homer Simpson,Moe's Tavern,"Oh, Moe. My wife gave me the old heave-ho because of some lousy picture."
+151738,10,189,766000,Moe Szyslak,Moe's Tavern,This one?
+151740,10,191,768000,Barney Gumble,Moe's Tavern,"So where you staying tonight, Homer?"
+151741,10,192,771000,Homer Simpson,Moe's Tavern,"Motel, I guess."
+151742,10,193,772000,Barney Gumble,Moe's Tavern,"Oh, no. No pal of mine is gonna stay in some dingy flophouse."
+151744,10,195,780000,Barney Gumble,Barney's Apartment,"If you get hungry in the middle of the night, there's an open beer in the fridge."
+151745,10,196,785000,Homer Simpson,Barney's Apartment,"Look, Barney. See the row of tiny lights up there? The middle one is my house. Someone must have left the porch light on."
+151746,10,197,794000,Barney Gumble,Barney's Apartment,"Hey, that's rough, pal."
+151747,10,198,797000,Barney Gumble,Barney's Apartment,"Hello, Marge, you left your damn porch light on."
+151748,10,199,801000,Homer Simpson,Barney's Apartment,Barney!
+151749,10,200,801000,Barney Gumble,Barney's Apartment,"Homer's not made of money, you know."
+151750,10,201,803000,Marge Simpson,Barney's Apartment,Who is this?
+151751,10,202,804000,Homer Simpson,Barney's Apartment,"Don't listen to him, Marge, he's..."
+151752,10,203,808000,Barney Gumble,Barney's Apartment,"Homer, yo-you're overwrought. Why don't you unwind a little bit? Party down the hall. You know this apartment complex caters to upscale young singles like me."
+151753,10,204,820000,Homer Simpson,Barney's Apartment,"No, Barn. I just want to crawl into bed."
+151754,10,205,823000,Barney Gumble,Barney's Apartment,"Suit yourself, Homer. Nighty-night."
+151756,10,207,836000,Lisa Simpson,Simpson Home,I wonder when Dad's coming home?
+151758,10,209,852000,Waylon Smithers,Springfield Nuclear Power Plant,Homer Simpson! Homer Simpson! Report at once to Mr. Burns' office.
+151759,10,210,856000,Homer Simpson,Springfield Nuclear Power Plant,Oh no.
+151761,10,212,858000,C. Montgomery Burns,Burns's Office,"What in blue blazes do you think you're doing, Simpson?"
+151762,10,213,861000,Homer Simpson,Burns's Office,"What do you mean, sir?"
+151763,10,214,862000,C. Montgomery Burns,Burns's Office,I mean this!
+151764,10,215,864000,C. Montgomery Burns,Burns's Office,"A plant employee carrying on like an oversexed orangutan in heat! This is a family nuclear-power plant, Simpson. Our research indicates that over 50 percent of our power is used by women. I will not have you offending my customers with your bawdy shenanigans!"
+151765,10,216,879000,Homer Simpson,Burns's Office,"It won't happen again, sir. I promise. May I get out of your sight now?"
+151766,10,217,883000,C. Montgomery Burns,Burns's Office,"Just a second, Simpson! Smithers, would you leave the room for a minute?"
+151767,10,218,887000,Waylon Smithers,Burns's Office,"Yes, sir."
+151768,10,219,891000,C. Montgomery Burns,Burns's Office,"Simpson, I am by most measures a successful man. I have wealth and power beyond the dreams of you and your clock-punching ilk. And yet, I've led a solitary life. The fair sex remains a mystery to me. You seem to have a way with women, a certain... how shall I put it? Animal magnetisme. Help me, Simpson. Tell me your secret."
+151769,10,220,917000,Homer Simpson,Burns's Office,"Uh... Mr. Burns, in spite of what everybody thinks, I'm no lover-boy."
+151770,10,221,922000,C. Montgomery Burns,Burns's Office,"Simpson, I'm asking you nicely."
+151771,10,222,924000,Homer Simpson,Burns's Office,"I don't really know, sir."
+151772,10,223,925000,C. Montgomery Burns,Burns's Office,Simpson!
+151773,10,224,927000,Homer Simpson,Burns's Office,"Well... Uh... Wine 'em, dine 'em, bring 'em flowers, write 'em love poetry, sir."
+151774,10,225,933000,C. Montgomery Burns,Burns's Office,"Of course! It's simplicity itself! I won't forget this, Simpson. Now return to your work, and tell no one of what transpired here."
+151776,10,227,948000,Homer Simpson,Simpson Home,Anybody home?
+151777,10,228,949000,Lisa Simpson,Simpson Home,"Hi, Daddy."
+151778,10,229,951000,Bart Simpson,Simpson Home,"Welcome back, Dad."
+151779,10,230,953000,Homer Simpson,Simpson Home,How's your Mom?
+151780,10,231,955000,Lisa Simpson,Simpson Home,Still kinda ticked off.
+151781,10,232,957000,Bart Simpson,Simpson Home,"Yeah, good luck, man."
+151782,10,233,960000,Homer Simpson,Simpson Home,"Oh, thanks, boy."
+151783,10,234,963000,Homer Simpson,Simpson Home,"Hello, Marge. It's me. Homer."
+151784,10,235,966000,Homer Simpson,Simpson Home,Are you still mad?... You are still mad. No need to say it. I'm your loving husband. I can read you like a book. I'll just have some milk.
+151785,10,236,977000,Homer Simpson,Simpson Home,"Look, I'm not drinking out of the carton. Come on, Marge. Please forgive me? I'm sorry. I'm so sorry."
+151786,10,237,989000,Marge Simpson,Simpson Home,Homer! You don't even know why you're apologizing.
+151787,10,238,992000,Homer Simpson,Simpson Home,Yes I do. Because I'm hungry... my clothes are smelly... and I'm tired.
+151788,10,239,997000,Marge Simpson,Simpson Home,"I've been thinking, Homer, and you know what bothers me the most about this whole thing? You taught Bart a very bad lesson. Your boy idolizes you."
+151789,10,240,1006000,Homer Simpson,Simpson Home,"Oh, he does not!"
+151790,10,241,1007000,Marge Simpson,Simpson Home,"Yes he does, Homer. And when he sees you treating women as objects, he's going to think that it's okay. You owe your son better than that, Homer."
+151791,10,242,1015000,Homer Simpson,Simpson Home,"So what should I do, Marge?"
+151792,10,243,1017000,Marge Simpson,Simpson Home,"Well, I think you should take Bart to meet this exotic belly-person. I want him to see that she's a real human being with real thoughts and real feelings. I want Bart to see you apologize for the way you treated her."
+151793,10,244,1031000,Homer Simpson,Simpson Home,"Okay. Your wish is my command, my little..."
+151794,10,245,1034000,Marge Simpson,Simpson Home,Do it!
+151796,10,247,1042000,Manager,Florence of Arabia,Princess Kashmir? You must mean April Flowers. She's working over at the Girlesque.
+151797,10,248,1046000,Bart Simpson,Florence of Arabia,Oooo.
+151799,10,250,1053000,Homer Simpson,Girlesque,"You see, I'm trying to teach my son here about treating woman as objects."
+151801,10,251,1057000,Man At Door,Girlesque,That's a good idea. But April's over at Foxy Boxing tonight.
+151803,10,253,1060000,Ticket-seller,Foxy Boxing,Just let me say that it is an honor to have Springfield's number-one swinger with us to--
+151804,10,254,1065000,Homer Simpson,Foxy Boxing,Forget that. I'm teaching my boy a lesson. Is she here or not?
+151805,10,255,1068000,Ticket-seller,Foxy Boxing,Nahhh. Try the Club Mud.
+151807,10,257,1071000,Homer Simpson,Club Mud,Marge. Marge. We're gonna try one more place. The Sapphire Lounge. Bart! I said look at the floor!
+151810,10,260,1084000,Homer Simpson,Sapphire Lounge,"There she is! Hey, Princess! It's me, the guy from the snap shot!"
+151811,10,261,1089000,Princess Kashmir,Sapphire Lounge,"Oh. Oh, hi."
+151812,10,262,1089000,Homer Simpson,Sapphire Lounge,Oooo.
+151813,10,263,1089000,Stage Manager,Sapphire Lounge,"Places, ladies! Take your places! Can I get just a little cooperation. It's showtime!"
+151814,10,264,1096000,Homer Simpson,Sapphire Lounge,"Look, I'm here because I want to apologize for treating you like an object."
+151815,10,265,1096000,Princess Kashmir,Sapphire Lounge,Uh-huh.
+151816,10,266,1100000,Homer Simpson,Sapphire Lounge,"I also want my boy to find out that you're more than just a belly. I want him to meet the woman behind all the spangles and glitter and find out that she has thoughts and feelings, too."
+151817,10,267,1109000,Princess Kashmir,Sapphire Lounge,"Oh, okay, but can we make it quick?"
+151818,10,268,1111000,Bart Simpson,Sapphire Lounge,"Nice to meet you, ma'am."
+151819,10,269,1113000,Homer Simpson,Sapphire Lounge,Could you tell him a little about yourself?
+151820,10,270,1115000,Princess Kashmir,Sapphire Lounge,"Well, um... my real name's Shawna Tifton, my pet peeve is rude people. And my turn ons include silk sheets and a warm fire place."
+151821,10,271,1123000,Homer Simpson,Sapphire Lounge,Thank you very much ma'am. We'll be out of your...
+151822,10,272,1127000,Gulliver Dark,Sapphire Lounge,I'VE HEARD IT SAID SO OFTEN/ THEY COULDN'T LOVE THEIR WIVES/ OH BUT I THINK THAT'S JUST FOOLISH/ MEN MUST HAVE HEARTS MADE OF STONE...
+151823,10,273,1142000,Bart Simpson,Sapphire Lounge,"Cool, man."
+151824,10,274,1144000,Princess Kashmir,Sapphire Lounge,Get out of my cage! My boss will freak out.
+151825,10,275,1148000,Homer Simpson,Sapphire Lounge,Oh no.
+151826,10,276,1158000,Gulliver Dark,Sapphire Lounge,"OH, I COULD LOVE A MILLION GIRLS/ EVERY GIRL IN BETWEEN/ YEAH, I COULD LOVE A CHINESE GIRL AN ESKIMO OR FIN..."
+151827,10,277,1166000,Homer Simpson,Sapphire Lounge,Ahhhhhh!
+151828,10,278,1170000,Bart Simpson,Sapphire Lounge,Ooh! Ahh! Ooh! Ahh! Ahh! Ahh! Ohh!
+151830,10,279,1174000,Gulliver Dark,Sapphire Lounge,Get off my stage fatboy.
+151831,10,280,1177000,Theatre-goer #1,Sapphire Lounge,"Hey, it's the guy from the picture."
+151832,10,281,1184000,C. Montgomery Burns,Sapphire Lounge,Homer Simpson!
+151833,10,282,1185000,Gulliver Dark,Sapphire Lounge,"Sorry partner, I didn't recognize you at first. Ladies and gentlemen, it's an honor to have a real swinging cat with us tonight. Homer Simpson, party guy."
+151835,10,284,1200000,Gulliver Dark,Sapphire Lounge,"Mister Mistro... OH, I COULD LOVE A MILLION GIRLS/ EVERY GIRL IN BETWEEN/ YEAH, I COULD LOVE A CHINESE GIRL AN ESKIMO OR FIN/ I COULD DIG A DEUCHLAND CHICK A GIRL WITH GOLDEN CURL/ IN FACT I THINK THAT WE COULD LOVE..."
+151836,10,285,1221000,Homer Simpson,Sapphire Lounge,ABOUT A MILLION GIRLS.
+151837,10,286,1224000,Homer Simpson,Sapphire Lounge,Hep... heyyy... whoooo... look out... yeah... Da da da da da.
+151838,10,287,1232000,C. Montgomery Burns,Sapphire Lounge,"How does he do it, Smithers?"
+151839,10,288,1234000,Waylon Smithers,Sapphire Lounge,"He's a love machine, sir."
+151840,10,289,1238000,Bart Simpson,Sapphire Lounge,Way to go dad!
+151841,10,290,1239000,Homer Simpson,Sapphire Lounge,Uh-oh. Wait a minute. Wait a minute. Stop the music... Quiet please... I have something to say. Quiet!
+151842,10,291,1254000,C. Montgomery Burns,Sapphire Lounge,"You, with the hair. Down in front!"
+151843,10,292,1256000,Marge Simpson,Sapphire Lounge,"Oh, he's sunk even lower!"
+151844,10,293,1259000,Homer Simpson,Sapphire Lounge,"Quiet! I have something to say to all the sons out there; to all the boys; to all the men; to all of us. It's about women, and how they are not mere objects with curves that make us crazy. No, they are our wives, they are our daughters, our sisters, our grandmas, our aunts, our nieces and nephews -- well, not our nephews -- they are our mothers. And you know something, folks? As ridiculous as it sounds, I would rather feel the sweet breath of my beautiful wife on the back of my neck as I sleep than stuff dollar bills into some stranger's G-string. Am I wrong, or am I right?"
+151845,10,294,1302000,Theatre-goer #2,Sapphire Lounge,My wife gets the cutest little thing right here when she smiles.
+151846,10,295,1307000,Theatre-goer #1,Sapphire Lounge,That's my Suzie.
+151847,10,296,1307000,Theatre-goer #3,Sapphire Lounge,She's so cute. Here's mine.
+151848,10,297,1313000,Gulliver Dark,Sapphire Lounge,"You know, my Mom sounded a little down the other day. I better give her a call."
+151849,10,298,1317000,Marge Simpson,Sapphire Lounge,Homer!
+151850,10,299,1317000,Homer Simpson,Sapphire Lounge,Marge!
+151851,10,300,1326000,Bart Simpson,Sapphire Lounge,"All right, folks show's over. No more to see, folks. Only sick people want to see my folks kiss."

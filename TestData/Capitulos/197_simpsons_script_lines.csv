@@ -1,0 +1,263 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+45512,197,1,52000,General Donut,PRIMITIVE AMPHITHEATER,"Homer Simpson, you stand accused of eating half the population of the Planet of the Donuts."
+45514,197,3,62000,Roddy McDonut,PRIMITIVE AMPHITHEATER,As Homer's defense attorney I feel we should be merciful-- hey!
+45515,197,4,67000,Roddy McDonut,PRIMITIVE AMPHITHEATER,Did you just take a bite out of me?
+45516,197,5,69000,Homer Simpson,PRIMITIVE AMPHITHEATER,"Uh, Maybe."
+45517,197,6,70000,General Donut,PRIMITIVE AMPHITHEATER,I sentence you to death!
+45518,197,7,76000,Big Donut,PRIMITIVE AMPHITHEATER,Mmmmm... Homer.
+45520,197,9,84000,Lenny Leonard,Springfield Nuclear Power Plant,"Homer, wake up! It's time for our coffee break."
+45521,197,10,87000,Homer Simpson,Springfield Nuclear Power Plant,"Yep, I earned it."
+45522,197,11,89000,Homer Simpson,Springfield Nuclear Power Plant,"Mmmm, donuts."
+45523,197,12,94000,Lenny Leonard,Springfield Nuclear Power Plant,There's only one donut left!
+45524,197,13,95000,Carl Carlson,Springfield Nuclear Power Plant,"Yeah and you drooled all over it, ya--"
+45525,197,14,95000,Homer Simpson,Springfield Nuclear Power Plant,"Gentlemen, there's only one solution. We place this last donut in the reactor core, exposing it to radiation, thereby making it big."
+45526,197,15,106000,Big Hand Guy,Springfield Nuclear Power Plant,"Yeah, it worked on my hand."
+45527,197,16,107000,Big Hand Guy,Springfield Nuclear Power Plant,"Oh, wait, it's this hand."
+45528,197,17,107000,Big Hand Guy,Springfield Nuclear Power Plant,Whoa!
+45530,197,19,119000,Waylon Smithers,Parking Lot,"Uh, sir, we've found the problem. Some idiot threw this in the reactor core."
+45531,197,20,123000,Homer Simpson,Parking Lot,Success!
+45532,197,21,124000,C. Montgomery Burns,Parking Lot,You did this? How could you be so irresponsible?
+45533,197,22,127000,Homer Simpson,Parking Lot,It's my first day.
+45534,197,23,129000,C. Montgomery Burns,Parking Lot,"Since I've never seen you before, maybe it is your first day. Very well, carry on."
+45535,197,24,133000,Waylon Smithers,Parking Lot,"Uh, sir, that's Homer Simpson. He's been working here for ten years."
+45536,197,25,136000,C. Montgomery Burns,Parking Lot,"Oh, really? Why did you think you could lie to me?"
+45537,197,26,140000,Homer Simpson,Parking Lot,It's my first day.
+45538,197,27,141000,C. Montgomery Burns,Parking Lot,"Well, why didn't you say- Whoa! You're fired!"
+45540,197,29,146000,Homer Simpson,Simpson Home,Fired. I can't believe it.
+45541,197,30,150000,Announcer,Simpson Home,"Next, on Exploitation Theater: ""Blackula,"" followed by ""Blackenstein."" And the ""Blunch Black of Blotre Blame."""
+45542,197,31,158000,Homer Simpson,Simpson Home,"Ooh, funky."
+45543,197,32,160000,Announcer,Simpson Home,"But first, this word."
+45545,197,33,161000,Naval Announcer,Simpson Home,"Daybreak. Jakarta. The proud men and women of the Navy are fighting for freedom. But you're in Lubbock, Texas, hosing stains off a monument."
+45546,197,34,170000,Naval Announcer,Simpson Home,"You're in the Naval Reserve. America's seventeenth line of defense, between the Mississippi National Guard and the League of Women Voters."
+45547,197,35,178000,Naval Announcer,Simpson Home,After basic training you'll only have to work one weekend a month. And most of that time you're drunk off your ass!
+45548,197,36,185000,Homer Simpson,Simpson Home,"You know Lisa, I've taken a lot from this country. Maybe it's time I gave something back."
+45549,197,37,190000,Lisa Simpson,Simpson Home,Are you thinking of joining the Naval Reserve?
+45550,197,38,193000,Homer Simpson,Simpson Home,Would you be proud of me?
+45551,197,39,194000,Lisa Simpson,Simpson Home,"Eh, sort of."
+45552,197,40,195000,Homer Simpson,Simpson Home,Then I'll do it!
+45555,197,43,199000,Recruiting Officer,NAVAL RESERVES RECRUITING OFFICE,Just fill out this form and you're on your way to the Reserve.
+45556,197,44,202000,Homer Simpson,NAVAL RESERVES RECRUITING OFFICE,There's a question that's crossed out.
+45557,197,45,204000,Recruiting Officer,NAVAL RESERVES RECRUITING OFFICE,"Well, due to a recent presidential order, we're not allowed to ask that particular question."
+45558,197,46,209000,Homer Simpson,NAVAL RESERVES RECRUITING OFFICE,"Well, I think I can make it out. ""Are you a homosex..."""
+45559,197,47,210000,Recruiting Officer,NAVAL RESERVES RECRUITING OFFICE,"For God's sake, don't answer that! I could go to jail!"
+45560,197,48,214000,Homer Simpson,NAVAL RESERVES RECRUITING OFFICE,But I'm not a h--
+45561,197,49,214000,Recruiting Officer,NAVAL RESERVES RECRUITING OFFICE,La la la la la la la! I am not listening! La la la la la la la la!
+45562,197,50,220000,Homer Simpson,NAVAL RESERVES RECRUITING OFFICE,Nice fella. I wonder if he's gay?
+45564,197,52,223000,Marge Simpson,Simpson Master Bedroom,"Homie, I really don't think this navy thing is a good idea. What if you get called into combat?"
+45565,197,53,229000,Homer Simpson,Simpson Master Bedroom,"Not to worry, honey. We live in a highly technological age, where fighting a war is as simple as turning off a light."
+45566,197,54,238000,Marge Simpson,Simpson Master Bedroom,We don't have a Clapper.
+45567,197,55,240000,Homer Simpson,Simpson Master Bedroom,"Sorry, can't hear you, Marge. I'm clapping."
+45569,197,57,249000,Homer Simpson,Simpson Home,Nighty-night!
+45571,197,59,252000,Homer Simpson,Moe's Tavern,"Well, guys, I won't be seeing you for a while."
+45572,197,60,254000,Barney Gumble,Moe's Tavern,Where are you going?
+45544,197,61,255000,Homer Simpson,Moe's Tavern,I've joined the naval reserve.
+45573,197,62,257000,Barney Gumble,Moe's Tavern,"Well, I'm not gonna let anything happen to my best friend. I'm joining too."
+45574,197,63,262000,Moe Szyslak,Moe's Tavern,"Well, I'm not gonna let anything happen to my two best customers. I'm joining too."
+45575,197,64,268000,Apu Nahasapeemapetilon,Moe's Tavern,"And although my religion strictly forbids military service -- what the hey, I'm in too."
+45576,197,65,276000,Homer Simpson,Moe's Tavern,"Gee, thanks guys. This is just like ""The Deer Hunter."""
+45577,197,66,280000,Moe Szyslak,Moe's Tavern,"""The Deer Hunter?"" Uh... hah... That reminds me."
+45579,197,68,289000,Asian Man,Back Room of Moe's,Didi mau! Didi mau!
+45580,197,69,291000,Moe Szyslak,Back Room of Moe's,I'm sorry guys. We're shuttin' down for a while. Sorry.
+45582,197,71,297000,Homer Simpson,Bus,See ya in a week.
+45583,197,72,298000,Lisa Simpson,Bus,"Good luck, Dad. Although I am morally opposed to the military-industrial complex of which you are now a part."
+45584,197,73,304000,Homer Simpson,Bus,"Aw, that's sweet, honey. I'll bring you back a hat."
+45585,197,74,307000,Bart Simpson,Bus,"Hey, Homer, bring me back a torpedo."
+45586,197,75,308000,Homer Simpson,Bus,No.
+45587,197,76,309000,Bart Simpson,Bus,But Flanders got his kids torpedoes.
+45588,197,77,312000,Homer Simpson,Bus,"Oh, he did, did he? I'll show him! I'll bring you a weapon of unimaginable destructive power!"
+45589,197,78,317000,Marge Simpson,Bus,Homer!
+45590,197,79,319000,Homer Simpson,Bus,But only if you're good. Even if you're not.
+45592,197,81,331000,Drill Instructor,PARADE GROUNDS,"All right you thumb-sucking worms, let's get one thing straight. Your mamas ain't here to help you!"
+45593,197,82,337000,Barney Gumble,PARADE GROUNDS,Mine is.
+45596,197,85,341000,Homer Simpson,NAVY BARBER SHOP,"No way, man! My hair is who I am!"
+45597,197,86,346000,Homer Simpson,NAVY BARBER SHOP,I'm a freak!
+45599,197,88,353000,Homer Simpson,Barracks,What the--?
+45602,197,91,353000,Drill Instructor,Field,"Tuck in that shirt -- shine those shoes, mister -- oh, for the love of --"
+45603,197,92,363000,Homer Simpson,Field,"Uh, a seagull took my sailor hat."
+45604,197,93,369000,Drill Instructor,Field,"All right, Simpson. I don't like you and you don't like me --"
+45605,197,94,374000,Homer Simpson,Field,I like you.
+45606,197,95,375000,Drill Instructor,Field,"Um, all right. You like me, but I don't like you!"
+45607,197,96,378000,Homer Simpson,Field,Maybe you would like me if you got to know me.
+45608,197,97,380000,Drill Instructor,Field,"What are you, a comedian?"
+45609,197,98,382000,Homer Simpson,Field,"Well, I'm no Margaret Cho, but I do a pretty fair Columbo impression. Ah, one more thing - One- I should get a glass of water."
+45612,197,101,401000,Homer Simpson,PIER,There! The perfect sheepshank.
+45613,197,102,403000,Drill Instructor,PIER,"Very nice, Simpson. But next time tie the other end to the ship!"
+45614,197,103,411000,Homer Simpson,PIER,Ulll.....
+45616,197,105,416000,Drill Instructor,PARADE GROUNDS,"Congratulations, sailors, you're all in the Naval Reserve!"
+45617,197,106,422000,Head Chef,PARADE GROUNDS,Congratulations! You are all pastry chefs!
+45618,197,107,427000,Head Instructor,PARADE GROUNDS,Congratulations! You are all World War I Historical Re-creationists!
+45619,197,108,432000,WORLD WAR I RECREATIONISTS,PARADE GROUNDS,Uh-oh...Uh-oh...Etc.
+45621,197,110,438000,Milhouse Van Houten,Street,"Hey, Bart, check out my new earring! Pretty cool, huh?"
+45622,197,111,441000,Bart Simpson,Street,"Milhouse, my mom wears earrings -- do you think she's cool?"
+45623,197,112,445000,Milhouse Van Houten,Street,"No, I think she's hot!"
+45624,197,113,447000,Milhouse Van Houten,Street,"Sorry, it just slipped out."
+45626,197,115,456000,Jimbo Jones,Bus,"Hey, look, Milhouse has an earring!"
+45627,197,116,459000,Other Kids,Bus,Milhouse! Milhouse! Milhouse!
+45628,197,117,461000,Bart Simpson,Bus,"Hey, if you want cool, check this out. EVERYBODY IF YOU CAN DO THE BARTMAN! SHAKE YOUR BODY TURN IT OUT IF YOU CAN CAN DO THE BARTMAN YEAH!"
+45629,197,118,471000,Ralph Wiggum,Bus,That is so 1991.
+45631,197,120,475000,Seymour Skinner,Springfield Elementary School Yard,"Young man, the school dress code specifically forbids the wearing of earrings... unless you're of gypsy extraction."
+45632,197,121,483000,Milhouse Van Houten,Springfield Elementary School Yard,"Uh, I'm a gypsy."
+45633,197,122,485000,Seymour Skinner,Springfield Elementary School Yard,"Oh, really? Prove it."
+45634,197,123,486000,Milhouse Van Houten,Springfield Elementary School Yard,Uh... I vant to suck your blood.
+45635,197,124,486000,Seymour Skinner,Springfield Elementary School Yard,"Nuh-uh, that's a vampire! But, uh, they're also covered. Carry on."
+45637,197,126,504000,Homer Simpson,Simpson Master Bedroom,Request permission to come aboard.
+45638,197,127,506000,Marge Simpson,Simpson Master Bedroom,Permission granted.
+45639,197,128,506000,Homer Simpson,Simpson Master Bedroom,Marge!
+45642,197,131,517000,Vet,AMERICAN LEGION HALL,I lost this eye in Haiti. I was drinking a Mai Tai and forgot to take the little parasol out.
+45643,197,132,522000,Grampa Simpson,AMERICAN LEGION HALL,That's not a war story! I'll tell you a war story! I was on PT one oh nine with John F. Kennedy. I was the first to discover his terrible secret.
+45645,197,134,536000,John F. Kennedy,Ocean,Ich bin ein Berliner.
+148162,197,135,538000,Young Grampa,Ocean,He's a Nazi! Get him!
+45648,197,138,551000,Bob Denver,Theater,"And another thing! When people come up to me and say ""Hey, Little Buddy,"" and hit me over the head with a hat - that's not funny! That hurts!"
+45649,197,139,560000,Bob Denver,Theater,Stop laughing at me!
+45650,197,140,562000,Homer Simpson,Theater,"You know Marge, joining the reserves was the best thing I ever did. I feel good about myself, I'm helping my country, and later, I'm gonna get Gilligan's autograph."
+45651,197,141,571000,Marge Simpson,Theater,"I'm so proud of you, Homie."
+45652,197,142,573000,Homer Simpson,Theater,Then I'll whomp him with my hat.
+45655,197,145,594000,Clerk,Piercing Store,Can I help you?
+45656,197,146,596000,Bart Simpson,Piercing Store,I'd like to get my ear pierced.
+45657,197,147,598000,Clerk,Piercing Store,"Well, better make it quick, kiddo. In five minutes this place is becoming a Starbucks."
+45660,197,150,609000,Bart Simpson,Simpson Home,Hello everybody. Sparkle sparkle.
+45661,197,151,611000,Homer Simpson,Simpson Home,Bart!
+45662,197,152,612000,Lisa Simpson,Simpson Home,An earring? How rebellious in a conformist sort of way.
+45663,197,153,616000,Marge Simpson,Simpson Home,What on earth possessed you to get an earring?
+45664,197,154,618000,Bart Simpson,Simpson Home,Milhouse has one.
+45665,197,155,619000,Marge Simpson,Simpson Home,If Milhouse jumped off a cliff--
+45666,197,156,619000,Bart Simpson,Simpson Home,Milhouse jumped off a cliff? I'm there!
+45667,197,157,624000,Homer Simpson,Simpson Home,"Get back here, boy!"
+45668,197,158,625000,Homer Simpson,Simpson Home,You're a disgrace to this family and its proud Naval tradition!
+45669,197,159,628000,Bart Simpson,Simpson Home,"Well, I'm keeping this earring and you can't stop me!"
+45670,197,160,632000,Homer Simpson,Simpson Home,I always thought Lisa would be the one to get her ears pierced.
+45671,197,161,635000,Lisa Simpson,Simpson Home,Can I?
+45672,197,162,636000,Homer Simpson,Simpson Home,No!
+45675,197,164,637000,Bart Simpson,Springfield Elementary School Yard,Time to reap the benefits of being cool.
+45677,197,166,643000,Bart Simpson,Springfield Elementary School Yard,I don't believe this! Everyone's got an earring!
+45678,197,167,647000,Ralph Wiggum,Springfield Elementary School Yard,My neck hurts and my ear hurts. I have two ow-ees.
+45680,197,169,654000,Drill Instructor,Port Springfield,"Next weekend we're having our annual war games. Now Simpson, because of your many years as a nuclear technician we're putting you on a nuclear sub."
+45681,197,170,662000,Homer Simpson,Port Springfield,Nu-cue-lar. It's pronounced NU-cue-lar.
+45683,197,172,667000,Lisa Simpson,SUBMARINE DOCK,"Be careful, Dad."
+45684,197,173,675000,Homer Simpson,SUBMARINE DOCK,"Oh, Lisa, it's just war games. It's not like a game could hurt me."
+45685,197,174,682000,Homer Simpson,SUBMARINE DOCK,"Damn you, rock'em sock'em robots! Can't we all just get along?"
+45686,197,175,687000,Marge Simpson,SUBMARINE DOCK,Are you sure you'll be okay?
+45687,197,176,688000,Homer Simpson,SUBMARINE DOCK,We have orders not to fire on anybody but Greenpeace.
+45688,197,177,692000,Homer Simpson,SUBMARINE DOCK,"Well, I guess that's everyone. Except earring-boy."
+45689,197,178,696000,Bart Simpson,SUBMARINE DOCK,"Come on, Dad. Didn't you ever do anything wild when you were a kid?"
+45690,197,179,699000,Homer Simpson,SUBMARINE DOCK,"Well, when I was ten I got my ear pierced but this is completely different!"
+45691,197,180,704000,Bart Simpson,SUBMARINE DOCK,Fine. Take it.
+45692,197,181,711000,Drill Instructor,SUBMARINE DOCK,Attention on deck! Captain Tenille wishes to address you!
+45693,197,182,718000,Captain Tenille,SUBMARINE DOCK,I'm a man of few words! Any questions?
+45694,197,183,723000,Homer Simpson,SUBMARINE DOCK,"Uh, is the poopdeck really what I think it is?"
+45695,197,184,727000,Captain Tenille,SUBMARINE DOCK,I like the cut of your jib.
+45696,197,185,730000,Homer Simpson,SUBMARINE DOCK,What's a jib?
+45697,197,186,731000,Captain Tenille,SUBMARINE DOCK,Promote that man.
+45699,197,188,739000,Captain Tenille,SUBMARINE,"The Navy has a fine sense of tradition. Whenever an American vessel leaves port, the crew sings this ancient sea shanty. A One! A Two! A Three! A Four!"
+45703,197,192,795000,Captain Tenille,OFFICER'S MESS,You hear that? The whales are hungry.
+45705,197,194,799000,Captain Tenille,OFFICER'S MESS,Homer! Join us.
+45706,197,195,802000,Homer Simpson,OFFICER'S MESS,Thank you.
+45708,197,196,804000,Captain Tenille,OFFICER'S MESS,"Tell me, young man. What do you want out of life?"
+45709,197,197,807000,Homer Simpson,OFFICER'S MESS,I want peas.
+45710,197,198,809000,Captain Tenille,OFFICER'S MESS,We all want peace. But it's always just out of reach.
+45711,197,199,813000,Homer Simpson,OFFICER'S MESS,Uh-huh.
+45712,197,200,814000,Captain Tenille,OFFICER'S MESS,So what's the best way to get peace?
+45713,197,201,817000,Homer Simpson,OFFICER'S MESS,With a knife.
+45714,197,202,818000,Captain Tenille,OFFICER'S MESS,"Exactly. Not with the olive branch but the bayonet. Ah Simpson, you're like the son I never had."
+45715,197,203,827000,Homer Simpson,OFFICER'S MESS,And you're like the father I never visit.
+45716,197,204,829000,Female Ensign,OFFICER'S MESS,"Sir, I was running a diagnostic, and there was an obstruction in torpedo tube number one."
+45717,197,205,834000,Captain Tenille,OFFICER'S MESS,"I'll take care of it. Oh, what the Hell -- Simpson, while I'm gone, you're in command."
+45718,197,206,840000,Homer Simpson,OFFICER'S MESS,Me?
+45719,197,207,840000,Female Ensign,OFFICER'S MESS,Him?
+45720,197,208,841000,Captain Tenille,OFFICER'S MESS,"Yes. Maybe it's the salt water in my veins, or the nitrogen bubbles in my brain, but I've taken a real shine to you."
+45722,197,210,854000,Captain Tenille,TORPEDO ROOM,"Seaman, open that torpedo tube!"
+45723,197,211,856000,Barney's Mom,TORPEDO ROOM,You'll never get a response talking to my son like that. You gotta poke him with a stick.
+45724,197,212,863000,Barney Gumble,TORPEDO ROOM,I don't wanna go to school today.
+45725,197,213,866000,Captain Tenille,TORPEDO ROOM,Oh for God's sake.
+45726,197,214,870000,Captain Tenille,TORPEDO ROOM,Contraband!
+45728,197,216,876000,Homer Simpson,Bridge,"Ooh, comfy."
+45729,197,217,877000,Moe Szyslak,Bridge,"Homer, we've got an enemy sub closing in fast. What do we do?"
+45730,197,218,881000,Homer Simpson,Bridge,I'unno.
+45731,197,219,886000,Female Ensign,Bridge,Fifteen seconds to collision. We need a decision!
+45732,197,220,888000,Homer Simpson,Bridge,Hmm. What would the Captain say in my spot?
+45733,197,221,891000,Captain Tenille,Bridge,Don't fire the torpedoes.
+45734,197,222,893000,Homer Simpson,Bridge,Fire the torpedoes!
+45736,197,224,899000,Captain Tenille,SUBMARINE,Auggh!
+45738,197,226,899000,Enemy Crewperson,ENEMY SUB,We've been hit by an officer!
+45739,197,227,901000,Enemy Captain,ENEMY SUB,"If they're gonna fire on us, we'll respond in kind! Fire!"
+45740,197,228,905000,Enemy Captain,ENEMY SUB,Not me! A torpedo!
+45742,197,230,912000,Moe Szyslak,S.S. JEBEDIAH,We're losin' power!
+45743,197,231,915000,Moe Szyslak,S.S. JEBEDIAH,We're losing back-up power!
+45707,197,232,916000,Moe Szyslak,S.S. JEBEDIAH,"We're down to mood lightin', here!"
+45744,197,233,928000,Homer Simpson,S.S. JEBEDIAH,"All right, all right, mellow out, everybody. The Captain'll know what to do."
+45745,197,234,931000,Barney Gumble,S.S. JEBEDIAH,You just shot the Captain outta the torpedo tube.
+45747,197,236,936000,Captain Horatio McCallister,SUBMARINE,Arrr!
+45748,197,237,936000,Moe Szyslak,SUBMARINE,"That means you're in charge, Homer."
+45749,197,238,939000,Homer Simpson,SUBMARINE,I am?
+45750,197,239,940000,Female Ensign,SUBMARINE,Those were the orders.
+45751,197,240,945000,Homer Simpson,SUBMARINE,Very well then. I'm a Captain.
+45752,197,241,947000,Homer Simpson,SUBMARINE,Mr. Moe -- steady as she goes!
+45753,197,242,951000,Moe Szyslak,SUBMARINE,Aye aye ya big dummy. Ehhh...what a dummy.
+45757,197,246,968000,Homer Simpson,S.S. JEBEDIAH BRIDGE,"Damage report, Mr. Moe."
+45758,197,247,970000,Moe Szyslak,S.S. JEBEDIAH BRIDGE,"Sonar, out. Navigation, out. Radio, out."
+45759,197,248,973000,Homer Simpson,S.S. JEBEDIAH BRIDGE,Enough of what's out! What's in?
+45760,197,249,974000,Moe Szyslak,S.S. JEBEDIAH BRIDGE,Ice-blended mocha drinks and David Schwimmer.
+45761,197,250,977000,Homer Simpson,S.S. JEBEDIAH BRIDGE,"Yes, he is handsome in an ugly sort of way."
+45762,197,251,980000,Female Ensign,S.S. JEBEDIAH BRIDGE,"Captain, how are we supposed to get home with no equipment?"
+45763,197,252,983000,Homer Simpson,S.S. JEBEDIAH BRIDGE,"Don't worry, I've been working on it. Hm... yes... uh huh... carry the two..."
+45764,197,253,989000,Homer Simpson,S.S. JEBEDIAH BRIDGE,All right. I can't waste any more time. People's lives are depending on me. Mr. Sulu -- make a left!
+45765,197,254,999000,Asian Ensign,S.S. JEBEDIAH BRIDGE,"Aye, aye, Captain. Setting course for Rigel 7... I mean, home."
+45766,197,255,1000000,Homer Simpson,S.S. JEBEDIAH BRIDGE,That's it. Left. Left. Steady as she goes.
+45767,197,256,1007000,Homer Simpson,S.S. JEBEDIAH BRIDGE,"On second thought, go right."
+45770,197,259,1025000,Kent Brockman,Simpson Home,"Well, sir, treason season started early this year as a nuclear sub was hijacked by local man Homer Simpson."
+45771,197,260,1032000,Marge Simpson,Simpson Home,Oh my God!
+45772,197,261,1033000,Lisa Simpson,Simpson Home,I told him that photo would come back to haunt him.
+45773,197,262,1036000,Kent Brockman,Simpson Home,Could Homer Simpson be a communist? His father spoke out on his behalf.
+45774,197,263,1041000,Grampa Simpson,Simpson Home,"My Homer is not a Communist. He may be a liar, a pig, an idiot, a Communist... but he is not a porn star."
+45776,197,265,1057000,Hick,Street,It's over there.
+45778,197,267,1061000,Russian Ambassador,GENERAL ASSEMBLY,The Soviet Union will be pleased to offer amnesty to your wayward wessel.
+45779,197,268,1061000,U.S. Ambassador,GENERAL ASSEMBLY,The Soviet Union? I thought you guys broke up.
+45780,197,269,1067000,Russian Ambassador,GENERAL ASSEMBLY,"Yes, that's what we wanted you to think!"
+45781,197,270,1091000,Lenin,GENERAL ASSEMBLY,Must crush capitalism!
+45783,197,272,1091000,Seymour Skinner,Springfield Elementary School,"Children, I'll be frank. In the event of nuclear war, we can only save our best and brightest."
+45784,197,273,1102000,Seymour Skinner,Springfield Elementary School,"Therefore, space in the fallout shelter will be reserved for Lisa Simpson, Martin Prince, our championship kickball team, and Sherri, but not Terri."
+45785,197,274,1113000,Nelson Muntz,Springfield Elementary School,Haw haw!
+45787,197,276,1117000,Sonar Operator,U.s. Aircraft Carrier,"Captain, the renegade sub is directly below us."
+45788,197,277,1120000,AIRCRAFT CARRIER CAPTAIN,U.s. Aircraft Carrier,Drop the depth charges. We'll either destroy it or force it to surface.
+45790,197,279,1127000,Homer Simpson,S.S. JEBEDIAH,Oh my God! We're all gonna die!
+45791,197,280,1130000,Homer Simpson,S.S. JEBEDIAH,Y'ello.
+45793,197,282,1131000,Barney Gumble,ENGINE ROOM,"Mayday! Mayday! The engine room has sprung a leak! It's filling up with a clear, non-alcoholic liquid."
+45794,197,283,1137000,Homer Simpson,ENGINE ROOM,You mean water?
+45795,197,284,1138000,Barney Gumble,ENGINE ROOM,"Yeah, that's it. We've got a pinhole leak and there's no way to plug it!"
+45796,197,285,1142000,Homer Simpson,ENGINE ROOM,I guess that's it. Ladies and gentlemen... We're in a tough spot and I don't know if we're gonna get out. Please remain calm and think of your loved ones.
+45797,197,286,1150000,Thought Bubble Moe,ENGINE ROOM,"Oh, Mr. Snookims. Oh, I wuv you so. What are you lookin' at!?"
+45798,197,287,1161000,Customer,ENGINE ROOM,"Hey, this stupid machine took my money!"
+45799,197,288,1166000,Apu Nahasapeemapetilon,ENGINE ROOM,Don't ever change.
+45800,197,289,1170000,Thought Bubble Bart,ENGINE ROOM,Sparkle sparkle!
+45801,197,290,1171000,Homer Simpson,ENGINE ROOM,Bart!
+45802,197,291,1172000,Thought Bubble Barney,ENGINE ROOM,Pinhole leak.
+45803,197,292,1175000,Thought Bubble Bart,ENGINE ROOM,"Dad, the earring could plug the hole."
+45804,197,293,1177000,Homer Simpson,ENGINE ROOM,"I'll plug your hole. I mean, eureka!"
+45807,197,296,1208000,Apu Nahasapeemapetilon,Bridge,"You saved us, Homer."
+45808,197,297,1209000,Homer Simpson,Bridge,"Mr. Moe, prepare to surface."
+45809,197,298,1212000,Moe Szyslak,Bridge,You wanna stop calling me Mr. Moe?
+155090,197,299,1214000,Homer Simpson,Bridge,No.
+45810,197,301,1229000,AIRCRAFT CARRIER CAPTAIN,Pacific Ocean,"Attention, Homer Simpson! You have ten seconds to explain your actions before we open fire!"
+45811,197,302,1234000,Homer Simpson,Pacific Ocean,Uhhh... it's my first day!
+45812,197,303,1247000,Homer Simpson,Pacific Ocean,Es mi dia primero. Wuo gang kai shuchun gong chuo Quack quack quack.
+45815,197,306,1256000,AIRCRAFT CARRIER CAPTAIN,NAVAL COURTROOM,"Seaman Simpson, your actions have given the Navy a black eye from which it may never recover. I would throw the book at you, but I've been indicted in the Tailhook Scandal. Goodbye."
+45816,197,307,1266000,Admiral #1,NAVAL COURTROOM,"I too would punish you, but I'm under indictment for accepting bribes from military contractors."
+45817,197,308,1273000,Admiral #3,NAVAL COURTROOM,"Um, I torpedoed a Carnival Cruise Ship."
+45818,197,309,1275000,Admiral #4,NAVAL COURTROOM,Impersonating the First Lady.
+45819,197,310,1280000,Janitor,NAVAL COURTROOM,I think you're off the hook.
+45820,197,311,1282000,Homer Simpson,NAVAL COURTROOM,Woo hoo!
+45822,197,313,1286000,Marge Simpson,Courtroom,A dishonorable discharge! It's the best we could've hoped for.
+45823,197,314,1291000,Homer Simpson,Courtroom,"You can't spell ""dishonorable"" without ""honorable."""
+45824,197,315,1291000,Lisa Simpson,Courtroom,"I think you're a hero, Dad."
+45825,197,316,1297000,Homer Simpson,Courtroom,"Well, I couldn't have done it without Bart."
+45826,197,317,1299000,Homer Simpson,Courtroom,"Boy, I guess I was wrong about that earring. It saved us all."
+45827,197,318,1303000,Bart Simpson,Courtroom,"Then can I get a tattoo that says, ""Bite Me?"" You never know when it might come in handy."
+45828,197,319,1308000,Homer Simpson,Courtroom,"I don't think so, son."
+45829,197,320,1309000,Bart Simpson,Courtroom,A king cobra?
+45830,197,321,1309000,Homer Simpson,Courtroom,No.
+45831,197,322,1310000,Bart Simpson,Courtroom,Weapons-grade plutonium?
+45832,197,323,1311000,Homer Simpson,Courtroom,Ask your mother.
+45833,197,324,1311000,Bart Simpson,Courtroom,Knock-out drops?
+45834,197,325,1313000,Homer Simpson,Courtroom,No.
+45835,197,326,1313000,Bart Simpson,Courtroom,Ninja death stars?
+45836,197,327,1314000,Homer Simpson,Courtroom,Maybe for Christmas.

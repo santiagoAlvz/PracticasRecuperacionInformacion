@@ -1,0 +1,232 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+134008,516,1,8000,Kent Brockman,Springfield Town Square,"Welcome to the Montgomery Burns Prize rewarding ""excellence"" in the field of alternative energy. Local inventors are vying for a million-dollar stipend donated by C. Montgomery Burns...as part of a court settlement for causing one billion dollars of environmental damage."
+134009,516,2,24000,C. Montgomery Burns,Springfield Town Square,Shoo! Go have one of your enormous litters!
+134011,516,4,29000,C. Montgomery Burns,SPRINGFIELD - DOWNTOWN,"First inventor: you, bus driver! Give us the gist of your terrible idea!"
+134012,516,5,33000,Otto Mann,SPRINGFIELD - DOWNTOWN,"Well, I've harnessed the ancient power of slavery to run this school bus of tomorrow."
+134013,516,6,43000,Jimbo Jones,SPRINGFIELD - DOWNTOWN,Whose boy is this?
+134014,516,7,44000,Kirk Van Houten,SPRINGFIELD - DOWNTOWN,I'll take him home.
+134015,516,8,46000,Jimbo Jones,SPRINGFIELD - DOWNTOWN,You'll take his place!
+134016,516,9,49000,Apu Nahasapeemapetilon,SPRINGFIELD - DOWNTOWN,I would like to present my Kwik-E-Smart perpetual energy machine.
+134017,516,10,53000,Apu Nahasapeemapetilon,SPRINGFIELD - DOWNTOWN,"Three years ago, I tripped over the cord."
+134018,516,11,53000,Apu Nahasapeemapetilon,SPRINGFIELD - DOWNTOWN,"But the hotdogs -- they kept rolling. Some say they're powered by decaying nitrates, others by tiny insects beneath the hotdog skins."
+134019,516,12,66000,Kent Brockman,SPRINGFIELD - DOWNTOWN,"Hard to believe I once turned down a job in Tampa, Florida because I believed in this city."
+134020,516,13,70000,Carl Carlson,SPRINGFIELD - DOWNTOWN,That was fifteen years ago! They wouldn't take you now!
+134021,516,14,72000,Kent Brockman,SPRINGFIELD - DOWNTOWN,Is anyone here an actual scientist?
+134022,516,15,74000,Professor Jonathan Frink,SPRINGFIELD - DOWNTOWN,"Uh, yes, I have on occasion dabbled in the scientific arts."
+134023,516,16,78000,Professor Jonathan Frink,SPRINGFIELD - DOWNTOWN,"Frink Labs, a division of Allied Frink, the Good-Glavin people, are proud to present the Frinkasonic M.H.V."
+134024,516,17,87000,Kent Brockman,SPRINGFIELD - DOWNTOWN,"And what, pray tell, is M.H.V.?"
+134025,516,18,89000,Professor Jonathan Frink,SPRINGFIELD - DOWNTOWN,"Ah, yes. It's the Moyvin-Hoyvin Vehicle. This non-magnetic babe magnet is powered entirely by, you guessed it, sound waves."
+134027,516,20,103000,Professor Jonathan Frink,SPRINGFIELD - DOWNTOWN,"Ah yes, you see? Your quite appropriate oohs and aahs are propelling me forward. It's wonderful."
+134029,516,22,111000,Professor Jonathan Frink,SPRINGFIELD - DOWNTOWN,Slightly more enthusiasm than I had anticipated.
+134031,516,24,115000,Sideshow Mel,SPRINGFIELD - DOWNTOWN,"For the love of God, step on the brakes!"
+134032,516,25,118000,Professor Jonathan Frink,SPRINGFIELD - DOWNTOWN,The brakes are powered by silence!
+134034,516,27,124000,Professor Jonathan Frink,SPRINGFIELD - DOWNTOWN,Look out because of the zooming! Why is it ejecting? It's just a normal seat!
+134038,516,31,141000,Grampa Simpson,Simpson Home,I'm okay! I'll just go live with my son!
+134040,516,33,148000,Marge Simpson,Simpson Home,Hurry up! I want to get Grampa back here by three so we can get him and Maggie on the same nap schedule.
+134041,516,34,155000,Bart Simpson,Simpson Home,I've labeled all his boxes!
+134042,516,35,157000,Homer Simpson,Simpson Home,"Well, I can't pick up something this heavy without my lifting belt."
+134044,516,37,162000,Marge Simpson,Simpson Home,You know you can't lift your lifting belt without wearing your belt-lifting-belt!
+134045,516,38,167000,Homer Simpson,Simpson Home,Oh no! I won't be able to help you pack up Grampa!
+134046,516,39,170000,Marge Simpson,Simpson Home,Fine. Just stay here and hold down the fort.
+134047,516,40,174000,Homer Simpson,Simpson Home,Hold down the fort?! With my bad back?!
+134049,516,42,183000,Homer Simpson,Simpson Home,"Man, that keyboard playing cat is so cute."
+134050,516,43,188000,Homer Simpson,Simpson Home,"""Villageville. Build your own authentic medieval village."" I must have something better to do."
+134051,516,44,198000,Homer Simpson,Simpson Home,And ca-lick!
+134052,516,45,202000,Homer Simpson,Simpson Home,"Finally, a woodcutter that will do what I tell him."
+134053,516,46,206000,Homer Simpson,Simpson Home,Holy moley! He's already made a clearing! Let's go for a glade!
+134054,516,47,217000,Homer Simpson,Simpson Home,Just call me DeForest Kelley. I gotta write that down and send it to Conan.
+134055,516,48,221000,Homer Simpson,Simpson Home,Move this here. Tap. Mill! Mill! Barn! Silo! Tavern-tavern-tavern-tavern-tavern-tavern! Brothel. Parsonage! Theater In The Round! And... hay pile...
+134056,516,49,240000,Homer Simpson,Simpson Home,"And the Lord saw what he had made, and it was good."
+134057,516,50,240000,Villageville Crowd,Simpson Home,Ewww!
+134058,516,51,248000,Homer Simpson,Simpson Home,"That's right, your Lord sticks his hand in his pants. And yes, it is the same hand I tapped you with."
+134059,516,52,262000,Homer Simpson,Simpson Home,"Well, if I've learned anything, it's that you can't have too much iron ore."
+134060,516,53,267000,Marge Simpson,Simpson Home,Maybe one of your tavern wenches can do the laundry.
+134061,516,54,271000,Homer Simpson,Simpson Home,You're back!
+134062,516,55,272000,Marge Simpson,Simpson Home,Did you spend this whole time doing fake chores in a fake village?
+134063,516,56,276000,Homer Simpson,Simpson Home,It's real to them!
+134065,516,58,276000,Bart Simpson,Simpson Home,Um... where's Santa's Little Helper?
+134066,516,59,282000,Homer Simpson,Simpson Home,I don't know -- the back yard?
+134067,516,60,283000,Lisa Simpson,Simpson Home,The back yard?! But what if he got out through your half-completed tunnel to Flanders's fridge?
+134069,516,62,290000,Bart Simpson,Simpson Backyard,I don't see him anywhere. You jackass! You lost our dog!
+134070,516,63,293000,Homer Simpson,Simpson Backyard,Oh my God. I forgot to feed my jackass!
+134071,516,64,299000,Electronic Donkey Voice,Simpson Backyard,Hank-hew!
+134072,516,65,301000,Homer Simpson,Simpson Backyard,You're hel-come!
+134074,516,67,307000,Bart Simpson,Simpson Home,Santa's Little Helper! Santa's Little Helllper!
+134075,516,68,313000,Lisa Simpson,Simpson Home,"I love that dog, but that is one long, stupid name."
+134078,516,71,327000,Bart Simpson,Simpson Home,What the hell?
+134079,516,72,329000,Homer Simpson,Simpson Home,"Oh, right."
+134080,516,73,332000,Marge Simpson,Simpson Home,"The animal shelter hasn't had any greyhounds turned in. Just a dachshund, a chow, and a pregnant raccoon."
+134081,516,74,338000,Homer Simpson,Simpson Home,A lot of good backups. How pregnant is the raccoon?
+134082,516,75,341000,Marge Simpson,Simpson Home,We don't want a raccoon.
+134083,516,76,342000,Homer Simpson,Simpson Home,"Good, Marge. Get their price down."
+134084,516,77,345000,Lisa Simpson,Simpson Home,"Dad, I just noticed something: you're not upset enough about this."
+134085,516,78,349000,Bart Simpson,Simpson Home,"Hey, Lisa's right. You're the only one who hasn't cried about the dog."
+134086,516,79,354000,Homer Simpson,Simpson Home,Not a crier.
+134087,516,80,355000,Lisa Simpson,Simpson Home,What?! You cry all the time! You cried when they canceled that show you hated.
+134088,516,81,360000,Homer Simpson,Simpson Home,Goofing on it made me feel wise!
+134091,516,84,367000,Bart Simpson,Simpson Home,He's alive!
+134092,516,85,370000,Marge Simpson,Simpson Home,And he didn't pee on the floor!
+133943,516,86,372000,Grampa Simpson,Simpson Home,"For me, that's a perfect day!"
+133975,516,87,377000,Marge Simpson,Simpson Home,"C'mere, little buddy."
+134094,516,88,377000,Bart Simpson,Simpson Home,"Dad, why'd you shut our dog in a cabinet?"
+134095,516,89,380000,Grampa Simpson,Simpson Home,I'll answer that: your father's an idjit!
+134096,516,90,383000,Homer Simpson,Simpson Home,I believe the word is idiote.
+134097,516,91,385000,Lisa Simpson,Simpson Home,How did Santa's Little Helper get in there?
+134098,516,92,388000,Homer Simpson,Simpson Home,I know what must have happened:
+134099,516,93,392000,Homer Simpson,Simpson Home,I'm gonna get a snack. But first... should I introduce the black plague? What could be the harm?
+134100,516,94,400000,Homer Simpson,Simpson Home,"Whoa, now I've gotta buy a corpse wagon. That's how they getcha."
+134101,516,95,405000,Homer Simpson,Simpson Home,It's amazing how many things they can make taste like cheese.
+134102,516,96,411000,Homer Simpson,Simpson Home,"Oh yeah, baby, I'm drinking you down to your knees."
+134103,516,97,416000,Homer Simpson,Simpson Home,GONNA DRINK AMMONIA / 'CAUSE IT TASTES LIKE CHEESE / WONDER WHAT WILL HAPPEN...
+134104,516,98,423000,Homer Simpson,Simpson Home,"A minstrel has composed a roundelay mocking me?! Torture, torture, torture!"
+134105,516,99,428000,Lisa Simpson,Simpson Home,"Well, it's time we showed this dog some love!"
+134107,516,101,435000,Bart Simpson,Simpson Home,"Hey Homer, how come you're not hugging the dog?"
+134108,516,102,437000,Homer Simpson,Simpson Home,He knows I love him. And he loves me.
+134110,516,104,441000,Homer Simpson,Simpson Home,"That's short for ""Rrright you are!"""
+134111,516,105,441000,Bart Simpson,Simpson Home,I don't think you even like Santa's Little Helper!
+134112,516,106,447000,Lisa Simpson,Simpson Home,You never take him for walks or sleep with him in your arms. And I suspect you've been chewing on his treats.
+134113,516,107,453000,Homer Simpson,Simpson Home,How are they his treats if I paid for them?
+134115,516,109,456000,Homer Simpson,Simpson Living Room,"Okay, okay. I'll be nicer to the dude. I've just never really been a dog person."
+134116,516,110,461000,Grampa Simpson,Simpson Living Room,Really? What about Bongo?
+134117,516,111,463000,Homer Simpson,Simpson Living Room,Bongo?! I told you never to ever talk about Bongo!
+134118,516,112,471000,Homer Simpson,Simpson Living Room,Ever!
+134119,516,113,473000,Lisa Simpson,Simpson Living Room,What just happened? Who's Bongo?
+134120,516,114,475000,Grampa Simpson,Simpson Living Room,Bongo was Homer's dog when he was a boy.
+134121,516,115,478000,Homer Simpson,Simpson Living Room,He's still my dog!
+134122,516,116,479000,Grampa Simpson,Simpson Living Room,We got him years ago...
+134123,516,117,482000,Homer Simpson,Simpson Living Room,"I don't know what you just said, but it's wrong! Wrong, wrong, wrong!"
+134125,516,118,485000,Grampa Simpson,Simpson Living Room,I was workin' long hours...
+134127,516,120,485000,Grampa Simpson,Large Industrial Factory,...at the Springfield Smokestack Factory.
+134129,516,122,493000,Grampa Simpson,YOUNGER GRAMPA AND MONA'S HOUSE,I was so tired when I got home. Then little Homer would start crying and crying. But Bongo knew just what to do.
+148197,516,125,507000,Young Grampa,YOUNGER GRAMPA AND MONA'S HOUSE,"Now, my dear, we can watch ""Mannix"" as a couple."
+134133,516,127,511000,Grampa Simpson,Simpson Living Room,"Unfortunately, like all true stories, this one has a crappy ending."
+134134,516,128,517000,Bart Simpson,Simpson Living Room,You have a story with an ending?!
+134135,516,129,519000,Grampa Simpson,Simpson Living Room,"Uh-huh. All my stories have endings now. They're putting something in my Jell-O down at the home. Anyway, Homer and that dog went together like Christmas and suicidal thoughts."
+134144,516,131,530000,Young Grampa,Springfield - Homer's Boyhood,Awww.
+148198,516,132,574000,Young Grampa,Springfield - Homer's Boyhood,I had no clue.
+134137,516,133,578000,Grampa Simpson,Springfield - Homer's Boyhood,Then came the fateful day when Mr. Burns was lobbying for the go-ahead on his nuclear plant...
+134139,516,135,578000,Grampa Simpson,Springfield Nuclear Power Plant,"...and he was giving away stuffed ""Isotoads"" to all the children."
+134145,516,136,591000,Young Burns,Springfield Nuclear Power Plant,"Have a toy, don't thwart my ambition... Look, they even talk!"
+134140,516,137,596000,Toad,Springfield Nuclear Power Plant,Cancer clusters are random occurrences.
+148147,516,138,599000,Young Homer,Springfield Nuclear Power Plant,"Creepy. You can have mine, Bongo."
+134146,516,139,602000,Young Burns,Springfield Nuclear Power Plant,"Those toys are people bribes, you good-hearted little brat!"
+134147,516,140,606000,Young Burns,Springfield Nuclear Power Plant,He bit me!
+148199,516,141,608000,Young Grampa,Springfield Nuclear Power Plant,"Get him out of here, son! Now!"
+148200,516,142,612000,Young Grampa,Springfield Nuclear Power Plant,"Mr. Burns, I'm awfully sorry..."
+148254,516,143,615000,Young Burns,Springfield Nuclear Power Plant,"Oh, I'll be all right. Once I hold your dying pet in my arms and feel his wagging tail go stiff!"
+134141,516,144,621000,"Waylon Smithers, Sr.",Springfield Nuclear Power Plant,"Uh, sir, you are aware you're at a P.R. event for children."
+134148,516,145,626000,Young Burns,Springfield Nuclear Power Plant,Bring in the clown!
+134149,516,146,628000,Krusty the Clown,Springfield Nuclear Power Plant,"Hey-hey! So, Lady Godiva gets a haircut, right, and... Kids?! No problem. I'll just cut to my clean material. Farmer's daughter, no... A man from Nantucket, no... Bring out the monkey!"
+134150,516,147,649000,Krusty the Clown,Springfield Nuclear Power Plant,Next time I'm getting a smaller monkey.
+134151,516,148,655000,Krusty the Clown,Springfield Nuclear Power Plant,All right!
+134153,516,150,661000,Grampa Simpson,Simpson Living Room,"So Mr. Burns wanted to kill Homer's dog. Homer had no idea -- he was so innocent and chubby. 'Course now, he's just stupid and fat."
+134154,516,151,669000,Marge Simpson,Simpson Living Room,Focus!
+134155,516,152,669000,Grampa Simpson,Simpson Living Room,"Huh? Oh, right. Little Homer didn't know it..."
+134157,516,154,671000,Grampa Simpson,STREETS OF SPRINGFIELD - DAY,...but Burns had unleashed the local dog catcher to bring Bongo in.
+148148,516,155,679000,Young Homer,STREETS OF SPRINGFIELD - DAY,LITTLE HOMER HAD A DOG / AND BONGO WAS HIS NAME-O / B-O-ON-ON-GO / B-O-ON-ON-GO...
+134173,516,156,686000,Young Grampa,STREETS OF SPRINGFIELD - DAY,Get in -- quick!
+134158,516,157,688000,Grampa Simpson,STREETS OF SPRINGFIELD - DAY,This was before the day of safety seats and coming to a complete stop to let your child get in.
+134159,516,158,697000,Young Herman,STREETS OF SPRINGFIELD - DAY,"When God closes a door, he opens a gun shop."
+134160,516,159,702000,Lisa Simpson,STREETS OF SPRINGFIELD - DAY,Wait. How could you know what Herman said? You were driving away.
+134161,516,160,707000,Grampa Simpson,STREETS OF SPRINGFIELD - DAY,He wrote a memoir.
+134162,516,161,714000,Grampa Simpson,STREETS OF SPRINGFIELD - DAY,Anyway...
+134174,516,164,717000,Young Grampa,Grampa's Car,"Son, I've got an idea."
+148149,516,165,719000,Young Homer,Grampa's Car,A hole next to the seat to hold my cup?
+134175,516,166,721000,Young Grampa,Grampa's Car,"That's a stupid idea. Holding cups are what thighs are for. Now, hang on tight!"
+134167,516,169,731000,Chief Wiggum,Animal Control Van,"Mmm. Smell them sausages, Lou!"
+134168,516,170,734000,12-Year-Old Lou,Animal Control Van,Are you sure the Big Brother Program couldn't find me anybody else?
+134169,516,171,738000,Chief Wiggum,Animal Control Van,"Yeah, well you were my last pick too. Okay?"
+134170,516,172,745000,Chief Wiggum,Animal Control Van,I'm a wash-out as a dog catcher. What do I do now?
+134171,516,173,749000,12-Year-Old Lou,Animal Control Van,"Well, my dream is to be Police Chief."
+134172,516,174,751000,Chief Wiggum,Animal Control Van,"Oh no, you can't 'cause, um, that's my dream! I'm gonna be Chief of Police!"
+134142,516,175,754000,12-Year-Old Lou,Animal Control Van,"Well then I'll be a spokesman for my people, like Ralph Abernathy."
+134143,516,176,757000,Chief Wiggum,Animal Control Van,"Ralph, I like that name."
+134176,516,177,762000,Bart Simpson,Animal Control Van,"Man, this story is filling in a lot of gaps."
+134177,516,178,765000,Lisa Simpson,Animal Control Van,But I wanna know about Dad and his broken heart.
+134178,516,179,769000,Grampa Simpson,Animal Control Van,"Your father's lost a lot in his life, his hair, his mother, more games of Monopoly than any man ought... he'd go to jail and stay there 'cause he loves the easy life. But I think losing that dog was the toughest blow of all."
+148150,516,181,785000,Young Homer,YOUNGER GRAMPA'S CAR,"Where are we going, Daddy?"
+134192,516,182,787000,Young Grampa,YOUNGER GRAMPA'S CAR,"Remember our old neighbor Miss Viola? Well, she moved to the country, where there was no limit to how many pets one single lady could own."
+148151,516,183,794000,Young Homer,YOUNGER GRAMPA'S CAR,Miss Viola? Isn't she cuckoo?
+134193,516,184,797000,Young Grampa,YOUNGER GRAMPA'S CAR,"Now son, a lot of people are cuckoo till you need something from them."
+134181,516,186,802000,Grampa Simpson,COUNTRY ROAD - MORNING (30 YEARS AGO),"I knew that Bongo would have a good home there, and Burns would never find him."
+148201,516,187,808000,Young Grampa,COUNTRY ROAD - MORNING (30 YEARS AGO),"Gosh, Miss Viola, I want you and your husband to know how much I appreciate this."
+134182,516,188,815000,Miss Viola,COUNTRY ROAD - MORNING (30 YEARS AGO),"Well, let's get this dog in."
+148202,516,189,817000,Young Grampa,COUNTRY ROAD - MORNING (30 YEARS AGO),Son... why don't you give him your sweatshirt so he'll remember you.
+148152,516,190,825000,Young Homer,COUNTRY ROAD - MORNING (30 YEARS AGO),Okay. How long till we come back and get him?
+134183,516,191,829000,Grampa Simpson,COUNTRY ROAD - MORNING (30 YEARS AGO),I had to tell my boy we were giving away his dog for good. I wasn't sure if a six-year-old could even understand the concept.
+148153,516,192,839000,Young Homer,COUNTRY ROAD - MORNING (30 YEARS AGO),What?! No! No! No! Bongo!!
+134184,516,193,845000,Grampa Simpson,COUNTRY ROAD - MORNING (30 YEARS AGO),"Turns out, he caught on pretty quick."
+134186,516,195,852000,Grampa Simpson,Simpson Home,Your father was devastated.
+134187,516,196,855000,Grampa Simpson,Simpson Home,Women and their crying...
+134188,516,197,857000,Bart Simpson,Simpson Home,Finish the damn story. I've got a hockey game tonight.
+134190,516,199,863000,Grampa Simpson,Grampa and Homer's House,When I finally got back to the house...
+134194,516,200,866000,Young Burns,Grampa and Homer's House,Simpson! Release your hound!
+148203,516,201,869000,Young Grampa,Grampa and Homer's House,He's already gone! Where you'll never get him!
+134195,516,202,872000,Young Burns,Grampa and Homer's House,"I'm a powerful man, Simpson! I can walk into McDonalds, order soup and they'll make it!"
+134210,516,203,878000,Young Grampa,Grampa and Homer's House,Go on! Get! I got a bug zapper and I ain't afraid to use it!
+134213,516,204,882000,Young Burns,Grampa and Homer's House,Is that sugar water I smell?
+134214,516,205,886000,Young Burns,Grampa and Homer's House,"Well, I'm afraid I already told my dogs they could tear yours apart. Don't make me look into those pitiless black eyes and say, ""Daddy didn't bring you a friend-friend to rip-rip!"""
+148154,516,206,890000,Young Homer,Grampa and Homer's House,Where's Bongo? Is he still at the crazy lady's...
+134211,516,207,899000,Young Grampa,Grampa and Homer's House,"Back to sleep, son!"
+148204,516,208,905000,Young Grampa,Grampa and Homer's House,Listen... I can think of something you'd enjoy more than killing a dog.
+134215,516,209,911000,Young Burns,Grampa and Homer's House,Dropping a horse on a church?
+134212,516,210,912000,Young Grampa,Grampa and Homer's House,No! Breaking a man's spirit. Mine.
+134216,516,211,917000,Young Burns,Grampa and Homer's House,Well I guess I could always drop a horse on a church afterward... fine.
+134197,516,213,922000,Grampa Simpson,Burns Manor Dog Kennel,I had to take care of his hounds for a year.
+134198,516,214,926000,Grampa Simpson,Burns Manor Dog Kennel,"I tried to wear a bite-proof suit, but those Satanic Snoopys always found their way in."
+148255,516,216,938000,Young Burns,Burns Manor,I'm not done with you. I insist you never wear shoes or a proper necktie again. Just house slippers and the most humiliating tie there is: bolo.
+134201,516,219,952000,Grampa Simpson,Grampa and Homer's House,But the hardest part was that my son was so angry with me.
+148206,516,220,956000,Young Grampa,Grampa and Homer's House,How was school today?
+148155,516,221,958000,Young Homer,Grampa and Homer's House,"Ketchup, please."
+148207,516,222,960000,Young Grampa,Grampa and Homer's House,Probably wondering how I got rabies... Well...
+148156,516,223,962000,Young Homer,Grampa and Homer's House,I'm-not-hungry-anymore.
+134202,516,224,964000,Grampa Simpson,Grampa and Homer's House,"Our relationship never recovered, and no amount of ignoring the problem could ever fix it."
+134204,516,226,971000,Lisa Simpson,Simpson Home,"Grampa, why is the saddest story you ever told the only one that's ever made sense?"
+134205,516,227,977000,Homer Simpson,Simpson Home,It doesn't make sense to me!
+134206,516,228,979000,Homer Simpson,Simpson Home,I happen to remember it just a little differently.
+134207,516,229,983000,Marge Simpson,Simpson Home,"Well, tell us your version."
+134208,516,230,985000,Homer Simpson,Simpson Home,"Now granted, I was just a kid, but I say..."
+134217,516,231,988000,Homer Simpson,Simpson Home,Grampa always hated Bongo and loved money so he sold Bongo to a wicked farm witch just so he could hang out with a bunch of rich dogs and kidnapped Santa so I'd never get the toy I actually wanted--
+134218,516,232,1002000,Homer Simpson,Simpson Home,"And then... and then wha... and then what happened... what... gee, my story doesn't make much sense except the Santa part."
+134219,516,233,1013000,Bart Simpson,Simpson Home,"Yeah, but at least it was short."
+134220,516,234,1015000,Homer Simpson,Simpson Home,"Wait. Wait. There's one part of the story even Grampa didn't know about: a few months later, I went to rescue Bongo..."
+134222,516,236,1031000,Miss Viola,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,"Hendrix! C'mere, boy!"
+134223,516,237,1036000,Homer Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,"But, there was one thing I wasn't prepared for..."
+134224,516,238,1039000,Homer Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,Bongo was happy. Without me. He had become her dog.
+134225,516,239,1046000,Marge Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,Oh Homie. I'm so sorry.
+134226,516,240,1050000,Homer Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,"Well, that's just the way dogs are. The most disloyal unfaithful creatures God ever made."
+134227,516,241,1055000,Grampa Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,"Homer, maybe you should take a look at this."
+134228,516,242,1058000,Grampa Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,A Christmas card I got from Miss Viola years later.
+134229,516,243,1065000,Homer Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,He still has my sweatshirt.
+134230,516,244,1067000,Grampa Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,"Bongo didn't forget you. Unlike those gerbils of yours we gave away years ago. Oh, they were fickle as hell."
+134231,516,245,1071000,Grampa Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,Bongo didn't forget you. Unlike those gerbils of yours we gave away. They were fickle as Hell.
+134232,516,246,1073000,Homer Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,"Oh my God, Dad... I owe you an apology. You saved Bongo. I never understood that till now."
+134233,516,247,1084000,Grampa Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,All these years I thought you loved that dog more than me.
+134234,516,248,1088000,Homer Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,"Why would you think that, just because I put you in a home where they feed you dog food?"
+134235,516,249,1097000,Grampa Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,"Aw, give me a hug, son."
+134236,516,250,1100000,Homer Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,"Okay, but I'm a little out of practice."
+134237,516,251,1102000,Grampa Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,Hold your arms like you're carrying a wedding cake!
+134238,516,252,1106000,Homer Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,What flavor?
+134239,516,253,1107000,Grampa Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,It doesn't matter!
+134240,516,254,1108000,Homer Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,"If it doesn't matter, then I call Snickers."
+134191,516,255,1110000,Grampa Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,That's not a flavor!
+134209,516,256,1112000,Homer Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,Everything's a flavor in the kitchens of today!
+134242,516,257,1115000,Marge Simpson,COUNTRY ROAD - NEAR MISS VIOLA'S FARM,Just hug already!
+134244,516,259,1120000,Marge Simpson,Simpson Home,Homie?
+134245,516,260,1125000,Bart Simpson,Simpson Home,"C'mon, boy. Time to go to bed."
+134246,516,261,1127000,Homer Simpson,Simpson Home,My dog.
+134247,516,262,1129000,Bart Simpson,Simpson Home,"All right, Homer. It's your moment. But he's mine tomorrow."
+134251,516,266,1135000,Waylon Smithers,Castle,"More tea, sir?"
+134252,516,267,1160000,C. Montgomery Burns,Castle,No. Any word from Karl Rove?
+134253,516,268,1162000,Waylon Smithers,Castle,"Sir, despite what he's been telling you, it's over. Romney lost."
+134254,516,269,1164000,C. Montgomery Burns,Castle,"Dammit! I guess it's time I explain, to these good people, the upcoming..."
+134255,516,270,1165000,C. Montgomery Burns,Castle,Fiscal cliff.
+134256,516,271,1174000,C. Montgomery Burns,Castle,"Think of the economy as a car and the rich man as the driver. If you don't give the driver all the money, he'll drive you over a cliff. It's just common sense. Furthermore, rich people feel things more deeply than the common man."
+134258,516,273,1191000,C. Montgomery Burns,Springfield Republican Party Headquarters,"And we've got to change our approach to immigration. I have a progressive proposal to let into this country, two hundred grimy Irishmen a year. I've got lots of potatoes that need peeling and stables to be mucked out."
+134259,516,274,1203000,Waylon Smithers,Springfield Republican Party Headquarters,"Sir, the Insta-polls are in. You're just digging yourself deeper."
+134260,516,275,1206000,C. Montgomery Burns,Springfield Republican Party Headquarters,Well then let me just say this: Marco Rubio es un pañuelo rosa!
+134261,516,276,1208000,Waylon Smithers,Springfield Republican Party Headquarters,I'm afraid you just made things even worse.
+134262,516,277,1212000,C. Montgomery Burns,Springfield Republican Party Headquarters,How? Why?
+134263,516,278,1214000,Waylon Smithers,Springfield Republican Party Headquarters,"You just said ""Marco Rubio is a pink handkerchief."""
+134264,516,279,1216000,C. Montgomery Burns,Springfield Republican Party Headquarters,This public service announcement is over!
+134265,516,280,1219000,C. Montgomery Burns,Springfield Republican Party Headquarters,Execute the cameraman!

@@ -1,0 +1,216 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+35988,162,1,11000,Homer Simpson,Simpson Home,"Oh, why do they have to put all this crud in my newspaper? ""World""... ""The Arts""... ""Religion"" Aha! Here it is: ""Kickin' Back!"""
+35989,162,2,39000,Homer Simpson,Simpson Home,"Hey, who cut something out of my paper?"
+35990,162,3,44000,Lisa Simpson,Simpson Home,Not me.
+35991,162,4,45000,Bart Simpson,Simpson Home,Not me. I'm more of a mail-tamperer.
+35994,162,5,47000,Marge Simpson,Simpson Home,"Well, don't look at me... just because I'm holding a pair of scissors. Scissors which I need... to uh... to gussy-up these curtains."
+35995,162,6,61000,Homer Simpson,Simpson Home,"Hello? Oh, hi, Lenny... No. Why would I need a ride this afternoon?"
+35996,162,7,68000,Homer Simpson,Simpson Home,Where? To the big annual what?
+35997,162,8,74000,Homer Simpson,Simpson Home,"Lenny? Aw, well. If it was big and annual I'm sure they'd have mentioned it in the newspaper."
+35998,162,9,81000,Homer Simpson,Simpson Home,"Yeah, it's a lazy dog-dangling afternoon. But something's a little off..."
+35999,162,10,89000,Homer Simpson,Simpson Home,"Hey, Marge, you don't smoke!"
+36000,162,11,91000,Marge Simpson,Simpson Home,"Well, I just felt like filling the house with the rich, satisfying smell of tobacco."
+36001,162,12,100000,Homer Simpson,Simpson Home,You're nuts. I gotta get some fresh air.
+36002,162,13,104000,Marge Simpson,Simpson Home,"No, Homie, wait!"
+36003,162,14,105000,Homer Simpson,Simpson Home,"What's wrong with you? What are you trying to hide from m-- What's that smell? Onions... Chili powder... Cumin... Juicy ground chuck... It's chili! Oh my God, I'm missing the Chili Cook-Off!"
+36004,162,15,118000,Homer Simpson,Simpson Home,I'm missing the Cook-Off! It's going on right now and I'm missin' it!
+36005,162,16,122000,Marge Simpson,Simpson Home,"All right, I was trying to keep it from you, but I had a good reason. Every time you go to that cook-off, you get drunk as a poet on payday. Remember last year?"
+36007,162,18,132000,Homer Simpson,FAIRGROUNDS,Look at me! I'm a puffy pink cloud!
+36008,162,19,142000,Homer Simpson,FAIRGROUNDS,"Oh, well, of course... everything looks bad if you remember it. Now where are my chili boots? Ah!"
+36009,162,20,152000,Marge Simpson,FAIRGROUNDS,"Okay, we'll go to the Chili Cook-Off. But I want you to promise me you won't have any beer."
+36010,162,21,158000,Homer Simpson,FAIRGROUNDS,"Okay, quit naggin' me. I won't have any beer. Geez, why don't you have a cigarette or something?"
+36011,162,22,162000,Marge Simpson,FAIRGROUNDS,"Mmm, I suppose I could..."
+36013,162,24,171000,Lisa Simpson,Chili Cook-Off,I'm gonna go get some vegetarian chili before they get desperate and add meat.
+36014,162,25,175000,Bart Simpson,Chili Cook-Off,I'm gonna go claim some valuables at the Lost and Found.
+36015,162,26,178000,Marge Simpson,Chili Cook-Off,"Ooh, look at that adorable spice rack!"
+36016,162,27,181000,Marge Simpson,Chili Cook-Off,"Eight spices! Oh, some must be doubles. ""Or-uh-GAHN-o?"" What the hell...?"
+36017,162,28,187000,Homer Simpson,Chili Cook-Off,"Marge, we're missing the chili! Less artsy, more fartsy!"
+35992,162,29,192000,Marge Simpson,Chili Cook-Off,"Homer, I happen to like handicrafts much more than stuffing my face."
+36018,162,30,196000,Homer Simpson,Chili Cook-Off,Fine. I'll come find you when I'm ready to stop having fun.
+36019,162,31,200000,Marge Simpson,Chili Cook-Off,Remember your promise: no drinking.
+36020,162,32,204000,Homer Simpson,Chili Cook-Off,Stupor Pooper.
+36021,162,33,211000,HELEN,Chili Cook-Off,"Howdy howdy, Marge and Hom-- oh, my mistake, Homer's not even with you! Probably just knocking back a few ""refreshments."""
+36022,162,34,216000,Marge Simpson,Chili Cook-Off,"Thank you for your concern, Helen. Homer isn't drinking today."
+36023,162,35,223000,HELEN,Chili Cook-Off,Oh. I think it's lovely that he said that... and that you believed him!
+36024,162,36,228000,Rev. Timothy Lovejoy,Chili Cook-Off,"Now, Helen, let us not glory in Homer's binge-drinking. There but for the grace of God goes Marge herself."
+36025,162,37,248000,Otto Mann,Chili Cook-Off,"Oh, man, he's here! The dude with the fireproof stomach!"
+36026,162,38,255000,Various Onlookers,Chili Cook-Off,The spoon!
+36027,162,39,257000,Lenny Leonard,Chili Cook-Off,"They say he carved it himself, from a bigger spoon."
+36028,162,40,264000,Homer Simpson,Chili Cook-Off,"Five-alarm chili, eh?"
+36029,162,41,266000,Ned Flanders,Chili Cook-Off,Um-hm.
+36030,162,42,267000,Homer Simpson,Chili Cook-Off,"One... two... Hey, what's the big idea?"
+36031,162,43,274000,Ned Flanders,Chili Cook-Off,"Oh, I admit it! It's only two-alarm -- two-and-a-half tops! I just wanted to be a big man in front of the kids."
+36032,162,44,281000,Todd Flanders,Chili Cook-Off,"Daddy, are you going to jail?"
+36033,162,45,284000,Ned Flanders,Chili Cook-Off,"We'll see, son. We'll see."
+36034,162,46,291000,Waylon Smithers,Chili Cook-Off,"Evenin', little lady. Do you reckon a square could get a dance?"
+36035,162,47,296000,Marge Simpson,Chili Cook-Off,It looks so complicated... Do you know how?
+36036,162,48,301000,Waylon Smithers,Chili Cook-Off,"Ma'am, I wouldn't honk the honk if I couldn't tonk the tonk."
+36037,162,49,308000,Marge Simpson,Chili Cook-Off,Woo-woo!
+36038,162,50,312000,Homer Simpson,Chili Cook-Off,"Hmmm. A bland, timid entry -- suitable, perhaps, for patients recovering from surgery. Heh, heh, heh."
+36039,162,51,320000,Chief Wiggum,Chili Cook-Off,"That Simpson, he thinks he's the Pope of Chilitown. Well, this year I am ready for him!"
+36040,162,52,331000,Homer Simpson,Chili Cook-Off,"Hello, Chief."
+36041,162,53,336000,Chief Wiggum,Chili Cook-Off,"Afternoon, Homer. Care for some chili? I've added an extra ingredient just for you. The merciless peppers of Quetzlzacatenango!"
+36042,162,54,349000,Chief Wiggum,Chili Cook-Off,Grown deep in the jungle primeval by the inmates of a Guatemalan insane asylum.
+36043,162,55,359000,Homer Simpson,Chili Cook-Off,"Uh, Wiggy...? My chili's gettin' cold."
+36045,162,57,373000,Homer Simpson,Chili Cook-Off,Hot! Hot!
+35936,162,60,383000,Homer Simpson,Chili Cook-Off,Beer! Gimme some beer!
+35965,162,61,384000,Marge Simpson,Chili Cook-Off,Homer!
+36046,162,62,386000,Marge Simpson,Chili Cook-Off,You promised you wouldn't drink!
+36047,162,63,388000,Homer Simpson,Chili Cook-Off,But I need it!
+36048,162,64,393000,Homer Simpson,Chili Cook-Off,"Aw, lousy Wiggum. Now the whole town thinks I'm a chili wuss..."
+36049,162,65,398000,Ralph Wiggum,Chili Cook-Off,"Wait, mister! You're drinking a candle!"
+36050,162,66,401000,Ralph Wiggum,Chili Cook-Off,"You don't wanna get wax in your mouth, do you?"
+36051,162,67,405000,Homer Simpson,Chili Cook-Off,"Maybe I do, son. Maybe I do."
+36052,162,68,413000,Homer Simpson,Chili Cook-Off,Outstanding.
+36053,162,69,418000,Chief Wiggum,Chili Cook-Off,"Hey, everybody, look who's back! It's the biiig baby! Oh, this porridge is too hot! Oh, waah waah waah!"
+36055,162,71,428000,Chief Wiggum,Chili Cook-Off,"Want some more, do ya? Well, sure! Heck, it's not my job to talk people outta killin' themselves..."
+36057,162,73,440000,Homer Simpson,Chili Cook-Off,"More, please."
+36058,162,74,447000,Mayor Joe Quimby,Chili Cook-Off,Good Lord! This can't be happening!
+36059,162,75,449000,Dr. Julius Hibbert,Chili Cook-Off,"By all medical logic, steam should be shootin' out of his ears!"
+36060,162,76,452000,Krusty the Clown,Chili Cook-Off,His ears if we're lucky!
+36061,162,77,456000,Homer Simpson,Chili Cook-Off,"Well, Chief, don't quit your day job... heh, heh, heh... whatever that is."
+36062,162,78,467000,Homer Simpson,Chili Cook-Off,"Heh, heh! My finest hour! And Marge wasn't even here to see it."
+36063,162,79,476000,Homer Simpson,Chili Cook-Off,Ooh. I don't feel so good.
+36064,162,80,484000,Homer Simpson,Chili Cook-Off,Flanders! You gotta help me!
+36065,162,81,488000,Ned Flanders,Chili Cook-Off,"Sure, buddy, I'd be happy to..."
+36066,162,82,488000,Ned Flanders,Chili Cook-Off,...help out. What can I do-diddily-do...diddily-doodily-diddily-hoobily-hobbily-hibbily-gooble-gobble-gooble-gooble-gabba-gabba-hey?
+36067,162,83,502000,Jasper Beardly,Chili Cook-Off,Goo-goo-ga-joob?
+36068,162,84,504000,Nelson Muntz,Chili Cook-Off,Haw! Haw!... Haw! Haw!
+36071,162,87,518000,Ralph Wiggum,Chili Cook-Off,"Hey, mister, do you need some hel--"
+36072,162,88,520000,Otto Mann,Chili Cook-Off,"Let him go, Ralph. He knows what he's doing."
+36074,162,90,537000,Homer Simpson,Chili Cook-Off,"What's happening to me? Okay, retrace your steps... woke up, fought with Marge, ate Guatemalan insanity peppers. Then I -- Ohhhh."
+36076,162,92,549000,Homer Simpson,HALLUCINATORY DESERT,Where am I? Shelbyville?
+36078,162,93,555000,Homer Simpson,HALLUCINATORY DESERT,"Man, this is crazy. I hope I didn't brain my damage. I'd better check my pupils..."
+36079,162,94,572000,Homer Simpson,HALLUCINATORY DESERT,Oh... kay. I think I'm gonna be leaving now.
+36080,162,95,584000,Homer Simpson,HALLUCINATORY DESERT,"Huh? Sunrise, sunset... Sunrise, sunset... SUNRISE, SUNSET / SUNRISE, SUNSET..."
+36082,162,97,600000,Homer Simpson,HALLUCINATORY DESERT,Note to self: stop doing anything.
+36084,162,99,605000,Marge Simpson,Chili Cook-Off,Has anyone seen Homer?
+36085,162,100,608000,HELEN,Chili Cook-Off,"Marge, better you hear it from me than some gossipy neighbor -- Homer made a total jackass of himself."
+36086,162,101,613000,Rev. Timothy Lovejoy,Chili Cook-Off,"Oh, Helen, that's enough. Call off your dogs."
+36087,162,102,616000,HELEN,Chili Cook-Off,"Oh, but someone had to tell her. And I got here first!"
+36088,162,103,619000,Rev. Timothy Lovejoy,Chili Cook-Off,"Helen, zip it! Zip!"
+36089,162,104,619000,Helen Lovejoy,Chili Cook-Off,"Oh, please... Tim!..."
+36090,162,105,622000,Rev. Timothy Lovejoy,Chili Cook-Off,Ziparoo!
+36091,162,106,624000,Marge Simpson,Chili Cook-Off,"No beer, huh? I guess I know what a promise from Homer J. Simpson is worth."
+36093,162,108,637000,Homer Simpson,HALLUCINATORY DESERT,Hey buddy! Get back there with the other rocks!
+36094,162,109,641000,Homer Simpson,HALLUCINATORY DESERT,Huh? A tortoise?
+36095,162,110,644000,Homer Simpson,HALLUCINATORY DESERT,Follow... the... This must be why I'm here! Follow the what? Follow the what? Hurry up!
+36097,162,112,656000,Homer Simpson,HALLUCINATORY DESERT,"Get moving, you stupid... When I'm kicking you, that means ""hurry up"". Come on!"
+36098,162,113,676000,Homer Simpson,HALLUCINATORY DESERT,"Oh. You want me to climb that, huh? No problemo."
+36099,162,114,686000,Homer Simpson,HALLUCINATORY DESERT,"This is 'cause I kicked you, isn't it?"
+36101,162,116,693000,Bart Simpson,Simpson Car,"Lis, check it out. Time for chili."
+36102,162,117,696000,Lisa Simpson,Simpson Car,"I saw it, Bart."
+36103,162,118,698000,Bart Simpson,Simpson Car,You're just mad cause there's no clock in your hat.
+36104,162,119,700000,Lisa Simpson,Simpson Car,What hat?
+36105,162,120,702000,Bart Simpson,Simpson Car,"Aw, this baby's wasted on an idiot like you. Where's Homer?"
+36106,162,121,706000,Marge Simpson,Simpson Car,Your father decided he'd rather come home in a taxi. Or a police car.
+36108,162,123,716000,Homer Simpson,HALLUCINATION,Marge! Thank God you're here! Where's the car?
+36109,162,124,719000,Homer Simpson,HALLUCINATION,"Marge? Marge? Oh, now what? If you're still mad at me, I'm gonna be really mad."
+36077,162,125,728000,Homer Simpson,HALLUCINATION,"Come on, Marge! Will you... Fight fair! I never do this to you!"
+35812,162,126,732000,Homer Simpson,HALLUCINATION,Talk to me!!
+36110,162,128,742000,Homer Simpson,HALLUCINATION,"Aw, I hate this place! Why am I here?!"
+36111,162,129,747000,Voice,HALLUCINATION,You are on a quest for knowledge.
+36112,162,130,749000,Homer Simpson,HALLUCINATION,Who said that?
+36113,162,131,760000,Coyote,HALLUCINATION,"Fear not, Homer. I am your spirit guide."
+36114,162,132,763000,Homer Simpson,HALLUCINATION,Hiya.
+36115,162,133,764000,Coyote,HALLUCINATION,There is a lesson you must learn.
+36116,162,134,766000,Homer Simpson,HALLUCINATION,"If it's about laying off the insanity peppers, I'm way ahead of you."
+36117,162,135,770000,Coyote,HALLUCINATION,"No, I speak of a deeper wisdom. The problem, Homer, is that the mind is always chattering away, with a thousand thoughts at once."
+36118,162,136,779000,Homer Simpson,HALLUCINATION,"Yeah, that's me all right."
+36119,162,137,784000,Coyote,HALLUCINATION,Clarity is the path to inner peace.
+36120,162,138,787000,Homer Simpson,HALLUCINATION,But what should I do? Should I meditate? Should I get rid of all my possessions?
+36121,162,139,792000,Coyote,HALLUCINATION,"Are you kidding? If anything, you should get more possessions. You don't even have a computer!"
+36122,162,140,798000,Homer Simpson,HALLUCINATION,"You know, I have been meaning to take a spiritual journey, and I would -- Hey!!"
+36124,162,142,805000,Homer Simpson,HALLUCINATION,Knock it off!
+36125,162,143,807000,Coyote,HALLUCINATION,Sorry. I am a coyote...
+36126,162,144,810000,Homer Simpson,HALLUCINATION,"Look, just gimme some inner peace, or I'll mop the floor with ya."
+36127,162,145,814000,Coyote,HALLUCINATION,"Good. Your mind is in a state of readiness. So listen well: To make yourself complete, you must find your soul mate."
+36128,162,146,823000,Homer Simpson,HALLUCINATION,Soul mate?
+36129,162,147,824000,Coyote,HALLUCINATION,"Your kindred spirit. The one with whom you share an unspoken bond... a profound, mystical understanding."
+36130,162,148,832000,Homer Simpson,HALLUCINATION,"That's it? Well, that's Marge. Big deal. Great spiritual quest, wolfie. My soul mate is Marge."
+36131,162,149,840000,Coyote,HALLUCINATION,Is it?
+36132,162,150,848000,Homer Simpson,HALLUCINATION,"Hey, wait! Come back!..."
+36133,162,151,854000,Homer Simpson,HALLUCINATION,A ghost train! And so little time to get out of the way!... Now less!... Now none!
+36137,162,155,863000,Kent Brockman,Springfield Glen Country Club,"Hey, get off the course, you bum! Security!"
+36138,162,156,869000,Homer Simpson,Springfield Glen Country Club,"Wha? Golf course? Did I dream that whole thing? Maybe the desert was just this sand trap... Oh, and I bet that crazy pyramid was just the Pro Shop!"
+36140,162,157,882000,Homer Simpson,Springfield Glen Country Club,And that talking coyote was really just a talking dog.
+36141,162,158,885000,Dog,Springfield Glen Country Club,"Hi, Homer. Find your soul mate."
+36142,162,159,887000,Homer Simpson,Springfield Glen Country Club,"Hey, wait a minute. There's no such thing as a talking dog."
+36144,162,161,892000,Homer Simpson,Springfield Glen Country Club,Damn straight.
+36146,162,163,893000,Bart Simpson,Simpson Home,"So then I says to Mabel, I says..."
+36147,162,164,895000,Homer Simpson,Simpson Home,"Hi, kids."
+36148,162,165,896000,Bart Simpson,Simpson Home,"I'll finish this later. Hi, Dad."
+36149,162,166,897000,Homer Simpson,Simpson Home,Where's your mother?
+36150,162,167,899000,Lisa Simpson,Simpson Home,Out back.
+36151,162,168,900000,Bart Simpson,Simpson Home,"So anyway, I says to Mabel, I says..."
+36152,162,169,902000,Homer Simpson,Simpson Home,"Hi, honey."
+36153,162,170,905000,Homer Simpson,Simpson Home,Uh-oh. I guess you're cranky because I didn't come home last night...
+36154,162,171,911000,Marge Simpson,Simpson Home,"I'm ""cranky"" because my husband got drunk and humiliated me in front of the entire town. You broke your promise, Homer."
+36155,162,172,919000,Homer Simpson,Simpson Home,"Oh, honey, I didn't get drunk. I just went to a strange fantasy world. C'mon, you gotta believe me. You're my soul mate."
+36156,162,173,928000,Marge Simpson,Simpson Home,"Don't ""soul mate"" me!"
+36157,162,174,929000,Homer Simpson,Simpson Home,Okay.
+36158,162,175,933000,Homer Simpson,Simpson Home,"That coyote said my soul mate would understand me, but Marge doesn't understand me at all. Maybe we're not kindred spirits. We don't have anything in common..."
+36159,162,176,945000,Homer Simpson,Simpson Home,"Look at these records! Jim Nabors, Glen Campbell, the Doodletown Pipers! Now look at her records... They stink! Maybe I had that crazy dream for a reason..."
+36160,162,177,961000,Homer Simpson,Simpson Home,"Wherever my soul mate is, it's not here."
+36161,162,178,974000,Homer Simpson,Simpson Home,"...I always just figured my wife was my soul mate. But if it's not Marge, then who is it? Where do I begin looking?"
+36163,162,180,981000,Furniture Salesman,Bob's All-Night Furniture Store,"This really goes beyond my training as a furniture salesman, sir. Now if you don't want the sofa, I'll have to ask you to leave."
+36165,162,182,990000,Homer Simpson,Moe's Tavern,"Hey, Barney! Soul mate! Let me buy you a beer."
+36166,162,183,993000,Barney Gumble,Moe's Tavern,"Okay, but I'm not your soul mate. I'm really more of a chum."
+36167,162,184,998000,Homer Simpson,Moe's Tavern,"Well what about you, Lenny?"
+36168,162,185,998000,Lenny Leonard,Moe's Tavern,I'm a crony.
+36139,162,186,999000,Homer Simpson,Moe's Tavern,Carl?
+36169,162,187,999000,Carl Carlson,Moe's Tavern,I'd say acquaintance.
+36170,162,188,1001000,Sam,Moe's Tavern,Call me sympathizer.
+36171,162,189,1003000,Bumblebee Man,Moe's Tavern,Compadre.
+36172,162,190,1003000,Kearney Zzyzwicz,Moe's Tavern,Associate.
+36173,162,191,1004000,Dr. Julius Hibbert,Moe's Tavern,Contemporary.
+36174,162,192,1005000,Moe Szyslak,Moe's Tavern,"I'm a well-wisher, in that I don't wish you any specific harm."
+36176,162,194,1012000,Homer Simpson,Street,"Hello? Is this G-B-M? Uh, yeah. I read in the personals you were seeking a soul mate and, well, I also like rainy days and movies. Uh huh... uh, no, I don't like that. Or that. No, it's not that I'm afraid. I'm gonna hang up now. Bye-bye. Oh, I give up."
+36177,162,195,1038000,Coyote,Street,"Find your soul mate, Homer. Find your soul mate."
+36178,162,196,1042000,Homer Simpson,Street,Where? Where?!
+36179,162,197,1043000,Coyote,Street,This is just your memory. I can't give you any new information.
+36181,162,199,1055000,Homer Simpson,WATERFRONT DISTRICT,Huh. What's that blinking light?
+36182,162,200,1093000,Homer Simpson,WATERFRONT DISTRICT,The lighthouse keeper!
+36184,162,202,1094000,Homer Simpson,STORMY SEACOAST,The loneliest man in the world! He'll understand me!
+36185,162,203,1108000,Homer Simpson,STORMY SEACOAST,Earl. My new friend's name is Earl!
+36186,162,204,1111000,Homer Simpson,STORMY SEACOAST,"Here I come, buddy! No more loneliness for Homer and Earl...."
+36188,162,206,1119000,Homer Simpson,Lighthouse Control Room,"A machine? Earl's a machine. Oh, that's just perfect! Homer's desperate search for a soul mate has yielded a lighthouse-keeping robot! Oh, wow!"
+36190,162,208,1136000,Bart Simpson,Simpson Home,"Hey, look! Is that Dad?"
+36191,162,209,1138000,Lisa Simpson,Simpson Home,Either that or Batman has really let himself go.
+36192,162,210,1141000,Homer Simpson,Simpson Home,"Alone! I'm alone! I'm a lonely, insignificant speck on a has-been planet orbited by a cold, indifferent sun!"
+36193,162,211,1151000,Homer Simpson,Simpson Home,A ship! A ship with people! I know... I'll bring them to me! And then they'll have to be my friends!
+36194,162,212,1161000,Homer Simpson,Simpson Home,"Come here, people!"
+36196,162,214,1167000,Captain Horatio McCallister,FREIGHTER,"Arr, Matey, nary a warning light to be seen. 'Tis clear sailing ahead for our precious cargo."
+36197,162,215,1173000,First Mate,FREIGHTER,"Uh... would that be the hotpants, sir?"
+36198,162,216,1176000,Captain Horatio McCallister,FREIGHTER,Aye... the hotpants.
+36199,162,217,1179000,Homer Simpson,FREIGHTER,"Well, I won't be lonely for long...."
+36202,162,220,1190000,Marge Simpson,FREIGHTER,"Oh, Homer, thank goodness you're safe!"
+36203,162,221,1194000,Homer Simpson,FREIGHTER,Marge?
+36204,162,222,1195000,Marge Simpson,FREIGHTER,"I woke up and you weren't there, and I was so worried..."
+36205,162,223,1198000,Homer Simpson,FREIGHTER,Really? You were? But how did you find me?
+36206,162,224,1202000,Marge Simpson,FREIGHTER,"Well, I was sure you'd be on foot, because you always say public transportation is for losers. And I was sure you'd head west, because Springfield slopes down that way. And then I saw the lighthouse, and I remembered how you love blinking lights... like the one on the waffle iron..."
+36207,162,225,1220000,Homer Simpson,FREIGHTER,"Or that little guy on the ""Don't Walk"" sign."
+36208,162,226,1223000,Marge Simpson,FREIGHTER,Yeah.
+36209,162,227,1224000,Homer Simpson,FREIGHTER,"Wow, Marge, you really do understand me. See, I thought we weren't soul mates because..."
+36210,162,228,1229000,Marge Simpson,FREIGHTER,...we had a fight?
+36211,162,229,1230000,Homer Simpson,FREIGHTER,"Right, and we don't like the same things. It's like you're from Venus..."
+36212,162,230,1232000,Marge Simpson,FREIGHTER,...and you're from Mars.
+36213,162,231,1235000,Homer Simpson,FREIGHTER,"Oh, sure. Give me the one with all the monsters."
+36214,162,232,1237000,Marge Simpson,FREIGHTER,"Homer, don't you see? Our differences are only skin-deep..."
+36215,162,233,1242000,Homer Simpson,FREIGHTER,...But our sames go right down to the bone. Maybe we do have a...
+36216,162,234,1247000,Marge Simpson,FREIGHTER,...a profound mystical understanding?
+36217,162,235,1250000,Homer Simpson,FREIGHTER,"Hey... we do! Oh, Marge!"
+36218,162,236,1254000,Homer Simpson,FREIGHTER,"We're number one! We're number one! In your face, space coyote!"
+36219,162,237,1259000,Marge Simpson,FREIGHTER,Space coyote?
+36220,162,238,1262000,Homer Simpson,FREIGHTER,Omigod! The ship!
+36221,162,239,1264000,Marge Simpson,FREIGHTER,We'll all be killed!
+36222,162,240,1265000,Homer Simpson,FREIGHTER,The light! We gotta get the light back on!
+36223,162,241,1274000,Captain Horatio McCallister,FREIGHTER,Jonathan Livingston Seagull! We're on a collision course! Hard a-starboard!
+36224,162,242,1280000,First Mate,FREIGHTER,"Um, port."
+36225,162,243,1281000,Captain Horatio McCallister,FREIGHTER,"Aye, port."
+36227,162,245,1283000,Homer Simpson,Lighthouse,They see us! They're starting to turn!
+36228,162,246,1287000,Marge Simpson,Lighthouse,We did it!
+36229,162,247,1289000,Homer Simpson,Lighthouse,We sure did... soul mate.
+36230,162,248,1304000,Chief Wiggum,Lighthouse,Look at all them hot pants!
+36231,162,249,1306000,Lenny Leonard,Lighthouse,Hey! Who likes short shorts?
+36232,162,250,1307000,Crowd,Lighthouse,We like short shorts!

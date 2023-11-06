@@ -1,0 +1,223 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+111243,429,1,89000,Bart Simpson,SPRINGFIELD REC CENTER,Why do we have to go to the rec center? I wanna play with my friends!
+111244,429,2,90000,Homer Simpson,SPRINGFIELD REC CENTER,"When you're older, you'll miss these fun activities."
+111245,429,3,95000,Lisa Simpson,SPRINGFIELD REC CENTER,You're older. Why don't you do these fun activities?
+111246,429,4,98000,Homer Simpson,SPRINGFIELD REC CENTER,"Uh, 'cause no one's making me. Buh-bye."
+111248,429,6,103000,Comic Book Guy,Kung Fu Class,Welcome to Shaolin Kung Fu. Ten thousand years of knowledge will be passed along to those whose parents have signed a permission slip. The rest of you have just purchased very expensive pajamas.
+111250,429,8,116000,Comic Book Guy,Kung Fu Class,Namaste.
+111251,429,9,118000,Bart Simpson,Kung Fu Class,"Pardon me, master, but what does a big fat wad like you know about kung fu?"
+111252,429,10,123000,Comic Book Guy,Kung Fu Class,"Ah. Kung fu is not about physique, but the channeling of one's energy, or chi. If you doubt my skill, please, feel free to attack at my signal."
+111253,429,11,140000,Comic Book Guy,Kung Fu Class,My chi!
+111256,429,14,150000,Lisa Simpson,CLASSROOM,Do we have any more paints? My orange isn't the orange of that orange.
+111257,429,15,155000,Art Instructor,CLASSROOM,Just paint the damn fruit.
+111258,429,16,156000,Lisa Simpson,CLASSROOM,"Lower your expectations, Lisa. Public program, public program..."
+111260,429,18,161000,Art Instructor,ART ROOM,Mm-hmm... Mm-hmm... Mmm-hm.
+111261,429,19,165000,Art Instructor,ART ROOM,"Stop! Stop! Juliet, this is terrible! Your art is personal and wrong."
+111262,429,20,171000,Juliet Hobbes,ART ROOM,"I was painting with my heart. And if you look carefully, you can see that the knight is Josh Groban, our young century's greatest vocalist."
+111108,429,21,179000,Lisa Simpson,ART ROOM,"Ooh, another Grobanite!"
+111263,429,22,182000,Lisa Simpson,ART ROOM,"Um, excuse me, but I think her painting is very imaginative."
+111264,429,23,187000,Art Instructor,ART ROOM,I suppose you'd like to teach this class?
+111265,429,24,189000,Lisa Simpson,ART ROOM,"Yes, I would. Class, everyone please stop and admire Juliet's painting..."
+111266,429,25,195000,Art Instructor,ART ROOM,"I do not need this! My family owns a gas station. If you two thoughtful and creative girls don't like the way I teach, there's a world of fun outside."
+111267,429,26,207000,Lisa Simpson,ART ROOM,See ya!
+111268,429,27,210000,Art Instructor,ART ROOM,What are you staring at?! Everyone paint me twenty laps!
+111269,429,28,215000,Art Instructor,ART ROOM,"C'mon, fatty. Keep up!"
+111271,429,30,222000,Lisa Simpson,REC CENTER,"So, how come I've never seen you around the Janet L. Muñoz-Robbins Rec Center before?"
+111272,429,31,227000,Juliet Hobbes,REC CENTER,My father just took a position at Springfield University. Are your parents academics?
+111273,429,32,232000,Lisa Simpson,REC CENTER,Kinda. Let's do some Groban.
+111274,429,33,237000,Juliet Hobbes,REC CENTER,EVERYBODY WANTS TO BE UNDERSTOOD / WELL I CAN HEAR YOU
+111275,429,34,252000,Juliet Hobbes,REC CENTER,EVERYBODY WANTS TO BE LOVED / DON'T GIVE UP / BECAUSE YOU ARE LOVED
+111277,429,36,276000,Lisa Simpson,Kwik-E-Mart,"I need some candy for a first playdate, but I don't want to come on too strong."
+111278,429,37,279000,Bart Simpson,Kwik-E-Mart,M&Ms?
+111279,429,38,279000,Lisa Simpson,Kwik-E-Mart,"Well... if I pick plain she'll think I'm cheap, but if I pick peanut, she may have an allergy. You just killed her, Bart!"
+111280,429,39,285000,Bart Simpson,Kwik-E-Mart,How about Charleston Chew?
+111281,429,40,287000,Lisa Simpson,Kwik-E-Mart,"What is this, Brooklyn in the fifties? Don't just say stuff."
+111282,429,41,290000,Bart Simpson,Kwik-E-Mart,"You ask for my help, then you don't want it."
+111283,429,42,292000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Excuse me, but why not consider an Almond Joy? It looks like you only brought something for yourself, but then you just happen to have two pieces."
+111284,429,43,300000,Lisa Simpson,Kwik-E-Mart,"Finally, a real suggestion!"
+111285,429,44,302000,Bart Simpson,Kwik-E-Mart,"If she doesn't like coconut, you're screwed!"
+111289,429,48,315000,Lisa Simpson,FANCY PRIVATE SCHOOL,"Hi, Juliet."
+111290,429,49,317000,Juliet Hobbes,FANCY PRIVATE SCHOOL,"So, what do you want to do?"
+111291,429,50,319000,Lisa Simpson,FANCY PRIVATE SCHOOL,I don't know -- it's been so long since I've had a playdate. Not that I couldn't get one if I wanted...
+111292,429,51,324000,Juliet Hobbes,FANCY PRIVATE SCHOOL,My parents bought me a membership card to the Folk Art Museum.
+111293,429,52,328000,Lisa Simpson,FANCY PRIVATE SCHOOL,Does it get you into special exhibits?
+111294,429,53,330000,Juliet Hobbes,FANCY PRIVATE SCHOOL,On Wednesdays.
+111295,429,54,331000,Lisa Simpson,FANCY PRIVATE SCHOOL,That's today!
+111296,429,55,333000,Folk Art Singer,FANCY PRIVATE SCHOOL,Folk art!
+111298,429,57,362000,Marge Simpson,Simpson Home,...So Lisa asked if her new friend could stay for dinner! She's finally doing something the book said she would!
+111299,429,58,369000,Bart Simpson,Simpson Home,Won't last.
+111300,429,59,376000,Lisa Simpson,Simpson Home,"Hey Mom, can Juliet sleep over?"
+111301,429,60,378000,Marge Simpson,Simpson Home,Are your parents okay with that? They've never met us.
+111302,429,61,380000,Bart Simpson,Simpson Home,We could be murderers.
+111303,429,62,382000,Homer Simpson,Simpson Home,Could've been. If we hadn't had kids.
+111305,429,64,385000,Lisa Simpson,Dining Room,Juliet's father is the world's foremost John Grisham scholar.
+111306,429,65,389000,Juliet Hobbes,Dining Room,"He found several undiscovered plot twists in ""The Client."" And he proved that the real villain in ""A Time to Kill"" is the legal system itself."
+111307,429,66,396000,Homer Simpson,Dining Room,"Toldja, Marge. Tol. Dja."
+111310,429,69,401000,Lisa Simpson,Simpson Home,"Now we need a name for our imaginary kingdom -- I mean, queendom."
+111311,429,70,406000,Juliet Hobbes,Simpson Home,How about... Equalia?
+111312,429,71,409000,Lisa Simpson,Simpson Home,"Equalia. Where everyone is equal, but we're in charge. I mean, somebody has to be, right?"
+111313,429,72,418000,Marge Simpson,Simpson Home,"Okay, you two. Lights out."
+111314,429,73,422000,Marge Simpson,Simpson Home,Lisa? Do you want to be best friends?
+111315,429,74,425000,Lisa Simpson,Simpson Home,Gosh. This is all happening so fast. I don't know what to say.
+111316,429,75,429000,Marge Simpson,Simpson Home,"Say ""yes"" say ""yes""!"""
+111317,429,76,430000,Lisa Simpson,Simpson Home,I'd love to!
+111318,429,77,432000,Marge Simpson,Simpson Home,Woo-hoo!
+111319,429,78,434000,Juliet Hobbes,Simpson Home,"Goodnight, Lisa."
+111320,429,79,437000,Lisa Simpson,Simpson Home,"I have a best friend! You heard me say that, didn't you?"
+111321,429,80,441000,Juliet Hobbes,Simpson Home,I did.
+111322,429,81,442000,Lisa Simpson,Simpson Home,"We're still cool though, right?"
+111323,429,82,444000,Juliet Hobbes,Simpson Home,We are.
+111324,429,83,445000,Lisa Simpson,Simpson Home,My best friend is so cool!
+111325,429,84,451000,Lisa Simpson,Simpson Home,"Mom, I'm meeting Juliet after school!"
+111327,429,85,454000,Marge Simpson,Simpson Home,"Great! Here are a few ""best friend"" tips: compliment her hair and shoes. If her dog bites you, don't make a big deal out of it... and--"
+111328,429,86,462000,Homer Simpson,Simpson Home,"Friendship is like marriage -- the key is listening. Also, if her dog bites you, don't make a big deal out of it."
+111329,429,87,469000,Marge Simpson,Simpson Home,I just said that.
+111330,429,88,470000,Homer Simpson,Simpson Home,"Okay, honey. If it's that important to you, you said it."
+111332,429,90,475000,Lisa Simpson,Simpson Backyard,"We're at the end of chapter four. But we need a grabber, a whammy, a snap-a-roo, some eye mustard... I've got it! How 'bout this? What if Queen Helvetica found a rare two-horned unicorn!"
+111333,429,91,487000,Juliet Hobbes,Simpson Backyard,A two-nicorn!
+111334,429,92,488000,Lisa Simpson,Simpson Backyard,I love your accent. Two-nicorn. You are definitely doing the book on tape.
+111336,429,94,498000,Lisa Simpson,PINKBERRY-TYPE YOGURT STORE,And Queens Valedictoria and Helvetica hid their beloved two-nicorn from the hungry ogre Homeroni.
+111337,429,95,508000,Nelson Muntz,PINKBERRY-TYPE YOGURT STORE,"Girls are so lame. Isn't that right, headless Darth Vader?"
+111338,429,96,512000,Nelson Muntz,PINKBERRY-TYPE YOGURT STORE,What's that? You miss your girlfriend... armless Malibu Stacey wrapped in hockey tape?
+111341,429,99,523000,Marge Simpson,Simpson Car,"Now remember, Juliet's family is very classy, so be on your best behavior."
+111342,429,100,527000,Homer Simpson,Simpson Car,"Use as many big words as possible. I call ""computer."" Bart, you can have ""doorbell."""
+111344,429,102,536000,Bart Simpson,Simpson Car,Nice doorbell. Is it computerized?
+111345,429,103,539000,Homer Simpson,Simpson Car,Hey! That was--
+111346,429,104,541000,Marge Simpson,Simpson Car,Homer!
+111347,429,105,542000,Homer Simpson,Simpson Car,We... I... You come up with an excuse!
+111348,429,106,545000,Bart Simpson,Simpson Car,Ow.
+111350,429,108,547000,Prof. Hobbes,HOBBES HOUSE,"Homer, isn't it wonderful that my Juliet and your Lisa have become such fast friends?"
+111351,429,109,551000,Homer Simpson,HOBBES HOUSE,"If you say so, M'lord."
+111352,429,110,554000,Mrs. Hobbes,HOBBES HOUSE,Dinner's ready!
+111353,429,111,555000,Homer Simpson,HOBBES HOUSE,"If you'll show me to your bathroom, I'd like to pretend to wash my hands."
+111354,429,112,559000,Prof. Hobbes,HOBBES HOUSE,"Ah, new friendship. So full of promise. Much like a young Mitch McDeere, in John Grisham's ""The Firm""..."
+111356,429,113,566000,Homer Simpson,HOBBES HOUSE,"When they make a movie from his books, does he get one, or two free tickets?"
+111357,429,114,570000,Prof. Hobbes,HOBBES HOUSE,It depends on the production company.
+111358,429,115,572000,Prof. Hobbes,HOBBES HOUSE,He had much to be happy about. A brilliant mind and a solid body that did not gain weight and needed little sleep.
+111359,429,116,575000,Juliet Hobbes,HOBBES HOUSE,"Attention, everyone. Lisa and I would like to perform a medley of Josh Groban's twelve most popular downloads."
+111360,429,117,588000,Prof. Hobbes,HOBBES HOUSE,"Juliet, I'm worried this Josh Groban is becoming a bit of an obsession for you. Let's just listen to James Horner's soundtrack to ""The Pelican Brief,"" shall we?"
+111361,429,118,598000,Prof. Hobbes,HOBBES HOUSE,"Ah, track three, ""Researching The Brief."""
+111362,429,119,598000,Juliet Hobbes,HOBBES HOUSE,"I hate track three! I hate it, I hate it!"
+111363,429,120,613000,Lisa Simpson,HOBBES HOUSE,I'll go get her!
+111364,429,121,617000,Homer Simpson,HOBBES HOUSE,"Hey, could you take a look at a lump on my back?"
+111365,429,122,620000,Prof. Hobbes,HOBBES HOUSE,I'm not that kind of doctor!
+111366,429,123,622000,Homer Simpson,HOBBES HOUSE,"Oh, I get it. Here's ten bucks."
+111367,429,124,630000,Prof. Hobbes,HOBBES HOUSE,That's chewing gum.
+111368,429,125,631000,Homer Simpson,HOBBES HOUSE,What a racket.
+111369,429,126,634000,Lisa Simpson,HOBBES HOUSE,Juliet? Are you okay?
+111370,429,127,636000,Juliet Hobbes,HOBBES HOUSE,I am now. Don't you see them?
+111371,429,128,642000,Lisa Simpson,HOBBES HOUSE,See who?
+111372,429,129,643000,Juliet Hobbes,HOBBES HOUSE,Our friends! The Lords and Ladies of Equalia!
+111373,429,130,646000,Lisa Simpson,HOBBES HOUSE,"Juliet, you're scaring me just a little--"
+111375,429,132,665000,Fairy Princess,HOBBES HOUSE,Co-queens Helvetica and Valedictoria! We're so glad you're finally here.
+111376,429,133,670000,Creature,HOBBES HOUSE,I'm a giraffapuss. I'm uncomfortable in water and on land.
+111377,429,134,679000,Lisa Simpson,HOBBES HOUSE,A two-nicorn!
+111378,429,135,681000,Two-Nicorn,HOBBES HOUSE,Toss me a treat!
+111380,429,137,687000,Two-Nicorn,HOBBES HOUSE,I didn't know I could do that.
+111381,429,138,689000,Fairy Princess,HOBBES HOUSE,"And now, hit ""shuffle"" on the royal myPod."
+111383,429,140,725000,Marge Simpson,Simpson Home,"These be mini-pizzas made from dragon eggs, your majesties."
+111384,429,141,729000,Lisa Simpson,Simpson Home,"Mom, please don't do that."
+111385,429,142,730000,Marge Simpson,Simpson Home,"Who is this ""mom"" of which you speak?"
+111386,429,143,733000,Lisa Simpson,Simpson Home,"Mom, stop! This is our thing, not yours!"
+111387,429,144,736000,Marge Simpson,Simpson Home,I'm just trying to--
+111389,429,145,737000,Lisa Simpson,Simpson Home,It's better if you don't.
+111391,429,147,741000,Seymour Skinner,Skinner's Office,"Mr. and Mrs. Simpson, we need to talk about Lisa. She's unfocused, scribbling nonsense, living in a world of her own."
+111392,429,148,749000,Homer Simpson,Skinner's Office,"Well, that's Bart for ya."
+111393,429,149,750000,Seymour Skinner,Skinner's Office,"We're talking about Lisa, your daughter."
+111394,429,150,752000,Homer Simpson,Skinner's Office,"Seems like you and I are always talking about Bart, my son."
+111395,429,151,756000,Marge Simpson,Skinner's Office,Lisa has been seeing an awful lot of her new friend.
+111396,429,152,760000,Seymour Skinner,Skinner's Office,"Ah yes, the one I've seen on Lisa's Facebook page."
+111397,429,153,763000,Seymour Skinner,Skinner's Office,"I search all the children's Facebook pages for unflattering references to me. By the way, I enjoyed the photos of your trip to Yosemite."
+111398,429,154,770000,Homer Simpson,Skinner's Office,"Oh, that. We were actually just going out for brunch and I got lost. But don't worry, officer. We'll definitely have a talk with the boy."
+111400,429,156,779000,Lisa Simpson,Simpson Home,I can't see Juliet anymore?! I thought you wanted me to have a best friend.
+111401,429,157,784000,Marge Simpson,Simpson Home,There are limits to how much two people should be together.
+111402,429,158,788000,Lisa Simpson,Simpson Home,"Well, you can't keep Juliet and me apart! I'll... I'll disobey!"
+111403,429,159,793000,Marge Simpson,Simpson Home,I'm Bart Simpson's mother. You think you've got any tricks I haven't seen?
+111405,429,161,806000,Marge Simpson,Backyard,"Bart Simpson, age three."
+111406,429,162,814000,Bart Simpson,Backyard,"Bart Simpson, age ten."
+111408,429,164,827000,Lisa Simpson,Springfield Elementary School,Juliet! What are you doing here?
+111409,429,165,829000,Juliet Hobbes,Springfield Elementary School,I'm running away and you're coming with me!
+111410,429,166,832000,Lisa Simpson,Springfield Elementary School,"I'd love to! Oh, but I'm supposed to attend the Model U.N. this weekend. I'm the delegate from Azerbaijan, and I'm threatening a rice tariff!"
+111411,429,167,840000,Juliet Hobbes,Springfield Elementary School,"Lisa, I know how important the model U.N.'s work is. But Equalia needs you. I need you."
+111412,429,168,850000,Lisa Simpson,Springfield Elementary School,Okay... best friend.
+111413,429,169,853000,Groundskeeper Willie,Springfield Elementary School,I remember when I was young and I ran off to a land of equality.
+111416,429,172,867000,Immigration Official,Ellis island,Name!
+111417,429,173,868000,Groundskeeper Willie,Ellis island,Doctor William MacDougal.
+111418,429,174,870000,Immigration Official,Ellis island,From now on you're Groundskeeper Willie. Next!
+111421,429,177,891000,Juliet Hobbes,Woods,This is where we'll live.
+111422,429,178,892000,Lisa Simpson,Woods,How did you find this place?
+111423,429,179,894000,Juliet Hobbes,Woods,"My family ate here last week. It really went downhill fast. But if you just believe, any place can be Equalia."
+111424,429,180,915000,Carl Carlson,Woods,Oh no! Clam-elot's is closed!
+111425,429,181,918000,Lenny Leonard,Woods,I'm not surprised. Their clam chowder smelled like soap.
+111426,429,182,921000,Carl Carlson,Woods,Yeah.
+111428,429,184,924000,Marge Simpson,Simpson Home,I wonder if Lisa has threatened the Model U.N. with her rice tariff yet.
+111429,429,185,927000,Homer Simpson,Simpson Home,I doubt it -- Friday is usually just committee assignments and procedural rules.
+111430,429,186,933000,Martin Prince,Simpson Home,Mrs. Simpson!
+111431,429,187,935000,Marge Simpson,Simpson Home,"Oh hiya, Martin! How's the Model U.N.?"
+111433,429,189,938000,Martin Prince,LARGE FUNCTION ROOM,Total chaos! We're two minutes away from a roll-call vote on a non-binding resolution and no Azerbaijan!
+111434,429,190,946000,Marge Simpson,LARGE FUNCTION ROOM,Are you saying Lisa's not there?
+111435,429,191,949000,Martin Prince,LARGE FUNCTION ROOM,"To the extent you can trust the word of a Belgian, yes."
+111437,429,193,952000,Marge Simpson,Simpson Home,"Lisa ran away, and it's all my fault! If I'd just let her continue her obsessive relationship with that troubled little girl, everything would've been fine."
+111438,429,194,963000,Bart Simpson,Simpson Home,"If I know my sister, and unfortunately I do, she probably ran off to some lame-o make-believe castle."
+111439,429,195,969000,Marge Simpson,Simpson Home,"A ""castle""... I know where they are!"
+111440,429,196,972000,Homer Simpson,Simpson Home,Wait!
+111441,429,197,975000,Homer Simpson,Simpson Home,Is it some place I have to put on a tie?
+111442,429,198,976000,Marge Simpson,Simpson Home,No!
+111443,429,199,978000,Homer Simpson,Simpson Home,Is it a place I'd look overdressed if I did wear a tie?
+111444,429,200,980000,Marge Simpson,Simpson Home,You probably would.
+111445,429,201,981000,Homer Simpson,Simpson Home,What about a jacket and jeans with a nice tee shirt?
+111446,429,202,984000,Marge Simpson,Simpson Home,Just go!
+111448,429,204,994000,Lisa Simpson,Clam-elot Seafood,You know what I think killed this place? No one wanted to drive to the middle of the forest for clams.
+111450,429,206,1002000,Marge Simpson,Simpson Car,Let's go get my little girl.
+110021,429,208,1008000,Lisa Simpson,Clam-elot Seafood,My family's here!
+110378,429,210,1012000,Marge Simpson,Simpson Car,She's not here!?
+111451,429,213,1019000,Kearney Zzyzwicz,Clam-elot Seafood,Girls in our hideout?!
+111452,429,214,1020000,Jimbo Jones,Clam-elot Seafood,Now they'll tell people where we go to stash our stolen peaches!
+111453,429,215,1024000,DOLPH,Clam-elot Seafood,And to wait out our bad haircuts!
+111454,429,216,1026000,Jimbo Jones,Clam-elot Seafood,We'd better tie 'em up.
+111455,429,217,1031000,DOLPH,Clam-elot Seafood,This place is where we came after my bar mitzvah.
+111456,429,218,1033000,Jimbo Jones,Clam-elot Seafood,You said you weren't having one.
+111457,429,219,1035000,DOLPH,Clam-elot Seafood,Uh... it was just family.
+111458,429,220,1041000,Jimbo Jones,Clam-elot Seafood,All these pictures of seafood are making me hungry.
+111459,429,221,1044000,DOLPH,Clam-elot Seafood,We'll get some cream for the peaches while you guard the prisoners.
+111460,429,222,1047000,Jimbo Jones,Clam-elot Seafood,"Don't screw it up, butt-brain!"
+111461,429,223,1049000,Kearney Zzyzwicz,Clam-elot Seafood,At least my dad didn't smoke after his stroke!
+111462,429,224,1054000,Lisa Simpson,Clam-elot Seafood,"Juliet, I'm scared."
+111463,429,225,1056000,Juliet Hobbes,Clam-elot Seafood,Shut your eyes and you'll be in Equalia.
+111464,429,226,1058000,Lisa Simpson,Clam-elot Seafood,Equalia is not real!
+111465,429,227,1061000,Juliet Hobbes,Clam-elot Seafood,"Maybe not, but it's better than this."
+111466,429,228,1064000,Lisa Simpson,Clam-elot Seafood,Yeah.
+111467,429,229,1067000,Lisa Simpson,Clam-elot Seafood,"So the armies of the gnomes and the elves faced off on either side of the hollow, broad axes poised."
+111468,429,230,1074000,Juliet Hobbes,Clam-elot Seafood,"With a fearsome cry they raced toward the center of the battlefield, banners aflutter in the breeze."
+111469,429,231,1080000,Kearney Zzyzwicz,Clam-elot Seafood,What comes next?!
+111470,429,232,1084000,Lisa Simpson,Clam-elot Seafood,A battle to determine the fate of Equalia. But you wouldn't be interested.
+111471,429,233,1088000,Kearney Zzyzwicz,Clam-elot Seafood,I have a wide variety of interests. Is there them dragon things?
+111472,429,234,1092000,Lisa Simpson,Clam-elot Seafood,Isn't that a little clichéd?
+111473,429,235,1095000,Lisa Simpson,Clam-elot Seafood,"Yes! I mean, yes -- there are dragons everywhere! Green ones, Chinese ones, chubby bald ones..."
+111474,429,236,1102000,Kearney Zzyzwicz,Clam-elot Seafood,I like those ones! Tell me about those!
+111476,429,238,1107000,Lisa Simpson,Clam-a-lot Seafood,And so the queens--
+111477,429,239,1109000,Kearney Zzyzwicz,Clam-a-lot Seafood,And the Me-Dragon...
+111478,429,240,1110000,Lisa Simpson,Clam-a-lot Seafood,Danced the minuet of equality on a gossamer dewdrop.
+111479,429,241,1115000,Kearney Zzyzwicz,Clam-a-lot Seafood,Awww...
+111480,429,242,1119000,DOLPH,Clam-a-lot Seafood,What's going on here?
+111481,429,243,1120000,Jimbo Jones,Clam-a-lot Seafood,What's this?
+111482,429,244,1122000,Juliet Hobbes,Clam-a-lot Seafood,An ambitious first novel by the two brightest young writers this side of the Iowa Writers Workshop!
+110922,429,245,1127000,DOLPH,Clam-a-lot Seafood,I bet it'll burn up good!
+110953,429,246,1138000,Dragon Kearney,Clam-a-lot Seafood,Put. The book. Down.
+111483,429,247,1141000,Goblin Jimbo,Clam-a-lot Seafood,"Why should we, butt-brain?"
+111484,429,248,1143000,Dragon Kearney,Clam-a-lot Seafood,For Equalia!
+111486,429,250,1163000,Juliet Hobbes,Clam-elot Seafood,"Well, it looks like we're safe."
+111487,429,251,1165000,Lisa Simpson,Clam-elot Seafood,"Looks like. Juliet, I don't want to go to Equalia anymore."
+111488,429,252,1170000,Juliet Hobbes,Clam-elot Seafood,What do you mean?
+111489,429,253,1172000,Lisa Simpson,Clam-elot Seafood,"It's a special place, but I need to live in the real world."
+111490,429,254,1175000,Juliet Hobbes,Clam-elot Seafood,"The real world? The real world is for people who can't imagine anything better. Goodbye, Lisa."
+111491,429,255,1184000,Lisa Simpson,Clam-elot Seafood,"Goodbye, Juliet."
+111492,429,256,1186000,Lisa Simpson,Clam-elot Seafood,Cu-ckoo!
+111494,429,258,1191000,Lisa Simpson,Simpson Home,...we have received your manuscript 'The Chronicles of Equalia'...
+111495,429,259,1191000,Marge Simpson,Simpson Home,Sounds promising so far!
+111496,429,260,1197000,Lisa Simpson,Simpson Home,"""...unfortunately, it is not what we're looking for at this time. Thank you for thinking of us."""
+111497,429,261,1201000,Bart Simpson,Simpson Home,Re-jected!
+111498,429,262,1205000,Marge Simpson,Simpson Home,"You got a letter all the way from New York City, and that's something!"
+111499,429,263,1211000,Homer Simpson,Simpson Home,"And you know what else, sweetie? You and your friend Princess Nutjob inspired me to write my own fantasy novel, based on my experiences as a dad."
+111500,429,264,1225000,Homer Simpson,Simpson Home,"Okay, chapter one... uh... uh... writing is hard."
+111501,429,265,1236000,Bart Simpson,Simpson Home,Ladies and gentlemen: Fallout boy!

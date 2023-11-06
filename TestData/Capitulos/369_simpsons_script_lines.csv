@@ -1,0 +1,225 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+95646,369,1,29000,Bart Simpson,CAVERNS,"Checkin' out a cave is gonna be awesome! It'll be dark, with rocks, and mineral formations, and plants that have adapted to harsh-- Wait a minute! This is a scam -- we're on a nature walk!"
+95647,369,2,42000,Lisa Simpson,CAVERNS,"Don't worry, Bart. I brought something that'll keep you interested -- a nickel in a water bottle!"
+95648,369,3,47000,Bart Simpson,CAVERNS,Wow! Wow!!! WOW!!!
+95649,369,4,47000,Marge Simpson,CAVERNS,He'll sleep tonight.
+95650,369,5,54000,Bart Simpson,CAVERNS,"Where'd it go?! Where'd it go?! Oh, it's in the cap."
+95652,369,7,56000,Marge Simpson,Cave,"""Local Anahoopi Indians believed this stalactite was the finger of Tsisnajini, their God of pointing down."""
+95653,369,8,56000,Homer Simpson,Cave,Silly Indians. Our God made their god.
+95654,369,9,73000,Lisa Simpson,Cave,It's so impressive.
+95655,369,10,75000,Homer Simpson,Cave,I'm just gonna get a tiny chip to put on my desk at work.
+95658,369,13,88000,Homer Simpson,HOLE,"Save me, Tsisnajini!"
+95660,369,15,98000,Homer Simpson,Underground Chamber,I'm stuck! And I have to pee. Now I'm just stuck.
+95661,369,16,107000,Marge Simpson,Underground Chamber,"Don't worry, Homer. We'll get that fireman who cut you out of that teacup ride."
+95662,369,17,113000,Bart Simpson,Underground Chamber,"That was two firemen, a crane and Snow White."
+95663,369,18,115000,Homer Simpson,Underground Chamber,Why you little...!
+95665,369,20,121000,Lisa Simpson,Underground Chamber,Oh no!
+95666,369,21,122000,Lisa Simpson,Underground Chamber,This chamber's not on the map! We could be stuck in here forever if we don't find a way out!
+95667,369,22,127000,Marge Simpson,Underground Chamber,"Well, we better start looking."
+95668,369,23,130000,Homer Simpson,Underground Chamber,"Don't leave me! I hate to be alone! Except when I'm watching TV, then leave me alone. But right now, don't leave!"
+95669,369,24,135000,Lisa Simpson,Underground Chamber,"I'll stay with you, Dad."
+95670,369,25,137000,Homer Simpson,Underground Chamber,Will you tell me a story?
+95671,369,26,138000,Lisa Simpson,Underground Chamber,"Sure. Once upon a time, in a far-off kingdom--"
+95672,369,27,141000,Homer Simpson,Underground Chamber,No unicorns.
+95673,369,28,141000,Lisa Simpson,Underground Chamber,"Oh. All right, um, I'll tell you something that happened to me last week. I was walking home from school..."
+95675,369,30,149000,Lisa Simpson,Field,...when suddenly I heard...
+95676,369,31,153000,Lisa Simpson,Field,"Hello, Mr. Bighorn Sheep!"
+95677,369,32,156000,Lisa Simpson,Field,"I've read about you. You're shy, and you rarely approach humans!"
+95678,369,33,163000,Lisa Simpson,Field,And of course you'd never attack a fellow herbivore!
+95679,369,36,176000,Lisa Simpson,Burns Manor,Mad beast!
+95680,369,37,177000,C. Montgomery Burns,Burns Manor,Liberal midget!
+95683,369,40,183000,C. Montgomery Burns,Burns Manor,Good Lord! A wooly bully!
+95685,369,42,190000,Lisa Simpson,Mansion,C'mon!
+95686,369,43,196000,Panic Room,Mansion,Enter password.
+95687,369,44,198000,C. Montgomery Burns,Mansion,"Dammit, I forget!"
+95688,369,45,199000,Panic Room,Mansion,Forgot password? Enter place of birth.
+95689,369,46,202000,C. Montgomery Burns,Mansion,Pangaea.
+95690,369,47,204000,Panic Room,Mansion,Correct. Your password has been e-mailed to you.
+95695,369,52,216000,C. Montgomery Burns,Mansion,"So long, sucker!"
+95696,369,53,218000,C. Montgomery Burns,Mansion,"I mean, don't leave an old man to die."
+95697,369,54,222000,C. Montgomery Burns,Mansion,"So long, sucker!"
+95700,369,57,238000,Lisa Simpson,TOWER ATTIC ROOM,Maybe Mr. Smithers will help us.
+95701,369,58,241000,C. Montgomery Burns,TOWER ATTIC ROOM,"No, he's out getting a spray-on tan. He comes back orange and stains the furniture -- the man's a walking creamsicle!"
+95702,369,59,249000,Lisa Simpson,TOWER ATTIC ROOM,You worked at Moe's?
+95703,369,60,252000,C. Montgomery Burns,TOWER ATTIC ROOM,Yes -- and therein lies a tale of woe and heartbreak. One I couldn't possibly recount.
+95704,369,61,258000,Lisa Simpson,TOWER ATTIC ROOM,I understand. I'll just read a magazine.
+95705,369,62,261000,C. Montgomery Burns,TOWER ATTIC ROOM,"Okay, here's the story: I belong to a very exclusive club -- The Excluders' Club..."
+95707,369,64,268000,C. Montgomery Burns,EXCLUDERS' CLUB,"One day, while I was savoring the exclusivity--"
+95708,369,65,270000,Homer Simpson,EXCLUDERS' CLUB,"Wait, wait, wait, wait..."
+95710,369,67,272000,Homer Simpson,Cave,Now you're telling me Burns's story?
+95711,369,68,275000,Lisa Simpson,Cave,"Yeah -- it's like the play within a play in ""Hamlet."""
+95712,369,69,278000,Homer Simpson,Cave,Huh?
+95713,369,70,278000,Lisa Simpson,Cave,Let's see... It's like when you watch old home movies of you watching TV.
+95714,369,71,282000,Homer Simpson,Cave,Gotcha.
+95716,369,73,284000,C. Montgomery Burns,EXCLUDERS' CLUB,One day a new member arrived at the club...
+95717,369,74,288000,The Rich Texan,EXCLUDERS' CLUB,Yee-haw! Who's this dried-up ol' apricot?
+95718,369,75,294000,The Rich Texan,EXCLUDERS' CLUB,"I'm in oil. What's your racket, Slim?"
+95719,369,76,297000,C. Montgomery Burns,EXCLUDERS' CLUB,Nuclear power. I make money using my brain... not sticking a pole in the ground and praying for goo.
+95720,369,77,305000,The Rich Texan,EXCLUDERS' CLUB,"You need to get your hands dirty, Poindexter! Dip 'em in a little Texas crude!"
+95721,369,78,309000,The Rich Texan,EXCLUDERS' CLUB,Down in Houston we call that a Fort Worth shampoo!
+95722,369,79,316000,C. Montgomery Burns,EXCLUDERS' CLUB,"Sir, I challenge you to a duel!"
+95723,369,80,320000,The Rich Texan,EXCLUDERS' CLUB,You got it! A bullet in the brain at high noon!
+95724,369,81,327000,Mr. Burns's Reflection,EXCLUDERS' CLUB,"At my age, that could kill me!"
+95725,369,82,329000,C. Montgomery Burns,EXCLUDERS' CLUB,How about we settle things with a scavenger hunt?
+95726,369,83,331000,The Rich Texan,EXCLUDERS' CLUB,"You're on, Twiggy!"
+95727,369,84,334000,The Rich Texan,EXCLUDERS' CLUB,Sorry about that.
+95729,369,86,335000,Pompous Explorer,FOG-SHROUDED FIELD,"Gentlemen -- you will each be given an identical list of ten items. The first person to collect all items on said list is the winner, and shall receive all of his opponent's worldly possessions."
+95730,369,87,349000,The Rich Texan,FOG-SHROUDED FIELD,Yee haw! I'm gonna win me a nucular plant!
+95731,369,88,353000,C. Montgomery Burns,FOG-SHROUDED FIELD,"Dream on, bitch."
+95732,369,89,359000,Pompous Explorer,FOG-SHROUDED FIELD,Scavengers... scavenge!
+95733,369,90,376000,Homer Simpson,FOG-SHROUDED FIELD,I'm bald!
+95734,369,91,384000,C. Montgomery Burns,FOG-SHROUDED FIELD,"I had but one item left on the list... ""A picture of myself with a smiling child."" What could be easier?"
+95737,369,94,393000,Milhouse Van Houten,School Bus,It's the boogeyman's grandfather!
+95738,369,95,396000,Nelson Muntz,School Bus,He's gonna drink our bones!
+95739,369,96,398000,C. Montgomery Burns,School Bus,Smile! Like this!
+95742,369,99,408000,The Rich Texan,EXCLUDERS' CLUB,Yee-haw! I won! Everything yours is mine!
+95743,369,100,414000,The Rich Texan,EXCLUDERS' CLUB,"Hi-yo, Smithers, away!"
+95745,369,102,420000,C. Montgomery Burns,Burns Manor,"With nowhere else to turn, I spent the first three days with relatives."
+95747,369,104,425000,C. Montgomery Burns,Springfield Cemetery,"I had to get a job. And I had to start at the bottom. But to get to the bottom, I had to work my way up from Moe's."
+95750,369,107,436000,Lenny Leonard,Moe's Tavern,"Hey bar-boy, this table's wobbly. Come jam your foot under it."
+95751,369,108,441000,Carl Carlson,Moe's Tavern,"Hey bar-boy, write a play where I meet Henry Ford and Captain Kirk."
+95752,369,109,445000,Homer Simpson,Moe's Tavern,"Hey bar-boy, dance around like an idiot. Like this!"
+95753,369,110,449000,Homer Simpson,Moe's Tavern,I'm-so-stupid! I'm-so-stupid!
+95754,369,111,452000,C. Montgomery Burns,Moe's Tavern,I'm a little busy. Can I do it later?
+95755,369,112,455000,Homer Simpson,Moe's Tavern,"Sure! You're gonna be all ""I'm-so-stupid! I'm-so-stupid! I'm-so-stupid!"""
+95757,369,114,464000,Lenny Leonard,Moe's Tavern,Burns sure will look like a jerk later!
+95758,369,115,466000,C. Montgomery Burns,Moe's Tavern,"At five-fifteen an hour, it would take an eternity to make my fortune back -- and FICA wasn't helping."
+95759,369,116,474000,C. Montgomery Burns,Moe's Tavern,"But then, for once in my life, things went my way."
+95760,369,117,483000,C. Montgomery Burns,Moe's Tavern,I steamed the letter open with Moe's cappuccino machine.
+95761,369,118,486000,Moe Szyslak,Moe's Tavern,"If you're reading this, I am dead, and you are about to learn the story of my treasure."
+95762,369,119,492000,C. Montgomery Burns,Moe's Tavern,Treasure?!
+95764,369,121,493000,Lisa Simpson,Tower Room,Treasure?!
+95766,369,123,495000,Homer Simpson,Cave,Moe has a cappuccino machine??!!
+95768,369,125,503000,Marge Simpson,CHAMBER OF CAVE,We couldn't find a way out.
+95769,369,126,505000,Bart Simpson,CHAMBER OF CAVE,"But on the upside, I found some cave paintings and made them awesome."
+95771,369,128,511000,Homer Simpson,CHAMBER OF CAVE,"Boy, come here and listen to Lisa's story. It's about Moe's treasure!"
+95773,369,130,517000,Lisa Simpson,CHAMBER OF CAVE,"So, to contin-"
+95775,369,132,519000,C. Montgomery Burns,Burns Manor,-ue with the sad sto-
+95777,369,134,521000,Moe Szyslak,Moe's Tavern,-ry of Moe's treasure. Top of Form
+95778,369,135,522000,Moe Szyslak,Moe's Tavern,It was the first day of summer...
+95780,369,137,526000,Moe Szyslak,Springfield,"...I was headin' to the restaurant supply store to buy some urinal-cake mix, when I was suddenly sideswiped by love."
+95781,369,138,535000,Moe Szyslak,Springfield,"There she was -- the gorgeous new girl in town, Edna Krabappel."
+95782,369,139,541000,Edna Krabappel-Flanders,Springfield,"Oh, you poor man."
+95783,369,140,543000,Moe Szyslak,Springfield,"She had gossamer hair, limpid eyes and the rack of an angel."
+95784,369,141,549000,Moe Szyslak,Springfield,"I see you're new to town -- maybe I could uh, show you around? I know a terrific tavern..."
+95785,369,142,553000,Edna Krabappel-Flanders,Springfield,"Ha! My ex-husband was a drunk. I hate bars, saloons, nightclubs, and most of all... taverns."
+95786,369,143,561000,Moe Szyslak,Springfield,"Oh, yeah, me too! Why, that's why I'm not a tavern keeper."
+95787,369,144,564000,Edna Krabappel-Flanders,Springfield,What do you do for a living?
+95788,369,145,566000,Moe Szyslak,Springfield,"Me? Well, I, uh, for a living? Well, there's all kinds of things a fella can do, such as... hemming, and hawing, and uh, but me, I'm a highly respected uh... therapist for alcoholics."
+95790,369,147,581000,Moe Szyslak,Moe's Tavern,"I knew that in order to win her love, I needed to get rid of the human garbage otherwise known as my best friends."
+95791,369,148,594000,Moe Szyslak,Moe's Tavern,"Barney, how do you keep gettin' back in?"
+95792,369,149,596000,Barney Gumble,Moe's Tavern,I'm a drunk. I don't know nothin' about how I do anything.
+95794,369,151,604000,Moe Szyslak,Country Road,"For one sweet summer, I was a true gentleman. As a result of which, Krabappel was lettin' me do her."
+95795,369,152,617000,Moe Szyslak,Country Road,"So, Mrs. Krabappel, you got any plans?"
+95796,369,153,620000,Edna Krabappel-Flanders,Country Road,"In the fall, I'll be teaching fourth grade at Springfield Elementary."
+95797,369,154,624000,Moe Szyslak,Country Road,Aw that's great -- wonderful bunch of kids.
+95798,369,155,627000,Martin Prince,Country Road,Lab partners don't treat lab partners like this.
+95799,369,156,631000,Nelson Muntz,Country Road,Shut up and attract lightning!
+95801,369,158,637000,Moe Szyslak,Upscale Restaurant,"Edna, you've made me feel love where before there was only pain."
+95802,369,159,641000,Edna Krabappel-Flanders,Upscale Restaurant,"C'mere, you."
+95803,369,160,645000,Moe Szyslak,Upscale Restaurant,Aw geez.
+95804,369,161,646000,Homer Simpson,Upscale Restaurant,"Hey Moe! Thanks to you, I've been sober a week!"
+95806,369,163,649000,Carl Carlson,Upscale Restaurant,"Yeah, me too."
+95807,369,164,649000,Lenny Leonard,Upscale Restaurant,We're all sober.
+95808,369,165,651000,Moe Szyslak,Upscale Restaurant,"Uh, these are some of the local alcoholics I told you about."
+95809,369,166,654000,Carl Carlson,Upscale Restaurant,"Don't pigeonhole us, we have other vices."
+95810,369,167,657000,Lenny Leonard,Upscale Restaurant,I dress up like a baby!
+95811,369,168,659000,Moe Szyslak,Upscale Restaurant,"C'mon guys, lemme give you some counseling over here."
+95813,369,169,663000,Moe Szyslak,Upscale Restaurant,"Listen booze-bags, I got a good thing goin' here. If you mess it up, I will ""out"" the one of you that is gay."
+95815,369,171,672000,Moe Szyslak,Upscale Restaurant,"So uh, where were we?"
+95817,369,173,677000,Moe Szyslak,Moe's Tavern,"I had to get Edna out of Springfield -- make a fresh start in a new town, far away. A place where we can play bridge with our neighbors. And if they're interested in wife-swapping, who am I to say no? I'm just the new guy."
+95818,369,174,689000,Moe Szyslak,Moe's Tavern,"But where would I get the money to start a new life? And then, opportunity strolled right in the door..."
+95819,369,175,698000,Snake Jailbird,Moe's Tavern,"Yes, hello. I need directions to the Springfield Natural History Museum. I totally have a donation for them."
+95820,369,176,706000,Moe Szyslak,Moe's Tavern,Coins money gold!
+95821,369,177,708000,Moe Szyslak,Moe's Tavern,"See, this was back before Snake became a notorious jailbird, when he was an idealistic, law-abiding young archaeologist."
+95822,369,178,715000,Snake Jailbird,Moe's Tavern,"I was, like, excavating this Mayan pyramid and I totally unearth these gold coins and I'm all like ""could you be any more pre-Columbian?"""
+95823,369,179,723000,Moe Szyslak,Moe's Tavern,"Uh, you can't donate that gold to the museum today, 'cause um... uh it's closed, so they can clean under the wangs on the statues."
+95824,369,180,731000,Snake Jailbird,Moe's Tavern,"Uh, well no problem. I'll just spend the night in that motel across the street."
+95825,369,181,736000,Moe Szyslak,Moe's Tavern,Love had handed me an awful dilemma. Should I rob this guy or rob him and kill him?
+95827,369,183,741000,Moe Szyslak,Moeview Motel,I decided to do the right thing.
+95829,369,185,754000,Snake Jailbird,Motel Room,I've been robbed!
+95830,369,186,755000,Snake Jailbird,Motel Room,"I'll take my revenge on society. By which I mean convenience stores. And who would suspect me, Professor Jailbird!"
+95834,369,190,767000,Moe Szyslak,Springfield Street,"Before we left town for good, we hadda make one stop -- so she could tell the school she wouldn't be teachin' there."
+95835,369,191,773000,Edna Krabappel-Flanders,Springfield Street,"Back in a flash, my sweet little gargoyle!"
+95837,369,193,781000,Moe Szyslak,Springfield Street,"I was the happiest guy in the world. But fate likes to play a little game called ""Up Yours, Moe."""
+95839,369,195,788000,Edna Krabappel-Flanders,Springfield Elementary School,Moe... we need to talk.
+95840,369,196,791000,Moe Szyslak,Springfield Elementary School,About what? How nothin' changed when you were in there?
+95841,369,197,793000,Edna Krabappel-Flanders,Springfield Elementary School,"Not exactly. You see, when I went inside..."
+95843,369,199,799000,Edna Krabappel-Flanders,CLASSROOM,"Young man, it's summertime. What are you doing here?"
+95844,369,200,802000,Bart Simpson,CLASSROOM,I've got detention all summer.
+95845,369,201,804000,Edna Krabappel-Flanders,CLASSROOM,Why?
+95846,369,202,805000,Bart Simpson,CLASSROOM,Because I'm a screw-up. My sister's the smart one -- all I do is get in trouble.
+95847,369,203,810000,Edna Krabappel-Flanders,CLASSROOM,"Aw sweetheart, do you want to do better?"
+95848,369,204,813000,Bart Simpson,CLASSROOM,"Oh, it doesn't matter. Everyone's pretty much given up on me. I bet I won't even make it through fourth grade."
+95849,369,205,823000,Edna Krabappel-Flanders,CLASSROOM,You'll make it through fourth grade -- because I'm gonna stay here and be your teacher!
+95850,369,206,828000,Marge Simpson,CLASSROOM,"Wait, wait, wait, there's one thing I don't understand here."
+95852,369,208,832000,Marge Simpson,Cave,You never had detention all summer.
+95853,369,209,835000,Bart Simpson,Cave,"Oh, that load of crap? No, I was just keepin' her busy while Nelson stole microscopes. Make with the story."
+95854,369,210,842000,Lisa Simpson,Cave,"Well, my best recollection of Burns' paraphrasing of what he read in Moe's letter is that Krabappel told Moe..."
+95856,369,212,848000,Edna Krabappel-Flanders,Springfield Elementary School,"I have to stay here in Springfield, because boys like Bart Simpson need me...Sweet, misunderstood boys, who just need someone to recognize the basic goodness, that's trapped inside them and is desperately trying to get out..."
+95857,369,213,863000,Moe Szyslak,Springfield Elementary School,"There was nothing I could do. Well, except go nuts."
+95858,369,214,867000,Moe Szyslak,Springfield Elementary School,You crazy skirt! Nobody backs out on fake good Moe! I oughta...
+95860,369,216,888000,Moe Szyslak,Moe's Tavern,"If I couldn't spend the treasure on Edner, I didn't want to spend it. I just sat there playin' our song on the jukebox. One gold--"
+95861,369,217,896000,C. Montgomery Burns,Moe's Tavern,...coin at a time.
+95862,369,218,896000,C. Montgomery Burns,Moe's Tavern,"Oh, you poor man. You're about to get a lot poorer."
+95865,369,219,911000,The Rich Texan,Moe's Tavern,"Okay, I'll take your gold, and give you back all of your worldly possessions, 'ceptin' your nucular plant. You don't get that back till you bring me a photo of yourself with a smiling child."
+95866,369,220,925000,C. Montgomery Burns,Moe's Tavern,What the hell could that mean to you?
+95867,369,221,927000,The Rich Texan,Moe's Tavern,"I'm obsessive-compulsive! Yee-haw! One, two, three, four. Yee-haw! One, two, three, four. Yee-haw! One, two, three, four."
+95869,369,223,934000,The Rich Texan,Burns's Office,"No nuclear plant without a photo. One, two, three, four. That's where we left off. One, two, three, four."
+95871,369,225,944000,C. Montgomery Burns,TOWER ATTIC ROOM,"...so without my beloved nuclear plant, I have nothing to live for."
+95873,369,227,956000,C. Montgomery Burns,TOWER ATTIC ROOM,"Take me, a barren old thistle, and spare this sweet young flower!"
+95875,369,229,971000,Lisa Simpson,TOWER ATTIC ROOM,"My pearl necklace! I must have lost it, and you were just bringing it back to me."
+95877,369,231,979000,Lisa Simpson,TOWER ATTIC ROOM,How did you find this?
+95882,369,236,992000,C. Montgomery Burns,Burns's Attic,The sheep was no danger at all. I sacrificed my gorgeous body for nothing. This must be what it's like to have a baby.
+95883,369,237,999000,Lisa Simpson,Burns's Attic,I want a photo of the hero who risked his life to save me!
+95884,369,238,1010000,C. Montgomery Burns,Burns's Attic,A picture of me with a smiling child?! I can get my plant back!
+95885,369,239,1017000,C. Montgomery Burns,Burns's Attic,100 Industrial Way!
+95887,369,241,1021000,Lisa Simpson,Cave,"Mr. Burns got his plant back, and I like to think I found a shred of humanity in his withered soul."
+95888,369,242,1029000,Lisa Simpson,Cave,"Aw Dad, did my story make you cry?"
+95889,369,243,1031000,Homer Simpson,Cave,"Well, it was very moving, but the thing is, bats are chewing my legs!"
+95890,369,244,1045000,Homer Simpson,Cave,"Oh, why did I lead you down here to find those stupid coins?"
+95891,369,245,1053000,Marge Simpson,Cave,Huh? / You knew about the coins? / The coins are down here? / ETC.
+95892,369,246,1053000,Marge Simpson,Cave,"Homer, you brought us to this horrible place on purpose?"
+95863,369,247,1056000,Homer Simpson,Cave,You didn't think it was so horrible when you were falling down the hole.
+95894,369,248,1060000,Marge Simpson,Cave,That was the most horrible part of all!
+95895,369,249,1062000,Homer Simpson,Cave,"Well, I guess I should explain. Not long ago, it was my day to take care of the baby, so I was out in the forest, hiding."
+95897,369,251,1071000,The Rich Texan,CAVE MOUTH,OH THE YELLOW GOLD OF TEXAS / IS WHAT I WANNA SAVE / I WILL NOT PAY NO TAXES / IF I HIDE IT IN A CAVE
+95898,369,252,1080000,Homer Simpson,CAVE MOUTH,I deduced from his parody lyrics that he was hiding gold in the cave.
+95899,369,253,1087000,Homer Simpson,CAVE MOUTH,I figured he'd never miss two or three pieces. Money which we could use to pay for Bart's operation.
+95901,369,255,1094000,Bart Simpson,CAVE CHAMBER,I need an operation?
+95902,369,256,1095000,Homer Simpson,CAVE CHAMBER,That's a story for another day.
+95904,369,258,1098000,Homer Simpson,CAVE MOUTH,I realized I could never find the gold without your help. So I made it this week's family outing.
+95906,369,260,1104000,The Rich Texan,CAVE CHAMBER,"I'll take that gold, if'n you please!"
+95907,369,261,1107000,Marge Simpson,CAVE CHAMBER,How can you take it? We haven't found it.
+95908,369,262,1110000,The Rich Texan,CAVE CHAMBER,"It's right there behind that rock. No, to your left. Texas left, which is your ""down."""
+95909,369,263,1115000,Marge Simpson,CAVE CHAMBER,Oh...
+95910,369,264,1121000,The Rich Texan,CAVE CHAMBER,"I'll take that gold, if'n you please."
+95911,369,265,1124000,C. Montgomery Burns,CAVE CHAMBER,"Not so fast, Shady Bird Johnson!"
+95912,369,266,1127000,C. Montgomery Burns,CAVE CHAMBER,I'll take that gold.
+95913,369,267,1129000,Moe Szyslak,CAVE CHAMBER,"Yeah, you'll take it -- and then you'll give it to me, if you know what's good for ya."
+95914,369,268,1134000,Moe Szyslak,CAVE CHAMBER,You guys have guns?
+95915,369,269,1135000,Moe Szyslak,CAVE CHAMBER,Well so do I. Eh? Eh?
+95916,369,270,1139000,Snake Jailbird,CAVE CHAMBER,"Yo, coolest entrance gets the gold."
+95917,369,271,1147000,Snake Jailbird,CAVE CHAMBER,"Um, is it okay that I brought my son? This is my day with him. Jeremy, there's a boy over there you can play with."
+95918,369,272,1153000,Jeremy,CAVE CHAMBER,Do you like Xbox?
+95919,369,273,1155000,The Rich Texan,CAVE CHAMBER,Looks like we got us a Mexican standoff.
+95920,369,274,1178000,Marge Simpson,CAVE CHAMBER,"If you all don't drop your guns and behave, no one gets the gold."
+95921,369,275,1183000,Marge Simpson,CAVE CHAMBER,"And why do you really want it, anyway? Moe, will the gold bring back Edna's love?"
+95922,369,276,1189000,Moe Szyslak,CAVE CHAMBER,It could. Definitely.
+95923,369,277,1190000,Marge Simpson,CAVE CHAMBER,"Mr. Burns, isn't it more important that you got a child to smile at you?"
+95924,369,278,1196000,C. Montgomery Burns,CAVE CHAMBER,"Honestly no, I'd rather have the gold."
+95925,369,279,1198000,Snake Jailbird,CAVE CHAMBER,"Oh, absolutely."
+95926,369,280,1199000,The Rich Texan,CAVE CHAMBER,I couldn't agree more.
+95927,369,281,1201000,Marge Simpson,CAVE CHAMBER,I can see there's only one way to turn you into human beings again.
+95928,369,282,1209000,The Rich Texan,CAVE CHAMBER,"Lady, I oughta fill you full of... gratitude. That gold was turning us into monsters."
+95929,369,283,1218000,Snake Jailbird,CAVE CHAMBER,"Well, I know a place where we can atone for our misdeeds. They're building a youth center in Shelbyville, and totally need volunteers."
+95930,369,284,1225000,The Rich Texan,CAVE CHAMBER,Let's go there now!
+95931,369,285,1227000,C. Montgomery Burns,CAVE CHAMBER,"Yes, let's."
+95932,369,286,1229000,C. Montgomery Burns,CAVE CHAMBER,I'll catch up with you.
+95934,369,288,1235000,Bart Simpson,Skinner's Office,And that's why I didn't have time to study for my geography test.
+95935,369,289,1239000,Seymour Skinner,Skinner's Office,"Bart, do you expect me to believe that? That story is the biggest load of... Krabappel? Making out with Moe?"
+95937,369,291,1248000,Moe Szyslak,OUTSIDE SCHOOL,But I thought you didn't wanna date a tavern owner.
+95938,369,292,1250000,Edna Krabappel-Flanders,OUTSIDE SCHOOL,"At this point, all I want's a man with a healthy libido."
+95939,369,293,1253000,Moe Szyslak,OUTSIDE SCHOOL,"Ah ha. Well, this is where it gets awkward again."
+95940,369,294,1257000,The Rich Texan,OUTSIDE SCHOOL,"Yee-haw! Moe can't catch a break! One, two, three, four. Can't catch a break! One, two, three, four. Can't catch a break! One, two, three, four."
+95941,369,295,1265000,The Rich Texan,OUTSIDE SCHOOL,"And there're some producers. One, two, three, four. Four producers."

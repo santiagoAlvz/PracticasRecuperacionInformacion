@@ -1,0 +1,231 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+23247,114,1,105000,Lenny Leonard,Moe's Tavern,"Hey, Moe. You got change for a five?"
+23248,114,2,108000,Moe Szyslak,Moe's Tavern,"Yeah, sure thing, Lenny."
+23249,114,3,110000,Moe Szyslak,Moe's Tavern,"Ow! Ow! Ooh! Ow! A snake in the cash register. Great prank, fellas, great. Oh, I'm gonna be sick tonight."
+23250,114,4,120000,Barney Gumble,Moe's Tavern,"Hey Moe, you wanna smell my flower?"
+23251,114,5,123000,Moe Szyslak,Moe's Tavern,Do I?!
+23252,114,6,126000,Moe Szyslak,Moe's Tavern,"I'm burnin' up, here. Ooh, ooh, taking advantage of my alcohol soaked clothes. It's funny and it makes you think."
+23253,114,7,136000,Moe Szyslak,Moe's Tavern,"Oh I need some coffee before I black out. Homer, pass me the sugar."
+23254,114,8,141000,Homer Simpson,Moe's Tavern,This is gonna to be great.
+23255,114,9,146000,Moe Szyslak,Moe's Tavern,Ooh!
+23256,114,10,146000,Barney Gumble,Moe's Tavern,Geez!
+23257,114,11,146000,Moe Szyslak,Moe's Tavern,"Oh, there's sugar all over the bar now."
+23258,114,12,149000,Lenny Leonard,Moe's Tavern,"That's not funny, Homer."
+23259,114,13,151000,Barney Gumble,Moe's Tavern,"Yeah, we were just messin' around. And you had to go too far."
+23260,114,14,156000,Moe Szyslak,Moe's Tavern,How many people want Homer banned from this place for life?
+23261,114,15,159000,Moe Szyslak,Moe's Tavern,Yeah!
+23262,114,16,159000,Homer Simpson,Moe's Tavern,"Ah, come on, everybody. This bar is like a tavern to me."
+23263,114,17,164000,Moe Szyslak,Moe's Tavern,"Sorry, Homer. You should have thought of that before you gave me the old sugar-me-do. I'm taking your caricature down from Mt. Lushmore."
+23264,114,18,164000,Moe Szyslak,Moe's Tavern,And I'm pulling your favorite song out of the juke box.
+23265,114,19,176000,Homer Simpson,Moe's Tavern,It's Raining Men?
+23266,114,20,178000,Moe Szyslak,Moe's Tavern,"Yeah, not no more it ain't."
+23267,114,21,180000,Waylon Smithers,Moe's Tavern,Oww. Ohh...
+23268,114,22,187000,Homer Simpson,Moe's Tavern,Jokes on them. I'm still alive.
+23270,114,24,193000,Bart Simpson,Simpson Living Room,"Cheer up, Homer."
+23271,114,25,194000,Homer Simpson,Simpson Living Room,Can't.
+23272,114,26,195000,Bart Simpson,Simpson Living Room,Okay.
+23273,114,27,197000,Marge Simpson,Simpson Living Room,What if you pretended that this couch were a bar? Then you could spend more nights at home with us. Huh?
+23274,114,28,203000,Homer Simpson,Simpson Living Room,I'm not going to dignify that with an answer.
+23275,114,29,206000,Lisa Simpson,Simpson Living Room,"Look on the bright side, Dad. Did you know that the Chinese use the same word for crisis as they do for opportunity?"
+23276,114,30,211000,Homer Simpson,Simpson Living Room,"Yes. Cris-a-tunity. You're right! I've been wasting my life away in that dump for years. That's it. I'm going to find a new bar to drink in. And I'm gonna get drunker than I've been in my entire life! Bart, where's my wallet?"
+23277,114,31,227000,Bart Simpson,Simpson Living Room,"Right here, Dad."
+23278,114,32,229000,Homer Simpson,Simpson Living Room,Thank you!
+23280,114,34,235000,Homer Simpson,UPSCALE BAR,"Wow, classy."
+23281,114,35,237000,Host,UPSCALE BAR,"Good evening, sir. Would you please leave without a fuss right now?"
+23282,114,36,242000,Homer Simpson,UPSCALE BAR,Okay.
+23284,114,38,248000,Homer Simpson,CHEERS-LIKE BAR,"Hmmm. This looks like a nice, friendly place."
+23285,114,39,252000,Carla,CHEERS-LIKE BAR,"Sammy, you're too old to go on a date with two twins on the same night you're supposed to marry Diane without Rebecca knowing."
+23286,114,40,259000,Sam,CHEERS-LIKE BAR,"Okay Carla. I'll make you a bet. If this affects my major league comeback, I'll sell the bar."
+23287,114,41,264000,Norm,CHEERS-LIKE BAR,"Woody, gimme a beer."
+23288,114,42,266000,Woody,CHEERS-LIKE BAR,"I think you've had enough, Mr. Peterson. My chiropractor says I can't carry you home anymore."
+23289,114,43,271000,Norm,CHEERS-LIKE BAR,"Just give me another beer, you brain dead hick."
+23290,114,44,275000,Norm,CHEERS-LIKE BAR,I'll kill you! I'll kill all of ya!
+23291,114,45,277000,Cliff,CHEERS-LIKE BAR,"Whoa! Settle down, Normie. Gotta save those pipes for karaoke."
+23293,114,47,284000,Norm,CHEERS-LIKE BAR,I love you guys.
+23297,114,49,295000,Homer Simpson,GAY BAR,"Wait a minute. There's something bothering me about this place. I know - this lesbian bar doesn't have a fire exit. Enjoy your death trap, ladies."
+23298,114,50,309000,Woman,GAY BAR,What was her problem?
+23300,114,52,311000,Man,Moe's Tavern,"Greetings, good man. Might I trouble you for a drink?"
+23301,114,53,317000,Moe Szyslak,Moe's Tavern,"Oh, get outta here, Homer."
+23302,114,54,319000,Man,Moe's Tavern,"""Homer?"" Who is Homer? My name is Guy Incognito."
+23303,114,55,327000,Homer Simpson,Moe's Tavern,"Gr-aargh! Oh my God, this man is my exact double. That dog has a puffy tail!"
+23304,114,56,340000,Homer Simpson,Moe's Tavern,"Here, Puff! Here Puff!"
+23305,114,57,347000,Homer Simpson,Moe's Tavern,"The last bar in Springfield. If they don't let me in here, I'm gonna have to quit drinking."
+23306,114,58,353000,Homer Simpson,Moe's Tavern,"Shut up, liver."
+23307,114,59,355000,Homer Simpson,Moe's Tavern,"Ooh, my liver hurts."
+23309,114,61,362000,Homer Simpson,The Little Black Box,"I'd like a beer, please."
+23310,114,62,363000,Bartender,The Little Black Box,"Sorry, you gotta be a pilot to drink in here."
+23311,114,63,366000,Homer Simpson,The Little Black Box,"Uh, but I am a pilot."
+23312,114,64,367000,Bartender,The Little Black Box,Where's your uniform?
+23313,114,65,368000,Homer Simpson,The Little Black Box,I stowed it safely in the overhead compartment.
+23314,114,66,372000,Bartender,The Little Black Box,"Well, you talk the talk. Here's a loner."
+23315,114,67,376000,Runway Signaler,The Little Black Box,"We need a pilot. Pronto. Who wants to fly to the ""Windy City?"""
+23316,114,68,381000,Runway Signaler,The Little Black Box,Conditions are windy.
+23317,114,69,385000,Runway Signaler,The Little Black Box,You.
+23318,114,70,386000,Homer Simpson,The Little Black Box,But I -
+23319,114,71,387000,Runway Signaler,The Little Black Box,"Hey, you're not just impersonating a pilot so you can drink here, are you?"
+23320,114,72,391000,Homer Simpson,The Little Black Box,"Yeah, that's exactly why I'm here."
+23321,114,73,395000,Runway Signaler,The Little Black Box,You fly boys. You crack me up.
+23323,114,75,397000,Homer Simpson,Cockpit,"But, I keep tellin' ya, I'm not a pilot."
+23324,114,76,400000,Runway Signaler,Cockpit,"And I keep telling you, you fly boys crack me up."
+23325,114,77,403000,Alan,Cockpit,"Hi, I'm Alan. I'm your co-pilot."
+23326,114,78,404000,Homer Simpson,Cockpit,"Uh, yeah, um, uh as a change of pace, I'm gonna let you do most of the work. I think you're ready for it, Alan."
+23327,114,79,414000,Homer Simpson,Cockpit,"And um, ah, I'll just uh get us started..."
+23328,114,80,420000,Alan,Cockpit,"Uh, we'll need that to live."
+23330,114,83,430000,Executive,AIRLINE HEADQUARTERS,"If word gets out about this, Kwazy Klown Airlines will be a laughing stock. In exchange for your silence, I'm prepared to offer your family free tickets to anywhere in the United States. Excluding Alaska and Hawaii. The freak states."
+23331,114,84,444000,Homer Simpson,AIRLINE HEADQUARTERS,Woo hoo!
+23333,114,86,445000,Homer Simpson,Simpson Home,"Good news, everybody. Because I endangered lives, we can fly anywhere we want."
+23334,114,87,450000,Bart Simpson,Simpson Home,Alaska!
+23335,114,88,450000,Lisa Simpson,Simpson Home,Hawaii!
+23336,114,89,451000,Marge Simpson,Simpson Home,"I don't know, Homer. We're right in the middle of the busy housekeeping season."
+23337,114,90,457000,Homer Simpson,Simpson Home,"But Marge, you deserve a vacation. It's a chance for you to clean up after us in a whole other state."
+23338,114,91,464000,Marge Simpson,Simpson Home,"I don't want to be a wet blanket, but getting on a plane like that seems like a hassle coupled with a burden."
+23339,114,92,469000,Homer Simpson,Simpson Home,"Come on Marge, I want to shake off the dust of this one-horse town. I want to explore the world. I want to watch TV in a different time zone. I want to visit strange exotic malls. I'm sick of eating hoagies. I want a grinder, a sub, a foot-long hero. I want to live, Marge! Won't you let me live? Won't you please?"
+23342,114,95,495000,Homer Simpson,Airplane,"So Marge, pretty sweet, eh?"
+23343,114,96,498000,Marge Simpson,Airplane,"Oh, I forgot to clean the lint basket in the dryer. If someone broke into the house and did laundry, it could start a fire."
+23344,114,97,507000,Bart Simpson,Airplane,"Oh, great. I specifically asked not to be seated next to a baby."
+23345,114,98,513000,Grampa Simpson,Airplane,"Wow, we must really be flying high. Those people down there look all tiny and blurry... just like the inside of a cataract."
+23346,114,99,523000,Stewardess,Airplane,"Attention passengers. Due to our policy of overselling flights, this flight has been oversold. In accordance with FAA rules, the first two people to the front will be upgraded to first class."
+23347,114,100,539000,Stewardess,Airplane,"Okay, you two."
+23348,114,101,541000,Lisa Simpson,Airplane,"C'mon, Bart. They're gonna pamper us. Not literally, of course."
+23349,114,102,552000,Bart Simpson,Airplane,"I come for the service, but I stay for the leg room."
+23350,114,103,562000,Pilot,Airplane,Flight crew prepare for take off.
+23351,114,104,567000,Marge Simpson,Airplane,I think I'll go get a picture of the plane taking off.
+23353,114,105,570000,Homer Simpson,Airplane,"Marge, what's wrong? Are you Hungry? Sleepy? Gassy? Gassy? Is it gas? It's gas, isn't it?"
+23354,114,106,577000,Marge Simpson,Airplane,"Homer, I've never told you this before, but I'm not a good flyer. I have to get off the plane. Let me off the plane. I'm asking you nicely to open the doors."
+23355,114,107,592000,Homer Simpson,Airplane,"Take it easy, Marge. How 'bout if we dope you up real good?"
+23356,114,108,595000,Marge Simpson,Airplane,Let me off! Let me off! Let me off! Let me off! Let me off! Let me off! Let me off! Let me off! Let me off! Let me off! Let me off! Let me off! Let me off!
+23358,114,110,604000,Homer Simpson,AIRPLANE RUNWAY,"It's okay, Marge. We don't need to go on a trip. We'll just wait for the killer bees to come to us."
+23360,114,112,618000,Bart Simpson,Simpson Living Room,"You know, I have this feeling that we forgot something..."
+23364,114,116,627000,Homer Simpson,Simpson Living Room,I'm sure it's nothing.
+23365,114,117,628000,Lisa Simpson,Simpson Living Room,"Mom, are you feeling any better?"
+23366,114,118,630000,Marge Simpson,Simpson Living Room,"Yes, but I'd rather not talk about it."
+23367,114,119,633000,Homer Simpson,Simpson Living Room,Permit me to solve the mystery. Your mother has a fear of flying.
+23368,114,120,637000,Bart Simpson,Simpson Living Room,"So much for the days when I could say ""at least my mother's normal."""
+23369,114,121,637000,Marge Simpson,Simpson Living Room,"Well, everybody's got a fear of something."
+23370,114,122,642000,Homer Simpson,Simpson Living Room,Not everybody.
+23371,114,123,644000,Marge Simpson,Simpson Living Room,Sock puppets.
+23372,114,124,645000,Homer Simpson,Simpson Living Room,Where? Where?
+23373,114,125,645000,Lisa Simpson,Simpson Living Room,"Mom, are you sure you don't want to discuss it?"
+23374,114,126,649000,Marge Simpson,Simpson Living Room,Sure as sugar.
+23375,114,127,655000,Homer Simpson,Simpson Living Room,"Lisa, the important thing is for your mother to repress what happened. Push it deep down inside her... so she'll never annoy us again."
+23376,114,128,665000,Lisa Simpson,Simpson Living Room,"But if we don't encourage her to vent her feelings, they can come out in other ways."
+23377,114,129,669000,Marge Simpson,Simpson Living Room,I just realized we never had a wedding for the cat and the dog. They've been living in sin.
+23379,114,131,685000,Lisa Simpson,KITCHEN,"Mom, you've been cooking all night?"
+23380,114,132,687000,Marge Simpson,KITCHEN,"Judge, jury, and executioner all rolled into one, you are."
+23352,114,133,691000,Lisa Simpson,KITCHEN,"See, Dad. I told you Mom would have problems."
+23382,114,134,694000,Marge Simpson,KITCHEN,"No, no honey, it's all right. Really. I'm fine. I'm all right. Mother always said ""don't complain. Be good. Behave, behave. Be nice, smile be polite, don't make waves."""
+23383,114,135,704000,Homer Simpson,KITCHEN,"You heard your mother's ramblings. She's fine, so behave."
+23385,114,137,714000,Homer Simpson,Simpson Master Bedroom,"Marge, it's three A.M. Shouldn't you be baking?"
+23386,114,138,719000,Marge Simpson,Simpson Master Bedroom,In a little while.
+23388,114,140,722000,Lisa Simpson,Simpson Living Room,"Mom, can we talk to you?"
+23389,114,141,724000,Marge Simpson,Simpson Living Room,Can't talk. Keeping myself in a state of cat-like readiness.
+23390,114,142,729000,Lisa Simpson,Simpson Living Room,"Uh, neat... anyway, Mom, maybe you should go into therapy."
+23391,114,143,733000,Marge Simpson,Simpson Living Room,"Mm, no, I don't need therapy, I'm fine. And it's too expensive."
+23392,114,144,737000,Homer Simpson,Simpson Living Room,And I don't believe in it. It breaks up families.... turns wives against husbands... children against fathers... neighbors against me. You don't have to pay some fancy psychiatrist ten bucks an hour to get top notch therapy.
+23393,114,145,750000,Psychic,Simpson Living Room,"Hello, Radio Psychic. You will die a terrible, terrible death. Ooh I'm sorry, that was our last caller. Okay, I'm getting something now... huh?... Okay, you will die a terrible, terrible death."
+23394,114,146,764000,Marge Simpson,Simpson Living Room,But I...
+23395,114,147,764000,Announcer,Simpson Living Room,"Thank you for calling ""Radio Psychic."" Do you have a song request?"
+23396,114,148,768000,Homer Simpson,Simpson Living Room,It's Raining Men!
+23398,114,150,768000,Homer Simpson,Video Store,"Now Marge, ""Dear Abby"" says seeing films about air travel can calm your fears. Ooh, here are some upbeat titles. ""Hero."" ""Fearless."" ""Alive."""
+23400,114,152,783000,Man,Simpson Home,"No thanks to the plane, many of us are still..."
+23401,114,153,787000,All,Simpson Home,Alive.
+23402,114,154,789000,Additional Man,Simpson Home,We certainly are.
+23403,114,155,792000,Man,Simpson Home,Pass me another hunk of co-pilot.
+23404,114,156,794000,Lisa Simpson,Simpson Home,"Dad, Mom's getting worse. You have to take her to see a real psychiatrist. Look how tense she is."
+23405,114,157,800000,Homer Simpson,Simpson Home,She's fine.
+23406,114,158,802000,Homer Simpson,Simpson Home,Oh.
+23411,114,160,808000,Homer Simpson,PSYCHIATRIST'S WAITING ROOM,"All right, Lisa, you got your way. Your mom's going to a psychiatrist. She's gonna tell Marge to leave me. It'll break up the family, and you'll have to live with your grandmother and pick beans."
+23412,114,161,819000,Lisa Simpson,PSYCHIATRIST'S WAITING ROOM,"Dad, I like picking beans with grandma."
+23413,114,162,821000,Homer Simpson,PSYCHIATRIST'S WAITING ROOM,"Well keep it up, then."
+23414,114,163,822000,Lisa Simpson,PSYCHIATRIST'S WAITING ROOM,"Okay, I will."
+23415,114,164,824000,Homer Simpson,PSYCHIATRIST'S WAITING ROOM,"Good, you do that."
+23416,114,165,825000,Lisa Simpson,PSYCHIATRIST'S WAITING ROOM,Fine.
+23417,114,166,826000,Homer Simpson,PSYCHIATRIST'S WAITING ROOM,You'll be picking many a bean.
+23418,114,167,828000,Lisa Simpson,PSYCHIATRIST'S WAITING ROOM,Hope I do.
+23419,114,168,831000,Bart Simpson,PSYCHIATRIST'S WAITING ROOM,I don't believe it! Principal Skinner!
+23420,114,169,834000,Bart Simpson,PSYCHIATRIST'S WAITING ROOM,"Well, well, well. I never thought I'd win this easy."
+23421,114,170,839000,Seymour Skinner,PSYCHIATRIST'S WAITING ROOM,"Huh, this has nothing to do with you, Simpson. I have many, many issues with my beloved smother -- mother."
+23422,114,171,846000,Homer Simpson,PSYCHIATRIST'S WAITING ROOM,"Bart, leave that man alone with his pain and sit down."
+23423,114,172,848000,Bart Simpson,PSYCHIATRIST'S WAITING ROOM,Okay.
+23425,114,174,854000,Homer Simpson,Dr. Zweig's Office,All right. How much do you charge?
+23426,114,175,855000,Dr. Zweig,Dr. Zweig's Office,"If money's a problem, I charge on a sliding scale. I can go as low as thirty dollars an hour."
+23427,114,176,860000,Homer Simpson,Dr. Zweig's Office,Keep sliding.
+23428,114,177,862000,Marge Simpson,Dr. Zweig's Office,Thirty dollars will be fine.
+23429,114,178,864000,Homer Simpson,Dr. Zweig's Office,"Whoa, whoa, whoa, whoa, whoa. First, what are your qualifications?"
+23430,114,179,867000,Dr. Zweig,Dr. Zweig's Office,Well...
+23431,114,180,870000,Homer Simpson,Dr. Zweig's Office,"Oh, no, I'm not here to take a reading test. I wanna see some credentials."
+23432,114,181,875000,Marge Simpson,Dr. Zweig's Office,"I'm sorry, doctor. He's just afraid you'll blame all my problems on him."
+23433,114,182,879000,Dr. Zweig,Dr. Zweig's Office,I'm not here to blame anyone.
+23434,114,183,883000,Dr. Zweig,Dr. Zweig's Office,"Marge, therapy can be an intense process."
+23436,114,185,886000,Dr. Zweig,Dr. Zweig's Office,We're going to delve deeply into your subconscious and we're not going to stop until we've exposed the root of your fear of flying.
+23438,114,187,895000,Dr. Zweig,Dr. Zweig's Office,"Don't worry, this is a private sanctuary where whatever transpires will be just between us."
+23439,114,188,904000,Dr. Zweig,Dr. Zweig's Office,"Oh, that's just Murray, the window washer. He comes everyday at 12:00."
+23440,114,189,907000,Marge Simpson,Dr. Zweig's Office,But it's a few seconds before 12:00.
+23410,114,193,917000,Homer Simpson,Lobby,"Every since you started therapy all you can do is talk about yourself. Well what about me, Marge?"
+23296,114,194,923000,Marge Simpson,Lobby,I just left my first session and I haven't even opened my mouth yet.
+23441,114,195,927000,Homer Simpson,Lobby,"You see?! You see?! ""I"" just left ""my"" first session and ""I"" haven't opened ""my"" mouth yet."
+23443,114,197,928000,Dr. Zweig,Dr. Zweig's Office,"Marge, there's no simple explanation for your fear of flying. But it can probably be traced to some childhood trauma. Think back, what's the earliest memory you have of something bad happening?"
+23444,114,198,947000,Marge Simpson,Dr. Zweig's Office,Hmm. That would have to be my first day of school.
+23446,114,200,951000,Selma Bouvier,MARGE'S CHILDHOOD HOME,"They got this thing called a ""fire drill."" They use it to drill a flaming hole in your head."
+23448,114,202,961000,Patty Bouvier,MARGE'S CHILDHOOD HOME,And there's only one big toilet and they make you all go at the same time.
+23449,114,203,970000,Marge Simpson,MARGE'S CHILDHOOD HOME,The kids at school were even worse.
+23451,114,205,978000,Girl,School Bus,"Ew, you like The Monkees? You know they don't write their own songs!"
+23452,114,206,983000,Marge Simpson,School Bus,They do so!
+23453,114,207,984000,Girl,School Bus,They don't even play their own instruments...
+23454,114,208,985000,Marge Simpson,School Bus,No! No!
+23455,114,209,988000,Girl,School Bus,That's not even Michael Nesmith's real hat.
+23458,114,212,991000,Dr. Zweig,Dr. Zweig's Office,Kids can be so cruel.
+23459,114,213,994000,Marge Simpson,Dr. Zweig's Office,But it's true. They didn't write their own songs or play their own instruments.
+23460,114,214,998000,Dr. Zweig,Dr. Zweig's Office,"The Monkees weren't about music, Marge! They were about rebellion, about political and social upheaval."
+23463,114,217,1006000,Homer Simpson,Simpson Living Room,Did you talk about me in therapy today?
+23464,114,218,1008000,Marge Simpson,Simpson Living Room,I don't think so.
+23465,114,219,1010000,Homer Simpson,Simpson Living Room,"Tell me the truth! Don't tell her I raised my voice. Don't. Happy family, happy family."
+23467,114,221,1017000,Marge Simpson,Dr. Zweig's Office,"I keep having the same dream. I'm the mother from ""Lost In Space."""
+23469,114,223,1024000,Marge Simpson,Desolate Planet,"Ready for breakfast, Doctor Smith?"
+23470,114,224,1026000,Homer Simpson,Desolate Planet,"Oh, being stuck on this God forsaken planet has vanquished what little appetite I have."
+23471,114,225,1034000,Lisa Simpson,Desolate Planet,Warning. Warning. Doctor Smith refuses to do his astro chores.
+23472,114,226,1041000,Homer Simpson,Desolate Planet,"Why, you clattering clank of.... My dear lady, as you well know my back is a disaster area. D'oh the pain! D'oh the pain of it all!"
+23473,114,227,1048000,Lisa Simpson,Desolate Planet,"Danger, danger... My hooks are flailing wildly!"
+23474,114,228,1056000,Marge Simpson,Desolate Planet,Wait! Daddy! Wait! Please don't leave. Take me with you!
+23476,114,230,1063000,Dr. Zweig,Dr. Zweig's Office,"Marge, are you aware you just said ""please don't leave"" to your daddy?"
+23477,114,231,1067000,Marge Simpson,Dr. Zweig's Office,"No, I didn't."
+23478,114,232,1069000,Dr. Zweig,Dr. Zweig's Office,"Yes, you did. And you also infringed on any number of copyrights. Now, let's talk about your father."
+23479,114,233,1076000,Marge Simpson,Dr. Zweig's Office,"Sure, okay. I'll talk about father. Father Christmas. That's what they call Santa Claus in England. They drive on the wrong side of the road there. Now that's crazy. People are always saying how small England is. But you couldn't fit it all in here. Not by a long shot. You know what? I'm cured."
+23480,114,234,1093000,Dr. Zweig,Dr. Zweig's Office,Marge get back here... and tell me about your father. What did he do for a living?
+23481,114,235,1099000,Marge Simpson,Dr. Zweig's Office,Okay. Okay... But you're gonna make a big deal outta this. He was a pilot.
+23482,114,236,1104000,Dr. Zweig,Dr. Zweig's Office,A pilot? This is a big deal.
+23483,114,237,1108000,Marge Simpson,Dr. Zweig's Office,You see.
+23484,114,238,1109000,Dr. Zweig,Dr. Zweig's Office,"Marge this may not be the best time to bring this up, but uh, your last check bounced."
+23485,114,239,1114000,Marge Simpson,Dr. Zweig's Office,Wait. I'm remembering something...
+23486,114,240,1116000,Dr. Zweig,Dr. Zweig's Office,"Yes, Marge, there's still the matter of..."
+23487,114,241,1118000,Marge Simpson,Dr. Zweig's Office,I was a little girl...
+23489,114,243,1123000,Mr. Bouvier,Springfield Airport,"Goodbye, Margie. Be a good girl, now."
+23490,114,244,1128000,Marge Simpson,Springfield Airport,Why does Daddy have to leave?
+23491,114,245,1130000,Jacqueline Bouvier,Springfield Airport,Because he's a pilot. He flies all over the world.
+23492,114,246,1134000,Marge Simpson,Springfield Airport,I want to see Daddy fly!
+23493,114,247,1136000,Jacqueline Bouvier,Springfield Airport,"Margie, oh come back!"
+23495,114,249,1141000,Marge Simpson,Airplane,"Daddy?! Daddy, where are you, Da..."
+23496,114,250,1144000,Mr. Bouvier,Airplane,"So who wants a pre-flight cookie? Fig Newtons, Hydrox?"
+23497,114,251,1148000,Marge Simpson,Airplane,Daddy?
+23498,114,252,1151000,Mr. Bouvier,Airplane,Don't look at me! DON'T LOOK AT ME!!
+23500,114,254,1161000,Marge Simpson,Dr. Zweig's Office,My father was a stewardess.
+23501,114,255,1163000,Dr. Zweig,Dr. Zweig's Office,"Marge, there's nothing to be ashamed of here. Today, male flight attendants or ""Stewards"" are common."
+23502,114,256,1172000,Marge Simpson,Dr. Zweig's Office,They are?
+23503,114,257,1173000,Dr. Zweig,Dr. Zweig's Office,Yes. Thanks to trailblazers like your father. You might say he was a pioneer.
+23504,114,258,1179000,Marge Simpson,Dr. Zweig's Office,Yeah... You might even say he was an American hero.
+23505,114,259,1182000,Dr. Zweig,Dr. Zweig's Office,Let's not go nuts. The important thing is that we've pinpointed the precise moment when you developed your fear of flying.
+23506,114,260,1192000,Marge Simpson,Dr. Zweig's Office,"Wait, some other stuff's coming back to me."
+23508,114,262,1195000,Gramma Bouvier,MARGE'S CHILDHOOD HOME,Open wide. Here comes the airplane!
+23512,114,266,1211000,Jacqueline Bouvier,CORN FIELD,"This is what a corn field looks like, honey."
+23516,114,270,1220000,Marge Simpson,Dr. Zweig's Office,You think those could also have contributed to my fear of flying?
+23517,114,271,1224000,Dr. Zweig,Dr. Zweig's Office,"Yes, yes. It's all a rich tapestry."
+23518,114,272,1226000,Marge Simpson,Dr. Zweig's Office,"Oh well, Thank you, Doctor, you've changed my life!"
+23519,114,273,1229000,Dr. Zweig,Dr. Zweig's Office,"You know, Marge. We've really just begun to scratch the surface. There's still the far more serious problem of your husband."
+23520,114,274,1235000,Homer Simpson,Dr. Zweig's Office,That's okay. You don't have to make her into some kind of superwoman. She can get on a plane. That's plenty.
+23521,114,275,1239000,Marge Simpson,Dr. Zweig's Office,"Thank you, Doctor. Whenever the wind whistles through the leaves I'll think Lowenstein, Lowenstein."
+23522,114,276,1247000,Dr. Zweig,Dr. Zweig's Office,My name is Zweig.
+23523,114,277,1249000,Marge Simpson,Dr. Zweig's Office,Lowenstein.
+23526,114,280,1258000,Homer Simpson,Airplane,"Don't worry about a thing, honey. I'm gonna help you through this."
+23527,114,281,1266000,Homer Simpson,Airplane,Those are all normal noises. Luggage compartment closing. Cross-checking. Just sit back and relax.
+23529,114,283,1277000,Homer Simpson,AIRPORT RUNWAY,That's just the engine powering up. That's just the engine struggling.
+23530,114,284,1288000,Homer Simpson,AIRPORT RUNWAY,That's just a carp swimming around your ankles.

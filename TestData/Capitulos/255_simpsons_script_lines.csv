@@ -1,0 +1,309 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+63248,255,2,88000,Valet,VALET PARKING STAND,Welcome to the Magic Palace.
+63249,255,3,90000,Homer Simpson,VALET PARKING STAND,"Okay, you can park my car, but no joyriding."
+63250,255,4,95000,Homer Simpson,VALET PARKING STAND,Wait a minute...
+63252,255,6,102000,Questo,MAGIC PALACE,"Hello, I'm Questo. I'll be your waiter and mentalist for this evening."
+63253,255,7,107000,Questo,MAGIC PALACE,I'm receiving a drink order... Something foamy... Is it a beeee...?
+63254,255,8,113000,Homer Simpson,MAGIC PALACE,Beer! Yes! How did you know?
+63255,255,9,117000,Questo,MAGIC PALACE,And for the lady... A Long Island iced tea.
+63256,255,10,122000,Marge Simpson,MAGIC PALACE,"Oh. They ought to call that a ""Large Island Iced Tea."" No, ""Long"" is better."
+63257,255,11,133000,Lisa Simpson,MAGIC PALACE,Are you really gonna drink that?
+63258,255,12,135000,Marge Simpson,MAGIC PALACE,"Well, maybe a sip. I don't want to offend our mentalist."
+63259,255,13,140000,QUESTO'S THOUGHTS,MAGIC PALACE,If she doesn't like it I'll just die.
+63260,255,14,142000,Marge Simpson,MAGIC PALACE,Mmm.
+63262,255,16,150000,Lisa Simpson,MAGIC PALACE,"Mom, you're missing a great show."
+63263,255,17,153000,Marge Simpson,MAGIC PALACE,You don't know what I'm missing.
+63264,255,18,157000,Marge Simpson,MAGIC PALACE,Mmm. I'd like to visit that Long Island place. If only it were real...
+63265,255,19,164000,Magician,MAGIC PALACE,"Now, for my next illusion, I'll need a volunteer."
+63266,255,20,167000,Marge Simpson,MAGIC PALACE,I'll do it. I always end up doing it.
+63267,255,21,172000,Magician,MAGIC PALACE,I'm Diablo. What's your name?
+63268,255,22,176000,Marge Simpson,MAGIC PALACE,Marge.
+63269,255,23,177000,Magician,MAGIC PALACE,"Okay, Marge, and who's that gentleman you're with?"
+63270,255,24,180000,Marge Simpson,MAGIC PALACE,"That's no gentleman, that's my husband."
+63271,255,25,187000,Lisa Simpson,MAGIC PALACE,"Wow, Mom got a laugh."
+63272,255,26,189000,Bart Simpson,MAGIC PALACE,I wish she drank every day.
+63273,255,27,192000,Magician,MAGIC PALACE,Do we love Marge or what?
+63274,255,28,195000,Marge Simpson,MAGIC PALACE,"Oh, please. I didn't say that for clapping."
+63275,255,29,198000,Magician,MAGIC PALACE,"Now, Marge, I have a problem."
+63276,255,30,198000,Marge Simpson,MAGIC PALACE,Yeah?
+63277,255,31,200000,Magician,MAGIC PALACE,"You see, the Emperor of China is comin' over, and I don't have enough colorful silks."
+63278,255,32,203000,Marge Simpson,MAGIC PALACE,Ohhhh.
+63279,255,33,204000,Magician,MAGIC PALACE,So what I need of you is...
+63280,255,34,206000,Marge Simpson,MAGIC PALACE,You talk too much. Abra-ca-blab-ra! Am I right?
+63281,255,35,211000,Marge Simpson,MAGIC PALACE,See? The ladies know what I'm talkin' about.
+63282,255,36,215000,Magician,MAGIC PALACE,Tell you what: Let's get this ball-gag on ya...
+63283,255,37,218000,Magician,MAGIC PALACE,There we go. And we'll skip right ahead to the Kill-o-tine .
+63284,255,38,223000,Bart Simpson,MAGIC PALACE,"Ooh, baby!"
+63285,255,39,228000,Magician,MAGIC PALACE,"Don't worry, Marge. You won't feel a thing. You'll feel four things."
+63286,255,40,234000,Homer Simpson,MAGIC PALACE,He's very good.
+63289,255,43,246000,Homer Simpson,MAGIC PALACE,So she was made of chimps.
+63290,255,44,248000,Bart Simpson,MAGIC PALACE,"Man, magic can do anything!"
+63291,255,45,251000,Lisa Simpson,MAGIC PALACE,What happened to Mom?
+63292,255,46,253000,Marge Simpson,MAGIC PALACE,I'm right here!
+63293,255,47,256000,Marge Simpson,MAGIC PALACE,No! No! Get off me!
+63294,255,48,259000,Announcer,MAGIC PALACE,"Folks, this is not part of the act. Please help her."
+63295,255,49,263000,Marge Simpson,MAGIC PALACE,Get 'em off me! Get 'em off! Get 'em off!
+63296,255,50,266000,Bart Simpson,MAGIC PALACE,Cool! A gift shop.
+63297,255,51,268000,Bart Simpson,MAGIC PALACE,"""Ages 8 to 80."" Hmm... That's me! Dad, will you get me this magic kit?"
+63298,255,52,273000,Homer Simpson,MAGIC PALACE,"Gee, I wish I could, son, but we've already left the gift shop."
+63301,255,55,282000,Bart Simpson,Springfield Street,"Wow, it's approved by the Royal Magic College of Hyderabad."
+63302,255,56,285000,Lisa Simpson,Springfield Street,That's a party magic college.
+63303,255,57,288000,Bart Simpson,Springfield Street,It is not!
+63304,255,58,288000,Lisa Simpson,Springfield Street,Ya-huh!
+63305,255,59,289000,Bart Simpson,Springfield Street,Nuh-uh!
+63306,255,60,289000,Lisa Simpson,Springfield Street,Ya-huh!
+63307,255,61,290000,Marge Simpson,Springfield Street,"Could you cut it out, you two? Mommy needs some quiet right now."
+63309,255,63,299000,Homer Simpson,Springfield Street,What the hell is that?!
+63310,255,64,301000,Lisa Simpson,Springfield Street,It looks like a sturgeon.
+63311,255,65,303000,Marge Simpson,Springfield Street,But where did it come from?
+63316,255,70,323000,Mechanic,BODY SHOP,"Hmmm. Well, there's your problem."
+63317,255,71,324000,Homer Simpson,BODY SHOP,I know that. How much to fix it?
+63318,255,72,327000,Mechanic,BODY SHOP,"Ooh, well, ah, that's a foreign fish we're lookin' at... So, uh, sixty-five hundred. Plus three-fifty."
+63319,255,73,333000,Homer Simpson,BODY SHOP,I can't afford that.
+63320,255,74,335000,Bart Simpson,BODY SHOP,"Maybe I can make some money, Dad. My magic act is really coming along."
+63321,255,75,342000,Homer Simpson,BODY SHOP,He couldn't breathe.
+63323,255,77,344000,Homer Simpson,South Street Squidport,Step right up! See the magic boy! Witness mystifying feats that will leave you scratching your head until it's raw and bloody!
+63324,255,78,354000,Ned Flanders,South Street Squidport,"Oh, my goodness!"
+63325,255,79,357000,Homer Simpson,South Street Squidport,"Come on, pony up, Flanders. The kid's not turning tricks for nothin'."
+63326,255,80,361000,Ned Flanders,South Street Squidport,"Oh, no! I could never support the black arts."
+63327,255,81,363000,Homer Simpson,South Street Squidport,Black arts?!
+63328,255,82,364000,Ned Flanders,South Street Squidport,"Yeah, you know... magic, fortune telling, Oriental cooking..."
+63329,255,83,367000,Voice,South Street Squidport,"Hey, you guys... You're in our spot!"
+63330,255,84,372000,Homer Simpson,South Street Squidport,"Okay, we'll move. We don't want any trouble, fellas."
+63331,255,85,375000,Bart Simpson,South Street Squidport,"Dad, only one of them is real."
+63332,255,86,377000,Homer Simpson,South Street Squidport,"I know, but which one?"
+63333,255,87,381000,Homer Simpson,South Street Squidport,Sixty cents?! I would've made more if I'd gone into work today!
+63334,255,88,385000,Bart Simpson,South Street Squidport,"Hey, don't blame me. I gotta compete with TV, and the Internet."
+63335,255,89,388000,Homer Simpson,South Street Squidport,A good son would come through for his dad!
+63336,255,90,391000,Bart Simpson,South Street Squidport,"Yeah, and a good dad wouldn't miss his son's Little League games!"
+63337,255,91,394000,Homer Simpson,South Street Squidport,I told you! I find them boring.
+63338,255,92,397000,Bart Simpson,South Street Squidport,"Well, I showed up for all your stupid interventions."
+63339,255,93,400000,Homer Simpson,South Street Squidport,"Oh, that's it! You can walk home!"
+63340,255,94,408000,Bart Simpson,South Street Squidport,"Dad, come back! I can't walk home with all this stuff!"
+63341,255,95,416000,Bernice Hibbert,South Street Squidport,Poor boy. Here's some money for bus fare.
+63342,255,96,419000,Sideshow Mel,South Street Squidport,"My father was a monster, too."
+63343,255,97,426000,PUPPETEER,South Street Squidport,"Come on, brothers. Dig deep."
+63345,255,99,432000,Homer Simpson,Springfield Street,"Stupid, non-magical son, can't pay to fix my car."
+63346,255,100,435000,Bart Simpson,Springfield Street,"Hey, Homer! Check it out!"
+63347,255,101,438000,Homer Simpson,Springfield Street,What the?!
+63349,255,103,441000,Homer Simpson,Simpson Home,Is that a steak?
+63350,255,104,442000,Bart Simpson,Simpson Home,"Yeah, I know a little place."
+63351,255,105,444000,Homer Simpson,Simpson Home,Who gave you all this money?
+63352,255,106,445000,Bart Simpson,Simpson Home,People. I guess they thought I was a charity case.
+63353,255,107,448000,Homer Simpson,Simpson Home,"Really. Hey, maybe we could do that again. Can you look even more pathetic?"
+63354,255,108,457000,Homer Simpson,Simpson Home,"Oh ho, ho, that's beautiful! We could make a fortune."
+63355,255,109,461000,Bart Simpson,Simpson Home,But wouldn't that make us con artists?
+63356,255,110,465000,Homer Simpson,Simpson Home,"Well, yeah. But God conned me out of sixty-five hundred bucks in car repairs."
+63357,255,111,471000,Bart Simpson,Simpson Home,"So in a way, we'd just be balancing out the universe."
+63358,255,112,476000,Homer Simpson,Simpson Home,There ya go! We'd be stealing from people we know. It's just like the seasons.
+63359,255,113,483000,Bart Simpson,Simpson Home,Sounds good. Wanna eat my fat?
+63360,255,114,486000,Homer Simpson,Simpson Home,I think you know the answer to that.
+63362,255,116,494000,Bart Simpson,Bart's Treehouse,"This book has all the classic cons. There's ""The Pigeon Drop,"" ""The Ear Wigger,"" ""The Brillstein Grab..."""
+63363,255,117,496000,Homer Simpson,Bart's Treehouse,They have any father-and-son grifts?
+63364,255,118,501000,Bart Simpson,Bart's Treehouse,"Well, there's the ""Albany Ham Scam."""
+63365,255,119,501000,Homer Simpson,Bart's Treehouse,Interesting.
+63366,255,120,505000,Bart Simpson,Bart's Treehouse,"Oh, wait. Here we go..."
+63368,255,122,511000,Marge Simpson,Simpson Home,What are you doing? Why are you frosting that old throw pillow?
+63369,255,123,514000,Homer Simpson,Simpson Home,I could ask you the very same question.
+63370,255,124,516000,Marge Simpson,Simpson Home,Should I just back out of the room?
+63371,255,125,519000,Homer Simpson,Simpson Home,Would you?
+63373,255,127,526000,Bart Simpson,South Street Squidport,"Okay, Dad. Ready for our first con?"
+63374,255,128,528000,Homer Simpson,South Street Squidport,You bet. Let's trim the mark.
+63375,255,129,531000,Bart Simpson,South Street Squidport,"Nice use of the lingo, Homer."
+63376,255,130,533000,Homer Simpson,South Street Squidport,"Ten-four, Kemosabe."
+63377,255,131,540000,Kent Brockman,South Street Squidport,"Well, I love you, too. Good night, and have a pleasant tomorrow."
+63378,255,132,547000,Kent Brockman,South Street Squidport,"Oh, excuse me!"
+63379,255,133,548000,Bart Simpson,South Street Squidport,"What happened? Where's my cake? It's all right, isn't it?"
+63380,255,134,553000,Kent Brockman,South Street Squidport,Uhhh...
+63382,255,135,554000,Homer Simpson,South Street Squidport,"What have you done, you clumsy little ox?! That cake was for your deaf sister!"
+63383,255,136,558000,Kent Brockman,South Street Squidport,"Sir, it was my fault."
+63384,255,137,560000,Homer Simpson,South Street Squidport,"No, no. Don't protect him. You'll work off that cake in the acid mines."
+63385,255,138,565000,Kent Brockman,South Street Squidport,"No, no, no. I'll pay for the cake."
+63386,255,139,567000,Homer Simpson,South Street Squidport,"Well, you're the mark."
+63387,255,140,569000,Homer Simpson,South Street Squidport,... of integrity.
+63388,255,141,571000,Bart Simpson,South Street Squidport,"Wow, look at all this loot! What should we buy first?"
+63389,255,142,575000,Homer Simpson,South Street Squidport,"A singing rubber fish, of course."
+63391,255,144,577000,Marge Simpson,Simpson Home,There you are. How was the magic act?
+63392,255,145,581000,Homer Simpson,Simpson Home,What in the hell are you talking about?
+63393,255,146,584000,Homer Simpson,Simpson Home,"Oh, right, the magic. The magic was great. It's really... the way to go."
+63394,255,147,589000,Lisa Simpson,Simpson Home,How'd you do your act? You left your magic kit here.
+63395,255,148,592000,Bart Simpson,Simpson Home,Or so it would seem...
+63396,255,149,595000,Homer Simpson,Simpson Home,Suckers.
+63397,255,150,596000,Lisa Simpson,Simpson Home,"I dunno, Mom. I think they're up to something..."
+63398,255,151,599000,Marge Simpson,Simpson Home,"Uh, sure looks that way... But at least Bart and Homer are spending quality time together."
+63399,255,152,605000,Lisa Simpson,Simpson Home,Is that a Long Island Iced Tea?
+63400,255,153,607000,Marge Simpson,Simpson Home,"Oh, this? Hmm. I think it is."
+63401,255,154,615000,Marge Simpson,Simpson Home,You're a pretty girl.
+63403,255,156,617000,Bart Simpson,South Street Squidport,"Here, boy! Here doggie. Oh where has my little dog gone?"
+63404,255,157,622000,Dr. Julius Hibbert,South Street Squidport,"Oh, you lost your doggie?"
+63405,255,158,624000,Bart Simpson,South Street Squidport,"Yeah, I saw him playing in the water, and then he was gone. He had a bright red leash, with bells on it."
+63406,255,159,630000,Dr. Julius Hibbert,South Street Squidport,"Oh, I'm sure he's around here somewhere."
+63407,255,160,634000,Dr. Julius Hibbert,South Street Squidport,"Oh, dear Lord!"
+63408,255,161,637000,Bart Simpson,South Street Squidport,He's the bestest dog ever. He's light brown and he has a spot on him shaped like a heart.
+63409,255,162,643000,Dr. Julius Hibbert,South Street Squidport,"Sorry son, but..."
+63410,255,163,644000,Bart Simpson,South Street Squidport,"I just gotta get him back!... Or if not him, a similar dog..."
+63411,255,164,649000,Homer Simpson,South Street Squidport,Dog for sale!
+63412,255,165,651000,Homer Simpson,South Street Squidport,Dog for sale!
+63414,255,166,655000,Dr. Julius Hibbert,South Street Squidport,How much for the dog?
+63415,255,167,657000,Homer Simpson,South Street Squidport,"Oh, he's not for sale."
+63417,255,169,659000,Homer Simpson,South Street Squidport,Although if the right offer came along...
+63419,255,171,666000,Homer Simpson,High Pressure Tire sales,"Here's for the repairs, and a little extra for you."
+63420,255,172,670000,Mechanic,High Pressure Tire sales,"Hey, thanks, chief."
+63421,255,173,672000,Bart Simpson,High Pressure Tire sales,"My Bar Mitzvah cake! Oy, I'll never be a man!"
+63423,255,175,680000,Bart Simpson,Flanders Home,Dad?
+63424,255,176,681000,Homer Simpson,Flanders Home,"Yes, son?"
+63425,255,177,682000,Bart Simpson,Flanders Home,Why are we still grifting? The car's paid for. Doesn't that balance out the universe?
+63426,255,178,687000,Homer Simpson,Flanders Home,In a way. But I also remembered some other stuff... like my bike that was stolen in third grade. Plus the baldness.
+63427,255,179,693000,Bart Simpson,Flanders Home,"Okay, I'm sold."
+63428,255,180,695000,Homer Simpson,Flanders Home,"Hello, is the lady of the house in?"
+63429,255,181,698000,Ned Flanders,Flanders Home,"Oh, no, Homer, remember? Maudie got called up to Heaven."
+63430,255,182,702000,Homer Simpson,Flanders Home,"Oh, of course, of course. It's just that..."
+63431,255,183,706000,Ned Flanders,Flanders Home,What?
+63432,255,184,707000,Homer Simpson,Flanders Home,"Well, before she died, she ordered this Bible especially for you."
+63433,255,185,712000,Ned Flanders,Flanders Home,"Why, there's my name in gold."
+63434,255,186,714000,Homer Simpson,Flanders Home,"Now, you weren't home, so we had to pay the delivery man..."
+63435,255,187,718000,Ned Flanders,Flanders Home,"Well, I'll just reimburse you right n-- Wait a minute. This seems an awful lot like that movie, ""Paper Moon."""
+63436,255,188,725000,Bart Simpson,Flanders Home,"Run, Dad!"
+63438,255,190,729000,Homer Simpson,Bart's Treehouse,We'll be safe here.
+63439,255,191,730000,Bart Simpson,Bart's Treehouse,That was too close. Maybe it's time to quit the game.
+63440,255,192,733000,Grampa Simpson,Bart's Treehouse,Amateurs!
+63441,255,193,735000,Homer Simpson,Bart's Treehouse,Dad?
+63442,255,194,736000,Grampa Simpson,Bart's Treehouse,That's right.
+63443,255,195,739000,Bart Simpson,Bart's Treehouse,You don't smoke a pipe.
+63444,255,196,740000,Grampa Simpson,Bart's Treehouse,That's right.
+63445,255,197,744000,Homer Simpson,Bart's Treehouse,How'd you get wise to us?
+63446,255,198,745000,Grampa Simpson,Bart's Treehouse,Are you kiddin'? They used to call me Grifty McGrift. I wrote the book on flim-flammin'.
+63447,255,199,752000,Bart Simpson,Bart's Treehouse,"Wow, he did."
+63448,255,200,754000,Grampa Simpson,Bart's Treehouse,"Yeah, in the Depression, you had to grift. Either that, or work."
+63449,255,201,759000,Homer Simpson,Bart's Treehouse,"So what's the pitch, old man?"
+63450,255,202,760000,Grampa Simpson,Bart's Treehouse,"Team up with me, boys, and we'll go for the biggest honey pot of 'em all."
+63452,255,204,768000,Homer Simpson,BUSHES,Oh... my... God.
+63453,255,205,770000,Bart Simpson,BUSHES,I don't know... Fleecin' old people?
+63454,255,206,773000,Grampa Simpson,BUSHES,"Oh, why not? If we don't take their money, they'll just give it to some televangelist."
+63455,255,207,779000,Homer Simpson,BUSHES,Let's dust a few fossils.
+63456,255,208,781000,Grampa Simpson,BUSHES,"Now, this scam was in ""The Sting Part II,"" so nobody knows about it."
+63458,255,210,793000,Homer Simpson,Springfield Retirement Castle,Which one of you youngsters is Abe Simpson?
+63459,255,211,796000,Grampa Simpson,Springfield Retirement Castle,I'm Abe Simpson.
+63460,255,212,798000,Homer Simpson,Springfield Retirement Castle,You've just won 10 million dollars from that Publisher's Cleary-dealie!
+63461,255,213,803000,Grampa Simpson,Springfield Retirement Castle,Wha?!
+63462,255,214,804000,Old Jewish Man,Springfield Retirement Castle,Everybody come quick! Abe Simpson is rich!
+63463,255,215,808000,Grampa Simpson,Springfield Retirement Castle,"I can't believe it! I can finally afford a young, crazy stripper wife."
+63464,255,216,816000,Grampa Simpson,Springfield Retirement Castle,"Yeah, I'm gonna get me the craziest, strippiest..."
+63465,255,217,823000,Homer Simpson,Springfield Retirement Castle,He's dead.
+63466,255,218,826000,Bart Simpson,Springfield Retirement Castle,"Oh, this is terrible. Now who do we give the money to?"
+63467,255,219,829000,Homer Simpson,Springfield Retirement Castle,I guess we'll just have to haul the check back to headquarters. Too bad we couldn't just give it to these nice folks.
+63468,255,220,835000,Bart Simpson,Springfield Retirement Castle,"Forget it, Ed. Do you know what it costs to sign over a check this big? Why, the wealth transfer fee would run at least a hundred dollars a head."
+63469,255,221,843000,Homer Simpson,Springfield Retirement Castle,You're right. We'd better just take this check back for shredding.
+63470,255,222,845000,Jasper Beardly,Springfield Retirement Castle,"No, wait! We've got a hundred bucks each! Hang on!"
+63472,255,224,853000,Homer Simpson,Springfield Retirement Castle,"Thank you... no shoving... that's right, put your money in here... all of it... Is that everyone?"
+63473,255,225,861000,Homer Simpson,Springfield Retirement Castle,"What's your problem, Sport? Afraid to be rich?"
+63474,255,226,865000,Silver-haired Man,Springfield Retirement Castle,"Hold your horses, I'll get to ya..."
+63475,255,227,868000,Silver-haired Man,Springfield Retirement Castle,FBI.
+63477,255,229,870000,Silver-haired Man,Springfield Retirement Castle,You're under arrest for fraud.
+63478,255,230,876000,Bart Simpson,Springfield Retirement Castle,"Throw the book at him, Sonny."
+63480,255,232,879000,FBI MAN,Springfield Retirement Castle,"Now, where's the inside man?"
+63481,255,233,884000,Grampa Simpson,Springfield Retirement Castle,"Call me mint jelly, 'cause I'm on the lam!"
+63482,255,234,891000,Homer Simpson,Springfield Retirement Castle,So we're under arrest for fraud?
+63483,255,235,895000,FBI MAN,Springfield Retirement Castle,"Yes, fraud."
+63485,255,237,904000,FBI MAN,Simpson Car,"Well, this is about the flashiest car I've ever impounded."
+63486,255,238,907000,Homer Simpson,Simpson Car,"Thanks, woo, it took a lotta grifting."
+63487,255,239,911000,Bart Simpson,Simpson Car,"Please, FBI man, don't throw us in jail. We just made one mistake."
+63488,255,240,915000,Homer Simpson,Simpson Car,"Yeah. We're not criminals. We're just two crazy, mixed-up kids."
+63489,255,241,921000,FBI MAN,Simpson Car,"Hmm... Okay, tell you what. I'll let you turn yourselves in. Maybe they'll go easier on you."
+63490,255,242,927000,Homer Simpson,Simpson Car,You'd do that for us?
+63491,255,243,929000,FBI MAN,Simpson Car,"Well, I did ruin the boy's birthday cake. Go on in. But I'll be watching."
+63492,255,244,933000,Homer Simpson,Simpson Car,"Okay, thank you, sir."
+63494,255,246,936000,Homer Simpson,Springfield Police Station,"Don't worry, son. I have an idea."
+63495,255,247,939000,Homer Simpson,Springfield Police Station,"Chief, I'd like to scare my son straight. Could I show him a jail cell?"
+63496,255,248,945000,Chief Wiggum,Springfield Police Station,"Oh, sure. I'll put you in the Rick James suite. It's super-freaky."
+63498,255,250,954000,Bart Simpson,JAIL CELL,"Okay, we're all locked up now..."
+63499,255,251,954000,Homer Simpson,JAIL CELL,Yeah. Ya big idiot...
+63500,255,252,959000,FBI MAN,JAIL CELL,Excellent. I guess I'll just be swiping your car now.
+63502,255,254,964000,FBI MAN,JAIL CELL,"Oh, and this lovely bag of cash."
+63503,255,255,967000,FBI MAN,JAIL CELL,"So long, suckers! Woo hoo!"
+63504,255,256,971000,Bart Simpson,JAIL CELL,That's not an FBI badge.
+63505,255,257,974000,Homer Simpson,JAIL CELL,Colgate Cavity Patrol?
+63506,255,258,977000,Bart Simpson,JAIL CELL,That guy was a grifter!
+63507,255,259,979000,Homer Simpson,JAIL CELL,"Yeah, he conned us good. Well, at least we still have our jobs at the sweepstakes place."
+63508,255,260,984000,Homer Simpson,JAIL CELL,What?
+63510,255,262,985000,Bart Simpson,Springfield Street,Mom's gonna wonder where the car went. We'd better have a good story.
+63512,255,263,989000,Homer Simpson,Springfield Street,"Lies got us into this mess, son. From now on it's honesty all the way."
+63514,255,265,994000,Marge Simpson,Simpson Home,You were carjacked in the church parking lot?!
+63515,255,266,998000,Homer Simpson,Simpson Home,"Absolutely. We had stopped in for a quick prayer, when... Bart, would you call him a crazy man?"
+63516,255,267,1003000,Bart Simpson,Simpson Home,"Definitely. Well, crazy about carjacking."
+63517,255,268,1006000,Lisa Simpson,Simpson Home,What did he look like?
+63518,255,269,1007000,Homer Simpson,Simpson Home,"Well, hmm, let's see, he was foreign and he had some..."
+63519,255,270,1013000,Bart Simpson,Simpson Home,"Wild, bushy hair, like an animal."
+63520,255,271,1015000,Lisa Simpson,Simpson Home,Anything else?
+63521,255,272,1016000,Homer Simpson,Simpson Home,"Uh, well, he seemed like a loner... kept to himself, mostly."
+63522,255,273,1020000,Bart Simpson,Simpson Home,"And he said if we went to the cops, he'd come back for Maggie."
+63523,255,274,1023000,Marge Simpson,Simpson Home,"Oh, dear. We don't want that."
+63524,255,275,1026000,Homer Simpson,Simpson Home,"Anyhoo, the whole nightmare has really made us sleepy. Let's hit the hay."
+63526,255,277,1034000,Marge Simpson,Simpson Master Bedroom,"Homie! Homie, wake up! They've captured your crazed foreign carjacker!"
+63527,255,278,1038000,Homer Simpson,Simpson Master Bedroom,Huh? But that's impossible.
+63528,255,279,1041000,Marge Simpson,Simpson Master Bedroom,They're arresting him right now!
+63529,255,280,1043000,Groundskeeper Willie,Simpson Master Bedroom,"I didna do it, I tell ya."
+63530,255,281,1046000,Homer Simpson,Simpson Master Bedroom,Uh-oh.
+63531,255,282,1048000,Groundskeeper Willie,Simpson Master Bedroom,At least let me comb me hair. It's all wild and bushy.
+63532,255,283,1052000,Chief Wiggum,Simpson Master Bedroom,"What do you care, loner?"
+63533,255,284,1054000,Homer Simpson,Simpson Master Bedroom,"Well, look at that. But who called the police?"
+63534,255,285,1057000,Lisa Simpson,Simpson Master Bedroom,We did.
+63535,255,286,1058000,Marge Simpson,Simpson Master Bedroom,"After we got Maggie to a safe house, of course."
+63537,255,288,1061000,Selma Bouvier,Patty and Selma's Apartment,She hasn't touched her Manwich.
+63539,255,290,1064000,Groundskeeper Willie,Simpson Master Bedroom,Ye cannot do this to Willie.
+63540,255,291,1067000,Groundskeeper Willie,Simpson Master Bedroom,"I'm innocent, I tell ya!"
+63541,255,292,1069000,Marge Simpson,Simpson Master Bedroom,They always say they're innocent. It's such a turn-off.
+63542,255,293,1072000,Bart Simpson,Simpson Master Bedroom,"Dad, Willie got arrested 'cause of us!"
+63543,255,294,1074000,Homer Simpson,Simpson Master Bedroom,"'Course he did, son. He's a filthy crook. Now, let's all hit the hay."
+63511,255,295,1079000,Marge Simpson,Simpson Master Bedroom,It's ten in the morning!
+63544,255,296,1080000,Homer Simpson,Simpson Master Bedroom,I guess you haven't heard of chloroform.
+63546,255,298,1088000,Prosecutor,Courtroom,Will you tell the court your whereabouts at the time of the carjacking?
+63547,255,299,1092000,Groundskeeper Willie,Courtroom,I was alone in me Unabomber-style shack. I had nothing to do with that carjacking.
+63548,255,300,1097000,Prosecutor,Courtroom,Carjacking? Who said anything about a carjacking?
+63550,255,302,1103000,Groundskeeper Willie,Courtroom,But didn't ya just say...?
+63551,255,303,1104000,Prosecutor,Courtroom,"I'll ask the questions here, Carjacker Willie!"
+63552,255,304,1107000,Willie's Lawyer,Courtroom,Objection!
+63553,255,305,1108000,Judge Snyder,Courtroom,I'm going to allow it. It characterizes the defendant as a carjacker.
+63554,255,306,1111000,Bart Simpson,Courtroom,"Dad, we've got to tell everyone the truth."
+63555,255,307,1114000,Homer Simpson,Courtroom,Let's see how this plays out.
+63556,255,308,1116000,Prosecutor,Courtroom,"Mr. Simpson, could you describe your assailant to the court?"
+63557,255,309,1120000,Homer Simpson,Courtroom,"I told you, my memory is fuzzy. Fuzzy!"
+63558,255,310,1124000,Prosecutor,Courtroom,Fuzzy like Willie's beard?
+63560,255,312,1128000,Homer Simpson,Courtroom,"Yes, exactly! No, no! I mean, the whole incident is hazy."
+63561,255,313,1133000,Prosecutor,Courtroom,Hazy like the moors of Scotland?
+63563,255,315,1136000,Homer Simpson,Courtroom,"Yes, exactly!"
+63566,255,318,1144000,Homer Simpson,Courtroom,Hey? Mountain Dew?!
+63569,255,321,1152000,Judge Snyder,Courtroom,"Mr. Foreman, has the jury reached a verdict?"
+63570,255,322,1156000,Cletus Spuckler,Courtroom,I believe we was promised five dollars a day.
+63571,255,323,1159000,Cletus Spuckler,Courtroom,"All right, then. Guilty!"
+63573,255,325,1163000,Judge Snyder,Courtroom,"Carjacker Willie, I sentence you to ten years in prison."
+63574,255,326,1170000,Bart Simpson,Courtroom,Dad! Tell them!
+63575,255,327,1172000,Homer Simpson,Courtroom,When the time is right...
+63576,255,328,1173000,Groundskeeper Willie,Courtroom,Ten years?! But I didna do it!
+63577,255,329,1176000,Chief Wiggum,Courtroom,"Suuure, you didna. Now, let's get you to Attica, and we can..."
+63578,255,330,1180000,Groundskeeper Willie,Courtroom,No!
+63580,255,332,1182000,Groundskeeper Willie,Courtroom,You'll never send me up the river!
+63581,255,333,1184000,Bart Simpson,Courtroom,Daa-ad!
+63582,255,334,1185000,Homer Simpson,Courtroom,Let's see where he's going with this...
+63584,255,336,1190000,Seymour Skinner,Courtroom,"Willie! As your employer, I insist that you..."
+63585,255,337,1196000,Homer Simpson,Courtroom,Stop! This has gone on just long enough.
+63586,255,338,1199000,Homer Simpson,Courtroom,Nobody carjacked me. I tried to pull a con and got conned myself. And then I lied to you all! So did Bart.
+63587,255,339,1216000,Marge Simpson,Courtroom,"Okay, players! That's a wrap!"
+63588,255,340,1223000,Lisa Simpson,Courtroom,"Nice work, everybody!"
+63589,255,341,1224000,Bart Simpson,Courtroom,Wait a minute. This whole thing was a set-up?!
+63590,255,342,1227000,Homer Simpson,Courtroom,But Skinner got shot!
+63591,255,343,1230000,Seymour Skinner,Courtroom,Yep. Blanks and a blood pack.
+63592,255,344,1233000,Chief Wiggum,Courtroom,"Hey, watch it!"
+63593,255,345,1234000,Ralph Wiggum,Courtroom,I look like cable TV.
+63594,255,346,1236000,Bart Simpson,Courtroom,What about that bullet hole in your hair?
+63595,255,347,1238000,Marge Simpson,Courtroom,Squibs!
+63597,255,349,1240000,Grampa Simpson,Courtroom,"Yeah, we hornswoggled you good."
+63598,255,350,1244000,Homer Simpson,Courtroom,But what about the guy who took my car?
+63599,255,351,1248000,FBI MAN,Courtroom,"Devon Bradley. Character actor, dancer, singer. I'm a triple-threat!"
+63600,255,352,1253000,Marge Simpson,Courtroom,"He's doing ""Dreamcoat"" at the dinner theater."
+63601,255,353,1255000,Homer Simpson,Courtroom,I can't believe everyone was in on it.
+63602,255,354,1259000,Groundskeeper Willie,Courtroom,Willie wasn't!
+63603,255,355,1260000,Homer Simpson,Courtroom,"Wait a minute. You're telling me the police force, the TV news, a courthouse full of people, and a popular entertainer had nothing better to do than to teach me and Bart a lesson?"
+63604,255,356,1270000,Lisa Simpson,Courtroom,"I know it seems farfetched, even insulting to your intelligence. But, there's a simple and highly satisfying explanation. You see..."
+63605,255,357,1278000,Otto Mann,Courtroom,"Hey, everybody! Surf's up!"
+63607,255,359,1283000,Bart Simpson,Ocean,Cowabunga!

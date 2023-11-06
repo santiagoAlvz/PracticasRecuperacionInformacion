@@ -1,0 +1,297 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+59618,243,1,84000,Lisa Simpson,Country Road,How much farther to the campground?
+59620,243,3,86000,Homer Simpson,Simpson Car,"Let's see... Judging from the bug build-up, we're gettin' close."
+59621,243,4,90000,Marge Simpson,Simpson Car,I'm not sure mosquito season is the best time to visit Larva Lake...
+59622,243,5,95000,Park Ranger,Simpson Car,"Folks, you're gonna want to turn around. The bugs are firmly in charge."
+59623,243,6,100000,Homer Simpson,Simpson Car,What?
+59624,243,7,101000,Park Ranger,Simpson Car,"Please, just go! They've taken the Visitors' Center! They, they ate the comment book!"
+59625,243,8,104000,Homer Simpson,Simpson Car,All right! Geez...
+59627,243,10,113000,Park Ranger,Simpson Car,"Hey, hey, my class ring! Ah --"
+59628,243,11,116000,Park Ranger,Simpson Car,"Oh, thanks a lot."
+59629,243,12,117000,Bart Simpson,Simpson Car,"Hey, an Indian casino!"
+59630,243,13,119000,Homer Simpson,Simpson Car,God bless Native America.
+59631,243,14,127000,Homer Simpson,Simpson Car,"Let's go, Marge. C'mon, c'mon, c'mon!"
+59632,243,15,129000,Marge Simpson,Simpson Car,"Homer, you know I had a gambling problem."
+59633,243,16,132000,Homer Simpson,Simpson Car,"Well, what better place to celebrate your recovery than amidst the frenzied excitement of the casino floor? Lisa?"
+59634,243,17,140000,Lisa Simpson,Simpson Car,"Ah, something troubles me about Indian gaming. On the one hand, the revenue helps the tribes..."
+59635,243,18,146000,Homer Simpson,Simpson Car,Sure we can't talk you into it?
+59637,243,20,149000,Security Guard,INDIAN CASINO,No minors.
+59638,243,21,150000,Bart Simpson,INDIAN CASINO,"Yeah, but I really wanna..."
+59639,243,22,152000,Homer Simpson,INDIAN CASINO,"Sorry, son. Although they seem strange to us, we must respect the ways of the Indian."
+59640,243,23,158000,Homer Simpson,INDIAN CASINO,"HI-HOW-ARE-YA, HI-HOW-ARE-YA, HI-HOW-ARE-YA, HI-HOW-ARE-YA."
+59641,243,24,162000,Bart Simpson,INDIAN CASINO,I gotta get in that casino.
+59642,243,25,167000,Arthur Crandall,INDIAN CASINO,The Great Gabbo demands a free night in the Presidential Suite while performing.
+59643,243,26,172000,Stage Manager,INDIAN CASINO,We'll give you a free pass to the pasta bar.
+59644,243,27,175000,Arthur Crandall,INDIAN CASINO,The Great Gabbo accepts your terms.
+59645,243,28,189000,Arthur Crandall,INDIAN CASINO,Oooh.
+59646,243,29,189000,Arthur Crandall,INDIAN CASINO,"Quiet, Gabbo."
+59647,243,30,192000,Arthur Crandall,INDIAN CASINO,"I'd like to introduce you to my little wooden friend. He's in his box, pining away."
+59649,243,32,200000,Arthur Crandall,INDIAN CASINO,Say hello to...
+59651,243,34,203000,Arthur Crandall,INDIAN CASINO,Gabbo! You've become a real boy!
+59652,243,35,207000,Bart Simpson,INDIAN CASINO,"All right! Time for some underage gambling. So long, sucker!"
+59653,243,36,219000,Bart Simpson,INDIAN CASINO,Eep.
+59655,243,38,219000,Casino Manager,INDIAN CASINO,Your linen service has broken many promises to us. Laundry bill soar like eagle!
+59656,243,39,224000,Casino Manager,INDIAN CASINO,Jerk!
+59657,243,40,227000,Casino Manager,INDIAN CASINO,"So, you like to sneak into casinos?"
+59658,243,41,231000,Bart Simpson,INDIAN CASINO,I wasn't gonna gamble. I just wanted a Bloody Mary.
+59659,243,42,234000,Casino Manager,INDIAN CASINO,"Listen to me. Unless you change your deceitful ways, I foresee a life of bitterness and failure for you... Bart Simpson."
+59660,243,43,242000,Bart Simpson,INDIAN CASINO,How'd you know my name?
+59661,243,44,243000,Casino Manager,INDIAN CASINO,Your father just took out a second mortgage downstairs. You're listed as collateral.
+59662,243,45,247000,Bart Simpson,INDIAN CASINO,Oh. I thought maybe you were some kind of Indian mystic who could tell the future.
+59663,243,46,252000,Casino Manager,INDIAN CASINO,Who says I'm not?
+59664,243,47,254000,Bart Simpson,INDIAN CASINO,Whoa!
+59665,243,48,255000,Casino Manager,INDIAN CASINO,"If you want to see your future, throw a treasured personal item into the fire."
+59666,243,49,260000,Bart Simpson,INDIAN CASINO,Okay.
+59667,243,50,263000,Casino Manager,INDIAN CASINO,Not a firecracker!
+59668,243,51,264000,Bart Simpson,INDIAN CASINO,"Hey, I bought it from a guy on your reservation."
+59669,243,52,267000,Casino Manager,INDIAN CASINO,That's crazy talk.
+59670,243,53,268000,Bart Simpson,INDIAN CASINO,"No, it's true."
+59671,243,54,269000,Casino Manager,INDIAN CASINO,"No, I know. That's my brother, Crazy Talk. We're all a little worried about him. Now, look into the flame."
+59672,243,55,276000,Casino Manager,INDIAN CASINO,Look ahead thirty years... to the man you will become.
+59674,243,57,284000,Bart Simpson,BEACH BUNGALOW,"Ew, that's me in the future?"
+59675,243,58,286000,Casino Manager,BEACH BUNGALOW,"Quiet, you're about to say something."
+59677,243,60,294000,Bart Simpson,BEACH BUNGALOW,"Check, check. Hello, Capital City!"
+59678,243,61,297000,Bart Simpson,BEACH BUNGALOW,"Way to make a guitar, Sears."
+59679,243,62,300000,Ralph Wiggum,BEACH BUNGALOW,"Hey, Bart!"
+59680,243,63,300000,Ralph Wiggum,BEACH BUNGALOW,Any clean towels?
+59681,243,64,302000,Bart Simpson,BEACH BUNGALOW,Nah. Use this.
+59682,243,65,304000,Ralph Wiggum,BEACH BUNGALOW,I'm sick of havin' to dry myself with a newspaper.
+59683,243,66,307000,Ralph Wiggum,BEACH BUNGALOW,You could at least do some laundry. I pay the rent.
+59684,243,67,311000,Bart Simpson,BEACH BUNGALOW,"Dude, you know I'm good for it. I'll have plenty of money when my lawsuit pays off."
+59685,243,68,315000,Ralph Wiggum,BEACH BUNGALOW,You mean the spider bite at Disneyland?
+59686,243,69,318000,Bart Simpson,BEACH BUNGALOW,Or the incident with the over-salted fries...
+59687,243,70,322000,Delivery Boy,BEACH BUNGALOW,Hologram for Bart Simpson.
+59688,243,71,327000,Hologram Nelson,BEACH BUNGALOW,"Hey, dingus, your band can play at my club tonight."
+59689,243,72,330000,Bart Simpson,BEACH BUNGALOW,Yes!
+59690,243,73,331000,Hologram Nelson,BEACH BUNGALOW,But I can only pay you in popcorn shrimp. Smell ya later.
+59691,243,74,338000,Bart Simpson,BEACH BUNGALOW,"I can't believe ""smell ya later"" replaced ""goodbye."""
+59692,243,75,338000,Delivery Boy,BEACH BUNGALOW,Smell ya later.
+59693,243,76,342000,Ralph Wiggum,BEACH BUNGALOW,Smell ya later.
+59694,243,77,344000,Bart Simpson,BEACH BUNGALOW,All right! We've got our first gig!
+59695,243,78,346000,Ralph Wiggum,BEACH BUNGALOW,But you traded your amplifier for a boogie board.
+59696,243,79,348000,Bart Simpson,BEACH BUNGALOW,No prob. I'll just mooch some green off my folks.
+59697,243,80,351000,Ralph Wiggum,BEACH BUNGALOW,"Should we take the hoverbus, or the non-hoverbus?"
+59698,243,81,354000,Bart Simpson,BEACH BUNGALOW,Nonhover.
+59700,243,83,360000,Homer Simpson,Simpson House of the Future,Bleh. This virtual fudge tastes like crap.
+59701,243,84,363000,Marge Simpson,Simpson House of the Future,Not half as good as cyberfudge.
+59702,243,85,367000,Bart Simpson,Simpson House of the Future,"Yo, it's me."
+59703,243,86,372000,Homer Simpson,Simpson House of the Future,"Oh, what a bleak, horrible future we live in!"
+59704,243,87,375000,Bart Simpson,Simpson House of the Future,Don't you mean present?
+59705,243,88,377000,Homer Simpson,Simpson House of the Future,"Right, right, present. Anyway, can I get you some Soylent Green?"
+59706,243,89,380000,Ralph Wiggum,Simpson House of the Future,Isn't that made of people?
+59707,243,90,382000,Homer Simpson,Simpson House of the Future,"Oh, here we go."
+59708,243,91,384000,Bart Simpson,Simpson House of the Future,"Hey, Dad. My band finally got a break. I just need a little moolah to get my amp outta hock. How about a little loanski?"
+59709,243,92,391000,Homer Simpson,Simpson House of the Future,"Oh, I'm tired of giving you money. Why can't you be more like Lisa?"
+59710,243,93,396000,Bart Simpson,Simpson House of the Future,I am so sick of hearing about Lisa. Just because she's doing a little better than me...
+59711,243,94,401000,Marge Simpson,Simpson House of the Future,She's President of the United States.
+59712,243,95,403000,Bart Simpson,Simpson House of the Future,"President-Elect. I could've been President, but I'm too real. People can't deal with what I'm layin' down. They're just like, ""Whoa, dude, you can't say that."" And I'm like, ""Watch me."""
+59713,243,96,408000,Marge Simpson,Simpson House of the Future,We're not giving you money.
+59714,243,97,415000,Bart Simpson,Simpson House of the Future,But I want some.
+59715,243,98,417000,Homer Simpson,Simpson House of the Future,You should've thought of that before you dropped out of the DeVry Institute.
+59716,243,99,423000,Bart Simpson,Simpson House of the Future,"What happened to you, man? You used to be cool."
+59717,243,100,426000,Homer Simpson,Simpson House of the Future,I'm still cool.
+59718,243,101,427000,Bart Simpson,Simpson House of the Future,"Nah, you've changed, man."
+59719,243,102,430000,Homer Simpson,Simpson House of the Future,"Well, I do have this robotic prostate, but you can't see it. Oh, you can."
+59721,243,104,439000,Bart Simpson,Flanders Home,Flanders is a soft touch. He'll give us the money for sure.
+59722,243,105,442000,Ned Flanders,Flanders Home,"Jesus, is that you?"
+59723,243,106,445000,Ralph Wiggum,Flanders Home,"Mr. Flanders, you're blind-a-ded!"
+59724,243,107,449000,Ned Flanders,Flanders Home,"Ah yeah, I never shoulda had that trendy laser surgery. It was great at first, but you know, at the ten-year mark, your eyes fall out."
+59725,243,108,457000,Bart Simpson,Flanders Home,"Listen, dude..."
+59726,243,109,458000,Ned Flanders,Flanders Home,"Oh, hi Bart. How much this time?"
+59727,243,110,460000,Bart Simpson,Flanders Home,"Dude, you got me all wrong..."
+59728,243,111,462000,Ned Flanders,Flanders Home,Yeah. Just answer me this: Are you holding your mooching sack?
+59729,243,112,465000,Bart Simpson,Flanders Home,My little one.
+59730,243,113,467000,Ned Flanders,Flanders Home,"Bart, you're never gonna to grow up if I keep bailing you out."
+59731,243,114,470000,Bart Simpson,Flanders Home,"Then please, help me help myself."
+59732,243,115,473000,Ned Flanders,Flanders Home,"Oh, all right. But only because you haven't outed Rod and Todd."
+59734,243,117,483000,Bart Simpson,NELSON'S CRAB-SHACK,"Hey, y'all ready to party?"
+59735,243,118,488000,Bart Simpson,NELSON'S CRAB-SHACK,"Now, we'd like to play a Jimmy Buffet song, but he un-coolly charges people to cover them. So here's a Cap'n Bart original. WASTED ONCE MORE IN DAQUIRITAVILLE..."
+59736,243,119,502000,Heckler,NELSON'S CRAB-SHACK,Rip-off!
+59737,243,120,503000,Old Barney,NELSON'S CRAB-SHACK,Get off the stage!
+59738,243,122,508000,Groundskeeper Willie,Club,We need more power! The shield won't hold much longer.
+59740,243,124,523000,Bart Simpson,BEACH BUNGALOW,"Oh, no. I've got half a beer in there! And ""Bewitched"" is on!"
+59741,243,125,528000,Ralph Wiggum,BEACH BUNGALOW,"Now we've got no home, no money, and our band's going nowhere. And it's all your fault. Smell ya later, Bart. Smell you later forever."
+59742,243,126,539000,Bart Simpson,BEACH BUNGALOW,He's right. I'm a loser. There's only one way out of this mess.
+59743,243,127,548000,Kent Brockman,BEACH BUNGALOW,"From around the globe, to your frontal lobe, this is BrainVision News. Tonight's winning lotto number: 4-4-6."
+59744,243,128,556000,Bart Simpson,BEACH BUNGALOW,Damn! I was so close! I had 3-2-7.
+59745,243,129,559000,Kent Brockman,BEACH BUNGALOW,"In other news, President-Elect Lisa Simpson moves into the White House tomorrow. The seventeen-bedroom home features free long-distance, laundry service, and three food-kitchens."
+59746,243,130,568000,Bart Simpson,BEACH BUNGALOW,"Well, I'm the President's no-good brother. ""Moochie-moochie."""
+59748,243,132,575000,Bart Simpson,INDIAN CASINO,Lisa's the President? I'm a pathetic loser? I gotta be honest: I'm not loving this vision.
+59749,243,133,580000,Casino Manager,INDIAN CASINO,The fire has more wisdom to impart to you. In three... two...
+59751,243,135,588000,Bart Simpson,Pennsylvania Avenue,Fifteen-ninety-six...
+59752,243,136,591000,Bart Simpson,Pennsylvania Avenue,Fifteen-ninety-eight...
+59753,243,137,596000,Bart Simpson,Pennsylvania Avenue,Sixteen hundred. Sweet...
+59755,243,139,600000,Lisa Simpson,White House,"Excellent question. Yes, I am proud to be America's first straight female President. Helen?"
+59756,243,140,606000,Helen Thomas,White House,Wasn't I wearing a hat?
+59757,243,141,609000,Lisa Simpson,White House,"Yes. Yes you were. Now, in conclusion, my administration will focus on the three R's: Reading, 'Riting and Refilling the ocean. Thank you very much."
+59758,243,142,624000,Lisa Simpson,White House,"As you know, we've inherited quite a budget crunch from President Trump. How bad is it, Secretary Van Houten?"
+59759,243,143,630000,Milhouse Van Houten,White House,We're broke.
+59760,243,144,632000,Lisa Simpson,White House,The country is broke? How can that be?
+59761,243,145,636000,Milhouse Van Houten,White House,"Well, remember when the last administration decided to invest in our nation's children? Big mistake."
+59762,243,146,642000,Aide,White House,The Balanced Breakfast Program just created a generation of ultra-strong super-criminals.
+59765,243,147,646000,Milhouse Van Houten,White House,And Midnight Basketball taught them to function without sleep.
+59766,243,148,649000,Lisa Simpson,White House,What about my pledge to build the world's largest bookmobile? Isn't there any money left for that?
+59767,243,149,654000,Aide,White House,No. And we've borrowed from every country in the world.
+59768,243,150,657000,Bart Simpson,White House,"Quick, Lisa! Call off your..."
+59769,243,151,659000,Lisa Simpson,White House,Bart!
+59770,243,152,660000,Bart Simpson,White House,Ow! Watch the ponytail!
+59771,243,153,662000,Lisa Simpson,White House,"Let him up, please."
+59772,243,154,663000,Lisa Simpson,White House,What are you doing here?
+59773,243,155,665000,Bart Simpson,White House,"I knew you'd need some help keepin' it real, so I figured I could be, like, your co-President."
+59774,243,156,671000,Lisa Simpson,White House,Co-President? Are you crazy?
+59775,243,157,674000,Bart Simpson,White House,"Mo-om, Lisa won't share."
+59776,243,158,676000,Marge Simpson,White House,"Be nice to your brother, Lisa."
+59778,243,160,684000,Marge Simpson,White House,Don't you think we should wait for Lisa? She is the President.
+59779,243,161,687000,Homer Simpson,White House,She knows what time dinner is.
+59780,243,162,697000,Lisa Simpson,White House,"Sorry I'm late. I've been racking my brain, trying to think of something to cut from the budget."
+59781,243,163,707000,Lisa Simpson,White House,"Hey, where's Maggie?"
+59782,243,164,708000,Marge Simpson,White House,Here she is. And look how big she's gotten.
+59784,243,166,712000,Marge Simpson,White House,"Aww, just like her mommy, Maggie Senior. So, what did everyone do today?"
+59785,243,167,719000,Lisa Simpson,White House,Appointed a Supreme Court Justice.
+59786,243,168,719000,Marge Simpson,White House,Oh!
+59787,243,169,721000,Bart Simpson,White House,"""Bewitched"" marathon."
+59789,243,171,723000,Homer Simpson,White House,Searched for Lincoln's gold.
+59790,243,172,724000,Lisa Simpson,White House,"Dad, that's just a myth. Lincoln didn't hide any gold in the White House."
+59791,243,173,728000,Homer Simpson,White House,Then what is his ghost protecting?
+59792,243,174,731000,Lisa Simpson,White House,"Hey, that's my helicopter!"
+59793,243,175,734000,Bart Simpson,White House,"Yeah, I sent it to pick up Ralph. No one was using it."
+59794,243,176,739000,Ralph Wiggum,White House,I fell out two times!
+59795,243,177,741000,Lisa Simpson,White House,"Bart, you do not send a billion-dollar helicopter to pick up your drinking buddy."
+59796,243,178,746000,Bart Simpson,White House,"You've changed, Lisa. You used to be cool."
+59797,243,179,748000,Lisa Simpson,White House,"No, I didn't."
+59799,243,182,749000,Lisa Simpson,White House,"I am proud to honor the players of the Negro Leagues of Rollerball. And as we strive for the desegregation of all deathsports, we cannot help but be inspired by..."
+59800,243,183,759000,Bart Simpson,White House,Heads!
+59801,243,184,766000,Bart Simpson,White House,"Hey, you guys owe me a frisbee. A new one."
+59802,243,185,769000,Lisa Simpson,White House,"Bart, get out of here!"
+59803,243,186,771000,Bart Simpson,White House,"Relax, Lis. You'll live longer."
+59804,243,187,773000,Lisa Simpson,White House,I can't relax! Being president is hard work. Maybe you should try doing something with your life.
+59805,243,188,779000,Bart Simpson,White House,I'm gonna!
+59806,243,189,780000,Lisa Simpson,White House,Yeah. Did you even call about that messenger job?
+59807,243,190,782000,Bart Simpson,White House,"Yeah, but they said I wouldn't get my first check for two weeks! Meanwhile, they're making major interest on my salary. Hey, maybe I can sue 'em."
+59809,243,192,789000,Homer Simpson,White House,... four score and four... four score and five... four score and six... four score and seven paces.
+59810,243,193,799000,Marge Simpson,White House,Wait! How do you know this is where Lincoln buried the gold? You just started counting from an arbitrary place.
+59811,243,194,806000,Homer Simpson,White House,I started what from a what?
+59812,243,195,807000,Marge Simpson,White House,Your plan makes no sense.
+59813,243,196,809000,Homer Simpson,White House,"Gold bars discovered by Marge? Zero. Gold bars discovered by Homer? Well, let's just see..."
+59814,243,197,818000,Homer Simpson,White House,"Oops, sorry, honey."
+59815,243,198,818000,Marge Simpson,White House,Gold bars discovered by Homer?
+59816,243,199,820000,Homer Simpson,White House,Shut up.
+59818,243,201,822000,Lisa Simpson,Oval Office,"If I'm gonna bail the country out... I'll have to raise taxes. But in my speech, I'd like to avoid calling it a ""Painful Emergency Tax."""
+59819,243,202,822000,Milhouse Van Houten,Oval Office,"What about ""Colossal Salary Grab""?"
+59820,243,203,833000,Lisa Simpson,Oval Office,"See, that has the same problem. We need to soften the blow."
+59821,243,204,836000,Milhouse Van Houten,Oval Office,"Well, if you just want to out-and-out lie... O-kay... We could call it a ""Temporary Refund Adjustment."""
+59822,243,205,842000,Lisa Simpson,Oval Office,I love it!
+59823,243,206,847000,Milhouse Van Houten,Oval Office,"Really? What else do you love, Lisa?"
+59824,243,207,849000,Lisa Simpson,Oval Office,Fiscal solvency.
+59825,243,208,851000,Milhouse Van Houten,Oval Office,"Oh Yeah, me too."
+59826,243,209,853000,Producer,Oval Office,"Thirty seconds, Madam President."
+59827,243,210,853000,Bart Simpson,Oval Office,"Hey, Lis. I need a favor."
+59828,243,211,855000,Lisa Simpson,Oval Office,"Not now, Bart. I'm about to speak to a hundred million people. This speech could make or break my presidency."
+59829,243,212,860000,Bart Simpson,Oval Office,I hear ya. All I want you to do is play my demo tape in the background while you're yakkin' about whatever.
+59830,243,213,865000,Bart Simpson,Oval Office,"Now, this ""PLAY"" button's a little screwed up, so you gotta hold it down."
+59831,243,214,868000,Lisa Simpson,Oval Office,Are you insane?
+59832,243,215,869000,Bart Simpson,Oval Office,What? You told me I should do something with my life.
+59833,243,216,871000,Producer,Oval Office,Five seconds!
+59834,243,217,874000,Bart Simpson,Oval Office,Mom!
+59835,243,218,878000,Lisa Simpson,Oval Office,"My fellow Americans, and voting illegal aliens: I will not mince words. Your country needs you. That's why today I am proposing a Temporary Refund Adjustment."
+59837,243,220,889000,Moe Szyslak,Moe's Tavern,"Refund? Hey, sounds good to me."
+59838,243,221,891000,Lenny Leonard,Moe's Tavern,Sure beats a tax!
+59839,243,222,892000,Carl Carlson,Moe's Tavern,"We love you, President Simpson."
+59841,243,224,894000,Lisa Simpson,Oval Office,The months ahead will be long and arduous. But it is only through arduousity th...
+59842,243,225,901000,Bart Simpson,Oval Office,IF YOU LIKE REFUND ADJUSTMENTS / AND THE MUSIC I PLAY / SEND A CHECK TO MY FRIEND RALPH / AND HE'LL MAIL YOU A TAPE...
+59843,243,226,909000,Lisa Simpson,Oval Office,"Uh, this is my brother Bart, who doesn't seem to realize this isn't the best time for his music. He's one of the people I want to help with my programs."
+59844,243,227,918000,Bart Simpson,Oval Office,"Hey Lis, my music is going to make it a lot easier for America to swallow your big tax hike."
+59846,243,229,923000,Moe Szyslak,Moe's Tavern,"Tax hike?! Hold the phone, Mabel!"
+59847,243,230,925000,Carl Carlson,Moe's Tavern,"You know, I never trusted her."
+59848,243,231,926000,Lenny Leonard,Moe's Tavern,Don't blame me. I voted for Chastity Bono.
+59850,243,233,931000,Bart Simpson,Oval Office,DAYLIGHT COME AND YOU WANT-A MY TAPE.
+59851,243,234,933000,Ralph Wiggum,Oval Office,TAPE! HE SAY TA-APE-O.
+59852,243,235,936000,Bart Simpson,Oval Office,POST OFFICE BOX 3-0-4-5-2...
+59853,243,236,938000,Lisa Simpson,Oval Office,"Goodnight, America."
+59854,243,237,940000,Producer,Oval Office,And we're out...
+59855,243,238,941000,Lisa Simpson,Oval Office,Why you little...
+59856,243,239,943000,Bart Simpson,Oval Office,Help! Secret Service!
+59859,243,240,953000,Kent Brockman,Oval Office,"According to polls, Americans have emphatically said ""smell ya later"" to President Simpson's ""refund adjustment"". And that's the news. We'll smell you again at eleven."
+59861,243,242,962000,Lisa Simpson,White House,"Thanks a lot, Bart. All right, how can we pay off our foreign debt?"
+59862,243,243,965000,Aide,White House,"I'm afraid it looks pretty grim. We're going to have to give them the amber waves of grain, the purple mountains' majesty, and the shores of Tripoli."
+59863,243,244,971000,Lisa Simpson,White House,We don't own the shores of Tripoli.
+59864,243,245,973000,Aide,White House,"Shh. By the time they find out, we'll have taken our cyanide pills."
+59865,243,246,976000,Lisa Simpson,White House,"Whoa, whoa, whoa! Why don't we just invite our creditor nations here, and gently remind them of America's past generosity?"
+59867,243,248,985000,Lisa Simpson,White House,"Ooh, but Bart could screw everything up..."
+59868,243,249,987000,Security Advisor Kearney,White House,You want him... eliminated?
+59869,243,250,988000,Lisa Simpson,White House,"No, just keep him out of my hair."
+59870,243,251,990000,Security Advisor Kearney,White House,Out of your hair with extreme severity?
+59871,243,252,992000,Lisa Simpson,White House,No!
+59872,243,253,994000,Security Advisor Kearney,White House,"C'mon. Every President gets three secret murders. If you don't use them by the end of the term, they're gone."
+59873,243,254,998000,Bart Simpson,White House,"All right, which one of you suits ran over my moped? I just put a dollar's worth of gas in that thing."
+59874,243,255,1002000,Lisa Simpson,White House,"Bart, we're having a meeting."
+59875,243,256,1002000,Bart Simpson,White House,You had a meeting this morning.
+59876,243,257,1005000,Lisa Simpson,White House,I have a lot of meetings. I'm the President.
+59877,243,258,1007000,Bart Simpson,White House,Of what? The United States of Dorksylvania?
+59878,243,259,1010000,Bart Simpson,White House,"Don't leave me hangin', Greenspan."
+59879,243,260,1014000,Lisa Simpson,White House,"You know something, Bart? You're right. My lack of coolness is really holding America back."
+59880,243,261,1020000,Bart Simpson,White House,Thank you. Down low.
+59881,243,262,1022000,Bart Simpson,White House,Too slow!
+59882,243,263,1024000,Lisa Simpson,White House,"You're too much, Bart. That's why I'm appointing you ""Secretary Of Keeping It Real."""
+59883,243,264,1030000,Bart Simpson,White House,Wow. You're really asking for my help?
+59884,243,265,1032000,Lisa Simpson,White House,Absolutely. I want you and your pals to go away to Camp David and write up a report on coolness.
+59885,243,266,1038000,Bart Simpson,White House,"Well, if my country needs me... Can we skinny-dip?"
+59857,243,267,1042000,Lisa Simpson,White House,At Camp David? Sure. They couldn't keep pants on Kissinger.
+59886,243,270,1051000,Bart Simpson,Camp David,Settle down. I invited you guys here to help me with this report. Any ideas?
+59887,243,271,1057000,Old Krusty,Camp David,Let's start off with a joke. I got one! Give me that.
+59888,243,272,1060000,Old Krusty,Camp David,What's the difference between Pakistan and a pancake? I don't know any pancakes that were nuked by India. What? Too soon?
+59889,243,273,1071000,Bart Simpson,Camp David,"Come on, people. We've got to buckle down here. When we're finished, we can go through Bill Clinton's porno stash..."
+59892,243,276,1088000,Bart Simpson,BANQUET ROOM,Lisa's counting on me for this coolness report.
+59893,243,277,1091000,Voice,BANQUET ROOM,"Coolness report? Ha, you been had, boy."
+59894,243,278,1095000,Bart Simpson,BANQUET ROOM,Billy Carter's ghost?!
+59895,243,279,1096000,Billy Carter's Ghost,BANQUET ROOM,"Damn straight. And I'm here to tell ya, you been sent on a wild goose chase."
+59896,243,280,1100000,Bart Simpson,BANQUET ROOM,You mean Lisa wanted to get rid of me?
+59897,243,281,1102000,Billy Carter's Ghost,BANQUET ROOM,"Well, that's a big ten-four. When my brother Jimmy was making peace in the Middle East, he sent me to belly-flop academy."
+59898,243,282,1108000,Bart Simpson,BANQUET ROOM,I guess I am an embarrassment.
+59899,243,283,1111000,Billy Carter's Ghost,BANQUET ROOM,"You sure are. Hey, there's an embarrassment to riches at the Caesar's Pow-wow Indian Casino. You can bet on it!"
+59900,243,284,1120000,Bart Simpson,BANQUET ROOM,You put an ad in my vision?
+59902,243,286,1122000,Casino Manager,CASINO MANAGER'S OFFICE,"Yeah, Crazy Talk came up with that. He got idea from Dances With Focus Groups."
+59904,243,288,1131000,Homer Simpson,White House,"Marge, I did it! I found Lincoln's gold!"
+59905,243,289,1136000,Homer Simpson,White House,Huh?
+59906,243,290,1138000,Marge Simpson,White House,"""Dear Countryman: You have come in search of my gold, and I will not disappoint you."""
+59907,243,291,1138000,Homer Simpson,White House,"Oh boy, oh boy, oh boy..."
+59908,243,292,1145000,Marge Simpson,White House,"""My gold is in the heart of every freedom-loving American.,my gold is in the heart of every freedom-loving american,10
+69808,243,293,""Homer Simpson: Ah"
+59909,243,294,1150000,Marge Simpson,White House,"It's in our mighty rivers, our majestic..."" Well, isn't that clever? It's a metaphor."
+59910,243,295,1156000,Homer Simpson,White House,"That lying , rail-splitting , theater-going freak!"
+59911,243,296,1162000,Foreign Delegates,White House,Pay your debt! / We'll sue them all! / We demand remittance!
+59912,243,297,1165000,Lisa Simpson,White House,"Please, calm down. We can work something out."
+59914,243,298,1168000,German Delegate,White House,"We Germans are not a war-like people, but even we have limits."
+59915,243,299,1172000,British Delegate,White House,Right! Let's bash her noggin'!
+59917,243,301,1176000,Bart Simpson,White House,You guys should relax. You'll live longer.
+59918,243,302,1180000,Lisa Simpson,White House,"Bart, you're supposed to be at Camp David."
+59919,243,303,1182000,Bart Simpson,White House,You're meeting with debt collectors and you don't want my help? Do you know how crazy that is?
+59920,243,304,1187000,Bart Simpson,White House,"Guys, the thing is, we totally have the money. And we tried to wire it to you, but you know how banks screw up."
+59921,243,305,1194000,French Delegate,White House,I do not understand.
+59922,243,306,1196000,Bart Simpson,White House,We tried to call you all day Saturday...
+59923,243,307,1197000,German Delegate,White House,We were there Saturday.
+59924,243,308,1199000,Bart Simpson,White House,"Dude, I know. And I left a message with some guy named Hans."
+59925,243,309,1202000,German Delegate,White House,Hans?
+59926,243,310,1203000,Bart Simpson,White House,He might have been a temp. Very surly.
+59927,243,311,1206000,German Delegate,White House,We have had a lot of turnover.
+59928,243,312,1208000,Chinese Delegate,White House,You pay now! Now!
+59929,243,313,1210000,Bart Simpson,White House,"What happened to you, China? You used to be cool."
+59930,243,314,1213000,Chinese Delegate,White House,"Hey, China is still cool. You pay later! Later!"
+59931,243,315,1216000,Bart Simpson,White House,"Solid. The rest of you, go on home and look in your mailboxes. 'Cause I totally remember sending checks out."
+59933,243,317,1228000,Lisa Simpson,White House,"Thanks Bart, you bought us some time. What can I do to thank you?"
+59934,243,318,1233000,Bart Simpson,White House,Legalize it.
+59935,243,319,1234000,Lisa Simpson,White House,"Legalize what? Oh, oh. Consider it done."
+59936,243,320,1240000,Bart Simpson,White House,Tasty. That calls for some tuneskis.
+59937,243,321,1245000,Bart Simpson,White House,"Oh, great. Anyone have a paper clip?"
+59939,243,323,1251000,Casino Manager,INDIAN CASINO,"Uh, it gets kinda hazy after that."
+59940,243,324,1254000,Bart Simpson,INDIAN CASINO,Why did a vision of my future include a story about Homer and Lincoln's gold?
+59941,243,325,1258000,Casino Manager,INDIAN CASINO,"I guess the spirits thought the main vision was a little thin. Anyway, the point is, you still have the power to change your future."
+59942,243,326,1265000,Bart Simpson,INDIAN CASINO,I'll do my best.
+59943,243,327,1266000,Casino Manager,INDIAN CASINO,You're a good kid. Here's a coupon for some crab claws.
+59944,243,328,1269000,Bart Simpson,INDIAN CASINO,"Hey, this is expired!"
+59945,243,329,1274000,Lisa Simpson,INDIAN CASINO,"There you are. Come on, we have to go. Dad pushed a waitress. And Mom lost twenty thousand dollars."
+59947,243,331,1283000,Bart Simpson,Casino,"You're not gonna believe it, Lis! This cool Indian guy showed me our future!"
+59948,243,332,1288000,Lisa Simpson,Casino,Really? Anything good?
+59949,243,333,1290000,Bart Simpson,Casino,I'll say! I've got my own band! And a Moped.
+59950,243,334,1292000,Lisa Simpson,Casino,What about me?
+59951,243,335,1294000,Bart Simpson,Casino,"Eh, some government job."

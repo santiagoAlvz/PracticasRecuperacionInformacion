@@ -10,6 +10,7 @@ import org.apache.lucene.search.similarities.ClassicSimilarity;
 import org.apache.lucene.index.IndexWriter;
 
 import java.util.Map;
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.HashMap;
@@ -41,7 +42,12 @@ public class EpisodeIndexer {
 
 		IndexWriterConfig iwc = new IndexWriterConfig(analyzer);
 		iwc.setSimilarity(sim);
-		iwc.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
+		
+		if(create) {
+			iwc.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
+		} else {
+			iwc.setOpenMode(IndexWriterConfig.OpenMode.APPEND);
+		}
 		
 		Directory dir = FSDirectory.open(Paths.get(indexPath));
 		
@@ -51,6 +57,9 @@ public class EpisodeIndexer {
 
 	public void index(String directory){
 		System.out.println("Indexing episodes stored in " + directory);
+		
+		File folder = new File(directory);
+		File[] files = folder.listFiles();
 		
 		close();
 	}

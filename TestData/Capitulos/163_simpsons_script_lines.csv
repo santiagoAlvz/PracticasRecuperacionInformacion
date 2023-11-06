@@ -1,0 +1,222 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+36234,163,1,87000,Leonard Nimoy,Darkened Room,"Hello, I'm Leonard Nimoy. The following tale of alien encounters is true. And by true, I mean false. It's all lies. But they're entertaining lies. And in the end, isn't that the real truth? The answer is no."
+36235,163,2,101000,Leonard Nimoy,Darkened Room,Our story begins on a Friday morning in a little town called Springfield.
+36237,163,4,110000,Homer Simpson,Springfield Nuclear Power Plant,"TGIF! Guys, I'm off to Moe's."
+36238,163,5,113000,Lenny Leonard,Springfield Nuclear Power Plant,"But Homer, it's ten in the morning."
+36239,163,6,115000,Homer Simpson,Springfield Nuclear Power Plant,"Don't worry, I have a plan. I saw this in a movie about a bus that had to speed around a city, keeping its speed over fifty, and if its speed dropped, it would explode. I think it was called ""The Bus That Couldn't Slow Down."" First, I hook this common VCR into the security camera system like so..."
+36240,163,7,137000,Homer Simpson,Springfield Nuclear Power Plant,"Then, I insert this old videotape of us working on a continuous loop..."
+36241,163,8,157000,C. Montgomery Burns,Springfield Nuclear Power Plant,"So, another Friday is upon us. What'll you be doing, Smithers? Something gay, no doubt."
+36242,163,9,163000,Waylon Smithers,Springfield Nuclear Power Plant,W-what?
+36243,163,10,165000,C. Montgomery Burns,Springfield Nuclear Power Plant,"You know, lighthearted. Fancy free. ""Mothers lock up your daughters, Smithers is on the town!"""
+36244,163,11,172000,Waylon Smithers,Springfield Nuclear Power Plant,"Exactly, sir."
+36246,163,13,175000,Jasper Beardly,Springfield Retirement Castle,Thank God it's Wednesday.
+36247,163,14,178000,Mrs. Glick,Springfield Retirement Castle,It's Friday.
+36248,163,15,180000,Jasper Beardly,Springfield Retirement Castle,Uh-oh. Wrong pills.
+36249,163,16,184000,Jasper Beardly,Springfield Retirement Castle,"Eh, little help."
+36251,163,18,192000,Video Arcade Man,Noiseland Arcade,"Sorry, Donkey Kong. You're just not a draw anymore."
+36252,163,19,198000,Video Arcade Man,Noiseland Arcade,"Hey, he's still got it."
+36253,163,20,201000,Milhouse Van Houten,Noiseland Arcade,Thirty-eight... thirty-nine... forty quarters. This better be good.
+36254,163,21,211000,Kevin Costner Voice,Noiseland Arcade,Game over. Please deposit forty quarters.
+36255,163,22,213000,Milhouse Van Houten,Noiseland Arcade,What a rip!
+36257,163,24,219000,Dr. Julius Hibbert,Dr. Hibbert's Office,Thank God it's Friday.
+36258,163,25,225000,Hans Moleman,Dr. Hibbert's Office,Hello? Hello?
+36260,163,27,236000,Marge Simpson,Simpson Home,Bad dog!
+36261,163,28,239000,Marge Simpson,Simpson Home,Bad cat!
+36263,163,29,243000,Marge Simpson,Simpson Home,Bad fawn! Hmm. Shoo! Shoo!
+36264,163,30,247000,Lisa Simpson,Simpson Home,All right! It's time for ABC's TGIF lineup!
+36265,163,31,248000,Bart Simpson,Simpson Home,"Lis, when you get a little older you'll learn that Friday's just another day between NBC's Must-See Thursday and CBS's Saturday Night Crap-o-rama."
+36267,163,33,248000,Moe Szyslak,Moe's Tavern,"Another Duff, Homer?"
+36268,163,34,263000,Homer Simpson,Moe's Tavern,"Nah, it's Friday night Moe. I wanna try something special."
+36269,163,35,267000,Moe Szyslak,Moe's Tavern,"Uh, sure, sure."
+36270,163,36,268000,Moe Szyslak,Moe's Tavern,"Uh, here you go. Düff. From Sweden."
+36271,163,37,273000,Homer Simpson,Moe's Tavern,Skoal! Wait a minute -- this is Duff!
+36272,163,38,278000,Moe Szyslak,Moe's Tavern,"Ah, ha ha, you got me, didn't ya? All right, here you go -- ""Red Tick Beer."""
+36273,163,39,283000,Homer Simpson,Moe's Tavern,"Hmm, bold -- refreshing... and something I can't quite put my finger on."
+36275,163,41,293000,Worker,Duff Brewery,Hmm... needs more dog.
+36277,163,43,299000,Homer Simpson,Moe's Tavern,"Well, it's one a.m. Better go home and spend some quality time with the kids."
+36278,163,44,303000,Moe Szyslak,Moe's Tavern,"Just a second, Homer, you gotta take a breathalyzer test before I let you drive home."
+36279,163,45,315000,Homer Simpson,Moe's Tavern,"Eh, I guess I'll walk home."
+36285,163,51,362000,Grampa Simpson,OPEN FIELD,"Oh, son, I'm glad to see ya. I went for the morning paper and I got lost, and..."
+36286,163,52,367000,Homer Simpson,OPEN FIELD,"No time for you, old man!"
+36287,163,53,369000,Grampa Simpson,OPEN FIELD,Aww.
+36288,163,54,400000,Homer Simpson,OPEN FIELD,"Please, don't hurt me!"
+36289,163,55,401000,Alien,OPEN FIELD,Don't be afraid.
+36290,163,56,413000,Homer Simpson,OPEN FIELD,Yaaaa...
+36291,163,57,413000,Homer Simpson,OPEN FIELD,Uh!
+36293,163,59,413000,Marge Simpson,Simpson Home,"Homer, it's two a.m.! What happened?"
+36294,163,60,415000,Homer Simpson,Simpson Home,"It was an alien, Marge! It appeared in front of me and said, ""Don't be afraid!"""
+36295,163,61,417000,Marge Simpson,Simpson Home,Have you been drinking?
+36296,163,62,421000,Homer Simpson,Simpson Home,"No! Well, ten beers..."
+36298,163,64,425000,Homer Simpson,KITCHEN,"I'm telling you, I saw a creature from another planet."
+36299,163,65,428000,Lisa Simpson,KITCHEN,Maybe you just dreamed it.
+36300,163,66,429000,Homer Simpson,KITCHEN,"Oh, yeah? Well, when I came to, I was covered with a sticky translucent goo! Explain that!"
+36301,163,67,435000,Marge Simpson,KITCHEN,More sausage?
+36303,163,69,438000,Lisa Simpson,KITCHEN,"Dad, according to ""Junior Skeptic Magazine"" the chances are a hundred seventy-five million-to-one of another form of life actually coming in contact with ours."
+36304,163,70,447000,Homer Simpson,KITCHEN,So?
+36305,163,71,448000,Lisa Simpson,KITCHEN,"It's just that the people who claim they've seen aliens are always pathetic low-lifes with boring jobs! Oh, and you, Dad. Heh heh..."
+36306,163,72,458000,Bart Simpson,KITCHEN,I am the thing from Uranus!
+36307,163,73,462000,Homer Simpson,KITCHEN,Oh. It's Bart. I can't believe it. I'm being mocked... by my own children... on my birthday!
+36308,163,74,470000,Bart Simpson,KITCHEN,It's your birthday?
+36309,163,75,471000,Homer Simpson,KITCHEN,"Yes. Remember, it's the same day as the dog's?"
+36310,163,76,474000,Lisa Simpson,KITCHEN,"Santa's Little Helper, it's your birthday? We've got to get you a present! Yes we do! Yes we do!"
+36311,163,77,481000,Bart Simpson,KITCHEN,We love you boy!
+36312,163,78,483000,Marge Simpson,KITCHEN,Good doggy. Good doggy!
+36313,163,79,486000,Homer Simpson,KITCHEN,Lousy loveable dog.
+36315,163,81,490000,Homer Simpson,Springfield Nuclear Power Plant,"Oh, it was awful. They set me on a cold metal table and prodded me with humiliating probes and the -- oh wait, that was my physical."
+36316,163,82,500000,Carl Carlson,Springfield Nuclear Power Plant,"Great story, Homer. Really."
+36318,163,84,502000,Homer Simpson,Springfield Police Station,The alien has a sweet heavenly voice -- like Urkel! And he appears every Friday night -- like Urkel!
+36319,163,85,511000,Chief Wiggum,Springfield Police Station,"Well, your story is very compelling, Mr. Jackass... I mean, uh, Simpson. So I'll just type it up on my invisible typewriter."
+36320,163,86,524000,Homer Simpson,Springfield Police Station,You don't have to humiliate me.
+36321,163,87,529000,Guilty Man,Springfield Police Station,I just torched a building downtown... and I'm afraid I'll do it again.
+36322,163,88,532000,Chief Wiggum,Springfield Police Station,"Yeah, right, I'll just type it up on my invisible typewriter. Fruitcake."
+36324,163,90,551000,Fox Mulder,FBI BUILDING,"Look at this, Scully. There's been another unsubstantiated UFO sighting in the heartland of America."
+36325,163,91,558000,Fox Mulder,FBI BUILDING,We've got to get there right away.
+36327,163,92,559000,Dana Scully,FBI BUILDING,"Well gee, Mulder, there's also this report of a shipment of drugs and illegal weapons coming into New Jersey tonight."
+36328,163,93,565000,Fox Mulder,FBI BUILDING,I hardly think the FBI's concerned with matters like that.
+36330,163,95,574000,Marge Simpson,Simpson Home,"Hello, can I help you?"
+36331,163,96,576000,Fox Mulder,Simpson Home,"Agents Mulder and Scully, FBI."
+36332,163,97,578000,Marge Simpson,Simpson Home,"I-Is this about that pen that I took from the Post Office? I-I swear I didn't know I put it in my purse. Then I was going to bring it back, but the dog chewed it up and that just made things worse..."
+36333,163,98,589000,Dana Scully,Simpson Home,"Actually, we're here to see your husband about his UFO encounter."
+36334,163,99,592000,Marge Simpson,Simpson Home,Oh. Come. Come in.
+36336,163,101,599000,Dana Scully,Police Lineup Area,"Mr. Simpson, look at this lineup, and tell us if any of these are the aliens you saw."
+36337,163,102,605000,Alf,Police Lineup Area,Yo!
+36338,163,103,606000,Homer Simpson,Police Lineup Area,"No, I'm sorry."
+36339,163,104,610000,MARVIN-THE-MARTIAN-TYPE,Police Lineup Area,"Oh, this makes me very angry."
+36341,163,106,613000,Dana Scully,GOVERNMENT LAB,Now we're going to run a few tests. This is a simple lie-detector. I'll ask you a few yes-or-no questions and you just answer truthfully. Do you understand?
+36342,163,107,623000,Homer Simpson,GOVERNMENT LAB,Yes.
+36344,163,109,635000,Homer Simpson,Laboratory,Ow.
+36345,163,110,638000,Fox Mulder,Laboratory,"Wait a minute, Scully. What's the point of this test?"
+36346,163,111,640000,Dana Scully,Laboratory,No point. I just thought he could stand to lose a little weight.
+36347,163,112,644000,Fox Mulder,Laboratory,His jiggling is almost hypnotic.
+36348,163,113,646000,Dana Scully,Laboratory,"Yes, it's like a lava lamp."
+36351,163,116,659000,Fox Mulder,Moe's Tavern,"All right, Homer. We want you to recreate your every move the night you saw this alien."
+36352,163,117,663000,Homer Simpson,Moe's Tavern,"Well, the evening began at the Gentleman's Club, where we were discussing Wittgenstein over a game of backgammon."
+36353,163,118,670000,Dana Scully,Moe's Tavern,"Mr. Simpson, it's a felony to lie to the FBI."
+36354,163,119,673000,Homer Simpson,Moe's Tavern,We were sitting in Barney's car eating packets of mustard. Ya happy?
+36355,163,120,678000,Homer Simpson,Moe's Tavern,"You are one fine-lookin' woman, lady. If I wasn't married, I'd go out with you like that."
+36357,163,121,688000,Homer Simpson,Moe's Tavern,"I am so sorry. Whatever you do, don't tell Marge. God, I love her. I-- Hey, a penny!"
+36358,163,122,695000,Moe Szyslak,Moe's Tavern,"So, uh, who are you guys anyhow?"
+36359,163,123,697000,Fox Mulder,Moe's Tavern,"Agents Mulder and Scully, FBI."
+36360,163,124,701000,Moe Szyslak,Moe's Tavern,"FBI, huh? Uh, S'cuse me."
+36362,163,126,703000,Moe Szyslak,Back Room,"All right, they're on to us. Get him back to Sea World!"
+36365,163,129,710000,Homer Simpson,Bar,"So I says ""Blue M & M, red M & M, they all wind up the same color in the end."""
+36366,163,130,714000,Dana Scully,Bar,"Homer, why don't you show us where you went when you left the bar?"
+36368,163,132,720000,Homer Simpson,Field,"I was standing right here, when the horrible creature emerged from the woods."
+36369,163,133,728000,Grampa Simpson,Field,"For the love of God, help me. I've been here for four days, and a turtle's got ahold of my teeth. There he is!"
+36370,163,134,736000,Grampa Simpson,Field,Come back here you! Slow down! I'll git ye!
+36371,163,135,743000,Dana Scully,Field,This is the worst assignment we've ever had.
+36372,163,136,745000,Fox Mulder,Field,Worse than the time we were attacked by the flesh-eating virus?
+36373,163,137,749000,Grampa Simpson,Field,Ow! He bit me with my own teeth!
+36374,163,138,752000,Dana Scully,Field,"No, this is much more irritating. I've seen enough, Mulder. Let's go."
+36375,163,139,756000,Fox Mulder,Field,"Yeah, okay. But somewhere out there something is watching us. There are alien forces acting in ways we can't perceive."
+36376,163,140,763000,Fox Mulder,Field,"Are we alone in the universe? Impossible, when you consider the wonders that exist all around us... the voodoo priests of Haiti, the Tibetan numerologists of Appalachia, the unsolved mysteries of ""Unsolved Mysteries."" The truth is out there!"
+36377,163,141,780000,Moe Szyslak,Field,Who'd've thought a whale could be so heavy? Cheese it. The Feds!
+36379,163,143,788000,Homer Simpson,Simpson Master Bedroom,"Oh, Marge, I've never felt so alone. No one believes me. Uh, this is the part where you're supposed to say ""I believe you, Homer."""
+36380,163,144,792000,Marge Simpson,Simpson Master Bedroom,"I don't believe you, Homer."
+36381,163,145,799000,Homer Simpson,Simpson Master Bedroom,"You do?! Oh, Marge, you've made me so happy!"
+36382,163,146,803000,Marge Simpson,Simpson Master Bedroom,You're not listening. You're only hearing what you want to hear.
+36383,163,147,806000,Homer Simpson,Simpson Master Bedroom,Thanks! I'd love an omelet right about now.
+36384,163,148,809000,Marge Simpson,Simpson Master Bedroom,"Homer, please! I try to be supportive, but this has gone too far. Please just let it be."
+36385,163,149,816000,Homer Simpson,Simpson Master Bedroom,"No, I can't. This is my cause. I'm like the man who single-handedly built the rocket and went to the moon. What was his name? Apollo Creed?"
+36386,163,150,824000,Marge Simpson,Simpson Master Bedroom,"Please, let's just go to sleep."
+36387,163,151,825000,Homer Simpson,Simpson Master Bedroom,"No, I refuse to share a bed with someone who thinks I'm crazy. Unless you're feeling... amorous?"
+36388,163,152,832000,Marge Simpson,Simpson Master Bedroom,"No, I'm not."
+36389,163,153,833000,Homer Simpson,Simpson Master Bedroom,"Well then, good night!"
+36391,163,155,836000,Bart Simpson,Simpson Home,"Hey, Dad. What's the word from Planet Crackpot?"
+36392,163,156,839000,Homer Simpson,Simpson Home,"Oh, I suppose you're going to mock me, too."
+36393,163,157,841000,Bart Simpson,Simpson Home,"Well, actually, Dad... I believe you."
+36394,163,158,844000,Homer Simpson,Simpson Home,You do?
+36395,163,159,845000,Bart Simpson,Simpson Home,"Yes, I do. You seem so damn sure."
+36396,163,160,848000,Homer Simpson,Simpson Home,"Thank you, son. And do you think you could stop the casual swearing?"
+36397,163,161,851000,Bart Simpson,Simpson Home,"Hell, yes."
+36398,163,162,852000,Homer Simpson,Simpson Home,"That's my boy. Well, if you believe in me, then I'm not going to give up. I'll prove I'm right. This Friday we're going back to the woods, and we're going to find that alien!"
+36399,163,163,861000,Bart Simpson,Simpson Home,What if we don't?
+36400,163,164,862000,Homer Simpson,Simpson Home,We'll fake it and sell it to the Fox network.
+36401,163,165,866000,Bart Simpson,Simpson Home,They'll buy anything!
+36402,163,166,867000,Homer Simpson,Simpson Home,"Now son, they do a lot of quality programming, too."
+36404,163,168,877000,Homer Simpson,Simpson Home,I kill me.
+36406,163,170,879000,Frog #1,SPRINGFIELD FIELD,Bud...
+36407,163,171,880000,Frog #2,SPRINGFIELD FIELD,...weis...
+36408,163,172,881000,Frog #3,SPRINGFIELD FIELD,...er.
+36409,163,173,882000,Frog #1,SPRINGFIELD FIELD,Bud...
+36410,163,174,883000,Frog #2,SPRINGFIELD FIELD,...weis...
+36411,163,175,884000,Frog #3,SPRINGFIELD FIELD,...er.
+36412,163,176,885000,alligator,SPRINGFIELD FIELD,Coors.
+36413,163,177,888000,Bart Simpson,SPRINGFIELD FIELD,"Yo, Dad, can I have a sip of your beer?"
+36414,163,178,889000,Homer Simpson,SPRINGFIELD FIELD,"Now, son, you don't want to drink beer. That's for Daddies, and kids with fake IDs... besides, it's such a beautiful night. How about a ghost story?"
+36416,163,180,898000,Bart Simpson,Campsite,And that is how much college will cost for Maggie!
+36417,163,181,903000,Homer Simpson,Campsite,No! No! No-o-o-o-o!
+36418,163,182,909000,Bart Simpson,Campsite,"You know, Dad, it doesn't matter that we didn't see the alien. I've really had a great time out here."
+36419,163,183,914000,Homer Simpson,Campsite,"Yeah, me too."
+36420,163,184,918000,Homer Simpson,Campsite,It's him!
+36421,163,185,925000,Alien,Campsite,I bring you peace.
+36422,163,186,929000,Homer Simpson,Campsite,"As a representative of planet earth, let me be the first to say..."
+36423,163,187,939000,Homer Simpson,Campsite,Bwah! Bwah! Bwaaaaah!
+36424,163,188,939000,Homer Simpson,Campsite,It's gone. And we still don't have any proof.
+36425,163,189,944000,Bart Simpson,Campsite,Oh yes we do! I got it all on tape.
+36426,163,190,947000,Homer Simpson,Campsite,"Good work, son! We did it! We did it!"
+36427,163,191,954000,Leonard Nimoy,Campsite,"And so, from this simple man came the proof that we are not alone in the universe. I'm Leonard Nimoy. Goodnight."
+36428,163,192,962000,Stagehand,Campsite,"Uh, Mr. Nimoy, we have ten minutes left."
+36429,163,193,965000,Leonard Nimoy,Campsite,"Oh. Fine. Let me just get, uh, something out of my car."
+36430,163,194,978000,Stagehand,Campsite,I don't think he's coming back.
+36432,163,196,986000,Kent Brockman,Simpson Home,Tonight on Eyewitness News: a man who's been in a coma for twenty-three years wakes up!
+36434,163,198,991000,Patient,Hospital,Do Sonny and Cher still have that stupid show?
+36435,163,199,994000,Kent Brockman,Hospital,"No, uh, she won an Oscar and he's a congressman."
+36436,163,200,997000,Patient,Hospital,Good night!
+36437,163,201,1000000,Kent Brockman,Hospital,"But first, E.T. phone Homer -- Simpson that is!"
+36439,163,203,1004000,Homer Simpson,Simpson Living Room,Marge! Kids! They're about to show my videotape!
+36440,163,204,1007000,Kent Brockman,Simpson Living Room,Local man Homer Simpson -- shown here with his tongue stuck to a lamppost --
+36441,163,205,1007000,Kent Brockman,Simpson Living Room,-- has given us this videotape. It's a Close Encounter of the Blurred Kind .
+36442,163,206,1021000,Alien,Simpson Living Room,I bring you peace!
+36443,163,207,1024000,Alien,Simpson Living Room,"The alien has appeared in the same Springfield pasture the past two Friday nights. Will it appear again this Friday? The entire Channel Six news team will be there. Except for Phil, the boom mic operator who's getting fired tomorrow."
+36444,163,208,1035000,Kent Brockman,Simpson Living Room,"Very unprofessional, Phil."
+36445,163,209,1037000,Bart Simpson,Simpson Living Room,"Well, Lis, what do you think about the alien now?"
+36446,163,210,1039000,Lisa Simpson,Simpson Living Room,I think there must be a more logical explanation. And I think the people of this town aren't gonna be won over by three seconds of videotape.
+36447,163,212,1049000,Homer Simpson,Simpson Front Porch,"Uh, I'm happy to answer any questions you have about the alien. Any questions at all. Doctor Hibbert?"
+36448,163,213,1056000,Dr. Julius Hibbert,Simpson Front Porch,"Yes, is the alien carbon-based or silicon-based?"
+36449,163,214,1059000,Homer Simpson,Simpson Front Porch,Uh... the second one. Zilliphone. Next question.
+36450,163,215,1063000,Barney Gumble,Simpson Front Porch,Is the alien Santa Claus?
+36451,163,216,1066000,Homer Simpson,Simpson Front Porch,"Uh, yes."
+36452,163,217,1067000,Ned Flanders,Simpson Front Porch,"Uh, were you on my roof last night, stealing my weathervane?"
+36453,163,218,1071000,Homer Simpson,Simpson Front Porch,This interview is over!
+36455,163,220,1075000,Rev. Timothy Lovejoy,First Church of Springfield,"I remember another gentle visitor from the Heavens. He came in peace, but then died, only to come back to life. And his name was... E.T. The Extra-Terrestrial. I loved that little guy."
+36457,163,222,1101000,Bart Simpson,SPRINGFIELD FIELD,Leonard Nimoy! What are you doin' here?
+36458,163,223,1104000,Leonard Nimoy,SPRINGFIELD FIELD,"Wherever there is mystery and the unexplained, cosmic forces shall draw me near."
+36459,163,224,1109000,Bart Simpson,SPRINGFIELD FIELD,Uh-huh.
+36460,163,225,1110000,Hot Dog Stand Guy,SPRINGFIELD FIELD,"Hey Spock, what do you want on your hot dog?"
+36461,163,226,1112000,Leonard Nimoy,SPRINGFIELD FIELD,Surprise me!
+36462,163,227,1116000,Homer Simpson,SPRINGFIELD FIELD,"Take a look at this, Lisa. You don't see any ""Homer is a Dope"" T-shirts, do you?"
+36463,163,228,1121000,T-shirt Vendor,SPRINGFIELD FIELD,We sold those out in five minutes.
+36465,163,230,1124000,Homer Simpson,SPRINGFIELD FIELD,Marge! How could you?
+36466,163,231,1126000,Marge Simpson,SPRINGFIELD FIELD,"These shirts are a hundred per cent cotton! And look at the fine stitching on ""Dope!"""
+36467,163,232,1126000,Homer Simpson,SPRINGFIELD FIELD,I'll take two!
+36468,163,233,1141000,Homer Simpson,SPRINGFIELD FIELD,Look! There it is!
+36469,163,234,1147000,Marge Simpson,SPRINGFIELD FIELD,"Oh Homie! Homie, I'm so sorry I doubted you!"
+36470,163,235,1153000,Alien,SPRINGFIELD FIELD,I bring you love!
+36471,163,236,1155000,Dr. Julius Hibbert,SPRINGFIELD FIELD,"Now, is that the love between a man and a woman or the love of a man for a fine Cuban cigar?"
+36472,163,237,1161000,Alien,SPRINGFIELD FIELD,Uh... I bring you love!
+36473,163,238,1166000,Lenny Leonard,SPRINGFIELD FIELD,It's bringing love! Don't let it get away!
+36474,163,239,1168000,Carl Carlson,SPRINGFIELD FIELD,Break its legs!
+36475,163,240,1175000,Lisa Simpson,SPRINGFIELD FIELD,Wait!
+36476,163,241,1176000,Lisa Simpson,SPRINGFIELD FIELD,You want an alien? This is your alien!
+36477,163,242,1180000,C. Montgomery Burns,SPRINGFIELD FIELD,Hello children! I bring you love!
+36326,163,243,1183000,Groundskeeper Willie,SPRINGFIELD FIELD,Ay! It's a monster! Kill it! Kill it!
+36356,163,244,1187000,Waylon Smithers,SPRINGFIELD FIELD,It's not a monster! It's Mr. Burns!
+36479,163,245,1190000,Groundskeeper Willie,SPRINGFIELD FIELD,Aw. It's Mr. Burns! Kill it! Kill it!
+36480,163,246,1194000,Waylon Smithers,SPRINGFIELD FIELD,"No, no, let me explain... Every Friday evening after work, Mr. Burns undergoes a series of medical treatments designed to cheat death for another week..."
+36482,163,248,1202000,Waylon Smithers,Hospital,"First, Mr. Burns' chiropractors perform a slight spinal adjustment..."
+36484,163,250,1211000,Waylon Smithers,Hospital,"Then a team of doctors administers eye drops, painkillers, and a vocal cord scraping..."
+36485,163,251,1221000,Dr. Nick Riviera,Hospital,"Don't worry, you won't feel a thing --till I jam this down your throat!"
+36486,163,252,1227000,SMITHERS',Hospital,The whole ordeal leaves Mr. Burns twisted and disoriented.
+36487,163,253,1230000,C. Montgomery Burns,Hospital,La la la la la...
+36488,163,254,1235000,NICK RIVIERA,Hospital,The most rewarding part was when he gave me my money.
+36489,163,255,1239000,Bart Simpson,Hospital,But what's with the glowing?
+36490,163,256,1241000,C. Montgomery Burns,Hospital,"Uh, I'll field that question. A lifetime of working in a nuclear power plant has given me a healthy green glow and left me as impotent as a Nevada boxing commissioner. And now that I'm back to normal, I don't bring you peace and love. I bring you fear, famine, pestilence, and..."
+36491,163,257,1258000,NICK RIVIERA,Hospital,Time for a booster!
+36492,163,258,1260000,C. Montgomery Burns,Hospital,GOOD MORNING STAR SHINE / THE EARTH SAYS HELLO.
+36493,163,259,1267000,Leonard Nimoy,Hospital,YOU TWINKLE ABOVE US / WE TWINKLE BELOW.
+36494,163,260,1274000,Crowd,Hospital,GOOD MORNING STAR SHINE / YOU LEAD US ALONG...
+36495,163,261,1283000,Marge Simpson,Hospital,"Well, you said you'd bring them peace and love and it looks like you did it. I'm proud of you, Homie."
+36496,163,262,1289000,Homer Simpson,Hospital,"Thanks, Marge."
+36497,163,263,1292000,Crowd,Hospital,TOOBY OOBY WOLLA / NOOBY OBBA NOBBA / EARLY MORNING SINGING SONG.
+36499,163,265,1301000,Stagehand,Darkened Room,"And so concludes our tale. I'm Leonard Nimoy. Goodnight and keep watching the skis! Uh, skies."

@@ -1,0 +1,258 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+49989,212,1,84000,TV Announcer,Simpson Home,"And now, the conclusion of our Thousand Dollar Movie -- Roger Corman's... Titanic!"
+49990,212,2,94000,Young Man,Simpson Home,"We're safe now, Clarice. We made it away from that cursed ship."
+49991,212,3,97000,Young Woman,Simpson Home,Now I can relax and take off this stifling bikini.
+49992,212,4,106000,Marge Simpson,Simpson Home,Look out! Behind you!
+49993,212,5,109000,TV Announcer,Simpson Home,We'll return for the remainder of the conclusion after these messages.
+49994,212,6,112000,Homer Simpson,Simpson Home,"Well, I'd rather get a message than see another lousy commercial."
+49995,212,7,116000,Hideous Alien #1,Simpson Home,People of earth! We have traveled all the way from space to attend the most astro-tastic event in the entire universe.
+49996,212,8,123000,Hideous Alien #2,Simpson Home,"You said it, Phil. It's the Bi-Monthly Springfield Sci-Fi Convention."
+49997,212,9,128000,Hideous Alien #1,Simpson Home,"That's right, it's BI-MON-SCI-FI-CON. Come meet all your favorite stars! Mark Hamill! Alf!"
+49998,212,10,138000,Hideous Alien #1,Simpson Home,And many more!
+49999,212,11,140000,Hideous Alien #2,Simpson Home,"Plus, tag-team robot wrestling! It's the Mighty Robots of Battlestar Galactica vs. the Gay Robots of Star Wars!"
+50000,212,12,147000,C-3PO,Simpson Home,"Ow! Ow! Stop! Please, save me, R2! Oh, you stupid little tramp! You're so boring! I hate you! Ow! Ow! Ow!"
+50001,212,13,158000,Hideous Alien #1,Simpson Home,"Remember, it's BI-MON-SCI-FI-CON. Be there and be square!"
+50002,212,14,165000,Homer Simpson,Simpson Home,"Well, beats work."
+50003,212,15,166000,Bart Simpson,Simpson Home,"Yup, beats school."
+50005,212,17,172000,Ticket Taker,Springfield Convention Center,"Sorry, we're all full."
+50007,212,20,176000,Homer Simpson,Springfield Convention Center,Are you sure this is the sci-fi convention? It's full of nerds.
+50008,212,21,180000,Database,Springfield Convention Center,"Hi, Lisa."
+50009,212,22,181000,Milhouse Van Houten,Springfield Convention Center,"Hey, Lisa."
+50010,212,23,182000,Üter,Springfield Convention Center,Güten tag.
+50011,212,24,183000,Lisa Simpson,Springfield Convention Center,Hi.
+50012,212,25,195000,Manager,Springfield Convention Center,People! People! This man has actually been in outer space.
+50013,212,26,199000,Edna Krabappel-Flanders,Springfield Convention Center,Ha! Nobody cares!
+50014,212,27,200000,Neil Armstrong,Springfield Convention Center,This is one small step towards firing your ass.
+50015,212,28,204000,Bart Simpson,Springfield Convention Center,"Hey, wait. I saw that Lost in Space movie. You are not Doctor Smith."
+50016,212,29,208000,Dr. Smith,Springfield Convention Center,"Oh, the pain. The paaain! The pain of it all!"
+50017,212,30,213000,Robot,Springfield Convention Center,"You have still got it, Doctor Smith."
+50018,212,31,215000,Dr. Smith,Springfield Convention Center,"Silence, you nickel-plated nitwit! My dear boy, I'd be happy to show you my resume, if you'd care to meet me later in the food court..."
+50019,212,32,223000,Robot,Springfield Convention Center,"Danger! Danger, Bart Simpson!"
+50020,212,33,225000,Comic Book Guy,Springfield Convention Center,"Someone has mixed an ""Amazing Spider-Man"" in with the ""Peter Parker The Spectacular Spider-Man"" series. This will not stand."
+50021,212,34,232000,Nerdy Young Woman,Springfield Convention Center,Pardon me. But I wish to tender a serious cash offer for this stack of water-damaged Little Lulus.
+50022,212,35,232000,Comic Book Guy,Springfield Convention Center,"""A"", that is not water, it is diet Mr. Pibb, and ""B"" I--"
+50024,212,37,249000,Comic Book Guy,Springfield Convention Center,"Tell me, how do you feel about forty-five-year-old virgins who still live with their parents?"
+50025,212,38,253000,Nerdy Young Woman,Springfield Convention Center,Comb the SweeTarts out of your beard and you're on.
+50026,212,39,255000,Comic Book Guy,Springfield Convention Center,"Don't try to change me, baby."
+50027,212,40,257000,Mayor Joe Quimby,Springfield Convention Center,"Welcome futurists, cyberphiles, and the rest of you dateless wonders!"
+50029,212,42,265000,Mayor Joe Quimby,Springfield Convention Center,"And now to push this convention into hyperspace, the man who put the star in ""Star Wars,"" a real burr under Darth Vader's saddle, Luke Skywalker himself, Mark Hamill!"
+50030,212,43,285000,Mark Hamill,Springfield Convention Center,"Hey, thanks everybody. You know, I'm here today as Luke Skywalker. But I'm also here... to talk about Sprint."
+50031,212,44,292000,Mark Hamill,Springfield Convention Center,"As you can see, you stand to save up to seventeen cents a month over the more dependable providers..."
+50033,212,45,297000,Database,Springfield Convention Center,"Ahhh, talk about ""Star Wars!"""
+50034,212,46,299000,Crowd Of Nerds,Springfield Convention Center,/ Yeah! / Star Wars!
+50035,212,47,301000,Homer Simpson,Springfield Convention Center,You stupid nerds! He's trying to save you money on long distance!
+50036,212,48,305000,Mark Hamill,Springfield Convention Center,"""Star Wars,"" huh? Well, let me ask you this. How many of you have ever dreamed of being in that movie?"
+50038,212,50,312000,Mark Hamill,Springfield Convention Center,"Well, you're in luck. 'Cause we're gonna act out a scene and I'll need a volunteer to play Obi Wan."
+50039,212,51,318000,Seymour Skinner,Springfield Convention Center,Kenobi?!
+50040,212,52,321000,Lenny Leonard,Springfield Convention Center,Mark! Mark! Mark! Mark! Pick me! My whole life has been leading to this moment!
+50041,212,53,325000,Carl Carlson,Springfield Convention Center,"Aw, like hell it has! If anyone's gonna play Obi, it's me!"
+50042,212,54,328000,Professor Jonathan Frink,Springfield Convention Center,"All right, step away, you foolish amateurs. Keep back! Keep out of it! The role is mine! With the acting and the groupies and the ""Luke! Luke! Save me!"" with the lightsaber and the vwing, vwing, vwiing."
+50043,212,55,338000,Groundskeeper Willie,Springfield Convention Center,That's not how you vwing!
+50045,212,57,344000,Dr. Smith,Springfield Convention Center,We're doooomed! Doooooomed!
+50046,212,58,348000,Mayor Joe Quimby,Springfield Convention Center,"Oh God, can't this town go one day without a riot?"
+50047,212,59,352000,Mayor Joe Quimby,Springfield Convention Center,Gadzooks! Where are my bodyguards?
+50048,212,60,356000,Ernie,Springfield Convention Center,Is there anything fluffier than a cloud?
+50049,212,61,358000,Big Tom,Springfield Convention Center,"If there is, I don't want to know about it."
+50050,212,62,360000,C-3PO,Springfield Convention Center,"Oh, dear. Oh, my."
+50051,212,63,363000,Mayor Joe Quimby,Springfield Convention Center,We're screwed. Use your light saber.
+50052,212,64,365000,Mark Hamill,Springfield Convention Center,"What, and break it? You know, George Lucas makes me pay for these."
+50053,212,65,369000,Mayor Joe Quimby,Springfield Convention Center,Take him! He's the one you want!
+50054,212,66,371000,Mark Hamill,Springfield Convention Center,"Not the hair! Back off, you freaking dweebs!"
+50055,212,67,374000,Lisa Simpson,Springfield Convention Center,"Oh, poor Mark Hamill."
+50056,212,68,377000,Bart Simpson,Springfield Convention Center,That swarm of nerds is gonna kill him!
+50057,212,69,381000,Homer Simpson,Springfield Convention Center,Neeerrrds!
+50058,212,70,384000,Homer Simpson,Springfield Convention Center,Get out of there!
+50059,212,71,387000,Homer Simpson,Springfield Convention Center,"Mr. Hamill, Mr. Mayor, come on!"
+50060,212,72,389000,Mark Hamill,Springfield Convention Center,Who are you?
+50061,212,73,390000,Homer Simpson,Springfield Convention Center,Homer Simpson -- nerd buster. And I'm gettin' you out of here!
+50062,212,74,393000,Mark Hamill,Springfield Convention Center,"I can't, Homer. I twisted my ankle. You guys go on without me!"
+50063,212,75,400000,Homer Simpson,Springfield Convention Center,Never!
+50064,212,76,402000,Homer Simpson,Springfield Convention Center,Follow me.
+50065,212,77,410000,Homer Simpson,Springfield Convention Center,"Oh, how was I supposed to know it's not a real spaceship?"
+50066,212,78,413000,Bart Simpson,Springfield Convention Center,"Dad, over here!"
+50067,212,79,417000,Lisa Simpson,Springfield Convention Center,"Oh, my God. Someone has to go back in for Maggie!"
+50068,212,80,420000,Homer Simpson,Springfield Convention Center,Forget Maggie! She's gone!
+50069,212,81,421000,Marge Simpson,Springfield Convention Center,I've got Maggie.
+50070,212,82,423000,Mark Hamill,Springfield Convention Center,"Wow, that was close. Well, thanks a lot, Homer."
+50071,212,83,427000,Homer Simpson,Springfield Convention Center,"Well, it's all-- Hey, I thought you twisted your ankle."
+50072,212,84,430000,Mark Hamill,Springfield Convention Center,"Oh, yeah, well, see, the thing about that is..."
+50074,212,86,439000,Ernie,Springfield Convention Center,"Hey, boss, we were just talking about you."
+50075,212,87,442000,Mayor Joe Quimby,Springfield Convention Center,You call yourselves bodyguards? You're fired!
+50076,212,88,445000,Ernie,Springfield Convention Center,"Fired, huh? Who else are you gonna find to take a bullet for ya?"
+50077,212,89,449000,Big Tom,Springfield Convention Center,Or have his genitals hooked up to a car battery?
+50078,212,90,452000,Mayor Joe Quimby,Springfield Convention Center,I'll tell you who. Him!
+50079,212,91,453000,Homer Simpson,Springfield Convention Center,Woo hoo!
+50080,212,92,455000,Marge Simpson,Springfield Convention Center,"Homer, I don't think you were listening to what he just--"
+50081,212,93,457000,Homer Simpson,Springfield Convention Center,"I said, ""woo hoo."""
+50084,212,96,457000,Leavelle,Bodyguard School,"As a bodyguard, your only loyalty is to your pro-tectee. Not to your family. Not to your country. Not to Moohamed."
+50085,212,97,476000,Homer Simpson,Bodyguard School,Even during Ramadan?
+50086,212,98,478000,Leavelle,Bodyguard School,"Shut your sass-hole, boy."
+50087,212,99,479000,Leavelle,Bodyguard School,"These melons represent your pro-tectees. Throughout this course, you will pro-tect your personal melon as if it was paying your salary."
+50088,212,100,487000,Homer Simpson,Bodyguard School,Wha?
+50089,212,101,490000,Leavelle,Bodyguard School,"Okay, listen up! My goal is to assassinate that watermelon. Your job is to take the bullet. Go! Go! Go! Go! Pow!"
+50090,212,102,499000,Homer Simpson,Bodyguard School,Nooo!
+50091,212,103,502000,Leavelle,Bodyguard School,"Well, your dive wasn't bad. But I just didn't believe your ""Nooo!"" You gotta sell it. Remember, your ""Nooo!"" is what gets you your next job. Now drop and gimme twenty."
+50032,212,104,513000,Homer Simpson,Bodyguard School,Nooooooooooo!
+48296,212,105,515000,Leavelle,Bodyguard School,Better.
+50092,212,106,519000,Leavelle,Bodyguard School,You ladies are without a doubt the most sorrowful clique at the dance -- not one of you fit to guard a Russian rock band!
+50093,212,107,527000,Leavelle,Bodyguard School,"However, your checks have cleared, so you all graduate. Congratulations."
+50094,212,108,533000,Leavelle,Bodyguard School,"And now, in honor of your achievement, here is the theme song from the hit motion picture, ""The Bodyguard."""
+50095,212,109,539000,Leavelle,Bodyguard School,"""AND I-I-I-E-E-I-I-I-E-E-I-I-I WILL ALWAYS LOVE YOOOUUU!..."" Ha!"
+50096,212,110,553000,Homer Simpson,Bodyguard School,Clear!
+50097,212,111,554000,Marge Simpson,Bodyguard School,"Oh, for Pete's sake."
+50099,212,113,556000,Homer Simpson,Simpson Home,The pig is in the poke.
+50100,212,114,558000,Marge Simpson,Simpson Home,"You know, I really don't care for that code name."
+50101,212,115,562000,Homer Simpson,Simpson Home,"Look out, Marge! Cat!"
+50102,212,116,564000,Marge Simpson,Simpson Home,Nah!
+50103,212,117,564000,Marge Simpson,Simpson Home,"I know you're excited about starting your new job, but could you just relax for now?"
+50104,212,118,571000,Homer Simpson,Simpson Home,Hold it! What's your clearance?
+50105,212,119,572000,Bart Simpson,Simpson Home,We just want to get a snack.
+50106,212,120,574000,Homer Simpson,Simpson Home,Access denied.
+50107,212,121,576000,Bart Simpson,Simpson Home,"But, Da--"
+50108,212,122,578000,Marge Simpson,Simpson Home,Homer! I don't want you using your new sleeper hold on the children.
+50109,212,123,582000,Homer Simpson,Simpson Home,They'll be fine in half an hour.
+50110,212,124,584000,Marge Simpson,Simpson Home,That's not the point. And another thing. I asked you to take out the garbage three days ago and you still haven't--
+50111,212,125,593000,Homer Simpson,Simpson Home,"Hmm, still half an hour till dinner. Oh, well..."
+50114,212,128,601000,Homer Simpson,Limo,"It's a real honor to be guarding your body, sir."
+50115,212,129,603000,Mayor Joe Quimby,Limo,"Just remember, you represent the office of the mayor, so always comport yourself in a manner befitting-- Quick! Honk at that broad!"
+50117,212,131,614000,Mayor Joe Quimby,Limo,"Good work, Simpson. I couldn't be happier with the way that went."
+50119,212,133,619000,Moe Szyslak,Moe's Tavern,"Hey Homer, I told you not to come 'round here no more till you paid your tab. Or at least cleaned up that mess you made in the bathroom. Now y--"
+50120,212,134,625000,Moe Szyslak,Moe's Tavern,"Mayor Quimby?! Homer, why didn't you say you was with the mayor?"
+50122,212,135,630000,Moe Szyslak,Moe's Tavern,"Shove off, puke-holes. Get out of there! These stools are reserved for the mayor and his cronies."
+50123,212,136,635000,Moe Szyslak,Moe's Tavern,"Heh. Here's a couple of Düffenbraus, on the house, of course."
+50124,212,137,638000,Homer Simpson,Moe's Tavern,Semi-imported. Keep 'em comin'.
+50125,212,138,646000,Mayor Joe Quimby,Moe's Tavern,"Your generosity is greatly appreciated, especially during this health inspection season."
+50126,212,139,652000,Moe Szyslak,Moe's Tavern,"Oh yeah, yeah, right. Health inspection. That reminds me."
+50127,212,140,657000,Moe Szyslak,Moe's Tavern,"Your change, sir."
+50128,212,141,661000,Moe Szyslak,Moe's Tavern,"We're workin' on that roach situation, I swear to God."
+50129,212,142,664000,Mayor Joe Quimby,Moe's Tavern,"Eh, you should see the hospital."
+50131,212,144,671000,Homer Simpson,Simpson Home,"... And after Moe's, we went to Krustyburger and the mayor got some more change, and I ordered a double double, but they gave me the double double double double. And then Apu gave the Mayor lots of change for..."
+50132,212,145,683000,Bart Simpson,Simpson Home,"Dad, don't you see what's going on?"
+50133,212,146,685000,Lisa Simpson,Simpson Home,"That ""change"" was a bribe."
+50134,212,147,687000,Homer Simpson,Simpson Home,"Oh, honey, don't be so naive. That's how the world works. Sure, the mayor takes a few bribes, but he also makes the trains run on time."
+50135,212,148,695000,Lisa Simpson,Simpson Home,No he doesn't. Trains are regulated by the Federal Department of Transportation. And recent studies have shown that...
+50136,212,149,703000,Marge Simpson,Simpson Home,Homer!
+50138,212,151,709000,Fat Tony,Legitimate Businessman's Social Club,"Thank you, Mayor Quimby, for honoring us with the school milk concession."
+50139,212,152,713000,Mayor Joe Quimby,Legitimate Businessman's Social Club,"Well, the good children of Springfield need their milk, and I need my..."
+50140,212,153,719000,Fat Tony,Legitimate Businessman's Social Club,Please accept this kickback as a token of our esteem.
+50141,212,154,722000,Mayor Joe Quimby,Legitimate Businessman's Social Club,"Thank you, Fat Tony. However, in the future, I would prefer a nondescript briefcase to the sack with a dollar sign on it."
+50142,212,155,730000,Homer Simpson,Legitimate Businessman's Social Club,"So, how'd you get the nickname ""Legs""?"
+50143,212,156,733000,Legs,Legitimate Businessman's Social Club,"Well, that's an interesting story. It seems President Kennedy's father..."
+50144,212,157,738000,Homer Simpson,Legitimate Businessman's Social Club,"Oooh, mini-cannoli!"
+50145,212,158,740000,Homer Simpson,Legitimate Businessman's Social Club,Hey! I called that! I saw it first! Come back here!
+50146,212,159,745000,Homer Simpson,Legitimate Businessman's Social Club,Milking room? I hope you cows are decent.
+50147,212,160,750000,Homer Simpson,Legitimate Businessman's Social Club,Oh! Crap on a crutch!
+50148,212,161,758000,Homer Simpson,Legitimate Businessman's Social Club,They're milking rats! Milk-ing rats!
+50149,212,162,762000,Mayor Joe Quimby,Legitimate Businessman's Social Club,Rats? I'm outraged. You promised me dog or higher.
+50152,212,165,780000,Homer Simpson,Springfield Elementary School,"Bart, no!"
+50153,212,166,782000,Bart Simpson,Springfield Elementary School,"Hey, my milk! I traded my math book for that!"
+50154,212,167,786000,Lisa Simpson,Springfield Elementary School,Dad! What a nice surprise.
+50155,212,168,791000,Homer Simpson,Springfield Elementary School,"Oh, get that away from me!"
+50156,212,169,793000,Homer Simpson,Springfield Elementary School,"Kids, I don't want you drinking any more milk. Ever."
+50157,212,170,795000,Milhouse Van Houten,Springfield Elementary School,Can I still drink it?
+50158,212,171,797000,Homer Simpson,Springfield Elementary School,Go nuts.
+50159,212,172,798000,Milhouse Van Houten,Springfield Elementary School,All right!
+50161,212,174,806000,Homer Simpson,Springfield Town Hall,You... monster! How could you do that to the children?!
+50162,212,175,810000,Mayor Joe Quimby,Springfield Town Hall,Those wacky gangsters. What are you gonna do?
+50163,212,176,813000,Homer Simpson,Springfield Town Hall,"And to think, I respected you! And defended you! You wouldn't even be alive if it wasn't for me!"
+50165,212,178,824000,Homer Simpson,Springfield Town Hall,"Okay, we'll call it even."
+50166,212,179,829000,Homer Simpson,Springfield Town Hall,"Oh my God, I killed the mayor. All right, stay calm. I'll just use the body to stage an elaborate farce, à la ""Weekend at Bernie's,"" and..."
+50167,212,180,835000,Mayor Joe Quimby,Springfield Town Hall,Help! Help!
+50168,212,181,838000,Homer Simpson,Springfield Town Hall,His corpse is climbing the building!
+50169,212,182,841000,Mayor Joe Quimby,Springfield Town Hall,"I'm alive, you idiot! Pull me in!"
+50170,212,183,845000,Homer Simpson,Springfield Town Hall,A-- Wait a second. I'm not saving you unless you promise to get that rats' milk out of the schools.
+50171,212,184,851000,Mayor Joe Quimby,Springfield Town Hall,But the gangsters will kill me.
+50172,212,185,853000,Homer Simpson,Springfield Town Hall,"You're forgetting, you've got the best bodyguard in the business. Now promise, or I'll let you fall to your death."
+50173,212,186,859000,Mayor Joe Quimby,Springfield Town Hall,"All right! All right, I promise."
+50174,212,187,860000,Homer Simpson,Springfield Town Hall,Shake on it?
+50175,212,188,864000,Homer Simpson,Springfield Town Hall,"Relax, you're in good hands. Now come on, I'll pull you up."
+50176,212,189,868000,Mayor Joe Quimby,Springfield Town Hall,Not so fast. I can see into the interns' restroom from here.
+50178,212,190,874000,Mayor Joe Quimby,Springfield Town Hall,Did you know that this is how FDR met Eleanor?
+50179,212,191,877000,Mayor Joe Quimby,Springfield Town Hall,All right. Pull me up.
+50181,212,193,880000,Louie,Legitimate Businessman's Social Club,Six queens. Read 'em and weep.
+50182,212,194,884000,Fat Tony,Legitimate Businessman's Social Club,Not so fast. Seven queens.
+50183,212,195,888000,Chief Wiggum,Legitimate Businessman's Social Club,"Freeze, goombahs! We're shuttin' ya down, ya filthy Italians."
+50184,212,196,895000,Chief Wiggum,Legitimate Businessman's Social Club,"Oh right, right. Filthy Italian-Americans."
+50185,212,197,897000,Fat Tony,Legitimate Businessman's Social Club,"Gentlemen, if you would simply consult my dear friend, Mayor Quimby, I am confident this can be--"
+50186,212,198,904000,Mayor Joe Quimby,Legitimate Businessman's Social Club,"Not this time, Fat Tony. The mayor's office is not for sale."
+50187,212,199,911000,Mayor Joe Quimby,Legitimate Businessman's Social Club,"Can you, uh, edit out the laughs?"
+50188,212,200,914000,Fat Tony,Legitimate Businessman's Social Club,I am not so much disappointed as I am blinded with rage.
+50189,212,201,918000,Homer Simpson,Legitimate Businessman's Social Club,"Ooh, the Mafia guy's all mad. Oh, what are you gonna do? Call your Godfather? Huh? Ooh, Godfather. Break it down!"
+50191,212,203,935000,Chief Wiggum,Back Room,"It's pure. Pull the plug, boys."
+50192,212,204,944000,Mayor Joe Quimby,Back Room,"Run free, little vermin. The city is yours!"
+50193,212,205,949000,Kent Brockman,Back Room,"... And so, as the rats' milk is returned to the sewers, the circle of life is complete."
+50194,212,206,954000,Kent Brockman,Back Room,"Ah, Fat Tony. Do you have any comment?"
+50195,212,207,956000,Fat Tony,Back Room,"I don't get it. Everyone loves rats, but they don't want to drink the rats' milk?"
+50196,212,208,961000,Kent Brockman,Back Room,Huh. Any words for the mayor?
+50197,212,209,963000,Fat Tony,Back Room,"Hello, Mayor Quimby. I would like to remind you that accidents will happen. Like the killing of you by us."
+50199,212,211,972000,Bart Simpson,Simpson Home,"Aren't you scared, Dad? I mean, if I were Fat Tony, and God willing someday I will be, I'd just be stewing in my jail cell, gettin' madder and madder."
+50200,212,212,980000,Homer Simpson,Simpson Home,"Oh, don't worry about that, boy. He's already out on bail. Well, I'm off to work."
+50201,212,213,985000,Marge Simpson,Simpson Home,You're guarding the mayor tonight? After Fat Tony swore revenge?
+50202,212,214,989000,Homer Simpson,Simpson Home,"It's my duty, Marge. Besides, those mobsters don't scare me. Bart, would you go start Daddy's car?"
+50203,212,215,994000,Marge Simpson,Simpson Home,Homer!
+50204,212,216,995000,Homer Simpson,Simpson Home,What? There's nothing to worry about.
+50121,212,217,998000,Bart Simpson,Simpson Home,"Well, then you start it."
+50205,212,218,999000,Homer Simpson,Simpson Home,"All right, fine. I'll take a cab."
+50207,212,220,1005000,Mayor Joe Quimby,MAYOR'S MANSION,"Homer, I'm, uh, not sure it's wise to go out right now. I was thinking of a quiet evening at home with the, uh... wife."
+50208,212,221,1014000,Homer Simpson,MAYOR'S MANSION,"Oh, I get it. You're worried about those mobsters, aren't ya?"
+50209,212,222,1017000,Mayor Joe Quimby,MAYOR'S MANSION,"No, no, I truly do want to stay home with the... wife."
+50210,212,223,1022000,Homer Simpson,MAYOR'S MANSION,"You've gotta snap out of this funk, Mayor. I'm gonna take you someplace where you can relax and forget all about gangsters."
+50213,212,226,1031000,Homer Simpson,DINNER THEATER,"Uh, excuse me..."
+50214,212,227,1033000,Maitre D',DINNER THEATER,Nnyyeeeeeesss?
+50215,212,228,1034000,Homer Simpson,DINNER THEATER,Do you have a table for the mayor?
+50216,212,229,1036000,Maitre D',DINNER THEATER,Nnyyeeeeeesss.
+50217,212,230,1038000,Homer Simpson,DINNER THEATER,Why do you talk that way?
+50218,212,231,1039000,Maitre D',DINNER THEATER,I had a stroooke.
+50219,212,232,1049000,Ned Flanders,DINNER THEATER,"Dear Lord, please make tonight's production better than ""Othello"" with Peter Marshall."
+50220,212,233,1054000,Homer Simpson,DINNER THEATER,"Okay, Mr. Burns, Fat Tony, what's-his-name... Fat Tony?!"
+50221,212,234,1060000,Homer Simpson,DINNER THEATER,"All right, Fat Tony. If it's trouble with Quimby you're after--"
+50222,212,235,1063000,Fat Tony,DINNER THEATER,"Please, I am only here as a devotee of the lively arts. But I do have something for the mayor that perhaps you could deliver."
+50223,212,236,1073000,Homer Simpson,DINNER THEATER,"Mayor, Fat Tony asked me to give you this--"
+50224,212,237,1079000,Mayor Joe Quimby,DINNER THEATER,You moron! That's the Kiss of Death!
+50225,212,238,1082000,Homer Simpson,DINNER THEATER,Oh no. Wait... maybe I didn't do it right.
+50226,212,239,1085000,Mayor Joe Quimby,DINNER THEATER,"Never mind that, just go patrol the perimeter."
+50227,212,240,1089000,Mayor Joe Quimby,DINNER THEATER,"Ah, au gratin potatoes, that's a quality side."
+50228,212,241,1100000,Homer Simpson,DINNER THEATER,Nooooooooo!!!
+50229,212,242,1107000,Homer Simpson,DINNER THEATER,Potatoes are clean. The poison must be in the steak.
+50231,212,244,1114000,Gangsters/molls,Springfield Dinner Theater,"""... GUYS AND DOLLS. WE'RE JUST A BUNCH OF CRAZY GUYS AND DOLLS. OH, YEAH, YEAH, YEAH, YEAH, YEAH, YEAH, GUYS AND DOLLS...!"" ""AND OH THOSE DOLLS! WE'RE DANCING, YEAH, YEAH, YE-AH! AND GAMBLING, YEAH, YEAH, YE-AH!"""
+50233,212,245,1123000,Mark Hamill,Springfield Dinner Theater,"This is a conceptual nightmare. I mean, Nathan Detroit would never wear this. And this song isn't even in the show."
+50234,212,246,1130000,Theater Owner,Springfield Dinner Theater,"I don't have time for this. I've got seventy five shortcakes to strawberry. Now get out there, Luke."
+50235,212,247,1140000,Mark Hamill,Springfield Dinner Theater,... GUYS AND DOLLS. WE'RE JUST A BUNCH OF CRAZY GUYS AND DOLLS!
+50236,212,248,1145000,Mark Hamill,Springfield Dinner Theater,"""OH, YEAH, YEAH, YEAH, YEAH, YEAH, YEAH, GUYS AND DOLLS!"" ""AND HOODS AND MOLLS! WE'RE DANCING, YEAH, YEAH, YE-AH! AND GAMBLING, YEAH, YEAH, YEAH, YEAAAH!"""
+50237,212,249,1146000,Fat Tony,Springfield Dinner Theater,I want the mayor dead... I want his wife dead... I want his cat and his dog dead....
+50238,212,250,1153000,Louie,Springfield Dinner Theater,"Whoa, wait, wait, wait, wait, who was before the cat?"
+50239,212,251,1157000,Fat Tony,Springfield Dinner Theater,Just kill the mayor.
+50240,212,252,1160000,Louie,Springfield Dinner Theater,"You're not mad at me, are ya?"
+50242,212,254,1162000,Mark Hamill,DINNER THEATER,"""... LUKE, BE A JEDI TONIGHT. JUST BE A JEDI TONIGHT..."""
+50243,212,255,1169000,Mark Hamill,DINNER THEATER,DO IT FOR YODA WHILE WE SERVE OUR GUESTS A SODA...
+50244,212,256,1174000,Mark Hamill,DINNER THEATER,"""AND DO IT FOR CHEWIE AND THE EWOKS, AND ALL THE OTHER PUPPETS..."""
+50245,212,257,1179000,Mark Hamill,DINNER THEATER,LUKE BE A JEDI TONIGHT.
+50246,212,258,1184000,Theater Owner,DINNER THEATER,Hey! You're in this number. Get out there and shake that money maker!
+50247,212,259,1189000,Louie,DINNER THEATER,But I'm just here to kill... Wha--
+50248,212,260,1199000,Homer Simpson,DINNER THEATER,"That guy with the knife sure can dance, huh?"
+50249,212,261,1201000,Mayor Joe Quimby,DINNER THEATER,He looks awfully familiar.
+50250,212,262,1202000,Homer Simpson,DINNER THEATER,"I think I saw him in ""Rent,"" or ""Stomp,"" or ""Clomp,"" or some piece of crap."
+50252,212,264,1213000,Mark Hamill,DINNER THEATER,"Hey, pal, that's my head shot up there next to the pepper steak, and don't you forget it!"
+50253,212,265,1218000,Louie,DINNER THEATER,"You're all talk, Hamill. You never even finished Jedi school."
+50254,212,266,1224000,Louie,DINNER THEATER,"Show's over, Mayor!"
+50255,212,267,1225000,Homer Simpson,DINNER THEATER,Look out!
+50256,212,268,1230000,Homer Simpson,DINNER THEATER,Gimme that knife!
+50257,212,269,1231000,Louie,DINNER THEATER,"No, it's mine!"
+50259,212,271,1234000,Mark Hamill,DINNER THEATER,Homer... use... the forrr...
+50260,212,272,1236000,Homer Simpson,DINNER THEATER,The force?!
+50261,212,273,1237000,Mark Hamill,DINNER THEATER,The forks... use the forks...!
+50262,212,274,1240000,Homer Simpson,DINNER THEATER,Oh.
+50232,212,276,1248000,Homer Simpson,DINNER THEATER,"Yesss! Nobody messes with the mayor when Homer Simpson's on -- Aw, crap."
+50263,212,277,1257000,Homer Simpson,DINNER THEATER,"Oh, Fat Tony."
+50264,212,278,1259000,Fat Tony,DINNER THEATER,What? What did I do?
+50265,212,279,1268000,Mark Hamill,DINNER THEATER,I checked with the doctor. He said Mayor Quimby's gonna be fine... and I was electric as Nathan Detroit. What did you think of me?
+50266,212,280,1277000,Homer Simpson,DINNER THEATER,"Ohh, I'd say you were luminous, magnetic, incandescent."
+50267,212,281,1283000,Mark Hamill,DINNER THEATER,"Ohh... cheer up, Homer. I think you made a great bodyguard."
+50268,212,282,1287000,Homer Simpson,DINNER THEATER,Really? Would you say I was magnetic?
+50269,212,283,1290000,Mark Hamill,DINNER THEATER,Absolutely.
+50270,212,284,1291000,Homer Simpson,DINNER THEATER,Aww...
+50272,212,286,1292000,Crowd Of Nerds,DINNER THEATER,Mr. Skywalker! Mr. Skywalker!
+50273,212,287,1296000,Mark Hamill,DINNER THEATER,"Homer, I think you know what to do."
+50275,212,289,1304000,Mark Hamill,DINNER THEATER,Shoot! I forgot my light saber.
+50277,212,291,1312000,Mark Hamill,DINNER THEATER,"Oh, wait, here it is."
+50278,212,292,1317000,Homer Simpson,DINNER THEATER,Get out of the way you--

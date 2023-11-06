@@ -1,0 +1,221 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+31563,145,1,27000,Waylon Smithers,SPRINGFIELD DRAGSTRIP,"Testing... Testing for Mr. Burns. Here you go, Sir. I've warmed up the crowd for you."
+31564,145,2,31000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,"""Welcome employees!"" ""Come in!"" ""The whole night's entertainment is on me"" -- ""Monty Burns!"""
+31566,145,4,44000,Announcer,SPRINGFIELD DRAGSTRIP,Welcome to an evening of exciting quarter mile action !
+31567,145,5,50000,Announcer,SPRINGFIELD DRAGSTRIP,"Our first race is a benefit for daredevil Lance Murdock , who's hospitalized with cirrhosis of the liver !"
+31568,145,6,60000,Homer Simpson,SPRINGFIELD DRAGSTRIP,All right! Liver!
+31569,145,7,64000,Marge Simpson,SPRINGFIELD DRAGSTRIP,"Boy, it sure would be fun to carpool in one of those, huh, kids? I'd be a real hot-rod mama, wouldn't I? Huh? Huh?"
+31570,145,8,71000,Bart Simpson,SPRINGFIELD DRAGSTRIP,"You missed the race, mama."
+31571,145,9,73000,Marge Simpson,SPRINGFIELD DRAGSTRIP,I wish I'd pay more attention.
+31572,145,10,78000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,"Smithers, this beer isn't working. I don't feel any younger or ""funkier."""
+31573,145,11,83000,Waylon Smithers,SPRINGFIELD DRAGSTRIP,"I'll switch to the tablespoon, Sir."
+31574,145,12,84000,Announcer,SPRINGFIELD DRAGSTRIP,"Coming up next, our feature race: The Nuclear Power Plant Championship ."
+31575,145,13,90000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,"Ah, at last! Smithers, fetch the bi-oculars."
+31576,145,14,98000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,Damnation! Tell them to go slower!
+31577,145,15,100000,Waylon Smithers,SPRINGFIELD DRAGSTRIP,Yes sir.
+31578,145,16,103000,Waylon Smithers,SPRINGFIELD DRAGSTRIP,"Hi, guys. Could we keep it in first gear for a couple of laps?"
+31445,145,17,113000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,Go! Go!
+31526,145,18,115000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,Slow down!
+31551,145,19,121000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,Excellent.
+31579,145,20,128000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,"Oh, this novelty foam hand is ludicrously oversized. Go swap it for a smaller one."
+31580,145,21,134000,Waylon Smithers,SPRINGFIELD DRAGSTRIP,"It is a bit ostentatious, Sir. I'll be right back."
+31581,145,22,140000,Lenny Leonard,SPRINGFIELD DRAGSTRIP,"Hey, Burnsie! Ha! -- This was some swell shindig. Thank you very much."
+31582,145,23,145000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,Smithers! What's happening?!
+31583,145,24,146000,Lenny Leonard,SPRINGFIELD DRAGSTRIP,I had a great time and... and I just want to shake your hand...
+31584,145,25,151000,Lenny Leonard,SPRINGFIELD DRAGSTRIP,You're the greatest!
+31585,145,26,153000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,Smithers! Help!
+31586,145,27,155000,Waylon Smithers,SPRINGFIELD DRAGSTRIP,"It doesn't seem as funny to me, but what do I know?"
+31587,145,28,157000,C. Montgomery Burns,SPRINGFIELD DRAGSTRIP,Smithers!
+31588,145,29,159000,Waylon Smithers,SPRINGFIELD DRAGSTRIP,Oh my God!
+31591,145,32,168000,C. Montgomery Burns,Burns's Limo,"You should've seen the murderous glint in his eye, Smithers. And his breath reeked of beer and pretzeld bread."
+31592,145,33,176000,Waylon Smithers,Burns's Limo,"I'm so sorry, Mr. Burns. This was all my fault."
+31593,145,34,178000,C. Montgomery Burns,Burns's Limo,"Oh, don't concern yourself. If things had turned ugly I always had my mace."
+31594,145,35,183000,Waylon Smithers,Burns's Limo,"Don't let me off the hook that easily, Sir. I failed you and I'll never forgive myself. Never! Never! Never!"
+31596,145,37,195000,Waylon Smithers,Burns's Limo,Never! Never! Never!
+31598,145,39,200000,Waylon Smithers,Springfield Nuclear Power Plant,"Good morning, Sir. To make up for my failure last night, I've alphabetized your breakfast. You can start with the waffles, and work your way up to the zwieback. And to prevent newsprint from rubbing off on your hands, I've laminated today's newspaper."
+31599,145,40,213000,C. Montgomery Burns,Springfield Nuclear Power Plant,"I appreciate the thought, but my pen won't write on this. How am I supposed to do the ""Junior Jumble?"""
+31600,145,41,220000,Waylon Smithers,Springfield Nuclear Power Plant,"Oh, I can't even grovel properly! I'm a buffoon! I don't deserve to live on your planet anymore!"
+31601,145,42,233000,Waylon Smithers,Springfield Nuclear Power Plant,Huh?
+31602,145,43,233000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Pull yourself together, man! I dare say you're in need of a long vacation."
+31603,145,44,237000,Waylon Smithers,Springfield Nuclear Power Plant,"No! Don't make me take a vacation! Without you, I'll wither and die."
+31604,145,45,242000,C. Montgomery Burns,Springfield Nuclear Power Plant,That's a risk I'm willing to take.
+31552,145,46,243000,Waylon Smithers,Springfield Nuclear Power Plant,"But what would you do without me, Sir?"
+31605,145,47,245000,C. Montgomery Burns,Springfield Nuclear Power Plant,Tchah! I'm not a baby who needs a nursemaid to burp me. You see? Now I insist you take a vacation just as soon as a temporary substitute can be found.
+31607,145,49,261000,Waylon Smithers,Springfield Nuclear Power Plant,"I've got to find a replacement who won't outshine me. Perhaps if I search the employee evaluations for the word ""incompetent..."""
+31608,145,50,264000,Waylon Smithers,Springfield Nuclear Power Plant,"714 names! Huh. Better be more specific. ""Lazy"", ""Clumsy"", ""Dimwitted"", ""Monstrously Ugly""."
+31609,145,51,273000,Waylon Smithers,Springfield Nuclear Power Plant,"Aw, nuts to this. I'll just go get Homer Simpson."
+31611,145,53,285000,Homer Simpson,Simpson Home,I think Smithers picked me because of my motivational skills. Everyone always says they have to work a lot harder when I'm around.
+31612,145,54,292000,Lisa Simpson,Simpson Home,"You know, Dad, assisting Mr. Burns could give your career a real shot in the arm."
+31613,145,55,296000,Marge Simpson,Simpson Home,"You know, Homer, assisting Mr. Burns could give your career a real shot in the arm."
+31614,145,56,300000,Lisa Simpson,Simpson Home,Mo-omm! I just said that!
+31615,145,57,302000,Marge Simpson,Simpson Home,Sor-ry. Next time get your own darned corn.
+31617,145,59,306000,Homer Simpson,Springfield Nuclear Power Plant,"Um, is this the chair I'll be sitting on?"
+31618,145,60,308000,Waylon Smithers,Springfield Nuclear Power Plant,"Yah. Now I realize caring for Mr. Burns seems like a big job, but actually it's just 2800 small jobs."
+31619,145,61,315000,Homer Simpson,Springfield Nuclear Power Plant,"Uh-huh. But this is the chair, right?"
+31620,145,62,316000,Waylon Smithers,Springfield Nuclear Power Plant,"Your new duties will include answering Mr. Burns' phone, preparing his tax return, moistening his eyeballs, assisting with his chewing and swallowing, lying to Congress, and some light typing."
+31621,145,63,326000,Waylon Smithers,Springfield Nuclear Power Plant,"Montgomery Burns' office... Oh, hello Mrs. Burns... I'll see if your son is available."
+31622,145,64,331000,Homer Simpson,Springfield Nuclear Power Plant,Mr. Burns has a mother!? She must be a hundred million years old!
+31623,145,65,335000,Waylon Smithers,Springfield Nuclear Power Plant,She has limited capacities. All she can do is dial and yell.
+31624,145,66,338000,Waylon Smithers,Springfield Nuclear Power Plant,"I'm sorry, Monty can't come to the phone right now. He's in a very important meeting and can't be disturbed."
+31628,145,68,349000,Waylon Smithers,Springfield Nuclear Power Plant,"Uh-huh... Okay, I'll give him the message. Mr. Burns can't stand talking to his mother. He never forgave her for having that affair with President Taft."
+31629,145,69,359000,Homer Simpson,Springfield Nuclear Power Plant,"Heh, heh. Taft, you old dog..."
+31630,145,70,364000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Really, Smithers, I'll be fine! I'm sure your replacement will be able to handle everything. Who is he, anyway?"
+31631,145,71,371000,Waylon Smithers,Springfield Nuclear Power Plant,"Uh, Homer Simpson, Sir. One of your organ banks from sector 7-G. All the recent events of your life have revolved around him in some way."
+31632,145,72,380000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Simpson, eh?"
+31633,145,73,381000,Homer Simpson,Springfield Nuclear Power Plant,"Uh, Mr. Smithers? I don't understand 2700 of my new duties."
+31634,145,74,387000,Waylon Smithers,Springfield Nuclear Power Plant,"Well, the van's leaving. Which one duty is giving you the most trouble?"
+31635,145,75,390000,Homer Simpson,Springfield Nuclear Power Plant,"Um, what do I do in case of fire?"
+31636,145,76,394000,Waylon Smithers,Springfield Nuclear Power Plant,"Sorry, can't hear you. Bye-bye!"
+31637,145,77,402000,Homer Simpson,Springfield Nuclear Power Plant,Just my luck.
+31638,145,78,414000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Good lord, Smithers! You look atrocious. I thought I told you to take a vacation."
+31639,145,79,418000,Homer Simpson,Springfield Nuclear Power Plant,"Uh, Smithers already left, Sir. I'm his replacement, Homer Simpson."
+31640,145,80,422000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ah, yes, Simpson. I'll have my lunch now. A single pillow of shredded wheat, some steamed toast, and a dodo egg."
+31641,145,81,429000,Homer Simpson,Springfield Nuclear Power Plant,But I think the dodo went extinct...
+31642,145,82,430000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Get going! And answer those phones, install a computer system, and rotate my office so the window faces the hills."
+31643,145,83,436000,Homer Simpson,Springfield Nuclear Power Plant,"Uh-huh, uh-huh, okay. Um, can you repeat the part of the stuff where you said all about the things? The things?"
+31645,145,85,460000,Homer Simpson,Simpson Home,Lousy two-legged pants.
+31646,145,86,462000,Marge Simpson,Simpson Home,"Homie, it's 4:30 in the morning. ""Little Rascals"" isn't on 'til 6."
+31647,145,87,467000,Homer Simpson,Simpson Home,I know. I'm taping it. I want to get to Mr. Burns' house bright and early to make his breakfast.
+31648,145,88,471000,Marge Simpson,Simpson Home,"Ah, poor Homie. Poor, poor..."
+31650,145,90,484000,Homer Simpson,Burns Manor,Hmmm. One of these must be a breakfast maker.
+31651,145,91,487000,Homer Simpson,Burns Manor,"Well, it's my job to cook him breakfast, and I'm gonna cook the best damned breakfast he ever ate!"
+31626,145,92,516000,C. Montgomery Burns,Burns Manor,Dough-nuts?! I told you I don't like ethnic food!
+31627,145,93,520000,C. Montgomery Burns,Burns Manor,Here. Tell me how my stocks did yesterday.
+31652,145,94,522000,Homer Simpson,Burns Manor,Uh... they all won.
+31653,145,95,526000,C. Montgomery Burns,Burns Manor,Eh? What about my options?
+31654,145,96,528000,Homer Simpson,Burns Manor,"Well, you can either get up or go back to sleep."
+31655,145,97,530000,C. Montgomery Burns,Burns Manor,I believe I'll get up.
+31657,145,99,533000,C. Montgomery Burns,Burns Manor,Scrub harder. Got to get that layer of dead skin off.
+31660,145,102,539000,C. Montgomery Burns,Burns Manor,I think the fangs today.
+31662,145,104,549000,C. Montgomery Burns,Springfield Nuclear Power Plant,Simpson? Simpson?
+31663,145,105,554000,C. Montgomery Burns,Springfield Nuclear Power Plant,Did you get that report on the accounting department?
+31664,145,106,557000,Homer Simpson,Springfield Nuclear Power Plant,"Yes, Sir, I did."
+31665,145,107,558000,Homer Simpson,Springfield Nuclear Power Plant,The accounting department is located on the third floor. Its hours are 9 a.m. to 5 p.m. The head of this department is a Mr. Johnson or Johnstone.
+31666,145,108,563000,Homer Simpson,Springfield Nuclear Power Plant,"Here are your messages: ""You have 30 minutes to move your car,"" ""You have 10 minutes,"" ""Your car has been impounded,"" ""Your car has been crushed into a cube,"" ""You have 30 minutes to move your cube."""
+31667,145,109,570000,Homer Simpson,Springfield Nuclear Power Plant,Hello. Mr. Burns' office.
+31668,145,110,583000,C. Montgomery Burns,Springfield Nuclear Power Plant,Is it about my cube?
+31669,145,111,584000,Homer Simpson,Springfield Nuclear Power Plant,It's Mr. Smithers. He's calling for you.
+31671,145,113,586000,Waylon Smithers,Tropical Beach,"How is everything going there, sir?... Well, I have a lot of free time on my hands. If you Fed Ex'd me your mail, I'd be happy to open it and return it to you."
+31673,145,115,593000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Everything's fine, Smithers. But this Simpson fellow seems to be getting dumber by the minute. I've never seen anything quite like it... Anyhoo, you just enjoy your vacation."
+31677,145,119,606000,Bart Simpson,Simpson Home,"Look alive, Simpson! I'm not paying you to goldbrick!"
+31678,145,120,610000,Homer Simpson,Simpson Home,"Yes! Yes, sir!"
+31679,145,121,611000,Bart Simpson,Simpson Home,"Now get cracking on my long division. And don't forget to show your work, Simpson."
+31680,145,122,614000,Homer Simpson,Simpson Home,"I'll have it on your desk in the morning, sir."
+31682,145,123,615000,Lisa Simpson,Simpson Home,"Bart, leave Simpson alone."
+31683,145,124,617000,Lisa Simpson,Simpson Home,Simpson! I need a ride to the library.
+31684,145,125,620000,Marge Simpson,Simpson Home,"Kids, stop exploiting your father. Homie, why don't you lie down and relax."
+31685,145,126,624000,Homer Simpson,Simpson Home,"No time, Marge. I think Mr. Burns wants me to do some long division."
+31686,145,127,628000,Marge Simpson,Simpson Home,Simpson! Lie down!
+31687,145,128,630000,Marge Simpson,Simpson Home,"Sorry, but you need a good night's rest."
+31689,145,130,635000,C. Montgomery Burns,Simpson Home,Simpson!
+31692,145,133,643000,C. Montgomery Burns,Burns Manor,The telephone has been ringing for some time. Answer it.
+31693,145,134,649000,Homer Simpson,Burns Manor,Yello?... It's for you.
+31695,145,136,653000,Waylon Smithers,TROPICAL NIGHT CLUB,"Mr. Burns, 48 rings! Are you all right? What did Simpson do to you?"
+31697,145,138,657000,C. Montgomery Burns,Burns Manor,Nothing other than drive me to distraction with his incompetent boobery. Terrible at everything. A complete moron. But I'm not really free to talk right now.
+31698,145,139,667000,C. Montgomery Burns,Burns Manor,"Look, stop calling me and start enjoying your vacation. Remember, I want to see lots of pictures when you get back."
+31700,145,141,673000,Waylon Smithers,TROPICAL NIGHT CLUB,"Ah... actually, Sir, picture taking is not allowed at this particular resort. Whoops, I've got to go now -- there's a line forming behind me."
+31702,145,143,689000,C. Montgomery Burns,Springfield Nuclear Power Plant,60 watts! What do you think this is -- a tanning salon?
+31703,145,144,692000,C. Montgomery Burns,Springfield Nuclear Power Plant,I asked for light starch on my nightcap!
+31705,145,146,697000,C. Montgomery Burns,Springfield Nuclear Power Plant,You call this Postum?!
+31706,145,147,699000,C. Montgomery Burns,Springfield Nuclear Power Plant,You call this a tax return?!
+31707,145,148,702000,C. Montgomery Burns,Springfield Nuclear Power Plant,You call this a super computer?!
+31708,145,149,708000,C. Montgomery Burns,Springfield Nuclear Power Plant,You're a travesty of a truke of an assistant.
+31711,145,152,730000,Marge Simpson,Simpson Home,"Is there something wrong, Homie?"
+31712,145,153,733000,Homer Simpson,Simpson Home,No.
+31713,145,154,735000,Marge Simpson,Simpson Home,Except...
+31714,145,155,736000,Homer Simpson,Simpson Home,Except... I killed Mr. Burns.
+31715,145,156,740000,Lisa Simpson,Simpson Home,"What happened, Dad?"
+31716,145,157,741000,Homer Simpson,Simpson Home,I punched Mr. Burns right in his 104 year-old face.
+31717,145,158,744000,Lisa Simpson,Simpson Home,Are you sure he's dead? Maybe you just really really hurt him.
+31718,145,159,747000,Marge Simpson,Simpson Home,"Okay. Maybe everything's all right. Maybe if you go apologize, he won't even fire you. If he's alive."
+31720,145,161,759000,Homer Simpson,Springfield Nuclear Power Plant,Mr. Burns?
+31722,145,163,771000,Homer Simpson,Springfield Nuclear Power Plant,"I'm really sorry I hit you, Mr. Burns. Here, let me put some salt on that eye."
+31723,145,164,775000,C. Montgomery Burns,Springfield Nuclear Power Plant,"No, please! I can't bear another thrashing. Just leave me be."
+31724,145,165,778000,Homer Simpson,Springfield Nuclear Power Plant,"Yes, sir."
+31725,145,166,783000,C. Montgomery Burns,Springfield Nuclear Power Plant,Must call Smithers. He'll protect me from this beast.
+31726,145,167,787000,C. Montgomery Burns,Springfield Nuclear Power Plant,"I've seen people activate this machine a thousand times. Doesn't seem to be any trick to it... Let's see... Smithers... ""S-M-I-T-H-E-R-S"". Success! It's ringing!"
+31728,145,169,799000,Moe Szyslak,Moe's Tavern,Moe's Tavern.
+31729,145,170,801000,C. Montgomery Burns,Moe's Tavern,"I'm looking for a Mr. Smithers. First name, Waylon."
+31730,145,171,804000,Moe Szyslak,Moe's Tavern,"Oh, so you're looking for a Mr. Smithers, eh? First name, Waylon, is it? Listen to me, you... when I catch you, I'm going to pull out your eyes and shove 'em up your pants so you can watch me kick the crap out of you. Okay? Then I'm going to use your tongue to paint my boat."
+31732,145,173,825000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, Smithers, if only you could hear me."
+31734,145,175,828000,Waylon Smithers,Tropical Beach,Something tells me Mr. Burns needs me.
+31736,145,177,835000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Praise God, I think the thug has finally gone home for the day."
+31737,145,178,838000,C. Montgomery Burns,Springfield Nuclear Power Plant,Now I can make my escape...
+31738,145,179,843000,Homer Simpson,Springfield Nuclear Power Plant,"Hi, Mr. Burns. Do you want your coffee now?"
+31739,145,180,845000,C. Montgomery Burns,Springfield Nuclear Power Plant,Uh... no! I'm... uh... making it myself!
+31740,145,181,849000,C. Montgomery Burns,Springfield Nuclear Power Plant,Hear that? The percolations are imminent! No need to come in! Cease your ingress!
+31741,145,182,860000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Stay back, Homer! Approach no further. Coffee's already made. I stomped the beans myself."
+31742,145,183,865000,Homer Simpson,Springfield Nuclear Power Plant,"Well, can I at least drive you home, Mr. Burns? It's five o'clock."
+31743,145,184,868000,C. Montgomery Burns,Springfield Nuclear Power Plant,"No... I thought... I thought, uh, I'd chauffeur myself this evening! Yes, that's what I thought. How difficult can it be? I'm sure the manual will indicate which lever is the velocitator and which the deceleratrix."
+31745,145,186,880000,C. Montgomery Burns,Burns's Car,"I can't believe it! All my life I've avoided doing things for myself, but I'm actually enjoying this. Plus I'm making incredible time."
+31746,145,187,890000,C. Montgomery Burns,Burns's Car,"Beep beep! Out of my way, I'm a motorist!"
+31748,145,189,894000,Chief Wiggum,Street,"Ahh, that's some nice reckless driving, Mr. B!"
+31750,145,191,899000,Homer Simpson,Springfield Nuclear Power Plant,"Would you like me to shred those environmental reports for you, sir?"
+31751,145,192,903000,C. Montgomery Burns,Springfield Nuclear Power Plant,Already taken care of.
+31752,145,193,906000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Cappuccino, Simpson?"
+31753,145,194,909000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ahoy-hoy? No, you have the wrong number. This is 5-2-4-6. I suspect you need more practice working your telephone machine. Not at all. Ahoy."
+31754,145,195,921000,Homer Simpson,Springfield Nuclear Power Plant,"Mr. Burns, is there anything at all I can do for you?"
+31755,145,196,924000,C. Montgomery Burns,Springfield Nuclear Power Plant,"No, Homer. You've already done more for me than any man. Your brutal attack forced me to fend for myself. I realize now that being waited on hand and foot is okay for your average Joe, but it's not for me. I want to thank you."
+31756,145,197,940000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Thank you, thank you, thank you!"
+31757,145,198,944000,Waylon Smithers,Springfield Nuclear Power Plant,Oh my God! I knew I shouldn't have left!
+31758,145,199,947000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ah, welcome back, Smithers. Say, do you know Homer Simpson? He pitched in around the office while you were away. Bang up job, Simpson, but I guess it's back to your trusty post in sector 7-G."
+31759,145,200,958000,Waylon Smithers,Springfield Nuclear Power Plant,"You heard the man, Simpson."
+31760,145,201,961000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ah, and my dear, dear Smithers... you're no longer needed at all. You're fired. Ta!"
+31761,145,202,969000,Homer Simpson,Springfield Nuclear Power Plant,You shouldn't've gone away on vacation.
+31763,145,204,981000,Marge Simpson,Simpson Home,"Cheer up, Homie."
+31764,145,205,982000,Homer Simpson,Simpson Home,"I just feel terrible about getting Mr. Smithers fired. That job was all he had. Imagine how you'd feel, Marge, if you got fired from the... those things... that you do."
+31765,145,206,994000,Bart Simpson,Simpson Home,"Quick, Mom! Whip up a cake before Dad fires you!"
+31766,145,207,996000,Lisa Simpson,Simpson Home,"Don't worry, Dad. Mr. Smithers is a resilient man. I'm sure he can get a great job at any corporation he wants."
+31768,145,209,1009000,Waylon Smithers,BUSINESS DISTRICT,Meet your new piano mover.
+31770,145,211,1013000,Dr. Julius Hibbert,Dr. Hibbert's Office,We'll going to have to put a steel rod where your spine was.
+31771,145,212,1016000,Waylon Smithers,Dr. Hibbert's Office,"Oh, will I ever move a piano again?"
+31772,145,213,1019000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Oh, my goodness gracious, no."
+31774,145,215,1022000,Waylon Smithers,SPRINGFIELD DRAGSTRIP,"Get ready for exciting quarter mile action at the Springfield Dragstrip. It'll be motorized mayhem !... Do we need all these ""mayhems?"" We do. All right, fair enough. I suppose you know your business. Get ready for fun ... The people are already here. We don't need to keep hustling them like this, do we? Hey, let go of me! Where are you throwing me?"
+31776,145,217,1043000,Waylon Smithers,Moe's Tavern,"Uh, hello. You had a ""help wanted"" sign in the window?"
+31777,145,218,1047000,Moe Szyslak,Moe's Tavern,"Uh, yeah, I need someone to help me with the midnight beer delivery. Your job is to distract Barney until it's safely off the truck."
+31778,145,219,1054000,Waylon Smithers,Moe's Tavern,I'll just wait out back until then.
+31779,145,220,1056000,Barney Gumble,Moe's Tavern,I look forward to working with you!
+31780,145,221,1058000,Homer Simpson,Moe's Tavern,"Mr. Smithers, wait!"
+31781,145,222,1060000,Homer Simpson,Moe's Tavern,"You can't let yourself end up in a place like this. You've got two choices: You can give up on yourself and take the Barney-guarding job, like so many of us have contemplated in our darkest moments. Or you can admit to yourself there's only one person that can make you happy and do whatever it takes to get them back."
+31782,145,223,1079000,Waylon Smithers,Moe's Tavern,You're right! But I'm going to need your help.
+31783,145,224,1083000,Moe Szyslak,Moe's Tavern,"Oh,... my... God!..."
+31784,145,225,1085000,Truck Driver,Moe's Tavern,"Beer delivery. Just sign here-- Oh, no, it's you!!"
+31787,145,228,1104000,Homer Simpson,Burns's Outer Office,"Okay, I gotcha covered."
+31788,145,229,1105000,Waylon Smithers,Burns's Outer Office,"Mr. Burns may have mastered 2,799 of my 2,800 duties. But I'll wager dollars to donuts he still can't handle a call from his mother."
+31789,145,230,1113000,Homer Simpson,Burns's Outer Office,You're on.
+31790,145,231,1118000,Mrs. Burns,Burns's Outer Office,What.
+31791,145,232,1119000,Waylon Smithers,Burns's Outer Office,"Hello, Mrs. Burns? This is Waylon Smithers. I have your son Montgomery on the line."
+31792,145,233,1125000,Mrs. Burns,Burns's Outer Office,"That improvident lackwit. Always too busy striding about his atom mill to call his own mother. I'll give him ""what-fors"" till he cries brassafrax!"
+31793,145,234,1136000,Waylon Smithers,Burns's Outer Office,"Perfect. When I give the signal, you transfer the call to Mr. Burns. After she tears into him, I'll rush in and save the day."
+31794,145,235,1143000,Homer Simpson,Burns's Outer Office,Got it.
+31795,145,236,1147000,Homer Simpson,Burns's Outer Office,"I'm transferring a call into you, Mr. Burns."
+31796,145,237,1150000,C. Montgomery Burns,Burns's Outer Office,No problemo.
+31798,145,239,1156000,Homer Simpson,Burns's Outer Office,Uh-oh.
+31799,145,240,1157000,C. Montgomery Burns,Burns's Outer Office,Ahoy-hoy? Hoy?
+31800,145,241,1161000,Homer Simpson,Burns's Outer Office,"Hello, Mr. Burns? This is your mother."
+31802,145,243,1166000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Gah! Oh, hello, Mater. Uh... Sorry about pulling the plug on you and all. Who could've known you'd pull through and... live for another five decades? Oh, is my face red..."
+31803,145,244,1179000,Waylon Smithers,Springfield Nuclear Power Plant,"Mrs. Burns is 122 years old, so try to sound more desiccated. And she doesn't call her son Mr. Burns!"
+31804,145,245,1184000,Homer Simpson,Springfield Nuclear Power Plant,"Son, this is Mrs. Burns! I just called to say I don't love you. You are a bad son, Montel!"
+31805,145,246,1197000,C. Montgomery Burns,Springfield Nuclear Power Plant,So!
+31807,145,248,1199000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Impersonate my mother, will you? And you, Smithers! You must have put him up to it! I'm glad I fired you."
+31808,145,249,1207000,Homer Simpson,Springfield Nuclear Power Plant,"You really blew it this time, Smithers."
+31809,145,250,1215000,C. Montgomery Burns,Springfield Nuclear Power Plant,Stop that! Stop that at once! You're fighting!
+31810,145,251,1220000,Waylon Smithers,Springfield Nuclear Power Plant,"Stop fighting like a girl, Simpson."
+31811,145,252,1223000,Homer Simpson,Springfield Nuclear Power Plant,Okay.
+31812,145,253,1233000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Stop it! Stop it, I say!"
+31813,145,254,1240000,Waylon Smithers,Springfield Nuclear Power Plant,"I'll teach you how to use a phone, you boob!"
+31814,145,255,1243000,Waylon Smithers,Springfield Nuclear Power Plant,It's for you.
+31815,145,256,1252000,Homer Simpson,Springfield Nuclear Power Plant,I'll show you.
+31818,145,259,1262000,Waylon Smithers,Springfield Nuclear Power Plant,Oh my.
+31820,145,261,1268000,Waylon Smithers,Burns Manor,Here comes the endangered condor into the power lines.
+31821,145,262,1272000,Waylon Smithers,Burns Manor,"I've got Bobo, hot from the dryer! Careful not to burn yourself on his eye."
+31822,145,263,1276000,C. Montgomery Burns,Burns Manor,"I don't need you to do any of this. I'm totally self-sufficient now. What I would like, though, is a Spanish peanut."
+31823,145,264,1284000,C. Montgomery Burns,Burns Manor,Skin.
+31824,145,265,1289000,C. Montgomery Burns,Burns Manor,"It's a remarkable thing. In the short time you were gone, I learned to be completely self reli--"
+31825,145,266,1296000,C. Montgomery Burns,Burns Manor,"-- ant. Oh, and as for that brutish fellow who knocked me out the window... see that he gets what's coming to him."
+31826,145,267,1304000,Waylon Smithers,Burns Manor,"I already have, sir."
+31828,145,269,1307000,Bart Simpson,Simpson Home,What did you get that for?
+31829,145,270,1308000,Homer Simpson,Simpson Home,For knocking Mr. Burns out a third story window.
+31830,145,271,1311000,Bart Simpson,Simpson Home,Makes sense to me.
+31831,145,272,1312000,Lisa Simpson,Simpson Home,Did he die?
+31832,145,273,1313000,Homer Simpson,Simpson Home,What am I -- a doctor?

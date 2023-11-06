@@ -1,0 +1,227 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+25942,124,2,41000,Milhouse Van Houten,Bus,This bus has seen better days.
+25943,124,3,44000,Bart Simpson,Bus,"Well, at least it's safer than the old bus."
+25945,124,5,52000,Milhouse Van Houten,Springfield Elementary School Parking Lot,"Uh oh, time to move. The hole's gettin' bigger."
+25946,124,6,60000,Edna Krabappel-Flanders,Springfield Elementary School Parking Lot,"Seymour, the children are playing in the hole again. Shouldn't you get that fixed?"
+25947,124,7,65000,Seymour Skinner,Springfield Elementary School Parking Lot,"Edna, you know they just cut the school's budget. Besides, if I had the money, I'd fix the exhaust leak in the back. Frankly, I think it's causing some of our low test scores."
+25949,124,9,79000,Seymour Skinner,Highway,"All right, the battlefield is just a half mile ahead. Begin braking procedure!"
+25951,124,11,90000,Tour Guide,BATTLEFIELD ENTRANCE,"This civil war cannon has been fully restored and is in ready-to-fire condition. But it's a good thing we're not firing it, because it happens to be aimed at the main support leg of that lookout tower."
+25952,124,12,103000,Tour Guide,BATTLEFIELD ENTRANCE,People don't realize that these cannons are very sensitive and the slightest jolt could set them off.
+25953,124,13,112000,Tour Guide,BATTLEFIELD ENTRANCE,"Of course, for safety reasons, we don't keep the cannon loaded. It's just common sense."
+25954,124,14,120000,Seymour Skinner,BATTLEFIELD ENTRANCE,"Otto, why don't you get some more gas. Here's the 'credit card.'"
+25955,124,15,127000,Seymour Skinner,BATTLEFIELD ENTRANCE,...and a mint for afterwards.
+25957,124,17,129000,Seymour Skinner,HISTORICAL SITE,Five dollars a child?! Last year it was free.
+25958,124,18,132000,Ticket Lady,HISTORICAL SITE,Hmh. New ownership.
+25959,124,19,138000,Seymour Skinner,HISTORICAL SITE,"Bu..but we don't have that kind of money. In fact, no school could afford to..."
+25960,124,20,149000,Shelbyville Principal,HISTORICAL SITE,"Here's the admission, plus, uh something for you. See that they get a little extra education, would you?"
+25961,124,21,156000,Ticket Lady,HISTORICAL SITE,"Yes sir, Principal Valiant!"
+25962,124,22,158000,Seymour Skinner,HISTORICAL SITE,"He thinks he's so hot ever since he swept the ""princi"" awards. Those things are rigged."
+25965,124,24,163000,Narrator,BATTLEFIELD RE-CREATION,"On May 21, 1864, the men of the Ninth Bearded Infantry were sunning and fluffing their beards in the sun. Suddenly, enemy troops crested that hill over there."
+25966,124,25,177000,Enemy Soldier #1,BATTLEFIELD RE-CREATION,"Fort Springfield, we surrender unconditionally!"
+25967,124,26,180000,Enemy Soldier #2,BATTLEFIELD RE-CREATION,"We're sick. We need leeches, and hack saws to saw off our gangrenous limbs!"
+25968,124,27,185000,Narrator,BATTLEFIELD RE-CREATION,But the Springfield brigade was too brave to accept the surrender...
+25969,124,28,190000,Soldier #1,BATTLEFIELD RE-CREATION,"Come on, boys! Those white flags are no match for our muskets!"
+25970,124,29,193000,Soldier #2,BATTLEFIELD RE-CREATION,Charge!
+25971,124,30,195000,Narrator,BATTLEFIELD RE-CREATION,... And the Springfielders heroically slaughtered their enemies as they prayed for mercy.
+25972,124,31,205000,Bart Simpson,BATTLEFIELD RE-CREATION,It's hard to see what's going on. I can only make out the fat soldiers.
+25973,124,32,209000,Seymour Skinner,BATTLEFIELD RE-CREATION,"All right children, switch."
+25974,124,33,211000,Soldier #3,BATTLEFIELD RE-CREATION,"Hey, they're trying to learn for free!"
+25975,124,34,214000,Narrator,BATTLEFIELD RE-CREATION,Get 'em!
+25976,124,35,217000,Soldier #4,BATTLEFIELD RE-CREATION,Use your phony guns as clubs!
+25977,124,36,219000,Seymour Skinner,BATTLEFIELD RE-CREATION,Run children!
+25978,124,37,221000,Seymour Skinner,BATTLEFIELD RE-CREATION,Start the bus Otto!! Start the bus!!
+25980,124,39,224000,Otto Mann,Parking Lot,Damn. I shouldn't have eaten the mint first.
+25981,124,40,229000,Otto Mann,Parking Lot,"Okay, hop on!"
+25982,124,41,233000,Üter,Parking Lot,Wait! Wait!
+25984,124,43,234000,Edna Krabappel-Flanders,Bus,"Well Seymour, because of your penny pinching, we're coming back from a field trip with the fewest children yet."
+25985,124,44,250000,Seymour Skinner,Bus,God bless the man who invented permission slips.
+25987,124,46,254000,Bart Simpson,Springfield Elementary School Cafeteria,"Ah, I think I got your lunch."
+25988,124,47,260000,Lisa Simpson,Springfield Elementary School Cafeteria,"Oh, yeah. I didn't think this was for me."
+25989,124,48,265000,Edna Krabappel-Flanders,Springfield Elementary School Cafeteria,"Seymour, the teachers are fed up. You have to start putting money back into the school. You've cut back on everything: salaries, supplies, the food. I don't care what you say, I can taste the newspaper."
+25990,124,49,277000,Seymour Skinner,Springfield Elementary School Cafeteria,"Posh. Shredded newspapers add much needed roughage and essential inks. Besides, you didn't notice the old gym mats."
+25992,124,51,283000,Lunchlady Doris,KITCHEN,There's very little meat in these gym mats.
+25994,124,52,286000,Edna Krabappel-Flanders,KITCHEN,"Our demands are very reasonable. By ignoring them, you're selling out these children's futures."
+25995,124,53,292000,Seymour Skinner,KITCHEN,"Oh, c'mon, Edna. We both know these children have no future."
+25996,124,54,298000,Seymour Skinner,KITCHEN,"Prove me wrong, kids. Prove me wrong."
+25997,124,55,303000,Lisa Simpson,KITCHEN,"I've never seen them fight like that, Bart. I'm worried that all this posturing and saber-rattling could lead to a teachers strike."
+25998,124,56,311000,Bart Simpson,KITCHEN,"Strike, eh?"
+25999,124,57,313000,Bart Simpson,KITCHEN,Oww! My bones are so brittle. But I always drink plenty of... malk?
+26001,124,59,321000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"How do you expect us to teach with these supplies? Well this pointer's so old, it's worn down to a nub."
+26002,124,60,328000,Seymour Skinner,Mrs. Krabappel's Classroom,"It still points, doesn't it?"
+26003,124,61,329000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,Stop that. And look at this. The only books we have are ones that were banned by other schools.
+26004,124,62,336000,Seymour Skinner,Mrs. Krabappel's Classroom,"Well, the kids have to learn about Tek War sooner or later."
+26005,124,63,341000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"Go away, Bart. This is not a good time."
+26006,124,64,343000,Bart Simpson,Mrs. Krabappel's Classroom,I saw you two fighting. I'm worried there could be a strike and the school would shut down.
+26007,124,65,348000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"I'm sure you'd really hate that. There's not going to be a strike, Bart."
+26008,124,66,353000,Bart Simpson,Mrs. Krabappel's Classroom,"Yeah, Skinner said you wouldn't have the wontons to go through with it."
+26009,124,67,356000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,Skinner said that?
+26010,124,68,358000,Bart Simpson,Mrs. Krabappel's Classroom,"Well, I had to clean it up a little."
+26012,124,70,360000,Bart Simpson,Skinner's Office,"But basically, Krabappel said you'd give the teachers everything they want."
+26013,124,71,364000,Seymour Skinner,Skinner's Office,She did?
+26014,124,72,365000,Bart Simpson,Skinner's Office,Yeah. She said you'd fold faster than Superman on laundry day.
+26015,124,73,369000,Seymour Skinner,Skinner's Office,"We'll see about that. Simpson, I always thought you were sneaky and manipulative, but now I see you're really a very sensitive little boy."
+26016,124,74,378000,Bart Simpson,Skinner's Office,"Thank you, sir."
+26017,124,75,380000,Seymour Skinner,Skinner's Office,Aww.
+26019,124,77,381000,Edna Krabappel-Flanders,Hallway,"Seymour, you're being totally unfair and the teachers won't stand for it."
+26020,124,78,385000,Seymour Skinner,Hallway,Teachers. You don't have the guts to strike.
+25937,124,79,388000,Edna Krabappel-Flanders,Hallway,You don't have the guts to take us all on.
+25993,124,81,395000,Seymour Skinner,Hallway,That's it!
+25881,124,82,396000,Edna Krabappel-Flanders,Hallway,Stee-rike!
+26021,124,84,401000,Seymour Skinner,Lisa's Classroom,"Attention. This is an emergency broadcast. All is well in the school. My authority as principal is total -- Hey, gimme that."
+26022,124,85,411000,Edna Krabappel-Flanders,Lisa's Classroom,Attention teachers: we're on strike. Ha!
+26023,124,86,417000,Lisa Simpson,Lisa's Classroom,Oh no. Strike?
+26024,124,87,419000,Ralph Wiggum,Lisa's Classroom,"Miss Hoover, are you on s..."
+26025,124,88,422000,Miss Hoover,Lisa's Classroom,"Go home, children!"
+26027,124,90,423000,Ring Girl,Gym Class,Hello? Mrs. Pommelhorst? I'd like to get down now.
+26029,124,92,438000,Database,Auditorium,"Hey, n--now that Largo's gone, we-we can play the forbidden music!"
+26030,124,93,447000,Dewey Largo,Auditorium,I heard that.
+26033,124,96,458000,Marge Simpson,Simpson Home,Bart! Lisa! What are you two doing home so early?
+26034,124,97,462000,Bart Simpson,Simpson Home,"Great news, Mom!"
+26035,124,98,464000,Lisa Simpson,Simpson Home,"Horrible news, Mom!"
+26036,124,99,465000,Bart Simpson,Simpson Home,The school's on strike. Maybe forever. Overload. Pleasure overload.
+26037,124,100,473000,Lisa Simpson,Simpson Home,"Luckily I've prepared for this, so I'm not too worried."
+26038,124,101,481000,Tape Recorder,Simpson Home,Sit up straight... eyes forward... no talking... is that gum?... is that gum?... is that gum?
+26039,124,102,488000,Lisa Simpson,Simpson Home,Oh yeah.
+26040,124,103,490000,Marge Simpson,Simpson Home,"Bart, leave that crowbar here. You know I don't like you prying and jimmying."
+26042,124,105,495000,Milhouse Van Houten,Van Houten Home,Mom! Dad! Great news! The teachers are on --
+26043,124,106,497000,Luann Van Houten,Van Houten Home,We heard.
+26044,124,107,498000,Kirk Van Houten,Van Houten Home,And we already hired a tutor.
+26045,124,108,500000,Tutor,Van Houten Home,Well. Looks like we'll be staying late today to make up for all this dilly-dallying.
+26048,124,111,517000,Bart Simpson,Construction Site,Awesome.
+26049,124,112,520000,Bart Simpson,Construction Site,"You with the crane, spin around real fast."
+26050,124,113,529000,Bart Simpson,Construction Site,"Now you, dump three tons of sand onto that port-a-potty."
+26051,124,114,536000,Foreman,Construction Site,"Hey, can't you tell my voice from a ten-year-old kid's? Ay carumba!"
+26054,124,117,557000,Onlooker #1,Park,"Hey, that little boy is playing three games at once."
+26055,124,118,561000,Opponent #1,Park,Check mate.
+24706,124,119,561000,Opponent #2,Park,Check mate.
+24963,124,120,561000,Opponent #3,Park,Check mate.
+25044,124,121,562000,Bart Simpson,Park,Dang.
+26056,124,123,565000,Homer Simpson,Simpson Home,Lousy teachers. Trying to palm off our kids on us.
+26057,124,124,569000,Lisa Simpson,Simpson Home,"But Dad, by striking they're trying to effect a change in management so that they can be happier and more productive."
+26058,124,125,574000,Homer Simpson,Simpson Home,"Lisa, if you don't like your job you don't strike. You just go in every day and do it really half-assed. That's the American way."
+26059,124,126,584000,Lisa Simpson,Simpson Home,"I've got some textbooks, but without state approved syllabi and standardized testing my education can only go so far."
+26060,124,127,590000,Marge Simpson,Simpson Home,"Honey, maybe you should relax a little?"
+26061,124,128,592000,Lisa Simpson,Simpson Home,"Relax? I can't relax. Nor can I yield, relent, or... Only two synonyms? Oh my God! I'm losing my perspicacity!"
+26062,124,129,605000,Homer Simpson,Simpson Home,"Well, it's always in the last place you look."
+26064,124,131,613000,Lisa Simpson,Springfield Elementary School,"So if we were in school this week, what do you think we'd be learning?"
+26065,124,132,617000,Miss Hoover,Springfield Elementary School,Get away from me.
+26066,124,133,619000,Edna Krabappel-Flanders,Springfield Elementary School,"Good news, people!"
+26067,124,134,620000,Teachers,Springfield Elementary School,"Yay!/ I knew they'd cave in./ You did it, Edna!"
+26068,124,135,620000,Edna Krabappel-Flanders,Springfield Elementary School,I'm happy to announce that another union has joined us in a sympathy strike: the piano tuners local 4-12!
+26070,124,137,633000,Bart Simpson,House,Now for operation strike-make-go-longer.
+26071,124,138,635000,Bart Simpson,House,"You know, I heard Skinner say the teachers will crack any minute."
+26072,124,139,643000,Teacher,House,Skinner said the teachers will crack any minute purple monkey dishwasher.
+26073,124,140,648000,Edna Krabappel-Flanders,House,"Well, we'll show him - especially for that purple monkey dishwasher remark."
+26075,124,142,653000,Gary Chalmers,Skinner's Office,"Seymour, you are truly incompetent."
+26076,124,143,657000,Seymour Skinner,Skinner's Office,"Well, I hardly think it's fair to..."
+26077,124,144,660000,Gary Chalmers,Skinner's Office,"Dummy up, you. Listen to those passing motorists who support the teachers."
+26080,124,147,668000,Tutor,Van Houten Home,"Fifteen minute recess, Milhouse. The recess assignment is chapters three through seven."
+26081,124,148,674000,Milhouse Van Houten,Van Houten Home,"Yay, recess!"
+26082,124,149,677000,Bart Simpson,Van Houten Home,"Milhouse, I found a hive of killer bees. You wanna go throw rocks at it?"
+26084,124,150,681000,Milhouse Van Houten,Van Houten Home,"Sorry Bart, I'm deeply immersed in the Teapot Dome Scandal."
+26085,124,151,684000,Bart Simpson,Van Houten Home,Huh?
+26086,124,152,685000,Milhouse Van Houten,Van Houten Home,"However, it might be feasible in a fortnight."
+26087,124,153,688000,Bart Simpson,Van Houten Home,Wuh?
+26088,124,154,689000,Milhouse Van Houten,Van Houten Home,I can play in two weeks.
+26089,124,155,690000,Bart Simpson,Van Houten Home,Juh?
+26091,124,157,694000,Jimbo Jones,ELEGANT LIVING ROOM,"I-I just can't believe Stark would stoop to that, and right in the middle of Montana and Dakota's wedding."
+26093,124,159,705000,Kearney Zzyzwicz,Noiseland Arcade,"All this free time. I never thought I'd get sick of Razor Fight II, The Slashening."
+26094,124,160,705000,DOLPH,Noiseland Arcade,I probably should stop. My doctor says I have the wrists of an eighty-year-old.
+26096,124,162,718000,Bart Simpson,Bank,What do you mean the bank is out of money? Insolvent?! You only have enough cash for the next three customers?!
+26097,124,163,727000,Manager,Bank,"Wait a minute. J-just a second here. No. No. I don't have your money here. It's in Bill's house, and a-a Fred's house...."
+26098,124,164,738000,Moe Szyslak,Bank,"Hey, what the hell are you doing with my money in your house, Fred?"
+26100,124,166,749000,Lisa Simpson,Simpson Kitchen,"Grade me! Look at me! Evaluate and rank me! Oh -- I'm good, good, good, and oh so smart! Grade me!"
+26102,124,168,765000,Marge Simpson,Simpson Home,"I'm worried about the kids, Homie. Lisa's becoming very obsessive. This morning I caught her trying to dissect her own rain coat."
+26103,124,169,775000,Homer Simpson,Simpson Home,I know. And this perpetual motion machine she made today is a joke. It just keeps going faster and faster.
+26104,124,170,782000,Marge Simpson,Simpson Home,"And Bart isn't doing very well either. He needs boundaries, and structure. There's something about flying a kite at night that's so unwholesome."
+26105,124,171,791000,Bart Simpson,Simpson Home,"Hello, mother dear."
+26106,124,172,793000,Marge Simpson,Simpson Home,That's it. We have to get them back to school.
+26107,124,173,797000,Homer Simpson,Simpson Home,"I'm with you, Marge. Lisa, get in here! In this house we obey the laws of thermodynamics."
+26109,124,175,806000,Ned Flanders,Auditorium,"All right, I'd like to call this meeting of the PTA to or-diddly-order and let's see if we can't put an end to this strike fuss, huh? Mrs. Krabappel, why don't you begin?"
+26110,124,176,817000,Seymour Skinner,Auditorium,Boo!
+26111,124,177,818000,Edna Krabappel-Flanders,Auditorium,"Oh, boo yourself. Our demands are simple: a small cost of living increase and some better equipment and supplies for your children."
+26112,124,178,826000,Parents,Auditorium,Yay! / That's reasonable. / Give it to 'em.
+26113,124,179,828000,Seymour Skinner,Auditorium,"Yeah, in a dream world. We have a very tight budget. To do what she's asking, we'd have to raise taxes."
+26114,124,180,835000,Parents,Auditorium,Raise taxes! / They're too high as they are right now! / Taxes are bad. / We don't want that.
+26115,124,181,839000,Edna Krabappel-Flanders,Auditorium,It's your children's future.
+26116,124,182,841000,Parents,Auditorium,That's true./ Children are important./ They're our future./ Best to plan.
+26117,124,183,844000,Seymour Skinner,Auditorium,It'll cost you.
+26118,124,184,845000,Parents,Auditorium,"Oh right, taxes. / I forgot that. / I don't have any extra money. / They're gonna raise taxes."
+26119,124,185,849000,Edna Krabappel-Flanders,Auditorium,C'mon.
+26120,124,186,850000,Parents,Auditorium,She makes a good case./ Good point / Sounds logical.
+26121,124,187,853000,Parents,Auditorium,"Oh right, the money. / That finger thing means taxes. / That means money./ I pay a lot of taxes."
+26122,124,188,859000,Ned Flanders,Auditorium,"Well, I guess this is a case where we'll have to agree to disagree."
+26123,124,189,863000,Seymour Skinner,Auditorium,I don't agree to that.
+26124,124,190,864000,Edna Krabappel-Flanders,Auditorium,Neither do I.
+26125,124,191,865000,Ned Flanders,Auditorium,"Oh, this is a dilly of a pickle."
+26126,124,192,868000,Panicky Man,Auditorium,Oh my God! The PTA has disbanded!
+26127,124,193,874000,Ned Flanders,Auditorium,"No, no. The PTA has not disbanded."
+26128,124,194,878000,Ned Flanders,Auditorium,We do have an emergency plan in case of a prolonged strike right here.
+26129,124,195,884000,Ned Flanders,Auditorium,"Let's see. ""Replace teachers with super-intelligent cyborgs. Or, if cyborgs aren't invented yet, use people from the neighborhood."""
+26132,124,198,889000,Jasper Beardly,Lisa's Classroom,"...Talking out of turn, that's a paddlin'. Lookin' out the window, that's a paddlin'. Staring at my sandals, that's a paddlin'. Paddlin' the school canoe, ooh, you'd better believe that's a paddlin'."
+26134,124,200,916000,Professor Jonathan Frink,ANOTHER CLASSROOM,"All right... so the compression and expansion of the longitudinal waves cause the erratic oscillation, you can see it there, of the neighboring particles... Yes, what is it? What? What is it?"
+26135,124,201,928000,Tiny Student,ANOTHER CLASSROOM,Can I play with it?
+26137,124,202,931000,Professor Jonathan Frink,ANOTHER CLASSROOM,"No, you can't play with it. You won't enjoy it on as many levels as I do. The colors children."
+26139,124,204,938000,Moe Szyslak,Bart's Classroom,"Okay, when I call your name, ah, you say present, or here. No, say present. Anita Bath?"
+26140,124,205,945000,Moe Szyslak,Bart's Classroom,"All right, settle down. Anita Bath here! All right, fine, fine. Ah, Maya Buttreeks."
+26141,124,206,955000,Moe Szyslak,Bart's Classroom,"Hey, hey, what are you laughin' at? What? Oh, oh, I get it. I get it. It's my big ears, isn't it, kids? Isn't it? Well children, I can't help that!"
+26142,124,207,979000,Milhouse Van Houten,Bart's Classroom,"Wow Bart, I'm impressed the way you knocked off all those substitutes."
+26143,124,208,984000,Bart Simpson,Bart's Classroom,In my weaker moments I almost pity them. Then I just remind myself they're trying to teach.
+26144,124,209,991000,Seymour Skinner,Bart's Classroom,"Well children, I don't know what you did to all those substitutes, but it's going to stop now. Leopold?"
+26145,124,210,997000,Leopold,Bart's Classroom,"All right, you listen up you little freaks. The fun stops here. You're gonna shut your stinkin' traps and behave, dammit. This is one substitute you're not gonna screw with...Marge Simpson."
+26146,124,211,1013000,Marge Simpson,Bart's Classroom,"Hello class. Hi Bart. Over here, sweetie. It's me, Mom. Hi. Hey. Hello."
+26147,124,212,1029000,Marge Simpson,Bart's Classroom,"Well, I'm sure some of you already know me. I'm Bart Simpson's mother."
+26149,124,214,1035000,Bart Simpson,Bart's Classroom,Mo-om.
+26150,124,215,1037000,Milhouse Van Houten,Bart's Classroom,"Hey Bart, what about the booby trap!"
+26152,124,217,1045000,Bart Simpson,Bart's Classroom,May I?
+26153,124,218,1046000,Marge Simpson,Bart's Classroom,Thank you.
+26154,124,219,1047000,All Students,Bart's Classroom,Mama's boy!/ Who's the new teacher's pet?/ Goody-goody.
+26155,124,220,1051000,Milhouse Van Houten,Bart's Classroom,I meant the other booby trap.
+26156,124,221,1056000,Marge Simpson,Bart's Classroom,Ohh...kids have been doing that one since my day.
+26158,124,223,1062000,Homer Simpson,Simpson Dining Room,"So, how was everybody's day at school?"
+26159,124,224,1065000,Bart Simpson,Simpson Dining Room,Horrifying.
+26160,124,225,1065000,Lisa Simpson,Simpson Dining Room,Pointless.
+26161,124,226,1066000,Marge Simpson,Simpson Dining Room,Exhausting. It took the children forty minutes to locate Canada on the map.
+26162,124,227,1071000,Homer Simpson,Simpson Dining Room,"Marge, anyone can miss Canada... all tucked away down there."
+26164,124,228,1074000,Lisa Simpson,Simpson Dining Room,"Well, my teacher's a nightmare. Three kids got sick from inhaling his ointment fumes, he confiscated everything made of tin, and then he sent us home early because he got his beard caught in the pencil sharpener."
+26167,124,231,1086000,Grampa Simpson,Lisa's Classroom,"Oh, oh, okay... Hmmm. Um here."
+26169,124,233,1093000,Grampa Simpson,Lisa's Classroom,"Uh. Oh. Okay... Ah let's see. Um, what if I did this?"
+26171,124,235,1100000,Grampa Simpson,Lisa's Classroom,You're on your own.
+26173,124,237,1104000,Lisa Simpson,Lisa's Classroom,There's no way I'll get into an Ivy League school now. At this rate I probably won't even get into Vassar.
+26174,124,238,1110000,Homer Simpson,Lisa's Classroom,"Well, I've had just about enough of your Vassar bashing young lady."
+26175,124,239,1114000,Bart Simpson,Lisa's Classroom,"Look Mom, it feels really weird having you on my turf. How would you feel if I started moppin' the floor?"
+26176,124,240,1120000,Marge Simpson,Lisa's Classroom,I'd be thrilled. You can start right now.
+26178,124,242,1122000,Marge Simpson,Lisa's Classroom,And I'm gonna keep teaching your class. Like it or lump it.
+26179,124,243,1125000,Bart Simpson,Lisa's Classroom,"Well, then. I guess I'll just have to get into the crawl space again."
+26180,124,244,1131000,Marge Simpson,Lisa's Classroom,I hate it when he gets in there.
+26182,124,246,1141000,Bart Simpson,PLAYGROUND,Psst. Over here.
+26183,124,247,1145000,Bart Simpson,PLAYGROUND,"Mom, I need a dollar. Ever since you started teaching here, kids have been taking my lunch money. And I need that money for candy."
+26184,124,248,1152000,Marge Simpson,PLAYGROUND,"Ah, here you go, precious. Now go off with your friends."
+26185,124,249,1157000,DOLPH,PLAYGROUND,"""Here ya go, precious."""
+26186,124,250,1163000,Bart Simpson,PLAYGROUND,Why isn't my mom stopping this?
+26187,124,251,1165000,DOLPH,PLAYGROUND,We've created a diversion.
+26188,124,252,1169000,Marge Simpson,PLAYGROUND,"That's a very nice jig, Kearney. Now, isn't dancing much more fun than bullying?"
+26189,124,253,1173000,Kearney Zzyzwicz,PLAYGROUND,Yeah.
+26190,124,254,1177000,Bart Simpson,PLAYGROUND,"That's it. I can't take this anymore, Milhouse. I've gotta get the real teachers back."
+26191,124,255,1182000,Milhouse Van Houten,PLAYGROUND,"Bart, you'll never get Krabappel and Skinner together again. They're like two positively charged ions."
+26193,124,256,1188000,Bart Simpson,PLAYGROUND,"Zuh? Wait, that's it! With your book smarts and my ability to exploit people with book smarts, we can figure out a clever plan to get them back together."
+26195,124,258,1199000,Edna Krabappel-Flanders,Hallway,"A surprise party? For me? In Principal Skinner's office? Well I don't know, but all right..."
+26196,124,259,1205000,Seymour Skinner,Hallway,"Me? Go to my office? It's highly irregular, but all right..."
+26198,124,261,1210000,Bart Simpson,Hallway Outside Skinner's Office,...And you're not coming out until you reach an agreement.
+26199,124,262,1214000,Seymour Skinner,Hallway Outside Skinner's Office,"Let us out, Bart! / This is not funny, come on! / Bart, let us out right now!"
+26200,124,263,1219000,Bart Simpson,Hallway Outside Skinner's Office,"Don't worry, they'll start negotiating."
+26201,124,264,1223000,Edna Krabappel-Flanders,Hallway Outside Skinner's Office,Let us out! Let us out!
+26202,124,265,1225000,Seymour Skinner,Hallway Outside Skinner's Office,"For the love of God, let us out!"
+26203,124,266,1229000,Edna Krabappel-Flanders,Hallway Outside Skinner's Office,Let us out-out-out.
+26204,124,267,1231000,Seymour Skinner,Hallway Outside Skinner's Office,Come on! Or you are sooo sorry.
+26205,124,268,1240000,Seymour Skinner,Hallway Outside Skinner's Office,"Come on! Or you are going to be very, very sorry."
+26207,124,270,1243000,Edna Krabappel-Flanders,Office,"Well Seymour, I guess we could start talking."
+26208,124,271,1248000,Seymour Skinner,Office,What's the point? There's no more money. Unless you've got some magic new source of revenue.
+26209,124,272,1253000,Edna Krabappel-Flanders,Office,"Well, we've got to figure something out. They've got us locked in here like prisoners."
+26210,124,273,1257000,Seymour Skinner,Office,Prisoners in our own school. Hey...
+26211,124,274,1265000,Seymour Skinner,Office,This was a great way to make extra money. Renting out our cloakrooms to the overcrowded prison system.
+26213,124,276,1271000,Snake Jailbird,Springfield Elementary School Prison,"Yo, I used to sit right over there."
+26215,124,278,1277000,Edna Krabappel-Flanders,Springfield Elementary School Prison,"It's all right, children. Just ignore the murderer."
+26216,124,279,1280000,Seymour Skinner,Springfield Elementary School Prison,And as a bonus some of our more troublesome students might be scared straight.
+26217,124,280,1286000,Snake Jailbird,Springfield Elementary School Prison,"Psst, kid. Help me break out of here, I'll totally make it worth your while."
+26218,124,281,1293000,Bart Simpson,Springfield Elementary School Prison,I'm listening...

@@ -1,0 +1,235 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+15383,85,1,5000,Guards,Burns Manor,O-wee-o. We-Oooo. O-wee-o. We-Oooo.
+15384,85,2,51000,Waylon Smithers,Burns Manor,Shhh.
+15385,85,3,51000,Guards,Burns Manor,O-wee-o. We-Oooo. O-wee-o. We-Oooo.
+15387,85,5,62000,7-YEAR OLD BURNS,Burns Manor,Tra-la-la-la-la-la! Tra-la-la-la-la. I am the happiest boy there is! Aren't I Bobo?
+15388,85,6,74000,Burns' Mother,Burns Manor,"Happy! Come here, Happy!"
+15389,85,7,74000,7-YEAR OLD BURNS,Burns Manor,"Yes, Momsie?"
+15390,85,8,79000,Burns's Father,Burns Manor,"Happy, would you like to continue living with us, your loving natural parents? Or would you rather live with this twisted loveless billionaire?"
+15391,85,9,89000,7-YEAR OLD BURNS,Burns Manor,Let's roll.
+15392,85,10,92000,Burns's Father,Burns Manor,Wait! You forgot your bear! A symbol of your lost youth and innocence!
+15393,85,11,97000,Burns's Father,Burns Manor,Oh well. At least we still have his little brother George.
+15395,85,12,101000,George Burns,Burns Manor,"Ba-ba-ba-ba. Oh, the sun shines bright on my old Kentucky home. Ba-ba-ba-ba trust me, it'll be funny when I'm an old man."
+15396,85,13,115000,C. Montgomery Burns,Burns Manor,I want my teddy!
+15397,85,14,123000,C. Montgomery Burns,Burns Manor,"Bobo! Bo-Bo! Oh, it's you. The bedpan's under my pillow."
+15398,85,15,131000,Waylon Smithers,Burns Manor,"Who's Bobo, sir?"
+15399,85,16,135000,C. Montgomery Burns,Burns Manor,Bobo? I meant Lobo. Sheriff Lobo. They never should have canceled that show.
+15400,85,17,143000,Waylon Smithers,Burns Manor,"I see. On another topic, the preparations for your birthday have begun."
+15401,85,18,146000,C. Montgomery Burns,Burns Manor,I won't get what I really want
+15402,85,19,146000,Waylon Smithers,Burns Manor,No one does.
+15403,85,20,151000,C. Montgomery Burns,Burns Manor,"Happy Birthday, Mr. Smithers."
+15405,85,22,158000,Homer Simpson,Simpson Home,Lobo! Lobo! Bring back Sheriff Lobo! Lobo! Lobo!
+15407,85,24,163000,Marge Simpson,Simpson Home,What? Homie!
+15408,85,25,163000,Homer Simpson,Simpson Home,Oh no! Burns' Birthday!
+15409,85,26,170000,Marge Simpson,Simpson Home,What's wrong?
+15410,85,27,170000,Homer Simpson,Simpson Home,Every time Mr. Burns has a birthday all his employees have to help out at the party. And I always get some terrible job.
+15411,85,28,179000,C. Montgomery Burns,Simpson Home,Where is that dreaded piñata?
+15412,85,29,181000,Homer Simpson,Simpson Home,Ow. Ow. Ow. Missed me. Ow!
+15415,85,32,188000,Homer Simpson,Springfield Nuclear Power Plant,Not funny. And the one in my pants really hurt.
+15417,85,34,199000,C. Montgomery Burns,PLANT,"That man who's getting all those laughs, Smithers. Who is he?"
+15418,85,35,202000,Waylon Smithers,PLANT,"Homer Simpson, sir. One of the carbon blobs from Sector 7G. But I don't think..."
+15419,85,36,205000,C. Montgomery Burns,PLANT,I want this Simpson fellow to perform comedy at my party. I must harness his fractured take on modern life.
+15420,85,37,213000,Waylon Smithers,PLANT,"Fine, sir. I'll get him started on some snappy Sinbad-esq material."
+15422,85,39,217000,Homer Simpson,Simpson Home,Hee hee! I'm so funny! This is gonna be great.
+15423,85,40,217000,Marge Simpson,Simpson Home,What are you doin'?
+15424,85,41,223000,Homer Simpson,Simpson Home,I'm writing a delicious send up of Mr. Burns for his birthday party. Is poo poo one word or two?
+15427,85,43,228000,Marge Simpson,Simpson Home,I don't think it's a good idea to humiliate your boss on his birthday.
+15428,85,44,235000,Lisa Simpson,Simpson Home,"Actually, Mom, a tweaking of Mr. Burns' foibles if done with the greatest of care could earn Dad a special place in the old man's heart."
+15429,85,45,242000,Homer Simpson,Simpson Home,"Well, I also do a delightful impression of him. I paint a frownie face on my butt and pull down my pants."
+15433,85,49,252000,Homer Simpson,Simpson Home,Now I'm not saying Mr. Burns is incontinent...
+15434,85,50,263000,Bart Simpson,Simpson Home,Incontinent... Too rich.
+15435,85,51,263000,Lisa Simpson,Simpson Home,Does either of you know what incontinent means?
+15436,85,52,269000,Homer Simpson,Simpson Home,"Lisa, don't spoil our fun!"
+15437,85,53,269000,Marge Simpson,Simpson Home,Come on dear. It's time to go.
+15438,85,54,272000,Homer Simpson,Simpson Home,"Okay, stupid!"
+15439,85,55,274000,Marge Simpson,Simpson Home,"Homer! You've got to stop insulting everyone, especially your boss."
+15440,85,56,278000,Homer Simpson,Simpson Home,"Marge, the comedy roast is an American tradition. It's what gives us the freedom to criticize our social betters. Hey Flanders, you smell like Manure!"
+15441,85,57,288000,Ned Flanders,Simpson Home,"Uh-oh. Better cancel that dinner party tonight. Thanks for the nose-news, neighbor."
+15443,85,59,292000,Goon,Springfield Nuclear Power Plant,"Hey, no one-termers."
+15444,85,60,303000,Jimmy Carter,Springfield Nuclear Power Plant,"You too, huh? Hey, I know a good yogurt place."
+15445,85,61,305000,George H.W. Bush,Springfield Nuclear Power Plant,"Get away from me, loser."
+15446,85,62,307000,Waylon Smithers,Springfield Nuclear Power Plant,Ladies and gentlemen: I give you Montgomery Burns: the life.
+15447,85,63,311000,C. Montgomery Burns,Springfield Nuclear Power Plant,Bobo!
+15448,85,64,326000,Waylon Smithers,Springfield Nuclear Power Plant,"Here are several fine young men, who I'm sure are gonna go far. Ladies and Gentlemen, the Ramones."
+15449,85,65,331000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ahh, these minstrels will soothe my jangled nerves."
+15450,85,66,338000,RAMONE #1,Springfield Nuclear Power Plant,I'd just like to say this gig sucks.
+15451,85,67,338000,RAMONE #2,Springfield Nuclear Power Plant,"Hey, up Yours, Springfield."
+15452,85,68,342000,RAMONE #3,Springfield Nuclear Power Plant,One-two-three-four!
+15453,85,69,358000,RAMONE #4,Springfield Nuclear Power Plant,"Go to hell, you old bastard."
+15454,85,70,361000,Drummer,Springfield Nuclear Power Plant,"Hey, I think they liked us."
+15455,85,71,363000,C. Montgomery Burns,Springfield Nuclear Power Plant,Have the Rolling Stones killed.
+15456,85,72,365000,Waylon Smithers,Springfield Nuclear Power Plant,"Sir, those aren't..."
+15243,85,73,365000,C. Montgomery Burns,Springfield Nuclear Power Plant,Do as I say!
+15458,85,75,368000,C. Montgomery Burns,Ballroom,This stinks... piffle... dust buster? Eych.
+15459,85,76,374000,Waylon Smithers,Ballroom,"Sir, I've arranged for the people of Australia to join hands tonight and spell out your name with candles. There's a satellite hookup on that monitor if you'll just turn your head slightly."
+15460,85,77,384000,C. Montgomery Burns,Ballroom,"Eh, no time. Next!"
+15462,85,79,388000,Waylon Smithers,NUCLEAR POWER PLANT BALLROOM,"I have some sad news to report. A small puppy, not unlike Lassie was just run over in the parking lot."
+15463,85,80,394000,Waylon Smithers,NUCLEAR POWER PLANT BALLROOM,And now it's time for the comedy stylings of Homer Simpson!
+15464,85,81,400000,Homer Simpson,NUCLEAR POWER PLANT BALLROOM,Are you ready to laugh?
+15465,85,82,400000,Man,NUCLEAR POWER PLANT BALLROOM,Oh... That poor dog.
+15466,85,83,404000,Homer Simpson,NUCLEAR POWER PLANT BALLROOM,I said are you ready to laugh?!
+15467,85,84,404000,Woman,NUCLEAR POWER PLANT BALLROOM,"Quiet, you awful man!"
+15468,85,85,411000,Homer Simpson,NUCLEAR POWER PLANT BALLROOM,"You know, Mr. Burns is so cheap..."
+15469,85,86,411000,C. Montgomery Burns,NUCLEAR POWER PLANT BALLROOM,What!
+15470,85,87,415000,Homer Simpson,NUCLEAR POWER PLANT BALLROOM,I mean... you know... Mr. Burns... is so... old...
+15471,85,88,419000,C. Montgomery Burns,NUCLEAR POWER PLANT BALLROOM,How dare you!
+15472,85,89,419000,Homer Simpson,NUCLEAR POWER PLANT BALLROOM,"Oooh, tough crowd. Better bring out the big guns. Here's an impression of Mr. Burns that you might find... a little cheeky."
+15473,85,90,430000,Homer Simpson,NUCLEAR POWER PLANT BALLROOM,"I'm Mr. Burns. Blah, blah, blah. Do this. Do that. Blah, blah, blah."
+15474,85,91,437000,Homer Simpson,NUCLEAR POWER PLANT BALLROOM,"I think I'm so big. Blah, blah, blah."
+15475,85,92,442000,C. Montgomery Burns,NUCLEAR POWER PLANT BALLROOM,Destroy him.
+15476,85,93,442000,Homer Simpson,NUCLEAR POWER PLANT BALLROOM,"Blah, bla..."
+15477,85,94,442000,Homer Simpson,NUCLEAR POWER PLANT BALLROOM,Unghhhh!
+15478,85,95,446000,C. Montgomery Burns,NUCLEAR POWER PLANT BALLROOM,This party is over.
+15480,85,97,450000,Homer Simpson,Simpson Home,"Oh, where did I lose 'em? I'll never wiggle my bare butt in public again."
+15481,85,98,461000,Lisa Simpson,Simpson Home,I'd like to believe that this time. I really would.
+15482,85,99,465000,Marge Simpson,Simpson Home,"Bart, run down to the store and get a big bag of ice for your father."
+15483,85,100,467000,Bart Simpson,Simpson Home,"Yes'm. Dad, I know you're discouraged, but please don't deny the world your fat can."
+15484,85,101,467000,Homer Simpson,Simpson Home,"Don't worry, boy. He'll be ready for your Aunt Selma's birthday."
+15485,85,102,477000,Lisa Simpson,Simpson Home,I knew it.
+15488,85,104,477000,Waylon Smithers,Burns's Warehouse,"Look at all the wonderful things you have, Mr. Burns. King Arthur's Excalibur. The only existing nude photo of Mark Twain, and that rare first draft of the constitution with the word ""suckers"" in it."
+15489,85,105,488000,C. Montgomery Burns,Burns's Warehouse,"Yes, yes, yes. So what?"
+15490,85,106,488000,Waylon Smithers,Burns's Warehouse,"You want your bear, Bobo, don't you?"
+15491,85,107,492000,C. Montgomery Burns,Burns's Warehouse,"Liar! I'll give you the thrashing of a lifetime! Resistance is futile. Oh God, how I only want my bear. But he's gone. Gone forever. I'd give anything to know what happened to him."
+15492,85,108,523000,Mechanic,Burns's Warehouse,"Put some grease in your garter, Lindy! You're late."
+15493,85,109,531000,Hitler,Burns's Warehouse,This is all your fault!
+15494,85,110,531000,Explorer,Burns's Warehouse,You've got to start selling this for more than a dollar a bag. We lost four more men on this expedition.
+15495,85,111,558000,Apu Nahasapeemapetilon,Burns's Warehouse,"If you can think of a better way to get ice, I'd like to hear it."
+15497,85,113,566000,Bart Simpson,Kwik-E-Mart,"Hey, Apu, this bag of ice has a head in it."
+15498,85,114,568000,Apu Nahasapeemapetilon,Kwik-E-Mart,Oooh! A head bag! Those are chock full of... heady goodness.
+15500,85,116,577000,Bart Simpson,Simpson Home,"Hey, it's a Teddy bear!"
+15501,85,117,577000,Bart Simpson,Simpson Home,"Ew! Gross! It's probably diseased or something. Here, Maggie."
+15503,85,119,586000,Waylon Smithers,Burns Manor,"Here's something that should cheer you up, sir."
+15504,85,120,601000,Waylon Smithers,Burns Manor,It's me sir. Bobo. Hug me. Squeeze me. Tug at my fur.
+15505,85,121,605000,C. Montgomery Burns,Burns Manor,Enough. Stop this grotesque charade. Now find my Teddy.
+15506,85,122,609000,C. Montgomery Burns,Burns Manor,"Oh, and uh... leave the costume."
+15509,85,125,619000,Kent Brockman,Simpson Home,"The Burns Bear, perhaps the most valuable widdle bear in the world, could be anywhere. It could be in your house. You could be looking at it right now."
+15510,85,126,629000,Kent Brockman,Simpson Home,"It could be right in front of your face as I'm saying this, waggling back and forth, perhaps being held up by a loved one."
+15511,85,127,629000,Homer Simpson,Simpson Home,"Maggie, I'm trying to watch TV. Put that moldy old bear down."
+15512,85,128,640000,Homer Simpson,Simpson Home,Moldy!?! Old!?!... I'm gonna get something to eat!
+15516,85,130,645000,Professor Jonathan Frink,Burns Manor,"Well, it's not your original bear, of course. But it Is programmed to be just as cuddly. Oh dog gone it..."
+15517,85,131,649000,Professor Jonathan Frink,Burns Manor,It's supposed to be doing a little dance.
+15518,85,132,656000,C. Montgomery Burns,Burns Manor,Get this bear off...
+15519,85,133,659000,Professor Jonathan Frink,Burns Manor,I'm trying to turn it off.
+15520,85,134,661000,Bear,Burns Manor,"No, bear want to live."
+15523,85,137,686000,Homer Simpson,Simpson Home,How long have we had these fish? Wait! The bear! Burns' bear!
+15524,85,138,696000,Lisa Simpson,Simpson Home,"""Bobo"". It's Mr. Burns' bear all right."
+15525,85,139,700000,Homer Simpson,Simpson Home,"Well, Burns isn't gettin' this back cheap, I'll tell you that. He's going to have to give me... my own recording studio."
+15526,85,140,708000,Homer Simpson,Simpson Home,"Two all-beef patties, special sauce lettuce cheese pickles onions on a sesame seed bun..."
+15527,85,141,713000,Voice,Simpson Home,"Homer, you're drooling on the mic again."
+15528,85,142,717000,Lisa Simpson,Simpson Home,I think we should just give him the bear that he cherishes so much.
+15529,85,143,722000,Marge Simpson,Simpson Home,"Hmm, better sew that eye back on."
+15530,85,144,729000,Bart Simpson,Simpson Home,No. Let's send Burns the eye in the mail. He'll pay more money if he thinks the bear is in danger.
+15531,85,145,732000,Homer Simpson,Simpson Home,Yes. We'll send the eye.
+15532,85,146,736000,Marge Simpson,Simpson Home,I'm sure he'll offer us a fair reward. And then we'll make him double it.
+15533,85,147,743000,Marge Simpson,Simpson Home,Well why can't I be greedy once in awhile?
+15535,85,149,745000,C. Montgomery Burns,Burns Manor,Bobo! My beautiful Bobo! I promise I'll never leave you behind again.
+15536,85,150,750000,C. Montgomery Burns,Burns Manor,"Ah, yes. Naturally I can't pay you much of a reward because... I'm strapped for cash."
+15537,85,151,760000,C. Montgomery Burns,Burns Manor,"As you can see, this old place is falling apart. But I'm sure we can come to an understanding."
+15538,85,152,768000,Homer Simpson,Burns Manor,Yes sir. Reject the first offer. Reject the first offer.
+15539,85,153,774000,C. Montgomery Burns,Burns Manor,May I offer you a drink?
+15540,85,154,774000,Homer Simpson,Burns Manor,"Sorry, Burns. No deal."
+15541,85,155,774000,C. Montgomery Burns,Burns Manor,"Don't worry, Smithers, he's playing hard ball now. But it won't take him long to crack."
+15543,85,157,786000,Homer Simpson,Simpson Home,I gotta call Burns! I gotta call Burns. Maybe I can still get that drink!
+15487,85,158,794000,Bart Simpson,Simpson Home,"Dad, the longer he has to wait, the more he'll pay."
+15514,85,159,796000,Homer Simpson,Simpson Home,Right. That makes sense.
+15515,85,160,799000,Homer Simpson,Simpson Home,No! Lemme go!
+15545,85,161,799000,Homer Simpson,Simpson Home,I knew you'd come crawling back.
+15546,85,162,808000,C. Montgomery Burns,Simpson Home,How much do you want?
+15547,85,163,808000,Homer Simpson,Simpson Home,"A million dollars and three Hawaiian Islands. Good ones, not the leper ones."
+15548,85,164,812000,C. Montgomery Burns,Simpson Home,"Done. Now, give me that bear."
+15549,85,165,815000,Homer Simpson,Simpson Home,Woo hoo! I'm rich! Rich I tells ya. Here you go.
+15550,85,166,819000,Homer Simpson,Simpson Home,It seems to be stuck. Bad baby! Bad Maggie!
+15552,85,168,830000,C. Montgomery Burns,Simpson Home,Give me the bear!
+15553,85,169,835000,Waylon Smithers,Simpson Home,The bear! The bear!
+15556,85,172,838000,Homer Simpson,Simpson Home,"Here you go, Maggie."
+15557,85,173,846000,Homer Simpson,Simpson Home,"The deal's off, Mr. Burns. The bear stays here."
+15558,85,174,850000,C. Montgomery Burns,Simpson Home,"You've made a mistake, Simpson."
+15559,85,175,850000,Homer Simpson,Simpson Home,"Ah, big deal. Who needs his money? We're gettin' by okay."
+15560,85,176,857000,Grampa Simpson,Simpson Home,"Son! You've gotta help me! I hit three people on the way over here, and I don't have any insurance. So, hows 'bout you?"
+15561,85,177,873000,C. Montgomery Burns,Simpson Home,"Excellent shot, Smithers. I'll be squeezing my Bobo in no time."
+15562,85,178,879000,Ned Flanders,Simpson Home,Howdy gents. What can I diddily do you for?
+15564,85,180,879000,C. Montgomery Burns,Simpson Home,"Remember, Smithers. In and out in eighteen seconds."
+15565,85,181,896000,Marge Simpson,Simpson Home,"More cocoa, Mr. Burns?"
+15566,85,182,896000,C. Montgomery Burns,Simpson Home,Yes.
+15567,85,183,901000,Homer Simpson,Simpson Home,Hmmm. Sixty-four slices of American cheese.
+15568,85,184,917000,Homer Simpson,Simpson Home,Sixty four... sixty three...
+15569,85,185,931000,Marge Simpson,Simpson Home,Have you been up all night eating cheese?
+15570,85,186,931000,Homer Simpson,Simpson Home,I think I'm blind.
+15571,85,187,938000,C. Montgomery Burns,Simpson Home,Good day to you.
+15573,85,189,938000,Workman,Springfield Nuclear Power Plant,Excuse me wanted to see the guy who valued the happiness of his children over money.
+15574,85,190,946000,Homer Simpson,Springfield Nuclear Power Plant,Right here.
+15575,85,191,946000,Workman #2,Springfield Nuclear Power Plant,"Aw, you said his head was the size of a baseball."
+15576,85,192,949000,Homer Simpson,Springfield Nuclear Power Plant,My life can't get any worse.
+15577,85,193,952000,Waylon Smithers,Springfield Nuclear Power Plant,"Homer Simpson, report for much worse duties."
+15578,85,194,955000,Homer Simpson,Springfield Nuclear Power Plant,After lunch can I whip you?
+15544,85,195,959000,Hooded Man,Springfield Nuclear Power Plant,Nope.
+15060,85,196,959000,Homer Simpson,Springfield Nuclear Power Plant,"Aw, no fair."
+15394,85,197,961000,Charlie,Springfield Nuclear Power Plant,Hm... I wonder what makes it turn?
+15426,85,198,963000,Carl Carlson,Springfield Nuclear Power Plant,Who cares?
+15579,85,200,967000,Homer Simpson,Simpson Home,"Maggie, I know you like the bear... but wouldn't you be just as happy playing with... this box!"
+15580,85,201,974000,Homer Simpson,Simpson Home,See Maggie? See the fun box! Do do do do doo do...
+15581,85,202,977000,Homer Simpson,Simpson Home,Do do do do doo...
+15582,85,203,977000,Homer Simpson,Simpson Home,No! My box! My box!
+15584,85,205,977000,Marge Simpson,Simpson Home,I think we need a new hairdryer.
+15585,85,206,989000,Homer Simpson,Simpson Home,"Marge, you must hate me for not taking Mr. Burns' money."
+15586,85,207,992000,Marge Simpson,Simpson Home,"I don't hate you, I'm proud of you. You came through for your daughter when she needed you the most."
+15587,85,208,998000,Homer Simpson,Simpson Home,"Aw thanks, Marge. But it'll take a lot more than that to comfort this tortured soul."
+15588,85,209,1004000,Homer Simpson,Simpson Home,Box...
+15589,85,210,1004000,Marge Simpson,Simpson Home,Gimme that.
+15591,85,212,1004000,Dinosaur,Simpson Home,TWO PLUS TWO IS FOUR / TWO PLUS TWO IS FOUR.... / TWO PLUS TWO IS FOUR....
+15592,85,213,1014000,Homer Simpson,Simpson Home,I can see why this is so popular.
+15593,85,214,1023000,C. Montgomery Burns,Simpson Home,"Give me my bear, Simpson."
+15595,85,216,1023000,Host,Simpson Home,It's the Soulll Mass Transit System.
+15596,85,217,1031000,C. Montgomery Burns,Simpson Home,Give it to me.
+15597,85,218,1033000,Bumblebee Man,Simpson Home,Es yo-yo is grande.
+15598,85,219,1037000,Bumblebee Man,Simpson Home,Aye Chihuahua.
+15599,85,220,1039000,C. Montgomery Burns,Simpson Home,"As you can see, Simpson, I've taken over all seventy-eight channels. And you won't see any of your favorite shows again until you give in."
+15600,85,221,1046000,Otto Mann,Simpson Home,"Whoa, that bites."
+15601,85,222,1046000,Patty Bouvier,Simpson Home,Holy crap.
+15603,85,224,1049000,C. Montgomery Burns,Simpson Home,What's that you say? You can live without television as long as you have beer?
+15604,85,225,1054000,Homer Simpson,Simpson Home,That's right.
+15605,85,226,1054000,C. Montgomery Burns,Simpson Home,"Wrong. All beer trucks heading towards Springfield have been diverted. This town will be as dry as a bone. And if the rest of you beer swilling tube jockeys out there have a problem with this, talk to Homer Simpson."
+15606,85,227,1070000,Barney Gumble,Simpson Home,"Homer, give him what he wants."
+15607,85,228,1070000,Homer Simpson,Simpson Home,"Oh, Barney, leave me alone."
+15608,85,229,1070000,Barney Gumble,Simpson Home,Oops!
+15609,85,230,1082000,Barney Gumble,Simpson Home,Uh-oh.
+15612,85,232,1087000,Nelson Muntz,Springfield Elementary School Yard,My old man can't get a beer because his old man won't give a bear to another old man. Let's get him.
+15613,85,233,1093000,Jimbo Jones,Springfield Elementary School Yard,"Wait, why are we gettin' him?"
+15614,85,234,1096000,Martin Prince,Springfield Elementary School Yard,"Look, fellas. The first snapdragon of the season."
+15615,85,235,1096000,Nelson Muntz,Springfield Elementary School Yard,Never mind. Let's just get him.
+15616,85,236,1101000,Jimbo Jones,Springfield Elementary School Yard,Yeah!
+15618,85,238,1105000,C. Montgomery Burns,Simpson Home,"Smithers, I'm home!"
+15619,85,239,1105000,Waylon Smithers,Simpson Home,"What, already?"
+15620,85,240,1105000,C. Montgomery Burns,Simpson Home,Yes.
+15621,85,241,1105000,Lisa Simpson,Simpson Home,Is it my imagination or is TV getting worse?
+15622,85,242,1118000,Homer Simpson,Simpson Home,"Eh, it's about the same. Uh-oh! Look out, Smithers!"
+15623,85,243,1121000,Homer Simpson,Simpson Home,I love this show
+15624,85,244,1125000,Homer Simpson,Simpson Home,"Well well, look whose come to apologize."
+15625,85,245,1132000,Moe Szyslak,Simpson Home,C'mon. Let's go in there and get the bear!
+15626,85,246,1132000,Moe Szyslak,Simpson Home,I got it!
+15628,85,248,1132000,Moe Szyslak,Simpson Home,"Aw jeez, will you look at that?"
+15629,85,249,1157000,Jasper Beardly,Simpson Home,What have we become?
+15630,85,250,1157000,Dr. Julius Hibbert,Simpson Home,We've given the word mob a bad name!
+15631,85,251,1162000,Mob,Simpson Home,"She's gonna break a lot of hearts, Homer. I love what you've done with the house, Marge, etc..."
+15632,85,252,1171000,Moe Szyslak,Simpson Home,What should we do now?
+15633,85,253,1171000,Seymour Skinner,Simpson Home,"Hey, everybody. Let's go sing at the hospital! FOR WE'VE GOT..."
+15634,85,254,1176000,Mob,Simpson Home,HI-GH HOPES / WE'VE GOT HI-GH HOPES.
+15635,85,255,1182000,C. Montgomery Burns,Simpson Home,"Simpson, look what you've reduced me to."
+15636,85,256,1182000,Waylon Smithers,Simpson Home,Please... please.
+15637,85,257,1190000,Homer Simpson,Simpson Home,"But Mr. Burns, it's not my bear. It's Maggie's."
+15639,85,259,1203000,C. Montgomery Burns,Simpson Home,"So, good sand today, hm."
+15640,85,260,1207000,C. Montgomery Burns,Simpson Home,"Well, I don't usually... well, just this once."
+15641,85,261,1210000,C. Montgomery Burns,Simpson Home,Ugh.
+15642,85,262,1213000,C. Montgomery Burns,Simpson Home,"Damn you, paparazzo!"
+15643,85,263,1216000,C. Montgomery Burns,Simpson Home,"Well, Maggie, I've given this a lot of thought. I'm sure we can come to some sort of agreement."
+15644,85,264,1223000,C. Montgomery Burns,Simpson Home,Beaten by an infant. What could be more humiliating?
+15646,85,265,1234000,C. Montgomery Burns,Simpson Home,"Okay, Maggie, you win. But I want you to do something for me. Hang on to that bear. Don't make the same mistake I made."
+15647,85,266,1241000,C. Montgomery Burns,Simpson Home,"For me? Bobo? Smithers, I'm so happy. Something amazing has happened. I'm actually happy. Take a note. From now on, I'm only going to be good and kind to everyone."
+15648,85,267,1266000,Waylon Smithers,Simpson Home,"Sorry, sir, I don't have a pencil."
+15649,85,268,1269000,C. Montgomery Burns,Simpson Home,"Eh, don't worry, I'm sure I'll remember it."
+15650,85,269,1273000,Homer Simpson,Simpson Home,"Well, we didn't get any money, but Mr. Burns got what he wanted. Marge, I'm confused. Is this a happy ending or a sad ending?"
+15651,85,270,1282000,Marge Simpson,Simpson Home,"It's an ending, that's enough."
+15653,85,272,1285000,Waylon Smithers,Burns's Bedroom,There you go.
+15654,85,273,1288000,C. Montgomery Burns,Burns's Bedroom,"Ah, Bobo reunited at last. But I can't help but wonder what the future holds for you. Ah, yes. Wonder..."
+15655,85,274,1307000,C. Montgomery Burns,Burns's Bedroom,"Bobo I know I say this every century, but I'll never leave you behind again."
+15656,85,275,1317000,Waylon Smithers,Burns's Bedroom,"Wait for me, sir."

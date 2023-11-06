@@ -1,0 +1,267 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+19079,98,1,11000,Marge Simpson,Simpson Home,Sandwich.
+19080,98,2,11000,Marge Simpson,Simpson Home,Underpants.
+19082,98,4,53000,Marge Simpson,Simpson Kitchen,Bowling ball... more underpants...
+19083,98,5,61000,Lisa Simpson,Simpson Kitchen,"Hi, Mom."
+19084,98,6,61000,Homer Simpson,Simpson Kitchen,"Hi, Mom."
+19085,98,7,63000,Bart Simpson,Simpson Kitchen,After breakfast me and Milhouse are goin' down to the ravine. We got a tip from a six year old that there's a dead Martian down there.
+19086,98,8,72000,Lisa Simpson,Simpson Kitchen,"And I'm going to the park to jam with the Little White Girls Blues Quartet. Wanna come with me, Daddy-o?"
+19089,98,9,75000,Homer Simpson,Simpson Kitchen,"I'd love to honey, but Daddy has to go to a beer drinking contest today."
+19090,98,10,80000,Bart Simpson,Simpson Kitchen,Think you'll win?
+19091,98,11,80000,Homer Simpson,Simpson Kitchen,"Son, when you participate in sporting events, it's not whether you win or lose. It's how drunk you get."
+19092,98,12,87000,Bart Simpson,Simpson Kitchen,"Gotcha. Well, gotta go."
+19093,98,13,87000,Lisa Simpson,Simpson Kitchen,Me too.
+19094,98,14,91000,Bart Simpson,Simpson Kitchen,"Uh, it's hard for us to leave when you're standing there, Mom."
+19095,98,15,94000,Homer Simpson,Simpson Kitchen,"Push her down, son."
+19096,98,16,94000,Marge Simpson,Simpson Kitchen,No one's going anywhere. We're going to clean the whole house from top to bottom.
+19098,98,18,99000,Homer Simpson,Simpson Kitchen,"Oh dear God, no."
+19099,98,19,104000,Marge Simpson,Simpson Kitchen,I think you'll find that escape is impossible. Now each one of you take a floor and get started.
+19100,98,20,114000,Homer Simpson,Simpson Kitchen,I call the basement.
+19101,98,21,114000,Marge Simpson,Simpson Kitchen,Fine.
+19105,98,25,120000,Bart Simpson,Simpson Home,I'm tired. I'm hungry. Can't we just buy a new house?
+19106,98,26,124000,Marge Simpson,Simpson Home,Oh Bart. Cleaning doesn't have to be a chore. Here... work to the music.
+19107,98,27,130000,Ernie Ford,Simpson Home,YOU LOAD SIXTEEN TONS/ WHADDAYA GET/ ANOTHER DAY OLDER AND DEEPER IN DEBT...
+19108,98,28,136000,Bart Simpson,Simpson Home,"Amen, Ernie."
+19109,98,29,136000,Homer Simpson,Simpson Home,All done.
+19110,98,30,136000,Marge Simpson,Simpson Home,You're not done. I want you to throw away these old calendars and TV Guides.
+19111,98,31,153000,Homer Simpson,Simpson Home,"Are you mad, woman? You never know when an old calendar might come in handy. Sure it's not nineteen eighty-five right now, but who knows what tomorrow will bring? And these TV Guides... so many memories."
+19112,98,32,166000,Homer Simpson,Simpson Home,"""Gomer upsets Sergeant Carter."" Ooooh, I'll never forget that episode!"
+19113,98,33,173000,Carter,Simpson Home,Pyle!
+19114,98,34,173000,Gomer,Simpson Home,Shazam!
+19115,98,35,175000,Carter,Simpson Home,Pyle!
+19116,98,36,175000,Gomer,Simpson Home,Shazam!
+19117,98,37,177000,Carter,Simpson Home,Pyle!
+19118,98,38,177000,Gomer,Simpson Home,Shazam!
+19119,98,39,180000,Homer Simpson,Simpson Home,Shazam.
+19120,98,40,183000,Marge Simpson,Simpson Home,Stop remembering TV and get back to work.
+19121,98,41,185000,Homer Simpson,Simpson Home,What's the point of all this cleaning? Are we so vain?
+19122,98,42,198000,Moe Szyslak,Simpson Home,"Hey Clinton, get back to work!"
+19087,98,43,200000,Bill Clinton,Simpson Home,Make me.
+19123,98,44,202000,Lisa Simpson,Simpson Home,They're having a great time and I'm stuck in here.
+19124,98,45,205000,Saxophone,Simpson Home,Wah-wah.
+19125,98,46,209000,Homer Simpson,Simpson Home,Use only in a well ventilated area.
+19126,98,47,209000,Homer Simpson,Simpson Home,"Shove it, buddy."
+19127,98,48,232000,Mr. Clean-style Character,Simpson Home,I - must - destroy - you!
+19129,98,50,240000,Marge Simpson,Simpson Home,"Homer, what's going on down there?"
+19130,98,51,245000,Homer Simpson,Simpson Home,Nothing.
+19131,98,52,245000,Marge Simpson,Simpson Home,Then stop screaming so loud.
+19132,98,53,248000,Homer Simpson,Simpson Home,Okay.
+19134,98,55,248000,Bill,Simpson Home,"And that was ""Take this job and shove it."" Now let's make another one of our lucky phone calls."
+19135,98,56,266000,Marty,Simpson Home,"Okay, just answer the phone with THE SPECIAL PHRASE THAT PAYS and you'll have your choice of ten thousand dollars in cash."
+19136,98,57,266000,Marty,Simpson Home,Or a really stupid prize.
+19137,98,58,276000,Bill,Simpson Home,"Well, let's make that call."
+19138,98,59,279000,Bart Simpson,Simpson Home,KBBL is gonna give me something stupid!
+19139,98,60,282000,Grampa Simpson,Simpson Home,"Bart, I'm having palpitations."
+19140,98,61,284000,Bart Simpson,Simpson Home,"Can't tie up the line, Grampa."
+19141,98,62,288000,Marge Simpson,Simpson Home,There! Isn't that a lot better? Now you can do whatever you want. But don't mess up the house.
+19142,98,63,294000,Lisa Simpson,Simpson Home,We won't.
+19144,98,65,299000,Bill,Simpson Home,And now let's try another lucky phone call.
+19146,98,67,303000,Chief Wiggum,Springfield Police Station,"Help! Help us! They stole our uniforms, guns and tasers!"
+19147,98,68,310000,Snake Jailbird,Springfield Police Station,"Fry, Piggy."
+19149,98,70,310000,Chief Wiggum,Simpson Kitchen,"No! No! No, don't! A little to the left... Ah. That's the stuff."
+19150,98,71,321000,Marty,Simpson Kitchen,"Oh, I'm sorry. The phrase is ""KBBL is gonna give me something stupid."""
+19151,98,72,321000,Goofy Recording,Simpson Kitchen,Pret-ty wee-ird!
+19152,98,73,321000,Bill,Simpson Kitchen,Let's try one more number.
+19154,98,75,321000,Homer Simpson,Simpson Kitchen,Y'ello.
+19155,98,76,321000,Bart Simpson,Simpson Kitchen,KBBL is gonna give me something stupid!
+19156,98,77,333000,Bill,Simpson Kitchen,"Well, hot dog! We have a ""wiener""!"
+19157,98,78,333000,Homer Simpson,Simpson Kitchen,Y'ello?
+19158,98,79,333000,Bart Simpson,Simpson Kitchen,I won! I won!
+19160,98,80,339000,Marty,Simpson Kitchen,"You win your choice of ten thousand dollars or - what's our gag prize this week, Bill? - a full grown African elephant!"
+19161,98,81,344000,Bart Simpson,Simpson Kitchen,"Well, all that money sounds mighty tempting, Marty. But I think I'm gonna have to go with the elephant."
+19162,98,82,349000,Homer Simpson,Simpson Kitchen,He's taking the elephant instead of the money.
+19163,98,83,352000,Bill,Simpson Kitchen,The kid wants the elephant.
+19164,98,84,352000,Marty,Simpson Kitchen,We don't have a damn elephant!
+19165,98,85,355000,Bill,Simpson Kitchen,Don't whisper into the Mic.
+19166,98,86,355000,Marty,Simpson Kitchen,"Kid, the elephant's a gag prize. Nobody takes the gag prize. You want the cash."
+19167,98,87,359000,Bart Simpson,Simpson Kitchen,I want the elephant.
+19168,98,88,363000,Homer Simpson,Simpson Kitchen,"Heh, heh. Stick it to the man. No, wait!"
+19169,98,89,366000,Homer Simpson,Simpson Kitchen,"We'll call you back! Bart! With ten thousand dollars we'd be millionaires. We could buy all kinds of useful things, like... ... love."
+19170,98,90,375000,Marge Simpson,Simpson Kitchen,Or double-ply windows! They look just like regular windows but they'll save us four percent on our heating bill...
+19171,98,91,382000,Marge Simpson,Simpson Kitchen,"Well, they will."
+19172,98,92,384000,Lisa Simpson,Simpson Kitchen,You all seem to be forgetting the most important thing. Which is that it's wrong to imprison an animal.
+19173,98,93,392000,Homer Simpson,Simpson Kitchen,"Lisa, go to your room."
+19176,98,96,392000,Bill,Radio Station,"We appreciate you coming down but, look kid, the thing is, uh we don't have an elephant."
+19177,98,97,397000,Marty,Radio Station,"Come on, kid, just take the money, huh? Otherwise we might get fired. You don't want us to get fired, do you?"
+19178,98,98,405000,Bart Simpson,Radio Station,"Eh, either way."
+19180,98,100,408000,Bill,Radio Station,"We think we know how your mind works, Bart. So how 'bout this; we pay your principal ten thousand dollars to pull down his pants and keep 'em down for the rest of the school year."
+19181,98,101,416000,Seymour Skinner,Radio Station,"I'll do it, Bart."
+19182,98,102,416000,Bart Simpson,Radio Station,Umm... No.
+19183,98,103,422000,Marty,Radio Station,"Okay, okay. What if we use the ten thousand to surgically transform Skinner here into some kind of a lobster-like creature?"
+19184,98,104,429000,Seymour Skinner,Radio Station,Now wait just a minute. That wasn't discussed with me.
+19185,98,105,431000,Bart Simpson,Radio Station,"Uh, gentlemen, I am not leaving without my elephant."
+19186,98,106,437000,Bart Simpson,Radio Station,Hey!
+19187,98,107,437000,Homer Simpson,Radio Station,Wee!
+19159,98,108,439000,Bart Simpson,Radio Station,Where's my elephant?!
+19188,98,109,441000,Bart Simpson,Radio Station,Where's my elephant!
+19189,98,110,444000,Bart Simpson,Radio Station,Where's my elephant!
+19191,98,112,446000,Bart Simpson,Springfield Retirement Castle,Where's my elephant?!
+19192,98,113,448000,Grampa Simpson,Springfield Retirement Castle,"Hey, they're playing the elephant song."
+19193,98,114,448000,Jasper Beardly,Springfield Retirement Castle,I love that. It reminds me of elephants.
+19194,98,115,456000,Kent Brockman,Springfield Retirement Castle,So isn't that what we're all asking in our own lives? Where's my elephant? I know that's what I've been asking.
+19197,98,118,463000,Station Owner,KBBL Studios,"Look, our ratings are down, and the station is being swamped with angry calls and letter bombs."
+19198,98,119,472000,Station Owner,KBBL Studios,And it's all your fault.
+19199,98,120,472000,Marty,KBBL Studios,"Yes it is, Ma'am."
+19200,98,121,475000,Station Owner,KBBL Studios,"This is the DJ3000. It plays CDs automatically, and it has three distinct varieties of inane chatter."
+19201,98,122,482000,Dj3000,KBBL Studios,"Hey, hey, how about that weather out there?... Whoa, that was the caller from hell... Well hot dog! We have a wiener..."
+19202,98,123,489000,Marty,KBBL Studios,"Man, that thing's great."
+19203,98,124,493000,Bill,KBBL Studios,Don't - praise - the - machine.
+19204,98,125,496000,Station Owner,KBBL Studios,"If you don't get that kid an elephant by tomorrow, the DJ3000 gets your job."
+19205,98,126,502000,Dj3000,KBBL Studios,Looks like those clowns in congress did it again! What a bunch of clowns.
+19206,98,127,505000,Marty,KBBL Studios,How's he keep up with the news like that?
+19209,98,130,509000,Bart Simpson,Simpson Home,Whoa!
+19210,98,131,520000,Marge Simpson,Simpson Home,"Homer, it looks like it could gore."
+19211,98,132,538000,Homer Simpson,Simpson Home,"Heh, heh, it does look like Al Gore."
+19212,98,133,540000,Bart Simpson,Simpson Home,"He smells worse than anything! Hey, you! Elephant! Lift me up on your back, man."
+19213,98,134,547000,Marge Simpson,Simpson Home,Bart!!!
+19214,98,135,549000,Bart Simpson,Simpson Home,Cool! He tried to kill me!
+19215,98,136,555000,Marge Simpson,Simpson Home,I really think this is a bad idea.
+19216,98,137,557000,Homer Simpson,Simpson Home,"Marge, I agree with you, in theory. In theory Communism works. In theory."
+19217,98,138,568000,Bart Simpson,Simpson Home,"Look, he thinks he's people."
+19219,98,140,573000,Bart Simpson,Simpson Backyard,I think I'm gonna call him Stampy.
+19220,98,141,582000,Homer Simpson,Simpson Backyard,What's he yelling about?
+19222,98,142,582000,Lisa Simpson,Simpson Backyard,"He's hungry. Here you go, Stampy. Eat it slow. It has to last for..."
+19223,98,143,591000,Lisa Simpson,Simpson Backyard,You ate it too fast.
+19224,98,144,593000,Homer Simpson,Simpson Backyard,Maybe if we tied it down so it couldn't move it wouldn't get so hungry.
+19225,98,145,596000,Lisa Simpson,Simpson Backyard,"You can't do that, Dad. It's cruel."
+19226,98,146,598000,Homer Simpson,Simpson Backyard,"Oh, everything's cruel according to you. Keeping him chained up in the backyard is cruel. Pulling on his tail is cruel. Yelling in his ears is cruel. Everything is cruel. So excuse me if I'm cruel."
+19227,98,147,608000,Homer Simpson,Simpson Backyard,"Now I've had my head in an elephant, a hippo and a giant sloth."
+19229,98,149,623000,Moe Szyslak,Moe's Tavern,I think you're taking unfair advantage of my generous offer.
+19230,98,150,633000,Homer Simpson,Moe's Tavern,Shut up.
+19232,98,152,633000,Lisa Simpson,Simpson Backyard,"He can't just eat peanuts, Dad. He needs plants to live."
+19233,98,153,638000,Homer Simpson,Simpson Backyard,"Plants, eh?"
+19235,98,155,642000,Bart Simpson,ARBORETUM,"Strip the bark now, Stampy."
+19236,98,156,649000,Homer Simpson,ARBORETUM,"Hey, any more arboretums around here?"
+19237,98,157,649000,Arboretum Guy,ARBORETUM,No.
+19238,98,158,655000,Homer Simpson,ARBORETUM,That bird! He's killing the elephant! Stop him!
+19239,98,159,659000,Lisa Simpson,ARBORETUM,"No, Dad. He's grooming him."
+19240,98,160,662000,Homer Simpson,ARBORETUM,"Grooming him, eh?"
+19242,98,162,665000,Marge Simpson,Simpson Living Room,"Ew, Homer, there is a bird on your head?"
+19243,98,163,668000,Homer Simpson,Simpson Living Room,I know. He's grooming me. Mmm... elephant fresh.
+19246,98,166,673000,Bart Simpson,Simpson Backyard,"G'night, Stampy."
+19247,98,167,706000,Bart Simpson,Simpson Backyard,"Thanks, bud. 'Preciate it."
+19249,98,169,710000,Lisa Simpson,Simpson Kitchen,"Taught Stampy any tricks yet, Bart?"
+19250,98,170,713000,Bart Simpson,Simpson Kitchen,Nah. He doesn't want to learn and I don't want to teach him. We get along fine.
+19251,98,171,718000,Homer Simpson,Simpson Kitchen,"Hey, what's with them?"
+19252,98,172,721000,Lisa Simpson,Simpson Kitchen,I think they're trying to get some attention.
+19253,98,173,723000,Homer Simpson,Simpson Kitchen,"Oh. Good luck. Look at these bills. ""Chain for elephant,"" ""Shots for elephant""... ""Oversized decorative poncho""."
+19254,98,174,732000,Bart Simpson,Simpson Kitchen,"Technically, it's for a giraffe, but I think I can let it out a little."
+19255,98,175,735000,Homer Simpson,Simpson Kitchen,Well these bills'll have to be paid out of your allowance.
+19256,98,176,738000,Bart Simpson,Simpson Kitchen,You'll have to raise my allowance to about a thousand dollars a week.
+19257,98,177,740000,Homer Simpson,Simpson Kitchen,"Then that's what I'll do, smart guy."
+19259,98,179,740000,Small Kid,Simpson Home,Can we see the elephant?
+19260,98,180,740000,MEDIUM-SIZED KID,Simpson Home,We'll pay you money.
+19261,98,181,748000,Homer Simpson,Simpson Home,"For the ninth time, no!"
+19262,98,182,750000,Homer Simpson,Simpson Home,"Wait a minute, this gives me an idea."
+19263,98,183,759000,Bart Simpson,Simpson Home,"Uh, here's a better sign, Dad."
+19264,98,184,761000,Homer Simpson,Simpson Home,"I don't have time to read. Just give me the gist of it, son."
+19266,98,186,764000,Homer Simpson,Simpson Backyard,Your kid flew five feet. That counts as a ride. Two bucks.
+19267,98,187,772000,Kid's Mother,Simpson Backyard,"Well, that was never five feet."
+19268,98,188,775000,Helen Lovejoy,Simpson Backyard,That animal of yours is certainly bad-tempered.
+19269,98,189,778000,Lisa Simpson,Simpson Backyard,"Yeah well, you'd be grumpy too if you were taken out of your natural habitat and gawked at by a bunch of slack-jawed yokels."
+19270,98,190,784000,Cletus Spuckler,Simpson Backyard,"Hey, Maw. Look at that pointy-haired little girl."
+19272,98,192,784000,Bart Simpson,Simpson Backyard,You guys don't understand Stampy. He's just like me. We're a pair of jokers and both of us are wild. We don't take nothin' from nobody.
+19273,98,193,795000,C. Montgomery Burns,Simpson Backyard,"Smithers, this reminds me of that fat man I used to ride to work."
+19275,98,195,804000,Homer Simpson,Simpson Home,"Look at this, Marge! Fifty-eight dollars! And all of it profit! I'm the smartest businessman in the world!"
+19276,98,196,811000,Marge Simpson,Simpson Home,Stampy's food bill today was three hundred dollars.
+19277,98,197,815000,Homer Simpson,Simpson Home,"Marge, please don't humiliate me in front of the money."
+19280,98,200,818000,Homer Simpson,Van Houten Home,"Um, Milhouse saw the elephant twice and rode him once. Right?"
+19281,98,201,833000,Luann Van Houten,Van Houten Home,Yes. But we paid you four dollars.
+19282,98,202,835000,Homer Simpson,Van Houten Home,"Well, that was under our old price structure. Under our new price structure, your bill comes to a total of seven hundred dollars. Now, you've already paid me four dollars, so that's just six hundred and ninety-six dollars more that you owe me."
+19283,98,203,851000,Kirk Van Houten,Van Houten Home,Get off our property.
+19284,98,205,853000,Homer Simpson,Simpson Living Room,This town is full of deadbeats. We can't afford this elephant.
+19285,98,206,857000,Bart Simpson,Simpson Living Room,"No, Dad, he's my friend!"
+19286,98,207,859000,Homer Simpson,Simpson Living Room,"Sorry, Bart. I'm gonna have to sell him."
+19288,98,209,867000,Grizzled Guy,Simpson Backyard,"Well sir, I'll be honest with you. I need a large African elephant. And I need it today. But I'm afraid this just isn't what I'm lookin' for."
+19289,98,210,876000,Homer Simpson,Simpson Backyard,"What do you mean? It's an elephant, isn't it?"
+19290,98,211,878000,Grizzled Guy,Simpson Backyard,"Well it is and it isn't, if you understand what I mean."
+19291,98,212,883000,Homer Simpson,Simpson Backyard,He likes peanuts.
+19293,98,214,885000,Wildlife Man,Simpson Living Room,Our wildlife refuge is the ideal environment for your elephant. Thousands of acres of simulated African Savannah.
+19294,98,215,892000,Lisa Simpson,Simpson Living Room,"It's perfect, Dad."
+19295,98,216,894000,Homer Simpson,Simpson Living Room,"I only have two questions. How much, and give it to me."
+19296,98,217,896000,Wildlife Man,Simpson Living Room,Well we really can't offer you any money. We're a non-profit organization.
+19297,98,218,899000,Homer Simpson,Simpson Living Room,"So, your bid is zero."
+19298,98,219,902000,Wildlife Man,Simpson Living Room,"Well, we like to think of it as --"
+19299,98,220,902000,Homer Simpson,Simpson Living Room,Thank you.
+19300,98,221,904000,Wildlife Man,Simpson Living Room,You know I really think --
+19301,98,222,904000,Homer Simpson,Simpson Living Room,Thank you.
+19303,98,224,908000,Ivory Dealer,Simpson Home,"Simpson, I think you'll find this amount more than fair."
+19304,98,225,911000,Lisa Simpson,Simpson Home,"Dad, I think he's an ivory dealer. His boots are ivory, his hat is ivory, and I'm pretty sure that check is ivory."
+19305,98,226,918000,Homer Simpson,Simpson Home,"Lisa, a guy who has lots of ivory is less likely to hurt Stampy than a guy whose ivory supplies are low."
+19307,98,228,926000,Lisa Simpson,Simpson Home,Mr. Blackheart?
+19308,98,229,926000,Ivory Dealer,Simpson Home,"Yes, my pretty?"
+19309,98,230,934000,Lisa Simpson,Simpson Home,Are you an ivory dealer?
+19310,98,231,934000,Ivory Dealer,Simpson Home,"Little girl, I've had lots of jobs in my day. Whale hunter, seal clubber, President of the Fox Network. And like most people, yeah I've dealt a little ivory."
+19311,98,232,948000,Bart Simpson,Simpson Home,"Dad, you can't do this. Stampy is my friend."
+19312,98,233,951000,Homer Simpson,Simpson Home,"Don't worry, son. I'll get you a new elephant."
+19313,98,234,954000,Ivory Dealer,Simpson Home,"I'll take that one, too."
+19314,98,235,954000,Homer Simpson,Simpson Home,Done.
+19315,98,236,956000,Ivory Dealer,Simpson Home,"All right, I'll be back in the morning to pick up Stampy."
+19316,98,237,956000,Homer Simpson,Simpson Home,Here's the keys.
+19317,98,238,958000,Ivory Dealer,Simpson Home,Elephants don't have keys.
+19318,98,239,958000,Homer Simpson,Simpson Home,I'll just keep these then.
+19320,98,241,961000,Bart Simpson,Simpson Backyard,"Don't worry, Stampy. I won't let Homer sell you to that ivory dealer."
+19321,98,242,967000,Bart Simpson,Simpson Backyard,"You and I are gonna run away together. We'll keep to the back roads, and make our way South. Then, if I know my geography, it's just twelve miles to Africa. Okay bud, very quietly, let's just sneak through..."
+19322,98,243,978000,Bart Simpson,Simpson Backyard,Stampy!
+19324,98,245,978000,Ned Flanders,Flanders Bedroom,It's the Four Elephants of the Apocalypse!
+19325,98,246,988000,Maude Flanders,Flanders Bedroom,"That's horsemen, Ned."
+19326,98,247,988000,Ned Flanders,Flanders Bedroom,"Well, gettin' closer."
+19328,98,249,994000,Lisa Simpson,Simpson Home,Mom! Dad! Bart and Stampy are gone!
+19329,98,250,998000,Marge Simpson,Simpson Home,Oh my Lord!
+19330,98,251,999000,Lisa Simpson,Simpson Home,"I'll bet it's because of that horrible ivory dealer, Dad."
+19331,98,252,1003000,Homer Simpson,Simpson Home,He took Bart too?
+19332,98,253,1003000,Homer Simpson,Simpson Home,"That wasn't part of our deal, Blackheart! That wasn't PAAAAART!!"
+19334,98,255,1013000,Homer Simpson,Springfield Streets,Piece of cake. All we have to do is follow the path of destruction.
+19335,98,256,1018000,Homer Simpson,Springfield Streets,Stupid tornado. look. It got Patty and Selma.
+19336,98,257,1027000,Patty Bouvier,Springfield Streets,"Ooh, I fell it all the way up my skirt."
+19337,98,258,1027000,Selma Bouvier,Springfield Streets,Ditto.
+19340,98,261,1041000,Chief Wiggum,Springfield Police Station,"Yeah right, lady. An elephant ran through your front yard. Okay."
+19341,98,262,1047000,Chief Wiggum,Springfield Police Station,"Wiggum? Yeah right, mister. Mm hm. An elephant just knocked over your mailbox. Okay."
+19342,98,263,1054000,Chief Wiggum,Springfield Police Station,"Wiggum? Yeah right, buddy. Liquor store robbery, officer down. Sure, and I'm Edward G. Robinson."
+19349,98,269,1066000,Foreman,Peanut Factory,"Oh! This is the moment we've feared, people. Many of you thought it would never happen. But I insisted we spend two hours every morning training for it. You all thought I was mad. Many of you requested to be transferred to another peanut factory. But now..."
+19351,98,271,1092000,Bart Simpson,QUIET SPRINGFIELD STREET,"Stampy! Stampy! Where are you, boy?"
+19354,98,274,1106000,Speaker Box,Somewhere,"These prehistoric creatures blundered into the tar pits, which preserved their skeletons in showroom condition."
+19355,98,275,1115000,Bart Simpson,Somewhere,He's gone forever.
+19356,98,276,1119000,Bart Simpson,Somewhere,Stampy!
+19357,98,277,1124000,Bart Simpson,Somewhere,"Ahhh. You're lonely for other elephants, aren't you?"
+19359,98,279,1134000,Lisa Simpson,Somewhere,A deer!
+19360,98,280,1134000,Marge Simpson,Somewhere,A female deer.
+19361,98,281,1136000,Homer Simpson,Somewhere,"Son, you're okay! And you've led us to the precious ivory. And of course your lovable pet, who it's connected to..."
+19362,98,282,1146000,Bart Simpson,Somewhere,"Dad, I can't let you sell him. Stampy and I are friends."
+19363,98,283,1146000,Bart Simpson,Somewhere,"Ow. Anyway, I want him to go to that animal refuge."
+19364,98,284,1154000,Homer Simpson,Somewhere,Forget it. That elephant cost me thousands of dollars.
+19365,98,285,1158000,Lisa Simpson,Somewhere,"Dad, how would you like to be sold to an ivory dealer?"
+19366,98,286,1161000,Homer Simpson,Somewhere,I'd like it fine.
+19367,98,287,1161000,Bart Simpson,Somewhere,Even if he killed you and made your teeth into piano keys?
+19368,98,288,1165000,Homer Simpson,Somewhere,"Yes, of course I would. Who wouldn't like that? To be part of the Music Scene..."
+19369,98,289,1170000,Lisa Simpson,Somewhere,Dad! You're sinking!
+19370,98,290,1170000,Homer Simpson,Somewhere,Huh?
+19371,98,291,1172000,Marge Simpson,Somewhere,"Get a rope, Bart!"
+19372,98,292,1172000,Homer Simpson,Somewhere,"Nah, that's okay. I'm pretty sure I can struggle my way out. First I'll just reach in and pull my legs out."
+19373,98,293,1181000,Homer Simpson,Somewhere,Now I'll pull my arms out with my face...
+19374,98,294,1184000,Lisa Simpson,Somewhere,Dad!
+19375,98,295,1184000,Marge Simpson,Somewhere,Homie!
+19376,98,296,1188000,Bart Simpson,Somewhere,"Stampy, quick! Pull him out!"
+19377,98,297,1193000,Barney Gumble,Somewhere,"Thanks, Stampy."
+19378,98,298,1197000,Barney Gumble,Somewhere,Ow!
+19379,98,299,1201000,Homer Simpson,Somewhere,I'm alive! I'm alive. And I owe it all to this feisty feline.
+19380,98,300,1210000,Lisa Simpson,Somewhere,"Dad, feline means cat."
+19348,98,301,1212000,Homer Simpson,Somewhere,"Elephant, honey. It's an elephant. And I'm sure he'll make a grand piano."
+19381,98,302,1217000,Lisa Simpson,Somewhere,Dad!
+19382,98,303,1217000,Homer Simpson,Somewhere,"Oh, I guess it wouldn't be right to sell Stampy after he saved my life. And, the boy seems to have some sort of relationship with him."
+19383,98,304,1228000,Bart Simpson,Somewhere,"Thanks, Dad."
+19384,98,305,1228000,Homer Simpson,Somewhere,"On the other hand, who's to say what's right these days... what with all our modern ideas... and products."
+19385,98,306,1239000,Homer Simpson,Somewhere,All right. We'll give the stupid elephant to the stupid animal refuge.
+19387,98,308,1245000,Bart Simpson,Somewhere,"Uh, Mom. We're stuck to Dad."
+19388,98,309,1249000,Marge Simpson,Somewhere,This is just what happened at the caramel factory.
+19389,98,310,1252000,Lisa Simpson,Somewhere,Ow! My hair!
+19390,98,311,1255000,Homer Simpson,Somewhere,Mmm. Caramel.
+19392,98,313,1259000,Bart Simpson,SPRINGFIELD ANIMAL REFUGE,So long Stampy. I know you're gonna like it here.
+19393,98,314,1264000,Bart Simpson,SPRINGFIELD ANIMAL REFUGE,"No, Stampy. No!"
+19394,98,315,1267000,Bart Simpson,SPRINGFIELD ANIMAL REFUGE,"Ah, thanks, boy."
+19395,98,316,1273000,Bart Simpson,SPRINGFIELD ANIMAL REFUGE,"Whoa! Whoa, boy!"
+19396,98,317,1275000,Bart Simpson,SPRINGFIELD ANIMAL REFUGE,"Atta boy, Stampy. Butt 'em once for me!"
+19397,98,318,1290000,Marge Simpson,SPRINGFIELD ANIMAL REFUGE,"Gosh, I thought he'd be happier in his true habitat."
+19398,98,319,1293000,Wildlife Man,SPRINGFIELD ANIMAL REFUGE,"Oh, I think he is."
+19399,98,320,1295000,Marge Simpson,SPRINGFIELD ANIMAL REFUGE,Then why is he attacking all those other elephants?
+19400,98,321,1298000,Wildlife Man,SPRINGFIELD ANIMAL REFUGE,"Well, animals are a lot like people, Mrs. Simpson. Some of them act badly because they've had a hard life or have been mistreated. But, like people, some of them are just jerks. Stop that, Mr. Simpson."

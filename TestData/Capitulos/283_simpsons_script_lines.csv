@@ -1,0 +1,235 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+71836,283,1,86000,Marge Simpson,Simpson Home,Bill... bill...
+71837,283,2,89000,Marge Simpson,Simpson Home,Bill.
+71838,283,3,91000,Marge Simpson,Simpson Home,"Homer, you got a letter. Hm. It's from the library."
+71839,283,4,97000,Homer Simpson,Simpson Home,"Overdue book?! This is the biggest frame-up since O.J. Wait a minute... blood in the Bronco... the cuts on his hand... those Jay Leno monologues... Oh my God, he did it!"
+71840,283,5,110000,Lisa Simpson,Simpson Home,"Here's the book... ""Classics for Children?"""
+71841,283,6,114000,Homer Simpson,Simpson Home,"Oh yeah, I checked that out when Bart was born. I was gonna read to him every day."
+71842,283,7,121000,Bart Simpson,Simpson Home,What happened?
+71844,283,8,122000,Homer Simpson,Simpson Home,Stuff kept comin' up -- mostly car-related. Piece of crap...
+71845,283,9,125000,Lisa Simpson,Simpson Home,Why don't you read to us now?
+71846,283,10,127000,Homer Simpson,Simpson Home,I decide who reads and when. How 'bout now?
+71847,283,11,133000,Homer Simpson,Simpson Home,"Hm, ""Homer's Odyssey."" Is this about that mini-van I rented once?"
+71848,283,12,137000,Lisa Simpson,Simpson Home,No Dad. It's an epic tale from ancient Greece.
+71849,283,13,140000,Homer Simpson,Simpson Home,"That mini-van had the biggest cup holders. And change slots for every coin, from penny to quarter!"
+71850,283,14,148000,Bart Simpson,Simpson Home,"Dad, I loved it, too, but it was seven years ago."
+71851,283,15,152000,Homer Simpson,Simpson Home,Fine.
+71852,283,16,153000,Homer Simpson,Simpson Home,It was the end of the Trojan War. Clever Odysseus had come up with a plan to destroy the Trojans once and for all...
+71854,283,18,156000,Ned Flanders,PLAIN,Hi-O-diddily-ysseus!
+71855,283,19,169000,Homer Simpson,PLAIN,Stupid King of Troy. I think I speak for all the Greeks when I say this war has gone on for too long.
+71856,283,20,176000,Ned Flanders,PLAIN,I'll say. I'd really like to go out and get the mail.
+71857,283,21,181000,Homer Simpson,PLAIN,"Anyway, over torture, one of your soldiers mentioned that you collect giant wooden animals. We hope you don't have a horse."
+71858,283,22,189000,Ned Flanders,PLAIN,Well... I don't have one from you!
+71859,283,23,193000,Ned Flanders,PLAIN,Bring it in!
+71860,283,24,201000,Ned Flanders,PLAIN,"Now, throughout history, when people get wood, they'll think of Trojans."
+71862,283,26,207000,Homer Simpson,Simpson Home,Trojans.
+71863,283,27,207000,Lisa Simpson,Simpson Home,"What are you laughing at, Dad?"
+71864,283,28,211000,Homer Simpson,Simpson Home,"If I'm laughing at what I think I am, it's very funny. Anyway... ""As night fell, the Greek soldiers crept from the wooden horse..."""
+71866,283,30,214000,Moe Szyslak,INSIDE CITY OF TROY,"Aw, look at 'em, sleeping like little angels. Spare no one."
+71867,283,31,237000,Moe Szyslak,INSIDE CITY OF TROY,"Remember, just 'cause their heads are off, it don't mean they're dead."
+71869,283,33,245000,Homer Simpson,FLAMING RUINS OF TROY,"Now, I can return to Ithaca, and my sweet wife Penelope."
+71870,283,34,250000,Apu Nahasapeemapetilon,FLAMING RUINS OF TROY,"Odysseus, do not forget to thank the gods for our victory with an appropriate animal sacrifice."
+71871,283,35,256000,Homer Simpson,FLAMING RUINS OF TROY,Forget it. Sacrificing animals is barbaric. Now have the slaves kill the wounded.
+71872,283,37,267000,Mayor Joe Quimby,Mt. Olympus,No sacrifice? We'll teach that mortal to trifle with the gods.
+71873,283,38,271000,Dionysus Barney,Mt. Olympus,I got it.
+71874,283,39,275000,Mayor Joe Quimby,Mt. Olympus,You fat lush! You just destroyed Atlantis!
+71875,283,40,278000,Dionysus Barney,Mt. Olympus,You used to be fun. Where's the Zeus who used to turn into a cow and pick up chicks?
+71876,283,41,285000,Mayor Joe Quimby,Mt. Olympus,"He grew up. Maybe you should too. Poseidon, you take care of Odysseus."
+71877,283,42,289000,SEA CAPTAIN/POSEIDON,Mt. Olympus,"Yarrr, I'll send him farrrr... off course."
+71879,283,44,298000,Moe Szyslak,Homer's Ship,Greece is the word!
+71880,283,45,302000,Lenny Leonard,Homer's Ship,"Is it ""vase"" or ""vase"" ?"
+71881,283,46,304000,Carl Carlson,Homer's Ship,You gonna be askin' that the whole trip?
+71882,283,47,306000,Homer Simpson,Homer's Ship,"Gentlemen, I must be wasted, 'cause it looks like that cloud is mad at me."
+71885,283,50,327000,Sirens,Ocean,"ON THE ISLAND, ISLAND OF SIRENS / OUR HOT SEX WILL LEAVE YOU PERSPIRIN'..."
+71886,283,51,336000,Lenny Leonard,Ocean,"Hey, that's kinda catchy."
+71887,283,52,337000,Carl Carlson,Ocean,It's comin' from that island. Let's steer heedlessly towards it.
+71888,283,53,341000,Lenny Leonard,Ocean,Heedlessly it is.
+71890,283,55,348000,Sirens,Ship,THE FETA IS CHEESY / THE SIRENS ARE EASY...
+71891,283,56,352000,Homer Simpson,Ship,"Boy, if they kiss as good as they lure... wow!"
+71892,283,57,357000,Sirens,Ship,"ON THE ISLAND, WE'LL SEX YOU UP!"
+71893,283,58,364000,Sirens,Ship,ISLAND OF...SIRENS!
+71894,283,59,367000,Crewmembers,Ship,"Oh God, they're hideous! / Woof! / Woof!"
+71895,283,60,371000,Lenny Leonard,Ship,Someone gouge my eyes!
+71896,283,61,373000,Professor Jonathan Frink,Ship,Save me from the ladies!
+71898,283,63,380000,Marge Simpson,Ithaca,It's been so many years since I've seen your father. I hope he's still the magnificent physical specimen he was when he left.
+71899,283,64,390000,Bart Simpson,Ithaca,"Mom, maybe it's time to choose a suitor."
+71900,283,65,397000,Discus Stu,Ithaca,Discus Stu has Ouzo for twozo.
+71901,283,66,402000,Bart Simpson,Ithaca,I'll leave you guys alone.
+71902,283,67,403000,Discus Stu,Ithaca,Discus Stu was talkin' to you.
+71903,283,68,407000,Marge Simpson,Ithaca,"Oh, where could your father be?"
+71904,283,69,410000,Homer Simpson,Ithaca,Almost home!
+71907,283,72,416000,SEA CAPTAIN/POSEIDON,Ithaca,Ain't I a stinker?
+71908,283,74,422000,Circe,ISLAND OF CIRCE,"Welcome to my island. I am Circe, the sorceress."
+71909,283,75,426000,Moe Szyslak,ISLAND OF CIRCE,"Boy, who decided to give every weirdo an island?"
+71910,283,76,428000,Circe,ISLAND OF CIRCE,You must be thirsty. Drink from my cauldron.
+71911,283,77,434000,Lenny Leonard,ISLAND OF CIRCE,"Well, I was in the mood for something bubbling."
+71912,283,78,436000,Moe Szyslak,ISLAND OF CIRCE,"Outta the way, Slim."
+71914,283,80,445000,Homer Simpson,ISLAND OF CIRCE,"Thanks for your help with the anchor, guys. Guys?"
+71915,283,81,451000,Homer Simpson,ISLAND OF CIRCE,That pig looks like Lenny.
+71916,283,82,454000,Lenny Pig,ISLAND OF CIRCE,Hey!
+71917,283,83,455000,Homer Simpson,ISLAND OF CIRCE,Mmm! That's the next best thing to eating Lenny.
+71918,283,84,461000,Homer Simpson,ISLAND OF CIRCE,I'm still hungry.
+71919,283,85,463000,Circe,ISLAND OF CIRCE,Didn't you eat enough of your friends?
+71920,283,86,465000,Homer Simpson,ISLAND OF CIRCE,Those were my friends?!
+71921,283,87,467000,Circe,ISLAND OF CIRCE,"Yes, I've been saying that for hours."
+71922,283,88,469000,Homer Simpson,ISLAND OF CIRCE,"That's it, I'm going home. Which way to Ithaca?"
+71923,283,89,473000,Circe,ISLAND OF CIRCE,"It's not so easy. You must go through Hades, crossing the river Styx."
+71925,283,91,479000,Dead Souls,River Styx,YOU'RE MY LA-DY / OF THE MOR-NING... /
+71926,283,92,486000,Homer Simpson,River Styx,This truly is Hell!
+71928,283,94,491000,Marge Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"Okay, it has been twenty years, and you suitors have been very patient."
+71929,283,95,496000,Sideshow Mel,PENELOPE AND ODYSSEUS'S LIVING ROOM,We've been beyond patient!
+71930,283,96,498000,Krusty the Clown,PENELOPE AND ODYSSEUS'S LIVING ROOM,When we came here Helen of Troy was hot. Now look at her.
+71931,283,97,503000,Agnes Skinner,PENELOPE AND ODYSSEUS'S LIVING ROOM,This is the face that launched a thousand ships. The other way!
+71932,283,98,508000,Homer Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"Honey, I'm home!"
+71933,283,99,510000,Marge Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"Well, look who the Fates dragged in."
+71934,283,100,513000,Homer Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"Oh, I'm sorry I was gone so long. But I'm gonna do something I haven't done for twenty years -- take out the trash."
+71935,283,101,526000,Homer Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"Sweet Penelope, you're just as beautiful as you were when I left."
+71936,283,102,530000,Marge Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"Oh, I can't stay mad at you."
+71937,283,103,534000,Other Suitors,PENELOPE AND ODYSSEUS'S LIVING ROOM,Awww...
+71938,283,104,537000,Marge Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"Brave Odysseus, it has been twenty long years. Regale me with tales of your adventures."
+71939,283,105,542000,Homer Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,Quit suffocating me. I'm going to Moe's.
+71940,283,106,549000,Homer Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"Oh, here's the story of Joan of Arc..."
+71941,283,107,552000,Marge Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"Ooh, did you say Joan Van Ark?"
+71942,283,108,554000,Lisa Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"No, Mom. Joan of Arc."
+71943,283,109,556000,Marge Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,It's never Joan Van Ark.
+71944,283,110,559000,Homer Simpson,PENELOPE AND ODYSSEUS'S LIVING ROOM,"This one takes place in a make-believe kingdom called ""France..."""
+71946,283,112,565000,Homer Simpson,MEDIEVAL FRENCH TOWN,"...The French were fighting the English, in The Hundred Years War, which was then called ""Operation Speedy Resolution."""
+71948,283,114,574000,Homer Simpson,Barn,"Son, how's it going with the breakfast pâté?"
+71949,283,115,578000,Bart Simpson,Barn,I'm on it.
+71951,283,117,583000,Marge Simpson,Barn,"Bartrand, where is your sister Joan? Morning bells are ringing. Morning bells are ringing!"
+71952,283,118,589000,Bart Simpson,Barn,She's talking to her invisible friend. God.
+71954,283,120,593000,Lisa Simpson,Field,...and please bless Mama and Papa and Bartrand and Coco Chanel...
+71955,283,121,601000,God,Field,"Joan of Arc, I am your God."
+71957,283,123,608000,God,Field,I have chosen you to lead the French army to victory over the English invaders.
+71958,283,124,613000,Lisa Simpson,Field,But I'm just a little girl.
+71959,283,125,615000,God,Field,I know -- I have three eyes. Now get cracking.
+71961,283,127,622000,Marge Simpson,FRENCH HOUSE,God wants you to lead the French army to what?
+71962,283,128,626000,Lisa Simpson,FRENCH HOUSE,Victory.
+71963,283,129,627000,Homer Simpson,FRENCH HOUSE,Victory? We're French! We don't even have a word for it.
+71964,283,130,632000,Lisa Simpson,FRENCH HOUSE,God spoke to me -- I must obey.
+71965,283,131,635000,Bart Simpson,FRENCH HOUSE,"Joan, give me your dessert."
+71966,283,132,638000,Lisa Simpson,FRENCH HOUSE,"That's just you, Bart."
+71967,283,133,640000,God,FRENCH HOUSE,"Joan, give me your dessert."
+71968,283,134,643000,Lisa Simpson,FRENCH HOUSE,"Yes, sir."
+71969,283,135,649000,God,FRENCH HOUSE,"Oh, that's going straight to my five thighs."
+71971,283,137,654000,Chief Wiggum,FIELD OUTSIDE FORTRESS,"All right, garçons. Trois, deux, un!"
+71972,283,138,658000,Lou,FIELD OUTSIDE FORTRESS,Huh?
+71973,283,139,659000,Chief Wiggum,FIELD OUTSIDE FORTRESS,"No, un. You know, French for ""one."""
+71974,283,140,661000,Lou,FIELD OUTSIDE FORTRESS,"Well, you keep switching back between French and English."
+71975,283,141,665000,Chief Wiggum,FIELD OUTSIDE FORTRESS,Just fire the damn thing.
+71976,283,142,668000,Catapult Man,FIELD OUTSIDE FORTRESS,Sacré Bleeeuu!
+71977,283,143,676000,Catapult Man,FIELD OUTSIDE FORTRESS,My fault this time. I didn't tuck in my legs.
+71978,283,144,682000,Lisa Simpson,FIELD OUTSIDE FORTRESS,Wait! I have been sent to lead the French army to victory.
+71979,283,145,687000,Chief Wiggum,FIELD OUTSIDE FORTRESS,"Oh, really? And how are you gonna do that?"
+71980,283,146,690000,Lisa Simpson,FIELD OUTSIDE FORTRESS,"With modern ideas -- like putting bigger, harder people in the catapults. Or how 'bout rocks?"
+71982,283,148,699000,Catapult Man,FIELD OUTSIDE FORTRESS,I don't know how to feel just now.
+71983,283,149,702000,Lisa Simpson,FIELD OUTSIDE FORTRESS,And now... attack!
+71986,283,152,710000,Lou,FIELD OUTSIDE FORTRESS,"Uh, shouldn't we help her?"
+71987,283,153,711000,Chief Wiggum,FIELD OUTSIDE FORTRESS,"Yeah, right behind ya, Lou."
+71989,283,155,717000,Chief Wiggum,FIELD OUTSIDE FORTRESS,"Uh oh, there's my supervisor."
+71991,283,157,725000,English Soldier,RAMPARTS OF ENGLISH CASTLE,"'Ello, 'ello, 'ello. What's all this then? It's a little bird with a knife, idn't it?"
+71992,283,158,733000,English Soldier,RAMPARTS OF ENGLISH CASTLE,Wha' a thing to 'appen.
+71994,283,160,744000,Mayor Joe Quimby,FRENCH THRONE ROOM,"We welcome our savior, Joan of Arc. It is customary to kneel before the king."
+71995,283,161,750000,Lisa Simpson,FRENCH THRONE ROOM,I would gladly kneel -- were you the real king!
+71997,283,163,756000,Lisa Simpson,FRENCH THRONE ROOM,"You are the true Dauphin. You had this impostor try to fool me, to see if I was truly sent by God."
+71998,283,164,763000,Milhouse Van Houten,FRENCH THRONE ROOM,"Bravo, Joan of Arc. You are as brainsome as you are toothsome."
+71999,283,165,773000,Milhouse Van Houten,FRENCH THRONE ROOM,"Quimbé, you may resume your regular duties now."
+72000,283,166,776000,Mayor Joe Quimby,FRENCH THRONE ROOM,It would be my pleasure.
+72001,283,167,779000,Milhouse Van Houten,FRENCH THRONE ROOM,"Vibrate for me, footstool."
+72004,283,170,786000,Milhouse Van Houten,FEASTING HALL,"Loyal subjects, let us drink to Joan of Arc, who will conquer the English..."
+72005,283,171,786000,Milhouse Van Houten,FEASTING HALL,And has already conquered my heart.
+72006,283,172,795000,Lisa Simpson,FEASTING HALL,"Uh, God says we should just be friends."
+72007,283,173,797000,Krusty the Clown,FEASTING HALL,"I wouldn't say King Milhouse is a loser, but that's the twelfth girl he struck out with this week."
+72008,283,174,803000,Milhouse Van Houten,FEASTING HALL,Boil him in oil!
+72009,283,175,805000,Krusty the Clown,FEASTING HALL,So no ten-thirty show?
+72011,283,177,816000,Lisa Simpson,Field,Let us kill the English! Their concept of individual rights could undermine the power of our beloved tyrants!
+72012,283,178,824000,English Soldier #1,Field,They're attacking again.
+72013,283,179,827000,English Soldier #2,Field,I thought we had a truce.
+72014,283,180,828000,English Soldier #1,Field,"Just because you keep saying it, doesn't make it so."
+72015,283,181,832000,English Soldier #2,Field,/ My word.
+72016,283,182,838000,Lisa Simpson,Field,You can't stop me! I was sent by God!
+72017,283,183,844000,Lisa Simpson,Field,I want my Mommy!
+72018,283,184,846000,Groundskeeper Willie,Field,I captured a wee girl. I'm the greatest hero in English history!
+72020,283,186,853000,Judge Lovejoy,Courtroom,"Joan of Arc, you are accused of heresy, witchcraft, and that man told me you pushed him."
+72021,283,187,862000,Lisa Simpson,Courtroom,I would like to call my only witness: almighty God.
+72023,283,189,879000,God,Courtroom,I told this maiden to lead the French to victory.
+72024,283,190,882000,Groundskeeper Willie,Courtroom,"Wait a minute, you two-timin' spot of light. You told me to lead the English to victory."
+72025,283,191,890000,Lisa Simpson,Courtroom,"Is that true, Lord?"
+72026,283,192,892000,God,Courtroom,"Well, I never thought the two of you would be in the same room actually. Ha. This is a little embarrassing. Goodbye now."
+72027,283,193,902000,Lenny Leonard,Courtroom,That was weird. Let's burn her!
+72030,283,196,910000,Marge Simpson,Springfield Town Square,Don't burn her! She's just an innocent child!
+72031,283,197,914000,Homer Simpson,Springfield Town Square,Burn this guy! He lost our good bucket!
+72032,283,198,921000,Marge Simpson,Springfield Town Square,"Joan, renounce your faith! Save yourself!"
+72033,283,199,925000,Lisa Simpson,Springfield Town Square,"Don't worry, beloved parents. God won't let anything happen to me."
+72034,283,200,930000,Lisa Simpson,Springfield Town Square,Huh. Getting kind of hot around here.
+72036,283,202,933000,Homer Simpson,Simpson Home,Wow.
+72037,283,203,934000,Lisa Simpson,Simpson Home,"What happened, Dad? They didn't really burn her, did they?"
+72038,283,204,938000,Marge Simpson,Simpson Home,"Of course they didn't, honey."
+72039,283,205,939000,Marge Simpson,Simpson Home,"""Just then, Sir Lancelot rode up on a white horse and saved Joan of Arc. They got married and lived in a spaceship. The end."""
+72040,283,206,949000,Marge Simpson,Simpson Home,"Well, it's easier to chew than that Bambi video."
+72041,283,207,957000,Homer Simpson,Simpson Home,"Our next story is ""Hamlet,"" by William Shakespeare."
+72042,283,208,961000,Bart Simpson,Simpson Home,"Dad, these old stories can't compare with our modern super-writers. Stephen Bochco could kick Shakespeare's ass."
+72043,283,209,967000,Lisa Simpson,Simpson Home,"Look, this story is more interesting than you think. It starts with Hamlet's father getting murdered."
+72044,283,210,972000,Bart Simpson,Simpson Home,Cool. Does he get to marry his Mom?
+72045,283,211,974000,Homer Simpson,Simpson Home,"I don't know, but that would be hot. ""Once upon a time there was a young prince of Denmark."""
+72047,283,213,977000,Ghost Homer,HAMLET'S BEDCHAMBER,Hamlet... avenge me!
+72048,283,214,987000,Hamlet Bart,HAMLET'S BEDCHAMBER,Dad?!
+72049,283,215,989000,Ghost Homer,HAMLET'S BEDCHAMBER,"Yes, I have returned from the dead."
+72050,283,216,991000,Hamlet Bart,HAMLET'S BEDCHAMBER,Looks like you've returned from the buffet.
+72051,283,217,993000,Ghost Homer,HAMLET'S BEDCHAMBER,Why you little...
+72054,283,220,998000,Ghost Homer,HAMLET'S BEDCHAMBER,"My son, I have some shocking news. I was murdered. Murdered, I tells ya!"
+72055,283,221,1004000,Hamlet Bart,HAMLET'S BEDCHAMBER,Really?
+72056,283,222,1004000,Ghost Homer,HAMLET'S BEDCHAMBER,"Behold, as I slept, your Uncle Claudius poured poison in my ear... poison most foul...so he could marry your mother and become the King."
+72057,283,223,1018000,Hamlet Bart,HAMLET'S BEDCHAMBER,"Yeah, that was quite a weekend."
+72058,283,224,1020000,Ghost Homer,HAMLET'S BEDCHAMBER,Now you must avenge me. Avenge me!
+72059,283,225,1023000,Hamlet Bart,HAMLET'S BEDCHAMBER,How?
+72060,283,226,1024000,Ghost Homer,HAMLET'S BEDCHAMBER,I'unno. Surprise me! Surprise me!
+72061,283,227,1032000,Bart Simpson,HAMLET'S BEDCHAMBER,"Could that fat ghost be telling the truth? First I've got to get Uncle Claudius to confess, then I've gotta kill him."
+72062,283,228,1038000,Homer Simpson,HAMLET'S BEDCHAMBER,It's cold outside. You'll need a sweater. A sweater!
+72064,283,230,1048000,Krusty the Clown,Castle,"...And if your idea of a first date is burning down her village, you just might be a Viking."
+72066,283,232,1059000,Viking,Castle,"That's what I get for sitting up front, eh?"
+72067,283,233,1068000,Marge Simpson,Castle,I love these jesters. They're exactly what I need to forget about my first husband.
+72068,283,234,1075000,Moe Szyslak,Castle,"Yeah, I really miss the old guy. It was all I could do to put on his jewels."
+72069,283,235,1077000,Moe Szyslak,Castle,"And score with his wife every night. Hey, how ya doin', kid? Nice to see ya."
+72071,283,236,1084000,Krusty the Clown,Castle,"Now we would like to warn you, our performances tend to make audience members blurt out hidden secrets."
+72072,283,237,1090000,Moe Szyslak,Castle,"Hoo, boy."
+72073,283,238,1092000,Hamlet Bart,Castle,"Aha! ""Methinks the play's the thing / wherein I'll catch the conscience of the King."""
+72074,283,239,1098000,Moe Szyslak,Castle,Catch my conscience!? What?
+72075,283,240,1100000,Hamlet Bart,Castle,You're not supposed to hear me. That's a soliloquy.
+72076,283,241,1103000,Moe Szyslak,Castle,"Okay, well I'll do a soliloquy too. Note to self: ""Kill that kid."""
+72077,283,242,1109000,Krusty the Clown,Castle,"Okay, we're gonna open it up with a little improv. Somebody shout out a location."
+72078,283,243,1114000,Hamlet Bart,Castle,This castle!
+72079,283,244,1115000,Krusty the Clown,Castle,OK. How about an occupation?
+72080,283,245,1117000,Hamlet Bart,Castle,Usurper of the throne!
+72081,283,246,1121000,Krusty the Clown,Castle,"I think I heard ""usurper of the throne."" Now finally, I need an object."
+72082,283,247,1125000,Hamlet Bart,Castle,Ear poison!
+72083,283,248,1126000,Moe Szyslak,Castle,"Hey uh, do you have diarrhea? I-I have diarrhea."
+72084,283,249,1130000,Marge Simpson,Castle,Sit down.
+72085,283,250,1142000,Moe Szyslak,Castle,Wait a minute! I didn't use that much poison.
+72086,283,251,1147000,Moe Szyslak,Castle,"I mean I didn't use that much poi, son. At the royal luau."
+72087,283,252,1156000,Hamlet Bart,Castle,"Daddy, it's true! Uncle Claudius murdered you!"
+72088,283,253,1160000,Lisa Simpson,Castle,"Oh great, now Hamlet's acting crazy. Well, nobody out-crazies Ophelia! Hey, nonny, nonny, with a hoo and a haw and a nonny, nonny, hey..."
+72091,283,256,1178000,Marge Simpson,KING'S BEDCHAMBER,Hamlet! What'd I tell you about running with swords?
+72092,283,257,1181000,Hamlet Bart,KING'S BEDCHAMBER,Someone's behind the curtain. It could be Claudius. Only one way to find out...
+72094,283,259,1189000,Hamlet Bart,KING'S BEDCHAMBER,Polonius? What are you doing behind the curtain?
+72095,283,260,1193000,Chief Wiggum,KING'S BEDCHAMBER,I hide behind curtains 'cause I have a fear of getting stabbed.
+72096,283,261,1197000,Ralph Wiggum,KING'S BEDCHAMBER,Daddy's stomach is crying!
+72097,283,262,1199000,Chief Wiggum,KING'S BEDCHAMBER,"Laertes, you gotta do a special big-boy job for daddy. I need you to avenge my death."
+72098,283,263,1207000,Ralph Wiggum,KING'S BEDCHAMBER,I like ba-venging.
+72100,283,265,1211000,Ralph Wiggum,Throne Room,I'm gonna kill Hamlet. Here's my mad face.
+72103,283,266,1216000,Moe Szyslak,Throne Room,"Ha. Ha. Cute kid. But, just in case you don't kill Hamlet, I put some poison on the food, on the drapes, even on Rosen-Carl and Guilden-Lenny here."
+72104,283,267,1226000,Guilden-Lenny,Throne Room,"If Hamlet touches either of us, he's dead."
+72105,283,268,1228000,Rosen-Carl,Throne Room,Boo-yeah!
+72106,283,269,1232000,Moe Szyslak,Throne Room,"Ah, now Hamlet, you know the rules. Laertes here gets uh one practice stab."
+72107,283,270,1238000,Ralph Wiggum,Throne Room,"Oh, boy!"
+72108,283,271,1240000,Moe Szyslak,Throne Room,"Boy, did I bet on the wrong horse."
+72109,283,272,1244000,Hamlet Bart,Throne Room,Now there's nothing to stop me from getting my vengeance.
+72110,283,273,1247000,Moe Szyslak,Throne Room,"You sure you don't want a nice piece of fish, or to finger the drapes a little?"
+72111,283,274,1251000,Hamlet Bart,Throne Room,This ends here!
+72112,283,275,1255000,Moe Szyslak,Throne Room,Remember me as a peace maker.
+72113,283,276,1260000,Hamlet Bart,Throne Room,And now to celebrate life.
+72114,283,277,1262000,Hamlet Bart,Throne Room,Bloody floor!
+72115,283,278,1268000,Marge Simpson,Throne Room,No way I'm cleaning up this mess.
+72117,283,280,1273000,Lisa Simpson,Simpson Living Room,And that's the greatest thing ever written.
+72118,283,281,1276000,Bart Simpson,Simpson Living Room,Are you crazy? I can't believe a play where every character was murdered could be so boring.
+72119,283,282,1281000,Homer Simpson,Simpson Living Room,"Son, it's not only a great play, but also became a great movie. Called ""Ghostbusters."""

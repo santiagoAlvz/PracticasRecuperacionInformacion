@@ -1,0 +1,217 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+148424,520,1,67000,Adult Bart,NEUTRAL LOCATION,"Everything I know about women can be summed up by a jump-rope rhyme: ""Girls go to Mars to buy candy bars, boys go to Jupiter to get more stupider."" Except I didn't have to go to Jupiter to get stupider."
+148425,520,2,79000,Adult Bart,NEUTRAL LOCATION,I had a bigger ball of gas I could study.
+135067,520,3,81000,Gps,NEUTRAL LOCATION,"In three-tenths of a mile, make a right turn."
+135068,520,4,84000,Marge Simpson,NEUTRAL LOCATION,"Homer, listen to the G.P.S."
+135069,520,5,86000,Marge Simpson,NEUTRAL LOCATION,"Turn right onto First Street, head east. Homer, watch the road! Not this road, the other road!"
+135070,520,6,89000,Homer Simpson,NEUTRAL LOCATION,"Ladies, please! You can boss me around, just one at a time!"
+135071,520,7,93000,Marge Simpson,NEUTRAL LOCATION,"On Main Street, turn right now... / Our Sunday drive is ruined! Hands at ten and two!"
+135073,520,9,103000,Homer Simpson,NEUTRAL LOCATION,What the?
+135074,520,10,106000,Gps,NEUTRAL LOCATION,Switching to male voice...
+135022,520,11,108000,Male Gps,NEUTRAL LOCATION,...so you will obey.
+135075,520,12,109000,Homer Simpson,NEUTRAL LOCATION,Finally! A supervisor!
+148426,520,14,113000,Adult Bart,NEUTRAL LOCATION,So the closest thing I had to an adult male role model were the schoolyard bullies.
+135077,520,15,117000,Jimbo Jones,NEUTRAL LOCATION,"Hey, Simpson! I dare you to stick this caterpillar down that girl's dress."
+135079,520,17,122000,Bart Simpson,PLAYGROUND,Can't I just stick it in Skinner's Sloppy Joe?
+135080,520,18,124000,Seymour Skinner,PLAYGROUND,It would actually be the only meat in said Joe.
+135081,520,19,127000,DOLPH,PLAYGROUND,"Not everything can be solved with Skinner pranks, Bart."
+135082,520,20,129000,Kearney Zzyzwicz,PLAYGROUND,"Yeah, think outside the Skinner box."
+135084,520,22,134000,DOLPH,PLAYGROUND,"Hey look, that movie we were in got short-listed for an Oscar."
+135085,520,23,140000,Mary,PLAYGROUND,Who's that stickin' a fuzzy-wuzzy down my back?
+135086,520,24,142000,Bart Simpson,PLAYGROUND,Mary Spuckler!
+135087,520,25,153000,Bart Simpson,PLAYGROUND,I thought you left home to be a star.
+135088,520,26,155000,Mary,PLAYGROUND,There's a lot of thirteen-year-olds out there with a voice and a dream. Only got work as a hand model.
+135089,520,27,161000,Bart Simpson,PLAYGROUND,That's your hand?
+135090,520,28,163000,Mary,PLAYGROUND,Just the thumb. Did you miss me?
+135091,520,29,168000,Bart Simpson,PLAYGROUND,"Get out of my face, cootie breath! I did miss you. You stink! Come over Saturday. I'm gonna have to push you in the mud now."
+135092,520,30,177000,Mary,PLAYGROUND,"Don't you pig-waller me, Mister! Do what you must, darlin'."
+135093,520,31,183000,Jimbo Jones,PLAYGROUND,That sure makes up for my Dad beatin' me last night!
+135094,520,32,187000,Kearney Zzyzwicz,PLAYGROUND,And for my dyslexia!
+135096,520,34,193000,Bart Simpson,Simpson Front Door,Mary?
+135097,520,35,196000,Homer Simpson,Simpson Front Door,Thank God I wore the underwear with the hole on the side.
+135098,520,36,200000,Bart Simpson,Simpson Front Door,It's eight in the morning!
+135099,520,37,202000,Mary,Simpson Front Door,"I'm a farm girl. I already milked the cows, overcame a bout of prairie madness, and made you some sausage and biscuits."
+135100,520,38,210000,Mary,Simpson Front Door,"Rain is so romantic, don't you think?"
+148427,520,39,213000,Adult Bart,Simpson Front Door,"You get the picture. Perfect girl. So like a schmuck, I treat her like day-old matzo."
+135102,520,41,228000,Bart Simpson,Simpson Home,"Doctors Without Borders, you're now doctors without faces!"
+135105,520,43,233000,Mary,TV ROOM,"Bart, when are we gonna do girl things, like catch a frog or leg wrestle?"
+135106,520,44,238000,Bart Simpson,TV ROOM,"Soon, baby, soon. Let me just kill Milhouse's character. He thinks we're on the same team."
+135107,520,45,243000,Milhouse Van Houten,TV ROOM,Betrayed again!
+135108,520,46,245000,Lisa Simpson,TV ROOM,"Mary, could I steal Bart for a minute?"
+135109,520,47,247000,Mary,TV ROOM,"Ask his girlfriend, the game."
+135110,520,48,249000,Bart Simpson,TV ROOM,"Oh Mary, you know you're the coolest person I've ever hung out with."
+135111,520,49,252000,Milhouse Van Houten,TV ROOM,Another betrayal!
+135112,520,50,253000,Lisa Simpson,TV ROOM,"Bart Simpson, I don't know what the future holds for you..."
+135113,520,51,256000,Homer Simpson,TV ROOM,"If you're lucky, me, then this."
+135114,520,52,259000,Lisa Simpson,TV ROOM,"...but, Bart, I do know this: you will not do better than Mary Spuckler, so don't ignore her for a stupid video game!"
+135115,520,53,266000,Bart Simpson,TV ROOM,"Hey, relax. She knows she's the apple of the corner of my eye."
+135116,520,54,269000,Mary,TV ROOM,"Bart, do you mind if I call my mother?"
+135117,520,55,272000,Bart Simpson,TV ROOM,Not at all.
+135118,520,56,273000,Mary,TV ROOM,"Mama! Come pick me up, I'm bored!"
+135119,520,57,275000,Brandine Del Roy,TV ROOM,You'll have to wait! The mule's takin' a nap!
+135120,520,58,279000,Cletus Spuckler,TV ROOM,We hope it's a nap.
+135122,520,60,288000,Brandine Del Roy,Cletus's Shack,Dinnertime!
+135128,520,66,303000,Brandine Del Roy,Cletus's Shack,Now let's enjoy the granola bars that city fella gave us in exchange for lettin' him go.
+135129,520,67,307000,Cletus Spuckler,Cletus's Shack,That'll teach him to try to preserve our folk singin' for posterity.
+135132,520,70,316000,Musicologist,Shack,Just wait till my Dad hears this at three a.m. on N.P.R. It'll prove I'm not wasting my life!
+135133,520,71,323000,Other Musicologist,Shack,You realize you just ruined the recording.
+135136,520,74,330000,Bart Simpson,Cletus's Shack,A lot of musical talent in this house. But no one blows on a blade of grass like you.
+135137,520,75,341000,Mary,Cletus's Shack,Eight more payments and I own this. But are you sure there ain't no video game you'd rather be playin'?
+135138,520,76,346000,Bart Simpson,Cletus's Shack,"All eyes on you, baby."
+135104,520,77,348000,Mary,Cletus's Shack,"Well, tell your eye-ears to watch-listen to this!"
+135139,520,78,352000,Mary,Cletus's Shack,"I USED TO THINK I WANTED TO ROAM...BUT THERE AIN'T NOT NEVER NO PLACE NONE BETTER THAN HOME / Count the negatives, it all works out."
+135140,520,79,362000,Mary,Cletus's Shack,THEY SAY THAT HOME IS WHERE THE HEART IS...BUT FOR ME IT'S WHERE THE BART IS... Now what are you doing?!
+135141,520,80,371000,Mary,Cletus's Shack,"I wrote a whole song for you, Bart Simpson! Least you could do is pay me full mind. I was gonna enter it in a competition."
+135142,520,81,378000,Bart Simpson,Cletus's Shack,Ay carumba!
+135143,520,82,379000,Bart Simpson,Cletus's Shack,"Well you're gonna win, 'cause you've got star quality. Like the Hulk in movies other than ""The Hulk."""
+135144,520,83,384000,Mary,Cletus's Shack,You know what? Every now and then you say the perfect thing.
+135145,520,84,389000,Witney Spuckler,Cletus's Shack,"Mary, it's our turn to use the boyfriend room!"
+135146,520,85,392000,Mary,Cletus's Shack,Y'all don't have boyfriends!
+135147,520,86,394000,Jitney Spuckler,Cletus's Shack,We's gonna practice kissing with this French-Canadian mountain man.
+135148,520,87,398000,French-canadian Mountain Man,Cletus's Shack,Pourquoi m'avez-vous amené ici?
+135149,520,88,400000,Mary,Cletus's Shack,He's still wearing leg shackles.
+135150,520,89,402000,Jitney Spuckler,Cletus's Shack,All men is unpolished stones.
+135151,520,90,405000,French-canadian Mountain Man,Cletus's Shack,Où est le whiskey que vous m'avez promis?
+135153,520,92,410000,Bart Simpson,Simpson Home,...and then I ran right home to you.
+135154,520,93,412000,Milhouse Van Houten,Simpson Home,"You did everything great, Bart. Then you told me all about it like a true gentleman. I can't wait to use your moves on Lisa."
+135155,520,94,419000,Lisa Simpson,Simpson Home,"Ew! On every level! Ew! Bart, you have to treat girls like they matter -- not like they're a bunch of Milhice. What? It's the plural of Milhouse. Look it up."
+135156,520,95,430000,Homer Simpson,Simpson Home,"Listen to your sister, boy."
+135157,520,96,432000,Lisa Simpson,Simpson Home,"What I'm saying applies to you too, Dad."
+135158,520,97,435000,Homer Simpson,Simpson Home,What are you talkin' about? Marge and I are goin' great.
+135159,520,98,438000,Marge Simpson,Simpson Home,Homer Simpson! Did you take Maggie to Moe's?
+135160,520,99,441000,Homer Simpson,Simpson Home,It was during Happy Hour. Don't you want our baby to be happy?
+135161,520,100,444000,Lisa Simpson,Simpson Home,"Don't you see, you're taking women for granted. And aside from being lumped together and generalized about, it's the one thing all women hate."
+135162,520,101,453000,Homer Simpson,Simpson Home,How can something that applies to Bart apply to me? I'm so much older and wiser.
+135163,520,102,459000,Bart Simpson,Simpson Home,More like balder and wider.
+135164,520,103,461000,Homer Simpson,Simpson Home,Why you little... I'll teach you to say something that sounds similar!
+135168,520,107,474000,HILLBILLY M.C.,COMMUNITY CENTER,"Thank you, last contestant. Tomorrow we will feature the no-longer racist country comedy of Barry the Satellite TV Guy."
+135169,520,108,482000,Barry the Satellite TV Guy,COMMUNITY CENTER,Isn't it funny how all people are of equal worth? Please do not boycott my line of power tools.
+135170,520,109,489000,HILLBILLY M.C.,COMMUNITY CENTER,Now all Barry's jokes are about his ex-wife.
+135171,520,110,492000,Barry the Satellite TV Guy,COMMUNITY CENTER,No they ain't. We're back together.
+135172,520,111,493000,HILLBILLY M.C.,COMMUNITY CENTER,"Then you got no act. And now, the winner is:"
+135173,520,112,502000,HILLBILLY M.C.,COMMUNITY CENTER,Devon Peacock!
+135174,520,113,503000,Devon Peacock,COMMUNITY CENTER,I can finally get my suspender buckled!
+135175,520,114,510000,Cletus Spuckler,COMMUNITY CENTER,Looks like we got a feud with the Peacocks now.
+135176,520,115,514000,Cletus Spuckler,COMMUNITY CENTER,Uh-huh.
+135177,520,116,515000,Mary,COMMUNITY CENTER,"All I care is what you think, Bart."
+135178,520,117,517000,Lisa Simpson,COMMUNITY CENTER,Compliment her!
+135179,520,118,519000,Bart Simpson,COMMUNITY CENTER,I don't know what she wants. What would my heroes say?
+135180,520,119,523000,SUPERHERO WITH CLAWS,COMMUNITY CENTER,"Slash her face now, Bart. Slash it while she least expects it."
+135181,520,120,527000,Max Weinberg,COMMUNITY CENTER,"Bart, tell Mary to play the drums -- the only thing anyone listens to in any band."
+135182,520,121,531000,Bart Simpson,COMMUNITY CENTER,It's hard to pick just one of those.
+135183,520,122,533000,Max Weinberg,COMMUNITY CENTER,"Bart, you'd better get your act together. And me too. I've gotta get these shirts to the drycleaners."
+135184,520,123,538000,Max Weinberg,COMMUNITY CENTER,They close at six!!!
+135185,520,124,540000,Mary,COMMUNITY CENTER,"Bart Simpson, you get out of that gosh-darned fugue state this instant! Lift my spirits!"
+135186,520,125,545000,Bart Simpson,COMMUNITY CENTER,"Um... lifting people's spirits is an interesting topic. For centuries, Neanderthal and astronaut alike have enjoyed lifting spirits."
+135187,520,126,553000,Mary,COMMUNITY CENTER,You're givin' me book report talk?
+135188,520,127,556000,Brazilian Man,COMMUNITY CENTER,"Excuse me, I am a Brazilian record producer. I concentrate in the rapidly-growing jug band-samba fusion market."
+135189,520,128,563000,Mary,COMMUNITY CENTER,Oh my God! Do you know Billy-Bobaloo Skeeter-Rodriguez?
+135190,520,129,567000,Brazilian Man,COMMUNITY CENTER,"Know him? Before he was famous he kidnapped my mother! Mary, would you like to have dinner with me and my handsome, girl-crazy son tonight?"
+135191,520,130,575000,Brazilian 12-year-old Boy,COMMUNITY CENTER,I am the first boy to get my own liquor ad.
+135192,520,131,580000,Mary,COMMUNITY CENTER,Bart? You wanna come with us? I need you.
+135193,520,132,584000,Bart Simpson,COMMUNITY CENTER,"Mary, we've just been through three hours of music. Usually, I only have music one hour a week, and the teacher spends it reading real estate listings for Fire Island."
+135194,520,133,592000,Mary,COMMUNITY CENTER,"I'll see you later, Bart."
+135195,520,134,594000,Bart Simpson,COMMUNITY CENTER,Mary? Are you okay?
+135196,520,135,595000,Mary,COMMUNITY CENTER,Sure. Everything's fine.
+148428,520,136,599000,Adult Bart,COMMUNITY CENTER,"At that moment, I had a vision of every time in my life an angry woman would say ""Everything's fine."""
+148429,520,137,599000,Adult Bart,COMMUNITY CENTER,I guess it's just me and the dog.
+135197,520,139,615000,Elderly Woman,COMMUNITY CENTER,Everything's fine...
+135198,520,140,618000,Elderly Woman,COMMUNITY CENTER,Now.
+135200,520,142,634000,Bart Simpson,South Street Squidport,Melvis? Where's Mary?
+135201,520,143,636000,Melvis,South Street Squidport,I brung you regrets from my sister. She has been de-avoidably untained.
+135202,520,144,641000,Bart Simpson,South Street Squidport,Am I getting dumped?
+135203,520,145,645000,Caricature,South Street Squidport,"Okay Bart, maybe you blew it by taking Mary for granted. Women are life's great mystery, along with why do they give you salt and pepper at a Chinese restaurant. But if you want one more shot, I know a date that'll turn this mighty Aphrodite into your purple rose of Cairo. Those are movies I made -- my oeuvre. Sounds dirty, but it's not."
+135205,520,147,679000,Caricature,Art Movie House,Everyone's fast asleep. It's like my second wedding night. Except more walkouts and there were no refunds. Gee...
+135207,520,149,690000,Squeaky-Voiced Teen,INSPIRATION POINT,Can I see you tomorrow night?
+135208,520,150,692000,Shauna Chalmers,INSPIRATION POINT,Sure. I'll be here with my other boyfriend. He's watching us now.
+135209,520,151,695000,Squeaky-Voiced Teen,INSPIRATION POINT,Oh boy...
+135210,520,152,699000,Kirk Van Houten,INSPIRATION POINT,"Okay Luann, it's all settled. We'll ditch Milhouse!"
+135211,520,153,702000,Mary,INSPIRATION POINT,"Bart, I think it's best if we ""take a break."""
+135212,520,154,706000,Bart Simpson,INSPIRATION POINT,Good idea. I can chuck eggs at the other couples.
+135213,520,155,709000,Mary,INSPIRATION POINT,"Just hug me, dummy."
+135214,520,156,718000,Bart Simpson,INSPIRATION POINT,Back pats?! This is a break up!
+135215,520,157,724000,Mary,INSPIRATION POINT,You'll be fine: there's a pot for every possum.
+135217,520,158,727000,Bart Simpson,INSPIRATION POINT,Give me another chance. I'll be way more attentive to your needs on the seesaw -- I'll stay down there for as long as you want.
+135218,520,159,733000,Mary,INSPIRATION POINT,"Sorry, Bart, I'm a hillbilly girl of thirteen. If I'm not married in the next few months, nobody's gonna want me. Not even Ol' Joe Clabby."
+135219,520,160,741000,Ol' Joe Clabby,INSPIRATION POINT,"Hey, you're a pretty li'l thing, you are. But, tick-tock, tick-tock."
+135220,520,161,745000,Mary,INSPIRATION POINT,"Goodbye, Bart."
+135221,520,162,747000,Brandine Del Roy,INSPIRATION POINT,"Aw, sweetie. I told you this would happen if you dated outside the family."
+135223,520,164,756000,Chief Wiggum,INSPIRATION POINT,"Move along, relationship's over."
+135224,520,165,759000,Chief Wiggum,INSPIRATION POINT,Sure do like forcing people to leave areas.
+135226,520,167,765000,Marge Simpson,Simpson Home,I was the only one without a date at Patty's new lady friend's travel bookstore soft opening!
+135227,520,168,770000,Homer Simpson,Simpson Home,You told me it was up to me if I wanted to go!
+135228,520,169,773000,Marge Simpson,Simpson Home,You should know that me saying I don't care means I couldn't care more.
+135229,520,170,777000,Homer Simpson,Simpson Home,I am sick and tired of trying to decode you like you're some kind of human being separate from myself!!!
+135230,520,171,784000,Marge Simpson,Simpson Home,"Bart, would you go to your room while your father and I finish our little talk?"
+135231,520,172,787000,Bart Simpson,Simpson Home,"Little talk? You guys are having a big fight! This is the problem with women! They don't say what they mean, until it's too late!"
+135232,520,173,794000,Marge Simpson,Simpson Home,"All right. Fine. If you boys want it, I'll tell you what I really think."
+135233,520,174,799000,Homer Simpson,Simpson Home,"Finally, we're gettin' somewhere."
+135234,520,175,802000,Marge Simpson,Simpson Home,"You're both in the doghouse, which is misleading 'cause I still like the dog."
+135235,520,176,809000,Homer Simpson,Simpson Home,"Hand me my suitcase, boy."
+135236,520,177,812000,Bart Simpson,Simpson Home,When do I get a Krusty suitcase?
+135237,520,178,813000,Homer Simpson,Simpson Home,When you're older.
+135240,520,181,821000,Bart Simpson,Building,So this is where you go when Mom kicks you out?
+135241,520,182,823000,Homer Simpson,Building,"You're saying it like it happens all the time. And by the way, the paint's a little faded on my parking spot. You call this a Platinum Club experience?"
+135242,520,183,832000,Front Desk Man,Building,"We'll get right on it, Mr. Simpson."
+135243,520,184,834000,Homer Simpson,Building,"I've told you a thousand times, call me Homer!"
+135244,520,186,839000,Bart Simpson,Apartment Building,What's this notice on the wall?
+135245,520,187,841000,Homer Simpson,Apartment Building,Standard hotel boilerplate. It just says somebody died in this room in the last seventy-two hours.
+135246,520,188,845000,Bart Simpson,Apartment Building,"Aw, man! We just missed it."
+135247,520,189,848000,Homer Simpson,Apartment Building,"Oh, it'll happen again, son."
+135248,520,190,849000,Bart Simpson,Apartment Building,"Um, I've gotta make a phone call."
+135249,520,191,851000,Homer Simpson,Apartment Building,Knock yourself out.
+135250,520,192,855000,Homer Simpson,Apartment Building,Not again!
+135252,520,194,859000,Bart Simpson,Brokewood Apartments,"Mary? That's odd, I thought I was calling the Suicide Not Line. Because I'm doin' great. So, um, how are you handling ""taking a break?"""
+135253,520,195,868000,Mary,Brokewood Apartments,Great! It turns out Adele was right: ain't nothin' better for songwritin' than when your relationship takes a bolt to the brain. Tell me what you think:
+135254,520,196,878000,Mary,Brokewood Apartments,I BROKE UP WITH A FELLA BUT I AIN'T GRIEVIN' / HE WAS MUCH TOO PROUD OF UNDERACHIEVIN'
+135255,520,197,890000,Mary,Brokewood Apartments,"I CAN'T BELIEVE I LIKED HIM, I MUST HAVE BEEN BLIND"
+135256,520,198,896000,Mary,Brokewood Apartments,HE WASN'T SO SMART OR HANDSOME OR KIND...EVERY MOMENT WITH THAT BOY WAS TOTALLY HORRID / AND I CAN'T EVEN TELL WHERE HIS HAIR MEETS HIS FOREHEAD.
+135257,520,199,912000,Bart Simpson,Brokewood Apartments,Why did I buy her that rhyming dictionary?
+135258,520,200,915000,Mary,Brokewood Apartments,"MY EYES ARE WIDE OPEN, NOW I SEE HIS WARTS / I WISH HIM WELL, DOWN IN HELL, WHERE HE'LL EAT HIS OWN SHORTS! It just poured out of me, like venom from a snake!"
+135259,520,201,934000,Homer Simpson,Brokewood Apartments,I had this idea years ago...but your mother wouldn't let me do it.
+135260,520,202,938000,Homer Simpson,Brokewood Apartments,Shows how much she... knooooows! It's hurting my eyes!
+135262,520,204,948000,Kicked-out Husband #1,Apartment Building,It's so great here -- no wife to get mad at you for closing your laptop whenever they walk into the room.
+135263,520,205,953000,Kicked-out Husband #2,Apartment Building,"Or getting her kid hooked on pot. She's my kid too, you know."
+135264,520,206,958000,Homer Simpson,Apartment Building,"You know what we need? A classic ""kicked outta the house"" party. Now who's got a rockin' CD?"
+135265,520,207,963000,Kicked-out Husband #1,Apartment Building,"I've got the audio book of Robert Caro's ""The Passage of Power."""
+135266,520,208,966000,Homer Simpson,Apartment Building,"That's it? Well, then let's ""power"" this party up!"
+135268,520,209,973000,Robert A. Caro,Apartment Building,"""AIR FORCE ONE, the President's plane, is divided, behind the crew's cockpit, into three compartments. In the first of them, just behind the cockpit, women sat weeping and Secret Service agents were trying to hold back tears ..."
+135269,520,210,996000,Bart Simpson,Apartment Building,I miss Mary.
+135270,520,211,998000,Kicked-out Husband #2,Apartment Building,I miss Roxie. That's the club where I used to smoke pot with my kid.
+135271,520,212,1002000,Homer Simpson,Apartment Building,This calls for decisive action -- like L.B.J.'s use of the period of mourning following the assassination to push through the Civil Rights Act.
+135272,520,213,1009000,Kicked-out Husband #1,Apartment Building,But how do we figure out what to do?
+135273,520,214,1011000,Homer Simpson,Apartment Building,"The same way Hollywood does, by watching British movies!"
+135275,520,216,1018000,Prime Minister,COMMON ROOM,"The Prime Minister... that is to say I... would like to make an emergency declaration... of love... to my poor, but cheeky secretary."
+135276,520,217,1026000,Secretary,COMMON ROOM,"What, me? Eliza Commonbottom?"
+135277,520,218,1028000,Prime Minister,COMMON ROOM,I... that is to say... Flibberty-gibberty...
+135278,520,219,1042000,ALAN RICKMAN,COMMON ROOM,Love is more powerful than all my magic.
+135279,520,220,1045000,Bart Simpson,COMMON ROOM,Hard to believe that country used to rule anything.
+135280,520,221,1048000,Homer Simpson,COMMON ROOM,"Agreed, but to win back our women we need to make a grand romantic gesture."
+135281,520,222,1053000,Men,COMMON ROOM,Hear hear!
+135282,520,223,1054000,Homer Simpson,COMMON ROOM,After we finish watching the movie.
+135284,520,225,1067000,Marge Simpson,Simpson Home,Mmm! Cursive!
+135285,520,226,1071000,Marge Simpson,Simpson Home,"""You are invited to... a grand gesture?"" Oooh!"
+135288,520,229,1087000,Homer Simpson,Brokewood Apartments,I WROTE THIS SONG TO SAY I'M SORRY
+135289,520,230,1090000,Bart Simpson,Brokewood Apartments,"DAD, DON'T BE A CREDIT HOG"
+135290,520,231,1093000,Homer Simpson,Brokewood Apartments,THE MELODY IS BY BEETHOVEN
+135291,520,232,1096000,Bart Simpson,Brokewood Apartments,NOT BAD FOR A MOVIE DOG.
+135292,520,233,1099000,Kicked-out Husband #1,Brokewood Apartments,I'LL STOP EATING FROM THE GARBAGE
+135293,520,234,1102000,Homer Simpson,Brokewood Apartments,MARGE YOU WILL GET THE LAST PORK CHOP...
+135295,520,236,1110000,Marge Simpson,Brokewood Apartments,A completed chore list!
+135296,520,237,1113000,Homer Simpson,Brokewood Apartments,And I promise to do the things I checked off within a year.
+135267,520,239,1122000,Bart Simpson,Brokewood Apartments,"SPUCKLER MARY, PLEASE FORGIVE ME / ALL I ASK IS ONE MORE CHANCE..."
+135298,520,240,1128000,Mary,Brokewood Apartments,"Bart... you're a good duck, but we wouldn't last."
+135299,520,241,1132000,Bart Simpson,Brokewood Apartments,But I'm the main guy in this story! Things are supposed to work out for me!
+135300,520,242,1136000,Brazilian 12-year-old Boy,Brokewood Apartments,"Everyone is the main guy in their own story. My friend, welcome to my story."
+148431,520,244,1152000,Adult Bart,LIMBO BACKGROUND,And that's when I learned Cupid was just a fat naked jerk with an arrow.
+135323,520,245,1156000,Adult Lisa,LIMBO BACKGROUND,But surely you didn't give up on love after just one setback. Love is our only defense against the abyss in this meaningless universe.
+148432,520,246,1164000,Adult Bart,LIMBO BACKGROUND,"Love? What is it? What does it mean? How do you spell it? No one knows. Fortunately, there is a cure -- any videogame ever made."
+135302,520,247,1174000,Video Game Woman,LIMBO BACKGROUND,"Remember, this game is for age fourteen or under. If you are older than that, please get help. Get help. Get help."
+148433,520,248,1185000,Adult Bart,LIMBO BACKGROUND,Married?
+135303,520,250,1201000,Futuristic Computer,LIMBO BACKGROUND,One message received from...
+135304,520,251,1205000,Mary,LIMBO BACKGROUND,The Widow Mary Spuckler!
+135305,520,252,1206000,Bart Simpson,LIMBO BACKGROUND,Woo hoo!
+135306,520,253,1207000,Caricature,LIMBO BACKGROUND,"Well done, Bart. You played that like a combination of Willie Mays and Paul Cezanne."
+135307,520,254,1213000,Bart Simpson,LIMBO BACKGROUND,Who are you?
+135308,520,255,1214000,Caricature,LIMBO BACKGROUND,"You know, I played the ant in ""Antz."" The lesser-known of the ""Ant"" movies."
+135309,520,256,1220000,Bart Simpson,LIMBO BACKGROUND,Oh yeah!

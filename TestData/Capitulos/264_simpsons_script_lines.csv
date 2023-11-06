@@ -1,0 +1,261 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+66058,264,1,85000,Commercial Announcer,SUBURBAN KITCHEN,"Hey, kids! Look who's making breakfast!"
+66059,264,2,88000,Boy,SUBURBAN KITCHEN,Itchy and Scratchy?!
+66060,264,3,90000,Scratchy,SUBURBAN KITCHEN,"That's right, kids!"
+66061,264,4,92000,Itchy,SUBURBAN KITCHEN,Never start the day on an empty stomach.
+66062,264,5,98000,Scratchy,SUBURBAN KITCHEN,It's delicious! Wanna try?
+66063,264,6,100000,Girl,SUBURBAN KITCHEN,Yay!
+66064,264,7,105000,Scratchy,SUBURBAN KITCHEN,"Oo, so cold!"
+66065,264,8,109000,Boy,SUBURBAN KITCHEN,"Wow, pink daggers!"
+66066,264,9,110000,Girl,SUBURBAN KITCHEN,Green hatchets!
+66067,264,10,112000,Boy,SUBURBAN KITCHEN,Yellow ice picks!
+66068,264,11,113000,Scratchy,SUBURBAN KITCHEN,And Stabby-Oh's are part of this nutritious breakfast!
+66069,264,12,117000,Girl,SUBURBAN KITCHEN,"Hey, if you guys made breakfast, where's Mom?"
+66070,264,13,119000,Mom,SUBURBAN KITCHEN,Here I am!
+66071,264,14,121000,Mom,SUBURBAN KITCHEN,"But thanks to Stabby-Oh's, most of me is still in bed!"
+66073,264,16,126000,Lisa Simpson,Simpson TV Room,That ad campaign may have crossed a line.
+66074,264,17,128000,Homer Simpson,Simpson TV Room,What can you do? Sex sells.
+66075,264,18,132000,Marge Simpson,Simpson TV Room,"Homer, you're still here? You should've left for work an hour ago!"
+66076,264,19,136000,Homer Simpson,Simpson TV Room,"They said if I come in late again, I'm fired. I can't take that chance."
+66077,264,20,140000,Marge Simpson,Simpson TV Room,"And kids, you're gonna miss the school bus!"
+66078,264,21,144000,Marge Simpson,Simpson TV Room,It's only two blocks away!
+66081,264,24,151000,Bart Simpson,Simpson Home,But I gotta spit...
+66082,264,25,152000,Marge Simpson,Simpson Home,You can spit on the bus.
+66083,264,26,156000,Bart Simpson,Simpson Home,"Uh, Mom..."
+66084,264,27,157000,Marge Simpson,Simpson Home,"Not now, Lisa."
+66086,264,29,164000,Marge Simpson,Simpson Kitchen,"Chew, chew, chew! Swallow, swallow, swallow!"
+66088,264,31,175000,Bart Simpson,Street,Aw darn. Looks like we'll have to stay home today.
+66089,264,32,179000,Marge Simpson,Street,Not on my watch!
+66091,264,34,182000,Marge Simpson,School Bus,Stop! Stop!
+66092,264,35,184000,Otto Mann,School Bus,"Oh, you wanna drag?"
+66094,264,37,194000,Marge Simpson,Street,"I'm not racing! It's me, Marge Simpson!"
+66095,264,38,199000,Otto Mann,Street,"No, you eat my dust!"
+66098,264,41,216000,Milhouse Van Houten,Bus,"Whoa. It's like ""Speed 2,"" only with a bus instead of a boat."
+66101,264,44,230000,Marge Simpson,Marge's Car,I did it! I caught the school bus. Now hurry up and get on.
+66102,264,45,237000,Lisa Simpson,Marge's Car,"But Mom, the school's right here."
+66103,264,46,239000,Marge Simpson,Marge's Car,I won. Don't take that away from me.
+66105,264,48,247000,Otto Mann,Bus,"Okay, everybody off."
+66106,264,49,249000,Otto Mann,Bus,"Oops, almost forgot. Pickin' up a new kid today."
+66107,264,50,253000,Sherri Mackleberry,Bus,"Wow, a new kid!"
+66108,264,51,259000,Terri Mackleberry,Bus,I wonder what they're like...
+66114,264,57,279000,Terri Mackleberry,Bus,Red hair? What's she trying to pull?
+66115,264,58,282000,JANEY,Bus,Those shoes look Canadian.
+66116,264,59,284000,Freakish Kid,Bus,She'll never fit in.
+66117,264,60,288000,Lisa Simpson,Bus,"Oh, it's tough being the new kid. Someone should go talk to her."
+66118,264,61,293000,Bart Simpson,Bus,"Yeah, somebody should. One-hour dry cleaner. Man, that's fast."
+66120,264,63,299000,Homer Simpson,Simpson Home,Kids gone?
+66121,264,64,301000,Marge Simpson,Simpson Home,"Yep. It's great to have some time just to ourselves, huh?"
+66122,264,65,304000,Homer Simpson,Simpson Home,You read my mind. Sooo...
+66123,264,66,310000,Homer Simpson,Simpson Home,"This coffee's good, huh?"
+66124,264,67,312000,Marge Simpson,Simpson Home,Yeah. The uh... the milk really takes the edge off.
+66125,264,68,317000,Homer Simpson,Simpson Home,"You know, I think our marriage is..."
+66126,264,69,320000,Marge Simpson,Simpson Home,I got it!
+66127,264,70,320000,Homer Simpson,Simpson Home,I got it!
+66128,264,71,321000,Marge Simpson,Simpson Home,"No, I got it!"
+66129,264,72,321000,Homer Simpson,Simpson Home,"No, I do!"
+66130,264,73,322000,Saleswoman,Simpson Home,Your baby is dead.
+66133,264,75,326000,Saleswoman,Simpson Home,That's what you'd hear if your baby fell victim to the thousands of deathtraps lurking in the average American home.
+66134,264,76,333000,Marge Simpson,Simpson Home,"""Springfield Baby-Proofing""?"
+66135,264,77,336000,Homer Simpson,Simpson Home,You...you really scared us.
+66136,264,78,338000,Saleswoman,Simpson Home,"Sorry about that. But the truth is, your baby, Maggie Simpson, is dead!"
+66138,264,80,344000,Saleswoman,Simpson Home,Dead tired of baby-proofers who don't provide a free estimate. Let's start in the kitchen.
+66139,264,81,349000,Saleswoman,Simpson Home,"Now, pretend I'm a baby."
+66140,264,82,352000,Saleswoman,Simpson Home,Goo goo. Me wike to expwore.
+66141,264,83,356000,Homer Simpson,Simpson Home,That's a pretty big caboose for a baby.
+66142,264,84,358000,Marge Simpson,Simpson Home,"Homer! Don't be... Wow, that is huge."
+66143,264,85,362000,Saleswoman,Simpson Home,"Ooh, pwetty colors. Me wanna dwink."
+66144,264,86,383000,Marge Simpson,Simpson Home,She got it open.
+66145,264,87,385000,Saleswoman,Simpson Home,You see how quickly your baby could've been drinking this...
+66146,264,88,385000,Saleswoman,Simpson Home,Similac Baby Formula.
+66147,264,89,390000,Homer Simpson,Simpson Home,Noooo!
+66148,264,90,394000,Homer Simpson,Simpson Home,This is such an eye-opener. I always pictured the kids dying in the living room.
+66149,264,91,400000,Saleswoman,Simpson Home,"Okay, with the window bars, toilet latches, dingo alarm, and grapefruit-squirt shield, your total cost would be... Wow, I'm rich!"
+66150,264,92,406000,Homer Simpson,Simpson Home,Three dollars? That doesn't seem so bad.
+66151,264,93,410000,Saleswoman,Simpson Home,That's the price of the clipboard.
+66152,264,94,411000,Saleswoman,Simpson Home,Here's your estimate.
+66153,264,95,411000,Homer Simpson,Simpson Home,Mm hm. Hmmmm.
+66154,264,96,416000,Homer Simpson,Simpson Home,We don't need your high-priced safety junk!
+66155,264,97,419000,Homer Simpson,Simpson Home,Thank you.
+66157,264,99,426000,Bart Simpson,Springfield Elementary School Playground,"Look at the new kid, hoggin' the teeter-totter. It's like she owns the place."
+66158,264,100,432000,Milhouse Van Houten,Springfield Elementary School Playground,"Yeah, she thinks she's Babe: Pig in the City."
+66159,264,101,434000,Lisa Simpson,Springfield Elementary School Playground,Give her a break. Remember your first day at school?
+66160,264,102,438000,Milhouse Van Houten,Springfield Elementary School Playground,Not as long as I keep taking these.
+66161,264,103,442000,Lisa Simpson,Springfield Elementary School Playground,"Well, someone's gotta make her feel welcome."
+66162,264,104,445000,Lisa Simpson,Springfield Elementary School Playground,Hi there.
+66163,264,105,448000,Lisa Simpson,Springfield Elementary School Playground,My name's Lisa. What's yours?
+66165,264,107,460000,Homer Simpson,Simpson Kitchen,"Now don't feel bad, honey. Did you know back in grade school, I had a bully problem myself?"
+66167,264,109,467000,Homer Simpson,Springfield Elementary School Hallway,EVERYBODY WAS KUNG-FU FIGHTING...
+66168,264,110,473000,Homer Simpson,Springfield Elementary School Hallway,THOSE CATS WERE FAST AS LIGHTNING...
+66169,264,111,478000,Homer Simpson,Springfield Elementary School Hallway,Good times.
+66170,264,112,482000,Marge Simpson,Springfield Elementary School Hallway,Why don't you try reaching out to this new girl? See if you two have a common interest.
+66171,264,113,487000,Lisa Simpson,Springfield Elementary School Hallway,"Well, lots of people like jazz fusion..."
+66172,264,114,494000,Marge Simpson,Springfield Elementary School Hallway,"Okay, that's in the ""maybe"" file. What if you two bond over your Malibu Stacey dolls?"
+66173,264,115,501000,Lisa Simpson,Springfield Elementary School Hallway,"They're not dolls, they're aspiration figures. But it might work."
+66176,264,118,508000,Homer Simpson,Dining Room,That baby-proofing crook wanted to sell us safety covers for the electrical outlets.
+66177,264,119,512000,Homer Simpson,Dining Room,But I'll just draw bunny faces on them to scare Maggie away.
+66178,264,120,519000,Marge Simpson,Dining Room,She's not afraid of bunnies.
+66179,264,121,521000,Homer Simpson,Dining Room,She will be.
+66181,264,123,524000,Lisa Simpson,Springfield Elementary School,"Uh, Francine? I think we got off to a bad start so... Hey!"
+66182,264,124,529000,Lisa Simpson,Springfield Elementary School,"You like Malibu Stacey, too?"
+66183,264,125,533000,Francine Rhenquist,Springfield Elementary School,Oh yeah.
+66184,264,126,535000,Lisa Simpson,Springfield Elementary School,"And you like the same one I like -- with the Grad-student Glamour Pack... just like the one in my... ...locker. That's mine, isn't it?"
+66186,264,128,548000,Francine Rhenquist,Springfield Elementary School,Tastes like yours.
+66187,264,129,554000,Lisa Simpson,Springfield Elementary School,How about jazz? Do you like jazz?
+66188,264,130,558000,Milhouse Van Houten,Springfield Elementary School,I like jazz.
+66189,264,131,559000,Lisa Simpson,Springfield Elementary School,"Milhouse? She got you, too?"
+66190,264,132,561000,Milhouse Van Houten,Springfield Elementary School,"Yeah. But it's not so bad, I'm standin' on Ralph."
+66191,264,133,564000,Ralph Wiggum,Springfield Elementary School,We're a totem pole.
+66193,264,135,573000,Homer Simpson,Simpson Home,"See, honey, Daddy's protecting you from all the sharp scary things. Here, hold this a sec."
+66194,264,136,581000,Homer Simpson,Simpson Home,"Ow! Oh, my..."
+66195,264,137,585000,Homer Simpson,Simpson Home,"Okay Maggie, put it down."
+66132,264,138,589000,Homer Simpson,Simpson Home,"Okay, now. Put..."
+66196,264,139,591000,Homer Simpson,Simpson Home,It...
+66197,264,140,593000,Homer Simpson,Simpson Home,Down.
+66198,264,141,594000,Homer Simpson,Simpson Home,"Oh. Okay, that's quite enough, it's not funny anymore."
+66200,264,143,603000,Marge Simpson,Simpson Home,"No, no, no. Oh, Homie!"
+66201,264,144,609000,Homer Simpson,Simpson Home,Now do you realize how unsafe the American home is? Baby accidents occur every three minutes.
+66202,264,145,616000,Marge Simpson,Simpson Home,I'm the one who told you that.
+66203,264,146,618000,Homer Simpson,Simpson Home,"Yeah, but this is me talking. Look, I already encased the telephone in concrete."
+66204,264,147,622000,Marge Simpson,Simpson Home,How are you supposed to dial?
+66205,264,148,624000,Homer Simpson,Simpson Home,Reach into these holes. I use a carrot.
+66206,264,149,628000,Marge Simpson,Simpson Home,"Isn't that a little excessive? I mean, how are the buttons dangerous?"
+66207,264,150,631000,Homer Simpson,Simpson Home,Baby could order poison.
+66208,264,151,632000,Marge Simpson,Simpson Home,"Oh, that's ridiculous."
+66209,264,152,637000,Poison Service,Simpson Home,Poison Delivery Service. A gift-basket of poisons is on its way.
+66210,264,153,641000,Marge Simpson,Simpson Home,I'm a horrible mother.
+66211,264,154,642000,Homer Simpson,Simpson Home,"Of course you are. Marge, I've finally discovered the reason God made me: to protect his tiniest, most breakable creatures. And I've got to share that gift with the world."
+66212,264,155,656000,Homer Simpson,Simpson Home,Get her outta here.
+66214,264,157,661000,Nelson Muntz,Springfield Elementary School,Why ya throwing tomatoes at yourself? Huh? Why ya throwing tomatoes at yourself?
+66215,264,158,665000,Martin Prince,Springfield Elementary School,Your very question is faulty!
+66216,264,159,667000,Jimbo Jones,Springfield Elementary School,You're faulty!
+66217,264,160,670000,Lisa Simpson,Springfield Elementary School,Knock-knock...
+66218,264,161,671000,Nelson Muntz,Springfield Elementary School,What do you want?
+66219,264,162,673000,Lisa Simpson,Springfield Elementary School,Would you bullies be interested in some bodyguard work?
+66220,264,163,676000,Nelson Muntz,Springfield Elementary School,"Oh, this is so funny. We were just talking about moving into protection."
+66221,264,164,680000,DOLPH,Springfield Elementary School,We're offering a recess-and-lunch package that's very affordable.
+66222,264,165,683000,Lisa Simpson,Springfield Elementary School,Well I'm gonna need full coverage -- my bully is highly aggressive. Check out these Indian burns.
+66224,264,167,691000,Jimbo Jones,Springfield Elementary School,Triple twist! Nice work.
+66225,264,168,693000,Kearney Zzyzwicz,Springfield Elementary School,You sure this was done by hand?
+66226,264,169,694000,Lisa Simpson,Springfield Elementary School,"Yeah, she's a real purist."
+66227,264,170,697000,Nelson Muntz,Springfield Elementary School,"She?! Sorry, we don't do girls. They bite and kick and scratch..."
+66228,264,171,702000,DOLPH,Springfield Elementary School,And sometimes we fall in love...
+66230,264,173,705000,Lisa Simpson,Springfield Elementary School,Wow. There's so much I don't understand about bullying.
+66231,264,174,707000,Nelson Muntz,Springfield Elementary School,"Yeah, there's a lotta history there. Did you know it predates agriculture."
+66232,264,175,711000,Lisa Simpson,Springfield Elementary School,Um-um.
+66233,264,176,713000,Nelson Muntz,Springfield Elementary School,Let's walk.
+66234,264,177,716000,Nelson Muntz,Springfield Elementary School,Finish the job.
+66235,264,178,719000,Lisa Simpson,Springfield Elementary School,I just don't understand Francine's motivation.
+66236,264,179,721000,Lisa Simpson,Springfield Elementary School,Why does she only go after the smart ones?
+66237,264,180,730000,Nelson Muntz,Springfield Elementary School,That's like asking the square root of a million. No one will ever know.
+66238,264,181,734000,Lisa Simpson,Springfield Elementary School,Someone will. I'm gonna crack the bully code.
+66240,264,183,739000,Homer Simpson,Street,"Savin' those babies. And the soft spots on their heads do, do, do, do do..."
+66242,264,185,745000,Homer Simpson,Apu's Apartment,Problem: a pointy deity. And I've got the perfect solution.
+66243,264,186,753000,Apu Nahasapeemapetilon,Apu's Apartment,"Oh, thank you. No more Shiva-related pokings."
+66244,264,187,757000,Homer Simpson,Apu's Apartment,"Yeah, you know down the line, you might want to switch to a nice round Buddha."
+66246,264,189,761000,Apu Nahasapeemapetilon,Apu's Apartment,But we are Hindu.
+66247,264,190,763000,Homer Simpson,Apu's Apartment,"So am I, but I don't get all huffy about it."
+66249,264,192,766000,Groundskeeper Willie,Springfield Elementary School,"Ach, 'tis a mighty puddle-a puke."
+66250,264,193,805000,Wendell Borton,Springfield Elementary School,I'm sorry.
+66251,264,194,806000,Groundskeeper Willie,Springfield Elementary School,"Aw, that's all right, lad. It reminds me why I got into this business."
+66252,264,195,812000,Lisa Simpson,Springfield Elementary School,"Willie, I need to see the school security tapes."
+66253,264,196,815000,Groundskeeper Willie,Springfield Elementary School,Security tapes? There's no security tapes.
+66254,264,197,819000,Lisa Simpson,Springfield Elementary School,It's hard to miss the cameras.
+66255,264,198,824000,Groundskeeper Willie,Springfield Elementary School,"Aye, Willie's a stinkin' liar."
+66257,264,200,831000,Lisa Simpson,Video Surveillance Room,Why does the school need to watch us all the time?
+66258,264,201,835000,Groundskeeper Willie,Video Surveillance Room,School?
+66260,264,202,836000,Lisa Simpson,Video Surveillance Room,"Ooh, here's the tape I need."
+66261,264,203,837000,Groundskeeper Willie,Video Surveillance Room,Oh my God! That roll of towels is nearin' the end.
+66262,264,204,843000,Groundskeeper Willie,Video Surveillance Room,Ach! It's on double red stripe!
+66263,264,205,861000,Lisa Simpson,Video Surveillance Room,How did she know I was there?
+66264,264,206,869000,Lisa Simpson,Video Surveillance Room,"Hey, that time she looked right at me and didn't touch me."
+66265,264,207,875000,Lisa Simpson,Video Surveillance Room,Hmm...
+66266,264,208,878000,Lisa Simpson,Video Surveillance Room,Of course! The nose clip!
+66267,264,209,882000,Lisa Simpson,Video Surveillance Room,"Hey Willie, I think I'm onto something! Check this out!"
+66268,264,210,886000,Lisa Simpson,Video Surveillance Room,"Not talking, eh Willie? Just listen, then. I think I figured out what sets off that big ape Francine... Willie? Willie?"
+66270,264,212,910000,Lisa Simpson,Springfield Elementary School,"Come on, people! Move it! I want to see some sweat!"
+66271,264,213,914000,Martin Prince,Springfield Elementary School,I'm not mastering another stair until you explain the purpose of this monstrous experiment.
+66272,264,214,921000,Lisa Simpson,Springfield Elementary School,I believe the key to bully-nerd antagonism lies in your drippings.
+66273,264,215,925000,Martin Prince,Springfield Elementary School,Then I shall drip like a pot roast.
+66274,264,216,928000,Lisa Simpson,Springfield Elementary School,"Excellent, now don't mind the squeegee."
+66275,264,217,935000,Database,Springfield Elementary School,"Ah. Ah. The scraping seems wrong, but it feels so right."
+66276,264,218,943000,Drederick Tatum,Springfield Elementary School,"...And so, as Heavyweight Champion, recognized by nine of the fourteen sanctioning bodies, I sincerely urge you all to stay in school. Uh, thank you."
+66277,264,219,955000,Seymour Skinner,Springfield Elementary School,"Thank you, Drederick Tatum. That was truly a K.O. Knockout Oration."
+66278,264,220,962000,Edna Krabappel-Flanders,Springfield Elementary School,Need a ride home?
+66279,264,221,963000,Drederick Tatum,Springfield Elementary School,You really don't want that. Trust me.
+66280,264,222,966000,Lisa Simpson,Springfield Elementary School,"Mr. Tatum, do you mind if I swab you with this damp rag?"
+66281,264,223,970000,Drederick Tatum,Springfield Elementary School,"No, not at all. Swab away."
+66282,264,224,972000,Drederick Tatum,Springfield Elementary School,"Whoa, whoa, no one mentioned a beaker."
+66283,264,225,975000,Lisa Simpson,Springfield Elementary School,Please? It's for science.
+66284,264,226,977000,Drederick Tatum,Springfield Elementary School,"Oh for science. In that case, proceed."
+66285,264,227,980000,Seymour Skinner,Springfield Elementary School,"Lisa, this is outrageous! Explain yourself!"
+66286,264,228,982000,Lisa Simpson,Springfield Elementary School,Shh. It's working. Look.
+66287,264,229,988000,Edna Krabappel-Flanders,Springfield Elementary School,"Nelson, what are you doing?!"
+66289,264,230,991000,Nelson Muntz,Springfield Elementary School,I don't know... I can't help myself.
+66290,264,231,995000,Drederick Tatum,Springfield Elementary School,"Hey, cut it out. I insist that you desist."
+66291,264,232,998000,Nelson Muntz,Springfield Elementary School,Sorry. I'm so sorry.
+66292,264,233,1002000,Lisa Simpson,Springfield Elementary School,Yes!
+66293,264,234,1007000,Nelson Muntz,Springfield Elementary School,Please don't hurt me.
+66294,264,235,1009000,Drederick Tatum,Springfield Elementary School,You leave me little recourse.
+66296,264,237,1011000,TV Announcer,Simpson Home,And now the Estrogen Network presents...
+66297,264,238,1011000,TV Announcer,Simpson Home,Afternoon Yak!
+66298,264,239,1019000,Female Host,Simpson Home,Men...
+66299,264,240,1022000,FEMALE AUDIENCE,Simpson Home,Booo!
+66300,264,241,1022000,Homer Simpson,Simpson Home,Canceled.
+66301,264,242,1023000,Kent Brockman,Simpson Home,"The safe-baby craze. It's sweeping Springfield, thanks to one crusading parent."
+66302,264,243,1029000,Homer Simpson,Simpson Home,That's me! Safety dance!
+66303,264,244,1031000,Homer Simpson,Simpson Home,YOU CAN DANCE / YOU CAN DANCE / EVERYBODY LOOK AT YOUR PANTS.
+66304,264,245,1036000,Kent Brockman,Simpson Home,"But while Homer Simpson has made our babies safe, he's made infant-related businesses cry. All the way away from the bank."
+66305,264,246,1043000,Kent Brockman,Simpson Home,How are your baby crutch sales?
+66306,264,247,1045000,Business Owner,Simpson Home,"Uh, terrible, Kent. And cartoon-character Band-Aids? Forget about it."
+66307,264,248,1049000,Dr. Julius Hibbert,Simpson Home,Look at this baby. Not a scratch on him. And I got boat payments.
+66308,264,249,1055000,Factory Owner,Simpson Home,"The dream is over. Shut her down, boys."
+66309,264,250,1063000,Homer Simpson,Simpson Home,"Dear God, what have I done?"
+66311,264,252,1066000,Homer Simpson,Springfield Streets,Babies of Springfield! We need your help! Please! Skin your knees! Put dice up your nose! Let cats sleep on your face!
+66314,264,255,1079000,Scientist #1,LECTURE HALL,The problem?
+66315,264,256,1080000,Scientist #1,LECTURE HALL,Constant flying saucer attacks. The solution?
+66316,264,257,1085000,Scientist #1,LECTURE HALL,"And thus, the Earth is saved."
+66317,264,258,1088000,Marge Simpson,LECTURE HALL,"That's quite an act to follow, Lisa."
+66318,264,259,1093000,Lisa Simpson,LECTURE HALL,"I know, and the crowd is so distinguished. The inventor of the walkie-talkie is out there."
+66319,264,260,1098000,Marge Simpson,LECTURE HALL,Where?
+66320,264,261,1099000,Lisa Simpson,LECTURE HALL,"Third row, near the aisle."
+66321,264,262,1101000,Marge Simpson,LECTURE HALL,"Ooh, you're right. And that's not his wife."
+66323,264,263,1105000,Professor Jonathan Frink,LECTURE HALL,"Scientists... Scientists, please... Looking for some order... some order please... with the eyes forward and the hands neatly... folded. And the pain. There'll be pain. Hmmm."
+66325,264,265,1114000,Professor Jonathan Frink,LECTURE HALL,Pi is exactly three!
+66327,264,267,1117000,Professor Jonathan Frink,LECTURE HALL,"Very, sorry that it had to come to that, but now that I have your attention, we have some exciting new research from young Lisa Simpson. Let's bring her out and pay attention."
+66328,264,268,1126000,Crowd,LECTURE HALL,What? / She's just a little girl... / Still in the larval stage... / Let's not listen...
+66329,264,269,1133000,Lisa Simpson,LECTURE HALL,"My study is entitled ""Airborne Pheromones and Aggression in Bullies""."
+66330,264,270,1133000,Crowd,LECTURE HALL,Bullies? / Where? / I'm afraid! / ETC.
+66331,264,271,1139000,Lisa Simpson,LECTURE HALL,"For as long as there have been smart people, there have been bullies to prey on them. From Galileo...To Sir Isaac Newton...And even in the animal kingdom..."
+66332,264,272,1151000,Lisa Simpson,LECTURE HALL,But why do the brawny prey on the brainy? Is it jealousy?
+66334,264,274,1157000,Lisa Simpson,LECTURE HALL,No. The reason is chemical.
+66336,264,276,1159000,Scientist #2,LECTURE HALL,Tha-that's impossible. Chemicals are our friends!
+66337,264,277,1163000,Scientist #3,LECTURE HALL,She's a witch!
+66338,264,278,1164000,Lisa Simpson,LECTURE HALL,"Please, Dr. Koop. Let me demonstrate."
+66339,264,279,1169000,Lisa Simpson,LECTURE HALL,"This is my test subject, Francine."
+66341,264,281,1176000,Lisa Simpson,LECTURE HALL,I'd like to thank her parents for helping with the caging.
+66342,264,282,1179000,Francine Rhenquist,LECTURE HALL,Lemme outta here!
+66343,264,283,1181000,Lisa Simpson,LECTURE HALL,"I have isolated the chemical which is emitted by every geek, dork, and four-eyes. I call it ""Poindextrose""."
+66344,264,284,1187000,Homer Simpson,LECTURE HALL,Woo hoo! Simpsons rule! Sorry.
+66345,264,285,1198000,Francine Rhenquist,LECTURE HALL,"You're dead, nerd!"
+66346,264,286,1200000,Lisa Simpson,LECTURE HALL,"The bully has caught my scent, and she's at maximum rage. Professor Frink?"
+66347,264,287,1204000,Professor Jonathan Frink,LECTURE HALL,"Very well, Lisa. I'll just finagle the glavin..."
+66348,264,288,1211000,Scientist #2,LECTURE HALL,"Are you mad, Frink? Put down that science pole!"
+66350,264,290,1220000,Francine Rhenquist,LECTURE HALL,Huh?
+66351,264,291,1223000,Scientist #1,LECTURE HALL,My God! She stopped in her tracks.
+66352,264,292,1225000,Scientist #2,LECTURE HALL,The little girl's invented some sort of bully repellent!
+66354,264,294,1229000,Lisa Simpson,LECTURE HALL,"Actually, it's just ordinary salad dressing."
+66356,264,296,1233000,Marge Simpson,LECTURE HALL,So that's where that went.
+66357,264,297,1234000,Lisa Simpson,LECTURE HALL,"The pungent vinegar and tangy Roquefort block the smell receptors, rendering the bully harmless."
+66358,264,298,1242000,Professor Jonathan Frink,LECTURE HALL,"Congratulations, Lisa. You are truly the standout of this year's Big Science Thing."
+66359,264,299,1248000,Lisa Simpson,LECTURE HALL,A gift certificate from J.C. Penney?
+66360,264,300,1251000,Professor Jonathan Frink,LECTURE HALL,"Yes, you'll love their slacks."
+66361,264,301,1254000,Marge Simpson,LECTURE HALL,"Oh, honey, we're so proud of you."
+66362,264,302,1258000,Homer Simpson,LECTURE HALL,So all her bullying was just to get some attention.
+66363,264,303,1262000,Lisa Simpson,LECTURE HALL,"No, Dad! Didn't you listen to anything I said?"
+66364,264,304,1265000,Homer Simpson,LECTURE HALL,Just to get some attention.
+66365,264,305,1268000,Professor Jonathan Frink,LECTURE HALL,"Lisa, help!"
+66366,264,306,1275000,Lisa Simpson,LECTURE HALL,The repellent's all gone!
+66367,264,307,1277000,Francine's Mom,LECTURE HALL,Don't worry. She'll punch herself out.
+66368,264,308,1279000,Francine Rhenquist,LECTURE HALL,"Suck fist, Doctor Dork!"
+66369,264,309,1281000,Francine's Dad,LECTURE HALL,Someone's gonna sleep well tonight.
+66370,264,310,1290000,Homer Simpson,LECTURE HALL,Pound that nerd.

@@ -1,0 +1,241 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+43066,188,1,38000,Homer Simpson,Springfield Streets,Stupid heater! Don't make me come in there!
+43067,188,2,41000,Marge Simpson,Springfield Streets,Why do you always wait until Christmas Eve to do your shopping? The crowds are just beastly.
+43068,188,3,47000,Homer Simpson,Springfield Streets,"You know me, Marge. I crave the hustle and bustle."
+43072,188,7,67000,Marge Simpson,Try-N-Save,Homer! Look at this mob! The good toys are probably all gone.
+43073,188,8,74000,Homer Simpson,Try-N-Save,"Oh, Santa's got a little trick up his sleeve."
+43074,188,9,78000,Homer Simpson,Try-N-Save,"Attention, shoppers. Register 9 is now open for your shopping convenience."
+43075,188,10,83000,Homer Simpson,Try-N-Save,"Sorry, these are for display only... This has been recalled... Oo, Bart would like this... We're out of these..."
+43076,188,11,87000,Shopper,Try-N-Save,Out?! But I just --
+43077,188,12,88000,Homer Simpson,Try-N-Save,Register 9 is now closed.
+43079,188,14,101000,Marge Simpson,Simpson Home,"Hey, kids, I made your favorite cookies -- Christmas trees for the girls, and bloody spear-heads for Bart."
+43080,188,15,108000,Bart Simpson,Simpson Home,"Aww, thanks, Mom."
+43082,188,17,116000,Lisa Simpson,Simpson Home,This year's tree is just perfect. That old aluminum one was so fake.
+43083,188,18,120000,Marge Simpson,Simpson Home,"I couldn't agree more. From now on, it's plastic all the way."
+43085,188,20,128000,Lisa Simpson,Simpson Home,"Bart, did you hear that?"
+43086,188,21,130000,Bart Simpson,Simpson Home,Could it be...?
+43088,188,24,145000,Homer Simpson,Simpson Home,"C'mon, kids. Let's try the lights!"
+43089,188,25,156000,Bart Simpson,Simpson Home,It's crap-tacular.
+43090,188,26,167000,Bart Simpson,Simpson Home,"""Hocus-pocus, mucus-pukus..."" My powers of deduction tell me you're getting a hand-made sweater. Possiblyyy yellow."
+43091,188,27,179000,Lisa Simpson,Simpson Home,Mom! Make him stop!
+43092,188,28,180000,Marge Simpson,Simpson Home,Bart! Put down that yellow sweater! Nobody's going near their presents until 7 o'clock tomorrow morning.
+43094,188,30,188000,Marge Simpson,Simpson Home,Seven A.M. No earlier. And you can't set your alarm clocks 'cause I got 'em!
+43095,188,31,195000,Marge Simpson,Simpson Home,For once we're gonna celebrate Christmas as a family.
+43096,188,32,199000,Grampa Simpson,Simpson Home,Hallooo? Anybody home?
+43097,188,33,210000,Bart Simpson,Simpson Home,"Ah, 12 glasses of water. That'll wake me up nice and early, and I'll have a big head-start on opening presents. Pure genius."
+43098,188,34,218000,Lisa Simpson,Simpson Home,"You didn't invent that, Bart. The Indians used to drink water to wake up early for their attacks."
+43099,188,35,224000,Bart Simpson,Simpson Home,"It's always about the Indians, isn't it, Lis?"
+43100,188,36,227000,Bart Simpson,Simpson Home,"Dear Santa. If you bring me lotsa good stuff, I promise not to do anything bad between now and when I wake up. Amen."
+43101,188,37,236000,Bart Simpson,Simpson Home,Owww! I'll kill you!
+43102,188,38,277000,Fans,Simpson Home,Go! Go! Go! / We're number 1!
+43103,188,39,280000,Cheerleader,Simpson Home,"Gimme a ""P""!"
+43104,188,40,280000,Fans,Simpson Home,"""P""! Go! Go! Go! ""P""! ""P""! ""P""!"
+43105,188,41,290000,Bart Simpson,Simpson Home,Worked like a charm.
+43106,188,42,292000,Bart Simpson,Simpson Home,Oh! Oh! Oh!
+43107,188,43,299000,Bart Simpson,Simpson Home,How sweet it is!
+43108,188,44,315000,Bart Simpson,Simpson Home,"Oh, Aunt Selma. Always good for a fin. Whoa-ho-ho. Here we go."
+43109,188,45,327000,Bart Simpson,Simpson Home,The Inferno-buster 3000! I knew Santa wouldn't have time to check that list twice.
+43110,188,46,336000,Bart Simpson,Simpson Home,Whoa... Yeah...
+43111,188,47,340000,Bart Simpson,Simpson Home,Cool...
+43112,188,48,345000,Bart Simpson,Simpson Home,Uh-oh.
+43113,188,49,349000,Bart Simpson,Simpson Home,Eep.
+43115,188,51,364000,Bart Simpson,Simpson Home,Who designed this house?!
+43117,188,53,380000,Marge Simpson,Simpson Home,Homer! I think I heard a noise.
+43120,188,56,392000,Homer Simpson,Simpson Home,Knock it off...
+43122,188,57,405000,Bart Simpson,Simpson Home,"Snow covers all. Pure, white snow."
+43123,188,58,419000,Bart Simpson,Simpson Home,I gotta get back to bed!
+43125,188,60,423000,Marge Simpson,Simpson Home,What happened?
+43126,188,61,426000,Homer Simpson,Simpson Home,"What the-- Where's Christmas? Lisa, where's Christmas?"
+43127,188,62,431000,Lisa Simpson,Simpson Home,"Bart, what were you doing outside?"
+43128,188,63,436000,Bart Simpson,Simpson Home,"I don't know how to tell you this, but... I came down a little early and... um... well... uh..."
+43129,188,64,436000,Bart Simpson,Simpson Home,I saw - a burglar and he was - he took - and he got all our stuff. Including the tree.
+43130,188,65,457000,Marge Simpson,Simpson Home,We were robbed?
+43131,188,66,459000,Bart Simpson,Simpson Home,Uh huh. Uh huh. Uh huh.
+43132,188,67,462000,Marge Simpson,Simpson Home,How could somebody...?
+43133,188,68,463000,Bart Simpson,Simpson Home,I know...
+43134,188,69,466000,Homer Simpson,Simpson Home,Can - we - skip - church?
+43135,188,70,477000,Chief Wiggum,Simpson Home,"Now, um, what did this, ah, Christmas thief look like?"
+43136,188,71,481000,Bart Simpson,Simpson Home,"Well, he had a glass eye, a wooden leg, um... big scar on his cheek..."
+43137,188,72,487000,Chief Wiggum,Simpson Home,Anything unusual?
+43138,188,73,489000,Bart Simpson,Simpson Home,"Hooks for hands. Um, oh, uh, and he was wearing a striped convict shirt. And he was carrying a big sack with a dollar sign on it."
+43139,188,74,496000,Lou,Simpson Home,Classic burglar.
+43140,188,75,498000,Chief Wiggum,Simpson Home,"Ahh, cheer up. We'll catch this guy."
+43141,188,76,501000,Lou,Simpson Home,"Uh, Chief..."
+43142,188,77,503000,Chief Wiggum,Simpson Home,What? You can't rule it out.
+43143,188,78,507000,Homer Simpson,Simpson Home,"Well, there's no easy way to say it, kids: God hates us."
+43144,188,79,511000,Bart Simpson,Simpson Home,"Hey, since when is Christmas just about the presents? Aren't we forgetting the true meaning of this day? The birth of Santa?"
+43145,188,80,518000,Marge Simpson,Simpson Home,Bart's absolutely right. This is the one day that shouldn't be about material things.
+43146,188,81,524000,Lisa Simpson,Simpson Home,"Hey, why don't we walk over to Grampa's and cheer up the old folks? That'll make us feel better."
+43147,188,82,530000,Homer Simpson,Simpson Home,"Okay, but they'll have to be pretty damn miserable to make me happy."
+43149,188,84,541000,Marge Simpson,Springfield Streets,Looks like the Flanders are having a nice Christmas.
+43150,188,85,544000,Homer Simpson,Springfield Streets,"Oh yeah? We'll show 'em. Come on, kids, pretend we've got new cross-country skis."
+43151,188,86,561000,Dr. Julius Hibbert,Springfield Streets,"Merry Christmas, Simpsons!"
+43152,188,87,569000,Homer Simpson,Springfield Streets,That's not as fun as it looks.
+43153,188,88,571000,Lisa Simpson,Springfield Streets,Nothing could be as fun as that looks.
+43154,188,89,573000,Milhouse Van Houten,Springfield Streets,"Hey, look what I got, Bart! A ""Tickle Me Krusty!"""
+43155,188,90,575000,Krusty Doll,Springfield Streets,"Hey, kid, get your finger outta there!"
+43157,188,92,579000,Milhouse Van Houten,Springfield Streets,Ow!
+43158,188,93,580000,Marge Simpson,Springfield Streets,Homer!
+43160,188,95,585000,Homer Simpson,Springfield Retirement Castle,"Lisa, you promised they'd be miserable. What the hell's goin' on?!"
+43161,188,96,588000,Grampa Simpson,Springfield Retirement Castle,"Oh, the pharmaceutical man come by! And he shot us full of Christmas cheer!"
+43162,188,97,596000,Jasper Beardly,Springfield Retirement Castle,I can't feel nothin' below my chin!
+43164,188,99,606000,Moe Szyslak,Moe's Tavern,"Sounds like you're having a rough Christmas, Homer. You know what I blame this on the breakdown of? Society."
+43165,188,100,612000,Homer Simpson,Moe's Tavern,"Yeah, you're right, Moe. You're always Moe."
+43166,188,101,617000,Barney Gumble,Moe's Tavern,"Homer, look! Your house is on TV!"
+43167,188,102,620000,Homer Simpson,Moe's Tavern,"You take that back, Barney!"
+43168,188,103,622000,Moe Szyslak,Moe's Tavern,"Nah, he's right, Homer."
+43169,188,104,624000,Homer Simpson,Moe's Tavern,"Stay out of this, old man."
+43170,188,105,626000,Kent Brockman,Moe's Tavern,"Dateline: Kent Brockman. I'm here at the scene of the Christmas burglary, where a creature was stirring last night. And what he was ""stirring"" was ""up trouble."""
+43171,188,106,627000,Kent Brockman,Moe's Tavern,"Is your husband or lover here, ma'am?"
+43172,188,107,638000,Marge Simpson,Moe's Tavern,No. My husband is... at church.
+43173,188,108,641000,Homer Simpson,Moe's Tavern,"Aw, that's my girl. I love you, Marjorie."
+43174,188,109,645000,Moe Szyslak,Moe's Tavern,"Yeah, she's quite a gal."
+43175,188,110,646000,Homer Simpson,Moe's Tavern,You shut up.
+43176,188,111,648000,Kent Brockman,Moe's Tavern,"So when you realized Christmas was ruined, how did you feel?"
+43177,188,112,652000,Marge Simpson,Moe's Tavern,How do you think I felt?
+43178,188,113,655000,Kent Brockman,Moe's Tavern,"Absolutely devastated. ""Absolutely devastated."" The words of a heart-broken mother. For there will be no fire truck for little Bart. No sweater for little Lisa. No Cajun sausage for little Homer..."
+43180,188,115,671000,Kent Brockman,Moe's Tavern,"So while you're home today eating your sweet, sweet holiday turkey, I hope you'll all choke just a little bit."
+42925,188,117,683000,Homer Simpson,Simpson Home,Lousy doormat.
+43183,188,118,687000,Marge Simpson,Simpson Home,Homer! You won't believe what's happened! It's a miracle!
+43184,188,119,690000,Homer Simpson,Simpson Home,"Oh, Marge, I don't wanna hear any more about that silver polish."
+43186,188,121,700000,Marge Simpson,Simpson Home,People saw our story on the news and they've opened their hearts to us!
+43187,188,122,704000,Captain Horatio McCallister,Simpson Home,"Arr, we just gave what we could."
+43188,188,123,707000,C. Montgomery Burns,Simpson Home,Does anyone have change for a button?
+43189,188,124,709000,Homer Simpson,Simpson Home,"Wow, this really restores your faith in..."
+43190,188,125,712000,Homer Simpson,Simpson Home,"Lisa, do you have to practice that stupid song now?!"
+43191,188,126,715000,Lisa Simpson,Simpson Home,"Sorry, Daddy."
+43192,188,127,717000,Ned Flanders,Simpson Home,"Hey, heard some no-goodnik stole your tree. Well we got a 30 footer, so you can have the top of ours."
+43193,188,128,723000,Homer Simpson,Simpson Home,"Thanks, Ted."
+43194,188,129,728000,Lisa Simpson,Simpson Home,"Bart, this is Patches, and what was your name?"
+43195,188,130,731000,Girl,Simpson Home,Poor Violet.
+43196,188,131,732000,Bart Simpson,Simpson Home,"Ohhh, I don't like where this is goin'."
+43197,188,132,734000,Patches,Simpson Home,Your story made everyone at the orphanage so sad. We want you to have this dollar we were saving.
+43198,188,133,742000,Bart Simpson,Simpson Home,"Please, I don't deserve this."
+43199,188,134,744000,Moe Szyslak,Simpson Home,"Hey, listen up, everybody! The Simpsons are the best friends I ever had. So I'm givin' them the tip jar from the bar!"
+43200,188,135,756000,Apu Nahasapeemapetilon,Simpson Home,"My goodness, there is over $15,000 here."
+43201,188,136,760000,Krusty the Clown,Simpson Home,Fifteen thousand missoulians?! Holy schlamola! What are you gonna do with all that kablingie?
+43202,188,137,766000,Marge Simpson,Simpson Home,"Well, if you mean the money, I suppose we'll just replace the items the burglar took from--"
+43203,188,138,771000,Edna Krabappel-Flanders,Simpson Home,"Bo-ring! Spend it on something fun! Go wild! Ha! Right, Seymour?"
+43204,188,139,775000,Seymour Skinner,Simpson Home,Yes. Something wild.
+43205,188,140,777000,Moe Szyslak,Simpson Home,"Yeah, enjoy."
+43206,188,141,778000,Crowd,Simpson Home,Get something fun!/ Something stupid!/
+43207,188,142,780000,Sideshow Mel,Simpson Home,You only live once!
+43208,188,143,782000,Apu Nahasapeemapetilon,Simpson Home,"Hey, speak for yourself."
+43209,188,144,783000,Homer Simpson,Simpson Home,"Marge, kids, let's go buy some happiness!"
+43210,188,145,791000,Crowd,Simpson Home,Yipee! / Woo hoo! / Ha! Ha! Ha! Ha! Ha! Ha!
+43211,188,146,791000,Poor Violet,Simpson Home,"God bless you, Bart Simpson. I'd kiss you, but doctor says I'm sick."
+43213,188,148,803000,Homer Simpson,KLIFF'S KAR CHALET,"Is this car $15,000?"
+43214,188,149,806000,Cliff,KLIFF'S KAR CHALET,"It is now. And because of your loss, folks, I'll throw in the undercoating for two hundred -- nooo, four hundred and ninety bucks."
+43215,188,150,815000,Homer Simpson,KLIFF'S KAR CHALET,What a deal! I'd be a sucker not to get it.
+43216,188,151,818000,Bart Simpson,KLIFF'S KAR CHALET,"I don't know about this, Dad. Shouldn't we give the money to charity or some...? Ow!"
+43217,188,152,822000,Cliff,KLIFF'S KAR CHALET,"Oh, I'm sorry. I jabbed you with my pen."
+43218,188,153,825000,Bart Simpson,KLIFF'S KAR CHALET,Ow! You're still doing it.
+43219,188,154,826000,Cliff,KLIFF'S KAR CHALET,"Yeah, I know."
+43221,188,156,827000,Lisa Simpson,Road,Here comes Santa Claus / Here comes Santa Claus / Right down Santa Claus Lane... Vixen and Blitzen all the reindeer pulling at the reins... / Oh what fun it is to ride in a one horse open sleigh...
+43222,188,157,839000,Bart Simpson,Road,Will this Christmas never end?
+43223,188,158,845000,Homer Simpson,Road,"Outta my way, snow-poke!"
+43224,188,159,848000,Marge Simpson,Road,"Slow down, Homer."
+43225,188,160,850000,Homer Simpson,Road,"Don't worry, honey. I know exactly what I'm --"
+43226,188,161,853000,Homer Simpson,Road,Oopsie.
+43227,188,162,855000,Marge Simpson,Road,Tap the brakes! Tap the brakes!
+43228,188,163,857000,Lisa Simpson,Road,Turn into the skid!
+43229,188,164,858000,Bart Simpson,Road,"No, away from the skid!"
+43230,188,165,859000,Bart Simpson,Road,Hit the brakes! / Floor it! / Stop! / To the left! / Head back!
+43231,188,166,861000,Homer Simpson,Road,Shut up! One at a time! Lisa?
+43232,188,167,864000,Lisa Simpson,Road,Bail out!
+43233,188,168,872000,Marge Simpson,Road,That was close.
+43234,188,169,882000,Homer Simpson,Road,I knew this would happen.
+43235,188,170,884000,Marge Simpson,Road,"Well, at least the burglar's having a merry Christmas."
+43237,188,172,893000,Marge Simpson,Simpson Home,Bart! You're up early.
+43238,188,173,894000,Bart Simpson,Simpson Home,I couldn't sleep.
+43239,188,174,895000,Marge Simpson,Simpson Home,What's wrong?
+43240,188,175,901000,Bart Simpson,Simpson Home,There was no burglar.
+43241,188,176,902000,Lisa Simpson,Simpson Home,No burglar? / What? / what's he mean?
+43242,188,177,904000,Bart Simpson,Simpson Home,I accidentally burned up the tree and the presents. I'm really sorry.
+43243,188,178,911000,Lisa Simpson,Simpson Home,Why you little...
+43244,188,179,914000,Homer Simpson,Simpson Home,"Lisa, no! Your hands are too weak!"
+43245,188,180,917000,Marge Simpson,Simpson Home,Stop that!
+43246,188,181,921000,Homer Simpson,Simpson Home,"I'm gonna kill you! / No, I'm killing him first! / Why you little... Bart, the next time you ever have... / You went too far..."
+43247,188,182,931000,Kent Brockman,Simpson Home,"Kent Brockman here for a follow-up with Springfield's favorite hard luck family, the Simpsons!"
+43248,188,183,936000,Kent Brockman,Simpson Home,"Folks, any words for the Christmas thief, if he's watching?"
+43249,188,184,940000,Homer Simpson,Simpson Home,"Yes, Kent. ""Hello, jerk. We may never find you, and we should probably all stop looking. But one thing's for sure: you do exist."""
+43250,188,185,952000,Kent Brockman,Simpson Home,"Strong words. Strong, bewildering words."
+43251,188,186,957000,Marge Simpson,Simpson Home,"Also, we want to thank the whole town for their generosity."
+43253,188,188,961000,Cameraman,Simpson Home,"Hey, look!"
+43254,188,189,962000,Cameraman,Simpson Home,It's little Bart's fire truck!
+43255,188,190,968000,Kent Brockman,Simpson Home,Little Lisa's sweater? Little Homer's sausage?! What in the name of holy hell is going on here?
+43256,188,191,974000,Homer Simpson,Simpson Home,"Oh, it's true! We weren't robbed! That part we made up! But the rest is true!"
+43257,188,192,981000,Bart Simpson,Simpson Home,"Wait! He's just covering for me! I destroyed the presents, then I buried the evidence. And I acted alone."
+43258,188,193,987000,Kent Brockman,Simpson Home,So the family never knew about any of this.
+43259,188,194,990000,Homer Simpson,Simpson Home,"Well, the boy told us. But that was after we filed a phony police report."
+43260,188,195,995000,Lisa Simpson,Simpson Home,And after we spent all the townspeople's money.
+43261,188,196,997000,Marge Simpson,Simpson Home,So you can see why my husband had to lie to you a moment ago.
+43263,188,198,1002000,Moe Szyslak,Moe's Tavern,So this was all a scam. And on Christmas.
+43264,188,199,1007000,Barney Gumble,Moe's Tavern,Yeah. Jesus must be spinning in his grave.
+43266,188,201,1010000,Poor Violet,SPRINGFIELD TV STORE,We gave them our vitamin money.
+43267,188,202,1015000,Store Owner,SPRINGFIELD TV STORE,"Hey! Hey! Shoo, ya lousy freeloaders! Come back when you get some parents."
+43269,188,204,1018000,Kent Brockman,Simpson Home,"In my long career, I've seen some pretty shabby things. But this putrid fraud out-stinks them all."
+43270,188,205,1027000,Cameraman,Simpson Home,And... cut.
+43271,188,206,1030000,Kent Brockman,Simpson Home,"I just want to thank you folks so much. This has turned out to be a great, great story for me."
+43272,188,207,1045000,Lisa Simpson,Simpson Home,I think they're running out of tomatoes.
+43273,188,208,1047000,Bart Simpson,Simpson Home,"Yeah, but they've still got plenty of pumpkins."
+43274,188,209,1050000,Marge Simpson,Simpson Home,"Oh, Homer. I'm so ashamed."
+43276,188,210,1053000,Homer Simpson,Simpson Home,"Relax, Marge. This'll all blow over."
+43279,188,213,1071000,Homer Simpson,Krusty Burger,"Oh, no. Look at the line!"
+43280,188,214,1073000,Moe Szyslak,Krusty Burger,"Oh, there they are."
+43281,188,215,1076000,Seymour Skinner,Krusty Burger,It's the Simpsons.
+43282,188,216,1077000,Moe Szyslak,Krusty Burger,"Aw, them stinkin' liars."
+43283,188,217,1079000,Ned Flanders,Krusty Burger,There goes Christmas dinner.
+43284,188,218,1081000,Edna Krabappel-Flanders,Krusty Burger,Ha.
+43285,188,219,1081000,Homer Simpson,Krusty Burger,Head of the line! A family could get used to being shunned. Huh? Huh?
+43286,188,220,1090000,Sullen Teen,Krusty Burger,"Hey, look, Sean! It's that family everybody hates!"
+43287,188,221,1094000,Sean,Krusty Burger,What-ever.
+43289,188,223,1098000,Lisa Simpson,Springfield Elementary School,"Um, Miss Hoover! Miss Hoover!"
+43290,188,224,1100000,Miss Hoover,Springfield Elementary School,"Forget it, Lisa. I'm not teaching you anything until I get my money back. Now turn your desk around and stop learning."
+43291,188,225,1110000,Miss Hoover,Springfield Elementary School,All the way.
+43292,188,226,1114000,Ralph Wiggum,Springfield Elementary School,"Hi, liar."
+43294,188,228,1118000,Homer Simpson,Springfield Nuclear Power Plant,"Run for your lives, everyone! This is not a drill!"
+43295,188,229,1122000,Lenny Leonard,Springfield Nuclear Power Plant,"Oh, right, yeah. Then while we're gone, you take our snacks, just like you took our money."
+43296,188,230,1128000,Carl Carlson,Springfield Nuclear Power Plant,"You tell him, Lenny."
+43298,188,232,1130000,Marge Simpson,Simpson Home,"""...You'll all get yours in hell, you lying, thieving, blanking blankers. Sincerely, Moe."""
+43299,188,233,1138000,Homer Simpson,Simpson Home,"Oh great, now we have to send him a card."
+43300,188,234,1142000,Marge Simpson,Simpson Home,"I know you're used to getting hate mail, but I'm not."
+43301,188,235,1146000,Homer Simpson,Simpson Home,There's only one way out. We've gotta give this greedy town its money back.
+43302,188,236,1150000,Lisa Simpson,Simpson Home,"But we don't have $15,000."
+43303,188,237,1153000,Marge Simpson,Simpson Home,Unless...
+43306,188,240,1165000,Alex Trebek,JEOPARDY STUDIO,"Aren't we forgetting something, Marge? You were down $5,200."
+43307,188,241,1169000,Marge Simpson,JEOPARDY STUDIO,But Mr. Trebek --
+43308,188,242,1170000,Alex Trebek,JEOPARDY STUDIO,I asked you before the game if you knew the rules and you said you did. Judges?
+43309,188,243,1175000,Lisa Simpson,JEOPARDY STUDIO,"Run, Mom!"
+43310,188,244,1181000,Goon #1,JEOPARDY STUDIO,She ain't gettin' the home version.
+43311,188,246,1186000,Lisa Simpson,Simpson Car,I guess we better get used to being pariahs.
+43312,188,247,1189000,Marge Simpson,Simpson Car,There's no shame in being a pariah.
+43314,188,249,1195000,Homer Simpson,Evergreen Terrace,"Oh no, there's that angry mob again."
+43315,188,250,1199000,Apu Nahasapeemapetilon,Evergreen Terrace,"Hey, look who's here, everybody."
+43316,188,251,1201000,Crowd,Evergreen Terrace,"Oh, hi! / Oh, hello! / Hello! / Hi! / Ha!"
+43317,188,252,1205000,Marge Simpson,Evergreen Terrace,"They've forgiven us. It's a miracle! You know, deep down, people are pretty g-- Hey, wait a minute! They're taking our stuff!"
+43319,188,254,1219000,Marge Simpson,Simpson Home,Good Lord!
+43321,188,256,1224000,Lenny Leonard,Simpson Home,Hot! Hot! Hot! Hot! Hot!
+43322,188,257,1233000,Krusty the Clown,Simpson Home,"If you're headin' for the medicine cabinet, I already been there."
+43323,188,258,1241000,Homer Simpson,Simpson Home,What the hell's goin' on?
+43324,188,259,1242000,Moe Szyslak,Simpson Home,"Well, we hated being mad at ya, Homer, so we decided to make things right."
+43325,188,260,1246000,Apu Nahasapeemapetilon,Simpson Home,"Consider your debt repaid, neighbor."
+43326,188,261,1248000,Seymour Skinner,Simpson Home,And then some.
+43327,188,262,1258000,Marge Simpson,Simpson Home,"Look, I know this has been a stressful holiday. But, in a way, having nothing reminds us how lucky we really are."
+43328,188,263,1268000,Lisa Simpson,Simpson Home,What?
+43329,188,264,1269000,Marge Simpson,Simpson Home,We still have each other. And isn't that the best gift of all?
+43330,188,265,1274000,Lisa Simpson,Simpson Home,But we would have had each other anyway.
+43331,188,266,1276000,Bart Simpson,Simpson Home,Yeah. Plus lots of other stuff.
+43332,188,267,1277000,Homer Simpson,Simpson Home,Maybe so. But there's one thing they forgot to take away from us. This washcloth.
+43333,188,268,1285000,Bart Simpson,Simpson Home,"Hey, that's my washcloth."
+43334,188,269,1286000,Homer Simpson,Simpson Home,The hell it is!
+43335,188,270,1288000,Homer Simpson,Simpson Home,"Gimme that! / Uh, gimme that! / No! / Let go! / Gimme that my washcloth! / I want it!"
+43336,188,271,1291000,Marge Simpson,Simpson Home,Stop this madness. It's just a washcloth.
+43337,188,272,1295000,Marge Simpson,Simpson Home,"Besides, it's mine. Yoink!"
+43338,188,273,1297000,Homer Simpson,Simpson Home,"Hey, she's getting away with the washcloth!"
+43339,188,274,1299000,Lisa Simpson,Simpson Home,Hey!
+43340,188,275,1299000,Bart Simpson,Simpson Home,Head her off at the stairs!
+43341,188,276,1308000,Marge Simpson,Simpson Home,I'm over here!
+43342,188,277,1315000,Bart Simpson,Simpson Home,She's going around the other side. Now get her!
+43343,188,278,1325000,Homer Simpson,Simpson Home,Go!
+43344,188,280,1327000,Homer Simpson,Simpson Home,"Oh, I got it! Oh, it's just a thread! It was... She's got... she's got the washcloth!"

@@ -1,0 +1,222 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+122312,472,2,18000,Marge Simpson,Evergreen Terrace,"Wrong holiday, stupid!"
+122313,472,3,23000,Mechanical Santa,Evergreen Terrace,Ho! Ho! Ho! Ho! Ho! Ho! Ho! Ho! Ho! Ho! Ho! Ho! Ho!
+122314,472,4,29000,Marge Simpson,Evergreen Terrace,I could use some help!
+122275,472,6,31000,Homer Simpson,Simpson Home,"Marge, I'm watching a rerun of an important Bowl game."
+122315,472,7,35000,Football Announcer,Simpson Home,And that last touchdown makes it sixty-seven to thirteen.
+122316,472,8,37000,Homer Simpson,Simpson Home,Maggie.
+122317,472,9,39000,Marge Simpson,Simpson Home,"Lisa, what are you doing?"
+122318,472,10,41000,Lisa Simpson,Simpson Home,"Marking a crime scene. To celebrate a ancient pagan ritual, this tree was cut down and tarted up like a dime-a-dance floozy."
+122319,472,11,51000,Marge Simpson,Simpson Home,Next you'll have a problem with my gingerbread house.
+122320,472,12,54000,Lisa Simpson,Simpson Home,You mean your gingerbread McMansion.
+122321,472,13,59000,Homer Simpson,Simpson Home,"Hey, show some respect. Three gingerbread workmen died making that."
+122322,472,14,64000,Homer Simpson,Simpson Home,"I'm sorry, but this leg's gonna have to go."
+122323,472,15,69000,Homer Simpson,Simpson Home,You're gonna be okay.
+122324,472,16,71000,Homer Simpson,Simpson Home,It's almost over.
+122325,472,17,73000,Homer Simpson,Simpson Home,Now to take care of the witnesses.
+122326,472,18,76000,Bart Simpson,Simpson Home,"Hey, I need those cookies for Santa."
+122327,472,19,79000,Marge Simpson,Simpson Home,At least someone around here's got the Christmas spirit.
+122328,472,20,84000,Bart Simpson,Simpson Home,"Yep. Come midnight, I'll be sittin' here with cold cookies, warm milk, and hot lead."
+122329,472,21,90000,Marge Simpson,Simpson Home,What?
+122330,472,22,90000,Bart Simpson,Simpson Home,"For the last three years, I've asked that rosy-cheeked nog-hog for a dirt bike. And all he brought me was a zillion lame-o toys that I immediately broke and threw in this bag."
+122331,472,23,102000,Marge Simpson,Simpson Home,But you wanted those toys.
+122332,472,24,105000,Bart Simpson,Simpson Home,I wanted them till I got them! But this year I'm gettin' my dirt bike.
+122333,472,25,111000,Marge Simpson,Simpson Home,Even Mac Davis himself couldn't save this Christmas.
+122334,472,26,114000,Bart Simpson,Simpson Home,"Great, Mom. Now I lost track of my pump count. One pump, two pump..."
+122336,472,28,128000,Bart Simpson,Simpson Home,"Bowl full of jelly, pump lead in his belly..."
+122337,472,29,135000,Bart Simpson,Simpson Home,Wha?
+122338,472,30,137000,Conductor,Simpson Home,All aboard the Polar Express!
+122339,472,31,139000,Otto Mann,Simpson Home,"Direct service to the North Pole, with stops at Candy Cane Corners, Sugarplum Square, Jack Frost Junction, Fa La La La Lane, Nutcracker Street, and Hanukah Heights."
+122340,472,32,150000,Bart Simpson,Simpson Home,"Some ""express."""
+122342,472,34,150000,Bart Simpson,Springfield,We're flying!
+122343,472,35,155000,Otto Mann,Springfield,"Yep, she'll fly all right, you just gotta keep her happy."
+122346,472,39,190000,Bart Simpson,TRAIN PLATFORM,"Excuse me, Mister Goblin?"
+122347,472,40,192000,Moe Szyslak,TRAIN PLATFORM,Elf! I'm an elf!
+122348,472,41,192000,Bart Simpson,TRAIN PLATFORM,"Whatever you say. Um, look, how do I get to Santa?"
+122349,472,42,197000,Moe Szyslak,TRAIN PLATFORM,Oh no. Only the top elves get to meet Santa.
+122350,472,43,200000,Moe Szyslak,TRAIN PLATFORM,You start in the wrapping room! That'll take you right down.
+122351,472,44,205000,Moe Szyslak,TRAIN PLATFORM,"Whoa, whoa, whoa, what are you doin'? That leads to the daycare center. You take the freight elevator."
+122353,472,46,220000,Bart Simpson,WRAPPING ROOM,Isn't this the busy season? Where is everybody?
+122354,472,47,225000,Milhouse Van Houten,WRAPPING ROOM,Laid off.
+122355,472,48,226000,Nelson Muntz,WRAPPING ROOM,"After NAFTA, a lot of these jobs went to the South Pole."
+122356,472,49,230000,Bart Simpson,WRAPPING ROOM,"Well, who needs wrapping paper anyway? Just stick a bow on the toy and you're ready to go."
+122357,472,50,234000,Bart Simpson,WRAPPING ROOM,"Bow, bow, bow, bow, bing, bang, boom!"
+122358,472,51,237000,Moe Szyslak,WRAPPING ROOM,You are clearly too smart to be down here with these dingle-bells. I'm promotin' you to Toy Inspector. The rest of youse are laid off. Scram.
+122359,472,52,246000,Nelson Muntz,WRAPPING ROOM,I can't lose my health insurance. My lungs are full of candy cane dust!
+122360,472,53,252000,Moe Szyslak,WRAPPING ROOM,"Hey, you twos can go work for the Easter Bunny!"
+122361,472,54,254000,Moe Szyslak,WRAPPING ROOM,"Oh that's right, he ain't real! Heh."
+122363,472,56,267000,Moe Szyslak,TOY INSPECTION AREA,"Kid, you got a lot of shoddy, money-saving ideas. Like a major airline but you were here on time. Come with me."
+122365,472,58,283000,Lisa Simpson,CLAUSCO BUILDING,So you're the brown nosed reindeer that's jingled all the way to the top.
+122366,472,59,287000,Bart Simpson,CLAUSCO BUILDING,Just point me to Santa.
+122367,472,60,288000,Lisa Simpson,CLAUSCO BUILDING,"Oh, I know what you're after. The toy you never got."
+122368,472,61,292000,Bart Simpson,CLAUSCO BUILDING,You're outta your elfin mind!
+122369,472,62,294000,Lisa Simpson,CLAUSCO BUILDING,"Oh really? Well let me ask you this, how many kids bring a gun to meet Santa?"
+122370,472,63,300000,Bart Simpson,CLAUSCO BUILDING,Okay. You got me. But I'm gettin' my dirt bike -- and you can't stop me.
+122371,472,64,304000,Lisa Simpson,CLAUSCO BUILDING,Security!
+122373,472,66,321000,Bart Simpson,CLAUSCO BUILDING,"No disrespect, fat man, but you'd better poop out a dirt bike."
+122374,472,67,326000,Santa Claus,CLAUSCO BUILDING,"Close the door, boy. I can't afford to heat the whole North Pole."
+122376,472,68,334000,Bart Simpson,CLAUSCO BUILDING,"Listen here, Kringle. I may have been naughty this year. But by today's standards, naughty's nothing. I didn't get anybody pregnant, I didn't Facebook a kid to death... make with my dirt bike!"
+122377,472,69,343000,Santa Claus,CLAUSCO BUILDING,Kid... this company's bust. For years I've been giving out free toys and gettin' cookies in return. It's not a sustainable business model.
+122378,472,70,352000,Bart Simpson,CLAUSCO BUILDING,"Oh c'mon, man. Things aren't that bad."
+122379,472,71,355000,Santa Claus,CLAUSCO BUILDING,They're pretty bad. I'm eating my own reindeer here!
+122380,472,72,359000,Bart Simpson,CLAUSCO BUILDING,You win.
+122381,472,73,363000,Santa Claus,CLAUSCO BUILDING,That's a good boy.
+122382,472,74,364000,Santa Claus,CLAUSCO BUILDING,You go home now. And maybe there'll be a nice pair of work socks under your tree.
+122383,472,75,370000,Bart Simpson,CLAUSCO BUILDING,You don't have to do that. I have socks. I'll give you socks!
+122384,472,76,374000,Santa Claus,CLAUSCO BUILDING,"Thanks, kid. Now you'd better head home. I'm sure in the twenty-five years of Earth time you've been gone, your parents have gotten worried."
+122385,472,77,383000,Santa Claus,CLAUSCO BUILDING,Kids never change. Always dumb as potatoes.
+122386,472,78,406000,Chief Wiggum,CLAUSCO BUILDING,Pull over!
+122388,472,80,408000,Otto Mann,Train,"Hey kid, you ever wanted a train for Christmas? This one's yours!"
+122390,472,82,423000,Lisa Simpson,Simpson Home,Why can't they leave a poor tree in the woods where it belongs?
+122391,472,83,428000,Bing Crosby,Simpson Home,I'LL BE HOME FOR CHRISTMAS...
+122393,472,85,432000,Bing Crosby,1940S VERSION OF SIMPSON HOUSE,"IF ONLY IN MY DREAMS... Hey, hey, that song goes out to all the G.I.s overseas and the folks missing 'em here at home. Brought to you by Chesterton cigarettes. Chesterton. They feel like me, singin' in your throat."
+122394,472,86,450000,Lisa Simpson,1940S VERSION OF SIMPSON HOUSE,Can it really be Christmas when one of our parents is facing the German army?
+122396,472,88,454000,Gruff Sergeant,ARDENNES FOREST,Simpson! Get your helmet on!
+122397,472,89,454000,Marge Simpson,ARDENNES FOREST,I'm trying! It just keeps popping off.
+122399,472,91,464000,Marge Simpson,ARDENNES FOREST,"You can make it through this, Marge. Just think of Homer."
+122401,472,93,474000,Agnes Skinner,Springfield Aircraft Plant,"Hey, Simpson! How come you ain't in combat like a real man?!"
+122402,472,94,479000,Homer Simpson,Springfield Aircraft Plant,I'm too fat to fit in a foxhole.
+122404,472,97,484000,Homer Simpson,1940S VERSION OF SIMPSON HOUSE,"Kids, remember when I promised to feed us from that victory garden? Well, instead I grew this tree!"
+122405,472,98,489000,Lisa Simpson,1940S VERSION OF SIMPSON HOUSE,Don't dare bring that thing in here!
+122406,472,99,492000,Homer Simpson,1940S VERSION OF SIMPSON HOUSE,You don't want a Christmas tree? That's crazy! Next you won't want a Christmas ham.
+122407,472,100,497000,Lisa Simpson,1940S VERSION OF SIMPSON HOUSE,Don't worry about that. I love meat and I always will.
+122408,472,101,501000,Lisa Simpson,1940S VERSION OF SIMPSON HOUSE,"Mmm-mm, that is some sweet pig meat. But as for Christmas trees... I used to love them -- until last year, when I went tree shopping with Mom..."
+122410,472,103,512000,Marge Simpson,1943 SPRINGFIELD,"This tree reminds me of your father. It's round in the middle, thinning on top, and your hands get sticky when you touch it."
+122411,472,104,520000,Selma Bouvier,1943 SPRINGFIELD,"Simpson, you're shipping out tonight!"
+122412,472,105,522000,Marge Simpson,1943 SPRINGFIELD,Right before Christmas?
+122413,472,106,523000,Patty Bouvier,1943 SPRINGFIELD,Hitler doesn't take a holiday!
+122414,472,107,526000,Selma Bouvier,1943 SPRINGFIELD,"Well he does, but he doesn't tell people till the last minute so they can't make plans."
+122415,472,108,530000,Patty Bouvier,1943 SPRINGFIELD,Bastard.
+122416,472,109,532000,Marge Simpson,1943 SPRINGFIELD,But I...
+122418,472,111,538000,Lisa Simpson,Simpson Home,"So I never want to see another Christmas tree... until Mom comes back, safe and sound."
+122419,472,112,546000,Homer Simpson,Simpson Home,"Sweetie, if your mother was in trouble, they'd tell us as soon as they could."
+122420,472,113,550000,Western Union Boy,Simpson Home,Telegram!
+122422,472,115,555000,Homer Simpson,Simpson Home,"Marge is Mia? Oh my God, she changed her name?"
+122423,472,116,561000,Western Union Boy,Simpson Home,"No, that says she's missing in action."
+122425,472,118,565000,Lisa Simpson,Simpson Home,"See? Every time we get a tree, Mom disappears!"
+122426,472,119,571000,Homer Simpson,Simpson Home,Why couldn't it have been me?
+122427,472,120,571000,Western Union Boy,Simpson Home,It still could be. You just have to go down to the recruiting station and--
+122428,472,121,576000,Homer Simpson,Simpson Home,Shut up.
+122431,472,124,592000,Lisa Simpson,Evergreen Terrace,Oh no! This is where they took Mom from me!
+122433,472,126,599000,Tree Salesman,Evergreen Terrace,I've been waiting for you.
+122434,472,127,603000,Tree Salesman,Evergreen Terrace,"Your mom paid for this tree last year, but never took it. I've watered it, kept it fresh, and every time I look at this blue spruce, it reminds me of your good old mom."
+122435,472,128,613000,Tree Salesman,Evergreen Terrace,Here. Let me trim it for you.
+122436,472,129,617000,Tree Salesman,Evergreen Terrace,"And uh, decorate it a little."
+122437,472,130,621000,Lisa Simpson,Evergreen Terrace,It's a sign. Mom's okay! Thank you.
+122438,472,131,627000,Tree Salesman,Evergreen Terrace,Yeah. My only sale all year and it's not even a sale.
+122439,472,132,631000,Homer Simpson,Evergreen Terrace,Whose turn is it to cry?
+122440,472,133,633000,Bart Simpson,Evergreen Terrace,Yours.
+122442,472,135,637000,Grampa Simpson,Evergreen Terrace,Quitcher bellyaching about Marge and let me read the paper.
+122443,472,136,641000,Homer Simpson,Evergreen Terrace,Look at that picture!
+122445,472,138,647000,Grampa Simpson,Evergreen Terrace,"Oh, for cryin' out loud."
+122448,472,141,652000,Bart Simpson,Evergreen Terrace,Huh? I thought you said you didn't want a tree.
+122449,472,142,655000,Lisa Simpson,Evergreen Terrace,"Yes, but then I learned that there's always hope. Someday this war will be over. Someday our Mom will be back."
+122450,472,143,663000,Homer Simpson,Evergreen Terrace,"Someday TV will be invented, and it will be free. Then it will cost money."
+122451,472,144,668000,Lisa Simpson,Evergreen Terrace,"But until then this tree will stand for everything Mom believes in: home, family and constantly sweeping up needles."
+122452,472,145,675000,Lisa Simpson,Evergreen Terrace,"O TANNENBAUM, O TANNENBAUM..."
+122453,472,146,679000,Bart Simpson,Evergreen Terrace,...WIE TREU SIND DEINE BLÄTTER!
+122454,472,147,683000,Lisa Simpson,Evergreen Terrace,"DU GRUNST NICHT NUR ZUR SOMMERZEIT, /"
+122455,472,148,687000,Lisa Simpson,Evergreen Terrace,"NEIN AUCH IM WINTER, WENN ES SCHNEIT..."
+122458,472,151,715000,Hamlet,Movie Theater,I pooped my tights.
+122459,472,152,744000,Hitler,Movie Theater,Nein! Nein! Why did I go to the nine o'clock show?
+122460,472,153,748000,Hitler,Movie Theater,Das ist Hitler!
+122461,472,154,756000,Marge Simpson,Movie Theater,Auf Wiedersehen.
+122462,472,155,760000,Lisa Simpson,Movie Theater,This is the last time I bring these two to bed at the same time.
+122464,472,157,769000,Marge Simpson,Simpson Home,I've always believed in you even when others didn't. Can you help save our family Christmas? Marge Simpson.
+122467,472,161,803000,Martha Stewart,House,"Marge Simpson, I'm on my way!"
+122469,472,163,812000,Martha Stewart,Simpson Home,"Wake up, Marge! Magical memories don't make themselves!"
+122470,472,164,815000,Marge Simpson,Simpson Home,Martha Stewart! How did you get in here?!
+122471,472,165,819000,Martha Stewart,Simpson Home,A picket fence stood on its end makes a sturdy and attractive ladder.
+122474,472,168,822000,Martha Stewart,Marge's Bedroom,Now let's make that bed.
+122475,472,169,833000,Martha Stewart,Marge's Bedroom,A smattering of pinecones...
+122476,472,170,836000,Martha Stewart,Marge's Bedroom,"And with a little bit of work, this wedding dress can make a great dust ruffle!"
+122477,472,171,840000,Marge Simpson,Marge's Bedroom,But I was gonna-- Oooh!
+122479,472,173,846000,Marge Simpson,Simpson Home,"So, this stuff will just shampoo out, huh?"
+122480,472,174,849000,Martha Stewart,Simpson Home,Why would you want to shampoo it out?
+122481,472,175,853000,Bart Simpson,Simpson Home,"Me and Milhouse had a snowball fight, then an ice-ball fight, then a fight-fight!"
+122482,472,176,858000,Martha Stewart,Simpson Home,You boys want to play soldier?
+122483,472,177,860000,Bart Simpson,Simpson Home,I can't think of a better way to spend Jesus' birthday.
+122484,472,178,869000,Milhouse Van Houten,Simpson Home,I'm not sure I like where this is going.
+122485,472,179,873000,Martha Stewart,Simpson Home,Well I'm not sure anyone asked your opinion.
+122487,472,181,887000,Martha Stewart,Simpson Home,Squeeze your shoulder blades together!
+122488,472,182,890000,Martha Stewart,Simpson Home,"Now march -- and after an hour you can relax with some hand-shaved hot cocoa and a trial subscription to ""Martha Stewart Living."""
+122490,472,184,902000,Martha Stewart,Simpson Home,And out!
+122491,472,185,902000,Lisa Simpson,Simpson Home,"Ms. Stewart, I made a star for the tree out of discarded water bottles!"
+122492,472,186,907000,Martha Stewart,Simpson Home,"Lovely, dear. Except I would've soaked the labels off with warm water. Then I would've melted the plastic down in a double-boiler, and poured it into a candy mold. And finally, I wouldn't have presented it quite so proudly."
+122493,472,187,918000,Lisa Simpson,Simpson Home,I'll go outside and make snow angels.
+122494,472,188,920000,Martha Stewart,Simpson Home,Lie face down and your beautiful smile will be molded into the snow!
+122495,472,189,924000,Lisa Simpson,Simpson Home,Okay.
+122496,472,190,936000,Martha Stewart,Simpson Home,Now this... is a challenge.
+122498,472,191,947000,Martha Stewart,Simpson Home,There: a slumbering hubby is now a traditional Christmas tableau. Copyright Martha Stewart.
+122500,472,193,956000,Marge Simpson,Simpson Home,He's starting to wake up.
+122501,472,194,957000,Martha Stewart,Simpson Home,"A little of my ""Hubby's Holiday Helper"" will calm him right down."
+122503,472,196,963000,Martha Stewart,Simpson Home,"Don't worry, Marge. It's a good thing."
+122505,472,198,965000,Martha Stewart,Simpson Home,"There, there..."
+122507,472,200,967000,Martha Stewart,Simpson Home,Shh...
+122509,472,202,972000,Marge Simpson,Simpson Home,"Martha, the house looks beautiful -- it's like Christmas with a childless gay couple. But it's just not the same without my family being themselves."
+122510,472,203,980000,Martha Stewart,Simpson Home,"Well, thanks for wasting my time. I'll just wave my magic wand and turn everything back the way it was!"
+122511,472,204,986000,Marge Simpson,Simpson Home,You have a magic wand?
+122512,472,205,988000,Martha Stewart,Simpson Home,"Yes, I made it myself. Take an old car antenna, marinate it overnight in the tears of a heartbroken leprechaun, bake at 350 till a rainbow shoots out of the oven, and there you go."
+122513,472,206,999000,Marge Simpson,Simpson Home,I guess I'll never have a perfect Christmas.
+122514,472,207,1003000,Lisa Simpson,Simpson Home,"Merry Christmas, Mom!"
+122515,472,208,1005000,Bart Simpson,Simpson Home,We brought you breakfast in bed!
+122516,472,209,1007000,Homer Simpson,Simpson Home,Now we just have to make it.
+122517,472,210,1010000,Lisa Simpson,Simpson Home,IT'S BEGINNING TO LOOK A LOT LIKE BREAKFAST...
+122518,472,211,1015000,Lisa Simpson,Simpson Home,...EVERYWHERE YOU GO
+122519,472,212,1018000,Homer Simpson,Simpson Home,YOU'LL BE OH SO PLEASED / WHEN THE O.J. IS FRESHLY-SQUEEZED / AND TOAST IS MADE FROM HOMEMADE
+122520,472,213,1025000,Homer Simpson,Simpson Home,WE'RE GONNA GO OUT FOR BREAKFAST / WE'LL GO OUT TO EAT / IT'LL BE ANY PLACE YOU CHOOSE / AS LONG AS IT'S RUN BY JEWS / 'CAUSE THEY DON'T THINK THIS HOLIDAY'S SO GREAT.
+122521,472,214,1049000,Homer Simpson,Simpson Home,"ALOHA'OE / ALOHA'OE... Hurry up, kids! We gotta get to the airport!"
+122522,472,215,1056000,Lisa Simpson,Simpson Home,Did you get a good house-sitter?
+122523,472,216,1058000,Moe Szyslak,Simpson Home,"Moe Szyslak, house-sitter extraordinaire!"
+122524,472,217,1062000,Moe Szyslak,Simpson Home,Sticks and stones may break my bones...
+122525,472,218,1064000,Moe Szyslak,Simpson Home,"Ow! Hey! Stop it! Ooh, Cookies!"
+122527,472,220,1071000,Moe Szyslak,Simpson Home,"Great at the chewin', not so hot at the swallowing."
+122497,472,221,1073000,Homer Simpson,Simpson Home,"Now remember, pack only necessities."
+122528,472,223,1082000,Moe Szyslak,Simpson Home,"Hey, baby, it's Moe. Calling yaz from my new bachelor pad, at 742 Evergreen Terrace. Yeah, okay, sugarplum. I'll see you soon."
+122529,472,224,1091000,Moe Szyslak,Simpson Home,"Hey, get this off! Hey, get this off!"
+122530,472,225,1096000,Homer Simpson,Simpson Home,Now nothing stands between us and sunny Hawa...
+122531,472,226,1099000,C. Montgomery Burns,Simpson Home,"Merry Humbug, everyone!"
+122532,472,227,1100000,Homer Simpson,Simpson Home,Ai-yi-yi-yi!
+122533,472,228,1102000,Marge Simpson,Simpson Home,"What's wrong, Homie?"
+122534,472,229,1103000,Homer Simpson,Simpson Home,I got the week off by telling Mr. Burns I had a neck injury!
+122535,472,230,1109000,Homer Simpson,Simpson Home,"Mr. Burns, why'd you come to see me?"
+122536,472,231,1112000,C. Montgomery Burns,Simpson Home,"Well, last night, I had a visit from three spirits..."
+122537,472,232,1115000,Grampa Simpson,Simpson Home,I wish this show had a visit from three new writers.
+122539,472,234,1120000,C. Montgomery Burns,Simpson Home,"Wait, what's this? Carpetbags and portmanteaus? Going somewhere, Simpson?"
+122540,472,235,1126000,Homer Simpson,Simpson Home,Uh... uh...
+122541,472,236,1128000,Moe Szyslak,Simpson Home,"Hey guys, uh, you'll need this on your trip to Hawa--"
+122543,472,238,1132000,C. Montgomery Burns,Simpson Home,"Hm, your goblin fainted."
+122544,472,239,1134000,Moe Szyslak,Simpson Home,Not a goblin.
+122545,472,240,1136000,C. Montgomery Burns,Simpson Home,Simpson! Where's your Christmas tree?
+122546,472,241,1138000,Homer Simpson,Simpson Home,Coming!
+122547,472,242,1139000,Ned Flanders,Simpson Home,Homer! Gimme back my tree!
+122549,472,244,1152000,C. Montgomery Burns,Simpson Home,"Well, I won't interrupt your holiday any longer. Merry Christmas to all and to all a good... pop star slash fashionista, Katy Perry?!"
+122550,472,245,1165000,Katy Perry,Simpson Home,What are you people doing in my boyfriend Moe's bachelor pad?
+122552,472,247,1169000,Moe Szyslak,Simpson Home,"That's right, she's into puppets."
+122553,472,248,1172000,C. Montgomery Burns,Simpson Home,Just what's going on here?
+122554,472,249,1174000,Homer Simpson,Simpson Home,"Fine, I'll come clean."
+122555,472,250,1177000,C. Montgomery Burns,Simpson Home,It's a Christmas miraculum!
+122556,472,251,1179000,Homer Simpson,Simpson Home,"No, it's not. I just told a lie so we could go to Hawaii."
+122557,472,252,1184000,C. Montgomery Burns,Simpson Home,You lied to me! Release the hounds!
+122558,472,253,1193000,C. Montgomery Burns,Simpson Home,They'll be here any minute!
+122559,472,254,1198000,Sock Puppet Dog,Simpson Home,"We uh, blew the budget on Katy Perry."
+122561,472,256,1202000,Katy Perry,Simpson Home,Someone totally needs a hug!
+122562,472,257,1207000,C. Montgomery Burns,Simpson Home,"I kissed a girl and I liked it! All is forgiven, Simpsons. Go and enjoy Ha-va-eee."
+122564,472,259,1215000,C. Montgomery Burns,Simpson Home,Just as soon as we sing one Christmas carol.
+122565,472,260,1222000,Bart Simpson,Simpson Home,"Oh man, not the lame-o ""Twelve Days of Christmas."""
+122566,472,261,1222000,C. Montgomery Burns,Simpson Home,"Of course not! I want to sing the original, unabridged ""Thirty-Nine Days Of Christmas"". And a one and a two..."
+122567,472,262,1236000,Katy Perry,Simpson Home,THIRTY-NINE FOPS A-FOPPING /
+122568,472,263,1238000,Katy Perry,Simpson Home,THIRTY-EIGHT FISHWIVES HAWKING /
+122569,472,264,1239000,Katy Perry,Simpson Home,THIRTY-SEVEN COOPERS COOPING / THIRTY-SIX BOOTBLACKS BUFFING / THIRTY-FIVE BUSKERS BUSKING / THIRTY-FOUR SOMETHING SOMETHINGS / THIRTY-THREE ALCHEMISTS TRANSMUTING / THIRTY-TWO DUTCHMEN PLOTTING / THIRTY-ONE DOCTORS LEECHING /
+122570,472,265,1250000,Katy Perry,Simpson Home,THIRTY YEAR AVERAGE LIFESPAN...
+122571,472,266,1253000,Announcer,Simpson Home,"Tonight's Simpson episode was brought to you by the symbol ""umlaut""..."
+122572,472,267,1253000,Announcer,Simpson Home,"And the number e. Not the letter e, but the number whose exponential function is the derivative of itself."
+122573,472,268,1264000,Grampa Simpson,Simpson Home,"Well, it's been a long run, but I think this'll kill it."
+122574,472,269,1267000,Jasper Beardly,Simpson Home,What? The Simpsons?
+122575,472,270,1269000,Grampa Simpson,Simpson Home,"No, Christmas."
+122577,472,272,1275000,Moe Szyslak,Simpson Home,TWENTY-NINE SMITHS A-FORGING / TWENTY-EIGHT COOPERS COOPING...
+122578,472,273,1275000,Bart Simpson,Simpson Home,We did that one already!
+122579,472,274,1276000,Homer Simpson,Simpson Home,Sh!
+122580,472,275,1305000,Moe Szyslak,Simpson Home,TWENTY-SEVEN EELERS EELING / TWENTY-SIX ANARCHISTS BOMBING / TWENTY-FIVE SWAMIS FORESEEING / TWENTY-FOUR SIDEBURNS CURLING / TWENTY-THREE MONKS A-CHANTING / TWENTY-TWO RATS A-PLAGUING / TWENTY-ONE COXSWAINS CALLING / TWENTY FLAUTISTS FLUTING / NINETEEN FOOTMEN BOWING / EIGHTEEN GUNGAS DINNING / SEVENTEEN SEVENTY-SI-IX / SIXTEEN MIDWIVES BIRTHING / FIFTEEN ALIENISTS ALIENING / FOURTEEN JACKS A-RIPPING / THIRTEEN SCRIVENERS SCRIVNING / TWELVE LORDS A-LEAP--
+122581,472,276,1305000,Moe Szyslak,Simpson Home,I'll just kiss your bellybutton.
+122582,472,277,1309000,Katy Perry,Simpson Home,"That's not my bellybutton. But I didn't say ""stop."""

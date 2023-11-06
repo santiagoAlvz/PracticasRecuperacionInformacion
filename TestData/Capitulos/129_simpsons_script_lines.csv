@@ -1,0 +1,234 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+27312,129,1,41000,Waylon Smithers,Smithers's Apartment,Ugh. My mouth tastes like an ashtray.
+27313,129,2,50000,C. Montgomery Burns,Smithers's Apartment,"Smithers, wait your turn. There's plenty of hot water for all."
+27314,129,3,54000,Waylon Smithers,Smithers's Apartment,"Sir, you weren't shot? It was all a dream."
+27315,129,4,60000,C. Montgomery Burns,Smithers's Apartment,"That's right. The year is 1965, and you and I are undercover detectives on the hot-rod circuit. Now let's burn rubber, baby!"
+27316,129,5,76000,Announcer,Smithers's Apartment,"""Speedway Squad!"" In color."
+27317,129,6,78000,Waylon Smithers,Smithers's Apartment,"Wait, that was all a dream. Hey, then maybe I haven't become a hideous, drunken wreck!"
+27318,129,7,85000,Waylon Smithers,Smithers's Apartment,Oh.
+27319,129,8,87000,Kent Brockman,Smithers's Apartment,"Dozens of people are gunned down each day in Springfield, but until now, none of them was important. I'm Kent Brockman. At 3 p.m. Friday, local autocrat C. Montgomery Burns was shot following a tense confrontation at Town Hall."
+27320,129,9,100000,Kent Brockman,Smithers's Apartment,"Burns was rushed to a nearby hospital, where he was pronounced dead. He was then transferred to a better hospital, where doctors upgraded his condition to ""alive."""
+27321,129,10,103000,Kent Brockman,Smithers's Apartment,"Now, let's talk to Police Chief Wiggum."
+27322,129,11,110000,Chief Wiggum,Smithers's Apartment,"Oh, hiya, Kent. Ah, right now we are questioning two witnesses who were in the vicinity at the time."
+27324,129,13,118000,Lou,Springfield Police Station,Didja see this guy? Was he anywhere near the parking lot when Burns got shot?
+27326,129,15,123000,Eddie,Springfield Police Station,"Aw, it's no use. They ain't talkin'."
+27328,129,17,127000,Lisa Simpson,Simpson Home,Everyone in Springfield had a reason to shoot Mr. Burns. Even us.
+27329,129,18,132000,Lisa Simpson,Simpson Home,"Bart, he broke your dog's legs. Grampa, he destroyed your home. And Dad, well, you kind of went berserk when he couldn't remember your name."
+27330,129,19,139000,Homer Simpson,Simpson Home,"Berserk is right!! May I have some iced tea, please?"
+27331,129,20,143000,Bart Simpson,Simpson Home,"Aren't we forgetting someone, Sister Suspect?"
+27332,129,21,147000,Lisa Simpson,Simpson Home,"Yeah, I was just getting to me. Because of Mr. Burns, they canceled my jazz program, and my friend Tito Puente got fired. But I could never shoot someone."
+27333,129,22,155000,Bart Simpson,Simpson Home,Could so!
+27334,129,23,155000,Lisa Simpson,Simpson Home,Could not!
+27335,129,24,155000,Bart Simpson,Simpson Home,Could so!
+27336,129,25,155000,Lisa Simpson,Simpson Home,Could not!
+27337,129,26,157000,Bart Simpson,Simpson Home,Could so!
+27338,129,27,157000,Lisa Simpson,Simpson Home,Could not!
+27339,129,28,157000,Bart Simpson,Simpson Home,Could so!
+27340,129,29,158000,Lisa Simpson,Simpson Home,Could not!
+27341,129,30,158000,Homer Simpson,Simpson Home,"Kids! Kids! Kids! As far as Daddy's concerned, you're both potential murderers."
+27342,129,31,163000,Marge Simpson,Simpson Home,The police already have a suspect. It's Mr. Smithers.
+27343,129,32,166000,Grampa Simpson,Simpson Home,"Sure, Smithers! / He's a good suspect! / Oh, I bet he's the one! / Definitely Smithers!"
+27344,129,33,169000,Grampa Simpson,Simpson Home,"Yeah! Smingers did it! Case closed. Now, where's my hat? I'm going to the outhouse."
+27345,129,34,174000,Lisa Simpson,Simpson Home,We don't have an outhouse.
+27346,129,35,176000,Homer Simpson,Simpson Home,My tool shed! Oh Dad!
+27348,129,37,180000,Waylon Smithers,Downtown Street,"Could I have shot Mr. Burns in a drunken rage? No. No, not me. I know in my heart I..."
+27349,129,38,185000,Smithers's Brain,Downtown Street,"My gun! And it's been recently fired! Wait, I remember leaving the town meeting..."
+27350,129,39,195000,Waylon Smithers,Downtown Street,"I must've run into Mr. Burns outside, and..."
+27352,129,41,200000,Waylon Smithers,Downtown Street,Mr. Burns! What have I done?!
+27354,129,43,214000,Moe Szyslak,Simpson Home,"Hey, Homer, us hotheads here is gonna go tear down Burns' sun blockin' machine. You wanna come with?"
+27355,129,44,220000,Homer Simpson,Simpson Home,Sure! I've had it up to here with these damn rickets!
+27357,129,46,234000,Groundskeeper Willie,Mt. Springfield,"Pull, Duchess, pull!"
+27358,129,47,244000,Krusty the Clown,Mt. Springfield,"Um... Uh, what town did we just crush?"
+27359,129,48,247000,Seymour Skinner,Mt. Springfield,Shelbyville.
+27360,129,49,250000,Townspeople,Mt. Springfield,Yay!!
+27362,129,51,251000,Waylon Smithers,Downtown Street,"Oh, this guilt is driving me mad. I've got to tell someone."
+27363,129,53,258000,Waylon Smithers,Cathedral,"Father, I'm not a Catholic, but... well, I tried to march in the St. Patrick's Day parade... Anyway, I've got a... rather large sin to confess. I'm the one who... who shot Mr. Burns."
+27364,129,54,275000,Chief Wiggum,Cathedral,"That's all I needed to hear. Boy, this thing works great."
+27366,129,56,279000,Waylon Smithers,Springfield Police Station,The man became consumed by greed. He'd steal from anyone.
+27367,129,57,283000,Waylon Smithers,Springfield Police Station,This isn't a rival company you're battling with. It's a school. People won't stand for it.
+27368,129,58,287000,C. Montgomery Burns,Springfield Police Station,Pish-posh. It will be like taking candy from a baby.
+27369,129,59,291000,C. Montgomery Burns,Springfield Police Station,"Say, that sounds like a larf."
+27370,129,60,294000,Waylon Smithers,Springfield Police Station,"And when he tried to steal our sunlight, he crossed that line between everyday villainy and cartoonish super-villainy."
+27371,129,61,302000,SUPER-VILLAIN,Springfield Police Station,Bah! He was a rank amateur compared to Dr. Colossus!
+27372,129,62,310000,SUPER-VILLAIN,Springfield Police Station,Ow. When is my lawyer coming?
+27373,129,63,317000,Reporters,Springfield Police Station,"Mr. Smithers! / Smithers! / Over here, Waylon! /"
+27374,129,64,317000,Dave Shutton,Springfield Police Station,"Dave Shutton, Springfield Daily Shopper. Who are you? Where are you going?"
+27375,129,65,322000,Kent Brockman,Springfield Police Station,"Oh, do your research, Shutton! Ah, Kent Brockman, Channel Six News. How does it feel to be accused of the attempted murder of your boss and mentor?"
+27376,129,66,329000,Waylon Smithers,Springfield Police Station,"Kent, I, I feel about as low as Madonna when she found out she missed Tailhook."
+27378,129,68,334000,Kent Brockman,Springfield Police Station,"I'm going to say ""ouch!"" for Madonna."
+27380,129,70,337000,Krusty the Clown,Krusty's Office,Hey! That's my Madonna gag! That guy stole my gag!
+27381,129,71,340000,Sideshow Mel,Krusty's Office,"And you stole it from last Friday's episode of ""Pardon My Zinger."""
+27382,129,72,344000,Krusty the Clown,Krusty's Office,"Stole, made-up, what's the difference?"
+27383,129,73,347000,Sideshow Mel,Krusty's Office,"Mr. Smithers must have seen that program, too. He never misses it. Hm."
+27384,129,74,352000,Sideshow Mel,Krusty's Office,"At the town meeting, he mentioned that he watched Comedy Central. I made sure to note that, as it seemed quite unusual. Ye Gods. To the police station, Krusty!"
+27386,129,76,363000,Sideshow Mel,Springfield Police Station,"I am Melvin Van Horne, and this is my associate Herschel Krustofsky."
+27135,129,77,368000,Krusty the Clown,Springfield Police Station,Hey hey.
+27387,129,78,369000,Sideshow Mel,Springfield Police Station,"Officer, you have arrested an innocent man!"
+27388,129,79,372000,Chief Wiggum,Springfield Police Station,"Really? Aw, jeez."
+27389,129,80,374000,Chief Wiggum,Springfield Police Station,"All right, Colossus, you're free to go. But stay away from Death Mountain."
+27390,129,81,377000,SUPER-VILLAIN,Springfield Police Station,All my stuff is there.
+27391,129,82,381000,Sideshow Mel,Springfield Police Station,"I was referring to Waylon Smithers. Mr. Burns was shot Friday at 3:00 p.m. -- the very time that Smithers was at home watching ""Pardon My Zinger."" So you see, he couldn't have done it."
+27392,129,83,392000,Waylon Smithers,Springfield Police Station,Yes! You're right! I remember now! I - I watched that entire show! In fact...
+27393,129,84,398000,Waylon Smithers,Springfield Police Station,I left the town meeting early so I could get home in time.
+27394,129,85,402000,Waylon Smithers,Springfield Police Station,"Agh. I've gotta run, or I'll miss the opening rank-out."
+27396,129,87,409000,Jasper Beardly,Springfield Police Station,"Slow down! The sidewalk's fer reg'lar walkin', not fer fancy-walkin'."
+27397,129,88,413000,Waylon Smithers,Springfield Police Station,Out of my way. I'm in a hurry.
+27398,129,89,416000,Jasper Beardly,Springfield Police Station,"You simmer down, I'll letcha go."
+27399,129,90,419000,Waylon Smithers,Springfield Police Station,"So... Instead of wounding an evil old man, I may have killed an innocent old man. That's much worse."
+27400,129,91,427000,Krusty the Clown,Springfield Police Station,"About fifty-thousand volts worse, if you know what I mean. Eeeeh! Bzzzt! Sizzle..."
+27401,129,92,433000,Chief Wiggum,Springfield Police Station,"Wait a minute. If a second old geezer got shot, how come nobody reported it?"
+27403,129,94,441000,Chief Wiggum,Springfield Retirement Castle,"Uh, hi. Um, can we take a look at your leg?"
+27404,129,95,447000,Jasper Beardly,Springfield Retirement Castle,"Yeah, that's real spruce. You like it?"
+27405,129,96,451000,Waylon Smithers,Springfield Retirement Castle,"Phew. Thank God. Sir, I, I only hope you can forgive me for shooting your wooden leg."
+27406,129,97,457000,Jasper Beardly,Springfield Retirement Castle,You shot who in the what now?
+27407,129,98,460000,Chief Wiggum,Springfield Retirement Castle,"Okay, Smithers, you're free to go. And you, one question: do you know who shot Mr. Burns, cause we are really up the creek on this one. ."
+27409,129,100,471000,Kent Brockman,Simpson Home,"And with the prime suspect cleared and found completely innocent, we must now ask ourselves: ""Who could possibly be as bloodthirsty as Waylon Smithers?"""
+27410,129,101,479000,Marge Simpson,Simpson Home,I guess it's never the most likely suspect.
+27412,129,102,482000,Lisa Simpson,Simpson Home,"Actually, Mom, in 95% of cases, it is. The rest of the time, it's usually some deranged lunatic who did it for no reason."
+27413,129,103,489000,Homer Simpson,Simpson Home,"Hey, I had a damn good reason. He could never remember my name..."
+27414,129,104,493000,C. Montgomery Burns,Simpson Home,Who the devil are you?
+27415,129,105,498000,Homer Simpson,Simpson Home,Homer Simpson! Homer Simpson!
+27417,129,107,502000,Lisa Simpson,Simpson Home,"Well, I don't think anyone in this family is capable of attempted murder."
+27418,129,108,506000,Grampa Simpson,Simpson Home,"Eh, you never know what you're capable of. I never thought I could shoot down a German plane -- but last year, I proved myself wrong."
+27419,129,109,515000,Lisa Simpson,Simpson Home,Nancy Drew says that all you need to solve a mystery is an inquisitive temperament and two good friends. And I've got an inquisitive temperament! Maybe I could help solve this!
+27420,129,110,525000,Marge Simpson,Simpson Home,I think you're a little young to be investigating an attempted murder. Why don't you try to solve the mystery of who put that mud in the freezer?
+27421,129,111,533000,Bart Simpson,Simpson Home,Who wants chocolate ice cream?
+27422,129,112,535000,Homer Simpson,Simpson Home,"Me! Me! Me, me!"
+27424,129,114,538000,Chief Wiggum,Springfield Police Station,"Okay boys, we've got a clue - the bullet they took out of Burns. Now, let's discuss the, um..."
+27425,129,115,544000,Chief Wiggum,Springfield Police Station,Motive.
+27426,129,116,547000,Lisa Simpson,Springfield Police Station,Mr. Burns is the richest man in town. Maybe it was about money.
+27427,129,117,552000,Chief Wiggum,Springfield Police Station,"That's some good thinking, Lou."
+27428,129,118,553000,Lou,Springfield Police Station,"Thanks, Chief."
+27429,129,119,554000,Lisa Simpson,Springfield Police Station,"Hey! I said that. My name is Lisa Simpson, and I made a chart of all the suspects in the Burns case. Look."
+27430,129,120,559000,Lisa Simpson,Springfield Police Station,"Mr. Burns hurt all these people financially: nightclub owner Moe Szyslak. His bar was closed because of Burns' negligence; liquor connoisseur Barney Gumble. When Moe's closed, Barney lost his only means of support -- sucking coins out of the Love Tester machine."
+27431,129,121,575000,Eddie,Springfield Police Station,That's a real good way to get sick.
+27432,129,122,576000,Lisa Simpson,Springfield Police Station,Dedicated educator Principal Seymour Skinner. His school lost millions when Burns pirated its oil well; and grounds-tender Groundskeeper Willie. He lost his job and his dream of owning a fine crystal slop bucket.
+27434,129,123,589000,Chief Wiggum,Springfield Police Station,"Hey, what about that jazz teacher that got laid off? You know, um, Mister Samba? Señor Mambo? What was it?"
+27435,129,124,593000,Lisa Simpson,Springfield Police Station,Tito Puente?
+27436,129,125,594000,Chief Wiggum,Springfield Police Station,Yeah.
+27437,129,126,595000,Lisa Simpson,Springfield Police Station,"Well, he did vow revenge. But I can't see him doing something illegal -- he's in show business! He's a celebrit--"
+27438,129,127,603000,Chief Wiggum,Springfield Police Station,"Let's roll, boys."
+27441,129,130,608000,Tito Puente,NIGHTCLUB,"Revenge? Of course. But why wound his body with bullets when I can set his soul afire with a slanderous mambo? Listen, if you will, to my revenge. Uno, dos, tres..."
+27442,129,131,621000,Crooner,NIGHTCLUB,WOUNDS WON'T LAST LONG / BUT AN INSULTING SONG / BURNS WILL ALWAYS CARRY WITH HIM. / SO I'LL SETTLE MY SCORE / ON THE SALSA FLOOR / WITH THIS VENGEFUL LATIN RHYTHM! / BU-URNS! CON EL CORAZON DE PERRO! / SENOR BU-URNS! EL DIABLO CON DINERO!
+27443,129,132,655000,Crooner,NIGHTCLUB,"THIS MAY NOT SURPRISE YOU / BUT ALL OF US DESPISE YOU / PLEASE DIE / AND FRY / IN HELL / YOU ROTTEN, RICH, OLD WRETCH! ADIOS, VIEJO!"
+27444,129,133,678000,Chief Wiggum,NIGHTCLUB,"Yeah! Okay, okay, I believe you're innocent. Gee, I hope all the suspects are this much fun."
+27446,129,135,685000,Seymour Skinner,Springfield Elementary School,"Hum-m-m. Now-now let, let... me... let me think."
+27448,129,137,697000,Seymour Skinner,Springfield Elementary School,"Now, I did - I did go to the town meeting with the intention of ambushing Mr. Burns. When it adjourned, I rushed to the lavatory to apply my camouflage makeup..."
+27449,129,138,709000,Seymour Skinner,Springfield Elementary School,Blast! I took mother's makeup kit by mistake.
+27450,129,139,712000,Gary Chalmers,Springfield Elementary School,"Oh, uh, excuse me, ma'am."
+27451,129,140,714000,Seymour Skinner,Springfield Elementary School,Superintendent Chalmers!
+27452,129,141,715000,Gary Chalmers,Springfield Elementary School,Oh my God!
+27453,129,142,719000,Chief Wiggum,Springfield Elementary School,So Superintendent Chalmers can vouch for your whereabouts?
+27454,129,143,722000,Seymour Skinner,Springfield Elementary School,"Oh yes. But, anything else he tells you is a filthy lie."
+27456,129,145,725000,Groundskeeper Willie,Springfield Police Station,"I'm tellin' ya, I could nay have shot Burns!"
+27457,129,146,732000,Eddie,Springfield Police Station,This is your last warning about that.
+27460,129,147,734000,Groundskeeper Willie,Springfield Police Station,"It's impossible for me to fire a pistol. If you'll check me medical records, you'll see I have a cripplin' arthritis in me index fingers! Look at 'em!"
+27461,129,148,744000,Groundskeeper Willie,Springfield Police Station,I got it from Space Invaders in 1977.
+27462,129,149,748000,Chief Wiggum,Springfield Police Station,"Oh yeah, that was a pretty addictive video game."
+27463,129,150,750000,Groundskeeper Willie,Springfield Police Station,Video game?
+27464,129,151,751000,Eddie,Springfield Police Station,Did you hold a grudge against Montgomery Burns?
+27465,129,152,753000,Moe Szyslak,Springfield Police Station,No.
+27466,129,153,753000,Moe Szyslak,Springfield Police Station,"All right, maybe I did. But I didn't shoot him."
+27467,129,154,758000,Eddie,Springfield Police Station,"Checks out. Okay, Sir, you're free to go."
+27468,129,155,759000,Moe Szyslak,Springfield Police Station,"Good, cause I got a hot date tonight. A date. Dinner with friends. Dinner alone. Watching TV alone. All right. I'm gonna sit at home and ogle the ladies in the Victoria's Secret catalog. Sears catalog."
+27469,129,156,773000,Moe Szyslak,Springfield Police Station,"Now wouldja unhook this, already please?! I don't deserve this kind of shabby treatment!"
+27471,129,158,779000,Marge Simpson,Simpson Home,"Grampa, I found your cigar box dug up in the backyard, but the gun wasn't there. Have you seen it?"
+27472,129,159,784000,Grampa Simpson,Simpson Home,You accuse me of everything around here. Who put slippers in the dishwasher? Who threw a cane at the TV? Who fell into the china hutch?
+27473,129,160,792000,Marge Simpson,Simpson Home,I was just asking if you'd seen it. There's no need to be a prickly pear.
+27474,129,161,799000,Grampa Simpson,Simpson Home,"Oh, you're the bee's knees, baby. I missed you bad."
+27475,129,162,804000,Marge Simpson,Simpson Home,"Were you talking to me, Grampa?"
+27476,129,163,806000,Grampa Simpson,Simpson Home,Um... yes?
+27479,129,166,810000,Chief Wiggum,Springfield Police Station,"We're still not close. Boy, this is gonna be an all-night brain buster. Better drink some coffee."
+27480,129,167,819000,Chief Wiggum,Springfield Police Station,"Oh, we're out of coffee. Oh well, I'll just drink this warm cream."
+27481,129,168,851000,Lisa Simpson,Springfield Police Station,Chief Wig-gum... Don't eat... the clues.
+27482,129,169,852000,Lisa Simpson,Springfield Police Station,This suit burns better. Look.
+27483,129,170,855000,Chief Wiggum,Springfield Police Station,Huh?
+27484,129,171,855000,Lisa Simpson,Springfield Police Station,Better... look... burns... suit.
+27485,129,172,857000,Chief Wiggum,Springfield Police Station,I'm not following you.
+27486,129,173,858000,Lisa Simpson,Springfield Police Station,Burns' suit! Burns' suit!
+27487,129,174,862000,Chief Wiggum,Springfield Police Station,Huh?
+27411,129,175,864000,Lisa Simpson,Springfield Police Station,Look at Burns' suit. Yeesh.
+27433,129,176,867000,Eddie,Springfield Police Station,"I had an idea, Chief. Why don't we check out that suit Burns was wearing when he got shot?"
+27458,129,177,873000,Chief Wiggum,Springfield Police Station,Did you have that same backwards-talking dream with the flamin' cards?
+27459,129,178,876000,Eddie,Springfield Police Station,I'll drive.
+27489,129,180,881000,Chief Wiggum,Hospital,Eureka!
+27490,129,181,884000,Technician,Hospital,"Ooh, nice eyelash. Yours?"
+27491,129,182,886000,Chief Wiggum,Hospital,No. We need to find out who it belonged to. We want a D.N.A. test.
+27492,129,183,890000,Technician,Hospital,"Ooh, ooh, ee, ooh, ooh... That takes eight to ten weeks."
+27493,129,184,895000,Technician,Hospital,Did I say weeks? 'Cause I meant seconds.
+27494,129,185,899000,Chief Wiggum,Hospital,Whaddya got the whole town's D.N.A. on file?
+27495,129,186,902000,Technician,Hospital,"Yuh-huh. If you've ever handled a penny, the government's got yer D.N.A. Whyddya think they keep 'em in circulation?"
+27496,129,187,908000,Technician,Hospital,Scan's finished. Now it's gonna narrow it down to the family bloodline.
+27497,129,188,915000,C. Montgomery Burns,Hospital,Homer Simpson!
+27498,129,189,917000,Eddie,Hospital,Bingo. The gunman has a name-o.
+27499,129,190,921000,Lou,Hospital,Chief! Chief! Chief!
+27501,129,192,928000,Lisa Simpson,Simpson Home,"Hey, Chief Wiggum, what are you doing? What's going on?"
+27502,129,193,932000,Chief Wiggum,Simpson Home,"I'm sorry, kid. We got Simpson D.N.A. on Burn's clothing and your father was identified by the old man himself."
+27504,129,195,937000,Bart Simpson,Simpson Home,"D.N.A., positive I.D. -- Those won't hold up in any court -- Run, Dad!"
+27505,129,196,942000,Lou,Simpson Home,Hey-ho. Look what I found under Mr. Simpson's car seat.
+27506,129,197,947000,Homer Simpson,Simpson Home,"I swear, I've never seen that gun before."
+27507,129,198,950000,Eddie,Simpson Home,"Then why are your fingerprints all over it, sir?"
+27509,129,200,956000,Chief Wiggum,Simpson Home,"This bullet matches the one we took out of Burns. Homer Simpson, you're under arrest for attempted murder."
+27511,129,202,964000,Chief Wiggum,Simpson Home,"Yeah, that's what they all say. ...They all say, ""D'oh."""
+27513,129,204,966000,Chief Wiggum,PADDY WAGON,"Yeah we need two cups of coffee, and two orders of Bite-Size Breakfast Pancakes. With extra dipping sauce."
+27514,129,205,981000,Teenage Employee,PADDY WAGON,"Please pull up to the service window, please."
+27515,129,206,984000,Chief Wiggum,PADDY WAGON,"The wagon's too tall. Aw, I don't wanna have to get out. Ah, I'll just drive up on the curb."
+27516,129,207,994000,Chief Wiggum,PADDY WAGON,Ergh... Blugh... Almost got it...
+27517,129,208,995000,Lou,PADDY WAGON,"Drop the food, Chief!!"
+27518,129,209,1000000,Chief Wiggum,PADDY WAGON,Noooooo!
+27519,129,210,1000000,Jasper Beardly,PADDY WAGON,Dang fools. Drive-thru's not fer a-parkin'.
+27520,129,211,1011000,Teenage Employee,PADDY WAGON,"Dianne, I'm going to take my break now."
+27522,129,213,1015000,Dr. Nick Riviera,Hospital,"Hi, everybody!"
+27523,129,214,1016000,C. Montgomery Burns,Hospital,"Ho, Mersimp Son!"
+27524,129,215,1018000,Dr. Nick Riviera,Hospital,"Okay, that was a little strange. Um tell me, how are you feeling today?"
+27525,129,216,1024000,C. Montgomery Burns,Hospital,"Ho-mer... Simpson, Homer. Simpson!"
+27526,129,217,1029000,Dr. Nick Riviera,Hospital,"Hmm... That seems to be all you can say. When you were in that coma, did you feel your brain getting damaged?"
+27528,129,219,1036000,Marge Simpson,Simpson Home,"The police have such a strong case against Homer. Mr. Burns said he did it, they have Homer's D.N.A..."
+27529,129,220,1041000,Lisa Simpson,Simpson Home,"They have Simpson D.N.A. It could've come from any of us. Except you, since you're a Bouvier."
+27530,129,221,1046000,Marge Simpson,Simpson Home,"No. No, no. When I took your father's name, I took everything that came with it, including D.N.A."
+27531,129,222,1051000,Lisa Simpson,Simpson Home,"Okay, Mom. Anyway, my point is, the evidence isn't as concrete as it seems. Like those fingerprints. They could've gotten on the gun some other way."
+27532,129,223,1062000,Lisa Simpson,Simpson Home,Are you sure you don't want me to hold one of your ice cream cones?
+27533,129,224,1064000,Homer Simpson,Simpson Home,"Yeah, right. You chose fruit, you live with fruit."
+27535,129,226,1070000,Homer Simpson,Simpson Home,No. No. No. Ewww. Why is this on the floor?
+27536,129,227,1077000,Lisa Simpson,Simpson Home,And we don't even know whose gun that was. Maybe somebody planted it there to frame Dad.
+27537,129,228,1083000,Marge Simpson,Simpson Home,No. We can't start thinking that way about our own family members. Suspicion could tear us apart.
+27538,129,229,1089000,Grampa Simpson,Simpson Home,That's right. We all gotta stick together if we're gonna have any hope of bringing that awful Homer to justice.
+27540,129,231,1098000,Chief Wiggum,Springfield Police Station,Here is a photo of the fugitive from our files.
+27541,129,232,1102000,Chief Wiggum,Springfield Police Station,And now Waylon Smithers -- ah who's been a real good sport about that wrongful arrest thing -- has a statement that he would like to make. Waylon?
+27542,129,233,1110000,Waylon Smithers,Springfield Police Station,"Thank you. As Montgomery Burns' closest friend, I am certain that there is nothing he would want more than swift, brutal revenge against Homer Simpson. Therefore, I am offering a $50,000 reward for his capture. Dead or alive."
+27544,129,235,1125000,Chief Wiggum,Springfield Police Station,Me first! Me first!
+27546,129,237,1126000,C. Montgomery Burns,Hospital,Homer Simpson?
+27547,129,238,1128000,Homer Simpson,Hospital,"So you finally learned my name, eh?"
+27548,129,239,1131000,C. Montgomery Burns,Hospital,Homer Simpson.
+27549,129,240,1133000,Homer Simpson,Hospital,I've got no time for your demented parlor games! You won't be telling anyone else that Homer Simpson shot you.
+27551,129,242,1144000,Lisa Simpson,Springfield Town Hall,The scene of the crime! There must be something here that can clear Dad.
+27552,129,243,1149000,Pigeon,Springfield Town Hall,"Clue, clue."
+27553,129,244,1151000,Lisa Simpson,Springfield Town Hall,"That's it! Oh, Mr. Pigeon, I'd kiss you if you weren't swimming with disease."
+27554,129,245,1167000,Lisa Simpson,Springfield Town Hall,"So, the D.N.A. was right. It must've been... Oh, Dad!"
+27555,129,246,1172000,Police Dispatcher,Springfield Town Hall,Attention all units. Homer Simpson has been sighted. Proceed at once to Marvin Monroe Memorial Hospital.
+27557,129,248,1180000,Apu Nahasapeemapetilon,Springfield Town Hall,Be careful when we capture him! We cannot claim the reward unless we have fifty-one per cent of the carcass.
+27559,129,250,1193000,Lisa Simpson,Hospital,Stop! Don't shoot my Dad! He's innocent. He wouldn't hurt a fly!
+27560,129,251,1200000,C. Montgomery Burns,Hospital,Ho-mer Simp... son. Ho... mersimp... son.
+27561,129,252,1200000,Homer Simpson,Hospital,Stop telling them it was me. I'll kill you for saying it was me.
+27562,129,253,1206000,C. Montgomery Burns,Hospital,"Mersimp... Son... what is the... mer... meaning of this? Smithers, who is this beast that's shaking me?"
+27563,129,254,1216000,Homer Simpson,Hospital,Say it Burns. Say I never shot you... Before.
+27564,129,255,1221000,C. Montgomery Burns,Hospital,Shot? By you? I'm afraid not my primitive friend. Your kind has neither the cranial capacity nor the opposable digits to operate a firearm. The one who shot me was...
+27565,129,256,1236000,C. Montgomery Burns,Hospital,Ma.. Maggie Simpson!
+27566,129,257,1239000,C. Montgomery Burns,Hospital,"With the sun blocker in place and the town aghast, I was on top of the world..."
+27567,129,258,1244000,C. Montgomery Burns,Hospital,So I wanted to kick up my heels and indulge my sweet tooth.
+27568,129,259,1248000,C. Montgomery Burns,Hospital,I feel like celebrating.
+27569,129,260,1254000,C. Montgomery Burns,Hospital,"Oh, it's you. What are you so happy about?"
+27570,129,261,1257000,C. Montgomery Burns,Hospital,I see.
+27572,129,262,1260000,C. Montgomery Burns,Hospital,"Yes... that's the one. Smithers had thwarted my attempt to take candy from a baby, but with him out of the picture, I was free to wallow in my own crapulance."
+27573,129,263,1272000,C. Montgomery Burns,Hospital,I think you'd better drop it!
+27574,129,264,1274000,C. Montgomery Burns,Hospital,But the old exhume was misleading. Taking the candy proved exceedingly difficult.
+27575,129,265,1278000,C. Montgomery Burns,Hospital,I said drop it!
+27576,129,266,1292000,C. Montgomery Burns,Hospital,Stricken I lurched forth in search of aide.
+27577,129,267,1292000,C. Montgomery Burns,Hospital,"But finding only slacked jawed gawkers, I gave up and collapsed on the sundial."
+27578,129,268,1299000,Lisa Simpson,Hospital,Then with your last ounce of strength you pointed to W and S.
+27579,129,269,1299000,Lisa Simpson,Hospital,"Or from your point of view, M and S... Maggie Simpson."
+27580,129,270,1310000,C. Montgomery Burns,Hospital,What? No! With my last ounce of strength I sucked out my gold fillings and swallowed them. Those paramedics have sticky fingers.
+27581,129,271,1319000,Marge Simpson,Hospital,"Well, I'm just relieved that Homer's safe and you've recovered and we can all get back to normal. If Maggie could talk I'm sure she'd apologize for shooting you."
+27582,129,272,1326000,C. Montgomery Burns,Hospital,"I' afraid that's insufficient. Officer, arrest the baby."
+27583,129,273,1331000,Chief Wiggum,Hospital,Yeah right pops. No jury in the world is gonna convict a baby. Mmm... except maybe Texas.
+27584,129,274,1338000,Marge Simpson,Hospital,"Besides, she didn't mean it. It was an accident."

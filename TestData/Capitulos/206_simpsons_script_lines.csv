@@ -1,0 +1,272 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+48177,206,1,28000,Homer Simpson,Simpson Home,"Mail call! Gather 'round, everyone!"
+48178,206,2,31000,Homer Simpson,Simpson Home,"All right. One for ""resident""..."
+48179,206,3,31000,Marge Simpson,Simpson Home,That's me!
+48180,206,4,35000,Homer Simpson,Simpson Home,"Well, that's it."
+48181,206,5,36000,Bart Simpson,Simpson Home,One stinkin' letter? Why'd you make us gather 'round like that?
+48182,206,6,38000,Homer Simpson,Simpson Home,I needed my power fix.
+48183,206,7,38000,Marge Simpson,Simpson Home,"Hey, listen to this!"
+48184,206,8,43000,Marge Simpson,Simpson Home,Congratulations. Your child or children have been selected to appear in Who's Who Among American Elementary School Students.
+48186,206,10,54000,Marge Simpson,Simpson Home,Please submit their names along with ninety-five dollars for each handsome volume you wish to order.
+48187,206,11,54000,Marge Simpson,Simpson Home,"Oh, I've never been so proud. You both deserve a big, big reward!"
+48188,206,12,66000,Lisa Simpson,Simpson Home,"Mom, they put every kid in America in that book, just so gullible parents will buy it. It's all a big scam."
+48189,206,13,73000,Bart Simpson,Simpson Home,Shut up.
+48190,206,14,75000,Marge Simpson,Simpson Home,Are you sure? I can usually smell a scam from two towns over.
+48191,206,15,79000,Bart Simpson,Simpson Home,"Yeah, Lis. She is a smart, sophisticated woman. Now let's hear more about that big, big reward."
+48192,206,16,86000,Homer Simpson,Simpson Home,"Yeah, quit stalling, Marge. We want our reward."
+48194,206,18,89000,Marge Simpson,Highway,One reward coming up. Ta-da!
+48166,206,19,93000,Homer Simpson,Highway,Yay! / All right! / Woo-hoo! /
+48196,206,21,98000,Homer Simpson,FUN CENTER,"Man, it feels good to get out of that car. Ooo, go-carts! C'mon everybody, let's go."
+48197,206,22,109000,Homer Simpson,FUN CENTER,"Look at me, Bart! I'm driving!"
+48198,206,23,113000,Bart Simpson,FUN CENTER,"We're all proud of you, Dad."
+48199,206,24,116000,Lisa Simpson,FUN CENTER,"Move it, poky."
+48200,206,25,118000,Marge Simpson,FUN CENTER,Slow and steady wins the race.
+48201,206,26,128000,Marge Simpson,FUN CENTER,"Easy, easy. Stick with the plan."
+48203,206,28,134000,Nelson Muntz,FUN CENTER,"Oh, are you all right, man?"
+48204,206,29,137000,Milhouse Van Houten,FUN CENTER,Uh... I think so.
+48205,206,30,140000,Nelson Muntz,FUN CENTER,How 'bout now?
+48206,206,31,143000,Nelson Muntz,FUN CENTER,Haw haw.
+48207,206,32,144000,Marge Simpson,FUN CENTER,"That was no accident! Shame on you, Nelson."
+48208,206,33,147000,Nelson Muntz,FUN CENTER,"Cram it, ma'am."
+48209,206,34,151000,Homer Simpson,FUN CENTER,Stand back and watch the pro.
+48210,206,35,154000,Lisa Simpson,FUN CENTER,"Uh, shouldn't you put on a batting helmet?"
+48211,206,36,156000,Homer Simpson,FUN CENTER,Nah. They mess up my hair.
+48212,206,37,161000,Homer Simpson,FUN CENTER,Ooh. Ball one.
+48213,206,38,165000,Homer Simpson,FUN CENTER,Ball two. This Bozo's gonna walk me.
+48214,206,39,170000,Homer Simpson,FUN CENTER,Hey!
+48215,206,40,170000,Homer Simpson,FUN CENTER,"You're going down, you--"
+48216,206,41,170000,Homer Simpson,FUN CENTER,Oh! Oh! Why you-- Hey you-- You better-- I'm gonna-- If you k--
+48217,206,42,183000,Lisa Simpson,FUN CENTER,"Hang in there, Dad! Just half a basket left!"
+48218,206,43,188000,Bart Simpson,FUN CENTER,"Wow, you sure get a lot of balls for a quarter."
+48219,206,44,197000,Lisa Simpson,FUN CENTER,Yes! A Maggie-oop!
+48220,206,45,201000,Nelson Muntz,FUN CENTER,"Hey, that's cheating."
+48221,206,46,208000,Bart Simpson,FUN CENTER,"Okay, what can I get for twelve, count 'em, twelve prize tickets?"
+48222,206,47,212000,Squeaky-Voiced Teen,FUN CENTER,"Two thumbtacks and a mustache comb, or five rubber bands and an ice cube."
+48223,206,48,218000,Nelson Muntz,FUN CENTER,What can I get for eight thousand tickets?
+48224,206,49,221000,Squeaky-Voiced Teen,FUN CENTER,"A BB-gun, or an Easy Bake Oven."
+48225,206,50,223000,Nelson Muntz,FUN CENTER,"Hmm, hot food is tempting... but I just can't say no to a weapon."
+48226,206,51,231000,Bart Simpson,FUN CENTER,"Whoa, can I try that some time?"
+48227,206,52,234000,Nelson Muntz,FUN CENTER,"Yeah, sure. Never hurts to have a second set of prints on a gun."
+48228,206,53,238000,Bart Simpson,FUN CENTER,"Wow, thanks, Nelson! I'll come by your house later --"
+48229,206,54,241000,Marge Simpson,FUN CENTER,"Oh, no you won't."
+48230,206,55,243000,Marge Simpson,FUN CENTER,You stay away from Nelson Muntz.
+48231,206,56,245000,Bart Simpson,FUN CENTER,"But, Mom --"
+48232,206,57,245000,Marge Simpson,FUN CENTER,"Nelson's a troubled, lonely, sad little boy. He needs to be isolated from everyone."
+48233,206,58,252000,Bart Simpson,FUN CENTER,"But, Mom --"
+48234,206,59,252000,Marge Simpson,FUN CENTER,Yes?
+48235,206,60,254000,Bart Simpson,FUN CENTER,That's all I got.
+48237,206,62,256000,Lisa Simpson,Simpson Home,So what prize did you end up getting?
+48238,206,63,258000,Bart Simpson,Simpson Home,Mustache comb. What'd you get?
+48239,206,64,260000,Lisa Simpson,Simpson Home,Fake mustache.
+48240,206,65,261000,Lisa Simpson,Simpson Home,Wanna comb it?
+48241,206,66,262000,Bart Simpson,Simpson Home,This sucks. It's time to punch outta this yawn factory. I'm going to Nelson's.
+48242,206,67,267000,Lisa Simpson,Simpson Home,But Mom said not to!
+48243,206,68,268000,Bart Simpson,Simpson Home,"She doesn't scare me. I do what I want, when I want. Oh God, inchworms!"
+48245,206,70,275000,Bart Simpson,NELSON'S HOUSE,Won't you get in trouble if your Mom sees you doing that?
+48246,206,71,277000,Nelson Muntz,NELSON'S HOUSE,"Nah, my Mom's got bigger problems. She doesn't give a crap what I do."
+48247,206,72,281000,Bart Simpson,NELSON'S HOUSE,"Wow, you are so lucky."
+48248,206,73,283000,Nelson Muntz,NELSON'S HOUSE,"C'mon, let's lock and load."
+48249,206,74,285000,Nelson Muntz,NELSON'S HOUSE,"You're not going out without a scarf, are ya?"
+48250,206,75,287000,Bart Simpson,NELSON'S HOUSE,"Eh, I don't need one."
+48251,206,76,289000,Nelson Muntz,NELSON'S HOUSE,"Hmm, it's your health."
+48252,206,77,293000,Nelson Muntz,NELSON'S HOUSE,Think I can hit that bottle?
+48253,206,78,294000,Bart Simpson,NELSON'S HOUSE,"Yeah, probably."
+48254,206,79,296000,Nelson Muntz,NELSON'S HOUSE,"Shows what you know. Hey, check this out."
+48255,206,80,305000,Nelson Muntz,NELSON'S HOUSE,"That's my Dad's shootin' car. Just three more payments, and it's ours."
+48256,206,81,309000,Bart Simpson,NELSON'S HOUSE,"Oh, cool. Can I get a shot now?"
+48257,206,82,311000,Nelson Muntz,NELSON'S HOUSE,"Hang on. First, how 'bout I try and peg you in the stomach?"
+48258,206,83,315000,Bart Simpson,NELSON'S HOUSE,"Mmm. No, thanks."
+48259,206,84,316000,Nelson Muntz,NELSON'S HOUSE,Or what about you put on these nerd glasses and I shoot 'em off?
+48260,206,85,320000,Bart Simpson,NELSON'S HOUSE,"No way. C'mon, quit hoggin' the gun."
+48261,206,86,325000,Nelson Muntz,NELSON'S HOUSE,Bet you can't hit that bird from here.
+48262,206,87,327000,Bart Simpson,NELSON'S HOUSE,Are you crazy? I don't wanna shoot a stupid bird.
+48263,206,88,330000,Nelson Muntz,NELSON'S HOUSE,That's 'cuz you know you can't. You're not a superstud like me.
+48264,206,89,334000,Bart Simpson,NELSON'S HOUSE,Am too.
+48265,206,90,335000,Nelson Muntz,NELSON'S HOUSE,"Are not. You're an octo-wussy. Ohh, look at me. I'm Bart Simpson. I'm scared to use a gun. I want to marry Milhouse. I walk around like this. La la la la la la la..."
+48266,206,91,348000,Bart Simpson,NELSON'S HOUSE,"Hey, quit it!"
+48267,206,92,368000,Bart Simpson,NELSON'S HOUSE,Oh my God...
+48268,206,93,369000,Nelson Muntz,NELSON'S HOUSE,"Whoa-oa, major shot! You even compensated for the crooked sight!"
+48269,206,94,374000,Bart Simpson,NELSON'S HOUSE,Crooked sight?
+48270,206,95,376000,Nelson Muntz,NELSON'S HOUSE,"You are one cold-blooded killer, dude!"
+48271,206,96,379000,Bart Simpson,NELSON'S HOUSE,"But, but I wasn't... I didn't..."
+48272,206,97,379000,Nelson Muntz,NELSON'S HOUSE,"Right through the neck! Doesn't get any sweeter than that, Simpson. Savor the moment."
+48274,206,99,397000,Homer Simpson,Simpson Home,I rolled up all the socks.
+48275,206,100,399000,Homer Simpson,Simpson Home,What's next?
+48276,206,101,400000,Marge Simpson,Simpson Home,"While I deal with this, why don't you start on that basket?"
+48277,206,102,403000,Homer Simpson,Simpson Home,All right.
+48278,206,103,404000,Homer Simpson,Simpson Home,I hate folding sheets.
+48279,206,104,407000,Marge Simpson,Simpson Home,That's your underwear.
+48280,206,105,409000,Homer Simpson,Simpson Home,"Well, whatever it is, it's a two-man job. Where's Bart?"
+48281,206,106,412000,Marge Simpson,Simpson Home,He's up in his room. Bart?
+48282,206,107,414000,Homer Simpson,Simpson Home,"It's okay, Marge. I'll get him. BA-ART!"
+48283,206,108,418000,Lisa Simpson,Simpson Home,What the heck's going on?
+48284,206,109,420000,Marge Simpson,Simpson Home,"We need Bart to help fold your father's underpants. Where is he, anyway?"
+48285,206,110,424000,Lisa Simpson,Simpson Home,"Bart? Uhh, he went to play with a friend."
+48286,206,111,428000,Marge Simpson,Simpson Home,"He didn't go to Nelson's, did he?"
+48287,206,112,430000,Lisa Simpson,Simpson Home,"No, no. I'm pretty sure he's with Milhouse."
+48288,206,113,435000,Homer Simpson,Simpson Home,MILHOUSE!
+48289,206,114,437000,Milhouse Van Houten,Simpson Home,What?
+48290,206,115,439000,Homer Simpson,Simpson Home,TELL BART TO COME HOME!
+48291,206,116,443000,Milhouse Van Houten,Simpson Home,I think he's at Nelson's!
+48292,206,117,446000,Homer Simpson,Simpson Home,WHO'S NELSON?
+48293,206,118,449000,Marge Simpson,Simpson Home,"Nelson?! I explicitly forbade Bart from playing with that little monster. Ooo, Bart is in deep, deep trouble."
+48294,206,119,459000,Marge Simpson,Simpson Home,"Oh, yes. And punish Lisa for lying to us."
+48295,206,120,463000,Homer Simpson,Simpson Home,"All right, young lady. I want you to march yourself directly to the Kwik-E-Mart and get me some chips and a beer."
+48297,206,121,469000,Homer Simpson,Simpson Home,"And get a little something for yourself, sweetheart."
+48299,206,123,473000,Nelson Muntz,NELSON'S HOUSE,"Should we bury it, or chuck it into a car full of girls?"
+48300,206,124,476000,Bart Simpson,NELSON'S HOUSE,"Hey, leave it alone."
+48301,206,125,477000,Nelson Muntz,NELSON'S HOUSE,"Okay, okay. Don't kill me, killer."
+48302,206,126,480000,Bart Simpson,NELSON'S HOUSE,Don't call me that!
+48303,206,127,481000,Nelson Muntz,NELSON'S HOUSE,"Relax, Simpson. It was either him or you. No court would convict you."
+48305,206,129,489000,Eagle,EERILY-LIT COURTROOM,"Bart Simpson, do you know why you've been summoned before this tribunal?"
+48306,206,130,494000,Bart Simpson,EERILY-LIT COURTROOM,"Yes, sir. Because I killed an innocent bird."
+48308,206,132,497000,Vulture,EERILY-LIT COURTROOM,Dear Lord! We just wanted you to put fresh newspaper on the tribunal floor!
+48309,206,133,502000,Eagle,EERILY-LIT COURTROOM,We're knee-deep in our own droppings. It's disgusting.
+48310,206,134,506000,Toucan,EERILY-LIT COURTROOM,"But since you've confessed to bird-slaughter, we have no choice but to peck your face off!"
+48311,206,135,511000,Bart Simpson,EERILY-LIT COURTROOM,No! Not the face!
+48313,206,137,519000,Bart Simpson,EERILY-LIT COURTROOM,Ow! What are you doing?
+48314,206,138,521000,Nelson Muntz,EERILY-LIT COURTROOM,"I got bored, so I started slapping you."
+48315,206,139,523000,Bart Simpson,EERILY-LIT COURTROOM,Uh-oh.
+48316,206,140,528000,Marge Simpson,EERILY-LIT COURTROOM,"Young man, you're coming home with me this minute."
+48317,206,141,531000,Nelson Muntz,EERILY-LIT COURTROOM,"All right! Finally, a real home."
+48318,206,142,533000,Marge Simpson,EERILY-LIT COURTROOM,Not you. Bart.
+48319,206,143,536000,Nelson Muntz,EERILY-LIT COURTROOM,"Oh. See ya later, killer."
+48320,206,144,539000,Marge Simpson,EERILY-LIT COURTROOM,Killer? Why did he call you killer?
+48321,206,145,541000,Bart Simpson,EERILY-LIT COURTROOM,"Mom, you were right. Nelson is bad news. Can we go home?"
+48322,206,146,544000,Marge Simpson,EERILY-LIT COURTROOM,What are you hiding there?
+48323,206,147,547000,Bart Simpson,EERILY-LIT COURTROOM,Nothing.
+48324,206,148,548000,Marge Simpson,EERILY-LIT COURTROOM,What are those cats doing behind you?
+48325,206,149,551000,Bart Simpson,EERILY-LIT COURTROOM,"Uh, cats like me."
+48326,206,150,555000,Bart Simpson,EERILY-LIT COURTROOM,"Get off, get off!"
+48327,206,151,558000,Marge Simpson,EERILY-LIT COURTROOM,Bart! Did you kill that poor bird?
+48328,206,152,562000,Bart Simpson,EERILY-LIT COURTROOM,"I didn't mean to, Mom. The gun pulled to the left --"
+48329,206,153,562000,Marge Simpson,EERILY-LIT COURTROOM,"You disobeyed me, snuck over here, and murdered a helpless animal?"
+48330,206,154,570000,Bart Simpson,EERILY-LIT COURTROOM,"I know, I really screwed up. I deserve to be punished."
+48331,206,155,573000,Marge Simpson,EERILY-LIT COURTROOM,"What's the point, Bart? I punish and I punish and I punish, but it never sinks in. So you know what? Do what you want. You want to play with little hoodlums? Fine. Have fun killing things."
+48332,206,156,587000,Bart Simpson,EERILY-LIT COURTROOM,"Mom, wait..."
+48333,206,157,604000,Bart Simpson,EERILY-LIT COURTROOM,"Oh, my God."
+48334,206,158,608000,Bart Simpson,EERILY-LIT COURTROOM,"Hi, little eggs. I'm not sure how to tell you this, but... Y-Your mom was involved in an incident. Mistakes were made. By me. But don't worry, I'll take care of you."
+48336,206,160,628000,Troy McClure,Springfield Library,"Hi, I'm Troy McClure. You may remember me from such nature films as ""Earwigs: Eww,"" and ""Man vs. Nature: The Road to Victory."""
+48337,206,161,640000,Troy McClure,Springfield Library,"In all the animal kingdom, no mother is more devoted than the Blue Jay."
+48338,206,162,645000,Troy McClure,Springfield Library,"Valuing her eggs above even her own life, the mother bird bravely fights off such fearsome predators as the badger and the mongoose."
+48339,206,163,654000,Troy McClure,Springfield Library,"Of course, one thing mother Blue Jay can't defend against is a set of steel tongs."
+48340,206,164,661000,Troy McClure,Springfield Library,"Eggs. Precious eggs. If they're to survive, they require the gentle warmth and tender love that only a mother can provide. Or better yet, a 75-watt bulb."
+48342,206,166,673000,Troy McClure,Laboratory,"Oh, hello. In a few days, our eggs will hatch into nestlings, like these over here."
+48343,206,167,679000,Billy,Laboratory,"They look awfully hungry, Mr. McClure."
+48344,206,168,681000,Troy McClure,Laboratory,"They sure are, Billy. In nature, their mother would regurgitate food for them to eat."
+48345,206,169,686000,Billy,Laboratory,That's gross.
+48346,206,170,689000,Troy McClure,Laboratory,"It sure is, Billy. It sure is."
+48347,206,171,702000,Library Lady Tress,Laboratory,You've checked this Bible out every weekend for the last nine years. Wouldn't it be easier to just buy one?
+48348,206,172,709000,Rev. Timothy Lovejoy,Laboratory,Perhaps on a librarian's salary.
+48351,206,175,722000,Bart Simpson,Bart's Treehouse,"Hey, fellas, good news. I found an extra 75-watt bulb lyin' around."
+48355,206,179,730000,Bart Simpson,Bart's Treehouse,"Check it out, guys. I've been working on this regurgitation thing."
+48356,206,180,743000,Bart Simpson,Bart's Treehouse,"Oh, yeah. Hope you like PopTarts."
+48357,206,181,746000,Bart Simpson,Bart's Treehouse,"I think I'll call you Chirpy Boy, and you Bart Junior. And you can call me Mother. No, wait, that sounds kinda fruity. Just call me Mom."
+48359,206,183,773000,Marge Simpson,Simpson Home,Mmm. What do you think he's doing up there?
+48360,206,184,795000,Homer Simpson,Simpson Home,I'unno. Drug lab?
+48361,206,185,796000,Marge Simpson,Simpson Home,Drug lab?!
+48362,206,186,797000,Homer Simpson,Simpson Home,"Or reading comic books. What am I, Kreskin? You tell me what he's doing."
+48363,206,187,801000,Marge Simpson,Simpson Home,"I don't know, and I don't want to know. And I'm going to find out!"
+48364,206,188,805000,Marge Simpson,Simpson Home,"Oh, my good, gray extension cord."
+48366,206,190,811000,Bart Simpson,Bart's Treehouse,"Oh, no!"
+48367,206,191,814000,Bart Simpson,Bart's Treehouse,I've gotta keep these warm.
+48368,206,192,818000,Marge Simpson,Bart's Treehouse,"Bart, stop whatever you're doing and come down here."
+48369,206,193,822000,Bart Simpson,Bart's Treehouse,Can't right now. Come back later.
+48370,206,194,824000,Marge Simpson,Bart's Treehouse,"Oh, I'll come back later."
+48371,206,195,829000,Marge Simpson,Bart's Treehouse,How's this for later?!
+48372,206,196,830000,Bart Simpson,Bart's Treehouse,"Mom, listen--"
+48373,206,197,830000,Marge Simpson,Bart's Treehouse,Why are you sitting like that? What are you hiding this time?
+48374,206,198,840000,Marge Simpson,Bart's Treehouse,Eggs?
+48375,206,199,842000,Bart Simpson,Bart's Treehouse,"That bird I killed was their mother. I don't want her babies to die, too."
+48376,206,200,849000,Marge Simpson,Bart's Treehouse,"Ohhh, oh, honey. Oh, come here."
+48377,206,201,855000,Marge Simpson,Bart's Treehouse,Oh my goodness! Look!
+48380,206,204,860000,Homer Simpson,Simpson Home,"Oh, man. This is the most exciting thing I've seen since Haley's Comet collided with the moon!"
+48381,206,205,867000,Lisa Simpson,Simpson Home,"That never happened, Dad."
+48382,206,206,869000,Homer Simpson,Simpson Home,Sure it didn't.
+48383,206,207,872000,Bart Simpson,Simpson Home,"Is the nest still warm enough, Mom?"
+48384,206,208,874000,Marge Simpson,Simpson Home,Hmm... it's starting to cool down. I'll bake another pie.
+48385,206,209,881000,Homer Simpson,Simpson Home,"Ooo, how 'bout cherry this time? And would it kill you to make some coffee?"
+48386,206,210,885000,Homer Simpson,Simpson Home,Why is this taking so long? Bart was born in about five minutes.
+48387,206,211,890000,Marge Simpson,Simpson Home,"Actually, it took fifty-three hours."
+48388,206,212,893000,Homer Simpson,Simpson Home,"Really? Well, the time just flew by, didn't it?"
+48391,206,214,899000,Bart Simpson,Simpson Home,Everybody come quick! They're hatching!
+48392,206,215,909000,Marge Simpson,Simpson Home,I see a foot!
+48393,206,216,909000,Lisa Simpson,Simpson Home,I see an eye!
+48394,206,217,911000,Bart Simpson,Simpson Home,I see a neck!
+48395,206,218,911000,Homer Simpson,Simpson Home,I see a horn!
+48396,206,219,913000,Lisa Simpson,Simpson Home,A horn?
+48398,206,221,925000,Bart Simpson,Simpson Home,"Man, those are some funky-lookin' birds."
+48399,206,222,930000,Homer Simpson,Simpson Home,"Aww... Ohh, you look like a little tiny dinosaur."
+48400,206,223,936000,Homer Simpson,Simpson Home,That is one vicious baby bird.
+48401,206,224,938000,Lisa Simpson,Simpson Home,"Dad, they aren't birds."
+48402,206,225,939000,Bart Simpson,Simpson Home,"Sure they are. They came from eggs in a bird's nest. Therefore, they're birds. Ixo fatso."
+48403,206,226,943000,Lisa Simpson,Simpson Home,"One, they don't have beaks, two, they don't have feathers, and three, they're lizards."
+48404,206,227,950000,Bart Simpson,Simpson Home,You're a lizard.
+48405,206,228,951000,Homer Simpson,Simpson Home,Enough bickering. I know how to settle this.
+48406,206,229,953000,Marge Simpson,Simpson Home,No kickboxing!
+48408,206,231,956000,Homer Simpson,Simpson Home,"If anyone wants me, I'll be eating alone in the basement."
+48410,206,233,960000,Seymour Skinner,Municipal Building,"Now, uh, people, there's been some confusion about our bird-sighting rules. You cannot count birds that you've seen at the zoo, on stamps, or in dreams."
+48411,206,234,975000,Moe Szyslak,Municipal Building,"Well, I'm back to square one."
+48412,206,235,980000,Jasper Beardly,Municipal Building,"Hmmm. My God, a pigeon! That's the last bird on my list! Huh. So long, suckers."
+48413,206,236,991000,Bart Simpson,Municipal Building,Excuse me. Can you tell us what kind of birds these are? They hatched from eggs I found in a nest.
+48414,206,237,996000,Seymour Skinner,Municipal Building,"Good heavens! I'm very glad you brought those in, Bart."
+48415,206,238,1000000,Seymour Skinner,Municipal Building,I'll just get those killed and you can be on your way.
+48416,206,239,1004000,Bart Simpson,Municipal Building,Wait! What the heck are you doing?!
+48417,206,240,1006000,Seymour Skinner,Municipal Building,"My civic duty, that's what."
+48418,206,241,1008000,Lisa Simpson,Municipal Building,Bolivian Tree Lizard?
+48419,206,242,1010000,Seymour Skinner,Municipal Building,"Mm-hm. It's a vicious ovoraptor. It feasts on bird eggs, and lays its own eggs in the nest. The unsuspecting mother bird cares for them until the babies hatch and devour her, too."
+48420,206,243,1020000,Moe Szyslak,Municipal Building,What a chump.
+48422,206,244,1023000,Seymour Skinner,Municipal Building,"It's already wiped out the Dodo, the Cuckoo, and the NeNe. And it has nasty plans for the booby, the titmouse, the woodcock, and the titpecker."
+48423,206,245,1030000,Marge Simpson,Municipal Building,How vile.
+48424,206,246,1032000,Seymour Skinner,Municipal Building,"Well, the one thing that mystifies me is how a Bolivian lizard made it to Springfield."
+48425,206,247,1038000,Apu Nahasapeemapetilon,Municipal Building,That is a puzzlement.
+48427,206,249,1055000,C. Montgomery Burns,Kwik-E-Mart,"Look, Skinner, we haven't got all day. Kill the horrid beasts, then do away with their lizards."
+48428,206,250,1062000,Bart Simpson,Kwik-E-Mart,No! Don't hurt them! I'll just keep them as pets.
+48429,206,251,1065000,Seymour Skinner,Kwik-E-Mart,"No, they might escape and breed. The law is very clear on this: they must be exterminated as quickly and as gruesomely as possible."
+48430,206,252,1072000,Bart Simpson,Kwik-E-Mart,Nooo! They're mine.
+48431,206,253,1075000,Marge Simpson,Kwik-E-Mart,I'm sure we can work this out. He's just a child. Let me talk to him.
+48432,206,254,1081000,Seymour Skinner,Kwik-E-Mart,All right. I'll give you a moment. That will give us time to prepare for the splatter.
+48434,206,256,1088000,Marge Simpson,Municipal Building,"Bart, I'm sorry, but there's nothing we can do. Your lizards are banned by federal law."
+48435,206,257,1094000,Bart Simpson,Municipal Building,"Everyone thinks they're monsters, but I raised them and I love them. I know that's hard to understand."
+48436,206,258,1101000,Marge Simpson,Municipal Building,Not as hard as you think.
+48437,206,259,1109000,Marge Simpson,Municipal Building,Run for it.
+48438,206,260,1111000,Bart Simpson,Municipal Building,Really?
+48439,206,261,1118000,Seymour Skinner,Municipal Building,"Okay, that's exactly one moment. It-- Oh my God, he's getting away!"
+48441,206,263,1124000,Moe Szyslak,Municipal Building,What?
+48442,206,264,1124000,Waylon Smithers,Municipal Building,Stop him!
+48443,206,265,1125000,Moe Szyslak,Municipal Building,"Outta the way, Midge!"
+48444,206,266,1127000,Marge Simpson,Municipal Building,"Oh, am I in the way?"
+48445,206,267,1128000,C. Montgomery Burns,Municipal Building,"Yes, yes, you're in the way! Are you daft, woman?"
+48446,206,268,1132000,Marge Simpson,Municipal Building,Sorry. I didn't realize I was in the way.
+48447,206,269,1134000,Seymour Skinner,Municipal Building,You're still in the way. You don't seem to be moving at all.
+48448,206,270,1138000,Edna Krabappel-Flanders,Municipal Building,"Oh, for cryin' out loud. Just knock her ass down!"
+48449,206,271,1140000,Moe Szyslak,Municipal Building,"Way to shove, Edna."
+48450,206,272,1141000,Apu Nahasapeemapetilon,Municipal Building,Let us roll.
+48452,206,273,1142000,Bart Simpson,Municipal Building,"Guys, is it really true? Are you cold-blooded egg-murderers?"
+48453,206,274,1149000,Bart Simpson,Municipal Building,Don't use that look on me. I invented that look.
+48454,206,275,1154000,C. Montgomery Burns,Municipal Building,"There he is, off in the distance!"
+48456,206,277,1164000,Seymour Skinner,Municipal Building,"Okay, Bart. This is where it ends. Relinquish the lizards."
+48457,206,278,1170000,Seymour Skinner,Municipal Building,I said relinquish!
+48459,206,280,1178000,Bart Simpson,Municipal Building,Oh no! You killed 'em.
+48460,206,281,1185000,Seymour Skinner,Municipal Building,Good riddance to bad lizards.
+48462,206,283,1192000,Bart Simpson,Municipal Building,"Whoa, look at 'em."
+48463,206,284,1196000,Bart Simpson,Municipal Building,"Go, Chirpy Boy! Go, Bart Junior!"
+48464,206,285,1198000,Seymour Skinner,Municipal Building,"Oh, nuts."
+48465,206,286,1200000,Lisa Simpson,Municipal Building,Wow. Did you know they had those web flaps for gliding?
+48466,206,287,1203000,Seymour Skinner,Municipal Building,"Yes, but I was hoping they didn't know that."
+48467,206,288,1211000,Seymour Skinner,Municipal Building,"Well, I hope you're happy, Bart. You have no idea what kind of plague you've unleashed upon this town."
+48468,206,289,1221000,Kent Brockman,Municipal Building,"Our top story: the population of parasitic tree lizards has exploded -- and local citizens couldn't be happier! It seems the rapacious reptiles have developed a taste for the common pigeon, also known as the feathered rat, or gutter bird."
+48469,206,290,1235000,Kent Brockman,Municipal Building,"For the first time, citizens need not fear harassment by flocks of chattering disease-bags."
+48471,206,292,1246000,Mayor Joe Quimby,Springfield Park,"For decimating our pigeon population, and making Springfield a less oppressive place to while away our worthless lives, I present you with this scented candle."
+48472,206,293,1259000,Townspeople,Springfield Park,/ Yay! / Woo-hoo! / All right!
+48473,206,294,1261000,Seymour Skinner,Springfield Park,"Well, I was wrong. The lizards are a godsend."
+48474,206,295,1264000,Lisa Simpson,Springfield Park,But isn't that a bit short-sighted? What happens when we're overrun by lizards?
+48475,206,296,1269000,Seymour Skinner,Springfield Park,No problem. We simply unleash wave after wave of Chinese Needle Snakes. They'll wipe out the lizards.
+48476,206,297,1274000,Lisa Simpson,Springfield Park,But aren't the snakes even worse?
+48477,206,298,1276000,Seymour Skinner,Springfield Park,"Yes, but we're prepared for that. We've lined up a fabulous type of gorilla that thrives on snake meat."
+48478,206,299,1281000,Lisa Simpson,Springfield Park,But then we're stuck with gorillas!
+48480,206,300,1283000,Seymour Skinner,Springfield Park,"No, that's the beautiful part. When wintertime rolls around, the gorillas simply freeze to death."
+48482,206,302,1290000,Homer Simpson,Springfield Park,"I'm proud of you, boy. Mmmm, loganberry."
+48483,206,303,1298000,Lisa Simpson,Springfield Park,"I don't get it, Bart. You got all upset when you killed one bird, but now you've killed tens of thousands and it doesn't bother you at all."
+48484,206,304,1305000,Bart Simpson,Springfield Park,"Hey, you're right. I call the front seat!"
+48485,206,305,1308000,Lisa Simpson,Springfield Park,You had it on the way over!

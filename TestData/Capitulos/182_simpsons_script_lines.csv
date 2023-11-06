@@ -1,0 +1,231 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+41313,182,1,4000,Kent Brockman,Simpson Home,...and that's how an heroic hippo became a deputy.
+41314,182,2,76000,Homer Simpson,Simpson Home,Stupid hippo.
+41315,182,3,77000,Kent Brockman,Simpson Home,"This just in: tensions continue to mount between Springfield and France over Mayor Quimby's now famous ""frog's legs"" joke. The French President has threatened swift and massive retaliation if he doesn't receive an immediate apology."
+41316,182,4,90000,Homer Simpson,Simpson Home,Stupid frog.
+41317,182,5,91000,Kent Brockman,Simpson Home,We now go live to City Hall for Mayor Quimby's response.
+41318,182,6,94000,Mayor Joe Quimby,Simpson Home,"I stand by my ethnic slur. Do your worst you filthy, pretentious savages!"
+41319,182,7,101000,Marge Simpson,Simpson Home,"Homer, you know how unpredictable the French are. One minute they're kissing a woman's hand, the next they're chopping off her head. What if they start a war?"
+41320,182,8,110000,Homer Simpson,Simpson Home,"Relax, I built a bomb shelter."
+41321,182,9,112000,Lisa Simpson,Simpson Home,That's not gonna protect us from anything.
+41322,182,10,115000,Homer Simpson,Simpson Home,"Fine, then don't use it."
+41323,182,11,117000,Lisa Simpson,Simpson Home,I won't.
+41324,182,12,118000,Homer Simpson,Simpson Home,Good.
+41325,182,13,118000,Lisa Simpson,Simpson Home,I know it's good.
+41326,182,14,119000,Homer Simpson,Simpson Home,So do I.
+41327,182,15,120000,Lisa Simpson,Simpson Home,I'm happy for you.
+41328,182,16,121000,Homer Simpson,Simpson Home,You should be.
+41330,182,18,125000,Herman Hermann,ARMY SURPLUS STORE,"Now this baby is called ""The Withstandinator"". It can take a six megaton blast, no more, no less."
+41333,182,21,137000,Homer Simpson,SHELTER,"Blankets, radio... Oh, a Gary Larson calendar. I don't get it. I don't get it. I don't get it. I don't get it. I--don't get it."
+41337,182,25,154000,French President,FRENCH MISSILE ROOM,"Sacre bleu! We will show those stupid Americans who looks like zee frog, eh?"
+41338,182,26,164000,French President,FRENCH MISSILE ROOM,"Ready, aim..."
+41341,182,29,179000,Kodos,Sky,What the hell was that?!
+41342,182,30,181000,Kang,Sky,Calling home planet. This is Ensign Kang reporting a cigar-shaped object moving at tremendous speed.
+41345,182,33,187000,Alien,ALIEN COMMAND CENTER,"Sure, Kang, I'm writing it all down..."
+41347,182,35,199000,Mayor Joe Quimby,Springfield,I'll bet I get blamed for this.
+41348,182,36,200000,Comic Book Guy,Springfield,"But Aquaman, you cannot marry a woman without gills. You're from two different worlds."
+41349,182,37,209000,Comic Book Guy,Springfield,"Oh, I've wasted my life."
+41351,182,39,221000,Homer Simpson,ARMY SURPLUS STORE,You call that prime rib?
+41353,182,41,231000,Homer Simpson,Simpson Car,"It's green, moron. Earth to stupid guy, hullo? Maybe a little friendly punching will move your ass."
+41354,182,42,241000,Homer Simpson,Simpson Car,"Heh, still got it..."
+41355,182,43,247000,Homer Simpson,Simpson Car,"Geez, what's with all the death?"
+41356,182,44,250000,Homer Simpson,Simpson Car,Oh my God. Everyone's gone! Little Bart...
+41357,182,45,259000,Homer Simpson,Simpson Car,Little Lisa-a-a...
+41358,182,46,259000,Homer Simpson,Simpson Car,Little Marge...
+41359,182,47,259000,Homer Simpson,Simpson Car,And the rest.
+41360,182,48,271000,Homer Simpson,Simpson Car,"Oh, I've lost everything. I can't go on. No, no, no! I can't just wallow in sadness. It's time to laugh again. I'm the last man alive!"
+41361,182,49,286000,Homer Simpson,Simpson Car,And I can do everything I've always wanted!
+41362,182,50,304000,Homer Simpson,Simpson Car,"Oh Spade, why did you put Farley in charge of the bees? Hey buddy, down in front."
+41363,182,51,316000,Homer Simpson,Simpson Car,"""War! Hunh! Good God y'all! / What is it good for? / Absolutely nothin'! Say it again!"" Okay!"
+41364,182,52,326000,Homer Simpson,Simpson Car,"Hey, what happened to the tunes?"
+41365,182,53,332000,Homer Simpson,Simpson Car,"Hey, what the hell's goin' on? Where'd you get those cloaks?"
+41366,182,54,334000,Mutant Sideshow Mel,Simpson Car,Silence! You're talking too loud.
+41367,182,55,337000,Mutant Dr. Hibbert,Simpson Car,"Not everyone died in the blast, Homer. Some of us were merely horribly mutated."
+41368,182,56,346000,Homer Simpson,Simpson Car,You're mutants?
+41369,182,57,347000,Mutant Moe,Simpson Car,"Ah, we don't like the word ""mutants,"" Homer. We prefer ""freaks"" or ""monsters."""
+41370,182,58,349000,Mutant Skinner,Simpson Car,"We're creating a new perfect society, in which the mistakes of the past will be eliminated."
+41371,182,59,358000,Mutant Burns,Simpson Car,And now you must die.
+41372,182,60,367000,Homer Simpson,Simpson Car,You want me? Come and get me!!
+41373,182,61,369000,Mutant Moe,Simpson Car,Get him!
+41376,182,64,369000,Homer Simpson,Street,A c... a coffin!
+41377,182,65,395000,Homer Simpson,Street,"Die, you chalk-faced goons!"
+41378,182,66,402000,Mutant Lenny,Street,"Come on, we just wanna eat your skin!"
+41379,182,67,404000,Homer Simpson,Street,"Go to hell, cloaky!"
+41380,182,68,413000,Homer Simpson,Street,Safe at last.
+41381,182,69,417000,Homer Simpson,Street,That better not be the mutants.
+41383,182,71,421000,Marge Simpson,Street,"Homie, is that you?"
+41384,182,72,424000,Homer Simpson,Street,Marge! Kids! You're alive!
+41385,182,73,426000,Lisa Simpson,Street,All the layers of lead paint in this house made it the perfect bomb shelter.
+41386,182,74,430000,Homer Simpson,Street,"Ohh, com'ere."
+41387,182,75,434000,Mutants,Street,Awwww.
+41388,182,76,436000,Mutant Wiggum,Street,Kinda brings a tear to your eye socket.
+41389,182,77,439000,Mutant Dr. Hibbert,Street,"Um-hm, in the midst of all the killing and skin-eating, somehow, we forgot the love."
+41390,182,78,445000,Mutant Moe,Street,"Yeah, ain't that always the way? You get nuts with the skin eating."
+41391,182,79,449000,MUTANT FLANDERS,Street,"You know, I don't see any reason why Freaks and Norms can't get along."
+41392,182,80,454000,MUTANT MEL/SKINNER/MOE/BURNS/WIGGUM,Street,"Yes, I think he's right. / Um-hm. / Yeah, why not? / Yes. / Yeah."
+41393,182,81,457000,MUTANT FLANDERS,Street,"We can all work together to... to build a Utopian society, free of violence, hate, and prejudice."
+41394,182,82,463000,Marge Simpson,Street,"That sounds beautiful, Ned. And let me just say, my family and I share your vision for a better NOW!"
+41396,182,84,475000,Marge Simpson,Street,"Friends with mutants, right."
+41397,182,85,479000,Homer Simpson,Street,Now that's the Marge I married.
+41399,182,87,482000,Homer Simpson,Simpson Home,"So, who wants to steal some Ferraris?"
+41400,182,88,485000,Lisa Simpson,Simpson Home,Yo! / Yayyy! I do! / I do! / Right here! / Yay! / I do! / Let's go!
+41403,182,90,498000,Lisa Simpson,PROFESSOR FRINK'S HOUSE,"Wow, look at all these gadgets! If I were a nerd, I'd be in heaven."
+41404,182,91,503000,Professor Jonathan Frink,PROFESSOR FRINK'S HOUSE,"Good morning, ma'am. Good afternoon, sir. It passed noon while I was speaking, so that was technically accurate."
+41405,182,92,511000,Homer Simpson,PROFESSOR FRINK'S HOUSE,He's crazy.
+41406,182,93,512000,Bart Simpson,PROFESSOR FRINK'S HOUSE,"Hey Einstein , how much for the mood pants?"
+41407,182,94,517000,Professor Jonathan Frink,PROFESSOR FRINK'S HOUSE,Buuuhll... how much you got?
+41408,182,95,523000,Professor Jonathan Frink,PROFESSOR FRINK'S HOUSE,"Nice try, Floyd. But you were designed for scrubbing, and scrubbing is what you shall do."
+41410,182,97,539000,Professor Jonathan Frink,PROFESSOR FRINK'S HOUSE,"I take it from that little impressed noise that you are interested in purchasing that matter transporter, sir."
+41411,182,98,546000,Homer Simpson,PROFESSOR FRINK'S HOUSE,"Hmmm, two bucks... And it only transports matter? Umm... Well, ah... I'll give you 35 cents."
+41412,182,99,557000,Professor Jonathan Frink,PROFESSOR FRINK'S HOUSE,"Sold! But I must warn you, this device carries a frighteningly high risk of catastrophic..."
+41413,182,100,564000,Homer Simpson,PROFESSOR FRINK'S HOUSE,I said I'll take it.
+41415,182,102,566000,Homer Simpson,Simpson Home,"This mountain of stairs used to make bedtime a grueling chore. But not any more, baby!"
+41416,182,103,577000,Homer Simpson,Simpson Home,"Good night, losers!"
+41417,182,104,581000,Homer Simpson,Simpson Home,"Man, how'd I live without this thing?"
+41418,182,105,593000,Homer Simpson,Simpson Home,"Oh, man that's good."
+41419,182,106,604000,Marge Simpson,Simpson Home,"Homer, no!"
+41421,182,108,605000,Bart Simpson,Simpson Home,"Hey Dad, can I use the transporter sometime? Please, I swear I'll be careful."
+41422,182,109,610000,Homer Simpson,Simpson Home,"Sorry, but this is a highly sophistimicated doowhackey. If you don't use it responsibly... Kablamo!"
+41423,182,110,618000,Lisa Simpson,Simpson Home,Ow! Someone just punched me in the face!
+41424,182,111,620000,Homer Simpson,Simpson Home,It was your mother.
+41425,182,112,626000,Bart Simpson,Simpson Home,"Okay, cat. Now, if this works, your next trip will be to the bank vault."
+41428,182,115,642000,Bart Simpson,Simpson Home,"Whoa, cool! Twice the pet and none of the mess."
+41429,182,116,647000,Bart Simpson,Simpson Home,Ohh. Uhl. You can be Lisa's.
+41430,182,117,654000,Bart Simpson,Simpson Home,Hmm...
+41431,182,118,662000,Bart Simpson,Simpson Home,Look in the sky! It's Superfly!
+41432,182,119,665000,Bart Simpson,Simpson Home,I'd be stupid not to do this.
+41433,182,120,682000,Bart Simpson,Simpson Home,"It worked! I was hoping to be humongous. Oh well, at least I don't have two butts."
+41434,182,121,690000,Marge Simpson,Simpson Home,What's going on down there? What's all this mist?
+41435,182,122,694000,Bart Simpson,Simpson Home,Uh-oh.
+41436,182,123,695000,Bart Simpson,Simpson Home,Oh! Ow! Uh!
+41437,182,124,700000,Homer Simpson,Simpson Home,"Bart, are you in there? Have you forgotten our little ""kablamo"" talk?"
+41439,182,126,714000,Fly-head,Simpson Home,Bluggh! Blarrr!
+41440,182,127,716000,Lisa Simpson,Simpson Home,"Mom, stop! According to this, it says Bart mixed up his DNA with a fly's. I think that's Bart!"
+41441,182,128,724000,Fly-head,Simpson Home,Bluggh? Blarrr! Blagh!
+41442,182,129,726000,Homer Simpson,Simpson Home,I think she's right. The pants are a dead giveaway.
+41443,182,130,729000,Marge Simpson,Simpson Home,"Oh, well, he may be a horrible freak, but he's still my son. I'm sure we'll grow to accept him in time."
+41444,182,131,744000,Marge Simpson,Simpson Home,"Homer, stop that!"
+41445,182,132,744000,Homer Simpson,Simpson Home,"So then Lenny says, ""As if! Don't even go there, sister."""
+41447,182,134,744000,Lisa Simpson,Simpson Home,"Good one, Dad."
+41448,182,135,751000,Homer Simpson,Simpson Home,"Yeah, well Lenny said it."
+41449,182,136,755000,Fly-head,Simpson Home,Blaahh!
+41450,182,137,756000,Marge Simpson,Simpson Home,"Ohh, you want more syrup, honey?"
+41451,182,138,759000,Fly-head,Simpson Home,Blah!
+41452,182,139,759000,Lisa Simpson,Simpson Home,"There's one thing I still don't understand. When Bart went through the transporter, what happened to his head?"
+41453,182,140,765000,Homer Simpson,Simpson Home,"Eh, it'll turn up somewhere."
+41454,182,141,769000,Bart Simpson,Simpson Home,Help me! Help meeeee!
+41455,182,142,774000,Bart Simpson,Simpson Home,Sucker!
+41456,182,143,787000,Homer Simpson,Simpson Home,"Okay, okay. It's your sugar, Bart."
+41457,182,144,791000,Bart Simpson,Simpson Home,That imposter!
+41458,182,145,796000,Bart Simpson,Simpson Home,Mom! Dad! I'm the real Bart! That's just some overgrown fly with my body! Somebody listen to me!
+41459,182,146,803000,Marge Simpson,Simpson Home,"Mm! Shoo! Shoo, fly!"
+41460,182,147,808000,Bart Simpson,Simpson Home,"Listen, buddy -- this is all a mistake. If you'll just go through the transporter with me again, we'll have you back eating garbage in no time."
+41462,182,149,818000,Fly-head,Simpson Home,BLARRGH!
+41463,182,150,821000,Homer Simpson,Simpson Home,"Get 'im, boy! Smash that fly! Mush him up good!"
+41464,182,151,826000,Homer Simpson,Simpson Home,"Nice work, son."
+41465,182,152,832000,Lisa Simpson,Simpson Home,Bart! Is that you?!
+41466,182,153,836000,Lisa Simpson,Simpson Home,I can't hear you. Wait! Fly into my saxophone!
+41467,182,154,842000,Bart Simpson,Simpson Home,"Help me, Lis! That giant fly stole my body, and now he's trying to kill me!"
+41468,182,155,847000,Lisa Simpson,Simpson Home,"Oh no! And I let him use my toothbrush! Well, that hideous creep doesn't scare me."
+41470,182,157,857000,Lisa Simpson,LIVING ROOM,"Mom, Dad, help! He's trying to kill me!"
+41471,182,158,860000,Homer Simpson,LIVING ROOM,"Nobody likes a tattletale, honey."
+41472,182,159,862000,Marge Simpson,LIVING ROOM,They're like this every rainy day.
+41475,182,162,876000,Bart Simpson,Simpson Home,Get my filthy hands off my sister!
+41476,182,163,878000,Bart Simpson,Simpson Home,Whoa! No! Don't eat me! You don't know where I've been!
+41477,182,164,885000,Lisa Simpson,Simpson Home,"You just made a big mistake, Fly Boy."
+41478,182,165,893000,Lisa Simpson,Simpson Home,Hey! It worked!
+41479,182,166,895000,Homer Simpson,Simpson Home,"Well, we were lucky this time. But it's all too clear that some things in this universe aren't meant to be trifled with."
+41480,182,167,904000,Marge Simpson,Simpson Home,"Homer, what are you doing?"
+41481,182,168,906000,Homer Simpson,Simpson Home,Something I should have done a long time ago.
+41482,182,169,909000,Homer Simpson,Simpson Home,I'll teach you to mess with my machine!
+41483,182,170,913000,Homer Simpson,Simpson Home,I'm gonna chop you good!
+41484,182,171,916000,Homer Simpson,Simpson Home,That cost me 35 cents!
+41485,182,172,918000,Homer Simpson,Simpson Home,You're just making it worse. I promise I won't hurt you.
+41487,182,174,932000,Governor Quimby,Springfield Town Square,You are all hereby found guilty of the crime of witchcraft. I sentence you hags to be burned at the stake until you are deemed fit to re-enter society.
+41488,182,175,943000,Constable Wiggum,Springfield Town Square,"Fire it up, boys."
+41490,182,177,948000,Nelson Muntz,Springfield Town Square,Haw haw.
+41491,182,178,949000,Agnes Skinner,Springfield Town Square,"See you in hell, Seymour."
+41492,182,179,952000,Goodman Skinner,Springfield Town Square,"Goodbye, Mother."
+41493,182,180,953000,Marge Simpson,Springfield Town Square,How horrible.
+41494,182,181,954000,Lisa Simpson,Springfield Town Square,"If they're really witches, why don't they use their powers to escape?"
+41495,182,182,958000,Homer Simpson,Springfield Town Square,"That sounds like witch talk to me, Lisa."
+41496,182,183,961000,Lisa Simpson,Springfield Town Square,Never mind.
+41497,182,184,962000,Goodman Flanders,Springfield Town Square,"Well, that's seventy-five witches we've processed. That oughta show God whose side we're on, eh Pastor?"
+41498,182,185,967000,Pastor Lovejoy,Springfield Town Square,"Yes, Nedwin, but we have many more strumpets to incinerate."
+41500,182,187,973000,Pastor Lovejoy,Town Meeting House,Brothers and sisters - there is still a witch among us.
+41501,182,188,976000,Governor Quimby,Town Meeting House,"Let us throw open the floor to, ah, wild accusations."
+41502,182,189,980000,Homer Simpson,Town Meeting House,Woo hoo! I accuse Goody Flanders.
+41504,182,191,985000,Goodman Skinner,Town Meeting House,I accuse Goody Badwife.
+41505,182,192,986000,Constable Wiggum,Town Meeting House,"Uh, we killed her on Sunday."
+41506,182,193,988000,Sideshow Mel,Town Meeting House,"Well, there must be someone here we can accuse."
+41507,182,194,991000,Bart Simpson,Town Meeting House,Lisa Simpson!
+41508,182,195,992000,Lisa Simpson,Town Meeting House,"Bart, quit it!"
+41509,182,196,993000,Bart Simpson,Town Meeting House,She put a spell on me!
+41510,182,197,995000,Bart Simpson,Town Meeting House,Must-drop-pantaloons.
+41511,182,198,999000,Marge Simpson,Town Meeting House,"Let's come to our senses, everyone. This witch hunt is turning into a circus."
+41512,182,199,1004000,Goodman Moe,Town Meeting House,She's the witch!
+41513,182,200,1005000,Crowd,Town Meeting House,Yeah! / Yes! She's the witch!
+41514,182,201,1006000,Goodman Skinner,Town Meeting House,I was just about to accuse her.
+41515,182,202,1008000,Marge Simpson,Town Meeting House,This is crazy! I'm not a witch!
+41516,182,203,1011000,Goody Krabappel,Town Meeting House,Ha! Then how come your laundry is always much whiter than mine?!
+41517,182,204,1015000,Goodman Moe,Town Meeting House,"Oh, I've heard enough! Burn her!"
+41518,182,205,1016000,Crowd,Town Meeting House,Burn her! / Burn her! / Put the match to her! /
+41519,182,206,1020000,Governor Quimby,Town Meeting House,"People, let us not turn into an angry mob. Goody Simpson is entitled to due process."
+41521,182,208,1027000,Constable Wiggum,SPRYNGE-FIELDE GORGE,"Okay, here's how the process works. You sit on the broom and we shove you off the cliff."
+41522,182,209,1031000,Marge Simpson,SPRYNGE-FIELDE GORGE,What?!
+41523,182,210,1032000,Constable Wiggum,SPRYNGE-FIELDE GORGE,"Well, hear me out. If you're innocent, you will fall to an honorable Christian death. If, however, you are the bride of Satan, you will surely fly your broom to safety. At that point you will report back here for torture and beheading."
+41524,182,211,1046000,Goodman Skinner,SPRYNGE-FIELDE GORGE,"Tough, but fair."
+41525,182,212,1047000,Lisa Simpson,SPRYNGE-FIELDE GORGE,"Stop! Doesn't the Bible say ""Judge not lest ye be judged""?"
+41526,182,213,1055000,Crowd,SPRYNGE-FIELDE GORGE,/ Ohh... / That's a good point. / Hmmm... / Yeah.
+41527,182,214,1055000,Constable Wiggum,SPRYNGE-FIELDE GORGE,The bible says a lot of things.... Shove her.
+41529,182,216,1063000,Pastor Lovejoy,SPRYNGE-FIELDE GORGE,"Brothers and sisters, we have performed the Lord's work, and sent a good woman into his waiting..."
+41402,182,218,1075000,Homer Simpson,SPRYNGE-FIELDE GORGE,"Okay, now let's not jump to conclusions, everyone."
+41531,182,219,1080000,Bart Simpson,SPRYNGE-FIELDE GORGE,"Well, I'll be a son of a witch!"
+41532,182,220,1082000,Marge Simpson,SPRYNGE-FIELDE GORGE,"That's right, I'm a witch! And I'm the one who withered your livestock, soured your sheeps' milk and made your shirts itchy."
+41533,182,221,1090000,Goodman Lenny,SPRYNGE-FIELDE GORGE,"Hey, you destroyed my turnip crop."
+41534,182,222,1093000,Marge Simpson,SPRYNGE-FIELDE GORGE,"No, that was gophers."
+41535,182,223,1094000,Constable Wiggum,SPRYNGE-FIELDE GORGE,"Impossible. We, we burned all the gophers."
+41536,182,224,1097000,Marge Simpson,SPRYNGE-FIELDE GORGE,Not all of them...
+41537,182,225,1102000,Marge Simpson,SPRYNGE-FIELDE GORGE,And this is for pushing me off the cliff.
+41539,182,227,1105000,Snowman Eddie,SPRYNGE-FIELDE GORGE,"All right, people. Nothin' to see here."
+41540,182,228,1109000,Princess Lou,SPRYNGE-FIELDE GORGE,"Yeah, show's over, all right. Move along."
+41541,182,229,1111000,Marge Simpson,SPRYNGE-FIELDE GORGE,As for the rest of you...
+41542,182,230,1118000,Homer Simpson,SPRYNGE-FIELDE GORGE,They're in my hair! They're in my hair!
+41544,182,232,1129000,Selma Bouvier,WITCH'S CAVE,This needs more eye of newt.
+41545,182,233,1131000,Patty Bouvier,WITCH'S CAVE,"You always want more eye of newt. If it were up to you, the brew would be nothing but newt eyes."
+41546,182,234,1137000,Selma Bouvier,WITCH'S CAVE,"Well, look who's here. If I knew you were coming, I'd have baked a cat."
+41547,182,235,1142000,Marge Simpson,WITCH'S CAVE,What a day! They found out I was a witch so I had to leave my family.
+41548,182,236,1147000,Patty Bouvier,WITCH'S CAVE,Really? So you finally left Durwood?
+41549,182,237,1150000,Marge Simpson,WITCH'S CAVE,His name is Homer.
+41551,182,239,1154000,Goody Maude,Flanders Home,"Oh, Neddy, look at them up there plotting our doom. They could force us to commit wanton acts of carnality."
+41552,182,240,1161000,Goodman Flanders,Flanders Home,"Yeah, that'll be the day."
+41553,182,241,1163000,Goody Maude,Flanders Home,"What's that, Ned?"
+41554,182,242,1164000,Goodman Flanders,Flanders Home,"Ah, we shouldn't fear the witches, Maude. We're both 35. We've already gone way past our life expectancy..."
+41555,182,243,1170000,Goody Maude,Flanders Home,But think of the children! I've heard that witches come to your house and take your children away to eat them!
+41557,182,245,1175000,Selma Bouvier,WITCH'S CAVE,"Hmm... ""Eat their children?"""
+41558,182,246,1179000,Patty Bouvier,WITCH'S CAVE,"Geez, we were just gonna swipe their shoes."
+41559,182,247,1182000,Selma Bouvier,WITCH'S CAVE,But a good idea is a good idea.
+41562,182,250,1195000,Goodman Flanders,Flanders Home,Who is it?
+41563,182,251,1197000,Selma Bouvier,Flanders Home,Witches.
+41564,182,252,1198000,Goody Maude,Flanders Home,"Um, what do you want?"
+41565,182,253,1200000,Marge Simpson,Flanders Home,We're here to eat your kids.
+41566,182,254,1202000,Goodman Flanders,Flanders Home,"Okay, come on in... and look at this!"
+41567,182,255,1206000,Patty Bouvier,Flanders Home,"Oh, puh-leeze."
+41568,182,256,1210000,Selma Bouvier,Flanders Home,Now make with the kids.
+41569,182,257,1213000,Rod Flanders,Flanders Home,"Don't blame yourself, Daddy."
+41570,182,258,1216000,Todd Flanders,Flanders Home,You did everything you could.
+41571,182,259,1221000,Goodman Flanders,Flanders Home,"Maude, do something."
+41572,182,260,1224000,Goody Maude,Flanders Home,"Uh. Um, well, s'cuse me, are you sure you ladies wouldn't prefer some gingerbread children instead?"
+41573,182,261,1231000,Goodman Flanders,Flanders Home,They're boneless.
+41577,182,265,1244000,Ralph Wiggum,WIGGUM'S' HOUSE,"Bye, witchies. Thanks for not eating me."
+41578,182,266,1247000,Constable Wiggum,WIGGUM'S' HOUSE,"Yeah, you hags are all right."
+41579,182,267,1249000,Selma Bouvier,WIGGUM'S' HOUSE,What did you get?
+41580,182,268,1252000,Marge Simpson,WIGGUM'S' HOUSE,Candied apple!
+41581,182,269,1253000,Patty Bouvier,WIGGUM'S' HOUSE,I got a caramel cod!
+41582,182,270,1256000,Selma Bouvier,WIGGUM'S' HOUSE,"Mm, ya know, scaring people into giving us treats is fun. We should do this every year."
+41583,182,271,1263000,Marge Simpson,WIGGUM'S' HOUSE,I just wish we hadn't filled up on all those kids before we got to the Flanders'.
+41584,182,272,1272000,Captain Horatio McCallister,WIGGUM'S' HOUSE,"Yar... and that's the story of the very first caramel cod. I mean, Halloween. And it wasn't long before this yearly custom became an annual tradition."
+41585,182,273,1297000,Homer Simpson,WIGGUM'S' HOUSE,"C'mon, give us some candy. Don't pretend you're not home!"
+41586,182,274,1301000,Lisa Simpson,WIGGUM'S' HOUSE,"Dad, that's our house."
+41587,182,275,1306000,Homer Simpson,WIGGUM'S' HOUSE,She's a witch!
+41588,182,276,1308000,Townspeople,WIGGUM'S' HOUSE,"Get her! Get her! / She's a witch! / Yeah, burn her!"

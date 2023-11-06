@@ -1,0 +1,233 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+40753,180,1,39000,Seymour Skinner,Springfield Elementary School,"Oh, yeah."
+40754,180,2,46000,Seymour Skinner,Springfield Elementary School,I have it going on.
+40755,180,3,54000,Seymour Skinner,Springfield Elementary School,"Oh, let the good times roll."
+40757,180,5,65000,Gary Chalmers,FACULTY LOUNGE,Good Lord! The rod up that man's butt must have a rod up its butt!
+40758,180,6,70000,Edna Krabappel-Flanders,FACULTY LOUNGE,"Oh, Superintendent Chalmers. Can I offer you a cup of coffee-flavored Beverine?"
+40760,180,7,73000,Gary Chalmers,FACULTY LOUNGE,"Yeah, I take it grey, with creamium. But first, before Skinner shows up, I have a secret announcement. In honor of Seymour's twentieth year as principal, we've decided to hold a surprise tribute Friday night."
+40761,180,8,86000,Groundskeeper Willie,FACULTY LOUNGE,"It's my twentieth year, too."
+40762,180,9,88000,Gary Chalmers,FACULTY LOUNGE,"Ech. The teachers' lounge is for teachers, Willie."
+40764,180,11,93000,Miss Hoover,Miss Hoover's Classroom,"And for the tribute, I need a volunteer to present an oral report on Principal Skinner's life."
+40765,180,12,99000,Ralph Wiggum,Miss Hoover's Classroom,Miss Hoover? Which one is oral?
+40766,180,13,102000,Miss Hoover,Miss Hoover's Classroom,"Out of your mouth, Ralph. Volunteers?"
+40767,180,14,105000,Miss Hoover,Miss Hoover's Classroom,"Thank you, Lisa."
+40768,180,15,108000,Ralph Wiggum,Miss Hoover's Classroom,"Um, no, Miss Hoover, I'm Ralph!"
+40769,180,16,110000,Miss Hoover,Miss Hoover's Classroom,"I only need one volunteer, Ralph."
+40770,180,17,112000,Ralph Wiggum,Miss Hoover's Classroom,Miss Hoover? Which one is one?
+40771,180,18,115000,Lisa Simpson,Miss Hoover's Classroom,Ralph and I could do the report together.
+40772,180,19,117000,Miss Hoover,Miss Hoover's Classroom,It's your funeral.
+40773,180,20,118000,Ralph Wiggum,Miss Hoover's Classroom,Miss Hoover?
+40775,180,22,122000,Marge Simpson,Simpson Home,Bart? Why are you doing that?
+40776,180,23,125000,Bart Simpson,Simpson Home,Our class is making refreshments for Skinner's party. These are in honor of his Army days.
+40777,180,24,129000,Marge Simpson,Simpson Home,"Uh huh, that explains the flags. What about the dog food?"
+40778,180,25,132000,Bart Simpson,Simpson Home,"My theory is, Skinner likes dog food."
+40779,180,26,136000,Marge Simpson,Simpson Home,Let's bake him a cake.
+40780,180,27,137000,Homer Simpson,Simpson Home,"Ooh, a fresh batch of America Balls! Mmm..."
+40782,180,29,145000,Agnes Skinner,Skinner Home,"Seymour, tell me what time it is. Now!"
+40783,180,30,151000,Seymour Skinner,Skinner Home,"Seven o'clock Friday night, Mother. Time for our weekly silhouette."
+40784,180,31,155000,Agnes Skinner,Skinner Home,No! Cutting out your ugly nose gives me a hand cramp!
+40785,180,32,159000,Seymour Skinner,Skinner Home,"Oh, but you love silhouette night! And then we go through your bird book and make up silly captions and -- Mother, why are you all dressed up?"
+40786,180,33,167000,Agnes Skinner,Skinner Home,I'm sick of this house and I'm sick of you. Tonight we're going for a drive!
+40787,180,34,171000,Seymour Skinner,Skinner Home,"Mmm, what's so special about tonight?"
+40788,180,35,174000,Agnes Skinner,Skinner Home,Nothing! Now put on your special suit and get in the car.
+40759,180,36,176000,Seymour Skinner,Skinner Home,Yes Mother.
+40790,180,38,180000,Seymour Skinner,Springfield Elementary School,"Why are we stopping at my school, Mother? What does it say on that sign?"
+40791,180,39,184000,Agnes Skinner,Springfield Elementary School,I don't like your tone.
+40792,180,40,186000,Crowd,Springfield Elementary School,"Surprise! / Happy 20th anniversary, Principal! / etc."
+40793,180,41,191000,Agnes Skinner,Springfield Elementary School,"Happy anniversary, Son."
+40794,180,42,193000,Seymour Skinner,Springfield Elementary School,"Oh Mother, you are still the master of deception."
+40795,180,43,198000,Agnes Skinner,Springfield Elementary School,I surely am.
+40796,180,44,200000,Lisa Simpson,Springfield Elementary School,"...So in 1966, a brave young man named Seymour Skinner enlisted and shipped out to Vietnam, where he rose to become Platoon Sergeant. Ralph?"
+40797,180,45,210000,Ralph Wiggum,Springfield Elementary School,Principal Skinner is an old man who lives at the school. Lisa?
+40798,180,46,214000,Lisa Simpson,Springfield Elementary School,Sgt. Skinner was a hero. He risked capture many times behind enemy lines.
+40799,180,47,219000,Ralph Wiggum,Springfield Elementary School,Teacher made me go to Principal Skinner's office when I was dirty.
+40800,180,48,223000,Lisa Simpson,Springfield Elementary School,"And he survived to make it back to Springfield, where he became the fine educator we salute tonight."
+40801,180,49,229000,Ralph Wiggum,Springfield Elementary School,"When I grow up, I want to be a principal or a caterpillar. I love you, Principal Skinner."
+40802,180,50,238000,Student Choir,Springfield Elementary School,"THEY CALL HIM ""SKINNER"" / ""SKINNER"" / FASTER THAN LIGHTNING / NO ONE YOU SEE / IS STRICTER THAN HE..."
+40803,180,51,254000,Stranger,Springfield Elementary School,"""Tribute to Seymour Skinner!"" Pull over, driver."
+40804,180,52,257000,Gary Chalmers,Springfield Elementary School,"Now, I know the school normally serves cake only on Thursdays. And I'm also well aware that today is Friday. Nevertheless, I have a surprise for you."
+40805,180,53,269000,Bart Simpson,Springfield Elementary School,I hope you all brought forks and plates!
+40806,180,54,282000,Seymour Skinner,Springfield Elementary School,Oh! What the -- an enjoyment buzzer?!
+40807,180,55,286000,Seymour Skinner,Springfield Elementary School,"Oh, thank you. What a wonderful night to share with the people and the town that I love. I have never been happier or prouder to be Seymour Skinner."
+40808,180,56,298000,Stranger,Springfield Elementary School,You're not Seymour Skinner!
+40809,180,57,301000,Seymour Skinner,Springfield Elementary School,Skinner!
+40810,180,58,303000,Gary Chalmers,Springfield Elementary School,Skinner?
+40811,180,59,303000,Stranger,Springfield Elementary School,I'm Skinner!
+40812,180,60,305000,Agnes Skinner,Springfield Elementary School,Seymour!
+40813,180,61,307000,Seymour Skinner,Springfield Elementary School,Mother!
+40814,180,62,308000,Stranger,Springfield Elementary School,She's my mother!
+40816,180,64,312000,Gary Chalmers,Springfield Elementary School,"Will someone remove that crazy man, please?"
+40817,180,65,314000,Seymour Skinner,Springfield Elementary School,"No...No he's, he's not crazy. It's true: I'm, I'm an impostor. That man is the real Seymour Skinner."
+148581,180,67,335000,Homer's Brain,Springfield Elementary School,Keep looking shocked and move slowly towards the cake.
+40819,180,68,345000,Gary Chalmers,Springfield Elementary School,Now let's clear this up. Who exactly are you?
+40820,180,69,348000,Stranger,Springfield Elementary School,"Sergeant Seymour Skinner, U.S. Army."
+40821,180,70,352000,Seymour Skinner,Springfield Elementary School,It's true. I was in his platoon... But they said you were killed on that scouting mission!
+40822,180,71,357000,Sgt. Skinner,Springfield Elementary School,"No, just captured. It's kind of a funny story really. After five years in a secret POW camp, I was sold to China for slave labor, and since '77 I've been making sneakers at gunpoint in a sweatshop in Wuhan."
+40823,180,72,371000,Marge Simpson,Springfield Elementary School,That's not a funny story.
+40824,180,73,373000,Sgt. Skinner,Springfield Elementary School,"Well I guess you had to be there. Anyhow, the U.N. shut the factory down last week, and the Embassy shipped me home, and here I am."
+40825,180,74,381000,Gary Chalmers,Springfield Elementary School,"So what's your story, Seymour? If that is your real name."
+40826,180,75,385000,Seymour Skinner,Springfield Elementary School,"Well, obviously it isn't. My real name is Armin Tamzarian."
+40828,180,77,395000,Armin,Springfield Elementary School,"I'm an orphan from Capitol City, and those who recall my fight to outlaw teenage rudeness may be shocked to learn that I myself was once a ""street punk."""
+40829,180,78,410000,Armin,Springfield Elementary School,"Oh yeah, the way I was headed, it was just a matter of time before I wound up in front of a judge."
+40830,180,79,418000,Armin,Springfield Elementary School,"They gave me a choice: jail, the Army, or apologizing to the judge and the old lady. No, 'course if I'd known there was a war going on, I probably would've apologized."
+40831,180,80,441000,Young Armin,Springfield Elementary School,"Okay, who wants a piece 'a me?"
+40832,180,81,444000,Sgt. Skinner,Springfield Elementary School,"You trying to get yourself killed, Tamzarian? You've got your whole life ahead of ya! Don't you have any dreams?"
+40833,180,82,451000,Young Armin,Springfield Elementary School,My dreams all involve combing my hair.
+40834,180,83,453000,Sgt. Skinner,Springfield Elementary School,"Oh gosh, son, everybody's got dreams.... I come from a town called Springfield, and my dream is to go back and become principal of the elementary school."
+40835,180,84,463000,Young Armin,Springfield Elementary School,Some people might call that a pretty corny dream. Sergeant.
+40837,180,85,467000,Sgt. Skinner,Springfield Elementary School,"Well there's nothing ""corny"" about fresh-faced youngsters skippin' to school, scrapin' knees and spellin' bees and pies cooling softly on a windowsill. Well sir, if that's corny, then corn me up."
+40838,180,86,482000,Armin,Springfield Elementary School,Sgt. Skinner took me under his wing and showed me that life was worth living.
+40839,180,87,487000,Armin,Springfield Elementary School,I came to think of him as the big brother I never had. He made me believe I might have a future after all.
+40840,180,88,502000,Armin,Springfield Elementary School,"And when they told us he was missing, presumed dead, my future died, once again. My life lost all meaning."
+40841,180,89,513000,Bart Simpson,Springfield Elementary School,Come on! Get to the part where you steal his identity!
+40842,180,90,516000,Armin,Springfield Elementary School,"Ech, I'm trying to explain how emotionally fragile I was."
+40843,180,91,519000,Bart Simpson,Springfield Elementary School,"Oh, it's one of those stories."
+40844,180,92,522000,Armin,Springfield Elementary School,"Hmm, Sgt. Skinner meant the world to me, and I... I felt it was my duty to deliver the grim news to his mother."
+40845,180,93,538000,Young Armin,Springfield Elementary School,"Hello, I'm uh... I'm --"
+40846,180,94,541000,Agnes Skinner,Springfield Elementary School,Seymour?! Is that you?
+40847,180,95,544000,Armin,Springfield Elementary School,"I don't know why I did what I did. I guess I couldn't bear to tell her about her son. What I did was wrong, but I'd do it again."
+40848,180,96,553000,Young Armin,Springfield Elementary School,"Yes, Mother, it's me."
+40849,180,97,556000,Agnes Skinner,Springfield Elementary School,You look different somehow... but you must be Seymour. Yes. You are Seymour.
+40850,180,98,564000,Armin,Springfield Elementary School,"As strange as it sounds, deep down I think she knew I wasn't her son. But the lie made us both happier than the truth ever could have."
+40851,180,99,573000,Agnes Skinner,Springfield Elementary School,You can have some lima beans as soon as you've cleaned your room. Go!
+40852,180,100,579000,Agnes Skinner,Springfield Elementary School,"Upstairs, third door on the left. Don't walk on the rugs!"
+40853,180,101,584000,Young Armin,Springfield Elementary School,Yes... Mother.
+40854,180,102,587000,Armin,Springfield Elementary School,"Don't judge her too harshly, Sergeant. She was a lonely old woman. If you must blame someone, blame me."
+40855,180,103,594000,Sgt. Skinner,Springfield Elementary School,"Uh, that's pretty much what I was planning to do there, Armin."
+40856,180,104,597000,Armin,Springfield Elementary School,"Well, that's about it. And so for the past 26 years, I've dedicated myself to living out your dream."
+40857,180,105,604000,Sgt. Skinner,Springfield Elementary School,I didn't dream anything about an aqua suit or a lavender shirt. But you did take care of Mom...
+40858,180,106,610000,Agnes Skinner,Springfield Elementary School,A dagger! A dagger through my heart!
+40859,180,107,613000,Armin,Springfield Elementary School,"Oh, here, Mother, let me help you --"
+40860,180,108,615000,Agnes Skinner,Springfield Elementary School,Get your hands off me!
+40861,180,109,616000,Sgt. Skinner,Springfield Elementary School,"Please, Mom --"
+40862,180,110,617000,Agnes Skinner,Springfield Elementary School,"You too, stranger!"
+40863,180,111,618000,Sgt. Skinner,Springfield Elementary School,I'm your son!
+40864,180,112,619000,Agnes Skinner,Springfield Elementary School,I have no son!
+40865,180,113,622000,Homer Simpson,Springfield Elementary School,"Look, lady, you obviously have at least one son."
+40866,180,114,625000,Agnes Skinner,Springfield Elementary School,"No, I have one stranger and one fraud!"
+40867,180,115,629000,Sgt. Skinner,Springfield Elementary School,"Take it easy, Mom--"
+40868,180,116,631000,Agnes Skinner,Springfield Elementary School,I said back off!
+40869,180,117,633000,Armin,Springfield Elementary School,"You better do as she says -- she's quick with a hat pin. Ah, well, I suppose I'll have to find a hotel."
+40870,180,118,640000,Gary Chalmers,Springfield Elementary School,I won't hear of it. Tonight you can sleep on the floor of your office.
+40871,180,119,647000,Bart Simpson,Springfield Elementary School,"Hey, Armin."
+40873,180,121,651000,Bart Simpson,Springfield Elementary School,Mrs. Krabappel sent me. I forged my dad's signature on my report card.
+40874,180,122,654000,Armin,Springfield Elementary School,"Oh, now, Bart, you know that's wrong."
+40875,180,123,656000,Bart Simpson,Springfield Elementary School,"Well, I don't see how me signing Homer's name is any different from you using Sgt. Skinner's name."
+40876,180,124,661000,Armin,Springfield Elementary School,I guess my punishing you would be somewhat hypocritical. Why don't you just write a thirty word essay on what you've done.
+40877,180,125,667000,Bart Simpson,Springfield Elementary School,"Hey, hey, hey! Easy there, you big impostor."
+40879,180,127,674000,Armin,Kwik-E-Mart,"So, uh, um, should I sign my original name?"
+40880,180,128,677000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Just put an X, then call yourself whatever the hell you want."
+40881,180,129,681000,Armin,Kwik-E-Mart,"Well now, there's no need for profanity. My name may have changed, but I'm still the same man I was last week."
+40882,180,130,686000,Marge Simpson,Kwik-E-Mart,"Not to us you're not. I mean, how would you feel if you suddenly found out Ned Flanders was an impostor?"
+40883,180,131,692000,Armin,Kwik-E-Mart,Who's Ned Flanders?
+40884,180,132,693000,Marge Simpson,Kwik-E-Mart,My next-door neighbor? Religious guy?
+40885,180,133,695000,Armin,Kwik-E-Mart,"Oh, you mean Reverend Lovejoy."
+40886,180,134,697000,Marge Simpson,Kwik-E-Mart,"No I don't! What I mean is, to me you're just a stranger pretending to be something he's not."
+40887,180,135,705000,Marge Simpson,Kwik-E-Mart,"I'm sorry, but that's just how I feel."
+40888,180,136,708000,Armin,Kwik-E-Mart,"No, don't apologize. It's time I stopped pretending."
+40890,180,138,713000,Armin,Springfield Elementary School,"I've called this assembly to announce my retirement, effective as of the end of this sentence."
+40891,180,139,722000,Armin,Springfield Elementary School,This sentence I'm speaking. Right now. Period.
+40893,180,141,733000,Armin,Springfield Elementary School,"I wrongfully usurped Sgt. Skinner's position, and I suggest you consider him to replace me. Thank you."
+40894,180,142,740000,Gary Chalmers,Springfield Elementary School,"Well, now I don't know... Skinner, do you know anything about being a principal?"
+40895,180,143,745000,Sgt. Skinner,Springfield Elementary School,"Well, it's been my lifelong ambition. And if a man pretending to be me could do it, well then logically the real me must be far more qualified."
+40896,180,144,753000,Gary Chalmers,Springfield Elementary School,"Good enough. Armin Tamzarian's reign of terror is over. Now let us welcome our new Principal Skinner: Principal Seymour Skinner. Ah, him."
+40898,180,146,777000,Armin,Skinner Home,"Before I go, I've got some personal items for you: you belong to the Radio Shack Battery Club... Oh, ten Canadian dollars; that's a souvenir from your trip to upstate New York..."
+40899,180,147,788000,Sgt. Skinner,Skinner Home,"Why you've led quite a life, Tamzarian."
+40900,180,148,792000,Armin,Skinner Home,It's your life. I just kept it warm for you.
+40901,180,149,796000,Armin,Skinner Home,"Oh, I nearly forgot -- your pocket watch. Mother's picture is still inside. Take good care of her."
+40902,180,150,802000,Sgt. Skinner,Skinner Home,I'll wind her every day.
+40903,180,151,808000,Agnes Skinner,Skinner Home,"I poached some fish for your trip, Mr. Tamzarian. They're full of tiny bones, so I want you to be careful."
+40904,180,152,815000,Armin,Skinner Home,"I will, Moth -- Uh, Mrs. Skinner. Well, I better be going."
+40906,180,154,831000,Armin,Edna's Apartment,"Good evening, Edna. I know we were planning to see a film tonight, but instead I'm leaving town forever."
+40907,180,155,837000,Edna Krabappel-Flanders,Edna's Apartment,"No, please! I don't care what you've done. You're still a decent, honorable man."
+40908,180,156,842000,Armin,Edna's Apartment,"Mmm, that's the kind of talk that makes me want to marry you."
+40909,180,157,847000,Edna Krabappel-Flanders,Edna's Apartment,Oh!
+40910,180,158,848000,Armin,Edna's Apartment,"But instead, I'm leaving town forever. Good-bye."
+40913,180,161,865000,Armin,Storage Facility,"Well, it's time to pick up where I left off. As a no-good street punk."
+40836,180,163,878000,Bart Simpson,Highway,Principal Skinner?
+40915,180,164,880000,Armin,Highway,"Up yours, children!"
+40916,180,165,885000,Kent Brockman,Highway,Now to recap our top story in its entirety: The adaptable citizens of Springfield have opened their hearts to Principal Seymour Skinner. Who...
+40917,180,166,890000,Kent Brockman,Highway,Not that one. Idiots.
+40918,180,167,901000,Sgt. Skinner,Highway,"Thank you. Thank you. I must say, in many ways, Springfield really beats the old slave-labor camp."
+40921,180,170,912000,Lisa Simpson,Simpson Home,I admit Sgt. Skinner seems okay... but Mr. Tamzarian pulled himself up from the streets and earned our respect and admiration.
+40922,180,171,920000,Bart Simpson,Simpson Home,He lied about his name.
+40923,180,172,921000,Lisa Simpson,Simpson Home,"His name doesn't matter. ""A rose by any other name would smell as sweet."""
+40924,180,173,923000,Bart Simpson,Simpson Home,"Not if you called 'em ""stench blossoms""."
+40925,180,174,923000,Homer Simpson,Simpson Home,"Or ""crapweeds""."
+40926,180,175,929000,Marge Simpson,Simpson Home,I'd sure hate to get a dozen crapweeds for Valentine's Day. I'd rather have candy.
+40927,180,176,933000,Homer Simpson,Simpson Home,"Not if they were called ""scumdrops""."
+40929,180,178,933000,Gary Chalmers,Springfield Elementary School,"Your new principal would like to say a few words. Remember, you have to respect him -- he's a war hero."
+40930,180,179,941000,Nelson Muntz,Springfield Elementary School,Haw-haw!
+40931,180,180,943000,Sgt. Skinner,Springfield Elementary School,"Thank you, Chalmers. You know, where I come from, there's no better way to get acquainted than by reciting the Pledge of Allegiance together. Why don't you lead us, son?"
+40932,180,181,956000,Bart Simpson,Springfield Elementary School,"Hey America, you're so fine. You're so fine, you blow my mind. America."
+40934,180,183,962000,Sgt. Skinner,Springfield Elementary School,"Well, that's very concise, but it's an insult to everything I suffered for. Now take a seat, junior, and listen to someone who gave their youth in service of their country. Mrs. Krabappel? The pledge, please."
+40935,180,184,977000,Edna Krabappel-Flanders,Springfield Elementary School,"You haven't dealt with women for a long time, have you, Sergeant?"
+40936,180,185,981000,Sgt. Skinner,Springfield Elementary School,Are you asking me out?
+40938,180,187,985000,Armin,CAPITOL CITY,"Ah, 433rd Street, my old neighborhood..."
+40943,180,189,994000,Armin,NIGHT CLUB,"""Oh yes, oh yes, Capitol City's nakedest ladies. They're not even wearing a smile. Nod suggestively. Yes, six, count 'em, six gorgeous ladies just dying for your leers and catcalls. Yowza, yowza."""
+40945,180,191,1010000,Agnes Skinner,Skinner Home,"Seymour, it's 7:30! Where were you?"
+40946,180,192,1017000,Sgt. Skinner,Skinner Home,"A bar, Mom."
+40947,180,193,1018000,Agnes Skinner,Skinner Home,"I don't know what that is, but on Fridays you come straight home after school. Tonight is silhouette night. Sit there."
+40948,180,194,1026000,Sgt. Skinner,Skinner Home,I really just came home to change into a turtleneck.
+40949,180,195,1028000,Agnes Skinner,Skinner Home,Seymour! Sit!
+40950,180,196,1030000,Sgt. Skinner,Skinner Home,"In the morning. Oh, Mom -- I'm borrowing your car."
+40952,180,198,1042000,Marge Simpson,Supermarket,"Good morning, Agnes. How's your new son working out?"
+40953,180,199,1048000,Agnes Skinner,Supermarket,"That child is the most disobedient, smart-alecky middle-aged man in creation."
+40954,180,200,1053000,Edna Krabappel-Flanders,Supermarket,"Hello, ladies. Is this the line for people who want to bad-mouth Sgt. Skinner?"
+40955,180,201,1057000,Marge Simpson,Supermarket,And have ten items or less.
+40956,180,202,1059000,Edna Krabappel-Flanders,Supermarket,Twelve... eleven... ten. The man's a weenie.
+40957,180,203,1061000,Marge Simpson,Supermarket,"Oh, now be fair, Edna. I liked Armin Tamzarian too, but he was at least as big a weenie as Sgt. Skinner."
+40958,180,204,1067000,Edna Krabappel-Flanders,Supermarket,But he was our weenie!
+40959,180,205,1069000,Agnes Skinner,Supermarket,Now there was a weenie you could be proud to call your son.
+40960,180,206,1074000,Marge Simpson,Supermarket,Did you ever tell him that?
+40962,180,208,1078000,Homer Simpson,Highway,"Okay, once more. Where are we going?"
+40963,180,209,1082000,Edna Krabappel-Flanders,Highway,To Capitol City.
+40964,180,210,1083000,Homer Simpson,Highway,And why are you and the old lady in the car?
+40965,180,211,1086000,Agnes Skinner,Highway,We're gonna talk Armin Tamzarian into coming back.
+40966,180,212,1088000,Homer Simpson,Highway,And why is Marge here?
+40967,180,213,1090000,Marge Simpson,Highway,I came up with the idea.
+40968,180,214,1092000,Homer Simpson,Highway,And why am I here?
+40969,180,215,1093000,Marge Simpson,Highway,Because the streets of Capitol City are no place for three unescorted ladies.
+40970,180,216,1097000,Homer Simpson,Highway,And why are the kids here?
+40971,180,217,1099000,Marge Simpson,Highway,Because we couldn't find Grampa to sit for them.
+40972,180,218,1101000,Homer Simpson,Highway,And why is Grampa here?
+40973,180,219,1102000,Grampa Simpson,Highway,'Cause Jasper didn't wanna come by himself.
+40940,180,220,1106000,Homer Simpson,Highway,Fair enough.
+40941,180,221,1108000,Grampa Simpson,Highway,"Hel-lo, beautiful!"
+40942,180,222,1110000,Agnes Skinner,Highway,In your dreams.
+40974,180,223,1112000,Grampa Simpson,Highway,We'll see about that!
+40975,180,224,1114000,Grampa Simpson,Highway,"Hello, beautiful."
+40978,180,227,1124000,Armin,Armin's Bare Seedy Apartment,"My mind is made up. I'm not coming back, and that's final."
+40979,180,228,1131000,Edna Krabappel-Flanders,Armin's Bare Seedy Apartment,"Oh, Seymour --"
+40980,180,229,1132000,Armin,Armin's Bare Seedy Apartment,"And I'm not Seymour! My name is Armin! This is Armin's apartment! Armin's liquor! Armin's copy of ""Swank""! Armin's frozen peas!"
+40981,180,230,1140000,Homer Simpson,Armin's Bare Seedy Apartment,"Can I see your copy of ""Swank"", Armin?"
+40982,180,231,1142000,Armin,Armin's Bare Seedy Apartment,"Yes you can. This is Armin's life, and maybe it's not perfect, but at least I'm back where I belong. I was born a nogoodnik and I'll die a nogoodnik."
+40983,180,232,1149000,Agnes Skinner,Armin's Bare Seedy Apartment,Seymour!
+40984,180,233,1149000,Agnes Skinner,Armin's Bare Seedy Apartment,I didn't bring you up to use language like that!
+40985,180,234,1153000,Armin,Armin's Bare Seedy Apartment,"Well, you didn't bring me up at all."
+40986,180,235,1154000,Agnes Skinner,Armin's Bare Seedy Apartment,The hell I didn't! I've been taking care of you for 26 years. I'm the only mother you've ever known!
+40987,180,236,1160000,Armin,Armin's Bare Seedy Apartment,But you have your real son--
+40988,180,237,1161000,Agnes Skinner,Armin's Bare Seedy Apartment,"You're my real son! You've been my son longer than he has, and he doesn't need me, and I don't need him! Now you march yourself downstairs and get in that car!"
+40989,180,238,1170000,Armin,Armin's Bare Seedy Apartment,"Yes, Mother."
+40990,180,239,1171000,Agnes Skinner,Armin's Bare Seedy Apartment,And the rest of you too!
+40991,180,240,1173000,All,Armin's Bare Seedy Apartment,"Yes, Mrs. Skinner."
+40993,180,242,1183000,Homer Simpson,Springfield Elementary School,"Hey, everybody, look! Armin Tamzarian's back and he's gonna take over the school again!"
+40995,180,244,1191000,Mayor Joe Quimby,Springfield Elementary School,Now hold on. Armin Tamzarian is an unsavory character who played us all for chumps.
+40996,180,245,1196000,Homer Simpson,Springfield Elementary School,"All right, all right. So, he's a fraud. I don't care! His mom doesn't care! Do any of you care?"
+40997,180,246,1205000,Crowd,Springfield Elementary School,No / Not really / Not very much / etc.
+40998,180,247,1207000,Sgt. Skinner,Springfield Elementary School,You all seem to be forgetting that I am Seymour Skinner. This is where I belong. You can't ask me to disappear just because you like some other guy better! I gave half my life for you people. Aren't I entitled to a little dignity?
+40999,180,248,1221000,Armin,Springfield Elementary School,"You're ah... you're right, Sergeant."
+41001,180,249,1225000,Gary Chalmers,Springfield Elementary School,"Well, I don't see any way out of this."
+41002,180,250,1228000,Homer Simpson,Springfield Elementary School,"Now, if you'll allow me, I think I have a solution that'll satisfy the town and let Sgt. Skinner keep his dignity."
+41004,180,252,1236000,Sgt. Skinner,RAILROAD STATION,But I'm a hero!
+41005,180,253,1239000,Homer Simpson,RAILROAD STATION,And we salute you for it. Now don't come back.
+41006,180,254,1243000,Agnes Skinner,RAILROAD STATION,"I'm sorry, Seymour. It's nice you're alive, but you're just not what I'm looking for in a son. I'm glad you understand."
+41007,180,255,1256000,Armin,RAILROAD STATION,"Well this is a lovely gesture, but we still have to face the fact that I'm not really Seymour Skinner."
+41008,180,256,1263000,Homer Simpson,RAILROAD STATION,Oh no we don't! Judge Snyder?
+41009,180,257,1266000,Judge Snyder,RAILROAD STATION,"By authority of the City of Springfield, I hereby confer upon you the name of Seymour Skinner, as well as his past, present, future, and mother."
+41010,180,258,1274000,Armin,RAILROAD STATION,Okay.
+41011,180,259,1275000,Judge Snyder,RAILROAD STATION,"And I further decree that everything will be just like it was before all this happened, and no one will ever mention it again... under penalty of torture!"
+41013,180,261,1289000,Agnes Skinner,RAILROAD STATION,"Here, son. This is yours again...."
+41014,180,262,1293000,Seymour Skinner,RAILROAD STATION,"I've never been happier or prouder to be Seymour Skinner. But these last few days as that hot-headed rogue Armin Tamzarian have taught me a thing or two. You know, maybe I've been a little too ""uptight"" in the past. Well, from now on you're gonna to see a new Seymour Skinner--"
+41015,180,263,1311000,Agnes Skinner,RAILROAD STATION,Oh no we won't.
+41016,180,264,1313000,Seymour Skinner,RAILROAD STATION,"Yes, Mother."

@@ -1,0 +1,261 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+152719,14,1,8000,Edna Krabappel-Flanders,CLASSROOM,Bart.
+148952,14,2,8000,Bart Simpson,CLASSROOM,Huh?
+152784,14,3,84000,Edna Krabappel-Flanders,CLASSROOM,There will be no further interruptions during Martin's book report.
+152785,14,4,87000,Martin Prince,CLASSROOM,"""You're killing me, fish. Never have I seen a greater or more noble thing than you, brother."
+152786,14,5,93000,Martin Prince,CLASSROOM,"Come on and kill me. I do not care who kills who."""
+152787,14,6,98000,Martin Prince,CLASSROOM,"To catch a fish, to kill a bull, to make love to a woman. To live! I thank you."
+147890,14,7,108000,KRABAPPEL,CLASSROOM,"Oh! Absolutely brilliant. There were moments I truly believed you were Hemingway. Bravo, Martin."
+152788,14,8,115000,Martin Prince,CLASSROOM,"Oh please, call me Papa."
+152789,14,9,117000,Bart Simpson,CLASSROOM,"Little ketchup for your buns, Papa?"
+147891,14,10,120000,KRABAPPEL,CLASSROOM,"All right, class, all right. I think we have time for one more report."
+147892,14,11,122000,KRABAPPEL,CLASSROOM,Bart Simpson?
+147893,14,13,124000,KRABAPPEL,CLASSROOM,"Is your book report on ""Treasure Island"" ready?"
+152791,14,14,127000,Bart Simpson,CLASSROOM,"Is it ready? Ha, what a question. Fellow students, prepare to be dazzled. Well, as Mrs. Krabappel already mentioned, the name of the book that I read was ""Treasure Island""."
+152792,14,15,138000,Bart Simpson,CLASSROOM,It's about these pirates. Pirates with patches over their eyes... and shiny gold teeth... and green birds on their shoulders...
+152793,14,16,150000,Bart Simpson,CLASSROOM,Did I mention this book was written by a guy named Robert Louis Stevenson? And published by the good people at McGraw Hill.
+152794,14,17,157000,Bart Simpson,CLASSROOM,"So in conclusion, on the Simpsons' scale of one to ten, ten being the highest, one being the lowest, and five being average, I give this book... a nine."
+152795,14,18,168000,Bart Simpson,CLASSROOM,Any questions?
+152796,14,19,169000,Bart Simpson,CLASSROOM,No? Then I'll just sit down.
+147894,14,20,172000,KRABAPPEL,CLASSROOM,"Bart, did you read the book?"
+152797,14,21,173000,Bart Simpson,CLASSROOM,"Mrs. Krabappel, I am insulted. Is this a book report or a witch hunt?"
+147895,14,22,178000,KRABAPPEL,CLASSROOM,Then perhaps you'd like to tell us the name of the pirate.
+152798,14,23,182000,Bart's Voice,CLASSROOM,Blackbeard... Captain Nemo... Captain Hook... Long John Silver... Peg Leg Pete... Bluebeard.
+152799,14,24,186000,Bart Simpson,CLASSROOM,Bluebeard?
+147896,14,25,187000,KRABAPPEL,CLASSROOM,"Sit down, Bart. I'll see you after class."
+147897,14,27,191000,KRABAPPEL,CLASSROOM,Your grades have gotten steadily worse since the beginning of the term. Are you aware of that?
+152801,14,28,195000,Bart Simpson,CLASSROOM,"Yes, ma'am."
+147898,14,29,196000,KRABAPPEL,CLASSROOM,Are you aware that there is a major exam tomorrow on Colonial America?
+152803,14,30,199000,Bart Simpson,CLASSROOM,"Yes, ma'am."
+152804,14,31,200000,Krabappel's Mouth,CLASSROOM,"Blah, blah, blah, blah. Blah, blah, blah, blah, blah?"
+152805,14,32,200000,Bart Simpson,CLASSROOM,"Yes, ma'am."
+152806,14,33,203000,Krabappel's Mouth,CLASSROOM,"Blah, blah. Blah, blah, blah, blah, blah blah blah!..."
+152807,14,34,203000,Bart Simpson,CLASSROOM,"Yes, ma'am."
+147899,14,35,206000,KRABAPPEL,CLASSROOM,"Bart! You haven't been paying attention to a word I said, have you?"
+152808,14,36,209000,Bart Simpson,CLASSROOM,"Yes, ma'am."
+147900,14,37,210000,KRABAPPEL,CLASSROOM,Well then what did I say?
+152809,14,38,212000,Bart Simpson,CLASSROOM,Uhhh... straighten up and fly right?
+147901,14,39,214000,KRABAPPEL,CLASSROOM,That was a lucky guess!
+152811,14,41,218000,Bart Simpson,Noiseland Arcade,"Whoa, take that, Granny! Oh, hide in the closet. Oh no, deadly mothballs."
+152812,14,42,223000,Bart Simpson,Noiseland Arcade,Ooo... Granny killing me!
+152813,14,43,225000,GRANDMA,Noiseland Arcade,"You have reached the level of ungrateful grandchild. Try again, if you dare! Heh... heh... heh..."
+152814,14,44,234000,Bart Simpson,Noiseland Arcade,Heh... heh... heh. Just a couple more games and I'll hit the books.
+152816,14,46,253000,Marge Simpson,Simpson Living Room,"Soup's on! Hurry up, or it'll get that icky skin on the top."
+152817,14,47,256000,Homer Simpson,Simpson Living Room,"Eww, I hate that icky soup skin."
+152818,14,48,258000,Bart Simpson,Simpson Living Room,"Okay, right after dinner, it's down to business."
+152820,14,50,261000,Homer Simpson,KITCHEN,"Mmmm. Marge, Could you get me another beer, please?"
+152821,14,51,264000,Marge Simpson,KITCHEN,"In a second, Homer. Lisa has some good news."
+152822,14,52,267000,Lisa Simpson,KITCHEN,"He doesn't care, Mom."
+152823,14,53,268000,Homer Simpson,KITCHEN,Sure I do. I just want to have a beer while I'm caring. Marge...
+152824,14,54,272000,Marge Simpson,KITCHEN,"Homer! Go ahead, Lisa."
+152825,14,55,274000,Lisa Simpson,KITCHEN,"Well, okay. I got an A on my vocabulary test."
+152826,14,56,278000,Homer Simpson,KITCHEN,"What! You did! Well, that's just... oh, what a glorious day! Lisa, hand me your paper."
+152827,14,57,286000,Homer Simpson,KITCHEN,"I'm just gonna take this over to the refrigerator and, hmmm. Well as long as I'm here, I might as well kill two birds with one stone."
+152828,14,58,293000,Bart Simpson,KITCHEN,What's the big idea? You covered up my paper.
+152829,14,59,295000,Homer Simpson,KITCHEN,Look at those funny little whiskers. Oooo! That reminds me. It's Big Gorilla Week on Million Dollar Movie. C'mon boy.
+152830,14,60,302000,Bart Simpson,KITCHEN,"No, Dad, I should really... Whoop!"
+152832,14,62,304000,Homer Simpson,LIVING ROOM,"Oooh, ""Gorilla, The Conqueror."" The granddaddy of them all."
+152833,14,63,312000,Bart Simpson,LIVING ROOM,"Ah well, maybe just one more hour."
+152834,14,64,318000,Homer Simpson,LIVING ROOM,It's so unfair... just because he's different.
+152835,14,65,321000,Bart Simpson,LIVING ROOM,"Well, time to hit the books."
+152836,14,66,324000,Homer Simpson,LIVING ROOM,"Burning the candle at both ends, eh boy? Go get 'em."
+152838,14,68,328000,Bart Simpson,Bart's Bedroom,"All right, okay, let's take care of some business. ""Chapter One: A Dream of Freedom. On September fifteenth, sixteen-twenty, Puritan separatists from the Church of England, some living in Holland, left Plymouth, England. Their destination was --"
+152839,14,69,347000,Homer Simpson,Bart's Bedroom,Psst... Marge. Come take a look at this.
+152840,14,70,355000,Marge Simpson,Bart's Bedroom,Oh! The little tiger tries so hard. Why does he keep failing?
+152841,14,71,361000,Homer Simpson,Bart's Bedroom,"Just a little dim, I guess."
+152843,14,73,364000,Marge Simpson,Bart's Bedroom,"Bart, honey... you're going to miss your bus!"
+152844,14,74,368000,Bart Simpson,Bart's Bedroom,Uh-oh.
+152846,14,76,369000,Otto Mann,Bus,"Hey, Bart-dude. Whoa, you look freaked."
+152847,14,77,372000,Bart Simpson,Bus,"Hey, Otto-man. I've got a big test that I am not ready for. Could you please crash the bus or something?"
+152848,14,78,376000,Otto Mann,Bus,"Oh, sorry little buddy. Can't do it on purpose. But hey, maybe you'll get lucky."
+152849,14,79,381000,Bart Simpson,Bus,"Okay, no reason to panic. Find an egghead, pump him for some answers, and boom, I'm back on easy street."
+152850,14,80,391000,Sherri Mackleberry,Bus,Look at him. I bet he didn't study again.
+152851,14,81,394000,Terri Mackleberry,Bus,And now he's gonna try to kiss up and get answers from us.
+152852,14,82,397000,Sherri Mackleberry,Bus,He's pathetic.
+152853,14,83,398000,Bart Simpson,Bus,"Good morning, girls."
+152854,14,84,400000,Terri Mackleberry,Bus,"Good morning, Bart."
+152855,14,85,401000,Bart Simpson,Bus,Say... who's up for a little cram session? I'll go first. What was the name of the pilgrim's boat?
+152856,14,86,408000,Terri Mackleberry,Bus,The Spirit of St. Louis.
+152857,14,87,410000,Bart Simpson,Bus,And where did they land?
+152858,14,88,411000,Terri Mackleberry,Bus,Sunny Acapulco.
+152859,14,89,413000,Bart Simpson,Bus,Why'd they leave England?
+152860,14,90,415000,Terri Mackleberry,Bus,Giant rats.
+152861,14,91,416000,Bart Simpson,Bus,Cool. History's coming alive.
+152863,14,94,422000,Martin Prince,Springfield Elementary School,"As a natural enemy, I don't know why I should care, but the information pertaining to America's colonial period that you just received is erroneous."
+152864,14,95,431000,Bart Simpson,Springfield Elementary School,So you're saying...
+152865,14,96,432000,Martin Prince,Springfield Elementary School,A blindfolded chimp with a pencil in his teeth has a better chance of passing this test than you do.
+152866,14,97,438000,Bart Simpson,Springfield Elementary School,Thanks for the pep talk.
+152868,14,99,441000,Bart Simpson,CLASSROOM,Oh! Ooooo!!
+147902,14,100,449000,KRABAPPEL,CLASSROOM,"What is it, Bart?"
+152869,14,101,452000,Bart Simpson,CLASSROOM,Nothing... must... take... test.
+152872,14,104,468000,Bart Simpson,INFIRMARY,Ooooo!!
+152873,14,105,468000,Nurse Farrell,INFIRMARY,"What's the matter, son?"
+152874,14,106,470000,Bart Simpson,INFIRMARY,"Sharp, stabbing pains... in my stomach."
+152875,14,107,473000,Nurse Farrell,INFIRMARY,"Oh dear, I've heard of this."
+152876,14,108,476000,Nurse,INFIRMARY,Do you feel a shooting pain in your arm?
+152877,14,109,479000,Bart Simpson,INFIRMARY,"Both arms, ma'am."
+152878,14,110,480000,Nurse,INFIRMARY,Temporary loss of vision?
+152879,14,111,482000,Bart Simpson,INFIRMARY,Who said that? Come closer.
+152881,14,113,487000,Marge Simpson,Bart's Bedroom,"Yes, dear?"
+152882,14,114,488000,Bart Simpson,Bart's Bedroom,"Uh maybe... uh, one more dish. Make it double cappuccino chocolate fudge."
+152883,14,115,494000,Marge Simpson,Bart's Bedroom,"Oooh, your third bowl... I think you may be on the mend. Is there anything else I can get you?"
+152884,14,116,499000,Bart Simpson,Bart's Bedroom,"Hmmm, perhaps the TV?"
+152885,14,117,502000,Marge Simpson,Bart's Bedroom,Of course. Homer!?
+152887,14,119,503000,Homer Simpson,LIVING ROOM,What?
+152888,14,120,504000,Marge Simpson,LIVING ROOM,Bring the television up. Bart's got his vision back!
+152890,14,122,509000,Homer Simpson,LIVING ROOM,I wish I had Amoria Phlebitis.
+152892,14,124,513000,Lisa Simpson,Bart's Bedroom,"Everyone knows you're faking it, Bart."
+152893,14,125,515000,Bart Simpson,Bart's Bedroom,"Well, everyone better keep their mouths shut."
+152894,14,126,517000,Lisa Simpson,Bart's Bedroom,You're gonna have to fail that history test sooner or later.
+152895,14,127,519000,Bart Simpson,Bart's Bedroom,I've got my bases covered.
+152896,14,128,522000,Bart Simpson,Bart's Bedroom,"Hey Milhouse, what did I miss in school today?"
+152898,14,129,524000,Milhouse Van Houten,Bart's Bedroom,Nothing much. Lewis made Richard laugh milk through his nose.
+152899,14,130,527000,Bart Simpson,Bart's Bedroom,"Oh, you don't say? What about that history test?... Huh? Piece of cake, huh? So listen, what'd you get for Number one? Uh huh. Number two?... Oh yeah, that sounds right."
+152901,14,132,541000,Bart Simpson,CLASSROOM,"Here you go, Mrs. Krabappel. I think you'll be pleasantly surprised."
+147903,14,133,546000,KRABAPPEL,CLASSROOM,"Why, this test is worse than Milhouse's exam. Bart Simpson, I warned you. This is the final straw!"
+147876,14,134,557000,KRABAPPEL,CLASSROOM,"Mr. and Mrs. Simpson, I think you know our District Psychiatrist, Dr. J. Loren Pryor."
+152902,14,135,562000,Homer Simpson,CLASSROOM,"Hey, Dr. J."
+152903,14,136,564000,Dr. J. Loren Pyror,CLASSROOM,"I think what we have on our hands here is a classic case of what laymen refer to as fear of failure. As a result, Bart is an underachiever. And yet he seems to be... how should I put this...? Proud of it?"
+152904,14,137,578000,Homer Simpson,CLASSROOM,Hmmm...
+152905,14,138,579000,Dr. J. Loren Pyror,CLASSROOM,"One of his problems may be his short attention span, which can lead to..."
+152906,14,139,583000,Dr. J. Loren Pyror,CLASSROOM,"Blah, blah, blah... blah, blah, blah, blah."
+152907,14,140,585000,Homer Simpson,CLASSROOM,Hmmm huh.
+152908,14,141,586000,Dr. J. Loren Pyror,CLASSROOM,"Blah, blah, blah, blah, blah, blah, blah, blah, blah ..."
+152909,14,142,588000,Homer Simpson,CLASSROOM,Hmmmm
+147904,14,143,589000,KRABAPPEL,CLASSROOM,Bart has failed his last four exams in history. Is there anything you're not telling us?
+152910,14,144,594000,Bart Simpson,CLASSROOM,No.
+152911,14,145,596000,Dr. J. Loren Pyror,CLASSROOM,Every other student in the class has shown at least some form of improvement and yet you continue to struggle. Why is that?
+152912,14,146,602000,Bart Simpson,CLASSROOM,I dunno.
+147905,14,147,603000,KRABAPPEL,CLASSROOM,"Look at these results. Fifty-five, forty-two, twenty-six... a twelve on State capitals..."
+152913,14,148,609000,Bart Simpson,CLASSROOM,Okay... okay! Why are we dancing around the obvious? I know it. You know it. I am dumb. Okay? Dumb as a post. Do you think I'm happy about it?
+152914,14,149,617000,Marge Simpson,CLASSROOM,"There, there, Bart. You're just a late bloomer."
+152915,14,150,619000,Dr. J. Loren Pyror,CLASSROOM,"Oh... I wish it were that simple. As shameful and as emotionally crippling as it may be, I'm afraid my recommendation is for Bart Simpson to repeat the fourth grade."
+152916,14,151,629000,Bart Simpson,CLASSROOM,"What! You can't hold me back. I'll do better, I promise."
+152917,14,152,633000,Marge Simpson,CLASSROOM,"Well, maybe it would help him to be left back. It won't be so bad, Bart."
+152918,14,153,639000,Bart Simpson,CLASSROOM,"No, I mean it. You can't hold me back. I swear I'm gonna do better. Look at my eyes. See the sincerity, see the conviction, see the fear. As God is my witness, I can pass the fourth grade."
+152919,14,154,650000,Homer Simpson,CLASSROOM,"And if you don't, at least you'll be bigger than the other kids."
+152921,14,156,657000,Otto Mann,School Bus,"Get off the bus or forever hold your peace, little dudes."
+152922,14,157,661000,Bart Simpson,School Bus,"Otto, you know I respect you. I mean you always let us throw stuff at cars and try to tip the bus on sharp turns..."
+152923,14,158,668000,Otto Mann,School Bus,"Damn thing never goes over, does it?"
+152924,14,159,671000,Otto Mann,School Bus,"So what's in your head, little man?"
+152925,14,160,673000,Bart Simpson,School Bus,"Well, I've been failing a lot of tests recently."
+152926,14,161,675000,Otto Mann,School Bus,Yuh huh.
+152927,14,162,676000,Bart Simpson,School Bus,And now they're talking about holding me back in the fourth grade if I don't shape up.
+152928,14,163,681000,Otto Mann,School Bus,"That's it? Hey, relax man. It could end up being the best thing that ever happened to you. I got held back in the fourth grade myself -- twice. And look at me, man. Now I drive the school bus."
+152929,14,164,698000,Dr. J. Loren Pyror,School Bus,I'm afraid my recommendation is for Bart Simpson to repeat the fourth grade. Repeat the fourth grade. Repeat the fourth grade. Repeat the fourth grade.
+147906,14,166,705000,KRABAPPEL,CLASSROOM,"All right, class... the topic is World Literature. What was the pirate's name in ""Treasure Island""?"
+147907,14,167,713000,KRABAPPEL,CLASSROOM,Bart Simpson?
+152931,14,168,715000,Bart Simpson,CLASSROOM,"Look, lady. I got a peptic ulcer, a wife hocking me for a new car, and I need a root canal. Will you quit bugging me about this stupid pirate."
+152932,14,169,724000,Kid,CLASSROOM,"Long John Silver, Dad."
+147908,14,170,725000,KRABAPPEL,CLASSROOM,"I heard that Bart, Jr. I want to see both of you after class today."
+152933,14,171,732000,Bart Simpson,CLASSROOM,"Thanks a lot, son."
+152935,14,173,738000,Bart Simpson,Springfield Elementary School Yard,Yo! Little help!
+152936,14,174,740000,Bart Simpson,Springfield Elementary School Yard,"I said little help! Throw me the ball, Poindexter."
+152937,14,175,744000,Martin Prince,Springfield Elementary School Yard,"Oh, I'm sorry, Bart. I'm unfamiliar with the rules of your sport. I didn't want to interfere with a ball in play."
+152938,14,176,753000,Martin Prince,Springfield Elementary School Yard,"Well, back to the forecastle of the Pequod."
+152939,14,177,757000,Bart Simpson,Springfield Elementary School Yard,"Hm, hey, Martin."
+152941,14,178,758000,Martin Prince,Springfield Elementary School Yard,You have your ball back. I have nothing else of value.
+152942,14,179,762000,Bart Simpson,Springfield Elementary School Yard,I need you to help me get a passing grade.
+152943,14,180,764000,Martin Prince,Springfield Elementary School Yard,"Well, you do need someone's help to get a passing grade but I don't know why that someone should be me."
+152944,14,181,770000,Bart Simpson,Springfield Elementary School Yard,Because I can make it so the other kids don't laugh at you so much.
+152945,14,182,773000,Martin Prince,Springfield Elementary School Yard,They... laugh at me? I'd always considered myself rather popular.
+152946,14,183,780000,Bart Simpson,Springfield Elementary School Yard,You're not. Watch!
+152947,14,184,785000,Martin Prince,Springfield Elementary School Yard,Then my-my speed with numbers... my years of service as a hall monitor... my prize winning diaramas... these things mean nothing to them?
+152948,14,185,795000,Bart Simpson,Springfield Elementary School Yard,Perhaps another demonstration.
+152949,14,186,799000,Martin Prince,Springfield Elementary School Yard,"Very well. You have made your point, Bart."
+152950,14,187,802000,Bart Simpson,Springfield Elementary School Yard,Then it's a deal.
+152951,14,188,803000,Martin Prince,Springfield Elementary School Yard,Yes.
+152953,14,190,805000,Martin Prince,Simpson Home,All righty. Let's have a look-see at your study area.
+152954,14,191,808000,Bart Simpson,Simpson Home,Study area?
+152955,14,192,809000,Martin Prince,Simpson Home,"Yes, your-your sanctuary from the hurly-burly of modern life."
+152956,14,193,812000,Bart Simpson,Simpson Home,"Well, there's a desk under that junk over there."
+152957,14,194,815000,Martin Prince,Simpson Home,"Oh. No, no, no, no. This won't do at all. We're gonna have to clean up this room. And we'll clearly need a few ferns in here. No study area is complete without adequate plant-life."
+152959,14,196,827000,Bart Simpson,School Bus,No.
+152960,14,197,828000,Martin Prince,School Bus,No?
+152961,14,198,830000,Bart Simpson,School Bus,"Only geeks sit in the front seat. From now on you sit in the back row. And that's not just on the bus. It goes for school and church, too."
+152962,14,199,836000,Martin Prince,School Bus,Why?
+152963,14,200,837000,Bart Simpson,School Bus,So no one can see what you're doing.
+152964,14,201,840000,Martin Prince,School Bus,Oooh. I think I understand. The potential for mischief varies inversely with one's proximity to the authority figure.
+152965,14,202,847000,Bart Simpson,School Bus,"Well yeah, but don't say it like that."
+152966,14,203,888000,Martin Prince,School Bus,Pretty soon you will be ready to try it with a real book.
+152969,14,206,906000,Bart Simpson,Springfield Elementary School,"Great, Martin. Now, the big test is tomorrow and I haven't even started to study..."
+152970,14,207,909000,Martin Prince,Springfield Elementary School,Who cares about some test? Life's too short for tests.
+152971,14,208,913000,Bart Simpson,Springfield Elementary School,Hey! I thought we had a deal.
+152972,14,209,916000,Martin Prince,Springfield Elementary School,"The Martin Prince you made a deal with no longer exists. Come on fellows, to the arcade."
+152974,14,211,925000,Marge Simpson,Bart's Bedroom,"Bart, it's past your bedtime."
+152975,14,212,935000,Bart Simpson,Bart's Bedroom,Okay.
+152976,14,213,937000,Bart Simpson,Bart's Bedroom,This is hopeless.
+152977,14,214,943000,Bart Simpson,Bart's Bedroom,"Well, old timer... I guess this is the end of the road. I know I haven't always been a good kid. But if I have to go to school tomorrow, I'll fail the test and be held back. I just need one more day to study, Lord. I need your help."
+152978,14,215,957000,Lisa Simpson,Bart's Bedroom,"Prayer, the last refuge of a scoundrel."
+152979,14,216,960000,Bart Simpson,Bart's Bedroom,"A teacher's strike, a power failure, a blizzard. Anything that'll cancel school tomorrow. I know it's asking a lot, but if anyone can do it, you can. Thanking you in advance, your pal, Bart Simpson."
+152982,14,219,993000,Marge Simpson,Bart's Bedroom,"Wake up Bart, rise and shine, little guy. Time to wake up."
+152983,14,220,997000,Bart Simpson,Bart's Bedroom,"Oh? No, no."
+152984,14,221,999000,Marge Simpson,Bart's Bedroom,Wake up and look at the snow.
+152985,14,222,1001000,Bart Simpson,Bart's Bedroom,"Huh? Whoa, Good morning, world!"
+152987,14,224,1006000,Marty,KITCHEN,Rise and shine Springfield residents! It's the Bill and Marty Show. He's Bill.
+152988,14,225,1010000,Bill,KITCHEN,He's Marty.
+152989,14,226,1011000,Marty,KITCHEN,Two grown men who can't get enough of each other...
+152990,14,227,1014000,Bill,KITCHEN,And it looks like we've got some snowformation for all those flake lovers out there.
+152991,14,228,1018000,Marty,KITCHEN,Hmmm hmmm.
+152992,14,229,1018000,Bill,KITCHEN,"Springfield Electric, Gas and Water plants are closed for the day..."
+152993,14,230,1021000,Marty,KITCHEN,"Oh now, don't forget the nuclear power plant, Bill. That's closed too."
+152994,14,231,1025000,Homer Simpson,KITCHEN,Whoo hoo! All right!
+152996,14,232,1028000,Bill,KITCHEN,"And now for all you youngsters, you toddlers, this is what you've been waiting for. Springfield County schools are... I can't read it, I'm too excited."
+152997,14,233,1036000,Marty,KITCHEN,"Oh, oh! Springfield County Schools will be closed."
+152998,14,234,1037000,Bart Simpson,KITCHEN,Please please please please please please please. All right!
+152999,14,235,1047000,Homer Simpson,KITCHEN,Yeah!
+153002,14,238,1048000,Bart Simpson,Simpson Hallway,owabunga!
+153003,14,239,1049000,Marge Simpson,Simpson Hallway,Remember to take a break if your arms go numb!
+153004,14,240,1053000,Bart Simpson,Simpson Hallway,Hey.
+153005,14,241,1054000,Lisa Simpson,Simpson Hallway,"I heard you last night, Bart. You prayed for this. Now your prayers have been answered. I'm no theologian. I don't know who or what God is exactly. All I know is He's a force more powerful than Mom and Dad put together and you owe him big."
+153006,14,242,1063000,Bart Simpson,Simpson Hallway,"You're right. I asked for a miracle and I got it. I gotta study, man."
+153008,14,244,1078000,Bart Simpson,Bart's Bedroom,"I'm not missin'anything. Frozen earlobes, trudging up that stupid sled hill over and over again... how good could it be?"
+147909,14,247,1099000,KRABAPPEL,NEIGHBORHOOD,I haven't had this much fun in years!
+153011,14,248,1103000,Homer Simpson,NEIGHBORHOOD,"Got ya, Burnsie."
+153012,14,249,1105000,C. Montgomery Burns,NEIGHBORHOOD,"Why you young ragamuffin. I was never one to back away from a snowball fight. Smithers, you may fire at will."
+153013,14,250,1112000,Waylon Smithers,NEIGHBORHOOD,"Certainly, sir."
+153014,14,251,1118000,Mayor Joe Quimby,NEIGHBORHOOD,"I hereby declare this day to be ""Snow Day"" -- The funnest day in the history of Springfield!"
+153015,14,252,1121000,Entire Town,NEIGHBORHOOD,"""SLEIGH BELLS RING / ARE YOU LISTENIN'/,sleigh bells ring are you listenin,6
+4261,14,253,Entire Town: IN THE LANE / SNOW IS GLISTENIN' /,1130000,true,241,211,Entire Town,NEIGHBORHOOD,IN THE LANE / SNOW IS GLISTENIN' /,in the lane snow is glistenin,6
+4262,14,254,Entire Town: A BEAUTIFUL SIGHT / WE'RE HAPPY TONIGHT/ WALKIN' IN A WINTER WONDERLAND."" /"
+153016,14,255,1141000,Entire Town,NEIGHBORHOOD,"""GONE AWAY IS THE BLUEBIRD / HERE TO STAY...,gone away is the bluebird here to stay,8
+4264,14,256,Bart Simpson: Gotta study! Gotta study! Gotta study!,1149000,true,8,211,Bart Simpson,NEIGHBORHOOD,Gotta study! Gotta study! Gotta study!,gotta study gotta study gotta study,6
+4265,14,257,(Simpson Home: int. simpson house - basement),1154000,false,,5,,Simpson Home,,,
+4266,14,258,""Bart Simpson: (READING ALOUD"
+152968,14,260,1160000,Thomas Jefferson,"CONTINENTAL CONGRESS, PHILADELPHIA","""We hold these truths to be self-evident.,we hold these truths to be self-evident,7
+4357,15,49,(WINFIELD'S HOUSE: EXT. WINFIELD'S HOUSE - CONTINUOUS),317000,false,,215,,WINFIELD'S HOUSE,,,
+4213,14,205,""Martin Prince: Who would have thought that pushing a boy into the girls' lavatory could be such a thrill? The screams"
+153018,14,261,1169000,Bart Simpson,"CONTINENTAL CONGRESS, PHILADELPHIA",We hold these truths to be self-evident. We hold these truths to be self-evident.
+153019,14,262,1169000,Thomas Jefferson,"CONTINENTAL CONGRESS, PHILADELPHIA",That all men are created equal.
+153020,14,263,1174000,Bart Simpson,"CONTINENTAL CONGRESS, PHILADELPHIA",That all men are created equal.
+153021,14,264,1174000,Thomas Jefferson,"CONTINENTAL CONGRESS, PHILADELPHIA",That from that equal creation they derive rights inherent and inalienable...
+153022,14,265,1180000,John Adams,"CONTINENTAL CONGRESS, PHILADELPHIA","Hey, look everybody! It's snowing!"
+153023,14,266,1182000,Samuel Chase,"CONTINENTAL CONGRESS, PHILADELPHIA",In the middle of July?
+153024,14,267,1183000,Roger Sherman,"CONTINENTAL CONGRESS, PHILADELPHIA",It's a miracle.
+153025,14,268,1184000,Benjamin Franklin,"CONTINENTAL CONGRESS, PHILADELPHIA","Fellas, I've invented something fun... the sled."
+153026,14,269,1191000,John Adams,"CONTINENTAL CONGRESS, PHILADELPHIA","Hey, look everybody! John Hancock's writing his name in the snow!"
+153028,14,271,1201000,Bart Simpson,Simpson Basement,"Do you want to be held back a grade? Concentrate, man."
+153031,14,274,1213000,Martin Prince,CLASSROOM,"Later, Mrs. K."
+147910,14,275,1218000,KRABAPPEL,CLASSROOM,"Please turn in your exam, Bart. Class is over."
+153032,14,276,1222000,Bart Simpson,CLASSROOM,"Do you think you could grade it now, please?"
+147911,14,277,1225000,KRABAPPEL,CLASSROOM,"Well, all right. Let me get ""Old Red."""
+147912,14,278,1234000,KRABAPPEL,CLASSROOM,"Well, Bart. It's a fifty-nine. That's another F."
+153033,14,279,1236000,Bart Simpson,CLASSROOM,"Oh no, I can't believe it."
+147913,14,280,1240000,KRABAPPEL,CLASSROOM,"I know, I know. Another year together. Ugh! It's gonna be hell."
+147914,14,281,1251000,KRABAPPEL,CLASSROOM,"Bart, what's the matter? I would think that you'd be used to failing by now."
+153034,14,282,1255000,Bart Simpson,CLASSROOM,"No, you don't understand. I really tried this time. I really tried."
+147915,14,283,1261000,KRABAPPEL,CLASSROOM,"There, there..."
+153035,14,284,1262000,Bart Simpson,CLASSROOM,This is as good as I can do. And I still failed.
+147916,14,285,1266000,KRABAPPEL,CLASSROOM,"Well, a fifty-nine... it's a high F."
+153036,14,286,1266000,Bart Simpson,CLASSROOM,"Who am I kidding? I really am a failure. Oh, now I know how George Washington felt when he surrendered Fort Necessity to the French in 1754..."
+147917,14,287,1280000,KRABAPPEL,CLASSROOM,What?
+153037,14,288,1281000,Bart Simpson,CLASSROOM,"Oh you know... 1754, the famous defeat to the French..."
+147918,14,289,1285000,KRABAPPEL,CLASSROOM,"My God, Bart. You're right!"
+153038,14,290,1287000,Bart Simpson,CLASSROOM,So...
+147919,14,291,1288000,KRABAPPEL,CLASSROOM,"You just demonstrated applied knowledge. And due to the difficulty and relative obscurity of the reference you deserve an extra point on your exam. Hey, it's only fair."
+153041,14,292,1298000,Bart Simpson,CLASSROOM,You mean I passed?
+147920,14,293,1299000,KRABAPPEL,CLASSROOM,Just barely.
+153042,14,294,1301000,Bart Simpson,CLASSROOM,I passed. I got a D minus. I passed. All right!
+153044,14,296,1307000,Bart Simpson,SNOWY STREET,"I passed! I passed! I passed! I passed! I got a D minus. I passed!... I got a D minus. I passed!... I got a D minus. I passed! I passed! I kissed the teacher. Peh, peh, peh peh."
+153046,14,298,1326000,Homer Simpson,Simpson Kitchen,We're proud of you boy.
+153047,14,299,1328000,Bart Simpson,Simpson Kitchen,"Thanks, Dad. But part of this D minus belongs to God."

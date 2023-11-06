@@ -1,0 +1,239 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+133723,515,1,13000,Homer Simpson,Springfield,"Bart, stop it! You might fall!"
+133724,515,2,16000,Young Woman,Springfield,"Oh, he's such a cute little rascal."
+148637,515,3,19000,Homer's Thoughts,Springfield,Oh my God... is she flirting with me?
+133725,515,4,22000,Young Woman,Springfield,I can see where he gets his good looks.
+148638,515,5,25000,Homer's Thoughts,Springfield,"She is flirting with me. Okay, Homer, let her down easy. Don't go breaking any hearts."
+133726,515,6,30000,Young Woman,Springfield,What a lucky little boy to get a trip to the park with his grandpa.
+148639,515,7,34000,Homer's Thoughts,Springfield,Grampa?!
+133727,515,8,36000,Homer Simpson,Springfield,Grampa?!
+133728,515,9,37000,Young Woman,Springfield,Oh my God! Should I call an ambulance? Help! An old man is dying!
+133729,515,10,43000,Homer Simpson,Springfield,"This boy's grandfather is a shriveled-up corn cob, begging for death! I am his father... I can't believe I allowed you to hit on me."
+133730,515,11,56000,Homer Simpson,Springfield,"Beat it, ducks! I'm not old enough to have food for you! I'm sexy! Young and sexy!"
+133732,515,13,63000,Homer Simpson,Springfield Nuclear Power Plant,Old man... I'm not an old man... This drawing doesn't think I'm old.
+133733,515,14,68000,Homer Simpson,Springfield Nuclear Power Plant,"Don't you, drawing?"
+133734,515,15,70000,Homer Simpson,Springfield Nuclear Power Plant,Those aren't our regular donuts! They're huge... with crazy toppings! Gummy worms! Churro chunks! Russian nesting donut!
+133735,515,16,81000,Homer Simpson,Springfield Nuclear Power Plant,Gotta eat the rest!
+133736,515,17,85000,Homer Simpson,Springfield Nuclear Power Plant,They're gone!
+133737,515,18,86000,Homer Simpson,Springfield Nuclear Power Plant,"Where did these ""Devil Donuts"" come from?"
+133738,515,19,89000,Lenny Leonard,Springfield Nuclear Power Plant,I don't know. The guy who gives the sexual harassment seminars brought 'em in.
+133740,515,21,92000,Seminar Leader,Conference Room,"... actually, Carl, there's no workplace-appropriate use for the word ""bazooms."""
+133741,515,22,92000,Carl Carlson,Conference Room,"What about ""thunderbags?"""
+133742,515,23,99000,Homer Simpson,Conference Room,"Get lost, pervs!"
+133743,515,24,102000,Homer Simpson,Conference Room,"Okay, where did you get these donuts?"
+133744,515,25,104000,Seminar Leader,Conference Room,From a guy with a cart. It could be anywhere!
+133745,515,26,108000,Chief Wiggum,Conference Room,Nine one one. What is your emergency?
+133746,515,27,111000,Homer Simpson,Conference Room,I'm calling to report... a missing donut cart.
+133748,515,29,116000,Chief Wiggum,Springfield,I'm not seeing anything!
+133749,515,30,116000,Chief Wiggum,Springfield,Can you get any lower?
+133750,515,31,119000,Lou,Springfield,"But, Chief, the power lines--"
+133751,515,32,120000,Chief Wiggum,Springfield,"""But, Chief, the power lines."" Go lower!"
+133752,515,33,124000,Homer Simpson,Springfield,"No, no, nothing, nope."
+133753,515,34,127000,Homer Simpson,Springfield,I see... devil horns!
+133754,515,35,130000,Homer Simpson,Springfield,"... pitchfork, pointed tail... hooves are... cloven! We have logo, people. We have logo!"
+133755,515,36,138000,Donut Man,Springfield,"Sorry gents, we're fresh out. I only make one batch a day, and when they're gone, I'm done."
+133756,515,37,143000,Homer Simpson,Springfield,No more donuts?
+133757,515,38,145000,Chief Wiggum,Springfield,Make more or I shoot!
+133758,515,39,146000,Chief Wiggum,Springfield,I'm not bluffing! Come on.
+133759,515,40,150000,Chief Wiggum,Springfield,What have I become?
+133760,515,41,152000,Chief Wiggum,Springfield,"It's not a good feeling when you're saying ""what have I become"" more than once a day."
+133761,515,42,160000,Donut Man,Springfield,Tell you what... I could give you a sneak preview of a new donut that's still in the R & D phase.
+133762,515,43,166000,Homer Simpson,Springfield,Beer keg do-nut?
+133763,515,44,172000,Homer Simpson,Springfield,I would be honored to shake the hand that glazed this.
+133764,515,45,175000,Donut Man/terence,Springfield,I'm Terence.
+133765,515,46,177000,Homer Simpson,Springfield,Tell me everything about you.
+133767,515,48,179000,Homer Simpson,Donut Cart,You're from Portland? I've heard of people being from there.
+148640,515,49,183000,Homer's Thoughts,Donut Cart,No I haven't!
+133768,515,50,184000,Terence,Donut Cart,"Yeah, but Portland just got too played out. The city used to be real. Did you know there are now restaurants there with two locations? Not near my kids."
+133769,515,51,193000,Homer Simpson,Donut Cart,"Wait a minute, you have kids?! You can't have kids! Look at you!"
+133770,515,52,198000,Homer Simpson,Donut Cart,"You have a fun job, a skull ring and it's not Halloween... and your belt is a seatbelt..."
+133771,515,53,203000,Homer Simpson,Donut Cart,No one would ever think you're a lame old man.
+133772,515,54,206000,Terence,Donut Cart,"You can't let being a dad slow you down. Me and the fam are doing the whole ""urban nomad"" thing, you know, just looking for an undiscovered city with affordable houses."
+133773,515,55,215000,Homer Simpson,Donut Cart,Our houses are the cheapest! The one next to me's been on sale forever! I see them lowering the price every morning when I go out to pee.
+133774,515,57,224000,Homer Simpson,Evergreen Terrace,Please. Please rush into this! Please rush into this!
+133775,515,58,227000,Terence,Evergreen Terrace,"What a find! Underneath all the ugly renovations, this house has Neutra bones."
+133776,515,59,233000,Homer Simpson,Evergreen Terrace,"In my house, we found human bones."
+133777,515,60,235000,Terence,Evergreen Terrace,Emily and I have always dreamed of restoring an architectural masterpiece!
+133778,515,61,238000,Emily,Evergreen Terrace,I have a graduate degree in mid-century kitsch!
+133779,515,62,242000,Terence,Evergreen Terrace,"Thanks for turning us on to this place, Homer. You're a pretty cool guy."
+133780,515,63,245000,Homer Simpson,Evergreen Terrace,"Really? I'm... ...cool? Oh, can I man-hug you?"
+133781,515,64,251000,Terence,Evergreen Terrace,Sure.
+133782,515,65,252000,Homer Simpson,Evergreen Terrace,I don't know how.
+133783,515,66,258000,Homer Simpson,Evergreen Terrace,"Okay, our first hang-out with the cool new neighbors. I've already ""blown them away"" -- their words, I assume -- so don't screw it up."
+133784,515,67,266000,Marge Simpson,Evergreen Terrace,"Relax, kids, just be yourselves."
+133785,515,68,269000,Homer Simpson,Evergreen Terrace,"Great, Marge, now that's in their heads."
+133786,515,69,273000,Terence,Evergreen Terrace,"Hey, this is my armadillo, Chewy. ""Mexico"" Chewy, not ""Star Wars"" Chewy."
+133787,515,70,278000,Homer Simpson,Evergreen Terrace,"""Star Wars"" Chewy's just a man in a costume, so he's not scary."
+133789,515,72,284000,Terence,NEIGHBORS' HOUSE,"This is our baby, Corduroy."
+133790,515,73,284000,Terence,NEIGHBORS' HOUSE,"And our son, T-Rex."
+133791,515,74,289000,T-Rex,NEIGHBORS' HOUSE,"Neighbors, I get it."
+133792,515,75,291000,Homer Simpson,NEIGHBORS' HOUSE,"""T-Rex?"" Even their names are cool! This is, umm... Ice Cream, Bungee Jump, and... Viral Video."
+133795,515,78,302000,Lisa Simpson,KID'S ROOM,Whoa.
+133796,515,79,303000,Bart Simpson,KID'S ROOM,Cool.
+133797,515,80,305000,Lisa Simpson,KID'S ROOM,"Look at these obscure card games! Hey, do you have ""Uno?"""
+133798,515,81,309000,T-Rex,KID'S ROOM,I did when I was uno.
+133799,515,82,312000,Bart Simpson,KID'S ROOM,Check out all these Sergeant Activity dolls!
+133800,515,83,314000,T-Rex,KID'S ROOM,"No, that's ""Combat Jack,"" the original British doll that ""Sergeant Activity"" ripped off."
+133801,515,84,321000,Bart Simpson,KID'S ROOM,Fine. You have a weird old version of something. Let's just watch TV.
+133802,515,85,325000,T-Rex,KID'S ROOM,"Uh, TV? We don't own a TV."
+133803,515,86,329000,Lisa Simpson,KID'S ROOM,I didn't know that was an option.
+133804,515,87,331000,Bart Simpson,KID'S ROOM,"I think I'm done here. Lisa, go nuts."
+133805,515,88,334000,T-Rex,KID'S ROOM,My dad only lets me watch what's on his queue.
+133806,515,89,339000,YO-YO,KID'S ROOM,IF I DON'T GET OFF THE CLOUD PALACE I'LL NEVER GET HOME FOR SCHOOL TOMORROW BUT THE TOAD SPIRIT HAS AUNT GINZEE!!!!!!
+133808,515,91,352000,Marge Simpson,NEIGHBORS' HOUSE,"""Scientists Prove Cat Heaven Real, Human Heaven Not"" That's so sad..."
+133809,515,92,359000,Emily,NEIGHBORS' HOUSE,"Those are joke headlines. It's not a real newspaper, it's just satire."
+133810,515,93,364000,Marge Simpson,NEIGHBORS' HOUSE,Oh... satire.
+133811,515,94,369000,Marge Simpson,NEIGHBORS' HOUSE,"And these fake movie reviews are so mean, it's hilarious."
+133812,515,95,369000,Emily,NEIGHBORS' HOUSE,"Oh, those are real."
+133813,515,96,376000,Marge Simpson,NEIGHBORS' HOUSE,Great paper.
+133814,515,97,380000,Marge Simpson,NEIGHBORS' HOUSE,Maggie's a little hungry.
+133815,515,98,381000,Emily,NEIGHBORS' HOUSE,"Oh, you can go ahead and feed her. Corduroy could probably use a snack."
+133816,515,99,387000,Marge Simpson,NEIGHBORS' HOUSE,That's not applesauce...
+133817,515,100,391000,Emily,NEIGHBORS' HOUSE,"Oh, you don't have to be uncomfortable around another nursing mom. Breastfeeding's just a healthy thing we all do."
+133818,515,101,397000,Marge Simpson,NEIGHBORS' HOUSE,It sure is! There's nothing more natural than... that. It's just that Maggie's already... milked me today!
+133820,515,103,405000,Marge Simpson,NEIGHBORS' BACKYARD,"Homer, I think we should go. We're not like these people."
+133821,515,104,413000,Homer Simpson,NEIGHBORS' BACKYARD,Check out my new look!
+133822,515,105,414000,Homer Simpson,NEIGHBORS' BACKYARD,Terence shaved my head!
+133823,515,106,416000,Marge Simpson,NEIGHBORS' BACKYARD,You're all bald!
+133824,515,107,417000,Homer Simpson,NEIGHBORS' BACKYARD,"No, I'm young person ""cool"" bald, not old person ""sad"" bald. I never want to see these again."
+133826,515,109,432000,Homer Simpson,Simpson Home,"Check it out, Flanders, us cool dads are sharing a mono-yard. Guess I can't be your best friend anymore."
+133827,515,110,440000,Ned Flanders,Simpson Home,"To be honest, that comes as a tremendous relief."
+133828,515,111,443000,Homer Simpson,Simpson Home,"Boo hoo hoo, you can cry all night. It's not gonna win me back."
+133829,515,112,451000,Lisa Simpson,Simpson Home,I can finally compost!
+133830,515,113,456000,Marge Simpson,Simpson Home,"Maybe we shouldn't rush things with the new neighbors. You know, we might not all be a perfect match."
+133831,515,114,463000,Homer Simpson,Simpson Home,"I have a plan to deal with that. Step one: change everything about ourselves until we are super cool, the end."
+133832,515,115,469000,Marge Simpson,Simpson Home,But I always thought you were cool.
+133835,515,116,472000,Homer Simpson,Simpson Home,"Honey, I'm not cool. I was never cool. I didn't go to college. Every CD I have I bought at a carwash. Black-and-white films make me angry. I can't pronounce ""artis-anal."" I only know David Cross from the Chipmunks movie. Not only do I like Van Halen, but I think they keep getting better..."
+133837,515,118,491000,Homer Simpson,Simpson Home,"But if me and my kids do the same stuff as Terence and his kids, I could be a cool dad."
+133838,515,119,497000,Marge Simpson,Simpson Home,"Well sweetie, if it's that important to you, I guess we can try."
+133839,515,120,503000,Homer Simpson,Simpson Home,"Thanks, baby. Here, have a bracelet made of a seventies educational film strip."
+133840,515,121,508000,Marge Simpson,Simpson Home,Ooo! Hygiene!
+133843,515,124,510000,Marge Simpson,Simpson Home,Your father took you to a Korean gangster film festival?
+133844,515,125,525000,Bart Simpson,Simpson Home,"Yeah it was great! This one guy was part of another guy's gang, I mean ""kkangpae,"" but then he quit and joined another kkangpae, and when the guys in the first kkangpae found out, they were so mad they put his feet in a blender. Then they cut to a guy eating noodles and blood splashed on him!"
+133845,515,126,538000,Lisa Simpson,Simpson Home,At the art walk we walked into a gallery and it was just a guy crying -- that was the art!
+133846,515,127,545000,Marge Simpson,Simpson Home,The kids are a mess! You brought them home exhausted and pretentious!
+133847,515,128,550000,Homer Simpson,Simpson Home,"No, we need to take kids to grownup stuff. That's Terence's parenting style--"
+133848,515,129,555000,Marge Simpson,Simpson Home,Parenting shouldn't have a style! Parenting is about bedtimes and passwords on computers and complicated punishments you never follow through on! Are you wearing a wallet chain?! You look like... a barista!
+133849,515,130,570000,Homer Simpson,Simpson Home,"Well, you won't be laughing when you see how many pickpockets this thing catches."
+133850,515,131,575000,Marge Simpson,Simpson Home,And what's with the scarf? It's soaked in neck sweat.
+133851,515,132,578000,Homer Simpson,Simpson Home,Wearing scarves in non-scarf weather is the essence of cool. The. Essence.
+133854,515,135,585000,Homer Simpson,Downtown Springfield,"Oh man, my goatee has barely come in. Why does my hair only grow in twos?"
+133855,515,136,593000,Homer Simpson,Downtown Springfield,I hope T-Rex likes the present I made him.
+133856,515,137,596000,Marge Simpson,Downtown Springfield,Made? Why didn't you just buy him a toy?
+133857,515,138,599000,Homer Simpson,Downtown Springfield,"Homemade presents are how cool families demonstrate how awesome they are. If I show up with a ""toy"" from the ""store,"" like we would give ""our kids,"" then I've failed! And these skinny jeans will have flattened my junk for nothing!"
+133859,515,140,625000,Marge Simpson,Abandoned Factory,"Geez, is this a kid's birthday party or the place a bad guy kidnaps you to in a movie?"
+133860,515,141,630000,Terence,Abandoned Factory,"Yeah, this factory used to make blimp tires."
+133861,515,142,633000,Homer Simpson,Abandoned Factory,T-Rex loves decaying industrial-scapes.
+133862,515,143,636000,T-Rex,Abandoned Factory,I used to. Now I'm into abandoned ethnic union halls.
+133863,515,144,640000,Bart Simpson,Abandoned Factory,"Come on dude, this party rocks! Love the temporary tattoo station!"
+133864,515,145,644000,T-Rex,Abandoned Factory,"Uh, temporary?"
+133865,515,146,647000,Ralph Wiggum,Abandoned Factory,I want kitty whiskers!
+133866,515,147,648000,Tattoo Artist,Abandoned Factory,You got it!
+133867,515,148,650000,Marge Simpson,Abandoned Factory,There's gotta be a bounce house around here somewhere. At least maybe a piñata...?
+133869,515,150,661000,Marge Simpson,Office,Holy areole...
+133870,515,151,663000,Emily,Office,"Please, join our milk circle."
+133871,515,152,665000,Marge Simpson,Office,"I'd love to, but Maggie's a little shy..."
+133872,515,153,669000,Emily,Office,"Don't worry, you can use a nursing apron."
+133873,515,154,673000,Marge Simpson,Office,"Play along! Ooh, this couldn't feel more natural. Glug, glug, glug. That's a good little mammal."
+133874,515,155,684000,Nursing Women,Office,A bottle! / Plastic! / Formula!
+133875,515,156,688000,Nursing Toddler,Office,That is so wrong!
+133876,515,157,690000,Marge Simpson,Office,"Fine! I admit it, you... nipple Nazis! I give my baby formula!"
+133878,515,159,697000,Emily,Office,It's okay. If you don't want to breastfeed your baby... we will.
+133879,515,160,704000,Marge Simpson,Office,Stay back! You know I'll use this... because you saw me using it.
+133882,515,163,710000,T-Rex,Abandoned Factory,"Huh, 1950s Pontiac Accordion Camera. I could always use another one of these. Bowling shoes. Not vintage, but you know, in a pinch..."
+133883,515,164,725000,T-Rex,Abandoned Factory,"""Dino-Cool."" Oh, I get it -- a T-Rex for the T-Rex. How long did it take him to think of that one?"
+133884,515,165,734000,Bart Simpson,Abandoned Factory,Hey! My dad worked really hard to make that. He took a class to learn denim painting!
+133885,515,166,739000,T-Rex,Abandoned Factory,This is so pathetic I can't even wear it ironically ironically.
+133833,515,167,745000,T-Rex,Abandoned Factory,"This guy's going on my ""Poser Tumblr."""
+133886,515,169,745000,Bart Simpson,Abandoned Factory,No one bad-mouths my dad except me!
+133887,515,170,768000,Terence,Abandoned Factory,Your son attacked mine! You've turned this former slaughterhouse into a place of violence!
+133888,515,171,773000,Homer Simpson,Abandoned Factory,I thought it made blimp tires!
+133889,515,172,774000,T-Rex,Abandoned Factory,"Yeah, like factories are never repurposed."
+133890,515,173,779000,Terence,Abandoned Factory,It's time for you guys to leave.
+133891,515,174,781000,Homer Simpson,Abandoned Factory,Are we still on for midnight bike riding?
+133893,515,176,791000,Sideshow Mel,Simpson Home,Feeling included is life's greatest joy!
+133895,515,178,801000,Homer Simpson,Simpson Home,"Oh ohhhh boy, oh oh oh oh boy, oh boy."
+133896,515,179,807000,Bart Simpson,Simpson Home,"Have you been ""oh boy""-ing all night?"
+133897,515,180,809000,Homer Simpson,Simpson Home,"O-o-o-ooooh booooyyyyy... We had the family version of a bromance going with our awesome neighbors, and you had to screw it up."
+133898,515,181,819000,Bart Simpson,Simpson Home,"Look. That kid threw your present in the garbage, and he called you a poser and everyone laughed!"
+133899,515,182,823000,Homer Simpson,Simpson Home,He called me... a poser?
+133900,515,183,825000,Bart Simpson,Simpson Home,"Yeah, I was sticking up for you."
+133901,515,184,827000,Homer Simpson,Simpson Home,You? Sticking up for your old man? You've never done that before.
+133902,515,185,832000,Marge Simpson,Simpson Home,"Also, I didn't want to tell you, but... that wife and her gang looked down on me because I don't breastfeed!"
+133903,515,186,838000,Homer Simpson,Simpson Home,What? No one judges my wife's thunderbags! Well maybe I was wrong about these people. Who ever thought a cool person could be a jerk?
+133904,515,187,849000,Homer Simpson,Simpson Home,They can goatee... hell!
+133905,515,188,855000,Homer Simpson,Simpson Home,"Yeah, that's right, the friendship between the Simpsons and the whatever-your-last-name-is-es-es is over!"
+133906,515,189,862000,Terence,Simpson Home,I want my moustache stencils back.
+133907,515,190,865000,Homer Simpson,Simpson Home,Fine. Keep 'em. But you have to give back... Lisa?!
+133910,515,193,877000,Ned Flanders,Flanders Living Room,"I just thought if we got together we could change the channel from ""The Feud Network"" to ""Comity Central."""
+133911,515,194,877000,Homer Simpson,Flanders Living Room,Could we at least agree to both hate Flanders?
+133912,515,195,886000,Terence,Flanders Living Room,I like him. He talks in rhyme and owns a whimsical store in a failing mall. He's like the dad in a Wes Anderson movie.
+133913,515,196,891000,Homer Simpson,Flanders Living Room,Shut up with your names!
+133914,515,197,893000,Emily,Flanders Living Room,"Well, we were just questioning the parenting that led to Bart not using his words with Tyrannosaurus."
+133915,515,198,898000,Homer Simpson,Flanders Living Room,"Parenting? Let me tell you ""cool parents"" something. Parents are supposed to be lame... so their kids have something to rebel against... by becoming cool just long enough to get married and have kids -- for whom they are lame! It's nature's way!"
+133916,515,199,917000,Marge Simpson,Flanders Living Room,"When you're old, your tattoos will be saggy and illegible!"
+133917,515,200,920000,Emily,Flanders Living Room,"Well, at least I don't put a corporate chemical cocktail into my child's body!"
+133918,515,201,924000,Marge Simpson,Flanders Living Room,"See, see what I'm dealing with here, Ned? We invited them here, and they repay us with insults and judgments."
+133919,515,202,930000,Ned Flanders,Flanders Living Room,"Yes, but there's two sides to every--"
+133920,515,203,932000,Homer Simpson,Flanders Living Room,"Even Flanders agrees! This is our neighborhood. We were here first, so you should leave."
+133921,515,204,937000,Emily,Flanders Living Room,"We're not going anywhere. Our house just got written up in ""Dwell."""
+133922,515,205,941000,Homer Simpson,Flanders Living Room,"Oh no, it's true!"
+133923,515,206,943000,Terence,Flanders Living Room,When I humblebrag about this article... this town's about to get as popular as toe-sneakers.
+133924,515,207,950000,Terence,Flanders Living Room,The us-types are coming.
+133930,515,213,952000,Nelson Muntz,The Android's Dungeon & Baseball Card Shop,Books!
+133932,515,215,978000,Edna Krabappel-Flanders,Springfield Elementary School,"Class, say hello to your new music teachers... ""The Decemberists."""
+133933,515,216,983000,Colin Meloy,Springfield Elementary School,"Now, who wants to learn a song about press-gangs and infanticide?"
+133936,515,219,991000,Homer Simpson,Lard Lad Donuts,"Stupid town... at least I've still got Moe's... although probably not, seeing where this is going..."
+133938,515,221,1001000,Homer Simpson,Moe's Tavern,What happened here?
+133939,515,222,1003000,Moe Szyslak,Moe's Tavern,I don't know. Everything crappy about this place they like! Even the rats!
+133940,515,223,1006000,Pretentious Rat Lover,Moe's Tavern,"More manchego, Aziz?"
+133942,515,225,1011000,Homer Simpson,Simpson Home,"Oh, Marge, it's bad."
+133944,515,226,1013000,Marge Simpson,Simpson Home,The cool people are everywhere! Somehow they've even made the weather rainier!
+133945,515,227,1018000,Homer Simpson,Simpson Home,I brought these people to Springfield... and now they've taken over!
+133946,515,228,1023000,Homer Simpson,Simpson Home,It's a hellhole!
+133948,515,230,1038000,Futuristic Man,Springfield Street,Disco Stu has found a new thing!
+133949,515,231,1042000,Homer Simpson,Springfield Street,What happened to our town? Everybody wears clothes from the past and uses computers from the future!
+133950,515,232,1048000,Old-timey Hipster,Springfield Street,Where can I buy spats?
+133951,515,233,1050000,MyPhone,Springfield Street,Apu's House of Spats.
+133953,515,235,1055000,T-Rex,Simpson Home,"Hey, better not attack me again -- my mom gave me a salvaged police whistle. We had to replace the ball but everything else is stock."
+133954,515,236,1063000,Bart Simpson,Simpson Home,"Ah relax, I'm over it. Why aren't you at the block party?"
+133955,515,237,1066000,T-Rex,Simpson Home,Block parties are lame.
+133956,515,238,1068000,Bart Simpson,Simpson Home,Why do you think everything's lame?
+133957,515,239,1070000,T-Rex,Simpson Home,I don't know... I don't get a lot of sleep. I was out really late at an all ages burlesque show. Sorry I was mean to your dad.
+133958,515,240,1078000,Bart Simpson,Simpson Home,"That's okay, he is pretty lame. Hey... wanna watch TV?"
+133959,515,241,1082000,T-Rex,Simpson Home,Real TV? With commercials?
+133960,515,242,1084000,Bart Simpson,Simpson Home,Terrible commercials!
+133961,515,243,1086000,T-Rex,Simpson Home,But I'm supposed to turn the compost!
+133962,515,244,1088000,Bart Simpson,Simpson Home,"Screw that, it's Krusty time."
+133964,515,246,1114000,Homer Simpson,Springfield Town Square,"Okay, you win. We don't have to be friends, but can we live on the fringes of your world? Like those eels that eat whale poop?"
+133965,515,247,1119000,Terence,Springfield Town Square,"Yeah, uh... we'll talk about it..."
+133966,515,248,1124000,Emily,Springfield Town Square,"That's how we say ""no."""
+133967,515,249,1125000,Terence,Springfield Town Square,What's that smell?
+133968,515,250,1127000,Emily,Springfield Town Square,Unturned compost and... Cuban movie posters!
+133969,515,251,1131000,Terence,Springfield Town Square,That's our house!
+133971,515,253,1137000,Terence,Evergreen Terrace,"If the flames reach my donut oil, the whole neighborhood will go up!"
+133972,515,254,1143000,Terence,Evergreen Terrace,Dammit! The community garden's using all the water pressure!
+133973,515,255,1145000,Emily,Evergreen Terrace,You just had to have local radishes!
+133974,515,256,1147000,Terence,Evergreen Terrace,"Not now, Emily!"
+133976,515,257,1148000,Marge Simpson,Evergreen Terrace,Stop your trendy arguing! I'm trying to call the fire department!
+133978,515,259,1152000,Lenny Leonard,Springfield Fire Department,"Sorry, our old-timey fire bell spooked the horses, and they ran away."
+133980,515,261,1156000,Homer Simpson,Evergreen Terrace,"Your organic, all-natural lifestyle has doomed us all!"
+133981,515,262,1161000,Marge Simpson,Evergreen Terrace,Then to save us... we need something incredibly unnatural!
+133983,515,264,1166000,Marge Simpson,Simpson Garage,Fifty gallons of baby formula will put out that blaze.
+133985,515,266,1182000,Terence,Simpson Home,The net of scarves and wallet chains is holding!
+133986,515,267,1186000,Homer Simpson,Simpson Home,They're necessary! They're necessary!
+133987,515,268,1188000,Homer Simpson,Simpson Home,They're finally necessary!
+133989,515,270,1197000,Emily,Simpson Home,"I'm sorry we judged you, Marge. Your formula saved us all."
+133990,515,271,1201000,Marge Simpson,Simpson Home,I guess I do feel a little bad about not breastfeeding my kids... except Lisa. I breastfed Lisa for nine months.
+133992,515,273,1225000,Homer Simpson,Evergreen Terrace,I did it! I did it! I man-hugged!
+133993,515,274,1228000,T-Rex,Evergreen Terrace,"Daddy, daddy, I want to go to Krustyburger with Bart and get a Laffy Meal! 'Cause each Laffy Meal comes with a different toy, and I gotta collect 'em all!"
+133994,515,275,1237000,Lisa Simpson,Evergreen Terrace,"Check it out, the New York Times travel section just named Springfield ""America's Coolest City."""
+133996,515,277,1246000,Terence,Evergreen Terrace,That means Springfield is... played out.
+133997,515,278,1251000,Lisa Simpson,Evergreen Terrace,"Please, please take me with you! I am one of you! I understood all your references!"
+133998,515,279,1259000,Lisa Simpson,Evergreen Terrace,No matter where you go... I will find you!
+134000,515,281,1273000,C. Montgomery Burns,Springfield Nuclear Power Plant,Nuclear energy was a craft before it was a science.
+134001,515,282,1277000,C. Montgomery Burns,Springfield Nuclear Power Plant,"I mean, what's wrong with the old ways?"
+134002,515,283,1280000,C. Montgomery Burns,Springfield Nuclear Power Plant,"When uranium came from a stream...and atoms were split by hand...then transformed into the kind of electricity that illuminated not just our homes, but our souls as well?"
+134003,515,284,1292000,C. Montgomery Burns,Springfield Nuclear Power Plant,Who decided that the electrons we produce can't stand for something greater?
+134005,515,285,1297000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Sure, handmade electricity costs more and powers less... but maybe that's the point."
+134006,515,286,1304000,C. Montgomery Burns,Springfield Nuclear Power Plant,The adventure begins!

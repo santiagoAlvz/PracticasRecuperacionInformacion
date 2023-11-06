@@ -1,0 +1,238 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+17715,93,2,10000,Homer Simpson,Simpson Kitchen,"Ahh, the morning horoscope. ""Today will be a day like every other day."" It just gets worse and worse."
+17716,93,3,66000,Marge Simpson,Simpson Kitchen,"Bart, I've asked you not to whistle that annoying tune."
+17717,93,4,74000,Bart Simpson,Simpson Kitchen,"Jawohl, mein mommandant."
+17718,93,5,74000,Lisa Simpson,Simpson Kitchen,Why are you so happy?
+17719,93,6,77000,Homer Simpson,Simpson Kitchen,"Yeah, you kids gotta go to school. I gotta go to work. The only one who has it easy is Marge."
+17720,93,7,82000,Bart Simpson,Simpson Kitchen,"We're having a field trip today. Ah, Lis, won't it be great to cast off the shackles of the soul-crushing hellhole that is Springfield Elementary? Oh, I'm sorry, I forgot. Your class isn't going."
+17721,93,8,98000,Lisa Simpson,Simpson Kitchen,"You're right, Bart. School is for losers."
+17723,93,10,105000,Lisa Simpson,ELEGANT MANSION,"And that's how I cured all disease, ended war, and reunited the entire cast of TV's ""Facts Of Life"", including long time hold-out, Tootie."
+17724,93,11,105000,Bart Simpson,ELEGANT MANSION,Sounds like another Pulitzer for me to polish.
+17725,93,12,120000,Lisa Simpson,ELEGANT MANSION,"Hush, field trip boy."
+17726,93,13,123000,Lisa Simpson,ELEGANT MANSION,Impaled on my Nobel Peace Prize. How ironic.
+17727,93,14,127000,Bart Simpson,ELEGANT MANSION,"Yo! Lis! Lis! Come back, Lis! Come back!"
+17728,93,15,129000,Lisa Simpson,ELEGANT MANSION,Why? I'm so much happier here.
+17731,93,18,135000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,And now Principal Skinner will tell us where we'll be going on this year's field trip.
+17732,93,19,140000,Seymour Skinner,Mrs. Krabappel's Classroom,"Thank you, Edna, everyone. Now class... I wonder who among you can tell me what this is?"
+17733,93,20,148000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"Not the box factory again, Seymour."
+17734,93,21,151000,Martin Prince,Mrs. Krabappel's Classroom,This may well prove fascinating.
+17735,93,22,156000,Bart Simpson,Mrs. Krabappel's Classroom,"I know, I'll just do like Lisa and escape into fantasy."
+17736,93,23,163000,Seymour Skinner,Mrs. Krabappel's Classroom,"Class, instead of going to the box factory, today we'll be going to the... box factory."
+17737,93,24,169000,Bart Simpson,Mrs. Krabappel's Classroom,"Damn TV, you've ruined my imagination just like you've ruined my ability to... to um, uh... oh well."
+17740,93,27,180000,Martin Prince,School Bus,FIFTY-SIX BOXES OF BOTTLES OF BEER ON THE WALL / FIFTY-SIX BOXES OF BOTTLES OF BEER / YOU TAKE ONE DOWN AND PASS IT A-ROUND/ FIFTY-FIVE BOXES OF BOTTLES OF BEER ON THE WALL!
+17742,93,29,196000,Seymour Skinner,Box Factory,Ohhh!
+17743,93,30,223000,Box Executive,Box Factory,"The story of how two brothers - and five other men - parlayed a small business loan into a thriving paper goods concern is a long and interesting one. And here it is. It all began with the filing of form 637 slash A, the application for a small business or farm..."
+17744,93,31,242000,Box Executive,Box Factory,Many interesting and important things have been put into boxes over the years. Textiles... other boxes... even children's candy.
+17745,93,32,249000,Milhouse Van Houten,Box Factory,Do any of these boxes have candy in 'em?
+17746,93,33,252000,Box Executive,Box Factory,No.
+17747,93,34,252000,Milhouse Van Houten,Box Factory,Will they ever?
+17748,93,35,254000,Box Executive,Box Factory,No. We only make boxes to ship nails. Any other questions?
+17749,93,36,257000,Martin Prince,Box Factory,"When will we be able to see a finished box, sir?"
+17750,93,37,261000,Box Executive,Box Factory,"Oh, we don't assemble 'em here. That's done in Flint, Michigan."
+17751,93,38,264000,Bart Simpson,Box Factory,Have any of your workers ever had their hands cut off by the machinery?
+17752,93,39,264000,Box Executive,Box Factory,No...
+17753,93,40,268000,Bart Simpson,Box Factory,...And then the hand started crawling around and tried to strangle everybody?
+17754,93,41,270000,Box Executive,Box Factory,"No, that has never happened."
+17755,93,42,270000,Bart Simpson,Box Factory,Any popped eyeballs?
+17756,93,43,273000,Box Executive,Box Factory,I'm not sure what kind of factory you're thinking of. We just make boxes here.
+17757,93,44,278000,Box Executive,Box Factory,This room is the most popular part of our tour.
+17758,93,45,281000,Milhouse Van Houten,Box Factory,It's just like the other rooms.
+17759,93,46,284000,Box Executive,Box Factory,"Yes, but with one important difference. Oh. We took that out. Yes, it is just like the other rooms."
+17760,93,47,291000,Milhouse Van Houten,Box Factory,What's that building over there?
+17761,93,48,291000,Box Executive,Box Factory,"That's just the TV studio where they film Krusty the Clown and other non-box-related programs. Since it has nothing to do with boxes, I'll just shut these blinds."
+17763,93,50,305000,Box Executive,Box Factory,"Now here's my office. If you will direct your eyes to the floor, you'll see a yellow line. Follow it. It will lead you around my desk ...and back out the door."
+17764,93,51,323000,Bart Simpson,Box Factory,I gotta get outta here.
+17765,93,52,323000,Bart Simpson,Box Factory,Aha! The perfect escape!
+17767,93,54,347000,Security Guard,Channel 6 Studios,"Do you work here, little boy?"
+17768,93,55,349000,Bart Simpson,Channel 6 Studios,Yeah.
+17769,93,56,349000,Security Guard,Channel 6 Studios,"Well then go right in, sir."
+17771,93,58,353000,All,Box Factory,Bart! / Where are you!
+17772,93,59,353000,Seymour Skinner,Box Factory,I'll handle this. Simpson! I'm giving you 'til the count of three to come out. One... two... three. I've done all I can do.
+17773,93,60,367000,Edna Krabappel-Flanders,Box Factory,We'd better call his parents.
+17775,93,62,369000,Marge Simpson,Simpson Home,Just a minute! Don't hang up!
+17779,93,65,372000,Edna Krabappel-Flanders,Box Factory,No answer at home. I'll call his father.
+17781,93,67,380000,Homer Simpson,Springfield Nuclear Power Plant,"Just a minute! Don't hang up! Y'ello... you'll have to speak up, I'm wearing a towel."
+17783,93,69,385000,Director,TV Studio,Action!
+17784,93,70,399000,Bumblebee Man,TV Studio,"Ayy yi yi! No me gusta! I'm sorry, I'm really not comfortable with this, Ethan."
+17785,93,71,405000,Director,TV Studio,"What's the matter, love?"
+17786,93,72,405000,Bumblebee Man,TV Studio,"It's just, it's it's the same old tired gags, isn't it? I mean, let's give the audience some credit."
+17787,93,73,411000,Director,TV Studio,How 'bout a giant mouse trap?
+17788,93,74,411000,Bumblebee Man,TV Studio,I love it!
+17789,93,75,417000,Director,TV Studio,Action!
+17790,93,76,417000,Bumblebee Man,TV Studio,"Ayy yi yi! No me gusta! Ay, it's grande."
+17792,93,78,422000,Homer Simpson,Box Factory,What do you mean you lost him?! He might have fallen into one of these machines!
+17793,93,79,427000,Homer Simpson,Box Factory,Oh my God! That's his lucky red hat!
+17794,93,80,429000,Homer Simpson,Box Factory,He's a box! My boy's a box! Damn you! A boooxxx!
+17796,93,82,437000,Krusty the Clown,TV Studio,I said I wanted a Danish.
+17797,93,83,437000,Intern,TV Studio,"I'm sorry, all the Danishes are gone."
+17798,93,84,444000,Krusty the Clown,TV Studio,"They're not gone, you're gone!"
+17799,93,85,447000,Kent Brockman,TV Studio,"Hmm, mm, mm, tragic news tonight, one hundred and twenty dead in a tidal wave in Kuala Lala...peer... Kuala La Lum... par... France."
+17800,93,86,456000,Bart Simpson,TV Studio,Yoink!
+17801,93,87,466000,Kent Brockman,TV Studio,Yoink?
+17803,93,89,470000,Krusty the Clown,TV Studio,Aw heck... now where am I going to get a Danish?
+17804,93,90,475000,Bart Simpson,TV Studio,"Here's a Danish, Krusty."
+17805,93,91,475000,Krusty the Clown,TV Studio,"Gimme, gimme, gimme!"
+17806,93,92,477000,Krusty the Clown,TV Studio,Now that's Danish. Where'd you get it?
+17807,93,93,482000,Bart Simpson,TV Studio,I stole it from Kent Brockman.
+17808,93,94,485000,Krusty the Clown,TV Studio,"Great. He didn't touch it, did he?"
+17809,93,95,488000,Bart Simpson,TV Studio,No.
+17810,93,96,490000,Krusty the Clown,TV Studio,"Good job, kid. What's your name?"
+17811,93,97,492000,Bart Simpson,TV Studio,I'm Bart Simpson. I saved you from jail.
+17813,93,99,497000,Bart Simpson,TV Studio,I reunited you with your estranged father.
+17815,93,100,501000,Bart Simpson,TV Studio,"I saved your career, man! Remember your comeback special?"
+17816,93,101,504000,Krusty the Clown,TV Studio,"Yeah, well what have you done for me lately?"
+17817,93,102,507000,Bart Simpson,TV Studio,I got you that Danish.
+17818,93,103,507000,Krusty the Clown,TV Studio,And I'll never forget it.
+17819,93,104,515000,Krusty the Clown,TV Studio,"Hey, kid!"
+17820,93,105,519000,Bart Simpson,TV Studio,Wow! A big clown hankie!
+17821,93,106,522000,Krusty the Clown,TV Studio,"It's a towel, you yutz. I want you to wash it. You're my new assistant."
+17822,93,107,528000,Bart Simpson,TV Studio,Cool!
+17823,93,108,533000,Kent Brockman,TV Studio,"Yeah, I know I'm on, but I don't care. I don't read the news until I get my Danish. Go ahead, try to find a replacement."
+17824,93,109,542000,Bumblebee Man,TV Studio,A powerful tidal wave in Kuala Lumpur has killed one hundred and twenty people. Ai chihuahua! Whoa whoa whoa!
+17826,93,111,554000,Homer Simpson,Simpson Home,"Marge, I have some horrible, bone chilling news."
+17827,93,112,558000,Marge Simpson,Simpson Home,What is it?
+17828,93,113,558000,Bart Simpson,Simpson Home,"Hi, Homer."
+17829,93,114,560000,Homer Simpson,Simpson Home,"Oh, nothing."
+17830,93,115,560000,Bart Simpson,Simpson Home,"Hey, that's my lucky red hat sitting on top of a double-corrugated, eight-fold, fourteen-gauge box."
+17831,93,116,568000,Marge Simpson,Simpson Home,"Oh, it sounds like you really learned something on your field trip. Think you'd be interested in a career as a box maker?"
+17832,93,117,575000,Bart Simpson,Simpson Home,"Well that'll always be the dream, but for now I got a job in the show business. From now on I'll be helping Krusty the clown after school."
+17833,93,118,583000,Marge Simpson,Simpson Home,"I don't know, Bart. You're only ten."
+17834,93,119,586000,Lisa Simpson,Simpson Home,I've got a weekend job helping the poor. And I'm only eight.
+17835,93,120,589000,Homer Simpson,Simpson Home,That's not a job. It's a waste of time. What can poor people pay ya? Nothin'! What satisfaction do you get from helping 'em? None! Who wants to help poor people anyway? Nobody!
+17836,93,121,602000,Bart Simpson,Simpson Home,"So, anyway, can I, Mom? Can I take the job?"
+17837,93,122,604000,Marge Simpson,Simpson Home,Well...
+17838,93,123,606000,Homer Simpson,Simpson Home,Why not? I remember my first after-school job. I was in a band.
+17840,93,125,613000,Homer Simpson,Street Corner,"Hello, everybody. I'm Archie Bell and I'm also the Drells. We got a new song called, 'Tighten Up' and this is the music you tighten up with."
+17841,93,126,621000,Organ Grinder,Street Corner,"Hey, what's a-matter with you, you crazy kid? You a-chasin' away my a-business."
+17778,93,127,627000,Homer Simpson,Street Corner,"Buzz off, Giuseppe."
+17842,93,128,627000,Organ Grinder,Street Corner,"Hey, Pepe, go for the face!"
+17843,93,129,636000,Homer Simpson,Street Corner,"Yes, son, you can have an electric guitar, just like your old man."
+17844,93,130,642000,Bart Simpson,Street Corner,"Dad, I'm asking if I can get a job."
+17845,93,131,644000,Homer Simpson,Street Corner,"Gig, son. When you're a musician, a job is called a gig."
+17847,93,133,649000,Bart Simpson,Krustylu Studios,"Wow, being in show business is like a dream. We're really lucky, aren't we?"
+17848,93,134,656000,Stagehand,Krustylu Studios,I wish I was dead.
+17849,93,135,656000,Krusty the Clown,Krustylu Studios,"Don't listen to him, kid. This is a dream factory. The birthplace of magic and enchantment. Now, I need you to go and clean out my toilet."
+17851,93,137,667000,Krusty the Clown,Krusty's Bathroom,"Right in here, boy. Eww. I don't know WHAT I was thinking last night. This'll take you a couple hours."
+17853,93,139,675000,Bart Simpson,Simpson Home,"I'm telling ya, I do work on the Krusty show. Look at the credits."
+17854,93,140,678000,Krusty the Clown,Simpson Home,"Bye, bye kids!"
+17855,93,141,681000,Kids In Audience,Simpson Home,Yayyyyyy!
+17856,93,142,681000,Kent Brockman,Simpson Home,"I'm Kent Brockman, on the eleven o'clock news tonight...a certain kind of soft drink has been found to be lethal, we won't tell you which one until after sports and the weather with funny Sonny Storm."
+17857,93,143,694000,Bart Simpson,Simpson Home,There's my name. Right there. Bart Simpson.
+17858,93,144,697000,Milhouse Van Houten,Simpson Home,"Looks more like ""Brad Storch""."
+17859,93,145,697000,Martin Prince,Simpson Home,"No, it says ""Betty"". ""Betty Symington""."
+17860,93,146,697000,Nelson Muntz,Simpson Home,That's for taking credit for other people's work.
+17861,93,147,709000,Homer Simpson,Simpson Home,"It's okay, son. Who cares what a bunch of fourth graders think? You're doing what you want to do with your life. Nothing else matters."
+17862,93,148,719000,Bart Simpson,Simpson Home,"Thanks Dad, that's great advice."
+17863,93,149,721000,Homer Simpson,Simpson Home,"Yep, well, that's what got me where I am today."
+17865,93,151,724000,Homer Simpson,Simpson Home,"There, there."
+17867,93,153,732000,Little Girl,Supermarket Grand Opening,"Would you sign my picture, Krusty?"
+17868,93,154,732000,Krusty the Clown,Supermarket Grand Opening,Sure kid. Get in line.
+17869,93,155,738000,Little Girl,Supermarket Grand Opening,"I love you, Krusty!"
+17870,93,156,738000,Krusty the Clown,Supermarket Grand Opening,Over there.
+17872,93,158,744000,Edna Krabappel-Flanders,Bart's Classroom,"Okay, kids, open your books to page sixty..."
+17814,93,159,744000,Bart Simpson,Bart's Classroom,"Yes, Krusty?"
+17873,93,160,744000,Krusty the Clown,Bart's Classroom,"Bart, I need to get your fingerprints on a candlestick. Meet me in the conservatory. Chop chop. Don't worry, everything's gonna be all right."
+17874,93,161,762000,Bart Simpson,Bart's Classroom,I wish I was dead.
+17876,93,163,772000,Sideshow Mel,Krustylu Studios,Bah! There's cheese in this sandwich! Surely you know I'm lactose intolerant.
+17877,93,164,777000,Bart Simpson,Krustylu Studios,Sorry.
+17878,93,165,777000,Sideshow Mel,Krustylu Studios,Sorry! Do you know how sick this is going to make me? Oooh boy. Come stand next to the bathroom door. I want to yell at you some more.
+17881,93,168,791000,Bart Simpson,TV Studio,Show business sucks. I'm outta here.
+17882,93,169,803000,Krusty the Clown,TV Studio,Bart! I need to use you in a sketch.
+17883,93,170,805000,Bart Simpson,TV Studio,You want me to be on the show?
+17884,93,171,805000,Krusty the Clown,TV Studio,"It's just one line. Mel was supposed to say it, but he's dead."
+17885,93,172,808000,Bart Simpson,TV Studio,Dead?
+17886,93,173,810000,Krusty the Clown,TV Studio,"Or sick. I dunno, I forget. Anyway, all you gotta do is say ""I am waiting for a bus."" Then I hit you with pies for five minutes. Got that?"
+17887,93,174,819000,Bart Simpson,TV Studio,I am waiting for a bus.
+17888,93,175,819000,Krusty the Clown,TV Studio,Makes me laugh. Let's go.
+17889,93,176,822000,Bart Simpson,TV Studio,I am waiting for a...
+17890,93,177,839000,Bart Simpson,TV Studio,I didn't do it.
+17892,93,179,839000,Krusty the Clown,The Krusty the Clown Show,"Oh, man. It's a miracle we got through that one. Remind me never to let you on stage again, kid. Some people got it, some people don't. And you, my young friend, do not have... hold on, I want to finish this thought outside..."
+17894,93,181,864000,Crowd Member,STAGE DOOR,It's that kid!
+17895,93,182,864000,2nd Crowd Member,STAGE DOOR,"It's the ""I didn't do it"" guy!"
+17896,93,183,869000,Krusty the Clown,STAGE DOOR,He's mine. I own him and all the subsidiary rights.
+17898,93,185,878000,Krusty the Clown,The Krusty the Clown Show,"Why this rickety ladder, in front of this door is the perfect place for this priceless Ming vase."
+17899,93,186,887000,Krusty the Clown,The Krusty the Clown Show,...Eh? ...Eh?
+17900,93,187,889000,Bart Simpson,The Krusty the Clown Show,I didn't do it.
+17901,93,188,891000,Krusty the Clown,The Krusty the Clown Show,"Thank you. Thank you. And now, the ""I didn't do it"" Dancers."
+17902,93,189,901000,Snake Jailbird,The Krusty the Clown Show,"Don't move, dude. This is totally a gun."
+17903,93,190,910000,Apu Nahasapeemapetilon,The Krusty the Clown Show,I didn't do it!
+17904,93,191,919000,Mayor Joe Quimby,The Krusty the Clown Show,Honey!
+17905,93,192,920000,Mrs. Quimby,The Krusty the Clown Show,"Joe, how could you?"
+17906,93,193,924000,Mayor Joe Quimby,The Krusty the Clown Show,"I uh, didn't do it."
+17907,93,194,926000,Man,The Krusty the Clown Show,Help! Help!
+17908,93,195,934000,Fireman,The Krusty the Clown Show,This is the third time that this building has burned down because someone has been smoking in bed.
+17909,93,196,939000,Selma Bouvier,The Krusty the Clown Show,I didn't do it.
+17911,93,198,946000,Lisa Simpson,Simpson Home,This biography of Bart came out awfully quickly. It's not even about him.
+17912,93,199,949000,Bart Simpson,Simpson Home,Sure it is. Look at the cover.
+17913,93,200,952000,Lisa Simpson,Simpson Home,But inside it's mostly about Ross Perot. And the last two chapters are excerpts from the Oliver North trial.
+17914,93,201,957000,Homer Simpson,Simpson Home,Ah. Oliver North. He was just poured into that uniform.
+17917,93,204,962000,Bart Simpson,Recording Studio,I DIDN'T DO IT / I DIDN'T DO IT.
+17918,93,205,973000,Hammer,Recording Studio,"Hey, proper."
+17921,93,208,980000,Grampa Simpson,Kwik-E-Mart,I have to pay to see my own grandson. That's the Democrats for ya.
+17922,93,209,993000,Krusty the Clown,Kwik-E-Mart,"See the boy, five dollars, or call him twenty-four hours-a-day on Bart Chat."
+17924,93,211,1000000,Barney Gumble,Little Girl's Bedroom,Bart Chat?
+17925,93,212,1002000,Little Girl,Little Girl's Bedroom,Are you Bart?
+17926,93,213,1002000,Barney Gumble,Little Girl's Bedroom,"Sure I am. ""I didn't do nothing."""
+17927,93,214,1004000,Little Girl,Little Girl's Bedroom,"Uh, isn't it, ""I didn't do it?"""
+17928,93,215,1009000,Barney Gumble,Little Girl's Bedroom,"Yeah, whatever."
+17930,93,217,1009000,Bart Simpson,Mrs. Krabappel's Classroom,"Uh... I never thought I'd say this, but shouldn't we be learning something?"
+17931,93,218,1021000,Milhouse Van Houten,Mrs. Krabappel's Classroom,"Say the line, Bart!"
+17932,93,219,1023000,Bart Simpson,Mrs. Krabappel's Classroom,I didn't do it?
+17933,93,220,1026000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,Yayyyyy!
+17935,93,222,1029000,Homer Simpson,Simpson Home,"Come on, Lisa. Say something funny."
+17936,93,223,1031000,Lisa Simpson,Simpson Home,Like what?
+17937,93,224,1031000,Homer Simpson,Simpson Home,"Oh, something stupid like Bart would say. Bucka bucka or woozle wozzle. Something like that."
+17940,93,225,1037000,Lisa Simpson,Simpson Home,"Forget it, Dad. If I ever become famous, I want it to be for something worthwhile, not because of some obnoxious fad."
+17941,93,226,1043000,Bart Simpson,Simpson Home,Obnoxious fad?
+17942,93,227,1043000,Homer Simpson,Simpson Home,"Aw, don't worry, son, they said the same thing about Urkel... that little snot. Boy I'd like to smack that kid."
+17943,93,228,1056000,Homer Simpson,Simpson Home,What the hell are you readin' books for?
+17944,93,229,1058000,Bart Simpson,Simpson Home,I'm doing the Conan O'Brien show and I wanna have some intelligent stuff to talk about.
+17945,93,230,1062000,Homer Simpson,Simpson Home,"Don't forget to say ""I didn't do it""."
+17946,93,231,1062000,Bart Simpson,Simpson Home,"Dad, there's more to me than just a catchphrase."
+17947,93,232,1067000,Homer Simpson,Simpson Home,How do you figure boy?
+17948,93,233,1067000,Bart Simpson,Simpson Home,Watch the Conan O'Brien show. You'll see.
+17949,93,234,1071000,Homer Simpson,Simpson Home,"All right, but after Leno I'm all laughed out you know."
+17951,93,236,1074000,Bart Simpson,TALKSHOW,"You know, Conan, I have a lot to say. I'm not just a one line wonder. Did you know that a section of rainforest the size of Kansas is burned every single..."
+17952,93,237,1085000,CONAN,TALKSHOW,Just do the line.
+17953,93,238,1087000,Bart Simpson,TALKSHOW,I didn't do it.
+17954,93,239,1088000,CONAN,TALKSHOW,Great material. We'll be right back.
+17955,93,240,1093000,CONAN,TALKSHOW,Sit perfectly still. Only I may dance.
+17957,93,242,1093000,Bart Simpson,Simpson Home,Do the line. Just do the line. What's gonna happen to me?
+17958,93,243,1109000,Announcer,Simpson Home,And now it's time for Matchgame twenty thirty-four!
+17959,93,244,1109000,Announcer,Simpson Home,"With - Billy Crystal, Farrah Fawcett-Majors-O'Neal-Varney, The ""I didn't do it boy"", Ventriloquist Loni Anderson... Spike Lee, and the always lovely and vivacious head of Kitty Carlisle."
+17960,93,245,1133000,Kitty,Simpson Home,Hi everybody! Let's start the game!
+17961,93,246,1139000,Bart Simpson,Simpson Home,Yargghh!
+17964,93,249,1139000,Marge Simpson,Simpson Home,"Bart, it's time to get ready for the show."
+17965,93,250,1146000,Bart Simpson,Simpson Home,No!
+17967,93,252,1148000,Krusty the Clown,Krustylu Studios,"Where is that little punk? We go on in ten minutes. Oh, the tension!"
+17968,93,253,1153000,Krusty the Clown,Krustylu Studios,Somebody walk on my back!
+17969,93,254,1159000,Krusty the Clown,Krustylu Studios,One at a time! No Teamsters!
+17971,93,255,1162000,Marge Simpson,Krustylu Studios,"Honey, I know you feel a little silly saying the same four words over and over, but you shouldn't. You're making people happy. And that's a very hard thing to do."
+17972,93,256,1174000,Bart Simpson,Krustylu Studios,"You're right, mom. I shouldn't let this bother me. I'm in television now. It's my job to be repetitive... my job, my job. Repetitiveness is my job. I am gonna go out there tonight and give the best performance of my life."
+17973,93,257,1191000,Marge Simpson,Krustylu Studios,The best performance of your life?
+17974,93,258,1192000,Bart Simpson,Krustylu Studios,The best performance of my life.
+17976,93,260,1194000,Krusty the Clown,The Krusty the Clown Show,Where is that lousy little pisher?... Bart.
+17977,93,261,1200000,Krusty the Clown,The Krusty the Clown Show,And now... boys and girls... here he is... the boy that says the words you've been longing to hear like the salivating dogs that you are... Bart Simpson!
+17978,93,262,1213000,Bart Simpson,The Krusty the Clown Show,I didn't do it!
+17979,93,263,1215000,Bart Simpson,The Krusty the Clown Show,I didn't do it.
+17980,93,264,1215000,Bart Simpson,The Krusty the Clown Show,Woozle wozzle.
+17981,93,265,1230000,Audience Member,The Krusty the Clown Show,"""Woozle wozzle?"" That's what passes for entertainment these days? ""Woozle wozzle?"""
+17982,93,266,1235000,Announcer,The Krusty the Clown Show,"Ladies and gentlemen, the clown show has been put on hiatus for retooling."
+17983,93,267,1242000,Bart Simpson,The Krusty the Clown Show,What happened?
+17984,93,268,1242000,Krusty the Clown,The Krusty the Clown Show,"Oh, don't worry about that. You're just finished, that's all."
+17985,93,269,1247000,Bart Simpson,The Krusty the Clown Show,Finished?
+17986,93,270,1247000,Krusty the Clown,The Krusty the Clown Show,It happens all the time. That's show business for ya. One day you're the most important guy who ever lived...
+17987,93,271,1253000,Krusty the Clown,The Krusty the Clown Show,The next day you're some schmo working in a box factory.
+17988,93,272,1253000,Box Executive,The Krusty the Clown Show,I heard that!
+17989,93,273,1258000,Bart Simpson,The Krusty the Clown Show,"Boy, show business is kinda cruel, isn't it?"
+17991,93,275,1258000,Bill,CITY STREETS,"And that was ""Kung Fu Fighting."" Say, speaking of one trick ponies, whatever happened to that ""I Didn't Do It"" kid?"
+17992,93,276,1276000,Marty,CITY STREETS,"Boy, did that get old fast. Whoa... ya know, if you want to last in this business, you gotta stay fresh."
+17994,93,278,1281000,Marge Simpson,Simpson Home,"I saved these for you, Bart. You'll always have them to remind you of the time when you were the whole world's special little guy."
+17995,93,279,1293000,Bart Simpson,Simpson Home,"Thanks, Mom."
+17997,93,280,1293000,Lisa Simpson,Simpson Home,"And now you can go back to just being you, instead of a one-dimensional character with a silly catchphrase."
+17999,93,282,1299000,Bart Simpson,Simpson Home,Aye carumba!
+18002,93,285,1302000,Ned Flanders,Simpson Home,Hidilly ho!
+18004,93,287,1302000,Nelson Muntz,Simpson Home,Haw haw!
+18005,93,288,1302000,C. Montgomery Burns,Simpson Home,Excellent.
+18006,93,289,1313000,Lisa Simpson,Simpson Home,If anyone wants me I'll be in my room.
+18007,93,290,1318000,Homer Simpson,Simpson Home,What kind of catchphrase is that?

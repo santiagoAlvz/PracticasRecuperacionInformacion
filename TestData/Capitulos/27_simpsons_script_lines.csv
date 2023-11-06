@@ -1,0 +1,259 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+156557,27,1,34000,Barney Gumble,Simpson Home,"Hey Homer, it's Barney. Did I wake you?"
+156559,27,3,65000,Barney Gumble,Simpson Home,All I wanted to tell you about WAS this new barbecue joint.
+156560,27,4,67000,Homer Simpson,Simpson Home,Ooh! Barbecue!
+156562,27,6,69000,Barney Gumble,Barney's Apartment,It's called Greasy Joe's Bottomless Bar-B-Q Pit. I can still taste the sauce between my fingers. And are you ready for this? It's all you can eat!
+156564,27,8,79000,Homer Simpson,Simpson Home,This is like some beautiful dream.
+156566,27,10,83000,Marge Simpson,Simpson Home,One. And two. And three. And reach. And five. And six. And seven..
+156567,27,11,88000,Homer Simpson,Simpson Home,"Marge, honey, I've got five words to say to you. Greasy Joe's Bottomless Bar-B-Q Pit."
+156568,27,12,95000,Marge Simpson,Simpson Home,"Homer, remember you promised you'd try to limit pork to six servings a week?"
+156570,27,13,100000,Homer Simpson,Simpson Home,"Marge, I'm only human. Now look, here's what we're gonna do. We'll unload the kids on Patty and Selma Saturday night. And then we'll eat until they kick us out of the place. Just like old times."
+156571,27,14,111000,Marge Simpson,Simpson Home,Saturday night? I'm not even sure my sisters will be available.
+156572,27,15,115000,Homer Simpson,Simpson Home,I'll take that bet.
+156574,27,17,122000,Selma Bouvier,DEPT. OF MOTOR VEHICLES,"Hello, Marge."
+156575,27,18,124000,Selma Bouvier,DEPT. OF MOTOR VEHICLES,This Saturday? We're going to Stanley Peterson's wedding.
+156576,27,19,129000,Patty Bouvier,DEPT. OF MOTOR VEHICLES,"Although the way he's going at her, you'd think they were already married."
+156577,27,20,133000,Patty Bouvier,DEPT. OF MOTOR VEHICLES,"Hey alleycats, save it for the honeymoon!"
+156579,27,22,136000,Marge Simpson,Simpson Home,Well if you have other plans...
+156581,27,24,139000,Selma Bouvier,DEPT. OF MOTOR VEHICLES,It's no problem.
+156582,27,25,141000,Patty Bouvier,DEPT. OF MOTOR VEHICLES,Mm-hmm. We'll beat it before they throw out the bouquet.
+156583,27,26,144000,Kindly Old Gent,DEPT. OF MOTOR VEHICLES,"F... L... oh no, I'm sorry. That's a C, isn't it..."
+156584,27,27,150000,Patty Bouvier,DEPT. OF MOTOR VEHICLES,If that was an oncoming vehicle you'd be dead now. NEXT!
+156585,27,28,154000,Kindly Old Gent,DEPT. OF MOTOR VEHICLES,But driving is my livelihood.
+156586,27,29,157000,Patty Bouvier,DEPT. OF MOTOR VEHICLES,"Ah, take it like a man!"
+156588,27,31,158000,Rev. Timothy Lovejoy,First Church of Springfield,"Friends, relatives, work-related acquaintances, we are gathered here today to join Stanley and Martha in holy matrimony."
+156589,27,32,171000,Stanley,First Church of Springfield,"Martha, my dear, I remember the first day I met you."
+156591,27,34,178000,Stanley,DEPT. OF MOTOR VEHICLES,"Hello, Selma."
+156592,27,35,180000,Selma Bouvier,DEPT. OF MOTOR VEHICLES,"Hello, Stanley."
+156593,27,36,182000,Stanley,DEPT. OF MOTOR VEHICLES,Is this seat taken?
+156594,27,37,184000,Patty Bouvier,DEPT. OF MOTOR VEHICLES,Yes it is.
+156595,27,38,185000,Patty Bouvier,DEPT. OF MOTOR VEHICLES,"Hey, beat it!"
+156597,27,40,190000,Stanley,First Church of Springfield,"Had I not chosen the seat next to you, Martha my love, who knows what walnut I might have ended up with."
+156599,27,42,200000,Selma Bouvier,Simpson Home,"""BRANDY, YOU'RE A FINE GIRL, WHAT A GOOD WIFE YOU WOULD BE/ BUT MY LIFE, MY LOVE AND MY LADY IS THE SEA."""
+156601,27,43,213000,Lisa Simpson,Simpson Home,"Poor Brandy. Aunt Selma, do you think you'll ever get married?"
+156602,27,44,217000,Selma Bouvier,Simpson Home,"Oh, I don't know. Why? You know somebody?"
+156603,27,45,221000,Lisa Simpson,Simpson Home,"No. And, since I'm sure that you'd only resent the pity of an eight-year-old niece, I'll simply hope that you're one of the statistically insignificant forty-year-old single women who ever find their fair Prince."
+156604,27,46,241000,Marge Simpson,Simpson Home,Patty! Selma! We're home.
+156605,27,47,249000,Homer Simpson,Simpson Home,"I'll tell you one thing, Greasy Joe is sorry he ever saw the likes of me."
+156606,27,48,254000,Selma Bouvier,Simpson Home,"Marge, I need to speak with you alone."
+156607,27,49,261000,Homer Simpson,Simpson Home,"Oh and that sauce, Barney. I could have drunk a bowl of it by itself! No Barney, that's just my sister-in-law."
+156608,27,50,269000,Selma Bouvier,Simpson Home,"I'll get right to the point. I'm getting older, fatter, and uglier. Please, Marge! Help me find a man before it's too late."
+156609,27,51,280000,Marge Simpson,Simpson Home,Well... I'll try.
+156610,27,52,284000,Marge Simpson,Simpson Home,"Homer? Do you remember our last family vacation when you made us go to the Bowler's Hall of Fame in St. Louis, Missouri so you could see that car shaped like a giant bowling pin?"
+156611,27,53,295000,Homer Simpson,Simpson Home,Remember? Who could forget?
+156612,27,54,297000,Marge Simpson,Simpson Home,Then you'll also remember that you owe me a favor...
+156614,27,56,297000,Marge Simpson,Simpson Home,...to be called up whenever and for whatever reason I desire.
+156615,27,57,305000,Homer Simpson,Simpson Home,But that was just an idle promise.
+156616,27,58,307000,Marge Simpson,Simpson Home,Not to me.
+156618,27,60,310000,Marge Simpson,Simpson Home,I want you to find a husband for my sister Selma.
+156619,27,61,314000,Homer Simpson,Simpson Home,Find a husband? Which one's Selma again?
+156620,27,62,318000,Marge Simpson,Simpson Home,She's the one who likes Police Academy movies and Hummel figurines and walking through the park on clear autumn days.
+156621,27,63,325000,Homer Simpson,Simpson Home,"Oh yeah, yeah, yeah. But I thought she didn't like to be... you know, touched."
+156622,27,64,330000,Marge Simpson,Simpson Home,It's Patty who chose the life of celibacy. Selma simply had celibacy thrust upon her.
+156623,27,65,334000,Homer Simpson,Simpson Home,But Marge...
+156624,27,66,336000,Marge Simpson,Simpson Home,"Homer, you will find her a man."
+156625,27,67,339000,Homer Simpson,Simpson Home,All right.
+156626,27,68,340000,Marge Simpson,Simpson Home,And not just any man.
+156627,27,69,341000,Homer Simpson,Simpson Home,Okay.
+156629,27,70,342000,Marge Simpson,Simpson Home,He should be honest... and caring... and well off... and handsome...
+156630,27,71,347000,Homer Simpson,Simpson Home,Hey! Why should she have a better husband than you do?
+156632,27,73,350000,Edna Krabappel-Flanders,Springfield Elementary School,Sodium tetrasulfate is highly caustic and can remove your skin. Say when!
+156633,27,74,356000,Martin Prince,Springfield Elementary School,That will do.
+156634,27,75,357000,Bart Simpson,Springfield Elementary School,What's this stuff for?
+156635,27,76,358000,Martin Prince,Springfield Elementary School,"It's chiefly used in the manufacture of rayons, film, and as a preservative in fast foods. It's also quite a potent herbicide."
+156636,27,77,366000,Bart Simpson,Springfield Elementary School,What's a herbicide?
+156637,27,78,367000,Martin Prince,Springfield Elementary School,It kills grass.
+156638,27,79,370000,Bart Simpson,Springfield Elementary School,Excellent.
+156640,27,81,371000,Homer Simpson,Springfield Nuclear Power Plant,Must find man. Must find man. Must find man.
+156641,27,82,390000,Homer Simpson,Springfield Nuclear Power Plant,"Boy, a good man really is hard to find."
+156643,27,84,396000,Seymour Skinner,Springfield Elementary School,"Gentlemen, according to my sources you are planning to simultaneously drop your pencils at 2:15 this afternoon. Do so and you will be suspended."
+156644,27,85,409000,Bart Simpson,Springfield Elementary School,"Vandalism fans, hold on to your hats!"
+156646,27,87,423000,Homer Simpson,Kwik-E-Mart,"One seafood burrito, Apu."
+156647,27,88,432000,Apu Nahasapeemapetilon,Kwik-E-Mart,I am loathe to interrupt your meditation. But the time has come for money to change hands.
+156648,27,89,437000,Homer Simpson,Kwik-E-Mart,Sorry.
+156650,27,91,453000,Seymour Skinner,Springfield Elementary School,"Say what they will about our cafeteria, I-I still think they're the best Tater Tots money can buy."
+156651,27,92,464000,Seymour Skinner,Springfield Elementary School,Wait a minute... that smells like sodium tetrasulfate bonding with chlorophyll!
+156652,27,93,484000,Seymour Skinner,Springfield Elementary School,Sweet Lord it is!
+156653,27,94,488000,Seymour Skinner,Springfield Elementary School,SIMPSON!!!
+156654,27,95,492000,Seymour Skinner,Springfield Elementary School,"Bart, I'm flabbergasted. Surely you knew, as you were writing your own name in forty-foot-high letters in the field, that you would be caught."
+156655,27,96,499000,Bart Simpson,Springfield Elementary School,"Maybe it was one of the other Barts, Sir."
+156656,27,97,501000,Seymour Skinner,Springfield Elementary School,There are no other Barts!
+156657,27,98,502000,Bart Simpson,Springfield Elementary School,Uh-oh.
+156659,27,99,503000,Seymour Skinner,Springfield Elementary School,The sheer contempt demonstrated by this incident makes me wish I could pull the trusty board of education out of retirement.
+156660,27,100,510000,Seymour Skinner,Springfield Elementary School,Call your father immediately.
+156661,27,101,513000,Bart Simpson,Springfield Elementary School,"Hello, is Homer there?"
+156662,27,102,514000,Moe Szyslak,Springfield Elementary School,Homer who?
+156663,27,103,515000,Bart Simpson,Springfield Elementary School,Homer Sexual.
+156665,27,105,518000,Moe Szyslak,Moe's Tavern,"Just a minute, let me check. Homer Sexual. Come on, come on. One of you guys must be Homer Sexual!"
+156667,27,107,530000,Moe Szyslak,Springfield Elementary School,"Why you rotten little punk! If I ever get a hold of you, I'll sink my teeth into your cheek and rip your face off!"
+156668,27,108,538000,Seymour Skinner,Springfield Elementary School,"You'll do what, young man?"
+156669,27,109,539000,Moe Szyslak,Springfield Elementary School,Wait a minute. Who is this?
+156670,27,110,542000,Seymour Skinner,Springfield Elementary School,I think the real question is who is this and where is Homer Simpson?
+156672,27,112,545000,Moe Szyslak,Moe's Tavern,"Oh, sorry Principal Skinner. It must be a bad connection. It's for you. I think Bart's in trouble again."
+156674,27,114,553000,Homer Simpson,Springfield Elementary School,What is it this time?
+156675,27,115,555000,Seymour Skinner,Springfield Elementary School,"I'm afraid this time the victims are the innocent blades of grass on Groundskeeper Willie's award-winning play field. If it's all right with you, Bart will repay his debt to society through back-breaking physical labor, re-sodding the field manually, seed by seed."
+156676,27,116,586000,Homer Simpson,Springfield Elementary School,"But enough about Bart. Tell me, Principal Skinner, are you married?"
+156677,27,117,590000,Seymour Skinner,Springfield Elementary School,Only to my job.
+156678,27,118,592000,Homer Simpson,Springfield Elementary School,"But if you weren't married to your job, you'd tend to go for a girl, right?"
+156679,27,119,595000,Seymour Skinner,Springfield Elementary School,"Well, of course. These pants come off at night just like everyone else's. But tell me, why all the questions?"
+156680,27,120,603000,Homer Simpson,Springfield Elementary School,"Oh, no reason, really. I was just wondering if you know, you'd like to come over to my house for dinner. A payback for all the crummy things Bart has done to your school."
+156681,27,121,617000,Seymour Skinner,Springfield Elementary School,"Well, a home-cooked meal would be a nice change of pace. I'd be delighted!"
+156682,27,122,623000,Homer Simpson,Springfield Elementary School,Excellent.
+156684,27,124,631000,Bart Simpson,Simpson Home,"Good evening, Principal Skinner and welcome to our home."
+156685,27,125,634000,Seymour Skinner,Simpson Home,"Well thank you, Bart. I only hope that for the next few hours you and I can leave our differences in the schoolyard."
+156686,27,126,641000,Bart Simpson,Simpson Home,Fine. Now just get inside already.
+156687,27,127,643000,Marge Simpson,Simpson Home,He's here.
+156688,27,128,644000,Patty Bouvier,Simpson Home,"Well, what are you waiting for? Get out there and shake your money-maker."
+156689,27,129,648000,Selma Bouvier,Simpson Home,"I'm too nervous, you do it."
+156690,27,130,651000,Patty Bouvier,Simpson Home,"No, you do it."
+156691,27,131,651000,Selma Bouvier,Simpson Home,"No, you do it."
+156692,27,132,652000,Patty Bouvier,Simpson Home,"No, you do it."
+156693,27,133,653000,Selma Bouvier,Simpson Home,"No, you do it."
+156694,27,134,654000,Seymour Skinner,Simpson Home,"Now, Simpson. I-I had a discomforting thought on the way over here. This dinner wouldn't be a master plan of yours to set me up with some unmarried relation? Because I can assure you that..."
+156695,27,135,666000,Seymour Skinner,Simpson Home,I... ah... muh... Be still my foolish heart.
+156696,27,136,673000,Homer Simpson,Simpson Home,"Heh heh heh. Here we go. Boy meets beast. Principal Skinner, allow me to introduce you to my wife's lovely and available sister, Selma."
+156697,27,137,676000,Seymour Skinner,Simpson Home,Sel-ma.
+156698,27,138,684000,Patty Bouvier,Simpson Home,"Hey, Baldilocks, I'm Patty."
+156699,27,139,685000,Homer Simpson,Simpson Home,Wha...?
+156700,27,140,686000,Seymour Skinner,Simpson Home,Pat-ty.
+156702,27,142,690000,Seymour Skinner,Simpson Home,"So Patty, tell me more about your trip to Egypt."
+156703,27,143,696000,Patty Bouvier,Simpson Home,"Nothing more to tell, really. The Nile smells like cattle rot and they've got horseflies over there the size of your fist."
+156704,27,144,701000,Seymour Skinner,Simpson Home,Marvelous. Just marvelous.
+156705,27,145,704000,Marge Simpson,Simpson Home,"Well, Selma hated Egypt, too. A camel spit on her."
+156706,27,146,707000,Seymour Skinner,Simpson Home,"Oh, yes. I've heard they can be difficult. Patty, the Parents Advisory Board has asked that I attend the premiere of Space Mutants Part 5 tomorrow night. Would you be interested in joining me?"
+156707,27,147,720000,Patty Bouvier,Simpson Home,Well... I don't really think...
+156708,27,148,721000,Selma Bouvier,Simpson Home,She'd be delighted.
+156710,27,150,723000,Patty Bouvier,Selma's Car,I'm going to cancel.
+156711,27,151,724000,Selma Bouvier,Selma's Car,"No, you're not."
+156712,27,152,725000,Patty Bouvier,Selma's Car,We already have plans for tomorrow night.
+156714,27,153,726000,Selma Bouvier,Selma's Car,"Patty, your first date in twenty-five years is a little more important than playing hearts with Mother."
+156715,27,154,731000,Patty Bouvier,Selma's Car,"I tried to repel him, I really did."
+156717,27,156,734000,Patty Bouvier,Kwik-E-Mart,"A pack of Lady Laramie Hundreds, please."
+156718,27,157,737000,Selma Bouvier,Kwik-E-Mart,God knows it could have easily been me. Easily. Laramie Hi-Tars. Hard pack. And I don't have all day.
+156719,27,158,742000,Apu Nahasapeemapetilon,Kwik-E-Mart,Here you go. Smoke them in good health. And will you be needing any lottery tickets with that?
+156720,27,159,748000,Selma Bouvier,Kwik-E-Mart,"No. All right, five."
+156722,27,161,750000,Bart Simpson,Football Field,Stupid - Principal - Skinner. No - sense - of - humor.
+156723,27,162,755000,Groundskeeper Willie,Football Field,"Save your strength, lad. There's a whole field for to resod yet."
+156725,27,164,760000,Seymour Skinner,Football Field,"Bart, you wouldn't happen to know what sort of candy your Aunt Patty likes, would you?"
+156726,27,165,766000,Bart Simpson,Football Field,"Cherry cordials, sir."
+156727,27,166,768000,Seymour Skinner,Football Field,"Very good. Now then, regarding your punishment... do you feel that you've learned your lesson?"
+156728,27,167,775000,Bart Simpson,Football Field,Have I ever. Just the thought of doing anything bad again makes my stomach turn.
+156729,27,168,780000,Seymour Skinner,Football Field,"Well, then, you are free to go."
+156730,27,169,784000,Bart Simpson,Football Field,"Well, Willie, you can take it from here. Adios, dude."
+156731,27,170,786000,Groundskeeper Willie,Football Field,You'll be back!
+156733,27,172,794000,Patty Bouvier,Patty and Selma's Apartment,I don't see why all this is necessary.
+156734,27,173,797000,Marge Simpson,Patty and Selma's Apartment,"C'mon, Patty. You don't want to show up looking like Yosemite Sam."
+156735,27,174,802000,Patty Bouvier,Patty and Selma's Apartment,How do I look?
+156736,27,175,807000,Selma Bouvier,Patty and Selma's Apartment,Achingly beautiful.
+156738,27,177,809000,Seymour Skinner,Hallway Outside Selma And Patty's Apt.,"""Two and Two are Four, Four and Four are Eight, Eight and Eight are Sixteen..."""
+156739,27,178,819000,Seymour Skinner,Hallway Outside Selma And Patty's Apt.,Cherry cordials. I hope you like 'em.
+156740,27,179,823000,Patty Bouvier,Hallway Outside Selma And Patty's Apt.,"Yeah, I like 'em okay. So come on, let's get this over with."
+156741,27,180,827000,Seymour Skinner,Hallway Outside Selma And Patty's Apt.,"Ah, excellent suggestion. I suggest we start with The Springfield Revolving Restaurant. You know, food tastes better when you're revolving."
+156743,27,181,836000,Patty Bouvier,Hallway Outside Selma And Patty's Apt.,"Yeah, right. Well, so far I must say the evening is a big disappointment."
+156744,27,182,836000,Seymour Skinner,Hallway Outside Selma And Patty's Apt.,Indeed. Truly terrible.
+156745,27,183,836000,Patty Bouvier,Hallway Outside Selma And Patty's Apt.,"Hey, can we get some service over here? I've asked for water three times now."
+156747,27,185,837000,Patty Bouvier,SPRINGFIELD REVOLVING RESTAURANT,"Well I must say, so far the evening is a big disappointment."
+156748,27,186,840000,Seymour Skinner,SPRINGFIELD REVOLVING RESTAURANT,"Indeed, truly terrible."
+156749,27,187,842000,Patty Bouvier,SPRINGFIELD REVOLVING RESTAURANT,"Hey, can we get some service over here? I've asked for water three times now."
+156750,27,188,848000,Busboy,SPRINGFIELD REVOLVING RESTAURANT,Is everything all right?
+156751,27,189,849000,Seymour Skinner,SPRINGFIELD REVOLVING RESTAURANT,"Well, well, well. If it isn't little Jimmy Pearson. Class of '71 I believe."
+156752,27,190,854000,Busboy,SPRINGFIELD REVOLVING RESTAURANT,"Good evening, Principal Skinner."
+156753,27,191,855000,Seymour Skinner,SPRINGFIELD REVOLVING RESTAURANT,"Pearson, get this woman a glass of water, immediately! And tuck in your shirt."
+156754,27,192,860000,Seymour Skinner,SPRINGFIELD REVOLVING RESTAURANT,Nearly thirty and still working as a busboy. Standardized testing never lies.
+156756,27,194,869000,Selma Bouvier,Simpson Home,It doesn't surprise me. She has always been the lucky one. Two minutes younger. Skin like a China doll. And bosoms 'til Tuesday.
+156757,27,195,878000,Marge Simpson,Simpson Home,"Well, don't worry. There are still plenty of fish in the sea. Right, Homer?"
+156758,27,196,883000,Homer Simpson,Simpson Home,"Oh yes, plenty of fish. We just don't have any bait."
+156760,27,198,894000,Seymour Skinner,Movie Theater,Hmm.
+156761,27,199,899000,Patty Bouvier,Movie Theater,Don't be stupid.
+156762,27,200,901000,Seymour Skinner,Movie Theater,Oh.. uh... sorry.
+156763,27,201,905000,Australian Boy,Movie Theater,"Come on, luv... Loosen up."
+156764,27,202,908000,Australian Girl,Movie Theater,"I just can't forget what happened to that poor dingo back there. Who, or what, could've done such a horrible thing?"
+156765,27,203,915000,Australian Boy,Movie Theater,"Oh, it was probably just a wallaby... now come on..."
+156766,27,204,919000,Australian Girl,Movie Theater,"Well, okay..."
+156767,27,205,929000,Seymour Skinner,Movie Theater,"Hello, Dolly."
+156769,27,207,931000,Seymour Skinner,Patty and Selma's Apartment,"Oh, that was the worst film I've ever seen."
+156770,27,208,934000,Patty Bouvier,Patty and Selma's Apartment,Not as bad as the service at the revolving restaurant.
+156771,27,209,940000,Seymour Skinner,Patty and Selma's Apartment,Isn't it nice we hate the same things?
+156569,27,210,946000,Seymour Skinner,Patty and Selma's Apartment,See me again tomorrow?
+156713,27,211,948000,Patty Bouvier,Patty and Selma's Apartment,I'm afraid that's my microwave cookery class.
+156600,27,212,951000,Seymour Skinner,Patty and Selma's Apartment,Then the day after that.
+156628,27,213,953000,Patty Bouvier,Patty and Selma's Apartment,"Oh, gee. Tai Kwon Do."
+156772,27,214,955000,Seymour Skinner,Patty and Selma's Apartment,"The day after that, then."
+156773,27,215,957000,Patty Bouvier,Patty and Selma's Apartment,Seymour... you're touching me.
+156774,27,216,959000,Seymour Skinner,Patty and Selma's Apartment,"Kiss me, Patty. I don't have cooties."
+156775,27,217,961000,Patty Bouvier,Patty and Selma's Apartment,Hwa!
+156776,27,218,966000,Patty Bouvier,Patty and Selma's Apartment,Thursday I'm going food shopping. You can come along if you like.
+156777,27,219,972000,Seymour Skinner,Patty and Selma's Apartment,Until then!
+156778,27,220,975000,Selma Bouvier,Patty and Selma's Apartment,Tell me every filthy detail. Or is your tongue too tired?
+156779,27,221,979000,Patty Bouvier,Patty and Selma's Apartment,"Selma, it was a lousy meal. The movie was awful. And he didn't get anything. Now goodnight."
+156782,27,224,1011000,Patty Bouvier,Patty and Selma's Apartment,All right. One kiss. But I don't want you bragging to your friends about how you scored.
+156784,27,226,1030000,Seymour Skinner,Springfield Elementary School,"I wish I could make a P.A. announcement to the whole world. Attention, everyone: Seymour Skinner is in love!"
+156785,27,227,1041000,Milhouse Van Houten,Springfield Elementary School,"Bart, Skinner's gonna kill you."
+156786,27,228,1043000,Bart Simpson,Springfield Elementary School,Skinner? He works for me now.
+156787,27,229,1045000,Seymour Skinner,Springfield Elementary School,Simpson!
+156788,27,230,1046000,Bart Simpson,Springfield Elementary School,Uh oh.
+156789,27,231,1046000,Seymour Skinner,Springfield Elementary School,What is that there?
+156790,27,232,1056000,Seymour Skinner,Springfield Elementary School,"Ah... Bart, I hate to pull you away from your daily exercise, but ... well..."
+156791,27,233,1062000,Seymour Skinner,Springfield Elementary School,I wanted you to be the first to know. I'm going to ask for your Aunt Patty's hand in marriage.
+156792,27,234,1068000,Bart Simpson,Springfield Elementary School,"Your funeral, Seymour."
+156794,27,236,1070000,Moe Szyslak,Moe's Tavern,"Lighten up, Homer. You're making Happy Hour bitterly ironic."
+156795,27,237,1075000,Homer Simpson,Moe's Tavern,"Ah, Moe. I've gotta find a date for my big, fat, snotty sister-in-law, Selma."
+156796,27,238,1080000,Barney Gumble,Moe's Tavern,I'm intrigued. What does this Selma look like?
+156797,27,239,1083000,Homer Simpson,Moe's Tavern,Like my wife's ugly sister.
+156798,27,240,1085000,Barney Gumble,Moe's Tavern,"Wheel her in, Homer. I'm not a picky man."
+156800,27,242,1091000,Jeweler,SPRINGFIELD JEWELRY STORE,"A good rule of thumb is two years salary, sir. Try this."
+156801,27,243,1094000,Seymour Skinner,SPRINGFIELD JEWELRY STORE,I can't afford that! I'm an educator.
+156802,27,244,1096000,Bart Simpson,SPRINGFIELD JEWELRY STORE,Seymour?
+156803,27,245,1096000,Seymour Skinner,SPRINGFIELD JEWELRY STORE,I'll take it!
+156804,27,247,1098000,Marge Simpson,Simpson Home,"Homer, my sister is not going out with Barney Gumbel."
+156805,27,248,1101000,Homer Simpson,Simpson Home,"Hey, Selma's no prize pig herself you know."
+156806,27,249,1106000,Selma Bouvier,Simpson Home,"Bart, come cheer up your Aunt Selma."
+156807,27,250,1110000,Bart Simpson,Simpson Home,Okay.
+156808,27,251,1111000,Selma Bouvier,Simpson Home,What did you learn in school today?
+156809,27,252,1112000,Bart Simpson,Simpson Home,Principal Skinner is going to ask Aunt Patty to marry him.
+156810,27,253,1117000,Selma Bouvier,Simpson Home,Thanks kid. You made my day.
+156811,27,254,1121000,Homer Simpson,Simpson Home,"But' nothing, Marge. She's a heifer, plain and simple."
+156812,27,255,1126000,Homer Simpson,Simpson Home,"Oh, there's the little prom queen now."
+156813,27,256,1129000,Selma Bouvier,Simpson Home,"Can the sweet talk, you're right. It's time to ashcan my girlish hopes and dreams and grab hold of the next train out of the station."
+156815,27,258,1145000,Homer Simpson,Patty and Selma's Apartment,Is that Selma? Ring-a-ding-ding!
+156816,27,259,1150000,Selma Bouvier,Patty and Selma's Apartment,"Oh, shut up."
+156817,27,260,1151000,Patty Bouvier,Patty and Selma's Apartment,Why are you all dolled up like a chorus girl?
+156818,27,261,1154000,Selma Bouvier,Patty and Selma's Apartment,It takes a ripe piece of cheese to catch the mouse.
+156819,27,262,1158000,Selma Bouvier,Patty and Selma's Apartment,It's time to give away my love like so much cheap wine.
+156820,27,263,1161000,Homer Simpson,Patty and Selma's Apartment,"Take it to the hoop, Selma."
+156821,27,264,1164000,Barney Gumble,Patty and Selma's Apartment,"Hey, look what I brought... Schnapps?"
+156822,27,265,1168000,Selma Bouvier,Patty and Selma's Apartment,I'll take that.
+156824,27,267,1172000,Seymour Skinner,Springfield Elementary School,"You seem preoccupied tonight, my little... pudding cup."
+156825,27,268,1176000,Patty Bouvier,Springfield Elementary School,My sister's on a date with a big fat rummy.
+156826,27,269,1179000,Seymour Skinner,Springfield Elementary School,"Oh, well there's something up here that will pick up your spirit."
+156827,27,270,1188000,Patty Bouvier,Springfield Elementary School,Marry me Patty
+156828,27,271,1190000,Patty Bouvier,Springfield Elementary School,Jeezum Crow! Look at the size of that rock.
+156829,27,272,1194000,Seymour Skinner,Springfield Elementary School,"It's the second most precious jewel in this bell tower. Patty, the question before you is will you marry me?"
+156830,27,273,1201000,Patty Bouvier,Springfield Elementary School,"Well, Seymour, I don't know. I mean, this is so awk..."
+156831,27,274,1202000,Seymour Skinner,Springfield Elementary School,Just say whatever's in your heart.
+156832,27,275,1205000,Patty Bouvier,Springfield Elementary School,"Okay, you see. It's not that I don't love you..."
+156833,27,276,1208000,Seymour Skinner,Springfield Elementary School,You love me! Caloo Calay!
+156835,27,277,1212000,Patty Bouvier,Springfield Elementary School,"Yes, yes. But..."
+156836,27,278,1214000,Seymour Skinner,Springfield Elementary School,But?
+156837,27,279,1215000,Patty Bouvier,Springfield Elementary School,"You see, I'm a twin..."
+156838,27,280,1215000,Seymour Skinner,Springfield Elementary School,You have a special tie to your sister...
+156839,27,281,1218000,Patty Bouvier,Springfield Elementary School,... Mmm-hmm. And the only man I could marry would have to understand--
+156840,27,282,1223000,Seymour Skinner,Springfield Elementary School,... that you couldn't leave your sister for any man. Oh.
+156841,27,283,1226000,Patty Bouvier,Springfield Elementary School,"Yes, so I know you appreciate why I can never..."
+156842,27,284,1230000,Seymour Skinner,Springfield Elementary School,See you again?
+156843,27,285,1232000,Patty Bouvier,Springfield Elementary School,Exactly. It's kind of a catch twenty-two.
+156844,27,286,1239000,Seymour Skinner,Springfield Elementary School,"Farewell, my Pattycake."
+156845,27,287,1242000,Patty Bouvier,Springfield Elementary School,"Good night, sweet Principal."
+156846,27,288,1268000,Seymour Skinner,Springfield Elementary School,"Oh, Springfield Elementary! I will have you back again! After all, tomorrow is another school day!"
+156848,27,290,1279000,Barney Gumble,Moe's Tavern,"And then when I got out of the service, well, the next few years are a blur."
+156849,27,291,1288000,Selma Bouvier,Moe's Tavern,Patty. Where's Skinner?
+156850,27,292,1290000,Patty Bouvier,Moe's Tavern,We decided we loved each other enough never to see each other again!
+156851,27,293,1295000,Selma Bouvier,Moe's Tavern,"I hope I can find a man like that. Patty, are you throwing away your last chance at happiness just for me?"
+156852,27,294,1301000,Patty Bouvier,Moe's Tavern,Yes.
+156853,27,295,1302000,Selma Bouvier,Moe's Tavern,Thanks.
+156854,27,296,1304000,Patty Bouvier,Moe's Tavern,Now let's get some pancakes.
+156855,27,297,1306000,Selma Bouvier,Moe's Tavern,"Listen Barney, I... Eh."
+156856,27,298,1310000,Barney Gumble,Moe's Tavern,"She broke my heart, Moe."
+156857,27,299,1313000,Moe Szyslak,Moe's Tavern,"Don't worry, Barney. Time heals all wounds."
+156858,27,300,1317000,Barney Gumble,Moe's Tavern,"Well, what do you know. You're right! And look, a whole pitcher to myself."
+156860,27,302,1332000,Groundskeeper Willie,Springfield Elementary School,I told you you'd be back!

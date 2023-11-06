@@ -1,0 +1,212 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+117998,456,1,92000,Homer Simpson,Homer's Car,"Thanks to our new G.P.S., I'll have you at school in no time."
+117999,456,2,97000,Gps,Homer's Car,Turn right in... fifty meters.
+118000,456,3,99000,Homer Simpson,Homer's Car,Meters?
+118002,456,4,100000,Lisa Simpson,Homer's Car,"Dad, a meter is three inches longer than a yard, which is thirty-six inches, so fifty divided by thirty-nine times thirty-six, equals--"
+118003,456,5,107000,Gps,Homer's Car,You have missed your turn. Recalculating. Turn right in point five meters.
+118004,456,6,113000,Bart Simpson,Homer's Car,"Dad, no! That takes us into a construction site!"
+118005,456,7,115000,Homer Simpson,Homer's Car,Stupid kid. Thinks he's smarter than a computer.
+118006,456,8,119000,Homer Simpson,Homer's Car,"Seatbelts, kids!"
+118007,456,9,125000,Gps,Homer's Car,"Turn left, turn right, turn left, turn right..."
+118008,456,10,136000,Gps,Homer's Car,"Decrease elevation ten feet, then turn left."
+118010,456,12,141000,Gps,Homer's Car,You have reached your destination.
+118011,456,13,144000,Bart Simpson,Homer's Car,"Thanks for the ride! / Bye, Dad!"
+118012,456,14,146000,Gps,Homer's Car,Turn right in two-point three kilometers...
+118013,456,15,149000,Homer Simpson,Homer's Car,Why you...
+118014,456,16,149000,Gps,Homer's Car,Recalculating...
+118015,456,17,151000,Gps,Homer's Car,So cold... so cold.
+118019,456,21,151000,Bart Simpson,Mrs. Krabappel's Classroom,Where's Mrs. K.?
+118020,456,22,175000,Seymour Skinner,Mrs. Krabappel's Classroom,"Mrs. Krabappel had to go to Portland. Apparently, the people she hired to de-program her sister from that cult turned out to be an even worse cult."
+118021,456,23,182000,Bart Simpson,Mrs. Krabappel's Classroom,"So, who's gonna take her place? Me, I hope?"
+118022,456,24,184000,Seymour Skinner,Mrs. Krabappel's Classroom,"Not you. Never you. And due to budget cuts, until Edna comes back, I have no choice but to merge the school's two fourth-grade classes."
+118024,456,26,191000,Bart Simpson,Mrs. Krabappel's Classroom,The other fourth grade?! But they're so different from us. They have music on Tuesdays!
+118025,456,27,197000,Milhouse Van Houten,Mrs. Krabappel's Classroom,Their teacher takes her shoes off!
+118026,456,28,200000,Sherri Mackleberry,Mrs. Krabappel's Classroom,"Their twins are one boy, one girl!"
+118027,456,29,203000,Nelson Muntz,Mrs. Krabappel's Classroom,Weird!
+118029,456,31,207000,Miss Stringham,Springfield Elementary School,"All right, new kids, jam your chairs into my kids' desks."
+118030,456,32,213000,Miss Stringham's Class,Springfield Elementary School,S'anyone here? / Whatever. / S'anyone here? / Whatever. / S'anyone here? / Whatever / S'anyone here? / Whatever.
+118031,456,33,220000,CHILLED-OUT KID,Springfield Elementary School,"'Sup, I'm Bodhi. Do you surf?"
+118033,456,34,221000,Milhouse Van Houten,Springfield Elementary School,"No. My parents took me to Hawaii once, but I was intimidated by the physiques of the local kids, so I just stayed in the hotel room."
+118034,456,35,230000,Bodhi,Springfield Elementary School,That's cool.
+118035,456,36,231000,Milhouse Van Houten,Springfield Elementary School,"No, it's not cool."
+118036,456,37,236000,Nelson Muntz,Springfield Elementary School,You are so dead!
+118037,456,38,238000,Kevin,Springfield Elementary School,"Sorry, let me get that for you."
+118038,456,39,240000,Nelson Muntz,Springfield Elementary School,You're blind!
+118039,456,40,243000,Nelson Muntz,Springfield Elementary School,"If anyone messes with this kid, I will destroy them!"
+118040,456,41,246000,Kevin,Springfield Elementary School,"It's okay, no one's messing with me."
+118041,456,42,248000,Nelson Muntz,Springfield Elementary School,"You're not a freak, and I won't let you think that about yourself!"
+118042,456,43,251000,Kevin,Springfield Elementary School,I don't think I'm a freak.
+118043,456,44,253000,Nelson Muntz,Springfield Elementary School,So brave.
+118044,456,45,257000,Bart Simpson,Springfield Elementary School,"Um, this is the last seat, so..."
+118045,456,46,263000,Girl,Springfield Elementary School,My side. Your side.
+118046,456,47,266000,Bart Simpson,Springfield Elementary School,"Hi, Nikki. I'm Bart. This situation, it's nuts, right?"
+118047,456,48,270000,Bart Simpson,Springfield Elementary School,"Oh look at you, opening a book so you won't have to talk to me. Well I'm just gonna be tuning up the old armpit."
+118049,456,50,280000,Miss Hoover,MISS HOOVER'S ROOM,"Good news, children. Everyone did well on this test, except..."
+118050,456,51,284000,Miss Hoover,MISS HOOVER'S ROOM,"Lisa Simpson, F."
+118051,456,52,286000,Lisa Simpson,MISS HOOVER'S ROOM,"An F?! Okay, this is the time when I always wake up."
+118052,456,53,289000,Lisa Simpson,MISS HOOVER'S ROOM,"Come on, alarm clock -- get me out of this!"
+118053,456,54,295000,Miss Hoover,MISS HOOVER'S ROOM,"Sorry, Lisa -- this F is all too real."
+118054,456,55,298000,Lisa Simpson,MISS HOOVER'S ROOM,"No it's not, dream-Hoover! And as long as I'm asleep, I'm gonna have some fun. I can fly! Wheeee!"
+118055,456,56,307000,Lisa Simpson,MISS HOOVER'S ROOM,This isn't a dream. I really did fail.
+118056,456,57,310000,Miss Hoover,MISS HOOVER'S ROOM,I take no joy in this. Little Miss Perfect.
+118058,456,59,314000,Bart Simpson,Miss Stringham's Classroom,"Whoa. Damn, this caterpillar can eat! Damn! DAMN!!!"
+118059,456,60,322000,Nikki McKenna,Miss Stringham's Classroom,Do you mind?!
+118060,456,61,324000,Bart Simpson,Miss Stringham's Classroom,"Oh man, you girls ruin everything -- even vampires."
+118061,456,62,327000,Nikki McKenna,Miss Stringham's Classroom,"Hey, vampires are cool outsiders who love girls who hate cheerleaders."
+118062,456,63,332000,Bart Simpson,Miss Stringham's Classroom,"No, they're all about chomping neck. And they don't put product in their hair like this loser."
+118032,456,64,339000,Bart Simpson,Miss Stringham's Classroom,They look like this!
+118063,456,65,342000,Nikki McKenna,Miss Stringham's Classroom,Awesome picture.
+118064,456,66,344000,Bart Simpson,Miss Stringham's Classroom,Can I draw a robot barfing screws on your arm with my Sharpie?
+118065,456,67,347000,Nikki McKenna,Miss Stringham's Classroom,I... I'd like that.
+118066,456,68,354000,Bart Simpson,Miss Stringham's Classroom,"Annnnd, finished."
+118068,456,70,360000,Lisa Simpson,Springfield Elementary School,An F. An F! I hope Harvard never finds out about this.
+118070,456,72,370000,COOL SECOND-GRADER #1,Springfield Elementary School,"Can I teeter while you totter? Ever since you got that bad grade, you seem a lot cooler."
+118071,456,73,375000,COOL SECOND-GRADER #2,Springfield Elementary School,"Lisa, you want to come skip rope? You can replace the tree."
+118072,456,74,378000,Kids,Springfield Elementary School,Eat lunch with me! / Share my locker! / Come to my birthday party! / Love meee!
+118073,456,75,387000,Miss Hoover,Springfield Elementary School,"Lisa, can I speak to you for a moment?"
+118074,456,76,389000,Lisa Simpson,Springfield Elementary School,"Uh-oh, looks like I'm in more trouble. Born to be bad."
+118076,456,78,397000,Miss Hoover,Springfield Elementary School,There was a mix-up with your test. You got an A-triple-plus.
+118077,456,79,399000,Miss Hoover,Springfield Elementary School,"Seems the ""F"" belonged to Ralph."
+118078,456,80,403000,Ralph Wiggum,Springfield Elementary School,"I cheated wrong! I copied the ""Lisa"" name and used the ""Ralph"" answers!"
+118079,456,81,411000,Kids,Springfield Elementary School,Gif-ted! Gif-ted! Gif-ted!
+118080,456,82,414000,Lisa Simpson,Springfield Elementary School,I'm just advanced! You can catch up!
+118081,456,83,417000,Kids,Springfield Elementary School,Gif-ted!
+118083,456,85,418000,Bart Simpson,Simpson Home,"Dad, I know we don't normally talk about this stuff, but there's this girl at school I kind of like."
+118084,456,86,424000,Bart Simpson,Simpson Home,"Anyway, I'm really hoping you could... Dad?"
+118085,456,87,428000,Homer Simpson,Simpson Home,Hey boy.
+118087,456,89,428000,Homer Simpson,Simpson Home,Your mother thinks I'm working on the car!
+118088,456,90,432000,Bart Simpson,Simpson Home,"Dad, that is genius, but I need some advice--"
+118089,456,91,435000,Marge Simpson,Simpson Home,Homer?
+118090,456,92,436000,Marge Simpson,Simpson Home,I thought you were fixing my brakes!
+118092,456,94,441000,Bart Simpson,Simpson Home,But I need to talk about man stuff!
+118093,456,95,443000,Homer Simpson,Simpson Home,Talk to Grampa. He used to be a man.
+118094,456,96,444000,Bart Simpson,Simpson Home,He did?
+118095,456,97,447000,Grampa Simpson,Simpson Home,"Give up the goods, you yellow devil!"
+118097,456,98,450000,Bart Simpson,Simpson Home,So I kinda like this girl at school but I'm not sure if she likes me back.
+118098,456,99,454000,Grampa Simpson,Simpson Home,There's one sure way to find out if a girl likes you -- steal a kiss!
+118099,456,100,460000,Bart Simpson,Simpson Home,Really? Did that ever work for you?
+118100,456,101,463000,Grampa Simpson,Simpson Home,Sure did! I remember it like it was yesterday...
+118101,456,102,471000,Grampa Simpson,Simpson Home,Uh-oh.
+118103,456,104,478000,Bart Simpson,Springfield Elementary School,"Whoa, she boards, too?"
+118104,456,105,514000,Nikki McKenna,Springfield Elementary School,"So, what should we do now?"
+118105,456,106,518000,Grampa Simpson,Springfield Elementary School,"Kiss her, ya idjit!"
+118106,456,107,525000,Nikki McKenna,Springfield Elementary School,"Bart Simpson kissed me! Oh my God, and that was my first kiss! It will always be my first kiss! Ewww!"
+118107,456,108,540000,Kevin,Springfield Elementary School,Haw-haw.
+118108,456,109,543000,Nelson Muntz,Springfield Elementary School,That was great! Really great!
+118110,456,111,555000,Seymour Skinner,Skinner's Office,"Marge, Homer, this is Brody and Madison McKenna. Bart has been sharing a desk with their daughter Nikki."
+118111,456,112,560000,Nikki's Mom,Skinner's Office,"Earlier today, your son engaged in inappropriate mouth-on-mouth contact with our daughter."
+118112,456,113,566000,Marge Simpson,Skinner's Office,You mean... he kissed her?
+118113,456,114,569000,Nikki's Dad,Skinner's Office,On the top of the slide.
+118114,456,115,571000,Homer Simpson,Skinner's Office,That's all that happened? And I got to miss work?
+118115,456,116,574000,Homer Simpson,Skinner's Office,I could kiss you.
+118116,456,117,576000,Nikki's Mom,Skinner's Office,"Mr. Simpson, I'm an attorney, and my husband is a federal prosecutor, and neither of us is happy."
+118117,456,118,582000,Homer Simpson,Skinner's Office,Well maybe you guys should look for easier jobs.
+118118,456,119,585000,Nikki's Mom,Skinner's Office,"Unless you make this an affection-free environment, we will sue this school for its last dime."
+118119,456,120,591000,Seymour Skinner,Skinner's Office,"All right, here it is."
+118120,456,121,592000,Nikki's Mom,Skinner's Office,And we will make you regret the day your son was born.
+118121,456,122,596000,Homer Simpson,Skinner's Office,"You're halfway home, lady."
+118123,456,124,601000,Bart Simpson,Simpson Home,It's not my fault -- Grampa told me to kiss her!
+118124,456,125,604000,Marge Simpson,Simpson Home,Why didn't you just tell him to club her on the head and drag her into a cave?
+118125,456,126,608000,Grampa Simpson,Simpson Home,"You mean second base? Whoa, he's a little young for that."
+118126,456,127,612000,Bart Simpson,Simpson Home,"If I talk to Nikki, I'm sure I can--"
+118127,456,128,614000,Homer Simpson,Simpson Home,"No! If you go near her one more time, we'll be sued into the poor house and have to eat garbage forever."
+118128,456,129,619000,Bart Simpson,Simpson Home,That's no problem -- Mom can make garbage taste great.
+118129,456,130,622000,Marge Simpson,Simpson Home,Thank you.
+118130,456,131,623000,Bart Simpson,Simpson Home,"Well, I mean it."
+118131,456,132,624000,Marge Simpson,Simpson Home,And it means the world to me.
+118132,456,133,627000,Homer Simpson,Simpson Home,"Well, don't worry, boy. I know a wholesome way to take your mind off girls."
+118134,456,135,634000,Bart Simpson,SPRINGFIELD IMAX THEATER,This is awesome! If only real life was in 3-D.
+118135,456,136,637000,Homer Simpson,SPRINGFIELD IMAX THEATER,And the glasses smell like the last guy who wore them had pizza!
+118137,456,138,719000,Homer Simpson,SPRINGFIELD IMAX THEATER,Look at that.
+118138,456,139,721000,Bart Simpson,SPRINGFIELD IMAX THEATER,"Oh, look at their guts."
+118139,456,140,726000,Lisa Simpson,SPRINGFIELD IMAX THEATER,"""Dear fellow organic gardening enthusiasts: I'm afraid I am too sad to post my list of garden-friendly snails. Yet again I have seen the bitter truth of how difficult it is to be smart and accepted."" ""With mulch love, Lisa Simpson."" Mulch love, that's cute."
+118140,456,141,744000,Lisa Simpson,SPRINGFIELD IMAX THEATER,Somebody posted a comment?
+118141,456,142,745000,Lisa Simpson,SPRINGFIELD IMAX THEATER,"""Don't stop achieving just yet, Lisa. You are not alone -- Flotus-one."" ""Flotus-one?"" Who could that be?"
+118142,456,143,754000,Seymour Skinner,SPRINGFIELD IMAX THEATER,"Attention all students. Please report to an attorney-mandated school assembly. To make time for this, the third grade's performance of ""My Fair Lady"" is cancelled."
+118143,456,144,763000,Henry Higgins,SPRINGFIELD IMAX THEATER,"I say, that's rum news. Very rum indeed."
+118145,456,146,770000,Gary Chalmers,Springfield Elementary School,"By now you've probably heard that one of our fourth graders did something that a hundred years ago would've been considered innocent, but in today's overly-litigious society has been blown completely out of proportion."
+118146,456,147,783000,Nelson Muntz,Springfield Elementary School,"Now, what he said was..."
+118147,456,148,785000,Kevin,Springfield Elementary School,I can hear.
+118148,456,149,787000,Gary Chalmers,Springfield Elementary School,"The following skit, or ""sketch,"" demonstrates the behavior we wish you would save for middle school. Annnd action!"
+118149,456,150,797000,Groundskeeper Willie,Springfield Elementary School,"Oh, I'm just a wee little lass, combin' me beautiful hair. COMB, COMB, COMB-ERY DOO..."
+118150,456,151,805000,Seymour Skinner,Springfield Elementary School,I'm Bart Simpson. Disruptive fourth-grader.
+118151,456,152,808000,Homer Simpson,Springfield Elementary School,I finally caught one of Bart's school plays.
+118152,456,153,811000,Marge Simpson,Springfield Elementary School,"That's not Bart, it's Principal Skinner. Bart's sitting right next to you."
+118153,456,154,816000,Homer Simpson,Springfield Elementary School,"Yeah, now that I look closer, that guy couldn't fool anybody."
+118154,456,155,820000,Seymour Skinner,Springfield Elementary School,"Shut up, fatso."
+118155,456,156,821000,Homer Simpson,Springfield Elementary School,Why you little...
+118156,456,157,821000,Gary Chalmers,Springfield Elementary School,"Now, players, recreate the incident in question."
+118158,456,159,835000,Bart Simpson,Springfield Elementary School,"Hey Willie, does he taste like failure?"
+118160,456,161,840000,Gary Chalmers,Springfield Elementary School,Stop that laughter!
+118162,456,163,843000,Gary Chalmers,Springfield Elementary School,I can make these two kiss all day if I have to!
+118164,456,165,846000,Gary Chalmers,Springfield Elementary School,"If you want them to keep on kissing, just keep laughing..."
+118169,456,170,868000,Bart Simpson,Springfield Elementary School,Maybe I did do something wrong.
+118170,456,171,873000,Nikki McKenna,Springfield Elementary School,"Oh Bart, I hate to see you like this."
+118171,456,172,878000,Nikki McKenna,Springfield Elementary School,Look who's all confused.
+118172,456,173,880000,Bart Simpson,Springfield Elementary School,Huh?
+118173,456,174,885000,Bart Simpson,Springfield Elementary School,What the hell are you doing?
+118174,456,175,886000,Nikki McKenna,Springfield Elementary School,"Kissing you, stupid."
+118175,456,176,888000,Bart Simpson,Springfield Elementary School,You are the biggest psycho I ever met.
+118176,456,177,890000,Nikki McKenna,Springfield Elementary School,You wanna stop?
+118177,456,178,891000,Bart Simpson,Springfield Elementary School,Absolutely not.
+118179,456,180,906000,Milhouse Van Houten,Springfield Elementary School,A VH-60N Whitehawk!
+118180,456,181,919000,Nelson Muntz,Springfield Elementary School,First Lady Michelle Obama?!
+118182,456,183,927000,Michelle Obama,Springfield Elementary School,I flew in from Turkmenistan because there's a wonderful young person here who's feeling a little discouraged.
+118183,456,184,935000,Groundskeeper Willie,Springfield Elementary School,I sure am!
+118184,456,185,936000,Michelle Obama,Springfield Elementary School,This young lady...
+118185,456,186,938000,Groundskeeper Willie,Springfield Elementary School,Oh.
+118187,456,187,939000,Michelle Obama,Springfield Elementary School,"...thinks just because she's a high achiever, no one will ever like her. Well, as I tell school children all over the world, I was a high achiever. I got ""A""s back when ""A""s were hard to get. I was just like Lisa Simpson."
+118188,456,188,956000,Michelle Obama,Springfield Elementary School,"That's right, Lisa. As an avid organic gardener, I've read your blog."
+118189,456,189,960000,Lisa Simpson,Springfield Elementary School,"""Flotus1"" is ""First Lady Of The United States... one!"""
+118190,456,190,965000,Michelle Obama,Springfield Elementary School,"Yes. I wanted just ""Flotus,"" but someone had it."
+118191,456,191,968000,Ralph Wiggum,Springfield Elementary School,"That's me, 'cause I swim with my flotuses on!"
+118192,456,192,971000,Michelle Obama,Springfield Elementary School,"Everything I have I got through academics. I went to Chicago's first magnet high school, then Princeton, then Harvard Law."
+118193,456,193,980000,Lisa Simpson,Springfield Elementary School,And now you're the most elegant and popular woman in the world!
+118194,456,194,984000,Michelle Obama,Springfield Elementary School,"Well, I don't know about that... there's Carla Bruni... Queen Noor of Jordan..."
+118195,456,195,989000,Nelson Muntz,Springfield Elementary School,They're nothing compared to you!
+118196,456,196,992000,Michelle Obama,Springfield Elementary School,"It's not a contest. But if it were, I think we know how it would go. But before I was who I am today, I was a nerd."
+118197,456,197,1000000,Seymour Skinner,Springfield Elementary School,"So the lesson is, children..."
+118198,456,198,1002000,Michelle Obama,Springfield Elementary School,I'll tell them what the lesson is.
+118199,456,199,1003000,Gary Chalmers,Springfield Elementary School,He's our Joe Biden.
+118200,456,200,1005000,Michelle Obama,Springfield Elementary School,"Understood. So kids, be nice to Lisa, because the over-achievers will some day be running the country and you don't want them to be too screwed up. Now, who else is an overachiever? Come on now!"
+118201,456,201,1018000,Martin Prince,Springfield Elementary School,I am.
+118202,456,202,1019000,COOL SECOND GRADER #1,Springfield Elementary School,I am too.
+118203,456,203,1021000,Navy Seal,Springfield Elementary School,And so am I. Fifth in my class at Annapolis. Scaled the summit of the highest peaks on six of seven continents...
+118204,456,204,1026000,Michelle Obama,Springfield Elementary School,"Hey, that's great. Don't forget to bring the scooper when you walk the dog."
+118205,456,205,1032000,Navy Seal,Springfield Elementary School,"Ma'am, yes Ma'am!"
+118206,456,206,1033000,Michelle Obama,Springfield Elementary School,Now let's roll.
+118207,456,207,1036000,Navy Seal,Springfield Elementary School,"Sorry, Ma'am. We can't seem to reopen the hatch to the copter."
+118208,456,208,1042000,Michelle Obama,Springfield Elementary School,You were saying?
+118209,456,209,1044000,Navy Seal,Springfield Elementary School,"Oh, well, I loosened it up."
+118186,456,211,1049000,Nikki McKenna,Springfield Elementary School,That is the most amazing thing that's ever happened to this school.
+118212,456,212,1053000,Bart Simpson,Springfield Elementary School,"Yeah, till they find out about us."
+118213,456,213,1056000,Nikki McKenna,Springfield Elementary School,"What do you mean ""us?"""
+118214,456,214,1057000,Bart Simpson,Springfield Elementary School,"Well, like, uh, aren't you my girlfriend now?"
+118215,456,215,1061000,Nikki McKenna,Springfield Elementary School,"Oh, you mean, like you own me?"
+118216,456,216,1063000,Bart Simpson,Springfield Elementary School,I'm sorry.
+118217,456,217,1064000,Nikki McKenna,Springfield Elementary School,You're always apologizing.
+118218,456,218,1066000,Bart Simpson,Springfield Elementary School,Just tell me what you want!
+118219,456,219,1068000,Nikki McKenna,Springfield Elementary School,You should know what I want!
+118220,456,220,1069000,Bart Simpson,Springfield Elementary School,I want you to act the same way two days in a row! Augggh! I am not gonna let you hurt me anymore.
+118222,456,222,1077000,Nikki McKenna,Springfield Elementary School,"He's dead! I love him! Oh, he's breathing. Loser."
+118223,456,223,1093000,Groundskeeper Willie,Springfield Elementary School,"He's stopped breathin'! Who knows gob-to-gob?! You know, mutton hole to mutton hole."
+118224,456,224,1099000,Gary Chalmers,Springfield Elementary School,No one goes near that boy till the ambulance comes! Any physical contact violates our school's no-touch policy.
+118225,456,225,1105000,Seymour Skinner,Springfield Elementary School,Let's quickly prod him to the curb with this pool skimmer.
+118226,456,226,1108000,Gary Chalmers,Springfield Elementary School,Good thinking.
+118227,456,227,1112000,Nikki McKenna,Springfield Elementary School,Move! I know C.P.R.!
+118228,456,228,1114000,Seymour Skinner,Springfield Elementary School,"Nikki, no! I prefer a dead child to a lawsuit from your parents!"
+118230,456,230,1177000,Groundskeeper Willie,Springfield Elementary School,Ya call that a kiss? C'mere.
+118231,456,231,1179000,Kevin,Springfield Elementary School,"Nelson, now that the ban's been lifted, let me touch your face. That way I can see you, with my fingers."
+118232,456,232,1192000,Kevin,Springfield Elementary School,"Ew, I said your face, not your butt!"
+118233,456,233,1195000,Nelson Muntz,Springfield Elementary School,You feel comfortable enough to mock me!
+118234,456,234,1199000,Nelson Muntz,Springfield Elementary School,That's for mocking me!
+118235,456,235,1201000,Kevin,Springfield Elementary School,Nelson... your punch restored my vision! I can see again!
+118236,456,236,1206000,Nelson Muntz,Springfield Elementary School,"Really? Kevin, that's wonder--"
+118237,456,237,1208000,Kevin,Springfield Elementary School,Haw-haw!
+118238,456,238,1209000,Nelson Muntz,Springfield Elementary School,The student has become the master.
+118239,456,239,1212000,Bart Simpson,Springfield Elementary School,Nikki! Thanks for saving my life.
+118240,456,240,1215000,Nikki McKenna,Springfield Elementary School,"Look, can we just pretend that never happened? I don't want everyone at school to go around thinking I like you."
+118242,456,241,1220000,Bart Simpson,Springfield Elementary School,"I don't get you! You're hot, you're cold... What is your deal?!"
+118243,456,242,1224000,Nikki McKenna,Springfield Elementary School,"Oh Bart, you've got a few things to learn about women. And I will never tell you what they are."
+118244,456,243,1229000,Bart Simpson,Springfield Elementary School,I give up! Smell ya later.
+118245,456,244,1239000,Bart Simpson,Springfield Elementary School,I love youuuuuu!

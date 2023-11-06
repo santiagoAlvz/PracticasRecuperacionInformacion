@@ -1,0 +1,248 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+155031,22,1,8000,Marge Simpson,Simpson Home,A dash of rosemary... a smidgin of thyme... a pinch of marjoram...
+155032,22,2,90000,Homer Simpson,Simpson Home,"You know, Marge, you make the best pork chops in the whole world."
+155033,22,3,94000,Marge Simpson,Simpson Home,"Oh now, Homer, they're nothing special. The extra ingredient is care."
+155034,22,4,99000,Marge Simpson,Simpson Home,"A sprinkle of chervil, half a teaspoon of turmeric... and a whisper of MSG."
+155035,22,5,105000,Homer Simpson,Simpson Home,"Marge, I'm gonna build you a spice rack!"
+155036,22,6,108000,Marge Simpson,Simpson Home,You don't have to go to all that trouble just for me.
+155037,22,7,110000,Homer Simpson,Simpson Home,It's no trouble. I've got a whole garageful of tools I never use.
+155038,22,8,114000,Krusty the Clown,Simpson Home,"Hey, kids! I spy Itchy and Scratchy off the port bow!"
+155039,22,9,119000,Bart Simpson,Simpson Home,"Hey, down in front!"
+155040,22,10,121000,Homer Simpson,Simpson Home,"Shut up, boy."
+155041,22,11,123000,Itchy & Scratchy Singers,Simpson Home,"THEY FIGHT, THEY BITE / THEY FIGHT AND BITE AND FIGHT / FIGHT, FIGHT, FIGHT / BITE, BITE, BITE / THE ITCHY AND SCRATCHY SHOW."
+155043,22,13,144000,Homer Simpson,GARAGE,"I knew all this stuff would come in handy some day. Let's see now... ah, here it is. The Complete Handyman's Bookshelf. Volume One. Spice Rack."
+155044,22,14,159000,Homer Simpson,GARAGE,Pick - up - a - ham - mer...
+155045,22,15,175000,Homer Simpson,GARAGE,Wowww....
+155047,22,17,206000,Bart Simpson,Simpson Home,"Hey, Dad. Can you move your head?"
+155048,22,18,207000,Homer Simpson,Simpson Home,"No, I can't. It's broken."
+155049,22,19,210000,Marge Simpson,Simpson Home,Humph... where would an innocent child get the idea to attack her father with a mallet?
+155051,22,21,234000,Marge Simpson,Simpson Home,"No, Maggie! Bad baby!"
+155052,22,22,236000,Homer Simpson,Simpson Home,"Keep her away from me, Marge! She's got that crazy look in her eyes again."
+155053,22,23,243000,Marge Simpson,Simpson Home,So television's responsible.
+155054,22,24,247000,Lisa Simpson,Simpson Home,"Hey, Mom. What're doing?/We were watching that!"
+155055,22,25,249000,Marge Simpson,Simpson Home,"Well, you won't be watching these cartoons anymore. Ever."
+155056,22,26,252000,Lisa Simpson,Simpson Home,"But, Mom! If you take our cartoons away, we'll grow up without a sense of humor and be robots."
+155057,22,27,258000,Bart Simpson,Simpson Home,Really? What kind of robots?
+155059,22,29,260000,Nelson Muntz,Springfield Elementary School Grounds,"I heard about the cartoons. Tough break, man."
+155060,22,30,264000,Bart Simpson,Springfield Elementary School Grounds,"Thanks, Nelson."
+155061,22,31,265000,Milhouse Van Houten,Springfield Elementary School Grounds,"Hey, what if you watch Itchy and Scratchy over at my house?"
+155062,22,32,269000,Bart Simpson,Springfield Elementary School Grounds,Hey... That's just crazy enough to work.
+155064,22,34,273000,Homer Simpson,Simpson Home,"You heard me. I won't be in for the rest of the week. I told you. My baby beat me up. Oh, it is not the worst excuse I ever thought up. Wise guy."
+155065,22,35,287000,Marge Simpson,Simpson Home,I wonder why Bart and Lisa are so late getting home from school?
+155069,22,39,307000,Homer Simpson,Simpson Home,"Hey, how come you can watch cartoons but the kids can't?"
+155070,22,40,311000,Marge Simpson,Simpson Home,Because.
+155071,22,41,311000,Homer Simpson,Simpson Home,Because why?
+155072,22,42,312000,Marge Simpson,Simpson Home,Because I said so.
+155073,22,43,314000,Homer Simpson,Simpson Home,"Because you said so, why?"
+155074,22,44,315000,Marge Simpson,Simpson Home,Homer! I'm trying to work!
+155075,22,45,317000,Homer Simpson,Simpson Home,Oh. What are you doing?
+155076,22,46,318000,Marge Simpson,Simpson Home,I'm cataloguing the violence in these cartoons. I don't think adults have ever actually sat down and watched them before.
+155077,22,47,336000,Marge Simpson,Simpson Home,What kind of warped human being would find that funny?
+155078,22,48,344000,Homer Simpson,Simpson Home,"Heh, heh, heh."
+155079,22,49,344000,Marge Simpson,Simpson Home,This is the kind of entertainment they think is suitable for younger and more impressionable viewers?
+155080,22,50,349000,Homer Simpson,Simpson Home,"Yeah, but what are ya gonna do?"
+155081,22,51,352000,Marge Simpson,Simpson Home,I'll tell you what I'm going to do. I'm going to write a letter.
+155082,22,52,356000,Marge Simpson,Simpson Home,Dear Purveyors of Senseless Violence: I know this may sound silly at first...
+155084,22,54,356000,Marge Simpson,TV Studio,... but I believe that the cartoons you show to our children are influencing their behavior in a negative way...
+155085,22,55,374000,Krusty the Clown,TV Studio,Eh...
+155088,22,58,374000,Marge Simpson,I & S INTERNATIONAL,... please try to tone down the psychotic violence...
+155091,22,60,374000,Marge Simpson,CHAIRMAN I & S INTERNATIONAL'S OFFICE,"""... in your otherwise fine programming. Yours truly, Marge Simpson."""
+155092,22,61,381000,"Roger Meyers, Jr.",CHAIRMAN I & S INTERNATIONAL'S OFFICE,"Take a letter, Miss White. ""Dear Valued Viewer: Thank you for taking an interest in the Itchy and Scratchy Program. Enclosed is a personally autographed photo of America's favorite cat and mouse team to add to your collection."""
+155093,22,62,394000,"Roger Meyers, Jr.",CHAIRMAN I & S INTERNATIONAL'S OFFICE,"""In regards to your specific comments about the show, our research indicates that one person cannot make a difference, no matter how big a screwball she is. So, let me close by saying..."
+155095,22,64,404000,Marge Simpson,Simpson Home,... and the horse I rode in on!?
+155097,22,66,435000,Homer Simpson,Itchy & Scratchy International,"Everybody's looking at us, Marge."
+155098,22,67,438000,Marge Simpson,Itchy & Scratchy International,"Well, that's what we want them to do, Homer."
+155099,22,68,441000,Homer Simpson,Itchy & Scratchy International,"Oh. Well, how long are we going to have to be doing this?"
+155100,22,69,446000,Marge Simpson,Itchy & Scratchy International,"Well, I've never changed the world before, so I don't know how long it takes exactly. But if enough people take an interest..."
+155101,22,70,451000,Maude Flanders,Itchy & Scratchy International,"Hello, Marge! Oh what is ""S-N-U-H?"""
+155102,22,71,456000,Marge Simpson,Itchy & Scratchy International,Snuh!
+155103,22,72,457000,Maude Flanders,Itchy & Scratchy International,Oh.
+155104,22,73,458000,Marge Simpson,Itchy & Scratchy International,"It stands for ""Springfieldians"
+155105,22,74,458000,Maude Flanders,Itchy & Scratchy International,Huh huh.
+155106,22,75,458000,Marge Simpson,Itchy & Scratchy International,"for Nonviolence, Understanding and Helping."""
+155107,22,76,458000,Maude Flanders,Itchy & Scratchy International,Hmmm.
+155108,22,77,458000,Marge Simpson,Itchy & Scratchy International,I've started a crusade against cartoon violence.
+155109,22,78,466000,Maude Flanders,Itchy & Scratchy International,"Hmmm, hmmm."
+155110,22,79,466000,Marge Simpson,Itchy & Scratchy International,I can protect my own children.
+155111,22,80,466000,Maude Flanders,Itchy & Scratchy International,"Hmmm, hmmm."
+155112,22,81,466000,Marge Simpson,Itchy & Scratchy International,but there are many others whose minds are being warped every afternoon at four.
+155113,22,82,472000,Maude Flanders,Itchy & Scratchy International,Ohhh.
+155114,22,83,474000,Bart Simpson,Itchy & Scratchy International,That reminds me. I've gotta get over to Milhouse's and... uh... play sports.
+155115,22,84,479000,Marge Simpson,Itchy & Scratchy International,All right.
+155116,22,85,480000,Lisa Simpson,Itchy & Scratchy International,And I'm going over to Janey's again. We're going to be... um... making the most of our childhood years.
+155117,22,86,485000,Marge Simpson,Itchy & Scratchy International,Have fun.
+155118,22,87,486000,Lisa Simpson,Itchy & Scratchy International,We will.
+155120,22,88,492000,Marge Simpson,Itchy & Scratchy International,And what happens when a child grows up with insanely violent role models like these?
+155121,22,89,498000,Marge Simpson,Itchy & Scratchy International,The answer is all around you.
+155122,22,90,502000,Marge Simpson,Itchy & Scratchy International,How many of you were hit on the head with mallets last week?
+155124,22,92,512000,Homer Simpson,Simpson Home,I didn't know they still made TV dinners this bad.
+155125,22,93,516000,Bart Simpson,Simpson Home,"After dinner, can I watch cartoons?"
+155126,22,94,518000,Marge Simpson,Simpson Home,No.
+155127,22,95,519000,Homer Simpson,Simpson Home,There's peas in my fruit cobbler.
+155128,22,96,521000,Lisa Simpson,Simpson Home,There's peas everywhere.
+155129,22,97,523000,Bart Simpson,Simpson Home,"Oop, I guess I'll just go and watch some cartoons."
+155130,22,98,526000,Marge Simpson,Simpson Home,No. I'm sorry about the dinners. I'll make up for it tomorrow night.
+155131,22,99,531000,Bart Simpson,Simpson Home,"Hey, who's up for some cartoons?"
+155132,22,100,532000,Marge Simpson,Simpson Home,No one.
+155133,22,101,534000,Bart Simpson,Simpson Home,All right.
+155134,22,102,535000,Homer Simpson,Simpson Home,"Hey, tomorrow night, how about making some of your patented pork chops?"
+155135,22,103,539000,Marge Simpson,Simpson Home,"Hmmm, sure. Oh, dear. I can't. I've got three protest rallies tomorrow."
+155136,22,104,547000,Homer Simpson,Simpson Home,Twenty million women in the world and I had to marry Jane Fonda.
+155138,22,106,551000,Krusty the Clown,TV Studio,"Guess what, Sideshow Mel? It's time for Itchy & Scratchy!"
+155139,22,107,560000,Krusty the Clown,TV Studio,"Hey, hey. Settle down, boys and girls, or Krusty will have to bring out his old friend Corporal Punishment again."
+155140,22,108,569000,Krusty the Clown,TV Studio,Please . Stop it. What's going... Who are you people?
+155141,22,109,572000,Marge Simpson,TV Studio,What do we want?
+155142,22,110,574000,Her Group,TV Studio,Substantially-less-violence-in-children's-programming!
+155143,22,111,577000,Marge Simpson,TV Studio,When do we want it?
+155144,22,112,577000,Her Group,TV Studio,Now!
+155145,22,113,578000,Marge Simpson,TV Studio,What do we want?
+155146,22,114,578000,Marge Simpson,TV Studio,HER GROUP
+155147,22,115,578000,Marge Simpson,TV Studio,Substantially-less
+155148,22,116,578000,Marge Simpson,TV Studio,violence-in children's-program-ming.
+155149,22,117,578000,Marge Simpson,TV Studio,KRUSTY
+155150,22,118,578000,Marge Simpson,TV Studio,No! You're ruining the show. Oh... Oh... Oh. Stop.
+155151,22,119,584000,Marge Simpson,TV Studio,Please stop. Please. Be quiet.
+155152,22,120,586000,Marge Simpson,TV Studio,"Oh, please. All right. I'm trying to earn a living here. All right! Stop! Stop!"
+155153,22,122,593000,"Roger Meyers, Jr.",Itchy & Scratchy International,"That woman. That screwball, Marge Simpson. We've got to stop her. But how?"
+155154,22,123,600000,Animator,Itchy & Scratchy International,Drop an anvil on her?
+155155,22,124,602000,1ST BOARD MEMBER,Itchy & Scratchy International,Hit her on the head with a piano?
+155156,22,125,603000,2nd Board Member,Itchy & Scratchy International,"Stuff her full of TNT, then throw a match down her throat and run?"
+155157,22,126,606000,"Roger Meyers, Jr.",Itchy & Scratchy International,All your fancy degrees and that's the best you can do? You make me sick.
+155159,22,128,612000,Animator,I & S INTERNATIONAL,Hmmm. Ah ha! I'm so funny.
+155161,22,130,629000,Homer Simpson,Simpson Home,"You know, some of these stories are pretty good. I never know mice lived such interesting lives."
+155162,22,131,635000,Marge Simpson,Simpson Home,So much needless brutality. I don't know if I'm having any impact at all.
+155163,22,132,642000,Squirrel,Simpson Home,Don't do that! Don't do that! Hey! Don't DO that!
+155164,22,133,653000,Homer Simpson,Simpson Home,Take that you dumb squirrel.
+155165,22,134,658000,Marge Simpson,Simpson Home,Mmmmmmmph!
+155166,22,135,658000,Homer Simpson,Simpson Home,Where do they get their ideas?
+155167,22,136,660000,Marge Simpson,Simpson Home,"What is it? What? ""Smartline?"" Yes, I've heard of your late-night panel discussion show. Well, I'd love to."
+155168,22,137,669000,Announcer #2,Simpson Home,"""Smartline!"" With our local Emmy-award winning, host... Kent Brockman."
+147925,22,138,674000,BROCKMAN,Simpson Home,"Hello, I'm Kent Brockman, and welcome to another edition of ""Smartline"". Are cartoons too violent for children? Most people would say ""no. Of course not. What kind of stupid question is that?"" But one woman says ""yes."" She's here with us tonight. Mrs. Marge Simpson."
+155169,22,139,688000,Lisa Simpson,Simpson Home,There she is!
+147926,22,141,689000,BROCKMAN,TV Studio,"Also with us for this ""animated"" discussion... ... are Roger Myers, Chairman of the board of Itchy & Scratchy International..."
+155171,22,142,689000,"Roger Meyers, Jr.",TV Studio,Thank you.
+147927,22,143,697000,BROCKMAN,TV Studio,"... Krusty the Klown, whose delightful program brings us the antics of Itchy & Scratchy every afternoon at four..."
+155172,22,144,702000,Krusty the Clown,TV Studio,"Hi, Kent!"
+147928,22,145,704000,BROCKMAN,TV Studio,"And, joining us live via satellite from Vienna, the home of Sigmund Freud - the world's most famous psychiatrist - to give us an insight into the human mind, Dr. Marvin Monroe."
+155173,22,146,706000,Dr. Marvin Monroe,TV Studio,Hiya.
+147929,22,147,714000,BROCKMAN,TV Studio,"Now, first let's see what all the excitement is about. Here's an example of the work currently being turned out at I & S Studios."
+147930,22,148,731000,BROCKMAN,TV Studio,"Hilarious. Now, what in the world is wrong with that, Mrs. Simpson?"
+155175,22,149,734000,"Roger Meyers, Jr.",TV Studio,There's nothing wrong with it.
+155176,22,150,735000,Marge Simpson,TV Studio,Excuse me. Excuse me. He was addressing me.
+155177,22,151,737000,"Roger Meyers, Jr.",TV Studio,I know. There's nothing wrong with it.
+155178,22,152,739000,Marge Simpson,TV Studio,Excuse me. There is! I think that it's a bad influence on children.
+155179,22,153,743000,"Roger Meyers, Jr.",TV Studio,"Oh, give me a break! I think that is a bunch of baloney. And here's why. In preparing for this debate, I did a little research and I discovered a startling thing. There was violence in the past, long before cartoons were invented."
+147931,22,154,756000,BROCKMAN,TV Studio,I see. Fascinating.
+155180,22,155,757000,"Roger Meyers, Jr.",TV Studio,"Yeah, and there was something called the Crusades, for instance. Tremendous violence! Many people killed! The darn thing went on for thirty years."
+147932,22,156,764000,BROCKMAN,TV Studio,And this was before cartoons were invented?
+155181,22,157,766000,"Roger Meyers, Jr.",TV Studio,"That's right, Kent. So much for your viewpoint."
+147933,22,159,770000,BROCKMAN,TV Studio,"Dr. Marvin Monroe in Vienna, would you care to comment on all this?"
+155183,22,160,773000,Dr. Marvin Monroe,TV Studio,"Ah, well, Kent... to me, the high jinks - of a few comic characters absolutely pale in comparison with the crippling emotional problems a psychiatrist runs into every day. I'm… I'm referring here to women who love too much, fear of winning, sexaholism... stuff like that."
+147934,22,161,788000,BROCKMAN,TV Studio,So you have no professional objection to Itchy & Scratchy?
+155184,22,162,792000,Dr. Marvin Monroe,TV Studio,"No, not at all. In fact, one of my guilty little pleasures is to snuggle up with a big bucket of buttered popcorn, dim the lights, turn on Itchy & Scratchy, and laugh myself silly. And what the hell is wrong with that?"
+147935,22,163,804000,BROCKMAN,TV Studio,"Not a thing. Now, for another opinion..."
+155185,22,164,807000,Krusty the Clown,TV Studio,Hi kids!!!
+147936,22,165,809000,BROCKMAN,TV Studio,"Krusty, please. We're giving you an opportunity to participate in a serious discussion here."
+155186,22,166,814000,Krusty the Clown,TV Studio,"Oh. I'm sorry, Kent. It's just that when the camera gets on me... ... HEY HEY!!!"
+147937,22,167,820000,BROCKMAN,TV Studio,Krusty!
+155187,22,168,820000,Krusty the Clown,TV Studio,Oh.
+147938,22,169,823000,BROCKMAN,TV Studio,"Well, it looks like we're not going to settle this tonight. Mrs. Simpson, in the nine seconds we have left, could you summarize your position for us?"
+155189,22,170,830000,Marge Simpson,TV Studio,Yes. I'd like to ask all the parents in Springfield who are concerned about this to write in and let the cartoon makers know how you feel. Thank you.
+155191,22,172,838000,"Roger Meyers, Jr.",I & S INTERNATIONAL,"I don't believe this... ""I will never watch your show, buy any of your products... or brake if I see you crossing the street."" Wow, that's cold."
+155192,22,173,852000,"Roger Meyers, Jr.",I & S INTERNATIONAL,"""Dear Sleaze Merchant"" -- Now, come on, that hurts."
+155193,22,174,856000,"Roger Meyers, Jr.",I & S INTERNATIONAL,"Gentlemen, the screwballs have spoken."
+155195,22,176,872000,Marge Simpson,Simpson Home,Hello?
+155197,22,178,873000,"Roger Meyers, Jr.",I & S INTERNATIONAL,Is this Marge Simpson?
+155198,22,179,874000,Marge Simpson,I & S INTERNATIONAL,Yes.
+155199,22,180,876000,"Roger Meyers, Jr.",I & S INTERNATIONAL,The Marge Simpson who fixed it so cartoons can't be violent anymore?
+155200,22,181,879000,Marge Simpson,I & S INTERNATIONAL,Yes?
+155201,22,182,881000,"Roger Meyers, Jr.",I & S INTERNATIONAL,"This is Myers. I'm here with the writers. Listen, you're so smart, how do we end this picture?"
+155202,22,183,885000,Marge Simpson,I & S INTERNATIONAL,Well... what's the problem you're having?
+155203,22,184,887000,"Roger Meyers, Jr.",I & S INTERNATIONAL,"Okay, here it is. Itchy just stole Scratchy's ice cream cone..."
+155204,22,185,891000,Animator,I & S INTERNATIONAL,Make it a pie. Pies are easier to draw.
+155205,22,186,892000,"Roger Meyers, Jr.",I & S INTERNATIONAL,"Okay, a pie. Anyway, Scratchy is understandably upset."
+155206,22,187,894000,Marge Simpson,I & S INTERNATIONAL,Huh huh.
+155207,22,188,898000,"Roger Meyers, Jr.",I & S INTERNATIONAL,So we figured he could - you know - just grab Itchy and toss him in a bucket of acid.
+155208,22,189,901000,Marge Simpson,I & S INTERNATIONAL,Oh dear!
+155209,22,190,902000,"Roger Meyers, Jr.",I & S INTERNATIONAL,"But then we remembered that this might be interpreted as violence which is morally wrong now, thanks to you. So what's your big idea? How do we end this?"
+155210,22,191,912000,Marge Simpson,I & S INTERNATIONAL,Well... let's see... Oh! couldn't Itchy share his pie with Scratchy? Then they would both have pie.
+155211,22,192,925000,"Roger Meyers, Jr.",I & S INTERNATIONAL,"It's different, I'll give you that."
+155213,22,194,927000,Announcer,Simpson Home,It's a tool that every home handyman needs. It's a jigsaw! It's a power drill! It's a wood-turning lathe!
+155215,22,195,933000,Announcer,Simpson Home,It's an asphalt spreader! It's sixty- seven tools in one! How much would you pay for a machine that can do all this?
+155216,22,196,941000,Homer Simpson,Simpson Home,One thousand dollars.
+155217,22,197,941000,Announcer,Simpson Home,Don't answer yet...
+155218,22,198,941000,Homer Simpson,Simpson Home,"Oh, sorry."
+155219,22,199,942000,Announcer,Simpson Home,... because you also get...
+155220,22,200,944000,Homer Simpson,Simpson Home,I was watching that.
+155221,22,201,945000,Marge Simpson,Simpson Home,It's time for Krusty.
+155222,22,202,946000,Bart Simpson,Simpson Home,"You mean we can watch cartoons again, Mom?"
+155223,22,203,948000,Marge Simpson,Simpson Home,"Yes, dear. All you want."
+155224,22,204,950000,Lisa Simpson,Simpson Home,All right!
+155225,22,205,953000,Bart Simpson,Simpson Home,Turn it up!
+155226,22,206,954000,Krusty the Clown,Simpson Home,Hey kids! It's time for Itchy & Scratchy!
+155227,22,207,959000,Itchy & Scratchy Singers,Simpson Home,They love / they share / They share and love and share / love love love / share share share / The Itchy & Scratchy Showwww!
+155228,22,208,976000,Scratchy,Simpson Home,Lemonade?
+155229,22,209,980000,Itchy,Simpson Home,Please!
+155230,22,210,981000,Scratchy,Simpson Home,I made it just for you.
+155231,22,211,983000,Itchy,Simpson Home,You are my best friend.
+155232,22,212,987000,Lisa Simpson,Simpson Home,Itchy and Scratchy seem to have lost their edge.
+155233,22,213,990000,Marge Simpson,Simpson Home,I think it conveys a very nice message of sharing.
+155234,22,214,993000,Bart Simpson,Simpson Home,I think it sucks.
+155235,22,215,997000,Homer Simpson,Simpson Home,"... Oh, hey, thank you, Maggie."
+155236,22,216,999000,Itchy,Simpson Home,"Mmmm, this really hits the spot."
+155237,22,217,1001000,Scratchy,Simpson Home,Doesn't it though?
+155238,22,218,1002000,Itchy,Simpson Home,"You really make good lemonade, Scratchy."
+155239,22,219,1004000,Scratchy,Simpson Home,"Oh, oh, oh. Thank you, Itchy."
+155240,22,220,1007000,Krusty the Clown,Simpson Home,"Wasn't that funny, boys and girls? Well? Wasn't it?"
+155241,22,221,1011000,Marge Simpson,Simpson Home,Aren't you going to watch the rest of your cute cartoons?
+155242,22,222,1011000,Bart Simpson,Simpson Home,"Nah. Come on, Lis."
+155243,22,223,1011000,Lisa Simpson,Simpson Home,Maybe there's something else to do on this planet.
+155246,22,226,1012000,Scratchy,JANEY'S HOUSE,... but the third bowl of porridge was j-u-u-u-s-t right.
+155248,22,228,1012000,Krusty the Clown,TV Studio,Hi kids!
+155249,22,229,1012000,Krusty the Clown,TV Studio,What is it? Is this Saturday?
+155251,22,231,1012000,Marge Simpson,Simpson Home,So what did you kids do today?
+155174,22,232,1012000,Bart Simpson,Simpson Home,Me and the guys went fishing. Almost caught a catfish this big.
+155188,22,233,1012000,Marge Simpson,Simpson Home,Ohhh.
+155253,22,234,1014000,Lisa Simpson,Simpson Home,And Janey and I went bird watching. We saw a grackle.
+155254,22,235,1014000,Marge Simpson,Simpson Home,That's nice dear.
+155255,22,236,1014000,Bart Simpson,Simpson Home,"Come on, Lis. Let's go finish our soapbox racers."
+155256,22,237,1014000,Lisa Simpson,Simpson Home,Okay. May we please be excused?
+155257,22,238,1014000,Marge Simpson,Simpson Home,Sure.
+155258,22,239,1014000,Homer Simpson,Simpson Home,"Wow. What great kids. This is the golden age, Marge. And the parents of Springfield owe it all to you."
+155259,22,240,1014000,Marge Simpson,Simpson Home,I didn't really expect things to change this much.
+155260,22,241,1014000,Homer Simpson,Simpson Home,"Well, I always knew you'd change the world, for the better."
+155262,22,243,1014000,Curator,ART MUSEUM,"This will be the art event of the century. The greatest masterpiece of the Italian Renaissance, Michelangelo's David, on a coast-to-coast tour of the United States."
+155263,22,244,1014000,Reporter,ART MUSEUM,"Ah, sir. Which cities will be included in your itinerary?"
+155264,22,245,1014000,Curator,ART MUSEUM,Eh! New York...
+155265,22,246,1014000,Reporter,ART MUSEUM,Hmmm hmmm.
+155266,22,247,1014000,Curator,ART MUSEUM,... Springfield...
+155267,22,248,1014000,Reporter,ART MUSEUM,Yes.
+155268,22,249,1014000,Curator,ART MUSEUM,"... and if we have time, Chicago, Boston and Los Angeles."
+155270,22,251,1014000,Homer Simpson,Simpson Home,"Marge, get the door."
+155271,22,252,1014000,Marge Simpson,Simpson Home,What in the world?
+155272,22,253,1014000,Helen Lovejoy,Simpson Home,"Get dressed, Marge. You've got to lead our protest against this abomination!"
+155273,22,254,1014000,Marge Simpson,Simpson Home,"Hmmm, but that's Michelangelo's David. It's a masterpiece!"
+155274,22,255,1014000,Helen Lovejoy,Simpson Home,It's filth. It graphically portrays parts of the human body which - practical as they may be... are evil!
+155275,22,256,1017000,Marge Simpson,Simpson Home,But I like that statue.
+155277,22,258,1017000,Maude Flanders,Simpson Home,"I told you she was soft on full frontal nudity. Come on, girls."
+155279,22,260,1017000,Curator,Springfield Airport,What is all this about? What do you people want?
+155280,22,261,1017000,Helen Lovejoy,Springfield Airport,"We want you, to get your big Italian butt outta here!"
+155281,22,262,1017000,Announcer #2,Springfield Airport,"""Smartline!"" With our local Emmy-award winning host, Kent Brockman."
+147939,22,263,1017000,BROCKMAN,Springfield Airport,"Is it a masterpiece? Or just some guy with his pants down? That's our topic tonight on ""Smartline"". Now, Mrs. Simpson, why are you against this statue?"
+155283,22,264,1018000,Marge Simpson,Springfield Airport,I'm not. I think everyone in Springfield should see it.
+147940,22,265,1018000,BROCKMAN,Springfield Airport,"Wait, wait a minute. Aren't you Marge Simpson, the wacko?"
+155284,22,266,1018000,Marge Simpson,Springfield Airport,Hmmm... yes and no.
+155285,22,267,1018000,Dr. Marvin Monroe,Springfield Airport,"Hold it, hold it, hold it... how can you be for one form of freedom of expression, like our big naked friend over there, and be against another form, like Itchy and Scratchy?"
+155287,22,269,1018000,Kent Brockman,Springfield Airport,Good question.
+155288,22,270,1018000,Marge Simpson,Springfield Airport,"Well... I guess I can't, which is a shame because I really hate those cartoons."
+155289,22,271,1018000,Dr. Marvin Monroe,Springfield Airport,"Oh yeah, well what do you have to say to all those Marge Simpson wannabes out there who wish to suppress David's doodle."
+155290,22,272,1018000,Marge Simpson,Springfield Airport,"Um, I don't know. I guess one person can make a difference, but most of the time, they probably shouldn't."
+155291,22,273,1018000,Kent Brockman,Springfield Airport,"Well... I guess that settles that. I'd like to alert our affiliates that we will be ending our show early tonight. Join us tomorrow when our topic will be, ""Religion: Which is the One True Faith?"""
+155295,22,277,1018000,Homer Simpson,Springfield Museum,"Well, there he is... Michelangelo's Dave."
+155296,22,278,1018000,Marge Simpson,Springfield Museum,David.
+155297,22,279,1018000,Homer Simpson,Springfield Museum,"Oh. What's wrong, Marge?"
+155298,22,280,1018000,Marge Simpson,Springfield Museum,"Oh, Homie. Here the kids have a chance to see a great work of art and instead they're home watching a cat and mouse disembowel each other."
+155299,22,281,1018000,Homer Simpson,Springfield Museum,"Hey, don't worry Marge, pretty soon every boy and girl in Springfield Elementary School is gonna come and see this thing."
+155300,22,282,1018000,Marge Simpson,Springfield Museum,"Really, why?"
+155301,22,283,1018000,Homer Simpson,Springfield Museum,They're forcing 'em.
+155302,22,284,1018000,Marge Simpson,Springfield Museum,"Aw, well isn't that nice."

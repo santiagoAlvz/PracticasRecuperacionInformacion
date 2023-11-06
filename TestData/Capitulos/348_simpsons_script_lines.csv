@@ -1,0 +1,227 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+90009,348,1,33000,Marge Simpson,Marge's Car,Is there anything more fun than a nice Sunday drive?
+90010,348,2,36000,Bart Simpson,Marge's Car,"Oh yeah, it's great. Why don't we top it off by reading to old people?"
+90011,348,3,40000,Lisa Simpson,Marge's Car,"Well, I think -- in these days of petro-terrorists and ozone depletion -- a Sunday drive reeks of bio-hubris."
+90012,348,4,47000,Marge Simpson,Marge's Car,"Hey, hey, it's Krusty the clown! What do you say, Krusty?"
+90013,348,5,51000,Krusty the Clown,Marge's Car,What? Can't I get a cup of coffee without doing a monkey dance for you freaks?
+90014,348,6,56000,Krusty the Clown,Marge's Car,The fishing hat means leave me alone!
+90015,348,7,59000,Marge Simpson,Marge's Car,Always nice to see him.
+90016,348,8,61000,Bart Simpson,Marge's Car,How did Dad get out of this snooze cruise?
+90017,348,9,64000,Marge Simpson,Marge's Car,He's cleaning out the garage. I can picture it now...
+90018,348,10,69000,Muscular Homer,Marge's Car,I cleaned out the garage and lost fifty pounds!
+90022,348,13,79000,Homer Simpson,Simpson Garage,Hmmm. Seems a shame to chuck out these cross-country skis. I'll keep one.
+90023,348,14,88000,Homer Simpson,Simpson Garage,"Let's see now... ""Kill spiders?"" We don't have spiders."
+90025,348,16,100000,Homer Simpson,Simpson Garage,Stupid spider... afraid of dying.
+90026,348,17,106000,Homer Simpson,Simpson Garage,Aha! Huh?
+90028,348,19,119000,Homer Simpson,Simpson Garage,Spider poison is people poison?!
+90029,348,20,122000,Homer Simpson,Simpson Garage,Baaart!
+90030,348,21,124000,Homer Simpson,Simpson Garage,"Hm, where's the pain? There it is!"
+90032,348,23,135000,Homer Simpson,Simpson Garage,A spider!
+90034,348,25,156000,Marge Simpson,Simpson Garage,Homie!
+90035,348,26,159000,Bart Simpson,Simpson Garage,Time to open the envelope I gave you.
+90037,348,28,168000,Lisa Simpson,GARAGE,Out of the way! I learned CPR while waiting for other kids to finish their math tests.
+90038,348,29,178000,Lisa Simpson,GARAGE,Compress his chest!
+90039,348,30,179000,Bart Simpson,GARAGE,I'm on it.
+90041,348,32,192000,Marge Simpson,GARAGE,"Oh, thank God! He's alive!"
+90044,348,35,205000,Marge Simpson,Simpson Home,Honey... your near-fatal boo boo today really scared me. What would the kids and I do if something happened to you?
+90045,348,36,216000,Homer Simpson,Simpson Home,"Don't worry. If I croak, you'll marry Lenny. Or Moe -- the winner will be determined by a card game I invented. I got all the rules written down... up here."
+90046,348,37,226000,Marge Simpson,Simpson Home,You keep almost dying. Just look at our vacation photos.
+90047,348,38,241000,Marge Simpson,Simpson Home,"Homie, if you die, I'm gonna have three kids to take care of. I want you to buy some life insurance. Please?"
+90048,348,39,249000,Homer Simpson,Simpson Home,"Sure, if it'll give you peace of mind. But I'm not gonna die for many, many years."
+90049,348,40,257000,Marge Simpson,Simpson Home,"I know, I just wan--"
+90053,348,44,274000,Insurance Agent,MERRY WIDOW LIFE INSURANCE,"Mr. Simpson, before we can insure you, we need to ask you some questions. Have you ever had a heart attack?"
+90054,348,45,280000,Homer Simpson,MERRY WIDOW LIFE INSURANCE,Haven't we all?
+90055,348,46,281000,Insurance Agent,MERRY WIDOW LIFE INSURANCE,Strokes?
+90056,348,47,282000,Homer Simpson,MERRY WIDOW LIFE INSURANCE,"None. No wait, three. Since the last one, I don't remember so good."
+90057,348,48,288000,Insurance Agent,MERRY WIDOW LIFE INSURANCE,Are you a smoker?
+90058,348,49,290000,Homer Simpson,MERRY WIDOW LIFE INSURANCE,Yes I am.
+90059,348,50,291000,Marge Simpson,MERRY WIDOW LIFE INSURANCE,You don't smoke!
+90060,348,51,292000,Homer Simpson,MERRY WIDOW LIFE INSURANCE,Sssh! I want her to think I'm cool!
+90061,348,52,296000,Homer Simpson,MERRY WIDOW LIFE INSURANCE,"If I sign it, it still counts!"
+90062,348,53,300000,Homer Simpson,MERRY WIDOW LIFE INSURANCE,My hemophilia!
+90063,348,54,304000,Homer Simpson,MERRY WIDOW LIFE INSURANCE,Uninsurable?!
+90065,348,56,312000,Marge Simpson,Simpson Home,I'm not gonna worry just because Homer doesn't have insurance. A lot of people don't!
+90066,348,57,317000,Announcer,Simpson Home,"Wifetime TV presents, ""From Homemaker to Homeless..."""
+90068,348,59,317000,Brenda,Simpson Home,"Oh Roger, I just love our present lifestyle..."
+90069,348,60,326000,Roger,Simpson Home,"Don't thank me, thank our many debts and obligations."
+90070,348,61,333000,Brenda,Simpson Home,"Honey, stop kidding around. Honey?!"
+90072,348,63,340000,Banker,Bank,"Brenda, I'm afraid your husband had no insurance."
+90073,348,64,343000,Brenda,Bank,Well how will I feed my family?
+90074,348,65,345000,Banker,Bank,You should have thought of that before you had children with a dead man.
+90076,348,67,350000,Marge Simpson,Simpson Home,"Oh, this is only based on a story. A true story!"
+90078,348,69,357000,Fashionable Lady,Street,Brenda! Where's your wealth?
+90079,348,70,360000,Brenda,Street,"Gone. Along with my sanity. But I'm still pretty, right? Right?"
+90080,348,71,371000,Announcer,Street,The real Brenda later went to Harvard medical school... as a cadaver.
+90081,348,72,371000,Marge Simpson,Street,We need to start saving!
+90082,348,73,374000,Marge Simpson,Street,Go easy on that -- it's gotta last 'til you're five.
+90085,348,76,385000,Bart Simpson,Simpson Home,"""Budget-O's""?"
+90086,348,77,387000,Marge Simpson,Simpson Home,That's right. It's much less expensive than the leading clown-based cereal. You just have to assemble it yourself.
+90087,348,78,398000,Marge Simpson,Simpson Home,We saved fifty cents on that purchase!
+90088,348,79,403000,Lisa Simpson,Simpson Home,"Mom, why are you so worried about money?"
+90089,348,80,404000,Marge Simpson,Simpson Home,"Oh, we're just saving for... a very rainy day."
+90091,348,81,409000,Bart Simpson,Simpson Home,You mean when the big tuna goes belly-up?
+90092,348,82,411000,Homer Simpson,Simpson Home,Huh?
+90093,348,83,412000,Marge Simpson,Simpson Home,"Well, I just think we should be building a nest egg."
+90094,348,84,415000,Homer Simpson,Simpson Home,"Way ahead of you, Marge -- I just ordered a series of tapes on saving money. They should get here soon. I paid a bundle for over-night delivery."
+90095,348,85,422000,Marge Simpson,Simpson Home,I have a book from the library with the same information!
+90096,348,86,425000,Homer Simpson,Simpson Home,Okay. I'll just hire a haulage firm to cart them away... at my expense!
+90097,348,87,431000,Homer Simpson,Simpson Home,Directory assistance?
+90098,348,88,432000,Marge Simpson,Simpson Home,No more directory assistance! It's not free!
+90099,348,89,434000,Homer Simpson,Simpson Home,"Well, I'll get a lawyer on that. No, a whole team of lawyers. Who will dine on mustard flown in from the Orient."
+90100,348,90,440000,Marge Simpson,Simpson Home,No more oriental mustard!
+90102,348,92,445000,Lisa Simpson,Springfield Elementary School,It's so embarrassing Mom is making us wear clothes from Goodwill.
+90103,348,93,451000,Nelson Muntz,Springfield Elementary School,Haw-haw! People died in those shirts.
+90105,348,95,466000,Moe Szyslak,Moe's Tavern,"Hey, hey, hey. No outside suds!"
+90106,348,96,469000,Homer Simpson,Moe's Tavern,"I'm sorry, Moe. Marge won't let me spend any money -- even counterfeit money!"
+90108,348,98,476000,Homer Simpson,Simpson Home,It's my money... I'm the one who earns it... drinking beer out of a thermos like an animal...
+90109,348,99,483000,Marge Simpson,Simpson Home,"Can you help me unload this soup from the car? There was a sale, so I bought four hundred cans."
+90110,348,100,488000,Homer Simpson,Simpson Home,"Marge, your penny-pinching rampage has gone too far."
+90111,348,101,491000,Marge Simpson,Simpson Home,"Oh Honey, I know it's not easy, but we've got to put money away."
+90112,348,102,496000,Homer Simpson,Simpson Home,"You can't enjoy money when you're dead, so why not have fun now?"
+90113,348,103,500000,Marge Simpson,Simpson Home,"Don't you think you've had enough ""fun?"""
+90114,348,104,503000,Marge Simpson,Simpson Home,"Last year, you spent five thousand dollars on donuts, two thousand on scalp massages, five hundred on body glitter--"
+90115,348,105,511000,Homer Simpson,Simpson Home,"Hey, I earn that money -- while you lounge around here, doing laundry and putting up drywall, I'm at work busting my hump."
+90116,348,106,517000,Marge Simpson,Simpson Home,"Oh please. From what I hear, you waltz in there at 10:30, take a nap on the toilet, then sit around ""Google""-ing your own name until lunch."
+89968,348,107,526000,Homer Simpson,Simpson Home,Who told you that?
+90117,348,108,527000,Marge Simpson,Simpson Home,"You shouted it while we were making love! Now look here, Mister. I pay the bills, I do the budget, and I'm in charge of the money."
+90118,348,109,543000,George Washington,Simpson Home,Are you going to let her push you around?
+90119,348,110,545000,Andrew Jackson,Simpson Home,"Yeah, show that skirt who's boss, see?"
+90120,348,111,548000,Benjamin Franklin,Simpson Home,"Give us our independence, Homer!"
+90121,348,112,550000,Homer Simpson,Simpson Home,"Yes, President Franklin."
+90122,348,113,551000,Benjamin Franklin,Simpson Home,"I, uh, was never president. I invented some kind of stove."
+90123,348,114,556000,Homer Simpson,Simpson Home,"Well, I invented a Popsicle made of Mountain Dew."
+90124,348,115,559000,Benjamin Franklin,Simpson Home,Sweet.
+90125,348,116,560000,Andrew Jackson,Simpson Home,"Yeah, yeah, that's swell."
+90127,348,118,570000,Marge Simpson,Simpson Home,My scrimpings!
+90129,348,120,580000,Homer Simpson,Simpson Home,You banged?
+90130,348,121,581000,Marge Simpson,Simpson Home,Did you spend our savings on a motor home?
+90131,348,122,584000,Homer Simpson,Simpson Home,"No, I spent our savings on the down payment for a motor home. I need a castle where I can be king!"
+90132,348,123,591000,Marge Simpson,Simpson Home,"Well I hope you enjoy it, your majesty -- 'cause I'm not speaking to you!"
+90133,348,124,605000,Homer Simpson,Simpson Home,Dammit!
+90135,348,126,609000,Homer Simpson,Motor Home,"Kids, your mother and I have decided to take a little break from each other. While we deal with our issues, I plan to go on ""Motorhome Makeover"" and trick this thing out like a palace, not like that dump you live in. All I need is for someone to start a show called ""Motorhome Makeover."""
+90136,348,127,625000,Bart Simpson,Motor Home,"I see. You were mad enough to leave our house, but not mad enough to leave our property? That's my half-assed Dad!"
+90137,348,128,632000,Homer Simpson,Motor Home,"Hey, I couldn't leave you kids. You're like my own family. Now check this place out!"
+90138,348,129,639000,Lisa Simpson,Motor Home,"Neat! When I sleep at Dad's, I call this bed."
+90139,348,130,642000,Bart Simpson,Motor Home,You can have it -- this one's way better.
+90140,348,131,644000,Lisa Simpson,Motor Home,That's a bread compartment.
+90141,348,132,645000,Bart Simpson,Motor Home,You're a bread compartment!
+90142,348,133,646000,Marge Simpson,Motor Home,"Kids, come back in the house!"
+90143,348,134,648000,Bart Simpson,Motor Home,"Oh, do we have to?"
+90144,348,135,650000,Marge Simpson,Motor Home,I melted string cheese over some corn chips!
+90145,348,136,652000,Lisa Simpson,Motor Home,Oh boy!
+90148,348,138,653000,Homer Simpson,Backyard,I've got Gameboys and caramel apples!
+90149,348,139,655000,Marge Simpson,Backyard,I'll let you sass me!
+90150,348,140,657000,Homer Simpson,Backyard,I'll let you punch me!
+90151,348,141,658000,Marge Simpson,Backyard,You can wear swimsuits instead of underwear!
+90152,348,142,661000,Homer Simpson,Backyard,We'll have Christmas tomorrow!
+90153,348,143,663000,Lisa Simpson,Backyard,Yay!
+90155,348,145,664000,Homer Simpson,Gas Station,Woo hoo! Free gas!
+90156,348,146,681000,New England Rv-er,Gas Station,"Well, it's a pleasure to meet another sultan of the slow lane. That's my rig over there."
+90157,348,147,685000,New England Rv-er,Gas Station,She's a Roam-a-way SilverCoach. Thirty-four feet of walnut-burled freedom.
+90158,348,148,692000,Homer Simpson,Gas Station,"Boy, I wouldn't mind driving that to the Holland, Michigan Tulip Festival."
+90159,348,149,696000,New England Rv-er,Gas Station,"I'm lookin' for a place to dock the beast. I don't mean you, Martha."
+90160,348,150,700000,Martha,Gas Station,I've never loved you either. We use jokes to mask our pain at the death of our son. Really.
+90161,348,151,709000,Homer Simpson,Gas Station,"Hmmm. A place to dock, eh? I got room -- I have a back yard that makes my front yard look like an idiot."
+90162,348,152,716000,New England Rv-er,Gas Station,Can I bring the rest of the convoy?
+90163,348,153,720000,Homer Simpson,Gas Station,Are you crazy? Let twelve complete strangers live on my lawn?
+90164,348,154,724000,New England Rv-er,Gas Station,"Well, we'll give you regional beers."
+90165,348,155,726000,Homer Simpson,Gas Station,It's a deal! Woo hoo!
+90166,348,156,728000,New England Rv-er,Gas Station,And there you have it.
+90168,348,158,730000,Homer Simpson,Simpson Home,"Welcome, welcome. If my wife asks, you're here for a Boz Skaggs concert."
+90169,348,159,735000,Marge Simpson,Simpson Home,Homer!
+90170,348,160,737000,Marge Simpson,Simpson Home,What are all these recreational vehicles doing here?
+90171,348,161,740000,Homer Simpson,Simpson Home,These are my new friends. They like me for me... and my plumbing and gas hookups.
+90172,348,162,747000,New England Rv-er,Simpson Home,"Young lady, I like what you're driving -- is that one of them two-level Wander-Kings?"
+90173,348,163,752000,Marge Simpson,Simpson Home,This is a house!
+90174,348,164,759000,Southern Rv-er,Simpson Home,"Hey boys, let's play her the RV National Anthem!"
+90176,348,166,768000,Rod Flanders,Flanders Home,"Daddy, all the fumes are making me dizzy."
+90177,348,167,770000,Ned Flanders,Flanders Home,"Well now Roddy, the Lord wouldn't let us die this way."
+90178,348,168,773000,Jesus,Flanders Home,"That's right, Ned. Now you three take a little nap while I make some hot chocolate."
+90021,348,169,778000,Rod Flanders,Flanders Home,Yay!
+90179,348,171,782000,Southern Rv-er,Simpson Home,"I'VE BEEN EVERYWHERE, MAN / I'VE BEEN EVERYWHERE / OF TRAVEL, I'VE DONE MY SHARE, MAN / I'VE BEEN EVERYWHERE / I'VE BEEN TO SPRINGFIELD, SHELBYVILLE, OGDENVILLE, CAP CITY, / OGDENBERG, SHELBYTOWN, SPRING CITY, CAPFIELD, / WEST SPRINGFIELD, PARIS, ROME, AND SHELBYVILLE ADJACENT..."
+90181,348,173,798000,Homer Simpson,Simpson Home,That's a lot of places.
+90182,348,174,801000,Marge Simpson,Simpson Home,I know another place you can go -- to sleep!
+90183,348,175,804000,Homer Simpson,Simpson Home,"Sorry, Marge. We've got the power now. And you can't turn us off!"
+90184,348,176,811000,Marge Simpson,Simpson Home,"Can't turn off the power, eh?"
+90186,348,178,817000,Square Dance Caller,Backyard,SASHAY THIS AND FANCY THAT / WATCH THE DOG DANCE WITH THE CAT...
+90188,348,180,826000,Marge Simpson,Backyard,"Lights out, weirdoes!"
+90189,348,181,834000,Southern Rv-er,Backyard,"I was making a Monte Cristo sandwich when my crisper cut out. It's not golden brown, it's not brown, it's not nothin'. Damn."
+90192,348,184,854000,Marge Simpson,Simpson Home,You don't belong on the lawn. You belong in your bed with your wife!
+90193,348,185,858000,Homer Simpson,Simpson Home,That's no marriage bed -- it's a loveless slab of bossiness!
+90194,348,186,862000,Marge Simpson,Simpson Home,"Well, you're not perfect either!"
+90195,348,187,865000,Homer Simpson,Simpson Home,Name one way I'm not!
+90196,348,188,867000,Marge Simpson,Simpson Home,You hide food in my hair... you think brushing your teeth is foreplay...
+90197,348,189,871000,Marge Simpson,Simpson Home,I'll have you know I could have married Sideshow Mel!
+90198,348,190,875000,Bart Simpson,Simpson Home,"Boy, they're really going at it. Do you think they're gonna get divorced?"
+90199,348,191,878000,Lisa Simpson,Simpson Home,"No, I don't see Dad doing all that paperwork."
+90200,348,192,881000,Homer Simpson,Simpson Home,I seem to recall you asked me to get this fat!
+90201,348,193,884000,Lisa Simpson,Simpson Home,Oh boy. Let's get out of here before Dad does a bad impression of Mom.
+90202,348,194,889000,Homer Simpson,Simpson Home,I'm Marge Simpson. Don't eat off the floor.
+90204,348,196,892000,Marge Simpson,YARD,And I'm so sick of that story about finding an onion ring in your French fries. It was twenty years ago!
+90205,348,197,902000,Homer Simpson,YARD,That was my Woodstock!
+90209,348,199,905000,Bart Simpson,Motor Home,You know what started all this trouble? This motor home. How could a vehicle this cool destroy a marriage that crappy?
+90210,348,200,912000,Lisa Simpson,Motor Home,"Hey, I know this is a crazy idea, but hear me out. What if we..."
+90211,348,201,915000,Bart Simpson,Motor Home,Take this back to the dealer?
+90212,348,202,918000,Lisa Simpson,Motor Home,"Wow, I was gonna say ""call Reverend Lovejoy,"" but I guess this could work."
+90214,348,204,921000,Homer Simpson,House,"Oh yeah, Marge? What about my womanly needs?"
+90217,348,207,933000,Bart Simpson,RV,"Slowly, slowly -- the RV dealer is across town under that gorilla blimp."
+90218,348,208,940000,Lisa Simpson,RV,How do you know that's their blimp?
+90219,348,209,941000,Bart Simpson,RV,Duh! It's Kamper Kong.
+90221,348,211,946000,Salesman,RV DEALERSHIP,"Bob, word on the street is there's two kids trying to return an RV."
+90222,348,212,950000,Cowboy Bob,RV DEALERSHIP,Return an RV?! Return an RV?!
+90223,348,213,954000,Cowboy Bob,RV DEALERSHIP,Tie me to the Kong and cut its tethers.
+90225,348,215,957000,Marge Simpson,Simpson Home,You don't take anything seriously. Not even your bankruptcy hearing!
+90226,348,216,962000,Homer Simpson,Simpson Home,"Hey, that judge thought I rocked. Case closed! Although my case is still open."
+90228,348,218,966000,Homer Simpson,Backyard,"If you need me, I'll be in my trailer!"
+90229,348,219,972000,Homer Simpson,Backyard,"My RV is gone! It was more than a motor home. It was a car I could go to the bathroom in. Hey, a note."
+90231,348,221,983000,Marge Simpson,Simpson Home,"""Dear Mom and Dad: We don't want you guys to split up, so we're driving the RV back to the dealer."" We've got to stop them."
+90232,348,222,993000,Homer Simpson,Simpson Home,"Oh, this is a parent's worst nightmare! They've stolen a car and they're home alone."
+90234,348,224,1001000,Lisa Simpson,RV,"Let's see, the RV dealership is across the freeway on the corner of... hey, this is a Flintstones Fun Map."
+90235,348,225,1008000,Lisa Simpson,RV,"Look, Dad wrote something: ""Dino -- short for dinosaur? Remember to ask Jeeves."""
+90237,348,227,1010000,Bart Simpson,RV,We're on the freeway!
+90241,348,229,1026000,Chief Wiggum,Freeway,"Would you look at those Simpson kids? Last year it was Razor scooters, this year they're driving RVs. When I was a kid, my Mom would give me an empty egg carton and I'd pretend it was a spaceship to the moon. You'll never guess what I used for astronauts."
+90242,348,230,1040000,Lou,Freeway,"Uh, I'm gonna say eggs."
+90243,348,231,1042000,Chief Wiggum,Freeway,Shut up.
+90245,348,233,1046000,Marge Simpson,Simpson Car,"Oh my God, there they are!"
+90247,348,235,1058000,Marge Simpson,TURNPIKE,"Oh, I've lost them! I can't see past all the SUVs!"
+90248,348,236,1063000,Homer Simpson,TURNPIKE,Don't worry about the SUVs. There's a gentle curve up ahead.
+90251,348,239,1073000,Homer Simpson,RV,Bart! Pull over!
+90252,348,240,1075000,Marge Simpson,RV,"We'll stop fighting, we promise!"
+90253,348,241,1078000,Bart Simpson,RV,Prove it!
+90254,348,242,1079000,Lisa Simpson,RV,"Yeah, kiss and make up!"
+90255,348,243,1080000,Marge Simpson,RV,"We're not quite there yet, but we've opened up a dialogue!"
+90256,348,244,1084000,Bart Simpson,RV,Not good enough! Kiss!
+90257,348,245,1088000,Bart Simpson,RV,"French it up, lover boy!"
+90258,348,246,1089000,Homer Simpson,RV,I'm not a machine -- I can't just turn it on!
+90259,348,247,1092000,Marge Simpson,RV,"Oh, come here!"
+90260,348,248,1097000,Marge Simpson,RV,Now pull over!
+90261,348,249,1099000,Bart Simpson,RV,"First, raise my allowance."
+90262,348,250,1100000,Homer Simpson,RV,Why you little...!
+90264,348,252,1105000,Lisa Simpson,RV,We're going downhill... and I can't reach the brakes!
+90266,348,254,1117000,Lisa Simpson,RV,Look!
+90267,348,255,1118000,Lisa Simpson,RV,"""Runaway Truck Lane!"" We're saved!"
+90268,348,256,1124000,Lisa Simpson,RV,"Ah, rats."
+90269,348,257,1138000,Homer Simpson,RV,Thank God for that Turkish freighter. Now we'll just go get 'em and...
+90270,348,258,1144000,Marge Simpson,RV,My kids are on your boat -- turn back!
+90271,348,259,1147000,Turkish Captain,RV,"I see no kids. And we must get these season one ""Northern Exposure"" DVDs to Kahramanmaras."
+90272,348,260,1156000,Bart Simpson,RV,Help us!
+90273,348,261,1158000,Homer Simpson,RV,"Bring back our children, you Cyprus-splitting jerks!"
+90274,348,262,1161000,Turkish Captain,RV,"Just for that, we keep your children."
+90275,348,263,1164000,Homer Simpson,RV,Will you raise them Christian?
+90276,348,264,1166000,Turkish Captain,RV,Coptic Christian.
+90277,348,265,1168000,Homer Simpson,RV,Noooo!
+90207,348,266,1171000,Marge Simpson,RV,"Captain, wait! I have something here that might change your mind!"
+90239,348,267,1176000,Turkish Captain,RV,What are you showing me? Soup?
+90279,348,268,1177000,Marge Simpson,RV,"Three hundred cans of Budget Club mushroom soup! If you have some noodles and tuna fish, you could make a casserole that's small on price, but big on flavor."
+90280,348,269,1189000,Turkish Captain,RV,You are a wise woman. It is a shame you dress like a Lebanese prostitute. Return to the docks!
+90281,348,270,1195000,Marge Simpson,RV,"Well, if he thinks he's getting a corner piece, forget it."
+90283,348,272,1206000,Homer Simpson,REAR DECK OF SHIP,"Wow, Marge -- once again, your Mom-ly wisdom averted disaster."
+90284,348,273,1210000,Homer Simpson,REAR DECK OF SHIP,And I promise I will return this RV first thing in the morning. Easy... easy... easy... easy...
+90287,348,276,1226000,Cowboy Bob,REAR DECK OF SHIP,Water damage -- can't be returned. I win again!
+90288,348,277,1234000,Marge Simpson,REAR DECK OF SHIP,"Hey, it's only money. And it did make a cool splash."
+90289,348,278,1240000,Homer Simpson,REAR DECK OF SHIP,"Marge, you're taking this pretty well."
+90290,348,279,1243000,Turkish Crewman,REAR DECK OF SHIP,"Dude, she seemed tense, so we put a little hashish in her meal."
+90291,348,280,1247000,Homer Simpson,REAR DECK OF SHIP,Cool.
+90292,348,281,1248000,Marge Simpson,REAR DECK OF SHIP,"Which came first, turkey the bird or Turkey the you guys?"
+90293,348,282,1253000,Marge Simpson,REAR DECK OF SHIP,"If you don't want to say it, just think it."
+90294,348,283,1256000,Southern Rv-er,REAR DECK OF SHIP,"I'VE BEEN EVERYWHERE, MAN / I'VE BEEN EVERYWHERE, MAN / CROSSED THE DESERTS BARE, MAN / I'VE BREATHED THE MOUNTAIN AIR, MAN / TRAVEL...I'VE HAD MY SHARE, MAN / I'VE BEEN EVERYWHERE / I'VE BEEN TO / RENO / CHICAGO / FARGO / MINNESOTA / BUFFALO / TORONTO / WINSLOW / SARASOTA / WICHITA / TULSA / OTTAWA / OKLAHOMA / TAMPA / PANAMA / MATTUA / LA PALOMA / BANGOR / BALTIMORE / SALVADOR / AMARILLO / TOCAPILLO / POCOTELLO / AMPERDELLO / I'M A KILLER / I'VE BEEN EVERYWHERE, MAN / I'VE BEEN EVERYWHERE, MAN / CROSSED THE DESERTS BARE, MAN / I'VE BREATHED THE MOUNTAIN AIR, MAN / TRAVEL...I'VE HAD MY SHARE, MAN / I'VE BEEN EVERYWHERE"

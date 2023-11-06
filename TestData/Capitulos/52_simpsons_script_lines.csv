@@ -1,0 +1,301 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+5996,52,1,57000,Homer Simpson,Springfield Nuclear Power Plant,"Mmm, do - nuts."
+5997,52,2,64000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey Homer, slow down. You're gonna choke or somethin'."
+5998,52,3,67000,Homer Simpson,Springfield Nuclear Power Plant,Don't tell me how to eat donuts --
+5999,52,4,72000,Carl Carlson,Springfield Nuclear Power Plant,"Hey, Homer's choking again."
+6000,52,5,73000,Lenny Leonard,Springfield Nuclear Power Plant,Hmm. Isn't there a first aid chart around here somewhere?
+6001,52,6,76000,Carl Carlson,Springfield Nuclear Power Plant,Somebody scare him.
+6002,52,7,77000,Charlie,Springfield Nuclear Power Plant,That's for hiccups.
+6003,52,8,81000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey, look at this."
+6004,52,9,82000,Lenny Leonard,Springfield Nuclear Power Plant,Softball starts this week.
+6005,52,10,85000,Homer Simpson,Springfield Nuclear Power Plant,Softball?
+6006,52,11,86000,Homer Simpson,Springfield Nuclear Power Plant,Who's next?
+6007,52,12,90000,Homer Simpson,Springfield Nuclear Power Plant,What's the matter with you guys?
+6008,52,13,92000,Lenny Leonard,Springfield Nuclear Power Plant,"Homer, last year we were two and twenty-eight."
+6009,52,14,94000,Homer Simpson,Springfield Nuclear Power Plant,"Look, I know it wasn't our best season."
+6010,52,15,96000,Lenny Leonard,Springfield Nuclear Power Plant,"Actually, it was."
+6011,52,16,97000,Homer Simpson,Springfield Nuclear Power Plant,"Well, this year's gonna be different."
+6012,52,17,98000,Carl Carlson,Springfield Nuclear Power Plant,Oh yeah. What makes you so damn sure?
+6014,52,18,101000,Homer Simpson,Springfield Nuclear Power Plant,I have a secret weapon.
+6015,52,19,103000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey, he's been holding' out on us."
+6016,52,20,106000,Charlie,Springfield Nuclear Power Plant,A secret weapon? I wonder what it could be.
+6018,52,22,125000,Homer Simpson,Simpson Home,"Come here boy, I want to show you something."
+6019,52,23,126000,Bart Simpson,Simpson Home,What's that? A home-made bat?
+6020,52,24,128000,Homer Simpson,Simpson Home,"It's something very special. A home-made bat. It all started last year, during a terrible thunderstorm, when I locked myself out of the house..."
+6021,52,25,139000,Homer Simpson,Simpson Home,"Sheltering myself with a large piece of sheet metal, I ran for cover under the tallest tree I could find."
+6022,52,26,147000,Homer Simpson,Simpson Home,"Something told me this was a very special, very magical, piece of wood that I could make a bat out of."
+6023,52,27,155000,Homer Simpson,Simpson Home,I put my homemade football on hold and set to work making the world's greatest bat.
+6024,52,28,169000,Marge Simpson,Simpson Home,"Homie, come to bed."
+6025,52,29,172000,Marge Simpson,Simpson Home,"Homer, go back to the garage."
+6026,52,30,176000,Homer Simpson,Simpson Home,And here it is.
+6027,52,31,181000,Bart Simpson,Simpson Home,Wow! How many home runs you gonna hit with that?
+6028,52,32,185000,Homer Simpson,Simpson Home,Let's see... we play thirty games... ten at bats a game... three thousand.
+6031,52,35,197000,Lenny Leonard,Park,"Hit one here, Charlie."
+6032,52,36,201000,Umpire,Park,"Okay, let's go over the ground rules. You can't leave first until you chug a beer. Any man scoring has to chug a beer. You have to chug a beer at the top of all odd numbered innings. Oh, and the fourth inning is the beer inning."
+6033,52,37,212000,Chief Wiggum,Park,"Hey, we know how to play softball."
+6034,52,38,214000,Umpire,Park,Play ball!
+6035,52,39,216000,Dispatcher,Park,Attention all units! Attention all units! Armored car being robbed at...
+6036,52,40,220000,Chief Wiggum,Park,Turn off that damn radio!
+6037,52,41,223000,Marge Simpson,Park,And the next man wants to hit the ball too. And he does. And there he goes off in that direction. And everyone is happy.
+6038,52,42,230000,Bart Simpson,Park,"Uh, Mom, why don't you let me call the game."
+6039,52,43,233000,Marge Simpson,Park,That's all right dear. I can do it.
+6040,52,44,240000,Chief Wiggum,Park,"Hey, stop that!"
+6041,52,45,244000,Carl Carlson,Park,"Okay, Homer, bases loaded and you're up. Where's that secret weapon?"
+6042,52,46,248000,Homer Simpson,Park,"Check it out, boys. My magic bat."
+5406,52,47,251000,Carl Carlson,Park,That's it?
+6043,52,48,253000,Lenny Leonard,Park,"Yeah, I got a magic bat, too."
+6044,52,49,255000,Carl Carlson,Park,And I got an enchanted jock strap.
+6045,52,50,259000,Homer Simpson,Park,"Yeah, just watch."
+6046,52,51,275000,Homer Simpson,Park,Woo hoooooo!
+6047,52,52,281000,Homer Simpson,Park,Ha ha. Cops can't win!
+6048,52,53,283000,Chief Wiggum,Park,Get his license and registration.
+6049,52,54,283000,Eddie,Park,"Right, Chief."
+6051,52,56,290000,Lisa Simpson,Simpson Home,"Wow, Dad."
+6052,52,57,291000,Bart Simpson,Simpson Home,"Homer, can I get you a beer?"
+6053,52,58,293000,Lisa Simpson,Simpson Home,"No, I want to get him a beer."
+6054,52,59,296000,Homer Simpson,Simpson Home,"Kids, kids, kids. You can each get me a beer. But first let's see it again in super slow motion."
+6055,52,60,325000,Apu Nahasapeemapetilon,Simpson Home,Such a mighty wallop.
+6056,52,61,332000,Carl Carlson,Simpson Home,"Hey, I got my magic bat off a piano."
+6057,52,62,334000,Charlie,Simpson Home,My sister let me use her wooden leg.
+6060,52,65,344000,Waylon Smithers,MILLIONAIRE'S CLUB,"Good news, sir! The plant's softball team has won again. If we beat Shelbyville next week we capture the pennant."
+6061,52,66,349000,C. Montgomery Burns,MILLIONAIRE'S CLUB,"Did you hear that, Ari? My boys need only to thump your tub and the title is ours."
+6062,52,67,354000,ARI,MILLIONAIRE'S CLUB,Ha!! My gladiators from my power plant will crush your team like nine flabby grapes.
+6063,52,68,360000,C. Montgomery Burns,MILLIONAIRE'S CLUB,I disagree.
+6064,52,69,362000,ARI,MILLIONAIRE'S CLUB,Would you care to bet a million dollars on that?
+6065,52,70,364000,C. Montgomery Burns,MILLIONAIRE'S CLUB,"Oh, if we're going to bet, why don't we make it interesting?"
+6066,52,71,367000,ARI,MILLIONAIRE'S CLUB,What? A million dollars isn't interesting to you?
+6067,52,72,369000,C. Montgomery Burns,MILLIONAIRE'S CLUB,"Oh, did you say a million? I'm... I'm sorry, my mind was elsewhere. I thought you would start with a small amount, then we would bait each other and... well, you know how it goes. Yes... certainly, a million will be fine."
+6068,52,73,382000,C. Montgomery Burns,MILLIONAIRE'S CLUB,Um-hm.
+6070,52,75,382000,C. Montgomery Burns,Burns's Office,"Smithers, I've been thinking. Is it wrong to cheat in order to win a million dollar bet?"
+6071,52,76,386000,Waylon Smithers,Burns's Office,"Yes, sir."
+6072,52,77,387000,C. Montgomery Burns,Burns's Office,Let me rephrase that. Is it wrong if I cheat in order to win a million dollar bet?
+6073,52,78,392000,Waylon Smithers,Burns's Office,"No, sir! Whom should I kill?"
+6075,52,79,394000,C. Montgomery Burns,Burns's Office,"No, Smithers. I've decided to bring in a few ringers. Professional baseballers."
+6076,52,80,400000,C. Montgomery Burns,Burns's Office,"We'll give them token jobs at the plant and have them play on our softball team. Honus Wagner, Cap Anson, Mordecai ""Three Finger"" Brown..."
+6077,52,81,408000,Waylon Smithers,Burns's Office,Uh... sir...
+6078,52,82,410000,C. Montgomery Burns,Burns's Office,"What is it, Smithers?"
+6079,52,83,411000,Waylon Smithers,Burns's Office,"I'm afraid... all those players have retired and... uh... passed on. In fact, your right fielder has been dead for a hundred and thirty years."
+6080,52,84,420000,C. Montgomery Burns,Burns's Office,"Damnation! All right, find me some good players. Living players! Scour the professional ranks. The American League. The National League. The Negro Leagues."
+6081,52,85,429000,Waylon Smithers,Burns's Office,"I'm on my way, sir."
+6082,52,86,430000,C. Montgomery Burns,Burns's Office,"Oh, and Smithers... You have twenty-four hours."
+6084,52,88,439000,Jose Canseco,Baseball Card Show,"I get $50,000 to play one game?"
+6085,52,89,441000,Waylon Smithers,Baseball Card Show,"That's right, Mr. Canseco."
+6086,52,90,443000,Jose Canseco,Baseball Card Show,"Well, it's a pay cut. But what the hey, it sounds like fun."
+6088,52,92,447000,Waylon Smithers,Woods,Ow.
+6089,52,93,450000,Mike Scioscia,Woods,"Hey, sorry! I thought you were a deer."
+6090,52,94,453000,Waylon Smithers,Woods,"That's okay, happens all the time. Are you Mike Scioscia?"
+6091,52,95,457000,Mike Scioscia,Woods,That's me.
+6092,52,96,458000,Waylon Smithers,Woods,"Uh, how do you like working for the Dodgers?"
+6093,52,97,460000,Mike Scioscia,Woods,"Well, it's okay. But sometimes I wish I had something a little more blue collar. You know, with big machines and cool dials and stuff, like an oil refinery or a hydro-electric plant."
+6094,52,98,470000,Waylon Smithers,Woods,We should talk.
+6096,52,100,471000,Tour Guide,SOUTHERN MANSION,"And this is Elvis' rec room. When the King wasn't rehearsing or exercising, he liked to unwind by watching up to three TVs at once."
+6097,52,101,480000,Ozzie Smith,SOUTHERN MANSION,"Man, oh, man, what a lifestyle."
+6098,52,102,483000,Waylon Smithers,SOUTHERN MANSION,"Excuse me, are you Ozzie Smith?"
+6099,52,103,484000,Ozzie Smith,SOUTHERN MANSION,Yes.
+6100,52,104,485000,Waylon Smithers,SOUTHERN MANSION,I have a proposition for you...
+6102,52,106,489000,Waylon Smithers,Suburban Home,"Hello, are you Don Mattingly?"
+6103,52,107,491000,Don Mattingly,Suburban Home,"Yes, yes I am. Come in. Come in. Can I get you something? What's your name?"
+6105,52,109,498000,Waylon Smithers,NIGHT CLUB,How would you like to be a ringer on a small town company softball team?
+6106,52,110,503000,Steve Sax,NIGHT CLUB,Would I!
+6108,52,112,505000,C. Montgomery Burns,Springfield Nuclear Power Plant,And now I'd like to introduce the new members of our happy power plant family. Our new security guard... Roger Clemens...
+6109,52,113,508000,Roger Clemens,Springfield Nuclear Power Plant,Hello.
+6110,52,114,511000,C. Montgomery Burns,Springfield Nuclear Power Plant,"our new janitor, Wade Boggs..."
+6111,52,115,512000,Wade Boggs,Springfield Nuclear Power Plant,How you doin'?
+6112,52,116,513000,C. Montgomery Burns,Springfield Nuclear Power Plant,"our new lunchroom cashier... Ken Griffey, Jr...."
+6113,52,117,516000,KEN GRIFFEY JR.,Springfield Nuclear Power Plant,"Hey, what's up guys?"
+6114,52,118,517000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Our new, well uh, we'll make up jobs for these fellows later... Please say hello to Steve Sax, Don Mattingly, Darryl Strawberry, Ozzie Smith, Mike Scioscia, and Jose Canseco."
+6115,52,119,526000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, by the way, you new fellows, there's a sign up sheet for the company softball team on the bulletin board over there. Eh, just in case you wish to play."
+6116,52,120,536000,Lenny Leonard,Springfield Nuclear Power Plant,"Hey, wait a minute, Mr. Burns. With them on the team, you won't need us!"
+6117,52,121,540000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Well... duh. You, Scioscia, sign up..."
+6118,52,122,543000,Mike Scioscia,Springfield Nuclear Power Plant,"Thanks just the same, but I'm here to run the solid contaminant encapsulator."
+6119,52,123,545000,C. Montgomery Burns,Springfield Nuclear Power Plant,One more outburst like that and I'll send you back to the big leagues!
+6120,52,124,551000,Homer Simpson,Springfield Nuclear Power Plant,You're Darryl Strawberry.
+6121,52,125,552000,Darryl Strawberry,Springfield Nuclear Power Plant,Yes.
+6122,52,126,553000,Homer Simpson,Springfield Nuclear Power Plant,You play right field.
+6123,52,127,554000,Darryl Strawberry,Springfield Nuclear Power Plant,Yes.
+6124,52,128,555000,Homer Simpson,Springfield Nuclear Power Plant,I play right field too.
+6125,52,129,555000,Darryl Strawberry,Springfield Nuclear Power Plant,So?
+6126,52,130,556000,Homer Simpson,Springfield Nuclear Power Plant,"Well, are you better than me?"
+6127,52,131,558000,Darryl Strawberry,Springfield Nuclear Power Plant,"Well, I've never met you, but... yes."
+6129,52,133,561000,Homer Simpson,Simpson Home,It's not fair. Me and the guys worked so hard to get to the championship game and now we'll be sitting on a bench.
+6130,52,134,567000,Marge Simpson,Simpson Home,You hit so many home runs this year. What makes you think this Darryl Strawberry character is better than you?
+6131,52,135,573000,Homer Simpson,Simpson Home,"Marge, forget it. He's bigger than me, faster than me, stronger than me and he already has more friends around the plant than I do."
+6132,52,136,580000,Bart Simpson,Simpson Home,You make me sick Homer. You're the one who told me I could do anything if I just put my mind to it.
+6133,52,137,586000,Homer Simpson,Simpson Home,"Well now that you're a little bit older, I can tell you that's a crock. No matter how good you are at something, there's always about a million people better than you."
+6134,52,138,593000,Bart Simpson,Simpson Home,"Gotcha. Can't win, don't try."
+6136,52,140,595000,C. Montgomery Burns,Park,"As your new manager, I want to say this up front. No one is assured a spot in the starting line-up. I don't care if your name is Steve Sax, Darryl Strawberry, or... Smithers, what's one of the bad players' names?"
+6137,52,141,606000,Waylon Smithers,Park,"Homer Simpson, sir."
+6138,52,142,608000,C. Montgomery Burns,Park,Or Homer Simpson.
+6139,52,143,609000,C. Montgomery Burns,Park,"Secondly, instead of beer, from now on you will all be drinking this!"
+6140,52,144,612000,C. Montgomery Burns,Park,"It's a brain and nerve tonic. Rich in proteids and electromagnetic juices. It promotes robust health. Of course, it has been known to cause gigantism, but only in rare cases. Try some."
+6141,52,145,624000,KEN GRIFFEY JR.,Park,Wow! It's like there's a party in my mouth and everyone's invited.
+6142,52,146,628000,C. Montgomery Burns,Park,"Excellent. Now, let's begin our training, shall we? Smithers -- the medicine balls."
+6143,52,147,653000,Waylon Smithers,Park,"What are you going to do with your million dollars, sir?"
+6144,52,148,656000,C. Montgomery Burns,Park,"Oh, I don't know. Throw it on the pile, I suppose."
+6145,52,149,658000,Hypnotist,Park,You are all very good players.
+6146,52,150,661000,ALL THE PLAYERS,Park,We are all very good players.
+6147,52,151,663000,Hypnotist,Park,You will beat Shelbyville.
+6148,52,152,666000,ALL THE PLAYERS,Park,We will beat Shelbyville.
+6149,52,153,668000,Hypnotist,Park,You will give one hundred and ten percent.
+6150,52,154,671000,ALL THE PLAYERS,Park,That's impossible no one can give more than one hundred percent. By definition that is the most any one can give.
+6151,52,155,681000,Homer Simpson,Park,I got it! I got it!
+6152,52,156,685000,Darryl Strawberry,Park,Yes!
+6153,52,157,687000,Homer Simpson,Park,"Hey, I called for that!"
+6154,52,158,689000,C. Montgomery Burns,Park,"Put a lid on it, Simpson. There's no ""I"" in ""team""."
+6155,52,159,691000,Darryl Strawberry,Park,"Some of these guys have a bad attitude, skip."
+6156,52,160,695000,C. Montgomery Burns,Park,"They sure do, Strawberry."
+6160,52,162,700000,Carl Carlson,Springfield Nuclear Power Plant,"Hey Scioscia, I don't get it. You're a ringer but you're here every night, in the core, bustin' your butt haulin' radioactive waste."
+6161,52,163,706000,Mike Scioscia,Springfield Nuclear Power Plant,"Well Carl, it's such a relief from the pressures of playing big league ball. I mean, there you make any kind of mistake and boom, the press is all over you."
+6162,52,164,715000,Mike Scioscia,Springfield Nuclear Power Plant,Uh-oh.
+6163,52,165,716000,Carl Carlson,Springfield Nuclear Power Plant,"Ah, don't worry about it."
+6164,52,166,717000,Mike Scioscia,Springfield Nuclear Power Plant,"Oh man, is this ever sweet."
+6166,52,168,721000,KEN GRIFFEY JR.,BALL FIELD,Pick me! Pick me!
+6167,52,169,723000,Ralph Wiggum,BALL FIELD,I pick Ken Griffey Jr.
+6168,52,170,725000,Bart Simpson,BALL FIELD,"Aw geez... okay, I'll take Milhouse."
+6169,52,171,729000,Ralph Wiggum,BALL FIELD,"Hey, Mr. Boggs! Will you be on my team?"
+6170,52,172,732000,Wade Boggs,BALL FIELD,You got yourself a player.
+6171,52,173,733000,Bart Simpson,BALL FIELD,"Damn! All right, I'll take Lewis."
+6172,52,174,737000,Ralph Wiggum,BALL FIELD,I'll take Jose Canseco.
+6175,52,177,738000,C. Montgomery Burns,Park,Mattingly! Get rid of those sideburns!
+6176,52,178,738000,Don Mattingly,Park,What sideburns?
+6177,52,179,738000,C. Montgomery Burns,Park,"You heard me, hippy."
+6178,52,180,740000,C. Montgomery Burns,Park,Mattingly! Get rid of those sideburns.
+6179,52,181,743000,Don Mattingly,Park,What sideburns?
+6180,52,182,744000,C. Montgomery Burns,Park,"You heard me, hippie."
+6181,52,183,745000,Homer Simpson,Park,"These guys aren't so tough. I've got ""Wonder Bat."""
+6184,52,186,755000,C. Montgomery Burns,BALL FIELD,Take a knee boys.
+6185,52,187,756000,C. Montgomery Burns,BALL FIELD,"Tomorrow is the biggest day of your lives. The Shelbyville game. So lights out at seven-thirty and abstain from coffee, tea, and cola drinks. Make no mistake, they pack a wallop."
+6186,52,188,767000,Darryl Strawberry,BALL FIELD,"Sure do, Skip."
+6187,52,189,768000,C. Montgomery Burns,BALL FIELD,"Yes. Now, before I post the starting line-up I want to assure those of you whose names are not on the list, that I'm very disappointed in you. Something was lacking, let's call it heart."
+6188,52,190,779000,Darryl Strawberry,BALL FIELD,"No hustle either, Skip."
+6189,52,191,779000,C. Montgomery Burns,BALL FIELD,"That's right, Darryl."
+6190,52,192,784000,Lenny Leonard,BALL FIELD,"Aw, nuts!"
+6191,52,193,787000,Homer Simpson,BALL FIELD,"Please, please, please, I want to make the team. Clemens, did I make the team?"
+6192,52,194,791000,Roger Clemens,BALL FIELD,You sure did.
+6074,52,195,792000,Homer Simpson,BALL FIELD,"I did! Whoo-hoo! Whoo-hoo! In your face, Strawberry!"
+6158,52,196,796000,Roger Clemens,BALL FIELD,"Wait a minute, are you Ken Griffey Jr.?"
+6159,52,197,797000,Homer Simpson,BALL FIELD,No.
+6193,52,198,798000,Roger Clemens,BALL FIELD,"Sorry, I didn't mean to get your hopes up."
+6196,52,201,813000,C. Montgomery Burns,Burns Manor,"Smithers, there's no way I can lose this bet. Unless, of course, my nine all-stars fall victim to nine separate misfortunes and are unable to play tomorrow. But that will never happen. Three misfortunes, that's possible. Seven misfortunes, there's an outside chance. But nine misfortunes... I'd like to see that."
+6199,52,204,832000,Steve Sax,Car,What a nice little town. Maybe I'll buy a home here when I retire.
+6200,52,205,839000,Steve Sax,Car,"What seems to be the problem, officers?"
+6201,52,206,841000,Eddie,Car,"That's enough out of you, smart guy."
+6202,52,207,843000,Lou,Car,Reach for your license... slowly.
+6203,52,208,847000,Eddie,Car,"Well well, Steve Sax from New York City."
+6204,52,209,850000,Lou,Car,"I heard some guy got killed in New York City, and they never solved the case. But you wouldn't know anything about that -- now would you Steve?"
+6205,52,210,859000,Steve Sax,Car,But there's hundreds of unsolved murders in New York City.
+6206,52,211,862000,Lou,Car,"You don't know when to keep your mouth shut, do you Saxy boy?"
+6208,52,213,870000,Dr. Julius Hibbert,Hospital,"Uh, Mike, try to lift your arm."
+6209,52,214,873000,Mike Scioscia,Hospital,Can't... lift... arm... or... speak... at... normal... rate.
+6210,52,215,880000,Dr. Julius Hibbert,Hospital,"Well, I'm afraid you have a case of acute radiation poisoning, Mr. Scioscia."
+6211,52,216,884000,Mike Scioscia,Hospital,Will... I... be... able... to... play... softball... tomorrow?
+6212,52,217,891000,Dr. Julius Hibbert,Hospital,"No, by tomorrow you'll barely be able to breathe."
+6213,52,218,895000,Mike Scioscia,Hospital,Oh... man.
+6214,52,219,896000,Nurse,Hospital,"Dr. Hibbert, Ken Griffey, Jr. needs to see you immediately. We think it's an overdose of nerve tonic."
+6215,52,220,904000,Dr. Julius Hibbert,Hospital,Good Lord! Gigantism!
+6217,52,222,909000,Woman,Street,My baby! My baby!
+6218,52,223,911000,JOSE CONSECO,Street,"Don't worry, ma'am -- I'll save your baby."
+6219,52,224,916000,Woman,Street,"Oh, thank you, Mr. Conseco."
+6220,52,225,920000,Woman,Street,My cat!
+6221,52,226,921000,JOSE CONSECO,Street,"Never fear, ma'am! I'll save your cat!"
+6222,52,227,929000,Woman,Street,My player piano!
+6223,52,228,931000,JOSE CONSECO,Street,"Oh, man."
+6226,52,230,936000,Homer Simpson,Simpson Home,One thing I'm good at and I can't do it anymore.
+6227,52,231,940000,Marge Simpson,Simpson Home,"Oh, Homie. You're good at lots of things."
+6228,52,232,943000,Homer Simpson,Simpson Home,Like what?
+6229,52,233,944000,Marge Simpson,Simpson Home,Like snuggling...
+6230,52,234,945000,Homer Simpson,Simpson Home,"Yeah, but none of my friends can watch me."
+6232,52,236,949000,Barney Gumble,Moe's Tavern,"And I say, England's greatest Prime Minister was Lord Palmerston."
+6233,52,237,955000,Wade Boggs,Moe's Tavern,Pit the Elder.
+6234,52,238,957000,Barney Gumble,Moe's Tavern,Lord Palmerston!
+6235,52,239,959000,Wade Boggs,Moe's Tavern,Pit the Elder!
+6236,52,240,961000,Barney Gumble,Moe's Tavern,"Okay, you asked for it, Boggs!"
+6237,52,241,965000,Moe Szyslak,Moe's Tavern,"Yeah, that's showin' him, Barney. Pit the Elder."
+6238,52,242,968000,Barney Gumble,Moe's Tavern,Lord Palmerston!
+6240,52,244,971000,Chief Wiggum,Springfield City Jail,"Nice work, boys. I think we can close the book on just about every unsolved crime in our fair city."
+6241,52,245,976000,Steve Sax,Springfield City Jail,Don't I at least get to call my lawyer?
+6242,52,246,979000,Chief Wiggum,Springfield City Jail,"You watch too many movies, Sax."
+6245,52,249,983000,Ozzie Smith,Springfield Mystery Spot,How long does it take to see this thing? I'm kind of in a hurry.
+6246,52,250,986000,Ticket Taker,Springfield Mystery Spot,"Well, it's hard to say, my friend. Once you go in, you may never come out."
+6247,52,251,991000,Ozzie Smith,Springfield Mystery Spot,Wow! One please.
+6250,52,254,1002000,Homer Simpson,Simpson Home,Where do you think you're going?
+6251,52,255,1004000,Lisa Simpson,Simpson Home,To the game.
+6252,52,256,1005000,Homer Simpson,Simpson Home,"No, no, no! I don't want you to see me sitting on my butt."
+6253,52,257,1009000,Bart Simpson,Simpson Home,"We've seen it, dad."
+6254,52,258,1012000,C. Montgomery Burns,Simpson Home,"Mattingly, for the last time, get rid of those sideburns!"
+6255,52,259,1015000,Don Mattingly,Simpson Home,"Look, Mr. Burns. I don't know what you think sideburns are, but..."
+6256,52,260,1018000,C. Montgomery Burns,Simpson Home,Don't argue with me! Just get rid of them.
+6257,52,261,1022000,C. Montgomery Burns,Simpson Home,"Smithers, it's almost game time. Where the devil are my ringers?"
+6258,52,262,1025000,Waylon Smithers,Simpson Home,"Sir, Mike Socioscia may not live through the night. Steve Sax is looking at six consecutive life sentences. And Ozzie Smith seems to have vanished off the face of the earth."
+5560,52,264,1035000,Ozzie Smith,Springfield Mystery Spot,Cool!
+6259,52,265,1037000,C. Montgomery Burns,Springfield Mystery Spot,What about Conseco?
+6261,52,267,1041000,Woman,Street,The dryer goes on the right.
+6262,52,268,1044000,JOSE CONSECO,Street,Yes ma'am.
+6263,52,269,1046000,C. Montgomery Burns,Street,What about Clemens?
+6264,52,270,1047000,Waylon Smithers,Street,Sir... he's in no condition to play.
+6265,52,271,1052000,Roger Clemens,Street,"Brock, bock, bock, bock. Brock, bock, bock, bock."
+6266,52,272,1052000,C. Montgomery Burns,Street,That damn hypnotist!
+6267,52,273,1054000,C. Montgomery Burns,Street,"You, look what you've done! My starting pitcher thinks he's a chicken! Make no mistake, I'm going to report this to the American Hypnotical Association."
+6268,52,274,1062000,Hypnotist,Street,But I did a good job... a gooood job.
+6269,52,275,1067000,C. Montgomery Burns,Street,"Oh well, I guess it's not your fault... you did a good job."
+6270,52,276,1070000,C. Montgomery Burns,Street,"Mattingly, I thought I told you to trim those sideburns. Go home! You're off the team! For good!"
+6271,52,277,1078000,Don Mattingly,Street,Fine. I still like him better than Steinbrenner.
+6272,52,278,1081000,C. Montgomery Burns,Street,"All right, you rag-tag bunch of misfits. You hate me, and I hate you even more. But without my beloved ringers, you're all I've got. So I want you to remember some inspiring things that someone else may have told you in the course of your lives, and go out there and win!"
+6273,52,279,1101000,C. Montgomery Burns,Street,"Not so fast, Simpson."
+6274,52,280,1102000,C. Montgomery Burns,Street,The man who plays your position is still here. Hit the pine.
+6275,52,281,1110000,Lisa Simpson,Street,You stink Strawberry. We want Home-run Homer!
+6276,52,282,1115000,Bart Simpson,Street,"Dar-ryl, Dar-ryl."
+6277,52,283,1121000,Lisa Simpson,Street,"Dar-ryl, Dar-ryl."
+6278,52,284,1123000,Marge Simpson,Street,"Children, that's not very nice."
+6279,52,285,1125000,Lisa Simpson,Street,"Mom, they're professional athletes. They're used to this sort of thing. It rolls right off their backs."
+6281,52,287,1141000,C. Montgomery Burns,SOFTBALL DIAMOND,"All right, Monty, it's up to you managerial skills. What to do. Smithers, massage my brain."
+6282,52,288,1147000,Waylon Smithers,SOFTBALL DIAMOND,"Yes, sir."
+6283,52,289,1151000,C. Montgomery Burns,SOFTBALL DIAMOND,"You! Strawberry, hit a home run."
+6284,52,290,1154000,Darryl Strawberry,SOFTBALL DIAMOND,"Okay, Skip!"
+6285,52,291,1159000,C. Montgomery Burns,SOFTBALL DIAMOND,I told him to do that.
+6286,52,292,1162000,Waylon Smithers,SOFTBALL DIAMOND,"Brilliant strategy, sir."
+6287,52,293,1165000,Marge Simpson,SOFTBALL DIAMOND,"Oh, dear."
+6288,52,294,1170000,Marge Simpson,SOFTBALL DIAMOND,"Children, tell me when your father stops scratching himself. Kids?"
+6289,52,295,1177000,Bart Simpson,SOFTBALL DIAMOND,"We'll tell ya, mom."
+6290,52,296,1179000,C. Montgomery Burns,SOFTBALL DIAMOND,"All right, tie game. Bottom of the ninth, two outs, bases loaded, Strawberry coming up..."
+6291,52,297,1186000,Homer Simpson,SOFTBALL DIAMOND,"They're gonna win the championship, no thanks to me."
+6292,52,298,1191000,C. Montgomery Burns,SOFTBALL DIAMOND,Wait! You! Strawberry! Good effort today. Take a lap and hit the showers. I'm putting in a right-handed batter to hit for you.
+6293,52,299,1198000,Waylon Smithers,SOFTBALL DIAMOND,What?
+6294,52,300,1198000,Darryl Strawberry,SOFTBALL DIAMOND,You're pinch-hitting for me?
+6295,52,301,1200000,C. Montgomery Burns,SOFTBALL DIAMOND,"Yes. You see, you're a left-hander. And so is the pitcher. If I send up a right-handed batter, it's called playing the percentages. It's what smart managers do to win ballgames."
+6296,52,302,1209000,Darryl Strawberry,SOFTBALL DIAMOND,But I've got nine home runs today.
+6297,52,303,1211000,C. Montgomery Burns,SOFTBALL DIAMOND,You should be very proud of yourself. Sit down! Simpson! You're batting for Strawberry.
+6298,52,304,1216000,Homer Simpson,SOFTBALL DIAMOND,I am? Whoo-hoo!
+6299,52,305,1217000,Carl Carlson,SOFTBALL DIAMOND,"Atta boy, Homer."
+6300,52,306,1218000,Lenny Leonard,SOFTBALL DIAMOND,You can do it.
+6301,52,307,1220000,Roger Clemens,SOFTBALL DIAMOND,"Brock, bock, bock, bock, bock!"
+6302,52,308,1220000,C. Montgomery Burns,SOFTBALL DIAMOND,"All right, Simpson, let's go over the signals."
+6303,52,309,1223000,C. Montgomery Burns,SOFTBALL DIAMOND,If I tug the bill of my cap like so...
+6304,52,310,1223000,Homer Simpson,SOFTBALL DIAMOND,Yes.
+6305,52,311,1223000,C. Montgomery Burns,SOFTBALL DIAMOND,...it means the signal is a fake.
+6306,52,312,1228000,Homer Simpson,SOFTBALL DIAMOND,Uh uh.
+6307,52,313,1228000,C. Montgomery Burns,SOFTBALL DIAMOND,"However, I can take that off by dusting my hands thusly."
+6308,52,314,1231000,Homer Simpson,SOFTBALL DIAMOND,Got it.
+6309,52,315,1231000,C. Montgomery Burns,SOFTBALL DIAMOND,"If I want you to bunt, I will touch my belt buckle not once, not twice, but thrice..."
+148528,52,316,1235000,Homer's Brain,SOFTBALL DIAMOND,Uh-oh. I don't understand a word he's saying. Why doesn't he just let me bat? I wish I was home with a big bag of potato chips... Mmm potato chips.
+6310,52,317,1249000,C. Montgomery Burns,SOFTBALL DIAMOND,Got that Simpson?
+6311,52,318,1250000,Homer Simpson,SOFTBALL DIAMOND,"Yes, sir!"
+6312,52,319,1251000,P.A. Announcer,SOFTBALL DIAMOND,"Now batting for Darryl Strawberry, Homer Simpson."
+6313,52,320,1267000,Homer Simpson,SOFTBALL DIAMOND,Huh?
+6314,52,321,1272000,Marge Simpson,SOFTBALL DIAMOND,"Oh, dear."
+6315,52,322,1273000,Lisa Simpson,SOFTBALL DIAMOND,"No mom, it counts as a hit. Dad just won the game."
+6316,52,323,1277000,Marge Simpson,SOFTBALL DIAMOND,"Ohh, well, I guess he'll be happy when he comes to."
+6317,52,324,1281000,Charlie,SOFTBALL DIAMOND,We won! We won! All right!
+6319,52,325,1289000,Singers,SOFTBALL DIAMOND,WELL MR. BURNS HAD DONE IT / THE POWER PLANT HAD WON IT / WITH ROGER CLEMENS CLUCKING ALL THE WHILE / MIKE SOCIOSCIA'S TRAGIC ILLNESS MADE US SMILE / WHILE WADE BOGGS LAY UNCONSCIOUS ON THE BARROOM TILE / WE'RE TALKIN' SOFTBALL / FROM MAINE TO SAN DIEGO / TALKIN' SOFTBALL / MATTINGLY AND CONSECO / KEN GRIFFEY'S GROTESQUELY SWOLLEN JAW / STEVE SAX AND HIS RUN IN WITH THE LAW / WE'RE TALKIN' HO-MER / OZZIE AND THE STRAW / WE'RE TALKIN' SOFTBALL / FROM MAINE TO SAN DIEGO / TALKIN' SOFTBALL / MATTINGLY AND CONSECO / KEN GRIFFEY'S GROTESQUELY SWOLLEN JAW / STEVE SAX AND HIS RUN IN WITH THE LAW / WE'RE TALKIN' HO-MER / OZZIE AND THE STRAW.....
+6320,52,326,1289000,Jasper Beardly,SOFTBALL DIAMOND,Wait till next year. If I'm still alive.
+6321,52,327,1289000,Homer Simpson,SOFTBALL DIAMOND,"Good one, Lenny."
+6322,52,328,1289000,Ozzie Smith,SOFTBALL DIAMOND,"Magnificent, simply magnificent."
+6323,52,329,1289000,Moe Szyslak,SOFTBALL DIAMOND,You from outta town?
+6324,52,330,1289000,Ozzie Smith,SOFTBALL DIAMOND,Yes.
+6325,52,331,1289000,Moe Szyslak,SOFTBALL DIAMOND,Have you been to the Museum of Barnyard Oddities yet?
+6326,52,332,1289000,Ozzie Smith,SOFTBALL DIAMOND,No! Where is it?
+6327,52,333,1289000,Moe Szyslak,SOFTBALL DIAMOND,"Oh, here, gimme the map. I'll show you."
+6328,52,334,1289000,Darryl Strawberry,SOFTBALL DIAMOND,"Like this, Skip?"
+6329,52,335,1289000,C. Montgomery Burns,SOFTBALL DIAMOND,"Oh, you're a manager's dream, Strawberry."
+6331,52,337,1289000,C. Montgomery Burns,SOFTBALL DIAMOND,"Smithers, it's almost game time. Where the devil are my ringers?"
+6332,52,338,1289000,Waylon Smithers,SOFTBALL DIAMOND,"Sir, Mike Scioscia may not live through the night. Steve Sax is looking at six consecutive life sentences. And Ozzie Smith seems to have vanished off the face of the earth."

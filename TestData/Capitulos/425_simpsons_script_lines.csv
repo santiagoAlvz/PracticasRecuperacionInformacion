@@ -1,0 +1,245 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+110115,425,1,57000,Bill,Freeway,"Bill and Marty here, in the middle of another Fourth of July weekend Shock-Jock-Talk-Block!"
+110116,425,3,62000,Bill,Marge's Station Wagon,All weekend long we'll be counting down the top five hundred wacky sound effects of all time!
+110117,425,4,67000,Marty,Marge's Station Wagon,And here's number four ninety-nine: Where were you when you first heard this...
+110118,425,5,72000,Bill,Marge's Station Wagon,I'll tell you where I was -- I was out eating...I think I had Kung Pow...and I ended up on the...
+110120,425,7,81000,Bart Simpson,Marge's Station Wagon,I can't listen to this anymore.
+110121,425,8,85000,Homer Simpson,Marge's Station Wagon,Nobody shuts out my blather!
+110123,425,10,92000,Marge Simpson,Marge's Station Wagon,"Homie, let's pick up those hitchhikers. They don't look like the stabby kind."
+110124,425,11,97000,Lisa Simpson,Marge's Station Wagon,"Mom, you said all hitchhikers were drug-crazed thrill seekers."
+110125,425,12,100000,Marge Simpson,Marge's Station Wagon,I said they were thrill-crazed drug seekers. Don't put words in my mouth!
+110126,425,13,107000,Squeaky-Voiced Teen,Marge's Station Wagon,Thanks for stopping.
+110127,425,14,109000,Squeaky-Voiced Teen,Marge's Station Wagon,"This is my girlfriend, Beatrice."
+110129,425,16,116000,Marge Simpson,Marge's Station Wagon,Aw... young love.
+110130,425,17,119000,Homer Simpson,Marge's Station Wagon,Were we ever that stupid?
+110131,425,18,122000,Marge Simpson,Marge's Station Wagon,Of course we were.
+110134,425,21,128000,Homer Simpson,PICTURESQUE ROADSIDE,"Marge, I thought of a new thing -- it's called ""biking out."" It's a combination of biking and making out."
+110135,425,22,134000,Marge Simpson,PICTURESQUE ROADSIDE,I don't know...
+110136,425,23,135000,Homer Simpson,PICTURESQUE ROADSIDE,"C'mon, all the teens on bikes are doin' it."
+110138,425,25,149000,Ned Flanders,PICTURESQUE ROADSIDE,"Howdy-do, strangers! Hop on in before you become a couple runneth over!"
+110139,425,26,153000,Maude Flanders,PICTURESQUE ROADSIDE,"Ned, are you sure? They're covered with mud."
+110140,425,27,156000,Ned Flanders,PICTURESQUE ROADSIDE,"And in that mud, I'm plantin' the seed of friendship. Name's Ned Flanders!"
+110141,425,28,161000,Ned Flanders,PICTURESQUE ROADSIDE,"As the elephant said to the peanut vendor, toss those in my trunk!"
+110142,425,29,164000,Homer Simpson,PICTURESQUE ROADSIDE,Marge! I love this guy!
+110143,425,30,167000,Ned Flanders,PICTURESQUE ROADSIDE,"Put 'er there, muddy buddy."
+110144,425,31,168000,Homer Simpson,PICTURESQUE ROADSIDE,"He rhymes! Oh, happy day!"
+110146,425,33,172000,Maude Flanders,FLANDERS CAR,"So, are you two engaged? Engaged to be engaged?"
+110147,425,34,175000,Marge Simpson,FLANDERS CAR,"Well, we thought we'd wait a little while."
+110148,425,35,177000,Ned Flanders,FLANDERS CAR,Really? Not married? And you were bicycling two abreast?
+110149,425,36,181000,Homer Simpson,FLANDERS CAR,I wish -- we were bicycling to a lake.
+110150,425,37,184000,Ned Flanders,FLANDERS CAR,"Wordplay: never cared for it. But it's never too soon for you two to join the ""I do"" crew. Now I'm not sayin' it's all Jell-O with Cool Whip. She'll nag ya. She'll try to change ya. You'll be fighting the same basic fight for years and years and years--"
+110151,425,38,198000,Maude Flanders,FLANDERS CAR,"Ned, don't you think you're exaggerating just a bit?"
+110152,425,39,201000,Ned Flanders,FLANDERS CAR,I think I'd like to finish my sentence: and years.
+110153,425,40,205000,Marge Simpson,FLANDERS CAR,"Um, how long have you two been married?"
+110154,425,41,208000,Ned Flanders,FLANDERS CAR,Since two this afternoon. Welcome to our honeymoon!
+110155,425,42,211000,Homer Simpson,FLANDERS CAR,"Marge Bouvier, will you not marry me?"
+110156,425,43,216000,Marge Simpson,FLANDERS CAR,"Homer Simpson, I would be delighted not to marry you."
+110157,425,44,221000,Homer Simpson,FLANDERS CAR,"Then I now pronounce us ""just dating."""
+110158,425,45,226000,Homer Simpson,FLANDERS CAR,I love kissing you. I never want to knock it off.
+110160,425,47,231000,Homer Simpson,Homer's Car,Knock it off!
+110161,425,48,232000,Homer Simpson,Homer's Car,How dare you expose my children to your tender feelings! Bart! Don't you dare take your eyes off that Gameboy!
+110162,425,49,235000,Bart Simpson,Homer's Car,"Yes, sir."
+110166,425,53,248000,Bart Simpson,Homer's Car,I'm cuckoo for killing stuff!
+110167,425,54,250000,Homer Simpson,Homer's Car,Videogames -- the reason this generation of Americans is the best ever.
+110169,425,56,262000,Patty Bouvier,Homer's Roadster,I can't believe Homer ruined another family picnic.
+110170,425,57,265000,Homer Simpson,Homer's Roadster,"Hey, everybody pees in the pool!"
+110171,425,58,268000,Selma Bouvier,Homer's Roadster,Not from the diving board!
+110173,425,60,273000,Patty Bouvier,Car,You're driving too fast!
+110174,425,61,275000,Selma Bouvier,Car,You're losing your hair!
+110175,425,62,277000,Patty Bouvier,Car,You sneeze like a girl!
+110176,425,63,278000,Selma Bouvier,Car,Your neck looks like a sideways ass!
+110177,425,64,280000,Homer Simpson,Car,That's it!
+110178,425,65,283000,Homer Simpson,Car,"Eat gravel, hags!"
+110179,425,66,285000,Marge Simpson,Car,"Homer, that was rude and shortsighted. Patty and Selma have the map."
+110181,425,67,289000,Homer Simpson,Car,I have the situation under control. The compass needle is pointing east.
+110182,425,68,294000,Marge Simpson,Car,That's the fuel gauge.
+110183,425,69,295000,Homer Simpson,Car,Uh-oh.
+110185,425,71,297000,Homer Simpson,Road,How many times do I have to say I'm sorry?
+110186,425,72,300000,Marge Simpson,Road,You haven't said you're sorry.
+110187,425,73,302000,Homer Simpson,Road,I know -- I was hoping the number might be zero.
+110189,425,75,311000,Marge Simpson,Millionaire's House,Can we use your phone?
+110190,425,76,313000,Alberto,Millionaire's House,"Of course -- it's just past the sushi bar, behind the limbo pit, right in front of the blackjack table."
+110191,425,77,318000,Alberto,Millionaire's House,"And feel free to stay. We just put out the cheese -- we have cubes of yellow, cubes of orange, and cubes of orange and yellow."
+110192,425,78,327000,Homer Simpson,Millionaire's House,"A really fun party? Full of colored cheeses and awesome stuff to do? Doesn't seem like your kind of thing, Marge."
+110193,425,79,333000,Marge Simpson,Millionaire's House,We'll stay for one hand roll or two Nigiri -- then we have to get back to the kids!
+110194,425,80,338000,Homer Simpson,Millionaire's House,"Eh, let my Dad enjoy 'em a little longer."
+110197,425,83,344000,Grampa Simpson,Simpson Home,Stop! Stop!
+110198,425,84,348000,3-Year-Old Lisa,Simpson Home,Where are the cookies?
+110199,425,85,349000,Grampa Simpson,Simpson Home,I don't remember!
+110200,425,86,351000,5-Year-Old Bart,Simpson Home,Wrong answer!
+110202,425,88,363000,Sylvia,Simpson Home,"Oh, for me?"
+110203,425,89,364000,Homer Simpson,Simpson Home,"No, get two of your own."
+110204,425,90,366000,Sylvia,Simpson Home,You're a funny one.
+110205,425,91,369000,Sylvia,Simpson Home,That's strong -- are you trying to get me drunk?
+110206,425,92,371000,Homer Simpson,Simpson Home,"No, I'm trying to get me drunk."
+110207,425,93,374000,Sylvia,Simpson Home,"You know, my horoscope said I'd meet the man of my dreams tonight."
+110208,425,94,378000,Homer Simpson,Simpson Home,"Well, a horoscope would never lie to a pretty girl like you."
+110209,425,95,381000,Sylvia,Simpson Home,You are adorable! Are you... alone?
+110210,425,96,385000,Homer Simpson,Simpson Home,"No, I'm talking to you, at this great party!"
+110211,425,97,387000,Sylvia,Simpson Home,"Well then, would you like to limbo?"
+110212,425,98,389000,Homer Simpson,Simpson Home,"Limbo? You mean the dance or that place where unbaptized babies go? Either way, I'm in."
+110213,425,99,399000,Sylvia,Simpson Home,"EVERY LIMBO BOY AND GIRL,"
+110077,425,100,401000,Homer Simpson,Simpson Home,"ALL AROUND THE SOMETHING WORLD,"
+110180,425,101,404000,Sylvia,Simpson Home,GONNA DO THE LIMBO ROCK
+110215,425,102,406000,Homer Simpson,Simpson Home,SOMETHING SOMETHING LIMBO SOMETHING
+110216,425,103,410000,Dr. Julius Hibbert,Simpson Home,LIMBO LOWER NOW / HOW LOW CAN YOU GO?
+110217,425,104,415000,Marge Simpson,Simpson Home,That's how low you can go!
+110219,425,106,417000,Marge Simpson,Simpson Home,Why are you dancing with that strange woman?
+110220,425,107,420000,Homer Simpson,Simpson Home,She's not strange! She's fun! And she doesn't get jealous when I talk to other women!
+110221,425,108,425000,Marge Simpson,Simpson Home,Well then she can have you all to herself!
+110223,425,110,435000,Sylvia,Simpson Home,How about a sushi fight?
+110224,425,111,437000,Homer Simpson,Simpson Home,Sushi fight!!
+110225,425,112,442000,Homer Simpson,Simpson Home,These fish died for nothing!
+110228,425,115,447000,Marge Simpson,Simpson Home,"Homer Simpson, I wish I'd never met you!"
+110230,425,117,457000,Squeaky-Voiced Teen,Country Road,Thanks for the lift.
+110231,425,118,459000,Homer Simpson,Country Road,What a cute couple. She's gonna take him for a lot of money.
+110233,425,120,466000,Homer Simpson,Simpson Car,Here we are.
+110235,425,122,471000,Bart Simpson,Kozy Kabins,"A log cabin? What am I, Davy Crockett? Also, who's Davy Crockett?"
+110236,425,123,475000,Homer Simpson,Kozy Kabins,"Kids, this place has very special memories for your mother and me."
+110237,425,124,479000,Bart Simpson,Kozy Kabins,"Well, leaving right now will become a special memory for me."
+110238,425,125,483000,Marge Simpson,Kozy Kabins,They have a pe-dal car.
+110239,425,126,485000,Bart Simpson,Kozy Kabins,Pedal cars su-uck!
+110240,425,127,487000,Lisa Simpson,Kozy Kabins,They're worse than wal-king!
+110241,425,128,489000,Homer Simpson,Kozy Kabins,I'll put a hundred bucks in your col-lege fund.
+110242,425,129,492000,Lisa Simpson,Kozy Kabins,I'll take ten bucks no-ow.
+110243,425,130,495000,Homer Simpson,Kozy Kabins,I'll steal it back when you're sleep-ing.
+110244,425,131,508000,Ned Flanders,Kozy Kabins,"Well, when the sun goes down it means God's gone to China to watch over those good folks. Time for some shuteye."
+110245,425,132,515000,Homer Simpson,Kozy Kabins,"Why Flanders, you rogue."
+110246,425,133,519000,Homer Simpson,Kozy Kabins,"All Marge and I need are a queen-sized bed and a king-sized ""Do Not Disturb"" sign."
+110248,425,135,526000,Ned Flanders,Kozy Kabins,"Sorry, Homer, I'm afraid it's separate accommodations for you notly-weds."
+110249,425,136,530000,Homer Simpson,Kozy Kabins,What?! But I have urges!
+110250,425,137,533000,Ned Flanders,Kozy Kabins,That's just your trouser devil talking!
+110251,425,138,535000,Homer Simpson,Kozy Kabins,"He's not talking, he's yelling!"
+110252,425,139,541000,Ned Flanders,Kozy Kabins,"Goodnight, Marge."
+110253,425,140,547000,Ned Flanders,Kozy Kabins,"Sweet dreams, my new best friend."
+110254,425,141,557000,Ned Flanders,Kozy Kabins,"Oh, what better way to celebrate our wedding night than by keeping an unmarried couple apart?"
+110255,425,142,564000,Ned Flanders,Kozy Kabins,"Aw, Maude. Your dead grandmother's pajamas. You know what that does to me."
+110256,425,143,578000,Homer Simpson,Kozy Kabins,"I never thought I'd say this, but... Stupid Flanders."
+110257,425,144,582000,Marge Simpson,Kozy Kabins,"There's absolutely nothing to worry about! I'm in my own room, being chaperoned by an actual Christian."
+110259,425,146,589000,20-Year-Old Patty,BOUVIER RESIDENCE,"Well, I just don't trust that Homer Simpson. He's that rare combination of up to something and good for nothing."
+110260,425,147,597000,20-Year-Old Selma,BOUVIER RESIDENCE,Whoa. Good one. We should put that in the file.
+110261,425,148,602000,20-Year-Old Selma,BOUVIER RESIDENCE,Nice. /
+110265,425,152,620000,Alberto,Cabana,"Madame, perhaps I can be of some assistance."
+110266,425,153,624000,Marge Simpson,Cabana,But I can't take a dress from a man who looks so good and smells so clean.
+110267,425,154,629000,Alberto,Cabana,"Please. When you came through the door tonight, I instantly imagined you in a ruched burgundy bias-cut evening gown with a wolverine hem and a contrasting cerise tulle décolletage."
+110268,425,155,639000,Marge Simpson,Cabana,Really? Me? You did?
+110269,425,156,641000,Alberto,Cabana,Oh yes. With a pair of saffron brocade diamond mink pumps.
+110270,425,157,647000,Marge Simpson,Cabana,Pumps are shoes! That explains a lot.
+110272,425,159,652000,Alberto,Pool Area,"Marjorie, you look beautiful. Let me take you for a ride."
+110274,425,161,659000,Alberto,GLIDER,"Or should I say ""glide."""
+110275,425,162,662000,Marge Simpson,GLIDER,I'm just happy you're talking again. You didn't say a word for forty-five minutes.
+110277,425,164,675000,Homer Simpson,Party,Marge?
+110278,425,165,676000,Sylvia,Party,"You don't need her, baby. Sylvia's got everything you want."
+110279,425,166,680000,Homer Simpson,Party,Do you have a pineapple pizza?!
+110280,425,167,681000,Sylvia,Party,Pineapple and pepperoni.
+110281,425,168,683000,Homer Simpson,Party,This is all going so fast.
+110283,425,170,688000,Marge Simpson,Sky,We should be getting back to the party.
+110284,425,171,690000,Alberto,Sky,"Marjorie, that party was beneath a woman of your elegance and sophistication. You-- Oh, look -- a budget motel!"
+110285,425,172,702000,Alberto,Sky,"I see the word ""vacancy"" is lit, and the word ""no"" is not. Let us pray the ""no"" is not broken, huh?"
+110287,425,174,712000,Marge Simpson,Kozy Kabins,"Alberto, I'm not sure if this is such a good idea."
+110288,425,175,715000,Alberto,Kozy Kabins,"Eh-eh-eh! First we make love, then we decide if it was a good idea. That's the European way."
+110289,425,176,728000,Homer Simpson,Kozy Kabins,"I came here once with Marge. Are you Marge, Sylvia?"
+110290,425,177,733000,Sylvia,Kozy Kabins,"Homer, I can be whoever you want me to be."
+110291,425,178,739000,Homer Simpson,Kozy Kabins,I want you to be Marge.
+110292,425,179,745000,Homer Simpson,Kozy Kabins,Marge?!
+110293,425,180,746000,Homer Simpson,Kozy Kabins,Marge? Is that you?
+110294,425,181,749000,Marge Simpson,Kozy Kabins,My husband!
+110295,425,182,751000,Alberto,Kozy Kabins,Why do married women always have husbands?
+110296,425,183,758000,Homer Simpson,Kozy Kabins,"Marge, what are you doing here?"
+110297,425,184,761000,Marge Simpson,Kozy Kabins,Uh... the same thing you're doing here.
+110298,425,185,763000,Homer Simpson,Kozy Kabins,"You better not be! I mean, great! We both came to rekindle our precious memories of when we were young and in love. Right?"
+110299,425,186,772000,Marge Simpson,Kozy Kabins,"We sure did. Rekindle, rekindle... Okay, let's go."
+110300,425,187,776000,Homer Simpson,Kozy Kabins,"Oh, oh, oh, I have a better idea -- let's spend the night together, right here."
+110301,425,188,783000,Marge Simpson,Kozy Kabins,Fine. But I don't want to sleep in the same room with that chest.
+110302,425,189,787000,Homer Simpson,Kozy Kabins,I feel the same way about that lamp.
+110303,425,190,789000,Marge Simpson,Kozy Kabins,"Okay, but first the chest."
+110304,425,191,793000,Homer Simpson,Kozy Kabins,Okay.
+110306,425,193,798000,Sylvia,Cabin,There you are!
+110307,425,194,800000,Marge Simpson,Cabin,"Homie, what's taking so long?"
+110308,425,195,801000,Homer Simpson,Cabin,"Listen, you're a classy lady and a great sushi fighter. But you're goin' in the box."
+110310,425,197,806000,Marge Simpson,Cabin,Homie?
+110311,425,198,807000,Homer Simpson,Cabin,"Coming, Marge!"
+110313,425,200,821000,Alberto,Cabin,Good evening. I am Alberto.
+110314,425,201,822000,Sylvia,Cabin,Sylvia. Let's get out of this chest and go have a drink.
+110317,425,202,826000,Alberto,Cabin,"Actually, I am quite comfortable here. There is a flask of cognac in my pocket. Do you think you can reach it?"
+110318,425,203,832000,Sylvia,Cabin,Okay. Is this it?
+110319,425,204,834000,Alberto,Cabin,"No, but don't stop twisting it."
+110321,425,206,838000,Homer Simpson,Kozy Kabins,"Now let's spend the rest of the night making sweet, sweet--"
+110322,425,207,843000,Homer Simpson,Kozy Kabins,Kids?!
+110323,425,208,845000,Grampa Simpson,Kozy Kabins,I'm through baby-sitting these monsters! Goodnight.
+110324,425,209,850000,Lisa Simpson,Kozy Kabins,"We won, he's asleep!"
+110325,425,210,852000,Bart Simpson,Kozy Kabins,And we'll stay up forever!
+110326,425,211,858000,Homer Simpson,Kozy Kabins,That takes care of those three -- want to go for a lakeside snuggle?
+110327,425,212,864000,Marge Simpson,Kozy Kabins,"Homer Simpson, you devil!"
+110328,425,213,870000,Homer Simpson,Kozy Kabins,"Well, that takes care of those three -- want to go play some lakeside Boggle?"
+110329,425,214,876000,Marge Simpson,Kozy Kabins,"Homer Simpson, you devil! But I think we should unpack first..."
+110330,425,215,884000,Homer Simpson,Kozy Kabins,"Hmm, all right. The trick is to ease them off--"
+110333,425,218,897000,Ruthie,Kozy Kabins,What is this dump?
+110334,425,219,899000,Alberto,Kozy Kabins,"Ah, Ruthie, this ""dump"" is where your mother and I met. It was a tale of betrayal, redemption and a lovely continental breakfast."
+110336,425,221,910000,Marge Simpson,Kozy Kabins,"Homer, those are our wedding bungees!"
+110338,425,223,915000,Alberto,Kozy Kabins,Marjorie?!
+110339,425,224,916000,Sylvia,Kozy Kabins,Homer?
+110340,425,225,917000,Alberto,Kozy Kabins,It's so good to see you. We owe you two a debt of thanks.
+110341,425,226,921000,Sylvia,Kozy Kabins,"Homer, if I hadn't come to this motel with you, I never would've met Alberto."
+110343,425,228,927000,Alberto,Kozy Kabins,"And Marjorie, if you had completed your seduction of me, I never would've met Sylvia."
+110345,425,230,933000,Marge Simpson,Kozy Kabins,I can't believe one of the most beautiful moments in our marriage is based on lies!
+110346,425,231,938000,Homer Simpson,Kozy Kabins,"You're just as bad as me. And you used to be better, so that makes you worse! I don't think we can ever trust each other again."
+110347,425,232,947000,Homer Simpson,Kozy Kabins,"Ruthie, kick me away from this nightmare."
+110348,425,233,950000,Ruthie,Kozy Kabins,Okay.
+110349,425,234,952000,Homer Simpson,Kozy Kabins,I wish I'd never met you!
+110214,425,235,955000,Homer Simpson,Kozy Kabins,Or you!
+110350,425,238,955000,Lisa Simpson,WOODS NEAR KOZY KOTTAGES,Why can't you just admit we're lost?
+110351,425,239,963000,Bart Simpson,WOODS NEAR KOZY KOTTAGES,I'll tell you what's lost: your sense of adventure.
+110352,425,240,966000,Lisa Simpson,WOODS NEAR KOZY KOTTAGES,Just ask those guys for directions.
+110353,425,241,968000,Kearney Zzyzwicz,WOODS NEAR KOZY KOTTAGES,Hmm... Anti-nuclear activist Dr. Helen Caldicott... director Julie Taymor... do you love these women?
+110354,425,242,975000,Jimbo Jones,WOODS NEAR KOZY KOTTAGES,"They're okay, I guess."
+110355,425,243,976000,DOLPH,WOODS NEAR KOZY KOTTAGES,Let's just skip to the Windsor knot instructions.
+110356,425,244,979000,Lisa Simpson,WOODS NEAR KOZY KOTTAGES,"Excuse me, boys! My brother is lost, and kind of a jerk. If he'd brought a map of the grounds as I suggested, then we would--"
+110357,425,245,982000,Bart Simpson,WOODS NEAR KOZY KOTTAGES,"Lisa, do you know why I spend every day after school in detention? So I don't have to come home to you!"
+110358,425,246,992000,Lisa Simpson,WOODS NEAR KOZY KOTTAGES,"Oh, Bart. Don't say things you can't take back."
+110359,425,247,996000,Bart Simpson,WOODS NEAR KOZY KOTTAGES,It's out there. Deal with it!
+110360,425,248,997000,Lisa Simpson,WOODS NEAR KOZY KOTTAGES,Oh great. Now you woke the baby.
+110361,425,249,1000000,Bart Simpson,WOODS NEAR KOZY KOTTAGES,I told you we should have left her with your mother!
+110362,425,250,1003000,Lisa Simpson,WOODS NEAR KOZY KOTTAGES,"My God, Bart, what happened to us?"
+110363,425,251,1006000,Bart Simpson,WOODS NEAR KOZY KOTTAGES,We grew up.
+110365,425,253,1013000,Ned Flanders,Kozy Lake,So... I'm sure you missed Marge last night.
+110366,425,254,1016000,Homer Simpson,Kozy Lake,Yeah. I missed her like five times.
+110367,425,255,1019000,Ned Flanders,Kozy Lake,"What a charming single entendre. Now look, I know marriage is scary, but if you really think she's the one, it gives you two a shot at forever."
+110368,425,256,1026000,Homer Simpson,Kozy Lake,Forever? That would be awesome.
+110369,425,257,1029000,Ned Flanders,Kozy Lake,"Okay, here she comes! Why don't you take Marge for a walk, open your heart and see what pours out?"
+110370,425,258,1035000,Homer Simpson,Kozy Lake,And I suppose you and Maude will be coming along as well?
+110371,425,259,1038000,Ned Flanders,Kozy Lake,Don't you think I've got better things to do on my honeymoon than spy on you two?
+110372,425,260,1044000,Ned Flanders,Kozy Lake,"Red Dog, this is Mustache One. We have possible male/female interaction -- be prepared to terminate inappropriate contact."
+110373,425,261,1054000,Maude Flanders,Kozy Lake,Ready with the ice water.
+110374,425,262,1055000,Ned Flanders,Kozy Lake,Lock onto his wiener.
+110375,425,263,1057000,Maude Flanders,Kozy Lake,We have wiener-lock.
+110379,425,265,1058000,Homer Simpson,WOODS NEARBY,"Marge, when I'm with you, I get that feeling like when I got that smart kid's report card by mistake. For a minute, I thought I had all A's. And that my name was Howard Simberg."
+110380,425,266,1071000,Marge Simpson,WOODS NEARBY,You make me feel that way too.
+110381,425,267,1073000,Homer Simpson,WOODS NEARBY,"I know we'll get married someday, and to prove it, I'll carve our names on this tree so all who are hopelessly lost in the woods can see it."
+110382,425,268,1084000,Homer Simpson,WOODS NEARBY,I hate other people's love.
+110385,425,271,1103000,Homer Simpson,WOODS NEAR KOZY KABINS,So that wasn't Marge's glider parked outside the motel five years ago! I'm getting out of this marriage while I'm still young and handsome.
+110386,425,272,1117000,Homer Simpson,WOODS NEAR KOZY KABINS,"""4 Ever."" I couldn't even keep a promise I made to a tree. Maybe it's not too late! Maybe I can still save our love. If I just show her that carving..."
+110387,425,273,1135000,Marge Simpson,WOODS NEAR KOZY KABINS,What are you doing?
+110388,425,274,1136000,Homer Simpson,WOODS NEAR KOZY KABINS,Saving our marriage!
+110389,425,275,1138000,Marge Simpson,WOODS NEAR KOZY KABINS,Don't be silly. Our marriage can weather any storm -- just like this tree.
+110391,425,277,1148000,Homer Simpson,WOODS NEAR KOZY KABINS,Help! Fat man hanging from a tree!
+110393,425,279,1154000,Ranger,PARK RANGER OBSERVATION TOWER,Uh-uh. That's for fires.
+110395,425,281,1158000,Marge Simpson,CHASM,Take my hand!
+110396,425,282,1160000,Homer Simpson,CHASM,I don't want to let go of our special carving!
+110397,425,283,1162000,Marge Simpson,CHASM,"Homer, our marriage isn't on a piece of bark! It's in us! Now take my hand!"
+110399,425,285,1188000,Homer Simpson,CHASM,"Marge, I don't want to die with us mad at each other."
+110400,425,286,1191000,Marge Simpson,CHASM,"Me neither, Homie."
+110401,425,287,1192000,Homer Simpson,CHASM,"I know parts of our marriage are based on lies, but so are a lot of good things: religion, American history..."
+110402,425,288,1197000,Marge Simpson,CHASM,"I know. We had a fight, we were both tempted... we're human. The important thing is, we love each other."
+110403,425,289,1204000,Homer Simpson,CHASM,Awww.
+110405,425,291,1208000,Homer Simpson,CHASM,Now we wait for the river to freeze. If my theory of global cooling is correct.
+110406,425,292,1213000,Bart Simpson,CHASM,"Hey, you guys want a lift in my pedal boat?"
+110408,425,293,1216000,Lisa Simpson,CHASM,It's not a pedal boat. It's a pedal car that Bart drove into the river. Because he knows a shortcut that's not on the map.
+110409,425,294,1223000,Bart Simpson,CHASM,How'd you like a shortcut to the bottom of the river?
+110410,425,295,1225000,Lisa Simpson,CHASM,"If it's your shortcut, I'll be high and dry."
+110411,425,296,1233000,Bart Simpson,CHASM,Knock it off back there.
+110412,425,297,1235000,Homer Simpson,CHASM,But we're married.
+110413,425,298,1236000,Bart Simpson,CHASM,"Okay, but keep it PG."
+110414,425,299,1237000,Homer Simpson,CHASM,How about R?
+110415,425,300,1238000,Bart Simpson,CHASM,PG-13.
+110416,425,301,1238000,Homer Simpson,CHASM,Woo-hoo! Adult situations!

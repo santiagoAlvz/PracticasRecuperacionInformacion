@@ -1,0 +1,202 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+91134,352,1,36000,Brooklyn Private,Battlefield,"Somethin's comin', Sarge. Somethin' big!"
+91135,352,2,38000,Sergeant Skinner,Battlefield,"Stay strong, men! The United States is due to win a war sometime."
+91136,352,3,42000,Sergeant Skinner,Battlefield,"Oh good Lord, it's a Swingline!"
+91137,352,4,51000,Sergeant Skinner,Battlefield,Medic!
+91139,352,6,56000,General,Battlefield,Skinner!
+91142,352,9,62000,Seymour Skinner,Skinner's Office,"Yes, Superintendent Chalmers?"
+91143,352,10,64000,Gary Chalmers,Skinner's Office,Do you know what today is?
+91144,352,11,66000,Seymour Skinner,Skinner's Office,Yes! Of course I do. HAPPY BIRTHDAY TO YOU / HA--
+91145,352,12,72000,Gary Chalmers,Skinner's Office,"It's not my birthday, Seymour -- you know I'm a Sagittarius!"
+91147,352,13,76000,Seymour Skinner,Skinner's Office,Really? I'm a Libra. There's a lot of compatibility there.
+91148,352,14,79000,Gary Chalmers,Skinner's Office,"Skinner, be gay on your own time. Today's the day we choose who gets the school's vending-machine contract! I anticipate quite the dog and pony show."
+91149,352,15,88000,Seymour Skinner,Skinner's Office,"Sir, this school has a strict no-animal policy. I assume these are hypothetical dogs and poni?"
+91152,352,18,94000,Captain Horatio McCallister,Skinner's Office,"Yarr. Everyone likes a gumball machine, so why not a gumbo machine? Yarr."
+91153,352,19,105000,Captain Horatio McCallister,Skinner's Office,Yarr! Does your school nurse treat burns?
+91154,352,20,107000,Seymour Skinner,Skinner's Office,Nope.
+91155,352,21,108000,Gil Gunderson,Skinner's Office,"It couldn't be simpler! Kids write down what they want, put their money in the can and I take the bus to the supermarket, and bring the snacks the next day! Huh?"
+91156,352,22,119000,Gil Gunderson,Skinner's Office,Is that a yes?
+91157,352,23,121000,Lindsay Naegle,Skinner's Office,"Kids want a snack that skateboards, won't clean its room, and hates homework."
+91158,352,24,125000,Male Executive,Skinner's Office,"That's why we created Scarf-ables by ""Scammer and Z-Dog!"""
+91159,352,25,129000,Lindsay Naegle,Skinner's Office,These two spokes-rebels were invented by the marketing team that came up with Hip-Hopsicles... the urban Popsicle.
+91160,352,26,135000,Seymour Skinner,Skinner's Office,Yes. I saw those when my normal grocery store was on strike.
+91161,352,27,139000,Male Executive,Skinner's Office,"Well, here's what really seals the deal."
+91162,352,28,141000,Vending Machine,Skinner's Office,"Yo, yo, yo! Slide your green into the machine. And don't expect any change, dog!"
+91163,352,29,147000,Male Executive,Skinner's Office,It's like a fundraising school bake sale -- with slang as the Saran wrap!
+91164,352,30,151000,Lindsay Naegle,Skinner's Office,And a subsonic neuro-jammer to disrupt the child's judgment center.
+91165,352,31,155000,Seymour Skinner,Skinner's Office,Fair enough. I assume these snacks are nutritious?
+91166,352,32,158000,Lindsay Naegle,Skinner's Office,"That's really none of our business. The bottom line is, half the profits go to your school or camp."
+91167,352,33,163000,Gary Chalmers,Skinner's Office,You heard the lady. Just sign the damn contract.
+91168,352,34,165000,Seymour Skinner,Skinner's Office,Yo.
+91170,352,36,171000,Lisa Simpson,Springfield Elementary School,"Wow, Krishna Krisps, Amazonkers, Lollapalollipops -- these sound like my kind of snacks..."
+91171,352,37,179000,Lisa Simpson,Springfield Elementary School,"Ooh, Dalai Lamanade!"
+91146,352,38,184000,Lisa Simpson,Springfield Elementary School,Oh my God! Look at these ingredients!
+91173,352,39,187000,Lisa Simpson,Springfield Elementary School,"""Hydrogenated petroleum oil, monosodium poisonate, partially de-weaponized plutonium?!"""
+91174,352,40,195000,Lisa Simpson,Springfield Elementary School,"Attention, duped masses!"
+91175,352,41,197000,Lisa Simpson,Springfield Elementary School,"These new vending machine snacks are crammed with processed sugar, industrial byproducts and trans-fatty acids!"
+91176,352,42,205000,Vending Machine,Springfield Elementary School,"Don't flava-hate, participate!"
+91177,352,43,207000,Nelson Muntz,Springfield Elementary School,The machine makes a good point.
+91178,352,44,209000,Vending Machine #2,Springfield Elementary School,Don't be a follower -- be a snack swallower!
+91179,352,45,212000,Ralph Wiggum,Springfield Elementary School,It's fun to obey the machine!
+91180,352,46,229000,Vending Machine #2,Springfield Elementary School,"Way to go, dude! You're five cents away from an awesome beverage or snack."
+91181,352,47,236000,Bart Simpson,Springfield Elementary School,"Oh, I'm outta money! Willie! You wanna buy my skateboard?"
+91182,352,48,240000,Groundskeeper Willie,Springfield Elementary School,"Eh, why not? For once it'll be all eyes on Willie."
+91183,352,49,247000,Groundskeeper Willie,Springfield Elementary School,"Look at me, I'm an American boy! Uh-oh, stairway!"
+91184,352,50,250000,Groundskeeper Willie,Springfield Elementary School,"Hey, I'm getting' it. No, I'm not! Okay, I'm all right. Aahh, I spoke too soon! Aaah, that's better."
+91185,352,51,265000,Groundskeeper Willie,Springfield Elementary School,"What are ya lookin' at, ya bastards?!"
+91187,352,53,270000,Marge Simpson,Simpson Home,"Bart, I spent all afternoon stuffing tuna fish into that steak. Have some."
+91188,352,54,275000,Bart Simpson,Simpson Home,No thanks -- the vending machines at school feed me now.
+91189,352,55,278000,Marge Simpson,Simpson Home,"Oh, so I've been replaced by a machine?"
+91190,352,56,281000,Homer Simpson,Simpson Home,"Marge, no machine could ever replace you. Why you-- or could it?"
+91191,352,57,289000,Homer Simpson,Simpson Home,Marge-bot! I'm ready for some lovin'!
+91192,352,58,300000,Homer Simpson,Simpson Home,Why did I give her a gun? But I repeat: no one is being replaced by a machine. Until all the kinks are worked out.
+91193,352,59,307000,Marge Simpson,Simpson Home,"Well until that day, I'm still Bart's mother, and I don't like him stuffing himself with junk."
+91195,352,61,330000,Marge Simpson,Simpson Home,"Oh, fine."
+91202,352,68,410000,Bart Simpson,Simpson Home,My heart! It hurts so much! Like it's caught in a vice!
+91203,352,69,415000,Homer Simpson,Simpson Home,"Aw, my little boy's in love."
+91204,352,70,419000,Lisa Simpson,Simpson Home,I think he's having a heart attack!
+91205,352,71,424000,Homer Simpson,Simpson Home,"C'mon, son. You can fight this. Do the Bartman. Do the Bartman!"
+91206,352,72,431000,Homer Simpson,Simpson Home,Why don't you dance? Dance?!
+91208,352,74,438000,Homer Simpson,Springfield General Hospital,"Doctor, little kids aren't supposed to have heart attacks. They're supposed to skin their knees, and poke their eyes out, and be smothered by cats."
+91209,352,75,446000,Dr. Julius Hibbert,Springfield General Hospital,"Well Bart had a heart attack, and it's his own damn fault."
+91210,352,76,449000,Dr. Julius Hibbert,Springfield General Hospital,These dark spots in his pulmonary arteries are malted milk balls.
+91211,352,77,453000,Marge Simpson,Springfield General Hospital,His liver looks healthy.
+91212,352,78,455000,Dr. Julius Hibbert,Springfield General Hospital,That's a wad of Laffy Taffy.
+91214,352,80,458000,Dr. Julius Hibbert,Springfield General Hospital,"Now when Bart goes home, he's gonna have to follow a program of strict diet and exercise. Dammit, I will not bury another patient!"
+91215,352,81,464000,Marge Simpson,Springfield General Hospital,"Doctor, you're a pediatrician!"
+91216,352,82,466000,Dr. Julius Hibbert,Springfield General Hospital,"Yeah, but my head's been somewhere else this year."
+91219,352,85,469000,Scratchy,Dr. Itchy's,Uh-huh. Uh-huh. Yep.
+91220,352,86,484000,Itchy,Dr. Itchy's,Okay. We'll start with a routine stress test.
+91225,352,91,548000,Lisa Simpson,Cemetery,"Bart, how can you laugh at that? You just had a heart attack!"
+91226,352,92,552000,Bart Simpson,Cemetery,"Yeah, but what does not kill me makes me stronger. Wow, that was a lot of words -- I need some energy."
+91228,352,94,563000,Krusty the Clown,KRUSTY SET,"Hey hey, kids! Heart disease can strike anyone, including heavy-drinking, chain-smoking clowns. That's why I had the doctor install a zipper!"
+91229,352,95,580000,Krusty the Clown,KRUSTY SET,Aaagh! The zipper's stuck!
+91230,352,96,584000,Krusty the Clown,KRUSTY SET,"Oh, I shoulda gone with the button-fly."
+91232,352,98,600000,Marge Simpson,Simpson Home,I talked to Dr. Hibbert today. He gave me a list of heart-smart foods.
+91233,352,99,605000,Bart Simpson,Simpson Home,Ko-ta-hay cheese?
+91234,352,100,607000,Marge Simpson,Simpson Home,Cottage cheese!
+91235,352,101,609000,Bart Simpson,Simpson Home,"Yuck. From the looks of it, this cheese has already been eaten."
+91236,352,102,613000,Marge Simpson,Simpson Home,"Aw honey, please take this seriously. When people used to ask me how you were doing, I said ""at least he's got his health."" Now you've got nothing! Nothing! For me, please try a healthy vegetable."
+91237,352,103,622000,Bart Simpson,Simpson Home,"Okay Mom, for you, I'll try."
+91240,352,106,630000,Marge Simpson,Bart's Bedroom,"Okay, now we know you're allergic to cauliflower. But I made a special platter of vegetables that are good for you."
+91241,352,107,637000,Marge Simpson,Bart's Bedroom,It's graffiti you can eatie!
+91242,352,108,639000,Homer Simpson,Bart's Bedroom,"You get better, son. Meanwhile, the rest of us will be going to the ""library."""
+91243,352,109,641000,Bart Simpson,Bart's Bedroom,Where are you really going?
+91244,352,110,645000,Homer Simpson,Bart's Bedroom,"Milkshake Festival. Look, you can see the booths from your window."
+91245,352,111,651000,Carny,Bart's Bedroom,"Today only, free milkshakes for ten-year-old boys! Drink your own weight in milkshakes, and win a milkshake!"
+91248,352,114,681000,Lisa Simpson,Bart's Bedroom,I'd better tell Dad.
+91249,352,115,684000,Homer Simpson,Bart's Bedroom,"Lisa, take a picture of me with all the milkshakes. C'mon, everybody get in here. Hurry."
+91250,352,116,693000,Lisa Simpson,Bart's Bedroom,Um... maybe Mom's the way to go.
+91252,352,118,716000,Everybody,Simpson Home,Intervention!!!
+91253,352,119,717000,Bart Simpson,Simpson Home,What the family?!
+91254,352,120,718000,Ned Flanders,Simpson Home,"Uh son, we're here to help with your... which addict-a-diddily-diction are we goin' after here?"
+91255,352,121,724000,Homer Simpson,Simpson Home,"Overeating. And if there's time, we'll get to my drinking. But there won't be time."
+91256,352,122,728000,Krusty the Clown,Simpson Home,"I'm tellin' you, Bart, one vice leads to another. And then you wind up like me: so jaded, the only thing that gets you off is free-basing ground-up moon rocks."
+91257,352,123,743000,Krusty the Clown,Simpson Home,All this does is get me to normal.
+91258,352,124,747000,Bart Simpson,Simpson Home,"Thank you, Krusty. Once again you've delivered an important message wrapped in entertainment. And I'm so touched that all of you would take the time to eat my shorts, lame-o's!"
+91259,352,125,765000,Bart Simpson,Simpson Home,Help! Kidnappers!
+91260,352,126,767000,Marge Simpson,Simpson Home,"They're not kidnappers! They're professionally trained child-snatchers, who are taking you to a maximum-security fat camp."
+91261,352,127,775000,Bart Simpson,Simpson Home,I'm not fat!
+91264,352,130,796000,Tab Spangler,Serenity Ranch,"Mr. and Mrs. Simpson, I'm facility director Tab Spangler, United States Marine Corps, retired -- but not tired!"
+91265,352,131,805000,Tab Spangler,Serenity Ranch,"Guess how old I am. Come on, take a guess."
+91266,352,132,808000,Marge Simpson,Serenity Ranch,Forty-seven?
+91267,352,133,809000,Tab Spangler,Serenity Ranch,I hate when they're over.
+91268,352,134,812000,Tab Spangler,Serenity Ranch,Even on the nose hurts!
+91269,352,135,814000,Homer Simpson,Serenity Ranch,"Wow, he's just the kind of weirdo Bart needs."
+91270,352,136,816000,Tab Spangler,Serenity Ranch,"Mr. and Mrs. Simpson, your boy is going to need one thing --"
+91271,352,137,816000,Tab Spangler,Serenity Ranch,Tough luck.
+91272,352,138,816000,Marge Simpson,Serenity Ranch,"Don't you mean ""tough love?"""
+91273,352,139,816000,Tab Spangler,Serenity Ranch,"Tough love? Of course, this has never made sense! The sign shop guy lied. Stanley! You didn't question the word ""luck?"" Now look what we've got. Thanks for the correction, that's part of the honesty."
+91274,352,140,836000,Homer Simpson,Serenity Ranch,"Son, I just wanna leave you with a piece of advice -- become emotionally dead. Leave your body. Make lots of friends!"
+91275,352,141,847000,Tab Spangler,Serenity Ranch,"Wake up, fatties! Stop dreaming about butter -- dream calories are real calories."
+91276,352,142,853000,Tab Spangler,Serenity Ranch,"All right, here's how this exercise works. You tow me around the track."
+91277,352,143,857000,Tab Spangler,Serenity Ranch,"As we gather speed, I whip you gently, you state your name and tell me how you got so heavy."
+91278,352,144,861000,Kent Brockman,Serenity Ranch,"Kent Brockman, Channel Six News. I gorge on kettle corn during the sports and weather!"
+91279,352,145,866000,Tab Spangler,Serenity Ranch,We know! Your side-fat's startin' to spill over to channels five and seven! I hope you're getting' three paychecks.
+91280,352,146,873000,Bart Simpson,Serenity Ranch,"Bart Simpson, I'm just big-boned."
+91281,352,147,875000,Tab Spangler,Serenity Ranch,No such thing.
+91282,352,148,876000,Bart Simpson,Serenity Ranch,Growth spurt?
+91283,352,149,876000,Tab Spangler,Serenity Ranch,Doesn't exist.
+91284,352,150,878000,Bart Simpson,Serenity Ranch,This can't be legal!
+91285,352,151,880000,Tab Spangler,Serenity Ranch,It's legal enough!
+91287,352,153,882000,Marge Simpson,Simpson Home,Jimminy Kimmel! Look how much they're charging for Bart's treatment!
+91289,352,154,886000,Homer Simpson,Simpson Home,"That freeloading fatso! Marge, could you cut back on your makeup budget?"
+91290,352,155,890000,Marge Simpson,Simpson Home,"I already use crayons for lipstick, and fireplace soot for eyeliner."
+91291,352,156,895000,Homer Simpson,Simpson Home,So that's where my soot went!
+91292,352,157,898000,Marge Simpson,Simpson Home,"This fat camp can save Bart's life -- we have to find a way to pay for it. Homer, maybe you could ask Mr. Burns for a raise."
+91293,352,158,906000,Homer Simpson,Simpson Home,"Even better, I'll ask him for my job back."
+91294,352,159,909000,Lisa Simpson,Simpson Home,I know how we can raise money!
+91295,352,160,912000,Homer Simpson,Simpson Home,Youth? I hate them. Secondly...
+91296,352,161,915000,German Backpacker,Simpson Home,How much is costed for stay-night-of-one?
+91297,352,162,917000,Homer Simpson,Simpson Home,"How much is got, Wolfgang Schmuck?"
+91298,352,163,919000,German Backpacker,Simpson Home,"Let's see here. I can offer you uh, fifty dollars a week."
+91299,352,164,924000,Homer Simpson,Simpson Home,Fifty dollars? What about all the water you guys will waste with your bathing and showering and washing your clothes?
+91300,352,165,932000,German Backpacker,Simpson Home,"Yeah, we don't uh... is not a problem."
+91302,352,167,936000,Tab Spangler,Serenity Ranch,"All right, try this. As you scoop your ice cream into the trash, tell it you hate it! Talk to it. You think I look like what?! What's the vanilla saying? No, I'm not that old! Come on, talk! Let's hear ya!"
+91303,352,168,950000,Rainier Wolfcastle,Serenity Ranch,Here's the scoop -- your Haagen Days are over. I'm baskin' in your pain as I'm robbin' you of life.
+91304,352,169,967000,Tab Spangler,Serenity Ranch,Bart!
+91305,352,170,970000,Tab Spangler,Serenity Ranch,"Son, I'm gonna tell you a story about a young man who came here and failed. Well, that is the story. I shouldn't call a sentence a story. Anyway, it's you!"
+91306,352,171,978000,Bart Simpson,Serenity Ranch,"Look, I'm really, really sorry. Now let me get that ice cream off your shoe."
+91307,352,172,983000,Tab Spangler,Serenity Ranch,"Young man, there's something I have to show you. In one hour. We have to drive there. No talking on the way. It'll hurt the drama."
+91309,352,174,993000,Bart Simpson,Tab Spangler's Car,Can I just...?
+91310,352,175,994000,Tab Spangler,Tab Spangler's Car,Shh! Drama!
+91313,352,178,999000,Bart Simpson,Evergreen Terrace,German backpackers?
+91317,352,179,1001000,Tab Spangler,Evergreen Terrace,"You see, son, every family has to make extra income when they send a child like you to a place like mine. You're lucky this is just a youth hostel. We had one family who had to take in dry cleaning. The chemicals killed their dog! Well that's what they told us in the lawsuit. I don't see a dog living past fourteen anyway, do you?"
+91319,352,181,1021000,Bart Simpson,Front of Simpson Home,"They can't see or hear us, right?"
+91320,352,182,1023000,Tab Spangler,Front of Simpson Home,"We're not the Ghost of Christmas Past, Bart. They can see us. If I were invisible, do you think I'd waste my time with this belt/shirt combination?"
+91321,352,183,1031000,Tab Spangler,Front of Simpson Home,"Excuse me, we're looking for Mr. and Mrs. Simpson. I'm sorry to say, this is their son."
+91322,352,184,1035000,Female German Backpacker,Front of Simpson Home,"Oh, so he's the strudel-sucking globbenheimer who has bankrupted them with his expensive treatments."
+91323,352,185,1042000,Tab Spangler,Front of Simpson Home,Strudel-sucking globbenheimer. You need to think about that. That's what the human race thinks of you.
+91325,352,187,1049000,German Student,LIVING ROOM,"Problem number thirty-five with America: no universal healthcare. Number thirty-six: no metric system. What is this, the time of Charlemagne? Answer me! Answer me now!"
+91326,352,188,1060000,Bart Simpson,LIVING ROOM,"Oh, my God."
+91327,352,189,1062000,Tab Spangler,LIVING ROOM,"Come on, let's look for your Dad. Then if we have some time, maybe we'll look for mine."
+91329,352,191,1069000,Homer Simpson,KITCHEN,"Güten abend, my brave, Bavarian Overlords. The best wurst in town."
+91330,352,192,1075000,Sadistic German Backpacker,KITCHEN,"Here's your tip, Baldylocks. If you want it, dance and sing."
+91331,352,193,1080000,Homer Simpson,KITCHEN,NEUNUNDNEUNZIG LUFTBALLONS / AUF IHREM WEG ZUM HORIZONT / HIELT MAN FUER UFOS AUS DEM ALL / DARUM SCHICKTE EIN GENERAL /
+91332,352,194,1092000,Germans,KITCHEN,"Whoo! Yah! Das is good. More, more!"
+91334,352,196,1094000,Tab Spangler,OUTSIDE WINDOW,They want a second verse. I hope he knows it.
+91335,352,197,1096000,Homer Simpson,OUTSIDE WINDOW,"EINE FLIEGERSTAFFEL HINTERHER / ALARM ZU GEBEN, WENN ES SO WAR / DABEI WAR DA AM HORIZONT / NUR NEUNUNDNEUNZIG LUFTBALLONS"
+91337,352,199,1110000,Bart Simpson,Simpson Home,"Oh, this is all my fault. I'll never eat junk food again. I swear!"
+91338,352,200,1115000,Tab Spangler,Simpson Home,"Good for you. That's what I want to hear. It's time to take action. I'll meet you later, son. I'm gonna get the car washed and try to meet... somebody."
+91315,352,203,1137000,Vending Machine #2,Springfield Elementary School Hallway,"Dude, you've changed."
+91339,352,204,1147000,Vending Machine,Springfield Elementary School Hallway,"Yo, I'm gonna cap a pop in your ass!"
+91340,352,205,1156000,Bart Simpson,Springfield Elementary School Hallway,"I'm ending your vending, Dog."
+91342,352,207,1163000,Marge Simpson,Simpson Home,"Bart, what are you doing here?"
+91343,352,208,1167000,Bart Simpson,Simpson Home,I learned my lesson -- Mr. Spangler showed me the true cost of my junk food addiction.
+91344,352,209,1171000,Marge Simpson,Simpson Home,But... you're still fat!
+91345,352,210,1172000,Bart Simpson,Simpson Home,Not for long -- I'm saying goodbye to Scammer and Z-Dog. I've learned that even made-up corporate shills can lie to you.
+91346,352,211,1179000,Homer Simpson,Simpson Home,"Did you hear that Foxy, the Fox network Fox?"
+91347,352,212,1183000,Bart Simpson,Simpson Home,"When I raged against the machine, money poured out."
+91348,352,213,1185000,Homer Simpson,Simpson Home,Oh boy.
+91349,352,214,1187000,Homer Simpson,Simpson Home,"Marge, I know this is ill-gotten, but can we use it to..."
+91350,352,215,1190000,Marge Simpson,Simpson Home,To give these Germans das boot? Jawohl!
+91351,352,216,1193000,German Backpacker,Simpson Home,"Uh, please to have new facecloth. Schnell."
+91352,352,217,1196000,Homer Simpson,Simpson Home,Time to take out the Euro-trash.
+91353,352,218,1201000,Female German Backpacker,Simpson Home,"Oh no, who will put up with our nonsense now?"
+91354,352,219,1204000,German Backpacker,Simpson Home,To Disneyland! Where we will heap the scorn on Goofy!
+91355,352,220,1213000,Homer Simpson,Simpson Home,"Now, everything's perfect again."
+91356,352,221,1215000,Tab Spangler,Simpson Home,"Excuse me, I think I left my belt here."
+91357,352,222,1218000,Marge Simpson,Simpson Home,No you didn't.
+91358,352,223,1219000,Tab Spangler,Simpson Home,"Don't tell me ""I didn't."" That's my lucky belt. Long story. Good one."
+91359,352,224,1224000,Tab Spangler,Simpson Home,"Folks, you have three weeks left on a non-refundable weight-loss treatment. So if anybody else in the family wants to use it, use it now."
+91360,352,225,1231000,Homer Simpson,Simpson Home,But who else needs to lose weight? Maggie? Grampa? My seldom-seen half brother Herb?
+91361,352,226,1237000,Homer Simpson,Simpson Home,Why is everyone looking at me?
+91365,352,230,1242000,Homer Simpson,Car,"I am not too fat. I'm alive, aren't I?"
+91366,352,231,1245000,Tab Spangler,Car,"Mr. Simpson, you're suffering from..."
+91367,352,232,1245000,Tab Spangler,Car,"""PSI"" -- Poor Self Esteem. It's not ""I."" Every sign is wrong!"
+91368,352,233,1251000,Homer Simpson,Car,"Oh, that's terrible."
+91369,352,234,1253000,Tab Spangler,Car,We got a long drive ahead. You wanna pull off into a motel? We'll split a room.
+91370,352,235,1257000,Homer Simpson,Car,Where will I sleep?
+91371,352,236,1259000,Tab Spangler,Car,We can worry about that when we're standing naked before the bed! My goodness! No wonder you eat.
+91373,352,238,1265000,Tab Spangler,Highway,What are you eating now?!
+91374,352,239,1266000,Homer Simpson,Highway,Cheeseburger.
+91375,352,240,1267000,Tab Spangler,Highway,You're a catastrophe. Lemme have half of it.
+91376,352,241,1270000,Homer Simpson,Highway,I don't wanna.
+91377,352,242,1271000,Tab Spangler,Highway,"I just want the cheese, I don't want the meat. I do want the meat."
+91378,352,243,1274000,Homer Simpson,Highway,Here's a corner.
+91379,352,244,1275000,Tab Spangler,Highway,"I mean, just bite it, don't rip it. Lemme have the whole thing. You'll get some later."
+91380,352,245,1278000,Homer Simpson,Highway,You're a selfish jerk.
+91381,352,246,1280000,Tab Spangler,Highway,"I smelled it, it has to be eaten."
+91382,352,247,1282000,Homer Simpson,Highway,But it's my burger.
+91383,352,248,1283000,Tab Spangler,Highway,I'm driving. I'll kill us.
+91384,352,249,1285000,Homer Simpson,Highway,Fine. I'd rather die.

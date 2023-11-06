@@ -1,0 +1,279 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+43756,191,2,42000,Bart Simpson,Airport Terminal,"Thanks for lettin' me skip school to see the team come back from the championship, Dad."
+43757,191,3,46000,Homer Simpson,Airport Terminal,"I always say, a boy can learn more at an airport than he can at any school."
+43758,191,4,52000,Guard,Airport Terminal,"Hey, I need to see your claim checks for that luggage!"
+43759,191,5,55000,Jimbo Jones,Airport Terminal,"Oh, of course, I have it right here!"
+43760,191,6,59000,Guard,Airport Terminal,I'll need to see yours too.
+43761,191,7,61000,Kearney Zzyzwicz,Airport Terminal,You got it!
+43762,191,8,63000,Guard,Airport Terminal,I'll take your word for it.
+43763,191,9,65000,DOLPH,Airport Terminal,You're just doing your job!
+43764,191,10,72000,Hans Moleman,Airport Terminal,Do you have anything by Robert Ludlam?
+43765,191,11,74000,Clerk,Airport Terminal,Get out.
+43766,191,12,76000,Apu Nahasapeemapetilon,Airport Terminal,"Look at the outrageous mark-up! You magnificent bastard, I salute you!"
+43767,191,13,84000,Kearney Zzyzwicz,Airport Terminal,I just got a bunch of fruity Easter eggs.
+43768,191,14,87000,DOLPH,Airport Terminal,Ew! Another liver transplant!
+43769,191,15,93000,Barney Gumble,Airport Terminal,"Oh no, not again."
+43770,191,16,96000,Barney Gumble,Airport Terminal,"You're not gettin' away that easy, little fella."
+43771,191,17,102000,Hari Krishna,Airport Terminal,Have you heard of Krishna Consciousness?
+43772,191,18,104000,Homer Simpson,Airport Terminal,"This, Bart, is a crazy man."
+43773,191,19,106000,Christian,Airport Terminal,Do unto others as you would have them do unto you!
+43774,191,20,110000,Homer Simpson,Airport Terminal,Right. That'll work.
+43775,191,21,111000,Jane,Airport Terminal,"A new and better life awaits you on our distant home planet, Blisstonia."
+43776,191,22,115000,Homer Simpson,Airport Terminal,Hmm. Makes sense.
+43777,191,23,117000,Jane,Airport Terminal,We're having a free get-acquainted session at our resort this weekend.
+43778,191,24,121000,Homer Simpson,Airport Terminal,How much is this free resort weekend?
+43779,191,25,123000,Glen,Airport Terminal,It's free.
+43780,191,26,124000,Homer Simpson,Airport Terminal,And when is this weekend?
+43781,191,27,126000,Glen,Airport Terminal,It's this weekend.
+43782,191,28,127000,Homer Simpson,Airport Terminal,Uh huh. And how much does it cost?
+43783,191,29,129000,Glen,Airport Terminal,"Um, it's free."
+43784,191,30,130000,Homer Simpson,Airport Terminal,I see. And when is it?
+43785,191,31,132000,Glen,Airport Terminal,It's this weekend.
+43786,191,32,133000,Homer Simpson,Airport Terminal,And what are you charging for this free weekend?
+43787,191,33,136000,Bart Simpson,Airport Terminal,"C'mon, Dad! The team's arriving!"
+43788,191,34,137000,Homer Simpson,Airport Terminal,"It's free, right?"
+43790,191,36,141000,Player #1,AIRPORT TARMAC,"Hey, Look! There's a big crowd to welcome us back! Even though we lost!"
+43791,191,37,146000,Moe Szyslak,AIRPORT TARMAC,"Hey, I'll give you something to cry about, ya loser! You can't catch a football?! Let's see if you can catch a rock!"
+43793,191,39,169000,Marge Simpson,Simpson Home,I've never heard of these Movementarians. Are they some kind of church?
+43795,191,40,174000,Homer Simpson,Simpson Home,"Who cares what it is? The point is these are some decent, generous people that I can take advantage of."
+43796,191,41,179000,Marge Simpson,Simpson Home,But what if they try to talk us into something?
+43797,191,42,181000,Homer Simpson,Simpson Home,"Marge, Marge, Marge. Remember when those smooth-talking guys tried to sell me a time-share vacation condo?"
+43798,191,43,189000,Marge Simpson,Simpson Home,You bought four of them. Thank God the check bounced.
+43799,191,44,191000,Homer Simpson,Simpson Home,"So, I beat the system."
+43800,191,45,192000,Lisa Simpson,Simpson Home,"Watch yourself, Dad. You're the highly suggestible type."
+43801,191,46,196000,Homer Simpson,Simpson Home,Yes. I am the highly suggestible type.
+43803,191,48,199000,Movementarians,MOVEMENTARIAN COMPOUND,"Welcome, brother!"
+43804,191,49,204000,Homer Simpson,MOVEMENTARIAN COMPOUND,"Outta my way, jerk ass!"
+43805,191,50,206000,Homer Simpson,MOVEMENTARIAN COMPOUND,"NA NA NA NA NA NA NA NA FISH-ING / NA NA NA NA NA NA NA NA FISH-ING / FISH-ING, FISH-ING--"
+43806,191,51,216000,Glen,MOVEMENTARIAN COMPOUND,"Hi, how are y--"
+43807,191,52,217000,Homer Simpson,MOVEMENTARIAN COMPOUND,Fish-ing.
+43808,191,53,219000,Jane,MOVEMENTARIAN COMPOUND,It certainly is a beautiful day. We should thank the Leader.
+43809,191,54,222000,Homer Simpson,MOVEMENTARIAN COMPOUND,Who the hell is that? Some kind of leader?
+43810,191,55,224000,Jane,MOVEMENTARIAN COMPOUND,"Yes. He's the head of our perfect family. And when our galactic vehicle is complete, he will take us to our new home, Blisstonia."
+43811,191,56,231000,Glen,MOVEMENTARIAN COMPOUND,Why don't you come chat with us about the Leader at the Welcome Center.
+43812,191,57,235000,Homer Simpson,MOVEMENTARIAN COMPOUND,Will there be beer?
+43813,191,58,236000,Glen,MOVEMENTARIAN COMPOUND,Beer is not allowed.
+43814,191,59,237000,Homer Simpson,MOVEMENTARIAN COMPOUND,Homer no function beer well without.
+43815,191,60,239000,Jane,MOVEMENTARIAN COMPOUND,Would you rather have beer or complete and utter contentment?
+43816,191,61,242000,Homer Simpson,MOVEMENTARIAN COMPOUND,What kind of beer?
+43817,191,62,244000,Glen,MOVEMENTARIAN COMPOUND,"The Leader knows how miserable you, Marge, Lisa, Bart and Maggie are."
+43818,191,63,248000,Homer Simpson,MOVEMENTARIAN COMPOUND,Really? I'm surprised about Maggie.
+43819,191,64,251000,Glen,MOVEMENTARIAN COMPOUND,Just come up and watch our orientation film. You're free to leave at anytime.
+43820,191,65,254000,Homer Simpson,MOVEMENTARIAN COMPOUND,"Wow, a free movie. Thanks! Outta my way, jerk ass."
+43824,191,66,260000,Announcer,MOVEMENTARIAN COMPOUND,"Once we collect enough money for fuel, our Leader will throw open the doors of The Forbidden Barn, where we will all board our inter-galactic vehicle -- rows 1 through 30 first. Upon our arrival, we will begin our new perfect lives on Blisstonia, well known for its high levels of bliss."
+43825,191,67,278000,Carl Carlson,MOVEMENTARIAN COMPOUND,"Hey, I don't know about you, but uh, they're not exactly winning me over with these lousy production values here. I'm gonna slip out."
+43826,191,68,285000,Glen,MOVEMENTARIAN COMPOUND,"Uh, you're free to leave whenever you want. But uh -- would mind telling us why?"
+43827,191,69,289000,Carl Carlson,MOVEMENTARIAN COMPOUND,"Oh, I just didn't...Uh, I didn't think...Um, oh, it's - it's pretty good."
+43828,191,70,295000,Otto Mann,MOVEMENTARIAN COMPOUND,"Man, this whole place puffs on the wacky tabacky. I'm outta here."
+43830,191,72,299000,Glen,MOVEMENTARIAN COMPOUND,Going somewhere? Though you're free to do so.
+43831,191,73,302000,Otto Mann,MOVEMENTARIAN COMPOUND,"Uh no, just rearranging my underwear. Ah, there it is."
+43832,191,74,314000,Announcer,MOVEMENTARIAN COMPOUND,"When you surrender yourself to the Movementarians, you are guaranteed a perfect life of serenity, love and loving serenity. Not a guarantee."
+43833,191,75,323000,Moe Szyslak,MOVEMENTARIAN COMPOUND,Loving serenity. It's about damn time.
+43834,191,76,326000,Otto Mann,MOVEMENTARIAN COMPOUND,I love the Leader!
+43835,191,77,328000,Carl Carlson,MOVEMENTARIAN COMPOUND,The Leader is perfect!
+43836,191,78,329000,Homer Simpson,MOVEMENTARIAN COMPOUND,Wait - I'm confused about the movie. So the cops knew that internal affairs was setting them up?
+43837,191,79,335000,Glen,MOVEMENTARIAN COMPOUND,What are you talking about? There's nothing like that in there.
+43838,191,80,339000,Homer Simpson,MOVEMENTARIAN COMPOUND,"Well, you see, when I get bored, I make up my own movie. I have a very short attention span."
+43839,191,81,343000,Jane,MOVEMENTARIAN COMPOUND,But our point is very simple. You see when --
+43840,191,82,345000,Homer Simpson,MOVEMENTARIAN COMPOUND,"Ooh, look a bird."
+43841,191,83,349000,Jane,MOVEMENTARIAN COMPOUND,"The ""Circle of Judgment"" never fails to destroy their self esteem. Then he'll be ours to mold."
+43842,191,84,355000,Glen,MOVEMENTARIAN COMPOUND,Let the judgment begin! I'll get the ball rolling. You're a fat idiot!
+43843,191,85,360000,Movementarians,MOVEMENTARIAN COMPOUND,"Yeah, lose some weight! / Amen you're fat / moron-type"
+43844,191,86,366000,Homer Simpson,MOVEMENTARIAN COMPOUND,"Uh yeah, I guess I could lose a few pounds. And I can be kind of thick sometimes."
+43845,191,87,373000,Seymour Skinner,MOVEMENTARIAN COMPOUND,You've failed at everything you've ever tried.
+43821,191,88,376000,Homer Simpson,MOVEMENTARIAN COMPOUND,"Whoa, you've got my number on that one, buddy! This is a smart group."
+43822,191,89,380000,Moe Szyslak,MOVEMENTARIAN COMPOUND,And your stink brings tears to my eyes!
+43823,191,90,383000,Homer Simpson,MOVEMENTARIAN COMPOUND,"Now wait a minute, Moe --"
+43846,191,91,386000,Homer Simpson,MOVEMENTARIAN COMPOUND,"Oh, my mistake."
+43847,191,92,390000,Jane,MOVEMENTARIAN COMPOUND,Why isn't our low protein gruel wearing down his resistance like all the others?
+43848,191,93,394000,Glen,MOVEMENTARIAN COMPOUND,It doesn't wear down your resistance if you eat a whole month's supply.
+43849,191,94,397000,Glen,MOVEMENTARIAN COMPOUND,He even ate mine!
+43850,191,95,402000,Homer Simpson,MOVEMENTARIAN COMPOUND,"You gonna finish that, bony?"
+43852,191,97,405000,Jane,MOVEMENTARIAN COMPOUND,"Let's try the chant. Everyone loves a droning, repetitive chant."
+43853,191,98,409000,Glen,MOVEMENTARIAN COMPOUND,"Attention, everyone! Let's all give thanks to the Leader for this glorious day!"
+43854,191,99,413000,Glen,MOVEMENTARIAN COMPOUND,The Leader is good. / The Leader is great. / We surrender our will. / As of this date.
+43855,191,100,417000,Movementarians,MOVEMENTARIAN COMPOUND,The Leader is good. / The Leader is great. / We surrender our will. / As of this date.
+43856,191,101,423000,Jane,MOVEMENTARIAN COMPOUND,It's no use. He's obviously the most powerful mind we've ever dealt with.
+43857,191,102,428000,Glen,MOVEMENTARIAN COMPOUND,Or... NA NA NA NA NA NA NA NA LEADER / NA NA NA NA NA NA NA NA LEADER....
+43858,191,103,434000,Homer Simpson,MOVEMENTARIAN COMPOUND,"NA NA NA NA NA NA NA NA LEADER / NA NA NA NA NA NA NA NA LEADER / LEA-DER, LEA-DER, LEA-DER!"
+43859,191,104,443000,Homer Simpson,MOVEMENTARIAN COMPOUND,"BATMAN! / I MEAN, LEADER! I LOVE THE LEADER!"
+43860,191,105,453000,Homer Simpson,MOVEMENTARIAN COMPOUND,ACT II
+43862,191,107,453000,Marge Simpson,Simpson Home,You what?!
+43863,191,108,454000,Homer Simpson,Simpson Home,"Come again, Marge?"
+43864,191,109,455000,Marge Simpson,Simpson Home,You what?!
+43865,191,110,455000,Homer Simpson,Simpson Home,I've joined the Movementarians! And so have all of you!
+43866,191,111,458000,Marge Simpson,Simpson Home,We what?
+43867,191,112,459000,Homer Simpson,Simpson Home,"All I had to give them was our life savings, the deed to the house, and a commitment of ten trillion years of labor."
+43868,191,113,465000,Marge Simpson,Simpson Home,"I can't go along with this, Homer."
+43869,191,114,467000,Homer Simpson,Simpson Home,"Marge, when I join an underground cult, I expect a little support from my family."
+43870,191,115,470000,Lisa Simpson,Simpson Home,"Dad, do you think you might have been brainwashed?"
+43871,191,116,473000,Homer Simpson,Simpson Home,I have not been brainwashed. Kill the girl. Kill the girl.
+43872,191,117,477000,Marge Simpson,Simpson Home,Homer!
+43873,191,118,478000,Homer Simpson,Simpson Home,What? What did I say?
+43874,191,119,480000,Bart Simpson,Simpson Home,"Church, cult. Cult, church. So we get bored someplace else every Sunday. Does this really change our day-to-day lives?"
+43877,191,120,485000,Homer Simpson,Simpson Home,Of course not! Except that we're all moving to the Movementarian Agricultural Compound to be near the Leader and serve him.
+43878,191,121,491000,Marge Simpson,Simpson Home,I'm not leaving my home!
+43879,191,122,493000,Don,Simpson Home,"Oh, yes you are. I'm afraid it's our home now. This house will become the new local Welcome Center for this district."
+43880,191,123,499000,Homer Simpson,Simpson Home,And it didn't cost us a dime.
+43881,191,124,502000,Kent Brockman,Simpson Home,Springfield has been overrun by a strange and almost certainly evil sect calling themselves the Movementarians.
+43882,191,125,502000,Kent Brockman,Simpson Home,"In exchange for your home and all your money, the Leader of this ""way-out"" and wrong religion, claims he'll take believers away on his spaceship to the planet Blisstonia. Excuse my editorial laugh. But..."
+43883,191,126,520000,Kent Brockman,Simpson Home,"Ladies and gentlemen, I've just learned of a change in this station's management. Welcome, Movementarians! Continue to improve our lives! I love you, Perfect Leader. And new C.E.O. of K-B-B-O broadcasting!"
+43885,191,128,535000,Glen,MOVEMENTARIAN COMPOUND,"Homer Simpson, your family will be housed here for the first 100,000 years. Then something might open up in a double."
+43886,191,129,542000,Homer Simpson,MOVEMENTARIAN COMPOUND,"Hah, why even unpack?"
+43888,191,131,545000,Lisa Simpson,MOVEMENTARIAN COMPOUND,Dad and all these other people are obviously the products of mental conditioning.
+43889,191,132,549000,Bart Simpson,MOVEMENTARIAN COMPOUND,"Yeah, maybe it'll wear off. Like his interest in C.B. radio."
+43890,191,133,552000,Homer Simpson,MOVEMENTARIAN COMPOUND,"That's a negatory, good buddy!"
+43891,191,134,553000,Bart Simpson,MOVEMENTARIAN COMPOUND,"I kinda think it's cool. Just pretend you're in a zombie movie. Besides, this is just another place for me to wreak my special brand of hysterical havoc."
+43892,191,135,561000,Bart Simpson,MOVEMENTARIAN COMPOUND,These rubes in robes haven't met the likes of Bart Simpson before.
+43893,191,136,572000,Bart Simpson,MOVEMENTARIAN COMPOUND,I love the Leader.
+43894,191,137,575000,Glen,MOVEMENTARIAN COMPOUND,Of course you do.
+43896,191,139,578000,Rev. Timothy Lovejoy,First Church of Springfield,"This so-called ""new religion"" is nothing but a pack of weird rituals and chants designed to take away the money of fools... Let us say the Lord's Prayer forty times. But first, let's pass the collection plate."
+43897,191,140,592000,Ned Flanders,First Church of Springfield,"Looks like slim pickin's today, Reverend."
+43898,191,141,596000,Rev. Timothy Lovejoy,First Church of Springfield,"Oh, Lord. Uh, try the emergency plate, Ned."
+43875,191,142,600000,Ned Flanders,First Church of Springfield,I don't think that's gonna do it.
+43899,191,145,604000,Homer Simpson,MOVEMENTARIAN COMPOUND,"See, Marge? Our lives are so much better now!"
+43900,191,146,607000,Glen,MOVEMENTARIAN COMPOUND,You two! Stop talking and resume the lima bean harvest!
+43901,191,147,611000,Marge Simpson,MOVEMENTARIAN COMPOUND,"When we got married, you promised me my harvesting days were over."
+43902,191,148,618000,Moe Szyslak,MOVEMENTARIAN COMPOUND,Look! The Forbidden Barn opens!
+43903,191,149,623000,Movementarians,MOVEMENTARIAN COMPOUND,The Leader! / He's coming! / The Leader is coming! / The Leader! / etc.
+43904,191,150,629000,Homer Simpson,MOVEMENTARIAN COMPOUND,Oh boy! We get to see the Leader pass by.
+43905,191,151,631000,Lisa Simpson,MOVEMENTARIAN COMPOUND,We toil in the fields and he rides around in a Rolls Royce?
+43906,191,152,634000,Homer Simpson,MOVEMENTARIAN COMPOUND,"Yes, it would be nice if he'd buy American, but what are ya gonna do?"
+43907,191,153,640000,Moe Szyslak,MOVEMENTARIAN COMPOUND,I'm covered in the dust of the Leader! He favors me!
+43908,191,154,644000,Sideshow Mel,MOVEMENTARIAN COMPOUND,I am even dustier! Dustier than thou!
+43909,191,155,650000,Moe Szyslak,MOVEMENTARIAN COMPOUND,"Oh, look who the new pet is!"
+43910,191,156,653000,Homer Simpson,MOVEMENTARIAN COMPOUND,I've never been so happy.
+43912,191,158,656000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Smithers, why haven't I heard of this ""The Leader?"" He's as rich and wicked as I, but he seems to enjoy tax exempt status."
+43913,191,159,664000,Waylon Smithers,Springfield Nuclear Power Plant,"Actually sir, with our creative bookkeeping and corporate loopholes, we only pay three dollars a year."
+43914,191,160,669000,C. Montgomery Burns,Springfield Nuclear Power Plant,You're right. We're getting screwed! There must be something I can do about this. Wait! Yes! I think I know just the thing!
+43916,191,162,686000,Waylon Smithers,Burns's Office,"Uh, sir, you have to tell me what your plan is, or nothing will happen."
+43917,191,163,691000,C. Montgomery Burns,Burns's Office,"Oh, yes, of course, the plan! You see me as a God, right Smithers?"
+43918,191,164,695000,Waylon Smithers,Burns's Office,"Absolutely, sir."
+43919,191,165,696000,C. Montgomery Burns,Burns's Office,You'd kneel before me.
+43920,191,166,697000,Waylon Smithers,Burns's Office,"Boy, would I."
+43921,191,167,699000,C. Montgomery Burns,Burns's Office,"Yes -- Uh, then I'll form my own religion!"
+43922,191,168,699000,C. Montgomery Burns,Burns's Office,"With its own symbol. We'll use this ""Special K!"""
+43923,191,169,703000,Waylon Smithers,Burns's Office,"I believe that's already a breakfast cereal, sir."
+43924,191,170,708000,C. Montgomery Burns,Burns's Office,And people worship it?
+43925,191,171,710000,Waylon Smithers,Burns's Office,In a way.
+43926,191,172,711000,C. Montgomery Burns,Burns's Office,"All right, then. Uh, how about this?"
+43927,191,173,713000,Waylon Smithers,Burns's Office,"Uh, why don't you leave the symbol to me, sir."
+43928,191,175,731000,Waylon Smithers,Springfield Nuclear Power Plant,"Ladies and gentlemen, behold your new God...Mr. Burns!"
+43929,191,176,740000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Ahoy hoy, lowly mortals! In addition to working for me, you may now praise me as your Almighty!"
+43930,191,177,747000,Waylon Smithers,Springfield Nuclear Power Plant,"Amen, sir."
+43931,191,178,759000,Waylon Smithers,Springfield Nuclear Power Plant,"Ahh, we'll try this again tomorrow."
+43932,191,179,762000,Lenny Leonard,Springfield Nuclear Power Plant,"Ah, he's all right, but he's no bowl of Special K."
+43934,191,181,767000,Marge Simpson,MOVEMENTARIAN COMPOUND,"This is ridiculous, we're already married!"
+43935,191,182,769000,Homer Simpson,MOVEMENTARIAN COMPOUND,"But Marge, we're not mass married."
+43936,191,183,774000,Barney Gumble,MOVEMENTARIAN COMPOUND,At least you got to choose your mate. We got matched up on the print-out.
+43937,191,184,779000,Otto Mann,MOVEMENTARIAN COMPOUND,"Hey, remember our agreement. I'm the man."
+43938,191,185,782000,Barney Gumble,MOVEMENTARIAN COMPOUND,You're the man!
+43939,191,186,783000,Seymour Skinner,MOVEMENTARIAN COMPOUND,"I could've done a lot worse, Mother."
+43940,191,187,785000,Agnes Skinner,MOVEMENTARIAN COMPOUND,Speak for yourself.
+43941,191,188,787000,Comic Book Guy,MOVEMENTARIAN COMPOUND,"So, do you enjoy comic books?"
+43943,191,190,791000,Edna Krabappel-Flanders,MOVEMENTARIAN SCHOOL,"And who can tell me where thunder and lightning come from? Yes, Bart?"
+43944,191,191,796000,Bart Simpson,MOVEMENTARIAN SCHOOL,"The Leader, Ma'am."
+43945,191,192,798000,Edna Krabappel-Flanders,MOVEMENTARIAN SCHOOL,"Very good, Bart. And who invented Morse code?"
+43946,191,193,801000,Bart Simpson,MOVEMENTARIAN SCHOOL,"Oh, I should know this one. Th--The Leader?"
+43947,191,194,806000,Edna Krabappel-Flanders,MOVEMENTARIAN SCHOOL,"Ah, correct again."
+43948,191,195,808000,Lisa Simpson,MOVEMENTARIAN SCHOOL,He's wrong! You're wrong! The whole damn system is wrong!
+43949,191,196,814000,Edna Krabappel-Flanders,MOVEMENTARIAN SCHOOL,"What's the matter, Lisa? You used to be such a good student. Don't you want to please your teachers and get good grades?"
+43950,191,197,823000,Lisa Simpson,MOVEMENTARIAN SCHOOL,Grades?
+43952,191,199,826000,Dinosaur,Movementarian Day Care Center,We love him...He loves we...We're the Leader's Fa-mi-ly.
+43954,191,201,832000,Homer Simpson,MOVEMENTARIAN COMPOUND,These lima beans are even better than the ones we had for breakfast and lunch. Oh! A lima bean that looks just like the Leader! I'll put it with the others.
+43955,191,202,842000,Marge Simpson,MOVEMENTARIAN COMPOUND,"Homer, you know I always try to put the best face on everything. But there's no face on that damn bean! We hate it here and the family wants to leave."
+43794,191,203,852000,Lisa Simpson,MOVEMENTARIAN COMPOUND,"No we don't, Mother!"
+43957,191,204,853000,Lisa Simpson,MOVEMENTARIAN COMPOUND,We love the Leader!
+43958,191,205,858000,Marge Simpson,MOVEMENTARIAN COMPOUND,"No-o-o-o-o-o-o!!! All righty, time for bed."
+43959,191,206,865000,Marge Simpson,MOVEMENTARIAN COMPOUND,"I'm leaving this place, and you'd better step aside!"
+43960,191,207,869000,Sentry,MOVEMENTARIAN COMPOUND,"Lady, people are free to go whenever they wish."
+43963,191,210,910000,Rev. Timothy Lovejoy,First Church of Springfield,"Oh, I never thought I'd have to do this again."
+43964,191,211,915000,Marge Simpson,First Church of Springfield,Reverend Lovejoy! You've got to help me! My entire family has been taken in by the evil Movementarians.
+43965,191,212,923000,Rev. Timothy Lovejoy,First Church of Springfield,"Oh, I feel for you my child, and I'd like to help you."
+43966,191,213,932000,Marge Simpson,First Church of Springfield,"Now, how are we going to get my Homie back?"
+43967,191,214,936000,Groundskeeper Willie,First Church of Springfield,I'll kidnap him for fifty. De-program him for a hundred. And I'll kill him for five hundred.
+43968,191,215,942000,Marge Simpson,First Church of Springfield,"No, no, no. Just the first two."
+43969,191,216,944000,Groundskeeper Willie,First Church of Springfield,All right. I'll throw in the killin' for free.
+43971,191,218,946000,Lisa Simpson,MOVEMENTARIAN COMPOUND,Yaaay! Here comes the Leader!
+43972,191,219,955000,Homer Simpson,MOVEMENTARIAN COMPOUND,What an honor! We've been called into the presence of --
+43974,191,221,961000,Homer Simpson,ROLLS ROYCE,Marge? You're the Leader? You don't look anything like the beans.
+43975,191,222,965000,Groundskeeper Willie,ROLLS ROYCE,"Knock 'im out, Reverend!"
+43977,191,224,969000,Rev. Timothy Lovejoy,ROLLS ROYCE,"Oh, the Devil has given him superhuman strength!"
+43978,191,225,972000,Groundskeeper Willie,ROLLS ROYCE,"Give me that, you noodle-armed choir boy!"
+43979,191,226,976000,Rev. Timothy Lovejoy,ROLLS ROYCE,"Well, that didn't do it, Mr. Kilt."
+43980,191,227,978000,Marge Simpson,ROLLS ROYCE,"Look, let's the three of us try it together."
+43982,191,229,981000,Groundskeeper Willie,BASEMENT,"Oh, you're gonna break like matchsticks. I promise you that."
+43983,191,230,992000,Ned Flanders,BASEMENT,"Hey, I made some Rice Krispy squares for our hungry deprogramerinos!"
+43984,191,231,996000,Groundskeeper Willie,BASEMENT,"Ah, man! You ruined the atmosphere, you daft pansy!"
+43985,191,232,1000000,Ned Flanders,BASEMENT,"Well, this is my rumpus room."
+43986,191,233,1003000,Groundskeeper Willie,BASEMENT,Ach! Don't call it that!
+43989,191,235,1007000,Glen,MOVEMENTARIAN COMPOUND,Outsiders have kidnapped some of our property. We must respond with our deadliest weapon.
+43990,191,236,1013000,Jane,MOVEMENTARIAN COMPOUND,The Lawyers.
+43992,191,238,1020000,Kent Brockman,Springfield Fire Department,"Attention all citizens! Even though the Leader himself is completely non-violent, he urges you to be as violent as you like in capturing the Simpsons."
+43993,191,239,1033000,Kent Brockman,Springfield Fire Department,"What are you doing? They're not here, you idiots!"
+43994,191,240,1036000,Blue-Haired Lawyer,Springfield Fire Department,"Idiots? That's slander, sir. And we have it on tape."
+43995,191,241,1038000,Kent Brockman,Springfield Fire Department,"All right, I'll get out my checkbook."
+43996,191,242,1042000,Blue-Haired Lawyer,Springfield Fire Department,What was that?
+147945,191,243,1043000,BROCKMAN,Springfield Fire Department,"Ah, I said ""Mmph."""
+43998,191,245,1043000,Marge Simpson,Flanders Home,"So, you kids really love the Leader, huh? Even more than your parents?"
+43999,191,246,1049000,Lisa Simpson,Flanders Home,Oh yeah! / Absolutely! / At least twice as much!
+44000,191,247,1051000,Marge Simpson,Flanders Home,"All right, already! But do you love the Leader more than having your very own, brand new -- Hoverbikes?"
+44001,191,248,1062000,Marge Simpson,Flanders Home,What do you have to say about the Leader now? Hunh? Hunh?
+44002,191,249,1065000,Lisa Simpson,Flanders Home,The hell with him! / What Leader? / He can take a flying leap as far as I'm concerned! / Lea-who?
+44003,191,250,1067000,Marge Simpson,Flanders Home,And who do you love now?
+44004,191,251,1069000,Lisa Simpson,Flanders Home,Hoverbikes!!
+44005,191,252,1070000,Marge Simpson,Flanders Home,Close enough.
+44006,191,253,1077000,Lisa Simpson,Flanders Home,Yayyy!
+44007,191,254,1077000,Marge Simpson,Flanders Home,"Sorry kids, there's no such thing as Hoverbikes. They're just a couple of Huffys on a fishing line!"
+44008,191,255,1084000,Lisa Simpson,Flanders Home,But we heard them hovering!
+44009,191,256,1086000,Ned Flanders,Flanders Home,"Oh ho, I'm afraid I played a dirty part in this little charade."
+44010,191,257,1090000,Bart Simpson,Flanders Home,"Well, can we at least keep the bikes?"
+44011,191,258,1091000,Marge Simpson,Flanders Home,"Oh no, no, no, no, no, no! They're due back at the store by six. Get off 'em! Get off, off! Get off!"
+44012,191,259,1096000,Groundskeeper Willie,Flanders Home,"All right, Now, what's so all-fired great about your fancy-pants Leader?"
+44013,191,260,1103000,Homer Simpson,Flanders Home,The Leader knows all and sees all.
+44014,191,261,1106000,Groundskeeper Willie,Flanders Home,"Eww, well, that is impressive."
+44015,191,262,1108000,Homer Simpson,Flanders Home,And he's going to take us to a wonderful new planet.
+44017,191,263,1112000,Groundskeeper Willie,Flanders Home,"Oh! This Leader, he sounds like a grand fella."
+44018,191,264,1116000,Marge Simpson,Flanders Home,"Willie, I'm not sure we're making any headway here."
+44019,191,265,1118000,Groundskeeper Willie,Flanders Home,"Would you shut up, woman! He's talkin' about my Leader!"
+44020,191,266,1122000,Ned Flanders,Flanders Home,"Uh, maybe we should take a little break-a-rooney, huh? Anyone like a draft beer?"
+44021,191,267,1126000,Homer Simpson,Flanders Home,Beer?
+44022,191,268,1127000,Marge Simpson,Flanders Home,"Hmm... Would you like a tall frosty one, Homer?"
+148583,191,269,1138000,Homer's Brain,Flanders Home,No! Must resist temptation!
+44023,191,270,1141000,Homer's Stomach,Flanders Home,Go ahead! Give in! Beer! Beer!
+44024,191,271,1146000,Homer's Feet,Flanders Home,"Ooh, these cotton-poly blends are sooo comfortable!"
+44025,191,272,1150000,Rev. Timothy Lovejoy,Flanders Home,"Go on, Homer. Our commandments clearly state that beer is all right. Try some."
+44026,191,273,1163000,Blue-Haired Lawyer,Flanders Home,This man is coming with us!
+44027,191,274,1164000,Marge Simpson,Flanders Home,"Homer, you don't have to go with them!"
+44028,191,275,1166000,Homer Simpson,Flanders Home,But I want to go.
+44029,191,276,1168000,Blue-Haired Lawyer,Flanders Home,"Well, I would say the matter is settled."
+44030,191,277,1170000,Ned Flanders,Flanders Home,"You know, I pride myself on being a good host, so I'm obliged to offer you a beer. But I'm so darn mad it's gonna be mostly head."
+44032,191,279,1183000,Marge Simpson,MOVEMENTARIAN COMPOUND,"Homer, come back!"
+44033,191,280,1185000,Marge Simpson,MOVEMENTARIAN COMPOUND,That's my husband!
+44034,191,281,1187000,Glen,MOVEMENTARIAN COMPOUND,He's our husband now.
+44035,191,282,1190000,Homer Simpson,MOVEMENTARIAN COMPOUND,"I'm glad I'm back! Because the moment that sweet, sweet beer hit my tongue, I was born again!"
+44036,191,283,1199000,Rev. Timothy Lovejoy,MOVEMENTARIAN COMPOUND,Hallelujah!
+44037,191,284,1200000,Homer Simpson,MOVEMENTARIAN COMPOUND,Now I can show all of you what I've come to realize. The reason we're not allowed in the Forbidden Barn is because there is no inter-galactic spaceship! He's taken our money just so he can...build one hell of a spaceship!
+44038,191,285,1219000,Leader,MOVEMENTARIAN COMPOUND,"Homer Simpson! Because of your lack of faith, you've ruined mankind's chance for salvation!"
+44039,191,286,1225000,Homer Simpson,MOVEMENTARIAN COMPOUND,Whoops.
+44040,191,287,1226000,Moe Szyslak,MOVEMENTARIAN COMPOUND,"Nice going there, Homer."
+44041,191,288,1227000,Marge Simpson,MOVEMENTARIAN COMPOUND,Omigosh! Maybe he was telling the truth about everything.
+44042,191,289,1231000,Rev. Timothy Lovejoy,MOVEMENTARIAN COMPOUND,"Oh, mercy! He's the real deal!"
+44043,191,290,1247000,Movementarians,MOVEMENTARIAN COMPOUND,Awww...
+44044,191,291,1249000,Groundskeeper Willie,MOVEMENTARIAN COMPOUND,"Come back! Come back! Willy still loves you, oh Great One!"
+44045,191,292,1259000,Cletus Spuckler,MOVEMENTARIAN COMPOUND,"Stranger, you're a trespassing on my dirt farm."
+44046,191,293,1263000,Leader,MOVEMENTARIAN COMPOUND,"Uh, do you happen to need a messiah?"
+44047,191,294,1266000,Cletus Spuckler,MOVEMENTARIAN COMPOUND,"No, but I'll take them sacks of money from ya."
+44048,191,295,1271000,THE LEADER,MOVEMENTARIAN COMPOUND,I should have stayed with the Promise Keepers.
+44049,191,296,1274000,Moe Szyslak,MOVEMENTARIAN COMPOUND,"Dammit, it fell apart like everything else I've ever believed in. Oh, I guess it's back to good old fashioned voodoo."
+44050,191,297,1282000,Barney Gumble,MOVEMENTARIAN COMPOUND,"Whoa, I need a drink."
+44051,191,298,1285000,Moe Szyslak,MOVEMENTARIAN COMPOUND,Come with me.
+44052,191,299,1287000,Ned Flanders,MOVEMENTARIAN COMPOUND,"Uh, is that your collar, Reverend?"
+44053,191,300,1289000,Rev. Timothy Lovejoy,MOVEMENTARIAN COMPOUND,"Ah yes, how did that get down there?"
+44054,191,301,1294000,Rev. Timothy Lovejoy,MOVEMENTARIAN COMPOUND,"Come back to papa, baby."
+44056,191,303,1297000,Homer Simpson,Simpson Home,To think I turned to a cult for mindless happiness when I had beer all along.
+44058,191,305,1303000,Homer Simpson,Simpson Home,"And you Marge, the bringer of beer!"
+44059,191,306,1307000,Lisa Simpson,Simpson Home,It's wonderful to think for ourselves again.
+44060,191,307,1310000,Bart Simpson,Simpson Home,"You said it, sister."
+44061,191,308,1311000,Announcer,Simpson Home,You are watching Fox.
+44062,191,309,1313000,Lisa Simpson,Simpson Home,We are watching Fox.

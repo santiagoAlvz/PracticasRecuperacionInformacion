@@ -1,0 +1,262 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+34074,155,1,59000,Waylon Smithers,SMITHERS' HOUSE,I WORK FOR MONTY BURNS! / MUH MUH MUH MUH MUH MUH MUH MONTY BURNS!...
+34075,155,2,68000,Businesswoman,SMITHERS' HOUSE,Mr. Smithers? May we offer you a ride to work?
+34076,155,3,70000,Waylon Smithers,SMITHERS' HOUSE,"No, thank you."
+34077,155,4,74000,Businesswoman,SMITHERS' HOUSE,We're from Globex Corporation. We'd like to talk to you about an exciting employment opportunity in our nuclear division.
+34078,155,5,81000,Waylon Smithers,SMITHERS' HOUSE,"Flattered, but spoken for."
+34079,155,6,83000,Businesswoman,SMITHERS' HOUSE,"We're prepared to offer you an impressive salary, plus health benefits for you and your life partner."
+34080,155,7,88000,Waylon Smithers,SMITHERS' HOUSE,The answer is no! What's wrong with this country?! Can't a man walk down the street without being offered a job?
+34082,155,9,98000,Businesswoman,Limo,"We'll have to go to the next most senior man at the plant. Ah, oh, here we are. Ten years experience. His name is..."
+34084,155,11,105000,Homer Simpson,Simpson Home,"Marge! I've got a new job! It's with Globex Corporation. I get more money plus health benefits, for me and my life partner. And they'll move us and give us a nice house and..."
+34032,155,12,114000,Marge Simpson,Simpson Home,Move us?
+34058,155,13,115000,Homer Simpson,Simpson Home,It's in Cypress Creek. Upstate somewhere.
+34085,155,14,117000,Marge Simpson,Simpson Home,You took a new job in a strange town without discussing it with your family?
+34086,155,15,121000,Homer Simpson,Simpson Home,Of course not. I wouldn't do that. Why not?
+34087,155,16,125000,Marge Simpson,Simpson Home,"We have roots here, Homer. We have friends and family and library cards... Bart's lawyer is here."
+34088,155,17,132000,Homer Simpson,Simpson Home,"But Marge, this is a chance for me to fulfill my lifelong dream."
+34089,155,18,137000,Marge Simpson,Simpson Home,What lifelong dream?
+34090,155,19,139000,Homer Simpson,Simpson Home,Promise not to laugh? I always wanted to own the Dallas Cowboys.
+34092,155,21,150000,Lisa Simpson,Simpson Home,"I'm sorry, Dad. I just find that very cute."
+34093,155,22,153000,Marge Simpson,Simpson Home,"Homer, I don't want to leave Springfield. I've dug myself into a happy little rut here and I'm not about to hoist myself out of it."
+34094,155,23,160000,Homer Simpson,Simpson Home,"Just bring the rut with you, honey. Come on, take a look."
+34095,155,24,171000,Announcer,Simpson Home,Cypress Creek. A tale of one city...
+34096,155,25,171000,Homer Simpson,Simpson Home,"Ah, let's watch something else."
+34097,155,26,172000,Marge Simpson,Simpson Home,Homer! You're trying to talk us into moving to this place.
+34098,155,27,175000,Homer Simpson,Simpson Home,"Oh yeah, that's right. Let's watch this."
+34099,155,28,178000,Woman,Simpson Home,Look at this place.
+34100,155,29,180000,Man,Simpson Home,Somebody oughta build a town that works.
+34101,155,30,183000,Announcer,Simpson Home,Somebody did.
+34103,155,32,194000,Announcer,MODEL HOME,It's called Cypress Creek. A planned community designed for the workers of the Globex Corporation.
+34104,155,33,200000,Announcer,MODEL HOME,Cypress Creek. Where dreams come true.
+34105,155,34,202000,2nd Announcer,MODEL HOME,"Your dreams may vary from those of Globex Corporation, its subsidiaries, and shareholders."
+34106,155,35,208000,Homer Simpson,MODEL HOME,"Well! What do you think of me and Cypress Creek now, Marge?"
+34107,155,36,211000,Marge Simpson,MODEL HOME,It does seem nicer than Springfield.
+34108,155,37,214000,Lisa Simpson,MODEL HOME,Yeah. Did you notice how the people weren't shoving or knocking each other down? I've never been to a place like that before.
+34109,155,38,220000,Bart Simpson,MODEL HOME,Me neither!
+34110,155,39,221000,Marge Simpson,MODEL HOME,"Well, we could use the extra money... and this house is falling apart."
+34111,155,40,228000,Marge Simpson,MODEL HOME,All right.
+34112,155,41,236000,Lisa Simpson,MODEL HOME,Yayyy!
+34113,155,42,236000,Otto Mann,MODEL HOME,"Oh, wow, windows. I don't think I can afford this place."
+34115,155,43,241000,Apu Nahasapeemapetilon,MODEL HOME,"Hello. I am not interested in buying the house, but I would like to use your restroom, flip through your magazines, re-arrange your carefully shelved items, and handle your food products in an unsanitary manner. Ha! Now you know how it feels."
+34116,155,44,255000,Homer Simpson,MODEL HOME,Thank you! Come again!
+34118,155,46,257000,Homer Simpson,Simpson Home,We'll never sell this rotten dump.
+34119,155,47,261000,Bart Simpson,Simpson Home,"Ah, 'little help here?"
+34120,155,48,262000,Marge Simpson,Simpson Home,"Even if we sell the house, we still won't come close to paying off the mortgage."
+34121,155,49,268000,Homer Simpson,Simpson Home,Heeeeey...
+34122,155,50,277000,Ned Flanders,Simpson Home,"Uh... Homer... Ah, about those things you borrowed from me over the years -- you know -- the TV trays, the power sander, that downstairs bathtub... you going to be needing those things in Cypress Creek?"
+34123,155,51,290000,Homer Simpson,Simpson Home,Yes.
+34124,155,52,291000,Ned Flanders,Simpson Home,Oh... uh...
+34125,155,53,292000,Homer Simpson,Simpson Home,Okily dokily.
+34126,155,54,294000,Ned Flanders,Simpson Home,Okily dokily.
+34128,155,56,303000,Ned Flanders,Simpson Car,'Bye-diddly-i.
+34129,155,57,304000,Blue-Haired Lawyer,Simpson Car,So long.
+34130,155,58,305000,Rev. Timothy Lovejoy,Simpson Car,God bless you.
+34131,155,59,306000,Professor Jonathan Frink,Simpson Car,See ya.
+34132,155,60,306000,Apu Nahasapeemapetilon,Simpson Car,Good-bye.
+34133,155,61,307000,Barney Gumble,Simpson Car,"Bye-bye, Homer."
+34134,155,62,309000,Moe Szyslak,Simpson Car,Take care.
+34135,155,63,310000,Bumblebee Man,Simpson Car,Adios.
+34136,155,64,310000,Krusty the Clown,Simpson Car,So long.
+34137,155,65,311000,Sideshow Mel,Simpson Car,Fare thee well.
+34138,155,66,312000,Captain Horatio McCallister,Simpson Car,"Arr, bon voyage."
+34139,155,67,314000,Comic Book Guy,Simpson Car,Toodle-oo.
+34140,155,68,315000,Mayor Joe Quimby,Simpson Car,"Uh, so long."
+34141,155,69,316000,Waylon Smithers,Simpson Car,Bye-bye.
+34142,155,70,316000,C. Montgomery Burns,Simpson Car,Ta-ta.
+34143,155,71,317000,Dr. Nick Riviera,Simpson Car,"'Bye, everybody."
+34144,155,72,317000,Dr. Julius Hibbert,Simpson Car,Bye-bye.
+34145,155,73,319000,Snake Jailbird,Simpson Car,"Sayonara, dudes."
+34146,155,74,319000,Chief Wiggum,Simpson Car,So long.
+34147,155,75,321000,Kids,Simpson Car,Bye-bye.
+34148,155,76,323000,Agnes Skinner,Simpson Car,Bye-bye now.
+34149,155,77,324000,Milhouse Van Houten,Simpson Car,'Bye.
+34150,155,78,325000,Otto Mann,Simpson Car,See ya.
+34151,155,79,325000,Seymour Skinner,Simpson Car,'Bye.
+34152,155,80,325000,Gary Chalmers,Simpson Car,Bye-bye.
+34153,155,81,326000,Nelson Muntz,Simpson Car,Haw-haw.
+34154,155,82,328000,Homer Simpson,Simpson Car,I'm gonna miss Springfield. This town's been awfully good to us.
+34114,155,83,331000,Bart Simpson,Simpson Car,"No it hasn't, Dad. That's why we're leaving."
+34059,155,84,334000,Homer Simpson,Simpson Car,"Oh yeah. So long, Stinktown."
+34155,155,85,351000,Lisa Simpson,Simpson Car,It says here one of these giant redwood trees can provide enough sawdust to cover an entire day's worth of vomit at Disneyland.
+34156,155,86,359000,Lisa Simpson,Simpson Car,Oooh! Aaah! Ohhh!
+34158,155,88,369000,Lisa Simpson,Cypress Creek,Oooh!
+34159,155,89,371000,Homer Simpson,Cypress Creek,"Here we are, 15201 Maple Systems Road... Our new home."
+34162,155,92,381000,Bart Simpson,NEW SIMPSON HOUSE,I call this room!
+34163,155,93,387000,Man,NEW SIMPSON HOUSE,"I am here to welcome you on behalf of the President of the Globex Corporation, me. Try the papayas. They're juicy and full of papayine. Makes you strong. Like Popeye. Popeye, papayine. Popeye, papayine. See, same thing? Same... Ah, forget it. How are ya? I'm Hank Scorpio."
+34164,155,94,403000,Homer Simpson,NEW SIMPSON HOUSE,Wow! My boss!
+34165,155,95,405000,Hank Scorpio,NEW SIMPSON HOUSE,Don't call me that word. I don't like things that elevate me above the other people. I'm just like you.
+34166,155,96,410000,Hank Scorpio,NEW SIMPSON HOUSE,"Aw sure, I come later in the day, I get paid a lot more and I take longer vacations. But I don't like the word ""boss"". Hey, look at my feet."
+34167,155,97,410000,Homer Simpson,NEW SIMPSON HOUSE,Okay...
+34168,155,98,410000,Hank Scorpio,NEW SIMPSON HOUSE,You like those moccasins? Look in your closet -- there's a pair for you. Don't like 'em? Then neither do I! Get the hell outta here!
+34169,155,99,422000,Hank Scorpio,NEW SIMPSON HOUSE,Ha! Ever see a guy say good-bye to a shoe?
+34170,155,100,425000,Homer Simpson,NEW SIMPSON HOUSE,"Yes, once."
+34171,155,101,426000,Marge Simpson,NEW SIMPSON HOUSE,"Mr. Scorpio, this house is almost too good for us. I keep expecting to get the bum's rush."
+34172,155,102,432000,Hank Scorpio,NEW SIMPSON HOUSE,"We don't have bums in our town, Marge. And if we did, they wouldn't rush; they'd be allowed to go at their own pace. Now, if you'll excuse me, I'm in the middle of a Fun Run."
+34173,155,103,439000,Hank Scorpio,NEW SIMPSON HOUSE,"See you at work tomorrow! Although I don't really like to call it ""work""!"
+34174,155,104,446000,Homer Simpson,NEW SIMPSON HOUSE,Wowww.
+34175,155,105,451000,Marge Simpson,NEW SIMPSON HOUSE,"Okay, the oven is cleaning itself, the autovac's on dirt patrol... Annnd Maggie's enjoying her Swingamajig..."
+34176,155,106,470000,Marge Simpson,NEW SIMPSON HOUSE,"I can't believe it! I've done all my housework and it's only 9:30! Well, better go upstairs and make sure the beds are still made."
+34178,155,108,486000,Hank Scorpio,Globex Corporation,"You will notice, my new best friend, that we are pretty casual around here."
+34179,155,109,490000,Homer Simpson,Globex Corporation,"Yes sir, I will notice that. Very casual, Mr. Scorpion."
+34180,155,110,494000,Hank Scorpio,Globex Corporation,"Don't call me Mr. Scorpion. It's Mr. Scorpi-o. But don't call me that, either. Call me Hank. Uh, say, before we continue our tour, would you mind hanging my coat up on the wall, please?"
+34182,155,112,508000,Hank Scorpio,Globex Corporation,"Relax, Homer. At Globex, we don't believe in walls. Matter of fact, I didn't even give you my coat."
+34183,155,113,517000,Homer Simpson,Globex Corporation,Wow.
+34185,155,115,519000,Hank Scorpio,GLOBEX,"Having a place like this has always been my dream, Homer. What's your dream?"
+34186,155,116,523000,Homer Simpson,GLOBEX,Uh... to work for you?
+34187,155,117,524000,Hank Scorpio,GLOBEX,"Don't do that. My butt is for sitting, not for kissing. Now you tell me the truth -- What's your real dream? Your real dream?"
+34188,155,118,531000,Homer Simpson,GLOBEX,Um... Someday I'd like to own the Dallas Cowboys.
+34189,155,119,535000,Hank Scorpio,GLOBEX,I bet people laughed at you when you told them that dream.
+34190,155,120,537000,Homer Simpson,GLOBEX,Yeah.
+34191,155,121,537000,Hank Scorpio,GLOBEX,"Homer, don't give up. They laughed at me the first time I wore jeans with a sport coat. I was the first wealthy man in America to ever do that. Now they all do it!... Didja ever hear of Mike Milken?"
+34192,155,122,548000,Homer Simpson,GLOBEX,Ye... No.
+34194,155,124,552000,Hank Scorpio,GLOBEX,"Now Homer, these gentlemen here will be your eyes and your ears and, should the need arise, they'll fill in for any other part of your body. Your job will be to manage and motivate them. Give them the benefit of your years of experience."
+34195,155,125,562000,Homer Simpson,GLOBEX,Don't worry. That won't take long.
+34196,155,126,564000,Hank Scorpio,GLOBEX,The key to motivation is trust. Lemme show you what I mean.
+34197,155,127,568000,Hank Scorpio,GLOBEX,I want you to close your eyes and fall backwards and I'll catch you. That's gonna show you what trust is all about. Ready?
+34198,155,128,572000,Homer Simpson,GLOBEX,All right.
+34199,155,129,572000,Hank Scorpio,GLOBEX,3... 2....
+34200,155,130,575000,Hank Scorpio,GLOBEX,One second... Hello?
+34201,155,131,576000,Homer Simpson,GLOBEX,Doh!
+34202,155,132,577000,Hank Scorpio,GLOBEX,"Oh my God, that guy's on the floor. Uh, that was a phone call. Don't chalk that up to mistrust, now."
+34206,155,133,581000,Hank Scorpio,GLOBEX,"Yes? What happened?... When did that happen?... How much of it?... Oh, my goodness, I'll be right up! Homer, I've got to go upstairs, there's a problem. Somebody ate part of my lunch. I'm gonna leave everything to you. We're on a tight schedule; you keep them motivated."
+34207,155,134,598000,Homer Simpson,GLOBEX,Are you guys working?
+34208,155,135,600000,Worker #1,GLOBEX,"Yes sir, Mr. Simpson."
+34209,155,136,602000,Homer Simpson,GLOBEX,"Could you, um... work any harder than this?"
+34210,155,137,605000,Worker #1,GLOBEX,"Sure thing, boss."
+34211,155,138,608000,Homer Simpson,GLOBEX,"Hey, call me Homer."
+34215,155,142,620000,Student In Sunglasses,Cypress Creek Elementary School,You got a fresh sound. It'll play well at this school.
+34216,155,143,624000,Milhouse,Cypress Creek Elementary School,"Hey, Bart, do you have a best friend yet? 'Cause I've been looking for someone to boss me around..."
+34217,155,144,631000,Mr. Doyle,Cypress Creek Elementary School,"Okay, folks, let's do it to it. Grammar, that is. Uh, everybody write down this sentence and circle the nouns."
+34218,155,145,642000,Mr. Doyle,Cypress Creek Elementary School,"Bart, as the newest addition to our menagerie, you have the honors."
+34219,155,146,646000,Bart Simpson,Cypress Creek Elementary School,Um... Uh...
+34220,155,147,648000,Mr. Doyle,Cypress Creek Elementary School,"Well, let's start by reading the sentence..."
+34221,155,148,651000,Bart Simpson,Cypress Creek Elementary School,"Two, wintim amd Jawwy wirt..."
+34223,155,150,651000,Mr. Doyle,Hallway Outside the Classroom,"So, you never learned cursive?"
+34224,155,151,665000,Bart Simpson,Hallway Outside the Classroom,"Um, well, I know hell and damn and bi--"
+34225,155,152,668000,Mr. Doyle,Hallway Outside the Classroom,Cursive handwriting. Script. Do you know the multiplication tables? Long division?
+34226,155,153,673000,Bart Simpson,Hallway Outside the Classroom,I know of them.
+34227,155,154,676000,Mr. Doyle,Hallway Outside the Classroom,"You know, Bart, I think you'd profit from a more remedial environment. I'm sure you'll feel right at home in... The ""Leg-Up"" Program."
+34230,155,157,704000,Marge Simpson,NEW SIMPSON HOUSE,Guess I can't complain. Everything's perfect here.
+34232,155,159,718000,Bart Simpson,Cypress Creek Elementary School,"So, what are you in for?"
+34233,155,160,720000,Leg-up Kid,Cypress Creek Elementary School,"I moved here from Canada and they think I'm slow, eh?"
+34203,155,161,726000,2nd Leg-up Kid,Cypress Creek Elementary School,"I fell off the jungle gym, and when I woke up, I was in here."
+34204,155,162,730000,3RD LEG-UP KID,Cypress Creek Elementary School,I start fires!
+34235,155,163,733000,Leg-up Teacher,Cypress Creek Elementary School,"Okay. Now everyone take out your safety pencil and a circle of paper. This week I hope we can finish our work on the letter ""A."""
+34236,155,164,738000,Bart Simpson,Cypress Creek Elementary School,"Let me get this straight. We're behind the rest of our class, and we're going to catch up to them by going slower than they are?"
+34238,155,166,752000,Leg-up Teacher,Cypress Creek Elementary School,Stop it! Stop it! Warren! Melvin! Gary! Dot! Gordy!
+34239,155,167,755000,Bart Simpson,Cypress Creek Elementary School,"Look, lady, I'm s'posed to be in the fourth grade."
+34240,155,168,758000,Leg-up Teacher,Cypress Creek Elementary School,"Sounds to me like someone's got a case of the ""spose'das."""
+34242,155,170,758000,Leg-up Teacher,Cypress Creek Elementary School,Warren!
+34243,155,171,773000,Lisa Simpson,Cypress Creek Elementary School,Wildflowers! We don't have you in Springfield!
+34244,155,172,779000,Lisa Simpson,Cypress Creek Elementary School,"Hello, Mr. Chipmunk! You're a Northern Reticulated Chipmunk! Yes, you are! You are so reticulated!"
+34245,155,173,788000,Lisa Simpson,Cypress Creek Elementary School,"Hi, Mrs. Owl! You're out kind of early!"
+34248,155,176,799000,Homer Simpson,Cypress Creek,"Mr. Scorpio says productivity is up 2%, and it's all because of my motivational techniques, like donuts and the possibility of more donuts to come."
+34249,155,177,810000,Marge Simpson,Cypress Creek,"I knew you'd do well, Homer."
+34250,155,178,812000,Bart Simpson,Cypress Creek,"Sports collectibles! Wow, a baseball made out of Secretariat!"
+34251,155,179,820000,Homer Simpson,Cypress Creek,"Tom Landry's hat! And it's autographed! ""To Berman's Dry Cleaning, Best Wishes, Tom Landry."""
+34252,155,180,825000,Bart Simpson,Cypress Creek,Why don't you buy it?
+34253,155,181,830000,Homer Simpson,Cypress Creek,I can't buy that. Only management type guys with big salaries like me can afford things like that. Guys like me? I'm a guy like me!
+34255,155,183,839000,Homer Simpson,GLOBEX,"All right, team, it's the fourth quarter. The Lord gave us the atoms, and it's up to us to make 'em dance!"
+34256,155,184,847000,Homer Simpson,GLOBEX,"Hey, if Tom Landry's hat doesn't motivate you, then I should just quit right now."
+34257,155,185,852000,Worker #2,GLOBEX,"I'm sorry, we're just a little tired, sir. We've been pushing ourselves real hard to get the reactor on-line."
+34258,155,186,856000,Homer Simpson,GLOBEX,"Tired, eh? What you guys need... is hammocks."
+34259,155,187,865000,Hank Scorpio,GLOBEX,"Oh, hi, Homer! What can I do for you?"
+34261,155,188,868000,Homer Simpson,GLOBEX,"Sir, I need to know where I can get some business hammocks."
+34262,155,189,870000,Hank Scorpio,GLOBEX,"Hammocks? My goodness, what an idea. Why didn't I think of that? Hammocks! Homer, there are four places: There's the ""Hammock Hut""; that's on Third..."
+34263,155,190,877000,Homer Simpson,GLOBEX,Uh-huh.
+34264,155,191,879000,Hank Scorpio,GLOBEX,"There's ""Hammocks-R-Us""..."
+34265,155,192,879000,Homer Simpson,GLOBEX,Got it...
+34266,155,193,879000,Hank Scorpio,GLOBEX,"That's on Third, too. You got ""Put Your Butt There""..."
+34267,155,194,881000,Homer Simpson,GLOBEX,Umm-hmmm...
+34268,155,195,883000,Hank Scorpio,GLOBEX,That's on Third.
+34269,155,196,883000,Homer Simpson,GLOBEX,Yes...
+34270,155,197,884000,Hank Scorpio,GLOBEX,"""Swing Low, Sweet Chariot""..."
+34271,155,198,884000,Homer Simpson,GLOBEX,Right...
+34272,155,199,886000,Hank Scorpio,GLOBEX,"That might... Matter of fact, they're all in the same complex. It's the Hammock Complex, down on Third?"
+34273,155,200,890000,Homer Simpson,GLOBEX,"Oh, the Hammock District."
+34274,155,201,891000,Hank Scorpio,GLOBEX,That's right.
+34275,155,202,892000,Businesswoman,GLOBEX,"Ready for the linkup, Mr. Scorpio."
+34276,155,203,893000,Hank Scorpio,GLOBEX,"Uh, Homer. One second. I gotta take care of this. Very important. 'Be right back."
+34277,155,204,897000,Homer Simpson,GLOBEX,Fine.
+34278,155,205,901000,Hank Scorpio,GLOBEX,"Good afternoon, gentlemen. This is Scorpio. I have the doomsday device. You have 72 hours to deliver the gold. Or you face the consequences. And to prove I'm not bluffing, watch this..."
+34279,155,206,916000,U.N. Member,GLOBEX,"Oh, my God! The 59th Street Bridge!"
+34280,155,207,919000,2nd U.N. Member,GLOBEX,Maybe it just collapsed on its own.
+34281,155,208,922000,U.N. Member,GLOBEX,We can't take that chance.
+34282,155,209,924000,2nd U.N. Member,GLOBEX,You always say that. I want to take a chance.
+34283,155,210,926000,Hank Scorpio,GLOBEX,"""Collapsed on its own"" -- You schm... You have 72 hours. See ya."
+34284,155,211,931000,Hank Scorpio,GLOBEX,"Back to the hammocks, my friend."
+34285,155,212,933000,Homer Simpson,GLOBEX,Yes.
+34286,155,213,933000,Hank Scorpio,GLOBEX,"You know, there's a little place called ""Mary Ann's Hammocks"". The nice thing about that place is Mary Ann gets in the hammock with you. I'm just kiddin'."
+34287,155,214,939000,Homer Simpson,GLOBEX,Oh.
+34288,155,215,941000,Hank Scorpio,GLOBEX,"You know who invented the hammock, Homer?"
+34289,155,216,941000,Homer Simpson,GLOBEX,No?
+34290,155,217,943000,Hank Scorpio,GLOBEX,That's something for you to do. Find that out.
+34291,155,218,953000,Homer Simpson,GLOBEX,Any sugar around here?
+34292,155,219,954000,Jumpsuited Guy,GLOBEX,"Try in there, Homer."
+34295,155,220,960000,Hank Scorpio,GLOBEX,"Hi, Homer! I'm keeping two of my fingers crossed that you're gonna have that nuclear generator up to full power by tomorrow."
+34296,155,221,967000,Homer Simpson,GLOBEX,Uh... yessir. No problemo.
+34297,155,222,969000,Hank Scorpio,GLOBEX,"Good. By the way, Homer, what's your least favorite country, Italy or France?"
+34298,155,223,973000,Homer Simpson,GLOBEX,France.
+34299,155,224,973000,Hank Scorpio,GLOBEX,Nobody ever says Italy.
+34300,155,225,981000,Homer Simpson,GLOBEX,I've never noticed this office before.
+34301,155,226,983000,Hank Scorpio,GLOBEX,Why should you? -- It's mine.
+34302,155,227,985000,Homer Simpson,GLOBEX,"Eh, you have any sugar around here?"
+34303,155,228,986000,Hank Scorpio,GLOBEX,Sugar? Sure.
+34304,155,229,989000,Hank Scorpio,GLOBEX,Here you go. Sorry it's not in packages. Want some cream?
+34305,155,230,994000,Homer Simpson,GLOBEX,Eh... I... no.
+34308,155,233,1008000,Record/children,Cypress Creek Elementary School,I LIKE ME / I LIKE ME / I'M AS GOOD AS I CAN BE / WITH A SMILE AND A WAVE AND A HAPPY MEL-O-DY / I'M AS GOOD AS I--
+34309,155,234,1022000,Leg-up Teacher,Cypress Creek Elementary School,Hooray! Everyone's a winner!
+34312,155,237,1028000,Lisa Simpson,Cypress Creek,Oh! The whole forest is blooming!
+34313,155,238,1033000,Lisa Simpson,Cypress Creek,Excuse me.
+34314,155,239,1037000,Lisa Simpson,Cypress Creek,"Oh, my eyes are burning!"
+34315,155,240,1046000,Lisa Simpson,Cypress Creek,"Oh, little chipmunk friend. I'm allergic to everything!"
+34317,155,242,1065000,Hank Scorpio,GLOBEX,"Ingenious, isn't it, Mr. Bont?"
+34318,155,243,1068000,Bont,GLOBEX,"Scorpio, you are totally mad."
+34319,155,244,1070000,Hank Scorpio,GLOBEX,"Huh, I wouldn't point fingers, you jerk."
+34320,155,245,1073000,Bont,GLOBEX,"So, do you expect me to talk?"
+34321,155,246,1075000,Hank Scorpio,GLOBEX,"I don't expect anything from you, except to die and be a very cheap funeral."
+34322,155,247,1079000,Hank Scorpio,GLOBEX,You're gonna die now.
+34323,155,248,1091000,Hank Scorpio,GLOBEX,Stop him! He's supposed to die!
+34324,155,249,1097000,Homer Simpson,GLOBEX,Aargh!
+34325,155,250,1097000,Hank Scorpio,GLOBEX,"Nice work, Homer. Am I prouda you!"
+34326,155,251,1099000,Homer Simpson,GLOBEX,Well...
+34327,155,252,1101000,Hank Scorpio,GLOBEX,"When you go home tonight, there's gonna be another story on your house. Thank you."
+34329,155,254,1107000,Homer Simpson,NEW SIMPSON HOUSE,I tackled a loafer at work today.
+34234,155,256,1111000,Homer Simpson,NEW SIMPSON HOUSE,"Hey, what's with you sad sacks?"
+34331,155,257,1113000,Lisa Simpson,NEW SIMPSON HOUSE,"I'm allergic to everything here. My nose is so stuffed up, I can't even taste Mom's delicious boiled celery."
+34332,155,258,1120000,Marge Simpson,NEW SIMPSON HOUSE,"I've been so bored since we moved here, I've found myself drinking a glass of wine every day. I know doctors say you should drink a glass and a half, but I just can't drink that much."
+34333,155,259,1130000,Homer Simpson,NEW SIMPSON HOUSE,"Well, the Simpson men are doing fine, right, Bart? You haven't even gotten in trouble at school."
+34334,155,260,1135000,Bart Simpson,NEW SIMPSON HOUSE,I can't get in trouble at school. They put me in the remedial class! I'm surrounded by arsonists and kids with mittens pinned to their jackets all year round!
+34335,155,261,1144000,Bart Simpson,NEW SIMPSON HOUSE,Hey Dad...
+34336,155,262,1146000,Bart Simpson,NEW SIMPSON HOUSE,We want to go back to Springfield.
+34337,155,263,1149000,Homer Simpson,NEW SIMPSON HOUSE,"What?! We've got it great here. And for the first time in my life, I'm actually good at my job. My team is way ahead of the weather machine and germ warfare divisions."
+34338,155,264,1159000,Marge Simpson,NEW SIMPSON HOUSE,"It's up to you, Homer. Whatever you decide, that's what we'll do."
+34341,155,267,1175000,Computer,GLOBEX,T minus 1 minute 35 seconds.
+34342,155,268,1189000,Homer Simpson,GLOBEX,"Uh, I've got a problem, Hank."
+34343,155,269,1191000,Hank Scorpio,GLOBEX,"Aw, gee, Homer, could it wait a sec, please?"
+34344,155,270,1194000,Homer Simpson,GLOBEX,"Well, it's pretty important."
+34345,155,271,1197000,Homer Simpson,GLOBEX,"Say, what's going on?"
+34346,155,272,1199000,Hank Scorpio,GLOBEX,I'm having a little trouble with the government.
+34347,155,273,1202000,Homer Simpson,GLOBEX,"Aw, those jerks. Always walking over the small businessman. Don't get me started about the government."
+34348,155,274,1207000,Hank Scorpio,GLOBEX,What's the problem?
+34349,155,275,1208000,Homer Simpson,GLOBEX,"Well, my family wants to move back to Springfield."
+34350,155,276,1210000,Hank Scorpio,GLOBEX,"Let 'em go. You'll stay here with me, we'll go bowling."
+34351,155,277,1214000,Hank Scorpio,GLOBEX,What's bothering them?
+34352,155,278,1215000,Homer Simpson,GLOBEX,Nothing big. It's just a lot of little things.
+34353,155,279,1217000,Hank Scorpio,GLOBEX,"Well, you can't argue with the little things. It's the little things that make up life."
+34354,155,280,1223000,Hank Scorpio,GLOBEX,"Homer, I'm disappointed, but I think you need to do what's best for your family."
+34355,155,281,1227000,Homer Simpson,GLOBEX,"Well... Thanks for everything, Hank."
+34356,155,282,1230000,Computer,GLOBEX,T minus 14 seconds.
+34357,155,283,1232000,Hank Scorpio,GLOBEX,"If you need anything, you call me."
+34260,155,284,1233000,Homer Simpson,GLOBEX,All right... What's the number?
+34358,155,285,1235000,Hank Scorpio,GLOBEX,"I've never had to call my own company. Someone will tell you upstairs. But Homer, on your way out, if you want to kill somebody, it would help me a lot."
+34359,155,286,1252000,Hank Scorpio,GLOBEX,"Hey Homer, you're missing out on some fun!"
+34362,155,289,1275000,Otto Mann,Simpson Home,"Uh, oh, sorry. Let me just get my girlfriend and I'll go."
+34363,155,290,1281000,Otto Mann,Simpson Home,"Hey, Crystal, wake up."
+34364,155,291,1284000,Messenger,Simpson Home,Telegram.
+34365,155,292,1288000,Homer Simpson,Simpson Home,"""Project Arcturus couldn't have succeeded without you. This will get you a little closer to that dream of yours. It's not the Dallas Cowboys, but it's a start. Drop me a line if you're on the East Coast, Hank Scorpio."""
+34366,155,293,1298000,Homer Simpson,Simpson Home,"Aw, the Denver Broncos."
+34367,155,294,1307000,Marge Simpson,Simpson Home,I think owning the Denver Broncos is pretty good.
+34368,155,295,1309000,Homer Simpson,Simpson Home,Yeah yeah.
+34369,155,296,1311000,Marge Simpson,Simpson Home,Well explain to me why it isn't.
+34370,155,297,1313000,Homer Simpson,Simpson Home,"You just don't understand football, Marge."

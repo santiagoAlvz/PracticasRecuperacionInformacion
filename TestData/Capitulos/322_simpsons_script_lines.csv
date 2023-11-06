@@ -1,0 +1,201 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+82807,322,1,11000,Milhouse Van Houten,Springfield,I got it!
+82808,322,2,27000,Milhouse Van Houten,Springfield,"Bart, I got it!"
+82809,322,3,35000,Milhouse Van Houten,Springfield,I ran here as fast as I...
+82810,322,4,38000,Homer Simpson,Springfield,"Bart, that creepy kid's here!"
+82811,322,5,49000,Bart Simpson,Springfield,"Hey, Milhouse! Oh, what's this?"
+82812,322,6,52000,Bart Simpson,Springfield,"""Psycho Cycle Conversion Kit?!"" Oh, wow, this will look great on my bike."
+82814,322,8,59000,Bart Simpson,Simpson Home,"Flame decal for the chain guard, Marine Corps tassels... bullet-proof seat... and a rub-on tattoo for that ""special someone."""
+82815,322,9,59000,Milhouse Van Houten,Simpson Home,That's me!
+82816,322,10,69000,Milhouse Van Houten,Simpson Home,Biker chick?
+82818,322,12,76000,Bart Simpson,Springfield Streets,Now to turn on the moto-mimic.
+82820,322,14,81000,Chief Wiggum,WIGGUM'S CAR,Sounds like a motorcycle gang! And we don't have back-up. We better lay low.
+82821,322,15,86000,Lou,WIGGUM'S CAR,"But Chief, what if they like pizza?"
+82822,322,16,89000,Chief Wiggum,WIGGUM'S CAR,"Way ahead of you, Lou."
+82824,322,18,93000,Ned Flanders,SIDEWALKS OF SPRINGFIELD,That is one bitchin' bike!
+82825,322,19,95000,Rod Flanders,SIDEWALKS OF SPRINGFIELD,Daddy said a cuss word!
+82826,322,20,96000,Ned Flanders,SIDEWALKS OF SPRINGFIELD,"Lighten up, Roddy."
+82828,322,22,103000,Nelson Muntz,Springfield,Haw haw! It's the baby bike brigade!
+82829,322,23,106000,DOLPH,Springfield,"Hey Bart, I used to have a bike like that -- back before I was born!"
+82830,322,24,111000,Milhouse Van Houten,Springfield,Oh no -- they've got big boy bikes.
+82831,322,25,116000,Kearney Zzyzwicz,Springfield,Thanks for the tassels. My mom can wear these on her boobs at work.
+82832,322,26,120000,Bart Simpson,Springfield,"Hey, give those back."
+82833,322,27,128000,Jimbo Jones,Springfield,Gentlemen: first gear!
+82834,322,28,137000,Bart Simpson,Springfield,"Oh man, I sure wish I had a ten-speed bike."
+82836,322,30,141000,Homer Simpson,Simpson Home,A ten-speed bike?! What did your mother say?
+82837,322,31,144000,Bart Simpson,Simpson Home,"She said ""yes."""
+82838,322,32,144000,Marge Simpson,Simpson Home,I said no!
+82839,322,33,147000,Homer Simpson,Simpson Home,I'm confused! Which is it?
+82840,322,34,149000,Marge Simpson,Simpson Home,It's no! His old bike is fine!
+82841,322,35,151000,Homer Simpson,Simpson Home,"Yeah, the kitchen lady's right -- no new bike while your old one still works."
+82842,322,36,155000,Bart Simpson,Simpson Home,"I see. So if my old bike didn't work, I would automatically get a new one?"
+82843,322,37,161000,Homer Simpson,Simpson Home,That's right. No questions asked.
+82846,322,40,168000,Bart Simpson,FRONT OF SIMPSON HOUSE,"Boy, I'm really gonna miss you. We've really had some great... Ooh, a Mercedes!"
+82847,322,41,176000,Dr. Julius Hibbert,FRONT OF SIMPSON HOUSE,What the Halle Berry?
+82848,322,42,178000,Bart Simpson,FRONT OF SIMPSON HOUSE,Yes!
+82849,322,43,179000,Bart Simpson,FRONT OF SIMPSON HOUSE,"My bike! My crappy, crappy bike."
+82850,322,44,183000,Dr. Julius Hibbert,FRONT OF SIMPSON HOUSE,"I'm very sorry, Bart. I'll pay for a new bike."
+82852,322,46,189000,Dr. Julius Hibbert,FRONT OF SIMPSON HOUSE,"This was a wake-up call -- from now on, I'll keep my eyes on the road and off my ""Kool and the Gang"" air freshener."
+82853,322,47,195000,Dr. Julius Hibbert,FRONT OF SIMPSON HOUSE,"Celebration's over, boys."
+82855,322,49,207000,Lisa Simpson,FRONT OF SIMPSON HOUSE,Snowball!
+82857,322,51,210000,Bart Simpson,Simpson Home,"I know how you feel, Lis. No kid wants to outlive their pet."
+82858,322,52,249000,Homer Simpson,Simpson Home,"There, there. You're both right."
+82861,322,55,257000,Homer Simpson,Bike Store,"Son, would you like to ride your new bike out of the store?"
+82862,322,56,259000,Bart Simpson,Bike Store,"Can I, for true?"
+82863,322,57,261000,Homer Simpson,Bike Store,"For true, son."
+82864,322,58,263000,Bike Guy,Bike Store,"Hey, pally. I don't want to down-shift your enthusiasm, but that's a floor model."
+82865,322,59,267000,Bike Guy,Bike Store,Your bike is in here. I could put it together right now -- for a small assembly fee.
+82866,322,60,273000,Homer Simpson,Bike Store,Here we go. Now it starts with the fees.
+82867,322,61,277000,Homer Simpson,Bike Store,I'll assemble it myself.
+82868,322,62,279000,Bart Simpson,Bike Store,"Dad, no! Think of the bike."
+82869,322,63,282000,Homer Simpson,Bike Store,I can make a bike. I made you.
+82870,322,64,284000,Bart Simpson,Bike Store,"Yeah, great workmanship."
+82871,322,65,287000,Homer Simpson,Bike Store,"Hey, that's gonna win you a lot of bar bets some day."
+82873,322,67,291000,Homer Simpson,Simpson Home,"Oh man, this is so confusing."
+82874,322,68,294000,Homer Simpson,Simpson Home,What the Hell is this?
+82875,322,69,303000,Homer Simpson,Simpson Home,Bike's over there.
+82876,322,70,306000,Bart Simpson,Simpson Home,"You actually did it! You're the coolest, Dad!"
+82878,322,72,315000,Bart Simpson,Simpson Home,Look what my Dad just built for me!
+82880,322,74,320000,Bart Simpson,Simpson Home,"Hey, guys! This butt's for you!"
+82881,322,75,322000,Kearney Zzyzwicz,Simpson Home,Oh no!
+82882,322,76,324000,DOLPH,Simpson Home,No one does this to Dolph! No one!
+82883,322,77,328000,Bart Simpson,Simpson Home,Uh-oh.
+82884,322,78,333000,Bart Simpson,Simpson Home,I'm riding a unicycle with my pants down. This should be every boy's dream.
+82885,322,79,339000,Nelson Muntz,Simpson Home,Haw haw! Your dad's not handy!
+82886,322,80,342000,Homer Simpson,Simpson Home,Son are you okay? I brought my home-made first aid kit. It's spring-loaded for quick access!
+82888,322,82,357000,Macho Tv Announcer,Simpson Home,"We now return to ""Robot Rumble"" on the Testosterone Network!"
+82889,322,83,370000,ROBOT WARS ANNOUNCER #2,Simpson Home,"Congratulations to our winning father-and-son team, who will receive a free appetizer at Fuzzy Zoeller's Green Jacket Steak House!"
+82890,322,84,377000,ROBOT WARS ANNOUNCER #1,Simpson Home,"And you won't be teed off when you come in, because our steaks are cooked two par-fection, our leader-board is filled with scrumptious... two more pages, I'm not readin' this."
+82892,322,86,392000,Bart Simpson,Simpson Living Room,"Face it, you're not the most mechanical guy in the world. But you're good at other things: like... eating while driving. That's somethin'... and nobody gets madder at the news."
+82893,322,87,404000,Homer Simpson,Simpson Living Room,"First of all, thank you. Secondly..."
+82895,322,89,412000,Lisa Simpson,ANIMAL SHELTER,"Mom, I'm not sure I'm ready for a new cat."
+82896,322,90,415000,Marge Simpson,ANIMAL SHELTER,"""When Bad Things Happen To Cute Children"" says that a new pet will pull you out of your sorrow cycle."
+82897,322,91,422000,Lisa Simpson,ANIMAL SHELTER,That book doesn't know how I feel.
+82898,322,92,425000,Marge Simpson,ANIMAL SHELTER,"Oh, it's very wise. It's written by a rabbi -- who surfs!"
+82899,322,93,431000,Lisa Simpson,ANIMAL SHELTER,"All right, I'll look."
+82900,322,94,433000,Lisa Simpson,ANIMAL SHELTER,"Too fluffy, too Siamese, too needy, too stuck-up, infected eye, clearly a skunk. Me-ow!"
+82901,322,95,444000,Lisa Simpson,ANIMAL SHELTER,"Welcome to the family, Snowball III!"
+82903,322,97,447000,Homer Simpson,Simpson Home,"There's nothing worse than the look on a boy's face when he says ""Dad I don't think you can build a fully-functional robot."""
+82907,322,100,447000,Homer Simpson,Simpson Home,"Robot, I command you: do something cool!"
+82908,322,101,478000,Homer Simpson,Simpson Home,I could quit now... but then my son will never look up to me. Why was I born a Dad?
+82909,322,102,487000,Homer Simpson,Simpson Home,Why... do... I... suck?
+82910,322,103,489000,Homer Simpson,Simpson Home,Wait a minute. What is it my Dad always said to me?
+82911,322,104,492000,Grampa Simpson,Simpson Home,If you can't build a robot... be a robot!
+82912,322,105,496000,Homer Simpson,Simpson Home,That's it!
+82914,322,107,503000,Krusty Clock,Bart's Bedroom,"It's Tuesday the first. If you live in Krusty Brand low income housing, your rent is due."
+82916,322,109,516000,Bart Simpson,Bart's Bedroom,"Hey, it didn't fall apart."
+82917,322,110,534000,Bart Simpson,Bart's Bedroom,Smash this six pack!
+82918,322,111,538000,Bart Simpson,Bart's Bedroom,Awesome! I gotta tell Milhouse.
+82919,322,112,547000,Homer Simpson,Bart's Bedroom,"Oh, the beer's gone. I'll have to suck it out of the shag."
+82921,322,114,555000,Marge Simpson,Simpson Home,"Oh, Lisa. Honey, it's okay. You're a Buddhist, so you know your cats are now reincarnated as a higher form of life."
+82922,322,115,584000,Homer Simpson,Simpson Home,Like a dog. Or a snowman!
+82923,322,116,585000,Bart Simpson,Simpson Home,Ashes to ashes... dust to dust... we've gotta go fight some robots.
+82925,322,118,592000,Bart Simpson,TV Studio,"C'mon, Homer. How long does it take to go to the bathroom?"
+82926,322,119,598000,Bart Simpson,TV Studio,Huh?
+82927,322,120,599000,Bart Simpson,TV Studio,Dear Bart...
+82928,322,121,599000,Homer Simpson,TV Studio,"""...I'd love to be with you, but I just remembered an old army buddy has come to town. Will meet you later. Love, Dad."
+82929,322,122,599000,Bart Simpson,TV Studio,"Well, I wish Homer was here."
+82930,322,123,609000,Bart Simpson,TV Studio,But don't worry. I've got a name all picked out for you.
+82931,322,124,613000,Bart Simpson,TV Studio,"Chief Knockahomer, let's win this one for Dad!"
+82934,322,127,625000,ROBOT WARS ANNOUNCER #1,Arena,"And in this corner, the challenger, Chief Knockahomer!"
+82935,322,128,630000,ROBOT WARS ANNOUNCER #2,Arena,There's no love lost between these emotionless devices!
+82936,322,129,634000,ROBOT WARS ANNOUNCER #1,Arena,Robots rumble!
+82937,322,130,644000,Moe Szyslak,Arena,"Go! Go! Geez, I'm the only one in the audience over fifteen."
+82938,322,131,652000,Squeaky-Voiced Teen,Arena,"Are you here with your children, sir?"
+82939,322,132,654000,Moe Szyslak,Arena,"Oh yeah, my two kids. Screw... and you."
+82940,322,134,662000,ROBOT WARS ANNOUNCER #1,Arena,What's this? Knockahomer has dropped his hammer.
+82941,322,135,668000,Homer Simpson,Arena,Doin' it for the boy...doin' it for the boy... pain is love... to bleed is to care...
+82942,322,136,673000,ROBOT WARS ANNOUNCER #2,Arena,"Can robots feel pain? If so, we are horrible, horrible people."
+82943,322,137,687000,ROBOT WARS ANNOUNCER #1,Arena,He's killing him softly with his saw!
+82944,322,138,690000,ROBOT WARS ANNOUNCER #2,Arena,Killing him softly?
+82945,322,139,692000,ROBOT WARS ANNOUNCER #1,Arena,With his saw!
+82947,322,141,698000,Homer Simpson,Arena,"Woo hoo! I mean, beep beep!"
+82949,322,143,701000,Marge Simpson,ANIMAL SHELTER,"Coltrane? Lisa, I'm glad you're ready to love again. But a kitty needs a proper name, like Whiskers. Or Paws Scaggs."
+82950,322,144,717000,Lisa Simpson,ANIMAL SHELTER,"Well, I think it's only fair I get to name him. You got to name me."
+82951,322,145,722000,Marge Simpson,ANIMAL SHELTER,You should be glad I did. Your father wanted to call you Bartzeena!
+82953,322,147,727000,Lisa Simpson,Simpson Home,"Coltrane, would you like to hear some music written by your namesake?"
+82954,322,148,734000,Lisa Simpson,Simpson Home,Coltrane?
+82955,322,149,736000,Lisa Simpson,Simpson Home,"Coltrane, you were with us only briefly, but we'll always have the ride home from the shelter. And uh... I guess that's it. Amen."
+82956,322,150,746000,Marge Simpson,Simpson Home,"And Lord, if you think I'm making lemon bars for your bake sale Sunday, you'd better stop killing our cats."
+82957,322,151,753000,Lisa Simpson,Simpson Home,"Mom, I'm not sure God responds to threats and intimidation."
+82958,322,152,758000,Marge Simpson,Simpson Home,It's the only way to talk to bullies.
+82959,322,153,760000,Bart Simpson,Simpson Home,...then Knockahomer did three victory laps and pretended to drink a beer!
+82960,322,154,765000,Homer Simpson,Simpson Home,Pretended.
+82961,322,155,767000,Lisa Simpson,Simpson Home,"Dad, what are all those cuts?"
+82962,322,156,768000,Homer Simpson,Simpson Home,Various bug bites and wounds. Now stop interrupting your brother.
+82963,322,157,772000,Grampa Simpson,Simpson Home,"In my day, mechanical men had funnel hats and showed respect. Then it all changed when they got the vote and started tinkering with our memories!"
+82965,322,159,820000,ROBOT WARS ANNOUNCER #1,Robot Rumble Ring,"Well, if you ever want to see a mailbox shoot a boy, that's about as close as you're gonna get."
+82966,322,160,826000,Bart Simpson,Robot Rumble Ring,"Dad, it was so great -- Knockahomer really took a pounding but then he won!"
+82968,322,161,833000,Homer Simpson,Robot Rumble Ring,"Not so rough, Bart. Daddy can't handle so much love right now."
+82969,322,162,838000,Bart Simpson,Robot Rumble Ring,This robot's the greatest thing you've ever done for me. I can't believe you've never seen him fight.
+82970,322,163,842000,Homer Simpson,Robot Rumble Ring,"Well, I've been busy, son. They really need me over at the nuclear plank."
+82971,322,164,847000,Bart Simpson,Robot Rumble Ring,"Well, the next match is Saturday. Can you come then?"
+82972,322,165,850000,Homer Simpson,Robot Rumble Ring,"I don't think so, son. But on the other hand, I may be closer than you think."
+82973,322,166,855000,Homer Simpson,Robot Rumble Ring,So much metal in my eye.
+82975,322,168,858000,ROBOT WARS ANNOUNCER #1,Robot Rumble Ring,"Ladies and gentlemen... eh, who am I kidding, just gentlemen... join us next week for our title bout, when Knockahomer will try to unseat five time defending champion... Smashius Clay, a.k.a. Killhammad Aieee!"
+82976,322,169,884000,Bart Simpson,Robot Rumble Ring,Our robot can kick that robot's ass! Right Dad? Dad?
+82977,322,170,889000,Homer Simpson,Robot Rumble Ring,Oh no! My recurring nightmare is coming true!
+82978,322,171,892000,Homer Simpson,Robot Rumble Ring,"There are many people I'd like to thank for this award. My wife, Anjelica Huston -- this is for you, Angie! We did it!"
+82979,322,172,901000,Scary Robot,Robot Rumble Ring,Speeches cannot be longer than thirty seconds.
+82981,322,174,904000,Scary Robot,Robot Rumble Ring,Now a tribute to those who have left us this past year.
+82983,322,176,925000,Bart Simpson,Robot Rumble Ring,Sure he's tough. But he's never come up against a wooden mallet!
+82985,322,178,932000,Homer Simpson,Simpson Home,"Listen son, there's something I have to tell you about our robot."
+82986,322,179,937000,Kearney Zzyzwicz,Simpson Home,There it is! That thing that makes us respect Bart!
+82987,322,180,942000,Bart Simpson,Simpson Home,You guys are just in time. My dad's about to tell me something important about our robot.
+82988,322,181,947000,Homer Simpson,Simpson Home,Uh...
+82989,322,182,950000,Homer Simpson,Simpson Home,I just installed a chip that makes it ten per cent more bloodthirsty!
+82991,322,184,956000,Homer Simpson,Simpson Home,"And if anything happens to me, I want you bullies to take care of my boy."
+82992,322,185,961000,Kearney Zzyzwicz,Simpson Home,"Don't worry, I'll raise him like the mean streets raised me."
+82993,322,186,964000,Homer Simpson,Simpson Home,I wish I had bullies like you growing up.
+82995,322,188,970000,Attendant,ANIMAL SHELTER,Hey! Hey!
+82996,322,189,971000,Attendant,ANIMAL SHELTER,These cats would rather take their chances in the back room than go home with you.
+82998,322,191,980000,Marge Simpson,Simpson Home,"My job was to keep Lisa's hope alive. But instead, she's really depressed."
+82999,322,192,986000,Homer Simpson,Simpson Home,"You think you've got problems, look what I just pulled out of my arm!"
+83001,322,194,991000,Homer Simpson,Simpson Home,"That's what we in the business call ""a biggie."""
+83002,322,195,991000,Marge Simpson,Simpson Home,"Business, what business?"
+83003,322,196,995000,Homer Simpson,Simpson Home,The business of being a Dad. Can you hand me that magnet?
+83004,322,197,1002000,Homer Simpson,Simpson Home,Can you do my back?
+83005,322,198,1004000,Lisa Simpson,Simpson Home,I guess I'm not meant to own a cat. I'm much happier petting this leaf.
+83008,322,201,1020000,Lisa Simpson,Simpson Home,"Wait, you don't want me to have this cat!"
+83010,322,203,1028000,Lisa Simpson,Simpson Home,"Look, you don't want to get involved with a girl like me. My cats have a nasty habit of waking up dead. Now go, cough me out of your life like a bad fur ball."
+83011,322,204,1045000,Lisa Simpson,Simpson Home,You're not hurt! You're a good-luck kitty!
+83012,322,205,1050000,Gil Gunderson,Simpson Home,"All right, ol' Gil's gonna collect big from insurance! I'll be eating food tonight!"
+83013,322,206,1061000,Lisa Simpson,Simpson Home,"I'm keeping you! You're Snowball Five, but to save money on a new dish, we'll just call you Snowball Two and pretend this whole thing never happened."
+83014,322,207,1071000,Seymour Skinner,Simpson Home,"That's really a cheat, isn't it?"
+83015,322,208,1072000,Lisa Simpson,Simpson Home,"I guess you're right, Principal Tamzarian."
+83016,322,209,1075000,Seymour Skinner,Simpson Home,"I'll just be moving along, Lisa. Snowball II."
+83018,322,211,1089000,Bart Simpson,TV Studio,"Okay I've been studying Frink's robot, and I've discovered he has one small weak spot."
+83019,322,212,1098000,Bart Simpson,TV Studio,Uh-oh. His weak spot is now his strongest point.
+83021,322,214,1101000,Bart Simpson,TV Studio,That moan sounded almost human.
+83022,322,215,1103000,Knockahomer,TV Studio,The Hell it did.
+83024,322,217,1124000,ROBOT WARS ANNOUNCER #1,TV Studio,End of round one! Two hundred and thirty rounds to go!
+83025,322,218,1129000,Knockahomer,TV Studio,"B-R-L-F-Q SPELLS MOM AND DAD / WELL THAT AIN'T TOO BAD, 'CAUSE THAT'S MY BOY..."
+83027,322,219,1137000,Bart Simpson,TV Studio,"You look a little sluggish out there, boy. I'd better open you up."
+83028,322,220,1142000,Bart Simpson,TV Studio,Dad?!
+83029,322,221,1143000,Homer Simpson,TV Studio,"Bart, I'm sorry -- I could never build a robot this awesome. I'm a fraud."
+83030,322,222,1148000,Bart Simpson,TV Studio,"So, you fought all those robots?"
+83031,322,223,1150000,Homer Simpson,TV Studio,Affirmative.
+83032,322,224,1152000,Bart Simpson,TV Studio,That is so cool!
+83033,322,225,1154000,Homer Simpson,TV Studio,You really think so?
+83034,322,226,1155000,Bart Simpson,TV Studio,"Yeah! Any Poindexter can throw some nuts and bolts together -- you risked your own life, even though you're the sole provider for a family of five! I am the luckiest kid in the world."
+83035,322,227,1166000,Homer Simpson,TV Studio,And I'm the luckiest--
+83036,322,228,1169000,ROBOT WARS ANNOUNCER #1,TV Studio,Round two!
+83038,322,230,1171000,Bart Simpson,Robot Rumble Ring,Oh no! Dad!
+83040,322,232,1177000,Sideshow Mel,Robot Rumble Ring,That robot has given birth to a man!
+83041,322,233,1182000,Homer Simpson,Robot Rumble Ring,"Hey, what gives? He's not killing me!"
+83042,322,234,1185000,Professor Jonathan Frink,Robot Rumble Ring,"I'll tell you what gives, I'm afraid he is subject to Isaac Asimov's laws of robotics. With the sci-fi and the so many books, not too many good. My robot is programmed never to harm humans, you see, only to serve them."
+83043,322,235,1211000,Homer Simpson,Robot Rumble Ring,He knows just how I like my martinis... full of alcohol.
+83044,322,236,1216000,Bart Simpson,Robot Rumble Ring,Go! Go! Go! Now's your chance!
+83045,322,237,1219000,Homer Simpson,Robot Rumble Ring,"Bart, all that button ever did was send a mild electric shock up my backside."
+83046,322,238,1224000,Bart Simpson,Robot Rumble Ring,Why did you make it do that?
+83047,322,239,1226000,Homer Simpson,Robot Rumble Ring,Keep me focused.
+83048,322,240,1228000,ROBOT WARS ANNOUNCER #1,Robot Rumble Ring,And the winner is nature's greatest killing machine: man.
+83050,322,242,1234000,ROBOT WARS ANNOUNCER #1,Robot Rumble Ring,Show me where in the rule book it says that a human can't be a robot.
+83051,322,243,1238000,ROBOT WARS ANNOUNCER #2,Robot Rumble Ring,Right here. Rule one.
+83052,322,244,1240000,ROBOT WARS ANNOUNCER #1,Robot Rumble Ring,"Well then, join us next week for more inconclusive action on Robot Rumble!"
+83053,322,245,1247000,ROBOT WARS ANNOUNCER #2,Robot Rumble Ring,I concur!
+83055,322,247,1252000,Homer Simpson,Robot Rumble Ring,"Son, did you ever suspect it was me?"
+83056,322,248,1254000,Bart Simpson,Robot Rumble Ring,"Well, you did disappear a lot, but I have gone whole summers without seeing you."
+83057,322,249,1259000,Homer Simpson,Robot Rumble Ring,"Yeah, I'm pretty unreliable."
+82967,322,250,1261000,Homer Simpson,Robot Rumble Ring,"I like you, son."
+83026,322,251,1263000,Bart Simpson,Robot Rumble Ring,"I like you too, Dad."

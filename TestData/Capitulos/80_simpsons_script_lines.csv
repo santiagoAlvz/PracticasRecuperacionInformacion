@@ -1,0 +1,239 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+13927,80,9,133000,Homer Simpson,Simpson Home,You mean there's a better way?
+13928,80,10,135000,Troy McClure,Simpson Home,"But that's all changed thanks to the ""Juice Loosener."" Let's meet the inventor, Doctor Nick Riviera."
+13929,80,11,141000,Dr. Nick Riviera,Simpson Home,"Hello, Troy. Hi everybody."
+13930,80,12,144000,Audience,Simpson Home,"Hi, Doctor Nick!"
+13931,80,13,146000,Dr. Nick Riviera,Simpson Home,"Troy, would you like a glass of orange juice?"
+13932,80,14,148000,Troy McClure,Simpson Home,I sure would. But won't we have to pay those outrageous grocery store prices for something the farmer probably spit in?
+13933,80,15,156000,Dr. Nick Riviera,Simpson Home,Not anymore.
+13934,80,16,157000,Dr. Nick Riviera,Simpson Home,"All, thanks to the new ""Juice Loosener."""
+13935,80,17,164000,Troy McClure,Simpson Home,"Doctor, are you sure it's on? I can't hear a thing."
+13936,80,18,167000,Dr. Nick Riviera,Simpson Home,It's whisper quiet.
+13937,80,19,172000,Troy McClure,Simpson Home,You got all that from one bag of oranges?
+13938,80,20,175000,Dr. Nick Riviera,Simpson Home,"That's right. Order now and you'll also get Sun `n' Run, the Suntan Lotion... that's also a laxative!"
+13939,80,21,186000,Homer Simpson,Simpson Home,"Gotta get a juicer. Gonna drink juice, lose weight. Won't get chest pain from answering the phone anymore."
+13940,80,22,198000,SICK JAPANESE WORKER,Simpson Home,Please don't tell the supervisor I have the flu.
+13941,80,23,201000,Japanese Worker #2,Simpson Home,Don't worry. I've been working with a shattered pelvis for three weeks.
+13943,80,25,215000,Homer Simpson,Simpson Home,Oh my Juice Loosener's never gonna come.
+13944,80,26,218000,Bart Simpson,Simpson Home,"Hey, dad. This came for you in the mail."
+13945,80,27,220000,Homer Simpson,Simpson Home,Woo-Hoo!
+13948,80,30,224000,Seymour Skinner,Skinner Home,"Mother, get an extra-special hug ready. I've bought you a new juicer!"
+13949,80,31,230000,Seymour Skinner,Skinner Home,Good Lord! Flu germs entering every orifice in my head.
+13951,80,33,236000,Patty Bouvier,Patty and Selma's Apartment,Happy Birthday.
+13952,80,34,238000,Selma Bouvier,Patty and Selma's Apartment,Happy Birthday.
+13955,80,37,253000,Chief Wiggum,Springfield,What the?
+13957,80,39,258000,Kent Brockman,Springfield,"The dreaded Osaka flu has hit Springfield, with over 300 cases now reported. Now, over to Arnie Pie with ""Arnie in the Sky."""
+13959,80,41,267000,Arnie Pye,Helicopter,"Route 401 is going around and around, and around and around and around... And look out at the corner of 12th and Main because I'm gonna be sick. Whulp."
+13961,80,43,278000,Otto Mann,ROOF TOP CORNER 12TH AND MAIN,"Okay, Mr. Sun, gimme what ya got."
+13964,80,46,287000,Marge Simpson,Simpson Home,Ninety-eight point six. You're fine.
+13965,80,47,289000,Marge Simpson,Simpson Home,"Now, hurry up or you'll miss your bus."
+13966,80,48,291000,Bart Simpson,Simpson Home,Maybe you better take that temperature one more time.
+13968,80,50,300000,White Blood Cell #1,Bart's Body,"Sarge, we keep getting orders to let the virus win!"
+13969,80,51,303000,White Blood Cell #2,Bart's Body,Must be a school day. Lay down your arms.
+13970,80,52,308000,Virus,Bart's Body,All right! Let's make some pus.
+13972,80,56,341000,Announcer,Simpson Home,"And now, for an emergency announcement from the mayor."
+13973,80,57,344000,Mayor Joe Quimby,Simpson Home,"People of Springfield, because of the epidemic, I have cancelled my vacation to the Bahamas."
+13974,80,58,350000,Mayor Joe Quimby,Simpson Home,I shall not leave the city...
+13975,80,59,352000,Mayor Joe Quimby,Simpson Home,"Hey, you. Get that steel drum out of the, uh, Mayor's office."
+13976,80,60,356000,JAMAICAN MAN,Simpson Home,"Sorry, mon."
+13978,80,62,357000,C. Montgomery Burns,Burns's Office,"Smithers, this plague doesn't scare me. I've constructed a germ-free chamber for myself. Not a single microbe can get in or out."
+13979,80,63,372000,C. Montgomery Burns,Burns's Office,Who the devil are you?
+148550,80,64,374000,Homer's Brain,Burns's Office,Don't panic. Just come up with a good story.
+13980,80,65,377000,Homer Simpson,Burns's Office,My name is Mr. Burns.
+13982,80,68,380000,Mob,Dr. Hibbert's Office,We need a cure! We need a cure!
+13983,80,69,386000,Dr. Julius Hibbert,Dr. Hibbert's Office,"Why, the only cure is bed rest. Anything I give you would only be a placebo."
+13984,80,70,391000,Woman,Dr. Hibbert's Office,Where do we get these placebos?
+13985,80,71,393000,Man,Dr. Hibbert's Office,Maybe there's some in this truck!
+13986,80,72,400000,Man,Dr. Hibbert's Office,I'm cured! I mean ouch!
+13988,80,74,402000,Rod Flanders,Flanders Home,Dad! Todd's speaking in tongues!
+13990,80,76,408000,Ned Flanders,Flanders Home,"I wish he were, Rod, I pray for the day, but I'm afraid he's just delirious from fever."
+13992,80,78,417000,Maude Flanders,Flanders Home,"Oh, Neddie, why has God forsaken us?"
+13993,80,79,419000,Ned Flanders,Flanders Home,I can't imagine what we could've done to... Oh... oh no!
+13994,80,80,429000,Husband,Flanders Home,"Peg, you gotta take better care of the house. These plants are all lifeless and limp!"
+13995,80,81,435000,Wife,Flanders Home,"Maybe they'd feel more at home in the bedroom, Al!"
+13996,80,82,444000,Ned Flanders,Flanders Home,Uh oh.
+13997,80,83,444000,Ned Flanders,Flanders Home,Oh...the network slogan is true. Watch Fox and be damned for all eternity.
+13999,80,85,446000,Lisa Simpson,Simpson Home,"Mom, can you bring me more O.J.?"
+14000,80,86,453000,Bart Simpson,Simpson Home,Can you get me some of those Flintstones' chewable morphine?
+14001,80,87,456000,Marge Simpson,Simpson Home,There is no such thing.
+14002,80,88,457000,Homer Simpson,Simpson Home,"Marge, the boy's wasting valuable time -- come change the channel and pat my head."
+13569,80,89,461000,Marge Simpson,Simpson Home,In a minute!
+14003,80,90,463000,Homer Simpson,Simpson Home,"But, I'll miss ""Sheriff Lobo."""
+14004,80,91,465000,Grampa Simpson,Simpson Home,And get me a bottle of bourbon!
+14005,80,92,467000,Marge Simpson,Simpson Home,"Grampa, you know you can't have liquids after three p.m."
+14006,80,93,471000,Grampa Simpson,Simpson Home,"You can stir it into my mush. Either way, just gimme, gimme, gimme."
+14008,80,95,475000,Lisa Simpson,Kwik-E-Mart,"Mom, I need more O.J."
+14009,80,96,477000,Bart Simpson,Kwik-E-Mart,... Flintstones' chewable morphine.
+14010,80,97,479000,Homer Simpson,Kwik-E-Mart,I'll miss Sheriff Lobo...
+14011,80,98,481000,Lisa Simpson,Kwik-E-Mart,"Mom, I need more O.J."
+14012,80,99,483000,Bart Simpson,Kwik-E-Mart,... Flintstones' chewable morphine.
+14013,80,100,484000,Homer Simpson,Kwik-E-Mart,I'll miss Sheriff Lobo...
+14014,80,101,486000,Lisa Simpson,Kwik-E-Mart,O.J.
+14015,80,102,487000,Bart Simpson,Kwik-E-Mart,Morphine
+14016,80,103,488000,Homer Simpson,Kwik-E-Mart,Lobooo...
+14017,80,104,489000,Lisa Simpson,Kwik-E-Mart,O.J.
+14018,80,105,491000,Bart Simpson,Kwik-E-Mart,Morphine
+14019,80,106,491000,Homer Simpson,Kwik-E-Mart,Lobooo...
+14020,80,107,491000,Marge Simpson,Kwik-E-Mart,"And a bottle of aspirin, please."
+14021,80,108,494000,Apu Nahasapeemapetilon,Kwik-E-Mart,The aspirin is $24.95.
+14022,80,109,496000,Marge Simpson,Kwik-E-Mart,$24.95!
+14023,80,110,499000,Apu Nahasapeemapetilon,Kwik-E-Mart,I lowered the price because an escaped mental patient tampered with the bottle.
+14024,80,111,510000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Oh dear, the alarm must be broken. If you could just move a bit to your left..."
+14025,80,112,518000,Apu Nahasapeemapetilon,Kwik-E-Mart,"Eight foot, six... Oh Sanjay, help Mrs. Simpson with her bag... and-while-you're-at-it... Uske coat ke tharaf dekho."
+14026,80,113,532000,Sanjay Nahasapeemapetilon,Kwik-E-Mart,"Haajee, Ekdam phataaphat."
+14027,80,114,534000,Apu Nahasapeemapetilon,Kwik-E-Mart,Mrs. Simpson! You did not pay for this bottle of Colonel Kwik-E-Mart's Kentucky Bourbon.
+14028,80,115,541000,Marge Simpson,Kwik-E-Mart,"Uh... no, I-I guess I didn't."
+14029,80,116,550000,Chief Wiggum,Kwik-E-Mart,"All right. Come out with your hands up... two cups of coffee... an Auto Freshener that says ""Capricorn.""... and something with coconut on it..."
+14032,80,119,563000,Lionel Hutz,The Law Office of Lionel Hutz,"Now, Marge, you've come to the right place. By hiring me as your lawyer, you also get this smoking monkey!"
+14033,80,120,570000,Lionel Hutz,The Law Office of Lionel Hutz,"Better cut down there, Smokey. Heh, heh."
+14034,80,121,572000,Marge Simpson,The Law Office of Lionel Hutz,Mr. Hutz --
+14035,80,122,573000,Lionel Hutz,The Law Office of Lionel Hutz,Look! He's taking another puff!
+14037,80,123,576000,Marge Simpson,The Law Office of Lionel Hutz,Mr. Hutz! This was all a misunderstanding. I didn't mean to take anything.
+14038,80,124,582000,Lionel Hutz,The Law Office of Lionel Hutz,"Now don't you worry Mrs. Simpson, I... uh-oh. We've drawn Judge Snyder."
+14039,80,125,588000,Marge Simpson,The Law Office of Lionel Hutz,Is that bad?
+14040,80,126,589000,Lionel Hutz,The Law Office of Lionel Hutz,"Well, he's had it in for me ever since I kinda ran over his dog."
+14041,80,127,593000,Marge Simpson,The Law Office of Lionel Hutz,You did?
+14042,80,128,594000,Lionel Hutz,The Law Office of Lionel Hutz,"Well, replace the word ""kinda"" with the word ""repeatedly,"" and the word ""dog"" with ""son."""
+14044,80,130,594000,Homer Simpson,The Law Office of Lionel Hutz,"Look, Marge, I'll just talk to Apu and I'm sure he'll be reasonable."
+14047,80,133,609000,Homer Simpson,Kwik-E-Mart,"Apu, I'd like you to drop the charges against my wife."
+14048,80,134,613000,Apu Nahasapeemapetilon,Kwik-E-Mart,"No offense, but we're putting that bitch on ice."
+14049,80,135,617000,Homer Simpson,Kwik-E-Mart,"Now, come on! I'm your best customer."
+14050,80,136,620000,Apu Nahasapeemapetilon,Kwik-E-Mart,"I'm sorry, Mr. Homer, but it is the policy of the Kwik-E-Mart and its parent corporation, NorDyne Defense Dynamics, to prosecute shoplifters to the full extent of the law."
+14053,80,139,637000,Chief Wiggum,SAUNA,"Don't tell anyone, but Marge Simpson was arrested for shoplifting."
+14055,80,141,641000,Mayor Joe Quimby,PODIUM,Let the word go forth from this time and place: Marge Simpson is a shoplifter!
+14056,80,142,648000,Chief Wiggum,PODIUM,Hey!
+14057,80,143,649000,Mayor Joe Quimby,PODIUM,"In other news, the chick in ""The Crying Game"" is really a man."
+14058,80,144,655000,Crowd,PODIUM,Boo!
+14059,80,145,655000,Mayor Joe Quimby,PODIUM,"I mean, is that a good movie!"
+14060,80,146,659000,Crowd,PODIUM,Yay!
+14062,80,148,659000,Miss Hoover,LOVEJOY HOUSE,"... And last Christmas, Marge made us gingerbread men, and there was a hair in one!"
+14063,80,149,665000,Dr. Julius Hibbert,LOVEJOY HOUSE,Well I'll let you in on a little secret about Marge Simpson... She's got webbed toes.
+14064,80,150,672000,Rev. Timothy Lovejoy,LOVEJOY HOUSE,Puh-leeze.
+14066,80,152,675000,Ned Flanders,Flanders Home,"Now, Marge, don't you worry. We've all had our brushes with the law."
+14067,80,153,682000,Policeman,Flanders Home,Are you Ed Flanders?
+14068,80,154,683000,Ned Flanders,Flanders Home,"No, Ned Flanders."
+14069,80,155,685000,Policeman,Flanders Home,My mistake.
+14070,80,156,689000,Ned Flanders,Flanders Home,I'll never have that problem again.
+14071,80,157,691000,Marge Simpson,Flanders Home,Will you excuse me while I go and freshen up?
+14072,80,158,697000,Maude Flanders,Flanders Home,I'll follow her.
+14073,80,159,708000,Maude Flanders,Flanders Home,Just wash your hands and get out.
+14076,80,162,714000,Prosecutor,Courtroom,"Ladies and gentlemen of the jury, who do you find more attractive: Tom Cruise or Mel Gibson?"
+14077,80,163,723000,Judge Snyder,Courtroom,What is the point of all this?
+14078,80,164,725000,Prosecutor,Courtroom,"Your honor, I feel so confident of Marge Simpson's guilt, that I can waste the court's time by rating the Super-Hunks."
+14079,80,165,735000,Jury,Courtroom,Wow! / She must be guilty. / Very impressive. /
+14080,80,166,735000,Lionel Hutz,Courtroom,"Ooh, he's gonna win."
+14081,80,167,737000,Marge Simpson,Courtroom,Mr. Hutz!
+14082,80,168,739000,Prosecutor,Courtroom,"Now, Mrs. Lovejoy could you tell us a little about Marge Simpson?"
+14083,80,169,743000,Helen Lovejoy,Courtroom,"Well, as the wife of the minister, I'm privy to a lot of sensitive information. And here it is! Marge's husband doesn't earn much and the family's a mess and, quite frankly, I think she..."
+14084,80,170,757000,Prosecutor,Courtroom,"Let the record show that the witness made the ""drinky-drinky"" motion."
+14085,80,171,767000,Professor Jonathan Frink,Courtroom,"And if we freeze on frame 138 , we distinctly see a puff of blue hair coming from the grassy knoll..."
+14086,80,172,775000,Lionel Hutz,Courtroom,"Now, Apu, Mrs. Simpson claims that she forgot she was carrying that bottle of..."
+14087,80,173,781000,Lionel Hutz,Courtroom,Delicious... bourbon... brownest of the brown liquors... so tempting... What's that? You want me to drink you? But I'm in the middle of a trial... Excuse me.
+14088,80,174,800000,Lionel Hutz,Courtroom,"Hello, David? I'm really tempted."
+14089,80,175,803000,David Crosby,Courtroom,Just take it one day at a time. And know that I love you.
+14090,80,176,807000,Lionel Hutz,Courtroom,"I love you too, man."
+14091,80,177,809000,Lionel Hutz,Courtroom,"So, Mr. Nahasapeemapetilan, if that is your real name, have you ever forgotten anything?"
+14092,80,178,816000,Apu Nahasapeemapetilon,Courtroom,"No. In fact I can recite pi to 40,000 places. The last digit is one!"
+14093,80,179,822000,Homer Simpson,Courtroom,Mmm... pie.
+14094,80,180,825000,Lionel Hutz,Courtroom,"Well if you never forget anything, tell me this..."
+14095,80,181,825000,Lionel Hutz,Courtroom,What color tie am I wearing?
+14096,80,182,831000,Apu Nahasapeemapetilon,Courtroom,"You are wearing a red and white striped club tie, in a half Windsor knot."
+14097,80,183,836000,Lionel Hutz,Courtroom,"Oh, I am, am I? Is that what you think? Well, if that is what you think, I have something to tell you. Something that may shock and discredit you. And that thing is as follows..."
+14098,80,184,850000,Lionel Hutz,Courtroom,I'm not wearing a tie at all.
+14099,80,185,855000,Apu Nahasapeemapetilon,Courtroom,"But, if I am wrong about that, maybe I am wrong about Mrs. Simpson."
+14100,80,186,859000,Lionel Hutz,Courtroom,No further questions.
+14102,80,188,862000,Lionel Hutz,Simpson Home,"Kids, I got a crazy feeling your mom's not going to prison."
+14103,80,189,868000,Lisa Simpson,Simpson Home,Yay!
+14104,80,190,868000,Lisa Simpson,Simpson Home,You're a latter-day Clarence Darrow.
+14105,80,191,871000,Lionel Hutz,Simpson Home,"Uh, was he the black guy on the Mod Squad?"
+14106,80,192,874000,Bart Simpson,Simpson Home,Mr. Hutz when I grow up I want to be a lawyer just like you.
+14107,80,193,878000,Lionel Hutz,Simpson Home,"Good for you, son. If there's one thing American needs, it's more lawyers. Can you imagine a world without lawyers?"
+14110,80,196,892000,Lionel Hutz,Courtroom,"... And so, ladies and gentlemen of the jury... I rest my case."
+14111,80,197,897000,Judge Snyder,Courtroom,"Mr. Hutz, do you know you're not wearing any pants?"
+14112,80,198,901000,Lionel Hutz,Courtroom,What?
+14113,80,199,905000,Lionel Hutz,Courtroom,"Your honor, I move for a ""bad court thingy."""
+14114,80,200,908000,Judge Snyder,Courtroom,You mean a mistrial?
+14115,80,201,909000,Lionel Hutz,Courtroom,Yeah. That's why you're the judge and I'm the law talking guy.
+14116,80,202,913000,Judge Snyder,Courtroom,The lawyer.
+14117,80,203,913000,Lionel Hutz,Courtroom,Right.
+14118,80,204,915000,Judge Snyder,Courtroom,The foreman will pass the verdict to the Bailiff.
+14119,80,205,920000,Judge Snyder,Courtroom,This verdict is written on a cocktail napkin!
+14120,80,206,923000,Judge Snyder,Courtroom,"... And it still says ""guilty!"" ... And ""guilty"" is spelled wrong!"
+14121,80,207,927000,Lionel Hutz,Courtroom,Eep.
+14122,80,208,928000,Judge Snyder,Courtroom,Will the foreman please read the real verdict?
+14123,80,209,931000,Jury Foreman,Courtroom,"We find the defendant, guilty!"
+14124,80,210,934000,Judge Snyder,Courtroom,"Marge Simpson, I sentence you to thirty days in prison."
+14125,80,211,938000,Bailiff,Courtroom,Next case. The National Council of Churches vs. Lionel Hutz.
+14126,80,212,943000,Lionel Hutz,Courtroom,"Oh right, that thing."
+14128,80,214,947000,Lisa Simpson,Courthouse Hallway,"You're still my hero, Mom."
+14129,80,215,948000,Marge Simpson,Courthouse Hallway,Now you kids be good while mother's in prison.
+14130,80,216,952000,Bart Simpson,Courthouse Hallway,"Don't worry, Mom. I'll bust ya outta there just as soon as I get a cocktail dress and a crowbar."
+14131,80,217,961000,Warden,Courthouse Hallway,"Bartina, until I met you, I was the loneliest warden in the penal system."
+14132,80,218,967000,Bart Simpson,Courthouse Hallway,Fresh!
+14133,80,219,970000,Warden,Courthouse Hallway,Down I go.
+14135,80,221,978000,Marge Simpson,Courthouse Hallway,"I'll be fine, dear."
+14136,80,222,980000,Homer Simpson,Courthouse Hallway,"Marge, I'm gonna miss you so much. And it's not just the sex... it's also the food preparation... your skill with stains of all kinds. But mostly, I'll miss how lucky you make me feel each and every morning."
+14137,80,223,994000,Marge Simpson,Courthouse Hallway,I'll miss you too Homie.
+14138,80,224,1000000,Apu Nahasapeemapetilon,Courthouse Hallway,"With her behind bars, our store is secure."
+14140,80,226,1008000,Snake Jailbird,Kwik-E-Mart,I'm takin' this thing to Mexico.
+14143,80,229,1026000,Marge Simpson,Springfield Prison,"Knock, knock."
+14144,80,230,1028000,Marge Simpson,Springfield Prison,I'm Marge Simpson. Your new cellmate.
+14145,80,231,1031000,Phillips,Springfield Prison,I'm Phillips. They call me that 'cause I killed my husband with a Phillips-head screwdriver.
+14147,80,233,1039000,Marge Simpson,Springfield Prison,It's so nice not to have to cook.
+14148,80,234,1042000,Phillips,Springfield Prison,You mean your husband never cooked for you?
+14149,80,235,1044000,Marge Simpson,Springfield Prison,Well... once.
+14150,80,236,1050000,Marge Simpson,Springfield Prison,"Homer, I don't think this fish is quite dead yet."
+14151,80,237,1053000,Homer Simpson,Springfield Prison,"Marge, please. I'm having enough trouble with the lobsters."
+14152,80,238,1057000,Marge Simpson,Springfield Prison,Oh my goodness.
+14153,80,239,1065000,Phillips,Springfield Prison,That's Tattoo Annie.
+14154,80,240,1072000,Marge Simpson,Springfield Prison,What kind of slime would I marry? I don't understand.
+14155,80,241,1074000,Tattoo Annie,Springfield Prison,It's one of those Mad Magazine fold-ins.
+14156,80,242,1079000,Marge Simpson,Springfield Prison,Amazing!
+14158,80,244,1081000,Homer Simpson,Simpson Home,"Now kids, while your mother's gone, I don't wanna have to wash any dishes. So, from now on, drink straight from the faucet or milk carton, and we'll eat while standing over the sink or toilet."
+14159,80,245,1091000,Bart Simpson,Simpson Home,Who's gonna change Maggie?
+14160,80,246,1092000,Homer Simpson,Simpson Home,"We're gonna let her roam free in the backyard, and nature will take its course."
+14162,80,247,1096000,Lisa Simpson,Simpson Home,"Excuse me, but I think if we all do our fair share, we can keep this house clean."
+14163,80,248,1108000,Bart Simpson,Simpson Home,Dad! We're running out of clean clothes!
+14164,80,249,1111000,Lisa Simpson,Simpson Home,It seems like I've been wearing the same red dress forever.
+14165,80,250,1114000,Homer Simpson,Simpson Home,Go up to the attic. There's a whole trunk of clothes up there.
+14168,80,253,1121000,Milhouse Van Houten,Springfield Elementary School,"Alright! Bologna and cheese. What do you got, Bart?"
+14169,80,254,1125000,Bart Simpson,Springfield Elementary School,A pack of sugar and peanut butter smeared on a playing card.
+14170,80,255,1130000,Nelson Muntz,Springfield Elementary School,"Haw, haw! Your mom's a jailbird!"
+14171,80,256,1133000,Bart Simpson,Springfield Elementary School,So's yours.
+14172,80,257,1134000,Nelson Muntz,Springfield Elementary School,"Oh, yeah. Let's play."
+14174,80,259,1141000,Lisa Simpson,Springfield Prison,"Oh Mom, I've missed you so much."
+14175,80,260,1144000,Marge Simpson,Springfield Prison,"Oh honey, I've missed you too. Homer, is that an old Halloween costume?"
+14176,80,261,1150000,Homer Simpson,Springfield Prison,Uh... no.
+14177,80,262,1152000,Marge Simpson,Springfield Prison,So how are things at home?
+14178,80,263,1155000,Bart Simpson,Springfield Prison,"We flushed the gator down the toilet, but it got stuck halfway and now we have to feed it."
+14181,80,266,1159000,Grampa Simpson,Simpson Home,"I'll bet you want a piece of me. Well, you ain't gonna get it, see! Ha, ha, ha..."
+14182,80,267,1166000,Grampa Simpson,Simpson Home,Doggone it.
+14183,80,268,1174000,Homer Simpson,Simpson Home,"Honey, I don't know what you're feelin' right now. So I don't wanna push anything. We can just hold hands... or sit and talk..."
+14185,80,270,1189000,Homer Simpson,Simpson Home,Woo!
+14187,80,272,1189000,Customer,Trailer,Ooh! Do you have any of those delicious marshmallow squares?
+14188,80,273,1193000,Maude Flanders,Trailer,"Sorry, Marge Simpson makes those."
+14189,80,274,1195000,Customer,Trailer,Oh darn.
+14190,80,275,1199000,Park Commissioner,Trailer,Fifteen dollars short. Exactly what Marge Simpson's marshmallow squares bring in. Can we still afford that statue of Lincoln?
+14191,80,276,1208000,Assistant,Trailer,"No, I'm afraid we'll have to go with something cheaper."
+14192,80,277,1211000,Mayor Joe Quimby,Trailer,"I give you our 39th president, Jimmy Carter."
+14193,80,278,1216000,Man,Trailer,"Aw, C'mon."
+14194,80,279,1218000,Man #2,Trailer,He's history's greatest monster.
+14036,80,280,1236000,Chief Wiggum,Trailer,Release the dogs.
+14195,80,281,1237000,Lou,Trailer,"Gee, they look pretty mad."
+14196,80,282,1240000,Chief Wiggum,Trailer,Yeah I've been starving 'em... teasing 'em... singin' off key...
+14197,80,283,1248000,Chief Wiggum,Trailer,Me may ma moe... me moo ma may... me...
+14198,80,284,1249000,Maude Flanders,Trailer,This never would have happened if Marge Simpson was here.
+14200,80,286,1257000,Phillips,Springfield Prison,"Goodbye, Marge. I'll miss ya."
+14201,80,287,1259000,Marge Simpson,Springfield Prison,I hope you find somebody.
+14202,80,288,1261000,Phillips,Springfield Prison,Men are such slime. But I'm seeing this new guy. I think he's different.
+14203,80,289,1266000,Barney Gumble,Springfield Prison,Yoo hoo!
+14204,80,290,1268000,Phillips,Springfield Prison,He says his name is Homer and he works at the nuclear plant.
+14207,80,293,1274000,Lisa Simpson,Simpson Home,We've gotta clean this up before mom gets back.
+14208,80,294,1277000,Bart Simpson,Simpson Home,No problemo. We'll just sweep it all under the rug.
+14209,80,295,1287000,Wiseguy,Simpson Home,"Hey, watch it!"
+14211,80,297,1295000,Marge Simpson,Simpson,I didn't expect all this.
+14212,80,298,1298000,Helen Lovejoy,Simpson,"Well, we never should have let you go. From now on I'll use my gossip for good instead of evil."
+14213,80,299,1303000,Dr. Julius Hibbert,Simpson,Three cheers for Marge Simpson!
+14214,80,300,1305000,Crowd,Simpson,Hip hip hooray! Hip hip hooray! Hip hip hooray!
+14215,80,301,1310000,Mayor Joe Quimby,Simpson,"Now, Marge, we have a special treat for you."
+14216,80,302,1318000,Marge Simpson,Simpson,"Uh, it's beautiful."

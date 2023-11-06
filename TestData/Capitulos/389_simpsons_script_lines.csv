@@ -1,0 +1,207 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+100883,389,2,11000,Homer Simpson,Simpson Car,Ah! Nothin' beats taking a family drive with our new satellite radio.
+100884,389,3,35000,Homer Simpson,Simpson Car,Which of the twenty-five easy-listening stations should we listen to?
+100885,389,4,39000,Marge Simpson,Simpson Car,"I say ""Cool Waves."""
+100886,389,5,39000,Bart Simpson,Simpson Car,"""Neon Breeze""!"
+100887,389,6,39000,Lisa Simpson,Simpson Car,"""Chill Thunder""! ""Chill Thunder""!"
+100888,389,7,39000,Homer Simpson,Simpson Car,You're all idiots. I'm putting it on Chill Thunder Lite.
+100889,389,8,46000,Marge Simpson,Simpson Car,"Ooo, now that's smooth."
+100890,389,9,53000,The Rich Texan,Simpson Car,"Outta my way, ya seatbelt wearin' cowards!"
+100891,389,10,57000,Homer Simpson,Simpson Car,Hey! Nobody cuts me off!
+100893,389,11,62000,Marge Simpson,Simpson Car,"Homer, no! Revenge never solves anything."
+100894,389,12,65000,Homer Simpson,Simpson Car,Then what's America doing in Iraq?
+100895,389,13,67000,Marge Simpson,Simpson Car,"Well, let me tell you a story about a time revenge brought only unhappiness and misery. It happened many years ago in Paris--"
+100896,389,14,75000,The Rich Texan,Simpson Car,Texas?
+100897,389,15,76000,Marge Simpson,Simpson Car,"No, France."
+100898,389,16,78000,Marge Simpson,Simpson Car,There was a happy young family...
+100900,389,18,83000,Bart Simpson,Paris,"Papa, may we have chocolat?"
+100901,389,19,85000,Lisa Simpson,Paris,"Papa, may we have petit fours?"
+100902,389,20,87000,Homer Simpson,Paris,May we? May we? Mais oui!
+100904,389,22,95000,Marge Simpson,Paris,"Oh mon cher, I am the luckiest wife in the entire sixteenth arrondissement! Let us kiss with the tongues."
+100905,389,23,107000,Meaux,Paris,"I hate that Homer jerk, with his beautiful wife and loving family, when all I got is this doorway."
+100906,389,24,113000,Meaux,Paris,"Well, enjoy your sensual tongue-play while you can. 'Cause I've got a plan to take everything you've got!"
+100909,389,27,129000,Gendarme Wiggum,Chez Simpson,Monsieur Simpson...
+100911,389,29,131000,Gendarme Wiggum,Chez Simpson,You're under arrest for treason!
+100912,389,30,133000,Homer Simpson,Chez Simpson,"Treason?! But I love France! The way all our words are either a girl or a guy! Oh, that's the best!"
+100913,389,31,139000,Gendarme Wiggum,Chez Simpson,Tell it to le baton!
+100914,389,32,144000,Homer Simpson,Chez Simpson,I don't want the kids to see me this way!
+100915,389,33,147000,Marge Simpson,Chez Simpson,"Don't worry, they're still drunk from school!"
+100916,389,34,152000,Lisa Simpson,Chez Simpson,Uh... deux... troi....
+100919,389,37,166000,Homer Simpson,Courtroom,"I didn't write that! Even if I did love England, I'd play it cool. Wait for it to come to me."
+100920,389,38,178000,Judge Snyder,Courtroom,I sentence you to life...
+100921,389,39,180000,Homer Simpson,Courtroom,You moron! I'm already alive!
+100922,389,40,182000,Judge Snyder,Courtroom,...in prison!
+100925,389,43,196000,Gendarme Wiggum,Courtroom,I'm gonna stop now.
+100928,389,46,202000,Homer Simpson,Chateau d'If,"I shouldn't be here, I was framed!"
+100929,389,47,205000,Carl Carlson,Chateau d'If,You think you got problems? The Man in the Iron Mask over there is the rightful King of France.
+100930,389,48,209000,Man In The Iron Mask,Chateau d'If,"Hey wait, did you guys hear that? He just admitted it! Guys? Oh man, this place is so unfair."
+100931,389,49,215000,Homer Simpson,Chateau d'If,Are you gonna torture me?
+100932,389,50,217000,Lenny Leonard,Chateau d'If,We can't tell you -- not knowing is the worst torture of all.
+100933,389,51,221000,Carl Carlson,Chateau d'If,"Well, that and the Rat Helmet."
+100934,389,52,226000,Lenny Leonard,Chateau d'If,Now get some sleep -- you've got a nine a.m. Rat Helmet.
+100935,389,53,229000,Homer Simpson,Chateau d'If,Nine a.m.?!
+100936,389,54,236000,Homer Simpson,Chateau d'If,I swear revenge on Meaux! Even if it takes me the rest of my life! Can you loosen my arm so I can shake my fist?
+100937,389,55,244000,Lenny Leonard,Chateau d'If,You're the traitor.
+100938,389,56,246000,Homer Simpson,Chateau d'If,REVENGE! Okay.
+100939,389,57,249000,Lenny Leonard,Chateau d'If,Thank you.
+100941,389,59,252000,Homer Simpson,Prison Cell,"Oh, little mouse, you are the only thing that keeps me sane."
+100942,389,60,260000,Homer Simpson,Prison Cell,Now I have nothing.
+100943,389,61,262000,C. Montgomery Burns,Prison Cell,Perhaps I may be of help.
+100944,389,62,264000,Homer Simpson,Prison Cell,Where did you come from?
+100945,389,63,266000,C. Montgomery Burns,Prison Cell,"I'm your cellmate. You never noticed me, because, frankly, you're extremely self-centered."
+100946,389,64,271000,Homer Simpson,Prison Cell,"Oh sorry, I wasn't listening. I was checking out my reflection in this yellow water. Lookin' good."
+100947,389,65,278000,C. Montgomery Burns,Prison Cell,"Young man, I have the answer to your problems."
+100948,389,66,286000,C. Montgomery Burns,Prison Cell,"I spent thirty years digging this tunnel, but now I can't use it. I'm simply too old."
+100949,389,67,292000,Homer Simpson,Prison Cell,And decrepit.
+100950,389,68,293000,C. Montgomery Burns,Prison Cell,"But you can escape -- and use this map to retrieve my buried treasure. With it, you can have your revenge!"
+100951,389,69,301000,Homer Simpson,Prison Cell,"Oooh, the the! But why are you helping me?"
+100952,389,70,305000,C. Montgomery Burns,Prison Cell,"Well, because before my wretched life comes to a close, I want to know that I had one friend. Also, because while you slept, I violated you repeatedly."
+100953,389,71,316000,Homer Simpson,Prison Cell,"So this map leads to a treasure, huh?"
+100954,389,72,320000,Homer Simpson,Prison Cell,I wonder how long this tunnel...
+100956,389,74,320000,Homer Simpson,Chateau d'If,...iiiiiis!
+100762,389,77,345000,Homer Simpson,Underwater,Dammit!
+100892,389,78,352000,Homer Simpson,Underwater,How's it goin'?
+100959,389,80,360000,Homer Simpson,Deserted Island,Mon Dieu! Weee!
+100960,389,81,370000,Homer Simpson,Deserted Island,Ew! Silver!
+100961,389,82,372000,Homer Simpson,Deserted Island,"Ooh, a penny!"
+100962,389,83,373000,Homer Simpson,Deserted Island,This is my lucky day.
+100965,389,86,383000,Lisa Simpson,Chez Meaux,"FRÈRE JACQUES, FRÈRE JACQUES / DORMEZ-VOUS, DORMEZ-VOUS..."
+100966,389,87,390000,Meaux,Chez Meaux,"I love today's music. ""Frère"" this and ""Jacques"" that, outta sight."
+100967,389,88,397000,Footman Mel,Chez Meaux,The Count of Monte Cristo invites you to a formal gala.
+100968,389,89,397000,Marge Simpson,Chez Meaux,"Ooh, the Count of Monte Cristo! Can we go? We haven't been to any parties since that soirée at the Bastille."
+100969,389,90,411000,Meaux,Chez Meaux,Summer nights.
+100972,389,93,415000,Townspeople,PALACE,"When we meet the count, do you think he'll like us? / I've heard rumors he's mysterious!"
+100973,389,94,432000,Homer Simpson,PALACE,"Madame, you have the shapely, hairless knuckles of a queen."
+100975,389,96,438000,Homer Simpson,PALACE,"Monsieur Meaux, I would be honored if you would be the first to enjoy the evening's entertainment."
+100976,389,97,445000,Homer Simpson,PALACE,Here it is: The Harmless Chair of Relaxation!
+100977,389,98,449000,Meaux,PALACE,"I've heard about these things. They're good for doin' the wife, right?"
+100978,389,99,454000,Homer Simpson,PALACE,Little do you know that the Count of Monte Cristo is in fact an old acquaintance of yours.
+100979,389,100,459000,Meaux,PALACE,Ma?...
+100980,389,101,461000,Homer Simpson,PALACE,I have returned!
+100982,389,103,463000,Homer Simpson,PALACE,Oh. Hold on.
+100983,389,104,467000,All Partygoers,PALACE,/ It's him! / Homer! / Monsieur Simpson! /
+100984,389,105,469000,Marge Simpson,PALACE,"Homer, you're back!"
+100985,389,106,471000,Homer Simpson,PALACE,Oui oui! And I have spent the last five years plotting the most exquisite revenge!
+100986,389,107,488000,Meaux,PALACE,"Okay, lesson learned. Friends again?"
+100987,389,108,494000,Meaux,PALACE,Crêpes?
+100988,389,109,497000,Meaux,PALACE,SUZETTE!
+100989,389,110,503000,Marge Simpson,PALACE,Homer...
+100990,389,111,506000,Homer Simpson,PALACE,"Yes, my love?"
+100991,389,112,507000,Marge Simpson,PALACE,You killed my husband!
+100992,389,113,512000,Lisa Simpson,PALACE,Papa Meaux! Papa Meaux!
+100993,389,114,514000,Homer Simpson,PALACE,You guys liked him?
+100994,389,115,515000,Marge Simpson,PALACE,We were together for five years! Now who's gonna take care of the triplets?
+100995,389,117,525000,Homer Simpson,PALACE,"But Marge, I did it all for you!"
+100996,389,118,528000,Marge Simpson,PALACE,"For me, huh? What took you so long?"
+100997,389,119,531000,Homer Simpson,PALACE,"It takes time to make a revenge machine this awesome! Plus, in the middle, I had to take revenge on some of my contractors."
+100998,389,120,537000,Marge Simpson,PALACE,"You spent so much time plotting your revenge, you lost everything that really mattered. Come on, kids."
+101000,389,122,548000,Marge Simpson,Simpson Car,"So you see Homer, revenge only leads to misery."
+101002,389,124,557000,Marge Simpson,Simpson Car,Weren't you listening? I just told you a whole story about revenge.
+101003,389,125,561000,Homer Simpson,Simpson Car,"Oh, right -- revenge!!"
+101006,389,128,568000,Homer Simpson,Simpson Car,"I'm gonna get my revenge! And if I get caught, I'm pinning it on the baby like the time I shot Mr. Burns."
+101007,389,129,573000,Lisa Simpson,Simpson Car,"Dad, wait, I've got a story about why revenge is wrong."
+101008,389,130,576000,Homer Simpson,Simpson Car,"Is it ""The Count of Monte Cristo?"" 'Cause I love that story."
+101009,389,131,580000,Lisa Simpson,Simpson Car,No.
+101011,389,133,581000,Lisa Simpson,Simpson Car,"I call it...""Revenge of the Geeks."""
+101014,389,136,591000,Milhouse Van Houten,Springfield Elementary School,I'm so sick of those bullies. We've gotta figure out some way to stop 'em.
+101015,389,137,596000,Martin Prince,Springfield Elementary School,Perhaps we could tell the principal.
+101016,389,138,598000,Seymour Skinner,Springfield Elementary School,Tell me what?
+101018,389,140,602000,Martin Prince,Springfield Elementary School,"Behold -- ""The Get-back-inator""."
+101019,389,141,608000,Database,Springfield Elementary School,We're gonna beat those bullies with a glove?
+101020,389,142,610000,Martin Prince,Springfield Elementary School,This is far more than a mere glove. This is the turning point in the eternal battle of brain v. brawn. All it requires is a small amount of coordination.
+101022,389,144,624000,Milhouse Van Houten,Springfield Elementary School,I can handle the glove. I took juggling at camp.
+101025,389,147,633000,Martin Prince,Springfield Elementary School,"Good morning, dinguses. What are you doing? Touching each other's butts?"
+101026,389,148,637000,DOLPH,Springfield Elementary School,"You are so dead, you're alive!"
+101027,389,150,648000,Kearney Zzyzwicz,Library,What is this place?
+101028,389,151,651000,Milhouse Van Houten,Library,What a pleasant surprise. It seems that now the shoe is on the other-- REVENGE!
+101030,389,153,668000,Kearney Zzyzwicz,Library,My fun bags!
+101031,389,154,670000,Jimbo Jones,Library,"Please, have mercy! I always thought you were coolest dork!"
+101032,389,155,685000,Speaker,Library,Stop hitting yourself. Stop hitting yourself. Stop hitting yourself. Why are you hitting yourself?
+101034,389,157,695000,Lisa Simpson,Springfield Elementary School,"Milhouse, thanks to you, the nerds can breathe easy. Except the ones with asthma. Which is all of them. But still, it's great."
+101035,389,158,703000,Milhouse Van Houten,Springfield Elementary School,"Yep, having a weapon at school has really made things awesome."
+101037,389,160,710000,Martin Prince,Springfield Elementary School,"Pardon my birdie, I misjudged the prevailing wind."
+101038,389,161,713000,Milhouse Van Houten,Springfield Elementary School,You embarrassed me in front of Lisa!
+101040,389,163,725000,Lisa Simpson,Springfield Elementary School,"Milhouse, what's gotten into you?"
+101041,389,164,727000,Milhouse Van Houten,Springfield Elementary School,Over the years a lot of people have hurt me. Good thing I kept this list.
+101042,389,165,734000,Lisa Simpson,Springfield Elementary School,"No, no! You've already got your revenge!"
+101043,389,166,737000,Milhouse Van Houten,Springfield Elementary School,"You wouldn't give me ""Chinese cuts"" in the lunch line! You laughed when I threw up on the glass-blowing tour!"
+101044,389,167,745000,Milhouse Van Houten,Springfield Elementary School,Girls like you better! Your parents are married!
+101045,389,168,751000,Bart Simpson,Springfield Elementary School,Ay carumba!
+101047,389,170,754000,Bart Simpson,Simpson Car,That's the only line I get in your stupid story?!
+101048,389,171,757000,Lisa Simpson,Simpson Car,"There are no small parts, just small actors."
+101050,389,173,763000,Kid,PLAYGROUND,This is my first day at this school! I haven't done anything to you!
+101051,389,174,767000,Milhouse Van Houten,PLAYGROUND,You will -- this is prevenge.
+101052,389,175,774000,Groundskeeper Willie,PLAYGROUND,"Why look, it's Milhouse. What's the power glove for -- openin' the cap on your weird-o pills?"
+101053,389,176,786000,Seymour Skinner,PLAYGROUND,"Willie, clean up this mess!"
+101054,389,177,788000,Groundskeeper Willie,PLAYGROUND,All right.
+101056,389,179,793000,Lisa Simpson,PLAYGROUND,"Milhouse, don't you see... you're addicted to revenge."
+101058,389,180,797000,Milhouse Van Houten,PLAYGROUND,You'll learn to love it when you're my queen.
+101059,389,181,800000,Lisa Simpson,PLAYGROUND,I see. While it would be an honor to be your queen...
+101060,389,182,805000,Milhouse Van Houten,PLAYGROUND,Go on...
+101061,389,183,807000,Lisa Simpson,PLAYGROUND,I feel it would be best if we just stayed friends.
+101062,389,184,810000,Milhouse Van Houten,PLAYGROUND,Nobody spares my feelings!
+101063,389,185,817000,Milhouse Van Houten,PLAYGROUND,"I can't do it. I can't hurt you, Lisa!"
+101064,389,186,826000,Nelson Muntz,PLAYGROUND,Haw haw! You forgot about me 'cause I had the mumps!
+101066,389,188,838000,Homer Simpson,Car,Wow. That had what I really like in a story: an ending.
+101067,389,189,844000,Lisa Simpson,Car,"The point, Dad, is that when you take revenge, you become just as bad as the person you harm."
+101068,389,190,849000,Homer Simpson,Car,"No, sweetie. The lesson is: never put down your weapon."
+101069,389,191,854000,Homer Simpson,Car,Revenge!
+101071,389,193,861000,The Rich Texan,Mountain Road,Look at that view. It reminds me how insignificant we are in the world. Yee haw!
+101072,389,194,869000,Homer Simpson,Mountain Road,"This is it. It's taken all day, we've missed our flight to Hawaii, but finally, I'll get my revenge."
+101073,389,195,878000,Bart Simpson,Mountain Road,"Dad, wait! You haven't heard my story."
+101074,389,196,881000,Homer Simpson,Mountain Road,You? You're too dumb to tell a story.
+101075,389,197,885000,Homer Simpson,Mountain Road,"No, seriously, you're great -- let's hear it."
+101076,389,198,889000,Bart Simpson,Mountain Road,"My story takes place in a time I call ""the past""."
+101078,389,200,912000,Bart Simpson,Big City,That stunk worse than boiled cabbage.
+101079,389,201,915000,Marge Simpson,Big City,You should feel lucky. Not many boys have parents who can afford to take them to the opera every night.
+101080,389,202,920000,Homer Simpson,Big City,"Parents who are still alive, I might add."
+101082,389,204,926000,Marge Simpson,OPERA HALL,This alley looks dangerous. I'd better turn my ring around.
+101083,389,205,932000,Marge Simpson,OPERA HALL,Hoo-boy.
+101084,389,206,935000,Snake Jailbird,OPERA HALL,Hand over your wallet!
+101085,389,207,937000,Homer Simpson,OPERA HALL,You don't frighten me!
+101086,389,208,939000,Homer Simpson,OPERA HALL,Or my wife!
+101087,389,209,941000,Homer Simpson,OPERA HALL,Or my...
+101088,389,210,942000,Marge Simpson,OPERA HALL,Shut up!
+101089,389,211,948000,Homer Simpson,OPERA HALL,Avenge me. In flamboyant impractical fashion.
+101091,389,213,969000,Bart Simpson,Graveyard,"I want to avenge you, but I don't know how."
+99059,389,214,972000,Grampa Simpson,Graveyard,With my help.
+99128,389,215,973000,Bart Simpson,Graveyard,Grampa?
+101092,389,216,974000,Grampa Simpson,Graveyard,"In my younger days, I was an ace crime fighter -- the ""Crimson Cockatoo!"""
+101093,389,217,978000,Grampa Simpson,Graveyard,Now let's get you in shape in an old-timey way.
+101094,389,218,1001000,Bart Simpson,Graveyard,Holy Hannah! I've got more muscles than a New England clambake. Now all I need is a superhero name.
+101095,389,219,1008000,Grampa Simpson,Graveyard,You can be the Crimson Cockaboy. Hmmm?
+101096,389,220,1012000,Bart Simpson,Graveyard,I'll keep thinking.
+101098,389,222,1017000,Apu Nahasapeemapetilon,CITY STREETS,"Help! Somebody help! That thief stole all my ""Heralds"", ""Tribunes"", and ""Herald-Tribunes""!"
+101099,389,223,1025000,Bandit,CITY STREETS,A k-k-k-kid!
+101100,389,224,1027000,Bart Simpson,CITY STREETS,I'm Bart-Man.
+101101,389,225,1033000,Apu Nahasapeemapetilon,CITY STREETS,"Thank you, masked vigilante. Your over-zealous homicide has saved me eighty cents. Now if you're not going to buy anything, please move along."
+101102,389,226,1046000,Radio Announcer,CITY STREETS,"Tonight, the Springfield... I mean, Gotham underworld is trembling while solid citizens sleep snug as a bug. Why? Because Bart-Man is knocking down bad guys like Howard Hughes knocks up young starlets."
+101103,389,227,1055000,Radio Announcer,CITY STREETS,"Bad guys like: ""The Toker""...""The Diddler""...""Mr. Mole""...""Sugar and Spice""...and ""Poison Lenny""!"
+101104,389,228,1073000,Bart-man,CITY STREETS,No snake tattoo.
+101105,389,229,1076000,Bart-man,CITY STREETS,When will I find the man who murdered my parents? When?
+101106,389,230,1080000,The Serpent,CITY STREETS,"Attention, Bart-Man -- this is ""The Serpent"", saying ""fangs a lot"" for getting rid of the competish. More stuff for me to steal!"
+101107,389,231,1090000,Bart-man,CITY STREETS,"No villain is safe from me, Serpent!"
+101108,389,232,1092000,Poison Lenny,CITY STREETS,"But I'm not a villain, I'm a transvestite."
+101109,389,233,1095000,Bart-man,CITY STREETS,Explain that to your maker!
+101110,389,234,1100000,Chief Wiggum,CITY STREETS,"I'll take it from here, Bart-Man."
+101112,389,236,1115000,Lou,Museum,"No sign of the Serpent, Chief."
+101113,389,237,1117000,Chief Wiggum,Museum,Everything's work with you. Lighten up.
+101114,389,238,1123000,Lindsay Naegle,Museum,That music -- it's so hypnotic!
+101115,389,239,1126000,Sideshow Mel,Museum,My bone has a mind of its own!
+101116,389,240,1132000,The Serpent,Museum,I'll be snaking those jewels and venom gonna go! Sorry I didn't asp your permission. Hope that's cobra-cetic.
+101117,389,241,1140000,Krusty the Clown,Museum,Hey schmuck: puns are lazy writing!
+101118,389,242,1148000,Bart-man,Museum,"Party's over, Serpent!"
+101119,389,243,1151000,Chief Wiggum,Museum,"No kidding, 'cause you're standing in the dip."
+101120,389,244,1167000,Bart-man,Museum,You! You're the man who killed my parents!
+101121,389,245,1176000,Bart-man,Museum,I did it. I finally got my revenge.
+101122,389,246,1179000,Lisa Simpson,Museum,"But it didn't bring your parents back. Tell me, big boy, was it really worth it?"
+101123,389,247,1183000,Bart-man,Museum,Well... I do feel a little better. Plus I've got zillions of dollars and no parents to tell me what to do.
+101125,389,249,1189000,Bathing Beauty,Bart-man's Mansion,"Bart-Man, don't you want to join us?"
+101126,389,250,1192000,Bart-man,Bart-man's Mansion,Don't talk to me when I'm vibrating.
+101128,389,252,1196000,Bart Simpson,OUTLOOK,"So you see, revenge is great. And there's three ways to talk about it. Although two of the ways were kind of the same way, and even the third one might have worked better as a Halloween story..."
+101129,389,253,1207000,Homer Simpson,OUTLOOK,"That's okay, boy. The two of us got to talking."
+101130,389,254,1211000,The Rich Texan,OUTLOOK,Yeah. It turns out we have a lot in common. We're both from Connecticut!
+101131,389,255,1217000,The Rich Texan,OUTLOOK,Look at all them stars. How many do you think there are?
+101132,389,256,1221000,Homer Simpson,OUTLOOK,Two.
+101133,389,257,1222000,The Rich Texan,OUTLOOK,"What the?! Two?! You think there are two?! Well, I never, how could-- Why do you think it is that mankind is so inclined towards hatin' one another?"
+101134,389,258,1234000,Homer Simpson,OUTLOOK,I don't know. Let's just lay here till we figure it out.

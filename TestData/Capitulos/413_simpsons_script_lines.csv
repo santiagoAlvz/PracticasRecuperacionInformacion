@@ -1,0 +1,213 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+107142,413,2,61000,Bart Simpson,Homer's Car,Ow! Mom! Lisa hit me!
+107143,413,3,63000,Lisa Simpson,Homer's Car,I did not!
+107144,413,4,65000,Marge Simpson,Homer's Car,"Kids, knock it off. I'm uncomfortable driving your father's car as it is."
+107145,413,5,71000,Marge Simpson,Homer's Car,What the?
+107147,413,7,77000,Bart Simpson,Homer's Car,Fine. We'll divide the car into your side and my side. My leg is the barrier.
+107148,413,8,83000,Lisa Simpson,Homer's Car,Mo-om!
+107149,413,9,85000,Bart Simpson,Homer's Car,The system works!
+107151,413,11,89000,Bart Simpson,Homer's Car,It's not funny! You're wearing cleats!
+107152,413,12,95000,Marge Simpson,Homer's Car,Stop it! Stop it!
+107155,413,15,113000,Bart Simpson,Springfield Elementary School,"Sorry I'm late -- I was in a car crash. Many hurt, but nobody cool was harmed."
+107156,413,16,118000,Edna Krabappel-Flanders,Springfield Elementary School,"Just sit down, Bart."
+107157,413,17,119000,Bart Simpson,Springfield Elementary School,Huh?
+107158,413,18,122000,Bart Simpson,Springfield Elementary School,Who's the new meat in my seat?
+107159,413,19,124000,Edna Krabappel-Flanders,Springfield Elementary School,"Bart, this is Donny. He's here at our school because he was kicked out of P.S. one thirty-two."
+107160,413,20,129000,Donny,Springfield Elementary School,P.S. -- that school sucked.
+107162,413,22,132000,Edna Krabappel-Flanders,Springfield Elementary School,"But don't worry, Bart. Willie's bringing you something to sit on."
+107163,413,23,142000,Donny,Springfield Elementary School,"Hey, Krabappel, your name sounds like ""crab apple."" Did you go sour waiting for someone to pick you?"
+107164,413,24,148000,Edna Krabappel-Flanders,Springfield Elementary School,Pretty much.
+107166,413,26,168000,Milhouse Van Houten,Springfield Elementary School,Isn't he awesome?
+107167,413,27,170000,Ralph Wiggum,Springfield Elementary School,"When he grows up, I want to be like me."
+107168,413,28,174000,Bart Simpson,Springfield Elementary School,"Look, new kid, I'm the head hamster in this habitrail. Capeesh?"
+107169,413,29,179000,Donny,Springfield Elementary School,"Well maybe there's a new guinea pig in your cage. ""Capeesh"" that?"
+107170,413,30,182000,Bart Simpson,Springfield Elementary School,"Oh, I ""capeesh."" I ""capeesh"" just fine."
+107171,413,31,186000,Donny,Springfield Elementary School,"Well, you just keep on capeeshing."
+107174,413,34,197000,Nelson Muntz,Springfield Elementary School,See saw!
+107177,413,37,200000,Mike,Car Dealership,"Mr. Simpson, this damage will take a week to fix."
+107178,413,38,204000,Mike,Car Dealership,"While your car's in the shop, you can drive this loaner."
+107179,413,39,208000,Homer Simpson,Car Dealership,Loa...ner?
+107180,413,40,210000,Mike,Car Dealership,She's right here.
+107181,413,41,211000,Homer Simpson,Car Dealership,Wow. This is the kind of car you see in commercials! How much am I paying for this?
+107182,413,42,218000,Mike,Car Dealership,Nothin'.
+107183,413,43,218000,Homer Simpson,Car Dealership,"Hm, it seems like a lot..."
+107184,413,44,220000,Mike,Car Dealership,On the contrary. The loaner car is complimentary. It's standard policy.
+107185,413,45,224000,Homer Simpson,Car Dealership,"Really? You people are idiots! That's the dumb-- What a stu-- I mean, that sounds fair."
+107186,413,46,240000,Mike,Car Dealership,"Okay, so--"
+107187,413,47,244000,Homer Simpson,Car Dealership,Look at you! Idiots!
+107189,413,49,246000,Homer Simpson,Springfield Street,DRIVER OF A LOANER CAR / MUCH BETTER THAN A / DRIVER OF MY NORMAL CAR...
+107190,413,50,256000,Carl Carlson,Springfield Street,"Whoa, fancy wheels. What song does the horn play?"
+107191,413,51,260000,Homer Simpson,Springfield Street,None.
+107192,413,52,261000,Carl Carlson,Springfield Street,Classy.
+107194,413,54,264000,Homer Simpson,Springfield Street,"Hey boy, check out my new car!"
+107196,413,56,271000,Bart Simpson,Springfield Street,Cut it out!
+107197,413,57,272000,Homer Simpson,Springfield Street,Wanna take a ride with your old man?
+107198,413,58,273000,Bart Simpson,Springfield Street,No.
+107199,413,59,273000,Homer Simpson,Springfield Street,C'mon. C'mon. Oh c'mon.
+107200,413,60,278000,Bart Simpson,Springfield Street,Oh fine.
+107203,413,63,285000,Homer Simpson,LOANER CAR,"What's the matter, son?"
+107204,413,64,286000,Bart Simpson,LOANER CAR,There's this new kid at school who everyone thinks is cooler than me.
+107205,413,65,289000,Homer Simpson,LOANER CAR,"Aw, don't give up, boy. I believe in you -- and not just because I have to."
+107206,413,66,294000,Bart Simpson,LOANER CAR,"Really, Dad?"
+107207,413,67,294000,Homer Simpson,LOANER CAR,"Son, I know when we first met, we didn't really hit it off. But since then, I've really come to respect you. And unlike love, respect can't be bought."
+107208,413,68,305000,Bart Simpson,LOANER CAR,You're right. I'm gonna go to school tomorrow and show everyone I'm awesome.
+107209,413,69,308000,Homer Simpson,LOANER CAR,That's my boy! Now let's watch the air conditioner fight the heater!
+107211,413,71,316000,Homer Simpson,LOANER CAR,Now let's add the rear window defogger!
+107212,413,73,321000,Homer Simpson,LOANER CAR,Twister! Get down!
+107215,413,76,327000,Seymour Skinner,Springfield Elementary School,"""Air Skinner"" brings it up. He bounces the ball repeatedly, in a dribbling-type motion."
+107216,413,77,339000,Seymour Skinner,Springfield Elementary School,Foul!
+107217,413,78,340000,Groundskeeper Willie,Springfield Elementary School,"Great, I fouled out. Now can I go?"
+107218,413,79,343000,Seymour Skinner,Springfield Elementary School,"Nope, I grant you five more fouls."
+107220,413,81,361000,Bart Simpson,Springfield Elementary School,"Top this, Donny."
+107221,413,82,368000,Seymour Skinner,Springfield Elementary School,"Thank you, children. Welcome to the unveiling of our new school lunch purchasing plan, known as the Flex Plan."
+107223,413,84,380000,Seymour Skinner,Springfield Elementary School,"Students may spend up to ten points per day in up to four of seven categories. Unused points roll over week to week, but not month to month. Categories not included: meat, dairy, vegetables..."
+107224,413,85,390000,Seymour Skinner,Springfield Elementary School,That's odd.
+107225,413,86,392000,Seymour Skinner,Springfield Elementary School,"But, as a one-time occurrence, no cause for alarm."
+107228,413,89,398000,Seymour Skinner,Springfield Elementary School,It's not funny! These movements are involuntary!
+107230,413,91,405000,Bart Simpson,Springfield Elementary School,This almost makes me want to find out how magnets work.
+107238,413,99,450000,Kids,Auditorium,Bart! Bart! Bart!
+107239,413,100,454000,Seymour Skinner,Auditorium,"Who did this? Until I find out, no one is leaving this mixed-use auditorium."
+107240,413,101,458000,Milhouse Van Houten,Auditorium,But some of us have After-School Care!
+107241,413,102,462000,Seymour Skinner,Auditorium,"When I catch the culprit, and I will, I'm gonna throw this away..."
+107242,413,103,467000,Seymour Skinner,Auditorium,And use this instead!
+107245,413,106,473000,Donny,Auditorium,Principal Skinner?
+107246,413,107,476000,Donny,Auditorium,I did it.
+107249,413,109,479000,Seymour Skinner,Auditorium,"Young man, my office, now!"
+107250,413,110,484000,Bart Simpson,Auditorium,Why did you take the rap for me?
+107251,413,111,486000,Donny,Auditorium,I don't know. I like your style.
+107252,413,112,488000,Bart Simpson,Auditorium,"Well, remember this: Bart Simpson takes care of his friends."
+107253,413,113,492000,Bart Simpson,Auditorium,Come see me when you get out.
+107255,413,115,497000,Seymour Skinner,Springfield Elementary School,"Young man, brace yourself..."
+107256,413,116,500000,Seymour Skinner,Springfield Elementary School,For some congratulations!
+107257,413,117,502000,Seymour Skinner,Springfield Elementary School,We did it! You're in!
+107258,413,118,504000,Gary Chalmers,Springfield Elementary School,"We finally have a man on the inside. We're gonna put Bart Simpson away for a long, long time."
+107259,413,119,511000,Seymour Skinner,Springfield Elementary School,"By law, the most we can give him is a ten day suspension."
+107260,413,120,513000,Gary Chalmers,Springfield Elementary School,"Well, that's long to a kid!"
+107262,413,122,520000,Seymour Skinner,Springfield Elementary School,"All our other attempts to get a spy inside the Bart Simpson operation have failed. Uter, Ralph, Doug the hip guidance counselor... he's never been the same since Bart got through with him."
+107264,413,124,528000,Doug,Alley,Your extra-curriculars are gonna need a lot of work if you wanna get into Vanderbilt.
+107266,413,126,534000,Donny,Alley,I'll get the goods on this Simpson kid. You have my word as a snitch.
+107267,413,127,538000,Seymour Skinner,Alley,"Uh-oh, here he comes. Now this won't be easy, but pretend I'm a jerk."
+107269,413,129,541000,Seymour Skinner,Springfield Elementary School,"Young man, I'm gonna be on you like a numerator on a denominator!"
+107270,413,130,546000,Bart Simpson,Springfield Elementary School,Let's take a ride. I got a place with a view.
+107273,413,133,553000,Donny,Bart's Treehouse,I've never seen blue vines before!
+107274,413,134,555000,Bart Simpson,Bart's Treehouse,They're only sold in Europe. I know a guy.
+107275,413,135,562000,Donny,Bart's Treehouse,"Oh yeah, you can really taste the blue."
+107276,413,136,564000,Bart Simpson,Bart's Treehouse,Check this out.
+107277,413,137,566000,Donny,Bart's Treehouse,Oh that's so cool!
+107278,413,138,570000,Bart Simpson,Bart's Treehouse,Here's a little hair of the dog for tomorrow.
+107279,413,139,572000,Donny,Bart's Treehouse,"Oh, thanks, Bart."
+107281,413,140,574000,Bart Simpson,Bart's Treehouse,"Now that we're buddies, I can let you in on some of the cool scams we run at school."
+107282,413,141,577000,Donny,Bart's Treehouse,"Oh yeah, like what?"
+107283,413,142,579000,Bart Simpson,Bart's Treehouse,"Bathroom passes, doctor's notes..."
+107284,413,143,582000,Nelson Muntz,Bart's Treehouse,We can rig a cootie catcher so you can marry anybody you want.
+107285,413,144,588000,Donny,Bart's Treehouse,"Whoa, Sherri! I'm in."
+107286,413,145,590000,Bart Simpson,Bart's Treehouse,"Milhouse, bust out four of our finest juice boxes."
+107287,413,146,598000,Bart Simpson,Bart's Treehouse,I just wanna say... juice box fight!
+107289,413,148,606000,Lisa Simpson,Bart's Treehouse,Sounds like fun. Can I play?
+107290,413,149,608000,Bart Simpson,Bart's Treehouse,Sure.
+107292,413,151,612000,Lisa Simpson,Simpson Home,How is that fun? Fun is only fun if everyone's having fun.
+107293,413,152,615000,Lisa Simpson,Simpson Home,"Mom, what are you doing?"
+107294,413,153,617000,Marge Simpson,Simpson Home,"Honey, this is how I save money on ketchup and mustard."
+107295,413,154,620000,Lisa Simpson,Simpson Home,Do you do it with relish?
+107296,413,155,621000,Marge Simpson,Simpson Home,"No, I'm kind of embarrassed about it."
+107297,413,156,624000,Homer Simpson,Simpson Home,"Mrs. Simpson, may I take you for an evening drive? Our loaner awaits!"
+107298,413,157,629000,Marge Simpson,Simpson Home,Did you just unlock the car from here?
+107299,413,158,632000,Homer Simpson,Simpson Home,Uh-huh.
+107301,413,160,675000,Homer Simpson,Simpson Home,"Hello, you've reached the snug bug. What do you mean my car's ready?! Well you can keep it, 'cause I'm never giving up this one. Now why don't you enjoy the sounds of my wife and me making sweet, sweet love."
+107303,413,162,692000,Homer Simpson,Car Dealership,"That wasn't us, that was the transmission."
+107305,413,164,713000,Kids,Springfield Elementary School,Box fight! Box fight!
+107306,413,165,714000,Seymour Skinner,Springfield Elementary School,One whistle!
+107307,413,166,717000,Seymour Skinner,Springfield Elementary School,"Two whistles! I'm one whistle away from three whistles, people!"
+107308,413,167,729000,Bart Simpson,Springfield Elementary School,"All right, here's the plan: we go in there, fill the coffee pot with crickets from this bag labeled ""crickets"" and leave."
+107312,413,171,792000,Bart Simpson,Springfield Elementary School,"Skinner's five steps ahead of me! I put a tack on his chair, he's corked his pants! I throw a tomato, he's making salad!"
+107313,413,172,800000,Groundskeeper Willie,Springfield Elementary School,I have some information ye might be interested in. It won't be easy to hear.
+107314,413,173,806000,Bart Simpson,Springfield Elementary School,Because of your stupid accent?
+107315,413,174,807000,Groundskeeper Willie,Springfield Elementary School,Nach-nae. Because of its upsetting nature. Skinner's gotten to someone close to ye. A rat!
+107316,413,175,816000,Bart Simpson,Springfield Elementary School,Who is it?
+107317,413,176,816000,Groundskeeper Willie,Springfield Elementary School,I dunno.
+107318,413,177,817000,Groundskeeper Willie,Springfield Elementary School,But Skinner's goin' to meet the rat right now!
+107319,413,178,823000,Bart Simpson,Springfield Elementary School,"Thanks, Willie!"
+107320,413,179,826000,Groundskeeper Willie,Springfield Elementary School,A child thanked me! I gotta write this in my journal.
+107321,413,180,831000,Groundskeeper Willie,Springfield Elementary School,Dear... diary... today I've...
+107322,413,181,856000,Groundskeeper Willie,Springfield Elementary School,Got 'im.
+107323,413,182,882000,Bart Simpson,Springfield Elementary School,Where am I?
+107324,413,183,883000,School Nurse,Springfield Elementary School,You're in line for a measles shot.
+107326,413,185,886000,School Nurse,Springfield Elementary School,"Okay, now we've made a guide hole for the real needle."
+107329,413,188,891000,Donny,Countryside,"Uhhh, Bart, where we going?"
+107330,413,189,897000,Bart Simpson,Countryside,"Gentlemen, someone I thought I could trust is a rat."
+107332,413,191,903000,Bart Simpson,Countryside,"Now let's see, is it my best friend? My other best friend? Or a kid I just met?"
+107333,413,192,910000,Bart Simpson,Countryside,Donny...
+107334,413,193,912000,Bart Simpson,Countryside,Grab Milhouse's legs. He's the rat!
+107335,413,194,916000,Bart Simpson,Countryside,You grew tired of always being in my shadow.
+107336,413,195,918000,Milhouse Van Houten,Countryside,"No, I like your shadow. It's nice and cool."
+107337,413,196,926000,Bart Simpson,Countryside,"Don't worry, we'll get him out in a couple hours."
+107338,413,197,938000,Cletus Spuckler,Countryside,"Oh my gosh! It's an outhouse, sent from the future."
+107339,413,198,942000,Milhouse Van Houten,Countryside,"Hey, I'm in here."
+107340,413,199,944000,Cletus Spuckler,Countryside,"Be quiet, Robo-potty."
+107341,413,200,946000,Milhouse Van Houten,Countryside,Okay.
+107343,413,202,952000,Bart Simpson,Bart's Treehouse,"Now that we've taken care of our rat problem, Skinner can't stop us. And I've got a prank I've been planning for months. We're gonna egg Skinner's house."
+107344,413,203,959000,Nelson Muntz,Bart's Treehouse,"We've already egged his car, his office and his father's grave. How's this gonna be different?"
+107280,413,204,964000,Bart Simpson,Bart's Treehouse,"Gentlemen, this is an ostrich egg."
+107345,413,205,966000,Donny,Bart's Treehouse,Ahhhhh...
+106145,413,206,966000,Nelson Muntz,Bart's Treehouse,Whoa...
+107346,413,207,968000,Bart Simpson,Bart's Treehouse,"Normally, you can't even buy these. You have to buy the ostrich and wait."
+107347,413,208,971000,Donny,Bart's Treehouse,How much of this is gunk?
+107348,413,209,973000,Bart Simpson,Bart's Treehouse,The whole insides.
+107349,413,210,976000,Nelson Muntz,Bart's Treehouse,"Whoa... to think this came out of some animal's butt. Beautiful, in its way."
+107352,413,213,981000,Nelson Muntz,LOANER CAR,This car is amazing.
+107353,413,214,983000,Lisa Simpson,LOANER CAR,The radio lets me contribute directly to NPR.
+107354,413,215,986000,Terry Gross,LOANER CAR,"This is Terry Gross from NPR, saying ""Thank you""! Now back to our nineteen eighty-seven interview with Senator Alan Cranston."
+107355,413,216,995000,Lisa Simpson,LOANER CAR,"I never dreamed an American car designed in Germany, assembled in Mexico from parts made in Canada, could be so amazing."
+107356,413,217,1003000,Homer Simpson,LOANER CAR,"Yeah, I can't believe all those years I used to drive that old piece of... What the?!"
+107358,413,219,1010000,Homer Simpson,Car Dealership,My old car!
+107359,413,220,1012000,Homer Simpson,Car Dealership,So you're sure this baby'll make it out to the desert?
+107361,413,222,1016000,Homer Simpson,Car Dealership,"Sure! Why, what did ya have in mind?"
+107362,413,223,1018000,Homer Simpson,Car Dealership,"Well, we're gonna start by shootin' her full of holes. And then me and the boys are gonna have a little fun with her."
+107364,413,225,1025000,Homer Simpson,Car Dealership,I'll have you know I love this car as if it was my own child.
+107365,413,226,1032000,Lisa Simpson,Car Dealership,Dad?
+107366,413,227,1034000,Homer Simpson,Car Dealership,"Sorry, Maggie."
+107368,413,229,1040000,Seymour Skinner,Springfield Elementary School,"Say Simpson, would you mind holding one end of this banner while I put it up?"
+107369,413,230,1045000,Bart Simpson,Springfield Elementary School,"My pleasure, sir."
+107371,413,232,1051000,Bart Simpson,Springfield Elementary School,We'll see who's laughing when your house is smeared with ostrich albumen.
+107372,413,233,1065000,Bart Simpson,Springfield Elementary School,Donny's the rat!
+107373,413,234,1068000,Seymour Skinner,Springfield Elementary School,Where do you think you're going?
+107374,413,235,1069000,Bart Simpson,Springfield Elementary School,"Ah get back to your knitting, Seymour."
+107375,413,236,1071000,Seymour Skinner,Springfield Elementary School,"I will, but it's because I want to."
+107377,413,238,1079000,Bart Simpson,Springfield,"So guys, before we hit Skinner's, I want to make a quick stop."
+107380,413,241,1090000,Donny,Storage Warehouse,"Hey Bart, uh, what are we doing here?"
+107381,413,242,1095000,Bart Simpson,Storage Warehouse,"There's been a change of plans. I was gonna tell you, but then I remembered... you're the rat!"
+107382,413,243,1101000,Donny,Storage Warehouse,"No, no, no -- you've got it all wrong!"
+107383,413,244,1103000,Bart Simpson,Storage Warehouse,Skinner's tongue was blue!
+107384,413,245,1105000,Nelson Muntz,Storage Warehouse,Blue! From the vines you gave him!
+107385,413,246,1108000,Bart Simpson,Storage Warehouse,"Why'd you do it, man?"
+107386,413,247,1109000,Donny,Storage Warehouse,"Look, you don't start out wanting to be a rat. Sometimes, it's your only option..."
+107388,413,249,1114000,Donny,Shelbyville Orphanage,Skinner and Chalmers wanted to get someone inside your organization. Someone with no history.
+107389,413,250,1120000,Seymour Skinner,Shelbyville Orphanage,"Too cute, too tall, too Siamese, too Siamese..."
+107390,413,251,1123000,Gary Chalmers,Shelbyville Orphanage,How much for that one?
+107392,413,253,1126000,Donny,Storage Warehouse,"I'm sorry, Bart."
+107393,413,254,1128000,Bart Simpson,Storage Warehouse,You were like a brother to me! We were gonna take woodshop together and make nunchucks. And then take people to our lockers and show them our nunchucks!
+107394,413,255,1136000,Donny,Storage Warehouse,I know! That would've been cool...
+107395,413,256,1140000,Nelson Muntz,Storage Warehouse,Are we gonna fizz this guy or what?
+107396,413,257,1141000,Donny,Storage Warehouse,Fizz me?
+107397,413,258,1142000,Bart Simpson,Storage Warehouse,A funny thing happens when you mix Mentos with Diet Coke...
+107398,413,259,1150000,Nelson Muntz,Storage Warehouse,Now imagine that... times a million!
+107399,413,260,1159000,Bart Simpson,Storage Warehouse,And it's all gonna go down in Skinner's office.
+107400,413,261,1161000,Gary Chalmers,Storage Warehouse,That's all we needed to hear.
+107401,413,262,1165000,Nelson Muntz,Storage Warehouse,Running away rules!
+107402,413,263,1168000,Seymour Skinner,Storage Warehouse,"Sorry to plop, plop on your fizz, fizz."
+107403,413,264,1171000,Bart Simpson,Storage Warehouse,What are you doing here?
+107404,413,265,1174000,Seymour Skinner,Storage Warehouse,"I knew egging my house was just a ploy. You see, the rat who told you about my rat was also a rat."
+107405,413,266,1180000,Groundskeeper Willie,Storage Warehouse,It was rats within rats -- which was also me dinner last night!
+107406,413,267,1185000,Bart Simpson,Storage Warehouse,Willie?! You're on Skinner's side?
+107407,413,268,1187000,Groundskeeper Willie,Storage Warehouse,He gave me somethin' ya never could -- an elementary school diploma.
+107409,413,269,1195000,Gary Chalmers,Storage Warehouse,"Bart, we're going to send you to the toughest juvenile detention center there is."
+107410,413,270,1200000,Seymour Skinner,Storage Warehouse,"And it's all thanks to Donny here, who can happily live the rest of his life knowing he betrayed the one boy who actually cared about him."
+107412,413,272,1228000,Gary Chalmers,Storage Warehouse,Skin-ner!
+107413,413,273,1230000,Gary Chalmers,Storage Warehouse,Skinner?
+107414,413,274,1231000,Seymour Skinner,Storage Warehouse,"I'm all right, sir."
+107415,413,275,1233000,Gary Chalmers,Storage Warehouse,Don't ever scare me like that again.
+107417,413,277,1235000,Bart Simpson,Warehouse Roof,Well... I guess we're even. What are you gonna do now?
+107418,413,278,1239000,Donny,Warehouse Roof,What I always do. Survive.
+107419,413,279,1242000,Donny,Warehouse Roof,"Hey, we should get together some time. You know, to make nunchucks."
+107420,413,280,1247000,Bart Simpson,Warehouse Roof,Sweet.
+107421,413,281,1251000,Ralph Wiggum,Warehouse Roof,The rat symbolizes obviousness!

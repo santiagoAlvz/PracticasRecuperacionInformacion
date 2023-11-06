@@ -1,0 +1,188 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+99862,385,1,37000,Lisa Simpson,KITCHEN,"Bart, what are you doing?"
+99863,385,2,38000,Bart Simpson,KITCHEN,I only eat the clown heads.
+99864,385,3,40000,Marge Simpson,KITCHEN,That's so wasteful.
+99865,385,4,41000,Bart Simpson,KITCHEN,I've always done it. Just like I only eat the eyes off a lobster.
+99866,385,5,46000,Marge Simpson,KITCHEN,"Oh, you should be ashamed! Your father works very hard to put lobsters on our table. Every night, he comes home exhausted, with his voice too hoarse to talk."
+99869,385,8,62000,Homer Simpson,Springfield Nuclear Power Plant,I'm the king of goofing off!
+99870,385,9,67000,Lenny Leonard,Springfield Nuclear Power Plant,Ow! Unnecessary roughness!
+99871,385,10,70000,Carl Carlson,Springfield Nuclear Power Plant,So what? That's legal in Rolo-Polo!
+99872,385,11,72000,Homer Simpson,Springfield Nuclear Power Plant,I thought we were playing Cincinnati Time-Waste.
+99873,385,12,74000,Lenny Leonard,Springfield Nuclear Power Plant,"Oh, in that case..."
+99874,385,13,77000,Homer Simpson,Springfield Nuclear Power Plant,What'd I do?
+99876,385,14,79000,Lenny Leonard,Springfield Nuclear Power Plant,"When you pass the coffee machine you're supposed to yell ""hot pot"" and eat a sugar cube."
+99877,385,15,83000,Carl Carlson,Springfield Nuclear Power Plant,"He's right, Homer. That's a two-minute penalty!"
+99878,385,16,86000,Other Men,Springfield Nuclear Power Plant,"Penalty, penalty, penalty! Penalty, penalty, penalty ..."
+99880,385,18,92000,C. Montgomery Burns,Springfield Nuclear Power Plant,"On your feet, you sniggering Oran-gu-tan!"
+99882,385,20,102000,C. Montgomery Burns,Springfield Nuclear Power Plant,"My fat friend, you are hanging by a very thin thread..."
+99885,385,23,109000,C. Montgomery Burns,BREAK ROOM,"If you want to keep your job, then you better start... BA-BA, BA-BA, BA-BA-BA-BA-BA..."
+99886,385,24,116000,C. Montgomery Burns,BREAK ROOM,"You're thinking about that ice cream truck, aren't you? Well, you can just forget about..."
+99887,385,25,121000,C. Montgomery Burns,BREAK ROOM,"Come and lick me, Big Boy! I said lick me!"
+99888,385,26,130000,Homer Simpson,BREAK ROOM,You're not ice cream... faker!
+99889,385,27,135000,Homer Simpson,BREAK ROOM,Ice cream man! Wait!
+99890,385,28,136000,C. Montgomery Burns,BREAK ROOM,You're fired!
+99891,385,29,137000,C. Montgomery Burns,BREAK ROOM,"As for the rest of you, you're supposed to be a chair-hockey team! All I see is five show-boaters!"
+99892,385,30,144000,C. Montgomery Burns,BREAK ROOM,Now sit down and give me fifty twirls!
+99893,385,31,148000,C. Montgomery Burns,BREAK ROOM,That's more like it.
+99895,385,33,151000,Homer Simpson,Springfield Street,Ice cream man! Ice cream man!
+99896,385,34,155000,Max,Springfield Street,"Homer, there you are! What does my best customer want today?"
+99897,385,35,159000,Homer Simpson,Springfield Street,"One butter-crusted choco-rocket, please."
+99898,385,36,161000,Max,Springfield Street,I wish I had more customers like you. I'm barely scraping by.
+99899,385,37,167000,Homer Simpson,Springfield Street,"Yeah, this economy is tough on everyone. Change a hundred?"
+99900,385,38,170000,Max,Springfield Street,"Sure. That's one-fifty, one-seventy-five, two dollars..."
+99902,385,40,177000,Max,Springfield,...ninety-nine-fifty... ninety-nine-seventy-five...
+99903,385,41,186000,Homer Simpson,Springfield,Nooooo!
+99905,385,43,216000,OLDER WOMAN'S VOICE,Springfield Cemetery,You must be Homer.
+99906,385,44,218000,Homer Simpson,Springfield Cemetery,Max told you about me?
+99908,385,45,220000,Max's Widow,Springfield Cemetery,"Oh, yes! Max loved to talk about his work. How he bored me."
+99909,385,46,228000,Max's Widow,Springfield Cemetery,And now I'm left with nothing but my lover and this worthless truck.
+99910,385,47,234000,Homer Simpson,Springfield Cemetery,"Wait a minute. You don't want the truck, I need a job, you need money, I'm flush with severance pay..."
+99911,385,48,241000,Max's Widow,Springfield Cemetery,You'll buy Max's truck?
+99912,385,49,243000,Homer Simpson,Springfield Cemetery,"Why, doesn't he need it? Oh, right."
+99914,385,51,246000,Homer Simpson,Simpson Home,Remember that crappy ice cream truck I bought?
+99915,385,52,248000,Lisa Simpson,Simpson Home,How can we forget? Mom says now we can't afford to go to the orthodontist.
+99916,385,53,252000,Homer Simpson,Simpson Home,"Well, sink your crooked rotting teeth into this!"
+99918,385,55,275000,Bart Simpson,Simpson Home,"Otto, you totally pimped Dad's ride!"
+99919,385,56,278000,Homer Simpson,Simpson Home,He was following my design.
+99920,385,57,282000,Homer Simpson,Simpson Home,And now to get dressed in a most unusual way:
+99922,385,59,323000,Homer Simpson,BLACK VOID,Butter-brickle!
+99924,385,61,330000,Opal,Simpson Home,"Welcome back! Today we're celebrating women who didn't waste their lives being mommies. Professor Stein, tell us about your book, ""Life Beyond Wife."""
+99925,385,62,341000,Prof. Stein,Simpson Home,"Well Opal, it's about women who want to breastfeed their own dreams and change the poopy diapers of fulfillment."
+99927,385,64,351000,Prof. Stein,Simpson Home,"I call it ""leaving your lega-she."""
+99929,385,66,351000,Opal,Simpson Home,Does this book have any examples?
+99930,385,67,357000,Prof. Stein,Simpson Home,"Yes, eight!"
+99931,385,68,359000,Prof. Stein,Simpson Home,"Take Gail Tucker. She wrote hip-hop lyrics to the beat of her washing machine with an off-center load. Last year, she won all the Grammys."
+99932,385,69,369000,Prof. Stein,Simpson Home,"Or how about Becky Tyson, who invented the pink VCR. Now her husband asks her for money - or as I call it, mon-she."
+99933,385,70,375000,Opal,Simpson Home,"You go, girl!"
+99935,385,72,381000,Marge Simpson,Simpson Home,All those women are so impressive.
+99936,385,73,383000,Marge Simpson,Simpson Home,I've been doing the same thing for the last ten years. And all I have to show for it is a clean floor.
+99937,385,74,393000,Marge Simpson,Simpson Home,My lega-she!
+99757,385,76,398000,Milhouse Van Houten,Springfield Street,"Boy, it's hot."
+99939,385,77,400000,Martin Prince,Springfield Street,"I feel like Icarus, flying too close to Apollo's golden orb! Punch away, Nelson."
+99940,385,78,409000,Nelson Muntz,Springfield Street,It's too hot. I'll get ya later.
+99941,385,79,412000,Martin Prince,Springfield Street,I'll pencil you in for next week.
+99942,385,80,414000,Nelson Muntz,Springfield Street,"Eh, what the hell."
+99943,385,81,430000,Homer Simpson,Springfield Street,You kids like ice cream?
+99944,385,82,433000,Disclaimer,Springfield Street,Product contains neither ice nor cream. May contain trace elements of Mexican cheese. Do not consume.
+99945,385,83,440000,Kids,Springfield Street,Yay! Ice cream! /
+99946,385,84,440000,Ralph Wiggum,Springfield Street,I'm a unitard!
+99947,385,85,446000,Homer Simpson,Springfield Street,"What's the matter, son? Don't you have enough money for ice cream?"
+99948,385,86,449000,Skinny Kid,Springfield Street,"I do, but I'm lactose-intolerant."
+99949,385,87,454000,Homer Simpson,Springfield Street,"Son, I will not stand for intolerance!"
+99950,385,88,456000,Homer Simpson,Springfield Street,You give this delightful frozen treat the same respect you would give any lactose-free food. God bless America!
+99951,385,89,464000,Skinny Kid,Springfield Street,But my doctor says that I...
+99952,385,90,465000,Homer Simpson,Springfield Street,"I said, God bless America!"
+99953,385,91,474000,Skinny Kid,Springfield Street,Call the number on my bracelet.
+99954,385,92,477000,Homer Simpson,Springfield Street,Ooh! Thomeone wearth a brathelet. Who'th your boyfriend? Dr. Osterberg?!
+99956,385,94,488000,Homer Simpson,Simpson Home,"Whoa Marge, for the first time in my life, I'm excited about going to work!"
+99957,385,95,492000,Marge Simpson,Simpson Home,I'm glad someone in this house feels their life has meaning.
+99958,385,96,496000,Homer Simpson,Simpson Home,You're glad? You don't look glad. Are you sure you know what glad means?
+99959,385,97,501000,Marge Simpson,Simpson Home,"I just wish I could do something to be remembered by... something that says ""Marge was here!"" after I'm gone."
+99961,385,99,516000,Homer Simpson,Simpson Home,Love you!
+99962,385,100,519000,Marge Simpson,Simpson Home,"The story of my life. They get the popsicles, I get the sticks."
+99964,385,102,534000,Marge Simpson,Simpson Home,"Look, Maggie, I made another you! Out of sticky orange wood!"
+99966,385,104,542000,Homer Simpson,Simpson Home,"Marge, I... Folk art!? That's my favorite kind of folk medium!"
+99967,385,105,547000,Marge Simpson,Simpson Home,I made it myself.
+99970,385,106,548000,Homer Simpson,Simpson Home,"Marge, you're a genius. You should make sculptures of other people! Like Lenny, or Carl, or the new James Bond. Will America accept a British James Bond? I can't wait to find out!"
+99973,385,109,593000,Kent Brockman,Helicopter,This is Kent Brockman. A high-speed pursuit is taking place on the streets of Springfield!
+99974,385,110,597000,Kent Brockman,Helicopter,"We responded immediately after seeing it on Channels two, four, five, seven and sixty-three."
+99975,385,111,602000,Kent Brockman,Helicopter,"The driver is getting out of his car... he's running to a helipad... he's taking off in a copter... what, here he is next to us!"
+99976,385,112,609000,Snake Jailbird,Helicopter,"Kent, there seems to be a traffic tie-up at the one-oh-one four-oh-five interchange. I recommend taking surface streets. Jailbird away!"
+99977,385,113,619000,Kent Brockman,Helicopter,"Well, there you have it, people-- Sweet Morley Safer -- do I see a telegenic housewife making art out of popsicle sticks? Set this baby down -- I smell soft news!"
+99979,385,115,634000,Kent Brockman,Simpson Backyard,"Ma'am, I'd like to feature you on my award-submitted segment, Kent Brockman's ""Kent-resting People""!"
+99980,385,116,639000,Marge Simpson,Simpson Backyard,Really? You think people would be Kent-rested in me?
+99981,385,117,642000,Kent Brockman,Simpson Backyard,I do.
+99983,385,119,648000,Kent Brockman,Simpson Home,"I'm here with local sculptress Marge Simpson who works in, of all media, popsicle stick! Our viewers want to know two things: why, and how come?"
+99984,385,120,656000,Marge Simpson,Simpson Home,"Why did cavemen paint on walls? Why do you scratch your name on Tupperware? So when you die, something's left behind that says, ""I was here. I mattered. That's my Tupperware."""
+99985,385,121,667000,Kent Brockman,Simpson Home,"Human feelings, expressed by a human!"
+99986,385,122,672000,Kent Brockman,Simpson Home,And here's a local nobody enjoying his likeness. Let's take a sneaky-peeky.
+99987,385,123,677000,Moe Szyslak,Simpson Home,"My God, it's beauty-ful! I-I-I finally see the goodness in myself. C'mere, you."
+99988,385,124,683000,Marge Simpson,Simpson Home,"I'm so glad you like it, Moe."
+99989,385,125,686000,Moe Szyslak,Simpson Home,"That's right, tell me all your little wooden dreams. You're not alone any more. No you ain't."
+99990,385,126,692000,Moe Szyslak,Simpson Home,"Aw, you're shivering, are you cold? Where you goin', Marge?"
+99991,385,127,698000,Homer Simpson,Simpson Home,"Honey, I brought you more sticks."
+99907,385,128,701000,Homer Simpson,Simpson Home,This is the most fun I've ever had giving you wood.
+99993,385,129,704000,Marge Simpson,Simpson Home,"Homie, this sculpting has made me feel so fulfilled. I'm as hopeful and full of life as I was in the years before I met you."
+99994,385,130,712000,Homer Simpson,Simpson Home,It's good to see you smile again. I was lonely being happy all by myself.
+99995,385,131,717000,Marge Simpson,Simpson Home,Well no one's gonna be lonely tonight.
+99996,385,132,723000,Homer Simpson,Simpson Home,Let me just put on some romantic music.
+99998,385,134,732000,Homer Simpson,Simpson Home,"Hey, we got the whole night, baby -- let's slow things down."
+100000,385,136,751000,The Rich Texan,Simpson Home,"Marge, you are one fantastic artist -- and no one knows art like a Texan with too much money!"
+100001,385,137,757000,Marge Simpson,Simpson Home,You're from Texas?
+100002,385,138,758000,The Rich Texan,Simpson Home,"That's right. And I wanna finance a fancy-shmancy art show, starring your wooden wonders. Yee hah!"
+100003,385,139,765000,Marge Simpson,Simpson Home,My own art show?! I'm so happy... do you mind?
+100004,385,140,772000,Marge Simpson,Simpson Home,Yee-hah!
+100005,385,141,775000,The Rich Texan,Simpson Home,I'm excited you're excited!
+100006,385,142,776000,The Rich Texan,Simpson Home,Yee-hah! Yee-hah!
+100007,385,143,779000,The Rich Texan,Simpson Home,"Shoot on the ""yee,"" not the ""hah""!"
+100008,385,144,779000,Krusty the Clown,Simpson Home,"Hey lady, you gotta pay to use my likeness. It's a registered trademark!"
+100010,385,146,791000,Krusty the Clown,Simpson Home,"Hey, I do more than TV. I had a one-man show on Broadway. That's who showed up -- one man! Long story short, I won a Drama Desk Award."
+100011,385,147,802000,Homer Simpson,Simpson Home,"Marge, everything looks wonderful!"
+100012,385,148,806000,Homer Simpson,Simpson Home,"Well, I'm off to pedal my frosty wares!"
+100013,385,149,808000,Marge Simpson,Simpson Home,You can't go to work! I need you here for emotional support -- plus you make a small crowd look huge!
+100014,385,150,815000,Homer Simpson,Simpson Home,"Sweetie, I can't abandon my route even for one day. If those kids discover the link between eating right and feeling good, I am screwed. But I'll be back in time for your show."
+100015,385,151,825000,Marge Simpson,Simpson Home,The show starts at three. You promise you'll be here?
+100016,385,152,827000,Homer Simpson,Simpson Home,"I would never let you down. Our marriage is like soft-serve ice cream. And trust is the hard chocolate shell that keeps it from melting onto our carpet. In cone-clusion, here's the scoop: I love you."
+100018,385,154,852000,Homer Simpson,Simpson Home,"What the hell do you kids want? Oh right, ice cream."
+100020,385,156,862000,Homer Simpson,Springfield Street,Oh my God! It's the opportunity of a lifetime!
+100021,385,157,865000,Homer Simpson,Springfield Street,"Attention, losers: this is your chance to buy your kids some frozen love."
+100022,385,158,870000,Kirk Van Houten,Springfield Street,I'm not gonna fall for such a cheap stunt.
+100023,385,159,873000,Milhouse Van Houten,Springfield Street,Mom would.
+100024,385,160,874000,Kirk Van Houten,Springfield Street,"Hey, give me one of everything! Hey!"
+100025,385,161,885000,Homer Simpson,Springfield Street,"Sorry, I'm all out of ice cream."
+100026,385,162,887000,Rainier Wolfcastle,Springfield Street,Already? It's only thirty-eight seconds to three.
+100027,385,163,890000,Homer Simpson,Springfield Street,Marge's show!
+100029,385,165,899000,Homer Simpson,Homer's Truck,Must jettison excess weight!
+100030,385,166,910000,Homer Simpson,Homer's Truck,"Oh my God, I've only got nine seconds till Marge's show!"
+100032,385,168,914000,Crowd,Simpson Home,Eight... seven...
+100033,385,169,916000,Marge Simpson,Simpson Home,"Homer, where are you?"
+100035,385,171,922000,Homer Simpson,Springfield Street,I'll never make it! Unless...
+100036,385,172,931000,Homer Simpson,Springfield Street,Woo hoo! I'm gonna be on time!
+100042,385,178,958000,Moe Szyslak,Evergreen Terrace,"No, no, no -- save your energy. Eh, eh -- don't try to talk."
+100043,385,179,962000,Lenny Leonard,Evergreen Terrace,I don't know where Carl ends and I begin.
+100044,385,180,964000,Carl Carlson,Evergreen Terrace,"See, statements like that are why people think we're gay."
+100045,385,181,971000,Homer Simpson,Evergreen Terrace,"I made it back for your show, honey..."
+100046,385,182,974000,Marge Simpson,Evergreen Terrace,"Well, Homer, you destroyed my artwork and my dreams. Good job. Very thorough."
+100047,385,183,982000,Homer Simpson,Evergreen Terrace,"Marge, let me explain: I had a chance to make a little more money by exploiting broken families..."
+100048,385,184,987000,Marge Simpson,Evergreen Terrace,"Oh, stop. Just stop. You don't care about anyone else's happiness but your own!"
+100049,385,185,994000,Homer Simpson,Evergreen Terrace,Well excuse me for having enormous flaws that I don't work on!
+100051,385,187,1006000,Homer Simpson,Simpson Home,Marge? Marge?
+100052,385,188,1009000,Homer Simpson,Simpson Home,"Honey, you've been in there all day. You gotta eat something. Why don't you come downstairs and cook dinner? Lasagna would be awesome. Marge?"
+100053,385,189,1027000,Homer Simpson,Simpson Home,"Marge, I wrote you a check for three hundred dollars to pay for all the sculptures I broke. Okay?"
+100054,385,190,1035000,Homer Simpson,Simpson Home,"Oh, I see. You'd prefer a wire transfer. What's your routing number?"
+100055,385,191,1041000,Homer Simpson,Simpson Home,"That's okay, I can get it from the bank, honey. I just need to know your birthday."
+100056,385,192,1051000,Homer Simpson,Simpson Home,"Marge? I have an apology that I hope is better than all the other ones. So please listen carefully. The thing I liked best about being an ice cream man wasn't the free ice cream, or the colorful toppings, or the love I received from obese children. It was giving you those sticks, and watching you smile as you turned them into art."
+100057,385,193,1073000,Homer Simpson,Simpson Home,"If it would win you back, I would gradually eat all the parts of a motorcycle. I hope it doesn't come to that. Could you please just give me a sign that you still love me a little?"
+100058,385,194,1085000,Homer Simpson,Simpson Home,"If you won't talk to me, I'll send in Polaroids to show you how sad I am that I let you down."
+100060,385,196,1107000,Homer Simpson,Bedroom,"I'm laughing in the last one, but it's only 'cause the cat fell down the stairs."
+100062,385,198,1123000,Homer Simpson,Simpson Home,Marge?
+100063,385,199,1123000,Homer Simpson,Simpson Home,Marge?
+100064,385,200,1124000,Bart Simpson,Simpson Home,She's been gone for a while.
+100065,385,201,1126000,Lisa Simpson,Simpson Home,Grampa's been watching us.
+100066,385,202,1127000,Grampa Simpson,Simpson Home,You kids have been real good tonight.
+100068,385,204,1131000,Lisa Simpson,Springfield Street,Mom! Mom!
+100069,385,205,1132000,Homer Simpson,Springfield Street,"Marge, where are you? Did you change your name? Is it Kelly? Kelly!!!"
+100070,385,206,1141000,Lisa Simpson,Springfield Street,Comic Book Guy! Have you seen our Mom?
+100071,385,207,1143000,Comic Book Guy,Springfield Street,"A complete list of things I have seen or not seen is available on my blog. Your mother is on the ""not seen"" list, along with a Star Wars film that was any good since the first one. And even that has been ruined by CGI additions! Bravo, George."
+100072,385,208,1158000,Bart Simpson,Springfield Street,There's Mom!
+100073,385,209,1159000,Homer Simpson,Springfield Street,"Oh my God. She's gonna jump. Marge, don't do it! Give divorce a chance!"
+100074,385,210,1165000,Marge Simpson,Springfield Street,"Homer, I wanna show the world how I feel about you."
+100075,385,211,1168000,Homer Simpson,Springfield Street,The world's not that interested!
+100076,385,212,1170000,Marge Simpson,Springfield Street,"They will be! Ready, bullies?"
+99992,385,213,1174000,Kearney Zzyzwicz,Springfield Street,Ready!
+100077,385,215,1184000,Marge Simpson,Springfield Street,"Homer, you wanted a sign that I still love you, so here it is."
+100078,385,216,1188000,Homer Simpson,Springfield Street,Wow! You made me a sculpture of Magilla Gorilla.
+100079,385,217,1192000,Marge Simpson,Springfield Street,"No, Homer. It's you. My sweet, perfectly imperfect you."
+100080,385,218,1199000,Chief Wiggum,Springfield Street,"Okay boys, on my command, fire."
+100081,385,219,1203000,Lou,Springfield Street,But nobody's done anything wrong.
+100082,385,220,1204000,Chief Wiggum,Springfield Street,"Geez, if everyone was like you, our morgues would be empty."
+100083,385,221,1207000,Marge Simpson,Springfield Street,"Homie, I realized that my most enduring creation is the life I've sculpted with you."
+100084,385,222,1216000,Crowd,Springfield Street,Awww!
+100085,385,223,1216000,Marge Simpson,Springfield Street,Now I know that my lega-she is really a lega-we.
+100086,385,224,1222000,Homer Simpson,Springfield Street,"I just have one question, my darling: what did you do with all the ice cream that was on all those sticks?"
+100087,385,225,1226000,Marge Simpson,Springfield Street,It's in that dumpster.
+100088,385,226,1237000,Marge Simpson,Springfield Street,Not that one.
+100089,385,227,1242000,Tour Guide,Springfield Street,"This statue, subject unknown, is the last remaining example of art before the collapse of the western world."
+100090,385,228,1250000,Tourist,Springfield Street,If only we'd known that iPods would unite and overthrow the very humans they entertained.
+100091,385,229,1256000,Anguished Man,Springfield Street,What do you want from us?
+100092,385,230,1258000,iPod,Springfield Street,Nothing! We just like whipping!

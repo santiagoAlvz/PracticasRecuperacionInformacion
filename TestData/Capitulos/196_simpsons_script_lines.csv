@@ -1,0 +1,261 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+45212,196,1,85000,Edna Krabappel-Flanders,Springfield Elementary School,Now whose calculator can tell me what 7 times 8 is?
+45213,196,2,90000,Milhouse Van Houten,Springfield Elementary School,"Oh, oh, oh... Low battery?"
+45214,196,3,93000,Edna Krabappel-Flanders,Springfield Elementary School,Whatever.
+45215,196,4,96000,Seymour Skinner,Springfield Elementary School,"Attention, children."
+45216,196,5,101000,Seymour Skinner,Springfield Elementary School,"Uh, over here."
+45217,196,6,101000,Seymour Skinner,Springfield Elementary School,"Oh, for the love of... The doorway!"
+45218,196,7,104000,Seymour Skinner,Springfield Elementary School,"We have a very special visitor today. But he's no ordinary visitor. In fact, uh, you might say..."
+45219,196,8,111000,Bart Simpson,Springfield Elementary School,He's a robot. We saw him on the way in.
+45220,196,9,113000,Seymour Skinner,Springfield Elementary School,"Thank you, Bart. All right, come in. They know."
+45221,196,10,116000,Seymour Skinner,Springfield Elementary School,"Kids, this is Robby the Automaton."
+45222,196,11,121000,Robot,Springfield Elementary School,"Greetings, Earth children."
+45223,196,12,125000,Lewis Clark,Springfield Elementary School,Where are you from?
+45224,196,13,125000,Robot,Springfield Elementary School,"Earth. Anyway, have you ever wondered what it feels like to touch a star?"
+45226,196,15,137000,Milhouse Van Houten,Springfield Elementary School,Cool!
+45227,196,16,139000,Robot,Springfield Elementary School,...Or which of the Three Stooges had the heaviest brain?
+45228,196,17,143000,Nelson Muntz,Springfield Elementary School,"Larry, 3.2 kilograms. Fascinating."
+45230,196,19,150000,Robot,Springfield Elementary School,The answers to these and similar questions can be found at the Springfield Knowledgeum -- a hands-on learning environment opening this Saturday!
+45231,196,20,163000,Robot,Springfield Elementary School,"No, kid, don't!"
+45233,196,22,165000,Robot,Springfield Elementary School,"Command link severed. Default setting. ""Crush, kill, destroy."""
+45234,196,23,175000,Seymour Skinner,Springfield Elementary School,"Children, help! He's killing me!"
+45236,196,25,184000,Lisa Simpson,KNOWLEDGEUM,What a whimsical building! Who says science can't be fun?
+45237,196,26,188000,Bart Simpson,KNOWLEDGEUM,Me. I smell a museum.
+45238,196,27,189000,Homer Simpson,KNOWLEDGEUM,"Yeah. Good things don't end with ""eum."" They end with ""mania""... Or ""teria."" Will there be beer?"
+45239,196,28,200000,Troy McClure,KNOWLEDGEUM,"Welcome to the Knowledgeum! I'm Troy McClure. You may remember me from such automated information kiosks as ""Welcome to Springfield Airport"" and ""Where's Nordstrom?"" While you're enjoying our Hall Of Wonders, your car will unfortunately be subject to repeated break-ins..."
+45240,196,29,215000,Homer Simpson,KNOWLEDGEUM,What'd he say? What about my car?
+45241,196,30,217000,Lisa Simpson,KNOWLEDGEUM,Wowww!
+45243,196,32,217000,Marge Simpson,KNOWLEDGEUM,It says the ceiling was donated by the Velcro Company.
+45244,196,33,236000,Marge Simpson,KNOWLEDGEUM,...And the floor was donated by American Superball.
+45245,196,34,239000,Bart Simpson,KNOWLEDGEUM,"Hey, I'm gonna go toss the virtual salad!"
+45246,196,35,242000,Lisa Simpson,KNOWLEDGEUM,I wanna read the giant book!
+45247,196,36,244000,Homer Simpson,KNOWLEDGEUM,I'm gonna try the sex education computer!
+45248,196,37,247000,Marge Simpson,KNOWLEDGEUM,"Come on, Maggie, let's try and find the enormous pendulum."
+45249,196,38,251000,Marge Simpson,KNOWLEDGEUM,Wait there.
+45250,196,39,254000,Professor Jonathan Frink,KNOWLEDGEUM,"Ah, the section now illuminated is the ""floating-point unit,"" one of my personal favorite units."
+45251,196,40,261000,Nerdy Kids,KNOWLEDGEUM,"/ Oh! / Geez! / Oh, yeah! That's real great, uh-huh."
+45253,196,42,266000,Bart Simpson,KNOWLEDGEUM,"Hey, how do you get this thing to play Blackjack?"
+45254,196,43,268000,Professor Jonathan Frink,KNOWLEDGEUM,Stop that! You're hurting it!
+45255,196,44,269000,Bart Simpson,KNOWLEDGEUM,So how's it supposed to work?
+45256,196,45,270000,Professor Jonathan Frink,KNOWLEDGEUM,Well--
+45257,196,46,271000,Bart Simpson,KNOWLEDGEUM,Bo-ring. Am I on the Internet?
+45258,196,47,273000,Professor Jonathan Frink,KNOWLEDGEUM,No. You can only access the...
+45259,196,48,274000,Bart Simpson,KNOWLEDGEUM,Bo-ring. What's that fire for?
+45260,196,49,278000,Database,KNOWLEDGEUM,The hard drive is crashing at an alarming speed.
+45261,196,50,279000,Professor Jonathan Frink,KNOWLEDGEUM,No more pictures!
+45263,196,52,286000,Homer Simpson,SEX-EDUCATION PAVILION,"Ovulate, damn you! Ovulate!"
+45264,196,53,292000,Female Computer,SEX-EDUCATION PAVILION,You are out of sperm.
+45265,196,54,294000,Krusty the Clown,SEX-EDUCATION PAVILION,"Hey, baby. Remember me?"
+45267,196,56,302000,Bart Simpson,KNOWLEDGEUM,Whoa-ho! This whole planet like is one big skate park!
+45268,196,57,313000,Bart Simpson,KNOWLEDGEUM,"Look out, Ralph!"
+45269,196,58,314000,Ralph Wiggum,KNOWLEDGEUM,I found a moon rock in my nose.
+45270,196,59,320000,Bart Simpson,KNOWLEDGEUM,"Houston, we have a booger."
+45271,196,60,326000,Jimbo Jones,KNOWLEDGEUM,"Hey, loser, this planet's for space-studs!"
+45272,196,61,326000,Nelson Muntz,KNOWLEDGEUM,Yeah! Blast off!
+45273,196,62,328000,Ralph Wiggum,KNOWLEDGEUM,I know you. My Daddy took your beer.
+45274,196,63,330000,DOLPH,KNOWLEDGEUM,"Wowww, the baby can talk."
+45275,196,64,333000,Ralph Wiggum,KNOWLEDGEUM,I'm not a baby.
+45276,196,65,335000,Kearney Zzyzwicz,KNOWLEDGEUM,"Tell it to the ear, baby."
+45277,196,66,340000,Bart Simpson,KNOWLEDGEUM,"Good one, guys."
+45278,196,67,341000,Kearney Zzyzwicz,KNOWLEDGEUM,"Simpson, go kiss the virtual ass."
+45279,196,68,347000,Bart Simpson,KNOWLEDGEUM,"Yes, sir."
+45280,196,69,347000,Marge Simpson,KNOWLEDGEUM,You poor little boy.
+45281,196,70,349000,Chief Wiggum,KNOWLEDGEUM,"Ah, he'll be fine. He's always getting himself stuffed into this or that."
+45283,196,72,365000,Marge Simpson,KNOWLEDGEUM,Is that normal?
+45284,196,73,365000,Chief Wiggum,KNOWLEDGEUM,"Yeah, he's just playing ""Wiggle Puppy."" That's a dog he made up who flies by wagging his tail. I tell you, that dog has had some amazing adventures."
+45285,196,74,374000,Marge Simpson,KNOWLEDGEUM,Ralph certainly has a lot of imagination.
+45286,196,75,380000,Chief Wiggum,KNOWLEDGEUM,"Oh, yeah. The kid's incredible. I mean, the special schools are all over him."
+45287,196,76,381000,Marge Simpson,KNOWLEDGEUM,Mmmaybe he needs some real friends.
+45288,196,77,385000,Chief Wiggum,KNOWLEDGEUM,"Sure. We'd all love some real friends, Marge. But what are the odds of that happening?"
+45289,196,78,390000,Marge Simpson,KNOWLEDGEUM,"Hello, Ralph. When I was little, I used to play by myself, too."
+45290,196,79,395000,Ralph Wiggum,KNOWLEDGEUM,Your hair is tall and pretty.
+45291,196,80,398000,Marge Simpson,KNOWLEDGEUM,"Well, thank you, Ralph. You're such a fine young gentleman."
+45292,196,81,402000,Ralph Wiggum,KNOWLEDGEUM,Help! She's touching my special area!
+45293,196,82,406000,Homer Simpson,KNOWLEDGEUM,"Then me and my friend were about to press it, but the man said not to press it. But we pressed it anyway and we ran and we hid in the giant tire. Oh yeah, and my other friend was already there."
+45294,196,83,415000,Marge Simpson,KNOWLEDGEUM,"All right, all right, now. You're over-stimulated. Let's get some beer in you, and then it's right to bed."
+45295,196,84,422000,Homer Simpson,KNOWLEDGEUM,"Woo hoo! Beer, beer, beer!"
+45297,196,86,426000,Bart Simpson,Simpson Home,Firecrackers. Stinkbombs. Maps to teachers' homes.
+45298,196,87,432000,Marge Simpson,Simpson Home,You know who's nice?
+45299,196,88,434000,Bart Simpson,Simpson Home,"No, who?"
+45300,196,89,434000,Marge Simpson,Simpson Home,That Ralph Wiggum boy. He's a real winner.
+45301,196,90,437000,Bart Simpson,Simpson Home,You would know.
+45302,196,91,438000,Marge Simpson,Simpson Home,"Bart, you don't have to go anywhere today. I've got a surprise for you."
+45303,196,92,442000,Bart Simpson,Simpson Home,Whuh?
+45304,196,93,443000,Marge Simpson,Simpson Home,I scheduled a play date.
+45305,196,94,446000,Bart Simpson,Simpson Home,A what? With who?
+45306,196,95,449000,Ralph Wiggum,Simpson Home,"Hi, Bart. We're gonna be friends! I have a finger trap."
+45307,196,96,455000,Bart Simpson,Simpson Home,Whoa! Get him off! Get him off!
+45308,196,97,458000,Ralph Wiggum,Simpson Home,Fighting only makes it tighter.
+45309,196,98,464000,Bart Simpson,Simpson Home,You want me to hang out with Ralph Wiggum?
+45310,196,99,467000,Marge Simpson,Simpson Home,Not hang out. Play date!
+45311,196,100,469000,Bart Simpson,Simpson Home,Stop sayin' that!
+45312,196,101,470000,Marge Simpson,Simpson Home,"Now, why don't you show off your new friend around the neighborhood? You two make an adorable pair."
+45313,196,102,476000,Bart Simpson,Simpson Home,Someone will be right with you.
+45314,196,103,478000,Bart Simpson,Simpson Home,"Mom, school has changed a lot since you were a kid. Popularity is very important now."
+45315,196,104,483000,Marge Simpson,Simpson Home,But...
+45316,196,105,483000,Bart Simpson,Simpson Home,Don't talk. Listen. The social order of elementary school is densely layered. The coolest kids are at the top.
+45317,196,106,492000,Marge Simpson,Simpson Home,"Oh, you mean like the ""A"" students?"
+45318,196,107,492000,Bart Simpson,Simpson Home,"Mom, I don't want to play with Ralph."
+45319,196,108,494000,Marge Simpson,Simpson Home,"He's just a misunderstood little boy who needs a friend. And, if he hangs around with you, well, everyone will think he's cool."
+45321,196,109,504000,Bart Simpson,Simpson Home,"Well, I don't know about that... It might help him a little..."
+45322,196,110,507000,Marge Simpson,Simpson Home,"Okay, great. You kids have fun."
+45323,196,111,510000,Bart Simpson,Simpson Home,"Hey, wait! I, I didn't agree to..."
+45324,196,112,515000,Bart Simpson,Simpson Home,"Mom, I am not..."
+45326,196,114,524000,Ralph Wiggum,Bart's Bedroom,Your toys are fun to touch. Mine are all sticky.
+45327,196,115,527000,Bart Simpson,Bart's Bedroom,"Ralph, I just got through sorting those."
+45328,196,116,530000,Ralph Wiggum,Bart's Bedroom,I dropped my popstickle in your toy chest.
+45329,196,117,536000,Bart Simpson,Bart's Bedroom,"Ralph, would you just --"
+45330,196,118,537000,Ralph Wiggum,Bart's Bedroom,"Look, a rocket ship!"
+45331,196,119,539000,Bart Simpson,Bart's Bedroom,That's not a toy. Hey... Do you know how to play hide and seek?
+45334,196,122,548000,Ralph Wiggum,Simpson Home,Shh. I've been here two hours. And Bart still hasn't finded me.
+45335,196,123,554000,Bart Simpson,Simpson Home,These syrup stains are the worst.
+45336,196,124,556000,Marge Simpson,Simpson Home,"Bart, it's too nice a day to leave Ralph in a closet. You boys should go play outside."
+45337,196,125,561000,Bart Simpson,Simpson Home,But people will see me paired up with a doofus. You have no idea what that's like.
+45338,196,126,568000,Homer Simpson,Simpson Home,Uh-oh.
+45339,196,127,569000,Bart Simpson,Simpson Home,I'm going.
+45341,196,129,571000,Ralph Wiggum,Springfield,"Slow down, Bart. My legs don't know how to be as long as yours."
+45342,196,130,576000,Bart Simpson,Springfield,"Well that is your problem, Ralph. This is how I always walk."
+45343,196,131,582000,Bullies,Springfield,/ Woo! / All right! / Whoa-ho-ho! / Woww-how-how! / Yeah!
+45344,196,132,585000,Jimbo Jones,Springfield,Videotaping this crime spree is the best idea we ever had.
+45345,196,133,591000,Bart Simpson,Springfield,"Quick, Ralph. In the bushes."
+45346,196,134,595000,Bart Simpson,Springfield,"Hi, guys. Hot enough for ya?"
+45347,196,135,596000,Kearney Zzyzwicz,Springfield,Shut up.
+45348,196,136,601000,Bart Simpson,Springfield,That was too close. We gotta stay off the streets.
+45349,196,137,604000,Ralph Wiggum,Springfield,Bushes are nice 'cause they don't have prickers. Unless they do. This one did. Ouch.
+45351,196,139,610000,Ralph Wiggum,Wiggum Home,This is my swing set. This is my sandbox. I'm not allowed to go in the deep end. That's where I saw the leprechaun.
+45352,196,140,617000,Bart Simpson,Wiggum Home,"Right, leprechaun."
+45353,196,141,620000,Ralph Wiggum,Wiggum Home,He told me to burn things.
+45320,196,142,620000,Bart Simpson,Wiggum Home,Uh-huh...
+45354,196,143,620000,Ralph Wiggum,Wiggum Home,You wanna play stuffed animal parade?
+45355,196,144,629000,Bart Simpson,Wiggum Home,"Maybe later. Come on, Ralph -- your Dad's a cop. There must be some cool stuff around here. Bullets, dead body photos, what have you."
+45356,196,145,636000,Ralph Wiggum,Wiggum Home,"He keeps that stuff in his closet, but he says I'm not allowed in there."
+45357,196,146,640000,Bart Simpson,Wiggum Home,Did he say I'm not allowed in there?
+45358,196,147,643000,Ralph Wiggum,Wiggum Home,Yes.
+45359,196,148,645000,Bart Simpson,Wiggum Home,"Well, I'm going in anyway."
+45360,196,149,651000,Bart Simpson,Wiggum Home,"Oh Lord, I thank you for this bounty I'm about to receive..."
+45361,196,150,662000,Bart Simpson,Wiggum Home,"Hmmm. Wow! Dad's been in jail six times. Aw, and Mom's only been in twice."
+45362,196,151,670000,Chief Wiggum,Wiggum Home,"Hello, Sarah? Ralphie? It's me, Chief Wiggum."
+45363,196,152,675000,Bart Simpson,Wiggum Home,We better hide.
+45364,196,153,683000,Bart Simpson,Wiggum Home,"Quick, in here!"
+45365,196,154,683000,Chief Wiggum,Wiggum Home,"Oh. Man, we have got to get an escalator."
+45366,196,155,689000,Chief Wiggum,Wiggum Home,"A 341 in my own bedroom! Okay, Crookie, let's dance."
+45367,196,156,695000,Chief Wiggum,Wiggum Home,"Oh God, my back. Oh! Officer down! Officer down!"
+45368,196,157,703000,Ralph Wiggum,Wiggum Home,"Hi, Daddy."
+45369,196,158,703000,Chief Wiggum,Wiggum Home,"Oh, ow, it's just you. Well, help Daddy up."
+45370,196,159,708000,Chief Wiggum,Wiggum Home,You know you're not supposed to go in there. What is your fascination with my forbidden closet of mystery?
+45371,196,160,715000,Bart Simpson,Wiggum Home,"Sorry, Chief. Uhm, we were just playing."
+45372,196,161,718000,Chief Wiggum,Wiggum Home,"Ralphie, you got a friend? That's fantastic. Here, here, have some riot gear, it's on the house."
+45373,196,162,733000,Chief Wiggum,Wiggum Home,"Ah, that takes me back to the sixties."
+45374,196,163,738000,Bart Simpson,Wiggum Home,What's that weird key for?
+45375,196,164,740000,Ralph Wiggum,Wiggum Home,That's Daddy's magic key. It opens every door in town.
+45376,196,165,746000,Bart Simpson,Wiggum Home,The police master key.
+45377,196,166,748000,Bart Simpson,Wiggum Home,"Oh, Ralph, do you realize what we can do with... Get me a towel."
+45379,196,168,759000,Homer Simpson,Simpson Home,"""Hi, this is Jerry Maguire. Show me the message. Show me the message."""
+45380,196,169,764000,Marge Simpson,Simpson Home,"Nnno, that stinks. Let me try one."
+45381,196,170,768000,Marge Simpson,Simpson Home,"""This is Geraldine, and the devil made me miss your call. So, here come de beep. Here come de beep."""
+45382,196,171,768000,Homer Simpson,Simpson Home,"""Do the message! Da, da, da, dada, dada, da, da. Da, da, da, dada, dada, da, da."""
+45383,196,172,780000,Bart Simpson,Simpson Home,So long -- I'm gonna sleep over at Ralph's.
+45384,196,173,782000,Marge Simpson,Simpson Home,"Oh, see, I knew you'd find something you liked about him."
+45385,196,174,786000,Bart Simpson,Simpson Home,"Ohh, I found something all right."
+45386,196,175,789000,Homer Simpson,Simpson Home,"""Da, da, da, dada, dada, da, da. Da, da, da, dada, dada, da, da. Da, da, da, dada, dada, da, da."" ""After the beep."""
+45388,196,177,794000,Chief Wiggum,Wiggum Home,"Uh, Ralph's a little afraid of the dark, Bart. Is it okay to sleep with a night-light?"
+45389,196,178,804000,Bart Simpson,Wiggum Home,Absolutely.
+45390,196,179,806000,Chief Wiggum,Wiggum Home,"G'night, guys."
+45391,196,180,807000,Ralph Wiggum,Wiggum Home,I'm scared.
+45393,196,182,814000,Announcer,Wiggum Home,"We now return to, ""The Return of the Pink Panther Returns,"" starring Ken Wahl as Inspector Clouseau."
+45394,196,183,825000,Chief Wiggum,Wiggum Home,Ouch. Ouch.
+45396,196,185,835000,Chief Wiggum,Wiggum Home,Son of a... Ouch.
+45398,196,187,852000,Bart Simpson,Toy Store,The world is our toy store.
+45399,196,188,854000,Ralph Wiggum,Toy Store,Toy store! Toy store! Toy store! Weee!
+45400,196,189,857000,Bart Simpson,Toy Store,"Ahh, to be eight again..."
+45401,196,190,858000,Ralph Wiggum,Toy Store,Weeee!
+45402,196,191,858000,Ralph Wiggum,Toy Store,Ahhh!
+45404,196,193,877000,Ralph Wiggum,Springfield Street,I can't believe we ate a whole wedding cake.
+45405,196,194,882000,Bart Simpson,Springfield Street,And an entire pan of funeral fudge.
+45406,196,195,887000,Nelson Muntz,Springfield Street,"Check it out, guys. It's Dork and Dorker."
+45407,196,196,890000,Jimbo Jones,Springfield Street,"What you doin' there, Simpson? Babysittin'?"
+45408,196,197,894000,Ralph Wiggum,Springfield Street,We're on a play date.
+45409,196,198,897000,Bullies,Springfield Street,Ha! Ha! / Isn't that adorable? / The girls are on a play date. / Precious.
+45410,196,199,901000,Bart Simpson,Springfield Street,"Uh, I'll take it from here, Ralph. Umm, we're just hangin', chillin'... little bit of illin'."
+45411,196,200,907000,Nelson Muntz,Springfield Street,"We don't get you, Simpson. Sometimes you seem kinda righteous. But then we see you fraternizing with lamoids."
+45412,196,201,911000,Jimbo Jones,Springfield Street,Which makes you a lamewad.
+45413,196,202,916000,Bart Simpson,Springfield Street,"Oh, yeah? Would a lamewad have the police master key?"
+45414,196,203,920000,Bullies,Springfield Street,"Whoa! / Talk about useful, dude! / Very handy!"
+45415,196,204,923000,Jimbo Jones,Springfield Street,"Hey, maybe you are cool enough to hang out with us."
+45416,196,205,927000,Bart Simpson,Springfield Street,Really? You think so? I don't know what to say. This is all happening so fast.
+45417,196,206,933000,Kearney Zzyzwicz,Springfield Street,Let's use this thing to rob the school.
+45418,196,207,935000,Jimbo Jones,Springfield Street,Let's go to the zoo and tease the dingo.
+45419,196,208,935000,DOLPH,Springfield Street,Let's use it to key some cars.
+45420,196,209,939000,Bart Simpson,Springfield Street,"Those are all moderately cool ideas, but if you really want to walk on the wild side, I know just the place."
+45422,196,211,949000,Bart Simpson,Abandoned Prison,Here she is. The Big House. The Stony Lonesome. The Thug Jug. The Mobster Trap. Penn State. The Old Crook Buck--
+45423,196,212,957000,Nelson Muntz,Abandoned Prison,Shut up! Let's just open the gate.
+45424,196,213,961000,Ralph Wiggum,Abandoned Prison,"I'm scared, Bart. I wanna go home."
+45425,196,214,965000,Bart Simpson,Abandoned Prison,"C'mon, Ralph. Don't embarrass me. It's just an abandoned prison. All the murderers are long dead... and I'm sure their ghosts are probably in hell."
+45427,196,216,976000,Jimbo Jones,Abandoned Prison,"Let's go, Simpson. Ditch the baby."
+45428,196,217,988000,Ralph Wiggum,Abandoned Prison,My key...
+45429,196,218,989000,Bart Simpson,Abandoned Prison,"Sorry, Ralph."
+45430,196,219,991000,Ralph Wiggum,Abandoned Prison,I thought we were friends.
+45431,196,220,994000,Jimbo Jones,Abandoned Prison,"Wait, I missed that. Get him to say it again."
+45432,196,221,1004000,Bart Simpson,Abandoned Prison,"Go on home, Ralph."
+45433,196,222,1005000,Ralph Wiggum,Abandoned Prison,I can't without Daddy's key.
+45434,196,223,1011000,Bart Simpson,Abandoned Prison,"I can't bail on a friend, even if it is Ralph."
+45435,196,224,1014000,Nelson Muntz,Abandoned Prison,"Aw, you wuss."
+45436,196,225,1016000,Bart Simpson,Abandoned Prison,"Hey, give it back!"
+45437,196,226,1020000,Jimbo Jones,Abandoned Prison,"Hey, keep away."
+45438,196,227,1023000,Bart Simpson,Abandoned Prison,"Hey, come on! I thought we were friends."
+45439,196,228,1026000,Nelson Muntz,Abandoned Prison,"Yeah well, I hope the irony's not lost on ya, Simpson."
+45440,196,229,1036000,DOLPH,Abandoned Prison,This sucks. Let's do something else.
+45441,196,230,1038000,Nelson Muntz,Abandoned Prison,I know -- let's go pick some huckleberries.
+45442,196,231,1041000,Bullies,Abandoned Prison,Yeah! / Huckleberries! / All right! / Yeah!
+45443,196,232,1044000,Ralph Wiggum,Abandoned Prison,Daddy's key went in there!
+45444,196,233,1048000,Bart Simpson,Abandoned Prison,"Hey, Ralph. You're braver than you thought."
+45445,196,234,1052000,Bart Simpson,Abandoned Prison,Wait for me!
+45447,196,236,1061000,Bart Simpson,Springfield Prison,Wow! Look at all these toilets. And just inches from your bed. Talk about luxury.
+45448,196,237,1068000,Ralph Wiggum,Springfield Prison,There's the key!
+45449,196,238,1073000,Ralph Wiggum,Springfield Prison,The pointy kitty took it.
+45450,196,239,1084000,Bart Simpson,Springfield Prison,"Danger, eh?"
+45452,196,241,1093000,Bart Simpson,Springfield Prison,"Whoa, momma! The electric chair! Smell that, Ralph? That's the smell of justice."
+45453,196,242,1100000,Ralph Wiggum,Springfield Prison,Smells like hot dogs.
+45454,196,243,1102000,Bart Simpson,Springfield Prison,"Hmm, maybe it still works. Gimme the newlyweds from that cake."
+45455,196,244,1107000,Bart Simpson,Springfield Prison,Stand back!
+45456,196,245,1111000,Bart Simpson,Springfield Prison,What a gyp.
+45457,196,246,1113000,Ralph Wiggum,Springfield Prison,Maybe our key fits in here.
+45458,196,247,1120000,Bart Simpson,Springfield Prison,Till death do you part...
+45459,196,248,1125000,Elderly Night Watchman,Springfield Prison,Somebody down there?
+45460,196,249,1127000,Bart Simpson,Springfield Prison,"Uh-oh, let's get out of here."
+45461,196,250,1132000,Elderly Night Watchman,Springfield Prison,"Why do I always shout first? It just gives them a chance to run away. Well, I'm an idiot."
+45463,196,252,1143000,Bart Simpson,Simpson Home,Got any threes?
+45464,196,253,1144000,Ralph Wiggum,Simpson Home,Go fish!
+45465,196,254,1148000,Bart Simpson,Simpson Home,"Oh. See, here's the problem, Ralph. You have several threes."
+45466,196,255,1150000,Ralph Wiggum,Simpson Home,Go fish!
+45467,196,256,1151000,Bart Simpson,Simpson Home,Why don't we watch cartoons? The Justice League is moving into their new building today.
+45468,196,257,1156000,Kent Brockman,Simpson Home,"Kent Brockman, reporting live from Mayor Quimby's press conference at the abandoned Penitentiary."
+45470,196,259,1163000,Mayor Joe Quimby,Simpson Home,"I have ordered the reopening of this prison to send a message to the criminals of Springfield. If you commit a violent crime in my town, you are going to end up here."
+45471,196,260,1174000,Ralph Wiggum,Simpson Home,"Hey, that's our play chair!"
+45472,196,261,1176000,Mayor Joe Quimby,Simpson Home,"To demonstrate what you're in for, I will now strap myself into this electric chair, which was deactivated over thirty years ago, and I can only assume still is."
+45473,196,262,1187000,Bart Simpson,Simpson Home,Uh-oh. We didn't reset the safety switch.
+45474,196,263,1194000,Ralph Wiggum,Simpson Home,He's gonna smell like hot dogs!
+45475,196,264,1194000,Bart Simpson,Simpson Home,"Operator, get me Morningwood Penitentiary. It's an emergency."
+45477,196,266,1200000,Elderly Night Watchman,Springfield Prison,"Now, Martha, we've been over this and over this. We're too old to start having children. If you're looking for something to do, why don't you start a new twine ball?"
+45479,196,268,1211000,Bart Simpson,Simpson Home,Come on! A man's life is at stake! We need to get a message to the prison!
+45480,196,269,1213000,Bart Simpson,Simpson Home,Think! Think!
+45481,196,270,1216000,Ralph Wiggum,Simpson Home,Lisa's a good thinker.
+45482,196,271,1219000,Bart Simpson,Simpson Home,"That's it! Ralph, you're a genius!"
+45484,196,273,1222000,Mayor Joe Quimby,Morningwood Penitentiary,"Now, as I mime the convulsions of a condemned criminal, I remind my staff not to come to my assistance, no matter how realistic my performance may be."
+45486,196,275,1234000,Bart Simpson,Simpson Home,They're getting ready to throw the switch!
+45487,196,276,1237000,Bart Simpson,Simpson Home,"Come on, Lisa! Hurry!"
+45488,196,277,1239000,Lisa Simpson,Simpson Home,Let's just pray this hits the prison.
+45491,196,280,1248000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Smithers, there's a rocket in my pocket."
+45492,196,281,1251000,Waylon Smithers,Springfield Nuclear Power Plant,"You don't have to tell me, sir."
+45494,196,283,1255000,Mayor Joe Quimby,Simpson Home,Turn off the chair! Turn off the chair!
+45496,196,285,1262000,C. Montgomery Burns,Springfield Nuclear Power Plant,"The electric chair is on, eh? Then the old prison has been getting free electricity for thirty years. I'll put a stop to that."
+45499,196,288,1280000,Chief Wiggum,Springfield Prison,Wow! That was really entertaining! How'd you make that smoke?
+45502,196,291,1288000,Bart Simpson,Simpson Home,"Way to go, Ralph!"
+45503,196,292,1290000,Lisa Simpson,Simpson Home,Ralph? But the rocket was my idea.
+45504,196,293,1292000,Bart Simpson,Simpson Home,But asking you was Ralph's idea.
+45505,196,294,1294000,Homer Simpson,Simpson Home,"You're the man, Ralph!"
+45506,196,295,1296000,Lisa Simpson,Simpson Home,"But surely, I deserve some credit for..."
+45507,196,296,1299000,Bart Simpson,Simpson Home,Ralph! Ralph! Ralph! Ralph!
+45508,196,297,1300000,Bart Simpson,Simpson Home,"Aw, let him have this one, Lis. After all, it's Ralph."
+45509,196,298,1304000,Lisa Simpson,Simpson Home,Ralph! Ralph! Ralph! Ralph!
+45510,196,299,1307000,Leprechaun,Simpson Home,"You've done grand, laddie. Now you know what you have to do. Burn the house down. Burn them all."

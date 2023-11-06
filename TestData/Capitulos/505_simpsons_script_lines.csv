@@ -1,0 +1,176 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+131015,505,2,0,Bart Simpson,Simpson Home,"Sorry kid, but there comes a day when that just doesn't do anything anymore."
+131017,505,4,0,Announcer,Simpson Home,Stuck in a rut?
+131019,505,6,0,Announcer,Simpson Home,Ready for a change?
+131025,505,12,0,Announcer,CRUISE SHIP,We built heaven and made it float!
+131026,505,13,0,Announcer,CRUISE SHIP,"Royalty Cruises -- one week away from the everyday! Visuals of commercial, if anything, underplays the thrill of actual cruise experience."
+131027,505,14,0,Bart Simpson,CRUISE SHIP,"Want, want, want, want, want, want, want, want, want!"
+131028,505,15,0,Bart Simpson,CRUISE SHIP,WANT!
+131030,505,17,0,Bart Simpson,Simpson Home,"Mom, Dad, do you know there's a boat out there where nothing sucks? It's called Royalty Cruises and Royalty Cruise specialists are standing by now!"
+131031,505,18,0,Marge Simpson,Simpson Home,"I'm sorry, sweetie. Maybe we could afford a vacation if some big shot didn't pick up the tab for his buddies at ""Mr. Steak."""
+131032,505,19,0,Homer Simpson,Simpson Home,"Again with ""Mr. Steak!"" Do you know why I go to Mr. Steak? Because at Mr. Steak they don't get mad at me for spending a lot of money at Mr. Steak!"
+131033,505,20,0,Marge Simpson,Simpson Home,Well of course they don't.
+131034,505,21,0,Homer Simpson,Simpson Home,Why don't you talk to Mrs. Steak?
+131035,505,22,0,Marge Simpson,Simpson Home,There is no Mrs. Steak. Who could stay married to such a man.
+131036,505,23,0,Bart Simpson,Simpson Home,"Okay... maybe I can pay for the cruise. Let's see how much it costs for a cabin on a low deck, no porthole, group Z lifeboat access... It's still a ton of money."
+131038,505,24,0,Lisa Simpson,Simpson Home,"Face it, we're just kids. We can't afford stuff with zeroes in the prices. All we have in the world are the things our parents give us."
+131039,505,25,0,Homer Simpson,Simpson Home,Bart! There's a really mean squirrel in the back yard. I need you to dare me to fight him!
+131040,505,26,0,Homer Simpson,Simpson Home,Bart's been raptured! And his crap's been craptured!
+131041,505,27,0,Milhouse Van Houten,Simpson Home,Why do you want a box of Bart's baby teeth?
+131042,505,28,0,Moe Szyslak,Simpson Home,"Doctor says I need more calcium, and I ain't ""Tums rich."""
+131044,505,30,0,Bart Simpson,Simpson Home,"I sold all my stuff, and it's still not enough money for the cruise."
+131045,505,31,0,Marge Simpson,Simpson Home,"Just try to enjoy your dinner, sweetie."
+131046,505,32,0,Bart Simpson,Simpson Home,"I can't, I sold my ""dinner futures."""
+131047,505,33,0,Homer Simpson,Simpson Home,"Nice doin' business with you, boy."
+131048,505,34,0,Marge Simpson,Simpson Home,Homer!
+131049,505,35,0,Bart Simpson,Simpson Home,It's okay. I don't have much of an appetite tonight. I'm going to floor.
+131050,505,36,0,Bart Simpson,Simpson Home,Mooooom! Daaaaaad!
+131051,505,37,0,Bart Simpson,Simpson Home,I woke up and the money jar was full! That means the devil accepted my bargain. Now to uphold my end of the deal!
+131052,505,38,0,Bart Simpson,Simpson Home,Snowball II!
+131053,505,39,0,Marge Simpson,Simpson Home,"No. We saw how much this cruise means to you, so we all sold something special. And we made just enough for an economy cabin!"
+131054,505,40,0,Lisa Simpson,Simpson Home,"I sold a couple of my rare jazz records. After a while they all start to sound the same. Still love the genre, of course. Not even close to getting sick of it."
+131055,505,41,0,Marge Simpson,Simpson Home,And I sold our good china.
+131056,505,42,0,Bart Simpson,Simpson Home,Really?! But that's been in your family for generations...
+131057,505,43,0,Marge Simpson,Simpson Home,"Yeah... actually, my mom stole it from a woman she cleaned for. It took her years to get the whole set."
+131058,505,44,0,Lisa Simpson,Simpson Home,"And Dad donated something, too."
+131059,505,45,0,Homer Simpson,Simpson Home,What happened to my mini-pool table? I was training to be a mini-pool hustler.
+131060,505,46,0,Marge Simpson,Simpson Home,We sold it to pay for a family cruise!
+131061,505,47,0,Homer Simpson,Simpson Home,I never even got to realize this jacket was too small.
+131062,505,48,0,Bart Simpson,Simpson Home,"It's weird to hear myself saying this, but... I love you guys. This is gonna be the best vacation ever!"
+131064,505,49,0,Homer Simpson,Simpson Home,"Yeah, for you kids maybe. For dads, a family vacation is a twenty-four-hour-a-day babysitting job! ""Are you wearing enough sun block?"" ""Is that splashing or drowning?"""
+131065,505,50,0,Homer Simpson,Simpson Home,Why does every sand castle require my participation?
+131066,505,51,0,Homer Simpson,Simpson Home,Then a kid disappears and it's total panic until you find him at the swim-up bar...
+131068,505,53,0,Homer Simpson,Highway,...eating a thirty-dollar cheeseburger! Which he drops in the water!
+131070,505,55,0,Homer Simpson,PORT,And here's the worst part: I never get any time alone with my wife because we're all sleeping in the same room!
+131071,505,56,0,Bart Simpson,PORT,"Look, that's our ship!"
+131073,505,58,0,Check-in Agent,CRUISE CHECK-IN AREA,"Oh, I'm sorry, sir, but your cruise is over-booked."
+131074,505,59,0,Bart Simpson,CRUISE CHECK-IN AREA,What?!
+131075,505,60,0,Bart Simpson,CRUISE CHECK-IN AREA,I can offer you a cabin on our sugar-free fitness cruise...
+131076,505,61,0,Tough Announcer,CRUISE CHECK-IN AREA,Welcome to eight days and seven nights of pushups and kale!
+131078,505,63,0,Lisa Simpson,CRUISE CHECK-IN AREA,"Well, well, Mr. Never-Wrong was right again -- family vacations always suck. I called it. Called. It."
+131079,505,64,0,Marge Simpson,CRUISE CHECK-IN AREA,"Homer! This is bad for you, too!"
+131080,505,65,0,Homer Simpson,CRUISE CHECK-IN AREA,WORTH IT TO BE RI-IGHT! WORTH IT TO BE RI-IGHT!
+131082,505,67,0,Check-in Agent,CRUISE CHECK-IN AREA,Wait a minute!
+131083,505,68,0,Check-in Agent,CRUISE CHECK-IN AREA,"I can get you back on your original ship, but in a different cabin."
+131085,505,70,0,Bart Simpson,CRUISE SHIP,Upgrade!
+131087,505,72,0,Steward,CRUISE SHIP,"I'm sorry, there's been a mistake. This isn't your cabin."
+131089,505,74,0,Bart Simpson,CRUISE SHIP,Double upgrade!
+131091,505,76,0,Bart Simpson,CRUISE SHIP,I knew it. It was all a dream.
+131092,505,77,0,Marge Simpson,CRUISE SHIP,"No, honey. You just passed out when you saw the private bedroom in our triple upgrade!"
+131093,505,78,0,Bart Simpson,CRUISE SHIP,I actually did it -- a perfect vacation!
+131096,505,81,0,Marge Simpson,CRUISE SHIP,You'll never guess how many bath towels they gave us... enough!
+131037,505,82,0,Bart Simpson,CRUISE SHIP,And there's a DVD library of movies that haven't been released yet!
+131097,505,83,0,Rowan Priddis,CRUISE SHIP,"Greetings cruisers! I'm your cruise director, Rowan Priddis, and welcome aboard the Royalty Valhalla, where the only rule is ""Always Have Fun!"""
+131098,505,84,0,Rowan Priddis,CRUISE SHIP,"Your every need will be catered to, from our toddler's club, to ""Condolences,"" our award-winning luxury morgue."
+131099,505,85,0,Rowan Priddis,CRUISE SHIP,"Your enjoyment pays my salary, so in a sense, each of you is my boss...and as my boss...I'd like to ask you for a week of vacation."
+131100,505,86,0,Rowan Priddis,CRUISE SHIP,A week I will spend here on this cruise...performing my normal duties as cruise director...that's how much I love my job.
+131101,505,87,0,Rowan Priddis,CRUISE SHIP,Bon voyage!
+131102,505,88,0,Bart Simpson,CRUISE SHIP,"Whoa, a ""fun schedule!"" There's so much to do! ""Laser-Tag"", ""Waterslide Bobsled"" Oh! ""Ice Cream Snowball Fight"" starts in five minutes!"
+131103,505,89,0,Marge Simpson,CRUISE SHIP,Homie... we actually have the cabin all to ourselves.
+131104,505,90,0,Homer Simpson,CRUISE SHIP,Sex on a family vacation? I never thought such a thing was possible!
+131105,505,91,0,Homer Simpson,CRUISE SHIP,And the ocean'll do all of the work!
+131106,505,92,0,Marge Simpson,CRUISE SHIP,Woo-woo-woo-woo!
+131107,505,93,0,Homer Simpson,CRUISE SHIP,"Ocean sex rules! Go to Hell, land sex!"
+131108,505,94,0,Lisa Simpson,CRUISE SHIP,Kidzone... Let me guess: a broken foosball table and a game of Clue missing its candlestick.
+131109,505,95,0,Kidzone Rep,CRUISE SHIP,"Lisa Simpson? Our KidZone pre-screeners have placed you with our most sophisticated children... ""KidZone: Elite""."
+131111,505,97,0,Caribbean Boy,KidZone,Help me study the effects of rising ocean acidity.
+131112,505,98,0,Singaporean Girl,KidZone,"No, help me tag and release seabirds."
+131113,505,99,0,Lisa Simpson,KidZone,It's so diverse! I've died and gone to a PBS kids show!
+131115,505,101,0,Lisa Simpson,KidZone,Two!?!!!
+131117,505,103,0,Bart Simpson,CRUISE SHIP,"Alright fun schedule, you're about to get did!"
+131118,505,104,0,Lisa Simpson,CRUISE SHIP,Two diplomats' sons are in love with me. Who will I choose: Ghana or Portugal?
+131119,505,105,0,Homer Simpson,CRUISE SHIP,"Boy, thanks to you, we're having fun -- ""before you were born"" fun."
+131120,505,106,0,Bart Simpson,CRUISE SHIP,Where did the ship stop again?
+131121,505,107,0,Homer Simpson,CRUISE SHIP,"I'unno... Lotta barefoot kids kicking soccer balls, shell necklaces... they really hid the poverty nicely."
+131122,505,108,0,Marge Simpson,CRUISE SHIP,"Any place is fun if you're there with ""Super Lips."""
+131063,505,109,0,Homer Simpson,CRUISE SHIP,"Oh, Marge... your names..."
+131123,505,110,0,Bart Simpson,CRUISE SHIP,I'm just glad everyone is having the best week of their lives.
+131124,505,111,0,Rowan Priddis,CRUISE SHIP,"Whenever we reach the halfway point of our voyage, I like to take a moment to reflect. Hit it, ""Gary Ocean and the Motion!"""
+131125,505,112,0,Rowan Priddis,CRUISE SHIP,"ENJOY IT WHILE YOU CAN / ICE-SCULPTURES, CONGA LINES, AND WORKING ON YOUR TAN! / ENJOY IT WHILE YOU'RE HERE / ONE WEEK OF GLITZ AND GLAM INSTEAD OF PAIN AND FEAR!"
+131126,505,113,0,Rowan Priddis,CRUISE SHIP,"IN JUST A FEW DAYS TIME / THIS BOAT PULLS IN TO DOCK / AND WHEN IT DOES, YOU LOVELY PEOPLE / MAY BE IN FOR A SHOCK /"
+131127,505,114,0,Rowan Priddis,CRUISE SHIP,"HERE YOU'VE MADE EXCITING FRIENDS / BACK HOME YOU'LL ALL LOSE TOUCH / HERE HAWAIIAN SHIRTS ARE COOL / BACK HOME, WELL NOT SO MUCH / BACK HOME YOU'LL BE TOO TIRED / FOR MAKING MAGIC IN THE SACK / SO EAT BUFFET, AND PLAY AND PRAY, THERE'S SOME DELAY ON OUR WAY BACK /"
+131128,505,115,0,Rowan Priddis,CRUISE SHIP,ENJOY IT WHILE YOU CAN / HERE AT SEA WE DRINK AND FROLIC / BACK HOME THAT'S CALLED ALCOHOLIC / YOUR FUTURE'S UP BUT PARABOLIC / ENJOY IT WHILE YOU CAN!!!
+131129,505,116,0,Bart Simpson,CRUISE SHIP,"The song's right! No matter how much fun I cram into this cruise...it'll only last a week. Then it's back to Mom and Dad fighting, Lisa moping, homework, bullies, and a lunchbag sandwich soggy with the sweat of a juice-box!"
+131130,505,117,0,Bart Simpson,CRUISE SHIP,"After this cruise, for the rest of my life, it's all downhill..."
+131131,505,118,0,80-Year-Old Bart,CRUISE SHIP,Only good week of my life...
+131132,505,119,0,Elderly Nelson,CRUISE SHIP,Haw-haw!
+131133,505,120,0,Bart Simpson,CRUISE SHIP,Why can't vacation last forever?!! I've got to do something.
+131134,505,121,0,Skeet Shooter,CRUISE SHIP,Sorry.
+131135,505,122,0,Skeet Shooter,CRUISE SHIP,"There's something I see that's even more beautiful than Ganymede, Lisa."
+131136,505,123,0,Skeet Shooter,CRUISE SHIP,I... Oh...
+131137,505,124,0,Skeet Shooter,CRUISE SHIP,"That's right, I.O. But no moon of Jupiter is as beautiful as you."
+131139,505,126,0,Marge Simpson,CRUISE SHIP,Purple!
+131140,505,127,0,General,CRUISE SHIP,This is General William Sullivan with an emergency message. I am speaking to you from a CDC clean zone
+131141,505,128,0,General,CRUISE SHIP,Outbreak of the deadly Pandora virus is spreading rapidly... unprecedented threat requires a worldwide quarantine... all ships must remain at sea until further... humanity must endure!
+131142,505,129,0,Passengers,CRUISE SHIP,A virus? / We're stuck on the ship? / What should we do?
+131144,505,131,0,Bart Simpson,SHIP'S COMMUNICATION ROOM,They're buyin' it. They're buyin' it!
+131145,505,132,0,Bart Simpson,SHIP'S COMMUNICATION ROOM,"""Chillingly plausible"" indeed, Joe Morgenstern of the Wall Street Journal."
+131146,505,133,0,Bart Simpson,SHIP'S COMMUNICATION ROOM,Now to make sure no one can call home to check... with a little help from the make-your-own-sundae bar.
+131149,505,136,0,Rowan Priddis,CRUISE SHIP,"Our attempts to contact the mainland have met with nothing but static. It appears we have no choice -- to avoid the virus, we must remain at sea... indefinitely."
+131151,505,138,0,Passengers,CRUISE SHIP,Oh no! We're stuck here!
+131152,505,139,0,Bart Simpson,CRUISE SHIP,Woo-hoo! Vacation forever!!!!!
+131153,505,140,0,Rowan Priddis,CRUISE SHIP,"Good morning, everyone, as we greet a sunny Day Twelve ""After Virus"". While the world deals with their pandemic, we're having a ""fundemic"" under the capable hands of our Norwegian Captain Svalbard."
+131154,505,141,0,Captain Svalbard,CRUISE SHIP,I always knew mankind's hubris would doom us all.
+131155,505,142,0,Norwegian Ensign,CRUISE SHIP,Ja. He spoke of it often.
+131156,505,143,0,Rowan Priddis,CRUISE SHIP,"Once we reach our exciting and hopefully virus-free destination, romantic Antarctica, our activities will include building shelter, hunting for food and starting civilization anew."
+131157,505,144,0,Rowan Priddis,CRUISE SHIP,"While supplies may be running a little low, not to worry as today's delicious buffet features fresh seagull and hull-scraped barnacles."
+131158,505,145,0,Rowan Priddis,CRUISE SHIP,In the Chuckles Comedy Club we have Joey Scazzazone with his no-longer-observational take on our pre-Virus lives.
+131159,505,146,0,Joey Scazzazone,CRUISE SHIP,"Hey, so what's the deal with how many Starbucks there used to be, huh? I don't know why that bothered me so much... hug your kids..."
+131160,505,147,0,Rowan Priddis,CRUISE SHIP,"Need a break? Then don't check out the Sensations Luxury Spa, which is now the stronghold of charismatic cult leader Dave the Lifeguard."
+131161,505,148,0,Rowan Priddis,CRUISE SHIP,Mankind was warned not to run near the pool. Mankind did not listen. The Virus is his reward.
+131163,505,150,0,Rowan Priddis,CRUISE SHIP,"So remember, rule number one is ""Always Have Fun""... because fun is the only thing that will keep us alive! Fun!"
+131164,505,151,0,Homer Simpson,CRUISE SHIP,"Worthless, worthless, worthless..."
+131167,505,152,0,Bart Simpson,CRUISE SHIP,"Hey guys! Can you believe how awesome this is? If it wasn't for this virus thing, we'd all be back at our old sucky lives -- instead you're here, where you can be lovey-dovey all the time! Come on, kiss! Kiss!"
+131168,505,153,0,Marge Simpson,CRUISE SHIP,"Bart, we're too worried to enjoy each other's mouths."
+131169,505,154,0,Homer Simpson,CRUISE SHIP,"Yeah, and the customer service on this cruise has really gone downhill."
+131170,505,155,0,Filipino Steward,CRUISE SHIP,"Drop dead, fat ass!"
+131171,505,156,0,Marge Simpson,CRUISE SHIP,"Last week that steward brought me extra shampoo... he called me ""lovely lady."""
+131173,505,158,0,Bart Simpson,KidZone,"Hey, Lis! At least you nerds are still geekin' it up. What could be sweeter than a vacation that never ends?"
+131174,505,159,0,Lisa Simpson,KidZone,Sweet? Sweet?! The passengers on this ship could be the last people on earth!
+131175,505,160,0,Lisa Simpson,KidZone,"Like monks during the dark ages, it's up to the KidZone: Elite to make a record of human culture."
+131176,505,161,0,Lisa Simpson,KidZone,This group is adapting children's classics for the stage to entertain generations of survivors.
+131177,505,162,0,Wheelchair Boy,KidZone,"Erik, we must work with the humans!"
+131178,505,163,0,Caribbean Boy,KidZone,"You are so naïve, Charles. We should rule them as conquerors!"
+131179,505,164,0,Bart Simpson,KidZone,Can't anybody enjoy their forever vacation!?
+131181,505,166,0,Bart Simpson,CRUISE SHIP,"Check it out: the gallery was gonna throw these paintings overboard, like they were worthless garbage?"
+131182,505,167,0,Marge Simpson,CRUISE SHIP,"Bart, glad you're here. We're all gonna watch a movie together."
+131183,505,168,0,Bart Simpson,CRUISE SHIP,"Yeah, a movie! It is about time you guys started havin' some fun!"
+131185,505,170,0,General,WAR ROOM,Humanity must endure!
+131186,505,171,0,Aide,WAR ROOM,"General, it's worse than we thought... The virus is getting bigger!"
+131187,505,172,0,Lisa Simpson,WAR ROOM,"Bart, how could you?"
+131188,505,173,0,Bart Simpson,WAR ROOM,Uhhhhh... gotta go!
+131189,505,174,0,Homer Simpson,WAR ROOM,"Man, I kicked butt in the gladiator arena today! I won the last package of hot dogs on the ship! I got robbed by marauders on the way home."
+131190,505,175,0,Marge Simpson,WAR ROOM,There is no virus! Bart faked the whole thing with a DVD! A direct-to-video DVD!
+131193,505,177,0,Rowan Priddis,CRUISE SHIP,You stand accused of letting down your team during music trivia. Your fun-ishment: eight hours in the penal conga line!
+131194,505,178,0,Marge Simpson,CRUISE SHIP,"Excuse me, Cruise Director Priddis. My son has something to tell you."
+131195,505,179,0,Rowan Priddis,CRUISE SHIP,"Speak passenger, son of passenger."
+131196,505,180,0,Bart Simpson,CRUISE SHIP,"It was all a hoax, there's no virus."
+131198,505,182,0,Dave the Lifeguard,CRUISE SHIP,But the warning from the General!
+131199,505,183,0,Bart Simpson,CRUISE SHIP,That was just Treat Williams in a virus movie.
+131200,505,184,0,Treat Williams,CRUISE SHIP,"You know, I thought that General looked familiar. What? I'm in a lot of movies!"
+131202,505,186,0,Portuguese Boy,CRUISE SHIP,I take back everything I said to you that night in the dolphin lab!
+131203,505,187,0,Bart Simpson,CRUISE SHIP,"All that happened is we got a little extra vacation, is that so bad!?"
+131204,505,188,0,Cruiser,CRUISE SHIP,I think I ate people meat!
+131206,505,190,0,Marge Simpson,CRUISE SHIP,"I know my son did a terrible thing. But there's a chapel on this ship, and in that chapel there's a book, and it says, ""Judge not, lest ye--"
+131209,505,193,0,Rowan Priddis,Antarctica,"After this I'll be lucky to get work on a clothing-optional, Jimmy Buffett cruise!"
+131210,505,194,0,Homer Simpson,Antarctica,What about the duty-free stuff we bought?
+131211,505,195,0,Rowan Priddis,Antarctica,Never Have Fun!
+131212,505,196,0,Homer Simpson,Antarctica,My booze and cologne!
+131213,505,197,0,Bart Simpson,Antarctica,"That's fair. Sorry. I deserve it. Ow, that one really hurt!"
+131214,505,198,0,Marge Simpson,Antarctica,"Sorry sweetie, I just needed to get that out of my system."
+131215,505,199,0,Lisa Simpson,Antarctica,This stupid prank is the most selfish thing you've ever done!
+131216,505,200,0,Bart Simpson,Antarctica,"I wasn't being selfish, I did it for you guys, too!"
+131217,505,201,0,Bart Simpson,Antarctica,"Lisa, you made friends with kids just like you! Mom and Dad, you were more happy and in love than I ever saw you!"
+131218,505,202,0,Bart Simpson,Antarctica,It was the best week of all of our lives... and I wanted it to last forever.
+131220,505,204,0,Homer Simpson,Antarctica,Choke on my numb blue hands!
+131221,505,205,0,Lisa Simpson,Antarctica,"Hey, up here! You've gotta see this!"
+131222,505,206,0,Marge Simpson,Antarctica,Whoa. /
+131192,505,207,0,Lisa Simpson,Antarctica,"From egg to baby to grownup, we can see them living their entire penguin lives from up here!"
+131165,505,208,0,Bart Simpson,Antarctica,What a load of crap!
+131223,505,209,0,Bart Simpson,Antarctica,"They spend all their time trying to raise a baby, and why? So it can grow up and do the same dumb thing on and on forever!"
+131224,505,210,0,Lisa Simpson,Antarctica,The penguin's life isn't all bad. Those ones are having a blast!
+131225,505,211,0,Bart Simpson,Antarctica,But the slide's just like our cruise! A short awesome thing that just shows you how boring the rest of your life is!
+131226,505,212,0,Lisa Simpson,Antarctica,"Well sure life is full of pain and drudgery, but the trick is to enjoy the few perfect experiences we're given in the moment."
+131227,505,213,0,Homer Simpson,Antarctica,"Yeah stupid, stop thinking about fun and have it!"
+131229,505,215,0,Homer Simpson,Antarctica,"Hey, wait for me!"
+131232,505,218,0,80-Year-Old Bart,Springfield Retirement Castle,What a great ride.

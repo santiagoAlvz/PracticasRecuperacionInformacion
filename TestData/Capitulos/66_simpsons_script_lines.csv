@@ -1,0 +1,254 @@
+,episode_id,number,timestamp_in_ms,raw_character_text,raw_location_text,spoken_words
+9879,66,1,83000,Marge Simpson,Simpson Home,"Resident... occupant... hmm, free sample of ""Lemon Time""..."
+9880,66,2,87000,Homer Simpson,Simpson Home,"Oooh, give it here."
+9881,66,3,90000,Marge Simpson,Simpson Home,"Homer, that's dish washing liquid!"
+9882,66,4,93000,Homer Simpson,Simpson Home,"Yeah, but what're ya gonna do?"
+9883,66,5,96000,Marge Simpson,Simpson Home,Oooh! They're having a retirement party for someone at the plant.
+9884,66,6,100000,Homer Simpson,Simpson Home,I wish I could retire.
+9885,66,7,102000,Homer Simpson,Simpson Home,"Boy, that'd be sweet."
+9886,66,8,106000,Ned Flanders,Simpson Home,"Howdy-do, neighbor! Good pipe weather. Thought I'd fire up the briar."
+9887,66,9,110000,Homer Simpson,Simpson Home,Can't talk -- busy.
+9888,66,10,112000,Ned Flanders,Simpson Home,Okely-dokely-do.
+9889,66,11,113000,Marge Simpson,Simpson Home,Did you notice how slanted he looked?
+9890,66,12,116000,Homer Simpson,Simpson Home,All part of God's great plan.
+9891,66,13,124000,Marge Simpson,Simpson Home,I think one side of our house is sinking.
+9892,66,14,133000,Nelson Muntz,Simpson Home,Haw haw!
+9893,66,15,134000,Homer Simpson,Simpson Home,The half-assed approach to foundation repair.
+9894,66,16,134000,MCCLURE,Simpson Home,"Hello, I'm Troy McClure. You might remember me from such instructional videos as ""Mothballing Your Battleship"" and ""Dig Your Own Grave - and Save!"" Now over the next six hours I'll be taking you through the do's and do not do's of foundation repair. Ready?"
+9895,66,17,156000,Homer Simpson,Simpson Home,Ready!
+9896,66,18,158000,MCCLURE,Simpson Home,"First, patch the cracks in the slab using a latex patching compound and a patching trowel..."
+9897,66,19,163000,Homer Simpson,Simpson Home,"Hand me my patching trowel, boy."
+9898,66,20,167000,Homer Simpson,Simpson Home,Hmm.
+9899,66,21,168000,MCCLURE,Simpson Home,"Now, do you have extruded polyvinyl foam insulation?"
+9900,66,22,171000,Homer Simpson,Simpson Home,No.
+9901,66,23,171000,MCCLURE,Simpson Home,Good. Assemble the aluminum J-channel using self-furring screws. Install.
+9902,66,24,176000,Homer Simpson,Simpson Home,Wha-do I do...
+9903,66,25,177000,MCCLURE,Simpson Home,After applying brushable coating to the panels...
+9904,66,26,180000,Homer Simpson,Simpson Home,Wait a minute...
+9905,66,27,180000,MCCLURE,Simpson Home,....you'll need some corrosion-resistant metal stucco lath.
+9906,66,28,180000,Homer Simpson,Simpson Home,Wait a minute...
+9907,66,29,183000,MCCLURE,Simpson Home,If you can't find metal stucco lath....
+9908,66,30,185000,Homer Simpson,Simpson Home,Uh huh?
+9909,66,31,187000,MCCLURE,Simpson Home,Use carbon-fiber stucco lath.
+9911,66,33,190000,MCCLURE,Simpson Home,"Now, parge the lath..."
+9912,66,34,198000,Homer Simpson,Simpson Home,Did you see the bubble?
+9915,66,35,200000,Contractor,Simpson Home,"I'm afraid the whole west side of your house is sinking. I figure it's gonna cost you... oh, eighty-five hundred."
+9916,66,36,206000,Homer Simpson,Simpson Home,Forget it. You're not the only foundation guy in town!
+9917,66,37,211000,Homer Simpson,Simpson Home,"Let's see, foundation repair... Ah, here we are..."
+9918,66,38,215000,Kent Brockman,Simpson Home,"... Leaving the Vice President in charge. And now, Leaning Tower of Pisa eat your heart out and move over! This is one story that's not on the level!"
+9919,66,39,227000,Bart Simpson,Simpson Home,"Behold the horrors of the Slanty Shanty. See the twisted creatures that dwell within. Meet ""Cue Ball,"" the man with no hair!"
+9920,66,40,236000,Homer Simpson,Simpson Home,Huh?
+9921,66,41,240000,Woman,Simpson Home,He's hideous!
+9922,66,42,244000,Marge Simpson,Simpson Home,We have to do something...
+9923,66,43,247000,Homer Simpson,Simpson Home,"Marge, it'll cost eighty-five hundred dollars. We only have five hundred in the bank. That leaves... eighty- hundred we need."
+9924,66,44,254000,Marge Simpson,Simpson Home,I could get a job.
+9925,66,45,255000,Homer Simpson,Simpson Home,Hey! Then I could follow my dream. Living in the woods and keeping a journal of my thoughts.
+9926,66,46,263000,Homer Simpson,Simpson Home,"March 15... I wish I'd brought a TV. Oh God, how I miss TV."
+9927,66,47,272000,Marge Simpson,Simpson Home,"Hmm, I think you have to keep your job too."
+9931,66,51,279000,Maitre D',The Spruce Caboose,"It was the most beautiful, most expensive train ever built, the ""Spruce Caboose""."
+9932,66,52,285000,Maitre D',The Spruce Caboose,"Some people said it was too big to stay on the tracks... heh, heh, they were right."
+9933,66,53,291000,Marge Simpson,The Spruce Caboose,We're here for the retirement party.
+9934,66,54,293000,Maitre D',The Spruce Caboose,Follow the Headless Brakeman.
+9935,66,55,294000,Headless Brakeman,The Spruce Caboose,Power plant retirement party. Ow! Right this way.
+9936,66,56,301000,C. Montgomery Burns,The Spruce Caboose,"Tonight, we've all come to honor a close friend of ours..."
+9937,66,57,308000,Homer Simpson,The Spruce Caboose,Bo-ring!
+9938,66,58,309000,C. Montgomery Burns,The Spruce Caboose,"A man who provided the Burns Corporation with forty-five years of faithful service, Mr. Jack Marley."
+9939,66,59,316000,Homer Simpson,The Spruce Caboose,Bo-ring.
+9940,66,60,318000,Waylon Smithers,The Spruce Caboose,"Mr. Burns, if you don't mind, I've prepared a little musical number for Jack's special night."
+9941,66,61,326000,Waylon Smithers,The Spruce Caboose,THERE IS A MAN...
+9942,66,62,327000,Girls,The Spruce Caboose,THERE IS A MAN...
+9913,66,63,328000,Waylon Smithers,The Spruce Caboose,A CERTAIN MAN...
+9914,66,64,329000,Girls,The Spruce Caboose,A CERTAIN MAN...
+9943,66,65,330000,Waylon Smithers,The Spruce Caboose,A MAN WHOSE GRACE / AND HANDSOME FACE / ARE KNOWN ACROSS THE LAND! / YOU KNOW HIS NAME...
+9944,66,66,335000,Girls,The Spruce Caboose,YOU KNOW HIS NAME...
+9945,66,67,336000,Waylon Smithers,The Spruce Caboose,IT'S MISTER BURNS!
+9946,66,68,336000,Girls,The Spruce Caboose,HE'S MISTER BURNS!
+9947,66,69,337000,Waylon Smithers,The Spruce Caboose,HE LOVES A SMOKE/ ENJOYS A JOKE
+9948,66,70,340000,Girls,The Spruce Caboose,AH HA-HA-HA-HA
+9949,66,71,340000,Waylon Smithers,The Spruce Caboose,"WHY, HE'S WORTH TEN TIMES WHAT HE EARNS!"
+9950,66,72,344000,Girls,The Spruce Caboose,HE'S MISTER BURNS!
+9951,66,73,344000,C. Montgomery Burns,The Spruce Caboose,I'M MISTER BURNS!
+9952,66,74,345000,Waylon Smithers,The Spruce Caboose,HE'S MONTY BURNS!
+9953,66,75,346000,C. Montgomery Burns,The Spruce Caboose,I'm Mister Burns!
+9954,66,76,347000,Waylon Smithers,The Spruce Caboose,"TO FRIENDS HE'S KNOWN AS MONTY, BUT TO YOU IT'S MISTER... BURNS!! BUR-BUR-BUR-BUR-BUR-BURNS!!"
+9955,66,77,355000,C. Montgomery Burns,The Spruce Caboose,Burns!
+9956,66,78,356000,Marley,The Spruce Caboose,Do you mind if I say a few words?
+9957,66,79,358000,C. Montgomery Burns,The Spruce Caboose,"Oh, me, me, me ""I need all the attention just because it's my party, eh!"""
+9958,66,80,364000,Marley,The Spruce Caboose,"Please don't make me retire! My job is the only thing that keeps me alive! I never married, and my dog is dead!"
+9959,66,81,373000,Marley,The Spruce Caboose,I'm not finished.
+9960,66,82,374000,C. Montgomery Burns,The Spruce Caboose,"Oh, yes you are."
+9961,66,83,383000,C. Montgomery Burns,The Spruce Caboose,"With the departure of Mr. Marley, there will now be an entry-level position open in Sector 7G. Now get out. The bar is closed."
+9964,66,86,392000,Marge Simpson,Simpson Home,Maybe I should apply for that job.
+9965,66,87,394000,Homer Simpson,Simpson Home,"Forget it Marge. We already live together; we shouldn't work together. As the Bible says ""Thou shalt not horn in on thy husband's... racket."""
+9966,66,88,398000,Marge Simpson,Simpson Home,"Where does the Bible say ""racket?""...."
+9967,66,89,405000,Homer Simpson,Simpson Home,"It's in there. Look, Marge we just don't need the money that bad."
+9968,66,90,414000,Marge Simpson,Simpson Home,"Well, Lisa, I finished my resume."
+9969,66,91,432000,Lisa Simpson,Simpson Home,Uh... I think it needs a little padding.
+9970,66,92,437000,Marge Simpson,Simpson Home,What are you putting in there?...
+9971,66,93,439000,Lisa Simpson,Simpson Home,Up-up-up. When I'm done.
+9972,66,94,443000,Marge Simpson,Simpson Home,Chauffeur... seamstress...
+9973,66,95,447000,Marge Simpson,Simpson Home,curator of large mammals?
+9974,66,96,449000,Homer Simpson,Simpson Home,Marge have you seen my lunch box?
+9975,66,97,452000,Marge Simpson,Simpson Home,"Oh, I see."
+9976,66,98,454000,Lisa Simpson,Simpson Home,"Mom, they expect you to lie a little."
+9977,66,99,457000,Marge Simpson,Simpson Home,"""Worked for the Carter administration""?"
+9978,66,100,460000,Lisa Simpson,Simpson Home,"Well, you voted for him... twice!"
+9979,66,101,462000,Marge Simpson,Simpson Home,"Lisa, sh! Someone may be listening."
+9981,66,103,464000,Waylon Smithers,Springfield Nuclear Power Plant,"Uh-huh... Uh-huh... Oh, I thought Muddy Waters wrote that song."
+9982,66,104,470000,Waylon Smithers,Springfield Nuclear Power Plant,This resume is very impressive. Let me be the first to say: Kadibu [kadeeboo] Kazini [kazeenee].
+9983,66,105,475000,Marge Simpson,Springfield Nuclear Power Plant,What?
+9984,66,106,476000,Waylon Smithers,Springfield Nuclear Power Plant,Welcome aboard. I guess my Swahili's not as good as yours.
+9985,66,107,481000,Marge Simpson,Springfield Nuclear Power Plant,Yeah...
+9986,66,108,482000,Waylon Smithers,Springfield Nuclear Power Plant,"Sorry, the position has been filled."
+9987,66,109,487000,Marley,Springfield Nuclear Power Plant,Oh dear.
+9989,66,111,488000,Homer Simpson,Simpson Home,"Marge, you're making a big mistake. I'm going to see you all day at work and all night at home..."
+9990,66,112,495000,Homer Simpson,Simpson Home,"And that's good! But, here's the bad part... uh... uh... Ooh, look at that headline: ""Canada To Hold Referendum."" Sorry Marge, can't talk now."
+9991,66,113,506000,Marge Simpson,Simpson Home,"We need the money, and my life is pretty boring. Last week some Jehovah's Witnesses came to the door and I wouldn't let them leave. They snuck away when I went in the kitchen to get more lemonade."
+9992,66,114,516000,Homer Simpson,Simpson Home,"Yeah, lemonade is good."
+9993,66,115,518000,Lisa Simpson,Simpson Home,I think it's wonderful. Mom and Dad side by side at the power plant. You'll be just like Marie and Pierre Curie.
+9994,66,116,525000,Homer Simpson,Simpson Home,Wha dey do?
+9995,66,117,526000,Lisa Simpson,Simpson Home,They discovered radium. Then they both died of radiation poisoning.
+9996,66,118,531000,Bart Simpson,Simpson Home,Hmmm!
+9997,66,119,539000,Man,Simpson Home,It's the Curies. We must flee!
+9998,66,120,548000,Bart Simpson,Simpson Home,Cool!
+10000,66,122,551000,Homer Simpson,Homer's Car,"Now, Marge, just remember, if something goes wrong at the plant, blame the guy who can't speak English. Ah, Tibor, how many times have you saved my butt ."
+10002,66,124,563000,Grampa Simpson,Simpson Home,"Maggie, your baby-sitter's here."
+10003,66,125,567000,Grampa Simpson,Simpson Home,What's that mean?
+10004,66,126,568000,Grampa Simpson,Simpson Home,"Whoa, you must be sick."
+10006,66,127,569000,Grampa Simpson,Simpson Home,"Whoa, you must be sick. Let's see. What's old doc Washburn prescribe?"
+10007,66,128,574000,Grampa Simpson,Simpson Home,Do you have Dropsy? The Grippe? Scrofula? The Vapors? Jungle Rot? Dandy Fever? Poor man's gout? Housemaid's knee? Climactic pooball? The staggers? Dum-dum fever?...
+10009,66,130,589000,Waylon Smithers,Springfield Nuclear Power Plant,"And this is your office. That idiot Tibor lost the key, but you can jimmy it open with a credit card."
+10010,66,131,597000,Waylon Smithers,Springfield Nuclear Power Plant,"Well, have fun."
+10011,66,132,598000,Marge Simpson,Springfield Nuclear Power Plant,But... what do I do?
+10012,66,133,600000,Waylon Smithers,Springfield Nuclear Power Plant,"Marge, please. According to your resume, you invented this machine."
+10014,66,135,615000,Edna Krabappel-Flanders,Springfield Elementary School,"Put away your books, children. It's time for your English test."
+10015,66,136,621000,Bart Simpson,Springfield Elementary School,Sick... on test day... Why? Whyyy?
+10016,66,137,626000,Edna Krabappel-Flanders,Springfield Elementary School,"Bart, have you ever read ""The Boy Who Cried Wolf""?"
+10017,66,138,629000,Bart Simpson,Springfield Elementary School,"I'm halfway through it, I swear!"
+10020,66,141,638000,Homer Simpson,Springfield Nuclear Power Plant,Marge what're you doing? It's lunch time.
+10021,66,142,641000,Marge Simpson,Springfield Nuclear Power Plant,I'll just be a minute. I have to finish this paperwork.
+10022,66,143,645000,Homer Simpson,Springfield Nuclear Power Plant,"Marge, Marge, Marge, let's file this under ""R"" for arrivederci."
+10023,66,144,653000,Marge Simpson,Springfield Nuclear Power Plant,"But, where does it go?"
+10024,66,145,654000,Homer Simpson,Springfield Nuclear Power Plant,"Don't worry, baby. That tube'll know what to do."
+10026,66,147,677000,Grampa Simpson,Simpson Home,"Good news, boy. I found a pharmacy that carries leeches! Well, it wasn't exactly a pharmacy... more of a bait shop."
+10027,66,148,684000,Bart Simpson,Simpson Home,"Look, Grampa, I'm fine! I really don't need any more home remedies."
+10028,66,149,687000,Grampa Simpson,Simpson Home,"Oral thermometer, my eye! Think warm thoughts, boy, 'cause this is mighty cold."
+10029,66,150,694000,Bart Simpson,Simpson Home,Aaaagh!
+10031,66,152,700000,C. Montgomery Burns,Springfield Nuclear Power Plant,Jackanapes... lolligaggers... noodle heads... enchantress!
+10032,66,153,709000,C. Montgomery Burns,Springfield Nuclear Power Plant,"That woman -- she's so captivating. Smithers, my heart's pounding like a jackhammer."
+10034,66,154,718000,C. Montgomery Burns,Springfield Nuclear Power Plant,"I must have her. Smithers, zoom in. Closer... Closer... closer, damn it!"
+10035,66,155,724000,Marge Simpson,Springfield Nuclear Power Plant,Ow!
+10036,66,156,725000,C. Montgomery Burns,Springfield Nuclear Power Plant,Too close.
+10037,66,157,733000,C. Montgomery Burns,Springfield Nuclear Power Plant,Hello!
+10038,66,158,734000,Marge Simpson,Springfield Nuclear Power Plant,Mr. Burns!
+10039,66,159,735000,C. Montgomery Burns,Springfield Nuclear Power Plant,No need for alarm. I just came to give you the orchids and fragrant bath oils I lavish upon all my employees.
+10040,66,160,741000,Marge Simpson,Springfield Nuclear Power Plant,"Oh, aren't you nice. Gee, this makes me wonder why morale here is so low."
+10041,66,161,754000,Man #2,Springfield Nuclear Power Plant,I am the angel of death. The time of purification is at hand.
+10042,66,162,757000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, who cares. Marge, what can we do?"
+10043,66,163,760000,Marge Simpson,Springfield Nuclear Power Plant,"Well, you could give them healthier snacks... theme days..."
+10044,66,164,765000,C. Montgomery Burns,Springfield Nuclear Power Plant,"You mean like ""Child labor Day""?"
+10045,66,165,767000,Marge Simpson,Springfield Nuclear Power Plant,"Hmm, actually, I was thinking of ""Funny Hat Day."""
+10047,66,167,770000,Marge Simpson,Springfield Nuclear Power Plant,"Oh, and how about piping in some Tom Jones music? That always cheers me up."
+10048,66,168,786000,C. Montgomery Burns,Springfield Nuclear Power Plant,It's working! It's working! And the healthy snacks are on their way.
+10049,66,169,791000,Homer Simpson,Springfield Nuclear Power Plant,You can't take our donuts!
+10050,66,170,797000,Donut Man,Springfield Nuclear Power Plant,"All right, anyone else want to be a hero?"
+10051,66,171,802000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Marge, I'm giving you a raise and a new office... right next to mine."
+10052,66,172,802000,Waylon Smithers,Springfield Nuclear Power Plant,"But, sir, that's my office!"
+10053,66,173,809000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Don't worry Smithers, I'm putting you where the action is."
+10054,66,174,815000,Waylon Smithers,Springfield Nuclear Power Plant,"Springtime fresh, winter white... what could be better?"
+10055,66,175,820000,Homer Simpson,Springfield Nuclear Power Plant,"Oh, man, I really gotta..."
+10056,66,176,821000,Waylon Smithers,Springfield Nuclear Power Plant,Nooo!
+10058,66,178,824000,Edna Krabappel-Flanders,Springfield Elementary School,"So, Bart, how are you feeling?"
+10059,66,179,827000,Bart Simpson,Springfield Elementary School,Can't complain.
+10060,66,180,828000,Edna Krabappel-Flanders,Springfield Elementary School,"Well, then you're ready for your make up test."
+10061,66,181,830000,Bart Simpson,Springfield Elementary School,Aagh! My ovaries!
+10063,66,183,836000,Bart Simpson,Grampa's Car,Suckers.
+10064,66,184,839000,Grampa Simpson,Grampa's Car,"Have you ever read ""The Boy Who Cried Wolf?"""
+10065,66,185,841000,Bart Simpson,Grampa's Car,"I glanced at it... boy cries ""wolf""... has a few laughs... I forget how it ends."
+10066,66,186,847000,Grampa Simpson,Grampa's Car,"Bart, is that light green?"
+10067,66,187,849000,Bart Simpson,Grampa's Car,Yeah.
+10068,66,188,850000,Grampa Simpson,Grampa's Car,It better be!
+10070,66,190,852000,Marge Simpson,Simpson Home,"Homie, what's wrong?"
+10071,66,191,856000,Homer Simpson,Simpson Home,I'm used to seeing people promoted ahead of me... friends... co-workers... Tibor... I never thought it'd be my own wife.
+10072,66,192,864000,Marge Simpson,Simpson Home,"Well, maybe you'd get promoted if you worked a little harder."
+10073,66,193,867000,Homer Simpson,Simpson Home,Are you kidding? I work like a Japanese Beaver.
+10074,66,194,870000,Marge Simpson,Simpson Home,Oh really? I came to see you three times today. Twice you were sleeping and once you were kicking that ball of electrical tape around.
+10075,66,195,877000,Homer Simpson,Simpson Home,"Well, I won't sleep in the same bed with a woman who thinks I'm lazy. I'm gonna go right down stairs, unfold the couch, unroll a sleeping bag... Eh, goodnight."
+10077,66,197,895000,C. Montgomery Burns,Springfield Nuclear Power Plant,"I dreamed about her again last night, Smithers. You know that dream where you're in bed and they fly in through the window?"
+10078,66,198,912000,Waylon Smithers,Springfield Nuclear Power Plant,"You've been reading my Wish Book, sir."
+10079,66,199,914000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Yes, well, Smithers, I want you to arrange a party for two at my estate. Marge, me, and do you think you could dig up Al Jolson?"
+10080,66,200,922000,Waylon Smithers,Springfield Nuclear Power Plant,"Uh, you remember we did that once before?"
+10081,66,201,925000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Oh, that's right, he's dead. And rather pungent. The rest of that night is something I'd like to forget. All right, then. Bring me that crooner she likes so much... Tom Jones."
+10082,66,202,938000,Carl Carlson,Springfield Nuclear Power Plant,These spurs are killin' me.
+10083,66,203,941000,Lenny Leonard,Springfield Nuclear Power Plant,Ayyy -- sit on it.
+10084,66,204,942000,Carl Carlson,Springfield Nuclear Power Plant,"Lenny, 50's Day is next Wednesday."
+10085,66,205,946000,Lenny Leonard,Springfield Nuclear Power Plant,I gotta go home and change!
+10087,66,207,953000,Marge Simpson,Simpson Home,Here's your money.
+10088,66,208,955000,Contractor,Simpson Home,You know the problem here was water leakage. If you just buy a fifty cent washer --
+10089,66,209,959000,Homer Simpson,Simpson Home,I've got a better idea -- get the hell out!
+10090,66,210,962000,Contractor,Simpson Home,"Look, I've got some washers in my truck. I'll give you one."
+10033,66,211,965000,Homer Simpson,Simpson Home,"Marge, get my gun."
+10092,66,214,975000,Waylon Smithers,Las Vegas Hotel Stage show,Tom Jones?
+10093,66,215,976000,Tom Jones,Las Vegas Hotel Stage show,Yes?
+10094,66,216,977000,Waylon Smithers,Las Vegas Hotel Stage show,I was wondering if you'd be interested in performing at a private party.
+10095,66,217,980000,Tom Jones,Las Vegas Hotel Stage show,"Sorry, Mate, I don't do private parties."
+10096,66,218,982000,Waylon Smithers,Las Vegas Hotel Stage show,"Then, perhaps you should look in this suitcase."
+10097,66,219,985000,Tom Jones,Las Vegas Hotel Stage show,"All right, but I don't see..."
+10099,66,221,989000,Waylon Smithers,Las Vegas Hotel Stage show,"Pleasant dreams, Mr. Jones."
+10101,66,223,993000,Edna Krabappel-Flanders,Springfield Elementary School,"Bart, to avoid this test you've had smallpox, the bends and that unfortunate bout of rabbies."
+10102,66,224,999000,Bart Simpson,Springfield Elementary School,"Well, I'm not sure I'm over it. Shove it, witch."
+10103,66,225,1005000,Edna Krabappel-Flanders,Springfield Elementary School,No more excuses!
+10106,66,228,1012000,Krusty the Clown,Krustylu Studios,Her claws are really digging into my skull.
+10107,66,229,1015000,Animal Handler,Krustylu Studios,She can crush clams with them.
+10108,66,230,1017000,Krusty the Clown,Krustylu Studios,"Get it off, get it off!"
+10109,66,231,1019000,Animal Handler,Krustylu Studios,Here we have an Alaskan Timber Wolf. He weighs 240 pounds and his jaws can bite through a parking meter. He does get spooked by loud noises.
+10110,66,232,1027000,Krusty the Clown,Krustylu Studios,"""Loud?"" That's our secret word for the day!"
+10111,66,233,1044000,Animal Handler,Krustylu Studios,Oh my God!
+10113,66,235,1046000,Animal Handler,Krustylu Studios,She must think you're after her eggs.
+10114,66,236,1048000,Krusty the Clown,Krustylu Studios,I only ate one!
+10116,66,238,1053000,Chief Wiggum,Springfield Street,Nice doggie.
+10118,66,240,1062000,Bart Simpson,Springfield Elementary School,Ivanhoe is the story of a Russian farmer and his tool.
+10120,66,242,1068000,Bart Simpson,Springfield Elementary School,Wolf! Wolf! Wolf!
+10121,66,243,1070000,Edna Krabappel-Flanders,Springfield Elementary School,I'm afraid you'll have to do better than that.
+10122,66,244,1075000,Edna Krabappel-Flanders,Springfield Elementary School,Sorry. No sale.
+10123,66,245,1077000,Edna Krabappel-Flanders,Springfield Elementary School,You're wasting valuable test time.
+10125,66,247,1084000,Marge Simpson,Springfield Nuclear Power Plant,"Mr. Burns, you want to see me?"
+10126,66,248,1088000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Actually, I was wondering if you were free for a little get-together tonight. Dinner, dancing and ... Mr. Tom Jones."
+10127,66,249,1098000,Tom Jones,Springfield Nuclear Power Plant,"Hello, Marge."
+10128,66,250,1099000,Waylon Smithers,Springfield Nuclear Power Plant,That's it... big smile ... everybody's happy.
+10129,66,251,1103000,Marge Simpson,Springfield Nuclear Power Plant,Oh my goodness!
+10131,66,253,1107000,Marge Simpson,Springfield Nuclear Power Plant,My husband will be so excited.
+10132,66,254,1109000,C. Montgomery Burns,Springfield Nuclear Power Plant,"You... have a husband? Yes, I can picture him now... rugged good looks... sweater knotted about his shoulders... curly locks shining in the sun like spun gold..."
+10133,66,255,1125000,Marge Simpson,Springfield Nuclear Power Plant,"Homer, Mr. Burns gave me another raise today."
+10134,66,256,1128000,Homer,Springfield Nuclear Power Plant,The senile old fool.
+10135,66,257,1133000,C. Montgomery Burns,Springfield Nuclear Power Plant,You're fired!
+10136,66,258,1134000,Marge Simpson,Springfield Nuclear Power Plant,You can't fire me just because I'm married. I'm going to sue the pants off you.
+10137,66,259,1139000,C. Montgomery Burns,Springfield Nuclear Power Plant,You don't have to sue me to get my pants off.
+10139,66,261,1150000,Groundskeeper Willie,Springfield Elementary School,"Hey, Wolfie, put down that hors d'oeuvre... It's time for the main course!"
+10140,66,262,1163000,Groundskeeper Willie,Springfield Elementary School,"Back to class, lad, nothin' to see here."
+10142,66,264,1174000,Bart Simpson,Mrs. Krabappel's Classroom,Here's my test.
+10143,66,265,1176000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"Bart, I'm not even going to grade this until you tell me the truth about what happened out there."
+10144,66,266,1180000,Bart Simpson,Mrs. Krabappel's Classroom,"The truth is, there was no wolf. I faked the whole thing. I'm just going to lie on the floor now. Please don't let me swallow my tongue."
+10145,66,267,1194000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,"There, doesn't it feel better to tell the truth?"
+10146,66,268,1201000,Edna Krabappel-Flanders,Mrs. Krabappel's Classroom,Oh dear.
+10148,66,270,1203000,Grampa Simpson,Springfield Elementary School,"All right, now boy, we've got to rub some garlic on you before the next full moon."
+10149,66,271,1209000,Groundskeeper Willie,Springfield Elementary School,Don't feel bad for losing. I was wrestlin' wolves back when you were at your mother's teat.
+10151,66,273,1219000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Why, Marge, look at all those flies buzzing around your head -- you're a mess, woman ."
+10153,66,275,1228000,Marge Simpson,The Law Office of Lionel Hutz,"So, do you think I have a case?"
+10154,66,276,1231000,Lionel Hutz,The Law Office of Lionel Hutz,"Mrs. Simpson, you're in luck. Your sexual harassment suit is just the thing I need to rebuild my shattered practice. Care to join me in a belt of scotch?"
+10155,66,277,1241000,Marge Simpson,The Law Office of Lionel Hutz,It's 9:30 in the morning.
+10156,66,278,1243000,Lionel Hutz,The Law Office of Lionel Hutz,"Yeah, but I haven't slept in days..."
+10157,66,279,1246000,Lionel Hutz,The Law Office of Lionel Hutz,Last chance...
+10158,66,280,1250000,Lionel Hutz,The Law Office of Lionel Hutz,"Oh, yeah."
+10160,66,282,1253000,Lionel Hutz,Springfield Nuclear Power Plant,"Mr. Burns we've got witnesses, precedent and a paper trail a mile long."
+10161,66,283,1257000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Yes, well, I have ten high-priced lawyers."
+10163,66,285,1266000,Homer Simpson,Springfield Nuclear Power Plant,He left his briefcase. Hey! It's full of shredded newspapers.
+10164,66,286,1271000,Marge Simpson,Springfield Nuclear Power Plant,"Well, I guess that's it. People like us can't afford justice. Come on Homie, let's go before he fires you too."
+10165,66,287,1279000,Homer Simpson,Springfield Nuclear Power Plant,"No! Mr. Burns, I'm not leaving until you say you're sorry for what you did to my wife."
+10166,66,288,1285000,C. Montgomery Burns,Springfield Nuclear Power Plant,"You love her, too."
+10167,66,289,1287000,Homer Simpson,Springfield Nuclear Power Plant,Damn right!
+10168,66,290,1289000,C. Montgomery Burns,Springfield Nuclear Power Plant,"Homer, I want you to show this woman the time of her life."
+10169,66,291,1292000,Homer Simpson,Springfield Nuclear Power Plant,"Gotcha. Marge, we're gettin' some drive-thru then we're doin' it twice."
+10170,66,292,1296000,C. Montgomery Burns,Springfield Nuclear Power Plant,"No, I've got something even more special in mind."
+10172,66,294,1300000,Marge Simpson,Burns Manor,oooh...
+10173,66,295,1312000,Tom Jones,Burns Manor,"Get help, Luv. Call Interpol, get me a hacksaw -- anything."
