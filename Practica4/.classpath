@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path=""/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path=""/>
-	<classpathentry kind="lib" path="/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/lib/lucene-analysis-common-9.8.0.jar"/>
-	<classpathentry kind="lib" path="/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/lib/lucene-core-9.8.0.jar"/>
-	<classpathentry kind="lib" path="/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/lib/commons-lang3-3.13.0.jar"/>
-	<classpathentry kind="lib" path="/home/santiago/OneDrive/7moSemestre/RecuperacionInformacion/Practicas/Practica4/lib/opencsv-5.8.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.13.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analysis-common-9.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-9.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-5.8.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
