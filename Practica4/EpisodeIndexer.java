@@ -108,7 +108,7 @@ public class EpisodeIndexer {
                     	
                     	doc.add(new TextField("spoken_words", nextRecord[2], Field.Store.YES));
                     	
-                    	doc.add(new TextField("raw_character_text", nextRecord[3], Field.Store.YES));
+                    	doc.add(new TextField("raw_character_text", nextRecord[3], Field.Store.NO));
                     	
                     	doc.add(new FloatPoint("imdb_rating", Float.parseFloat(nextRecord[4])));
                     	
