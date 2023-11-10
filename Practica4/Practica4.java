@@ -3,28 +3,27 @@
 public class Practica4 {
 
     public static void main(String[] args) {
-        if(args[0].equals("index")){
-            if(args[1].equals("episodes")){
-                EpisodeIndexer indexer = new EpisodeIndexer(true);
+    	Boolean create = false;
+    	
+    	if(args[0].equals("index")){
+    		create = false;
+    	} else if (args[0].equals("append")){
+    		create = true;
+    	} else {
+        	System.out.println("Error. Invalid Operation");
+        }
+    		
+        
+        if(args[1].equals("episodes")){
+            EpisodeIndexer indexer = new EpisodeIndexer(create);
 
-                indexer.index(args[2]);
-            }
-            else if (args[1].equals("scripts")){ 
-            	ScriptIndexer indexer = new ScriptIndexer(true);
+            indexer.index(args[2]);
+        } else if (args[1].equals("scripts")){ 
+        	ScriptIndexer indexer = new ScriptIndexer(create);
 
-                indexer.index(args[2]);
-            }
-        } else if (args[0].equals("append")){
-           if(args[1].equals("episodes")){
-                EpisodeIndexer indexer = new EpisodeIndexer(false);
-
-                indexer.index(args[2]);
-           }
-           else if (args[1].equals("script")){ 
-           	ScriptIndexer indexer = new ScriptIndexer(false);
-
-               indexer.index(args[2]);
-           }
+            indexer.index(args[2]);
+        } else {
+        	System.out.println("Invalid object to index. Objects available: episodes and scripts");
         }
     }
 }
