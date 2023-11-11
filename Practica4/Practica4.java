@@ -1,14 +1,25 @@
 // run configuration : index episodes ../TestData/CapitulosUnidos
 
+/*
+ * Practica 4. Index simpsons data stored in csv files
+ * Santiago Álvarez Valdivia
+ * Ioannis Efthymiou
+ */
+
 public class Practica4 {
 
     public static void main(String[] args) {
-    	Boolean create = false;
+    	boolean create = false;
+    	
+    	if(args.length < 3) {
+    		System.out.println("Error. Missing arguments\nUsage: Practica4 OPERATION DATAKIND DATADIRECTORY, where OPERATION = index | append and DATAKIND = episodes | scripts");
+    		return;
+    	}
     	
     	if(args[0].equals("index")){
-    		create = false;
-    	} else if (args[0].equals("append")){
     		create = true;
+    	} else if (args[0].equals("append")){
+    		create = false;
     	} else {
         	System.out.println("Error. Invalid Operation");
         }

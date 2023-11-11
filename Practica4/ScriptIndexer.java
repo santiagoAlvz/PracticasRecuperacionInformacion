@@ -75,7 +75,7 @@ public class ScriptIndexer {
         // Get the file or directory name
         String directory = path.getFileName().toString();
         
-    	System.out.println("Indexing episodes stored in " + directory);
+    	System.out.println("Indexing scripts stored in " + directory);
     	
     	File folder = new File(uri);
 		File[] files = folder.listFiles();

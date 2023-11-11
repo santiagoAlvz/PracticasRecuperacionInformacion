@@ -35,12 +35,11 @@ import java.nio.file.Path;
 public class EpisodeIndexer {
 
 	private IndexWriter writer;
-	boolean create = false;
-	String indexPath = "./index/episodes";
+	private boolean create = false;
+	private String indexPath = "./index/episodes";
 
 	EpisodeIndexer(boolean create){
 		this.create = create;
-
 		try {
 			configureIndex();
 		} catch (IOException e) {
