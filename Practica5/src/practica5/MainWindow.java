@@ -23,13 +23,24 @@ import javax.swing.SpinnerNumberModel;
 import java.awt.GridBagLayout;
 import java.awt.GridBagConstraints;
 import java.awt.Insets;
+import javax.swing.JButton;
+import java.awt.Component;
+import javax.swing.SwingConstants;
+import javax.swing.SpringLayout;
+import javax.swing.JTree;
+import javax.swing.JSplitPane;
+import javax.swing.JLayeredPane;
+import javax.swing.JScrollPane;
+import javax.swing.Box;
+import java.awt.CardLayout;
+import javax.swing.border.EmptyBorder;
 
 public class MainWindow {
 
 	private JFrame frame;
 	private JTextField entEpTitle;
-	private JTextField textField;
-	private JTextField textField_1;
+	private JTextField txtLineCharacter;
+	private JTextField txtLineWords;
 
 	/**
 	 * Launch the application.
@@ -59,19 +70,21 @@ public class MainWindow {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setBounds(100, 100, 450, 300);
+		frame.setBounds(100, 100, 478, 363);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(new BoxLayout(frame.getContentPane(), BoxLayout.Y_AXIS));
 		
+		JPanel topPanel = new JPanel();
+		topPanel.setBorder(new EmptyBorder(10, 10, 10, 10));
+		frame.getContentPane().add(topPanel);
+		topPanel.setLayout(new BoxLayout(topPanel, BoxLayout.Y_AXIS));
+		
 		JPanel pnlEpFilters = new JPanel();
 		pnlEpFilters.setBorder(new TitledBorder(new LineBorder(new Color(184, 207, 229)), "Episode Filters", TitledBorder.LEADING, TitledBorder.TOP, null, new Color(51, 51, 51)));
-		frame.getContentPane().add(pnlEpFilters);
-		pnlEpFilters.setLayout(new FlowLayout(FlowLayout.CENTER, 5, 5));
 		
 		JPanel panel_1 = new JPanel();
-		pnlEpFilters.add(panel_1);
 		GridBagLayout gbl_panel_1 = new GridBagLayout();
-		gbl_panel_1.columnWidths = new int[] {128, 256, 0};
+		gbl_panel_1.columnWidths = new int[] {160, 256, 0};
 		gbl_panel_1.rowHeights = new int[]{26, 26, 26, 0};
 		gbl_panel_1.columnWeights = new double[]{0.0, 0.0, Double.MIN_VALUE};
 		gbl_panel_1.rowWeights = new double[]{0.0, 0.0, 0.0, Double.MIN_VALUE};
@@ -133,58 +146,102 @@ public class MainWindow {
 		gbc_pnlEpRating.gridx = 1;
 		gbc_pnlEpRating.gridy = 2;
 		panel_1.add(pnlEpRating, gbc_pnlEpRating);
-		pnlEpRating.setLayout(new BoxLayout(pnlEpRating, BoxLayout.X_AXIS));
+		pnlEpRating.setLayout(new GridLayout(0, 2, 0, 0));
 		
 		JLabel lblNewLabel = new JLabel(">");
+		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		pnlEpRating.add(lblNewLabel);
 		
 		JSpinner spnEpRating = new JSpinner();
 		pnlEpRating.add(spnEpRating);
 		spnEpRating.setModel(new SpinnerNumberModel(Float.valueOf(0), Float.valueOf(0), Float.valueOf(100), Float.valueOf(0)));
+		GroupLayout gl_pnlEpFilters = new GroupLayout(pnlEpFilters);
+		gl_pnlEpFilters.setHorizontalGroup(
+			gl_pnlEpFilters.createParallelGroup(Alignment.LEADING)
+				.addGroup(gl_pnlEpFilters.createSequentialGroup()
+					.addGap(18)
+					.addComponent(panel_1, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE))
+		);
+		gl_pnlEpFilters.setVerticalGroup(
+			gl_pnlEpFilters.createParallelGroup(Alignment.LEADING)
+				.addGroup(gl_pnlEpFilters.createSequentialGroup()
+					.addGap(5)
+					.addComponent(panel_1, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE))
+		);
+		pnlEpFilters.setLayout(gl_pnlEpFilters);
+		topPanel.add(pnlEpFilters);
 		
 		JPanel pnlLineFilters = new JPanel();
-		pnlLineFilters.setBorder(new TitledBorder(null, "Line Filters", TitledBorder.LEADING, TitledBorder.TOP, null, null));
-		frame.getContentPane().add(pnlLineFilters);
+		pnlLineFilters.setBorder(new TitledBorder(new LineBorder(new Color(184, 207, 229)), "Line Filters", TitledBorder.LEADING, TitledBorder.TOP, null, new Color(51, 51, 51)));
 		
 		JPanel panel = new JPanel();
-		pnlLineFilters.add(panel);
 		GridBagLayout gbl_panel = new GridBagLayout();
-		gbl_panel.columnWidths = new int[] {128, 256, 0};
+		gbl_panel.columnWidths = new int[] {160, 256, 0};
 		gbl_panel.rowHeights = new int[] {26, 26, 0};
-		gbl_panel.columnWeights = new double[]{1.0, Double.MIN_VALUE};
-		gbl_panel.rowWeights = new double[]{0.0, 0.0, 0.0, 0.0};
+		gbl_panel.columnWeights = new double[]{0.0, 0.0, Double.MIN_VALUE};
+		gbl_panel.rowWeights = new double[]{0.0, 0.0, Double.MIN_VALUE};
 		panel.setLayout(gbl_panel);
 		
-		JLabel lblNewLabel_1 = new JLabel("New label");
-		GridBagConstraints gbc_lblNewLabel_1 = new GridBagConstraints();
-		gbc_lblNewLabel_1.insets = new Insets(0, 0, 5, 0);
-		gbc_lblNewLabel_1.gridx = 0;
-		gbc_lblNewLabel_1.gridy = 0;
-		panel.add(lblNewLabel_1, gbc_lblNewLabel_1);
+		JLabel lblLineCharacter = new JLabel("Character");
+		GridBagConstraints gbc_lblLineCharacter = new GridBagConstraints();
+		gbc_lblLineCharacter.fill = GridBagConstraints.BOTH;
+		gbc_lblLineCharacter.insets = new Insets(0, 0, 5, 5);
+		gbc_lblLineCharacter.gridx = 0;
+		gbc_lblLineCharacter.gridy = 0;
+		panel.add(lblLineCharacter, gbc_lblLineCharacter);
 		
-		textField = new JTextField();
-		GridBagConstraints gbc_textField = new GridBagConstraints();
-		gbc_textField.insets = new Insets(0, 0, 5, 0);
-		gbc_textField.fill = GridBagConstraints.HORIZONTAL;
-		gbc_textField.gridx = 0;
-		gbc_textField.gridy = 1;
-		panel.add(textField, gbc_textField);
-		textField.setColumns(10);
+		txtLineCharacter = new JTextField();
+		GridBagConstraints gbc_txtLineCharacter = new GridBagConstraints();
+		gbc_txtLineCharacter.fill = GridBagConstraints.BOTH;
+		gbc_txtLineCharacter.insets = new Insets(0, 0, 5, 0);
+		gbc_txtLineCharacter.gridx = 1;
+		gbc_txtLineCharacter.gridy = 0;
+		panel.add(txtLineCharacter, gbc_txtLineCharacter);
+		txtLineCharacter.setColumns(10);
 		
-		JLabel lblNewLabel_2 = new JLabel("New label");
-		GridBagConstraints gbc_lblNewLabel_2 = new GridBagConstraints();
-		gbc_lblNewLabel_2.insets = new Insets(0, 0, 5, 0);
-		gbc_lblNewLabel_2.gridx = 0;
-		gbc_lblNewLabel_2.gridy = 2;
-		panel.add(lblNewLabel_2, gbc_lblNewLabel_2);
+		JLabel lblLineWords = new JLabel("New label");
+		GridBagConstraints gbc_lblLineWords = new GridBagConstraints();
+		gbc_lblLineWords.fill = GridBagConstraints.BOTH;
+		gbc_lblLineWords.insets = new Insets(0, 0, 0, 5);
+		gbc_lblLineWords.gridx = 0;
+		gbc_lblLineWords.gridy = 1;
+		panel.add(lblLineWords, gbc_lblLineWords);
 		
-		textField_1 = new JTextField();
-		GridBagConstraints gbc_textField_1 = new GridBagConstraints();
-		gbc_textField_1.fill = GridBagConstraints.HORIZONTAL;
-		gbc_textField_1.gridx = 0;
-		gbc_textField_1.gridy = 3;
-		panel.add(textField_1, gbc_textField_1);
-		textField_1.setColumns(10);
+		txtLineWords = new JTextField();
+		GridBagConstraints gbc_txtLineWords = new GridBagConstraints();
+		gbc_txtLineWords.fill = GridBagConstraints.BOTH;
+		gbc_txtLineWords.gridx = 1;
+		gbc_txtLineWords.gridy = 1;
+		panel.add(txtLineWords, gbc_txtLineWords);
+		txtLineWords.setColumns(10);
+		GroupLayout gl_pnlLineFilters = new GroupLayout(pnlLineFilters);
+		gl_pnlLineFilters.setHorizontalGroup(
+			gl_pnlLineFilters.createParallelGroup(Alignment.LEADING)
+				.addGroup(gl_pnlLineFilters.createSequentialGroup()
+					.addGap(23)
+					.addComponent(panel, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE))
+		);
+		gl_pnlLineFilters.setVerticalGroup(
+			gl_pnlLineFilters.createParallelGroup(Alignment.LEADING)
+				.addGroup(gl_pnlLineFilters.createSequentialGroup()
+					.addGap(5)
+					.addComponent(panel, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE))
+		);
+		pnlLineFilters.setLayout(gl_pnlLineFilters);
+		topPanel.add(pnlLineFilters);
+		
+		JButton btnSearch = new JButton("Search");
+		btnSearch.setAlignmentX(Component.CENTER_ALIGNMENT);
+		topPanel.add(btnSearch);
+		
+		Component verticalStrut = Box.createVerticalStrut(20);
+		topPanel.add(verticalStrut);
+		
+		JScrollPane scrollPane = new JScrollPane();
+		
+		JTree treeResults = new JTree();
+		treeResults.setRootVisible(false);
+		scrollPane.setViewportView(treeResults);
+		topPanel.add(scrollPane);
 	}
-
 }
