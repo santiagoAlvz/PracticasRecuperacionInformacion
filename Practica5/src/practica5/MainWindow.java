@@ -34,6 +34,9 @@ import javax.swing.JScrollPane;
 import javax.swing.Box;
 import java.awt.CardLayout;
 import javax.swing.border.EmptyBorder;
+import javax.swing.AbstractAction;
+import java.awt.event.ActionEvent;
+import javax.swing.Action;
 
 public class MainWindow {
 
@@ -41,6 +44,8 @@ public class MainWindow {
 	private JTextField entEpTitle;
 	private JTextField txtLineCharacter;
 	private JTextField txtLineWords;
+	private IndexSearcher is = new IndexSearcher();
+	private final Action action = new searchIndex();
 
 	/**
 	 * Launch the application.
@@ -231,6 +236,7 @@ public class MainWindow {
 		topPanel.add(pnlLineFilters);
 		
 		JButton btnSearch = new JButton("Search");
+		btnSearch.setAction(action);
 		btnSearch.setAlignmentX(Component.CENTER_ALIGNMENT);
 		topPanel.add(btnSearch);
 		
@@ -243,5 +249,18 @@ public class MainWindow {
 		treeResults.setRootVisible(false);
 		scrollPane.setViewportView(treeResults);
 		topPanel.add(scrollPane);
+	}
+	private class searchIndex extends AbstractAction {
+		private static final long serialVersionUID = 8374267074142991082L;
+		
+		public searchIndex() {
+			putValue(NAME, "Search Index");
+			putValue(SHORT_DESCRIPTION, "Search for matches in the indexed information");
+		}
+		public void actionPerformed(ActionEvent e) {
+			SearchParameters sp = new SearchParameters();
+			
+			is.search(sp);
+		}
 	}
 }
