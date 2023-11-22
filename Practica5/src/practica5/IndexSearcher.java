@@ -49,7 +49,7 @@ public class IndexSearcher {
 			for(int i = 0; i < hits.length; i++) {
 				Document doc = episodeSearcher.doc(hits[i].doc);
 				
-				episodeData = doc.get("title") + "(" +doc.get("original_air_date")+ "), season: "+doc.get("season")+", rating "+doc.get("imdb_rating")+" stars";
+				episodeData = doc.get("title") + " (" +doc.get("original_air_date")+ "), season: "+doc.get("season")+", US viewers "+doc.get("us_viewers_in_millions")+"M";
 				returnValue.put(episodeData, new ArrayList<String>());
 			}
 			
