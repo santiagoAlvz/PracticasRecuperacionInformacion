@@ -2,3 +2,4 @@
 *.class
 /.metadata/
 */index
+*.classpath
