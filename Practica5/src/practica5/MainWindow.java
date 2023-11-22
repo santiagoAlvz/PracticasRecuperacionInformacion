@@ -36,17 +36,28 @@ import java.awt.CardLayout;
 import javax.swing.border.EmptyBorder;
 import javax.swing.AbstractAction;
 import java.awt.event.ActionEvent;
+import java.util.ArrayList;
+import java.util.HashMap;
+
 import javax.swing.Action;
+import javax.swing.tree.DefaultTreeModel;
+import javax.swing.tree.TreeModel;
+import javax.swing.tree.DefaultMutableTreeNode;
 
 public class MainWindow {
 
 	private JFrame frame;
-	private JTextField entEpTitle;
+	private JTextField txtEpTitle;
 	private JTextField txtLineCharacter;
 	private JTextField txtLineWords;
+	private JComboBox<String> comEpSeason;
+	private JSpinner spnEpSeason;
+	private JSpinner spnEpRating;
+	private JTree treeResults;
+	private DefaultMutableTreeNode treeRoot = new DefaultMutableTreeNode("Root");
+	private DefaultTreeModel resultsTreeModel = new DefaultTreeModel(treeRoot);
 	private IndexSearcher is = new IndexSearcher();
 	private final Action action = new searchIndex();
-
 	/**
 	 * Launch the application.
 	 */
@@ -104,14 +115,14 @@ public class MainWindow {
 		gbc_lblEpTitle.gridy = 0;
 		panel_1.add(lblEpTitle, gbc_lblEpTitle);
 		
-		entEpTitle = new JTextField();
-		GridBagConstraints gbc_entEpTitle = new GridBagConstraints();
-		gbc_entEpTitle.fill = GridBagConstraints.BOTH;
-		gbc_entEpTitle.insets = new Insets(0, 0, 5, 0);
-		gbc_entEpTitle.gridx = 1;
-		gbc_entEpTitle.gridy = 0;
-		panel_1.add(entEpTitle, gbc_entEpTitle);
-		entEpTitle.setColumns(10);
+		txtEpTitle = new JTextField();
+		GridBagConstraints gbc_txtEpTitle = new GridBagConstraints();
+		gbc_txtEpTitle.fill = GridBagConstraints.BOTH;
+		gbc_txtEpTitle.insets = new Insets(0, 0, 5, 0);
+		gbc_txtEpTitle.gridx = 1;
+		gbc_txtEpTitle.gridy = 0;
+		panel_1.add(txtEpTitle, gbc_txtEpTitle);
+		txtEpTitle.setColumns(10);
 		
 		JLabel lblEpSeason = new JLabel("EpisodeSeason");
 		GridBagConstraints gbc_lblEpSeason = new GridBagConstraints();
@@ -129,10 +140,10 @@ public class MainWindow {
 		gbc_pnlEpSeason.gridy = 1;
 		panel_1.add(pnlEpSeason, gbc_pnlEpSeason);
 		
-		JComboBox comEpSeason = new JComboBox();
-		comEpSeason.setModel(new DefaultComboBoxModel(new String[] {">", "<", "="}));
+		comEpSeason = new JComboBox<String>();
+		comEpSeason.setModel(new DefaultComboBoxModel<String>(new String[] {">", "<", "="}));
 		
-		JSpinner spnEpSeason = new JSpinner();
+		spnEpSeason = new JSpinner();
 		pnlEpSeason.setLayout(new GridLayout(0, 2, 5, 0));
 		pnlEpSeason.add(comEpSeason);
 		pnlEpSeason.add(spnEpSeason);
@@ -157,7 +168,7 @@ public class MainWindow {
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		pnlEpRating.add(lblNewLabel);
 		
-		JSpinner spnEpRating = new JSpinner();
+		spnEpRating = new JSpinner();
 		pnlEpRating.add(spnEpRating);
 		spnEpRating.setModel(new SpinnerNumberModel(Float.valueOf(0), Float.valueOf(0), Float.valueOf(100), Float.valueOf(0)));
 		GroupLayout gl_pnlEpFilters = new GroupLayout(pnlEpFilters);
@@ -245,7 +256,8 @@ public class MainWindow {
 		
 		JScrollPane scrollPane = new JScrollPane();
 		
-		JTree treeResults = new JTree();
+		treeResults = new JTree();
+		treeResults.setModel(resultsTreeModel);
 		treeResults.setRootVisible(false);
 		scrollPane.setViewportView(treeResults);
 		topPanel.add(scrollPane);
@@ -257,10 +269,42 @@ public class MainWindow {
 			putValue(NAME, "Search Index");
 			putValue(SHORT_DESCRIPTION, "Search for matches in the indexed information");
 		}
+		
+		/**
+		 * Reads all information from UI fields, adds them to a SearchParameters object and 
+		 * launches an index search
+		 */
 		public void actionPerformed(ActionEvent e) {
 			SearchParameters sp = new SearchParameters();
+			sp.addFilter(FilterFields.EPISODE_TITLE, txtEpTitle.getText());
 			
-			is.search(sp);
+			switch(comEpSeason.getSelectedItem().toString()) {
+			case ">":
+				sp.addFilter(FilterFields.EPISODE_SEASON_GREATER_THAN, spnEpSeason.getValue().toString());
+				break;
+			case "=":
+				sp.addFilter(FilterFields.EPISODE_SEASON_EQUAL_THAN, spnEpSeason.getValue().toString());
+				break;
+			case "<":
+				sp.addFilter(FilterFields.EPISODE_SEASON_LESSER_THAN, spnEpSeason.getValue().toString());
+				break;
+			}
+			
+			sp.addFilter(FilterFields.EPISODE_RATING_GREATER_THAN, spnEpRating.getValue().toString());
+			
+			sp.addFilter(FilterFields.LINE_CHARACTER, txtLineCharacter.getText());
+			
+			sp.addFilter(FilterFields.LINE_SPOKEN_WORDS, txtLineWords.getText());
+			
+			HashMap<String,ArrayList<String>> results = is.search(sp);
+			
+			treeRoot.removeAllChildren();
+			
+			results.forEach((episode, lines) -> {
+				treeRoot.add(new DefaultMutableTreeNode(episode));
+			});
+			
+			resultsTreeModel.reload(treeRoot);
 		}
 	}
 }

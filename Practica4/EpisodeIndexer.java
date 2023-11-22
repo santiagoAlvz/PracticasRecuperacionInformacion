@@ -30,8 +30,6 @@ import java.util.Date;
 import java.text.SimpleDateFormat;
 import java.nio.file.Path;
 
-
-
 public class EpisodeIndexer {
 
 	private IndexWriter writer;
