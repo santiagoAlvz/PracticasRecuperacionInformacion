@@ -2,14 +2,20 @@ package practica5;
 
 import java.util.ArrayList;
 
+import org.apache.lucene.document.FloatPoint;
 import org.apache.lucene.document.IntPoint;
+import org.apache.lucene.index.Term;
 import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.BooleanQuery;
+import org.apache.lucene.search.MatchAllDocsQuery;
+import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
+import org.apache.lucene.search.TermQuery;
 
 public class SearchParameters {
 	
 	private ArrayList<BooleanClause> episodeFilters = new ArrayList<BooleanClause>();
+	private ArrayList<BooleanClause> scriptFilters = new ArrayList<BooleanClause>();
 	
 	/**
 	 * Returns the Lucene query for the episode filters stored in the object, so it can be used
@@ -25,6 +31,23 @@ public class SearchParameters {
 		}
 		
 		return bqbuilder.build();
+	}
+	
+	public BooleanQuery getScriptQuery() {
+		BooleanQuery.Builder bqbuilder = new BooleanQuery.Builder();
+		
+		if(scriptFilters.size() > 0) {
+			
+			for(BooleanClause clause: scriptFilters) {
+				bqbuilder.add(clause);
+			}
+			
+		} else {
+			bqbuilder.add(new BooleanClause(new MatchAllDocsQuery(), BooleanClause.Occur.SHOULD));
+		}
+		
+		return bqbuilder.build();
+
 	}
 
 	/**
@@ -57,12 +80,20 @@ public class SearchParameters {
 			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
 			break;
 		case EPISODE_RATING_GREATER_THAN:
+			qe = FloatPoint.newRangeQuery("imdb_rating", Float.parseFloat(text), 10.0f);
+			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
 			break;
 		case EPISODE_TITLE:
+			qe = new TermQuery(new Term("title", text));
+			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
 			break;
 		case LINE_CHARACTER:
+			qe = new TermQuery(new Term("raw_character_text", text));
+			scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
 			break;
 		case LINE_SPOKEN_WORDS:
+			qe = new PhraseQuery("spoken_words", text);
+			scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
 			break;
 		default:
 			break;

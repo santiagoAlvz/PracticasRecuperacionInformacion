@@ -98,8 +98,8 @@ public class ScriptIndexer {
                     while((nextRecord = csvReader.readNext()) != null){
                     	Document doc = new Document();
                     	
-                    	doc.add(new IntPoint("episode_id", Integer.parseInt(nextRecord[0])));
-                    	doc.add(new StoredField("episode_id", nextRecord[0]));
+                    	doc.add(new IntPoint("episode_id", Integer.parseInt(nextRecord[1])));
+                    	doc.add(new StoredField("episode_id", nextRecord[1]));
                     	
                     	doc.add(new IntPoint("number", Integer.parseInt(nextRecord[2])));
                     	

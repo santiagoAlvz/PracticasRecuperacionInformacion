@@ -301,7 +301,13 @@ public class MainWindow {
 			treeRoot.removeAllChildren();
 			
 			results.forEach((episode, lines) -> {
-				treeRoot.add(new DefaultMutableTreeNode(episode));
+				
+				DefaultMutableTreeNode episodeNode = new DefaultMutableTreeNode(episode);
+				treeRoot.add(episodeNode);
+				
+				lines.forEach((line) -> {
+					episodeNode.add(new DefaultMutableTreeNode(line));
+				});
 			});
 			
 			resultsTreeModel.reload(treeRoot);
