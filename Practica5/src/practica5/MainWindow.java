@@ -170,7 +170,7 @@ public class MainWindow {
 		
 		spnEpRating = new JSpinner();
 		pnlEpRating.add(spnEpRating);
-		spnEpRating.setModel(new SpinnerNumberModel(Float.valueOf(0), Float.valueOf(0), Float.valueOf(100), Float.valueOf(0)));
+		spnEpRating.setModel(new SpinnerNumberModel(Float.valueOf(0), Float.valueOf(0), Float.valueOf(10), Float.valueOf(0.1f)));
 		GroupLayout gl_pnlEpFilters = new GroupLayout(pnlEpFilters);
 		gl_pnlEpFilters.setHorizontalGroup(
 			gl_pnlEpFilters.createParallelGroup(Alignment.LEADING)
