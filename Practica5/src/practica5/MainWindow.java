@@ -58,6 +58,7 @@ public class MainWindow {
 	private DefaultTreeModel resultsTreeModel = new DefaultTreeModel(treeRoot);
 	private IndexSearcher is = new IndexSearcher();
 	private final Action action = new searchIndex();
+	private JTextField textField;
 	/**
 	 * Launch the application.
 	 */
@@ -86,7 +87,7 @@ public class MainWindow {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setBounds(100, 100, 478, 363);
+		frame.setBounds(100, 100, 902, 469);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(new BoxLayout(frame.getContentPane(), BoxLayout.Y_AXIS));
 		
@@ -95,8 +96,34 @@ public class MainWindow {
 		frame.getContentPane().add(topPanel);
 		topPanel.setLayout(new BoxLayout(topPanel, BoxLayout.Y_AXIS));
 		
+		JPanel panel_2 = new JPanel();
+		topPanel.add(panel_2);
+		panel_2.setLayout(new BoxLayout(panel_2, BoxLayout.X_AXIS));
+		
+		JLabel lblGenericSearch = new JLabel("Generic Search");
+		panel_2.add(lblGenericSearch);
+		
+		Component horizontalStrut = Box.createHorizontalStrut(20);
+		panel_2.add(horizontalStrut);
+		
+		textField = new JTextField();
+		panel_2.add(textField);
+		textField.setColumns(10);
+		
+		JButton btnSearch_1 = new JButton("Search");
+		panel_2.add(btnSearch_1);
+		
+		Component verticalStrut_1 = Box.createVerticalStrut(20);
+		topPanel.add(verticalStrut_1);
+		
+		JPanel panel_3 = new JPanel();
+		topPanel.add(panel_3);
+		panel_3.setLayout(new BoxLayout(panel_3, BoxLayout.X_AXIS));
+		
 		JPanel pnlEpFilters = new JPanel();
+		panel_3.add(pnlEpFilters);
 		pnlEpFilters.setBorder(new TitledBorder(new LineBorder(new Color(184, 207, 229)), "Episode Filters", TitledBorder.LEADING, TitledBorder.TOP, null, new Color(51, 51, 51)));
+		pnlEpFilters.setLayout(new BoxLayout(pnlEpFilters, BoxLayout.X_AXIS));
 		
 		JPanel panel_1 = new JPanel();
 		GridBagLayout gbl_panel_1 = new GridBagLayout();
@@ -171,28 +198,16 @@ public class MainWindow {
 		spnEpRating = new JSpinner();
 		pnlEpRating.add(spnEpRating);
 		spnEpRating.setModel(new SpinnerNumberModel(Float.valueOf(0), Float.valueOf(0), Float.valueOf(10), Float.valueOf(0.1f)));
-		GroupLayout gl_pnlEpFilters = new GroupLayout(pnlEpFilters);
-		gl_pnlEpFilters.setHorizontalGroup(
-			gl_pnlEpFilters.createParallelGroup(Alignment.LEADING)
-				.addGroup(gl_pnlEpFilters.createSequentialGroup()
-					.addGap(18)
-					.addComponent(panel_1, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE))
-		);
-		gl_pnlEpFilters.setVerticalGroup(
-			gl_pnlEpFilters.createParallelGroup(Alignment.LEADING)
-				.addGroup(gl_pnlEpFilters.createSequentialGroup()
-					.addGap(5)
-					.addComponent(panel_1, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE))
-		);
-		pnlEpFilters.setLayout(gl_pnlEpFilters);
-		topPanel.add(pnlEpFilters);
+		pnlEpFilters.add(panel_1);
 		
 		JPanel pnlLineFilters = new JPanel();
+		panel_3.add(pnlLineFilters);
 		pnlLineFilters.setBorder(new TitledBorder(new LineBorder(new Color(184, 207, 229)), "Line Filters", TitledBorder.LEADING, TitledBorder.TOP, null, new Color(51, 51, 51)));
+		pnlLineFilters.setLayout(new BoxLayout(pnlLineFilters, BoxLayout.X_AXIS));
 		
 		JPanel panel = new JPanel();
 		GridBagLayout gbl_panel = new GridBagLayout();
-		gbl_panel.columnWidths = new int[] {160, 256, 0};
+		gbl_panel.columnWidths = new int[] {128, 256, 0};
 		gbl_panel.rowHeights = new int[] {26, 26, 0};
 		gbl_panel.columnWeights = new double[]{0.0, 0.0, Double.MIN_VALUE};
 		gbl_panel.rowWeights = new double[]{0.0, 0.0, Double.MIN_VALUE};
@@ -215,7 +230,7 @@ public class MainWindow {
 		panel.add(txtLineCharacter, gbc_txtLineCharacter);
 		txtLineCharacter.setColumns(10);
 		
-		JLabel lblLineWords = new JLabel("New label");
+		JLabel lblLineWords = new JLabel("Spoken Words");
 		GridBagConstraints gbc_lblLineWords = new GridBagConstraints();
 		gbc_lblLineWords.fill = GridBagConstraints.BOTH;
 		gbc_lblLineWords.insets = new Insets(0, 0, 0, 5);
@@ -230,21 +245,7 @@ public class MainWindow {
 		gbc_txtLineWords.gridy = 1;
 		panel.add(txtLineWords, gbc_txtLineWords);
 		txtLineWords.setColumns(10);
-		GroupLayout gl_pnlLineFilters = new GroupLayout(pnlLineFilters);
-		gl_pnlLineFilters.setHorizontalGroup(
-			gl_pnlLineFilters.createParallelGroup(Alignment.LEADING)
-				.addGroup(gl_pnlLineFilters.createSequentialGroup()
-					.addGap(23)
-					.addComponent(panel, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE))
-		);
-		gl_pnlLineFilters.setVerticalGroup(
-			gl_pnlLineFilters.createParallelGroup(Alignment.LEADING)
-				.addGroup(gl_pnlLineFilters.createSequentialGroup()
-					.addGap(5)
-					.addComponent(panel, GroupLayout.PREFERRED_SIZE, GroupLayout.DEFAULT_SIZE, GroupLayout.PREFERRED_SIZE))
-		);
-		pnlLineFilters.setLayout(gl_pnlLineFilters);
-		topPanel.add(pnlLineFilters);
+		pnlLineFilters.add(panel);
 		
 		JButton btnSearch = new JButton("Search");
 		btnSearch.setAction(action);
