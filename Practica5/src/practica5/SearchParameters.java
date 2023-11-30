@@ -2,6 +2,11 @@ package practica5;
 
 import java.util.ArrayList;
 
+import org.apache.lucene.queryparser.classic.ParseException;
+import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.core.SimpleAnalyzer;
+import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.document.FloatPoint;
 import org.apache.lucene.document.IntPoint;
 import org.apache.lucene.index.Term;
@@ -11,7 +16,6 @@ import org.apache.lucene.search.MatchAllDocsQuery;
 import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.TermQuery;
-
 public class SearchParameters {
 	
 	private ArrayList<BooleanClause> episodeFilters = new ArrayList<BooleanClause>();
@@ -65,35 +69,52 @@ public class SearchParameters {
 		}
 		
 		Query qe;
+		Analyzer an;
+		QueryParser parser;
 		
 		switch(field) {
 		case EPISODE_SEASON_GREATER_THAN:
 			qe = IntPoint.newRangeQuery("season", Integer.parseInt(text) + 1, 1000);
-			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 			break;
 		case EPISODE_SEASON_EQUAL_THAN:
 			qe = IntPoint.newExactQuery("season", Integer.parseInt(text));
-			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 			break;
 		case EPISODE_SEASON_LESSER_THAN:
 			qe = IntPoint.newRangeQuery("season", 0, Integer.parseInt(text) - 1);
-			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 			break;
 		case EPISODE_RATING_GREATER_THAN:
 			qe = FloatPoint.newRangeQuery("imdb_rating", Float.parseFloat(text), 10.0f);
-			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 			break;
 		case EPISODE_TITLE:
-			qe = new TermQuery(new Term("title", text));
-			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+			an = new EnglishAnalyzer();
+			parser = new QueryParser("title", an);
+			
+			try {
+				qe = parser.parse(text);
+				episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+			} catch (ParseException e) {
+				System.out.println(e.getMessage());
+			}
+			
 			break;
 		case LINE_CHARACTER:
-			qe = new TermQuery(new Term("raw_character_text", text));
-			scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+			an = new SimpleAnalyzer();
+			parser = new QueryParser("raw_character_text", an);
+			
+			try {
+				qe = parser.parse(text);
+				episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+			} catch (ParseException e) {
+				System.out.println(e.getMessage());
+			}
 			break;
 		case LINE_SPOKEN_WORDS:
 			qe = new PhraseQuery("spoken_words", text);
-			scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+			scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 			break;
 		default:
 			break;
