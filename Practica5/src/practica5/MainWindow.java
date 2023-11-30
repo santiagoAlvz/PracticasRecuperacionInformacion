@@ -33,6 +33,8 @@ import javax.swing.JLayeredPane;
 import javax.swing.JScrollPane;
 import javax.swing.Box;
 import java.awt.CardLayout;
+import java.awt.Checkbox;
+
 import javax.swing.border.EmptyBorder;
 import javax.swing.AbstractAction;
 import java.awt.event.ActionEvent;
@@ -44,6 +46,7 @@ import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreeModel;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.JCheckBox;
+
 
 public class MainWindow {
 
@@ -60,6 +63,8 @@ public class MainWindow {
 	private IndexSearcher is = new IndexSearcher();
 	private final Action action = new searchIndex();
 	private JTextField txtEpGeneric;
+	private JCheckBox checkBox_episode;
+	private JSpinner numberEpisode;
 	/**
 	 * Launch the application.
 	 */
@@ -174,7 +179,7 @@ public class MainWindow {
 		pnlEpSeason.add(comEpSeason);
 		pnlEpSeason.add(spnEpSeason);
 		
-		JLabel lblNumberInSeason = new JLabel("Number in season");
+		JLabel lblNumberInSeason = new JLabel("Episode");
 		GridBagConstraints gbc_lblNumberInSeason = new GridBagConstraints();
 		gbc_lblNumberInSeason.insets = new Insets(0, 0, 5, 5);
 		gbc_lblNumberInSeason.gridx = 0;
@@ -190,11 +195,11 @@ public class MainWindow {
 		panel_1.add(panel_4, gbc_panel_4);
 		panel_4.setLayout(new BoxLayout(panel_4, BoxLayout.X_AXIS));
 		
-		JCheckBox checkBox = new JCheckBox("");
-		panel_4.add(checkBox);
+		checkBox_episode = new JCheckBox("");
+		panel_4.add(checkBox_episode);
 		
-		JSpinner spinner = new JSpinner();
-		panel_4.add(spinner);
+		numberEpisode = new JSpinner();
+		panel_4.add(numberEpisode);
 		
 		JPanel pnlEpRating = new JPanel();
 		GridBagConstraints gbc_pnlEpRating = new GridBagConstraints();
@@ -323,6 +328,10 @@ public class MainWindow {
 				break;
 			}
 			
+			if (checkBox_episode.isSelected()) {
+				sp.addFilter(FilterFields.EPISODE, numberEpisode.getValue().toString());
+			}
+			
 			sp.addFilter(FilterFields.EPISODE_RATING_GREATER_THAN, spnEpRating.getValue().toString());
 			
 			sp.addFilter(FilterFields.LINE_CHARACTER, txtLineCharacter.getText());
@@ -339,9 +348,10 @@ public class MainWindow {
 			}
 			
 			else if (txtEpTitle.getText().isEmpty() && 
-					comEpSeason.getSelectedItem().toString() == ">" &&
+					comEpSeason.getSelectedItem().toString() == ">" &&	
 					spnEpSeason.getValue().equals(0) &&
-					Float.valueOf(0).equals(spnEpRating.getValue())) {
+					Float.valueOf(0).equals(spnEpRating.getValue()) &&
+					!checkBox_episode.isSelected()) {
 //				if nothing changed in episode Filter we will search the lines first
 				System.out.println("search Lines");
 				results = is.searchLines(sp);

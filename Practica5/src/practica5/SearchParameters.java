@@ -91,6 +91,10 @@ public class SearchParameters {
 			qe = FloatPoint.newRangeQuery("imdb_rating", Float.parseFloat(text), 10.0f);
 			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 			break;
+		case EPISODE:
+			qe = IntPoint.newExactQuery("number_in_season", Integer.parseInt(text));
+			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
+			break;
 		case EPISODE_TITLE:
 			an = new EnglishAnalyzer();
 			parser = new QueryParser("title", an);

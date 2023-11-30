@@ -106,8 +106,7 @@ public class IndexSearcher {
 			
 			for(int i = 0; i < episodesHits.length; i++) {
 				Document episode = episodeSearcher.doc(episodesHits[i].doc);
-				episodeData = episode.get("title") + " (" +episode.get("original_air_date")+ "), season: "+episode.get("season")+", US viewers "+episode.get("us_viewers_in_millions")+"M";
-				
+				episodeData = getEpisodeData(episode);
 				ArrayList<String> episodeLines = new ArrayList<String>();
 							
 				BooleanQuery.Builder bqbuilder = new BooleanQuery.Builder();
@@ -178,11 +177,16 @@ public class IndexSearcher {
 	}
 	
 	private String getEpisodeData(Document episode) {
-		return episode.get("title") + " (" +episode.get("original_air_date")+ "), season: "+episode.get("season")+", US viewers "+episode.get("us_viewers_in_millions")+"M";
+		return episode.get("title") + " (" +episode.get("original_air_date")+ ")"
+				+ ", season: "+episode.get("season")
+				+ ", episode: "+episode.get("number_in_season")
+				+", US viewers "+episode.get("us_viewers_in_millions")+"M";
 	}
 	
 	private String getLineData(Document line) {
-		return line.get("raw_character_text") + " ("+ line.get("raw_location_text") + "): "+line.get("spoken_words");
+		return line.get("raw_character_text")
+				+ " ("+ line.get("raw_location_text") 
+				+ "): "+line.get("spoken_words");
 	}
 
 }
