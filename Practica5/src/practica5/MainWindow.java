@@ -126,6 +126,7 @@ public class MainWindow {
 		pnlEpFilters.setLayout(new BoxLayout(pnlEpFilters, BoxLayout.X_AXIS));
 		
 		JPanel panel_1 = new JPanel();
+		panel_1.setBorder(new EmptyBorder(10, 10, 10, 10));
 		GridBagLayout gbl_panel_1 = new GridBagLayout();
 		gbl_panel_1.columnWidths = new int[] {160, 256, 0};
 		gbl_panel_1.rowHeights = new int[]{26, 26, 26, 0};
@@ -206,6 +207,7 @@ public class MainWindow {
 		pnlLineFilters.setLayout(new BoxLayout(pnlLineFilters, BoxLayout.X_AXIS));
 		
 		JPanel panel = new JPanel();
+		panel.setBorder(new EmptyBorder(10, 10, 10, 10));
 		GridBagLayout gbl_panel = new GridBagLayout();
 		gbl_panel.columnWidths = new int[] {128, 256, 0};
 		gbl_panel.rowHeights = new int[] {26, 26, 0};
