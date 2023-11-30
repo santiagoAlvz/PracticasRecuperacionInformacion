@@ -16,6 +16,7 @@ import org.apache.lucene.search.MatchAllDocsQuery;
 import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.TermQuery;
+
 public class SearchParameters {
 	
 	private ArrayList<BooleanClause> episodeFilters = new ArrayList<BooleanClause>();
@@ -74,6 +75,25 @@ public class SearchParameters {
 		
 		switch(field) {
 		case EPISODE_GENERIC:
+			
+			an = new EnglishAnalyzer();
+			
+			try {
+				parser = new QueryParser("title", an);
+				qe = parser.parse(text);
+//				Should operator is for clauses that should appear in the matching documents.
+				episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.SHOULD));
+				
+				parser = new QueryParser("spoken_words", an);
+				qe = parser.parse(text);
+				scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.SHOULD));
+				
+				break;
+			}
+			catch (ParseException e) {
+				System.out.println(e.getMessage());
+			}
+			
 			break;
 		case EPISODE_SEASON_GREATER_THAN:
 			qe = IntPoint.newRangeQuery("season", Integer.parseInt(text) + 1, 1000);

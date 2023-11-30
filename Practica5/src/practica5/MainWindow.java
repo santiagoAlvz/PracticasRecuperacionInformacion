@@ -312,6 +312,10 @@ public class MainWindow {
 		 */
 		public void actionPerformed(ActionEvent e) {
 			SearchParameters sp = new SearchParameters();
+			
+			sp.addFilter(FilterFields.EPISODE_GENERIC, txtEpGeneric.getText());
+			System.out.println(txtEpGeneric.getText());
+			
 			sp.addFilter(FilterFields.EPISODE_TITLE, txtEpTitle.getText());
 			
 			sp.addFilter(FilterFields.EPISODE_TITLE, txtEpTitle.getText());
@@ -339,8 +343,15 @@ public class MainWindow {
 			sp.addFilter(FilterFields.LINE_SPOKEN_WORDS, txtLineWords.getText());
 			
 			HashMap<String,ArrayList<String>> results;
-				
-			if (txtLineCharacter.getText().isEmpty() && 
+			
+			if (!txtEpGeneric.getText().isEmpty()) {
+//				if we have changes generic query we use episodes and lines
+				System.out.println("search Episodes and Lines");
+				results = is.search(sp);
+			}
+			
+			
+			else if (txtLineCharacter.getText().isEmpty() && 
 					txtLineWords.getText().isEmpty()) {
 //				if nothing changed in Line Filter we will search the episodes
 				System.out.println("search Episodes");
@@ -362,6 +373,8 @@ public class MainWindow {
 				System.out.println("search Episodes and Lines");
 				results = is.search(sp);
 			}
+			
+			
 			
 			
 			treeRoot.removeAllChildren();

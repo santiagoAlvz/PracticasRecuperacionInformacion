@@ -84,7 +84,6 @@ public class IndexSearcher {
 					returnValue.put(episodeData, episodeLines);
 				}
 				
-				System.out.println(episode.getFields());
 			}
 			
 		}catch(IOException e) {
