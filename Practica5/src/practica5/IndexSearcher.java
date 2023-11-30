@@ -93,4 +93,16 @@ public class IndexSearcher {
 		return returnValue;
 	}
 
+	public HashMap<String,ArrayList<String>> searchLines(SearchParameters sp) {
+		HashMap<String,ArrayList<String>> returnValue = new HashMap<String,ArrayList<String>>();
+		
+		return returnValue;
+	}
+	
+	public HashMap<String,ArrayList<String>> searchEpisodes(SearchParameters sp) {
+		HashMap<String,ArrayList<String>> returnValue = new HashMap<String,ArrayList<String>>();
+		
+		return returnValue;
+	}
+
 }
