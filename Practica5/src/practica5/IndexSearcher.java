@@ -83,11 +83,14 @@ public class IndexSearcher {
 				if(episodeLines.size() > 0) {
 					returnValue.put(episodeData, episodeLines);
 				}
+				
+				System.out.println(episode.getFields());
 			}
 			
 		}catch(IOException e) {
 			System.out.println(e.getMessage());
 		}
+		
 		
 		return returnValue;
 	}
@@ -180,7 +183,8 @@ public class IndexSearcher {
 		return episode.get("title") + " (" +episode.get("original_air_date")+ ")"
 				+ ", season: "+episode.get("season")
 				+ ", episode: "+episode.get("number_in_season")
-				+", US viewers "+episode.get("us_viewers_in_millions")+"M";
+				+ ", imdb rating: "+episode.get("imdb_rating")
+				+ ", US viewers "+episode.get("us_viewers_in_millions")+"M";
 	}
 	
 	private String getLineData(Document line) {

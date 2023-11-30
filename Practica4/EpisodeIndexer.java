@@ -108,6 +108,7 @@ public class EpisodeIndexer {
                     	doc.add(new TextField("raw_character_text", nextRecord[3], Field.Store.NO));
                     	
                     	doc.add(new FloatPoint("imdb_rating", Float.parseFloat(nextRecord[4])));
+                    	doc.add(new StoredField("imdb_rating", nextRecord[4]));
                     	
                     	doc.add(new IntPoint("imdb_votes", (int)Float.parseFloat(nextRecord[5])));
                     	
