@@ -55,7 +55,7 @@ public class IndexSearcher {
 		TopDocs episodes, lines;
 		
 		try {
-			episodes = episodeSearcher.search(sp.getEpisodeQuery(), 30);
+			episodes = episodeSearcher.search(sp.getEpisodeQuery(), 400);
 			ScoreDoc[] episodesHits = episodes.scoreDocs;
 			
 			for(int i = 0; i < episodesHits.length; i++) {

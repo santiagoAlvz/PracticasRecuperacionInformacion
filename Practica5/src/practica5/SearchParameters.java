@@ -107,14 +107,21 @@ public class SearchParameters {
 			
 			try {
 				qe = parser.parse(text);
-				episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+				scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
 			} catch (ParseException e) {
 				System.out.println(e.getMessage());
 			}
 			break;
 		case LINE_SPOKEN_WORDS:
-			qe = new PhraseQuery("spoken_words", text);
-			scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
+			an = new EnglishAnalyzer();
+			parser = new QueryParser("spoken_words", an);
+			
+			try {
+				qe = parser.parse(text);
+				scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+			} catch (ParseException e) {
+				System.out.println(e.getMessage());
+			}
 			break;
 		default:
 			break;
