@@ -170,7 +170,7 @@ public class MainWindow {
 		
 		spnEpRating = new JSpinner();
 		pnlEpRating.add(spnEpRating);
-		spnEpRating.setModel(new SpinnerNumberModel(Float.valueOf(0), Float.valueOf(0), Float.valueOf(100), Float.valueOf(0)));
+		spnEpRating.setModel(new SpinnerNumberModel(Float.valueOf(0), Float.valueOf(0), Float.valueOf(10), Float.valueOf(0.1f)));
 		GroupLayout gl_pnlEpFilters = new GroupLayout(pnlEpFilters);
 		gl_pnlEpFilters.setHorizontalGroup(
 			gl_pnlEpFilters.createParallelGroup(Alignment.LEADING)
@@ -296,7 +296,30 @@ public class MainWindow {
 			
 			sp.addFilter(FilterFields.LINE_SPOKEN_WORDS, txtLineWords.getText());
 			
-			HashMap<String,ArrayList<String>> results = is.search(sp);
+			HashMap<String,ArrayList<String>> results;
+				
+			if (txtLineCharacter.getText().isEmpty() && 
+					txtLineWords.getText().isEmpty()) {
+//				if nothing changed in Line Filter we will search the episodes
+				System.out.println("search Episodes");
+				results = is.searchEpisodes(sp);
+			}
+			
+			else if (txtEpTitle.getText().isEmpty() && 
+					comEpSeason.getSelectedItem().toString() == ">" &&
+					spnEpSeason.getValue().equals(0) &&
+					Float.valueOf(0).equals(spnEpRating.getValue())) {
+//				if nothing changed in episode Filter we will search the lines first
+				System.out.println("search Lines");
+				results = is.searchLines(sp);
+			}
+			
+			else {
+//				if we have changes in Episode and Line Filters we will search episodes and lines
+				System.out.println("search Episodes and Lines");
+				results = is.search(sp);
+			}
+			
 			
 			treeRoot.removeAllChildren();
 			
@@ -305,12 +328,18 @@ public class MainWindow {
 				DefaultMutableTreeNode episodeNode = new DefaultMutableTreeNode(episode);
 				treeRoot.add(episodeNode);
 				
-				lines.forEach((line) -> {
-					episodeNode.add(new DefaultMutableTreeNode(line));
-				});
+				try {
+				    lines.forEach((line) -> {
+				        episodeNode.add(new DefaultMutableTreeNode(line));
+				    });
+				} catch (NullPointerException e1) {
+					// The catch block is empty, indicating no specific action to be taken
+				}
+							
 			});
 			
 			resultsTreeModel.reload(treeRoot);
+			
 		}
 	}
 }
