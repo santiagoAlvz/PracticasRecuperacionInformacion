@@ -73,6 +73,8 @@ public class SearchParameters {
 		QueryParser parser;
 		
 		switch(field) {
+		case EPISODE_GENERIC:
+			break;
 		case EPISODE_SEASON_GREATER_THAN:
 			qe = IntPoint.newRangeQuery("season", Integer.parseInt(text) + 1, 1000);
 			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));

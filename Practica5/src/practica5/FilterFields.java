@@ -1,6 +1,7 @@
 package practica5;
 
 public enum FilterFields {
+	EPISODE_GENERIC,
 	EPISODE_TITLE,
 	EPISODE_SEASON_GREATER_THAN,
 	EPISODE_SEASON_LESSER_THAN,

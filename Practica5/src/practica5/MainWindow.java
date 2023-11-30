@@ -43,6 +43,7 @@ import javax.swing.Action;
 import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreeModel;
 import javax.swing.tree.DefaultMutableTreeNode;
+import javax.swing.JCheckBox;
 
 public class MainWindow {
 
@@ -58,7 +59,7 @@ public class MainWindow {
 	private DefaultTreeModel resultsTreeModel = new DefaultTreeModel(treeRoot);
 	private IndexSearcher is = new IndexSearcher();
 	private final Action action = new searchIndex();
-	private JTextField textField;
+	private JTextField txtEpGeneric;
 	/**
 	 * Launch the application.
 	 */
@@ -100,18 +101,15 @@ public class MainWindow {
 		topPanel.add(panel_2);
 		panel_2.setLayout(new BoxLayout(panel_2, BoxLayout.X_AXIS));
 		
-		JLabel lblGenericSearch = new JLabel("Generic Search");
+		JLabel lblGenericSearch = new JLabel("Generic Episode Search");
 		panel_2.add(lblGenericSearch);
 		
 		Component horizontalStrut = Box.createHorizontalStrut(20);
 		panel_2.add(horizontalStrut);
 		
-		textField = new JTextField();
-		panel_2.add(textField);
-		textField.setColumns(10);
-		
-		JButton btnSearch_1 = new JButton("Search");
-		panel_2.add(btnSearch_1);
+		txtEpGeneric = new JTextField();
+		panel_2.add(txtEpGeneric);
+		txtEpGeneric.setColumns(10);
 		
 		Component verticalStrut_1 = Box.createVerticalStrut(20);
 		topPanel.add(verticalStrut_1);
@@ -129,9 +127,9 @@ public class MainWindow {
 		panel_1.setBorder(new EmptyBorder(10, 10, 10, 10));
 		GridBagLayout gbl_panel_1 = new GridBagLayout();
 		gbl_panel_1.columnWidths = new int[] {160, 256, 0};
-		gbl_panel_1.rowHeights = new int[]{26, 26, 26, 0};
-		gbl_panel_1.columnWeights = new double[]{0.0, 0.0, Double.MIN_VALUE};
-		gbl_panel_1.rowWeights = new double[]{0.0, 0.0, 0.0, Double.MIN_VALUE};
+		gbl_panel_1.rowHeights = new int[] {26, 26, 26, 26, 0};
+		gbl_panel_1.columnWeights = new double[]{0.0, 1.0, Double.MIN_VALUE};
+		gbl_panel_1.rowWeights = new double[]{0.0, 0.0, 1.0, 0.0, Double.MIN_VALUE};
 		panel_1.setLayout(gbl_panel_1);
 		
 		JLabel lblEpTitle = new JLabel("Title");
@@ -176,19 +174,33 @@ public class MainWindow {
 		pnlEpSeason.add(comEpSeason);
 		pnlEpSeason.add(spnEpSeason);
 		
-		JLabel lblEpRating = new JLabel("Episode Rating (IMDB)");
-		GridBagConstraints gbc_lblEpRating = new GridBagConstraints();
-		gbc_lblEpRating.fill = GridBagConstraints.BOTH;
-		gbc_lblEpRating.insets = new Insets(0, 0, 0, 5);
-		gbc_lblEpRating.gridx = 0;
-		gbc_lblEpRating.gridy = 2;
-		panel_1.add(lblEpRating, gbc_lblEpRating);
+		JLabel lblNumberInSeason = new JLabel("Number in season");
+		GridBagConstraints gbc_lblNumberInSeason = new GridBagConstraints();
+		gbc_lblNumberInSeason.insets = new Insets(0, 0, 5, 5);
+		gbc_lblNumberInSeason.gridx = 0;
+		gbc_lblNumberInSeason.gridy = 2;
+		panel_1.add(lblNumberInSeason, gbc_lblNumberInSeason);
+		
+		JPanel panel_4 = new JPanel();
+		GridBagConstraints gbc_panel_4 = new GridBagConstraints();
+		gbc_panel_4.insets = new Insets(0, 0, 5, 0);
+		gbc_panel_4.fill = GridBagConstraints.BOTH;
+		gbc_panel_4.gridx = 1;
+		gbc_panel_4.gridy = 2;
+		panel_1.add(panel_4, gbc_panel_4);
+		panel_4.setLayout(new BoxLayout(panel_4, BoxLayout.X_AXIS));
+		
+		JCheckBox checkBox = new JCheckBox("");
+		panel_4.add(checkBox);
+		
+		JSpinner spinner = new JSpinner();
+		panel_4.add(spinner);
 		
 		JPanel pnlEpRating = new JPanel();
 		GridBagConstraints gbc_pnlEpRating = new GridBagConstraints();
 		gbc_pnlEpRating.fill = GridBagConstraints.BOTH;
 		gbc_pnlEpRating.gridx = 1;
-		gbc_pnlEpRating.gridy = 2;
+		gbc_pnlEpRating.gridy = 3;
 		panel_1.add(pnlEpRating, gbc_pnlEpRating);
 		pnlEpRating.setLayout(new GridLayout(0, 2, 0, 0));
 		
@@ -200,6 +212,14 @@ public class MainWindow {
 		pnlEpRating.add(spnEpRating);
 		spnEpRating.setModel(new SpinnerNumberModel(Float.valueOf(0), Float.valueOf(0), Float.valueOf(10), Float.valueOf(0.1f)));
 		pnlEpFilters.add(panel_1);
+		
+		JLabel lblEpRating = new JLabel("Episode Rating (IMDB)");
+		GridBagConstraints gbc_lblEpRating = new GridBagConstraints();
+		gbc_lblEpRating.fill = GridBagConstraints.BOTH;
+		gbc_lblEpRating.insets = new Insets(0, 0, 0, 5);
+		gbc_lblEpRating.gridx = 0;
+		gbc_lblEpRating.gridy = 3;
+		panel_1.add(lblEpRating, gbc_lblEpRating);
 		
 		JPanel pnlLineFilters = new JPanel();
 		panel_3.add(pnlLineFilters);
@@ -249,6 +269,9 @@ public class MainWindow {
 		txtLineWords.setColumns(10);
 		pnlLineFilters.add(panel);
 		
+		Component verticalStrut_2 = Box.createVerticalStrut(20);
+		topPanel.add(verticalStrut_2);
+		
 		JButton btnSearch = new JButton("Search");
 		btnSearch.setAction(action);
 		btnSearch.setAlignmentX(Component.CENTER_ALIGNMENT);
@@ -256,6 +279,11 @@ public class MainWindow {
 		
 		Component verticalStrut = Box.createVerticalStrut(20);
 		topPanel.add(verticalStrut);
+		
+		JLabel lblResults = new JLabel("Results");
+		lblResults.setAlignmentY(0.0f);
+		lblResults.setHorizontalAlignment(SwingConstants.LEFT);
+		topPanel.add(lblResults);
 		
 		JScrollPane scrollPane = new JScrollPane();
 		
@@ -279,6 +307,8 @@ public class MainWindow {
 		 */
 		public void actionPerformed(ActionEvent e) {
 			SearchParameters sp = new SearchParameters();
+			sp.addFilter(FilterFields.EPISODE_TITLE, txtEpTitle.getText());
+			
 			sp.addFilter(FilterFields.EPISODE_TITLE, txtEpTitle.getText());
 			
 			switch(comEpSeason.getSelectedItem().toString()) {
