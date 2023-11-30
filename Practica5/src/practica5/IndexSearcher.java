@@ -55,7 +55,7 @@ public class IndexSearcher {
 		TopDocs episodes, lines;
 		
 		try {
-			episodes = episodeSearcher.search(sp.getEpisodeQuery(), 400);
+			episodes = episodeSearcher.search(sp.getEpisodeQuery(), 30);
 			ScoreDoc[] episodesHits = episodes.scoreDocs;
 			
 			for(int i = 0; i < episodesHits.length; i++) {
@@ -95,6 +95,50 @@ public class IndexSearcher {
 
 	public HashMap<String,ArrayList<String>> searchLines(SearchParameters sp) {
 		HashMap<String,ArrayList<String>> returnValue = new HashMap<String,ArrayList<String>>();
+		
+		String episodeData, lineData;
+		TopDocs episodes, lines;
+		Document line, episode;
+
+		try {
+			lines = scriptSearcher.search(sp.getScriptQuery(), 40);
+			ScoreDoc[] linesHits = lines.scoreDocs;
+			HashMap<Integer, ArrayList<String>> groupedEpisodes = new HashMap<Integer, ArrayList<String>>();
+						
+			for(int i = 0; i < linesHits.length; i++) {
+				line = scriptSearcher.doc(linesHits[i].doc);
+				lineData = line.get("raw_character_text") + " ("+ line.get("raw_location_text") + "): "+line.get("spoken_words");
+				int episodeId = Integer.parseInt(line.get("episode_id"));
+				
+				if(!groupedEpisodes.containsKey(episodeId)) {
+					groupedEpisodes.put(episodeId, new ArrayList<String>());
+				}
+				
+				groupedEpisodes.get(episodeId).add(lineData);
+			}
+			
+			groupedEpisodes.forEach((episodeId, linesData) -> {
+				try {
+					episodes = episodeSearcher.search(IntPoint.newExactQuery("episode_id", episodeId), 1);
+					ScoreDoc[] episodesHits = episodes.scoreDocs;
+					
+					if(episodesHits.length > 0) {
+						episode = episodeSearcher.doc(episodesHits[0].doc);
+						episodeData = episode.get("title") + " (" +episode.get("original_air_date")+ "), season: "+episode.get("season")+", US viewers "+episode.get("us_viewers_in_millions")+"M";	
+					} else {
+						episodeData = "Unknown Episode";
+					}
+					
+					returnValue.put(episodeData, linesData);
+					
+				} catch (IOException e) {
+					System.out.println(e.getMessage());
+				} 
+			});
+
+		} catch (IOException e) {
+			System.out.println(e.getMessage());
+		} 
 		
 		return returnValue;
 	}

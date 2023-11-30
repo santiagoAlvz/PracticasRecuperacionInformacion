@@ -6,6 +6,7 @@ import org.apache.lucene.document.Field;
 import org.apache.lucene.document.IntPoint;
 import org.apache.lucene.document.StoredField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.analysis.core.SimpleAnalyzer;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.search.similarities.Similarity;
@@ -47,8 +48,7 @@ public class ScriptIndexer {
 	void configureIndex() throws IOException {
 		Map<String,Analyzer> analyzerPerField = new HashMap<String,Analyzer>();
 		analyzerPerField.put("spoken_words", new EnglishAnalyzer());
-		analyzerPerField.put("raw_character_text", new CharacterTextAnalyzer());
-		analyzerPerField.put("title", new EnglishAnalyzer());
+		analyzerPerField.put("raw_character_text", new SimpleAnalyzer());
 
 		PerFieldAnalyzerWrapper analyzer = new PerFieldAnalyzerWrapper(new WhitespaceAnalyzer(), analyzerPerField);
 		Similarity sim = new ClassicSimilarity();
