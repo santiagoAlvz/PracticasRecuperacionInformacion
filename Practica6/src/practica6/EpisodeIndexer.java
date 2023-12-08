@@ -9,12 +9,24 @@ import org.apache.lucene.document.IntPoint;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.StoredField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.facet.FacetField;
+import org.apache.lucene.facet.FacetResult;
+import org.apache.lucene.facet.FacetsCollector;
+import org.apache.lucene.facet.FacetsConfig;
+import org.apache.lucene.facet.taxonomy.FastTaxonomyFacetCounts;
+import org.apache.lucene.facet.taxonomy.TaxonomyReader;
+import org.apache.lucene.facet.taxonomy.directory.DirectoryTaxonomyReader;
+import org.apache.lucene.facet.taxonomy.directory.DirectoryTaxonomyWriter;
+import org.apache.lucene.facet.Facets;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.search.similarities.Similarity;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.MatchAllDocsQuery;
 import org.apache.lucene.search.similarities.ClassicSimilarity;
+import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
 
 import com.opencsv.CSVReader;
@@ -25,17 +37,23 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.HashMap;
+import java.util.List;
 import java.io.Reader;
 import java.io.FileReader;
+import java.util.ArrayList;
 import java.util.Date;
+import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.nio.file.Path;
 
 public class EpisodeIndexer {
 
-	private IndexWriter writer;
+	private IndexWriter indexWriter;
+	private DirectoryTaxonomyWriter taxoWriter;
+	FacetsConfig fconfig;
 	private boolean create = false;
-	private String indexPath = "./index/episodes";
+	private String indexPath = "./index/episodes/index";
+	private String facetPath = "./index/episodes/facets";
 
 	EpisodeIndexer(boolean create){
 		this.create = create;
@@ -64,9 +82,14 @@ public class EpisodeIndexer {
 			iwc.setOpenMode(IndexWriterConfig.OpenMode.APPEND);
 		}
 		
-		Directory dir = FSDirectory.open(Paths.get(this.indexPath));
+	    fconfig = new FacetsConfig();
+	    fconfig.setHierarchical("original_air_date", true);
 		
-		this.writer = new IndexWriter(dir, iwc);
+		Directory indexDir = FSDirectory.open(Paths.get(this.indexPath));
+		Directory taxoDir = FSDirectory.open(Paths.get(this.facetPath));
+		
+		this.indexWriter = new IndexWriter(indexDir, iwc);
+		this.taxoWriter = new DirectoryTaxonomyWriter(taxoDir);
 
 	} 
 
@@ -81,6 +104,8 @@ public class EpisodeIndexer {
     	
 		File folder = new File(uri);
 		File[] files = folder.listFiles();
+		
+		DateFormat df = new SimpleDateFormat("yyyy");
 			
 		for (File file : files) {
             if (file.isFile()) {
@@ -118,16 +143,17 @@ public class EpisodeIndexer {
                     	
                     	try {                    	
 	                    	Date date = new SimpleDateFormat("yyyy-MM-dd").parse(nextRecord[7]);
-	                    	
-	                    	doc.add(new LongPoint("original_air_date", date.getTime()));
+	                    		                    	
+	                    	//doc.add(new LongPoint("original_air_date", date.getTime()));
 	                    	doc.add(new StoredField("original_air_date", nextRecord[7]));
+	                    	
                     	} catch(Exception e) {
                     		System.out.println(e.getMessage());
                     	}
                     	
-                    	doc.add(new IntPoint("original_air_year", Integer.parseInt(nextRecord[8])));
+                    	doc.add(new FacetField("original_air_year", nextRecord[8]));
                     	
-                    	doc.add(new IntPoint("season", Integer.parseInt(nextRecord[9])));
+                    	doc.add(new FacetField("season", nextRecord[9]));
                     	doc.add(new StoredField("season", nextRecord[9]));
                     	
                     	doc.add(new TextField("title", nextRecord[10], Field.Store.YES));
@@ -137,7 +163,7 @@ public class EpisodeIndexer {
                     	
                     	doc.add(new FloatPoint("views", Float.parseFloat(nextRecord[12])));
                     	
-                    	writer.addDocument(doc);
+                    	indexWriter.addDocument(fconfig.build(taxoWriter, doc));
                     }
                     
                     csvReader.close();
@@ -152,6 +178,26 @@ public class EpisodeIndexer {
             }
         }
 		
+		/*try {
+		Directory indexDir = FSDirectory.open(Paths.get(this.indexPath));
+		Directory taxoDir = FSDirectory.open(Paths.get(this.facetPath));
+		
+	    DirectoryReader indexReader = DirectoryReader.open(indexDir);
+	    IndexSearcher searcher = new IndexSearcher(indexReader);
+	    TaxonomyReader taxoReader = new DirectoryTaxonomyReader(taxoDir);
+	    FacetsCollector fc = new FacetsCollector();
+	    FacetsCollector.search(searcher, new MatchAllDocsQuery(), 10, fc);
+	    List<FacetResult> results = new ArrayList<>();
+	    Facets facets = new FastTaxonomyFacetCounts(taxoReader, fconfig, fc);
+	    results.add(facets.getTopChildren(20, "original_air_date"));
+	    indexReader.close();
+	    taxoReader.close();
+	    
+	    System.out.println(results);
+		}catch(Exception e) {
+			System.out.println(e.getMessage());
+		}*/
+		
 		close();
     }
         
@@ -159,8 +205,11 @@ public class EpisodeIndexer {
 	
 	public void close() {
 		try {
-			writer.commit();
-			writer.close();
+			indexWriter.commit();
+			indexWriter.close();
+			
+			taxoWriter.commit();
+			taxoWriter.close();
 		}catch (IOException e) {
 			System.out.println("Error closing the index");
 		}
