@@ -7,6 +7,9 @@ import org.apache.lucene.document.Field;
 import org.apache.lucene.document.IntPoint;
 import org.apache.lucene.document.StoredField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.facet.FacetField;
+import org.apache.lucene.facet.FacetsConfig;
+import org.apache.lucene.facet.taxonomy.directory.DirectoryTaxonomyWriter;
 import org.apache.lucene.analysis.core.SimpleAnalyzer;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.index.IndexWriterConfig;
@@ -28,13 +31,15 @@ import java.io.Reader;
 import java.io.FileReader;
 import java.nio.file.Path;
 
-
-
 public class ScriptIndexer {
 
-	private IndexWriter writer;
+	private IndexWriter indexWriter;
+	private DirectoryTaxonomyWriter taxoWriter;
+	FacetsConfig fconfig;
 	boolean create = false;
-	String indexPath = "./index/scripts";
+	private String indexPath = "./index/scripts/index";
+	private String facetPath = "./index/scripts/facets";
+
 
 	ScriptIndexer(boolean create){
 		this.create = create;
@@ -63,10 +68,13 @@ public class ScriptIndexer {
 			iwc.setOpenMode(IndexWriterConfig.OpenMode.APPEND);
 		}
 		
-		Directory dir = FSDirectory.open(Paths.get(this.indexPath));
+		fconfig = new FacetsConfig();
 		
-		this.writer = new IndexWriter(dir, iwc);
-
+		Directory indexDir = FSDirectory.open(Paths.get(this.indexPath));
+		Directory taxoDir = FSDirectory.open(Paths.get(this.facetPath));
+		
+		this.indexWriter = new IndexWriter(indexDir, iwc);
+		this.taxoWriter = new DirectoryTaxonomyWriter(taxoDir);
 	} 
 
 	public void index(String uri){
@@ -106,13 +114,13 @@ public class ScriptIndexer {
                     	
                     	doc.add(new IntPoint("timestamp_in_ms", Integer.parseInt(nextRecord[3])));
                     	
-                    	doc.add(new TextField("raw_character_text", nextRecord[4], Field.Store.YES));
+                    	doc.add(new FacetField("raw_character_text", nextRecord[4]));
          
                     	doc.add(new TextField("raw_location_text", nextRecord[5], Field.Store.YES));
              
                     	doc.add(new TextField("spoken_words", nextRecord[6], Field.Store.YES));
                     	
-                    	writer.addDocument(doc);
+                    	indexWriter.addDocument(fconfig.build(taxoWriter, doc));
                     }
                     
                     csvReader.close();
@@ -136,8 +144,11 @@ public class ScriptIndexer {
 	
 	public void close() {
 		try {
-			writer.commit();
-			writer.close();
+			indexWriter.commit();
+			indexWriter.close();
+			
+			taxoWriter.commit();
+			taxoWriter.close();
 		}catch (IOException e) {
 			System.out.println("Error closing the index");
 		}

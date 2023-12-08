@@ -83,7 +83,6 @@ public class EpisodeIndexer {
 		}
 		
 	    fconfig = new FacetsConfig();
-	    fconfig.setHierarchical("original_air_date", true);
 		
 		Directory indexDir = FSDirectory.open(Paths.get(this.indexPath));
 		Directory taxoDir = FSDirectory.open(Paths.get(this.facetPath));
