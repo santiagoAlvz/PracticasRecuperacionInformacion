@@ -10,4 +10,5 @@ module Practica6 {
 	requires org.apache.lucene.analysis.common;
 	requires com.opencsv;
 	requires org.apache.lucene.facet;
+	requires org.apache.lucene.queryparser;
 }
