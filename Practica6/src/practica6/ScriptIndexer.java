@@ -138,10 +138,7 @@ public class ScriptIndexer {
         }
 		
 		close();
-    }
-
-	
-	
+    }	
 	
 	public void close() {
 		try {

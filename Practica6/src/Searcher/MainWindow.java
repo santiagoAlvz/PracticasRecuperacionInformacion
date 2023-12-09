@@ -19,6 +19,7 @@ import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
 import javax.swing.JInternalFrame;
 import javax.swing.DefaultComboBoxModel;
+import javax.swing.DefaultListModel;
 import javax.swing.SpinnerNumberModel;
 import java.awt.GridBagLayout;
 import java.awt.GridBagConstraints;
@@ -39,20 +40,25 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.AbstractAction;
 import java.awt.event.ActionEvent;
 import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 
 import javax.swing.Action;
 import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreeModel;
+
+import org.apache.lucene.facet.LabelAndValue;
+
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.JCheckBox;
 import javax.swing.JList;
 import javax.swing.AbstractListModel;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
 
 
 public class MainWindow {
 
-	private JFrame frame;
+	private JFrame frmSearcher;
 	private JTextField txtEpTitle;
 	private JTextField txtLineWords;
 	private JSpinner spnEpRating;
@@ -64,6 +70,10 @@ public class MainWindow {
 	private JTextField txtEpGeneric;
 	private JCheckBox checkBox_episode;
 	private JSpinner numberEpisode;
+	private JLabel lblResults;
+	private DefaultListModel<String> lstEpYearsModel; 
+	private JButton btnApplyFilters;
+	
 	/**
 	 * Launch the application.
 	 */
@@ -72,7 +82,7 @@ public class MainWindow {
 			public void run() {
 				try {
 					MainWindow window = new MainWindow();
-					window.frame.setVisible(true);
+					window.frmSearcher.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
@@ -91,18 +101,19 @@ public class MainWindow {
 	 * Initialize the contents of the frame.
 	 */
 	private void initialize() {
-		frame = new JFrame();
-		frame.setBounds(100, 100, 902, 618);
-		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.getContentPane().setLayout(new BoxLayout(frame.getContentPane(), BoxLayout.Y_AXIS));
+		frmSearcher = new JFrame();
+		frmSearcher.setTitle("Searcher");
+		frmSearcher.setBounds(100, 100, 902, 618);
+		frmSearcher.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frmSearcher.getContentPane().setLayout(new BoxLayout(frmSearcher.getContentPane(), BoxLayout.Y_AXIS));
 		
 		JPanel topPanel = new JPanel();
 		topPanel.setBorder(new EmptyBorder(10, 10, 10, 10));
-		frame.getContentPane().add(topPanel);
+		frmSearcher.getContentPane().add(topPanel);
 		GridBagLayout gbl_topPanel = new GridBagLayout();
 		gbl_topPanel.columnWidths = new int[]{872, 0};
 		gbl_topPanel.rowHeights = new int[]{30, 0, 116, 27, 0, 17, 253, 0};
-		gbl_topPanel.columnWeights = new double[]{0.0, Double.MIN_VALUE};
+		gbl_topPanel.columnWeights = new double[]{1.0, Double.MIN_VALUE};
 		gbl_topPanel.rowWeights = new double[]{0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, Double.MIN_VALUE};
 		topPanel.setLayout(gbl_topPanel);
 		
@@ -272,7 +283,7 @@ public class MainWindow {
 		gbc_verticalStrut.gridy = 4;
 		topPanel.add(verticalStrut, gbc_verticalStrut);
 		
-		JLabel lblResults = new JLabel("Results");
+		lblResults = new JLabel("Results");
 		lblResults.setAlignmentY(0.0f);
 		lblResults.setHorizontalAlignment(SwingConstants.LEFT);
 		GridBagConstraints gbc_lblResults = new GridBagConstraints();
@@ -293,6 +304,7 @@ public class MainWindow {
 		panel_5.setLayout(new BoxLayout(panel_5, BoxLayout.X_AXIS));
 		
 		JPanel panel_6 = new JPanel();
+		panel_6.setAlignmentY(Component.TOP_ALIGNMENT);
 		panel_6.setBorder(new EmptyBorder(10, 10, 10, 10));
 		panel_5.add(panel_6);
 		GridBagLayout gbl_panel_6 = new GridBagLayout();
@@ -352,30 +364,25 @@ public class MainWindow {
 		
 		JLabel lblYear = new JLabel("Year");
 		GridBagConstraints gbc_lblYear = new GridBagConstraints();
+		gbc_lblYear.anchor = GridBagConstraints.NORTHWEST;
 		gbc_lblYear.fill = GridBagConstraints.HORIZONTAL;
 		gbc_lblYear.insets = new Insets(0, 0, 5, 5);
 		gbc_lblYear.gridx = 0;
 		gbc_lblYear.gridy = 3;
 		panel_6.add(lblYear, gbc_lblYear);
 		
-		JList list = new JList();
-		list.setModel(new AbstractListModel() {
-			String[] values = new String[] {};
-			public int getSize() {
-				return values.length;
-			}
-			public Object getElementAt(int index) {
-				return values[index];
-			}
-		});
-		GridBagConstraints gbc_list = new GridBagConstraints();
-		gbc_list.insets = new Insets(0, 0, 5, 0);
-		gbc_list.fill = GridBagConstraints.BOTH;
-		gbc_list.gridx = 1;
-		gbc_list.gridy = 3;
-		panel_6.add(list, gbc_list);
+		lstEpYearsModel = new DefaultListModel<>();
+		JList<String> lstEpYears = new JList<String>();
+		lstEpYears.setModel(lstEpYearsModel);
+		GridBagConstraints gbc_lstEpYears = new GridBagConstraints();
+		gbc_lstEpYears.insets = new Insets(0, 0, 5, 0);
+		gbc_lstEpYears.fill = GridBagConstraints.BOTH;
+		gbc_lstEpYears.gridx = 1;
+		gbc_lstEpYears.gridy = 3;
+		panel_6.add(lstEpYears, gbc_lstEpYears);
 		
-		JButton btnApplyFilters = new JButton("Apply Filters");
+		btnApplyFilters = new JButton("Apply Filters");
+		btnApplyFilters.setEnabled(false);
 		GridBagConstraints gbc_btnApplyFilters = new GridBagConstraints();
 		gbc_btnApplyFilters.fill = GridBagConstraints.HORIZONTAL;
 		gbc_btnApplyFilters.gridwidth = 2;
@@ -388,6 +395,8 @@ public class MainWindow {
 		//panel_5.add(list);
 		
 		treeResults = new JTree();
+		treeResults.setBorder(new LineBorder(new Color(0, 0, 0)));
+		treeResults.setAlignmentY(Component.TOP_ALIGNMENT);
 		panel_5.add(treeResults);
 		treeResults.setModel(resultsTreeModel);
 		treeResults.setRootVisible(false);
@@ -422,7 +431,7 @@ public class MainWindow {
 			
 			sp.addFilter(FilterFields.LINE_SPOKEN_WORDS, txtLineWords.getText());
 			
-			HashMap<String,ArrayList<String>> results;
+			LinkedHashMap<String,ArrayList<String>> results;
 			
 			if (!txtEpGeneric.getText().isEmpty()) {
 //				if we have changes generic query we use episodes and lines
@@ -456,23 +465,30 @@ public class MainWindow {
 			
 			treeRoot.removeAllChildren();
 			
-			results.forEach((episode, lines) -> {
-				
+			int episodeCount = 0, lineCount = 0;
+			ArrayList<String> lines;
+			
+			for(String episode: results.keySet()) {
 				DefaultMutableTreeNode episodeNode = new DefaultMutableTreeNode(episode);
 				treeRoot.add(episodeNode);
-				
-				try {
-				    lines.forEach((line) -> {
-				        episodeNode.add(new DefaultMutableTreeNode(line));
-				    });
-				} catch (NullPointerException e1) {
-					// The catch block is empty, indicating no specific action to be taken
+				episodeCount++;
+								
+				lines = results.get(episode);
+				if(lines != null) for(String line: lines) {
+					episodeNode.add(new DefaultMutableTreeNode(line));
+			        lineCount++;
 				}
-							
-			});
+			}
+			
+			lblResults.setText("Results ("+episodeCount+" episodes, "+lineCount+" lines)");
+			
+			lstEpYearsModel.clear();
+			for(LabelAndValue f: is.getResultYearsFacets()) {
+				lstEpYearsModel.addElement("" + f);
+			}					
 			
 			resultsTreeModel.reload(treeRoot);
-			
+			btnApplyFilters.setEnabled(true);		
 		}
 	}
 }
