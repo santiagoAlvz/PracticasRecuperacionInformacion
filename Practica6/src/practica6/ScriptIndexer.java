@@ -114,6 +114,7 @@ public class ScriptIndexer {
                     	
                     	doc.add(new IntPoint("timestamp_in_ms", Integer.parseInt(nextRecord[3])));
                     	
+                    	doc.add(new StoredField("raw_character_text", nextRecord[4]));
                     	doc.add(new FacetField("raw_character_text", nextRecord[4]));
          
                     	doc.add(new TextField("raw_location_text", nextRecord[5], Field.Store.YES));
