@@ -32,7 +32,7 @@ public class IndexSearcher {
 	private String episodesIndexPath = "./index/episodes/index/";
 	private String episodesFacetPath = "./index/episodes/facets/";
 	private String scriptsIndexPath = "./index/scripts/index/";
-	private String scriptsFacetPath = "./index/episodes/facets/";
+	private String scriptsFacetPath = "./index/scripts/facets/";
 	
 	private org.apache.lucene.search.IndexSearcher episodeSearcher;
 	private org.apache.lucene.search.IndexSearcher scriptSearcher;
@@ -40,7 +40,7 @@ public class IndexSearcher {
 	private TaxonomyReader scriptTaxoReader;
 	private FacetsCollector fc = new FacetsCollector();
 	
-	private LabelAndValue episodeYears[] = {};
+	private LabelAndValue episodeYears[] = {}, lineCharacters[] = {};
 	
 	/**
 	 * Loads the indexes from the filesystem
@@ -76,6 +76,8 @@ public class IndexSearcher {
 		String episodeData, lineData;
 		TopDocs episodes, lines;
 		fc = new FacetsCollector();
+		FacetsCollector lineFC = new FacetsCollector();
+		boolean foundLines = false;
 		
 		try {
 			episodes = episodeSearcher.search(sp.getEpisodeQuery(), 30);
@@ -93,25 +95,29 @@ public class IndexSearcher {
 				bqbuilder.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 				BooleanQuery query = bqbuilder.build();
 				
-				lines = scriptSearcher.search(query, 20);
-				ScoreDoc[] linesHits = lines.scoreDocs;
-				
-				for(int j = 0; j < linesHits.length; j++) {
-					Document line = scriptSearcher.doc(linesHits[j].doc);
-
-					episodeLines.add(getLineData(line));
-				}
-				
-				//For every episode that'll be included in the results, perform a search so its facets are included in fc
-				if(episodeLines.size() > 0) {
+				lines = FacetsCollector.search(scriptSearcher, query, 80, lineFC);
+				if(lines.scoreDocs.length > 0){
+					foundLines = true;
 					returnValue.put(episodeData, episodeLines);
+					
 					FacetsCollector.search(episodeSearcher, qe, 1, fc);
-				}				
+					
+					for(ScoreDoc lineDoc: lines.scoreDocs) {
+						Document line = scriptSearcher.doc(lineDoc.doc);
+	
+						episodeLines.add(getLineData(line));
+					}
+				}			
 			}
 			
 			if(episodes.scoreDocs.length > 0) {
 				Facets episodeFacets = new FastTaxonomyFacetCounts(episodeTaxoReader, new FacetsConfig(), fc);
 				episodeYears = episodeFacets.getTopChildren(100,"original_air_year").labelValues;
+			}
+			
+			if(foundLines) {
+				Facets lineFacets = new FastTaxonomyFacetCounts(scriptTaxoReader, new FacetsConfig(), lineFC);				
+				lineCharacters = lineFacets.getTopChildren(100, "raw_character_text").labelValues;
 			}
 			
 		}catch(IOException e) {
@@ -148,8 +154,6 @@ public class IndexSearcher {
 				returnValue.put(episodeData,null);
 			}
 			
-			//fc.
-			
 		}catch(IOException e) {
 			System.out.println(e.getMessage());
 		}
@@ -163,12 +167,13 @@ public class IndexSearcher {
 		String episodeData, lineData;
 		TopDocs episodes, lines;
 		Document line, episode;
-		fc = new FacetsCollector();
+		FacetsCollector fc = new FacetsCollector();
+		FacetsCollector lineFC = new FacetsCollector();
 		
 		LinkedHashMap<String,ArrayList<String>> returnValue = new LinkedHashMap<String,ArrayList<String>>();
 
 		try {
-			lines = scriptSearcher.search(sp.getScriptQuery(), 100);
+			lines = FacetsCollector.search(scriptSearcher, sp.getScriptQuery(), 100, lineFC);
 			ScoreDoc[] linesHits = lines.scoreDocs;
 			LinkedHashMap<Integer, ArrayList<String>> groupedEpisodes = new LinkedHashMap<Integer, ArrayList<String>>();
 						
@@ -207,6 +212,9 @@ public class IndexSearcher {
 			if(linesHits.length > 0) {
 				Facets episodeFacets = new FastTaxonomyFacetCounts(episodeTaxoReader, new FacetsConfig(), fc);
 				episodeYears = episodeFacets.getTopChildren(100,"original_air_year").labelValues;
+				
+				Facets lineFacets = new FastTaxonomyFacetCounts(new DirectoryTaxonomyReader(FSDirectory.open(Paths.get(scriptsFacetPath))), new FacetsConfig(), lineFC);
+				lineCharacters = lineFacets.getTopChildren(10, "raw_character_text").labelValues;
 			}
 
 		} catch (IOException e) {
@@ -232,6 +240,10 @@ public class IndexSearcher {
 	
 	public LabelAndValue[] getResultYearsFacets() {
 		return episodeYears;
+	}
+	
+	public LabelAndValue[] getResultCharactersFacets() {
+		return lineCharacters;
 	}
 
 }

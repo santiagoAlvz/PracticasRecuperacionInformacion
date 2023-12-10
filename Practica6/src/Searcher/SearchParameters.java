@@ -21,6 +21,8 @@ public class SearchParameters {
 	
 	private ArrayList<BooleanClause> episodeFilters = new ArrayList<BooleanClause>();
 	private ArrayList<BooleanClause> scriptFilters = new ArrayList<BooleanClause>();
+	private BooleanQuery.Builder episodeBQBuilder = new BooleanQuery.Builder();
+	private BooleanQuery.Builder scriptBQBuilder = new BooleanQuery.Builder();
 	private DrillDownQuery episodeFacetFilters;
 	private boolean facetsApplied = false;
 	
@@ -39,32 +41,13 @@ public class SearchParameters {
 			return episodeFacetFilters;
 		}
 		
-		BooleanQuery.Builder bqbuilder = new BooleanQuery.Builder();
-		
-		for(BooleanClause clause: episodeFilters) {
-			bqbuilder.add(clause);
-		}
-		
-		episodeFacetFilters = new DrillDownQuery(new FacetsConfig(), bqbuilder.build());
+		episodeFacetFilters = new DrillDownQuery(new FacetsConfig(), episodeBQBuilder.build());
 				
-		return bqbuilder.build();
+		return episodeBQBuilder.build();
 	}
 	
-	public Query getScriptQuery() {
-		BooleanQuery.Builder bqbuilder = new BooleanQuery.Builder();
-		
-		if(scriptFilters.size() > 0) {
-			
-			for(BooleanClause clause: scriptFilters) {
-				bqbuilder.add(clause);
-			}
-			
-		} else {
-			bqbuilder.add(new BooleanClause(new MatchAllDocsQuery(), BooleanClause.Occur.SHOULD));
-		}
-		
-		return bqbuilder.build();
-
+	public Query getScriptQuery() {		
+		return scriptBQBuilder.build();
 	}
 
 	/**
@@ -94,11 +77,11 @@ public class SearchParameters {
 				parser = new QueryParser("title", an);
 				qe = parser.parse(text);
 //				Should operator is for clauses that should appear in the matching documents.
-				episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.SHOULD));
+				episodeBQBuilder.add(new BooleanClause(qe, BooleanClause.Occur.SHOULD));
 				
 				parser = new QueryParser("spoken_words", an);
 				qe = parser.parse(text);
-				scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.SHOULD));
+				scriptBQBuilder.add(new BooleanClause(qe, BooleanClause.Occur.SHOULD));
 				
 				break;
 			}
@@ -109,11 +92,11 @@ public class SearchParameters {
 			break;
 		case EPISODE_RATING_GREATER_THAN:
 			qe = FloatPoint.newRangeQuery("imdb_rating", Float.parseFloat(text), 10.0f);
-			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
+			episodeBQBuilder.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 			break;
 		case EPISODE:
 			qe = IntPoint.newExactQuery("number_in_season", Integer.parseInt(text));
-			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
+			episodeBQBuilder.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 			break;
 		case EPISODE_TITLE:
 			an = new EnglishAnalyzer();
@@ -121,7 +104,7 @@ public class SearchParameters {
 			
 			try {
 				qe = parser.parse(text);
-				episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+				episodeBQBuilder.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
 			} catch (ParseException e) {
 				System.out.println(e.getMessage());
 			}
@@ -133,7 +116,7 @@ public class SearchParameters {
 			
 			try {
 				qe = parser.parse(text);
-				scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+				scriptBQBuilder.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
 			} catch (ParseException e) {
 				System.out.println(e.getMessage());
 			}
@@ -144,7 +127,7 @@ public class SearchParameters {
 			
 			try {
 				qe = parser.parse(text);
-				scriptFilters.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
+				scriptBQBuilder.add(new BooleanClause(qe, BooleanClause.Occur.MUST));
 			} catch (ParseException e) {
 				System.out.println(e.getMessage());
 			}

@@ -75,10 +75,12 @@ public class MainWindow {
 	private DefaultListModel<String> lstEpYearsModel; 
 	private JButton btnApplyFilters;
 	private JList<String> lstEpYears;
-	private LabelAndValue[] episodeYears;
+	private LabelAndValue[] episodeYears, lineCharacters;
 	private SearchParameters sp = new SearchParameters();
 	private SearchTypes searchType;
 	private final Action action_1 = new SwingAction();
+	private JComboBox cmbLineCharacter;
+	private DefaultComboBoxModel<String> cmbLineCharacterModel;
 	
 	/**
 	 * Launch the application.
@@ -328,13 +330,15 @@ public class MainWindow {
 		gbc_lblCharacter.gridy = 0;
 		panel_6.add(lblCharacter, gbc_lblCharacter);
 		
-		JComboBox comboBox = new JComboBox();
-		GridBagConstraints gbc_comboBox = new GridBagConstraints();
-		gbc_comboBox.fill = GridBagConstraints.BOTH;
-		gbc_comboBox.insets = new Insets(0, 0, 5, 0);
-		gbc_comboBox.gridx = 1;
-		gbc_comboBox.gridy = 0;
-		panel_6.add(comboBox, gbc_comboBox);
+		cmbLineCharacter = new JComboBox();
+		cmbLineCharacterModel = new DefaultComboBoxModel();
+		cmbLineCharacter.setModel(cmbLineCharacterModel);
+		GridBagConstraints gbc_cmbLineCharacter = new GridBagConstraints();
+		gbc_cmbLineCharacter.fill = GridBagConstraints.BOTH;
+		gbc_cmbLineCharacter.insets = new Insets(0, 0, 5, 0);
+		gbc_cmbLineCharacter.gridx = 1;
+		gbc_cmbLineCharacter.gridy = 0;
+		panel_6.add(cmbLineCharacter, gbc_cmbLineCharacter);
 		
 		JLabel lblNewLabel_1 = new JLabel("Min Season");
 		GridBagConstraints gbc_lblNewLabel_1 = new GridBagConstraints();
@@ -491,12 +495,15 @@ public class MainWindow {
 		switch(searchType) {
 		case EPISODES_AND_LINES:
 			results = is.search(sp);
+			cmbLineCharacter.setEnabled(true);
 			break;
 		case EPISODES_ONLY:
 			results = is.searchEpisodes(sp);
+			cmbLineCharacter.setEnabled(false);
 			break;
 		case LINES_ONLY:
 			results = is.searchLines(sp);
+			cmbLineCharacter.setEnabled(true);
 			break;
 		default:
 			results = new LinkedHashMap<String,ArrayList<String>>();
@@ -523,10 +530,19 @@ public class MainWindow {
 		lblResults.setText("Results ("+episodeCount+" episodes, "+lineCount+" lines)");
 		
 		lstEpYearsModel.clear();
+		cmbLineCharacterModel.removeAllElements();
+		
 		episodeYears = is.getResultYearsFacets();
 		for(LabelAndValue f: episodeYears) {
 			lstEpYearsModel.addElement("" + f);
 		}					
+		
+		lineCharacters = is.getResultCharactersFacets();
+		for(LabelAndValue f: lineCharacters) {
+			cmbLineCharacterModel.addElement("" + f);
+		}
+		cmbLineCharacterModel.insertElementAt("All Characters ("+lineCount+")", 0);
+		cmbLineCharacter.setSelectedIndex(0);
 		
 		resultsTreeModel.reload(treeRoot);
 		btnApplyFilters.setEnabled(true);

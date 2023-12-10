@@ -116,6 +116,7 @@ public class ScriptIndexer {
                     	
                     	doc.add(new StoredField("raw_character_text", nextRecord[4]));
                     	doc.add(new FacetField("raw_character_text", nextRecord[4]));
+                    	//System.out.println(nextRecord[4]);
          
                     	doc.add(new TextField("raw_location_text", nextRecord[5], Field.Store.YES));
              
