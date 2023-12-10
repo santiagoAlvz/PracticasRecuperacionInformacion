@@ -188,16 +188,20 @@ public class IndexSearcher {
 			
 			//Get episode information, and add it to the result
 			for(int episodeId: groupedEpisodes.keySet()) {
-				episodes = FacetsCollector.search(episodeSearcher, IntPoint.newExactQuery("episode_id", episodeId), 1, fc);
+				BooleanQuery.Builder bqbuilder = new BooleanQuery.Builder();
+				bqbuilder.add(new BooleanClause(sp.getEpisodeQuery(), BooleanClause.Occur.MUST));
+				
+				Query qe = IntPoint.newExactQuery("episode_id", episodeId);
+				bqbuilder.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
+				BooleanQuery query = bqbuilder.build();
+				
+				episodes = FacetsCollector.search(episodeSearcher, query, 1, fc);
 							
 				if(episodes.scoreDocs.length > 0) {
 					episode = episodeSearcher.doc(episodes.scoreDocs[0].doc);
 					episodeData = getEpisodeData(episode);
-				} else {
-					episodeData = "Unknown Episode";
+					returnValue.put(episodeData, groupedEpisodes.get(episodeId));
 				}
-				
-				returnValue.put(episodeData, groupedEpisodes.get(episodeId));
 			}
 			
 			if(linesHits.length > 0) {

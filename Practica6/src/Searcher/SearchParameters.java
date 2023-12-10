@@ -12,13 +12,10 @@ import org.apache.lucene.document.IntPoint;
 import org.apache.lucene.facet.DrillDownQuery;
 import org.apache.lucene.facet.FacetsConfig;
 import org.apache.lucene.facet.LabelAndValue;
-import org.apache.lucene.index.Term;
 import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.MatchAllDocsQuery;
-import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
-import org.apache.lucene.search.TermQuery;
 
 public class SearchParameters {
 	
@@ -33,6 +30,10 @@ public class SearchParameters {
 	 * 
 	 * @return The BooleanQuery representation of the episode filters
 	 */
+	public SearchParameters() {
+		episodeFacetFilters = new DrillDownQuery(new FacetsConfig());
+	}
+	
 	public Query getEpisodeQuery() {
 		if(facetsApplied) {
 			return episodeFacetFilters;
@@ -45,7 +46,7 @@ public class SearchParameters {
 		}
 		
 		episodeFacetFilters = new DrillDownQuery(new FacetsConfig(), bqbuilder.build());
-		
+				
 		return bqbuilder.build();
 	}
 	
