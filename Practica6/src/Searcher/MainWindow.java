@@ -485,6 +485,10 @@ public class MainWindow {
 			sp.addFacetFilter(FacetFilters.EPISODE_YEAR, episodeYears[index]);
 		}
 		
+		if(cmbLineCharacter.getSelectedIndex() != 0) {
+			sp.addFacetFilter(FacetFilters.LINE_CHARACTER, lineCharacters[cmbLineCharacter.getSelectedIndex() - 1]);
+		}
+		
 		searchIndex();
 		}
 	}
@@ -541,8 +545,13 @@ public class MainWindow {
 		for(LabelAndValue f: lineCharacters) {
 			cmbLineCharacterModel.addElement("" + f);
 		}
+		
 		cmbLineCharacterModel.insertElementAt("All Characters ("+lineCount+")", 0);
-		cmbLineCharacter.setSelectedIndex(0);
+		if(lineCharacters.length != 1) {
+			cmbLineCharacter.setSelectedIndex(0);
+		} else {
+			cmbLineCharacter.setSelectedIndex(1);
+		}
 		
 		resultsTreeModel.reload(treeRoot);
 		btnApplyFilters.setEnabled(true);

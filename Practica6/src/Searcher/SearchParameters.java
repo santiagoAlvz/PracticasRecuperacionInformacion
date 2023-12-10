@@ -19,12 +19,13 @@ import org.apache.lucene.search.Query;
 
 public class SearchParameters {
 	
-	private ArrayList<BooleanClause> episodeFilters = new ArrayList<BooleanClause>();
-	private ArrayList<BooleanClause> scriptFilters = new ArrayList<BooleanClause>();
+	//private ArrayList<BooleanClause> episodeFilters = new ArrayList<BooleanClause>();
+	//private ArrayList<BooleanClause> scriptFilters = new ArrayList<BooleanClause>();
 	private BooleanQuery.Builder episodeBQBuilder = new BooleanQuery.Builder();
 	private BooleanQuery.Builder scriptBQBuilder = new BooleanQuery.Builder();
 	private DrillDownQuery episodeFacetFilters;
-	private boolean facetsApplied = false;
+	private DrillDownQuery lineFacetFilters;
+	private boolean lineFacetsApplied = false, episodeFacetsApplied = false;
 	
 	/**
 	 * Returns the Lucene query for the episode filters stored in the object, so it can be used
@@ -37,7 +38,7 @@ public class SearchParameters {
 	}
 	
 	public Query getEpisodeQuery() {
-		if(facetsApplied) {
+		if(episodeFacetsApplied) {
 			return episodeFacetFilters;
 		}
 		
@@ -46,7 +47,13 @@ public class SearchParameters {
 		return episodeBQBuilder.build();
 	}
 	
-	public Query getScriptQuery() {		
+	public Query getScriptQuery() {
+		if(lineFacetsApplied) {
+			return lineFacetFilters;
+		}
+		
+		lineFacetFilters = new DrillDownQuery(new FacetsConfig(), scriptBQBuilder.build());
+		
 		return scriptBQBuilder.build();
 	}
 
@@ -137,12 +144,15 @@ public class SearchParameters {
 		}
 	}
 
-	public void addFacetFilter(FacetFilters facet, LabelAndValue episodeYears) {
-		facetsApplied = true;
-		
+	public void addFacetFilter(FacetFilters facet, LabelAndValue facetData) {		
 		switch(facet) {
 		case EPISODE_YEAR:
-			episodeFacetFilters.add("original_air_year", episodeYears.label);
+			episodeFacetsApplied = true;
+			episodeFacetFilters.add("original_air_year", facetData.label);
+			break;
+		case LINE_CHARACTER:
+			lineFacetsApplied = true;
+			lineFacetFilters.add("raw_character_text", facetData.label);
 			break;
 		default:
 			break;		
