@@ -309,12 +309,25 @@ public class MainWindow {
 		
 		JPanel panel_5 = new JPanel();
 		scrollPane.setViewportView(panel_5);
-		panel_5.setLayout(new BoxLayout(panel_5, BoxLayout.X_AXIS));
+		GridBagLayout gbl_panel_5 = new GridBagLayout();
+		gbl_panel_5.columnWidths = new int[]{243, -551, 0};
+		gbl_panel_5.rowHeights = new int[]{303, 0};
+		gbl_panel_5.columnWeights = new double[]{0.0, 1.0, Double.MIN_VALUE};
+		gbl_panel_5.rowWeights = new double[]{1.0, Double.MIN_VALUE};
+		panel_5.setLayout(gbl_panel_5);
+		cmbLineCharacterModel = new DefaultComboBoxModel();
+		
+		lstEpYearsModel = new DefaultListModel<>();
 		
 		JPanel panel_6 = new JPanel();
 		panel_6.setAlignmentY(Component.TOP_ALIGNMENT);
 		panel_6.setBorder(new EmptyBorder(10, 10, 10, 10));
-		panel_5.add(panel_6);
+		GridBagConstraints gbc_panel_6 = new GridBagConstraints();
+		gbc_panel_6.fill = GridBagConstraints.VERTICAL;
+		gbc_panel_6.insets = new Insets(0, 0, 0, 5);
+		gbc_panel_6.gridx = 0;
+		gbc_panel_6.gridy = 0;
+		panel_5.add(panel_6, gbc_panel_6);
 		GridBagLayout gbl_panel_6 = new GridBagLayout();
 		gbl_panel_6.columnWidths = new int[]{118, 162, 0};
 		gbl_panel_6.rowHeights = new int[] {26, 26, 26, 26, 26, 0};
@@ -331,7 +344,6 @@ public class MainWindow {
 		panel_6.add(lblCharacter, gbc_lblCharacter);
 		
 		cmbLineCharacter = new JComboBox();
-		cmbLineCharacterModel = new DefaultComboBoxModel();
 		cmbLineCharacter.setModel(cmbLineCharacterModel);
 		GridBagConstraints gbc_cmbLineCharacter = new GridBagConstraints();
 		gbc_cmbLineCharacter.fill = GridBagConstraints.BOTH;
@@ -380,8 +392,6 @@ public class MainWindow {
 		gbc_lblYear.gridx = 0;
 		gbc_lblYear.gridy = 3;
 		panel_6.add(lblYear, gbc_lblYear);
-		
-		lstEpYearsModel = new DefaultListModel<>();
 		lstEpYears = new JList<String>();
 		lstEpYears.setModel(lstEpYearsModel);
 		GridBagConstraints gbc_lstEpYears = new GridBagConstraints();
@@ -406,9 +416,12 @@ public class MainWindow {
 		//panel_5.add(list);
 		
 		treeResults = new JTree();
-		treeResults.setBorder(new LineBorder(new Color(0, 0, 0)));
 		treeResults.setAlignmentY(Component.TOP_ALIGNMENT);
-		panel_5.add(treeResults);
+		GridBagConstraints gbc_treeResults = new GridBagConstraints();
+		gbc_treeResults.fill = GridBagConstraints.BOTH;
+		gbc_treeResults.gridx = 1;
+		gbc_treeResults.gridy = 0;
+		panel_5.add(treeResults, gbc_treeResults);
 		treeResults.setModel(resultsTreeModel);
 		treeResults.setRootVisible(false);
 	}
