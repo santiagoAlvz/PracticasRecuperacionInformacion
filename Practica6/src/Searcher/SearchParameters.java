@@ -9,6 +9,9 @@ import org.apache.lucene.analysis.core.SimpleAnalyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.document.FloatPoint;
 import org.apache.lucene.document.IntPoint;
+import org.apache.lucene.facet.DrillDownQuery;
+import org.apache.lucene.facet.FacetsConfig;
+import org.apache.lucene.facet.LabelAndValue;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.BooleanQuery;
@@ -21,6 +24,8 @@ public class SearchParameters {
 	
 	private ArrayList<BooleanClause> episodeFilters = new ArrayList<BooleanClause>();
 	private ArrayList<BooleanClause> scriptFilters = new ArrayList<BooleanClause>();
+	private DrillDownQuery episodeFacetFilters;
+	private boolean facetsApplied = false;
 	
 	/**
 	 * Returns the Lucene query for the episode filters stored in the object, so it can be used
@@ -28,17 +33,23 @@ public class SearchParameters {
 	 * 
 	 * @return The BooleanQuery representation of the episode filters
 	 */
-	public BooleanQuery getEpisodeQuery() {
+	public Query getEpisodeQuery() {
+		if(facetsApplied) {
+			return episodeFacetFilters;
+		}
+		
 		BooleanQuery.Builder bqbuilder = new BooleanQuery.Builder();
 		
 		for(BooleanClause clause: episodeFilters) {
 			bqbuilder.add(clause);
 		}
 		
+		episodeFacetFilters = new DrillDownQuery(new FacetsConfig(), bqbuilder.build());
+		
 		return bqbuilder.build();
 	}
 	
-	public BooleanQuery getScriptQuery() {
+	public Query getScriptQuery() {
 		BooleanQuery.Builder bqbuilder = new BooleanQuery.Builder();
 		
 		if(scriptFilters.size() > 0) {
@@ -95,18 +106,6 @@ public class SearchParameters {
 			}
 			
 			break;
-		case EPISODE_SEASON_GREATER_THAN:
-			qe = IntPoint.newRangeQuery("season", Integer.parseInt(text) + 1, 1000);
-			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
-			break;
-		case EPISODE_SEASON_EQUAL_THAN:
-			qe = IntPoint.newExactQuery("season", Integer.parseInt(text));
-			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
-			break;
-		case EPISODE_SEASON_LESSER_THAN:
-			qe = IntPoint.newRangeQuery("season", 0, Integer.parseInt(text) - 1);
-			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
-			break;
 		case EPISODE_RATING_GREATER_THAN:
 			qe = FloatPoint.newRangeQuery("imdb_rating", Float.parseFloat(text), 10.0f);
 			episodeFilters.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
@@ -151,6 +150,18 @@ public class SearchParameters {
 			break;
 		default:
 			break;
+		}
+	}
+
+	public void addFacetFilter(FacetFilters facet, LabelAndValue episodeYears) {
+		facetsApplied = true;
+		
+		switch(facet) {
+		case EPISODE_YEAR:
+			episodeFacetFilters.add("original_air_year", episodeYears.label);
+			break;
+		default:
+			break;		
 		}
 	}
 		

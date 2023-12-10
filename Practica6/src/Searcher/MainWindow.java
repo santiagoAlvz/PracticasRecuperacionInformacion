@@ -41,6 +41,7 @@ import javax.swing.AbstractAction;
 import java.awt.event.ActionEvent;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
+import java.util.List;
 
 import javax.swing.Action;
 import javax.swing.tree.DefaultTreeModel;
@@ -73,6 +74,11 @@ public class MainWindow {
 	private JLabel lblResults;
 	private DefaultListModel<String> lstEpYearsModel; 
 	private JButton btnApplyFilters;
+	private JList<String> lstEpYears;
+	private LabelAndValue[] episodeYears;
+	private SearchParameters sp = new SearchParameters();
+	private SearchTypes searchType;
+	private final Action action_1 = new SwingAction();
 	
 	/**
 	 * Launch the application.
@@ -372,7 +378,7 @@ public class MainWindow {
 		panel_6.add(lblYear, gbc_lblYear);
 		
 		lstEpYearsModel = new DefaultListModel<>();
-		JList<String> lstEpYears = new JList<String>();
+		lstEpYears = new JList<String>();
 		lstEpYears.setModel(lstEpYearsModel);
 		GridBagConstraints gbc_lstEpYears = new GridBagConstraints();
 		gbc_lstEpYears.insets = new Insets(0, 0, 5, 0);
@@ -382,6 +388,7 @@ public class MainWindow {
 		panel_6.add(lstEpYears, gbc_lstEpYears);
 		
 		btnApplyFilters = new JButton("Apply Filters");
+		btnApplyFilters.setAction(action_1);
 		btnApplyFilters.setEnabled(false);
 		GridBagConstraints gbc_btnApplyFilters = new GridBagConstraints();
 		gbc_btnApplyFilters.fill = GridBagConstraints.HORIZONTAL;
@@ -414,7 +421,7 @@ public class MainWindow {
 		 * launches an index search
 		 */
 		public void actionPerformed(ActionEvent e) {
-			SearchParameters sp = new SearchParameters();
+			sp = new SearchParameters();
 			
 			sp.addFilter(FilterFields.EPISODE_GENERIC, txtEpGeneric.getText());
 			System.out.println(txtEpGeneric.getText());
@@ -431,19 +438,16 @@ public class MainWindow {
 			
 			sp.addFilter(FilterFields.LINE_SPOKEN_WORDS, txtLineWords.getText());
 			
-			LinkedHashMap<String,ArrayList<String>> results;
-			
 			if (!txtEpGeneric.getText().isEmpty()) {
 //				if we have changes generic query we use episodes and lines
 				System.out.println("search Episodes and Lines");
-				results = is.search(sp);
-			}
-			
+				searchType = SearchTypes.EPISODES_AND_LINES;
+			}			
 			
 			else if (txtLineWords.getText().isEmpty()) {
 //				if nothing changed in Line Filter we will search the episodes
 				System.out.println("search Episodes");
-				results = is.searchEpisodes(sp);
+				searchType = SearchTypes.EPISODES_ONLY;
 			}
 			
 			else if (txtEpTitle.getText().isEmpty() &&
@@ -451,44 +455,80 @@ public class MainWindow {
 					!checkBox_episode.isSelected()) {
 //				if nothing changed in episode Filter we will search the lines first
 				System.out.println("search Lines");
-				results = is.searchLines(sp);
+				searchType = SearchTypes.LINES_ONLY;
 			}
 			
 			else {
 //				if we have changes in Episode and Line Filters we will search episodes and lines
 				System.out.println("search Episodes and Lines");
-				results = is.search(sp);
-			}
+				searchType = SearchTypes.EPISODES_AND_LINES;
+			}	
 			
-			
-			
-			
-			treeRoot.removeAllChildren();
-			
-			int episodeCount = 0, lineCount = 0;
-			ArrayList<String> lines;
-			
-			for(String episode: results.keySet()) {
-				DefaultMutableTreeNode episodeNode = new DefaultMutableTreeNode(episode);
-				treeRoot.add(episodeNode);
-				episodeCount++;
-								
-				lines = results.get(episode);
-				if(lines != null) for(String line: lines) {
-					episodeNode.add(new DefaultMutableTreeNode(line));
-			        lineCount++;
-				}
-			}
-			
-			lblResults.setText("Results ("+episodeCount+" episodes, "+lineCount+" lines)");
-			
-			lstEpYearsModel.clear();
-			for(LabelAndValue f: is.getResultYearsFacets()) {
-				lstEpYearsModel.addElement("" + f);
-			}					
-			
-			resultsTreeModel.reload(treeRoot);
-			btnApplyFilters.setEnabled(true);		
+			searchIndex();					
 		}
+	}
+	private class SwingAction extends AbstractAction {
+		public SwingAction() {
+			putValue(NAME, "Apply Filters");
+			putValue(SHORT_DESCRIPTION, "Limit results by categories");
+			
+			//lst
+		}
+	public void actionPerformed(ActionEvent e) {
+		int selectedYears[] = lstEpYears.getSelectedIndices();
+		
+		for(int index: selectedYears) {
+			sp.addFacetFilter(FacetFilters.EPISODE_YEAR, episodeYears[index]);
+		}
+		
+		searchIndex();
+		}
+	}
+
+	private void searchIndex() {
+		LinkedHashMap<String,ArrayList<String>> results;
+
+		switch(searchType) {
+		case EPISODES_AND_LINES:
+			results = is.search(sp);
+			break;
+		case EPISODES_ONLY:
+			results = is.searchEpisodes(sp);
+			break;
+		case LINES_ONLY:
+			results = is.searchLines(sp);
+			break;
+		default:
+			results = new LinkedHashMap<String,ArrayList<String>>();
+			break;	
+		}
+		
+		treeRoot.removeAllChildren();
+		
+		int episodeCount = 0, lineCount = 0;
+		ArrayList<String> lines;
+		
+		for(String episode: results.keySet()) {
+			DefaultMutableTreeNode episodeNode = new DefaultMutableTreeNode(episode);
+			treeRoot.add(episodeNode);
+			episodeCount++;
+							
+			lines = results.get(episode);
+			if(lines != null) for(String line: lines) {
+				episodeNode.add(new DefaultMutableTreeNode(line));
+		        lineCount++;
+			}
+		}
+		
+		lblResults.setText("Results ("+episodeCount+" episodes, "+lineCount+" lines)");
+		
+		lstEpYearsModel.clear();
+		episodeYears = is.getResultYearsFacets();
+		for(LabelAndValue f: episodeYears) {
+			lstEpYearsModel.addElement("" + f);
+		}					
+		
+		resultsTreeModel.reload(treeRoot);
+		btnApplyFilters.setEnabled(true);
 	}
 }
