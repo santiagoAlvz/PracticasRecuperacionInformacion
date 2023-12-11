@@ -79,7 +79,7 @@ public class MainWindow {
 	private SearchParameters sp = new SearchParameters();
 	private SearchTypes searchType;
 	private final Action action_1 = new SwingAction();
-	private JComboBox cmbLineCharacter;
+	private JComboBox<String> cmbLineCharacter;
 	private DefaultComboBoxModel<String> cmbLineCharacterModel;
 	
 	/**
@@ -315,7 +315,7 @@ public class MainWindow {
 		gbl_panel_5.columnWeights = new double[]{0.0, 1.0, Double.MIN_VALUE};
 		gbl_panel_5.rowWeights = new double[]{1.0, Double.MIN_VALUE};
 		panel_5.setLayout(gbl_panel_5);
-		cmbLineCharacterModel = new DefaultComboBoxModel();
+		cmbLineCharacterModel = new DefaultComboBoxModel<String>();
 		
 		lstEpYearsModel = new DefaultListModel<>();
 		
@@ -343,7 +343,7 @@ public class MainWindow {
 		gbc_lblCharacter.gridy = 0;
 		panel_6.add(lblCharacter, gbc_lblCharacter);
 		
-		cmbLineCharacter = new JComboBox();
+		cmbLineCharacter = new JComboBox<String>();
 		cmbLineCharacter.setModel(cmbLineCharacterModel);
 		GridBagConstraints gbc_cmbLineCharacter = new GridBagConstraints();
 		gbc_cmbLineCharacter.fill = GridBagConstraints.BOTH;
@@ -485,6 +485,7 @@ public class MainWindow {
 		}
 	}
 	private class SwingAction extends AbstractAction {
+		private static final long serialVersionUID = -2798350407730982158L;
 		public SwingAction() {
 			putValue(NAME, "Apply Filters");
 			putValue(SHORT_DESCRIPTION, "Limit results by categories");
