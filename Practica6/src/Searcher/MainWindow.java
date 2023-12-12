@@ -470,7 +470,7 @@ public class MainWindow {
 			else if (txtLineWords.getText().isEmpty()) {
 //				if nothing changed in Line Filter we will search the episodes
 				System.out.println("search Episodes");
-				searchType = SearchTypes.EPISODES_ONLY;
+				searchType = SearchTypes.EPISODES_AND_LINES;
 			}
 			
 			else if (txtEpTitle.getText().isEmpty() &&
@@ -507,11 +507,8 @@ public class MainWindow {
 			System.out.println(index);
 			sp.addFacetFilter(FacetFilters.EPISODE_YEAR,episodeYears[index]);
 		}
-		
-		if(searchType != SearchTypes.EPISODES_ONLY) {
-			if(cmbLineCharacter.getSelectedIndex() != 0) {
-				sp.addFacetFilter(FacetFilters.LINE_CHARACTER, lineCharacters[cmbLineCharacter.getSelectedIndex() - 1]);
-			}
+		if(cmbLineCharacter.getSelectedIndex() != 0) {
+			sp.addFacetFilter(FacetFilters.LINE_CHARACTER, lineCharacters[cmbLineCharacter.getSelectedIndex() - 1]);
 		}
 		
 		
@@ -534,11 +531,6 @@ public class MainWindow {
 		case EPISODES_AND_LINES:
 			results = is.search(sp);
 			cmbLineCharacter.setEnabled(true);
-			break;
-		case EPISODES_ONLY:
-			results = is.searchEpisodes(sp);
-			cmbLineCharacterModel.removeAllElements();
-			cmbLineCharacter.setEnabled(false);
 			break;
 		case LINES_ONLY:
 			results = is.searchLines(sp);

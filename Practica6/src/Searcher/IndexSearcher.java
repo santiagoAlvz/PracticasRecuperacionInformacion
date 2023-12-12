@@ -128,42 +128,6 @@ public class IndexSearcher {
 		
 		return returnValue;
 	}
-
-	
-	public LinkedHashMap<String,ArrayList<String>> searchEpisodes(SearchParameters sp) {		
-		System.out.println("search Episodes");
-		
-		LinkedHashMap<String,ArrayList<String>> returnValue = new LinkedHashMap<String,ArrayList<String>>();
-		String episodeData;
-		TopDocs episodes;
-		fc = new FacetsCollector();
-				
-		try {
-			episodes = FacetsCollector.search(episodeSearcher, sp.getEpisodeQuery(), 100, fc);
-			
-			Facets episodeFacets = new FastTaxonomyFacetCounts(episodeTaxoReader, new FacetsConfig(), fc);
-			if(episodes.scoreDocs.length > 0) {
-				//episodeYears = new LabelAndValue[]();
-				episodeYears = null;
-				episodeYears = episodeFacets.getTopChildren(1000,"original_air_year").labelValues;
-				
-				seasons = null;
-				seasons = episodeFacets.getTopChildren(100,"season").labelValues;
-			}
-			
-			for(ScoreDoc doc: episodes.scoreDocs) {
-				Document episode = episodeSearcher.doc(doc.doc);
-				episodeData = getEpisodeData(episode);
-				
-				returnValue.put(episodeData,null);
-			}
-			
-		}catch(IOException e) {
-			System.out.println(e.getMessage());
-		}
-		
-		return returnValue;
-	}
 		
 	public LinkedHashMap<String,ArrayList<String>> searchLines(SearchParameters sp) {
 		System.out.println("search Lines");

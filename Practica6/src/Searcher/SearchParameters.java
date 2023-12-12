@@ -25,6 +25,7 @@ public class SearchParameters {
 	private BooleanQuery.Builder scriptBQBuilder = new BooleanQuery.Builder();
 	private DrillDownQuery episodeFacetFilters;
 	private DrillDownQuery lineFacetFilters;
+	private int episodeParameters = 0, lineParameters = 0;
 	private boolean lineFacetsApplied = false, episodeFacetsApplied = false;
 	
 	/**
@@ -34,12 +35,26 @@ public class SearchParameters {
 	 * @return The BooleanQuery representation of the episode filters
 	 */
 	public SearchParameters() {
-		episodeFacetFilters = new DrillDownQuery(new FacetsConfig());
-		lineFacetFilters = new DrillDownQuery(new FacetsConfig(), scriptBQBuilder.build());
+	}
+	
+	private Query getBasicEpisodeQuery() {
+		if(lineParameters == 0) {
+			return new MatchAllDocsQuery();
+		}
+		return episodeBQBuilder.build();
+	}
+	
+	private Query getBasicScriptQuery() {
+		if(lineParameters == 0) {
+			return new MatchAllDocsQuery();
+		}
+		return scriptBQBuilder.build();
 	}
 	
 	public void prepareFacets() {
 		episodeFacetFilters = new DrillDownQuery(new FacetsConfig(), episodeBQBuilder.build());
+		
+		lineFacetFilters = new DrillDownQuery(new FacetsConfig(), getBasicScriptQuery());
 	}
 	
 	public Query getEpisodeQuery() {
@@ -47,12 +62,16 @@ public class SearchParameters {
 			return episodeFacetFilters;
 		}
 				
-		return episodeBQBuilder.build();
+		return getBasicEpisodeQuery();
 	}
 	
 	public Query getScriptQuery() {
 		if(lineFacetsApplied) {
 			return lineFacetFilters;
+		}
+		
+		if(lineParameters == 0) {
+			return new MatchAllDocsQuery();
 		}
 		
 		return scriptBQBuilder.build();
@@ -97,14 +116,17 @@ public class SearchParameters {
 				System.out.println(e.getMessage());
 			}
 			
+			episodeParameters++;
 			break;
 		case EPISODE_RATING_GREATER_THAN:
 			qe = FloatPoint.newRangeQuery("imdb_rating", Float.parseFloat(text), 10.0f);
 			episodeBQBuilder.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
+			episodeParameters++;
 			break;
 		case EPISODE:
 			qe = IntPoint.newExactQuery("number_in_season", Integer.parseInt(text));
 			episodeBQBuilder.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
+			episodeParameters++;
 			break;
 		case EPISODE_TITLE:
 			an = new EnglishAnalyzer();
@@ -117,6 +139,7 @@ public class SearchParameters {
 				System.out.println(e.getMessage());
 			}
 			
+			episodeParameters++;
 			break;
 		case LINE_CHARACTER:
 			an = new SimpleAnalyzer();
@@ -128,6 +151,7 @@ public class SearchParameters {
 			} catch (ParseException e) {
 				System.out.println(e.getMessage());
 			}
+			lineParameters++;
 			break;
 		case LINE_SPOKEN_WORDS:
 			an = new EnglishAnalyzer();
@@ -139,6 +163,7 @@ public class SearchParameters {
 			} catch (ParseException e) {
 				System.out.println(e.getMessage());
 			}
+			lineParameters++;
 			break;
 		default:
 			break;
