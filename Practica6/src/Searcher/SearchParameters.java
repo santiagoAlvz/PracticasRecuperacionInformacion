@@ -34,8 +34,6 @@ public class SearchParameters {
 	 * 
 	 * @return The BooleanQuery representation of the episode filters
 	 */
-	public SearchParameters() {
-	}
 	
 	private Query getBasicEpisodeQuery() {
 		if(episodeParameters == 0) {
