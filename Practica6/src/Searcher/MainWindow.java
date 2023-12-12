@@ -63,6 +63,7 @@ public class MainWindow {
 	private JTextField txtEpTitle;
 	private JTextField txtLineWords;
 	private JSpinner spnEpRating;
+	private JSpinner min_season, max_season;
 	private JTree treeResults;
 	private DefaultMutableTreeNode treeRoot = new DefaultMutableTreeNode("Root");
 	private DefaultTreeModel resultsTreeModel = new DefaultTreeModel(treeRoot);
@@ -72,11 +73,13 @@ public class MainWindow {
 	private JCheckBox checkBox_episode;
 	private JSpinner numberEpisode;
 	private JLabel lblResults;
-	private DefaultListModel<String> lstEpYearsModel; 
+	private DefaultListModel<String> lstEpYearsModel;
 	private JButton btnApplyFilters;
 	private JList<String> lstEpYears;
 	private LabelAndValue[] episodeYears, lineCharacters;
-	private SearchParameters sp = new SearchParameters();
+	private LabelAndValue[] seasons;
+	private LabelAndValue min_s, max_s;
+ 	private SearchParameters sp = new SearchParameters();
 	private SearchTypes searchType;
 	private final Action action_1 = new SwingAction();
 	private JComboBox cmbLineCharacter;
@@ -360,15 +363,16 @@ public class MainWindow {
 		gbc_lblNewLabel_1.gridy = 1;
 		panel_6.add(lblNewLabel_1, gbc_lblNewLabel_1);
 		
-		JSpinner spinner = new JSpinner();
+		min_season = new JSpinner();
+//		min_season.setValue(1);
 		GridBagConstraints gbc_spinner = new GridBagConstraints();
 		gbc_spinner.fill = GridBagConstraints.BOTH;
 		gbc_spinner.insets = new Insets(0, 0, 5, 0);
 		gbc_spinner.gridx = 1;
 		gbc_spinner.gridy = 1;
-		panel_6.add(spinner, gbc_spinner);
+		panel_6.add(min_season, gbc_spinner);
 		
-		JLabel lblNewLabel_2 = new JLabel("Max. Season");
+		JLabel lblNewLabel_2 = new JLabel("Max Season");
 		GridBagConstraints gbc_lblNewLabel_2 = new GridBagConstraints();
 		gbc_lblNewLabel_2.fill = GridBagConstraints.BOTH;
 		gbc_lblNewLabel_2.insets = new Insets(0, 0, 5, 5);
@@ -376,13 +380,14 @@ public class MainWindow {
 		gbc_lblNewLabel_2.gridy = 2;
 		panel_6.add(lblNewLabel_2, gbc_lblNewLabel_2);
 		
-		JSpinner spinner_1 = new JSpinner();
+		max_season = new JSpinner();
+//		max_season.setValue(35);
 		GridBagConstraints gbc_spinner_1 = new GridBagConstraints();
 		gbc_spinner_1.fill = GridBagConstraints.BOTH;
 		gbc_spinner_1.insets = new Insets(0, 0, 5, 0);
 		gbc_spinner_1.gridx = 1;
 		gbc_spinner_1.gridy = 2;
-		panel_6.add(spinner_1, gbc_spinner_1);
+		panel_6.add(max_season, gbc_spinner_1);
 		
 		JLabel lblYear = new JLabel("Year");
 		GridBagConstraints gbc_lblYear = new GridBagConstraints();
@@ -427,6 +432,7 @@ public class MainWindow {
 	}
 	private class searchIndex extends AbstractAction {
 		private static final long serialVersionUID = 8374267074142991082L;
+		
 		
 		public searchIndex() {
 			putValue(NAME, "Search Index");
@@ -492,16 +498,28 @@ public class MainWindow {
 			//lst
 		}
 	public void actionPerformed(ActionEvent e) {
+		sp.prepareFacets();
+		
 		int selectedYears[] = lstEpYears.getSelectedIndices();
 		
 		for(int index: selectedYears) {
-			sp.addFacetFilter(FacetFilters.EPISODE_YEAR, episodeYears[index]);
+			System.out.println(index);
+			sp.addFacetFilter(FacetFilters.EPISODE_YEAR,episodeYears[index]);
 		}
 		
 		if(cmbLineCharacter.getSelectedIndex() != 0) {
 			sp.addFacetFilter(FacetFilters.LINE_CHARACTER, lineCharacters[cmbLineCharacter.getSelectedIndex() - 1]);
 		}
 		
+		
+		for (LabelAndValue f: seasons) {
+			if (Integer.parseInt(f.label) >= (int) min_season.getValue() && 
+				Integer.parseInt(f.label) <= (int) max_season.getValue() ) {
+//				System.out.println(f);
+				sp.addFacetFilter(FacetFilters.SEASONS,f);
+			}
+		}
+			
 		searchIndex();
 		}
 	}
@@ -552,7 +570,21 @@ public class MainWindow {
 		episodeYears = is.getResultYearsFacets();
 		for(LabelAndValue f: episodeYears) {
 			lstEpYearsModel.addElement("" + f);
-		}					
+		}
+		
+//		from results of the query find min and max season and set them to the UI
+		seasons = is.getResultSeasons();
+		min_s = seasons[0];
+		max_s = seasons[0];
+		for (LabelAndValue f: seasons) {
+			if (Integer.parseInt(f.label) <  Integer.parseInt(min_s.label)) min_s = f;
+			if (Integer.parseInt(f.label) > Integer.parseInt(max_s.label)) max_s = f; 
+		}
+
+//		set min and max season
+		min_season.setValue(Integer.parseInt(min_s.label));
+		max_season.setValue(Integer.parseInt(max_s.label));
+
 		
 		lineCharacters = is.getResultCharactersFacets();
 		for(LabelAndValue f: lineCharacters) {
@@ -565,6 +597,7 @@ public class MainWindow {
 		} else {
 			cmbLineCharacter.setSelectedIndex(1);
 		}
+		
 		
 		resultsTreeModel.reload(treeRoot);
 		btnApplyFilters.setEnabled(true);

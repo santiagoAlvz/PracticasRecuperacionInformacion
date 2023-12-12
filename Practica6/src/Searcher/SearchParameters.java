@@ -35,6 +35,11 @@ public class SearchParameters {
 	 */
 	public SearchParameters() {
 		episodeFacetFilters = new DrillDownQuery(new FacetsConfig());
+		lineFacetFilters = new DrillDownQuery(new FacetsConfig(), scriptBQBuilder.build());
+	}
+	
+	public void prepareFacets() {
+		episodeFacetFilters = new DrillDownQuery(new FacetsConfig(), episodeBQBuilder.build());
 	}
 	
 	public Query getEpisodeQuery() {
@@ -42,7 +47,6 @@ public class SearchParameters {
 			return episodeFacetFilters;
 		}
 		
-		episodeFacetFilters = new DrillDownQuery(new FacetsConfig(), episodeBQBuilder.build());
 				
 		return episodeBQBuilder.build();
 	}
@@ -51,8 +55,6 @@ public class SearchParameters {
 		if(lineFacetsApplied) {
 			return lineFacetFilters;
 		}
-		
-		lineFacetFilters = new DrillDownQuery(new FacetsConfig(), scriptBQBuilder.build());
 		
 		return scriptBQBuilder.build();
 	}
@@ -154,7 +156,9 @@ public class SearchParameters {
 			lineFacetsApplied = true;
 			lineFacetFilters.add("raw_character_text", facetData.label);
 			break;
-		default:
+		case SEASONS:
+			episodeFacetsApplied = true;
+			episodeFacetFilters.add("season", facetData.label);
 			break;		
 		}
 	}

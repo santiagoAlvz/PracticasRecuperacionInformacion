@@ -2,5 +2,6 @@ package Searcher;
 
 public enum FacetFilters {
 	EPISODE_YEAR,
-	LINE_CHARACTER
+	LINE_CHARACTER,
+	SEASONS
 }

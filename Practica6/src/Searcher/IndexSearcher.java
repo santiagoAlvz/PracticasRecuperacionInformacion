@@ -41,6 +41,7 @@ public class IndexSearcher {
 	private FacetsCollector fc = new FacetsCollector();
 	
 	private LabelAndValue episodeYears[] = {}, lineCharacters[] = {};
+	private LabelAndValue seasons[] = {};
 	
 	/**
 	 * Loads the indexes from the filesystem
@@ -80,7 +81,7 @@ public class IndexSearcher {
 		boolean foundLines = false;
 		
 		try {
-			episodes = episodeSearcher.search(sp.getEpisodeQuery(), 30);
+			episodes = episodeSearcher.search(sp.getEpisodeQuery(), 3000);
 									
 			for(ScoreDoc doc: episodes.scoreDocs) {
 				Document episode = episodeSearcher.doc(doc.doc);
@@ -95,7 +96,7 @@ public class IndexSearcher {
 				bqbuilder.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 				BooleanQuery query = bqbuilder.build();
 				
-				lines = FacetsCollector.search(scriptSearcher, query, 80, lineFC);
+				lines = FacetsCollector.search(scriptSearcher, query, 1000, lineFC);
 				if(lines.scoreDocs.length > 0){
 					foundLines = true;
 					returnValue.put(episodeData, episodeLines);
@@ -112,7 +113,8 @@ public class IndexSearcher {
 			
 			if(episodes.scoreDocs.length > 0) {
 				Facets episodeFacets = new FastTaxonomyFacetCounts(episodeTaxoReader, new FacetsConfig(), fc);
-				episodeYears = episodeFacets.getTopChildren(100,"original_air_year").labelValues;
+				episodeYears = episodeFacets.getTopChildren(1000,"original_air_year").labelValues;
+				seasons = episodeFacets.getTopChildren(100, "season").labelValues;
 			}
 			
 			if(foundLines) {
@@ -144,7 +146,10 @@ public class IndexSearcher {
 			if(episodes.scoreDocs.length > 0) {
 				//episodeYears = new LabelAndValue[]();
 				episodeYears = null;
-				episodeYears = episodeFacets.getTopChildren(100,"original_air_year").labelValues;
+				episodeYears = episodeFacets.getTopChildren(1000,"original_air_year").labelValues;
+				
+				seasons = null;
+				seasons = episodeFacets.getTopChildren(100,"season").labelValues;
 			}
 			
 			for(ScoreDoc doc: episodes.scoreDocs) {
@@ -211,10 +216,11 @@ public class IndexSearcher {
 			
 			if(linesHits.length > 0) {
 				Facets episodeFacets = new FastTaxonomyFacetCounts(episodeTaxoReader, new FacetsConfig(), fc);
-				episodeYears = episodeFacets.getTopChildren(100,"original_air_year").labelValues;
+				episodeYears = episodeFacets.getTopChildren(1000,"original_air_year").labelValues;
+				seasons = episodeFacets.getTopChildren(100,"season").labelValues;
 				
 				Facets lineFacets = new FastTaxonomyFacetCounts(new DirectoryTaxonomyReader(FSDirectory.open(Paths.get(scriptsFacetPath))), new FacetsConfig(), lineFC);
-				lineCharacters = lineFacets.getTopChildren(10, "raw_character_text").labelValues;
+				lineCharacters = lineFacets.getTopChildren(100, "raw_character_text").labelValues;
 			}
 
 		} catch (IOException e) {
@@ -242,8 +248,14 @@ public class IndexSearcher {
 		return episodeYears;
 	}
 	
+	public LabelAndValue[] getResultSeasons() {
+		return seasons;
+	}
+	
+	
 	public LabelAndValue[] getResultCharactersFacets() {
 		return lineCharacters;
 	}
+	
 
 }
