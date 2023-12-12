@@ -38,7 +38,7 @@ public class SearchParameters {
 	}
 	
 	private Query getBasicEpisodeQuery() {
-		if(lineParameters == 0) {
+		if(episodeParameters == 0) {
 			return new MatchAllDocsQuery();
 		}
 		return episodeBQBuilder.build();
