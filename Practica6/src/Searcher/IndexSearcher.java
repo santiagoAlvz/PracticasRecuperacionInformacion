@@ -113,16 +113,10 @@ public class IndexSearcher {
 			
 			if(foundLines) {
 				Facets episodeFacets = new FastTaxonomyFacetCounts(episodeTaxoReader, new FacetsConfig(), fc);
-<<<<<<< HEAD
-				episodeYears = episodeFacets.getTopChildren(100,"original_air_year").labelValues;
-
-=======
+				
 				episodeYears = episodeFacets.getTopChildren(1000,"original_air_year").labelValues;
 				seasons = episodeFacets.getTopChildren(100, "season").labelValues;
-			}
-			
-			if(foundLines) {
->>>>>>> c0796e9610d8ada062a623fd61557ee773ea2c4a
+
 				Facets lineFacets = new FastTaxonomyFacetCounts(scriptTaxoReader, new FacetsConfig(), lineFC);				
 				lineCharacters = lineFacets.getTopChildren(100, "raw_character_text").labelValues;
 			}
