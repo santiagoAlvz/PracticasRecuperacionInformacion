@@ -110,12 +110,10 @@ public class IndexSearcher {
 				}			
 			}
 			
-			if(episodes.scoreDocs.length > 0) {
+			if(foundLines) {
 				Facets episodeFacets = new FastTaxonomyFacetCounts(episodeTaxoReader, new FacetsConfig(), fc);
 				episodeYears = episodeFacets.getTopChildren(100,"original_air_year").labelValues;
-			}
-			
-			if(foundLines) {
+
 				Facets lineFacets = new FastTaxonomyFacetCounts(scriptTaxoReader, new FacetsConfig(), lineFC);				
 				lineCharacters = lineFacets.getTopChildren(100, "raw_character_text").labelValues;
 			}

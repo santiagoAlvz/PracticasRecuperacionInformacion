@@ -37,12 +37,15 @@ public class SearchParameters {
 		episodeFacetFilters = new DrillDownQuery(new FacetsConfig());
 	}
 	
+	public prepareForFacets() {
+		episodeFacetFilters = new DrillDownQuery(new FacetsConfig(), episodeBQBuilder.build());
+		lineFacetFilters = new DrillDownQuery(new FacetsConfig(), scriptBQBuilder.build());
+	}
+	
 	public Query getEpisodeQuery() {
 		if(episodeFacetsApplied) {
 			return episodeFacetFilters;
 		}
-		
-		episodeFacetFilters = new DrillDownQuery(new FacetsConfig(), episodeBQBuilder.build());
 				
 		return episodeBQBuilder.build();
 	}
@@ -51,9 +54,7 @@ public class SearchParameters {
 		if(lineFacetsApplied) {
 			return lineFacetFilters;
 		}
-		
-		lineFacetFilters = new DrillDownQuery(new FacetsConfig(), scriptBQBuilder.build());
-		
+			
 		return scriptBQBuilder.build();
 	}
 

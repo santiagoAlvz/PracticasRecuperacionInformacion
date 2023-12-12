@@ -499,8 +499,10 @@ public class MainWindow {
 			sp.addFacetFilter(FacetFilters.EPISODE_YEAR, episodeYears[index]);
 		}
 		
-		if(cmbLineCharacter.getSelectedIndex() != 0) {
-			sp.addFacetFilter(FacetFilters.LINE_CHARACTER, lineCharacters[cmbLineCharacter.getSelectedIndex() - 1]);
+		if(searchType != SearchTypes.EPISODES_ONLY) {
+			if(cmbLineCharacter.getSelectedIndex() != 0) {
+				sp.addFacetFilter(FacetFilters.LINE_CHARACTER, lineCharacters[cmbLineCharacter.getSelectedIndex() - 1]);
+			}
 		}
 		
 		searchIndex();
@@ -517,6 +519,7 @@ public class MainWindow {
 			break;
 		case EPISODES_ONLY:
 			results = is.searchEpisodes(sp);
+			cmbLineCharacterModel.removeAllElements();
 			cmbLineCharacter.setEnabled(false);
 			break;
 		case LINES_ONLY:
