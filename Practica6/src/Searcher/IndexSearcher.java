@@ -96,7 +96,7 @@ public class IndexSearcher {
 				bqbuilder.add(new BooleanClause(qe, BooleanClause.Occur.FILTER));
 				BooleanQuery query = bqbuilder.build();
 				
-				lines = FacetsCollector.search(scriptSearcher, query, 1000, lineFC);
+				lines = FacetsCollector.search(scriptSearcher, query, 10, lineFC);
 				if(lines.scoreDocs.length > 0){
 					foundLines = true;
 					returnValue.put(episodeData, episodeLines);

@@ -309,6 +309,7 @@ public class MainWindow {
 		gbc_scrollPane.gridx = 0;
 		gbc_scrollPane.gridy = 6;
 		topPanel.add(scrollPane, gbc_scrollPane);
+		scrollPane.getVerticalScrollBar().setUnitIncrement(16);
 		
 		JPanel panel_5 = new JPanel();
 		scrollPane.setViewportView(panel_5);
